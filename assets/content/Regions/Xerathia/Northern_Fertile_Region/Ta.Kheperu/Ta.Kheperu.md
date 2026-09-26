@@ -1,12 +1,10 @@
 ---
-tags: []
-description: "Ancient continuous civilization of Xerathia's Northern Fertile Region—river-valley empire whose flood-cycle theology, priestly bureaucracy, and remarkable capacity to digest its own conquerors have outlasted every rival power on the continent."
-type: affiliation
-name:
-  full: Empire of Ta'Kheperu
-  aliases: []
 shortcode: empirtkhpr
+name: {full: Empire of Ta'Kheperu, aliases: []}
+type: affiliation
 subType: polity
+description: "Ancient continuous civilization of Xerathia's Northern Fertile Region—river-valley empire whose flood-cycle theology, priestly bureaucracy, and remarkable capacity to digest its own conquerors have outlasted every rival power on the continent."
+tags: []
 data:
   banner: takheperubnr
   templatePriority: null
@@ -16,108 +14,81 @@ data:
   governance:
     model: monarchy
     summary: >-
-      Divine kingship over hereditary nomarchs and a scribal bureaucracy: the Per-Aá is nominal
-      supreme priest of every god, and the polite fiction holds the whole structure up.
+      Divine kingship over hereditary nomarchs and a scribal bureaucracy: the Per-Aá is nominal supreme priest of every god, and the polite fiction holds the whole structure up.
     ranks:
       - level: 0
         title: Outcast
         lore: expelledrnk
         description: >-
-          Driven from the nomes and denied burial, which is the true sentence: without a tomb
-          there is no continuation.
+          Driven from the nomes and denied burial, which is the true sentence: without a tomb there is no continuation.
       - level: 1
         title: Bondsman
         lore: slavernk
         description: >-
-          Bound to an estate or a temple, owing labor on its fields and its works and holding
-          nothing of his own.
+          Bound to an estate or a temple, owing labor on its fields and its works and holding nothing of his own.
       - level: 2
         title: Farmer
         lore: commonerrnk
         description: >-
-          Working the floodplain under a lord or a temple, owing a share of the harvest and
-          labor on the canals.
+          Working the floodplain under a lord or a temple, owing a share of the harvest and labor on the canals.
       - level: 3
         title: Artisan or Merchant
         lore: journeymanrnk
         description: >-
-          Of the trades—potters, weavers, boatmen, traders—free of the fields and taxed
-          on their work.
+          Of the trades—potters, weavers, boatmen, traders—free of the fields and taxed on their work.
       - level: 4
         title: Scribe
         lore: clerkrnk
         description: >-
-          Lettered, and therefore the empire's principal path upward: a talented child of any
-          house may enter the schools.
+          Lettered, and therefore the empire's principal path upward: a talented child of any house may enter the schools.
       - level: 5
         title: Heka'hut
         lore: landedlordrnk
         description: >-
-          Ruler of an estate—its manor, its fields and its village—answerable to the nomarch
-          above.
+          Ruler of an estate—its manor, its fields and its village—answerable to the nomarch above.
       - level: 6
         title: Haty'a
         lore: greatlordrnk
         description: >-
-          Nomarch: hereditary governor of a nome, commanding its army, collecting its taxes
-          and dispensing its justice.
+          Nomarch: hereditary governor of a nome, commanding its army, collecting its taxes and dispensing its justice.
       - level: 7
         title: Iry'pat
         lore: greatlordrnk
         description: >-
-          Of the royal house and the most exalted families, the highest hereditary rank below
-          the throne.
+          Of the royal house and the most exalted families, the highest hereditary rank below the throne.
       - level: 8
         title: Per-Aá
         lore: sovereignrnk
         description: >-
-          The divine sovereign, on whose claim all temple and secular authority rests—a fiction
-          nobody believes and nobody may abandon.
+          The divine sovereign, on whose claim all temple and secular authority rests—a fiction nobody believes and nobody may abandon.
     offices:
       Per-Aá: The divine sovereign, nominal supreme priest of every god and apex of the state.
       Iry'pat: >-
-        Highest hereditary rank below the throne, held by the royal house and the most exalted
-        noble families.
+        Highest hereditary rank below the throne, held by the royal house and the most exalted noble families.
       Haty'a: Nomarch, governing a nome with armies, taxes and courts of his own.
       Heka'hut: Ruler of an estate—manor, fields and village—answerable to the nomarch.
       Nebet'hut: Mistress of an estate, holding the same authority in her own right.
       Nebet: Lady of the court, whose standing comes from position rather than from land.
       Semer: >-
-        Companion of the Per-Aá: a title of royal favor and access rather than territorial
-        authority.
+        Companion of the Per-Aá: a title of royal favor and access rather than territorial authority.
       Wer'Hekau: >-
-        Great of Sacred Power—High Priest of a major temple, master of its estates and voice
-        of its god.
+        Great of Sacred Power—High Priest of a major temple, master of its estates and voice of its god.
       Hem'Netjer: >-
-        Servant of the God—the ordained priesthood that conducts the rites and runs the
-        temple's lands.
+        Servant of the God—the ordained priesthood that conducts the rites and runs the temple's lands.
       Wab: >-
-        Purified One—acolyte in the temple schools, years from ordination and already better
-        educated than most.
-      Overseer of Scribes: Head of a bureau of the administration, commanding the lettered
-        men who actually govern.
+        Purified One—acolyte in the temple schools, years from ordination and already better educated than most.
+      Overseer of Scribes: Head of a bureau of the administration, commanding the lettered men who actually govern.
   seat: wasetkara
-  domains:
-    - takheperurgn
+  domains: [takheperurgn]
   population: 19000000
-  economy:
-    - affiliation-bthntrdhss
-    - affiliation-perhati
-    - lore-tkhprcrncy
-  lore:
-    - humanflk
+  economy: [affiliation-bthntrdhss, affiliation-perhati, lore-tkhprcrncy]
+  lore: [humanflk]
   parents: []
-  relations:
-    kemtnpnthn: aligned
-    mtrrchybth: aligned
-    vylarinmpr: unaligned
-    okharis: unaligned
-terran_analog: "Egypt + Sudan (Nile valley civilization)"
-packFolder: takheperu
-sohl:
-  system:
-    commonSkills:
-      - kheperlng
+  relations: {kemtnpnthn: aligned, mtrrchybth: aligned, vylarinmpr: unaligned, okharis: unaligned}
+  packFolder: takheperu
+sohl: {system: {commonSkills: [kheperlng]}}
+
+# terran_analog: "Egypt + Sudan (Nile valley civilization)"
 ---
 
 {{< cartouche slug="takheperu" height="10rem" align="right" >}}

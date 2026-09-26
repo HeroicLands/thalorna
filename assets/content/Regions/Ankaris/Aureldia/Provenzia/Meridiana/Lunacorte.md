@@ -1,22 +1,11 @@
 ---
-tags:
-  - city
-  - port
-  - coastal
-description: "The capital of Provènzia on the warm southern shore—the Crown's seat, the home of the Còtière speech, and the city where the long argument between the crown and the Council of Peers is conducted."
+shortcode: lunacorte
+name: {full: Lunacòrte, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - meridiana
-  population: 70000
-name:
-  full: Lunacòrte
-  aliases: []
-shortcode: lunacorte
-packFolder: provenzia
+description: "The capital of Provènzia on the warm southern shore—the Crown's seat, the home of the Còtière speech, and the city where the long argument between the crown and the Council of Peers is conducted."
+tags: [city, port, coastal]
+data: {demonym: null, lore: [], parents: [meridiana], population: 70000, packFolder: provenzia}
 ---
 
 **Lunacòrte** is the capital of the [[affiliation-kngdmprvnz|Kingdom of Provènzia]] and, with some

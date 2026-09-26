@@ -1,24 +1,11 @@
 ---
-tags:
-  - mountain
-  - mining
-  - sacred
-  - inland
-description: "The gold-bearing mountain at the head of the Bhārava, whose alluvial wash has paid for three great temples, twenty-three pilgrim hostels and fifteen centuries of constitutional argument."
+shortcode: goldmountain
+name: {full: The Gold Mountain, aliases: [Suvarnagiri]}
 type: place
 subType: feature
-data:
-  demonym: null
-  lore: []
-  parents:
-    - suvarnagirijnpd
-  population: null
-name:
-  full: The Gold Mountain
-  aliases:
-    - Suvarnagiri
-shortcode: goldmountain
-packFolder: vedyara
+description: "The gold-bearing mountain at the head of the Bhārava, whose alluvial wash has paid for three great temples, twenty-three pilgrim hostels and fifteen centuries of constitutional argument."
+tags: [mountain, mining, sacred, inland]
+data: {demonym: null, lore: [], parents: [suvarnagirijnpd], population: null, packFolder: vedyara}
 ---
 
 The **Gold Mountain**—_suvarna_ (gold), _giri_ (mountain)—stands at the head of [[place-bharavarivr|the Bhārava]], and the janapada, the temple-seat and the whole constitutional apparatus below it are named for it. The gold is alluvial. It comes out of the wash of the mountain's streams and not out of a shaft, and it has come out of them at much the same rate for fifteen centuries.

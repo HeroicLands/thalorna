@@ -1,21 +1,11 @@
 ---
-tags:
-  - valley
-  - inland
-description: "A quickened blood-field in the western valleys, where the ground grows too well—the best land in the barony of Kývarel, farmed by people who would rather not discuss why."
+shortcode: bldfldkyvarel
+name: {full: Blood-field of Kývarel, aliases: []}
 type: place
 subType: site
-data:
-  demonym: null
-  lore: []
-  parents:
-    - zuravlenrgn
-  population: null
-name:
-  full: Blood-field of Kývarel
-  aliases: []
-shortcode: bldfldkyvarel
-packFolder: provenzia
+description: "A quickened blood-field in the western valleys, where the ground grows too well—the best land in the barony of Kývarel, farmed by people who would rather not discuss why."
+tags: [valley, inland]
+data: {demonym: null, lore: [], parents: [zuravlenrgn], population: null, packFolder: provenzia}
 ---
 
 In the western valleys, in the barony of Kývarel—held with [[place-zuravlenrgn|Zûravlen]] by Álegar

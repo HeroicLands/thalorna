@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Powerfont
-  aliases:
-    - Well
-description: "Channel of raw power; caster draws energy for spellcasting."
 shortcode: pwrfnt
+name: {full: Powerfont, aliases: [Well]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
+description: "Channel of raw power; caster draws energy for spellcasting."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Well
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Well
 ---
 
 The caster establishes a nexus of shared magical energy, anchored to a physical location and accessible to any practitioner who has been granted attunement. The powerfont manifests as a barely perceptible thickening of the air, a sense of warmth and potential that practitioners find immediately recognizable. Those who draw from it feel their reserves replenishing steadily, as though drinking from a deep well that refills as quickly as it is tapped.

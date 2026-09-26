@@ -1,16 +1,11 @@
 ---
-tags: []
-name:
-  full: Sêmarion Script
-  aliases:
-    - Sêmarion
-description: "The imperial letters—the everyday alphabetic hand of Vylaria, and the script most of the civilized west now writes in."
 shortcode: semrnscrpt
+name: {full: Sêmarion Script, aliases: [Sêmarion]}
 type: skill
 subType: script
-data:
-  icon: icon-speaking
-  templatePriority: null
+description: "The imperial letters—the everyday alphabetic hand of Vylaria, and the script most of the civilized west now writes in."
+tags: []
+data: {icon: icon-speaking, templatePriority: null, packFolder: script}
 sohl:
   system:
     skillBaseFormula: "@rea, @per"
@@ -19,10 +14,7 @@ sohl:
     combatCategory: none
     parentSkillCode: script
     initSkillMult: 0
-packFolder: script
-flags:
-  "thalorna":
-    script_family: Alphabetic
+  flags: {"thalorna": {script_family: Alphabetic}}
 ---
 
 The Sêmarion is the working alphabet of the [[affiliation-vylarinmpr|Vylarian Empire]]—twenty-four letters written left to right, each with a majuscule and a minuscule form, one sign to one sound. Its name is simply the Vylari word for _the letters_, from _sêma_, "mark"; a single character is a _sêma_, and to a Vylarian clerk the word carries no more romance than "the alphabet" does. That flatness is a large part of why it traveled.

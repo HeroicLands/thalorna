@@ -1,19 +1,9 @@
 ---
-tags:
-  - town
-  - fortified
-description: "Fortified Town"
+shortcode: thorrborg
+name: {full: Thorrborg, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - vithgard
-  population: 700
-name:
-  full: Thorrborg
-  aliases: []
-shortcode: thorrborg
-packFolder: vithgard
+description: "Fortified Town"
+tags: [town, fortified]
+data: {demonym: null, lore: [], parents: [vithgard], population: 700, packFolder: vithgard}
 ---

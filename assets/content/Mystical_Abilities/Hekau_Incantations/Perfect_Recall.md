@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: Perfect Recall
-  aliases: []
-description: "Fixes a thing seen, heard or read so that it can be recovered exactly."
 shortcode: prfctrcll
+name: {full: Perfect Recall, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: rensesh
-  templatePriority: null
+description: "Fixes a thing seen, heard or read so that it can be recovered exactly."
+tags: [khemenu-hekau, incantation]
+data: {icon: rensesh, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: rensesh
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
-packFolder: hekauincantations
+    charges: {value: null, max: null}
 ---
 
 The scribal foundation, taught to every Wab of the House in their first season and to a good many

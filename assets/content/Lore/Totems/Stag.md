@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The stag as a totemic ideal, and the human character it describes."
+shortcode: stagttm
+name: {full: Stag, aliases: [Stag Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Stag
-  aliases:
-    - Stag Totem
-shortcode: stagttm
-packFolder: loretotems
-data:
-  banner: creaturebnr
+description: "The stag as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-stagtotem|Stag]]{float: top-left, size: medium}

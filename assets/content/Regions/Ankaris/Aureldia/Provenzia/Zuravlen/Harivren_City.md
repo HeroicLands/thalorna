@@ -1,22 +1,11 @@
 ---
-tags:
-  - city
-  - inland
-  - river
-description: "The great city of Provènzia's western march and seat of its Earl—an old inland stronghold turned administrative capital, host of the Giochi Grandi every fifth year, and the one place in Ankaris where the Black Flame is held openly by a man nobody can touch."
+shortcode: harivrencity
+name: {full: Hárivren City, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - zuravlenrgn
-  population: 34000
-name:
-  full: Hárivren City
-  aliases: []
-shortcode: harivrencity
-packFolder: provenzia
+description: "The great city of Provènzia's western march and seat of its Earl—an old inland stronghold turned administrative capital, host of the Giochi Grandi every fifth year, and the one place in Ankaris where the Black Flame is held openly by a man nobody can touch."
+tags: [city, inland, river]
+data: {demonym: null, lore: [], parents: [zuravlenrgn], population: 34000, packFolder: provenzia}
 ---
 
 **Hárivren** is the great city of Provènzia's **western march**—inland, on the river that gathers the

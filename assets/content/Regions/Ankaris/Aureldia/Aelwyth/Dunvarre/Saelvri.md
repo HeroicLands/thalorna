@@ -1,9 +1,10 @@
 ---
-tags:
-  - draft
-description: "A people of Aelwyth against whom the Kingdom of Dúnavarre prosecuted a crusade of extermination."
+shortcode: saelvri
+name: {full: Saelvri, aliases: []}
 type: affiliation
 subType: polity
+description: "A people of Aelwyth against whom the Kingdom of Dúnavarre prosecuted a crusade of extermination."
+tags: [draft]
 data:
   templatePriority: null
   demonym: null
@@ -21,16 +22,9 @@ data:
   economy: []
   lore: []
   parents: []
-  relations:
-    kingdmdnvr: nemesis
-name:
-  full: Saelvri
-  aliases: []
-shortcode: saelvri
-packFolder: aelwyth
-sohl:
-  system:
-    commonSkills: []
+  relations: {kingdmdnvr: nemesis}
+  packFolder: aelwyth
+sohl: {system: {commonSkills: []}}
 ---
 
 A people of Aelwyth against whom the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] prosecuted a crusade of extermination.

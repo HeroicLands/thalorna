@@ -1,23 +1,17 @@
 ---
-tags:
-  - city
-  - capital
-  - imperial
-description: "Imperial City (Capital)"
+shortcode: wasetkara
+name: {full: Wasetkara, aliases: []}
 type: place
 subType: settlement
+description: "Imperial City (Capital)"
+tags: [city, capital, imperial]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - wasetkaranome
+  parents: [wasetkaranome]
   population: 450000
-name:
-  full: Wasetkara
-  aliases: []
-shortcode: wasetkara
-packFolder: capitalnome
+  packFolder: capitalnome
 ---
 
 ## Overview

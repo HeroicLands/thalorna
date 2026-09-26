@@ -1,13 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: clerkrnk
+name: {full: Clerk, aliases: []}
 type: lore
 subType: law
-name:
-  full: Clerk
-  aliases: []
-shortcode: clerkrnk
 description: "Lettered and in a body's service, copying and reckoning under supervision."
+tags: [draft]
 ---
 
 Lettered and in a body's service, copying and reckoning under supervision.

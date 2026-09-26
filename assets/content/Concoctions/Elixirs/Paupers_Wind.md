@@ -1,19 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: "Pauper's Wind"
-  aliases:
-    - Airtap Elixir
-description: "Pale nearly-invisible breath elixir; halves breath need and exertion."
 shortcode: elxair
+name: {full: "Pauper's Wind", aliases: [Airtap Elixir]}
 type: concoctiongear
 subType: elixir
-hmk:
-  name: Airtap
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "Pale nearly-invisible breath elixir; halves breath need and exertion."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "na"
     strength: 0
-packFolder: elixirs
+
+# hmk:
+#   name: Airtap
 ---
 
 A pale, nearly invisible liquid that feels cool against the lips, as if one were tasting the breath itself. Tied to the Principle of Air (Hydälis), this elixir grants the imbiber extraordinary lung capacity and metabolic efficiency. Once swallowed, the body's hunger for breath diminishes to half—the imbiber can hold their breath twice as long as an ordinary person—while the fatigue that accumulates from movement and exertion comes at half the normal rate. Swimming, running, climbing: all demand less of the body's reserves.

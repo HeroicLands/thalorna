@@ -1,18 +1,9 @@
 ---
-tags:
-  - town
-description: "Town"
+shortcode: valdosta
+name: {full: Valdosta, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - hylen
-  population: 5000
-name:
-  full: Valdosta
-  aliases: []
-shortcode: valdosta
-packFolder: vylaria
+description: "Town"
+tags: [town]
+data: {demonym: null, lore: [], parents: [hylen], population: 5000, packFolder: vylaria}
 ---

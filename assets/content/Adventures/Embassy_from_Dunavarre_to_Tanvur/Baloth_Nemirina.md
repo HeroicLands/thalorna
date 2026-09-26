@@ -1,16 +1,8 @@
 ---
-tags:
-  - character
-  - draft
-name:
-  full: Baloth Nemirina
-  title: ""
-  given: Baloth
-  clan: Nemirina
-  aliases: []
-packFolder: adventures
 shortcode: balothnemirina
+name: {full: Baloth Nemirina, title: "", given: Baloth, clan: Nemirina, aliases: []}
 type: being
+tags: [character, draft]
 data:
   templatePriority: null
   archetypes: []
@@ -18,10 +10,10 @@ data:
   stations: []
   lore: []
   homes: []
-  affiliations:
-    - repblctrvn
+  affiliations: [repblctrvn]
   gender: male
   species: humanflk
+  packFolder: adventures
 ---
 
 # Appearance {#appearance}

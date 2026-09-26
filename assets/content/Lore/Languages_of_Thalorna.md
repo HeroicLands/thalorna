@@ -1,13 +1,9 @@
 ---
+shortcode: lnggsthlrn
+name: {full: Languages of Thalorna, aliases: [Languages]}
 type: doc
 subType: reference
-name:
-  full: Languages of Thalorna
-  aliases:
-    - Languages
-shortcode: lnggsthlrn
-data:
-  banner: null
+data: {banner: null}
 ---
 
 This note maps the languages spoken across [[place-worldthlrn|Thalorna]], the polities that speak them, and their linguistic heritage. Each language entry links to a full reference note with phonology, grammar, naming traditions, and name lists.

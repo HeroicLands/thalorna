@@ -1,19 +1,9 @@
 ---
-tags:
-  - port
-  - town
-description: "Port Town"
+shortcode: qadhirun
+name: {full: Qadhirun, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - haradregin
-  population: 30000
-name:
-  full: Qadhirun
-  aliases: []
-shortcode: qadhirun
-packFolder: harad
+description: "Port Town"
+tags: [port, town]
+data: {demonym: null, lore: [], parents: [haradregin], population: 30000, packFolder: harad}
 ---

@@ -1,19 +1,9 @@
 ---
-tags:
-  - port
-  - town
-description: "Port Town"
+shortcode: vashuran
+name: {full: Vashurán, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - kaliharargn
-  population: 5000
-name:
-  full: Vashurán
-  aliases: []
-shortcode: vashuran
-packFolder: kalihara
+description: "Port Town"
+tags: [port, town]
+data: {demonym: null, lore: [], parents: [kaliharargn], population: 5000, packFolder: kalihara}
 ---

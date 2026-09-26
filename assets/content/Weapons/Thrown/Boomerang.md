@@ -1,14 +1,10 @@
 ---
-tags: []
-name:
-  full: Boomerang
-  aliases: []
-description: "Curved throwing-stick breaks fleeing game; war-variant non-returning."
 shortcode: bmrg
+name: {full: Boomerang, aliases: []}
 type: weapongear
-data:
-  icon: icon-boomerang
-  templatePriority: null
+description: "Curved throwing-stick breaks fleeing game; war-variant non-returning."
+tags: []
+data: {icon: icon-boomerang, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: thrown
   weaponType: Club
@@ -23,14 +19,8 @@ sohl:
         name: Crush
         assocSkillCode: melee
         minParts: 1
-        attack:
-          spread: 4
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 6
-          modifier: 0
-          aspect: blunt
+        attack: {spread: 4, modifier: 0}
+        impactBase: {numDice: 1, die: 6, modifier: 0, aspect: blunt}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -59,22 +49,14 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 3
-        defense:
-          blockMod: 0
-          counterstrikeMod: 0
+        defense: {blockMod: 0, counterstrikeMod: 0}
       ranged:
         type: missile
         name: Ranged
         assocSkillCode: bmrng
         minParts: 1
-        attack:
-          spread: 0
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 6
-          modifier: 3
-          aspect: edged
+        attack: {spread: 0, modifier: 0}
+        impactBase: {numDice: 1, die: 6, modifier: 3, aspect: edged}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -106,7 +88,6 @@ sohl:
         maxVolleyMult: 3
         baseRangeBase: 240
         drawBase: 0
-packFolder: weapons
 ---
 
 A curved wooden throwing-stick that travels in a flat arc and strikes targets at a distance, the boomerang is a hunting tool pressed occasionally into war service. Heavy war-boomerangs do not return; they are thrown to break legs or ribs of fleeing game or skirmishers. Light returning variants are ceremonial; practical warriors keep them as backup implements.

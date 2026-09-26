@@ -1,23 +1,16 @@
 ---
-tags:
-  - village
-  - woodland
-  - sacred
-description: "The threshold enclave on the edge of the Áelendan tribal lands—small, deliberately placed, and the point through which the Sinalë deal with the rest of humanity by way of Áelendan intermediaries."
+shortcode: ethalosse
+name: {full: Ethalossë, aliases: []}
 type: place
 subType: settlement
+description: "The threshold enclave on the edge of the Áelendan tribal lands—small, deliberately placed, and the point through which the Sinalë deal with the rest of humanity by way of Áelendan intermediaries."
+tags: [village, woodland, sacred]
 data:
   demonym: null
-  lore:
-    - flksinale
-  parents:
-    - alndntrblnds
+  lore: [flksinale]
+  parents: [alndntrblnds]
   population: 70
-name:
-  full: Ethalossë
-  aliases: []
-shortcode: ethalosse
-packFolder: elavendre
+  packFolder: elavendre
 ---
 
 **Ethalossë** sits at the eastern margin of the [[place-alndntrblnds|Áelendan Tribal Lands]], where the

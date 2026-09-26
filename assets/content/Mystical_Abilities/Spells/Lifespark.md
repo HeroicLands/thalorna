@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Lifespark
-  aliases:
-    - Breath
-description: "Creates self-replenishing pocket of breathable air in drowning victim."
 shortcode: lfsprk
+name: {full: Lifespark, aliases: [Breath]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
+description: "Creates self-replenishing pocket of breathable air in drowning victim."
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Breath
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Breath
 ---
 
 The caster breathes a whisper of magical vitality into a drowning or suffocating creature, kindling a small reserve of air within their lungs that sustains them even when no natural breath is possible. The spell does not grant the ability to breathe water, but rather creates a self-replenishing pocket of breathable air that the target's body draws upon, buying precious minutes of survival.

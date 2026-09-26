@@ -1,17 +1,10 @@
 ---
-tags:
-  - kemetian
-  - faith-skill
-  - draft
+shortcode: anhur
+name: {full: "Ritual: Anhur", aliases: ["Anhur, Patron of the Hunt"]}
 type: skill
 subType: mystical
-shortcode: anhur
-name:
-  full: "Ritual: Anhur"
-  aliases:
-    - Anhur, Patron of the Hunt
-data:
-  templatePriority: null
+tags: [kemetian, faith-skill, draft]
+data: {templatePriority: null, packFolder: kemetian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -20,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: kemetian
 ---
 
 See [[affiliation-anhur|Faith of Anhur]]

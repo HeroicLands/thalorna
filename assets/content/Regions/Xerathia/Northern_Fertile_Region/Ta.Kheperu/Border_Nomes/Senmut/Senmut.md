@@ -1,21 +1,17 @@
 ---
-tags:
-  - town
-description: "Nome capital of Senmut."
+shortcode: senmut
+name: {full: Senmut, aliases: []}
 type: place
 subType: settlement
+description: "Nome capital of Senmut."
+tags: [town]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - senmutnome
+  parents: [senmutnome]
   population: 11000
-name:
-  full: Senmut
-  aliases: []
-shortcode: senmut
-packFolder: bordernomes
+  packFolder: bordernomes
 ---
 
 ## Overview

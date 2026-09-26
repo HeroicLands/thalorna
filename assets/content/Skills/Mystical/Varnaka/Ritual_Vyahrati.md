@@ -1,18 +1,10 @@
 ---
-tags:
-  - varnaka
-  - faith-skill
+shortcode: vyahrati
+name: {full: "Ritual: Vyāhrati", aliases: [Vyāhrati, Vyahrati, The Keeper of Decay]}
 type: skill
 subType: mystical
-shortcode: vyahrati
-name:
-  full: "Ritual: Vyāhrati"
-  aliases:
-    - Vyāhrati
-    - Vyahrati
-    - The Keeper of Decay
-data:
-  templatePriority: null
+tags: [varnaka, faith-skill]
+data: {templatePriority: null, packFolder: varnaka}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -21,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: varnaka
 ---
 
 ## Ritual: Vyāhrati

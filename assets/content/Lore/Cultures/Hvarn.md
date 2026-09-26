@@ -1,12 +1,10 @@
 ---
-tags: []
+shortcode: hvarnclt
+name: {full: Hvarn, aliases: []}
 type: lore
 subType: culture
-name:
-  full: Hvarn
-  aliases: []
-shortcode: hvarnclt
 description: "The Hvarn—their beliefs, their mores, and what they hold a person owes."
+tags: []
 ---
 
 The Hvarn are drovers who hold the two crossings of [[place-estrnreach|the Eastern Reach]] and spend half the year scattered and half of it in one building. There are nine thousand of them. They are the poorer of the two guide-peoples by a wide margin, and they are the only people on the wall who deal with lowland institutions as a matter of routine.

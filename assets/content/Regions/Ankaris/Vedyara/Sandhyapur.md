@@ -1,28 +1,18 @@
 ---
-tags:
-  - town
-  - capital
-  - coastal
-  - port
-  - market
-description: "The capital of Bhūmipāla and the only town on Vedyara's western shore—a court, a roadstead behind a sand spit, the salt pans, and the southern end of the march road."
+shortcode: sandhyapur
+name: {full: Sandhyāpur, aliases: []}
 type: place
 subType: settlement
+description: "The capital of Bhūmipāla and the only town on Vedyara's western shore—a court, a roadstead behind a sand spit, the salt pans, and the southern end of the march road."
+tags: [town, capital, coastal, port, market]
 data:
   demonym: null
   lore: []
-  parents:
-    - bhumipalaland
-    - sandhysmdr
+  parents: [bhumipalaland, sandhysmdr]
   population: 12000
   market: 4
-  routes:
-    - { to: ashvapada, bearing: N, mode: land, days: 5, terrain: [road, desert] }
-name:
-  full: Sandhyāpur
-  aliases: []
-shortcode: sandhyapur
-packFolder: vedyara
+  routes: [{to: ashvapada, bearing: N, mode: land, days: 5, terrain: [road, desert]}]
+  packFolder: vedyara
 ---
 
 **Sandhyāpur** (12,000, market 4) is the capital of [[affiliation-bhumipala|Bhūmipāla]] and the only town of any size on Vedyara's western shore. It stands behind a sand spit at the mouth of a seasonal river, at the southern end of [[place-marchroad|the march road]]. It is a court, a customs house and a salt town, in that order of dignity and the reverse order of income.

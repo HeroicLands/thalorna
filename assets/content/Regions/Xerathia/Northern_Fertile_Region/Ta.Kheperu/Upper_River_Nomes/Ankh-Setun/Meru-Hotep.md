@@ -1,23 +1,17 @@
 ---
-tags:
-  - town
-  - port
-  - river
-description: "River Town (Grain Port)"
+shortcode: meruhotep
+name: {full: Meru-Hotep, aliases: []}
 type: place
 subType: settlement
+description: "River Town (Grain Port)"
+tags: [town, port, river]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - ankhsetunnome
+  parents: [ankhsetunnome]
   population: 25000
-name:
-  full: Meru-Hotep
-  aliases: []
-shortcode: meruhotep
-packFolder: ankhsetun
+  packFolder: ankhsetun
 ---
 
 ## Overview

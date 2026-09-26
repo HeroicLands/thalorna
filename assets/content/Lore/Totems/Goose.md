@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The goose as a totemic ideal, and the human character it describes."
+shortcode: goosettm
+name: {full: Goose, aliases: [Goose Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Goose
-  aliases:
-    - Goose Totem
-shortcode: goosettm
-packFolder: loretotems
-data:
-  banner: creaturebnr
+description: "The goose as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-goosetotem|Goose]]{float: top-left, size: medium}

@@ -1,26 +1,20 @@
 ---
-tags: []
-name:
-  full: Resurge
-  aliases: []
-description: "Pours fresh energy into failing magical construct; restores framework."
 shortcode: resurge
+name: {full: Resurge, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
+description: "Pours fresh energy into failing magical construct; restores framework."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Resurge
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Resurge
 ---
 
 The caster lays hands upon a failing magical construct—a guttering ward, a dimming enchantment, a ritual circle whose inscriptions are fading—and pours fresh energy into its weakening framework. The infusion does not merely delay the inevitable collapse; it actively repairs the structural damage that accumulated use and the passage of time have inflicted, restoring the construct to something approaching its original potency.

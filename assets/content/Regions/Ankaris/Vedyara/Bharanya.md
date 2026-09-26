@@ -1,27 +1,17 @@
 ---
-tags:
-  - town
-  - river
-  - sacred
-  - pilgrimage
-  - market
-description: "The pilgrim town of the lower Mahānadi, built on mounds around one of the three great Mahájaya temples of inland Vedyara."
+shortcode: bharanya
+name: {full: Bharanya, aliases: []}
 type: place
 subType: settlement
+description: "The pilgrim town of the lower Mahānadi, built on mounds around one of the three great Mahájaya temples of inland Vedyara."
+tags: [town, river, sacred, pilgrimage, market]
 data:
   demonym: null
   lore: []
-  parents:
-    - mahanadi
-    - vedyarargn
+  parents: [mahanadi, vedyarargn]
   population: 5400
-  routes:
-    - { to: chandrmukha, bearing: W, mode: ship, days: 5, terrain: [coast] }
-name:
-  full: Bharanya
-  aliases: []
-shortcode: bharanya
-packFolder: vedyara
+  routes: [{to: chandrmukha, bearing: W, mode: ship, days: 5, terrain: [coast]}]
+  packFolder: vedyara
 ---
 
 Bharanya (5,400) stands on the lower [[place-mahanadi|Mahānadi]], and it is there for the temple. The great Mahájaya temple of Bharanya is one of the three largest pilgrim-temples in central Vedyara, and its senior priest is one of the three of the Council of Three.

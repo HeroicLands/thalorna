@@ -1,20 +1,10 @@
 ---
-tags:
-  - kemetian
-  - faith-skill
-  - draft
+shortcode: iset
+name: {full: "Ritual: Íšét", aliases: [Mother of New Beginnings, Íšét, Iset]}
 type: skill
 subType: mystical
-shortcode: iset
-name:
-  full: "Ritual: Íšét"
-  aliases:
-    - Mother of New Beginnings
-    - Íšét
-    - Iset
-data:
-  icon: iset
-  templatePriority: null
+tags: [kemetian, faith-skill, draft]
+data: {icon: iset, templatePriority: null, packFolder: kemetian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -23,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: kemetian
 ---
 
 See [[affiliation-iset|Faith of Íšét]]

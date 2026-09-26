@@ -1,18 +1,12 @@
 ---
-tags:
-  - varnaka
-  - faith-skill
-type: skill
-subType: mystical
 shortcode: pavanajitras
 name:
   full: "Ritual: Pavanajitras"
-  aliases:
-    - Pavanajitras
-    - The Wandering Wind
-    - The Wind Spirits of the Road
-data:
-  templatePriority: null
+  aliases: [Pavanajitras, The Wandering Wind, The Wind Spirits of the Road]
+type: skill
+subType: mystical
+tags: [varnaka, faith-skill]
+data: {templatePriority: null, packFolder: varnaka}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -21,7 +15,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: varnaka
 ---
 
 ## Ritual: Pavanajitras

@@ -1,13 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: khetamundty
+name: {full: Khet'Amun, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Khet'Amun
-  aliases: []
-shortcode: khetamundty
-packFolder: deitieskemetian
+tags: [draft]
+data: {packFolder: deitieskemetian}
 ---
 
 _The River-God._

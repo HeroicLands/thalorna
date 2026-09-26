@@ -1,25 +1,18 @@
 ---
-tags:
-  - draft
+shortcode: maulgashng
+name: {full: Maul of Gashang, aliases: []}
 type: scenario
 subType: adventure
+tags: [draft]
 data:
-  parents:
-    - bldshscrvlvl
-  locations:
-    - provenzrgn
+  parents: [bldshscrvlvl]
+  locations: [provenzrgn]
   cast: []
   factions: []
   follows: []
   status: draft
-  party:
-    size: null
-    archetypes: []
-name:
-  full: Maul of Gashang
-  aliases: []
-shortcode: maulgashng
-packFolder: bloodandashesinceravelvale
+  party: {size: null, archetypes: []}
+  packFolder: bloodandashesinceravelvale
 ---
 
 ### Background and Creation

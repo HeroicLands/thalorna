@@ -1,22 +1,17 @@
 ---
-tags:
-  - city
-  - temple
-description: "Temple City (Scribal)"
+shortcode: khemenu
+name: {full: Khemenu, aliases: []}
 type: place
 subType: settlement
+description: "Temple City (Scribal)"
+tags: [city, temple]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - perthothnome
+  parents: [perthothnome]
   population: 85000
-name:
-  full: Khemenu
-  aliases: []
-shortcode: khemenu
-packFolder: perthoth
+  packFolder: perthoth
 ---
 
 ## Overview

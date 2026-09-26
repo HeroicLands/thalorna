@@ -1,14 +1,9 @@
 ---
+shortcode: titlelexcn
+name: {full: Title Lexicon, aliases: [Titles, Forms of Address]}
 type: doc
 subType: reference
-name:
-  full: Title Lexicon
-  aliases:
-    - Titles
-    - Forms of Address
-shortcode: titlelexcn
-data:
-  banner: null
+data: {banner: null}
 ---
 
 Thalorna's peoples do the same things and call them by different words. A

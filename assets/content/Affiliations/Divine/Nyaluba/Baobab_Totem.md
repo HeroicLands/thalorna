@@ -1,11 +1,10 @@
 ---
-description: "The baobab-spirit of the Bombwe—long-rootedness, the gathering-place and the keeping of stories; ritually senior because its griots hold the genealogies of all five clans."
-tags:
-  - nyaluba
-  - religion
-  - totemic
+shortcode: nyalbbaob
+name: {full: "Baobab Totem", aliases: [Baobab of the Bombwe, Bombwe Totem]}
 type: affiliation
 subType: spirittradition
+description: "The baobab-spirit of the Bombwe—long-rootedness, the gathering-place and the keeping of stories; ritually senior because its griots hold the genealogies of all five clans."
+tags: [nyaluba, religion, totemic]
 data:
   icon: null
   templatePriority: null
@@ -15,45 +14,38 @@ data:
   governance:
     model: council
     summary: >-
-      No hierarch and no single voice: a council of Spirit-Speakers and Elder Shamans in which
-      the elders' word carries the greater weight, seeking consensus rather than imposing it.
+      No hierarch and no single voice: a council of Spirit-Speakers and Elder Shamans in which the elders' word carries the greater weight, seeking consensus rather than imposing it.
     ranks:
       - level: 0
         title: Spirit-shunned
         lore: excmmnctrnk
         description: >-
-          Turned from by the spirits and by those who keep them: no rite will include them, no
-          pact will cover them, and no griot will speak their name in a genealogy.
+          Turned from by the spirits and by those who keep them: no rite will include them, no pact will cover them, and no griot will speak their name in a genealogy.
       - level: 1
         title: Uninitiated
         lore: catechumenrnk
         description: >-
-          Living under the observances, the totem law and the clan's pacts without having
-          entered the tradition—most of the people, most of the time.
+          Living under the observances, the totem law and the clan's pacts without having entered the tradition—most of the people, most of the time.
       - level: 2
         title: Initiate
         lore: initiaternk
         description: >-
-          Taken through the ordeal and received; learning the pacts, the protocols and the three
-          postures, and permitted at the rites without yet speaking in them.
+          Taken through the ordeal and received; learning the pacts, the protocols and the three postures, and permitted at the rites without yet speaking in them.
       - level: 3
         title: Spirit-Speaker
         lore: sprtspkrrnk
         description: >-
-          The mwalimu wa roho—permitted to perceive, address and negotiate with the spirits on
-          the clan's behalf, and answerable for what is asked of them.
+          The mwalimu wa roho—permitted to perceive, address and negotiate with the spirits on the clan's behalf, and answerable for what is asked of them.
       - level: 4
         title: Elder Shaman
         lore: elderrnk
         description: >-
-          Long practiced, teaching initiates and sitting on the council, where their word carries
-          the greater weight in what the younger Spirit-Speakers dispute.
+          Long practiced, teaching initiates and sitting on the council, where their word carries the greater weight in what the younger Spirit-Speakers dispute.
     offices:
       Guardian of a Town Baobab: >-
         Custodian of one ancient tree and the town gathered around it; by custom the senior griot of that town holds the office.
       Senior Griot: >-
-        Keeper of the Long Pact and of the genealogies of all five clans—the office on which the
-        confederation's memory rests.
+        Keeper of the Long Pact and of the genealogies of all five clans—the office on which the confederation's memory rests.
       Mwalimu wa Roho: >-
         Spirit-Speaker of the baobab, who addresses the guide at the seasons and at every gathering held beneath it.
       Keeper of the Tally: >-
@@ -64,24 +56,11 @@ data:
   domains: []
   population: null
   economy: []
-  lore:
-    - baobabbombwespr
-    - nyalbsprts
-  parents:
-    - nyalbpnthn
-  relations:
-    nyalbpnthn: aligned
-name:
-  full: "Baobab Totem"
-  aliases:
-    - Baobab of the Bombwe
-    - Bombwe Totem
-shortcode: nyalbbaob
-packFolder: nyaluba
-sohl:
-  system:
-    commonSkills:
-      - baobabbombwesprt
+  lore: [baobabbombwespr, nyalbsprts]
+  parents: [nyalbpnthn]
+  relations: {nyalbpnthn: aligned}
+  packFolder: nyaluba
+sohl: {system: {commonSkills: [baobabbombwesprt]}}
 ---
 
 The **Baobab Totem** is the guide of the [[affiliation-nylbtrblntn|Bombwe]], the settled cultivators of the perennial-water districts—long-rootedness, the gathering-place, and the keeping of stories. The Bombwe are the smallest of the five clans and the ritually senior one, because it is Bombwe griots who carry the official memory of the Long Pact and the genealogies of all five clans. They speak last in any council, and what they say is generally remembered.

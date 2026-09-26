@@ -1,21 +1,17 @@
 ---
-tags:
-  - town
-description: "Nome capital of Sebt-Renpet."
+shortcode: sebtrenpet
+name: {full: Sebt-Renpet, aliases: []}
 type: place
 subType: settlement
+description: "Nome capital of Sebt-Renpet."
+tags: [town]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - sebtrenpetnome
+  parents: [sebtrenpetnome]
   population: 28000
-name:
-  full: Sebt-Renpet
-  aliases: []
-shortcode: sebtrenpet
-packFolder: upperrivernomes
+  packFolder: upperrivernomes
 ---
 
 ## Overview

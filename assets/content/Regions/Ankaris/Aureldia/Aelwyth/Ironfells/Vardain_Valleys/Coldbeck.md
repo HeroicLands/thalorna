@@ -1,23 +1,16 @@
 ---
-tags:
-  - village
-  - mountain
-  - river
-description: "The mill village on the fast water, grinding the valleys' grain and fulling their cloth."
+shortcode: coldbeck
+name: {full: Coldbeck, aliases: []}
 type: place
 subType: settlement
+description: "The mill village on the fast water, grinding the valleys' grain and fulling their cloth."
+tags: [village, mountain, river]
 data:
   demonym: null
-  lore:
-    - vardain
-  parents:
-    - vardainvalleys
+  lore: [vardain]
+  parents: [vardainvalleys]
   population: 500
-name:
-  full: Coldbeck
-  aliases: []
-shortcode: coldbeck
-packFolder: aelwyth
+  packFolder: aelwyth
 ---
 
 **Coldbeck** stands on the fastest water in the valleys and uses all of it. Three hundred and thirty

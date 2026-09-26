@@ -1,23 +1,16 @@
 ---
-tags:
-  - sacred
-  - pilgrimage
-  - inland
-description: "The easternmost cosmic source, under the shoulder of the Eastern Reach—the spring of the Bhārava, and the one the hostel-network was built for."
+shortcode: bhrvprbhav
+name: {full: Bhāravaprabhava, aliases: []}
 type: place
 subType: site
+description: "The easternmost cosmic source, under the shoulder of the Eastern Reach—the spring of the Bhārava, and the one the hostel-network was built for."
+tags: [sacred, pilgrimage, inland]
 data:
   demonym: null
   lore: []
-  parents:
-    - graznmntns
-    - estrnreach
+  parents: [graznmntns, estrnreach]
   population: null
-name:
-  full: Bhāravaprabhava
-  aliases: []
-shortcode: bhrvprbhav
-packFolder: vedyara
+  packFolder: vedyara
 ---
 
 **Bhāravaprabhava** is the source of the [[place-bharavarivr|Bhārava]], under the Vedyari shoulder of [[place-estrnreach|the Eastern Reach]] above the [[place-slvrgorges|Silver Gorges]]. It is the smallest of the four glacier-mouths and the coldest approach, and the pilgrim road took its shape from the source and not the source from the road.

@@ -1,17 +1,10 @@
 ---
-description: "The shadow-vow—a lapsed dream-line that works the waking dream, condemned by the Council of the Dream, pursued by nobody, and the origin of the shadow-brotherhoods that train Vedyara's assassins."
-tags:
-  - varnaka
-  - arcane
-  - dreams
-  - clandestine
-name:
-  full: The Chaya-vrata
-  aliases:
-    - The Shadow-Vow
 shortcode: chayavrata
+name: {full: The Chaya-vrata, aliases: [The Shadow-Vow]}
 type: affiliation
 subType: criminal
+description: "The shadow-vow—a lapsed dream-line that works the waking dream, condemned by the Council of the Dream, pursued by nobody, and the origin of the shadow-brotherhoods that train Vedyara's assassins."
+tags: [varnaka, arcane, dreams, clandestine]
 data:
   banner: faithbnr
   icon: null
@@ -28,20 +21,17 @@ data:
         title: Remembered
         lore: excmmnctrnk
         description: >-
-          Known by face and name to people who have reason to want the face and name. It is the
-          one sanction the vow has and it is applied by abandonment: the line stops answering.
+          Known by face and name to people who have reason to want the face and name. It is the one sanction the vow has and it is applied by abandonment: the line stops answering.
       - level: 1
         title: Under the Vow
         lore: swornmemberrnk
         description: >-
-          Has taken the vow and works the first of it—the misdirection, the errand nobody recalls
-          being run, the face that will not fix in the memory.
+          Has taken the vow and works the first of it—the misdirection, the errand nobody recalls being run, the face that will not fix in the memory.
       - level: 2
         title: Holder of the Vow
         lore: professedrnk
         description: >-
-          Works the waking dream on a person who is awake and unwilling, which is the whole of
-          what the line exists to teach and what the Council of the Dream condemned it for.
+          Works the waking dream on a person who is awake and unwilling, which is the whole of what the line exists to teach and what the Council of the Dream condemned it for.
       - level: 3
         title: Keeper of a Line
         lore: masterrnk
@@ -49,14 +39,11 @@ data:
           Teaches. Takes one student, or two, and does not meet the students of other lines.
     offices:
       Keeper of a Line: >-
-        Teaches the vow to one or two students and holds the line's account of itself; the
-        nearest thing the Chaya-vrata has to an office.
+        Teaches the vow to one or two students and holds the line's account of itself; the nearest thing the Chaya-vrata has to an office.
       Broker: >-
-        Stands between a line and a shadow-brotherhood's contract, so that neither has to know
-        the other's name.
+        Stands between a line and a shadow-brotherhood's contract, so that neither has to know the other's name.
       Preparer: >-
-        Works the misdirection in advance of someone else's business and is gone before it
-        happens; the rank of the trade most lines will admit to.
+        Works the misdirection in advance of someone else's business and is gone before it happens; the rank of the trade most lines will admit to.
   seat: null
   domains: []
   population: null
@@ -70,7 +57,7 @@ data:
     ganakashala: unaligned
     passshrineushtakas: unaligned
     thresholdkeepers: nemesis
-packFolder: pantheonsvarnaka
+  packFolder: pantheonsvarnaka
 sohl:
   system:
     commonSkills:

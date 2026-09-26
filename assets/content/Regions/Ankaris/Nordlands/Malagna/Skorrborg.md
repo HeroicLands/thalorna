@@ -1,19 +1,9 @@
 ---
-tags:
-  - town
-  - fortified
-description: "Fortified Town"
+shortcode: skorrborg
+name: {full: Skorrborg, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - malagna
-  population: 1200
-name:
-  full: Skorrborg
-  aliases: []
-shortcode: skorrborg
-packFolder: malagna
+description: "Fortified Town"
+tags: [town, fortified]
+data: {demonym: null, lore: [], parents: [malagna], population: 1200, packFolder: malagna}
 ---

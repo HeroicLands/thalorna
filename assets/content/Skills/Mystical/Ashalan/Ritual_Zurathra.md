@@ -1,17 +1,10 @@
 ---
-tags:
-  - ashalan
-  - faith-skill
-  - draft
+shortcode: zurathra
+name: {full: "Ritual: Zúráthrä", aliases: [Mother of the Oasis]}
 type: skill
 subType: mystical
-shortcode: zurathra
-name:
-  full: "Ritual: Zúráthrä"
-  aliases:
-    - Mother of the Oasis
-data:
-  templatePriority: null
+tags: [ashalan, faith-skill, draft]
+data: {templatePriority: null, packFolder: ashalan}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -20,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: ashalan
 ---
 
 See [[affiliation-zurathra|Faith of Zúráthrä]]

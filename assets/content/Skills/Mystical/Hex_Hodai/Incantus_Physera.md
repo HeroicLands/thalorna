@@ -1,16 +1,10 @@
 ---
-tags:
-  - hex-hodai
-  - draft
+shortcode: physera
+name: {full: Incantus Physéra, aliases: []}
 type: skill
 subType: mystical
-shortcode: physera
-name:
-  full: Incantus Physéra
-  aliases: []
-data:
-  icon: physera
-  templatePriority: null
+tags: [hex-hodai, draft]
+data: {icon: physera, templatePriority: null, packFolder: hexhodai}
 sohl:
   system:
     skillBaseFormula: "@aur, @rea"
@@ -19,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: hexhodai
 ---
 
 See [[affiliation-physera|Eídma Physéra]]

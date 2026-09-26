@@ -1,20 +1,11 @@
 ---
-tags:
-  - draft
-description: ""
+shortcode: vylariargn
+name: {full: Vylaría Region, aliases: []}
 type: place
 subType: region
-data:
-  demonym: null
-  lore: []
-  parents:
-    - midhalnrgn
-  population: 24000000
-name:
-  full: Vylaría Region
-  aliases: []
-shortcode: vylariargn
-packFolder: vylaria
+description: ""
+tags: [draft]
+data: {demonym: null, lore: [], parents: [midhalnrgn], population: 24000000, packFolder: vylaria}
 ---
 
 ## Overview

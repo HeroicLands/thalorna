@@ -1,19 +1,10 @@
 ---
-tags:
-  - aureldian
-  - faith-skill
-  - draft
+shortcode: blackflame
+name: {full: "Ritual: The Black Flame", aliases: [The Black Flame, Vúlcani Heresy]}
 type: skill
 subType: mystical
-shortcode: blackflame
-name:
-  full: "Ritual: The Black Flame"
-  aliases:
-    - The Black Flame
-    - Vúlcani Heresy
-data:
-  icon: blackflame
-  templatePriority: null
+tags: [aureldian, faith-skill, draft]
+data: {icon: blackflame, templatePriority: null, packFolder: aureldian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -22,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: aureldian
 ---
 
 See [[affiliation-blackflame|The Black Flame]]

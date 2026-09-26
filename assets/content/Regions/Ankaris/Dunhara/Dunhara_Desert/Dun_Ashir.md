@@ -1,19 +1,14 @@
 ---
-tags:
-  - oasis
-  - settlement
-description: "Oasis Settlement"
+shortcode: dunashir
+name: {full: Dûn Ashir, aliases: []}
 type: place
 subType: settlement
+description: "Oasis Settlement"
+tags: [oasis, settlement]
 data:
   demonym: null
   lore: []
-  parents:
-    - dunhardsrtrgn
+  parents: [dunhardsrtrgn]
   population: 1200
-name:
-  full: Dûn Ashir
-  aliases: []
-shortcode: dunashir
-packFolder: dunharadesert
+  packFolder: dunharadesert
 ---

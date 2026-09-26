@@ -1,22 +1,17 @@
 ---
-name:
-  full: The Provenzian Grand Games
-  aliases: []
 shortcode: prvnzngrndgms
+name: {full: The Provenzian Grand Games, aliases: []}
 type: scenario
 subType: adventure
 data:
   parents: []
-  locations:
-    - provenzrgn
+  locations: [provenzrgn]
   cast: []
   factions: []
   follows: []
   status: draft
-  party:
-    size: null
-    archetypes: []
-packFolder: adventures
+  party: {size: null, archetypes: []}
+  packFolder: adventures
 ---
 
 The Giochi Grandi (Provenzian Grand Games), the realm's greatest athletic and martial competition, is held in the City of Hárivren. The party may compete, investigate corruption, or become entangled in plots and assassinations that threaten the event and those attending.

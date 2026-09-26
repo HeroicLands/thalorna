@@ -1,26 +1,20 @@
 ---
-tags: []
-name:
-  full: Gauntlet
-  aliases: []
-description: "Caster's fists harden; strikes with supernatural force and damage."
 shortcode: gauntlet
+name: {full: Gauntlet, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-firebdg
-  templatePriority: null
+description: "Caster's fists harden; strikes with supernatural force and damage."
+tags: []
+data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Gauntlet
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Gauntlet
 ---
 
 The caster's hands erupt in controlled flame, wreathing fingers and palms in fire that burns outward with fierce intensity while leaving the caster's own flesh untouched. Each strike with the flaming hands delivers both physical impact and searing heat, and anything the caster grips begins to burn immediately. The flames extend slightly beyond the hands, creating a corona of fire that makes even near-misses dangerous.

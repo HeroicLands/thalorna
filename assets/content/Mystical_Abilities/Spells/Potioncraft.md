@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Potioncraft
-  aliases:
-    - Alchema
-description: "Brews magical potions with beneficial effects over time."
 shortcode: ptncrft
+name: {full: Potioncraft, aliases: [Alchema]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
+description: "Brews magical potions with beneficial effects over time."
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Alchema
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Alchema
 ---
 
 The caster infuses a liquid with magical potential, transforming ordinary water, wine, or broth into a vehicle for enchantment. The spell does not create the magical effect itself but prepares the liquid to receive and hold other spells, stabilizing their energy so it can be stored indefinitely and released when the potion is consumed. Without this preparatory magic, most spells simply dissipate when forced into a liquid medium.

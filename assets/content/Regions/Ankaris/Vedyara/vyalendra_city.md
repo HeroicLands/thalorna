@@ -1,24 +1,11 @@
 ---
-tags:
-  - city
-  - capital
-  - river
-  - market
-description: "The City of Ten Thousand Looms and the capital of the Vyālendra city-state—a guild republic in the street-plan of a kingdom, where the Loom-Council sits in the last Mahārāja's audience hall."
+shortcode: vyalendra3
+name: {full: Vyālendra, aliases: [The City of Ten Thousand Looms]}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - vyalendraland
-  population: 80000
-name:
-  full: Vyālendra
-  aliases:
-    - The City of Ten Thousand Looms
-shortcode: vyalendra3
-packFolder: vedyara
+description: "The City of Ten Thousand Looms and the capital of the Vyālendra city-state—a guild republic in the street-plan of a kingdom, where the Loom-Council sits in the last Mahārāja's audience hall."
+tags: [city, capital, river, market]
+data: {demonym: null, lore: [], parents: [vyalendraland], population: 80000, packFolder: vedyara}
 ---
 
 Vyālendra (80,000) is the capital of the city-state of [[affiliation-vyalendra2|Vyālendra]] and the only place in the subcontinent where the finest brocades are made. It stands in the middle of its own valleys, on the Nilacharī where the river first carries a laden boat, with the cotton land on both banks and the dye-villages upstream of the water-gate. The streets are narrow, shaded by old banyans, and the looms are audible in all of them from first light until dark.

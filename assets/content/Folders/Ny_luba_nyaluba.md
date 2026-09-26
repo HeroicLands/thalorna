@@ -1,9 +1,6 @@
 ---
-name:
-  full: "Nyáluba"
 shortcode: nyaluba
+name: {full: "Nyáluba"}
 type: folder
-data:
-  parent: pantheons
-  color: "#BA55D3"
+data: {parent: pantheons, color: "#BA55D3"}
 ---

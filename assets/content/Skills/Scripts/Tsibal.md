@@ -1,16 +1,11 @@
 ---
-tags: []
-name:
-  full: Tz'ib'al Cord Script
-  aliases:
-    - Tz'ib'al
-description: "The knotted cord-records of the K'ich'chik—tribute, tallies and day-counts carried by runners and read by priests."
 shortcode: tzblcrdscrpt
+name: {full: Tz'ib'al Cord Script, aliases: [Tz'ib'al]}
 type: skill
 subType: script
-data:
-  icon: icon-speaking
-  templatePriority: null
+description: "The knotted cord-records of the K'ich'chik—tribute, tallies and day-counts carried by runners and read by priests."
+tags: []
+data: {icon: icon-speaking, templatePriority: null, packFolder: script}
 sohl:
   system:
     skillBaseFormula: "@rea, @per"
@@ -19,10 +14,7 @@ sohl:
     combatCategory: none
     parentSkillCode: script
     initSkillMult: 0
-packFolder: script
-flags:
-  "thalorna":
-    script_family: Cord
+  flags: {"thalorna": {script_family: Cord}}
 ---
 
 The Tz'ib'al is writing that is tied rather than drawn: a hanging cord from which subsidiary cords depend, the record carried in the **color of the thread, the kind of knot, and the position of the knot along the cord**. It encodes numbers natively and everything else by convention—tribute owed and delivered, storehouse tallies, census, the day-counts, and the standing formulae that let a runner carry a message he does not himself understand.

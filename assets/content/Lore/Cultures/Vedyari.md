@@ -1,12 +1,10 @@
 ---
-tags: []
+shortcode: vedyariclt
+name: {full: Vedyari, aliases: []}
 type: lore
 subType: culture
-name:
-  full: Vedyari
-  aliases: []
-shortcode: vedyariclt
 description: "The Vedyari—their beliefs, their mores, and what they hold a person owes."
+tags: []
 ---
 
 The Vedyari are one people across a map that has never been one state. A scholar from a southern harbour who lands at a northern pass-kingdom finds the temple, the assembly, the stations and the classical curriculum all intelligible on the first day, and the coinage and the king strange. What holds across [[place-vedyarargn|Vedyara]] is the station a person is born to, the household that station sits in, and the rites that mark both. What varies is who collects the tax.

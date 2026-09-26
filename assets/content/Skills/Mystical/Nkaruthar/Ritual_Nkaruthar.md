@@ -1,20 +1,12 @@
 ---
-tags:
-  - nkaruthar
-  - faith-skill
-  - draft
-type: skill
-subType: mystical
 shortcode: nkaruthar
 name:
   full: "Ritual: Nkaru'thar"
-  aliases:
-    - Nkaru'thar
-    - The Eternal Flame
-    - The Three Flames
-    - The Triune Fire
-data:
-  templatePriority: null
+  aliases: [Nkaru'thar, The Eternal Flame, The Three Flames, The Triune Fire]
+type: skill
+subType: mystical
+tags: [nkaruthar, faith-skill, draft]
+data: {templatePriority: null, packFolder: nkaruthar}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -23,7 +15,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: nkaruthar
 ---
 
 See [[affiliation-nkaruthar|Nkaru'thar]]

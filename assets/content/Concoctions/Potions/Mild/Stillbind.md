@@ -1,19 +1,11 @@
 ---
-tags:
-  - mild-elixir
-name:
-  full: Stillbind
-  aliases:
-    - Potion, Paralytic, Mild
-description: "Clear greenish liquid; paralyzes and immobilizes drinker temporarily."
 shortcode: ptnparm
+name: {full: Stillbind, aliases: ["Potion, Paralytic, Mild"]}
 type: concoctiongear
 subType: exotic
-hmk:
-  name: "Potion, Paralytic, Mild"
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "Clear greenish liquid; paralyzes and immobilizes drinker temporarily."
+tags: [mild-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: mild}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "mild"
     strength: 0
-packFolder: mild
+
+# hmk:
+#   name: "Potion, Paralytic, Mild"
 ---
 
 A clear, slightly greenish liquid that looks almost innocent in its simplicity. The scent is faint but distinctive—something metallic and plant-based, reminiscent of crushed hemlock or nightshade. When held in direct sunlight, a faint iridescence appears across its surface. Those who have handled this potion report a cold sensation that lingers on the skin long after washing. A single taste induces a numbing sensation that spreads from the mouth downward, chilling the throat.

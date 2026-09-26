@@ -1,13 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: councillorrnk
+name: {full: Councillor, aliases: []}
 type: lore
 subType: law
-name:
-  full: Councillor
-  aliases: []
-shortcode: councillorrnk
 description: "Of the body that deliberates and decides, seated by election, birth or standing."
+tags: [draft]
 ---
 
 Of the body that deliberates and decides, seated by election, birth or standing.

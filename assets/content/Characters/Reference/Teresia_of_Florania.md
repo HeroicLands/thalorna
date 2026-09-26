@@ -1,7 +1,5 @@
 ---
-tags:
-  - character
-  - reference
+shortcode: teresiaofflorania
 name:
   full: Teresia of Flórania
   title: High Priestess
@@ -9,15 +7,14 @@ name:
   clan: of Flórania
   home: byzaris
   aliases: []
-description: "A priestess of the same order as his mother, who occasionally consults Philándros regarding the intersection of religious ceremony and civic ritual."
-shortcode: teresiaofflorania
 type: being
+description: "A priestess of the same order as his mother, who occasionally consults Philándros regarding the intersection of religious ceremony and civic ritual."
+tags: [character, reference]
 data:
   species: humanflk
   templatePriority: null
   archetypes: []
   stations: []
   lore: []
-  homes:
-    - byzaris
+  homes: [byzaris]
 ---

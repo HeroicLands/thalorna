@@ -1,21 +1,17 @@
 ---
-description: "The vast forest-and-river belt east of the Nordlands—endless taiga, mixed woodland and great slow rivers, held by the Varokh: a people descended from the Pelwar who were here first and from the Varkhad who took the country off them, and who defend it against all comers with the ferocity they inherited from the invading half."
+shortcode: vrystwald
+name: {full: Vrystwald, aliases: [Vrystwald Region]}
 type: place
 subType: region
+description: "The vast forest-and-river belt east of the Nordlands—endless taiga, mixed woodland and great slow rivers, held by the Varokh: a people descended from the Pelwar who were here first and from the Varkhad who took the country off them, and who defend it against all comers with the ferocity they inherited from the invading half."
 data:
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - ankrscntnnt
+  lore: [humanflk]
+  parents: [ankrscntnnt]
   population: 500000
-name:
-  full: Vrystwald
-  aliases:
-    - Vrystwald Region
-shortcode: vrystwald
-terran_analog: "European Russia—the vast taiga, mixed forest, and great river-and-lake systems of the Russian Plain from the eastern Baltic frontier across to the Ural-analog mountain chain that marks the start of the Khazryn."
-packFolder: vrystwald
+  packFolder: vrystwald
+
+# terran_analog: "European Russia—the vast taiga, mixed forest, and great river-and-lake systems of the Russian Plain from the eastern Baltic frontier across to the Ural-analog mountain chain that marks the start of the Khazryn."
 ---
 
 ## Overview

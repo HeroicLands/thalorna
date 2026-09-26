@@ -1,19 +1,10 @@
 ---
-tags:
-  - itzani
-  - faith-skill
-  - draft
+shortcode: kayikchul
+name: {full: "Ritual: K'ayik Ch'ul", aliases: [K'ayik Ch'ul, The Sacred Flame]}
 type: skill
 subType: mystical
-shortcode: kayikchul
-name:
-  full: "Ritual: K'ayik Ch'ul"
-  aliases:
-    - K'ayik Ch'ul
-    - The Sacred Flame
-data:
-  icon: null
-  templatePriority: null
+tags: [itzani, faith-skill, draft]
+data: {icon: null, templatePriority: null, packFolder: itzani}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -22,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: itzani
 ---
 
 See [[affiliation-kayikchul|Faith of K'ayik Ch'ul]]

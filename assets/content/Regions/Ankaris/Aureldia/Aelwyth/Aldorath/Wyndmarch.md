@@ -1,22 +1,11 @@
 ---
-tags:
-  - region
-  - frontier
-  - hill
-description: "Aldorath's eastern march below the Ironfells—the foothill country that watches the two passes, holds the royal forest, and shades into wilderness nobody governs."
+shortcode: wyndmarch
+name: {full: The Wyndmarch, aliases: []}
 type: place
 subType: region
-data:
-  demonym: null
-  lore: []
-  parents:
-    - aldorathrgn
-  population: 34000
-name:
-  full: The Wyndmarch
-  aliases: []
-shortcode: wyndmarch
-packFolder: aelwyth
+description: "Aldorath's eastern march below the Ironfells—the foothill country that watches the two passes, holds the royal forest, and shades into wilderness nobody governs."
+tags: [region, frontier, hill]
+data: {demonym: null, lore: [], parents: [aldorathrgn], population: 34000, packFolder: aelwyth}
 ---
 
 The **Wyndmarch** is Aldorath's eastern frontier: the foothill country under the

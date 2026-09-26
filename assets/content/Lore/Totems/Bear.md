@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The bear as a totemic ideal, and the human character it describes."
+shortcode: bearttm
+name: {full: Bear, aliases: [Bear Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Bear
-  aliases:
-    - Bear Totem
-shortcode: bearttm
-packFolder: loretotems
-data:
-  banner: creaturebnr
+description: "The bear as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-beartotem|Bear]]{float: top-left, size: medium}

@@ -1,22 +1,11 @@
 ---
-tags:
-  - city
-  - port
-  - coastal
-description: "The seat of the Synod and the mandatory first port of call for every ship crossing between Aelwyth and the mainland—where the Ordo inspects the island's entire commerce, and takes particular interest in anything magical."
+shortcode: ravenmoor
+name: {full: Ravenmoor, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - dunavarre
-  population: 3500
-name:
-  full: Ravenmoor
-  aliases: []
-shortcode: ravenmoor
-packFolder: aelwyth
+description: "The seat of the Synod and the mandatory first port of call for every ship crossing between Aelwyth and the mainland—where the Ordo inspects the island's entire commerce, and takes particular interest in anything magical."
+tags: [city, port, coastal]
+data: {demonym: null, lore: [], parents: [dunavarre], population: 3500, packFolder: aelwyth}
 ---
 
 **Ravenmoor** stands on Aelwyth's south-eastern coast where the open moor that gives it its name breaks

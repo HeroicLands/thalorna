@@ -1,17 +1,8 @@
 ---
-tags:
-  - character
-  - draft
-  - embassy-to-tanvur
-name:
-  full: Laradh Lúavel
-  title: ""
-  given: Laradh
-  clan: Lúavel
-  aliases: []
-packFolder: adventures
 shortcode: laradhluavel
+name: {full: Laradh Lúavel, title: "", given: Laradh, clan: Lúavel, aliases: []}
 type: being
+tags: [character, draft, embassy-to-tanvur]
 data:
   templatePriority: null
   archetypes: []
@@ -19,10 +10,10 @@ data:
   stations: []
   lore: []
   homes: []
-  affiliations:
-    - kingdmdnvr
+  affiliations: [kingdmdnvr]
   gender: male
   species: humanflk
+  packFolder: adventures
 ---
 
 # Appearance {#appearance}

@@ -1,23 +1,11 @@
 ---
-tags:
-  - sacred
-  - temple
-  - mountain
-  - inland
-description: "The Mahájaya temple at the junction of the two highest streams, the seniormost of the three by its priest's age and the theological authority of the janapada."
+shortcode: uppersuvtmpl
+name: {full: The Temple of Upper Suvarnagiri, aliases: []}
 type: place
 subType: structure
-data:
-  demonym: null
-  lore: []
-  parents:
-    - suvarnagirijnpd
-  population: null
-name:
-  full: The Temple of Upper Suvarnagiri
-  aliases: []
-shortcode: uppersuvtmpl
-packFolder: vedyara
+description: "The Mahájaya temple at the junction of the two highest streams, the seniormost of the three by its priest's age and the theological authority of the janapada."
+tags: [sacred, temple, mountain, inland]
+data: {demonym: null, lore: [], parents: [suvarnagirijnpd], population: null, packFolder: vedyara}
 ---
 
 The **temple of Upper Suvarnagiri** stands at the junction of the two highest streams off [[place-goldmountain|the Gold Mountain]]. It is one of the three great temples of [[affiliation-mahajaya|Mahájaya]] that hold the janapada between them, built within a century of the other two, of the same size, and housing an altar of comparable craftsmanship.

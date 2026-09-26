@@ -1,22 +1,11 @@
 ---
-tags:
-  - woodland
-  - mountain
-  - inland
-description: "A maze encountered within Úqua-Arálwen, where sound does not behave as it should—the challenge that stands between a party and the Heart of Dhiríkri."
+shortcode: mazeofechos
+name: {full: Maze of Echoes, aliases: []}
 type: place
 subType: site
-data:
-  demonym: null
-  lore: []
-  parents:
-    - tramontana
-  population: null
-name:
-  full: Maze of Echoes
-  aliases: []
-shortcode: mazeofechos
-packFolder: provenzia
+description: "A maze encountered within Úqua-Arálwen, where sound does not behave as it should—the challenge that stands between a party and the Heart of Dhiríkri."
+tags: [woodland, mountain, inland]
+data: {demonym: null, lore: [], parents: [tramontana], population: null, packFolder: provenzia}
 ---
 
 A maze encountered within [[lore-aralwen|Úqua-Arálwen]], where sound does not behave as it should—the

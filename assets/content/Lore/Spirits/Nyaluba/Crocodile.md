@@ -1,17 +1,11 @@
 ---
-tags:
-  - draft
-  - nyaluba
+shortcode: crocodilekambezispr
+name: {full: Crocodile Spirit, aliases: [The Crocodile Guide, Crocodile of the Kambezi]}
 type: lore
 subType: spirit
 description: "The crocodile-guide of the Kambezi as a being—old, exacting, and reckoned kin even when it kills."
-name:
-  full: Crocodile Spirit
-  aliases:
-    - The Crocodile Guide
-    - Crocodile of the Kambezi
-shortcode: crocodilekambezispr
-packFolder: lorespiritsnyaluba
+tags: [draft, nyaluba]
+data: {packFolder: lorespiritsnyaluba}
 ---
 
 The totemic being venerated by the [[affiliation-nylbtrblntn|Kambezi]]. For the cult, its

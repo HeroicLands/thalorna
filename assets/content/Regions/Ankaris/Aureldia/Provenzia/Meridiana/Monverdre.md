@@ -1,22 +1,11 @@
 ---
-tags:
-  - town
-  - hill
-  - inland
-description: "The green hill town on the southern edge of the Thúravel Hills—the southern gentry's summer refuge from the coastal heat, and the last comfortable place before the old country begins."
+shortcode: monverdre
+name: {full: Monvèrdre, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - meridiana
-  population: 2200
-name:
-  full: Monvèrdre
-  aliases: []
-shortcode: monverdre
-packFolder: provenzia
+description: "The green hill town on the southern edge of the Thúravel Hills—the southern gentry's summer refuge from the coastal heat, and the last comfortable place before the old country begins."
+tags: [town, hill, inland]
+data: {demonym: null, lore: [], parents: [meridiana], population: 2200, packFolder: provenzia}
 ---
 
 **Monvèrdre**—the green hill—sits in the uplands above the warm southern plain, at the point where

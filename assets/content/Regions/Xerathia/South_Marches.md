@@ -1,24 +1,19 @@
 ---
-tags:
-  - region
-description: The dry borderlands south of Bethûa—hot chaparral and scrub between the matriarchy's settled frontier and the rainforest margin, ranged by pastoral nomad clans who pay Bethûa tribute and keep their own ways.
-name:
-  full: South Marches
-  aliases:
-    - The Marches
 shortcode: sthmrchsrgn
+name: {full: South Marches, aliases: [The Marches]}
 type: place
 subType: region
+description: The dry borderlands south of Bethûa—hot chaparral and scrub between the matriarchy's settled frontier and the rainforest margin, ranged by pastoral nomad clans who pay Bethûa tribute and keep their own ways.
+tags: [region]
 data:
   icon: null
   demonym: Marcher
-  lore:
-    - humanflk
-  parents:
-    - xerathia
+  lore: [humanflk]
+  parents: [xerathia]
   population: null
-terran_analog: "The pre-Saharan steppe south of the Maghreb—the Atlas foothills, the High Plateaus and the northern Sahel: esparto scrub, seasonal wadis and transhumant herders."
-packFolder: xerathia
+  packFolder: xerathia
+
+# terran_analog: "The pre-Saharan steppe south of the Maghreb—the Atlas foothills, the High Plateaus and the northern Sahel: esparto scrub, seasonal wadis and transhumant herders."
 ---
 
 The South Marches are the drylands south of the

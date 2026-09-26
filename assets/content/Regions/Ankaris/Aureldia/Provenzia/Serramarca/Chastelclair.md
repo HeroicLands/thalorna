@@ -1,23 +1,11 @@
 ---
-tags:
-  - town
-  - fortified
-  - frontier
-  - mountain
-description: "The fortress town of Sèrramarca, Provènzia's eastern march—the muster point below the Tarvénian passes, whose walls are new, whose garrison is permanent, and whose year begins when the snow clears."
+shortcode: chastelclr
+name: {full: Chastèlclair, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - serramarca
-  population: 4500
-name:
-  full: Chastèlclair
-  aliases: []
-shortcode: chastelclr
-packFolder: provenzia
+description: "The fortress town of Sèrramarca, Provènzia's eastern march—the muster point below the Tarvénian passes, whose walls are new, whose garrison is permanent, and whose year begins when the snow clears."
+tags: [town, fortified, frontier, mountain]
+data: {demonym: null, lore: [], parents: [serramarca], population: 4500, packFolder: provenzia}
 ---
 
 **Chastèlclair**—the bright castle—commands the road below the Tarvénian passes, and is the

@@ -1,21 +1,16 @@
 ---
-tags:
-  - region
-description: "The maritime province of the Vylarian Empire—the land of the Province of Vald, a working coast of shipyards, naval bases and fishing towns with agrarian estate-country behind it."
-name:
-  full: Vald
-  aliases: []
 shortcode: vald
+name: {full: Vald, aliases: []}
 type: place
 subType: region
+description: "The maritime province of the Vylarian Empire—the land of the Province of Vald, a working coast of shipyards, naval bases and fishing towns with agrarian estate-country behind it."
+tags: [region]
 data:
   demonym: Vylarian
-  lore:
-    - humanflk
-  parents:
-    - vylariargn
+  lore: [humanflk]
+  parents: [vylariargn]
   population: 5000000
-packFolder: vylaria
+  packFolder: vylaria
 ---
 
 ## Overview

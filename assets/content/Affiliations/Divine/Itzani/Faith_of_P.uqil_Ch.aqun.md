@@ -1,17 +1,10 @@
 ---
-description: "Storms, chaos and cosmic dissolution—the feathered serpent whose rain feeds the maize and whose waking will end the Fifth Age."
-tags:
-  - itzani
-  - religion
+shortcode: puqilchaqun
+name: {full: "Faith of P'uqil Ch'aqun", aliases: [The Feathered Storm-Serpent, "P'uqil Ch'aqun"]}
 type: affiliation
 subType: faithtradition
-name:
-  full: "Faith of P'uqil Ch'aqun"
-  aliases:
-    - The Feathered Storm-Serpent
-    - "P'uqil Ch'aqun"
-shortcode: puqilchaqun
-packFolder: pantheonitzani
+description: "Storms, chaos and cosmic dissolution—the feathered serpent whose rain feeds the maize and whose waking will end the Fifth Age."
+tags: [itzani, religion]
 data:
   banner: faithbnr
   icon: null
@@ -22,109 +15,79 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A single priestly caste serving all ten gods, ranked by degree of initiation and by the
-      blood-debt a person carries rather than by which god they serve; the lay faithful are
-      bound by the calendar that same caste keeps.
+      A single priestly caste serving all ten gods, ranked by degree of initiation and by the blood-debt a person carries rather than by which god they serve; the lay faithful are bound by the calendar that same caste keeps.
     ranks:
       - level: 0
         title: Blood-Denied
         lore: excmmnctrnk
         description: >-
-          Barred from offering blood, from the priest-read calendar and from the funerary rites—a
-          soul left to face Xibalba's trials unguided, which the Ki'ichek reckon the one sentence
-          that outlives the body.
+          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Xibalba's trials unguided, which the Ki'ichek reckon the one sentence that outlives the body.
       - level: 1
         title: Water-Marked
         lore: catechumenrnk
         description: >-
-          Consecrated at birth with water on the lips and counted among the faithful, but not
-          yet of an age to give blood or keep the fasts.
+          Consecrated at birth with water on the lips and counted among the faithful, but not yet of an age to give blood or keep the fasts.
       - level: 2
         title: Blood-Giver
         lore: layfaithfulrnk
         description: >-
-          The lay faithful, who pierce tongue or earlobe on the days the calendar appoints and
-          keep its prohibitions without holding office in the temple.
+          The lay faithful, who pierce tongue or earlobe on the days the calendar appoints and keep its prohibitions without holding office in the temple.
       - level: 3
         title: Debt-Bearer
         lore: layfaithfulrnk
         description: >-
-          Bound by a debt pledged beyond what the calendar requires—a captive dedicated in
-          advance, a pilgrimage undertaken, a season of autosacrifice vowed.
+          Bound by a debt pledged beyond what the calendar requires—a captive dedicated in advance, a pilgrimage undertaken, a season of autosacrifice vowed.
       - level: 4
         title: Tq'an'ik
         lore: initiaternk
         description: >-
-          "Edge-Walker"—an initiate serving in the temples while learning the calendar, the
-          sacred texts and the autosacrificial disciplines the priesthood demands of every
-          member.
+          "Edge-Walker"—an initiate serving in the temples while learning the calendar, the sacred texts and the autosacrificial disciplines the priesthood demands of every member.
       - level: 5
         title: Ch'ul'bal
         lore: priestrnk
         description: >-
-          "Sacred Servant"—an ordained priest, trained from childhood in mathematics,
-          astronomy, writing and the reading of celestial signs, who keeps the daily rites and
-          the codices.
+          "Sacred Servant"—an ordained priest, trained from childhood in mathematics, astronomy, writing and the reading of celestial signs, who keeps the daily rites and the codices.
       - level: 6
         title: K'ul
         lore: highpriestrnk
         description: >-
-          "Keeper"—head of one specialist branch within a temple complex, answerable to its
-          K'ul Tq'an and contending with the other branches for resources, precedence and
-          favor.
+          "Keeper"—head of one specialist branch within a temple complex, answerable to its K'ul Tq'an and contending with the other branches for resources, precedence and favor.
       - level: 7
         title: K'ul Tq'an
         lore: highpriestrnk
         description: >-
-          "Sacred Boundary"—high priest of a temple complex, who alone performs the great
-          sacrificial rites at the turning of the cosmic cycles and holds the calculations that
-          predict when an age will end.
+          "Sacred Boundary"—high priest of a temple complex, who alone performs the great sacrificial rites at the turning of the cosmic cycles and holds the calculations that predict when an age will end.
       - level: 8
         title: Presiding K'ul Tq'an
         lore: grandmasterrnk
         description: >-
-          The K'ul Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes
-          the calendar for the whole city, presides at the New Fire Ceremony, and rules whether
-          the gods approve a K'inmah's succession.
+          The K'ul Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes the calendar for the whole city, presides at the New Fire Ceremony, and rules whether the gods approve a K'inmah's succession.
     offices:
       K'ul Ha'tq'an: >-
-        Keeper of the water-priests—head of the nourishing branch, answerable to the city
-        when the rains do not come.
+        Keeper of the water-priests—head of the nourishing branch, answerable to the city when the rains do not come.
       Master of the Rain-Calling: >-
-        Leads the k'ixkan ch'alix on the pyramid peaks, sets the archaic chant and the pouring
-        of the sacred water.
+        Leads the k'ixkan ch'alix on the pyramid peaks, sets the archaic chant and the pouring of the sacred water.
       Lightning-Marked: >-
-        A priest struck by the god and living; his scars are insignia, and his pronouncements
-        are heard whether or not he is coherent.
+        A priest struck by the god and living; his scars are insignia, and his pronouncements are heard whether or not he is coherent.
       Master of the Water Drums: >-
-        Beats the drums that answer the god's thunder-voice at the coming of the first rains,
-        and trains those who beat with him.
+        Beats the drums that answer the god's thunder-voice at the coming of the first rains, and trains those who beat with him.
       K'ul Tz'umaq'ob: >-
-        Keeper of the serpent-keepers—head of the binding branch, and the priest charged
-        with keeping the city's fear at a working temperature.
+        Keeper of the serpent-keepers—head of the binding branch, and the priest charged with keeping the city's fear at a working temperature.
       Keeper of the Binding: >-
-        Conducts the Tz'umaq'tzuqalil, the mass bloodletting and word-chain by which the
-        serpent is symbolically bound.
+        Conducts the Tz'umaq'tzuqalil, the mass bloodletting and word-chain by which the serpent is symbolically bound.
       Reckoner of Ages: >-
-        Recites the four dead ages and their destructions in full, and holds the count of days
-        since the last realignment.
+        Recites the four dead ages and their destructions in full, and holds the count of days since the last realignment.
       Warden of the Sealed Chambers: >-
-        Guards the serpent-skin codices in their triple-sealed vaults, and is one of the few
-        permitted to read the calculation of the end.
+        Guards the serpent-skin codices in their triple-sealed vaults, and is one of the few permitted to read the calculation of the end.
   seat: null
   domains: []
   population: null
   economy: []
-  lore:
-    - puqilchaqundty
-  parents:
-    - itzanpnthn
-  relations:
-    itzanpnthn: aligned
-sohl:
-  system:
-    commonSkills:
-      - puqilchaqun
+  lore: [puqilchaqundty]
+  parents: [itzanpnthn]
+  relations: {itzanpnthn: aligned}
+  packFolder: pantheonitzani
+sohl: {system: {commonSkills: [puqilchaqun]}}
 ---
 
 **Domain:** Storms, Chaos, Rain, Destruction, and Cosmic Dissolution

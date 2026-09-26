@@ -1,16 +1,10 @@
 ---
-tags:
-  - pantheon
-  - itzani
-  - religion
-description: "Unified Ki'ichek religion of ten gods orchestrating celestial cycles, blood sacrifice as reciprocity, and the fifth age's perpetual brink of cosmological dissolution."
-name:
-  full: Itzáni Pantheon
-  aliases:
-    - The Ten of the Celestial Round
 shortcode: itzanpnthn
+name: {full: Itzáni Pantheon, aliases: [The Ten of the Celestial Round]}
 type: affiliation
 subType: faithtradition
+description: "Unified Ki'ichek religion of ten gods orchestrating celestial cycles, blood sacrifice as reciprocity, and the fifth age's perpetual brink of cosmological dissolution."
+tags: [pantheon, itzani, religion]
 data:
   banner: pantheonbnr
   templatePriority: null
@@ -20,101 +14,74 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A single priestly caste serving all ten gods, ranked by degree of initiation and by the
-      blood-debt a person carries rather than by which god they serve; the lay faithful are
-      bound by the calendar that same caste keeps.
+      A single priestly caste serving all ten gods, ranked by degree of initiation and by the blood-debt a person carries rather than by which god they serve; the lay faithful are bound by the calendar that same caste keeps.
     ranks:
       - level: 0
         title: Blood-Denied
         lore: excmmnctrnk
         description: >-
-          Barred from offering blood, from the priest-read calendar and from the funerary rites—a
-          soul left to face Xibalba's trials unguided, which the Ki'ichek reckon the one sentence
-          that outlives the body.
+          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Xibalba's trials unguided, which the Ki'ichek reckon the one sentence that outlives the body.
       - level: 1
         title: Water-Marked
         lore: catechumenrnk
         description: >-
-          Consecrated at birth with water on the lips and counted among the faithful, but not
-          yet of an age to give blood or keep the fasts.
+          Consecrated at birth with water on the lips and counted among the faithful, but not yet of an age to give blood or keep the fasts.
       - level: 2
         title: Blood-Giver
         lore: layfaithfulrnk
         description: >-
-          The lay faithful, who pierce tongue or earlobe on the days the calendar appoints and
-          keep its prohibitions without holding office in the temple.
+          The lay faithful, who pierce tongue or earlobe on the days the calendar appoints and keep its prohibitions without holding office in the temple.
       - level: 3
         title: Debt-Bearer
         lore: layfaithfulrnk
         description: >-
-          Bound by a debt pledged beyond what the calendar requires—a captive dedicated in
-          advance, a pilgrimage undertaken, a season of autosacrifice vowed.
+          Bound by a debt pledged beyond what the calendar requires—a captive dedicated in advance, a pilgrimage undertaken, a season of autosacrifice vowed.
       - level: 4
         title: Tq'an'ik
         lore: initiaternk
         description: >-
-          "Edge-Walker"—an initiate serving in the temples while learning the calendar, the
-          sacred texts and the autosacrificial disciplines the priesthood demands of every
-          member.
+          "Edge-Walker"—an initiate serving in the temples while learning the calendar, the sacred texts and the autosacrificial disciplines the priesthood demands of every member.
       - level: 5
         title: Ch'ul'bal
         lore: priestrnk
         description: >-
-          "Sacred Servant"—an ordained priest, trained from childhood in mathematics,
-          astronomy, writing and the reading of celestial signs, who keeps the daily rites and
-          the codices.
+          "Sacred Servant"—an ordained priest, trained from childhood in mathematics, astronomy, writing and the reading of celestial signs, who keeps the daily rites and the codices.
       - level: 6
         title: K'ul
         lore: highpriestrnk
         description: >-
-          "Keeper"—head of one specialist branch within a temple complex, answerable to its
-          K'ul Tq'an and contending with the other branches for resources, precedence and
-          favor.
+          "Keeper"—head of one specialist branch within a temple complex, answerable to its K'ul Tq'an and contending with the other branches for resources, precedence and favor.
       - level: 7
         title: K'ul Tq'an
         lore: highpriestrnk
         description: >-
-          "Sacred Boundary"—high priest of a temple complex, who alone performs the great
-          sacrificial rites at the turning of the cosmic cycles and holds the calculations that
-          predict when an age will end.
+          "Sacred Boundary"—high priest of a temple complex, who alone performs the great sacrificial rites at the turning of the cosmic cycles and holds the calculations that predict when an age will end.
       - level: 8
         title: Presiding K'ul Tq'an
         lore: grandmasterrnk
         description: >-
-          The K'ul Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes
-          the calendar for the whole city, presides at the New Fire Ceremony, and rules whether
-          the gods approve a K'inmah's succession.
+          The K'ul Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes the calendar for the whole city, presides at the New Fire Ceremony, and rules whether the gods approve a K'inmah's succession.
     offices:
       Reckoner of Conjunctions: >-
-        Computes the interlocking cycles and issues the auspicious and forbidden days, and so
-        fixes the hour of every significant act in the city.
+        Computes the interlocking cycles and issues the auspicious and forbidden days, and so fixes the hour of every significant act in the city.
       Warden of the Debt: >-
-        Keeps the reckoning of blood owed against blood given, and announces the surplus or
-        shortfall at the close of each twenty-day month.
+        Keeps the reckoning of blood owed against blood given, and announces the surplus or shortfall at the close of each twenty-day month.
       Master of the Sacrifice: >-
-        Marshals the great rites at the turning of the cosmic cycles, and the order in which
-        the branches take part in them.
+        Marshals the great rites at the turning of the cosmic cycles, and the order in which the branches take part in them.
       Master of the New Fire: >-
-        Holds the obsidian mirrors and jade by which fire is drawn from the rising sun every
-        fifty-two years, and the roster of runners who carry it.
+        Holds the obsidian mirrors and jade by which fire is drawn from the rising sun every fifty-two years, and the roster of runners who carry it.
       Voice of Succession: >-
-        Puts the question to the gods when a K'inmah dies and declares whether the heir is
-        sanctioned.
+        Puts the question to the gods when a K'inmah dies and declares whether the heir is sanctioned.
       Keeper of the Codices: >-
-        Holds the temple archive—funerary texts, astronomical records, dream registers and
-        ruin-registers alike—and rules who may consult it.
+        Holds the temple archive—funerary texts, astronomical records, dream registers and ruin-registers alike—and rules who may consult it.
       Warden of the Sealed Chambers: >-
-        Guards the serpent-skin calculations of the age's ending, inspected at each turning of
-        the Tz'uqal Cycle before witnesses from two other branches.
+        Guards the serpent-skin calculations of the age's ending, inspected at each turning of the Tz'uqal Cycle before witnesses from two other branches.
       Master of the Liminal Days: >-
-        Governs the five days of terrible power at the year's end, when the boundary between
-        worlds grows thin and ordinary observance is suspended.
+        Governs the five days of terrible power at the year's end, when the boundary between worlds grows thin and ordinary observance is suspended.
       Master of Initiates: >-
-        Admits the Tq'an'ik, assigns them to branches, and holds the disciplines of
-        autosacrifice through which they are trained.
+        Admits the Tq'an'ik, assigns them to branches, and holds the disciplines of autosacrifice through which they are trained.
       Steward of the Temple Estates: >-
-        Administers the lands, granaries, workshops, tribute and fees on which the whole
-        priestly caste subsists.
+        Administers the lands, granaries, workshops, tribute and fees on which the whole priestly caste subsists.
   seat: null
   domains: []
   population: null
@@ -122,10 +89,8 @@ data:
   lore: []
   parents: []
   relations: {}
-packFolder: pantheonitzani
-sohl:
-  system:
-    commonSkills: []
+  packFolder: pantheonitzani
+sohl: {system: {commonSkills: []}}
 ---
 
 ## The Itzáni Faith

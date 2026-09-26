@@ -1,13 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: thothdty
+name: {full: Thōth, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Thōth
-  aliases: []
-shortcode: thothdty
-packFolder: deitieskemetian
+tags: [draft]
+data: {packFolder: deitieskemetian}
 ---
 
 ![[icon-thoth|Thōth]]{float: top-left, size: medium}

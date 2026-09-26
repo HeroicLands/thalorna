@@ -1,19 +1,9 @@
 ---
-tags:
-  - town
-  - fortified
-description: "Fortified Town"
+shortcode: solarden
+name: {full: Solárden, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - tarvenirgn
-  population: 4000
-name:
-  full: Solárden
-  aliases: []
-shortcode: solarden
-packFolder: tarvenia
+description: "Fortified Town"
+tags: [town, fortified]
+data: {demonym: null, lore: [], parents: [tarvenirgn], population: 4000, packFolder: tarvenia}
 ---

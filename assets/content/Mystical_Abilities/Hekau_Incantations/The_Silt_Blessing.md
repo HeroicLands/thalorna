@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: The Silt Blessing
-  aliases: []
-description: "Enriches a worked field so that it bears as though newly flooded."
 shortcode: sltblssng
+name: {full: The Silt Blessing, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: ankhkemet
-  templatePriority: null
+description: "Enriches a worked field so that it bears as though newly flooded."
+tags: [khemenu-hekau, incantation]
+data: {icon: ankhkemet, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: ankhkemet
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
-packFolder: hekauincantations
+    charges: {value: null, max: null}
 ---
 
 The workaday form of the House, spoken over fields the flood reached poorly or not at all, and the

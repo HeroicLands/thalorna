@@ -1,21 +1,16 @@
 ---
-tags:
-  - region
-description: "The land of the Kingdom of Léonrik—the central-southern lowlands of Tarvénia between the mountains and the coast, the richest farmland in the west."
-name:
-  full: Léonrik
-  aliases: []
 shortcode: leonrik
+name: {full: Léonrik, aliases: []}
 type: place
 subType: region
+description: "The land of the Kingdom of Léonrik—the central-southern lowlands of Tarvénia between the mountains and the coast, the richest farmland in the west."
+tags: [region]
 data:
   demonym: Léonrikan
-  lore:
-    - humanflk
-  parents:
-    - tarvenirgn
+  lore: [humanflk]
+  parents: [tarvenirgn]
   population: 1000000
-packFolder: tarvenia
+  packFolder: tarvenia
 ---
 
 ## Overview

@@ -1,32 +1,25 @@
 ---
-tags:
-  - reference
-  - calendar
-description: "The Vylarian Common Calendar, kept from Mídhalión to Aelwyth: twelve months, four fixed quarter days, and the year every other reckoning is measured against."
+shortcode: commoncal
+name: {full: The Common Calendar, aliases: [Common Calendar, Vylarian Reckoning]}
 type: lore
 subType: calendar
-name:
-  full: The Common Calendar
-  aliases:
-    - Common Calendar
-    - Vylarian Reckoning
-shortcode: commoncal
-packFolder: vylaria
+description: "The Vylarian Common Calendar, kept from Mídhalión to Aelwyth: twelve months, four fixed quarter days, and the year every other reckoning is measured against."
+tags: [reference, calendar]
 data:
   epoch: 720/1/1
   months:
-    - { name: Floralis, abbreviation: Flor, days: 30 }
-    - { name: Lusenar, abbreviation: Luse, days: 31 }
-    - { name: Murkas, abbreviation: Murk, days: 30 }
-    - { name: Taranis, abbreviation: Tara, days: 31 }
-    - { name: Vulcar, abbreviation: Vulc, days: 30 }
-    - { name: Menaris, abbreviation: Mena, days: 31 }
-    - { name: Venuris, abbreviation: Venu, days: 30 }
-    - { name: Karnavar, abbreviation: Karn, days: 30 }
-    - { name: Morveth, abbreviation: Morv, days: 31 }
-    - { name: Thanaris, abbreviation: Than, days: 30 }
-    - { name: Aetheris, abbreviation: Aeth, days: 31 }
-    - { name: Janar, abbreviation: Jana, days: 30 }
+    - {name: Floralis, abbreviation: Flor, days: 30}
+    - {name: Lusenar, abbreviation: Luse, days: 31}
+    - {name: Murkas, abbreviation: Murk, days: 30}
+    - {name: Taranis, abbreviation: Tara, days: 31}
+    - {name: Vulcar, abbreviation: Vulc, days: 30}
+    - {name: Menaris, abbreviation: Mena, days: 31}
+    - {name: Venuris, abbreviation: Venu, days: 30}
+    - {name: Karnavar, abbreviation: Karn, days: 30}
+    - {name: Morveth, abbreviation: Morv, days: 31}
+    - {name: Thanaris, abbreviation: Than, days: 30}
+    - {name: Aetheris, abbreviation: Aeth, days: 31}
+    - {name: Janar, abbreviation: Jana, days: 30}
   weekdays: []
   eras:
     - shortcode: founding
@@ -34,6 +27,7 @@ data:
       abbreviation: AF
       proclaimedBy: vylarinmpr
       start: 1
+  packFolder: vylaria
 ---
 
 The **Common Calendar** counts twelve months from Floralis to Janar, running thirty and thirty-one days by turns and breaking that turn once, where Venuris and Karnavar both run thirty. The twelve sum to a full solar year. Floralis opens on the vernal equinox, and the calendar's own name for that day is **1 Floralis**.

@@ -1,21 +1,8 @@
 ---
-tags:
-  - character
-  - reference
-  - unattributed
-name:
-  full: Malachar
-  title: Prophet
-  given: Malachar
-  clan: ""
-  aliases: []
-description: "The sect's leader, Prophet Malachar, views Sharmînah as an abomination and works to counter her influence."
 shortcode: malachar
+name: {full: Malachar, title: Prophet, given: Malachar, clan: "", aliases: []}
 type: being
-data:
-  species: humanflk
-  templatePriority: null
-  archetypes: []
-  stations: []
-  lore: []
+description: "The sect's leader, Prophet Malachar, views Sharmînah as an abomination and works to counter her influence."
+tags: [character, reference, unattributed]
+data: {species: humanflk, templatePriority: null, archetypes: [], stations: [], lore: []}
 ---

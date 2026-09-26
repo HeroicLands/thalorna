@@ -1,15 +1,11 @@
 ---
-name:
-  full: Locations
-  aliases: []
+shortcode: locations
+name: {full: Locations, aliases: []}
 type: doc
 subType: reference
-shortcode: locations
-tags:
-  - draft
 description: Notable places—ruins, landmarks, dungeons, and wonders.
-data:
-  banner: sitebnr
+tags: [draft]
+data: {banner: sitebnr}
 ---
 
 Notable places—ruins, landmarks, dungeons, and wonders.

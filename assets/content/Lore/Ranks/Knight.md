@@ -1,13 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: knightrnk
+name: {full: Knight, aliases: []}
 type: lore
 subType: law
-name:
-  full: Knight
-  aliases: []
-shortcode: knightrnk
 description: "Holding land by military service, owing that service in person."
+tags: [draft]
 ---
 
 Holding land by military service, owing that service in person.

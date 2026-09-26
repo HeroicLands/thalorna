@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Parched Soul
-  aliases:
-    - Thirst
-description: "Victims suffer overwhelming thirst; dehydration sets in rapidly."
 shortcode: pchsoul
+name: {full: Parched Soul, aliases: [Thirst]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-firebdg
-  templatePriority: null
+description: "Victims suffer overwhelming thirst; dehydration sets in rapidly."
+tags: []
+data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Thirst
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Thirst
 ---
 
 The caster projects a wave of desiccating heat that settles over the targeted area like an invisible blanket. The air becomes oppressively dry, pulling moisture from every surface it touches. Throats parch, skin tightens and cracks, and a relentless thirst builds that no amount of drinking seems to satisfy—for the spell draws moisture from the body faster than it can be replaced.

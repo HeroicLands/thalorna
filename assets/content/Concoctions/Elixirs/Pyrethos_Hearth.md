@@ -1,19 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: "Pyréthos's Hearth"
-  aliases:
-    - Warmth Elixir
-description: "Golden-amber warmth elixir; shields allies from cold and frost."
 shortcode: elxwrm
+name: {full: "Pyréthos's Hearth", aliases: [Warmth Elixir]}
 type: concoctiongear
 subType: elixir
-hmk:
-  name: Warmth
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "Golden-amber warmth elixir; shields allies from cold and frost."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "na"
     strength: 0
-packFolder: elixirs
+
+# hmk:
+#   name: Warmth
 ---
 
 A Warmth Elixir radiates heat even in the vial, a golden-amber brew that feels warm to the touch, smelling of spice and living earth. Drawn from the Principle of Heat (Pyréthos), this elixir envelops the imbiber and nearby allies in a protective aura of warmth. The drinker receives an immediate +2 Frost Armor Value and a +10 bonus to all cold-related tests and saves. Creatures within five feet of the imbiber gain a lesser benefit—+1 Frost Armor Value and +5 bonus—extending the elixir's mercy to companions who huddle near the source.

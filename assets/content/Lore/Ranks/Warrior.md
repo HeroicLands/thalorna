@@ -1,13 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: warriorrnk
+name: {full: Warrior, aliases: []}
 type: lore
 subType: law
-name:
-  full: Warrior
-  aliases: []
-shortcode: warriorrnk
 description: "Bearing arms by right and reckoned a fighter rather than a levy."
+tags: [draft]
 ---
 
 Bearing arms by right and reckoned a fighter rather than a levy.

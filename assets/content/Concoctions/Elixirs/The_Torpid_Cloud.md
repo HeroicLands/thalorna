@@ -1,19 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: The Torpid Cloud
-  aliases:
-    - Weakness Elixir
-description: "Sickly pale fluid; weakens drinker, reducing physical and mental."
 shortcode: elxwkn
+name: {full: The Torpid Cloud, aliases: [Weakness Elixir]}
 type: concoctiongear
 subType: elixir
-hmk:
-  name: Weakness
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "Sickly pale fluid; weakens drinker, reducing physical and mental."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "na"
     strength: 0
-packFolder: elixirs
+
+# hmk:
+#   name: Weakness
 ---
 
 A Weakness Elixir is a sickly, pale fluid that reeks of decay and exhaustion, and induces profound unease simply by proximity. Drawn from the Principle of Decay (Physéra), this is an applied elixir designed to be shattered rather than swallowed. When the vial is forcibly smashed—hurled at an enemy or dashed against ground—it detonates in a twenty-foot radius cloud of invisible, toxic fumes. All creatures caught within the blast at the moment of explosion have their Strength score reduced by half the elixir's AS, affecting Impact Modifier, Heft, Draw, and Encumbrance Modifier accordingly.

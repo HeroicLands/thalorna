@@ -1,14 +1,10 @@
 ---
-tags: []
-name:
-  full: Katar
-  aliases: []
-description: "H-gripped forearm-blade for knuckle-punch; tavern brawler's forcing steel."
 shortcode: katr
+name: {full: Katar, aliases: []}
 type: weapongear
-data:
-  icon: icon-broaddagger
-  templatePriority: null
+description: "H-gripped forearm-blade for knuckle-punch; tavern brawler's forcing steel."
+tags: []
+data: {icon: icon-broaddagger, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: knife
   weaponType: Knife
@@ -23,14 +19,8 @@ sohl:
         name: Impale
         assocSkillCode: melee
         minParts: 1
-        attack:
-          spread: 6
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 8
-          modifier: 2
-          aspect: piercing
+        attack: {spread: 6, modifier: 0}
+        impactBase: {numDice: 1, die: 8, modifier: 2, aspect: piercing}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -59,22 +49,14 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 3
-        defense:
-          blockMod: 0
-          counterstrikeMod: 0
+        defense: {blockMod: 0, counterstrikeMod: 0}
       cut:
         type: melee
         name: Cut
         assocSkillCode: melee
         minParts: 1
-        attack:
-          spread: 4
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 10
-          modifier: 1
-          aspect: edged
+        attack: {spread: 4, modifier: 0}
+        impactBase: {numDice: 1, die: 10, modifier: 1, aspect: edged}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -103,10 +85,7 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 3
-        defense:
-          blockMod: 0
-          counterstrikeMod: 0
-packFolder: weapons
+        defense: {blockMod: 0, counterstrikeMod: 0}
 ---
 
 A straight blade fixed to a wide H-shaped grip that runs the length of the forearm, swung and thrust with the whole hand in a knuckle-punch motion. The blade tapers from a broad base to a point, forcing impact through mail and plate when driven with shoulder and hip. A weapon of close brawlers and bare-knuckle fighters, favored in the packed press of a tavern or ambush.

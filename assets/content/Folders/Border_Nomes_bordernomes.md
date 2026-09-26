@@ -1,9 +1,6 @@
 ---
-name:
-  full: "Border Nomes"
 shortcode: bordernomes
+name: {full: "Border Nomes"}
 type: folder
-data:
-  parent: takheperu
-  color: "#81C784"
+data: {parent: takheperu, color: "#81C784"}
 ---

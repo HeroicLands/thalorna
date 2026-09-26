@@ -1,18 +1,9 @@
 ---
-tags:
-  - settlement
-description: "Settlement"
+shortcode: ulfheim
+name: {full: Ulfheim, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - nordheim
-  population: 300
-name:
-  full: Ulfheim
-  aliases: []
-shortcode: ulfheim
-packFolder: nordheim
+description: "Settlement"
+tags: [settlement]
+data: {demonym: null, lore: [], parents: [nordheim], population: 300, packFolder: nordheim}
 ---

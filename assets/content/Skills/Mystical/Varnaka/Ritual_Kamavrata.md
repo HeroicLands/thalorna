@@ -1,18 +1,10 @@
 ---
-tags:
-  - varnaka
-  - faith-skill
+shortcode: kamavrata
+name: {full: "Ritual: Kāmavrata", aliases: [Kāmavrata, Kamavrata, The Celestial Lover]}
 type: skill
 subType: mystical
-shortcode: kamavrata
-name:
-  full: "Ritual: Kāmavrata"
-  aliases:
-    - Kāmavrata
-    - Kamavrata
-    - The Celestial Lover
-data:
-  templatePriority: null
+tags: [varnaka, faith-skill]
+data: {templatePriority: null, packFolder: varnaka}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -21,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: varnaka
 ---
 
 ## Ritual: Kāmavrata

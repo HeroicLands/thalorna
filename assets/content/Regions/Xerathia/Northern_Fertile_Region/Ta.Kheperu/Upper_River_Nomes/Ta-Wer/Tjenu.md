@@ -1,21 +1,17 @@
 ---
-tags:
-  - town
-description: "Nome capital of Ta-Wer."
+shortcode: tjenu
+name: {full: Tjenu, aliases: []}
 type: place
 subType: settlement
+description: "Nome capital of Ta-Wer."
+tags: [town]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - tawernome
+  parents: [tawernome]
   population: 39000
-name:
-  full: Tjenu
-  aliases: []
-shortcode: tjenu
-packFolder: upperrivernomes
+  packFolder: upperrivernomes
 ---
 
 ## Overview

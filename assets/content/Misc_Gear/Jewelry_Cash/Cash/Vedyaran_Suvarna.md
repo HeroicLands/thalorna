@@ -1,26 +1,14 @@
 ---
-tags:
-  - jewelry_cash
-name:
-  full: Vedyaran Suvarna
-  aliases: ["Suvarna", "Suvarna"]
-description: "Chandrapur's gold coin, struck from Suvarnagiri gold bought at the Weighing; the high-value coin of Vedyaran trade, reckoned at sixteen candra."
 shortcode: suvarna
+name: {full: Vedyaran Suvarna, aliases: ["Suvarna", "Suvarna"]}
 type: miscgear
-data:
-  icon: icon-coinsbdg
-  templatePriority: 0
+description: "Chandrapur's gold coin, struck from Suvarnagiri gold bought at the Weighing; the high-value coin of Vedyaran trade, reckoned at sixteen candra."
+tags: [jewelry_cash]
+data: {icon: icon-coinsbdg, templatePriority: 0, packFolder: cash}
 sohl:
-  craft:
-    skill: mtlc
-    secondary: []
+  craft: {skill: mtlc, secondary: []}
   kbcat: cash
-  system:
-    weightBase: 0.006
-    valueBase: 128
-    qualityBase: 0
-    durabilityBase: 3
-packFolder: cash
+  system: {weightBase: 0.006, valueBase: 128, qualityBase: 0, durabilityBase: 3}
 ---
 
 The **suvarna** is gold, struck at [[affiliation-chandrapur|Chandrapur]] and reckoned at sixteen [[miscgear-candra|candra]], a hundred and twenty-eight [[miscgear-tamra|tāmra]]. The Moon House mines none of its metal and buys it at Suvarnagiri's public Weighing. The [[affiliation-mrchntclctvvdyr|Merchant Collective]] can therefore trace every suvarna struck to a particular month's weighed extraction. The coin's own face carries nothing of that record.

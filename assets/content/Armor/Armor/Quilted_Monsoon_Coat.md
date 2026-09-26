@@ -1,21 +1,15 @@
 ---
-tags: []
-name:
-  full: Quilted Monsoon Coat
-  aliases: []
-description: "Waxed quilted cotton coat worn on coastal patrol duty; light protection that turns rain as well as a blade."
 shortcode: mnsncoat
+name: {full: Quilted Monsoon Coat, aliases: []}
 type: armorgear
-data:
-  icon: icon-cloak
-  templatePriority: null
+description: "Waxed quilted cotton coat worn on coastal patrol duty; light protection that turns rain as well as a blade."
+tags: []
+data: {icon: icon-cloak, templatePriority: null, packFolder: armorarmor}
 sohl:
   kbcat: quilted
   armorType: Coat
   detailMaterial: Waxed Monsoon-Cotton
-  craft:
-    skill: txtl
-    secondary: []
+  craft: {skill: txtl, secondary: []}
   system:
     weightBase: 7
     valueBase: 85
@@ -37,14 +31,9 @@ sohl:
         - lthghloc
         - rthghloc
       rigid: []
-    protectionBase:
-      blunt: 3
-      edged: 6
-      piercing: 4
-      fire: 3
+    protectionBase: {blunt: 3, edged: 6, piercing: 4, fire: 3}
     encumbrance: 3
     perceptionPenaltyBase: 0
-packFolder: armorarmor
 ---
 
 Layers of monsoon cotton, stitched in close rows and rubbed through with wax until the outer layer sheds rain the way oiled cloth does, make up this coat. It is cut looser than a war-quilted coat and quilted thinner, and it will not stop a battlefield thrust the way a heavier coat might—what it is built for is a watchman's whole shift standing rain, spray and the ordinary knife-work of a harbor district, not a pitched engagement.

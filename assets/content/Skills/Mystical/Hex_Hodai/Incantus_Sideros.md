@@ -1,16 +1,10 @@
 ---
-tags:
-  - hex-hodai
-  - draft
+shortcode: sideros
+name: {full: Incantus Sidéros, aliases: []}
 type: skill
 subType: mystical
-shortcode: sideros
-name:
-  full: Incantus Sidéros
-  aliases: []
-data:
-  icon: sideros
-  templatePriority: null
+tags: [hex-hodai, draft]
+data: {icon: sideros, templatePriority: null, packFolder: hexhodai}
 sohl:
   system:
     skillBaseFormula: "@aur, @rea"
@@ -19,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: hexhodai
 ---
 
 See [[affiliation-sideros|Eídma Sidéros]]

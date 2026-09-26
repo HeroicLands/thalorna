@@ -1,11 +1,9 @@
 ---
-tags: []
-description: "The Thunder Rider of the Āsháian pantheon—storms, battle, and the protection of those who stand in the open."
+shortcode: bahramisdty
+name: {full: Báhrámiš, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Báhrámiš
-  aliases: []
-shortcode: bahramisdty
-packFolder: deitiesashalan
+description: "The Thunder Rider of the Āsháian pantheon—storms, battle, and the protection of those who stand in the open."
+tags: []
+data: {packFolder: deitiesashalan}
 ---

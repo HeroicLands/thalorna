@@ -1,14 +1,10 @@
 ---
-tags: []
-name:
-  full: Dhal
-  aliases: []
-description: "Brass-bossed circular shield; Damascus prestige and practical deflection."
 shortcode: dhal
+name: {full: Dhal, aliases: []}
 type: weapongear
-data:
-  icon: icon-roundshield
-  templatePriority: null
+description: "Brass-bossed circular shield; Damascus prestige and practical deflection."
+tags: []
+data: {icon: icon-roundshield, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: shield
   weaponType: Shield
@@ -23,14 +19,8 @@ sohl:
         name: Bash
         assocSkillCode: melee
         minParts: 1
-        attack:
-          spread: 6
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 6
-          modifier: 1
-          aspect: blunt
+        attack: {spread: 6, modifier: 0}
+        impactBase: {numDice: 1, die: 6, modifier: 1, aspect: blunt}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -59,10 +49,7 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 1
-        defense:
-          blockMod: 0
-          counterstrikeMod: 0
-packFolder: weapons
+        defense: {blockMod: 0, counterstrikeMod: 0}
 ---
 
 A circular shield of steel and hide, often richly worked with brass bosses and damascened patterns, the Dhal is both shield and ornament. Its multiple bosses deflect blows and conceal reinforced zones; warriors prize it for protection and the prestige of its craft.

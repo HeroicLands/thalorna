@@ -1,19 +1,9 @@
 ---
-tags:
-  - village
-  - coastal
-description: "Coastal Village"
+shortcode: sulun
+name: {full: Sulûn, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - haradregin
-  population: 2000
-name:
-  full: Sulûn
-  aliases: []
-shortcode: sulun
-packFolder: harad
+description: "Coastal Village"
+tags: [village, coastal]
+data: {demonym: null, lore: [], parents: [haradregin], population: 2000, packFolder: harad}
 ---

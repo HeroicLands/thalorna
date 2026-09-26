@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Ironbind
-  aliases:
-    - Steel
-description: "Transmutes base material into high-quality, workable steel instantly."
 shortcode: ironbind
+name: {full: Ironbind, aliases: [Steel]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-anvilbdg
-  templatePriority: null
+description: "Transmutes base material into high-quality, workable steel instantly."
+tags: []
+data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideros
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Steel
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Steel
 ---
 
 The caster lays hands upon a quantity of base material—raw iron ore, rough-hewn stone, even salvaged scrap—and channels transformative energy through it. The material's composition shifts at the fundamental level, impurities separating and burning away, crystalline structures realigning into the dense, regular patterns of high-quality steel. The transformation is visible: dull gray ore brightens to a steel-blue sheen, rough surfaces smooth as the material densifies, and the characteristic ring of quality metal sounds when the product is struck.

@@ -1,21 +1,17 @@
 ---
-description: "Woodland kingdom where Sinalë and humans coexist in a culture of music, prophecy, and ancient magic—the only human realm in Ankaris where the Elder Races walk openly as equals."
+shortcode: elavendre
+name: {full: Élavendre, aliases: [Élavendre Region]}
 type: place
 subType: region
+description: "Woodland kingdom where Sinalë and humans coexist in a culture of music, prophecy, and ancient magic—the only human realm in Ankaris where the Elder Races walk openly as equals."
 data:
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - aureldirgn
+  lore: [humanflk]
+  parents: [aureldirgn]
   population: 2000000
-name:
-  full: Élavendre
-  aliases:
-    - Élavendre Region
-shortcode: elavendre
-terran_analog: "Northern France and Switzerland—the temperate-and-Alpine northern Aurèldían heartland of forest, river-valley farming, mountain monasteries, and the great Pelwar cultural sphere."
-packFolder: elavendre
+  packFolder: elavendre
+
+# terran_analog: "Northern France and Switzerland—the temperate-and-Alpine northern Aurèldían heartland of forest, river-valley farming, mountain monasteries, and the great Pelwar cultural sphere."
 ---
 
 On the western shores of [[place-ankrscntnnt|Ankaris Continent]], Élavendre stands as a beacon of culture and magic. Rich in history and tradition, Élavendre is a land where ancient forests meet rolling plains, and towering mountains overlook tranquil lakes. It is a place steeped in the arcane, where magic flows freely through the air and the people are deeply attuned to the land's mystical energies.

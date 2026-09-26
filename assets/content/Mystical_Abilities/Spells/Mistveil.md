@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Mistveil
-  aliases:
-    - Vapour
-description: "Fog obscuring large area; hides enemies and muffles sound."
 shortcode: mistveil
+name: {full: Mistveil, aliases: [Vapour]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
+description: "Fog obscuring large area; hides enemies and muffles sound."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Vapour
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Vapour
 ---
 
 The caster spreads both hands and exhales; moisture condenses from the surrounding air in an accelerating cascade, thickening within seconds into a dense, churning fog bank that swallows the terrain in a gray-white obscurity. Vision beyond arm's length becomes impossible, sound is muffled and directionless, and even the ground underfoot seems uncertain as familiar landmarks vanish into the murk. The mist clings to skin and armor, leaving everything damp and cold, and carries a faint ozone tang that marks it as unnatural to anyone with arcane training.

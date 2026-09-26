@@ -1,8 +1,6 @@
 ---
-name:
-  full: "Hex_Hodai"
 shortcode: hexhodai
+name: {full: "Hex_Hodai"}
 type: folder
-data:
-  parent: mysticalskills
+data: {parent: mysticalskills}
 ---

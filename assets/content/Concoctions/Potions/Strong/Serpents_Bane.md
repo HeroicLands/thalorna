@@ -1,19 +1,11 @@
 ---
-tags:
-  - strong-elixir
-name:
-  full: "Serpent's Bane"
-  aliases:
-    - Potion, Antivenin, Strong
-description: "Brilliant amber-gold antivenin; cures snake and poison damage."
 shortcode: ptnantvs
+name: {full: "Serpent's Bane", aliases: ["Potion, Antivenin, Strong"]}
 type: concoctiongear
 subType: exotic
-hmk:
-  name: "Potion, Antivenin, Strong"
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "Brilliant amber-gold antivenin; cures snake and poison damage."
+tags: [strong-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: strong}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "strong"
     strength: 0
-packFolder: strong
+
+# hmk:
+#   name: "Potion, Antivenin, Strong"
 ---
 
 Brilliant amber-gold in color, this concentrated antivenin catches the light like liquid honey strained through cloth of gold, its surface catching lamplight with an almost oily sheen. The preparation smells sharply of distilled vinegar and crushed asps' teeth, potent enough to clear the sinuses at first whiff. A single sip burns the throat, but the sensation is almost welcome—the body recognizes immediately that it has received medicine of consequence. The vial is smaller than its mild counterpart, each drop more costly and more precious.

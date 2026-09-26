@@ -1,23 +1,11 @@
 ---
-tags:
-  - sacred
-  - pilgrimage
-  - inland
-description: "The endowed network of free hostels for traveling priests and ascetics, twenty-three houses on the great pilgrimage roads, paid for out of Suvarnagiri's gold."
+shortcode: bhrvdvsthna
+name: {full: The Bhārava-Devasthāna Hostels, aliases: [The Bhārava-Devasthāna]}
 type: place
 subType: site
-data:
-  demonym: null
-  lore: []
-  parents:
-    - vedyarargn
-  population: null
-name:
-  full: The Bhārava-Devasthāna Hostels
-  aliases:
-    - The Bhārava-Devasthāna
-shortcode: bhrvdvsthna
-packFolder: vedyara
+description: "The endowed network of free hostels for traveling priests and ascetics, twenty-three houses on the great pilgrimage roads, paid for out of Suvarnagiri's gold."
+tags: [sacred, pilgrimage, inland]
+data: {demonym: null, lore: [], parents: [vedyarargn], population: null, packFolder: vedyara}
 ---
 
 The **Bhārava-Devasthāna** is an endowed network of free hostels for traveling priests and ascetics, kept at twenty-three sites along the major Vedyari pilgrimage routes. It is paid for out of the gold of [[affiliation-suvrgrjnpd|Suvarnagiri]], and it is the largest single charity in the subcontinent that belongs to no city.

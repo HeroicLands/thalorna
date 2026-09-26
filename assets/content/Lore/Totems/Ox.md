@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The ox as a totemic ideal, and the human character it describes."
+shortcode: oxttm
+name: {full: Ox, aliases: [Ox Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Ox
-  aliases:
-    - Ox Totem
-shortcode: oxttm
-packFolder: loretotems
-data:
-  banner: creaturebnr
+description: "The ox as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-oxtotem|Ox]]{float: top-left, size: medium}

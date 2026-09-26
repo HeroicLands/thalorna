@@ -1,17 +1,10 @@
 ---
-tags:
-  - kemetian
-  - faith-skill
-  - draft
+shortcode: sobek
+name: {full: "Ritual: Sobek", aliases: ["Sobek, The Crocodile-God"]}
 type: skill
 subType: mystical
-shortcode: sobek
-name:
-  full: "Ritual: Sobek"
-  aliases:
-    - Sobek, The Crocodile-God
-data:
-  templatePriority: null
+tags: [kemetian, faith-skill, draft]
+data: {templatePriority: null, packFolder: kemetian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -20,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: kemetian
 ---
 
 See [[affiliation-sobek|Faith of Sobek]]

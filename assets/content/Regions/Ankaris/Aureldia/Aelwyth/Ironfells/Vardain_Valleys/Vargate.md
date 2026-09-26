@@ -1,23 +1,16 @@
 ---
-tags:
-  - town
-  - mountain
-  - market
-description: "The Vardain town at the foot of the road to Vorgald—the single point at which Khazári work passes into human hands, and the closest any outsider will get to the Deep Folk."
+shortcode: vargate
+name: {full: Vargate, aliases: []}
 type: place
 subType: settlement
+description: "The Vardain town at the foot of the road to Vorgald—the single point at which Khazári work passes into human hands, and the closest any outsider will get to the Deep Folk."
+tags: [town, mountain, market]
 data:
   demonym: null
-  lore:
-    - vardain
-  parents:
-    - vardainvalleys
+  lore: [vardain]
+  parents: [vardainvalleys]
   population: 1500
-name:
-  full: Vargate
-  aliases: []
-shortcode: vargate
-packFolder: aelwyth
+  packFolder: aelwyth
 ---
 
 **Vargate** stands at the foot of the road that climbs to [[place-vorgald|Vorgald]], and it is the only

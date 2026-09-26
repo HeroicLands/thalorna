@@ -1,11 +1,10 @@
 ---
-description: "Prosperity."
-tags:
-  - kemetian
-  - religion
-  - prosperity
+shortcode: hapi
+name: {full: Faith of Hâpi, aliases: [Hâpi, Hapy, Apis, The Golden Reveler, The Overflowing One]}
 type: affiliation
 subType: faithtradition
+description: "Prosperity."
+tags: [kemetian, religion, prosperity]
 data:
   banner: takheperubnr
   icon: hapi
@@ -16,17 +15,13 @@ data:
   governance:
     model: theocracy
     summary: >-
-      Less formally organized than most, and no less influential for it: the ability to command the
-      finest food and entertainment in a region is real social power. The High Priest is chosen as
-      much for a demonstrated ability to organize festivals and keep the temple's reputation for
-      generosity as for spiritual knowledge.
+      Less formally organized than most, and no less influential for it: the ability to command the finest food and entertainment in a region is real social power. The High Priest is chosen as much for a demonstrated ability to organize festivals and keep the temple's reputation for generosity as for spiritual knowledge.
     ranks:
       - level: 0
         title: Rite-Denied
         lore: excmmnctrnk
         description: >-
-          Barred from the temple rites, and with them from the funerary rites every Kheperi
-          eventually requires—a sentence that reaches past the end of the life it is passed in.
+          Barred from the temple rites, and with them from the funerary rites every Kheperi eventually requires—a sentence that reaches past the end of the life it is passed in.
       - level: 1
         title: Lay Faithful
         lore: layfaithfulrnk
@@ -36,57 +31,33 @@ data:
         title: Wab
         lore: initiaternk
         description: >-
-          "Purified One"—acolytes, many of whom never seek ordination at all and instead take up
-          careers as chefs, brewmasters, musicians or organizers of festivals, keeping informal ties
-          to the temple for life.
+          "Purified One"—acolytes, many of whom never seek ordination at all and instead take up careers as chefs, brewmasters, musicians or organizers of festivals, keeping informal ties to the temple for life.
       - level: 3
         title: Hem'Netjer
         lore: priestrnk
         description: >-
-          "Servant of the God"—ordained priests overseeing distinct parts of the temple's
-          operations—the wine vaults, the granaries, the festival calendar.
+          "Servant of the God"—ordained priests overseeing distinct parts of the temple's operations—the wine vaults, the granaries, the festival calendar.
       - level: 4
         title: Wer'Hekau
         lore: highpriestrnk
         description: >-
-          "Great of Sacred Power"—High Priest of Hâpi, chosen not only for spiritual knowledge but
-          for demonstrated ability to organize festivals and maintain the temple's reputation for
-          generosity and excellent food.
+          "Great of Sacred Power"—High Priest of Hâpi, chosen not only for spiritual knowledge but for demonstrated ability to organize festivals and maintain the temple's reputation for generosity and excellent food.
     offices:
       Keeper of the Wine Vaults: >-
         The Hem'Netjer responsible for the temple's wine.
       Keeper of the Granaries: >-
-        The Hem'Netjer responsible for the temple's stores. The great granaries anchor the
-        grain-credit economy and supply the dole given out to temple-dependents, the flood-season
-        construction gangs and the registered poor—which is less charity than statecraft: a hungry
-        capital is a dangerous one, and whoever controls the granaries holds a lever on the peace of
-        the city.
+        The Hem'Netjer responsible for the temple's stores. The great granaries anchor the grain-credit economy and supply the dole given out to temple-dependents, the flood-season construction gangs and the registered poor—which is less charity than statecraft: a hungry capital is a dangerous one, and whoever controls the granaries holds a lever on the peace of the city.
       Keeper of the Festival Calendar: >-
         The Hem'Netjer who sets and keeps the cycle of feasts on which the cult's standing rests.
   seat: null
   domains: []
   population: null
-  economy:
-    - affiliation-perhati
-  lore:
-    - hapidty
-  parents:
-    - kemtnpnthn
-  relations:
-    kemtnpnthn: aligned
-name:
-  full: Faith of Hâpi
-  aliases:
-    - Hâpi
-    - Hapy
-    - Apis
-    - The Golden Reveler
-    - The Overflowing One
-shortcode: hapi
-packFolder: pantheonskemetian
-sohl:
-  system:
-    commonSkills: []
+  economy: [affiliation-perhati]
+  lore: [hapidty]
+  parents: [kemtnpnthn]
+  relations: {kemtnpnthn: aligned}
+  packFolder: pantheonskemetian
+sohl: {system: {commonSkills: []}}
 ---
 
 Hâpi embodies the abundance that flows through Ta'Kheperu like the river itself, bringing fertility to the fields, prosperity to traders, and joy to those who know how to celebrate life. He is not a god of restraint or ascetic virtue, but of exuberant plenty—the laughter at a feast, the swell of passion, the glint of gold in lamplight. Depicted as a corpulent figure crowned with cornucopiae and adorned with precious metals, or sometimes as the golden waters of the Kheperian River itself flowing with treasures, Hâpi represents the divine promise that the world is abundant and meant to be enjoyed. His temples overflow with the scents of flowers, incense, and roasted meats; his festivals are famous throughout the civilized lands as occasions of unparalleled revelry.

@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Icebridge
-  aliases:
-    - Floe
-description: "Freezes paths across water; forms traversable bridge for travel."
 shortcode: icbrdg
+name: {full: Icebridge, aliases: [Floe]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
+description: "Freezes paths across water; forms traversable bridge for travel."
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Floe
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Floe
 ---
 
 The caster freezes a path across open water, forming a bridge of thick, solid ice that can support the weight of travelers, animals, and even laden carts. The ice spreads from the caster's position, extending outward in the direction they indicate, thickening and reinforcing itself as it grows. The resulting bridge is rough-surfaced for grip and arches slightly above the water line, with edges that curve upward to prevent slipping off the sides.

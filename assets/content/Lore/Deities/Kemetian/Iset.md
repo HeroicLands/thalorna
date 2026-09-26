@@ -1,13 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: isetdty
+name: {full: Íšét, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Íšét
-  aliases: []
-shortcode: isetdty
-packFolder: deitieskemetian
+tags: [draft]
+data: {packFolder: deitieskemetian}
 ---
 
 ![[icon-iset|Íšét]]{float: top-left, size: medium}

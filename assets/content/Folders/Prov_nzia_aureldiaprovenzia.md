@@ -1,9 +1,6 @@
 ---
-name:
-  full: "Provènzia"
 shortcode: aureldiaprovenzia
+name: {full: "Provènzia"}
 type: folder
-data:
-  parent: ankarisaureldia
-  color: "#8FBC8F"
+data: {parent: ankarisaureldia, color: "#8FBC8F"}
 ---

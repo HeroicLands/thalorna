@@ -1,22 +1,11 @@
 ---
-tags:
-  - artifact
-  - regalia
-  - nordlands
-description: "One of the three regalia of Gróa's quest—hidden in an ancient shrine and held by a spirit guardian who must be answered in the spirit world rather than fought."
-type: miscgear
-name:
-  full: The Spear of Sigrid
-  aliases: []
 shortcode: sprsigrid
-packFolder: nordlands
-data:
-  templatePriority: null
-sohl:
-  system:
-    weightBase: 5
-    valueBase: 0
-    durabilityBase: 15
+name: {full: The Spear of Sigrid, aliases: []}
+type: miscgear
+description: "One of the three regalia of Gróa's quest—hidden in an ancient shrine and held by a spirit guardian who must be answered in the spirit world rather than fought."
+tags: [artifact, regalia, nordlands]
+data: {templatePriority: null, packFolder: nordlands}
+sohl: {system: {weightBase: 5, valueBase: 0, durabilityBase: 15}}
 ---
 
 One of the **three regalia** required to seal away [[being-njorven|Njörven]], with the

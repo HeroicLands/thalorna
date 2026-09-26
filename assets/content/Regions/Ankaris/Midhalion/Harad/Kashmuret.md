@@ -1,21 +1,11 @@
 ---
-tags:
-  - town
-  - trading
-description: "Trading Town"
+shortcode: kashmuret
+name: {full: Kashmuret, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - haradregin
-  population: 12000
-name:
-  full: Kashmuret
-  aliases: []
-shortcode: kashmuret
-packFolder: harad
+description: "Trading Town"
+tags: [town, trading]
+data: {demonym: null, lore: [], parents: [haradregin], population: 12000, packFolder: harad}
 ---
 
 ## Overview

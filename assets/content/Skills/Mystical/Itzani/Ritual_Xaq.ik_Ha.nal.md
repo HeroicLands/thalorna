@@ -1,19 +1,10 @@
 ---
-tags:
-  - itzani
-  - faith-skill
-  - draft
+shortcode: xaqikhanal
+name: {full: "Ritual: Xaq'ik Ha'nal", aliases: [Xaq'ik Ha'nal, The Blossom of Living Waters]}
 type: skill
 subType: mystical
-shortcode: xaqikhanal
-name:
-  full: "Ritual: Xaq'ik Ha'nal"
-  aliases:
-    - Xaq'ik Ha'nal
-    - The Blossom of Living Waters
-data:
-  icon: null
-  templatePriority: null
+tags: [itzani, faith-skill, draft]
+data: {icon: null, templatePriority: null, packFolder: itzani}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -22,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: itzani
 ---
 
 See [[affiliation-xaqikhanal|Faith of Xaq'ik Ha'nal]]

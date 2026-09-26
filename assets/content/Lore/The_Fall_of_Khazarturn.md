@@ -1,15 +1,11 @@
 ---
-tags: []
-description: "The destruction of the Khazári's greatest city and every soul in it in 2427 BF—Grukar driven by a renegade Sinalë, the worst calamity the Deep Folk have known on Thalorna, and the sealing of the city afterward as a single tomb for thirty thousand."
+shortcode: khazarturn
+name: {full: The Fall of Khazártúrn, aliases: [Khazártúrn, The Valley of Seven Towers]}
 type: lore
 subType: history
-name:
-  full: The Fall of Khazártúrn
-  aliases:
-    - Khazártúrn
-    - The Valley of Seven Towers
-shortcode: khazarturn
-packFolder: settinglore
+description: "The destruction of the Khazári's greatest city and every soul in it in 2427 BF—Grukar driven by a renegade Sinalë, the worst calamity the Deep Folk have known on Thalorna, and the sealing of the city afterward as a single tomb for thirty thousand."
+tags: []
+data: {packFolder: settinglore}
 ---
 
 **Khazártúrn** was the greatest city the [[lore-flkkhazar|Khazári]] ever built. In **2427 BF** it was

@@ -1,18 +1,10 @@
 ---
-tags:
-  - kemetian
-  - faith-skill
-  - draft
+shortcode: horus
+name: {full: "Ritual: Hórús", aliases: ["Hórús, The Guiding Falcon"]}
 type: skill
 subType: mystical
-shortcode: horus
-name:
-  full: "Ritual: Hórús"
-  aliases:
-    - Hórús, The Guiding Falcon
-data:
-  icon: horus
-  templatePriority: null
+tags: [kemetian, faith-skill, draft]
+data: {icon: horus, templatePriority: null, packFolder: kemetian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -21,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: kemetian
 ---
 
 See [[affiliation-horus|Faith of Hórús]]

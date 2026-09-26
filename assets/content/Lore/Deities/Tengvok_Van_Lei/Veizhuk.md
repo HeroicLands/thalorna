@@ -1,11 +1,9 @@
 ---
-tags: []
-description: "The Jade Sovereign of the Tëngvōk Vān Lëi, at the head of the celestial bureaucracy and answerable for its whole administration."
+shortcode: veizhukdty
+name: {full: Vëizhük, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Vëizhük
-  aliases: []
-shortcode: veizhukdty
-packFolder: deitiestengvokvanlei
+description: "The Jade Sovereign of the Tëngvōk Vān Lëi, at the head of the celestial bureaucracy and answerable for its whole administration."
+tags: []
+data: {packFolder: deitiestengvokvanlei}
 ---

@@ -1,23 +1,17 @@
 ---
-tags:
-  - town
-  - market
-  - temple
-description: "Market & Temple Town"
+shortcode: sau
+name: {full: Sau, aliases: []}
 type: place
 subType: settlement
+description: "Market & Temple Town"
+tags: [town, market, temple]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - sauneferunome
+  parents: [sauneferunome]
   population: 45000
-name:
-  full: Sau
-  aliases: []
-shortcode: sau
-packFolder: sauneferu
+  packFolder: sauneferu
 ---
 
 ## Overview

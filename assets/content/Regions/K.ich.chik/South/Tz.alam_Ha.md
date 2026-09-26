@@ -1,21 +1,11 @@
 ---
-tags:
-  - port
-  - city
-description: "Port City"
+shortcode: tzalamha
+name: {full: Tz’alam Ha’, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - balamtzakurgn
-  population: 45000
-name:
-  full: Tz’alam Ha’
-  aliases: []
-shortcode: tzalamha
-packFolder: south
+description: "Port City"
+tags: [port, city]
+data: {demonym: null, lore: [], parents: [balamtzakurgn], population: 45000, packFolder: south}
 ---
 
 ## Overview

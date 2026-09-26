@@ -1,19 +1,11 @@
 ---
-tags:
-  - strong-elixir
-name:
-  full: "Witch's Swill"
-  aliases:
-    - Potion, Emetic, Strong
-description: "Murky yellow-brown concentrate; causes sickness and repulsion."
 shortcode: ptnems
+name: {full: "Witch's Swill", aliases: ["Potion, Emetic, Strong"]}
 type: concoctiongear
 subType: exotic
-hmk:
-  name: "Potion, Emetic, Strong"
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "Murky yellow-brown concentrate; causes sickness and repulsion."
+tags: [strong-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: strong}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "strong"
     strength: 0
-packFolder: strong
+
+# hmk:
+#   name: "Potion, Emetic, Strong"
 ---
 
 Murky yellow-brown, this concentrate has the viscosity of thin oil and smells like the distilled essence of everything repugnant—bile, rotten fruit, and chemicals that burn the nostrils. Even uncorking the vial makes the stomach flex in anticipation of violence. The taste is almost impossibly bitter, accompanied by a burning sensation that leaves the mouth raw and sensitive. Those who must drink the strong emetic typically steel themselves beforehand, knowing that the next few minutes will be among the most physically unpleasant of their lives. Drinking it straight is an act of will; it is sometimes disguised in wine or ale to make it slightly more tolerable.

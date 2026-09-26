@@ -1,10 +1,5 @@
 ---
-tags:
-  - heroes-and-knaves
-  - todo
-  - guilded
-  - mages
-  - character
+shortcode: angldsptrks
 name:
   full: Ángelides Patrikîos
   title: ""
@@ -12,21 +7,17 @@ name:
   clan: Patrikîos
   home: chrysamar
   aliases: []
-packFolder: helladbyzaria
-shortcode: angldsptrks
 type: being
+tags: [heroes-and-knaves, todo, guilded, mages, character]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Mage (Healing)
   stations: []
-  lore:
-    - commonerrnk
-  homes:
-    - byzariargn
-  affiliations:
-    - byzarianlg
+  lore: [commonerrnk]
+  homes: [byzariargn]
+  affiliations: [byzarianlg]
   gender: male
   species: humanflk
   born: 678/10/12
@@ -39,155 +30,120 @@ data:
     skin_color: light
     complexion: weathered
     extra_features: []
+  packFolder: helladbyzaria
 sohl:
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 16 } }
-    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 17 } }
-    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 15 } }
-    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 16 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 14 } }
-    - { model: affiliation-florania }
-    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 32 } }
-    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 80 } }
-    - { model: sohl-sohl-skill-math, system: { masteryLevelBase: 30 } }
-    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 16 } }
-    - { model: skill-helnkscrpt, system: { masteryLevelBase: 80 } }
-    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 48 } }
-    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 28 } }
-    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 56 } }
-    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 42 } }
-    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 60 } }
-    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 42 } }
-    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 26 } }
-    - { model: sohl-sohl-skill-anmcft, system: { masteryLevelBase: 28 } }
-    - { model: sohl-sohl-skill-fish, system: { masteryLevelBase: 32 } }
-    - { model: sohl-sohl-skill-smsh, system: { masteryLevelBase: 30 } }
-    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 45 } }
-    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 48 } }
-    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 39 } }
-    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 26 } }
-    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 36 } }
-    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 14 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 56 } }
-    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 13 } }
-    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 14 } }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 45 } }
-    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 24 } }
-    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 28 } }
-    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 12 } }
-    - { model: sohl-sohl-skill-fltch, system: { masteryLevelBase: 14 } }
-    - { model: sohl-sohl-mysticalability-tarot, system: { masteryLevelBase: 48 } }
-    - { model: sohl-sohl-weapongear-stf }
-    - { model: sohl-sohl-armorgear-gcoat }
-    - { model: sohl-sohl-armorgear-hstrsr }
-    - { model: sohl-sohl-armorgear-ltkboot }
-    - { model: sohl-sohl-armorgear-gcoat, system: { shortcode: GCoat2 } }
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 16}}
+    - {model: sohl-sohl-attribute-cml, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 17}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 15}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 16}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-emp, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-elo, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-mor, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-voi, system: {scoreBase: 14}}
+    - {model: affiliation-florania}
+    - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 32}}
+    - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 80}}
+    - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 30}}
+    - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 16}}
+    - {model: skill-helnkscrpt, system: {masteryLevelBase: 80}}
+    - {model: sohl-sohl-skill-chrm, system: {masteryLevelBase: 48}}
+    - {model: sohl-sohl-skill-cmd, system: {masteryLevelBase: 28}}
+    - {model: sohl-sohl-skill-dscr, system: {masteryLevelBase: 56}}
+    - {model: sohl-sohl-skill-guil, system: {masteryLevelBase: 42}}
+    - {model: sohl-sohl-skill-intr, system: {masteryLevelBase: 60}}
+    - {model: sohl-sohl-skill-sing, system: {masteryLevelBase: 42}}
+    - {model: sohl-sohl-skill-thtcs, system: {masteryLevelBase: 26}}
+    - {model: sohl-sohl-skill-anmcft, system: {masteryLevelBase: 28}}
+    - {model: sohl-sohl-skill-fish, system: {masteryLevelBase: 32}}
+    - {model: sohl-sohl-skill-smsh, system: {masteryLevelBase: 30}}
+    - {model: sohl-sohl-skill-srvl, system: {masteryLevelBase: 45}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 48}}
+    - {model: sohl-sohl-skill-clmb, system: {masteryLevelBase: 39}}
+    - {model: sohl-sohl-skill-dnce, system: {masteryLevelBase: 26}}
+    - {model: sohl-sohl-skill-jump, system: {masteryLevelBase: 36}}
+    - {model: sohl-sohl-skill-ridg, system: {masteryLevelBase: 14}}
+    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 56}}
+    - {model: sohl-sohl-skill-swim, system: {masteryLevelBase: 13}}
+    - {model: sohl-sohl-skill-archery, system: {masteryLevelBase: 14}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 45}}
+    - {model: sohl-sohl-skill-melee, system: {masteryLevelBase: 24}}
+    - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 28}}
+    - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 12}}
+    - {model: sohl-sohl-skill-fltch, system: {masteryLevelBase: 14}}
+    - {model: sohl-sohl-mysticalability-tarot, system: {masteryLevelBase: 48}}
+    - {model: sohl-sohl-weapongear-stf}
+    - {model: sohl-sohl-armorgear-gcoat}
+    - {model: sohl-sohl-armorgear-hstrsr}
+    - {model: sohl-sohl-armorgear-ltkboot}
+    - {model: sohl-sohl-armorgear-gcoat, system: {shortcode: GCoat2}}
     - name: Herbal poultices (healing preparations)
       type: miscgear
-      system:
-        shortcode: herbalpoultices
-        quantity: 6
-        value: 5
-        weight: 1
-        durability: 3
+      system: {shortcode: herbalpoultices, quantity: 6, value: 5, weight: 1, durability: 3}
     - name: Ritual components (chalk, salt, rare herbs)
       type: miscgear
-      system:
-        shortcode: ritualcomponents
-        weight: 0.5
-        value: 4
-        durability: 3
+      system: {shortcode: ritualcomponents, weight: 0.5, value: 4, durability: 3}
     - name: Enchanted stones (amulet set)
       type: miscgear
-      system:
-        shortcode: enchantedstones
-        quantity: 4
-        value: 8
-        weight: 1
-        durability: 3
+      system: {shortcode: enchantedstones, quantity: 4, value: 8, weight: 1, durability: 3}
     - name: Tarot cards (worn but well-cared)
       type: miscgear
-      system:
-        shortcode: tarotcards
-        value: 3
-        weight: 1
-        durability: 3
+      system: {shortcode: tarotcards, value: 3, weight: 1, durability: 3}
     - name: Grimoire (personal magical notes)
       type: miscgear
-      system:
-        shortcode: grimoire
-        weight: 1
-        value: 5
-        durability: 3
-    - { model: sohl-sohl-miscgear-tndrbx }
-    - { model: sohl-sohl-containergear-wtrskin }
-    - { model: sohl-sohl-containergear-bpchlg }
+      system: {shortcode: grimoire, weight: 1, value: 5, durability: 3}
+    - {model: sohl-sohl-miscgear-tndrbx}
+    - {model: sohl-sohl-containergear-wtrskin}
+    - {model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:
         zones:
-          - name: Head
-            shortcode: headzone
-            probWeight: 1
-          - name: Arms
-            shortcode: armszone
-            probWeight: 4
-          - name: Torso
-            shortcode: torsozone
-            probWeight: 4
-          - name: Legs
-            shortcode: legszone
-            probWeight: 6
+          - {name: Head, shortcode: headzone, probWeight: 1}
+          - {name: Arms, shortcode: armszone, probWeight: 4}
+          - {name: Torso, shortcode: torsozone, probWeight: 4}
+          - {name: Legs, shortcode: legszone, probWeight: 6}
         parts:
           - name: Head
             shortcode: headpart
             bodyZoneCode: headzone
-            roles:
-              - vital
+            roles: [vital]
             canHoldItem: false
             probWeight: 1
           - name: Right Arm
             shortcode: rarmpart
             bodyZoneCode: armszone
-            roles:
-              - manipulator
+            roles: [manipulator]
             canHoldItem: true
             probWeight: 2
           - name: Left Arm
             shortcode: larmpart
             bodyZoneCode: armszone
-            roles:
-              - manipulator
+            roles: [manipulator]
             canHoldItem: true
             probWeight: 2
           - name: Torso
             shortcode: torsopart
             bodyZoneCode: torsozone
-            roles:
-              - core
+            roles: [core]
             canHoldItem: false
             probWeight: 4
           - name: Right Leg
             shortcode: rlegpart
             bodyZoneCode: legszone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 3
           - name: Left Leg
             shortcode: llegpart
             bodyZoneCode: legszone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 3
         locations:
@@ -198,11 +154,7 @@ sohl:
             amputability: none
             shockValue: 5
             probWeight: 500
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Left Eye
             shortcode: leyeloc
             bodyPartCode: headpart
@@ -210,11 +162,7 @@ sohl:
             amputability: none
             shockValue: 5
             probWeight: 15
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Right Eye
             shortcode: reyeloc
             bodyPartCode: headpart
@@ -222,11 +170,7 @@ sohl:
             amputability: none
             shockValue: 5
             probWeight: 15
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Nose
             shortcode: noseloc
             bodyPartCode: headpart
@@ -234,11 +178,7 @@ sohl:
             amputability: none
             shockValue: 5
             probWeight: 30
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Left Cheek
             shortcode: lcheekloc
             bodyPartCode: headpart
@@ -246,11 +186,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 60
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Right Cheek
             shortcode: rcheekloc
             bodyPartCode: headpart
@@ -258,11 +194,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 60
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Left Ear
             shortcode: learloc
             bodyPartCode: headpart
@@ -270,11 +202,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 15
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Right Ear
             shortcode: rearloc
             bodyPartCode: headpart
@@ -282,11 +210,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 15
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Mouth
             shortcode: mouthloc
             bodyPartCode: headpart
@@ -294,11 +218,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 30
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Jaw
             shortcode: jawloc
             bodyPartCode: headpart
@@ -306,11 +226,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 60
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Neck
             shortcode: neckloc
             bodyPartCode: headpart
@@ -318,11 +234,7 @@ sohl:
             amputability: low
             shockValue: 5
             probWeight: 200
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Right Shoulder
             shortcode: rshldloc
             bodyPartCode: rarmpart
@@ -330,11 +242,7 @@ sohl:
             amputability: none
             shockValue: 3
             probWeight: 30
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Right Upper Arm
             shortcode: rupaloc
             bodyPartCode: rarmpart
@@ -342,11 +250,7 @@ sohl:
             amputability: medium
             shockValue: 1
             probWeight: 30
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Right Elbow
             shortcode: relbloc
             bodyPartCode: rarmpart
@@ -354,11 +258,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Right Forearm
             shortcode: rfraloc
             bodyPartCode: rarmpart
@@ -366,11 +266,7 @@ sohl:
             amputability: medium
             shockValue: 1
             probWeight: 20
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Right Hand
             shortcode: rhandloc
             bodyPartCode: rarmpart
@@ -378,11 +274,7 @@ sohl:
             amputability: high
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Left Shoulder
             shortcode: lshldloc
             bodyPartCode: larmpart
@@ -390,11 +282,7 @@ sohl:
             amputability: none
             shockValue: 3
             probWeight: 30
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Left Upper Arm
             shortcode: lupaloc
             bodyPartCode: larmpart
@@ -402,11 +290,7 @@ sohl:
             amputability: medium
             shockValue: 1
             probWeight: 30
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Left Elbow
             shortcode: lelbloc
             bodyPartCode: larmpart
@@ -414,11 +298,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Left Forearm
             shortcode: lfraloc
             bodyPartCode: larmpart
@@ -426,11 +306,7 @@ sohl:
             amputability: medium
             shockValue: 1
             probWeight: 20
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Left Hand
             shortcode: lhandloc
             bodyPartCode: larmpart
@@ -438,11 +314,7 @@ sohl:
             amputability: high
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Thorax
             shortcode: thrxloc
             bodyPartCode: torsopart
@@ -450,11 +322,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 40
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Abdomen
             shortcode: abdmnloc
             bodyPartCode: torsopart
@@ -462,11 +330,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 40
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Pelvis
             shortcode: plvisloc
             bodyPartCode: torsopart
@@ -474,11 +338,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 20
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Right Thigh
             shortcode: rthghloc
             bodyPartCode: rlegpart
@@ -486,11 +346,7 @@ sohl:
             amputability: low
             shockValue: 3
             probWeight: 40
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Right Knee
             shortcode: rkneeloc
             bodyPartCode: rlegpart
@@ -498,11 +354,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Right Calf
             shortcode: rcalfloc
             bodyPartCode: rlegpart
@@ -510,11 +362,7 @@ sohl:
             amputability: medium
             shockValue: 1
             probWeight: 30
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Right Foot
             shortcode: rfootloc
             bodyPartCode: rlegpart
@@ -522,11 +370,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 20
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Left Thigh
             shortcode: lthghloc
             bodyPartCode: llegpart
@@ -534,11 +378,7 @@ sohl:
             amputability: low
             shockValue: 3
             probWeight: 40
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Left Knee
             shortcode: lkneeloc
             bodyPartCode: llegpart
@@ -546,11 +386,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Left Calf
             shortcode: lcalfloc
             bodyPartCode: llegpart
@@ -558,11 +394,7 @@ sohl:
             amputability: medium
             shockValue: 1
             probWeight: 30
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Left Foot
             shortcode: lfootloc
             bodyPartCode: llegpart
@@ -570,14 +402,8 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 20
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
-      weight:
-        base: null
-        calc: "(9 * str) + 50"
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
+      weight: {base: null, calc: "(9 * str) + 50"}
       reachBase: 0
       bodyScaleBase: 1
       personalFatigue: "enc + 5"

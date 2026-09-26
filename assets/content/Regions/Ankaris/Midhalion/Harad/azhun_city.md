@@ -1,20 +1,11 @@
 ---
-tags:
-  - port
-  - city
-description: "Port City"
+shortcode: azhun2
+name: {full: Azhûn, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - haradregin
-  population: 200000
-name:
-  full: Azhûn
-  aliases: []
-shortcode: azhun2
+description: "Port City"
+tags: [port, city]
+data: {demonym: null, lore: [], parents: [haradregin], population: 200000}
 ---
 
 ## Overview

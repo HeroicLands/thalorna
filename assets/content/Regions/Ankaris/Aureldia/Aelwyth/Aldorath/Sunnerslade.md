@@ -1,22 +1,11 @@
 ---
-tags:
-  - region
-  - hill
-  - inland
-description: "The vine country of Aldorath—sheltered slopes in the rain-shadow of the Ironfells, producing a cool-climate wine that has no business existing and is famous as far as the mainland."
+shortcode: sunnerslade
+name: {full: Sunnerslade, aliases: []}
 type: place
 subType: region
-data:
-  demonym: null
-  lore: []
-  parents:
-    - aldorathrgn
-  population: 21000
-name:
-  full: Sunnerslade
-  aliases: []
-shortcode: sunnerslade
-packFolder: aelwyth
+description: "The vine country of Aldorath—sheltered slopes in the rain-shadow of the Ironfells, producing a cool-climate wine that has no business existing and is famous as far as the mainland."
+tags: [region, hill, inland]
+data: {demonym: null, lore: [], parents: [aldorathrgn], population: 21000, packFolder: aelwyth}
 ---
 
 **Sunnerslade** is the strip of south- and west-facing slope where the

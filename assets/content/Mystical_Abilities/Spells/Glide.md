@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Glide
-  aliases:
-    - Icewalk
-description: "Caster descends slowly; falls without impact or harm sustained."
 shortcode: glide
+name: {full: Glide, aliases: [Icewalk]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
+description: "Caster descends slowly; falls without impact or harm sustained."
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Icewalk
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Icewalk
 ---
 
 The caster enchants a surface of ice to become perfectly smooth and frictionless beneath the target's feet, while simultaneously granting the target supernatural balance and speed upon it. The target skims across ice with effortless grace, accelerating to remarkable speeds and turning with a thought, as if the ice itself were cooperating with their movement.

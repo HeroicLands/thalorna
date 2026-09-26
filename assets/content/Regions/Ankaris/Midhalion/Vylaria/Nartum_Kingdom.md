@@ -1,21 +1,16 @@
 ---
-tags:
-  - region
-description: "The land of the Holy Kingdom of Nartûm—the independent Vylari-speaking realm ruled from the holy city of Nartûm under its priestly aristocracy."
-name:
-  full: Nartûm Kingdom
-  aliases: []
 shortcode: nartumkngdm
+name: {full: Nartûm Kingdom, aliases: []}
 type: place
 subType: region
+description: "The land of the Holy Kingdom of Nartûm—the independent Vylari-speaking realm ruled from the holy city of Nartûm under its priestly aristocracy."
+tags: [region]
 data:
   demonym: Nartumi
-  lore:
-    - humanflk
-  parents:
-    - vylariargn
+  lore: [humanflk]
+  parents: [vylariargn]
   population: 2500000
-packFolder: vylaria
+  packFolder: vylaria
 ---
 
 ## Overview

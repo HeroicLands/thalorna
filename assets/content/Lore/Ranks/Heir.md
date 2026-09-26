@@ -1,13 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: heirrnk
+name: {full: Heir, aliases: []}
 type: lore
 subType: law
-name:
-  full: Heir
-  aliases: []
-shortcode: heirrnk
 description: "Designated to succeed, and by that already a party to the body's negotiations."
+tags: [draft]
 ---
 
 Designated to succeed, and by that already a party to the body's negotiations.

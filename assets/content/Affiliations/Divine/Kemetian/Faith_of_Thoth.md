@@ -1,11 +1,10 @@
 ---
-description: "Knowledge."
-tags:
-  - kemetian
-  - religion
-  - knowledge
+shortcode: thoth
+name: {full: Faith of Thōth, aliases: [Thōth, Djhuty, Thaut, The Scribe of the Eternal Library]}
 type: affiliation
 subType: faithtradition
+description: "Knowledge."
+tags: [kemetian, religion, knowledge]
 data:
   banner: takheperubnr
   icon: thoth
@@ -22,8 +21,7 @@ data:
         title: Rite-Denied
         lore: excmmnctrnk
         description: >-
-          Barred from the temple rites, and with them from the funerary rites every Kheperi
-          eventually requires—a sentence that reaches past the end of the life it is passed in.
+          Barred from the temple rites, and with them from the funerary rites every Kheperi eventually requires—a sentence that reaches past the end of the life it is passed in.
       - level: 1
         title: Lay Faithful
         lore: layfaithfulrnk
@@ -33,22 +31,17 @@ data:
         title: Wab
         lore: initiaternk
         description: >-
-          "Purified One"—acolytes in study, many of whom never advance to full priesthood but take
-          secular careers as scribes, administrators or scholars while keeping their connection
-          through continued study and pilgrimage.
+          "Purified One"—acolytes in study, many of whom never advance to full priesthood but take secular careers as scribes, administrators or scholars while keeping their connection through continued study and pilgrimage.
       - level: 3
         title: Hem'Netjer
         lore: priestrnk
         description: >-
-          "Servant of the God"—ordained priests of knowledge, each overseeing a specific domain and
-          holding authority over its archive: the astronomical tables, the medical texts, the
-          architectural plans, and so on.
+          "Servant of the God"—ordained priests of knowledge, each overseeing a specific domain and holding authority over its archive: the astronomical tables, the medical texts, the architectural plans, and so on.
       - level: 4
         title: Wer'Hekau
         lore: highpriestrnk
         description: >-
-          "Great of Sacred Power"—High Priest or High Priestess of Thōth, at the head of the temples
-          that hold the archives.
+          "Great of Sacred Power"—High Priest or High Priestess of Thōth, at the head of the temples that hold the archives.
     offices:
       Keeper of the Astronomical Tables: >-
         The Hem'Netjer holding that archive and training its younger scholars.
@@ -57,44 +50,22 @@ data:
       Keeper of the Architectural Plans: >-
         The Hem'Netjer holding that archive and training its younger scholars.
       Recorder of the Chaos God: >-
-        Thōth's scribes record everything bearing on the understanding of Ápōphis, knowledge being
-        held the strongest defense against chaos.
+        Thōth's scribes record everything bearing on the understanding of Ápōphis, knowledge being held the strongest defense against chaos.
       Keeper of the King-Lists: >-
-        Holds the temple chronologies—the meticulously maintained list of every dynasty and Per-Aá
-        since the Sep Tepy, unbroken. Master copies are kept in Thōth's precinct adjoining the Great
-        Temple of Rā. Western scholars note improbable reigns and suspiciously neat numbers in the
-        earliest dynasties; the Kheperi are serenely unconcerned, the lists having been compiled by
-        the priesthood of the god of sacred knowledge.
+        Holds the temple chronologies—the meticulously maintained list of every dynasty and Per-Aá since the Sep Tepy, unbroken. Master copies are kept in Thōth's precinct adjoining the Great Temple of Rā. Western scholars note improbable reigns and suspiciously neat numbers in the earliest dynasties; the Kheperi are serenely unconcerned, the lists having been compiled by the priesthood of the god of sacred knowledge.
       Master of the Calendar-Service: >-
-        Keeps the realm's time from the observatory at Khemenu, whose astronomers maintain the
-        three-season year of Akhet, Peret and Shemu, reckoned by the flood rather than by a
-        foreign dynasty.
+        Keeps the realm's time from the observatory at Khemenu, whose astronomers maintain the three-season year of Akhet, Peret and Shemu, reckoned by the flood rather than by a foreign dynasty.
       Warden of the Library-Temple: >-
-        Holds the deepest archive in the empire and controls admission to it. Helionite scholars are among
-        the very few foreigners ever admitted.
+        Holds the deepest archive in the empire and controls admission to it. Helionite scholars are among the very few foreigners ever admitted.
   seat: khemenu
   domains: []
   population: null
-  economy:
-    - affiliation-perhati
-  lore:
-    - thothdty
-  parents:
-    - kemtnpnthn
-  relations:
-    kemtnpnthn: aligned
-name:
-  full: Faith of Thōth
-  aliases:
-    - Thōth
-    - Djhuty
-    - Thaut
-    - The Scribe of the Eternal Library
-shortcode: thoth
-packFolder: pantheonskemetian
-sohl:
-  system:
-    commonSkills: []
+  economy: [affiliation-perhati]
+  lore: [thothdty]
+  parents: [kemtnpnthn]
+  relations: {kemtnpnthn: aligned}
+  packFolder: pantheonskemetian
+sohl: {system: {commonSkills: []}}
 ---
 
 Thōth stands as the custodian of all knowledge, the divine scribe who records not merely the deeds of mortals but the very workings of the cosmos itself. In the vaults of the Eternal Library—a celestial archive that exists simultaneously within and beyond the world—Thōth inscribes every moment of creation with his ibis quill, ensuring that nothing of importance is ever truly lost to time. He is depicted as a figure of profound wisdom, often shown with the head of an ibis or crowned with the lunar crescent, for he governs not only the moon's cycles but the rhythmic patterns by which mortals organize knowledge and time.

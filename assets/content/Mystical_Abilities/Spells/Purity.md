@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Purity
-  aliases:
-    - Probity
-description: "Purifies water and food; removes toxins and contamination."
 shortcode: purity
+name: {full: Purity, aliases: [Probity]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-divination
-  templatePriority: null
+description: "Purifies water and food; removes toxins and contamination."
+tags: []
+data: {icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pneumenos
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Probity
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Probity
 ---
 
 The caster touches the target and establishes a resonance with their deepest moral convictions—not imposing external judgment but amplifying the target's own innate sense of right and wrong until it becomes the dominant voice in their decision-making. Impulses rooted in selfishness, cruelty, or dishonesty are not suppressed so much as overwhelmed by the strengthened conscience, which makes their wrongness feel viscerally obvious and emotionally intolerable.

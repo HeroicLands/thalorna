@@ -1,24 +1,19 @@
 ---
-tags:
-  - region
-description: The vast forest-steppe and grain-belt that bridges the Nordlands forests in the west and the Khazryn steppes in the east—a transitional zone of river-prince kingdoms, semi-settled frontier Hosts, and the constant pull and shove of two utterly different ways of life pressing on each other across a thousand miles of frontier.
-name:
-  full: Velanthia Region
-  aliases:
-    - Velanthia
 shortcode: velanthrgn
+name: {full: Velanthia Region, aliases: [Velanthia]}
 type: place
 subType: region
+description: The vast forest-steppe and grain-belt that bridges the Nordlands forests in the west and the Khazryn steppes in the east—a transitional zone of river-prince kingdoms, semi-settled frontier Hosts, and the constant pull and shove of two utterly different ways of life pressing on each other across a thousand miles of frontier.
+tags: [region]
 data:
   icon: null
   demonym: Velanthian
-  lore:
-    - humanflk
-  parents:
-    - ankrscntnnt
+  lore: [humanflk]
+  parents: [ankrscntnnt]
   population: null
-terran_analog: "Moldova, Ukraine, southern Russia, and the Pontic-Caspian steppe and forest-steppe out to the western shore of the Caspian Sea—the great east-European grain belt and forest-steppe transitional zone, historically home to Scythians, Sarmatians, Cumans, Slavs, and Cossack-style frontier confederations."
-packFolder: velanthia
+  packFolder: velanthia
+
+# terran_analog: "Moldova, Ukraine, southern Russia, and the Pontic-Caspian steppe and forest-steppe out to the western shore of the Caspian Sea—the great east-European grain belt and forest-steppe transitional zone, historically home to Scythians, Sarmatians, Cumans, Slavs, and Cossack-style frontier confederations."
 ---
 
 Velanthia is the great east-of-the-Nordlands transitional zone—the long forest-steppe belt and the black-earth grain country that bridges the deep boreal forests of the [[place-nrdlndsrgn|Nordlands]] in the west and the open steppes of the [[place-khzryndsrtrgn|Khazryn]] in the east. It is a region defined less by what it is than by what borders it: forest country to the north and west, open steppe to the south and east, the great inland sea on its far eastern shore, and a thousand-mile internal gradient where mixed forest, river meadow, dense farmland, and open horse-pasture all interleave on a scale that produces no simple cultural type.

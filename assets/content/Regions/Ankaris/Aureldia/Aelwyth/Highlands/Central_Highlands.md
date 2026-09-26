@@ -1,22 +1,11 @@
 ---
-tags:
-  - region
-  - hill
-  - inland
-description: "The warm open uplands at the middle of Aelwyth—rising above the coastal fog into the clearest and kindest weather on the island, and the inland half of Tarvenne."
+shortcode: cntrlhghlnds
+name: {full: The Central Highlands, aliases: []}
 type: place
 subType: region
-data:
-  demonym: null
-  lore: []
-  parents:
-    - aelwyth
-  population: 58000
-name:
-  full: The Central Highlands
-  aliases: []
-shortcode: cntrlhghlnds
-packFolder: aelwyth
+description: "The warm open uplands at the middle of Aelwyth—rising above the coastal fog into the clearest and kindest weather on the island, and the inland half of Tarvenne."
+tags: [region, hill, inland]
+data: {demonym: null, lore: [], parents: [aelwyth], population: 58000, packFolder: aelwyth}
 ---
 
 The **Central Highlands** occupy the middle of Aelwyth between the western coast and the farmland of

@@ -1,22 +1,17 @@
 ---
-tags:
-  - region
-description: "Eastern marsh; the great crocodile cult and the river-beast hunters—the land of the Nome of Hut-Sobek, one of the delta nomes of Ta'Kheperu."
-name:
-  full: Hut-Sobek Nome
-  aliases: []
 shortcode: hutsobeknome
+name: {full: Hut-Sobek Nome, aliases: []}
 type: place
 subType: region
+description: "Eastern marsh; the great crocodile cult and the river-beast hunters—the land of the Nome of Hut-Sobek, one of the delta nomes of Ta'Kheperu."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 500000
-packFolder: deltanomes
+  packFolder: deltanomes
 ---
 
 ## Overview

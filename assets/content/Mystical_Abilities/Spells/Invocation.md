@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Invocation
-  aliases:
-    - Call
-description: "Summoned wind-spirit scouting terrain and engaging in aerial combat."
 shortcode: invctn
+name: {full: Invocation, aliases: [Call]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
+description: "Summoned wind-spirit scouting terrain and engaging in aerial combat."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Call
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Call
 ---
 
 The caster raises both arms and chants a rising incantation into the wind; the air above responds by coalescing into a luminous, vaguely avian figure of compressed atmosphere and crackling static, its wingspan throwing dancing shadows across the ground. This wind-spirit possesses rudimentary intelligence and considerable speed, capable of scouting miles of terrain in minutes, relaying simple sensory impressions back to its summoner, and engaging physical threats with buffeting gusts and razor-edged vortices that slice like invisible blades.

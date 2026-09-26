@@ -1,13 +1,9 @@
 ---
-tags:
-  - dreadspawn
-  - creature
-name:
-  full: Duneclaw
-  aliases: []
-description: "A massive venomous desert arthropod that rules its dune-fields with crushing force, cunning, and predatory instinct."
 shortcode: duneclaw
+name: {full: Duneclaw, aliases: []}
 type: being
+description: "A massive venomous desert arthropod that rules its dune-fields with crushing force, cunning, and predatory instinct."
+tags: [dreadspawn, creature]
 data:
   icon: icon-person
   templatePriority: null
@@ -42,21 +38,21 @@ sohl:
     rea: 1d4+9
     cre: 1d6+6
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 20 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 18 } }
-    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 16 } }
-    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 16 } }
-    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 80 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 75 } }
-    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 39 } }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 56 } }
-    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 60 } }
-    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 48 } }
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 20}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 18}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 16}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 16}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 10}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 80}}
+    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 75}}
+    - {model: sohl-sohl-mysticalability-sprt, system: {masteryLevelBase: 39}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 56}}
+    - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 60}}
+    - {model: sohl-sohl-skill-shok, system: {masteryLevelBase: 48}}
     - name: Crushing Pincer
       type: skill
       system:
@@ -64,35 +60,20 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 57
         combatCategory: melee
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: melee
           shortcode: pincer
           name: Crushing Pincer
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 3
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: 4
-            aspect: blunt
+          attack: {disabled: false, spread: 3, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 4, aspect: blunt}
           lengthBase: 3
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
     - name: Stinger Strike
       type: skill
       system:
@@ -100,77 +81,50 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 60
         combatCategory: melee
-        impairedByRoles:
-          - locomotor
+        impairedByRoles: [locomotor]
         strikeMode:
           type: melee
           shortcode: sting
           name: Stinger Strike
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 3
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: 5
-            aspect: piercing
+          attack: {disabled: false, spread: 3, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 5, aspect: piercing}
           lengthBase: 3
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
-            poison: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true, poison: true}
   system:
     body:
       structure:
         zones:
-          - name: Cephalothorax
-            shortcode: cephzone
-            probWeight: 5
-          - name: Abdomen
-            shortcode: abdomenzone
-            probWeight: 5
-          - name: Legs
-            shortcode: legszone
-            probWeight: 6
+          - {name: Cephalothorax, shortcode: cephzone, probWeight: 5}
+          - {name: Abdomen, shortcode: abdomenzone, probWeight: 5}
+          - {name: Legs, shortcode: legszone, probWeight: 6}
         parts:
           - name: Cephalothorax
             shortcode: cephpart
             bodyZoneCode: cephzone
-            roles:
-              - vital
-              - manipulator
+            roles: [vital, manipulator]
             canHoldItem: false
             probWeight: 10
           - name: Abdomen
             shortcode: abdomenpart
             bodyZoneCode: abdomenzone
-            roles:
-              - core
+            roles: [core]
             canHoldItem: false
             probWeight: 10
           - name: Left Legs
             shortcode: llegspart
             bodyZoneCode: legszone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 5
           - name: Right Legs
             shortcode: rlegspart
             bodyZoneCode: legszone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 5
         locations:
@@ -181,11 +135,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 7
-            protectionBase:
-              blunt: 9
-              edged: 8
-              piercing: 7
-              fire: 9
+            protectionBase: {blunt: 9, edged: 8, piercing: 7, fire: 9}
           - name: Fangs
             shortcode: fangloc
             bodyPartCode: cephpart
@@ -193,11 +143,7 @@ sohl:
             amputability: high
             shockValue: 2
             probWeight: 3
-            protectionBase:
-              blunt: 9
-              edged: 8
-              piercing: 7
-              fire: 9
+            protectionBase: {blunt: 9, edged: 8, piercing: 7, fire: 9}
           - name: Abdomen
             shortcode: abdloc
             bodyPartCode: abdomenpart
@@ -205,11 +151,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 10
-            protectionBase:
-              blunt: 9
-              edged: 8
-              piercing: 7
-              fire: 9
+            protectionBase: {blunt: 9, edged: 8, piercing: 7, fire: 9}
           - name: Left Legs
             shortcode: llegsloc
             bodyPartCode: llegspart
@@ -217,11 +159,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 9
-              edged: 8
-              piercing: 7
-              fire: 9
+            protectionBase: {blunt: 9, edged: 8, piercing: 7, fire: 9}
           - name: Right Legs
             shortcode: rlegsloc
             bodyPartCode: rlegspart
@@ -229,14 +167,8 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 9
-              edged: 8
-              piercing: 7
-              fire: 9
-      weight:
-        base: 200
-        calc: "200"
+            protectionBase: {blunt: 9, edged: 8, piercing: 7, fire: 9}
+      weight: {base: 200, calc: "200"}
       reachBase: 0
       bodyScaleBase: 1.47
       personalFatigue: "enc + 5"
@@ -247,11 +179,7 @@ sohl:
         leaguesPerWatch: 5
         encumbrance: "floor(wt/4)"
         strMod: "-5 * floor((str - 10) / 2)"
-        factors:
-          - scope: surface_cover
-            key: dunes
-            mode: add
-            textValue: "0"
+        factors: [{scope: surface_cover, key: dunes, mode: add, textValue: "0"}]
         disabled: false
 ---
 

@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Drift
-  aliases:
-    - Flotation
-description: "Caster floats weightlessly; moves through air with silent grace."
 shortcode: drift
+name: {full: Drift, aliases: [Flotation]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
+description: "Caster floats weightlessly; moves through air with silent grace."
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Flotation
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Flotation
 ---
 
 The target becomes buoyant beyond all natural expectation, rising gently in water until they float effortlessly at the surface regardless of what they carry or wear. Armored warriors bob like corks; heavy packs ride the surface as if weightless. The enchantment suffuses the target with a subtle lightness that water itself seems to recognize, cradling them against submersion.

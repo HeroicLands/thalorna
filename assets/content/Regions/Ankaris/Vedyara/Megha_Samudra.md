@@ -1,26 +1,20 @@
 ---
-tags:
-  - region
-  - coastal
-description: "The southern ocean off Vedyara—the sea the monsoon comes from, the road to the Kheperi delta, and the wettest coast in Thalorna."
-name:
-  full: Megha-samudra
-  aliases:
-    - The Southern Sea
 shortcode: meghsamdra
+name: {full: Megha-samudra, aliases: [The Southern Sea]}
 type: place
 subType: region
+description: "The southern ocean off Vedyara—the sea the monsoon comes from, the road to the Kheperi delta, and the wettest coast in Thalorna."
+tags: [region, coastal]
 data:
   demonym: null
   lore: []
-  parents:
-    - ankrscntnnt
+  parents: [ankrscntnnt]
   borders:
-    - { to: vedyarargn, bearing: N }
-    - { to: suryasamdra, bearing: NE }
-    - { to: sandhysmdr, bearing: NW }
+    - {to: vedyarargn, bearing: N}
+    - {to: suryasamdra, bearing: NE}
+    - {to: sandhysmdr, bearing: NW}
   population: null
-packFolder: vedyara
+  packFolder: vedyara
 ---
 
 ## Overview

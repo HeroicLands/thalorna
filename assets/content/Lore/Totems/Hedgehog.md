@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The hedgehog as a totemic ideal, and the human character it describes."
+shortcode: hedgehogttm
+name: {full: Hedgehog, aliases: [Hedgehog Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Hedgehog
-  aliases:
-    - Hedgehog Totem
-shortcode: hedgehogttm
-packFolder: loretotems
-data:
-  banner: creaturebnr
+description: "The hedgehog as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-hedgehogtotem|Hedgehog]]{float: top-left, size: medium}

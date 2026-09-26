@@ -1,10 +1,10 @@
 ---
-description: "Fertility."
-tags:
-  - aureldian
-  - religion
+shortcode: florania
+name: {full: Faith of Flórania, aliases: [The Nurturer, Flórania]}
 type: affiliation
 subType: faithtradition
+description: "Fertility."
+tags: [aureldian, religion]
 data:
   banner: faithbnr
   icon: florania
@@ -15,21 +15,18 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the
-      Magistra Florarum above them. The lay faithful keep the feasts without office.
+      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the Magistra Florarum above them. The lay faithful keep the feasts without office.
     ranks:
       - level: 0
         title: Exsecratus
         lore: excmmnctrnk
         description: >-
-          Cast out—denied the rites, the temple and the burial the faith promises, which is the one
-          sentence it can pass that outlives the body.
+          Cast out—denied the rites, the temple and the burial the faith promises, which is the one sentence it can pass that outlives the body.
       - level: 1
         title: Fideles
         lore: layfaithfulrnk
         description: >-
-          The lay faithful, who keep the feasts and the observances of the god without holding office
-          in the temple.
+          The lay faithful, who keep the feasts and the observances of the god without holding office in the temple.
       - level: 2
         title: Acolytes of the Garden
         lore: initiaternk
@@ -58,22 +55,11 @@ data:
   domains: []
   population: null
   economy: []
-  lore:
-    - floraniadty
-  parents:
-    - arldnpnthn
-  relations:
-    arldnpnthn: aligned
-name:
-  full: Faith of Flórania
-  aliases:
-    - The Nurturer
-    - Flórania
-shortcode: florania
-packFolder: pantheonsaureldian
-sohl:
-  system:
-    commonSkills: []
+  lore: [floraniadty]
+  parents: [arldnpnthn]
+  relations: {arldnpnthn: aligned}
+  packFolder: pantheonsaureldian
+sohl: {system: {commonSkills: []}}
 ---
 
 Goddess of fertility, growth, and healing. Flórania ensures the fertility of people, animals, and the land. She is invoked during planting seasons, childbirth, rites of renewal, and healing.

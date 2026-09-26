@@ -1,17 +1,10 @@
 ---
-description: "Religion of the god of desire and fertility and of the creative joy that issues from it."
-tags:
-  - varnaka
-  - deity
-  - fertility
-  - love
-name:
-  full: Kāmavrata
-  aliases:
-    - The Celestial Lover
 shortcode: kamavrata
+name: {full: Kāmavrata, aliases: [The Celestial Lover]}
 type: affiliation
 subType: faithtradition
+description: "Religion of the god of desire and fertility and of the creative joy that issues from it."
+tags: [varnaka, deity, fertility, love]
 data:
   banner: faithbnr
   templatePriority: null
@@ -47,19 +40,11 @@ data:
   domains: []
   population: null
   economy: []
-  lore:
-    - kamavratadty
-  parents:
-    - varakpnthn
-  relations:
-    varakpnthn: aligned
-packFolder: pantheonsvarnaka
-sohl:
-  system:
-    commonSkills:
-      - kamavrata
-      - sohl-sohl-skill-sing
-      - sohl-sohl-skill-agri
+  lore: [kamavratadty]
+  parents: [varakpnthn]
+  relations: {varakpnthn: aligned}
+  packFolder: pantheonsvarnaka
+sohl: {system: {commonSkills: [kamavrata, sohl-sohl-skill-sing, sohl-sohl-skill-agri]}}
 ---
 
 ## Kāmavrata—The Celestial Lover

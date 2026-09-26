@@ -1,19 +1,10 @@
 ---
-tags:
-  - itzani
-  - faith-skill
-  - draft
+shortcode: piqalkulqat
+name: {full: "Ritual: P'iqal Kul'qat", aliases: [P'iqal Kul'qat, Builder of the Sacred Peak]}
 type: skill
 subType: mystical
-shortcode: piqalkulqat
-name:
-  full: "Ritual: P'iqal Kul'qat"
-  aliases:
-    - P'iqal Kul'qat
-    - Builder of the Sacred Peak
-data:
-  icon: null
-  templatePriority: null
+tags: [itzani, faith-skill, draft]
+data: {icon: null, templatePriority: null, packFolder: itzani}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -22,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: itzani
 ---
 
 See [[affiliation-piqalkulqat|Faith of P'iqal Kul'qat]]

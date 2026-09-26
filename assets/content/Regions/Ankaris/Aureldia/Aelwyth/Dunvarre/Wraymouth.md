@@ -1,22 +1,11 @@
 ---
-tags:
-  - town
-  - port
-  - coastal
-description: "Dúnavarre's chief harbor and second city—the working port on the south-eastern coast through which the kingdom's trade with Élavendre and the mainland passes."
+shortcode: wraymouth
+name: {full: Wraymouth, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - dunavarre
-  population: 2500
-name:
-  full: Wraymouth
-  aliases: []
-shortcode: wraymouth
-packFolder: aelwyth
+description: "Dúnavarre's chief harbor and second city—the working port on the south-eastern coast through which the kingdom's trade with Élavendre and the mainland passes."
+tags: [town, port, coastal]
+data: {demonym: null, lore: [], parents: [dunavarre], population: 2500, packFolder: aelwyth}
 ---
 
 **Wraymouth** stands where the Wray comes down to the sea on Aelwyth's south-eastern coast, and is the

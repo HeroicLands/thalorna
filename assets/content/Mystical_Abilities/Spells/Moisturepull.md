@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Moisturepull
-  aliases:
-    - Sweat
-description: "Draws moisture from surroundings; desiccates enemies, extinguishes flames."
 shortcode: mstrpll
+name: {full: Moisturepull, aliases: [Sweat]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
+description: "Draws moisture from surroundings; desiccates enemies, extinguishes flames."
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Sweat
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Sweat
 ---
 
 The caster draws moisture directly from a target—a creature, a length of timber, a sack of grain—leaving it parched and desiccated. Living targets feel an unpleasant draining sensation as water is pulled from their skin and tissues, experiencing sudden thirst, cracked lips, and dried mucous membranes. Organic materials become brittle, shrunken, and lighter.

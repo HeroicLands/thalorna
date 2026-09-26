@@ -1,22 +1,11 @@
 ---
-tags:
-  - region
-  - hill
-  - inland
-description: "The wool uplands of Aldorath—poorer, older and freer than the vale below, running the flocks whose clip is known across Thalorna."
+shortcode: brynwold
+name: {full: Brynwold, aliases: []}
 type: place
 subType: region
-data:
-  demonym: null
-  lore: []
-  parents:
-    - aldorathrgn
-  population: 26000
-name:
-  full: Brynwold
-  aliases: []
-shortcode: brynwold
-packFolder: aelwyth
+description: "The wool uplands of Aldorath—poorer, older and freer than the vale below, running the flocks whose clip is known across Thalorna."
+tags: [region, hill, inland]
+data: {demonym: null, lore: [], parents: [aldorathrgn], population: 26000, packFolder: aelwyth}
 ---
 
 **Brynwold** is Aldorath's upland country, rising west and north of the [[place-aldorvale|Aldorvale]]

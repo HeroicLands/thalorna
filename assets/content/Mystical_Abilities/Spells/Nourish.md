@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Nourish
-  aliases:
-    - Enrichment
-description: "Magical sustenance replacing food; prevents hunger and maintains strength."
 shortcode: nourish
+name: {full: Nourish, aliases: [Enrichment]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-divination
-  templatePriority: null
+description: "Magical sustenance replacing food; prevents hunger and maintains strength."
+tags: []
+data: {icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pneumenos
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Enrichment
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Enrichment
 ---
 
 The caster channels sustaining mental energy into the target's mind, and the fog of exhaustion lifts. Scattered thoughts coalesce into focused chains of reasoning. Memory sharpens, retrieving details that had slipped beyond reach. The creative faculties, dulled by fatigue or stress, reawaken with renewed vigor. The effect is like a second wind of the intellect—a surge of mental freshness that restores the mind to its peak operating condition.

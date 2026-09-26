@@ -1,11 +1,9 @@
 ---
-description: "Distant continent south of the known world—ancient, vast, and largely unknown to Ankarian civilization, rumored to hold wonders and terrors beyond reckoning."
-type: affiliation
-name:
-  full: Kalihara
-  aliases: []
 shortcode: kalihara
+name: {full: Kalihara, aliases: []}
+type: affiliation
 subType: polity
+description: "Distant continent south of the known world—ancient, vast, and largely unknown to Ankarian civilization, rumored to hold wonders and terrors beyond reckoning."
 data:
   templatePriority: null
   demonym: Kaliharan
@@ -19,8 +17,7 @@ data:
         title: Severed
         lore: outlawrnk
         description: >-
-          Cut off from the lineages and from the structures' service; permitted to live, and
-          spoken to by no one.
+          Cut off from the lineages and from the structures' service; permitted to live, and spoken to by no one.
       - level: 1
         title: Bondservant
         lore: bondservantrnk
@@ -29,82 +26,59 @@ data:
         title: Islander
         lore: commonerrnk
         description: >-
-          Of the common lineages, working the terraces and the fisheries under the island's
-          ancient order.
+          Of the common lineages, working the terraces and the fisheries under the island's ancient order.
       - level: 3
         title: Craftsman
         lore: journeymanrnk
         description: >-
-          Of the skilled trades the island's isolation makes precious—shipwrights, dyers,
-          smiths, apothecaries.
+          Of the skilled trades the island's isolation makes precious—shipwrights, dyers, smiths, apothecaries.
       - level: 4
         title: Warden of the Approaches
         lore: officerrnk
         description: >-
-          Charged with the sea-lanes, the pilots and the strangers who must never be allowed
-          to land uninvited.
+          Charged with the sea-lanes, the pilots and the strangers who must never be allowed to land uninvited.
       - level: 5
         title: Ithári'kaan
         lore: officerrnk
         description: >-
-          Keeper of the ancient structures, trained from childhood in maintenance rites whose
-          purpose is no longer wholly understood.
+          Keeper of the ancient structures, trained from childhood in maintenance rites whose purpose is no longer wholly understood.
       - level: 6
         title: Elder of a Lineage
         lore: elderrnk
         description: >-
-          Head of one of the old kindreds, holding its lands, its memory and its share of the
-          island's secrets.
+          Head of one of the old kindreds, holding its lands, its memory and its share of the island's secrets.
       - level: 7
         title: Councillor
         lore: councillorrnk
-        description: Of the body that governs the island and decides, chiefly, what outsiders
-          may be told.
+        description: Of the body that governs the island and decides, chiefly, what outsiders may be told.
       - level: 8
         title: Speaker for the Island
         lore: prsdngffcrrnk
-        description: Presiding over the Council and the one voice permitted to answer a foreign
-          power.
+        description: Presiding over the Council and the one voice permitted to answer a foreign power.
     offices:
       Speaker for the Island: >-
-        Presiding officer of the Council, and the only Kaliharan authorized to treat with
-        a foreign power.
+        Presiding officer of the Council, and the only Kaliharan authorized to treat with a foreign power.
       Councillor: Member of the governing body, seated by lineage and by charge over the structures.
-      Elder of a Lineage: Head of an old kindred, holding its lands and its portion of what
-        the island knows.
+      Elder of a Lineage: Head of an old kindred, holding its lands and its portion of what the island knows.
       Ithári'kaan: >-
-        Keeper of the ancient structures, performing maintenance rites learned by rote across
-        eighty centuries.
-      Warden of the Approaches: Keeper of the sea-lanes, the pilots and the reception of anyone
-        who arrives.
+        Keeper of the ancient structures, performing maintenance rites learned by rote across eighty centuries.
+      Warden of the Approaches: Keeper of the sea-lanes, the pilots and the reception of anyone who arrives.
       Keeper of the Failing Works: >-
-        Charged with the structures that falter and the ones that have ended—an office of recent
-        and unadmitted creation.
-      Master of the Terraces: Warden of the island's agriculture, and of the weather-works
-        it has always depended on.
+        Charged with the structures that falter and the ones that have ended—an office of recent and unadmitted creation.
+      Master of the Terraces: Warden of the island's agriculture, and of the weather-works it has always depended on.
       Harbour-Warden: >-
-        Keeper of the single anchorage foreigners may use, and of everything they are permitted
-        to see from it.
+        Keeper of the single anchorage foreigners may use, and of everything they are permitted to see from it.
       Envoy: >-
-        Sent abroad on the Council's business, briefed in what to say and, more carefully,
-        in what not to.
+        Sent abroad on the Council's business, briefed in what to say and, more carefully, in what not to.
   seat: qasirah
-  domains:
-    - kaliharargn
+  domains: [kaliharargn]
   population: 3000000
-  economy:
-    - lore-bartercnmy
-  lore:
-    - humanflk
+  economy: [lore-bartercnmy]
+  lore: [humanflk]
   parents: []
-  relations:
-    tharivaan: aligned
-packFolder: kalihara
-sohl:
-  system:
-    commonSkills:
-      - kalihrlng
-      - valtarlng
+  relations: {tharivaan: aligned}
+  packFolder: kalihara
+sohl: {system: {commonSkills: [kalihrlng, valtarlng]}}
 ---
 
 **Notable Polities:** Kalihara Confederation

@@ -1,22 +1,17 @@
 ---
-tags:
-  - region
-description: "The vast central country surrounding the imperial city of Wasetkara—its dense hinterland of temple-towns and market-villages and the royal necropolis on the western bank, the land of the Capital Nome."
-name:
-  full: Wasetkara Nome
-  aliases: []
 shortcode: wasetkaranome
+name: {full: Wasetkara Nome, aliases: []}
 type: place
 subType: region
+description: "The vast central country surrounding the imperial city of Wasetkara—its dense hinterland of temple-towns and market-villages and the royal necropolis on the western bank, the land of the Capital Nome."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: Kheperi
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 2500000
-packFolder: capitalnome
+  packFolder: capitalnome
 ---
 
 ## Overview

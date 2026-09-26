@@ -1,21 +1,17 @@
 ---
-tags:
-  - town
-description: "Nome capital of Pekhenu."
+shortcode: pekhenu
+name: {full: Pekhenu, aliases: []}
 type: place
 subType: settlement
+description: "Nome capital of Pekhenu."
+tags: [town]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - pekhenunome
+  parents: [pekhenunome]
   population: 30000
-name:
-  full: Pekhenu
-  aliases: []
-shortcode: pekhenu
-packFolder: upperrivernomes
+  packFolder: upperrivernomes
 ---
 
 ## Overview

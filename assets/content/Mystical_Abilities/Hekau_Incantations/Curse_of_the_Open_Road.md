@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: Curse of the Open Road
-  aliases: []
-description: "Lays a condition of misfortune on a named person that follows them wherever they go."
 shortcode: crsopnrd
+name: {full: Curse of the Open Road, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: sefut
-  templatePriority: null
+description: "Lays a condition of misfortune on a named person that follows them wherever they go."
+tags: [khemenu-hekau, incantation]
+data: {icon: sefut, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: sefut
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-packFolder: hekauincantations
+    charges: {value: null, max: null}
 ---
 
 The classic threshold-curse, and the form most often found on tombs by people who were not

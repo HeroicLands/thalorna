@@ -1,16 +1,10 @@
 ---
-description: "Religion of the god of wisdom and of the work of the mind."
-tags:
-  - varnaka
-  - deity
-  - knowledge
-name:
-  full: Jñānasūra
-  aliases:
-    - The Radiant Sage
 shortcode: jnanasura
+name: {full: Jñānasūra, aliases: [The Radiant Sage]}
 type: affiliation
 subType: faithtradition
+description: "Religion of the god of wisdom and of the work of the mind."
+tags: [varnaka, deity, knowledge]
 data:
   banner: faithbnr
   templatePriority: null
@@ -48,20 +42,13 @@ data:
   domains: []
   population: null
   economy: []
-  lore:
-    - jnanasuradty
-  parents:
-    - varakpnthn
-  relations:
-    varakpnthn: aligned
-packFolder: pantheonsvarnaka
+  lore: [jnanasuradty]
+  parents: [varakpnthn]
+  relations: {varakpnthn: aligned}
+  packFolder: pantheonsvarnaka
 sohl:
   system:
-    commonSkills:
-      - jnanasura
-      - sohl-sohl-skill-math
-      - sohl-sohl-skill-folklr
-      - sohl-sohl-skill-dscr
+    commonSkills: [jnanasura, sohl-sohl-skill-math, sohl-sohl-skill-folklr, sohl-sohl-skill-dscr]
 ---
 
 ## Jñānasūra—The Radiant Sage

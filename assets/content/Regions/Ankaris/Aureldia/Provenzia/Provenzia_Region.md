@@ -1,20 +1,12 @@
 ---
-description: "Eastern coastal region of Aurèldía—wealthy merchant-prince realm dominated by sophisticated city-states and engaged in far-flung trade networks."
+shortcode: provenzrgn
+name: {full: Provènzia Region, aliases: [Provenzia]}
 type: place
 subType: region
-data:
-  demonym: null
-  lore: []
-  parents:
-    - aureldirgn
-  population: 5000000
-name:
-  full: Provènzia Region
-  aliases:
-    - Provenzia
-shortcode: provenzrgn
-terran_analog: "Southwestern France, the Atlantic coast of Spain, and all of Portugal—the southwestern Aurèldían sphere of vineyards, river-mouth ports, illuminated-manuscript scriptoria, and the great glass-and-art cultural tradition that runs along the Atlantic seaboard."
-packFolder: provenzia
+description: "Eastern coastal region of Aurèldía—wealthy merchant-prince realm dominated by sophisticated city-states and engaged in far-flung trade networks."
+data: {demonym: null, lore: [], parents: [aureldirgn], population: 5000000, packFolder: provenzia}
+
+# terran_analog: "Southwestern France, the Atlantic coast of Spain, and all of Portugal—the southwestern Aurèldían sphere of vineyards, river-mouth ports, illuminated-manuscript scriptoria, and the great glass-and-art cultural tradition that runs along the Atlantic seaboard."
 ---
 
 ## Overview

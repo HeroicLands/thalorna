@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Lightbend
-  aliases:
-    - Prism
-description: "Prismatic light fracturing; causes profound disorientation and vertigo."
 shortcode: lghtbnd
+name: {full: Lightbend, aliases: [Prism]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
+description: "Prismatic light fracturing; causes profound disorientation and vertigo."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Prism
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Prism
 ---
 
 The caster holds up a hand and rotates it slowly; the air before them fractures into a prismatic array, splitting ambient light into a dazzling fan of spectral colors that sweeps across the target area like a lighthouse beam. Those caught in the kaleidoscopic wash find their depth perception shattered—distances seem to compress and stretch, stationary objects appear to wobble, and the ground underfoot seems to tilt at impossible angles. The effect is not painful but profoundly disorienting, reducing coordinated action to a lurching, overcorrecting stumble.

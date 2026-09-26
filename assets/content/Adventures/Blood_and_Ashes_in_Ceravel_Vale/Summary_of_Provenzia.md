@@ -1,25 +1,18 @@
 ---
-tags:
-  - draft
+shortcode: sumryprvnz
+name: {full: Summary of Provènzia, aliases: []}
 type: scenario
 subType: adventure
+tags: [draft]
 data:
-  parents:
-    - bldshscrvlvl
-  locations:
-    - provenzrgn
+  parents: [bldshscrvlvl]
+  locations: [provenzrgn]
   cast: []
   factions: []
   follows: []
   status: draft
-  party:
-    size: null
-    archetypes: []
-name:
-  full: Summary of Provènzia
-  aliases: []
-shortcode: sumryprvnz
-packFolder: bloodandashesinceravelvale
+  party: {size: null, archetypes: []}
+  packFolder: bloodandashesinceravelvale
 ---
 
 ### Summary of Provènzia

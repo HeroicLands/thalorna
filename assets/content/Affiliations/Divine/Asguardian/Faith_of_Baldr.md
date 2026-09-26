@@ -1,8 +1,9 @@
 ---
-tags:
-  - asguardian
+shortcode: baldr
+name: {full: Faith of Baldr, aliases: [The Luminous Path]}
 type: affiliation
 subType: faithtradition
+tags: [asguardian]
 data:
   banner: faithbnr
   icon: baldr
@@ -13,37 +14,28 @@ data:
   governance:
     model: council
     summary: >-
-      Alone among the Asguardian faiths, Baldr's adherents took the Sinalëan structure rather than
-      the circles—and it is barely a hierarchy at all. There are two standings and no office above
-      them: all Calathiri are equal, and the Lómëthar that decides anything affecting the faith is
-      an open convocation with no presiding officer, reaching accord by deliberation rather than
-      decree.
+      Alone among the Asguardian faiths, Baldr's adherents took the Sinalëan structure rather than the circles—and it is barely a hierarchy at all. There are two standings and no office above them: all Calathiri are equal, and the Lómëthar that decides anything affecting the faith is an open convocation with no presiding officer, reaching accord by deliberation rather than decree.
     ranks:
       - level: 0
         title: Nídingr
         lore: excmmnctrnk
         description: >-
-          Cut off from the faith. Rare here, and reached by the same open deliberation as everything
-          else, which makes it slower and harder to reverse than a decree would be.
+          Cut off from the faith. Rare here, and reached by the same open deliberation as everything else, which makes it slower and harder to reverse than a decree would be.
       - level: 1
         title: Tindësar
         lore: initiaternk
         description: >-
-          "Star-seeker"—newly called, learning dream-reading, healing and the tending of sacred
-          groves under a Calathir, in a relationship closer to apprentice and mentor than to
-          subordinate and superior.
+          "Star-seeker"—newly called, learning dream-reading, healing and the tending of sacred groves under a Calathir, in a relationship closer to apprentice and mentor than to subordinate and superior.
       - level: 2
         title: Calathir
         lore: priestrnk
         description: >-
-          "Light-watcher"—entrusted with the rites, the care of the faithful and the stewardship of
-          sacred places. All Calathiri are equal in standing, and there is nothing above this.
+          "Light-watcher"—entrusted with the rites, the care of the faithful and the stewardship of sacred places. All Calathiri are equal in standing, and there is nothing above this.
     offices:
       Calathir: >-
         Priest of the faith, holding the rites and the sacred places; equal to every other Calathir.
       Lómëthar: >-
-        "Council of radiance"—the open convocation that decides what affects the faith as a whole.
-        Any Calathir may call one; it has no presiding officer and speaks until it reaches accord.
+        "Council of radiance"—the open convocation that decides what affects the faith as a whole. Any Calathir may call one; it has no presiding officer and speaks until it reaches accord.
       Dreamwarden: >-
         Keeper of the dream-rites and of those who sleep in the sacred groves to receive them.
   seat: null
@@ -51,24 +43,16 @@ data:
   population: null
   economy: []
   lore: []
-  parents:
-    - asguardian
-  relations:
-    asguardian: aligned
-name:
-  full: Faith of Baldr
-  aliases:
-    - The Luminous Path
-shortcode: baldr
-thalorna:
-  deity: Baldr
-  epithet: The Radiant One
-  domain: Elder Races, Dreams, and Light
-  symbol: Sunstone and silver leaf
-packFolder: pantheonsasguardian
-sohl:
-  system:
-    commonSkills: []
+  parents: [asguardian]
+  relations: {asguardian: aligned}
+  packFolder: pantheonsasguardian
+sohl: {system: {commonSkills: []}}
+
+# thalorna:
+#   deity: Baldr
+#   epithet: The Radiant One
+#   domain: Elder Races, Dreams, and Light
+#   symbol: Sunstone and silver leaf
 ---
 
 "Baldr" is the Asguardian name for [[lore-goddreams|The God of Dreams]]—a deity far older than any human pantheon, worshipped by the [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] since before humanity existed. The Aurèldían peoples know the same deity as [[affiliation-aetheria|Aethería]].

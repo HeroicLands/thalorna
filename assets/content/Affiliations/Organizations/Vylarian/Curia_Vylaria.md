@@ -1,15 +1,10 @@
 ---
-tags: []
-description: "The Curia Vylaria, the Palace of the Senate and the seat of the Vylarian Senate—the assembly of the patrician order, which debates, postures, conspires, and in theory advises the Augustar; the highest court for senatorial persons, whose real power waxes and wanes with the strength of whoever wears the imperial diadem."
-name:
-  full: Curia Vylaria
-  aliases:
-    - The Vylarian Senate
-    - The Senate
-    - Vylarian Senate
 shortcode: curiavylar
+name: {full: Curia Vylaria, aliases: [The Vylarian Senate, The Senate, Vylarian Senate]}
 type: affiliation
 subType: governmental
+description: "The Curia Vylaria, the Palace of the Senate and the seat of the Vylarian Senate—the assembly of the patrician order, which debates, postures, conspires, and in theory advises the Augustar; the highest court for senatorial persons, whose real power waxes and wanes with the strength of whoever wears the imperial diadem."
+tags: []
 data:
   templatePriority: null
   demonym: null
@@ -18,24 +13,18 @@ data:
   governance:
     model: council
     summary: >-
-      The patrician assembly of the senior estates, advising the Augustar and trying its own as
-      the highest court for senatorial persons, with no member set over another and its weight
-      rising and falling with the strength of the throne.
+      The patrician assembly of the senior estates, advising the Augustar and trying its own as the highest court for senatorial persons, with no member set over another and its weight rising and falling with the strength of the throne.
     ranks:
       - level: 1
         title: Argentean
         lore: councillorrnk
         description: >-
-          A senator of an established Silver house, seated by standing and holding a voice
-          beneath the dome. A newly elevated house learns quickly that the forms of the Curia
-          are themselves a language one must master to be heard.
+          A senator of an established Silver house, seated by standing and holding a voice beneath the dome. A newly elevated house learns quickly that the forms of the Curia are themselves a language one must master to be heard.
       - level: 2
         title: Aurelian
         lore: elderrnk
         description: >-
-          A senator of a founding Gilded house, traceable to the empire's first century, whose
-          name carries weight in the chamber before he rises and whose custom the chamber's
-          ancient forms are.
+          A senator of a founding Gilded house, traceable to the empire's first century, whose name carries weight in the chamber before he rises and whose custom the chamber's ancient forms are.
     offices: {}
   seat: null
   domains: []
@@ -44,9 +33,7 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 ## The Curia Vylaria

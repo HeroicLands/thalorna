@@ -1,11 +1,9 @@
 ---
+shortcode: threats
+name: {full: Threats, aliases: []}
 type: lore
 subType: history
-name:
-  full: Threats
-  aliases: []
-shortcode: threats
-packFolder: threats
+data: {packFolder: threats}
 ---
 
 ## Threats to the Empire of Tānvür

@@ -1,18 +1,10 @@
 ---
-tags:
-  - asguardian
-  - faith-skill
-  - draft
+shortcode: loki
+name: {full: "Ritual: Lôki", aliases: [The Serpent's Path]}
 type: skill
 subType: mystical
-shortcode: loki
-name:
-  full: "Ritual: Lôki"
-  aliases:
-    - The Serpent's Path
-data:
-  icon: loki
-  templatePriority: null
+tags: [asguardian, faith-skill, draft]
+data: {icon: loki, templatePriority: null, packFolder: asguardian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -21,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: asguardian
 ---
 
 See [[affiliation-loki|Faith of Lôki]]

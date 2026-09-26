@@ -1,20 +1,11 @@
 ---
-tags:
-  - coastal
-description: "The great sheltered bay of Provènzia's northwestern shore—the one deep harbor on an ocean coast otherwise made of cliffs, and the kingdom's whole window on the northern sea-roads."
+shortcode: batarengulf
+name: {full: Gulf of Batáren, aliases: []}
 type: place
 subType: feature
-data:
-  demonym: null
-  lore: []
-  parents:
-    - tramontana
-  population: null
-name:
-  full: Gulf of Batáren
-  aliases: []
-shortcode: batarengulf
-packFolder: provenzia
+description: "The great sheltered bay of Provènzia's northwestern shore—the one deep harbor on an ocean coast otherwise made of cliffs, and the kingdom's whole window on the northern sea-roads."
+tags: [coastal]
+data: {demonym: null, lore: [], parents: [tramontana], population: null, packFolder: provenzia}
 ---
 
 Provènzia's western shore is a cliff coast: craggy, wind-scoured and almost entirely useless to

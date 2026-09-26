@@ -1,26 +1,20 @@
 ---
-tags: []
-name:
-  full: Seeker
-  aliases: []
-description: "Seeks hidden objects; reveals location of sought-after item."
 shortcode: seeker
+name: {full: Seeker, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-firebdg
-  templatePriority: null
+description: "Seeks hidden objects; reveals location of sought-after item."
+tags: []
+data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Seeker
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Seeker
 ---
 
 The caster shapes a bolt of flame and speaks the name or nature of their target, and the missile launches itself with purposeful intent. Unlike a normal projectile, the seeker veers and curves in pursuit, following its quarry around corners, through doorways, and over obstacles with single-minded determination. Its trail of sparks and flame marks its passage through the air, a line of fire that traces its hunting path.

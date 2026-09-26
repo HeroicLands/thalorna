@@ -1,21 +1,11 @@
 ---
-tags:
-  - city-state
-  - city
-  - draft
-description: "City-State"
+shortcode: korinthea2
+name: {full: Korinthea, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - helionis
-  population: 40000
-name:
-  full: Korinthea
-  aliases: []
-shortcode: korinthea2
+description: "City-State"
+tags: [city-state, city, draft]
+data: {demonym: null, lore: [], parents: [helionis], population: 40000}
 ---
 
 ## Overview

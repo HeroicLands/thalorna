@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Rising Current
-  aliases:
-    - Tide
-description: "Commands water flow; raises level or creates powerful currents."
 shortcode: rsngcrnt
+name: {full: Rising Current, aliases: [Tide]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
+description: "Commands water flow; raises level or creates powerful currents."
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Tide
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Tide
 ---
 
 The caster seizes control of a body of water and bends its flow to their will, raising its level, redirecting its course, or creating powerful currents where none existed before. A still pond can be made to surge against one bank; a river can be coaxed to swell and overflow its channel; tidal forces can be amplified to flood a low-lying area.

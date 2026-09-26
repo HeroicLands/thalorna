@@ -1,20 +1,11 @@
 ---
-tags:
-  - city
-  - naval
-description: "Naval City"
+shortcode: pelagora2
+name: {full: Pelagora, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - helionis
-  population: 40000
-name:
-  full: Pelagora
-  aliases: []
-shortcode: pelagora2
+description: "Naval City"
+tags: [city, naval]
+data: {demonym: null, lore: [], parents: [helionis], population: 40000}
 ---
 
 ## Overview

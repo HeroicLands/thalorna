@@ -1,15 +1,11 @@
 ---
-tags: []
-name:
-  full: Korith
-  aliases: []
-description: "The Helm: hard-bodied and steady under a blow, lost in wild country and worse in conversation."
 shortcode: korith
+name: {full: Korith, aliases: []}
 type: mystery
 subType: birthsign
-data:
-  icon: icon-astrology
-  templatePriority: 0
+description: "The Helm: hard-bodied and steady under a blow, lost in wild country and worse in conversation."
+tags: []
+data: {icon: icon-astrology, templatePriority: 0, packFolder: astrokyklos}
 sohl:
   kbcat: birthsign
   system:
@@ -37,7 +33,6 @@ sohl:
       "subType:social": -10
       water: -10
       hydalis: -10
-packFolder: astrokyklos
 ---
 
 Korith, the Helm, tempers its children for endurance and the clash of arms. Strong in body and steady under the strike, they nonetheless find the lore of nature and the graces of speech slow to answer their call.

@@ -1,22 +1,11 @@
 ---
-tags:
-  - sacred
-  - temple
-  - inland
-description: "The Mahájaya temple inside the bow-fort, whose senior priest convenes the sabhā and whose bowmen-priests keep the Watch of the Bow-String."
+shortcode: dhnrktemple
+name: {full: The Mahájaya Temple at Dhanurkota, aliases: []}
 type: place
 subType: structure
-data:
-  demonym: null
-  lore: []
-  parents:
-    - dhanurkotajnpd
-  population: null
-name:
-  full: The Mahájaya Temple at Dhanurkota
-  aliases: []
-shortcode: dhnrktemple
-packFolder: vedyara
+description: "The Mahájaya temple inside the bow-fort, whose senior priest convenes the sabhā and whose bowmen-priests keep the Watch of the Bow-String."
+tags: [sacred, temple, inland]
+data: {demonym: null, lore: [], parents: [dhanurkotajnpd], population: null, packFolder: vedyara}
 ---
 
 The **Mahájaya temple** inside [[place-bowfort|the Bow-Fort]] is the religious and political heart of the [[affiliation-dhnrktjnpd|Dhanurkota Janapada]], and one of the major establishments of the goddess in inland Vedyara. Its great hall is where the sabhā meets, and its senior priest convenes it.

@@ -1,18 +1,10 @@
 ---
-tags:
-  - ashalan
-  - faith-skill
-  - draft
+shortcode: ataros
+name: {full: "Ritual: Ātáröš", aliases: [The Sacred Flame, Fire God]}
 type: skill
 subType: mystical
-shortcode: ataros
-name:
-  full: "Ritual: Ātáröš"
-  aliases:
-    - The Sacred Flame
-    - Fire God
-data:
-  templatePriority: null
+tags: [ashalan, faith-skill, draft]
+data: {templatePriority: null, packFolder: ashalan}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -21,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: ashalan
 ---
 
 See [[affiliation-ataros|Faith of Ātáröš]]

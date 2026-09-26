@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The crow as a totemic ideal, and the human character it describes."
+shortcode: crowttm
+name: {full: Crow, aliases: [Crow Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Crow
-  aliases:
-    - Crow Totem
-shortcode: crowttm
-packFolder: loretotems
-data:
-  banner: creaturebnr
+description: "The crow as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-crowtotem|Crow]]{float: top-left, size: medium}

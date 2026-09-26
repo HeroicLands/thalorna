@@ -1,25 +1,18 @@
 ---
-tags:
-  - region
-  - held
-description: "The arid central plateau of Vedyara—high dry grazing between the river valleys, where the wells are property and the ground is not, and the ruined capital the civilization dates its years from stands on open pasture."
-name:
-  full: Vandhyabhūmi
-  aliases:
-    - The Barren Country
-    - The Central Plateau
 shortcode: vandhyabhumi
+name: {full: Vandhyabhūmi, aliases: [The Barren Country, The Central Plateau]}
 type: place
 subType: region
+description: "The arid central plateau of Vedyara—high dry grazing between the river valleys, where the wells are property and the ground is not, and the ruined capital the civilization dates its years from stands on open pasture."
+tags: [region, held]
 data:
   demonym: Vandhyan
-  lore:
-    - vedyariclt
-  parents:
-    - vedyarargn
+  lore: [vedyariclt]
+  parents: [vedyarargn]
   population: 1200000
-terran_analog: "Semi-arid interior plateau of peninsular India—basalt tableland in the rain-shadow of the coastal ranges, held by transhumant cattle-herding lineages whose wealth is stock and water rights rather than cultivated land"
-packFolder: vedyara
+  packFolder: vedyara
+
+# terran_analog: "Semi-arid interior plateau of peninsular India—basalt tableland in the rain-shadow of the coastal ranges, held by transhumant cattle-herding lineages whose wealth is stock and water rights rather than cultivated land"
 ---
 
 **Vandhyabhūmi** is the high dry interior of [[place-vedyarargn|Vedyara]], the block of tableland the four great rivers run past and do not water. It stands a thousand feet or so above the plains that surround it, it is bounded on the east by the Mahānadi's western tributaries and on the west by the escarpment that falls to the arid western coast, and it is the one large country of the subcontinent that no river valley organizes.

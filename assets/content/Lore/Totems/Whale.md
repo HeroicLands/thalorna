@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The whale as a totemic ideal, and the human character it describes."
+shortcode: whalettm
+name: {full: Whale, aliases: [Whale Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Whale
-  aliases:
-    - Whale Totem
-shortcode: whalettm
-packFolder: loretotems
-data:
-  banner: creaturebnr
+description: "The whale as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-whaletotem|Whale]]{float: top-left, size: medium}

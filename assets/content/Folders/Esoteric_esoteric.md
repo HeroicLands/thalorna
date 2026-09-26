@@ -1,7 +1,6 @@
 ---
-name:
-  full: "Esoteric"
 shortcode: esoteric
+name: {full: "Esoteric"}
 type: folder
 data:
 ---

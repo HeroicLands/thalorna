@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: The Noon Regard
-  aliases: []
-description: "Raises a clear, sourceless light that casts no shadow and cannot be looked away from."
 shortcode: nnrgrd
+name: {full: The Noon Regard, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: atenre
-  templatePriority: null
+description: "Raises a clear, sourceless light that casts no shadow and cannot be looked away from."
+tags: [khemenu-hekau, incantation]
+data: {icon: atenre, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: atenre
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
-packFolder: hekauincantations
+    charges: {value: null, max: null}
 ---
 
 The House's first lesson and its emblem. The light reveals rather than illuminates: it shows a

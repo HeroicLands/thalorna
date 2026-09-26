@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Stillness
-  aliases:
-    - Rest
-description: "Freezes motion; halts all movement within affected area."
 shortcode: stllnss
+name: {full: Stillness, aliases: [Rest]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
+description: "Freezes motion; halts all movement within affected area."
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Rest
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Rest
 ---
 
 The caster imposes an unnatural calm upon a body of water, or upon a restless target's body and mind. Choppy waves flatten to glass. A thrashing swimmer goes limp and floats peacefully. A panicking horse stills, its heaving flanks subsiding into steady breath. The spell enforces rest—not sleep, but a deep, pervading quietude that slows heartbeat, calms breathing, and stills trembling muscles.

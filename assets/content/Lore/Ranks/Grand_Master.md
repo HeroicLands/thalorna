@@ -1,13 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: grandmasterrnk
+name: {full: Grand Master, aliases: []}
 type: lore
 subType: law
-name:
-  full: Grand Master
-  aliases: []
-shortcode: grandmasterrnk
 description: "Head of an order or a guild, elected by its chapter and bound by its rule."
+tags: [draft]
 ---
 
 Head of an order or a guild, elected by its chapter and bound by its rule.

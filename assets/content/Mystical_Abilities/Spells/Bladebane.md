@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Bladebane
-  aliases:
-    - Swordbreaker
-description: "Curse upon weapon; blades dull and shatter under strain."
 shortcode: bldbn
+name: {full: Bladebane, aliases: [Swordbreaker]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-anvilbdg
-  templatePriority: null
+description: "Curse upon weapon; blades dull and shatter under strain."
+tags: []
+data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideros
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Swordbreaker
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Swordbreaker
 ---
 
 The caster focuses their will on an opponent's weapon and the metal responds—not to the wielder's hand but to the caster's command. The blade develops hairline fractures that spread like frost patterns across glass. The edge dulls and chips. At the critical moment of the next strike, the weakened weapon shatters, fragments of ruined metal scattering like broken ice. The failure appears entirely natural, indistinguishable from a flaw in the forging.

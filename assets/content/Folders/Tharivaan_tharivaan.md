@@ -1,8 +1,6 @@
 ---
-name:
-  full: "Tharivaan"
 shortcode: tharivaan
+name: {full: "Tharivaan"}
 type: folder
-data:
-  parent: mysticalskills
+data: {parent: mysticalskills}
 ---

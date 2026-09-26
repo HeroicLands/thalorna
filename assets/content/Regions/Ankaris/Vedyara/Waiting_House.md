@@ -1,22 +1,11 @@
 ---
-tags:
-  - clandestine
-  - market
-  - city
-description: "A stone house in Chandrapur's cutting streets where consignments lie between stages under seal, and where a line of the Chaya-vrata has been taught for as long as the building has stood."
+shortcode: waitinghouse
+name: {full: The Waiting House, aliases: []}
 type: place
 subType: structure
-data:
-  demonym: null
-  lore: []
-  parents:
-    - chandrapur2
-  population: null
-name:
-  full: The Waiting House
-  aliases: []
-shortcode: waitinghouse
-packFolder: vedyara
+description: "A stone house in Chandrapur's cutting streets where consignments lie between stages under seal, and where a line of the Chaya-vrata has been taught for as long as the building has stood."
+tags: [clandestine, market, city]
+data: {demonym: null, lore: [], parents: [chandrapur2], population: null, packFolder: vedyara}
 ---
 
 The gem trade of [[place-chandrapur2|Chandrapur]] is organized as a sequence and not as a craft: a stone is assayed in one street, sawn in another, cut in a third, polished in a fourth and set in a fifth. Between any two of those a stone has to be somewhere, under a seal, with nobody in particular attending to it. **The Waiting House** is one of the places it is.

@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Interrupt
-  aliases:
-    - Counter
-description: "Dissonant lance disrupting rival's spell mid-casting; scatters gathered power."
 shortcode: intrrpt
+name: {full: Interrupt, aliases: [Counter]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
+description: "Dissonant lance disrupting rival's spell mid-casting; scatters gathered power."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Counter
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Counter
 ---
 
 The caster hurls a lance of dissonant arcane energy at a rival in the act of casting, disrupting the delicate pattern of gathered power before the spell can take shape. The effect is immediate and jarring—the interrupted caster feels their gathered energy scatter like dropped coins, the half-formed spell collapsing into harmless sparks. The sensation is deeply unpleasant, often compared to a violent sneeze that aborts a careful thought.

@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Shiftform
-  aliases:
-    - Distort
-description: "Grants temporary form change; transforms into beast or being."
 shortcode: shftfrm
+name: {full: Shiftform, aliases: [Distort]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
+description: "Grants temporary form change; transforms into beast or being."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Distort
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Distort
 ---
 
 The caster reaches into the structure of an existing magical effect and twists it, altering its apparent nature without changing its actual function. A protective ward might be made to resemble an offensive trap, causing intruders to hesitate. A tracking spell could be disguised as a simple enchantment, concealing the caster's surveillance. The alteration is cosmetic in the arcane sense—the magic's true function remains unchanged, but its signature reads differently to those who examine it.

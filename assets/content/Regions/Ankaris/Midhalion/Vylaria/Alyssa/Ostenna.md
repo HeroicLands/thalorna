@@ -1,22 +1,11 @@
 ---
-tags:
-  - port
-  - town
-  - river
-description: "River-Port Town"
+shortcode: ostenna
+name: {full: Ostenna, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - alyssa
-  population: 7000
-name:
-  full: Ostenna
-  aliases: []
-shortcode: ostenna
-packFolder: vylaria
+description: "River-Port Town"
+tags: [port, town, river]
+data: {demonym: null, lore: [], parents: [alyssa], population: 7000, packFolder: vylaria}
 ---
 
 ## Overview

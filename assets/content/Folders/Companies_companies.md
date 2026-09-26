@@ -1,9 +1,6 @@
 ---
-name:
-  full: "Companies"
 shortcode: companies
+name: {full: "Companies"}
 type: folder
-data:
-  parent: organizations
-  color: "#808080"
+data: {parent: organizations, color: "#808080"}
 ---

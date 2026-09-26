@@ -1,22 +1,16 @@
 ---
-tags:
-  - fortress
-  - town
-description: "Fortress Town"
+shortcode: tahrodan
+name: {full: Tahrodan, aliases: []}
 type: place
 subType: settlement
+description: "Fortress Town"
+tags: [fortress, town]
 data:
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - amradadrgn
+  lore: [humanflk]
+  parents: [amradadrgn]
   population: 30000
-name:
-  full: Tahrodan
-  aliases: []
-shortcode: tahrodan
-packFolder: amradad
+  packFolder: amradad
 ---
 
 ## Overview

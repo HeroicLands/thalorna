@@ -1,15 +1,11 @@
 ---
-tags: []
-name:
-  full: Opsar
-  aliases: []
-description: "The Fish: easy with living things and with people, frail of body, no stomach for war."
 shortcode: opsar
+name: {full: Opsar, aliases: []}
 type: mystery
 subType: birthsign
-data:
-  icon: icon-astrology
-  templatePriority: 0
+description: "The Fish: easy with living things and with people, frail of body, no stomach for war."
+tags: []
+data: {icon: icon-astrology, templatePriority: 0, packFolder: astrokyklos}
 sohl:
   kbcat: birthsign
   system:
@@ -37,7 +33,6 @@ sohl:
       "subType:social": 10
       water: 10
       hydalis: 10
-packFolder: astrokyklos
 ---
 
 Opsar, the Fish, closes the wheel of the year. Its natives are attuned to living things and gifted in speech and society, yet the arts of war and the strength of the body are not the gifts this sign bestows.

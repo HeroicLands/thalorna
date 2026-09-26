@@ -1,13 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: slavernk
+name: {full: Slave, aliases: []}
 type: lore
 subType: law
-name:
-  full: Slave
-  aliases: []
-shortcode: slavernk
 description: "Owned outright, with no standing at law except through an owner."
+tags: [draft]
 ---
 
 Owned outright, with no standing at law except through an owner.

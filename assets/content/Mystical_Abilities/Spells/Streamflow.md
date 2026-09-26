@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Streamflow
-  aliases:
-    - River
-description: "Controls water flow; directs stream or creates current."
 shortcode: strmflw
+name: {full: Streamflow, aliases: [River]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
+description: "Controls water flow; directs stream or creates current."
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
-hmk:
-  name: River
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: River
 ---
 
 The caster calls upon moving water to accelerate and strengthen, transforming a gentle brook into a rushing torrent or an irrigation channel into a forceful sluice. The water responds eagerly, surging forward with increased speed and pressure as if the streambed had suddenly steepened. Banks may overflow, debris is swept along, and anything caught in the flow must fight against a much stronger current than nature intended.

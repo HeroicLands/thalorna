@@ -1,11 +1,9 @@
 ---
+shortcode: nokvur
+name: {full: Nōkvür, aliases: []}
 type: lore
 subType: culture
-name:
-  full: Nōkvür
-  aliases: []
-shortcode: nokvur
-packFolder: castes
+data: {packFolder: castes}
 ---
 
 **Peasant Farmers**

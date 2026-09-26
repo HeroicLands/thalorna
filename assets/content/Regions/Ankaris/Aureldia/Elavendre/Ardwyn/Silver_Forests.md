@@ -1,17 +1,9 @@
 ---
+shortcode: silvrfrsts
+name: {full: The Silver Forests, aliases: []}
 type: place
 subType: region
-data:
-  demonym: null
-  lore: []
-  parents:
-    - alndntrblnds
-  population: null
-name:
-  full: The Silver Forests
-  aliases: []
-shortcode: silvrfrsts
-packFolder: elavendre
+data: {demonym: null, lore: [], parents: [alndntrblnds], population: null, packFolder: elavendre}
 ---
 
 - **Type:** Ancient fae-touched woodland

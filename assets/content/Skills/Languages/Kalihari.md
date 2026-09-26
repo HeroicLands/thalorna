@@ -1,19 +1,11 @@
 ---
-tags: []
-name:
-  full: Kalihári Language
-  aliases:
-    - Kalihári
-    - Kalihari
-    - Kaliharan
-    - Interior Speech
-description: "One of Thalorna's oldest living tongues, threaded at the ports with Valtári loanwords and barely known in its interior form."
 shortcode: kalihrlng
+name: {full: Kalihári Language, aliases: [Kalihári, Kalihari, Kaliharan, Interior Speech]}
 type: skill
 subType: language
-data:
-  icon: icon-speaking
-  templatePriority: null
+description: "One of Thalorna's oldest living tongues, threaded at the ports with Valtári loanwords and barely known in its interior form."
+tags: []
+data: {icon: icon-speaking, templatePriority: null, packFolder: language}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -22,10 +14,7 @@ sohl:
     combatCategory: none
     parentSkillCode: lang
     initSkillMult: 0
-packFolder: language
-flags:
-  "thalorna":
-    lang_family: Kalihári (ancient isolate)
+  flags: {"thalorna": {lang_family: Kalihári (ancient isolate)}}
 ---
 
 Kalihári is a tongue of the Kalihári (ancient isolate) family. Fluency measures the sophistication of expression in Kalihári, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.

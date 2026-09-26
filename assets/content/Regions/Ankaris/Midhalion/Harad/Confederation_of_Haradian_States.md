@@ -1,12 +1,9 @@
 ---
-description: "Twelve-year-old maritime confederation on the eastern Vylarian Sea—won independence from the Vylarian Empire by force of arms, then watched merchant oligarchs seize the freedoms its veterans bled for. Naval supremacy, complex political intrigue, and an archipelago of trade and smuggling havens."
-type: affiliation
-name:
-  full: Confederation of Haradian States
-  aliases:
-    - Haradian Confederation
 shortcode: cnfdrtnhrdnstts
+name: {full: Confederation of Haradian States, aliases: [Haradian Confederation]}
+type: affiliation
 subType: polity
+description: "Twelve-year-old maritime confederation on the eastern Vylarian Sea—won independence from the Vylarian Empire by force of arms, then watched merchant oligarchs seize the freedoms its veterans bled for. Naval supremacy, complex political intrigue, and an archipelago of trade and smuggling havens."
 data:
   templatePriority: null
   demonym: Haradian
@@ -15,93 +12,69 @@ data:
   governance:
     model: confederation
     summary: >-
-      A Grand Council of the member city-states, each with an equal voice in theory and the
-      wealthiest dominant in fact; the Arch-Consulship rotates and is more ceremonial than
-      powerful.
+      A Grand Council of the member city-states, each with an equal voice in theory and the wealthiest dominant in fact; the Arch-Consulship rotates and is more ceremonial than powerful.
     ranks:
       - level: 0
         title: Struck from the Roll
         lore: expelledrnk
         description: >-
-          Expelled from the city's register: no charter, no protection, no standing in its courts,
-          and every contract void.
+          Expelled from the city's register: no charter, no protection, no standing in its courts, and every contract void.
       - level: 1
         title: Unfree
         lore: slavernk
-        description: Bound in service or debt-bondage, holding neither property nor the right
-          to contract.
+        description: Bound in service or debt-bondage, holding neither property nor the right to contract.
       - level: 2
         title: Resident
         lore: commonerrnk
         description: >-
-          Dwelling and laboring in the city under its protection, without its freedom or a
-          vote in it.
+          Dwelling and laboring in the city under its protection, without its freedom or a vote in it.
       - level: 3
         title: Freeman of the City
         lore: burgherrnk
-        description: Enrolled in the city's register, entitled to trade in its markets and plead
-          in its courts.
+        description: Enrolled in the city's register, entitled to trade in its markets and plead in its courts.
       - level: 4
         title: Guild Master
         lore: masterrnk
         description: >-
-          Head of a chartered trade, speaking for it before the Council and answerable for its
-          members' conduct.
+          Head of a chartered trade, speaking for it before the Council and answerable for its members' conduct.
       - level: 5
         title: House Factor
         lore: officerrnk
         description: >-
-          Managing the affairs of one of the great houses—its warehouses, its ships, its
-          correspondents abroad.
+          Managing the affairs of one of the great houses—its warehouses, its ships, its correspondents abroad.
       - level: 6
         title: House Head
         lore: councillorrnk
-        description: Master of a merchant house, its capital and its name, and an elector of
-          the Council.
+        description: Master of a merchant house, its capital and its name, and an elector of the Council.
       - level: 7
         title: Councillor
         lore: councillorrnk
-        description: Sitting on the Council that governs the city, by weight of the house behind
-          him.
+        description: Sitting on the Council that governs the city, by weight of the house behind him.
       - level: 8
         title: First of the Council
         lore: prsdngffcrrnk
-        description: Presiding over the Council for a term, and holding the city's seal while
-          he does.
+        description: Presiding over the Council for a term, and holding the city's seal while he does.
     offices:
       First of the Council: >-
-        Presiding officer of the governing council, elected by it for a fixed term and holding
-        the city's seal.
-      Councillor: Member of the governing council, seated by the standing of the house he
-        heads.
+        Presiding officer of the governing council, elected by it for a fixed term and holding the city's seal.
+      Councillor: Member of the governing council, seated by the standing of the house he heads.
       Chancellor: Keeper of the city's charters, treaties and correspondence.
       Treasurer: >-
-        Keeper of the city's revenue—its customs, its tolls, and the loans it raises against
-        them.
-      Harbourmaster: Warden of the port, its pilots, its wharves and the dues levied on every
-        hull that enters.
-      Master of the Mint: Keeper of the coin struck in the city's name and of the standard
-        it is struck to.
-      Consul Abroad: The city's resident agent in a foreign port, holding its seal for trade
-        disputes there.
-      Captain of the Watch: Commander of the city's guard and of the militia its guilds are
-        bound to raise.
+        Keeper of the city's revenue—its customs, its tolls, and the loans it raises against them.
+      Harbourmaster: Warden of the port, its pilots, its wharves and the dues levied on every hull that enters.
+      Master of the Mint: Keeper of the coin struck in the city's name and of the standard it is struck to.
+      Consul Abroad: The city's resident agent in a foreign port, holding its seal for trade disputes there.
+      Captain of the Watch: Commander of the city's guard and of the militia its guilds are bound to raise.
       Warden of the Weights: >-
-        Inspector of measures, coin and quality in the markets—the office that makes the
-        city's word good.
+        Inspector of measures, coin and quality in the markets—the office that makes the city's word good.
       Guild Master: Head of a chartered trade, speaking for it before the Council.
       Arbitrator: >-
-        Professional settler of disputes between houses under the commercial custom, whose
-        rulings the Council enforces.
+        Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
   seat: qadhirun
-  domains:
-    - midhalnrgn
+  domains: [midhalnrgn]
   population: 12000000
-  economy:
-    - affiliation-aerarimmpr
-    - lore-hardncrncy
-  lore:
-    - humanflk
+  economy: [affiliation-aerarimmpr, lore-hardncrncy]
+  lore: [humanflk]
   parents: []
   relations:
     arldnpnthn: aligned
@@ -109,12 +82,10 @@ data:
     vylarinmpr: nemesis
     byzarianlg: rival
     sultntmrdd: unaligned
-terran_analog: "Israel and Lebanon, plus the islands off their coasts—Phoenician-and-Levantine maritime confederation: trader city-states, naval power, and the perpetual political intrigue of merchant oligarchs."
-packFolder: harad
-sohl:
-  system:
-    commonSkills:
-      - haradilng
+  packFolder: harad
+sohl: {system: {commonSkills: [haradilng]}}
+
+# terran_analog: "Israel and Lebanon, plus the islands off their coasts—Phoenician-and-Levantine maritime confederation: trader city-states, naval power, and the perpetual political intrigue of merchant oligarchs."
 ---
 
 The Confederation of Haradian States is a collection of city-states on the eastern edge of the [[place-vylarianse|Vylarian Sea]]. Harad is a powerful maritime region known for its naval supremacy, merchant guilds, and complex political intrigue. The coastal states are filled with wealthy trading cities, while the inland areas are home to tribal communities and ancient ruins. Roughly twelve years ago, Harad fought and won a war of independence from the [[affiliation-vylarinmpr|Vylarian Empire]], but the freedom the veterans bled for has been seized by merchant oligarchs, and the confederation's politics are as cutthroat as they ever were under imperial rule.

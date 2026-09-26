@@ -1,22 +1,11 @@
 ---
-tags:
-  - hall
-  - military
-  - inland
-description: "The irregular-warfare hall of the bow-fort, which teaches ambush and concealment, recruits with difficulty and refuses any contract it considers dishonorable."
+shortcode: hiddenstring
+name: {full: The Academy of the Hidden String, aliases: []}
 type: place
 subType: structure
-data:
-  demonym: null
-  lore: []
-  parents:
-    - dhanurkotajnpd
-  population: null
-name:
-  full: The Academy of the Hidden String
-  aliases: []
-shortcode: hiddenstring
-packFolder: vedyara
+description: "The irregular-warfare hall of the bow-fort, which teaches ambush and concealment, recruits with difficulty and refuses any contract it considers dishonorable."
+tags: [hall, military, inland]
+data: {demonym: null, lore: [], parents: [dhanurkotajnpd], population: null, packFolder: vedyara}
 ---
 
 The **Academy of the Hidden String** teaches ambush and concealment archery. Its graduates serve as scouts and on the operations a kingdom does not name in its dispatches, and it is the hardest of the four halls to get into and the hardest to recruit out of.

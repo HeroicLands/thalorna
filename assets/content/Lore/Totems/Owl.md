@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The owl as a totemic ideal, and the human character it describes."
+shortcode: owlttm
+name: {full: Owl, aliases: [Owl Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Owl
-  aliases:
-    - Owl Totem
-shortcode: owlttm
-packFolder: loretotems
-data:
-  banner: creaturebnr
+description: "The owl as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-owltotem|Owl]]{float: top-left, size: medium}

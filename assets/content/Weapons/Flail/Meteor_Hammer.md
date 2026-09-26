@@ -1,14 +1,10 @@
 ---
-tags: []
-name:
-  full: Meteor Hammer
-  aliases: []
-description: "Rope-weighted iron ball whirled; master's devastating entangling reach."
 shortcode: mtrhmr
+name: {full: Meteor Hammer, aliases: []}
 type: weapongear
-data:
-  icon: icon-bolas
-  templatePriority: null
+description: "Rope-weighted iron ball whirled; master's devastating entangling reach."
+tags: []
+data: {icon: icon-bolas, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: thrown
   weaponType: Thrown
@@ -23,14 +19,8 @@ sohl:
         name: Thrown
         assocSkillCode: metrhamr
         minParts: 2
-        attack:
-          spread: 6
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 6
-          modifier: 5
-          aspect: blunt
+        attack: {spread: 6, modifier: 0}
+        impactBase: {numDice: 1, die: 6, modifier: 5, aspect: blunt}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -67,14 +57,8 @@ sohl:
         name: Crush
         assocSkillCode: metrhamr
         minParts: 1
-        attack:
-          spread: 6
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 6
-          modifier: 1
-          aspect: blunt
+        attack: {spread: 6, modifier: 0}
+        impactBase: {numDice: 1, die: 6, modifier: 1, aspect: blunt}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -103,10 +87,7 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 8
-        defense:
-          blockMod: 0
-          counterstrikeMod: 0
-packFolder: weapons
+        defense: {blockMod: 0, counterstrikeMod: 0}
 ---
 
 A heavy iron weight attached to a long rope or chain, the meteor hammer is whirled to gather momentum before striking with crushing force. Advanced warriors spin it around their bodies to generate devastating reach and unpredictable angles; the weight can wrap around limbs or shafts to entangle and disarm. Mastery requires years of discipline—poor handling risks striking the wielder.

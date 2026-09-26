@@ -1,11 +1,6 @@
 ---
-name:
-  full: "Khazryn Desert"
 shortcode: khazryndesert
+name: {full: "Khazryn Desert"}
 type: folder
-data:
-  parent:
-    default: polities
-    journals: ankaris
-  color: "#4CAF50"
+data: {parent: {default: polities, journals: ankaris}, color: "#4CAF50"}
 ---

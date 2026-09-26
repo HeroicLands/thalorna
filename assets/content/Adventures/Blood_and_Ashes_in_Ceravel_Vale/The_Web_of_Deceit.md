@@ -1,26 +1,18 @@
 ---
-tags:
-  - blood-and-ashes-in-ceravel-vale
+shortcode: webdeceit
+name: {full: The Web of Deceit, aliases: []}
 type: scenario
 subType: adventure
+tags: [blood-and-ashes-in-ceravel-vale]
 data:
-  parents:
-    - bldshscrvlvl
-  locations:
-    - provenzrgn
+  parents: [bldshscrvlvl]
+  locations: [provenzrgn]
   cast: []
   factions: []
-  follows:
-    - bndtscrvlvl
+  follows: [bndtscrvlvl]
   status: draft
-  party:
-    size: null
-    archetypes: []
-shortcode: webdeceit
-name:
-  full: The Web of Deceit
-  aliases: []
-packFolder: bloodandashesinceravelvale
+  party: {size: null, archetypes: []}
+  packFolder: bloodandashesinceravelvale
 ---
 
 ## Teaser

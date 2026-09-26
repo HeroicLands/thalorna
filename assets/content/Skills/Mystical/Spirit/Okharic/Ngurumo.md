@@ -1,19 +1,11 @@
 ---
-tags:
-  - nkaruthar
-  - spirit-power
-  - draft
-description: "Standing with Ngurumo, zohira of storms—what this emissary of the Flame is petitioned and interceded with."
+shortcode: ngurumosprt
+name: {full: "Ngurumo Spirit Power", aliases: [The Thunder Above]}
 type: skill
 subType: mystical
-shortcode: ngurumosprt
-name:
-  full: "Ngurumo Spirit Power"
-  aliases:
-    - The Thunder Above
-data:
-  icon: icon-psychicwaves
-  templatePriority: null
+description: "Standing with Ngurumo, zohira of storms—what this emissary of the Flame is petitioned and interceded with."
+tags: [nkaruthar, spirit-power, draft]
+data: {icon: icon-psychicwaves, templatePriority: null, packFolder: spiritskillsokharic}
 sohl:
   system:
     skillBaseFormula: "@aur, @wil"
@@ -22,7 +14,6 @@ sohl:
     combatCategory: none
     parentSkillCode: spirit
     initSkillMult: 0
-packFolder: spiritskillsokharic
 ---
 
 See [[lore-ngurumospr|Ngurumo]]—zohira of storms, met through [[affiliation-njiayaroho|the Njia ya Roho]].

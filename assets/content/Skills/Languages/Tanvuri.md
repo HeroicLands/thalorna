@@ -1,17 +1,11 @@
 ---
-tags: []
-name:
-  full: Tānvüri Language
-  aliases:
-    - Tānvüri
-    - Tanvuri
-description: "The imperial speech of Tānvür—logographic in script and intricate in morphology, with vernaculars that drift the farther one travels from the capital."
 shortcode: tanvurlng
+name: {full: Tānvüri Language, aliases: [Tānvüri, Tanvuri]}
 type: skill
 subType: language
-data:
-  icon: icon-speaking
-  templatePriority: null
+description: "The imperial speech of Tānvür—logographic in script and intricate in morphology, with vernaculars that drift the farther one travels from the capital."
+tags: []
+data: {icon: icon-speaking, templatePriority: null, packFolder: language}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -20,7 +14,6 @@ sohl:
     combatCategory: none
     parentSkillCode: lang
     initSkillMult: 0
-packFolder: language
 ---
 
 Tānvüri is a tongue of the Tānvüri family. Fluency measures the sophistication of expression in Tānvüri, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.

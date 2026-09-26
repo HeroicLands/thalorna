@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Surge
-  aliases:
-    - Wave
-description: "Creates wave of force; manifests swelling energy outward."
 shortcode: surge
+name: {full: Surge, aliases: [Wave]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
+description: "Creates wave of force; manifests swelling energy outward."
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Wave
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Wave
 ---
 
 The caster gathers a body of water into a single, powerful wave and sends it crashing forward with devastating force. The wave rises from whatever water is available—a lake, a river, a flooded street, even a large trough—and surges in the direction the caster commands, sweeping away anything in its path before collapsing into a rushing flood.

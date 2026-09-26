@@ -1,22 +1,18 @@
 ---
-tags:
-  - region
-description: "The high altiplano of grassland, sacred lake and mountain passes that is the land of K'uxi Balam, in Southern K'ich'chik."
-name:
-  full: K'uxi Balam Region
-  aliases: []
 shortcode: kuxibalamrgn
+name: {full: K'uxi Balam Region, aliases: []}
 type: place
 subType: region
+description: "The high altiplano of grassland, sacred lake and mountain passes that is the land of K'uxi Balam, in Southern K'ich'chik."
+tags: [region]
 data:
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - sthrnkchchk
+  lore: [humanflk]
+  parents: [sthrnkchchk]
   population: null
-terran_analog: Bolivia, Southern Central Brazil
-packFolder: kuxibalam
+  packFolder: kuxibalam
+
+# terran_analog: Bolivia, Southern Central Brazil
 ---
 
 ## Overview

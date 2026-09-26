@@ -1,13 +1,11 @@
 ---
-tags: []
-description: "The Dreaming Host of the Varnaka pantheon—a celestial host of dreams honored at the edges of the day, with no priesthood of its own."
+shortcode: svapnadevasdty
+name: {full: Svapnadēvas, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Svapnadēvas
-  aliases: []
-shortcode: svapnadevasdty
-packFolder: deitiesvarnaka
+description: "The Dreaming Host of the Varnaka pantheon—a celestial host of dreams honored at the edges of the day, with no priesthood of its own."
+tags: []
+data: {packFolder: deitiesvarnaka}
 ---
 
 _The Dreaming Host—slender, silver-robed figures moving together in a gentle dance, half-lit by moonlight._

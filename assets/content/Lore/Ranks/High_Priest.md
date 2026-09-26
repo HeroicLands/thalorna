@@ -1,13 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: highpriestrnk
+name: {full: High Priest, aliases: []}
 type: lore
 subType: law
-name:
-  full: High Priest
-  aliases: []
-shortcode: highpriestrnk
 description: "Head of a temple or a cult, speaking with the voice of its god on doctrine."
+tags: [draft]
 ---
 
 Head of a temple or a cult, speaking with the voice of its god on doctrine.

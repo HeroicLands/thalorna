@@ -1,19 +1,11 @@
 ---
-tags:
-  - strong-elixir
-name:
-  full: Livewire
-  aliases:
-    - Potion, Stimulant, Strong
-description: "Vibrant red-orange liquid; stimulates and energizes immediately."
 shortcode: ptnstms
+name: {full: Livewire, aliases: ["Potion, Stimulant, Strong"]}
 type: concoctiongear
 subType: exotic
-hmk:
-  name: "Potion, Stimulant, Strong"
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "Vibrant red-orange liquid; stimulates and energizes immediately."
+tags: [strong-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: strong}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "strong"
     strength: 0
-packFolder: strong
+
+# hmk:
+#   name: "Potion, Stimulant, Strong"
 ---
 
 This is a vibrant, almost lurid red or orange liquid, sometimes darkening to a deep crimson, laden with visible particles of crushed stimulant botanicals. The aroma hits like a blow—sharp, aggressive, and overwhelming, filling the nostrils with spice and burning sensation. Many describe the smell as almost electric. A single swallow induces intense tingling that spreads from the mouth to the fingertips, along with a racing sensation in the chest. Those unused to this potency sometimes report heart palpitations that cause alarm, though they pass quickly.

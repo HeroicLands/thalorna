@@ -1,17 +1,8 @@
 ---
-tags:
-  - character
-  - draft
-  - embassy-to-tanvur
-name:
-  full: Lady Ilara Lúavel
-  title: ""
-  given: Ilara
-  clan: Lúavel
-  aliases: []
-packFolder: adventures
 shortcode: ilaraluavel
+name: {full: Lady Ilara Lúavel, title: "", given: Ilara, clan: Lúavel, aliases: []}
 type: being
+tags: [character, draft, embassy-to-tanvur]
 data:
   templatePriority: null
   archetypes: []
@@ -19,10 +10,10 @@ data:
   stations: []
   lore: []
   homes: []
-  affiliations:
-    - kingdmdnvr
+  affiliations: [kingdmdnvr]
   gender: female
   species: humanflk
+  packFolder: adventures
 ---
 
 # Appearance {#appearance}

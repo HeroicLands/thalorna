@@ -1,13 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: sekerdty
+name: {full: Sēker, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Sēker
-  aliases: []
-shortcode: sekerdty
-packFolder: deitieskemetian
+tags: [draft]
+data: {packFolder: deitieskemetian}
 ---
 
 ![[icon-seker|Sēker]]{float: top-left, size: medium}

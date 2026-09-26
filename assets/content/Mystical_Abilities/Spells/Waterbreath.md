@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Waterbreath
-  aliases:
-    - Gills
-description: "Grants water-breathing; enables underwater respiration. effect"
 shortcode: wtrbrth
+name: {full: Waterbreath, aliases: [Gills]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
+description: "Grants water-breathing; enables underwater respiration. effect"
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Gills
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Gills
 ---
 
 The caster transforms the target's ability to draw sustenance from the air, allowing them to extract breathable air directly from water as it passes over their skin. A faint shimmer appears across the target's face and throat as the enchantment takes hold, and they can submerge fully without discomfort, breathing as naturally underwater as they do on land.

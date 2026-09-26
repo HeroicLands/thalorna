@@ -1,20 +1,11 @@
 ---
-tags:
-  - town
-description: "Town"
+shortcode: olivenna
+name: {full: Olivenna, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - hylen
-  population: 5000
-name:
-  full: Olivenna
-  aliases: []
-shortcode: olivenna
-packFolder: vylaria
+description: "Town"
+tags: [town]
+data: {demonym: null, lore: [], parents: [hylen], population: 5000, packFolder: vylaria}
 ---
 
 ## Overview

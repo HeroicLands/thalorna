@@ -1,14 +1,10 @@
 ---
-tags: []
-name:
-  full: Dhanurkoti Longbow
-  aliases: []
-description: "Heavy self-bow of the High Draw academy; a warbow drawn to full war weight for infantry-support archery."
 shortcode: dhnrkbw
+name: {full: Dhanurkoti Longbow, aliases: []}
 type: weapongear
-data:
-  icon: icon-bow
-  templatePriority: null
+description: "Heavy self-bow of the High Draw academy; a warbow drawn to full war weight for infantry-support archery."
+tags: []
+data: {icon: icon-bow, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: bow
   weaponType: Bow
@@ -23,14 +19,8 @@ sohl:
         name: Crush
         assocSkillCode: melee
         minParts: 1
-        attack:
-          spread: 8
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 6
-          modifier: 0
-          aspect: blunt
+        attack: {spread: 8, modifier: 0}
+        impactBase: {numDice: 1, die: 6, modifier: 0, aspect: blunt}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -59,9 +49,7 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 6
-        defense:
-          blockMod: 0
-          counterstrikeMod: 0
+        defense: {blockMod: 0, counterstrikeMod: 0}
       ranged:
         type: missile
         name: Ranged
@@ -71,14 +59,8 @@ sohl:
         drawBase: 130
         baseRangeBase: 250
         maxVolleyMult: 4
-        attack:
-          spread: 0
-          modifier: 0
-        impactBase:
-          numDice: 0
-          die: null
-          modifier: 5
-          aspect: piercing
+        attack: {spread: 0, modifier: 0}
+        impactBase: {numDice: 0, die: null, modifier: 5, aspect: piercing}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -106,7 +88,6 @@ sohl:
           noStrMod: false
           halfImpact: false
           lowAim: false
-packFolder: weapons
 ---
 
 Cut to a single stave and drawn heavy, the Dhanurkoti longbow is the Academy of the High Draw's own make—the "great longbow tradition" the academy has taught for fifteen centuries. A recruit graduates onto it only after his draw hand can hold the full war weight steady through a volley, which is most of what the academy's training is for. Its owners staff the missile ranks of every kingdom that can afford them, and a Dhanurkoti-strung company is recognized on the field by the weight of the arrows it puts in the air rather than by any banner.

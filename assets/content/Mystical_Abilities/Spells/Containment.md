@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Containment
-  aliases:
-    - Globe
-description: "Reinforced cage of force imprisons; resists magic attempting break."
 shortcode: cntnmnt
+name: {full: Containment, aliases: [Globe]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
+description: "Reinforced cage of force imprisons; resists magic attempting break."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Globe
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Globe
 ---
 
 The caster sweeps one hand in a circle overhead, and a howling sphere of wind crystallizes around the designated subject, its surface a barely visible shimmer of compressed air rotating at ferocious speed. Incoming projectiles are caught by the spin and flung aside in wild spirals; melee strikes meet a wall of resistance that bleeds away their momentum before they connect. Hostile spells that rely on physical carriers—flames, hurled stones, bolts of lightning riding a conductive channel—are similarly deflected or dispersed by the turbulent barrier.

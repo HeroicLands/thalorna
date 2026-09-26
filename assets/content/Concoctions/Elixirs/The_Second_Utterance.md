@@ -1,19 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: The Second Utterance
-  aliases:
-    - Formfix Elixir
-description: "Clear transparent elixir; grants second chance against magical failures."
 shortcode: elxfrm
+name: {full: The Second Utterance, aliases: [Formfix Elixir]}
 type: concoctiongear
 subType: elixir
-hmk:
-  name: Formfix
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "Clear transparent elixir; grants second chance against magical failures."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "na"
     strength: 0
-packFolder: elixirs
+
+# hmk:
+#   name: Formfix
 ---
 
 A clear, perfectly transparent elixir that tastes of silvery metal and old words, bound to the Principle of Incantation (Neutral). This elixir grants the drinker a second chance against magical failure. When a Spellcasting or Invocation Roll fails—whether a standard Failure or a Critical Failure—the imbiber makes a d10 roll against a Target Number equal to their current Aural Shock. If successful, the failed spell or talent's success level increases by one, potentially salvaging disaster into ordinary success or turning a critical failure into merely a miscast.

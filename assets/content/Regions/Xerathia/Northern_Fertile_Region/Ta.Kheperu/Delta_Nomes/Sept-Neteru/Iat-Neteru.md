@@ -1,21 +1,17 @@
 ---
-tags:
-  - town
-description: "Nome capital of Sept-Neteru."
+shortcode: iatneteru
+name: {full: Iat-Neteru, aliases: []}
 type: place
 subType: settlement
+description: "Nome capital of Sept-Neteru."
+tags: [town]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - septneterunome
+  parents: [septneterunome]
   population: 11000
-name:
-  full: Iat-Neteru
-  aliases: []
-shortcode: iatneteru
-packFolder: deltanomes
+  packFolder: deltanomes
 ---
 
 ## Overview

@@ -1,22 +1,17 @@
 ---
-tags:
-  - region
-description: "The learned country of the upper river—grain-land around the temple-city of Khemenu and its library-temple of Thōth, the land of the Nome of Per-Thōth."
-name:
-  full: Per-Thōth
-  aliases: []
 shortcode: perthothnome
+name: {full: Per-Thōth, aliases: []}
 type: place
 subType: region
+description: "The learned country of the upper river—grain-land around the temple-city of Khemenu and its library-temple of Thōth, the land of the Nome of Per-Thōth."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: Kheperi
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 700000
-packFolder: perthoth
+  packFolder: perthoth
 ---
 
 ## Overview

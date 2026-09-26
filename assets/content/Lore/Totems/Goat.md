@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The goat as a totemic ideal, and the human character it describes."
+shortcode: goatttm
+name: {full: Goat, aliases: [Goat Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Goat
-  aliases:
-    - Goat Totem
-shortcode: goatttm
-packFolder: loretotems
-data:
-  banner: creaturebnr
+description: "The goat as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-goattotem|Goat]]{float: top-left, size: medium}

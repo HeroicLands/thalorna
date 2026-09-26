@@ -1,10 +1,10 @@
 ---
-description: "Chaos."
-tags:
-  - aureldian
-  - religion
+shortcode: karnavos
+name: {full: Faith of Karnavos, aliases: [The Wild Beast]}
 type: affiliation
 subType: faithtradition
+description: "Chaos."
+tags: [aureldian, religion]
 data:
   banner: faithbnr
   icon: karnavos
@@ -15,16 +15,13 @@ data:
   governance:
     model: council
     summary: >-
-      Deliberately decentralized and anarchic. There is no High Priest and no hierarchy to rise
-      through; what passes for organization is the Circle of the Threshold, a loose and constantly
-      shifting fellowship that anyone may claim to belong to and no one may speak for.
+      Deliberately decentralized and anarchic. There is no High Priest and no hierarchy to rise through; what passes for organization is the Circle of the Threshold, a loose and constantly shifting fellowship that anyone may claim to belong to and no one may speak for.
     ranks:
       - level: 0
         title: Exsecratus
         lore: excmmnctrnk
         description: >-
-          Cast out—which in a faith with no authority to expel anyone means only that the
-          fellowship has stopped answering, and that is enough.
+          Cast out—which in a faith with no authority to expel anyone means only that the fellowship has stopped answering, and that is enough.
       - level: 1
         title: Fideles
         lore: layfaithfulrnk
@@ -34,42 +31,28 @@ data:
         title: Acolytes of the Threshold
         lore: initiaternk
         description: >-
-          Initiates attached to a priest or a hermit, learning what that particular teacher
-          holds—which is not what the next one holds.
+          Initiates attached to a priest or a hermit, learning what that particular teacher holds—which is not what the next one holds.
       - level: 3
         title: Circle of the Threshold
         lore: priestrnk
         description: >-
-          The priests and philosophers of the god, who are of the Circle by claiming to be and hold
-          no rank within it. There is nothing above this.
+          The priests and philosophers of the god, who are of the Circle by claiming to be and hold no rank within it. There is nothing above this.
     offices:
       Circle of the Threshold: >-
-        The loose, constantly shifting fellowship of priests and philosophers that is the whole of
-        the faith's organization.
+        The loose, constantly shifting fellowship of priests and philosophers that is the whole of the faith's organization.
       Hermit of Chaos: >-
-        One who has withdrawn entirely, holding no place in the Circle and consulted precisely
-        because of it.
+        One who has withdrawn entirely, holding no place in the Circle and consulted precisely because of it.
       Acolyte of the Threshold: >-
         An initiate attached to a single teacher rather than to the faith at large.
   seat: null
   domains: []
   population: null
   economy: []
-  lore:
-    - karnavosdty
-  parents:
-    - arldnpnthn
-  relations:
-    arldnpnthn: aligned
-name:
-  full: Faith of Karnavos
-  aliases:
-    - The Wild Beast
-shortcode: karnavos
-packFolder: pantheonsaureldian
-sohl:
-  system:
-    commonSkills: []
+  lore: [karnavosdty]
+  parents: [arldnpnthn]
+  relations: {arldnpnthn: aligned}
+  packFolder: pantheonsaureldian
+sohl: {system: {commonSkills: []}}
 ---
 
 God of wildness, unpredictability, and primal energy. Karnavos represents the untamed force of nature and the chaotic change necessary for growth.

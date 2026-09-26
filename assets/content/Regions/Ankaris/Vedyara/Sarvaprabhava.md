@@ -1,23 +1,16 @@
 ---
-tags:
-  - sacred
-  - pilgrimage
-  - inland
-description: "The glacier-spring of the Sarvada, high on the Southern Wall above the upper valley—the source-temple of Vyālendra and the hardest of the four to reach."
+shortcode: sarvaprbhv
+name: {full: Sarvaprabhava, aliases: []}
 type: place
 subType: site
+description: "The glacier-spring of the Sarvada, high on the Southern Wall above the upper valley—the source-temple of Vyālendra and the hardest of the four to reach."
+tags: [sacred, pilgrimage, inland]
 data:
   demonym: null
   lore: []
-  parents:
-    - graznmntns
-    - sthrnwall
+  parents: [graznmntns, sthrnwall]
   population: null
-name:
-  full: Sarvaprabhava
-  aliases: []
-shortcode: sarvaprbhv
-packFolder: vedyara
+  packFolder: vedyara
 ---
 
 **Sarvaprabhava** is the source of the [[place-sarvadarivr|Sarvada]], in a hanging valley on the face of [[place-sthrnwall|the Southern Wall]] east of [[place-suryadvara|Sūryadvāra]]. It is the second of the four cosmic sources and the one fewest pilgrims see, because the last two days of the approach are a stair cut in rock and there is no way to carry anybody up it.

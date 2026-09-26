@@ -1,19 +1,11 @@
 ---
-tags:
-  - first-gods
-  - spirit-power
-  - draft
-description: "Standing with Nyfain, the White Owl of the Hollow—what this allied Kindred is met, asked and bargained with."
+shortcode: nyfainsprt
+name: {full: "Nyfain Spirit Power", aliases: ["Nyfain, the White Owl of the Hollow"]}
 type: skill
 subType: mystical
-shortcode: nyfainsprt
-name:
-  full: "Nyfain Spirit Power"
-  aliases:
-    - Nyfain, the White Owl of the Hollow
-data:
-  icon: icon-psychicwaves
-  templatePriority: null
+description: "Standing with Nyfain, the White Owl of the Hollow—what this allied Kindred is met, asked and bargained with."
+tags: [first-gods, spirit-power, draft]
+data: {icon: icon-psychicwaves, templatePriority: null, packFolder: spiritskillsaelendan}
 sohl:
   system:
     skillBaseFormula: "@aur, @wil"
@@ -22,7 +14,6 @@ sohl:
     combatCategory: none
     parentSkillCode: spirit
     initSkillMult: 0
-packFolder: spiritskillsaelendan
 ---
 
 See [[lore-nyfainspr|Nyfain, the White Owl of the Hollow]]—animal-kin of [[lore-thekindred|the Kindred]], met through [[affiliation-theoldway|the Old Way]].

@@ -1,13 +1,9 @@
 ---
-tags:
-  - dreadspawn
-  - creature
-name:
-  full: Stonebeast
-  aliases: []
-description: "An ancient earth-and-stone guardian that lies dormant in caverns until disturbed, then becomes an implacable force of destruction."
 shortcode: stnbst
+name: {full: Stonebeast, aliases: []}
 type: being
+description: "An ancient earth-and-stone guardian that lies dormant in caverns until disturbed, then becomes an implacable force of destruction."
+tags: [dreadspawn, creature]
 data:
   icon: icon-person
   templatePriority: null
@@ -42,21 +38,21 @@ sohl:
     str: 1d6+47
     agl: 1d4+3
   items:
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 19 } }
-    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 6 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 8 } }
-    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 16 } }
-    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 8 } }
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 50 } }
-    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 5 } }
-    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 70 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 50 } }
-    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 36 } }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 52 } }
-    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 32 } }
-    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 88 } }
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 19}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 6}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 8}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 16}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 8}}
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 50}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 5}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 70}}
+    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 50}}
+    - {model: sohl-sohl-mysticalability-sprt, system: {masteryLevelBase: 36}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 52}}
+    - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 32}}
+    - {model: sohl-sohl-skill-shok, system: {masteryLevelBase: 88}}
     - name: Crushing Stomp
       type: skill
       system:
@@ -64,35 +60,20 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 40
         combatCategory: melee
-        impairedByRoles:
-          - locomotor
+        impairedByRoles: [locomotor]
         strikeMode:
           type: melee
           shortcode: kick
           name: Crushing Stomp
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 8
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: 17
-            aspect: blunt
+          attack: {disabled: false, spread: 8, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 17, aspect: blunt}
           lengthBase: 3
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
     - name: Shattering Punch
       type: skill
       system:
@@ -100,35 +81,20 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 50
         combatCategory: melee
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: melee
           shortcode: claw
           name: Shattering Punch
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 8
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 8
-            modifier: 19
-            aspect: edged
+          attack: {disabled: false, spread: 8, modifier: 0}
+          impactBase: {numDice: 1, die: 8, modifier: 19, aspect: edged}
           lengthBase: 3
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
     - name: Rock Throw
       type: skill
       system:
@@ -136,23 +102,15 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 40
         combatCategory: missile
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: missile
           shortcode: hurl
           name: Rock Throw
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 0
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: 21
-            aspect: blunt
+          attack: {disabled: false, spread: 0, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 21, aspect: blunt}
           projectileType: none
           maxVolleyMult: 1
           baseRangeBase: 120
@@ -162,32 +120,21 @@ sohl:
     body:
       structure:
         zones:
-          - name: Head
-            shortcode: headzone
-            probWeight: 4
-          - name: Forelegs
-            shortcode: forelegszone
-            probWeight: 4
-          - name: Torso
-            shortcode: torsozone
-            probWeight: 8
-          - name: Hindquarters
-            shortcode: hindqtrzone
-            probWeight: 4
+          - {name: Head, shortcode: headzone, probWeight: 4}
+          - {name: Forelegs, shortcode: forelegszone, probWeight: 4}
+          - {name: Torso, shortcode: torsozone, probWeight: 8}
+          - {name: Hindquarters, shortcode: hindqtrzone, probWeight: 4}
         parts:
           - name: Head
             shortcode: headpart
             bodyZoneCode: headzone
-            roles:
-              - vital
+            roles: [vital]
             canHoldItem: false
             probWeight: 10
           - name: Left Foreleg
             shortcode: lforelegpart
             bodyZoneCode: forelegszone
-            roles: &a1
-              - locomotor
-              - manipulator
+            roles: &a1 [locomotor, manipulator]
             canHoldItem: false
             probWeight: 1
           - name: Right Foreleg
@@ -199,22 +146,19 @@ sohl:
           - name: Torso
             shortcode: torsopart
             bodyZoneCode: torsozone
-            roles:
-              - core
+            roles: [core]
             canHoldItem: false
             probWeight: 10
           - name: Left Hind Leg
             shortcode: lhindlegpart
             bodyZoneCode: hindqtrzone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 9
           - name: Right Hind Leg
             shortcode: rhindlegpart
             bodyZoneCode: hindqtrzone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 9
           - name: Tail
@@ -231,11 +175,7 @@ sohl:
             amputability: none
             shockValue: 5
             probWeight: 6
-            protectionBase:
-              blunt: 14
-              edged: 13
-              piercing: 11
-              fire: 13
+            protectionBase: {blunt: 14, edged: 13, piercing: 11, fire: 13}
           - name: Neck
             shortcode: neckloc
             bodyPartCode: headpart
@@ -243,11 +183,7 @@ sohl:
             amputability: low
             shockValue: 5
             probWeight: 4
-            protectionBase:
-              blunt: 14
-              edged: 13
-              piercing: 11
-              fire: 13
+            protectionBase: {blunt: 14, edged: 13, piercing: 11, fire: 13}
           - name: Left Foreleg
             shortcode: lforelegloc
             bodyPartCode: lforelegpart
@@ -255,11 +191,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 14
-              edged: 13
-              piercing: 11
-              fire: 13
+            protectionBase: {blunt: 14, edged: 13, piercing: 11, fire: 13}
           - name: Right Foreleg
             shortcode: rforelegloc
             bodyPartCode: rforelegpart
@@ -267,11 +199,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 14
-              edged: 13
-              piercing: 11
-              fire: 13
+            protectionBase: {blunt: 14, edged: 13, piercing: 11, fire: 13}
           - name: Thorax
             shortcode: thoraxloc
             bodyPartCode: torsopart
@@ -279,11 +207,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 5
-            protectionBase:
-              blunt: 14
-              edged: 13
-              piercing: 11
-              fire: 13
+            protectionBase: {blunt: 14, edged: 13, piercing: 11, fire: 13}
           - name: Abdomen
             shortcode: abdloc
             bodyPartCode: torsopart
@@ -291,11 +215,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 3
-            protectionBase:
-              blunt: 14
-              edged: 13
-              piercing: 11
-              fire: 13
+            protectionBase: {blunt: 14, edged: 13, piercing: 11, fire: 13}
           - name: Pelvis
             shortcode: plvsloc
             bodyPartCode: torsopart
@@ -303,11 +223,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 2
-            protectionBase:
-              blunt: 14
-              edged: 13
-              piercing: 11
-              fire: 13
+            protectionBase: {blunt: 14, edged: 13, piercing: 11, fire: 13}
           - name: Left Hind Leg
             shortcode: lhindlegloc
             bodyPartCode: lhindlegpart
@@ -315,11 +231,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 14
-              edged: 13
-              piercing: 11
-              fire: 13
+            protectionBase: {blunt: 14, edged: 13, piercing: 11, fire: 13}
           - name: Right Hind Leg
             shortcode: rhindlegloc
             bodyPartCode: rhindlegpart
@@ -327,11 +239,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 14
-              edged: 13
-              piercing: 11
-              fire: 13
+            protectionBase: {blunt: 14, edged: 13, piercing: 11, fire: 13}
           - name: Tail
             shortcode: tailloc
             bodyPartCode: tailpart
@@ -339,14 +247,8 @@ sohl:
             amputability: high
             shockValue: 1
             probWeight: 10
-            protectionBase:
-              blunt: 14
-              edged: 13
-              piercing: 11
-              fire: 13
-      weight:
-        base: 27000
-        calc: "27000"
+            protectionBase: {blunt: 14, edged: 13, piercing: 11, fire: 13}
+      weight: {base: 27000, calc: "27000"}
       reachBase: 0
       bodyScaleBase: 2.68
       personalFatigue: "enc + 5"
@@ -358,18 +260,9 @@ sohl:
         encumbrance: "floor(wt/4)"
         strMod: "-5 * floor((str - 10) / 2)"
         factors:
-          - scope: topography
-            key: steep
-            mode: add
-            textValue: "0"
-          - scope: surface_cover
-            key: alpine
-            mode: add
-            textValue: "0"
-          - scope: surface_cover
-            key: barren
-            mode: add
-            textValue: "0"
+          - {scope: topography, key: steep, mode: add, textValue: "0"}
+          - {scope: surface_cover, key: alpine, mode: add, textValue: "0"}
+          - {scope: surface_cover, key: barren, mode: add, textValue: "0"}
         disabled: false
 ---
 

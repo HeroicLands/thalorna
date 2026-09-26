@@ -1,19 +1,11 @@
 ---
-tags:
-  - mild-elixir
-name:
-  full: Bloodstill
-  aliases:
-    - Potion, Coagulant, Mild
-description: "Thick rusty-brown paste; coagulates blood preventing wound death."
 shortcode: ptncoagm
+name: {full: Bloodstill, aliases: ["Potion, Coagulant, Mild"]}
 type: concoctiongear
 subType: exotic
-hmk:
-  name: "Potion, Coagulant, Mild"
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "Thick rusty-brown paste; coagulates blood preventing wound death."
+tags: [mild-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: mild}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "mild"
     strength: 0
-packFolder: mild
+
+# hmk:
+#   name: "Potion, Coagulant, Mild"
 ---
 
 A thick, rusty-brown paste with the consistency of honey, this coagulant smells of iron and herbs—specifically of dried yarrow and powdered iron filings mixed with rendered fat. The texture is deliberately sticky, designed to adhere to a wound without running or washing away. When pressed against an open injury, the paste warms slightly, as though responding to the body's own heat, and the wound itself seems to relax around the application, the tissues accepting the medicine rather than rejecting it.

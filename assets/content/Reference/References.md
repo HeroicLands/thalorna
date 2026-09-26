@@ -1,15 +1,11 @@
 ---
-name:
-  full: References
-  aliases: []
+shortcode: reference
+name: {full: References, aliases: []}
 type: doc
 subType: reference
-shortcode: reference
-tags:
-  - draft
 description: Reference materials and source documents.
-data:
-  banner: null
+tags: [draft]
+data: {banner: null}
 ---
 
 Reference materials and source documents.

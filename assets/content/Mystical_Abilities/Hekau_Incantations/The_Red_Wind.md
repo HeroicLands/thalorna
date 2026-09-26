@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: The Red Wind
-  aliases: []
-description: "Raises or turns aside a sandstorm across a stated ground."
 shortcode: rdwnd
+name: {full: The Red Wind, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: deshrut
-  templatePriority: null
+description: "Raises or turns aside a sandstorm across a stated ground."
+tags: [khemenu-hekau, incantation]
+data: {icon: deshrut, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: deshrut
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-packFolder: hekauincantations
+    charges: {value: null, max: null}
 ---
 
 Defensive far more often than offensive: turning a storm off a caravan, a quarry-camp or a water-

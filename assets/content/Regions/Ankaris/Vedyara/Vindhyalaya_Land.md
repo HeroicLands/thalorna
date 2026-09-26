@@ -1,22 +1,16 @@
 ---
-tags:
-  - region
-  - held
-description: "The land of the kingdom of Vindhyālaya—the northern highlands of Vedyara, pine-clad ridges, snow-fed rivers and the pass-roads that carry the caravan trade over the wall to the steppe beyond."
-name:
-  full: Vindhyālaya
-  aliases: []
 shortcode: vindhyalayaland
+name: {full: Vindhyālaya, aliases: []}
 type: place
 subType: region
+description: "The land of the kingdom of Vindhyālaya—the northern highlands of Vedyara, pine-clad ridges, snow-fed rivers and the pass-roads that carry the caravan trade over the wall to the steppe beyond."
+tags: [region, held]
 data:
   demonym: Vindhyan
-  lore:
-    - vedyariclt
-  parents:
-    - vedyarargn
+  lore: [vedyariclt]
+  parents: [vedyarargn]
   population: 8000000
-packFolder: vedyara
+  packFolder: vedyara
 ---
 
 ## Overview

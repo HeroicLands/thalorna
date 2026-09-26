@@ -1,14 +1,10 @@
 ---
-tags: []
-name:
-  full: Green Dragon Crescent Blade
-  aliases: []
-description: "Curved polearm blade for slashing across multiple foes."
 shortcode: gundao
+name: {full: Green Dragon Crescent Blade, aliases: []}
 type: weapongear
-data:
-  icon: icon-polearm
-  templatePriority: null
+description: "Curved polearm blade for slashing across multiple foes."
+tags: []
+data: {icon: icon-polearm, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: polearm
   weaponType: Polearm
@@ -23,14 +19,8 @@ sohl:
         name: Cut
         assocSkillCode: melee
         minParts: 1
-        attack:
-          spread: 8
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 10
-          modifier: 5
-          aspect: edged
+        attack: {spread: 8, modifier: 0}
+        impactBase: {numDice: 1, die: 10, modifier: 5, aspect: edged}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -59,22 +49,14 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 7
-        defense:
-          blockMod: 0
-          counterstrikeMod: 0
+        defense: {blockMod: 0, counterstrikeMod: 0}
       impale:
         type: melee
         name: Impale
         assocSkillCode: melee
         minParts: 1
-        attack:
-          spread: 8
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 8
-          modifier: 3
-          aspect: piercing
+        attack: {spread: 8, modifier: 0}
+        impactBase: {numDice: 1, die: 8, modifier: 3, aspect: piercing}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -103,22 +85,14 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 7
-        defense:
-          blockMod: 0
-          counterstrikeMod: 0
+        defense: {blockMod: 0, counterstrikeMod: 0}
       shaft:
         type: melee
         name: Shaft
         assocSkillCode: melee
         minParts: 1
-        attack:
-          spread: 8
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 6
-          modifier: 1
-          aspect: blunt
+        attack: {spread: 8, modifier: 0}
+        impactBase: {numDice: 1, die: 6, modifier: 1, aspect: blunt}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -147,10 +121,7 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 7
-        defense:
-          blockMod: 0
-          counterstrikeMod: 0
-packFolder: weapons
+        defense: {blockMod: 0, counterstrikeMod: 0}
 ---
 
 A curved, forward-sweeping blade affixed to a long shaft, the Green Dragon Crescent Blade delivers powerful slashing strokes and thrusts in a single weapon. The distinctive arc lets trained warriors make broad arcs that cut across multiple opponents and interdict cavalry charges with formidable reach and cutting edge.

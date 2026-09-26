@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Veil
-  aliases:
-    - Screen
-description: "Conceals target; renders invisible to normal sight."
 shortcode: veil
+name: {full: Veil, aliases: [Screen]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-anvilbdg
-  templatePriority: null
+description: "Conceals target; renders invisible to normal sight."
+tags: []
+data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideros
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Screen
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Screen
 ---
 
 The caster raises a hand and a wall of solid metal rises from the ground or condenses from the air—a broad, flat surface of gleaming steel that interposes itself between the caster and whatever they wish to block. The veil is a physical barrier with all the properties of genuine metal: it blocks line of sight, stops projectiles, absorbs physical impacts, and reflects light. Unlike a conjured wall that merely impedes passage, the veil's reflective surface can redirect light-based attacks and create visual confusion.

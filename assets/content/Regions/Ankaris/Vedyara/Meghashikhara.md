@@ -1,23 +1,16 @@
 ---
-tags:
-  - mountain
-  - sacred
-  - inland
-description: "The storm-peak above Meghadvāra, where the monsoon cloud piles against the wall and decides how long the western door stays open."
+shortcode: meghashkhr
+name: {full: Meghashikhara, aliases: []}
 type: place
 subType: feature
+description: "The storm-peak above Meghadvāra, where the monsoon cloud piles against the wall and decides how long the western door stays open."
+tags: [mountain, sacred, inland]
 data:
   demonym: null
   lore: []
-  parents:
-    - graznmntns
-    - sthrnwall
+  parents: [graznmntns, sthrnwall]
   population: null
-name:
-  full: Meghashikhara
-  aliases: []
-shortcode: meghashkhr
-packFolder: vedyara
+  packFolder: vedyara
 ---
 
 **Meghashikhara**—"the cloud's summit"—stands over the western end of [[place-sthrnwall|the Southern Wall]], and it is where the monsoon stops. The wet air comes up out of the south, meets the face of the peak, and goes no further; what falls out of it falls on the Vedyari side, and the country north of the ridge line gets nothing.

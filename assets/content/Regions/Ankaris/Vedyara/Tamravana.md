@@ -1,22 +1,11 @@
 ---
-tags:
-  - village
-  - mountain
-  - mining
-description: "The smelting village below the panning ground, whose furnaces make the best iron in inland Vedyara."
+shortcode: tamravana
+name: {full: Tāmravana, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - suvarnagirijnpd
-  population: 910
-name:
-  full: Tāmravana
-  aliases: []
-shortcode: tamravana
-packFolder: vedyara
+description: "The smelting village below the panning ground, whose furnaces make the best iron in inland Vedyara."
+tags: [village, mountain, mining]
+data: {demonym: null, lore: [], parents: [suvarnagirijnpd], population: 910, packFolder: vedyara}
 ---
 
 Tāmravana (910) is the smelting village, a mile below the panning ground on the same stream. It takes its name from the copper that was worked here before the iron was, and the copper is long finished.

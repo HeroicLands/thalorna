@@ -1,15 +1,11 @@
 ---
-name:
-  full: Adventures
-  aliases: []
+shortcode: scenario
+name: {full: Adventures, aliases: []}
 type: doc
 subType: reference
-shortcode: scenario
-tags:
-  - draft
 description: Playable adventures and modules.
-data:
-  banner: null
+tags: [draft]
+data: {banner: null}
 ---
 
 Playable adventures and modules.

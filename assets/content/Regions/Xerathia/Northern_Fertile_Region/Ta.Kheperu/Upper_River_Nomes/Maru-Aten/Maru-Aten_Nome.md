@@ -1,22 +1,17 @@
 ---
-tags:
-  - region
-description: "A planned temple-city of one zealous dynasty, half-abandoned, still inhabited—the land of the Nome of Maru-Aten, one of the upper-river nomes of Ta'Kheperu."
-name:
-  full: Maru-Aten Nome
-  aliases: []
 shortcode: maruatennome
+name: {full: Maru-Aten Nome, aliases: []}
 type: place
 subType: region
+description: "A planned temple-city of one zealous dynasty, half-abandoned, still inhabited—the land of the Nome of Maru-Aten, one of the upper-river nomes of Ta'Kheperu."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 300000
-packFolder: upperrivernomes
+  packFolder: upperrivernomes
 ---
 
 ## Overview

@@ -1,20 +1,11 @@
 ---
-tags:
-  - city
-  - draft
-description: "City"
+shortcode: balamtzaku2
+name: {full: Ba'alam Tza'ku, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - balamtzakurgn
-  population: 60000
-name:
-  full: Ba'alam Tza'ku
-  aliases: []
-shortcode: balamtzaku2
+description: "City"
+tags: [city, draft]
+data: {demonym: null, lore: [], parents: [balamtzakurgn], population: 60000}
 ---
 
 ## Overview

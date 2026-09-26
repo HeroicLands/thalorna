@@ -1,14 +1,10 @@
 ---
-tags: []
-name:
-  full: Bodkin
-  aliases: []
-description: "Needle-pointed dart punches mail and plate; duelist's finishing steel."
 shortcode: kel
+name: {full: Bodkin, aliases: []}
 type: weapongear
-data:
-  icon: icon-broaddagger
-  templatePriority: null
+description: "Needle-pointed dart punches mail and plate; duelist's finishing steel."
+tags: []
+data: {icon: icon-broaddagger, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: knife
   weaponType: Knife
@@ -23,14 +19,8 @@ sohl:
         name: Impale
         assocSkillCode: melee
         minParts: 1
-        attack:
-          spread: 4
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 8
-          modifier: 1
-          aspect: piercing
+        attack: {spread: 4, modifier: 0}
+        impactBase: {numDice: 1, die: 8, modifier: 1, aspect: piercing}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -59,22 +49,14 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 3
-        defense:
-          blockMod: 5
-          counterstrikeMod: 5
+        defense: {blockMod: 5, counterstrikeMod: 5}
       cut:
         type: melee
         name: Cut
         assocSkillCode: melee
         minParts: 1
-        attack:
-          spread: 4
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 10
-          modifier: 0
-          aspect: edged
+        attack: {spread: 4, modifier: 0}
+        impactBase: {numDice: 1, die: 10, modifier: 0, aspect: edged}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -103,22 +85,14 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 3
-        defense:
-          blockMod: 5
-          counterstrikeMod: 5
+        defense: {blockMod: 5, counterstrikeMod: 5}
       pommel:
         type: melee
         name: Pommel
         assocSkillCode: melee
         minParts: 1
-        attack:
-          spread: 4
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 6
-          modifier: 0
-          aspect: blunt
+        attack: {spread: 4, modifier: 0}
+        impactBase: {numDice: 1, die: 6, modifier: 0, aspect: blunt}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -147,10 +121,7 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 3
-        defense:
-          blockMod: 5
-          counterstrikeMod: 5
-packFolder: weapons
+        defense: {blockMod: 5, counterstrikeMod: 5}
 ---
 
 A needle-pointed dart of forged iron, the bodkin tapers to a rigid point built to punch through mail and punched plate. Thrown or thrust, it trades cutting edge for arm-piercing penetration, narrowing its force to a needlepoint rather than a blade. Born of the archer’s armory but honed into a duelist’s finishing knife for enemies in harness.

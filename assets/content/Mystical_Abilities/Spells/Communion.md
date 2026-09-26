@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Communion
-  aliases:
-    - Converse
-description: "Unites minds; caster and target share thoughts and sensations."
 shortcode: cmmnn
+name: {full: Communion, aliases: [Converse]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
+description: "Unites minds; caster and target share thoughts and sensations."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Converse
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Converse
 ---
 
 The caster opens a channel of pure mental communication with a distant individual whose arcane signature they know, bridging the gap between them with a thread of concentrated will. Words, images, and emotional impressions flow freely across the link, arriving as clearly as if both parties stood face to face. The connection persists as long as both participants willingly maintain it, though either can sever the link at any moment.

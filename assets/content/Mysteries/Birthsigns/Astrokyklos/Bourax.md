@@ -1,15 +1,11 @@
 ---
-tags: []
-name:
-  full: Bourax
-  aliases: []
-description: "The Ox: patient hands for field and workbench, slow of body, deaf to mysteries."
 shortcode: bourax
+name: {full: Bourax, aliases: []}
 type: mystery
 subType: birthsign
-data:
-  icon: icon-astrology
-  templatePriority: 0
+description: "The Ox: patient hands for field and workbench, slow of body, deaf to mysteries."
+tags: []
+data: {icon: icon-astrology, templatePriority: 0, packFolder: astrokyklos}
 sohl:
   kbcat: birthsign
   system:
@@ -37,7 +33,6 @@ sohl:
       "subType:social": 0
       water: 0
       hydalis: 0
-packFolder: astrokyklos
 ---
 
 Bourax, the Ox, lends steadiness of hand and patience of mind. Its children take naturally to the growing field, the written word, and the maker's bench, though the deeper mysteries and feats of the body come to them only with labor.

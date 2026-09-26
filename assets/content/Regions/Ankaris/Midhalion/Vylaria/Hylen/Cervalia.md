@@ -1,21 +1,11 @@
 ---
-tags:
-  - town
-  - forest
-description: "Forest Town"
+shortcode: cervalia
+name: {full: Cervalia, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - hylen
-  population: 2500
-name:
-  full: Cervalia
-  aliases: []
-shortcode: cervalia
-packFolder: vylaria
+description: "Forest Town"
+tags: [town, forest]
+data: {demonym: null, lore: [], parents: [hylen], population: 2500, packFolder: vylaria}
 ---
 
 ## Overview

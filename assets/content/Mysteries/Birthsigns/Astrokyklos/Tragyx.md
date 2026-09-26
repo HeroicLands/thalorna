@@ -1,15 +1,11 @@
 ---
-tags: []
-name:
-  full: Tragyx
-  aliases: []
-description: "The Stag: born to speak and to seek, equally useless at the anvil and in a fight."
 shortcode: tragyx
+name: {full: Tragyx, aliases: []}
 type: mystery
 subType: birthsign
-data:
-  icon: icon-astrology
-  templatePriority: 0
+description: "The Stag: born to speak and to seek, equally useless at the anvil and in a fight."
+tags: []
+data: {icon: icon-astrology, templatePriority: 0, packFolder: astrokyklos}
 sohl:
   kbcat: birthsign
   system:
@@ -37,7 +33,6 @@ sohl:
       "subType:social": 10
       water: 10
       hydalis: 10
-packFolder: astrokyklos
 ---
 
 Tragyx, the Stag, gives an eloquent tongue and a searching mind. Born orators, linguists, and adepts of the mysteries, its children have little inclination for the workshop bench or the practice of arms.

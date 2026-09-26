@@ -1,19 +1,11 @@
 ---
-tags:
-  - mild-elixir
-name:
-  full: "Viper's Mercy"
-  aliases:
-    - Potion, Antivenin, Mild
-description: "Murky greenish-brown draft; counteracts poison and venom damage."
 shortcode: ptnantvm
+name: {full: "Viper's Mercy", aliases: ["Potion, Antivenin, Mild"]}
 type: concoctiongear
 subType: exotic
-hmk:
-  name: "Potion, Antivenin, Mild"
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "Murky greenish-brown draft; counteracts poison and venom damage."
+tags: [mild-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: mild}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "mild"
     strength: 0
-packFolder: mild
+
+# hmk:
+#   name: "Potion, Antivenin, Mild"
 ---
 
 A murky greenish-brown draft that settles into grainy layers when left to stand, the mild antivenin smells faintly of burned herbs and river stones. On the tongue, it tastes acrid and metallic, with a lingering numbing sensation that spreads across the gums. Herbalists prize this preparation for its steadying effect on the venom-stricken, though its benefit takes patience to manifest.

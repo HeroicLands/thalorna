@@ -1,14 +1,10 @@
 ---
-tags: []
-name:
-  full: Chakram
-  aliases: []
-description: "Sharpened steel disc thrown or hand-held; cavalry skirmisher's precise reach."
 shortcode: chak
+name: {full: Chakram, aliases: []}
 type: weapongear
-data:
-  icon: icon-circle
-  templatePriority: null
+description: "Sharpened steel disc thrown or hand-held; cavalry skirmisher's precise reach."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: knife
   weaponType: Knife
@@ -23,14 +19,8 @@ sohl:
         name: Cut
         assocSkillCode: melee
         minParts: 1
-        attack:
-          spread: 4
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 8
-          modifier: 2
-          aspect: edged
+        attack: {spread: 4, modifier: 0}
+        impactBase: {numDice: 1, die: 8, modifier: 2, aspect: edged}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -59,22 +49,14 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 3
-        defense:
-          blockMod: 0
-          counterstrikeMod: 0
+        defense: {blockMod: 0, counterstrikeMod: 0}
       thrown:
         type: missile
         name: Thrown
         assocSkillCode: thro
         minParts: 1
-        attack:
-          spread: 4
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 8
-          modifier: 2
-          aspect: edged
+        attack: {spread: 4, modifier: 0}
+        impactBase: {numDice: 1, die: 8, modifier: 2, aspect: edged}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -106,7 +88,6 @@ sohl:
         maxVolleyMult: 2
         baseRangeBase: 80
         drawBase: 0
-packFolder: weapons
 ---
 
 A flat steel disc with a sharpened outer rim, the chakram is thrown spinning to cut at range or held in the palm for slashing in close. Its disc shape gives stable flight and returns partly on recovery, though skilled throwers depend more on precision than return. Worn open on the wrist or hidden in a sleeve, it favors duelists and cavalry skirmishers.

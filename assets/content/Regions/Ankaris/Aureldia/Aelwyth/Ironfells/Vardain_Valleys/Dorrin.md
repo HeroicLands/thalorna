@@ -1,23 +1,16 @@
 ---
-tags:
-  - village
-  - mountain
-  - frontier
-description: "The highest village, watching the eastern approaches and the sea cliffs—the Vardain's eyes, and the first to know when anything comes."
+shortcode: dorrin
+name: {full: Dorrin, aliases: []}
 type: place
 subType: settlement
+description: "The highest village, watching the eastern approaches and the sea cliffs—the Vardain's eyes, and the first to know when anything comes."
+tags: [village, mountain, frontier]
 data:
   demonym: null
-  lore:
-    - vardain
-  parents:
-    - vardainvalleys
+  lore: [vardain]
+  parents: [vardainvalleys]
   population: 400
-name:
-  full: Dorrin
-  aliases: []
-shortcode: dorrin
-packFolder: aelwyth
+  packFolder: aelwyth
 ---
 
 **Dorrin** is the highest inhabited place in the valleys, on the shoulder where the ground falls away

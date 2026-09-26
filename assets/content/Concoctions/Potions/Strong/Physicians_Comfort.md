@@ -1,19 +1,11 @@
 ---
-tags:
-  - strong-elixir
-name:
-  full: "Physician's Comfort"
-  aliases:
-    - Potion, Curative, Strong
-description: "Deep emerald green curative; heals ailments and injuries."
 shortcode: ptncurs
+name: {full: "Physician's Comfort", aliases: ["Potion, Curative, Strong"]}
 type: concoctiongear
 subType: exotic
-hmk:
-  name: "Potion, Curative, Strong"
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "Deep emerald green curative; heals ailments and injuries."
+tags: [strong-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: strong}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "strong"
     strength: 0
-packFolder: strong
+
+# hmk:
+#   name: "Potion, Curative, Strong"
 ---
 
 Deep green, almost emerald, this concentrated curative has a consistency approaching thick cream and a smell that immediately triggers the memory of healing and recovery—crushed medicinal herbs, mineral compounds, and an underlying floral note that seems to promise relief. When applied to an injury, the paste cools dramatically, drawing the fever almost visibly out of inflamed tissue. Patients report that watching a serious wound treated with strong curative is like watching the injury improve in real time; swelling diminishes, discoloration fades, and the signs of active infection reverse themselves measurably within hours.

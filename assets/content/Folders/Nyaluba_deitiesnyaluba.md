@@ -1,8 +1,6 @@
 ---
-name:
-  full: "Nyaluba"
 shortcode: deitiesnyaluba
+name: {full: "Nyaluba"}
 type: folder
-data:
-  parent: deities
+data: {parent: deities}
 ---

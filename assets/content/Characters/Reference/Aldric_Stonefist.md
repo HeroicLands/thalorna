@@ -1,25 +1,20 @@
 ---
-tags:
-  - character
-  - reference
+shortcode: aldricstonefist
 name:
   full: Aldric Stonefist
   title: Captain
   given: Aldric
   clan: Stonefist
-  aliases:
-    - Captain Aldric
-description: "Bjalfi's commanding officer and mentor."
-shortcode: aldricstonefist
+  aliases: [Captain Aldric]
 type: being
+description: "Bjalfi's commanding officer and mentor."
+tags: [character, reference]
 data:
   species: humanflk
   templatePriority: null
   archetypes: []
   stations: []
   lore: []
-  homes:
-    - vithgard
-  affiliations:
-    - kngdmvthgrd
+  homes: [vithgard]
+  affiliations: [kngdmvthgrd]
 ---

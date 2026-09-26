@@ -1,33 +1,26 @@
 ---
-tags:
-  - region
-  - endowed
-  - held
-description: The southeastern subcontinent of Ankaris, bounded by the Grazian Mountains and three seas, with river plains, a dry plateau, and monsoon coasts.
-name:
-  full: Vedyara Region
-  aliases:
-    - Vedyara
 shortcode: vedyarargn
+name: {full: Vedyara Region, aliases: [Vedyara]}
 type: place
 subType: region
+description: The southeastern subcontinent of Ankaris, bounded by the Grazian Mountains and three seas, with river plains, a dry plateau, and monsoon coasts.
+tags: [region, endowed, held]
 data:
   icon: null
   demonym: Vedyaran
-  lore:
-    - vedyariclt
-  parents:
-    - ankrscntnnt
+  lore: [vedyariclt]
+  parents: [ankrscntnnt]
   borders:
-    - { to: dunharargn, bearing: NW }
-    - { to: khzryndsrtrgn, bearing: N }
-    - { to: tanvuregin, bearing: NE }
-    - { to: suryasamdra, bearing: E }
-    - { to: meghsamdra, bearing: S }
-    - { to: sandhysmdr, bearing: W }
+    - {to: dunharargn, bearing: NW}
+    - {to: khzryndsrtrgn, bearing: N}
+    - {to: tanvuregin, bearing: NE}
+    - {to: suryasamdra, bearing: E}
+    - {to: meghsamdra, bearing: S}
+    - {to: sandhysmdr, bearing: W}
   population: 110000000
-terran_analog: Indian subcontinent
-packFolder: vedyara
+  packFolder: vedyara
+
+# terran_analog: Indian subcontinent
 ---
 
 Start with the [[doc-vedyaraadventurersguide|Vedyara Adventurer's Guide]] for an introduction to the people and places of the subcontinent.

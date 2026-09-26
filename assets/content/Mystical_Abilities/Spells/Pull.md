@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Pull
-  aliases:
-    - Magnet
-description: "Force yanks target toward caster; resists movement with difficulty."
 shortcode: pull
+name: {full: Pull, aliases: [Magnet]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-anvilbdg
-  templatePriority: null
+description: "Force yanks target toward caster; resists movement with difficulty."
+tags: []
+data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideros
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Magnet
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Magnet
 ---
 
 The caster extends their hand toward a metallic object and exerts an invisible magnetic grip upon it. The targeted metal lurches toward the caster—or in whatever direction the caster wills—with a force proportional to the caster's power and inversely proportional to the object's mass. A sword can be wrenched from a warrior's grip. A ring of keys can fly across a room into the caster's waiting hand. Loose coins scatter toward the caster's position like iron filings drawn to a lodestone.

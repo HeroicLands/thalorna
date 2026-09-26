@@ -1,22 +1,11 @@
 ---
-tags:
-  - city
-  - port
-  - river
-description: "The capital of Élavendre—a river metropolis fifteen miles up the Bérav from the sea, seat of the crown, and home of the largest Panepistemium campus outside the Vylarian Empire."
+shortcode: beravel
+name: {full: Béravel, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - tirwen
-  population: 55000
-name:
-  full: Béravel
-  aliases: []
-shortcode: beravel
-packFolder: elavendre
+description: "The capital of Élavendre—a river metropolis fifteen miles up the Bérav from the sea, seat of the crown, and home of the largest Panepistemium campus outside the Vylarian Empire."
+tags: [city, port, river]
+data: {demonym: null, lore: [], parents: [tirwen], population: 55000, packFolder: elavendre}
 ---
 
 **Béravel** stands on the [[place-beravriver|Bérav]] some **fifteen miles up from the western sea**, at

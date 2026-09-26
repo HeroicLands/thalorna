@@ -1,19 +1,11 @@
 ---
-tags:
-  - mild-elixir
-name:
-  full: Poppytear
-  aliases:
-    - Potion, Narcotic, Mild
-description: "Pale cream draft; induces drowsiness and peaceful sleep."
 shortcode: ptnnarm
+name: {full: Poppytear, aliases: ["Potion, Narcotic, Mild"]}
 type: concoctiongear
 subType: exotic
-hmk:
-  name: "Potion, Narcotic, Mild"
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "Pale cream draft; induces drowsiness and peaceful sleep."
+tags: [mild-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: mild}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "mild"
     strength: 0
-packFolder: mild
+
+# hmk:
+#   name: "Potion, Narcotic, Mild"
 ---
 
 A pale, cream-colored liquid with a slight viscosity, swirling gently when tilted despite its stillness. The aroma is sweet and cloyingly familiar—poppy fields in late summer, hay warming in the sun. When tasted, it coats the tongue with a syrupy numbness that spreads slowly across the mouth and throat. Herbalists prize this as a mercy for the wounded, a small mercy for those who would otherwise lie screaming through their darkest hours.

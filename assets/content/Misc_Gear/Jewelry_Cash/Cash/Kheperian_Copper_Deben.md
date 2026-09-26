@@ -1,26 +1,14 @@
 ---
-tags:
-  - jewelry_cash
-name:
-  full: Kheperian Copper Deben
-  aliases: ["Copper Deben"]
-description: "Sealed bronze piece at deben weight, passing at its attested face rather than its metal."
 shortcode: cdeb
+name: {full: Kheperian Copper Deben, aliases: ["Copper Deben"]}
 type: miscgear
-data:
-  icon: icon-coinsbdg
-  templatePriority: 0
+description: "Sealed bronze piece at deben weight, passing at its attested face rather than its metal."
+tags: [jewelry_cash]
+data: {icon: icon-coinsbdg, templatePriority: 0, packFolder: cash}
 sohl:
-  craft:
-    skill: mtlc
-    secondary: []
+  craft: {skill: mtlc, secondary: []}
   kbcat: cash
-  system:
-    weightBase: 0.2
-    valueBase: 1
-    qualityBase: 0
-    durabilityBase: 3
-packFolder: cash
+  system: {weightBase: 0.2, valueBase: 1, qualityBase: 0, durabilityBase: 3}
 ---
 
 A bronze piece struck to the deben weight and sealed by the temple. Unlike the gold and silver pieces it is **not** worth the metal in it: the bronze alone comes to well under the face the seal attests, and the difference is the temple's charge for making small money exist at all.

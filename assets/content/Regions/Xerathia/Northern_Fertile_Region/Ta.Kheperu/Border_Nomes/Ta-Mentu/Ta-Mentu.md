@@ -1,22 +1,17 @@
 ---
-tags:
-  - region
-description: "The western steppe-edge; horse-pasture and the watch against nomad raiders—the land of the Nome of Ta-Mentu, one of the border nomes of Ta'Kheperu."
-name:
-  full: Ta-Mentu
-  aliases: []
 shortcode: tamentunome
+name: {full: Ta-Mentu, aliases: []}
 type: place
 subType: region
+description: "The western steppe-edge; horse-pasture and the watch against nomad raiders—the land of the Nome of Ta-Mentu, one of the border nomes of Ta'Kheperu."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 220000
-packFolder: bordernomes
+  packFolder: bordernomes
 ---
 
 ## Overview

@@ -1,22 +1,11 @@
 ---
-tags:
-  - village
-  - river
-  - market
-description: "The crossing village where the Sarvada leaves the hills, and the only place a loaded cart gets over the river above the bow-fort."
+shortcode: taranaghatta
+name: {full: Taranaghatta, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - dhanurkotajnpd
-  population: 820
-name:
-  full: Taranaghatta
-  aliases: []
-shortcode: taranaghatta
-packFolder: vedyara
+description: "The crossing village where the Sarvada leaves the hills, and the only place a loaded cart gets over the river above the bow-fort."
+tags: [village, river, market]
+data: {demonym: null, lore: [], parents: [dhanurkotajnpd], population: 820, packFolder: vedyara}
 ---
 
 Taranaghatta (820) holds the crossing where the Sarvada leaves the hills, and is the only place a loaded cart can get over the river above the bow-fort. The ford works from the end of the rains to the start of them. Through the wet season the village runs two flat ferries and a rope.

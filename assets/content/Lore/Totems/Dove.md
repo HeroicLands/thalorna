@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The dove as a totemic ideal, and the human character it describes."
+shortcode: dovettm
+name: {full: Dove, aliases: [Dove Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Dove
-  aliases:
-    - Dove Totem
-shortcode: dovettm
-packFolder: loretotems
-data:
-  banner: creaturebnr
+description: "The dove as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-dovetotem|Dove]]{float: top-left, size: medium}

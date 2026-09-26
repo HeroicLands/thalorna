@@ -1,10 +1,10 @@
 ---
-description: "Hunted jungle sects who teach that the Fifth Age is beyond saving and that waking the storm-serpent would be a mercy—and who can, demonstrably, pull the dead back out of Xibalba."
-tags:
-  - itzani
-  - religion
+shortcode: tzumaqkalanil
+name: {full: "Tz'umaq K'alanil", aliases: [The Serpent Awakeners, Serpent Awakeners]}
 type: affiliation
 subType: faithtradition
+description: "Hunted jungle sects who teach that the Fifth Age is beyond saving and that waking the storm-serpent would be a mercy—and who can, demonstrably, pull the dead back out of Xibalba."
+tags: [itzani, religion]
 data:
   banner: faithbnr
   icon: null
@@ -15,88 +15,70 @@ data:
   governance:
     model: confederation
     summary: >-
-      Independent cells holding one doctrine and one patron, with no seat, no hierarch and no
-      means of compelling one another; a cell that is taken cannot betray more than itself.
+      Independent cells holding one doctrine and one patron, with no seat, no hierarch and no means of compelling one another; a cell that is taken cannot betray more than itself.
     ranks:
       - level: 0
         title: Denounced
         lore: expelledrnk
         description: >-
-          Named to the orthodox authorities by their own cell, or judged to have informed;
-          expulsion and execution are the same sentence here.
+          Named to the orthodox authorities by their own cell, or judged to have informed; expulsion and execution are the same sentence here.
       - level: 1
         title: Listener
         lore: catechumenrnk
         description: >-
-          Has heard the arguments and not yet accepted them; the movement is patient with
-          listeners, because its case is strongest on a second hearing.
+          Has heard the arguments and not yet accepted them; the movement is patient with listeners, because its case is strongest on a second hearing.
       - level: 2
         title: Persuaded
         lore: layfaithfulrnk
         description: >-
-          Holds the doctrine, gives shelter, food and silence, and takes no part in the rites;
-          most adherents never advance past this and are the reason cells survive.
+          Holds the doctrine, gives shelter, food and silence, and takes no part in the rites; most adherents never advance past this and are the reason cells survive.
       - level: 3
         title: Bereaved
         lore: layfaithfulrnk
         description: >-
-          Has accepted a reclaimed loved one and is bound by the acceptance—the movement's
-          most reliable adherents, and its most desperate.
+          Has accepted a reclaimed loved one and is bound by the acceptance—the movement's most reliable adherents, and its most desperate.
       - level: 4
         title: Awakener
         lore: initiaternk
         description: >-
-          Active in a cell: carries the teaching, finds the grieving, and moves between
-          villages under whatever name the region has not yet learned to fear.
+          Active in a cell: carries the teaching, finds the grieving, and moves between villages under whatever name the region has not yet learned to fear.
       - level: 5
         title: Priest of the Broken Round
         lore: priestrnk
         description: >-
-          Performs the reversal and the lesser rites, and holds the cell's account of why the
-          cosmic cycle is failing.
+          Performs the reversal and the lesser rites, and holds the cell's account of why the cosmic cycle is failing.
       - level: 6
         title: Tz'uqil Ch'ul
         lore: professedrnk
         description: >-
-          Has undergone the ritual—torture, death and immediate reanimation—and come
-          through it whole; named for the rite that made them.
+          Has undergone the ritual—torture, death and immediate reanimation—and come through it whole; named for the rite that made them.
       - level: 7
         title: Cell-Master
         lore: commanderrnk
         description: >-
-          Holds a cell, its shelter, its dead and its silence, and answers to no other cell for
-          any of it.
+          Holds a cell, its shelter, its dead and its silence, and answers to no other cell for any of it.
       - level: 8
         title: Voice of the Owl
         lore: grandmasterrnk
         description: >-
-          Believed to carry Pik'ul Tz'umaq's own word; never more than one in a region, often
-          none, and the claim is never made twice in the same generation without bloodshed.
+          Believed to carry Pik'ul Tz'umaq's own word; never more than one in a region, often none, and the claim is never made twice in the same generation without bloodshed.
     offices:
       Cell-Master: >-
-        Holds one cell and everything in it, and is the only authority the movement recognizes
-        as binding.
+        Holds one cell and everything in it, and is the only authority the movement recognizes as binding.
       Keeper of the Ritual: >-
-        Conducts the Tz'uqil Ch'ul—the willing torture, killing and reanimation by which a
-        soul is intercepted before it enters Xibalba.
+        Conducts the Tz'uqil Ch'ul—the willing torture, killing and reanimation by which a soul is intercepted before it enters Xibalba.
       Reclaimer: >-
-        Draws a recently dead soul back out of the labyrinth, which is the movement's chief
-        recruiting instrument and its chief cruelty.
+        Draws a recently dead soul back out of the labyrinth, which is the movement's chief recruiting instrument and its chief cruelty.
       Warder of the Returned: >-
-        Attends the reclaimed through the weeks of degradation and decides when the family may
-        no longer see them.
+        Attends the reclaimed through the weeks of degradation and decides when the family may no longer see them.
       Comforter: >-
-        Approaches the newly bereaved, usually at a funeral the orthodox rites have just
-        failed to make convincing.
+        Approaches the newly bereaved, usually at a funeral the orthodox rites have just failed to make convincing.
       Reckoner of the Failed: >-
-        Holds the count of souls the movement says Xibalba has consumed, and the argument built
-        on it.
+        Holds the count of souls the movement says Xibalba has consumed, and the argument built on it.
       Shepherd of the Damut: >-
-        Takes charge of the returned once nothing recognisable remains, and directs what they
-        are turned loose upon.
+        Takes charge of the returned once nothing recognisable remains, and directs what they are turned loose upon.
       Watcher: >-
-        Keeps the cell ahead of the Tz'umaq'ob who hunt it—routes, informers, and the point
-        at which a village must be abandoned.
+        Keeps the cell ahead of the Tz'umaq'ob who hunt it—routes, informers, and the point at which a village must be abandoned.
   seat: null
   domains: []
   population: null
@@ -109,16 +91,8 @@ data:
     tzuqilixbal: nemesis
     pikultzumaq: aligned
     pikob: rival
-name:
-  full: "Tz'umaq K'alanil"
-  aliases:
-    - The Serpent Awakeners
-    - Serpent Awakeners
-shortcode: tzumaqkalanil
-packFolder: pantheonitzani
-sohl:
-  system:
-    commonSkills: []
+  packFolder: pantheonitzani
+sohl: {system: {commonSkills: []}}
 ---
 
 The **Tz'umaq K'alanil** ("Serpent Awakeners") are heterodox factions found in the deepest jungle regions, far from the great city-states. They teach that the Fifth Age has become irredeemably corrupt and that hastening [[affiliation-puqilchaqun|P'uqil Ch'aqun]]'s awakening would be a mercy—that destruction would wipe clean a stained world and allow the Sixth Age to begin pure. These sects are hunted and suppressed by orthodox authorities, their temples destroyed, their priests executed. But the theology is seductive to the desperate and the oppressed, and the movement resurfaces repeatedly in different places, under different names.

@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Scan
-  aliases:
-    - Survey
-description: "Searches nearby area; detects creatures and objects remotely."
 shortcode: scan
+name: {full: Scan, aliases: [Survey]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
+description: "Searches nearby area; detects creatures and objects remotely."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Survey
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Survey
 ---
 
 The caster closes their eyes and releases a pulse of awareness that radiates outward in all directions like a stone dropped into still water. This invisible wave passes through walls, earth, and living tissue alike, returning impressions of magical disturbances, hidden chambers, concealed creatures, and structural weaknesses within its radius. The information arrives not as sight but as a kind of spatial intuition—the caster simply knows what lies around them.

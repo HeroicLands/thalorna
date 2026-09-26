@@ -1,17 +1,11 @@
 ---
-tags:
-  - nkaruthar
-  - religion
+shortcode: zohira
+name: {full: Zohira, aliases: [The Intermediary Spirits, The Emissaries of the Flame]}
 type: lore
 subType: spirit
 description: "The intermediary spirits of the Okháric world—emissaries of the Eternal Flame, tied to fertility, storms, rivers, death and the hunt, and dealt with at cairns rather than in temples."
-name:
-  full: Zohira
-  aliases:
-    - The Intermediary Spirits
-    - The Emissaries of the Flame
-shortcode: zohira
-packFolder: settinglore
+tags: [nkaruthar, religion]
+data: {packFolder: settinglore}
 ---
 
 Between [[affiliation-nkaruthar|Nkaru'thar]] and the mortal world stand the **zohira**—demi-gods

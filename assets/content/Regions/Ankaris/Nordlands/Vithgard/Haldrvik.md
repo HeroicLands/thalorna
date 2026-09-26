@@ -1,19 +1,9 @@
 ---
-tags:
-  - port
-  - town
-description: "Port Town"
+shortcode: haldrvik
+name: {full: Haldrvík, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - vithgard
-  population: 450
-name:
-  full: Haldrvík
-  aliases: []
-shortcode: haldrvik
-packFolder: vithgard
+description: "Port Town"
+tags: [port, town]
+data: {demonym: null, lore: [], parents: [vithgard], population: 450, packFolder: vithgard}
 ---

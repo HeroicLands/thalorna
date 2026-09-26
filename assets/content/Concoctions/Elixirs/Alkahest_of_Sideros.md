@@ -1,19 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: Alkahest of Sidéros
-  aliases:
-    - Acid Elixir
-description: "Crystalline amber acid elixir; corrodes flesh, metal, armor per round."
 shortcode: elxacid
+name: {full: Alkahest of Sidéros, aliases: [Acid Elixir]}
 type: concoctiongear
 subType: elixir
-hmk:
-  name: Acid
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "Crystalline amber acid elixir; corrodes flesh, metal, armor per round."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "na"
     strength: 0
-packFolder: elixirs
+
+# hmk:
+#   name: Acid
 ---
 
 A crystalline amber liquid that hisses faintly within its vial, producing a thin acidic vapor that stings the nostrils. The elixir is tied to the Principle of Metal (Sidéros), its alchemical essence distilled from minerals and corroded metals forged in arcane furnaces. When applied to a surface, each round of contact eats away at the target: a successful Aural Shock roll inflicts damage while the elixir's charge decays by 1, whether successful or not. Different substances resist unequally—weapons and armor bearing the brunt, flesh charring in burning wounds—and the effect persists until the Aural Shock is wholly consumed or the elixir is scraped away.

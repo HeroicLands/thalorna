@@ -1,9 +1,6 @@
 ---
-name:
-  full: "Calypsa"
 shortcode: aureldiacalypsa
+name: {full: "Calypsa"}
 type: folder
-data:
-  parent: ankarisaureldia
-  color: "#3CB371"
+data: {parent: ankarisaureldia, color: "#3CB371"}
 ---

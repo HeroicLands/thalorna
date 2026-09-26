@@ -1,19 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: Salve of the Mind
-  aliases:
-    - Mindslave Elixir
-description: "Dark syrupy draft; clears judgment-clouds, reshapes imbiber's will."
 shortcode: elxmsl
+name: {full: Salve of the Mind, aliases: [Mindslave Elixir]}
 type: concoctiongear
 subType: elixir
-hmk:
-  name: Mindsalve
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "Dark syrupy draft; clears judgment-clouds, reshapes imbiber's will."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "na"
     strength: 0
-packFolder: elixirs
+
+# hmk:
+#   name: Mindsalve
 ---
 
 The Mindslave Elixir is a dark, syrupy draft that smells of iron and burned herbs, leaving a numb sensation on the tongue. This elixir works in three distinct stages to reshape the imbiber's will and perception. Upon drinking, it immediately lifts conditions that cloud judgment—withdrawing, routed, afraid, terrified, and catatonic all dissolve. Simultaneously, any accumulated psychological stress receives an immediate Recovery Roll, offering respite from the mind's wounds.

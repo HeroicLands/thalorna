@@ -1,19 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: Waterheart
-  aliases:
-    - Aqua Elixir
-description: "Pristine clear elixir; enhances water-breathing and aquatic movement."
 shortcode: elxaqu
+name: {full: Waterheart, aliases: [Aqua Elixir]}
 type: concoctiongear
 subType: elixir
-hmk:
-  name: Aqua
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "Pristine clear elixir; enhances water-breathing and aquatic movement."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "na"
     strength: 0
-packFolder: elixirs
+
+# hmk:
+#   name: Aqua
 ---
 
 A pristine, perfectly clear elixir that tastes of spring rain and distant mountains, infused with the Principle of Water (Zephäris). The liquid sits inert in its vial, as if the very essence of hydration has been distilled and bound into this small measure. When drunk, the body's thirst becomes voracious but manageable: the imbiber's water requirements drop to a quarter of normal, allowing for weeks of desert journeys or, conversely, frugal supplies that stretch impossibly far.

@@ -1,27 +1,19 @@
 ---
-tags:
-  - region
-  - aureldia
-description: The western heartland of the Aurèldían faith—a mosaic of kingdoms, city-states, and island realms bound by the Twelve rather than by crown.
-name:
-  full: Aurèldía Region
-  aliases: []
 shortcode: aureldirgn
+name: {full: Aurèldía Region, aliases: []}
 type: place
 subType: region
+description: The western heartland of the Aurèldían faith—a mosaic of kingdoms, city-states, and island realms bound by the Twelve rather than by crown.
+tags: [region, aureldia]
 data:
   icon: null
   demonym: Aurèldían
-  lore:
-    - humanflk
-    - grukarfolk
-    - flksinale
-    - flkkhazar
-  parents:
-    - ankrscntnnt
+  lore: [humanflk, grukarfolk, flksinale, flkkhazar]
+  parents: [ankrscntnnt]
   population: 11000000
-terran_analog: Medieval Western Europe (Western Christendom)
-packFolder: aureldia
+  packFolder: aureldia
+
+# terran_analog: Medieval Western Europe (Western Christendom)
 ---
 
 Aurèldía is a region bound by faith. It is the western heartland of the [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the Twelve—worshipped across a mosaic of sovereign kingdoms, merchant city-states, and island realms that together form the western third of [[place-ankrscntnnt|Ankaris Continent]]. From the mist-shrouded shores of [[place-aelwyth|Aelwyth]] in the far northwest to the sunlit vineyards of [[place-provenzrgn|Provènzia Region]] on the Vylarian coast, Aurèldía binds together peoples as different as the Aelwythan islanders of the Misty Isle, the mystically attuned Pelwar of [[place-elavendre|Élavendre]], the peninsular kingdoms of [[place-tarvenirgn|Tarvénia Region]], the merchant oligarchs of [[affiliation-calypsa|Calypsa]], and the cultured Provenzian coast. What they share is not language, not lineage, and not a common crown—but the Twelve, and centuries of pilgrimage, intermarriage, trade, rivalry, and quiet mutual recognition.

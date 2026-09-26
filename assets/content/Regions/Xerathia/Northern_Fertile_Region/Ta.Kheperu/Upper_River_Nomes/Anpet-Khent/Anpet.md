@@ -1,21 +1,17 @@
 ---
-tags:
-  - town
-description: "Nome capital of Anpet-Khent."
+shortcode: anpet
+name: {full: Anpet, aliases: []}
 type: place
 subType: settlement
+description: "Nome capital of Anpet-Khent."
+tags: [town]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - anpetkhentnome
+  parents: [anpetkhentnome]
   population: 24000
-name:
-  full: Anpet
-  aliases: []
-shortcode: anpet
-packFolder: upperrivernomes
+  packFolder: upperrivernomes
 ---
 
 ## Overview

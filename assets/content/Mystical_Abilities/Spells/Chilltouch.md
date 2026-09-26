@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Chilltouch
-  aliases:
-    - Freeze
-description: "Caster's hand withers flesh with unnatural cold on contact."
 shortcode: chlltch
+name: {full: Chilltouch, aliases: [Freeze]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
+description: "Caster's hand withers flesh with unnatural cold on contact."
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Freeze
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Freeze
 ---
 
 The caster's hand radiates an intense, penetrating cold that freezes whatever it contacts. A touch can coat a surface in a thick rime of ice, freeze a puddle solid, or numb flesh to the point of uselessness. The cold is not merely surface-level but reaches deep, crystallizing water within materials and causing them to become brittle and fragile.

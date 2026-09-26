@@ -1,19 +1,10 @@
 ---
-tags:
-  - organization
-  - tanvur
-  - subversive
-  - cult
-description: "Nihilist cult of the forsaken preaching destruction total and everlasting, venerating Demon Lords, and deploying the undead to destabilize imperial administration."
-name:
-  full: Nüszōk Rëit
-  aliases:
-    - The Cult of the Forsaken
-    - The Forsaken
-    - Cult of the Forsaken
 shortcode: nuszokreit
+name: {full: Nüszōk Rëit, aliases: [The Cult of the Forsaken, The Forsaken, Cult of the Forsaken]}
 type: affiliation
 subType: criminal
+description: "Nihilist cult of the forsaken preaching destruction total and everlasting, venerating Demon Lords, and deploying the undead to destabilize imperial administration."
+tags: [organization, tanvur, subversive, cult]
 data:
   templatePriority: null
   demonym: null
@@ -22,14 +13,7 @@ data:
   governance:
     model: confederation
     summary: >-
-      Decentralized to the point that it may have no center at all: "no central leadership council
-      exists—or if one exists, no member taken into imperial custody has ever revealed its
-      composition, which after decades of interrogation begins to support the hypothesis that none
-      exists." Regional cells plan and execute their own operations and rarely know each other's
-      membership; coordination passes through intermediaries who bear messages and know no
-      operational detail. This makes the cult almost impossible to decapitate and incoherent as a
-      political actor at the same time—which its own doctrine holds to be a feature, coordination
-      being the behavior of organizations that expect to continue existing.
+      Decentralized to the point that it may have no center at all: "no central leadership council exists—or if one exists, no member taken into imperial custody has ever revealed its composition, which after decades of interrogation begins to support the hypothesis that none exists." Regional cells plan and execute their own operations and rarely know each other's membership; coordination passes through intermediaries who bear messages and know no operational detail. This makes the cult almost impossible to decapitate and incoherent as a political actor at the same time—which its own doctrine holds to be a feature, coordination being the behavior of organizations that expect to continue existing.
     ranks:
       - level: 0
         title: Lapsed
@@ -40,44 +24,28 @@ data:
         title: Approached
         lore: dependentrnk
         description: >-
-          Under recruitment and not yet committed. The cult draws from the empire's
-          cast-aside—collapsed Shükrën households, Nützōk whose classification has drifted past
-          recovery, ruined Zhëklüng younger sons, and above all the condemned, whose ledgers admit
-          no ritual redemption and for whom no ancestor will advocate.
+          Under recruitment and not yet committed. The cult draws from the empire's cast-aside—collapsed Shükrën households, Nützōk whose classification has drifted past recovery, ruined Zhëklüng younger sons, and above all the condemned, whose ledgers admit no ritual redemption and for whom no ancestor will advocate.
       - level: 2
         title: Committed
         lore: professedrnk
         description: >-
-          Has performed the act of irreversible commitment on which recruitment deliberately
-          culminates—a public blasphemy, a petty sabotage of a local temple, a first small act of
-          violence—after which standing in the mainstream order cannot be recovered. There is no
-          rank above this that anyone has ever confirmed.
+          Has performed the act of irreversible commitment on which recruitment deliberately culminates—a public blasphemy, a petty sabotage of a local temple, a first small act of violence—after which standing in the mainstream order cannot be recovered. There is no rank above this that anyone has ever confirmed.
     offices:
       Cell Operator: >-
         A member of a regional cell, which conceives, plans and executes its own operations without reference to any other.
       Intermediary: >-
-        Carries messages between cells. The function is purely message-bearing, and the holder knows
-        no operational detail—which is what makes the network survive interrogation.
+        Carries messages between cells. The function is purely message-bearing, and the holder knows no operational detail—which is what makes the network survive interrogation.
       Recruiter: >-
-        Works the margins—the last taverns of disgraced merchant quarters, the southern work camps,
-        the districts where the classification-failed congregate—and sees each recruitment through
-        to its irreversible act.
+        Works the margins—the last taverns of disgraced merchant quarters, the southern work camps, the districts where the classification-failed congregate—and sees each recruitment through to its irreversible act.
   seat: null
   domains: []
   population: null
   economy: []
   lore: []
   parents: []
-  relations:
-    yokveng: aligned
-    tngvkvnlei: nemesis
-packFolder: organizations
-sohl:
-  system:
-    commonSkills:
-      - sohl-sohl-skill-melee
-      - sohl-sohl-skill-dscr
-      - sohl-sohl-skill-srvl
+  relations: {yokveng: aligned, tngvkvnlei: nemesis}
+  packFolder: organizations
+sohl: {system: {commonSkills: [sohl-sohl-skill-melee, sohl-sohl-skill-dscr, sohl-sohl-skill-srvl]}}
 ---
 
 - **Type:** Nihilistic apocalyptic cult

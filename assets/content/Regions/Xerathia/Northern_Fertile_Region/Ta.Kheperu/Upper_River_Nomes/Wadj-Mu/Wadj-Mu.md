@@ -1,21 +1,17 @@
 ---
-tags:
-  - town
-description: "Nome capital of Wadj-Mu."
+shortcode: wadjmu
+name: {full: Wadj-Mu, aliases: []}
 type: place
 subType: settlement
+description: "Nome capital of Wadj-Mu."
+tags: [town]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - wadjmunome
+  parents: [wadjmunome]
   population: 27000
-name:
-  full: Wadj-Mu
-  aliases: []
-shortcode: wadjmu
-packFolder: upperrivernomes
+  packFolder: upperrivernomes
 ---
 
 ## Overview

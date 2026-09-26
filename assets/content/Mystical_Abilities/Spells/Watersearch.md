@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Watersearch
-  aliases:
-    - Dowsing
-description: "Finds water nearby; locates source of liquid."
 shortcode: wtrsrch
+name: {full: Watersearch, aliases: [Dowsing]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
+description: "Finds water nearby; locates source of liquid."
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Dowsing
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Dowsing
 ---
 
 The caster extends their awareness through the ground and air, feeling for the presence of water below the surface or hidden within structures. The spell manifests as a tingling pull in the caster's hands, growing stronger and more insistent as they approach a water source—an underground spring, a sealed cistern, a water table beneath dry soil.

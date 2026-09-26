@@ -1,8 +1,6 @@
 ---
-name:
-  full: "Setting"
 shortcode: setting
+name: {full: "Setting"}
 type: folder
-data:
-  color: "#1B4965"
+data: {color: "#1B4965"}
 ---

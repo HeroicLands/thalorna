@@ -1,19 +1,10 @@
 ---
-tags:
-  - aureldian
-  - faith-skill
-  - draft
+shortcode: murkir
+name: {full: "Ritual: Murkir", aliases: [Múrkír, The Wayfarer]}
 type: skill
 subType: mystical
-shortcode: murkir
-name:
-  full: "Ritual: Murkir"
-  aliases:
-    - Múrkír
-    - The Wayfarer
-data:
-  icon: murkir
-  templatePriority: null
+tags: [aureldian, faith-skill, draft]
+data: {icon: murkir, templatePriority: null, packFolder: aureldian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -22,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: aureldian
 ---
 
 See [[affiliation-murkir|Faith of Murkir]]

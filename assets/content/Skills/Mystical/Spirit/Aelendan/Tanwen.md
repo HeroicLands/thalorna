@@ -1,19 +1,11 @@
 ---
-tags:
-  - first-gods
-  - spirit-power
-  - draft
-description: "Standing with Tanwen, hearth-kin of Eshálosha—what guest-right, the peace of the hall and the binding of an oath sworn at fire are asked through."
+shortcode: tanwensprt
+name: {full: "Tanwen Spirit Power", aliases: ["Tanwen, the Hearth of Eshálosha"]}
 type: skill
 subType: mystical
-shortcode: tanwensprt
-name:
-  full: "Tanwen Spirit Power"
-  aliases:
-    - Tanwen, the Hearth of Eshálosha
-data:
-  icon: icon-psychicwaves
-  templatePriority: null
+description: "Standing with Tanwen, hearth-kin of Eshálosha—what guest-right, the peace of the hall and the binding of an oath sworn at fire are asked through."
+tags: [first-gods, spirit-power, draft]
+data: {icon: icon-psychicwaves, templatePriority: null, packFolder: spiritskillsaelendan}
 sohl:
   system:
     skillBaseFormula: "@aur, @wil"
@@ -22,7 +14,6 @@ sohl:
     combatCategory: none
     parentSkillCode: spirit
     initSkillMult: 0
-packFolder: spiritskillsaelendan
 ---
 
 See [[lore-tanwenspr|Tanwen, the Hearth of Eshálosha]]—hearth-kin of [[lore-thekindred|the Kindred]], met through [[affiliation-theoldway|the Old Way]].

@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The sea bass as a totemic ideal, and the human character it describes."
+shortcode: seabassttm
+name: {full: Sea Bass, aliases: [Sea Bass Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Sea Bass
-  aliases:
-    - Sea Bass Totem
-shortcode: seabassttm
-packFolder: loretotems
-data:
-  banner: creaturebnr
+description: "The sea bass as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-seabasstotem|Sea Bass]]{float: top-left, size: medium}

@@ -1,17 +1,12 @@
 ---
-tags: []
-type: affiliation
-description: A confederation of twelve tribes who came up out of bondage in Ta'Kheperu four generations ago and seized the choicest oases of the Khazryn Desert by the Promise of Ātáröš—the Sacred Flame. Monolatrous, covenantal, militant, and locked in blood-feud with the indigenous Khazryn whose oases they took.
+shortcode: tribestrzd
 name:
   full: Tribes of Ātárzád
-  aliases:
-    - Ātárzádegan
-    - The Flame-born
-    - The Twelve Tribes
-    - Ātárzád
-    - Atarzad
-shortcode: tribestrzd
+  aliases: [Ātárzádegan, The Flame-born, The Twelve Tribes, Ātárzád, Atarzad]
+type: affiliation
 subType: polity
+description: A confederation of twelve tribes who came up out of bondage in Ta'Kheperu four generations ago and seized the choicest oases of the Khazryn Desert by the Promise of Ātáröš—the Sacred Flame. Monolatrous, covenantal, militant, and locked in blood-feud with the indigenous Khazryn whose oases they took.
+tags: []
 data:
   templatePriority: null
   demonym: Ātárzád
@@ -20,31 +15,23 @@ data:
   governance:
     model: confederation
     summary: >-
-      Twelve tribes, each led by a hereditary nasi (chieftain) and a council of elders. The
-      Council of the Twelve convenes annually at Beit-Shōfár (the holy seat at Mt. Shōfar)
-      to coordinate defense, adjudicate inter-tribal disputes, and renew the Covenant. In
-      times of crisis a Shōfet (Judge) is acclaimed with broad temporary authority—by tradition
-      always a prophet or warrior chosen by the Mōbadān-Shōfár, the Keeper of the Unconsuming
-      Flame.
+      Twelve tribes, each led by a hereditary nasi (chieftain) and a council of elders. The Council of the Twelve convenes annually at Beit-Shōfár (the holy seat at Mt. Shōfar) to coordinate defense, adjudicate inter-tribal disputes, and renew the Covenant. In times of crisis a Shōfet (Judge) is acclaimed with broad temporary authority—by tradition always a prophet or warrior chosen by the Mōbadān-Shōfár, the Keeper of the Unconsuming Flame.
     ranks:
       - level: 0
         title: Kinless
         lore: outlawrnk
         description: >-
-          Cast out by their own kin and claimed by none; owed no hospitality, no water and no
-          vengeance.
+          Cast out by their own kin and claimed by none; owed no hospitality, no water and no vengeance.
       - level: 1
         title: Bondservant
         lore: bondservantrnk
         description: >-
-          Held in service or debt to a household, and answerable through its head rather than
-          in their own name.
+          Held in service or debt to a household, and answerable through its head rather than in their own name.
       - level: 2
         title: Dependent
         lore: dependentrnk
         description: >-
-          Sheltered by a household without being of its blood—a client, a widow's family,
-          a taken-in stranger.
+          Sheltered by a household without being of its blood—a client, a widow's family, a taken-in stranger.
       - level: 3
         title: Kinsman
         lore: kinsmanrnk
@@ -53,19 +40,16 @@ data:
         title: Householder
         lore: commonerrnk
         description: >-
-          Head of a tent or hall, holding its herds and its people and speaking for them at
-          the moot.
+          Head of a tent or hall, holding its herds and its people and speaking for them at the moot.
       - level: 5
         title: Elder
         lore: elderrnk
-        description: Senior of a lineage, whose memory of custom and precedent settles what
-          the young dispute.
+        description: Senior of a lineage, whose memory of custom and precedent settles what the young dispute.
       - level: 6
         title: Chieftain
         lore: councillorrnk
         description: >-
-          Leading a clan or tribe by descent and by consent together, and losing it when either
-          fails.
+          Leading a clan or tribe by descent and by consent together, and losing it when either fails.
       - level: 7
         title: Delegate
         lore: councillorrnk
@@ -74,52 +58,33 @@ data:
         title: Speaker of the Council
         lore: prsdngffcrrnk
         description: >-
-          Presiding over the common council, holding the peace of its meeting and no authority
-          beyond it.
+          Presiding over the common council, holding the peace of its meeting and no authority beyond it.
     offices:
-      Speaker of the Council: Presiding officer of the common council, keeper of its peace
-        and of the order of speaking.
+      Speaker of the Council: Presiding officer of the common council, keeper of its peace and of the order of speaking.
       Chieftain: Head of a clan or tribe, holding by descent and consent together.
-      Elder: Senior of a lineage, whose recollection of custom settles disputes the young
-        cannot.
+      Elder: Senior of a lineage, whose recollection of custom settles disputes the young cannot.
       Lawkeeper: >-
-        Keeper of the customs the tribes hold in common, and arbiter where two tribes' customs
-        differ.
+        Keeper of the customs the tribes hold in common, and arbiter where two tribes' customs differ.
       Host-Caller: Summoner of the common muster when a threat concerns every tribe.
-      Truce-Warden: Holder of the peace at the council and at the seasonal markets, empowered
-        to enforce it.
+      Truce-Warden: Holder of the peace at the council and at the seasonal markets, empowered to enforce it.
       Water-Warden: >-
-        Keeper of the wells, springs or pastures the tribes share, and of the order in which
-        they are used.
+        Keeper of the wells, springs or pastures the tribes share, and of the order in which they are used.
       Guide: >-
-        Holder of the routes—their water, their seasons and their dangers—and hired at
-        a price accordingly.
-      Envoy: Sent to treat with a settled power, and protected by custom while he carries
-        the word.
+        Holder of the routes—their water, their seasons and their dangers—and hired at a price accordingly.
+      Envoy: Sent to treat with a settled power, and protected by custom while he carries the word.
       Keeper of the Feud: >-
-        Recorder of blood owed and blood paid between kindreds, without whom a settlement
-        cannot be reckoned.
+        Recorder of blood owed and blood paid between kindreds, without whom a settlement cannot be reckoned.
   seat: beitshofar
-  domains:
-    - swoasisbelt
+  domains: [swoasisbelt]
   population: 1000000
-  economy:
-    - lore-bartercnmy
-    - lore-kinhalcrdt
-    - lore-vdyrnbnkng
-  lore:
-    - humanflk
+  economy: [lore-bartercnmy, lore-kinhalcrdt, lore-vdyrnbnkng]
+  lore: [humanflk]
   parents: []
-  relations:
-    ashanpnthn: aligned
-    khzrncnfdrtn: nemesis
-    sultntmrdd: unaligned
-terran_analog: "Israelites of the Exodus and Conquest—twelve-tribe nomadic-pastoral confederation, monolatrous fire-cult, covenantal land-claim, post-bondage founding narrative under a singular prophet, blood-feud with the indigenous urban polytheists whose territory they seized"
-packFolder: khazryndesert
-sohl:
-  system:
-    commonSkills:
-      - atarzadilng
+  relations: {ashanpnthn: aligned, khzrncnfdrtn: nemesis, sultntmrdd: unaligned}
+  packFolder: khazryndesert
+sohl: {system: {commonSkills: [atarzadilng]}}
+
+# terran_analog: "Israelites of the Exodus and Conquest—twelve-tribe nomadic-pastoral confederation, monolatrous fire-cult, covenantal land-claim, post-bondage founding narrative under a singular prophet, blood-feud with the indigenous urban polytheists whose territory they seized"
 ---
 
 The **Tribes of Ātárzád** are a confederation of twelve allied tribes who today hold the great walled oases and the major caravan routes of the [[place-khzryndsrtrgn|Khazryn Desert]]. They are newcomers—by the reckoning of their own griots, only six generations have passed since their forebears came up out of bondage in [[affiliation-empirtkhpr|Ta'Kheperu]] under the prophet **Mūshárā** and received the **Promise of the Khazryn** at the Unconsuming Flame on Mt. Shōfar. By the reckoning of their adversaries, the [[affiliation-khzrncnfdrtn|Khazryn]], they are six generations of trespassers whose claim rests on theology rather than on right. The Tribes hold the four great cities of the [[place-swoasisbelt|Southwestern Oasis-Belt]] and the pasturelands between them.

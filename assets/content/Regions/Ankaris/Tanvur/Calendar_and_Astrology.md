@@ -1,27 +1,25 @@
 ---
+shortcode: clndrstrlgy
+name: {full: Calendar and Astrology, aliases: []}
 type: lore
 subType: calendar
-name:
-  full: Calendar and Astrology
-  aliases: []
-shortcode: clndrstrlgy
-packFolder: tanvur
 data:
   epoch: 720/1/1
   months:
-    - { name: Jëityüt, days: 30 }
-    - { name: Mütyüt, days: 30 }
-    - { name: Hötyüt, days: 30 }
-    - { name: Hōkyüt, days: 30 }
-    - { name: Tūryüt, days: 30 }
-    - { name: Jīkyüt, days: 32 }
-    - { name: Shütyüt, days: 33 }
-    - { name: Vëngyüt, days: 30 }
-    - { name: Yütjëit, days: 30 }
-    - { name: Thürkyüt, days: 30 }
-    - { name: Zhürtyüt, days: 30 }
-    - { name: Thürtyüt, days: 30 }
+    - {name: Jëityüt, days: 30}
+    - {name: Mütyüt, days: 30}
+    - {name: Hötyüt, days: 30}
+    - {name: Hōkyüt, days: 30}
+    - {name: Tūryüt, days: 30}
+    - {name: Jīkyüt, days: 32}
+    - {name: Shütyüt, days: 33}
+    - {name: Vëngyüt, days: 30}
+    - {name: Yütjëit, days: 30}
+    - {name: Thürkyüt, days: 30}
+    - {name: Zhürtyüt, days: 30}
+    - {name: Thürtyüt, days: 30}
   weekdays: []
+  packFolder: tanvur
 ---
 
 ## Tānvür Calendar and Astrology

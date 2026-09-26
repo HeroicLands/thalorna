@@ -1,13 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: elderrnk
+name: {full: Elder, aliases: []}
 type: lore
 subType: law
-name:
-  full: Elder
-  aliases: []
-shortcode: elderrnk
 description: "Senior of a body, whose recollection of its custom settles what the young dispute."
+tags: [draft]
 ---
 
 Senior of a body, whose recollection of its custom settles what the young dispute.

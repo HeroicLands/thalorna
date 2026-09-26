@@ -1,18 +1,10 @@
 ---
-tags:
-  - kemetian
-  - faith-skill
-  - draft
+shortcode: seker
+name: {full: "Ritual: Sēker", aliases: [Lord of Silent Passage]}
 type: skill
 subType: mystical
-shortcode: seker
-name:
-  full: "Ritual: Sēker"
-  aliases:
-    - Lord of Silent Passage
-data:
-  icon: seker
-  templatePriority: null
+tags: [kemetian, faith-skill, draft]
+data: {icon: seker, templatePriority: null, packFolder: kemetian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -21,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: kemetian
 ---
 
 See [[affiliation-seker|Faith of Sēker]]

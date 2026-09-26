@@ -1,19 +1,11 @@
 ---
-tags:
-  - great-elixir
-name:
-  full: Deathstaunch
-  aliases:
-    - Potion, Coagulant, Great
-description: "Nearly black crystalline preparation; stops bleeding and rapid death."
 shortcode: ptncoagg
+name: {full: Deathstaunch, aliases: ["Potion, Coagulant, Great"]}
 type: concoctiongear
 subType: exotic
-hmk:
-  name: "Potion, Coagulant, Great"
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "Nearly black crystalline preparation; stops bleeding and rapid death."
+tags: [great-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: great}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "great"
     strength: 0
-packFolder: great
+
+# hmk:
+#   name: "Potion, Coagulant, Great"
 ---
 
 Nearly black, hard as resin when cool but with a crystalline sheen that catches light strangely, this legendary coagulant looks like no ordinary preparation. The scent is almost metallic—pure iron, rendered to its essence, mixed with herbal compounds so rare and potent that breathing the air around an opened vial makes the head swim slightly. When warmed and pressed against a wound, the paste seems to hunt for the bleeding source actively, drawn toward flowing blood as iron to lodestone, and seals it with extraordinary finality. The flesh around the application visibly drains of color within heartbeats, the body's blood traffic diverted completely away from the wound and back toward vital organs.

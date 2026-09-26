@@ -1,11 +1,9 @@
 ---
-description: "Vast continental empire spanning half of Ankaris—mighty, centralized state claiming dominion over multiple provinces, eternal pretender to universal rule."
-type: affiliation
-name:
-  full: Vylarian Empire
-  aliases: []
 shortcode: vylarinmpr
+name: {full: Vylarian Empire, aliases: []}
+type: affiliation
 subType: polity
+description: "Vast continental empire spanning half of Ankaris—mighty, centralized state claiming dominion over multiple provinces, eternal pretender to universal rule."
 data:
   templatePriority: null
   demonym: Vylarian
@@ -14,15 +12,13 @@ data:
   governance:
     model: monarchy
     summary: >-
-      Hereditary emperor over a senate of the great families, a scribal bureaucracy and the
-      curiae; his authority resting on tradition, the armies' loyalty and the senate's acquiescence.
+      Hereditary emperor over a senate of the great families, a scribal bureaucracy and the curiae; his authority resting on tradition, the armies' loyalty and the senate's acquiescence.
     ranks:
       - level: 0
         title: Proscribed
         lore: excmmnctrnk
         description: >-
-          Named in a proscription; property forfeit to the treasury and life forfeit to whoever
-          collects it.
+          Named in a proscription; property forfeit to the treasury and life forfeit to whoever collects it.
       - level: 1
         title: Slave
         lore: slavernk
@@ -30,68 +26,54 @@ data:
       - level: 2
         title: Freedman
         lore: freedmanrnk
-        description: Manumitted, and in the imperial household often far more powerful than
-          the rank suggests.
+        description: Manumitted, and in the imperial household often far more powerful than the rank suggests.
       - level: 3
         title: Peregrine
         lore: rsdntlnrnk
         description: >-
-          A provincial living under imperial authority without the citizenship—the great majority
-          of the empire's people.
+          A provincial living under imperial authority without the citizenship—the great majority of the empire's people.
       - level: 4
         title: Citizen
         lore: citizenrnk
         description: >-
-          Holding the citizenship by birth, grant or service, with its protections at law and
-          its liability to its taxes.
+          Holding the citizenship by birth, grant or service, with its protections at law and its liability to its taxes.
       - level: 5
         title: Equestrian
         lore: landedlordrnk
         description: >-
-          Of the propertied order from which the prefectures, the procuratorships and the great
-          commands are filled.
+          Of the propertied order from which the prefectures, the procuratorships and the great commands are filled.
       - level: 6
         title: Senator
         lore: councillorrnk
         description: >-
-          Of the senatorial families, holding a seat for life and the empire's highest civil
-          offices with it.
+          Of the senatorial families, holding a seat for life and the empire's highest civil offices with it.
       - level: 7
         title: Consular
         lore: highpriestrnk
-        description: Having held the consulship, and eligible thereafter for the greatest provincial
-          commands.
+        description: Having held the consulship, and eligible thereafter for the greatest provincial commands.
       - level: 8
         title: Emperor
         lore: sovereignrnk
         description: >-
-          The sovereign, whose authority rests on tradition, the loyalty of the armies and the
-          senate's acquiescence—and who is a prisoner of all three.
+          The sovereign, whose authority rests on tradition, the loyalty of the armies and the senate's acquiescence—and who is a prisoner of all three.
     offices:
       Emperor: >-
-        The sovereign, first among the senate in name and its master in fact, so long as the
-        armies hold.
+        The sovereign, first among the senate in name and its master in fact, so long as the armies hold.
       Augusta: The emperor's consort, holding her own household, revenues and court faction.
       Consul: >-
-        Chief magistrate of the year—an office of enormous prestige and, under an emperor,
-        of modest power.
+        Chief magistrate of the year—an office of enormous prestige and, under an emperor, of modest power.
       Praetor: Magistrate of the courts, declaring the law for his year.
       Censor: Keeper of the citizen roll and of the senatorial census.
       Quaestor: Officer of the treasury, answerable for revenue and disbursement.
       Aedile: Officer of the city's markets, streets, water and games.
       Tribune: >-
-        Speaker for the citizen body, and a title the emperor holds himself for what it lets
-        him block.
-      Praetorian Prefect: Commander of the emperor's guard, and in practice the second man
-        in the empire.
-      Legate: Commander of a legion, or governor of an imperial province, commissioned by
-        the emperor.
+        Speaker for the citizen body, and a title the emperor holds himself for what it lets him block.
+      Praetorian Prefect: Commander of the emperor's guard, and in practice the second man in the empire.
+      Legate: Commander of a legion, or governor of an imperial province, commissioned by the emperor.
       Proconsul: Governor of a senatorial province, appointed by lot from among the consulars.
-      Pontifex Maximus: Chief priest of the state cult, an office the emperor holds in his
-        own person.
+      Pontifex Maximus: Chief priest of the state cult, an office the emperor holds in his own person.
   seat: magnapolis
-  domains:
-    - vylariargn
+  domains: [vylariargn]
   population: 21000000
   economy:
     - affiliation-aerarimmpr
@@ -99,8 +81,7 @@ data:
     - affiliation-curiafscls
     - affiliation-magnumclgm
     - lore-vylrncrncy
-  lore:
-    - humanflk
+  lore: [humanflk]
   parents: []
   relations:
     arldnpnthn: aligned
@@ -112,12 +93,10 @@ data:
     vrystwldtrbs: rival
     empirtkhpr: unaligned
     hlykngdmnrtm: rival
-terran_analog: "Italy, Croatia, Bosnia, Serbia, Hungary, and Austria—the Roman empire reaching from its Italian heartland up through the Adriatic east into the Carpathian basin, with provincial reach further east into the Vylarian Sea littoral. The Alps form the empire's western mountain frontier (Cervaron Spine in-world); claimed by the Vylarian chancery, contested by the Áelendan tribes who hold the range as sacred and effectively control its passes."
-packFolder: vylaria
-sohl:
-  system:
-    commonSkills:
-      - vylarilng
+  packFolder: vylaria
+sohl: {system: {commonSkills: [vylarilng]}}
+
+# terran_analog: "Italy, Croatia, Bosnia, Serbia, Hungary, and Austria—the Roman empire reaching from its Italian heartland up through the Adriatic east into the Carpathian basin, with provincial reach further east into the Vylarian Sea littoral. The Alps form the empire's western mountain frontier (Cervaron Spine in-world); claimed by the Vylarian chancery, contested by the Áelendan tribes who hold the range as sacred and effectively control its passes."
 ---
 
 ## Overview

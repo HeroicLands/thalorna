@@ -1,21 +1,11 @@
 ---
-tags:
-  - town
-  - mining
-description: "Mining Town"
+shortcode: hakiahkul
+name: {full: Ha’ Ki’ahkul, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - balamtzakurgn
-  population: 12000
-name:
-  full: Ha’ Ki’ahkul
-  aliases: []
-shortcode: hakiahkul
-packFolder: south
+description: "Mining Town"
+tags: [town, mining]
+data: {demonym: null, lore: [], parents: [balamtzakurgn], population: 12000, packFolder: south}
 ---
 
 ## Overview

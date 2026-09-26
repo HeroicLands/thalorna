@@ -1,23 +1,16 @@
 ---
-tags:
-  - sacred
-  - strange
-  - inland
-description: "The slab at the head of the Chandramahī's source—gray, warm, giving under a thumb, unmarked by anything the ice or the temple has done to it in four hundred years."
+shortcode: himashila
+name: {full: Himashilā, aliases: []}
 type: place
 subType: site
+description: "The slab at the head of the Chandramahī's source—gray, warm, giving under a thumb, unmarked by anything the ice or the temple has done to it in four hundred years."
+tags: [sacred, strange, inland]
 data:
   demonym: null
   lore: []
-  parents:
-    - graznmntns
-    - sthrnwall
+  parents: [graznmntns, sthrnwall]
   population: null
-name:
-  full: Himashilā
-  aliases: []
-shortcode: himashila
-packFolder: vedyara
+  packFolder: vedyara
 ---
 
 **Himashilā** lies at the head of [[place-chandrprbh|Chandraprabhava]], on the shelf where the [[place-chandrmahi|Chandramahī]] comes out of the ice under [[place-suryashkhr|Sūryashikhara]]. It is one piece, about the size of a cart, without a seam or a crack anywhere on it. Its upper face swells and hollows in long true runs, more like the whorl of a conch opened out than like anything built, and there is no ornament on it, no straight edge and no square corner.

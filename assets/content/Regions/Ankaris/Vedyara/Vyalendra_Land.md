@@ -1,22 +1,16 @@
 ---
-tags:
-  - region
-  - held
-description: "The land of the city-state of Vyālendra—the Nilacharī valleys of cotton and indigo, the loom villages that feed the city's halls, and the river road that carries the cloth down to the sea."
-name:
-  full: Vyālendra Land
-  aliases: []
 shortcode: vyalendraland
+name: {full: Vyālendra Land, aliases: []}
 type: place
 subType: region
+description: "The land of the city-state of Vyālendra—the Nilacharī valleys of cotton and indigo, the loom villages that feed the city's halls, and the river road that carries the cloth down to the sea."
+tags: [region, held]
 data:
   demonym: Vyālendri
-  lore:
-    - vedyariclt
-  parents:
-    - vedyarargn
+  lore: [vedyariclt]
+  parents: [vedyarargn]
   population: 6000000
-packFolder: vedyara
+  packFolder: vedyara
 ---
 
 ## Overview

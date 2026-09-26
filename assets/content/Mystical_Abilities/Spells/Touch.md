@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Touch
-  aliases:
-    - Caress
-description: "Caster's hands conduct magic; enables touch-based spellcasting."
 shortcode: touch
+name: {full: Touch, aliases: [Caress]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-firebdg
-  templatePriority: null
+description: "Caster's hands conduct magic; enables touch-based spellcasting."
+tags: []
+data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Caress
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Caress
 ---
 
 The caster's hand takes on a gentle warmth that radiates comfort and ease. Pressing the warmed hand against chilled flesh drives away the deep cold, restoring circulation and sensation to frostbitten extremities. Laying it against a tense muscle releases the knots of strain and fatigue. The warmth penetrates deep into the tissue, carrying with it a soothing quality that eases pain and promotes relaxation.

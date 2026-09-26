@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Crush
-  aliases:
-    - Fist
-description: "Focuses immense pressure; compresses target or ruins structures utterly."
 shortcode: crush
+name: {full: Crush, aliases: [Fist]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-anvilbdg
-  templatePriority: null
+description: "Focuses immense pressure; compresses target or ruins structures utterly."
+tags: []
+data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideros
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Fist
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Fist
 ---
 
 The caster clenches their fist and a massive construct of compressed metal forms above the target—a colossal fist, a falling hammer, a descending pillar of solid steel—and drops with devastating, earth-shaking force. The impact is catastrophic, cratering the ground, pulverizing stone, and crushing anything beneath it with the weight and momentum of several tons of solid metal. The concussive shockwave alone is sufficient to knock nearby individuals off their feet.

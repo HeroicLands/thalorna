@@ -1,19 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: The Dispelling Draft
-  aliases:
-    - Physic Elixir
-description: "Colorless liquid; suppresses other active elixirs in imbiber body."
 shortcode: elxphy
+name: {full: The Dispelling Draft, aliases: [Physic Elixir]}
 type: concoctiongear
 subType: elixir
-hmk:
-  name: Physic
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "Colorless liquid; suppresses other active elixirs in imbiber body."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "na"
     strength: 0
-packFolder: elixirs
+
+# hmk:
+#   name: Physic
 ---
 
 A Physic Elixir glows with a neutral, almost colorless clarity, like water that has been distilled through seven nights of ritual refinement. When imbibed, it acts as an arcane counteragent, actively suppressing other elixirs already flowing through the drinker's veins. The Physic's AS is subtracted directly from the AS of every active elixir in the imbiber's body; any elixir whose AS drops to zero or below is dispelled entirely.

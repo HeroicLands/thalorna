@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Hellfire
-  aliases:
-    - Doom Flame
-description: "White-hot supernatural flame consuming stone and metal; spreads inexorably."
 shortcode: hellfire
+name: {full: Hellfire, aliases: [Doom Flame]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-firebdg
-  templatePriority: null
+description: "White-hot supernatural flame consuming stone and metal; spreads inexorably."
+tags: []
+data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Doom Flame
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Doom Flame
 ---
 
 The caster speaks a word of absolute destruction and hurls a seed of supernatural flame at the target. Where it lands, fire erupts—but not the warm orange of natural flame. Hellfire burns white-hot at its core, edged in an actinic blue that is painful to look upon directly. It ignores moisture, consumes stone as readily as wood, and cannot be smothered, drowned, or starved of fuel. The flame feeds on the magical energy bound into the material world itself, and it will burn until that energy is exhausted or powerful counter-magic intervenes.

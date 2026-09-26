@@ -1,20 +1,10 @@
 ---
-tags:
-  - aureldian
-  - faith-skill
-  - draft
+shortcode: aetheria
+name: {full: "Ritual: Aethería", aliases: [Aethería, Aetheria, The Veiled Dreamer]}
 type: skill
 subType: mystical
-shortcode: aetheria
-name:
-  full: "Ritual: Aethería"
-  aliases:
-    - Aethería
-    - Aetheria
-    - The Veiled Dreamer
-data:
-  icon: aetheria
-  templatePriority: null
+tags: [aureldian, faith-skill, draft]
+data: {icon: aetheria, templatePriority: null, packFolder: aureldian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -23,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: aureldian
 ---
 
 See [[affiliation-aetheria|Faith of Aethería]]

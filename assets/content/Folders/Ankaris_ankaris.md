@@ -1,9 +1,6 @@
 ---
-name:
-  full: "Ankaris"
 shortcode: ankaris
+name: {full: "Ankaris"}
 type: folder
-data:
-  parent: regions
-  color: "#3CB371"
+data: {parent: regions, color: "#3CB371"}
 ---

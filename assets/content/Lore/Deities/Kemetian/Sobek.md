@@ -1,13 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: sobekdty
+name: {full: Sobek, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Sobek
-  aliases: []
-shortcode: sobekdty
-packFolder: deitieskemetian
+tags: [draft]
+data: {packFolder: deitieskemetian}
 ---
 
 _The Crocodile-God._

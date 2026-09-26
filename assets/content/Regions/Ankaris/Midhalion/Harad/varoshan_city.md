@@ -1,22 +1,16 @@
 ---
-tags:
-  - city
-  - caravan
-description: "The easternmost city of Harad—a dusty, polyglot crossroads of mudbrick and tile where the coastal trade meets the caravan trails from Dunhara and the Khazryn."
-name:
-  full: Varoshan
-  aliases: []
 shortcode: varoshan2
+name: {full: Varoshan, aliases: []}
 type: place
 subType: settlement
+description: "The easternmost city of Harad—a dusty, polyglot crossroads of mudbrick and tile where the coastal trade meets the caravan trails from Dunhara and the Khazryn."
+tags: [city, caravan]
 data:
   demonym: Varoshanian
-  lore:
-    - humanflk
-  parents:
-    - haradregin
+  lore: [humanflk]
+  parents: [haradregin]
   population: 220000
-packFolder: harad
+  packFolder: harad
 ---
 
 ## Overview

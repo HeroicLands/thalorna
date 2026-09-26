@@ -1,19 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: The Wandering Dream
-  aliases:
-    - Dreamwalk Elixir
-description: "Opalescent shifting liquid; projects consciousness to distant locations."
 shortcode: elxdrm
+name: {full: The Wandering Dream, aliases: [Dreamwalk Elixir]}
 type: concoctiongear
 subType: elixir
-hmk:
-  name: Dreamwalk
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "Opalescent shifting liquid; projects consciousness to distant locations."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "na"
     strength: 0
-packFolder: elixirs
+
+# hmk:
+#   name: Dreamwalk
 ---
 
 A translucent, opalescent liquid that shifts between colors as it moves—lavender, rose, silver—never settling into a single hue. Bound to the Principle of Dimension (Neutral), this elixir performs one of the most unnerving feats in alchemy: it divorces the drinker's soul from their flesh. Upon drinking, the imbiber's body falls into a deep coma while their active soul transfers to the spirit world, a shift in perspective from the physical realm to the astralscape beyond. The body remains corporeal and unharmed, left for companions to guard.

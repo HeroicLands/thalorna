@@ -1,22 +1,11 @@
 ---
-tags:
-  - artifact
-  - regalia
-  - nordlands
-description: "One of the three regalia of Gróa's quest—the horn of an older sea-power, whose name unsettlingly resembles that of the wraith it is needed to bind."
-type: miscgear
-name:
-  full: The Horn of Njördur
-  aliases: []
 shortcode: hornnjordur
-packFolder: nordlands
-data:
-  templatePriority: null
-sohl:
-  system:
-    weightBase: 2
-    valueBase: 0
-    durabilityBase: 12
+name: {full: The Horn of Njördur, aliases: []}
+type: miscgear
+description: "One of the three regalia of Gróa's quest—the horn of an older sea-power, whose name unsettlingly resembles that of the wraith it is needed to bind."
+tags: [artifact, regalia, nordlands]
+data: {templatePriority: null, packFolder: nordlands}
+sohl: {system: {weightBase: 2, valueBase: 0, durabilityBase: 12}}
 ---
 
 One of the **three regalia** required to seal away [[being-njorven|Njörven]], with the

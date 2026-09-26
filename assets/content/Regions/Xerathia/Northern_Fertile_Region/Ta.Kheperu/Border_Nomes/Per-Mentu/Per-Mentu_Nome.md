@@ -1,22 +1,17 @@
 ---
-tags:
-  - region
-description: "A garrison heartland; the chariot-corps drill-grounds and officer schools—the land of the Nome of Per-Mentu, one of the border nomes of Ta'Kheperu."
-name:
-  full: Per-Mentu Nome
-  aliases: []
 shortcode: permentunome
+name: {full: Per-Mentu Nome, aliases: []}
 type: place
 subType: region
+description: "A garrison heartland; the chariot-corps drill-grounds and officer schools—the land of the Nome of Per-Mentu, one of the border nomes of Ta'Kheperu."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 240000
-packFolder: bordernomes
+  packFolder: bordernomes
 ---
 
 ## Overview

@@ -1,15 +1,11 @@
 ---
-name:
-  full: Settlements
-  aliases: []
+shortcode: setlements
+name: {full: Settlements, aliases: []}
 type: doc
 subType: reference
-shortcode: setlements
-tags:
-  - draft
 description: Cities, towns, villages, and other inhabited places.
-data:
-  banner: settlementbnr
+tags: [draft]
+data: {banner: settlementbnr}
 ---
 
 Cities, towns, villages, and other inhabited places.

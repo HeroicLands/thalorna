@@ -1,12 +1,10 @@
 ---
-tags: []
+shortcode: hvarnguides
+name: {full: The Hvarn, aliases: []}
 type: affiliation
 subType: polity
 description: The guide-people of the Eastern Reach—fewer, poorer and better connected than the Ösket, keeping the two eastern crossings and supplying the one fort on the wall.
-name:
-  full: The Hvarn
-  aliases: []
-shortcode: hvarnguides
+tags: []
 data:
   templatePriority: null
   demonym: Hvarn
@@ -15,25 +13,21 @@ data:
   governance:
     model: confederation
     summary: >-
-      A single winter council of hearth-heads that sits each year at Nürvhrn and disperses,
-      with the two eastern crossings worked in rotation rather than held by descent.
+      A single winter council of hearth-heads that sits each year at Nürvhrn and disperses, with the two eastern crossings worked in rotation rather than held by descent.
     ranks:
       - level: 0
         title: Unhoused
         lore: outlawrnk
-        description: Put out of the winter house for a fault the council has named, and fed by
-          nobody.
+        description: Put out of the winter house for a fault the council has named, and fed by nobody.
       - level: 1
         title: Taken-in
         lore: dependentrnk
         description: >-
-          Sheltered by a hearth without being of it—a widow's family, a stranger, a child
-          of the roads.
+          Sheltered by a hearth without being of it—a widow's family, a stranger, a child of the roads.
       - level: 2
         title: Hearth-kin
         lore: kinsmanrnk
-        description: Of a hearth's blood, holding a place at its fire and a share of its winter
-          store.
+        description: Of a hearth's blood, holding a place at its fire and a share of its winter store.
       - level: 3
         title: Drover
         lore: commonerrnk
@@ -42,60 +36,45 @@ data:
       - level: 4
         title: Roadwalker
         lore: journeymanrnk
-        description: Taking parties over the eastern crossings in another's charge, and learning
-          the weather.
+        description: Taking parties over the eastern crossings in another's charge, and learning the weather.
       - level: 5
         title: Reach-guide
         lore: masterrnk
         description: >-
-          Entrusted with a crossing of the Reach alone, and answerable to the council for
-          whoever does not come back.
+          Entrusted with a crossing of the Reach alone, and answerable to the council for whoever does not come back.
       - level: 6
         title: Hearth-head
         lore: elderrnk
-        description: Head of a winter hearth, sitting on the council and speaking for those who
-          eat at his fire.
+        description: Head of a winter hearth, sitting on the council and speaking for those who eat at his fire.
       - level: 7
         title: Winter-speaker
         lore: prsdngffcrrnk
         description: >-
-          Presiding over the winter council, holding the order of speaking and no authority
-          when it rises.
+          Presiding over the winter council, holding the order of speaking and no authority when it rises.
     offices:
-      Winter-speaker: Presiding officer of the council that sits at Nürvhrn through the closed
-        months.
-      Hearth-head: Head of a winter hearth, answerable for its people and its share of the
-        crossings.
-      Reach-guide: Holder of a crossing of the Eastern Reach for the season it is assigned to
-        him.
+      Winter-speaker: Presiding officer of the council that sits at Nürvhrn through the closed months.
+      Hearth-head: Head of a winter hearth, answerable for its people and its share of the crossings.
+      Reach-guide: Holder of a crossing of the Eastern Reach for the season it is assigned to him.
       Turn-keeper: >-
-        Keeper of the rotation by which the crossings are shared out, and of the debts it
-        leaves between hearths.
+        Keeper of the rotation by which the crossings are shared out, and of the debts it leaves between hearths.
       Storm-Reader: Reader of the eastern weather, whose refusal ends a day's travel.
       Fort-carrier: >-
-        Holder of the contract by which the garrison on the col is fed, and the one Hvarn who
-        deals with lowland officers.
+        Holder of the contract by which the garrison on the col is fed, and the one Hvarn who deals with lowland officers.
       Bone-bringer: >-
         Recoverer of the dead from the gorges, and keeper of where each was found.
   seat: nurvhrn
-  domains:
-    - nurvhrn
+  domains: [nurvhrn]
   population: 9000
-  economy:
-    - lore-bartercnmy
-  lore:
-    - hvarnclt
+  economy: [lore-bartercnmy]
+  lore: [hvarnclt]
   parents: []
   relations:
     janpdsvdyr: aligned
     osketguides: aligned
     vindhyalay: unaligned
     tanvurempr: unaligned
-packFolder: vedyara
-sohl:
-  system:
-    commonSkills:
-      - hvarnlng
+  packFolder: vedyara
+sohl: {system: {commonSkills: [hvarnlng]}}
 ---
 
 The **Hvarn** hold [[place-jnanadvara|Jñānadvāra]] and [[place-sankhadvra|Shankhadvāra]], the two crossings of [[place-estrnreach|the Eastern Reach]]. There are nine thousand of them, they are the poorer of the two guide-peoples by a wide margin, and they are the only people on the wall who deal with lowland institutions as a matter of routine.

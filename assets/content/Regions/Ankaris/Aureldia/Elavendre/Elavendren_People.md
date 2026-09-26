@@ -1,15 +1,11 @@
 ---
-tags: []
-description: "The cultivated, courtly people of Élavendre—Pelwar kin to the Áelendan, unusually magically attuned, and the half of that inheritance that took to cities, courts and the written word."
+shortcode: elavendrnppl
+name: {full: Élavendren People, aliases: [Élavendren, Élavendri]}
 type: lore
 subType: folk
-name:
-  full: Élavendren People
-  aliases:
-    - Élavendren
-    - Élavendri
-shortcode: elavendrnppl
-packFolder: elavendre
+description: "The cultivated, courtly people of Élavendre—Pelwar kin to the Áelendan, unusually magically attuned, and the half of that inheritance that took to cities, courts and the written word."
+tags: []
+data: {packFolder: elavendre}
 ---
 
 The **Élavendren** are the settled, courtly people of [[place-elavendre|Élavendre]]—the kingdom's

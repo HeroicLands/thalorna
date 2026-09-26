@@ -1,19 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: "Zephäris's Mantle"
-  aliases:
-    - Iceshield Elixir
-description: "Pale frosted blue elixir; grants protection against cold elements."
 shortcode: elxice
+name: {full: "Zephäris's Mantle", aliases: [Iceshield Elixir]}
 type: concoctiongear
 subType: elixir
-hmk:
-  name: Iceshield
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "Pale frosted blue elixir; grants protection against cold elements."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "na"
     strength: 0
-packFolder: elixirs
+
+# hmk:
+#   name: Iceshield
 ---
 
 A pale, frosted blue elixir that freezes at the edges of the vial even in mild temperatures, its cold radiating through layers of wrapping, bound to the Principle of Cold (Zephäris). When drunk, the imbiber's body becomes resistant to frost and freezing—they receive a bonus to their Armor Value against Frost impact in all body locations, including area-effect frost damage. This bonus equals half the Aural Shock multiplied by five and helps the imbiber resist even the numbing grip of supernatural cold.

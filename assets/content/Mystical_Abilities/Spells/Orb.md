@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Orb
-  aliases:
-    - Sphere
-description: "Sphere of magical energy floating and following caster."
 shortcode: orb
+name: {full: Orb, aliases: [Sphere]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-firebdg
-  templatePriority: null
+description: "Sphere of magical energy floating and following caster."
+tags: []
+data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Sphere
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Sphere
 ---
 
 The caster shapes a sphere of compressed flame between their hands and releases it. The orb rises to a commanded height and hovers there, casting warm orange-gold light across the surrounding area. It follows the caster's mental direction, drifting forward to illuminate passages, rising to light a high ceiling, or descending to reveal the contents of a deep pit. The light it produces is steady and reliable, brighter than a torch and free from the flickering that strains the eyes.

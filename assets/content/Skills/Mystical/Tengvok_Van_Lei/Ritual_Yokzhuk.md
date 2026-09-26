@@ -1,20 +1,12 @@
 ---
-tags:
-  - celestial-pantheon
-  - faith-skill
-  - draft
-type: skill
-subType: mystical
 shortcode: yokzhuk
 name:
   full: "Ritual: Yökzhük"
-  aliases:
-    - Yökzhük
-    - Yokzhuk
-    - The Custodian of Lost Seals
-    - The Seal-Thief
-data:
-  templatePriority: null
+  aliases: [Yökzhük, Yokzhuk, The Custodian of Lost Seals, The Seal-Thief]
+type: skill
+subType: mystical
+tags: [celestial-pantheon, faith-skill, draft]
+data: {templatePriority: null, packFolder: tengvokvanlei}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -23,7 +15,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: tengvokvanlei
 ---
 
 See [[affiliation-yokzhuk|Yökzhük]]

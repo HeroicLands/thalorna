@@ -1,25 +1,17 @@
 ---
-tags:
-  - town
-  - port
-  - coastal
-  - market
-description: "Vyālendra's outport at the mouth of the Nilacharī—a mile of bale-yards, a customs shed and a road to the city, where the cloth is sealed, counted and put aboard."
+shortcode: nilatira
+name: {full: Nīlatīra, aliases: []}
 type: place
 subType: settlement
+description: "Vyālendra's outport at the mouth of the Nilacharī—a mile of bale-yards, a customs shed and a road to the city, where the cloth is sealed, counted and put aboard."
+tags: [town, port, coastal, market]
 data:
   demonym: null
   lore: []
-  parents:
-    - vyalendraland
+  parents: [vyalendraland]
   population: 12000
-  routes:
-    - { to: tanvuregin, bearing: NE, mode: ship, days: 45, terrain: [open-sea] }
-name:
-  full: Nīlatīra
-  aliases: []
-shortcode: nilatira
-packFolder: vedyara
+  routes: [{to: tanvuregin, bearing: NE, mode: ship, days: 45, terrain: [open-sea]}]
+  packFolder: vedyara
 ---
 
 Nīlatīra (12,000) stands where the Nilacharī reaches the eastern sea, three days below the last of [[affiliation-vyalendra2|Vyālendra]]'s valleys. It exists to put cloth on ships. Nothing is woven here and nothing is grown here worth the naming. The bolts come down the river road in covered boats, lie in the yards for a season, and leave in a hull.

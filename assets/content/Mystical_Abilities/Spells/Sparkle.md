@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Sparkle
-  aliases:
-    - Motes
-description: "Creates glittering effect; produces shimmering light display."
 shortcode: sparkle
+name: {full: Sparkle, aliases: [Motes]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
+description: "Creates glittering effect; produces shimmering light display."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Motes
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Motes
 ---
 
 The caster flings both hands wide and a swarm of luminous motes erupts from the fingertips, filling the air with thousands of tiny, independently drifting points of light that pulse and flicker in hypnotic, arrhythmic patterns. The motes drift through the target area like a blizzard of fireflies, their combined radiance bright enough to dazzle but too diffuse to illuminate clearly—the paradoxical result is a zone where everything is lit but nothing can be seen with certainty. Silhouettes blend into the sparkling background, distances become impossible to judge, and aimed attacks are reduced to hopeful swings at flickering shadows.

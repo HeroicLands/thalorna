@@ -1,20 +1,12 @@
 ---
-tags:
-  - celestial-pantheon
-  - faith-skill
-  - draft
-type: skill
-subType: mystical
 shortcode: zhaksok
 name:
   full: "Ritual: Zhāksōk"
-  aliases:
-    - Zhāksōk
-    - Zhaksok
-    - The Unsorted
-    - The Walking Contradiction
-data:
-  templatePriority: null
+  aliases: [Zhāksōk, Zhaksok, The Unsorted, The Walking Contradiction]
+type: skill
+subType: mystical
+tags: [celestial-pantheon, faith-skill, draft]
+data: {templatePriority: null, packFolder: tengvokvanlei}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -23,7 +15,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: tengvokvanlei
 ---
 
 See [[affiliation-zhaksok|Zhāksōk]]

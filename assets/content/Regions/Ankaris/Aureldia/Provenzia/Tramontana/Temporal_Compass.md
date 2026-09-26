@@ -1,20 +1,11 @@
 ---
-tags:
-  - artifact
-description: "An ornate enchanted instrument that steadies time around its bearer, allowing a traveler to cross the slow zone of Úqua-Arálwen without losing weeks or months to it."
-type: miscgear
-name:
-  full: Temporal Compass
-  aliases: []
 shortcode: temprlcmpss
-packFolder: provenzia
-data:
-  templatePriority: null
-sohl:
-  system:
-    weightBase: 1
-    valueBase: 0
-    durabilityBase: 8
+name: {full: Temporal Compass, aliases: []}
+type: miscgear
+description: "An ornate enchanted instrument that steadies time around its bearer, allowing a traveler to cross the slow zone of Úqua-Arálwen without losing weeks or months to it."
+tags: [artifact]
+data: {templatePriority: null, packFolder: provenzia}
+sohl: {system: {weightBase: 1, valueBase: 0, durabilityBase: 8}}
 ---
 
 The **Temporal Compass** is an ornate enchanted instrument made for one purpose: to get a living person

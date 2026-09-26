@@ -1,15 +1,12 @@
 ---
-tags: []
-type: affiliation
-description: The temple-republic of Suvarnagiri—the villages of the Bhārava highlands federated around the gold-bearing mountain whose alluvial wash has funded their three great Mahájaya temples for fifteen centuries. Wealthy by janapada standards, philosophically restrained about its wealth, and the seat of the most respected metallurgical-and-jewelers' tradition outside Chandrapur.
+shortcode: suvrgrjnpd
 name:
   full: Suvarnagiri Janapada
-  aliases:
-    - Suvarnagiri
-    - Suvarnagiri
-    - The Janapada of the Gold Mountain
-shortcode: suvrgrjnpd
+  aliases: [Suvarnagiri, Suvarnagiri, The Janapada of the Gold Mountain]
+type: affiliation
 subType: polity
+description: The temple-republic of Suvarnagiri—the villages of the Bhārava highlands federated around the gold-bearing mountain whose alluvial wash has funded their three great Mahájaya temples for fifteen centuries. Wealthy by janapada standards, philosophically restrained about its wealth, and the seat of the most respected metallurgical-and-jewelers' tradition outside Chandrapur.
+tags: []
 data:
   templatePriority: null
   demonym: Suvarnagiri
@@ -18,83 +15,63 @@ data:
   governance:
     model: council
     summary: >-
-      Sabhā of forty-eight members convened jointly (and rotationally, year by year) by the
-      senior priests of the three great Mahájaya temples of Upper, Middle, and Lower Suvarnagiri.
-      Each constituent village sends two representatives; the artisan-and-merchant
-      guilds collectively send twelve; the three temples send two each. Decisions on gold-related
-      questions—extraction, taxation, allocation of the temple-share—require a three-quarters
-      majority, a deliberate constitutional brake against the concentration of mineral wealth.
+      Sabhā of forty-eight members convened jointly (and rotationally, year by year) by the senior priests of the three great Mahájaya temples of Upper, Middle, and Lower Suvarnagiri. Each constituent village sends two representatives; the artisan-and-merchant guilds collectively send twelve; the three temples send two each. Decisions on gold-related questions—extraction, taxation, allocation of the temple-share—require a three-quarters majority, a deliberate constitutional brake against the concentration of mineral wealth.
     ranks:
       - level: 0
         title: Outcaste
         lore: excmmnctrnk
         description: >-
-          Placed outside the tharana by transgression or by birth, excluded from the wells,
-          the temples and the courts.
+          Placed outside the tharana by transgression or by birth, excluded from the wells, the temples and the courts.
       - level: 1
         title: Bonded Servant
         lore: bondservantrnk
         description: >-
-          Bound by debt or birth to a household, owing labor and lacking the standing to hold
-          land.
+          Bound by debt or birth to a household, owing labor and lacking the standing to hold land.
       - level: 2
         title: Karmāja
         lore: commonerrnk
         description: >-
-          Born to the serving tharana—cultivators, artisans and laborers who hold their place by
-          work rather than by rite.
+          Born to the serving tharana—cultivators, artisans and laborers who hold their place by work rather than by rite.
       - level: 3
         title: Dhanāja
         lore: gentryrnk
         description: >-
-          Born to the productive tharana—merchants, herders and landholders, whose tithes in coin and
-          goods sustain the temple and its granary.
+          Born to the productive tharana—merchants, herders and landholders, whose tithes in coin and goods sustain the temple and its granary.
       - level: 4
         title: Senāja
         lore: warriorrnk
         description: >-
-          Born to the warrior tharana, bearing arms by right and owing service in the militia the sabhā
-          raises from the villages.
+          Born to the warrior tharana, bearing arms by right and owing service in the militia the sabhā raises from the villages.
       - level: 5
         title: Ritūja
         lore: priestrnk
         description: >-
-          Born to the priestly tharana, keeper of rite and learning, without whose sanction no act of
-          the sabhā is complete.
+          Born to the priestly tharana, keeper of rite and learning, without whose sanction no act of the sabhā is complete.
       - level: 6
         title: Sabhāsad
         lore: councillorrnk
         description: >-
-          A seated member of the sabhā, sent by a constituent village at its turn or by a guild
-          holding a reserved seat, and answerable to those who sent him.
+          A seated member of the sabhā, sent by a constituent village at its turn or by a guild holding a reserved seat, and answerable to those who sent him.
       - level: 7
         title: Sabhāpati
         lore: prsdngffcrrnk
         description: >-
-          The convening priest, who puts the sabhā's questions and declares what it has agreed.
-          He presides and does not rule, and only the ordained may hold the office.
+          The convening priest, who puts the sabhā's questions and declares what it has agreed. He presides and does not rule, and only the ordained may hold the office.
     offices:
       Sabhāpati: >-
-        The senior priest of the central temple, who convenes the sabhā, puts its questions and
-        declares what it has agreed.
+        The senior priest of the central temple, who convenes the sabhā, puts its questions and declares what it has agreed.
       Smrtibhāra: >-
-        The Memory-Keeper, who holds the janapada's genealogies, boundary records and
-        precedents, and recites them when the sabhā asks.
+        The Memory-Keeper, who holds the janapada's genealogies, boundary records and precedents, and recites them when the sabhā asks.
       Koshādhyaksha: >-
-        Superintendent of the temple treasury, answerable for the granary reserve, the
-        endowments and the tithe rolls.
+        Superintendent of the temple treasury, answerable for the granary reserve, the endowments and the tithe rolls.
       Ganaka: >-
-        The reckoner, who fixes the ritual calendar, keeps the survey of the fields and computes
-        each village's share of the water.
+        The reckoner, who fixes the ritual calendar, keeps the survey of the fields and computes each village's share of the water.
       Dūta: >-
-        The envoy who carries the sabhā's word to a neighboring janapada, to a patron court and
-        to the Mela.
+        The envoy who carries the sabhā's word to a neighboring janapada, to a patron court and to the Mela.
       Senānī: >-
-        Captain of the militia, raised from the villages at the sabhā's call and dismissed when
-        the need ends.
+        Captain of the militia, raised from the villages at the sabhā's call and dismissed when the need ends.
       The Twenty-Eight: >-
-        The heads of the twenty-eight hereditary panning-families, who meet quarterly, settle
-        disputes among themselves and speak with one voice on the panning regime.
+        The heads of the twenty-eight hereditary panning-families, who meet quarterly, settle disputes among themselves and speak with one voice on the panning regime.
   seat: suvarnagiri
   domains:
     - suvarnagirijnpd
@@ -115,23 +92,14 @@ data:
     - haritagrama
     - vanapada
   population: 35000
-  economy:
-    - affiliation-mrchntclctvvdyr
-    - lore-vdyrnbnkng
-  lore:
-    - vedyariclt
-  parents:
-    - janpdsvdyr
-  relations:
-    varakpnthn: aligned
-    chandrapur: aligned
-    mrchntclctvvdyr: rival
-terran_analog: "Medieval South Indian temple-republic with mineral-resource wealth—Chola-era brahmadeya village federation centered on a gold-bearing mountain, governed by an unusually elaborate constitutional structure designed to prevent the concentration of mineral wealth in any one lineage or temple"
-packFolder: vedyara
-sohl:
-  system:
-    commonSkills:
-      - vedyarlng
+  economy: [affiliation-mrchntclctvvdyr, lore-vdyrnbnkng]
+  lore: [vedyariclt]
+  parents: [janpdsvdyr]
+  relations: {varakpnthn: aligned, chandrapur: aligned, mrchntclctvvdyr: rival}
+  packFolder: vedyara
+sohl: {system: {commonSkills: [vedyarlng]}}
+
+# terran_analog: "Medieval South Indian temple-republic with mineral-resource wealth—Chola-era brahmadeya village federation centered on a gold-bearing mountain, governed by an unusually elaborate constitutional structure designed to prevent the concentration of mineral wealth in any one lineage or temple"
 ---
 
 The **Suvarnagiri Janapada** is the federation of the villages of the Bhārava highlands, governed jointly through three great temples of **Mahájaya** that ring the slopes of the gold-bearing mountain it is named for, _Suvarna_ (gold) _giri_ (mountain). Its population is thirty-five thousand. It is one of the wealthier and more elaborately governed janapadas of the [[affiliation-janpdsvdyr|Mahā-Sangha]]. Every Vedyari political-economy treatise takes it as the case-study in how a temple-republic holds mineral wealth without failing and without turning itself into a kingdom. The janapada holds the land of [[place-suvarnagirijnpd|Suvarnagiri Janapada]].

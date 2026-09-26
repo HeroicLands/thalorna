@@ -1,13 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: yeomanrnk
+name: {full: Yeoman, aliases: []}
 type: lore
 subType: law
-name:
-  full: Yeoman
-  aliases: []
-shortcode: yeomanrnk
 description: "A free landholder bearing arms in his own name and speaking at the assembly."
+tags: [draft]
 ---
 
 A free landholder bearing arms in his own name and speaking at the assembly.

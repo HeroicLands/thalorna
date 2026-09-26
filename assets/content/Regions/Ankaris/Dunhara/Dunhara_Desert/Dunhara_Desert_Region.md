@@ -1,23 +1,17 @@
 ---
-tags:
-  - region
-description: The open desert of the Dunhara beyond the settled cities—sand seas, mesas and oases held by no fixed border, ranged by the tribal confederations of the Dunhari.
-name:
-  full: Dunhara Desert Region
-  aliases:
-    - Dunhara Desert
 shortcode: dunhardsrtrgn
+name: {full: Dunhara Desert Region, aliases: [Dunhara Desert]}
 type: place
 subType: region
+description: The open desert of the Dunhara beyond the settled cities—sand seas, mesas and oases held by no fixed border, ranged by the tribal confederations of the Dunhari.
+tags: [region]
 data:
   icon: null
   demonym: Dunharan
-  lore:
-    - humanflk
-  parents:
-    - dunharargn
+  lore: [humanflk]
+  parents: [dunharargn]
   population: 1000000
-packFolder: dunharadesert
+  packFolder: dunharadesert
 ---
 
 ## Overview

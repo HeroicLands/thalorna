@@ -1,11 +1,5 @@
 ---
-description: "The Assembly of the Dream-Followers"
-tags:
-  - varnaka
-  - faith
-  - sect
-  - mystical
-  - oneiromancy
+shortcode: svapnasarisamaja
 name:
   full: Svapnasāri-samāja
   aliases:
@@ -13,9 +7,10 @@ name:
     - The Dream Assembly
     - Assembly of the Dream-Followers
     - Dream Assembly
-shortcode: svapnasarisamaja
 type: affiliation
 subType: faithtradition
+description: "The Assembly of the Dream-Followers"
+tags: [varnaka, faith, sect, mystical, oneiromancy]
 data:
   banner: faithbnr
   templatePriority: null
@@ -31,14 +26,12 @@ data:
         title: Patita
         lore: excmmnctrnk
         description: >-
-          "Fallen"—put out of the tradition, denied its rites and its teaching, and not received
-          again by any of its houses.
+          "Fallen"—put out of the tradition, denied its rites and its teaching, and not received again by any of its houses.
       - level: 1
         title: Upāsaka
         lore: layfaithfulrnk
         description: >-
-          The lay follower, who keeps the observances and brings petitions without holding any
-          office in the tradition.
+          The lay follower, who keeps the observances and brings petitions without holding any office in the tradition.
       - level: 2
         title: Nidrāpāla
         lore: initiaternk
@@ -66,17 +59,13 @@ data:
       Chamber-Warden: >-
         The Nidrāpāla on watch over a sleeping petitioner, answerable for what happens while they sleep.
   seat: null
-  domains:
-    - svapnastambha
+  domains: [svapnastambha]
   population: null
   economy: []
-  lore:
-    - svapnadevasdty
-  parents:
-    - varakpnthn
-  relations:
-    varakpnthn: aligned
-packFolder: pantheonsvarnaka
+  lore: [svapnadevasdty]
+  parents: [varakpnthn]
+  relations: {varakpnthn: aligned}
+  packFolder: pantheonsvarnaka
 sohl:
   system:
     commonSkills:

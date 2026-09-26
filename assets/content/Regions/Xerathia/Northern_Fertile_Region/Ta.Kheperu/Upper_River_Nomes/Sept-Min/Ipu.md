@@ -1,21 +1,17 @@
 ---
-tags:
-  - town
-description: "Nome capital of Sept-Min."
+shortcode: ipu
+name: {full: Ipu, aliases: []}
 type: place
 subType: settlement
+description: "Nome capital of Sept-Min."
+tags: [town]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - septminnome
+  parents: [septminnome]
   population: 34000
-name:
-  full: Ipu
-  aliases: []
-shortcode: ipu
-packFolder: upperrivernomes
+  packFolder: upperrivernomes
 ---
 
 ## Overview

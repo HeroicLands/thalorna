@@ -1,18 +1,10 @@
 ---
-description: "The Wandering Wind, a company of minor wind-spirits who guide travelers, carry merchant-ships before favorable gales, and whisper the road's omens to those who have learned to listen."
-tags:
-  - varnaka
-  - deity
-  - travel
-  - spirits
-name:
-  full: Pavanajitras
-  aliases:
-    - The Wandering Wind
-    - The Wind Spirits of the Road
 shortcode: pavanajitras
+name: {full: Pavanajitras, aliases: [The Wandering Wind, The Wind Spirits of the Road]}
 type: affiliation
 subType: faithtradition
+description: "The Wandering Wind, a company of minor wind-spirits who guide travelers, carry merchant-ships before favorable gales, and whisper the road's omens to those who have learned to listen."
+tags: [varnaka, deity, travel, spirits]
 data:
   banner: faithbnr
   templatePriority: null
@@ -48,19 +40,11 @@ data:
   domains: []
   population: null
   economy: []
-  lore:
-    - pvnjtrsdty
-  parents:
-    - varakpnthn
-  relations:
-    varakpnthn: aligned
-packFolder: pantheonsvarnaka
-sohl:
-  system:
-    commonSkills:
-      - pavanajitras
-      - sohl-sohl-skill-srvl
-      - sohl-sohl-skill-mrcn
+  lore: [pvnjtrsdty]
+  parents: [varakpnthn]
+  relations: {varakpnthn: aligned}
+  packFolder: pantheonsvarnaka
+sohl: {system: {commonSkills: [pavanajitras, sohl-sohl-skill-srvl, sohl-sohl-skill-mrcn]}}
 ---
 
 ## Pavanajitras—The Wandering Wind

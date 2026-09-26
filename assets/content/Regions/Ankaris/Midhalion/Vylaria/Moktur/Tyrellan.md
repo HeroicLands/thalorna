@@ -1,19 +1,9 @@
 ---
-tags:
-  - city
-  - provincial
-description: "Provincial City"
+shortcode: tyrellan
+name: {full: Tyrellan, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - moktur
-  population: 15000
-name:
-  full: Tyrellan
-  aliases: []
-shortcode: tyrellan
-packFolder: vylaria
+description: "Provincial City"
+tags: [city, provincial]
+data: {demonym: null, lore: [], parents: [moktur], population: 15000, packFolder: vylaria}
 ---

@@ -1,23 +1,16 @@
 ---
-tags:
-  - sacred
-  - woodland
-description: "A steep wooded fold in the lower Drenavar country, seat of the owl-spirit Nyfain—where the Áelendan are careful speakers after dark, and where Death-Speakers come to ask whether the recently dead have gone."
+shortcode: owlhollow
+name: {full: The Owl Hollow, aliases: [Nyfain's Hollow]}
 type: place
 subType: feature
+description: "A steep wooded fold in the lower Drenavar country, seat of the owl-spirit Nyfain—where the Áelendan are careful speakers after dark, and where Death-Speakers come to ask whether the recently dead have gone."
+tags: [sacred, woodland]
 data:
   demonym: null
-  lore:
-    - nyfainspr
-  parents:
-    - alndntrblnds
+  lore: [nyfainspr]
+  parents: [alndntrblnds]
   population: null
-name:
-  full: The Owl Hollow
-  aliases:
-    - Nyfain's Hollow
-shortcode: owlhollow
-packFolder: elavendre
+  packFolder: elavendre
 ---
 
 A steep wooded fold in the lower [[place-drenavrspn|Drenavar]] country, dark under its canopy at

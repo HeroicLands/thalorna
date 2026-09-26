@@ -1,14 +1,10 @@
 ---
-tags: []
-name:
-  full: Bolas
-  aliases: []
-description: "Weighted cord-balls entangle and trip; herder's disabled-cavalry tool."
 shortcode: bola
+name: {full: Bolas, aliases: []}
 type: weapongear
-data:
-  icon: icon-bolas
-  templatePriority: null
+description: "Weighted cord-balls entangle and trip; herder's disabled-cavalry tool."
+tags: []
+data: {icon: icon-bolas, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: thrown
   weaponType: Thrown
@@ -23,14 +19,8 @@ sohl:
         name: Thrown
         assocSkillCode: thro
         minParts: 1
-        attack:
-          spread: 8
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 6
-          modifier: 1
-          aspect: blunt
+        attack: {spread: 8, modifier: 0}
+        impactBase: {numDice: 1, die: 6, modifier: 1, aspect: blunt}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -62,7 +52,6 @@ sohl:
         maxVolleyMult: 2
         baseRangeBase: 30
         drawBase: 0
-packFolder: weapons
 ---
 
 Two or more weighted balls connected by cord, the bolas is cast to wrap around a target's legs or arms. The spinning weights entangle and trip the prey—hunters use it for game capture with minimal injury; soldiers throw it to disable cavalry and break formations. Simple to craft from leather and stone, it favors herders and irregular troops more than professional soldiers.

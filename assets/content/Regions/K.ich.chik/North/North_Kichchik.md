@@ -1,22 +1,17 @@
 ---
-tags:
-  - region
-description: "The northern reach of the K'ich'chik continent and its city-states."
-name:
-  full: Northern K'ich'chik
-  aliases: []
+shortcode: nrthrnkchchk
+name: {full: Northern K'ich'chik, aliases: []}
 type: place
 subType: region
+description: "The northern reach of the K'ich'chik continent and its city-states."
+tags: [region]
 data:
   icon: null
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - kchchkcntnnt
+  lore: [humanflk]
+  parents: [kchchkcntnnt]
   population: 2000000
-shortcode: nrthrnkchchk
-packFolder: kichchik
+  packFolder: kichchik
 ---
 
 ## Overview

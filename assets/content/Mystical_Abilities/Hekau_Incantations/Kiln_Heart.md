@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: Kiln-Heart
-  aliases: []
-description: "Permits a person or a working to endure extremes of heat unharmed."
 shortcode: klnhrt
+name: {full: Kiln-Heart, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: deshrut
-  templatePriority: null
+description: "Permits a person or a working to endure extremes of heat unharmed."
+tags: [khemenu-hekau, incantation]
+data: {icon: deshrut, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: deshrut
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-packFolder: hekauincantations
+    charges: {value: null, max: null}
 ---
 
 Worked on smelters, glassmakers, and anyone who must go into a fire, and on the vessels themselves

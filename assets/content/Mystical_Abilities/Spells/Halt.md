@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Halt
-  aliases:
-    - Stay
-description: "Freezes target's motion; roots them in place unable to move."
 shortcode: halt
+name: {full: Halt, aliases: [Stay]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-tree
-  templatePriority: null
+description: "Freezes target's motion; roots them in place unable to move."
+tags: []
+data: {icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: physera
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Stay
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Stay
 ---
 
 The caster designates one understood injury on a target creature and lays a stabilizing enchantment upon it, ensuring that the next Healing Roll which would result in a Course Failure is instead treated as though no roll occurred at all—the wound simply holds steady rather than deteriorating. This grants the Healing talent bonus and requires Understanding. The spell ends when this protective intervention triggers, when a second Course Failure would occur, or when the injury heals naturally. A given trauma can benefit from only one such stabilizing enchantment at a time, preventing the stacking of multiple safety nets.

@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Unlock
-  aliases:
-    - Key
-description: "Opens sealed passages; unlocks magical locks and barriers."
 shortcode: unlock
+name: {full: Unlock, aliases: [Key]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-divination
-  templatePriority: null
+description: "Opens sealed passages; unlocks magical locks and barriers."
+tags: []
+data: {icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pneumenos
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Key
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Key
 ---
 
 The caster delves deep into the target's psyche, navigating past the familiar structures of conscious thought into the vast, uncharted territory of latent potential. With precise application of mental energy, the caster identifies dormant capabilities—suppressed talents, forgotten training, instinctive abilities that have never found expression—and creates pathways for them to reach conscious awareness. The target experiences a rush of sudden competence, as skills and understanding they never knew they possessed become available.

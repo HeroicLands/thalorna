@@ -1,18 +1,9 @@
 ---
-tags:
-  - town
-description: "Town"
+shortcode: mihrabad
+name: {full: Mihrabad, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - amradadrgn
-  population: 6000
-name:
-  full: Mihrabad
-  aliases: []
-shortcode: mihrabad
-packFolder: amradad
+description: "Town"
+tags: [town]
+data: {demonym: null, lore: [], parents: [amradadrgn], population: 6000, packFolder: amradad}
 ---

@@ -1,11 +1,9 @@
 ---
-tags: []
-description: "The Golden Giver of the Itzáni pantheon—the maize god from whose sacred dough humankind was made, beloved rather than feared."
+shortcode: kanixhakandty
+name: {full: K'anix Ha'kan, aliases: []}
 type: lore
 subType: deity
-name:
-  full: K'anix Ha'kan
-  aliases: []
-shortcode: kanixhakandty
-packFolder: deitiesitzani
+description: "The Golden Giver of the Itzáni pantheon—the maize god from whose sacred dough humankind was made, beloved rather than feared."
+tags: []
+data: {packFolder: deitiesitzani}
 ---

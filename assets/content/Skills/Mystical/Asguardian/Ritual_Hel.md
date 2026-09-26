@@ -1,18 +1,10 @@
 ---
-tags:
-  - asguardian
-  - faith-skill
-  - draft
+shortcode: hel
+name: {full: "Ritual: Hél", aliases: [The Eternal Night]}
 type: skill
 subType: mystical
-shortcode: hel
-name:
-  full: "Ritual: Hél"
-  aliases:
-    - The Eternal Night
-data:
-  icon: hel
-  templatePriority: null
+tags: [asguardian, faith-skill, draft]
+data: {icon: hel, templatePriority: null, packFolder: asguardian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -21,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: asguardian
 ---
 
 See [[affiliation-hel|Faith of Hél]]

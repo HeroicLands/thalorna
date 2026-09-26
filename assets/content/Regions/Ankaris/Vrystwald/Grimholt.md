@@ -1,19 +1,9 @@
 ---
-tags:
-  - village
-  - fortified
-description: "Fortified Village"
+shortcode: grimholt
+name: {full: Grimholt, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - vrystwald
-  population: 450
-name:
-  full: Grimholt
-  aliases: []
-shortcode: grimholt
-packFolder: vrystwald
+description: "Fortified Village"
+tags: [village, fortified]
+data: {demonym: null, lore: [], parents: [vrystwald], population: 450, packFolder: vrystwald}
 ---

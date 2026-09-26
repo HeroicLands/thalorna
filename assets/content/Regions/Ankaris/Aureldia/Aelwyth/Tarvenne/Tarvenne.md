@@ -1,21 +1,16 @@
 ---
-tags:
-  - region
-description: "The land of the Republic of Tarvenne—Aelwyth's western coast, good for fishing and moderate for farming, living by the carrying trade along its shore."
-name:
-  full: Tarvenne
-  aliases: []
 shortcode: tarvenne
+name: {full: Tarvenne, aliases: []}
 type: place
 subType: region
+description: "The land of the Republic of Tarvenne—Aelwyth's western coast, good for fishing and moderate for farming, living by the carrying trade along its shore."
+tags: [region]
 data:
   demonym: Tarvennan
-  lore:
-    - humanflk
-  parents:
-    - aelwyth
+  lore: [humanflk]
+  parents: [aelwyth]
   population: 150000
-packFolder: aelwyth
+  packFolder: aelwyth
 ---
 
 ## Overview

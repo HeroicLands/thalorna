@@ -1,21 +1,11 @@
 ---
-tags:
-  - coastal
-  - border
-description: "The great backward-C gulf on Élavendre's northern coast—fifty miles across, thirty at the narrows, and the water every raid on the north shore comes over."
+shortcode: cilforbay
+name: {full: Cilfor Bay, aliases: []}
 type: place
 subType: feature
-data:
-  demonym: null
-  lore: []
-  parents:
-    - cilfor
-  population: null
-name:
-  full: Cilfor Bay
-  aliases: []
-shortcode: cilforbay
-packFolder: elavendre
+description: "The great backward-C gulf on Élavendre's northern coast—fifty miles across, thirty at the narrows, and the water every raid on the north shore comes over."
+tags: [coastal, border]
+data: {demonym: null, lore: [], parents: [cilfor], population: null, packFolder: elavendre}
 ---
 
 **Cilfor Bay** bites deep into the northern coast of Ankaris between [[place-elavendre|Élavendre]] and

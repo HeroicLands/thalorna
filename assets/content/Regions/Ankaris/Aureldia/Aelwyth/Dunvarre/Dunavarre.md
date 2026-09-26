@@ -1,21 +1,16 @@
 ---
-tags:
-  - region
-description: "The land of the Kingdom of Dúnavarre—Aelwyth's southeastern coast, whose sheltered harbors and fertile coastal plains face Élavendre across the water."
-name:
-  full: Dúnavarre
-  aliases: []
 shortcode: dunavarre
+name: {full: Dúnavarre, aliases: []}
 type: place
 subType: region
+description: "The land of the Kingdom of Dúnavarre—Aelwyth's southeastern coast, whose sheltered harbors and fertile coastal plains face Élavendre across the water."
+tags: [region]
 data:
   demonym: Dúnavarran
-  lore:
-    - humanflk
-  parents:
-    - aelwyth
+  lore: [humanflk]
+  parents: [aelwyth]
   population: 75000
-packFolder: aelwyth
+  packFolder: aelwyth
 ---
 
 ## Overview

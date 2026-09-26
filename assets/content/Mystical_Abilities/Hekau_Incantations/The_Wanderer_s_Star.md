@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: The Wanderer's Star
-  aliases: []
-description: "Fixes an unerring sense of direction toward a named place."
 shortcode: wndrrsstr
+name: {full: The Wanderer's Star, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: deshrut
-  templatePriority: null
+description: "Fixes an unerring sense of direction toward a named place."
+tags: [khemenu-hekau, incantation]
+data: {icon: deshrut, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: deshrut
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-packFolder: hekauincantations
+    charges: {value: null, max: null}
 ---
 
 Not a map and not a route—a direction, held steady through sandstorm, night and featureless

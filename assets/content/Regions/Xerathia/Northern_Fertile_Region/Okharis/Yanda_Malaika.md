@@ -1,22 +1,16 @@
 ---
-tags:
-  - draft
-description: "A mountain range on the Okháric frontier, held to be the dwelling of the gods and the seat of the Oracle of Bones."
+shortcode: yandamalaika
+name: {full: Yánda Maláika, aliases: [The Mountains of the Angels]}
 type: place
 subType: region
+description: "A mountain range on the Okháric frontier, held to be the dwelling of the gods and the seat of the Oracle of Bones."
+tags: [draft]
 data:
   demonym: null
-  lore:
-    - orclbonesspr
-  parents:
-    - okharisrgn
+  lore: [orclbonesspr]
+  parents: [okharisrgn]
   population: null
-name:
-  full: Yánda Maláika
-  aliases:
-    - The Mountains of the Angels
-shortcode: yandamalaika
-packFolder: okharis
+  packFolder: okharis
 ---
 
 The high range beyond the settled Okháric country, said by the tribes to be where the gods dwell.

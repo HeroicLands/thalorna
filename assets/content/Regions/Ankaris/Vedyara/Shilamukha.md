@@ -1,20 +1,9 @@
 ---
-tags:
-  - village
-  - mountain
-  - inland
-description: "Quarry village at the rock face above Upper Suvarnagiri, which cut the stone of all three great temples."
+shortcode: shilamukha
+name: {full: Shilāmukha, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - suvarnagirijnpd
-  population: 480
-name:
-  full: Shilāmukha
-  aliases: []
-shortcode: shilamukha
-packFolder: vedyara
+description: "Quarry village at the rock face above Upper Suvarnagiri, which cut the stone of all three great temples."
+tags: [village, mountain, inland]
+data: {demonym: null, lore: [], parents: [suvarnagirijnpd], population: 480, packFolder: vedyara}
 ---

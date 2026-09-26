@@ -1,23 +1,17 @@
 ---
-tags:
-  - city
-  - necropolis
-  - temple
-description: "Temple City (Necropolis)"
+shortcode: khensuret
+name: {full: Khensuret, aliases: []}
 type: place
 subType: settlement
+description: "Temple City (Necropolis)"
+tags: [city, necropolis, temple]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - khensuretnome
+  parents: [khensuretnome]
   population: 90000
-name:
-  full: Khensuret
-  aliases: []
-shortcode: khensuret
-packFolder: khensuret
+  packFolder: khensuret
 ---
 
 ## Overview

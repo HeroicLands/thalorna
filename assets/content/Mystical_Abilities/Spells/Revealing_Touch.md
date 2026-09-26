@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Revealing Touch
-  aliases:
-    - Unveiling
-description: "Ripple of light disrupts illusions and glamours completely."
 shortcode: rvltch
+name: {full: Revealing Touch, aliases: [Unveiling]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
+description: "Ripple of light disrupts illusions and glamours completely."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Unveiling
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Unveiling
 ---
 
 The caster presses a palm flat against the air and pushes outward; a ripple of disrupted light expands from the point of contact like a stone dropped into still water, and every illusion, glamour, and magical concealment within its radius shudders violently before collapsing in a cascade of prismatic sparks. Hidden doors outlined by enchantment flare with visible seams, invisible creatures are momentarily silhouetted in crackling light, and falsified documents shimmer to reveal the true text beneath the forgery.

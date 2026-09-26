@@ -1,21 +1,11 @@
 ---
-tags:
-  - frontier
-  - mountain
-description: "The blood-field of the eastern frontier—a recurrence that replays every campaign season, and the only one in Provènzia still being added to."
+shortcode: bldfldserravel
+name: {full: Blood-field of Serravel, aliases: []}
 type: place
 subType: site
-data:
-  demonym: null
-  lore: []
-  parents:
-    - serramarca
-  population: null
-name:
-  full: Blood-field of Serravel
-  aliases: []
-shortcode: bldfldserravel
-packFolder: provenzia
+description: "The blood-field of the eastern frontier—a recurrence that replays every campaign season, and the only one in Provènzia still being added to."
+tags: [frontier, mountain]
+data: {demonym: null, lore: [], parents: [serramarca], population: null, packFolder: provenzia}
 ---
 
 High on the Tarvénian frontier, where the passes come down out of the cold mountains, lies the

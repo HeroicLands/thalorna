@@ -1,25 +1,17 @@
 ---
-tags:
-  - pass
-  - military
-  - inland
-description: "The conch-door—the easternmost and worst of the crossings, under Kālashikhara, watched from the one standing garrison the temple-republics keep anywhere."
+shortcode: sankhadvra
+name: {full: Shankhadvāra, aliases: []}
 type: place
 subType: feature
+description: "The conch-door—the easternmost and worst of the crossings, under Kālashikhara, watched from the one standing garrison the temple-republics keep anywhere."
+tags: [pass, military, inland]
 data:
   demonym: null
   lore: []
-  parents:
-    - graznmntns
-    - estrnreach
+  parents: [graznmntns, estrnreach]
   population: null
-  routes:
-    - { to: tanvuregin, bearing: E, mode: land, days: 60, terrain: [mountains, ice, forest] }
-name:
-  full: Shankhadvāra
-  aliases: []
-shortcode: sankhadvra
-packFolder: vedyara
+  routes: [{to: tanvuregin, bearing: E, mode: land, days: 60, terrain: [mountains, ice, forest]}]
+  packFolder: vedyara
 ---
 
 **Shankhadvāra**, the conch-door, is the last crossing of the wall and the worst. It runs beneath [[place-kalashkhra|Kālashikhara]] at the eastern end of [[place-estrnreach|the Eastern Reach]] and takes two months to reach anywhere in [[place-tanvuregin|Tānvür]] worth reaching. The name is for the sound the wind makes in the upper gorge, which is audible from the col on a still night and which nobody who has heard it describes twice.

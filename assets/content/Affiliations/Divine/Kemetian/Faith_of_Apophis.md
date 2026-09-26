@@ -1,12 +1,12 @@
 ---
-description: "Chaos."
-tags:
-  - kemetian
-  - religion
-  - chaos
-  - darkness
+shortcode: apophis
+name:
+  full: Faith of Ápōphis
+  aliases: [Ápōphis, Apophis, Apep, The Devouring Shadow, The Chaos Serpent]
 type: affiliation
 subType: faithtradition
+description: "Chaos."
+tags: [kemetian, religion, chaos, darkness]
 data:
   banner: takheperubnr
   icon: apophis
@@ -17,14 +17,7 @@ data:
   governance:
     model: council
     summary: >-
-      There is no organized priesthood, and within the orthodoxy of Ta'Kheperu the idea is
-      unthinkable. What exists instead is three unconnected things: frontier practitioners who treat
-      the god as an aspect of storm, earthquake and drought and work protections against him under
-      implicit sanction; isolated heretics who venerate him, hunted without rest by the Medjay and
-      the temple-inquisitors; and—foremost among the forbidden cults the temples have driven
-      underground—a small hidden sect that means not to defy the order of the dead but to break it.
-      Formal knowledge of the god is not held here at all: it is kept in the higher echelons of Rā's
-      and Thōth's temples.
+      There is no organized priesthood, and within the orthodoxy of Ta'Kheperu the idea is unthinkable. What exists instead is three unconnected things: frontier practitioners who treat the god as an aspect of storm, earthquake and drought and work protections against him under implicit sanction; isolated heretics who venerate him, hunted without rest by the Medjay and the temple-inquisitors; and—foremost among the forbidden cults the temples have driven underground—a small hidden sect that means not to defy the order of the dead but to break it. Formal knowledge of the god is not held here at all: it is kept in the higher echelons of Rā's and Thōth's temples.
     ranks:
       - level: 0
         title: Denounced
@@ -35,11 +28,7 @@ data:
         title: Warded
         lore: layfaithfulrnk
         description: >-
-          The frontier shamans and wise folk—steppe herders of the western uplands, hill-dwellers of
-          the eastern ranges—who understand the god as natural force and keep practices of
-          protection and appeasement. They operate outside the official priesthood but hold a kind
-          of implicit sanction, their work protecting communities and their understanding held to be
-          not inaccurate so much as differently framed.
+          The frontier shamans and wise folk—steppe herders of the western uplands, hill-dwellers of the eastern ranges—who understand the god as natural force and keep practices of protection and appeasement. They operate outside the official priesthood but hold a kind of implicit sanction, their work protecting communities and their understanding held to be not inaccurate so much as differently framed.
       - level: 2
         title: Devotee
         lore: professedrnk
@@ -51,38 +40,18 @@ data:
       Ward-Worker: >-
         A frontier practitioner working protection and appeasement against storm, earthquake and drought.
       Hunted: >-
-        Most of what the temple-inquisitors and the Medjay turn up is harmless desperation rather
-        than the sect they are actually looking for—which does not soften what happens to it.
+        Most of what the temple-inquisitors and the Medjay turn up is harmless desperation rather than the sect they are actually looking for—which does not soften what happens to it.
       The Sect of the Waking: >-
-        The cult the priesthood of Rā fears in its bones: the sect that seeks the cursed road across
-        the water and would wake the False Rā—the sorcerer-king embalmed alive, his death-magic
-        sealed into the tomb with him, who loosed would rise a ṭerebu with his wits and his sorcery
-        entire, and is held to mean famine and worse across the empire. That any such cult exists at
-        all is a secret the temple keeps close, and the reason the kill-on-sight order on the cursed
-        road has never once been relaxed.
+        The cult the priesthood of Rā fears in its bones: the sect that seeks the cursed road across the water and would wake the False Rā—the sorcerer-king embalmed alive, his death-magic sealed into the tomb with him, who loosed would rise a ṭerebu with his wits and his sorcery entire, and is held to mean famine and worse across the empire. That any such cult exists at all is a secret the temple keeps close, and the reason the kill-on-sight order on the cursed road has never once been relaxed.
   seat: null
   domains: []
   population: null
   economy: []
-  lore:
-    - apophisdty
-  parents:
-    - kemtnpnthn
-  relations:
-    kemtnpnthn: aligned
-name:
-  full: Faith of Ápōphis
-  aliases:
-    - Ápōphis
-    - Apophis
-    - Apep
-    - The Devouring Shadow
-    - The Chaos Serpent
-shortcode: apophis
-packFolder: pantheonskemetian
-sohl:
-  system:
-    commonSkills: []
+  lore: [apophisdty]
+  parents: [kemtnpnthn]
+  relations: {kemtnpnthn: aligned}
+  packFolder: pantheonskemetian
+sohl: {system: {commonSkills: []}}
 ---
 
 Ápōphis represents that which opposes the divine order, the primordial chaos that existed before creation and that eternally strives to reclaim dominion over the cosmos. He is not worshipped or loved but feared, propitiated, and warded against—a presence so dangerous and antithetical to civilization that his very name is often avoided in polite speech. The god is depicted as an enormous serpent of impossible length, scales darker than the deepest night, eyes that glow with malevolent intelligence. Sometimes he is shown encircling a shattered star, symbolizing the moment of destruction he perpetually pursues. The coils of Ápōphis contain all the forces that break, rot, dissolve, and destroy—plague and pestilence, famine and drought, the slow entropy that claims all things, the sudden catastrophe that ends prosperity in an instant.

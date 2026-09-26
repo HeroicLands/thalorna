@@ -1,20 +1,11 @@
 ---
-tags:
-  - city
-  - naval
-description: "Naval City"
+shortcode: kethara2
+name: {full: Kethara, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - haradregin
-  population: 180000
-name:
-  full: Kethara
-  aliases: []
-shortcode: kethara2
+description: "Naval City"
+tags: [city, naval]
+data: {demonym: null, lore: [], parents: [haradregin], population: 180000}
 ---
 
 ## Overview

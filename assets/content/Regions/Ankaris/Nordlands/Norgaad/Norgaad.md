@@ -1,21 +1,16 @@
 ---
-tags:
-  - region
-description: "The land of the Kingdom of Norgaad—the central Nordmen kingdom of great fjords, mountain passes and the richest iron and silver mines in the north."
-name:
-  full: Norgaad
-  aliases: []
 shortcode: norgaad
+name: {full: Norgaad, aliases: []}
 type: place
 subType: region
+description: "The land of the Kingdom of Norgaad—the central Nordmen kingdom of great fjords, mountain passes and the richest iron and silver mines in the north."
+tags: [region]
 data:
   demonym: Norgaadian
-  lore:
-    - humanflk
-  parents:
-    - nrdlndsrgn
+  lore: [humanflk]
+  parents: [nrdlndsrgn]
   population: 400000
-packFolder: norgaad
+  packFolder: norgaad
 ---
 
 ## Overview

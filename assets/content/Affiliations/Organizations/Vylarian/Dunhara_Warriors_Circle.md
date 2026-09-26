@@ -1,6 +1,5 @@
 ---
-tags: []
-description: "Ancient pan-tribal council of elite Dunhari warriors and chieftains—meeting quarterly to coordinate the great campaigns no single tribe could mount alone."
+shortcode: wrrscrcldnhrtrbs
 name:
   full: The Warrior's Circle of the Dunhara Tribes
   aliases:
@@ -9,9 +8,10 @@ name:
     - The Quarterly Hall
     - Dunhara Warrior's Circle
     - The Warrior's Circle
-shortcode: wrrscrcldnhrtrbs
 type: affiliation
 subType: governmental
+description: "Ancient pan-tribal council of elite Dunhari warriors and chieftains—meeting quarterly to coordinate the great campaigns no single tribe could mount alone."
+tags: []
 data:
   templatePriority: null
   demonym: null
@@ -20,29 +20,21 @@ data:
   governance:
     model: council
     summary: >-
-      A pan-tribal circle of acclaimed warriors, meeting quarterly at the Stone of Ranâz with no
-      captain over it, its rulings made by whoever comes and its order kept by a Voice drawn
-      each meeting by lot.
+      A pan-tribal circle of acclaimed warriors, meeting quarterly at the Stone of Ranâz with no captain over it, its rulings made by whoever comes and its order kept by a Voice drawn each meeting by lot.
     ranks:
       - level: 1
         title: Bahâr
         lore: warriorrnk
         description: >-
-          Named to the Circle by acclamation of the existing members, never by application and
-          never by tribal appointment; one of the hundred and eight, wearing the indigo
-          vâst-bahâr renewed at the Stone.
+          Named to the Circle by acclamation of the existing members, never by application and never by tribal appointment; one of the hundred and eight, wearing the indigo vâst-bahâr renewed at the Stone.
       - level: 2
         title: Vâst
         lore: elderrnk
         description: >-
-          Of the Tîgh'Vâst, the informal inner body of those whose service has been longest. It
-          does not vote separately, but a question on which it is united is rarely opposed by
-          the full Circle.
+          Of the Tîgh'Vâst, the informal inner body of those whose service has been longest. It does not vote separately, but a question on which it is united is rarely opposed by the full Circle.
     offices:
       Voice of the Quarter: >-
-        Calls the meeting to order, frames the questions and announces the rulings. Chosen by
-        lot from among those present and rotating each meeting, from marked stones the Storm
-        Cults keep in trust between sittings.
+        Calls the meeting to order, frames the questions and announces the rulings. Chosen by lot from among those present and rotating each meeting, from marked stones the Storm Cults keep in trust between sittings.
   seat: null
   domains: []
   population: null
@@ -50,9 +42,7 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 _Dunhari: Tîgh'Bahârân—"Circle of the Mighty"_

@@ -1,22 +1,17 @@
 ---
-tags:
-  - region
-description: "The deepest southern fort; the empire's last writ before the tribal frontier—the land of the Nome of Behdet-Resu, one of the border nomes of Ta'Kheperu."
-name:
-  full: Behdet-Resu
-  aliases: []
 shortcode: behdetresunome
+name: {full: Behdet-Resu, aliases: []}
 type: place
 subType: region
+description: "The deepest southern fort; the empire's last writ before the tribal frontier—the land of the Nome of Behdet-Resu, one of the border nomes of Ta'Kheperu."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 200000
-packFolder: bordernomes
+  packFolder: bordernomes
 ---
 
 ## Overview

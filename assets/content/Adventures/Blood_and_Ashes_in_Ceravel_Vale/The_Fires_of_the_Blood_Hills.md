@@ -1,26 +1,18 @@
 ---
-tags:
-  - blood-and-ashes-in-ceravel-vale
+shortcode: firsbldhls
+name: {full: The Fires of the Blood Hills, aliases: []}
 type: scenario
 subType: adventure
+tags: [blood-and-ashes-in-ceravel-vale]
 data:
-  parents:
-    - bldshscrvlvl
-  locations:
-    - provenzrgn
+  parents: [bldshscrvlvl]
+  locations: [provenzrgn]
   cast: []
   factions: []
-  follows:
-    - webdeceit
+  follows: [webdeceit]
   status: draft
-  party:
-    size: null
-    archetypes: []
-shortcode: firsbldhls
-name:
-  full: The Fires of the Blood Hills
-  aliases: []
-packFolder: bloodandashesinceravelvale
+  party: {size: null, archetypes: []}
+  packFolder: bloodandashesinceravelvale
 ---
 
 ## Teaser

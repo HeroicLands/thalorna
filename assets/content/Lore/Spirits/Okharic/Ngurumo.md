@@ -1,16 +1,11 @@
 ---
-tags:
-  - draft
-  - nkaruthar
+shortcode: ngurumospr
+name: {full: Ngurumo, aliases: [The Thunder Above]}
 type: lore
 subType: spirit
 description: "Zohira of storms—loud, brief, indifferent to petition, and appeased before the season rather than during it."
-name:
-  full: Ngurumo
-  aliases:
-    - The Thunder Above
-shortcode: ngurumospr
-packFolder: lorespiritsokharic
+tags: [draft, nkaruthar]
+data: {packFolder: lorespiritsokharic}
 ---
 
 - **Kind:** [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]

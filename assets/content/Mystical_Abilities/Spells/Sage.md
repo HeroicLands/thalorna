@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Sage
-  aliases:
-    - Wisdom
-description: "Simplifies complexity; core dynamics become apparent through meditation."
 shortcode: sage
+name: {full: Sage, aliases: [Wisdom]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-divination
-  templatePriority: null
+description: "Simplifies complexity; core dynamics become apparent through meditation."
+tags: []
+data: {icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pneumenos
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Wisdom
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Wisdom
 ---
 
 The caster enters a brief but intense meditative state, and the tangled complexity of their current situation suddenly simplifies. Irrelevant details fall away, core dynamics become apparent, and the likely consequences of various courses of action arrange themselves with unusual clarity. It is not prophecy or omniscience—the caster does not learn new facts—but rather a profound sharpening of judgment that allows them to see what they already know from the most productive perspective.

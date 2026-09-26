@@ -1,21 +1,16 @@
 ---
-tags:
-  - region
-description: "The land of the Helionite city-state of Kostaros—the coastal district it governs, including the town of Myrtillos."
-name:
-  full: Kostaros District
-  aliases: []
 shortcode: kostarosdst
+name: {full: Kostaros District, aliases: []}
 type: place
 subType: region
+description: "The land of the Helionite city-state of Kostaros—the coastal district it governs, including the town of Myrtillos."
+tags: [region]
 data:
   demonym: Kostaran
-  lore:
-    - humanflk
-  parents:
-    - helionis
+  lore: [humanflk]
+  parents: [helionis]
   population: null
-packFolder: helionis
+  packFolder: helionis
 ---
 
 ## Overview

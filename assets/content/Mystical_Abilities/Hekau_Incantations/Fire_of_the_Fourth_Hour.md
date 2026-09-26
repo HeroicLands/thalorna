@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: Fire of the Fourth Hour
-  aliases: []
-description: "Calls down the sun's heat on a place, with the force it carries at the height of the day."
 shortcode: frfrthhr
+name: {full: Fire of the Fourth Hour, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: atenre
-  templatePriority: null
+description: "Calls down the sun's heat on a place, with the force it carries at the height of the day."
+tags: [khemenu-hekau, incantation]
+data: {icon: atenre, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: atenre
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
-packFolder: hekauincantations
+    charges: {value: null, max: null}
 ---
 
 One of the tradition's few workings that is unambiguously a weapon, and the House teaches it with

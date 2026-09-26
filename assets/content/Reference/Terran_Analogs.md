@@ -1,13 +1,10 @@
 ---
-tags:
-  - draft
-name:
-  full: Terran Analogs Reference
-  aliases: []
+shortcode: trnnlgsrfrnc
+name: {full: Terran Analogs Reference, aliases: []}
 type: doc
 subType: reference
-shortcode: trnnlgsrfrnc
-pack: none
+tags: [draft]
+data: {pack: none}
 ---
 
 _Private worldbuilding reference—not published to the website._

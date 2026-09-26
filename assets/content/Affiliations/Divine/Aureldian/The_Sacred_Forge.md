@@ -1,16 +1,10 @@
 ---
-description: "Fire (creative aspect)."
-tags:
-  - aureldian
-  - religion
-  - sacred-forge
-name:
-  full: The Sacred Forge
-  aliases:
-    - Vúlcani Orthodox
 shortcode: sacredforge
+name: {full: The Sacred Forge, aliases: [Vúlcani Orthodox]}
 type: affiliation
 subType: faithtradition
+description: "Fire (creative aspect)."
+tags: [aureldian, religion, sacred-forge]
 data:
   banner: faithbnr
   icon: sacredforge
@@ -21,21 +15,18 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the
-      Grand Pontifex above them. The lay faithful keep the feasts without office.
+      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the Grand Pontifex above them. The lay faithful keep the feasts without office.
     ranks:
       - level: 0
         title: Exsecratus
         lore: excmmnctrnk
         description: >-
-          Cast out—denied the rites, the temple and the burial the faith promises, which is the one
-          sentence it can pass that outlives the body.
+          Cast out—denied the rites, the temple and the burial the faith promises, which is the one sentence it can pass that outlives the body.
       - level: 1
         title: Fideles
         lore: layfaithfulrnk
         description: >-
-          The lay faithful, who keep the feasts and the observances of the god without holding office
-          in the temple.
+          The lay faithful, who keep the feasts and the observances of the god without holding office in the temple.
       - level: 2
         title: Acolytes
         lore: initiaternk
@@ -64,16 +55,11 @@ data:
   domains: []
   population: null
   economy: []
-  lore:
-    - vulcandty
-  parents:
-    - arldnpnthn
-  relations:
-    arldnpnthn: aligned
-packFolder: pantheonsaureldian
-sohl:
-  system:
-    commonSkills: []
+  lore: [vulcandty]
+  parents: [arldnpnthn]
+  relations: {arldnpnthn: aligned}
+  packFolder: pantheonsaureldian
+sohl: {system: {commonSkills: []}}
 ---
 
 - **Deity:** Vúlcan—_The Forge-Lord_

@@ -1,25 +1,17 @@
 ---
-tags:
-  - town
-  - coastal
-  - port
-  - pilgrimage
-description: "The seasonal port at the mouth of the Bhārava—landfall of the pilgrim road, outlet of the forest country, and the only place on that coast a ship can lie."
-name:
-  full: Bhāravamukha
-  aliases: []
 shortcode: bharavamukha
+name: {full: Bhāravamukha, aliases: []}
 type: place
 subType: settlement
+description: "The seasonal port at the mouth of the Bhārava—landfall of the pilgrim road, outlet of the forest country, and the only place on that coast a ship can lie."
+tags: [town, coastal, port, pilgrimage]
 data:
   demonym: null
   lore: []
-  parents:
-    - vedyarargn
-    - bharavarivr
+  parents: [vedyarargn, bharavarivr]
   population: 1100
   market: 3
-packFolder: vedyara
+  packFolder: vedyara
 ---
 
 **Bhāravamukha** (1,100, market 3) stands at the mouth of the [[place-bharavarivr|Bhārava]] on the eastern coast, at the foot of the pilgrim road that runs the length of the river from the sea to the ice. It is the landfall for everyone who walks that road from a ship, and it is the outlet for the forest products that come down out of the temple-domains behind it.

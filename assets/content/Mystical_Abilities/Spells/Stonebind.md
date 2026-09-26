@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Stonebind
-  aliases:
-    - Petrification
-description: "Binds target to stone; imprisons within rocky tomb."
 shortcode: stnbnd
+name: {full: Stonebind, aliases: [Petrification]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-tree
-  templatePriority: null
+description: "Binds target to stone; imprisons within rocky tomb."
+tags: []
+data: {icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: physera
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Petrification
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Petrification
 ---
 
 The caster grips a creature and unleashes a torrent of mineralizing Physéra energy that transmutes living flesh into cold, rigid stone. The transformation is total—the victim's body, gear, and clothing all petrify, tripling the subject's weight as organic tissue is replaced by mineral density while bodily functions slow to a negligible, safe level that preserves the victim in a state of indefinite suspended animation. An unwilling target resists by testing Spirit against the spellfire success level, with ties broken in the caster's favor, and those who fail the test find themselves frozen in whatever posture they held at the moment of transformation.

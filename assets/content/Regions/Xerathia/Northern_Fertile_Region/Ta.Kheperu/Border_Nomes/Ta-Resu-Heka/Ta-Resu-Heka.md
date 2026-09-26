@@ -1,22 +1,17 @@
 ---
-tags:
-  - region
-description: "The southern march of Ta'Kheperu—the cataract country where the valley narrows to a thread between desert and tribal frontier, the land of the Nome of Ta-Resu-Heka."
-name:
-  full: Ta-Resu-Heka
-  aliases: []
 shortcode: taresuhekanome
+name: {full: Ta-Resu-Heka, aliases: []}
 type: place
 subType: region
+description: "The southern march of Ta'Kheperu—the cataract country where the valley narrows to a thread between desert and tribal frontier, the land of the Nome of Ta-Resu-Heka."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: Kheperi
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 320000
-packFolder: taresuheka
+  packFolder: taresuheka
 ---
 
 ## Overview

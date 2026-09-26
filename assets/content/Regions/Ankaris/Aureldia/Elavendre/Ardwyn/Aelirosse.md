@@ -1,23 +1,16 @@
 ---
-tags:
-  - village
-  - woodland
-  - sacred
-description: "The Sinalë enclave of the Silver Forests—the longest-standing of the three, seated near the At'aan Wyrd and closer to the Áelendan than any Sinalëan community elsewhere in the world."
+shortcode: aelirosse
+name: {full: Aelirossë, aliases: []}
 type: place
 subType: settlement
+description: "The Sinalë enclave of the Silver Forests—the longest-standing of the three, seated near the At'aan Wyrd and closer to the Áelendan than any Sinalëan community elsewhere in the world."
+tags: [village, woodland, sacred]
 data:
   demonym: null
-  lore:
-    - flksinale
-  parents:
-    - silvrfrsts
+  lore: [flksinale]
+  parents: [silvrfrsts]
   population: 120
-name:
-  full: Aelirossë
-  aliases: []
-shortcode: aelirosse
-packFolder: elavendre
+  packFolder: elavendre
 ---
 
 **Aelirossë** lies deep in the **[[place-silvrfrsts|Silver Forests]]**, within the

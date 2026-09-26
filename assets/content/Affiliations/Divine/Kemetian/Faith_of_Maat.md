@@ -1,11 +1,12 @@
 ---
-description: "Order."
-tags:
-  - kemetian
-  - religion
-  - maat
+shortcode: maat
+name:
+  full: Faith of Má'át
+  aliases: [Keeper of Truth and Harmony, Má'át, Maat, "Má'át, Keeper of Truth and Harmony"]
 type: affiliation
 subType: faithtradition
+description: "Order."
+tags: [kemetian, religion, maat]
 data:
   banner: takheperubnr
   icon: maat
@@ -22,8 +23,7 @@ data:
         title: Rite-Denied
         lore: excmmnctrnk
         description: >-
-          Barred from the temple rites, and with them from the funerary rites every Kheperi
-          eventually requires—a sentence that reaches past the end of the life it is passed in.
+          Barred from the temple rites, and with them from the funerary rites every Kheperi eventually requires—a sentence that reaches past the end of the life it is passed in.
       - level: 1
         title: Lay Faithful
         lore: layfaithfulrnk
@@ -33,20 +33,17 @@ data:
         title: Wab
         lore: initiaternk
         description: >-
-          "Purified One"—acolytes studying the legal codes, learning to read and write the sacred
-          scripts, and serving as scribes and administrators within the temple complex.
+          "Purified One"—acolytes studying the legal codes, learning to read and write the sacred scripts, and serving as scribes and administrators within the temple complex.
       - level: 3
         title: Hem'Netjer
         lore: priestrnk
         description: >-
-          "Servant of the God"—ordained priests serving as judges, keepers of law, and interpreters
-          of the goddess's will.
+          "Servant of the God"—ordained priests serving as judges, keepers of law, and interpreters of the goddess's will.
       - level: 4
         title: Wer'Hekau
         lore: highpriestrnk
         description: >-
-          "Great of Sacred Power"—High Priest or High Priestess of Má'át, at the head of the cult
-          that holds the law.
+          "Great of Sacred Power"—High Priest or High Priestess of Má'át, at the head of the cult that holds the law.
     offices:
       Judge: >-
         A Hem'Netjer seated to hear a case, which in this cult is a priestly function rather than a civil one.
@@ -55,36 +52,18 @@ data:
       Temple Scribe: >-
         A Wab serving as scribe and administrator within the temple complex.
       Weigher of the Heart: >-
-        Keeps the central eschatological doctrine: the postmortem weighing of the heart against the
-        feather of the goddess. It exerts genuine moral influence on daily life—even the powerful
-        fear a negative judgment, and the knowledge that wealth cannot buy a favorable verdict is a
-        real, if imperfect, check on the worst abuses of power.
+        Keeps the central eschatological doctrine: the postmortem weighing of the heart against the feather of the goddess. It exerts genuine moral influence on daily life—even the powerful fear a negative judgment, and the knowledge that wealth cannot buy a favorable verdict is a real, if imperfect, check on the worst abuses of power.
       Legal Arbiter: >-
-        Legal arbitration is one of the recognized Hem'Netjer specializations, and this cult
-        supplies it. Women plead in the Kenbet as well as men.
+        Legal arbitration is one of the recognized Hem'Netjer specializations, and this cult supplies it. Women plead in the Kenbet as well as men.
   seat: null
   domains: []
   population: null
-  economy:
-    - affiliation-perhati
-  lore:
-    - maatdty
-  parents:
-    - kemtnpnthn
-  relations:
-    kemtnpnthn: aligned
-name:
-  full: Faith of Má'át
-  aliases:
-    - Keeper of Truth and Harmony
-    - Má'át
-    - Maat
-shortcode: maat
-alias: Má'át, Keeper of Truth and Harmony
-packFolder: pantheonskemetian
-sohl:
-  system:
-    commonSkills: []
+  economy: [affiliation-perhati]
+  lore: [maatdty]
+  parents: [kemtnpnthn]
+  relations: {kemtnpnthn: aligned}
+  packFolder: pantheonskemetian
+sohl: {system: {commonSkills: []}}
 ---
 
 Má'át is the great balancing force of the cosmos itself. She is not a god of compassion or mercy, but of absolute truth and immutable law. Before creation, chaos reigned supreme. Má'át imposed order upon that primordial darkness, establishing the laws by which the universe operates and by which all creation must abide. To live in harmony with Má'át is to live truthfully, to honor your oaths, to speak with clarity, and to balance every action with restraint and wisdom.

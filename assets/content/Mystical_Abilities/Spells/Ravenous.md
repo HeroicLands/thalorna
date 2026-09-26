@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Ravenous
-  aliases:
-    - Hunger
-description: "Hunger compulsion; targets eat anything to satisfy overwhelming urge."
 shortcode: ravenous
+name: {full: Ravenous, aliases: [Hunger]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-tree
-  templatePriority: null
+description: "Hunger compulsion; targets eat anything to satisfy overwhelming urge."
+tags: []
+data: {icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: physera
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Hunger
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Hunger
 ---
 
 The caster curses a single creature with an immediate onset of supernatural starvation, bypassing the normal gradual progression of hunger and plunging the victim directly into acute nutritional crisis with a starting virulence equivalent to a serious disease. The victim immediately accrues significant weariness fatigue as their body burns through its reserves at an impossible rate, and without food the creature's condition deteriorates rapidly—making Advance Rolls at accelerated intervals that halve or quarter the normal time between checks depending on whether partial rations are available.

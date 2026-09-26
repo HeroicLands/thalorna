@@ -1,14 +1,10 @@
 ---
-tags: []
-description: "The ward magistrates of Magnápolis—the court most citizens ever meet, keeping the district law over markets, licenses, weights, building and sanitation, and famously open to a bribe."
-name:
-  full: The Aediles
-  aliases:
-    - Aediles
-    - Magistrates of the Wards
 shortcode: aediles
+name: {full: The Aediles, aliases: [Aediles, Magistrates of the Wards]}
 type: affiliation
 subType: governmental
+description: "The ward magistrates of Magnápolis—the court most citizens ever meet, keeping the district law over markets, licenses, weights, building and sanitation, and famously open to a bribe."
+tags: []
 data:
   templatePriority: null
   demonym: null
@@ -17,67 +13,45 @@ data:
   governance:
     model: oligarchy
     summary: >-
-      A bench of ward magistrates under the Curator of Law, each holding one quarter of the city
-      and answering upward rather than to each other. There is no assembly of Aediles and no
-      presiding Aedile: a ward is a magistrate's own, which is precisely what makes the office
-      worth buying.
+      A bench of ward magistrates under the Curator of Law, each holding one quarter of the city and answering upward rather than to each other. There is no assembly of Aediles and no presiding Aedile: a ward is a magistrate's own, which is precisely what makes the office worth buying.
     ranks:
       - level: 0
         title: Struck from the Roll
         lore: expelledrnk
         description: >-
-          Put out of the magistracy with the record endorsed. The endorsement is the sentence—it
-          closes every civic office in the city, and the trades a former Aedile ruled over remember
-          him.
+          Put out of the magistracy with the record endorsed. The endorsement is the sentence—it closes every civic office in the city, and the trades a former Aedile ruled over remember him.
       - level: 1
         title: Ward Clerk
         lore: clerkrnk
         description: >-
-          Keeps the ward's registers: the licenses, the weights attested, the buildings condemned
-          and the fines levied. Sees every transaction the ward makes and is paid as though he
-          saw none.
+          Keeps the ward's registers: the licenses, the weights attested, the buildings condemned and the fines levied. Sees every transaction the ward makes and is paid as though he saw none.
       - level: 2
         title: Inspector
         lore: officerrnk
         description: >-
-          Walks the quarter and applies the district law at the door—shutters a business, levies
-          a fine on the spot, or marks a building for pulling down. The office where the law is
-          actually felt, and the one most often bought.
+          Walks the quarter and applies the district law at the door—shutters a business, levies a fine on the spot, or marks a building for pulling down. The office where the law is actually felt, and the one most often bought.
       - level: 3
         title: Aedile
         lore: magistraternk
         description: >-
-          Magistrate of a ward, holding the only court most Magnápolitans will ever see: markets
-          and licenses, weights and measures, building and sanitation, nuisance and petty
-          disorder. Levies fines, shutters premises and condemns buildings, with the City Watch
-          supplying the muscle behind the ruling.
+          Magistrate of a ward, holding the only court most Magnápolitans will ever see: markets and licenses, weights and measures, building and sanitation, nuisance and petty disorder. Levies fines, shutters premises and condemns buildings, with the City Watch supplying the muscle behind the ruling.
     offices:
       Aedile of a Ward: >-
-        Holds the bench for one quarter of the city. What may be traded where is his to enforce,
-        and the district law he enforces is dense enough that almost any premises is in breach of
-        something.
+        Holds the bench for one quarter of the city. What may be traded where is his to enforce, and the district law he enforces is dense enough that almost any premises is in breach of something.
       Inspector: >-
-        The Aedile's hand in the street. An inspection is the instrument of the office, and a
-        scheduled one is a negotiation.
+        The Aedile's hand in the street. An inspection is the instrument of the office, and a scheduled one is a negotiation.
       Keeper of the Weights: >-
-        Attests the measures the markets trade by. A false weight is the ward's commonest charge
-        and its most reliable revenue.
+        Attests the measures the markets trade by. A false weight is the ward's commonest charge and its most reliable revenue.
       Clerk of the Roll: >-
-        Holds the licenses and the record of every ruling made in the ward—including, for anyone
-        who can read a register, the pattern of which premises are inspected and which are not.
+        Holds the licenses and the record of every ruling made in the ward—including, for anyone who can read a register, the pattern of which premises are inspected and which are not.
   seat: magnapolis
   domains: []
   population: null
   economy: []
   lore: []
-  parents:
-    - curiaurbis
-  relations:
-    curiaurbis: aligned
-    vylrnmltry: aligned
-sohl:
-  system:
-    commonSkills: []
+  parents: [curiaurbis]
+  relations: {curiaurbis: aligned, vylrnmltry: aligned}
+sohl: {system: {commonSkills: []}}
 ---
 
 The Aediles are the civic magistrates of [[place-magnapolis|Magnápolis]], and the only court most of

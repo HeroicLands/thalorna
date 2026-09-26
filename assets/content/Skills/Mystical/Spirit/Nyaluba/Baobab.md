@@ -1,20 +1,11 @@
 ---
-tags:
-  - nyaluba
-  - spirit-power
-  - draft
-description: "Standing with the baobab-spirit of the Bombwe—what an allied guide of the Nyáluba Way is met and asked with."
+shortcode: baobabbombwesprt
+name: {full: "Baobab Spirit Power", aliases: [Baobab Spirit, Bombwe Baobab]}
 type: skill
 subType: mystical
-shortcode: baobabbombwesprt
-name:
-  full: "Baobab Spirit Power"
-  aliases:
-    - Baobab Spirit
-    - Bombwe Baobab
-data:
-  icon: icon-psychicwaves
-  templatePriority: null
+description: "Standing with the baobab-spirit of the Bombwe—what an allied guide of the Nyáluba Way is met and asked with."
+tags: [nyaluba, spirit-power, draft]
+data: {icon: icon-psychicwaves, templatePriority: null, packFolder: spiritskillsnyaluba}
 sohl:
   system:
     skillBaseFormula: "@aur, @wil"
@@ -23,7 +14,6 @@ sohl:
     combatCategory: none
     parentSkillCode: spirit
     initSkillMult: 0
-packFolder: spiritskillsnyaluba
 ---
 
 See [[affiliation-nyalbbaob|Baobab Totem]]—the guide of the Bombwe, the settled cultivators and senior griots.

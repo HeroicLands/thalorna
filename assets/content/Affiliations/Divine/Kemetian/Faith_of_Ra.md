@@ -1,11 +1,10 @@
 ---
-description: "Fire."
-tags:
-  - kemetian
-  - religion
-  - ra
+shortcode: ra
+name: {full: Faith of Rā, aliases: [The Solar Flame, Rā, Ra, "Rā, The Solar Flame"]}
 type: affiliation
 subType: faithtradition
+description: "Fire."
+tags: [kemetian, religion, ra]
 data:
   banner: takheperubnr
   icon: ra
@@ -22,8 +21,7 @@ data:
         title: Rite-Denied
         lore: excmmnctrnk
         description: >-
-          Barred from the temple rites, and with them from the funerary rites every Kheperi
-          eventually requires—a sentence that reaches past the end of the life it is passed in.
+          Barred from the temple rites, and with them from the funerary rites every Kheperi eventually requires—a sentence that reaches past the end of the life it is passed in.
       - level: 1
         title: Lay Faithful
         lore: layfaithfulrnk
@@ -33,23 +31,17 @@ data:
         title: Wab
         lore: initiaternk
         description: >-
-          "Purified One"—acolytes in apprenticeships that may last a decade or more, maintaining the
-          sacred fires and learning the basic rituals; the most promising are trained in the secret
-          mysteries—the god's nightly battle against chaos, and the hidden names of power.
+          "Purified One"—acolytes in apprenticeships that may last a decade or more, maintaining the sacred fires and learning the basic rituals; the most promising are trained in the secret mysteries—the god's nightly battle against chaos, and the hidden names of power.
       - level: 3
         title: Hem'Netjer
         lore: priestrnk
         description: >-
-          "Servant of the God"—ordained priests serving as temple administrators, teachers and
-          ritual leaders, trained extensively in theology, astronomy and natural philosophy, and
-          able to predict the sun's paths through the heavens with precision.
+          "Servant of the God"—ordained priests serving as temple administrators, teachers and ritual leaders, trained extensively in theology, astronomy and natural philosophy, and able to predict the sun's paths through the heavens with precision.
       - level: 4
         title: Wer'Hekau
         lore: highpriestrnk
         description: >-
-          "Great of Sacred Power"—High Priest of Rā, holding extraordinary political and spiritual
-          authority. Chosen by the sitting Per-Aá in consultation with the outgoing holder—a
-          succession the priesthood has occasionally contested, sometimes to open conflict.
+          "Great of Sacred Power"—High Priest of Rā, holding extraordinary political and spiritual authority. Chosen by the sitting Per-Aá in consultation with the outgoing holder—a succession the priesthood has occasionally contested, sometimes to open conflict.
     offices:
       Keeper of the Observatory: >-
         Maintains the temple's solar observatory and tracks the movements of sun, moon and stars, which serves both the cult's theology and practical prediction of the seasons.
@@ -58,50 +50,24 @@ data:
       Keeper of the Ápōphis Records: >-
         A Wer'Hekau holding the secret records and treatises on the chaos god, so the priesthood can counsel the Per-Aá and prepare the realm for catastrophe.
       Reader of the Measure: >-
-        Reads the great nilometer of the capital daily through the inundation and carries the count to the
-        temple. As the flood nears its crest the reading is proclaimed to the city and the empire as the
-        single most important number of the year: the height of the flood foretells the harvest, and the
-        harvest sets the taxes. Falsifying it is among the gravest crimes a Kheperi can name.
+        Reads the great nilometer of the capital daily through the inundation and carries the count to the temple. As the flood nears its crest the reading is proclaimed to the city and the empire as the single most important number of the year: the height of the flood foretells the harvest, and the harvest sets the taxes. Falsifying it is among the gravest crimes a Kheperi can name.
       Keeper of the Inner Sanctuary: >-
-        Only the Wer'Hekau of Rā and the Per-Aá may enter the small, dark, ancient sanctuary at the heart of
-        the Great Temple, where the god's image dwells.
+        Only the Wer'Hekau of Rā and the Per-Aá may enter the small, dark, ancient sanctuary at the heart of the Great Temple, where the god's image dwells.
       Warden of the Binding: >-
-        Maintains the wards the priesthood set on the cursed Way of the False Rā, whose death-magic was
-        sealed into the tomb with him. The order is unchanged in six centuries and has never been relaxed:
-        any soul seen seeking the cursed road is killed where they stand.
+        Maintains the wards the priesthood set on the cursed Way of the False Rā, whose death-magic was sealed into the tomb with him. The order is unchanged in six centuries and has never been relaxed: any soul seen seeking the cursed road is killed where they stand.
       Bearer of the God's Image: >-
-        On the high festivals the image of Rā is borne in procession down the Sun's Road—the
-        monumental avenue lined with sphinxes and ram-statues—and across the water to the island on
-        its stone causeways.
+        On the high festivals the image of Rā is borne in procession down the Sun's Road—the monumental avenue lined with sphinxes and ram-statues—and across the water to the island on its stone causeways.
       Keeper of the Solstice Rites: >-
-        The two climaxes of the year, when the whole capital turns out to watch the god born and the god die
-        along his own road: the midsummer Festival of the Coming-Forth, when the dawn breaks straight down
-        the eastern road, and the midwinter Festival of the Going-Down, when the sun sets straight down the
-        corridor of the royal dead into the necropolis. The sightlines are kept clear by a law older than
-        memory, and nothing may stand in that line.
+        The two climaxes of the year, when the whole capital turns out to watch the god born and the god die along his own road: the midsummer Festival of the Coming-Forth, when the dawn breaks straight down the eastern road, and the midwinter Festival of the Going-Down, when the sun sets straight down the corridor of the royal dead into the necropolis. The sightlines are kept clear by a law older than memory, and nothing may stand in that line.
   seat: iattepy
   domains: []
   population: null
-  economy:
-    - affiliation-perhati
-  lore:
-    - radty
-  parents:
-    - kemtnpnthn
-  relations:
-    kemtnpnthn: aligned
-name:
-  full: Faith of Rā
-  aliases:
-    - The Solar Flame
-    - Rā
-    - Ra
-shortcode: ra
-alias: Rā, The Solar Flame
-packFolder: pantheonskemetian
-sohl:
-  system:
-    commonSkills: []
+  economy: [affiliation-perhati]
+  lore: [radty]
+  parents: [kemtnpnthn]
+  relations: {kemtnpnthn: aligned}
+  packFolder: pantheonskemetian
+sohl: {system: {commonSkills: []}}
 ---
 
 Rā is the primordial fire from which all creation springs. He is the sun that rises each morning, burning away darkness and shadow, bringing warmth, light, and life to all the world. Yet Rā is more than merely the sun in the sky—he is the principle of illumination itself, the divine force that makes truth visible, that purifies the corrupted, and that drives back the primordial chaos that eternally threatens creation. Each day, Rā undertakes his sacred journey across the heavens. Each night, he descends into the underworld to wage war against Ápōphis, the chaos serpent, ensuring that the morning will come and that creation will continue to exist.

@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Resonance
-  aliases:
-    - Sound
-description: "Sound magic amplifying and redirecting acoustic waves dangerously."
 shortcode: rsnnc
+name: {full: Resonance, aliases: [Sound]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
+description: "Sound magic amplifying and redirecting acoustic waves dangerously."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Sound
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Sound
 ---
 
 The caster presses fingertips to their own throat and hums a sustained note; the surrounding air picks up the vibration and begins to oscillate in sympathy, placing every sound within the spell's radius under the caster's direct control. Whispers can be swelled to thunderous volume, a sentry's challenge can be muted to inaudibility, and phantom sounds—phantom footsteps approaching from behind, the creak of a bowstring being drawn—can be woven into the ambient soundscape with unsettling realism.

@@ -1,22 +1,19 @@
 ---
-tags:
-  - region
-description: A small, jagged knot of frost-split mountains in the interior of Norgaad—five leagues of spires, scree, and ice, where mithral is rumored and expeditions go missing.
-name:
-  full: Shattered Peaks
-  aliases: []
 shortcode: shtrdpks
+name: {full: Shattered Peaks, aliases: []}
 type: place
 subType: region
+description: A small, jagged knot of frost-split mountains in the interior of Norgaad—five leagues of spires, scree, and ice, where mithral is rumored and expeditions go missing.
+tags: [region]
 data:
   icon: null
   demonym: null
   lore: []
-  parents:
-    - nrdlndsrgn
+  parents: [nrdlndsrgn]
   population: null
-terran_analog: "A compact alpine massif of the Norwegian or Swedish interior—the Sunnmøre Alps or the Kebnekaise group—a single shattered knot of peaks rather than a range."
-packFolder: nordlands
+  packFolder: nordlands
+
+# terran_analog: "A compact alpine massif of the Norwegian or Swedish interior—the Sunnmøre Alps or the Kebnekaise group—a single shattered knot of peaks rather than a range."
 ---
 
 The Shattered Peaks are a compact massif in the mountain interior of the [[place-nrdlndsrgn|Nordlands]], within the [[affiliation-kingdmnrgd|Kingdom of Norgaad]]. They are small—about five leagues across—but no stretch of country on [[place-ankrscntnnt|Ankaris]] packs more broken stone into so little ground, and the Nordmen who live around them treat the five leagues as a wall rather than a distance.

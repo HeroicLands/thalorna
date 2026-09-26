@@ -1,14 +1,11 @@
 ---
-tags: []
-name:
-  full: Grukar Folk
-  aliases:
-    - grukarfolk
-description: Grukar Folk
 shortcode: grukarfolk
+name: {full: Grukar Folk, aliases: [grukarfolk]}
 type: lore
 subType: folk
-packFolder: settinglore
+description: Grukar Folk
+tags: []
+data: {packFolder: settinglore}
 ---
 
 The Grukar are a brutal and prolific folk, feared wherever their guttural war-cries echo across the hills. Thick-skinned, tusked, and foul-tempered, they inhabit the blighted wastes, the deep ravines, and the ruined places of the world where no civilized folk would willingly tread. Ranging in height from roughly four and a half feet among the stunted common breed to a towering six and a half feet among the rarest and most fearsome of their kind, the Grukar are not a single uniform threat but a fractious, seething mass of subspecies locked in perpetual internal struggle—a struggle that, paradoxically, is the very engine of their survival.

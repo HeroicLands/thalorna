@@ -1,20 +1,11 @@
 ---
-tags:
-  - nyaluba
-  - spirit-power
-  - draft
-description: "Standing with the crocodile-spirit of the Kambezi—what an allied guide of the Nyáluba Way is met and asked with."
+shortcode: crocodilekambezisprt
+name: {full: "Crocodile Spirit Power", aliases: [Crocodile Spirit, Kambezi Crocodile]}
 type: skill
 subType: mystical
-shortcode: crocodilekambezisprt
-name:
-  full: "Crocodile Spirit Power"
-  aliases:
-    - Crocodile Spirit
-    - Kambezi Crocodile
-data:
-  icon: icon-psychicwaves
-  templatePriority: null
+description: "Standing with the crocodile-spirit of the Kambezi—what an allied guide of the Nyáluba Way is met and asked with."
+tags: [nyaluba, spirit-power, draft]
+data: {icon: icon-psychicwaves, templatePriority: null, packFolder: spiritskillsnyaluba}
 sohl:
   system:
     skillBaseFormula: "@aur, @wil"
@@ -23,7 +14,6 @@ sohl:
     combatCategory: none
     parentSkillCode: spirit
     initSkillMult: 0
-packFolder: spiritskillsnyaluba
 ---
 
 See [[affiliation-nyalbcroc|Crocodile Totem]]—the guide of the Kambezi, the river-people of the eastern wetlands.

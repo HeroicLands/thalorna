@@ -1,15 +1,11 @@
 ---
-tags: []
-name:
-  full: Diplos
-  aliases: []
-description: "The Twins: clever, quick fingers for pen and craft, with no patience for old mysteries."
 shortcode: diplos
+name: {full: Diplos, aliases: []}
 type: mystery
 subType: birthsign
-data:
-  icon: icon-astrology
-  templatePriority: 0
+description: "The Twins: clever, quick fingers for pen and craft, with no patience for old mysteries."
+tags: []
+data: {icon: icon-astrology, templatePriority: 0, packFolder: astrokyklos}
 sohl:
   kbcat: birthsign
   system:
@@ -37,7 +33,6 @@ sohl:
       "subType:social": -5
       water: -5
       hydalis: -5
-packFolder: astrokyklos
 ---
 
 Diplos, the Twins, is a sign of quick wit and quicker fingers. Scribes, artisans, and duelists born beneath it prosper, but the arcane and the antiquarian find its natives distracted and ill-suited to long contemplation.

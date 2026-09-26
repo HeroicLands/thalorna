@@ -1,13 +1,11 @@
 ---
-tags: []
-description: "The Wandering Wind of the Varnaka pantheon—travelers, and the sail that carries them."
+shortcode: pvnjtrsdty
+name: {full: Pavanajitras, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Pavanajitras
-  aliases: []
-shortcode: pvnjtrsdty
-packFolder: deitiesvarnaka
+description: "The Wandering Wind of the Varnaka pantheon—travelers, and the sail that carries them."
+tags: []
+data: {packFolder: deitiesvarnaka}
 ---
 
 _The Wandering Wind—a loose company of gauze-robed figures running barefoot, scarves streaming._

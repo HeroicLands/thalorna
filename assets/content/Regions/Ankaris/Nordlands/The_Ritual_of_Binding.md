@@ -1,15 +1,11 @@
 ---
-tags:
-  - ritual
-  - nordlands
-description: "The ancient rite that seals Njörven away—worked at a hidden coastal temple with all three regalia, requiring spiritual and material preparation and an invoker who must be protected throughout."
+shortcode: njordurritlbinding
+name: {full: The Ritual of Binding, aliases: []}
 type: lore
 subType: arcana
-name:
-  full: The Ritual of Binding
-  aliases: []
-shortcode: njordurritlbinding
-packFolder: nordlands
+description: "The ancient rite that seals Njörven away—worked at a hidden coastal temple with all three regalia, requiring spiritual and material preparation and an invoker who must be protected throughout."
+tags: [ritual, nordlands]
+data: {packFolder: nordlands}
 ---
 
 The **Ritual of Binding** is the rite by which the Sea Wraith [[being-njorven|Njörven]] is sealed

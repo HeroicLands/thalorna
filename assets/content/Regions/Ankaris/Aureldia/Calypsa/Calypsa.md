@@ -1,12 +1,10 @@
 ---
-tags: []
-description: Free port city on a small island off Élavendre's northern coast—a cosmopolitan crossroads of Nordmal seafarers, Aurèldían merchants, and whoever else has a ship to anchor.
-type: affiliation
-name:
-  full: Calypsa
-  aliases: []
 shortcode: calypsa
+name: {full: Calypsa, aliases: []}
+type: affiliation
 subType: polity
+description: Free port city on a small island off Élavendre's northern coast—a cosmopolitan crossroads of Nordmal seafarers, Aurèldían merchants, and whoever else has a ship to anchor.
+tags: []
 data:
   templatePriority: null
   demonym: Calypsi
@@ -15,15 +13,13 @@ data:
   governance:
     model: republic
     summary: >-
-      The Captains' Council of the seafaring houses, seats weighted by tonnage, electing a
-      Harbourmaster for a single three-year term who may not immediately serve again.
+      The Captains' Council of the seafaring houses, seats weighted by tonnage, electing a Harbourmaster for a single three-year term who may not immediately serve again.
     ranks:
       - level: 0
         title: Proscribed
         lore: excmmnctrnk
         description: >-
-          Struck from the citizen roll and outlawed by decree; property forfeit, and any citizen
-          may kill them without penalty.
+          Struck from the citizen roll and outlawed by decree; property forfeit, and any citizen may kill them without penalty.
       - level: 1
         title: Slave
         lore: slavernk
@@ -32,91 +28,67 @@ data:
         title: Freedman
         lore: freedmanrnk
         description: >-
-          Manumitted, trading and holding property freely, but barred from office and owing
-          duties to a former master.
+          Manumitted, trading and holding property freely, but barred from office and owing duties to a former master.
       - level: 3
         title: Resident Alien
         lore: rsdntlnrnk
         description: >-
-          Living and trading in the republic under its protection, paying its taxes, and having
-          no vote in it.
+          Living and trading in the republic under its protection, paying its taxes, and having no vote in it.
       - level: 4
         title: Citizen
         lore: citizenrnk
         description: >-
-          Enrolled in the citizen body, voting in the assembly and serving in the levy. A citizen
-          is not a member of the governing order.
+          Enrolled in the citizen body, voting in the assembly and serving in the levy. A citizen is not a member of the governing order.
       - level: 5
         title: Equestrian
         lore: landedlordrnk
         description: >-
-          Of the propertied order that meets the census for office, and from which the magistracies
-          are in practice filled.
+          Of the propertied order that meets the census for office, and from which the magistracies are in practice filled.
       - level: 6
         title: Senator
         lore: councillorrnk
         description: >-
-          Of the ruling council itself, holding a seat for life and deliberating on war, treasury
-          and law.
+          Of the ruling council itself, holding a seat for life and deliberating on war, treasury and law.
       - level: 7
         title: Consular
         lore: highpriestrnk
         description: >-
-          Having held the chief magistracy and vacated it, and speaking with the weight that
-          carries ever after.
+          Having held the chief magistracy and vacated it, and speaking with the weight that carries ever after.
       - level: 8
         title: First Senator
         lore: prsdngffcrrnk
         description: >-
-          Presiding over the council and speaking first in it—an office of precedence, held
-          for a term, not a sovereign.
+          Presiding over the council and speaking first in it—an office of precedence, held for a term, not a sovereign.
     offices:
       Harbourmaster: >-
-        Executive officer elected by the Captains' Council for three years, and barred from
-        serving consecutive terms. Holds the harbor, the fortifications, the customs and
-        the navy.
+        Executive officer elected by the Captains' Council for three years, and barred from serving consecutive terms. Holds the harbor, the fortifications, the customs and the navy.
       Councillor: >-
-        Head of a seafaring house, seated on the Captains' Council with weight informally
-        but inflexibly set by the tonnage the house commands.
+        Head of a seafaring house, seated on the Captains' Council with weight informally but inflexibly set by the tonnage the house commands.
       Arbitrator: >-
-        Professional settler of disputes between houses under the Sea-Law, a body of custom
-        with no text and a dense oral tradition.
+        Professional settler of disputes between houses under the Sea-Law, a body of custom with no text and a dense oral tradition.
       Guild Master: >-
-        Head of one of the chartered guilds—shipwrights, chandlers, ropemakers, pilots—running its
-        own affairs under Council charter.
-      Customs Officer: Collector of the dues on every hull and cargo, which is the city's
-        revenue entire.
-      Master of the Watch: Commander of the city's guard and of the fortifications the Harbourmaster
-        answers for.
+        Head of one of the chartered guilds—shipwrights, chandlers, ropemakers, pilots—running its own affairs under Council charter.
+      Customs Officer: Collector of the dues on every hull and cargo, which is the city's revenue entire.
+      Master of the Watch: Commander of the city's guard and of the fortifications the Harbourmaster answers for.
       Pilot: >-
-        Licensed guide of hulls into the anchorage, holding knowledge the city treats as a
-        public asset.
-      Consul Abroad: The city's agent in a foreign port, holding its seal for trade disputes
-        there.
+        Licensed guide of hulls into the anchorage, holding knowledge the city treats as a public asset.
+      Consul Abroad: The city's agent in a foreign port, holding its seal for trade disputes there.
       Clerk of the Council: Keeper of the Council's record, its charters and its correspondence.
   seat: calypsacity
-  domains:
-    - aureldirgn
+  domains: [aureldirgn]
   population: 45000
-  economy:
-    - affiliation-clgmrgntrrm
-    - affiliation-magnumclgm
-    - lore-vylrncrncy
-  lore:
-    - humanflk
+  economy: [affiliation-clgmrgntrrm, affiliation-magnumclgm, lore-vylrncrncy]
+  lore: [humanflk]
   parents: []
   relations:
     arldnpnthn: aligned
     kngdmlvndr: aligned
     kingdomlgn: aligned
     ordoarcanis: unaligned
-terran_analog: "A small fictional island off the northern French coast—roughly 15 miles in diameter, sited about 20 miles offshore from the Élavendri mainland, with no real-world geographic counterpart. The cultural mix is a blend of Norse-Germanic seafarer traditions and northern French Aurèldían commerce."
-packFolder: calypsa
-sohl:
-  system:
-    commonSkills:
-      - nordmalng
-      - valtarlng
+  packFolder: calypsa
+sohl: {system: {commonSkills: [nordmalng, valtarlng]}}
+
+# terran_analog: "A small fictional island off the northern French coast—roughly 15 miles in diameter, sited about 20 miles offshore from the Élavendri mainland, with no real-world geographic counterpart. The cultural mix is a blend of Norse-Germanic seafarer traditions and northern French Aurèldían commerce."
 ---
 
 ## Overview

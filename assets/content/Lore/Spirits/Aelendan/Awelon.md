@@ -1,15 +1,11 @@
 ---
-tags:
-  - draft
-  - first-gods
+shortcode: awelonspr
+name: {full: "Awelon, the West Wind", aliases: []}
 type: lore
 subType: spirit
 description: "The west wind off the sea—mobile, unreliable, and addressed in the moment rather than kept in pact."
-name:
-  full: Awelon, the West Wind
-  aliases: []
-shortcode: awelonspr
-packFolder: lorespiritsaelendan
+tags: [draft, first-gods]
+data: {packFolder: lorespiritsaelendan}
 ---
 
 - **Kind:** Weather-kin, of [[lore-thekindred|the Kindred]]

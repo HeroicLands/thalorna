@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Fortress
-  aliases:
-    - Earthwork
-description: "Caster becomes immobile; hardens body against incoming strike and damage."
 shortcode: fortress
+name: {full: Fortress, aliases: [Earthwork]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-tree
-  templatePriority: null
+description: "Caster becomes immobile; hardens body against incoming strike and damage."
+tags: []
+data: {icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: physera
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Earthwork
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Earthwork
 ---
 
 The caster touches the ground with a hand, foot, or elemental focus and commands the earth to heave upward, creating a mound of packed soil with a volume of five-foot cubes proportional to their Spell Index. The mound must distend from existing ground—it cannot be conjured in thin air or atop solid metal, stone, or wood. The caster directs the mound's growth in any configuration of contiguous five-foot cubes, provided the final shape is no more than ten feet high and no higher than it is wide, giving it the stability of a natural earthwork rather than an impossible pillar.

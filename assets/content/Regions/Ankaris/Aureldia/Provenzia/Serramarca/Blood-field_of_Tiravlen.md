@@ -1,21 +1,11 @@
 ---
-tags:
-  - lakeside
-  - inland
-description: "A recurrent blood-field on the shore of Lake Tiravel, where the battle replays over the water on the anniversary and the lakeside villages have made an observance of staying indoors."
+shortcode: bldfldtiravlen
+name: {full: Blood-field of Tiravlen, aliases: []}
 type: place
 subType: site
-data:
-  demonym: null
-  lore: []
-  parents:
-    - tiravellake
-  population: null
-name:
-  full: Blood-field of Tiravlen
-  aliases: []
-shortcode: bldfldtiravlen
-packFolder: provenzia
+description: "A recurrent blood-field on the shore of Lake Tiravel, where the battle replays over the water on the anniversary and the lakeside villages have made an observance of staying indoors."
+tags: [lakeside, inland]
+data: {demonym: null, lore: [], parents: [tiravellake], population: null, packFolder: provenzia}
 ---
 
 On the shore of [[place-tiravellake|Lake Tiravel]], which gives it its name, lies the second of

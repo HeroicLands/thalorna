@@ -1,14 +1,10 @@
 ---
-tags: []
-name:
-  full: Rhinoceros-Hide Shield
-  aliases: []
-description: "Warrior-caste heraldic shield of cured rhinoceros hide; lighter than metal and nearly proof against sword cuts."
 shortcode: rhnhdshld
+name: {full: Rhinoceros-Hide Shield, aliases: []}
 type: weapongear
-data:
-  icon: icon-roundshield
-  templatePriority: null
+description: "Warrior-caste heraldic shield of cured rhinoceros hide; lighter than metal and nearly proof against sword cuts."
+tags: []
+data: {icon: icon-roundshield, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: shield
   weaponType: Shield
@@ -23,14 +19,8 @@ sohl:
         name: Bash
         assocSkillCode: melee
         minParts: 1
-        attack:
-          spread: 6
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 6
-          modifier: 2
-          aspect: blunt
+        attack: {spread: 6, modifier: 0}
+        impactBase: {numDice: 1, die: 6, modifier: 2, aspect: blunt}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -59,10 +49,7 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 1
-        defense:
-          blockMod: 0
-          counterstrikeMod: 0
-packFolder: weapons
+        defense: {blockMod: 0, counterstrikeMod: 0}
 ---
 
 Cut from the armored hide of the Vedyaran rhinoceros and cured over a season rather than a week, this shield is lighter than a metal-faced round of the same span and, blow for blow, harder to cut through. The plates that made the living animal all but immune to a sword's edge do the same work strapped to a warrior's arm, and the craft of curing a hide thick enough to matter without splitting it in the tanning is a warrior-caste secret kept close by the families who supply it.

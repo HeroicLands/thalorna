@@ -1,20 +1,11 @@
 ---
-tags:
-  - fortress
-  - city
-description: "Fortress City"
+shortcode: altinkale2
+name: {full: Altinkale, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - byzariargn
-  population: 80000
-name:
-  full: Altinkale
-  aliases: []
-shortcode: altinkale2
+description: "Fortress City"
+tags: [fortress, city]
+data: {demonym: null, lore: [], parents: [byzariargn], population: 80000}
 ---
 
 ## Overview

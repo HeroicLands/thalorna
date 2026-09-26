@@ -1,16 +1,11 @@
 ---
-tags:
-  - draft
-  - nkaruthar
+shortcode: mamamitospr
+name: {full: Mama wa Mito, aliases: [The Mother of Rivers]}
 type: lore
 subType: spirit
 description: "Zohira of rivers—met at every ford in Okháris, and the one a tribe deals with about water it must cross or drink."
-name:
-  full: Mama wa Mito
-  aliases:
-    - The Mother of Rivers
-shortcode: mamamitospr
-packFolder: lorespiritsokharic
+tags: [draft, nkaruthar]
+data: {packFolder: lorespiritsokharic}
 ---
 
 - **Kind:** [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]

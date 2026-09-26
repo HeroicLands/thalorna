@@ -1,25 +1,18 @@
 ---
-tags:
-  - pass
-  - caravan
-  - inland
-description: "The sixth crossing—no fortress, no toll, no shrine and no blessing; the road the Ösket keep between the two western doors and take a lowlander over blindfold."
+shortcode: gudesroad
+name: {full: The Guides' Road, aliases: []}
 type: place
 subType: feature
+description: "The sixth crossing—no fortress, no toll, no shrine and no blessing; the road the Ösket keep between the two western doors and take a lowlander over blindfold."
+tags: [pass, caravan, inland]
 data:
   demonym: null
   lore: []
-  parents:
-    - graznmntns
-    - sthrnwall
+  parents: [graznmntns, sthrnwall]
   population: null
   routes:
-    - { to: khzryndsrtrgn, bearing: N, mode: land, days: 45, terrain: [mountains, ice, desert] }
-name:
-  full: The Guides' Road
-  aliases: []
-shortcode: gudesroad
-packFolder: vedyara
+    - {to: khzryndsrtrgn, bearing: N, mode: land, days: 45, terrain: [mountains, ice, desert]}
+  packFolder: vedyara
 ---
 
 There are six crossings of the wall. Five are blessed, tolled, recorded and argued over. The sixth is **the Guides' Road**, which lies somewhere between [[place-meghadvara|Meghadvāra]] and [[place-suryadvara|Sūryadvāra]], and about which those four verbs are all false.

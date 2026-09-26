@@ -1,11 +1,9 @@
 ---
+shortcode: shukren
+name: {full: Shükrën, aliases: []}
 type: lore
 subType: culture
-name:
-  full: Shükrën
-  aliases: []
-shortcode: shukren
-packFolder: castes
+data: {packFolder: castes}
 ---
 
 **Merchants and Usurers**

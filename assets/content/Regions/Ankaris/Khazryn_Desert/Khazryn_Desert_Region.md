@@ -1,34 +1,28 @@
 ---
-tags:
-  - region
-description: Vast central-Ankaris steppe-desert—a barrier of dunes, oases, and nomadic confederations along the Silk-Road corridor between east and west.
-name:
-  full: Khazryn Desert Region
-  aliases:
-    - Khazryn Desert
-    - Khazryn
 shortcode: khzryndsrtrgn
+name: {full: Khazryn Desert Region, aliases: [Khazryn Desert, Khazryn]}
 type: place
 subType: region
+description: Vast central-Ankaris steppe-desert—a barrier of dunes, oases, and nomadic confederations along the Silk-Road corridor between east and west.
+tags: [region]
 data:
   icon: null
   demonym: Khazryn
-  lore:
-    - humanflk
-  parents:
-    - ankrscntnnt
+  lore: [humanflk]
+  parents: [ankrscntnnt]
   borders:
-    - { to: dunharargn, bearing: SW }
-    - { to: vedyarargn, bearing: S }
-    - { to: tanvuregin, bearing: E }
+    - {to: dunharargn, bearing: SW}
+    - {to: vedyarargn, bearing: S}
+    - {to: tanvuregin, bearing: E}
   routes:
-    - { to: meghadvara, bearing: S, mode: land, days: 30 }
-    - { to: gudesroad, bearing: S, mode: land, days: 45 }
-    - { to: suryadvara, bearing: S, mode: land, days: 30 }
-    - { to: tamradvara, bearing: S, mode: land, days: 30 }
+    - {to: meghadvara, bearing: S, mode: land, days: 30}
+    - {to: gudesroad, bearing: S, mode: land, days: 45}
+    - {to: suryadvara, bearing: S, mode: land, days: 30}
+    - {to: tamradvara, bearing: S, mode: land, days: 30}
   population: 5000000
-terran_analog: "Central Asia in the broadest sense—Siberia, Mongolia, Kazakhstan, Uzbekistan, Tajikistan, Kyrgyzstan, and the Gobi. The southwestern Persianate oasis-belt (Uzbek/Tajik analog) is held by the Khazryn and Ātárzád; the vast northern, central, and eastern steppes, taiga, and Gobi-analog dryland are home to Turkic and Mongolic horse-nomad confederations and Siberian forest peoples."
-packFolder: khazryndesert
+  packFolder: khazryndesert
+
+# terran_analog: "Central Asia in the broadest sense—Siberia, Mongolia, Kazakhstan, Uzbekistan, Tajikistan, Kyrgyzstan, and the Gobi. The southwestern Persianate oasis-belt (Uzbek/Tajik analog) is held by the Khazryn and Ātárzád; the vast northern, central, and eastern steppes, taiga, and Gobi-analog dryland are home to Turkic and Mongolic horse-nomad confederations and Siberian forest peoples."
 ---
 
 The Khazryn Desert is the great central wasteland of [[place-ankrscntnnt|Ankaris Continent]]—an immense expanse of dune, salt flat, gravel plain, and rocky plateau that forms the continent's largest single geographic obstacle. For a thousand miles and more the desert stretches between the [[place-heladrgn|Helladic]] east and the mountain passes of the far east, separating the Aurèldían world from [[place-vedyarargn|Vedyara]] and [[place-tanvuregin|Tānvür]] with a barrier that can be crossed only by those who know its rhythms. Caravans take months; armies, almost without exception, die.

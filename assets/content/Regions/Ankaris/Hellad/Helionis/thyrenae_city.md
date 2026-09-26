@@ -1,20 +1,11 @@
 ---
-tags:
-  - city-state
-  - city
-description: "City-State"
+shortcode: thyrenae2
+name: {full: Thyrenae, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - helionis
-  population: 60000
-name:
-  full: Thyrenae
-  aliases: []
-shortcode: thyrenae2
+description: "City-State"
+tags: [city-state, city]
+data: {demonym: null, lore: [], parents: [helionis], population: 60000}
 ---
 
 ## Overview

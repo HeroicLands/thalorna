@@ -1,22 +1,17 @@
 ---
-tags:
-  - fortress
-  - town
-description: "Fortress Town"
+shortcode: behen
+name: {full: Behen, aliases: []}
 type: place
 subType: settlement
+description: "Fortress Town"
+tags: [fortress, town]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - taresuhekanome
+  parents: [taresuhekanome]
   population: 24000
-name:
-  full: Behen
-  aliases: []
-shortcode: behen
-packFolder: taresuheka
+  packFolder: taresuheka
 ---
 
 ## Overview

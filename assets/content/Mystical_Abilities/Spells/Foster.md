@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Foster
-  aliases:
-    - Nurture
-description: "Accelerates growth; crops ripen fast and creatures mature rapidly."
 shortcode: foster
+name: {full: Foster, aliases: [Nurture]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-tree
-  templatePriority: null
+description: "Accelerates growth; crops ripen fast and creatures mature rapidly."
+tags: []
+data: {icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: physera
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Nurture
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Nurture
 ---
 
 The caster places both hands upon a wounded creature and pours sustained Physéra energy into a single designated physical trauma, granting all Healing Rolls for that injury a significant bonus for the entire duration of its recovery. The patient falls unconscious for one hour at spellfire as the body redirects all energy toward accelerated healing—a necessary cost that limits the spell's battlefield utility but makes it ideal for treating casualties in a field hospital or sanctuary. This grants the Healing talent bonus and requires the Understanding skill. The spell affects a given trauma only once, and its bonus applies whether cast before or after mundane treatment, though only the highest similar bonus from multiple arcane healing sources takes effect.

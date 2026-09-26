@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: The Unbroken Seal
-  aliases: []
-description: "Sets a seal that cannot be opened at all except by a named holder, and cannot be worked around."
 shortcode: unbrknsl
+name: {full: The Unbroken Seal, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: maatken
-  templatePriority: null
+description: "Sets a seal that cannot be opened at all except by a named holder, and cannot be worked around."
+tags: [khemenu-hekau, incantation]
+data: {icon: maatken, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: maatken
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
-packFolder: hekauincantations
+    charges: {value: null, max: null}
 ---
 
 Unlike the Sealed Threshold this one does not merely resist; the sealed thing does not open, and

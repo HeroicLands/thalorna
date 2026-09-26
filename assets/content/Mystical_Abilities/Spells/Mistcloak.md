@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Mistcloak
-  aliases:
-    - Pall
-description: "Surrounds caster in concealing mist; obscures vision and movement."
 shortcode: mstclk
+name: {full: Mistcloak, aliases: [Pall]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
+description: "Surrounds caster in concealing mist; obscures vision and movement."
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Pall
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Pall
 ---
 
 A thick, clammy fog rises from the ground around the caster, spreading rapidly to fill an area with impenetrable mist. Visibility drops to arm's length, sounds become directionless and muffled, and the damp cold seeps through clothing to chill the skin. The fog clings to the ground and resists wind, maintaining its density through magical sustenance rather than natural conditions.

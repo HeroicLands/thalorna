@@ -1,20 +1,10 @@
 ---
-tags:
-  - lore
-  - religion
-  - theology
-  - gm-only
-  - secret
-  - metaphysics
-type: lore
-name:
-  full: The Truth of Divine Action
-  aliases:
-    - Divine Action (GM)
-    - The Balance
-subType: theology
-packFolder: settinglore
 shortcode: divineactn
+name: {full: The Truth of Divine Action, aliases: [Divine Action (GM), The Balance]}
+type: lore
+subType: theology
+tags: [lore, religion, theology, gm-only, secret, metaphysics]
+data: {packFolder: settinglore}
 ---
 
 > **GM-only document.** This file describes how the gods of Thalorna engage with the material world—through what mechanisms, under what constraints, with what limitations—given the non-intervention principle established in [[lore-godsrelign|Gods and Religion]]. Where that document focuses on what religions are and how they function, this document focuses on the divine layer itself: the politics, agents, and structural constraints that shape what the gods can and cannot do. The document assumes familiarity with [[lore-magictruth|Magic Truth]] and [[lore-godsrelign|Gods and Religion]]; the cosmology established there is presupposed throughout.

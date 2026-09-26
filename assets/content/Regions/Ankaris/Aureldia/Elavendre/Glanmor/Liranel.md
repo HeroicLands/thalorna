@@ -1,22 +1,11 @@
 ---
-tags:
-  - town
-  - woodland
-  - coastal
-description: "A forest town of the western coast, set back from the cliffs at the edge of Sinalë country—the last place the crown's writ runs plainly, and where licenses to cut the deep wood are issued and argued over."
+shortcode: liranel
+name: {full: Liranel, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - glanmor
-  population: 3400
-name:
-  full: Liranel
-  aliases: []
-shortcode: liranel
-packFolder: elavendre
+description: "A forest town of the western coast, set back from the cliffs at the edge of Sinalë country—the last place the crown's writ runs plainly, and where licenses to cut the deep wood are issued and argued over."
+tags: [town, woodland, coastal]
+data: {demonym: null, lore: [], parents: [glanmor], population: 3400, packFolder: elavendre}
 ---
 
 **Liranel** stands a few miles inland of the [[place-glanmor|Glanmor]] cliffs, in the belt of worked

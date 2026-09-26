@@ -1,18 +1,10 @@
 ---
-tags:
-  - ashalan
-  - faith-skill
-  - draft
+shortcode: ahurdaen
+name: {full: "Ritual: Āhúrdáén", aliases: [The Keeper of Harmony, Ahura Mazda]}
 type: skill
 subType: mystical
-shortcode: ahurdaen
-name:
-  full: "Ritual: Āhúrdáén"
-  aliases:
-    - The Keeper of Harmony
-    - Ahura Mazda
-data:
-  templatePriority: null
+tags: [ashalan, faith-skill, draft]
+data: {templatePriority: null, packFolder: ashalan}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -21,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: ashalan
 ---
 
 See [[affiliation-ahurdaen|Faith of Āhúrdáén]]

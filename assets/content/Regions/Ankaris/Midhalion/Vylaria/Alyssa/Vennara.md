@@ -1,20 +1,11 @@
 ---
-tags:
-  - town
-description: "Town"
+shortcode: vennara
+name: {full: Vennara, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - alyssa
-  population: 6000
-name:
-  full: Vennara
-  aliases: []
-shortcode: vennara
-packFolder: vylaria
+description: "Town"
+tags: [town]
+data: {demonym: null, lore: [], parents: [alyssa], population: 6000, packFolder: vylaria}
 ---
 
 ## Overview

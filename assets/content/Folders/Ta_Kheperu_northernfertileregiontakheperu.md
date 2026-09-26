@@ -1,9 +1,6 @@
 ---
-name:
-  full: "Ta'Kheperu"
 shortcode: northernfertileregiontakheperu
+name: {full: "Ta'Kheperu"}
 type: folder
-data:
-  parent: xerathianorthernfertileregion
-  color: "#3CB371"
+data: {parent: xerathianorthernfertileregion, color: "#3CB371"}
 ---

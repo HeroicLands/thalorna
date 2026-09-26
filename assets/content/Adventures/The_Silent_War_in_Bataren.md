@@ -1,22 +1,17 @@
 ---
-name:
-  full: The Silent War in Batáren
-  aliases: []
 shortcode: slntwrbtrn
+name: {full: The Silent War in Batáren, aliases: []}
 type: scenario
 subType: adventure
 data:
   parents: []
-  locations:
-    - provenzrgn
+  locations: [provenzrgn]
   cast: []
   factions: []
   follows: []
   status: draft
-  party:
-    size: null
-    archetypes: []
-packFolder: adventures
+  party: {size: null, archetypes: []}
+  packFolder: adventures
 ---
 
 Tensions boil beneath the surface in the coastal City of Batáren, where Provenzian rulers and the indigenous [[lore-elavendrnppl|Élavendren]] people—descendants of [[place-elavendre|Élavendre]] who settled in these borderlands centuries ago—clash over land, rights, and tradition. A hidden hand stokes the conflict to destabilize the region.

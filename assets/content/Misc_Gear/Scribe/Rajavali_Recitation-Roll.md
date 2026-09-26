@@ -1,22 +1,11 @@
 ---
-tags: []
-name:
-  full: "Rājavalī Recitation-Roll"
-  aliases: []
-description: "The Memory-Keeper's own working roll—the displaced royal line's genealogy, recited whole on the Day of the Dissolution."
 shortcode: recitationroll
+name: {full: "Rājavalī Recitation-Roll", aliases: []}
 type: miscgear
-data:
-  icon: icon-coinsbdg
-  templatePriority: null
-sohl:
-  kbcat: scribe
-  system:
-    weightBase: 2
-    valueBase: 0
-    qualityBase: 0
-    durabilityBase: 5
-packFolder: scribe
+description: "The Memory-Keeper's own working roll—the displaced royal line's genealogy, recited whole on the Day of the Dissolution."
+tags: []
+data: {icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
+sohl: {kbcat: scribe, system: {weightBase: 2, valueBase: 0, qualityBase: 0, durabilityBase: 5}}
 ---
 
 A single long roll, added to at the head of every generation by the current [[affiliation-rajaprjnpd|Memory-Keeper]] with the "what would have been" name of whoever would have inherited the dissolved kingdom had the line continued. On the Day of the Dissolution the Memory-Keeper unrolls it before the whole population and recites the full dynastic history and the dissolution decree from the roll's beginning to its current end, a recitation that takes most of a day.

@@ -1,19 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: The Dormant Draft
-  aliases:
-    - Quiescence Elixir
-description: "Pale gray liquid; induces absolute stillness and living suspension."
 shortcode: elxqsc
+name: {full: The Dormant Draft, aliases: [Quiescence Elixir]}
 type: concoctiongear
 subType: elixir
-hmk:
-  name: Quiescence
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "Pale gray liquid; induces absolute stillness and living suspension."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "na"
     strength: 0
-packFolder: elixirs
+
+# hmk:
+#   name: Quiescence
 ---
 
 A Quiescence Elixir appears as a perfectly still liquid, utterly devoid of movement, tinted a pale gray or off-white that seems to absorb sound and light. When drunk, the imbiber's soul withdraws into dormancy and the body descends into absolute stillness—a living suspension between waking and death. The mechanics of this elixir are inverted, like the Poison Elixir: on the Imbibing Roll, a Critical Success reduces AS by 1, while failures increase it by 1 (or 2 on a Critical Failure).

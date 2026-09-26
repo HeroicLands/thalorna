@@ -1,11 +1,9 @@
 ---
-tags: []
-description: "The Just of the Asguardian gods—law, sworn oaths, and combat fought by the honorable forms."
+shortcode: tyrdty
+name: {full: Týr, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Týr
-  aliases: []
-shortcode: tyrdty
-packFolder: deitiesasguardian
+description: "The Just of the Asguardian gods—law, sworn oaths, and combat fought by the honorable forms."
+tags: []
+data: {packFolder: deitiesasguardian}
 ---

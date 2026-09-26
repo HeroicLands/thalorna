@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Noxious Fume
-  aliases:
-    - Mephitis
-description: "Clouds of toxic gas causing illness and disorientation."
 shortcode: nxfum
+name: {full: Noxious Fume, aliases: [Mephitis]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-anvilbdg
-  templatePriority: null
+description: "Clouds of toxic gas causing illness and disorientation."
+tags: []
+data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideros
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Mephitis
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Mephitis
 ---
 
 The caster gestures toward a metallic surface—a coin, a weapon, a piece of ore—and draws forth the poisonous vapors that metals naturally produce when heated or chemically agitated, concentrating and amplifying them into a visible cloud of acrid, yellowish-green gas. The fumes sting the eyes, burn the throat, and induce violent coughing, nausea, and disorientation in anyone who breathes them. Prolonged exposure causes dizziness, headaches, and eventually unconsciousness.

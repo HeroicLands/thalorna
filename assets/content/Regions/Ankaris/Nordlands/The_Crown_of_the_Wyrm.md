@@ -1,22 +1,11 @@
 ---
-tags:
-  - artifact
-  - regalia
-  - nordlands
-description: "One of the three regalia of Gróa's quest—a crown of the wyrm, required with the Horn and the Spear to work the Ritual of Binding against Njörven."
-type: miscgear
-name:
-  full: The Crown of the Wyrm
-  aliases: []
 shortcode: crwnwyrm
-packFolder: nordlands
-data:
-  templatePriority: null
-sohl:
-  system:
-    weightBase: 3
-    valueBase: 0
-    durabilityBase: 15
+name: {full: The Crown of the Wyrm, aliases: []}
+type: miscgear
+description: "One of the three regalia of Gróa's quest—a crown of the wyrm, required with the Horn and the Spear to work the Ritual of Binding against Njörven."
+tags: [artifact, regalia, nordlands]
+data: {templatePriority: null, packFolder: nordlands}
+sohl: {system: {weightBase: 3, valueBase: 0, durabilityBase: 15}}
 ---
 
 One of the **three regalia** that Gróa's visions name as necessary to seal away

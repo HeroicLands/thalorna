@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Clarity
-  aliases:
-    - Insight
-description: "Reveals truth; strips away glamour and shows reality plainly."
 shortcode: clarity
+name: {full: Clarity, aliases: [Insight]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-divination
-  templatePriority: null
+description: "Reveals truth; strips away glamour and shows reality plainly."
+tags: []
+data: {icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pneumenos
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Insight
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Insight
 ---
 
 The caster turns their sharpened perception upon a person, object, or situation, and understanding arrives not through analysis but through a sudden, intuitive flash of insight. Hidden connections become obvious. Concealed motivations reveal themselves. The significance of an overlooked detail suddenly snaps into focus with the clarity of a puzzle piece finding its place. The caster perceives not just what is present but what it means.

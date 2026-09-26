@@ -1,17 +1,11 @@
 ---
-tags:
-  - draft
-  - nyaluba
+shortcode: eaglengonzispr
+name: {full: Eagle Spirit, aliases: [The Eagle Guide, Eagle of the Ngonzi]}
 type: lore
 subType: spirit
 description: "The eagle-guide of the Ngonzi as a being—the carrier between worlds, and the only guide that deals routinely with the stone-builder dead."
-name:
-  full: Eagle Spirit
-  aliases:
-    - The Eagle Guide
-    - Eagle of the Ngonzi
-shortcode: eaglengonzispr
-packFolder: lorespiritsnyaluba
+tags: [draft, nyaluba]
+data: {packFolder: lorespiritsnyaluba}
 ---
 
 The totemic being venerated by the [[affiliation-nylbtrblntn|Ngonzi]]. For the cult, its

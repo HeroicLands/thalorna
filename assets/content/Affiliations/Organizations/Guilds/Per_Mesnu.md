@@ -1,12 +1,5 @@
 ---
-tags:
-  - organization
-  - takheperu
-  - xerathia
-  - guild
-  - metalwork
-  - smiths
-description: "Per-Aá's chartered guild of Ta'Kheperan smiths, armorers, and weaponcrafters—heirs to the ancient Mesnu, the harpoon-makers of Horus, and the empire's arms-makers in fact."
+shortcode: permesnu
 name:
   full: Per'Mesnu
   aliases:
@@ -14,9 +7,10 @@ name:
     - The Ta'Kheperu Metalworkers' Guild
     - The Smith-House of the Per-Aá
     - Ta'Kheperu Metalworkers' Guild
-shortcode: permesnu
 type: affiliation
 subType: guild
+description: "Per-Aá's chartered guild of Ta'Kheperan smiths, armorers, and weaponcrafters—heirs to the ancient Mesnu, the harpoon-makers of Horus, and the empire's arms-makers in fact."
+tags: [organization, takheperu, xerathia, guild, metalwork, smiths]
 data:
   templatePriority: null
   demonym: null
@@ -25,8 +19,7 @@ data:
   governance:
     model: council
     summary: >-
-      A chartered guild of Ta'Kheperan smiths, elevated from initiate to Great Smith through
-      temple rite, governed by the Council of Smiths under its First Smith.
+      A chartered guild of Ta'Kheperan smiths, elevated from initiate to Great Smith through temple rite, governed by the Council of Smiths under its First Smith.
     ranks:
       - level: 0
         title: Revoked Seal
@@ -37,49 +30,38 @@ data:
         title: Initiate
         lore: initiaternk
         description: >-
-          Sebau—admitted between ten and fourteen after demonstrating suitable physical
-          strength, serving at the bellows and charcoal pit for two to three years before
-          being permitted near the metal itself.
+          Sebau—admitted between ten and fourteen after demonstrating suitable physical strength, serving at the bellows and charcoal pit for two to three years before being permitted near the metal itself.
       - level: 2
         title: Apprentice
         lore: apprenticernk
         description: >-
-          Sba—three to seven years of training under a single master, in forge management,
-          basic shapes and the disciplines of copper and bronze.
+          Sba—three to seven years of training under a single master, in forge management, basic shapes and the disciplines of copper and bronze.
       - level: 2
         title: Journeyman
         lore: journeymanrnk
         description: >-
-          Hemty—qualified by examination, permitted to work independently on civilian
-          commissions under a master's seal.
+          Hemty—qualified by examination, permitted to work independently on civilian commissions under a master's seal.
       - level: 3
         title: Master
         lore: masterrnk
         description: >-
-          Hem-Mesnu—promoted by senior vote after a presented original work, permitted to seal
-          weapons and armor for imperial commissions, take apprentices and sit on chapter
-          councils.
+          Hem-Mesnu—promoted by senior vote after a presented original work, permitted to seal weapons and armor for imperial commissions, take apprentices and sit on chapter councils.
       - level: 4
         title: Great Smith
         lore: councillorrnk
         description: >-
-          Wer-Mesnu—the most senior masters, convened as the Council of Smiths, advising the
-          Per-Aá's quartermasters and adjudicating guild disputes.
+          Wer-Mesnu—the most senior masters, convened as the Council of Smiths, advising the Per-Aá's quartermasters and adjudicating guild disputes.
     offices:
       First Smith of the Per-Aá: >-
-        Imy-Khent Mesnu—chair of the Council of Smiths, presently Khâfra Sebenmery, who
-        coordinates the guild's central affairs and its bargaining with the Per-Aá's court.
+        Imy-Khent Mesnu—chair of the Council of Smiths, presently Khâfra Sebenmery, who coordinates the guild's central affairs and its bargaining with the Per-Aá's court.
   seat: null
   domains: []
   population: null
-  economy:
-    - affiliation-magnumclgm
+  economy: [affiliation-magnumclgm]
   lore: []
   parents: []
   relations: {}
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 _Kheperi: "The House of the Mesnu"—the guild of metalworkers, after the ancient smith-harpooners who forged the weapons of Horus_

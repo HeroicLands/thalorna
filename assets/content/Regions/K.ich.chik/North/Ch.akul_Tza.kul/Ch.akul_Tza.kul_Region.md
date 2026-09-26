@@ -1,22 +1,18 @@
 ---
-tags:
-  - region
-description: "Sand seas, mesas and salt flats—the land of Ch'akul Tza'kul, the desert barrier at the southern edge of Northern K'ich'chik."
-name:
-  full: Ch'akul Tza'kul Region
-  aliases: []
 shortcode: chakultzklrgn
+name: {full: Ch'akul Tza'kul Region, aliases: []}
 type: place
 subType: region
+description: "Sand seas, mesas and salt flats—the land of Ch'akul Tza'kul, the desert barrier at the southern edge of Northern K'ich'chik."
+tags: [region]
 data:
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - nrthrnkchchk
+  lore: [humanflk]
+  parents: [nrthrnkchchk]
   population: null
-terran_analog: Southern California through Nevada, Arizona, and New Mexico deserts
-packFolder: chakultzakul
+  packFolder: chakultzakul
+
+# terran_analog: Southern California through Nevada, Arizona, and New Mexico deserts
 ---
 
 ## Overview

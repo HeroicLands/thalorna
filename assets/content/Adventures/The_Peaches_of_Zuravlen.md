@@ -1,23 +1,17 @@
 ---
-name:
-  full: The Peaches of Zûravlen
-  aliases: []
 shortcode: pechszrvln
+name: {full: The Peaches of Zûravlen, aliases: []}
 type: scenario
 subType: adventure
 data:
   parents: []
-  locations:
-    - zuravlenrgn
-    - provenzrgn
+  locations: [zuravlenrgn, provenzrgn]
   cast: []
   factions: []
   follows: []
   status: draft
-  party:
-    size: null
-    archetypes: []
-packFolder: adventures
+  party: {size: null, archetypes: []}
+  packFolder: adventures
 ---
 
 The orchards of [[place-zuravlenrgn|Zûravlen]] produce the finest peaches in [[place-provenzrgn|Provènzia Region]], but a curse has turned the fruit into a deadly poison. The party must uncover whether this is sabotage, magic, or something far stranger—while powerful interests fight to control the narrative.

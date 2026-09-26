@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: Preserving Hand
-  aliases: []
-description: "Arrests decay in a body or an object for as long as the working holds."
 shortcode: prsrvnghnd
+name: {full: Preserving Hand, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: khatnu
-  templatePriority: null
+description: "Arrests decay in a body or an object for as long as the working holds."
+tags: [khemenu-hekau, incantation]
+data: {icon: khatnu, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: khatnu
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-packFolder: hekauincantations
+    charges: {value: null, max: null}
 ---
 
 Worked on the dead between death and the embalming house, on documents, and on anything that must

@@ -1,12 +1,9 @@
 ---
-description: 'Textile city-state of southern Vedyára—"the City of Ten Thousand Looms," whose master-weaver guilds produce silks and cottons of patterns and dyes found nowhere else, traded to the courts of emperors and high priests across the known realms.'
-type: affiliation
-name:
-  full: Vyālendra City-State
-  aliases:
-    - Vyālendra
 shortcode: vyalendra2
+name: {full: Vyālendra City-State, aliases: [Vyālendra]}
+type: affiliation
 subType: polity
+description: 'Textile city-state of southern Vedyára—"the City of Ten Thousand Looms," whose master-weaver guilds produce silks and cottons of patterns and dyes found nowhere else, traded to the courts of emperors and high priests across the known realms.'
 data:
   templatePriority: null
   demonym: Vyālendri
@@ -15,34 +12,28 @@ data:
   governance:
     model: council
     summary: >-
-      The Loom-Council of the master weavers, which keeps no king. The chartered weaving guilds
-      hold its seats by loom-caste, raise a Speaker from among themselves for a term, and
-      govern production, trade and the city's civic life together.
+      The Loom-Council of the master weavers, which keeps no king. The chartered weaving guilds hold its seats by loom-caste, raise a Speaker from among themselves for a term, and govern production, trade and the city's civic life together.
     ranks:
       - level: 0
         title: Outcaste
         lore: excmmnctrnk
         description: >-
-          Placed outside the tharana by transgression or by birth, excluded from the wells,
-          the temples and the courts.
+          Placed outside the tharana by transgression or by birth, excluded from the wells, the temples and the courts.
       - level: 1
         title: Bonded Servant
         lore: bondservantrnk
         description: >-
-          Bound by debt or birth to a household, owing labor and lacking the standing to hold
-          land.
+          Bound by debt or birth to a household, owing labor and lacking the standing to hold land.
       - level: 2
         title: Karmāja
         lore: commonerrnk
         description: >-
-          Born to the serving tharana—cultivators, artisans and laborers who hold their place by
-          work rather than by rite.
+          Born to the serving tharana—cultivators, artisans and laborers who hold their place by work rather than by rite.
       - level: 3
         title: Dhanāja
         lore: gentryrnk
         description: >-
-          Born to the productive tharana—merchants, dyers and cloth-factors, whose houses carry the
-          city's trade and pay for its walls.
+          Born to the productive tharana—merchants, dyers and cloth-factors, whose houses carry the city's trade and pay for its walls.
       - level: 4
         title: Senāja
         lore: warriorrnk
@@ -52,50 +43,35 @@ data:
         title: Ritūja
         lore: priestrnk
         description: >-
-          Born to the priestly tharana, keeper of rite and learning, without whose sanction no act of
-          the Loom-Council is complete.
+          Born to the priestly tharana, keeper of rite and learning, without whose sanction no act of the Loom-Council is complete.
       - level: 6
         title: Loom-Master
         lore: masterrnk
         description: >-
-          A master of one of the chartered weaving guilds, holding his loom-caste's seat on the
-          Loom-Council and the right to take apprentices in his own name.
+          A master of one of the chartered weaving guilds, holding his loom-caste's seat on the Loom-Council and the right to take apprentices in his own name.
       - level: 7
         title: Speaker of the Loom-Council
         lore: prsdngffcrrnk
         description: >-
-          The master the Council raises to put its questions and declare what it has agreed. He
-          holds the office for a term and returns to his loom at the end of it.
+          The master the Council raises to put its questions and declare what it has agreed. He holds the office for a term and returns to his loom at the end of it.
     offices:
       Speaker of the Loom-Council: >-
-        The master who puts the Council's questions and declares what it has agreed, for a term
-        and never for life.
+        The master who puts the Council's questions and declares what it has agreed, for a term and never for life.
       Loom-Master: >-
-        A master of one of the chartered weaving guilds, holding his loom-caste's seat on the
-        Council and the dye-books and pattern-books of his line.
+        A master of one of the chartered weaving guilds, holding his loom-caste's seat on the Council and the dye-books and pattern-books of his line.
       Triyācārya: >-
-        Senior priest of the city's Trimūrti temple, who keeps the rites of all three forms and
-        whose sanction the Council's acts require.
+        Senior priest of the city's Trimūrti temple, who keeps the rites of all three forms and whose sanction the Council's acts require.
       Koshādhyaksha: >-
-        Superintendent of the city treasury, answerable for the cloth-tax, the warehouse dues
-        and the Council's reserve.
+        Superintendent of the city treasury, answerable for the cloth-tax, the warehouse dues and the Council's reserve.
       Dūta: >-
-        Envoy to a foreign court or a neighboring council, whose person is protected by custom
-        on both sides.
+        Envoy to a foreign court or a neighboring council, whose person is protected by custom on both sides.
       Commander of the Watch: >-
-        Captain of the city watch, by long custom a graduate of the Dhanurkota academies and by
-        as long a custom not a Vyālendri.
+        Captain of the city watch, by long custom a graduate of the Dhanurkota academies and by as long a custom not a Vyālendri.
   seat: vyalendra3
-  domains:
-    - vyalendraland
-    - vyalendra3
-    - nilatira
+  domains: [vyalendraland, vyalendra3, nilatira]
   population: 6000000
-  economy:
-    - affiliation-mrchntclctvvdyr
-    - lore-vdyrnbnkng
-  lore:
-    - vedyariclt
+  economy: [affiliation-mrchntclctvvdyr, lore-vdyrnbnkng]
+  lore: [vedyariclt]
   parents: []
   relations:
     varakpnthn: aligned
@@ -103,11 +79,8 @@ data:
     chandrapur: rival
     dhnrktjnpd: aligned
     rajaprjnpd: aligned
-packFolder: vedyara
-sohl:
-  system:
-    commonSkills:
-      - vedyarlng
+  packFolder: vedyara
+sohl: {system: {commonSkills: [vedyarlng]}}
 ---
 
 Vyālendra, "the City of Ten Thousand Looms," has long been the textile capital of southern Vedyara. Silk and cotton cloth woven here bear patterns and dyes unknown elsewhere, the result of centuries of refinement and closely guarded techniques passed from master weavers to their apprentices.

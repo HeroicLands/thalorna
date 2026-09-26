@@ -1,9 +1,6 @@
 ---
-name:
-  full: "Crime Syndicates"
 shortcode: crimesyndicates
+name: {full: "Crime Syndicates"}
 type: folder
-data:
-  parent: organizations
-  color: "#808080"
+data: {parent: organizations, color: "#808080"}
 ---

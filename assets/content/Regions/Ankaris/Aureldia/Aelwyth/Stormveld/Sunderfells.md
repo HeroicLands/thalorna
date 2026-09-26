@@ -1,22 +1,11 @@
 ---
-tags:
-  - region
-  - mountain
-  - frontier
-description: "Stormveld's southern mountain march—the northern arm of the Ironfells, holding the two passes that are the only ways between the Jarldom and Aldorath."
+shortcode: sunderfells
+name: {full: The Sunderfells, aliases: []}
 type: place
 subType: region
-data:
-  demonym: null
-  lore: []
-  parents:
-    - stormveld
-  population: 16000
-name:
-  full: The Sunderfells
-  aliases: []
-shortcode: sunderfells
-packFolder: aelwyth
+description: "Stormveld's southern mountain march—the northern arm of the Ironfells, holding the two passes that are the only ways between the Jarldom and Aldorath."
+tags: [region, mountain, frontier]
+data: {demonym: null, lore: [], parents: [stormveld], population: 16000, packFolder: aelwyth}
 ---
 
 The **Sunderfells** are Stormveld's southern march: the northern arm of the [[place-ironfells|Ironfells]]

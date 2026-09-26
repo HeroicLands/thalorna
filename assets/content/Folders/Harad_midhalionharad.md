@@ -1,9 +1,6 @@
 ---
-name:
-  full: "Harad"
 shortcode: midhalionharad
+name: {full: "Harad"}
 type: folder
-data:
-  parent: ankarismidhalion
-  color: "#66CDAA"
+data: {parent: ankarismidhalion, color: "#66CDAA"}
 ---

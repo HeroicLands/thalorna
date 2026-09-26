@@ -1,22 +1,17 @@
 ---
-tags:
-  - region
-description: "The southern gold-road; mines, caravan-stations, and tribute-collection—the land of the Nome of Wawat, one of the border nomes of Ta'Kheperu."
-name:
-  full: Wawat Nome
-  aliases: []
 shortcode: wawatnome
+name: {full: Wawat Nome, aliases: []}
 type: place
 subType: region
+description: "The southern gold-road; mines, caravan-stations, and tribute-collection—the land of the Nome of Wawat, one of the border nomes of Ta'Kheperu."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 260000
-packFolder: bordernomes
+  packFolder: bordernomes
 ---
 
 ## Overview

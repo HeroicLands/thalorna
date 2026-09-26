@@ -1,22 +1,18 @@
 ---
-tags:
-  - region
-description: "The limestone lowlands of cenotes, jungle and coral coast that are the land of K'ankul, in Central K'ich'chik."
-name:
-  full: K'ankul Region
-  aliases: []
 shortcode: kankulrgn
+name: {full: K'ankul Region, aliases: []}
 type: place
 subType: region
+description: "The limestone lowlands of cenotes, jungle and coral coast that are the land of K'ankul, in Central K'ich'chik."
+tags: [region]
 data:
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - cntrlkchchk
+  lore: [humanflk]
+  parents: [cntrlkchchk]
   population: null
-terran_analog: Yucatan Mexico and southern mexico through Honduras
-packFolder: kankul
+  packFolder: kankul
+
+# terran_analog: Yucatan Mexico and southern mexico through Honduras
 ---
 
 ## Overview

@@ -1,11 +1,9 @@
 ---
-description: "Vedyara's preeminent center of gemcraft and jewelry, standing marble-bright on the Chandramahī River—artisans whose work commands prices across the known realms."
-type: affiliation
-name:
-  full: Chandrapur
-  aliases: []
 shortcode: chandrapur
+name: {full: Chandrapur, aliases: []}
+type: affiliation
 subType: polity
+description: "Vedyara's preeminent center of gemcraft and jewelry, standing marble-bright on the Chandramahī River—artisans whose work commands prices across the known realms."
 data:
   templatePriority: null
   demonym: Chandrapuri
@@ -14,100 +12,75 @@ data:
   governance:
     model: monarchy
     summary: >-
-      A hereditary Mahārāja of the Moon House, confirmed by the temples of the Varnaka, seated
-      at the head of a court the nine merchant-prince houses fill and the temple patrons
-      moderate.
+      A hereditary Mahārāja of the Moon House, confirmed by the temples of the Varnaka, seated at the head of a court the nine merchant-prince houses fill and the temple patrons moderate.
     ranks:
       - level: 0
         title: Outcaste
         lore: excmmnctrnk
         description: >-
-          Placed outside the tharana by transgression or by birth, excluded from the wells,
-          the temples and the courts.
+          Placed outside the tharana by transgression or by birth, excluded from the wells, the temples and the courts.
       - level: 1
         title: Bonded Servant
         lore: bondservantrnk
         description: >-
-          Bound by debt or birth to a household, owing labor and lacking the standing to hold
-          land.
+          Bound by debt or birth to a household, owing labor and lacking the standing to hold land.
       - level: 2
         title: Karmāja
         lore: commonerrnk
         description: >-
-          Born to the serving tharana—cultivators, artisans and laborers who hold their place by
-          work rather than by rite.
+          Born to the serving tharana—cultivators, artisans and laborers who hold their place by work rather than by rite.
       - level: 3
         title: Dhanāja
         lore: gentryrnk
         description: >-
-          Born to the productive tharana—merchants, herders and landholders, whose wealth sustains
-          the court and its temples.
+          Born to the productive tharana—merchants, herders and landholders, whose wealth sustains the court and its temples.
       - level: 4
         title: Senāja
         lore: warriorrnk
         description: >-
-          Born to the warrior tharana, bearing arms by right and owing service in the Mahārāja's host
-          and aboard the galleys of his fleet.
+          Born to the warrior tharana, bearing arms by right and owing service in the Mahārāja's host and aboard the galleys of his fleet.
       - level: 5
         title: Ritūja
         lore: priestrnk
         description: >-
-          Born to the priestly tharana, keeper of rite and learning, without whose sanction no royal
-          act is complete.
+          Born to the priestly tharana, keeper of rite and learning, without whose sanction no royal act is complete.
       - level: 6
         title: Kulina
         lore: greatlordrnk
         description: >-
-          The head of one of the Nine Houses, holding his seat at court by his house's charter
-          and the temples' confirmation rather than by any grant of land.
+          The head of one of the Nine Houses, holding his seat at court by his house's charter and the temples' confirmation rather than by any grant of land.
       - level: 7
         title: Royal Kin
         lore: heirrnk
         description: >-
-          Of the Mahārāja's house by blood or marriage, eligible for the throne and its
-          regencies.
+          Of the Mahārāja's house by blood or marriage, eligible for the throne and its regencies.
       - level: 8
         title: Mahārāja
         lore: sovereignrnk
         description: >-
-          The great king himself, raised by descent, confirmed by the temples, and seated at the
-          head of the court the Nine Houses fill.
+          The great king himself, raised by descent, confirmed by the temples, and seated at the head of the court the Nine Houses fill.
     offices:
       Mahārāja: >-
-        The great king of the Moon House, ruling by descent and confirmed by the rites the
-        Varnaka ushtakas perform.
+        The great king of the Moon House, ruling by descent and confirmed by the rites the Varnaka ushtakas perform.
       Rājñī: The chief queen, holding her own revenues, household and voice at court.
       Yuvarāja: >-
-        The designated heir, commonly given the customs of the river mouth to govern as his
-        apprenticeship.
+        The designated heir, commonly given the customs of the river mouth to govern as his apprenticeship.
       Purohita: Royal chaplain, who performs the rites on which the king's legitimacy rests.
       Koshādhyaksha: >-
         Superintendent of the treasury, answerable for revenue, the gem-assay and the mint.
       Dūta: >-
-        Envoy to a foreign court, whose person is protected by custom on both sides of the
-        passes.
+        Envoy to a foreign court, whose person is protected by custom on both sides of the passes.
       Ganaka: >-
         Court astrologer, fixing the auspicious hour for sailings, marriages and coronations.
       Kulina: >-
-        Head of one of the Nine Houses, holding one of the nine seats at court, the charters of
-        his own trade and the quarter of the city his house has always kept.
+        Head of one of the Nine Houses, holding one of the nine seats at court, the charters of his own trade and the quarter of the city his house has always kept.
       Nau-senāpati: >-
-        Commander of the fleet, who answers for the river mouth and the coast and lets the
-        galleys out by the sailing season.
+        Commander of the fleet, who answers for the river mouth and the coast and lets the galleys out by the sailing season.
   seat: chandrapur2
-  domains:
-    - chandrapurland
-    - chandrapur2
-    - chandrmukha
-    - greatbazaar
-    - moonhouse
-    - ganakahall
+  domains: [chandrapurland, chandrapur2, chandrmukha, greatbazaar, moonhouse, ganakahall]
   population: 6000000
-  economy:
-    - affiliation-mrchntclctvvdyr
-    - lore-vdyrnbnkng
-  lore:
-    - vedyariclt
+  economy: [affiliation-mrchntclctvvdyr, lore-vdyrnbnkng]
+  lore: [vedyariclt]
   parents: []
   relations:
     varakpnthn: aligned
@@ -115,11 +88,8 @@ data:
     vyalendra2: rival
     dhnrktjnpd: aligned
     rajaprjnpd: aligned
-packFolder: vedyara
-sohl:
-  system:
-    commonSkills:
-      - vedyarlng
+  packFolder: vedyara
+sohl: {system: {commonSkills: [vedyarlng]}}
 ---
 
 Chandrapur, the "Moon City," is Vedyara's foremost center of gemcraft and jewelry. Its fame rests on its jewelers, whose work commands prices across all the known realms. Royal courts from Provènzia to Tānvür commission pieces from Chandrapur's master craftspeople, and its merchant families have gathered wealth over generations.

@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Brilliance
-  aliases:
-    - Flash
-description: "Caster radiates blinding white light; sears vision of those nearby."
 shortcode: brllnc
+name: {full: Brilliance, aliases: [Flash]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
+description: "Caster radiates blinding white light; sears vision of those nearby."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Flash
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Flash
 ---
 
 The caster claps both hands together and a sphere of searing white light erupts from the point of contact, expanding in a silent, concussive wave that strips color from the world for every onlooker within its compass. Eyes that were open at the moment of ignition are flooded with a painful after-image—a negative silhouette of everything in the field of view—that persists for several heartbeats, during which the afflicted can neither read a blade's trajectory nor place a sure foot on uneven ground.

@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: Green Rising
-  aliases: []
-description: "Accelerates the growth of living plants to a stated stage."
 shortcode: grnrsng
+name: {full: Green Rising, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: ankhkemet
-  templatePriority: null
+description: "Accelerates the growth of living plants to a stated stage."
+tags: [khemenu-hekau, incantation]
+data: {icon: ankhkemet, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: ankhkemet
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-packFolder: hekauincantations
+    charges: {value: null, max: null}
 ---
 
 Brings a crop forward by weeks, at the cost of the soil, which is exhausted afterward in

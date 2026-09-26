@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Repair
-  aliases:
-    - Mend
-description: "Mends broken objects; restores structures to working condition."
 shortcode: repair
+name: {full: Repair, aliases: [Mend]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-anvilbdg
-  templatePriority: null
+description: "Mends broken objects; restores structures to working condition."
+tags: []
+data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideros
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Mend
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Mend
 ---
 
 The caster handles a damaged metal object and channels a trickle of restorative energy into it. Cracks seal, dents smooth, and tarnish dissolves as the metal remembers its original form and gradually returns to it. A chipped blade regains its edge. A buckled hinge straightens. A corroded lock mechanism cleans itself of rust and moves freely once more. The repair follows the object's own grain and structure, restoring it to its manufactured state rather than imposing a new form.

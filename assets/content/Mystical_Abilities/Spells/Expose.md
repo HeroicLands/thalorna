@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Expose
-  aliases:
-    - Reveal
-description: "Reveals hidden things; penetrates concealment and shows true nature."
 shortcode: expose
+name: {full: Expose, aliases: [Reveal]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
+description: "Reveals hidden things; penetrates concealment and shows true nature."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Reveal
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Reveal
 ---
 
 The caster's eyes take on a faint silvery sheen as they speak a word of unveiling, and the world shifts subtly in their perception. Illusions grow translucent, revealing the mundane reality beneath. Invisible creatures appear as faint outlines wreathed in the telltale shimmer of whatever magic conceals them. Hidden magical traps reveal themselves as pulsing knots of constrained energy, their trigger mechanisms laid bare.

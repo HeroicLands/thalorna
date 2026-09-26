@@ -1,19 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: The Pain-Breaker
-  aliases:
-    - Traumashield Elixir
-description: "Luminescent draft; hardens resilience against shock and suffering."
 shortcode: elxtrm
+name: {full: The Pain-Breaker, aliases: [Traumashield Elixir]}
 type: concoctiongear
 subType: elixir
-hmk:
-  name: Traumashield
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "Luminescent draft; hardens resilience against shock and suffering."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "na"
     strength: 0
-packFolder: elixirs
+
+# hmk:
+#   name: Traumashield
 ---
 
 A Traumashield Elixir glows with a protective luminescence, its inner light echoing with barely perceptible whispers, and carries a metallic taste like fresh blood mixed with balm. Drawn from the Principle of Death (Physéra), this paradoxical elixir hardens the imbiber's resilience to shock and suffering. When the imbiber makes a Shock Roll, they gain a d10 roll against a TN equal to the elixir's current AS; success simultaneously reduces both the incoming Shock Index and the elixir's AS by 1.

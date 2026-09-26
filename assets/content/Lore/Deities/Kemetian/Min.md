@@ -1,13 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: mindty
+name: {full: Min, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Min
-  aliases: []
-shortcode: mindty
-packFolder: deitieskemetian
+tags: [draft]
+data: {packFolder: deitieskemetian}
 ---
 
 _The Fertility-God._

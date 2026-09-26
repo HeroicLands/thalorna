@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Haven
-  aliases:
-    - Pocket
-description: "Caster creates safe space; location becomes sanctuary from magic."
 shortcode: haven
+name: {full: Haven, aliases: [Pocket]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
+description: "Caster creates safe space; location becomes sanctuary from magic."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Pocket
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Pocket
 ---
 
 The caster presses both palms together and then draws them apart, stretching a membrane of compressed air into a translucent bubble that seals around the designated subject. Inside, the air is clean, dry, and pleasantly temperate regardless of external conditions—a pocket of calm amid choking smoke, toxic fumes, or the crushing pressure of deep water. The bubble admits light freely, so visibility is unimpaired, and its surface flexes slightly with movement, permitting the occupant to walk, swim, or climb without restriction.

@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Enchant
-  aliases:
-    - Charm
-description: "Imbues object with magic; grants it power or special property."
 shortcode: enchant
+name: {full: Enchant, aliases: [Charm]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-anvilbdg
-  templatePriority: null
+description: "Imbues object with magic; grants it power or special property."
+tags: []
+data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideros
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Charm
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Charm
 ---
 
 The caster holds a metallic object and imbues it with an alluring glamour that makes it appear more beautiful, valuable, and desirable than it actually is. A plain iron ring seems to gleam with the luster of fine gold. A common steel blade appears to be a weapon of exquisite craftsmanship, its edge catching the light with an almost hypnotic beauty. Those who behold the enchanted object feel an irrational attraction to it—a desire to possess, examine, or simply admire it.

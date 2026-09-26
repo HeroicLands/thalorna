@@ -1,18 +1,10 @@
 ---
-tags:
-  - varnaka
-  - faith-skill
+shortcode: kalavrata
+name: {full: "Ritual: Kālavrata", aliases: [Kālavrata, Kalavrata, The Gatekeeper of Death]}
 type: skill
 subType: mystical
-shortcode: kalavrata
-name:
-  full: "Ritual: Kālavrata"
-  aliases:
-    - Kālavrata
-    - Kalavrata
-    - The Gatekeeper of Death
-data:
-  templatePriority: null
+tags: [varnaka, faith-skill]
+data: {templatePriority: null, packFolder: varnaka}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -21,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: varnaka
 ---
 
 ## Ritual: Kālavrata

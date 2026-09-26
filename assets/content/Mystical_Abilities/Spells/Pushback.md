@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Pushback
-  aliases:
-    - Repel
-description: "Force blast knocks enemies away; may stun or disorient."
 shortcode: pushback
+name: {full: Pushback, aliases: [Repel]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-anvilbdg
-  templatePriority: null
+description: "Force blast knocks enemies away; may stun or disorient."
+tags: []
+data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideros
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Repel
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Repel
 ---
 
 The caster extends their palm and releases a surge of concussive force that slams outward in a broad wave, shoving everything in its path away from the caster with the irresistible momentum of a swinging battering ram. Opponents stagger backward, lose their footing, and are driven away from the caster's position. Loose objects fly outward. Projectiles in mid-flight are deflected or reversed. The force is invisible but unmistakable in its effect.

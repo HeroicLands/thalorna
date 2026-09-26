@@ -1,19 +1,11 @@
 ---
-tags:
-  - strong-elixir
-name:
-  full: Cinder Kiss
-  aliases:
-    - Potion, Aphrodisiac, Strong
-description: "Deep crimson concentrated preparation; ignites passion and desire."
 shortcode: ptnaphrs
+name: {full: Cinder Kiss, aliases: ["Potion, Aphrodisiac, Strong"]}
 type: concoctiongear
 subType: exotic
-hmk:
-  name: "Potion, Aphrodisiac, Strong"
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "Deep crimson concentrated preparation; ignites passion and desire."
+tags: [strong-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: strong}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "strong"
     strength: 0
-packFolder: strong
+
+# hmk:
+#   name: "Potion, Aphrodisiac, Strong"
 ---
 
 Deep crimson as fresh blood mixed with wine, this concentrated preparation seems to pulse with vitality in its crystal vial. The perfume that rises from the stopper is intoxicating—night-blooming jasmine, sweet amber, and the exotic warmth of distant spices all layered into a single breath-stealing note. Even a small sip floods the mouth with silken heat; the sensation spreads with startling speed through the body, raising the skin's temperature and quickening the heartbeat. The drinker's pupils dilate, and an almost visible aura of magnetism seems to gather around them.

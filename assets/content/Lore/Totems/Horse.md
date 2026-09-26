@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The horse as a totemic ideal, and the human character it describes."
+shortcode: horsettm
+name: {full: Horse, aliases: [Horse Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Horse
-  aliases:
-    - Horse Totem
-shortcode: horsettm
-packFolder: loretotems
-data:
-  banner: creaturebnr
+description: "The horse as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-horsetotem|Horse]]{float: top-left, size: medium}

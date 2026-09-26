@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: The Standing Servant
-  aliases: []
-description: "Animates a made body to perform work under continuous direction."
 shortcode: stndngsrvnt
+name: {full: The Standing Servant, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: khatnu
-  templatePriority: null
+description: "Animates a made body to perform work under continuous direction."
+tags: [khemenu-hekau, incantation]
+data: {icon: khatnu, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: khatnu
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
-packFolder: hekauincantations
+    charges: {value: null, max: null}
 ---
 
 Distinct from a shabti, which is bound and wakes alone: a standing servant does only what it is

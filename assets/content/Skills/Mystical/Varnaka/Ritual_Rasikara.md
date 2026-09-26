@@ -1,18 +1,10 @@
 ---
-tags:
-  - varnaka
-  - faith-skill
+shortcode: rasikara
+name: {full: "Ritual: Rásikara", aliases: [Rásikara, Rasikara, The Flame of Renewal]}
 type: skill
 subType: mystical
-shortcode: rasikara
-name:
-  full: "Ritual: Rásikara"
-  aliases:
-    - Rásikara
-    - Rasikara
-    - The Flame of Renewal
-data:
-  templatePriority: null
+tags: [varnaka, faith-skill]
+data: {templatePriority: null, packFolder: varnaka}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -21,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: varnaka
 ---
 
 ## Ritual: Rásikara

@@ -1,21 +1,11 @@
 ---
-tags:
-  - town
-  - fishing
-description: "Fishing Town"
+shortcode: brennvik
+name: {full: Brennvik, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - vald
-  population: 9000
-name:
-  full: Brennvik
-  aliases: []
-shortcode: brennvik
-packFolder: vylaria
+description: "Fishing Town"
+tags: [town, fishing]
+data: {demonym: null, lore: [], parents: [vald], population: 9000, packFolder: vylaria}
 ---
 
 ## Overview

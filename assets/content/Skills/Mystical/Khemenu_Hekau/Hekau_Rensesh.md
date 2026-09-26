@@ -1,17 +1,10 @@
 ---
-tags:
-  - khemenu-hekau
-  - draft
+shortcode: rensesh
+name: {full: "Hekau: Ren'sesh", aliases: [Per-Ren'sesh]}
 type: skill
 subType: mystical
-shortcode: rensesh
-name:
-  full: "Hekau: Ren'sesh"
-  aliases:
-    - Per-Ren'sesh
-data:
-  icon: rensesh
-  templatePriority: null
+tags: [khemenu-hekau, draft]
+data: {icon: rensesh, templatePriority: null, packFolder: khemenuhekau}
 sohl:
   system:
     skillBaseFormula: "@aur, @rea"
@@ -20,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: khemenuhekau
 ---
 
 See [[affiliation-rensesh|Per-Ren'sesh]]

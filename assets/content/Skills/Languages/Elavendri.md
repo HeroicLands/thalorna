@@ -1,17 +1,11 @@
 ---
-tags: []
-name:
-  full: Élavendri Language
-  aliases:
-    - Élavendri
-    - Elavendri
-description: "The settled speech of Élavendre, rich in words for magic, wilderness, and the fae—a daughter-tongue of old Áelendi."
 shortcode: elvndrlng
+name: {full: Élavendri Language, aliases: [Élavendri, Elavendri]}
 type: skill
 subType: language
-data:
-  icon: icon-speaking
-  templatePriority: null
+description: "The settled speech of Élavendre, rich in words for magic, wilderness, and the fae—a daughter-tongue of old Áelendi."
+tags: []
+data: {icon: icon-speaking, templatePriority: null, packFolder: language}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -20,10 +14,7 @@ sohl:
     combatCategory: none
     parentSkillCode: lang
     initSkillMult: 0
-packFolder: language
-flags:
-  "thalorna":
-    lang_family: Pelwar
+  flags: {"thalorna": {lang_family: Pelwar}}
 ---
 
 Élavendri is a tongue of the Pelwar family. Fluency measures the sophistication of expression in Élavendri, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.

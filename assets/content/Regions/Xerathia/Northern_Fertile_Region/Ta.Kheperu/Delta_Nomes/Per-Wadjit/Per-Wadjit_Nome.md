@@ -1,22 +1,17 @@
 ---
-tags:
-  - region
-description: "Papyrus marshes; fowling, reed-craft, and the empire's paper-cutting—the land of the Nome of Per-Wadjit, one of the delta nomes of Ta'Kheperu."
-name:
-  full: Per-Wadjit Nome
-  aliases: []
 shortcode: perwadjitnome
+name: {full: Per-Wadjit Nome, aliases: []}
 type: place
 subType: region
+description: "Papyrus marshes; fowling, reed-craft, and the empire's paper-cutting—the land of the Nome of Per-Wadjit, one of the delta nomes of Ta'Kheperu."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 650000
-packFolder: deltanomes
+  packFolder: deltanomes
 ---
 
 ## Overview

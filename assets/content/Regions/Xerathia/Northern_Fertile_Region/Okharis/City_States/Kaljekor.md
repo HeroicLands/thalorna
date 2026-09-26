@@ -1,22 +1,11 @@
 ---
-tags:
-  - port
-  - trading
-description: "Trading Port"
+shortcode: kaljekor
+name: {full: Kaljékor, aliases: [The Golden Flame]}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - okharisrgn
-  population: 35000
-name:
-  full: Kaljékor
-  aliases:
-    - The Golden Flame
-shortcode: kaljekor
-packFolder: citystates
+description: "Trading Port"
+tags: [port, trading]
+data: {demonym: null, lore: [], parents: [okharisrgn], population: 35000, packFolder: citystates}
 ---
 
 **meaning:** _The Golden Flame_

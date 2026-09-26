@@ -1,22 +1,17 @@
 ---
-name:
-  full: The Ghosts of Tîravlen
-  aliases: []
 shortcode: ghststrvln
+name: {full: The Ghosts of Tîravlen, aliases: []}
 type: scenario
 subType: adventure
 data:
   parents: []
-  locations:
-    - provenzrgn
+  locations: [provenzrgn]
   cast: []
   factions: []
   follows: []
   status: draft
-  party:
-    size: null
-    archetypes: []
-packFolder: adventures
+  party: {size: null, archetypes: []}
+  packFolder: adventures
 ---
 
 Lake Tîravel is haunted by the spirits of ancient warriors and a fallen king. The party must investigate the ghosts at the Blood-field of Tîravlen, where King Trédavar III fell centuries before the Founding, and uncover why the dead refuse to rest.

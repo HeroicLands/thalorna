@@ -1,22 +1,18 @@
 ---
-tags:
-  - region
-description: "Fertile river valleys, bottomlands and hardwood forest—the land of Ha'nal Xi'lan, the contested borderlands of Northern K'ich'chik."
-name:
-  full: Ha'nal Xi'lan Region
-  aliases: []
 shortcode: hanalxilanrgn
+name: {full: Ha'nal Xi'lan Region, aliases: []}
 type: place
 subType: region
+description: "Fertile river valleys, bottomlands and hardwood forest—the land of Ha'nal Xi'lan, the contested borderlands of Northern K'ich'chik."
+tags: [region]
 data:
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - nrthrnkchchk
+  lore: [humanflk]
+  parents: [nrthrnkchchk]
   population: null
-terran_analog: Central US west of Appalachian Mountains—Mississippi and Ohio River valleys
-packFolder: hanalxilan
+  packFolder: hanalxilan
+
+# terran_analog: Central US west of Appalachian Mountains—Mississippi and Ohio River valleys
 ---
 
 ## Overview

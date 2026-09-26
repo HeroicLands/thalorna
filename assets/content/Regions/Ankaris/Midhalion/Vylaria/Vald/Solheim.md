@@ -1,22 +1,11 @@
 ---
-tags:
-  - town
-  - pilgrimage
-  - draft
-description: "Pilgrimage Town"
+shortcode: solheim
+name: {full: Solheim, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - vald
-  population: 3000
-name:
-  full: Solheim
-  aliases: []
-shortcode: solheim
-packFolder: vylaria
+description: "Pilgrimage Town"
+tags: [town, pilgrimage, draft]
+data: {demonym: null, lore: [], parents: [vald], population: 3000, packFolder: vylaria}
 ---
 
 ## Overview

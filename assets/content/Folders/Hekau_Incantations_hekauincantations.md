@@ -1,8 +1,6 @@
 ---
-name:
-  full: "Hekau Incantations"
 shortcode: hekauincantations
+name: {full: "Hekau Incantations"}
 type: folder
-data:
-  parent: mysticalabilities
+data: {parent: mysticalabilities}
 ---

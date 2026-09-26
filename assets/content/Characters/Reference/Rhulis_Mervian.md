@@ -1,22 +1,14 @@
 ---
-tags:
-  - character
-  - reference
-name:
-  full: Rhúlis Mervian
-  title: Captain
-  given: Rhúlis
-  clan: Mervian
-  aliases: []
-description: "The garrison's senior irregular-war officer."
 shortcode: rhulismervian
+name: {full: Rhúlis Mervian, title: Captain, given: Rhúlis, clan: Mervian, aliases: []}
 type: being
+description: "The garrison's senior irregular-war officer."
+tags: [character, reference]
 data:
   species: humanflk
   templatePriority: null
   archetypes: []
   stations: []
   lore: []
-  homes:
-    - alyssa
+  homes: [alyssa]
 ---

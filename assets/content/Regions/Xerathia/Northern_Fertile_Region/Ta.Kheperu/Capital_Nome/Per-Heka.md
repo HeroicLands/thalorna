@@ -1,22 +1,17 @@
 ---
-tags:
-  - town
-  - temple
-description: "Temple-Estate Town"
+shortcode: perheka
+name: {full: Per-Heka, aliases: []}
 type: place
 subType: settlement
+description: "Temple-Estate Town"
+tags: [town, temple]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - wasetkaranome
+  parents: [wasetkaranome]
   population: 30000
-name:
-  full: Per-Heka
-  aliases: []
-shortcode: perheka
-packFolder: capitalnome
+  packFolder: capitalnome
 ---
 
 ## Overview

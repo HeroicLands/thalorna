@@ -1,22 +1,17 @@
 ---
-tags:
-  - region
-description: The inhabited country of the Kalihara continent—jungle lowlands, volcanic highlands and river valleys, held by a single civilization that has faced inward for ten thousand years.
-name:
-  full: Kalihara Region
-  aliases: []
 shortcode: kaliharargn
+name: {full: Kalihara Region, aliases: []}
 type: place
 subType: region
+description: The inhabited country of the Kalihara continent—jungle lowlands, volcanic highlands and river valleys, held by a single civilization that has faced inward for ten thousand years.
+tags: [region]
 data:
   icon: null
   demonym: Kaliharan
-  lore:
-    - humanflk
-  parents:
-    - klhrcntnnt
+  lore: [humanflk]
+  parents: [klhrcntnnt]
   population: 3000000
-packFolder: kalihara
+  packFolder: kalihara
 ---
 
 ## Overview

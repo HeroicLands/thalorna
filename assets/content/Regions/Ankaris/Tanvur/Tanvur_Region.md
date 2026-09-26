@@ -1,34 +1,28 @@
 ---
-tags:
-  - region
-description: The Tānvüri heartland—the mountain-guarded river basins and plains of Ankaris's far east, cradle of the Empire of Tānvür.
-name:
-  full: Tānvür Region
-  aliases:
-    - Tanvur
-    - Tānvür
 shortcode: tanvuregin
+name: {full: Tānvür Region, aliases: [Tanvur, Tānvür]}
 type: place
 subType: region
+description: The Tānvüri heartland—the mountain-guarded river basins and plains of Ankaris's far east, cradle of the Empire of Tānvür.
+tags: [region]
 data:
   icon: null
   demonym: Tānvüri
-  lore:
-    - humanflk
-  parents:
-    - ankrscntnnt
+  lore: [humanflk]
+  parents: [ankrscntnnt]
   borders:
-    - { to: khzryndsrtrgn, bearing: W }
-    - { to: vedyarargn, bearing: SW }
-    - { to: graznmntns, bearing: W }
+    - {to: khzryndsrtrgn, bearing: W}
+    - {to: vedyarargn, bearing: SW}
+    - {to: graznmntns, bearing: W}
   routes:
-    - { to: suryadvara, bearing: SW, mode: land, days: 30 }
-    - { to: jnanadvara, bearing: SW, mode: land, days: 45 }
-    - { to: sankhadvra, bearing: W, mode: land, days: 60 }
-    - { to: nilatira, bearing: SW, mode: ship, days: 45, terrain: [open-sea] }
+    - {to: suryadvara, bearing: SW, mode: land, days: 30}
+    - {to: jnanadvara, bearing: SW, mode: land, days: 45}
+    - {to: sankhadvra, bearing: W, mode: land, days: 60}
+    - {to: nilatira, bearing: SW, mode: ship, days: 45, terrain: [open-sea]}
   population: null
-terran_analog: "China, Korea, and mainland Southeast Asia (Vietnam, Laos, Thailand, Cambodia, Myanmar)—the great eastern imperial sphere of celestial bureaucracy, mountain-fringed river civilizations, and tributary kingdoms."
-packFolder: tanvur
+  packFolder: tanvur
+
+# terran_analog: "China, Korea, and mainland Southeast Asia (Vietnam, Laos, Thailand, Cambodia, Myanmar)—the great eastern imperial sphere of celestial bureaucracy, mountain-fringed river civilizations, and tributary kingdoms."
 ---
 
 The Tānvür Region is the far east of [[place-ankrscntnnt|Ankaris Continent]]—a vast, mountain-guarded expanse of river basins, temperate plains, and coastal lowlands that has for more than three millennia formed the cradle of [[affiliation-tanvurempr|Tānvüri civilization]]. Where the [[place-aureldirgn|Aurèldían]] west is a mosaic of sovereign kingdoms bound by shared faith, the Tānvür Region is the opposite: a single continuous civilizational order whose political expression is almost always imperial, whose caste system has outlasted every dynasty, and whose celestial bureaucracy understands its own land as the one place where cosmic order has been properly classified. Ankaris's west has no emperor and does not want one. Ankaris's east has had little else.

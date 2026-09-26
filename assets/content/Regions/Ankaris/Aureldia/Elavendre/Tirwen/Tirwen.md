@@ -1,22 +1,11 @@
 ---
-tags:
-  - region
-  - river
-  - inland
-description: "The heartland of Élavendre—the basin of the Bérav, holding Béravel, the University and the workshops where everything the kingdom is famous for is actually made."
+shortcode: tirwen
+name: {full: Tirwen, aliases: []}
 type: place
 subType: region
-data:
-  demonym: null
-  lore: []
-  parents:
-    - elavendre
-  population: 900000
-name:
-  full: Tirwen
-  aliases: []
-shortcode: tirwen
-packFolder: elavendre
+description: "The heartland of Élavendre—the basin of the Bérav, holding Béravel, the University and the workshops where everything the kingdom is famous for is actually made."
+tags: [region, river, inland]
+data: {demonym: null, lore: [], parents: [elavendre], population: 900000, packFolder: elavendre}
 ---
 
 **Tirwen**—_the fair land_—is the heartland of [[place-elavendre|Élavendre]]: the broad, green,

@@ -1,17 +1,12 @@
 ---
-tags:
-  - nkaruthar
-  - religion
+shortcode: njiayaroho
+name:
+  full: Njia ya Roho
+  aliases: [The Spirit Path, The Way of the Zohira, The Shamanic Tradition of Okháris]
 type: affiliation
 subType: spirittradition
 description: "The Okháric shamanic tradition—the mwalimu wa roho who are bound to the zohira by the Spirit Hunt, holding no rank in any temple and standing alongside the Eternal Flame rather than against it."
-name:
-  full: Njia ya Roho
-  aliases:
-    - The Spirit Path
-    - The Way of the Zohira
-    - The Shamanic Tradition of Okháris
-shortcode: njiayaroho
+tags: [nkaruthar, religion]
 data:
   templatePriority: null
   demonym: null
@@ -20,86 +15,61 @@ data:
   governance:
     model: council
     summary: >-
-      Not joined and not professed: every Okháric is of the spirits by being Okháric, and the
-      ladder measures only how far into that a person has gone. Standing above the common is
-      conferred by the Spirit Hunt and confirmed by the tribe; elders teach and judge readiness,
-      and nobody commands.
+      Not joined and not professed: every Okháric is of the spirits by being Okháric, and the ladder measures only how far into that a person has gone. Standing above the common is conferred by the Spirit Hunt and confirmed by the tribe; elders teach and judge readiness, and nobody commands.
     ranks:
       - level: 0
         title: Spirit-Deaf
         lore: outlawrnk
         description: >-
-          Cut off by the zohira and by those who speak with them, and no cairn in the country will
-          answer them again. This is not excommunication from a faith; it is expulsion from what
-          being Okháric consists of, and it is not recoverable.
+          Cut off by the zohira and by those who speak with them, and no cairn in the country will answer them again. This is not excommunication from a faith; it is expulsion from what being Okháric consists of, and it is not recoverable.
       - level: 1
         title: Of the People
         lore: kinsmanrnk
         description: >-
-          Every Okháric, from birth and without joining anything: keeping the local cairns, leaving
-          what the tribe's zohira are owed, and going to a shaman rather than speaking for
-          themselves. Nearly everyone, all their lives.
+          Every Okháric, from birth and without joining anything: keeping the local cairns, leaving what the tribe's zohira are owed, and going to a shaman rather than speaking for themselves. Nearly everyone, all their lives.
       - level: 2
         title: Candidate of the Hunt
         lore: initiaternk
         description: >-
-          Accepted to attempt the Spirit Hunt, and taught what can be taught beforehand; some
-          candidates do not return, and the tradition does not pretend otherwise.
+          Accepted to attempt the Spirit Hunt, and taught what can be taught beforehand; some candidates do not return, and the tradition does not pretend otherwise.
       - level: 3
         title: Mwalimu wa Roho
         lore: sprtspkrrnk
         description: >-
-          "Teacher of the spirit"—survived the Hunt and consumed the heart, bound to the zohira,
-          and able to commune with them, interpret their will and intercede for the people.
+          "Teacher of the spirit"—survived the Hunt and consumed the heart, bound to the zohira, and able to commune with them, interpret their will and intercede for the people.
       - level: 4
         title: Elder of the Spirit
         lore: elderrnk
         description: >-
-          Long bound and widely consulted; teaches candidates, judges who may attempt the Hunt, and
-          carries the tribe's account of its dealings with its zohira.
+          Long bound and widely consulted; teaches candidates, judges who may attempt the Hunt, and carries the tribe's account of its dealings with its zohira.
     offices:
       Elder of the Spirit: >-
-        Teacher of candidates and judge of who is ready to attempt the Spirit Hunt, which is the
-        only gate the tradition keeps.
+        Teacher of candidates and judge of who is ready to attempt the Spirit Hunt, which is the only gate the tradition keeps.
       Mwalimu wa Roho: >-
-        The tribe's shaman: communes with the zohira, interprets their will, and intercedes on the
-        people's behalf.
+        The tribe's shaman: communes with the zohira, interprets their will, and intercedes on the people's behalf.
       Master of the Hunt: >-
-        Conducts the Spirit Hunt—names the quarry, sets the ground, and receives the candidate
-        who returns.
+        Conducts the Spirit Hunt—names the quarry, sets the ground, and receives the candidate who returns.
       Keeper of a Cairn: >-
-        Tends one shrine and the zohira seated at it, and knows what that particular spirit will
-        accept.
+        Tends one shrine and the zohira seated at it, and knows what that particular spirit will accept.
       Interpreter of Signs: >-
-        Reads a zohira's answer where it is given in weather, water, beast or bone rather than in
-        words.
+        Reads a zohira's answer where it is given in weather, water, beast or bone rather than in words.
       Intercessor: >-
-        Carries a petition from the people to a zohira, and carries back what is required in
-        return.
+        Carries a petition from the people to a zohira, and carries back what is required in return.
       Blade-Singer: >-
-        Magara office: sings the bond between a Spirit Blade and the zohira within it, and judges
-        when a blade has chosen.
+        Magara office: sings the bond between a Spirit Blade and the zohira within it, and judges when a blade has chosen.
       Bone-Reader: >-
         Attends the dead and reads what the Oracle of Bones is understood to have written in them.
   seat: null
   domains: []
   population: null
   economy: []
-  lore:
-    - zohira
+  lore: [zohira]
   parents: []
-  relations:
-    nkaruthar: aligned
-packFolder: pantheonsnkaruthar
+  relations: {nkaruthar: aligned}
+  packFolder: pantheonsnkaruthar
 sohl:
   system:
-    commonSkills:
-      - mamamitosprt
-      - ngurumosprt
-      - kivulisprt
-      - orclbonessprt
-      - mzazisprt
-      - upangasprt
+    commonSkills: [mamamitosprt, ngurumosprt, kivulisprt, orclbonessprt, mzazisprt, upangasprt]
 ---
 
 The **Njia ya Roho**—the Spirit Path—is the shamanic tradition of the Okháric tribes: the

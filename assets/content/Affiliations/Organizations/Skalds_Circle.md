@@ -1,20 +1,12 @@
 ---
-tags:
-  - organization
-  - nordlands
-  - asguardian
-  - bardic
-  - memory
-description: "Pan-Nordlands fellowship of skalds—keepers of saga, kin-line, and the spoken record of every kingdom, hall, and free company across the north."
+shortcode: skaldscrcl
 name:
   full: The Skalds' Circle
-  aliases:
-    - Skaldahringr
-    - The Memory of the North
-    - The Skalds' Guild
-shortcode: skaldscrcl
+  aliases: [Skaldahringr, The Memory of the North, The Skalds' Guild]
 type: affiliation
 subType: fellowship
+description: "Pan-Nordlands fellowship of skalds—keepers of saga, kin-line, and the spoken record of every kingdom, hall, and free company across the north."
+tags: [organization, nordlands, asguardian, bardic, memory]
 data:
   templatePriority: null
   demonym: null
@@ -23,24 +15,20 @@ data:
   governance:
     model: democracy
     summary: >-
-      A voluntary association whose members decide its affairs and elect its officers for
-      a term.
+      A voluntary association whose members decide its affairs and elect its officers for a term.
     ranks:
       - level: 0
         title: Expelled
         lore: expelledrnk
-        description: Put out by vote of the members, with the fellowship's hospitality and its
-          company closed.
+        description: Put out by vote of the members, with the fellowship's hospitality and its company closed.
       - level: 1
         title: Guest
         lore: dependentrnk
-        description: Present by a member's invitation, welcome for the evening and party to
-          nothing.
+        description: Present by a member's invitation, welcome for the evening and party to nothing.
       - level: 2
         title: Member
         lore: swornmemberrnk
-        description: Admitted, paying the subscription and enjoying the fellowship's company
-          and its hall.
+        description: Admitted, paying the subscription and enjoying the fellowship's company and its hall.
       - level: 3
         title: Full Member
         lore: swornmemberrnk
@@ -52,17 +40,14 @@ data:
       - level: 5
         title: Officer
         lore: officerrnk
-        description: Elected to a charge of the fellowship—its purse, its records, its hall,
-          its charity.
+        description: Elected to a charge of the fellowship—its purse, its records, its hall, its charity.
       - level: 6
         title: Chair
         lore: councillorrnk
-        description: Presiding over the fellowship's meetings for a term, and holding nothing
-          else by it.
+        description: Presiding over the fellowship's meetings for a term, and holding nothing else by it.
     offices:
       Chair: >-
-        Presiding officer of the fellowship's meetings, elected for a term and holding nothing
-        else by it.
+        Presiding officer of the fellowship's meetings, elected for a term and holding nothing else by it.
       Secretary: Keeper of the roll, the minutes and the correspondence.
       Treasurer: Keeper of the subscriptions and of what the fellowship spends them on.
       Steward: Warden of the hall, its provision and the ordering of its gatherings.
@@ -75,9 +60,7 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 _Old Norse: Skaldahringr—"the Ring of the Skalds"_

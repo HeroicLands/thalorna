@@ -1,26 +1,20 @@
 ---
-tags: []
-name:
-  full: Flame
-  aliases: []
-description: "Conjures bright persistent flame; ignites targets or illuminates darkness."
 shortcode: flame
+name: {full: Flame, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-firebdg
-  templatePriority: null
+description: "Conjures bright persistent flame; ignites targets or illuminates darkness."
+tags: []
+data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Flame
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Flame
 ---
 
 The caster snaps their fingers or makes a small gesture, and a tongue of fire springs to life—dancing above their palm, perched on a fingertip, or hovering at a designated point. The flame burns without fuel, its size and intensity fully under the caster's control, from a candle's gentle flicker to a roaring campfire's warmth. It provides steady light and heat, responds to the caster's mental direction, and persists as long as concentration is maintained.

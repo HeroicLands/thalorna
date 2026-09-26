@@ -1,22 +1,18 @@
 ---
-tags:
-  - region
-description: "The land of the Jarldom of Stormveld—the fjord-cut north-east of Aelwyth, a fifth of the island, held by the Vardain as Vardanreach before the Nordmen took it."
-name:
-  full: Stormveld
-  aliases: []
 shortcode: stormveld
+name: {full: Stormveld, aliases: []}
 type: place
 subType: region
+description: "The land of the Jarldom of Stormveld—the fjord-cut north-east of Aelwyth, a fifth of the island, held by the Vardain as Vardanreach before the Nordmen took it."
+tags: [region]
 data:
   demonym: Stormvelder
-  lore:
-    - humanflk
-  parents:
-    - aelwyth
+  lore: [humanflk]
+  parents: [aelwyth]
   population: 150000
-terran_analog: "Northeastern Scotland—the fjord-cut Highland coast (Caithness, Sutherland, Orkney-and-Shetland-analog islands), heavily Norse-settled and culturally tied to its kindred kingdom across the cold sea. The northeastern tip of the eastern arm of the inverted-V Aelwythan island."
-packFolder: aelwyth
+  packFolder: aelwyth
+
+# terran_analog: "Northeastern Scotland—the fjord-cut Highland coast (Caithness, Sutherland, Orkney-and-Shetland-analog islands), heavily Norse-settled and culturally tied to its kindred kingdom across the cold sea. The northeastern tip of the eastern arm of the inverted-V Aelwythan island."
 ---
 
 ## Overview

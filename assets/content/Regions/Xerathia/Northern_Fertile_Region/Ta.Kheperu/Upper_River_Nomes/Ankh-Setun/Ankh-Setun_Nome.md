@@ -1,22 +1,17 @@
 ---
-tags:
-  - region
-description: "The great granary of Ta'Kheperu—the broad flood-silt wheatlands, deep granaries and river-port of the empire's fullest storehouse, the land of the Nome of Ankh-Setûn."
-name:
-  full: Ankh-Setûn Nome
-  aliases: []
 shortcode: ankhsetunnome
+name: {full: Ankh-Setûn Nome, aliases: []}
 type: place
 subType: region
+description: "The great granary of Ta'Kheperu—the broad flood-silt wheatlands, deep granaries and river-port of the empire's fullest storehouse, the land of the Nome of Ankh-Setûn."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: Kheperi
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 800000
-packFolder: ankhsetun
+  packFolder: ankhsetun
 ---
 
 ## Overview

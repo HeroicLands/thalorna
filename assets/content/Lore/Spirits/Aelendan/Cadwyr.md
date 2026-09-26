@@ -1,15 +1,11 @@
 ---
-tags:
-  - draft
-  - first-gods
+shortcode: cadwyrspr
+name: {full: "Cadwyr, the Grey Wolf of the Ridge", aliases: []}
 type: lore
 subType: spirit
 description: "Presiding wolf-spirit of a ridge in the Drenavar Spine—the hunt-rite's usual addressee, and a hard reciprocator."
-name:
-  full: Cadwyr, the Grey Wolf of the Ridge
-  aliases: []
-shortcode: cadwyrspr
-packFolder: lorespiritsaelendan
+tags: [draft, first-gods]
+data: {packFolder: lorespiritsaelendan}
 ---
 
 - **Kind:** Animal-kin, of [[lore-thekindred|the Kindred]]

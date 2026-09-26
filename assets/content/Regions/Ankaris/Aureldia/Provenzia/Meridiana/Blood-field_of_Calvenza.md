@@ -1,20 +1,11 @@
 ---
-tags:
-  - coastal
-description: "A silent blood-field above the warm southern shore, where nothing sings and nothing will settle, in the middle of the most prosperous country in the kingdom."
+shortcode: bldfldcalvenza
+name: {full: Blood-field of Calvènza, aliases: []}
 type: place
 subType: site
-data:
-  demonym: null
-  lore: []
-  parents:
-    - meridiana
-  population: null
-name:
-  full: Blood-field of Calvènza
-  aliases: []
-shortcode: bldfldcalvenza
-packFolder: provenzia
+description: "A silent blood-field above the warm southern shore, where nothing sings and nothing will settle, in the middle of the most prosperous country in the kingdom."
+tags: [coastal]
+data: {demonym: null, lore: [], parents: [meridiana], population: null, packFolder: provenzia}
 ---
 
 Above the warm sandy coast of the south, in the richest and most comfortable country in Provènzia,

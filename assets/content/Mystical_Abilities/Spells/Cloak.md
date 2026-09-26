@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Cloak
-  aliases:
-    - Shroud
-description: "Renders wearer indistinct; observers overlook them despite presence."
 shortcode: cloak
+name: {full: Cloak, aliases: [Shroud]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-anvilbdg
-  templatePriority: null
+description: "Renders wearer indistinct; observers overlook them despite presence."
+tags: []
+data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideros
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Shroud
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Shroud
 ---
 
 The caster draws metallic dust and mineral particles from the surrounding environment, swirling them into a dense cloud that settles over the target like a living garment. The particles constantly shift and realign, matching the colors and textures of the immediate background with remarkable fidelity. The cloaked individual blends into their surroundings—not truly invisible, but so well camouflaged that they are extremely difficult to spot unless they move suddenly or the observer knows exactly where to look.

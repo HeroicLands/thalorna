@@ -1,17 +1,10 @@
 ---
-tags:
-  - ashalan
-  - faith-skill
-  - draft
+shortcode: azravan
+name: {full: "Ritual: Ázráván", aliases: [Lord of the Final Horizon]}
 type: skill
 subType: mystical
-shortcode: azravan
-name:
-  full: "Ritual: Ázráván"
-  aliases:
-    - Lord of the Final Horizon
-data:
-  templatePriority: null
+tags: [ashalan, faith-skill, draft]
+data: {templatePriority: null, packFolder: ashalan}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -20,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: ashalan
 ---
 
 See [[affiliation-azravan|Faith of Ázráván]]

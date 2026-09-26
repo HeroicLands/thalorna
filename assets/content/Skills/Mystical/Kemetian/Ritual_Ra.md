@@ -1,20 +1,10 @@
 ---
-tags:
-  - kemetian
-  - faith-skill
-  - draft
+shortcode: ra
+name: {full: "Ritual: Rā", aliases: [The Solar Flame, Rā, Ra]}
 type: skill
 subType: mystical
-shortcode: ra
-name:
-  full: "Ritual: Rā"
-  aliases:
-    - The Solar Flame
-    - Rā
-    - Ra
-data:
-  icon: ra
-  templatePriority: null
+tags: [kemetian, faith-skill, draft]
+data: {icon: ra, templatePriority: null, packFolder: kemetian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -23,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: kemetian
 ---
 
 See [[affiliation-ra|Faith of Rā]]

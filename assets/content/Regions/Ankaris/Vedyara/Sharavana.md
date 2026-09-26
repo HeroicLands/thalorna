@@ -1,22 +1,11 @@
 ---
-tags:
-  - village
-  - river
-  - inland
-description: "The reed village in the marsh of the dead channel, which shafts and fletches the janapada's arrows."
+shortcode: sharavana
+name: {full: Sharavana, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - dhanurkotajnpd
-  population: 760
-name:
-  full: Sharavana
-  aliases: []
-shortcode: sharavana
-packFolder: vedyara
+description: "The reed village in the marsh of the dead channel, which shafts and fletches the janapada's arrows."
+tags: [village, river, inland]
+data: {demonym: null, lore: [], parents: [dhanurkotajnpd], population: 760, packFolder: vedyara}
 ---
 
 Sharavana (760) cuts the reed the arrows are shafted from, in the marsh where a dead channel of the Sarvada holds water through the dry season. The reed is cut green, bundled, and straightened over a slow fire. A bundle of five hundred shafts is the unit everything here is counted in.

@@ -1,19 +1,10 @@
 ---
-tags:
-  - itzani
-  - faith-skill
-  - draft
+shortcode: tzuqilixbal
+name: {full: "Ritual: Tz'uqil Ix'bal", aliases: [Tz'uqil Ix'bal, The Death Jaguar]}
 type: skill
 subType: mystical
-shortcode: tzuqilixbal
-name:
-  full: "Ritual: Tz'uqil Ix'bal"
-  aliases:
-    - Tz'uqil Ix'bal
-    - The Death Jaguar
-data:
-  icon: null
-  templatePriority: null
+tags: [itzani, faith-skill, draft]
+data: {icon: null, templatePriority: null, packFolder: itzani}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -22,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: itzani
 ---
 
 See [[affiliation-tzuqilixbal|Faith of Tz'uqil Ix'bal]]

@@ -1,22 +1,17 @@
 ---
-name:
-  full: The Forgotten Shrine of the Thuravel Hills
-  aliases: []
 shortcode: frgtnshrnthrvlhls
+name: {full: The Forgotten Shrine of the Thuravel Hills, aliases: []}
 type: scenario
 subType: adventure
 data:
   parents: []
-  locations:
-    - provenzrgn
+  locations: [provenzrgn]
   cast: []
   factions: []
   follows: []
   status: draft
-  party:
-    size: null
-    archetypes: []
-packFolder: adventures
+  party: {size: null, archetypes: []}
+  packFolder: adventures
 ---
 
 ## The Forgotten Shrine of the Thúravel Hills

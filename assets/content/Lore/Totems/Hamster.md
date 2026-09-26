@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The hamster as a totemic ideal, and the human character it describes."
+shortcode: hamsterttm
+name: {full: Hamster, aliases: [Hamster Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Hamster
-  aliases:
-    - Hamster Totem
-shortcode: hamsterttm
-packFolder: loretotems
-data:
-  banner: creaturebnr
+description: "The hamster as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-hamstertotem|Hamster]]{float: top-left, size: medium}

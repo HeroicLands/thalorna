@@ -1,26 +1,20 @@
 ---
-tags: []
-name:
-  full: Fount
-  aliases: []
-description: "Opens spring; manifests fresh water flowing from barren ground."
 shortcode: fount
+name: {full: Fount, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
+description: "Opens spring; manifests fresh water flowing from barren ground."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Fount
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Fount
 ---
 
 The caster anchors a wellspring of ambient arcane energy to a fixed point, drawing scattered magical currents together into a concentrated, slowly rotating nexus visible as a soft luminous glow to those with magical sight. Practitioners who meditate within the fount's radius find their depleted reserves replenishing at an accelerated rate, the concentrated energy flowing into them like warmth from a hearth.

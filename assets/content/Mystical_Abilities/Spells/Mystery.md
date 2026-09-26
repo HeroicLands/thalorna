@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Mystery
-  aliases:
-    - Enigma
-description: "Conceals object or location from magical detection permanently."
 shortcode: mystery
+name: {full: Mystery, aliases: [Enigma]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
+description: "Conceals object or location from magical detection permanently."
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Enigma
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Enigma
 ---
 
 The caster cloaks a target, object, or area in an aura of impenetrable magical obscurity. Divination spells slide off the enchantment like water off oiled leather; scrying pools show only murky depths; magical tracking simply loses the trail. The protection extends beyond mere invisibility—it hides the target from magical perception itself, making them a blind spot in the weave of arcane detection.

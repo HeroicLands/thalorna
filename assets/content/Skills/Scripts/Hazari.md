@@ -1,16 +1,11 @@
 ---
-tags: []
-name:
-  full: Hazâri Script
-  aliases:
-    - Hazâri
-description: "The merchants' abjad of Harad—twenty-four consonants, vowels pointed only when money depends on it."
 shortcode: hazarscrpt
+name: {full: Hazâri Script, aliases: [Hazâri]}
 type: skill
 subType: script
-data:
-  icon: icon-speaking
-  templatePriority: null
+description: "The merchants' abjad of Harad—twenty-four consonants, vowels pointed only when money depends on it."
+tags: []
+data: {icon: icon-speaking, templatePriority: null, packFolder: script}
 sohl:
   system:
     skillBaseFormula: "@rea, @per"
@@ -19,10 +14,7 @@ sohl:
     combatCategory: none
     parentSkillCode: script
     initSkillMult: 0
-packFolder: script
-flags:
-  "thalorna":
-    script_family: Abjad
+  flags: {"thalorna": {script_family: Abjad}}
 ---
 
 The Hazâri is the writing of Harad and the oldest working script in the west—twenty-four letters, all of them consonants, written left to right, with the vowels supplied by the reader out of context or added above and below the line as circumflex, macron and acute. It descends from the proto-Ankarian writing that also produced [[skill-dnshkscrpt|Dûnshâk]] and [[skill-okhsshscrpt|Okh-sesh]]; the three are visibly cousins and mutually unreadable.

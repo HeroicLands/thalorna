@@ -1,21 +1,16 @@
 ---
-tags:
-  - region
-description: "The land of the Kingdom of Vithgard—the northernmost Nordmen country of ice, tundra and polar night, its sparse settlements strung along an ice-choked coast."
-name:
-  full: Vithgard
-  aliases: []
 shortcode: vithgard
+name: {full: Vithgard, aliases: []}
 type: place
 subType: region
+description: "The land of the Kingdom of Vithgard—the northernmost Nordmen country of ice, tundra and polar night, its sparse settlements strung along an ice-choked coast."
+tags: [region]
 data:
   demonym: Vithgardian
-  lore:
-    - humanflk
-  parents:
-    - nrdlndsrgn
+  lore: [humanflk]
+  parents: [nrdlndsrgn]
   population: 300000
-packFolder: vithgard
+  packFolder: vithgard
 ---
 
 ## Overview

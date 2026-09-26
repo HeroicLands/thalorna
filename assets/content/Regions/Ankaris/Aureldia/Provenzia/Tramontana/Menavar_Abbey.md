@@ -1,21 +1,11 @@
 ---
-tags:
-  - sacred
-  - inland
-description: "The ruined abbey of Tramontàna—once a center of Aurèldían learning, sacked in the Nordheim raids and never refounded, holding a healing relic that four parties want and that no expedition has yet come back with."
+shortcode: menavarabbey
+name: {full: Ménavar Abbey, aliases: []}
 type: place
 subType: site
-data:
-  demonym: null
-  lore: []
-  parents:
-    - tramontana
-  population: null
-name:
-  full: Ménavar Abbey
-  aliases: []
-shortcode: menavarabbey
-packFolder: provenzia
+description: "The ruined abbey of Tramontàna—once a center of Aurèldían learning, sacked in the Nordheim raids and never refounded, holding a healing relic that four parties want and that no expedition has yet come back with."
+tags: [sacred, inland]
+data: {demonym: null, lore: [], parents: [tramontana], population: null, packFolder: provenzia}
 ---
 
 **Ménavar** was once a center of Aurèldían learning and spiritual practice—a great house of the

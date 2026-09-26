@@ -1,13 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: apophisdty
+name: {full: Ápōphis, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Ápōphis
-  aliases: []
-shortcode: apophisdty
-packFolder: deitieskemetian
+tags: [draft]
+data: {packFolder: deitieskemetian}
 ---
 
 ![[icon-apophis|Ápōphis]]{float: top-left, size: medium}

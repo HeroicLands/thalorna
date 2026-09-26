@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Thrive
-  aliases:
-    - Growth
-description: "Grants vigor and vitality; strengthens body and spirit."
 shortcode: thrive
+name: {full: Thrive, aliases: [Growth]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-tree
-  templatePriority: null
+description: "Grants vigor and vitality; strengthens body and spirit."
+tags: []
+data: {icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: physera
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Growth
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Growth
 ---
 
 The caster kneels and presses both palms flat against the earth, channeling Physéra energy into the soil to enhance the natural growth cycle of crops across a number of acres proportional to their Spell Index. The magic requires slow, sustained concentration—the caster must walk among the targeted plants throughout the casting time, coaxing each root system and stem into accelerated vitality. Once per year the spell increases the Land Quality index of the treated acreage, a metric ranging from poor to excellent that measures soil fertility and growing conditions. The improvement is modest but cumulative, and a dedicated mage casting annually on the same fields can transform marginal land into bountiful farmland over the course of several seasons.

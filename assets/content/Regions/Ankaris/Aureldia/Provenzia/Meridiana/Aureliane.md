@@ -1,21 +1,11 @@
 ---
-tags:
-  - city
-  - inland
-description: "The old Vylarian foundation of the southern interior—once the provincial capital and still the seat of Provenzian law and learning, a city of enormous prestige and diminished consequence."
+shortcode: aureliane
+name: {full: Aurèliane, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - meridiana
-  population: 30000
-name:
-  full: Aurèliane
-  aliases: []
-shortcode: aureliane
-packFolder: provenzia
+description: "The old Vylarian foundation of the southern interior—once the provincial capital and still the seat of Provenzian law and learning, a city of enormous prestige and diminished consequence."
+tags: [city, inland]
+data: {demonym: null, lore: [], parents: [meridiana], population: 30000, packFolder: provenzia}
 ---
 
 **Aurèliane** stands inland in the south, on the great road, and is the oldest city in Provènzia. It

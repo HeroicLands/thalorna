@@ -1,25 +1,18 @@
 ---
-tags:
-  - blood-and-ashes-in-ceravel-vale
+shortcode: bndtscrvlvl
+name: {full: The Bandits of Céravel Vale, aliases: []}
 type: scenario
 subType: adventure
+tags: [blood-and-ashes-in-ceravel-vale]
 data:
-  parents:
-    - bldshscrvlvl
-  locations:
-    - provenzrgn
+  parents: [bldshscrvlvl]
+  locations: [provenzrgn]
   cast: []
   factions: []
   follows: []
   status: draft
-  party:
-    size: null
-    archetypes: []
-shortcode: bndtscrvlvl
-name:
-  full: The Bandits of Céravel Vale
-  aliases: []
-packFolder: bloodandashesinceravelvale
+  party: {size: null, archetypes: []}
+  packFolder: bloodandashesinceravelvale
 ---
 
 ### Teaser

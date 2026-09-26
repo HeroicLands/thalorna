@@ -1,26 +1,17 @@
 ---
-tags:
-  - city
-  - fortress
-  - caravan
-  - market
-  - mountain
-description: "The fortress-capital of Vindhyālaya, built across the throat of Sūryadvāra—citadel, customs-house and caravanserai, full for two months of the year and garrisoned for twelve."
+shortcode: suryagarha
+name: {full: Sūryāgarha, aliases: []}
 type: place
 subType: settlement
+description: "The fortress-capital of Vindhyālaya, built across the throat of Sūryadvāra—citadel, customs-house and caravanserai, full for two months of the year and garrisoned for twelve."
+tags: [city, fortress, caravan, market, mountain]
 data:
   demonym: null
   lore: []
-  parents:
-    - vindhyalayaland
+  parents: [vindhyalayaland]
   population: 40000
-  routes:
-    - { to: suryadvara, bearing: N, mode: land, days: 20, terrain: [road, mountains, ice] }
-name:
-  full: Sūryāgarha
-  aliases: []
-shortcode: suryagarha
-packFolder: vedyara
+  routes: [{to: suryadvara, bearing: N, mode: land, days: 20, terrain: [road, mountains, ice]}]
+  packFolder: vedyara
 ---
 
 Sūryāgarha (40,000) is the capital of the kingdom of [[affiliation-vindhyalay|Vindhyālaya]] and stands across the throat of [[place-suryadvara|Sūryadvāra]], the greatest of the northern passes. It is built on the road and not beside it. There is no way up onto the wall by that crossing, and no way down off it into Vedyara, that does not go beneath the walls, and the city exists because of that one fact and would not otherwise be where it is.

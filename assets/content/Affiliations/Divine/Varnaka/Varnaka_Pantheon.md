@@ -1,12 +1,9 @@
 ---
-description: "Vedyaran tradition organized into sects, emphasizing the eternal cycle of creation, preservation, and destruction across multiple incarnations and spiritual devotions."
-name:
-  full: Varnaka Pantheon
-  aliases:
-    - Varnaka
 shortcode: varakpnthn
+name: {full: Varnaka Pantheon, aliases: [Varnaka]}
 type: affiliation
 subType: faithtradition
+description: "Vedyaran tradition organized into sects, emphasizing the eternal cycle of creation, preservation, and destruction across multiple incarnations and spiritual devotions."
 data:
   banner: pantheonbnr
   templatePriority: null
@@ -46,19 +43,14 @@ data:
       Ácārya: >-
         The working priest of a sampradāya, whose ordination is to the school and whose service is to whichever gods its doctrine requires.
   seat: null
-  domains:
-    - pssshrines
-    - mahaprbhva
-    - bhrvprbhav
+  domains: [pssshrines, mahaprbhva, bhrvprbhav]
   population: null
   economy: []
   lore: []
   parents: []
   relations: {}
-packFolder: pantheonsvarnaka
-sohl:
-  system:
-    commonSkills: []
+  packFolder: pantheonsvarnaka
+sohl: {system: {commonSkills: []}}
 ---
 
 The **Varnaka** is a single unified faith with a plural pantheon. Ten deities and spirit-courts are honored across the tradition, and none of them is a religion of its own.

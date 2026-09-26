@@ -1,13 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: layfaithfulrnk
+name: {full: Lay Faithful, aliases: []}
 type: lore
 subType: law
-name:
-  full: Lay Faithful
-  aliases: []
-shortcode: layfaithfulrnk
 description: "Of a tradition by profession and observance, without office in it."
+tags: [draft]
 ---
 
 Of a tradition by profession and observance, without office in it.

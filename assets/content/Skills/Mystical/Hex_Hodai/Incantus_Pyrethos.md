@@ -1,16 +1,10 @@
 ---
-tags:
-  - hex-hodai
-  - draft
+shortcode: pyrethos
+name: {full: Incantus Pyréthos, aliases: []}
 type: skill
 subType: mystical
-shortcode: pyrethos
-name:
-  full: Incantus Pyréthos
-  aliases: []
-data:
-  icon: pyrethos
-  templatePriority: null
+tags: [hex-hodai, draft]
+data: {icon: pyrethos, templatePriority: null, packFolder: hexhodai}
 sohl:
   system:
     skillBaseFormula: "@aur, @rea"
@@ -19,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: hexhodai
 ---
 
 See [[affiliation-pyrethos|Eídma Pyréthos]]

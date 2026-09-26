@@ -1,14 +1,10 @@
 ---
-tags: []
-name:
-  full: Qiang
-  aliases: []
-description: "Leaf-shaped slender thrusting spear with silk tassel; versatile reach."
 shortcode: qing
+name: {full: Qiang, aliases: []}
 type: weapongear
-data:
-  icon: icon-polearm
-  templatePriority: null
+description: "Leaf-shaped slender thrusting spear with silk tassel; versatile reach."
+tags: []
+data: {icon: icon-polearm, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: polearm
   weaponType: Polearm
@@ -23,14 +19,8 @@ sohl:
         name: Impale
         assocSkillCode: melee
         minParts: 1
-        attack:
-          spread: 8
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 8
-          modifier: 4
-          aspect: piercing
+        attack: {spread: 8, modifier: 0}
+        impactBase: {numDice: 1, die: 8, modifier: 4, aspect: piercing}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -59,22 +49,14 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 7
-        defense:
-          blockMod: 0
-          counterstrikeMod: 0
+        defense: {blockMod: 0, counterstrikeMod: 0}
       shaft:
         type: melee
         name: Shaft
         assocSkillCode: melee
         minParts: 1
-        attack:
-          spread: 8
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 6
-          modifier: 1
-          aspect: blunt
+        attack: {spread: 8, modifier: 0}
+        impactBase: {numDice: 1, die: 6, modifier: 1, aspect: blunt}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -103,22 +85,14 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 7
-        defense:
-          blockMod: 0
-          counterstrikeMod: 0
+        defense: {blockMod: 0, counterstrikeMod: 0}
       halfswordimpale:
         type: melee
         name: Half-Sword Impale
         assocSkillCode: melee
         minParts: 2
-        attack:
-          spread: 4
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 8
-          modifier: 3
-          aspect: piercing
+        attack: {spread: 4, modifier: 0}
+        impactBase: {numDice: 1, die: 8, modifier: 3, aspect: piercing}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -147,22 +121,14 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 7
-        defense:
-          blockMod: 0
-          counterstrikeMod: 0
+        defense: {blockMod: 0, counterstrikeMod: 0}
       halfswordshaft:
         type: melee
         name: Half-Sword Shaft
         assocSkillCode: melee
         minParts: 2
-        attack:
-          spread: 4
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 6
-          modifier: 1
-          aspect: blunt
+        attack: {spread: 4, modifier: 0}
+        impactBase: {numDice: 1, die: 6, modifier: 1, aspect: blunt}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -191,10 +157,7 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 7
-        defense:
-          blockMod: 0
-          counterstrikeMod: 0
-packFolder: weapons
+        defense: {blockMod: 0, counterstrikeMod: 0}
 ---
 
 A slender thrusting spear with a leaf-shaped blade and decorative tassel, the Qiang blends reach and flexibility in a versatile polearm. The silk wrapping and tassel prevent blood from fouling the grip while serving to signal and distract in melee.

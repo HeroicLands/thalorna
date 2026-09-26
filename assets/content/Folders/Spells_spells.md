@@ -1,8 +1,6 @@
 ---
-name:
-  full: "Spells"
 shortcode: spells
+name: {full: "Spells"}
 type: folder
-data:
-  parent: mysticalabilities
+data: {parent: mysticalabilities}
 ---

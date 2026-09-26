@@ -1,19 +1,11 @@
 ---
-tags:
-  - mild-elixir
-name:
-  full: "Pass-Shrine Altitude Draught"
-  aliases:
-    - Draught, Altitude, Mild
-description: "A bitter herbal draught the Pass-Shrine ushtakas brew for lowlanders their own bodies cannot yet forgive the cols for."
 shortcode: altitudedraught
+name: {full: "Pass-Shrine Altitude Draught", aliases: ["Draught, Altitude, Mild"]}
 type: concoctiongear
 subType: exotic
-hmk:
-  name: "Draught, Altitude, Mild"
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "A bitter herbal draught the Pass-Shrine ushtakas brew for lowlanders their own bodies cannot yet forgive the cols for."
+tags: [mild-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: mild}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "mild"
     strength: 0
-packFolder: mild
+
+# hmk:
+#   name: "Draught, Altitude, Mild"
 ---
 
 Brewed from mountain herbs the [[affiliation-passshrineushtakas|Pass-Shrine ushtakas]] gather on the cols themselves, this thin, bitter draught eases the headache, the nausea and the shortness of breath a lowlander suffers on the first days above the tree line. The ushtakas keep a store of it at every shrine and hand it to any caravan that arrives showing the signs, whether or not the party has paid for the summit blessing.

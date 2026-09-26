@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The cow as a totemic ideal, and the human character it describes."
+shortcode: cowttm
+name: {full: Cow, aliases: [Cow Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Cow
-  aliases:
-    - Cow Totem
-shortcode: cowttm
-packFolder: loretotems
-data:
-  banner: creaturebnr
+description: "The cow as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-cowtotem|Cow]]{float: top-left, size: medium}

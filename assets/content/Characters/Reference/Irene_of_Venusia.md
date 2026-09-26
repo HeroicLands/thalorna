@@ -1,7 +1,5 @@
 ---
-tags:
-  - character
-  - reference
+shortcode: ireneofvenusia
 name:
   full: Irene of Vénusia
   title: High Priestess
@@ -9,15 +7,14 @@ name:
   clan: of Vénusia
   home: byzaris
   aliases: []
-description: "A priestess of the goddess of prosperity who has commissioned ceremonial leather garments and artifacts from Philína for use in ritual contexts."
-shortcode: ireneofvenusia
 type: being
+description: "A priestess of the goddess of prosperity who has commissioned ceremonial leather garments and artifacts from Philína for use in ritual contexts."
+tags: [character, reference]
 data:
   species: humanflk
   templatePriority: null
   archetypes: []
   stations: []
   lore: []
-  homes:
-    - byzaris
+  homes: [byzaris]
 ---

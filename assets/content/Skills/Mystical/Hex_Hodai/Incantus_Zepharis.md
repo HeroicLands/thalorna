@@ -1,16 +1,10 @@
 ---
-tags:
-  - hex-hodai
-  - draft
+shortcode: zepharis
+name: {full: Incantus Zephäris, aliases: []}
 type: skill
 subType: mystical
-shortcode: zepharis
-name:
-  full: Incantus Zephäris
-  aliases: []
-data:
-  icon: zepharis
-  templatePriority: null
+tags: [hex-hodai, draft]
+data: {icon: zepharis, templatePriority: null, packFolder: hexhodai}
 sohl:
   system:
     skillBaseFormula: "@aur, @rea"
@@ -19,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: hexhodai
 ---
 
 See [[affiliation-zepharis|Eídma Zephäris]]

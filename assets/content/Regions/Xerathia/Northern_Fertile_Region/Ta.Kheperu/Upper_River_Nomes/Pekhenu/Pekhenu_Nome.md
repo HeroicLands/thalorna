@@ -1,22 +1,17 @@
 ---
-tags:
-  - region
-description: "Library-temples and astronomers; the calendar-keepers of the middle river—the land of the Nome of Pekhenu, one of the upper-river nomes of Ta'Kheperu."
-name:
-  full: Pekhenu Nome
-  aliases: []
 shortcode: pekhenunome
+name: {full: Pekhenu Nome, aliases: []}
 type: place
 subType: region
+description: "Library-temples and astronomers; the calendar-keepers of the middle river—the land of the Nome of Pekhenu, one of the upper-river nomes of Ta'Kheperu."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 400000
-packFolder: upperrivernomes
+  packFolder: upperrivernomes
 ---
 
 ## Overview

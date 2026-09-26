@@ -1,22 +1,16 @@
 ---
-tags:
-  - village
-  - mountain
-description: "The quarry village, whose masons cut the terrace walls that make the high valleys farmable and whose work is mistaken for Khazári by every visitor."
+shortcode: stonyhaugh
+name: {full: Stonyhaugh, aliases: []}
 type: place
 subType: settlement
+description: "The quarry village, whose masons cut the terrace walls that make the high valleys farmable and whose work is mistaken for Khazári by every visitor."
+tags: [village, mountain]
 data:
   demonym: null
-  lore:
-    - vardain
-  parents:
-    - vardainvalleys
+  lore: [vardain]
+  parents: [vardainvalleys]
   population: 620
-name:
-  full: Stonyhaugh
-  aliases: []
-shortcode: stonyhaugh
-packFolder: aelwyth
+  packFolder: aelwyth
 ---
 
 **Stonyhaugh** is the quarry, and the masons. Four hundred and sixty people cutting the gray stone that

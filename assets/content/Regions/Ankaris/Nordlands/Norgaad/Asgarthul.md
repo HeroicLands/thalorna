@@ -1,21 +1,11 @@
 ---
-tags:
-  - town
-  - market
-description: "Market Town / Seat of Local Nobility"
+shortcode: asgarthul
+name: {full: Asgarthul, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - norgaad
-  population: 400
-name:
-  full: Asgarthul
-  aliases: []
-shortcode: asgarthul
-packFolder: norgaad
+description: "Market Town / Seat of Local Nobility"
+tags: [town, market]
+data: {demonym: null, lore: [], parents: [norgaad], population: 400, packFolder: norgaad}
 ---
 
 ## Overview

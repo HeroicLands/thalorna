@@ -1,22 +1,11 @@
 ---
-tags:
-  - sacred
-  - river
-  - inland
-description: "The Memory-Keeper's archive at Rājapur—every chronicle, treaty and legal text of the kingdom-period, and every sabhā session since the kingdom was dissolved."
+shortcode: rajavalilib
+name: {full: The Rājavalī Library, aliases: []}
 type: place
 subType: structure
-data:
-  demonym: null
-  lore: []
-  parents:
-    - rajapurjnpd
-  population: null
-name:
-  full: The Rājavalī Library
-  aliases: []
-shortcode: rajavalilib
-packFolder: vedyara
+description: "The Memory-Keeper's archive at Rājapur—every chronicle, treaty and legal text of the kingdom-period, and every sabhā session since the kingdom was dissolved."
+tags: [sacred, river, inland]
+data: {demonym: null, lore: [], parents: [rajapurjnpd], population: null, packFolder: vedyara}
 ---
 
 The **Rājavalī Library** stands in the outer courts of the great Vyālendra temple at [[place-rajapur|Rājapur]], in what was once the royal council-chamber of the Kingdom of Mahānadi. The building outlived the kingdom because the sabhā that dissolved the kingdom decided it should, and it has been an annex of the temple for nine hundred years.

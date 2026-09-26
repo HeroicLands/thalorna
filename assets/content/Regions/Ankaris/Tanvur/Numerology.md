@@ -1,11 +1,9 @@
 ---
+shortcode: numerology
+name: {full: Numerology, aliases: []}
 type: lore
 subType: arcana
-name:
-  full: Numerology
-  aliases: []
-shortcode: numerology
-packFolder: tanvur
+data: {packFolder: tanvur}
 ---
 
 ## Numerology in the Empire of Tānvür

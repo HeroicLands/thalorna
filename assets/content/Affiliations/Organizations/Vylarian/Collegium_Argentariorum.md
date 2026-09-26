@@ -1,14 +1,10 @@
 ---
-tags: []
-description: "The moneylenders' guild chartered under the Magnum Collegium—the visible banking institution of the post-imperial commonwealth, whose chapterhouses operate the note-clearing system that the Aerarium Imperii stands quietly behind."
-name:
-  full: The Collegium Argentariorum
-  aliases:
-    - The Bankers' Guild
-    - The Moneylenders' Guild
 shortcode: clgmrgntrrm
+name: {full: The Collegium Argentariorum, aliases: [The Bankers' Guild, The Moneylenders' Guild]}
 type: affiliation
 subType: guild
+description: "The moneylenders' guild chartered under the Magnum Collegium—the visible banking institution of the post-imperial commonwealth, whose chapterhouses operate the note-clearing system that the Aerarium Imperii stands quietly behind."
+tags: []
 data:
   templatePriority: null
   demonym: null
@@ -17,56 +13,43 @@ data:
   governance:
     model: council
     summary: >-
-      A chartered federation of moneylender houses, governed by the Council of the Argentarii
-      under an elected Argentarius Magnar, operating the commonwealth's note-clearing system.
+      A chartered federation of moneylender houses, governed by the Council of the Argentarii under an elected Argentarius Magnar, operating the commonwealth's note-clearing system.
     ranks:
       - level: 0
         title: Expelled
         lore: expelledrnk
         description: >-
-          Joint expulsion-and-suspension for fraud or treasonable conduct has, every time it
-          has been imposed, ended the affected house.
+          Joint expulsion-and-suspension for fraud or treasonable conduct has, every time it has been imposed, ended the affected house.
       - level: 1
         title: Individual Moneylender
         lore: swornmemberrnk
         description: >-
-          A small operator, often a family business of one or two principals, licensed under
-          the guild's broader umbrella but not a chapter-clearing member.
+          A small operator, often a family business of one or two principals, licensed under the guild's broader umbrella but not a chapter-clearing member.
       - level: 2
         title: Lesser House
         lore: burgherrnk
         description: >-
-          Admitted by sponsorship of an existing member and examination of its reserves, books
-          and partners' character; eligible to participate in chapter clearing and issue
-          retail notes under guild standing.
+          Admitted by sponsorship of an existing member and examination of its reserves, books and partners' character; eligible to participate in chapter clearing and issue retail notes under guild standing.
       - level: 3
         title: Great House
         lore: greatlordrnk
         description: >-
-          One of perhaps twenty-five houses whose senior partners sit on the Council of the
-          Argentarii, holding standing accounts with the Aerarium Imperii.
+          One of perhaps twenty-five houses whose senior partners sit on the Council of the Argentarii, holding standing accounts with the Aerarium Imperii.
     offices:
       Argentarius Magnar: >-
-        The guild's chief officer, elected by the Council of the Argentarii for a ten-year term,
-        renewable once.
+        The guild's chief officer, elected by the Council of the Argentarii for a ten-year term, renewable once.
       Argentarius Praepar: >-
-        A senior moneylender elected by the local member moneylenders for a five-year term to
-        administer a chapterhouse, manage its strongroom and countersign notes drawn against it.
+        A senior moneylender elected by the local member moneylenders for a five-year term to administer a chapterhouse, manage its strongroom and countersign notes drawn against it.
       Censores: >-
-        Twelve discipline officers reporting to the Council who conduct admission examinations,
-        audit member houses' books and investigate complaints.
+        Twelve discipline officers reporting to the Council who conduct admission examinations, audit member houses' books and investigate complaints.
   seat: null
   domains: []
   population: null
-  economy:
-    - affiliation-aerarimmpr
-    - affiliation-magnumclgm
+  economy: [affiliation-aerarimmpr, affiliation-magnumclgm]
   lore: []
   parents: []
   relations: {}
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 _Vylarian: Collegium Argentariorum—"the Bankers' College" or "the Moneylenders' Guild"_

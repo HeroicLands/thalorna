@@ -1,11 +1,10 @@
 ---
-description: "Chaos."
-tags:
-  - religion
-  - angaros
-  - chaos
+shortcode: angaros
+name: {full: Faith of Ángáróš, aliases: [The Shadowed Serpent, "Ángáróš, The Shadowed Serpent"]}
 type: affiliation
 subType: faithtradition
+description: "Chaos."
+tags: [religion, angaros, chaos]
 data:
   banner: faithbnr
   templatePriority: null
@@ -15,87 +14,55 @@ data:
   governance:
     model: theocracy
     summary: >-
-      One priesthood serves all twelve gods, because every sacred site is a fire-temple: whichever
-      deity a temple is focused on, it keeps an altar to Ātáröš and priests trained in the kindling
-      and tending of the flame. The ladder is Āthravān, Hērbad, Mōbad, and it is the same in every
-      land—unity enforced not by hierarchy but by the flame itself, which answers to correct
-      technique and not to theological innovation.
+      One priesthood serves all twelve gods, because every sacred site is a fire-temple: whichever deity a temple is focused on, it keeps an altar to Ātáröš and priests trained in the kindling and tending of the flame. The ladder is Āthravān, Hērbad, Mōbad, and it is the same in every land—unity enforced not by hierarchy but by the flame itself, which answers to correct technique and not to theological innovation.
     ranks:
       - level: 0
         title: Flame-Denied
         lore: excmmnctrnk
         description: >-
-          Barred from the fire: no temple will admit them to an altar, and no Hērbad will kindle for
-          them. In a faith where every prayer begins with a flame, this ends religious life
-          entirely.
+          Barred from the fire: no temple will admit them to an altar, and no Hērbad will kindle for them. In a faith where every prayer begins with a flame, this ends religious life entirely.
       - level: 1
         title: Lay Faithful
         lore: layfaithfulrnk
         description: >-
-          Of the faith by observance—keeping the household fire-ritual at sunrise and sunset, which
-          is the foundational act of Āsháian practice and needs no priest.
+          Of the faith by observance—keeping the household fire-ritual at sunrise and sunset, which is the foundational act of Āsháian practice and needs no priest.
       - level: 2
         title: Āthravān
         lore: initiaternk
         description: >-
-          "Fire-Keeper"—initiates whose duty is the flame itself: feeding it with practiced
-          precision, keeping it from wind and rain, collecting and preserving the ashes. Ordination
-          requires maintaining a portion of the temple fire for a full year without its failing.
+          "Fire-Keeper"—initiates whose duty is the flame itself: feeding it with practiced precision, keeping it from wind and rain, collecting and preserving the ashes. Ordination requires maintaining a portion of the temple fire for a full year without its failing.
       - level: 3
         title: Hērbad
         lore: priestrnk
         description: >-
-          "Teacher-Priest"—the working priesthood: daily rituals, instruction, pastoral duty, and
-          the reading of flame-behavior as omen. Trained in theology, astronomy, medicine and the
-          interpretation of signs; they serve in temples, travel with caravans and minister to the
-          tribes.
+          "Teacher-Priest"—the working priesthood: daily rituals, instruction, pastoral duty, and the reading of flame-behavior as omen. Trained in theology, astronomy, medicine and the interpretation of signs; they serve in temples, travel with caravans and minister to the tribes.
       - level: 4
         title: Mōbad
         lore: highpriestrnk
         description: >-
-          "Master of Fire"—senior priest of a major fire-temple or a regional authority,
-          personally responsible for its eternal flame and keeper of its fire-lineage records.
-          Adjudicates theological disputes; the Mōbad of the Great Fire-Temple of Amradad holds
-          influence rivaling the Sultan's vizier.
+          "Master of Fire"—senior priest of a major fire-temple or a regional authority, personally responsible for its eternal flame and keeper of its fire-lineage records. Adjudicates theological disputes; the Mōbad of the Great Fire-Temple of Amradad holds influence rivaling the Sultan's vizier.
     offices:
       Mōbad: >-
-        Master of Fire—senior priest of a major fire-temple, personally answerable for the eternal
-        flame and keeper of the temple's fire-lineage records.
+        Master of Fire—senior priest of a major fire-temple, personally answerable for the eternal flame and keeper of the temple's fire-lineage records.
       Hērbad: >-
-        Teacher-Priest—specializes in fire-ritual and teaches both the sacred procedures and the
-        practical knowledge a healthy flame requires.
+        Teacher-Priest—specializes in fire-ritual and teaches both the sacred procedures and the practical knowledge a healthy flame requires.
       Āthravān: >-
-        Fire-Keeper—initiate charged with feeding, sheltering and preserving the flame and its
-        ashes.
+        Fire-Keeper—initiate charged with feeding, sheltering and preserving the flame and its ashes.
       Flame-Reader: >-
-        A Hērbad skilled in reading a fire: color for the quality of an offering, flicker for the
-        god's mood, and the ash-patterns on the altar stones as messages.
+        A Hērbad skilled in reading a fire: color for the quality of an offering, flicker for the god's mood, and the ash-patterns on the altar stones as messages.
       Keeper of the Fire-Lineage: >-
-        Holds the record of a flame's descent—which fire it was kindled from, and when—on which
-        a temple's standing rests.
+        Holds the record of a flame's descent—which fire it was kindled from, and when—on which a temple's standing rests.
       Caravan Priest: >-
-        A Hērbad who travels with the caravans and ministers to tribal communities beyond any
-        temple's reach.
+        A Hērbad who travels with the caravans and ministers to tribal communities beyond any temple's reach.
   seat: null
   domains: []
   population: null
   economy: []
-  lore:
-    - angarosdty
-  parents:
-    - ashanpnthn
-  relations:
-    ashanpnthn: aligned
-name:
-  full: Faith of Ángáróš
-  aliases:
-    - The Shadowed Serpent
-shortcode: angaros
-alias: Ángáróš, The Shadowed Serpent
-packFolder: ashaian
-sohl:
-  system:
-    commonSkills: []
+  lore: [angarosdty]
+  parents: [ashanpnthn]
+  relations: {ashanpnthn: aligned}
+  packFolder: ashaian
+sohl: {system: {commonSkills: []}}
 ---
 
 Ángáróš is the great adversary, the god of chaos, destruction, deception, and entropy. He is the living principle of Druj—falsehood, corruption, and the slow dissolution of all imposed order. Where [[affiliation-ahurdaen|Āhúrdáén]] creates and sustains, Ángáróš tears down and unmakes. Where [[affiliation-ataros|Ātáröš]] purifies through flame, Ángáróš corrupts through poison and shadow. Where [[affiliation-korsadra|Khóršádrä]] reveals truth through light, Ángáróš obscures it through lies and deception. He is not a minor or regional deity—he is the supreme cosmic force opposing all righteousness, order, and truth. The entire Āsháian pantheon exists primarily to wage war against him.

@@ -1,22 +1,11 @@
 ---
-tags:
-  - port
-  - town
-  - fortified
-description: "Fortified Harbor Town"
+shortcode: jarnhavn
+name: {full: Járnhavn, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - norgaad
-  population: 800
-name:
-  full: Járnhavn
-  aliases: []
-shortcode: jarnhavn
-packFolder: norgaad
+description: "Fortified Harbor Town"
+tags: [port, town, fortified]
+data: {demonym: null, lore: [], parents: [norgaad], population: 800, packFolder: norgaad}
 ---
 
 ## Overview

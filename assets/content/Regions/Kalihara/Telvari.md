@@ -1,19 +1,9 @@
 ---
-tags:
-  - town
-  - island
-description: "Island Town"
+shortcode: telvari
+name: {full: Telvári, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - kaliharargn
-  population: 1200
-name:
-  full: Telvári
-  aliases: []
-shortcode: telvari
-packFolder: kalihara
+description: "Island Town"
+tags: [town, island]
+data: {demonym: null, lore: [], parents: [kaliharargn], population: 1200, packFolder: kalihara}
 ---

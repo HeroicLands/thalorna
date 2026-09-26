@@ -1,27 +1,19 @@
 ---
-tags:
-  - region
-description: The Mídhalión basin—a cross-continental constellation of polities ringing the Vylarian Sea, successor-lands of the old Vylarian Empire.
-name:
-  full: Mídhalión Region
-  aliases:
-    - Mídhalión
 shortcode: midhalnrgn
+name: {full: Mídhalión Region, aliases: [Mídhalión]}
 type: place
 subType: region
+description: The Mídhalión basin—a cross-continental constellation of polities ringing the Vylarian Sea, successor-lands of the old Vylarian Empire.
+tags: [region]
 data:
   icon: null
   demonym: null
-  lore:
-    - humanflk
-    - grukarfolk
-    - flksinale
-    - flkkhazar
-  parents:
-    - ankrscntnnt
+  lore: [humanflk, grukarfolk, flksinale, flkkhazar]
+  parents: [ankrscntnnt]
   population: 47000000
-terran_analog: "The Mediterranean basin—a cross-continental constellation of polities ringing the Vylarian Sea, with the Vylarian heartland centered on the Italian peninsula and Adriatic east, Harad on the Levantine coast (Israel and Lebanon), Hellad on the Aegean, and the southern shore in Xerathia."
-packFolder: midhalion
+  packFolder: midhalion
+
+# terran_analog: "The Mediterranean basin—a cross-continental constellation of polities ringing the Vylarian Sea, with the Vylarian heartland centered on the Italian peninsula and Adriatic east, Harad on the Levantine coast (Israel and Lebanon), Hellad on the Aegean, and the southern shore in Xerathia."
 ---
 
 Mídhalión is not a single nation or a continuous territory but a **socio-economic and cultural region**—the lands surrounding the [[place-vylarianse|Vylarian Sea]], bound together by maritime trade, the legacy of the [[affiliation-vylarinmpr|Vylarian Empire]], and three thousand years of cross-pollination among the cultures that meet along its shores. It is the only region of Thalorna that genuinely spans two continents, drawing together the northern shore of Ankaris and the northern shore of [[place-xerathia|Xerathia]] into a single economic organism whose connections are tighter among themselves than any of them are to the interiors of their own home continents.

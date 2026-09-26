@@ -1,23 +1,11 @@
 ---
-tags:
-  - sacred
-  - mountain
-  - inland
-description: "Three peaks above the Central Highlands, and the battlefield where the Sinalë king of Aelwyth was killed in 984 BF—ending the Great War, the joint kingdom of the elder races, and six centuries of deliberate reconciliation."
+shortcode: threesisters
+name: {full: The Three Sisters, aliases: [Battle of Three Sisters]}
 type: place
 subType: site
-data:
-  demonym: null
-  lore: []
-  parents:
-    - cntrlhghlnds
-  population: null
-name:
-  full: The Three Sisters
-  aliases:
-    - Battle of Three Sisters
-shortcode: threesisters
-packFolder: aelwyth
+description: "Three peaks above the Central Highlands, and the battlefield where the Sinalë king of Aelwyth was killed in 984 BF—ending the Great War, the joint kingdom of the elder races, and six centuries of deliberate reconciliation."
+tags: [sacred, mountain, inland]
+data: {demonym: null, lore: [], parents: [cntrlhghlnds], population: null, packFolder: aelwyth}
 ---
 
 Three peaks standing together above the open ground of the [[place-cntrlhghlnds|Central Highlands]], in

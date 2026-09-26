@@ -1,22 +1,11 @@
 ---
-tags:
-  - village
-  - hill
-  - inland
-description: "A hill village of the Brynavar interior, tucked into a fold of ground that has kept it off three centuries of raiders' roads—and keeps observances the kingdom's priests would rather not examine."
+shortcode: cerdwnshlw
+name: {full: Ceridwen's Hollow, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - brynavar
-  population: 280
-name:
-  full: Ceridwen's Hollow
-  aliases: []
-shortcode: cerdwnshlw
-packFolder: elavendre
+description: "A hill village of the Brynavar interior, tucked into a fold of ground that has kept it off three centuries of raiders' roads—and keeps observances the kingdom's priests would rather not examine."
+tags: [village, hill, inland]
+data: {demonym: null, lore: [], parents: [brynavar], population: 280, packFolder: elavendre}
 ---
 
 **Ceridwen's Hollow** sits in a deep fold of the [[place-brynavar|Brynavar]] hills, off the ridge roads

@@ -1,20 +1,10 @@
 ---
-tags:
-  - lore
-  - souls
-  - spirits
-  - gm-only
-  - secret
-  - metaphysics
-type: lore
-name:
-  full: The Truth of Souls
-  aliases:
-    - Souls (GM)
-    - The Spirit Realm
-subType: cosmology
-packFolder: settinglore
 shortcode: soulspirts
+name: {full: The Truth of Souls, aliases: [Souls (GM), The Spirit Realm]}
+type: lore
+subType: cosmology
+tags: [lore, souls, spirits, gm-only, secret, metaphysics]
+data: {packFolder: settinglore}
 ---
 
 In the cosmology of Thalorna, the **soul** is the locus of identity and the connection between a being and the non-physical layer of reality. **Aura**, in game terms, is the measure of the soul's strength—its depth, coherence, and capacity to engage with the formless arcane potential.

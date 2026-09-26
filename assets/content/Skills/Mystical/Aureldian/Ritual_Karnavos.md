@@ -1,18 +1,10 @@
 ---
-tags:
-  - aureldian
-  - faith-skill
-  - draft
+shortcode: karnavos
+name: {full: "Ritual: Karnavos", aliases: [The Wild Beast]}
 type: skill
 subType: mystical
-shortcode: karnavos
-name:
-  full: "Ritual: Karnavos"
-  aliases:
-    - The Wild Beast
-data:
-  icon: karnavos
-  templatePriority: null
+tags: [aureldian, faith-skill, draft]
+data: {icon: karnavos, templatePriority: null, packFolder: aureldian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -21,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: aureldian
 ---
 
 See [[affiliation-karnavos|Faith of Karnavos]]

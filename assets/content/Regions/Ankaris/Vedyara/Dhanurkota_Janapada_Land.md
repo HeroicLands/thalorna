@@ -1,23 +1,18 @@
 ---
-tags:
-  - region
-  - endowed
-description: "The land of the Dhanurkota Janapada—villages along a defensible curve of the upper Sarvada, around the ancient bow-fort where the river leaves the northern hills."
-name:
-  full: Dhanurkota Janapada
-  aliases: []
 shortcode: dhanurkotajnpd
+name: {full: Dhanurkota Janapada, aliases: []}
 type: place
 subType: region
+description: "The land of the Dhanurkota Janapada—villages along a defensible curve of the upper Sarvada, around the ancient bow-fort where the river leaves the northern hills."
+tags: [region, endowed]
 data:
   demonym: Dhanurkoti
-  lore:
-    - vedyariclt
-  parents:
-    - vedyarargn
+  lore: [vedyariclt]
+  parents: [vedyarargn]
   population: 30000
-terran_analog: "Medieval South Indian temple-republic with a martial-caste specialty—Chola-era brahmadeya village federation centered on a fortified temple complex, distinguished by hereditary archery training traditions"
-packFolder: vedyara
+  packFolder: vedyara
+
+# terran_analog: "Medieval South Indian temple-republic with a martial-caste specialty—Chola-era brahmadeya village federation centered on a fortified temple complex, distinguished by hereditary archery training traditions"
 ---
 
 Dhanurkota Janapada is the land of the temple-republic of [[affiliation-dhnrktjnpd|Dhanurkota Janapada]], the upper Sarvada valley of [[place-vedyarargn|Vedyara]].

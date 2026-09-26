@@ -1,17 +1,10 @@
 ---
-tags:
-  - khemenu-hekau
-  - draft
+shortcode: khatnu
+name: {full: "Hekau: Khat'nu", aliases: [Per-Khat'nu]}
 type: skill
 subType: mystical
-shortcode: khatnu
-name:
-  full: "Hekau: Khat'nu"
-  aliases:
-    - Per-Khat'nu
-data:
-  icon: khatnu
-  templatePriority: null
+tags: [khemenu-hekau, draft]
+data: {icon: khatnu, templatePriority: null, packFolder: khemenuhekau}
 sohl:
   system:
     skillBaseFormula: "@aur, @rea"
@@ -20,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: khemenuhekau
 ---
 
 See [[affiliation-khatnu|Per-Khat'nu]]

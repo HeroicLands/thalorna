@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Assembly
-  aliases:
-    - Convoke
-description: "Calls forth greater fire elemental; commands inferno to consume."
 shortcode: arcasmbl
+name: {full: Assembly, aliases: [Convoke]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-firebdg
-  templatePriority: null
+description: "Calls forth greater fire elemental; commands inferno to consume."
+tags: []
+data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Convoke
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Convoke
 ---
 
 The caster conducts an elaborate summoning, channeling the full fury of Pyréthos to call forth a greater fire elemental from the plane of pure flame. The being that manifests is immense—a towering pillar of roaring fire whose mere presence heats the surrounding air to oven-like temperatures and whose radiance illuminates the area like a second sun. Loose materials within range spontaneously combust, and the ground beneath its form scorches and cracks.

@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Mend
-  aliases:
-    - Restoration
-description: "Restores objects to original condition; heals cracks, breaks, tears."
 shortcode: mend
+name: {full: Mend, aliases: [Restoration]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-anvilbdg
-  templatePriority: null
+description: "Restores objects to original condition; heals cracks, breaks, tears."
+tags: []
+data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideros
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Restoration
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Restoration
 ---
 
 The caster places their hands upon a damaged structure or complex object and channels deep, sustained restoration into it. Broken masonry resets and bonds. Shattered beams reassemble and fuse. Collapsed sections of wall rise back into place and solidify. The repair works on a scale far beyond what Repair can achieve, reassembling entire walls, restoring collapsed bridges, or rebuilding damaged fortifications to something approaching their original condition.

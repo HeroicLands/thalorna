@@ -1,11 +1,5 @@
 ---
-tags:
-  - organization
-  - dunhara
-  - religion
-  - storm
-  - cult
-description: "Decentralized religious network of the Dunhara tribes—storm-shamans, weather-readers, and chosen vessels of the storm god Báhrámiš, whose authority crosses tribal boundaries and shapes the ritual life of every Dunhari camp."
+shortcode: strmcltsbhrms
 name:
   full: The Storm Cults of Báhrámiš
   aliases:
@@ -13,9 +7,10 @@ name:
     - The Followers of the Thundering Voice
     - Bahârâmî-Pîravân
     - Storm Cults of Bahramish
-shortcode: strmcltsbhrms
 type: affiliation
 subType: faithtradition
+description: "Decentralized religious network of the Dunhara tribes—storm-shamans, weather-readers, and chosen vessels of the storm god Báhrámiš, whose authority crosses tribal boundaries and shapes the ritual life of every Dunhari camp."
+tags: [organization, dunhara, religion, storm, cult]
 data:
   banner: faithbnr
   templatePriority: null
@@ -25,97 +20,69 @@ data:
   governance:
     model: council
     summary: >-
-      Not one institution but five lineages of shamanic practice, each with its own elders and its
-      own apprenticeship line, and no orthodoxy imposed across them. Standing is earned inside a
-      lineage and confirmed by its elders; the Council of Elders at the Stone of Ranâz decides only
-      what concerns all five, of which the recognition of vessels is the weightiest.
+      Not one institution but five lineages of shamanic practice, each with its own elders and its own apprenticeship line, and no orthodoxy imposed across them. Standing is earned inside a lineage and confirmed by its elders; the Council of Elders at the Stone of Ranâz decides only what concerns all five, of which the recognition of vessels is the weightiest.
     ranks:
       - level: 0
         title: Denounced
         lore: excmmnctrnk
         description: >-
-          Formally denounced before the lineages—for falsifying a reading, or for claiming
-          vesselhood the Council has not conferred. No lineage will train them and no camp of
-          consequence will seat them.
+          Formally denounced before the lineages—for falsifying a reading, or for claiming vesselhood the Council has not conferred. No lineage will train them and no camp of consequence will seat them.
       - level: 1
         title: Pîravân
         lore: layfaithfulrnk
         description: >-
-          "Followers"—the Dunhari at large, who keep the observances, bring their births,
-          marriages and dead to the resident practitioner, and read no weather themselves.
+          "Followers"—the Dunhari at large, who keep the observances, bring their births, marriages and dead to the resident practitioner, and read no weather themselves.
       - level: 2
         title: Shâgerd
         lore: apprenticernk
         description: >-
-          Apprenticed into one of the five lineages and learning its particular craft, whether that
-          is the reading of wind, the calling of rain, or walking into a storm to read it from
-          inside.
+          Apprenticed into one of the five lineages and learning its particular craft, whether that is the reading of wind, the calling of rain, or walking into a storm to read it from inside.
       - level: 3
         title: Pîr
         lore: journeymanrnk
         description: >-
-          Recognized practitioner of a lineage: reads for the tribal council and the warband,
-          conducts the rites of the camp, and answers for the accuracy of what they report.
-          Misreading is the gravest shamanic failure.
+          Recognized practitioner of a lineage: reads for the tribal council and the warband, conducts the rites of the camp, and answers for the accuracy of what they report. Misreading is the gravest shamanic failure.
       - level: 4
         title: Sar-pîr
         lore: elderrnk
         description: >-
-          Senior elder of a lineage, holding its apprentices and its practice, and sitting in the
-          Council of Elders at the Stone of Ranâz at the season-turns.
+          Senior elder of a lineage, holding its apprentices and its practice, and sitting in the Council of Elders at the Stone of Ranâz at the season-turns.
       - level: 5
         title: Vessel
         lore: sprtspkrrnk
         description: >-
-          One in whom Báhrámiš is held to speak directly—recognized only by the assembled senior
-          elders, binding on all five lineages until withdrawn for cause. A vessel's authority
-          crosses tribal lines, overrides a chieftain on religious matters, and can summon warriors
-          to a cause the chieftains have not endorsed.
+          One in whom Báhrámiš is held to speak directly—recognized only by the assembled senior elders, binding on all five lineages until withdrawn for cause. A vessel's authority crosses tribal lines, overrides a chieftain on religious matters, and can summon warriors to a cause the chieftains have not endorsed.
     offices:
       Vessel of Báhrámiš: >-
-        Recognized at the Stone of Ranâz by the assent of the gathered senior shamans, and the most
-        politically consequential thing the cults do.
+        Recognized at the Stone of Ranâz by the assent of the gathered senior shamans, and the most politically consequential thing the cults do.
       Sar-pîr: >-
-        Senior elder of one lineage and a member of the Council of Elders, which deliberates on
-        what affects all five.
+        Senior elder of one lineage and a member of the Council of Elders, which deliberates on what affects all five.
       Bâdkhwân: >-
-        Wind-Reader—divinatory specialist who reads the wind for omens and the subtler signs of
-        the god's mood. The largest lineage.
+        Wind-Reader—divinatory specialist who reads the wind for omens and the subtler signs of the god's mood. The largest lineage.
       Bârân-âvar: >-
-        Rain-Caller—conducts the great rain-rituals at the season-turns and the emergency rites
-        in drought. The most ritually elaborate lineage.
+        Rain-Caller—conducts the great rain-rituals at the season-turns and the emergency rites in drought. The most ritually elaborate lineage.
       Sang-zad: >-
-        Lightning-Marked—touched directly by the god, usually by vision or prophetic seizure and
-        rarely by literal lightning, in which case the survivor's standing is exceptional. The
-        smallest lineage and the most prestigious.
+        Lightning-Marked—touched directly by the god, usually by vision or prophetic seizure and rarely by literal lightning, in which case the survivor's standing is exceptional. The smallest lineage and the most prestigious.
       Tufân-row: >-
-        Storm-Walker—walks into storms to read them from within, and reads the great seasonal
-        weather-systems. Demanding and dangerous.
+        Storm-Walker—walks into storms to read them from within, and reads the great seasonal weather-systems. Demanding and dangerous.
       Sokhan-bar: >-
-        Voice-Bearer—orator and reciter, carrying the standing repertoire of myth, hymn and
-        ritual formula, and training apprentices in it.
+        Voice-Bearer—orator and reciter, carrying the standing repertoire of myth, hymn and ritual formula, and training apprentices in it.
       Camp Practitioner: >-
-        The resident wind-reader or rain-caller seated in every Dunhari encampment of consequence,
-        who conducts its births, deaths, marriages and war-rituals.
+        The resident wind-reader or rain-caller seated in every Dunhari encampment of consequence, who conducts its births, deaths, marriages and war-rituals.
       Keeper of the Marked Stones: >-
-        Holds, between gatherings, the marked stones by which the Warrior's Circle chooses its
-        Voice of the Quarter—a small function of real constitutional weight.
+        Holds, between gatherings, the marked stones by which the Warrior's Circle chooses its Voice of the Quarter—a small function of real constitutional weight.
   seat: null
   domains: []
   population: null
   economy: []
   lore: []
-  parents:
-    - bahramis
+  parents: [bahramis]
   relations:
     bahramis: aligned
     ashanpnthn: aligned
     wrrscrcldnhrtrbs: aligned
     dunhartrbs: aligned
-sohl:
-  system:
-    commonSkills:
-      - bahramis
+sohl: {system: {commonSkills: [bahramis]}}
 ---
 
 _Dunhari: Bahârâmî-Pîravân—"the Followers of Báhrámiš"_

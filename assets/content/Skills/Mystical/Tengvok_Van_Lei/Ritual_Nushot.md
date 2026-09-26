@@ -1,20 +1,10 @@
 ---
-tags:
-  - celestial-pantheon
-  - faith-skill
-  - draft
+shortcode: nushot
+name: {full: "Ritual: Nüshöt", aliases: [Nüshöt, Nushot, The Burning Dissolution, The Unmaker]}
 type: skill
 subType: mystical
-shortcode: nushot
-name:
-  full: "Ritual: Nüshöt"
-  aliases:
-    - Nüshöt
-    - Nushot
-    - The Burning Dissolution
-    - The Unmaker
-data:
-  templatePriority: null
+tags: [celestial-pantheon, faith-skill, draft]
+data: {templatePriority: null, packFolder: tengvokvanlei}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -23,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: tengvokvanlei
 ---
 
 See [[affiliation-nushot|Nüshöt]]

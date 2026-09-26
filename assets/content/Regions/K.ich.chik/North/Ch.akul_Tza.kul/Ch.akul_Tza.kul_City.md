@@ -1,20 +1,11 @@
 ---
-tags:
-  - city
-  - draft
-description: "City"
+shortcode: chakultzkl2
+name: {full: Ch'akul Tza'kul, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - chakultzklrgn
-  population: 700
-name:
-  full: Ch'akul Tza'kul
-  aliases: []
-shortcode: chakultzkl2
+description: "City"
+tags: [city, draft]
+data: {demonym: null, lore: [], parents: [chakultzklrgn], population: 700}
 ---
 
 ## Overview

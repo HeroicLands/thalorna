@@ -1,8 +1,6 @@
 ---
-name:
-  full: "Nyaluba"
 shortcode: lorespiritsnyaluba
+name: {full: "Nyaluba"}
 type: folder
-data:
-  parent: lorespirits
+data: {parent: lorespirits}
 ---

@@ -1,21 +1,17 @@
 ---
-tags:
-  - town
-description: "Nome capital of Hut-Sobek."
+shortcode: hutsobek
+name: {full: Hut-Sobek, aliases: []}
 type: place
 subType: settlement
+description: "Nome capital of Hut-Sobek."
+tags: [town]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - hutsobeknome
+  parents: [hutsobeknome]
   population: 38000
-name:
-  full: Hut-Sobek
-  aliases: []
-shortcode: hutsobek
-packFolder: deltanomes
+  packFolder: deltanomes
 ---
 
 ## Overview

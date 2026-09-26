@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Overview
-  aliases:
-    - Perspective
-description: "Grants caster bird's-eye perspective; sees terrain from great height."
 shortcode: overview
+name: {full: Overview, aliases: [Perspective]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-divination
-  templatePriority: null
+description: "Grants caster bird's-eye perspective; sees terrain from great height."
+tags: []
+data: {icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pneumenos
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Perspective
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Perspective
 ---
 
 The caster's consciousness expands outward, briefly transcending the limitations of their individual perspective. They perceive their current situation not from their own viewpoint but from a metaphorical vantage point above it, seeing the full pattern of relationships, motivations, and consequences that connect the people and events around them. It is as though the caster has stepped outside a tapestry they had been studying from inches away and can now see the entire design.

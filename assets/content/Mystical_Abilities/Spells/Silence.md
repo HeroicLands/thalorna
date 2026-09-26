@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Silence
-  aliases:
-    - Muffle
-description: "Suppresses sound; muffles speech and blocks all noise."
 shortcode: silence
+name: {full: Silence, aliases: [Muffle]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
+description: "Suppresses sound; muffles speech and blocks all noise."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Muffle
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Muffle
 ---
 
 The caster clamps both fists shut and twists them inward; the air within a defined radius goes utterly, unnervingly dead. Sound does not merely diminish—it ceases entirely. Swords strike shields without a ring, boots hit flagstone without a tap, and screaming mouths produce nothing but the visible straining of throat muscles. The silence is absolute and immediate, a void so complete that those caught within it often experience a moment of primal panic, convinced they have been struck deaf.

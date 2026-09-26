@@ -1,22 +1,17 @@
 ---
-tags:
-  - necropolis
-  - city
-description: "Necropolis City"
+shortcode: tadjeser
+name: {full: Ta-Djeser, aliases: []}
 type: place
 subType: settlement
+description: "Necropolis City"
+tags: [necropolis, city]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - wasetkaranome
+  parents: [wasetkaranome]
   population: 40000
-name:
-  full: Ta-Djeser
-  aliases: []
-shortcode: tadjeser
-packFolder: capitalnome
+  packFolder: capitalnome
 ---
 
 ## Overview

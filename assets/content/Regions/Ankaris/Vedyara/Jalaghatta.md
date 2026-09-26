@@ -1,20 +1,9 @@
 ---
-tags:
-  - village
-  - river
-  - market
-description: "Landing on the Bhārava where the upland tracks meet the river road, and where the janapada's imports come ashore."
+shortcode: jalaghatta
+name: {full: Jalaghatta, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - suvarnagirijnpd
-  population: 610
-name:
-  full: Jalaghatta
-  aliases: []
-shortcode: jalaghatta
-packFolder: vedyara
+description: "Landing on the Bhārava where the upland tracks meet the river road, and where the janapada's imports come ashore."
+tags: [village, river, market]
+data: {demonym: null, lore: [], parents: [suvarnagirijnpd], population: 610, packFolder: vedyara}
 ---

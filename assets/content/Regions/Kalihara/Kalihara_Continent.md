@@ -1,24 +1,18 @@
 ---
-tags:
-  - continent
-  - kalihara
+shortcode: klhrcntnnt
+name: {full: Kalihara Continent, aliases: [Kalihara]}
 type: place
 subType: region
+description: A large tropical island west of Mídhalión—a single ancient civilization predating the Elder Races by millennia, deeply insular, closed to outsiders except through tightly controlled coastal ports.
+tags: [continent, kalihara]
 data:
   demonym: Kaliharan
-  lore:
-    - humanflk
-  parents:
-    - worldthlrn
+  lore: [humanflk]
+  parents: [worldthlrn]
   population: 3000000
-name:
-  full: Kalihara Continent
-  aliases:
-    - Kalihara
-shortcode: klhrcntnnt
-description: A large tropical island west of Mídhalión—a single ancient civilization predating the Elder Races by millennia, deeply insular, closed to outsiders except through tightly controlled coastal ports.
-terran_analog: "A large tropical-and-temperate landmass set in the southern open ocean—about a thousand miles west of Xerathia and a thousand miles east of southern K'ich'chik (so in the southern mid-ocean, roughly the latitude of the South Atlantic Brazil-to-Africa midpoint). No real-world counterpart; the closest analog in mythic terms would be Atlantis, though Kalihara is not a sunken or hidden place but a known and inhabited continent that has chosen to remain insular. Sits in a wind regime where the prevailing trades blow steadily westward from Xerathia toward Kalihara—making the outbound voyage easy and the return passage notoriously difficult."
-packFolder: kalihara
+  packFolder: kalihara
+
+# terran_analog: "A large tropical-and-temperate landmass set in the southern open ocean—about a thousand miles west of Xerathia and a thousand miles east of southern K'ich'chik (so in the southern mid-ocean, roughly the latitude of the South Atlantic Brazil-to-Africa midpoint). No real-world counterpart; the closest analog in mythic terms would be Atlantis, though Kalihara is not a sunken or hidden place but a known and inhabited continent that has chosen to remain insular. Sits in a wind regime where the prevailing trades blow steadily westward from Xerathia toward Kalihara—making the outbound voyage easy and the return passage notoriously difficult."
 ---
 
 Kalihara is the westernmost continent of [[place-worldthlrn|Thalorna]]—a single large tropical-and-temperate landmass set in the southern open ocean, roughly a thousand miles west of [[place-xerathia|Xerathia]] and a thousand miles east of the southern reaches of [[place-kchchkcntnnt|K'ich'chik]]. Though geographers classify it as a continent in its own right, Kalihara is unique among Thalorna's landmasses in that it contains a single continuous civilization, one people, one language family, and one philosophical tradition, all stretching back to an origin older than any other recorded history on the world. Where Ankaris and Xerathia are mosaics of cultures and empires, Kalihara is a single civilization turned inward, and has been for ten thousand years.

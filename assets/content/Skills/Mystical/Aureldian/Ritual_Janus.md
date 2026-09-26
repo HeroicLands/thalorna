@@ -1,18 +1,10 @@
 ---
-tags:
-  - aureldian
-  - faith-skill
-  - draft
+shortcode: janus
+name: {full: "Ritual: Janus", aliases: [The Keeper of the Gates]}
 type: skill
 subType: mystical
-shortcode: janus
-name:
-  full: "Ritual: Janus"
-  aliases:
-    - The Keeper of the Gates
-data:
-  icon: janus
-  templatePriority: null
+tags: [aureldian, faith-skill, draft]
+data: {icon: janus, templatePriority: null, packFolder: aureldian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -21,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: aureldian
 ---
 
 See [[affiliation-janus|Faith of Janus]]

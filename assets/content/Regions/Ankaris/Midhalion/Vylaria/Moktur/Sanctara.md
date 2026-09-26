@@ -1,19 +1,9 @@
 ---
-tags:
-  - town
-  - temple
-description: "Temple Town"
+shortcode: sanctara
+name: {full: Sanctara, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - moktur
-  population: 2000
-name:
-  full: Sanctara
-  aliases: []
-shortcode: sanctara
-packFolder: vylaria
+description: "Temple Town"
+tags: [town, temple]
+data: {demonym: null, lore: [], parents: [moktur], population: 2000, packFolder: vylaria}
 ---

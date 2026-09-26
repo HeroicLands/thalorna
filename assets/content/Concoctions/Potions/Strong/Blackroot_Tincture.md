@@ -1,19 +1,11 @@
 ---
-tags:
-  - strong-elixir
-name:
-  full: Blackroot Tincture
-  aliases:
-    - Potion, Poison, Strong
-description: "Vivid green oily liquid; causes violent illness and death."
 shortcode: ptnpois
+name: {full: Blackroot Tincture, aliases: ["Potion, Poison, Strong"]}
 type: concoctiongear
 subType: exotic
-hmk:
-  name: "Potion, Poison, Strong"
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "Vivid green oily liquid; causes violent illness and death."
+tags: [strong-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: strong}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "strong"
     strength: 0
-packFolder: strong
+
+# hmk:
+#   name: "Potion, Poison, Strong"
 ---
 
 A vivid green liquid with an oily sheen, visibly separated into layers in the vial. The stench is unmistakable—acrid and choking, like burned vegetation mixed with copper and something rotten. Even sealed, the vial may be identified by smell alone. The herbalist who prepares this works in a well-ventilated room, often with cloth soaked in vinegar wrapped around their face. A single drop on exposed skin causes painful welts. The very act of preparation marks one's hands with stains that persist for days.

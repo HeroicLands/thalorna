@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Undo
-  aliases:
-    - Reverse
-description: "Reverses recent action; undoes last spell or change."
 shortcode: undo
+name: {full: Undo, aliases: [Reverse]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
+description: "Reverses recent action; undoes last spell or change."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Reverse
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Reverse
 ---
 
 The caster carefully traces the history of a magical effect backward through time, identifying the precise sequence of forces and intentions that brought it into being, then systematically reverses that sequence. The targeted magic unravels in the exact opposite order of its creation, each layer peeling away cleanly until nothing remains. Curses dissolve, compulsions release their grip, transformed objects revert to their original state, and magical damage repairs itself as the injurious force is withdrawn.

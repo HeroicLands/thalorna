@@ -1,11 +1,9 @@
 ---
-tags: []
-description: "The Keeper of the Jade Seal in the Tëngvōk Vān Lëi, whose seal is what makes a celestial appointment legitimate."
+shortcode: yutveidty
+name: {full: Yütvëi, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Yütvëi
-  aliases: []
-shortcode: yutveidty
-packFolder: deitiestengvokvanlei
+description: "The Keeper of the Jade Seal in the Tëngvōk Vān Lëi, whose seal is what makes a celestial appointment legitimate."
+tags: []
+data: {packFolder: deitiestengvokvanlei}
 ---

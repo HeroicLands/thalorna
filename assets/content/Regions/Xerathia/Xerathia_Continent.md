@@ -1,26 +1,19 @@
 ---
-tags:
-  - continent
+shortcode: xerathia
+name: {full: Xerathia, aliases: []}
 type: place
 subType: region
+description: The southern continent—fertile crescent along the Vylarian Sea, trackless equatorial rainforests in the interior, and endless savannahs in the deep south.
+tags: [continent]
 data:
   demonym: Xerathian
-  lore:
-    - humanflk
-    - flksinale
-    - flkkhazar
-  parents:
-    - worldthlrn
-  borders:
-    - { to: sandhysmdr, bearing: E }
+  lore: [humanflk, flksinale, flkkhazar]
+  parents: [worldthlrn]
+  borders: [{to: sandhysmdr, bearing: E}]
   population: 29000000
-name:
-  full: Xerathia
-  aliases: []
-shortcode: xerathia
-description: The southern continent—fertile crescent along the Vylarian Sea, trackless equatorial rainforests in the interior, and endless savannahs in the deep south.
-terran_analog: Africa
-packFolder: xerathia
+  packFolder: xerathia
+
+# terran_analog: Africa
 ---
 
 Xerathia is the southern continent of Thalorna—a vast landmass whose character changes dramatically as one travels south from its fertile northern crescent, through trackless equatorial rainforest, into the endless savannahs of the deep south. Its northern shore along the [[place-vylarianse|Vylarian Sea]] hosts some of the oldest and most sophisticated civilizations on the world; its interior and far south remain largely unknown to Ankarian scholars, charted only in fragments from the accounts of traders, missionaries, and the occasional expedition that returned.

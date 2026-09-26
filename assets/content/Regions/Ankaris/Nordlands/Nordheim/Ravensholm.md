@@ -1,20 +1,11 @@
 ---
-tags:
-  - settlement
-description: "Religious/Strategic Settlement"
+shortcode: ravensholm
+name: {full: Ravensholm, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - nordheim
-  population: 500
-name:
-  full: Ravensholm
-  aliases: []
-shortcode: ravensholm
-packFolder: nordheim
+description: "Religious/Strategic Settlement"
+tags: [settlement]
+data: {demonym: null, lore: [], parents: [nordheim], population: 500, packFolder: nordheim}
 ---
 
 ## Overview

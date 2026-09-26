@@ -1,21 +1,17 @@
 ---
-tags:
-  - town
-description: "Nome capital of Iat-Hemet."
+shortcode: iathemet
+name: {full: Iat-Hemet, aliases: []}
 type: place
 subType: settlement
+description: "Nome capital of Iat-Hemet."
+tags: [town]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - iathemetnome
+  parents: [iathemetnome]
   population: 6000
-name:
-  full: Iat-Hemet
-  aliases: []
-shortcode: iathemet
-packFolder: upperrivernomes
+  packFolder: upperrivernomes
 ---
 
 ## Overview

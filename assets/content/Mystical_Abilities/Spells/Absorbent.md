@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Absorbent
-  aliases:
-    - Sponge
-description: "Enchants surface to drink liquid far beyond natural capacity."
 shortcode: absrbt
+name: {full: Absorbent, aliases: [Sponge]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
+description: "Enchants surface to drink liquid far beyond natural capacity."
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Sponge
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Sponge
 ---
 
 The caster enchants a surface or material to drink in liquid with unnatural voracity. Cloth becomes capable of soaking up a puddle in seconds; stone draws moisture from the air until it glistens. The enchanted material pulls liquid toward itself as if thirsting, and can hold far more than its natural capacity should allow, releasing it only when the spell expires or the caster wills it.

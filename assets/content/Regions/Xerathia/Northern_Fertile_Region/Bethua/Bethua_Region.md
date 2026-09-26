@@ -1,25 +1,18 @@
 ---
-tags:
-  - region
-description: The western coast of Xerathia's northern shore and the engineered interior behind it—the widest and most reliable of the fertile littoral, held by the Matriarchy of Bethûa.
-name:
-  full: Bethûa Region
-  aliases: []
 shortcode: bethuargn
+name: {full: Bethûa Region, aliases: []}
 type: place
 subType: region
+description: The western coast of Xerathia's northern shore and the engineered interior behind it—the widest and most reliable of the fertile littoral, held by the Matriarchy of Bethûa.
+tags: [region]
 data:
   icon: null
   demonym: Bethûan
-  lore:
-    - humanflk
-  parents:
-    - nrthrnfrtlrgn
-    - xerathia
-  borders:
-    - { to: takheperurgn, bearing: E }
+  lore: [humanflk]
+  parents: [nrthrnfrtlrgn, xerathia]
+  borders: [{to: takheperurgn, bearing: E}]
   population: 3000000
-packFolder: bethua
+  packFolder: bethua
 ---
 
 ## Overview

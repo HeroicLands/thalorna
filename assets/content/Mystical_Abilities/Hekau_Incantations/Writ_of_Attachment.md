@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: Writ of Attachment
-  aliases: []
-description: "Binds an animate thing to a stated duty, which it will perform until released or destroyed."
 shortcode: wrtattchmnt
+name: {full: Writ of Attachment, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: maatken
-  templatePriority: null
+description: "Binds an animate thing to a stated duty, which it will perform until released or destroyed."
+tags: [khemenu-hekau, incantation]
+data: {icon: maatken, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: maatken
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
-packFolder: hekauincantations
+    charges: {value: null, max: null}
 ---
 
 The duty must be written out in full and without ambiguity, and this is where the working is

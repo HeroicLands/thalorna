@@ -1,18 +1,10 @@
 ---
-tags:
-  - tharivaan
-  - faith-skill
-  - draft
+shortcode: tharivaan
+name: {full: "Ritual: Thári'vaan", aliases: [Thári'vaan, The Living Whole]}
 type: skill
 subType: mystical
-shortcode: tharivaan
-name:
-  full: "Ritual: Thári'vaan"
-  aliases:
-    - Thári'vaan
-    - The Living Whole
-data:
-  templatePriority: null
+tags: [tharivaan, faith-skill, draft]
+data: {templatePriority: null, packFolder: tharivaan}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -21,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: tharivaan
 ---
 
 See [[affiliation-tharivaan|Thári'vaan]]

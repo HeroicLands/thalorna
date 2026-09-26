@@ -1,16 +1,10 @@
 ---
-description: "Religion of the architect of existence"
-tags:
-  - varnaka
-  - deity
-  - creation
-name:
-  full: Vyālendra
-  aliases:
-    - The Shaper of Worlds
 shortcode: vyalendra
+name: {full: Vyālendra, aliases: [The Shaper of Worlds]}
 type: affiliation
 subType: faithtradition
+description: "Religion of the architect of existence"
+tags: [varnaka, deity, creation]
 data:
   banner: faithbnr
   templatePriority: null
@@ -43,24 +37,16 @@ data:
       The Perfect Stone: >-
         A single stone shaped by hand to proportions dictated by a senior priest, to such precision that no flaw can be found.
   seat: null
-  domains:
-    - sarvaprbhv
+  domains: [sarvaprbhv]
   population: null
   economy: []
-  lore:
-    - vyalendradty
-  parents:
-    - varakpnthn
-  relations:
-    varakpnthn: aligned
-packFolder: pantheonsvarnaka
+  lore: [vyalendradty]
+  parents: [varakpnthn]
+  relations: {varakpnthn: aligned}
+  packFolder: pantheonsvarnaka
 sohl:
   system:
-    commonSkills:
-      - vyalendra
-      - sohl-sohl-skill-masn
-      - sohl-sohl-skill-eng
-      - sohl-sohl-skill-wood
+    commonSkills: [vyalendra, sohl-sohl-skill-masn, sohl-sohl-skill-eng, sohl-sohl-skill-wood]
 ---
 
 ## Vyālendra—The Shaper of Worlds

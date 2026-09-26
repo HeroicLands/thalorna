@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Shattermind
-  aliases:
-    - Rupture
-description: "Shatters resolve; breaks will and courage of target."
 shortcode: shttrmnd
+name: {full: Shattermind, aliases: [Rupture]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-divination
-  templatePriority: null
+description: "Shatters resolve; breaks will and courage of target."
+tags: []
+data: {icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pneumenos
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Rupture
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Rupture
 ---
 
 The caster drives a spike of concentrated psychic force directly into the target's mind, bypassing surface thoughts to strike at the deep structures of identity, memory, and emotional stability. The impact is catastrophic—the target's sense of self fractures, their memories fragment and scramble, and their emotional responses become wildly dysregulated. For the duration of the spell, the target is barely functional, overwhelmed by a torrent of disconnected memories, conflicting emotions, and fundamental uncertainty about who and where they are.

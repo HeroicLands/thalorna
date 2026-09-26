@@ -1,20 +1,11 @@
 ---
-tags:
-  - town
-description: "Pass Town"
+shortcode: korrast
+name: {full: Korrast, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - moktur
-  population: 5000
-name:
-  full: Korrast
-  aliases: []
-shortcode: korrast
-packFolder: vylaria
+description: "Pass Town"
+tags: [town]
+data: {demonym: null, lore: [], parents: [moktur], population: 5000, packFolder: vylaria}
 ---
 
 ## Overview

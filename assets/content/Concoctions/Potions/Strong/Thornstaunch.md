@@ -1,19 +1,11 @@
 ---
-tags:
-  - strong-elixir
-name:
-  full: Thornstaunch
-  aliases:
-    - Potion, Coagulant, Strong
-description: "Deep maroon almost-black coagulant; stops bleeding effectively."
 shortcode: ptncoags
+name: {full: Thornstaunch, aliases: ["Potion, Coagulant, Strong"]}
 type: concoctiongear
 subType: exotic
-hmk:
-  name: "Potion, Coagulant, Strong"
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "Deep maroon almost-black coagulant; stops bleeding effectively."
+tags: [strong-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: strong}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "strong"
     strength: 0
-packFolder: strong
+
+# hmk:
+#   name: "Potion, Coagulant, Strong"
 ---
 
 Deep maroon, almost black, this concentrated coagulant has the stiffness of pine resin, requiring warming between the hands to make it malleable enough to apply. The smell is sharper than mild coagulant—iron and crushed herbs dominant, but layered with something chemical and potent, the scent of real alchemical intervention. When pressed against a wound, the paste seems to grip the injury immediately, sealing it almost aggressively, and the surrounding flesh visibly pales and tightens as the coagulation forces blood inward and clotting forward.

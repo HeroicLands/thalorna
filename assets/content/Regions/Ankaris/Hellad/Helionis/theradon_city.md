@@ -1,21 +1,11 @@
 ---
-tags:
-  - city-state
-  - city
-  - draft
-description: "City-State"
+shortcode: theradon2
+name: {full: Therádon, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - helionis
-  population: 50000
-name:
-  full: Therádon
-  aliases: []
-shortcode: theradon2
+description: "City-State"
+tags: [city-state, city, draft]
+data: {demonym: null, lore: [], parents: [helionis], population: 50000}
 ---
 
 ## Overview

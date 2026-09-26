@@ -1,19 +1,11 @@
 ---
-tags:
-  - mild-elixir
-name:
-  full: "Lover's Flush"
-  aliases:
-    - Potion, Aphrodisiac, Mild
-description: "Reddish tincture with gold flecks; grants amorous attraction."
 shortcode: ptnaphrm
+name: {full: "Lover's Flush", aliases: ["Potion, Aphrodisiac, Mild"]}
 type: concoctiongear
 subType: exotic
-hmk:
-  name: "Potion, Aphrodisiac, Mild"
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "Reddish tincture with gold flecks; grants amorous attraction."
+tags: [mild-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: mild}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "mild"
     strength: 0
-packFolder: mild
+
+# hmk:
+#   name: "Potion, Aphrodisiac, Mild"
 ---
 
 This reddish tincture swirls with flecks of gold when held to the light, the glass warm to the touch even when freshly poured. The scent is heady—rose petals steeped in wine, with undertones of cardamom and clove that linger long after the stopper is drawn. On the tongue, it tastes both sweet and slightly bitter, coating the mouth with a warmth that spreads downward to the chest. The preparation carries a subtle glamour, the kind that makes those who hold it feel momentarily more confident, more luminous.

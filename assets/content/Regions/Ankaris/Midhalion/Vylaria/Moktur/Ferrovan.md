@@ -1,21 +1,11 @@
 ---
-tags:
-  - town
-  - mining
-description: "Mining Town"
+shortcode: ferrovan
+name: {full: Ferrovan, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - moktur
-  population: 7000
-name:
-  full: Ferrovan
-  aliases: []
-shortcode: ferrovan
-packFolder: vylaria
+description: "Mining Town"
+tags: [town, mining]
+data: {demonym: null, lore: [], parents: [moktur], population: 7000, packFolder: vylaria}
 ---
 
 ## Overview

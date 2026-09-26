@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Arcane Sphere
-  aliases:
-    - Bubble
-description: "Crystalline arcane bubble encloses target; blocks magic and prevents escape."
 shortcode: arcsph
+name: {full: Arcane Sphere, aliases: [Bubble]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
+description: "Crystalline arcane bubble encloses target; blocks magic and prevents escape."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Bubble
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Bubble
 ---
 
 The caster speaks a word of absolute containment and a sphere of crystalline arcane force snaps into existence around the target, enclosing them in a perfect bubble of shimmering energy. The sphere is extraordinarily resilient, absorbing physical impacts, deflecting projectiles, and scattering hostile magic across its curved surface. It moves with the enclosed subject, maintaining its protective integrity regardless of terrain or circumstance.

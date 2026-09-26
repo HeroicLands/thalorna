@@ -1,23 +1,18 @@
 ---
-tags:
-  - region
-  - endowed
-description: "The land of the Rājapur Janapada—villages on a fertile floodplain forty miles along the upper Mahānadi, around the temple raised on the ruins of the old royal capital."
-name:
-  full: Rājapur Janapada
-  aliases: []
 shortcode: rajapurjnpd
+name: {full: Rājapur Janapada, aliases: []}
 type: place
 subType: region
+description: "The land of the Rājapur Janapada—villages on a fertile floodplain forty miles along the upper Mahānadi, around the temple raised on the ruins of the old royal capital."
+tags: [region, endowed]
 data:
   demonym: Rājapuri
-  lore:
-    - vedyariclt
-  parents:
-    - vedyarargn
+  lore: [vedyariclt]
+  parents: [vedyarargn]
   population: 25000
-terran_analog: "Medieval South Indian temple-republic that emerged from the ruins of a failed kingdom—a Chola-era brahmadeya village federation centered on a temple complex built atop or alongside an abandoned royal capital, governed by an assembly that explicitly preserves the memory of the displaced dynasty"
-packFolder: vedyara
+  packFolder: vedyara
+
+# terran_analog: "Medieval South Indian temple-republic that emerged from the ruins of a failed kingdom—a Chola-era brahmadeya village federation centered on a temple complex built atop or alongside an abandoned royal capital, governed by an assembly that explicitly preserves the memory of the displaced dynasty"
 ---
 
 Rājapur Janapada is the land of the temple-republic of [[affiliation-rajaprjnpd|Rājapur Janapada]], on the central Mahānadi plain of [[place-vedyarargn|Vedyara]].

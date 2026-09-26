@@ -1,22 +1,17 @@
 ---
-tags:
-  - region
-description: '"Green Waters"—marshy floodbasin, flax and waterfowl, the wettest of the upper nomes—the land of the Nome of Wadj-Mu, one of the upper-river nomes of Ta''Kheperu.'
-name:
-  full: Wadj-Mu Nome
-  aliases: []
 shortcode: wadjmunome
+name: {full: Wadj-Mu Nome, aliases: []}
 type: place
 subType: region
+description: '"Green Waters"—marshy floodbasin, flax and waterfowl, the wettest of the upper nomes—the land of the Nome of Wadj-Mu, one of the upper-river nomes of Ta''Kheperu.'
+tags: [region]
 data:
   banner: takheperubnr
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 360000
-packFolder: upperrivernomes
+  packFolder: upperrivernomes
 ---
 
 ## Overview

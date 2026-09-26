@@ -1,4 +1,6 @@
 ---
+shortcode: yurthatzhk
+name: {full: Yürtthāt Zhāk, aliases: []}
 type: affiliation
 subType: lineage
 data:
@@ -9,73 +11,60 @@ data:
   governance:
     model: oligarchy
     summary: >-
-      A noble house of the Tānvüri court under the head who holds its name, its property and
-      its voice—and, at present, under a new head whose methods its elders will not own.
+      A noble house of the Tānvüri court under the head who holds its name, its property and its voice—and, at present, under a new head whose methods its elders will not own.
     ranks:
       - level: 0
         title: Attainted
         lore: outlawrnk
         description: >-
-          Struck from the genealogy and denied the name; the house's obligations toward them
-          lapse with their claim on it.
+          Struck from the genealogy and denied the name; the house's obligations toward them lapse with their claim on it.
       - level: 1
         title: Dependent
         lore: dependentrnk
         description: >-
-          Sheltered and fed by the house without being of its blood—servants, wards, retainers'
-          families.
+          Sheltered and fed by the house without being of its blood—servants, wards, retainers' families.
       - level: 2
         title: Client
         lore: dependentrnk
         description: >-
-          Owing the house service and loyalty and receiving its protection, bound to it by obligation
-          rather than descent.
+          Owing the house service and loyalty and receiving its protection, bound to it by obligation rather than descent.
       - level: 3
         title: Kin by Marriage
         lore: kinsmanrnk
         description: >-
-          Married into the house, holding its name and its standing without its blood, and watched
-          accordingly.
+          Married into the house, holding its name and its standing without its blood, and watched accordingly.
       - level: 4
         title: Kin by Blood
         lore: kinsmanrnk
         description: >-
-          Of the house's descent, entitled to its protection, its quarrels and a share of its
-          fortune.
+          Of the house's descent, entitled to its protection, its quarrels and a share of its fortune.
       - level: 5
         title: Cadet Branch
         lore: kinsmanrnk
         description: >-
-          Head of a junior line, holding lands or offices of its own and standing behind the
-          senior line in every claim.
+          Head of a junior line, holding lands or offices of its own and standing behind the senior line in every claim.
       - level: 6
         title: Elder
         lore: elderrnk
         description: >-
-          Senior of the house, whose recollection of its obligations and its genealogies binds
-          its head in practice.
+          Senior of the house, whose recollection of its obligations and its genealogies binds its head in practice.
       - level: 7
         title: Heir
         lore: heirrnk
-        description: Designated to succeed, and by that already a party to every negotiation
-          the house enters.
+        description: Designated to succeed, and by that already a party to every negotiation the house enters.
       - level: 8
         title: Head of the House
         lore: sovereignrnk
         description: >-
-          Holder of the name, the property and the house's voice at court, answerable for its
-          standing to every member of it.
+          Holder of the name, the property and the house's voice at court, answerable for its standing to every member of it.
     offices:
       Head of the House: >-
-        Holder of the name, the property and the house's voice, answerable for its standing
-        to all of it.
+        Holder of the name, the property and the house's voice, answerable for its standing to all of it.
       Heir: The designated successor, and already a party to the house's negotiations.
-      Elder: Senior kinsman whose memory of obligation and genealogy the head disregards at
-        cost.
+      Elder: Senior kinsman whose memory of obligation and genealogy the head disregards at cost.
       Steward: Administrator of the house's estates, revenues and debts.
       Genealogist: >-
-        Keeper of the descent on which every member's standing rests, and of the marriages
-        that alter it.
+        Keeper of the descent on which every member's standing rests, and of the marriages that alter it.
       Keeper of the Hall: Warden of the house's seat, its treasures and its hospitality.
       Marriage-Broker: Negotiator of the alliances by which a house rises or is absorbed.
       Champion: The house's arm in matters settled by arms, whether duel, feud or war.
@@ -84,22 +73,11 @@ data:
   domains: []
   population: null
   economy: []
-  lore:
-    - humanflk
-  parents:
-    - tanvurempr
-  relations:
-    tngvkvnlei: aligned
-    tanvurempr: unaligned
-name:
-  full: Yürtthāt Zhāk
-  aliases: []
-shortcode: yurthatzhk
-packFolder: threats
-sohl:
-  system:
-    commonSkills:
-      - tanvurlng
+  lore: [humanflk]
+  parents: [tanvurempr]
+  relations: {tngvkvnlei: aligned, tanvurempr: unaligned}
+  packFolder: threats
+sohl: {system: {commonSkills: [tanvurlng]}}
 ---
 
 **The House of the Clouded Mountain**

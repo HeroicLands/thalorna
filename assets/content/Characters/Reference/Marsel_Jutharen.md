@@ -1,7 +1,5 @@
 ---
-tags:
-  - character
-  - reference
+shortcode: marseljutharen
 name:
   full: Mársel Jútharen
   title: Captain
@@ -9,15 +7,14 @@ name:
   clan: Jútharen
   home: kavrenath
   aliases: []
-description: "A rival officer commanding the neighboring garrison sector."
-shortcode: marseljutharen
 type: being
+description: "A rival officer commanding the neighboring garrison sector."
+tags: [character, reference]
 data:
   species: humanflk
   templatePriority: null
   archetypes: []
   stations: []
   lore: []
-  homes:
-    - kavrenath
+  homes: [kavrenath]
 ---

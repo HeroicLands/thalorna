@@ -1,14 +1,11 @@
 ---
-tags: []
-description: "The five-hundred-year-old split of the Aurèldían Vúlcani over the god's true nature, which produced the Sacred Forge and the Black Flame and the enmity between them."
+shortcode: vulcanischism
+name: {full: The Vúlcani Schism, aliases: [The Schism]}
 type: lore
 subType: history
-name:
-  full: The Vúlcani Schism
-  aliases:
-    - The Schism
-shortcode: vulcanischism
-packFolder: aureldia
+description: "The five-hundred-year-old split of the Aurèldían Vúlcani over the god's true nature, which produced the Sacred Forge and the Black Flame and the enmity between them."
+tags: []
+data: {packFolder: aureldia}
 ---
 
 **Vúlcan** the Forge-Lord holds both aspects of flame at once—the forge that shapes and the inferno

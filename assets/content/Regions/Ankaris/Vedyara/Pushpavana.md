@@ -1,20 +1,9 @@
 ---
-tags:
-  - village
-  - river
-  - inland
-description: "Flower gardens for the temple, whose garland-makers supply the spring festival."
+shortcode: pushpavana
+name: {full: Pushpavana, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - rajapurjnpd
-  population: 270
-name:
-  full: Pushpavana
-  aliases: []
-shortcode: pushpavana
-packFolder: vedyara
+description: "Flower gardens for the temple, whose garland-makers supply the spring festival."
+tags: [village, river, inland]
+data: {demonym: null, lore: [], parents: [rajapurjnpd], population: 270, packFolder: vedyara}
 ---

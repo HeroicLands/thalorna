@@ -1,26 +1,16 @@
 ---
-tags:
-  - reference
-description: "Thalorna's one moon: a large body on a circular, inclined orbit, new on the first day of spring in the year 720, with a thirty-day cycle every calendar on the world can be read against."
+shortcode: vaelith
+name: {full: Vaelith, aliases: []}
 type: place
 subType: world
+description: "Thalorna's one moon: a large body on a circular, inclined orbit, new on the first day of spring in the year 720, with a thirty-day cycle every calendar on the world can be read against."
+tags: [reference]
 data:
   lore: []
   parents: []
-  body:
-    diameterKm: 3800
-    orbitalRadiusKm: 388600
-    orbit: circular
-    inclined: true
-  moon:
-    cycle: 30
-    newOn: 720/1/1
-    eclipses: rare
-packFolder: setting
-name:
-  full: Vaelith
-  aliases: []
-shortcode: vaelith
+  body: {diameterKm: 3800, orbitalRadiusKm: 388600, orbit: circular, inclined: true}
+  moon: {cycle: 30, newOn: 720/1/1, eclipses: rare}
+  packFolder: setting
 ---
 
 **Vaelith** is Thalorna's only moon, 3,800 kilometers across on a circular and inclined orbit some 388,600 kilometers out. It is a large moon, nearly thirty percent of the planet's own diameter, and it hangs visibly bigger in the sky than the moon a Terran reader remembers. Its orbit never varies, so its distance never varies either, and the world has no notion of a moon that looms larger at some times than others.

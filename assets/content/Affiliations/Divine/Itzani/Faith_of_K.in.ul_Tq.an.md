@@ -1,17 +1,10 @@
 ---
-description: "Order, cosmic law and the solar cycle—the sovereign of the Fifth Age, whose sunrise is bought with blood and never given freely."
-tags:
-  - itzani
-  - religion
+shortcode: kinultqan
+name: {full: "Faith of K'in'ul Tq'an", aliases: [The Sun at the World's Edge, "K'in'ul Tq'an"]}
 type: affiliation
 subType: faithtradition
-name:
-  full: "Faith of K'in'ul Tq'an"
-  aliases:
-    - The Sun at the World's Edge
-    - "K'in'ul Tq'an"
-shortcode: kinultqan
-packFolder: pantheonitzani
+description: "Order, cosmic law and the solar cycle—the sovereign of the Fifth Age, whose sunrise is bought with blood and never given freely."
+tags: [itzani, religion]
 data:
   banner: faithbnr
   icon: null
@@ -22,109 +15,79 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A single priestly caste serving all ten gods, ranked by degree of initiation and by the
-      blood-debt a person carries rather than by which god they serve; the lay faithful are
-      bound by the calendar that same caste keeps.
+      A single priestly caste serving all ten gods, ranked by degree of initiation and by the blood-debt a person carries rather than by which god they serve; the lay faithful are bound by the calendar that same caste keeps.
     ranks:
       - level: 0
         title: Blood-Denied
         lore: excmmnctrnk
         description: >-
-          Barred from offering blood, from the priest-read calendar and from the funerary rites—a
-          soul left to face Xibalba's trials unguided, which the Ki'ichek reckon the one sentence
-          that outlives the body.
+          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Xibalba's trials unguided, which the Ki'ichek reckon the one sentence that outlives the body.
       - level: 1
         title: Water-Marked
         lore: catechumenrnk
         description: >-
-          Consecrated at birth with water on the lips and counted among the faithful, but not
-          yet of an age to give blood or keep the fasts.
+          Consecrated at birth with water on the lips and counted among the faithful, but not yet of an age to give blood or keep the fasts.
       - level: 2
         title: Blood-Giver
         lore: layfaithfulrnk
         description: >-
-          The lay faithful, who pierce tongue or earlobe on the days the calendar appoints and
-          keep its prohibitions without holding office in the temple.
+          The lay faithful, who pierce tongue or earlobe on the days the calendar appoints and keep its prohibitions without holding office in the temple.
       - level: 3
         title: Debt-Bearer
         lore: layfaithfulrnk
         description: >-
-          Bound by a debt pledged beyond what the calendar requires—a captive dedicated in
-          advance, a pilgrimage undertaken, a season of autosacrifice vowed.
+          Bound by a debt pledged beyond what the calendar requires—a captive dedicated in advance, a pilgrimage undertaken, a season of autosacrifice vowed.
       - level: 4
         title: Tq'an'ik
         lore: initiaternk
         description: >-
-          "Edge-Walker"—an initiate serving in the temples while learning the calendar, the
-          sacred texts and the autosacrificial disciplines the priesthood demands of every
-          member.
+          "Edge-Walker"—an initiate serving in the temples while learning the calendar, the sacred texts and the autosacrificial disciplines the priesthood demands of every member.
       - level: 5
         title: Ch'ul'bal
         lore: priestrnk
         description: >-
-          "Sacred Servant"—an ordained priest, trained from childhood in mathematics,
-          astronomy, writing and the reading of celestial signs, who keeps the daily rites and
-          the codices.
+          "Sacred Servant"—an ordained priest, trained from childhood in mathematics, astronomy, writing and the reading of celestial signs, who keeps the daily rites and the codices.
       - level: 6
         title: K'ul
         lore: highpriestrnk
         description: >-
-          "Keeper"—head of one specialist branch within a temple complex, answerable to its
-          K'ul Tq'an and contending with the other branches for resources, precedence and
-          favor.
+          "Keeper"—head of one specialist branch within a temple complex, answerable to its K'ul Tq'an and contending with the other branches for resources, precedence and favor.
       - level: 7
         title: K'ul Tq'an
         lore: highpriestrnk
         description: >-
-          "Sacred Boundary"—high priest of a temple complex, who alone performs the great
-          sacrificial rites at the turning of the cosmic cycles and holds the calculations that
-          predict when an age will end.
+          "Sacred Boundary"—high priest of a temple complex, who alone performs the great sacrificial rites at the turning of the cosmic cycles and holds the calculations that predict when an age will end.
       - level: 8
         title: Presiding K'ul Tq'an
         lore: grandmasterrnk
         description: >-
-          The K'ul Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes
-          the calendar for the whole city, presides at the New Fire Ceremony, and rules whether
-          the gods approve a K'inmah's succession.
+          The K'ul Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes the calendar for the whole city, presides at the New Fire Ceremony, and rules whether the gods approve a K'inmah's succession.
     offices:
       Presiding K'ul Tq'an: >-
-        High priest of the solar pyramid and first hierarch of the city-state; his reading of
-        the cycle fixes when every other temple may act.
+        High priest of the solar pyramid and first hierarch of the city-state; his reading of the cycle fixes when every other temple may act.
       Ah K'in: >-
-        Sun-Sayer—computes the solstice hours and the length of the year, and announces the
-        day on which the great rites fall.
+        Sun-Sayer—computes the solstice hours and the length of the year, and announces the day on which the great rites fall.
       Keeper of the Binding: >-
-        Leads the chant that holds the sun to its path of return at the winter solstice, when
-        the K'inmah opens his own veins into the eternal flames.
+        Leads the chant that holds the sun to its path of return at the winter solstice, when the K'inmah opens his own veins into the eternal flames.
       Master of the Channels: >-
-        Oversees the jade vessels and the carved stone channels down which the summer-solstice
-        blood is poured, and reads the flow for omen.
+        Oversees the jade vessels and the carved stone channels down which the summer-solstice blood is poured, and reads the flow for omen.
       Warden of the Debt: >-
-        Keeps the reckoning of blood owed against blood given, the ledger on which the
-        priesthood claims the age still stands.
+        Keeps the reckoning of blood owed against blood given, the ledger on which the priesthood claims the age still stands.
       Dedicator of Captives: >-
-        Receives warriors' vows over the captives they have taken and assigns each to a
-        coming rite.
+        Receives warriors' vows over the captives they have taken and assigns each to a coming rite.
       Voice of Succession: >-
-        Puts the question to the god when a K'inmah dies, and declares whether the heir is
-        sanctioned—a power that has made and unmade dynasties.
+        Puts the question to the god when a K'inmah dies, and declares whether the heir is sanctioned—a power that has made and unmade dynasties.
       Master of Ascent: >-
-        Marshals the procession up the pyramid and the order of precedence upon its terraces,
-        by which the whole city reads its own hierarchy.
+        Marshals the procession up the pyramid and the order of precedence upon its terraces, by which the whole city reads its own hierarchy.
   seat: null
   domains: []
   population: null
   economy: []
-  lore:
-    - kinultqandty
-  parents:
-    - itzanpnthn
-  relations:
-    itzanpnthn: aligned
-sohl:
-  system:
-    commonSkills:
-      - kinultqan
+  lore: [kinultqandty]
+  parents: [itzanpnthn]
+  relations: {itzanpnthn: aligned}
+  packFolder: pantheonitzani
+sohl: {system: {commonSkills: [kinultqan]}}
 ---
 
 **Domain:** Order, Cosmic Law, Solar Cycle

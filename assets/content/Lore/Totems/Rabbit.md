@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The rabbit as a totemic ideal, and the human character it describes."
+shortcode: rabbitttm
+name: {full: Rabbit, aliases: [Rabbit Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Rabbit
-  aliases:
-    - Rabbit Totem
-shortcode: rabbitttm
-packFolder: loretotems
-data:
-  banner: creaturebnr
+description: "The rabbit as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-rabbittotem|Rabbit]]{float: top-left, size: medium}

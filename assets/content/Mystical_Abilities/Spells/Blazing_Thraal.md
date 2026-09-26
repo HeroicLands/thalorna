@@ -1,26 +1,20 @@
 ---
-tags: []
-name:
-  full: Blazing Thraal
-  aliases: []
-description: "Enslaves target in burning fury; caster commands their actions violently."
 shortcode: blzgthrl
+name: {full: Blazing Thraal, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-firebdg
-  templatePriority: null
+description: "Enslaves target in burning fury; caster commands their actions violently."
+tags: []
+data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Fire Fiend
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Fire Fiend
 ---
 
 The caster hurls a mass of concentrated flame at the ground, and the fire coalesces into a living form—a creature of pure flame that stands roughly human-sized, its body a constantly shifting mass of white-hot fire wrapped in a shell of dancing orange. The thraal moves with terrifying speed and strikes with arms of compressed flame that deliver devastating burns on contact. Where it walks, it leaves smoldering footprints, and the air around it shimmers with heat distortion.

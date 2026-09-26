@@ -1,26 +1,20 @@
 ---
-tags: []
-name:
-  full: Mask
-  aliases: []
-description: "Illusion hiding caster's identity and appearance; deeply deceptive."
 shortcode: mask
+name: {full: Mask, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
+description: "Illusion hiding caster's identity and appearance; deeply deceptive."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Mask
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Mask
 ---
 
 The caster draws a veil of arcane silence around their own magical signature, rendering themselves invisible to detection spells, scrying attempts, and the general arcane awareness that allows practitioners to sense one another. Active spells upon the caster similarly fall beneath the veil, their telltale signatures dampened to nothing. To magical senses, the caster simply ceases to exist—an empty space where a person happens to stand.

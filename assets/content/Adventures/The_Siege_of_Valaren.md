@@ -1,22 +1,17 @@
 ---
-name:
-  full: The Siege of Válaren
-  aliases: []
 shortcode: siegevalrn
+name: {full: The Siege of Válaren, aliases: []}
 type: scenario
 subType: adventure
 data:
   parents: []
-  locations:
-    - provenzrgn
+  locations: [provenzrgn]
   cast: []
   factions: []
   follows: []
   status: draft
-  party:
-    size: null
-    archetypes: []
-packFolder: adventures
+  party: {size: null, archetypes: []}
+  packFolder: adventures
 ---
 
 The coastal City of Válaren lies under blockade by forces unknown. Adventurers must break the siege and uncover who benefits from the city's starvation.

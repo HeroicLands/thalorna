@@ -1,19 +1,11 @@
 ---
-tags:
-  - great-elixir
-name:
-  full: Kingsbane
-  aliases:
-    - Potion, Poison, Great
-description: "Blackened tar-like liquid; deadly poison causing swift incapacitation."
 shortcode: ptnpoig
+name: {full: Kingsbane, aliases: ["Potion, Poison, Great"]}
 type: concoctiongear
 subType: exotic
-hmk:
-  name: "Potion, Poison, Great"
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "Blackened tar-like liquid; deadly poison causing swift incapacitation."
+tags: [great-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: great}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "great"
     strength: 0
-packFolder: great
+
+# hmk:
+#   name: "Potion, Poison, Great"
 ---
 
 This is blackened liquid, thick and almost tar-like, that seems to absorb light rather than reflect it. The smell alone can kill small animals—a nauseating, choking miasma that penetrates cloth and lingering in the nostrils for hours after exposure. The vial must be sealed with multiple layers of cork and wax, and even then, a careless whiff can drop a person to their knees in agony. The herbalist who dares prepare this works in isolation, often wearing a leather mask filled with herbs to shield against the vapors. This is not merely poison—this is death given liquid form.

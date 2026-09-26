@@ -1,21 +1,10 @@
 ---
-tags:
-  - organization
-  - arcane
-  - guild
-  - vylaria
-  - midhalion
-description: "Arcane monopoly born from conquest, wielding state power to regulate all magic, maintain dragon-backed enforcement, and extend control through academy chapterhouses."
-name:
-  full: Ordo Arcanis
-  aliases: []
-alias: The Order
-region: Western Ankaris
-headquarters: Alyssa, Vylarian Empire
-founded: Late Republic era (before the Founding)
 shortcode: ordoarcanis
+name: {full: Ordo Arcanis, aliases: [The Order]}
 type: affiliation
 subType: guild
+description: "Arcane monopoly born from conquest, wielding state power to regulate all magic, maintain dragon-backed enforcement, and extend control through academy chapterhouses."
+tags: [organization, arcane, guild, vylaria, midhalion]
 data:
   templatePriority: null
   demonym: null
@@ -24,45 +13,38 @@ data:
   governance:
     model: council
     summary: >-
-      A state-backed monopoly on arcane practice, governed by the Concilium Magnum of Praelati
-      under an Archmagister and enforced by the Quaesitorium.
+      A state-backed monopoly on arcane practice, governed by the Concilium Magnum of Praelati under an Archmagister and enforced by the Quaesitorium.
     ranks:
       - level: 1
         title: Initiati
         lore: initiaternk
         description: >-
-          The newly inducted, often children or adolescents identified as having arcane talent;
-          no rights beyond instruction and no unsupervised practice.
+          The newly inducted, often children or adolescents identified as having arcane talent; no rights beyond instruction and no unsupervised practice.
       - level: 2
         title: Discipuli
         lore: apprenticernk
         description: >-
-          Assigned to a Magister as mentor for five to ten years, combining arcane theory,
-          practical instruction and indoctrination; may practice only under direct supervision.
+          Assigned to a Magister as mentor for five to ten years, combining arcane theory, practical instruction and indoctrination; may practice only under direct supervision.
       - level: 3
         title: Adepti
         lore: masterrnk
         description: >-
-          Qualified practitioners who have passed the Ordo's examinations and are licensed to
-          practice independently; a voice in chapter meetings but no vote in governance.
+          Qualified practitioners who have passed the Ordo's examinations and are licensed to practice independently; a voice in chapter meetings but no vote in governance.
       - level: 4
         title: Magistri
         lore: councillorrnk
         description: >-
-          The governing rank, holding a vote in their chapter's council; every chapter is
-          governed by its council of Magistri.
+          The governing rank, holding a vote in their chapter's council; every chapter is governed by its council of Magistri.
       - level: 5
         title: Praelati
         lore: elderrnk
         description: >-
-          Senior masters elevated by appointment of the existing Concilium, each holding a seat
-          on the Concilium Magnum and typically leading a chapter.
+          Senior masters elevated by appointment of the existing Concilium, each holding a seat on the Concilium Magnum and typically leading a chapter.
       - level: 6
         title: Archmagister
         lore: grandmasterrnk
         description: >-
-          The single most powerful position in the arcane world, elected by the Praelati for
-          life, presiding over the Concilium Magnum and speaking for the Ordo to foreign powers.
+          The single most powerful position in the arcane world, elected by the Praelati for life, presiding over the Concilium Magnum and speaking for the Ordo to foreign powers.
     offices: {}
   seat: null
   domains: []
@@ -71,10 +53,12 @@ data:
   lore: []
   parents: []
   relations: {}
-packFolder: academyofknowledge
-sohl:
-  system:
-    commonSkills: []
+  packFolder: academyofknowledge
+sohl: {system: {commonSkills: []}}
+
+# headquarters: Alyssa, Vylarian Empire
+# region: Western Ankaris
+# founded: Late Republic era (before the Founding)
 ---
 
 The **Ordo Arcanis** is the dominant arcane guild of western [[place-ankrscntnnt|Ankaris Continent]] and one of the most powerful institutions in [[place-midhalnrgn|Mídhalión Region]]. It holds a monopoly on the practice, research, and teaching of arcane lore throughout the regions under its authority. Only members of the Ordo are sanctioned to practice magic; all others are subject to investigation, sanction, and—if necessary—elimination.

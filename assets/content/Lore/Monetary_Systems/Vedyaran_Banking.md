@@ -1,18 +1,10 @@
 ---
-tags:
-  - reference
-  - currency
-  - vedyara
-  - economy
-description: "The Vedyaran monetary system—the Merchant Collective's internal credit and clearing arrangements, and the three coins the kingdoms and city-states strike against them: the gold suvarna, the silver candra, and the copper tāmra."
+shortcode: vdyrnbnkng
+name: {full: Vedyaran Banking, aliases: [Vedyaran Currency, Vedyaran Monetary System]}
 type: lore
 subType: economy
-name:
-  full: Vedyaran Banking
-  aliases:
-    - Vedyaran Currency
-    - Vedyaran Monetary System
-shortcode: vdyrnbnkng
+description: "The Vedyaran monetary system—the Merchant Collective's internal credit and clearing arrangements, and the three coins the kingdoms and city-states strike against them: the gold suvarna, the silver candra, and the copper tāmra."
+tags: [reference, currency, vedyara, economy]
 ---
 
 ## Overview

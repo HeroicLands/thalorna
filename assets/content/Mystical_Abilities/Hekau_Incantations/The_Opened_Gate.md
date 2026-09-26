@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: The Opened Gate
-  aliases: []
-description: "Opens a way through a sealed boundary between the living world and the Duat, for a stated interval."
 shortcode: opndgt
+name: {full: The Opened Gate, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: imnetau
-  templatePriority: null
+description: "Opens a way through a sealed boundary between the living world and the Duat, for a stated interval."
+tags: [khemenu-hekau, incantation]
+data: {icon: imnetau, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: imnetau
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-packFolder: hekauincantations
+    charges: {value: null, max: null}
 ---
 
 A working of passage rather than of travel: it does not carry the practitioner anywhere, it makes

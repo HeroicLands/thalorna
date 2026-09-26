@@ -1,26 +1,14 @@
 ---
-tags:
-  - jewelry_cash
-name:
-  full: Kheperian Copper Kite
-  aliases: ["Copper Kite", "Copper Qedét"]
-description: "Sealed bronze piece at kite weight; the smallest Kheperi denomination and everyday small change."
 shortcode: ckite
+name: {full: Kheperian Copper Kite, aliases: ["Copper Kite", "Copper Qedét"]}
 type: miscgear
-data:
-  icon: icon-coinsbdg
-  templatePriority: 0
+description: "Sealed bronze piece at kite weight; the smallest Kheperi denomination and everyday small change."
+tags: [jewelry_cash]
+data: {icon: icon-coinsbdg, templatePriority: 0, packFolder: cash}
 sohl:
-  craft:
-    skill: mtlc
-    secondary: []
+  craft: {skill: mtlc, secondary: []}
   kbcat: cash
-  system:
-    weightBase: 0.02
-    valueBase: 0.125
-    qualityBase: 0
-    durabilityBase: 3
-packFolder: cash
+  system: {weightBase: 0.02, valueBase: 0.125, qualityBase: 0, durabilityBase: 3}
 ---
 
 The smallest sealed piece the temples issue, bronze at one kite. Like the copper deben it passes at its attested face rather than its metal, and the metal is worth a fraction of it.

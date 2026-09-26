@@ -1,22 +1,18 @@
 ---
-tags:
-  - region
-description: "The river-bound jungle, tepui and cloud forest that are the land of Tz'ikin, the Land of Birds on the eastern edge of Central K'ich'chik."
-name:
-  full: Tz'ikin Region
-  aliases: []
 shortcode: tzikinrgn
+name: {full: Tz'ikin Region, aliases: []}
 type: place
 subType: region
+description: "The river-bound jungle, tepui and cloud forest that are the land of Tz'ikin, the Land of Birds on the eastern edge of Central K'ich'chik."
+tags: [region]
 data:
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - cntrlkchchk
+  lore: [humanflk]
+  parents: [cntrlkchchk]
   population: null
-terran_analog: Venezuela, Guyana, Suriname, French Guiana, northern Brazil
-packFolder: tzikin
+  packFolder: tzikin
+
+# terran_analog: Venezuela, Guyana, Suriname, French Guiana, northern Brazil
 ---
 
 ## Overview

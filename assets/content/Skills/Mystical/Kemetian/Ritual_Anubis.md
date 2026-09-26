@@ -1,18 +1,10 @@
 ---
-tags:
-  - kemetian
-  - faith-skill
-  - draft
+shortcode: anubis
+name: {full: "Ritual: Ánubís", aliases: ["Ánubís, The Keeper of Transitions"]}
 type: skill
 subType: mystical
-shortcode: anubis
-name:
-  full: "Ritual: Ánubís"
-  aliases:
-    - Ánubís, The Keeper of Transitions
-data:
-  icon: anubis
-  templatePriority: null
+tags: [kemetian, faith-skill, draft]
+data: {icon: anubis, templatePriority: null, packFolder: kemetian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -21,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: kemetian
 ---
 
 See [[affiliation-anubis|Faith of Ánubís]]

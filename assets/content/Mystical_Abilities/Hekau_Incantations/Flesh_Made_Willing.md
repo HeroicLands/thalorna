@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: Flesh Made Willing
-  aliases: []
-description: "Reshapes a living body within its own nature, painfully and permanently."
 shortcode: flshmdwllng
+name: {full: Flesh Made Willing, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: khatnu
-  templatePriority: null
+description: "Reshapes a living body within its own nature, painfully and permanently."
+tags: [khemenu-hekau, incantation]
+data: {icon: khatnu, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: khatnu
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-packFolder: hekauincantations
+    charges: {value: null, max: null}
 ---
 
 Sets bone that healed crooked, restores a burned hand to usefulness, corrects what a birth did

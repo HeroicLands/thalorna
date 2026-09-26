@@ -1,10 +1,12 @@
 ---
-description: "Dreams."
-tags:
-  - aureldian
-  - religion
+shortcode: aetheria
+name:
+  full: Faith of Aethería
+  aliases: [The Veiled Dreamer, Faith of Aetheria, Aethería, Aetheria]
 type: affiliation
 subType: faithtradition
+description: "Dreams."
+tags: [aureldian, religion]
 data:
   banner: faithbnr
   icon: aetheria
@@ -15,21 +17,18 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the
-      Somniatrix above them. The lay faithful keep the feasts without office.
+      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the Somniatrix above them. The lay faithful keep the feasts without office.
     ranks:
       - level: 0
         title: Exsecratus
         lore: excmmnctrnk
         description: >-
-          Cast out—denied the rites, the temple and the burial the faith promises, which is the one
-          sentence it can pass that outlives the body.
+          Cast out—denied the rites, the temple and the burial the faith promises, which is the one sentence it can pass that outlives the body.
       - level: 1
         title: Fideles
         lore: layfaithfulrnk
         description: >-
-          The lay faithful, who keep the feasts and the observances of the god without holding office
-          in the temple.
+          The lay faithful, who keep the feasts and the observances of the god without holding office in the temple.
       - level: 2
         title: Noctaries
         lore: initiaternk
@@ -44,12 +43,10 @@ data:
         title: Somniatrix
         lore: grandmasterrnk
         description: >-
-          High Priestess or High Priest—the title is used regardless of gender—typically an elderly
-          visionary whose dreams have guided kingdoms.
+          High Priestess or High Priest—the title is used regardless of gender—typically an elderly visionary whose dreams have guided kingdoms.
     offices:
       Somniatrix: >-
-        High Priestess or High Priest—the title is used regardless of gender—typically an elderly
-        visionary whose dreams have guided kingdoms.
+        High Priestess or High Priest—the title is used regardless of gender—typically an elderly visionary whose dreams have guided kingdoms.
       Oraculi: >-
         Ordained dream-healers and interpreters of vision, trained for years in lucid dreaming and the reading of symbols.
       Noctaries: >-
@@ -60,24 +57,11 @@ data:
   domains: []
   population: null
   economy: []
-  lore:
-    - theriadty
-  parents:
-    - arldnpnthn
-  relations:
-    arldnpnthn: aligned
-name:
-  full: Faith of Aethería
-  aliases:
-    - The Veiled Dreamer
-    - Faith of Aetheria
-    - Aethería
-    - Aetheria
-shortcode: aetheria
-packFolder: pantheonsaureldian
-sohl:
-  system:
-    commonSkills: []
+  lore: [theriadty]
+  parents: [arldnpnthn]
+  relations: {arldnpnthn: aligned}
+  packFolder: pantheonsaureldian
+sohl: {system: {commonSkills: []}}
 ---
 
 Goddess of dreams, celestial visions, and the veil between worlds. Aethería brings divine inspiration and omens to mortals through their dreams. She is patron to seers, oracles, healers of the mind, and all who seek truth in the world beyond waking.

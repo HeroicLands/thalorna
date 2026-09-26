@@ -1,11 +1,6 @@
 ---
-name:
-  full: "Vedyara"
 shortcode: vedyara
+name: {full: "Vedyara"}
 type: folder
-data:
-  parent:
-    default: polities
-    journals: ankaris
-  color: "#4CAF50"
+data: {parent: {default: polities, journals: ankaris}, color: "#4CAF50"}
 ---

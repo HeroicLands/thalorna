@@ -1,23 +1,19 @@
 ---
-tags:
-  - region
-description: The Byzarian League's northern frontier district—the upland rim of the plateau toward Velanthia, down which the grain road runs and across which the League and the Velanthian Hosts keep a quiet, commercial border.
-name:
-  full: Northern March
-  aliases: []
 shortcode: northrnmrch
+name: {full: Northern March, aliases: []}
 type: place
 subType: region
+description: The Byzarian League's northern frontier district—the upland rim of the plateau toward Velanthia, down which the grain road runs and across which the League and the Velanthian Hosts keep a quiet, commercial border.
+tags: [region]
 data:
   icon: null
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - byzariargn
+  lore: [humanflk]
+  parents: [byzariargn]
   population: null
-terran_analog: "The Pontic uplands of northern Anatolia, facing the steppe grain country beyond."
-packFolder: byzaria
+  packFolder: byzaria
+
+# terran_analog: "The Pontic uplands of northern Anatolia, facing the steppe grain country beyond."
 ---
 
 The Northern March is the frontier district of the [[affiliation-byzarianlg|Byzarian League]] on the landward, northern rim of [[place-byzariargn|Byzaría]], where the plateau climbs into rough uplands and descends on their far side into the black-earth grain country of [[place-velanthrgn|Velanthia]]. It is the quietest of the League's three marches and the one the council in [[affiliation-altinkale|Altinkale]] thinks about least—which is the highest compliment a border can be paid. Nothing comes over it that the League does not want, and what the League wants most is grain.

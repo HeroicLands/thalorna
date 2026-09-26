@@ -1,14 +1,11 @@
 ---
-name:
-  full: Beings
-  aliases: []
+shortcode: being
+name: {full: Beings, aliases: []}
 type: doc
 subType: reference
-shortcode: being
-tags:
 description: Every being across the lands of Thalorna and beyond—people, beasts, spirits, and monsters.
-data:
-  banner: characterbnr
+tags:
+data: {banner: characterbnr}
 ---
 
 Every being across the lands of Thalorna and beyond: the people whose choices shape the world's ongoing history, and the beasts, spirits, and monsters that share it with them.

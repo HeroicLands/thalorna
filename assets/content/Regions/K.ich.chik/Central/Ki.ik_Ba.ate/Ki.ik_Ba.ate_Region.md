@@ -1,22 +1,18 @@
 ---
-tags:
-  - region
-description: "The volcanic isthmus and its two coasts—the land of Ki'ik Ba'ate, the corridor binding Central K'ich'chik to the south."
-name:
-  full: Ki'ik Ba'ate Region
-  aliases: []
 shortcode: kiikbaatergn
+name: {full: Ki'ik Ba'ate Region, aliases: []}
 type: place
 subType: region
+description: "The volcanic isthmus and its two coasts—the land of Ki'ik Ba'ate, the corridor binding Central K'ich'chik to the south."
+tags: [region]
 data:
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - cntrlkchchk
+  lore: [humanflk]
+  parents: [cntrlkchchk]
   population: null
-terran_analog: Nicaragua through Colombia
-packFolder: kiikbaate
+  packFolder: kiikbaate
+
+# terran_analog: Nicaragua through Colombia
 ---
 
 ## Overview

@@ -1,22 +1,17 @@
 ---
-name:
-  full: The Curse of Mount Hydraven
-  aliases: []
 shortcode: crsmnthydrvn
+name: {full: The Curse of Mount Hydraven, aliases: []}
 type: scenario
 subType: adventure
 data:
   parents: []
-  locations:
-    - provenzrgn
+  locations: [provenzrgn]
   cast: []
   factions: []
   follows: []
   status: draft
-  party:
-    size: null
-    archetypes: []
-packFolder: adventures
+  party: {size: null, archetypes: []}
+  packFolder: adventures
 ---
 
 ## The Curse of Mount Hýdraven

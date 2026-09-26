@@ -1,20 +1,11 @@
 ---
-tags:
-  - city
-  - draft
-description: "City"
+shortcode: kiikbaate2
+name: {full: Ki'ik Ba'ate, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - kiikbaatergn
-  population: 70000
-name:
-  full: Ki'ik Ba'ate
-  aliases: []
-shortcode: kiikbaate2
+description: "City"
+tags: [city, draft]
+data: {demonym: null, lore: [], parents: [kiikbaatergn], population: 70000}
 ---
 
 ## Overview

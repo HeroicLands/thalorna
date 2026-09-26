@@ -1,21 +1,11 @@
 ---
-tags:
-  - region
-  - inland
-description: "The great central plain of Stormveld—the thrall-worked farmland that feeds the Jarldom, and where nearly all its people live."
+shortcode: stormplain
+name: {full: The Stormplain, aliases: []}
 type: place
 subType: region
-data:
-  demonym: null
-  lore: []
-  parents:
-    - stormveld
-  population: 112000
-name:
-  full: The Stormplain
-  aliases: []
-shortcode: stormplain
-packFolder: aelwyth
+description: "The great central plain of Stormveld—the thrall-worked farmland that feeds the Jarldom, and where nearly all its people live."
+tags: [region, inland]
+data: {demonym: null, lore: [], parents: [stormveld], population: 112000, packFolder: aelwyth}
 ---
 
 The **Stormplain** is the broad, low, wind-scoured plain that fills the center of

@@ -1,18 +1,9 @@
 ---
-tags:
-  - town
-description: "Town"
+shortcode: skarholme
+name: {full: Skarholme, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - nordheim
-  population: 700
-name:
-  full: Skarholme
-  aliases: []
-shortcode: skarholme
-packFolder: nordheim
+description: "Town"
+tags: [town]
+data: {demonym: null, lore: [], parents: [nordheim], population: 700, packFolder: nordheim}
 ---

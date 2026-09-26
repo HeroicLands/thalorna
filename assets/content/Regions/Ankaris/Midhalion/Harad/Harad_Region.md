@@ -1,20 +1,17 @@
 ---
-tags:
-  - region
-description: Archpelegio of islands and coastal region of city-states
-name:
-  full: Harad Region
-  aliases: []
 shortcode: haradregin
+name: {full: Harad Region, aliases: []}
 type: place
 subType: region
+description: Archpelegio of islands and coastal region of city-states
+tags: [region]
 data:
   icon: null
   demonym: null
   lore: []
-  parents:
-    - midhalnrgn
+  parents: [midhalnrgn]
   population: 12000000
-terran_analog: ""
-packFolder: harad
+  packFolder: harad
+
+# terran_analog: ""
 ---

@@ -1,22 +1,11 @@
 ---
-tags:
-  - settlement
-  - capital
-  - fortified
-description: "Fortified Settlement / Regional Capital"
+shortcode: bjornstad
+name: {full: Bjornstad, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - vithgard
-  population: 1000
-name:
-  full: Bjornstad
-  aliases: []
-shortcode: bjornstad
-packFolder: vithgard
+description: "Fortified Settlement / Regional Capital"
+tags: [settlement, capital, fortified]
+data: {demonym: null, lore: [], parents: [vithgard], population: 1000, packFolder: vithgard}
 ---
 
 ## Overview

@@ -37,18 +37,18 @@ Create a Markdown file anywhere below this directory with YAML frontmatter:
 
 ```yaml
 ---
+shortcode: brzgnt # unique within (type, package); referenced by saved data
 name:
   full: Bronze Gauntlet # the display name
-aliases:
-  - Bronze Gauntlet
-  - weapongear-brzgnt # the canonical `<type>-<shortcode>` address
-shortcode: brzgnt # unique within (type, package); referenced by saved data
+  aliases:
+    - Bronze Gauntlet
+    - weapongear-brzgnt # the canonical `<type>-<shortcode>` address
 type: weapongear
 data:
   templatePriority: null # tri-state: a number if this note is a template, null if not, never absent
+  packFolder: totems
 sohl:
   subType: melee # required on every subType-bearing type
-packFolder: totems
 ---
 ```
 

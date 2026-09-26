@@ -1,26 +1,20 @@
 ---
-tags: []
-name:
-  full: Heat
-  aliases: []
-description: "Controllable heating; forges metal, melts ice, ignites materials gradually."
 shortcode: heat
+name: {full: Heat, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-firebdg
-  templatePriority: null
+description: "Controllable heating; forges metal, melts ice, ignites materials gradually."
+tags: []
+data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Heat
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Heat
 ---
 
 The caster focuses their attention on an object or area and wills its temperature to rise. Metal grows warm, then hot, then too hot to hold. Water steams. Wood begins to smoke and may eventually ignite if the caster sustains their effort. The effect is precise—the caster can heat a sword's blade while leaving its hilt cool, or warm a stone floor beneath their feet while the walls remain cold.

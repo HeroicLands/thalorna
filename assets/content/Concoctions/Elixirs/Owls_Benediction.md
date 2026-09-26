@@ -1,19 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: "Owl's Benediction"
-  aliases:
-    - Darkvision Elixir
-description: "Midnight-blue elixir; grants darkness vision to distance of Aural Shock."
 shortcode: elxdrk
+name: {full: "Owl's Benediction", aliases: [Darkvision Elixir]}
 type: concoctiongear
 subType: elixir
-hmk:
-  name: Darkvision
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "Midnight-blue elixir; grants darkness vision to distance of Aural Shock."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "na"
     strength: 0
-packFolder: elixirs
+
+# hmk:
+#   name: Darkvision
 ---
 
 A deep midnight blue liquid that seems to absorb light rather than reflect it, held in a vial wrapped in cloth to dull its unsettling luminescence. Bound to the Principle of Light (Hydälis), this elixir grants the imbiber sight beyond mortal limits. Once drunk, the eyes adapt to darkness: the drinker can see normally in any light condition, from pitch black to twilight, projecting their vision outward to a distance of their current Aural Shock multiplied by five feet. The effect does not illuminate the area itself, so the imbiber can still hide within shadows while seeing clearly all around them.

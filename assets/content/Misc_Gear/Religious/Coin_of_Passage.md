@@ -1,25 +1,14 @@
 ---
-tags: []
-name:
-  full: Coin of Passage
-  aliases: []
-description: "A small copper disc placed in the hand of the deceased at cremation; not an offering, but a reminder of what a soul carries to the threshold."
 shortcode: coinpassage
+name: {full: Coin of Passage, aliases: []}
 type: miscgear
-data:
-  icon: icon-coinsbdg
-  templatePriority: null
+description: "A small copper disc placed in the hand of the deceased at cremation; not an offering, but a reminder of what a soul carries to the threshold."
+tags: []
+data: {icon: icon-coinsbdg, templatePriority: null, packFolder: religious}
 sohl:
   kbcat: religious
-  craft:
-    skill: mtlc
-    secondary: []
-  system:
-    weightBase: 0.004
-    valueBase: 0
-    qualityBase: 0
-    durabilityBase: 3
-packFolder: religious
+  craft: {skill: mtlc, secondary: []}
+  system: {weightBase: 0.004, valueBase: 0, qualityBase: 0, durabilityBase: 3}
 ---
 
 Struck with no mark of any mint, the coin of passage is placed in the hand of the dead as the pyre is lit, and it is not spent by [[affiliation-kalavrata|Kālavrata]] or paid to any toll. Its theology is exact on the point: the coin reminds every mourner present that a soul stands at the threshold with only what it has made of its life, and nothing bought or bribed carries further than that.

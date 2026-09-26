@@ -1,9 +1,6 @@
 ---
-name:
-  full: "Celestial Order"
 shortcode: celestialorder
+name: {full: "Celestial Order"}
 type: folder
-data:
-  parent: tanvur
-  color: "#66BB6A"
+data: {parent: tanvur, color: "#66BB6A"}
 ---

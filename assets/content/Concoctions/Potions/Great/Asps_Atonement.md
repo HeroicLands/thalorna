@@ -1,19 +1,11 @@
 ---
-tags:
-  - great-elixir
-name:
-  full: "Asp's Atonement"
-  aliases:
-    - Potion, Antivenin, Great
-description: "Nearly transparent golden distillation; heals poison and venom damage."
 shortcode: ptnantvg
+name: {full: "Asp's Atonement", aliases: ["Potion, Antivenin, Great"]}
 type: concoctiongear
 subType: exotic
-hmk:
-  name: "Potion, Antivenin, Great"
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "Nearly transparent golden distillation; heals poison and venom damage."
+tags: [great-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: great}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "great"
     strength: 0
-packFolder: great
+
+# hmk:
+#   name: "Potion, Antivenin, Great"
 ---
 
 This legendary preparation is nearly transparent, a barely-golden distillation of the apothecary's art, held in a vial of such fine craftsmanship that the glass seems to glow from within. The scent is subtle—neither the burned-herb reek of milder antivenins nor any mere chemical tang, but rather the crystalline clarity of pure efficacy, faint as the smell of starlight. A single droplet costs what a laborer earns in a week, and herbalists guard their recipes for the great preparation with the jealousy of dragons guarding gold.

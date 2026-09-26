@@ -1,22 +1,11 @@
 ---
-tags:
-  - town
-  - river
-  - market
-description: "The largest of the copying towns of the middle Sarvada, whose Scribes' Guild sets the rate for a finished page across the subcontinent."
+shortcode: dharmapur
+name: {full: Dharmapur, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - vedyarargn
-  population: 4200
-name:
-  full: Dharmapur
-  aliases: []
-shortcode: dharmapur
-packFolder: vedyara
+description: "The largest of the copying towns of the middle Sarvada, whose Scribes' Guild sets the rate for a finished page across the subcontinent."
+tags: [town, river, market]
+data: {demonym: null, lore: [], parents: [vedyarargn], population: 4200, packFolder: vedyara}
 ---
 
 Dharmapur (4,200) stands on the middle [[place-sarvadarivr|Sarvada]], ninety miles below the bow-country, and is the largest of the copying towns of that reach. About one adult in five here can read. No other place in Vedyara outside a city comes near it.

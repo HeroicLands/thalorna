@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Bane
-  aliases:
-    - Malediction
-description: "Curse; target suffers weakness; failures cascade into fresh misfortune."
 shortcode: bane
+name: {full: Bane, aliases: [Malediction]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
+description: "Curse; target suffers weakness; failures cascade into fresh misfortune."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Malediction
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Malediction
 ---
 
 The caster fixes their gaze upon a target and speaks a word of diminishment, unleashing an insidious curse that settles over the victim like an invisible weight. The bane erodes the target's natural resilience to magical effects, thinning the innate protective barriers that all living things possess against arcane manipulation. Spells that would normally glance off the target's defenses now bite deeper, and effects that would fade quickly instead linger.

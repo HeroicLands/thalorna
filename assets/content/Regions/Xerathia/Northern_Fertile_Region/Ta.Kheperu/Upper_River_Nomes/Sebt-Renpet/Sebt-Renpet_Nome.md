@@ -1,22 +1,17 @@
 ---
-tags:
-  - region
-description: "Cavern-tombs and natron; a workmanlike mortuary nome—the land of the Nome of Sebt-Renpet, one of the upper-river nomes of Ta'Kheperu."
-name:
-  full: Sebt-Renpet Nome
-  aliases: []
 shortcode: sebtrenpetnome
+name: {full: Sebt-Renpet Nome, aliases: []}
 type: place
 subType: region
+description: "Cavern-tombs and natron; a workmanlike mortuary nome—the land of the Nome of Sebt-Renpet, one of the upper-river nomes of Ta'Kheperu."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 380000
-packFolder: upperrivernomes
+  packFolder: upperrivernomes
 ---
 
 ## Overview

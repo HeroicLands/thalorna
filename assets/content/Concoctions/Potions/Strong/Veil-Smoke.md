@@ -1,19 +1,11 @@
 ---
-tags:
-  - strong-elixir
-name:
-  full: Veil-Smoke
-  aliases:
-    - Potion, Hallucinogenic, Strong
-description: "Almost indigo draft; obscures vision and conceals drinker."
 shortcode: ptnhals
+name: {full: Veil-Smoke, aliases: ["Potion, Hallucinogenic, Strong"]}
 type: concoctiongear
 subType: exotic
-hmk:
-  name: "Potion, Hallucinogenic, Strong"
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "Almost indigo draft; obscures vision and conceals drinker."
+tags: [strong-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: strong}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "strong"
     strength: 0
-packFolder: strong
+
+# hmk:
+#   name: "Potion, Hallucinogenic, Strong"
 ---
 
 This draft is darker than its mild cousin, an almost indigo suspension in which specks of finely ground plant matter hover like suspended stars. The scent is potent—acrid, almost metallic, with an underlying sweetness that nauseates some on first inhalation. The herbalist who brews it must steady their hands against the fumes alone. One swallow coats the mouth with an astringent taste that lingers for hours.

@@ -1,14 +1,10 @@
 ---
-tags: []
-name:
-  full: Goblins
-  aliases:
-    - Goblin
-    - The Cunning Tricksters
-description: "Small, cunning and fiercely individualistic followers of a trickster god, who thrive on chaos and rarely cooperate even with each other."
 shortcode: goblinfolk
+name: {full: Goblins, aliases: [Goblin, The Cunning Tricksters]}
 type: lore
 subType: folk
+description: "Small, cunning and fiercely individualistic followers of a trickster god, who thrive on chaos and rarely cooperate even with each other."
+tags: []
 ---
 
 ## Goblins - The Cunning Tricksters

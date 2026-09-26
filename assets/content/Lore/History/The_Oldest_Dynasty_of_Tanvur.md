@@ -1,55 +1,51 @@
 ---
-tags:
-  - history
-  - spine
-description: "Around 2500 BF the Bureau of Records can first produce an emperor, a dynasty and a year together—the oldest human archive anyone can still read, opened seventy years before Khazártúrn fell."
+shortcode: tanvurdyn
+name: {full: The Opening of the Tānvüri Record, aliases: [The Oldest Documented Dynasty]}
 type: lore
 subType: history
-name:
-  full: The Opening of the Tānvüri Record
-  aliases:
-    - The Oldest Documented Dynasty
-shortcode: tanvurdyn
-packFolder: settinglore
-event:
-  kind: founding
-  depth: world
-  when:
-    year: -2500
-    precision: century
-  sources:
-    - lore-clndrstrlgy
-    - affiliation-tanvurempr
-    - lore-khazarturn
-  summary: >-
-    The oldest imperial dynasty the Bureau of Records can date from documents in its own custody
-    begins. It is the earliest point at which any human institution can produce a ruler, a house and a
-    year together, and the line runs from here through more than a dozen dynasties to the present.
-  standing: single-source
-  where:
-    locus:
-      - place-tanvuregin
-  who:
-    - ref: affiliation-tanvurempr
-      role: ruler
-  accounts:
-    - by: affiliation-tanvurempr
-      says: >-
-        The archive can vouch for the last thirty-two centuries of an appointment reaching back to the
-        founding of time.
-      agrees: full
-    - by: lore-celestlrdr
-      says: >-
-        The same line, traced very much further, to the zero of the Celestial Calendar. The two
-        accounts are held at once and there is a doctrine for doing so.
-      agrees: partly
-    - by: lore-flkkhazar
-      says: >-
-        Nothing. No Khazári account of the age names a human polity, and no Tānvüri document of the
-        century names the Khazári.
-      agrees: silent
-  unresolved:
-    - whether anything can be established about the interval the mortal archive does not cover
+description: "Around 2500 BF the Bureau of Records can first produce an emperor, a dynasty and a year together—the oldest human archive anyone can still read, opened seventy years before Khazártúrn fell."
+tags: [history, spine]
+data: {packFolder: settinglore}
+
+# event:
+#   kind: founding
+#   depth: world
+#   when:
+#     year: -2500
+#     precision: century
+#   sources:
+#     - lore-clndrstrlgy
+#     - affiliation-tanvurempr
+#     - lore-khazarturn
+#   summary: >-
+#     The oldest imperial dynasty the Bureau of Records can date from documents in its own custody
+#     begins. It is the earliest point at which any human institution can produce a ruler, a house and a
+#     year together, and the line runs from here through more than a dozen dynasties to the present.
+#   standing: single-source
+#   where:
+#     locus:
+#       - place-tanvuregin
+#   who:
+#     - ref: affiliation-tanvurempr
+#       role: ruler
+#   accounts:
+#     - by: affiliation-tanvurempr
+#       says: >-
+#         The archive can vouch for the last thirty-two centuries of an appointment reaching back to the
+#         founding of time.
+#       agrees: full
+#     - by: lore-celestlrdr
+#       says: >-
+#         The same line, traced very much further, to the zero of the Celestial Calendar. The two
+#         accounts are held at once and there is a doctrine for doing so.
+#       agrees: partly
+#     - by: lore-flkkhazar
+#       says: >-
+#         Nothing. No Khazári account of the age names a human polity, and no Tānvüri document of the
+#         century names the Khazári.
+#       agrees: silent
+#   unresolved:
+#     - whether anything can be established about the interval the mortal archive does not cover
 ---
 
 The dynastic record is the empire's own instrument, and it is separate from the reckoning the

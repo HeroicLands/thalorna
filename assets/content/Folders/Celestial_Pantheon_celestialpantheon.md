@@ -1,9 +1,6 @@
 ---
-name:
-  full: "Celestial Pantheon"
 shortcode: celestialpantheon
+name: {full: "Celestial Pantheon"}
 type: folder
-data:
-  parent: pantheonstengvokvanlei
-  color: "#DDA0DD"
+data: {parent: pantheonstengvokvanlei, color: "#DDA0DD"}
 ---

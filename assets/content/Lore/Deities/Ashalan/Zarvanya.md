@@ -1,11 +1,9 @@
 ---
-tags: []
-description: "The Weaver of Visions in the Āsháian pantheon, holding dreams and what is read in them."
+shortcode: zarvanyadty
+name: {full: Zárványä, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Zárványä
-  aliases: []
-shortcode: zarvanyadty
-packFolder: deitiesashalan
+description: "The Weaver of Visions in the Āsháian pantheon, holding dreams and what is read in them."
+tags: []
+data: {packFolder: deitiesashalan}
 ---

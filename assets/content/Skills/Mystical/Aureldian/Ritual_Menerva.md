@@ -1,19 +1,10 @@
 ---
-tags:
-  - aureldian
-  - faith-skill
-  - draft
+shortcode: menerva
+name: {full: "Ritual: Menerva", aliases: [Ménérva, Keeper of Sacred Wisdom]}
 type: skill
 subType: mystical
-shortcode: menerva
-name:
-  full: "Ritual: Menerva"
-  aliases:
-    - Ménérva
-    - Keeper of Sacred Wisdom
-data:
-  icon: menerva
-  templatePriority: null
+tags: [aureldian, faith-skill, draft]
+data: {icon: menerva, templatePriority: null, packFolder: aureldian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -22,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: aureldian
 ---
 
 See [[affiliation-menerva|Faith of Menerva]]

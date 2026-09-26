@@ -1,17 +1,10 @@
 ---
-tags:
-  - khemenu-hekau
-  - draft
+shortcode: maatken
+name: {full: "Hekau: Maat'ken", aliases: [Per-Maat'ken]}
 type: skill
 subType: mystical
-shortcode: maatken
-name:
-  full: "Hekau: Maat'ken"
-  aliases:
-    - Per-Maat'ken
-data:
-  icon: maatken
-  templatePriority: null
+tags: [khemenu-hekau, draft]
+data: {icon: maatken, templatePriority: null, packFolder: khemenuhekau}
 sohl:
   system:
     skillBaseFormula: "@aur, @rea"
@@ -20,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: khemenuhekau
 ---
 
 See [[affiliation-maatken|Per-Maat'ken]]

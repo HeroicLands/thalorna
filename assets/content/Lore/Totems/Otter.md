@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The otter as a totemic ideal, and the human character it describes."
+shortcode: otterttm
+name: {full: Otter, aliases: [Otter Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Otter
-  aliases:
-    - Otter Totem
-shortcode: otterttm
-packFolder: loretotems
-data:
-  banner: creaturebnr
+description: "The otter as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-ottertotem|Otter]]{float: top-left, size: medium}

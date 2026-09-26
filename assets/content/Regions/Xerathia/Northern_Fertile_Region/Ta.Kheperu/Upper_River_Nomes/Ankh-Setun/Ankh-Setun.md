@@ -1,22 +1,17 @@
 ---
-tags:
-  - city
-  - capital
-description: "City (Granary Capital)"
+shortcode: ankhsetun
+name: {full: Ankh-Setûn, aliases: []}
 type: place
 subType: settlement
+description: "City (Granary Capital)"
+tags: [city, capital]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - ankhsetunnome
+  parents: [ankhsetunnome]
   population: 80000
-name:
-  full: Ankh-Setûn
-  aliases: []
-shortcode: ankhsetun
-packFolder: ankhsetun
+  packFolder: ankhsetun
 ---
 
 ## Overview

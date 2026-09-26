@@ -1,24 +1,17 @@
 ---
+shortcode: graznmntns
+name: {full: The Grazian Mountains, aliases: [The Grazian Range, The Grazian Wall]}
 type: place
 subType: region
 data:
   demonym: null
   lore: []
-  parents:
-    - vedyarargn
-    - khzryndsrtrgn
-  borders:
-    - { to: tanvuregin, bearing: E }
-    - { to: dunharargn, bearing: W }
+  parents: [vedyarargn, khzryndsrtrgn]
+  borders: [{to: tanvuregin, bearing: E}, {to: dunharargn, bearing: W}]
   population: null
-name:
-  full: The Grazian Mountains
-  aliases:
-    - The Grazian Range
-    - The Grazian Wall
-shortcode: graznmntns
-terran_analog: "The Himalayas, Karakoram, Pamir, and Tian Shan complex—the great mountain wall between the Indian subcontinent and the Central Asian steppe. The southern face is the wall against Vedyara and the northern face the wall against the Khazryn; the eastern arc turns toward Tānvür, and the western end falls away into the Afghan-analog foothills of the Dunhari desert-margin."
-packFolder: vedyara
+  packFolder: vedyara
+
+# terran_analog: "The Himalayas, Karakoram, Pamir, and Tian Shan complex—the great mountain wall between the Indian subcontinent and the Central Asian steppe. The southern face is the wall against Vedyara and the northern face the wall against the Khazryn; the eastern arc turns toward Tānvür, and the western end falls away into the Afghan-analog foothills of the Dunhari desert-margin."
 ---
 
 - **Type:** Great mountain range

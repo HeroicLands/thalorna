@@ -1,11 +1,9 @@
 ---
+shortcode: nutzok
+name: {full: Nützōk, aliases: []}
 type: lore
 subType: culture
-name:
-  full: Nützōk
-  aliases: []
-shortcode: nutzok
-packFolder: castes
+data: {packFolder: castes}
 ---
 
 **Slaves and Outcasts**

@@ -1,19 +1,11 @@
 ---
-tags:
-  - nkaruthar
-  - spirit-power
-  - draft
-description: "Standing with Mzazi wa Ardhi, zohira of fertility—what this emissary of the Flame is petitioned and interceded with."
+shortcode: mzazisprt
+name: {full: "Mzazi wa Ardhi Spirit Power", aliases: [The Begetter of the Earth]}
 type: skill
 subType: mystical
-shortcode: mzazisprt
-name:
-  full: "Mzazi wa Ardhi Spirit Power"
-  aliases:
-    - The Begetter of the Earth
-data:
-  icon: icon-psychicwaves
-  templatePriority: null
+description: "Standing with Mzazi wa Ardhi, zohira of fertility—what this emissary of the Flame is petitioned and interceded with."
+tags: [nkaruthar, spirit-power, draft]
+data: {icon: icon-psychicwaves, templatePriority: null, packFolder: spiritskillsokharic}
 sohl:
   system:
     skillBaseFormula: "@aur, @wil"
@@ -22,7 +14,6 @@ sohl:
     combatCategory: none
     parentSkillCode: spirit
     initSkillMult: 0
-packFolder: spiritskillsokharic
 ---
 
 See [[lore-mzazispr|Mzazi wa Ardhi]]—zohira of fertility, met through [[affiliation-njiayaroho|the Njia ya Roho]].

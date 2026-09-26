@@ -1,14 +1,10 @@
 ---
-tags: []
-name:
-  full: Bagh Nakh
-  aliases: []
-description: "Curved iron claws for raking close brawl; street fighter's mercy-less tool."
 shortcode: bghnkh
+name: {full: Bagh Nakh, aliases: []}
 type: weapongear
-data:
-  icon: icon-broaddagger
-  templatePriority: null
+description: "Curved iron claws for raking close brawl; street fighter's mercy-less tool."
+tags: []
+data: {icon: icon-broaddagger, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: knife
   weaponType: Knife
@@ -23,14 +19,8 @@ sohl:
         name: Rake
         assocSkillCode: melee
         minParts: 1
-        attack:
-          spread: 4
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 6
-          modifier: 1
-          aspect: edged
+        attack: {spread: 4, modifier: 0}
+        impactBase: {numDice: 1, die: 6, modifier: 1, aspect: edged}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -59,10 +49,7 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 1
-        defense:
-          blockMod: 0
-          counterstrikeMod: 0
-packFolder: weapons
+        defense: {blockMod: 0, counterstrikeMod: 0}
 ---
 
 Four or five curved iron claws buckled across the knuckles, worn like a fist-pack for raking and tearing in close brawl. The curves are honed and wickedly sharp, designed to catch and rend flesh and light leather at close quarters. Favored by street fighters and ambushers who work without ransom or mercy.

@@ -1,22 +1,11 @@
 ---
-tags:
-  - city
-  - naval
-  - military
-description: "Naval City (Military Hub)"
+shortcode: castamar
+name: {full: Castamar, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - vald
-  population: 20000
-name:
-  full: Castamar
-  aliases: []
-shortcode: castamar
-packFolder: vylaria
+description: "Naval City (Military Hub)"
+tags: [city, naval, military]
+data: {demonym: null, lore: [], parents: [vald], population: 20000, packFolder: vylaria}
 ---
 
 ## Overview

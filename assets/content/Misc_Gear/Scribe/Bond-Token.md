@@ -1,25 +1,14 @@
 ---
-tags: []
-name:
-  full: Bond-Token
-  aliases: []
-description: "A household's stamped tally, worn by a bonded servant as proof of whose debt he works and how much of it stands."
 shortcode: bondtoken
+name: {full: Bond-Token, aliases: []}
 type: miscgear
-data:
-  icon: icon-coinsbdg
-  templatePriority: null
+description: "A household's stamped tally, worn by a bonded servant as proof of whose debt he works and how much of it stands."
+tags: []
+data: {icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
 sohl:
   kbcat: scribe
-  craft:
-    skill: mtlc
-    secondary: []
-  system:
-    weightBase: 0.05
-    valueBase: 0
-    qualityBase: 0
-    durabilityBase: 5
-packFolder: scribe
+  craft: {skill: mtlc, secondary: []}
+  system: {weightBase: 0.05, valueBase: 0, qualityBase: 0, durabilityBase: 5}
 ---
 
 Stamped with a household's mark and a running tally of the debt still owed, the bond-token is what a bonded servant of the [[affiliation-mrchntclctvvdyr|Merchant Collective]]'s mines and estates carries in place of a wrist a temple gate will not read past. The mark identifies the holder; the tally, notched or re-stamped at each settling, is the whole record of what remains between him and his own name again.

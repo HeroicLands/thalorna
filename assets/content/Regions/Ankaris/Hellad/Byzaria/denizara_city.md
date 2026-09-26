@@ -1,20 +1,11 @@
 ---
-tags:
-  - port
-  - city
-description: "Port City"
+shortcode: denizara2
+name: {full: Denizara, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - byzariargn
-  population: 70000
-name:
-  full: Denizara
-  aliases: []
-shortcode: denizara2
+description: "Port City"
+tags: [port, city]
+data: {demonym: null, lore: [], parents: [byzariargn], population: 70000}
 ---
 
 ## Overview

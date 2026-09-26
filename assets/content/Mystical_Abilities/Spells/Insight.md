@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Insight
-  aliases:
-    - Diagnosis
-description: "Diagnostic magic revealing all physical traumas; enhances healing greatly."
 shortcode: insight
+name: {full: Insight, aliases: [Diagnosis]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-tree
-  templatePriority: null
+description: "Diagnostic magic revealing all physical traumas; enhances healing greatly."
+tags: []
+data: {icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: physera
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Diagnosis
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Diagnosis
 ---
 
 The caster places hands upon a wounded creature and channels diagnostic Physéra energy through the patient's body, gaining an immediate and comprehensive understanding of all physical traumas present—their severity, location, state of healing, and risk of complication. This grants the Healing talent bonus and provides a substantial bonus to all subsequent Physician tests to treat the injuries cataloged by the spell. The diagnostic impression is instantaneous and thorough, revealing information that might otherwise require hours of physical examination and probing.

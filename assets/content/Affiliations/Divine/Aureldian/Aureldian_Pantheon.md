@@ -1,16 +1,10 @@
 ---
-tags:
-  - pantheon
-  - aureldian
-  - religion
-description: "Western tradition honoring twelve deities governing creation, order, and the cycles of life; split by the Vúlcani schism between sacred forge and black flame."
-name:
-  full: Aurèldían Pantheon
-  aliases:
-    - The Twelve
 shortcode: arldnpnthn
+name: {full: Aurèldían Pantheon, aliases: [The Twelve]}
 type: affiliation
 subType: faithtradition
+description: "Western tradition honoring twelve deities governing creation, order, and the cycles of life; split by the Vúlcani schism between sacred forge and black flame."
+tags: [pantheon, aureldian, religion]
 data:
   banner: pantheonbnr
   templatePriority: null
@@ -20,19 +14,13 @@ data:
   governance:
     model: theocracy
     summary: >-
-      Twelve separate priesthoods rather than one, sharing a pattern: acolytes in training, a body
-      of ordained clergy, and a high priest above them—a Pontifex, a Flamen, a Magistra or a
-      Somniatrix according to the god. The larger faiths insert a senior college between clergy and
-      apex. Two stand outside it: Karnavos's, which is deliberately anarchic, and the Vúlcani
-      faiths, split by schism into the Sacred Forge's Grand Pontifex and the Black Flame's
-      independent Flame-Wardens.
+      Twelve separate priesthoods rather than one, sharing a pattern: acolytes in training, a body of ordained clergy, and a high priest above them—a Pontifex, a Flamen, a Magistra or a Somniatrix according to the god. The larger faiths insert a senior college between clergy and apex. Two stand outside it: Karnavos's, which is deliberately anarchic, and the Vúlcani faiths, split by schism into the Sacred Forge's Grand Pontifex and the Black Flame's independent Flame-Wardens.
     ranks:
       - level: 0
         title: Exsecratus
         lore: excmmnctrnk
         description: >-
-          Cast out—denied the rites, the temple and the burial a faith promises, which is the one
-          sentence it can pass that outlives the body.
+          Cast out—denied the rites, the temple and the burial a faith promises, which is the one sentence it can pass that outlives the body.
       - level: 1
         title: Fideles
         lore: layfaithfulrnk
@@ -42,30 +30,25 @@ data:
         title: Acolyte
         lore: initiaternk
         description: >-
-          In training at a temple and not yet ordained—a Vestalis, a Noctary, a Scholaris or an
-          Acolyte of the Garden, according to the god.
+          In training at a temple and not yet ordained—a Vestalis, a Noctary, a Scholaris or an Acolyte of the Garden, according to the god.
       - level: 3
         title: Sacerdos
         lore: priestrnk
         description: >-
-          The ordained clergy of a faith, who keep its temples and perform its rites: Sacerdotes,
-          Flamines, Oraculi, Custodes or Magistri as the god requires.
+          The ordained clergy of a faith, who keep its temples and perform its rites: Sacerdotes, Flamines, Oraculi, Custodes or Magistri as the god requires.
       - level: 4
         title: Senior College
         lore: highpriestrnk
         description: >-
-          Where a faith is large enough to need one—the Collegium Sacerdotalis of Jánus, the
-          Collegium Doctorum of Ménérva—a body of seniors between the clergy and the apex.
+          Where a faith is large enough to need one—the Collegium Sacerdotalis of Jánus, the Collegium Doctorum of Ménérva—a body of seniors between the clergy and the apex.
       - level: 5
         title: Pontifex
         lore: grandmasterrnk
         description: >-
-          The high priest of a faith, styled according to its god: Pontifex Iuris, Flamen Tempestas,
-          Magistra Sapientiae, Somniatrix, Grand Pontifex.
+          The high priest of a faith, styled according to its god: Pontifex Iuris, Flamen Tempestas, Magistra Sapientiae, Somniatrix, Grand Pontifex.
     offices:
       Pontifex: >-
-        The apex of a single faith, whose style varies by god and whose authority does not extend
-        beyond it.
+        The apex of a single faith, whose style varies by god and whose authority does not extend beyond it.
       Senior College: >-
         The administrative or scholarly body some faiths seat between clergy and apex.
       Sacerdos: The ordained priest or priestess of a temple.
@@ -80,10 +63,8 @@ data:
   lore: []
   parents: []
   relations: {}
-packFolder: pantheonsaureldian
-sohl:
-  system:
-    commonSkills: []
+  packFolder: pantheonsaureldian
+sohl: {system: {commonSkills: []}}
 ---
 
 **Pronunciation:** _Aw-REL-dee-ahn_

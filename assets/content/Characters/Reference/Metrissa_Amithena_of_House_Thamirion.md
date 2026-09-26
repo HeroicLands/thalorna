@@ -1,21 +1,13 @@
 ---
-tags:
-  - character
-  - reference
-  - unattributed
+shortcode: metrissaamithenaofhousethamirion
 name:
   full: Mêtríssa Amîthéna of House Thamîrîon
   title: ""
   given: Mêtríssa
   clan: Amîthéna of House Thamîrîon
   aliases: []
-description: "The whole of Cassia's operation is a quiet duel against the unseen agents of Mêtríssa Amîthéna of House Thamîrîon."
-shortcode: metrissaamithenaofhousethamirion
 type: being
-data:
-  species: humanflk
-  templatePriority: null
-  archetypes: []
-  stations: []
-  lore: []
+description: "The whole of Cassia's operation is a quiet duel against the unseen agents of Mêtríssa Amîthéna of House Thamîrîon."
+tags: [character, reference, unattributed]
+data: {species: humanflk, templatePriority: null, archetypes: [], stations: [], lore: []}
 ---

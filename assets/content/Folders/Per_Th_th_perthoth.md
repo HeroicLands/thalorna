@@ -1,9 +1,6 @@
 ---
-name:
-  full: "Per-Thōth"
 shortcode: perthoth
+name: {full: "Per-Thōth"}
 type: folder
-data:
-  parent: upperrivernomes
-  color: "#A5D6A7"
+data: {parent: upperrivernomes, color: "#A5D6A7"}
 ---

@@ -1,16 +1,10 @@
 ---
-tags:
-  - pantheon
-  - asguardian
-  - religion
-description: "Northern faith grounded in endurance and defiance, honoring ten gods who stand against cosmic dissolution and the certainty of Ragnarök—the end of all things."
-name:
-  full: Asguardian Pantheon
-  aliases:
-    - The Ten
 shortcode: asguardian
+name: {full: Asguardian Pantheon, aliases: [The Ten]}
 type: affiliation
 subType: faithtradition
+description: "Northern faith grounded in endurance and defiance, honoring ten gods who stand against cosmic dissolution and the certainty of Ragnarök—the end of all things."
+tags: [pantheon, asguardian, religion]
 data:
   banner: pantheonbnr
   templatePriority: null
@@ -20,56 +14,43 @@ data:
   governance:
     model: theocracy
     summary: >-
-      Most faiths of the pantheon organize their clergy in a ladder of seven to eight circles. The
-      titles differ between faiths—Ódinn's steeped in rune-lore, Thórr's in warband custom, Hél's
-      in the secrecy of the suppressed—but the pattern is consistent: long apprenticeship, service
-      in the working circles, and elevation to a senior rank carrying both spiritual authority and,
-      in many kingdoms, temporal weight. Circle II is unlisted in the sources. Two faiths stand
-      outside the pattern: Baldr's, which adopted the Sinalëan structure, and Ymir's, which has no
-      hierarchy at all.
+      Most faiths of the pantheon organize their clergy in a ladder of seven to eight circles. The titles differ between faiths—Ódinn's steeped in rune-lore, Thórr's in warband custom, Hél's in the secrecy of the suppressed—but the pattern is consistent: long apprenticeship, service in the working circles, and elevation to a senior rank carrying both spiritual authority and, in many kingdoms, temporal weight. Circle II is unlisted in the sources. Two faiths stand outside the pattern: Baldr's, which adopted the Sinalëan structure, and Ymir's, which has no hierarchy at all.
     ranks:
       - level: 0
         title: Nídingr
         lore: excmmnctrnk
         description: >-
-          Declared nithing—cut off from the faith and from the standing that being of it conferred.
-          No hall will seat them and no godi will speak for them.
+          Declared nithing—cut off from the faith and from the standing that being of it conferred. No hall will seat them and no godi will speak for them.
       - level: 1
         title: Thraell
         lore: initiaternk
         description: >-
-          The god's thrall: taken into the temple young, given the observances and the labor, and
-          years away from the priesthood.
+          The god's thrall: taken into the temple young, given the observances and the labor, and years away from the priesthood.
       - level: 3
         title: Godi / Gydja
         lore: priestrnk
         description: >-
-          The working priest or priestess—Godi for a man, Gydja for a woman—who keeps the rites
-          of a hall and the people who gather at it.
+          The working priest or priestess—Godi for a man, Gydja for a woman—who keeps the rites of a hall and the people who gather at it.
       - level: 4
         title: Hersir
         lore: commanderrnk
         description: >-
-          A warlord of the faith, carrying its authority where it must be carried by force or by
-          presence.
+          A warlord of the faith, carrying its authority where it must be carried by force or by presence.
       - level: 5
         title: Jarl
         lore: greatlordrnk
         description: >-
-          A senior rank carrying temporal weight as well as spiritual; in many kingdoms a Jarl of a
-          faith sits among the jarls of the land.
+          A senior rank carrying temporal weight as well as spiritual; in many kingdoms a Jarl of a faith sits among the jarls of the land.
       - level: 6
         title: Konungr / Konungrkvinde
         lore: sovereignrnk
         description: >-
-          King or queen within the faith's own hierarchy, and in some kingdoms a power the crown
-          must reckon with.
+          King or queen within the faith's own hierarchy, and in some kingdoms a power the crown must reckon with.
       - level: 7
         title: Allsherjargodi
         lore: highpriestrnk
         description: >-
-          High priest—a pontifical office, speaking for the faith where it must speak with one
-          voice.
+          High priest—a pontifical office, speaking for the faith where it must speak with one voice.
       - level: 8
         title: Fadir / Módir
         lore: grandmasterrnk
@@ -78,8 +59,7 @@ data:
     offices:
       Fadir / Módir: Highest office of a faith, held by one person as Father or Mother of its god.
       Allsherjargodi: High priest of a faith, and its voice where it must speak with one.
-      Konungr / Konungrkvinde: King or queen within a faith's hierarchy, often weighing on the
-        crown's.
+      Konungr / Konungrkvinde: King or queen within a faith's hierarchy, often weighing on the crown's.
       Jarl: Senior rank of a faith, commonly seated among the jarls of the land.
       Hersir: Warlord of a faith, carrying its authority by force or by presence.
       Godi / Gydja: The working priest or priestess of a hall.
@@ -101,10 +81,8 @@ data:
     thorr: aligned
     tyr: aligned
     ymir: aligned
-packFolder: pantheonsasguardian
-sohl:
-  system:
-    commonSkills: []
+  packFolder: pantheonsasguardian
+sohl: {system: {commonSkills: []}}
 ---
 
 The Asguardian pantheon is the dominant religious tradition of the northern and coastal peoples of [[place-ankrscntnnt|Ankaris Continent]], worshipped in various forms across [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[place-vrystwald|Vrystwald]], [[place-aelwyth|Aelwyth]], and other northern territories. The pantheon comprises ten deities, each governing fundamental aspects of existence.

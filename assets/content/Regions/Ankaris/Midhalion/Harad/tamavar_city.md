@@ -1,23 +1,16 @@
 ---
-tags:
-  - city
-  - port
-  - capital
-description: "The largest and wealthiest city of Harad—the guild quarter along the Grand Harbor, the old city behind it, and the finest natural anchorage on the Vylarian Sea."
-name:
-  full: Tamavar
-  aliases: []
 shortcode: tamavar2
+name: {full: Tamavar, aliases: []}
 type: place
 subType: settlement
+description: "The largest and wealthiest city of Harad—the guild quarter along the Grand Harbor, the old city behind it, and the finest natural anchorage on the Vylarian Sea."
+tags: [city, port, capital]
 data:
   demonym: Tamavarian
-  lore:
-    - humanflk
-  parents:
-    - haradregin
+  lore: [humanflk]
+  parents: [haradregin]
   population: 400000
-packFolder: harad
+  packFolder: harad
 ---
 
 ## Overview

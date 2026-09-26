@@ -1,16 +1,11 @@
 ---
-name:
-  full: Embassy from Dunavarre to Tānvür
-  aliases: []
 shortcode: embsydnvrtnvr
+name: {full: Embassy from Dunavarre to Tānvür, aliases: []}
 type: scenario
 subType: adventure
 data:
   parents: []
-  locations:
-    - aelwyth
-    - elavendre
-    - tanvuregin
+  locations: [aelwyth, elavendre, tanvuregin]
   cast:
     - arancelavren
     - baridanalendavel
@@ -31,10 +26,8 @@ data:
   factions: []
   follows: []
   status: draft
-  party:
-    size: null
-    archetypes: []
-packFolder: adventures
+  party: {size: null, archetypes: []}
+  packFolder: adventures
 ---
 
 This campaign is composed of a series of adventures. Players will be members of the mission, either taking over current characters, replacing them with their own, or as staff for the main mission members.

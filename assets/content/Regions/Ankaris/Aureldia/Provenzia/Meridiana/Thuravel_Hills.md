@@ -1,22 +1,11 @@
 ---
-tags:
-  - hill
-  - woodland
-  - inland
-description: "A range of low wooded hills in southern Provènzia, thinly settled and poorly mapped, remembered in song as a country of the older faith and avoided by people who will not say why."
+shortcode: thuravelhills
+name: {full: Thúravel Hills, aliases: []}
 type: place
 subType: feature
-data:
-  demonym: null
-  lore: []
-  parents:
-    - meridiana
-  population: null
-name:
-  full: Thúravel Hills
-  aliases: []
-shortcode: thuravelhills
-packFolder: provenzia
+description: "A range of low wooded hills in southern Provènzia, thinly settled and poorly mapped, remembered in song as a country of the older faith and avoided by people who will not say why."
+tags: [hill, woodland, inland]
+data: {demonym: null, lore: [], parents: [meridiana], population: null, packFolder: provenzia}
 ---
 
 The **Thúravel Hills** roll across the south of the [[place-provenzrgn|Provènzia Region]]—low,

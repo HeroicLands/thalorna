@@ -1,18 +1,10 @@
 ---
-tags:
-  - tengvok
-  - faith-skill
-  - draft
+shortcode: vensokzhuk
+name: {full: "Ritual: Vënsōk Zhük", aliases: [Vënsōk Zhük, The Chief Auditor of Souls]}
 type: skill
 subType: mystical
-shortcode: vensokzhuk
-name:
-  full: "Ritual: Vënsōk Zhük"
-  aliases:
-    - Vënsōk Zhük
-    - The Chief Auditor of Souls
-data:
-  templatePriority: null
+tags: [tengvok, faith-skill, draft]
+data: {templatePriority: null, packFolder: tengvokvanlei}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -21,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: tengvokvanlei
 ---
 
 See [[affiliation-vensokzhuk|Vënsōk Zhük]]

@@ -1,25 +1,18 @@
 ---
-tags:
-  - draft
+shortcode: caveoutlin
+name: {full: Cave Outline, aliases: []}
 type: scenario
 subType: adventure
+tags: [draft]
 data:
-  parents:
-    - bldshscrvlvl
-  locations:
-    - provenzrgn
+  parents: [bldshscrvlvl]
+  locations: [provenzrgn]
   cast: []
   factions: []
   follows: []
   status: draft
-  party:
-    size: null
-    archetypes: []
-name:
-  full: Cave Outline
-  aliases: []
-shortcode: caveoutlin
-packFolder: bloodandashesinceravelvale
+  party: {size: null, archetypes: []}
+  packFolder: bloodandashesinceravelvale
 ---
 
 ### Approach to the Cave

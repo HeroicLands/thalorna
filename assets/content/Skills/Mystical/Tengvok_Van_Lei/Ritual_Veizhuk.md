@@ -1,18 +1,10 @@
 ---
-tags:
-  - celestial-pantheon
-  - faith-skill
-  - draft
+shortcode: veizhuk
+name: {full: "Ritual: Vëizhük", aliases: [Vëizhük, Veizhuk]}
 type: skill
 subType: mystical
-shortcode: veizhuk
-name:
-  full: "Ritual: Vëizhük"
-  aliases:
-    - Vëizhük
-    - Veizhuk
-data:
-  templatePriority: null
+tags: [celestial-pantheon, faith-skill, draft]
+data: {templatePriority: null, packFolder: tengvokvanlei}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -21,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: tengvokvanlei
 ---
 
 See [[affiliation-veizhuk|Vëizhük]]

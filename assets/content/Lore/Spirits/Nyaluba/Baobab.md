@@ -1,17 +1,11 @@
 ---
-tags:
-  - draft
-  - nyaluba
+shortcode: baobabbombwespr
+name: {full: Baobab Spirit, aliases: [The Baobab Guide, Baobab of the Bombwe]}
 type: lore
 subType: spirit
 description: "The baobab-guide of the Bombwe as a being—rooted, immensely patient, and the only one of the five that can be visited."
-name:
-  full: Baobab Spirit
-  aliases:
-    - The Baobab Guide
-    - Baobab of the Bombwe
-shortcode: baobabbombwespr
-packFolder: lorespiritsnyaluba
+tags: [draft, nyaluba]
+data: {packFolder: lorespiritsnyaluba}
 ---
 
 The totemic being venerated by the [[affiliation-nylbtrblntn|Bombwe]]. For the cult, its

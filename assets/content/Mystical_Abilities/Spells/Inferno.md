@@ -1,26 +1,20 @@
 ---
-tags: []
-name:
-  full: Inferno
-  aliases: []
-description: "Wreathed in roaring magical flame; burning and radiating intense heat."
 shortcode: inferno
+name: {full: Inferno, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-firebdg
-  templatePriority: null
+description: "Wreathed in roaring magical flame; burning and radiating intense heat."
+tags: []
+data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Cloak
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Cloak
 ---
 
 The caster enfolds themselves or a willing target in a raging sheath of magical flame, transforming them into a walking conflagration. Fire streams from every surface of the body—hair becomes a mane of flame, clothing burns without being consumed, and the ground chars beneath each footstep. The heat radiating from the affected individual is intense enough to warp metal at close range and ignite anything flammable within arm's reach.

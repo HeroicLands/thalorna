@@ -1,18 +1,10 @@
 ---
-tags:
-  - tengvok
-  - faith-skill
-  - draft
+shortcode: gurnhurn
+name: {full: "Ritual: Gürnhürn", aliases: [Gürnhürn, The Minister of Entropy]}
 type: skill
 subType: mystical
-shortcode: gurnhurn
-name:
-  full: "Ritual: Gürnhürn"
-  aliases:
-    - Gürnhürn
-    - The Minister of Entropy
-data:
-  templatePriority: null
+tags: [tengvok, faith-skill, draft]
+data: {templatePriority: null, packFolder: tengvokvanlei}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -21,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: tengvokvanlei
 ---
 
 See [[affiliation-gurnhurn|Gürnhürn]]

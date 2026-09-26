@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Steelforge
-  aliases:
-    - Tempering
-description: "Conjures steel; creates working material from air."
 shortcode: stlfrg
+name: {full: Steelforge, aliases: [Tempering]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-anvilbdg
-  templatePriority: null
+description: "Conjures steel; creates working material from air."
+tags: []
+data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideros
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Tempering
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Tempering
 ---
 
 The caster runs their hands slowly along an object's surface, and the magic sinks deep into its molecular structure, tightening bonds, filling microscopic voids, and eliminating the subtle flaws that weaken all manufactured materials. Steel becomes harder and more resilient. Stone grows denser and more resistant to cracking. Even wood treated by this spell gains a remarkable toughness, its fibers compressed and aligned to resist splitting and wear.

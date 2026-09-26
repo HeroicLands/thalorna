@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: The Night Road
-  aliases: []
-description: "Permits passage by night unremarked by anything that walks it."
 shortcode: nghtrd
+name: {full: The Night Road, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: imnetau
-  templatePriority: null
+description: "Permits passage by night unremarked by anything that walks it."
+tags: [khemenu-hekau, incantation]
+data: {icon: imnetau, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: imnetau
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-packFolder: hekauincantations
+    charges: {value: null, max: null}
 ---
 
 Not invisibility—the practitioner is plainly there—but an arrangement by which the dead and

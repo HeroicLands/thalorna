@@ -1,19 +1,10 @@
 ---
-tags:
-  - aureldian
-  - faith-skill
-  - draft
+shortcode: taranon
+name: {full: "Ritual: Taranon", aliases: [Táranon, The Thunderer]}
 type: skill
 subType: mystical
-shortcode: taranon
-name:
-  full: "Ritual: Taranon"
-  aliases:
-    - Táranon
-    - The Thunderer
-data:
-  icon: taranon
-  templatePriority: null
+tags: [aureldian, faith-skill, draft]
+data: {icon: taranon, templatePriority: null, packFolder: aureldian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -22,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: aureldian
 ---
 
 See [[affiliation-taranon|Faith of Taranon]]

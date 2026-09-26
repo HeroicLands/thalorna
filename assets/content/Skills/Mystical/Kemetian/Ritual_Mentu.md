@@ -1,17 +1,10 @@
 ---
-tags:
-  - kemetian
-  - faith-skill
-  - draft
+shortcode: mentu
+name: {full: "Ritual: Mentu", aliases: ["Mentu, The War-God"]}
 type: skill
 subType: mystical
-shortcode: mentu
-name:
-  full: "Ritual: Mentu"
-  aliases:
-    - Mentu, The War-God
-data:
-  templatePriority: null
+tags: [kemetian, faith-skill, draft]
+data: {templatePriority: null, packFolder: kemetian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -20,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: kemetian
 ---
 
 See [[affiliation-mentu|Faith of Mentu]]

@@ -1,91 +1,87 @@
 ---
-tags:
-  - history
-  - spine
-description: "In 73 BF the surviving masters draft their own terms and the Senate takes them—the Ordo Arcanis chartered under the Lex Arcana, the Quaesitorium constituted a clause earlier, and six sealed workshops set to rebuilding a burned corpus."
+shortcode: lexarcana
+name: {full: The Lex Arcana, aliases: [The Chartering of the Ordo Arcanis]}
 type: lore
 subType: history
-name:
-  full: The Lex Arcana
-  aliases:
-    - The Chartering of the Ordo Arcanis
-shortcode: lexarcana
-packFolder: settinglore
-event:
-  kind: charter
-  depth: world
-  when:
-    year: -73
-    precision: year
-  sources:
-    - decided-midhalion
-    - affiliation-ordoarcanis
-  summary: >-
-    The surviving masters—a few score, Helionite and Vylarian together—draft their own terms and the
-    Senate takes them, because there is nobody else to ask. The Ordo Arcanis accepts the monopoly
-    and its enforcement, registration of every talent, and war service on demand; in exchange it
-    holds its own property, elects its own head, tries its own members in its own court, and answers
-    to the state as a body and never as men. The Quaesitorium is constituted in the same instrument
-    and a clause earlier, its first commission to establish what happened at Alyssa. The six
-    Sodalitates begin as six sealed workshops rebuilding the burned corpus, one to each current,
-    sealed from each other on the Quaesitorium's order.
-  standing: attested
-  names:
-    - name: the Lex Arcana
-      by: affiliation-vylarinmpr
-      gloss: the instrument, which the Ordo reckons its foundation from
-  where:
-    locus:
-      - place-vylariargn
-    reach:
-      - place: place-helionis
-        how: >-
-          the new body has authority and no right to hold property or teach in its own name outside
-          Vylaria, so it never leaves the Epistemium, and the sign over every chapter house door is
-          the Epistemium's because the legal right to the door is
-        knowledge: named
-      - place: place-midhalnrgn
-        how: >-
-          practicing arcane work without the register becomes a crime, and the body that enforces it
-          answers to no magistrate
-        knowledge: named
-      - place: place-aureldirgn
-        how: >-
-          the one charter that reaches beyond the Empire runs in cities the legions never held, and
-          the monopoly runs with it
-        knowledge: named
-  who:
-    - ref: affiliation-ordoarcanis
-      role: founder
-    - ref: affiliation-vylarinmpr
-      role: signatory
-  follows:
-    - event: lore-recensio
-      how: answered
-      note: the terms were drafted by the men who had survived the fire, for a Senate with nobody else to ask
-    - event: lore-helionscnq
-      how: ended
-      note: the magistracy ends here, and what it held moves onto the new body's books and off the state's
-  accounts:
-    - by: affiliation-ordoarcanis
-      says: >-
-        The year is on every instrument the Concilium seals, over the door of every chapter house, and
-        in the first line of the Codex.
-      agrees: full
-      withholds: what the Quaesitorium's first clause is looking for, which is written nowhere in the file
-    - by: place-helionis
-      says: >-
-        The founding date is debated, the Ordo's own records from the period being suspiciously
-        incomplete.
-      agrees: disputes
-    - by: affiliation-panepistmm
-      says: >-
-        The Ordo technically remains the College of Arcane Philosophy to this day. In practice it
-        controls the institution.
-      agrees: partly
-  unresolved:
-    - what the Quaesitorium's first commission is looking for, which its own founding file does not name
-    - why the Ordo's most absolute anathema is the binding of a soul, which it has never explained
+description: "In 73 BF the surviving masters draft their own terms and the Senate takes them—the Ordo Arcanis chartered under the Lex Arcana, the Quaesitorium constituted a clause earlier, and six sealed workshops set to rebuilding a burned corpus."
+tags: [history, spine]
+data: {packFolder: settinglore}
+
+# event:
+#   kind: charter
+#   depth: world
+#   when:
+#     year: -73
+#     precision: year
+#   sources:
+#     - decided-midhalion
+#     - affiliation-ordoarcanis
+#   summary: >-
+#     The surviving masters—a few score, Helionite and Vylarian together—draft their own terms and the
+#     Senate takes them, because there is nobody else to ask. The Ordo Arcanis accepts the monopoly
+#     and its enforcement, registration of every talent, and war service on demand; in exchange it
+#     holds its own property, elects its own head, tries its own members in its own court, and answers
+#     to the state as a body and never as men. The Quaesitorium is constituted in the same instrument
+#     and a clause earlier, its first commission to establish what happened at Alyssa. The six
+#     Sodalitates begin as six sealed workshops rebuilding the burned corpus, one to each current,
+#     sealed from each other on the Quaesitorium's order.
+#   standing: attested
+#   names:
+#     - name: the Lex Arcana
+#       by: affiliation-vylarinmpr
+#       gloss: the instrument, which the Ordo reckons its foundation from
+#   where:
+#     locus:
+#       - place-vylariargn
+#     reach:
+#       - place: place-helionis
+#         how: >-
+#           the new body has authority and no right to hold property or teach in its own name outside
+#           Vylaria, so it never leaves the Epistemium, and the sign over every chapter house door is
+#           the Epistemium's because the legal right to the door is
+#         knowledge: named
+#       - place: place-midhalnrgn
+#         how: >-
+#           practicing arcane work without the register becomes a crime, and the body that enforces it
+#           answers to no magistrate
+#         knowledge: named
+#       - place: place-aureldirgn
+#         how: >-
+#           the one charter that reaches beyond the Empire runs in cities the legions never held, and
+#           the monopoly runs with it
+#         knowledge: named
+#   who:
+#     - ref: affiliation-ordoarcanis
+#       role: founder
+#     - ref: affiliation-vylarinmpr
+#       role: signatory
+#   follows:
+#     - event: lore-recensio
+#       how: answered
+#       note: the terms were drafted by the men who had survived the fire, for a Senate with nobody else to ask
+#     - event: lore-helionscnq
+#       how: ended
+#       note: the magistracy ends here, and what it held moves onto the new body's books and off the state's
+#   accounts:
+#     - by: affiliation-ordoarcanis
+#       says: >-
+#         The year is on every instrument the Concilium seals, over the door of every chapter house, and
+#         in the first line of the Codex.
+#       agrees: full
+#       withholds: what the Quaesitorium's first clause is looking for, which is written nowhere in the file
+#     - by: place-helionis
+#       says: >-
+#         The founding date is debated, the Ordo's own records from the period being suspiciously
+#         incomplete.
+#       agrees: disputes
+#     - by: affiliation-panepistmm
+#       says: >-
+#         The Ordo technically remains the College of Arcane Philosophy to this day. In practice it
+#         controls the institution.
+#       agrees: partly
+#   unresolved:
+#     - what the Quaesitorium's first commission is looking for, which its own founding file does not name
+#     - why the Ordo's most absolute anathema is the binding of a soul, which it has never explained
 ---
 
 A Senate that had just lost control of its own generals discovered it had also lost every man who

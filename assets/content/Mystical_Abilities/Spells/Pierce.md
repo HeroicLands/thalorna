@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Pierce
-  aliases:
-    - Lance
-description: "Projectile of force; penetrates armor and causes bleeding wounds."
 shortcode: pierce
+name: {full: Pierce, aliases: [Lance]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-anvilbdg
-  templatePriority: null
+description: "Projectile of force; penetrates armor and causes bleeding wounds."
+tags: []
+data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideros
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Lance
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Lance
 ---
 
 The caster conjures a lance of dense, gleaming metal that hovers momentarily at their shoulder before launching itself at the target with tremendous velocity. The projectile is supernaturally hard and penetrates with force far beyond what its size would suggest—punching through wooden shields, denting plate armor, and embedding itself deeply in stone walls. The impact transfers devastating kinetic energy to whatever it strikes, and the metallic lance remains lodged in the target as solid physical evidence of the assault.

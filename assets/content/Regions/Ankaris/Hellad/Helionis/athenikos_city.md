@@ -1,21 +1,11 @@
 ---
-tags:
-  - city-state
-  - city
-  - draft
-description: "City-State"
+shortcode: athenikos2
+name: {full: Athenikos, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - helionis
-  population: 55000
-name:
-  full: Athenikos
-  aliases: []
-shortcode: athenikos2
+description: "City-State"
+tags: [city-state, city, draft]
+data: {demonym: null, lore: [], parents: [helionis], population: 55000}
 ---
 
 ## Overview

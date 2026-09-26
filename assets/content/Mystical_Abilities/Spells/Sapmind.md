@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Sapmind
-  aliases:
-    - Enervation
-description: "Draws liquid essence; drains vitality through insidious wood-touch."
 shortcode: sapmind
+name: {full: Sapmind, aliases: [Enervation]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-divination
-  templatePriority: null
+description: "Draws liquid essence; drains vitality through insidious wood-touch."
+tags: []
+data: {icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pneumenos
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Enervation
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Enervation
 ---
 
 The caster projects a tendril of draining energy into the target's psyche, and their will to act simply bleeds away. Motivation evaporates, replaced by a crushing apathy that makes even the simplest action feel pointless and exhausting. The target's thoughts slow to a crawl, their emotional responses flatten, and the driving force that normally propels conscious behavior gutters and dims like a candle in rain.

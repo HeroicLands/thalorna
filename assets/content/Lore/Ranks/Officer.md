@@ -1,13 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: officerrnk
+name: {full: Officer, aliases: []}
 type: lore
 subType: law
-name:
-  full: Officer
-  aliases: []
-shortcode: officerrnk
 description: "Holding a charge of a body—its stores, its discipline, its accounts, its people."
+tags: [draft]
 ---
 
 Holding a charge of a body—its stores, its discipline, its accounts, its people.

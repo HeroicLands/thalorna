@@ -1,22 +1,17 @@
 ---
-tags:
-  - region
-description: "Jackal-cult and desert-edge tombs; embalmers and tomb-guards—the land of the Nome of Anpet-Khent, one of the upper-river nomes of Ta'Kheperu."
-name:
-  full: Anpet-Khent
-  aliases: []
 shortcode: anpetkhentnome
+name: {full: Anpet-Khent, aliases: []}
 type: place
 subType: region
+description: "Jackal-cult and desert-edge tombs; embalmers and tomb-guards—the land of the Nome of Anpet-Khent, one of the upper-river nomes of Ta'Kheperu."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 320000
-packFolder: upperrivernomes
+  packFolder: upperrivernomes
 ---
 
 ## Overview

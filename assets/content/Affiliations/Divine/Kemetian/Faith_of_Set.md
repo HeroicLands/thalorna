@@ -1,10 +1,10 @@
 ---
-description: "Storms."
-tags:
-  - kemetian
-  - religion
+shortcode: set
+name: {full: Faith of Sét, aliases: ["Sét, Bringer of Tempests"]}
 type: affiliation
 subType: faithtradition
+description: "Storms."
+tags: [kemetian, religion]
 data:
   banner: takheperubnr
   icon: set
@@ -15,17 +15,13 @@ data:
   governance:
     model: theocracy
     summary: >-
-      Smaller and more specialized than the order-oriented cults, and on tense terms with the
-      priesthood of Má'át. Its work is dangerous and physical as much as liturgical: the acolytes
-      climb the high temple roofs to maintain the lightning-conducting channels and to record new
-      scorch-patterns.
+      Smaller and more specialized than the order-oriented cults, and on tense terms with the priesthood of Má'át. Its work is dangerous and physical as much as liturgical: the acolytes climb the high temple roofs to maintain the lightning-conducting channels and to record new scorch-patterns.
     ranks:
       - level: 0
         title: Rite-Denied
         lore: excmmnctrnk
         description: >-
-          Barred from the temple rites, and with them from the funerary rites every Kheperi
-          eventually requires—a sentence that reaches past the end of the life it is passed in.
+          Barred from the temple rites, and with them from the funerary rites every Kheperi eventually requires—a sentence that reaches past the end of the life it is passed in.
       - level: 1
         title: Lay Faithful
         lore: layfaithfulrnk
@@ -35,49 +31,33 @@ data:
         title: Wab
         lore: initiaternk
         description: >-
-          "Purified One"—acolytes performing the dangerous work of temple maintenance: ascending the
-          high roofs to keep the lightning-conducting channels, and recording new scorch-patterns in
-          detailed drawings.
+          "Purified One"—acolytes performing the dangerous work of temple maintenance: ascending the high roofs to keep the lightning-conducting channels, and recording new scorch-patterns in detailed drawings.
       - level: 3
         title: Hem'Netjer
         lore: priestrnk
         description: >-
-          "Servant of the God"—ordained priests, some of whom serve as military strategists,
-          advising commanders on the timing of campaigns from astrological and storm-pattern
-          alignments that suggest the god's favor.
+          "Servant of the God"—ordained priests, some of whom serve as military strategists, advising commanders on the timing of campaigns from astrological and storm-pattern alignments that suggest the god's favor.
       - level: 4
         title: Wer'Hekau
         lore: highpriestrnk
         description: >-
-          "Great of Sacred Power"—High Priest of Sét, at the head of a smaller and more specialized
-          priesthood than those of the great order-oriented gods.
+          "Great of Sacred Power"—High Priest of Sét, at the head of a smaller and more specialized priesthood than those of the great order-oriented gods.
     offices:
       Storm-Strategist: >-
         A Hem'Netjer advising military commanders on the timing of campaigns from storm-pattern and astrological alignment.
       Keeper of the Scorch-Records: >-
         Holds the detailed drawings of strike-patterns the acolytes record from the temple roofs.
       Channel-Warden: >-
-        The Wab charged with the lightning-conducting channels on the high roofs—the cult's most
-        dangerous ordinary duty.
+        The Wab charged with the lightning-conducting channels on the high roofs—the cult's most dangerous ordinary duty.
   seat: null
   domains: []
   population: null
   economy: []
-  lore:
-    - setdty
-  parents:
-    - kemtnpnthn
-  relations:
-    kemtnpnthn: aligned
-name:
-  full: Faith of Sét
-  aliases:
-    - Sét, Bringer of Tempests
-shortcode: set
-packFolder: pantheonskemetian
-sohl:
-  system:
-    commonSkills: []
+  lore: [setdty]
+  parents: [kemtnpnthn]
+  relations: {kemtnpnthn: aligned}
+  packFolder: pantheonskemetian
+sohl: {system: {commonSkills: []}}
 ---
 
 Sét is the god of storms, wind, and the ferocious power of nature in its most violent and transformative aspects. Unlike [[affiliation-apophis|Faith of Ápōphis]], who represents primordial chaos and the cosmic entropy that threatens all existence, Sét embodies the destructive and purifying power of natural phenomena—the thunderhead that shatters ancient trees, the gale that drives ships onto the rocks, the lightning that burns away corruption, the wind that carries necessary change. To worship Sét is to acknowledge that not all divine power flows through gentle channels; some gods speak in thunder and fury, and their voices, though terrifying, carry wisdom for those brave enough to listen.

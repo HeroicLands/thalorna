@@ -1,23 +1,16 @@
 ---
-tags:
-  - temple
-  - frontier
-  - inland
-description: "The Svapnasāri-samāja's tower above the wells of Marukūpa—the westernmost house of the dream-sect, and the last roof in Vedyara a traveler sleeps under before the sand."
+shortcode: svapnastambha
+name: {full: Svapnastambha, aliases: []}
 type: place
 subType: structure
+description: "The Svapnasāri-samāja's tower above the wells of Marukūpa—the westernmost house of the dream-sect, and the last roof in Vedyara a traveler sleeps under before the sand."
+tags: [temple, frontier, inland]
 data:
   demonym: null
   lore: []
-  parents:
-    - bhumipalaland
-    - marukupa
+  parents: [bhumipalaland, marukupa]
   population: null
-name:
-  full: Svapnastambha
-  aliases: []
-shortcode: svapnastambha
-packFolder: vedyara
+  packFolder: vedyara
 ---
 
 **Svapnastambha** (the dream-tower) stands on the rock shelf above the wells of [[place-marukupa|Marukūpa]], and it is the westernmost house of the [[affiliation-svapnasarisamaja|Svapnasāri-samāja]] anywhere. It is a square tower of four stories with a walled court beside it, a cistern under the court, and room for nine of the sect and about thirty guests.

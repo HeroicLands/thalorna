@@ -1,19 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: Whispertread
-  aliases:
-    - Footpad Elixir
-description: "Dark nearly-black draft; muffles drinker's presence from detection."
 shortcode: elxftp
+name: {full: Whispertread, aliases: [Footpad Elixir]}
 type: concoctiongear
 subType: elixir
-hmk:
-  name: Footpad
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "Dark nearly-black draft; muffles drinker's presence from detection."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "na"
     strength: 0
-packFolder: elixirs
+
+# hmk:
+#   name: Footpad
 ---
 
 A dark, nearly black draft that seems to absorb sound as well as light, smelling of moss and damp earth. Bound to the Principle of Silence (Zephäris), this elixir muffles the drinker's presence from auditory perception. When imbibed, the imbiber's movements become whispers—their Stealth Mastery Level increases by an amount equal to their current Aural Shock multiplied by five. The effect applies to any noisy motion, not merely creeping footsteps: a thief picking a lock in silence, a warrior moving through a crowd unnoticed, a scout scaling rubble without dislodging stones.

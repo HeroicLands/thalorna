@@ -1,17 +1,11 @@
 ---
-tags: []
-name:
-  full: Kheperi-sesh Script
-  aliases:
-    - Kheperi-sesh
-    - Sacred Script
-description: "The sacred signs of Ta'Kheperu—seven hundred glyphs cut on temple walls, and the priestly monopoly they exist to protect."
 shortcode: khprsshscrpt
+name: {full: Kheperi-sesh Script, aliases: [Kheperi-sesh, Sacred Script]}
 type: skill
 subType: script
-data:
-  icon: icon-speaking
-  templatePriority: null
+description: "The sacred signs of Ta'Kheperu—seven hundred glyphs cut on temple walls, and the priestly monopoly they exist to protect."
+tags: []
+data: {icon: icon-speaking, templatePriority: null, packFolder: script}
 sohl:
   system:
     skillBaseFormula: "@rea, @per"
@@ -20,10 +14,7 @@ sohl:
     combatCategory: none
     parentSkillCode: script
     initSkillMult: 0
-packFolder: script
-flags:
-  "thalorna":
-    script_family: Logographic
+  flags: {"thalorna": {script_family: Logographic}}
 ---
 
 Kheperi-sesh is the sacred writing of [[affiliation-empirtkhpr|Ta'Kheperu]]: a mixed system of **logograms** that stand for whole words, **phonetic signs** that spell consonant clusters, and **determinatives** that carry no sound at all and exist to tell the reader which of several possible words is meant. Roughly seven hundred signs are recognized; two or three hundred are in common use; the rest are the reason a temple keeps old scribes.

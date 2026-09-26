@@ -1,9 +1,6 @@
 ---
-name:
-  full: "Okháris"
 shortcode: northernfertileregionokharis
+name: {full: "Okháris"}
 type: folder
-data:
-  parent: xerathianorthernfertileregion
-  color: "#20B2AA"
+data: {parent: xerathianorthernfertileregion, color: "#20B2AA"}
 ---

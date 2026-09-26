@@ -1,22 +1,11 @@
 ---
-tags:
-  - region
-  - coastal
-  - woodland
-description: "Élavendre's western seaboard—cliffs and deep sea-facing forest where the Sinalë keep their enclaves, the fae sites lie thickest outside the mountains, and the kingdom's finest timber and dyes are cut under license."
+shortcode: glanmor
+name: {full: Glanmor, aliases: []}
 type: place
 subType: region
-data:
-  demonym: null
-  lore: []
-  parents:
-    - elavendre
-  population: 420000
-name:
-  full: Glanmor
-  aliases: []
-shortcode: glanmor
-packFolder: elavendre
+description: "Élavendre's western seaboard—cliffs and deep sea-facing forest where the Sinalë keep their enclaves, the fae sites lie thickest outside the mountains, and the kingdom's finest timber and dyes are cut under license."
+tags: [region, coastal, woodland]
+data: {demonym: null, lore: [], parents: [elavendre], population: 420000, packFolder: elavendre}
 ---
 
 **Glanmor**—_the shore of the sea_—is Élavendre's western coast: some four hundred and twenty

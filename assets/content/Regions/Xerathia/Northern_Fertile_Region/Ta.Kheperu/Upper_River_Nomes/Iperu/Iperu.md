@@ -1,21 +1,17 @@
 ---
-tags:
-  - town
-description: "Nome capital of Iperu."
+shortcode: iperu
+name: {full: Iperu, aliases: []}
 type: place
 subType: settlement
+description: "Nome capital of Iperu."
+tags: [town]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - iperunome
+  parents: [iperunome]
   population: 33000
-name:
-  full: Iperu
-  aliases: []
-shortcode: iperu
-packFolder: upperrivernomes
+  packFolder: upperrivernomes
 ---
 
 ## Overview

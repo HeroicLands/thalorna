@@ -1,8 +1,6 @@
 ---
-name:
-  full: "Okharic"
 shortcode: lorespiritsokharic
+name: {full: "Okharic"}
 type: folder
-data:
-  parent: lorespirits
+data: {parent: lorespirits}
 ---

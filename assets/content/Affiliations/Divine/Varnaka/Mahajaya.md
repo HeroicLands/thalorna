@@ -1,17 +1,10 @@
 ---
-description: "Religion of the goddess of preservation, order, harmony and abundance."
-tags:
-  - varnaka
-  - deity
-  - order
-  - prosperity
-name:
-  full: Mahájaya
-  aliases:
-    - The Eternal Preserver
 shortcode: mahajaya
+name: {full: Mahájaya, aliases: [The Eternal Preserver]}
 type: affiliation
 subType: faithtradition
+description: "Religion of the goddess of preservation, order, harmony and abundance."
+tags: [varnaka, deity, order, prosperity]
 data:
   banner: faithbnr
   templatePriority: null
@@ -47,19 +40,11 @@ data:
   domains: []
   population: null
   economy: []
-  lore:
-    - mahajayadty
-  parents:
-    - varakpnthn
-  relations:
-    varakpnthn: aligned
-packFolder: pantheonsvarnaka
-sohl:
-  system:
-    commonSkills:
-      - mahajaya
-      - sohl-sohl-skill-agri
-      - sohl-sohl-skill-mrcn
+  lore: [mahajayadty]
+  parents: [varakpnthn]
+  relations: {varakpnthn: aligned}
+  packFolder: pantheonsvarnaka
+sohl: {system: {commonSkills: [mahajaya, sohl-sohl-skill-agri, sohl-sohl-skill-mrcn]}}
 ---
 
 ## Mahájaya—The Eternal Preserver

@@ -1,17 +1,10 @@
 ---
-description: "The ushtaka sub-caste who keep the shrines at the summits of the crossing roads, and work the weather-rite and the road-rite at an altitude no lowland academy has ever tested them at."
-tags:
-  - varnaka
-  - arcane
-  - mountain
-name:
-  full: The Pass-Shrine Ushtakas
-  aliases:
-    - The Altitude Ushtakas
 shortcode: passshrineushtakas
-renamedFrom: passshrinebrahmins
+name: {full: The Pass-Shrine Ushtakas, aliases: [The Altitude Ushtakas]}
 type: affiliation
 subType: faithtradition
+description: "The ushtaka sub-caste who keep the shrines at the summits of the crossing roads, and work the weather-rite and the road-rite at an altitude no lowland academy has ever tested them at."
+tags: [varnaka, arcane, mountain]
 data:
   banner: faithbnr
   icon: null
@@ -28,27 +21,22 @@ data:
         title: Sent Down
         lore: excmmnctrnk
         description: >-
-          Put off the col and not taken back by any of the five. A shrine states the reason on the
-          cistern wall with the names of the dead, which is where the sub-caste keeps what it will
-          not forget.
+          Put off the col and not taken back by any of the five. A shrine states the reason on the cistern wall with the names of the dead, which is where the sub-caste keeps what it will not forget.
       - level: 1
         title: Shrine-born
         lore: layfaithfulrnk
         description: >-
-          Born to the sub-caste and raised on the cols, keeping the observances and carrying fuel
-          and water before being trusted with anything else.
+          Born to the sub-caste and raised on the cols, keeping the observances and carrying fuel and water before being trusted with anything else.
       - level: 2
         title: Fire-watcher
         lore: initiaternk
         description: >-
-          Keeps the fire through the closed months, which is the qualifying work and is done alone
-          for a shift of days at a time.
+          Keeps the fire through the closed months, which is the qualifying work and is done alone for a shift of days at a time.
       - level: 3
         title: Shrine-priest
         lore: priestrnk
         description: >-
-          Works the weather-rite and the road-rite, gives or withholds the summit blessing, and
-          writes the crossing-register.
+          Works the weather-rite and the road-rite, gives or withholds the summit blessing, and writes the crossing-register.
       - level: 4
         title: Keeper of the Col
         lore: highpriestrnk
@@ -56,31 +44,26 @@ data:
           Senior priest of one shrine, answerable for its register, its stores and its refusals.
     offices:
       Keeper of the Col: >-
-        Senior priest of one shrine; answers for the register, the stores and every blessing
-        refused.
+        Senior priest of one shrine; answers for the register, the stores and every blessing refused.
       Register-writer: >-
-        Enters who crossed, with how many beasts, in whose employ and on what day—the only
-        written account of traffic on the wall that is not a customs document.
+        Enters who crossed, with how many beasts, in whose employ and on what day—the only written account of traffic on the wall that is not a customs document.
       Fire-watcher: >-
-        Keeps the fire alive through the closed months; the work by which the sub-caste measures
-        everyone in it.
+        Keeps the fire alive through the closed months; the work by which the sub-caste measures everyone in it.
       Reader of the Cistern Wall: >-
         Keeps the count of the dead by name, and recites it at the turn of the closed season.
   seat: pssshrines
-  domains:
-    - pssshrines
+  domains: [pssshrines]
   population: null
   economy: []
   lore: []
-  parents:
-    - varakpnthn
+  parents: [varakpnthn]
   relations:
     varakpnthn: aligned
     trimurtisampradaya: aligned
     ganakashala: unaligned
     thresholdkeepers: aligned
     chayavrata: unaligned
-packFolder: pantheonsvarnaka
+  packFolder: pantheonsvarnaka
 sohl:
   system:
     commonSkills:

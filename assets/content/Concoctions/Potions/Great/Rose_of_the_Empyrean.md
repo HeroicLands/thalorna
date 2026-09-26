@@ -1,19 +1,11 @@
 ---
-tags:
-  - great-elixir
-name:
-  full: Rose of the Empyrean
-  aliases:
-    - Potion, Aromatic, Great
-description: "Translucent luminous perfume; grants beauty and supernatural charisma."
 shortcode: ptnaromg
+name: {full: Rose of the Empyrean, aliases: ["Potion, Aromatic, Great"]}
 type: concoctiongear
 subType: exotic
-hmk:
-  name: "Potion, Aromatic, Great"
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "Translucent luminous perfume; grants beauty and supernatural charisma."
+tags: [great-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: great}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "great"
     strength: 0
-packFolder: great
+
+# hmk:
+#   name: "Potion, Aromatic, Great"
 ---
 
 Nearly translucent, this extraordinary perfume glows with an inner luminosity that seems almost unnatural, as though a single star has been somehow compressed into liquid form. The fragrance that emanates from the sealed vial is overwhelming even at a distance—flowers that are said to bloom only in the deepest gardens of ancient ruins, spices from lands at the edge of the known world, and the faintest whisper of something divine and ineffable that makes the chest tighten and the eyes prick with unexpected tears. A single application can perfume an entire ballroom; a dabbed wrist can make an entire corridor fragrant for hours. Those who encounter someone wearing the great aromatic report a sensation approaching rapture, an overwhelming desire to be near, to please, to agree with whatever this figure proposes.

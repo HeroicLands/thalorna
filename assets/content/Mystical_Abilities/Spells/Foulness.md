@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Foulness
-  aliases:
-    - Stench
-description: "Conjures stinking cloud; sickens and chokes those breathing vapors."
 shortcode: foulness
+name: {full: Foulness, aliases: [Stench]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
+description: "Conjures stinking cloud; sickens and chokes those breathing vapors."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Stench
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Stench
 ---
 
 The caster flicks a wrist and a compact ball of compressed air shoots forward, bursting on impact into a roiling cloud of nauseating stench so intense that eyes water, gorges rise, and even hardened soldiers reel backward clutching their faces. The odor is not illusory—the spell agitates latent particles of decay, sulfur, and rancid organic matter already present in the environment, concentrating them a hundredfold into the released gust. In a butcher's quarter or a marshland, the effect is magnified to a nearly incapacitating degree.

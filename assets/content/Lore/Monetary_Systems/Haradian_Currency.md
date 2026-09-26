@@ -1,18 +1,10 @@
 ---
-tags:
-  - reference
-  - currency
-  - harad
-  - economy
-description: "Post-secession Haradian monetary system—Vylarian-derived denominations (Aurion, Argo, Bit) issued and cleared through the Sôd-Naqîrîn's Bayt al-Khazînah rather than the Vylarian Aerarium Imperii; uses Haradian-struck coin (slightly underweight Aurion, standard-weight Argo) and Haradian temple-of-treasury chits."
+shortcode: hardncrncy
+name: {full: Haradian Currency, aliases: [Haradian Currency System, Bayt al-Khazînah]}
 type: lore
 subType: economy
-name:
-  full: Haradian Currency
-  aliases:
-    - Haradian Currency System
-    - Bayt al-Khazînah
-shortcode: hardncrncy
+description: "Post-secession Haradian monetary system—Vylarian-derived denominations (Aurion, Argo, Bit) issued and cleared through the Sôd-Naqîrîn's Bayt al-Khazînah rather than the Vylarian Aerarium Imperii; uses Haradian-struck coin (slightly underweight Aurion, standard-weight Argo) and Haradian temple-of-treasury chits."
+tags: [reference, currency, harad, economy]
 ---
 
 **Scope:** The Confederation of Haradian States and the trading network of Haradian-affiliated merchants throughout the Vylarian Sea and the southern coasts.

@@ -1,19 +1,9 @@
 ---
-tags:
-  - town
-  - border
-description: "Border Town"
+shortcode: ashenmere
+name: {full: Ashenmere, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - hylen
-  population: 4000
-name:
-  full: Ashenmere
-  aliases: []
-shortcode: ashenmere
-packFolder: vylaria
+description: "Border Town"
+tags: [town, border]
+data: {demonym: null, lore: [], parents: [hylen], population: 4000, packFolder: vylaria}
 ---

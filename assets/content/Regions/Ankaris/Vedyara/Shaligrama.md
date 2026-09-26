@@ -1,20 +1,9 @@
 ---
-tags:
-  - village
-  - river
-  - inland
-description: "The largest of the rice villages, on the flood-plain the Sarvada silts and does not cut."
+shortcode: shaligrama
+name: {full: Shāligrāma, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - dhanurkotajnpd
-  population: 910
-name:
-  full: Shāligrāma
-  aliases: []
-shortcode: shaligrama
-packFolder: vedyara
+description: "The largest of the rice villages, on the flood-plain the Sarvada silts and does not cut."
+tags: [village, river, inland]
+data: {demonym: null, lore: [], parents: [dhanurkotajnpd], population: 910, packFolder: vedyara}
 ---

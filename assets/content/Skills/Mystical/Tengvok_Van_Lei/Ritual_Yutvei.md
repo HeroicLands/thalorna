@@ -1,18 +1,10 @@
 ---
-tags:
-  - celestial-pantheon
-  - faith-skill
-  - draft
+shortcode: yutvei
+name: {full: "Ritual: Yütvëi", aliases: [Yütvëi, Yutvei]}
 type: skill
 subType: mystical
-shortcode: yutvei
-name:
-  full: "Ritual: Yütvëi"
-  aliases:
-    - Yütvëi
-    - Yutvei
-data:
-  templatePriority: null
+tags: [celestial-pantheon, faith-skill, draft]
+data: {templatePriority: null, packFolder: tengvokvanlei}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -21,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: tengvokvanlei
 ---
 
 See [[affiliation-yutvei|Yütvëi]]

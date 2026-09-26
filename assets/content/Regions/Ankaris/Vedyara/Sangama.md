@@ -1,24 +1,16 @@
 ---
-tags:
-  - sacred
-  - river
-  - pilgrimage
-  - inland
-description: "The temple at the confluence, whose senior priest convenes the twelve-yearly assembly and sits on the Council of Three."
+shortcode: sangama
+name: {full: Sangama, aliases: []}
 type: place
 subType: structure
+description: "The temple at the confluence, whose senior priest convenes the twelve-yearly assembly and sits on the Council of Three."
+tags: [sacred, river, pilgrimage, inland]
 data:
   demonym: null
   lore: []
-  parents:
-    - melaground
-    - mahanadi
+  parents: [melaground, mahanadi]
   population: null
-name:
-  full: Sangama
-  aliases: []
-shortcode: sangama
-packFolder: vedyara
+  packFolder: vedyara
 ---
 
 **Sangama** (confluence) is the temple on [[place-melaground|the Mela Ground]], and the only building of any consequence on it. It stands above the highest water the Mahānadi has reached in written record, on a mound raised higher still, and it is the one thing on the plain that does not have to be laid out again after a flood.

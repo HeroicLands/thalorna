@@ -1,9 +1,10 @@
 ---
-description: "Fertility, Agriculture, Peace, and Healing."
-tags:
-  - asguardian
+shortcode: freyr
+name: {full: Faith of Fréyr, aliases: [The Verdant Path]}
 type: affiliation
 subType: faithtradition
+description: "Fertility, Agriculture, Peace, and Healing."
+tags: [asguardian]
 data:
   banner: faithbnr
   icon: freyr
@@ -14,60 +15,48 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A ladder of circles, rising from the young Thraell through the working Godi or Gydja to the
-      senior ranks of Jarl and Konungr and the pontifical offices of the Allsherjargodi and the
-      Fadir or Módir of the god. The titles are this faith's own; the pattern is the pantheon's.
-      Circle II is unlisted in the sources.
+      A ladder of circles, rising from the young Thraell through the working Godi or Gydja to the senior ranks of Jarl and Konungr and the pontifical offices of the Allsherjargodi and the Fadir or Módir of the god. The titles are this faith's own; the pattern is the pantheon's. Circle II is unlisted in the sources.
     ranks:
       - level: 0
         title: Nídingr
         lore: excmmnctrnk
         description: >-
-          Declared nithing—cut off from the faith and from the standing that being of it
-          conferred. No hall will seat them and no godi will speak for them.
+          Declared nithing—cut off from the faith and from the standing that being of it conferred. No hall will seat them and no godi will speak for them.
       - level: 1
         title: Frjó Thraell
         lore: initiaternk
         description: >-
-          "Fertile Thrall"—Seed Acolyte. The god's thrall: taken into the temple young, given the
-          observances and the labor, and years away from the priesthood.
+          "Fertile Thrall"—Seed Acolyte. The god's thrall: taken into the temple young, given the observances and the labor, and years away from the priesthood.
       - level: 3
         title: Heill Godi/Gode
         lore: priestrnk
         description: >-
-          "Blessing Priest/Priestess"—Harvest Priest/Priestess. The working priest or priestess—Godi
-          for a man, Gydja for a woman—who keeps the rites of a hall and the people who gather at
-          it.
+          "Blessing Priest/Priestess"—Harvest Priest/Priestess. The working priest or priestess—Godi for a man, Gydja for a woman—who keeps the rites of a hall and the people who gather at it.
       - level: 4
         title: Jörd Hersir
         lore: commanderrnk
         description: >-
-          "Earth Warlord"—Grove Keeper. A warlord of the faith, carrying its authority where it must
-          be carried by force or by presence.
+          "Earth Warlord"—Grove Keeper. A warlord of the faith, carrying its authority where it must be carried by force or by presence.
       - level: 5
         title: Frjó Jarl
         lore: greatlordrnk
         description: >-
-          "Fertility Jarl"—Steward of the Land. A senior rank carrying temporal weight as well as
-          spiritual; in many kingdoms a Jarl of a faith sits among the jarls of the land.
+          "Fertility Jarl"—Steward of the Land. A senior rank carrying temporal weight as well as spiritual; in many kingdoms a Jarl of a faith sits among the jarls of the land.
       - level: 6
         title: Gródur Konungr/Konungrkvinde
         lore: sovereignrnk
         description: >-
-          "Growth King/Queen"—High Steward. King or queen within the faith's own hierarchy, and in
-          some kingdoms a power the crown must reckon with.
+          "Growth King/Queen"—High Steward. King or queen within the faith's own hierarchy, and in some kingdoms a power the crown must reckon with.
       - level: 7
         title: Vetr Allsherjargodi
         lore: highpriestrnk
         description: >-
-          "Winter High Priest"—Greenwarden. High priest—a pontifical office, speaking for the faith
-          where it must speak with one voice.
+          "Winter High Priest"—Greenwarden. High priest—a pontifical office, speaking for the faith where it must speak with one voice.
       - level: 8
         title: Líf Fadir/Módir
         lore: grandmasterrnk
         description: >-
-          "Father/Mother of Life"—Pontiff of the Verdant Way. Father or Mother of the god: the
-          highest pontifical office, held by one person at a time.
+          "Father/Mother of Life"—Pontiff of the Verdant Way. Father or Mother of the god: the highest pontifical office, held by one person at a time.
     offices:
       Order of the Green Hand: >-
         Priests dedicated to healing and the nurturing of the earth, often working as herbalists and caretakers of sacred groves.
@@ -85,21 +74,11 @@ data:
   domains: []
   population: null
   economy: []
-  lore:
-    - freyrdty
-  parents:
-    - asguardian
-  relations:
-    asguardian: aligned
-name:
-  full: Faith of Fréyr
-  aliases:
-    - The Verdant Path
-shortcode: freyr
-packFolder: pantheonsasguardian
-sohl:
-  system:
-    commonSkills: []
+  lore: [freyrdty]
+  parents: [asguardian]
+  relations: {asguardian: aligned}
+  packFolder: pantheonsasguardian
+sohl: {system: {commonSkills: []}}
 ---
 
 Fréyr, the compassionate god of fertility, agriculture, peace, and healing, holds a special place in the hearts of farmers and rural folk. As the deity who ensures bountiful harvests and thriving livestock, Fréyr's blessings are vital to those who work the land.

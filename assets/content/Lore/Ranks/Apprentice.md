@@ -1,13 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: apprenticernk
+name: {full: Apprentice, aliases: []}
 type: lore
 subType: law
-name:
-  full: Apprentice
-  aliases: []
-shortcode: apprenticernk
 description: "Bound to a master for a term of years, fed and taught and holding neither tools nor wage."
+tags: [draft]
 ---
 
 Bound to a master for a term of years, fed and taught and holding neither tools nor wage.

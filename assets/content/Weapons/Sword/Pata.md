@@ -1,14 +1,10 @@
 ---
-tags: []
-name:
-  full: Pata
-  aliases: []
-description: "Blade-fixed gauntlet for armored straight-arm thrust; duelist's sword-shield."
 shortcode: pata
+name: {full: Pata, aliases: []}
 type: weapongear
-data:
-  icon: icon-sword
-  templatePriority: null
+description: "Blade-fixed gauntlet for armored straight-arm thrust; duelist's sword-shield."
+tags: []
+data: {icon: icon-sword, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: sword
   weaponType: Sword
@@ -23,14 +19,8 @@ sohl:
         name: Impale
         assocSkillCode: melee
         minParts: 1
-        attack:
-          spread: 8
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 8
-          modifier: 3
-          aspect: piercing
+        attack: {spread: 8, modifier: 0}
+        impactBase: {numDice: 1, die: 8, modifier: 3, aspect: piercing}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -59,22 +49,14 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 5
-        defense:
-          blockMod: 0
-          counterstrikeMod: 0
+        defense: {blockMod: 0, counterstrikeMod: 0}
       cut:
         type: melee
         name: Cut
         assocSkillCode: melee
         minParts: 1
-        attack:
-          spread: 4
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 10
-          modifier: 2
-          aspect: edged
+        attack: {spread: 4, modifier: 0}
+        impactBase: {numDice: 1, die: 10, modifier: 2, aspect: edged}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -103,22 +85,14 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 5
-        defense:
-          blockMod: 0
-          counterstrikeMod: 0
+        defense: {blockMod: 0, counterstrikeMod: 0}
       bash:
         type: melee
         name: Gauntlet Bash
         assocSkillCode: melee
         minParts: 1
-        attack:
-          spread: 4
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 6
-          modifier: 0
-          aspect: blunt
+        attack: {spread: 4, modifier: 0}
+        impactBase: {numDice: 1, die: 6, modifier: 0, aspect: blunt}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -147,10 +121,7 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 5
-        defense:
-          blockMod: 0
-          counterstrikeMod: 0
-packFolder: weapons
+        defense: {blockMod: 0, counterstrikeMod: 0}
 ---
 
 A straight or slightly curved blade fixed to a wide steel gauntlet that runs from fingertips to elbow, providing hand and arm defense while the blade strikes. Worn as a single piece, the pata thrusts and cuts with the whole armored arm behind it, making it both sword and shield for the swordhand. Favored by heavily armored horsemen and duel-fighters.

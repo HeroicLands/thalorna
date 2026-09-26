@@ -1,22 +1,18 @@
 ---
-tags:
-  - region
-description: "Ancient mountains, piedmont, swamp and coastal wetland—the land of Tz'uma No'tun, in the northeast of Northern K'ich'chik."
-name:
-  full: Tz'uma No'tun Region
-  aliases: []
 shortcode: tzumanotunrgn
+name: {full: Tz'uma No'tun Region, aliases: []}
 type: place
 subType: region
+description: "Ancient mountains, piedmont, swamp and coastal wetland—the land of Tz'uma No'tun, in the northeast of Northern K'ich'chik."
+tags: [region]
 data:
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - nrthrnkchchk
+  lore: [humanflk]
+  parents: [nrthrnkchchk]
   population: null
-terran_analog: Appalachian Region and eastward through the Southeast, south into Florida and Louisiana
-packFolder: tzumanotun
+  packFolder: tzumanotun
+
+# terran_analog: Appalachian Region and eastward through the Southeast, south into Florida and Louisiana
 ---
 
 ## Overview

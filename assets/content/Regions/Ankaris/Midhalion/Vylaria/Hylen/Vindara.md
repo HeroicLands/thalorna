@@ -1,20 +1,11 @@
 ---
-tags:
-  - town
-description: "Town"
+shortcode: vindara
+name: {full: Vindara, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - hylen
-  population: 6000
-name:
-  full: Vindara
-  aliases: []
-shortcode: vindara
-packFolder: vylaria
+description: "Town"
+tags: [town]
+data: {demonym: null, lore: [], parents: [hylen], population: 6000, packFolder: vylaria}
 ---
 
 ## Overview

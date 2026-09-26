@@ -1,15 +1,11 @@
 ---
-tags:
-  - draft
-  - first-gods
+shortcode: ataanspr
+name: {full: The At'aan Wyrd, aliases: []}
 type: lore
 subType: spirit
 description: "The spirit seated in an ancient tree of the Silver Forests—old, awake, and not certainly of the mortal world."
-name:
-  full: The At'aan Wyrd
-  aliases: []
-shortcode: ataanspr
-packFolder: lorespiritsaelendan
+tags: [draft, first-gods]
+data: {packFolder: lorespiritsaelendan}
 ---
 
 - **Kind:** Place-kin, of [[lore-thekindred|the Kindred]]

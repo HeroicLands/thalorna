@@ -1,4 +1,6 @@
 ---
+shortcode: worldthlrn
+name: {full: The World of Thalorna, aliases: [Thalorna]}
 type: place
 subType: world
 data:
@@ -6,28 +8,17 @@ data:
   lore: []
   parents: []
   population: 370000000
-  world:
-    equatorialCircumferenceKm: 40000
-    surfaceGravityG: 1.0
-    axialTiltDegrees: 23.5
-  year:
-    days: 365
-    hoursPerDay: 24
-    minutesPerHour: 60
-    secondsPerMinute: 60
+  world: {equatorialCircumferenceKm: 40000, surfaceGravityG: 1.0, axialTiltDegrees: 23.5}
+  year: {days: 365, hoursPerDay: 24, minutesPerHour: 60, secondsPerMinute: 60}
   present: 720
-packFolder: setting
-name:
-  full: The World of Thalorna
-  aliases:
-    - Thalorna
-shortcode: worldthlrn
-cascade:
-  - target:
-      kind: section
-    build:
-      render: never
-      list: never
+  packFolder: setting
+
+# cascade:
+#   - target:
+#       kind: section
+#     build:
+#       render: never
+#       list: never
 ---
 
 Thalorna is a diverse and ancient world, home to a rich tapestry of cultures, peoples, and lands. Patterned loosely after an alternate Earth, its continents and civilizations echo Terran geography and history while remaining wholly their own. From lush subtropical regions to vast deserts and icy wastes, each continent holds unique histories and societies shaped by millennia of human and otherworldly influence.

@@ -1,23 +1,17 @@
 ---
-tags:
-  - region
-  - draft
-description: "The southern reach of the K'ich'chik continent and its city-states."
-name:
-  full: Southern K'ich'chik
-  aliases: []
+shortcode: sthrnkchchk
+name: {full: Southern K'ich'chik, aliases: []}
 type: place
 subType: region
+description: "The southern reach of the K'ich'chik continent and its city-states."
+tags: [region, draft]
 data:
   icon: null
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - kchchkcntnnt
+  lore: [humanflk]
+  parents: [kchchkcntnnt]
   population: 3500000
-shortcode: sthrnkchchk
-packFolder: kichchik
+  packFolder: kichchik
 ---
 
 ## Overview

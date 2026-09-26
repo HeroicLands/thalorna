@@ -1,14 +1,10 @@
 ---
-tags:
-  - military
-  - navy
-  - bethua
-  - xerathia
-  - maritime
-  - privateers
-description: "The renowned navy of the Matriarchy of Bethûa—a southeastern-shore sea power that punches far above its size, and the licensed privateer war it wages against Vylarian shipping under the crown's Purple Warrant, as the deniable maritime arm of Ta'Kheperu's proxy strategy in Mídhalión."
+shortcode: bethuanflt
+name: {full: The Bethûan Fleet, aliases: [The Purple Warrant, The Veiled Sails, Navy of Bethûa]}
 type: affiliation
 subType: governmental
+description: "The renowned navy of the Matriarchy of Bethûa—a southeastern-shore sea power that punches far above its size, and the licensed privateer war it wages against Vylarian shipping under the crown's Purple Warrant, as the deniable maritime arm of Ta'Kheperu's proxy strategy in Mídhalión."
+tags: [military, navy, bethua, xerathia, maritime, privateers]
 data:
   icon: null
   templatePriority: null
@@ -18,54 +14,43 @@ data:
   governance:
     model: stratocracy
     summary: >-
-      A standing navy under the Naukrátissa, answering through the Stratégissa to the Mêtríssa,
-      whose fighting complement is women's and the gelded's while the labor of the hull is done
-      by men who are not of it, and which licenses privateers under the crown's Purple Warrant.
+      A standing navy under the Naukrátissa, answering through the Stratégissa to the Mêtríssa, whose fighting complement is women's and the gelded's while the labor of the hull is done by men who are not of it, and which licenses privateers under the crown's Purple Warrant.
     ranks:
       - level: 0
         title: Struck from the Rolls
         lore: expelledrnk
         description: >-
-          A warrant recalled and its captain disowned when she becomes an embarrassment; no
-          Bethûan hull will ship her afterward and no House will own the service.
+          A warrant recalled and its captain disowned when she becomes an embarrassment; no Bethûan hull will ship her afterward and no House will own the service.
       - level: 1
         title: Marine
         lore: warriorrnk
         description: >-
-          Of the boarding-fighters who decide a galley action, drawn from the Spear-Sisterhood
-          and the eunuch Spádai, fighting with blade, with javelin and with the unarmed Charíssa
-          in a press where a longer weapon is useless.
+          Of the boarding-fighters who decide a galley action, drawn from the Spear-Sisterhood and the eunuch Spádai, fighting with blade, with javelin and with the unarmed Charíssa in a press where a longer weapon is useless.
       - level: 3
         title: Petty Officer
         lore: officerrnk
         description: >-
-          Holding a station's people: the bosun, the master of ordnance, the sailing-master's
-          mate.
+          Holding a station's people: the bosun, the master of ordnance, the sailing-master's mate.
       - level: 4
         title: Naukléra
         lore: commanderrnk
         description: >-
-          Ship-mistress: commands a war-galley or a squadron, and in the private and privateer
-          service is commonly the owner of her own vessel.
+          Ship-mistress: commands a war-galley or a squadron, and in the private and privateer service is commonly the owner of her own vessel.
       - level: 5
         title: Naukrátissa
         lore: magistraternk
         description: >-
-          Sea-mistress: admiral of the fleet and the realm's chief naval commander, and a
-          frequent stepping-stone to the highest circles of both councils.
+          Sea-mistress: admiral of the fleet and the realm's chief naval commander, and a frequent stepping-stone to the highest circles of both councils.
       - level: 6
         title: Stratégissa
         lore: magistraternk
         description: >-
-          Supreme command of the whole host, army and fleet alike, held as the Mêtríssa's lent
-          authority.
+          Supreme command of the whole host, army and fleet alike, held as the Mêtríssa's lent authority.
     offices:
       Warrant-Captain: >-
-        A Naukléra of the Purple, sailing under a commission of private war: she arms her
-        vessel, takes enemy shipping as lawful prize and keeps the bulk of what she takes.
+        A Naukléra of the Purple, sailing under a commission of private war: she arms her vessel, takes enemy shipping as lawful prize and keeps the bulk of what she takes.
       Keeper of the Purple Warrant: >-
-        Issuer and recorder of the letters under which a privateer sails, and the realm's
-        deniability when one is disowned.
+        Issuer and recorder of the letters under which a privateer sails, and the realm's deniability when one is disowned.
       Sailing-Master: Navigator and handler of a hull, answerable for her passage.
       Master of Ordnance: Keeper of a ship's engines, shot and fire.
       Bosun: Master of the working of the ship and of her people at their stations.
@@ -77,24 +62,10 @@ data:
   population: null
   economy: []
   lore: []
-  parents:
-    - mtrrchybth
-  relations:
-    mtrrchybth: aligned
-    vylarinmpr: nemesis
-    empirtkhpr: aligned
-name:
-  full: The Bethûan Fleet
-  aliases:
-    - The Purple Warrant
-    - The Veiled Sails
-    - Navy of Bethûa
-shortcode: bethuanflt
-packFolder: bethua
-sohl:
-  system:
-    commonSkills:
-      - bethunlng
+  parents: [mtrrchybth]
+  relations: {mtrrchybth: aligned, vylarinmpr: nemesis, empirtkhpr: aligned}
+  packFolder: bethua
+sohl: {system: {commonSkills: [bethunlng]}}
 ---
 
 The navy is the proudest arm of [[affiliation-mtrrchybth|Bethûa]] and the instrument of its outsized place in [[place-midhalnrgn|Mídhalión Region]]. A modest realm of three million souls has no business commanding the respect at sea that Bethûa does—and yet a Bethûan war-galley is a known and unwelcome sight from the [[place-helionis|Heliónite]] ports to the [[affiliation-cnfdrtnhrdnstts|Haradian]] archipelago, and the realm's captains are reckoned among the most aggressive sailors on the [[place-vylarianse|Vylarian Sea]]. The fleet is the reason a small southeastern power can contest the trade of empires, and it is the sharpest edge of the bargain Bethûa struck with [[affiliation-empirtkhpr|Ta'Kheperu]]: where the Kheperi navy guards the southern shore but rarely sails north for strategic purposes, the Bethûan fleet carries Kheperi interest into the northern sea-lanes that Wasetkara's own ships will not enter.

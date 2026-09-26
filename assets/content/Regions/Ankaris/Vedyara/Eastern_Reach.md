@@ -1,22 +1,11 @@
 ---
-tags:
-  - mountain
-  - frontier
-  - inland
-description: "The arc of the Grazian range that turns east toward Tānvür—narrower than the Southern Wall, colder, and crossed by the two passes the Hvarn keep."
+shortcode: estrnreach
+name: {full: The Eastern Reach, aliases: []}
 type: place
 subType: feature
-data:
-  demonym: null
-  lore: []
-  parents:
-    - graznmntns
-  population: null
-name:
-  full: The Eastern Reach
-  aliases: []
-shortcode: estrnreach
-packFolder: vedyara
+description: "The arc of the Grazian range that turns east toward Tānvür—narrower than the Southern Wall, colder, and crossed by the two passes the Hvarn keep."
+tags: [mountain, frontier, inland]
+data: {demonym: null, lore: [], parents: [graznmntns], population: null, packFolder: vedyara}
 ---
 
 The **Eastern Reach** is where the [[place-graznmntns|Grazian Mountains]] leave [[place-vedyarargn|Vedyara]]'s northern margin and swing east toward the western frontier of [[place-tanvuregin|Tānvür]]. It is the overland barrier between the two great eastern civilizations, and the only reason either of them has ever had to think about the other.

@@ -1,22 +1,17 @@
 ---
-tags:
-  - region
-description: "The sea-margin; salt-pans, natron flats, and the curing of the lesser villages' catch—the land of the Nome of Tjaru, one of the delta nomes of Ta'Kheperu."
-name:
-  full: Tjaru Nome
-  aliases: []
 shortcode: tjarunome
+name: {full: Tjaru Nome, aliases: []}
 type: place
 subType: region
+description: "The sea-margin; salt-pans, natron flats, and the curing of the lesser villages' catch—the land of the Nome of Tjaru, one of the delta nomes of Ta'Kheperu."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 550000
-packFolder: deltanomes
+  packFolder: deltanomes
 ---
 
 ## Overview

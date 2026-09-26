@@ -1,11 +1,9 @@
 ---
-tags: []
-description: "The All-Father of the Asguardian gods, keeper of knowledge and hard-won wisdom, whose signs are the raven feather and the runestone."
+shortcode: oinndty
+name: {full: Ódinn, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Ódinn
-  aliases: []
-shortcode: oinndty
-packFolder: deitiesasguardian
+description: "The All-Father of the Asguardian gods, keeper of knowledge and hard-won wisdom, whose signs are the raven feather and the runestone."
+tags: []
+data: {packFolder: deitiesasguardian}
 ---

@@ -1,23 +1,12 @@
 ---
-tags:
-  - mountain
-  - sacred
-  - inland
-
-description: "The great peak of Provènzia's northern mountains and the source of its waters—sacred to the Áelendan, who permit passage to shepherds and pilgrims and to no one who comes with instruments."
+shortcode: hydravenmnt
+name: {full: Mount Hýdraven, aliases: []}
 type: place
 subType: feature
-data:
-  demonym: null
-  lore: []
-  parents:
-    - tramontana
-  population: null
-name:
-  full: Mount Hýdraven
-  aliases: []
-shortcode: hydravenmnt
-packFolder: provenzia
+
+description: "The great peak of Provènzia's northern mountains and the source of its waters—sacred to the Áelendan, who permit passage to shepherds and pilgrims and to no one who comes with instruments."
+tags: [mountain, sacred, inland]
+data: {demonym: null, lore: [], parents: [tramontana], population: null, packFolder: provenzia}
 ---
 
 **Hýdraven** is the highest of the northern mountains, standing where Provènzia's cold uplands run up

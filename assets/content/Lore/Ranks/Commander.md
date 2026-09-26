@@ -1,13 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: commanderrnk
+name: {full: Commander, aliases: []}
 type: lore
 subType: law
-name:
-  full: Commander
-  aliases: []
-shortcode: commanderrnk
 description: "Commanding a house, a crew or a company, and answerable for it to the body above."
+tags: [draft]
 ---
 
 Commanding a house, a crew or a company, and answerable for it to the body above.

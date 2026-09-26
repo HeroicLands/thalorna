@@ -1,17 +1,10 @@
 ---
-tags:
-  - khemenu-hekau
-  - draft
+shortcode: sefut
+name: {full: "Hekau: Sefút", aliases: [Per-Sefút]}
 type: skill
 subType: mystical
-shortcode: sefut
-name:
-  full: "Hekau: Sefút"
-  aliases:
-    - Per-Sefút
-data:
-  icon: sefut
-  templatePriority: null
+tags: [khemenu-hekau, draft]
+data: {icon: sefut, templatePriority: null, packFolder: khemenuhekau}
 sohl:
   system:
     skillBaseFormula: "@aur, @rea"
@@ -20,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: khemenuhekau
 ---
 
 See [[affiliation-sefut|Per-Sefút]]

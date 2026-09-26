@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: Staunching of the Flood
-  aliases: []
-description: "Stops a flow of liquid, whether from a wound, a vessel or a breached bank."
 shortcode: stnchngfld
+name: {full: Staunching of the Flood, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: ankhkemet
-  templatePriority: null
+description: "Stops a flow of liquid, whether from a wound, a vessel or a breached bank."
+tags: [khemenu-hekau, incantation]
+data: {icon: ankhkemet, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: ankhkemet
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-packFolder: hekauincantations
+    charges: {value: null, max: null}
 ---
 
 One form for three uses, which the House regards as the clearest demonstration that its domain is

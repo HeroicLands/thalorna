@@ -1,18 +1,9 @@
 ---
-tags:
-  - town
-description: "Town"
+shortcode: ashira
+name: {full: Ashíra, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - bethuargn
-  population: 7000
-name:
-  full: Ashíra
-  aliases: []
-shortcode: ashira
-packFolder: bethua
+description: "Town"
+tags: [town]
+data: {demonym: null, lore: [], parents: [bethuargn], population: 7000, packFolder: bethua}
 ---

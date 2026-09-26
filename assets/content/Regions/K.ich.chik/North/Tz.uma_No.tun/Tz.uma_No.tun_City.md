@@ -1,20 +1,11 @@
 ---
-tags:
-  - city
-  - draft
-description: "City"
+shortcode: tzumanotun2
+name: {full: Tz'uma No'tun, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - tzumanotunrgn
-  population: 2500
-name:
-  full: Tz'uma No'tun
-  aliases: []
-shortcode: tzumanotun2
+description: "City"
+tags: [city, draft]
+data: {demonym: null, lore: [], parents: [tzumanotunrgn], population: 2500}
 ---
 
 ## Overview

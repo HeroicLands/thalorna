@@ -1,19 +1,11 @@
 ---
-tags: []
-name:
-  full: Valtári Language
-  aliases:
-    - Valtári
-    - Váltongue
-    - Dock-talk
-    - Trade Pidgin
-description: "The harbor pidgin of Mídhalión and beyond—no one's mother tongue, but the first language of every dock, merchant, and sailor who must be understood on short acquaintance."
 shortcode: valtarlng
+name: {full: Valtári Language, aliases: [Valtári, Váltongue, Dock-talk, Trade Pidgin]}
 type: skill
 subType: language
-data:
-  icon: icon-speaking
-  templatePriority: null
+description: "The harbor pidgin of Mídhalión and beyond—no one's mother tongue, but the first language of every dock, merchant, and sailor who must be understood on short acquaintance."
+tags: []
+data: {icon: icon-speaking, templatePriority: null, packFolder: language}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -22,10 +14,7 @@ sohl:
     combatCategory: none
     parentSkillCode: lang
     initSkillMult: 0
-packFolder: language
-flags:
-  "thalorna":
-    lang_family: Pidgin/Creole (contact language)
+  flags: {"thalorna": {lang_family: Pidgin/Creole (contact language)}}
 ---
 
 Valtári is a tongue of the Pidgin (contact) family. Fluency measures the sophistication of expression in Valtári, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.

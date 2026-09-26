@@ -1,18 +1,10 @@
 ---
-tags:
-  - varnaka
-  - faith-skill
+shortcode: vyalendra
+name: {full: "Ritual: Vyālendra", aliases: [Vyālendra, Vyalendra, The Shaper of Worlds]}
 type: skill
 subType: mystical
-shortcode: vyalendra
-name:
-  full: "Ritual: Vyālendra"
-  aliases:
-    - Vyālendra
-    - Vyalendra
-    - The Shaper of Worlds
-data:
-  templatePriority: null
+tags: [varnaka, faith-skill]
+data: {templatePriority: null, packFolder: varnaka}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -21,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: varnaka
 ---
 
 ## Ritual: Vyālendra

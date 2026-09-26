@@ -1,16 +1,10 @@
 ---
-description: "Religion of the warden of the threshold between the life that has ended and the life that is to come."
-tags:
-  - varnaka
-  - deity
-  - death
-name:
-  full: Kālavrata
-  aliases:
-    - The Gatekeeper of Death
 shortcode: kalavrata
+name: {full: Kālavrata, aliases: [The Gatekeeper of Death]}
 type: affiliation
 subType: faithtradition
+description: "Religion of the warden of the threshold between the life that has ended and the life that is to come."
+tags: [varnaka, deity, death]
 data:
   banner: faithbnr
   templatePriority: null
@@ -48,19 +42,11 @@ data:
   domains: []
   population: null
   economy: []
-  lore:
-    - kalavratadty
-  parents:
-    - varakpnthn
-  relations:
-    varakpnthn: aligned
-packFolder: pantheonsvarnaka
-sohl:
-  system:
-    commonSkills:
-      - kalavrata
-      - sohl-sohl-skill-pysn
-      - sohl-sohl-skill-folklr
+  lore: [kalavratadty]
+  parents: [varakpnthn]
+  relations: {varakpnthn: aligned}
+  packFolder: pantheonsvarnaka
+sohl: {system: {commonSkills: [kalavrata, sohl-sohl-skill-pysn, sohl-sohl-skill-folklr]}}
 ---
 
 ## Kālavrata—The Gatekeeper of Death

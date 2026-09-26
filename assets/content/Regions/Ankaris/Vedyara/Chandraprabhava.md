@@ -1,23 +1,16 @@
 ---
-tags:
-  - sacred
-  - pilgrimage
-  - inland
-description: "The glacier-spring under Sūryashikhara where the Chandramahī begins—the first of the four cosmic sources, and the one that does not freeze."
+shortcode: chandrprbh
+name: {full: Chandraprabhava, aliases: []}
 type: place
 subType: site
+description: "The glacier-spring under Sūryashikhara where the Chandramahī begins—the first of the four cosmic sources, and the one that does not freeze."
+tags: [sacred, pilgrimage, inland]
 data:
   demonym: null
   lore: []
-  parents:
-    - graznmntns
-    - sthrnwall
+  parents: [graznmntns, sthrnwall]
   population: null
-name:
-  full: Chandraprabhava
-  aliases: []
-shortcode: chandrprbh
-packFolder: vedyara
+  packFolder: vedyara
 ---
 
 **Chandraprabhava** is where the [[place-chandrmahi|Chandramahī]] comes out of the ice under [[place-suryashkhr|Sūryashikhara]]. The [[affiliation-varakpnthn|Varnaka]] tradition does not treat this as the place the river happens to begin; it treats it as the place the river began, once, at the beginning, and has been beginning ever since.

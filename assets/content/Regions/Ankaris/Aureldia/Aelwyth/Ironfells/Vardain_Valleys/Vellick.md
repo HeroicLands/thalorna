@@ -1,22 +1,16 @@
 ---
-tags:
-  - village
-  - mountain
-description: "The smiths' village of the Vardain valleys—the only humans anywhere taught anything of Khazári technique, and forbidden to teach it onward."
+shortcode: vellick
+name: {full: Vellick, aliases: []}
 type: place
 subType: settlement
+description: "The smiths' village of the Vardain valleys—the only humans anywhere taught anything of Khazári technique, and forbidden to teach it onward."
+tags: [village, mountain]
 data:
   demonym: null
-  lore:
-    - vardain
-  parents:
-    - vardainvalleys
+  lore: [vardain]
+  parents: [vardainvalleys]
   population: 700
-name:
-  full: Vellick
-  aliases: []
-shortcode: vellick
-packFolder: aelwyth
+  packFolder: aelwyth
 ---
 
 **Vellick** sits where the beck drops enough to drive hammers, and it is where the

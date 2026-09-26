@@ -1,8 +1,6 @@
 ---
-name:
-  full: "Heroes and Knaves"
 shortcode: heroesandknaves
+name: {full: "Heroes and Knaves"}
 type: folder
-data:
-  color: "#8A2BE2"
+data: {color: "#8A2BE2"}
 ---

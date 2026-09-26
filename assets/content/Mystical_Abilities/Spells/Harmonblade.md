@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Harmonblade
-  aliases:
-    - Singing Sword
-description: "Blade sings with resonant force; strikes echo with doubled damage."
 shortcode: hrmnbld
+name: {full: Harmonblade, aliases: [Singing Sword]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-anvilbdg
-  templatePriority: null
+description: "Blade sings with resonant force; strikes echo with doubled damage."
+tags: []
+data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideros
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Singing Sword
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Singing Sword
 ---
 
 The caster grips a metal blade and sends a vibration through it—a sustained, harmonic frequency that makes the weapon sing with a clear, bell-like tone audible to everyone nearby. The vibration tightens the metal's molecular structure along the edge, creating a cutting surface sharper than any conventional whetstone can achieve. The singing blade parts armor, leather, and flesh with visibly less resistance than an ordinary weapon, its strokes accompanied by the eerie, musical hum of resonating steel.

@@ -1,18 +1,10 @@
 ---
-tags:
-  - celestial-pantheon
-  - faith-skill
-  - draft
+shortcode: zhutshtlng
+name: {full: "Ritual: Zhütshüt Lüng", aliases: [Zhütshüt Lüng, Zhutshut Lung]}
 type: skill
 subType: mystical
-shortcode: zhutshtlng
-name:
-  full: "Ritual: Zhütshüt Lüng"
-  aliases:
-    - Zhütshüt Lüng
-    - Zhutshut Lung
-data:
-  templatePriority: null
+tags: [celestial-pantheon, faith-skill, draft]
+data: {templatePriority: null, packFolder: tengvokvanlei}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -21,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: tengvokvanlei
 ---
 
 See [[affiliation-zhutshtlng|Zhütshüt Lüng]]

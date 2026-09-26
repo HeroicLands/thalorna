@@ -1,15 +1,10 @@
 ---
-tags: []
-type: affiliation
-description: A confederation of five culturally distinct clan-nations of the southeastern Southern Savannahs, bound by the ancient Long Pact, the totemic faith, and the drum-language—politically loose, ritually intricate, and inheritors of the lost stone-builders.
-name:
-  full: Nyáluba Tribal Nation
-  aliases:
-    - The Five Who Walk Together
-    - Nyáluba
-    - The Long Pact
 shortcode: nylbtrblntn
+name: {full: Nyáluba Tribal Nation, aliases: [The Five Who Walk Together, Nyáluba, The Long Pact]}
+type: affiliation
 subType: polity
+description: A confederation of five culturally distinct clan-nations of the southeastern Southern Savannahs, bound by the ancient Long Pact, the totemic faith, and the drum-language—politically loose, ritually intricate, and inheritors of the lost stone-builders.
+tags: []
 data:
   templatePriority: null
   demonym: Nyáluban
@@ -18,30 +13,23 @@ data:
   governance:
     model: confederation
     summary: >-
-      Five clan-nations (Mvuzi, Kambezi, Ngonzi, Sengala, Bombwe), each internally autonomous
-      under its own paramount and council of elders. The quadrennial Great Indaba—convened
-      by the Mvuzi paramount at Indala-Bomba in the southeastern highlands—coordinates defense,
-      settles inter-clan disputes, and renews the totemic compacts. No central executive;
-      the Indaba ratifies what the clans have already chosen.
+      Five clan-nations (Mvuzi, Kambezi, Ngonzi, Sengala, Bombwe), each internally autonomous under its own paramount and council of elders. The quadrennial Great Indaba—convened by the Mvuzi paramount at Indala-Bomba in the southeastern highlands—coordinates defense, settles inter-clan disputes, and renews the totemic compacts. No central executive; the Indaba ratifies what the clans have already chosen.
     ranks:
       - level: 0
         title: Kinless
         lore: outlawrnk
         description: >-
-          Cast out by their own kin and claimed by none; owed no hospitality, no water and no
-          vengeance.
+          Cast out by their own kin and claimed by none; owed no hospitality, no water and no vengeance.
       - level: 1
         title: Bondservant
         lore: bondservantrnk
         description: >-
-          Held in service or debt to a household, and answerable through its head rather than
-          in their own name.
+          Held in service or debt to a household, and answerable through its head rather than in their own name.
       - level: 2
         title: Dependent
         lore: dependentrnk
         description: >-
-          Sheltered by a household without being of its blood—a client, a widow's family,
-          a taken-in stranger.
+          Sheltered by a household without being of its blood—a client, a widow's family, a taken-in stranger.
       - level: 3
         title: Kinsman
         lore: kinsmanrnk
@@ -50,19 +38,16 @@ data:
         title: Householder
         lore: commonerrnk
         description: >-
-          Head of a tent or hall, holding its herds and its people and speaking for them at
-          the moot.
+          Head of a tent or hall, holding its herds and its people and speaking for them at the moot.
       - level: 5
         title: Elder
         lore: elderrnk
-        description: Senior of a lineage, whose memory of custom and precedent settles what
-          the young dispute.
+        description: Senior of a lineage, whose memory of custom and precedent settles what the young dispute.
       - level: 6
         title: Chieftain
         lore: councillorrnk
         description: >-
-          Leading a clan or tribe by descent and by consent together, and losing it when either
-          fails.
+          Leading a clan or tribe by descent and by consent together, and losing it when either fails.
       - level: 7
         title: Delegate
         lore: councillorrnk
@@ -71,49 +56,33 @@ data:
         title: Speaker of the Council
         lore: prsdngffcrrnk
         description: >-
-          Presiding over the common council, holding the peace of its meeting and no authority
-          beyond it.
+          Presiding over the common council, holding the peace of its meeting and no authority beyond it.
     offices:
-      Speaker of the Council: Presiding officer of the common council, keeper of its peace
-        and of the order of speaking.
+      Speaker of the Council: Presiding officer of the common council, keeper of its peace and of the order of speaking.
       Chieftain: Head of a clan or tribe, holding by descent and consent together.
-      Elder: Senior of a lineage, whose recollection of custom settles disputes the young
-        cannot.
+      Elder: Senior of a lineage, whose recollection of custom settles disputes the young cannot.
       Lawkeeper: >-
-        Keeper of the customs the tribes hold in common, and arbiter where two tribes' customs
-        differ.
+        Keeper of the customs the tribes hold in common, and arbiter where two tribes' customs differ.
       Host-Caller: Summoner of the common muster when a threat concerns every tribe.
-      Truce-Warden: Holder of the peace at the council and at the seasonal markets, empowered
-        to enforce it.
+      Truce-Warden: Holder of the peace at the council and at the seasonal markets, empowered to enforce it.
       Water-Warden: >-
-        Keeper of the wells, springs or pastures the tribes share, and of the order in which
-        they are used.
+        Keeper of the wells, springs or pastures the tribes share, and of the order in which they are used.
       Guide: >-
-        Holder of the routes—their water, their seasons and their dangers—and hired at
-        a price accordingly.
-      Envoy: Sent to treat with a settled power, and protected by custom while he carries
-        the word.
+        Holder of the routes—their water, their seasons and their dangers—and hired at a price accordingly.
+      Envoy: Sent to treat with a settled power, and protected by custom while he carries the word.
       Keeper of the Feud: >-
-        Recorder of blood owed and blood paid between kindreds, without whom a settlement
-        cannot be reckoned.
+        Recorder of blood owed and blood paid between kindreds, without whom a settlement cannot be reckoned.
   seat: ekunda
-  domains:
-    - sthrnsvnhs
+  domains: [sthrnsvnhs]
   population: 2000000
-  economy:
-    - lore-bartercnmy
-    - lore-kinhalcrdt
-  lore:
-    - humanflk
+  economy: [lore-bartercnmy, lore-kinhalcrdt]
+  lore: [humanflk]
   parents: []
-  relations:
-    nyalbpnthn: aligned
-terran_analog: "Iroquois Confederacy / Haudenosaunee + Sotho-Tswana morafe + Shona heirs of Great Zimbabwe—five distinct clan-nations bound by ancient pact, cattle-pastoral with stone-ruin heritage, drum-language as nervous system"
-packFolder: politiesnyaluba
-sohl:
-  system:
-    commonSkills:
-      - nyalbnlng
+  relations: {nyalbpnthn: aligned}
+  packFolder: politiesnyaluba
+sohl: {system: {commonSkills: [nyalbnlng]}}
+
+# terran_analog: "Iroquois Confederacy / Haudenosaunee + Sotho-Tswana morafe + Shona heirs of Great Zimbabwe—five distinct clan-nations bound by ancient pact, cattle-pastoral with stone-ruin heritage, drum-language as nervous system"
 ---
 
 The **Nyáluba Tribal Nation** is a confederation of five distinct clan-nations occupying the southeastern quadrant of the [[place-sthrnsvnhs|Southern Savannahs]] of [[place-xerathia|Xerathia]]—the highland belt where the great upland rivers run year-round, the central grasslands where the herds migrate, and the riverine wetlands of the eastern coast. They are the largest organized political body in the savannahs, perhaps two and a half million people across a territory roughly the size of Provènzia and Tarvénia combined, and yet they have no king, no capital, no written law, no standing army, and no apparatus that would be recognized by an Aurèldían or Vylarian as a government. They have, instead, the **Long Pact**—an ancient covenant binding five clan-nations to a shared way of life—and the apparatus by which the Pact is renewed: the Great Indaba, the drum-network, the griots, and the totemic law.

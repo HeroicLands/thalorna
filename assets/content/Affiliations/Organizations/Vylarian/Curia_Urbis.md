@@ -1,13 +1,10 @@
 ---
-tags: []
-description: "The civic government and courts of Magnápolis—ruled by the Curia Urbis, a council of five imperial-appointed Curators, with a tiered court system beneath it; the throne's own imperial tribunals sit apart, within the Officia Imperii of the Inner City."
-name:
-  full: Curia Urbis
-  aliases:
-    - Magnápolis Courts
 shortcode: curiaurbis
+name: {full: Curia Urbis, aliases: [Magnápolis Courts]}
 type: affiliation
 subType: governmental
+description: "The civic government and courts of Magnápolis—ruled by the Curia Urbis, a council of five imperial-appointed Curators, with a tiered court system beneath it; the throne's own imperial tribunals sit apart, within the Officia Imperii of the Inner City."
+tags: []
 data:
   templatePriority: null
   demonym: null
@@ -16,59 +13,42 @@ data:
   governance:
     model: council
     summary: >-
-      A council of five Curators appointed and dismissed by the Augustar, sitting as equals with
-      a rotating chair over a tiered civic court, so that no one man holds the courts, the
-      granaries and the Watch together.
+      A council of five Curators appointed and dismissed by the Augustar, sitting as equals with a rotating chair over a tiered civic court, so that no one man holds the courts, the granaries and the Watch together.
     ranks:
       - level: 0
         title: Removed
         lore: expelledrnk
         description: >-
-          The Augustar appoints and dismisses alike; a Curator holds at the throne's pleasure
-          and leaves at the throne's word.
+          The Augustar appoints and dismisses alike; a Curator holds at the throne's pleasure and leaves at the throne's word.
       - level: 1
         title: Iudex
         lore: magistraternk
         description: >-
-          Of the Iudicia, the civil courts, drawn from the propertied orders and hearing citizen
-          against citizen over property, contract, debt, inheritance and standing; the weightier
-          disputes before panels.
+          Of the Iudicia, the civil courts, drawn from the propertied orders and hearing citizen against citizen over property, contract, debt, inheritance and standing; the weightier disputes before panels.
       - level: 3
         title: Curator
         lore: councillorrnk
         description: >-
-          One of the five, appointed from the senatorial order, holding a standing portfolio and
-          deciding the weightier matters with the others by majority. The chair rotates so that
-          none becomes the head of the city.
+          One of the five, appointed from the senatorial order, holding a standing portfolio and deciding the weightier matters with the others by majority. The chair rotates so that none becomes the head of the city.
     offices:
       Curator of Law: >-
-        Curator Iudiciorum—the city's chief judicial authority, overseeing the Aediles, the
-        Iudicia and the Criminal Tribunal, and presiding when the council sits as the supreme
-        civic court.
+        Curator Iudiciorum—the city's chief judicial authority, overseeing the Aediles, the Iudicia and the Criminal Tribunal, and presiding when the council sits as the supreme civic court.
       Curator of Order: >-
-        Curator Vigilum—commands the City Watch and answers for public order, the watch-houses
-        and the city gaols.
+        Curator Vigilum—commands the City Watch and answers for public order, the watch-houses and the city gaols.
       Curator of the Grain: >-
-        Curator Annonae—the granaries, the dole, the licensed markets and the unceasing daily
-        supply on which the capital lives.
+        Curator Annonae—the granaries, the dole, the licensed markets and the unceasing daily supply on which the capital lives.
       Curator of Works and Waters: >-
-        Curator Operum—the fabric of the city: its streets and bridges, its aqueducts and
-        sewers, its public buildings and baths.
+        Curator Operum—the fabric of the city: its streets and bridges, its aqueducts and sewers, its public buildings and baths.
       Curator of the Rolls: >-
-        Curator Tabularum—the census, the citizen-rolls, the city's records and its
-        correspondence with the throne; by custom the council's coordinating seat.
+        Curator Tabularum—the census, the citizen-rolls, the city's records and its correspondence with the throne; by custom the council's coordinating seat.
   seat: null
   domains: []
   population: null
-  economy:
-    - affiliation-aerarimmpr
-    - affiliation-curiafscls
+  economy: [affiliation-aerarimmpr, affiliation-curiafscls]
   lore: []
   parents: []
   relations: {}
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 ## The Courts of Magnápolis

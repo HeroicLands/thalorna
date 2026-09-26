@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The bison as a totemic ideal, and the human character it describes."
+shortcode: bisonttm
+name: {full: Bison, aliases: [Bison Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Bison
-  aliases:
-    - Bison Totem
-shortcode: bisonttm
-packFolder: loretotems
-data:
-  banner: creaturebnr
+description: "The bison as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-bisontotem|Bison]]{float: top-left, size: medium}

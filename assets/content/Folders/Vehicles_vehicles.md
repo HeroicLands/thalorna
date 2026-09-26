@@ -1,8 +1,6 @@
 ---
-name:
-  full: "Vehicles"
 shortcode: vehicles
+name: {full: "Vehicles"}
 type: folder
-data:
-  color: "#FF8C00"
+data: {color: "#FF8C00"}
 ---

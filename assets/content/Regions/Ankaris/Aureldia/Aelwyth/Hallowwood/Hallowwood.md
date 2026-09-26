@@ -1,22 +1,11 @@
 ---
-tags:
-  - region
-  - woodland
-  - sacred
-description: "The fae forest of southern Aelwyth, where the Sinalë reside—closed to outsiders, tolerating embassies from Dúnavarre and welcoming only those from Élavendre and the Áelendan."
+shortcode: hallowwood
+name: {full: The Hallowwood, aliases: []}
 type: place
 subType: region
-data:
-  demonym: null
-  lore: []
-  parents:
-    - aelwyth
-  population: 4000
-name:
-  full: The Hallowwood
-  aliases: []
-shortcode: hallowwood
-packFolder: aelwyth
+description: "The fae forest of southern Aelwyth, where the Sinalë reside—closed to outsiders, tolerating embassies from Dúnavarre and welcoming only those from Élavendre and the Áelendan."
+tags: [region, woodland, sacred]
+data: {demonym: null, lore: [], parents: [aelwyth], population: 4000, packFolder: aelwyth}
 ---
 
 The **Hallowwood** covers the south of Aelwyth, between the farmland of

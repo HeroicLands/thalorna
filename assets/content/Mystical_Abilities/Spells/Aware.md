@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Aware
-  aliases:
-    - Sensation
-description: "Sharpens senses; target perceives details invisible to normal sight."
 shortcode: aware
+name: {full: Aware, aliases: [Sensation]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-divination
-  templatePriority: null
+description: "Sharpens senses; target perceives details invisible to normal sight."
+tags: []
+data: {icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pneumenos
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Sensation
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Sensation
 ---
 
 The caster touches the target's temples and channels a surge of mental energy into their perceptive faculties. The world snaps into sharper focus—colors intensify, sounds separate into distinct layers, and the skin becomes sensitive enough to feel the displacement of air from a passing insect. Tastes and scents become almost overwhelming in their richness, revealing details that normal perception simply cannot detect.

@@ -1,11 +1,9 @@
 ---
-description: "Haradian maritime guild—war-veteran captains blurring legitimate shipping and piracy, providing de facto navy and naval muscle for the Confederation."
-type: affiliation
-name:
-  full: Corsair League
-  aliases: []
 shortcode: corsairleg
+name: {full: Corsair League, aliases: []}
+type: affiliation
 subType: guild
+description: "Haradian maritime guild—war-veteran captains blurring legitimate shipping and piracy, providing de facto navy and naval muscle for the Confederation."
 data:
   templatePriority: null
   demonym: null
@@ -14,17 +12,13 @@ data:
   governance:
     model: council
     summary: >-
-      A fraternity of war-veteran ship captains turned shipping cartel, providing the
-      Confederation's de facto navy under the charter its Grand Council periodically threatens
-      to revoke.
+      A fraternity of war-veteran ship captains turned shipping cartel, providing the Confederation's de facto navy under the charter its Grand Council periodically threatens to revoke.
     ranks:
       - level: 1
         title: Member
         lore: swornmemberrnk
         description: >-
-          A ship captain, fleet owner or naval officer operating under the League's umbrella,
-          granted preferential access to harbor facilities, customs exemptions and the right
-          to carry weapons in Haradian ports.
+          A ship captain, fleet owner or naval officer operating under the League's umbrella, granted preferential access to harbor facilities, customs exemptions and the right to carry weapons in Haradian ports.
     offices: {}
   seat: null
   domains: []
@@ -33,12 +27,10 @@ data:
   lore: []
   parents: []
   relations: {}
-headquarters: city-of-kethara
-packFolder: harad
-sohl:
-  system:
-    commonSkills:
-      - helonclng
+  packFolder: harad
+sohl: {system: {commonSkills: [helonclng]}}
+
+# headquarters: city-of-kethara
 ---
 
 The Corsair League is Harad's maritime guild—an organization that blurs the line between legitimate shipping, naval power, and outright piracy depending on the political weather. Founded by the captains and admirals who won the [[affiliation-cnfdrtnhrdnstts|Battle of Tamzîr Shoals]], the League was originally a fraternity of war veterans. It has since evolved into a powerful shipping cartel that controls much of Harad's merchant marine and provides the Confederation's de facto navy.

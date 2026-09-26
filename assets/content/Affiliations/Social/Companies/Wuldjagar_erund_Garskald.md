@@ -1,11 +1,12 @@
 ---
-tags:
-  - company
-  - hunters
-  - vrystwald
-description: "Vrystwald hunters bound by sacred obligation to feed their clan through skill, tradition, and knowledge of forest depths that no outsider can fully comprehend."
+shortcode: wldjgrrndgrskld
+name:
+  full: Wuldjagâr erund Gárskald
+  aliases: [Hunters of the Deep Forest, Wild Hunt of the Speakers of the Spear]
 type: affiliation
 subType: order
+description: "Vrystwald hunters bound by sacred obligation to feed their clan through skill, tradition, and knowledge of forest depths that no outsider can fully comprehend."
+tags: [company, hunters, vrystwald]
 data:
   banner: companybnr
   templatePriority: null
@@ -15,15 +16,13 @@ data:
   governance:
     model: council
     summary: >-
-      A clan's sworn hunting company under a huntmaster who answers to the chief, bound by
-      tradition rather than by contract.
+      A clan's sworn hunting company under a huntmaster who answers to the chief, bound by tradition rather than by contract.
     ranks:
       - level: 0
         title: Foresworn
         lore: expelledrnk
         description: >-
-          Broken from the company for breaking its discipline; the clan feeds them and the forest
-          does not open to them again.
+          Broken from the company for breaking its discipline; the clan feeds them and the forest does not open to them again.
       - level: 1
         title: Clan-Kin
         lore: dependentrnk
@@ -31,8 +30,7 @@ data:
       - level: 2
         title: Follower
         lore: dependentrnk
-        description: Carrying, skinning and hauling on the hunt, and learning the ways by walking
-          them.
+        description: Carrying, skinning and hauling on the hunt, and learning the ways by walking them.
       - level: 3
         title: Sworn Hunter
         lore: swornmemberrnk
@@ -40,8 +38,7 @@ data:
       - level: 4
         title: Proven Hunter
         lore: warriorrnk
-        description: Having taken great game, and consulted before the company commits to a
-          season.
+        description: Having taken great game, and consulted before the company commits to a season.
       - level: 5
         title: Track-Leader
         lore: officerrnk
@@ -50,21 +47,16 @@ data:
         title: Huntmaster
         lore: commanderrnk
         description: >-
-          Leader of the Wuldjagâr, answering directly to the clan chief. A Varokh hunting company
-          is not a democracy.
+          Leader of the Wuldjagâr, answering directly to the clan chief. A Varokh hunting company is not a democracy.
     offices:
       Huntmaster: >-
-        Leader of the company, holding it by example and unquestioned authority, and answering
-        to the clan chief.
-      Track-Leader: Commander of a party working its own line, and answerable for every hunter
-        on it.
+        Leader of the company, holding it by example and unquestioned authority, and answering to the clan chief.
+      Track-Leader: Commander of a party working its own line, and answerable for every hunter on it.
       Healer: Keeper of the company's wounded and reader of what ails the herds it lives on.
       Spear-Bearer: >-
-        Holder of the killing spear at the stand, a charge given to the steadiest rather than
-        the strongest.
+        Holder of the killing spear at the stand, a charge given to the steadiest rather than the strongest.
       Skinner: >-
-        Master of what is taken—the hide, the meat, the division of both between hunters
-        and clan.
+        Master of what is taken—the hide, the meat, the division of both between hunters and clan.
       Dog-Keeper: Warden of the hounds, without which the great game is not brought to bay.
       Scout: Sent ahead into ground the company does not know, and gone for days at a time.
   seat: null
@@ -74,16 +66,8 @@ data:
   lore: []
   parents: []
   relations: {}
-packFolder: politiescompanies
-name:
-  full: Wuldjagâr erund Gárskald
-  aliases:
-    - Hunters of the Deep Forest
-    - Wild Hunt of the Speakers of the Spear
-shortcode: wldjgrrndgrskld
-sohl:
-  system:
-    commonSkills: []
+  packFolder: politiescompanies
+sohl: {system: {commonSkills: []}}
 ---
 
 **Wuldjagâr erund Gárskald:** _Varokh Deep Forest Hunting Party_ _Varokhi: "The Wild Hunt of the Speakers of the Spear"_

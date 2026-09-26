@@ -1,25 +1,16 @@
 ---
-tags:
-  - sacred
-  - river
-  - pilgrimage
-  - inland
-description: "The plain at the Mahānadi's great confluence, empty for eleven years in twelve and holding a quarter of a million people in the twelfth."
+shortcode: melaground
+name: {full: The Mela Ground, aliases: [The Mela ground]}
 type: place
 subType: site
+description: "The plain at the Mahānadi's great confluence, empty for eleven years in twelve and holding a quarter of a million people in the twelfth."
+tags: [sacred, river, pilgrimage, inland]
 data:
   demonym: null
   lore: []
-  parents:
-    - mahanadi
-    - vedyarargn
+  parents: [mahanadi, vedyarargn]
   population: null
-name:
-  full: The Mela Ground
-  aliases:
-    - The Mela ground
-shortcode: melaground
-packFolder: vedyara
+  packFolder: vedyara
 ---
 
 The **Mela Ground** is the plain where [[place-mahanadi|the Mahānadi]] takes its greatest tributary, and it is where the [[affiliation-janpdsvdyr|janapadas of Vedyara]] hold their twelve-yearly assembly. The ground is flat, broad and dry for eleven months of the year. Nobody lives on it. Between assemblies it carries one temple, [[place-sangama|Sangama]], a landing, and a great deal of grass.

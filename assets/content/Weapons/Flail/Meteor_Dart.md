@@ -1,14 +1,10 @@
 ---
-tags: []
-name:
-  full: Meteor Dart
-  aliases: []
-description: "Rope-spiked dart for ranged pierce and entangle; cavalry raider's disruptor."
 shortcode: biao
+name: {full: Meteor Dart, aliases: []}
 type: weapongear
-data:
-  icon: icon-flail
-  templatePriority: null
+description: "Rope-spiked dart for ranged pierce and entangle; cavalry raider's disruptor."
+tags: []
+data: {icon: icon-flail, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: flail
   weaponType: Flail
@@ -23,14 +19,8 @@ sohl:
         name: Impale
         assocSkillCode: melee
         minParts: 1
-        attack:
-          spread: 6
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 8
-          modifier: 2
-          aspect: piercing
+        attack: {spread: 6, modifier: 0}
+        impactBase: {numDice: 1, die: 8, modifier: 2, aspect: piercing}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -59,22 +49,14 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 5
-        defense:
-          blockMod: -10
-          counterstrikeMod: -10
+        defense: {blockMod: -10, counterstrikeMod: -10}
       thrown:
         type: missile
         name: Thrown
         assocSkillCode: thro
         minParts: 1
-        attack:
-          spread: 6
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 8
-          modifier: 3
-          aspect: piercing
+        attack: {spread: 6, modifier: 0}
+        impactBase: {numDice: 1, die: 8, modifier: 3, aspect: piercing}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -106,7 +88,6 @@ sohl:
         maxVolleyMult: 2
         baseRangeBase: 30
         drawBase: 0
-packFolder: weapons
 ---
 
 A sharp iron spike attached to a length of rope, the meteor dart is a lighter kin to the meteor hammer. Cast as a ranged weapon to pierce and harass, it can entangle or strike; skilled throwers use it to disrupt skirmish lines before closing for melee. Common among rogue-knights and light cavalry raiders seeking a quick striking reach.

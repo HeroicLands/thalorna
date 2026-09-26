@@ -1,19 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: The Imposed Humor
-  aliases:
-    - Passion Elixir
-description: "Deep red-violet liquid; implants chosen mental disorder compulsively."
 shortcode: elxpas
+name: {full: The Imposed Humor, aliases: [Passion Elixir]}
 type: concoctiongear
 subType: elixir
-hmk:
-  name: Passion
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "Deep red-violet liquid; implants chosen mental disorder compulsively."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "na"
     strength: 0
-packFolder: elixirs
+
+# hmk:
+#   name: Passion
 ---
 
 A Passion Elixir roils with deep reds and violets, crackling with barely suppressed emotion, and tastes of fire and bitter fruit. This elixir implants a psychic seed that blossoms into a chosen mental state—the alchemist specifies during preparation whether the imbiber acquires a psyche or sunsign trait Disorder, flooding the mind with compulsive impulses and conflicting desires.

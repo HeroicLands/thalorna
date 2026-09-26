@@ -1,26 +1,20 @@
 ---
-tags:
-  - region
-description: Ta'Kheperu's disputed northern desert-march—the dry country beyond the eastern border nomes, held for the caravan road to Dunhara and the Khazryn and for the depth it puts between the empire and its eastern neighbors, and never made a nome.
-name:
-  full: Khaset-Mehtet
-  aliases:
-    - The Northern March
 shortcode: khstmhttrgn
+name: {full: Khaset-Mehtet, aliases: [The Northern March]}
 type: place
 subType: region
+description: Ta'Kheperu's disputed northern desert-march—the dry country beyond the eastern border nomes, held for the caravan road to Dunhara and the Khazryn and for the depth it puts between the empire and its eastern neighbors, and never made a nome.
+tags: [region]
 data:
   icon: null
   demonym: Kheperi
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
-  borders:
-    - { to: dunharargn, bearing: NE }
+  lore: [humanflk]
+  parents: [takheperurgn]
+  borders: [{to: dunharargn, bearing: NE}]
   population: null
-terran_analog: "Northern Sinai and the Negev margin—the fortress-wells of the Way of Horus between the Delta and Canaan: a garrisoned desert land-bridge held for the road that crosses it rather than for anything it grows."
-packFolder: takheperu
+  packFolder: takheperu
+
+# terran_analog: "Northern Sinai and the Negev margin—the fortress-wells of the Way of Horus between the Delta and Canaan: a garrisoned desert land-bridge held for the road that crosses it rather than for anything it grows."
 ---
 
 Khaset-Mehtet—"the northern desert-march"—is the dry country at the

@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Probe
-  aliases:
-    - Enquiry
-description: "Scrying magic searching distant location; reveals conditions and inhabitants."
 shortcode: probe
+name: {full: Probe, aliases: [Enquiry]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-divination
-  templatePriority: null
+description: "Scrying magic searching distant location; reveals conditions and inhabitants."
+tags: []
+data: {icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pneumenos
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Enquiry
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Enquiry
 ---
 
 The caster locks eyes with the subject and projects a single, precisely formulated question directly into their consciousness. The question arrives not as words but as a compulsion to know—the subject's mind reflexively reaches for the answer like a hand reaching for a thrown ball, surfacing the relevant knowledge before conscious resistance can intervene. The caster perceives the answer as a flash of imagery, emotion, or understanding drawn from the subject's own experience.

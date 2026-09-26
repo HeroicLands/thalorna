@@ -1,16 +1,10 @@
 ---
-tags:
-  - hex-hodai
-  - draft
+shortcode: kentra
+name: {full: Incantus Kentra, aliases: []}
 type: skill
 subType: mystical
-shortcode: kentra
-name:
-  full: Incantus Kentra
-  aliases: []
-data:
-  icon: kentra
-  templatePriority: null
+tags: [hex-hodai, draft]
+data: {icon: kentra, templatePriority: null, packFolder: hexhodai}
 sohl:
   system:
     skillBaseFormula: "@aur, @rea"
@@ -19,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: hexhodai
 ---
 
 See [[affiliation-kentra|Kentra]]

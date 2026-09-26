@@ -1,18 +1,14 @@
 ---
-tags:
-  - oasis
-description: "Oasis"
+shortcode: oasisteyrn
+name: {full: Oasis of Teyran, aliases: []}
 type: place
 subType: settlement
+description: "Oasis"
+tags: [oasis]
 data:
   demonym: null
   lore: []
-  parents:
-    - dunhardsrtrgn
+  parents: [dunhardsrtrgn]
   population: 600
-name:
-  full: Oasis of Teyran
-  aliases: []
-shortcode: oasisteyrn
-packFolder: dunharadesert
+  packFolder: dunharadesert
 ---

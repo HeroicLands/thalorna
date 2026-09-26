@@ -1,14 +1,10 @@
 ---
-tags: []
-name:
-  full: Trishula
-  aliases: []
-description: "Sacred three-pronged polearm symbolizing cosmic order and battlefield virtue."
 shortcode: trsha
+name: {full: Trishula, aliases: []}
 type: weapongear
-data:
-  icon: icon-polearm
-  templatePriority: null
+description: "Sacred three-pronged polearm symbolizing cosmic order and battlefield virtue."
+tags: []
+data: {icon: icon-polearm, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: polearm
   weaponType: Polearm
@@ -23,14 +19,8 @@ sohl:
         name: Impale
         assocSkillCode: melee
         minParts: 1
-        attack:
-          spread: 8
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 8
-          modifier: 4
-          aspect: piercing
+        attack: {spread: 8, modifier: 0}
+        impactBase: {numDice: 1, die: 8, modifier: 4, aspect: piercing}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -59,22 +49,14 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 6
-        defense:
-          blockMod: 5
-          counterstrikeMod: 5
+        defense: {blockMod: 5, counterstrikeMod: 5}
       shaft:
         type: melee
         name: Shaft
         assocSkillCode: melee
         minParts: 1
-        attack:
-          spread: 8
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 6
-          modifier: 1
-          aspect: blunt
+        attack: {spread: 8, modifier: 0}
+        impactBase: {numDice: 1, die: 6, modifier: 1, aspect: blunt}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -103,22 +85,14 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 6
-        defense:
-          blockMod: 0
-          counterstrikeMod: 0
+        defense: {blockMod: 0, counterstrikeMod: 0}
       halfswordshaft:
         type: melee
         name: Half-Sword Shaft
         assocSkillCode: melee
         minParts: 2
-        attack:
-          spread: 4
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 6
-          modifier: 1
-          aspect: blunt
+        attack: {spread: 4, modifier: 0}
+        impactBase: {numDice: 1, die: 6, modifier: 1, aspect: blunt}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -147,10 +121,7 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 6
-        defense:
-          blockMod: 0
-          counterstrikeMod: 0
-packFolder: weapons
+        defense: {blockMod: 0, counterstrikeMod: 0}
 ---
 
 A three-pronged sacred polearm featuring symmetrical tines, the Trishula is both weapon and symbol of cosmic order. Its three prongs pierce and divide, making it effective for thrusting and binding; warriors prize it for both its battlefield virtue and its ceremonial prestige.

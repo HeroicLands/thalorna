@@ -1,19 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: Heart-of-the-Oak
-  aliases:
-    - Might Elixir
-description: "Dense amber strength elixir; surges Strength by four points temporarily."
 shortcode: elxmgt
+name: {full: Heart-of-the-Oak, aliases: [Might Elixir]}
 type: concoctiongear
 subType: elixir
-hmk:
-  name: Might
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "Dense amber strength elixir; surges Strength by four points temporarily."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "na"
     strength: 0
-packFolder: elixirs
+
+# hmk:
+#   name: Might
 ---
 
 A Might Elixir presents as a dense, amber liquid that seems to vibrate faintly in the vial, muscles of raw power coiled within its depth. When swallowed, the imbiber's frame suffuses with unprecedented strength; their Strength score surges by four points, with corresponding gains to Impact Modifier, Heft, Bow Draw, and Encumbrance. The surge is not subtle—limbs feel heavier, movements more forceful, every exertion freighted with potential.

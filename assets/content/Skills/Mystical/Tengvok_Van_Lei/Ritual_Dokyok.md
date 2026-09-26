@@ -1,20 +1,12 @@
 ---
-tags:
-  - celestial-pantheon
-  - faith-skill
-  - draft
-type: skill
-subType: mystical
 shortcode: dokyok
 name:
   full: "Ritual: Dōkyök"
-  aliases:
-    - Dōkyök
-    - Dokyok
-    - The Lost Road
-    - The Guide Who Leads Astray
-data:
-  templatePriority: null
+  aliases: [Dōkyök, Dokyok, The Lost Road, The Guide Who Leads Astray]
+type: skill
+subType: mystical
+tags: [celestial-pantheon, faith-skill, draft]
+data: {templatePriority: null, packFolder: tengvokvanlei}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -23,7 +15,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: tengvokvanlei
 ---
 
 See [[affiliation-dokyok|Dōkyök]]

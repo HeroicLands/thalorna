@@ -1,13 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: greatlordrnk
+name: {full: Great Lord, aliases: []}
 type: lore
 subType: law
-name:
-  full: Great Lord
-  aliases: []
-shortcode: greatlordrnk
 description: "Holding a province of the sovereign directly, and commanding lesser lords in turn."
+tags: [draft]
 ---
 
 Holding a province of the sovereign directly, and commanding lesser lords in turn.

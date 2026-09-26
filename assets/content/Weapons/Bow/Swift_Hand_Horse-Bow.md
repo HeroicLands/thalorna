@@ -1,14 +1,10 @@
 ---
-tags: []
-name:
-  full: Swift Hand Horse-Bow
-  aliases: []
-description: "Short recurved composite bow of the Swift Hand academy, drawn and loosed from horseback."
 shortcode: swfthndbw
+name: {full: Swift Hand Horse-Bow, aliases: []}
 type: weapongear
-data:
-  icon: icon-bow
-  templatePriority: null
+description: "Short recurved composite bow of the Swift Hand academy, drawn and loosed from horseback."
+tags: []
+data: {icon: icon-bow, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: bow
   weaponType: Bow
@@ -23,14 +19,8 @@ sohl:
         name: Crush
         assocSkillCode: melee
         minParts: 1
-        attack:
-          spread: 6
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 4
-          modifier: 0
-          aspect: blunt
+        attack: {spread: 6, modifier: 0}
+        impactBase: {numDice: 1, die: 4, modifier: 0, aspect: blunt}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -59,9 +49,7 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 3
-        defense:
-          blockMod: 0
-          counterstrikeMod: 0
+        defense: {blockMod: 0, counterstrikeMod: 0}
       ranged:
         type: missile
         name: Ranged
@@ -71,14 +59,8 @@ sohl:
         drawBase: 55
         baseRangeBase: 170
         maxVolleyMult: 4
-        attack:
-          spread: 0
-          modifier: 0
-        impactBase:
-          numDice: 0
-          die: null
-          modifier: 2
-          aspect: piercing
+        attack: {spread: 0, modifier: 0}
+        impactBase: {numDice: 0, die: null, modifier: 2, aspect: piercing}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -106,7 +88,6 @@ sohl:
           noStrMod: false
           halfImpact: false
           lowAim: false
-packFolder: weapons
 ---
 
 Barely a yard unstrung and recurved hard enough to fight the string back into its case, the Swift Hand bow is built to be drawn from a moving horse with one hand while the other holds the reins. The academy that teaches it—the mounted-archery tradition, "sought by every Vedyari kingdom that fields cavalry"—takes a recruit only after he can already ride, and the bow itself is the smallest and most expensive thing the four academies of Dhanurkota sell.

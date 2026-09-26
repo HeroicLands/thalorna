@@ -1,13 +1,9 @@
 ---
-tags:
-  - dreadspawn
-  - creature
-name:
-  full: Stygian Leviathan
-  aliases: []
-description: "An elder aquatic predator of lightless subterranean seas whose indifferent presence renders entire underground ecosystems dormant with fear."
 shortcode: stygnlvt
+name: {full: Stygian Leviathan, aliases: []}
 type: being
+description: "An elder aquatic predator of lightless subterranean seas whose indifferent presence renders entire underground ecosystems dormant with fear."
+tags: [dreadspawn, creature]
 data:
   icon: icon-person
   templatePriority: null
@@ -42,21 +38,21 @@ sohl:
     rea: 1d6+6
     cre: 1d6+6
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 20 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 22 } }
-    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 18 } }
-    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 8 } }
-    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 80 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 70 } }
-    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 33 } }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 48 } }
-    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 64 } }
-    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 53 } }
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 20}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 22}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 18}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 8}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 10}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 80}}
+    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 70}}
+    - {model: sohl-sohl-mysticalability-sprt, system: {masteryLevelBase: 33}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 48}}
+    - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 64}}
+    - {model: sohl-sohl-skill-shok, system: {masteryLevelBase: 53}}
     - name: Tearing Bite
       type: skill
       system:
@@ -64,35 +60,20 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 63
         combatCategory: melee
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: melee
           shortcode: bite
           name: Tearing Bite
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 8
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: 5
-            aspect: piercing
+          attack: {disabled: false, spread: 8, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 5, aspect: piercing}
           lengthBase: 4
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
     - name: Tentacle Grasp
       type: skill
       system:
@@ -100,83 +81,56 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 63
         combatCategory: melee
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: melee
           shortcode: tentacle
           name: Tentacle Grasp
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 16
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: 4
-            aspect: blunt
+          attack: {disabled: false, spread: 16, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 4, aspect: blunt}
           lengthBase: 6
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
   system:
     body:
       structure:
         zones:
-          - name: Head
-            shortcode: headzone
-            probWeight: 8
-          - name: Body
-            shortcode: torsozone
-            probWeight: 24
-          - name: Tail
-            shortcode: tailzone
-            probWeight: 8
+          - {name: Head, shortcode: headzone, probWeight: 8}
+          - {name: Body, shortcode: torsozone, probWeight: 24}
+          - {name: Tail, shortcode: tailzone, probWeight: 8}
         parts:
           - name: Head
             shortcode: headpart
             bodyZoneCode: headzone
-            roles:
-              - vital
-              - manipulator
+            roles: [vital, manipulator]
             canHoldItem: false
             probWeight: 10
           - name: Body
             shortcode: torsopart
             bodyZoneCode: torsozone
-            roles:
-              - core
+            roles: [core]
             canHoldItem: false
             probWeight: 10
           - name: Left Fin
             shortcode: lfinpart
             bodyZoneCode: torsozone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 2
           - name: Right Fin
             shortcode: rfinpart
             bodyZoneCode: torsozone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 2
           - name: Tail
             shortcode: tailpart
             bodyZoneCode: tailzone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 10
         locations:
@@ -187,11 +141,7 @@ sohl:
             amputability: none
             shockValue: 5
             probWeight: 6
-            protectionBase:
-              blunt: 8
-              edged: 7
-              piercing: 6
-              fire: 8
+            protectionBase: {blunt: 8, edged: 7, piercing: 6, fire: 8}
           - name: Gills
             shortcode: gillloc
             bodyPartCode: headpart
@@ -199,11 +149,7 @@ sohl:
             amputability: low
             shockValue: 5
             probWeight: 4
-            protectionBase:
-              blunt: 8
-              edged: 7
-              piercing: 6
-              fire: 8
+            protectionBase: {blunt: 8, edged: 7, piercing: 6, fire: 8}
           - name: Body
             shortcode: bodyloc
             bodyPartCode: torsopart
@@ -211,11 +157,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 6
-            protectionBase:
-              blunt: 8
-              edged: 7
-              piercing: 6
-              fire: 8
+            protectionBase: {blunt: 8, edged: 7, piercing: 6, fire: 8}
           - name: Underbelly
             shortcode: underbellyloc
             bodyPartCode: torsopart
@@ -223,11 +165,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 4
-            protectionBase:
-              blunt: 8
-              edged: 7
-              piercing: 6
-              fire: 8
+            protectionBase: {blunt: 8, edged: 7, piercing: 6, fire: 8}
           - name: Left Fin
             shortcode: lfinloc
             bodyPartCode: lfinpart
@@ -235,11 +173,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 8
-              edged: 7
-              piercing: 6
-              fire: 8
+            protectionBase: {blunt: 8, edged: 7, piercing: 6, fire: 8}
           - name: Right Fin
             shortcode: rfinloc
             bodyPartCode: rfinpart
@@ -247,11 +181,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 8
-              edged: 7
-              piercing: 6
-              fire: 8
+            protectionBase: {blunt: 8, edged: 7, piercing: 6, fire: 8}
           - name: Tail
             shortcode: tailloc
             bodyPartCode: tailpart
@@ -259,14 +189,8 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 8
-              edged: 7
-              piercing: 6
-              fire: 8
-      weight:
-        base: 20000
-        calc: "20000"
+            protectionBase: {blunt: 8, edged: 7, piercing: 6, fire: 8}
+      weight: {base: 20000, calc: "20000"}
       reachBase: 0
       bodyScaleBase: 1.47
       personalFatigue: "enc + 5"

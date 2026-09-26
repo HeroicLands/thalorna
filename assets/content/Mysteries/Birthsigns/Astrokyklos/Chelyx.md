@@ -1,15 +1,11 @@
 ---
-tags: []
-name:
-  full: Chelyx
-  aliases: []
-description: "The Tortoise: methodical at bench and drill-yard, sparing of speech, blind to the numinous."
 shortcode: chelyx
+name: {full: Chelyx, aliases: []}
 type: mystery
 subType: birthsign
-data:
-  icon: icon-astrology
-  templatePriority: 0
+description: "The Tortoise: methodical at bench and drill-yard, sparing of speech, blind to the numinous."
+tags: []
+data: {icon: icon-astrology, templatePriority: 0, packFolder: astrokyklos}
 sohl:
   kbcat: birthsign
   system:
@@ -37,7 +33,6 @@ sohl:
       "subType:social": -10
       water: -10
       hydalis: -10
-packFolder: astrokyklos
 ---
 
 Chelyx, the Tortoise, shields its children with method and craft. They excel in the disciplined arts of the pen, the workshop, and the drill-yard, yet the sign keeps them apart from easy speech and the numinous alike.

@@ -1,21 +1,16 @@
 ---
-tags:
-  - region
-description: "The land of the Kingdom of Malagna—the westernmost of the Nordmen kingdoms, fjord-cut coastline and forested highlands facing the open ocean."
-name:
-  full: Malagna
-  aliases: []
 shortcode: malagna
+name: {full: Malagna, aliases: []}
 type: place
 subType: region
+description: "The land of the Kingdom of Malagna—the westernmost of the Nordmen kingdoms, fjord-cut coastline and forested highlands facing the open ocean."
+tags: [region]
 data:
   demonym: Malagnan
-  lore:
-    - humanflk
-  parents:
-    - nrdlndsrgn
+  lore: [humanflk]
+  parents: [nrdlndsrgn]
   population: 340000
-packFolder: malagna
+  packFolder: malagna
 ---
 
 ## Overview

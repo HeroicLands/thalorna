@@ -1,11 +1,9 @@
 ---
-tags: []
-description: "The First Classifier of the Tëngvōk Vān Lëi, who set the categories the celestial bureaucracy sorts the world into."
+shortcode: tanlungdty
+name: {full: Tānlüng, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Tānlüng
-  aliases: []
-shortcode: tanlungdty
-packFolder: deitiestengvokvanlei
+description: "The First Classifier of the Tëngvōk Vān Lëi, who set the categories the celestial bureaucracy sorts the world into."
+tags: []
+data: {packFolder: deitiestengvokvanlei}
 ---

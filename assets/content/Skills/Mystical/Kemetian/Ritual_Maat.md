@@ -1,20 +1,10 @@
 ---
-tags:
-  - kemetian
-  - faith-skill
-  - draft
+shortcode: maat
+name: {full: "Ritual: Má'át", aliases: [Keeper of Truth and Harmony, Má'át, Maat]}
 type: skill
 subType: mystical
-shortcode: maat
-name:
-  full: "Ritual: Má'át"
-  aliases:
-    - Keeper of Truth and Harmony
-    - Má'át
-    - Maat
-data:
-  icon: maat
-  templatePriority: null
+tags: [kemetian, faith-skill, draft]
+data: {icon: maat, templatePriority: null, packFolder: kemetian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -23,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: kemetian
 ---
 
 See [[affiliation-maat|Faith of Má'át]]

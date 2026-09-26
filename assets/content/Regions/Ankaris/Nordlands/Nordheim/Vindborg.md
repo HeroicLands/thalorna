@@ -1,19 +1,9 @@
 ---
-tags:
-  - fortress
-  - hill
-description: "Hill Fort"
+shortcode: vindborg
+name: {full: Vindborg, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - nordheim
-  population: 200
-name:
-  full: Vindborg
-  aliases: []
-shortcode: vindborg
-packFolder: nordheim
+description: "Hill Fort"
+tags: [fortress, hill]
+data: {demonym: null, lore: [], parents: [nordheim], population: 200, packFolder: nordheim}
 ---

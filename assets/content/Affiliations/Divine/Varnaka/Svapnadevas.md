@@ -1,18 +1,10 @@
 ---
-tags:
-  - varnaka
-  - deity
-  - dreams
-  - spirits
-description: "The celestial court, a host of spirits who weave dreams, carry omens, and stand between mortal minds and the divine order."
-name:
-  full: Svapnadēvas
-  aliases:
-    - The Dreaming Host
-    - The Celestial Host of Dreams
 shortcode: svapnadevas
+name: {full: Svapnadēvas, aliases: [The Dreaming Host, The Celestial Host of Dreams]}
 type: affiliation
 subType: faithtradition
+description: "The celestial court, a host of spirits who weave dreams, carry omens, and stand between mortal minds and the divine order."
+tags: [varnaka, deity, dreams, spirits]
 data:
   banner: faithbnr
   templatePriority: null
@@ -49,16 +41,10 @@ data:
   population: null
   economy: []
   lore: []
-  parents:
-    - varakpnthn
-  relations:
-    varakpnthn: aligned
-packFolder: pantheonsvarnaka
-sohl:
-  system:
-    commonSkills:
-      - sohl-sohl-skill-folklr
-      - sohl-sohl-skill-sing
+  parents: [varakpnthn]
+  relations: {varakpnthn: aligned}
+  packFolder: pantheonsvarnaka
+sohl: {system: {commonSkills: [sohl-sohl-skill-folklr, sohl-sohl-skill-sing]}}
 ---
 
 ## Svapnadēvas—The Dreaming Host

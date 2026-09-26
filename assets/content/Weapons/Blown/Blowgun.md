@@ -1,14 +1,10 @@
 ---
-tags: []
-name:
-  full: Blowgun
-  aliases: []
-description: "Silent hollow tube for poison darts; hunter's covert strike."
 shortcode: bgun
+name: {full: Blowgun, aliases: []}
 type: weapongear
-data:
-  icon: icon-blowgun
-  templatePriority: null
+description: "Silent hollow tube for poison darts; hunter's covert strike."
+tags: []
+data: {icon: icon-blowgun, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: blown
   weaponType: Blown
@@ -23,14 +19,8 @@ sohl:
         name: Ranged
         assocSkillCode: blgn
         minParts: 1
-        attack:
-          spread: 0
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 4
-          modifier: 0
-          aspect: piercing
+        attack: {spread: 0, modifier: 0}
+        impactBase: {numDice: 1, die: 4, modifier: 0, aspect: piercing}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -62,7 +52,6 @@ sohl:
         maxVolleyMult: 3
         baseRangeBase: 40
         drawBase: 0
-packFolder: weapons
 ---
 
 A hollow tube of wood or bone through which sharp darts are blown via lung power. Used by hunters stalking game and by assassins working in silence where crossbow or bow would draw notice, the blowgun favors stealth and poison over force. Darts pierce lightly but travel far enough for silent work at close quarters.

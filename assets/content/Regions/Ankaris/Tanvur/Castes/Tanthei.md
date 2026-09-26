@@ -1,11 +1,9 @@
 ---
+shortcode: tanthei
+name: {full: Tānthëi, aliases: []}
 type: lore
 subType: culture
-name:
-  full: Tānthëi
-  aliases: []
-shortcode: tanthei
-packFolder: castes
+data: {packFolder: castes}
 ---
 
 **Celestial Scholars**

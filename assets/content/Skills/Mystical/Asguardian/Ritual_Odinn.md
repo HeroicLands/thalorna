@@ -1,18 +1,10 @@
 ---
-tags:
-  - asguardian
-  - faith-skill
-  - draft
+shortcode: odinn
+name: {full: "Ritual: Ódinn", aliases: [The Enlightened Path]}
 type: skill
 subType: mystical
-shortcode: odinn
-name:
-  full: "Ritual: Ódinn"
-  aliases:
-    - The Enlightened Path
-data:
-  icon: odinn
-  templatePriority: null
+tags: [asguardian, faith-skill, draft]
+data: {icon: odinn, templatePriority: null, packFolder: asguardian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -21,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: asguardian
 ---
 
 See [[affiliation-odinn|Faith of Ódinn]]

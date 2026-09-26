@@ -1,11 +1,6 @@
 ---
-name:
-  full: "Xik'ul Ch'akal"
 shortcode: xikulchakal
+name: {full: "Xik'ul Ch'akal"}
 type: folder
-data:
-  parent:
-    default: polities
-    journals: kichchik
-  color: "#4CAF50"
+data: {parent: {default: polities, journals: kichchik}, color: "#4CAF50"}
 ---

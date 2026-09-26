@@ -1,12 +1,10 @@
 ---
-tags: []
+shortcode: osketclt
+name: {full: Ösket, aliases: []}
 type: lore
 subType: culture
-name:
-  full: Ösket
-  aliases: []
-shortcode: osketclt
 description: "The Ösket—their beliefs, their mores, and what they hold a person owes."
+tags: []
 ---
 
 The Ösket hold the western and central crossings of [[place-graznmntns|the Grazian wall]] by descent, and the rest of what they are follows from that. A hearth is a house, a herd, a high pasture and one road. The road is what gives it standing. Nothing above the hearth binds it and no body exists that could, and the word the Ösket use for themselves means, as near as anyone has got, "the people of the way."

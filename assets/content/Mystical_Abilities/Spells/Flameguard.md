@@ -1,26 +1,20 @@
 ---
-tags: []
-name:
-  full: Flameguard
-  aliases: []
-description: "Surrounds self in protective flame; harms those who strike caster."
 shortcode: flmgrd
+name: {full: Flameguard, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-firebdg
-  templatePriority: null
+description: "Surrounds self in protective flame; harms those who strike caster."
+tags: []
+data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Envelope
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Envelope
 ---
 
 The caster creates a ring of fire that encircles and encloses a designated space, rising to waist height or higher depending on the caster's intent. Anything that attempts to cross the boundary—in either direction—meets a concentrated blast of flame that is far more intense than the visible fire suggests. The envelope burns with particular ferocity along its boundary, while the interior remains hot but habitable.

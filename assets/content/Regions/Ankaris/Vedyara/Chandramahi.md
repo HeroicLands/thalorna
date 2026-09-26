@@ -1,23 +1,11 @@
 ---
-tags:
-  - river
-  - trading
-  - inland
-description: "The westernmost of the four great rivers—from the ice under Sūryashikhara through the gem-road valleys to the delta and the city-state that lives off it."
+shortcode: chandrmahi
+name: {full: The Chandramahī, aliases: [Chandramahī]}
 type: place
 subType: feature
-data:
-  demonym: null
-  lore: []
-  parents:
-    - vedyarargn
-  population: null
-name:
-  full: The Chandramahī
-  aliases:
-    - Chandramahī
-shortcode: chandrmahi
-packFolder: vedyara
+description: "The westernmost of the four great rivers—from the ice under Sūryashikhara through the gem-road valleys to the delta and the city-state that lives off it."
+tags: [river, trading, inland]
+data: {demonym: null, lore: [], parents: [vedyarargn], population: null, packFolder: vedyara}
 ---
 
 The **Chandramahī** rises at [[place-chandrprbh|Chandraprabhava]], under [[place-suryashkhr|Sūryashikhara]], and runs some twelve hundred miles south and west to a delta on the southern sea. It is the shortest of the four great rivers and the richest. The country it crosses is the gem country, and the city at its mouth has spent four centuries making sure nothing else is.

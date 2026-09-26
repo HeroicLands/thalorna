@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The tuna as a totemic ideal, and the human character it describes."
+shortcode: tunattm
+name: {full: Tuna, aliases: [Tuna Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Tuna
-  aliases:
-    - Tuna Totem
-shortcode: tunattm
-packFolder: loretotems
-data:
-  banner: creaturebnr
+description: "The tuna as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-tunatotem|Tuna]]{float: top-left, size: medium}

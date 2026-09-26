@@ -1,22 +1,11 @@
 ---
-tags:
-  - town
-  - port
-  - coastal
-description: "The second of Provènzia's great southern ports and one of the two homes of the Còtière speech—a working harbor where Lunacòrte is a court, and the place the kingdom's bulk trade actually passes through."
+shortcode: belporte
+name: {full: Belpòrte, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - meridiana
-  population: 18000
-name:
-  full: Belpòrte
-  aliases: []
-shortcode: belporte
-packFolder: provenzia
+description: "The second of Provènzia's great southern ports and one of the two homes of the Còtière speech—a working harbor where Lunacòrte is a court, and the place the kingdom's bulk trade actually passes through."
+tags: [town, port, coastal]
+data: {demonym: null, lore: [], parents: [meridiana], population: 18000, packFolder: provenzia}
 ---
 
 **Belpòrte** stands on the warm southern shore and is, with [[place-lunacorte|Lunacòrte]], one of the

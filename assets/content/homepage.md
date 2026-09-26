@@ -1,4 +1,6 @@
 ---
+shortcode: root
+name: {full: The World of Thalorna}
 # The package landing at /thalorna/ — the front door to everything this
 # repository publishes.
 #
@@ -14,11 +16,7 @@
 # that exists to send readers somewhere. It belongs here the day there is
 # something to install.
 type: homepage
-shortcode: root
-title: The World of Thalorna
 description: >-
-  A world of feuding realms, old faiths, and older powers—its peoples,
-  places, creatures, and the lore that binds them.
-data:
-  banner: tapestryofdreamsbnr
+  A world of feuding realms, old faiths, and older powers—its peoples, places, creatures, and the lore that binds them.
+data: {banner: tapestryofdreamsbnr}
 ---

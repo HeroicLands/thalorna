@@ -1,20 +1,10 @@
 ---
-tags:
-  - lore
-  - arcane
-  - khemenu-hekau
-  - kemetian
-  - takheperu
+shortcode: khemenuhekau
+name: {full: Khemenu Hekau, aliases: [The Eight, The Eight Powers, The Kemetían Arcane Tradition]}
 type: lore
 subType: arcana
-shortcode: khemenuhekau
-name:
-  full: Khemenu Hekau
-  aliases:
-    - The Eight
-    - The Eight Powers
-    - The Kemetían Arcane Tradition
-packFolder: khemenuhekau
+tags: [lore, arcane, khemenu-hekau, kemetian, takheperu]
+data: {packFolder: khemenuhekau}
 ---
 
 ![[icon-khemenuhekau|Khemenu Hekau]]{float: top-left, size: medium}

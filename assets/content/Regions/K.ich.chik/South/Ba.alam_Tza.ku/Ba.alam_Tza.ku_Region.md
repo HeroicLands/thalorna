@@ -1,22 +1,18 @@
 ---
-tags:
-  - region
-description: "Snow-crowned mountains, terraced highlands and jungle river valleys—the land of Ba'alam Tza'ku, in Southern K'ich'chik."
-name:
-  full: Ba'alam Tza'ku Region
-  aliases: []
 shortcode: balamtzakurgn
+name: {full: Ba'alam Tza'ku Region, aliases: []}
 type: place
 subType: region
+description: "Snow-crowned mountains, terraced highlands and jungle river valleys—the land of Ba'alam Tza'ku, in Southern K'ich'chik."
+tags: [region]
 data:
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - sthrnkchchk
+  lore: [humanflk]
+  parents: [sthrnkchchk]
   population: null
-terran_analog: Equador, Peru, western Brazil
-packFolder: baalamtzaku
+  packFolder: baalamtzaku
+
+# terran_analog: Equador, Peru, western Brazil
 ---
 
 ## Overview

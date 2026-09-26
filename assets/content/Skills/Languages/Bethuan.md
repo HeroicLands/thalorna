@@ -1,16 +1,11 @@
 ---
-tags: []
-name:
-  full: Bethuan Language
-  aliases:
-    - Bethuan
-description: "The Bethuan mother tongue, whose grammar itself carries distinct feminine and masculine registers."
 shortcode: bethunlng
+name: {full: Bethuan Language, aliases: [Bethuan]}
 type: skill
 subType: language
-data:
-  icon: icon-speaking
-  templatePriority: null
+description: "The Bethuan mother tongue, whose grammar itself carries distinct feminine and masculine registers."
+tags: []
+data: {icon: icon-speaking, templatePriority: null, packFolder: language}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -19,10 +14,7 @@ sohl:
     combatCategory: none
     parentSkillCode: lang
     initSkillMult: 0
-packFolder: language
-flags:
-  "thalorna":
-    lang_family: Helonic
+  flags: {"thalorna": {lang_family: Helonic}}
 ---
 
 Bethuan is a tongue of the Helonic family. Fluency measures the sophistication of expression in Bethuan, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.

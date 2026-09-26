@@ -1,19 +1,9 @@
 ---
-tags:
-  - city
-  - holy
-description: "Holy City"
+shortcode: nartum
+name: {full: Nartûm, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - nartumkngdm
-  population: 60000
-name:
-  full: Nartûm
-  aliases: []
-shortcode: nartum
-packFolder: vylaria
+description: "Holy City"
+tags: [city, holy]
+data: {demonym: null, lore: [], parents: [nartumkngdm], population: 60000, packFolder: vylaria}
 ---

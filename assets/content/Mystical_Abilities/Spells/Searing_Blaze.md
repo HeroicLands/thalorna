@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Searing Blaze
-  aliases:
-    - Burn
-description: "Conjures intense flames; caster's touch ignites and burns."
 shortcode: srgblz
+name: {full: Searing Blaze, aliases: [Burn]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-firebdg
-  templatePriority: null
+description: "Conjures intense flames; caster's touch ignites and burns."
+tags: []
+data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Burn
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Burn
 ---
 
 The caster directs a stream of magical fire at a target, and where it strikes, the flame adheres—clinging to flesh, clothing, and armor with tenacious, burning malice. The fire cannot be brushed off, smothered, or rolled out; it feeds on the magical energy sustaining it rather than on any physical fuel, and it will continue to burn until that energy is exhausted. The target must endure the sustained agony or seek magical aid to extinguish the flames.

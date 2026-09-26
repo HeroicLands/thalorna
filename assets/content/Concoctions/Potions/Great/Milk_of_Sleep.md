@@ -1,19 +1,11 @@
 ---
-tags:
-  - great-elixir
-name:
-  full: Milk of Sleep
-  aliases:
-    - Potion, Narcotic, Great
-description: "Black opaque draft; induces deep unconsciousness and complete rest."
 shortcode: ptnnarg
+name: {full: Milk of Sleep, aliases: ["Potion, Narcotic, Great"]}
 type: concoctiongear
 subType: exotic
-hmk:
-  name: "Potion, Narcotic, Great"
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "Black opaque draft; induces deep unconsciousness and complete rest."
+tags: [great-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: great}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "great"
     strength: 0
-packFolder: great
+
+# hmk:
+#   name: "Potion, Narcotic, Great"
 ---
 
 This is liquid darkness itself—a black potion so opaque that light dies against its surface. The scent is overpowering, almost choking: a suffocating sweetness layered with burned sugar and something mineral, almost like smelling a cold stone tomb. Even unwrapping the cork releases fumes that make the eyes water. The herbalist who prepares this works with their face wrapped against the vapors. A single drop tastes like the distilled essence of oblivion.

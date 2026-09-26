@@ -1,20 +1,10 @@
 ---
-tags:
-  - lore
-  - religion
-  - theology
-  - gm-only
-  - secret
-  - metaphysics
-type: lore
-name:
-  full: The Truth of Religion
-  aliases:
-    - Gods (GM)
-    - Religion (GM)
-subType: theology
-packFolder: settinglore
 shortcode: godsrelign
+name: {full: The Truth of Religion, aliases: [Gods (GM), Religion (GM)]}
+type: lore
+subType: theology
+tags: [lore, religion, theology, gm-only, secret, metaphysics]
+data: {packFolder: settinglore}
 ---
 
 ## Religion and Gods Are Not the Same Thing

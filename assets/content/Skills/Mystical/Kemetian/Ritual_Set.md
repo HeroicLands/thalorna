@@ -1,18 +1,10 @@
 ---
-tags:
-  - kemetian
-  - faith-skill
-  - draft
+shortcode: set
+name: {full: "Ritual: Sét", aliases: ["Sét, Bringer of Tempests"]}
 type: skill
 subType: mystical
-shortcode: set
-name:
-  full: "Ritual: Sét"
-  aliases:
-    - Sét, Bringer of Tempests
-data:
-  icon: set
-  templatePriority: null
+tags: [kemetian, faith-skill, draft]
+data: {icon: set, templatePriority: null, packFolder: kemetian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -21,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: kemetian
 ---
 
 See [[affiliation-set|Faith of Sét]]

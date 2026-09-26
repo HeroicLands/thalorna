@@ -1,13 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: mentudty
+name: {full: Mentu, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Mentu
-  aliases: []
-shortcode: mentudty
-packFolder: deitieskemetian
+tags: [draft]
+data: {packFolder: deitieskemetian}
 ---
 
 _The War-God._

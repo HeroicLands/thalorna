@@ -1,21 +1,11 @@
 ---
-tags:
-  - village
-  - inland
-description: "The old royal manor of Aldorath—a village around a hunting seat the kings still use, where they are still crowned and still buried."
+shortcode: kingsholow
+name: {full: Kingshollow, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - wyndmarch
-  population: 1400
-name:
-  full: Kingshollow
-  aliases: []
-shortcode: kingsholow
-packFolder: aelwyth
+description: "The old royal manor of Aldorath—a village around a hunting seat the kings still use, where they are still crowned and still buried."
+tags: [village, inland]
+data: {demonym: null, lore: [], parents: [wyndmarch], population: 1400, packFolder: aelwyth}
 ---
 
 **Kingshollow** is a village of perhaps fourteen hundred in a sheltered fold of Aldorath's eastern

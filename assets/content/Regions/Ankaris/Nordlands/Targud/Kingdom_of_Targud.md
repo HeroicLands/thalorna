@@ -1,12 +1,9 @@
 ---
-description: "Sparsely-peopled northern Nordmen kingdom of deep forests and tundra borderlands—hunters, trappers, and fur-traders whose loyalty to the Asguardian gods is as cold and unbending as the country itself."
-type: affiliation
-name:
-  full: Kingdom of Targud
-  aliases:
-    - Targud
 shortcode: kingdmtrgd
+name: {full: Kingdom of Targud, aliases: [Targud]}
+type: affiliation
 subType: polity
+description: "Sparsely-peopled northern Nordmen kingdom of deep forests and tundra borderlands—hunters, trappers, and fur-traders whose loyalty to the Asguardian gods is as cold and unbending as the country itself."
 data:
   templatePriority: null
   demonym: Targudian
@@ -20,94 +17,69 @@ data:
         title: Níding
         lore: outlawrnk
         description: >-
-          Outlawed at the ting and set beyond the law's protection, so that any man may kill
-          them and owe no wergild for it.
+          Outlawed at the ting and set beyond the law's protection, so that any man may kill them and owe no wergild for it.
       - level: 1
         title: Thrall
         lore: slavernk
         description: >-
-          Owned outright, owing labor rather than rent, bearing no weapon by right and having
-          no voice at the assembly.
+          Owned outright, owing labor rather than rent, bearing no weapon by right and having no voice at the assembly.
       - level: 2
         title: Freedman
         lore: freedmanrnk
         description: >-
-          Manumitted but still bound in obligation to a former master, and not yet reckoned
-          a full man of the ting.
+          Manumitted but still bound in obligation to a former master, and not yet reckoned a full man of the ting.
       - level: 3
         title: Bóndi
         lore: yeomanrnk
         description: >-
-          A free farmer holding his own land, bearing arms, and speaking at the ting in his
-          own name.
+          A free farmer holding his own land, bearing arms, and speaking at the ting in his own name.
       - level: 4
         title: Hauldr
         lore: yeomanrnk
         description: >-
-          A bóndi whose kin have held their odal land for generations, ranking first among the
-          free farmers and weightiest in the assembly.
+          A bóndi whose kin have held their odal land for generations, ranking first among the free farmers and weightiest in the assembly.
       - level: 5
         title: Hersir
         lore: landedlordrnk
         description: >-
-          A local chieftain who leads the men of a district in war and speaks for them in peace,
-          holding by their consent rather than by grant.
+          A local chieftain who leads the men of a district in war and speaks for them in peace, holding by their consent rather than by grant.
       - level: 6
         title: Jarl
         lore: greatlordrnk
         description: >-
-          Holding a province of the king, commanding its hersar, and taking a share of its dues
-          in return for keeping its peace.
+          Holding a province of the king, commanding its hersar, and taking a share of its dues in return for keeping its peace.
       - level: 7
         title: Royal Kin
         lore: heirrnk
         description: >-
-          Of the royal line by blood or marriage, eligible to be acclaimed king but holding
-          no crown.
+          Of the royal line by blood or marriage, eligible to be acclaimed king but holding no crown.
       - level: 8
         title: King
         lore: sovereignrnk
         description: >-
-          Chosen from the royal kin and acclaimed at the ting, holding the realm by the assembly's
-          consent as much as by descent.
+          Chosen from the royal kin and acclaimed at the ting, holding the realm by the assembly's consent as much as by descent.
     offices:
       King: Acclaimed sovereign, holding the realm by the ting's consent as much as by descent.
-      Queen: The king's wife, keeper of the hall's keys and mistress of its household and
-        stores.
-      Jarl: Holder of a province of the king, commanding its levies and answering for its
-        dues.
-      Hersir: Chieftain of a district, leading its men to the muster and speaking for them
-        at the ting.
-      Lawspeaker: Keeper of the law in memory, who recites it at the assembly and declares
-        what it is.
+      Queen: The king's wife, keeper of the hall's keys and mistress of its household and stores.
+      Jarl: Holder of a province of the king, commanding its levies and answering for its dues.
+      Hersir: Chieftain of a district, leading its men to the muster and speaking for them at the ting.
+      Lawspeaker: Keeper of the law in memory, who recites it at the assembly and declares what it is.
       Godi: >-
-        Priest-chieftain of a temple and its district, holding sacred and secular authority
-        together.
+        Priest-chieftain of a temple and its district, holding sacred and secular authority together.
       Stallari: The king's marshal, commander of his household men and master of the muster.
-      Ármadr: Steward of a royal estate, answerable for its yield and for the king's rights
-        within it.
+      Ármadr: Steward of a royal estate, answerable for its yield and for the king's rights within it.
       Féhirdir: Keeper of the king's treasure, his tribute and the silver of his hall.
-      Merkismadr: Bearer of the king's standard in battle, a post of the highest honor and
-        shortest life.
-      Skald: Court poet, whose verse is the realm's memory and whose praise or scorn makes
-        reputations.
-      Hirdman: Sworn man of the king's household troop, fed at his table and bound to his
-        person.
+      Merkismadr: Bearer of the king's standard in battle, a post of the highest honor and shortest life.
+      Skald: Court poet, whose verse is the realm's memory and whose praise or scorn makes reputations.
+      Hirdman: Sworn man of the king's household troop, fed at his table and bound to his person.
       Sýslumadr: The king's officer in a district, collecting his dues and holding his courts.
-      Styrimadr: Master of a ship, commanding her crew at sea and answering for her in the
-        levy.
-      Harbour-reeve: Keeper of a haven, collecting its tolls and adjudicating disputes on
-        its wharves.
+      Styrimadr: Master of a ship, commanding her crew at sea and answering for her in the levy.
+      Harbour-reeve: Keeper of a haven, collecting its tolls and adjudicating disputes on its wharves.
   seat: valgard
-  domains:
-    - targud
+  domains: [targud]
   population: 300000
-  economy:
-    - lore-vylrncrncy
-    - lore-bartercnmy
-    - lore-kinhalcrdt
-  lore:
-    - humanflk
+  economy: [lore-vylrncrncy, lore-bartercnmy, lore-kinhalcrdt]
+  lore: [humanflk]
   parents: []
   relations:
     asguardian: aligned
@@ -115,11 +87,8 @@ data:
     kingdomlgn: unaligned
     kingdmnrgd: unaligned
     kngdmvthgrd: unaligned
-packFolder: targud
-sohl:
-  system:
-    commonSkills:
-      - nordmalng
+  packFolder: targud
+sohl: {system: {commonSkills: [nordmalng]}}
 ---
 
 ## Overview

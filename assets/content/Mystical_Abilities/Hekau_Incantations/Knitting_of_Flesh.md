@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: Knitting of Flesh
-  aliases: []
-description: "Closes and mends serious injury, in proportion to the practitioner's own strength."
 shortcode: knttngflsh
+name: {full: Knitting of Flesh, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: ankhkemet
-  templatePriority: null
+description: "Closes and mends serious injury, in proportion to the practitioner's own strength."
+tags: [khemenu-hekau, incantation]
+data: {icon: ankhkemet, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: ankhkemet
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
-packFolder: hekauincantations
+    charges: {value: null, max: null}
 ---
 
 The great healing form, and one of the few workings in the tradition with a cost carried by the

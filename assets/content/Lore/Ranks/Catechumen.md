@@ -1,13 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: catechumenrnk
+name: {full: Catechumen, aliases: []}
 type: lore
 subType: law
-name:
-  full: Catechumen
-  aliases: []
-shortcode: catechumenrnk
 description: "Under instruction and not yet received: permitted to hear and not to partake."
+tags: [draft]
 ---
 
 Under instruction and not yet received: permitted to hear and not to partake.

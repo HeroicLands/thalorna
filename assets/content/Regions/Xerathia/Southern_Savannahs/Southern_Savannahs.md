@@ -1,24 +1,18 @@
 ---
-tags:
-  - region
-description: The vast subtropical grasslands of southern Xerathia—open herd-country, scattered hunter-pastoralist peoples, and ruined stonework whose builders no one remembers. Known to the north only through the rainforest peoples who trade with its inhabitants.
-name:
-  full: Southern Savannahs
-  aliases:
-    - Southern Savannah
-    - The Deep South
 shortcode: sthrnsvnhs
+name: {full: Southern Savannahs, aliases: [Southern Savannah, The Deep South]}
 type: place
 subType: region
+description: The vast subtropical grasslands of southern Xerathia—open herd-country, scattered hunter-pastoralist peoples, and ruined stonework whose builders no one remembers. Known to the north only through the rainforest peoples who trade with its inhabitants.
+tags: [region]
 data:
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - xerathia
+  lore: [humanflk]
+  parents: [xerathia]
   population: 2000000
-terran_analog: Southern Africa—Namibia + Botswana + Zimbabwe + South Africa
-packFolder: southernsavannahs
+  packFolder: southernsavannahs
+
+# terran_analog: Southern Africa—Namibia + Botswana + Zimbabwe + South Africa
 ---
 
 The Southern Savannahs are the vast subtropical grasslands of southern [[place-xerathia|Xerathia]]—open herd-country that stretches from the southern edge of the [[place-cntrlrnfrsts|Central Rainforests]] to the continent's southern coasts. Where the northern crescent teems with irrigated cities and the central rainforests choke with jungle, the deep south is spare: wide skies, long horizons, great herds moving with the seasons, and scattered peoples who follow them.

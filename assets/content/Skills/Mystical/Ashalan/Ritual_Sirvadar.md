@@ -1,17 +1,10 @@
 ---
-tags:
-  - ashalan
-  - faith-skill
-  - draft
+shortcode: sirvadar
+name: {full: "Ritual: Šírvádár", aliases: [The Wandering Guide]}
 type: skill
 subType: mystical
-shortcode: sirvadar
-name:
-  full: "Ritual: Šírvádár"
-  aliases:
-    - The Wandering Guide
-data:
-  templatePriority: null
+tags: [ashalan, faith-skill, draft]
+data: {templatePriority: null, packFolder: ashalan}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -20,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: ashalan
 ---
 
 See [[affiliation-sirvadar|Faith of Šírvádár]]

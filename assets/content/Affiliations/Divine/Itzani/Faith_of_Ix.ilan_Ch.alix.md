@@ -1,17 +1,10 @@
 ---
-description: "Knowledge, writing and the calendar—the goddess who composed the first codex in the language of the stars, and whose priesthood alone advances on merit."
-tags:
-  - itzani
-  - religion
+shortcode: ixilanchalix
+name: {full: "Faith of Ix'ilan Ch'alix", aliases: [The Sacred Star, "Ix'ilan Ch'alix"]}
 type: affiliation
 subType: faithtradition
-name:
-  full: "Faith of Ix'ilan Ch'alix"
-  aliases:
-    - The Sacred Star
-    - "Ix'ilan Ch'alix"
-shortcode: ixilanchalix
-packFolder: pantheonitzani
+description: "Knowledge, writing and the calendar—the goddess who composed the first codex in the language of the stars, and whose priesthood alone advances on merit."
+tags: [itzani, religion]
 data:
   banner: faithbnr
   icon: null
@@ -22,109 +15,79 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A single priestly caste serving all ten gods, ranked by degree of initiation and by the
-      blood-debt a person carries rather than by which god they serve; the lay faithful are
-      bound by the calendar that same caste keeps.
+      A single priestly caste serving all ten gods, ranked by degree of initiation and by the blood-debt a person carries rather than by which god they serve; the lay faithful are bound by the calendar that same caste keeps.
     ranks:
       - level: 0
         title: Blood-Denied
         lore: excmmnctrnk
         description: >-
-          Barred from offering blood, from the priest-read calendar and from the funerary rites—a
-          soul left to face Xibalba's trials unguided, which the Ki'ichek reckon the one sentence
-          that outlives the body.
+          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Xibalba's trials unguided, which the Ki'ichek reckon the one sentence that outlives the body.
       - level: 1
         title: Water-Marked
         lore: catechumenrnk
         description: >-
-          Consecrated at birth with water on the lips and counted among the faithful, but not
-          yet of an age to give blood or keep the fasts.
+          Consecrated at birth with water on the lips and counted among the faithful, but not yet of an age to give blood or keep the fasts.
       - level: 2
         title: Blood-Giver
         lore: layfaithfulrnk
         description: >-
-          The lay faithful, who pierce tongue or earlobe on the days the calendar appoints and
-          keep its prohibitions without holding office in the temple.
+          The lay faithful, who pierce tongue or earlobe on the days the calendar appoints and keep its prohibitions without holding office in the temple.
       - level: 3
         title: Debt-Bearer
         lore: layfaithfulrnk
         description: >-
-          Bound by a debt pledged beyond what the calendar requires—a captive dedicated in
-          advance, a pilgrimage undertaken, a season of autosacrifice vowed.
+          Bound by a debt pledged beyond what the calendar requires—a captive dedicated in advance, a pilgrimage undertaken, a season of autosacrifice vowed.
       - level: 4
         title: Tq'an'ik
         lore: initiaternk
         description: >-
-          "Edge-Walker"—an initiate serving in the temples while learning the calendar, the
-          sacred texts and the autosacrificial disciplines the priesthood demands of every
-          member.
+          "Edge-Walker"—an initiate serving in the temples while learning the calendar, the sacred texts and the autosacrificial disciplines the priesthood demands of every member.
       - level: 5
         title: Ch'ul'bal
         lore: priestrnk
         description: >-
-          "Sacred Servant"—an ordained priest, trained from childhood in mathematics,
-          astronomy, writing and the reading of celestial signs, who keeps the daily rites and
-          the codices.
+          "Sacred Servant"—an ordained priest, trained from childhood in mathematics, astronomy, writing and the reading of celestial signs, who keeps the daily rites and the codices.
       - level: 6
         title: K'ul
         lore: highpriestrnk
         description: >-
-          "Keeper"—head of one specialist branch within a temple complex, answerable to its
-          K'ul Tq'an and contending with the other branches for resources, precedence and
-          favor.
+          "Keeper"—head of one specialist branch within a temple complex, answerable to its K'ul Tq'an and contending with the other branches for resources, precedence and favor.
       - level: 7
         title: K'ul Tq'an
         lore: highpriestrnk
         description: >-
-          "Sacred Boundary"—high priest of a temple complex, who alone performs the great
-          sacrificial rites at the turning of the cosmic cycles and holds the calculations that
-          predict when an age will end.
+          "Sacred Boundary"—high priest of a temple complex, who alone performs the great sacrificial rites at the turning of the cosmic cycles and holds the calculations that predict when an age will end.
       - level: 8
         title: Presiding K'ul Tq'an
         lore: grandmasterrnk
         description: >-
-          The K'ul Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes
-          the calendar for the whole city, presides at the New Fire Ceremony, and rules whether
-          the gods approve a K'inmah's succession.
+          The K'ul Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes the calendar for the whole city, presides at the New Fire Ceremony, and rules whether the gods approve a K'inmah's succession.
     offices:
       Ix'tq'an: >-
-        Star-Voice—senior priest of the observatory, who must hold genuine mastery of
-        mathematics and astronomy and is examined on it, not appointed to it.
+        Star-Voice—senior priest of the observatory, who must hold genuine mastery of mathematics and astronomy and is examined on it, not appointed to it.
       Keeper of the Star-Houses: >-
-        Holds the ix'ilan ch'umbal where the most sacred codices are kept, and the list of
-        those authorized to consult them.
+        Holds the ix'ilan ch'umbal where the most sacred codices are kept, and the list of those authorized to consult them.
       Warden of the Moon-Houses: >-
-        Keeps the ch'umbal tz'uqal and their record of the lunar cycle, on which all ritual
-        timing depends.
+        Keeps the ch'umbal tz'uqal and their record of the lunar cycle, on which all ritual timing depends.
       Master of the Monoliths: >-
-        Maintains the aligned sighting stones that fix the solstice positions, and checks them
-        against the record each year.
+        Maintains the aligned sighting stones that fix the solstice positions, and checks them against the record each year.
       Reckoner of Conjunctions: >-
-        Computes the planetary meetings of the Tq'an Cycle and issues the auspicious and
-        forbidden days to every other branch.
+        Computes the planetary meetings of the Tq'an Cycle and issues the auspicious and forbidden days to every other branch.
       Scribe-Master: >-
-        Trains the hands that render the glyphs, and rules on which copies of a damaged codex
-        are to be trusted.
+        Trains the hands that render the glyphs, and rules on which copies of a damaged codex are to be trusted.
       Master of Inks: >-
-        Oversees the making of bark-paper and the mixing of pigments, each stage conducted as
-        ritual action rather than craft.
+        Oversees the making of bark-paper and the mixing of pigments, each stage conducted as ritual action rather than craft.
       Keeper of the First Codex: >-
-        Holds the doctrine that all human calendars are imperfect copies of the goddess's
-        original, and the record of every correction made toward it.
+        Holds the doctrine that all human calendars are imperfect copies of the goddess's original, and the record of every correction made toward it.
   seat: null
   domains: []
   population: null
   economy: []
-  lore:
-    - ixilanchalixdty
-  parents:
-    - itzanpnthn
-  relations:
-    itzanpnthn: aligned
-sohl:
-  system:
-    commonSkills:
-      - ixilanchalix
+  lore: [ixilanchalixdty]
+  parents: [itzanpnthn]
+  relations: {itzanpnthn: aligned}
+  packFolder: pantheonitzani
+sohl: {system: {commonSkills: [ixilanchalix]}}
 ---
 
 **Domain:** Knowledge, Wisdom, Writing, The Calendar, Astronomy

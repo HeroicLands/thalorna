@@ -1,22 +1,11 @@
 ---
-tags:
-  - river
-  - sacred
-  - inland
-description: "The one stream off the gold mountain that yields no gold, where panning is forbidden and the Rásikara shrine stands at the head."
+shortcode: rasikarastrm
+name: {full: The Rásikara Stream, aliases: []}
 type: place
 subType: feature
-data:
-  demonym: null
-  lore: []
-  parents:
-    - suvarnagirijnpd
-  population: null
-name:
-  full: The Rásikara Stream
-  aliases: []
-shortcode: rasikarastrm
-packFolder: vedyara
+description: "The one stream off the gold mountain that yields no gold, where panning is forbidden and the Rásikara shrine stands at the head."
+tags: [river, sacred, inland]
+data: {demonym: null, lore: [], parents: [suvarnagirijnpd], population: null, packFolder: vedyara}
 ---
 
 The **Rásikara stream** rises on the back slope of [[place-goldmountain|the Gold Mountain]] and yields no gold. Panning is forbidden in it by Suvarnagiri tradition, which is a prohibition on a thing nobody has a reason to do, and that is the point of it.

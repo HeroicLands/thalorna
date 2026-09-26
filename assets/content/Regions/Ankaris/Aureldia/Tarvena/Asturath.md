@@ -1,21 +1,16 @@
 ---
-tags:
-  - region
-description: "The land of the Kingdom of Astúrath—the mountainous heartland of Tarvénia, whose narrow passes and hidden valleys have never been held by an invader."
-name:
-  full: Astúrath
-  aliases: []
 shortcode: asturath
+name: {full: Astúrath, aliases: []}
 type: place
 subType: region
+description: "The land of the Kingdom of Astúrath—the mountainous heartland of Tarvénia, whose narrow passes and hidden valleys have never been held by an invader."
+tags: [region]
 data:
   demonym: Astúrath
-  lore:
-    - humanflk
-  parents:
-    - tarvenirgn
+  lore: [humanflk]
+  parents: [tarvenirgn]
   population: 1000000
-packFolder: tarvenia
+  packFolder: tarvenia
 ---
 
 ## Overview

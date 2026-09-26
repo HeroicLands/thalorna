@@ -1,19 +1,11 @@
 ---
-tags:
-  - mild-elixir
-name:
-  full: Orchard Breath
-  aliases:
-    - Potion, Aromatic, Mild
-description: "Pale golden honey-like liquid; sweetens disposition and charm."
 shortcode: ptnaromm
+name: {full: Orchard Breath, aliases: ["Potion, Aromatic, Mild"]}
 type: concoctiongear
 subType: exotic
-hmk:
-  name: "Potion, Aromatic, Mild"
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "Pale golden honey-like liquid; sweetens disposition and charm."
+tags: [mild-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: mild}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "mild"
     strength: 0
-packFolder: mild
+
+# hmk:
+#   name: "Potion, Aromatic, Mild"
 ---
 
 This pale golden liquid catches the eye like honey strained through silk, its surface reflecting candlelight with a subtle opalescence. The fragrance is immediately apparent even when the stopper is firmly in place, a pleasant floral note with hints of citrus and the green freshness of herbs picked in early morning. When applied to the skin as a perfume, the scent blooms outward in waves, attractive and present without being overwhelming—the kind of fragrance that makes those nearby lean in slightly, drawn by something pleasant they cannot quite name.

@@ -1,18 +1,10 @@
 ---
-tags:
-  - celestial-pantheon
-  - faith-skill
-  - draft
+shortcode: vorjikjek
+name: {full: "Ritual: Vōrjīk Jëk", aliases: [Vōrjīk Jëk, Vorjik Jek]}
 type: skill
 subType: mystical
-shortcode: vorjikjek
-name:
-  full: "Ritual: Vōrjīk Jëk"
-  aliases:
-    - Vōrjīk Jëk
-    - Vorjik Jek
-data:
-  templatePriority: null
+tags: [celestial-pantheon, faith-skill, draft]
+data: {templatePriority: null, packFolder: tengvokvanlei}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -21,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: tengvokvanlei
 ---
 
 See [[affiliation-vorjikjek|Vōrjīk Jëk]]

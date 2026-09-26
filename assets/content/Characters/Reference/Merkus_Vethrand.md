@@ -1,7 +1,5 @@
 ---
-tags:
-  - character
-  - reference
+shortcode: merkusvethrand
 name:
   full: Merkus Vethrand
   title: Lord
@@ -9,15 +7,14 @@ name:
   clan: Vethrand
   home: valdun
   aliases: []
-description: "Despite the complications between them, Merkus remains technically Párthun's patron and the relationship continues, though now on more equal terms."
-shortcode: merkusvethrand
 type: being
+description: "Despite the complications between them, Merkus remains technically Párthun's patron and the relationship continues, though now on more equal terms."
+tags: [character, reference]
 data:
   species: humanflk
   templatePriority: null
   archetypes: []
   stations: []
   lore: []
-  homes:
-    - valdun
+  homes: [valdun]
 ---

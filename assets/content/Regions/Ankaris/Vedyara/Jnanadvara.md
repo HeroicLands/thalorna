@@ -1,26 +1,17 @@
 ---
-tags:
-  - pass
-  - caravan
-  - inland
-description: "The scholars' door—the long crossing of the Eastern Reach to Tānvür's western frontier, where a Tānvüri way-station keeps a register four centuries deep."
+shortcode: jnanadvara
+name: {full: Jñānadvāra, aliases: [The Scholars' Door]}
 type: place
 subType: feature
+description: "The scholars' door—the long crossing of the Eastern Reach to Tānvür's western frontier, where a Tānvüri way-station keeps a register four centuries deep."
+tags: [pass, caravan, inland]
 data:
   demonym: null
   lore: []
-  parents:
-    - graznmntns
-    - estrnreach
+  parents: [graznmntns, estrnreach]
   population: null
-  routes:
-    - { to: tanvuregin, bearing: NE, mode: land, days: 45, terrain: [mountains, ice, forest] }
-name:
-  full: Jñānadvāra
-  aliases:
-    - The Scholars' Door
-shortcode: jnanadvara
-packFolder: vedyara
+  routes: [{to: tanvuregin, bearing: NE, mode: land, days: 45, terrain: [mountains, ice, forest]}]
+  packFolder: vedyara
 ---
 
 **Jñānadvāra**, the scholars' door, crosses [[place-estrnreach|the Eastern Reach]] north-east to the western frontier of [[place-tanvuregin|Tānvür]]. It is a month and a half of travel and the least dangerous of the eastern crossings, which is a comparison and no recommendation.

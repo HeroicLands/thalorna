@@ -1,21 +1,11 @@
 ---
-tags:
-  - town
-  - market
-description: "Market Town"
+shortcode: granaria
+name: {full: Granaria, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - hylen
-  population: 7000
-name:
-  full: Granaria
-  aliases: []
-shortcode: granaria
-packFolder: vylaria
+description: "Market Town"
+tags: [town, market]
+data: {demonym: null, lore: [], parents: [hylen], population: 7000, packFolder: vylaria}
 ---
 
 ## Overview

@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Iceforge
-  aliases:
-    - Crystals
-description: "Shapes ambient moisture into solid, durable ice structures and tools."
 shortcode: iceforge
+name: {full: Iceforge, aliases: [Crystals]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
+description: "Shapes ambient moisture into solid, durable ice structures and tools."
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Crystals
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Crystals
 ---
 
 The caster shapes ice from ambient moisture into solid, crystalline forms of surprising strength and permanence. Water vapor freezes and accumulates rapidly under the caster's direction, building up into walls, barriers, steps, platforms, or crude tools. The resulting ice is denser and harder than natural ice, with a blue-white clarity that makes it ring like metal when struck.

@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Arcane Shield
-  aliases:
-    - Aegis
-description: "Translucent disc of force deflects blows and scatters hostile magic."
 shortcode: arcshld
+name: {full: Arcane Shield, aliases: [Aegis]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
+description: "Translucent disc of force deflects blows and scatters hostile magic."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Aegis
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Aegis
 ---
 
 A ripple of pale force shimmers into existence before the caster, coalescing into a translucent disc that hovers at arm's length. The shield responds to incoming threats with startling speed, angling itself to deflect blows, absorb the kinetic force of projectiles, and scatter hostile magical energies. Its surface flickers with faint geometric patterns—the visible signature of compressed arcane force held under tension.

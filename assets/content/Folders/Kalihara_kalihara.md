@@ -1,11 +1,6 @@
 ---
-name:
-  full: "Kalihara"
 shortcode: kalihara
+name: {full: "Kalihara"}
 type: folder
-data:
-  parent:
-    default: polities
-    journals: regions
-  color: "#3CB371"
+data: {parent: {default: polities, journals: regions}, color: "#3CB371"}
 ---

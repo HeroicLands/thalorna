@@ -1,22 +1,11 @@
 ---
-tags:
-  - region
-  - border
-  - mountain
-description: "Provènzia's northern quarter—the Élavendren borderland, the Áelendan mountains that no crown truly holds, and the sea-frontier through which the Nordheim raids came."
+shortcode: tramontana
+name: {full: Tramontàna, aliases: []}
 type: place
 subType: region
-data:
-  demonym: null
-  lore: []
-  parents:
-    - provenzrgn
-  population: 750000
-name:
-  full: Tramontàna
-  aliases: []
-shortcode: tramontana
-packFolder: provenzia
+description: "Provènzia's northern quarter—the Élavendren borderland, the Áelendan mountains that no crown truly holds, and the sea-frontier through which the Nordheim raids came."
+tags: [region, border, mountain]
+data: {demonym: null, lore: [], parents: [provenzrgn], population: 750000, packFolder: provenzia}
 ---
 
 **Tramontàna**—_beyond the mountains_, and also the name of the cold wind that comes over them.

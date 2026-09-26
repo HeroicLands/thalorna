@@ -1,24 +1,19 @@
 ---
-tags:
-  - region
-description: Crossroads region of southern Ankaris—a transitional zone of city-states, trade routes, and mixed faiths between Aurèldía and the eastern realms.
-name:
-  full: Hellád Region
-  aliases:
-    - Hellád
 shortcode: heladrgn
+name: {full: Hellád Region, aliases: [Hellád]}
 type: place
 subType: region
+description: Crossroads region of southern Ankaris—a transitional zone of city-states, trade routes, and mixed faiths between Aurèldía and the eastern realms.
+tags: [region]
 data:
   icon: null
   demonym: Helladic
-  lore:
-    - humanflk
-  parents:
-    - midhalnrgn
+  lore: [humanflk]
+  parents: [midhalnrgn]
   population: 11000000
-terran_analog: "Greece, Bulgaria, North Macedonia, and Albania—the classical Aegean / Balkan-south sphere of philosopher city-states and merchant confederations."
-packFolder: hellad
+  packFolder: hellad
+
+# terran_analog: "Greece, Bulgaria, North Macedonia, and Albania—the classical Aegean / Balkan-south sphere of philosopher city-states and merchant confederations."
 ---
 
 The Hellád is the crossroads region of southern [[place-ankrscntnnt|Ankaris Continent]]—a band of mountainous peninsulas, archipelagos, and narrow coastal plains that bridges the Aurèldían west and the eastern realms of [[place-khzryndsrtrgn|Khazryn]], [[affiliation-cnfdrtnhrdnstts|Harad]], and ultimately [[place-tanvuregin|Tānvür]]. It is physically small compared to the sprawling regions that flank it, but its strategic position at the meeting of sea lanes, caravan routes, and cultural spheres has made it one of the most influential regions on the continent. Where [[place-aureldirgn|Aurèldía]] is the civilization of kings and cathedrals and [[place-tanvuregin|Tānvür]] the civilization of empire and classification, the Hellád is the civilization of the city-state—fractious, philosophical, and proud.

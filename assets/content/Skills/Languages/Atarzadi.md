@@ -1,16 +1,11 @@
 ---
-tags: []
-name:
-  full: Ātárzādi Language
-  aliases:
-    - Atarzari Language
-description: "The tongue of Atarzari people."
 shortcode: atarzadilng
+name: {full: Ātárzādi Language, aliases: [Atarzari Language]}
 type: skill
 subType: language
-data:
-  icon: icon-speaking
-  templatePriority: null
+description: "The tongue of Atarzari people."
+tags: []
+data: {icon: icon-speaking, templatePriority: null, packFolder: language}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -19,8 +14,5 @@ sohl:
     combatCategory: none
     parentSkillCode: lang
     initSkillMult: 0
-packFolder: language
-flags:
-  "thalorna":
-    lang_family: null
+  flags: {"thalorna": {lang_family: null}}
 ---

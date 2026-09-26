@@ -1,21 +1,11 @@
 ---
-tags:
-  - village
-  - river
-description: "A mixed manor of the Zûravlen valley floor—grain, fold and a little fruit—and the ordinary model that most of the barony actually resembles."
+shortcode: blavera
+name: {full: Blavéra, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - zuravlenrgn
-  population: 240
-name:
-  full: Blavéra
-  aliases: []
-shortcode: blavera
-packFolder: provenzia
+description: "A mixed manor of the Zûravlen valley floor—grain, fold and a little fruit—and the ordinary model that most of the barony actually resembles."
+tags: [village, river]
+data: {demonym: null, lore: [], parents: [zuravlenrgn], population: 240, packFolder: provenzia}
 ---
 
 **Blavéra** lies on the flat ground where the Zûravlen river slows, and grows wheat, barley, beans and

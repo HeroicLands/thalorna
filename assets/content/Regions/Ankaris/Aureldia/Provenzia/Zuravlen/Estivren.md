@@ -1,21 +1,11 @@
 ---
-tags:
-  - village
-  - hill
-description: "The upland sheep manor of Zûravlen—oldest of the three, poorest in coin, holding the summer pastures and the folding rights the orchards below cannot do without."
+shortcode: estivren
+name: {full: Estivren, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - zuravlenrgn
-  population: 190
-name:
-  full: Estivren
-  aliases: []
-shortcode: estivren
-packFolder: provenzia
+description: "The upland sheep manor of Zûravlen—oldest of the three, poorest in coin, holding the summer pastures and the folding rights the orchards below cannot do without."
+tags: [village, hill]
+data: {demonym: null, lore: [], parents: [zuravlenrgn], population: 190, packFolder: provenzia}
 ---
 
 **Estivren** sits where the terraces give out and the hill pasture begins. It is the oldest settlement

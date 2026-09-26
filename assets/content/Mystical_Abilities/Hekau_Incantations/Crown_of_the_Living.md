@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: Crown of the Living
-  aliases: []
-description: "Invests the subject with visible authority and a sustaining vitality, for a stated term."
 shortcode: crwnlvng
+name: {full: Crown of the Living, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: atenre
-  templatePriority: null
+description: "Invests the subject with visible authority and a sustaining vitality, for a stated term."
+tags: [khemenu-hekau, incantation]
+data: {icon: atenre, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: atenre
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
-packFolder: hekauincantations
+    charges: {value: null, max: null}
 ---
 
 The subject does not tire, does not sicken, and is difficult to disregard; the working carries a

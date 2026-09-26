@@ -1,25 +1,16 @@
 ---
-tags:
-  - draft
-  - character
+shortcode: bathurhurtzhuk
 name:
   full: Bāthür Hürtzhük
   title: Hëkvōr Warlord
   given: Bāthür
   clan: Hürtzhük
   home: ""
-  aliases:
-    - Master Tiger of the Steppes
-shortcode: bathurhurtzhuk
-renamedFrom:
-  - hathurhtzhk
-  - bthrhrtzhk
-description: >-
-  Warlord risen out of the Hëkvōr, the Black Wilds north of the Empire of
-  Tānvür—a master strategist whose steppe confederation has become the
-  gravest external threat the imperial frontier has faced in a generation.
+  aliases: [Master Tiger of the Steppes]
 type: being
-packFolder: threats
+description: >-
+  Warlord risen out of the Hëkvōr, the Black Wilds north of the Empire of Tānvür—a master strategist whose steppe confederation has become the gravest external threat the imperial frontier has faced in a generation.
+tags: [draft, character]
 data:
   icon: icon-person
   templatePriority: null
@@ -42,6 +33,7 @@ data:
     skin_color: null
     complexion: null
     extra_features: []
+  packFolder: threats
 ---
 
 # Appearance {#appearance}

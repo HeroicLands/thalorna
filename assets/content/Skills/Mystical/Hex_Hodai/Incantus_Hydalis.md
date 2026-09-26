@@ -1,16 +1,10 @@
 ---
-tags:
-  - hex-hodai
-  - draft
+shortcode: hydalis
+name: {full: Incantus Hydälis, aliases: []}
 type: skill
 subType: mystical
-shortcode: hydalis
-name:
-  full: Incantus Hydälis
-  aliases: []
-data:
-  icon: hydalis
-  templatePriority: null
+tags: [hex-hodai, draft]
+data: {icon: hydalis, templatePriority: null, packFolder: hexhodai}
 sohl:
   system:
     skillBaseFormula: "@aur, @rea"
@@ -19,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: hexhodai
 ---
 
 See [[affiliation-hydalis|Eídma Hydälis]]

@@ -1,23 +1,11 @@
 ---
-tags:
-  - sacred
-  - pilgrimage
-  - mountain
-description: "The Shaper's temple at the head of the Sarvada—rebuilt on the same footing eleven times, each time within one open season, and keeping the nine-hundred-year melt record of the wall."
+shortcode: vyalsrctmp
+name: {full: The Vyālendra Source-Temple, aliases: [The Sarvaprabhava Source-Temple]}
 type: place
 subType: structure
-data:
-  demonym: null
-  lore: []
-  parents:
-    - sarvaprbhv
-  population: null
-name:
-  full: The Vyālendra Source-Temple
-  aliases:
-    - The Sarvaprabhava Source-Temple
-shortcode: vyalsrctmp
-packFolder: vedyara
+description: "The Shaper's temple at the head of the Sarvada—rebuilt on the same footing eleven times, each time within one open season, and keeping the nine-hundred-year melt record of the wall."
+tags: [sacred, pilgrimage, mountain]
+data: {demonym: null, lore: [], parents: [sarvaprbhv], population: null, packFolder: vedyara}
 ---
 
 The **Vyālendra source-temple** stands on the shelf at [[place-sarvaprbhv|Sarvaprabhava]], where the [[place-sarvadarivr|Sarvada]] comes out of the ice under the face of [[place-sthrnwall|the Southern Wall]]. It is the temple of [[affiliation-vyalendra|Vyālendra]] the Shaper, and its priests are masons, carpenters and surveyors who have taken orders. There is no scholar on the establishment and no library in the building.

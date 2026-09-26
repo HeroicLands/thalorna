@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Silencebind
-  aliases:
-    - Hush
-description: "Silences target magically; prevents speech and spell-speaking."
 shortcode: slncbnd
+name: {full: Silencebind, aliases: [Hush]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
+description: "Silences target magically; prevents speech and spell-speaking."
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Hush
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Hush
 ---
 
 The caster wraps a target or area in a cocoon of dense, moisture-laden air that devours sound. Voices drop to inaudible murmurs, footsteps vanish, and even the clang of steel is reduced to a dull, distant thud. The effect is not silence so much as smothering—sound waves are absorbed and scattered by the water-saturated air before they can propagate.

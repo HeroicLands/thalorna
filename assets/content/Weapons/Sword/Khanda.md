@@ -1,14 +1,10 @@
 ---
-tags: []
-name:
-  full: Khanda
-  aliases: []
-description: "Straight broad double-edged blade for hacking; ranked warrior's symbol."
 shortcode: knda
+name: {full: Khanda, aliases: []}
 type: weapongear
-data:
-  icon: icon-sword
-  templatePriority: null
+description: "Straight broad double-edged blade for hacking; ranked warrior's symbol."
+tags: []
+data: {icon: icon-sword, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: sword
   weaponType: Sword
@@ -23,14 +19,8 @@ sohl:
         name: Cut
         assocSkillCode: melee
         minParts: 1
-        attack:
-          spread: 6
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 10
-          modifier: 4
-          aspect: edged
+        attack: {spread: 6, modifier: 0}
+        impactBase: {numDice: 1, die: 10, modifier: 4, aspect: edged}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -59,22 +49,14 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 5
-        defense:
-          blockMod: 0
-          counterstrikeMod: 0
+        defense: {blockMod: 0, counterstrikeMod: 0}
       impale:
         type: melee
         name: Impale
         assocSkillCode: melee
         minParts: 1
-        attack:
-          spread: 6
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 8
-          modifier: 1
-          aspect: piercing
+        attack: {spread: 6, modifier: 0}
+        impactBase: {numDice: 1, die: 8, modifier: 1, aspect: piercing}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -103,22 +85,14 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 5
-        defense:
-          blockMod: 0
-          counterstrikeMod: 0
+        defense: {blockMod: 0, counterstrikeMod: 0}
       pommel:
         type: melee
         name: Pommel
         assocSkillCode: melee
         minParts: 1
-        attack:
-          spread: 4
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 6
-          modifier: 0
-          aspect: blunt
+        attack: {spread: 4, modifier: 0}
+        impactBase: {numDice: 1, die: 6, modifier: 0, aspect: blunt}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -147,10 +121,7 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 5
-        defense:
-          blockMod: 0
-          counterstrikeMod: 0
-packFolder: weapons
+        defense: {blockMod: 0, counterstrikeMod: 0}
 ---
 
 A straight double-edged blade broad and substantial, the khanda is forged for the direct hacking cut. The hilt flares to a wide guard and ends in a disk-shaped pommel that steadies the blade's weight. Warriors of rank carry this steel as a symbol of standing and martial prowess, its straight geometry speaking of unflinching strength.

@@ -1,21 +1,17 @@
 ---
-tags:
-  - town
-description: "Nome capital of Ta-Mentu."
+shortcode: sile
+name: {full: Sile, aliases: []}
 type: place
 subType: settlement
+description: "Nome capital of Ta-Mentu."
+tags: [town]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - tamentunome
+  parents: [tamentunome]
   population: 12000
-name:
-  full: Sile
-  aliases: []
-shortcode: sile
-packFolder: bordernomes
+  packFolder: bordernomes
 ---
 
 ## Overview

@@ -1,21 +1,11 @@
 ---
-tags:
-  - city
-  - merchant
-description: "Merchant City"
+shortcode: belekos
+name: {full: Belekos, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - alyssa
-  population: 25000
-name:
-  full: Belekos
-  aliases: []
-shortcode: belekos
-packFolder: vylaria
+description: "Merchant City"
+tags: [city, merchant]
+data: {demonym: null, lore: [], parents: [alyssa], population: 25000, packFolder: vylaria}
 ---
 
 ## Overview

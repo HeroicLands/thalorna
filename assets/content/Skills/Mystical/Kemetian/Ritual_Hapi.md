@@ -1,22 +1,10 @@
 ---
-tags:
-  - kemetian
-  - faith-skill
-  - draft
+shortcode: hapi
+name: {full: "Ritual: Hâpi", aliases: [Hâpi, Hapy, Apis, The Golden Reveler, The Overflowing One]}
 type: skill
 subType: mystical
-shortcode: hapi
-name:
-  full: "Ritual: Hâpi"
-  aliases:
-    - Hâpi
-    - Hapy
-    - Apis
-    - The Golden Reveler
-    - The Overflowing One
-data:
-  icon: hapi
-  templatePriority: null
+tags: [kemetian, faith-skill, draft]
+data: {icon: hapi, templatePriority: null, packFolder: kemetian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -25,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: kemetian
 ---
 
 See [[affiliation-hapi|Faith of Hâpi]]

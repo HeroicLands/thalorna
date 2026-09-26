@@ -1,22 +1,18 @@
 ---
-tags:
-  - region
-description: "Pacific fjords, cedar rainforest and a volcanic mountain spine—the land of Ba'alam Ki'ahk, westernmost of Northern K'ich'chik."
-name:
-  full: Ba'alam Ki'ahk Region
-  aliases: []
 shortcode: balamkiahkrgn
+name: {full: Ba'alam Ki'ahk Region, aliases: []}
 type: place
 subType: region
+description: "Pacific fjords, cedar rainforest and a volcanic mountain spine—the land of Ba'alam Ki'ahk, westernmost of Northern K'ich'chik."
+tags: [region]
 data:
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - nrthrnkchchk
+  lore: [humanflk]
+  parents: [nrthrnkchchk]
   population: null
-terran_analog: Western U.S. to Rockies and up to British Columbia and southern Alaska
-packFolder: baalamkiahk
+  packFolder: baalamkiahk
+
+# terran_analog: Western U.S. to Rockies and up to British Columbia and southern Alaska
 ---
 
 ## Overview

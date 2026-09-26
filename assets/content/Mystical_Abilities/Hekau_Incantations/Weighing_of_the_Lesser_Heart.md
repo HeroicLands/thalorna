@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: Weighing of the Lesser Heart
-  aliases: []
-description: "Compels a truthful answer to a single question, or makes the weight of the lie plain to all present."
 shortcode: wghnglssrhr
+name: {full: Weighing of the Lesser Heart, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: maatken
-  templatePriority: null
+description: "Compels a truthful answer to a single question, or makes the weight of the lie plain to all present."
+tags: [khemenu-hekau, incantation]
+data: {icon: maatken, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: maatken
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
-packFolder: hekauincantations
+    charges: {value: null, max: null}
 ---
 
 A deliberate small echo of the judgment after death, and named to be one. The subject may still

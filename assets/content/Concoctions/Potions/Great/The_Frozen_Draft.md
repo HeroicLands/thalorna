@@ -1,19 +1,11 @@
 ---
-tags:
-  - great-elixir
-name:
-  full: The Frozen Draft
-  aliases:
-    - Potion, Paralytic, Great
-description: "Sickly pale green viscous substance; freezes body and movement."
 shortcode: ptnparg
+name: {full: The Frozen Draft, aliases: ["Potion, Paralytic, Great"]}
 type: concoctiongear
 subType: exotic
-hmk:
-  name: "Potion, Paralytic, Great"
-data:
-  icon: icon-potion
-  templatePriority: null
+description: "Sickly pale green viscous substance; freezes body and movement."
+tags: [great-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: great}
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +14,9 @@ sohl:
     durabilityBase: 5
     potency: "great"
     strength: 0
-packFolder: great
+
+# hmk:
+#   name: "Potion, Paralytic, Great"
 ---
 
 This is barely liquid at all—a viscous, almost gelatinous substance that clings to the vial like something half-alive. Its color is a sickly pale green, nearly phosphorescent in near-darkness. The smell is overwhelming: cloying, toxic, sharp enough to make even seasoned herbalists gag. Merely uncorking the vial for too long can cause a spreading numbness in the hands holding it. A drop on the skin raises an immediate blister. Ingestion is mercifully rare, as few would voluntarily swallow something that smells of death itself.

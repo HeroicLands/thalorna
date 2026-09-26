@@ -1,21 +1,17 @@
 ---
-tags:
-  - town
-description: "Nome capital of Henen-Nesut."
+shortcode: henennesut
+name: {full: Henen-Nesut, aliases: []}
 type: place
 subType: settlement
+description: "Nome capital of Henen-Nesut."
+tags: [town]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - henennesutnome
+  parents: [henennesutnome]
   population: 26000
-name:
-  full: Henen-Nesut
-  aliases: []
-shortcode: henennesut
-packFolder: upperrivernomes
+  packFolder: upperrivernomes
 ---
 
 ## Overview

@@ -1,23 +1,16 @@
 ---
-tags:
-  - region
-  - held
-description: "The land of the march kingdom of Bhūmipāla—dry foothills under the broken end of the Grazian wall, the road that goes round it into the desert, and the salt coast of the western sea."
-name:
-  full: Bhūmipāla Land
-  aliases:
-    - The March
 shortcode: bhumipalaland
+name: {full: Bhūmipāla Land, aliases: [The March]}
 type: place
 subType: region
+description: "The land of the march kingdom of Bhūmipāla—dry foothills under the broken end of the Grazian wall, the road that goes round it into the desert, and the salt coast of the western sea."
+tags: [region, held]
 data:
   demonym: Bhumipali
-  lore:
-    - vedyariclt
-  parents:
-    - vedyarargn
+  lore: [vedyariclt]
+  parents: [vedyarargn]
   population: 2000000
-packFolder: vedyara
+  packFolder: vedyara
 ---
 
 ## Overview

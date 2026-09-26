@@ -1,18 +1,10 @@
 ---
-tags:
-  - tengvok
-  - faith-skill
-  - draft
+shortcode: nusvor
+name: {full: "Ritual: Nüsvōr", aliases: [Nüsvōr, The Minister of Dissolution]}
 type: skill
 subType: mystical
-shortcode: nusvor
-name:
-  full: "Ritual: Nüsvōr"
-  aliases:
-    - Nüsvōr
-    - The Minister of Dissolution
-data:
-  templatePriority: null
+tags: [tengvok, faith-skill, draft]
+data: {templatePriority: null, packFolder: tengvokvanlei}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -21,7 +13,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: tengvokvanlei
 ---
 
 See [[affiliation-nusvor|Nüsvōr]]

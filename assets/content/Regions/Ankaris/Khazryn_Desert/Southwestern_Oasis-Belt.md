@@ -1,21 +1,16 @@
 ---
-tags:
-  - region
-description: "The irrigated corner of the Khazryn Desert—the string of well-watered oasis cities and agricultural districts along its southern margin, held by the Ātárzád and the Khazryn and claimed by both."
-name:
-  full: Southwestern Oasis-Belt
-  aliases: []
 shortcode: swoasisbelt
+name: {full: Southwestern Oasis-Belt, aliases: []}
 type: place
 subType: region
+description: "The irrigated corner of the Khazryn Desert—the string of well-watered oasis cities and agricultural districts along its southern margin, held by the Ātárzád and the Khazryn and claimed by both."
+tags: [region]
 data:
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - khzryndsrtrgn
+  lore: [humanflk]
+  parents: [khzryndsrtrgn]
   population: null
-packFolder: khazryndesert
+  packFolder: khazryndesert
 ---
 
 ## Overview

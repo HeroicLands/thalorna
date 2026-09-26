@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Duskcraft
-  aliases:
-    - Shadow
-description: "Summons darkness; obscures vision within spreading circle of shadow."
 shortcode: dskcrft
+name: {full: Duskcraft, aliases: [Shadow]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
+description: "Summons darkness; obscures vision within spreading circle of shadow."
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Shadow
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Shadow
 ---
 
 The caster gathers ambient shadows and deepens them, thickening darkness within a defined area until it resists even bright light. Torches gutter to sullen glows, sunlight filtering through windows dims to a twilight murkiness, and colors drain away to shades of gray. The effect is not true darkness but a heavy, clinging dimness that makes details hard to discern and distances deceptive.

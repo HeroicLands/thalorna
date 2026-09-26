@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Blight
-  aliases:
-    - Pox
-description: "Withers crops and poisons soil; kills vegetation in spreading circle."
 shortcode: blight
+name: {full: Blight, aliases: [Pox]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-tree
-  templatePriority: null
+description: "Withers crops and poisons soil; kills vegetation in spreading circle."
+tags: []
+data: {icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: physera
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Pox
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Pox
 ---
 
 The caster reaches out and channels corrupting Physéra energy into a single injury that already possesses the latent potential for infection—specifically, one whose Healing Rate places it in the vulnerable range. The spell forces immediate infection, bypassing the normal probability of contamination and ensuring that the wound begins to fester. The infected wound may be treated normally through mundane medicine, may run its natural disease course, or will clear if the spell itself is dispelled, giving healers multiple avenues of response.

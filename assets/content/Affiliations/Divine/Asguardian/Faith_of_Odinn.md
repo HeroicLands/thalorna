@@ -1,9 +1,10 @@
 ---
-description: "Knowledge and Wisdom."
-tags:
-  - asguardian
+shortcode: odinn
+name: {full: Faith of Ódinn, aliases: [The Enlightened Path]}
 type: affiliation
 subType: faithtradition
+description: "Knowledge and Wisdom."
+tags: [asguardian]
 data:
   banner: faithbnr
   icon: odinn
@@ -14,59 +15,48 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A ladder of circles, rising from the young Thraell through the working Godi or Gydja to the
-      senior ranks of Jarl and Konungr and the pontifical offices of the Allsherjargodi and the
-      Fadir or Módir of the god. The titles are this faith's own; the pattern is the pantheon's.
-      Circle II is unlisted in the sources.
+      A ladder of circles, rising from the young Thraell through the working Godi or Gydja to the senior ranks of Jarl and Konungr and the pontifical offices of the Allsherjargodi and the Fadir or Módir of the god. The titles are this faith's own; the pattern is the pantheon's. Circle II is unlisted in the sources.
     ranks:
       - level: 0
         title: Nídingr
         lore: excmmnctrnk
         description: >-
-          Declared nithing—cut off from the faith and from the standing that being of it
-          conferred. No hall will seat them and no godi will speak for them.
+          Declared nithing—cut off from the faith and from the standing that being of it conferred. No hall will seat them and no godi will speak for them.
       - level: 1
         title: Hrafn Thraell
         lore: initiaternk
         description: >-
-          "Raven Thrall"—Raven Acolyte. The god's thrall: taken into the temple young, given the
-          observances and the labor, and years away from the priesthood.
+          "Raven Thrall"—Raven Acolyte. The god's thrall: taken into the temple young, given the observances and the labor, and years away from the priesthood.
       - level: 3
         title: Rún Godi/Gode
         lore: priestrnk
         description: >-
-          "Rune Priest/Priestess"—Rune Priest/Priestess. The working priest or priestess—Godi for a
-          man, Gydja for a woman—who keeps the rites of a hall and the people who gather at it.
+          "Rune Priest/Priestess"—Rune Priest/Priestess. The working priest or priestess—Godi for a man, Gydja for a woman—who keeps the rites of a hall and the people who gather at it.
       - level: 4
         title: Vitki Hersir
         lore: commanderrnk
         description: >-
-          "Sage Warlord"—Wisdom Herald. A warlord of the faith, carrying its authority where it must
-          be carried by force or by presence.
+          "Sage Warlord"—Wisdom Herald. A warlord of the faith, carrying its authority where it must be carried by force or by presence.
       - level: 5
         title: Rún Jarl
         lore: greatlordrnk
         description: >-
-          "Rune Jarl"—Guardian of the Runes. A senior rank carrying temporal weight as well as
-          spiritual; in many kingdoms a Jarl of a faith sits among the jarls of the land.
+          "Rune Jarl"—Guardian of the Runes. A senior rank carrying temporal weight as well as spiritual; in many kingdoms a Jarl of a faith sits among the jarls of the land.
       - level: 6
         title: Rún Konungr/Konungrkvinde
         lore: sovereignrnk
         description: >-
-          "Rune King/Queen"—Runebringer. King or queen within the faith's own hierarchy, and in some
-          kingdoms a power the crown must reckon with.
+          "Rune King/Queen"—Runebringer. King or queen within the faith's own hierarchy, and in some kingdoms a power the crown must reckon with.
       - level: 7
         title: Vitki Allsherjargodi
         lore: highpriestrnk
         description: >-
-          "Sage High Priest"—Elder Seer. High priest—a pontifical office, speaking for the faith
-          where it must speak with one voice.
+          "Sage High Priest"—Elder Seer. High priest—a pontifical office, speaking for the faith where it must speak with one voice.
       - level: 8
         title: Ódinn Fadir/Módir
         lore: grandmasterrnk
         description: >-
-          "Father/Mother of Ódinn"—Pontiff of the Enlightened. Father or Mother of the god: the
-          highest pontifical office, held by one person at a time.
+          "Father/Mother of Ódinn"—Pontiff of the Enlightened. Father or Mother of the god: the highest pontifical office, held by one person at a time.
     offices:
       Order of the Raven: >-
         Priests dedicated to the study of runes and divination, serving as advisors and seers.
@@ -84,21 +74,11 @@ data:
   domains: []
   population: null
   economy: []
-  lore:
-    - oinndty
-  parents:
-    - asguardian
-  relations:
-    asguardian: aligned
-name:
-  full: Faith of Ódinn
-  aliases:
-    - The Enlightened Path
-shortcode: odinn
-packFolder: pantheonsasguardian
-sohl:
-  system:
-    commonSkills: []
+  lore: [oinndty]
+  parents: [asguardian]
+  relations: {asguardian: aligned}
+  packFolder: pantheonsasguardian
+sohl: {system: {commonSkills: []}}
 ---
 
 Ódinn is revered as the god of knowledge, wisdom, and the relentless pursuit of understanding. His insatiable quest for knowledge is legendary, marked by his sacrifice of an eye at the well of Mimir in exchange for a drink of its wisdom-bestowing waters. Ódinn's wisdom is not just scholarly but also deeply connected to the mystical and the arcane, encompassing the runes, the secrets of the cosmos, and the mysteries of life and death.

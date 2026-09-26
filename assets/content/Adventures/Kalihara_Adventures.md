@@ -1,11 +1,9 @@
 ---
-tags: []
 shortcode: klhrdvntrs
-name:
-  full: Kalihara Adventures
-  aliases: []
+name: {full: Kalihara Adventures, aliases: []}
 type: scenario
 subType: adventure
+tags: []
 data:
   parents: []
   locations: []
@@ -13,10 +11,8 @@ data:
   factions: []
   follows: []
   status: draft
-  party:
-    size: null
-    archetypes: []
-packFolder: adventureskalihara
+  party: {size: null, archetypes: []}
+  packFolder: adventureskalihara
 ---
 
 Here are five seeds and one campaign, designed so the seeds can be run independently as one-offs or woven together to form the opening arc of the campaign. I've deliberately made each seed hit a different beat—dungeon, horror/investigation, heist, extraction, diplomatic—so they don't feel like the same job five times. Specific Kalihari personal names I've left as placeholders; those should come from the Kalihari_Language naming conventions in your vault.

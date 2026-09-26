@@ -1,27 +1,20 @@
 ---
-tags: []
-name:
-  full: Sentience
-  aliases:
-    - Personality
-description: "Grants awareness to construct; creature gains rudimentary agency."
 shortcode: sntnc
+name: {full: Sentience, aliases: [Personality]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
+description: "Grants awareness to construct; creature gains rudimentary agency."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
-hmk:
-  name: Personality
-packFolder: spells
+    charges: {value: null, max: null}
+
+# hmk:
+#   name: Personality
 ---
 
 Through an extended and profoundly demanding ritual, the caster kindles the spark of genuine awareness within a magical construct, granting it the capacity for independent thought, emotional response, and autonomous decision-making. The newly awakened entity possesses a rudimentary personality shaped by the caster's intent and the nature of its physical form, but it rapidly develops its own preferences, opinions, and understanding of the world.

@@ -1,22 +1,17 @@
 ---
-tags:
-  - city
-  - port
-description: "City (Port)"
+shortcode: perankhet
+name: {full: Per-Ankhet, aliases: []}
 type: place
 subType: settlement
+description: "City (Port)"
+tags: [city, port]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - perankhetnome
+  parents: [perankhetnome]
   population: 120000
-name:
-  full: Per-Ankhet
-  aliases: []
-shortcode: perankhet
-packFolder: perankhet
+  packFolder: perankhet
 ---
 
 ## Overview

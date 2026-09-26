@@ -1,7 +1,5 @@
 ---
-tags:
-  - character
-  - reference
+shortcode: davineartois
 name:
   full: Davine Artois
   title: Councilor
@@ -9,15 +7,14 @@ name:
   clan: Artois
   home: chastelclr
   aliases: []
-description: "The senior merchant representative on the city council."
-shortcode: davineartois
 type: being
+description: "The senior merchant representative on the city council."
+tags: [character, reference]
 data:
   species: humanflk
   templatePriority: null
   archetypes: []
   stations: []
   lore: []
-  homes:
-    - chastelclr
+  homes: [chastelclr]
 ---

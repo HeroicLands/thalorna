@@ -1,9 +1,6 @@
 ---
-name:
-  full: "Aurionis"
 shortcode: aurionis
+name: {full: "Aurionis"}
 type: folder
-data:
-  parent: regions
-  color: "#3CB371"
+data: {parent: regions, color: "#3CB371"}
 ---

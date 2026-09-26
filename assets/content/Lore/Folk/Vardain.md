@@ -1,15 +1,11 @@
 ---
-tags: []
-description: "The people of Vardanreach—the north-eastern nation that kept the Khazári's friendship for millennia, conquered by Nordmen sixty years ago and now largely thralls, whose only free remnant lives in the mountain valleys."
+shortcode: vardain
+name: {full: The Vardain, aliases: [Vardain, The Holdfolk]}
 type: lore
 subType: folk
-name:
-  full: The Vardain
-  aliases:
-    - Vardain
-    - The Holdfolk
-shortcode: vardain
-packFolder: aelwyth
+description: "The people of Vardanreach—the north-eastern nation that kept the Khazári's friendship for millennia, conquered by Nordmen sixty years ago and now largely thralls, whose only free remnant lives in the mountain valleys."
+tags: []
+data: {packFolder: aelwyth}
 ---
 
 The **Vardain** are an Aelwythan people of the north-east, and their history divides sharply into what

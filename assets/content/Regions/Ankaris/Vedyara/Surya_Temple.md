@@ -1,23 +1,11 @@
 ---
-tags:
-  - temple
-  - sacred
-  - pilgrimage
-  - mountain
-description: "The shrine on the shelf beside the Chandramahī's outflow—where the orthodox sight the civil year, where thirty thousand pilgrims a year arrive, and where the slab is washed at the turn of every season."
+shortcode: suryatempl
+name: {full: The Sūrya temple, aliases: []}
 type: place
 subType: structure
-data:
-  demonym: null
-  lore: []
-  parents:
-    - chandrprbh
-  population: null
-name:
-  full: The Sūrya temple
-  aliases: []
-shortcode: suryatempl
-packFolder: vedyara
+description: "The shrine on the shelf beside the Chandramahī's outflow—where the orthodox sight the civil year, where thirty thousand pilgrims a year arrive, and where the slab is washed at the turn of every season."
+tags: [temple, sacred, pilgrimage, mountain]
+data: {demonym: null, lore: [], parents: [chandrprbh], population: null, packFolder: vedyara}
 ---
 
 The **Sūrya temple** stands on the rock shelf beside the outflow at [[place-chandrprbh|Chandraprabhava]], where the [[place-chandrmahi|Chandramahī]] comes out of the ice under [[place-suryashkhr|Sūryashikhara]]. It is small, and everything about it is built for two purposes: to survive a winter at that altitude, and to see the sun come over the peak.

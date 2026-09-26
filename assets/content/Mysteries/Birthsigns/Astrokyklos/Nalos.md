@@ -1,15 +1,11 @@
 ---
-tags: []
-name:
-  full: Nalos
-  aliases: []
-description: "The River: welcome in any company and persuasive in every tongue, no one's idea of a fighter."
 shortcode: nalos
+name: {full: Nalos, aliases: []}
 type: mystery
 subType: birthsign
-data:
-  icon: icon-astrology
-  templatePriority: 0
+description: "The River: welcome in any company and persuasive in every tongue, no one's idea of a fighter."
+tags: []
+data: {icon: icon-astrology, templatePriority: 0, packFolder: astrokyklos}
 sohl:
   kbcat: birthsign
   system:
@@ -37,7 +33,6 @@ sohl:
       "subType:social": 15
       water: 15
       hydalis: 15
-packFolder: astrokyklos
 ---
 
 Nalos, the River, carries its children toward company and speech. Persuasive and worldly, at home in field and gathering, they are ill-starred for the martial disciplines and the labors of the maker's hand.

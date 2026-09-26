@@ -1,22 +1,10 @@
 ---
-tags:
-  - reference
-  - currency
-  - takheperu
-  - xerathia
-  - economy
-description: "Standard currency system of the Northern Fertile Region of Xerathia—temple-attested weight-pieces of copper, silver, and gold organized in deben and kite units; backed by the Kemetian temple banking system (Per'Háti); used across Ta'Kheperu, Bethûa, and Okháris."
+shortcode: tkhprcrncy
+name: {full: Ta'Kheperu Currency, aliases: [The Kheperi Weight System, Deben, Kite, Qedét, Khar]}
 type: lore
 subType: economy
-name:
-  full: Ta'Kheperu Currency
-  aliases:
-    - The Kheperi Weight System
-    - Deben
-    - Kite
-    - Qedét
-    - Khar
-shortcode: tkhprcrncy
+description: "Standard currency system of the Northern Fertile Region of Xerathia—temple-attested weight-pieces of copper, silver, and gold organized in deben and kite units; backed by the Kemetian temple banking system (Per'Háti); used across Ta'Kheperu, Bethûa, and Okháris."
+tags: [reference, currency, takheperu, xerathia, economy]
 ---
 
 **Scope:** The Ta'Kheperu currency is the standard currency of the **Northern Fertile Region of Xerathia**—the empire of [[affiliation-empirtkhpr|Ta'Kheperu]] itself, the [[affiliation-mtrrchybth|Matriarchy of Bethûa]], and the kingdom of [[affiliation-okharis|Okháris]]. Outside the Northern Fertile Region it is exchangeable as foreign currency, principally against the [[lore-vylrncrncy|Vylarian system]] through moneylenders at the trading ports of the Vylarian Sea.

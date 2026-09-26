@@ -1,23 +1,19 @@
 ---
-tags:
-  - region
-description: The eastern Hellád—a warm coast, a steppe plateau and the mountain passes between them, held by the five merchant cities of the Byzarian League and guarded by its three marches.
-name:
-  full: Byzaría Region
-  aliases: []
 shortcode: byzariargn
+name: {full: Byzaría Region, aliases: []}
 type: place
 subType: region
+description: The eastern Hellád—a warm coast, a steppe plateau and the mountain passes between them, held by the five merchant cities of the Byzarian League and guarded by its three marches.
+tags: [region]
 data:
   icon: null
   demonym: Byzarian
-  lore:
-    - humanflk
-  parents:
-    - heladrgn
+  lore: [humanflk]
+  parents: [heladrgn]
   population: 8000000
-terran_analog: Classical Anatolia (philosophical city-states and crossroads)
-packFolder: byzaria
+  packFolder: byzaria
+
+# terran_analog: Classical Anatolia (philosophical city-states and crossroads)
 ---
 
 Byzaría is the eastern half of the [[place-heladrgn|Hellád Region]]—the country where the warm Helladic coast climbs into steppe uplands and the uplands break against the mountains that wall off the [[place-khzryndsrtrgn|Khazryn Desert]]. It is the territory of the [[affiliation-byzarianlg|Byzarian League]], five merchant city-states bound by common tariffs and a joint defense, and it is the gateway through which the goods of the east—silk, spice, incense, porcelain—enter the world of the [[place-vylarianse|Vylarian Sea]]. Every road that matters in Byzaría is a trade road, and every fortress in it stands where a trade road narrows.

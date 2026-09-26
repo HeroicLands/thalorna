@@ -1,62 +1,58 @@
 ---
-tags:
-  - history
-  - spine
-description: "Over a thousand years ago the island province of Jürthāt broke away from the Empire of Tānvür in a bloody war of secession, and no imperial expedition has ever reasserted sovereignty over the archipelago."
+shortcode: jurthatscs
+name: {full: The Secession of Jürthāt, aliases: [The Breaking Away]}
 type: lore
 subType: history
-name:
-  full: The Secession of Jürthāt
-  aliases:
-    - The Breaking Away
-shortcode: jurthatscs
-packFolder: settinglore
-event:
-  kind: secession
-  depth: world
-  when:
-    year: -280
-    precision: century
-    derived: over a thousand years ago
-  sources:
-    - affiliation-jurthatempr
-    - affiliation-tanvurempr
-  summary: >-
-    The island province of Jürthāt breaks away from the Empire of Tānvür in a bloody war of
-    secession, led by the imperial governor from whom its emperors claim unbroken descent. No
-    imperial expedition has ever reasserted sovereignty over the archipelago. The empire has never
-    formally recognized the loss and calls the kingdom a renegade province in open rebellion; the
-    practical reality is a sovereign kingdom that raids the coast.
-  standing: attested
-  names:
-    - name: Thātvōng
-      by: affiliation-tanvurempr
-      gloss: Kingdom of Mountains and Seas, the dismissive name the mainland uses
-  where:
-    locus:
-      - place-jurthatrgn
-    reach:
-      - place: place-tanvuregin
-        how: >-
-          the eastern frontier has been a thousand-year stalemate of raid and counter-raid, and the
-          empire's real threats have come from here or from inside rather than from the west
-        knowledge: named
-  who:
-    - ref: affiliation-jurthatempr
-      role: actor
-    - ref: affiliation-tanvurempr
-      role: victim
-  accounts:
-    - by: affiliation-jurthatempr
-      says: >-
-        Heaven blessed the act. The gods withdrew their favor from the empire and bestowed it on the
-        Nine Mountains, and the unbroken line is the proof: where the mainland's has been
-        interrupted by conquest and civil war, ours has endured.
-      agrees: partly
-    - by: affiliation-tanvurempr
-      says: A province in open rebellion, and it remains one.
-      agrees: disputes
-  unresolved: []
+description: "Over a thousand years ago the island province of Jürthāt broke away from the Empire of Tānvür in a bloody war of secession, and no imperial expedition has ever reasserted sovereignty over the archipelago."
+tags: [history, spine]
+data: {packFolder: settinglore}
+
+# event:
+#   kind: secession
+#   depth: world
+#   when:
+#     year: -280
+#     precision: century
+#     derived: over a thousand years ago
+#   sources:
+#     - affiliation-jurthatempr
+#     - affiliation-tanvurempr
+#   summary: >-
+#     The island province of Jürthāt breaks away from the Empire of Tānvür in a bloody war of
+#     secession, led by the imperial governor from whom its emperors claim unbroken descent. No
+#     imperial expedition has ever reasserted sovereignty over the archipelago. The empire has never
+#     formally recognized the loss and calls the kingdom a renegade province in open rebellion; the
+#     practical reality is a sovereign kingdom that raids the coast.
+#   standing: attested
+#   names:
+#     - name: Thātvōng
+#       by: affiliation-tanvurempr
+#       gloss: Kingdom of Mountains and Seas, the dismissive name the mainland uses
+#   where:
+#     locus:
+#       - place-jurthatrgn
+#     reach:
+#       - place: place-tanvuregin
+#         how: >-
+#           the eastern frontier has been a thousand-year stalemate of raid and counter-raid, and the
+#           empire's real threats have come from here or from inside rather than from the west
+#         knowledge: named
+#   who:
+#     - ref: affiliation-jurthatempr
+#       role: actor
+#     - ref: affiliation-tanvurempr
+#       role: victim
+#   accounts:
+#     - by: affiliation-jurthatempr
+#       says: >-
+#         Heaven blessed the act. The gods withdrew their favor from the empire and bestowed it on the
+#         Nine Mountains, and the unbroken line is the proof: where the mainland's has been
+#         interrupted by conquest and civil war, ours has endured.
+#       agrees: partly
+#     - by: affiliation-tanvurempr
+#       says: A province in open rebellion, and it remains one.
+#       agrees: disputes
+#   unresolved: []
 ---
 
 **[[affiliation-jurthatempr|Jürthāt]]** is a mountainous island kingdom to the south-east of

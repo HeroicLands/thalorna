@@ -1,20 +1,11 @@
 ---
-tags:
-  - nyaluba
-  - spirit-power
-  - draft
-description: "Standing with the leopard-spirit of the Sengala—what an allied guide of the Nyáluba Way is met and asked with."
+shortcode: leopardsengalasprt
+name: {full: "Leopard Spirit Power", aliases: [Leopard Spirit, Sengala Leopard]}
 type: skill
 subType: mystical
-shortcode: leopardsengalasprt
-name:
-  full: "Leopard Spirit Power"
-  aliases:
-    - Leopard Spirit
-    - Sengala Leopard
-data:
-  icon: icon-psychicwaves
-  templatePriority: null
+description: "Standing with the leopard-spirit of the Sengala—what an allied guide of the Nyáluba Way is met and asked with."
+tags: [nyaluba, spirit-power, draft]
+data: {icon: icon-psychicwaves, templatePriority: null, packFolder: spiritskillsnyaluba}
 sohl:
   system:
     skillBaseFormula: "@aur, @wil"
@@ -23,7 +14,6 @@ sohl:
     combatCategory: none
     parentSkillCode: spirit
     initSkillMult: 0
-packFolder: spiritskillsnyaluba
 ---
 
 See [[affiliation-nyalbleop|Leopard Totem]]—the guide of the Sengala, the northern trade-tribe.

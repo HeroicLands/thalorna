@@ -1,19 +1,9 @@
 ---
-tags:
-  - oasis
-  - city
-description: "Oasis City"
+shortcode: shamsun
+name: {full: Shamsûn, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - amradadrgn
-  population: 15000
-name:
-  full: Shamsûn
-  aliases: []
-shortcode: shamsun
-packFolder: amradad
+description: "Oasis City"
+tags: [oasis, city]
+data: {demonym: null, lore: [], parents: [amradadrgn], population: 15000, packFolder: amradad}
 ---
