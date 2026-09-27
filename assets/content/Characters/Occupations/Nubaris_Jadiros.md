@@ -20,7 +20,7 @@ data:
   affiliations: [theradon]
   gender: female
   species: humanflk
-  born: 684/10/2
+  born: VR(684/10/2)
   height: 1.7
   weight: 64
   frame: light

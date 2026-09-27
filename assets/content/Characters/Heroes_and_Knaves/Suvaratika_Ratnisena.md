@@ -20,7 +20,7 @@ data:
   affiliations: [chandrapur]
   gender: female
   species: humanflk
-  born: 681/4/4
+  born: VR(681/4/4)
   height: 1.68
   weight: 59.9
   frame: light

@@ -20,7 +20,7 @@ data:
   affiliations: [provnchyln]
   gender: male
   species: humanflk
-  born: 679/5/25
+  born: VR(679/5/25)
   height: 1.7
   weight: 62.6
   frame: medium

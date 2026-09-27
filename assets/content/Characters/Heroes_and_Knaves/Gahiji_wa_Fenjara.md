@@ -20,7 +20,7 @@ data:
   affiliations: [nylbtrblntn]
   gender: male
   species: humanflk
-  born: 692/2/2
+  born: VR(692/2/2)
   height: 1.88
   weight: 90.7
   frame: heavy

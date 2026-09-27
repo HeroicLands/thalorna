@@ -20,7 +20,7 @@ data:
   affiliations: [kingdmtrvn]
   gender: male
   species: humanflk
-  born: 676/10/8
+  born: VR(676/10/8)
   height: 1.85
   weight: 99.8
   frame: heavy

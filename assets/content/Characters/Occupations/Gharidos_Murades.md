@@ -20,7 +20,7 @@ data:
   affiliations: [korinthea]
   gender: male
   species: humanflk
-  born: 694/6/25
+  born: VR(694/6/25)
   height: 1.91
   weight: 93
   frame: heavy

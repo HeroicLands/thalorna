@@ -20,7 +20,7 @@ data:
   affiliations: [okharis]
   gender: male
   species: humanflk
-  born: 692/2/2
+  born: VR(692/2/2)
   height: 1.8
   weight: 77.1
   frame: medium

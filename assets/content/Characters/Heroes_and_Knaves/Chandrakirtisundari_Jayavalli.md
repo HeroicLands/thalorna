@@ -20,7 +20,7 @@ data:
   affiliations: [vyalendra2]
   gender: female
   species: humanflk
-  born: 685/1/18
+  born: VR(685/1/18)
   height: 1.68
   weight: 64.4
   frame: light

@@ -19,7 +19,7 @@ data:
   affiliations: [blckpnwlvs, vrystwldtrbs]
   gender: female
   species: humanflk
-  born: 692/1/9
+  born: VR(692/1/9)
   height: 1.6
   weight: 52.2
   frame: scant

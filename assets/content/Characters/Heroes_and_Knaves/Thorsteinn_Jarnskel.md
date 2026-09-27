@@ -20,7 +20,7 @@ data:
   affiliations: [kingdmnrgd]
   gender: male
   species: humanflk
-  born: 675/3/22
+  born: VR(675/3/22)
   height: 1.85
   weight: 85.7
   frame: heavy

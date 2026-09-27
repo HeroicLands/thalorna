@@ -20,7 +20,7 @@ data:
   affiliations: [provncmktr]
   gender: male
   species: humanflk
-  born: 681/5/18
+  born: VR(681/5/18)
   height: 1.8
   weight: 78
   frame: medium

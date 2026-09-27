@@ -14,7 +14,7 @@ data:
   affiliations: [dunhartrbs]
   gender: female
   species: humanflk
-  born: 679/11/21
+  born: VR(679/11/21)
   height: 1.9
   weight: 119
   frame: massive

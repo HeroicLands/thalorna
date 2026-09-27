@@ -14,7 +14,7 @@ data:
   affiliations: [sultntmrdd]
   gender: male
   species: humanflk
-  born: 678/7/7
+  born: VR(678/7/7)
   height: 1.78
   weight: 78
   frame: heavy

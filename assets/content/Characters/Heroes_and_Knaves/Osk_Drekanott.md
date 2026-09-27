@@ -14,7 +14,7 @@ data:
   affiliations: [kingdomlgn]
   gender: female
   species: humanflk
-  born: 686/3/20
+  born: VR(686/3/20)
   height: 1.7
   weight: 66.2
   frame: light

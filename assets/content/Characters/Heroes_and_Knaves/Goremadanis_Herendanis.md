@@ -20,7 +20,7 @@ data:
   affiliations: [provncmktr]
   gender: female
   species: humanflk
-  born: 698/2/7
+  born: VR(698/2/7)
   height: 1.73
   weight: 66.2
   frame: light

@@ -14,7 +14,7 @@ data:
   affiliations: [slntlncmpny, ordoarcanis, kngdmlvndr]
   gender: female
   species: humanflk
-  born: 693/11/25
+  born: VR(693/11/25)
   height: 1.68
   weight: 59
   frame: light
