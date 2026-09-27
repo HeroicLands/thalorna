@@ -36,6 +36,7 @@ data:
     - {name: Shitaritu, monthStart: 9, monthEnd: 10}
     - {name: Tamraritu, monthStart: 11, monthEnd: 12}
   eras: [{shortcode: madhavendra, name: The Mādhavendra Count, abbreviation: M, start: -480}]
+  dateFormats: {short: "D MMM", long: "D MMMM, G Y", full: "D MMMM, G Y", yearLabel: "G Y"}
   packFolder: vedyara
 ---
 

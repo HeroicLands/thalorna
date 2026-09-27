@@ -19,6 +19,11 @@ data:
     - {name: Zhürtyüt, days: 30}
     - {name: Thürtyüt, days: 30}
   weekdays: []
+  dateFormats:
+    short: "D MMM Y"
+    long: "[Year] Y [of the] GGGG [Emperor of the] [Dynasty]"
+    full: "D MMMM, [Year] Y [of the] GGGG [Emperor of the] [Dynasty]"
+    yearLabel: "[Year] Y [of the] GGGG [Emperor of the] [Dynasty]"
   packFolder: tanvur
 ---
 
