@@ -9,7 +9,7 @@ data:
   lore: []
   parents: []
   body: {diameterKm: 3800, orbitalRadiusKm: 388600, orbit: circular, inclined: true}
-  moon: {cycle: 30, newOn: 720/1/1, eclipses: rare}
+  moon: {cycle: 30, newOn: VR(720/1/1), eclipses: rare}
   packFolder: setting
 ---
 

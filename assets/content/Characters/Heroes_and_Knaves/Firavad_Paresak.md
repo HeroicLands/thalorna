@@ -20,7 +20,7 @@ data:
   affiliations: [dunhartrbs]
   gender: male
   species: humanflk
-  born: 658/7/11
+  born: VR(658/7/11)
   height: 1.68
   weight: 62.1
   frame: medium

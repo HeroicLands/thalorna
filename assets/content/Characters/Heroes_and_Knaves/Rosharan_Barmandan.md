@@ -20,7 +20,7 @@ data:
   affiliations: [sultntmrdd]
   gender: female
   species: humanflk
-  born: 685/6/6
+  born: VR(685/6/6)
   height: 1.8
   weight: 77.6
   frame: medium

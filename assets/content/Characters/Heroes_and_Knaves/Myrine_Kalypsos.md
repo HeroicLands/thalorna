@@ -20,7 +20,7 @@ data:
   affiliations: [provinclys, blackflame]
   gender: female
   species: humanflk
-  born: 696/12/6
+  born: VR(696/12/6)
   height: 1.7
   weight: 68
   frame: medium

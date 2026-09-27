@@ -20,7 +20,7 @@ data:
   affiliations: [rajaprjnpd]
   gender: female
   species: humanflk
-  born: 693/10/4
+  born: VR(693/10/4)
   height: 1.73
   weight: 68.9
   frame: light

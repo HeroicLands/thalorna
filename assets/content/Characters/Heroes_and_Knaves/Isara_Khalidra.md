@@ -15,7 +15,7 @@ data:
   affiliations: [thetamzir, theradon]
   gender: female
   species: humanflk
-  born: 693/10/26
+  born: VR(693/10/26)
   height: 1.73
   weight: 62.6
   frame: light

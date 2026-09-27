@@ -20,7 +20,7 @@ data:
   affiliations: [mtrrchybth]
   gender: female
   species: humanflk
-  born: 694/1/4
+  born: VR(694/1/4)
   height: 1.68
   weight: 59
   frame: light

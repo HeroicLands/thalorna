@@ -20,7 +20,7 @@ data:
   affiliations: [provinclys]
   gender: male
   species: humanflk
-  born: 687/4/19
+  born: VR(687/4/19)
   height: 1.8
   weight: 78
   frame: heavy

@@ -15,7 +15,7 @@ data:
   affiliations: [thetamzir, vrystwldtrbs]
   gender: male
   species: humanflk
-  born: 676/9/19
+  born: VR(676/9/19)
   height: 1.93
   weight: 94.8
   frame: heavy

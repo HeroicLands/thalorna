@@ -15,7 +15,7 @@ data:
   affiliations: [thetamzir, cnfdrtnhrdnstts]
   gender: female
   species: humanflk
-  born: 696/5/3
+  born: VR(696/5/3)
   height: 1.68
   weight: 65.8
   frame: medium

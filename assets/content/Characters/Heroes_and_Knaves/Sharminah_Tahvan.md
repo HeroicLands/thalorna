@@ -20,7 +20,7 @@ data:
   affiliations: [tribestrzd]
   gender: female
   species: humanflk
-  born: 688/3/25
+  born: VR(688/3/25)
   height: 1.8
   weight: 76.2
   frame: medium

@@ -20,7 +20,7 @@ data:
   affiliations: [byzarianlg]
   gender: female
   species: humanflk
-  born: 680/6/12
+  born: VR(680/6/12)
   height: 1.75
   weight: 70.3
   frame: medium
