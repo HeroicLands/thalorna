@@ -20,7 +20,7 @@ data:
   affiliations: [kngdmlvndr]
   gender: female
   species: humanflk
-  born: 697/3/3
+  born: VR(697/3/3)
   height: 1.7
   weight: 64
   frame: medium

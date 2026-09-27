@@ -15,7 +15,7 @@ data:
   affiliations: [thetamzir, kingdmtrvn]
   gender: female
   species: humanflk
-  born: 685/2/26
+  born: VR(685/2/26)
   height: 1.78
   weight: 72.6
   frame: medium

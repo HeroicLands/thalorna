@@ -20,7 +20,7 @@ data:
   affiliations: [kingdmtrgd]
   gender: male
   species: humanflk
-  born: 670/10/18
+  born: VR(670/10/18)
   height: 1.83
   weight: 74.8
   frame: medium

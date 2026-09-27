@@ -20,7 +20,7 @@ data:
   affiliations: [provinclys]
   gender: female
   species: humanflk
-  born: 691/4/11
+  born: VR(691/4/11)
   height: 1.8
   weight: 67.6
   frame: light

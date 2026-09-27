@@ -6,7 +6,7 @@ subType: calendar
 description: "Vedyara's own reckoning: twelve solar months paired into six seasons and a week of seven gods' days, counted from the standardization of Classical Vedyari under the philosopher-kings of Mādhavendra, with the moon kept beside it in a temple almanac."
 tags: [reference, calendar, vedyara]
 data:
-  epoch: 720/1/1
+  epoch: VR(720/1/1)
   months:
     - {name: Prabhavakāla, days: 30}
     - {name: Pushpakāla, days: 31}
@@ -35,7 +35,7 @@ data:
     - {name: Hiranyaritu, monthStart: 7, monthEnd: 8}
     - {name: Shitaritu, monthStart: 9, monthEnd: 10}
     - {name: Tamraritu, monthStart: 11, monthEnd: 12}
-  eras: [{shortcode: madhavendra, name: The Mādhavendra Count, abbreviation: M, start: -480}]
+  eras: [{shortcode: madhavendra, name: The Mādhavendra Count, abbreviation: M, start: VR(-480)}]
   dateFormats: {short: "D MMM", long: "D MMMM, G Y", full: "D MMMM, G Y", yearLabel: "G Y"}
   packFolder: vedyara
 ---

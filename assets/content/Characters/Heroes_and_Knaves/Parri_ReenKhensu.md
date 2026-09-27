@@ -21,7 +21,7 @@ data:
   affiliations: [empirtkhpr]
   gender: male
   species: humanflk
-  born: 670/9/3
+  born: VR(670/9/3)
   height: 1.73
   weight: 67.1
   frame: heavy

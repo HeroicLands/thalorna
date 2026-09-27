@@ -20,7 +20,7 @@ data:
   affiliations: [kingdomlgn]
   gender: female
   species: humanflk
-  born: 688/4/29
+  born: VR(688/4/29)
   height: 1.7
   weight: 64.9
   frame: light

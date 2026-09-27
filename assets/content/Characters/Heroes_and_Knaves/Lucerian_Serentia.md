@@ -15,7 +15,7 @@ data:
   affiliations: [thetamzir, vylarinmpr]
   gender: male
   species: humanflk
-  born: 693/10/8
+  born: VR(693/10/8)
   height: 1.78
   weight: 72.6
   frame: medium

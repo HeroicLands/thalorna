@@ -20,7 +20,7 @@ data:
   affiliations: [provinclys, ordoarcanis]
   gender: male
   species: humanflk
-  born: 686/3/28
+  born: VR(686/3/28)
   height: 1.88
   weight: 86.2
   frame: medium

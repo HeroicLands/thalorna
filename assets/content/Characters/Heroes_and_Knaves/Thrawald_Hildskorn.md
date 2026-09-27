@@ -14,7 +14,7 @@ data:
   affiliations: [blckpnwlvs, vrystwldtrbs]
   gender: male
   species: humanflk
-  born: 678/6/14
+  born: VR(678/6/14)
   height: 1.91
   weight: 102.1
   frame: heavy

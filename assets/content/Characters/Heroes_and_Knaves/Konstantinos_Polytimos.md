@@ -20,7 +20,7 @@ data:
   affiliations: [byzarianlg]
   gender: male
   species: humanflk
-  born: 686/3/8
+  born: VR(686/3/8)
   height: 1.78
   weight: 75.3
   frame: medium

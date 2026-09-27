@@ -14,7 +14,7 @@ data:
   affiliations: [kalihara]
   gender: male
   species: humanflk
-  born: 686/3/15
+  born: VR(686/3/15)
   height: 1.83
   weight: 71.7
   frame: medium

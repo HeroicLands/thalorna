@@ -21,7 +21,7 @@ data:
   affiliations: [empirtkhpr]
   gender: female
   species: humanflk
-  born: 693/3/22
+  born: VR(693/3/22)
   height: 1.78
   weight: 72.6
   frame: light
