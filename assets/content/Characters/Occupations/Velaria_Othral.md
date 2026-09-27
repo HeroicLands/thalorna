@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Priest
   stations: []
-  lore: [elavendriclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: elavendriclt
   homes: [elavendre]
   affiliations: [kngdmlvndr]
   gender: female

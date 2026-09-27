@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Nobility (Manor Lord)
   stations: []
-  lore: [aelwythanclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: aelwythanclt
   homes: [aelwyth]
   affiliations: [kngdmldrth]
   gender: male

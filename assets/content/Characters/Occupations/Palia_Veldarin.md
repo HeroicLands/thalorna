@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Domestic Servant
   stations: []
-  lore: [elavendriclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: elavendriclt
   homes: [elavendre]
   affiliations: [kngdmlvndr]
   gender: female

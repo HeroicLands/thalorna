@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Yeoman Infantry
   stations: []
-  lore: [tarvenanclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: tarvenanclt
   homes: [tarvenirgn]
   affiliations: [kingdmtrvn]
   gender: male

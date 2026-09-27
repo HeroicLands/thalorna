@@ -9,7 +9,8 @@ data:
   archetypes: []
   occupation: Mercantyler (Supercargo)
   stations: []
-  lore: [aelwythanclt, landedlordrnk]
+  lore: [landedlordrnk]
+  culture: aelwythanclt
   homes: [aelwyth]
   affiliations: [repblctrvn]
   gender: male

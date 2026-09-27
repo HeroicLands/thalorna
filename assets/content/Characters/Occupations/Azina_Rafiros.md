@@ -9,7 +9,8 @@ data:
   archetypes: []
   occupation: Embalmer
   stations: []
-  lore: [helioniteclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: helioniteclt
   homes: [helionis]
   affiliations: [theradon]
   gender: female

@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Bodyguard
   stations: []
-  lore: [tarvenanclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: tarvenanclt
   homes: [tarvenirgn]
   affiliations: [kingdmtrvn]
   gender: male

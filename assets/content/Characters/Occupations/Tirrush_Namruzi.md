@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Glassworker
   stations: []
-  lore: [haradianclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: haradianclt
   homes: [haradregin]
   affiliations: [cnfdrtnhrdnstts]
   gender: male

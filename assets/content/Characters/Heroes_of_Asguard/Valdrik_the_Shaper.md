@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Alchemist and Scholar
   stations: []
-  lore: [nordheimnclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: nordheimnclt
   homes: [vrystwald]
   affiliations: [vrystwldtrbs]
   gender: male

@@ -9,7 +9,8 @@ data:
   archetypes: []
   occupation: Huscarl
   stations: []
-  lore: [aelwythanclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: aelwythanclt
   homes: [aelwyth]
   affiliations: [kngdmldrth]
   gender: male

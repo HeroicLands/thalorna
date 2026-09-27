@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Farmer
   stations: []
-  lore: [aelwythanclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: aelwythanclt
   homes: [aelwyth]
   affiliations: [kngdmldrth]
   gender: female

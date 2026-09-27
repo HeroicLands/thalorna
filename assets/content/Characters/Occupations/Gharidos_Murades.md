@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Longshoreman
   stations: []
-  lore: [helioniteclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: helioniteclt
   homes: [helionis]
   affiliations: [korinthea]
   gender: male

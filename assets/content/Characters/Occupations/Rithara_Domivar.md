@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Common Seaman
   stations: []
-  lore: [tarvenanclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: tarvenanclt
   homes: [tarvenirgn]
   affiliations: [kingdmtrvn]
   gender: female

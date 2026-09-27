@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Pilot
   stations: []
-  lore: [tarvenanclt, landedlordrnk]
+  lore: [landedlordrnk]
+  culture: tarvenanclt
   homes: [tarvenirgn]
   affiliations: [kingdmtrvn]
   gender: female

@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Town Guard
   stations: []
-  lore: [helioniteclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: helioniteclt
   homes: [helionis]
   affiliations: [athenikos]
   gender: male

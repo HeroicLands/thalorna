@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Courtesan and Power Broker
   stations: []
-  lore: [nordheimnclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kngdmnrdhm]
   gender: female

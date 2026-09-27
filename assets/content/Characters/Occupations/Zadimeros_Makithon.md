@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Cartographer/Artist
   stations: []
-  lore: [helioniteclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: helioniteclt
   homes: [helionis]
   affiliations: [thyrenae]
   gender: male

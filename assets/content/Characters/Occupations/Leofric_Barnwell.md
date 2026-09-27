@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Physician
   stations: []
-  lore: [aelwythanclt, landedlordrnk]
+  lore: [landedlordrnk]
+  culture: aelwythanclt
   homes: [aelwyth]
   affiliations: [kngdmldrth]
   gender: male

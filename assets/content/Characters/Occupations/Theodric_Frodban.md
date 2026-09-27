@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Miner
   stations: []
-  lore: [varokhiclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: varokhiclt
   homes: [vrystwald]
   affiliations: [vrystwldtrbs]
   gender: male

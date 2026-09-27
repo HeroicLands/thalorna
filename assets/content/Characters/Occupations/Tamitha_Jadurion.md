@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Mason
   stations: []
-  lore: [helioniteclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: helioniteclt
   homes: [helionis]
   affiliations: [pelagora]
   gender: female

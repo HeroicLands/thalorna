@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Noblewoman / Head of House Cárdeth
   stations: []
-  lore: [elavendriclt, landedlordrnk]
+  lore: [landedlordrnk]
+  culture: elavendriclt
   homes: [elavendre]
   affiliations: [kngdmlvndr]
   gender: female

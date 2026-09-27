@@ -9,7 +9,8 @@ data:
   archetypes: []
   occupation: Man-at-Arms (Sapper)
   stations: []
-  lore: [haradianclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: haradianclt
   homes: [haradregin]
   affiliations: [cnfdrtnhrdnstts]
   gender: male

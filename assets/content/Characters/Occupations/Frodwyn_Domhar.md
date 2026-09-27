@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Scholar
   stations: []
-  lore: [varokhiclt, landedlordrnk]
+  lore: [landedlordrnk]
+  culture: varokhiclt
   homes: [vrystwald]
   affiliations: [vrystwldtrbs]
   gender: female

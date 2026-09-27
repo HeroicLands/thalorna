@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Beggar
   stations: []
-  lore: [aelwythanclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: aelwythanclt
   homes: [aelwyth]
   affiliations: [kingdmdnvr]
   gender: male

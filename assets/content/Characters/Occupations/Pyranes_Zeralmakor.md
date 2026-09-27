@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Cartographer/Artist
   stations: []
-  lore: [vylarianclt, landedlordrnk]
+  lore: [landedlordrnk]
+  culture: vylarianclt
   homes: [vylariargn]
   affiliations: [vylarinmpr]
   gender: male

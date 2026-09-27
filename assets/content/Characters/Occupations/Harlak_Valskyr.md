@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Animal Trainer
   stations: []
-  lore: [provenzianclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: provenzianclt
   homes: [provenzrgn]
   affiliations: [kngdmprvnz]
   gender: male

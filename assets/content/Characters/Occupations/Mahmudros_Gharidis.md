@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Hideworker
   stations: []
-  lore: [helioniteclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: helioniteclt
   homes: [helionis]
   affiliations: [pelagora]
   gender: male

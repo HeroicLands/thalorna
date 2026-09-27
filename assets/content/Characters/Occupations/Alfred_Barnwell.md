@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Alchemist
   stations: []
-  lore: [aelwythanclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: aelwythanclt
   homes: [aelwyth]
   affiliations: [kngdmldrth]
   gender: male

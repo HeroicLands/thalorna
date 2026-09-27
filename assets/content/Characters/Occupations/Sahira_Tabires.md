@@ -9,7 +9,8 @@ data:
   archetypes: []
   occupation: Scribe
   stations: []
-  lore: [helioniteclt, landedlordrnk]
+  lore: [landedlordrnk]
+  culture: helioniteclt
   homes: [helionis]
   affiliations: [pelagora]
   gender: female

@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Man-at-Arms
   stations: []
-  lore: [helioniteclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: helioniteclt
   homes: [helionis]
   affiliations: [athenikos]
   gender: male

@@ -9,7 +9,8 @@ data:
   archetypes: []
   occupation: Man-at-Arms
   stations: []
-  lore: [byzarianclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: byzarianclt
   homes: [byzariargn]
   affiliations: [byzarianlg]
   gender: male

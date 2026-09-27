@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Yeoman Archer
   stations: []
-  lore: [nordheimnclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kngdmnrdhm]
   gender: male

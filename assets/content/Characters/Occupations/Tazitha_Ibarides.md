@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Charcoaler
   stations: []
-  lore: [helioniteclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: helioniteclt
   homes: [helionis]
   affiliations: [pelagora]
   gender: female

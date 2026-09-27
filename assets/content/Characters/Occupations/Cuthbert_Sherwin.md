@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Woodcutter
   stations: []
-  lore: [aelwythanclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: aelwythanclt
   homes: [aelwyth]
   affiliations: [repblctrvn]
   gender: male

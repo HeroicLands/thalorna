@@ -9,7 +9,8 @@ data:
   archetypes: []
   occupation: Mercantyler
   stations: []
-  lore: [provenzianclt, landedlordrnk]
+  lore: [landedlordrnk]
+  culture: provenzianclt
   homes: [provenzrgn]
   affiliations: [kngdmprvnz]
   gender: male

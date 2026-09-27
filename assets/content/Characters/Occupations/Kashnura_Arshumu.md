@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Chandler
   stations: []
-  lore: [haradianclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: haradianclt
   homes: [haradregin]
   affiliations: [cnfdrtnhrdnstts]
   gender: female

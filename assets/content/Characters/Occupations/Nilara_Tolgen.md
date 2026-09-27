@@ -9,7 +9,8 @@ data:
   archetypes: []
   occupation: Yeoman Archer
   stations: []
-  lore: [provenzianclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: provenzianclt
   homes: [provenzrgn]
   affiliations: [kngdmprvnz]
   gender: female

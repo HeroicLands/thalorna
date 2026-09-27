@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Prostitute
   stations: []
-  lore: [helioniteclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: helioniteclt
   homes: [helionis]
   affiliations: [theradon]
   gender: female

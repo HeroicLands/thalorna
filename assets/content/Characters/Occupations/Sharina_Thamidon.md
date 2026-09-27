@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Miner
   stations: []
-  lore: [helioniteclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: helioniteclt
   homes: [helionis]
   affiliations: [athenikos]
   gender: female

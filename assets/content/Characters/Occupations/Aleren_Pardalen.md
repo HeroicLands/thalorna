@@ -9,7 +9,8 @@ data:
   archetypes: []
   occupation: Shaman
   stations: []
-  lore: [elavendriclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: elavendriclt
   homes: [elavendre]
   affiliations: [kngdmlvndr]
   gender: male

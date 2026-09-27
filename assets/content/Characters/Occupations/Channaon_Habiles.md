@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Timberwright
   stations: []
-  lore: [helioniteclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: helioniteclt
   homes: [helionis]
   affiliations: [thyrenae]
   gender: male

@@ -9,7 +9,8 @@ data:
   archetypes: []
   occupation: Weaponcrafter (Armorer)
   stations: []
-  lore: [haradianclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: haradianclt
   homes: [haradregin]
   affiliations: [cnfdrtnhrdnstts]
   gender: female

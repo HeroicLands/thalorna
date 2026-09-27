@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Wanderer and Warrior
   stations: []
-  lore: [nordheimnclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: nordheimnclt
   homes: [vrystwald]
   affiliations: [vrystwldtrbs]
   gender: female

@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Nobility (Tenant-in-chief)
   stations: []
-  lore: [helioniteclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: helioniteclt
   homes: [helionis]
   affiliations: [kostaros2]
   gender: male

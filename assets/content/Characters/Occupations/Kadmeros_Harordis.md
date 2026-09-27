@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Woodcrafter
   stations: []
-  lore: [vylarianclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: vylarianclt
   homes: [vylariargn]
   affiliations: [vylarinmpr]
   gender: male

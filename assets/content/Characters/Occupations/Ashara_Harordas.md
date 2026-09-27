@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Swordmaster
   stations: []
-  lore: [vylarianclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: vylarianclt
   homes: [vylariargn]
   affiliations: [vylarinmpr]
   gender: female
