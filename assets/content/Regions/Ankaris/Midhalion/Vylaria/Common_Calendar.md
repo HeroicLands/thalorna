@@ -27,6 +27,7 @@ data:
       abbreviation: AF
       proclaimedBy: vylarinmpr
       start: 1
+  dateFormats: {short: "D MMM", long: "D MMMM, Y G", full: "D MMMM, Y GGGG", yearLabel: "Y G"}
   packFolder: vylaria
 ---
 

@@ -22,6 +22,7 @@ data:
     - {name: Twelfth, days: 30}
     - {name: The Intercalary Festival, days: 5}
   weekdays: []
+  dateFormats: {short: "D MMM", long: "D MMMM, Y", full: "D MMMM, Y", yearLabel: "Y"}
   packFolder: khazryndesert
 ---
 

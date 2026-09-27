@@ -26,6 +26,11 @@ data:
     - {name: Akhet, monthStart: 1, monthEnd: 4}
     - {name: Peret, monthStart: 5, monthEnd: 8}
     - {name: Shemu, monthStart: 9, monthEnd: 12}
+  dateFormats:
+    short: "D MMM"
+    long: "D MMMM, Y"
+    full: "D MMMM [in the] QQQQ, Y"
+    yearLabel: "[Year] Y"
   packFolder: takheperu
 ---
 
