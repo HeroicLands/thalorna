@@ -55,7 +55,7 @@ data:
   domains: []
   population: null
   economy: []
-  lore: [soulspirts]
+  lore: []
   parents: [varakpnthn]
   relations:
     varakpnthn: aligned
@@ -118,5 +118,4 @@ The gap belongs to the household, not to the court. A family that will not have 
 - [[affiliation-kalavrata|Kālavrata]]—the Gatekeeper, who is not petitioned
 - [[affiliation-varakpnthn|Varnaka Pantheon]]—the cycle-gods
 - [[affiliation-trimurtisampradaya|Council of the Triyācāryas]]—which licenses the practice
-- [[lore-soulspirts|Souls and Spirits]]—the transit, and why coercion is the line
 - [[affiliation-chayavrata|The Chaya-vrata]]—whose work the question is the likeliest thing to undo

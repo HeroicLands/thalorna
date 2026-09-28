@@ -11,7 +11,7 @@ data:
     kind: discovery
     depth: world
     when: {year: -330, precision: year}
-    sources: [decided-midhalion, decided-chronology, place-theradon2, lore-soulspirts]
+    sources: [decided-midhalion, decided-chronology, place-theradon2, doc-soulspirts]
     summary: >-
       A Helionite mage-warlord of Therádon kills dragons and, at the transit of death, takes their souls and binds them into sealed jars. The Republic takes Therádon in the war's early years, takes his workshop with it, and carries the jars away. A dragon cannot be threatened with its body: it is a mortal creature of vast Aura, and its dead belong in the ancestor pool that is its totem and its afterlife at once. What the Republic now holds is the one thing in the world that can be held over a dragon, and it is still holding it.
     standing: single-source
@@ -53,7 +53,7 @@ data:
 
 Dragons are mortal. They are not gods and not spirits: they are creatures of the material plane with
 real bodies, long lives and souls of vast scale, and when they die their souls transit to the spirit
-realm like anybody else's. The [[lore-soulspirts|transit of death]] is the most dangerous window in a
+realm like anybody else's. The transit of death is the most dangerous window in a
 soul's existence, and a soul pulled back out of it and bound to a corporeal medium is not where it
 should be and cannot get to where it should be.
 

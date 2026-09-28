@@ -69,5 +69,4 @@ Bāthür Hürtzhük's ascent has been fueled by a combination of political insta
 # See Also
 
 - [[being-teitjekvngyrt|Tëitjëk Vëngyürt]]—The exiled general whose rebellion could align with Bāthür's ambitions
-- [[lore-extrnlthrts|External Threats]]—Other military threats to the empire
 - [[affiliation-tanvurempr|Empire of Tānvür]]—The power he presses against

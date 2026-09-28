@@ -506,12 +506,5 @@ Several practical consequences follow from the cosmology established here.
 
 - [[being-damut|Damut]]—The driven one: the mindless undead
 
-- [[lore-soulspirts|Souls and Spirits]]—The underlying cosmology of souls, the spirit realm, death and transit, and related material
-
-- [[lore-magictruth|Magic Truth]]—The metaphysics of magic, Aura, frameworks, and thin places
-
-- [[lore-godsrelign|Gods and Religion]]—Priestly thaumaturgy, including the framework-magic effective against the undead
-
-- [[lore-divineactn|Divine Action]]—Divine agents, including those that may be involved in tereb creation in some traditions
 -
 -
