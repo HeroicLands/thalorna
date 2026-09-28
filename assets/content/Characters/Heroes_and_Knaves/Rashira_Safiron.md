@@ -16,6 +16,7 @@ data:
   occupation: Grammatíssa (Records-Keeper)
   stations: []
   lore: [commonerrnk]
+  culture: bethuanclt
   homes: [bethuargn]
   affiliations: [mtrrchybth]
   gender: female

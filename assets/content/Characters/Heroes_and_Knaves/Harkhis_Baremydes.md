@@ -16,6 +16,7 @@ data:
   occupation: Apothecary
   stations: []
   lore: [commonerrnk]
+  culture: vylarianclt
   homes: [vylariargn]
   affiliations: [provinclys]
   gender: male

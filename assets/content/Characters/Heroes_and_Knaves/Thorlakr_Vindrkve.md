@@ -16,6 +16,7 @@ data:
   occupation: Miner
   stations: []
   lore: [slavernk]
+  culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kngdmnrdhm]
   gender: male

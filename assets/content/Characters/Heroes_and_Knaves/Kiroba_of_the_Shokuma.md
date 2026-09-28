@@ -16,6 +16,7 @@ data:
   occupation: Apothecary
   stations: []
   lore: [landedlordrnk]
+  culture: okharinclt
   homes: [okharisrgn]
   affiliations: [okharis]
   gender: male

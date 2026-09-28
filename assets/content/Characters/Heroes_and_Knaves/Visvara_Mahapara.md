@@ -16,6 +16,7 @@ data:
   occupation: Common Seaman
   stations: []
   lore: [commonerrnk]
+  culture: vedyariclt
   homes: [vedyarargn]
   affiliations: [vyalendra2]
   gender: male

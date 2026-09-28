@@ -16,6 +16,7 @@ data:
   occupation: Chieftain
   stations: []
   lore: [commonerrnk]
+  culture: dunhariclt
   homes: [dunhardsrtrgn]
   affiliations: [dunhartrbs]
   gender: male

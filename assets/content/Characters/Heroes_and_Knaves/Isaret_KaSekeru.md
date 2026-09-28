@@ -17,6 +17,7 @@ data:
   occupation: Intelligence Agent
   stations: []
   lore: [commonerrnk]
+  culture: khepericlt
   homes: [takheperurgn]
   affiliations: [empirtkhpr]
   gender: female

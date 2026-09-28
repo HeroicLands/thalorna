@@ -16,6 +16,7 @@ data:
   occupation: Miner
   stations: []
   lore: [commonerrnk]
+  culture: vedyariclt
   homes: [vedyarargn]
   affiliations: [dhnrktjnpd]
   gender: male

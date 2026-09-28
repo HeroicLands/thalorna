@@ -16,6 +16,7 @@ data:
   archetypes: []
   stations: []
   lore: []
+  culture: haradianclt
   homes: [ashkabel2]
   affiliations: [ashkabel]
 ---

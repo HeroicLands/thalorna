@@ -10,6 +10,7 @@ data:
   occupation: Astrologer
   stations: []
   lore: [commonerrnk]
+  culture: dunhariclt
   homes: [amradadrgn]
   affiliations: [sultntmrdd]
   gender: male

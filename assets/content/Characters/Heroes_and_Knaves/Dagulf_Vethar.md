@@ -10,6 +10,7 @@ data:
   occupation: Brigand
   stations: []
   lore: [slavernk]
+  culture: varokhiclt
   homes: [vrystwald]
   affiliations: [blckpnwlvs, vrystwldtrbs]
   gender: male

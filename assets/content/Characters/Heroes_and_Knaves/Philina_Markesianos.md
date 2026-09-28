@@ -16,6 +16,7 @@ data:
   occupation: Hideworker
   stations: []
   lore: [commonerrnk]
+  culture: byzarianclt
   homes: [byzariargn]
   affiliations: [byzarianlg]
   gender: female

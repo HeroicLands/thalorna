@@ -17,6 +17,7 @@ data:
   occupation: Yeoman Archer
   stations: []
   lore: [commonerrnk]
+  culture: khepericlt
   homes: [takheperurgn]
   affiliations: [empirtkhpr]
   gender: female

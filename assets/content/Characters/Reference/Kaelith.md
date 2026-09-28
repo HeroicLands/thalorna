@@ -10,6 +10,7 @@ data:
   archetypes: []
   stations: []
   lore: []
+  culture: byzarianclt
   homes: [byzariargn]
   affiliations: [byzarianlg]
 ---

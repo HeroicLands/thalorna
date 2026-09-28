@@ -17,6 +17,7 @@ data:
   occupation: Caravan Guard
   stations: []
   lore: [commonerrnk]
+  culture: khepericlt
   homes: [takheperurgn]
   affiliations: [empirtkhpr]
   gender: female

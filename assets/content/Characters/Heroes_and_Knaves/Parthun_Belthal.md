@@ -10,6 +10,7 @@ data:
   occupation: Bureaucrat
   stations: []
   lore: [commonerrnk]
+  culture: elavendriclt
   homes: [elavendre]
   affiliations: [kngdmlvndr]
   gender: male

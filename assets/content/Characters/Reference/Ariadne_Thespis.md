@@ -16,6 +16,7 @@ data:
   archetypes: []
   stations: []
   lore: []
+  culture: helioniteclt
   homes: [thyrenae2]
   affiliations: [thyrenae]
 ---

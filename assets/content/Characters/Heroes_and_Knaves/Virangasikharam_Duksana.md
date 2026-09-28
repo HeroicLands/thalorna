@@ -16,6 +16,7 @@ data:
   occupation: Nobility (Manor Lord)
   stations: []
   lore: [landedlordrnk]
+  culture: vedyariclt
   homes: [vedyarargn]
   affiliations: [suvrgrjnpd]
   gender: male

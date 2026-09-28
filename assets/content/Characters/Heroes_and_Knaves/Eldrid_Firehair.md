@@ -16,6 +16,7 @@ data:
   occupation: Shipwright
   stations: []
   lore: [commonerrnk]
+  culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kingdmnrgd]
   gender: male

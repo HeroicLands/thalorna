@@ -10,6 +10,7 @@ data:
   occupation: Mercenary Captain
   stations: []
   lore: [landedlordrnk]
+  culture: provenzianclt
   homes: [provenzrgn]
   affiliations: [slntlncmpny, kngdmprvnz]
   gender: male

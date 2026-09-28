@@ -16,6 +16,7 @@ data:
   occupation: Bodyguard
   stations: []
   lore: [commonerrnk]
+  culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kngdmvthgrd]
   gender: male

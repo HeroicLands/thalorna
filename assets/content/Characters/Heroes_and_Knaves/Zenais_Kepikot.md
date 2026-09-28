@@ -16,6 +16,7 @@ data:
   occupation: Animal Trainer
   stations: []
   lore: [commonerrnk]
+  culture: byzarianclt
   homes: [byzariargn]
   affiliations: [byzarianlg]
   gender: female

@@ -10,6 +10,7 @@ data:
   occupation: Charcoaler
   stations: []
   lore: [commonerrnk]
+  culture: kaliharanclt
   homes: [kaliharargn]
   affiliations: [kalihara]
   gender: male

@@ -16,6 +16,7 @@ data:
   occupation: Innkeeper
   stations: []
   lore: [commonerrnk]
+  culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kngdmnrdhm]
   gender: male

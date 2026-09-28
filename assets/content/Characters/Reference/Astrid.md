@@ -10,5 +10,6 @@ data:
   archetypes: []
   stations: []
   lore: []
+  culture: helioniteclt
   homes: [helionis]
 ---

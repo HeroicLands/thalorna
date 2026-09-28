@@ -10,6 +10,7 @@ data:
   occupation: Toymaker
   stations: []
   lore: [commonerrnk]
+  culture: elavendriclt
   homes: [elavendre]
   affiliations: [kngdmlvndr]
   gender: female

@@ -16,6 +16,7 @@ data:
   occupation: Weaponcrafter (Armorer)
   stations: []
   lore: [commonerrnk]
+  culture: khazrynclt
   homes: [khzryndsrtrgn]
   affiliations: [khzrncnfdrtn]
   gender: female

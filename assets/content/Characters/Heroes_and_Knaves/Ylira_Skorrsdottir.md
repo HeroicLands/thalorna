@@ -11,6 +11,7 @@ data:
   occupation: Warrior
   stations: []
   lore: [commonerrnk]
+  culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [thetamzir, kngdmnrdhm]
   gender: female

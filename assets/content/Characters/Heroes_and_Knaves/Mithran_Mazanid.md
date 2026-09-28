@@ -10,6 +10,7 @@ data:
   occupation: Herder
   stations: []
   lore: [commonerrnk]
+  culture: dunhariclt
   homes: [amradadrgn]
   affiliations: [sultntmrdd]
   gender: male

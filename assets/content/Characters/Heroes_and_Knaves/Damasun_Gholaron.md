@@ -11,6 +11,7 @@ data:
   occupation: Priest
   stations: []
   lore: [commonerrnk]
+  culture: helioniteclt
   homes: [helionis]
   affiliations: [thetamzir, ctysttshlns]
   gender: male

@@ -10,6 +10,7 @@ data:
   occupation: Astrologer
   stations: []
   lore: [commonerrnk]
+  culture: kaliharanclt
   homes: [kaliharargn]
   affiliations: [kalihara]
   gender: female

@@ -16,6 +16,7 @@ data:
   archetypes: []
   stations: []
   lore: []
+  culture: helioniteclt
   homes: [pelagora2]
   affiliations: [pelagora]
 ---

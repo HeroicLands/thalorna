@@ -11,6 +11,7 @@ data:
   occupation: Alchemist
   stations: []
   lore: [commonerrnk]
+  culture: khepericlt
   homes: [takheperurgn]
   affiliations: [empirtkhpr]
   gender: female

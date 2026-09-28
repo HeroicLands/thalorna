@@ -16,6 +16,7 @@ data:
   occupation: Intelligence Officer
   stations: []
   lore: [commonerrnk]
+  culture: vylarianclt
   homes: [vylariargn]
   affiliations: [vylarinmpr]
   gender: female

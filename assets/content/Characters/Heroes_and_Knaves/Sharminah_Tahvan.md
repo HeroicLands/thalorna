@@ -16,6 +16,7 @@ data:
   occupation: Priest
   stations: []
   lore: [commonerrnk]
+  culture: khazrynclt
   homes: [khzryndsrtrgn]
   affiliations: [tribestrzd]
   gender: female

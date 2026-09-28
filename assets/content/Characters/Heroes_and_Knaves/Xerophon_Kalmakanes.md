@@ -16,6 +16,7 @@ data:
   occupation: Gaoler
   stations: []
   lore: [commonerrnk]
+  culture: vylarianclt
   homes: [vylariargn]
   affiliations: [provncmktr]
   gender: male

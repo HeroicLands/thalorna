@@ -11,6 +11,7 @@ data:
   occupation: First Mate
   stations: []
   lore: [commonerrnk]
+  culture: tarvenanclt
   homes: [tarvenirgn]
   affiliations: [thetamzir, kingdmtrvn]
   gender: female

@@ -10,6 +10,7 @@ data:
   archetypes: []
   stations: []
   lore: []
+  culture: nordheimnclt
   homes: [targud]
   affiliations: [kingdmtrgd]
 ---

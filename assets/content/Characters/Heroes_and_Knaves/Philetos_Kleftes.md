@@ -16,6 +16,7 @@ data:
   occupation: Scholar
   stations: []
   lore: [commonerrnk]
+  culture: vylarianclt
   homes: [vylariargn]
   affiliations: [provinclys]
   gender: male

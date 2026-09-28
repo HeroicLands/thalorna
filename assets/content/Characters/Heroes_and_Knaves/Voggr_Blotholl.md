@@ -10,6 +10,7 @@ data:
   occupation: Woodcutter
   stations: []
   lore: [commonerrnk]
+  culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kngdmnrdhm]
   gender: male

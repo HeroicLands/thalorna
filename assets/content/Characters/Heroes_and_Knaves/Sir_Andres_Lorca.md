@@ -16,6 +16,7 @@ data:
   occupation: Nobility (Knight Bachelor)
   stations: []
   lore: [landedlordrnk]
+  culture: tarvenanclt
   homes: [tarvenirgn]
   affiliations: [kingdmtrvn]
   gender: male

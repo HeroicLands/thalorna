@@ -11,6 +11,7 @@ data:
   occupation: Physician
   stations: []
   lore: [gentryrnk]
+  culture: vylarianclt
   homes: [vylariargn]
   affiliations: [thetamzir, vylarinmpr]
   gender: male

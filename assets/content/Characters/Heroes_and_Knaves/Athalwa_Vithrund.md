@@ -16,6 +16,7 @@ data:
   occupation: Chieftain
   stations: []
   lore: [commonerrnk]
+  culture: varokhiclt
   homes: [vrystwald]
   affiliations: [vrystwldtrbs]
   gender: female

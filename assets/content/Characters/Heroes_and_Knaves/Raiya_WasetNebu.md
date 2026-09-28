@@ -17,6 +17,7 @@ data:
   occupation: Nobility (Courtier)
   stations: []
   lore: [landedlordrnk]
+  culture: khepericlt
   homes: [takheperurgn]
   affiliations: [empirtkhpr]
   gender: female

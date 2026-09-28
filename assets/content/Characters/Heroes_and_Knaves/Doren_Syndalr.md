@@ -10,6 +10,7 @@ data:
   occupation: Mercenary
   stations: []
   lore: [commonerrnk]
+  culture: provenzianclt
   homes: [provenzrgn]
   affiliations: [slntlncmpny, kngdmprvnz]
   gender: male

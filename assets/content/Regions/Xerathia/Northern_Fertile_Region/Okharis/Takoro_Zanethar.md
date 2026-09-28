@@ -9,6 +9,7 @@ data:
   occupation: king
   stations: []
   lore: [landedlordrnk]
+  culture: okharinclt
   homes: [okharisrgn]
   affiliations: [okharis]
   gender: male

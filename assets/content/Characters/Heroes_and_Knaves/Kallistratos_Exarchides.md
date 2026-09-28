@@ -16,6 +16,7 @@ data:
   occupation: Mage (Fire)
   stations: []
   lore: [landedlordrnk]
+  culture: vylarianclt
   homes: [vylariargn]
   affiliations: [provinclys, ordoarcanis]
   gender: male

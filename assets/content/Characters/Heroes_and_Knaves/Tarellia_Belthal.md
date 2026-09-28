@@ -16,6 +16,7 @@ data:
   occupation: Astrologer
   stations: []
   lore: [commonerrnk]
+  culture: elavendriclt
   homes: [elavendre]
   affiliations: [kngdmlvndr]
   gender: female

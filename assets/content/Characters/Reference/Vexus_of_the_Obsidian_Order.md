@@ -15,5 +15,6 @@ data:
   archetypes: []
   stations: []
   lore: []
+  culture: elavendriclt
   homes: [elavendre]
 ---

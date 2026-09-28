@@ -16,6 +16,7 @@ data:
   occupation: Hunter
   stations: []
   lore: [commonerrnk]
+  culture: nyalubaclt
   homes: [sthrnsvnhs]
   affiliations: [nylbtrblntn]
   gender: male

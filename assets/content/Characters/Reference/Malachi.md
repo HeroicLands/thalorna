@@ -10,6 +10,7 @@ data:
   archetypes: []
   stations: []
   lore: []
+  culture: helioniteclt
   homes: [korinthea2]
   affiliations: [korinthea]
 ---

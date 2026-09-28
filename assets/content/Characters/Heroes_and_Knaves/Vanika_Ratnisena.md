@@ -16,6 +16,7 @@ data:
   occupation: Cook
   stations: []
   lore: [commonerrnk]
+  culture: vedyariclt
   homes: [vedyarargn]
   affiliations: [rajaprjnpd]
   gender: female

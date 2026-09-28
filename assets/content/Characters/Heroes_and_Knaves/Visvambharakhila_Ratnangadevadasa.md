@@ -16,6 +16,7 @@ data:
   occupation: Chandler
   stations: []
   lore: [commonerrnk]
+  culture: vedyariclt
   homes: [vedyarargn]
   affiliations: [chandrapur]
   gender: male

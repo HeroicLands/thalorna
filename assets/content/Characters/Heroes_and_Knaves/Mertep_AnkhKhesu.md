@@ -17,6 +17,7 @@ data:
   occupation: Domestic Servant
   stations: []
   lore: [commonerrnk]
+  culture: khepericlt
   homes: [takheperurgn]
   affiliations: [empirtkhpr]
   gender: female

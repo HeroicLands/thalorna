@@ -11,6 +11,7 @@ data:
   occupation: Shipwright
   stations: []
   lore: [commonerrnk]
+  culture: haradianclt
   homes: [haradregin]
   affiliations: [thetamzir, cnfdrtnhrdnstts]
   gender: female

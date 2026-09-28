@@ -16,6 +16,7 @@ data:
   occupation: Toymaker
   stations: []
   lore: [commonerrnk]
+  culture: vedyariclt
   homes: [vedyarargn]
   affiliations: [chandrapur]
   gender: female

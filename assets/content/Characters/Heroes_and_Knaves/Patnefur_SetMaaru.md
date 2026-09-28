@@ -17,6 +17,7 @@ data:
   occupation: Perfumer
   stations: []
   lore: [commonerrnk]
+  culture: khepericlt
   homes: [takheperurgn]
   affiliations: [empirtkhpr]
   gender: male

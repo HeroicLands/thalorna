@@ -16,6 +16,7 @@ data:
   occupation: Yeoman Infantry
   stations: []
   lore: [commonerrnk]
+  culture: byzarianclt
   homes: [byzariargn]
   affiliations: [byzarianlg]
   gender: male

@@ -16,6 +16,7 @@ data:
   occupation: Mercantyler
   stations: []
   lore: [commonerrnk]
+  culture: bethuanclt
   homes: [bethuargn]
   affiliations: [mtrrchybth]
   gender: female

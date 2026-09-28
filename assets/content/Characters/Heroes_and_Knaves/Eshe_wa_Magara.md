@@ -16,6 +16,7 @@ data:
   occupation: Swordmaster
   stations: []
   lore: [commonerrnk]
+  culture: okharinclt
   homes: [okharisrgn]
   affiliations: [okharis]
   gender: female

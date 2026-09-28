@@ -10,5 +10,6 @@ data:
   archetypes: []
   stations: []
   lore: []
+  culture: elavendriclt
   homes: [silvain]
 ---

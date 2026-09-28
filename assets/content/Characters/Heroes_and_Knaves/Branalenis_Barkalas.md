@@ -16,6 +16,7 @@ data:
   occupation: Common Seaman
   stations: []
   lore: [commonerrnk]
+  culture: vylarianclt
   homes: [vylariargn]
   affiliations: [provinclys]
   gender: female

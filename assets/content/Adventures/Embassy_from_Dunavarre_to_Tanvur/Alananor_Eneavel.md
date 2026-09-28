@@ -9,6 +9,7 @@ data:
   occupation: Alchemist
   stations: []
   lore: []
+  culture: aelwythanclt
   homes: []
   affiliations: [kingdmdnvr]
   gender: male

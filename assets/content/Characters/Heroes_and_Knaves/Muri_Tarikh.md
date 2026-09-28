@@ -10,6 +10,7 @@ data:
   occupation: Caravan Guard
   stations: []
   lore: [commonerrnk]
+  culture: kaliharanclt
   homes: [kaliharargn]
   affiliations: [kalihara]
   gender: male

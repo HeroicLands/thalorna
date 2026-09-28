@@ -10,6 +10,7 @@ data:
   occupation: Thatcher
   stations: []
   lore: [commonerrnk]
+  culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kingdomlgn]
   gender: female

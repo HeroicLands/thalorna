@@ -16,5 +16,6 @@ data:
   archetypes: []
   stations: []
   lore: []
+  culture: nordheimnclt
   homes: [greyfjord]
 ---

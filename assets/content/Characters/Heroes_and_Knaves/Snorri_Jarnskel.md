@@ -16,6 +16,7 @@ data:
   occupation: Farmer
   stations: []
   lore: [slavernk]
+  culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kngdmnrdhm]
   gender: male

@@ -16,6 +16,7 @@ data:
   occupation: Woodcrafter
   stations: []
   lore: [commonerrnk]
+  culture: vylarianclt
   homes: [vylariargn]
   affiliations: [hlykngdmnrtm]
   gender: male

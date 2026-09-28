@@ -10,6 +10,7 @@ data:
   occupation: Pilot
   stations: []
   lore: [commonerrnk]
+  culture: dunhariclt
   homes: [amradadrgn]
   affiliations: [sultntmrdd]
   gender: male

@@ -11,6 +11,7 @@ data:
   occupation: Sellsword
   stations: []
   lore: [commonerrnk]
+  culture: varokhiclt
   homes: [vrystwald]
   affiliations: [thetamzir, vrystwldtrbs]
   gender: male

@@ -16,6 +16,7 @@ data:
   occupation: Domestic Servant
   stations: []
   lore: [slavernk]
+  culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kingdomlgn]
   gender: female

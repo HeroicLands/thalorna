@@ -16,6 +16,7 @@ data:
   occupation: Perfumer
   stations: []
   lore: [commonerrnk]
+  culture: byzarianclt
   homes: [byzariargn]
   affiliations: [byzarianlg]
   gender: male

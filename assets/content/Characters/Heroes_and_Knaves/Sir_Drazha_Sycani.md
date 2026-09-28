@@ -16,6 +16,7 @@ data:
   occupation: Nobility (Knight Bachelor)
   stations: []
   lore: [landedlordrnk]
+  culture: byzarianclt
   homes: [byzariargn]
   affiliations: [byzarianlg]
   gender: male

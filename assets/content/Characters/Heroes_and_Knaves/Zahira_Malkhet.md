@@ -16,6 +16,7 @@ data:
   occupation: Bounty Hunter
   stations: []
   lore: [commonerrnk]
+  culture: bethuanclt
   homes: [bethuargn]
   affiliations: [mtrrchybth]
   gender: female

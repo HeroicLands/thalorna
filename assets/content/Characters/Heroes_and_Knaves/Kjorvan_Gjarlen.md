@@ -16,6 +16,7 @@ data:
   occupation: Ostler
   stations: []
   lore: [commonerrnk]
+  culture: provenzianclt
   homes: [provenzrgn]
   affiliations: [kngdmprvnz]
   gender: male

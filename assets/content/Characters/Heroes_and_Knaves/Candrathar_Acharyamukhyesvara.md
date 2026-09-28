@@ -16,6 +16,7 @@ data:
   occupation: Apothecary
   stations: []
   lore: [commonerrnk]
+  culture: vedyariclt
   homes: [vedyarargn]
   affiliations: [rajaprjnpd]
   gender: male

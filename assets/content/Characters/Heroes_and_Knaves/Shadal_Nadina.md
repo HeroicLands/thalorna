@@ -10,6 +10,7 @@ data:
   occupation: Scribe
   stations: []
   lore: [commonerrnk]
+  culture: kaliharanclt
   homes: [kaliharargn]
   affiliations: [kalihara]
   gender: male

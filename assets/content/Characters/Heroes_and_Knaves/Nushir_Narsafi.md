@@ -10,6 +10,7 @@ data:
   occupation: Chandler
   stations: []
   lore: [commonerrnk]
+  culture: khazrynclt
   homes: [khzryndsrtrgn]
   affiliations: [khzrncnfdrtn]
   gender: female

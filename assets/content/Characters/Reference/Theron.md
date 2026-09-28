@@ -10,6 +10,7 @@ data:
   archetypes: []
   stations: []
   lore: []
+  culture: aelwythanclt
   homes: [greywater]
   affiliations: [byzarianlg]
 ---

@@ -16,6 +16,7 @@ data:
   occupation: Skald
   stations: []
   lore: [commonerrnk]
+  culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kingdmtrgd]
   gender: male

@@ -16,6 +16,7 @@ data:
   occupation: Jeweller
   stations: []
   lore: [commonerrnk]
+  culture: dunhariclt
   homes: [amradadrgn]
   affiliations: [sultntmrdd]
   gender: female

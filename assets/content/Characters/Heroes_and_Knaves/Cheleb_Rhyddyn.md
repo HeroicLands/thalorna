@@ -10,6 +10,7 @@ data:
   occupation: Hunter / Scout
   stations: []
   lore: [commonerrnk]
+  culture: provenzianclt
   homes: [provenzrgn]
   affiliations: [slntlncmpny, kngdmprvnz]
   gender: male

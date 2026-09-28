@@ -16,6 +16,7 @@ data:
   occupation: Mercenary
   stations: []
   lore: [commonerrnk]
+  culture: byzarianclt
   homes: [byzariargn]
   affiliations: [byzarianlg]
   gender: female

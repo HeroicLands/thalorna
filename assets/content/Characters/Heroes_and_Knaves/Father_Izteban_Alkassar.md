@@ -16,6 +16,7 @@ data:
   occupation: Priest
   stations: []
   lore: [landedlordrnk]
+  culture: tarvenanclt
   homes: [tarvenirgn]
   affiliations: [kingdmtrvn]
   gender: male

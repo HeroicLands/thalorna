@@ -16,6 +16,7 @@ data:
   occupation: Yeoman Infantry
   stations: []
   lore: [commonerrnk]
+  culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kingdomlgn]
   gender: male

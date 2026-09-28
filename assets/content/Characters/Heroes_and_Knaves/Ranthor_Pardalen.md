@@ -16,6 +16,7 @@ data:
   occupation: Shaman
   stations: []
   lore: [commonerrnk]
+  culture: elavendriclt
   homes: [elavendre]
   affiliations: [kngdmlvndr]
   gender: male

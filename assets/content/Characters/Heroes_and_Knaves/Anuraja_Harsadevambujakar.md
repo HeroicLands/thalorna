@@ -16,6 +16,7 @@ data:
   occupation: Assassin
   stations: []
   lore: [commonerrnk]
+  culture: vedyariclt
   homes: [vedyarargn]
   affiliations: [chandrapur]
   gender: male

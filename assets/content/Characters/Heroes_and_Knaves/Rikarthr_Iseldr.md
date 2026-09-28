@@ -16,6 +16,7 @@ data:
   occupation: Mage (Spirit)
   stations: []
   lore: [commonerrnk]
+  culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kngdmvthgrd]
   gender: male

@@ -17,6 +17,7 @@ data:
   occupation: null
   stations: []
   lore: []
+  culture: khepericlt
   homes: [takheperurgn]
   affiliations: [empirtkhpr]
   gender: female

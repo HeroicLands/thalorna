@@ -16,6 +16,7 @@ data:
   occupation: Fool
   stations: []
   lore: [commonerrnk]
+  culture: vedyariclt
   homes: [vedyarargn]
   affiliations: [rajaprjnpd]
   gender: female

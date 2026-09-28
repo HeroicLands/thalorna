@@ -16,6 +16,7 @@ data:
   occupation: Herald
   stations: []
   lore: [landedlordrnk]
+  culture: vylarianclt
   homes: [vylariargn]
   affiliations: [vylarinmpr]
   gender: male

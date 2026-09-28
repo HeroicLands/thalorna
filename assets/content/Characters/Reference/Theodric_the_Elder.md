@@ -15,6 +15,7 @@ data:
   archetypes: []
   stations: []
   lore: []
+  culture: nordheimnclt
   homes: [vithgard]
   affiliations: [kngdmvthgrd]
 ---

@@ -17,6 +17,7 @@ data:
   occupation: Nobility (Tenant-in-chief)
   stations: []
   lore: [landedlordrnk]
+  culture: khepericlt
   homes: [takheperurgn]
   affiliations: [empirtkhpr]
   gender: male

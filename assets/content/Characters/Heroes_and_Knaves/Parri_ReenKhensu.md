@@ -17,6 +17,7 @@ data:
   occupation: Scholar
   stations: []
   lore: [commonerrnk]
+  culture: khepericlt
   homes: [takheperurgn]
   affiliations: [empirtkhpr]
   gender: male

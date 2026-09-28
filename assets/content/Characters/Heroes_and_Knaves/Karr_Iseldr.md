@@ -10,6 +10,7 @@ data:
   occupation: Clothier
   stations: []
   lore: [commonerrnk]
+  culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kngdmvthgrd]
   gender: male

@@ -10,6 +10,7 @@ data:
   occupation: Scout / Spy
   stations: []
   lore: [commonerrnk]
+  culture: tarvenanclt
   homes: [tarvenirgn]
   affiliations: [slntlncmpny, kingdmtrvn]
   gender: male

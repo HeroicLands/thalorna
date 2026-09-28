@@ -16,6 +16,7 @@ data:
   occupation: Thespian
   stations: []
   lore: [commonerrnk]
+  culture: vylarianclt
   homes: [vylariargn]
   affiliations: [provnchyln]
   gender: male

@@ -10,6 +10,7 @@ data:
   occupation: Shipwright
   stations: []
   lore: [commonerrnk]
+  culture: tarvenanclt
   homes: [tarvenirgn]
   affiliations: [kingdmtrvn]
   gender: male

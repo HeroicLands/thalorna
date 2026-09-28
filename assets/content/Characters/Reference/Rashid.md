@@ -10,6 +10,7 @@ data:
   archetypes: []
   stations: []
   lore: []
+  culture: kaliharanclt
   homes: [klhrcntnnt]
   affiliations: [kalihara]
 ---

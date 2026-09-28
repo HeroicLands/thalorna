@@ -16,6 +16,7 @@ data:
   occupation: Priest
   stations: []
   lore: [commonerrnk]
+  culture: vylarianclt
   homes: [vylariargn]
   affiliations: [provinclys, blackflame]
   gender: female

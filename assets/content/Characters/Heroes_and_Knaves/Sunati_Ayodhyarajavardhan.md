@@ -16,6 +16,7 @@ data:
   occupation: Courtesan
   stations: []
   lore: [commonerrnk]
+  culture: vedyariclt
   homes: [vedyarargn]
   affiliations: [chandrapur]
   gender: female

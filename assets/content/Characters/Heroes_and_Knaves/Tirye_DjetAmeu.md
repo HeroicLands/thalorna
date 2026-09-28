@@ -17,6 +17,7 @@ data:
   occupation: Thespian
   stations: []
   lore: [commonerrnk]
+  culture: khepericlt
   homes: [takheperurgn]
   affiliations: [empirtkhpr]
   gender: female

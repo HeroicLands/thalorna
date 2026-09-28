@@ -16,6 +16,7 @@ data:
   occupation: Animal Trainer
   stations: []
   lore: [commonerrnk]
+  culture: khazrynclt
   homes: [khzryndsrtrgn]
   affiliations: [khzrncnfdrtn]
   gender: male

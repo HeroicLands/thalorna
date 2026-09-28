@@ -16,6 +16,7 @@ data:
   occupation: Yeoman Archer
   stations: []
   lore: [commonerrnk]
+  culture: vylarianclt
   homes: [vylariargn]
   affiliations: [hlykngdmnrtm]
   gender: male

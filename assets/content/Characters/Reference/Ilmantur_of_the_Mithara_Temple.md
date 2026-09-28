@@ -15,6 +15,7 @@ data:
   archetypes: []
   stations: []
   lore: []
+  culture: dunhariclt
   homes: [amradadrgn]
   affiliations: [sultntmrdd]
 ---

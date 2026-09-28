@@ -15,6 +15,7 @@ data:
   archetypes: []
   stations: []
   lore: []
+  culture: tarvenanclt
   homes: [tarvenirgn]
   affiliations: [kingdmtrvn]
 ---

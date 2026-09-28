@@ -16,6 +16,7 @@ data:
   occupation: Glassworker
   stations: []
   lore: [commonerrnk]
+  culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kngdmvthgrd]
   gender: male

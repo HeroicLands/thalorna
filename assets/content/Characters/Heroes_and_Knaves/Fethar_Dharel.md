@@ -11,6 +11,7 @@ data:
   occupation: Pilot
   stations: []
   lore: [commonerrnk]
+  culture: provenzianclt
   homes: [provenzrgn]
   affiliations: [thetamzir, kngdmprvnz]
   gender: male

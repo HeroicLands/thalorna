@@ -16,6 +16,7 @@ data:
   occupation: Herder
   stations: []
   lore: [commonerrnk]
+  culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kingdmnrgd]
   gender: male

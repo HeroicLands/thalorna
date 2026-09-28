@@ -16,6 +16,7 @@ data:
   occupation: Physician
   stations: []
   lore: [commonerrnk]
+  culture: byzarianclt
   homes: [byzariargn]
   affiliations: [byzarianlg]
   gender: male

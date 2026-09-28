@@ -16,6 +16,7 @@ data:
   occupation: Cartographer/Artist
   stations: []
   lore: [commonerrnk]
+  culture: vedyariclt
   homes: [vedyarargn]
   affiliations: [suvrgrjnpd]
   gender: female

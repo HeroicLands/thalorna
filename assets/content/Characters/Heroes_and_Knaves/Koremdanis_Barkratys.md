@@ -16,6 +16,7 @@ data:
   occupation: Swordmaster
   stations: []
   lore: [commonerrnk]
+  culture: vylarianclt
   homes: [vylariargn]
   affiliations: [provincvld]
   gender: female

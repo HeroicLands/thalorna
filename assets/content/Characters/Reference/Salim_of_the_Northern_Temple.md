@@ -15,5 +15,6 @@ data:
   archetypes: []
   stations: []
   lore: []
+  culture: khazrynclt
   homes: [khzryndsrtrgn]
 ---

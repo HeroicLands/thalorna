@@ -9,6 +9,7 @@ data:
   occupation: Diplomatic Aide
   stations: []
   lore: []
+  culture: aelwythanclt
   homes: []
   affiliations: [kingdmdnvr]
   gender: female

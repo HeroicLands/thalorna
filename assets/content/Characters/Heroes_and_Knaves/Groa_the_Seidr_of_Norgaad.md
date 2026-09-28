@@ -16,6 +16,7 @@ data:
   occupation: Shaman
   stations: []
   lore: [commonerrnk]
+  culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kingdmnrgd]
   gender: female

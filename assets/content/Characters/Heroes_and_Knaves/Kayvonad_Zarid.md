@@ -10,6 +10,7 @@ data:
   occupation: Alchemist
   stations: []
   lore: [commonerrnk]
+  culture: khazrynclt
   homes: [khzryndsrtrgn]
   affiliations: [tribestrzd]
   gender: male

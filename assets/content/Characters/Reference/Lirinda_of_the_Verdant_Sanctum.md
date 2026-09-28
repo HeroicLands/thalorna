@@ -16,6 +16,7 @@ data:
   archetypes: []
   stations: []
   lore: []
+  culture: vylarianclt
   homes: [nartum]
   affiliations: [hlykngdmnrtm]
 ---

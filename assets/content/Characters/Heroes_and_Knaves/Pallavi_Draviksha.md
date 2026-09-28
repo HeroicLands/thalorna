@@ -16,6 +16,7 @@ data:
   occupation: Scribe
   stations: []
   lore: [commonerrnk]
+  culture: vedyariclt
   homes: [vedyarargn]
   affiliations: [vyalendra2]
   gender: female

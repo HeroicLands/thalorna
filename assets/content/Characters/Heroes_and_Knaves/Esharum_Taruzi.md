@@ -11,6 +11,7 @@ data:
   occupation: Ship Captain
   stations: []
   lore: [commonerrnk]
+  culture: haradianclt
   homes: [haradregin]
   affiliations: [thetamzir, cnfdrtnhrdnstts]
   gender: male

@@ -16,6 +16,7 @@ data:
   occupation: Bodyguard
   stations: []
   lore: [commonerrnk]
+  culture: elavendriclt
   homes: [provenzrgn]
   affiliations: [kngdmprvnz]
   gender: female

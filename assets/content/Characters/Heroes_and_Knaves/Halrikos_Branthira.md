@@ -16,6 +16,7 @@ data:
   occupation: Bureaucrat
   stations: []
   lore: [commonerrnk]
+  culture: tarvenanclt
   homes: [tarvenirgn]
   affiliations: [kingdmtrvn]
   gender: male

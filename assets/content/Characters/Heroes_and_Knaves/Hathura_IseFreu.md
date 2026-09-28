@@ -17,6 +17,7 @@ data:
   occupation: Priest
   stations: []
   lore: [landedlordrnk]
+  culture: khepericlt
   homes: [takheperurgn]
   affiliations: [empirtkhpr]
   gender: female

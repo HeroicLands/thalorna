@@ -16,6 +16,7 @@ data:
   occupation: Herald
   stations: []
   lore: [commonerrnk]
+  culture: tarvenanclt
   homes: [tarvenirgn]
   affiliations: [kingdmtrvn]
   gender: female

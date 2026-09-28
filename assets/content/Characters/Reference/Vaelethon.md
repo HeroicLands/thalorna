@@ -10,5 +10,6 @@ data:
   archetypes: []
   stations: []
   lore: []
+  culture: vylarianclt
   homes: [velysara]
 ---

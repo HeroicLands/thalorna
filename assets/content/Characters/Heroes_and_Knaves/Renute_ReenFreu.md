@@ -17,6 +17,7 @@ data:
   occupation: Innkeeper
   stations: []
   lore: [commonerrnk]
+  culture: khepericlt
   homes: [takheperurgn]
   affiliations: [empirtkhpr]
   gender: female

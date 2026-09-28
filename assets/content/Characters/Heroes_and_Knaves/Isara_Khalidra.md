@@ -11,6 +11,7 @@ data:
   occupation: Courtesan
   stations: []
   lore: [gentryrnk]
+  culture: helioniteclt
   homes: [helionis]
   affiliations: [thetamzir, theradon]
   gender: female

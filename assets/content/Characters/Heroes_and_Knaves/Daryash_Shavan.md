@@ -10,6 +10,7 @@ data:
   occupation: Woodcrafter
   stations: []
   lore: [commonerrnk]
+  culture: dunhariclt
   homes: [amradadrgn]
   affiliations: [sultntmrdd]
   gender: female
