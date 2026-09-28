@@ -7,7 +7,7 @@ tags: [draft]
 data: {packFolder: deitieskemetian}
 ---
 
-![[icon-ptah|Ptā'h]]{float: top-left, size: medium}
+![[icon-ptah|Ptā'h]]{float=top-left size=medium}
 
 _Shaper of the Eternal World—a chisel carving a star._
 

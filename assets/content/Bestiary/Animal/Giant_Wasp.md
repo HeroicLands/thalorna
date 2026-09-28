@@ -236,7 +236,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[gntwsp|Giant Wasp]]{float: top-left}
+![[gntwsp|Giant Wasp]]{float=top-left}
 
 The buzzing starts as a distant drone that grows steadily louder, filling the air with a sound that makes your teeth ache. Then it appears: a creature the size of a large dog, striped in vivid black and yellow in a pattern that screams warning. The wings beat in a blur of motion that seems physically impossible, generating a hum that vibrates in your chest. The body is sleek and predatory, segmented and armored, and the stinger—wickedly barbed, dripping with clear venom—extends downward like a curved sword. The mandibles click and snap, and the creature's rapid, erratic flight patterns make it nearly impossible to track. You have the sudden, primal conviction that you are a direct threat to something that will not hesitate to respond with absolute violence.
 

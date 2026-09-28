@@ -9,6 +9,7 @@ data:
   occupation: null
   stations: []
   lore: []
+  culture: aelwythanclt
   homes: []
   affiliations: [repblctrvn]
   gender: male

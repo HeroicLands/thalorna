@@ -245,7 +245,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[rckbckbr|Rockback Bear]]{float: top-left}
+![[rckbckbr|Rockback Bear]]{float=top-left}
 
 The massive form rises from the underbrush, and suddenly the forest itself seems too small. Shaggy dark fur ripples across a muscular frame as the creature stands, towering above you, its breath forming clouds of mist. But it is the patches of rough, stone-like protrusions along its back and shoulders that capture your attention—as if the bear itself is part-stone, part-flesh, something caught between two states of being. The small, dark eyes burn with an intensity that belies their size, and the sound that emerges is somewhere between a growl and the scraping of stone on stone. Its massive paws flex, and you see the claws—dark, curved, and long as daggers—score deep gouges in the rock beneath its feet.
 

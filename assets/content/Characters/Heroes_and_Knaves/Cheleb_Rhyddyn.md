@@ -10,11 +10,12 @@ data:
   occupation: Hunter / Scout
   stations: []
   lore: [commonerrnk]
+  culture: provenzianclt
   homes: [provenzrgn]
   affiliations: [slntlncmpny, kngdmprvnz]
   gender: male
   species: humanflk
-  born: VR(688/8/20)
+  born: 688.233
   height: 1.8
   weight: 70
   frame: light
@@ -409,7 +410,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[chlbrhydyn|Chéleb Rhýddýn]]{float: top-left}
+![[chlbrhydyn|Chéleb Rhýddýn]]{float=top-left}
 
 Chéleb ("KA-leb") is a lithe, wiry man of thirty-two with pale, weather-tanned skin, dark brown hair tied back with a leather thong, and watchful hazel eyes. Often cloaked in green and brown for camouflage, he has the stillness of a man who has spent most of his life in the wilderness. He moves through terrain—any terrain—with a quiet sureness that makes him almost invisible when he chooses to be.
 

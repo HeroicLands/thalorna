@@ -17,11 +17,12 @@ data:
   occupation: Innkeeper
   stations: []
   lore: [commonerrnk]
+  culture: khepericlt
   homes: [takheperurgn]
   affiliations: [empirtkhpr]
   gender: female
   species: humanflk
-  born: VR(688/2/8)
+  born: 688.38
   height: 1.7
   weight: 86.6
   frame: light
@@ -433,7 +434,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[renuternfr|Renutê Re'en'Fréu]]{float: top-left}
+![[renuternfr|Renutê Re'en'Fréu]]{float=top-left}
 
 Renutê stands 5'7" tall with a light build. She has dark skin, black hair, and dark brown eyes. Her features include a high-cheekboned face, a straight narrow nose, a gentle jawline, generous lips, dark brows, and angular cheeks.
 

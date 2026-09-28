@@ -16,11 +16,12 @@ data:
   occupation: Gaoler
   stations: []
   lore: [commonerrnk]
+  culture: vylarianclt
   homes: [vylariargn]
   affiliations: [provncmktr]
   gender: male
   species: humanflk
-  born: VR(681/5/18)
+  born: 681.140
   height: 1.8
   weight: 78
   frame: medium
@@ -419,7 +420,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[xrphnklmkns|Xerôphôn Kâlmâkanês]]{float: top-left}
+![[xrphnklmkns|Xerôphôn Kâlmâkanês]]{float=top-left}
 
 Xerôphôn stands 5'11" tall with a medium build. He has tanned weathered skin, dark brown hair, and green eyes. His features include a narrow face, a hawkish nose, an angular jawline, a wide mouth, dark brows, and sculpted cheeks. He has a scar on his left ear.
 

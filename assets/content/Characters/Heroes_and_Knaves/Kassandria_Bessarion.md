@@ -16,11 +16,12 @@ data:
   occupation: Mage (Lore)
   stations: []
   lore: [commonerrnk]
+  culture: byzarianclt
   homes: [byzariargn]
   affiliations: [byzarianlg]
   gender: female
   species: humanflk
-  born: VR(683/9/4)
+  born: 683.247
   height: 1.65
   weight: 60.8
   frame: light
@@ -422,7 +423,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[kasndrbsrn|Kassándria Bessarîon]]{float: top-left}
+![[kasndrbsrn|Kassándria Bessarîon]]{float=top-left}
 
 Kassándria stands 5'5" tall with a light build. She has warm olive skin, black hair, and brown eyes. Her features include a diamond-shaped face, an aquiline nose, a pronounced chin, strong brows, and sculpted cheeks.
 

@@ -28,7 +28,7 @@ The interior is crossed by a network of ancient trails and old stone trackways w
 
 ## Polities
 
-```sql :allow-empty
+```sql {allow-empty=true}
 SELECT address.slug AS _ref,
        name.full    AS "Polity",
        description  AS "Overview"

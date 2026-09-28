@@ -243,7 +243,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[acidtoad|Acidtoad]]{float: top-left}
+![[acidtoad|Acidtoad]]{float=top-left}
 
 The water ahead begins to bubble and steam. A bloated, warty form emerges from beneath the scum—prehistoric, bulbous, its massive body swollen as if overfilled with something vile. Sickly green-yellow skin glistens where it isn't covered in mucus that hisses and pops as it drips onto stone. Its mouth yawns wide, and the stench of old rot mixed with something acrid makes your eyes stream. Where its saliva spatters, stone and wood char.
 

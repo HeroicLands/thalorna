@@ -16,11 +16,12 @@ data:
   occupation: Mage (Healing)
   stations: []
   lore: [commonerrnk]
+  culture: byzarianclt
   homes: [byzariargn]
   affiliations: [byzarianlg]
   gender: male
   species: humanflk
-  born: VR(678/10/12)
+  born: 678.286
   height: 1.75
   weight: 64.9
   frame: medium
@@ -420,7 +421,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[angldsptrks|Ángelides Patrikîos]]{float: top-left}
+![[angldsptrks|Ángelides Patrikîos]]{float=top-left}
 
 Ángelides stands 5'9" tall with a medium build. He has light weathered skin, brown hair, and green eyes. His features include a long face, a strong nose, a pronounced chin, an expressive mouth, expressive brows, and prominent cheeks.
 

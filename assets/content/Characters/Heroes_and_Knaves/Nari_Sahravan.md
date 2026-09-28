@@ -16,11 +16,12 @@ data:
   occupation: Shaman
   stations: []
   lore: [commonerrnk]
+  culture: khazrynclt
   homes: [khzryndsrtrgn]
   affiliations: [khzrncnfdrtn]
   gender: female
   species: humanflk
-  born: VR(687/7/15)
+  born: 687.198
   height: 1.65
   weight: 59
   frame: light
@@ -418,7 +419,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[narisahrvn|Nari Sahravân]]{float: top-left}
+![[narisahrvn|Nari Sahravân]]{float=top-left}
 
 Nari stands 5'5" tall with a light build. She has bronzed skin, dark hair, and brown eyes. Her features include an oblong face, a prominent nose, a narrow chin, slightly pursed lips, and heavy brows. A distinguishing mark is a small scar on one cheek.
 

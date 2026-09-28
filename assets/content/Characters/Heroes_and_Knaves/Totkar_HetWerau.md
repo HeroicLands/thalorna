@@ -17,11 +17,12 @@ data:
   occupation: Litigant
   stations: []
   lore: [commonerrnk]
+  culture: khepericlt
   homes: [takheperurgn]
   affiliations: [empirtkhpr]
   gender: male
   species: humanflk
-  born: VR(672/9/17)
+  born: 672.260
   height: 1.78
   weight: 66.7
   frame: heavy
@@ -420,7 +421,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[totkarhtwr|Totkar Het'Werau]]{float: top-left}
+![[totkarhtwr|Totkar Het'Werau]]{float=top-left}
 
 Totkar stands 5'10" tall with a heavy build. He has tawny skin, graying black hair, and green-brown eyes. His features include a diamond-shaped face, a prominent nose, a narrow chin, generous lips, high-set brows, and angular cheeks. He has a tattoo of a leaf on his wrist.
 

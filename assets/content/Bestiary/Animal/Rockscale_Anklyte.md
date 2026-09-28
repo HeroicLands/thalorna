@@ -277,7 +277,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[rcksclan|Rockscale Anklyte]]{float: top-left}
+![[rcksclan|Rockscale Anklyte]]{float=top-left}
 
 The ground beneath your feet sends a warning first—a deep, subsonic vibration that you feel more than hear, resonating in your chest and bones. The creature rises slowly from the terrain it was indistinguishable from moments before, its rough, stone-like scales shedding dust and gravel as it shifts its massive weight. The eyes open—a dim, faintly luminescent red that seems to glow from within the skull—and fix upon you with an unsettling awareness. The air itself seems to thicken as the creature's presence expands, and you catch the acrid smell of something sulfurous and mineral, ancient and wrong. A low growl emerges, and the ground trembles in response.
 

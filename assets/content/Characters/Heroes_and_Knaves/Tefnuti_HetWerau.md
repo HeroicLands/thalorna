@@ -17,11 +17,12 @@ data:
   occupation: Toymaker
   stations: []
   lore: [commonerrnk]
+  culture: khepericlt
   homes: [takheperurgn]
   affiliations: [empirtkhpr]
   gender: male
   species: humanflk
-  born: VR(669/6/27)
+  born: 669.179
   height: 1.78
   weight: 69.4
   frame: medium
@@ -429,7 +430,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[tefnuthtwr|Tefnutî Het'Werau]]{float: top-left}
+![[tefnuthtwr|Tefnutî Het'Werau]]{float=top-left}
 
 Tefnutî stands 5'10" tall with a medium build. He has warm amber skin, gray hair, and brown eyes. His features include an oval face, a noble nose, a smooth jawline, an expressive mouth, fine brows, and angular cheeks.
 

@@ -11,11 +11,12 @@ data:
   occupation: First Mate
   stations: []
   lore: [commonerrnk]
+  culture: tarvenanclt
   homes: [tarvenirgn]
   affiliations: [thetamzir, kingdmtrvn]
   gender: female
   species: humanflk
-  born: VR(685/2/26)
+  born: 685.56
   height: 1.78
   weight: 72.6
   frame: medium
@@ -405,7 +406,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[slvrvlskyr|Sélvara Válskyr]]{float: top-left}
+![[slvrvlskyr|Sélvara Válskyr]]{float=top-left}
 
 Sélvara Válskyr is a striking woman—tall, dark-skinned, and built with the lean, hard muscle of a career soldier. Her brown hair is kept short and practical, and her hazel eyes hold a steady, assessing gaze that has unnerved far larger opponents. She moves with the quiet precision of someone who has spent years navigating both battlefields and heaving ship decks, and her bearing carries an unmistakable military authority. She dresses practically in a leather vest over simple cloth, with a short sword and battleaxe within easy reach. A fine roundshield, battered but well-maintained, hangs from a strap across her back when trouble is expected.
 

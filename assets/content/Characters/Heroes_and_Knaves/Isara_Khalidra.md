@@ -11,11 +11,12 @@ data:
   occupation: Courtesan
   stations: []
   lore: [gentryrnk]
+  culture: helioniteclt
   homes: [helionis]
   affiliations: [thetamzir, theradon]
   gender: female
   species: humanflk
-  born: VR(693/10/26)
+  born: 693.300
   height: 1.73
   weight: 62.6
   frame: light
@@ -402,7 +403,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[isarakhldr|Isâra Khalîdra]]{float: top-left}
+![[isarakhldr|Isâra Khalîdra]]{float=top-left}
 
 Isâra Khalîdra is beautiful in the way that a finely crafted instrument is beautiful—with purpose and precision behind every line. She is tall and slender, with rich brown hair that falls in carefully maintained waves, hazel eyes that shift between warmth and calculation with mercurial speed, and a complexion that seems untouched by the harshness of shipboard life. She moves with a dancer's grace, carries herself with effortless poise, and possesses a speaking voice of extraordinary beauty—low, musical, and utterly commanding. She dresses in silk and velvet even aboard the Tamzîr, maintaining an island of elegance amid the ship's general squalor. A superb dagger, its handle set with semiprecious stones, is the only concession to her surroundings.
 

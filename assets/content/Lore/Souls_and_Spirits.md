@@ -1,9 +1,9 @@
 ---
 shortcode: soulspirts
 name: {full: The Truth of Souls, aliases: [Souls (GM), The Spirit Realm]}
-type: lore
-subType: cosmology
-tags: [lore, souls, spirits, gm-only, secret, metaphysics]
+type: doc
+subType: settingguide
+tags: [souls, spirits, metaphysics, gm]
 data: {packFolder: settinglore}
 ---
 
@@ -216,7 +216,7 @@ The realm's predator population is not static. Predators eat each other, are kil
 
 **The Fae and Other Cross-Planar Visitors.** Beings native to other planes who have come to Thalorna's material plane via thin places. They occupy regions of the spirit realm corresponding to their cross-planar connections—sometimes establishing waypoints there, sometimes simply transiting through.
 
-**Spirit-Agents and Demi-Divine Entities.** Agents of the gods, as developed in [[lore-divineactn#agents-of-the-gods|Divine Action]]. They are spirit-realm natives (or partially so) who serve their patron deities. Their cosmological treatment is given in that document; here it is enough to note that they are part of the realm's population and routinely move through it.
+**Spirit-Agents and Demi-Divine Entities.** Agents of the gods, as developed in [[doc-divineactn#agents-of-the-gods|Divine Action]]. They are spirit-realm natives (or partially so) who serve their patron deities. Their cosmological treatment is given in that document; here it is enough to note that they are part of the realm's population and routinely move through it.
 
 **Elementals (Between Manifestations).** Elementals reside in the spirit realm between their manifestations into the material plane. Their treatment is below.
 
@@ -355,7 +355,7 @@ More skillful animation seeks to retrieve the soul intact (or nearly so) and bin
 
 ### What Necromancy Costs the Practitioner
 
-The cosmology does not impose automatic soul damage on the practitioner of necromancy. A necromancer's own soul is not eroded by the work itself, in metaphysical terms. The cosmology of Thalorna is generally non-moralistic at the metaphysical level; good and evil are cultural categories, not features of the cosmos's accounting (see [[lore-godsrelign#order-and-chaos-are-objective-good-and-evil-are-not|Gods and Religion]]).
+The cosmology does not impose automatic soul damage on the practitioner of necromancy. A necromancer's own soul is not eroded by the work itself, in metaphysical terms. The cosmology of Thalorna is generally non-moralistic at the metaphysical level; good and evil are cultural categories, not features of the cosmos's accounting (see [[doc-godsrelign#order-and-chaos-are-objective-good-and-evil-are-not|Gods and Religion]]).
 
 What the necromancer does pay:
 
@@ -449,8 +449,8 @@ Several practical implications follow from the cosmology established here.
 
 ## See Also
 
-- [[lore-magictruth|Magic Truth]]—The underlying metaphysics of magic, Aura, frameworks, and thin places
-- [[lore-godsrelign|Gods and Religion]]—What religions are, the four mechanisms of divine effect, blessings, curses, the Sacred Forge / Black Flame example
-- [[lore-divineactn|Divine Action]]—How the gods engage with the world through agents, the Balance, divine intelligence, the Heroic Age
+- [[doc-magictruth|Magic Truth]]—The underlying metaphysics of magic, Aura, frameworks, and thin places
+- [[doc-godsrelign|Gods and Religion]]—What religions are, the four mechanisms of divine effect, blessings, curses, the Sacred Forge / Black Flame example
+- [[doc-divineactn|Divine Action]]—How the gods engage with the world through agents, the Balance, divine intelligence, the Heroic Age
 - [[lore-undead|Undead]]—The undead in detail: damutu, terebu, their creation, their politics, and practical guidance for running them
 - Foreign_Traditions_Comparative—_(GM-only, forthcoming)_ How each non-Ordo magical tradition channels the potential, including priestly traditions

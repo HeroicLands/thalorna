@@ -16,11 +16,12 @@ data:
   occupation: Cook
   stations: []
   lore: [commonerrnk]
+  culture: vedyariclt
   homes: [vedyarargn]
   affiliations: [rajaprjnpd]
   gender: female
   species: humanflk
-  born: VR(679/2/27)
+  born: 679.57
   height: 1.78
   weight: 73
   frame: medium
@@ -420,7 +421,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[vanikartns|Vànika Ratnisena]]{float: top-left}
+![[vanikartns|Vànika Ratnisena]]{float=top-left}
 
 Vànika stands 5'10" tall with a medium build. She has warm wheat skin, deep black hair, and dark amber eyes. Her features include a heart-shaped face, a broad nose, a small chin, a wide mouth, heavy brows, and full cheeks.
 

@@ -16,11 +16,12 @@ data:
   occupation: Weaponcrafter (Armorer)
   stations: []
   lore: [commonerrnk]
+  culture: khazrynclt
   homes: [khzryndsrtrgn]
   affiliations: [khzrncnfdrtn]
   gender: female
   species: humanflk
-  born: VR(687/4/16)
+  born: 687.107
   height: 1.73
   weight: 70.8
   frame: medium
@@ -417,7 +418,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[afzndhprnzr|Afzandah Parnâzar]]{float: top-left}
+![[afzndhprnzr|Afzandah Parnâzar]]{float=top-left}
 
 Afzandah stands 5'8" tall with a medium build. She has golden olive skin, dark black hair, and green eyes. Her features include an oval face, a strong nose, a pointed chin, slightly pursed lips, arched brows, and angular cheeks. She has a scar on her left ankle.
 

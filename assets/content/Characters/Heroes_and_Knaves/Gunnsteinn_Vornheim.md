@@ -16,11 +16,12 @@ data:
   occupation: Bodyguard
   stations: []
   lore: [commonerrnk]
+  culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kngdmvthgrd]
   gender: male
   species: humanflk
-  born: VR(685/6/30)
+  born: 685.182
   height: 1.88
   weight: 88
   frame: heavy
@@ -417,7 +418,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[gnstnvrnhm|Gunnsteinn Vörnheim]]{float: top-left}
+![[gnstnvrnhm|Gunnsteinn Vörnheim]]{float=top-left}
 
 Gunnsteinn stands 6'2" tall with a heavy build. He has tanned weathered skin, dark brown hair, and blue eyes. His features include a narrow face, an aquiline nose, a broad chin, a slightly downturned mouth, and dark brows. He has a scar on his right forearm.
 

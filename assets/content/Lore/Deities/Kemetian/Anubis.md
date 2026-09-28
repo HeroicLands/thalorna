@@ -7,7 +7,7 @@ tags: [draft]
 data: {packFolder: deitieskemetian}
 ---
 
-![[icon-anubis|Ánubís]]{float: top-left, size: medium}
+![[icon-anubis|Ánubís]]{float=top-left size=medium}
 
 _The Keeper of Transitions—a jackal's head cradling a crescent moon._
 

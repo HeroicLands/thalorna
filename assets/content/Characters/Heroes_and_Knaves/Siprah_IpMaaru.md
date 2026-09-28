@@ -17,11 +17,12 @@ data:
   occupation: Locksmith
   stations: []
   lore: [commonerrnk]
+  culture: khepericlt
   homes: [takheperurgn]
   affiliations: [empirtkhpr]
   gender: male
   species: humanflk
-  born: VR(680/4/14)
+  born: 680.105
   height: 1.73
   weight: 67.6
   frame: medium
@@ -423,7 +424,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[siprahipmr|Siprah Ip'Maâru]]{float: top-left}
+![[siprahipmr|Siprah Ip'Maâru]]{float=top-left}
 
 Siprah stands 5'8" tall with a medium build. He has dark skin, deep black hair, and brown eyes. His features include a straight narrow nose, a narrow chin, and elegantly curved brows. He has a tattoo of a knight's helmet on his shoulder.
 

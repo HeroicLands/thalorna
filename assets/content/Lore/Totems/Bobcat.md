@@ -8,7 +8,7 @@ tags: [totem, archetype]
 data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
-![[icon-bobcattotem|Bobcat]]{float: top-left, size: medium}
+![[icon-bobcattotem|Bobcat]]{float=top-left size=medium}
 
 Secretive and cautious, bobcats are elusive hunters, using their stealth and patience to silently stalk and ambush their prey.
 

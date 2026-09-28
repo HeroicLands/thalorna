@@ -137,7 +137,6 @@ Jürthāt's greatest military advantage is its navy. Island geography forced the
 
 ## See Also
 
-- [[lore-extrnlthrts|External Threats]]—Tānvür's view of Jürthāt as a military threat
 - [[affiliation-tanvurempr|Empire of Tānvür]]—The mainland empire from which Jürthāt broke away
 - [[lore-zeisik|Law and Honor]]—The Tānvür tradition of Zëisīk, ancestor of Jürthāt's Rëitsīk
 - [[lore-celestlrdr|Celestial Order]]—The shared religious framework, divergently interpreted

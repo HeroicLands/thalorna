@@ -16,11 +16,12 @@ data:
   occupation: Shaman
   stations: []
   lore: [commonerrnk]
+  culture: elavendriclt
   homes: [elavendre]
   affiliations: [kngdmlvndr]
   gender: male
   species: humanflk
-  born: VR(672/5/16)
+  born: 672.138
   height: 1.75
   weight: 69.9
   frame: medium
@@ -422,7 +423,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[rnthrprdln|Ránthor Párdalen]]{float: top-left}
+![[rnthrprdln|Ránthor Párdalen]]{float=top-left}
 
 Ránthor stands 5'9" tall with a medium build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include a long face, a button nose, a prominent chin, rosy lips, dark brows, and rounded cheeks. He has a tattoo of a crown on his chest.
 

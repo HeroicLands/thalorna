@@ -188,7 +188,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[vrdntcl|Verdantcoil]]{float: top-left}
+![[vrdntcl|Verdantcoil]]{float=top-left}
 
 The branch ahead shifts though there is no wind. You might have missed it—might have thought it nothing but an old bough settling—except you see the scales now, brilliant emerald catching light that should be blocked by the canopy above. The coil tightens around the branch, and the creature raises its head with terrible, slow grace. Eyes like polished jade fixate on you with predatory calculation, and a forked tongue tastes the air, sensing your heat, your fear, your vulnerability. The creature's body is massive—easily thirty feet in length, all coiled muscle and power. Emerald scales shimmer as the creature shifts its position, seeking the best angle for its strike. You hear nothing as it moves—no scrape, no rustle, no warning beyond the sight of that beautiful, terrible head turning to face you with absolute intent.
 

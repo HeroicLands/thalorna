@@ -185,7 +185,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[wbcrwlr|Webcrawler]]{float: top-left}
+![[wbcrwlr|Webcrawler]]{float=top-left}
 
 At first you cannot see it—there is only a shimmer in the air, something that might be dew on near-invisible thread, catching light that should not reach here. Then the spider itself emerges from hiding, and you see it: a creature the size of a human torso, its eight spindly legs moving with predatory grace, its body iridescent black with hints of deep purple and sickly green. The abdomen is grotesquely distended, constantly producing silken thread that glimmers with barely-visible luminescence. Its eyes are many-faceted and glowing, each one fixing on you with intelligent calculation. Fangs like curved needles protrude from its mouth, dripping venom that sizzles and steams when it touches stone. The air around it seems to vibrate with the tension of its web, and what you took for empty air is a labyrinth of nearly invisible threads, and you are already inside it.
 

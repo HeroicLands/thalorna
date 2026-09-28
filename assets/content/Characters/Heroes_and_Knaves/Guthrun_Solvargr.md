@@ -16,11 +16,12 @@ data:
   occupation: Trapper
   stations: []
   lore: [commonerrnk]
+  culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kngdmnrdhm]
   gender: female
   species: humanflk
-  born: VR(690/4/21)
+  born: 690.112
   height: 1.8
   weight: 76.2
   frame: light
@@ -425,7 +426,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[gthrnslvrgr|Guthrún Sólvargr]]{float: top-left}
+![[gthrnslvrgr|Guthrún Sólvargr]]{float=top-left}
 
 Guthrún stands 5'11" tall with a light build. She has light fair skin, brown hair, and green eyes. Her features include an angular face, a long nose, a strong jawline, a slightly downturned mouth, heavy brows, and flat cheeks. She has a tattoo of a skull on her upper arm.
 

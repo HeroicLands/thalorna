@@ -9,6 +9,7 @@ data:
   occupation: Noblewoman
   stations: []
   lore: []
+  culture: aelwythanclt
   homes: []
   affiliations: [kingdmdnvr]
   gender: female

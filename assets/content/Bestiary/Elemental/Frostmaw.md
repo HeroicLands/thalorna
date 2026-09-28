@@ -265,7 +265,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[frostmaw|Frostmaw]]{float: top-left}
+![[frostmaw|Frostmaw]]{float=top-left}
 
 The world stops being warm. What emerges from the blizzard is massive, easily thirty feet in length, a thing of solid ice that catches and refracts light in terrible ways. It is roughly bear-shaped but wrong in proportion, built for strength and destruction rather than natural grace. Its breath is visible as it moves—not mist but crystalline air that spreads cold like a plague. Where its weight settles, the earth becomes brittle and cracks. When it opens its mouth, you see not teeth but formations of ice hanging like stalactites, and the air that flows from it is the breath of a world without sun.
 

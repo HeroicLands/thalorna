@@ -8,7 +8,7 @@ tags: [totem, archetype]
 data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
-![[icon-snaketotem|Snake]]{float: top-left, size: medium}
+![[icon-snaketotem|Snake]]{float=top-left size=medium}
 
 Silent and patient, snakes are stealthy hunters that rely on ambush tactics, waiting motionless for the perfect moment to strike their prey.
 

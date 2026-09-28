@@ -266,7 +266,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[thndrbrd|Thunderbird]]{float: top-left}
+![[thndrbrd|Thunderbird]]{float=top-left}
 
 The sky darkens in a way that has nothing to do with clouds, and the sound hits before sight: a shriek that seems to split reality itself, followed by the deafening crack of thunder that leaves your ears ringing. The shadow that falls across you is impossibly vast, and then you see it clearly: wings spanning scores of feet, dark as midnight with streaks of iridescent blue and silver that shimmer like lightning frozen in feathers. The eyes are burning gold fixed upon you with predatory assessment. The talons visible beneath are the size of a man's hand, curved and terrible. As it banks, the air itself seems to hum with energy, and you understand with immediate and absolute certainty that you are being evaluated as prey by something that exists at the apex of power.
 

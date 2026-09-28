@@ -16,11 +16,12 @@ data:
   occupation: Potter
   stations: []
   lore: [commonerrnk]
+  culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kngdmvthgrd]
   gender: male
   species: humanflk
-  born: VR(680/3/9)
+  born: 680.70
   height: 1.85
   weight: 78.5
   frame: medium
@@ -420,7 +421,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[thrstnfrstlf|Thorsteinn Frostulf]]{float: top-left}
+![[thrstnfrstlf|Thorsteinn Frostulf]]{float=top-left}
 
 Thorsteinn stands 6'1" tall with a medium build. He has tanned weathered skin, black hair, and brown eyes. His features include an oval face, a prominent nose, a prominent chin, a small mouth, straight brows.
 

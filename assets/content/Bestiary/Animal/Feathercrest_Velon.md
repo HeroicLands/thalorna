@@ -243,7 +243,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fthrcrst|Feathercrest Velon]]{float: top-left}
+![[fthrcrst|Feathercrest Velon]]{float=top-left}
 
 A sound cuts through the air—a layered chirping that makes your teeth ache and sets your nerves jangling. Something bright moves at the edge of vision, moving in stuttering, wrong-footed patterns that your eyes cannot quite track. As it turns toward you, a crown of feathers explodes outward from its head in a fan of colors so vivid they seem to burn—iridescent greens and violets that shimmer with an unnatural quality. The creature freezes, head tilted at an angle no neck should allow, watching you with eyes that hold far too much knowing. Then it shrieks again, and the sound echoes strangely—from everywhere and nowhere at once.
 

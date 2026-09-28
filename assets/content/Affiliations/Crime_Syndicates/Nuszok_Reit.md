@@ -131,7 +131,6 @@ This structure has consequences. It makes the cult extraordinarily resistant to 
 
 ## See Also
 
-- [[lore-intrnlsbvrsvthrts|Internal Subversive Threats]]—The Tānvüri overview of destabilizing forces
 - [[affiliation-heklotzhak|Hëk Lōt Zhāk]]—The Black Lotus Society, the cult's transactional ally
 - [[affiliation-hekzhak|Hëk Zhāk]]—The Shadow Sect, the rival subversive organization
 - [[affiliation-nushot|Nüshöt]]—The Unmaker, the cult's primary celestial patron

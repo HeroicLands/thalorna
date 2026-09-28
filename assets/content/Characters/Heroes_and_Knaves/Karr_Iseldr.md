@@ -10,11 +10,12 @@ data:
   occupation: Clothier
   stations: []
   lore: [commonerrnk]
+  culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kngdmvthgrd]
   gender: male
   species: humanflk
-  born: VR(676/10/4)
+  born: 676.278
   height: 1.73
   weight: 60.8
   frame: medium
@@ -417,7 +418,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[karriseldr|Kárr Íseldr]]{float: top-left}
+![[karriseldr|Kárr Íseldr]]{float=top-left}
 
 Kárr stands 5'8" tall with a medium build. He has light fair skin, dark brown hair, and brown eyes. His features include a rectangular face, a straight nose, a strong jawline, a small mouth, and dark brows. He has a scar above his left eyebrow.
 

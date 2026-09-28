@@ -265,7 +265,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[brmblspn|Bramblespine Dartel]]{float: top-left}
+![[brmblspn|Bramblespine Dartel]]{float=top-left}
 
 You hear it before you see it—a rustling like wind through dead branches, accompanied by a faint metallic clicking. The creature lies half-buried in rocky soil, so covered in jagged spines that distinguishing body from ground is difficult at first glance. Its eyes, cold and luminous yellow-green, lock onto yours. The spines begin to twitch faster, a mechanical sound like coins in a drum, and then comes the screech: a high, resonant cry that vibrates in your skull and sets your teeth on edge, reverberating off stone and seeming to come from everywhere at once.
 

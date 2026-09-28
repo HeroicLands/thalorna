@@ -127,7 +127,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[vprwsp|Vaporwisp]]{float: top-left}
+![[vprwsp|Vaporwisp]]{float=top-left}
 
 The fog thickens before your eyes, and within it, something moves—or perhaps the mist itself becomes aware. What you see is barely there: a vague shape, a suggestion of form, lit from within with a pale glow. The temperature drops sharply, and your breath mists in the air. When you look directly at the shape, it seems to blur and shift, refusing to resolve into anything concrete. The only certainty is that you are being observed by something that is not quite present.
 

@@ -284,7 +284,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[tnvrnelp|Tānvüran Elephant]]{float: top-left}
+![[tnvrnelp|Tānvüran Elephant]]{float=top-left}
 
 An impossible vastness approaches, and you understand that you're looking at sheer physical power given form. The elephant moves with surprising grace for its size, its massive gray form calm and purposeful. The domed head gives it a regal appearance, and the trunk curves and flexes with obvious intelligence and control. The tusks, if present on males, are less prominent than you might expect, but the trunk itself is clearly sufficient weapon for any task. The eyes are surprisingly intelligent and aware, suggesting real thought behind the size.
 

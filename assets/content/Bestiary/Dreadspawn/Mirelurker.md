@@ -444,7 +444,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[mrlrkr|Mirelurker]]{float: top-left}
+![[mrlrkr|Mirelurker]]{float=top-left}
 
 The water ahead shivers without cause, and then you see it—or rather, you see the absence of a thing, a void in the shape of something vast moving just beneath the surface. The reek of stagnant water and decaying vegetation floods your senses. A curved carapace breaks the murk, crusted with algae and slime, and then the water erupts as a limb strikes out—chitinous, twisted, impossibly powerful. The sound is wet and horrible, like tearing leather mixed with the click and scrape of insect armor.
 

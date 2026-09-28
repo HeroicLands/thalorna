@@ -10,11 +10,12 @@ data:
   occupation: Courtesan
   stations: []
   lore: [commonerrnk]
+  culture: provenzianclt
   homes: [provenzrgn]
   affiliations: [kngdmprvnz]
   gender: female
   species: humanflk
-  born: VR(688/4/6)
+  born: 688.97
   height: 1.7
   weight: 59.4
   frame: heavy
@@ -409,7 +410,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[kelnstylgn|Kêlena Stýlgon]]{float: top-left}
+![[kelnstylgn|Kêlena Stýlgon]]{float=top-left}
 
 Kêlena stands 5'7" tall with a heavy build. She has golden-toned skin, flowing black hair, and alert eyes. Her features include an angular face, a prominent nose, a pronounced chin, heavy brows, and sculpted cheeks. She has a tattoo of intertwining dark green vines on her right upper arm and shoulder.
 

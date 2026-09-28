@@ -8,7 +8,7 @@ tags: [totem, archetype]
 data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
-![[icon-hawktotem|Hawk]]{float: top-left, size: medium}
+![[icon-hawktotem|Hawk]]{float=top-left size=medium}
 
 Observant and swift, hawks use their sharp vision to spot prey from great distances and strike with incredible speed and accuracy.
 

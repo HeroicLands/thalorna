@@ -16,11 +16,12 @@ data:
   occupation: Mercenary
   stations: []
   lore: [commonerrnk]
+  culture: byzarianclt
   homes: [byzariargn]
   affiliations: [byzarianlg]
   gender: male
   species: humanflk
-  born: VR(675/4/2)
+  born: 675.93
   height: 1.93
   weight: 88.9
   frame: heavy
@@ -418,7 +419,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[arkdsphlmds|Arkádios Philomédis]]{float: top-left}
+![[arkdsphlmds|Arkádios Philomédis]]{float=top-left}
 
 Arkádios stands 6'4" tall with a heavy build. He has tanned weathered skin, black hair, and dark brown eyes. His features include a narrow face, an aquiline nose, a pointed chin, well-defined lips, dark brows, sculpted cheeks. A distinguishing mark is a tattoo of a serpent on the back.
 

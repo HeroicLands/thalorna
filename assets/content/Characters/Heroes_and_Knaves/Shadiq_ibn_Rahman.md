@@ -16,11 +16,12 @@ data:
   occupation: Nobility (Courtier)
   stations: []
   lore: [landedlordrnk]
+  culture: byzarianclt
   homes: [byzariargn]
   affiliations: [byzarianlg]
   gender: male
   species: humanflk
-  born: VR(692/10/12)
+  born: 692.286
   height: 1.83
   weight: 72.6
   frame: light
@@ -429,7 +430,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[shdqbnrhmndplmtcblddncr|Shadiq ibn Rahman, The Diplomatic Blade Dancer]]{float: top-left}
+![[shdqbnrhmndplmtcblddncr|Shadiq ibn Rahman, The Diplomatic Blade Dancer]]{float=top-left}
 
 Shadiq stands 6'0" tall with a light build. He has dark skin, black hair, and dark eyes. His features include an oval face, an aquiline nose, a tapered chin, generous lips, prominent cheeks.
 

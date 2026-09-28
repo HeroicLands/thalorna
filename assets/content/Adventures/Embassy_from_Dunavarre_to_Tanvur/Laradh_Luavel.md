@@ -9,6 +9,7 @@ data:
   occupation: Steward
   stations: []
   lore: []
+  culture: aelwythanclt
   homes: []
   affiliations: [kingdmdnvr]
   gender: male

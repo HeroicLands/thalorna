@@ -8,7 +8,7 @@ tags: [totem, archetype]
 data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
-![[icon-bulltotem|Bull]]{float: top-left, size: medium}
+![[icon-bulltotem|Bull]]{float=top-left size=medium}
 
 Destructive and unpredictable, bulls are powerful animals that can quickly become aggressive, especially when threatened or provoked.
 

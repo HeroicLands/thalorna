@@ -10,11 +10,12 @@ data:
   occupation: Alchemist
   stations: []
   lore: [commonerrnk]
+  culture: elavendriclt
   homes: [elavendre]
   affiliations: [kngdmlvndr]
   gender: male
   species: humanflk
-  born: VR(683/9/21)
+  born: 683.264
   height: 1.78
   weight: 72.6
   frame: light
@@ -427,7 +428,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[sevnmyrkls|Sevion Myrkelis]]{float: top-left}
+![[sevnmyrkls|Sevion Myrkelis]]{float=top-left}
 
 Sevion stands 5'10" tall with a light build. He has pale skin, dark hair, and blue eyes. His features include a round face, a button nose, a gentle jawline, a wide mouth, expressive brows.
 

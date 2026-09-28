@@ -16,11 +16,12 @@ data:
   occupation: Astrologer
   stations: []
   lore: [commonerrnk]
+  culture: elavendriclt
   homes: [elavendre]
   affiliations: [kngdmlvndr]
   gender: female
   species: humanflk
-  born: VR(681/5/3)
+  born: 681.125
   height: 1.68
   weight: 60.3
   frame: light
@@ -427,7 +428,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[tarelblthl|Tárellia Bélthal]]{float: top-left}
+![[tarelblthl|Tárellia Bélthal]]{float=top-left}
 
 Tárellia stands 5'6" tall with a light build. She has light fair skin, dark brown hair, and blue eyes. Her features include a soft-featured face, a narrow nose, a gentle jawline, and dark brows.
 

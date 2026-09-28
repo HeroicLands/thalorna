@@ -9,6 +9,7 @@ data:
   occupation: King
   stations: []
   lore: []
+  culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kingdomlgn]
   gender: male

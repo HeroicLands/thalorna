@@ -185,7 +185,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[duneclaw|Duneclaw]]{float: top-left}
+![[duneclaw|Duneclaw]]{float=top-left}
 
 Sand shifts in ways the wind cannot explain. Something immense lurks just beneath the surface—a shadow that moves with purpose. Then it erupts: an armored scorpion-thing, each segment of its carapace the size of a boulder, its pincers as thick as tree limbs. The stinger curves above its back, black and dripping, and its faceted eyes—clusters of lenses—swivel to track your movement with inhuman intelligence. Hot wind rises from where it emerged, carrying the stench of venom and baked chitin.
 

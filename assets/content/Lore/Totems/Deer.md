@@ -8,7 +8,7 @@ tags: [totem, archetype]
 data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
-![[icon-deertotem|Deer]]{float: top-left, size: medium}
+![[icon-deertotem|Deer]]{float=top-left size=medium}
 
 Alert and elusive, deer are constantly vigilant, using their keen senses to detect danger and flee at the first sign of a threat.
 

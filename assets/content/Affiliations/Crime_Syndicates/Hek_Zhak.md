@@ -148,6 +148,5 @@ Every new member is subjected to an extended evaluation process—years, typical
 - [[lore-venduk|Vëndük]]—The chattel sorcerer caste from which the Sect's members are drawn
 - [[affiliation-ordoarcanis|Ordo Arcanis]]—The external partner, rival, and perpetual potential blackmailer
 - [[affiliation-heklotzhak|Hëk Lōt Zhāk]]—The parallel but ideologically different criminal organization
-- [[lore-intrnlsbvrsvthrts|Internal Subversive Threats]]—Overview of forces working against the imperial order
 - [[lore-castelaws|Caste Laws]]—The legal framework the Sect works to subvert
 - [[affiliation-tanvurempr|Empire of Tānvür]]—The empire whose classification system the Sect ultimately seeks to overthrow

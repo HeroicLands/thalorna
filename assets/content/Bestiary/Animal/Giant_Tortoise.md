@@ -236,7 +236,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[gnttrts|Giant Tortoise]]{float: top-left}
+![[gnttrts|Giant Tortoise]]{float=top-left}
 
 The ground trembles with each step of the creature—a slow, rhythmic vibration that speaks to immense mass. The creature itself is almost unbelievable in size: a tortoise as large as a house, moving with ponderous inevitability across the landscape. The shell dominates the creature—domed and ancient-looking, its surface carved and scarred by centuries of existence, colored in weathered browns and grays with patterns that suggest deep age. The creature's head extends periodically from within, each emergence slow and deliberate, allowing small dark eyes to survey the world with calm patience. The legs are thick as tree trunks, and the sound they make is the sound of the earth itself moving.
 

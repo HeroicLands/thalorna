@@ -16,11 +16,12 @@ data:
   occupation: Timberwright
   stations: []
   lore: [commonerrnk]
+  culture: byzarianclt
   homes: [byzariargn]
   affiliations: [byzarianlg]
   gender: male
   species: humanflk
-  born: VR(667/5/8)
+  born: 667.130
   height: 1.83
   weight: 80.3
   frame: medium
@@ -427,7 +428,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[alyksdrymkt|Alýkos Drymíkot]]{float: top-left}
+![[alyksdrymkt|Alýkos Drymíkot]]{float=top-left}
 
 Alýkos stands 6'0" tall with a medium build. He has light weathered skin, graying brown hair, and hazel eyes. His features include a diamond-shaped face, an aquiline nose, a strong jawline, an expressive mouth, and graying brows.
 

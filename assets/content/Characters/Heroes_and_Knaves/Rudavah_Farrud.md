@@ -10,11 +10,12 @@ data:
   occupation: Ostler
   stations: []
   lore: [commonerrnk]
+  culture: dunhariclt
   homes: [amradadrgn]
   affiliations: [sultntmrdd]
   gender: female
   species: humanflk
-  born: VR(690/3/22)
+  born: 690.83
   height: 1.75
   weight: 67.1
   frame: medium
@@ -421,7 +422,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[rudavahfrd|Rudâvah Farrud]]{float: top-left}
+![[rudavahfrd|Rudâvah Farrud]]{float=top-left}
 
 Rudâvah stands 5'9" tall with a medium build. She has olive-tanned skin, jet black hair, and dark amber eyes. Her features include an oval face, a prominent nose, a narrow chin, well-defined lips, heavy brows, and high cheeks. She has a burn mark on her left hand.
 

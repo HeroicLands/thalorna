@@ -185,7 +185,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[shdwspnn|Shadowspinner]]{float: top-left}
+![[shdwspnn|Shadowspinner]]{float=top-left}
 
 You feel it before you see it—a sudden, terrible weight pressing against your chest as though the very shadows have turned solid and begun to strangle. Then you see them, or rather you see the absence—walls of something too dark to be spider silk, hung from corner to corner of the chamber, blocking light and obscuring sight. And within those walls of woven shadow, a shape moves with predatory grace—a spider the size of a horse, its body armored in gleaming black chitin, its eight eyes burning like poisonous topazes. The sound of its mandibles is the sound of bone breaking, and the silk it trails behind it seems to drink in light itself, leaving darker shadows than the surrounding darkness.
 

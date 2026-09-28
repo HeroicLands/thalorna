@@ -253,7 +253,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[frstgbln|Forest Goblin]]{float: top-left}
+![[frstgbln|Forest Goblin]]{float=top-left}
 
 A shape in the green flickers at the edge of perception. Forest goblins are small, wiry things, three to four feet tall, with skin that shifts between deep green and earthy brown depending on the season. They wear the forest as clothing—leaves woven into garments, feathers braided into wild hair, bark strips forming armor. Their eyes are bright and alert, constantly tracking movement and sound. When they move, they do so with flowing grace, as though the forest itself is merely an extension of their bodies. They seem less like creatures of civilization and more like the forest made aware.
 

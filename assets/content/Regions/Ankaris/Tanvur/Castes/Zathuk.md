@@ -2,7 +2,7 @@
 shortcode: zathuk
 name: {full: Zāthük, aliases: []}
 type: lore
-subType: culture
+subType: law
 data: {packFolder: castes}
 ---
 

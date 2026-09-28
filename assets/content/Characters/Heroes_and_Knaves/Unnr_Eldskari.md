@@ -10,11 +10,12 @@ data:
   occupation: Chandler
   stations: []
   lore: [commonerrnk]
+  culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kngdmvthgrd]
   gender: female
   species: humanflk
-  born: VR(691/3/6)
+  born: 691.67
   height: 1.6
   weight: 55.8
   frame: light
@@ -412,7 +413,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[unreldskar|Unnr Eldskari]]{float: top-left}
+![[unreldskar|Unnr Eldskari]]{float=top-left}
 
 Unnr stands 5'3" tall with a light build. She has pale fair skin, dark brown hair, and green eyes. Her features include a narrow face, a long nose, a square jawline, a small mouth, dark brows, and high cheeks.
 

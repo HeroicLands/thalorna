@@ -186,7 +186,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[gntscrpn|Giant Scorpion]]{float: top-left}
+![[gntscrpn|Giant Scorpion]]{float=top-left}
 
 Movement at the edge of vision makes you turn—and a chill of primal horror runs down your spine. Out from under a rock outcropping comes a creature easily ten feet long from the tip of its pincers to the end of its tail. The exoskeleton gleams in shades of dark brown and rust, armored like a knight in chitinous plate. The pincers are massive and cruel, each one ending in a curved point sharp enough to pierce armor. But worse is the tail—it curves high above the creature's body, segmented and sinuous, and at its tip a stinger glints with clear, oily venom that drips to the ground and hisses where it falls. The creature's multiple eyes fix on you, and you have the absolute conviction that you are being measured, evaluated, and found edible.
 

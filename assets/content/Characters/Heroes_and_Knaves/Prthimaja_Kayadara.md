@@ -16,11 +16,12 @@ data:
   occupation: Jeweller
   stations: []
   lore: [commonerrnk]
+  culture: vedyariclt
   homes: [vedyarargn]
   affiliations: [chandrapur]
   gender: male
   species: humanflk
-  born: VR(685/4/10)
+  born: 685.101
   height: 1.68
   weight: 63
   frame: medium
@@ -424,7 +425,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[prthmjkydr|Prthîmâja Kâyadara]]{float: top-left}
+![[prthmjkydr|Prthîmâja Kâyadara]]{float=top-left}
 
 Prthîmâja stands 5'6" tall with a medium build. He has light golden skin, black hair, and brown eyes. His features include a round face, a broad nose, a tapered chin, generous lips, thick dark brows, and high cheeks.
 

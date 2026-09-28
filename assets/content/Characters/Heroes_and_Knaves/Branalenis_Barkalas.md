@@ -16,11 +16,12 @@ data:
   occupation: Common Seaman
   stations: []
   lore: [commonerrnk]
+  culture: vylarianclt
   homes: [vylariargn]
   affiliations: [provinclys]
   gender: female
   species: humanflk
-  born: VR(693/4/2)
+  born: 693.93
   height: 1.78
   weight: 70.3
   frame: light
@@ -423,7 +424,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[brnlnsbrkls|Brânalenîs Bárkalâs]]{float: top-left}
+![[brnlnsbrkls|Brânalenîs Bárkalâs]]{float=top-left}
 
 Brânalenîs stands 5'10" tall with a medium build. She has light tanned skin, black hair, and green eyes. Her features include a narrow face, a strong nose, a sharp jawline, a wide mouth, thick dark brows, and high cheeks.
 

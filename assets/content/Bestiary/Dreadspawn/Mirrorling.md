@@ -393,7 +393,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[mrrrlng|Mirrorling]]{float: top-left}
+![[mrrrlng|Mirrorling]]{float=top-left}
 
 Dozens of versions of you stare back from a perfectly smooth, humanoid surface before you—each reflection fractionally out of sync with the others, as though time itself has splintered. The creature's surface ripples without touching water, light bending across its body in impossible angles that make your eyes water when you try to track its movements. A low, crystalline hum emanates from it, and you realize with creeping dread that one of the reflections isn't reflecting you at all—it's watching you independently, with terrible intelligence.
 

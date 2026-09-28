@@ -7,7 +7,7 @@ tags: [draft]
 data: {packFolder: deitieskemetian}
 ---
 
-![[icon-thoth|Thōth]]{float: top-left, size: medium}
+![[icon-thoth|Thōth]]{float=top-left size=medium}
 
 _Scribe of the Eternal Library—an ibis quill writing on a golden scroll._
 

@@ -10,11 +10,12 @@ data:
   occupation: Astrologer
   stations: []
   lore: [commonerrnk]
+  culture: kaliharanclt
   homes: [kaliharargn]
   affiliations: [kalihara]
   gender: female
   species: humanflk
-  born: VR(662/10/29)
+  born: 662.303
   height: 1.63
   weight: 57.6
   frame: medium
@@ -422,7 +423,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[qamiralamr|Qâmira Lamari]]{float: top-left}
+![[qamiralamr|Qâmira Lamari]]{float=top-left}
 
 Qâmira stands 5'4" tall with a medium build. She has rich brown skin, white hair, and dark brown eyes. Her features include a high-cheekboned face, an aquiline nose, a tapered chin, generous lips, and rich brows.
 

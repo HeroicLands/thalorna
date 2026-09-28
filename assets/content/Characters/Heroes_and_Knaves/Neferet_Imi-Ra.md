@@ -17,11 +17,12 @@ data:
   occupation: Scholar
   stations: []
   lore: [commonerrnk]
+  culture: khepericlt
   homes: [takheperurgn]
   affiliations: [empirtkhpr]
   gender: male
   species: humanflk
-  born: VR(685/5/9)
+  born: 685.131
   height: 1.68
   weight: 65.8
   frame: light
@@ -424,7 +425,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[neferetimr|Neferet Imi-Ra]]{float: top-left}
+![[neferetimr|Neferet Imi-Ra]]{float=top-left}
 
 Neferet stands 5'6\" tall with a light build. He has deep brown skin, tightly curled black hair, and dark brown eyes. His features include a prominent nose, a pointed chin, thin brows, angular cheeks.
 

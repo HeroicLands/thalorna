@@ -16,11 +16,12 @@ data:
   occupation: Cartographer/Artist
   stations: []
   lore: [commonerrnk]
+  culture: vedyariclt
   homes: [vedyarargn]
   affiliations: [suvrgrjnpd]
   gender: female
   species: humanflk
-  born: VR(689/6/19)
+  born: 689.171
   height: 1.57
   weight: 54
   frame: light
@@ -423,7 +424,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[pdmvldhnrvdkrtrj|Padmàvali Dhanurvedakīrtirāja]]{float: top-left}
+![[pdmvldhnrvdkrtrj|Padmàvali Dhanurvedakīrtirāja]]{float=top-left}
 
 Padmàvali stands 5'2" tall with a light build. She has warm caramel skin, dark black hair, and deep brown eyes. Her features include an oval face, a delicate nose, a soft jawline, well-shaped lips, deep brows, and full cheeks.
 

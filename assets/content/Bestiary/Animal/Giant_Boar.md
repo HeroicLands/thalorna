@@ -253,7 +253,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[gntbr|Giant Boar]]{float: top-left}
+![[gntbr|Giant Boar]]{float=top-left}
 
 The ground trembles before you even see it—a vibration that travels through your feet and into your bones. Then the forest parts as if torn, and a massive shape explodes into view: a creature covered in coarse dark bristles, its broad shoulders and thick neck corded with muscle. The smell hits you like a physical blow—rank, unwashed, the reek of mud and wild musk. It skids to a halt perhaps thirty paces distant, and you see them clearly now: tusks like curved daggers, thick and yellowed, their tips dark with something you don’t want to identify. The boar’s small, hate-filled eyes fix on you, and it lowers its massive head. Its snort sends spray and foam. Then it begins to paw at the earth with its front hooves, each scrape of hoof striking sparks from stone, and you feel with absolute certainty that it is about to charge straight through you.
 

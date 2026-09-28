@@ -187,7 +187,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[ncrtcmr|Necrotic Mire]]{float: top-left}
+![[ncrtcmr|Necrotic Mire]]{float=top-left}
 
 The swamp water ahead darkens and thickens, a black slick spreading across the surface like spilled oil. As it rises, the reek of millennia-old corpses and putrefying flesh floods your senses—a choking, almost physical presence. The ooze forms a loosely humanoid shape, its surface roiling with blisters and pustules that burst to release vapors. Where the dark slime touches living things—grass, trees, flesh—they wither and blacken as though exposed to decades of decay in mere seconds. The creature has no eyes, yet you feel inexplicably watched by something that hungers with a ghastly patience.
 

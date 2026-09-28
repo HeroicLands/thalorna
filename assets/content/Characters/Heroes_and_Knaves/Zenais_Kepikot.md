@@ -16,11 +16,12 @@ data:
   occupation: Animal Trainer
   stations: []
   lore: [commonerrnk]
+  culture: byzarianclt
   homes: [byzariargn]
   affiliations: [byzarianlg]
   gender: female
   species: humanflk
-  born: VR(692/9/19)
+  born: 692.262
   height: 1.7
   weight: 64
   frame: light
@@ -422,7 +423,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[zenskpkt|Zênais Kepíkot]]{float: top-left}
+![[zenskpkt|Zênais Kepíkot]]{float=top-left}
 
 Zênais stands 5'7" tall with a light build. She has fair freckled skin, auburn hair, and green eyes. Her features include a narrow face, a hawkish nose, a sharp jawline, full lips, expressive brows, and sculpted cheeks. She has a tattoo of a bird on her forearm.
 

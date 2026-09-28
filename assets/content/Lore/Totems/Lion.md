@@ -8,7 +8,7 @@ tags: [totem, archetype]
 data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
-![[icon-liontotem|Lion]]{float: top-left, size: medium}
+![[icon-liontotem|Lion]]{float=top-left size=medium}
 
 Dominant and strategic, lions are social big cats that work cooperatively within a pride to hunt and defend their territory with calculated precision.
 

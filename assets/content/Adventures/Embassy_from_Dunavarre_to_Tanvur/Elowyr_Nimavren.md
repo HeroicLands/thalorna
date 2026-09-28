@@ -9,6 +9,7 @@ data:
   occupation: Scribe
   stations: []
   lore: []
+  culture: aelwythanclt
   homes: []
   affiliations: [kingdmdnvr]
   gender: male

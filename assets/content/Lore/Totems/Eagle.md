@@ -8,7 +8,7 @@ tags: [totem, archetype]
 data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
-![[icon-eagletotem|Eagle]]{float: top-left, size: medium}
+![[icon-eagletotem|Eagle]]{float=top-left size=medium}
 
 Blunt, impatient, and merciless, eagles are apex predators that strike with precision, showing little tolerance for any hindrances in their pursuit of prey.
 

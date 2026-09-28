@@ -412,7 +412,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[swmpglm|Swampgolem]]{float: top-left}
+![[swmpglm|Swampgolem]]{float=top-left}
 
 The swamp itself seems to rise before you—at first you think it is simply a surge of murky water and detritus stirred by some underwater current. Then you see it move with deliberation, with purpose, and you understand: this is something shaped and animated by malevolence rather than chance. A humanoid figure, roughly twelve feet tall, rises dripping from the water, composed almost entirely of mud, rotting vegetation, moss, and things you cannot identify. Its eyes are pools of stagnant water set in a face of crude clay and stone, and as it turns toward you, you feel the weight of its gaze. The smell is overwhelming—centuries of decay concentrated in flesh, the reek of swamps and tombs and things that have rotted for longer than humans have walked upright. With each step, the ground becomes treacherous, and you can hear the squelch and slurp of mud and liquid filth moving with purpose.
 

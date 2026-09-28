@@ -8,7 +8,7 @@ tags: [totem, archetype]
 data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
-![[icon-hamstertotem|Hamster]]{float: top-left, size: medium}
+![[icon-hamstertotem|Hamster]]{float=top-left size=medium}
 
 Cautious and hoarding, hamsters instinctively gather and store food in their cheek pouches, always preparing for future scarcity.
 

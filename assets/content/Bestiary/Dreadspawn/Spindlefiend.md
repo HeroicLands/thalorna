@@ -185,7 +185,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[spndlfnd|Spindlefiend]]{float: top-left}
+![[spndlfnd|Spindlefiend]]{float=top-left}
 
 You notice it too late—a shadow that moves wrong, at an angle that contradicts the light. Then you see the limb, impossibly long and spider-thin, as it withdraws from where it has been resting against the stone. The creature itself is almost invisible, its body a gossamer outline wreathed in thread-like filaments that catch no light and leave no shadow. Eight eyes snap into focus—each one a glowing coal of malevolent intelligence—and you see the mouth open, revealing fangs dripping with venom that glows faintly in the darkness. The air around it seems to vibrate with the tension of invisible webs, and you realize with creeping horror that you cannot move your foot—you have stepped directly into the creature’s domain, and it was waiting.
 

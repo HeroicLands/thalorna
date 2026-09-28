@@ -10,11 +10,12 @@ data:
   occupation: Shipwright
   stations: []
   lore: [commonerrnk]
+  culture: tarvenanclt
   homes: [tarvenirgn]
   affiliations: [kingdmtrvn]
   gender: male
   species: humanflk
-  born: VR(671/7/15)
+  born: 671.198
   height: 1.8
   weight: 79.8
   frame: heavy
@@ -422,7 +423,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[domthgrvth|Dómeth Gráveth]]{float: top-left}
+![[domthgrvth|Dómeth Gráveth]]{float=top-left}
 
 Dómeth stands 5'11" tall with a heavy build. He has tanned weathered skin, graying black hair, and brown eyes. His features include a narrow face, an aquiline nose, a pointed chin, well-defined lips, and prominent brows. He has a tattoo of a snake on his chest.
 

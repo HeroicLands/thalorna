@@ -273,7 +273,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[thndrhrn|Thunderhorn]]{float: top-left}
+![[thndrhrn|Thunderhorn]]{float=top-left}
 
 The air crackles with static before you see it—the hair on your arms stands on end and the smell of ozone floods your senses. Then it appears, rising like a storm made flesh: a creature vaguely rhinoceros-like but far larger, its hide the color of weathered storm clouds, dark gray and deep blue shot through with veins of sickly phosphorescence. Spiraling horns rise from its head, each one thick as a man's arm and wreathed in constant, writhing bolts of blue-white electricity that fork and branch into the air with terrible beauty. Its eyes are those of an ancient, intelligent creature, and they burn with the pale fire of lightning trapped in flesh. Each movement it makes seems to disrupt the air itself, creating pressure waves and small arcs of electrical discharge. The sound it makes is like distant thunder, and the ground trembles beneath its hooves.
 

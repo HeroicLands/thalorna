@@ -16,11 +16,12 @@ data:
   occupation: Priest
   stations: []
   lore: [commonerrnk]
+  culture: khazrynclt
   homes: [khzryndsrtrgn]
   affiliations: [tribestrzd]
   gender: female
   species: humanflk
-  born: VR(688/3/25)
+  born: 688.86
   height: 1.8
   weight: 76.2
   frame: medium
@@ -422,7 +423,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[shrmnhthvn|Sharmînah Tahvân]]{float: top-left}
+![[shrmnhthvn|Sharmînah Tahvân]]{float=top-left}
 
 Sharmînah stands 5'11" tall with a medium build. She has warm olive skin, dark brown hair, and honey brown eyes. Her features include a diamond-shaped face, a long nose, a sharp jawline, full lips, dark brows.
 

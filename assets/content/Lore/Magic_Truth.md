@@ -1,9 +1,9 @@
 ---
 shortcode: magictruth
 name: {full: The Truth of Magic, aliases: [Magic (GM)]}
-type: lore
-subType: arcana
-tags: [lore, arcane, gm-only, secret, metaphysics]
+type: doc
+subType: settingguide
+tags: [arcane, metaphysics, gm]
 data: {packFolder: settinglore}
 ---
 
@@ -196,5 +196,5 @@ Several practical implications follow from the metaphysics described above. The 
 - [[lore-hexhodai|Héx Hodäi]]—The Ordo's framework, in-world doctrine
 - [[affiliation-kentra|Kentra]]—The Ordo's mastery rank, and the Vertigo Hodäi affliction
 - [[affiliation-ordoarcanis|Ordo Arcanis]]—The institution
-- [[lore-soulspirts|Souls and Spirits]]—_(GM-only, forthcoming)_ The ontology of souls, the Spirit world, gods, elementals, dragons, necromancy, and summoning
+- [[doc-soulspirts|Souls and Spirits]]—_(GM-only, forthcoming)_ The ontology of souls, the Spirit world, gods, elementals, dragons, necromancy, and summoning
 - Foreign_Traditions_Comparative—_(GM-only, forthcoming)_ How each non-Ordo tradition channels the potential, with reference to this document

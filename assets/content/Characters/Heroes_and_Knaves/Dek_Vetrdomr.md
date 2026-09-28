@@ -10,11 +10,12 @@ data:
   occupation: Thatcher
   stations: []
   lore: [commonerrnk]
+  culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kingdomlgn]
   gender: male
   species: humanflk
-  born: VR(673/5/5)
+  born: 673.127
   height: 1.85
   weight: 80.7
   frame: medium
@@ -413,7 +414,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[dekvetrdmr|Dek Vetrdómr]]{float: top-left}
+![[dekvetrdmr|Dek Vetrdómr]]{float=top-left}
 
 Dek stands 6'1" tall with a medium build. He has tanned weathered skin, dark brown hair, and hazel eyes. His features include a long face, a slightly upturned nose, a strong jawline, laugh lines around the mouth, and dark brows.
 

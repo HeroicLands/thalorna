@@ -8,7 +8,7 @@ tags: [totem, archetype]
 data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
-![[icon-goattotem|Goat]]{float: top-left, size: medium}
+![[icon-goattotem|Goat]]{float=top-left size=medium}
 
 Curious and determined, goats are naturally inquisitive animals that will climb, explore, and test their environment to satisfy their curiosity.
 

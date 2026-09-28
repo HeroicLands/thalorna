@@ -10,11 +10,12 @@ data:
   occupation: Brigand
   stations: []
   lore: [slavernk]
+  culture: varokhiclt
   homes: [vrystwald]
   affiliations: [blckpnwlvs]
   gender: male
   species: humanflk
-  born: VR(697/10/3)
+  born: 697.277
   height: 1.75
   weight: 68
   frame: medium
@@ -397,7 +398,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[brunjarskathhel|Brunjár Skathhelm]]{float: top-left}
+![[brunjarskathhel|Brunjár Skathhelm]]{float=top-left}
 
 Brunjár Skathhelm looks like what he is: a boy who ended up in a bad place and is in over his head. He has a round, freckled face that makes him look sixteen rather than twenty-two, with hazel eyes that dart nervously and never quite meet anyone's gaze. His brown hair is shaggy and unkempt, and he has the soft, unfinished look of someone who has not yet grown fully into his frame. He wears a homespun tunic and leather shoes—the worst-equipped member of the gang—and carries a club, a dagger, and a sling with a pouch of stones. He fidgets constantly, picking at his nails, shifting his weight, tugging at his sleeves. He is the member of the Blackpine Wolves that victims remember as "the one who looked like he didn't want to be there."
 

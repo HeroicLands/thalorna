@@ -8,7 +8,7 @@ tags: [totem, archetype]
 data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
-![[icon-sturgeontotem|Sturgeon]]{float: top-left, size: medium}
+![[icon-sturgeontotem|Sturgeon]]{float=top-left size=medium}
 
 Resilient and steadfast, sturgeons thrive in diverse environments, moving slowly but purposefully, and enduring through various challenges with their strength and persistence.
 

@@ -284,7 +284,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[xrthnfrs|Xerathian Forest Elephant]]{float: top-left}
+![[xrthnfrs|Xerathian Forest Elephant]]{float=top-left}
 
 The forest seems to move as a single unit before separating into a distinct creature: massive, dark-skinned, and emerging with surprising grace from dense vegetation. The rounded ears fan humid air, and the straighter tusks point downward, carving through foliage with practiced ease. The trunk curls and unfolds with obvious intelligence, sampling scents and reaching for vegetation. The eyes are aware and wary.
 

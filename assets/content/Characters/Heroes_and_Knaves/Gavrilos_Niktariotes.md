@@ -16,11 +16,12 @@ data:
   occupation: Swordmaster
   stations: []
   lore: [commonerrnk]
+  culture: byzarianclt
   homes: [byzariargn]
   affiliations: [byzarianlg]
   gender: male
   species: humanflk
-  born: VR(675/3/19)
+  born: 675.80
   height: 1.85
   weight: 82.1
   frame: medium
@@ -423,7 +424,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[gvrlsnktrts|Gávrilos Niktariôtês]]{float: top-left}
+![[gvrlsnktrts|Gávrilos Niktariôtês]]{float=top-left}
 
 Gávrilos stands 6'1" tall with a medium build. He has light tanned skin, graying black hair, and green eyes. His features include a long face, a hawkish nose, a pronounced chin, arched brows, and hollow cheeks.
 
