@@ -14,6 +14,12 @@ into Floralis through Janar, and a calendar another package has already set is l
 Setday run on through the months without a break, so a date keeps its place in the year and
 not its weekday. The calendar note sets out what each is for.
 
-**Three calendars name the era they count from.** The Common Calendar prints Before and After
-the Founding, the Kheperi calendar the Sep Tepy, and the Celestial Calendar the Great
-Convergence.
+**Every calendar names the era it counts from, and the years before it.** The Common Calendar
+prints Before and After the Founding, the Kheperi calendar counts from the Sep Tepy, the
+Celestial Calendar from the Great Convergence, the Mādhavendra Count from the philosopher-kings,
+and the Khazryn calendar from the Āhúrdáén Awakening. A date before a reckoning begins prints
+with its own label, so 330 BF reads as a year rather than a negative number.
+
+**The Common Calendar marks its four seasons and names New Year's Day.** Spring, Summer, Fall
+and Winter divide the year into equal quarters, which is a separate division from the four fixed
+quarter days; the calendar note explains why the two do not coincide.

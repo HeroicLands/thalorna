@@ -6,7 +6,7 @@ subType: calendar
 description: "The Kheperi calendar: three four-month seasons tracking the river's flood, planting and harvest, with five days added at the year's end to keep the count whole."
 tags: [reference, calendar]
 data:
-  epoch: 720.1
+  epoch: -2110.1
   months:
     - {name: Akhet I, days: 30}
     - {name: Akhet II, days: 30}
@@ -21,22 +21,14 @@ data:
     - {name: Shemu III, days: 30}
     - {name: Shemu IV, days: 30}
     - {name: The Five Intercalary Days, days: 5}
-  weekdays: []
   seasons:
-    - {name: Akhet, monthStart: 1, monthEnd: 4}
-    - {name: Peret, monthStart: 5, monthEnd: 8}
-    - {name: Shemu, monthStart: 9, monthEnd: 12}
+    - {name: Akhet, abbreviation: Akh, start: 1}
+    - {name: Peret, abbreviation: Per, start: 121}
+    - {name: Shemu, abbreviation: She, start: 241}
   eras:
-    - shortcode: septepy
-      name: The Sep Tepy
-      abbreviation: ST
-      start: -2109.1
-      label: {after: "{date} ST", before: "{date} BST"}
-  dateFormats:
-    short: "D MMM"
-    long: "D MMMM, Y"
-    full: "D MMMM [in the] QQQQ, Y"
-    yearLabel: "[Year] Y"
+    - {shortcode: bst, name: Before the Sep Tepy, abbreviation: BST, start: null}
+    - {shortcode: septepy, name: The Sep Tepy, abbreviation: ST, start: 1}
+  formats: {std: "D MMMM Y GGG", full: "D MMMM [in the] QQQQ, Y GGG"}
   packFolder: takheperu
 ---
 

@@ -4,7 +4,7 @@ name: {full: Calendar and Astrology, aliases: []}
 type: lore
 subType: calendar
 data:
-  epoch: 720.1
+  epoch: -6239.1
   months:
     - {name: Jëityüt, days: 30}
     - {name: Mütyüt, days: 30}
@@ -18,18 +18,14 @@ data:
     - {name: Thürkyüt, days: 30}
     - {name: Zhürtyüt, days: 30}
     - {name: Thürtyüt, days: 30}
-  weekdays: []
   eras:
+    - {shortcode: bgc, name: Before the Great Convergence, abbreviation: BGC, start: null}
     - shortcode: celestial
       name: The Great Convergence
       abbreviation: GC
-      start: -6238.1
-      label: {after: "{date} GC", before: "{date} BGC"}
-  dateFormats:
-    short: "D MMM Y"
-    long: "[Year] Y [of the] GGGG [Emperor of the] [Dynasty]"
-    full: "D MMMM, [Year] Y [of the] GGGG [Emperor of the] [Dynasty]"
-    yearLabel: "[Year] Y [of the] GGGG [Emperor of the] [Dynasty]"
+      proclaimedBy: celestlrdr
+      start: 1
+  formats: {std: "D MMMM Y GGG", long: "[Year] Y [of the] GGGG"}
   packFolder: tanvur
 ---
 
