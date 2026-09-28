@@ -21,7 +21,7 @@ data:
   affiliations: [kingdmtrgd]
   gender: male
   species: humanflk
-  born: VR(670/10/18)
+  born: 670.292
   height: 1.83
   weight: 74.8
   frame: medium
@@ -435,7 +435,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[rgnvldrsgrnd|Rögnvaldr Ásgrind]]{float: top-left}
+![[rgnvldrsgrnd|Rögnvaldr Ásgrind]]{float=top-left}
 
 Rögnvaldr stands 6'0" tall with a medium build. He has light weathered skin, graying black hair, and brown eyes. His features include a rectangular face, a straight nose, an angular jawline, a firm-set mouth, and straight brows.
 

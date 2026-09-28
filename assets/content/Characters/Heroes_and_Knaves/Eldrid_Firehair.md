@@ -21,7 +21,7 @@ data:
   affiliations: [kingdmnrgd]
   gender: male
   species: humanflk
-  born: VR(692/4/3)
+  born: 692.94
   height: 1.85
   weight: 79.4
   frame: light
@@ -422,7 +422,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[eldridfrhr|Eldrid Firehair]]{float: top-left}
+![[eldridfrhr|Eldrid Firehair]]{float=top-left}
 
 Stands 6'1" tall with a light build. He has weather-roughened skin, fiery red hair, and blue eyes. His features include an oval face, a straight nose, a prominent chin, a firm-set mouth, prominent brows.
 

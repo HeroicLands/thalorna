@@ -21,7 +21,7 @@ data:
   affiliations: [byzarianlg]
   gender: male
   species: humanflk
-  born: VR(672/2/6)
+  born: 672.36
   height: 1.91
   weight: 84.8
   frame: heavy
@@ -424,7 +424,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[lysndrsxylkt|Lysándros Xylákit]]{float: top-left}
+![[lysndrsxylkt|Lysándros Xylákit]]{float=top-left}
 
 Lysándros stands 6'3" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include a diamond-shaped face, a prominent nose, a pointed chin, an expressive mouth, dark brows.
 

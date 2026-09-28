@@ -22,7 +22,7 @@ data:
   affiliations: [empirtkhpr]
   gender: male
   species: humanflk
-  born: VR(685/6/7)
+  born: 685.159
   height: 1.7
   weight: 62.6
   frame: medium
@@ -426,7 +426,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[patnfrstmr|Patnefur Set'Maâru]]{float: top-left}
+![[patnfrstmr|Patnefur Set'Maâru]]{float=top-left}
 
 Patnefur stands 5'7" tall with a medium build. He has dark skin, black hair, and brown eyes. His features include an oval face, a long nose, a refined jawline, an expressive mouth, high-set brows, and sculpted cheeks. He has a scar on the left side of his neck.
 

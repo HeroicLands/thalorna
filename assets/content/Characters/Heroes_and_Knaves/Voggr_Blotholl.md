@@ -15,7 +15,7 @@ data:
   affiliations: [kngdmnrdhm]
   gender: male
   species: humanflk
-  born: VR(668/2/29)
+  born: 668.59
   height: 1.8
   weight: 81.6
   frame: heavy
@@ -416,7 +416,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[vogrblothl|Vöggr Blóthöll]]{float: top-left}
+![[vogrblothl|Vöggr Blóthöll]]{float=top-left}
 
 Vöggr stands 5'11" tall with a heavy build. He has tanned weathered skin, gray hair, and blue eyes. His features include a long face, a long nose, a strong jawline, a firm-set mouth, low-set brows, and angular cheeks. He has a scar running down his back.
 

@@ -21,7 +21,7 @@ data:
   affiliations: [kingdmnrgd]
   gender: male
   species: humanflk
-  born: VR(668/4/9)
+  born: 668.100
   height: 1.75
   weight: 68
   frame: medium
@@ -427,7 +427,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[thjthrhrfnsvld|Thjótharr Hrafnsvald]]{float: top-left}
+![[thjthrhrfnsvld|Thjótharr Hrafnsvald]]{float=top-left}
 
 Thjótharr stands 5'9" tall with a medium build. He has light ruddy skin, gray hair, and blue eyes. His features include a rectangular face, a slightly upturned nose, a broad chin, a slightly downturned mouth, heavy brows, high cheeks. A distinguishing mark is a scar on the abdomen.
 

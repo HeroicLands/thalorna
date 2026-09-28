@@ -186,7 +186,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[gntcmlsp|Giant Camel Spider]]{float: top-left}
+![[gntcmlsp|Giant Camel Spider]]{float=top-left}
 
 You hear it before you see it—a wet, rhythmic wheezing, like bellows worked too fast, coming from somewhere beyond the firelight. Then a dry rattling, the sound of bone scraped against bone, rising in pitch until it buzzes like a cicada made of knives. Then it is in the light and every rational thought in your head is replaced by a single, shrieking impulse to get away from it. It is the size of a fox, pale as old parchment, and it is running at you. Not scuttling. Running—low and flat and horrifyingly fast, its legs a blur of jointed motion, its body close enough to the ground that it seems to flow across the sand like something poured. Two pale limbs are held up off the ground ahead of it, not running but reaching, groping the air with a blind, questing urgency that makes the approach look less like a charge and more like something desperately trying to touch you. The front of it is all jaw—a pair of vertical shears the color of dark amber, each as long as a man's finger, snapping open and shut with an audible clack-clack-clack that continues even as it moves. In the firelight you can see through the joints of its legs, the chitin going thin and amber-translucent, and something dark pulses inside. The arrangement of its eye cluster and those working, gaping chelicerae form something your brain insists is a face—a small, stupid, hungry face wearing an expression of frantic, mindless want. It does not slow down.
 

@@ -22,7 +22,7 @@ data:
   affiliations: [empirtkhpr]
   gender: male
   species: humanflk
-  born: VR(680/1/15)
+  born: 680.15
   height: 1.75
   weight: 74.8
   frame: heavy
@@ -426,7 +426,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[hotepanu|Hotep Anu]]{float: top-left}
+![[hotepanu|Hotep Anu]]{float=top-left}
 
 Hotep stands 5'9" tall with a heavy build—broad-shouldered and thick through the chest, the frame of a man who was never slight and who has spent three years walking the empire's roads. He has dark brown skin, a shaved head (maintained by habit long after the temple's purification codes ceased to bind him), and dark eyes set deep beneath a heavy brow. His features are blunt and serious: a prominent nose, a strong jaw, full lips that settle naturally into an expression of watchful gravity. The most striking marks on him are the ritual tattoos on both forearms—the feather-of-[[lore-maatdty|Má'át]] inked in ceremonial blue—scored through with deliberate cuts, the temple's mark of expulsion. He keeps his left palm turned inward when he can; the horizontal branding scar there is the mark they burned into him the day they cast him out.
 

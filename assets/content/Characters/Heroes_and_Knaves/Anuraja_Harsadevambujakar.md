@@ -21,7 +21,7 @@ data:
   affiliations: [chandrapur]
   gender: male
   species: humanflk
-  born: VR(689/10/30)
+  born: 689.304
   height: 1.83
   weight: 74.8
   frame: medium
@@ -420,7 +420,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[anrjhrdvmbjkr|Anûraja Harshadēvāmbujakar]]{float: top-left}
+![[anrjhrdvmbjkr|Anûraja Harshadēvāmbujakar]]{float=top-left}
 
 Anûraja stands 6'0" tall with a medium build. He has golden brown skin, dark brown hair, and deep brown eyes. His features include a diamond-shaped face, a straight nose, a soft jawline, full lips, golden brows, and rounded cheeks. He has a tattoo of a tiger on his forearm.
 

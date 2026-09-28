@@ -15,7 +15,7 @@ data:
   affiliations: [slntlncmpny, ordoarcanis, kngdmlvndr]
   gender: female
   species: humanflk
-  born: VR(693/11/25)
+  born: 693.329
   height: 1.68
   weight: 59
   frame: light
@@ -424,7 +424,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[elyseskyrn|Elýsè Skýrn]]{float: top-left}
+![[elyseskyrn|Elýsè Skýrn]]{float=top-left}
 
 Elýsè is a slender young woman of twenty-seven with fair, lightly freckled skin, dark blonde hair that falls softly around her face, and striking green eyes. Her graceful demeanor and radiant charm add to her natural allure, making her both captivating and approachable. She carries herself with the quiet competence of someone who has seen the inside of too many wounds to be squeamish about anything.
 

@@ -7,7 +7,7 @@ tags: [draft]
 data: {packFolder: deitieskemetian}
 ---
 
-![[icon-hapi|Hâpi]]{float: top-left, size: medium}
+![[icon-hapi|Hâpi]]{float=top-left size=medium}
 
 _The Golden Reveler—a golden amphora overflowing with wheat and coins._
 

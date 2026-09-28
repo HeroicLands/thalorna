@@ -214,7 +214,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[nmspt|Nemespite]]{float: top-left}
+![[nmspt|Nemespite]]{float=top-left}
 
 Something moves at the edge of your vision—impossibly fast, a blur of iridescent color that makes your eyes water. Then you catch the scent, acrid and chemical, that raises every hair on your body. A creature no larger than your fist lands on nearby stone with an audible click, and in the harsh sunlight you see it fully: a nightmare of chitinous segments and articulate limbs, its entire body shimmering with bands of virulent color—warning, threat, death. A stinger curves upward, glistening with viscous liquid that fumes slightly in the air, and you hear a sound like tearing silk as more of them emerge from cracks in the rock around you.
 

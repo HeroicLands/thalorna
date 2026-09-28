@@ -22,7 +22,7 @@ data:
   affiliations: [empirtkhpr]
   gender: male
   species: humanflk
-  born: VR(670/9/3)
+  born: 670.246
   height: 1.73
   weight: 67.1
   frame: heavy
@@ -424,7 +424,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[parirnkhns|Parri Re'en'Khensu]]{float: top-left}
+![[parirnkhns|Parri Re'en'Khensu]]{float=top-left}
 
 Parri stands 5'8" tall with a heavy build. He has golden brown skin, white hair, and warm brown eyes. His features include a long face, an aquiline nose, a smooth jawline, generous lips, and golden brows. He has a tattoo of a crescent moon on his neck.
 

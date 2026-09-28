@@ -21,7 +21,7 @@ data:
   affiliations: [hlykngdmnrtm]
   gender: male
   species: humanflk
-  born: VR(677/4/15)
+  born: 677.106
   height: 1.63
   weight: 57.6
   frame: medium
@@ -421,7 +421,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[dmrthsvshrds|Dómrithâs Vîshârdâs]]{float: top-left}
+![[dmrthsvshrds|Dómrithâs Vîshârdâs]]{float=top-left}
 
 Dómrithâs stands 5'4" tall with a medium build. He has pale fair skin, graying brown hair, and green eyes. His features include a long face, a straight nose, a rounded chin, rosy lips, graying brows, and full cheeks.
 

@@ -21,7 +21,7 @@ data:
   affiliations: [sultntmrdd]
   gender: female
   species: humanflk
-  born: VR(691/10/25)
+  born: 691.299
   height: 1.73
   weight: 67.1
   frame: light
@@ -422,7 +422,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[prynbrmndn|Paryan Barmandan]]{float: top-left}
+![[prynbrmndn|Paryan Barmandan]]{float=top-left}
 
 Paryan stands 5'8" tall with a light build. She has light olive skin, black hair, and green eyes. Her features include an oval face, a hawkish nose, an angular jawline, well-defined lips, and prominent brows.
 

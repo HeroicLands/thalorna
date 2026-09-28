@@ -21,7 +21,7 @@ data:
   affiliations: [khzrncnfdrtn]
   gender: female
   species: humanflk
-  born: VR(686/8/22)
+  born: 686.235
   height: 1.7
   weight: 65.3
   frame: light
@@ -435,7 +435,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[rznshmrvrn|Razanash Mervaran]]{float: top-left}
+![[rznshmrvrn|Razanash Mervaran]]{float=top-left}
 
 Razanash stands 5'7" tall with a light build. She has tawny skin, black hair, and green eyes. Her features include a narrow face, an arched nose, an angular jawline, thick dark brows, and sculpted cheeks. She has a scar on her left thigh.
 

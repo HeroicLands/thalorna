@@ -21,7 +21,7 @@ data:
   affiliations: [suvrgrjnpd]
   gender: male
   species: humanflk
-  born: VR(687/2/4)
+  born: 687.34
   height: 1.83
   weight: 73.9
   frame: medium
@@ -420,7 +420,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[vrgskhrmdkn|Vīrāngashikharam Dukshana]]{float: top-left}
+![[vrgskhrmdkn|Vīrāngashikharam Dukshana]]{float=top-left}
 
 Vīrāngashikharam stands 6'0" tall with a medium build. He has deep brown skin, very dark brown hair, and hazel eyes. His features include a round face, a delicate nose, a rounded chin, generous lips, deep brows, full cheeks.
 

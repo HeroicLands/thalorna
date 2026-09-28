@@ -21,7 +21,7 @@ data:
   affiliations: [dunhartrbs]
   gender: male
   species: humanflk
-  born: VR(664/12/18)
+  born: 664.353
   height: 1.88
   weight: 85.7
   frame: heavy
@@ -415,7 +415,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[mthrnshrdr|Mithran Shiradar]]{float: top-left}
+![[mthrnshrdr|Mithran Shiradar]]{float=top-left}
 
 Mithran stands 6'2" tall with a heavy build. He has tanned weathered skin, gray hair, and dark brown eyes. His features include a diamond-shaped face, a prominent nose, a strong jawline, slightly pursed lips, and dark brows. He has a scar from forehead to cheek across his left eye.
 

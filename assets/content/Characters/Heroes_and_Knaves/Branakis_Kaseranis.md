@@ -21,7 +21,7 @@ data:
   affiliations: [hlykngdmnrtm]
   gender: male
   species: humanflk
-  born: VR(669/9/2)
+  born: 669.245
   height: 1.88
   weight: 83.5
   frame: heavy
@@ -425,7 +425,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[brnksksrns|Bránakis Kâserânis]]{float: top-left}
+![[brnksksrns|Bránakis Kâserânis]]{float=top-left}
 
 Bránakis stands 6'2" tall with a heavy build. He has tanned weathered skin, black hair, and dark brown eyes. His features include an oval face, a straight nose, a prominent chin, a small mouth, and dark brows. He has a tattoo of a tree on his forearm.
 

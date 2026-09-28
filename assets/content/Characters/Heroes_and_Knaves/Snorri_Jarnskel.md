@@ -21,7 +21,7 @@ data:
   affiliations: [kngdmnrdhm]
   gender: male
   species: humanflk
-  born: VR(689/4/17)
+  born: 689.108
   height: 1.91
   weight: 88
   frame: heavy
@@ -425,7 +425,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[snorjrnskl|Snorri Járnskel]]{float: top-left}
+![[snorjrnskl|Snorri Járnskel]]{float=top-left}
 
 Snorri stands 6'3" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include an oval face, a narrow nose, a broad chin, a slightly downturned mouth, dark brows. A distinguishing mark is a scar on the right cheek.
 

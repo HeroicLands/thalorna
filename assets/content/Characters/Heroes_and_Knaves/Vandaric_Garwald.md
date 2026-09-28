@@ -14,7 +14,7 @@ data:
   affiliations: [blckpnwlvs, vrystwldtrbs]
   gender: male
   species: humanflk
-  born: VR(684/4/19)
+  born: 684.110
   height: 1.78
   weight: 74.8
   frame: medium
@@ -393,7 +393,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[vndrcgrwld|Vandaric Garwald]]{float: top-left}
+![[vndrcgrwld|Vandaric Garwald]]{float=top-left}
 
 Vandaric Garwald does not look like a bandit, which is precisely the point. He is of middling height and medium build, with dark brown hair kept suspiciously clean for a forest outlaw, and gray eyes that sparkle with warmth and humor—neither of which is real. His face is lean and sallow, but handsome enough to be trusted at a glance, and he has a disarming smile that he deploys the way other men deploy weapons: quickly, precisely, and to lethal effect. A tattooed serpent coils around his left forearm, half-hidden by his sleeve. He dresses better than the rest of the gang—a cloth tunic and leggings under a leather vest, maintained with a care the others find baffling. He carries a shortsword and dagger but fights only as a last resort, preferring to talk his way out of—or into—any situation.
 

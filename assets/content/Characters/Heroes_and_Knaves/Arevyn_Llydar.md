@@ -15,7 +15,7 @@ data:
   affiliations: [kngdmlvndr]
   gender: male
   species: humanflk
-  born: VR(675/9/22)
+  born: 675.265
   height: 1.85
   weight: 83
   frame: heavy
@@ -419,7 +419,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[arevynlydr|Arévyn Llýdar]]{float: top-left}
+![[arevynlydr|Arévyn Llýdar]]{float=top-left}
 
 Arévyn stands 6'1" tall with a heavy build. He has tanned weathered skin, black hair, and gray eyes. His features include a broad face, a button nose, a narrow chin, light brows, rosy cheeks.
 

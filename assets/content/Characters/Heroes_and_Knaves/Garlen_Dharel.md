@@ -15,7 +15,7 @@ data:
   affiliations: [kngdmlvndr]
   gender: male
   species: humanflk
-  born: VR(679/9/14)
+  born: 679.257
   height: 1.8
   weight: 75.7
   frame: medium
@@ -419,7 +419,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[garlendhrl|Gârlen Dhárel]]{float: top-left}
+![[garlendhrl|Gârlen Dhárel]]{float=top-left}
 
 Gârlen stands 5'11" tall with a medium build. He has light tanned skin, black hair, and brown eyes. His features include a long face, a button nose, a prominent chin, rosy lips, and expressive brows. He has a scar running down his right leg.
 

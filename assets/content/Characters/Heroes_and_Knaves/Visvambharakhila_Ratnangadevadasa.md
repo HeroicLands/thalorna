@@ -21,7 +21,7 @@ data:
   affiliations: [chandrapur]
   gender: male
   species: humanflk
-  born: VR(682/6/24)
+  born: 682.176
   height: 1.78
   weight: 70.3
   frame: medium
@@ -420,7 +420,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[vsvmbhrkhlrtngdvds|Vishvambhārākhila Ratnāngadēvadāsa]]{float: top-left}
+![[vsvmbhrkhlrtngdvds|Vishvambhārākhila Ratnāngadēvadāsa]]{float=top-left}
 
 Vishvambhārākhila stands 5'10" tall with a medium build. He has deep brown skin, dark brown hair, and warm brown eyes. His features include a full face, a narrow nose, a small chin, full lips, deep brows.
 

@@ -21,7 +21,7 @@ data:
   affiliations: [kngdmvthgrd]
   gender: male
   species: humanflk
-  born: VR(666/4/27)
+  born: 666.118
   height: 1.63
   weight: 55.8
   frame: medium
@@ -434,7 +434,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[rkrthrsldr|Ríkarthr Íseldr]]{float: top-left}
+![[rkrthrsldr|Ríkarthr Íseldr]]{float=top-left}
 
 Ríkarthr stands 5'4" tall with a medium build. He has light pale skin, silver hair, and gray eyes. His features include an oblong face, a prominent nose, a heavy jawline, a firm-set mouth, thick brows, flat cheeks. A distinguishing mark is a tattoo of a dolphin on the left wrist.
 

@@ -245,7 +245,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[sndstlkr|Sand Stalker]]{float: top-left}
+![[sndstlkr|Sand Stalker]]{float=top-left}
 
 Movement catches your eye—the ripple of a shadow across pale sand, gone as quickly as seen. The creature rises, and suddenly what was invisible becomes unmistakable: a lean, powerful feline silhouette against the desert heat. Its sandy-tan fur seems to shimmer and shift, making it difficult to focus upon even when you know where to look. The amber eyes fix on you with an unsettling intelligence, and you notice the tension in its body—every muscle coiled and ready. As it circles, its wide paws leave barely a trace in the sand, and you hear almost nothing despite its movement. The tail swishes once, twice, and you realize you're being assessed as potential prey.
 

@@ -20,7 +20,7 @@ data:
   affiliations: [kostaros2]
   gender: male
   species: humanflk
-  born: VR(676/4/20)
+  born: 676.111
   height: 1.88
   weight: 85
   frame: heavy

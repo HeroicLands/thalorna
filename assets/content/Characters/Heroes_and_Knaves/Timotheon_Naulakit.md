@@ -21,7 +21,7 @@ data:
   affiliations: [byzarianlg]
   gender: male
   species: humanflk
-  born: VR(669/2/22)
+  born: 669.52
   height: 1.8
   weight: 73.5
   frame: medium
@@ -422,7 +422,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[timthnnlkt|Timothéon Naulákit]]{float: top-left}
+![[timthnnlkt|Timothéon Naulákit]]{float=top-left}
 
 Timothéon stands 5'11" tall with a medium build. He has light ruddy skin, gray hair, and olive-green eyes. His features include a long face, a strong nose, a strong jawline, a wide mouth, and strong brows.
 

@@ -21,7 +21,7 @@ data:
   affiliations: [kingdmnrgd]
   gender: female
   species: humanflk
-  born: VR(694/8/5)
+  born: 694.218
   height: 1.78
   weight: 81.6
   frame: heavy
@@ -424,7 +424,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[rnhrngsdtr|Rúna Hringsdóttir]]{float: top-left}
+![[rnhrngsdtr|Rúna Hringsdóttir]]{float=top-left}
 
 Rúna is 5’10" with a strong, athletic build, weighing about 180 pounds. Her fiery red hair is kept short, and her green eyes burn with the passion of a seasoned warrior. Her facial features are rugged but attractive, with a square jaw and a broad nose. Her scarred cheek adds to her warlike appearance. She wears chainmail and carries her round shield and axe.
 

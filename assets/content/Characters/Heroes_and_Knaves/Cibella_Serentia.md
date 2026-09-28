@@ -16,7 +16,7 @@ data:
   affiliations: [thetamzir, vylarinmpr]
   gender: female
   species: humanflk
-  born: VR(702/11/27)
+  born: 702.331
   height: 1.73
   weight: 62.6
   frame: light
@@ -396,7 +396,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[cibelasrnt|Cibella Serentia]]{float: top-left}
+![[cibelasrnt|Cibella Serentia]]{float=top-left}
 
 Cibella Serentia is a young woman of startling beauty and deeply unsettling presence. She is slender and pale, with rich brown hair that hangs loose to her waist, hazel eyes that seem to focus on things that are not there, and a face that shifts between ethereal calm and sudden, piercing intensity without warning. Her most characteristic expression is a distant stare—fixed on some point beyond the walls, beyond the horizon, as if she sees something there that no one else can perceive. She does this even sitting in a closed room, and it is deeply unsettling to those around her. Her normal affect is remarkably childlike: she takes wonder and intense concentration at the most inconsequential or ordinary things—a knot in a plank, the way light moves through water, the pattern of someone's breathing—and then, without warning, will blurt out an insight of almost impossible depth or precision before retreating back into quiet fascination. She dresses simply in a linen robe and leather shoes, and she carries nothing. She needs nothing.
 

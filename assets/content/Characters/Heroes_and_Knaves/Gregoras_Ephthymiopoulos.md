@@ -21,7 +21,7 @@ data:
   affiliations: [byzarianlg]
   gender: male
   species: humanflk
-  born: VR(678/2/30)
+  born: 678.60
   height: 1.83
   weight: 80.7
   frame: heavy
@@ -429,7 +429,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[grgrsphthympls|Grégoras Ephthymiópoulos]]{float: top-left}
+![[grgrsphthympls|Grégoras Ephthymiópoulos]]{float=top-left}
 
 Grégoras stands 6'0" tall with a heavy build. He has weathered tanned skin, dark brown hair, and hazel eyes. His features include a diamond-shaped face, a hawkish nose, a pronounced chin, well-defined lips, and dark brows.
 

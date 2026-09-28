@@ -21,7 +21,7 @@ data:
   affiliations: [byzarianlg]
   gender: male
   species: humanflk
-  born: VR(668/2/2)
+  born: 668.32
   height: 1.83
   weight: 80.3
   frame: heavy
@@ -421,7 +421,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[drknsdlsns|Drákonis Dalássênos]]{float: top-left}
+![[drknsdlsns|Drákonis Dalássênos]]{float=top-left}
 
 Drákonis stands 6'0" tall with a heavy build. He has tanned ruddy skin, graying brown hair, and green eyes. His features include a long face, a hawkish nose, a sharp jawline, well-defined lips, and graying brows.
 

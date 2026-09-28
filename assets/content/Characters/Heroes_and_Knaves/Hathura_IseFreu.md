@@ -22,7 +22,7 @@ data:
   affiliations: [empirtkhpr]
   gender: female
   species: humanflk
-  born: VR(680/10/2)
+  born: 680.276
   height: 1.7
   weight: 63.5
   frame: light
@@ -439,7 +439,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[hathurasfr|Hathura Ise'Fréu]]{float: top-left}
+![[hathurasfr|Hathura Ise'Fréu]]{float=top-left}
 
 Hathura stands 5'7" tall with a light build. She has golden brown skin, black hair, and hazel eyes. Her features include a high-cheekboned face, a slightly arched nose, a tapered chin, generous lips, and golden brows. Beneath her vestments, the feather-of-[[lore-maatdty|Má'át]] scarification crosses her collarbones—the mark of ordination that every Wer'Hekau carries. A fine gold chain bearing a miniature set of golden scales hangs at her throat, usually tucked beneath the neckline of her robes where only she knows it rests.
 

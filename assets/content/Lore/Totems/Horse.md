@@ -8,7 +8,7 @@ tags: [totem, archetype]
 data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
-![[icon-horsetotem|Horse]]{float: top-left, size: medium}
+![[icon-horsetotem|Horse]]{float=top-left size=medium}
 
 Undisciplined and irresponsible, horses in the wild are free-spirited animals that roam in herds, often following their instincts over any imposed structure.
 

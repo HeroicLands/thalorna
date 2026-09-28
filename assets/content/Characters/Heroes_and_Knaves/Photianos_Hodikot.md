@@ -21,7 +21,7 @@ data:
   affiliations: [byzarianlg]
   gender: male
   species: humanflk
-  born: VR(660/12/1)
+  born: 660.336
   height: 1.73
   weight: 64.4
   frame: heavy
@@ -418,7 +418,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[phtnshdkt|Phótianos Hodíkot]]{float: top-left}
+![[phtnshdkt|Phótianos Hodíkot]]{float=top-left}
 
 Phótianos stands 5'8" tall with a heavy build. He has light weathered skin, gray hair, and green eyes. His features include a long face, a straight nose, a sharp jawline, and prominent brows. He has a scar on his right hand.
 

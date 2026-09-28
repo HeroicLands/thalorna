@@ -21,7 +21,7 @@ data:
   affiliations: [byzarianlg]
   gender: male
   species: humanflk
-  born: VR(678/2/9)
+  born: 678.39
   height: 1.91
   weight: 71.2
   frame: heavy
@@ -422,7 +422,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[angldsthymkt|Ángelides Thymiákit]]{float: top-left}
+![[angldsthymkt|Ángelides Thymiákit]]{float=top-left}
 
 Ángelides stands 6'3" tall with a heavy build. He has tanned weathered skin, black hair, and green eyes. His features include a long face, a hawkish nose, a pronounced chin, well-defined lips, and prominent brows. He has a scar on his neck.
 

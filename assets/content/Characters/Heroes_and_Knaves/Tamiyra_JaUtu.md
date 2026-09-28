@@ -22,7 +22,7 @@ data:
   affiliations: [empirtkhpr]
   gender: female
   species: humanflk
-  born: VR(684/9/18)
+  born: 684.261
   height: 1.6
   weight: 55.8
   frame: light
@@ -425,7 +425,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[tamiyrajat|Tamiyra Jâ'Utu]]{float: top-left}
+![[tamiyrajat|Tamiyra Jâ'Utu]]{float=top-left}
 
 Tamiyra stands 5'3" tall with a light build. She has warm bronze skin, jet black hair, and black eyes. Her features include a diamond-shaped face, a tapered chin, and fine brows. She has a faint scar on the left side of her neck.
 

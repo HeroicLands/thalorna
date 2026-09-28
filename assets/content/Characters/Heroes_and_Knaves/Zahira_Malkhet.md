@@ -21,7 +21,7 @@ data:
   affiliations: [mtrrchybth]
   gender: female
   species: humanflk
-  born: VR(692/12/3)
+  born: 692.338
   height: 1.7
   weight: 68
   frame: heavy
@@ -418,7 +418,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[zahirmlkht|Zahira Malkhet]]{float: top-left}
+![[zahirmlkht|Zahira Malkhet]]{float=top-left}
 
 Zahira stands 5'7" tall with a heavy build. She has dark tanned skin, black hair, and brown eyes. Her features include a high-cheekboned face, an aquiline nose, a tapered chin, arched brows.
 

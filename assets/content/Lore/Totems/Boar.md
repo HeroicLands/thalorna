@@ -8,7 +8,7 @@ tags: [totem, archetype]
 data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
-![[icon-boartotem|Boar]]{float: top-left, size: medium}
+![[icon-boartotem|Boar]]{float=top-left size=medium}
 
 Willful and stubborn, boars are highly determined and will fight vigorously when provoked, relying on their strength and tenacity.
 

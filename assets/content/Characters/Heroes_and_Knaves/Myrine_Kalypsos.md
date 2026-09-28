@@ -21,7 +21,7 @@ data:
   affiliations: [provinclys, blackflame]
   gender: female
   species: humanflk
-  born: VR(696/12/6)
+  born: 696.341
   height: 1.7
   weight: 68
   frame: medium
@@ -429,7 +429,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[myrnklypss|Myrine Kalypsos]]{float: top-left}
+![[myrnklypss|Myrine Kalypsos]]{float=top-left}
 
 Myrine is 5'7" with a wiry but muscular frame, weighing about 150 pounds—the build of someone who trains for combat as a matter of doctrine, not vanity. Her long, dark brown hair is usually tied back in a tight braid, with a few strands escaping to frame intense hazel eyes that hold the unsettling steadiness of someone who has spent too long staring into fire. Her tanned skin bears the markings of her devotion: the flame-shaped tattoo on her right forearm—black ink over ritual scarification, the Black Flame's mark of ordination—is positioned where it cannot be missed by anyone she extends her hand to. The burn scars across her fingertips are fainter, the accumulated evidence of years of fire divination, and she makes no effort to conceal them.
 

@@ -15,7 +15,7 @@ data:
   affiliations: [sultntmrdd]
   gender: female
   species: humanflk
-  born: VR(691/7/3)
+  born: 691.186
   height: 1.78
   weight: 71.2
   frame: light
@@ -413,7 +413,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[daryshshvn|Daryash Shavân]]{float: top-left}
+![[daryshshvn|Daryash Shavân]]{float=top-left}
 
 Daryash stands 5'10" tall with a light build. She has tawny skin, very dark brown hair, and green eyes. Her features include a narrow face, an aquiline nose, a pointed chin, very dark brows.
 

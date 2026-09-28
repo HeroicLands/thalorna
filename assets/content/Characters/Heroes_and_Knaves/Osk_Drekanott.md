@@ -15,7 +15,7 @@ data:
   affiliations: [kingdomlgn]
   gender: female
   species: humanflk
-  born: VR(686/3/20)
+  born: 686.81
   height: 1.7
   weight: 66.2
   frame: light
@@ -417,7 +417,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[oskdrekant|Ósk Drekanótt]]{float: top-left}
+![[oskdrekant|Ósk Drekanótt]]{float=top-left}
 
 Ósk stands 5'7" tall with a light build. She has light fair skin, blonde hair, and brown eyes. Her features include an oval face, a small nose, a rounded chin, a wide mouth, light brows, and rosy cheeks. She has a scar running down her right leg.
 

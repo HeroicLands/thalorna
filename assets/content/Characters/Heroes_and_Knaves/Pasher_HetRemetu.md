@@ -22,7 +22,7 @@ data:
   affiliations: [empirtkhpr]
   gender: male
   species: humanflk
-  born: VR(685/2/8)
+  born: 685.38
   height: 1.85
   weight: 70.3
   frame: medium
@@ -421,7 +421,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[pashrhtrmt|Pasher Het'Remetu]]{float: top-left}
+![[pashrhtrmt|Pasher Het'Remetu]]{float=top-left}
 
 Pasher stands 6'1" tall with a medium build. He has ebony weathered skin, very dark brown hair, and brown eyes. His features include an oval face, a long nose, a narrow chin, an expressive mouth, very dark brows, and sculpted cheeks. He has a scar across his left eye.
 

@@ -21,7 +21,7 @@ data:
   affiliations: [kingdmtrvn]
   gender: female
   species: humanflk
-  born: VR(693/4/19)
+  born: 693.110
   height: 1.78
   weight: 71.2
   frame: light
@@ -425,7 +425,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[thlstrvlth|Thalísa Torvaleth]]{float: top-left}
+![[thlstrvlth|Thalísa Torvaleth]]{float=top-left}
 
 Thalísa stands 5'10" tall with a light build. She has warm olive skin, dark brown hair, and green eyes. Her features include a diamond-shaped face, a hawkish nose, a pronounced chin, slightly pursed lips, and dark brows. She has a tattoo of a wolf on her shoulder.
 

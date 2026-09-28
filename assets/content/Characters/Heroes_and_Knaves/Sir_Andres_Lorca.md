@@ -21,7 +21,7 @@ data:
   affiliations: [kingdmtrvn]
   gender: male
   species: humanflk
-  born: VR(676/10/8)
+  born: 676.282
   height: 1.85
   weight: 99.8
   frame: heavy
@@ -428,7 +428,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[srndrslrcknghtwstrnmrchs|Sir Andrés Lorca, Knight of the Western Marches]]{float: top-left}
+![[srndrslrcknghtwstrnmrchs|Sir Andrés Lorca, Knight of the Western Marches]]{float=top-left}
 
 Sir Andrés stands at 6'1", with a broad, muscular build, the result of years of rigorous knightly training. His olive-toned skin speaks of his noble heritage, while the faint scars that line his face and arms tell the story of a life dedicated to battle and honor. His dark hair is shoulder-length and slightly graying at the temples, often tied back or tucked under his helm during combat. Sir Andrés’s sharp, deep-set brown eyes reveal a calm but intense demeanor, and his chiseled jaw is typically clean-shaven, in accordance with the disciplined standards of his knightly order. He wears well-maintained plate armor, polished but not excessively ornate, marked with the sigil of his knightly order—a silver falcon, symbolizing vigilance and nobility. His favored weapon is a longsword, which he wields with precision and strength, and a round kite shield bearing his family crest.
 

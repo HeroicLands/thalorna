@@ -265,7 +265,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[frostjaw|Frostjaw]]{float: top-left}
+![[frostjaw|Frostjaw]]{float=top-left}
 
 Your breath mists in air that should be warmer. A shape materializes from white snow and whiter fog—four-legged and deadly, composed of living ice and frosted air. Its fur, if it can be called that, is crystalline and brittle, and every step it takes cracks the frozen ground beneath it. Its breath is visible and freezing, and the space around it seems to age and become brittle with unnatural cold. When it opens its mouth, you see teeth of ice and something older, something that existed before fire ever warmed the world.
 

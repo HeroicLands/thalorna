@@ -15,7 +15,7 @@ data:
   affiliations: [kalihara]
   gender: male
   species: humanflk
-  born: VR(683/5/15)
+  born: 683.137
   height: 1.85
   weight: 80.3
   frame: medium
@@ -419,7 +419,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[sabirajira|Sâbir Âjira]]{float: top-left}
+![[sabirajira|Sâbir Âjira]]{float=top-left}
 
 Sâbir stands 6'1" tall with a medium build. He has deep ebony skin, black hair, and dark amber eyes. His features include an angular face, a straight nose, a refined jawline, full lips, fine brows, sculpted cheeks.
 

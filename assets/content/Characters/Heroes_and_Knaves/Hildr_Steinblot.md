@@ -21,7 +21,7 @@ data:
   affiliations: [kngdmvthgrd]
   gender: female
   species: humanflk
-  born: VR(688/2/15)
+  born: 688.45
   height: 1.8
   weight: 74.4
   frame: medium
@@ -430,7 +430,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[hldrstnblt|Hildr Steinblót]]{float: top-left}
+![[hldrstnblt|Hildr Steinblót]]{float=top-left}
 
 Hildr stands 5'11" tall with a medium build. She has light fair skin, dark brown hair, and hazel eyes. Her features include an oblong face, a slightly upturned nose, a strong jawline, a firm-set mouth, dark brows, angular cheeks.
 

@@ -145,7 +145,7 @@ See [[being-grkrahk|Grukar-ahk]] and [[lore-pelwarpepl|the Pelwar People]].
 This works the same whether the target is in this package or another one. Links
 into other packages resolve through their published metadata. `npm run
 build:deps` caches that metadata from the dependency manifests named in
-`package-build.config.yaml`; `npm run lint` and `content-build links` validate
+`package-build.config.yaml`; `npm run lint` and `package-build links` validate
 that addresses resolve. An address that matches no published note stops being
 tolerated and fails the build.
 

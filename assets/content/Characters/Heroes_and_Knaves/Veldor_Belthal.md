@@ -21,7 +21,7 @@ data:
   affiliations: [kngdmlvndr]
   gender: male
   species: humanflk
-  born: VR(684/10/15)
+  born: 684.289
   height: 1.75
   weight: 65.8
   frame: medium
@@ -418,7 +418,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[veldrblthl|Véldor Bélthal]]{float: top-left}
+![[veldrblthl|Véldor Bélthal]]{float=top-left}
 
 Véldor stands 5'9" tall with a medium build. He has light fair skin, dark brown hair, and blue eyes. His features include a broad face, a narrow nose, a rounded chin, dark brows.
 

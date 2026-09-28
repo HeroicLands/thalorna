@@ -15,7 +15,7 @@ data:
   affiliations: [khzrncnfdrtn]
   gender: female
   species: humanflk
-  born: VR(673/4/11)
+  born: 673.102
   height: 1.68
   weight: 61.2
   frame: medium
@@ -420,7 +420,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[nushirnrsf|Nushir Narsâfî]]{float: top-left}
+![[nushirnrsf|Nushir Narsâfî]]{float=top-left}
 
 Nushir stands 5'6" tall with a medium build. She has light olive skin, gray hair, and brown eyes. Her features include a diamond-shaped face, a strong nose, an angular jawline, a firm-set mouth, arched brows, and prominent cheeks.
 

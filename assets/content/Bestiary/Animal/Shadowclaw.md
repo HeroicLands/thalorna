@@ -260,7 +260,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[shdwclw|Shadowclaw]]{float: top-left}
+![[shdwclw|Shadowclaw]]{float=top-left}
 
 The color of the terrain seems to ripple, and reality shifts as the creature's form comes into focus. Iridescent scales shimmer with hues that match the surroundings so perfectly that you cannot tell whether you are seeing the creature itself or the forest's reflection. The emerald eyes open like gems in shadow, revealing an intelligence that seems almost predatory in its awareness. The movement is fluid and wrong—too many joints, too much flexibility—as the long feathered tail twitches with serpentine grace. Then you notice the claws: three wickedly sharp talons on each foot, and on the second claw of each hind leg, a hooked talon the length of a dagger points upward in permanent threat.
 

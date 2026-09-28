@@ -22,7 +22,7 @@ data:
   affiliations: [empirtkhpr]
   gender: male
   species: humanflk
-  born: VR(665/6/12)
+  born: 665.164
   height: 1.83
   weight: 79.8
   frame: heavy
@@ -419,7 +419,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[raiahsekmt|Raiah Sekmet'Âu]]{float: top-left}
+![[raiahsekmt|Raiah Sekmet'Âu]]{float=top-left}
 
 Raiah stands 6'0" tall with a heavy build. He has ebony skin, graying black hair, and brown eyes. His features include a diamond-shaped face, a slightly arched nose, a narrow chin, well-shaped lips, and arched brows.
 

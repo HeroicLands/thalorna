@@ -21,7 +21,7 @@ data:
   affiliations: [chandrapur]
   gender: female
   species: humanflk
-  born: VR(692/10/14)
+  born: 692.288
   height: 1.7
   weight: 60.3
   frame: medium
@@ -419,7 +419,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[sntydhyrjvrdhn|Sunáti Āyodhyārājavardhan]]{float: top-left}
+![[sntydhyrjvrdhn|Sunáti Āyodhyārājavardhan]]{float=top-left}
 
 Sunáti stands 5'7" tall with a medium build. She has rich brown skin, black hair, and honey brown eyes. Her features include a soft-featured face, a rounded chin, elegantly curved brows, rounded cheeks.
 

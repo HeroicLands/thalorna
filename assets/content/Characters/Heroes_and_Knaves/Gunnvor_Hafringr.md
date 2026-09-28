@@ -21,7 +21,7 @@ data:
   affiliations: [kingdmnrgd]
   gender: female
   species: humanflk
-  born: VR(691/12/3)
+  born: 691.338
   height: 1.8
   weight: 71.7
   frame: medium
@@ -423,7 +423,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[gnvrhfrngr|Gunnvör Hafringr]]{float: top-left}
+![[gnvrhfrngr|Gunnvör Hafringr]]{float=top-left}
 
 Gunnvör stands 5'11" tall with a medium build. She has pale fair skin, blonde hair, and green eyes. Her features include an oval face, a prominent nose, an angular jawline, a small mouth, heavy brows, and angular cheeks.
 

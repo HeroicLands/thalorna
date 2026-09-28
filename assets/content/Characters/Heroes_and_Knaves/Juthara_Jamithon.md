@@ -21,7 +21,7 @@ data:
   affiliations: [mtrrchybth]
   gender: female
   species: humanflk
-  born: VR(686/9/20)
+  born: 686.263
   height: 1.8
   weight: 64.9
   frame: medium
@@ -425,7 +425,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[juthrjmthn|Júthâra Jâmîthôn]]{float: top-left}
+![[juthrjmthn|Júthâra Jâmîthôn]]{float=top-left}
 
 Júthâra stands 5'11" tall with a medium build. She has warm amber skin, black hair, and brown eyes. Her features include a narrow face, a noble nose, a smooth jawline, elegantly curved brows. A distinguishing mark is a scar running across the stomach.
 

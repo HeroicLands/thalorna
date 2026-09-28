@@ -380,7 +380,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[grkrh|Grukar-Hai]]{float: top-left}
+![[grkrh|Grukar-Hai]]{float=top-left}
 
 The thing that fills the doorway is not merely large—it is a statement of violence made flesh. A Grukar-Hai stands six feet tall or more, a towering slab of gray-green muscle and scarred hide, broader across the shoulders than any two men standing abreast. Its jaw juts forward beneath a pair of cracked, yellowed tusks, and its small, deep-set eyes burn with a hatred so pure it seems almost sacred. Every inch of its body tells a story of combat: old wounds healed into ridges of pale scar tissue, chunks bitten from its ears, knuckles swollen and misshapen from a lifetime of breaking things. The massive weapon it carries—a brutal cleaver of black iron, or a war-club studded with jagged bone—looks as though it was made for something even larger, yet the creature wields it with a terrible, easy strength. When a Grukar-Hai looks at you, it is not sizing you up. It has already decided you are beneath it. It is merely deciding how slowly you will die.
 

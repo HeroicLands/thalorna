@@ -15,7 +15,7 @@ data:
   affiliations: [kngdmlvndr]
   gender: male
   species: humanflk
-  born: VR(683/5/20)
+  born: 683.142
   height: 1.75
   weight: 67.1
   frame: medium
@@ -418,7 +418,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[prthnblthl|Párthun Bélthal]]{float: top-left}
+![[prthnblthl|Párthun Bélthal]]{float=top-left}
 
 Párthun stands 5'9" tall with a medium build. He has tanned ruddy skin, dark brown hair, and brown eyes. His features include a heart-shaped face, a small nose, a gentle jawline, dark brows. A distinguishing mark is a scar on the left foot.
 

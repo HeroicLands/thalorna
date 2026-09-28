@@ -15,7 +15,7 @@ data:
   affiliations: [sultntmrdd]
   gender: male
   species: humanflk
-  born: VR(685/10/30)
+  born: 685.304
   height: 1.7
   weight: 71.7
   frame: light
@@ -423,7 +423,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[mehradzrdn|Mehrâd Âzardan]]{float: top-left}
+![[mehradzrdn|Mehrâd Âzardan]]{float=top-left}
 
 Mehrâd stands 5'7" tall with a light build. He has warm olive skin, dark black hair, and green eyes. His features include an oval face, a hawkish nose, a well-defined jawline, full lips, prominent brows, and hollow cheeks. He has a scar on his lower abdomen.
 

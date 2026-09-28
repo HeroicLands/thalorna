@@ -22,7 +22,7 @@ data:
   affiliations: [empirtkhpr]
   gender: male
   species: humanflk
-  born: VR(672/4/20)
+  born: 672.111
   height: 1.88
   weight: 85.3
   frame: heavy
@@ -435,7 +435,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[hersaisant|Hersaîs Sa'Anutu]]{float: top-left}
+![[hersaisant|Hersaîs Sa'Anutu]]{float=top-left}
 
 Hersaîs stands 6'2" tall with a heavy build. He has olive weathered skin, black hair, and dark amber eyes. His features include a high-cheekboned face, a straight narrow nose, a pointed chin, well-shaped lips, elegantly curved brows, and angular cheeks.
 

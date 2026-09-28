@@ -8,7 +8,7 @@ tags: [totem, archetype]
 data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
-![[icon-chickentotem|Chicken]]{float: top-left, size: medium}
+![[icon-chickentotem|Chicken]]{float=top-left size=medium}
 
 Timid and skittish, chickens are easily startled and rely on their quick reflexes and flocking behavior for safety.
 

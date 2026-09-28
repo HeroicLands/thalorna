@@ -22,7 +22,7 @@ data:
   affiliations: [empirtkhpr]
   gender: female
   species: humanflk
-  born: VR(692/2/2)
+  born: 692.32
   height: 1.68
   weight: 63.5
   frame: light
@@ -427,7 +427,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[isaretkskr|Isaret Ka'Sekeru]]{float: top-left}
+![[isaretkskr|Isaret Ka'Sekeru]]{float=top-left}
 
 Isaret stands 5'6" tall with a light build. She has dusky brown skin, jet-black hair, and dark eyes. Her features include an oval face, a straight narrow nose, a tapered chin, well-shaped lips, high-set brows, hollow cheeks.
 

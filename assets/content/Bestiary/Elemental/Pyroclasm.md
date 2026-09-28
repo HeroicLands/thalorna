@@ -421,7 +421,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[pyrclsm|Pyroclasm]]{float: top-left}
+![[pyrclsm|Pyroclasm]]{float=top-left}
 
 Before you stands contained catastrophe—a roughly humanoid shape twelve feet tall, composed of roiling lava and burning rock held in violent cohesion. Its movements are aggressive and jerky, as if barely contained by the effort of maintaining form. Where it stands, the ground melts and the air shimmers. Magma drips from its limbs like sweat, and its breath is literally fire. The noise it makes is the hiss of lava striking water, the roar of volcanic eruption, the crackle of a world burning. When it looks at you, you are certain you are looking at something that simply wants to incinerate everything.
 

@@ -21,7 +21,7 @@ data:
   affiliations: [kngdmprvnz]
   gender: male
   species: humanflk
-  born: VR(695/4/4)
+  born: 695.95
   height: 1.85
   weight: 78
   frame: medium
@@ -422,7 +422,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[kjrvngjrln|Kjôrvan Gjârlen]]{float: top-left}
+![[kjrvngjrln|Kjôrvan Gjârlen]]{float=top-left}
 
 Kjôrvan stands 6'1" tall with a medium build. He has sun-tanned skin, dark brown hair, and brown eyes. His features include an oblong face, a straight nose, an angular jawline, full lips, dark brows, and sculpted cheeks.
 

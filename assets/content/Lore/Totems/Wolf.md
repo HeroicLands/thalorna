@@ -8,7 +8,7 @@ tags: [totem, archetype]
 data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
-![[icon-wolftotem|Wolf]]{float: top-left, size: medium}
+![[icon-wolftotem|Wolf]]{float=top-left size=medium}
 
 Cooperative and strategic, wolves are pack animals that rely on teamwork and careful planning to hunt and protect their territory.
 

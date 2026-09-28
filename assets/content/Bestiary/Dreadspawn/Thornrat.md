@@ -243,7 +243,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[thornrat|Thornrat]]{float: top-left}
+![[thornrat|Thornrat]]{float=top-left}
 
 A shape no larger than a cat skitters across the underbrush, and in the shadows you catch a glimpse of something wrong—a creature bristling with needle-like spines that cover its entire body like a grotesque suit of armor. Its fur, matted and diseased, hangs in clumps between the spines, and the stench that radiates from it is nauseating—a smell of rot and poison and festering wounds. Its eyes glow with a sickly green luminescence, and as it catches your scent, it hisses, revealing fangs that seem impossibly large for such a small creature and dripping with venom that glows faintly in the darkness. Then, in a blur of motion, the creature launches itself upward, and spines shower outward like a gauntlet of needles aimed directly at you, each one leaving a trail of toxic miasma in the air.
 

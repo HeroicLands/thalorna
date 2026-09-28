@@ -185,7 +185,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[abysslsl|Abyssal Silt]]{float: top-left}
+![[abysslsl|Abyssal Silt]]{float=top-left}
 
 The air above the ground reeks of char and copper—a caustic stench that makes your eyes water. Something writhes in the darkness, a throbbing mass of midnight blue that catches light as if the depths of the world have pooled here. Fine, thread-like appendages quiver from its surface, tasting the air, sensing. Where it rests, stone itself glistens wet and pitted, the stone dissolving as you watch.
 

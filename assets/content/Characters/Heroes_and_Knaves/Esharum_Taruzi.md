@@ -16,7 +16,7 @@ data:
   affiliations: [thetamzir, cnfdrtnhrdnstts]
   gender: male
   species: humanflk
-  born: VR(680/7/8)
+  born: 680.191
   height: 1.88
   weight: 81.6
   frame: medium
@@ -407,7 +407,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[esharumtrz|Eshârum Tarûzî]]{float: top-left}
+![[esharumtrz|Eshârum Tarûzî]]{float=top-left}
 
 Eshârum Tarûzî is a tall, rangy man with the sun-darkened skin and salt-roughened hands of a lifelong sailor. His brown hair is streaked prematurely gray at the temples and hangs to his collar, usually tied back with a leather cord. His blue eyes are striking against his weathered complexion—sharp, watchful, and carrying the weight of things he does not discuss. A long scar traces his left jaw from ear to chin, a souvenir of the Battle of Tamzîr. He moves with the easy economy of a man accustomed to rolling decks, and his lean frame carries more strength than it advertises. He favors a long brown oiled-canvas coat over practical clothing, with his broadsword belted at his hip and a dagger in his boot.
 

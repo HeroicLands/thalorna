@@ -21,7 +21,7 @@ data:
   affiliations: [byzarianlg]
   gender: male
   species: humanflk
-  born: VR(675/4/17)
+  born: 675.108
   height: 1.91
   weight: 87.5
   frame: heavy
@@ -426,7 +426,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[lnntshdkt|Leónantos Hodíkot]]{float: top-left}
+![[lnntshdkt|Leónantos Hodíkot]]{float=top-left}
 
 Leónantos stands 6'3" tall with a heavy build. He has light tanned skin, black hair, and brown eyes. His features include an oblong face, a prominent nose, a pointed chin, a wide mouth, heavy brows. A distinguishing mark is a tattoo of a skill and crossbones on the chest.
 

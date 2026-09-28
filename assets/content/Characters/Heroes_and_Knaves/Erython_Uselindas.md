@@ -21,7 +21,7 @@ data:
   affiliations: [hlykngdmnrtm]
   gender: male
   species: humanflk
-  born: VR(688/9/7)
+  born: 688.250
   height: 1.85
   weight: 80.7
   frame: medium
@@ -423,7 +423,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[erythnslnds|Érython Ûselîndâs]]{float: top-left}
+![[erythnslnds|Érython Ûselîndâs]]{float=top-left}
 
 Érython stands 6'1" tall with a medium build. He has light fair skin, brown hair, and green eyes. His features include a heart-shaped face, a narrow nose, a narrow chin, expressive brows, soft cheeks. A distinguishing mark is a tattoo of a serpent on the back.
 

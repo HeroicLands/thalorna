@@ -21,7 +21,7 @@ data:
   affiliations: [kngdmnrdhm]
   gender: male
   species: humanflk
-  born: VR(686/3/29)
+  born: 686.90
   height: 1.8
   weight: 81.6
   frame: medium
@@ -419,7 +419,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[yngvrdrtgr|Yngvarr Dróttgar]]{float: top-left}
+![[yngvrdrtgr|Yngvarr Dróttgar]]{float=top-left}
 
 Yngvarr stands 5'11" tall with a medium build. He has light fair skin, red hair, and hazel eyes. His features include an angular face, a slightly upturned nose, a heavy jawline, a firm-set mouth, and thick brows. He has a scar on his left shoulder.
 

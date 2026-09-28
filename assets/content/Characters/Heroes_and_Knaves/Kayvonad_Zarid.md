@@ -15,7 +15,7 @@ data:
   affiliations: [tribestrzd]
   gender: male
   species: humanflk
-  born: VR(670/5/25)
+  born: 670.147
   height: 1.63
   weight: 50.8
   frame: medium
@@ -419,7 +419,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[kayvondzrd|Kayvonad Zârîd]]{float: top-left}
+![[kayvondzrd|Kayvonad Zârîd]]{float=top-left}
 
 Kayvonad stands 5'4" tall with a medium build. He has light olive skin, a shaved head, and dark amber eyes. His features include an oblong face, a long nose, a sharp jawline, a firm-set mouth, heavy brows, and high cheeks.
 

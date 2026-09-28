@@ -22,7 +22,7 @@ data:
   affiliations: [empirtkhpr]
   gender: female
   species: humanflk
-  born: VR(682/2/25)
+  born: 682.55
   height: 1.83
   weight: 73
   frame: medium
@@ -437,7 +437,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[satiynbkht|Satiya Neb'Akhetu]]{float: top-left}
+![[satiynbkht|Satiya Neb'Akhetu]]{float=top-left}
 
 Satiya stands 6'0" tall with a medium build. She has ebony skin, black hair, and hazel eyes. Her features include an oval face, a noble nose, a gentle jawline, and high-set brows.
 

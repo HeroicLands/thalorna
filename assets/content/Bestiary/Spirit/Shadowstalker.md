@@ -393,7 +393,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[shdwstlk|Shadowstalker]]{float: top-left}
+![[shdwstlk|Shadowstalker]]{float=top-left}
 
 You feel it a moment before you see it—a sudden chill down the spine, the prickle of being watched. Then your eyes catch motion in the corner, a shape in shadow that should not move independently of the light that creates it. It is vaguely humanoid but wrong in proportion, with angles too sharp and movements too liquid. Before your mind can quite process what you are seeing, it is no longer there—only the lingering sensation that something predatory measured you and found you wanting.
 

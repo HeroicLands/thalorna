@@ -186,7 +186,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[gntoctps|Giant Octopus]]{float: top-left}
+![[gntoctps|Giant Octopus]]{float=top-left}
 
 The water darkens before you see the creature itself. A massive bulbous form rises from the depths, slick and rubbery, its coloration shifting from moment to moment—now browns and grays to match the rock, now a flushed crimson that radiates intent. Eight tentacles unfurl around the central body, each as thick as a man's torso, lined with powerful suction cups that ripple as they move. The creature's large, luminous eyes fix on you, and they hold something that makes your blood chill: unmistakable intelligence, alien and absolute. Then comes a sound that travels through the water and into your chest—a beak clicking, tasting the current, preparing.
 

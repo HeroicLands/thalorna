@@ -22,7 +22,7 @@ data:
   affiliations: [empirtkhpr]
   gender: male
   species: humanflk
-  born: VR(662/2/2)
+  born: 662.32
   height: 1.75
   weight: 69.9
   frame: medium
@@ -426,7 +426,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[nkhtrmnrsht|Nakhtar Amun'Râshetu]]{float: top-left}
+![[nkhtrmnrsht|Nakhtar Amun'Râshetu]]{float=top-left}
 
 Nakhtar stands 5'9" tall with a medium build. He has dark brown skin, white hair, and green-brown eyes. His features include a prominent nose, a tapered chin, well-shaped lips, and dark brows.
 

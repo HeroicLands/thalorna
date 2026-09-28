@@ -21,7 +21,7 @@ data:
   affiliations: [kngdmvthgrd]
   gender: male
   species: humanflk
-  born: VR(690/2/15)
+  born: 690.45
   height: 1.88
   weight: 83.5
   frame: medium
@@ -423,7 +423,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[sigfstrmrt|Sigfúss Stormrót]]{float: top-left}
+![[sigfstrmrt|Sigfúss Stormrót]]{float=top-left}
 
 Sigfúss stands 6'2" tall with a medium build. He has tanned weathered skin, brown hair, and blue eyes. His features include an oblong face, a narrow nose, a broad chin, a small mouth, thick brows, and high cheeks.
 

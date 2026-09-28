@@ -20,7 +20,7 @@ data:
   affiliations: [thyrenae]
   gender: male
   species: humanflk
-  born: VR(675/10/7)
+  born: 675.281
   height: 1.68
   weight: 59
   frame: medium

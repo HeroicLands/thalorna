@@ -21,7 +21,7 @@ data:
   affiliations: [vyalendra2]
   gender: male
   species: humanflk
-  born: VR(683/4/10)
+  born: 683.101
   height: 1.93
   weight: 89.4
   frame: heavy
@@ -425,7 +425,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[visvarmhpr|Vishvàra Mahâpara]]{float: top-left}
+![[visvarmhpr|Vishvàra Mahâpara]]{float=top-left}
 
 Vishvàra stands 6'4" tall with a heavy build. He has warm golden brown skin, dark black hair, and warm brown eyes. His features include a soft-featured face, a prominent nose, a tapered chin, full lips, warm golden brows, and soft cheeks. He has a scar on his right calf.
 

@@ -186,7 +186,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[sandwurm|Sand Wurm]]{float: top-left}
+![[sandwurm|Sand Wurm]]{float=top-left}
 
 The ground itself becomes the warning—a deep, subsonic vibration that travels up through your feet and into your bones. The sand and earth around you begins to shift, creating patterns of disturbance that shouldn't exist, as if something impossibly vast moves beneath the surface. Then, with the violence of an eruption, the ground explodes upward, and a maw of such scale and such teeth emerges that your mind struggles to comprehend it. Rough, beige scales gleam in harsh sunlight, each one the size of a shield, arranged in patterns that mimic dunes, and the creature's eyeless head sways with an awareness that seems to reach beyond ordinary senses. The smell hits—sulfur and ancient earth, the reek of a creature that has hunted for centuries. The sound is worst of all: not a roar but a hiss from deep in the throat, a sound that resonates with hunger and inevitability.
 

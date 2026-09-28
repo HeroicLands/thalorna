@@ -237,7 +237,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[frstwng|Frostwing]]{float: top-left}
+![[frstwng|Frostwing]]{float=top-left}
 
 High above, a shape circles on wings that catch the light wrongly. The Frostwing is beautiful in the way that predators are beautiful—economical, purposeful, terrible. Its wings seem to be made of crystalline ice, refracting light into patterns that hurt to watch directly. As it banks and turns, frost crystals trail behind it like the wake of a ship. The air grows colder as it approaches, and you realize with creeping horror that the temperature is dropping far faster than it should, faster than wind and altitude should account for.
 

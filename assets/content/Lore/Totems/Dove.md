@@ -8,7 +8,7 @@ tags: [totem, archetype]
 data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
-![[icon-dovetotem|Dove]]{float: top-left, size: medium}
+![[icon-dovetotem|Dove]]{float=top-left size=medium}
 
 Gentle and peaceful, instinctively seeking harmony and companionship, often displaying strong pair bonding and a calming presence in their surroundings.
 

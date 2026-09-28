@@ -21,7 +21,7 @@ data:
   affiliations: [kingdomlgn]
   gender: male
   species: humanflk
-  born: VR(678/2/28)
+  born: 678.58
   height: 1.91
   weight: 89.4
   frame: heavy
@@ -420,7 +420,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[bthvrslvrgr|Böthvarr Sólvargr]]{float: top-left}
+![[bthvrslvrgr|Böthvarr Sólvargr]]{float=top-left}
 
 Böthvarr stands 6'3" tall with a heavy build. He has tanned weathered skin, gray hair, and blue eyes. His features include a broad face, a straight nose, a soft jawline, full lips, and gently curved brows. He has a tattoo of a lion's mane on his chest.
 

@@ -21,7 +21,7 @@ data:
   affiliations: [dunhartrbs]
   gender: male
   species: humanflk
-  born: VR(658/7/11)
+  born: 658.194
   height: 1.68
   weight: 62.1
   frame: medium
@@ -425,7 +425,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[firavdprsk|Firâvâd Pâresak]]{float: top-left}
+![[firavdprsk|Firâvâd Pâresak]]{float=top-left}
 
 Firâvâd stands 5'6" tall with a medium build. He has tanned weathered skin, white hair, and dark brown eyes. His features include a diamond-shaped face, a hawkish nose, a strong jawline, full lips, dark brows, angular cheeks.
 

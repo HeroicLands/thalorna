@@ -21,7 +21,7 @@ data:
   affiliations: [kngdmvthgrd]
   gender: male
   species: humanflk
-  born: VR(690/3/15)
+  born: 690.76
   height: 1.7
   weight: 64.9
   frame: light
@@ -419,7 +419,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[yngvrblthl|Yngvarr Blóthöll]]{float: top-left}
+![[yngvrblthl|Yngvarr Blóthöll]]{float=top-left}
 
 Yngvarr stands 5'7" tall with a light build. He has light fair skin, red hair, and blue eyes. His features include an oblong face, an aquiline nose, a square jawline, a small mouth, heavy brows.
 

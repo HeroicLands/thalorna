@@ -165,7 +165,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[lrgspdr|Large Spider]]{float: top-left}
+![[lrgspdr|Large Spider]]{float=top-left}
 
 Something skitters at the edge of your vision—wrong, alien, wrong. Eight jointed legs move in hypnotic synchronization, each one ending in a sharp point that clicks against stone. The body is a dark, glossy bulb covered in fine bristles, and the cephalothorax is dominated by eight eyes that catch the light and throw it back at you with unblinking intelligence. The smell is unfamiliar—acrid, sharp, vaguely chemical. When it moves, it moves with unsettling speed and precision, as though bound by different physical laws than you are. The pair of pedipalps frame twin fangs that glisten with venom.
 

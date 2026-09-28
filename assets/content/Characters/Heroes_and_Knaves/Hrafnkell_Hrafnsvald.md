@@ -21,7 +21,7 @@ data:
   affiliations: [kngdmvthgrd]
   gender: male
   species: humanflk
-  born: VR(676/3/11)
+  born: 676.72
   height: 1.8
   weight: 72.6
   frame: medium
@@ -428,7 +428,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[hrfnklhrfnsvld|Hrafnkell Hrafnsvald]]{float: top-left}
+![[hrfnklhrfnsvld|Hrafnkell Hrafnsvald]]{float=top-left}
 
 Hrafnkell stands 5'11" tall with a medium build. He has light fair skin, dark brown hair, and brown eyes. His features include an angular face, a prominent nose, a square jawline, a small mouth, dark brows. A distinguishing mark is a tattoo of a fire on the leg.
 

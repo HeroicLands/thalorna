@@ -21,7 +21,7 @@ data:
   affiliations: [kingdomlgn]
   gender: female
   species: humanflk
-  born: VR(693/9/21)
+  born: 693.264
   height: 1.73
   weight: 64.9
   frame: light
@@ -419,7 +419,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[ingrthrskyrkr|Íngrithr Skýrekkr]]{float: top-left}
+![[ingrthrskyrkr|Íngrithr Skýrekkr]]{float=top-left}
 
 Íngrithr stands 5'8" tall with a light build. She has pale fair skin, black hair, and hazel eyes. Her features include a broad face, a snub nose, a narrow chin, rosy lips, light brows, and soft cheeks.
 

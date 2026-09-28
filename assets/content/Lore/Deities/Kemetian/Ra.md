@@ -7,7 +7,7 @@ tags: [draft]
 data: {packFolder: deitieskemetian}
 ---
 
-![[icon-ra|Rā]]{float: top-left, size: medium}
+![[icon-ra|Rā]]{float=top-left size=medium}
 
 _The Solar Flame—a blazing sun disk with rays of fire._
 

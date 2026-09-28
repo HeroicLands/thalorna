@@ -21,7 +21,7 @@ data:
   affiliations: [nylbtrblntn]
   gender: male
   species: humanflk
-  born: VR(692/2/2)
+  born: 692.32
   height: 1.88
   weight: 90.7
   frame: heavy
@@ -431,7 +431,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[gahijwfnjr|Gahiji wa Fénjara]]{float: top-left}
+![[gahijwfnjr|Gahiji wa Fénjara]]{float=top-left}
 
 Gahiji stands 6'2" tall with a heavy build. He has dark skin, dark hair, and dark eyes. His features include a square face, a strong nose, a wide jawline, an expressive mouth, thick brows, high cheeks.
 

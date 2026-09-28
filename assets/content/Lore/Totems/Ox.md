@@ -8,7 +8,7 @@ tags: [totem, archetype]
 data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
-![[icon-oxtotem|Ox]]{float: top-left, size: medium}
+![[icon-oxtotem|Ox]]{float=top-left size=medium}
 
 Strong and dependable, oxen are resilient animals used in agriculture for their ability to carry heavy loads and work tirelessly in fields.
 

@@ -15,7 +15,7 @@ data:
   affiliations: [sultntmrdd]
   gender: female
   species: humanflk
-  born: VR(691/2/23)
+  born: 691.53
   height: 1.85
   weight: 78.9
   frame: light
@@ -413,7 +413,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[gulrnhgzvn|Gulrânah Gazvân]]{float: top-left}
+![[gulrnhgzvn|Gulrânah Gazvân]]{float=top-left}
 
 Gulrânah stands 6'1" tall with a light build. She has light olive skin, dark brown hair, and warm brown eyes. Her features include a long face, a hawkish nose, an angular jawline, full lips, dark brows, angular cheeks. A distinguishing mark is a scar on the right wrist.
 

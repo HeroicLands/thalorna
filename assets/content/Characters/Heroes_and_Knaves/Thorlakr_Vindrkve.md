@@ -21,7 +21,7 @@ data:
   affiliations: [kngdmnrdhm]
   gender: male
   species: humanflk
-  born: VR(682/5/12)
+  born: 682.134
   height: 1.85
   weight: 84.4
   frame: medium
@@ -431,7 +431,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[thrlkrvndrkv|Thorlákr Vindrkvé]]{float: top-left}
+![[thrlkrvndrkv|Thorlákr Vindrkvé]]{float=top-left}
 
 Thorlákr stands 6'1" tall with a medium build. He has tanned ruddy skin, gray hair, and blue eyes. His features include an angular face, a slightly upturned nose, an angular jawline, narrow lips, thick brows, and hollow cheeks. He has a tattoo of a tiger on his forearm.
 

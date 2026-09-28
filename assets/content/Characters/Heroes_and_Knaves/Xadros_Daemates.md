@@ -21,7 +21,7 @@ data:
   affiliations: [hlykngdmnrtm]
   gender: male
   species: humanflk
-  born: VR(682/9/20)
+  born: 682.263
   height: 1.85
   weight: 78
   frame: medium
@@ -423,7 +423,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[xadrosdmts|Xadrôs Dâemâtês]]{float: top-left}
+![[xadrosdmts|Xadrôs Dâemâtês]]{float=top-left}
 
 Xadrôs stands 6'1" tall with a medium build. He has light tanned skin, dark brown hair, and brown eyes. His features include a long face, a snub nose, a strong jawline, dark brows, and rounded cheeks.
 

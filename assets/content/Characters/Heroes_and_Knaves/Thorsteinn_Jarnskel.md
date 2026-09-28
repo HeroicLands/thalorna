@@ -21,7 +21,7 @@ data:
   affiliations: [kingdmnrgd]
   gender: male
   species: humanflk
-  born: VR(675/3/22)
+  born: 675.83
   height: 1.85
   weight: 85.7
   frame: heavy
@@ -420,7 +420,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[thrstnjrnskl|Thorsteinn Járnskel]]{float: top-left}
+![[thrstnjrnskl|Thorsteinn Járnskel]]{float=top-left}
 
 Thorsteinn stands 6'1" tall with a heavy build. He has tanned weathered skin, black hair, and gray eyes. His features include an oblong face, a straight nose, a heavy jawline, a small mouth, and low-set brows.
 

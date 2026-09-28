@@ -20,7 +20,7 @@ data:
   affiliations: [athenikos]
   gender: male
   species: humanflk
-  born: VR(681/3/13)
+  born: 681.74
   height: 1.74
   weight: 63
   frame: light

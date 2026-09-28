@@ -15,7 +15,7 @@ data:
   affiliations: [kngdmlvndr]
   gender: female
   species: humanflk
-  born: VR(693/3/12)
+  born: 693.73
   height: 1.75
   weight: 68.5
   frame: light
@@ -421,7 +421,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[alyrklmrth|Ályra Kálmereth]]{float: top-left}
+![[alyrklmrth|Ályra Kálmereth]]{float=top-left}
 
 Ályra stands 5'9" tall with a light build. She has pale fair skin, dark brown hair, and green eyes. Her features include a heart-shaped face, a snub nose, a strong jawline, full lips, dark brows, and full cheeks.
 

@@ -21,7 +21,7 @@ data:
   affiliations: [vyalendra2]
   gender: female
   species: humanflk
-  born: VR(670/4/3)
+  born: 670.94
   height: 1.75
   weight: 69.9
   frame: heavy
@@ -422,7 +422,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[minakprkhn|Minàka Parikshana]]{float: top-left}
+![[minakprkhn|Minàka Parikshana]]{float=top-left}
 
 Minàka stands 5'9" tall with a heavy build. She has warm honey skin, graying dark brown hair, and hazel eyes. Her features include an oval face, a narrow nose, a tapered chin, generous lips, graying dark brows. A distinguishing mark is a tattoo of a horse on the thigh.
 

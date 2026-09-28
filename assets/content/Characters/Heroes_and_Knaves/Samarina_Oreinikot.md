@@ -21,7 +21,7 @@ data:
   affiliations: [byzarianlg]
   gender: female
   species: humanflk
-  born: VR(688/5/10)
+  born: 688.132
   height: 1.78
   weight: 69.9
   frame: light
@@ -439,7 +439,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[smrnorenkt|Samarína Oreiníkot]]{float: top-left}
+![[smrnorenkt|Samarína Oreiníkot]]{float=top-left}
 
 Samarína stands 5'10" tall with a light build. She has light olive skin, very dark brown hair, and green eyes. Her features include an oval face, a prominent nose, a narrow chin, well-defined lips, very dark brows, and hollow cheeks.
 

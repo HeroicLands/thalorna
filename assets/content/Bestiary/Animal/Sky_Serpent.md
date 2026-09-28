@@ -188,7 +188,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[skysrpnt|Sky Serpent]]{float: top-left}
+![[skysrpnt|Sky Serpent]]{float=top-left}
 
 The air above ripples with heat and motion, and you catch only glimpses of the creature—a serpentine form that seems to be made more of sky and light than flesh. The iridescent scales shimmer with hues that match the sky so perfectly that tracking the creature is nearly impossible, as if you're watching a living piece of atmosphere move with malicious intent. The undulating motion is hypnotic, almost aquatic despite the lack of water, and you notice the thin frills along the body unfurling and contracting with each shift of position. Then the creature's head swings toward you, and the slit-pupiled eyes lock on your position with predatory certainty. In that moment, you understand that you're being assessed as food, and that the creature holds every advantage in the air.
 

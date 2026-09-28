@@ -236,7 +236,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[nsvrroth|Nüsvōrroth]]{float: top-left}
+![[nsvrroth|Nüsvōrroth]]{float=top-left}
 
 The smell reaches you before anything else—the thick, sweet rot of old carrion baking in the sun. Scattered bones litter the rocky ground, cracked and stripped clean. Then movement catches your eye: something enormous unfolds from behind a boulder, dark feathers bristling as it rises to its full seven-foot height. A bare, leathery head swivels toward you, and that hooked beak—massive, stained dark—opens with a low, rattling hiss. The thing spreads its wings wide, not to fly but to make itself bigger, and the stench intensifies as it begins to stalk forward on taloned feet that click against the stone.
 

@@ -21,7 +21,7 @@ data:
   affiliations: [dhnrktjnpd]
   gender: male
   species: humanflk
-  born: VR(687/2/19)
+  born: 687.49
   height: 1.85
   weight: 78.9
   frame: medium
@@ -418,7 +418,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[dhrmplvmkt|Dharmàpala Vimuktana]]{float: top-left}
+![[dhrmplvmkt|Dharmàpala Vimuktana]]{float=top-left}
 
 Dharmàpala stands 6'1" tall with a medium build. He has warm golden brown skin, dark black hair, and dark brown eyes. His features include an oval face, a broad nose, a narrow chin, an expressive mouth, warm golden brows, and high cheeks. He has a tattoo of a flower on his ankle.
 

@@ -21,7 +21,7 @@ data:
   affiliations: [byzarianlg]
   gender: male
   species: humanflk
-  born: VR(675/10/12)
+  born: 675.286
   height: 1.7
   weight: 64
   frame: medium
@@ -418,7 +418,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[klxnsprklvs|Kallíxenos Paraklávos]]{float: top-left}
+![[klxnsprklvs|Kallíxenos Paraklávos]]{float=top-left}
 
 Kallíxenos stands 5'7" tall with a medium build. He has light weathered skin, gray hair, and brown eyes. His features include a diamond-shaped face, a hawkish nose, a pointed chin, well-defined lips, strong brows, and prominent cheeks.
 

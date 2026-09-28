@@ -22,7 +22,7 @@ data:
   affiliations: [empirtkhpr]
   gender: male
   species: humanflk
-  born: VR(677/7/12)
+  born: 677.195
   height: 1.75
   weight: 72.6
   frame: medium
@@ -430,7 +430,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[mrtsbkhkmn|Meret-Sebek Heka’amun]]{float: top-left}
+![[mrtsbkhkmn|Meret-Sebek Heka’amun]]{float=top-left}
 
 Meret-Sebek stands 5'9\" tall with a medium build. He has dark skin, dark hair, and brown eyes. His features include a long nose, a pointed chin, generous lips, and elegantly curved brows.
 

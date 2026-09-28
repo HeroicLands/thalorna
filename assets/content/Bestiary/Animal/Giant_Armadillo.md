@@ -244,7 +244,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[gntarmdl|Giant Armadillo]]{float: top-left}
+![[gntarmdl|Giant Armadillo]]{float=top-left}
 
 The earth itself seems to rise before you, a hillside of mud and moss resolving into the armored mass of a creature easily twelve feet from snout to tail. It moves with the inexorable slowness of something that has never needed to hurry, each massive claw sinking deep into the soft earth beneath it. The shell that covers its back gleams dully in the light—layer upon layer of segmented armor the color of river stone and old bone. As it turns its head toward you, you see the little eyes, sharp and shrewd, studying you with the calculating gaze of something unimpressed by your size or presence. The smell hits next: rich loam and a musky, acidic reek of specialized digestion.
 

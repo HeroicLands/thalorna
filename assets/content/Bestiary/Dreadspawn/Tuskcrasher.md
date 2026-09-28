@@ -252,7 +252,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[tskcrshr|Tuskcrasher]]{float: top-left}
+![[tskcrshr|Tuskcrasher]]{float=top-left}
 
 The forest ahead explodes—trees splinter and crash as something massive tears through them without regard for the obstacles in its path. You have only a moment to see it fully before it's upon you: a creature like a boar or wild pig magnified to nightmarish proportions, easily thirty feet in length, its muscular body covered in coarse hair bristling like pike-points. Enormous tusks curve upward and outward from its lower jaw, each one as thick as a man's arm and honed to terrible sharpness, capable of splitting stone. Its small, malevolent eyes glow with incandescent fury and fixated on you with the certainty of a predator that intends your death. The smell is overwhelming—musk and animal rage and the splintered wood of the trees it has recently destroyed. Then it simply charges, and there is nowhere to run, nowhere to hide that would be fast enough.
 

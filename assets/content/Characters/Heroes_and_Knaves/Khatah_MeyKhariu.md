@@ -22,7 +22,7 @@ data:
   affiliations: [empirtkhpr]
   gender: female
   species: humanflk
-  born: VR(693/3/22)
+  born: 693.83
   height: 1.78
   weight: 72.6
   frame: light
@@ -423,7 +423,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[khathmykhr|Khatah Mey'Khariu]]{float: top-left}
+![[khathmykhr|Khatah Mey'Khariu]]{float=top-left}
 
 Khatah stands 5'10" tall with a light build. She has dark brown skin, black hair, and black eyes. Her features include a narrow face, a long nose, a pointed chin, well-shaped lips, dark brows, and sculpted cheeks. She has a tattoo of a spider on her shoulder.
 

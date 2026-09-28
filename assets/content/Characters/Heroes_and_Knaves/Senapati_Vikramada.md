@@ -21,7 +21,7 @@ data:
   affiliations: [vyalendra2]
   gender: male
   species: humanflk
-  born: VR(675/9/12)
+  born: 675.255
   height: 1.83
   weight: 81.2
   frame: heavy
@@ -444,7 +444,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[senptvkrmd|Sénapati Vikramâda]]{float: top-left}
+![[senptvkrmd|Sénapati Vikramâda]]{float=top-left}
 
 Sénapati stands 6'0" tall with a heavy build. He has medium brown skin, graying dark brown hair, and deep brown eyes. His features include a full face, a straight nose, a narrow chin, full lips, and medium brows. He has a tattoo of a crescent moon on his neck.
 

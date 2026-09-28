@@ -21,7 +21,7 @@ data:
   affiliations: [provinclys]
   gender: female
   species: humanflk
-  born: VR(691/4/11)
+  born: 691.102
   height: 1.8
   weight: 67.6
   frame: light
@@ -425,7 +425,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[ailemkrmys|Ailêmâ Kêrîamyês]]{float: top-left}
+![[ailemkrmys|Ailêmâ Kêrîamyês]]{float=top-left}
 
 Ailêmâ stands 5'11" tall with a medium build. She has light olive skin, chestnut hair, and brown eyes. Her features include a long face, an aquiline nose, a pointed chin, full lips, heavy brows, and sculpted cheeks.
 

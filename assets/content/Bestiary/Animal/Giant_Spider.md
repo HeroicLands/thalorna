@@ -165,7 +165,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[gntspdr|Giant Spider]]{float: top-left}
+![[gntspdr|Giant Spider]]{float=top-left}
 
 The smell reaches you first: acrid, wrong, the scent of digestive secretions and decaying flesh. You see the web before you see the creator—strands as thick as rope extending across the cavern or dense forest, catching light with an oily sheen. Then movement: something massive moving along a strand with absolute confidence, and your eyes struggle to take in its size. The body is a bloated orb four feet across, glossy black or dark brown in color, covered in fine bristles that quiver constantly. The legs are impossibly long and articulate, jointed in ways that make your brain hurt to watch. There are eight eyes—arranged across the front of the head, each one catching light and reflecting it back with terrible intelligence. The mouth opens, revealing fangs that glisten with clear venom. The sound it makes—a skittering, clicking, rustling—is the sound of your own death approaching.
 

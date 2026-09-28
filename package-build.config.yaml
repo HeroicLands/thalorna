@@ -15,7 +15,7 @@ relationships:
               verified: "0.8.7"
           # Its Item packs are this repository's item catalogue: a Thalorna
           # being nests items addressed by shortcode, and almost all of those
-          # belong to sohl. `content-build deps fetch` caches them, keyed by
+          # belong to sohl. `package-build deps fetch` caches them, keyed by
           # the `verified` version above so a build names one artifact.
           itemCatalog: true
 
@@ -30,9 +30,6 @@ packs:
     - { name: actors, label: Actors, type: Actor }
 
 publish:
-    # This repository's content is original work with no publishing
-    # restriction, so it publishes in full.
-    site: content
     # This package's content is its site, so it mounts at the package root and
     # the prefix is empty.
     address:

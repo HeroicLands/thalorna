@@ -21,7 +21,7 @@ data:
   affiliations: [byzarianlg]
   gender: female
   species: humanflk
-  born: VR(691/4/11)
+  born: 691.102
   height: 1.7
   weight: 65.3
   frame: light
@@ -425,7 +425,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[kalidkrkss|Kalída Kourkásios]]{float: top-left}
+![[kalidkrkss|Kalída Kourkásios]]{float=top-left}
 
 Kalída stands 5'7" tall with a light build. She has light tanned skin, black hair, and green eyes. Her features include a narrow face, a aquiline nose, a pronounced chin, slightly pursed lips, strong brows.
 

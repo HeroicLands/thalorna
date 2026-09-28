@@ -8,7 +8,7 @@ tags: [totem, archetype]
 data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
-![[icon-rabbittotem|Rabbit]]{float: top-left, size: medium}
+![[icon-rabbittotem|Rabbit]]{float=top-left size=medium}
 
 Nervous and quick, rabbits are prey animals that rely on their agility and rapid breeding to survive in environments filled with predators.
 

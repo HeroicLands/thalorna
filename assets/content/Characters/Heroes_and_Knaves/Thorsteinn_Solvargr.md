@@ -21,7 +21,7 @@ data:
   affiliations: [kngdmvthgrd]
   gender: male
   species: humanflk
-  born: VR(668/9/5)
+  born: 668.248
   height: 1.85
   weight: 79.4
   frame: medium
@@ -423,7 +423,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[thrstnslvrgr|Thorsteinn Sólvargr]]{float: top-left}
+![[thrstnslvrgr|Thorsteinn Sólvargr]]{float=top-left}
 
 Thorsteinn stands 6'1" tall with a medium build. He has light weathered skin, gray hair, and gray eyes. His features include an angular face, a straight nose, a slightly downturned mouth, and thick brows. He has a scar on his chin.
 

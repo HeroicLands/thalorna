@@ -15,7 +15,7 @@ data:
   affiliations: [blckpnwlvs, vrystwldtrbs]
   gender: male
   species: humanflk
-  born: VR(686/8/24)
+  born: 686.237
   height: 1.73
   weight: 69.4
   frame: medium
@@ -400,7 +400,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[dagulfvthr|Dágulf Véthar]]{float: top-left}
+![[dagulfvthr|Dágulf Véthar]]{float=top-left}
 
 Dágulf cuts a wretched figure on the forest road. He stands at middling height with a wiry, restless frame that never quite holds still—always shifting weight, always glancing over his shoulder. His brown hair hangs in matted ropes past his jaw, unwashed and uncared for, and his face is cratered with the pale scars of a childhood pox. What strikes most who meet him are his eyes: a startling ice-blue, bright and watchful in a face otherwise unremarkable. He wears a battered leather vest over rough cloth, a cowl of cracked hide pulled low, and carries himself with the coiled tension of a man accustomed to violence. His hands are never far from the club at his hip or the long dagger in his belt. He smells of woodsmoke, sweat, and something faintly sour—the smell of a man who sleeps rough in the dark pines of [[place-vrystwald|Vrystwald]] and trusts no one.
 

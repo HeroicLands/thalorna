@@ -21,7 +21,7 @@ data:
   affiliations: [vyalendra2]
   gender: female
   species: humanflk
-  born: VR(685/1/18)
+  born: 685.18
   height: 1.68
   weight: 64.4
   frame: light
@@ -421,7 +421,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[chndrkrtsndrjyvl|Chandrakīrtisundarī Jayavalli]]{float: top-left}
+![[chndrkrtsndrjyvl|Chandrakīrtisundarī Jayavalli]]{float=top-left}
 
 Chandrakīrtisundarī stands 5'6" tall with a medium build. She has dark brown skin, dark black hair, and warm brown eyes. Her features include a diamond-shaped face, a prominent nose, a narrow chin, an expressive mouth, dark brows, and rounded cheeks.
 

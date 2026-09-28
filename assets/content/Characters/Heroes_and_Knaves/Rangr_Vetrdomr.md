@@ -15,7 +15,7 @@ data:
   affiliations: [kingdomlgn]
   gender: male
   species: humanflk
-  born: VR(673/5/5)
+  born: 673.127
   height: 1.85
   weight: 80.7
   frame: medium
@@ -424,7 +424,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[rngrvtrdmr|Rängr Vetrdómr]]{float: top-left}
+![[rngrvtrdmr|Rängr Vetrdómr]]{float=top-left}
 
 Rängr Vetrdómr is a man shaped by nearly five decades of exposure to wind, weather, and the unforgiving demands of his craft. At 6'1" and forty-seven winters, he carries himself with the upright posture of one accustomed to working at dangerous heights, though his frame has begun to thicken slightly through the middle—evidence of a body aging while still demanding physical labor. His tanned skin is deeply weathered, creased by sun and wind into a topography of experience. His eyes, a warm hazel touched with flecks of green, hold the patient, observant gaze of someone who reads the sky as readily as others read text. Dark brown hair, showing significant silver, is bound in a traditional wrapped braid, a style common to Malagna's older craftspeople. His hands are perhaps his most telling feature—broad, calloused, with the careful strength of a man accustomed to working at terrible heights where a single careless movement means death. A faded scar traces along his left ribs, a souvenir from a fall that nearly killed him twenty years past.
 

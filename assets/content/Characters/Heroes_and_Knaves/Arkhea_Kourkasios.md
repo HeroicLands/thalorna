@@ -21,7 +21,7 @@ data:
   affiliations: [byzarianlg]
   gender: female
   species: humanflk
-  born: VR(658/6/10)
+  born: 658.162
   height: 1.65
   weight: 51.7
   frame: scant
@@ -422,7 +422,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[arkhekrkss|Arkhêa Kourkásios]]{float: top-left}
+![[arkhekrkss|Arkhêa Kourkásios]]{float=top-left}
 
 Arkhêa stands 5'5" tall with a scant build. She has pale weathered and wrinkled skin, gray hair, and brown eyes. Her features include a long face, an aquiline nose, a pronounced chin, slightly pursed lips, thick dark brows. A distinguishing mark is a limp.
 

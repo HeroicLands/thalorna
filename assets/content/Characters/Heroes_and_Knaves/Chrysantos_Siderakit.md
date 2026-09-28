@@ -21,7 +21,7 @@ data:
   affiliations: [byzarianlg]
   gender: male
   species: humanflk
-  born: VR(693/10/2)
+  born: 693.276
   height: 1.78
   weight: 68.9
   frame: light
@@ -424,7 +424,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[chrysntssdrkt|Chrysántos Siderákit]]{float: top-left}
+![[chrysntssdrkt|Chrysántos Siderákit]]{float=top-left}
 
 Chrysántos stands 5'10" tall with a light build. He has light pale skin, black hair, and dark brown eyes. His features include an oval face, a straight nose, a sharp jawline, dark brows, and sculpted cheeks. He has a tattoo of a fire on his leg.
 

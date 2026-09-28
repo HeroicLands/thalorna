@@ -21,7 +21,7 @@ data:
   affiliations: [kingdmnrgd]
   gender: male
   species: humanflk
-  born: VR(690/2/6)
+  born: 690.36
   height: 1.7
   weight: 63.5
   frame: light
@@ -421,7 +421,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[dagmrwndrr|Dagmar the Wanderer]]{float: top-left}
+![[dagmrwndrr|Dagmar the Wanderer]]{float=top-left}
 
 Dagmar stands 5'7\" tall with a light build. He has light skin, brown hair, and green eyes. His features include a prominent nose, a firm-set mouth, heavy brows, flat cheeks.
 

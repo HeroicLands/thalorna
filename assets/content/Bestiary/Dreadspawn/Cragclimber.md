@@ -246,7 +246,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[crgclmbr|Cragclimber]]{float: top-left}
+![[crgclmbr|Cragclimber]]{float=top-left}
 
 The rock face ahead seems to shift. What you thought was a ledge has eyes—polished, reflective, aware—and the "cliff face" is moving toward you with terrible, impossible speed. Stone-colored scales rasp against stone as the creature propels itself downward with four limbs that move like liquid metal. Its tail lashes behind it, a whip of crystalline hardness. You realize with horror that it has been waiting, yards away and invisible, the entire time.
 

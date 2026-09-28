@@ -21,7 +21,7 @@ data:
   affiliations: [byzarianlg]
   gender: male
   species: humanflk
-  born: VR(678/3/15)
+  born: 678.76
   height: 1.7
   weight: 64.4
   frame: medium
@@ -423,7 +423,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[alykosmpsn|Alýkos Sampsiôn]]{float: top-left}
+![[alykosmpsn|Alýkos Sampsiôn]]{float=top-left}
 
 Alýkos stands 5'7" tall with a medium build. He has light tanned skin, gray hair, and dark hazel eyes. His features include a long face, a strong nose, a pronounced chin, full lips, and expressive brows.
 

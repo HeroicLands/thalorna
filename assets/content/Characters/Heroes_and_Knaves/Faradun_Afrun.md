@@ -15,7 +15,7 @@ data:
   affiliations: [sultntmrdd]
   gender: male
   species: humanflk
-  born: VR(678/7/7)
+  born: 678.190
   height: 1.78
   weight: 78
   frame: heavy
@@ -420,7 +420,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[faradunfrn|Faradûn Afrûn]]{float: top-left}
+![[faradunfrn|Faradûn Afrûn]]{float=top-left}
 
 Faradûn stands 5'10" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include an oval face, a hawkish nose, a narrow chin, a firm-set mouth, dark brows.
 

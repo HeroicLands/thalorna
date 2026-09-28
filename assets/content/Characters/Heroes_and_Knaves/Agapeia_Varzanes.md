@@ -21,7 +21,7 @@ data:
   affiliations: [byzarianlg]
   gender: female
   species: humanflk
-  born: VR(692/2/9)
+  born: 692.39
   height: 1.85
   weight: 78
   frame: medium
@@ -423,7 +423,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[agapevrzns|Agápeia Varzánês]]{float: top-left}
+![[agapevrzns|Agápeia Varzánês]]{float=top-left}
 
 Agápeia stands 6'1" tall with a medium build. She has golden-toned skin, dark hair, and dark hazel eyes. Her features include an oblong face, a straight nose, a pointed chin, slightly pursed lips, arched brows, and high cheeks.
 

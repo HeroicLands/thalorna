@@ -259,7 +259,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[grkrsh|Grukar-Sha]]{float: top-left}
+![[grkrsh|Grukar-Sha]]{float=top-left}
 
 You almost missed it. Standing at the edge of the firelight, half-turned as though already leaving, is a figure that barely registers as a Grukar at all. It is thin—disturbingly thin, all sinew and angular bone beneath gray-green skin drawn tight as parchment. Perhaps four and a half feet tall, only slightly more than the common Uk, but where the Uk are squat and solid, this creature is narrow and sharp, built like a blade stood on its edge. Its eyes are what hold you: large for a Grukar, pale and quick, darting across the room with an intelligence that sits alien and unsettling in that tusked face. It carries no weapon you can see, though its long fingers move with a restless, deliberate precision that suggests it has several hidden about its person. When it speaks—and it is the only Grukar that speaks anything you can recognize as words—its voice arrives wrong. The mouth shapes the human syllables, but the resonance comes from somewhere deeper in the chest, a layer of tone the lips and jaw never produce in your own speech, and the result is a low pressure against your ribs that you feel before you fully understand the words. The massive [[being-grkrh|Grukar-Hai]] warlord beside it actually listens. You do too. You wish you did not.
 

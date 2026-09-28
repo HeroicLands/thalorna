@@ -22,7 +22,7 @@ data:
   affiliations: [empirtkhpr]
   gender: female
   species: humanflk
-  born: VR(692/3/22)
+  born: 692.83
   height: 1.78
   weight: 70.3
   frame: medium
@@ -426,7 +426,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[sentatsrkt|Sênta Ta'Sereketu]]{float: top-left}
+![[sentatsrkt|Sênta Ta'Sereketu]]{float=top-left}
 
 Sênta stands 5'10" tall with a medium build. She has tawny skin, jet black hair, and honey brown eyes. Her features include a slightly arched nose, a tapered chin, generous lips, and honey brows.
 

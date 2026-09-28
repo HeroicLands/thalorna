@@ -21,7 +21,7 @@ data:
   affiliations: [kngdmnrdhm]
   gender: male
   species: humanflk
-  born: VR(674/10/17)
+  born: 674.291
   height: 1.96
   weight: 92.1
   frame: heavy
@@ -423,7 +423,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[hrjlfvtrdmr|Herjúlf Vetrdómr]]{float: top-left}
+![[hrjlfvtrdmr|Herjúlf Vetrdómr]]{float=top-left}
 
 Herjúlf stands 6'5" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include an angular face, a slightly upturned nose, a broad chin, a small mouth, dark brows. A distinguishing mark is a scar along the jawline.
 

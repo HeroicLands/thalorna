@@ -21,7 +21,7 @@ data:
   affiliations: [vrystwldtrbs]
   gender: female
   species: humanflk
-  born: VR(678/5/30)
+  born: 678.152
   height: 1.78
   weight: 78
   frame: medium
@@ -422,7 +422,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[athlwvthrnd|Athalwa Vithrúnd]]{float: top-left}
+![[athlwvthrnd|Athalwa Vithrúnd]]{float=top-left}
 
 Athalwa stands 5'10" tall with a medium build. She has pale fair skin, blonde hair, and blue eyes. Her features include an oval face, a long nose, a strong jawline, a slightly downturned mouth, straight brows, high cheeks. A distinguishing mark is a tattoo of an eagle on the back.
 

@@ -223,7 +223,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[giantrat|Giant Rat]]{float: top-left}
+![[giantrat|Giant Rat]]{float=top-left}
 
 The torch catches a pair of eyes in the dark—low, reddish, reflecting the flame with a flat, hungry gleam. Then another pair. Then six more. The scratching sound you dismissed as settling masonry resolves into the rapid clicking of claws on stone, and the first shape emerges into the light: a rat the size of a large dog, its fur coarse and matted, its naked tail dragging behind it like a diseased rope. The incisors are the length of your thumb, yellowed and chisel-edged, protruding from a muzzle scarred by a lifetime of fighting over food. The smell is extraordinary—a concentrated distillation of filth, rot, and ammonia that makes your eyes water and your stomach clench. The creature shows no fear of the light. It shows no fear of you. It has the calm, assessing gaze of something that has learned through long experience that anything can be eaten if there are enough of you, and there are always enough.
 

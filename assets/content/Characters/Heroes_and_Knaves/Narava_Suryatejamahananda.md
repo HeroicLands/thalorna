@@ -21,7 +21,7 @@ data:
   affiliations: [vyalendra2]
   gender: male
   species: humanflk
-  born: VR(683/10/25)
+  born: 683.299
   height: 1.88
   weight: 76.7
   frame: heavy
@@ -426,7 +426,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[nrvsrytjmhnnd|Nárava Sūryatejamahānanda]]{float: top-left}
+![[nrvsrytjmhnnd|Nárava Sūryatejamahānanda]]{float=top-left}
 
 Nárava stands 6'2" tall with a heavy build. He has golden brown skin, jet black hair, and dark brown eyes. His features include a diamond-shaped face, a delicate nose, a rounded chin, an expressive mouth, golden brows, and soft cheeks. He has a tattoo of a compass on his chest.
 

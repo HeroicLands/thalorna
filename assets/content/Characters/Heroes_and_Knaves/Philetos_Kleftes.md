@@ -21,7 +21,7 @@ data:
   affiliations: [provinclys]
   gender: male
   species: humanflk
-  born: VR(687/4/19)
+  born: 687.110
   height: 1.8
   weight: 78
   frame: heavy
@@ -419,7 +419,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[phltsklfts|Philetos Kleftes]]{float: top-left}
+![[phltsklfts|Philetos Kleftes]]{float=top-left}
 
 Philetos stands 5'11\" tall with a heavy build. He has olive weathered skin, dark brown hair, and brown eyes. His features include a long face, a prominent nose, a pronounced chin, a wide mouth, arched brows, high cheeks.
 

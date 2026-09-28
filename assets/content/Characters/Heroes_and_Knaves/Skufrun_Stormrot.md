@@ -21,7 +21,7 @@ data:
   affiliations: [kingdomlgn]
   gender: female
   species: humanflk
-  born: VR(688/4/29)
+  born: 688.120
   height: 1.7
   weight: 64.9
   frame: light
@@ -424,7 +424,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[skfrnstrmrt|Skúfrún Stormrót]]{float: top-left}
+![[skfrnstrmrt|Skúfrún Stormrót]]{float=top-left}
 
 Skúfrún stands 5'7" tall with a light build. She has pale fair skin, blonde hair, and green eyes. Her features include an oval face, a narrow nose, a rounded chin, rosy lips, and light brows.
 

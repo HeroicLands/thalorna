@@ -7,7 +7,7 @@ tags: [draft]
 data: {packFolder: deitieskemetian}
 ---
 
-![[icon-bes|Bēs]]{float: top-left, size: medium}
+![[icon-bes|Bēs]]{float=top-left size=medium}
 
 _Guardian of Night Visions—a crescent moon with a single protective eye._
 

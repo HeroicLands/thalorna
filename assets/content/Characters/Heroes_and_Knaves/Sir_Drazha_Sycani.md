@@ -21,7 +21,7 @@ data:
   affiliations: [byzarianlg]
   gender: male
   species: humanflk
-  born: VR(677/7/17)
+  born: 677.200
   height: 1.93
   weight: 106.6
   frame: heavy
@@ -425,7 +425,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[srdrzhsycnknghtblckflm|Sir Drazha Sycâni, Knight of the Black Flame]]{float: top-left}
+![[srdrzhsycnknghtblckflm|Sir Drazha Sycâni, Knight of the Black Flame]]{float=top-left}
 
 Drazhan is a towering figure at 6'4" with a heavily muscled frame, weighing around 235 pounds. His skin is a deep brown, and his body bears many scars from battles fought. His black hair is shaved close to his scalp, and his piercing dark eyes give him a predatory air. His face is hardened, with a broad nose, full lips, and a square jaw, often set in a grim expression. A tattoo of a flaming sword adorns his right arm, signifying his devotion to [[affiliation-blackflame|The Black Flame]]. Drazhan wears heavy, blackened steel armor etched with Black Flame symbols, and his weapon of choice is a wickedly curved greatsword that he wields with ease.
 

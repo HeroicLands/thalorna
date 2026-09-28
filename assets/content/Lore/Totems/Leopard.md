@@ -8,7 +8,7 @@ tags: [totem, archetype]
 data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
-![[icon-leopardtotem|Leopard]]{float: top-left, size: medium}
+![[icon-leopardtotem|Leopard]]{float=top-left size=medium}
 
 Independent and secretive, leopards are solitary predators that prefer to hunt alone, often dragging their kill into trees to avoid scavengers.
 

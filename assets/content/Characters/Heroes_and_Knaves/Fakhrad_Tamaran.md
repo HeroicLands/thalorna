@@ -15,7 +15,7 @@ data:
   affiliations: [sultntmrdd]
   gender: male
   species: humanflk
-  born: VR(674/1/22)
+  born: 674.22
   height: 1.8
   weight: 73.9
   frame: medium
@@ -424,7 +424,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fakhrdtmrn|Fakhrad Tamârân]]{float: top-left}
+![[fakhrdtmrn|Fakhrad Tamârân]]{float=top-left}
 
 Fakhrad stands 5'11" tall with a medium build. He has tanned ruddy skin, jet black hair, and green eyes. His features include a long face, a long nose, an angular jawline, a firm-set mouth, prominent brows, sculpted cheeks. A distinguishing mark is a scar on the right hand.
 

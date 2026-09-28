@@ -8,7 +8,7 @@ tags: [totem, archetype]
 data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
-![[icon-trouttotem|Trout]]{float: top-left, size: medium}
+![[icon-trouttotem|Trout]]{float=top-left size=medium}
 
 Swift and wary, trout are agile fish that remain constantly alert, using their speed and awareness to evade predators in freshwater streams.
 

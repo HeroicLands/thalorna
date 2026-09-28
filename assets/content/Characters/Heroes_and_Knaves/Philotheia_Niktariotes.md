@@ -21,7 +21,7 @@ data:
   affiliations: [byzarianlg]
   gender: female
   species: humanflk
-  born: VR(694/9/6)
+  born: 694.249
   height: 1.75
   weight: 66.2
   frame: light
@@ -417,7 +417,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[phlthnktrts|Philothêia Niktariôtês]]{float: top-left}
+![[phlthnktrts|Philothêia Niktariôtês]]{float=top-left}
 
 Philothêia stands 5'9" tall with a light build. She has sun-tanned skin, black hair, and brown eyes. Her features include a narrow face, an aquiline nose, a narrow chin, well-defined lips, thick dark brows, and hollow cheeks. She has a tattoo of a tree on her back.
 

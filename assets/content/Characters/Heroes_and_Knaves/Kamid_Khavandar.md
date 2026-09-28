@@ -21,7 +21,7 @@ data:
   affiliations: [khzrncnfdrtn]
   gender: male
   species: humanflk
-  born: VR(672/9/27)
+  born: 672.270
   height: 1.83
   weight: 77.6
   frame: medium
@@ -408,7 +408,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[kamdkhvndr|Kamîd Khâvandar]]{float: top-left}
+![[kamdkhvndr|Kamîd Khâvandar]]{float=top-left}
 
 Kamîd stands 6'0" tall with a medium build. He has tanned ruddy skin, black hair, and dark brown eyes. His features include a narrow face, a prominent nose, a pointed chin, full lips, dark brows, sculpted cheeks. A distinguishing mark is a tattoo of a phoenix on the chest.
 

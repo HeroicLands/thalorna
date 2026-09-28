@@ -21,7 +21,7 @@ data:
   affiliations: [provincvld]
   gender: female
   species: humanflk
-  born: VR(686/4/8)
+  born: 686.99
   height: 1.83
   weight: 79.8
   frame: medium
@@ -421,7 +421,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[krmdnsbrkrtys|Korêmdânis Bárkrâtys]]{float: top-left}
+![[krmdnsbrkrtys|Korêmdânis Bárkrâtys]]{float=top-left}
 
 Korêmdânis stands 6'0" tall with a medium build. She has light olive skin, auburn hair, and amber eyes. Her features include an oblong face, a prominent nose, a narrow chin, slightly pursed lips, heavy brows, and angular cheeks. She has a tattoo of a dragonfly on her neck.
 

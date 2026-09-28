@@ -15,7 +15,7 @@ data:
   affiliations: [sultntmrdd]
   gender: male
   species: humanflk
-  born: VR(682/6/27)
+  born: 682.179
   height: 1.85
   weight: 82.6
   frame: medium
@@ -413,7 +413,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[mithrnmznd|Mithran Mazânid]]{float: top-left}
+![[mithrnmznd|Mithran Mazânid]]{float=top-left}
 
 Mithran stands 6'1" tall with a medium build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include a narrow face, a hawkish nose, a sharp jawline, dark brows, a small scar on one cheeks.
 

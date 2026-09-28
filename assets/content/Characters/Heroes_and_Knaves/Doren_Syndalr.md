@@ -15,7 +15,7 @@ data:
   affiliations: [slntlncmpny, kngdmprvnz]
   gender: male
   species: humanflk
-  born: VR(692/6/8)
+  born: 692.160
   height: 1.93
   weight: 98
   frame: heavy
@@ -412,7 +412,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[dornsyndlr|Dôren Sýndalr]]{float: top-left}
+![[dornsyndlr|Dôren Sýndalr]]{float=top-left}
 
 Dôren is a towering man of twenty-eight, standing six foot four with a heavy, muscular frame and olive-toned skin marked by battle scars. A deep, ragged scar runs diagonally across his left cheek. His short black hair and gray eyes give him a hard, uncompromising look. There is nothing subtle about him, and he would not want there to be.
 

@@ -22,7 +22,7 @@ data:
   affiliations: [empirtkhpr]
   gender: male
   species: humanflk
-  born: VR(673/12/9)
+  born: 673.344
   height: 1.91
   weight: 84.8
   frame: heavy
@@ -427,7 +427,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[shenurbapt|Shenur Ba'Patau]]{float: top-left}
+![[shenurbapt|Shenur Ba'Patau]]{float=top-left}
 
 Shenur stands 6'3" tall with a heavy build. He has warm brown skin, very dark brown hair, and dark amber eyes. His features include a high-cheekboned face, a straight narrow nose, a tapered chin, generous lips, warm brows, and prominent cheeks. He has a tattoo of a serpent on his back.
 

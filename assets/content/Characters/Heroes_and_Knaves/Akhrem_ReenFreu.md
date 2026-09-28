@@ -22,7 +22,7 @@ data:
   affiliations: [empirtkhpr]
   gender: male
   species: humanflk
-  born: VR(682/8/6)
+  born: 682.219
   height: 1.85
   weight: 78.9
   frame: heavy
@@ -428,7 +428,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[akhremrnfr|Akhrem Re'en'Fréu]]{float: top-left}
+![[akhremrnfr|Akhrem Re'en'Fréu]]{float=top-left}
 
 Akhrem stands 6'1" tall with a heavy build. He has dark brown skin, jet black hair, and brown eyes. His features include a long face, a prominent nose, a narrow chin, full lips, dark brows, and sculpted cheeks. He has a scar on the back of his left arm.
 
