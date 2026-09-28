@@ -2,7 +2,7 @@
 shortcode: shukren
 name: {full: Shükrën, aliases: []}
 type: lore
-subType: culture
+subType: law
 data: {packFolder: castes}
 ---
 

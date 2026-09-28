@@ -2,7 +2,7 @@
 shortcode: tanthei
 name: {full: Tānthëi, aliases: []}
 type: lore
-subType: culture
+subType: law
 data: {packFolder: castes}
 ---
 
