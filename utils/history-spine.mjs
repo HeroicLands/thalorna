@@ -309,6 +309,7 @@ function readReckonings() {
         const rows = eras.map((era) => ({
             shortcode: String(era?.shortcode ?? ""),
             abbreviation: era?.abbreviation === undefined ? null : String(era.abbreviation),
+            label: era?.label ?? null,
             start: eraBound(era?.start),
             end: eraBound(era?.end),
         }));
@@ -349,19 +350,37 @@ function eraBound(value) {
  * so a reckoning that has divided its count finely still answers with one
  * label.
  *
+ * A calendar's first era also counts the years before its own start, negatively,
+ * so a year below every declared start belongs to the earliest era rather than
+ * to none. An era's `label` states how a year is printed on either side of its
+ * origin — `{after: "{date} AF", before: "{date} BF"}` — and the word out of
+ * that form is what a source writes. A row with no `label` falls back to its
+ * `abbreviation`, which is the same word in both directions.
+ *
  * @param {object | undefined} reckoning - A row from {@link readReckonings}.
  * @param {number} year - The signed year.
- * @returns {string | null} The era's abbreviation, or `null` where none holds it.
+ * @returns {string | null} The word a source writes the year under, or `null`.
  */
 function eraLabel(reckoning, year) {
+    const eras = reckoning?.eras ?? [];
     let best = null;
-    for (const era of reckoning?.eras ?? []) {
-        if (!era.abbreviation) continue;
+    for (const era of eras) {
         if (era.start !== null && year < era.start) continue;
         if (era.end !== null && year > era.end) continue;
         if (best === null || (era.start ?? -Infinity) > (best.start ?? -Infinity)) best = era;
     }
-    return best?.abbreviation ?? null;
+    if (best === null) {
+        for (const era of eras) {
+            if (best === null || (era.start ?? Infinity) < (best.start ?? Infinity)) best = era;
+        }
+    }
+    if (!best) return null;
+    const form = year < 0 ? (best.label?.before ?? best.label) : (best.label?.after ?? best.label);
+    if (typeof form === "string") {
+        const word = form.replace("{date}", "").trim();
+        if (word) return word;
+    }
+    return best.abbreviation ?? null;
 }
 
 /**

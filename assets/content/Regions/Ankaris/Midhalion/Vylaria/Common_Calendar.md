@@ -29,11 +29,6 @@ data:
     - {name: Slowday, abbreviation: Slow}
     - {name: Setday, abbreviation: Set}
   eras:
-    - shortcode: beforefounding
-      name: Before the Founding
-      abbreviation: BF
-      proclaimedBy: vylarinmpr
-      end: -1
     - shortcode: founding
       marker: VR
       name: After the Founding

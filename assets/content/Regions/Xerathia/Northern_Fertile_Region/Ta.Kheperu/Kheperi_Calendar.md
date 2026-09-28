@@ -27,8 +27,11 @@ data:
     - {name: Peret, monthStart: 5, monthEnd: 8}
     - {name: Shemu, monthStart: 9, monthEnd: 12}
   eras:
-    - {shortcode: beforeseptepy, name: Before the Sep Tepy, abbreviation: BST, end: VR(-2111)}
-    - {shortcode: septepy, name: The Sep Tepy, abbreviation: ST, start: VR(-2110)}
+    - shortcode: septepy
+      name: The Sep Tepy
+      abbreviation: ST
+      start: -2109.1
+      label: {after: "{date} ST", before: "{date} BST"}
   dateFormats:
     short: "D MMM"
     long: "D MMMM, Y"
