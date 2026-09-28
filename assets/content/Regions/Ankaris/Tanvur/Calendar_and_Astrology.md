@@ -4,7 +4,7 @@ name: {full: Calendar and Astrology, aliases: []}
 type: lore
 subType: calendar
 data:
-  epoch: VR(720/1/1)
+  epoch: 720.1
   months:
     - {name: Jëityüt, days: 30}
     - {name: Mütyüt, days: 30}

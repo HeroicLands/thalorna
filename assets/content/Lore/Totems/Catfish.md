@@ -8,7 +8,7 @@ tags: [totem, archetype]
 data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
-![[icon-catfishtotem|Catfish]]{float: top-left, size: medium}
+![[icon-catfishtotem|Catfish]]{float=top-left size=medium}
 
 Nocturnal and opportunistic, catfish are bottom-dwellers that take advantage of the cover of darkness to feed on whatever they can find.
 

@@ -16,11 +16,12 @@ data:
   occupation: Cook
   stations: []
   lore: [commonerrnk]
+  culture: byzarianclt
   homes: [byzariargn]
   affiliations: [byzarianlg]
   gender: male
   species: humanflk
-  born: VR(686/3/8)
+  born: 686.69
   height: 1.78
   weight: 75.3
   frame: medium
@@ -421,7 +422,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[knstntnsplytms|Konstántinos Polytimós]]{float: top-left}
+![[knstntnsplytms|Konstántinos Polytimós]]{float=top-left}
 
 Konstántinos stands 5'10" tall with a medium build. He has light brown tanned skin, dark brown hair, and brown eyes. His features include a diamond-shaped face, a straight nose, a strong jawline, full lips, light brows.
 

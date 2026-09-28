@@ -16,11 +16,12 @@ data:
   occupation: Herald
   stations: []
   lore: [commonerrnk]
+  culture: tarvenanclt
   homes: [tarvenirgn]
   affiliations: [kingdmtrvn]
   gender: female
   species: humanflk
-  born: VR(688/4/20)
+  born: 688.111
   height: 1.83
   weight: 75.7
   frame: light
@@ -420,7 +421,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[carengrvth|Cárenna Gráveth]]{float: top-left}
+![[carengrvth|Cárenna Gráveth]]{float=top-left}
 
 Cárenna stands 6'0" tall with a light build. She has warm olive skin, black hair, and green eyes. Her features include an oblong face, a prominent nose, a strong jawline, well-defined lips, and expressive brows.
 

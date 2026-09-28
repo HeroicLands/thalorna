@@ -16,11 +16,12 @@ data:
   occupation: Swordmaster
   stations: []
   lore: [commonerrnk]
+  culture: okharinclt
   homes: [okharisrgn]
   affiliations: [okharis]
   gender: female
   species: humanflk
-  born: VR(683/6/10)
+  born: 683.162
   height: 1.75
   weight: 86.2
   frame: heavy
@@ -426,7 +427,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[eshewamagr|Eshe wa Magara]]{float: top-left}
+![[eshewamagr|Eshe wa Magara]]{float=top-left}
 
 Eshe stands 5'9" tall with a heavy build. She has dark skin, dark hair, and dark eyes. Her features include a wide face, a wide-nostriled nose, a rounded chin, prominent lips, strong brows.
 

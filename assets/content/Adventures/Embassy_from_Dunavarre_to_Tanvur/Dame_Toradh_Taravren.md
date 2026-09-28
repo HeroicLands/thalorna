@@ -9,6 +9,7 @@ data:
   occupation: Knight-Captain
   stations: []
   lore: []
+  culture: aelwythanclt
   homes: []
   affiliations: [kingdmdnvr]
   gender: female

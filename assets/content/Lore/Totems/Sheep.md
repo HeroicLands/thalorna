@@ -8,7 +8,7 @@ tags: [totem, archetype]
 data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
-![[icon-sheeptotem|Sheep]]{float: top-left, size: medium}
+![[icon-sheeptotem|Sheep]]{float=top-left size=medium}
 
 Docile and flock-minded, sheep are highly social animals that find safety in numbers, often following a leader and sticking closely to their herd.
 

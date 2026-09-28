@@ -1,9 +1,9 @@
 ---
 shortcode: godsrelign
 name: {full: The Truth of Religion, aliases: [Gods (GM), Religion (GM)]}
-type: lore
-subType: theology
-tags: [lore, religion, theology, gm-only, secret, metaphysics]
+type: doc
+subType: settingguide
+tags: [religion, theology, metaphysics, gm]
 data: {packFolder: settinglore}
 ---
 
@@ -13,7 +13,7 @@ The most important conceptual distinction in this document is the one between **
 
 A _religion_ is a human institution—a body of belief, practice, ritual, scripture, community, leadership, and tradition. Religions exist as social and cultural realities. They have priests, temples, holy texts, festival calendars, moral teachings, and adherents. They produce communities. They influence political life. They preserve practical wisdom across generations. They are, in every sense that matters for the lived experience of their adherents, real.
 
-A _god_ is something else: an extraordinarily powerful soul, of the kind described in [[lore-soulspirts|Souls and Spirits]], whose Aura and capacity for channeling far exceeds anything mortal. Gods exist on a different plane of being, do not generally manifest physically, and operate by principles that mortals can only guess at.
+A _god_ is something else: an extraordinarily powerful soul, of the kind described in [[doc-soulspirts|Souls and Spirits]], whose Aura and capacity for channeling far exceeds anything mortal. Gods exist on a different plane of being, do not generally manifest physically, and operate by principles that mortals can only guess at.
 
 These two things are _related_—religions usually claim to worship one or more gods, and many do—but they are _not the same thing_, and the relationship between them is far looser than worshippers believe. A god can inspire multiple religions whose theologies contradict one another. A religion can persist for centuries worshipping a god who has died, withdrawn, or never existed. The functioning of a religion does not, in most respects, depend on the existence of its god. This is the central secret that no religion on Thalorna is institutionally equipped to face.
 
@@ -21,7 +21,7 @@ This document develops the implications of that distinction.
 
 ## What Gods Are
 
-Within the cosmology established in [[lore-magictruth|Magic Truth]], gods are not metaphysically distinct from other beings. They are _souls_—the same kind of thing that mortals, spirits, elementals, and dragons are. What distinguishes them is the magnitude of what they have, and what they can do with it.
+Within the cosmology established in [[doc-magictruth|Magic Truth]], gods are not metaphysically distinct from other beings. They are _souls_—the same kind of thing that mortals, spirits, elementals, and dragons are. What distinguishes them is the magnitude of what they have, and what they can do with it.
 
 A god is a **supra-being**: a soul of vast Aura, whose connection to the formless arcane potential is correspondingly vast. Where a mortal Magister is, in cosmological terms, a soul that touches the potential deeply enough to support a sustained channel and a moderately complex Morphís, a god is a soul that touches the potential at a scale beyond mortal comparison. The same metaphysics that governs mortal magic governs divine action—Aura plus framework, channeling potential into actualization—but the parameters are so radically different that the _kind_ of magic a god can perform is unrecognisable to mortal practitioners.
 
@@ -160,7 +160,7 @@ Whatever the reason, the principle holds _universally_. This is significant give
 
 What matters for play is the consequence: from inside the world, divine action is always either ambiguous coincidence or apparent spellcasting. There is no clean evidence available to a mortal observer—even a devout one—that distinguishes a god's intervention from natural fortune or human magic. This ambiguity is not a deficiency of the world; it is its design.
 
-The mechanisms by which the non-intervention principle is enforced—and how the gods nevertheless engage with the world through agents and proxies—are developed in detail in [[lore-divineactn|Divine Action]]. This document focuses on what religions are and how they function; the political and metaphysical apparatus by which gods act on the world (or refrain from acting) is the subject of that companion document.
+The mechanisms by which the non-intervention principle is enforced—and how the gods nevertheless engage with the world through agents and proxies—are developed in detail in [[doc-divineactn|Divine Action]]. This document focuses on what religions are and how they function; the political and metaphysical apparatus by which gods act on the world (or refrain from acting) is the subject of that companion document.
 
 ## Real Gods, Fictitious Gods, and the Indistinguishability Problem
 
@@ -227,7 +227,7 @@ This is mechanically identical to the magic worked by mages of the Ordo Arcanis 
 
 The priest does not understand this. They believe the god is granting the magic through them. They are wrong about the mechanism but correct that real effects flow from their working. From inside the religion, the magic is divine. From outside, it is framework-magic worked through the priest's own Aura. Both descriptions point at the same phenomenon.
 
-Critically, **priestly framework-magic does not require the god to exist.** A priest of a fictitious god, performing rituals from a holy text written by humans across centuries of tradition, produces real magic—because what produces the magic is Aura plus framework, and the framework's _referent_ (the god) need not exist. As long as the framework is internally coherent, sufficiently rich, teachable, and stable (the criteria laid out in [[lore-magictruth#frameworks-the-plurality-of-coherent-grammars|Magic Truth]]), it produces real effects. Religions of fictitious gods that have developed thaumaturgic frameworks over generations have priests who work real magic. The fictitious god remains fictitious. The magic remains real.
+Critically, **priestly framework-magic does not require the god to exist.** A priest of a fictitious god, performing rituals from a holy text written by humans across centuries of tradition, produces real magic—because what produces the magic is Aura plus framework, and the framework's _referent_ (the god) need not exist. As long as the framework is internally coherent, sufficiently rich, teachable, and stable (the criteria laid out in [[doc-magictruth#frameworks-the-plurality-of-coherent-grammars|Magic Truth]]), it produces real effects. Religions of fictitious gods that have developed thaumaturgic frameworks over generations have priests who work real magic. The fictitious god remains fictitious. The magic remains real.
 
 This means that magical priests in Thalorna—the ones who heal wounds that should be fatal, banish spirits, hallow weapons, light fires that burn without fuel—are operating exactly as the [[affiliation-ordoarcanis|Ordo's]] mages do, with theological vocabulary and ritual structure standing in for elemental classification and arcane gestures. The Ordo, of course, would deny this if the suggestion were put to them. The priests would also deny it. Neither has any incentive to recognize the equivalence.
 
@@ -237,7 +237,7 @@ The most common mechanism, by orders of magnitude—and the one that produces th
 
 ### 4. Thin Places and Consecrated Objects
 
-A subset of religious sites and ritual objects are also thin places (in the sense established in [[lore-magictruth#thin-places-and-focused-objects|Magic Truth]])—locations or objects through which the formless potential leaks into the material world. When such thinness exists, the surrounding religious activity may be amplified by the ambient potential, and consecrated objects may produce effects of their own without any priest's direct working.
+A subset of religious sites and ritual objects are also thin places (in the sense established in [[doc-magictruth#thin-places-and-focused-objects|Magic Truth]])—locations or objects through which the formless potential leaks into the material world. When such thinness exists, the surrounding religious activity may be amplified by the ambient potential, and consecrated objects may produce effects of their own without any priest's direct working.
 
 Major temples, particularly those built on or near naturally thin sites, develop or are built upon this property. Centuries of religious activity at the same place—focused thought, ritual, framework-shaping—leaves residue that can deepen the local thinness over time. A temple that has stood for a thousand years is, almost regardless of whether the gods are real, a place where ambient magical phenomena are slightly more present. Visitors often feel this as a sense of palpable presence, atmospheric weight, or sanctity. The feeling is not pure suggestion; the thinness is real.
 
@@ -348,7 +348,7 @@ Under the cosmology of this document, these figures have several possible underl
 
 **Divinely-attended practitioners.** Rarer. A real god, for reasons the document does not pretend to know, may turn its attention more frequently and more favorably toward a particular person. This produces an unusual concentration of naturalistic interventions in that person's vicinity. Things go well around them. Coincidences favor them. Their predictions come true more often than chance would suggest. This is not because the saint controls the god; it is because the god has, for whatever reason, chosen to attend to this one mortal more than most. The saint themselves may not understand why. They attribute it to their love of the god and the god's love of them. This may be true. It is, in any case, indistinguishable from inside.
 
-**Genuine spirit-contact.** Some claimed divine experiences are encounters with spirits—ancestor spirits, totems, lesser beings of the Spirit world (see [[lore-soulspirts|Souls and Spirits]])—that have been mistaken for divine contact. The mystic who hears voices is hearing something; the something may not be what they think it is. This is a fertile category for narrative ambiguity: the prophet's visions are real, the prophet is genuinely in contact with another being, but the being is not actually a god, and the prophecies the prophet delivers are subtly off-base in ways no one can quite identify.
+**Genuine spirit-contact.** Some claimed divine experiences are encounters with spirits—ancestor spirits, totems, lesser beings of the Spirit world (see [[doc-soulspirts|Souls and Spirits]])—that have been mistaken for divine contact. The mystic who hears voices is hearing something; the something may not be what they think it is. This is a fertile category for narrative ambiguity: the prophet's visions are real, the prophet is genuinely in contact with another being, but the being is not actually a god, and the prophecies the prophet delivers are subtly off-base in ways no one can quite identify.
 
 **Framework-induced altered states.** Some mystical experience is the practitioner's own framework producing unusual perceptual states. Deep meditation, prolonged ritual, fasting, sensory deprivation, repetitive chanting—all of these can induce altered consciousness in any sufficiently devoted practitioner, regardless of Aura. The states are real. They are also entirely internal. The visions are produced by the mystic's own mind operating under unusual conditions. From inside, the experience is profound; from outside, it is psychology, not metaphysics.
 
@@ -414,7 +414,7 @@ Several practical implications follow from the cosmology described above.
 
 **Two religions of one god is fertile material.** The Sacred Forge / Black Flame example can be replicated for any deity in the pantheon. A god of love whose religions diverge into ecstatic and ascetic traditions; a god of justice whose religions diverge into mercy-emphasizing and retribution-emphasizing; a god of harvest whose religions diverge into agricultural and viticultural; a god of war whose religions diverge into honorable-combat and total-war. Each pair produces inter-religious tension within a shared theological frame, which is excellent narrative ground.
 
-**Religious history has depth.** Religions in Thalorna have existed for centuries. They have grown, fractured, declined, recovered. Holy texts have been compiled and re-compiled. Ritual practices have evolved. Schisms have produced new religions from old. The Vertigo Hodäi mages whose knowledge would shake the Ordo (see [[lore-magictruth#vertigo-hodai-is-real-and-it-is-recognition|Magic Truth]]) have analogues in religion: the heretical theologians, the unsettled mystics, the priests whose private doubts they could never speak aloud. Religious history offers as much narrative material as political or arcane history, and rewards similar care in development.
+**Religious history has depth.** Religions in Thalorna have existed for centuries. They have grown, fractured, declined, recovered. Holy texts have been compiled and re-compiled. Ritual practices have evolved. Schisms have produced new religions from old. The Vertigo Hodäi mages whose knowledge would shake the Ordo (see [[doc-magictruth#vertigo-hodai-is-real-and-it-is-recognition|Magic Truth]]) have analogues in religion: the heretical theologians, the unsettled mystics, the priests whose private doubts they could never speak aloud. Religious history offers as much narrative material as political or arcane history, and rewards similar care in development.
 
 **Metaphysical relativism does not require moral flatness in play.** This is the most important advisory in this document, because the cosmology's commitment that good and evil are not objective is easily misread as a directive to run morally neutral campaigns. It is not. The cosmology says that no view-from-nowhere settles moral disagreements between cultures; it does not say that the players' characters cannot have moral views, or that the GM cannot run antagonists who do appalling things, or that the world should be morally weightless.
 
@@ -430,9 +430,9 @@ The GM may, of course, have personal moral views, and so may the players. Nothin
 
 ## See Also
 
-- [[lore-magictruth|Magic Truth]]—The underlying metaphysics of magic, Aura, frameworks, and thin places
-- [[lore-divineactn|Divine Action]]—How the gods engage with the world through agents and proxies, the Balance, divine intelligence and non-omniscience, the Heroic Age
-- [[lore-soulspirts|Souls and Spirits]]—_(GM-only, forthcoming)_ The ontology of souls, the Spirit world, the place of gods within the soul-cosmology, elementals, and dragons
+- [[doc-magictruth|Magic Truth]]—The underlying metaphysics of magic, Aura, frameworks, and thin places
+- [[doc-divineactn|Divine Action]]—How the gods engage with the world through agents and proxies, the Balance, divine intelligence and non-omniscience, the Heroic Age
+- [[doc-soulspirts|Souls and Spirits]]—_(GM-only, forthcoming)_ The ontology of souls, the Spirit world, the place of gods within the soul-cosmology, elementals, and dragons
 - Foreign_Traditions_Comparative—_(GM-only, forthcoming)_ How each non-Ordo magical tradition channels the potential, including priestly traditions
 - [[lore-hexhodai|Héx Hodäi]]—The Ordo's framework, in-world doctrine
 - [[affiliation-ordoarcanis|Ordo Arcanis]]—The institution

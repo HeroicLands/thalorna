@@ -52,7 +52,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[rckhdglm|Rockhide Golem]]{float: top-left}
+![[rckhdglm|Rockhide Golem]]{float=top-left}
 
 The ground trembles as the massive stone construct rises, its form an assemblage of layered rocks and boulders fused into something approaching humanoid shape. The exterior is armored in thick stone plates, and magical runes glow faintly across the surface. The eyes are deep-set, glowing like molten lava, burning with a single fixed purpose. You are looking at something created from stone and sorcery, given movement and will through magical binding.
 

@@ -11,11 +11,12 @@ data:
   occupation: Shipwright
   stations: []
   lore: [commonerrnk]
+  culture: haradianclt
   homes: [haradregin]
   affiliations: [thetamzir, cnfdrtnhrdnstts]
   gender: female
   species: humanflk
-  born: VR(696/5/3)
+  born: 696.125
   height: 1.68
   weight: 65.8
   frame: medium
@@ -401,7 +402,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[kasuradmzr|Kasûra Damzarû]]{float: top-left}
+![[kasuradmzr|Kasûra Damzarû]]{float=top-left}
 
 Kasûra Damzarû is a young woman whose appearance perfectly reflects her profession. Her brown hair is usually pulled into a haphazard knot, secured with whatever is handy—a nail, a dowel, once a fish bone. Her hazel eyes are bright and curious, set in an open, expressive face that smiles easily and often. Her hands are her most notable feature: strong, callused, and perpetually stained with pitch, sawdust, and oil. She dresses in practical work clothes—a leather vest over a cloth tunic, both bearing the marks of a hundred repairs—and she moves with the unselfconscious grace of someone completely at home in their own body. She is not tall, but she fills a room with sheer vitality.
 

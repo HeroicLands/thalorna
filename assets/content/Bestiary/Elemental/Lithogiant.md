@@ -435,7 +435,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[lthgnt|Lithogiant]]{float: top-left}
+![[lthgnt|Lithogiant]]{float=top-left}
 
 The ground trembles. What rises before you is the size of a house, then larger—a humanoid figure of solid stone and living earth, perhaps twenty-five to thirty feet in height. Its body is composed of massive interlocked stone blocks and carved rock, with a silhouette of geological strata made animate. Where it moves, the earth shakes, and small stones rattle and bounce from the vibration. Its eyes are burning points deep within a stone head, and when it shifts its weight, entire hillsides seem to shift with it. It regards you with the alien patience of something that measures time in ages of stone.
 

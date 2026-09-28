@@ -16,11 +16,12 @@ data:
   occupation: Herald
   stations: []
   lore: [commonerrnk]
+  culture: byzarianclt
   homes: [byzariargn]
   affiliations: [byzarianlg]
   gender: male
   species: humanflk
-  born: VR(675/10/3)
+  born: 675.277
   height: 1.75
   weight: 72.6
   frame: medium
@@ -426,7 +427,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[phlndrskyrks|Philándros Kyriákos]]{float: top-left}
+![[phlndrskyrks|Philándros Kyriákos]]{float=top-left}
 
 Philándros stands 5'9" tall with a medium build. He has sun-tanned skin, graying brown hair, and hazel eyes. His features include an angular face, an aquiline nose, a pointed chin, an expressive mouth, graying brows, and sculpted cheeks. He has a tattoo of a lion on his thigh.
 

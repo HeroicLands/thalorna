@@ -159,7 +159,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[wrthblm|Wraithbloom]]{float: top-left}
+![[wrthblm|Wraithbloom]]{float=top-left}
 
 At the edge of the clearing stands a bloom that should not exist in this season, in this place. It hovers above the ground without roots or support, its petals translucent and glowing with a light that seems to come from within rather than reflected. As you watch, the petals move with grace, as though dancing to music only it can hear. The beauty of it is almost painful—it draws the eye and stirs something deep in the chest, an ache that is part longing and part dread. When you take a step forward, you are not entirely sure why.
 

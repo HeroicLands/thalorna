@@ -119,7 +119,7 @@ ORDER BY name.full COLLATE NOCASE
 
 ## Shamanic Rite
 
-```sql :allow-empty
+```sql {allow-empty=true}
 SELECT address.slug AS _ref,
        name.full    AS "Name",
        description  AS "Description"
@@ -131,7 +131,7 @@ ORDER BY name.full COLLATE NOCASE
 
 ## Spirit Action
 
-```sql :allow-empty
+```sql {allow-empty=true}
 SELECT address.slug AS _ref,
        name.full    AS "Name",
        description  AS "Description"
@@ -143,7 +143,7 @@ ORDER BY name.full COLLATE NOCASE
 
 ## Spirit Power
 
-```sql :allow-empty
+```sql {allow-empty=true}
 SELECT address.slug AS _ref,
        name.full    AS "Name",
        description  AS "Description"
@@ -155,7 +155,7 @@ ORDER BY name.full COLLATE NOCASE
 
 ## Benediction
 
-```sql :allow-empty
+```sql {allow-empty=true}
 SELECT address.slug AS _ref,
        name.full    AS "Name",
        description  AS "Description"
@@ -167,7 +167,7 @@ ORDER BY name.full COLLATE NOCASE
 
 ## Divine Devotion
 
-```sql :allow-empty
+```sql {allow-empty=true}
 SELECT address.slug AS _ref,
        name.full    AS "Name",
        description  AS "Description"
@@ -179,7 +179,7 @@ ORDER BY name.full COLLATE NOCASE
 
 ## Divine Incantation
 
-```sql :allow-empty
+```sql {allow-empty=true}
 SELECT address.slug AS _ref,
        name.full    AS "Name",
        description  AS "Description"
@@ -191,7 +191,7 @@ ORDER BY name.full COLLATE NOCASE
 
 ## Spirit Talent
 
-```sql :allow-empty
+```sql {allow-empty=true}
 SELECT address.slug AS _ref,
        name.full    AS "Name",
        description  AS "Description"
@@ -203,7 +203,7 @@ ORDER BY name.full COLLATE NOCASE
 
 ## Alchemy
 
-```sql :allow-empty
+```sql {allow-empty=true}
 SELECT address.slug AS _ref,
        name.full    AS "Name",
        description  AS "Description"
@@ -215,7 +215,7 @@ ORDER BY name.full COLLATE NOCASE
 
 ## Divination
 
-```sql :allow-empty
+```sql {allow-empty=true}
 SELECT address.slug AS _ref,
        name.full    AS "Name",
        description  AS "Description"

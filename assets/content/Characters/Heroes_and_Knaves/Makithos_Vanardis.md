@@ -16,11 +16,12 @@ data:
   occupation: Thespian
   stations: []
   lore: [commonerrnk]
+  culture: vylarianclt
   homes: [vylariargn]
   affiliations: [provnchyln]
   gender: male
   species: humanflk
-  born: VR(679/5/25)
+  born: 679.147
   height: 1.7
   weight: 62.6
   frame: medium
@@ -417,7 +418,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[mkthsvnrds|Màkîthos Vânardis]]{float: top-left}
+![[mkthsvnrds|Màkîthos Vânardis]]{float=top-left}
 
 Màkîthos stands 5'7" tall with a medium build. He has light tanned skin, black hair, and hazel eyes. His features include an oblong face, an aquiline nose, a pointed chin, a wide mouth, heavy brows, and angular cheeks. He has a scar on the right side of his face.
 

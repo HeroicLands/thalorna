@@ -16,11 +16,12 @@ data:
   occupation: Innkeeper
   stations: []
   lore: [commonerrnk]
+  culture: byzarianclt
   homes: [byzariargn]
   affiliations: [byzarianlg]
   gender: female
   species: humanflk
-  born: VR(693/4/19)
+  born: 693.110
   height: 1.7
   weight: 61.2
   frame: light
@@ -424,7 +425,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[isidrmlsns|Isidôra Melissenós]]{float: top-left}
+![[isidrmlsns|Isidôra Melissenós]]{float=top-left}
 
 Isidôra stands 5'7" tall with a light build. She has olive skin, dark brown hair, and brown eyes. Her features include a narrow face, an aquiline nose, a pointed chin, well-defined lips, and dark brows.
 

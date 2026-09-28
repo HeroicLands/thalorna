@@ -16,11 +16,12 @@ data:
   occupation: Cartographer/Artist
   stations: []
   lore: [commonerrnk]
+  culture: byzarianclt
   homes: [byzariargn]
   affiliations: [byzarianlg]
   gender: male
   species: humanflk
-  born: VR(675/10/7)
+  born: 675.281
   height: 1.68
   weight: 59.4
   frame: medium
@@ -427,7 +428,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[damklsmpsn|Damáklios Sampsiôn]]{float: top-left}
+![[damklsmpsn|Damáklios Sampsiôn]]{float=top-left}
 
 Damáklios stands 5'6" tall with a medium build. He has light tanned skin, graying brown hair, and hazel eyes. His features include an angular face, a hawkish nose, a pronounced chin, slightly pursed lips, and graying brows. He has a tattoo of a crescent moon on his neck.
 

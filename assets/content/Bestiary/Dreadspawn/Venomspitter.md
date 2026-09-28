@@ -185,7 +185,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[vnmspttr|Venomspitter]]{float: top-left}
+![[vnmspttr|Venomspitter]]{float=top-left}
 
 A shape moves at the corner of your vision—something serpentine and sinuous sliding across stone with impossible grace. Then you see it fully and freeze: a creature like a cobra crossed with something altogether more alien, its scales shimmering with iridescent color—deep purples bleeding into sickly greens, reds burning in places where no color should exist. The patterns on its scales seem to shift as you watch them, creating an optical dissonance that makes your eyes water. It raises its head, and you see the fangs—enormous hollow points from which fluid drips and sizzles, leaving char marks on the stone beneath. The creature’s eyes are dark, intelligent, and fixed on you. Then the reek hits you: something acrid and burning, the smell of the venom itself, and the creature is already moving.
 

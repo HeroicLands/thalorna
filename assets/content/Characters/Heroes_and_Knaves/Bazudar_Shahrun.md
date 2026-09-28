@@ -16,11 +16,12 @@ data:
   occupation: Animal Trainer
   stations: []
   lore: [commonerrnk]
+  culture: khazrynclt
   homes: [khzryndsrtrgn]
   affiliations: [khzrncnfdrtn]
   gender: male
   species: humanflk
-  born: VR(675/2/8)
+  born: 675.38
   height: 1.91
   weight: 83
   frame: medium
@@ -421,7 +422,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[bazdrshhrn|Bazûdar Shahrûn]]{float: top-left}
+![[bazdrshhrn|Bazûdar Shahrûn]]{float=top-left}
 
 Bazûdar stands 6'3" tall with a medium build. He has dark tan skin, black hair, and dark amber eyes. His features include a diamond-shaped face, a prominent nose, a well-defined jawline, full lips, thick dark brows, and angular cheeks. He has a tattoo of a woman on his shoulder.
 

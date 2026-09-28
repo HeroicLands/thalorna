@@ -17,11 +17,12 @@ data:
   occupation: Thespian
   stations: []
   lore: [commonerrnk]
+  culture: khepericlt
   homes: [takheperurgn]
   affiliations: [empirtkhpr]
   gender: female
   species: humanflk
-  born: VR(691/9/10)
+  born: 691.253
   height: 1.63
   weight: 55.3
   frame: light
@@ -417,7 +418,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[tiryedjetm|Tirye Djet'Amêu]]{float: top-left}
+![[tiryedjetm|Tirye Djet'Amêu]]{float=top-left}
 
 Tirye stands 5'4" tall with a light build. She has dark skin, black hair, and brown eyes. Her features include a narrow face, a slightly arched nose, a smooth jawline, and elegantly curved brows. She has a tattoo of a dragonfly on her neck.
 

@@ -16,11 +16,12 @@ data:
   occupation: Skald
   stations: []
   lore: [commonerrnk]
+  culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kingdmtrgd]
   gender: male
   species: humanflk
-  born: VR(677/5/16)
+  born: 677.138
   height: 1.78
   weight: 78
   frame: medium
@@ -419,7 +420,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[vgbrndrskyrkr|Vígbrandr Skýrekkr]]{float: top-left}
+![[vgbrndrskyrkr|Vígbrandr Skýrekkr]]{float=top-left}
 
 Vígbrandr stands 5'10" tall with a medium build. He has light fair skin, dark blonde hair, and blue eyes. His features include a rectangular face, a prominent nose, a heavy jawline, a small mouth, and heavy brows. He has a scar on his right hand.
 

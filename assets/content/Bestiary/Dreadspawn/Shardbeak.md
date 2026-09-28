@@ -244,7 +244,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[shrdbk|Shardbeak]]{float: top-left}
+![[shrdbk|Shardbeak]]{float=top-left}
 
 Light shatters across your vision as something brilliant and terrible takes flight—a bird of impossible beauty wrought from living crystal. Each movement throws prismatic rainbows across the surrounding stone, and the creature itself seems to sing as it moves, a high, ringing sound like glass vibrating at the edge of breaking. Its beak is a spike of impossible sharpness, and its wings—if they can be called wings—are composed of overlapping crystal shards arranged like feathers, each one perfect and lethal. As it circles, the air seems to hum with power, and you can feel the residual magic crackling off its crystalline form. There is something fundamentally wrong about its beauty—like a living weapon that has become too perfect, too honed.
 

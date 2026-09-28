@@ -207,7 +207,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[strcrwlr|Starcrawler]]{float: top-left}
+![[strcrwlr|Starcrawler]]{float=top-left}
 
 A constellation walks across the ground. At first you think it must be some trick of the night sky, but the stars move with purpose and direction across surfaces where stars should not be. As it approaches, you realize the lights are coming from something small and delicate—an insectoid shape no larger than a human hand, yet each segment of its body is studded with luminescent points. When it moves, it leaves behind a trail of light that lingers for a moment before fading, and the air around it smells faintly of ozone and distance.
 

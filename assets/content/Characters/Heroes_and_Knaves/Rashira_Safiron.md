@@ -16,11 +16,12 @@ data:
   occupation: Grammatíssa (Records-Keeper)
   stations: []
   lore: [commonerrnk]
+  culture: bethuanclt
   homes: [bethuargn]
   affiliations: [mtrrchybth]
   gender: female
   species: humanflk
-  born: VR(681/9/22)
+  born: 681.265
   height: 1.66
   weight: 61
   frame: medium

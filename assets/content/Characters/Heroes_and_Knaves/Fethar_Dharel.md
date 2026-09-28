@@ -11,11 +11,12 @@ data:
   occupation: Pilot
   stations: []
   lore: [commonerrnk]
+  culture: provenzianclt
   homes: [provenzrgn]
   affiliations: [thetamzir, kngdmprvnz]
   gender: male
   species: humanflk
-  born: VR(685/5/20)
+  born: 685.142
   height: 1.83
   weight: 77.1
   frame: medium
@@ -400,7 +401,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fethardhrl|Féthar Dhárel]]{float: top-left}
+![[fethardhrl|Féthar Dhárel]]{float=top-left}
 
 Féthar Dhárel is a man who looks like he wandered off a Provenzian promenade and somehow ended up at the helm of a disreputable trading vessel. He is six feet tall with a mop of unruly red hair, a constellation of freckles, and blue eyes that perpetually carry the gleam of a man enjoying a private joke. His most notable feature is his wardrobe—he favors elaborately patterned tunics and embroidered tabards that clash spectacularly with the grimy reality of shipboard life. He is gangly and loose-limbed, without the hardened look of a fighter, but his hands on the helm are sure and steady as stone.
 

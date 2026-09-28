@@ -14,7 +14,7 @@ data:
   affiliations: [blckpnwlvs, vrystwldtrbs]
   gender: male
   species: humanflk
-  born: VR(678/6/14)
+  born: 678.166
   height: 1.91
   weight: 102.1
   frame: heavy
@@ -388,7 +388,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[thrwldhldskrn|Thráwald Hildskorn]]{float: top-left}
+![[thrwldhldskrn|Thráwald Hildskorn]]{float=top-left}
 
 Thráwald Hildskorn is the largest man in Dágulf's gang and looks every year of the hard life he has led. He is tall and thick-bodied, with slablike shoulders and a barrel chest gone slightly soft around the middle. His graying brown hair is cropped close to the skull, and his broad, weathered face has been rearranged by violence—his nose has been broken so many times it sits crooked and flat, and two fingers are missing from his left hand, lost to a [[affiliation-vylarinmpr|Vylarian]] soldier's sword years ago. His brown eyes are dull and watchful, set deep beneath a heavy brow. He moves with a lumbering deliberateness that belies surprising quickness when the axe comes out. He wears a padded shirt under a scarred leather vest, rawhide cap, and heavy boots, and carries a battered battleaxe that he handles with grim familiarity.
 

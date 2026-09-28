@@ -9,11 +9,12 @@ data:
   occupation: king
   stations: []
   lore: [landedlordrnk]
+  culture: okharinclt
   homes: [okharisrgn]
   affiliations: [okharis]
   gender: male
   species: humanflk
-  born: VR(679/9/24)
+  born: 679.267
   height: 1.62
   weight: 64.4
   frame: medium

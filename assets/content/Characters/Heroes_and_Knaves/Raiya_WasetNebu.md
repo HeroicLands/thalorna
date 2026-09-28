@@ -17,11 +17,12 @@ data:
   occupation: Nobility (Courtier)
   stations: []
   lore: [landedlordrnk]
+  culture: khepericlt
   homes: [takheperurgn]
   affiliations: [empirtkhpr]
   gender: female
   species: humanflk
-  born: VR(693/6/15)
+  born: 693.167
   height: 1.73
   weight: 64.9
   frame: light
@@ -424,7 +425,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[raiyawstnb|Raiya Waset'Nebu]]{float: top-left}
+![[raiyawstnb|Raiya Waset'Nebu]]{float=top-left}
 
 Raiya stands 5'8" tall with a light build. She has dark skin, black hair, and dark brown eyes. Her features include a noble nose, a smooth jawline, dark brows, and prominent cheeks.
 

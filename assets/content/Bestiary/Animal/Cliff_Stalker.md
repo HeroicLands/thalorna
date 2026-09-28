@@ -245,7 +245,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[clffstlk|Cliff Stalker]]{float: top-left}
+![[clffstlk|Cliff Stalker]]{float=top-left}
 
 The rock face is pale gray and mottled patches until suddenly it isn't stone at all—the shape resolves into a colossal predator resting on a ledge fifty feet above. Its pale coat, spotted with dark rosettes, is so perfectly matched to the stone that it seems less like camouflage and more like the creature is made of rock itself. The moment it catches your scent, its ears rotate forward, and long amber eyes fix directly on you with singular purpose. The tail, extraordinarily long, begins to move in slow arcs, almost hypnotic—this is not a creature scanning for food. This is a hunter that has already decided.
 

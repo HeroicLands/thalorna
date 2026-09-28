@@ -245,7 +245,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[giantowl|Giant Owl]]{float: top-left}
+![[giantowl|Giant Owl]]{float=top-left}
 
 There is no warning. Only the sudden conviction that something is wrong—a shift in air pressure, a shadow that moves where no shadow should—and then the impact. The creature is already above you before you fully register its presence, wings folding with terrible grace. The wingspan is enormous, each feather the length of a sword blade, and the plumage is mottled brown-and-gray, seemingly woven from the darkness itself. The eyes are terrible: great golden orbs ringed with facial discs that give an expression of dreadful intelligence. The talons are the size of scythes. The worst part is the silence—a creature this enormous should make sound, should announce itself through wind and motion, but instead it glides through the night with absolute quiet, a predator so perfectly adapted that the darkness itself seems to carry it.
 

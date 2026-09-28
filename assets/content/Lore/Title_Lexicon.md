@@ -35,7 +35,7 @@ does not divide there. An absence is not always a silence: the Kheperi run their
 nomes without a treasurer and read no omens at court, and both are facts about
 Ta'Kheperu rather than gaps in the account of it.
 
-```sql :section-level 3
+```sql {section-level=3}
 WITH peoples AS (
   SELECT n.*, CASE
       WHEN n.file.folder LIKE 'Regions/Xerathia/%/Ta.Kheperu%'       THEN 'Kheperi'
@@ -83,7 +83,7 @@ on the same reckoning the polities use — which is what lets a priest's ladder 
 set beside a king's without either being bent to fit. The words are entirely
 their own.
 
-```sql :section-level 3
+```sql {section-level=3}
 WITH traditions AS (
   SELECT n.*,
          replace(
@@ -113,7 +113,7 @@ divides the work of governing as its own history left it, and no two divide it
 alike. So these are read the other way about: find the people, then the word.
 Each entry says what its holder actually does.
 
-```sql :section-level 3
+```sql {section-level=3}
 WITH peoples AS (
   SELECT n.*, CASE
       WHEN n.file.folder LIKE 'Regions/Xerathia/%/Ta.Kheperu%'       THEN 'Kheperi'

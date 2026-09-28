@@ -414,7 +414,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[cvtrll|Cave Troll]]{float: top-left}
+![[cvtrll|Cave Troll]]{float=top-left}
 
 The darkness moves. A shape detaches itself from the shadows of the cave wall—pale, skeletal, impossibly tall. You smell something wild and foul, something ancient and wrong. Then you hear it: a wet, rhythmic breathing that echoes off stone, and the scrape of something sharp—claws, many of them—dragging across rock. Its eyes catch the faint light like mirrors, tiny and bright with hunger, and it smiles. The mouth is too wide.
 

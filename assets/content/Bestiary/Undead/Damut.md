@@ -362,7 +362,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[damut|Damut]]{float: top-left}
+![[damut|Damut]]{float=top-left}
 
 What rises before you is the obscenity of a corpse made animate—a body that has been dead long enough to decay, long enough that pieces should be missing, yet here it stands moving with a shambling gait. The smell hits you like a physical force—rot, decay, the stench of death too advanced to sustain life. Where flesh has fallen away, bone is visible beneath. Patches of mold and fungi grow across the surface. Yet the creature moves with terrible purpose, driven by something other than flesh, other than will. Its eyes, if they can be called that, are dark pits filled with necromantic shadow. This was a person once. No longer.
 

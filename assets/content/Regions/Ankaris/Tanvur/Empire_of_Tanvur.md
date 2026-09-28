@@ -170,8 +170,6 @@ The Empire has never been seriously threatened from the west. Its real threats h
 
 ### Threats & Conflicts
 
-- [[lore-threats|Threats]]—Overview of external threats, internal rebellions, and crises facing the empire
-
 ### See Also
 
 - [[place-tanvuregin|Tānvür Region]]—the regional geography, peoples, and culture

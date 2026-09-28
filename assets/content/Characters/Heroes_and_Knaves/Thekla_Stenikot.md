@@ -16,11 +16,12 @@ data:
   occupation: Mercenary
   stations: []
   lore: [commonerrnk]
+  culture: byzarianclt
   homes: [byzariargn]
   affiliations: [byzarianlg]
   gender: female
   species: humanflk
-  born: VR(691/3/4)
+  born: 691.65
   height: 1.78
   weight: 77.6
   frame: medium
@@ -422,7 +423,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[theklastnkt|Thêkla Steníkot]]{float: top-left}
+![[theklastnkt|Thêkla Steníkot]]{float=top-left}
 
 Thêkla stands 5'10" tall with a medium build. She has sun-tanned skin, brown hair, and green eyes. Her features include an oval face, a strong nose, a sharp jawline, well-defined lips, arched brows, hollow cheeks.
 

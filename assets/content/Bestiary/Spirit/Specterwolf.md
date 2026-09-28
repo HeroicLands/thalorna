@@ -230,7 +230,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[spctrwlf|Specterwolf]]{float: top-left}
+![[spctrwlf|Specterwolf]]{float=top-left}
 
 In the darkness ahead, you hear what should be the sound of paws on stone—but the sound comes wrong, as if from a great distance even as the shape moves toward you. The form is wolflike but not quite solid; it seems to slip between shadows and reality with each step. Its eyes are pale and depthless, regarding you with an intelligence that no natural wolf should possess, and something about its presence makes your skin crawl with primal warning.
 

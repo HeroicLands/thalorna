@@ -83,7 +83,7 @@ npm run build:site   # assets/content/ → build/hugo/content/ → build/site/th
 npm run serve:site   # the same, then `hugo server` for a local preview
 ```
 
-`build/hugo/` is the generated Hugo project: `content-build site` writes its
+`build/hugo/` is the generated Hugo project: `package-build site` writes its
 configuration and the content mount there, and the home page is rendered by
 the theme's landing layout from `assets/content/homepage.md`. The shared
 `heroiclands-hugo-theme` arrives through `npm ci`, as `@heroiclands/hugo-theme`.
@@ -109,7 +109,7 @@ of the project to do it.
 
 ### The emitter is the toolchain's, entirely
 
-`npm run build:site-content` is `content-build site`, and there is no local site
+`npm run build:site-content` is `package-build site`, and there is no local site
 code at all — no walk, no filter, no page writer, no wikilink resolver, and no
 seam for one (#85). This repository used to carry its own emitter, a 907-line
 copy of the engine's plus a 281-line copy of its wikilink resolver, and that copy

@@ -296,7 +296,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[smmtdrk|Summitdrake]]{float: top-left}
+![[smmtdrk|Summitdrake]]{float=top-left}
 
 The mountain itself seems to breathe as the creature rises from the stone—a drake of impossible size, easily forty feet from snout to tail, its scales the color of weathered granite and veined with dark streaks like the geology of the mountain made flesh. Its claws are hooks designed for climbing vertical faces, each one the length of a hand, and its teeth are like daggers of polished bone. The air around it shimmers with the heat of its breath, and you see patches of stone around its mouth melted and fused by whatever fire burns inside it. Its eyes are furnace-bright, intelligent and devoid of mercy, and they fasten on you with the certainty of a predator that knows its prey cannot possibly escape. The sound it makes is a low, rumbling growl that is felt more than heard—a vibration that runs through stone and bone alike.
 

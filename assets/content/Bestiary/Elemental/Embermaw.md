@@ -272,7 +272,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[embermaw|Embermaw]]{float: top-left}
+![[embermaw|Embermaw]]{float=top-left}
 
 Before you, the ground itself seems to become molten. A creature writhes upward from heat-shimmer and flame—vaguely reptilian, perhaps twelve feet from snout to tail, composed of roiling lava and burning rock held in a rough dragon shape. Its mouth opens to reveal an interior of pure flame and magma-drip. The heat is overwhelming, a physical force that forces you to squint and turn your face away. With each movement, cracks form in the earth beneath it, glowing orange-red from within.
 

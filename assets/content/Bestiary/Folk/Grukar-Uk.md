@@ -259,7 +259,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[grukaruk|Grukar-Uk]]{float: top-left}
+![[grukaruk|Grukar-Uk]]{float=top-left}
 
 There are a lot of them. That is the first thing you notice—not any single Grukar-Uk, but the sheer, grubby mass of them, squatting around smoky fires, bickering over scraps of meat, scratching themselves with thick, blunt fingers. Individually, a Grukar-Uk is unimpressive: about four and a half feet tall, squat and bandy-legged, with a barrel chest and arms corded with a wiry, stubborn muscle that seems almost wasted on the creature's slouching posture. Its skin is a muddy gray-green, bristling with coarse dark hair across the shoulders and back. Its face is flat and heavy, dominated by a jutting lower jaw and a pair of small, yellowed tusks. Its eyes are dull and sullen, watching the world with a kind of resentful apathy—the look of a creature that would rather be doing nothing, and usually is. But there are so very many of them. And each one is carrying something sharp.
 

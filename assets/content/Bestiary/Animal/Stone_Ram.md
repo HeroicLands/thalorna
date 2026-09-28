@@ -256,7 +256,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[stoneram|Stone Ram]]{float: top-left}
+![[stoneram|Stone Ram]]{float=top-left}
 
 The creature stands upon stone as if born from it, its massive frame balanced with impossible confidence on a ledge that would offer most creatures only terror. The horns spiral upward from the skull, vast and dark as slate, each curve marked by deep grooves that speak of countless collisions with rivals and stone. The shaggy coat of gray and white wool ripples in wind, and the small hooves, improbably dainty for a creature of such bulk, click with perfect surety against stone. The eyes are watchful and intelligent, scanning not for immediate threat but assessing the terrain and nearby creatures with the confidence of something that cannot be caught on ground of its choosing.
 

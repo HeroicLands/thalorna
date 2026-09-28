@@ -16,11 +16,12 @@ data:
   occupation: Shaman
   stations: []
   lore: [commonerrnk]
+  culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kingdmnrgd]
   gender: female
   species: humanflk
-  born: VR(690/6/7)
+  born: 690.159
   height: 1.73
   weight: 63.5
   frame: light
@@ -421,7 +422,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[grosdrnrgd|Gróa the Seidr of Norgaad]]{float: top-left}
+![[grosdrnrgd|Gróa the Seidr of Norgaad]]{float=top-left}
 
 Gróa stands at 5’8" with a slender, wiry frame, weighing around 140 pounds. Her pale complexion and long, ashen-blonde hair give her an ethereal presence, often kept loose or in a simple braid. Her piercing blue eyes seem to see beyond the physical world, reflecting her connection to the spirit realm. Her features are sharp and angular, with high cheekbones and a narrow nose, framed by thin, pale lips that often speak in a soft but commanding tone. Gróa dresses in dark, flowing robes, adorned with runes and charms, reflecting her role as a seidr, and she carries a simple wooden staff inscribed with ancient symbols of power.
 

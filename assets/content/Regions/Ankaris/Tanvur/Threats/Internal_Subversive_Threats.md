@@ -1,8 +1,9 @@
 ---
 shortcode: intrnlsbvrsvthrts
 name: {full: Internal Subversive Threats, aliases: []}
-type: lore
-subType: history
+type: doc
+subType: settingguide
+tags: [gm]
 data: {packFolder: threats}
 ---
 

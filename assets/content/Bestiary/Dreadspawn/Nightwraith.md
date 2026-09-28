@@ -237,7 +237,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[nghtwrth|Nightwraith]]{float: top-left}
+![[nghtwrth|Nightwraith]]{float=top-left}
 
 The darkness above you ripples with motion—a shadow that moves against the shadows themselves. Then comes a sound—not the flap of wings but a wet, clicking chirp that seems to come from everywhere at once. The temperature plummets as an enormous winged shape passes overhead, blocking out even the starlight, and you catch the reek of blood and cave-rot. Two points of sickly crimson luminescence fixate on you from above—eyes that see you more clearly in utter darkness than you can see in daylight. Fangs the length of fingers curve downward, and you hear the thrash of leathery wings as the creature wheels for another pass.
 

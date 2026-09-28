@@ -8,7 +8,7 @@ tags: [totem, archetype]
 data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
-![[icon-falcontotem|Falcon]]{float: top-left, size: medium}
+![[icon-falcontotem|Falcon]]{float=top-left size=medium}
 
 Precise and relentless, falcons are master hunters that dive at incredible speeds to capture prey, showing unparalleled focus and determination.
 

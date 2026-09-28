@@ -8,7 +8,7 @@ tags: [totem, archetype]
 data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
-![[icon-parrottotem|Parrot]]{float: top-left, size: medium}
+![[icon-parrottotem|Parrot]]{float=top-left size=medium}
 
 Social and vocal, parrots are intelligent birds that thrive on interaction and are known for their ability to mimic sounds and engage with their environment.
 

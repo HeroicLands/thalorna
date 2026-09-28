@@ -265,7 +265,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[ironjaw|Ironjaw]]{float: top-left}
+![[ironjaw|Ironjaw]]{float=top-left}
 
 The thing moves like a wolf but built from armor and malice. Its entire body is covered in interlocking metal scales that catch light with a dull, threatening gleam. The jaw juts forward unnaturally, lined with teeth that gleam like steel and appear far too numerous for any natural animal. Its eyes are cold and bright, burning with a hunger that feels deliberate and cruel. When it breathes, sparks catch in its nostrils. It walks with deliberate slowness, confident, each step sinking slightly into the ground under its weight.
 

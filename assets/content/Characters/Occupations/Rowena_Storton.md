@@ -14,7 +14,7 @@ data:
   affiliations: [kingdmdnvr]
   gender: female
   species: humanflk
-  born: VR(692/9/19)
+  born: 692.262
   height: 1.7
   weight: 64
   frame: light

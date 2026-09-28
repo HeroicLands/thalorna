@@ -16,11 +16,12 @@ data:
   occupation: Cartographer/Artist
   stations: []
   lore: [commonerrnk]
+  culture: byzarianclt
   homes: [byzariargn]
   affiliations: [byzarianlg]
   gender: male
   species: humanflk
-  born: VR(681/3/27)
+  born: 681.88
   height: 1.75
   weight: 70.8
   frame: medium
@@ -426,7 +427,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[klnksprphrkt|Kallínikos Porphyrákit]]{float: top-left}
+![[klnksprphrkt|Kallínikos Porphyrákit]]{float=top-left}
 
 Kallínikos stands 5'9" tall with a medium build. He has warm tanned skin, dark brown hair, and warm brown eyes. His features include an oval face, a strong nose, an angular jawline, an expressive mouth, dark brows, prominent cheeks. A distinguishing mark is a scar on the left thigh.
 

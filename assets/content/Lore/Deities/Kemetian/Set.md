@@ -7,7 +7,7 @@ tags: [draft]
 data: {packFolder: deitieskemetian}
 ---
 
-![[icon-set|Sét]]{float: top-left, size: medium}
+![[icon-set|Sét]]{float=top-left size=medium}
 
 _Bringer of Tempests—a serpent coiled around a lightning bolt._
 

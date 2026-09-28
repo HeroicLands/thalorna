@@ -10,11 +10,12 @@ data:
   occupation: Tentmaker
   stations: []
   lore: [commonerrnk]
+  culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kngdmnrdhm]
   gender: male
   species: humanflk
-  born: VR(667/2/18)
+  born: 667.48
   height: 1.83
   weight: 76.7
   frame: medium
@@ -416,7 +417,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[skulvtrdmr|Skúli Vetrdómr]]{float: top-left}
+![[skulvtrdmr|Skúli Vetrdómr]]{float=top-left}
 
 Skúli stands 6'0" tall with a medium build. He has light ruddy skin, gray hair, and gray eyes. His features include a long face, a straight nose, a square jawline, narrow lips, heavy brows, hollow cheeks. A distinguishing mark is a tattoo of a falcon on the right arm.
 

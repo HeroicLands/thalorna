@@ -251,7 +251,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[cheeprow|Cheeprow]]{float: top-left}
+![[cheeprow|Cheeprow]]{float=top-left}
 
 The sound reaches you first: a soft chirping, bright and almost musical, like tiny bells chiming in sequence. When you locate the source, your eyes fall upon a creature so absurdly cute that your guard drops instantly. Standing barely a foot tall, it resembles a fluffy, round ball of dun-colored fur perched on stubby legs, with enormous dark eyes that sparkle with innocent curiosity. Its small beak opens in what seems like a happy chirp as it hops closer, investigating a button on your pack with tender fascination. You would almost swear the creature was smiling—until, moments later, you hear the sound repeat from somewhere else nearby, and again, and again, each new chirp answered by others, drawing from every shadow and corner around you.
 

@@ -294,7 +294,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[frstdrk|Forest Drake]]{float: top-left}
+![[frstdrk|Forest Drake]]{float=top-left}
 
 The forest seems to shift as your eyes pass across the canopy, a ripple in the green that makes you stop and stare. For a moment you see nothing—then the pattern resolves into scales. Emerald bright yet dappled with lighter shades that mirror the play of leaves in sunlight, the creature becomes visible only once you know it is there. A sinuous form eight feet long coils around a branch, and when it turns its angular head toward you, two luminous yellow eyes open like twin flames. The air grows warm on your face as the creature's nostrils flare, and you hear the sound of scales sliding across bark—a sound like whispered warnings.
 

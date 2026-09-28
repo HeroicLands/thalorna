@@ -7,7 +7,7 @@ tags: [draft]
 data: {packFolder: deitieskemetian}
 ---
 
-![[icon-apophis|Ápōphis]]{float: top-left, size: medium}
+![[icon-apophis|Ápōphis]]{float=top-left size=medium}
 
 _The Devouring Shadow—a coiled serpent encircling a shattered star._
 

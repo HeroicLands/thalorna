@@ -14,7 +14,7 @@ data:
   affiliations: [vylarinmpr]
   gender: female
   species: humanflk
-  born: VR(685/12/19)
+  born: 685.354
   height: 1.73
   weight: 72
   frame: medium

@@ -65,7 +65,7 @@ The tablets vary in quality and elaboration by caste. A Zhëklüng's tablet is l
 
 The system of Zhāk Müt extends to foreigners who have obtained classification. A merchant carrying a Shükrën Dōk Thōk (temporary trading classification) receives a corresponding tablet valid for the duration of their business. A foreigner classified by imperial decree receives a tablet bearing the Emperor's own seal—an object of considerable prestige and, in practical terms, a guarantee of safe passage throughout the empire.
 
-Forging a Zhāk Müt is among the most serious crimes in the Tëng Lüt. It is not merely fraud—it is an act of unauthorized reclassification, an attempt to place oneself in a category that the cosmic order did not assign. The penalty is execution, carried out publicly as a demonstration that the classification system cannot be circumvented. The [[lore-intrnlsbvrsvthrts|Black Lotus Society]] is known to traffic in forged tablets, which is one of the many reasons the empire considers them an existential threat rather than a mere criminal nuisance.
+Forging a Zhāk Müt is among the most serious crimes in the Tëng Lüt. It is not merely fraud—it is an act of unauthorized reclassification, an attempt to place oneself in a category that the cosmic order did not assign. The penalty is execution, carried out publicly as a demonstration that the classification system cannot be circumvented. The [[affiliation-heklotzhak|Black Lotus Society]] is known to traffic in forged tablets, which is one of the many reasons the empire considers them an existential threat rather than a mere criminal nuisance.
 
 ---
 

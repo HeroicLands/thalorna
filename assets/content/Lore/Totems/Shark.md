@@ -8,7 +8,7 @@ tags: [totem, archetype]
 data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
-![[icon-sharktotem|Shark]]{float: top-left, size: medium}
+![[icon-sharktotem|Shark]]{float=top-left size=medium}
 
 Relentless and instinctive, sharks are apex predators that patrol the oceans with unyielding focus, driven by their powerful senses to hunt and survive.
 

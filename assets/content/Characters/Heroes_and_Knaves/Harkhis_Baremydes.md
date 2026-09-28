@@ -16,11 +16,12 @@ data:
   occupation: Apothecary
   stations: []
   lore: [commonerrnk]
+  culture: vylarianclt
   homes: [vylariargn]
   affiliations: [provinclys]
   gender: male
   species: humanflk
-  born: VR(674/2/11)
+  born: 674.41
   height: 1.73
   weight: 66.2
   frame: medium
@@ -427,7 +428,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[hrkhsbrmyds|Harkhîs Bàremydês]]{float: top-left}
+![[hrkhsbrmyds|Harkhîs Bàremydês]]{float=top-left}
 
 Harkhîs stands 5'8" tall with a medium build. He has light ruddy skin, gray hair, and green eyes. His features include an oblong face, an aquiline nose, a pointed chin, full lips, and heavy brows. He has a scar on his left calf.
 

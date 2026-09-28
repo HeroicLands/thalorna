@@ -185,7 +185,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[erthrvr|Earthreaver]]{float: top-left}
+![[erthrvr|Earthreaver]]{float=top-left}
 
 The ground writhes. Soil ripples like water, and then the thing erupts—segmented, armored, impossibly long. Its body is a chain of chitinous plates that glisten with slime and crushed earth. Too many legs move in synchronized horror, carrying it forward at speeds that shouldn't be possible for something so massive. Its mandibles open, dripping venom that hisses where it touches stone. The stench of turned soil and something acidic fills your nostrils.
 

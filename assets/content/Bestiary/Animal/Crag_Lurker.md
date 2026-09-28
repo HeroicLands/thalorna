@@ -189,7 +189,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[crglrkr|Crag Lurker]]{float: top-left}
+![[crglrkr|Crag Lurker]]{float=top-left}
 
 Your eye passes over the rocky crevice without registering anything unusual—until movement betrays the illusion. What you thought was stone shifts, reveals itself to be carapace the color of weathered rock, textured like the living cliff face. The arachnid is enormous: the body as large as a horse, with eight legs extending ten feet or more. The movement is precise and economical, each limb placed with disturbing grace on sheer stone that should be impossible to traverse. Eight black eyes arranged in two rows gleam faintly when light catches them, and the mandibles—each as long as a human hand—click together softly, producing a sound like flint on stone.
 

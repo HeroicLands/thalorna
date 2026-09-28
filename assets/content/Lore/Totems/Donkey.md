@@ -8,7 +8,7 @@ tags: [totem, archetype]
 data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
-![[icon-donkeytotem|Donkey]]{float: top-left, size: medium}
+![[icon-donkeytotem|Donkey]]{float=top-left size=medium}
 
 Patient and obstinate, donkeys are known for their stubbornness and will resist any force they perceive as unreasonable or threatening.
 

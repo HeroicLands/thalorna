@@ -245,7 +245,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[shdwlynx|Shadow Lynx]]{float: top-left}
+![[shdwlynx|Shadow Lynx]]{float=top-left}
 
 Something stirs in the darkness—barely more than a shadow among shadows, yet conscious and aware. The undergrowth doesn't part so much as accommodate the creature's passage, as if shadow itself is flowing through the ferns and leaf litter. The eyes open like green coals in the dimness, and your vision suddenly focuses on what you somehow knew was there all along: a sleek, dark form that would be nearly invisible in full daylight, let alone this gathering dusk. The ears twitch once, twice, and you realize the creature has locked onto you through sound alone. There is no haste in its movement, only certainty—the confidence of a predator that has already decided the outcome.
 

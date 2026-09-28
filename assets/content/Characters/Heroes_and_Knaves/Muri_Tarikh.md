@@ -10,11 +10,12 @@ data:
   occupation: Caravan Guard
   stations: []
   lore: [commonerrnk]
+  culture: kaliharanclt
   homes: [kaliharargn]
   affiliations: [kalihara]
   gender: male
   species: humanflk
-  born: VR(680/4/9)
+  born: 680.100
   height: 1.88
   weight: 85.7
   frame: heavy
@@ -408,7 +409,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[muritarikh|Muri Târikh]]{float: top-left}
+![[muritarikh|Muri Târikh]]{float=top-left}
 
 Muri stands 6'2" tall with a heavy build. He has dark skin, black hair, and dark brown eyes. His features include an angular face, a sharp jawline, full lips, dark brows, and angular cheeks. He has a scar across the bridge of his nose.
 

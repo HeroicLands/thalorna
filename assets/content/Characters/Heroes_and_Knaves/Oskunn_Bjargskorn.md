@@ -16,11 +16,12 @@ data:
   occupation: Clothier
   stations: []
   lore: [commonerrnk]
+  culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kingdmnrgd]
   gender: female
   species: humanflk
-  born: VR(690/3/22)
+  born: 690.83
   height: 1.68
   weight: 58.1
   frame: light
@@ -418,7 +419,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[osknbjrgskrn|Óskunn Bjargskorn]]{float: top-left}
+![[osknbjrgskrn|Óskunn Bjargskorn]]{float=top-left}
 
 Óskunn stands 5'6" tall with a light build. She has pale fair skin, auburn hair, and green eyes. Her features include an oval face, a slightly upturned nose, a prominent chin, narrow lips, low-set brows.
 

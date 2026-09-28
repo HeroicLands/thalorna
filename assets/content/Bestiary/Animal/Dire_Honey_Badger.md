@@ -245,7 +245,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[drhnybdg|Dire Honey Badger]]{float: top-left}
+![[drhnybdg|Dire Honey Badger]]{float=top-left}
 
 The creature itself seems wrong—wrongly large, wrongly aggressive, wrongly unafraid. Standing nearly chest-height to a human, the animal is a bundle of pure muscle wrapped in thick, loose skin covered in coarse black fur with a stark white stripe running down spine and shoulders. The claws—easily the length of human fingers—protrude from powerful paws built for excavation and destruction. The smell hits next: a musky, acrid reek that burns nostrils and carries the promise of something willing to die before surrendering. When it fixes its dark eyes on you and takes a step forward, you feel not predatory attention but something worse: the focus of a creature that has already decided you are prey and is calculating the angle of attack.
 

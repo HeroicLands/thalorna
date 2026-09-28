@@ -16,11 +16,12 @@ data:
   occupation: Yeoman Infantry
   stations: []
   lore: [commonerrnk]
+  culture: byzarianclt
   homes: [byzariargn]
   affiliations: [byzarianlg]
   gender: male
   species: humanflk
-  born: VR(684/6/14)
+  born: 684.166
   height: 1.83
   weight: 82.1
   frame: heavy
@@ -421,7 +422,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[athngrsktkls|Athênagoras Katakálos]]{float: top-left}
+![[athngrsktkls|Athênagoras Katakálos]]{float=top-left}
 
 Athênagoras stands 6'0" tall with a heavy build. He has light tanned skin, black hair, and brown eyes. His features include an oval face, a prominent nose, a sharp jawline, an expressive mouth, and strong brows. He has a tattoo of a rose vine on his leg.
 

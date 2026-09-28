@@ -207,7 +207,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[stygnlvt|Stygian Leviathan]]{float: top-left}
+![[stygnlvt|Stygian Leviathan]]{float=top-left}
 
 The water ahead grows darker, as though shadow itself is taking form, rising from the depths. You see something vast and terrible break the surface—scaled hide the color of a bruise, gray-black and ancient, crusted with what might be barnacles or might be something worse. Eyes like twin moons break the surface, studying you with an intelligence that is cold and indifferent to your existence. The creature's breath is an exhalation like the wind from a tomb, and the water around it seems to grow colder, more viscous, weighted with age and predatory hunger. Then, impossibly, something wraps around your leg—a tentacle as thick as a man's arm, bristling with suckers and barbs, pulling downward with inexorable strength toward depths from which no scream can escape.
 
