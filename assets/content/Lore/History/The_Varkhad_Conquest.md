@@ -10,7 +10,7 @@ data:
   event:
     kind: conquest
     depth: world
-    when: {year: -1400, precision: century}
+    when: {reckoning: VR, year: -1400, precision: century}
     sources: [lore-pelwarpepl]
     summary: >-
       A fierce people out of the further east, the Varkhad, arrive in the eastern grasslands as conquerors and take the Pelwar homelands. They exterminate nobody: over generations they marry into the tribes they have beaten, adopt a good deal of what they find, and merge until the two stocks cannot be told apart. The peoples that come out of the mixture hold the north and north-east to this day.

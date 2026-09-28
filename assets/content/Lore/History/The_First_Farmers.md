@@ -10,7 +10,7 @@ data:
   event:
     kind: making
     depth: world
-    when: {year: -5300, precision: century}
+    when: {reckoning: VR, year: -5300, precision: century}
     sources: [place-ankrscntnnt, lore-flkkhazar, lore-vardain, lore-pelwarpepl, lore-longnhrtnc]
     summary: >-
       In the upland country around their first holds the Khazári teach the nearest peoples to farm—water-works, drainage, terracing, seed-storage, the granary. They are building a larder, not a civilization. The knowledge runs downhill into the river valleys over the centuries that follow, and every human agriculture on Thalorna descends from it.

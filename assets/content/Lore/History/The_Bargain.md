@@ -10,7 +10,7 @@ data:
   event:
     kind: treaty
     depth: world
-    when: {year: -330, precision: year}
+    when: {reckoning: VR, year: -330, precision: year}
     sources: [decided-midhalion, decided-chronology, doc-soulspirts]
     summary: >-
       Holding what was taken at Therádon, the Republic offers the dragons the only thing it has that they want: the return of the bound to the ancestor pool. The dragons' price is the war. The agreement is not made for the war's duration but as a term of years renewed annually, which is why the Dragon Riders are a standing corps for two and a third centuries rather than a wartime expedient. Nothing of it is written down. What the Republic's chancery enters is a yearly appropriation for the keeping of a thing named only by a number, under a description it invented so that nobody would query the line.

@@ -11,6 +11,7 @@ data:
     kind: founding
     depth: world
     when:
+      reckoning: VR
       year: -2110
       precision: century
       stated: {calendar: septepy, text: "Renpet Sep Tepy, year 1"}

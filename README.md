@@ -5,20 +5,22 @@ This module provides the necessary items, actors, and assets needed to play in t
 ## Building
 
 ```sh
-npm install
-npm run build:compiledb      # assets/content/ → build/stage/packs/{items,journals}
-npm run build:link-manifest  # assets/content/ → build/manifests/thalorna.json
+npm ci
+npm run build                # the whole module, from a clean install
+npm run build:content-index  # assets/content/ → build/content-index/
+npm run build:calendars      # the content index → build/calendars/
+npm run build:compiledb      # assets/content/ → build/stage/packs/{items,journals,actors}
 npm run build:site-content   # assets/content/ → build/hugo/content/
 npm run build:site           # the above, then Hugo → build/site/thalorna/
 ```
 
 A plain checkout is all that is needed. There is no sibling repository to clone
-and no `HEROICLANDS_VAULT` to set — as of #1441 this repository owns its content
-outright, and everything it ships is generated from it.
+and no `HEROICLANDS_VAULT` to set — this repository owns its content outright,
+and everything it ships is generated from it.
 
 ## Content
 
-Thalorna's 1,740 notes are **source**, in [`assets/content/`](assets/content/README.md).
+Thalorna's notes are **source**, in [`assets/content/`](assets/content/README.md).
 That README is the one to read before adding or editing a note: it covers the
 frontmatter fields that carry identity, what makes a note compile into an item
 rather than a journal, and how to write a link into another package.
@@ -33,6 +35,48 @@ the shared toolchain every HeroicLands content package builds with. This
 repository declares what is its own — the content package it compiles, the
 Foundry package it ships, its pack list — in `package-build.config.yaml`, and
 holds no copy of the compilers.
+
+## Calendars
+
+Five peoples in the setting keep their own reckoning, and each is a note in
+`assets/content/` with `subType: calendar`. `npm run build:calendars` compiles
+every one of them into `build/calendars/`, and the build stages that directory
+into the module at `calendars/`. The notes are the source; nothing here is
+edited by hand.
+
+| Calendar               | File          | Kept by                                     |
+| ---------------------- | ------------- | ------------------------------------------- |
+| The Common Calendar    | `commoncal`   | Vylaria and the lands it reaches            |
+| The Kheperi Calendar   | `khprclndr`   | Ta'Kheperu                                  |
+| The Khazryn Calendar   | `khzrnclndr`  | The Khazryn kingdoms and the exile Mobadate |
+| The Mādhavendra Count  | `mdhvndrcnt`  | Vedyara                                     |
+| Calendar and Astrology | `clndrstrlgy` | The Empire of Tānvür                        |
+
+Each calendar ships twice. `calendars/<file>.json` is Foundry's own calendar
+shape, and `calendars/<file>.calendaria.json` is the same definition inside the
+envelope the [Calendaria](https://foundryvtt.com/packages/calendaria) module's
+settings importer reads, generated against import format **1.4.2**.
+
+**A world with no calendar of its own gets the Common Calendar.** The module
+sets it during `init`, and only when the world calendar is still Foundry's
+Simplified Gregorian default — so a calendar another package has claimed is
+left alone. Foundry then divides the year into Floralis through Janar, names
+the week Newday through Setday, and marks the four seasons, and a world at time
+zero opens on **1 Floralis of year 1**, where the calendar's own count begins.
+The setting's present is year 720, so a campaign starting there sets the world
+time forward.
+
+The printed forms — _14 Taranis, 720 AF_ — come from the `formats` the notes
+declare, which Calendaria reads and core does not. The era before year 1 counts
+its years backwards and prints them as _330 BF_; it is an authoring convenience
+and is left out of the Calendaria definition, which has no backwards-counting
+era.
+
+**Calendaria is optional and this module does not require it.** To use one of
+these calendars inside Calendaria, open its settings, import
+`modules/thalorna/calendars/<file>.calendaria.json`, and pick the calendar
+there. The import files carry the same licence as the rest of this
+repository's content, [CC BY-SA 4.0](LICENSE.md).
 
 ## Publishing to the website
 

@@ -10,7 +10,7 @@ data:
   event:
     kind: arrival
     depth: world
-    when: {year: -5300, precision: century}
+    when: {reckoning: VR, year: -5300, precision: century}
     sources: [lore-flkkhazar, place-ankrscntnnt, lore-vardain, lore-khazarturn]
     summary: >-
       The Khazári reach Thalorna from a prior realm they do not disclose, two thousand years after the Sinalë and as seven clans. They take to the mountains and begin cutting holds. A hold grows nothing and will not be supplied from outside, and the humans they find are hunter-gatherers who cannot provision anybody.

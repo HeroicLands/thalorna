@@ -10,7 +10,7 @@ data:
   event:
     kind: raising
     depth: world
-    when: {year: -5123, precision: year}
+    when: {reckoning: VR, year: -5123, precision: year}
     sources: [lore-khazarturn, lore-flkkhazar]
     summary: >-
       The Khazári cut a city into the cliff face of a mountain valley—seven great towers standing out from the rock, one to each clan, and the city held jointly beneath them. It becomes the seat of an entire people's craft-records, home to some thirty thousand, and the greatest structure on Thalorna. It is the only thing the Khazári are known to have made as a single people.

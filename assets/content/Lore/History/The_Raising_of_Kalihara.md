@@ -10,7 +10,7 @@ data:
   event:
     kind: founding
     depth: world
-    when: {year: -9280, precision: millennium, derived: ten thousand years}
+    when: {reckoning: VR, year: -9280, precision: millennium, derived: ten thousand years}
     sources: [lore-theithari, affiliation-kalihara, place-klhrcntnnt]
     summary: >-
       The Ithári raise the humans of Kalihara into a civilization that arrives complete—agriculture, medicine, governance, a vocabulary for all of it, and the philosophical tradition Thári'vaan. Nothing on the island shows the long ascent every other human tradition shows. It is the only place on Thalorna where the Ithári raised anyone.

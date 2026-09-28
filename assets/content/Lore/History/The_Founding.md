@@ -10,7 +10,7 @@ data:
   event:
     kind: accession
     depth: world
-    when: {year: 1, precision: year}
+    when: {reckoning: VR, year: 1, precision: year}
     sources: [affiliation-vylarinmpr, place-ankrscntnnt]
     summary: >-
       A Vylarian Senator, backed by loyal legions and by the Ordo Arcanis, seizes supreme power and declares himself Emperor. The Senate survives and is reduced from a governing body to an advisory one. It is not a sudden revolution but the culmination of decades of erosion; the Emperor formalizes what has already become reality. Western Ankaris reckons its years from this moment, and everything before it is dated Before the Founding.

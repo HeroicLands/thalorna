@@ -10,7 +10,7 @@ data:
   event:
     kind: founding
     depth: world
-    when: {year: -650, precision: decade}
+    when: {reckoning: VR, year: -650, precision: decade}
     sources: [affiliation-vylarinmpr, place-ankrscntnnt]
     summary: >-
       Patrician families overthrow the last Vylarian king and establish a Republic governed by a Senate of landed aristocrats. It grows steadily from a regional city-state into the dominant power of the Vylarian Sea, and within two and a half centuries controls significant territory across Mídhalión.

@@ -10,7 +10,7 @@ data:
   event:
     kind: founding
     depth: world
-    when: {year: -2500, precision: century}
+    when: {reckoning: VR, year: -2500, precision: century}
     sources: [lore-clndrstrlgy, affiliation-tanvurempr, lore-khazarturn]
     summary: >-
       The oldest imperial dynasty the Bureau of Records can date from documents in its own custody begins. It is the earliest point at which any human institution can produce a ruler, a house and a year together, and the line runs from here through more than a dozen dynasties to the present.

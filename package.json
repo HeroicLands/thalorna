@@ -31,7 +31,7 @@
         "build:local": "npm i && npm run build:noci",
         "build:noci": "run-s build:deps lint build:db build:module",
         "build:deps": "package-build deps fetch",
-        "build:db": "run-s build:deps build:content-index build:assets build:compiledb",
+        "build:db": "run-s build:deps build:content-index build:calendars build:assets build:compiledb",
         "build:assets": "package-build assets",
         "build:compiledb": "package-build package compile",
         "build:unpackdb": "package-build package unpack",
@@ -63,6 +63,7 @@
         "changeset:version": "changeset version && package-build changelog group && npm install --package-lock-only",
         "changeset:check": "changeset status --since=origin/main",
         "build:content-index": "package-build content-index",
+        "build:calendars": "package-build calendars --calendaria-version 1.4.2",
         "lint:lang": "package-build lang check",
         "lint:history": "node utils/history-spine.mjs",
         "lint:reference-people": "node utils/reference-people.mjs",
@@ -72,7 +73,7 @@
     "devDependencies": {
         "@changesets/cli": "^3.0.3",
         "@heroiclands/hugo-theme": "^0.9.0",
-        "@heroiclands/package-build": "^22.16.0",
+        "@heroiclands/package-build": "^22.17.0",
         "npm-run-all": "^4.1.5",
         "prettier": "^3.9.8",
         "yaml": "^2.9.0"

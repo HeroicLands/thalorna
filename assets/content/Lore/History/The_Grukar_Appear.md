@@ -10,7 +10,7 @@ data:
   event:
     kind: arrival
     depth: world
-    when: {year: -3000, precision: century}
+    when: {reckoning: VR, year: -3000, precision: century}
     sources: [lore-grukarfolk, lore-khazarturn]
     summary: >-
       The Grukar are first recorded in the Khazári archive at Khazártúrn. Nothing written there in its first twenty-one centuries mentions them; within a generation a great deal does. The Khazári study the new species and set down the conclusion that it is a vicious but manageable vermin of the deep country, permanently limited because Ahks do not cooperate and so can never combine into an army. Every word of the assessment is correct.
