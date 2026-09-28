@@ -9,7 +9,8 @@ data:
   archetypes: []
   occupation: Timberwright
   stations: []
-  lore: [haradianclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: haradianclt
   homes: [haradregin]
   affiliations: [cnfdrtnhrdnstts]
   gender: female

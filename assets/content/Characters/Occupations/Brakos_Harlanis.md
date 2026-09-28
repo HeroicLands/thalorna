@@ -9,7 +9,8 @@ data:
   archetypes: []
   occupation: Man-at-Arms
   stations: []
-  lore: [vylarianclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: vylarianclt
   homes: [vylariargn]
   affiliations: [vylarinmpr]
   gender: male

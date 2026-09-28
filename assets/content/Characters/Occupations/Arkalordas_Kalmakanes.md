@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Common Seaman
   stations: []
-  lore: [vylarianclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: vylarianclt
   homes: [vylariargn]
   affiliations: [vylarinmpr]
   gender: male

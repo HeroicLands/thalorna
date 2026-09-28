@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Town Guard
   stations: []
-  lore: [byzarianclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: byzarianclt
   homes: [byzariargn]
   affiliations: [byzarianlg]
   gender: male

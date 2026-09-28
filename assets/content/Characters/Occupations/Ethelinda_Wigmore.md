@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Gaoler
   stations: []
-  lore: [aelwythanclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: aelwythanclt
   homes: [aelwyth]
   affiliations: [kngdmldrth]
   gender: female

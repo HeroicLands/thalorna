@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Man-at-Arms (Sapper)
   stations: []
-  lore: [helioniteclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: helioniteclt
   homes: [helionis]
   affiliations: [korinthea]
   gender: female

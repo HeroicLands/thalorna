@@ -9,7 +9,8 @@ data:
   archetypes: []
   occupation: Perfumer
   stations: []
-  lore: [haradianclt, landedlordrnk]
+  lore: [landedlordrnk]
+  culture: haradianclt
   homes: [haradregin]
   affiliations: [cnfdrtnhrdnstts]
   gender: female

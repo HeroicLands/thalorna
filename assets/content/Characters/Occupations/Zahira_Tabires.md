@@ -9,7 +9,8 @@ data:
   archetypes: []
   occupation: Tentmaker
   stations: []
-  lore: [helioniteclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: helioniteclt
   homes: [helionis]
   affiliations: [thyrenae]
   gender: female

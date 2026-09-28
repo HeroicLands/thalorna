@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Physician
   stations: []
-  lore: [provenzianclt, landedlordrnk]
+  lore: [landedlordrnk]
+  culture: provenzianclt
   homes: [provenzrgn]
   affiliations: [kngdmprvnz]
   gender: female

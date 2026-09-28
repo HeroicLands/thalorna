@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Cartographer/Artist
   stations: []
-  lore: [aelwythanclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: aelwythanclt
   homes: [aelwyth]
   affiliations: [kngdmldrth]
   gender: female

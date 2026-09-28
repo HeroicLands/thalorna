@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Ostler
   stations: []
-  lore: [helioniteclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: helioniteclt
   homes: [helionis]
   affiliations: [theradon]
   gender: male

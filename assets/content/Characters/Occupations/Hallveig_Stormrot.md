@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Mage (Illusion)
   stations: []
-  lore: [nordheimnclt, landedlordrnk]
+  lore: [landedlordrnk]
+  culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kngdmnrdhm]
   gender: female

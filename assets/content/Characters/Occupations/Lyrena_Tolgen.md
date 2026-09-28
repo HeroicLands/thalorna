@@ -9,7 +9,8 @@ data:
   archetypes: []
   occupation: Skald
   stations: []
-  lore: [provenzianclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: provenzianclt
   homes: [provenzrgn]
   affiliations: [kngdmprvnz]
   gender: female

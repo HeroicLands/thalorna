@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Nobility (Courtier)
   stations: []
-  lore: [helioniteclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: helioniteclt
   homes: [helionis]
   affiliations: [theradon]
   gender: female

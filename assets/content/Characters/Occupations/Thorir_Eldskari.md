@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Man-at-Arms
   stations: []
-  lore: [aelwythanclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: aelwythanclt
   homes: [aelwyth]
   affiliations: [jrldmstrmvld]
   gender: male

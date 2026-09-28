@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Thespian
   stations: []
-  lore: [tarvenanclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: tarvenanclt
   homes: [tarvenirgn]
   affiliations: [kingdmtrvn]
   gender: male

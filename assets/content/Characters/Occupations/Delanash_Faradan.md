@@ -9,7 +9,8 @@ data:
   archetypes: []
   occupation: Man-at-Arms
   stations: []
-  lore: [dunhariclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: dunhariclt
   homes: [dunhardsrtrgn]
   affiliations: [dunhartrbs]
   gender: female

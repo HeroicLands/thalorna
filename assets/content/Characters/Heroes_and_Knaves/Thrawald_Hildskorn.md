@@ -9,7 +9,8 @@ data:
   archetypes: []
   occupation: Brigand
   stations: []
-  lore: [varokhiclt, slavernk]
+  lore: [slavernk]
+  culture: varokhiclt
   homes: [vrystwald]
   affiliations: [blckpnwlvs, vrystwldtrbs]
   gender: male

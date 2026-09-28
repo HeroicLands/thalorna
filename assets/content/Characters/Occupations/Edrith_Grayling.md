@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Hideworker
   stations: []
-  lore: [aelwythanclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: aelwythanclt
   homes: [aelwyth]
   affiliations: [kingdmdnvr]
   gender: female

@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Clothier
   stations: []
-  lore: [helioniteclt, landedlordrnk]
+  lore: [landedlordrnk]
+  culture: helioniteclt
   homes: [helionis]
   affiliations: [pelagora]
   gender: male

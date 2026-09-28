@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Priest
   stations: []
-  lore: [helioniteclt, landedlordrnk]
+  lore: [landedlordrnk]
+  culture: helioniteclt
   homes: [helionis]
   affiliations: [korinthea]
   gender: male

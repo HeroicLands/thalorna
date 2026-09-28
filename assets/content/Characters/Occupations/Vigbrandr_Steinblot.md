@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Perfumer
   stations: []
-  lore: [nordheimnclt, landedlordrnk]
+  lore: [landedlordrnk]
+  culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kngdmnrdhm]
   gender: male

@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Yeoman Infantry
   stations: []
-  lore: [helioniteclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: helioniteclt
   homes: [helionis]
   affiliations: [kalydria]
   gender: male

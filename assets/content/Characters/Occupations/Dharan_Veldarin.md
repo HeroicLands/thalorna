@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Priest
   stations: []
-  lore: [elavendriclt, landedlordrnk]
+  lore: [landedlordrnk]
+  culture: elavendriclt
   homes: [elavendre]
   affiliations: [kngdmlvndr]
   gender: male

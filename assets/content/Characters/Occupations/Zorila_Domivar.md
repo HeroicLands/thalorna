@@ -9,7 +9,8 @@ data:
   archetypes: []
   occupation: Hunter
   stations: []
-  lore: [tarvenanclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: tarvenanclt
   homes: [tarvenirgn]
   affiliations: [kingdmtrvn]
   gender: female

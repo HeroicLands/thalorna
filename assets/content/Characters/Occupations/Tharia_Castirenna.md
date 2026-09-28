@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Domestic Servant
   stations: []
-  lore: [tarvenanclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: tarvenanclt
   homes: [tarvenirgn]
   affiliations: [kingdmtrvn]
   gender: female

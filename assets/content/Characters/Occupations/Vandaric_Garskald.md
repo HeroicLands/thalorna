@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Ostler
   stations: []
-  lore: [varokhiclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: varokhiclt
   homes: [vrystwald]
   affiliations: [vrystwldtrbs]
   gender: male

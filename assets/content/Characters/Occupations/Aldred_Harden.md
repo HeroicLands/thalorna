@@ -9,7 +9,8 @@ data:
   archetypes: []
   occupation: Mercantyler
   stations: []
-  lore: [aelwythanclt, landedlordrnk]
+  lore: [landedlordrnk]
+  culture: aelwythanclt
   homes: [aelwyth]
   affiliations: [kngdmldrth]
   gender: male

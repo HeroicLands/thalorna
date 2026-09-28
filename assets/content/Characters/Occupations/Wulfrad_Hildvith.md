@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Man-at-Arms (Sapper)
   stations: []
-  lore: [varokhiclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: varokhiclt
   homes: [vrystwald]
   affiliations: [vrystwldtrbs]
   gender: male

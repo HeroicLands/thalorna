@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Gladiator
   stations: []
-  lore: [haradianclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: haradianclt
   homes: [haradregin]
   affiliations: [cnfdrtnhrdnstts]
   gender: male

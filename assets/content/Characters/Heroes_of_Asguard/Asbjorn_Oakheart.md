@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Woodsman and Guardian
   stations: []
-  lore: [nordheimnclt, commonerrnk]
+  lore: [commonerrnk]
+  culture: nordheimnclt
   homes: [vrystwald]
   affiliations: [vrystwldtrbs]
   gender: male

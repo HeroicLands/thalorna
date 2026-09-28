@@ -15,7 +15,8 @@ data:
   archetypes: []
   occupation: Litigant
   stations: []
-  lore: [haradianclt, landedlordrnk]
+  lore: [landedlordrnk]
+  culture: haradianclt
   homes: [haradregin]
   affiliations: [cnfdrtnhrdnstts]
   gender: male
