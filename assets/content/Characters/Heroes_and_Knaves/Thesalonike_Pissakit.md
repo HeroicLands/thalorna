@@ -16,11 +16,12 @@ data:
   occupation: Woodcutter
   stations: []
   lore: [commonerrnk]
+  culture: byzarianclt
   homes: [byzariargn]
   affiliations: [byzarianlg]
   gender: female
   species: humanflk
-  born: VR(686/4/24)
+  born: 686.115
   height: 1.78
   weight: 73.5
   frame: medium
@@ -426,7 +427,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[thslnkpsskt|Thêsaloníke Pissákit]]{float: top-left}
+![[thslnkpsskt|Thêsaloníke Pissákit]]{float=top-left}
 
 Thêsaloníke stands 5'10" tall with a medium build. She has golden-toned skin, auburn hair, and green eyes. Her features include a diamond-shaped face, a straight nose, a narrow chin, an expressive mouth, arched brows, prominent cheeks.
 

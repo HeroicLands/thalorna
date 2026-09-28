@@ -227,7 +227,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[voidmoth|Voidmoth]]{float: top-left}
+![[voidmoth|Voidmoth]]{float=top-left}
 
 The darkness in front of you begins to move. At first you think it must be a trick of the light—a fluctuation in shadow—but the darkness coheres, solidifies, takes form. Massive wings unfold, each the size of a sail, patterned in colors that seem to exist outside the normal spectrum—ultraviolet depths and infrared fires your eyes can barely process. Where the wings fold, the air shimmers as if space itself is being creased. The creature's presence makes the world feel thin, fragile, as though you are standing very close to something that should remain hidden.
 

@@ -1,8 +1,9 @@
 ---
 shortcode: extrnlthrts
 name: {full: External Threats, aliases: []}
-type: lore
-subType: history
+type: doc
+subType: settingguide
+tags: [gm]
 data: {packFolder: threats}
 ---
 
@@ -23,5 +24,5 @@ A loose alliance of smaller kingdoms to the west, each seeking to exploit Tānv�
 ### See Also
 
 - [[being-bathurhurtzhuk|Bāthür Hürtzhük]]—The northern warlord threat
-- [[lore-intrnlsbvrsvthrts|Internal Subversive Threats]]—Threats from within the empire
+- [[doc-intrnlsbvrsvthrts|Internal Subversive Threats]]—Threats from within the empire
 - [[affiliation-tanvurempr|Empire of Tānvür]]—The empire under threat

@@ -27,7 +27,7 @@ The approaches to Aurionis are notoriously difficult. The prevailing currents an
 
 ## Regions
 
-```sql :allow-empty
+```sql {allow-empty=true}
 SELECT address.slug AS _ref,
        name.full    AS "Region",
        description  AS "Overview"

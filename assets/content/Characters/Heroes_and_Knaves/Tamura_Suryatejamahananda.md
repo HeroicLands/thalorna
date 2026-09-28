@@ -16,11 +16,12 @@ data:
   occupation: Woodcrafter
   stations: []
   lore: [commonerrnk]
+  culture: vedyariclt
   homes: [vedyarargn]
   affiliations: [rajaprjnpd]
   gender: male
   species: humanflk
-  born: VR(666/2/26)
+  born: 666.56
   height: 1.83
   weight: 79.8
   frame: medium
@@ -424,7 +425,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[tmrsrytjmhnnd|Tamûra Sūryatejamahānanda]]{float: top-left}
+![[tmrsrytjmhnnd|Tamûra Sūryatejamahānanda]]{float=top-left}
 
 Tamûra stands 6'0" tall with a medium build. He has golden brown skin, graying black hair, and honey brown eyes. His features include a soft-featured face, a straight nose, a gentle jawline, an expressive mouth, golden brows, and full cheeks. He has a tattoo of a butterfly on his neck.
 

@@ -9,6 +9,7 @@ data:
   occupation: Chaplain
   stations: []
   lore: []
+  culture: aelwythanclt
   homes: []
   affiliations: [kingdmdnvr]
   gender: male

@@ -18,6 +18,7 @@ data:
   occupation: null
   stations: []
   lore: []
+  culture: tanvuriclt
   homes: []
   affiliations: []
   gender: null

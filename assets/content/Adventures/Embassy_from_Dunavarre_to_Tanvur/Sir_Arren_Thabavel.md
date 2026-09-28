@@ -9,6 +9,7 @@ data:
   occupation: Knight
   stations: []
   lore: []
+  culture: aelwythanclt
   homes: []
   affiliations: [kingdmdnvr]
   gender: male

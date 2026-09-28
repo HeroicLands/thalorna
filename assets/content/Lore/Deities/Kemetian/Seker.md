@@ -7,7 +7,7 @@ tags: [draft]
 data: {packFolder: deitieskemetian}
 ---
 
-![[icon-seker|Sēker]]{float: top-left, size: medium}
+![[icon-seker|Sēker]]{float=top-left size=medium}
 
 _Lord of Silent Passage—a black hawk with gold-tipped wings._
 

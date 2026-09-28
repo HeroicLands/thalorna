@@ -11,11 +11,12 @@ data:
   occupation: Alchemist
   stations: []
   lore: [commonerrnk]
+  culture: khepericlt
   homes: [takheperurgn]
   affiliations: [empirtkhpr]
   gender: female
   species: humanflk
-  born: VR(685/6/2)
+  born: 685.154
   height: 1.6
   weight: 53.1
   frame: light
@@ -422,7 +423,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[banutjaut|Bânut Jâ'Utu]]{float: top-left}
+![[banutjaut|Bânut Jâ'Utu]]{float=top-left}
 
 Bânut stands 5'3" tall with a light build. She has golden brown skin, dark hair, and hazel eyes. Her features include a high-cheekboned face, a straight narrow nose, a narrow chin, full lips, golden brows, and high cheeks. She has a scar on her left ear.
 

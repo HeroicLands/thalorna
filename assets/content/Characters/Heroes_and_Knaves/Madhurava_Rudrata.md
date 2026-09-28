@@ -16,11 +16,12 @@ data:
   occupation: Herald
   stations: []
   lore: [commonerrnk]
+  culture: vedyariclt
   homes: [vedyarargn]
   affiliations: [chandrapur]
   gender: male
   species: humanflk
-  born: VR(670/11/9)
+  born: 670.313
   height: 1.78
   weight: 76.2
   frame: medium
@@ -423,7 +424,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[madhurvrdr|Màdhurava Rudrata]]{float: top-left}
+![[madhurvrdr|Màdhurava Rudrata]]{float=top-left}
 
 Màdhurava stands 5'10" tall with a medium build. He has medium brown skin, graying dark brown hair, and honey brown eyes. His features include a diamond-shaped face, a narrow nose, a narrow chin, a wide mouth, medium brows, and soft cheeks. He has a scar on his left foot.
 

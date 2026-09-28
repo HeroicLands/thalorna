@@ -17,11 +17,12 @@ data:
   occupation: Bureaucrat
   stations: []
   lore: [commonerrnk]
+  culture: khepericlt
   homes: [takheperurgn]
   affiliations: [empirtkhpr]
   gender: female
   species: humanflk
-  born: VR(678/2/5)
+  born: 678.35
   height: 1.65
   weight: 61.2
   frame: light
@@ -427,7 +428,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[mentshpkhr|Meneti Shap'Kheru]]{float: top-left}
+![[mentshpkhr|Meneti Shap'Kheru]]{float=top-left}
 
 Meneti stands 5'5" tall with a light build. She has ebony skin, deep black hair, and brown eyes. Her features include a long face, a slightly arched nose, a narrow chin, full lips, and elegantly curved brows.
 

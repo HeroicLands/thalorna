@@ -16,11 +16,12 @@ data:
   occupation: Common Seaman
   stations: []
   lore: [commonerrnk]
+  culture: vylarianclt
   homes: [vylariargn]
   affiliations: [provncmktr]
   gender: female
   species: humanflk
-  born: VR(698/2/7)
+  born: 698.37
   height: 1.73
   weight: 66.2
   frame: light
@@ -416,7 +417,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[grmdnshrndns|Goremadânis Hérendânis]]{float: top-left}
+![[grmdnshrndns|Goremadânis Hérendânis]]{float=top-left}
 
 Goremadânis stands 5'8" tall with a medium build. She has light olive skin, light brown hair, and brown eyes. Her features include a diamond-shaped face, an aquiline nose, a sharp jawline, an expressive mouth, light brows, high cheeks.
 

@@ -16,11 +16,12 @@ data:
   occupation: Yeoman Infantry
   stations: []
   lore: [commonerrnk]
+  culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kngdmvthgrd]
   gender: male
   species: humanflk
-  born: VR(691/5/19)
+  born: 691.141
   height: 1.83
   weight: 75.3
   frame: medium
@@ -419,7 +420,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[bjlfhrfnsvld|Bjalfi Hrafnsvald]]{float: top-left}
+![[bjlfhrfnsvld|Bjalfi Hrafnsvald]]{float=top-left}
 
 Bjalfi stands 6'0" tall with a medium build. He has light fair skin, brown hair, and gray eyes. His features include a rectangular face, a slightly upturned nose, a square jawline, a firm-set mouth, thick brows, and hollow cheeks.
 

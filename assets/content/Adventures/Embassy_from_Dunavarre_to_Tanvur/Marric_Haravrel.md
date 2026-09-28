@@ -9,6 +9,7 @@ data:
   occupation: Sergeant-at-Arms
   stations: []
   lore: []
+  culture: aelwythanclt
   homes: []
   affiliations: [kingdmdnvr]
   gender: male

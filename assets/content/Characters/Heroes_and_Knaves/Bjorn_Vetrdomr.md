@@ -16,11 +16,12 @@ data:
   occupation: Innkeeper
   stations: []
   lore: [commonerrnk]
+  culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kngdmnrdhm]
   gender: male
   species: humanflk
-  born: VR(666/3/30)
+  born: 666.91
   height: 1.83
   weight: 72.1
   frame: heavy
@@ -416,7 +417,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[bjrnvtrdmr|Björn Vetrdómr]]{float: top-left}
+![[bjrnvtrdmr|Björn Vetrdómr]]{float=top-left}
 
 Björn stands 6'0" tall with a heavy build. He has tanned weathered skin, white hair, and gray eyes. His features include a rectangular face, a slightly upturned nose, a heavy jawline, a firm-set mouth, and straight brows. He has a tattoo of a snake on his chest.
 

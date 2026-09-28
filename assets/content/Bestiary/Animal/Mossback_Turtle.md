@@ -243,7 +243,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[mssbcktr|Mossback Turtle]]{float: top-left}
+![[mssbcktr|Mossback Turtle]]{float=top-left}
 
 At first, you think you are looking at an ancient, moss-covered boulder half-buried in leaf litter. The edges are too regular, too symmetrical, and when your eye focuses, you realize with a start that the entire surface is moving—slowly, deliberately, inexorably forward. The moss and lichen covering the enormous domed shell is so thick it looks like actual earth and growing things, not the protective carapace of a living creature. From beneath that stone-like dome, a weathered, wrinkled neck extends, and at its end, a small, intelligent eye opens and regards you with the patience of something that has existed for centuries and will continue to exist long after you are dust.
 

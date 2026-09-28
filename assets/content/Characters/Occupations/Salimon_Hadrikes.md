@@ -21,7 +21,7 @@ data:
   affiliations: [theradon]
   gender: male
   species: humanflk
-  born: VR(679/3/20)
+  born: 679.81
   height: 1.7
   weight: 61
   frame: medium

@@ -418,7 +418,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[rtwrth|Rootwraith]]{float: top-left}
+![[rtwrth|Rootwraith]]{float=top-left}
 
 The forest stirs around you though there is no wind—leaves rustle, branches creak and bend, and the very ground beneath your feet shifts with disturbing purpose. Then you see it rise from among the trees: a figure wrought from gnarled wood and twisted root, human in shape but horrifyingly plant-like in execution. Its eyes burn with a sickly green luminescence, and where it moves, the vegetation seems to sicken and wither despite—or perhaps because of—its passage. The air smells of rot and grave-earth, and you feel the temperature drop as if the creature carries an unnatural cold. Long, root-like appendages uncoil from its form, and you realize with terrible clarity that the forest itself is moving in concert with this thing, all of it dancing to a single malevolent will.
 

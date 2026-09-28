@@ -10,7 +10,7 @@ data:
   event:
     kind: secession
     depth: world
-    when: {year: -280, precision: century, derived: over a thousand years ago}
+    when: {reckoning: VR, year: -280, precision: century, derived: over a thousand years ago}
     sources: [affiliation-jurthatempr, affiliation-tanvurempr]
     summary: >-
       The island province of Jürthāt breaks away from the Empire of Tānvür in a bloody war of secession, led by the imperial governor from whom its emperors claim unbroken descent. No imperial expedition has ever reasserted sovereignty over the archipelago. The empire has never formally recognized the loss and calls the kingdom a renegade province in open rebellion; the practical reality is a sovereign kingdom that raids the coast.

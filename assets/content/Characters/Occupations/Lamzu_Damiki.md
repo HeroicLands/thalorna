@@ -15,7 +15,7 @@ data:
   affiliations: [cnfdrtnhrdnstts]
   gender: male
   species: humanflk
-  born: VR(690/3/15)
+  born: 690.76
   height: 1.83
   weight: 72
   frame: medium

@@ -243,7 +243,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[glmfng|Gloomfang]]{float: top-left}
+![[glmfng|Gloomfang]]{float=top-left}
 
 Eyes catch your torchlight first—dozens of them, rings of luminescent violet that hover at shoulder height in the darkness. Then you see the creatures themselves: hunched, rat-like things the size of large dogs, covered in matted fur that might once have been brown. Teeth fill their mouths in irregular rows, and they move with skittering, jerky energy that seems neither quite natural nor entirely corrupted. They surround you in a loose circle, no sound but the rustle of movement and the constant, hungry breathing. They are waiting for something.
 

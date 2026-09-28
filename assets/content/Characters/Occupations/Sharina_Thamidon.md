@@ -21,7 +21,7 @@ data:
   affiliations: [athenikos]
   gender: female
   species: humanflk
-  born: VR(696/2/9)
+  born: 696.39
   height: 1.85
   weight: 78
   frame: medium

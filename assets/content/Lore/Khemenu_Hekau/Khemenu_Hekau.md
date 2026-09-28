@@ -7,7 +7,7 @@ tags: [lore, arcane, khemenu-hekau, kemetian, takheperu]
 data: {packFolder: khemenuhekau}
 ---
 
-![[icon-khemenuhekau|Khemenu Hekau]]{float: top-left, size: medium}
+![[icon-khemenuhekau|Khemenu Hekau]]{float=top-left size=medium}
 
 ## Khemenu Hekau (The Eight Powers)
 

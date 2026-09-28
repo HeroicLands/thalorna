@@ -16,11 +16,12 @@ data:
   occupation: Shipwright
   stations: []
   lore: [commonerrnk]
+  culture: dunhariclt
   homes: [amradadrgn]
   affiliations: [sultntmrdd]
   gender: female
   species: humanflk
-  born: VR(685/6/6)
+  born: 685.158
   height: 1.8
   weight: 77.6
   frame: medium
@@ -437,7 +438,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[rshrnbrmndn|Rosharan Barmandan]]{float: top-left}
+![[rshrnbrmndn|Rosharan Barmandan]]{float=top-left}
 
 Rosharan stands 5'11" tall with a medium build. She has light olive skin, dark black hair, and dark brown eyes. Her features include a long face, a prominent nose, an angular jawline, full lips, and dark brows. She has a tattoo of a bear on her left arm.
 

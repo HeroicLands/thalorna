@@ -2,7 +2,7 @@
 shortcode: venduk
 name: {full: Vëndük, aliases: []}
 type: lore
-subType: culture
+subType: law
 data: {packFolder: castes}
 ---
 

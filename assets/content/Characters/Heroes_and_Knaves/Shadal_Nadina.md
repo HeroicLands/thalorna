@@ -10,11 +10,12 @@ data:
   occupation: Scribe
   stations: []
   lore: [commonerrnk]
+  culture: kaliharanclt
   homes: [kaliharargn]
   affiliations: [kalihara]
   gender: male
   species: humanflk
-  born: VR(686/3/15)
+  born: 686.76
   height: 1.83
   weight: 71.7
   frame: medium
@@ -420,7 +421,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[shadalnadn|Shadal Nadina]]{float: top-left}
+![[shadalnadn|Shadal Nadina]]{float=top-left}
 
 Shadal stands 6'0" tall with a medium build. He has deep brown skin, dark close-cropped black hair, and brown eyes. His features include an oval face, a narrow nose, well-defined lips, deep brows, and prominent cheeks. He has a scar on his chin.
 

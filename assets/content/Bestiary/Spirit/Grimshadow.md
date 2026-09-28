@@ -134,7 +134,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[grmshdw|Grimshadow]]{float: top-left}
+![[grmshdw|Grimshadow]]{float=top-left}
 
 The temperature drops so suddenly you can see your breath misting in the air. In your peripheral vision, something moves—but when you turn to look directly at it, only shadow remains. You feel watched and hunted, prey to something you cannot quite see. There is a cold on your skin that has nothing to do with winter.
 

@@ -21,7 +21,7 @@ data:
   affiliations: [kalydria]
   gender: male
   species: humanflk
-  born: VR(678/2/28)
+  born: 678.58
   height: 1.91
   weight: 89
   frame: heavy

@@ -2,7 +2,7 @@
 shortcode: zheklung
 name: {full: Zhëklüng, aliases: []}
 type: lore
-subType: culture
+subType: law
 data: {packFolder: castes}
 ---
 

@@ -200,7 +200,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[giantant|Giant Ant]]{float: top-left}
+![[giantant|Giant Ant]]{float=top-left}
 
 The ground trembles beneath your feet—a rhythmic vibration that grows steadily more pronounced. Then you see it: a chitinous form three feet long at the shoulders, mandibles spread impossibly wide, advancing with mechanical precision. Its segments gleam like burnished bronze, and where its compound eyes face you, you see reflected a multiplicity of movement. The air fills with a pheromonal reek—acrid, caustic, alien. Behind it, you hear the clicking and scratching of more legs on stone, and the sound of mandibles snapping together in unison.
 

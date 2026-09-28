@@ -2,7 +2,7 @@
 shortcode: thatlung
 name: {full: Thātlüng, aliases: []}
 type: lore
-subType: history
+subType: bestiary
 data: {packFolder: threats}
 ---
 

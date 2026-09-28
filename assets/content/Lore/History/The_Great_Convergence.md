@@ -11,6 +11,7 @@ data:
     kind: founding
     depth: world
     when:
+      reckoning: VR
       year: -6239
       precision: year
       derived: 6,959 years ago

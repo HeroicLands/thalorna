@@ -16,11 +16,12 @@ data:
   occupation: Chieftain
   stations: []
   lore: [commonerrnk]
+  culture: dunhariclt
   homes: [dunhardsrtrgn]
   affiliations: [dunhartrbs]
   gender: male
   species: humanflk
-  born: VR(671/4/8)
+  born: 671.99
   height: 1.96
   weight: 98.4
   frame: heavy
@@ -425,7 +426,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[shadzrkmrz|Shâdezar Kamruz]]{float: top-left}
+![[shadzrkmrz|Shâdezar Kamruz]]{float=top-left}
 
 Shâdezar stands 6'5" tall with a heavy build. He has tanned ruddy skin, dark brown hair, and brown eyes. His features include a diamond-shaped face, a hawkish nose, a narrow chin, well-defined lips, dark brows, and angular cheeks.
 

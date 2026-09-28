@@ -16,11 +16,12 @@ data:
   occupation: Hideworker
   stations: []
   lore: [commonerrnk]
+  culture: byzarianclt
   homes: [byzariargn]
   affiliations: [byzarianlg]
   gender: female
   species: humanflk
-  born: VR(692/4/5)
+  born: 692.96
   height: 1.73
   weight: 63.5
   frame: light
@@ -422,7 +423,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[phlnmrksns|Philína Markêsianos]]{float: top-left}
+![[phlnmrksns|Philína Markêsianos]]{float=top-left}
 
 Philína stands 5'8" tall with a light build. She has golden-toned skin, dark brown hair, and green eyes. Her features include an oval face, a strong nose, a pointed chin, slightly pursed lips, and dark brows.
 

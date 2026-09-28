@@ -1,17 +1,17 @@
 ---
 shortcode: divineactn
 name: {full: The Truth of Divine Action, aliases: [Divine Action (GM), The Balance]}
-type: lore
-subType: theology
-tags: [lore, religion, theology, gm-only, secret, metaphysics]
+type: doc
+subType: settingguide
+tags: [religion, theology, metaphysics, gm]
 data: {packFolder: settinglore}
 ---
 
-> **GM-only document.** This file describes how the gods of Thalorna engage with the material world—through what mechanisms, under what constraints, with what limitations—given the non-intervention principle established in [[lore-godsrelign|Gods and Religion]]. Where that document focuses on what religions are and how they function, this document focuses on the divine layer itself: the politics, agents, and structural constraints that shape what the gods can and cannot do. The document assumes familiarity with [[lore-magictruth|Magic Truth]] and [[lore-godsrelign|Gods and Religion]]; the cosmology established there is presupposed throughout.
+> **GM-only document.** This file describes how the gods of Thalorna engage with the material world—through what mechanisms, under what constraints, with what limitations—given the non-intervention principle established in [[doc-godsrelign|Gods and Religion]]. Where that document focuses on what religions are and how they function, this document focuses on the divine layer itself: the politics, agents, and structural constraints that shape what the gods can and cannot do. The document assumes familiarity with [[doc-magictruth|Magic Truth]] and [[doc-godsrelign|Gods and Religion]]; the cosmology established there is presupposed throughout.
 
 ## The Problem This Document Solves
 
-The non-intervention principle, as stated in [[lore-godsrelign#the-non-intervention-of-the-gods|Gods and Religion]], holds that the gods of Thalorna do not directly intervene in the affairs of mortals. Their actions on the material plane take only two forms: naturalistic interventions that look like coincidence, and mediated interventions through human agents (typically priests) that look like spellcasting. The principle is presented as universal—applying to _all_ gods regardless of their disposition.
+The non-intervention principle, as stated in [[doc-godsrelign#the-non-intervention-of-the-gods|Gods and Religion]], holds that the gods of Thalorna do not directly intervene in the affairs of mortals. Their actions on the material plane take only two forms: naturalistic interventions that look like coincidence, and mediated interventions through human agents (typically priests) that look like spellcasting. The principle is presented as universal—applying to _all_ gods regardless of their disposition.
 
 This raises a problem that the previous document acknowledged but did not fully resolve: gods differ widely in disposition. Some want worship; some are aloof; some are indifferent; some are actively hostile to particular religions or practices. Given this diversity, why does the principle hold so absolutely? One might naively expect a worship-desiring god to push harder against the limit, or a hostile god to manifest its displeasure more directly than a tolerant one. The historical record shows no such variation: even the most extreme religious claims describe events that remain naturalistically deniable.
 
@@ -37,7 +37,7 @@ Several features of this enforcement are worth being explicit about, because the
 
 **Why the gods enforce it.** The motivations are not uniform. Some gods may enforce because they remember (or have been taught) the consequences of failing to. Some may enforce because they prefer the world that the Balance produces—a world where mortal action matters, where civilizations rise and fall under their own efforts, where the divine is felt but never demonstrated. Some may enforce because they fear what would happen to them if they were the ones being policed and the system did not hold. The mixture of motivations is itself a source of stability: even if a particular god disagreed with the Compact in principle, breaking it would invite responses they would not enjoy.
 
-The Compact-as-enforcement framing absorbs and combines several of the theoretical hypotheses listed in [[lore-godsrelign#the-non-intervention-of-the-gods|Gods and Religion]]. It is consistent with **The Compact** (the gods agreed to restrain themselves), with **Mutual constraint** (any god's intervention is matched by others'), and with parts of **Metaphysical limit** (the gods' power, however vast, must operate through agents because the system has shaped itself this way). It explains why the principle holds universally—not because the gods all happen to agree but because they actively prevent each other from breaking ranks. And it sets up the agent typology that the rest of this document develops.
+The Compact-as-enforcement framing absorbs and combines several of the theoretical hypotheses listed in [[doc-godsrelign#the-non-intervention-of-the-gods|Gods and Religion]]. It is consistent with **The Compact** (the gods agreed to restrain themselves), with **Mutual constraint** (any god's intervention is matched by others'), and with parts of **Metaphysical limit** (the gods' power, however vast, must operate through agents because the system has shaped itself this way). It explains why the principle holds universally—not because the gods all happen to agree but because they actively prevent each other from breaking ranks. And it sets up the agent typology that the rest of this document develops.
 
 ## Agents of the Gods {#agents-of-the-gods}
 
@@ -47,7 +47,7 @@ Agents come in three broad layers, ranging from beings of nearly-divine power to
 
 ### Spirit-Agents
 
-The first and most powerful layer of agents are _spirit-agents_—beings native to the Spirit world (developed in [[lore-soulspirts|Souls and Spirits]], forthcoming) who have been bound to or aligned with specific gods. They are not gods themselves; they are beings of intermediate scale, more powerful than mortals but less than the gods they serve.
+The first and most powerful layer of agents are _spirit-agents_—beings native to the Spirit world (developed in [[doc-soulspirts|Souls and Spirits]], forthcoming) who have been bound to or aligned with specific gods. They are not gods themselves; they are beings of intermediate scale, more powerful than mortals but less than the gods they serve.
 
 Different traditions know them by different names. The Aurèldíans speak of _angels_ (servants of the Beings of Light, in their tradition's adaptation of older Helionite concepts) and _devils_ (servants of beings the Aurèldíans consider hostile, often equated with the Sinalë's Beings of Dark). The Itzani know _mensajeros_ (messengers) and _acechadores_ (the lurking ones). Other cultures have their own taxonomies, their own names, their own assumed hierarchies of these beings. The cosmology does not validate any particular framework: what one tradition calls an angel another might call a demon, and a third might call a sacred beast or a guardian-spirit. The labels are cultural; the underlying beings are real.
 
@@ -87,11 +87,11 @@ The category includes:
 
 **Heroes.** Mortals who undertake great deeds at the prompting or with the support of a deity. The classical hero pattern: a mortal who acts in the world more decisively than any spirit-agent could, _because_ they are mortal. Heroes' actions cannot be dismissed as merely divine puppetry; they are the genuine choices and efforts of human beings (or other mortal beings), even when those choices and efforts have been shaped by divine encouragement.
 
-**Prophets.** Mortals who carry a god's messages to other mortals, with greater clarity and authority than ordinary priests. Prophets are typically marked by direct contact with the deity's agents (or, in rare cases, with the deity's attention) and by the burden of the messages they carry. Their lives are often hard. The distinction between a true prophet and a false one (or a true prophet and a mystic experiencing internal altered states; see [[lore-godsrelign#saints-prophets-and-mystics|Gods and Religion]]) is rarely clear from outside.
+**Prophets.** Mortals who carry a god's messages to other mortals, with greater clarity and authority than ordinary priests. Prophets are typically marked by direct contact with the deity's agents (or, in rare cases, with the deity's attention) and by the burden of the messages they carry. Their lives are often hard. The distinction between a true prophet and a false one (or a true prophet and a mystic experiencing internal altered states; see [[doc-godsrelign#saints-prophets-and-mystics|Gods and Religion]]) is rarely clear from outside.
 
 **Champions.** Designated bearers of a god's favor, often in conflict or struggle. The chosen warrior, the appointed priest-king, the temple-trained avenger. Champions know they are champions; their religion frames them this way; the deity (if real) has acknowledged them through agents or visions or some other mediated form of contact. They go forth with full institutional support.
 
-**Saints.** As described in [[lore-godsrelign#saints-prophets-and-mystics|Gods and Religion]], saints are figures of unusual concentration of divine attention or thaumaturgic capacity. The previous document developed several possible underlying mechanisms; in the agent-typology of this document, the _real_ saints (the ones whose religious reputations are not fully explicable by ordinary thaumaturgic priestly capacity) are typically mortal agents in the sense developed here. They have been chosen, marked, attended-to in ways that make them more than ordinary priests of their religion. The religion calls them saints; the cosmology calls them mortal agents.
+**Saints.** As described in [[doc-godsrelign#saints-prophets-and-mystics|Gods and Religion]], saints are figures of unusual concentration of divine attention or thaumaturgic capacity. The previous document developed several possible underlying mechanisms; in the agent-typology of this document, the _real_ saints (the ones whose religious reputations are not fully explicable by ordinary thaumaturgic priestly capacity) are typically mortal agents in the sense developed here. They have been chosen, marked, attended-to in ways that make them more than ordinary priests of their religion. The religion calls them saints; the cosmology calls them mortal agents.
 
 Mortal agents are the most numerous and the most narratively load-bearing category of divine action. They are the primary vehicle through which gods affect mortal history, _because_ they can act decisively without provoking immediate counter-deployment of full divine power. A god who works through mortal heroes is operating well within the spirit of the Compact: the heroes' actions are the heroes' own, even when divinely encouraged, and the gods themselves remain unmanifest.
 
@@ -165,7 +165,7 @@ A **Quiet Age** is the cosmology's resting state. Agent-level activity drops to 
 
 Quiet Ages last longer than Heroic Ages, in general. They are the equilibrium; Heroic Ages are perturbations of it. A given Quiet Age may last centuries or millennia; a Heroic Age may last decades to a few centuries.
 
-**The current age of Thalorna is a Quiet Age**, deep enough that most mortals have no direct experience of agent-level divine action and the very concept feels mythological. The most recent Heroic Age in Thalorna's recorded history is—the GM should decide. It may be the founding period of one of the major civilizations, or the period of the Vylarian-Helionite wars (which involved dragons; see [[lore-soulspirts|Souls and Spirits]] forthcoming), or some earlier age of which only fragmentary records remain. The GM's decision about which periods of past history were Heroic and which were Quiet shapes the texture of the world's deep past considerably.
+**The current age of Thalorna is a Quiet Age**, deep enough that most mortals have no direct experience of agent-level divine action and the very concept feels mythological. The most recent Heroic Age in Thalorna's recorded history is—the GM should decide. It may be the founding period of one of the major civilizations, or the period of the Vylarian-Helionite wars (which involved dragons; see [[doc-soulspirts|Souls and Spirits]] forthcoming), or some earlier age of which only fragmentary records remain. The GM's decision about which periods of past history were Heroic and which were Quiet shapes the texture of the world's deep past considerably.
 
 **Campaigns can be set in either type of age**, and the texture of play differs accordingly.
 
@@ -193,11 +193,11 @@ The cosmology established in this document has several practical implications.
 
 **The Balance is itself a story tool.** When the players' characters' actions threaten to destabilize the Balance—when their successes or failures reach a scale that draws cosmic attention—they have entered the transitional space between Quiet and Heroic Ages. What happens next depends on how the gods respond to the destabilization. The campaign's cosmic stakes can be exactly the question of how the destabilization will resolve.
 
-**Dragons are a special case.** The historical destabilization that the Republic exploited in its war against the Helionite mages—the dragons' presence breaking framework-magic—was itself an instance of agent-level activity at the highest scale. Dragons are developed in [[lore-soulspirts|Souls and Spirits]], but they should be understood as falling somewhere in the spirit-agent / demi-divine entity range, with capacities that put them among the most powerful non-divine beings in the cosmology. Their relationship to gods, their place in the Balance, and their role in any future Heroic Age that might arise are all questions the GM should consider carefully when developing campaign material.
+**Dragons are a special case.** The historical destabilization that the Republic exploited in its war against the Helionite mages—the dragons' presence breaking framework-magic—was itself an instance of agent-level activity at the highest scale. Dragons are developed in [[doc-soulspirts|Souls and Spirits]], but they should be understood as falling somewhere in the spirit-agent / demi-divine entity range, with capacities that put them among the most powerful non-divine beings in the cosmology. Their relationship to gods, their place in the Balance, and their role in any future Heroic Age that might arise are all questions the GM should consider carefully when developing campaign material.
 
 ## See Also
 
-- [[lore-magictruth|Magic Truth]]—The underlying metaphysics of magic, Aura, frameworks, and thin places
-- [[lore-godsrelign|Gods and Religion]]—What religions are, how they function, and the four mechanisms of "divine" effect
-- [[lore-soulspirts|Souls and Spirits]]—_(GM-only, forthcoming)_ The ontology of souls, the Spirit world, the place of spirit-agents and demi-divine entities within the soul-cosmology, elementals, and dragons
+- [[doc-magictruth|Magic Truth]]—The underlying metaphysics of magic, Aura, frameworks, and thin places
+- [[doc-godsrelign|Gods and Religion]]—What religions are, how they function, and the four mechanisms of "divine" effect
+- [[doc-soulspirts|Souls and Spirits]]—_(GM-only, forthcoming)_ The ontology of souls, the Spirit world, the place of spirit-agents and demi-divine entities within the soul-cosmology, elementals, and dragons
 - Foreign_Traditions_Comparative—_(GM-only, forthcoming)_ How each non-Ordo tradition channels the potential, including priestly traditions

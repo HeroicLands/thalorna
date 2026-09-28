@@ -11,6 +11,7 @@ data:
   occupation: null
   stations: []
   lore: []
+  culture: provenzianclt
   homes: []
   affiliations: []
   gender: male

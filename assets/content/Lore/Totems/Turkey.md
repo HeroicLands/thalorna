@@ -8,7 +8,7 @@ tags: [totem, archetype]
 data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
-![[icon-turkeytotem|Turkey]]{float: top-left, size: medium}
+![[icon-turkeytotem|Turkey]]{float=top-left size=medium}
 
 Proud and cautious, turkeys are ground-dwelling birds that display elaborate courtship rituals while remaining vigilant against predators.
 

@@ -164,7 +164,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[phsphrsc|Phosphorescent Globule]]{float: top-left}
+![[phsphrsc|Phosphorescent Globule]]{float=top-left}
 
 In the deepest darkness, a luminous green glow blooms like a sickly flower. The light pulses and intensifies hypnotically, drawing your eye and making it impossible to look away—beautiful, almost, in its promise of warmth and guidance in the lightless place. Then, as the glow brightens, you realize the light is not coming from ahead but from all around you, and the source is a rolling, gelatinous mass that moves like slow water given form. Its surface writhes and undulates with nauseating grace, and where the acidic slime touches the stone, it hisses and smokes. You can taste the faint burn in the air—caustic, alien, wrong.
 

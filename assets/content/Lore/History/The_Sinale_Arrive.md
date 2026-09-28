@@ -10,7 +10,7 @@ data:
   event:
     kind: arrival
     depth: world
-    when: {year: -7500, precision: century}
+    when: {reckoning: VR, year: -7500, precision: century}
     sources: [lore-flksinale, lore-theithari, place-ankrscntnnt]
     summary: >-
       The Sinalë reach Thalorna from a prior realm they do not disclose, the first of the Elder Races and the first of the speaking peoples to walk the world. Humanity is everywhere in the hunter-gatherer stage, without cities, letters or settled tongues. The Sinalë observe the human bands and leave them to their own becoming.

@@ -10,7 +10,7 @@ data:
   event:
     kind: raising
     depth: world
-    when: {year: -3100, precision: century}
+    when: {reckoning: VR, year: -3100, precision: century}
     sources: [place-ironfells, lore-flkkhazar, lore-grukaraelwyth]
     summary: >-
       In the late centuries of Khazártúrn the Khazári carry a hold further west than they ever carry another, across open sea, and cut Vorgald in the eastern Ironfells of Aelwyth. Because a hold cannot import what it eats, the founding begins with the making of farmers beneath it. Those communities become the Vardain, and Aelwyth becomes the one country where both Elder Races are living on the same ground.

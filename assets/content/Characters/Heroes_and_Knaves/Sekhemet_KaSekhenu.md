@@ -17,11 +17,12 @@ data:
   occupation: Pilot
   stations: []
   lore: [commonerrnk]
+  culture: khepericlt
   homes: [takheperurgn]
   affiliations: [empirtkhpr]
   gender: female
   species: humanflk
-  born: VR(688/6/9)
+  born: 688.161
   height: 1.75
   weight: 65.3
   frame: light
@@ -442,7 +443,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[skhmtkskhn|Sekhemet Ka'Sekhenu]]{float: top-left}
+![[skhmtkskhn|Sekhemet Ka'Sekhenu]]{float=top-left}
 
 Sekhemet stands 5'9" tall with a light build. She has dark brown skin, very dark brown hair, and dark amber eyes. Her features include a diamond-shaped face, a slightly arched nose, a smooth jawline, generous lips, dark brows. A distinguishing mark is a scar running down the right leg.
 

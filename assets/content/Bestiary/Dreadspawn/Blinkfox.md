@@ -243,7 +243,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[blinkfox|Blinkfox]]{float: top-left}
+![[blinkfox|Blinkfox]]{float=top-left}
 
 Movement catches your eye—a flicker, a blur of color that shouldn't be there. One moment it's to your left, the next directly ahead. Its fur ripples through a spectrum of hues, never quite settling on any single color, as if it hasn't fully decided what it should look like. You catch the glint of an eye—sharp, calculating, intelligent—and then it's gone, the space where it stood empty save for a faint shimmer that hangs in the air like heat haze.
 

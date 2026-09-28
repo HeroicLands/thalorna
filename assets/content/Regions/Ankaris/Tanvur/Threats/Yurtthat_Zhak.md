@@ -90,7 +90,7 @@ The house was once formidable in the [[lore-veizhatret|Vëi Zhāt Rëit]] (polit
 
 ## The New Leader's Gamble
 
-A new ambitious leader, **Vëngzhük Lüngjëk** (Vëngzhük Lüngjëk, "Wind-Summoning Dragon Spear"), has vowed to restore the house by any means necessary. However, his approach is unorthodox—impatient with traditional methods, he has forged a secret alliance with the [[lore-intrnlsbvrsvthrts|Black Lotus Society]] (Hëk Lōt Zhāk).
+A new ambitious leader, **Vëngzhük Lüngjëk** (Vëngzhük Lüngjëk, "Wind-Summoning Dragon Spear"), has vowed to restore the house by any means necessary. However, his approach is unorthodox—impatient with traditional methods, he has forged a secret alliance with the [[affiliation-heklotzhak|Black Lotus Society]] (Hëk Lōt Zhāk).
 
 ## Internal Division
 
@@ -107,7 +107,6 @@ Should the gamble fail:
 
 ## See Also
 
-- [[lore-intrnlsbvrsvthrts|Internal Subversive Threats]]—The Black Lotus Society and other destabilizing forces
 - [[lore-veizhatret|Vëi Zhāt Rëit]]—The political game that brought the house low
 - [[being-teitjekvngyrt|Tëitjëk Vëngyürt]]—Another internal threat to the empire
 - [[affiliation-tanvurempr|Empire of Tānvür]]—The empire whose court they navigate

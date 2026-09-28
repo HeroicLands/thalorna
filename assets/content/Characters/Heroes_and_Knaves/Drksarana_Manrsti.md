@@ -16,11 +16,12 @@ data:
   occupation: Domestic Servant
   stations: []
   lore: [commonerrnk]
+  culture: vedyariclt
   homes: [vedyarargn]
   affiliations: [chandrapur]
   gender: male
   species: humanflk
-  born: VR(691/9/18)
+  born: 691.261
   height: 1.7
   weight: 64.4
   frame: light
@@ -422,7 +423,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[drkaranamn|Drkshàrana Manrshti]]{float: top-left}
+![[drkaranamn|Drkshàrana Manrshti]]{float=top-left}
 
 Drkshàrana stands 5'7" tall with a light build. He has warm honey skin, dark brown hair, and deep brown eyes. His features include a round face, a narrow nose, a soft jawline, a wide mouth, dark brows, soft cheeks. A distinguishing mark is a tattoo of a waterfall on the shoulder.
 

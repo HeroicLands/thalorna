@@ -266,7 +266,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[roc|Roc]]{float: top-left}
+![[roc|Roc]]{float=top-left}
 
 The shadow falls first—a darkness that swallows the sun, impossibly vast, and you realize too late what it means. The sound arrives moments after, a shriek that seems to split the sky itself, a cry of hunger and territorial claim that makes your bones vibrate. Then you see it: a creature so enormous the eye struggles to contain it, wings spanning hundreds of feet, their undersides catching light in patterns of bronze and gold that seem to shift with each stroke. The talons are visible even at this distance—curved, dark, each one the size of a man's leg. The beak, hooked and cruel, opens as the creature circles, and you understand with perfect clarity that you are being assessed as a meal.
 

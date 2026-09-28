@@ -16,11 +16,12 @@ data:
   occupation: Perfumer
   stations: []
   lore: [commonerrnk]
+  culture: khazrynclt
   homes: [khzryndsrtrgn]
   affiliations: [khzrncnfdrtn]
   gender: female
   species: humanflk
-  born: VR(692/10/21)
+  born: 692.295
   height: 1.78
   weight: 68.9
   frame: medium
@@ -421,7 +422,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[kharnhkhfr|Khârânah Khafûr]]{float: top-left}
+![[kharnhkhfr|Khârânah Khafûr]]{float=top-left}
 
 Khârânah stands 5'10" tall with a medium build. She has light olive skin, dark black hair, and green eyes. Her features include a narrow face, a strong nose, a strong jawline, full lips, strong brows, and high cheeks.
 

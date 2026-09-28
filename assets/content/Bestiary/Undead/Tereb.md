@@ -374,7 +374,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[tereb|Tereb]]{float: top-left}
+![[tereb|Tereb]]{float=top-left}
 
 As night falls, the temperature drops and the darkness becomes attentive. A figure emerges from shadow—beautiful and terrible, perfect in form and proportion like a god’s statue brought to life, yet wrong. It is a human shape, but humanity has been refined away, leaving only an ideal that no living person could match. Its skin is pale but luminous, and its eyes burn with dark light. Where it stands, shadows deepen and cold settles. Looking upon it for too long fills you with an aching despair, as though witnessing something you were never meant to see.
 
@@ -506,12 +506,5 @@ Several practical consequences follow from the cosmology established here.
 
 - [[being-damut|Damut]]—The driven one: the mindless undead
 
-- [[lore-soulspirts|Souls and Spirits]]—The underlying cosmology of souls, the spirit realm, death and transit, and related material
-
-- [[lore-magictruth|Magic Truth]]—The metaphysics of magic, Aura, frameworks, and thin places
-
-- [[lore-godsrelign|Gods and Religion]]—Priestly thaumaturgy, including the framework-magic effective against the undead
-
-- [[lore-divineactn|Divine Action]]—Divine agents, including those that may be involved in tereb creation in some traditions
 -
 -

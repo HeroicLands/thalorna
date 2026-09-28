@@ -16,11 +16,12 @@ data:
   occupation: Miner
   stations: []
   lore: [commonerrnk]
+  culture: vedyariclt
   homes: [vedyarargn]
   affiliations: [dhnrktjnpd]
   gender: male
   species: humanflk
-  born: VR(684/4/15)
+  born: 684.106
   height: 1.91
   weight: 90.3
   frame: heavy
@@ -422,7 +423,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[vshnshvdysgrml|Vishnusha Vidyāsāgaramandala]]{float: top-left}
+![[vshnshvdysgrml|Vishnusha Vidyāsāgaramandala]]{float=top-left}
 
 Vishnusha stands 6'3" tall with a heavy build. He has warm honey skin, black hair, and brown eyes. His features include a full face, a slightly arched nose, a soft jawline, generous lips, and expressive brows.
 

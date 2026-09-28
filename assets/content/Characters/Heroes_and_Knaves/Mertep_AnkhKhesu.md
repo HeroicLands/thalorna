@@ -17,11 +17,12 @@ data:
   occupation: Domestic Servant
   stations: []
   lore: [commonerrnk]
+  culture: khepericlt
   homes: [takheperurgn]
   affiliations: [empirtkhpr]
   gender: female
   species: humanflk
-  born: VR(674/4/9)
+  born: 674.100
   height: 1.83
   weight: 71.7
   frame: medium
@@ -428,7 +429,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[mrtpnkhkhs|Mertep Ankh'Khesu]]{float: top-left}
+![[mrtpnkhkhs|Mertep Ankh'Khesu]]{float=top-left}
 
 Mertep stands 6'0" tall with a medium build. She has dark weathered skin, gray hair, and brown eyes. Her features include a high-cheekboned face, a straight narrow nose, a gentle jawline, an expressive mouth, high-set brows. A distinguishing mark is a tattoo of a bird in flight on the left shoulder.
 

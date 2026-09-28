@@ -272,7 +272,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[abyssdrk|Abyssdrake]]{float: top-left}
+![[abyssdrk|Abyssdrake]]{float=top-left}
 
 The temperature drops as a sinuous shape moves through the water—a body serpentine and scaled in deepest obsidian, barely visible even in daylight. When it turns, its eyes burn with cold, actinic blue light, and along its spine, jagged fins trail a luminescence of sickly green and purple. The stench reaches you first—brine mixed with something sulfurous, decaying, wrong. Its scales catch the light in ways that hurt to watch.
 

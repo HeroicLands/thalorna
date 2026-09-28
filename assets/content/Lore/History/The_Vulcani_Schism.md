@@ -10,7 +10,7 @@ data:
   event:
     kind: schism
     depth: world
-    when: {year: 220, precision: century, derived: five hundred years ago}
+    when: {reckoning: VR, year: 220, precision: century, derived: five hundred years ago}
     sources: [lore-vulcanischism, affiliation-blackflame]
     summary: >-
       A faction within the Vúlcani clergy declares that the god's duality is an evasion: that Vúlcan's true nature is destruction, purification through fire and the dominance of the strong, and that the forge is merely destruction put to temporary use. The claim cannot be accommodated, because it is a claim about which half of the god is real. Two bitterly opposed faiths result, each holding the other heretical.

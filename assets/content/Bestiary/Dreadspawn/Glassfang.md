@@ -243,7 +243,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[glssfng|Glassfang]]{float: top-left}
+![[glssfng|Glassfang]]{float=top-left}
 
 Nothing is there, and then something is—a shimmer of light bending wrong, a shadow that isn’t quite transparent enough. You see it only when it moves, and when it does, your breath catches: the thing is made of glass, or ice, or something harder than either. Curved fangs catch light even though they shouldn’t be visible. It’s the size of a hunting cat, sleek and lethal, and it moves faster than thought toward your throat, its intent plain in eyes like crystal slivers.
 

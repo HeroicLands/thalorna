@@ -21,7 +21,7 @@ data:
   affiliations: [kalydria]
   gender: female
   species: humanflk
-  born: VR(686/3/3)
+  born: 686.64
   height: 1.75
   weight: 70
   frame: medium

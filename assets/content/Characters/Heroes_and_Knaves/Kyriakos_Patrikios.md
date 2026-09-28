@@ -16,11 +16,12 @@ data:
   occupation: Swordmaster
   stations: []
   lore: [commonerrnk]
+  culture: byzarianclt
   homes: [byzariargn]
   affiliations: [byzarianlg]
   gender: male
   species: humanflk
-  born: VR(670/2/4)
+  born: 670.34
   height: 1.83
   weight: 83.9
   frame: heavy
@@ -422,7 +423,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[kyrksptrks|Kyriákos Patrikîos]]{float: top-left}
+![[kyrksptrks|Kyriákos Patrikîos]]{float=top-left}
 
 Kyriákos stands 6'0" tall with a heavy build. He has tanned weathered skin, gray hair, and brown eyes. His features include a diamond-shaped face, a hawkish nose, a strong jawline, and expressive brows. He has a scar running down his back.
 

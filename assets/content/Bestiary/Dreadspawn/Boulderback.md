@@ -433,7 +433,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[bldrbck|Boulderback]]{float: top-left}
+![[bldrbck|Boulderback]]{float=top-left}
 
 The earth shakes. At first you think it's an avalanche descending the mountainside, but then you see it: a mass of boulders, each the size of a man's torso, fitted together in the mockery of a body. It stands fifteen feet tall, its movements grinding and ponderous. Where it places its massive feet, stone cracks. Its head is a single, misshapen boulder with two openings like eye sockets—and from within those voids, something watches you with absolute patience.
 

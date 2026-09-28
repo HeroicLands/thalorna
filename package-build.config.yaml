@@ -15,7 +15,7 @@ relationships:
               verified: "0.8.7"
           # Its Item packs are this repository's item catalogue: a Thalorna
           # being nests items addressed by shortcode, and almost all of those
-          # belong to sohl. `content-build deps fetch` caches them, keyed by
+          # belong to sohl. `package-build deps fetch` caches them, keyed by
           # the `verified` version above so a build names one artifact.
           itemCatalog: true
 
@@ -30,9 +30,6 @@ packs:
     - { name: actors, label: Actors, type: Actor }
 
 publish:
-    # This repository's content is original work with no publishing
-    # restriction, so it publishes in full.
-    site: content
     # This package's content is its site, so it mounts at the package root and
     # the prefix is empty.
     address:
@@ -107,6 +104,12 @@ packageBuild:
         - { from: assets/icons, to: assets/icons }
         - { from: assets/images, to: assets/images }
         - { from: assets/LICENSE, to: assets/LICENSE }
+        # Emitted by `build:calendars` from the `subType: calendar` notes, so
+        # the definitions a world loads and the notes a reader reads cannot
+        # disagree. `<shortcode>.json` is Foundry's own calendar shape;
+        # `<shortcode>.calendaria.json` is the same definition inside the
+        # envelope Calendaria's settings importer reads.
+        - { from: build/calendars, to: calendars }
 
     # Matches the SoHL system: every icon's default-black fill is rewritten to
     # follow the Foundry theme, so a module icon and a system icon sitting in

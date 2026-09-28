@@ -236,7 +236,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[giantbee|Giant Bee]]{float: top-left}
+![[giantbee|Giant Bee]]{float=top-left}
 
 The sound fills the air before you fully see it—a deep, penetrating hum that seems to come from everywhere at once. Then it crests the ridge: a creature the size of a wolf, all furred body and translucent wings that beat so rapidly they become invisible. The yellow and black stripes that cover it are vivid, almost too bright, and when it banks in the air above you, the afternoon light catches and reflects off something terrible: a stinger as long as a dagger, dripping with clear venom that smokes where it falls. The buzzing grows louder, more insistent, and you realize with creeping dread that this is not one creature—there are more, emerging from behind the ridge, converging on your position. The smell hits next: a cloying sweetness mixed with something chemical and wrong, filling your sinuses and burning your throat.
 

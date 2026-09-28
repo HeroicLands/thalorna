@@ -15,7 +15,7 @@ data:
   affiliations: [pelagora]
   gender: female
   species: humanflk
-  born: VR(695/4/11)
+  born: 695.102
   height: 1.8
   weight: 68
   frame: medium

@@ -16,11 +16,12 @@ data:
   occupation: Bodyguard
   stations: []
   lore: [commonerrnk]
+  culture: elavendriclt
   homes: [provenzrgn]
   affiliations: [kngdmprvnz]
   gender: female
   species: humanflk
-  born: VR(691/1/15)
+  born: 691.15
   height: 1.91
   weight: 86.2
   frame: medium
@@ -417,7 +418,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[idriskrsvr|Ídrisè Kórisvar]]{float: top-left}
+![[idriskrsvr|Ídrisè Kórisvar]]{float=top-left}
 
 Ídrisè stands 6'3" tall with a medium build. She has warm olive skin, brown hair, and green eyes. Her features include an angular face, a strong nose, a pointed chin, full lips, arched brows, and angular cheeks.
 

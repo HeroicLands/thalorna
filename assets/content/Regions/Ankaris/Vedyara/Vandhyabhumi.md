@@ -51,7 +51,7 @@ Janapadas sit where the tanks are largest, in the north and east where the soil 
 
 ## Settlements
 
-```sql :allow-empty
+```sql {allow-empty=true}
 SELECT s.address.slug AS _ref,
        s.name.full AS "Name",
        s.data.market || ' ' || m.name AS "Market",

@@ -11,11 +11,12 @@ data:
   occupation: Physician
   stations: []
   lore: [gentryrnk]
+  culture: vylarianclt
   homes: [vylariargn]
   affiliations: [thetamzir, vylarinmpr]
   gender: male
   species: humanflk
-  born: VR(693/10/8)
+  born: 693.282
   height: 1.78
   weight: 72.6
   frame: medium
@@ -400,7 +401,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[lucernsrnt|Lucerian Serentia]]{float: top-left}
+![[lucernsrnt|Lucerian Serentia]]{float=top-left}
 
 Lucerian Serentia is a handsome young man whose appearance screams wealth and education in an environment that has neither. His brown hair is neatly trimmed, his green eyes are sharp and analytical behind an expression of perpetual, slightly anxious alertness, and his clothing—though travel-worn—is of noticeably finer quality than anything else aboard the Tamzîr. He maintains his grooming with fastidious care, a habit his crewmates find equal parts admirable and irritating. He carries a large leather medical bag of exquisite craftsmanship, containing surgical instruments of the finest quality and an extensive supply of drugs and herbs. He also carries an eating fork, which the crew considers the height of pretension.
 

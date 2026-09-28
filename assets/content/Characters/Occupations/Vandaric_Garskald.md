@@ -21,7 +21,7 @@ data:
   affiliations: [vrystwldtrbs]
   gender: male
   species: humanflk
-  born: VR(699/4/4)
+  born: 699.95
   height: 1.85
   weight: 78
   frame: medium

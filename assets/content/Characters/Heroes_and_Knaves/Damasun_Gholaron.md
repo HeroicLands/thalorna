@@ -11,11 +11,12 @@ data:
   occupation: Priest
   stations: []
   lore: [commonerrnk]
+  culture: helioniteclt
   homes: [helionis]
   affiliations: [thetamzir, ctysttshlns]
   gender: male
   species: humanflk
-  born: VR(659/4/27)
+  born: 659.118
   height: 1.83
   weight: 77.1
   frame: medium
@@ -404,7 +405,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[damsnghlrn|Dámàsûn Ghôlâron]]{float: top-left}
+![[damsnghlrn|Dámàsûn Ghôlâron]]{float=top-left}
 
 Dámàsûn Ghôlâron—known to most simply as Parma—is a tall, dark-skinned man of sixty years who carries his age with a quiet dignity that commands respect without demanding it. His black hair has gone largely gray, kept close-cropped against his skull, and his hazel eyes hold a depth of experience that is both comforting and faintly unsettling. He is lean but not frail, and he moves with a measured deliberateness that suggests far more physical capability than his humble cleric's garments would imply. He dresses in a simple light blue tunic, leather shoes, and carries a worn leather shoulder bag that appears to contain little more than books, herbs, and writing materials.
 

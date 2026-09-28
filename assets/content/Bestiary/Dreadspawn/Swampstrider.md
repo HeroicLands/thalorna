@@ -266,7 +266,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[swmpstrd|Swampstrider]]{float: top-left}
+![[swmpstrd|Swampstrider]]{float=top-left}
 
 A bulge in the water ahead moves with terrible purpose—not a ripple but an intentional disturbance. Then the creature simply appears, rising from the murk as though materializing from shadow: an amphibian the size of a horse, its hide mottled green and brown, glistening with moisture and something slick that reflects light wrongly. Its enormous eyes bulge from a flattened head, and as it regards you, you see intelligence there—calculating, patient, hungry. Long, muscular legs coil beneath its body, and as you watch, you see them tense with terrifying potential. Then, faster than your mind can process, the creature's mouth opens to reveal a tongue of impossible length and elasticity, writhing with the promise of adhesive horror. The air around it smells of stagnant water and something acrid—venom, perhaps, or something worse.
 

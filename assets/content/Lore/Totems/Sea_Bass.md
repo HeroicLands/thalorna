@@ -8,7 +8,7 @@ tags: [totem, archetype]
 data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
-![[icon-seabasstotem|Sea Bass]]{float: top-left, size: medium}
+![[icon-seabasstotem|Sea Bass]]{float=top-left size=medium}
 
 Opportunistic and stealthy, sea bass lie in wait to ambush unsuspecting prey, capitalizing on their surroundings to strike with precision.
 

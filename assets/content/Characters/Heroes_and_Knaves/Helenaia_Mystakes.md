@@ -16,11 +16,12 @@ data:
   occupation: Priest
   stations: []
   lore: [commonerrnk]
+  culture: byzarianclt
   homes: [byzariargn]
   affiliations: [byzarianlg]
   gender: female
   species: humanflk
-  born: VR(680/6/12)
+  born: 680.164
   height: 1.75
   weight: 70.3
   frame: medium
@@ -423,7 +424,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[helnmystks|Hélénaia Mystákês]]{float: top-left}
+![[helnmystks|Hélénaia Mystákês]]{float=top-left}
 
 Hélénaia stands 5'9" tall with a medium build. She has light olive skin, dark hair, and green eyes. Her features include an oblong face, a prominent nose, a pronounced chin, well-defined lips, heavy brows, and angular cheeks. She has a scar running down her right leg.
 

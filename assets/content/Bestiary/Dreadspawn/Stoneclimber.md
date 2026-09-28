@@ -246,7 +246,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[stnclmbr|Stoneclimber]]{float: top-left}
+![[stnclmbr|Stoneclimber]]{float=top-left}
 
 The rock face moves before you see it—a ripple in the stone that shouldn't exist. Then the creature simply peels away from the mountainside as though it was never part of it, and you see it fully: a predator wrought from saurian muscle and armor, its scales the exact color and texture of granite, studded with quartz and feldspar. Its claws are hooks designed for stone, and it moves up a near-vertical cliff face as effortlessly as a spider crawling across a wall. Its eyes burn with predatory intelligence and shine like rubies caught in candlelight. You hear nothing as it moves—no scuff of claw, no dislodged stone—just the soft scrape of scale against rock and the dry clicking of its breath. Then it is gone, vanished back into the stone, and you cannot tell if it is above you, behind you, or waiting in an overhang to strike when you pass.
 

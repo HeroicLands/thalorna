@@ -8,7 +8,7 @@ tags: [totem, archetype]
 data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
-![[icon-ottertotem|Otter]]{float: top-left, size: medium}
+![[icon-ottertotem|Otter]]{float=top-left size=medium}
 
 Playful and curious, otters are highly social animals that enjoy engaging in group activities, often seen playing in water or using tools to crack open food.
 

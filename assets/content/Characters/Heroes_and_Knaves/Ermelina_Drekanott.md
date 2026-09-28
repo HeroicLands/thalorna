@@ -16,11 +16,12 @@ data:
   occupation: Innkeeper
   stations: []
   lore: [commonerrnk]
+  culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kingdmtrgd]
   gender: female
   species: humanflk
-  born: VR(668/3/30)
+  born: 668.91
   height: 1.78
   weight: 71.7
   frame: medium
@@ -419,7 +420,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[ermlndrknt|Ermelína Drekanótt]]{float: top-left}
+![[ermlndrknt|Ermelína Drekanótt]]{float=top-left}
 
 Ermelína stands 5'10" tall with a medium build. She has light weathered skin, brown hair, and green eyes. Her features include an oval face, a straight nose, a strong jawline, a firm-set mouth, thick brows, hollow cheeks.
 

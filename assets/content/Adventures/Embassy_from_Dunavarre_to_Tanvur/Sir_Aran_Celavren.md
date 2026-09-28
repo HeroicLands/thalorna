@@ -9,6 +9,7 @@ data:
   occupation: Ambassador
   stations: []
   lore: []
+  culture: aelwythanclt
   homes: []
   affiliations: [kingdmdnvr]
   gender: male

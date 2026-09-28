@@ -28,16 +28,19 @@
  *
  * 1. **`spine-is-present`** — there is a spine at all. A guard that passes over
  *    an empty set proves nothing, so the absence of events is the first error.
- * 2. **`dates-are-common-calendar`** — every event carries a signed Common
- *    Calendar year with no year zero, and a precision from the closed list; a
- *    span is well formed and contains the year it is filed under.
+ * 2. **`dates-declare-their-reckoning`** — every event names the reckoning its
+ *    year is counted in, and the marker it names is one an era of a calendar
+ *    note declares. One reckoning frames the whole block, the year and both
+ *    ends of a span alike. The year is a signed integer with no year zero, the
+ *    precision comes from the closed list, and a span is well formed and
+ *    contains the year it is filed under.
  * 3. **`identity-is-unique`** — no two events share a shortcode, and no two
  *    share a year and a name. One occurrence with two names is one event with
  *    two `names[]` entries.
  * 4. **`dates-are-in-the-record`** — every event names the sources its date
  *    comes from, every one of those resolves, and the year is found in one of
- *    them: as a figure, or as the count `when.derived` states it was computed
- *    from. The one exemption is an event whose source is a decision rather than
+ *    them: as a figure under the era label its reckoning prints that year
+ *    with, or as the count `when.derived` states it was computed from. The one exemption is an event whose source is a decision rather than
  *    a note, and naming that decision is what buys it. This is the check that
  *    makes a date nothing states impossible to write.
  * 5. **`reach-is-visible`** — every address in `locus` and `reach` resolves to
@@ -279,6 +282,108 @@ function readIndex() {
 }
 
 /**
+ * Every reckoning the tree declares, keyed by the marker a date names it with.
+ *
+ * A marker belongs to one era row of one calendar note, and the era rows beside
+ * it are the labels that reckoning prints a year under. Both come from the
+ * notes rather than from a list here, so a calendar that renames an era renames
+ * it for this guard in the same edit.
+ *
+ * @returns {Map<string, {file: string, calendar: string, eras: object[]}>} The
+ *   reckonings, by marker.
+ */
+function readReckonings() {
+    const reckonings = new Map();
+    for (const file of markdownFiles(CONTENT_DIR)) {
+        const raw = fs.readFileSync(file, "utf8");
+        const split = splitFrontmatter(raw);
+        if (!split) continue;
+        let fm;
+        try {
+            fm = YAML.parse(split.fm);
+        } catch {
+            continue;
+        }
+        if (fm?.type !== "lore" || fm?.subType !== "calendar") continue;
+        const eras = Array.isArray(fm.data?.eras) ? fm.data.eras : [];
+        const rows = eras.map((era) => ({
+            shortcode: String(era?.shortcode ?? ""),
+            abbreviation: era?.abbreviation === undefined ? null : String(era.abbreviation),
+            label: era?.label ?? null,
+            start: eraBound(era?.start),
+            end: eraBound(era?.end),
+        }));
+        for (const era of eras) {
+            if (typeof era?.marker !== "string") continue;
+            reckonings.set(era.marker, {
+                file,
+                calendar: String(fm.shortcode),
+                eras: rows,
+            });
+        }
+    }
+    return reckonings;
+}
+
+/**
+ * The year an era bound sits on, or `null` where it states none.
+ *
+ * A bound is a plain year in the calendar's own count, or that year inside
+ * another reckoning's marker. Either way the number is what a label lookup
+ * compares against.
+ *
+ * @param {unknown} value - The authored `start` or `end`.
+ * @returns {number | null} The year, or `null`.
+ */
+function eraBound(value) {
+    if (Number.isInteger(value)) return value;
+    if (typeof value !== "string") return null;
+    const marked = /^[A-Z][A-Z0-9]*\(~?\s*(-?\d+)/.exec(value.trim());
+    if (marked) return Number(marked[1]);
+    return /^~?\s*-?\d+$/.test(value.trim()) ? Number(value.trim().replace("~", "")) : null;
+}
+
+/**
+ * What a reckoning prints a year under.
+ *
+ * The era whose bounds hold the year, and the innermost one where several do,
+ * so a reckoning that has divided its count finely still answers with one
+ * label.
+ *
+ * A calendar's first era also counts the years before its own start, negatively,
+ * so a year below every declared start belongs to the earliest era rather than
+ * to none. An era's `label` states how a year is printed on either side of its
+ * origin — `{after: "{date} AF", before: "{date} BF"}` — and the word out of
+ * that form is what a source writes. A row with no `label` falls back to its
+ * `abbreviation`, which is the same word in both directions.
+ *
+ * @param {object | undefined} reckoning - A row from {@link readReckonings}.
+ * @param {number} year - The signed year.
+ * @returns {string | null} The word a source writes the year under, or `null`.
+ */
+function eraLabel(reckoning, year) {
+    const eras = reckoning?.eras ?? [];
+    let best = null;
+    for (const era of eras) {
+        if (era.start !== null && year < era.start) continue;
+        if (era.end !== null && year > era.end) continue;
+        if (best === null || (era.start ?? -Infinity) > (best.start ?? -Infinity)) best = era;
+    }
+    if (best === null) {
+        for (const era of eras) {
+            if (best === null || (era.start ?? Infinity) < (best.start ?? Infinity)) best = era;
+        }
+    }
+    if (!best) return null;
+    const form = year < 0 ? (best.label?.before ?? best.label) : (best.label?.after ?? best.label);
+    if (typeof form === "string") {
+        const word = form.replace("{date}", "").trim();
+        if (word) return word;
+    }
+    return best.abbreviation ?? null;
+}
+
+/**
  * Read the spine.
  *
  * @returns {object[]} One row per event note, carrying the parsed block, the
@@ -430,35 +535,42 @@ function chronologyOf(region, events, index) {
 }
 
 /**
- * Every spelling of a Common Calendar year the tree writes.
+ * Every spelling of a year the tree writes, in the reckoning the event declares.
  *
  * The corpus writes a four-digit year both with and without the thousands
  * comma, and the era label with and without a space, so a check that looked for
- * one spelling would report a date the tree plainly states. A year after the
- * Founding is also written `Year N`, which is how the epoch itself is written
- * in the note that defines the reckoning.
+ * one spelling would report a date the tree plainly states. A year inside the
+ * reckoning's own forward era is also written `Year N`, which is how the epoch
+ * itself is written in the note that defines the reckoning. The label is the
+ * abbreviation of whichever era holds the year, read from the calendar note.
  *
  * @param {number} year - The signed year.
+ * @param {object | undefined} reckoning - A row from {@link readReckonings}.
  * @returns {RegExp} What to look for in a note's text.
  */
-function yearPattern(year) {
+function yearPattern(year, reckoning) {
     const magnitude = Math.abs(year);
-    const era = year < 0 ? "BF" : "AF";
+    const era = eraLabel(reckoning, year);
     const plain = String(magnitude);
     const grouped = plain.replace(/\B(?=(\d{3})+(?!\d))/g, ",");
     const forms = plain === grouped ? [plain] : [plain, grouped];
+    const numbered = `\\bYear\\s\\*{0,2}${plain}\\b`;
+    // A reckoning whose calendar names no era for this year has no label to
+    // look for, so the figure alone is what the record can be checked against.
+    if (!era) return new RegExp(`\\b(${forms.join("|")})\\b|${numbered}`);
     const labelled = `\\b(${forms.join("|")})\\s?${era}\\b`;
     if (year < 0) return new RegExp(labelled);
-    return new RegExp(`${labelled}|\\bYear\\s\\*{0,2}${plain}\\b`);
+    return new RegExp(`${labelled}|${numbered}`);
 }
 
 /**
  * Check one event's `when` block.
  *
  * @param {object} ev - The event row.
+ * @param {Map<string, object>} reckonings - Every declared reckoning, by marker.
  * @param {string[]} out - Findings, appended to.
  */
-function checkWhen(ev, out) {
+function checkWhen(ev, reckonings, out) {
     const when = ev.event.when;
     const line = lineOf(ev.raw, "when");
     if (!when || typeof when !== "object") {
@@ -467,13 +579,28 @@ function checkWhen(ev, out) {
         );
         return;
     }
+    // One reckoning frames the whole block: the year, and both endpoints of a
+    // span. A span whose ends were counted in two reckonings is not a thing
+    // this format can say, and none is written.
+    if (!reckonings.has(when.reckoning)) {
+        out.push(
+            finding(
+                ev.file,
+                lineOf(ev.raw, "reckoning") ?? line,
+                "error",
+                `\`data.event.when.reckoning\` must name a reckoning marker an era declares — ` +
+                    `${[...reckonings.keys()].sort().join(", ") || "and no calendar note declares one"}` +
+                    ` — but reads ${JSON.stringify(when.reckoning)}`,
+            ),
+        );
+    }
     if (!Number.isInteger(when.year)) {
         out.push(
             finding(
                 ev.file,
                 line,
                 "error",
-                `\`data.event.when.year\` must be a signed Common Calendar integer, but reads ${JSON.stringify(when.year)}`,
+                `\`data.event.when.year\` must be a signed integer in the declared reckoning, but reads ${JSON.stringify(when.year)}`,
             ),
         );
     } else if (when.year === 0) {
@@ -482,7 +609,7 @@ function checkWhen(ev, out) {
                 ev.file,
                 line,
                 "error",
-                "`data.event.when.year` is 0, and the Common Calendar has no year zero: -1 is 1 BF and 1 is 1 AF",
+                "`data.event.when.year` is 0, and a reckoning has no year zero: -1 is the year before its year 1",
             ),
         );
     }
@@ -547,9 +674,10 @@ function checkWhen(ev, out) {
  *
  * @param {object} ev - The event row.
  * @param {Map<string, object>} index - The content index.
+ * @param {Map<string, object>} reckonings - Every declared reckoning, by marker.
  * @param {string[]} out - Findings, appended to.
  */
-function checkSources(ev, index, out) {
+function checkSources(ev, index, reckonings, out) {
     const block = ev.event;
     const line = lineOf(ev.raw, "sources");
     const sources = block.sources;
@@ -600,14 +728,16 @@ function checkSources(ev, index, out) {
         return;
     }
 
-    const pattern = yearPattern(block.when.year);
+    const reckoning = reckonings.get(block.when.reckoning);
+    const pattern = yearPattern(block.when.year, reckoning);
     if (noteRows.some((row) => pattern.test(row.text))) return;
+    const label = eraLabel(reckoning, block.when.year);
     out.push(
         finding(
             ev.file,
             line,
             "error",
-            `no note in \`data.event.sources\` states ${Math.abs(block.when.year)} ${block.when.year < 0 ? "BF" : "AF"}; ` +
+            `no note in \`data.event.sources\` states ${Math.abs(block.when.year)}${label ? ` ${label}` : ""}; ` +
                 "a year the record states as a count carries `data.event.when.derived` naming that count, and a year that is a decision names it in `data.event.sources`",
         ),
     );
@@ -941,6 +1071,7 @@ function checkFollows(events, out) {
 function main() {
     const out = [];
     const index = readIndex();
+    const reckonings = readReckonings();
     const events = readSpine();
 
     for (const ev of events) {
@@ -992,8 +1123,8 @@ function main() {
             );
         } else byYearAndName.set(key, ev.file);
 
-        checkWhen(ev, out);
-        checkSources(ev, index, out);
+        checkWhen(ev, reckonings, out);
+        checkSources(ev, index, reckonings, out);
         checkWhere(ev, usable, index, out);
         checkRecord(ev, index, out);
     }

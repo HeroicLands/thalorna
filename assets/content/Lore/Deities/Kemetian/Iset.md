@@ -7,7 +7,7 @@ tags: [draft]
 data: {packFolder: deitieskemetian}
 ---
 
-![[icon-iset|Íšét]]{float: top-left, size: medium}
+![[icon-iset|Íšét]]{float=top-left size=medium}
 
 _Mother of New Beginnings—a blooming lotus intertwined with a serpent._
 

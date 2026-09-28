@@ -8,7 +8,7 @@ tags: [totem, archetype]
 data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
-![[icon-ducktotem|Duck]]{float: top-left, size: medium}
+![[icon-ducktotem|Duck]]{float=top-left size=medium}
 
 Gregarious and adaptable, ducks are social birds that thrive in diverse environments, often forming strong bonds with their flock.
 

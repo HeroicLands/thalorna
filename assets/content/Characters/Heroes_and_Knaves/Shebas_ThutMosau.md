@@ -17,11 +17,12 @@ data:
   occupation: Apothecary
   stations: []
   lore: [commonerrnk]
+  culture: khepericlt
   homes: [takheperurgn]
   affiliations: [empirtkhpr]
   gender: female
   species: humanflk
-  born: VR(686/5/21)
+  born: 686.143
   height: 1.7
   weight: 61.2
   frame: light
@@ -428,7 +429,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[shebsthtms|Shebas Thut'Mosau]]{float: top-left}
+![[shebsthtms|Shebas Thut'Mosau]]{float=top-left}
 
 Shebas stands 5'7" tall with a light build. She has deep bronze skin, jet black hair, and black eyes. Her features include an aquiline nose, a gentle jawline, and elegantly curved brows. She has a scar on her left arm.
 

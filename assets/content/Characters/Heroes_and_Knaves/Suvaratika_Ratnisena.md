@@ -16,11 +16,12 @@ data:
   occupation: Toymaker
   stations: []
   lore: [commonerrnk]
+  culture: vedyariclt
   homes: [vedyarargn]
   affiliations: [chandrapur]
   gender: female
   species: humanflk
-  born: VR(681/4/4)
+  born: 681.95
   height: 1.68
   weight: 59.9
   frame: light
@@ -427,7 +428,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[suvrtkrtns|Suvaratika Ratnisena]]{float: top-left}
+![[suvrtkrtns|Suvaratika Ratnisena]]{float=top-left}
 
 Suvaratika stands 5'6" tall with a light build. She has warm bronze skin, deep black hair, and black eyes. Her features include a full face, a prominent nose, a narrow chin, expressive brows, rounded cheeks. A distinguishing mark is a scar running down the right leg.
 

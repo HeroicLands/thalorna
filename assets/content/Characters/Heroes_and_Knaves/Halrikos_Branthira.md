@@ -16,11 +16,12 @@ data:
   occupation: Bureaucrat
   stations: []
   lore: [commonerrnk]
+  culture: tarvenanclt
   homes: [tarvenirgn]
   affiliations: [kingdmtrvn]
   gender: male
   species: humanflk
-  born: VR(667/4/16)
+  born: 667.107
   height: 1.63
   weight: 56.2
   frame: medium
@@ -425,7 +426,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[hlrksbrnthr|Hálrikos Bránthira]]{float: top-left}
+![[hlrksbrnthr|Hálrikos Bránthira]]{float=top-left}
 
 Hálrikos stands 5'4" tall with a medium build. He has pale sallow skin, graying black hair, and hazel eyes. His features include an oval face, a strong nose, a pointed chin, a wide mouth, thick dark brows.
 

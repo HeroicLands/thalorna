@@ -9,6 +9,7 @@ data:
   occupation: Chief Cook
   stations: []
   lore: []
+  culture: aelwythanclt
   homes: []
   affiliations: [kingdmdnvr]
   gender: male

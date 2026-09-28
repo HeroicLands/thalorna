@@ -16,11 +16,12 @@ data:
   occupation: Apothecary
   stations: []
   lore: [commonerrnk]
+  culture: vedyariclt
   homes: [vedyarargn]
   affiliations: [rajaprjnpd]
   gender: male
   species: humanflk
-  born: VR(668/3/17)
+  born: 668.78
   height: 1.7
   weight: 64
   frame: medium
@@ -425,7 +426,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[cndrthrchrymkhysvr|Càndrathar Āchāryamukhyēshvara]]{float: top-left}
+![[cndrthrchrymkhysvr|Càndrathar Āchāryamukhyēshvara]]{float=top-left}
 
 Càndrathar stands 5'7" tall with a medium build. He has tawny brown skin, graying dark brown hair, and brown eyes. His features include a diamond-shaped face, a delicate nose, a gentle jawline, an expressive mouth, tawny brows, and high cheeks.
 

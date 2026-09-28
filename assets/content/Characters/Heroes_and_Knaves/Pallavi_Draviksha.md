@@ -16,11 +16,12 @@ data:
   occupation: Scribe
   stations: []
   lore: [commonerrnk]
+  culture: vedyariclt
   homes: [vedyarargn]
   affiliations: [vyalendra2]
   gender: female
   species: humanflk
-  born: VR(694/9/3)
+  born: 694.246
   height: 1.75
   weight: 66.7
   frame: light
@@ -420,7 +421,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[palvdrvksh|Pallàvi Drâviksha]]{float: top-left}
+![[palvdrvksh|Pallàvi Drâviksha]]{float=top-left}
 
 Pallàvi stands 5'9" tall with a light build. She has tawny brown skin, dark black hair, and hazel eyes. Her features include a heart-shaped face, a broad nose, a soft jawline, and tawny brows.
 

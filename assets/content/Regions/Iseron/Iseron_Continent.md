@@ -27,7 +27,7 @@ The approaches to Iseron are as hostile as the interior. Sea ice extends far nor
 
 ## Regions
 
-```sql :allow-empty
+```sql {allow-empty=true}
 SELECT address.slug AS _ref,
        name.full    AS "Region",
        description  AS "Overview"

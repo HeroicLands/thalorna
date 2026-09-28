@@ -16,11 +16,12 @@ data:
   occupation: Trapper
   stations: []
   lore: [commonerrnk]
+  culture: byzarianclt
   homes: [byzariargn]
   affiliations: [byzarianlg]
   gender: male
   species: humanflk
-  born: VR(676/9/8)
+  born: 676.251
   height: 1.83
   weight: 81.6
   frame: medium
@@ -426,7 +427,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[thmdspphnts|Theomídes Epiphaniôtês]]{float: top-left}
+![[thmdspphnts|Theomídes Epiphaniôtês]]{float=top-left}
 
 Theomídes stands 6'0" tall with a medium build. He has tanned weathered skin, black hair, and brown eyes. His features include a narrow face, a hawkish nose, a strong jawline, full lips, strong brows, angular cheeks.
 

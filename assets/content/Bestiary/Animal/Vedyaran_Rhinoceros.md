@@ -274,7 +274,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[vdyrnrhn|Vedyaran Rhinoceros]]{float: top-left}
+![[vdyrnrhn|Vedyaran Rhinoceros]]{float=top-left}
 
 The riverbank explodes. That is your first impression—the mud itself erupting outward in a wave of brown water and debris, and from the eruption something rises that redefines your understanding of what a living animal can be. It is armored. Not metaphorically, not approximately—armored, in riveted plates of gray-brown hide that fold and overlap across the shoulders, flanks, and haunches like the work of a god who had studied castle walls and decided to improve upon them. The plates are separated by deep creases that give the hide a segmented, almost mechanical appearance, and each plate is studded with raised bumps that look disturbingly like the rivets on a suit of plate mail. The animal is enormous—five to six feet at the shoulder, two tons or more of bone, muscle, and that impossible hide—and it moves out of the river mud with a speed that such a mass should not possess. The horn is a single blunt spike of dark keratin, maybe a foot long, less dramatic than you expected but somehow more threatening for its functionality—this is not an ornament but a tool, worn smooth from use. The small eyes find you and the ears swivel forward, and the animal produces a sound that is half snort and half roar, a blast of expelled air that carries enough force to feel against your skin at thirty paces. It is not afraid of you. It has no reason to be afraid of anything.
 

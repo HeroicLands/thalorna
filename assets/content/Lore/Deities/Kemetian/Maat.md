@@ -7,7 +7,7 @@ tags: [draft]
 data: {packFolder: deitieskemetian}
 ---
 
-![[icon-maat|Má'át]]{float: top-left, size: medium}
+![[icon-maat|Má'át]]{float=top-left size=medium}
 
 _Keeper of Truth and Harmony—a feather atop a golden scale._
 

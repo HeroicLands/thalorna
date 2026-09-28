@@ -216,7 +216,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[phntmwng|Phantomwing]]{float: top-left}
+![[phntmwng|Phantomwing]]{float=top-left}
 
 A shape moves across the sky that shouldn't be there—too pale, too thin, too wrong. When it passes between you and the sun, the shadow it casts is not quite the shape of a bird, and sunlight seems to pass through it in odd ways. The sound of its wings reaches you only after it has already passed, a susurrus like wind through a tomb. There is sadness in its presence, the way a funeral bell carries meaning beyond mere sound.
 

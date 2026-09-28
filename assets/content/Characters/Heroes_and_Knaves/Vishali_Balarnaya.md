@@ -16,11 +16,12 @@ data:
   occupation: Fool
   stations: []
   lore: [commonerrnk]
+  culture: vedyariclt
   homes: [vedyarargn]
   affiliations: [rajaprjnpd]
   gender: female
   species: humanflk
-  born: VR(693/10/4)
+  born: 693.278
   height: 1.73
   weight: 68.9
   frame: light
@@ -416,7 +417,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[vishalblry|Vishali Bâlarnaya]]{float: top-left}
+![[vishalblry|Vishali Bâlarnaya]]{float=top-left}
 
 Vishali stands 5'8" tall with a light build. She has rich brown skin, dark black hair, and warm brown eyes. Her features include a round face, a slightly arched nose, a gentle jawline, generous lips, and rich brows. She has a scar on her right elbow.
 

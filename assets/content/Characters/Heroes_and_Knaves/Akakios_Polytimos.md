@@ -16,11 +16,12 @@ data:
   occupation: Common Seaman
   stations: []
   lore: [commonerrnk]
+  culture: byzarianclt
   homes: [byzariargn]
   affiliations: [byzarianlg]
   gender: male
   species: humanflk
-  born: VR(694/6/30)
+  born: 694.182
   height: 1.88
   weight: 88.9
   frame: heavy
@@ -419,7 +420,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[akksplytms|Akákios Polytimós]]{float: top-left}
+![[akksplytms|Akákios Polytimós]]{float=top-left}
 
 Akákios stands 6'2" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include a diamond-shaped face, an aquiline nose, a strong jawline, a wide mouth, dark brows, sculpted cheeks.
 

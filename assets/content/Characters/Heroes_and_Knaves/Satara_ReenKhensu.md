@@ -17,11 +17,12 @@ data:
   occupation: Timberwright
   stations: []
   lore: [commonerrnk]
+  culture: khepericlt
   homes: [takheperurgn]
   affiliations: [empirtkhpr]
   gender: female
   species: humanflk
-  born: VR(689/6/19)
+  born: 689.171
   height: 1.83
   weight: 77.1
   frame: medium
@@ -430,7 +431,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[satrrnkhns|Satara Re'en'Khensu]]{float: top-left}
+![[satrrnkhns|Satara Re'en'Khensu]]{float=top-left}
 
 Satara stands 6'0" tall with a medium build. She has rich copper skin, deep black hair, and brown eyes. Her features include an oval face, an aquiline nose, a tapered chin, elegantly curved brows.
 

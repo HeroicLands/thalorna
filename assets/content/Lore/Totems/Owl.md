@@ -8,7 +8,7 @@ tags: [totem, archetype]
 data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
-![[icon-owltotem|Owl]]{float: top-left, size: medium}
+![[icon-owltotem|Owl]]{float=top-left size=medium}
 
 Mysterious and patient, owls are nocturnal predators that silently observe their surroundings, waiting for the perfect moment to strike.
 

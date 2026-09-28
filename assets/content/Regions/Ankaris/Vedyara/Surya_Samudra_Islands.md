@@ -23,7 +23,7 @@ The [[skill-vedyarlng|Vedyari]] spoken in the colonies is the Eastern Outlier di
 
 ## Settlements
 
-```sql :allow-empty
+```sql {allow-empty=true}
 SELECT s.address.slug AS _ref,
        s.name.full AS "Name",
        s.data.market || ' ' || m.name AS "Market",

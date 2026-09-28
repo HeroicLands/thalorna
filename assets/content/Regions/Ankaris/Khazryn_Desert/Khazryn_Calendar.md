@@ -6,7 +6,7 @@ subType: calendar
 description: "The ancient Khazryn calendar: twelve thirty-day months and a five-day festival that closes the year at the spring equinox, kept by the Mōbadate against the Ātárzád's own ritual reckoning."
 tags: [reference, calendar]
 data:
-  epoch: VR(720/1/1)
+  epoch: -1500.1
   months:
     - {name: First, days: 30}
     - {name: Second, days: 30}
@@ -21,8 +21,18 @@ data:
     - {name: Eleventh, days: 30}
     - {name: Twelfth, days: 30}
     - {name: The Intercalary Festival, days: 5}
-  weekdays: []
-  dateFormats: {short: "D MMM", long: "D MMMM, Y", full: "D MMMM, Y", yearLabel: "Y"}
+  eras:
+    - shortcode: baa
+      name: Before the Āhúrdáén Awakening
+      abbreviation: BAA
+      proclaimedBy: ahurdaen
+      start: null
+    - shortcode: aa
+      name: The Āhúrdáén Awakening
+      abbreviation: AA
+      proclaimedBy: ahurdaen
+      start: 1
+  formats: {std: "D MMMM Y GGG"}
   packFolder: khazryndesert
 ---
 

@@ -16,11 +16,12 @@ data:
   occupation: Mercantyler
   stations: []
   lore: [commonerrnk]
+  culture: bethuanclt
   homes: [bethuargn]
   affiliations: [mtrrchybth]
   gender: female
   species: humanflk
-  born: VR(694/1/4)
+  born: 694.4
   height: 1.68
   weight: 59
   frame: light
@@ -415,7 +416,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[laylamarut|Layla Marut]]{float: top-left}
+![[laylamarut|Layla Marut]]{float=top-left}
 
 Layla stands 5'6" tall with a light build. She has light golden skin, dark brown hair, and brown eyes. Her features include a narrow face, a noble nose, a narrow chin, well-shaped lips, thin brows.
 
