@@ -2,7 +2,7 @@
 shortcode: personlnms
 name: {full: Personal Names, aliases: []}
 type: lore
-subType: culture
+subType: custom
 data: {packFolder: tanvur}
 ---
 
