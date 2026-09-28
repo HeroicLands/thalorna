@@ -10,7 +10,7 @@ data:
   event:
     kind: arrival
     depth: world
-    when: {year: -10000, precision: millennium}
+    when: {reckoning: VR, year: -10000, precision: millennium}
     sources: [lore-theithari]
     summary: >-
       The Ithári reach Thalorna from an origin no record names, settle Kalihara, and take in the scattered human bands living there. Across the rest of the world they raise works of a single substance found nowhere else, found nothing, teach nobody, and leave no word behind.

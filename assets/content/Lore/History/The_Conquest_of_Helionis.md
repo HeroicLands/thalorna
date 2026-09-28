@@ -10,7 +10,7 @@ data:
   event:
     kind: conquest
     depth: world
-    when: {year: -335, precision: span, span: {from: -335, to: -312}}
+    when: {reckoning: VR, year: -335, precision: span, span: {from: -335, to: -312}}
     sources:
       - decided-midhalion
       - decided-chronology

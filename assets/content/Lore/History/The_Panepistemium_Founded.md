@@ -10,7 +10,7 @@ data:
   event:
     kind: founding
     depth: world
-    when: {year: -400, precision: decade}
+    when: {reckoning: VR, year: -400, precision: decade}
     sources: [affiliation-panepistmm, place-helionis]
     summary: >-
       The leading philosophical schools of the Helionite city-states agree to a common federation of standards and mutual recognition. The Panepistemium is not a guild or a government body but an intellectual society, organized into colleges of roughly equal standing—metaphysics, ethics, logic, natural philosophy, political thought, aesthetics, and the arcane arts among them. A scholar it credentials is received in any Helionite city.

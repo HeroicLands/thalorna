@@ -10,7 +10,7 @@ data:
   event:
     kind: treaty
     depth: world
-    when: {year: -5274, precision: span, span: {from: -5274, to: -2427}}
+    when: {reckoning: VR, year: -5274, precision: span, span: {from: -5274, to: -2427}}
     sources: [decided-chronology, place-worldthlrn, lore-flkkhazar, lore-flksinale]
     summary: >-
       The two Elder Races hold a shared accord spanning much of Thalorna for twenty-eight centuries, beginning within a generation of the Khazári's arrival and ending on the day Khazártúrn falls. Under it they live and work together and produce what neither can produce alone: structures that marry living wood to shaped stone, artifacts that marry Sinalëan enchantment to Khazárian craft, and a worship of the god of dreams held in common. Neither people has ever stated the accord's terms, and neither has spoken to the other since it ended.

@@ -10,7 +10,7 @@ data:
   event:
     kind: battle
     depth: world
-    when: {year: -984, precision: year}
+    when: {reckoning: VR, year: -984, precision: year}
     sources: [place-threesisters, place-aelwyth, place-hallowwood]
     summary: >-
       The Sinalë king of the joint Sinalë–Khazári kingdom of Aelwyth is killed at the Three Sisters amid the Great War, by a force the tradition is consistent only in calling spiritual rather than merely an army. The surviving Sinalë abandon the crown, the kingdom and every claim outside the Hallowwood and withdraw permanently. The Khazári finish the war alone. It ends the only attempt either Elder Race has made to repair the breach that began at Khazártúrn.

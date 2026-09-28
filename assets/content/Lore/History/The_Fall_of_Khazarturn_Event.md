@@ -10,7 +10,7 @@ data:
   event:
     kind: fall
     depth: world
-    when: {year: -2427, precision: year}
+    when: {reckoning: VR, year: -2427, precision: year}
     sources:
       - lore-khazarturn
       - miscgear-secondvoice

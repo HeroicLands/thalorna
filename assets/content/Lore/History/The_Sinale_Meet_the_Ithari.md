@@ -10,7 +10,7 @@ data:
   event:
     kind: contact
     depth: world
-    when: {year: -7500, precision: century}
+    when: {reckoning: VR, year: -7500, precision: century}
     sources: [lore-theithari, lore-flksinale]
     summary: >-
       Sinalë wayfarers come upon the Ithári in a place neither people has ever named. They are received, offered no exchange, and politely declined. The Sinalë come away without learning who they had met, where those people came from, what they were doing on Thalorna, or that there was any connection between them and the works on Kalihara. It is the only contact between the Ithári and an Elder Race in any record.

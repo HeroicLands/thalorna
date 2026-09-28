@@ -10,7 +10,7 @@ data:
   event:
     kind: migration
     depth: world
-    when: {year: -1400, precision: span, span: {from: -1400, to: -1100}}
+    when: {reckoning: VR, year: -1400, precision: span, span: {from: -1400, to: -1100}}
     sources: [lore-pelwarpepl, place-aelwyth, place-threesisters]
     summary: >-
       Generations of pressure push whole Pelwar peoples west and south across half of Ankaris. It is not one exodus but a displacement running roughly three centuries, and it stops at the sea: the western coastline is where the movement runs out of land, which is why the Pelwar-descended peoples are packed along it as densely as they are. A few communities do the one thing left and go across the water. Some of the Varkhad follow them.

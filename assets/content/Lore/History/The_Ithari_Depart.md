@@ -10,7 +10,7 @@ data:
   event:
     kind: departure
     depth: world
-    when: {year: -7300, precision: year}
+    when: {reckoning: VR, year: -7300, precision: year}
     sources: [lore-theithari, affiliation-kalihara, place-klhrcntnnt, lore-longnhrtnc]
     summary: >-
       A disturbance goes through the Ithári. They go to the caretakers of the instruments, give them a further set of instructions beyond the procedures already taught, and leave—all of them, abruptly. The island wakes to their absence. Kaliharan custodianship is counted from this year, and it is the one Ithári date the Kaliharans hold to the year.

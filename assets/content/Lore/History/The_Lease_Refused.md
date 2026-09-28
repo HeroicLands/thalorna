@@ -10,7 +10,7 @@ data:
   event:
     kind: dissolution
     depth: world
-    when: {year: -45, precision: decade}
+    when: {reckoning: VR, year: -45, precision: decade}
     sources: [decided-midhalion]
     summary: >-
       The standing lease of the dragons is not renewed. The Republic tells the dragons the term is ended and refuses the return of what it holds of theirs. The killing follows: many dragons die and some escape. The Dragon Riders are disbanded, the Eyrie of Mons Aquila is sealed, and the records of the terms are suppressed rather than the records of the war. The hold is still in force, the survivors and the ancestor pool have not forgotten, and what the Republic took has never been given back.

@@ -20,8 +20,20 @@ data:
     - {name: Thanaris, abbreviation: Than, days: 30}
     - {name: Aetheris, abbreviation: Aeth, days: 31}
     - {name: Janar, abbreviation: Jana, days: 30}
-  weekdays: []
+  weekdays:
+    - {name: Newday, abbreviation: New}
+    - {name: Tillday, abbreviation: Till}
+    - {name: Growday, abbreviation: Grow}
+    - {name: Harvestday, abbreviation: Harv}
+    - {name: Reapday, abbreviation: Reap}
+    - {name: Slowday, abbreviation: Slow}
+    - {name: Setday, abbreviation: Set}
   eras:
+    - shortcode: beforefounding
+      name: Before the Founding
+      abbreviation: BF
+      proclaimedBy: vylarinmpr
+      end: -1
     - shortcode: founding
       marker: VR
       name: After the Founding
@@ -58,6 +70,20 @@ Beyond that sphere, other peoples keep their own count and do not translate into
 10. **Thanaris** (30 days)—the winter solstice falls on its first day.
 11. **Aetheris** (31 days)
 12. **Janar** (30 days)—the last month of the year.
+
+## The Week
+
+Seven days run on through the months without a break, so a weekday belongs to no date and the two are looked up together. The names are a farming year in miniature—the ground broken, the crop up, the crop in, and the work put down—and the Vylarian courts and counting-houses that have never held a plough use them without remark.
+
+1. **Newday**—the week's first, and the day a piece of work is begun on.
+2. **Tillday**—the ground worked.
+3. **Growday**—the crop left to stand.
+4. **Harvestday**—the crop taken.
+5. **Reapday**—the field cleared behind it.
+6. **Slowday**—the week running down, and the day accounts are settled on.
+7. **Setday**—the week set down, and nothing begun on it.
+
+Nothing divides the year evenly into weeks, so the seven run across the turn of the year as they run across the turn of a month. A date keeps its place in the calendar and does not keep its weekday, and a Vylarian who wants both consults an almanac like everybody else.
 
 ## See Also
 

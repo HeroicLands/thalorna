@@ -10,7 +10,7 @@ data:
   event:
     kind: secession
     depth: world
-    when: {year: 520, precision: century, derived: roughly two hundred years ago}
+    when: {reckoning: VR, year: 520, precision: century, derived: roughly two hundred years ago}
     sources: [affiliation-vylarinmpr, place-ankrscntnnt]
     summary: >-
       The Vylarian Empire begins losing what it holds—to overextension, internal corruption, barbarian pressure from the north, and the gradual independence of provinces. Provènzia and Tarvénia become successor states in all but name, Heliónis regains practical independence while keeping formal ties, and twelve years ago Harad fought and won a war of independence with Kheperi gold behind it. The Empire has retreated to its core territories and still claims authority over regions that have long since gone their own way.

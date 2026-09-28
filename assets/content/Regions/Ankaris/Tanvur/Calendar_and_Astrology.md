@@ -19,6 +19,12 @@ data:
     - {name: Zhürtyüt, days: 30}
     - {name: Thürtyüt, days: 30}
   weekdays: []
+  eras:
+    - shortcode: beforeconvergence
+      name: Before the Great Convergence
+      abbreviation: BGC
+      end: VR(-6240)
+    - {shortcode: celestial, name: The Great Convergence, abbreviation: GC, start: VR(-6239)}
   dateFormats:
     short: "D MMM Y"
     long: "[Year] Y [of the] GGGG [Emperor of the] [Dynasty]"
