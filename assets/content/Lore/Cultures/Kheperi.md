@@ -55,6 +55,16 @@ The distinction is legal, not decorative. A house name asserts a claim—to land
 
 Names are sacred utterances and a priest bestows them. A second name, known to the bearer and the priesthood alone, is held to confer protection, and striking a name from the records is the heaviest sentence short of death—every temple and every nome keeps the rank of Name Struck for exactly that purpose.
 
+## Two Ledgers
+
+A Kheperi keeps two accounts, and only one of them can be written.
+
+The first is the **temple account**. Contracts, leases, debts, offices, fosterings, the ten-year field—everything a witness saw and a scribe entered. It is held in a temple, it can be read back to him on demand, and it is what the scale tests at the end.
+
+The second has no name a scribe could use and everybody understands it anyway: what a son owes his mother, what a man owes the master who taught him thirty years after he became a master himself, what a sworn man owes his liege past the terms of the oath, what anyone owes the gods, the dead and the house that raised him. No witness was present. Nothing was ever written. **The gods keep it.**
+
+That division is why the Kheperi pray. A man worried about a contract walks to the archive and has it read—there is nothing to ask anybody, the answer is in a cabinet. A man worried about whether he has been a good son has nowhere to go, and no record exists to reassure him. So he asks, he gives, he petitions, and he listens. **Attest the written and petition the unwritten**, and the error a priest actually corrects is confusing the two. Asking a god to set aside a contract is impiety. Asking a god whether you have failed your father is the whole of religion.
+
 ## What Is Written
 
 Every undertaking a person makes is entered: a sale, a lease, a betrothal, an apprenticeship, a vow to build a shrine, a promise to keep a road or a well, an agreement to foster a child or keep a beast. The entry is opened when the promise is witnessed and written. It is closed when the outcome is witnessed and written. An entry with one side written and the other blank is **open**, and an open entry is the thing a Kheperi fears.
@@ -67,17 +77,45 @@ Some undertakings any competent person can take up: a lease, a dyke, a fostering
 
 ## The Weighing
 
-At the end the heart is set on one pan of a golden scale, and on the other the true weight of Má'át, which every temple's reference weights are struck from. The scale does not ask whether a life was kind. It asks whether the piece is what it was stamped to be: whether every undertaking was closed, and whether anything was written that never happened. A heart of full weight passes into the blessed Duat. A heart found light is false coin, and goes to the crucible.
+At the end the heart is set on one pan of a golden scale, and on the other the true weight of Má'át, which every temple's reference weights are struck from. The scale does not ask whether a life was kind. It asks whether the piece is what it was stamped to be. Three things can happen, and only one of them is final.
 
-The two failures have names. A **hole** is a thing done and never entered. A **false entry** is a thing entered and never done, and it is the graver of the two, because a hole is an absence and a false entry corrupts the instrument that absences are found with.
+A heart of **full weight** passes into the Duat. A heart **short by a hole**—an undertaking left open—passes as well, and arrives owing it, in weight equal to what was unmet. A heart **short by a false entry**—a thing written that never happened—goes to the crucible, is unmade, and leaves no name behind for anyone to speak for.
 
-Full weight is not a great weight. A farmer with twelve closed entries goes in at full weight exactly as a lord with four hundred, and the priests say so plainly to frightened people because it is true and not a comfort. Length buys a long tomb, a good marriage and a heavy seal. It buys nothing on the scale. What it does buy is difficulty: a long account is easier to keep false.
+Only forgery is terminal, and the priests can say why: a hole is an absence, and a false entry attacks the instrument by which every absence is found. A man who left debts is a debtor. A man who corrupted the record is nothing.
 
-The moral force of the doctrine comes from one provision: wealth buys no verdict, and every Kheperi knows it. The heart is not written by any hand in the valley. What the temple holds is the copy, and the monthly ritual of the Scales sets copy against original—where the two disagree, the scribe is condemned and not the man. That single rule is the most effective check on a nomarch the empire possesses, and it is ignored often enough to be worth stating plainly. A lord squeezes his tenants for forty years and endows a temple in his last decade; the temple takes the endowment; both parties understand exactly what is being attempted and how little it is expected to work.
+So the ordinary dread is not destruction. **It is arriving in debt**—and a dead man has no field, no coin and no way to earn, so what he carries he carries until somebody living relieves him of it. Dying open is not a sentence. It is a dependency, and it leaves a man entirely at the mercy of whether his children bother.
 
-There is an argument the temples have never settled, and thoughtful Kheperi raise it. A man who undertakes nothing breaches nothing. A landlord who never promised kindness and never showed any closes perfectly, and the scale cannot see him. The orthodox answer is that the weighing was never a judgment of a life and never claimed to be—it assays a piece, and a piece is not a soul. Whether that satisfies is the oldest quarrel in the faith, and it is where the quiet cults of mercy find their people.
+Full weight is not a great weight. A farmer with twelve settled undertakings passes exactly as a lord with four hundred, and the priests say so plainly to frightened people because it is true and not a comfort. What length buys is difficulty: a long account is harder to keep honest.
 
-None of this makes the Kheperi solemn. The ledger has no column for appetite: beer, music, a good afternoon and the river are owed to nobody, so nothing about them is entered and nothing about them is judged. A man may be exact in every dealing and a glutton by dark with no contradiction to settle. What shocks a Kheperi is not indulgence. It is an unrecorded loan. Their calendar is dense with festivals, beer and wine and music sit at the center of both religious and secular life, and Hâpi is among the best-loved gods in the empire precisely because his priests teach that pleasure is a form of gratitude and not a distraction from it.
+The heart is written by no hand in the valley. What the temple holds is the copy, and the monthly ritual of the Scales sets copy against original—where the two disagree the scribe is condemned and not the man. Wealth therefore buys no verdict, and every Kheperi knows it. That is the most effective check on a nomarch the empire possesses, and it is ignored often enough to be worth stating plainly. A lord squeezes his tenants for forty years and endows a temple in his last decade; the temple takes the endowment; both parties understand exactly what is being attempted and how little it is expected to work.
+
+## What the Dead Carry
+
+The Duat is not a rest. It is a place, and the dead must work, eat and get on there as anyone does. Every practice in the valley's vast funerary industry follows from that.
+
+**Grave goods are starting capital.** The rich take servants, gold, furniture, tools, grain and linen because those are the means of a life and not ornaments of one, and the shabti are labor—they answer for their owner, do the work he would otherwise do himself, and guard the capital they are part of. The retainers who go down with a lord went by contract, attested like any other undertaking and paid in advance to their families, which is voluntary because an attestation needs both sides and horrible for exactly that reason. The poorest take a copper piece on the breast, and a family that can manage two puts in two.
+
+**Offerings are income.** The names said at the household shrine, the endowed readings, the annual rites: those are not remembrance. They are remittance against a real balance, and a house that lets them lapse is defaulting on somebody who cannot chase it.
+
+**And the accounts go into the ground with the body**, which is why the tablets matter more than the gold. Goods run out. A record of four hundred unreturned kindnesses goes on paying. This is also why tomb robbery is pursued across generations: a thief who takes the metal makes a dead man poor, and a thief who takes the tablets takes away his earnings and can unmake him.
+
+## Give, and Be Owed
+
+Here is the shape of a well-lived Kheperi life, and it is not what a foreigner expects.
+
+**Close what you owe. Leave open everything owed to you.** The debit side must be shut, because that is the gate. The credit side should be long, because in a place where the dead cannot earn, what others owe you is income.
+
+So _he died square_—nobody owing him anything—is faint praise and a little pitiable. The phrase a man wants said over him is that **he went down owed**.
+
+Which makes Kheperi generosity frankly acquisitive, and nobody sees a contradiction in it. A man gives in order to be owed; every unreturned kindness stands to his credit in the account the gods keep; and the neighbor he fed through a bad winter knows precisely what is happening and eats the bread anyway. A culture where the grasping instinct and the open-handed one point the same way does not need to preach much.
+
+It also answers the cold man, and answers him without any god having to decide anything. He took and did not give, so he owes, and he arrives in debt. His open-handed neighbor gave and was not repaid, so he is owed, and he arrives in credit. The cruel man's ruin is not that he is punished. It is that **the only thing which could relieve him is intercession, and he spent a life arranging that nobody would trouble to intercede.**
+
+## The Dead Are Not Beyond Reach
+
+The priests keep the civic books and they also carry the traffic between the two worlds, and the second office is as busy as the first. Through a temple a living person may ask the dead to **forgive** a debt of the unwritten kind, which closes it as surely as a living release closes a written one. He may ask a well-standing ancestor to **assume** a burden, which costs that ancestor and is not granted often, and which is why a family with strong dead is a family with reserves. And he may **relieve** what a dead man left open, paying what he owed or performing what he undertook, with the temple attesting the payment on this side and carrying word of it to the other.
+
+Family first, and then patrons. A lord may intercede for his dead man and it is understood as part of what the bond always was, which gives patronage a weight no contract carries: **a patron is his client's advocate after death.** That is what a Kheperi means by a good lord, and it is why a house's reputation among its tenants outlives the house.
 
 ## When a Person Dies
 
@@ -90,6 +128,10 @@ The physician's first duty is to say plainly and early that a man is dying, and 
 Anyone may refuse. A neighbor, a rival, a woman who was slighted twenty years ago may stand at a Reading, be asked, and say no. It costs them nothing, it is entirely lawful, and it condemns the man. That power sits in the hands of every ordinary person in the valley, and it is used. It is the most frightening thing about living among the Kheperi, and it is not a flaw in the doctrine but the doctrine working.
 
 One kind of promise death completes rather than breaks. A man who undertook never to tell, never to retaliate, never to claim, has kept it to the end, and the entry closes with him unbreached. The Kheperi find that consoling in a way foreigners do not expect: a poor man with one long-kept silence has discharged the hardest undertaking there is.
+
+Refusing is also not free, which is why it is so common. Being owed is an asset a person carries into the Duat, and a release writes it off. So a household will offer payment for one and nobody thinks that shabby, and the people who give a release for nothing are remembered for it by name.
+
+Two decisions are made aloud at a Closing and the household hears both. The dying man says **what he calls in and what he leaves open**: what he calls in passes to his heirs, and what he leaves open goes with him. A generous man calls in little and leaves his children much; a grasping one calls in everything, arrives wealthy, and leaves a house with nothing to start on. Then the heir is asked **whether he will assume** what the estate could not cover. Both are lawful, both happen, and both are watched by everyone who will live with the answer.
 
 ## When a Person Cannot Close
 
@@ -167,7 +209,7 @@ The Twelve are the theology and they are not the whole of the religion. Every no
 
 Practice therefore comes in layers, and an ordinary man keeps all of them: the Twelve at the great festivals, his nome's patron at the local temple, his own ancestors at the household shrine, and the god of his trade wherever that god is served. The hunting companies of the Sekhet'Neru read the river god's will before any expedition launches, and the guild hunters of Per'Nuw elevate their seniors at two temples in tandem, neither rite counting without the other.
 
-The priesthoods tolerate the variation and frequently encourage it, holding their gods too vast to be captured by any single cult. Magic is a learned profession on the same principle: the Khemenu Hekau train it as the temples train scribes, and a Kheperi trusts an unschooled caster about as far as he trusts an unschooled surgeon.
+Prayer at all of those shrines is petition and not filing. A man asks for a steady hand, for a birth to go well, for a dead master's judgment on a difficult commission, and for word on whether he has failed somebody nobody witnessed him failing. The priesthoods tolerate the variation and frequently encourage it, holding their gods too vast to be captured by any single cult. Magic is a learned profession on the same principle: the Khemenu Hekau train it as the temples train scribes, and a Kheperi trusts an unschooled caster about as far as he trusts an unschooled surgeon.
 
 ## What a Person Owes
 
