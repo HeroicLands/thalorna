@@ -7,7 +7,9 @@ description: "The Kheperi—their beliefs, their mores, and what they hold a per
 tags: []
 ---
 
-The Kheperi hold that theirs is the oldest civilization in the world, and the temple king-lists count 2,830 years back to the first Per-Aá in unbroken sequence. Three facts shape a life in the valley: the river comes and goes on a schedule a farmer can name to the day, the house holds the land and answers at law for everyone attached to it, and the heart is weighed at the end before a court no one has ever bribed.
+The Kheperi hold that theirs is the oldest civilization in the world, and the temple king-lists count 2,830 years back to the first Per-Aá in unbroken sequence. Three facts shape a life in the valley: the river comes and goes on a schedule a farmer can name to the day, the house holds the land and answers at law for everyone attached to it, and nothing a person does counts for anything until it has been written down.
+
+That last is the whole of them. A Kheperi does not ask whether a thing is true. He asks whether it was attested—witnessed, entered, and held in a temple—because an unattested act is not hidden, it is nothing. It did not happen. The first question put to a man in any dispute is never why he did it. It is why this was not written.
 
 ## The River Sets the Year
 
@@ -53,13 +55,91 @@ The distinction is legal, not decorative. A house name asserts a claim—to land
 
 Names are sacred utterances and a priest bestows them. A second name, known to the bearer and the priesthood alone, is held to confer protection, and striking a name from the records is the heaviest sentence short of death—every temple and every nome keeps the rank of Name Struck for exactly that purpose.
 
+## What Is Written
+
+Every undertaking a person makes is entered: a sale, a lease, a betrothal, an apprenticeship, a vow to build a shrine, a promise to keep a road or a well, an agreement to foster a child or keep a beast. The entry is opened when the promise is witnessed and written. It is closed when the outcome is witnessed and written. An entry with one side written and the other blank is **open**, and an open entry is the thing a Kheperi fears.
+
+Closing does not mean keeping a promise whatever it costs. Four things close an entry, and only one of them is doing what was promised. A man may **perform** it. He may **settle**, giving something else instead by agreement. He may be **released**, the other party declaring before witnesses that nothing more is wanted. Or another may **assume** it, taking the undertaking onto his own account. A man ruined by a wreck who goes to his creditor, agrees what he can manage and has it written, has closed cleanly and performed nothing.
+
+What cannot be done is to leave a thing hanging—unperformed, unsettled, unreleased, with nobody able to say what became of it.
+
+Some undertakings any competent person can take up: a lease, a dyke, a fostering, a debt. Others are the person himself—marry this woman, speak for me at my hearing, keep what I told you—and nobody may assume those. They close by performance or by release, and by nothing else.
+
 ## The Weighing
 
-In the Hall of Two Truths the deceased stands before the assembled gods while his heart is set on one pan of a golden scale and a single feather of Má'át on the other. A heart heavy with falsehood, cruelty, theft or cowardice outweighs the feather and is devoured; a heart that balances it, or proves lighter, passes onward into the blessed Duat.
+At the end the heart is set on one pan of a golden scale, and on the other the true weight of Má'át, which every temple's reference weights are struck from. The scale does not ask whether a life was kind. It asks whether the piece is what it was stamped to be: whether every undertaking was closed, and whether anything was written that never happened. A heart of full weight passes into the blessed Duat. A heart found light is false coin, and goes to the crucible.
 
-The moral force of the doctrine comes from one provision: wealth buys no verdict, and every Kheperi knows it. That single rule is the most effective check on a nomarch the empire possesses, and it is ignored often enough to be worth stating plainly. A lord squeezes his tenants for forty years and endows a temple in his last decade; the temple takes the endowment; both parties understand exactly what is being attempted and how little it is expected to work.
+The two failures have names. A **hole** is a thing done and never entered. A **false entry** is a thing entered and never done, and it is the graver of the two, because a hole is an absence and a false entry corrupts the instrument that absences are found with.
 
-None of this makes the Kheperi solemn. Their calendar is dense with festivals, beer and wine and music sit at the center of both religious and secular life, and Hâpi is among the best-loved gods in the empire precisely because his priests teach that pleasure is a form of gratitude and not a distraction from it.
+Full weight is not a great weight. A farmer with twelve closed entries goes in at full weight exactly as a lord with four hundred, and the priests say so plainly to frightened people because it is true and not a comfort. Length buys a long tomb, a good marriage and a heavy seal. It buys nothing on the scale. What it does buy is difficulty: a long account is easier to keep false.
+
+The moral force of the doctrine comes from one provision: wealth buys no verdict, and every Kheperi knows it. The heart is not written by any hand in the valley. What the temple holds is the copy, and the monthly ritual of the Scales sets copy against original—where the two disagree, the scribe is condemned and not the man. That single rule is the most effective check on a nomarch the empire possesses, and it is ignored often enough to be worth stating plainly. A lord squeezes his tenants for forty years and endows a temple in his last decade; the temple takes the endowment; both parties understand exactly what is being attempted and how little it is expected to work.
+
+There is an argument the temples have never settled, and thoughtful Kheperi raise it. A man who undertakes nothing breaches nothing. A landlord who never promised kindness and never showed any closes perfectly, and the scale cannot see him. The orthodox answer is that the weighing was never a judgment of a life and never claimed to be—it assays a piece, and a piece is not a soul. Whether that satisfies is the oldest quarrel in the faith, and it is where the quiet cults of mercy find their people.
+
+None of this makes the Kheperi solemn. The ledger has no column for appetite: beer, music, a good afternoon and the river are owed to nobody, so nothing about them is entered and nothing about them is judged. A man may be exact in every dealing and a glutton by dark with no contradiction to settle. What shocks a Kheperi is not indulgence. It is an unrecorded loan. Their calendar is dense with festivals, beer and wine and music sit at the center of both religious and secular life, and Hâpi is among the best-loved gods in the empire precisely because his priests teach that pleasure is a form of gratitude and not a distraction from it.
+
+## When a Person Dies
+
+Only the two parties to an entry can close it, and a dead man attests nothing. This is why the dying are attended so hard, and why the work at a bedside is not comfort but settlement.
+
+The physician's first duty is to say plainly and early that a man is dying, and concealing it is prosecuted, because it steals the time he needs. Then the household gathers what is open. A creditor is brought to say _I require no more_. A debt long avoided is acknowledged aloud so that an heir may take it up. A betrothed woman is asked whether she releases him. A brother he undertook to forgive is fetched, and asked.
+
+**"He died open"** means he died leaving undertakings that nobody can now resolve. **"She closed well"** means nothing she had taken on was left undetermined—some performed, some settled, some released, some taken up by a daughter, and every one of them written before she died.
+
+Anyone may refuse. A neighbor, a rival, a woman who was slighted twenty years ago may stand at a Reading, be asked, and say no. It costs them nothing, it is entirely lawful, and it condemns the man. That power sits in the hands of every ordinary person in the valley, and it is used. It is the most frightening thing about living among the Kheperi, and it is not a flaw in the doctrine but the doctrine working.
+
+One kind of promise death completes rather than breaks. A man who undertook never to tell, never to retaliate, never to claim, has kept it to the end, and the entry closes with him unbreached. The Kheperi find that consoling in a way foreigners do not expect: a poor man with one long-kept silence has discharged the hardest undertaking there is.
+
+## When a Person Cannot Close
+
+A man struck down but living—paralyzed, senseless, or gone in his wits—can neither attest nor be released, and he may last ten years that way. The valley has a procedure, and it treats him the way it treats a child.
+
+Physicians and witnesses make a **finding**, and the finding is entered. From that day the man's account is **in ward**. He opens nothing further, which protects him from anyone who would have him sign, and a **warden** is appointed to close what stands open: a son, a wife, a brother, or the temple where there is nobody.
+
+The protection is the whole point. **A ward cannot fail.** His acts are no longer his own, exactly as a child's are his father's and an apprentice's are his master's, so nothing done or left undone after the finding is a flaw in his piece. He cannot die open on any of it. If he recovers, a second finding lifts the ward and he resumes his own account, and the years between are simply blank—neither credit nor debit.
+
+The danger runs the other way. **A wardship is taken at real risk**, because the warden's failures are entered against the warden. Refusing one is common and carries no shame, and men think hard before accepting a wardship over a tangled estate.
+
+A warden may perform, settle and assume on the ward's behalf. He may not **release** what is owed _to_ the ward without the temple's consent, because that is giving away a man's property while he cannot object.
+
+As for who feeds him: his own estate first, administered by the warden. Then the household, in whose account he stands. Then his burial club, which carries a stricken member as it carries a dead one's widow. Then the temple, which maintains the wholly helpless outright—not with gleaning rights or a water-carrier's place, which assume a working body, but as a charge on the nome's endowments. It is one of the more expensive things a great temple does and one of the things endowments are given for.
+
+A finding is also the most abused instrument in the valley. It strips a living man of his standing, and an impatient heir has every reason to seek one early. So the temple must be party to it, and a finding obtained on a man who was not in fact incapable is a false entry—which is the graver failure, and which damns the physician and the scribe along with the son.
+
+## What the Estate Answers, and What the Heir Chooses
+
+The property of a dead man closes his open entries before anything passes to anybody. An heir takes the residue and never the gross, and a Kheperi asked what he was left will name the residue, because the gross is not a real number.
+
+Where the estate falls short, the heir is asked—in public, at the Reading, with the creditor present—whether he will assume the remainder. If he assumes, the entry closes in the dead man's account and opens in his: his father goes in clean and he is poorer. If he declines, his father goes in short on that entry, and the creditor must take a release to close his own side and eat the loss.
+
+So the choice is not about money. It is whether to let a father go in short, said aloud in front of the household. A man spends his last years closing chiefly to spare his son that question. Guilt does not descend—an assumed entry opens clean in the heir's own account, and a father's failure is never a flaw in his son's. Debt descends, by consent, and debt is survivable.
+
+Obligations owed **to** the dead are simply assets. A debtor is not released by his creditor's death, and the executor's letters go out across three nomes in the fortnight after a Reading.
+
+## House, Club, Temple
+
+One ladder answers nearly every question about who provides. **The house first. The burial club when the house fails. The temple when both do.** A Kheperi can recite it, and knowing exactly which rung he stands on is most of what the valley gives him in place of hope.
+
+**Somewhere to sleep.** The house, which is a place as much as an account, and which holds cousins, bondsmen, apprentices and fostered children under one roof without anyone thinking it remarkable. Failing that, the club hall, which exists for funerals and is used for the living between them. Failing that, the temple precinct, where dependents live in quarters as the temple's own household. And at the bottom, oddly, the necropolis: endowed tombs keep watch-priests, watch-priests have families, and a destitute man with a connection may end his life sleeping above somebody else's.
+
+**Teaching.** Every house teaches form, because a person who cannot make his mark, say the noon denials and read a weight cannot function. Past that, two roads. A craft is learned by **apprenticeship, which is an entry like any other**—a master undertakes to teach a named craft to a named child, attested, and a master who takes a boy and works him as a laborer without teaching him has an open entry that the boy's house, or the temple, will bring against him. Letters are learned at the **temple schools**, which take talent from any house, and the temples teach reading far more widely than their neighbors do. A man who can read checks his own account, and a priesthood that kept the valley illiterate would be a priesthood everybody suspected.
+
+**Defense.** At law, a person's real protection is the people who will witness for him, which is why a Kheperi spends a lifetime accumulating them and why **a man with nobody to stand for him is defenseless in a precise and literal sense**. Below that sit the public reading-days, when a Wab reads a petitioner's account aloud without fee, so that the illiterate are not at the mercy of whoever reads. For those who cannot speak at all—wards, orphans, infants, the beasts a household undertook to keep—the temple stands opposite as the party of record and brings the case itself. Against violence it is the house, then the nome's Medjay, then the temple for its own.
+
+## Widows and Orphans
+
+They are not charity. **They are the surviving parties to entries that are still open**, and that places them in law rather than in anyone's conscience.
+
+A man's marriage was an entry and his children were entered in his account, and his undertaking to maintain them was made long before any loan he took afterward. Entries are dated, and seniority runs by date, so **maintenance of a widow and her children is answered out of the estate ahead of later creditors**. The rule produces a decent outcome without anyone appealing to decency.
+
+In most cases nothing dramatic happens at all. The household is the unit, not the couple, so a widow and her children do not go anywhere—the head of the house changes, and often enough the widow becomes it, holding the account in her own right as a Nebet'hut does. Her husband's brothers do not inherit her; she inherits the position.
+
+The exposed case is the house with no kin behind it: a migrant family, a soldier's household in a garrison town. Then the estate answers, then whoever takes the residue is offered the standing obligation to maintain them, and then—if no one will—the temple takes it up. A fostered child, a widow, an infant and a beast all share one difficulty: they cannot attest, so they cannot release anybody. The temple therefore stands opposite them as the party of record, which is what lets it demand performance on their behalf, and what obliges it to perform when nobody else will.
+
+Below that sit the burial clubs, which are neighborhood and guild societies that carry a dead member's widow and children as a matter of course, and below that the temples themselves, which take dependents as gleaners on temple land, water-carriers and sweepers. Orphan boys and girls of any promise are placed as apprentices, because an apprentice is an asset and not a burden, and this is the ordinary road by which a child of nobody becomes a scribe.
+
+None of it is generous and all of it works. A Kheperi does not starve for being unloved. He starves for being unentered, and that can be mended in an afternoon by anybody willing to stand for him.
 
 ## The Burial
 
@@ -93,7 +173,9 @@ The priesthoods tolerate the variation and frequently encourage it, holding thei
 
 Ask a Kheperi what a man owes, and he answers in order: the house comes first, then the dead of the house, then the temple whose rites his own burial depends on, then the nome that takes his grain. The Per-Aá comes last, and the grain reaches him in any case.
 
-Above all of it he owes a true heart at the weighing—and he owes it whether or not anyone is watching, because the one witness who counts takes no bribe and sees through every lie.
+Above all of it he owes one thing, and it is short enough to recite. Be what you are stamped to be. Attest what you do. Close what you open, by any of the four roads. Leave nothing hanging for others to fail to resolve.
+
+Against that, what the valley owes him is equally short, and a Kheperi can list it as readily. He will be entered, as a child or an apprentice or a temple's dependent. He will know where he stands, because it is written and he may have it read to him. He cannot fail before he is his own. He will be told when he is dying, early enough to close. He will be helped to close. He will be buried and read whatever he is worth. And full weight is open to him in copper as much as in gold.
 
 ## See Also
 
