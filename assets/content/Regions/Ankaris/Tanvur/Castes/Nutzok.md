@@ -2,7 +2,7 @@
 shortcode: nutzok
 name: {full: Nützōk, aliases: []}
 type: lore
-subType: culture
+subType: law
 data: {packFolder: castes}
 ---
 

@@ -2,7 +2,7 @@
 shortcode: nokvur
 name: {full: Nōkvür, aliases: []}
 type: lore
-subType: culture
+subType: law
 data: {packFolder: castes}
 ---
 

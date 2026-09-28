@@ -2,7 +2,7 @@
 shortcode: vushok
 name: {full: Vüshōk, aliases: []}
 type: lore
-subType: culture
+subType: law
 data: {packFolder: castes}
 ---
 
