@@ -378,7 +378,7 @@ Four things happen at a seam. A stem and an ending that meet on one consonant wr
 
 ### Place names
 
-A place name is an element and a generic, and the generic says what kind of place it is. **The first element is a name-stem**, in any of its three grades, so one stock names a hall's people and the ground they hold. The generic is what makes it a place rather than a person, and it is never the piece that changes. A generic is a closing element like any other, so the same piece that names a place can close a god's name or an order's.
+A place name is an element and a generic, and the generic says what kind of place it is. The generic is what makes it a place rather than a person, and it is never the piece that changes. A generic is a closing element like any other, so the same piece that names a place can close a god's name or an order's.
 
 | generic   | what it names                      |
 | --------- | ---------------------------------- |
@@ -397,9 +397,23 @@ A place name is an element and a generic, and the generic says what kind of plac
 | `-nes`    | a headland                         |
 | `-sal`    | a hall                             |
 | `-stead`  | a farmstead                        |
+| `-thul`   | a seat where the law is recited    |
 | `-vangr`  | an open field                      |
 | `-vatn`   | a lake                             |
 | `-vík`    | an inlet                           |
+
+**What stands first is what the place is held from.** Ground held from nothing but itself takes a name-stem, so one stock names a hall's people and the ground they hold. Ground held from a god takes the god's name, which is the oldest layer of the family's toponymy and the pattern behind Odinsve, Torsberg and Ullevi; ground held from the man who broke it takes his, as Grimsstadir carries the name of its Grimr; ground held from the assembly takes the assembly's, as Thingvellir and Logberg carry theirs. A god's name enters clipped to its first element, because a compound name gives a compound place name its opening and no more, so Thrúnvald's seat is Thrúnborg and his mountain Thrumufjall. A founder's given name enters whole, with a genitive `-s` or `-a` at the seam.
+
+| held from                     | what stands first                                       |
+| ----------------------------- | ------------------------------------------------------- |
+| the ground alone              | a name-stem, in any of its three grades                 |
+| a god                         | that god's name, clipped to its first element           |
+| a founder                     | that founder's given name, with a genitive `-s` or `-a` |
+| the ting and its law          | `ting-`, `lög-`, `mál-`, `hring-`                       |
+| a sanctuary cut into the rock | `hola-`, `hofs-`, `hörgs-`                              |
+| the gods' world               | `asgar-`                                                |
+
+**The clause reaches place names and nothing else.** In every other compound—an office, an order, a god's own name, an earned clan name—the first element is an element from the lexicon, and a god's or a founder's name does not stand there. A place is held from a god and the name records the holding; a station is held from a king, so an office built on a god's name would say something the rank ladder does not mean, and an earned name built on one would have a hall claiming descent from a god.
 
 ### Ranks, offices and orders
 
