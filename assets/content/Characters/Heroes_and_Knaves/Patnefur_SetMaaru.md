@@ -422,7 +422,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-**Home:** [[place-wasetkara|Wasetkara]]
+**Home:** [[place-wasetkara|Galezkara]]
 
 # Appearance {#appearance}
 
@@ -434,7 +434,7 @@ Patnefur stands 5'7" tall with a medium build. He has dark skin, black hair, and
 
 **A Child of the Guild Quarter**
 
-Patnefur was born into the Guild Quarter of Wasetkara, where craftsmen of every imaginable discipline plied their trades. His father, Setmaâr, was a master perfumer of considerable reputation, while his mother, Hatseta, worked as a dyer of great skill. From his earliest memories, young Patnefur was surrounded by the interplay of scent and color, and his acute sensitivity to aromatic compounds became apparent by his fifth year. Where other children might smell nothing but "flower," Patnefur could distinguish between the scents of a dozen different varieties of lotus, could detect the faint underlying notes of earth and sun in a simple rose petal.
+Patnefur was born into the Guild Quarter of Galezkara, where craftsmen of every imaginable discipline plied their trades. His father, Setmaâr, was a master perfumer of considerable reputation, while his mother, Hatseta, worked as a dyer of great skill. From his earliest memories, young Patnefur was surrounded by the interplay of scent and color, and his acute sensitivity to aromatic compounds became apparent by his fifth year. Where other children might smell nothing but "flower," Patnefur could distinguish between the scents of a dozen different varieties of lotus, could detect the faint underlying notes of earth and sun in a simple rose petal.
 
 His training began at age seven in his father's workshop. Setmaâr was a demanding teacher, but also a visionary one. Rather than teaching the boy to merely replicate the great fragrances of the past, he encouraged Patnefur to experiment, to combine scents in ways that seemed almost heretical to the conservative guild masters. By his teens, Patnefur had already begun to revolutionize the perfumer's art, creating fragrances that seemed to tell stories—to evoke specific emotions, memories, or visions.
 
@@ -444,7 +444,7 @@ At twenty-two years of age, Patnefur achieved his first true triumph: a fragranc
 
 **Current Mastery**
 
-Now at the height of his powers, Patnefur operates one of the most fashionable perfumeries in all of [[affiliation-empirtkhpr|Ta'Kheperu]]. His workshop is part laboratory, part alchemical chamber—filled with hundreds of glass vessels containing exotic ingredients from across the known world: oils from the deep forests of the southern kingdoms, resins from the highest mountain peaks, rare flowers that bloom only once per lunar cycle, even compounds he has extracted from gems and minerals. His clientele extends beyond nobles to include merchants, priests, and adventurers seeking a scent that will mark them out. His creations are considered transformative, capable of altering mood and perception through the power of scent alone.
+Now at the height of his powers, Patnefur operates one of the most fashionable perfumeries in all of [[affiliation-empirtkhpr|Aû'Khelâthu]]. His workshop is part laboratory, part alchemical chamber—filled with hundreds of glass vessels containing exotic ingredients from across the known world: oils from the deep forests of the southern kingdoms, resins from the highest mountain peaks, rare flowers that bloom only once per lunar cycle, even compounds he has extracted from gems and minerals. His clientele extends beyond nobles to include merchants, priests, and adventurers seeking a scent that will mark them out. His creations are considered transformative, capable of altering mood and perception through the power of scent alone.
 
 ## Psyche
 
@@ -490,7 +490,7 @@ Patnefur is driven by a belief that he has not yet created his masterpiece—the
 
 - **High Priestess Nefertari of the Temple of Hathor**: A spiritual leader who commissioned from Patnefur a special fragrance intended to heighten participants' awareness during sacred rituals. She values his work and offers him access to rare and sacred ingredients.
 
-- **The Royal Perfumer of the Per-Aá's Court**: Though not a patron in the traditional sense, this court official has taken interest in Patnefur's new fragrances and occasionally brings requests from the highest levels of society.
+- **The Royal Perfumer of the Gar-Aû's Court**: Though not a patron in the traditional sense, this court official has taken interest in Patnefur's new fragrances and occasionally brings requests from the highest levels of society.
 
 ### Enemies
 
@@ -502,7 +502,7 @@ Patnefur is driven by a belief that he has not yet created his masterpiece—the
 
 ### Affiliations
 
-- **The Artisans' Guild of Ta'Kheperu**: Though technically a member in good standing, his relationship with the Guild is contentious. They benefit from his prestige but disapprove of his methods.
+- **The Artisans' Guild of Aû'Khelâthu**: Though technically a member in good standing, his relationship with the Guild is contentious. They benefit from his prestige but disapprove of his methods.
 
 - **The Scholars' Collective of the Temple of Thoth**: A loose network of researchers and academics with whom Patnefur exchanges information about rare substances and ancient texts.
 

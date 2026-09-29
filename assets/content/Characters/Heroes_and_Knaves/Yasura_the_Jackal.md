@@ -456,7 +456,7 @@ She is not, in her own telling, a traitor or a monster but a woman who was throw
 
 ### Patrons of Convenience
 
-- **[[being-casiaveric|Cassia Verric]]**: The Vylarian intelligence officer whose cut-outs have hired the Jackals to bleed away the time [[being-rshrhssfrn|Rashîra]] needs to cross the Marches toward the Kheperi frontier. Yâsûra does not know—or care—whose coin it truly is; she knows only that someone has paid her to do the thing she already meant to do.
+- **[[being-casiaveric|Cassia Verric]]**: The Vylarian intelligence officer whose cut-outs have hired the Jackals to bleed away the time [[being-rshrhssfrn|Rashîra]] needs to cross the Marches toward the Khelâthi frontier. Yâsûra does not know—or care—whose coin it truly is; she knows only that someone has paid her to do the thing she already meant to do.
 
 ### The Band
 
@@ -464,7 +464,7 @@ She is not, in her own telling, a traitor or a monster but a woman who was throw
 
 ### The Prize on Her Ground
 
-- **[[being-rshrhssfrn|Rashîra of House Safîrôn]]** and the **Purple Warrant**: The fugitive Grammatíssa is crossing Yâsûra's country with the most valuable object on the southern border—the stolen crown register that proves the matriarchy a profiteer and an oath-breaker against its own patron. Yâsûra was hired only to delay the Hound, not to take the rolls; but a warlord who rules the only road does not stay ignorant of what crosses it for long. Should she grasp what Rashîra carries, the choice is the sharpest of her exile: sell the register to the highest bidder and buy her band a kingdom's worth of coin; carry it to [[affiliation-empirtkhpr|Ta'Kheperu]] and watch the Matriarchy that unmade her brought low; or burn it, and deny every power that ever used her the prize they crave. For the register is the indictment of the very machine that scapegoated her to save itself—and the woman it threw away now holds, by sheerest accident, the power to ruin it.
+- **[[being-rshrhssfrn|Rashîra of House Safîrôn]]** and the **Purple Warrant**: The fugitive Grammatíssa is crossing Yâsûra's country with the most valuable object on the southern border—the stolen crown register that proves the matriarchy a profiteer and an oath-breaker against its own patron. Yâsûra was hired only to delay the Hound, not to take the rolls; but a warlord who rules the only road does not stay ignorant of what crosses it for long. Should she grasp what Rashîra carries, the choice is the sharpest of her exile: sell the register to the highest bidder and buy her band a kingdom's worth of coin; carry it to [[affiliation-empirtkhpr|Aû'Khelâthu]] and watch the Matriarchy that unmade her brought low; or burn it, and deny every power that ever used her the prize they crave. For the register is the indictment of the very machine that scapegoated her to save itself—and the woman it threw away now holds, by sheerest accident, the power to ruin it.
 
 ## Plot Hooks
 
@@ -474,4 +474,4 @@ She is not, in her own telling, a traitor or a monster but a woman who was throw
 
 3. **A Warlord's Price**: Approached by the other side, Yâsûra proves willing to hear an offer—her hatred is real, but so is her discipline, and a party that can pay in coin, in vengeance better aimed, or in the truth of who truly engineered her downfall might turn the Jackals loose from [[being-casiaveric|Verric's]] leash entirely.
 
-4. **The Register and the Jackal**: Yâsûra grasps that the fugitive crossing her land carries proof that could topple the Matriarch who made her Houseless. Now the warlord paid merely to delay the Hound holds the real prize within reach—and must weigh coin against vengeance against the bitter satisfaction of handing the truth to [[affiliation-empirtkhpr|Ta'Kheperu]], while [[being-casiaveric|Cassia]], the Veil, and [[being-rshrhssfrn|Rashîra]] herself all scramble to keep the most dangerous object in the Marches out of a Jackal's hands.
+4. **The Register and the Jackal**: Yâsûra grasps that the fugitive crossing her land carries proof that could topple the Matriarch who made her Houseless. Now the warlord paid merely to delay the Hound holds the real prize within reach—and must weigh coin against vengeance against the bitter satisfaction of handing the truth to [[affiliation-empirtkhpr|Aû'Khelâthu]], while [[being-casiaveric|Cassia]], the Veil, and [[being-rshrhssfrn|Rashîra]] herself all scramble to keep the most dangerous object in the Marches out of a Jackal's hands.

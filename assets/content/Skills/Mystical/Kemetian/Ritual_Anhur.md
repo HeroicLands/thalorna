@@ -1,6 +1,6 @@
 ---
 shortcode: anhur
-name: {full: "Ritual: Anhur", aliases: ["Anhur, Patron of the Hunt"]}
+name: {full: "Ritual: Linhur", aliases: ["Linhur, Patron of the Hunt"]}
 type: skill
 subType: mystical
 tags: [kemetian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-anhur|Faith of Anhur]]
+See [[affiliation-anhur|Faith of Linhur]]

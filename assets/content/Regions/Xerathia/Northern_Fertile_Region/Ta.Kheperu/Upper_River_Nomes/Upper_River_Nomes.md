@@ -1,19 +1,19 @@
 ---
 shortcode: uperivrnms
-name: {full: The Upper River Nomes, aliases: [The Upper River Nomes of Ta'Kheperu]}
+name: {full: The Upper River Nomes, aliases: [The Upper River Nomes of Aû'Khelâthu]}
 type: affiliation
 subType: polity
-description: "The agricultural heartland of Ta'Kheperu—eighteen river-valley nomes upstream of the delta whose flood-fed fields grow the empire's grain, whose conservative landowning nomarchs guard their ancient privileges, and whose temple-cities hold the oldest cults in the realm."
+description: "The agricultural heartland of Aû'Khelâthu—eighteen river-valley nomes upstream of the delta whose flood-fed fields grow the empire's grain, whose conservative landowning nomarchs guard their ancient privileges, and whose temple-cities hold the oldest cults in the realm."
 data:
   banner: takheperubnr
   templatePriority: null
-  demonym: Kheperi
+  demonym: Khelâthi
   epithet: null
   symbol: null
   governance:
     model: monarchy
     summary: >-
-      A class of eighteen river-valley nomes, each under a hereditary Haty'a; the empire's grain basket and the most numerous of the four nome-classes.
+      A class of eighteen river-valley nomes, each under a hereditary Halzi'a; the empire's grain basket and the most numerous of the four selat-classes.
     ranks:
       - level: 0
         title: Outcast
@@ -41,41 +41,41 @@ data:
         description: >-
           Lettered, and therefore the empire's principal path upward: a talented child of any house may enter the schools.
       - level: 5
-        title: Heka'hut
+        title: Legha'lutu
         lore: landedlordrnk
         description: >-
-          Ruler of an estate—its manor, its fields and its village—answerable to the nomarch above.
+          Ruler of an estate—its manor, its fields and its village—answerable to the Halzi'a above.
       - level: 6
-        title: Haty'a
+        title: Halzi'a
         lore: greatlordrnk
         description: >-
-          Nomarch: hereditary governor of a nome, commanding its army, collecting its taxes and dispensing its justice.
+          Nomarch: hereditary governor of a selat, commanding its army, collecting its taxes and dispensing its justice.
       - level: 7
-        title: Iry'pat
+        title: Iru'palu
         lore: greatlordrnk
         description: >-
           Of the royal house and the most exalted families, the highest hereditary rank below the throne.
       - level: 8
-        title: Per-Aá
+        title: Gar-Aû
         lore: sovereignrnk
         description: >-
           The divine sovereign, on whose claim all temple and secular authority rests—a fiction nobody believes and nobody may abandon.
     offices:
-      Haty'a: Nomarch, governing a nome with armies, taxes and courts of his own.
-      Heka'hut: Ruler of an estate—manor, fields and village—answerable to the nomarch.
-      Nebet'hut: Mistress of an estate, holding the same authority in her own right.
-      Nebet: Lady of the court, whose standing comes from position rather than from land.
-      Semer: >-
-        Companion of the Per-Aá: a title of royal favor and access rather than territorial authority.
-      Wer'Hekau: >-
+      Halzi'a: Nomarch, governing a selat with armies, taxes and courts of his own.
+      Legha'lutu: Ruler of an estate—manor, fields and village—answerable to the Halzi'a.
+      Zabet'lutu: Mistress of an estate, holding the same authority in her own right.
+      Zabet: Lady of the court, whose standing comes from position rather than from land.
+      Zemelu: >-
+        Companion of the Gar-Aû: a title of royal favor and access rather than territorial authority.
+      Thâz'Lekhau: >-
         Great of Sacred Power—High Priest of a major temple, master of its estates and voice of its god.
-      Hem'Netjer: >-
+      Lem'Nelgir: >-
         Servant of the God—the ordained priesthood that conducts the rites and runs the temple's lands.
-      Wab: >-
+      Wazu: >-
         Purified One—acolyte in the temple schools, years from ordination and already better educated than most.
       Overseer of Scribes: Head of a bureau of the administration, commanding the lettered men who actually govern.
-      Nomarch's Steward: Administrator of the nome's revenue, its granaries and its corvée.
-      Canal-Warden: Keeper of the irrigation works on which the nome's harvest—and its tax—depends.
+      Nomarch's Steward: Administrator of the selat's revenue, its granaries and its corvée.
+      Canal-Warden: Keeper of the irrigation works on which the selat's harvest—and its tax—depends.
   seat: null
   domains: [takheperurgn]
   population: 8000000
@@ -89,13 +89,13 @@ sohl: {system: {commonSkills: [kheperlng]}}
 
 ## Overview
 
-Upstream of the delta, the great river runs for hundreds of leagues through a narrow, fabulously fertile valley walled by upland on either side—the agricultural heartland of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]. The eighteen **Upper River Nomes** are the most numerous of the four nome-classes and hold the empire's grain. Each year the flood drowns and renews their fields; each harvest fills the granaries that feed the cities and the army. This is the oldest-settled, most thickly templed, most stubbornly traditional country in the realm, and its nomarchs are the conscience and the dead weight of the empire in equal measure.
+Upstream of the delta, the great river runs for hundreds of leagues through a narrow, fabulously fertile valley walled by upland on either side—the agricultural heartland of [[affiliation-empirtkhpr|The Empire of Aû'Khelâthu]]. The eighteen **Upper River Nomes** are the most numerous of the four selat-classes and hold the empire's grain. Each year the flood drowns and renews their fields; each harvest fills the granaries that feed the cities and the army. This is the oldest-settled, most thickly templed, most stubbornly traditional country in the realm, and its nomarchs are the conscience and the dead weight of the empire in equal measure.
 
 ## Character
 
-If the [[affiliation-deltanomes|delta]] is the empire's purse, the upper river is its backbone—and its anchor. The Upper River Haty'a are conservative landowners, hereditary to the bone, who measure wealth in fields and granaries rather than ships and margins, and who guard their traditional privileges against the capital and the delta alike. They resist innovation as a matter of principle, fund the great temples as a matter of piety, and regard the cosmopolitan delta with the suspicion of men who have never needed a foreigner for anything. When a dynasty weakens, it is often an upper-river coalition of nomarchs and temple-priesthoods that decides who sits the throne next.
+If the [[affiliation-deltanomes|delta]] is the empire's purse, the upper river is its backbone—and its anchor. The Upper River Halzi'a are conservative landowners, hereditary to the bone, who measure wealth in fields and granaries rather than ships and margins, and who guard their traditional privileges against the capital and the delta alike. They resist innovation as a matter of principle, fund the great temples as a matter of piety, and regard the cosmopolitan delta with the suspicion of men who have never needed a foreigner for anything. When a dynasty weakens, it is often an upper-river coalition of nomarchs and temple-priesthoods that decides who sits the throne next.
 
-The valley is dense with temple-cities—cult-centers whose gods are older than the dynasties and whose Wer'Hekau command estates rivaling the nomarchs'. Here are the great necropoli, the embalming towns, the scribal schools, and the oldest shrines of the [[affiliation-kemtnpnthn|Kemetian Pantheon]]. Daily life follows the flood: the Season of Inundation when the fields drown and the construction-gangs go to work on the monuments, the Season of Emergence when the valley is planted, and the Season of Harvest when the granaries fill.
+The valley is dense with temple-cities—cult-centers whose gods are older than the dynasties and whose Thâz'Lekhau command estates rivaling the nomarchs'. Here are the great necropoli, the embalming towns, the scribal schools, and the oldest shrines of the [[affiliation-kemtnpnthn|Khelâthi Pantheon]]. Daily life follows the flood: the Season of Inundation when the fields drown and the construction-gangs go to work on the monuments, the Season of Emergence when the valley is planted, and the Season of Harvest when the granaries fill.
 
 ## Economy
 
@@ -111,41 +111,41 @@ Grain—wheat, barley, and millet—is the foundation, grown on flood-silt and o
 
 ## The Nomes
 
-Eighteen nomes make up the upper-river class, each under its hereditary [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]]. Each is treated in its own note; the table below is the roster.
+Eighteen nomes make up the upper-river class, each under its hereditary [[affiliation-empirtkhpr#titles-and-forms-of-address|Halzi'a]]. Each is treated in its own note; the table below is the roster.
 
-| Nome                                           | Seat                              | Patron                                                                 | Population | Character                                                                                                                              |
-| ---------------------------------------------- | --------------------------------- | ---------------------------------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| \*\*[[affiliation-nomenkhstn\|Ankh-Setûn]]\*\* | [[place-ankhsetun\|Ankh-Setûn]]   | [[affiliation-kemtnpnthn\|Má'át]]                                      | ~800,000   | The great granary nome; flood-silt wheatlands, the empire's fullest storehouses, and the river-port of [[place-meruhotep\|Meru-Hotep]] |
-| \*\*[[affiliation-nomekhnsrt\|Khensuret]]\*\*  | [[place-khensuret\|Khensuret]]    | [[affiliation-kemtnpnthn\|Sēker]] / [[affiliation-kemtnpnthn\|Ánubís]] | ~700,000   | The temple-and-necropolis nome; embalming, tomb-building, and the empire's greatest pilgrimage to the lords of the dead                |
-| \*\*[[affiliation-nomeprthth\|Per-Thōth]]\*\*  | [[place-khemenu\|Khemenu]]        | [[affiliation-kemtnpnthn\|Thōth]]                                      | ~700,000   | The scribal nome; the foremost temple of Thōth, the finest scribal schools, and the keepers of the king-lists                          |
-| **[[affiliation-nomeiunet\|Iunet]]**           | [[place-iunet\|Iunet]]            | [[affiliation-kemtnpnthn\|Íšét]]                                       | ~560,000   | Healing-temples and birth-shrines; the great cult of the mother-goddess                                                                |
-| **[[affiliation-nometawer\|Ta-Wer]]**          | [[place-tjenu\|Tjenu]]            | [[affiliation-kemtnpnthn\|Ánubís]]                                     | ~520,000   | "The Great Land"—an ancient royal nome and old burial-ground of the first dynasties                                                    |
-| **[[affiliation-nomeneferu\|Neferusi]]**       | [[place-neferusi\|Neferusi]]      | [[affiliation-kemtnpnthn\|Ptā'h]]                                      | ~500,000   | Stone-quarries and master masons; the temple-workshops that carve the monuments                                                        |
-| **[[affiliation-nomehtpthr\|Hut-Ptah-Resu]]**  | [[place-hutptah\|Hut-Ptah]]       | [[affiliation-kemtnpnthn\|Ptā'h]]                                      | ~480,000   | Smith-towns and craft-temples; bronze, gold, and the ceremonial arms of the nobility                                                   |
-| **[[affiliation-nomeseptmi\|Sept-Min]]**       | [[place-ipu\|Ipu]]                | [[affiliation-min\|Min]] (fertility-god)                               | ~460,000   | Caravan-head for the eastern desert roads; harvest-festivals and virility cults                                                        |
-| **[[affiliation-nomeiperu\|Iperu]]**           | [[place-iperu\|Iperu]]            | [[affiliation-kemtnpnthn\|Rā]]                                         | ~440,000   | Sun-temples and wide irrigated wheatland                                                                                               |
-| **[[affiliation-nomekhenet\|Khenet-Ta]]**      | [[place-khenetta\|Khenet-Ta]]     | [[affiliation-kemtnpnthn\|Má'át]]                                      | ~420,000   | Old assize-courts; a nome famous for its lawyer-priests and land-survey scribes                                                        |
-| **[[affiliation-nomepekhen\|Pekhenu]]**        | [[place-pekhenu\|Pekhenu]]        | [[affiliation-kemtnpnthn\|Thōth]]                                      | ~400,000   | Library-temples and astronomers; the calendar-keepers of the middle river                                                              |
-| **[[affiliation-nomesbtrnp\|Sebt-Renpet]]**    | [[place-sebtrenpet\|Sebt-Renpet]] | [[affiliation-kemtnpnthn\|Sēker]]                                      | ~380,000   | Cavern-tombs and natron; a workmanlike mortuary nome                                                                                   |
-| **[[affiliation-nomewadjmu\|Wadj-Mu]]**        | [[place-wadjmu\|Wadj-Mu]]         | [[affiliation-kemtnpnthn\|Hápi]]                                       | ~360,000   | "Green Waters"—marshy floodbasin, flax and waterfowl, the wettest of the upper nomes                                                   |
-| **[[affiliation-nomehnnnst\|Henen-Nesut]]**    | [[place-henennesut\|Henen-Nesut]] | [[affiliation-kemtnpnthn\|Rā]]                                         | ~340,000   | An old capital of a former dynasty, proud and faded; ram-cult and horse-pasture                                                        |
-| **[[affiliation-nomeanptkh\|Anpet-Khent]]**    | [[place-anpet\|Anpet]]            | [[affiliation-kemtnpnthn\|Ánubís]]                                     | ~320,000   | Jackal-cult and desert-edge tombs; embalmers and tomb-guards                                                                           |
-| **[[affiliation-nomemaruat\|Maru-Aten]]**      | [[place-maruaten\|Maru-Aten]]     | [[affiliation-kemtnpnthn\|Rā]]                                         | ~300,000   | A planned temple-city of one zealous dynasty, half-abandoned, still inhabited                                                          |
-| **[[affiliation-nomeperhut\|Per-Hût]]**        | [[place-perhut\|Per-Hût]]         | [[affiliation-kemtnpnthn\|Íšét]]                                       | ~240,000   | A small, devout nome of healing-shrines and herb-gardens                                                                               |
-| **[[affiliation-nomeiathem\|Iat-Hemet]]**      | [[place-iathemet\|Iat-Hemet]]     | [[affiliation-sobek\|Sobek]] (crocodile-god)                           | ~80,000    | The smallest upper nome; a narrow gorge-stretch where the valley pinches to almost nothing                                             |
+| Nome                                               | Seat                              | Patron                                                                    | Population | Character                                                                                                                               |
+| -------------------------------------------------- | --------------------------------- | ------------------------------------------------------------------------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| \*\*[[affiliation-nomenkhstn\|Ankh-Setûn]]\*\*     | [[place-ankhsetun\|Ankh-Setûn]]   | [[affiliation-kemtnpnthn\|Qe'âret]]                                       | ~800,000   | The great granary selat; flood-silt wheatlands, the empire's fullest storehouses, and the river-port of [[place-meruhotep\|Meru-Hotep]] |
+| \*\*[[affiliation-nomekhnsrt\|Khelzuret]]\*\*      | [[place-khensuret\|Khelzuret]]    | [[affiliation-kemtnpnthn\|Wethûr]] / [[affiliation-kemtnpnthn\|Hezmuîri]] | ~700,000   | The temple-and-necropolis selat; embalming, tomb-building, and the empire's greatest pilgrimage to the lords of the dead                |
+| \*\*[[affiliation-nomeprthth\|Gar-Reth'Sa'âr]]\*\* | [[place-khemenu\|Khelunu]]        | [[affiliation-kemtnpnthn\|Reth'Sa'âr]]                                    | ~700,000   | The scribal selat; the foremost temple of Reth'Sa'âr, the finest scribal schools, and the keepers of the king-lists                     |
+| **[[affiliation-nomeiunet\|Iuthnet]]**             | [[place-iunet\|Iuthnet]]          | [[affiliation-kemtnpnthn\|Uznêra]]                                        | ~560,000   | Healing-temples and birth-shrines; the great cult of the mother-goddess                                                                 |
+| **[[affiliation-nometawer\|Zu-Wer]]**              | [[place-tjenu\|Tjegu]]            | [[affiliation-kemtnpnthn\|Hezmuîri]]                                      | ~520,000   | "The Great Land"—an ancient royal selat and old burial-ground of the first dynasties                                                    |
+| **[[affiliation-nomeneferu\|Legirusi]]**           | [[place-neferusi\|Legirusi]]      | [[affiliation-kemtnpnthn\|Psaq'âru]]                                      | ~500,000   | Stone-quarries and master masons; the temple-workshops that carve the monuments                                                         |
+| **[[affiliation-nomehtpthr\|Lut-Ptah-Zalu]]**      | [[place-hutptah\|Lut-Ptah]]       | [[affiliation-kemtnpnthn\|Psaq'âru]]                                      | ~480,000   | Smith-towns and craft-temples; bronze, gold, and the ceremonial arms of the nobility                                                    |
+| **[[affiliation-nomeseptmi\|Selat-Pelgun]]**       | [[place-ipu\|Iqu]]                | [[affiliation-min\|Pelgun]] (fertility-god)                               | ~460,000   | Caravan-head for the eastern desert roads; harvest-festivals and virility cults                                                         |
+| **[[affiliation-nomeiperu\|Iperu]]**               | [[place-iperu\|Iperu]]            | [[affiliation-kemtnpnthn\|Uqa'â]]                                         | ~440,000   | Sun-temples and wide irrigated wheatland                                                                                                |
+| **[[affiliation-nomekhenet\|Khenet-Ta]]**          | [[place-khenetta\|Khenet-Ta]]     | [[affiliation-kemtnpnthn\|Qe'âret]]                                       | ~420,000   | Old assize-courts; a selat famous for its lawyer-priests and land-survey scribes                                                        |
+| **[[affiliation-nomepekhen\|Pekhenu]]**            | [[place-pekhenu\|Pekhenu]]        | [[affiliation-kemtnpnthn\|Reth'Sa'âr]]                                    | ~400,000   | Library-temples and astronomers; the calendar-keepers of the middle river                                                               |
+| **[[affiliation-nomesbtrnp\|Sebt-Renpet]]**        | [[place-sebtrenpet\|Sebt-Renpet]] | [[affiliation-kemtnpnthn\|Wethûr]]                                        | ~380,000   | Cavern-tombs and natron; a workmanlike mortuary selat                                                                                   |
+| **[[affiliation-nomewadjmu\|Wadj-Mu]]**            | [[place-wadjmu\|Wadj-Mu]]         | [[affiliation-kemtnpnthn\|Hápi]]                                          | ~360,000   | "Green Waters"—marshy floodbasin, flax and waterfowl, the wettest of the upper nomes                                                    |
+| **[[affiliation-nomehnnnst\|Lenen-Nezut]]**        | [[place-henennesut\|Lenen-Nezut]] | [[affiliation-kemtnpnthn\|Uqa'â]]                                         | ~340,000   | An old capital of a former dynasty, proud and faded; ram-cult and horse-pasture                                                         |
+| **[[affiliation-nomeanptkh\|Anzet-Khent]]**        | [[place-anpet\|Anzet]]            | [[affiliation-kemtnpnthn\|Hezmuîri]]                                      | ~320,000   | Jackal-cult and desert-edge tombs; embalmers and tomb-guards                                                                            |
+| **[[affiliation-nomemaruat\|Magu-Aten]]**          | [[place-maruaten\|Magu-Aten]]     | [[affiliation-kemtnpnthn\|Uqa'â]]                                         | ~300,000   | A planned temple-city of one zealous dynasty, half-abandoned, still inhabited                                                           |
+| **[[affiliation-nomeperhut\|Gar-Hût]]**            | [[place-perhut\|Gar-Hût]]         | [[affiliation-kemtnpnthn\|Uznêra]]                                        | ~240,000   | A small, devout selat of healing-shrines and herb-gardens                                                                               |
+| **[[affiliation-nomeiathem\|Yath-Hemet]]**         | [[place-iathemet\|Yath-Hemet]]    | [[affiliation-sobek\|Tjelsuk]] (crocodile-god)                            | ~80,000    | The smallest upper selat; a narrow gorge-stretch where the valley pinches to almost nothing                                             |
 
 Upper-river subtotal: **~8,000,000**.
 
 ## For the Worldbuilder
 
-The upper river is the empire's deep, conservative interior—temple-bound, hereditary, and slow to change. Run it as a country of granaries and gods, where the real powers are the landowning Haty'a and the Wer'Hekau of the great cult-temples, and where the capital's writ runs only as far as the nomarchs allow. Adventure here is older and stranger than in the delta: tomb-robbery and the curses that guard against it, temple politics and cult rivalries, succession-intrigue among hereditary houses, the embalmers' guilds and their secrets, flood-failure and famine, banditry in the desert-edge tombs, and the slow grinding feud between river-traditionalists and the Per-Aá's reformers. What is abundant here is grain, stone, linen, and faith; what is scarce is coin, foreign news, and any appetite for novelty.
+The upper river is the empire's deep, conservative interior—temple-bound, hereditary, and slow to change. Run it as a country of granaries and gods, where the real powers are the landowning Halzi'a and the Thâz'Lekhau of the great cult-temples, and where the capital's writ runs only as far as the nomarchs allow. Adventure here is older and stranger than in the delta: tomb-robbery and the curses that guard against it, temple politics and cult rivalries, succession-intrigue among hereditary houses, the embalmers' guilds and their secrets, flood-failure and famine, banditry in the desert-edge tombs, and the slow grinding feud between river-traditionalists and the Gar-Aû's reformers. What is abundant here is grain, stone, linen, and faith; what is scarce is coin, foreign news, and any appetite for novelty.
 
 ## Commerce and Currency
 
-The Upper River Nomes use the [[lore-tkhprcrncy|Ta'Kheperu currency system]], but much of the valley economy runs on grain-render and temple-account rather than struck weight-metal; the [[affiliation-perhati|Pér-Háti]] temple-treasuries hold tax-grain as readily as silver, and a nomarch's wealth is reckoned in granaries as much as in deben. See [[lore-tkhprcrncy|Ta'Kheperu Currency]] for the full system.
+The Upper River Nomes use the [[lore-tkhprcrncy|Aû'Khelâthu currency system]], but much of the valley economy runs on grain-render and temple-account rather than struck weight-metal; the [[affiliation-perhati|Gár-Hálzi]] temple-treasuries hold tax-grain as readily as silver, and a Halzi'a's wealth is reckoned in granaries as much as in gezan. See [[lore-tkhprcrncy|Aû'Khelâthu Currency]] for the full system.
 
 ## See Also
 
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Parent empire
-- [[affiliation-deltanomes|The Delta Nomes]], [[affiliation-bordernoms|The Border Nomes]], [[affiliation-capitalnom|The Capital Nome]]—Sister nome-classes
-- [[affiliation-kemtnpnthn|Kemetian]]—Pantheon · [[skill-kheperlng|Kheperi]]—Naming
+- [[affiliation-empirtkhpr|The Empire of Aû'Khelâthu]]—Parent empire
+- [[affiliation-deltanomes|The Delta Nomes]], [[affiliation-bordernoms|The Border Nomes]], [[affiliation-capitalnom|The Capital Nome]]—Sister selat-classes
+- [[affiliation-kemtnpnthn|Khelâthi]]—Pantheon · [[skill-kheperlng|Khelâthi]]—Naming

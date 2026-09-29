@@ -54,12 +54,12 @@ than any home-grown tradition.
 The region is the territory of the [[affiliation-mtrrchybth|Matriarchy of Bethûa]].
 Along its southern margins, Okháric frontier clans pay tribute to Bethûan
 authorities in exchange for grazing rights; its eastern frontier with
-[[place-takheperurgn|Ta'Kheperu]] is poorly defined and a recurring source of
+[[place-takheperurgn|Aû'Khelâthu]] is poorly defined and a recurring source of
 friction.
 
 ## See Also
 
 - [[place-nrthrnfrtlrgn|Northern Fertile Region]]—the parent region
 - [[affiliation-mtrrchybth|Matriarchy of Bethûa]]—the realm that holds this region
-- [[place-takheperurgn|Ta'Kheperu Region]]—neighbor to the east
+- [[place-takheperurgn|Aû'Khelâthu Region]]—neighbor to the east
 - [[place-okharisrgn|Okháris Region]]—neighbor to the south

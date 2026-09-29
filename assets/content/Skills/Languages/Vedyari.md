@@ -106,7 +106,7 @@ Classical Vedyari follows a **Subject-Object-Verb (SOV)** order in main clauses,
 
 ### Proto-Vedyari
 
-Vedyari's roots lie in an isolate family with no clear external relations, on the evidence of the archaic ritual texts and the etymologies. Some scholars propose remote connections to the tongues of the far east (_Tānvüri_) and the southwest (_Kheperi_). Nobody has shown one.
+Vedyari's roots lie in an isolate family with no clear external relations, on the evidence of the archaic ritual texts and the etymologies. Some scholars propose remote connections to the tongues of the far east (_Tānvüri_) and the southwest (_Khelâthi_). Nobody has shown one.
 
 ### Classical Period (Age of Kingdoms)
 
@@ -156,7 +156,7 @@ Classical Vedyari remains largely frozen in literature and formal address, but v
 
 While Vedyari remains an isolate, linguistic diffusion from neighboring regions has created a zone of areal features:
 
-- **Kheperi:** Some scholars note possible loan words in the domains of ritual and royal administration, though the borrowing direction remains disputed
+- **Khelâthi:** Some scholars note possible loan words in the domains of ritual and royal administration, though the borrowing direction remains disputed
 - **Okháric:** Limited mutual intelligibility; some lexical similarities in trade vocabulary, possibly mediated through intermediary contact
 - **Minor Trade Linguas:** Vedyari speakers have influenced and been influenced by simplified pidgins used in maritime commerce, particularly in the harbors of southern city-states
 

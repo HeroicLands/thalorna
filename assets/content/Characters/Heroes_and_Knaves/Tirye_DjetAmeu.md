@@ -428,7 +428,7 @@ Tirye stands 5'4" tall with a light build. She has dark skin, black hair, and br
 
 ### The Daughter of Performance
 
-Born in 691 in one of [[affiliation-empirtkhpr|Ta'Kheperu]]'s greatest theatrical centers, Tirye was practically delivered upon a stage—her parents were both established performers in the grand tradition of Kemetían theater, known for their emotional intensity and interpretive brilliance. From infancy, she was surrounded by rehearsals, costuming, and the intoxicating atmosphere of artistic creation. Rather than a conventional education, she received training in movement, voice, character work, and the elaborate mythology of the Kemetían Pantheon from the finest theatrical masters in the empire. Her dragonfly tattoo, received at the age of thirteen during a mystical retreat, marked her formal dedication to the art and her spiritual commitment to the goddess of transformation.
+Born in 691 in one of [[affiliation-empirtkhpr|Aû'Khelâthu]]'s greatest theatrical centers, Tirye was practically delivered upon a stage—her parents were both established performers in the grand tradition of Khelâthi theater, known for their emotional intensity and interpretive brilliance. From infancy, she was surrounded by rehearsals, costuming, and the intoxicating atmosphere of artistic creation. Rather than a conventional education, she received training in movement, voice, character work, and the elaborate mythology of the Khelâthi Pantheon from the finest theatrical masters in the empire. Her dragonfly tattoo, received at the age of thirteen during a mystical retreat, marked her formal dedication to the art and her spiritual commitment to the goddess of transformation.
 
 ### The Rising Star
 
@@ -444,7 +444,7 @@ Behind her luminous stage presence, Tirye battles inner demons that threaten to 
 
 Tirye is both intense and fragile, confident on stage and uncertain in life. On the boards, she is commanding, magnetic, fully present—a presence that seems to enlarge to fill entire amphitheaters. Away from performance, she becomes noticeably quieter, more reserved, almost tentative in company. She is a sharp observer, constantly studying people, collecting mannerisms and speech patterns, always somewhat in performance even in ostensibly private moments.
 
-Her creativity is extraordinary and seems almost to drive her; she experiences the world through an artistic lens, constantly considering how situations might be portrayed, how emotions might be expressed through movement and voice. She is deeply spiritual, approaching her art as a sacred practice devoted to [[lore-hapidty|Hâpi]] and the cosmic principle of transformation. Yet this same intensity can render her emotionally volatile—she experiences moods with theatrical extremity, swinging between exultant confidence and bottomless despair often without apparent external cause. Those close to her have learned to weather these emotional storms, understanding that they are intrinsic to the tempestuous genius that makes her such a compelling performer.
+Her creativity is extraordinary and seems almost to drive her; she experiences the world through an artistic lens, constantly considering how situations might be portrayed, how emotions might be expressed through movement and voice. She is deeply spiritual, approaching her art as a sacred practice devoted to [[lore-hapidty|Thubâ'i]] and the cosmic principle of transformation. Yet this same intensity can render her emotionally volatile—she experiences moods with theatrical extremity, swinging between exultant confidence and bottomless despair often without apparent external cause. Those close to her have learned to weather these emotional storms, understanding that they are intrinsic to the tempestuous genius that makes her such a compelling performer.
 
 She maintains careful control over her public image, always gracious to admirers and patrons, yet hoards her true friendships fiercely and guards her private self with almost paranoid vigilance. There is a loneliness at her core—a sense that to be truly known would be to be diminished, that her mystique is inseparable from her artistic power.
 
@@ -478,7 +478,7 @@ Tirye is driven by an insatiable hunger to create beauty and truthfulness in art
 
 - **Physical Vulnerability**: Despite her grace and strength, she lacks combat training and possesses little physical resilience; she tires easily and cannot sustain intensive physical exertion.
 
-- **Spiritual Dependency**: Her connection to Hâpi and her mystical practices can become obsessive; she is vulnerable to spiritual charlatans and may make decisions based on superstition rather than reason.
+- **Spiritual Dependency**: Her connection to Thubâ'i and her mystical practices can become obsessive; she is vulnerable to spiritual charlatans and may make decisions based on superstition rather than reason.
 
 ## Social
 
@@ -488,7 +488,7 @@ Tirye is driven by an insatiable hunger to create beauty and truthfulness in art
 
 - **Master Playwright Khenti**: The City Theater Company's head writer who has become something of a mentor figure and advocate; he deliberately writes roles showcasing Tirye's particular gifts and has begun to champion her for imperial commissions.
 
-- **Priestess Sentayet**: A priestess of Hâpi in the temple district who has become Tirye's spiritual advisor, guiding her practice and helping her through the spiritual dimensions of her art.
+- **Priestess Sentayet**: A priestess of Thubâ'i in the temple district who has become Tirye's spiritual advisor, guiding her practice and helping her through the spiritual dimensions of her art.
 
 - **The Merchant Prince Aahmes**: A wealthy collector of fine art and patron of performers who has recently become fascinated with Tirye's work and has begun offering generous patronage and connections to elite audiences.
 
@@ -504,13 +504,13 @@ Tirye is driven by an insatiable hunger to create beauty and truthfulness in art
 
 - **City Theater Company**: A senior member of the ensemble, though not yet achieving official leadership status; she is the Company's most celebrated performer and acts as a subtle informal mentor to younger actresses.
 
-- **The Artistic Collective of Hâpi**: A group of performers, painters, and musicians dedicated to exploring the spiritual dimensions of art and maintaining the Kemetían artistic traditions; Tirye is a committed though sometimes erratic participant.
+- **The Artistic Collective of Thubâ'i**: A group of performers, painters, and musicians dedicated to exploring the spiritual dimensions of art and maintaining the Khelâthi artistic traditions; Tirye is a committed though sometimes erratic participant.
 
 ## Plot Hooks
 
 1. **The Inheritance of Impossible Expectation**: Tirye receives word that her retired mother has fallen gravely ill and wishes to see her before death—but has also declared that she will disinherit Tirye unless the young woman agrees to abandon theater and marry a respectable merchant, settling into domestic life as is proper. Tirye must journey to her mother's home, facing family expectations, cultural pressures, and her own deep ambivalence. The situation grows complex when she discovers that her mother's illness may be financially motivated manipulation by relatives seeking to control the family estate, and that her mother may be using Tirye's stage work as leverage in family power struggles.
 
-2. **The Lost Script and the Dangerous Truth**: A mysterious collector approaches Tirye with a fragment of an ancient Kemetían text—portions of a sacred theatrical cycle that was officially suppressed centuries ago. The script is extraordinary, a piece of artistic genius, and the role it contains seems written specifically for Tirye's gifts. Yet performing it would violate religious taboo and invite powerful clerical opposition. As Tirye researches the text's origins, she uncovers disturbing historical truths about why the script was suppressed—it allegedly contained critiques of the priesthood and revelations about divine corruption that threatened institutional power.
+2. **The Lost Script and the Dangerous Truth**: A mysterious collector approaches Tirye with a fragment of an ancient Khelâthi text—portions of a sacred theatrical cycle that was officially suppressed centuries ago. The script is extraordinary, a piece of artistic genius, and the role it contains seems written specifically for Tirye's gifts. Yet performing it would violate religious taboo and invite powerful clerical opposition. As Tirye researches the text's origins, she uncovers disturbing historical truths about why the script was suppressed—it allegedly contained critiques of the priesthood and revelations about divine corruption that threatened institutional power.
 
 3. **The Doppelgänger**: Tirye begins encountering a woman who looks nearly identical to her in the streets of the city—same face, same bearing, yet something fundamentally wrong about the presentation. The woman performs in a rival theater, giving increasingly acclaimed performances in roles Tirye was passed over for. Investigation suggests the woman may actually be Tirye's previously unknown twin sister, separated at birth and raised in different circumstances. The reunion is complicated by competing ambitions and the revelation that the rival theater may have deliberately engineered the deception to exploit the theatrical intrigue. If an identical person can achieve equal success, Tirye's sense of a special artistic destiny is in question.
 

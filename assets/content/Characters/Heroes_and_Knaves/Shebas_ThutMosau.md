@@ -1,10 +1,10 @@
 ---
 shortcode: shebsthtms
 name:
-  full: Shebas Thut'Mosau
+  full: Shebas Retha'Mosau
   title: ""
   given: Shebas
-  clan: Thut'Mosau
+  clan: Retha'Mosau
   home: ankhsetun
   aliases: []
 type: being
@@ -429,7 +429,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[shebsthtms|Shebas Thut'Mosau]]{float=top-left}
+![[shebsthtms|Shebas Retha'Mosau]]{float=top-left}
 
 Shebas stands 5'7" tall with a light build. She has deep bronze skin, jet black hair, and black eyes. Her features include an aquiline nose, a gentle jawline, and elegantly curved brows. She has a scar on her left arm.
 
@@ -439,7 +439,7 @@ Shebas stands 5'7" tall with a light build. She has deep bronze skin, jet black 
 
 ### Early Life and Loss
 
-Shebas was born in the capital city of the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]] into the moderately wealthy Thut'Mosau family, merchants of spices and exotic goods. Her childhood was comfortable, filled with the abundance that merchant wealth provided. However, at age eight, a terrible plague swept through the lower quarters of the city where her family maintained warehouses and trading posts. Shebas's younger brother, only four years old, contracted the plague despite their family's wealth and protection. She watched her parents employ physician after physician, spend vast sums on treatments and remedies, but none could save the boy. The child died screaming in pain, and young Shebas was left with the conviction that there must be a better way, that someone could have saved her brother if only they had possessed proper knowledge.
+Shebas was born in the capital city of the Empire of [[affiliation-empirtkhpr|Aû'Khelâthu]] into the moderately wealthy Retha'Mosau family, merchants of spices and exotic goods. Her childhood was comfortable, filled with the abundance that merchant wealth provided. However, at age eight, a terrible plague swept through the lower quarters of the city where her family maintained warehouses and trading posts. Shebas's younger brother, only four years old, contracted the plague despite their family's wealth and protection. She watched her parents employ physician after physician, spend vast sums on treatments and remedies, but none could save the boy. The child died screaming in pain, and young Shebas was left with the conviction that there must be a better way, that someone could have saved her brother if only they had possessed proper knowledge.
 
 After her brother's death, Shebas became obsessed with learning every remedy, every healing art, every herb that might have helped him. Her parents, grieving and indulgent, allowed her to apprentice with an elderly apothecary named **[[being-mesharawse|Meshara the Wise]]**, a woman of great skill who had served the city's poor for decades.
 
@@ -497,7 +497,7 @@ Shebas is fundamentally driven by a desire that no one should suffer as her brot
 
 - **The City's Poor and Laboring Classes**: Shebas's primary patrons, though they rarely pay in conventional coin. They repay her kindness with loyalty, gratitude, and protection. If anyone threatened Shebas, they would respond with fierce devotion.
 
-- **The Temple of [[lore-setdty|Sét]]**: Though Shebas worships Sét, the god of storms, the local temple occasionally sends patients to her and provides her with access to their herbalist's library and resources.
+- **The Temple of [[lore-setdty|Tjaq'ûr]]**: Though Shebas worships Tjaq'ûr, the god of storms, the local temple occasionally sends patients to her and provides her with access to their herbalist's library and resources.
 
 - **Wealthy Merchants Seeking Discretion**: A few affluent clients seek Shebas specifically because they trust her discretion and know she will never betray their confidences. These clients pay well and help sustain her practice.
 
@@ -513,7 +513,7 @@ Shebas is fundamentally driven by a desire that no one should suffer as her brot
 
 - **Independent Apothecary**: Shebas operates her own practice without formal affiliation to any larger institution, though she maintains good standing with the Apothecaries' Guild (which she pays dues to, even if she often disagrees with their practices).
 
-- **The Temples of Ta'Kheperu**: While not a priestess, Shebas maintains relationships with multiple temples and shares knowledge with their healers.
+- **The Temples of Aû'Khelâthu**: While not a priestess, Shebas maintains relationships with multiple temples and shares knowledge with their healers.
 
 - **The Community of the Lower Quarters**: Informal but strong affiliation with the neighborhoods she serves, who view her as one of their own and would rally to her defense.
 

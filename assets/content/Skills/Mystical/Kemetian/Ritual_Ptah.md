@@ -1,8 +1,8 @@
 ---
 shortcode: ptah
 name:
-  full: "Ritual: Ptā'h"
-  aliases: [Ptā'h, Ptah, Phtah, The Shaper of the Eternal World, The Divine Craftsman]
+  full: "Ritual: Psaq'âru"
+  aliases: [Psaq'âru, Ptah, Phtah, The Shaper of the Eternal World, The Divine Craftsman]
 type: skill
 subType: mystical
 tags: [kemetian, faith-skill, draft]
@@ -17,4 +17,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-ptah|Faith of Ptā'h]]
+See [[affiliation-ptah|Faith of Psaq'âru]]

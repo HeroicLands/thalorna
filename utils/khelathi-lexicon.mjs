@@ -54,10 +54,15 @@ const CONTENT_DIR = "assets/content";
  * nothing else, so the scan asks first whether a note is Khelâthi at all —
  * by where it lives, by the culture it declares, by the pack it compiles into,
  * or by naming the people in its own text.
+ *
+ * **The test names the people both ways, old and new.** A note swept early would
+ * otherwise fall out of scope the moment its last `Kheperi` became `Khelâthi`,
+ * taking its unswept ranks and places with it — the sweep would report itself
+ * finished by shrinking what it was willing to look at.
  */
 const IN_SCOPE_PATH = /Ta\.Kheperu|Kemetian|Okharis/;
 const IN_SCOPE_TEXT =
-    /(?<![\p{L}])(Kheperi|Kheperan|Kheperian|Kemet[ií]an|Ta'Kheperu|khepericlt|takheperu)(?![\p{L}])/u;
+    /(?<![\p{L}])(Kheperi|Kheperan|Kheperian|Kemet[ií]an|Ta'Kheperu|khepericlt|takheperu|Khelâthi|Khelâthu|Aû'Khelâthu|khelathiclt|khelathu)(?![\p{L}])/u;
 
 /** @param {string} file @param {string} text @returns {boolean} */
 function inScope(file, text) {
@@ -272,17 +277,22 @@ export function checkMapping(pairs) {
  */
 export function checkTree(pairs, files, counts = new Map()) {
     const out = [];
-    const patterns = pairs.map((pair) => ({
-        ...pair,
-        // A leading or trailing hyphen marks an affix, which needs no boundary
-        // on the joined side.
-        rx: new RegExp(
-            (pair.retired.startsWith("-") ? "" : "(?<![\\p{L}\\p{M}])") +
-                pair.retired.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") +
-                (pair.retired.endsWith("-") ? "" : "(?![\\p{L}\\p{M}])"),
-            "gu",
-        ),
-    }));
+    // A generator builds names; it is not a token to hunt in prose. `sat` and
+    // `ren` are English words, and a scan that flagged them would report a
+    // Haradian note's "sat uncomfortably" as a surviving Khelâthi morpheme.
+    const patterns = pairs
+        .filter((pair) => !pair.generator)
+        .map((pair) => ({
+            ...pair,
+            // A leading or trailing hyphen marks an affix, which needs no boundary
+            // on the joined side.
+            rx: new RegExp(
+                (pair.retired.startsWith("-") ? "" : "(?<![\\p{L}\\p{M}])") +
+                    pair.retired.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") +
+                    (pair.retired.endsWith("-") ? "" : "(?![\\p{L}\\p{M}])"),
+                "gu",
+            ),
+        }));
 
     for (const file of files) {
         const source = fs.readFileSync(file, "utf8");

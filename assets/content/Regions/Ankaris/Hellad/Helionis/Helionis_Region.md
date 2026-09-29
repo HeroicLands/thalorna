@@ -59,7 +59,7 @@ But the relationship remains complicated. The Helionite tradition of independent
 
 Heliónis was conquered by the Vylarian Republic around 300 BF, during the Republic's aggressive expansion across the Vylarian Sea. The conquest was military; what followed was cultural reverse-colonization. Vylaria dominated Heliónis politically, but Helionite culture, education, philosophy, and arcane scholarship profoundly reshaped Vylaria in return. The Republic's legal tradition drew on Helionite political theory; its theology gained Helionite sophistication; and the [[affiliation-ordoarcanis|Ordo Arcanis]] itself was built on Helionite intellectual foundations. Vylarian aristocrats have sent their children to Helionite academies for centuries, and the most educated Vylarians speak Helonic as a second language. As the Empire declines, Heliónis has regained practical independence while maintaining formal ties. The relationship is that of a grown child to an aging parent—respectful, complicated, and occasionally resentful.
 
-[[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] across the southern sea is an ancient civilization with which Heliónis has exchanged ideas for centuries. The two cultures share a mutual respect and a long history of intellectual cross-pollination—Helionite philosophy has influenced Kheperi theological debate, and Kheperi mathematics, astronomy, and architectural knowledge have enriched Helionite scholarship. The relationship is warmer and more equal than Heliónis's entanglement with Vylaria.
+[[affiliation-empirtkhpr|The Empire of Aû'Khelâthu]] across the southern sea is an ancient civilization with which Heliónis has exchanged ideas for centuries. The two cultures share a mutual respect and a long history of intellectual cross-pollination—Helionite philosophy has influenced Khelâthi theological debate, and Khelâthi mathematics, astronomy, and architectural knowledge have enriched Helionite scholarship. The relationship is warmer and more equal than Heliónis's entanglement with Vylaria.
 
 [[affiliation-cnfdrtnhrdnstts|Harad]] across the eastern sea is a natural trading partner, and Helionite goods (particularly olive oil, wine, and luxury crafts) flow through Haradian ports to markets across the world. [[place-provenzrgn|Provènzia Region]] is a cultural rival and admirer—the Provenzians have adopted much of Helionite philosophy and art, sometimes to the Helionites' annoyance. Relations with [[place-byzariargn|Byzaría Region]] to the east are complex, as the two regions share cultural roots but have diverged over centuries.
 
@@ -74,7 +74,7 @@ Heliónis was conquered by the Vylarian Republic around 300 BF, during the Repub
 ## See Also
 
 - [[affiliation-vylarinmpr|Vylarian Empire]]—Former imperial overlord (but profound mutual cultural influence)
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Ancient intellectual exchange partner
+- [[affiliation-empirtkhpr|The Empire of Aû'Khelâthu]]—Ancient intellectual exchange partner
 - [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—Eastern trading partner
 - [[place-provenzrgn|Provènzia Region]]—Cultural rival and admirer
 - [[place-byzariargn|Byzaría Region]]—Eastern neighbor

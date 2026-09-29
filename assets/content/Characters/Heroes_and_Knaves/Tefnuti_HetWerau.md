@@ -436,7 +436,7 @@ Tefnutî stands 5'10" tall with a medium build. He has warm amber skin, gray hai
 
 # Dossier {#dossier}
 
-Tefnutî was born into a family of toymakers in the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]], in a tradition stretching back seven generations. His great-grandfather had been commissioned by an imperial prince to create mechanical toys of extraordinary ingenuity, work that established the family's reputation for invention and precision. Tefnutî's own father, Pakhoti, had expanded the family trade significantly, introducing mechanisms of increasing complexity while maintaining a commitment to beauty and craftsmanship.
+Tefnutî was born into a family of toymakers in the Empire of [[affiliation-empirtkhpr|Aû'Khelâthu]], in a tradition stretching back seven generations. His great-grandfather had been commissioned by an imperial prince to create mechanical toys of extraordinary ingenuity, work that established the family's reputation for invention and precision. Tefnutî's own father, Pakhoti, had expanded the family trade significantly, introducing mechanisms of increasing complexity while maintaining a commitment to beauty and craftsmanship.
 
 From earliest childhood, Tefnutî was trained in the family traditions. Unlike some toymakers who view their work as frivolous entertainment, the Het'Werau family understood that toys were miniature worlds—opportunities to teach mechanics, aesthetics, and imagination. Tefnutî exceeded even his father's capabilities, developing new techniques for creating clockwork mechanisms of breathtaking intricacy. By his thirties, his toys were so much in demand among wealthy families and collectors that his wait list extended years into the future.
 
@@ -484,7 +484,7 @@ Tefnutî's primary motivation is the creation of mechanical perfection—toys th
 
 ### Patrons
 
-- **Lady Sekhmet Ashkahar**: An elderly widow of great wealth and refined taste who has become Tefnutî's primary patron over the past decade. She commissions elaborate mechanical sculptures for her private collection and appreciates his perfectionism as an expression of respect for craft itself.
+- **Lady Uzner Ashkahar**: An elderly widow of great wealth and refined taste who has become Tefnutî's primary patron over the past decade. She commissions elaborate mechanical sculptures for her private collection and appreciates his perfectionism as an expression of respect for craft itself.
 
 - **Scholar-Collector Khâden Isa'Hetu**: A historian and antiquarian who employs Tefnutî to create accurate mechanical reproductions of ancient devices based on historical records and archaeological findings. Their collaboration has produced some of Tefnutî's most celebrated works.
 
@@ -500,7 +500,7 @@ Tefnutî's primary motivation is the creation of mechanical perfection—toys th
 
 ### Affiliations
 
-- **the Toymakers' Guild of Ta'Kheperu**: Tefnutî holds membership and retains significant prestige within the guild, though he frequently clashes with guild leadership over standards and methods. He serves on the guild's standards committee, where he advocates for stricter quality requirements.
+- **the Toymakers' Guild of Aû'Khelâthu**: Tefnutî holds membership and retains significant prestige within the guild, though he frequently clashes with guild leadership over standards and methods. He serves on the guild's standards committee, where he advocates for stricter quality requirements.
 
 - **the Het'Werau Craftsman Lineage**: An informal family legacy and tradition spanning seven generations, of which Tefnutî is the current master. He has become increasingly protective of family techniques and secretive about his methods.
 

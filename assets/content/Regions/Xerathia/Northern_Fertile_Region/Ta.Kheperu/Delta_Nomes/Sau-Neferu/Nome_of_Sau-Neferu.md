@@ -1,19 +1,19 @@
 ---
 shortcode: nomesaunfr
-name: {full: The Nome of Sau-Neferu, aliases: []}
+name: {full: The Nome of Gau-Neferu, aliases: []}
 type: affiliation
 subType: polity
-description: "The garden-coast nome of the Ta'Kheperu delta—a wet, mild strip of citrus orchards, olive groves, vineyards, and date plantations along the Vylarian shore, dotted with the country villas of the delta merchant-princes and producing the empire's finest luxury crops."
+description: "The garden-coast selat of the Aû'Khelâthu delta—a wet, mild strip of citrus orchards, olive groves, vineyards, and date plantations along the Vylarian shore, dotted with the country villas of the delta merchant-princes and producing the empire's finest luxury crops."
 data:
   banner: takheperubnr
   templatePriority: null
-  demonym: Kheperi
+  demonym: Khelâthi
   epithet: null
   symbol: null
   governance:
     model: monarchy
     summary: >-
-      A wealthy delta garden-nome governed by a hereditary Haty'a; the empire's luxury-orchard belt and the playground of its merchant aristocracy.
+      A wealthy delta garden-selat governed by a hereditary Halzi'a; the empire's luxury-orchard belt and the playground of its merchant aristocracy.
     ranks:
       - level: 0
         title: Outcast
@@ -41,41 +41,41 @@ data:
         description: >-
           Lettered, and therefore the empire's principal path upward: a talented child of any house may enter the schools.
       - level: 5
-        title: Heka'hut
+        title: Legha'lutu
         lore: landedlordrnk
         description: >-
-          Ruler of an estate—its manor, its fields and its village—answerable to the nomarch above.
+          Ruler of an estate—its manor, its fields and its village—answerable to the Halzi'a above.
       - level: 6
-        title: Haty'a
+        title: Halzi'a
         lore: greatlordrnk
         description: >-
-          Nomarch: hereditary governor of a nome, commanding its army, collecting its taxes and dispensing its justice.
+          Nomarch: hereditary governor of a selat, commanding its army, collecting its taxes and dispensing its justice.
       - level: 7
-        title: Iry'pat
+        title: Iru'palu
         lore: greatlordrnk
         description: >-
           Of the royal house and the most exalted families, the highest hereditary rank below the throne.
       - level: 8
-        title: Per-Aá
+        title: Gar-Aû
         lore: sovereignrnk
         description: >-
           The divine sovereign, on whose claim all temple and secular authority rests—a fiction nobody believes and nobody may abandon.
     offices:
-      Haty'a: Nomarch, governing a nome with armies, taxes and courts of his own.
-      Heka'hut: Ruler of an estate—manor, fields and village—answerable to the nomarch.
-      Nebet'hut: Mistress of an estate, holding the same authority in her own right.
-      Nebet: Lady of the court, whose standing comes from position rather than from land.
-      Semer: >-
-        Companion of the Per-Aá: a title of royal favor and access rather than territorial authority.
-      Wer'Hekau: >-
+      Halzi'a: Nomarch, governing a selat with armies, taxes and courts of his own.
+      Legha'lutu: Ruler of an estate—manor, fields and village—answerable to the Halzi'a.
+      Zabet'lutu: Mistress of an estate, holding the same authority in her own right.
+      Zabet: Lady of the court, whose standing comes from position rather than from land.
+      Zemelu: >-
+        Companion of the Gar-Aû: a title of royal favor and access rather than territorial authority.
+      Thâz'Lekhau: >-
         Great of Sacred Power—High Priest of a major temple, master of its estates and voice of its god.
-      Hem'Netjer: >-
+      Lem'Nelgir: >-
         Servant of the God—the ordained priesthood that conducts the rites and runs the temple's lands.
-      Wab: >-
+      Wazu: >-
         Purified One—acolyte in the temple schools, years from ordination and already better educated than most.
       Overseer of Scribes: Head of a bureau of the administration, commanding the lettered men who actually govern.
-      Nomarch's Steward: Administrator of the nome's revenue, its granaries and its corvée.
-      Canal-Warden: Keeper of the irrigation works on which the nome's harvest—and its tax—depends.
+      Nomarch's Steward: Administrator of the selat's revenue, its granaries and its corvée.
+      Canal-Warden: Keeper of the irrigation works on which the selat's harvest—and its tax—depends.
   seat: sau
   domains: [sauneferunome]
   population: 900000
@@ -89,25 +89,25 @@ sohl: {system: {commonSkills: [kheperlng]}}
 
 ## Overview
 
-The Nome of Sau-Neferu holds the land of [[place-sauneferunome|Sau-Neferu]]. It is also the prettiest country in the empire, and the merchant-princes of [[affiliation-nomeprnkht|Per-Ankhet]] and the other ports keep their country villas here, so that the nome is at once a working farm-belt and the leisured retreat of the delta's rich. Its patron is [[affiliation-kemtnpnthn|Íšét]], goddess of fertility and abundance, fittingly enough for a land that exists to grow good things.
+The Nome of Gau-Neferu holds the land of [[place-sauneferunome|Gau-Neferu]]. It is also the prettiest country in the empire, and the merchant-princes of [[affiliation-nomeprnkht|Gar-Ankhet]] and the other ports keep their country villas here, so that the selat is at once a working farm-belt and the leisured retreat of the delta's rich. Its patron is [[affiliation-kemtnpnthn|Uznêra]], goddess of fertility and abundance, fittingly enough for a land that exists to grow good things.
 
 ## Character
 
-The working population is a broad class of orchard-smallholders, tenant-farmers, and the pressmen, coopers, and carters who turn the harvest into oil and wine; above them sits a leisured gentry of merchant-villa owners who treat the nome as a retreat from the noise of the ports. It is a devout, festival-loving, pleasure-easy country—Íšét's birth-shrines and Hápi's harvest-feasts fill its calendar—and it has the lowest opinion of hard work and the highest opinion of a good vintage of any nome in the empire.
+The working population is a broad class of orchard-smallholders, tenant-farmers, and the pressmen, coopers, and carters who turn the harvest into oil and wine; above them sits a leisured gentry of merchant-villa owners who treat the selat as a retreat from the noise of the ports. It is a devout, festival-loving, pleasure-easy country—Uznêra's birth-shrines and Hápi's harvest-feasts fill its calendar—and it has the lowest opinion of hard work and the highest opinion of a good vintage of any selat in the empire.
 
 ## For the Worldbuilder
 
-Sau-Neferu is the empire's pleasure-garden—run it as a place of wealth at rest rather than wealth at work, the country-estate counterpart to the ports' counting-houses. The conflicts here are quieter and more personal than in the harbor-nomes: villa-rivalries and marriage-alliances among the merchant gentry, the vintners' jealousies over the best slopes and the most prized labels, smuggling of high-value wine and oil to dodge the customs, poison and inheritance among the leisured rich, and the resentment of the orchard-tenants beneath the comfortable surface. It is also the natural place to set the softer side of delta intrigue: a foreign agent or a fugitive courtier is far likelier to hide in a Sau-Neferu villa than in a Per-Ankhet warehouse. What is abundant here is wine, oil, fruit, and leisure; what is scarce is grain (imported), and any of the delta's harder edge.
+Gau-Neferu is the empire's pleasure-garden—run it as a place of wealth at rest rather than wealth at work, the country-estate counterpart to the ports' counting-houses. The conflicts here are quieter and more personal than in the harbor-nomes: villa-rivalries and marriage-alliances among the merchant gentry, the vintners' jealousies over the best slopes and the most prized labels, smuggling of high-value wine and oil to dodge the customs, poison and inheritance among the leisured rich, and the resentment of the orchard-tenants beneath the comfortable surface. It is also the natural place to set the softer side of delta intrigue: a foreign agent or a fugitive courtier is far likelier to hide in a Gau-Neferu villa than in a Gar-Ankhet warehouse. What is abundant here is wine, oil, fruit, and leisure; what is scarce is grain (imported), and any of the delta's harder edge.
 
 ## Commerce and Currency
 
-Sau-Neferu uses the [[lore-tkhprcrncy|Ta'Kheperu currency system]]. Its high-value export trade means its great estates deal readily in struck silver and gold and in the foreign coin that comes back from Per-Ankhet's harbor, banked and exchanged through the [[affiliation-perhati|Pér-Háti]] agents who serve the merchant villas. See [[lore-tkhprcrncy|Ta'Kheperu Currency]] for the full system.
+Gau-Neferu uses the [[lore-tkhprcrncy|Aû'Khelâthu currency system]]. Its high-value export trade means its great estates deal readily in struck silver and gold and in the foreign coin that comes back from Gar-Ankhet's harbor, banked and exchanged through the [[affiliation-perhati|Gár-Hálzi]] agents who serve the merchant villas. See [[lore-tkhprcrncy|Aû'Khelâthu Currency]] for the full system.
 
 ## See Also
 
-- [[affiliation-deltanomes|The Delta Nomes]]—Parent nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Imperial overview
-- [[place-sau|Sau]]—Nome capital
-- [[affiliation-nomeprnkht|The Nome of Per-Ankhet]]—Neighboring port-nome whose merchants summer here
-- [[affiliation-kemtnpnthn|Kemetian]]—Pantheon
-- [[place-sauneferunome|Sau-Neferu]]—The land the nome holds
+- [[affiliation-deltanomes|The Delta Nomes]]—Parent selat-class
+- [[affiliation-empirtkhpr|The Empire of Aû'Khelâthu]]—Imperial overview
+- [[place-sau|Gau]]—Nome capital
+- [[affiliation-nomeprnkht|The Nome of Gar-Ankhet]]—Neighboring port-selat whose merchants summer here
+- [[affiliation-kemtnpnthn|Khelâthi]]—Pantheon
+- [[place-sauneferunome|Gau-Neferu]]—The land the selat holds

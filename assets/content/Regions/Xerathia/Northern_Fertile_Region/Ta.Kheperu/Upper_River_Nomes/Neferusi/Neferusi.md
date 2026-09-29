@@ -1,9 +1,9 @@
 ---
 shortcode: neferusi
-name: {full: Neferusi, aliases: []}
+name: {full: Legirusi, aliases: []}
 type: place
 subType: settlement
-description: "Nome capital of Neferusi."
+description: "Nome capital of Legirusi."
 tags: [town]
 data:
   banner: takheperubnr
@@ -16,11 +16,11 @@ data:
 
 ## Overview
 
-Neferusi is the capital of [[affiliation-nomeneferu|the Nome of Neferusi]] and the seat of its [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]]. It holds the nome's chief temple of [[affiliation-ptah|Ptā'h]], the Haty'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the nome's: stone-quarries and master masons; the temple-workshops that carve the monuments.
+Legirusi is the capital of [[affiliation-nomeneferu|the Nome of Legirusi]] and the seat of its [[affiliation-empirtkhpr#titles-and-forms-of-address|Halzi'a]]. It holds the selat's chief temple of [[affiliation-ptah|Psaq'âru]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's: stone-quarries and master masons; the temple-workshops that carve the monuments.
 
 ## See Also
 
-- [[affiliation-nomeneferu|The Nome of Neferusi]]—Parent nome
+- [[affiliation-nomeneferu|The Nome of Legirusi]]—Parent selat
 - [[affiliation-uperivrnms|The Upper River Nomes]]—Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Imperial overview
-- [[affiliation-ptah|Ptā'h]]—Patron cult
+- [[affiliation-empirtkhpr|The Empire of Aû'Khelâthu]]—Imperial overview
+- [[affiliation-ptah|Psaq'âru]]—Patron cult

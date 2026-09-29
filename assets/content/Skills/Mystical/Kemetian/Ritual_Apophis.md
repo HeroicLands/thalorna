@@ -1,8 +1,8 @@
 ---
 shortcode: apophis
 name:
-  full: "Ritual: Ápōphis"
-  aliases: [Ápōphis, Apophis, Apep, The Devouring Shadow, The Chaos Serpent]
+  full: "Ritual: Azu'âthis"
+  aliases: [Azu'âthis, Apophis, Apep, The Devouring Shadow, The Chaos Serpent]
 type: skill
 subType: mystical
 tags: [kemetian, faith-skill, draft]
@@ -17,4 +17,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-apophis|Faith of Ápōphis]]
+See [[affiliation-apophis|Faith of Azu'âthis]]

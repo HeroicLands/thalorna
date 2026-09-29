@@ -1,9 +1,9 @@
 ---
 shortcode: sebeqsut
-name: {full: Sebeq'Sut, aliases: [Merchant Alliance, Kheperi Merchant Alliance]}
+name: {full: Sebeq'Sut, aliases: [Merchant Alliance, Khelâthi Merchant Alliance]}
 type: affiliation
 subType: guild
-description: "Kheperian informal but influential network of the empire's major trading houses"
+description: "Khelâthi informal but influential network of the empire's major trading houses"
 tags: [organization, takheperu, xerathia, draft]
 data:
   templatePriority: null
@@ -26,4 +26,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-an informal but influential network of the empire's major trading houses, bound by mutual protection pacts, shared intelligence on trade routes and market conditions, and collective negotiation with foreign commercial powers. The Sebeq'Sut has no official charter or premises—its business is conducted at banquets, in private estates, and along the docks of the delta ports—but its members control a significant share of the empire's wealth and can make or break the fortunes of a nomarch who crosses them.
+an informal but influential network of the empire's major trading houses, bound by mutual protection pacts, shared intelligence on trade routes and market conditions, and collective negotiation with foreign commercial powers. The Sebeq'Sut has no official charter or premises—its business is conducted at banquets, in private estates, and along the docks of the delta ports—but its members control a significant share of the empire's wealth and can make or break the fortunes of a Halzi'a who crosses them.

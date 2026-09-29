@@ -62,7 +62,7 @@ Years are reckoned **After the Founding (AF)**, from the year [[affiliation-vyla
 
 The Common Calendar is the working calendar of [[place-midhalnrgn|Mídhalión Region]], [[place-aureldirgn|Aurèldía]], and every land the Vylarian Empire's cultural sphere still reaches: [[place-helionis|Heliónis]], [[affiliation-cnfdrtnhrdnstts|Harad]], [[place-provenzrgn|Provènzia Region]], [[place-tarvenirgn|Tarvénia Region]], [[place-elavendre|Élavendre]] and [[place-aelwyth|Aelwyth]] all date by it. It is a product of Vylarian political authority rather than a natural feature of the world, and its reach across western Ankaris is itself a measure of where that authority is still felt.
 
-Beyond that sphere, other peoples keep their own count and do not translate into this one in ordinary use. [[affiliation-empirtkhpr|Ta'Kheperu]] and [[affiliation-okharis|Okháris]] reckon from the Sep Tepy; [[place-vedyarargn|Vedyara]] and the [[affiliation-tanvurempr|Empire of Tānvür]] keep independent dating systems of their own.
+Beyond that sphere, other peoples keep their own count and do not translate into this one in ordinary use. [[affiliation-empirtkhpr|Aû'Khelâthu]] and [[affiliation-okharis|Okháris]] reckon from the Qet Telgu; [[place-vedyarargn|Vedyara]] and the [[affiliation-tanvurempr|Empire of Tānvür]] keep independent dating systems of their own.
 
 ## The Months
 

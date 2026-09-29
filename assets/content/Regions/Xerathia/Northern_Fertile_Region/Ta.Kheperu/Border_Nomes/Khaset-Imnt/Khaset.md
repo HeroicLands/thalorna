@@ -3,7 +3,7 @@ shortcode: khaset
 name: {full: Khaset, aliases: []}
 type: place
 subType: settlement
-description: "Nome capital of Khaset-Imnt."
+description: "Nome capital of Khuqet-Imnt."
 tags: [town]
 data:
   banner: takheperubnr
@@ -16,11 +16,11 @@ data:
 
 ## Overview
 
-Khaset is the capital of [[affiliation-nomekhstmn|the Nome of Khaset-Imnt]] and the seat of its [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]]. It holds the nome's chief temple of [[affiliation-ra|Rā]], the Haty'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the nome's: the far western desert march; oasis-forts and the watch over the trade-tracks.
+Khaset is the capital of [[affiliation-nomekhstmn|the Nome of Khuqet-Imnt]] and the seat of its [[affiliation-empirtkhpr#titles-and-forms-of-address|Halzi'a]]. It holds the selat's chief temple of [[affiliation-ra|Uqa'â]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's: the far western desert march; oasis-forts and the watch over the trade-tracks.
 
 ## See Also
 
-- [[affiliation-nomekhstmn|The Nome of Khaset-Imnt]]—Parent nome
+- [[affiliation-nomekhstmn|The Nome of Khuqet-Imnt]]—Parent selat
 - [[affiliation-bordernoms|The Border Nomes]]—Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Imperial overview
-- [[affiliation-ra|Rā]]—Patron cult
+- [[affiliation-empirtkhpr|The Empire of Aû'Khelâthu]]—Imperial overview
+- [[affiliation-ra|Uqa'â]]—Patron cult

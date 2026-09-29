@@ -1,9 +1,9 @@
 ---
 shortcode: perwadjit
-name: {full: Per-Wadjit, aliases: []}
+name: {full: Gar-Shebazet, aliases: []}
 type: place
 subType: settlement
-description: "Nome capital of Per-Wadjit."
+description: "Nome capital of Gar-Shebazet."
 tags: [town]
 data:
   banner: takheperubnr
@@ -16,11 +16,11 @@ data:
 
 ## Overview
 
-Per-Wadjit is the capital of [[affiliation-nomeprwdjt|the Nome of Per-Wadjit]] and the seat of its [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]]. It holds the nome's chief temple of [[affiliation-wadjit|Wadjit]], the Haty'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the nome's: papyrus marshes; fowling, reed-craft, and the empire's paper-cutting.
+Gar-Shebazet is the capital of [[affiliation-nomeprwdjt|the Nome of Gar-Shebazet]] and the seat of its [[affiliation-empirtkhpr#titles-and-forms-of-address|Halzi'a]]. It holds the selat's chief temple of [[affiliation-wadjit|Shebazet]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's: papyrus marshes; fowling, reed-craft, and the empire's paper-cutting.
 
 ## See Also
 
-- [[affiliation-nomeprwdjt|The Nome of Per-Wadjit]]—Parent nome
+- [[affiliation-nomeprwdjt|The Nome of Gar-Shebazet]]—Parent selat
 - [[affiliation-deltanomes|The Delta Nomes]]—Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Imperial overview
-- [[affiliation-wadjit|Wadjit]]—Patron cult
+- [[affiliation-empirtkhpr|The Empire of Aû'Khelâthu]]—Imperial overview
+- [[affiliation-wadjit|Shebazet]]—Patron cult

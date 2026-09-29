@@ -9,7 +9,7 @@ description: "Standard currency of western and central Ankaris—the three-coin 
 tags: [reference, currency, vylaria, cross-realm, economy]
 ---
 
-**Scope:** The Vylarian currency is the standard currency of western and central Ankaris. It is the legal tender of [[affiliation-vylarinmpr|Vylaria]] and [[place-helionis|Heliónis]] (the territories under direct imperial governance); it is the practical standard of commerce in the [[place-aureldirgn|Aurèldían kingdoms]] and [[place-byzariargn|Byzaría]] (the post-imperial commonwealth members); it is accepted (as a foreign currency, alongside the local Ta'Kheperan system) in the **Northern Fertile Region of [[place-xerathia|Xerathia]]**—[[place-bethuargn|Bethûa]], [[place-okharisrgn|Okháris]], and [[place-takheperurgn|Ta'Kheperu]]. Outside these regions it is exchangeable through moneylenders but is not the dominant medium of exchange.
+**Scope:** The Vylarian currency is the standard currency of western and central Ankaris. It is the legal tender of [[affiliation-vylarinmpr|Vylaria]] and [[place-helionis|Heliónis]] (the territories under direct imperial governance); it is the practical standard of commerce in the [[place-aureldirgn|Aurèldían kingdoms]] and [[place-byzariargn|Byzaría]] (the post-imperial commonwealth members); it is accepted (as a foreign currency, alongside the local Ta'Khelâthi system) in the **Northern Fertile Region of [[place-xerathia|Xerathia]]**—[[place-bethuargn|Bethûa]], [[place-okharisrgn|Okháris]], and [[place-takheperurgn|Aû'Khelâthu]]. Outside these regions it is exchangeable through moneylenders but is not the dominant medium of exchange.
 
 The currency is minted and authorized by the imperial [[affiliation-aerarimmpr|The Aerarium Imperii]]. Provincial mints (in Vylarian and Heliónite cities) strike Argenti and Octi under Aerarium standards; Aurions are minted only at Magnápolis. Post-imperial polities do not mint Vylarian coin themselves; their commercial life draws on the imperial coinage as circulating currency without producing it.
 
@@ -138,7 +138,7 @@ These prices align with the canonical _Song of Heroic Lands_ gear data, which us
 | Plate breastplate / greaves                        | 240 Argo (each)        |
 | Plate cuirass                                      | 480 Argo               |
 | Full plate kit (cuirass, greaves, vambraces, etc.) | ~1,200 Argo            |
-| Shield (buckler / roundshield / kite / tower)      | 30 / 48 / 72 / 96 Argo |
+| Shield (buckler / roundshield / qelu / tower)      | 30 / 48 / 72 / 96 Argo |
 
 ### Mounts, Travel, Lodging
 
@@ -218,7 +218,7 @@ The script system is the medium through which most large transactions—includin
 | **Native standard currency** (with full script infrastructure)                   | [[affiliation-vylarinmpr\|Vylaria]]; [[place-helionis\|Heliónis]]                                                                                                                                                                                                                                                                                              |
 | **Standard currency** (post-imperial commonwealth, full script)                  | [[place-aureldirgn\|Aurèldían kingdoms]] (Tarvénia, Provènzia, Élavendre, Aelwyth, Calypsa); [[place-byzariargn\|Byzaría]]                                                                                                                                                                                                                                     |
 | **De facto currency, no script** (Vylarian coin only; banking does not function) | [[place-nrdlndsrgn\|Nordlands]] (Nordheim, Norgaad, Vithgard, Targud, Malagna); [[place-vrystwald\|Vrystwald]]                                                                                                                                                                                                                                                 |
-| **Foreign currency, exchanged through native systems**                           | Harad (parallel system; see [[lore-hardncrncy\|Haradian Currency]]); Northern Fertile Region (Ta'Kheperan-standard; see [[lore-tkhprcrncy\|Takheperu Currency]]); [[place-vedyarargn\|Vedyara]] (Merchant Collective; see [[lore-vdyrnbnkng\|Vedyaran Banking]]); [[place-tanvuregin\|Tánvür]] (bureaucratic-ledger; see [[lore-tanvrcrncy\|Tanvur Currency]]) |
+| **Foreign currency, exchanged through native systems**                           | Harad (parallel system; see [[lore-hardncrncy\|Haradian Currency]]); Northern Fertile Region (Ta'Khelâthi-standard; see [[lore-tkhprcrncy\|Takheperu Currency]]); [[place-vedyarargn\|Vedyara]] (Merchant Collective; see [[lore-vdyrnbnkng\|Vedyaran Banking]]); [[place-tanvuregin\|Tánvür]] (bureaucratic-ledger; see [[lore-tanvrcrncy\|Tanvur Currency]]) |
 | **Effectively absent or barter-dominated**                                       | [[affiliation-khzrncnfdrtn\|Khazryn]], [[place-dunharargn\|Dunhara]], Southern Savannahs, [[affiliation-nylbtrblntn\|Nyáluba]], distant continents (K'ich'chik, Iseron, Aurionis, Kalihara). See [[lore-bartercnmy\|Barter Economy]] and [[lore-kinhalcrdt\|Kin and Hall Credit]].                                                                             |
 
 For polity-specific usage details—including the precise local arrangements, exchange rates, and credit-system interactions—see the individual polity notes; each polity's "Commerce and Currency" section describes its specific monetary situation.
@@ -237,7 +237,7 @@ Counterfeiting any Vylarian coin is a capital crime under both imperial law (in 
 
 ### Exchange with Foreign Currency
 
-Vylarian moneylenders at frontier and trading-port locations operate currency-exchange services. A traveler arriving from Ta'Kheperu can exchange Ta'Kheperan coin for Argo at the moneylender's posted rate (the rate fluctuates with trade flows and is generally less favorable to the foreign-currency holder); a traveler heading the other way faces the symmetric situation. The 3–8% spread on Ta'Kheperan-Vylarian exchange is roughly typical of major-trade-route exchange; less-traveled exchanges (Vylarian-Vedyaran, for instance) carry substantially larger spreads.
+Vylarian moneylenders at frontier and trading-port locations operate currency-exchange services. A traveler arriving from Aû'Khelâthu can exchange Ta'Khelâthi coin for Argo at the moneylender's posted rate (the rate fluctuates with trade flows and is generally less favorable to the foreign-currency holder); a traveler heading the other way faces the symmetric situation. The 3–8% spread on Ta'Khelâthi-Vylarian exchange is roughly typical of major-trade-route exchange; less-traveled exchanges (Vylarian-Vedyaran, for instance) carry substantially larger spreads.
 
 ### Carrying Coin
 
@@ -252,4 +252,4 @@ A merchant on the road typically carries a modest mix: a handful of Aurions for 
 - **[[affiliation-magnumclgm|The Magnum Collegium]]**—the cross-realm guild umbrella under which the Argentariorum is chartered.
 - **[[affiliation-vylrnmltry|The Vylarian Military]]**—uses commission price tables denominated in Aurions; primary use case for cost-calibration of substantial sums.
 - **[[affiliation-sodnaqirin|Sôd-Naqîrîn]]**—the Haradian institutional alternative; the Bayt al-Khazînah's parallel banking arrangements and Haradian-struck coin.
-- _Ta'Kheperu Currency_ (not yet written)—the standard currency of the Northern Fertile Region.
+- _Aû'Khelâthu Currency_ (not yet written)—the standard currency of the Northern Fertile Region.

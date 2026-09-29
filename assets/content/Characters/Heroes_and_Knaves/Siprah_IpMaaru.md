@@ -420,7 +420,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-**Home:** [[place-wasetkara|Wasetkara]]
+**Home:** [[place-wasetkara|Galezkara]]
 
 # Appearance {#appearance}
 
@@ -430,11 +430,11 @@ Siprah stands 5'8" tall with a medium build. He has dark skin, deep black hair, 
 
 # Dossier {#dossier}
 
-Siprah was born into the Ipmaâr family, a minor merchant household of [[affiliation-empirtkhpr|Ta'Kheperu]] with no particular distinction or wealth. His father, **Paher Ipmaâr**, was a lesser official in the customs house, a position of modest authority but considerable responsibility for protecting valuable goods. It was Paher who first introduced young Siprah to locks and security, teaching him that these mechanisms were conversations between those who would protect and those who would steal.
+Siprah was born into the Ipmaâr family, a minor merchant household of [[affiliation-empirtkhpr|Aû'Khelâthu]] with no particular distinction or wealth. His father, **Paher Ipmaâr**, was a lesser official in the customs house, a position of modest authority but considerable responsibility for protecting valuable goods. It was Paher who first introduced young Siprah to locks and security, teaching him that these mechanisms were conversations between those who would protect and those who would steal.
 
 Apprenticed at thirteen to **Master Sokhoth**, then the Empire's foremost locksmith, Siprah spent twelve years in intensive study of his craft. Sokhoth was an exacting teacher whose patience was famous but whose standards were impossibly high. Under his tutelage, Siprah learned that locks were expressions of philosophy as much as mechanical devices—they were about trust, about creating a visible and tactile representation of the boundary between the protected and the vulnerable. When Sokhoth retired at Siprah's twenty-fifth year, he personally recommended Siprah as his successor to the guild, an honor rarely granted.
 
-Now, for fifteen years, Siprah has maintained the highest standards of his craft. He has designed locks for imperial treasuries, noble estates, merchant houses, and temples. His work is known for its elegance, security, and longevity. He has never married, living alone in chambers above his workshop, with no interest in domestic entanglements. His sole companions are his craft, his faith in [[lore-horusdty|Hórús]] the voyager, and the small circle of guild members who recognize his genius.
+Now, for fifteen years, Siprah has maintained the highest standards of his craft. He has designed locks for imperial treasuries, noble estates, merchant houses, and temples. His work is known for its elegance, security, and longevity. He has never married, living alone in chambers above his workshop, with no interest in domestic entanglements. His sole companions are his craft, his faith in [[lore-horusdty|Gewaâtis]] the voyager, and the small circle of guild members who recognize his genius.
 
 ## Psyche
 
@@ -470,7 +470,7 @@ Siprah is driven by a desire to be the best locksmith who has ever lived, to sur
 
 - **Treasurer Imhotar**: The Imperial official responsible for the Empire's treasury holds Siprah in the highest regard. All imperial vaults and secure chambers have been installed with locks of his design, and Imhotar provides the single largest stream of consistent work.
 - **Lady Benerî Meshenet**: A noble of considerable wealth and paranoid disposition. She commissions new locks and security modifications every few months, trusting no one but Siprah with access to her estate's systems. She pays extraordinarily well and provides social access to her wealthy peers.
-- **The Temple of Hórús**: The priesthood maintains contracts with Siprah for maintaining the Temple's sacred vaults. He is one of only three individuals alive who knows the complete configuration of the Temple's security system.
+- **The Temple of Gewaâtis**: The priesthood maintains contracts with Siprah for maintaining the Temple's sacred vaults. He is one of only three individuals alive who knows the complete configuration of the Temple's security system.
 - **Master Merchants' Association**: The guild of high-value traders collectively employ Siprah as their adviser on security, and he regularly designs custom vault systems for member houses.
 
 ### Enemies
@@ -481,7 +481,7 @@ Siprah is driven by a desire to be the best locksmith who has ever lived, to sur
 
 ### Affiliations
 
-- **Locksmiths' Guild of Ta'Kheperu**: Siprah holds the highest rank within the guild and serves on its council of masters. Though he attends meetings reluctantly and speaks rarely, his voice carries significant weight in guild decisions.
+- **Locksmiths' Guild of Aû'Khelâthu**: Siprah holds the highest rank within the guild and serves on its council of masters. Though he attends meetings reluctantly and speaks rarely, his voice carries significant weight in guild decisions.
 - **The Scholar's Archive**: Siprah maintains membership in this institution and regularly consults on matters of security and lock history, though he contributes little directly beyond his passive presence.
 
 ## Plot Hooks

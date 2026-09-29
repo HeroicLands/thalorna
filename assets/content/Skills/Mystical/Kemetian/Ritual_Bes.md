@@ -1,6 +1,6 @@
 ---
 shortcode: bes
-name: {full: "Ritual: Bēs", aliases: ["Bēs, Guardian of Night Visions"]}
+name: {full: "Ritual: Nehle'ât", aliases: ["Nehle'ât, Guardian of Night Visions"]}
 type: skill
 subType: mystical
 tags: [kemetian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-bes|Faith of Bēs]]
+See [[affiliation-bes|Faith of Nehle'ât]]

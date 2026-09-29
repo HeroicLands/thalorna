@@ -1,6 +1,6 @@
 ---
 shortcode: perheka
-name: {full: Per-Heka, aliases: []}
+name: {full: Gar-Heka, aliases: []}
 type: place
 subType: settlement
 description: "Temple-Estate Town"
@@ -16,10 +16,10 @@ data:
 
 ## Overview
 
-Per-Heka is a temple-estate town east of [[place-wasetkara|Wasetkara]], one of the satellite settlements that feed and serve the great cult-temples of the [[affiliation-capitalnom|The Capital Nome]]. It exists for its god: the town is the administrative and working heart of a temple's vast landholdings, gathering the grain, beer, livestock, and labor of a ring of tenant-villages and rendering them to the temple's granaries and workshops. Its streets hold the estate-stewards and tally-scribes who run the holdings, the brewers, bakers, weavers, and craftsmen who supply the temple's daily offerings and its priests' needs, and the lesser shrines and schools that orbit the great sanctuary in the capital. Prosperous, orderly, and wholly bound to its temple, Per-Heka is a small example of the institution that, multiplied across the nome, makes the great temples economic powers to rival the nomarchs.
+Gar-Heka is a temple-estate town east of [[place-wasetkara|Galezkara]], one of the satellite settlements that feed and serve the great cult-temples of the [[affiliation-capitalnom|The Capital Nome]]. It exists for its god: the town is the administrative and working heart of a temple's vast landholdings, gathering the grain, beer, livestock, and labor of a ring of tenant-villages and rendering them to the temple's granaries and workshops. Its streets hold the estate-stewards and tally-scribes who run the holdings, the brewers, bakers, weavers, and craftsmen who supply the temple's daily offerings and its priests' needs, and the lesser shrines and schools that orbit the great sanctuary in the capital. Prosperous, orderly, and wholly bound to its temple, Gar-Heka is a small example of the institution that, multiplied across the selat, makes the great temples economic powers to rival the nomarchs.
 
 ## See Also
 
-- [[affiliation-capitalnom|The Capital Nome]]—Parent nome
-- [[place-wasetkara|Wasetkara]]—The imperial city it serves
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Imperial overview
+- [[affiliation-capitalnom|The Capital Nome]]—Parent selat
+- [[place-wasetkara|Galezkara]]—The imperial city it serves
+- [[affiliation-empirtkhpr|The Empire of Aû'Khelâthu]]—Imperial overview

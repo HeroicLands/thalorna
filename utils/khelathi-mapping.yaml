@@ -48,6 +48,8 @@ godHouseForms:
     - { retired: Rê, replacement: Uqa, layer: 2 }
     - { retired: Ra, replacement: Uqa, layer: 2, merges: true }
     - { retired: Maâr, replacement: Qar, layer: 2 }
+    - { retired: Maat'ken, replacement: Qar'quzu, layer: 2, note: house of the balance }
+    - { retired: Maat, replacement: Qar, layer: 2, merges: true }
     - { retired: Thut, replacement: Retha, layer: 2 }
     - { retired: Tot, replacement: Retha, layer: 2, merges: true }
     - { retired: Pata, replacement: Psaqa, layer: 2 }
@@ -75,6 +77,8 @@ ranks:
     - { retired: Kenbet'Pat, replacement: Genzet'Palu, layer: 3 }
     - { retired: Tjaty, replacement: Zeglar, layer: 3, note: the Egyptian for vizier }
     - { retired: Imy'Râ Hâti, replacement: Ilmy'Zâ Halzi, layer: 3 }
+    - { retired: Imi-Ra, replacement: Ilmy-Zâ, layer: 3, note: the same office as a clan name }
+    - { retired: Imy'Râ, replacement: Ilmy'Zâ, layer: 3 }
     - { retired: Imy'Khent Wedyat, replacement: Ilmy'Qelt Weglat, layer: 3 }
     - { retired: nome, replacement: selat, layer: 3 }
     - {
@@ -142,24 +146,36 @@ temple:
     - { retired: kite, replacement: qelu, layer: 5, note: weight unit }
     - { retired: khar, replacement: lagar, layer: 5, note: weight unit }
 
+# The eighteen elements that build the six name lists. They are generators
+# rather than tokens: `sat`, `ren`, `ka` and `hat` are ordinary English words,
+# and sweeping them through prose replaces the wrong thing. The guard holds them
+# to the coinage rules and does not hunt them in the tree; what it hunts is the
+# names they produce.
 nameElements:
-    - { retired: ankh, replacement: anlagh, layer: 6 }
-    - { retired: neb, replacement: zab, layer: 6 }
-    - { retired: nefer, replacement: legir, layer: 6 }
-    - { retired: mer, replacement: amqel, layer: 6 }
-    - { retired: ka, replacement: gul, layer: 6 }
-    - { retired: bek, replacement: lem, layer: 6, merges: true }
-    - { retired: sat, replacement: gith, layer: 6 }
-    - { retired: hotep, replacement: legez, layer: 6 }
-    - { retired: sen, replacement: lin, layer: 6 }
-    - { retired: ken, replacement: quz, layer: 6 }
-    - { retired: akhet, replacement: anleth, layer: 6, note: the horizon, not the season }
-    - { retired: ba, replacement: zin, layer: 6 }
-    - { retired: djet, replacement: gez, layer: 6 }
-    - { retired: khent, replacement: qelt, layer: 6 }
-    - { retired: hat, replacement: qelt, layer: 6, merges: true }
-    - { retired: ren, replacement: reth, layer: 6 }
-    - { retired: wat, replacement: wal, layer: 6 }
+    - { retired: ankh, replacement: anlagh, layer: 6, generator: true }
+    - { retired: neb, replacement: zab, layer: 6, generator: true }
+    - { retired: nefer, replacement: legir, layer: 6, generator: true }
+    - { retired: mer, replacement: amqel, layer: 6, generator: true }
+    - { retired: ka, replacement: gul, layer: 6, generator: true }
+    - { retired: bek, replacement: lem, layer: 6, merges: true, generator: true }
+    - { retired: sat, replacement: gith, layer: 6, generator: true }
+    - { retired: hotep, replacement: legez, layer: 6, generator: true }
+    - { retired: sen, replacement: lin, layer: 6, generator: true }
+    - { retired: ken, replacement: quz, layer: 6, generator: true }
+    - {
+          retired: akhet,
+          replacement: anleth,
+          layer: 6,
+          note: the horizon,
+          not the season,
+          generator: true,
+      }
+    - { retired: ba, replacement: zin, layer: 6, generator: true }
+    - { retired: djet, replacement: gez, layer: 6, generator: true }
+    - { retired: khent, replacement: qelt, layer: 6, generator: true }
+    - { retired: hat, replacement: qelt, layer: 6, merges: true, generator: true }
+    - { retired: ren, replacement: reth, layer: 6, generator: true }
+    - { retired: wat, replacement: wal, layer: 6, generator: true }
     - { retired: Nakhtar, replacement: Quztar, layer: 6, note: carries nakht }
     - { retired: Nebmaatre, replacement: Zabqarrê, layer: 6, note: throne name of Amenhotep III }
 

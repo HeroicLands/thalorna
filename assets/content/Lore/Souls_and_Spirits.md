@@ -322,7 +322,7 @@ The GM has wide latitude in deciding the dragons' current state and intentions f
 
 What makes necromancy _necromancy_ is its coercive structure. The necromancer pulls a soul back from the spirit realm against the soul's will (or at least without the soul's free consent), and binds it to a corporeal medium for the necromancer's purposes. This is fundamentally an act of force on a soul that has begun its proper transit, removing it from where it should be and placing it where the necromancer wants it.
 
-This is what virtually every culture in Thalorna recognizes as necromancy, and what virtually every culture considers—by its own moral framework—to be evil. The exceptions are narrow: certain Vedyaran traditions practice forms of brief soul-consultation that are sometimes classified as necromantic by outsiders but that the Vedyarans themselves consider distinct; certain Kheperi mortuary practices involve elements that resemble necromancy but operate within a religious framework that recasts them. These exceptions aside, necromancy is widely held to be morally serious in any culture whose moral framework recognizes souls.
+This is what virtually every culture in Thalorna recognizes as necromancy, and what virtually every culture considers—by its own moral framework—to be evil. The exceptions are narrow: certain Vedyaran traditions practice forms of brief soul-consultation that are sometimes classified as necromantic by outsiders but that the Vedyarans themselves consider distinct; certain Khelâthi mortuary practices involve elements that resemble necromancy but operate within a religious framework that recasts them. These exceptions aside, necromancy is widely held to be morally serious in any culture whose moral framework recognizes souls.
 
 ### Distinction from Shamanic Practice
 
@@ -368,7 +368,7 @@ These costs are sufficient to make necromancy difficult and dangerous as a pract
 
 ## The Undead
 
-The undead are beings that should be dead but are not, animated through necromantic or related work. The category includes everything from the simplest reanimated zombies (**damutu**) to the most powerful undying lords (**terebu**); the two learned terms are Kheperi, and every scholarly tradition uses them.
+The undead are beings that should be dead but are not, animated through necromantic or related work. The category includes everything from the simplest reanimated zombies (**damutu**) to the most powerful undying lords (**terebu**); the two learned terms are Khelâthi, and every scholarly tradition uses them.
 
 The undead are produced by mechanisms grounded in the soul-cosmology established in this document—the pulling-back of souls from the spirit realm, the binding of soul-substance to material bodies, the elaborate rituals by which powerful individuals arrange to persist past death. The cosmological foundation belongs here; the development of the undead themselves—damutu along their spectrum of degradation, terebu with their consent-and-quality dynamics, the social and political structures of undead communities, and practical guidance for running them—is treated in detail in [[lore-undead|Undead]].
 

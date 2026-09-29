@@ -60,7 +60,7 @@ To the **west**, across the sea, lies [[place-aureldirgn|Aurèldía]] proper. Re
 
 To the **north** lies the [[place-nrdlndsrgn|Nordlands]]. Nordmal merchants and mercenaries are a familiar sight in Helladic ports; the relationship is commercial and transactional, without the religious tension that marks the Nordmal-Aurèldían frontier further west.
 
-To the **south**, across the [[place-vylarianse|Vylarian Sea]], lie the northern coasts of [[place-xerathia|Xerathia]]. Helladic and Xerathian merchants have traded across these waters for a thousand years; Helionite philosophers have studied—at a respectful distance—the theological traditions of [[affiliation-empirtkhpr|Ta'Kheperu]].
+To the **south**, across the [[place-vylarianse|Vylarian Sea]], lie the northern coasts of [[place-xerathia|Xerathia]]. Helladic and Xerathian merchants have traded across these waters for a thousand years; Helionite philosophers have studied—at a respectful distance—the theological traditions of [[affiliation-empirtkhpr|Aû'Khelâthu]].
 
 To the **east** lies the [[place-khzryndsrtrgn|Khazryn Desert]] and, beyond it, the world of the [[affiliation-ashanpnthn|Āsháian]] faiths. The Byzarian League is the gateway through which eastern goods and eastern ideas have always entered the western world.
 

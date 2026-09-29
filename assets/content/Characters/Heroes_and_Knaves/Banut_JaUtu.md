@@ -433,9 +433,9 @@ Bânut stands 5'3" tall with a light build. She has golden brown skin, dark hair
 
 ### Early Life and Loss
 
-Bânut was born to a family of herbalists and plant cultivators in [[affiliation-empirtkhpr|Ta'Kheperu]], where her parents worked for a minor noble house cultivating medicinal and ceremonial plants in carefully maintained garden terraces. From earliest childhood, she was immersed in the world of plants—learning to identify hundreds of species by sight and scent, to understand their properties, to cultivate them in sometimes brutal desert conditions. Her childhood was marked by joy in this work and a close, loving family relationship. Her greatest love was her younger brother **Khôr**, to whom she was intensely devoted.
+Bânut was born to a family of herbalists and plant cultivators in [[affiliation-empirtkhpr|Aû'Khelâthu]], where her parents worked for a minor noble house cultivating medicinal and ceremonial plants in carefully maintained garden terraces. From earliest childhood, she was immersed in the world of plants—learning to identify hundreds of species by sight and scent, to understand their properties, to cultivate them in sometimes brutal desert conditions. Her childhood was marked by joy in this work and a close, loving family relationship. Her greatest love was her younger brother **Khôr**, to whom she was intensely devoted.
 
-When Bânut was twenty-eight and Khôr only sixteen, he was seriously injured in a fall from a cliff face—an accident during a botanical expedition to gather rare species. He developed a severe fever and infection, and despite her desperately creative use of every herb and remedy in her knowledge, he died after three months of suffering. The scar on her ear is not, in fact, from violence—it is a ritually inflicted mark of mourning, done in accordance with the traditions of Ta'Kheperu, a visible acknowledgment of her grief that she has never allowed to fade.
+When Bânut was twenty-eight and Khôr only sixteen, he was seriously injured in a fall from a cliff face—an accident during a botanical expedition to gather rare species. He developed a severe fever and infection, and despite her desperately creative use of every herb and remedy in her knowledge, he died after three months of suffering. The scar on her ear is not, in fact, from violence—it is a ritually inflicted mark of mourning, done in accordance with the traditions of Aû'Khelâthu, a visible acknowledgment of her grief that she has never allowed to fade.
 
 ### Transformation and Independence
 
@@ -455,7 +455,7 @@ Her greatest weakness is her tendency to see the best in people and to trust imp
 
 ### Motivation
 
-Bânut is driven by the desire to heal suffering and to prove that her brother's death was not meaningless—that through her work, she can prevent other families from experiencing the loss that devastated hers. She believes her gifts are sacred, intended by the divine [[lore-radty|Rā]] for the benefit of the suffering, and that to charge excessive prices or deny treatment to those in need would be a betrayal of her purpose. She also harbors a secret desire for redemption—though Khôr's death was not her fault, she has never fully absolved herself of the belief that she could have done something more, something better. Her healing work is, in part, an attempt to achieve that impossible absolution through countless other successes.
+Bânut is driven by the desire to heal suffering and to prove that her brother's death was not meaningless—that through her work, she can prevent other families from experiencing the loss that devastated hers. She believes her gifts are sacred, intended by the divine [[lore-radty|Uqa'â]] for the benefit of the suffering, and that to charge excessive prices or deny treatment to those in need would be a betrayal of her purpose. She also harbors a secret desire for redemption—though Khôr's death was not her fault, she has never fully absolved herself of the belief that she could have done something more, something better. Her healing work is, in part, an attempt to achieve that impossible absolution through countless other successes.
 
 ### Strengths
 
@@ -469,7 +469,7 @@ Bânut is driven by the desire to heal suffering and to prove that her brother's
 
 - **Combat Capability and Self-Defense**: Though not a warrior, her quickness, her archery, and her skill with a blade, combined with her dexterity, make her capable of defending herself. She is not defenseless, though she avoids violence when possible.
 
-- **Ritual and Spiritual Knowledge**: Her knowledge of ritual and spirit connects her to the spiritual dimensions of her work, allowing her to understand and participate in the ceremonial aspects of healing that are important in Ta'Kheperu's culture.
+- **Ritual and Spiritual Knowledge**: Her knowledge of ritual and spirit connects her to the spiritual dimensions of her work, allowing her to understand and participate in the ceremonial aspects of healing that are important in Aû'Khelâthu's culture.
 
 ### Weaknesses
 

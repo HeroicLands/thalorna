@@ -421,7 +421,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-**Home:** [[place-perankhet|Per-Ankhet]]
+**Home:** [[place-perankhet|Gar-Ankhet]]
 
 # Appearance {#appearance}
 
@@ -431,7 +431,7 @@ Tamiyra stands 5'3" tall with a light build. She has warm bronze skin, jet black
 
 # Dossier {#dossier}
 
-Tamiyra was born into the house of a minor imperial scribe during the reign of prosperity in the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]]. Her childhood was spent among ledgers and ceremonial robes, learning the unspoken language of power before she could read formal script. At fourteen, her family's fortunes shifted when her father's loyalty to a disgraced official was discovered. Rather than accept ruin, her mother positioned young Tamiyra in the household of a wealthy merchant lord, where she learned the arts of charm, conversation, and influence. What was meant as a temporary refuge became permanent when Tamiyra discovered she possessed a talent far exceeding expectation—she could make men and women alike believe she understood their deepest desires.
+Tamiyra was born into the house of a minor imperial scribe during the reign of prosperity in the Empire of [[affiliation-empirtkhpr|Aû'Khelâthu]]. Her childhood was spent among ledgers and ceremonial robes, learning the unspoken language of power before she could read formal script. At fourteen, her family's fortunes shifted when her father's loyalty to a disgraced official was discovered. Rather than accept ruin, her mother positioned young Tamiyra in the household of a wealthy merchant lord, where she learned the arts of charm, conversation, and influence. What was meant as a temporary refuge became permanent when Tamiyra discovered she possessed a talent far exceeding expectation—she could make men and women alike believe she understood their deepest desires.
 
 By twenty-eight, Tamiyra had become the most prized courtesan in the imperial capital, not for beauty alone but for an intelligence that rivaled scribes and a wit that could wound or heal with equal precision. She collected patrons like scholars collect texts, each relationship carefully cultivated and maintained. Her apparent scandal—a messy affair involving a high-ranking military officer and forged diplomatic correspondence that nearly destabilized a trade agreement—nearly destroyed her reputation, though careful maneuvering and well-placed allies saw her emerge, if cautiously, intact.
 
@@ -481,7 +481,7 @@ Tamiyra's primary motivation is survival combined with the acquisition of securi
 
 - **Lady Temerît Shalûr**: An aging widow and powerful political matriarch who has taken Tamiyra under her wing as a protégée and potential heir to her network of influence. Lady Shalûr sees in Tamiyra the ambitious mind she once possessed.
 
-- **Merchant Prince Vasken Tharcot**: A wealthy foreign trader who visits Ta'Kheperu regularly for business. He pays handsomely for her companionship and, more importantly, for intelligence about imperial politics and trade agreements. He believes she holds the key to expanding his influence.
+- **Merchant Prince Vasken Tharcot**: A wealthy foreign trader who visits Aû'Khelâthu regularly for business. He pays handsomely for her companionship and, more importantly, for intelligence about imperial politics and trade agreements. He believes she holds the key to expanding his influence.
 
 - **High Scribe Psenti Khem'Pathau**: A learned man of letters who employs her to transcribe rare texts and discuss philosophy. He is one of the few patrons with whom she shares a true meeting of minds rather than merely performing companionship.
 
@@ -493,7 +493,7 @@ Tamiyra's primary motivation is survival combined with the acquisition of securi
 
 ### Affiliations
 
-- **The Circle of the Veil**: An informal network of courtesans, companions, and women of influence throughout Ta'Kheperu who exchange information, provide mutual protection, and maintain standards for their profession. Tamiyra is an unofficial advisor to this network.
+- **The Circle of the Veil**: An informal network of courtesans, companions, and women of influence throughout Aû'Khelâthu who exchange information, provide mutual protection, and maintain standards for their profession. Tamiyra is an unofficial advisor to this network.
 
 - **The Scribal Consortium**: A loose association of scholars, historians, and learned individuals who commission her transcription work and include her in their intellectual circles, giving her access to knowledge and protected status as a patron of learning.
 
@@ -503,7 +503,7 @@ Tamiyra's primary motivation is survival combined with the acquisition of securi
 
 2. **The Daughter's Claim**: A young woman arrives claiming to be Tamiyra's illegitimate daughter from a long-ago affair with a powerful noble, born shortly after he died. The woman seeks to establish her claim to his substantial inheritance, which would require Tamiyra to testify about the relationship. The complication: Tamiyra has no memory of being pregnant or bearing a child. Someone may have carefully orchestrated an elaborate deception, or she may have been deliberately made to forget through mystical means. Either way, this revelation threatens to unravel everything.
 
-3. **The Competitor's Peril**: A wealthy patron who has recently begun shifting his attention from Tamiyra to her rival Selena Moros asks Tamiyra to help him understand why Selena is suddenly refusing his advances. When Tamiyra investigates, she discovers Selena has been captured and imprisoned by persons unknown, forced into servitude far from Ta'Kheperu. Despite their rivalry, Tamiyra can risk her own position attempting a rescue, or use the situation to eliminate her competition permanently.
+3. **The Competitor's Peril**: A wealthy patron who has recently begun shifting his attention from Tamiyra to her rival Selena Moros asks Tamiyra to help him understand why Selena is suddenly refusing his advances. When Tamiyra investigates, she discovers Selena has been captured and imprisoned by persons unknown, forced into servitude far from Aû'Khelâthu. Despite their rivalry, Tamiyra can risk her own position attempting a rescue, or use the situation to eliminate her competition permanently.
 
 4. **The Encrypted Archive**: While researching a potential new patron's background, Tamiyra discovers references to a secret archive hidden within the imperial archives—a collection of forbidden documents, love letters, and political intelligence gathered over centuries. Multiple factions are searching for it, and they believe she has knowledge of its location because her father worked in the archives. She must pick her way between those who would kill for the information and those who would pay kingdoms to suppress it.
 

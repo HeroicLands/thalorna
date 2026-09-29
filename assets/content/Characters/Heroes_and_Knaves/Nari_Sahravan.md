@@ -459,7 +459,7 @@ Nari is calm, wise, and deeply spiritual, often acting as a counterbalance to [[
 
 ### Motivation
 
-Nari is driven by her spiritual quest to maintain the balance of the natural world. She believes the great power-struggles she has glimpsed in her visions—the smoldering war between Bethûa, its Kheperi patron, and [[affiliation-vylarinmpr|Vylaria]] over the southern sea—threaten that balance, and she sees her journey with [[being-zahirmlkht|Zahira]] as her place in restoring it. She is also simply curious about the wider world beyond her desert homeland, and means to understand the strange, rich, troubling lands of Mídhalion before her visions are done with her.
+Nari is driven by her spiritual quest to maintain the balance of the natural world. She believes the great power-struggles she has glimpsed in her visions—the smoldering war between Bethûa, its Khelâthi patron, and [[affiliation-vylarinmpr|Vylaria]] over the southern sea—threaten that balance, and she sees her journey with [[being-zahirmlkht|Zahira]] as her place in restoring it. She is also simply curious about the wider world beyond her desert homeland, and means to understand the strange, rich, troubling lands of Mídhalion before her visions are done with her.
 
 ### Strengths
 

@@ -424,7 +424,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-**Home:** [[place-perankhet|Per-Ankhet]]
+**Home:** [[place-perankhet|Gar-Ankhet]]
 
 # Appearance {#appearance}
 
@@ -434,7 +434,7 @@ Akhrem stands 6'1" tall with a heavy build. He has dark brown skin, jet black ha
 
 # Dossier {#dossier}
 
-Akhrem was born in the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]], where the vast grasslands and savannas demanded respect for the creatures that inhabited them. His family had served as animal handlers for generations, a lineage stretching back to his great-grandfather who trained the sacred beasts for temple ceremonies. As a child, Akhrem displayed an almost preternatural ability to communicate with animals—horses would calm in his presence, wild dogs would lower their hackles, and even venomous serpents seemed to sense his lack of fear combined with his lack of malice.
+Akhrem was born in the Empire of [[affiliation-empirtkhpr|Aû'Khelâthu]], where the vast grasslands and savannas demanded respect for the creatures that inhabited them. His family had served as animal handlers for generations, a lineage stretching back to his great-grandfather who trained the sacred beasts for temple ceremonies. As a child, Akhrem displayed an almost preternatural ability to communicate with animals—horses would calm in his presence, wild dogs would lower their hackles, and even venomous serpents seemed to sense his lack of fear combined with his lack of malice.
 
 At fifteen, he apprenticed formally to **Master Natari**, the Empire's foremost animal trainer, learning not through books or doctrine but through intuition and practice. Natari taught him that animals respond to intention and respect, not dominance and cruelty. For twenty-three years, Akhrem worked beside Natari, specializing in the training of exotic beasts for noble hunts, military campaigns, and ceremonial purposes. When Natari grew too aged to continue, Akhrem inherited both his knowledge and his responsibilities.
 
@@ -488,7 +488,7 @@ Akhrem also carries a private mission to discover and preserve knowledge about a
 
 ### Affiliations
 
-- **The Hunters' Guild of Ta'Kheperu**: A formal organization of hunters and animal specialists. While Akhrem maintains membership and respects the Guild's codes, he remains something of an outsider due to his unorthodox methods and preference for solitude.
+- **The Hunters' Guild of Aû'Khelâthu**: A formal organization of hunters and animal specialists. While Akhrem maintains membership and respects the Guild's codes, he remains something of an outsider due to his unorthodox methods and preference for solitude.
 
 ## Plot Hooks
 
@@ -498,6 +498,6 @@ Akhrem also carries a private mission to discover and preserve knowledge about a
 
 3. **The Poaching Ring**: Akhrem discovers evidence of an organized poaching operation targeting the rarest animals in the Empire. The operation is larger and better-organized than any he has encountered before, with military-style structure and significant resources. Following the trail leads him toward powerful figures in government and nobility, forcing him to choose between his loyalty to Lord Vaskan and his obligation to protect the creatures under threat.
 
-4. **The Stolen Beast**: One of Akhrem's prized trained animals—a magnificent creature worth a fortune and irreplaceable to him—is stolen by persons unknown. The investigation leads him into the criminal underworld of Ta'Kheperu's cities, where he must employ unfamiliar tactics of deception and information-gathering to track the theft. The trail suggests involvement of Kharven, but the conspiracy appears far larger than personal rivalry.
+4. **The Stolen Beast**: One of Akhrem's prized trained animals—a magnificent creature worth a fortune and irreplaceable to him—is stolen by persons unknown. The investigation leads him into the criminal underworld of Aû'Khelâthu's cities, where he must employ unfamiliar tactics of deception and information-gathering to track the theft. The trail suggests involvement of Kharven, but the conspiracy appears far larger than personal rivalry.
 
 5. **The Sacred Charge**: The Temple of Sacred Beasts approaches Akhrem with a desperate commission: a sacred creature, essential to maintaining the religious ceremonies that bind the Empire together, is dying of an unknown affliction. They believe Akhrem's skills represent the only hope for the animal's recovery. Success would grant him influence and resources unprecedented in his life; failure would devastate both the creature and the social order itself. As Akhrem works to understand the creature's illness, he uncovers evidence suggesting the affliction was deliberately induced—and the perpetrator is someone high within the Temple hierarchy.

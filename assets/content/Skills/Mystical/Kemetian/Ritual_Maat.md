@@ -1,6 +1,6 @@
 ---
 shortcode: maat
-name: {full: "Ritual: Má'át", aliases: [Keeper of Truth and Harmony, Má'át, Maat]}
+name: {full: "Ritual: Qe'âret", aliases: [Keeper of Truth and Harmony, Qe'âret, Qar]}
 type: skill
 subType: mystical
 tags: [kemetian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-maat|Faith of Má'át]]
+See [[affiliation-maat|Faith of Qe'âret]]

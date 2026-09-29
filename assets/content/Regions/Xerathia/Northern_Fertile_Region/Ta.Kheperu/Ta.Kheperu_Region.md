@@ -1,13 +1,13 @@
 ---
 shortcode: takheperurgn
-name: {full: Ta'Kheperu Region, aliases: []}
+name: {full: Aû'Khelâthu Region, aliases: []}
 type: place
 subType: region
-description: The great river valley and delta of Xerathia's northern shore—a band of flood-fed abundance running hundreds of leagues inland, and the seat of the Empire of Ta'Kheperu.
+description: The great river valley and delta of Xerathia's northern shore—a band of flood-fed abundance running hundreds of leagues inland, and the seat of the Empire of Aû'Khelâthu.
 tags: [region]
 data:
   icon: null
-  demonym: Kheperi
+  demonym: Khelâthi
   lore: [humanflk]
   parents: [nrthrnfrtlrgn, xerathia]
   borders:
@@ -21,16 +21,16 @@ data:
 
 ## Overview
 
-The Ta'Kheperu Region is the river country of the
+The Aû'Khelâthu Region is the river country of the
 [[place-nrthrnfrtlrgn|Northern Fertile Region]]—the stretch of Xerathia's
-northern shore held by the [[affiliation-empirtkhpr|Empire of Ta'Kheperu]], running
+northern shore held by the [[affiliation-empirtkhpr|Empire of Aû'Khelâthu]], running
 from the delta on the [[place-vylarianse|Vylarian Sea]] hundreds of leagues
 south along the great river that gives the country its life.
 
 It is the exception in a region that is otherwise fertile only where it has
 been engineered to be. Where [[place-bethuargn|Bethûa]] and
 [[place-okharisrgn|Okháris]] draw their harvests from aqueducts and herds, the
-Kheperi valley is fed by an annual flood that lays down rich black silt across
+Khelâthi valley is fed by an annual flood that lays down rich black silt across
 the floodplains each year.
 
 ## Geography
@@ -45,15 +45,15 @@ water to it.
 
 ## Peoples and Culture
 
-The region is Kheperi: urban, literate, hierarchical, governed by a vast
-scribal bureaucracy beneath the divine office of the Per-Aá, and organized
-religiously around the [[affiliation-kemtnpnthn|Kemetian Pantheon]]. Along the
-western fringes, steppe peoples hold grazing arrangements with the Kheperi
+The region is Khelâthi: urban, literate, hierarchical, governed by a vast
+scribal bureaucracy beneath the divine office of the Gar-Aû, and organized
+religiously around the [[affiliation-kemtnpnthn|Khelâthi Pantheon]]. Along the
+western fringes, steppe peoples hold grazing arrangements with the Khelâthi
 nomarchs of the sort found on the region's other margins.
 
 ## Politics and Power
 
-The region is the heartland of the [[affiliation-empirtkhpr|Empire of Ta'Kheperu]] and
+The region is the heartland of the [[affiliation-empirtkhpr|Empire of Aû'Khelâthu]] and
 is administered through its nomes. Its frontier with
 [[place-bethuargn|Bethûa]] to the west has never been precisely drawn, and
 occasional friction along it is the region's most persistent external
@@ -62,6 +62,6 @@ irritant.
 ## See Also
 
 - [[place-nrthrnfrtlrgn|Northern Fertile Region]]—the parent region
-- [[affiliation-empirtkhpr|Empire of Ta'Kheperu]]—the realm that holds this region
+- [[affiliation-empirtkhpr|Empire of Aû'Khelâthu]]—the realm that holds this region
 - [[place-bethuargn|Bethûa Region]]—neighbor to the west
 - [[place-okharisrgn|Okháris Region]]—neighbor to the south

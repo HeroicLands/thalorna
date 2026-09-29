@@ -36,7 +36,7 @@ The merchant houses build their coasting hulls on the west side, in yards they o
 
 ## Who Comes Here
 
-Every foreign trade Vedyara has by sea lands on this beach. The Kheperi factors keep a street of their own, walled and gated, with their own well and their own weights, and the argument about the weights is older than the street. Tānvüri junks come round the eastern capes in the late season and lie outside the bar rather than take a pilot, which the pilots regard as an insult and the junk-masters as a precaution. Jürthāti hulls come irregularly and are dealt with warily.
+Every foreign trade Vedyara has by sea lands on this beach. The Khelâthi factors keep a street of their own, walled and gated, with their own well and their own weights, and the argument about the weights is older than the street. Tānvüri junks come round the eastern capes in the late season and lie outside the bar rather than take a pilot, which the pilots regard as an insult and the junk-masters as a precaution. Jürthāti hulls come irregularly and are dealt with warily.
 
 The [[affiliation-ordoarcanis|Ordo Arcanis]] keeps one licensed factor here, and that is the whole of the Ordo's standing in the subcontinent. He is licensed to trade and to carry letters. He is not licensed to teach, to examine anybody, or to hold a working in the town, and the Council that licenses him renews the licence yearly in a ceremony designed to make the yearly part conspicuous.
 

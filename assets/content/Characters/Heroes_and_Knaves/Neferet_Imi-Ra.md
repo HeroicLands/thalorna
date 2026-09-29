@@ -1,10 +1,10 @@
 ---
 shortcode: neferetimr
 name:
-  full: Neferet Imi-Ra
+  full: Neferet Ilmy-Zâ
   title: ""
   given: Neferet
-  clan: Imi-Ra
+  clan: Ilmy-Zâ
   home: wasetkara
   aliases: [The Scholar of Forgotten Texts]
 type: being
@@ -421,17 +421,17 @@ sohl:
     defaultCombatGroup: null
 ---
 
-**Home:** [[place-wasetkara|Wasetkara]]
+**Home:** [[place-wasetkara|Galezkara]]
 
 # Appearance {#appearance}
 
-![[neferetimr|Neferet Imi-Ra]]{float=top-left}
+![[neferetimr|Neferet Ilmy-Zâ]]{float=top-left}
 
 Neferet stands 5'6\" tall with a light build. He has deep brown skin, tightly curled black hair, and dark brown eyes. His features include a prominent nose, a pointed chin, thin brows, angular cheeks.
 
 # Dossier {#dossier}
 
-Neferet Imi-Ra was a rising scholar in the **Imperial Library of [[affiliation-empirtkhpr|Ta’Kheperu]]** in [[place-khemenu|Khemenu]], renowned for her knowledge of ancient astrological texts and obscure prophecies. As a curator, she had access to hidden archives, many of which contained lost and forbidden knowledge related to the stars and the mystical traditions of the empire’s past. Neferet’s work had already garnered attention, but she sought something more—a discovery that would cement her place among the great scholars of history.
+Neferet Ilmy-Zâ was a rising scholar in the **Imperial Library of [[affiliation-empirtkhpr|Ta’Kheperu]]** in [[place-khemenu|Khelunu]], renowned for her knowledge of ancient astrological texts and obscure prophecies. As a curator, she had access to hidden archives, many of which contained lost and forbidden knowledge related to the stars and the mystical traditions of the empire’s past. Neferet’s work had already garnered attention, but she sought something more—a discovery that would cement her place among the great scholars of history.
 
 Her life took a sudden turn when [[being-mrtsbkhkmn|Meret-Sebek]] appeared in the Imperial Library, desperate to find answers to the celestial visions that had begun to haunt him. Intrigued by the astrologer’s claims, Neferet aided him in deciphering several ancient scrolls that described similar phenomena, prophecies about celestial shifts that heralded great changes. However, the deeper they dug into the texts, the more unsettling their findings became. The visions [[being-mrtsbkhkmn|Meret-Sebek]] described aligned too closely with prophecies foretelling a cosmic upheaval that could reshape the world.
 
@@ -486,4 +486,4 @@ Neferet is driven by a desire for discovery and recognition. She believes that h
 
 3. **The Scholar’s Rivalry**: A fellow scholar accuses Neferet of stealing their work on deciphering celestial patterns. The accusation gains traction, jeopardizing her reputation. To clear her name, Neferet must uncover the rival’s motives and expose their plot while racing against them to publish the findings tied to the celestial upheaval.
 
-4. **The Relic Hunters**: A band of treasure hunters approaches Neferet, claiming they’ve recovered a legendary artifact of the ancient Kemetían priesthood. They offer it in exchange for her expertise in unlocking its secrets, but she soon realizes they intend to sell the knowledge to foreign powers. Neferet must decide whether to sabotage their efforts or manipulate them into aiding her own research.
+4. **The Relic Hunters**: A band of treasure hunters approaches Neferet, claiming they’ve recovered a legendary artifact of the ancient Khelâthi priesthood. They offer it in exchange for her expertise in unlocking its secrets, but she soon realizes they intend to sell the knowledge to foreign powers. Neferet must decide whether to sabotage their efforts or manipulate them into aiding her own research.

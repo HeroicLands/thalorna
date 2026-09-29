@@ -1,6 +1,6 @@
 ---
 shortcode: seker
-name: {full: "Ritual: Sēker", aliases: [Lord of Silent Passage]}
+name: {full: "Ritual: Wethûr", aliases: [Lord of Silent Passage]}
 type: skill
 subType: mystical
 tags: [kemetian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-seker|Faith of Sēker]]
+See [[affiliation-seker|Faith of Wethûr]]

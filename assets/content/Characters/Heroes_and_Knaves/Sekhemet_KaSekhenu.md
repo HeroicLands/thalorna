@@ -439,7 +439,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-**Home:** [[place-khensuret|Khensuret]]
+**Home:** [[place-khensuret|Khelzuret]]
 
 # Appearance {#appearance}
 
@@ -449,11 +449,11 @@ Sekhemet stands 5'9" tall with a light build. She has dark brown skin, very dark
 
 # Dossier {#dossier}
 
-Sekhemet Ka'Sekhenu was born to a family of modest merchants with shipping interests in the [[affiliation-empirtkhpr|Ta'Kheperu]] delta. As the only daughter among three sons, she was initially groomed for an advantageous marriage, but her brilliant mind and natural charisma made her far more valuable as a business asset. Her father allowed her to apprentice in the family trade, an unusual but pragmatic decision that proved inspired when Sekhemet demonstrated an almost supernatural gift for managing complex logistics networks.
+Sekhemet Ka'Sekhenu was born to a family of modest merchants with shipping interests in the [[affiliation-empirtkhpr|Aû'Khelâthu]] delta. As the only daughter among three sons, she was initially groomed for an advantageous marriage, but her brilliant mind and natural charisma made her far more valuable as a business asset. Her father allowed her to apprentice in the family trade, an unusual but pragmatic decision that proved inspired when Sekhemet demonstrated an almost supernatural gift for managing complex logistics networks.
 
 She earned her pilot's marks at an unusually young age and quickly became known for her reliability, her ability to deliver cargo intact and on schedule despite the treacherous river and coastal routes she navigated. Seven years ago, a catastrophic accident—still shrouded in some mystery—damaged her vessel and nearly killed her, resulting in the scar that marks her body. She recovered her confidence, though not without struggle, and has since earned a reputation as one of the most dependable pilots in the entire Empire, commanding premium rates from merchants who value certainty above price.
 
-She answers to no single master, instead maintaining relationships with dozens of merchants and trading houses who know they can depend on her. This independence has become both her greatest asset and her defining characteristic. Her devotion to [[lore-hapidty|Hâpi]], the god of prosperity and the Iteru's abundance, reflects her philosophy: success comes from understanding flows, redirecting currents wisely, and maintaining balance in all things.
+She answers to no single master, instead maintaining relationships with dozens of merchants and trading houses who know they can depend on her. This independence has become both her greatest asset and her defining characteristic. Her devotion to [[lore-hapidty|Thubâ'i]], the god of prosperity and the igelu's abundance, reflects her philosophy: success comes from understanding flows, redirecting currents wisely, and maintaining balance in all things.
 
 ## Psyche
 
@@ -503,9 +503,9 @@ Beneath these practical ambitions lies a deeper need: to prove that a woman can 
 
 ### Affiliations
 
-- **Mariners' Guild of Ta'Kheperu**: Full member and contributor to the guild's safety standards and traditions.
+- **Mariners' Guild of Aû'Khelâthu**: Full member and contributor to the guild's safety standards and traditions.
 - **The Merchants' Circle**: An informal association of independent traders who meet to share information and coordinate against larger commercial entities attempting to monopolize trade routes.
-- **The Temple of Hâpi**: Devoted worshipper and regular contributor to the temple's charitable work supporting injured or disabled sailors.
+- **The Temple of Thubâ'i**: Devoted worshipper and regular contributor to the temple's charitable work supporting injured or disabled sailors.
 
 ## Plot Hooks
 

@@ -1,9 +1,9 @@
 ---
 shortcode: iatneteru
-name: {full: Iat-Neteru, aliases: []}
+name: {full: Yath-Neteru, aliases: []}
 type: place
 subType: settlement
-description: "Nome capital of Sept-Neteru."
+description: "Nome capital of Selat-Neteru."
 tags: [town]
 data:
   banner: takheperubnr
@@ -16,11 +16,11 @@ data:
 
 ## Overview
 
-Iat-Neteru is the capital of [[affiliation-nomesptntr|the Nome of Sept-Neteru]] and the seat of its [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]]. It holds the nome's chief temple of [[affiliation-iset|Íšét]], the Haty'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the nome's: the shrine-islands; a quiet pilgrimage nome of marsh-temples and few people.
+Yath-Neteru is the capital of [[affiliation-nomesptntr|the Nome of Selat-Neteru]] and the seat of its [[affiliation-empirtkhpr#titles-and-forms-of-address|Halzi'a]]. It holds the selat's chief temple of [[affiliation-iset|Uznêra]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's: the shrine-islands; a quiet pilgrimage selat of marsh-temples and few people.
 
 ## See Also
 
-- [[affiliation-nomesptntr|The Nome of Sept-Neteru]]—Parent nome
+- [[affiliation-nomesptntr|The Nome of Selat-Neteru]]—Parent selat
 - [[affiliation-deltanomes|The Delta Nomes]]—Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Imperial overview
-- [[affiliation-iset|Íšét]]—Patron cult
+- [[affiliation-empirtkhpr|The Empire of Aû'Khelâthu]]—Imperial overview
+- [[affiliation-iset|Uznêra]]—Patron cult

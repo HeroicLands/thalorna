@@ -1,6 +1,8 @@
 ---
 shortcode: thoth
-name: {full: "Ritual: Thōth", aliases: [Thōth, Djhuty, Thaut, The Scribe of the Eternal Library]}
+name:
+  full: "Ritual: Reth'Sa'âr"
+  aliases: [Reth'Sa'âr, Djhuty, Thaut, The Scribe of the Eternal Library]
 type: skill
 subType: mystical
 tags: [kemetian, faith-skill, draft]
@@ -15,4 +17,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-thoth|Faith of Thōth]]
+See [[affiliation-thoth|Faith of Reth'Sa'âr]]

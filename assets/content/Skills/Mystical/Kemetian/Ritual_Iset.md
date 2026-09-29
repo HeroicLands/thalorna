@@ -1,6 +1,6 @@
 ---
 shortcode: iset
-name: {full: "Ritual: Íšét", aliases: [Mother of New Beginnings, Íšét, Iset]}
+name: {full: "Ritual: Uznêra", aliases: [Mother of New Beginnings, Uznêra, Iset]}
 type: skill
 subType: mystical
 tags: [kemetian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-iset|Faith of Íšét]]
+See [[affiliation-iset|Faith of Uznêra]]

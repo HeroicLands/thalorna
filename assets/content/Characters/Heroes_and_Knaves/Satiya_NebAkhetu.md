@@ -443,11 +443,11 @@ Satiya stands 6'0" tall with a medium build. She has ebony skin, black hair, and
 
 # Dossier {#dossier}
 
-Satiya Neb'Akhetu was born into the free classes of [[affiliation-empirtkhpr|Ta'Kheperu]], neither enslaved nor nobility, but precisely placed in that careful middle where service becomes the foundation of survival. Her mother was a cook, her father a minor functionary in the temple of Íšét. From childhood, Satiya showed an almost obsessive need for order, and by her late teens, she had already begun managing the household of a moderately wealthy merchant. That position lasted seventeen years until the merchant's death, when Satiya found herself without patronage and with many rivals for the next place.
+Satiya Neb'Akhetu was born into the free classes of [[affiliation-empirtkhpr|Aû'Khelâthu]], neither enslaved nor nobility, but precisely placed in that careful middle where service becomes the foundation of survival. Her mother was a cook, her father a minor functionary in the temple of Uznêra. From childhood, Satiya showed an almost obsessive need for order, and by her late teens, she had already begun managing the household of a moderately wealthy merchant. That position lasted seventeen years until the merchant's death, when Satiya found herself without patronage and with many rivals for the next place.
 
 For the past four years, she has served in the household of Master Henti, a wealthy intellectual and collector of antiquities. Henti values her genius for order and the way she has transformed his somewhat chaotic holdings into a model of good management. Yet Henti, like many employers, takes her service for granted, referring to her competence as simply "what Satiya does" rather than acknowledging it as anything out of the ordinary. She manages the physical household, deals with merchants, oversees the preparation of elaborate entertainments, and acts as Henti's informal advisor on matters of domestic stability.
 
-Her spiritual devotion to Íšét, goddess of fertility and the domestic sphere, runs deep—though some might argue it borders on obsession. Satiya sees her work not as mere service but as sacred duty, maintaining the fertile, ordered space from which all civilization springs.
+Her spiritual devotion to Uznêra, goddess of fertility and the domestic sphere, runs deep—though some might argue it borders on obsession. Satiya sees her work not as mere service but as sacred duty, maintaining the fertile, ordered space from which all civilization springs.
 
 ## Psyche
 
@@ -465,7 +465,7 @@ Satîya's deepest drive pulls two ways: she seeks both complete control over her
 
 - **Organizational Mastery**: Can manage complex households of any size with near-perfect economy, tracking stores, staff, schedules, and deliveries with minimal effort.
 - **Problem Solver**: Possesses practical wisdom for solving the hundred small crises that arise in domestic life—from preventing conflicts between staff to stretching the household purse without visible compromise.
-- **Ritual Knowledge**: Deeply versed in the practices and observances necessary for proper worship of Íšét, allowing her to structure household activities in spiritually appropriate ways.
+- **Ritual Knowledge**: Deeply versed in the practices and observances necessary for proper worship of Uznêra, allowing her to structure household activities in spiritually appropriate ways.
 - **Command Authority**: Can direct servants and staff without raising her voice—people obey her not from fear but from respect for her evident competence and fairness.
 - **Adaptability**: Though she values order, Satiya can adjust routines and arrangements when circumstances demand, maintaining her vision of perfection while accommodating necessity.
 
@@ -482,7 +482,7 @@ Satîya's deepest drive pulls two ways: she seeks both complete control over her
 ### Patrons
 
 - **Master Henti of House Sekhemka**: Her current employer, a wealthy antiquarian who, despite his obliviousness to her resentment, depends on her and would be lost without her.
-- **The Temple of Íšét**: Satiya performs volunteer ritual work at the main temple and is recognized there as a keeper of proper domestic observances.
+- **The Temple of Uznêra**: Satiya performs volunteer ritual work at the main temple and is recognized there as a keeper of proper domestic observances.
 - **The Association of Household Stewards**: A loose society of the trade through which Satiya occasionally takes outside work, reordering the households of other noble families.
 
 ### Enemies
@@ -493,16 +493,16 @@ Satîya's deepest drive pulls two ways: she seeks both complete control over her
 
 ### Affiliations
 
-- **Temple of Íšét**: Devoted worshipper and volunteer, though she attends with the same methodical approach she applies to everything.
+- **Temple of Uznêra**: Devoted worshipper and volunteer, though she attends with the same methodical approach she applies to everything.
 - **Household Stewards' Association**: Member in good standing, though she remains somewhat isolated even among her peers in the trade.
 
 ## Plot Hooks
 
 1. **The Inheritance Dispute**: Master Henti dies unexpectedly, and his will reveals that he has bequeathed his substantial household—not to his lazy nephew, but to Satiya, with instructions to run it until the nephew matures. However, the nephew and his supporters contest the will, claiming Satiya coerced or manipulated the elderly Henti. Satiya must now fight for her right to the position she has effectively held all along, proving both the legitimacy of Henti's wishes and her own worthiness. The vindication she has always craved now comes tangled with accusation and doubt.
 
-2. **The Seduction of the Smuggler**: A charming merchant captain arrives in Ta'Kheperu seeking to establish a shipping venture, and he becomes a frequent guest in Master Henti's household. He pays Satiya extraordinary attention—complimenting her work, remembering details about her preferences, treating her with the respect and recognition she has been denied for decades. Only gradually does Satiya realize he is using her access and knowledge of the household to steal valuable antiquities for sale to foreign collectors. She has to choose between the intoxicating recognition he offers and her fundamental integrity, and then whether exposure will destroy the reputation she has built.
+2. **The Seduction of the Smuggler**: A charming merchant captain arrives in Aû'Khelâthu seeking to establish a shipping venture, and he becomes a frequent guest in Master Henti's household. He pays Satiya extraordinary attention—complimenting her work, remembering details about her preferences, treating her with the respect and recognition she has been denied for decades. Only gradually does Satiya realize he is using her access and knowledge of the household to steal valuable antiquities for sale to foreign collectors. She has to choose between the intoxicating recognition he offers and her fundamental integrity, and then whether exposure will destroy the reputation she has built.
 
-3. **The Ritual Demands**: The Temple of Íšét approaches Satiya with an unusual request: to oversee a month-long ceremonial preparation of a noble household for a sacred fertility festival, essentially removing her from Master Henti's service. The temple promises her recognition and a position of minor authority that would finally see her name known and respected. However, completing this task would mean temporarily abandoning the household she has controlled, allowing a temporary steward to make decisions in her absence. Satiya must weigh her hunger for recognition against her need to maintain control of her domain.
+3. **The Ritual Demands**: The Temple of Uznêra approaches Satiya with an unusual request: to oversee a month-long ceremonial preparation of a noble household for a sacred fertility festival, essentially removing her from Master Henti's service. The temple promises her recognition and a position of minor authority that would finally see her name known and respected. However, completing this task would mean temporarily abandoning the household she has controlled, allowing a temporary steward to make decisions in her absence. Satiya must weigh her hunger for recognition against her need to maintain control of her domain.
 
 4. **The Scandal and the Scapegoat**: A theft or moral scandal occurs in Master Henti's household—perhaps a young servant is found with child, or valuable items go missing—and though Satiya is certainly not responsible, her position makes her a convenient target for blame. Henti, rather than defending her, chooses to dismiss her to avoid further embarrassment. Satiya can accept the humiliation or take action to expose the truth, potentially destroying the household she has devoted herself to protecting.
 

@@ -1,10 +1,10 @@
 ---
 shortcode: raiahsekmt
 name:
-  full: Raiah Sekmet'Âu
+  full: Raiah Uzner'Âu
   title: ""
   given: Raiah
-  clan: Sekmet'Âu
+  clan: Uzner'Âu
   home: wasetkara
   aliases: [Raiah Sekmetâ]
 type: being
@@ -415,11 +415,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-**Home:** [[place-wasetkara|Wasetkara]]
+**Home:** [[place-wasetkara|Galezkara]]
 
 # Appearance {#appearance}
 
-![[raiahsekmt|Raiah Sekmet'Âu]]{float=top-left}
+![[raiahsekmt|Raiah Uzner'Âu]]{float=top-left}
 
 Raiah stands 6'0" tall with a heavy build. He has ebony skin, graying black hair, and brown eyes. His features include a diamond-shaped face, a slightly arched nose, a narrow chin, well-shaped lips, and arched brows.
 
@@ -427,11 +427,11 @@ Raiah stands 6'0" tall with a heavy build. He has ebony skin, graying black hair
 
 **Early Mastery**
 
-Raiah was born into the Sekmetâ family, a lineage whose name had been whispered among the smiths and bladewrights of the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]] for three generations. His father, **Sekenare Sekmetâ**, was himself a craftsman of note, and from age seven, young Raiah spent every waking hour in the workshop, learning the sacred geometry of tempering and the ancient songs the smiths sang to guide their hammer strikes. By his twentieth year, he had surpassed his father in technique, earning the notice of the city's noble houses and the military's elite orders.
+Raiah was born into the Sekmetâ family, a lineage whose name had been whispered among the smiths and bladewrights of the Empire of [[affiliation-empirtkhpr|Aû'Khelâthu]] for three generations. His father, **Sekenare Sekmetâ**, was himself a craftsman of note, and from age seven, young Raiah spent every waking hour in the workshop, learning the sacred geometry of tempering and the ancient songs the smiths sang to guide their hammer strikes. By his twentieth year, he had surpassed his father in technique, earning the notice of the city's noble houses and the military's elite orders.
 
 **The Guild and Renown**
 
-Four decades of painstaking work transformed Raiah from a talented artisan into the preeminent weaponcrafter of Ta'Kheperu. He joined the City Blacksmiths' Guild and became its conscience—enforcing standards that others found restrictive, insisting that every blade bear the mark of perfection or bear no mark at all. His refusal to compromise for profit or pressure has earned him the loyalty of those who commission his work and the enmity of competitors whose inferior craft he openly disdains. As a man of faith, he dedicates every seventh day's work to Íšét, goddess of fertility and renewal, believing that the strength in his blades comes ultimately from divine blessing.
+Four decades of painstaking work transformed Raiah from a talented artisan into the preeminent weaponcrafter of Aû'Khelâthu. He joined the City Blacksmiths' Guild and became its conscience—enforcing standards that others found restrictive, insisting that every blade bear the mark of perfection or bear no mark at all. His refusal to compromise for profit or pressure has earned him the loyalty of those who commission his work and the enmity of competitors whose inferior craft he openly disdains. As a man of faith, he dedicates every seventh day's work to Uznêra, goddess of fertility and renewal, believing that the strength in his blades comes ultimately from divine blessing.
 
 **The Present Master**
 
@@ -447,14 +447,14 @@ His gruff manner covers a deep melancholy: he has spent fifty-five years in serv
 
 ### Motivation
 
-Raiah Sekmetâ drives himself forward by a singular obsession: to create the perfect blade before age or death claims him. This is not a goal achievable in one lifetime, and he knows it—yet the pursuit itself is what gives his days meaning. He believes that through his craft he serves Íšét's principle of creation and renewal, and that every weapon forged with true excellence contributes some measure of order and balance to a chaotic world. Beyond personal legacy, he is motivated by a fierce protectiveness of his craft's integrity; he works tirelessly to see that inferior smiths do not tarnish the reputation of true weaponcraft or deceive nobles into commissioning dangerous, shoddy arms.
+Raiah Sekmetâ drives himself forward by a singular obsession: to create the perfect blade before age or death claims him. This is not a goal achievable in one lifetime, and he knows it—yet the pursuit itself is what gives his days meaning. He believes that through his craft he serves Uznêra's principle of creation and renewal, and that every weapon forged with true excellence contributes some measure of order and balance to a chaotic world. Beyond personal legacy, he is motivated by a fierce protectiveness of his craft's integrity; he works tirelessly to see that inferior smiths do not tarnish the reputation of true weaponcraft or deceive nobles into commissioning dangerous, shoddy arms.
 
 ### Strengths
 
 - **Master Metalworking:** Raiah's technical mastery has no equal across the empire; his hands can coax metal into forms others deemed impossible. His skill with both common and rare alloys is complete.
 - **Uncompromising Standards:** He refuses to compromise on quality, which has made his name synonymous with excellence in weaponcraft. He will reject commissions that cannot meet his rigorous specifications.
 - **Profound Knowledge:** Beyond metalcraft, Raiah possesses deep knowledge of geology, mineral composition, weapon design principles, and the historical techniques of ancient masters—knowledge accumulated across five decades of intensive study.
-- **Ritual Expertise:** His devotion to Íšét has made him skilled in ceremonial craft and ritual metalworking; weapons blessed through his hands are said to carry divine favor.
+- **Ritual Expertise:** His devotion to Uznêra has made him skilled in ceremonial craft and ritual metalworking; weapons blessed through his hands are said to carry divine favor.
 - **Leadership and Command:** Despite his age, Raiah commands immediate respect and loyalty from those in his sphere, acting as a moral anchor and arbiter in disputes among craftspeople.
 
 ### Weaknesses
@@ -492,6 +492,6 @@ Raiah Sekmetâ drives himself forward by a singular obsession: to create the per
 
 3. **The Apprentice's Secret**: One of Raiah's trusted apprentices confesses to the party (privately) that the master has grown obsessed with creating a weapon of legend—one so perfect that it approaches divinity. The apprentice fears Raiah is sacrificing his ethics and dealing with unsavory contacts, including dark alchemists and blood-cultists, to obtain materials for this final masterwork. The party can confront Raiah, investigate the suspicious contacts themselves, or attempt an intervention that respects the old smith's dignity and autonomy.
 
-4. **Thieves of Craft**: The party discovers that an enemy faction is systematically stealing designs, materials, and even half-completed works from Raiah's forge. Investigation reveals that a rival nation is attempting to reverse-engineer the secrets of Ta'Kheperu's superior weaponcraft, and Raiah's work is their primary target. Raiah hires the party to identify the thieves, reclaim his works, and establish security. However, the deeper investigation reveals that one of his own apprentices may be involved—complicating the question of justice and mercy that Raiah himself struggles with.
+4. **Thieves of Craft**: The party discovers that an enemy faction is systematically stealing designs, materials, and even half-completed works from Raiah's forge. Investigation reveals that a rival nation is attempting to reverse-engineer the secrets of Aû'Khelâthu's superior weaponcraft, and Raiah's work is their primary target. Raiah hires the party to identify the thieves, reclaim his works, and establish security. However, the deeper investigation reveals that one of his own apprentices may be involved—complicating the question of justice and mercy that Raiah himself struggles with.
 
 5. **The Curse of the Blade**: A warrior wielding one of Raiah's famous swords returns dying, claiming the weapon has become cursed and turns against its wielder. Multiple other sword owners report strange occurrences. Raiah is initially incredulous—his blades are forged with blessing, not bane—but investigation suggests that someone has been performing dark rituals over his completed works, corrupting them after they've left his care. The party must track down the perpetrator while Raiah attempts to determine which of his creations have been tainted and whether they can be cleansed or must be destroyed.

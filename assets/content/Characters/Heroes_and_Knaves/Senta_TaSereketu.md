@@ -422,7 +422,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-**Home:** [[place-perankhet|Per-Ankhet]]
+**Home:** [[place-perankhet|Gar-Ankhet]]
 
 # Appearance {#appearance}
 
@@ -436,11 +436,11 @@ Sênta stands 5'10" tall with a medium build. She has tawny skin, jet black hair
 
 ### Early Life
 
-Born to the Ta'Sereketu clan in the fertile valleys of the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]], Sênta grew up watching her mother's brothers manage trade caravans between distant cities. Where other children played at merchant games, she scrambled up cliffside trails and learned to read the land like her elders read ledgers. Her mother, a priestess of [[lore-isetdty|Íšét]], blessed her daughter's natural agility with sacred oils before each journey, whispering prayers to the goddess of fertility and life's bounty for safe travels. This bond to the divine marked Sênta early, though she would never serve in any temple—her calling lay elsewhere.
+Born to the Ta'Sereketu clan in the fertile valleys of the Empire of [[affiliation-empirtkhpr|Aû'Khelâthu]], Sênta grew up watching her mother's brothers manage trade caravans between distant cities. Where other children played at merchant games, she scrambled up cliffside trails and learned to read the land like her elders read ledgers. Her mother, a priestess of [[lore-isetdty|Uznêra]], blessed her daughter's natural agility with sacred oils before each journey, whispering prayers to the goddess of fertility and life's bounty for safe travels. This bond to the divine marked Sênta early, though she would never serve in any temple—her calling lay elsewhere.
 
 ### Training and Path
 
-At thirteen, Sênta convinced a weathered caravan master named **Thoren the Keen-Eyed** to hire her as a porter. Within two seasons, her rare climbing ability and innate awareness caught the attention of the caravan's head scout, **[[being-mesharawse|Meshara]]**, a hard woman in her late sixties who taught Sênta everything about reconnaissance, evasion, and survival in wild country. Under Meshara's tutelage, Sênta learned to move silently through scrubland and avoid bandits' notice, and to read wind patterns, predict weather, and understand the subtle signs of dangerous predators or hidden camps. She earned her first scout's blade at twenty, marking her official entry into the Mercenaries' Guild of Ta'Kheperu.
+At thirteen, Sênta convinced a weathered caravan master named **Thoren the Keen-Eyed** to hire her as a porter. Within two seasons, her rare climbing ability and innate awareness caught the attention of the caravan's head scout, **[[being-mesharawse|Meshara]]**, a hard woman in her late sixties who taught Sênta everything about reconnaissance, evasion, and survival in wild country. Under Meshara's tutelage, Sênta learned to move silently through scrubland and avoid bandits' notice, and to read wind patterns, predict weather, and understand the subtle signs of dangerous predators or hidden camps. She earned her first scout's blade at twenty, marking her official entry into the Mercenaries' Guild of Aû'Khelâthu.
 
 ### Current Situation
 
@@ -490,7 +490,7 @@ Sênta seeks to test herself against increasingly difficult challenges, driven b
 
 - **Caravan Master Thoren the Keen-Eyed**: Her early mentor who first hired her as a porter, Thoren remains a friend and occasional employer. Though he rarely travels the trade routes himself anymore, managing a large operation from his warehouse in the capital, he recommends Sênta to other caravan masters seeking reliable protection.
 
-- **The Mercenaries' Guild of Ta'Kheperu**: The formal institution that recognizes her as a guard and provides a steady stream of work. Guild contacts occasionally request her specifically for high-value or dangerous routes.
+- **The Mercenaries' Guild of Aû'Khelâthu**: The formal institution that recognizes her as a guard and provides a steady stream of work. Guild contacts occasionally request her specifically for high-value or dangerous routes.
 
 ### Enemies
 
@@ -500,7 +500,7 @@ Sênta seeks to test herself against increasingly difficult challenges, driven b
 
 ### Affiliations
 
-- **Mercenaries' Guild of Ta'Kheperu**: The primary organization that regulates her work and provides access to jobs. She maintains good standing and is considered one of the guild's most valuable members.
+- **Mercenaries' Guild of Aû'Khelâthu**: The primary organization that regulates her work and provides access to jobs. She maintains good standing and is considered one of the guild's most valuable members.
 
 - **Hat'Nefetu Trading Company**: Informal affiliation with Merchant Prince Hat'Nefetu's extensive trade network, giving her access to supplies, safe houses, and information along the major trade routes.
 

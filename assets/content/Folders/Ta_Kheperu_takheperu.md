@@ -1,6 +1,6 @@
 ---
 shortcode: takheperu
-name: {full: "Ta'Kheperu"}
+name: {full: "Aû'Khelâthu"}
 type: folder
 data: {parent: {default: polities, journals: northernfertileregion}, color: "#66BB6A"}
 ---

@@ -1,9 +1,9 @@
 ---
 shortcode: perbanit
-name: {full: Per-Banit, aliases: []}
+name: {full: Gar-Banit, aliases: []}
 type: place
 subType: settlement
-description: "Nome capital of Per-Banit."
+description: "Nome capital of Gar-Banit."
 tags: [town]
 data:
   banner: takheperubnr
@@ -16,11 +16,11 @@ data:
 
 ## Overview
 
-Per-Banit is the capital of [[affiliation-nomeperban|the Nome of Per-Banit]] and the seat of its [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]]. It holds the nome's chief temple of [[affiliation-ptah|Ptā'h]], the Haty'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the nome's: flax fields and the linen-weaving towns whose cloth clothes the empire.
+Gar-Banit is the capital of [[affiliation-nomeperban|the Nome of Gar-Banit]] and the seat of its [[affiliation-empirtkhpr#titles-and-forms-of-address|Halzi'a]]. It holds the selat's chief temple of [[affiliation-ptah|Psaq'âru]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's: flax fields and the linen-weaving towns whose cloth clothes the empire.
 
 ## See Also
 
-- [[affiliation-nomeperban|The Nome of Per-Banit]]—Parent nome
+- [[affiliation-nomeperban|The Nome of Gar-Banit]]—Parent selat
 - [[affiliation-deltanomes|The Delta Nomes]]—Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Imperial overview
-- [[affiliation-ptah|Ptā'h]]—Patron cult
+- [[affiliation-empirtkhpr|The Empire of Aû'Khelâthu]]—Imperial overview
+- [[affiliation-ptah|Psaq'âru]]—Patron cult

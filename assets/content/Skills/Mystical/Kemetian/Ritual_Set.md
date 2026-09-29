@@ -1,6 +1,6 @@
 ---
 shortcode: set
-name: {full: "Ritual: Sét", aliases: ["Sét, Bringer of Tempests"]}
+name: {full: "Ritual: Tjaq'ûr", aliases: ["Tjaq'ûr, Bringer of Tempests"]}
 type: skill
 subType: mystical
 tags: [kemetian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-set|Faith of Sét]]
+See [[affiliation-set|Faith of Tjaq'ûr]]

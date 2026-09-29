@@ -424,7 +424,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-**Home:** [[place-khensuret|Khensuret]]
+**Home:** [[place-khensuret|Khelzuret]]
 
 # Appearance {#appearance}
 
@@ -484,8 +484,8 @@ Meneti is driven by an almost religious belief in open books and the moral duty 
 ### Affiliations
 
 - **The Imperial Treasury**: Her primary institution and the source of her authority.
-- **The Scribes' Guild of [[affiliation-empirtkhpr|Ta'Kheperu]]**: She maintains formal membership, though she rarely participates in guild activities.
-- **The Order of Hâpi**: A religious devotional order dedicated to Hâpi, god of prosperity and the inundation. She maintains private worship and donates portions of her stipend to their works.
+- **The Scribes' Guild of [[affiliation-empirtkhpr|Aû'Khelâthu]]**: She maintains formal membership, though she rarely participates in guild activities.
+- **The Order of Thubâ'i**: A religious devotional order dedicated to Thubâ'i, god of prosperity and the inundation. She maintains private worship and donates portions of her stipend to their works.
 
 ## Plot Hooks
 

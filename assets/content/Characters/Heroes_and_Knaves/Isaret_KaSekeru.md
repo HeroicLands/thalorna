@@ -423,7 +423,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-**Home:** [[place-khensuret|Khensuret]]
+**Home:** [[place-khensuret|Khelzuret]]
 
 # Appearance {#appearance}
 
@@ -433,9 +433,9 @@ Isaret stands 5'6" tall with a light build. She has dusky brown skin, jet-black 
 
 # Dossier {#dossier}
 
-Isaret Ka'Sekeru, known in the shadow-trade as **"Whispers,"** was born in the warren-slums of **[[place-khensuret|Khensuret]]**, the great necropolis-nome of [[affiliation-empirtkhpr|Ta'Kheperu]]—a city of embalmers, tomb-masons, and the swarming poor who serve the dead. Abandoned as a child, she survived its streets as a cutpurse and informant, and fell early into the organized tomb-robbing underworld for which Khensuret is infamous, learning to move unseen among the mortuary chapels and to sell what she heard as readily as what she stole. And Isaret heard a great deal, for her true gift was an inborn sensitivity to the spirit world—the faint voices of the restless dead that crowd a city built around tombs. Untrained and unconsecrated, she nonetheless learned to listen: to gather secrets no living mouth had spoken, and to feel danger before it fell. The priesthood would have named the gift a blessing of [[affiliation-kemtnpnthn|Íšét]], goddess of magic; on the streets it simply made her valuable.
+Isaret Ka'Sekeru, known in the shadow-trade as **"Whispers,"** was born in the warren-slums of **[[place-khensuret|Khelzuret]]**, the great necropolis-selat of [[affiliation-empirtkhpr|Aû'Khelâthu]]—a city of embalmers, tomb-masons, and the swarming poor who serve the dead. Abandoned as a child, she survived its streets as a cutpurse and informant, and fell early into the organized tomb-robbing underworld for which Khelzuret is infamous, learning to move unseen among the mortuary chapels and to sell what she heard as readily as what she stole. And Isaret heard a great deal, for her true gift was an inborn sensitivity to the spirit world—the faint voices of the restless dead that crowd a city built around tombs. Untrained and unconsecrated, she nonetheless learned to listen: to gather secrets no living mouth had spoken, and to feel danger before it fell. The priesthood would have named the gift a blessing of [[affiliation-kemtnpnthn|Uznêra]], goddess of magic; on the streets it simply made her valuable.
 
-Her gift drew the notice of a patron among the Kheperi nobility, who had her schooled in the subtler arts—disguise, cipher, the long game of court espionage—and set her to work as a spy and listener, her dead voices turned to the uses of the living. For years she served, until a commission carried her too deep: she uncovered the forbidden work of the **Akh-Menraa**, the hidden circle led by **Master Neferha**, whose experiments upon the dead and the spirit-realm threatened the very balance the Kheperi hold sacred. Knowing such knowledge marked her for the embalmer's table, Isaret fled Ta'Kheperu and sought out [[being-kirobashkm|Kiroba]], hoping that together they might undo Neferha's work and set the balance right.
+Her gift drew the notice of a patron among the Khelâthi nobility, who had her schooled in the subtler arts—disguise, cipher, the long game of court espionage—and set her to work as a spy and listener, her dead voices turned to the uses of the living. For years she served, until a commission carried her too deep: she uncovered the forbidden work of the **Akh-Menraa**, the hidden circle led by **Master Neferha**, whose experiments upon the dead and the spirit-realm threatened the very balance the Khelâthi hold sacred. Knowing such knowledge marked her for the embalmer's table, Isaret fled Aû'Khelâthu and sought out [[being-kirobashkm|Kiroba]], hoping that together they might undo Neferha's work and set the balance right.
 
 ## Background
 
@@ -456,14 +456,14 @@ Her gift drew the notice of a patron among the Kheperi nobility, who had her sch
 - **Morality**: Isaret operates in the gray areas of morality, adhering to her own code rather than societal or religious standards. She is willing to use her abilities in ways that others might consider questionable, especially when it serves her goals or provides valuable knowledge. While she isn't openly malicious, Isaret doesn’t shy away from using manipulation, stealth, and even her mystical abilities if it helps her gain the upper hand. She follows her own path, taking advantage of situations where the line between right and wrong is blurred, though she generally avoids overtly evil acts unless necessary for survival or protection.
 - **Voice**: Isaret's voice is pleasant if unremarkable.
 - **Whispers of the Spirit**: Isaret has several inborn arcane talents, including the ability to hear the faint whispers of spirits (Medium), allowing her to foresee dangers (Prescience) and uncover hidden information (Clairvoyance). Her unique gifts also let her sense spiritual imbalances from afar.
-- **Stealth and Espionage**: Isaret is an expert at moving unseen, gathering information, and infiltrating dangerous places. She is adept at disguise and manipulation, making her invaluable in navigating Ta'Kheperu politics and secrets.
+- **Stealth and Espionage**: Isaret is an expert at moving unseen, gathering information, and infiltrating dangerous places. She is adept at disguise and manipulation, making her invaluable in navigating Aû'Khelâthu politics and secrets.
 - **Subtle Manipulator**: Isaret has a knack for twisting situations to her advantage, able to manipulate conversations and steer people toward her desired outcome without them realizing it.
 
 ## Psyche
 
 ### Personality
 
-Isaret is cunning, resourceful, and often prefers working in the shadows. She is pragmatic, willing to do whatever is necessary to accomplish her goals, though she has a strong sense of right and wrong, having seen firsthand the corruption of Ta'Kheperu’s elite. Isaret is quick-witted and often playful, teasing her companions to lighten the mood, but there’s a dark edge to her humor. Her mistrust of authority runs deep, and she is slow to trust others.
+Isaret is cunning, resourceful, and often prefers working in the shadows. She is pragmatic, willing to do whatever is necessary to accomplish her goals, though she has a strong sense of right and wrong, having seen firsthand the corruption of Aû'Khelâthu’s elite. Isaret is quick-witted and often playful, teasing her companions to lighten the mood, but there’s a dark edge to her humor. Her mistrust of authority runs deep, and she is slow to trust others.
 
 ## Social
 

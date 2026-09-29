@@ -1,9 +1,9 @@
 ---
 shortcode: tjenu
-name: {full: Tjenu, aliases: []}
+name: {full: Tjegu, aliases: []}
 type: place
 subType: settlement
-description: "Nome capital of Ta-Wer."
+description: "Nome capital of Zu-Wer."
 tags: [town]
 data:
   banner: takheperubnr
@@ -16,11 +16,11 @@ data:
 
 ## Overview
 
-Tjenu is the capital of [[affiliation-nometawer|the Nome of Ta-Wer]] and the seat of its [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]]. It holds the nome's chief temple of [[affiliation-anubis|Ánubís]], the Haty'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the nome's: "The Great Land"—an ancient royal nome and old burial-ground of the first dynasties.
+Tjegu is the capital of [[affiliation-nometawer|the Nome of Zu-Wer]] and the seat of its [[affiliation-empirtkhpr#titles-and-forms-of-address|Halzi'a]]. It holds the selat's chief temple of [[affiliation-anubis|Hezmuîri]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's: "The Great Land"—an ancient royal selat and old burial-ground of the first dynasties.
 
 ## See Also
 
-- [[affiliation-nometawer|The Nome of Ta-Wer]]—Parent nome
+- [[affiliation-nometawer|The Nome of Zu-Wer]]—Parent selat
 - [[affiliation-uperivrnms|The Upper River Nomes]]—Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Imperial overview
-- [[affiliation-anubis|Ánubís]]—Patron cult
+- [[affiliation-empirtkhpr|The Empire of Aû'Khelâthu]]—Imperial overview
+- [[affiliation-anubis|Hezmuîri]]—Patron cult

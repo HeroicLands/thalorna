@@ -1,6 +1,6 @@
 ---
 shortcode: mentu
-name: {full: "Ritual: Mentu", aliases: ["Mentu, The War-God"]}
+name: {full: "Ritual: Qeztu", aliases: ["Qeztu, The War-God"]}
 type: skill
 subType: mystical
 tags: [kemetian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-mentu|Faith of Mentu]]
+See [[affiliation-mentu|Faith of Qeztu]]

@@ -1,9 +1,9 @@
 ---
 shortcode: demtkscrpt
-name: {full: Demotika Script, aliases: [Demotika, Demotic]}
+name: {full: Qalezu Script, aliases: [Qalezu, Demotic]}
 type: skill
 subType: script
-description: "The people's hand of Ta'Kheperu—a hundred running signs that took the empire's paperwork away from the temples."
+description: "The people's hand of Aû'Khelâthu—a hundred running signs that took the empire's paperwork away from the temples."
 tags: []
 data: {icon: icon-speaking, templatePriority: null, packFolder: script}
 sohl:
@@ -17,15 +17,15 @@ sohl:
   flags: {"thalorna": {script_family: Logographic}}
 ---
 
-Demotika is what happened when the empire's paperwork outgrew its priesthood. Roughly eight centuries ago the scribes of [[affiliation-empirtkhpr|Ta'Kheperu]] cut the seven hundred signs of [[skill-khprsshscrpt|Kheperi-sesh]] down to about a hundred, ran them together with ligatures for the common sequences, and learned to write them with a reed at speed. It is the same language underneath and a different skill entirely to read.
+Qalezu is what happened when the empire's paperwork outgrew its priesthood. Roughly eight centuries ago the scribes of [[affiliation-empirtkhpr|Aû'Khelâthu]] cut the seven hundred signs of [[skill-khprsshscrpt|Khelâthi-zethu]] down to about a hundred, ran them together with ligatures for the common sequences, and learned to write them with a reed at speed. It is the same language underneath and a different skill entirely to read.
 
-A character needs **both** Demotika and [[skill-kheperlng|Kheperi]]; the demotic register admits far more of the spoken vernacular than the sacred script does, which is one reason the priesthood regards it as a corruption.
+A character needs **both** Qalezu and [[skill-kheperlng|Khelâthi]]; the demotic register admits far more of the spoken vernacular than the sacred script does, which is one reason the priesthood regards it as a corruption.
 
 ## What it is for
 
-Everything that moves. Tax rolls and grain receipts, the tally-scribes' sealed barge manifests, land surveys, court pleadings, private letters, school exercises, marriage settlements, the funerary paperwork that is not itself sacred. Papyrus grows on the river and is exported by the bale, so Ta'Kheperu writes more per head than any other civilization on Thalorna—and almost all of it in Demotika.
+Everything that moves. Tax rolls and grain receipts, the tally-scribes' sealed barge manifests, land surveys, court pleadings, private letters, school exercises, marriage settlements, the funerary paperwork that is not itself sacred. Papyrus grows on the river and is exported by the bale, so Aû'Khelâthu writes more per head than any other civilization on Thalorna—and almost all of it in Qalezu.
 
-Every document carries a regnal date and often the Sep Tepy era-count beside it, and every nome has an **Overseer of Scribes** whose office is to make sure the two agree.
+Every document carries a regnal date and often the Qet Telgu era-count beside it, and every selat has an **Overseer of Scribes** whose office is to make sure the two agree.
 
 ## The mercantile hand
 
@@ -33,8 +33,8 @@ In the last century or two, merchants and reforming scholars have pushed a furth
 
 ## Who has it
 
-Professional scribes as a matter of course; tax officials; 20–35% of the nobility read it, more than read the sacred script. Merchants and guildsmen mostly do not, and hire. A Kheperi scribe's literacy is a marketable trade, priced by the document, and the scribal families guard entry to it.
+Professional scribes as a matter of course; tax officials; 20–35% of the nobility read it, more than read the sacred script. Merchants and guildsmen mostly do not, and hire. A Khelâthi scribe's literacy is a marketable trade, priced by the document, and the scribal families guard entry to it.
 
 ## In play
 
-Demotika is fast, cursive, ligatured and abbreviated, which makes it the classic **poor hand** of the Script rules: a clerk's daybook can be nearly opaque even to another clerk. It is also where the forgeries are, because it is where the money is. A character who reads Demotika and not Kheperi-sesh—which is the ordinary case—can work through an entire archive of an estate and still be unable to read the dedication over its door.
+Qalezu is fast, cursive, ligatured and abbreviated, which makes it the classic **poor hand** of the Script rules: a clerk's daybook can be nearly opaque even to another clerk. It is also where the forgeries are, because it is where the money is. A character who reads Qalezu and not Khelâthi-zethu—which is the ordinary case—can work through an entire archive of an estate and still be unable to read the dedication over its door.

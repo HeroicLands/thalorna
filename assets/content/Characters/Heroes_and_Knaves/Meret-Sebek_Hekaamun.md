@@ -440,7 +440,7 @@ Meret-Sebek stands 5'9\" tall with a medium build. He has dark skin, dark hair, 
 
 ### Origin and Early Life
 
-Meret-Sebek was born into a respected family of scholars and astrologers in the grand city of **[[place-khemenu|Khemenu]]**, a cultural and scholarly center of the **Empire of [[affiliation-empirtkhpr|Ta’Kheperu]]**. The Empire, with traditions dating back thousands of years, continues to blend mysticism and scholarly pursuits, with astrology playing a critical role in its governance and daily life. The empire’s priests and astrologers are key advisors to the ruling elite, using celestial signs to predict outcomes of war, trade, and political alliances.
+Meret-Sebek was born into a respected family of scholars and astrologers in the grand city of **[[place-khemenu|Khelunu]]**, a cultural and scholarly center of the **Empire of [[affiliation-empirtkhpr|Ta’Kheperu]]**. The Empire, with traditions dating back thousands of years, continues to blend mysticism and scholarly pursuits, with astrology playing a critical role in its governance and daily life. The empire’s priests and astrologers are key advisors to the ruling elite, using celestial signs to predict outcomes of war, trade, and political alliances.
 
 Meret-Sebek, from a young age, showed a rare affinity for reading the stars. His family, who had long served the high courts of Ta’Kheperu, saw that he was trained by the greatest scholars and priests of the empire. By the age of 16, he had already earned a reputation for accurate star readings and predictions, and his name spread through the noble circles of Ta’Kheperu.
 
@@ -450,9 +450,9 @@ When Meret-Sebek reached his early thirties, he began experiencing disturbing vi
 
 His readings indicated that this event was tied to the fate of the **Court of the Nine Moons**, the council of the nine most powerful clans in Ta’Kheperu. His predictions warned that if the empire did not take action, the Convergence would bring about disaster, either in the form of internal strife or an invasion from external powers. The stars, however, did not reveal the full extent of the threat—only that it was imminent and inevitable.
 
-### The Per-Aá’s Response
+### The Gar-Aû’s Response
 
-Meret-Sebek presented his findings to **Per-Aá Menes XVI**, who ruled the empire from the capital city of **[[place-wasetkara|Wasetkara]]**. The Per-Aá was a practical man, but he had learned to trust the warnings of astrologers. Yet, the ambiguity of Meret-Sebek’s predictions frustrated the court. While some powerful lords demanded immediate action, others dismissed it as a misreading of the stars.
+Meret-Sebek presented his findings to **Gar-Aû Menes XVI**, who ruled the empire from the capital city of **[[place-wasetkara|Galezkara]]**. The Gar-Aû was a practical man, but he had learned to trust the warnings of astrologers. Yet, the ambiguity of Meret-Sebek’s predictions frustrated the court. While some powerful lords demanded immediate action, others dismissed it as a misreading of the stars.
 
 Faced with skepticism from the court and the increasing pressure of the imperial council, Meret-Sebek decided he could no longer wait for the empire’s leaders to act. His readings indicated that the truth behind the Convergence could only be found by traveling to key sacred sites scattered throughout the empire, where ancient celestial knowledge was hidden.
 
@@ -466,7 +466,7 @@ His first stop was the **Obelisk of Ankhura**, an ancient monolithic structure s
 
 Meret-Sebek’s journey is fraught with challenges. Rival astrologers and priests who either do not believe in the prophecy or seek to use the event for their own ends send agents to stop him. His journey into the ruins also reveals ancient powers long forgotten—spirits of the desert, creatures bound to the stars, and followers of ancient cults who view the Convergence as an opportunity to usher in a new age of chaos.
 
-Despite these dangers, Meret-Sebek finds unlikely allies along his path. He meets a wandering desert ranger named **“The Silent Jackal”** who, though initially skeptical of the astrologer’s quest, pledges to protect him after witnessing a celestial omen. Meret-Sebek also encounters a scholar, **[[being-neferetimr|Neferet]] Imi-Ra**, and an exiled priest, **[[being-hotepanu|Hotep]] Anu**, who together join him in his quest to unlock the true power of the Convergence.
+Despite these dangers, Meret-Sebek finds unlikely allies along his path. He meets a wandering desert ranger named **“The Silent Jackal”** who, though initially skeptical of the astrologer’s quest, pledges to protect him after witnessing a celestial omen. Meret-Sebek also encounters a scholar, **[[being-neferetimr|Neferet]] Ilmy-Zâ**, and an exiled priest, **[[being-hotepanu|Hotep]] Anu**, who together join him in his quest to unlock the true power of the Convergence.
 
 ### End Goal
 
@@ -483,7 +483,7 @@ The culmination of his journey will lead to a dramatic confrontation with the fo
 ### Companions
 
 - [[being-atenhershr|Atenheru Sahri]]
-- [[being-neferetimr|Neferet Imi-Ra]]
+- [[being-neferetimr|Neferet Ilmy-Zâ]]
 - [[being-hotepanu|Hotep Anu]]
 
 ### Skills and Abilities

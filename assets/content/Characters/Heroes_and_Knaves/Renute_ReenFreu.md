@@ -430,7 +430,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-**Home:** [[place-wasetkara|Wasetkara]]
+**Home:** [[place-wasetkara|Galezkara]]
 
 # Appearance {#appearance}
 
@@ -442,7 +442,7 @@ Renutê stands 5'7" tall with a light build. She has dark skin, black hair, and 
 
 **From Humble Hearth to the Reenfré**
 
-**Renutê** was born the daughter of a cook in the grand house of a noble family of the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]], learning her culinary arts at her mother's side in vast kitchens where she prepared food for dozens. However, rather than spending her life in service to a single household, she dreamed of something greater: a place where people of all stations could gather, where fine food and drink would flow freely, where stories would be exchanged and friendships forged. At twenty-three, using money saved across years of careful management and loans from supportive patrons of her cooking, she purchased a ramshackle building near the harbor and converted it into the Reenfré, an establishment that would become famous across the empire.
+**Renutê** was born the daughter of a cook in the grand house of a noble family of the Empire of [[affiliation-empirtkhpr|Aû'Khelâthu]], learning her culinary arts at her mother's side in vast kitchens where she prepared food for dozens. However, rather than spending her life in service to a single household, she dreamed of something greater: a place where people of all stations could gather, where fine food and drink would flow freely, where stories would be exchanged and friendships forged. At twenty-three, using money saved across years of careful management and loans from supportive patrons of her cooking, she purchased a ramshackle building near the harbor and converted it into the Reenfré, an establishment that would become famous across the empire.
 
 **The Making of Legend**
 

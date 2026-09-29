@@ -1,6 +1,6 @@
 ---
 shortcode: wadjit
-name: {full: "Ritual: Wadjit", aliases: ["Wadjit, The Cobra-Goddess"]}
+name: {full: "Ritual: Shebazet", aliases: ["Shebazet, The Cobra-Goddess"]}
 type: skill
 subType: mystical
 tags: [kemetian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-wadjit|Faith of Wadjit]]
+See [[affiliation-wadjit|Faith of Shebazet]]

@@ -1,16 +1,16 @@
 ---
 shortcode: nomehtpthr
-name: {full: The Nome of Hut-Ptah-Resu, aliases: []}
+name: {full: The Nome of Lut-Ptah-Zalu, aliases: []}
 type: affiliation
 subType: polity
-description: "Smith-towns and craft-temples; bronze, gold, and the ceremonial arms of the nobility—one of the upper-river nomes of Ta'Kheperu."
+description: "Smith-towns and craft-temples; bronze, gold, and the ceremonial arms of the nobility—one of the upper-river nomes of Aû'Khelâthu."
 data:
   banner: takheperubnr
   templatePriority: null
   governance:
     model: monarchy
     summary: >-
-      A nome of the upper-river nomes governed by a hereditary Haty'a, who commands its levies, collects its taxes and dispenses its justice under the Per-Aá's distant authority.
+      A selat of the upper-river nomes governed by a hereditary Halzi'a, who commands its levies, collects its taxes and dispenses its justice under the Gar-Aû's distant authority.
     ranks:
       - level: 0
         title: Outcast
@@ -38,41 +38,41 @@ data:
         description: >-
           Lettered, and therefore the empire's principal path upward: a talented child of any house may enter the schools.
       - level: 5
-        title: Heka'hut
+        title: Legha'lutu
         lore: landedlordrnk
         description: >-
-          Ruler of an estate—its manor, its fields and its village—answerable to the nomarch above.
+          Ruler of an estate—its manor, its fields and its village—answerable to the Halzi'a above.
       - level: 6
-        title: Haty'a
+        title: Halzi'a
         lore: greatlordrnk
         description: >-
-          Nomarch: hereditary governor of a nome, commanding its army, collecting its taxes and dispensing its justice.
+          Nomarch: hereditary governor of a selat, commanding its army, collecting its taxes and dispensing its justice.
       - level: 7
-        title: Iry'pat
+        title: Iru'palu
         lore: greatlordrnk
         description: >-
           Of the royal house and the most exalted families, the highest hereditary rank below the throne.
       - level: 8
-        title: Per-Aá
+        title: Gar-Aû
         lore: sovereignrnk
         description: >-
           The divine sovereign, on whose claim all temple and secular authority rests—a fiction nobody believes and nobody may abandon.
     offices:
-      Haty'a: Nomarch, governing a nome with armies, taxes and courts of his own.
-      Heka'hut: Ruler of an estate—manor, fields and village—answerable to the nomarch.
-      Nebet'hut: Mistress of an estate, holding the same authority in her own right.
-      Nebet: Lady of the court, whose standing comes from position rather than from land.
-      Semer: >-
-        Companion of the Per-Aá: a title of royal favor and access rather than territorial authority.
-      Wer'Hekau: >-
+      Halzi'a: Nomarch, governing a selat with armies, taxes and courts of his own.
+      Legha'lutu: Ruler of an estate—manor, fields and village—answerable to the Halzi'a.
+      Zabet'lutu: Mistress of an estate, holding the same authority in her own right.
+      Zabet: Lady of the court, whose standing comes from position rather than from land.
+      Zemelu: >-
+        Companion of the Gar-Aû: a title of royal favor and access rather than territorial authority.
+      Thâz'Lekhau: >-
         Great of Sacred Power—High Priest of a major temple, master of its estates and voice of its god.
-      Hem'Netjer: >-
+      Lem'Nelgir: >-
         Servant of the God—the ordained priesthood that conducts the rites and runs the temple's lands.
-      Wab: >-
+      Wazu: >-
         Purified One—acolyte in the temple schools, years from ordination and already better educated than most.
       Overseer of Scribes: Head of a bureau of the administration, commanding the lettered men who actually govern.
-      Nomarch's Steward: Administrator of the nome's revenue, its granaries and its corvée.
-      Canal-Warden: Keeper of the irrigation works on which the nome's harvest—and its tax—depends.
+      Nomarch's Steward: Administrator of the selat's revenue, its granaries and its corvée.
+      Canal-Warden: Keeper of the irrigation works on which the selat's harvest—and its tax—depends.
   seat: hutptah
   domains: [hutptahresunome]
   population: 480000
@@ -86,21 +86,21 @@ sohl: {system: {commonSkills: [kheperlng]}}
 
 ## Overview
 
-Hut-Ptah-Resu is one of the upper-river nomes of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]: smith-towns and craft-temples; bronze, gold, and the ceremonial arms of the nobility. Like every nome it is held by a hereditary [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Per-Aá at a distance that varies with the strength of the throne. Its patron is [[affiliation-ptah|Ptā'h]], and the nome's religious life runs through that cult's temples and their estates. The land it holds is [[place-hutptahresunome|Hut-Ptah-Resu]].
+Lut-Ptah-Zalu is one of the upper-river nomes of [[affiliation-empirtkhpr|The Empire of Aû'Khelâthu]]: smith-towns and craft-temples; bronze, gold, and the ceremonial arms of the nobility. Like every selat it is held by a hereditary [[affiliation-empirtkhpr#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-ptah|Psaq'âru]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-hutptahresunome|Lut-Ptah-Zalu]].
 
 ## Character
 
-Its seat is [[place-hutptah|Hut-Ptah]], where the Haty'a keeps his court and the nome's chief temple of Ptā'h stands.
+Its seat is [[place-hutptah|Lut-Ptah]], where the Halzi'a keeps his court and the selat's chief temple of Psaq'âru stands.
 
 ## Commerce and Currency
 
-Hut-Ptah-Resu uses the [[lore-tkhprcrncy|Ta'Kheperu currency system]], with the local chapter of [[affiliation-perhati|Pér-Háti]] attached to its chief temple attesting the weight-pieces and holding the granary accounts. See [[lore-tkhprcrncy|Ta'Kheperu Currency]] for the full system.
+Lut-Ptah-Zalu uses the [[lore-tkhprcrncy|Aû'Khelâthu currency system]], with the local chapter of [[affiliation-perhati|Gár-Hálzi]] attached to its chief temple attesting the weight-pieces and holding the granary accounts. See [[lore-tkhprcrncy|Aû'Khelâthu Currency]] for the full system.
 
 ## See Also
 
-- [[affiliation-uperivrnms|The Upper River Nomes]]—Parent nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Imperial overview
-- [[place-hutptah|Hut-Ptah]]—Nome capital
-- [[affiliation-ptah|Ptā'h]]—Patron cult
-- [[affiliation-perhati|Pér-Háti]]—Temple-treasuries
-- [[place-hutptahresunome|Hut-Ptah-Resu]]—The land the nome holds
+- [[affiliation-uperivrnms|The Upper River Nomes]]—Parent selat-class
+- [[affiliation-empirtkhpr|The Empire of Aû'Khelâthu]]—Imperial overview
+- [[place-hutptah|Lut-Ptah]]—Nome capital
+- [[affiliation-ptah|Psaq'âru]]—Patron cult
+- [[affiliation-perhati|Gár-Hálzi]]—Temple-treasuries
+- [[place-hutptahresunome|Lut-Ptah-Zalu]]—The land the selat holds

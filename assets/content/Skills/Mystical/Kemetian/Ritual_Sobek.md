@@ -1,6 +1,6 @@
 ---
 shortcode: sobek
-name: {full: "Ritual: Sobek", aliases: ["Sobek, The Crocodile-God"]}
+name: {full: "Ritual: Tjelsuk", aliases: ["Tjelsuk, The Crocodile-God"]}
 type: skill
 subType: mystical
 tags: [kemetian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-sobek|Faith of Sobek]]
+See [[affiliation-sobek|Faith of Tjelsuk]]

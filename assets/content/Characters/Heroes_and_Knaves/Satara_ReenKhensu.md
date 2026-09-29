@@ -427,7 +427,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-**Home:** [[place-khensuret|Khensuret]]
+**Home:** [[place-khensuret|Khelzuret]]
 
 # Appearance {#appearance}
 
@@ -437,11 +437,11 @@ Satara stands 6'0" tall with a medium build. She has rich copper skin, deep blac
 
 # Dossier {#dossier}
 
-Born in the teak-rich highlands of the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]], Satara learned the language of trees before she learned to read. Her mother, Neborêt the Elder, was the first woman admitted to the Timberwrights' Guild in three generations, and Satara followed naturally in those footsteps. As a girl, she spent seasons learning to identify every species by bark, leaf, and the sound of an axe's bite, earning her journeyman's marks before her twentieth year.
+Born in the teak-rich highlands of the Empire of [[affiliation-empirtkhpr|Aû'Khelâthu]], Satara learned the language of trees before she learned to read. Her mother, Neborêt the Elder, was the first woman admitted to the Timberwrights' Guild in three generations, and Satara followed naturally in those footsteps. As a girl, she spent seasons learning to identify every species by bark, leaf, and the sound of an axe's bite, earning her journeyman's marks before her twentieth year.
 
-Over the past decade, Satara has established herself as the most discerning timber selector in the Ta'Kheperu trade, known for rejecting logs that lesser wrights would accept without hesitation. Her reputation has made her invaluable to the finest carpenters and shipwrights, though this perfectionism has occasionally strained her relationships with merchants who measure success solely by quantity. She maintains a workshop in the sprawling timber yards of the central district, where she stores her collections of wood samples and her prized identification texts.
+Over the past decade, Satara has established herself as the most discerning timber selector in the Aû'Khelâthu trade, known for rejecting logs that lesser wrights would accept without hesitation. Her reputation has made her invaluable to the finest carpenters and shipwrights, though this perfectionism has occasionally strained her relationships with merchants who measure success solely by quantity. She maintains a workshop in the sprawling timber yards of the central district, where she stores her collections of wood samples and her prized identification texts.
 
-Her devotion to Hórús the Voyager flows naturally from her work—she sees in each tree a potential journey, each grain a path waiting to be carved. She has begun mentoring younger craftspeople, particularly other women seeking to prove themselves in a traditionally male-dominated field, though she extends this guidance with the same rigorous standards by which she measures timber.
+Her devotion to Gewaâtis the Voyager flows naturally from her work—she sees in each tree a potential journey, each grain a path waiting to be carved. She has begun mentoring younger craftspeople, particularly other women seeking to prove themselves in a traditionally male-dominated field, though she extends this guidance with the same rigorous standards by which she measures timber.
 
 ## Psyche
 
@@ -449,7 +449,7 @@ Her devotion to Hórús the Voyager flows naturally from her work—she sees in 
 
 Satara possesses a contemplative nature, often found standing silently before a towering oak or pine, running her fingertips across its bark as though reading prophecy in its ridges. This meditative quality masks a passionate conviction about quality and craftsmanship. She speaks deliberately, choosing her words with the same precision she applies to her work, and harbors little patience for idle gossip or sloppy thinking. Yet beneath her austere exterior lies a dry wit that catches friends by surprise—her humor emerges like hidden grain revealed by a master carpenter's chisel.
 
-She is fiercely loyal to those she respects and unforgiving of incompetence or dishonesty. Her moral compass, guided by the voyager aspect of Hórús, points toward integrity and forward motion—she believes people, like wood, must constantly grow or risk becoming brittle and useless.
+She is fiercely loyal to those she respects and unforgiving of incompetence or dishonesty. Her moral compass, guided by the voyager aspect of Gewaâtis, points toward integrity and forward motion—she believes people, like wood, must constantly grow or risk becoming brittle and useless.
 
 ### Motivation
 
@@ -476,7 +476,7 @@ Satara drives toward a singular vision: to prove that excellence in the timberwr
 ### Patrons
 
 - **Master Theren of House Khenti**: A renowned shipwright who purchases premium timber exclusively from Satara and has publicly defended her expertise against skeptics.
-- **The Architect Imsaf**: The lead designer for the Ta'Kheperu's new administrative complex, who insists on Satara's involvement in all timber specifications.
+- **The Architect Imsaf**: The lead designer for the Aû'Khelâthu's new administrative complex, who insists on Satara's involvement in all timber specifications.
 - **Merchant-Prince Nekheb**: A wealthy trader in fine furnishings who has built his reputation partly on using only materials vetted by Satara Re'en'Khensu.
 
 ### Enemies
@@ -487,18 +487,18 @@ Satara drives toward a singular vision: to prove that excellence in the timberwr
 
 ### Affiliations
 
-- **Timberwrights' Guild of Ta'Kheperu**: A member in good standing, though she remains somewhat at odds with the old guard over admission standards and quality measures.
-- **The Circle of Hórús**: A devotional society of the Voyager's followers, where Satara serves as one of the lay teachers on journeys, transitions, and transformation.
+- **Timberwrights' Guild of Aû'Khelâthu**: A member in good standing, though she remains somewhat at odds with the old guard over admission standards and quality measures.
+- **The Circle of Gewaâtis**: A devotional society of the Voyager's followers, where Satara serves as one of the lay teachers on journeys, transitions, and transformation.
 - **The Craft Collective**: An informal association of the finest artisans in the timber trade, who meet quarterly to share techniques and maintain standards.
 
 ## Plot Hooks
 
-1. **The Foreign Commission**: A mysterious agent from the distant Kingdom of Vel'Khara arrives in Ta'Kheperu seeking timbers of unprecedented rarity and size for an unnamed noble patron. The payment offered is astronomical, but Satara discovers the wood is being sought for weapons—massive siege equipment designed to breach the walls of Ta'Kheperu's allies. She must decide whether to honor her craft above politics, and whether bringing this knowledge to the authorities will compromise her neutral reputation in the timber markets.
+1. **The Foreign Commission**: A mysterious agent from the distant Kingdom of Vel'Khara arrives in Aû'Khelâthu seeking timbers of unprecedented rarity and size for an unnamed noble patron. The payment offered is astronomical, but Satara discovers the wood is being sought for weapons—massive siege equipment designed to breach the walls of Aû'Khelâthu's allies. She must decide whether to honor her craft above politics, and whether bringing this knowledge to the authorities will compromise her neutral reputation in the timber markets.
 
 2. **The Cursed Log**: A merchant brings Satara a single enormous log of wood so perfect, so ancient, and so radiantly beautiful that it seems to defy nature. However, it bears marks she cannot explain and emanates a faint wrongness that troubles her. Investigation reveals the log was harvested from a sacred grove protected by an ancient curse—and the merchant promises Satara a fortune if she'll work with it. The curse, if real, may pass to anyone who shapes the wood, but refusing means allowing an unscrupulous craftsperson to claim the prize instead.
 
 3. **The Student's Test**: Satara's most promising apprentice—a young woman named Kiya—is caught stealing inferior wood from the workshop and selling it to a competing merchant while telling customers it came from Satara's stock. Rather than simply expelling Kiya, Satara sees this as a test: of her principles, her teaching, and whether her mentorship has failed or merely been corrupted by desperation. She must uncover why Kiya did this—is it greed, coercion, or family hardship?—while deciding what redemption, if any, she can offer without betraying her own standards.
 
-4. **The Ancient Forest Initiative**: The Empire's new Minister of Resources announces plans to harvest an enormous stretch of ancient woodland to fuel Ta'Kheperu's expansion. While many timberwrights celebrate the opportunity, Satara recognizes the grove contains several rare and magnificent tree species found nowhere else. She must navigate the dangerous waters of standing against state policy, potentially forming unlikely alliances with priests, scholars, and conservationists—all while maintaining her professional standing and proving that sometimes the greatest craftspeople are those wise enough to know when not to cut.
+4. **The Ancient Forest Initiative**: The Empire's new Minister of Resources announces plans to harvest an enormous stretch of ancient woodland to fuel Aû'Khelâthu's expansion. While many timberwrights celebrate the opportunity, Satara recognizes the grove contains several rare and magnificent tree species found nowhere else. She must navigate the dangerous waters of standing against state policy, potentially forming unlikely alliances with priests, scholars, and conservationists—all while maintaining her professional standing and proving that sometimes the greatest craftspeople are those wise enough to know when not to cut.
 
-5. **The Master's Gauntlet**: An aged master from a distant land arrives and challenges all the timberwrights of Ta'Kheperu to a competition: craft the finest wooden object possible from identical raw materials within a lunar cycle. The winner gains renown, but more importantly, will secure royal patronage that guarantees prosperity for years. Satara must compete against both skilled rivals and the whispered skepticism of those who don't believe a woman can truly stand at the pinnacle of the craft. The competition becomes not just about creating a masterwork, but about forcing Ta'Kheperu to finally acknowledge what Satara has always known: excellence transcends gender.
+5. **The Master's Gauntlet**: An aged master from a distant land arrives and challenges all the timberwrights of Aû'Khelâthu to a competition: craft the finest wooden object possible from identical raw materials within a lunar cycle. The winner gains renown, but more importantly, will secure royal patronage that guarantees prosperity for years. Satara must compete against both skilled rivals and the whispered skepticism of those who don't believe a woman can truly stand at the pinnacle of the craft. The competition becomes not just about creating a masterwork, but about forcing Aû'Khelâthu to finally acknowledge what Satara has always known: excellence transcends gender.

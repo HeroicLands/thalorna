@@ -103,8 +103,8 @@ too dangerous to move against lightly.
 
 One road crosses the Marches worth the name: the track that runs from the
 Bethûan frontier along the forage belts and the watering-places, eastward
-across the drylands toward the Kheperi frontier and the steppe-edge nomes of
-[[place-takheperurgn|Ta'Kheperu]]. It is the way a caravan takes when the coast is
+across the drylands toward the Khelâthi frontier and the steppe-edge nomes of
+[[place-takheperurgn|Aû'Khelâthu]]. It is the way a caravan takes when the coast is
 closed to it, and the way a fugitive takes who cannot use the northern ports.
 Whoever holds the wells
 holds the road, and that is the Jackals.
@@ -126,7 +126,7 @@ hold, and would rather not look past it.
 - [[place-bethuargn|Bethûa Region]]—the matriarchy's country across the frontier
 - [[affiliation-mtrrchybth|Matriarchy of Bethûa]]—the realm that claims the Marches and takes their tribute
 - [[place-okharisrgn|Okháris Region]]—the pastoral kingdom whose clans the Marchers share blood with
-- [[place-takheperurgn|Ta'Kheperu Region]]—where the road leads
+- [[place-takheperurgn|Aû'Khelâthu Region]]—where the road leads
 - [[place-cntrlrnfrsts|Central Rainforests]]—the margin to the south
 - [[affiliation-jcklsthmrchs|Jackals of the South Marches]]—the free company of the Houseless
 - [[being-yasurajckl|Yâsûra the Jackal]]—the exile-queen who rules the road

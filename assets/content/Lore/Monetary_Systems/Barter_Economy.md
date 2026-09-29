@@ -85,5 +85,5 @@ Where these limitations bite hard enough, cultures develop formal currency. Wher
 
 - **[[lore-kinhalcrdt|Kin and Hall Credit]]**—the credit-system extension of barter customs in clan- and tribal-based polities
 - **[[lore-vylrncrncy|Vylarian Currency]]**—the formal currency that operates in the Nordlands without script infrastructure
-- **[[lore-tkhprcrncy|Ta'Kheperu Currency]]**—the formal currency system that operates in the Northern Fertile Region
+- **[[lore-tkhprcrncy|Aû'Khelâthu Currency]]**—the formal currency system that operates in the Northern Fertile Region
 - Polity-specific notes for barter-dominated regions: [[affiliation-dunhartrbs|Dunhara Tribes]], [[affiliation-khzrncnfdrtn|Khazryn Confederation]], [[affiliation-vrystwldtrbs|Vrystwald Tribes]], [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]

@@ -1,6 +1,6 @@
 ---
 shortcode: horus
-name: {full: "Ritual: Hórús", aliases: ["Hórús, The Guiding Falcon"]}
+name: {full: "Ritual: Gewaâtis", aliases: ["Gewaâtis, The Guiding Falcon"]}
 type: skill
 subType: mystical
 tags: [kemetian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-horus|Faith of Hórús]]
+See [[affiliation-horus|Faith of Gewaâtis]]

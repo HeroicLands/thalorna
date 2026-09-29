@@ -1,9 +1,9 @@
 ---
 shortcode: permentu
-name: {full: Per-Mentu, aliases: []}
+name: {full: Gar-Qeztu, aliases: []}
 type: place
 subType: settlement
-description: "Nome capital of Per-Mentu."
+description: "Nome capital of Gar-Qeztu."
 tags: [town]
 data:
   banner: takheperubnr
@@ -16,11 +16,11 @@ data:
 
 ## Overview
 
-Per-Mentu is the capital of [[affiliation-nomepermen|the Nome of Per-Mentu]] and the seat of its [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]]. It holds the nome's chief temple of [[affiliation-mentu|Mentu]], the Haty'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the nome's: A garrison heartland; the chariot-corps drill-grounds and officer schools.
+Gar-Qeztu is the capital of [[affiliation-nomepermen|the Nome of Gar-Qeztu]] and the seat of its [[affiliation-empirtkhpr#titles-and-forms-of-address|Halzi'a]]. It holds the selat's chief temple of [[affiliation-mentu|Qeztu]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's: A garrison heartland; the chariot-corps drill-grounds and officer schools.
 
 ## See Also
 
-- [[affiliation-nomepermen|The Nome of Per-Mentu]]—Parent nome
+- [[affiliation-nomepermen|The Nome of Gar-Qeztu]]—Parent selat
 - [[affiliation-bordernoms|The Border Nomes]]—Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Imperial overview
-- [[affiliation-mentu|Mentu]]—Patron cult
+- [[affiliation-empirtkhpr|The Empire of Aû'Khelâthu]]—Imperial overview
+- [[affiliation-mentu|Qeztu]]—Patron cult

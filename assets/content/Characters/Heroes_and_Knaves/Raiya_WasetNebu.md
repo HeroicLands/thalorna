@@ -2,7 +2,7 @@
 shortcode: raiyawstnb
 name:
   full: Raiya Waset'Nebu
-  title: Nebet
+  title: Zabet
   given: Raiya
   clan: Waset'Nebu
   home: wasetkara
@@ -95,7 +95,7 @@ sohl:
     - name: Silk cosmetics pouch
       type: miscgear
       system: {shortcode: silkcosmeticspouch, weight: 1, value: 100, durability: 3}
-    - name: Golden hand mirror (Íšét cult devotional)
+    - name: Golden hand mirror (Uznêra cult devotional)
       type: miscgear
       system: {shortcode: goldenhandmirr, weight: 0.3, value: 100, durability: 3}
     - name: Ink and quills
@@ -421,7 +421,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-**Home:** [[place-wasetkara|Wasetkara]]
+**Home:** [[place-wasetkara|Galezkara]]
 
 # Appearance {#appearance}
 
@@ -433,7 +433,7 @@ Raiya stands 5'8" tall with a light build. She has dark skin, black hair, and da
 
 **A Daughter of Privilege**
 
-Raiya was born into the House of Wasetneb, one of the oldest and most respected noble families in the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]], with ancestry tracing back through two centuries of administrators, generals, and patrons of the arts. Her father, the deceased Lord Amunet Wasetneb, was a celebrated diplomat and scholar who served the Empire in diplomatic missions to neighboring realms. Her mother, Lady Seneb Wasetneb (née Khenti), brought connections to the military elite through her own lineage. From childhood, Raiya was groomed for the courtier's life: trained in languages, the arts, diplomatic forms, and the arithmetic of noble alliance-building.
+Raiya was born into the House of Wasetneb, one of the oldest and most respected noble families in the Empire of [[affiliation-empirtkhpr|Aû'Khelâthu]], with ancestry tracing back through two centuries of administrators, generals, and patrons of the arts. Her father, the deceased Lord Amunet Wasetneb, was a celebrated diplomat and scholar who served the Empire in diplomatic missions to neighboring realms. Her mother, Lady Seneb Wasetneb (née Khenti), brought connections to the military elite through her own lineage. From childhood, Raiya was groomed for the courtier's life: trained in languages, the arts, diplomatic forms, and the arithmetic of noble alliance-building.
 
 **Cultivation of Influence Through Compassion**
 
@@ -453,7 +453,7 @@ Yet for all her grace and warmth, Raiya is no mere pleasant decoration. Her mind
 
 ### Motivation
 
-Raiya Wasetneb is driven by a vision of the Empire of Ta'Kheperu as a place where talent, merit, and creativity are recognized and nurtured regardless of birth. She believes that the greatest cultural achievements of her society have emerged from the contributions of humble artisans, and she sees her patronage and advocacy as both a moral obligation and an investment in the empire's future. She is motivated equally by a personal hunger for beauty, learning, and authentic connection—she surrounds herself with talented and interesting people because she enjoys their company and conversation. Beyond personal satisfaction, Raiya seeks to prove that privilege, when wielded with conscience, becomes a means for others to flourish rather than for her own gain.
+Raiya Wasetneb is driven by a vision of the Empire of Aû'Khelâthu as a place where talent, merit, and creativity are recognized and nurtured regardless of birth. She believes that the greatest cultural achievements of her society have emerged from the contributions of humble artisans, and she sees her patronage and advocacy as both a moral obligation and an investment in the empire's future. She is motivated equally by a personal hunger for beauty, learning, and authentic connection—she surrounds herself with talented and interesting people because she enjoys their company and conversation. Beyond personal satisfaction, Raiya seeks to prove that privilege, when wielded with conscience, becomes a means for others to flourish rather than for her own gain.
 
 ### Strengths
 
@@ -479,7 +479,7 @@ Raiya Wasetneb is driven by a vision of the Empire of Ta'Kheperu as a place wher
 
 - **Lady Keket Khent'Ametu:** An elder noblewoman of celebrated taste who has been Raiya's mentor in artistic patronage and cultural politics. She provides counsel on the shifting alliances of the factions.
 - **Master Architect Khenti:** A celebrated designer and builder who has benefited tremendously from Raiya's commissions and patronage; he is devoted to her vision of elevating artisan crafts and advises her on building and public works.
-- **The Temple Council of Íšét:** The priesthood of the fertility goddess that shares Raiya's values concerning growth and renewal. They provide her with spiritual counsel and, occasionally, practical support for her endeavors.
+- **The Temple Council of Uznêra:** The priesthood of the fertility goddess that shares Raiya's values concerning growth and renewal. They provide her with spiritual counsel and, occasionally, practical support for her endeavors.
 
 ### Enemies
 
@@ -501,6 +501,6 @@ Raiya Wasetneb is driven by a vision of the Empire of Ta'Kheperu as a place wher
 
 3. **The Artisan's Curse:**: Several of the talented creators whom Raiya has patronized fall mysteriously ill with a strange affliction that attacks their ability to create—musicians lose their hearing, painters develop shaking hands, sculptors become paralyzed. Raiya suspects dark magic or deliberate poisoning and hires the party to investigate. The investigation reveals connections to a jealous rival patron or a mystical curse placed by a scorned artist, forcing Raiya to reckon with darker aspects of the competitive artistic world she has insulated herself from.
 
-4. **The Diplomat's Daughter Takes Action:**: When political tensions between factions within Ta'Kheperu threaten to erupt into violence, Raiya (drawing on her father's diplomatic legacy) attempts to broker a peace between the warring sides by commissioning a great collaborative artwork that requires both factions' cooperation. The party is tasked with convincing hostile faction leaders to participate in the project, discovering that Raiya's naive optimism about art's power to unite may have dangerously underestimated the depth of the conflict. As tensions mount, the party can support Raiya's idealistic vision or push for more pragmatic solutions.
+4. **The Diplomat's Daughter Takes Action:**: When political tensions between factions within Aû'Khelâthu threaten to erupt into violence, Raiya (drawing on her father's diplomatic legacy) attempts to broker a peace between the warring sides by commissioning a great collaborative artwork that requires both factions' cooperation. The party is tasked with convincing hostile faction leaders to participate in the project, discovering that Raiya's naive optimism about art's power to unite may have dangerously underestimated the depth of the conflict. As tensions mount, the party can support Raiya's idealistic vision or push for more pragmatic solutions.
 
 5. **The Rebellion of Created Things:**: After years of commissioning art, Raiya begins to notice patterns suggesting that many of the works she has funded share subtle recurring motifs and hidden messages—messages that, when decoded, speak of revolution and resistance against the existing order. Either Raiya has unwittingly funded a revolutionary movement, or someone has been secretly manipulating her patronage as a cover for sedition. The party must help her determine which is true and what her responsibility is in either case. She can protect the artists she loves, expose the conspiracy to the authorities, or quietly support a cause she secretly believes in.

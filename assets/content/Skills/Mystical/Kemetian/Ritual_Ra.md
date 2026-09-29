@@ -1,6 +1,6 @@
 ---
 shortcode: ra
-name: {full: "Ritual: Rā", aliases: [The Solar Flame, Rā, Ra]}
+name: {full: "Ritual: Uqa'â", aliases: [The Solar Flame, Uqa'â, Uqa]}
 type: skill
 subType: mystical
 tags: [kemetian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-ra|Faith of Rā]]
+See [[affiliation-ra|Faith of Uqa'â]]

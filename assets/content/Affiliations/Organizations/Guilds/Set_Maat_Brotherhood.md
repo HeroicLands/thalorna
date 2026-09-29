@@ -1,9 +1,9 @@
 ---
 shortcode: setmaatbr
-name: {full: The Brotherhood of Set-Maat, aliases: [The Servants in the Place of Truth]}
+name: {full: The Brotherhood of Zel-Qar, aliases: [The Servants in the Place of Truth]}
 type: affiliation
 subType: guild
-description: "The closed hereditary brotherhood of tomb-craftsmen of Set-Maat, the walled company-village of the Khensuret necropolis—stonecutters, draftsmen, sculptors and painters who guard both the mysteries of their craft and the locations of what they build."
+description: "The closed hereditary brotherhood of tomb-craftsmen of Zel-Qar, the walled company-village of the Khelzuret necropolis—stonecutters, draftsmen, sculptors and painters who guard both the mysteries of their craft and the locations of what they build."
 tags: [organization, takheperu, xerathia, guild]
 data:
   banner: takheperubnr
@@ -14,7 +14,7 @@ data:
   governance:
     model: council
     summary: >-
-      A walled company-village on the western bank of the Khensuret necropolis, whose people are the stonecutters, draftsmen, sculptors and painters who cut and decorate the great tombs. An elite of hereditary craftsmen, their trades and their secrets passed father to son, set above the ordinary labor-gangs and proud of it. Behind its walls the village keeps itself: its own headmen, its own little courts, its own shrines, and a closed brotherhood that guards both the mysteries of its craft and the locations of what it builds.
+      A walled company-village on the western bank of the Khelzuret necropolis, whose people are the stonecutters, draftsmen, sculptors and painters who cut and decorate the great tombs. An elite of hereditary craftsmen, their trades and their secrets passed father to son, set above the ordinary labor-gangs and proud of it. Behind its walls the village keeps itself: its own headmen, its own little courts, its own shrines, and a closed brotherhood that guards both the mysteries of its craft and the locations of what it builds.
     ranks:
       - level: 0
         title: Cast Out
@@ -25,7 +25,7 @@ data:
         title: Village-Born
         lore: dependentrnk
         description: >-
-          Born into Set-Maat but not yet taken into a craft. The trades pass father to son, so birth is the ordinary door in, and very nearly the only one.
+          Born into Zel-Qar but not yet taken into a craft. The trades pass father to son, so birth is the ordinary door in, and very nearly the only one.
       - level: 2
         title: Apprentice
         lore: apprenticernk
@@ -35,7 +35,7 @@ data:
         title: Craftsman
         lore: journeymanrnk
         description: >-
-          A working member of the brotherhood, cutting and decorating the great tombs of the Khensuret necropolis. Set above the ordinary labor-gangs, and proud of the distinction.
+          A working member of the brotherhood, cutting and decorating the great tombs of the Khelzuret necropolis. Set above the ordinary labor-gangs, and proud of the distinction.
       - level: 4
         title: Master
         lore: masterrnk
@@ -45,14 +45,14 @@ data:
         title: Headman
         lore: elderrnk
         description: >-
-          The village governs itself through its headmen, who keep its own little courts and speak for the brotherhood to the mortuary priesthoods and the Haty'a.
+          The village governs itself through its headmen, who keep its own little courts and speak for the brotherhood to the mortuary priesthoods and the Halzi'a.
     offices:
       Headman: >-
         One of the village's own governors, holding its little courts and speaking for the brotherhood outside the walls.
       Keeper of the Locations: >-
-        The brotherhood's real secret is not how the tombs are cut but where they are. The men of Set-Maat know better than anyone where the dead and their treasures lie, which is what makes the village at once the most trusted and the most watched community in the nome.
+        The brotherhood's real secret is not how the tombs are cut but where they are. The men of Zel-Qar know better than anyone where the dead and their treasures lie, which is what makes the village at once the most trusted and the most watched community in the selat.
       Master Draughtsman: >-
-        Sets out the work the cutters and painters follow. Kheperi art is held to be a magical act rather than a depiction—a properly executed tomb painting is the afterlife, made real through correct form—so the draftsman's fidelity to the established form is a religious duty, not a matter of taste.
+        Sets out the work the cutters and painters follow. Khelâthi art is held to be a magical act rather than a depiction—a properly executed tomb painting is the afterlife, made real through correct form—so the draftsman's fidelity to the established form is a religious duty, not a matter of taste.
       Warden of the Shrines: >-
         Keeps the village's own shrines, which it maintains apart from the great temples it works for.
   seat: setmaat
@@ -65,12 +65,12 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-A walled company-village on the western bank of the Khensuret necropolis, whose people are the stonecutters, draftsmen, sculptors and painters who cut and decorate the great tombs. An elite of hereditary craftsmen, their trades and their secrets passed father to son, set above the ordinary labor-gangs and proud of it. Behind its walls the village keeps itself: its own headmen, its own little courts, its own shrines, and a closed brotherhood that guards both the mysteries of its craft and the locations of what it builds.
+A walled company-village on the western bank of the Khelzuret necropolis, whose people are the stonecutters, draftsmen, sculptors and painters who cut and decorate the great tombs. An elite of hereditary craftsmen, their trades and their secrets passed father to son, set above the ordinary labor-gangs and proud of it. Behind its walls the village keeps itself: its own headmen, its own little courts, its own shrines, and a closed brotherhood that guards both the mysteries of its craft and the locations of what it builds.
 
-The tombs they raise are meant never to be opened again, and the men of Set-Maat know
+The tombs they raise are meant never to be opened again, and the men of Zel-Qar know
 better than anyone where the dead and their treasures lie—knowledge that makes the
-village at once the most trusted and the most watched community in the nome, and that
+village at once the most trusted and the most watched community in the selat, and that
 makes a bribed craftsman the tomb-robbers' surest master-key (see
-[[place-khautimnet|Khaut-Imnet]]).
+[[place-khautimnet|Khaut-Ithnet]]).
 
-See also [[place-setmaat|Set-Maat]], the village itself.
+See also [[place-setmaat|Zel-Qar]], the village itself.

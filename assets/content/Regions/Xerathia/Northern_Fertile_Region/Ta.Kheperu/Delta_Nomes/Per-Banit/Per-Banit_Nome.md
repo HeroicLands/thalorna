@@ -1,9 +1,9 @@
 ---
 shortcode: perbanitnome
-name: {full: Per-Banit Nome, aliases: []}
+name: {full: Gar-Banit Nome, aliases: []}
 type: place
 subType: region
-description: "Flax fields and the linen-weaving towns whose cloth clothes the empire—the land of the Nome of Per-Banit, one of the delta nomes of Ta'Kheperu."
+description: "Flax fields and the linen-weaving towns whose cloth clothes the empire—the land of the Nome of Gar-Banit, one of the delta nomes of Aû'Khelâthu."
 tags: [region]
 data:
   banner: takheperubnr
@@ -16,29 +16,29 @@ data:
 
 ## Overview
 
-Per-Banit Nome is the land of [[affiliation-nomeperban|The Nome of Per-Banit]], one of the [[affiliation-deltanomes|Delta Nomes]] of the [[affiliation-empirtkhpr|Empire of Ta'Kheperu]], and lies within the [[place-takheperurgn|Ta'Kheperu Region]].
+Gar-Banit Nome is the land of [[affiliation-nomeperban|The Nome of Gar-Banit]], one of the [[affiliation-deltanomes|Delta Nomes]] of the [[affiliation-empirtkhpr|Empire of Aû'Khelâthu]], and lies within the [[place-takheperurgn|Aû'Khelâthu Region]].
 
 ## Character
 
-Flax fields and the linen-weaving towns whose cloth clothes the empire. Beyond the capital the nome is the ordinary Kheperi landscape of villages, estates and temple lands, worked by farmers who owe a share of the harvest and labor on the canals, and lettered by the scribes who are the one reliable ladder out of the fields.
+Flax fields and the linen-weaving towns whose cloth clothes the empire. Beyond the capital the selat is the ordinary Khelâthi landscape of villages, estates and temple lands, worked by farmers who owe a share of the harvest and labor on the canals, and lettered by the scribes who are the one reliable ladder out of the fields.
 
 ## Economy
 
-Like every Kheperi nome it runs on the flood, the harvest and the render—grain to the granaries, labor to the canals and the flood-season works, and a share of everything to the temples and the crown. What it contributes to the empire beyond that is what its character names: flax fields and the linen-weaving towns whose cloth clothes the empire.
+Like every Khelâthi selat it runs on the flood, the harvest and the render—grain to the granaries, labor to the canals and the flood-season works, and a share of everything to the temples and the crown. What it contributes to the empire beyond that is what its character names: flax fields and the linen-weaving towns whose cloth clothes the empire.
 
 ## Notable Features
 
-- [[place-perbanit|Per-Banit]]—the nome capital and the Haty'a's seat
-- The chief temple of [[affiliation-ptah|Ptā'h]] and its estates
+- [[place-perbanit|Gar-Banit]]—the selat capital and the Halzi'a's seat
+- The chief temple of [[affiliation-ptah|Psaq'âru]] and its estates
 - Flax fields and the linen-weaving towns whose cloth clothes the empire
 
 ## Settlements
 
-- **[[place-perbanit|Per-Banit]]** (~34,000)—the nome capital and the seat of the Haty'a.
-- **The villages and estate-towns:** the ordinary settlements of the nome, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
+- **[[place-perbanit|Gar-Banit]]** (~34,000)—the selat capital and the seat of the Halzi'a.
+- **The villages and estate-towns:** the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 
-- [[affiliation-nomeperban|The Nome of Per-Banit]]—The nome that holds this land
-- [[place-takheperurgn|Ta'Kheperu Region]]—The enclosing region
-- [[place-perbanit|Per-Banit]]—Nome capital
+- [[affiliation-nomeperban|The Nome of Gar-Banit]]—The selat that holds this land
+- [[place-takheperurgn|Aû'Khelâthu Region]]—The enclosing region
+- [[place-perbanit|Gar-Banit]]—Nome capital

@@ -1,6 +1,6 @@
 ---
 shortcode: okhsshscrpt
-name: {full: Okh-sesh Script, aliases: [Okh-sesh, Okh-sesh-vowel]}
+name: {full: Okh-zethu Script, aliases: [Okh-zethu, Okh-zethu-vowel]}
 type: skill
 subType: script
 description: "The twenty-three sacred characters of Okháris, and the voweled hybrid the merchants made of them."
@@ -17,15 +17,15 @@ sohl:
   flags: {"thalorna": {script_family: Abjad}}
 ---
 
-Okh-sesh—the name borrows the Kheperi word _sesh_, "writing," an old debt the Okhári acknowledge and resent—is the consonantal script of the three city-states: twenty-three characters, vowels supplied by diacritic where they are supplied at all. It carries [[skill-okharclng|Okháric]] and nothing else, which is unusual among the scripts of the west and is very much the point.
+Okh-zethu—the name borrows the Khelâthi word _zethu_, "writing," an old debt the Okhári acknowledge and resent—is the consonantal script of the three city-states: twenty-three characters, vowels supplied by diacritic where they are supplied at all. It carries [[skill-okharclng|Okháric]] and nothing else, which is unusual among the scripts of the west and is very much the point.
 
-A character needs **both** Okh-sesh and [[skill-okharclng|Okháric]] to read it; see [[sohl-none-docskill-script|Script]] for the general rules.
+A character needs **both** Okh-zethu and [[skill-okharclng|Okháric]] to read it; see [[sohl-none-docskill-script|Script]] for the general rules.
 
 ## Two systems, one alphabet
 
-**Okh-sesh proper** is the ancient form, preserved for sacred texts and monumental inscription. Its ambiguity is not regarded as a fault. The liturgical register was fixed some fifteen centuries ago, and a scripture whose consonantal skeleton admits several readings is a scripture that requires a priest—the [[affiliation-nkaruthar|Nkaru'thar]] priesthood holds the oldest liturgical forms as recited knowledge, and the written text functions as an aide-mémoire for people who already know it by heart.
+**Okh-zethu proper** is the ancient form, preserved for sacred texts and monumental inscription. Its ambiguity is not regarded as a fault. The liturgical register was fixed some fifteen centuries ago, and a scripture whose consonantal skeleton admits several readings is a scripture that requires a priest—the [[affiliation-nkaruthar|Nkaru'thar]] priesthood holds the oldest liturgical forms as recited knowledge, and the written text functions as an aide-mémoire for people who already know it by heart.
 
-**Okh-sesh-vowel** is the modern hybrid: the same twenty-three characters with explicit vowel signs written on the line rather than pointed above it. It removes the ambiguity, which is why the priesthood dislikes it and why it is now the standard for every charter, letter of credit and trade seal the [[affiliation-crwntrdskhrs|Crown Trades]] issue. The Crown renews its charters at each accession, and the renewals have been in the voweled script for four reigns.
+**Okh-zethu-vowel** is the modern hybrid: the same twenty-three characters with explicit vowel signs written on the line rather than pointed above it. It removes the ambiguity, which is why the priesthood dislikes it and why it is now the standard for every charter, letter of credit and trade seal the [[affiliation-crwntrdskhrs|Crown Trades]] issue. The Crown renews its charters at each accession, and the renewals have been in the voweled script for four reigns.
 
 ## The letters themselves
 
@@ -37,4 +37,4 @@ Priesthood, professional scribes, 20–35% of the [[affiliation-okharis|Okhári]
 
 ## In play
 
-A character may well hold one system and not the other. Voweled Okh-sesh is straightforward and increasingly common; the sacred script is the one on the temple wall, in the old land grant, and in the document somebody wants translated—and a reader without the liturgical training will produce a plausible, wrong reading rather than none, because the skeleton always admits one.
+A character may well hold one system and not the other. Voweled Okh-zethu is straightforward and increasingly common; the sacred script is the one on the temple wall, in the old land grant, and in the document somebody wants translated—and a reader without the liturgical training will produce a plausible, wrong reading rather than none, because the skeleton always admits one.

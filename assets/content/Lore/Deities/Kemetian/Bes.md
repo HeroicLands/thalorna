@@ -1,26 +1,26 @@
 ---
 shortcode: besdty
-name: {full: Bēs, aliases: []}
+name: {full: Nehle'ât, aliases: []}
 type: lore
 subType: deity
 tags: [draft]
 data: {packFolder: deitieskemetian}
 ---
 
-![[icon-bes|Bēs]]{float=top-left size=medium}
+![[icon-bes|Nehle'ât]]{float=top-left size=medium}
 
 _Guardian of Night Visions—a crescent moon with a single protective eye._
 
-Bēs is the Kemetían name for [[lore-goddreams|the God of Dreams]], a deity far older than any single
+Nehle'ât is the Khelâthi name for [[lore-goddreams|the God of Dreams]], a deity far older than any single
 civilization and known under many names: **Baldr** to the Asguardian peoples, **Aethería** to the
 Aurèldíans, and known to the [[lore-flksinale|Sinalë]] since time immemorial. What is distinctive in
-the Kheperi understanding is the intimacy—not a distant celestial force but a companion who walks
+the Khelâthi understanding is the intimacy—not a distant celestial force but a companion who walks
 through the night beside the sleeper.
 
-In Ta'Kheperu, where the sun burns long across the valley and the flood reshapes the land in cycles
+In Aû'Khelâthu, where the sun burns long across the valley and the flood reshapes the land in cycles
 both predictable and obscure, sleep is more than rest. It is **a sacred passage into the
 otherworld**: the hours in which mortals commune with the divine and with the dead, when prophecy
-flows and truth shows itself unburdened by daylight. Bēs stands at the threshold of that passage,
+flows and truth shows itself unburdened by daylight. Nehle'ât stands at the threshold of that passage,
 shielding the vulnerable sleeper from the hostile spirits that stalk the night.
 
 His is deliberately a small cult. The knowledge it holds cannot simply be taught—it demands
@@ -29,5 +29,5 @@ specialized than the great valley cults, and its work is done in shrines and nig
 than in vast temple estates.
 
 TBD—how much of that specialized knowledge is shared across the god's other names, and whether the
-Bēs priesthood recognizes the Asguardian and Aurèldían cults as the same practice or merely the same
+Nehle'ât priesthood recognizes the Asguardian and Aurèldían cults as the same practice or merely the same
 god.

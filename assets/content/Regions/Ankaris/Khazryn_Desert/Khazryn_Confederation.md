@@ -187,7 +187,7 @@ Whether this magnanimity would survive contact with the actuality of reconquest 
 
 ## Commerce and Currency
 
-Khazryn Confederation's commerce operates primarily through [[lore-bartercnmy|barter]] and [[lore-kinhalcrdt|tribal credit]] customs, mediated through the caravan trade that crosses the steppe. The urbanized trading-cities of the Confederation have begun to develop modest moneylender activity along Vedyaran lines (see [[lore-vdyrnbnkng|Vedyaran Banking]]) but the tribal interior runs almost entirely on barter and on the elaborate inter-clan credit relationships that the [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]] occasionally adjudicates. Foreign coin (Vylarian Argo from western trade, Ta'Kheperan deben pieces from southern trade) circulates by intrinsic-metal value among traders.
+Khazryn Confederation's commerce operates primarily through [[lore-bartercnmy|barter]] and [[lore-kinhalcrdt|tribal credit]] customs, mediated through the caravan trade that crosses the steppe. The urbanized trading-cities of the Confederation have begun to develop modest moneylender activity along Vedyaran lines (see [[lore-vdyrnbnkng|Vedyaran Banking]]) but the tribal interior runs almost entirely on barter and on the elaborate inter-clan credit relationships that the [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]] occasionally adjudicates. Foreign coin (Vylarian Argo from western trade, Ta'Khelâthi gezan pieces from southern trade) circulates by intrinsic-metal value among traders.
 
 ## See Also
 

@@ -1,19 +1,19 @@
 ---
 shortcode: nomeprthth
-name: {full: The Nome of Per-Thōth, aliases: []}
+name: {full: The Nome of Gar-Reth'Sa'âr, aliases: []}
 type: affiliation
 subType: polity
-description: "The scribal nome of the Ta'Kheperu upper river—seat of the foremost temple of Thōth at Khemenu, home of the empire's finest scribal schools, its astronomers and calendar-keepers, and the priestly archivists who maintain the unbroken king-lists since the Sep Tepy."
+description: "The scribal selat of the Aû'Khelâthu upper river—seat of the foremost temple of Reth'Sa'âr at Khelunu, home of the empire's finest scribal schools, its astronomers and calendar-keepers, and the priestly archivists who maintain the unbroken king-lists since the Qet Telgu."
 data:
   banner: takheperubnr
   templatePriority: null
-  demonym: Kheperi
+  demonym: Khelâthi
   epithet: null
   symbol: null
   governance:
     model: monarchy
     summary: >-
-      A learned, temple-dominated upper-river nome governed by a hereditary Haty'a alongside the powerful priesthood of Thōth.
+      A learned, temple-dominated upper-river selat governed by a hereditary Halzi'a alongside the powerful priesthood of Reth'Sa'âr.
     ranks:
       - level: 0
         title: Outcast
@@ -41,41 +41,41 @@ data:
         description: >-
           Lettered, and therefore the empire's principal path upward: a talented child of any house may enter the schools.
       - level: 5
-        title: Heka'hut
+        title: Legha'lutu
         lore: landedlordrnk
         description: >-
-          Ruler of an estate—its manor, its fields and its village—answerable to the nomarch above.
+          Ruler of an estate—its manor, its fields and its village—answerable to the Halzi'a above.
       - level: 6
-        title: Haty'a
+        title: Halzi'a
         lore: greatlordrnk
         description: >-
-          Nomarch: hereditary governor of a nome, commanding its army, collecting its taxes and dispensing its justice.
+          Nomarch: hereditary governor of a selat, commanding its army, collecting its taxes and dispensing its justice.
       - level: 7
-        title: Iry'pat
+        title: Iru'palu
         lore: greatlordrnk
         description: >-
           Of the royal house and the most exalted families, the highest hereditary rank below the throne.
       - level: 8
-        title: Per-Aá
+        title: Gar-Aû
         lore: sovereignrnk
         description: >-
           The divine sovereign, on whose claim all temple and secular authority rests—a fiction nobody believes and nobody may abandon.
     offices:
-      Haty'a: Nomarch, governing a nome with armies, taxes and courts of his own.
-      Heka'hut: Ruler of an estate—manor, fields and village—answerable to the nomarch.
-      Nebet'hut: Mistress of an estate, holding the same authority in her own right.
-      Nebet: Lady of the court, whose standing comes from position rather than from land.
-      Semer: >-
-        Companion of the Per-Aá: a title of royal favor and access rather than territorial authority.
-      Wer'Hekau: >-
+      Halzi'a: Nomarch, governing a selat with armies, taxes and courts of his own.
+      Legha'lutu: Ruler of an estate—manor, fields and village—answerable to the Halzi'a.
+      Zabet'lutu: Mistress of an estate, holding the same authority in her own right.
+      Zabet: Lady of the court, whose standing comes from position rather than from land.
+      Zemelu: >-
+        Companion of the Gar-Aû: a title of royal favor and access rather than territorial authority.
+      Thâz'Lekhau: >-
         Great of Sacred Power—High Priest of a major temple, master of its estates and voice of its god.
-      Hem'Netjer: >-
+      Lem'Nelgir: >-
         Servant of the God—the ordained priesthood that conducts the rites and runs the temple's lands.
-      Wab: >-
+      Wazu: >-
         Purified One—acolyte in the temple schools, years from ordination and already better educated than most.
       Overseer of Scribes: Head of a bureau of the administration, commanding the lettered men who actually govern.
-      Nomarch's Steward: Administrator of the nome's revenue, its granaries and its corvée.
-      Canal-Warden: Keeper of the irrigation works on which the nome's harvest—and its tax—depends.
+      Nomarch's Steward: Administrator of the selat's revenue, its granaries and its corvée.
+      Canal-Warden: Keeper of the irrigation works on which the selat's harvest—and its tax—depends.
   seat: khemenu
   domains: [perthothnome]
   population: 700000
@@ -89,31 +89,31 @@ sohl: {system: {commonSkills: [kheperlng]}}
 
 ## Overview
 
-Per-Thōth—"the House of Thōth"—is the learned nome of the [[affiliation-uperivrnms|upper river]], the empire's seat of writing, reckoning, and recorded knowledge. Here are the finest scribal schools in the empire, the astronomers who keep the empire's calendar, and the archivists, lawyers, mathematicians, and physicians whose training begins under Thōth's wing. The land it holds is [[place-perthothnome|Per-Thōth]].
+Gar-Reth'Sa'âr—"the House of Reth'Sa'âr"—is the learned selat of the [[affiliation-uperivrnms|upper river]], the empire's seat of writing, reckoning, and recorded knowledge. Here are the finest scribal schools in the empire, the astronomers who keep the empire's calendar, and the archivists, lawyers, mathematicians, and physicians whose training begins under Reth'Sa'âr's wing. The land it holds is [[place-perthothnome|Gar-Reth'Sa'âr]].
 
 ## Character
 
-Per-Thōth is the empire's memory and its schoolroom. Its temper is bookish, exacting, and quietly proud: this is the nome that taught the bureaucracy to count and the priesthood to read, and it never quite lets the rest of the empire forget it. The priesthood of Thōth is its dominant power—less wealthy than the great mortuary or solar cults but more influential than its purse, for it controls the archives, certifies the scribes, computes the calendar, and is trusted to keep the king-lists that legitimize every dynasty. The [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]] governs the land and the grain; the Wer'Hekau of Thōth governs the word and the number, and in a civilization that runs on records, that is no small thing. The nome draws ambitious youths from every corner of the empire to its schools, and sends them back out as the scribes, accountants, and learned men who actually run Ta'Kheperu.
+Gar-Reth'Sa'âr is the empire's memory and its schoolroom. Its temper is bookish, exacting, and quietly proud: this is the selat that taught the bureaucracy to count and the priesthood to read, and it never quite lets the rest of the empire forget it. The priesthood of Reth'Sa'âr is its dominant power—less wealthy than the great mortuary or solar cults but more influential than its purse, for it controls the archives, certifies the scribes, computes the calendar, and is trusted to keep the king-lists that legitimize every dynasty. The [[affiliation-empirtkhpr#titles-and-forms-of-address|Halzi'a]] governs the land and the grain; the Thâz'Lekhau of Reth'Sa'âr governs the word and the number, and in a civilization that runs on records, that is no small thing. The selat draws ambitious youths from every corner of the empire to its schools, and sends them back out as the scribes, accountants, and learned men who actually run Aû'Khelâthu.
 
 ## Notable Features
 
 - The scribal schools—the empire's finest, the gold standard of literate training
-- The priestly archives and the unbroken king-lists since the Sep Tepy
+- The priestly archives and the unbroken king-lists since the Qet Telgu
 - The scriptoria and the medical, legal, and mathematical learning of the temple
 
 ## For the Worldbuilder
 
-Per-Thōth is the empire's archive and academy, and it plays best as a place of knowledge—sought, hoarded, forged, and stolen. The king-lists kept here legitimize dynasties, which makes them worth altering; the archives hold records that powerful people would pay or kill to find or to bury; the scribal certification is a chokepoint on every administrative career; and the temple's astronomers and physicians command learning that shades, at its edges, into the magical. Run adventure here as the intrigue of the written word: a forged genealogy that would change a succession, a lost or suppressed record, a scholar who has read too much, the theft of a unique text, the rivalry of schools and the politics of the archive. [[place-helionis|Helionite]] scholars—among the few foreigners welcomed into Kheperi temple libraries—pass through here, and where scholars meet, so do their secrets. What is abundant here is learning, records, and trained men; what is scarce is forgetfulness, and any document that cannot be made to say something dangerous.
+Gar-Reth'Sa'âr is the empire's archive and academy, and it plays best as a place of knowledge—sought, hoarded, forged, and stolen. The king-lists kept here legitimize dynasties, which makes them worth altering; the archives hold records that powerful people would pay or kill to find or to bury; the scribal certification is a chokepoint on every administrative career; and the temple's astronomers and physicians command learning that shades, at its edges, into the magical. Run adventure here as the intrigue of the written word: a forged genealogy that would change a succession, a lost or suppressed record, a scholar who has read too much, the theft of a unique text, the rivalry of schools and the politics of the archive. [[place-helionis|Helionite]] scholars—among the few foreigners welcomed into Khelâthi temple libraries—pass through here, and where scholars meet, so do their secrets. What is abundant here is learning, records, and trained men; what is scarce is forgetfulness, and any document that cannot be made to say something dangerous.
 
 ## Commerce and Currency
 
-Per-Thōth uses the [[lore-tkhprcrncy|Ta'Kheperu currency system]]. Its school-fees, text-sales, and certification-dues bring a steady flow of struck silver into a nome that would otherwise run, like its neighbors, on grain-render; the temple of Thōth banks its endowments through the [[affiliation-perhati|Pér-Háti]] treasuries and is itself a noted lender and holder of records of account. See [[lore-tkhprcrncy|Ta'Kheperu Currency]] for the full system.
+Gar-Reth'Sa'âr uses the [[lore-tkhprcrncy|Aû'Khelâthu currency system]]. Its school-fees, text-sales, and certification-dues bring a steady flow of struck silver into a selat that would otherwise run, like its neighbors, on grain-render; the temple of Reth'Sa'âr banks its endowments through the [[affiliation-perhati|Gár-Hálzi]] treasuries and is itself a noted lender and holder of records of account. See [[lore-tkhprcrncy|Aû'Khelâthu Currency]] for the full system.
 
 ## See Also
 
-- [[affiliation-uperivrnms|The Upper River Nomes]]—Parent nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Imperial overview
-- [[place-khemenu|Khemenu]]—Nome capital and temple-city of Thōth
+- [[affiliation-uperivrnms|The Upper River Nomes]]—Parent selat-class
+- [[affiliation-empirtkhpr|The Empire of Aû'Khelâthu]]—Imperial overview
+- [[place-khemenu|Khelunu]]—Nome capital and temple-city of Reth'Sa'âr
 - [[place-helionis|Heliónis]]—Foreign scholars who study in its libraries
-- [[affiliation-kemtnpnthn|Kemetian]]—Pantheon (Thōth) · [[affiliation-imprlscrblgld|The Imperial Scribal Guild]]—The scribal profession
-- [[place-perthothnome|Per-Thōth]]—The land the nome holds
+- [[affiliation-kemtnpnthn|Khelâthi]]—Pantheon (Reth'Sa'âr) · [[affiliation-imprlscrblgld|The Imperial Scribal Guild]]—The scribal profession
+- [[place-perthothnome|Gar-Reth'Sa'âr]]—The land the selat holds

@@ -1,9 +1,9 @@
 ---
 shortcode: perhut
-name: {full: Per-Hût, aliases: []}
+name: {full: Gar-Hût, aliases: []}
 type: place
 subType: settlement
-description: "Nome capital of Per-Hût."
+description: "Nome capital of Gar-Hût."
 tags: [town]
 data:
   banner: takheperubnr
@@ -16,11 +16,11 @@ data:
 
 ## Overview
 
-Per-Hût is the capital of [[affiliation-nomeperhut|the Nome of Per-Hût]] and the seat of its [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]]. It holds the nome's chief temple of [[affiliation-iset|Íšét]], the Haty'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the nome's: A small, devout nome of healing-shrines and herb-gardens.
+Gar-Hût is the capital of [[affiliation-nomeperhut|the Nome of Gar-Hût]] and the seat of its [[affiliation-empirtkhpr#titles-and-forms-of-address|Halzi'a]]. It holds the selat's chief temple of [[affiliation-iset|Uznêra]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's: A small, devout selat of healing-shrines and herb-gardens.
 
 ## See Also
 
-- [[affiliation-nomeperhut|The Nome of Per-Hût]]—Parent nome
+- [[affiliation-nomeperhut|The Nome of Gar-Hût]]—Parent selat
 - [[affiliation-uperivrnms|The Upper River Nomes]]—Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Imperial overview
-- [[affiliation-iset|Íšét]]—Patron cult
+- [[affiliation-empirtkhpr|The Empire of Aû'Khelâthu]]—Imperial overview
+- [[affiliation-iset|Uznêra]]—Patron cult

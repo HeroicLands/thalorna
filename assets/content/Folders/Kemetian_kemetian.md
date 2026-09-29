@@ -1,6 +1,6 @@
 ---
 shortcode: kemetian
-name: {full: "Kemetian"}
+name: {full: "Khelâthi"}
 type: folder
 data: {parent: mysticalskills}
 ---

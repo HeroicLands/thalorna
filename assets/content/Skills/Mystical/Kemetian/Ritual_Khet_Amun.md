@@ -1,6 +1,6 @@
 ---
 shortcode: khetamun
-name: {full: "Ritual: Khet'Amun", aliases: ["Khet'Amun, The River-God"]}
+name: {full: "Ritual: Igel'Nâru", aliases: ["Igel'Nâru, The River-God"]}
 type: skill
 subType: mystical
 tags: [kemetian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-khetamun|Faith of Khet'Amun]]
+See [[affiliation-khetamun|Faith of Igel'Nâru]]

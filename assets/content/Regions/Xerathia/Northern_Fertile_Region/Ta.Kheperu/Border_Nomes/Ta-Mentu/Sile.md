@@ -1,9 +1,9 @@
 ---
 shortcode: sile
-name: {full: Sile, aliases: []}
+name: {full: Zileti, aliases: []}
 type: place
 subType: settlement
-description: "Nome capital of Ta-Mentu."
+description: "Nome capital of Zu-Qeztu."
 tags: [town]
 data:
   banner: takheperubnr
@@ -16,11 +16,11 @@ data:
 
 ## Overview
 
-Sile is the capital of [[affiliation-nometament|the Nome of Ta-Mentu]] and the seat of its [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]]. It holds the nome's chief temple of [[affiliation-ra|Rā]], the Haty'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the nome's: the western steppe-edge; horse-pasture and the watch against nomad raiders.
+Zileti is the capital of [[affiliation-nometament|the Nome of Zu-Qeztu]] and the seat of its [[affiliation-empirtkhpr#titles-and-forms-of-address|Halzi'a]]. It holds the selat's chief temple of [[affiliation-ra|Uqa'â]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's: the western steppe-edge; horse-pasture and the watch against nomad raiders.
 
 ## See Also
 
-- [[affiliation-nometament|The Nome of Ta-Mentu]]—Parent nome
+- [[affiliation-nometament|The Nome of Zu-Qeztu]]—Parent selat
 - [[affiliation-bordernoms|The Border Nomes]]—Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Imperial overview
-- [[affiliation-ra|Rā]]—Patron cult
+- [[affiliation-empirtkhpr|The Empire of Aû'Khelâthu]]—Imperial overview
+- [[affiliation-ra|Uqa'â]]—Patron cult

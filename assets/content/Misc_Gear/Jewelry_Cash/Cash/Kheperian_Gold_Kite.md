@@ -1,8 +1,8 @@
 ---
 shortcode: gkite
-name: {full: Kheperian Gold Kite, aliases: ["Gold Kite", "Gold Qedét"]}
+name: {full: Khelâthi Gold Kite, aliases: ["Gold Kite", "Gold Qedét"]}
 type: miscgear
-description: "Temple-attested gold weight-piece of one kite, a tenth of a deben."
+description: "Temple-attested gold weight-piece of one qelu, a tenth of a gezan."
 tags: [jewelry_cash]
 data: {icon: icon-coinsbdg, templatePriority: 0, packFolder: cash}
 sohl:
@@ -11,6 +11,6 @@ sohl:
   system: {weightBase: 0.02, valueBase: 96, qualityBase: 0, durabilityBase: 3}
 ---
 
-A gold piece at one kite—a tenth of a deben—sealed and marked as the larger pieces are. The formal registers call the unit a qedét; ordinary speech calls it a kite, and the two mean the same mass.
+A gold piece at one qelu—a tenth of a gezan—sealed and marked as the larger pieces are. The formal registers call the unit a qedét; ordinary speech calls it a qelu, and the two mean the same mass.
 
-A gold kite is the piece a wealthy household actually carries. It settles a fine weapon, a season's rent on good ground, or a ceremonial gift where the metal itself is the courtesy.
+A gold qelu is the piece a wealthy household actually carries. It settles a fine weapon, a season's rent on good ground, or a ceremonial gift where the metal itself is the courtesy.

@@ -31,12 +31,12 @@ Two trades keep the coast working. Salt is raked from pans along the whole shore
 
 ## What Is Known of It
 
-Vedyari shipping on this sea is coastwise. Hulls work between the roadsteads and round the southern turn into the [[place-meghsamdra|Megha-samudra]], and the passage to the Kheperi delta is made that way when the season allows it. No house of the west coast keeps a factor on any farther shore, and no master here is paid to cross open water.
+Vedyari shipping on this sea is coastwise. Hulls work between the roadsteads and round the southern turn into the [[place-meghsamdra|Megha-samudra]], and the passage to the Khelâthi delta is made that way when the season allows it. No house of the west coast keeps a factor on any farther shore, and no master here is paid to cross open water.
 
-The far shore is the eastern coast of [[place-xerathia|Xerathia]], a month of open water to the west, and no Vedyari hull works it. West-north-west lie [[affiliation-empirtkhpr|Ta'Kheperu]] and the [[place-dunharargn|Dunhara]], both already known to Vedyara by their own roads. What the men of this coast know of the Xerathian shore they have from Kheperi masters met at the delta and from crews blown out and back; it is enough to know that the cargoes worth carrying come round the other way. This is not the becalmed water the Kalihara trade fears — that Doldrum Sea lies on Xerathia's farther side, and the Sandhyā-samudra is a different water entirely.
+The far shore is the eastern coast of [[place-xerathia|Xerathia]], a month of open water to the west, and no Vedyari hull works it. West-north-west lie [[affiliation-empirtkhpr|Aû'Khelâthu]] and the [[place-dunharargn|Dunhara]], both already known to Vedyara by their own roads. What the men of this coast know of the Xerathian shore they have from Khelâthi masters met at the delta and from crews blown out and back; it is enough to know that the cargoes worth carrying come round the other way. This is not the becalmed water the Kalihara trade fears — that Doldrum Sea lies on Xerathia's farther side, and the Sandhyā-samudra is a different water entirely.
 
 ## See Also
 
 - [[place-vedyarargn|Vedyara Region]]—the coast this sea takes
-- [[place-meghsamdra|The Megha-samudra]]—the southern sea, and the way round to the Kheperi passage
+- [[place-meghsamdra|The Megha-samudra]]—the southern sea, and the way round to the Khelâthi passage
 - [[place-graznmntns|Grazian Mountains]]—the wall whose western end the coast runs south from

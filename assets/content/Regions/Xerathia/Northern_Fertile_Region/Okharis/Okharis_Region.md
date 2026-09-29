@@ -34,7 +34,7 @@ than orchard and canal.
 ## Peoples and Culture
 
 The Okhárics are pastoral-nomadic, and most of the ordinary population is on
-the move with its cattle for the greater part of the year. Where the Kheperi
+the move with its cattle for the greater part of the year. Where the Khelâthi
 and the Bethûans built their civilizations around water, the Okhárics built
 theirs around the herds. Religious life follows the three-flame cosmology of
 [[affiliation-nkaruthar|Nkaru'thar]], whose creation-destruction-renewal triad
@@ -46,12 +46,12 @@ them and the clans is the Three-Flame Settlement.
 
 The region is the territory of [[affiliation-okharis|Okháris]]. Its frontier clans to
 the north pay tribute to [[place-bethuargn|Bethûan]] authorities in exchange for
-grazing rights, and a Kheperi attempt centuries ago to bring the western
+grazing rights, and a Khelâthi attempt centuries ago to bring the western
 temple-cities into a tributary relationship collapsed within a generation.
 
 ## See Also
 
 - [[place-nrthrnfrtlrgn|Northern Fertile Region]]—the parent region
 - [[affiliation-okharis|Okháris]]—the realm that holds this region
-- [[place-takheperurgn|Ta'Kheperu Region]]—neighbor to the north
+- [[place-takheperurgn|Aû'Khelâthu Region]]—neighbor to the north
 - [[place-cntrlrnfrsts|Central Rainforests]]—the wall to the south

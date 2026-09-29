@@ -1,9 +1,9 @@
 ---
 shortcode: iathemet
-name: {full: Iat-Hemet, aliases: []}
+name: {full: Yath-Hemet, aliases: []}
 type: place
 subType: settlement
-description: "Nome capital of Iat-Hemet."
+description: "Nome capital of Yath-Hemet."
 tags: [town]
 data:
   banner: takheperubnr
@@ -16,11 +16,11 @@ data:
 
 ## Overview
 
-Iat-Hemet is the capital of [[affiliation-nomeiathem|the Nome of Iat-Hemet]] and the seat of its [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]]. It holds the nome's chief temple of [[affiliation-sobek|Sobek]], the Haty'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the nome's: the smallest upper nome; a narrow gorge-stretch where the valley pinches to almost nothing.
+Yath-Hemet is the capital of [[affiliation-nomeiathem|the Nome of Yath-Hemet]] and the seat of its [[affiliation-empirtkhpr#titles-and-forms-of-address|Halzi'a]]. It holds the selat's chief temple of [[affiliation-sobek|Tjelsuk]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's: the smallest upper selat; a narrow gorge-stretch where the valley pinches to almost nothing.
 
 ## See Also
 
-- [[affiliation-nomeiathem|The Nome of Iat-Hemet]]—Parent nome
+- [[affiliation-nomeiathem|The Nome of Yath-Hemet]]—Parent selat
 - [[affiliation-uperivrnms|The Upper River Nomes]]—Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Imperial overview
-- [[affiliation-sobek|Sobek]]—Patron cult
+- [[affiliation-empirtkhpr|The Empire of Aû'Khelâthu]]—Imperial overview
+- [[affiliation-sobek|Tjelsuk]]—Patron cult

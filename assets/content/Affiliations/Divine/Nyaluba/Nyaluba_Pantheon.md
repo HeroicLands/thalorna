@@ -153,7 +153,7 @@ Ashmark-adjacent purification rites—but the foundations differ. Where the Okh�
 on a singular Eternal Flame whose aspects the city-states embody, the Nyáluba Way is plural,
 lineage-bound, and oriented to the specific territory of each clan.
 
-Contact with the major Ankarian pantheons—[[affiliation-kemtnpnthn|Kemetían]] solar worship to
+Contact with the major Ankarian pantheons—[[affiliation-kemtnpnthn|Khelâthi]] solar worship to
 the north, the [[affiliation-arldnpnthn|Aurèldían]] faith of the western trade cities—has
 produced no syncretism. Nyáluba traders conduct themselves respectfully in foreign temples as
 courtesy demands, but do not take foreign gods into their own religious life. Those gods are

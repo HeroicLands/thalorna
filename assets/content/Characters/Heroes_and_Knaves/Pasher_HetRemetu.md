@@ -417,7 +417,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-**Home:** [[place-wasetkara|Wasetkara]]
+**Home:** [[place-wasetkara|Galezkara]]
 
 # Appearance {#appearance}
 
@@ -429,7 +429,7 @@ Pasher stands 6'1" tall with a medium build. He has ebony weathered skin, very d
 
 **Early Years**
 
-Pasher was born in the merchant quarter of Wasetkara, the capital of [[affiliation-empirtkhpr|Ta'Kheperu]], to a family of modest means. His mother, Senet, was a healer of some renown, while his father, Het'rem, worked as a scribe in the Temple of Sét. From childhood, Pasher showed an unusual gift for music and voice, teaching himself the lyre by listening to court musicians and recreating their melodies from memory alone. By his fourteenth year, he had already begun performing in the streets, and by his twentieth, he had attracted the patronage of a wealthy merchant's daughter named Ahliya, who sponsored his first real performances in the halls of nobility.
+Pasher was born in the merchant quarter of Galezkara, the capital of [[affiliation-empirtkhpr|Aû'Khelâthu]], to a family of modest means. His mother, Senet, was a healer of some renown, while his father, Het'rem, worked as a scribe in the Temple of Tjaq'ûr. From childhood, Pasher showed an unusual gift for music and voice, teaching himself the lyre by listening to court musicians and recreating their melodies from memory alone. By his fourteenth year, he had already begun performing in the streets, and by his twentieth, he had attracted the patronage of a wealthy merchant's daughter named Ahliya, who sponsored his first real performances in the halls of nobility.
 
 **The Scar and Its Meaning**
 
@@ -453,7 +453,7 @@ Pasher seeks to capture in music the full spectrum of human experience: joy and 
 
 ### Strengths
 
-- **Master Vocalist**: His voice is his greatest instrument, capable of ranging from a whisper that draws crowds to silence to a thundering declaration that shakes the rafters. Years of training and natural gift have made him one of the finest singers in Ta'Kheperu.
+- **Master Vocalist**: His voice is his greatest instrument, capable of ranging from a whisper that draws crowds to silence to a thundering declaration that shakes the rafters. Years of training and natural gift have made him one of the finest singers in Aû'Khelâthu.
 
 - **Lyricist and Composer**: Beyond performance, Pasher creates original songs that capture the essence of stories and emotions in ways that move audiences deeply. His notebook is filled with lyrics of great beauty and poignancy.
 
@@ -479,11 +479,11 @@ Pasher seeks to capture in music the full spectrum of human experience: joy and 
 
 ### Patrons
 
-- **Ahliya Saqqara**: A wealthy merchant widow of advancing years who once sponsored his rise to prominence. Though their romance ended decades ago, she remains his most reliable patron, offering him shelter and patronage whenever he returns to Wasetkara. She sees in him the young idealist she once knew.
+- **Ahliya Saqqara**: A wealthy merchant widow of advancing years who once sponsored his rise to prominence. Though their romance ended decades ago, she remains his most reliable patron, offering him shelter and patronage whenever he returns to Galezkara. She sees in him the young idealist she once knew.
 
 - **Lord Marûptas of the Eastern Reaches**: A provincial lord who has competed with other nobles for the privilege of hosting Pasher's performances. He values Pasher's ability to enhance the prestige of his court and treats the musician with unusual respect and generosity.
 
-- **Master Sekhmet of the Minstrels' Guild**: The current Guild Master, herself a retired performer, who recognizes Pasher's talent and occasionally pressures him to take greater responsibility within the Guild's structure—pressure he consistently resists.
+- **Master Uzner of the Minstrels' Guild**: The current Guild Master, herself a retired performer, who recognizes Pasher's talent and occasionally pressures him to take greater responsibility within the Guild's structure—pressure he consistently resists.
 
 ### Enemies
 
@@ -493,18 +493,18 @@ Pasher seeks to capture in music the full spectrum of human experience: joy and 
 
 ### Affiliations
 
-- **Minstrels' Guild of Ta'Kheperu**: Though only loosely connected, he maintains membership and appears at Guild gatherings sporadically.
+- **Minstrels' Guild of Aû'Khelâthu**: Though only loosely connected, he maintains membership and appears at Guild gatherings sporadically.
 
 - **The Wanderers' Fellowship**: An informal network of traveling performers and storytellers who share information about safe roads, hostile regions, and potential performance venues.
 
 ## Plot Hooks
 
-1. **The Lost Songs of the First Age**: Pasher has been contacted by **Lady Neferika**, a reclusive scholar and priestess of Sét who claims to have discovered fragmentary references to the fabled songs of creation mentioned in the oldest temple texts. She believes that if these songs could be recovered and performed in the correct sequence, they would awaken something ancient and powerful—though whether this power would be benevolent or catastrophic, she does not know. She has offered him a sum of gold and a map indicating the location of a sealed temple deep in the desert where these songs might yet be preserved. The problem: the temple is protected by wards and guardians that have not been tested in centuries, and it lies in territory claimed by the **Shadow Scorpions**, a warband of desert nomads who brook no trespassers.
+1. **The Lost Songs of the First Age**: Pasher has been contacted by **Lady Neferika**, a reclusive scholar and priestess of Tjaq'ûr who claims to have discovered fragmentary references to the fabled songs of creation mentioned in the oldest temple texts. She believes that if these songs could be recovered and performed in the correct sequence, they would awaken something ancient and powerful—though whether this power would be benevolent or catastrophic, she does not know. She has offered him a sum of gold and a map indicating the location of a sealed temple deep in the desert where these songs might yet be preserved. The problem: the temple is protected by wards and guardians that have not been tested in centuries, and it lies in territory claimed by the **Shadow Scorpions**, a warband of desert nomads who brook no trespassers.
 
-2. **The Thief of Melodies**: Pasher's greatest work, a song cycle he spent years composing called "The Descent of Wasetkara," has been stolen. A merchant caravan carrying his belongings while he traveled overland was ambushed, and all his notebooks and original compositions were taken. He has since learned that the pieces are being performed throughout the western provinces by an unknown musician claiming them as original work. Worse, this thief is a gifted performer—some who have heard both versions claim they prefer the thief's interpretations. Now Pasher must track down this mysterious rival.
+2. **The Thief of Melodies**: Pasher's greatest work, a song cycle he spent years composing called "The Descent of Galezkara," has been stolen. A merchant caravan carrying his belongings while he traveled overland was ambushed, and all his notebooks and original compositions were taken. He has since learned that the pieces are being performed throughout the western provinces by an unknown musician claiming them as original work. Worse, this thief is a gifted performer—some who have heard both versions claim they prefer the thief's interpretations. Now Pasher must track down this mysterious rival.
 
 3. **The Silent Oracle's Curse**: In a small village called Menet-Karu, Pasher once performed for the birthday celebration of **High Priestess Nana**, a woman known throughout the region for her spiritual wisdom and grace. His performance that night was, by his own admission, less than his best—he was tired, distracted, perhaps drinking more than he should have. Shortly after, the priestess fell into a mysterious sleep from which she will not wake, and the village has blamed Pasher's poor performance as having somehow offended the gods or broken some unknown taboo. The priestess's brother, a merchant of considerable influence, has declared that only Pasher can reverse the curse—though he cannot say how, only that the solution will require Pasher to return to the village and rediscover what song the priestess's soul is calling for in whatever realm she now inhabits.
 
-4. **Recruitment by the Sun Court**: An emissary of the high priests of Rā has approached Pasher with an extraordinary proposal: the Temple of the Sun is mounting a grand ritual to be performed during the summer solstice, and they wish to commission him to compose and perform the ceremonial music. The honor would be immense, the payment astronomical, and it would cement his reputation forever. However, the ritual itself involves elements he does not fully understand, and there are whispers among the lower priests that something has been hidden from even the high clergy about the ritual's true purpose. Is it merely a festival, or does the Temple have some deeper purpose that Pasher would be complicit in by lending his art to their cause?
+4. **Recruitment by the Sun Court**: An emissary of the high priests of Uqa'â has approached Pasher with an extraordinary proposal: the Temple of the Sun is mounting a grand ritual to be performed during the summer solstice, and they wish to commission him to compose and perform the ceremonial music. The honor would be immense, the payment astronomical, and it would cement his reputation forever. However, the ritual itself involves elements he does not fully understand, and there are whispers among the lower priests that something has been hidden from even the high clergy about the ritual's true purpose. Is it merely a festival, or does the Temple have some deeper purpose that Pasher would be complicit in by lending his art to their cause?
 
 5. **The Scar's Origin Revealed**: Years have passed since the drunken noble wounded Pasher, but that man has never fully left the world of consequence. Pasher learns that the man—now fallen into poverty and desperation—has been spreading a story that contradicts the official account of how Pasher's scar was received. According to this man's account, the scar was not the result of random violence, but of Pasher's seduction of a noblewoman whose marriage was meant to secure a crucial political alliance. The story is false, but it is spreading, and Pasher's patrons are beginning to distance themselves. More troublingly, the noblewoman's family has taken notice and seeks to silence the man before he spreads further scandal. Pasher can let this man be killed, help him disappear, or confront the truth of his own past.

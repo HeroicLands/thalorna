@@ -1,6 +1,6 @@
 ---
 shortcode: shesmu
-name: {full: "Ritual: Shesmu", aliases: ["Shesmu, Patron of the Hunt"]}
+name: {full: "Ritual: Linqur", aliases: ["Linqur, Patron of the Hunt"]}
 type: skill
 subType: mystical
 tags: [kemetian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-shesmu|Faith of Shesmu]]
+See [[affiliation-shesmu|Faith of Linqur]]

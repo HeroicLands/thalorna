@@ -425,7 +425,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-**Home:** [[place-perankhet|Per-Ankhet]]
+**Home:** [[place-perankhet|Gar-Ankhet]]
 
 # Appearance {#appearance}
 
@@ -435,9 +435,9 @@ Mertep stands 6'0" tall with a medium build. She has dark weathered skin, gray h
 
 # Dossier {#dossier}
 
-Mertep was born in one of [[affiliation-empirtkhpr|Ta'Kheperu]]'s coastal villages, the daughter of a fisher woman and a dockworker. As a young girl, she witnessed the great Iteru inundation and the fertility cycles that governed her people's lives, learning early the rhythms of labor and duty. At sixteen, she was taken into service by a merchant family's household, initially as a laundress. Her natural gifts for organization and her quiet authority over other servants led to rapid advancement. By her early twenties, she had been promoted to head housekeeper, a position she maintained for over two decades through sheer competence and an unshakeable commitment to excellence.
+Mertep was born in one of [[affiliation-empirtkhpr|Aû'Khelâthu]]'s coastal villages, the daughter of a fisher woman and a dockworker. As a young girl, she witnessed the great igelu inundation and the fertility cycles that governed her people's lives, learning early the rhythms of labor and duty. At sixteen, she was taken into service by a merchant family's household, initially as a laundress. Her natural gifts for organization and her quiet authority over other servants led to rapid advancement. By her early twenties, she had been promoted to head housekeeper, a position she maintained for over two decades through sheer competence and an unshakeable commitment to excellence.
 
-The tattoo on her shoulder—a falcon in flight—marks her devotion to Hórús, god of the voyager and horizon. She received it in a moment of youthful rebellion, a secret act of faith and defiance against a former employer who forbade personal religious expression. That same employer is long dead, but Mertep has never regretted the mark, wearing it as a reminder that even servants possess their own dignity and will.
+The tattoo on her shoulder—a falcon in flight—marks her devotion to Gewaâtis, god of the voyager and horizon. She received it in a moment of youthful rebellion, a secret act of faith and defiance against a former employer who forbade personal religious expression. That same employer is long dead, but Mertep has never regretted the mark, wearing it as a reminder that even servants possess their own dignity and will.
 
 Currently, she serves the household of **Lord Sâbekhotep**, a wealthy official of the second rank. She has managed his domestic affairs for the past twelve years with flawless efficiency. Her position is secure, her authority within the staff absolute, and her life ordered by the rhythms of service.
 
@@ -451,7 +451,7 @@ She is neither warm nor cruel, but precisely calibrated. To those who serve well
 
 ### Motivation
 
-Mertep serves because service is the structure that gives her life meaning. She takes profound satisfaction in creating and maintaining perfect order, in running a household where everything operates with the precision of gears in a watermill. She is driven by pride in her work and by a deep, unexamined belief that a well-ordered household is a reflection of cosmic harmony. She serves Hórús not through flashy piety but through the daily practice of her labor—the voyager god guides travelers across unknown seas, and she guides her household through the uncertain waters of daily life.
+Mertep serves because service is the structure that gives her life meaning. She takes profound satisfaction in creating and maintaining perfect order, in running a household where everything operates with the precision of gears in a watermill. She is driven by pride in her work and by a deep, unexamined belief that a well-ordered household is a reflection of cosmic harmony. She serves Gewaâtis not through flashy piety but through the daily practice of her labor—the voyager god guides travelers across unknown seas, and she guides her household through the uncertain waters of daily life.
 
 She has no ambition to rise beyond her station, nor does she resent her position. She has built a domain of power within the household that is real and substantial; she needs nothing more.
 
@@ -476,7 +476,7 @@ She has no ambition to rise beyond her station, nor does she resent her position
 ### Patrons
 
 - **Lord Sâbekhotep**: Her employer and the man who has granted her stable, respectful employment for over a decade. Their relationship is professional but based on genuine mutual regard.
-- **The Temple of Hórús at Ta'Kheperu**: She donates a portion of her wages to the temple and receives their blessing in return.
+- **The Temple of Gewaâtis at Aû'Khelâthu**: She donates a portion of her wages to the temple and receives their blessing in return.
 
 ### Enemies
 
@@ -487,7 +487,7 @@ She has no ambition to rise beyond her station, nor does she resent her position
 
 - **The Household of Lord Sâbekhotep**: Her primary loyalty and the source of her identity.
 - **The Servants' Mutual Aid Society**: An informal network of household managers and senior servants who share knowledge about household management and mutual protection.
-- **The Temple of Hórús**: A devotional order where she worships and maintains her private religious practice.
+- **The Temple of Gewaâtis**: A devotional order where she worships and maintains her private religious practice.
 
 ## Plot Hooks
 

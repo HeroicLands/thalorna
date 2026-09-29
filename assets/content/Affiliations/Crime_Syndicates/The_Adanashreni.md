@@ -180,7 +180,7 @@ Vedyara is a subcontinent, and the Ādānashrenī is dominant without being sole
 - **The port syndicates.** The coastal city-states support outward-facing organizations that deal in
   what the charters do not cover—trafficking, contraband, and business with the
   [[affiliation-graytide|Gray Tide]], the [[affiliation-theashroad|Ash Road]] and the
-  [[affiliation-empirtkhpr|Ta'Kheperu]] shippers. The guild regards them as unchartered and beneath
+  [[affiliation-empirtkhpr|Aû'Khelâthu]] shippers. The guild regards them as unchartered and beneath
   contempt, and does business with them constantly.
 - **Local gangs.** As everywhere in Thalorna, every town has its own petty operators, who subcontract
   to the guild and are the first casualties of any dispute.

@@ -1,6 +1,6 @@
 ---
 shortcode: anubis
-name: {full: "Ritual: Ánubís", aliases: ["Ánubís, The Keeper of Transitions"]}
+name: {full: "Ritual: Hezmuîri", aliases: ["Hezmuîri, The Keeper of Transitions"]}
 type: skill
 subType: mystical
 tags: [kemetian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-anubis|Faith of Ánubís]]
+See [[affiliation-anubis|Faith of Hezmuîri]]

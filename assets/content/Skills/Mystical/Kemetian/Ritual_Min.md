@@ -1,6 +1,6 @@
 ---
 shortcode: min
-name: {full: "Ritual: Min", aliases: ["Min, The Fertility-God"]}
+name: {full: "Ritual: Pelgun", aliases: ["Pelgun, The Fertility-God"]}
 type: skill
 subType: mystical
 tags: [kemetian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-min|Faith of Min]]
+See [[affiliation-min|Faith of Pelgun]]

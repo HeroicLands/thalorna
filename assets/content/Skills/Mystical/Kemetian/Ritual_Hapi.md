@@ -1,6 +1,8 @@
 ---
 shortcode: hapi
-name: {full: "Ritual: Hâpi", aliases: [Hâpi, Hapy, Apis, The Golden Reveler, The Overflowing One]}
+name:
+  full: "Ritual: Thubâ'i"
+  aliases: [Thubâ'i, Hapy, Apis, The Golden Reveler, The Overflowing One]
 type: skill
 subType: mystical
 tags: [kemetian, faith-skill, draft]
@@ -15,4 +17,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-hapi|Faith of Hâpi]]
+See [[affiliation-hapi|Faith of Thubâ'i]]

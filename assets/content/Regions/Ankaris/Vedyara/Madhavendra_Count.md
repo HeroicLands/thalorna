@@ -46,7 +46,7 @@ The **Mādhavendra count** is Vedyara's own year-count, kept alongside—and nev
 
 ## The Epoch
 
-The count begins with the standardization of Classical Vedyari, "roughly 1,200 years before the present," under the philosopher-kings of Mādhavendra, whose capital gave the era its name. That reign produced the great philosophical commentaries, legal codes and epic narratives that are still the prestige texts of the civilization. Vedyaran reckoning takes its zero from that reign, and from no Vylarian, Kheperan or Tānvüri event. **M 1** falls in **480 BF**. A date given in M converts to the Common Calendar by the rule **AF year = M year − 480**. A result at or below zero is read as a BF date instead, counting back from AF 1.
+The count begins with the standardization of Classical Vedyari, "roughly 1,200 years before the present," under the philosopher-kings of Mādhavendra, whose capital gave the era its name. That reign produced the great philosophical commentaries, legal codes and epic narratives that are still the prestige texts of the civilization. Vedyaran reckoning takes its zero from that reign, and from no Vylarian, Khelâthi or Tānvüri event. **M 1** falls in **480 BF**. A date given in M converts to the Common Calendar by the rule **AF year = M year − 480**. A result at or below zero is read as a BF date instead, counting back from AF 1.
 
 ## The Year and Its Months
 
@@ -106,7 +106,7 @@ The reckoners of the Ganaka-shala compute the same year instead of sighting it, 
 
 ## Elsewhere
 
-Vedyara's neighbors keep their own counts and not the Mādhavendra one. [[affiliation-empirtkhpr|Ta'Kheperu]] dates from the Sep Tepy and the [[affiliation-tanvurempr|Empire of Tānvür]] from the Celestial Calendar's Great Convergence. None of the three converts to either of the others in ordinary use. A trader or an envoy crossing between them carries both dates and translates neither.
+Vedyara's neighbors keep their own counts and not the Mādhavendra one. [[affiliation-empirtkhpr|Aû'Khelâthu]] dates from the Qet Telgu and the [[affiliation-tanvurempr|Empire of Tānvür]] from the Celestial Calendar's Great Convergence. None of the three converts to either of the others in ordinary use. A trader or an envoy crossing between them carries both dates and translates neither.
 
 ## See Also
 
