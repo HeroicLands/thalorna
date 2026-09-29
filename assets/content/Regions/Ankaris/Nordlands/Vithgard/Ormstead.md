@@ -1,6 +1,6 @@
 ---
 shortcode: ormstead
-name: {full: Ormstead, aliases: []}
+name: {full: Marvstead, aliases: []}
 type: place
 subType: settlement
 description: "Town"

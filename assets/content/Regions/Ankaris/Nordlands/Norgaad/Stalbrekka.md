@@ -1,6 +1,6 @@
 ---
 shortcode: stalbrekka
-name: {full: Stálbrekka, aliases: []}
+name: {full: Flarnbrekka, aliases: []}
 type: place
 subType: settlement
 description: "Mountain Settlement"

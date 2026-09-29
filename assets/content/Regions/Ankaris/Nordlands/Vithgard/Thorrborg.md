@@ -1,6 +1,6 @@
 ---
 shortcode: thorrborg
-name: {full: Thorrborg, aliases: []}
+name: {full: Thrúnborg, aliases: []}
 type: place
 subType: settlement
 description: "Fortified Town"

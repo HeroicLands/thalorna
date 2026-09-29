@@ -1,6 +1,6 @@
 ---
 shortcode: thrymstead
-name: {full: Thrymstead, aliases: []}
+name: {full: Knalthstead, aliases: []}
 type: place
 subType: settlement
 description: "Fortified Town"

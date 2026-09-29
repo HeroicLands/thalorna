@@ -1,6 +1,6 @@
 ---
 shortcode: valgard
-name: {full: Valgard, aliases: []}
+name: {full: Tvalgard, aliases: []}
 type: place
 subType: settlement
 description: "Town"

@@ -1,6 +1,6 @@
 ---
 shortcode: jarnvik
-name: {full: Járnvík, aliases: []}
+name: {full: Knarvík, aliases: []}
 type: place
 subType: settlement
 description: "Harbor Town"

@@ -406,7 +406,7 @@ Thórir is a compact man, built closer to the squat proportions of the deep moun
 
 # Dossier {#dossier}
 
-Thórir Járnskel was born to a family of skilled metalworkers and merchants in Greyfjord, the kind of guilded-class family that occupied the space between common folk and nobility—respected, relatively comfortable, but never quite accepted into the higher tiers of Nordheimn society. His early life seemed ordinary: training in his father's smithcraft, learning the family trade, preparing for a practical merchant's life. But at sixteen, his gift manifested in a way that was catastrophic for a young man in Nordheimn culture.
+Thórir Járnskel was born to a family of skilled metalworkers and merchants in Thraldfjord, the kind of guilded-class family that occupied the space between common folk and nobility—respected, relatively comfortable, but never quite accepted into the higher tiers of Nordheimn society. His early life seemed ordinary: training in his father's smithcraft, learning the family trade, preparing for a practical merchant's life. But at sixteen, his gift manifested in a way that was catastrophic for a young man in Nordheimn culture.
 
 Thórir began to perceive spirits.
 
@@ -436,7 +436,7 @@ The metaphor he uses most often, in the rare moments he is honest about his emot
 
 Officially, Thórir is a respected merchant and sometime scholar of Nordheimn antiquities, loosely affiliated with the Panepistemium. He has published a few respectable but unremarkable papers on metalcraft traditions and historical trading routes. He maintains a public persona as a somewhat eccentric but ultimately harmless middleman—someone who brings foreign goods and foreign ideas into Nordheim, and whom the authorities tolerate because the trade is economically useful and he causes no visible disruption.
 
-This cover is solid enough to withstand casual scrutiny. He pays taxes, maintains legitimate business relationships, sits on a minor guild council. He is not rich enough to draw significant attention, not poor enough to seem suspicious. He lives in Greyfjord, a large trading city, where transience and eccentricity are expected and overlooked.
+This cover is solid enough to withstand casual scrutiny. He pays taxes, maintains legitimate business relationships, sits on a minor guild council. He is not rich enough to draw significant attention, not poor enough to seem suspicious. He lives in Thraldfjord, a large trading city, where transience and eccentricity are expected and overlooked.
 
 But beneath this, he is part of an entirely different society: a network of hidden practitioners, most of them women but a handful of men like himself, who maintain the old arts in secret. They meet rarely and with extreme caution. They pass texts and knowledge through carefully obscured channels. It is not quite an organization so much as a loose confederation bound together by a combination of mutual interest and mutual vulnerability—all of them are committing a cultural and perhaps a legal transgression, and if one falls, all may fall.
 
@@ -454,7 +454,7 @@ His relationship with the Panepistemium is entirely cynical: he uses their libra
 
 **Skaold Righteous**, a clerk within Ódinn's Order of the All-Seeing Eye, who has developed a personal crusade against "corruptions" in traditional practice. He is not yet investigating Thórir specifically, but his inquiries are widening, and he has the authority and institutional backing to cause serious damage. The tension is building.
 
-**The Unidentified Watcher**, a person or persons (Thórir is uncertain which) who has been asking questions in Greyfjord about Thórir's past, his associates, his patterns of travel. These inquiries are subtle and indirect, which somehow makes them worse—they suggest that whoever is interested in him is patient and practiced, not a casual busybody. He has no idea who they are or what they want, which is the core of his current paranoia.
+**The Unidentified Watcher**, a person or persons (Thórir is uncertain which) who has been asking questions in Thraldfjord about Thórir's past, his associates, his patterns of travel. These inquiries are subtle and indirect, which somehow makes them worse—they suggest that whoever is interested in him is patient and practiced, not a casual busybody. He has no idea who they are or what they want, which is the core of his current paranoia.
 
 **His Own Fragmented Self**, the most dangerous enemy—the part of him that is exhausted by hiding, that wants to simply _be_ without constant fear, and that increasingly questions whether this life is even worth preserving. The breakdown he feels coming is not distant; he knows it is near.
 

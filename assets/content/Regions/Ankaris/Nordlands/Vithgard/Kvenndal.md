@@ -1,6 +1,6 @@
 ---
 shortcode: kvenndal
-name: {full: Kvenndal, aliases: []}
+name: {full: Hnarvdal, aliases: []}
 type: place
 subType: settlement
 description: "Valley Settlement"

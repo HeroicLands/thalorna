@@ -29,4 +29,4 @@ Key geographic features include the great fjords that cut deep into the mountain
 
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]—The kingdom that holds this land
 - [[place-nrdlndsrgn|Nordlands Region]]—The enclosing region
-- Thrymstead—The seat
+- Knalthstead—The seat

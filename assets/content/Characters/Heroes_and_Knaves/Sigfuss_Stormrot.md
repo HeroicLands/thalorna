@@ -429,11 +429,11 @@ Sigfúss stands 6'2" tall with a medium build. He has tanned weathered skin, bro
 
 # Dossier {#dossier}
 
-Sigfúss was born in [[place-bjornstad|Bjornstad]], a minor coastal settlement of the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], to parents of modest means. His mother, **Ragnhildr**, ran a small inn catering to sailors, while his father, **Jostein Stormrót**, was himself a ship's navigator until a boarding accident left him partially crippled. Rather than burden his aging parents further, Sigfúss took to the sea at fourteen, climbing the ranks from cabin boy through sheer competence and an intuitive understanding of ships and seafaring.
+Sigfúss was born in [[place-bjornstad|Hrandstead]], a minor coastal settlement of the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], to parents of modest means. His mother, **Ragnhildr**, ran a small inn catering to sailors, while his father, **Jostein Stormrót**, was himself a ship's navigator until a boarding accident left him partially crippled. Rather than burden his aging parents further, Sigfúss took to the sea at fourteen, climbing the ranks from cabin boy through sheer competence and an intuitive understanding of ships and seafaring.
 
 For sixteen years, Sigfúss has served aboard merchant vessels, fishing fleets, and occasionally military patrol ships contracted to Vithgard's coastal defense. He has sailed the Crystalline Straits, the Shattered Archipelago, and the dangerous shoals of the Merchant's Passage, surviving tempests that sank larger, better-equipped vessels. His reputation is earned through uncountable small acts of seamanship—the ability to read weather before it manifests, to navigate by stars when maps fail, to remain calm when the deck pitches forty degrees and the masts groan with the strain of violent wind.
 
-Five years ago, after the death of his father, Sigfúss briefly returned to Bjornstad to secure his mother's future, purchasing property in her name from his accumulated wages. Satisfied that she would never want, he returned to the sea—his truest home.
+Five years ago, after the death of his father, Sigfúss briefly returned to Hrandstead to secure his mother's future, purchasing property in her name from his accumulated wages. Satisfied that she would never want, he returned to the sea—his truest home.
 
 ## Psyche
 
@@ -469,7 +469,7 @@ Sigfúss sails because it is what he is—the sea is his whole self as well as h
 
 - **Captain Thorgrim Ironhull**: A grizzled merchant captain whose aging vessel has become famous across the northern routes. He brings Sigfúss aboard whenever his schedule allows, calling him "the best navigator in Vithgard's service." Thorgrim has twice promoted Sigfúss to first mate, though Sigfúss has refused permanent rank.
 - **Merchant Princess Astrid Gylvedóttir**: A wealthy trading magnate who contracts sailors for her extensive merchant fleet. She has offered Sigfúss command of her flagship multiple times, recognizing his value and offering wages that would set him for life. His refusals perplex and intrigue her.
-- **The Fishermen's Collective of Bjornstad**: Local fishing masters who regularly hire Sigfúss for particularly dangerous catches or rescue operations. They consider him family and see that he always has work.
+- **The Fishermen's Collective of Hrandstead**: Local fishing masters who regularly hire Sigfúss for particularly dangerous catches or rescue operations. They consider him family and see that he always has work.
 - **The Lighthouse Order**: Keepers of navigational beacons along Vithgard's coast. They maintain informal communication with Sigfúss, warning of hazardous conditions and occasionally requesting specific intelligence about distant waters.
 
 ### Enemies

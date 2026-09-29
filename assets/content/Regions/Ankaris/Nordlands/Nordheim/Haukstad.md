@@ -1,6 +1,6 @@
 ---
 shortcode: haukstad
-name: {full: Haukstad, aliases: []}
+name: {full: Kraldstead, aliases: []}
 type: place
 subType: settlement
 description: "Trading Post"

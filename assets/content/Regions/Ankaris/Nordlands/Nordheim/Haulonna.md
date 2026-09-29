@@ -1,6 +1,6 @@
 ---
 shortcode: haulonna
-name: {full: Haulonna, aliases: []}
+name: {full: Thalmdal, aliases: [the Sinalë Haulonna]}
 type: place
 subType: site
 data: {demonym: null, lore: [], parents: [nordheim], population: null, packFolder: nordheim}
@@ -13,7 +13,7 @@ data: {demonym: null, lore: [], parents: [nordheim], population: null, packFolde
 
 ## Overview
 
-Haulonna was a hidden [[lore-flksinale|Sinalëan]] enclave in the deep interior of Nordheim—one of the northernmost sanctuaries of the Firstborn anywhere in western Ankaris. For centuries it lay concealed in a forested mountain valley, shielded from human knowledge by wards older than the [[affiliation-vylarinmpr|Vylarian Empire]]. The Nordmen who hunted in the surrounding highlands sometimes spoke of a valley where the trees never lost their leaves, where the snow melted before it touched the ground, and where the birdsong was strange and beautiful—but none could find their way there twice. Most dismissed the stories as tall tales. They were not. The name is Sinalë for the hearth of the unfallen leaf, and the Nordmen were describing exactly what it says.
+Thalmdal is what the Nordmen call Haulonna, a hidden [[lore-flksinale|Sinalëan]] enclave in the deep interior of Nordheim—one of the northernmost sanctuaries of the Firstborn anywhere in western Ankaris. For centuries it lay concealed in a forested mountain valley, shielded from human knowledge by wards older than the [[affiliation-vylarinmpr|Vylarian Empire]]. The Nordmen who hunted in the surrounding highlands sometimes spoke of a valley where the trees never lost their leaves, where the snow melted before it touched the ground, and where the birdsong was strange and beautiful—but none could find their way there twice. Most dismissed the stories as tall tales. They were not. Haulonna is Sinalë for the hearth of the unfallen leaf, and the Nordmen were describing exactly what it says; Thalmdal, in their own tongue, is the hush that has lain over the valley since.
 
 The enclave was small by Sinalëan standards—perhaps a few hundred souls at its height—but it was ancient, established in an age when the Sinalë were more numerous and the world less crowded. Haulonna served as a sanctuary of contemplation and natural magic, a place where the Sinalë maintained their deep bond with the living forest. The trees of Haulonna were said to be among the oldest in the north, their roots intertwined with the enclave's wards in a living architecture that blurred the boundary between craft and nature.
 

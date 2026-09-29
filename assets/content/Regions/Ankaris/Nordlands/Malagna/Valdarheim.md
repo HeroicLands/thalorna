@@ -1,6 +1,6 @@
 ---
 shortcode: valdarheim
-name: {full: Valdarheim, aliases: []}
+name: {full: Braldheim, aliases: []}
 type: place
 subType: settlement
 description: "Settlement"

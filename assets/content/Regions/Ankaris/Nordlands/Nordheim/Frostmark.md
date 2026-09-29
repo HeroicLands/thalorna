@@ -1,6 +1,6 @@
 ---
 shortcode: frostmark
-name: {full: Frostmark, aliases: []}
+name: {full: Nalthmark, aliases: []}
 type: place
 subType: settlement
 description: "Border Settlement"
