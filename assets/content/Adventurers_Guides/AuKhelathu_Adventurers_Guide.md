@@ -45,7 +45,9 @@ ORDER BY name.full COLLATE NOCASE
 
 A Khelâthi keeps two accounts and only one of them can be written.
 
-The first is the temple account: contracts, leases, debts, offices, betrothals, apprenticeships, a vow to keep a well, an agreement to foster a child. Everything a witness saw and a scribe entered, held in a temple, readable back to you for a fee. The second has no name a scribe could use and everyone understands it anyway — what a son owes his mother, what a man owes the master who taught him thirty years ago.
+The first is the temple account: contracts, leases, debts, offices, betrothals, apprenticeships, a vow to keep a well, an agreement to foster a child. Everything a witness saw and a scribe entered, held in a temple, readable back to you for a fee. The second has no name a scribe could use and everyone understands it anyway — what a son owes his mother, what a man owes the master who taught him thirty years ago. No witness was present and nothing was written, and the gods keep it regardless.
+
+So a promise made privately opens no entry. No court will hear it and there is nothing in the archive to close — and it is not thereby escaped, because the second account is the one the gods are keeping. Attest the written and petition the unwritten: asking a god to set aside a contract is impiety, and asking a god whether you have failed your father is the whole of religion.
 
 The vocabulary is a clerk's and it is used literally. An entry is **opened** when a promise is witnessed and written down, and **closed** when the outcome is witnessed and written down. One side written and the other still blank means the entry is open, and an open entry is the thing a Khelâthi fears.
 
