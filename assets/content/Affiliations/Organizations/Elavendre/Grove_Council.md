@@ -47,7 +47,7 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-The Grove Council is the oldest of Élavendre's three native magical institutions—older than the kingdom itself, older than the [[affiliation-panepistmm|Panepistemium]]'s arrival on the continent, older than the conflict with the [[affiliation-ordoarcanis|Ordo Arcanis]] that now defines so much of Élavendren political life. Where the [[affiliation-bardicolgs|The Bardic Colleges]] preserve song, memory, and the fae-touched arts of voice, and where the [[affiliation-alndnwrdns|Áelendan Wardens]] enforce the Kindred Pact with sword and patrol, the Grove Council deliberates. It is the will behind the institutions—the body that decides what the forests need, what the fae are owed, and what the kingdom must refuse the Ordo.
+The Grove Council is the oldest of Élavendre's three native magical institutions—older than the kingdom itself, older than the [[affiliation-panepistmm|Panepistemium]]'s arrival on the continent, older than the conflict with the [[affiliation-ordoarcanis|Ordo Arcanis]] that now defines so much of Élavendren political life. Where the [[affiliation-bardicolgs|Bardic Colleges]] preserve song, memory, and the fae-touched arts of voice, and where the [[affiliation-alndnwrdns|Áelendan Wardens]] enforce the Kindred Pact with sword and patrol, the Grove Council deliberates. It is the will behind the institutions—the body that decides what the forests need, what the fae are owed, and what the kingdom must refuse the Ordo.
 
 The Council meets at the great groves: ancient circles of standing oaks, holly, and ash that mark the places where the membrane between the mortal world and the fae thins. Each major grove has its own elder—a grove-elder—and the Council itself is the body of all elders gathered, traditionally on the four hinge-days of the year (the equinoxes and solstices). In practice the Council also convenes in emergency when a sacred site is threatened, an Ordo expedition is suspected, or a working of wild magic has gone so wrong that no one grove can hold the consequences alone.
 
@@ -71,7 +71,7 @@ The Council does not, however, make war. Enforcement is the province of the [[af
 
 ## Relations
 
-**The [[affiliation-bardicolgs|The Bardic Colleges]]** are the Council's closest ally and most frequent friction. The two institutions share doctrine but compete for influence. Bardic-trained singers and grove-trained druids draw from the same fae well, and the lines between their arts blur in practice. Tension flares when the Colleges accept Ordo patronage for some research project, or when the Council overrides a Bardic ruling on a wild-magic question.
+**The [[affiliation-bardicolgs|Bardic Colleges]]** are the Council's closest ally and most frequent friction. The two institutions share doctrine but compete for influence. Bardic-trained singers and grove-trained druids draw from the same fae well, and the lines between their arts blur in practice. Tension flares when the Colleges accept Ordo patronage for some research project, or when the Council overrides a Bardic ruling on a wild-magic question.
 
 **The [[affiliation-alndnwrdns|Áelendan Wardens]]** are the Council's sword. The relationship is mutually respectful and structurally subordinate: the Wardens patrol on Council writ, but tactical command in the field belongs to the Wardens' own captains. Disputes are rare and handled at the highest levels.
 

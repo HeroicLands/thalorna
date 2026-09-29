@@ -3,7 +3,7 @@
 A culture note answers _who are these people_ — not what they wear or where they
 live, which belong to the region notes, but how they orient a life.
 
-`Kheperi.md` is the worked example. It was written by answering the questions
+`Khelathi.md` is the worked example. It was written by answering the questions
 below in order, and every answer was checked against what the corpus already
 said.
 
@@ -84,7 +84,7 @@ past reads as propaganda.
 thoughtful members argue about. Naming it is what makes the rest credible.
 
 **Keep the afterlife load-bearing.** The test for question 11 is whether a
-reader can predict a Tuesday from it. In `Kheperi.md` the belief that the dead
+reader can predict a Tuesday from it. In `Khelathi.md` the belief that the dead
 must work and eat is why tombs hold tools, why offerings are payments rather
 than remembrance, why grave robbery is hunted across generations, and why a
 dying man decides aloud what debts he calls in and what he takes with him. That

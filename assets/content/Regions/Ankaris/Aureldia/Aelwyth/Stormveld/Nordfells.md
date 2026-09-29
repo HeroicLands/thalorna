@@ -36,7 +36,7 @@ weather rather than as rebels.
 
 ## The Other Occupants
 
-The fells hold **[[lore-grukaraelwyth|Grukar]]**, as the empty country of this island has for some seven
+The fells hold [[lore-grukaraelwyth|Grukar]], as the empty country of this island has for some seven
 hundred years—long before there was a Jarldom to be troubled by them.
 
 They are in the high folds and the old workings, and Stormveld loses upland steadings to them most

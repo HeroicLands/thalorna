@@ -232,7 +232,7 @@ and they did it once.
 
 What they made there was not a people improved but a civilization invented: agriculture, medicine,
 governance, a vocabulary for all of it, and
-**[[affiliation-tharivaan|Thári'vaan]]**—a disciplined account of the world as a single living whole,
+[[affiliation-tharivaan|Thári'vaan]]—a disciplined account of the world as a single living whole,
 to be observed and tended rather than mastered or appeased. It arrived complete. Nothing on Kalihara
 shows the long clumsy ascent that every other human tradition shows, because there was not one.
 

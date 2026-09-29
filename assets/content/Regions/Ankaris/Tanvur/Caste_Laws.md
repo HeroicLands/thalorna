@@ -18,14 +18,14 @@ See also: [[lore-zeisik|Law and Honor]] for the legal system and punishment fram
 
 The society of Tānvür is divided into eight castes, ranked from highest to lowest:
 
-1. **[[lore-zheklung|Zhëklüng]]** (Zhëklüng)—Sons of the Dragon. The Emperor, his family, and the Warlords. Administrative lineage designated by the celestial bureaucracy; absolute authority.
-2. **[[lore-venduk|Vëndük]]** (Vëndük)—Chattel Sorcerers. Born with innate magical ability, bound to serve the Zhëklüng. The only caste permitted to practice magic.
-3. **[[lore-vushok|Vüshōk]]** (Vüshōk)—Warrior Nobility. Military commanders and administrators who hold the exclusive right to bear arms and lead troops.
-4. **[[lore-tanthei|Tānthëi]]** (Tānthëi)—Celestial Scholars. Interpreters of omens, keepers of sacred texts, and advisors on celestial law.
-5. **[[lore-zathuk|Zāthük]]** (Zāthük)—Artisans, Craftsmen, and Common Warriors. The productive backbone of the economy, including the Vüsrën (common soldiers) and the Yātvōr (healers).
-6. **[[lore-nokvur|Nōkvür]]** (Nōkvür)—Peasant Farmers. Those who work the land and provide the empire's food. Home to the Lëigürt (Spirit Masters).
-7. **[[lore-shukren|Shükrën]]** (Shükrën)—Merchants and Usurers. Those who trade and finance but do not create goods themselves.
-8. **[[lore-nutzok|Nützōk]]** (Nützōk)—Slaves and Outcasts. The lowest caste, with almost no rights and no path to advancement.
+1. [[lore-zheklung|Zhëklüng]] (Zhëklüng)—Sons of the Dragon. The Emperor, his family, and the Warlords. Administrative lineage designated by the celestial bureaucracy; absolute authority.
+2. [[lore-venduk|Vëndük]] (Vëndük)—Chattel Sorcerers. Born with innate magical ability, bound to serve the Zhëklüng. The only caste permitted to practice magic.
+3. [[lore-vushok|Vüshōk]] (Vüshōk)—Warrior Nobility. Military commanders and administrators who hold the exclusive right to bear arms and lead troops.
+4. [[lore-tanthei|Tānthëi]] (Tānthëi)—Celestial Scholars. Interpreters of omens, keepers of sacred texts, and advisors on celestial law.
+5. [[lore-zathuk|Zāthük]] (Zāthük)—Artisans, Craftsmen, and Common Warriors. The productive backbone of the economy, including the Vüsrën (common soldiers) and the Yātvōr (healers).
+6. [[lore-nokvur|Nōkvür]] (Nōkvür)—Peasant Farmers. Those who work the land and provide the empire's food. Home to the Lëigürt (Spirit Masters).
+7. [[lore-shukren|Shükrën]] (Shükrën)—Merchants and Usurers. Those who trade and finance but do not create goods themselves.
+8. [[lore-nutzok|Nützōk]] (Nützōk)—Slaves and Outcasts. The lowest caste, with almost no rights and no path to advancement.
 
 ---
 

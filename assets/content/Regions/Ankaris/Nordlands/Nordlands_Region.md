@@ -55,7 +55,7 @@ A people whose land cannot feed them must take food, or take land, or take both,
 does. That is not a moral failing or a taste for violence; it is what two million people on rock and ice
 have to do, and they have been doing it along every coast within reach for as long as anyone has records.
 
-It is also the whole explanation of **[[affiliation-jrldmstrmvld|Stormveld]]**. Sixty years ago Nordmen
+It is also the whole explanation of [[affiliation-jrldmstrmvld|Stormveld]]. Sixty years ago Nordmen
 crossed to [[place-aelwyth|Aelwyth]] and took the north-east of it—and what they took, specifically, was
 the **plain**: the one large body of good arable on that island, now worked by a hundred and twenty
 thousand thralls. From the Nordlands that is not an adventure. It is the most rational thing anyone up

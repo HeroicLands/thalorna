@@ -71,7 +71,7 @@ ever made.
 
 It was ended by refugees, and then by a battle. The [[lore-pelwarmigr|Pelwar]] reached the island with
 nowhere else to go, and an island has a fixed amount of good land; two centuries of arrival and
-pressure and reprisal became the Great War. At the **[[place-threesisters|Three Sisters]]** in what is
+pressure and reprisal became the Great War. At the [[place-threesisters|Three Sisters]] in what is
 now the Central Highlands the king was killed.
 
 What was lost there is more than a king and more than a war. It ended in the way most calculated to

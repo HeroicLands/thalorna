@@ -110,7 +110,7 @@ The curriculum is famously rigorous. A graduate of the Twilight House can recite
 
 ## Notable Affiliates
 
-- **[[being-chndrkrtsndrjyvl|Chandrakîrtisundarî Jayavallî]]**—a current Companion of growing prominence, recruited into the [[affiliation-adanasreni|Ādānashrenī]] through Twilight House connections. She is presently walking the increasingly precarious line between three masters: her clients, the House, and the Guild.
+- [[being-chndrkrtsndrjyvl|Chandrakîrtisundarî Jayavallî]]—a current Companion of growing prominence, recruited into the [[affiliation-adanasreni|Ādānashrenī]] through Twilight House connections. She is presently walking the increasingly precarious line between three masters: her clients, the House, and the Guild.
 - **The Mistress of the Long Evening**—present holder unnamed in public records; widely believed to be a former courtesan once celebrated as the most accomplished of her generation, withdrawn from clients twenty years ago.
 
 ## Intelligence Operations

@@ -18,7 +18,7 @@ toward [[place-cilfor|Cilfor]], where the cliffs give way to long shingle and sh
 
 ## The Sinalë Coast
 
-Glanmor is the reason Élavendre is what it is. The **[[lore-flksinale|Sinalë]]** keep their enclaves in
+Glanmor is the reason Élavendre is what it is. The [[lore-flksinale|Sinalë]] keep their enclaves in
 the deep forests here, and have since thousands of years before any human settlement—a fact the
 kingdom lives with rather than administers. Outside [[place-ardwyn|Ardwyn]] this is where the
 [[lore-aralwen|arálwain]] lie thickest: thin places, shifting paths, lights among the trees, and the
@@ -41,8 +41,8 @@ alone.
 
 ## Its Places
 
-- **[[place-portaelion|Port Aelion]]**—the chief harbor of the coast, where the cliffs yield.
-- **[[place-liranel|Liranel]]**—a forest town of the inner coast, at the edge of Sinalë country.
+- [[place-portaelion|Port Aelion]]—the chief harbor of the coast, where the cliffs yield.
+- [[place-liranel|Liranel]]—a forest town of the inner coast, at the edge of Sinalë country.
 
 ## See Also
 

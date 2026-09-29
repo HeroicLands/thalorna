@@ -48,11 +48,11 @@ ORDER BY name.full COLLATE NOCASE
 
 The northern territories are dominated by five tribal nations about which K'ich'chik scholars know relatively little. These peoples have their own languages, their own names for themselves and their lands, and their own traditions—none of which they share willingly with outsiders. What follows are K'ich'chik designations: the place-names are in the K'ich'chik tongue, and the nation-names are exonyms assigned by K'ich'chik merchants and border scouts based on the totemic animals observed in these peoples' war-standards and camp-markings. What these nations call themselves remains largely unknown. They are generally hostile to outsiders, tolerating K'ich'chik traders only at arm's length and only when trade serves their immediate interests. Despite constant rivalry among themselves, they unite with devastating effectiveness against any outside incursion, and the vast distances of the north make conventional military campaigns nearly impossible.
 
-- **[[affiliation-balamkiahk|Ba'alam Ki'ahk]]**—The Xak'nal Tz'aqalil ("Eagle People" in K'ich'chik), mountain and coastal dwellers of the far west
-- **[[affiliation-kiximtzul|K'ixim Tzul]]**—The No'kin Tz'aqalil ("Bear People"), hardy folk of the northern prairies
-- **[[affiliation-haxaman|Ha' Xaman]]**—The Tz'okum Tz'aqalil ("Coyote People"), nomadic hunters of the great central grasslands
-- **[[affiliation-xikulchakl|Xik'ul Ch'akal]]**—The Ha'ik Tz'aqalil ("Otter People"), canoe-folk of the eastern lakes and forests
-- **[[affiliation-tzumanotun|Tz'uma No'tun]]**—The Ch'aqun Tz'aqalil ("Serpent People"), chieftain-led peoples of the ancient eastern mountains and southern swamps
+- [[affiliation-balamkiahk|Ba'alam Ki'ahk]]—The Xak'nal Tz'aqalil ("Eagle People" in K'ich'chik), mountain and coastal dwellers of the far west
+- [[affiliation-kiximtzul|K'ixim Tzul]]—The No'kin Tz'aqalil ("Bear People"), hardy folk of the northern prairies
+- [[affiliation-haxaman|Ha' Xaman]]—The Tz'okum Tz'aqalil ("Coyote People"), nomadic hunters of the great central grasslands
+- [[affiliation-xikulchakl|Xik'ul Ch'akal]]—The Ha'ik Tz'aqalil ("Otter People"), canoe-folk of the eastern lakes and forests
+- [[affiliation-tzumanotun|Tz'uma No'tun]]—The Ch'aqun Tz'aqalil ("Serpent People"), chieftain-led peoples of the ancient eastern mountains and southern swamps
 
 The sixth northern region, [[place-hanalxilanrgn|Ha'nal Xi'lan]], is contested borderlands where the Coyote, Otter, and Serpent peoples clash over the rich river valleys. [[place-chakultzklrgn|Ch'akul Tza'kul]], the great southern desert, is claimed by no nation and serves as the barrier between the tribal north and K'ich'chik civilization.
 

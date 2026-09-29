@@ -90,15 +90,15 @@ Where the coastal syndicates fight over harbors and docks, the Ash Road commands
 
 ## Territory
 
-**Primary:** Varoshan (the crossroads where Harad's coast meets the overland routes), the Dunhari caravan routes, the Khazryn Desert approaches, Ta.Kheperu's desert border
+**Primary:** Varoshan (the crossroads where Harad's coast meets the overland routes), the Dunhari caravan routes, the Khazryn Desert approaches, Khelathu's desert border
 
-**Secondary:** Trading posts and caravanserais along the major overland routes. The Road maintains agents in Haradian ports (especially Varoshan and Kethara) where overland goods meet maritime shipping, and in Ta.Kheperu's delta cities where stolen antiquities find wealthy buyers.
+**Secondary:** Trading posts and caravanserais along the major overland routes. The Road maintains agents in Haradian ports (especially Varoshan and Kethara) where overland goods meet maritime shipping, and in Khelathu's delta cities where stolen antiquities find wealthy buyers.
 
 ## Operations
 
 **Drug trafficking:** The Road's most lucrative trade. Opiates, hallucinogenic substances, and stimulants harvested or processed in Dunhara's interior are moved along caravan routes to coastal cities, where they enter the Vylarian Sea trade. A caravan master might transport legitimate spices and textiles in the main wagons while hidden compartments carry something far more valuable. The Road controls the supply chain from harvest to delivery, and its desert operatives violently suppress any competitors who try to establish alternative routes.
 
-**Antiquities smuggling:** Ta.Kheperu's monumental ruins, ancient tombs, and temple complexes contain artifacts of immense value—sacred objects, funerary goods, magical relics, and works of art that collectors across the Vylarian Sea basin will pay fortunes to possess. The pharaonic bureaucracy guards its heritage fiercely, but the desert border is long and the tombs are many. The Road employs tomb raiders (locally called "sand jackals"), bribes border guards, and moves stolen antiquities through Varoshan to buyers in Heliónis, Provènzia, and Vylaria. Ta.Kheperu's government considers the Ash Road an existential cultural threat and has standing bounties on its known operatives.
+**Antiquities smuggling:** Khelathu's monumental ruins, ancient tombs, and temple complexes contain artifacts of immense value—sacred objects, funerary goods, magical relics, and works of art that collectors across the Vylarian Sea basin will pay fortunes to possess. The Gar-Aû's bureaucracy guards its heritage fiercely, but the desert border is long and the tombs are many. The Road employs tomb raiders (locally called "sand jackals"), bribes border guards, and moves stolen antiquities through Varoshan to buyers in Heliónis, Provènzia, and Vylaria. Khelathu's government considers the Ash Road an existential cultural threat and has standing bounties on its known operatives.
 
 **Illegal magical reagents:** The Ordo Arcanis strictly regulates certain alchemical substances, rare minerals, and biological materials used in arcane practice. The Ash Road circumvents these regulations, supplying independent practitioners, rogue Ordo members, and foreign magic traditions with materials they cannot obtain through legitimate channels. Desert flora and fauna provide several unique reagents unavailable elsewhere, giving the Road a natural monopoly.
 
@@ -122,7 +122,7 @@ The Ledger launders the Road's money, but the Road resents the dependency and ma
 
 The Gray Tide is the Road's primary partner for human trafficking and maritime smuggling. The partnership works because their territories are geographically complementary—the Tide controls the sea, the Road controls the desert. The Varoshan turf war was the exception, not the rule, though neither side has forgotten it. Both maintain agents in Varoshan who watch the other's operations with unconcealed suspicion.
 
-The Velvet Hand occasionally contracts the Road for operations requiring desert expertise—extracting a target from Ta.Kheperu, smuggling a fugitive across the Khazryn, or delivering "sensitive materials" that can't pass through any port. The Road charges premium rates for these services and fulfills them with professional precision. It does not consider the Velvet Hand a rival—spies have no use for sand—but it does not trust it either. No one trusts the Velvet Hand.
+The Velvet Hand occasionally contracts the Road for operations requiring desert expertise—extracting a target from Khelathu, smuggling a fugitive across the Khazryn, or delivering "sensitive materials" that can't pass through any port. The Road charges premium rates for these services and fulfills them with professional precision. It does not consider the Velvet Hand a rival—spies have no use for sand—but it does not trust it either. No one trusts the Velvet Hand.
 
 ## Identifying Marks
 

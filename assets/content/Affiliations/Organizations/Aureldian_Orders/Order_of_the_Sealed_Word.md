@@ -130,9 +130,9 @@ The order's procedures are formal and ritualized. A petition is presented at a c
 
 - **The Aurèldían Pantheon's Priesthood**—religious foundation; the order is doctrinally subordinate to Jánus's senior priesthood but operationally independent.
 - **The five Aurèldían Crowns**—the order operates in each kingdom under royal license, periodically renewed. The renewal has, in recent generations, become a political question; the order's rulings against powerful noble interests have made some crowns reluctant to confirm the order's standing.
-- **The [[affiliation-crtgrphrsgldbyzrnlg|The Cartographers' Guild of the Byzarian League]]** and other professional guilds—clients in oath-disputes that the guild internal processes have been unable to resolve.
+- **The [[affiliation-crtgrphrsgldbyzrnlg|Cartographers' Guild of the Byzarian League]]** and other professional guilds—clients in oath-disputes that the guild internal processes have been unable to resolve.
 - **The [[affiliation-twinbldrdr|Twinblade Order]]**—sister order, also sworn to Jánus; the two orders coordinate on matters requiring both the Sealed Word's juridical authority and the Twinblade's threshold-guarding presence.
-- **The [[affiliation-ordershnvw|The Order of the Ashen Vow]] and [[affiliation-ironcinder|Iron Cinder]]**—Black Flame orders; the relationship is mutually hostile but procedurally correct. The Black Flame's heresy is a matter for the religious courts of the Sacred Forge, not the order; the order does not pursue Black Flame members unless a specific oath-breach is at issue.
+- **The [[affiliation-ordershnvw|Order of the Ashen Vow]] and [[affiliation-ironcinder|Iron Cinder]]**—Black Flame orders; the relationship is mutually hostile but procedurally correct. The Black Flame's heresy is a matter for the religious courts of the Sacred Forge, not the order; the order does not pursue Black Flame members unless a specific oath-breach is at issue.
 
 ## Identifying Marks
 

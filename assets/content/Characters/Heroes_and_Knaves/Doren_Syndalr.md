@@ -453,10 +453,10 @@ Dôren seeks stability after losing his family and home. He has little desire fo
 
 ## Companions
 
-- **[[being-branwldrgr|Brànwâal Dôrgaar]]**: Captain of the Silent Talon. Kôris respects Brànwâal's competence and follows his orders without question.
-- **[[being-elyseskyrn|Elýsè Skýrn]]**: Fellow band member. Kôris is protective of her.
-- **[[being-torniskbry|Tórnis Kúbrý]]**: Fellow band member. Kôris finds Tórnis's evasiveness mildly irritating but trusts him in the field.
-- **[[being-chlbrhydyn|Chéleb Rhýddýn]]**: Fellow band member. A quiet mutual respect between two men who prefer actions to words.
+- [[being-branwldrgr|Brànwâal Dôrgaar]]: Captain of the Silent Talon. Kôris respects Brànwâal's competence and follows his orders without question.
+- [[being-elyseskyrn|Elýsè Skýrn]]: Fellow band member. Kôris is protective of her.
+- [[being-torniskbry|Tórnis Kúbrý]]: Fellow band member. Kôris finds Tórnis's evasiveness mildly irritating but trusts him in the field.
+- [[being-chlbrhydyn|Chéleb Rhýddýn]]: Fellow band member. A quiet mutual respect between two men who prefer actions to words.
 
 ### Patrons
 

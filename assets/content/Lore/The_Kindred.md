@@ -17,7 +17,7 @@ data: {packFolder: settinglore}
 - **Parent pantheon:** [[affiliation-firstgods|The First Gods]]
 - **Religion:** [[affiliation-theoldway|The Old Way]]
 
-The **Kindred** are the servant spirits of the two primordial Powers of the [[affiliation-firstgods|The First Gods]]. They are the animal spirits, the place spirits, the water spirits, the stone spirits, the hearth spirits—the innumerable minor and intermediate beings who dwell in specific territories and whose presence constitutes the actual texture of Áelendan religious life.
+The **Kindred** are the servant spirits of the two primordial Powers of the [[affiliation-firstgods|First Gods]]. They are the animal spirits, the place spirits, the water spirits, the stone spirits, the hearth spirits—the innumerable minor and intermediate beings who dwell in specific territories and whose presence constitutes the actual texture of Áelendan religious life.
 
 Where the [[affiliation-firstgods#the-bright|Bright]] and the [[affiliation-firstgods#the-dark|Dark]] are great cosmic Powers too vast to receive direct petition, the Kindred are particular. Each has a name (or a title, or an epithet); each has a territory; each has a character; each has specific requirements. A tribe of the [[lore-aelendnppl|Áelendan]] does not maintain an abstract relationship with "nature spirits" as a category. It maintains named, specific, ongoing relationships with the individual Kindred whose territories overlap with the tribe's.
 
@@ -84,7 +84,7 @@ Pacts are inherited across generations, and the maintenance of them is one of th
 
 ## Relationship with the Fae
 
-The Áelendan distinguish carefully between the Kindred and the **fae** of the [[lore-faecourts|The Fae Courts]] and the [[place-silvrfrsts|The Silver Forests]]. The Kindred are of the mortal world; they are anchored in specific places; they can be known, named, and bargained with through the established protocols. The fae are something else—beings of the thin places, whose dealings with mortals follow rules the Áelendan understand only in part, and whose Courts lie beyond the ordinary reach of shamanic practice.
+The Áelendan distinguish carefully between the Kindred and the **fae** of the [[lore-faecourts|Fae Courts]] and the [[place-silvrfrsts|Silver Forests]]. The Kindred are of the mortal world; they are anchored in specific places; they can be known, named, and bargained with through the established protocols. The fae are something else—beings of the thin places, whose dealings with mortals follow rules the Áelendan understand only in part, and whose Courts lie beyond the ordinary reach of shamanic practice.
 
 That said, the boundary is not absolute. Certain very old Kindred—the stone-warders of the deepest cairns, the river-mothers of the old springs, the grove-keepers of the Silver Forests—are understood by shamen to be fae-adjacent, or to have crossed the boundary long ago, or to have been fae-kin since before the Áelendan came to the land. These Kindred are approached with particular caution, and the protocols for dealing with them overlap with the protocols of the Kindred Pact.
 

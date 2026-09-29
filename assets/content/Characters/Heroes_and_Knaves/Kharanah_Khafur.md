@@ -483,7 +483,7 @@ Khârânah is driven by a dual vision: to elevate the art of perfumery to its hi
 ### Enemies
 
 - **Mâkûth the Synthetic**: A rival perfumer who has embraced cheap synthetic alternatives and undercuts Khârânah's prices. He views her as a sanctimonious obstacle to progress and spreads rumors about her business practices.
-- **The Desert Consortium**: A loose association of merchants who exploit rare plant species for quick profit. They see Khârânah's conservation efforts as a direct threat to their profits and have attempted to undercut her suppliers.
+- [[affiliation-linleghargzr|Lin'Legharu elu Gezru]]: A loose association of merchants who exploit rare plant species for quick profit. They see Khârânah's conservation efforts as a direct threat to their profits and have attempted to undercut her suppliers.
 - **Rival Guild Masters**: A few jealous artisans within the Artisans' Guild view her rise as a stain on their own reputations and work subtly to exclude her from prestigious commissions.
 
 ### Affiliations

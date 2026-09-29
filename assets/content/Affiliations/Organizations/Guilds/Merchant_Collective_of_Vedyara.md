@@ -55,7 +55,7 @@ _Vedyaran: Vyāpārī Sangha—"the Merchants' Assembly"_
 - **Type:** Mercantile federation
 - **Region:** All five seats of the Assembly of the Compact—[[affiliation-chandrapur|Chandrapur]], [[affiliation-vyalendra2|Vyālendra]], [[affiliation-vindhyalay|Vindhyālaya]], [[affiliation-rajaprjnpd|Rājapur]] and [[affiliation-dhnrktjnpd|Dhanurkota]]—with caravan stations as far west as Amradad and as far north as the Khazryn frontier
 - **Founded:** Traditionally dated to the Third Compact, four centuries ago
-- **Magnum Collegium status:** Not a member; independent. The [[affiliation-magnumclgm|The Magnum Collegium]] has, for two generations, attempted to negotiate trade-recognition agreements with the Collective; the Collective has declined every overture. The Haradian [[affiliation-sodnaqirin|Sôd-Naqîrîn]] has likewise been refused.
+- **Magnum Collegium status:** Not a member; independent. The [[affiliation-magnumclgm|Magnum Collegium]] has, for two generations, attempted to negotiate trade-recognition agreements with the Collective; the Collective has declined every overture. The Haradian [[affiliation-sodnaqirin|Sôd-Naqîrîn]] has likewise been refused.
 
 ## Overview
 
@@ -88,12 +88,12 @@ At the apex sits the **High Speaker of the Collective**, elected by the kulinas 
 
 - **The labor question.** Reform-minded younger kulinas have proposed substantial improvements to mining labor conditions; the older houses, whose fortunes were built on the present system, resist. The reform faction has not yet found a champion willing to risk his standing.
 - **The expansion question.** The Foreign Trade Committee is divided between those who wish to push aggressively into Amradad's caravan markets and those who fear retaliation from the [[affiliation-sultntmrdd|Sultanate]] and prefer the present arrangement of careful cooperation.
-- **The compromised members.** Several houses are known or suspected to be in arrangements with the [[affiliation-twilighths|The Twilight House]] or the [[affiliation-adanasreni|Ādānashrenī]] beyond what the Collective's standing rules permit. Investigations have begun and stalled multiple times.
+- **The compromised members.** Several houses are known or suspected to be in arrangements with the [[affiliation-twilighths|Twilight House]] or the [[affiliation-adanasreni|Ādānashrenī]] beyond what the Collective's standing rules permit. Investigations have begun and stalled multiple times.
 
 ## Relations
 
 - **The five seats of the Compact**—two courts and three councils, and every one of them a client, a debtor and an occasional opponent. The relationship is one of mutual dependence and mutual resentment.
-- **The [[affiliation-twilighths|The Twilight House]]**—major client of intelligence services; the Collective uses Twilight House product to inform pricing and contract negotiations. The arrangement is acknowledged at the top and denied below.
+- **The [[affiliation-twilighths|Twilight House]]**—major client of intelligence services; the Collective uses Twilight House product to inform pricing and contract negotiations. The arrangement is acknowledged at the top and denied below.
 - **The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]]**—particularly the [[affiliation-theashroad|Ash Road]], whose desert caravan routes complement and compete with Collective operations. The Collective and the Ash Road maintain an awkward truce based on each understanding what the other could do to it.
 - **The [[affiliation-ordoarcanis|Ordo Arcanis]]**—limited engagement. The Ordo has tried to establish a presence in Vedyaran markets and has been quietly frustrated by Collective non-cooperation; the Ordo retaliates by occasionally licensing competing operators outside the Compact.
 
@@ -104,6 +104,6 @@ Kulina-rank members wear a gold pin at the collar in the shape of a balance-scal
 ## Plot Hooks
 
 - **The Mine Collapse.** A lower working in the Silver Gorges has collapsed; hundreds are trapped or dead. The Collective's Standards Committee finds that the terms of the lease were violated. The kulina responsible is too senior to expel without fracturing the Collective; the survivors and the families of the dead are organizing for redress that neither the clans' gate nor the crown's customs-house has shown any interest in providing.
-- **The Counterfeit Letters.** Collective letters of credit have been forged at scale, redeemed at multiple member houses, and traced back through a chain that disappears into the [[affiliation-twilighths|The Twilight House]]. The Collective must investigate without making the scandal public—and without confronting the Twilight House directly.
+- **The Counterfeit Letters.** Collective letters of credit have been forged at scale, redeemed at multiple member houses, and traced back through a chain that disappears into the [[affiliation-twilighths|Twilight House]]. The Collective must investigate without making the scandal public—and without confronting the Twilight House directly.
 - **The Reform Petition.** A younger kulina, supported by a coalition of pratisthas and a sympathetic sabhā, formally proposes a labor reform at the Assembly of the Compact. The proposal would cost the older houses substantial profits. The Speaker's procedural rulings will determine whether the petition reaches a vote at all.
 - **The Crown's Default.** Vindhyālaya has defaulted on its Collective loans and is offering, in lieu of repayment, a permanent grant of the Silver Gorges—rock the crown has never established is the crown's, and which the smithing clans already lease to the Collective over its objection. Accepting turns a quiet arrangement into a claim the clans must answer, and every other seat of the Compact reads it as the precedent it is.

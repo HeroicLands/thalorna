@@ -1,0 +1,21 @@
+---
+shortcode: transfrmtnvs
+name: {full: Transformation of the Vessel, aliases: []}
+type: mysticalability
+subType: arcaneincantation
+description: "Transmutes a made thing into another material, keeping its form exactly."
+tags: [gethunu-lekhau, incantation]
+data: {icon: garqeltnu, templatePriority: null, packFolder: regkhmys}
+sohl:
+  system:
+    assocSkillCode: lekhauqeltnu
+    masteryLevelBase: 0
+    levelBase: 5
+    charges: {value: null, max: null}
+---
+
+The form is the constraint and the point: the thing must already be perfect, because the working
+preserves shape absolutely and changes only what the shape is made of. A flawed original yields a
+flawed result in the new material, permanently. The House uses it for ceremonial regalia, for
+replacing stone that has begun to fail in a monument that may not be altered, and—under license,
+and grudgingly—for the gilding of tombs.

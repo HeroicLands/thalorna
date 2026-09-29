@@ -97,7 +97,7 @@ sohl: {system: {commonSkills: []}}
 
 **Pronunciation**: _Eet-ZAH-nee_
 
-The Itzáni faith is the unified religious tradition of the [[place-kchchkcntnnt|K'ich'chik]] continent—the vast landmass across the western ocean, home to the Ki'ichek civilization of pyramidal city-states, priestly kings, and celestial worship. The faith encompasses ten deities, each governing fundamental aspects of existence—the same broad domains found in the [[affiliation-arldnpnthn|Aurèldían Pantheon]] of western [[place-ankrscntnnt|Ankaris Continent]], the [[affiliation-kemtnpnthn|Kemetían Pantheon]] of Ta'Kheperu, and the [[affiliation-ashanpnthn|Āsháian Pantheon]] of the desert peoples, though the Ki'ichek would regard the Ankarian gods as pale reflections of the true celestial powers whose movements have been tracked and worshipped on K'ich'chik since before the first stone was quarried.
+The Itzáni faith is the unified religious tradition of the [[place-kchchkcntnnt|K'ich'chik]] continent—the vast landmass across the western ocean, home to the Ki'ichek civilization of pyramidal city-states, priestly kings, and celestial worship. The faith encompasses ten deities, each governing fundamental aspects of existence—the same broad domains found in the [[affiliation-arldnpnthn|Aurèldían Pantheon]] of western [[place-ankrscntnnt|Ankaris Continent]], the [[affiliation-khelathpnthn|Khelâthi Pantheon]] of Aû'Khelâthu, and the [[affiliation-ashanpnthn|Āsháian Pantheon]] of the desert peoples, though the Ki'ichek would regard the Ankarian gods as pale reflections of the true celestial powers whose movements have been tracked and worshipped on K'ich'chik since before the first stone was quarried.
 
 Unlike the Aurèldían tradition, where separate and often competing priesthoods serve individual gods, the Itzáni faith is a single religious institution. There is one priesthood, one hierarchy, one cosmic framework. The ten gods are aspects of one divine order, and the faithful do not "choose" a god to follow. A Ki'ichek farmer is Itzáni. He calls upon P'uqil Ch'aqun when the rains are late, Tz'uqil Ix'bal when his mother dies, K'in'ul Tq'an at the solstice, and Xaq'ik Ha'nal when his wife labors in childbirth. The gods are not rivals—they are the moving parts of a single cosmic machine, each essential, each interlocking with the others, and the priesthood that serves them understands the whole system, not merely its components.
 
@@ -167,15 +167,15 @@ Each of the Ten has its own specialist branch within the single Itzáni priestho
 The tradition's gravest heresy came out of its own household, and its orthodox contemplative
 wing sits uncomfortably close to the same argument. Each is documented in its own note.
 
-- **[[affiliation-pikultzumaq|Pik'ul Tz'umaq]]**, the Owl of the Serpent—a fallen celestial
+- [[affiliation-pikultzumaq|Pik'ul Tz'umaq]], the Owl of the Serpent—a fallen celestial
   agent of [[affiliation-tzuqilixbal|Tz'uqil Ix'bal]], once the guardian of Xibalba's threshold,
   who concluded that the underworld is a trap rather than a passage and began opening the
   boundary it was set to keep shut.
-- **[[affiliation-tzumaqkalanil|Tz'umaq K'alanil]]**, the Serpent Awakeners—hunted jungle
+- [[affiliation-tzumaqkalanil|Tz'umaq K'alanil]], the Serpent Awakeners—hunted jungle
   sects who teach that the Fifth Age is beyond saving and that hastening
   [[affiliation-puqilchaqun|P'uqil Ch'aqun]]'s awakening would be a mercy, and who can
   demonstrably pull the recently dead back out of the labyrinth.
-- **[[affiliation-pikob|Pik'ob]]**, the Owl Keepers—orthodox, not heterodox: the contemplative
+- [[affiliation-pikob|Pik'ob]], the Owl Keepers—orthodox, not heterodox: the contemplative
   order that tends the sacred groves and teaches acceptance of dissolution. Its theology shares
   a root with the Awakener heresy, and the boundary between accepting that all things end and
   hastening the ending is thinner than the priesthood would like.
@@ -193,5 +193,5 @@ The K'ich'chik term for Dreadspawn is **Kul'ik P'iqal**—"Living Works of the B
 - [[place-kchchkcntnnt|K'ich'chik]]—The continent
 - [[skill-kicheklng|Ki'ichek Language]]—the tongue and its naming conventions
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—Western Ankarian equivalent
-- [[affiliation-kemtnpnthn|Kemetían Pantheon]]—Ta'Kheperu equivalent
+- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—Aû'Khelâthu equivalent
 - [[affiliation-ashanpnthn|Āsháian Pantheon]]—Desert peoples equivalent

@@ -23,10 +23,10 @@ which half of the god was real.
 
 The schism produced two bitterly opposed faiths, each holding the other heretical:
 
-- **[[affiliation-sacredforge|The Sacred Forge]]**—the creative aspect: craftsmanship,
+- [[affiliation-sacredforge|The Sacred Forge]]—the creative aspect: craftsmanship,
   transformation, illumination and protection. The mainstream faith across most of western Ankaris,
   and the one that kept the temples, the endowments and the name.
-- **[[affiliation-blackflame|The Black Flame]]**—the destructive aspect: fire as purifier, as weapon
+- [[affiliation-blackflame|The Black Flame]]—the destructive aspect: fire as purifier, as weapon
   and as instrument of domination. Suppressed in most kingdoms, and surviving through secretive orders
   and hidden shrines.
 

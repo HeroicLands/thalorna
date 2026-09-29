@@ -458,9 +458,9 @@ This singular event shook Gróa to her core and set her on a journey beyond the 
 
 ### Companions
 
-- **[[being-rnhrngsdtr|Rúna Hringsdóttir]]**
-- **[[being-eldridfrhr|Eldrid Firehair]]**
-- **[[being-dagmrwndrr|Dagmar the Wanderer]]**
+- [[being-rnhrngsdtr|Rúna Hringsdóttir]]
+- [[being-eldridfrhr|Eldrid Firehair]]
+- [[being-dagmrwndrr|Dagmar the Wanderer]]
 
 ### Skills and Abilities
 

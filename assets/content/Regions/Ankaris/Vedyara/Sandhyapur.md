@@ -23,9 +23,9 @@ The Mahārāja's court is here because the road ends here and the water is relia
 
 There is no harbor. Ships lie in an open roadstead behind the spit with their cables ready and a man watching the weather, and cargo comes ashore in lighters over a beach. In the worst month of the year a master will not lie here at all and stands off to the south instead.
 
-The shipping is coastwise. Hulls work between the roadsteads of this shore and round the southern turn into the [[place-meghsamdra|Megha-samudra]], and the passage to the Kheperi delta is made that way when the season allows it. No house here keeps a factor on any farther shore, and no master is paid to cross open water.
+The shipping is coastwise. Hulls work between the roadsteads of this shore and round the southern turn into the [[place-meghsamdra|Megha-samudra]], and the passage to the Khelâthi delta is made that way when the season allows it. No house here keeps a factor on any farther shore, and no master is paid to cross open water.
 
-Due west across the open water is the eastern coast of [[place-xerathia|Xerathia]]. Every master on this beach knows it is there and none of them goes to it. The crossing is a month of blue water with nothing to put into, and the cargoes that would pay for it already come round by the delta in Kheperi hulls.
+Due west across the open water is the eastern coast of [[place-xerathia|Xerathia]]. Every master on this beach knows it is there and none of them goes to it. The crossing is a month of blue water with nothing to put into, and the cargoes that would pay for it already come round by the delta in Khelâthi hulls.
 
 ## Salt and the Road
 

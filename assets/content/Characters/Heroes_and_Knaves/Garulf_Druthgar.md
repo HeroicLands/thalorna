@@ -463,7 +463,7 @@ Garulf is wanted in two Vrystwald provinces for robbery and assault. He has made
 
 ### Affiliations
 
-Crewman of the **Tamzîr**. No other formal affiliations. He maintains a grudging, adversarial friendship with most of the crew, particularly irritating **[[being-kasuradmzr|Kasûra Damzarû]]** with crude commentary and being quietly disarmed by her persistent cheerfulness.
+Crewman of the **Tamzîr**. No other formal affiliations. He maintains a grudging, adversarial friendship with most of the crew, particularly irritating [[being-kasuradmzr|Kasûra Damzarû]] with crude commentary and being quietly disarmed by her persistent cheerfulness.
 
 ## Plot Hooks
 

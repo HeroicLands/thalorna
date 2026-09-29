@@ -26,27 +26,27 @@ whose map covers them. They do not dispute sovereignty and will not be drawn int
 They will involve themselves the instant a sacred site is disturbed, and they do not distinguish
 between a trespasser, a licensed antiquarian and an army.
 
-**[[place-hydravenmnt|Mount Hýdraven]]**, the source of the kingdom's water, is theirs.
-**[[place-sirmenne|Sirmennë]]**—shared with the [[lore-flksinale|Sinalë]]—is theirs.
-**[[lore-aralwen|Úqua-Arálwen]]**, which straddles the frontier, is held by their
+[[place-hydravenmnt|Mount Hýdraven]], the source of the kingdom's water, is theirs.
+[[place-sirmenne|Sirmennë]]—shared with the [[lore-flksinale|Sinalë]]—is theirs.
+[[lore-aralwen|Úqua-Arálwen]], which straddles the frontier, is held by their
 [[affiliation-alndnwrdns|Wardens]] and administered by neither kingdom.
 
 ## The Sea-Frontier
 
 There is no land border with the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]; there is open water,
-and the water has never been much of an obstacle. The **[[place-batarengulf|Gulf of Batáren]]** is the
+and the water has never been much of an obstacle. The [[place-batarengulf|Gulf of Batáren]] is the
 one real harbor on an ocean coast otherwise made of cliffs, which makes it both the march's fortune
 and its standing vulnerability.
 
 Two centuries ago a fleet used it. The raiders threw down
-**[[place-yharvalenhenge|Yhârvalen Henge]]** and left the
-**[[place-bldfldyharvalen|blood-field]]** that is still killing the country around it.
+[[place-yharvalenhenge|Yhârvalen Henge]] and left the
+[[place-bldfldyharvalen|blood-field]] that is still killing the country around it.
 
-**[[place-menavarabbey|Ménavar Abbey]]** was gutted in the same raids and never refounded.
+[[place-menavarabbey|Ménavar Abbey]] was gutted in the same raids and never refounded.
 
 ## Its Settlements
 
-- **[[place-batarencity|Batáren City]]**—the ocean port, substantially Élavendren, trading north
+- [[place-batarencity|Batáren City]]—the ocean port, substantially Élavendren, trading north
   rather than south, and quietly grinding over rights both crowns treat as domestic.
 
 ## See Also

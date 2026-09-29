@@ -164,16 +164,16 @@ economic purpose of the district.
 
 ## The Settlements
 
-- **[[place-vargate|Vargate]]**—the town at the foot of the road to the Gate; fifteen hundred people, and
+- [[place-vargate|Vargate]]—the town at the foot of the road to the Gate; fifteen hundred people, and
   the only place where Khazári goods enter human hands.
-- **[[place-barakth|Barakth]]**, the oldest village and the tally-keepers.
-- **[[place-vellick|Vellick]]**, where the smiths are.
-- **[[place-stonyhaugh|Stonyhaugh]]**, the quarry.
-- **[[place-highfold|Highfold]]**, the summer pasture.
-- **[[place-kalm|Kalm]]**, the grain valley.
-- **[[place-coldbeck|Coldbeck]]**, the mills.
-- **[[place-dorrin|Dorrin]]**, the highest, which watches the eastern approaches.
-- **[[place-threndale|Threndale]]**, where the dead go.
+- [[place-barakth|Barakth]], the oldest village and the tally-keepers.
+- [[place-vellick|Vellick]], where the smiths are.
+- [[place-stonyhaugh|Stonyhaugh]], the quarry.
+- [[place-highfold|Highfold]], the summer pasture.
+- [[place-kalm|Kalm]], the grain valley.
+- [[place-coldbeck|Coldbeck]], the mills.
+- [[place-dorrin|Dorrin]], the highest, which watches the eastern approaches.
+- [[place-threndale|Threndale]], where the dead go.
 
 ## Outside the Realms
 

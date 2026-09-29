@@ -47,7 +47,7 @@ edited by hand.
 | Calendar               | File          | Kept by                                     |
 | ---------------------- | ------------- | ------------------------------------------- |
 | The Common Calendar    | `commoncal`   | Vylaria and the lands it reaches            |
-| The Kheperi Calendar   | `khprclndr`   | Ta'Kheperu                                  |
+| The Khelâthi Calendar  | `khprclndr`   | Aû'Khelâthu                                 |
 | The Khazryn Calendar   | `khzrnclndr`  | The Khazryn kingdoms and the exile Mobadate |
 | The Mādhavendra Count  | `mdhvndrcnt`  | Vedyara                                     |
 | Calendar and Astrology | `clndrstrlgy` | The Empire of Tānvür                        |

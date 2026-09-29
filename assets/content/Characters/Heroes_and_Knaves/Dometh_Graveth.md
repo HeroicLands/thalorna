@@ -470,7 +470,7 @@ A deeper motivation underlies this: Dómeth builds ships because they are perman
 ### Patrons
 
 - **Captain-Admiral Voren**: A celebrated naval commander who has commissioned multiple vessels from Dómeth over two decades and would speak of his craftsmanship as the only reason certain campaigns succeeded.
-- **The Merchant Consortium of Tarvénia's Harbor**: A collective of wealthy traders who have maintained standing orders for Gráveth vessels despite the expense and delays, understanding that his ships provide competitive advantages that justify premium pricing.
+- **Lin'Zuwaret elu Aû'Khelâthu of Tarvénia's Harbor**: A collective of wealthy traders who have maintained standing orders for Gráveth vessels despite the expense and delays, understanding that his ships provide competitive advantages that justify premium pricing.
 - **Priestess-Keeper Maristela of Vénusia's Temple**: The keeper of the ocean-goddess's temple considers Dómeth's work a form of worship and sees to it that the temple's ships are always commissioned from him, providing him with steady work during lean years.
 
 ### Enemies

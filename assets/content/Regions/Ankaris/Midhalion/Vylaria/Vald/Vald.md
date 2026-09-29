@@ -35,22 +35,22 @@ Vald's settlement pattern is set by its geography: two great cities and a workin
 
 **The two cities:**
 
-- **[[place-mercavia|Mercavia]]**—the provincial capital and economic hub (~50,000); the empire's busiest commercial harbor, its merchant houses, and its foreign quarters.
-- **[[place-castamar|Castamar]]**—the naval and military hub (~20,000); the imperial shipyards and the seat of the fleet command. Not the capital, but the empire's sword at sea.
+- [[place-mercavia|Mercavia]]—the provincial capital and economic hub (~50,000); the empire's busiest commercial harbor, its merchant houses, and its foreign quarters.
+- [[place-castamar|Castamar]]—the naval and military hub (~20,000); the imperial shipyards and the seat of the fleet command. Not the capital, but the empire's sword at sea.
 
 **The four great fishing towns** (each ~5,000–10,000), strung along the coast and supplying fish to the capital and the interior:
 
-- **[[place-ostvar|Ostvar]]** (~8,000)—the largest, salt-fish and curing.
-- **[[place-brennvik|Brennvik]]** (~9,000)—deep-bay fishing and smoke-fish.
-- **[[place-korsvik|Korsvik]]** (~7,000)—deep-water crews and sea-beast oil.
-- **[[place-saltholm|Saltholm]]** (~6,000)—salt-pans and the curing of the lesser villages' catch.
+- [[place-ostvar|Ostvar]] (~8,000)—the largest, salt-fish and curing.
+- [[place-brennvik|Brennvik]] (~9,000)—deep-bay fishing and smoke-fish.
+- [[place-korsvik|Korsvik]] (~7,000)—deep-water crews and sea-beast oil.
+- [[place-saltholm|Saltholm]] (~6,000)—salt-pans and the curing of the lesser villages' catch.
 
 **The lesser fishing villages:** some dozen small communities of 500–1,500 line the coast between the great towns—among them Smávik, Torsvik, Lindhaven, Kelpstrand, Greyfen, Skarholt, Ebbness, Drummel, Fenwall, Maelby, Saltreach, and Hingstrand—each living by its boats, its nets, and the curing-houses of [[place-saltholm|Saltholm]] and [[place-ostvar|Ostvar]].
 
 **The inland country:**
 
-- **[[place-terravia|Terravia]]**—a market town among the agrarian estates of Vald's interior, the province's landward face.
-- **[[place-solheim|Solheim]]**—a coastal pilgrimage town.
+- [[place-terravia|Terravia]]—a market town among the agrarian estates of Vald's interior, the province's landward face.
+- [[place-solheim|Solheim]]—a coastal pilgrimage town.
 
 ## See Also
 

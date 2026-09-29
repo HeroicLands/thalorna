@@ -459,7 +459,7 @@ The **Ordo Arcanis** wants Cibella back, and they want Lucerian punished for tak
 
 ### Affiliations
 
-Passenger aboard the **Tamzîr**. Brother and guardian of **[[being-cibelasrnt|Cibella Serentia]]**. He has formed a grudging mutual respect with **Captain Eshârum Tarûzî**, who reminds him—uncomfortably—that principle and pragmatism are not always compatible.
+Passenger aboard the **Tamzîr**. Brother and guardian of [[being-cibelasrnt|Cibella Serentia]]. He has formed a grudging mutual respect with **Captain Eshârum Tarûzî**, who reminds him—uncomfortably—that principle and pragmatism are not always compatible.
 
 ## Plot Hooks
 

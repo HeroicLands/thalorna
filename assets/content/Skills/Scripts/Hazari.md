@@ -17,7 +17,7 @@ sohl:
   flags: {"thalorna": {script_family: Abjad}}
 ---
 
-The Hazâri is the writing of Harad and the oldest working script in the west—twenty-four letters, all of them consonants, written left to right, with the vowels supplied by the reader out of context or added above and below the line as circumflex, macron and acute. It descends from the proto-Ankarian writing that also produced [[skill-dnshkscrpt|Dûnshâk]] and [[skill-okhsshscrpt|Okh-sesh]]; the three are visibly cousins and mutually unreadable.
+The Hazâri is the writing of Harad and the oldest working script in the west—twenty-four letters, all of them consonants, written left to right, with the vowels supplied by the reader out of context or added above and below the line as circumflex, macron and acute. It descends from the proto-Ankarian writing that also produced [[skill-dnshkscrpt|Dûnshâk]] and [[skill-okhthztscrpt|Okhatha-zethu Script]]; the three are visibly cousins and mutually unreadable.
 
 It is a script, not a tongue: a character needs **both** the Hazâri and the relevant [[sohl-none-docskill-lang|Language]]. It carries [[skill-haradilng|Haradi]] natively, [[skill-valtarlng|Valtári]] in the southern ports, and, in the hands of a factor working far from home, whatever else needs recording.
 

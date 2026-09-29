@@ -460,10 +460,10 @@ Brànwâal seeks to restore his family's honor and reclaim their lost lands by a
 
 ## Companions
 
-- **[[being-elyseskyrn|Elýsè Skýrn]]**: The band's healer and alchemist.
-- **[[being-torniskbry|Tórnis Kúbrý]]**: Scout, spy, and infiltrator.
-- **[[being-chlbrhydyn|Chéleb Rhýddýn]]**: Áelendan tracker and archer.
-- **[[being-dornsyndlr|Dôren Sýndalr]]**: Frontline fighter and axeman.
+- [[being-elyseskyrn|Elýsè Skýrn]]: The band's healer and alchemist.
+- [[being-torniskbry|Tórnis Kúbrý]]: Scout, spy, and infiltrator.
+- [[being-chlbrhydyn|Chéleb Rhýddýn]]: Áelendan tracker and archer.
+- [[being-dornsyndlr|Dôren Sýndalr]]: Frontline fighter and axeman.
 
 ### Patrons
 

@@ -82,7 +82,7 @@ data:
       - where the Second Voice is now, having never been recovered a second time
 ---
 
-**[[lore-khazarturn|Khazártúrn]]** was the greatest city the [[lore-flkkhazar|Khazári]] ever built, and
+[[lore-khazarturn|Khazártúrn]] was the greatest city the [[lore-flkkhazar|Khazári]] ever built, and
 in 2427 BF it was destroyed with every soul in it. Nothing before or since has come near it in the
 reckoning of the Deep Folk.
 

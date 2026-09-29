@@ -469,7 +469,7 @@ Dharmàpala is motivated by the pursuit of mastery—the relentless refinement o
 ### Enemies
 
 - **Captain Nàgarîtha of the City Guard**: A corrupt official who views Dharmàpala's independence from his authority as insult and has made his removal a personal crusade, generating false charges and attempting to cut off his legitimate work.
-- **The Crimson Syndicate**: A criminal organization that attempted to hire Dharmàpala for unforgivable purposes; when he refused and reported them to city authorities, they marked him for death and have pursued this vendetta with cold determination.
+- [[affiliation-gargezru|Gar-Gezru]]: A criminal organization that attempted to hire Dharmàpala for unforgivable purposes; when he refused and reported them to city authorities, they marked him for death and have pursued this vendetta with cold determination.
 - **Kàndhara the Knife**: A rival bodyguard and occasional guild-mate who views Dharmàpala as having stolen commissions that should have been his, and who harbors deep resentment over a past failure to protect a client where Dharmàpala succeeded.
 
 ### Affiliations

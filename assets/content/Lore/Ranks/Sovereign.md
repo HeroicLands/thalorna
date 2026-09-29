@@ -15,4 +15,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-11 bodies in Thalorna name this standing, at level 8 of their ladders, and each spells it in its own words: **K'uhul Ajaw**, **Per-Aá**, **Sovereign**, **Mahārāja**, **King**, **Emperor**, **Mêtríssa**, **Warlord**, **Sultan**, **High Jarl**, **Head of the House**.
+11 bodies in Thalorna name this standing, at level 8 of their ladders, and each spells it in its own words: **K'uhul Ajaw**, [[lore-garauu|Gar-Aû]], **Sovereign**, **Mahārāja**, **King**, **Emperor**, **Mêtríssa**, **Warlord**, **Sultan**, **High Jarl**, **Head of the House**.

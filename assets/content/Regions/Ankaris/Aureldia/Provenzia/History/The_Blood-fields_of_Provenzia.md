@@ -76,7 +76,7 @@ _worked on_ are another matter.
 
 Very little, and deliberately.
 
-The clergy of **[[affiliation-thanatos|Thánatos]]**, the Silent Judge, hold the competent authority.
+The clergy of [[affiliation-thanatos|Thánatos]], the Silent Judge, hold the competent authority.
 Their rite over a blood-field is one of settlement rather than cleansing—an acknowledgement that the
 dead were not judged in order, and a formal placing of them in the god's keeping. It is performed
 where a field is troublesome, it is expensive, and it works perhaps half the time. Priests of
@@ -98,11 +98,11 @@ strongest argument for making one, and the single strongest argument against.
 
 ## The Known Fields
 
-- **[[place-bldfldyharvalen|Yhârvalen]]**—north; a **withering**, and the worst in the kingdom.
-- **[[place-bldfldtiravlen|Tiravlen]]**—beside [[place-tiravellake|Lake Tiravel]]; a **recurrence**.
-- **[[place-bldfldserravel|Serravel]]**—the eastern frontier; a **recurrence**, and still being added to.
-- **[[place-bldfldkyvarel|Kývarel]]**—the western valleys; a **quickening**.
-- **[[place-bldfldcalvenza|Calvènza]]**—the southern coast; a **silence**.
+- [[place-bldfldyharvalen|Yhârvalen]]—north; a **withering**, and the worst in the kingdom.
+- [[place-bldfldtiravlen|Tiravlen]]—beside [[place-tiravellake|Lake Tiravel]]; a **recurrence**.
+- [[place-bldfldserravel|Serravel]]—the eastern frontier; a **recurrence**, and still being added to.
+- [[place-bldfldkyvarel|Kývarel]]—the western valleys; a **quickening**.
+- [[place-bldfldcalvenza|Calvènza]]—the southern coast; a **silence**.
 
 These are the ones with names. Provenzians will tell you there are many more, and that a field does
 not need a name to be a blood-field.

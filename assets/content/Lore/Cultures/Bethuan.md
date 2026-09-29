@@ -33,7 +33,7 @@ Bethûa repays this with genuine reverence. The Spádai are praised in song and 
 
 The Spear-Sisterhood trains from youth in arms and tactics and in the Charíssa—the Grace—an open-hand and kicking art built to turn a woman's agility into a weapon and let her beat a larger, stronger opponent. It is neither a sport nor an ornament. The realm's security rests on the proposition that a trained woman defeats an untrained man, and Bethûa intends to keep that proposition true.
 
-Above the army stands the fleet, which is what Bethûa is actually famous for: the best navy in the region, escorting its convoys, guarding its coast, and waging a deniable privateer war on Vylarian shipping as the maritime proxy of its Kheperi patron.
+Above the army stands the fleet, which is what Bethûa is actually famous for: the best navy in the region, escorting its convoys, guarding its coast, and waging a deniable privateer war on Vylarian shipping as the maritime proxy of its Khelâthi patron.
 
 ## The Goddesses on the Bench
 
@@ -47,7 +47,7 @@ The Bethûan tongue is related to Helonic by an ancient migration, and Bethûan 
 
 Toward foreigners the realm is exact and cool. A foreign man trading in a Bethûan port is suffered, not welcomed: served fairly, his coin taken, his contracts honored, and met throughout with a condescension he can do nothing about. Part of it is simple affront, since a free man trading on his own account presumes as of right to do what no Bethûan man may do. A foreign woman trading on her own account meets none of it, and often finds Bethûa the easiest market on the coast.
 
-The one exception is an official of Ta'Kheperu, received with marked deference regardless of sex—a public, daily acknowledgment of the patron relationship that everyone, and the Vylarians most of all, is meant to notice.
+The one exception is an official of Aû'Khelâthu, received with marked deference regardless of sex—a public, daily acknowledgment of the patron relationship that everyone, and the Vylarians most of all, is meant to notice.
 
 ## What a Person Owes
 
@@ -62,4 +62,4 @@ A Bethûan man, asked the same question, answers that he owes everything to the 
 - [[affiliation-bethuanflt|Bethûan Fleet]]—the navy and the privateer war
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the gods, and the three goddess-orders that govern
 - [[skill-bethunlng|Bethûan]]—the tongue and its Helonic kinship
-- [[affiliation-empirtkhpr|Empire of Ta'Kheperu]]—the patron
+- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—the patron

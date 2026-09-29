@@ -81,7 +81,7 @@ _Vylarian: Praetar Augustarum—"the Guard of the Augustars"_
 
 - **Type:** Imperial military institution; household guard and Inner City garrison
 - **Region of operation:** [[place-urbsaquiln|Urbs Aquilion]], the Inner City of [[place-magnapolis|Magnápolis]]; the imperial person wherever he travels
-- **Seat:** The **[[place-castraprtr|Castra Praetoria]]**, on the palace hill within the Inner Wall
+- **Seat:** The [[place-castraprtr|Castra Praetoria]], on the palace hill within the Inner Wall
 - **Answerable to:** The reigning **Augustar** alone
 
 ## Overview

@@ -87,7 +87,7 @@ The current High Hand is **Iulia Verronius**, the seventh of her line to hold se
 
 ## Notable Members
 
-- **[[being-ailemkrmys|Ailêmâ Keriamyes]]**—Guildmaster of long standing, well-respected, regarded as one of the finest authentication experts in the empire. She is occasionally consulted on matters of standards and forgery detection at the highest levels.
+- [[being-ailemkrmys|Ailêmâ Keriamyes]]—Guildmaster of long standing, well-respected, regarded as one of the finest authentication experts in the empire. She is occasionally consulted on matters of standards and forgery detection at the highest levels.
 - **Iulia Verronius**—High Hand; presiding over the Guild's response to the increasing pressure from imperial authorities to streamline procedures the Guild considers essential.
 
 ## Doctrine and Practice
@@ -107,7 +107,7 @@ In practice the Guild loses these arguments often enough to make its members cyn
 ## Relations
 
 - **The Imperial Administration**—patron, client, and constant counterparty. The relationship is symbiotic and tense.
-- **The [[affiliation-magnumclgm|The Magnum Collegium]]**—the umbrella body under which the Scribal Guild holds its standing throughout the Vylarian-influenced world. The High Hand's ex officio seat on the Curia Collegiorum makes the Guild one of the politically weightiest single members; the Guild's procedural conservatism aligns naturally with the Collegium's Censores, and the two institutions cooperate closely on credential fraud and forgery prosecutions.
+- **The [[affiliation-magnumclgm|Magnum Collegium]]**—the umbrella body under which the Scribal Guild holds its standing throughout the Vylarian-influenced world. The High Hand's ex officio seat on the Curia Collegiorum makes the Guild one of the politically weightiest single members; the Guild's procedural conservatism aligns naturally with the Collegium's Censores, and the two institutions cooperate closely on credential fraud and forgery prosecutions.
 - **The [[affiliation-ordoarcanis|Ordo Arcanis]]**—formal cooperation. The Ordo's own internal documents are produced by Ordo-trained scribes operating under license from the Guild, an arrangement of careful parity between two institutions that each consider themselves senior.
 - **The [[affiliation-panepistmm|Panepistemium]]**—academic friendship; many senior scribes are also Epistemium associates. The Epistemium provides much of the Guild's intellectual prestige; the Guild provides the Epistemium with archival access.
 - **The provincial guilds**—chapterhouse-level autonomy is constantly negotiated. The provincial chapterhouses chafe under Magnápolis's procedural rulings; Magnápolis suspects, often correctly, that provincial chapterhouses are bending the rules.

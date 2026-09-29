@@ -370,7 +370,7 @@ But not all of them have reached this state. Some are far more terrible precisel
 
 # Dossier {#dossier}
 
-**Damut** (plural _damutu_; "damuts" at the table) is the learned name for the unintelligent (or limited-intelligence) undead—zombies, mummies, skeletons, ghouls, and similar shambling things—from the Kheperi root _d-m-t_, to drive, to goad: _the driven one_. A damut is produced by necromantic animation of a corpse, with the soul (or a fragment of it) bound to drive the body's motion. Nothing in it moves itself: it goes as it is driven, by the one who raised it or by the last hunger left in the meat. Having no will, it has no cloak, and cannot pass for anything but what it is. See [[lore-undead|Undead]] for the learned terms and the folk names.
+**Damut** (plural _damutu_; "damuts" at the table) is the learned name for the unintelligent (or limited-intelligence) undead—zombies, mummies, skeletons, ghouls, and similar shambling things—from the Khelâthi root _d-m-t_, to drive, to goad: _the driven one_. A damut is produced by necromantic animation of a corpse, with the soul (or a fragment of it) bound to drive the body's motion. Nothing in it moves itself: it goes as it is driven, by the one who raised it or by the last hunger left in the meat. Having no will, it has no cloak, and cannot pass for anything but what it is. See [[lore-undead|Undead]] for the learned terms and the folk names.
 
 ## The Spectrum of Degradation
 

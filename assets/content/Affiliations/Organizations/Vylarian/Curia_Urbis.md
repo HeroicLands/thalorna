@@ -62,7 +62,7 @@ Magnápolis is not ruled by a prefect. The Empire learned long ago that a single
 The five **Curators** sit as equals and decide the weightier matters as a body, by majority. Each holds a standing portfolio:
 
 - **The Curator of Law** (_Curator Iudiciorum_)—the city's chief judicial authority; oversees the Aediles, the Iudicia, and the Criminal Tribunal, and presides when the council sits as the supreme civic court.
-- **The Curator of Order** (_Curator Vigilum_)—commands the **[[affiliation-vylrnmltry|City Watch]]**, and answers for public order, the watch-houses, and the city gaols.
+- **The Curator of Order** (_Curator Vigilum_)—commands the [[affiliation-vylrnmltry|City Watch]], and answers for public order, the watch-houses, and the city gaols.
 - **The Curator of the Grain** (_Curator Annonae_)—the granaries, the dole, the licensed markets, and the unceasing daily supply on which the capital lives.
 - **The Curator of Works and Waters** (_Curator Operum_)—the fabric of the city: its streets and bridges, its aqueducts and sewers, its public buildings, baths, and the upkeep (or quiet neglect) of the Circles and avenues.
 - **The Curator of the Rolls** (_Curator Tabularum_)—the census, the citizen-rolls, the city's records, and its correspondence with the throne; by custom the council's coordinating seat.
@@ -71,7 +71,7 @@ The chair rotates among them so that none becomes "the" head of the city, and th
 
 ### The Civic Courts
 
-Beneath the council runs a tiered court system. The **[[affiliation-vylrnmltry|City Watch]]** enforces and investigates; it does not judge. Judgment belongs to the courts.
+Beneath the council runs a tiered court system. The [[affiliation-vylrnmltry|City Watch]] enforces and investigates; it does not judge. Judgment belongs to the courts.
 
 - **The Aediles**—the magistrates of the wards, and the only court most Magnápolitans ever see. They keep the district law: markets and licenses, weights and measures, building and sanitation, nuisance and petty disorder. They levy fines, shutter premises, and condemn buildings; the Watch supplies the muscle behind their rulings.
 - **The Iudicia**—the civil courts, where citizen sues citizen over property, contract, debt, inheritance, and standing. Cases are heard by **Iudices** drawn from the propertied orders, the weightier disputes before panels.
@@ -81,7 +81,7 @@ Appeals, and the gravest civic cases, rise to the **Curia Urbis** sitting as a b
 
 ### The Imperial Tribunals
 
-Entirely separate from the civic courts stand the **imperial tribunals**—the courts of the throne itself. They sit within the Inner City, in the **[[affiliation-aerarimmpr|Officia Imperii]]**, the great bureaucratic compound that also houses the treasury, the tax administration, and the imperial archives, and they answer to the Augustar and his appointed judges, never to the Curia Urbis.
+Entirely separate from the civic courts stand the **imperial tribunals**—the courts of the throne itself. They sit within the Inner City, in the [[affiliation-aerarimmpr|Officia Imperii]], the great bureaucratic compound that also houses the treasury, the tax administration, and the imperial archives, and they answer to the Augustar and his appointed judges, never to the Curia Urbis.
 
 Their jurisdiction is everything the civic courts cannot touch. Any matter involving a member of the nobility, any cause touching the [[affiliation-curiavylar|Senate]] or the imperial house, the great suits between provinces and crowns, and **treason** above all, are imperial business from the first moment—and a case can be lifted out of the civic courts into the imperial tribunals at the throne's word. For senatorial persons in the gravest matters, judgment may rise higher still, to the [[affiliation-curiavylar|Curia Vylaria]] itself. To be summoned from the Aediles' bench to the Officia is, for most of the city, a terror in itself: it means one's affair has caught the attention of powers far above the ward.
 

@@ -38,7 +38,7 @@ The country was **Pelwar** first. Those were peaceful people: herders and cultiv
 organized for conquest, and they had the forest and the rivers for a very long time before anyone
 disturbed them.
 
-Then the **[[lore-pelwarpepl|Varkhad]]** came out of the further east—a fierce people, kin to the
+Then the [[lore-pelwarpepl|Varkhad]] came out of the further east—a fierce people, kin to the
 ancestors of the [[place-khzryndsrtrgn|Khazryn]] desert folk—and took it. They did not exterminate the
 Pelwar; over generations they **married into them**, until the two stocks could no longer be told apart
 and the result was the Varokh. The same process, further west and north, produced the
@@ -81,7 +81,7 @@ That is a **small** people by any standard an Aurèldían would apply—a fracti
 Varokh are not numerous. They have never been numerous.
 
 It is also, man for man, the most dangerous population in the north—and the people best placed to
-judge that say so themselves. The **[[place-nrdlndsrgn|Nordmen]]** are feared along every coast within
+judge that say so themselves. The [[place-nrdlndsrgn|Nordmen]] are feared along every coast within
 reach of a longship, and the Nordmen regard the Varokh as **worse**: harder, less reachable, and less
 inclined to stop. That is not a concession Nordmen make about anybody, and they make it about these
 neighbors without argument. It is the Varkhad half talking, two thousand years on.
@@ -121,7 +121,7 @@ It would be strange if they did not. They raid, and raiding produces captives as
 cattle; their southern frontier runs a thousand miles against the [[place-velanthrgn|Velanthian]]
 grain-belt, which is full of villages worth raiding; the rivers that carry their furs run straight to
 markets in every direction; and the best customers in the world are their immediate neighbors. The
-**[[place-nrdlndsrgn|Nordmen]]** run a thrall economy—the Jarldom of
+[[place-nrdlndsrgn|Nordmen]] run a thrall economy—the Jarldom of
 [[affiliation-jrldmstrmvld|Stormveld]] alone works a hundred and twenty thousand of them—and they buy.
 
 The shape of the trade follows from having no cities. The Varokh are not a plantation society and could
@@ -194,14 +194,14 @@ Neither half has ever managed without the other, and neither has ever been fooli
 The north holds three peoples who are all, in their different ways, frightening, and the difference
 between them is not courage. It is **how much of themselves they can bring to one place at one time**.
 
-- The **[[lore-grukarfolk|Grukar]]** of [[place-grkrhlmrgn|Grukarholm]] cannot concentrate at all. Ahks do
+- The [[lore-grukarfolk|Grukar]] of [[place-grkrhlmrgn|Grukarholm]] cannot concentrate at all. Ahks do
   not cooperate, so fifty thousand of them are fifty thousand in scores of tribes that will never combine.
   Permanently terrifying at a frontier; permanently incapable of taking anything.
 - The **Varokh** concentrate as far as tribes and war-bands allow, and no further. They can put a
   frightening number of extremely dangerous people into a forest, and they cannot put an army into a field
   and keep it there for a season. So they are unconquerable and not expansionist—a people nobody can
   beat and who cannot, in the ordinary sense, win.
-- The **[[place-nrdlndsrgn|Nordmen]]** are less fierce than the Varokh and vastly more organized: five
+- The [[place-nrdlndsrgn|Nordmen]] are less fierce than the Varokh and vastly more organized: five
   kingdoms, jarls, a ting, and above all **fleets**. Which is why it is the Nordmen and not the Varokh who
   crossed open water, took a fifth of [[place-aelwyth|Aelwyth]] and are still holding it sixty years later.
 

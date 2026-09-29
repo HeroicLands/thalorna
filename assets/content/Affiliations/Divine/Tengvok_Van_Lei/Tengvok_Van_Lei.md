@@ -206,7 +206,7 @@ occurs to anyone that the god declined.
 ## **1. Dreams – Mëi Sëi – The Bureau of Night Counsel**
 
 - **Overseer**: **Mëivōr**, the Minister of Dreams.
-- **Role**: Processes dream-petitions, delivers omens, and files night-counsel reports. Mëi Sëi is the Tëngvōk Vān Lëi expression of [[lore-goddreams|The God of Dreams]]—the same entity known as Baldr (Asguardian), Aethería (Aurèldían), Nal'ik Tz'uqal (Itzáni), and Bēs (Kemetían). In the Tānvüri framework, this pan-cultural deity is understood as a being who holds the Dream portfolio across multiple celestial administrations—a bureaucratic anomaly that the Tānthëi find deeply troubling.
+- **Role**: Processes dream-petitions, delivers omens, and files night-counsel reports. Mëi Sëi is the Tëngvōk Vān Lëi expression of [[lore-goddreams|The God of Dreams]]—the same entity known as Baldr (Asguardian), Aethería (Aurèldían), Nal'ik Tz'uqal (Itzáni), and Nehle'ât (Khelâthi). In the Tānvüri framework, this pan-cultural deity is understood as a being who holds the Dream portfolio across multiple celestial administrations—a bureaucratic anomaly that the Tānthëi find deeply troubling.
 - **Lesser Spirits**:
   - **Lëngvōr** – Clerks of Auspicious Dreams, who deliver favorable omens.
   - **Hëkyök** – Clerks of Warning Dreams, who deliver cautionary visions. (Not malevolent—nightmares are simply urgent memos.)

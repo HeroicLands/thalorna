@@ -88,7 +88,7 @@ Day-to-day administration is conducted by the **Convocation of Companies**, whic
 
 ## Notable Members
 
-- **[[being-kelnstylgn|Kêlena Stylgon]]**—a founding figure of the present Collective; she helped formalize the federation twenty-three years ago and continues to wield substantial influence through it, even as her primary work has shifted to high society. The Collective treats her counsel as senior even when she does not attend gatherings.
+- [[being-kelnstylgn|Kêlena Stylgon]]—a founding figure of the present Collective; she helped formalize the federation twenty-three years ago and continues to wield substantial influence through it, even as her primary work has shifted to high society. The Collective treats her counsel as senior even when she does not attend gatherings.
 - **Léonardo Castiranni**—current First Speaker; playwright; political operator.
 - The **Teatro della Luna** company—most prestigious of the standing companies, with its own permanent venue in the capital.
 - The **Compagnia delle Maschere**—the leading touring troupe; specializes in commedia and the political mask traditions.
@@ -113,7 +113,7 @@ The Convocation's deliberations on whether to endorse are conducted with theatri
 - **The Provenzian Crown**—careful mutual tolerance. The crown patronizes the major companies and accepts the Collective's commentary up to a point; the Collective's prudence-of-the-season doctrine generally keeps performance well clear of that point.
 - **The merchant houses**—patrons and targets. The relationship is symbiotic; the houses fund productions that mock their rivals and tolerate productions that mock themselves provided the mockery is witty rather than damaging.
 - **The [[affiliation-velvethand|Velvet Hand]]**—quiet, active. The Hand uses theatrical troupes as cover for operatives; the Collective is aware of this and tolerates it within limits. Several touring companies are quietly understood to include Hand operatives among their members.
-- **The [[affiliation-bardicolgs|The Bardic Colleges]]**—cordial, distant. The Bardic tradition produces some playwrights of distinction who occasionally bring work to the Collective; the Colleges' more solemn artistic concerns and the Collective's more profane ones coexist without intimacy.
+- **The [[affiliation-bardicolgs|Bardic Colleges]]**—cordial, distant. The Bardic tradition produces some playwrights of distinction who occasionally bring work to the Collective; the Colleges' more solemn artistic concerns and the Collective's more profane ones coexist without intimacy.
 
 ## Identifying Marks
 

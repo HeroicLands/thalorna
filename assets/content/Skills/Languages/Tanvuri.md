@@ -35,7 +35,7 @@ The Tānvüri language—known natively as **Tānvüri Thëitōk** ("Celestial-C
 | g         | as in "get", always hard         |                           |
 | h         | as in "hat"                      |                           |
 | j         | as in "judge"                    |                           |
-| k         | as in "kite"                     |                           |
+| k         | as in "qelu"                     |                           |
 | l         | as in "let"                      |                           |
 | m         | as in "man"                      |                           |
 | n         | as in "net"                      |                           |
