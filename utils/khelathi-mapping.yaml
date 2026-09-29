@@ -1,0 +1,172 @@
+# The Khelâthi lexicon: every retired token and what replaces it.
+#
+# This file is the single source. The guard reads it, every packet edits from
+# it, and nothing anywhere else restates a pair — a second copy is one more
+# thing to drift.
+#
+# `retired` is matched whole-word and case-sensitively, because `Ra`, `Set`,
+# `Min`, `Sau`, `Imet`, `Ipu`, `Wab` and `Sile` are all substrings of ordinary
+# words. A sweep runs from this table and never from a bare pattern.
+#
+# `layer` names the packet that owns the pair. `note` carries a reason where
+# one is needed.
+
+realm:
+    - { retired: "Ta'Kheperu", replacement: "Aû'Khelâthu", layer: 1, note: formal }
+    - { retired: Ta.Kheperu, replacement: Khelathu, layer: 1, note: directory and file names }
+    - { retired: Kheperi, replacement: Khelâthi, layer: 1 }
+    - { retired: Kheperan, replacement: Khelâthi, layer: 1, merges: true }
+    - { retired: Kheperian, replacement: Khelâthi, layer: 1, merges: true }
+    - { retired: Kemetian, replacement: Khelâthi, layer: 1, merges: true }
+    - { retired: Kemetían, replacement: Khelâthi, layer: 1, merges: true }
+    - { retired: Kemet, replacement: Khelâthu, layer: 1, note: Egypt's own name for itself }
+    - { retired: Kheperi-sesh, replacement: Khelâthi-zethu, layer: 1, note: the sacred hand }
+    - { retired: Demotika, replacement: Qalezu, layer: 1, note: the common hand }
+
+gods:
+    - { retired: Bēs, replacement: Nehle'ât, layer: 2, note: dreams }
+    - { retired: Sēker, replacement: Wethûr, layer: 2, note: death }
+    - { retired: Sét, replacement: Tjaq'ûr, layer: 2, note: storms }
+    - { retired: Má'át, replacement: Qe'âret, layer: 2, note: order }
+    - { retired: Thōth, replacement: Reth'Sa'âr, layer: 2, note: knowledge }
+    - { retired: Hâpi, replacement: Thubâ'i, layer: 2, note: prosperity }
+    - { retired: Íšét, replacement: Uznêra, layer: 2, note: fertility }
+    - { retired: Rā, replacement: Uqa'â, layer: 2, note: fire }
+    - { retired: Ptā'h, replacement: Psaq'âru, layer: 2, note: creation }
+    - { retired: Ápōphis, replacement: Azu'âthis, layer: 2, note: chaos }
+    - { retired: Hórús, replacement: Gewaâtis, layer: 2, note: voyages }
+    - { retired: Ánubís, replacement: Hezmuîri, layer: 2, note: decay }
+    - { retired: Mentu, replacement: Qeztu, layer: 2, note: war }
+    - { retired: Sobek, replacement: Tjelsuk, layer: 2, note: river-beasts }
+    - { retired: Wadjit, replacement: Shebazet, layer: 2, note: the marsh }
+    - { retired: Min, replacement: Pelgun, layer: 2, note: desert roads }
+    - { retired: Anhur, replacement: Linhur, layer: 2, note: the hunt, the hunter }
+    - { retired: Shesmu, replacement: Linqur, layer: 2, note: the hunt, the killing }
+    - { retired: Khet'Amun, replacement: Igel'Nâru, layer: 2, note: the river }
+
+godHouseForms:
+    - { retired: Rê, replacement: Uqa, layer: 2 }
+    - { retired: Ra, replacement: Uqa, layer: 2, merges: true }
+    - { retired: Maâr, replacement: Qar, layer: 2 }
+    - { retired: Thut, replacement: Retha, layer: 2 }
+    - { retired: Tot, replacement: Retha, layer: 2, merges: true }
+    - { retired: Pata, replacement: Psaqa, layer: 2 }
+    - { retired: Sekmet, replacement: Uzner, layer: 2 }
+    - { retired: Sekhmet, replacement: Uzner, layer: 2, merges: true }
+
+ranks:
+    - { retired: Per-Aá, replacement: Gar-Aû, layer: 3 }
+    - { retired: Hem'Netjer, replacement: Lem'Nelgir, layer: 3 }
+    - { retired: Wer'Hekau, replacement: Thâz'Lekhau, layer: 3 }
+    - { retired: Wab, replacement: Wazu, layer: 3 }
+    - { retired: Haty'a, replacement: Halzi'a, layer: 3 }
+    - { retired: Iry'pat, replacement: Iru'palu, layer: 3 }
+    - { retired: Semer, replacement: Zemelu, layer: 3 }
+    - { retired: Medjay, replacement: Meglay, layer: 3 }
+    - { retired: Kenbet, replacement: Genzet, layer: 3 }
+    - { retired: Kher-Heb, replacement: Khel-Gebu, layer: 3 }
+    - { retired: Sêdjet Hâti, replacement: Zêlget Halzi, layer: 3 }
+    - { retired: Pér-Háti, replacement: Gár-Hálzi, layer: 3 }
+    - { retired: Sekhet'Neru, replacement: Zeghet'Nelgu, layer: 3 }
+    - { retired: Per'Nuw, replacement: Gar'Nuw, layer: 3 }
+    - { retired: Heka'hut, replacement: Legha'lutu, layer: 3, note: from retired heka and hut }
+    - { retired: Nebet'hut, replacement: Zabet'lutu, layer: 3, note: from retired neb and hut }
+    - { retired: Nebet, replacement: Zabet, layer: 3, note: lady of the court }
+    - { retired: Kenbet'Pat, replacement: Genzet'Palu, layer: 3 }
+    - { retired: Tjaty, replacement: Zeglar, layer: 3, note: the Egyptian for vizier }
+    - { retired: Imy'Râ Hâti, replacement: Ilmy'Zâ Halzi, layer: 3 }
+    - { retired: Imy'Khent Wedyat, replacement: Ilmy'Qelt Weglat, layer: 3 }
+    - { retired: nome, replacement: selat, layer: 3 }
+    - {
+          retired: nomarch,
+          replacement: Halzi'a,
+          layer: 3,
+          merges: true,
+          note: the holder already has a word,
+      }
+
+placeElements:
+    - { retired: Per-, replacement: Gar-, layer: 4 }
+    - { retired: Ta-, replacement: Zu-, layer: 4 }
+    - { retired: Hut-, replacement: Lut-, layer: 4 }
+    - { retired: Iat-, replacement: Yath-, layer: 4 }
+    - { retired: Set-, replacement: Zel-, layer: 4 }
+    - { retired: Maru-, replacement: Magu-, layer: 4 }
+    - { retired: Khaset-, replacement: Khuqet-, layer: 4 }
+    - { retired: Sept-, replacement: Selat-, layer: 4 }
+    - { retired: -Resu, replacement: -Zalu, layer: 4, note: south }
+    - { retired: -Mehtet, replacement: -Miglet, layer: 4, note: north }
+    - { retired: -Imnet, replacement: -Ithnet, layer: 4, note: west }
+    - { retired: -Iabtet, replacement: -Iaqtet, layer: 4, note: east }
+
+toponyms:
+    - { retired: Imet, replacement: Izet, layer: 4 }
+    - { retired: Iunet, replacement: Iuthnet, layer: 4 }
+    - { retired: Neferusi, replacement: Legirusi, layer: 4 }
+    - { retired: Henen-Nesut, replacement: Lenen-Nezut, layer: 4 }
+    - { retired: Kheraha, replacement: Khelaga, layer: 4 }
+    - { retired: Tjaru, replacement: Tjathu, layer: 4 }
+    - { retired: Tjenu, replacement: Tjegu, layer: 4 }
+    - { retired: Tjebu, replacement: Tjezu, layer: 4 }
+    - { retired: Ipu, replacement: Iqu, layer: 4 }
+    - { retired: Bakhu, replacement: Balqu, layer: 4, note: not Balghu; gh is inaudible }
+    - { retired: Anpet, replacement: Anzet, layer: 4 }
+    - { retired: Senmut, replacement: Linmut, layer: 4 }
+    - { retired: Ta-Djeser, replacement: Zu-Gezer, layer: 4 }
+    - { retired: Sile, replacement: Zileti, layer: 4 }
+    - { retired: Wasetkara, replacement: Galezkara, layer: 4 }
+    - { retired: Behdet, replacement: Belgen, layer: 4 }
+    - { retired: Sau, replacement: Gau, layer: 4 }
+    - { retired: Wawat, replacement: Wagaru, layer: 4 }
+    - { retired: Khemenu, replacement: Khelunu, layer: 4, note: the city; the order is Gethunu }
+    - { retired: Khensuret, replacement: Khelzuret, layer: 4, note: carries Khonsu }
+    - { retired: Taméresh, replacement: Zumélesh, layer: 4 }
+
+temple:
+    - { retired: hekau, replacement: lekhau, layer: 5 }
+    - { retired: sesh, replacement: zethu, layer: 5 }
+    - { retired: Duat, replacement: Zulaten, layer: 5 }
+    - { retired: Iteru, replacement: igelu, layer: 5 }
+    - { retired: netjer, replacement: nelgir, layer: 5 }
+    - { retired: hem, replacement: lem, layer: 5 }
+    - { retired: hâti, replacement: halzi, layer: 5 }
+    - { retired: Khemenu, replacement: Gethunu, layer: 5, note: the arcane order }
+    - { retired: Ámit, replacement: Álgit, layer: 5 }
+    - { retired: Sep Tepy, replacement: Qet Telgu, layer: 5 }
+    - { retired: Akhet, replacement: Azlet, layer: 5, note: the season }
+    - { retired: Peret, replacement: Gelet, layer: 5, note: the season }
+    - { retired: Shemu, replacement: Shelu, layer: 5, note: the season }
+    - { retired: shabti, replacement: zaglu, layer: 5 }
+    - { retired: nilometer, replacement: igelu-gauge, layer: 5, note: contains Nile }
+    - { retired: deben, replacement: gezan, layer: 5, note: weight unit }
+    - { retired: kite, replacement: qelu, layer: 5, note: weight unit }
+    - { retired: khar, replacement: lagar, layer: 5, note: weight unit }
+
+nameElements:
+    - { retired: ankh, replacement: anlagh, layer: 6 }
+    - { retired: neb, replacement: zab, layer: 6 }
+    - { retired: nefer, replacement: legir, layer: 6 }
+    - { retired: mer, replacement: amqel, layer: 6 }
+    - { retired: ka, replacement: gul, layer: 6 }
+    - { retired: bek, replacement: lem, layer: 6, merges: true }
+    - { retired: sat, replacement: gith, layer: 6 }
+    - { retired: hotep, replacement: legez, layer: 6 }
+    - { retired: sen, replacement: lin, layer: 6 }
+    - { retired: ken, replacement: quz, layer: 6 }
+    - { retired: akhet, replacement: anleth, layer: 6, note: the horizon, not the season }
+    - { retired: ba, replacement: zin, layer: 6 }
+    - { retired: djet, replacement: gez, layer: 6 }
+    - { retired: khent, replacement: qelt, layer: 6 }
+    - { retired: hat, replacement: qelt, layer: 6, merges: true }
+    - { retired: ren, replacement: reth, layer: 6 }
+    - { retired: wat, replacement: wal, layer: 6 }
+    - { retired: Nakhtar, replacement: Quztar, layer: 6, note: carries nakht }
+    - { retired: Nebmaatre, replacement: Zabqarrê, layer: 6, note: throne name of Amenhotep III }
+
+# Not defects. Listed so a sweep does not touch them and a reviewer does not ask.
+keep:
+    - nomarch is dropped rather than replaced; the holder is the Halzi'a
+    - vizier, hieroglyph, hieratic, natron, papyrus, pyramid, obelisk, mummification
+    - mastaba — narrator's English, ruled explicitly
+    - The Five Intercalary Days, Keeper of the Granaries, Warden of Seals, Reader of the Hours
+    - Scribe, Farmer, Bondsman, Artisan, Merchant, Outcast
