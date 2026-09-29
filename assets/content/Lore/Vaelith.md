@@ -27,7 +27,7 @@ The orbit's circularity keeps the tides regular—no month runs a stronger tide 
 
 ## The Five Days, Three Times Over
 
-Twelve lunations of thirty days come to 360 days. The solar year is 365. The five days left over are precisely the five days the [[lore-khzrnclndr|Khazryn]], the [[lore-khprclndr|Khelâthi]] and the Itzani each keep outside their twelve months—three peoples, three unrelated calendars, and one astronomical fact observed three times rather than three coincidences.
+Twelve lunations of thirty days come to 360 days. The solar year is 365. The five days left over are precisely the five days the [[lore-khzrnclndr|Khazryn]], the [[lore-khlthclndr|Khelâthi]] and the Itzani each keep outside their twelve months—three peoples, three unrelated calendars, and one astronomical fact observed three times rather than three coincidences.
 
 The same five-day remainder, carried across years instead of months, gives Thalorna a six-year lunar cycle. The moon's phase on any calendar date advances five days each year and returns to where it started after six. A new moon opens year 720; three years later, at the cycle's midpoint, the first day of spring falls under a full moon; three years after that, the cycle closes on a new moon again, on the first day of spring once more. Nobody had to design this. It falls out of a thirty-day moon turning against a 365-day year, and any people who watch the sky for six years running would notice it.
 
@@ -46,5 +46,5 @@ The **Court of the Nine Moons**, met in the dossier of [[being-mrtsbkhkmn|Meret-
 - [[place-worldthlrn|The World of Thalorna]]—the 365-day year Vaelith's cycle runs against
 - [[lore-commoncal|The Common Calendar]]—opens its year on the day Vaelith was last new
 - [[lore-khzrnclndr|The Khazryn Calendar]]—keeps five days outside its months, the same five the moon does not count
-- [[lore-khprclndr|The Khelâthi Calendar]]—keeps the same five days at its own year's end
+- [[lore-khlthclndr|The Khelâthi Calendar]]—keeps the same five days at its own year's end
 - [[affiliation-naliktzuqal|Faith of Nal'ik Tz'uqal]]—the goddess who shares Tz'uqal's name with the moon's Itzani word

@@ -17,7 +17,7 @@ data:
   occupation: Astrologer
   stations: []
   lore: [landedlordrnk]
-  culture: khepericlt
+  culture: khelathiclt
   homes: [takheperurgn]
   affiliations: [empirtkhpr]
   gender: male

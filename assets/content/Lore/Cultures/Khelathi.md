@@ -1,5 +1,5 @@
 ---
-shortcode: khepericlt
+shortcode: khelathiclt
 name: {full: Khelâthi, aliases: []}
 type: lore
 subType: culture

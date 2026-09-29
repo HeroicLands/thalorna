@@ -17,7 +17,7 @@ data:
   occupation: Musician (Lyre)
   stations: []
   lore: [commonerrnk]
-  culture: khepericlt
+  culture: khelathiclt
   homes: [takheperurgn]
   affiliations: [empirtkhpr]
   gender: male

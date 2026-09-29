@@ -1,5 +1,5 @@
 ---
-shortcode: khprclndr
+shortcode: khlthclndr
 name: {full: The Khelâthi Calendar, aliases: [Khelâthi Calendar]}
 type: lore
 subType: calendar
