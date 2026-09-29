@@ -3,7 +3,7 @@ shortcode: rnhrngsdtr
 name:
   full: Rúna Hringsdóttir
   title: ""
-  given: Hringsdóttir
+  given: Rúna
   clan: ""
   home: jarnhavn
   aliases: [the Shield-Maiden of Járnhavn]
