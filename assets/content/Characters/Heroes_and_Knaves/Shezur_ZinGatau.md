@@ -433,7 +433,7 @@ Shezur stands 6'3" tall with a heavy build. He has warm brown skin, very dark br
 
 # Dossier {#dossier}
 
-Shezur was born to the Zin'Gatau clan during the flooding season, third son of a metalworker's family. His father, [[being-zabmehtzingt|Zabmeht Zin'Gatau]], recognized early that young Shezur possessed the strength and focus required for the finest crafts. Rather than compete for inheritance, Shezur was apprenticed at age twelve to Master [[being-thaharqo2|Thaharqo]], keeper of the Imperial forge in [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]'s merchant quarter. For twenty-three years, he honed his art under Thaharqo's exacting eye, learning to shape metal and to understand its voice—when to strike, when to let fire breathe, when to cool with deliberate patience.
+Shezur was born to the Zin'Gatau clan during the flooding season, third son of a metalworker's family. His father, [[being-zabmehtzingt|Zabmeht Zin'Gatau]], recognized early that young Shezur possessed the strength and focus required for the finest crafts. Rather than compete for inheritance, Shezur was apprenticed at age twelve to Master [[being-thaharqo2|Thaharqo]], keeper of the Imperial forge in the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]'s merchant quarter. For twenty-three years, he honed his art under Thaharqo's exacting eye, learning to shape metal and to understand its voice—when to strike, when to let fire breathe, when to cool with deliberate patience.
 
 Upon his master's retirement, Shezur inherited the forge and established himself as the foremost supplier of functional weaponry to the Empire's military apparatus. His reputation spread quickly: soldiers entrusted their lives to Zin'Gatau blades and armor, knowing every piece had been tested and refined beyond simple adequacy. He married late at thirty-five, gaining two stepchildren from his union with [[being-megara|Megara]], a merchant's widow, though she passed seven years ago. Without heirs of his own blood, Shezur has begun mentoring promising apprentices, though he guards his knowledge jealously.
 
@@ -480,7 +480,7 @@ Shezur seeks to leave a legacy of excellence that will outlast his mortal years.
 
 - **Master Khelamose the Embellisher**: A rival craftsman who specializes in ornate, jeweled weapons intended for nobility. Khelamose publicly mocks Shezur's "crude militarism" and has twice attempted to undercut his prices at military auctions.
 - [[affiliation-linmlnqnwglz|Lin'Melnu-Qenuwa elu Galezkara]]: A merchant organization representing aesthetic craftspeople across the Empire. They view Shezur as an enemy of true artistry and have lobbied to exclude his work from noble exhibition halls.
-- Priest [[being-aqenmose2|Aqenmose]]: A mid-ranking cleric of Ptah (god of craftsmanship and architecture) who resents that Shezur worships Thubâ'i. Aqenmose has suggested that Shezur's "heretical practices" compromise his quality and spreads this falsehood among religious merchants.
+- Priest [[being-aqenmose2|Aqenmose]]: A mid-ranking cleric of Psaq'âru (god of craftsmanship and architecture) who resents that Shezur worships Thubâ'i. Aqenmose has suggested that Shezur's "heretical practices" compromise his quality and spreads this falsehood among religious merchants.
 
 ### Affiliations
 

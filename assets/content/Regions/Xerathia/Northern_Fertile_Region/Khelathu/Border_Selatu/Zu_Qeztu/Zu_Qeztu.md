@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Zu-Qeztu is the land of [[affiliation-selatzuqeztu|The Selat of Zu-Qeztu]], one of the [[affiliation-borderselatu|The Border Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+Zu-Qeztu is the land of the [[affiliation-selatzuqeztu|Selat of Zu-Qeztu]], one of the [[affiliation-borderselatu|Border Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 

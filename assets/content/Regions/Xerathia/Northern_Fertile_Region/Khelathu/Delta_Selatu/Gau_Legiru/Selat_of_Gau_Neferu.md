@@ -89,7 +89,7 @@ sohl: {system: {commonSkills: [khelthlnglng]}}
 
 ## Overview
 
-The Selat of Gau-Legiru holds the land of [[place-gaulegirunome|Gau-Legiru]]. It is also the prettiest country in the empire, and the merchant-princes of [[affiliation-selatgrnlght|The Selat of Gar-Anlaghet]] and the other ports keep their country villas here, so that the selat is at once a working farm-belt and the leisured retreat of the delta's rich. Its patron is [[affiliation-khelathpnthn|Khelâthi Pantheon]], goddess of fertility and abundance, fittingly enough for a land that exists to grow good things.
+The Selat of Gau-Legiru holds the land of [[place-gaulegirunome|Gau-Legiru]]. It is also the prettiest country in the empire, and the merchant-princes of the [[affiliation-selatgrnlght|Selat of Gar-Anlaghet]] and the other ports keep their country villas here, so that the selat is at once a working farm-belt and the leisured retreat of the delta's rich. Its patron is [[lore-uzneradty|Uznêra]], goddess of fertility and abundance, fittingly enough for a land that exists to grow good things.
 
 ## Character
 

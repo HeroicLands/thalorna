@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Wagaru is the capital of [[affiliation-selatwagaru|The Selat of Wagaru]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]]. It holds the selat's chief temple of [[affiliation-psaqaru|Faith of Psaq'âru]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's: the southern gold-road; mines, caravan-stations, and tribute-collection.
+Wagaru is the capital of the [[affiliation-selatwagaru|Selat of Wagaru]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]]. It holds the selat's chief temple of [[affiliation-psaqaru|Faith of Psaq'âru]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's: the southern gold-road; mines, caravan-stations, and tribute-collection.
 
 ## See Also
 

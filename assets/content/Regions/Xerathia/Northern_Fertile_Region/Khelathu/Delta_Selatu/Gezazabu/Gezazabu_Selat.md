@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Gezazabu Selat is the land of [[affiliation-selatgezazab|The Selat of Gezazabu]], one of the [[affiliation-deltaselatu|The Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+Gezazabu Selat is the land of the [[affiliation-selatgezazab|Selat of Gezazabu]], one of the [[affiliation-deltaselatu|Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 

@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Iqeru Selat is the land of [[affiliation-selatiqeru|The Selat of Iqeru]], one of the [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+Iqeru Selat is the land of the [[affiliation-selatiqeru|Selat of Iqeru]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 

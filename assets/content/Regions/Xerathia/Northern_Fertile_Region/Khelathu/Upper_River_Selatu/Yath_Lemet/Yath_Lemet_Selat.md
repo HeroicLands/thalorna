@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Yath-Lemet Selat is the land of [[affiliation-selatyathlmt|The Selat of Yath-Lemet]], one of the [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+Yath-Lemet Selat is the land of the [[affiliation-selatyathlmt|Selat of Yath-Lemet]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 

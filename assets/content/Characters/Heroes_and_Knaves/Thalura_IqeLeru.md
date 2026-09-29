@@ -501,7 +501,7 @@ She is not a warrior, and her moderate strength and endurance mean she is entire
 
 ### Patrons
 
-- Thâz'Lekhau [[being-etheritzrkh2|Etherita Zarukhét]]: The former Thâz'Lekhau of Qe'âret in the capital, now too frail to conduct the great rites, who elevated Thalura as her successor. Sarukhét retains enormous informal influence within the order and relies on Thalura to maintain the temple's political standing at court. She senses the contradictions that gnaw at her protégé—she knows what it costs to speak for a goddess of truth when truth has become a political instrument—and this troubles her deeply, though she has never spoken of it directly. Sarukhét navigated the same tensions in her own career, and she is not certain that Thalura will find a resolution she could not.
+- Thâz'Lekhau [[being-etheritzrkh2|Etherita Zarukhét]]: The former Thâz'Lekhau of Qe'âret in the capital, now too frail to conduct the great rites, who elevated Thalura as her successor. Zarukhét retains enormous informal influence within the order and relies on Thalura to maintain the temple's political standing at court. She senses the contradictions that gnaw at her protégé—she knows what it costs to speak for a goddess of truth when truth has become a political instrument—and this troubles her deeply, though she has never spoken of it directly. Zarukhét navigated the same tensions in her own career, and she is not certain that Thalura will find a resolution she could not.
 
 - [[being-garaumeqesxv|Gar-Aû Meqes XVI]]: The reigning Gar-Aû depends on Thalura's judicial auguries and her ability to read the Genzet'Palu's shifting loyalties. He views her as a necessary counterbalance to the more aggressive faction leaders within the court and the high priests of rival temples.
 

@@ -97,7 +97,7 @@ Trade is central to Dunhari life. The tribes control the overland routes that ru
 
 ## Commerce and Currency
 
-Dunhara Tribes operates almost entirely on [[lore-bartercnmy|barter]] and [[lore-kinhalcrdt|tribal credit]] customs. The pastoral economy of the Dunhara has not monetized; goods, livestock, and kin-obligation handle the bulk of commerce. Foreign coin (Vylarian Argo from western trade, Ta'Khelâthi deben pieces from southern trade) occasionally enters tribal hands through caravan exchange and is valued as a money-good (intrinsic-metal value) rather than as currency in the formal sense.
+Dunhara Tribes operates almost entirely on [[lore-bartercnmy|barter]] and [[lore-kinhalcrdt|tribal credit]] customs. The pastoral economy of the Dunhara has not monetized; goods, livestock, and kin-obligation handle the bulk of commerce. Foreign coin (Vylarian Argo from western trade, Khelâthi gezan pieces from southern trade) occasionally enters tribal hands through caravan exchange and is valued as a money-good (intrinsic-metal value) rather than as currency in the formal sense.
 
 ## See Also
 

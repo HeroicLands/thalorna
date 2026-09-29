@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Tjathu Selat is the land of [[affiliation-selattjathu|The Selat of Tjathu]], one of the [[affiliation-deltaselatu|The Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+Tjathu Selat is the land of the [[affiliation-selattjathu|Selat of Tjathu]], one of the [[affiliation-deltaselatu|Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 

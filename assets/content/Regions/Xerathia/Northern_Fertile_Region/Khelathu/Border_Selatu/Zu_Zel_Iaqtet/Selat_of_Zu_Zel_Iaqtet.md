@@ -89,7 +89,7 @@ sohl: {system: {commonSkills: [khelthlnglng]}}
 
 ## Overview
 
-The Selat of Zu-Zel-Iaqtet holds the land of [[place-zuzeliaqtetnome|Zu-Zel-Iaqtet]]. It is a [[affiliation-borderselatu|The Border Selatu]] in the fullest sense—thinly peopled, harsh, and held by a soldier-[[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who is as much a military governor as a lord, charged with guarding the mines, the smelter-towns, and the long desert quarry-roads against the raiders of the eastern wastes. Its patron is [[affiliation-khelathpnthn|Khelâthi Pantheon]], god of craft and the working of metal and stone, worshipped here by miners and smiths with a directness the soft valley cults lack.
+The Selat of Zu-Zel-Iaqtet holds the land of [[place-zuzeliaqtetnome|Zu-Zel-Iaqtet]]. It is a [[affiliation-borderselatu|Border Selatu]] in the fullest sense—thinly peopled, harsh, and held by a soldier-[[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who is as much a military governor as a lord, charged with guarding the mines, the smelter-towns, and the long desert quarry-roads against the raiders of the eastern wastes. Its patron is [[lore-psaqarudty|Psaq'âru]], god of craft and the working of metal and stone, worshipped here by miners and smiths with a directness the soft valley cults lack.
 
 ## Character
 

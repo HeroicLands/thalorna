@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Lut-Getha-Zalu is the land of [[affiliation-selatltgthzl|The Selat of Lut-Getha-Zalu]], one of the [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+Lut-Getha-Zalu is the land of the [[affiliation-selatltgthzl|Selat of Lut-Getha-Zalu]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 

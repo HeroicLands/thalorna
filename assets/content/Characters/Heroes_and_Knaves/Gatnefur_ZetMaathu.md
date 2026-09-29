@@ -444,7 +444,7 @@ At twenty-two years of age, Gatnefur achieved his first true triumph: a fragranc
 
 **Current Mastery**
 
-Now at the height of his powers, Gatnefur operates one of the most fashionable perfumeries in all of [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]. His workshop is part laboratory, part alchemical chamber—filled with hundreds of glass vessels containing exotic ingredients from across the known world: oils from the deep forests of the southern kingdoms, resins from the highest mountain peaks, rare flowers that bloom only once per lunar cycle, even compounds he has extracted from gems and minerals. His clientele extends beyond nobles to include merchants, priests, and adventurers seeking a scent that will mark them out. His creations are considered transformative, capable of altering mood and perception through the power of scent alone.
+Now at the height of his powers, Gatnefur operates one of the most fashionable perfumeries in all of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]. His workshop is part laboratory, part alchemical chamber—filled with hundreds of glass vessels containing exotic ingredients from across the known world: oils from the deep forests of the southern kingdoms, resins from the highest mountain peaks, rare flowers that bloom only once per lunar cycle, even compounds he has extracted from gems and minerals. His clientele extends beyond nobles to include merchants, priests, and adventurers seeking a scent that will mark them out. His creations are considered transformative, capable of altering mood and perception through the power of scent alone.
 
 ## Psyche
 

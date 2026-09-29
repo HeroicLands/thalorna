@@ -148,7 +148,7 @@ Most chapters are led by a Praelatus, who serves as both the chapter's internal 
 
 At the heart of the Ordo's arcane philosophy is the **Héx Hodäi**—the Six Ways—a classification of all magical phenomena into six fundamental schools. This framework was developed over centuries of research and debate, and it represents the Ordo's deepest understanding of the nature of magic itself.
 
-The six schools are arranged in a hexagonal diagram (the [[lore-hexhodai|The Sigillum]], or Seal):
+The six schools are arranged in a hexagonal diagram (the [[lore-hexhodai|Sigillum]], or Seal):
 
 - [[affiliation-pyrethos|Pyréthos]] (Fire)—the magic of heat, light, energy, and transformation through destruction
 - [[affiliation-hydalis|Hydälis]] (Water)—the magic of cold, flow, healing, and transformation through adaptation
@@ -312,7 +312,7 @@ The internal debate within the Ordo reflects this tension. Traditionalists cling
 
 ## The Ordo and the Tamzîr
 
-The Ordo's pursuit of the fugitive siblings aboard the [[affiliation-thetamzir|The Tamzîr]] illustrates the Order's methods at their most relentless. The sister—a damaged arcane prodigy—was the subject of Ordo experimentation, and her escape represents both a security breach (she knows things the Ordo would prefer remained secret) and an affront to the Order's authority (she is an extremely powerful unsanctioned practitioner operating beyond their control).
+The Ordo's pursuit of the fugitive siblings aboard the [[affiliation-thetamzir|Tamzîr]] illustrates the Order's methods at their most relentless. The sister—a damaged arcane prodigy—was the subject of Ordo experimentation, and her escape represents both a security breach (she knows things the Ordo would prefer remained secret) and an affront to the Order's authority (she is an extremely powerful unsanctioned practitioner operating beyond their control).
 
 The Ordo hunts the siblings through its preferred channels: Vylarian imperial agents, [[affiliation-auricompct|guild]] contacts in Haradian ports, Quaesitorium investigators, and hired bounty hunters. The Order's approach is patient and methodical—they do not need to catch the Tamzîr today; they simply need to ensure that the crew can never stop running.
 

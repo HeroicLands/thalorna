@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Linmut is the capital of [[affiliation-selatlinmut|The Selat of Linmut]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]]. It holds the selat's chief temple of [[affiliation-wethur|Faith of Wethûr]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's: A river-island fortress-selat at the second cataract; gateway and toll-gate.
+Linmut is the capital of the [[affiliation-selatlinmut|Selat of Linmut]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]]. It holds the selat's chief temple of [[affiliation-wethur|Faith of Wethûr]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's: A river-island fortress-selat at the second cataract; gateway and toll-gate.
 
 ## See Also
 

@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Belgen-Zalu is the land of [[affiliation-selatbelgnzl|The Selat of Belgen-Zalu]], one of the [[affiliation-borderselatu|The Border Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+Belgen-Zalu is the land of the [[affiliation-selatbelgnzl|Selat of Belgen-Zalu]], one of the [[affiliation-borderselatu|Border Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 

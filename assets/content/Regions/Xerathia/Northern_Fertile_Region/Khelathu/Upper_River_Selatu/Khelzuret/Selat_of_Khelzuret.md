@@ -89,7 +89,7 @@ sohl: {system: {commonSkills: [khelthlnglng]}}
 
 ## Overview
 
-Khelzuret is the great mortuary selat of the [[affiliation-upperrivrslt|The Upper River Selatu]]—the place where [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] tends its dead. The empire's largest pilgrimage flows here, for to be buried in the sacred ground of Khelzuret—or merely to make the journey and lay an offering—is held to weigh favorably when the heart is set against the feather of [[affiliation-khelathpnthn|Khelâthi Pantheon]]. The selat is not large or rich in the worldly sense, but in the economy of the afterlife it is the capital of the world. The land it holds is [[place-khelzuretslt|Khelzuret Selat]].
+Khelzuret is the great mortuary selat of the [[affiliation-upperrivrslt|Upper River Selatu]]—the place where [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] tends its dead. The empire's largest pilgrimage flows here, for to be buried in the sacred ground of Khelzuret—or merely to make the journey and lay an offering—is held to weigh favorably when the heart is set against the feather of [[lore-qearetdty|Qe'âret]]. The selat is not large or rich in the worldly sense, but in the economy of the afterlife it is the capital of the world. The land it holds is [[place-khelzuretslt|Khelzuret Selat]].
 
 ## Character
 

@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Qelt-Len-Legir is the land of [[affiliation-seltqltlnlgr|The Selat of Qelt-Len-Legir]], one of the [[affiliation-borderselatu|The Border Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+Qelt-Len-Legir is the land of the [[affiliation-seltqltlnlgr|Selat of Qelt-Len-Legir]], one of the [[affiliation-borderselatu|Border Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 

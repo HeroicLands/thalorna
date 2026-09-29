@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Lut-Tjelsuk Selat is the land of [[affiliation-selatlttjlsk|The Selat of Lut-Tjelsuk]], one of the [[affiliation-deltaselatu|The Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+Lut-Tjelsuk Selat is the land of the [[affiliation-selatlttjlsk|Selat of Lut-Tjelsuk]], one of the [[affiliation-deltaselatu|Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 

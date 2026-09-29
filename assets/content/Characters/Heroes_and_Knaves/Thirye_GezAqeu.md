@@ -428,7 +428,7 @@ Thirye stands 5'4" tall with a light build. She has dark skin, black hair, and b
 
 ### The Daughter of Performance
 
-Born in 691 in one of [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]'s greatest theatrical centers, Thirye was practically delivered upon a stage—her parents were both established performers in the grand tradition of Khelâthi theater, known for their emotional intensity and interpretive brilliance. From infancy, she was surrounded by rehearsals, costuming, and the intoxicating atmosphere of artistic creation. Rather than a conventional education, she received training in movement, voice, character work, and the elaborate mythology of the Khelâthi Pantheon from the finest theatrical masters in the empire. Her dragonfly tattoo, received at the age of thirteen during a mystical retreat, marked her formal dedication to the art and her spiritual commitment to the goddess of transformation.
+Born in 691 in one of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]'s greatest theatrical centers, Thirye was practically delivered upon a stage—her parents were both established performers in the grand tradition of Khelâthi theater, known for their emotional intensity and interpretive brilliance. From infancy, she was surrounded by rehearsals, costuming, and the intoxicating atmosphere of artistic creation. Rather than a conventional education, she received training in movement, voice, character work, and the elaborate mythology of the Khelâthi Pantheon from the finest theatrical masters in the empire. Her dragonfly tattoo, received at the age of thirteen during a mystical retreat, marked her formal dedication to the art and her spiritual commitment to the goddess of transformation.
 
 ### The Rising Star
 

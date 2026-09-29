@@ -144,6 +144,7 @@ temple:
     - { retired: nilometer, replacement: igelu-gauge, layer: 5, note: contains Nile }
     - { retired: deben, replacement: gezan, layer: 5, note: weight unit }
     - { retired: kite, replacement: qelu, layer: 5, note: weight unit }
+    - { retired: qedét, replacement: qezelet, layer: 5, note: the formal form of qelu }
     - { retired: khar, replacement: lagar, layer: 5, note: weight unit }
 
 # The eighteen elements that build the six name lists. They are generators

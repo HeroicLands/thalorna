@@ -3,7 +3,7 @@ shortcode: khelthlnglng
 name: {full: Khelâthi Language, aliases: []}
 type: skill
 subType: language
-description: "The ancient speech of Aû'Khelâthu, bound to ritual and sorcery, written in hieroglyph for priests and in demotic for everyone else."
+description: "The ancient speech of Aû'Khelâthu, bound to ritual and sorcery, written in the sacred hand for priests and the people's hand for everyone else."
 tags: []
 data: {banner: khelathubnr, icon: icon-speaking, templatePriority: null, packFolder: regkhskl}
 sohl:
@@ -21,7 +21,7 @@ Khelâthi is a tongue of the Khelâthi (isolate) family. Fluency measures the so
 
 ## Overview
 
-Khelâthi is the ancient and sacred tongue of [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], the monumental empire spanning the southern reaches of the [[place-xerathia|Xerathia]] continent. For over three millennia, Khelâthi has served as the language of state, ritual, and sacred knowledge—deeply intertwined with the religious and magical traditions that form the bedrock of Khelâthi civilization. Even as vernacular speech has evolved, the written and ritual languages remain largely frozen in their classical forms, creating a diglossia between the formal religious register and the spoken dialects of common life.
+Khelâthi is the ancient and sacred tongue of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], the monumental empire spanning the southern reaches of the [[place-xerathia|Xerathia]] continent. For over three millennia, Khelâthi has served as the language of state, ritual, and sacred knowledge—deeply intertwined with the religious and magical traditions that form the bedrock of Khelâthi civilization. Even as vernacular speech has evolved, the written and ritual languages remain largely frozen in their classical forms, creating a diglossia between the formal religious register and the spoken dialects of common life.
 
 Khelâthi is spoken by an estimated 8-12 million people across the Khelâthi Empire and its trading colonies. It is also the liturgical tongue of several mystery cults and esoteric orders, giving it prestige and mystical authority far beyond its geographic boundaries.
 
@@ -99,17 +99,17 @@ Khelâthi follows a **Verb-Subject-Object (VSO)** order in narrative clauses, th
 
 ## Script & Literacy
 
-Khelâthi is written in two hands, and the division between them is one of trade rather than of style. The sacred hand belongs to the temple and the tomb; the demotic hand belongs to the counting-house, the tax roll and the contract. A scribe is trained into one of them, and training in one does not confer the other, so a priest who follows a mortuary text without effort may be unable to read a harbour manifest, and the clerk who wrote the manifest cannot read the wall behind him. A temple record and a tax record are therefore two separate errands, each needing a reader of its own, and whether a Khelâthi is literate is the wrong question to ask of him: the question is which hand he was taught.
+Khelâthi is written in two hands, and the division between them is one of trade rather than of style. The sacred hand belongs to the temple and the tomb; the people's hand belongs to the counting-house, the tax roll and the contract. A scribe is trained into one of them, and training in one does not confer the other, so a priest who follows a mortuary text without effort may be unable to read a harbour manifest, and the clerk who wrote the manifest cannot read the wall behind him. A temple record and a tax record are therefore two separate errands, each needing a reader of its own, and whether a Khelâthi is literate is the wrong question to ask of him: the question is which hand he was taught.
 
 **Sacred Script ([[skill-khelthzscrpt|Khelâthi-zethu Script]]):** The original writing system employs a mixed inventory of logograms (representing whole words), phonetic signs (representing consonant clusters), and determinatives (clarifying semantic fields). Approximately 700 distinct signs are recognized by trained scribes, though only 200-300 are commonly used. This system is reserved for temple walls, royal monuments, and sacred texts; its complexity ensures that literacy remains the province of a trained priesthood.
 
-**Demotic Script ([[skill-qalzscrscrpt|Qalezu Script]]):** A rapidly-written cursive adaptation emerged around 800 years ago for administrative and mercantile purposes, reducing the sign inventory to roughly 100 characters and introducing ligatures for common sequences. Demotic writing is significantly faster and is taught to scribes, tax officials, and merchants.
+**People's Script ([[skill-qalzscrscrpt|Qalezu Script]]):** A rapidly-written cursive adaptation emerged around 800 years ago for administrative and mercantile purposes, reducing the sign inventory to roughly 100 characters and introducing ligatures for common sequences. Qalezu writing is significantly faster and is taught to scribes, tax officials, and merchants.
 
 **Modern Simplifications:** In recent centuries, some merchants and scholars have experimented with an even more streamlined "mercantile hand," approaching the status of a true alphabet with 24-30 signs per some reformers.
 
 **Vowels and Foreign Spellings:** Neither hand records vowels. The phonetic signs carry consonants, and a reader supplies the vowels out of the word he already knows. The spellings other tongues give to Khelâthi words are transliterations written in the [[skill-semrnscrpt|Sêmarion]], and the vowels a foreigner reads in one of them are a convenience his own scholars supply where the Khelâthi scripts write nothing at all. A Khelâthi says his name in the three vowels the language has; a foreigner writes it in the letters his own alphabet gives him, and the two need not agree.
 
-**Literacy:** Formal training in sacred Khelâthi script is restricted to the priesthood, royal scribes, and members of the esoteric orders. Among the nobility, perhaps 20-35% can read the demotic script, and a smaller number the sacred form. Professional scribes handle all written communication for the rest of the population; even guildsmen and merchants rely entirely on scribes for contracts and records. The gulf between the literate few and the non-literate majority is steep and has become a marker of social prestige and magical authority.
+**Literacy:** Formal training in sacred Khelâthi script is restricted to the priesthood, royal scribes, and members of the esoteric orders. Among the nobility, perhaps 20-35% can read the Qalezu script, and a smaller number the sacred form. Professional scribes handle all written communication for the rest of the population; even guildsmen and merchants rely entirely on scribes for contracts and records. The gulf between the literate few and the non-literate majority is steep and has become a marker of social prestige and magical authority.
 
 ## Historical Development
 
@@ -121,9 +121,9 @@ Khelâthi is an isolate language with no widely-accepted external relatives. Its
 
 The standardization of Classical Khelâthi occurred during the early dynasties of the Khelâthi Empire, roughly 2,300 years before present. This period saw the composition of the great temple inscriptions, the codification of ritual languages, and the establishment of scribal schools that have persisted to the present day. The language of this period—frozen in written form—remains the prestige register.
 
-### Development of Demotic
+### Development of the People's Hand
 
-Around 800 years ago, the widening gap between the laborious sacred script and the practical needs of administration led to the development of Demotic Khelâthi. While structurally identical to Classical Khelâthi, Demotic represents an orthographic reform rather than a linguistic one. However, its rapid adoption by the merchant class and administrative bureaucracies has gradually introduced vernacular features into what is written, accelerating the divergence between formal and colloquial speech.
+Around 800 years ago, the widening gap between the laborious sacred script and the practical needs of administration led to the development of Qalezu Khelâthi. While structurally identical to Classical Khelâthi, Qalezu represents an orthographic reform rather than a linguistic one. However, its rapid adoption by the merchant class and administrative bureaucracies has gradually introduced vernacular features into what is written, accelerating the divergence between formal and colloquial speech.
 
 ### Modern Divergence
 
@@ -172,7 +172,7 @@ The particles are _elu_ (of, upon), _ezu_ (in), _ez_ (to, toward) and _agu_
 
 ## Learned Vocabulary
 
-Two Khelâthi words are the learned world's names for the undead, taken from the funerary texts of [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] by every scholarly tradition that copied them; see [[lore-undead|Undead]] for their use.
+Two Khelâthi words are the learned world's names for the undead, taken from the funerary texts of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] by every scholarly tradition that copied them; see [[lore-undead|Undead]] for their use.
 
 - **ṭerebu**—root _ṭ-r-b_, to wear, to cloak: _the cloaked one_, the sentient undead ([[being-tereb|tereb]]). Invariant in number: one _ṭerebu_, many _ṭerebu_.
 - **ḍumaṭu**—root _ḍ-m-ṭ_, to drive, to goad: _the driven one_, the mindless undead ([[being-damut|damut]]). Invariant in number: one _ḍumaṭu_, many _ḍumaṭu_.
@@ -297,6 +297,13 @@ only then as the collectors; _lagar_ is a measure of grain, so the merchants who
 deal only in volume are _Lagaru_ whatever they think of the name. _zaglu_ is the
 funerary figure, which is why the toymakers carry it and why the trade is
 thought slightly unlucky.
+
+**The temple keeps an older word for some things the market also names.** A
+tenth of a _gezan_ is a _qelu_ in the street and a _qezelet_ on an attestation,
+and the two are the same weight of metal; which one a document uses says who
+drew it up. The formal register is not a separate vocabulary but a handful of
+such doublets, kept because the temples attest the weights and write their
+records in the sacred hand.
 
 **Foreigners keep their own word and put it after.** A Vylarian factor writes
 _Lin'Zethu elu Aû'Khelâthu_ in a contract and says "the Scribes' Guild" in the

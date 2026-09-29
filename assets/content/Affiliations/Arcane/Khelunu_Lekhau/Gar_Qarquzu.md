@@ -45,7 +45,7 @@ data:
       Keeper of the Standing Forms: >-
         Holds the House's authoritative copies of the binding formulae, against which any inscription in dispute is checked.
       Warden of Seals: >-
-        Tjaq'ûru and certifies the seals on tombs, treasuries and archives, and is answerable if one is found to have been bluff.
+        Sets and certifies the seals on tombs, treasuries and archives, and is answerable if one is found to have been bluff.
   seat: null
   domains: []
   population: null

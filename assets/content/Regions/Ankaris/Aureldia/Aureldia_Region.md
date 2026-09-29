@@ -22,7 +22,7 @@ Aurèldía is a region bound by faith. It is the western heartland of the [[affi
 
 Aurèldía occupies the western third of Ankaris, stretching from the pine forests that mark its border with the [[place-nrdlndsrgn|Nordlands]] in the north, down to the [[place-vylarianse|Vylarian Sea]] where [[place-provenzrgn|Provènzia Region]] and [[place-tarvenirgn|Tarvénia Region]] touch the waters of [[place-midhalnrgn|Mídhalión]]. The western coast faces the open ocean and is broken by the great island of [[place-aelwyth|Aelwyth]]—the Misty Isle—and the smaller port-island of [[affiliation-calypsa|Calypsa]] lying just off the Élavendri shore.
 
-The terrain is remarkably varied. Élavendre's rolling plains and silver-birch forests give way inland to the [[place-drenavrspn|The Drenavar Spine]], a natural divide between the Aurèldían core and the interior regions. The [[place-silvrfrsts|The Silver Forests]] are famous for a near-supernatural luminance at dawn and dusk—a landscape so distinctive that Aurèldían painting, tapestry, and song return to it again and again. Further south, Tarvénia's mountain kingdoms tumble down to the Vylarian coast, while Provènzia's coastal plains, hills, and river valleys produce some of the finest wine, glass, and illuminated work in all of Thalorna.
+The terrain is remarkably varied. Élavendre's rolling plains and silver-birch forests give way inland to the [[place-drenavrspn|Drenavar Spine]], a natural divide between the Aurèldían core and the interior regions. The [[place-silvrfrsts|Silver Forests]] are famous for a near-supernatural luminance at dawn and dusk—a landscape so distinctive that Aurèldían painting, tapestry, and song return to it again and again. Further south, Tarvénia's mountain kingdoms tumble down to the Vylarian coast, while Provènzia's coastal plains, hills, and river valleys produce some of the finest wine, glass, and illuminated work in all of Thalorna.
 
 Climate varies correspondingly: cool and rain-washed in the north and west, temperate through the central heartlands, and warm and dry along the southern coast. The region's many rivers—flowing both westward to the open ocean and southward to the [[place-vylarianse|Vylarian Sea]]—have long served as the arteries of Aurèldían trade.
 
@@ -71,7 +71,7 @@ The major powers of the region are:
 - [[place-tarvenirgn|Tarvénia Region]]—The peninsular patchwork of four kingdoms and two free territories.
 - [[place-provenzrgn|Provènzia Region]]—The [[affiliation-kngdmprvnz|Kingdom of Provènzia]] and its constellation of cultured cities ([[place-belporte|Belpòrte]], [[place-monverdre|Monvèrdre]], [[place-valcerise|Valcèrise]], [[place-aureliane|Aurèliane]], [[place-chastelclr|Chastèlclair]], [[place-fiordaure|Fiòrdaure]], [[place-lunacorte|Lunacòrte]]).
 
-The [[affiliation-ordoarcanis|Ordo Arcanis]] maintains chapters across most Aurèldían polities, asserting its claim to oversee all arcane practice—a claim honored in breach as often as in observance. Élavendre's independent magical traditions (the [[lore-faecourts|The Fae Courts]], the Bardic Colleges, the [[place-silvrfrsts|The Silver Forests]] mysteries) chafe constantly against Ordo authority, and the Aelwythan druidic survivals have never truly accepted Ordo oversight at all. The result is a magical culture that is broadly licensed under Ordo rules on paper and riddled with regional exceptions in practice.
+The [[affiliation-ordoarcanis|Ordo Arcanis]] maintains chapters across most Aurèldían polities, asserting its claim to oversee all arcane practice—a claim honored in breach as often as in observance. Élavendre's independent magical traditions (the [[lore-faecourts|Fae Courts]], the Bardic Colleges, the [[place-silvrfrsts|Silver Forests]] mysteries) chafe constantly against Ordo authority, and the Aelwythan druidic survivals have never truly accepted Ordo oversight at all. The result is a magical culture that is broadly licensed under Ordo rules on paper and riddled with regional exceptions in practice.
 
 ## Trade
 
@@ -85,7 +85,7 @@ To the **north**, the [[place-nrdlndsrgn|Nordlands]] press against Aurèldía ac
 
 To the **southeast**, [[place-midhalnrgn|Mídhalión]] is at once Aurèldía's great trading partner and its great cultural rival. The two regions share the Aurèldían faith but diverge sharply on everything else—governance, aesthetics, law, and the nature of empire. [[place-provenzrgn|Provènzia Region]] and [[place-tarvenirgn|Tarvénia Region]] straddle the boundary between the two regions culturally and, in Provènzia's case, formally: Provènzia belongs to both Aurèldía and Mídhalión, the living seam between them.
 
-To the **east**, beyond the [[place-drenavrspn|The Drenavar Spine]], lie the interior regions of Ankaris. Contact is thinner and filtered through mountain passes, and the interior peoples view Aurèldía as distant and slightly unreal—a land of cathedrals and bards on the far side of the mountains.
+To the **east**, beyond the [[place-drenavrspn|Drenavar Spine]], lie the interior regions of Ankaris. Contact is thinner and filtered through mountain passes, and the interior peoples view Aurèldía as distant and slightly unreal—a land of cathedrals and bards on the far side of the mountains.
 
 ## Reckoning
 

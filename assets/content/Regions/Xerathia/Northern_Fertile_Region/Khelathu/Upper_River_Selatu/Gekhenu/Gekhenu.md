@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Gekhenu is the capital of [[affiliation-selatgekhenu|The Selat of Gekhenu]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]]. It holds the selat's chief temple of [[affiliation-rethsaar|Faith of Reth'Sa'âr]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's: library-temples and astronomers; the calendar-keepers of the middle river.
+Gekhenu is the capital of the [[affiliation-selatgekhenu|Selat of Gekhenu]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]]. It holds the selat's chief temple of [[affiliation-rethsaar|Faith of Reth'Sa'âr]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's: library-temples and astronomers; the calendar-keepers of the middle river.
 
 ## See Also
 

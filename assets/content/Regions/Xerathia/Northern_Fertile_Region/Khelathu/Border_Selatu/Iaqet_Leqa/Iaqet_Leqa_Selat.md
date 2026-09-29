@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Iaqet-Leqa Selat is the land of [[affiliation-selatiaqetlq|The Selat of Iaqet-Leqa]], one of the [[affiliation-borderselatu|The Border Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+Iaqet-Leqa Selat is the land of the [[affiliation-selatiaqetlq|Selat of Iaqet-Leqa]], one of the [[affiliation-borderselatu|Border Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 

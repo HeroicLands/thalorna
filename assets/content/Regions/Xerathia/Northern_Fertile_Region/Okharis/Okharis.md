@@ -84,7 +84,7 @@ sohl: {system: {commonSkills: [okharclng]}}
 
 ## Overview
 
-Okháris occupies the southern edge of the [[place-xerathia|Northern Fertile Region]]—a position that makes its membership in the region nominal rather than geographic. South of the [[affiliation-mtrrchybth|Matriarchy of Bethua]], southwest of [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and bounded on the south by the impassable [[place-cntrlrnfrsts|Central Rainforests]], Okháris is a semi-arid kingdom of grasslands, seasonal rivers, and three great temple-cities. Where its wealthier northern neighbors built civilization on aqueducts and irrigation, Okháris built it on the herds.
+Okháris occupies the southern edge of the [[place-xerathia|Northern Fertile Region]]—a position that makes its membership in the region nominal rather than geographic. South of the [[affiliation-mtrrchybth|Matriarchy of Bethua]], southwest of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and bounded on the south by the impassable [[place-cntrlrnfrsts|Central Rainforests]], Okháris is a semi-arid kingdom of grasslands, seasonal rivers, and three great temple-cities. Where its wealthier northern neighbors built civilization on aqueducts and irrigation, Okháris built it on the herds.
 
 ## Geography
 
@@ -120,4 +120,4 @@ Demi-gods, tied to specific aspects of life (e.g., fertility, storms, or death),
 
 ## Commerce and Currency
 
-Okháris uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]]—temple-attested weight-pieces of copper, silver, and gold in deben and kite units. Okháris has no native coinage; the Khelâthi pieces serve as the standard medium of exchange. Credit and large-value commerce flow through the [[affiliation-crwntrdskhrs|crown-chartered trades]], whose Crown Moneylenders maintain correspondent accounts with [[affiliation-garhalzi|Gár-Hálzi]] chapters and issue letters of credit redeemable through those accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full monetary system and [[affiliation-crwntrdskhrs|The Crown Trades of Okháris]] for the Okhárian institutional arrangements.
+Okháris uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]]—temple-attested weight-pieces of copper, silver, and gold in gezan and qelu units. Okháris has no native coinage; the Khelâthi pieces serve as the standard medium of exchange. Credit and large-value commerce flow through the [[affiliation-crwntrdskhrs|crown-chartered trades]], whose Crown Moneylenders maintain correspondent accounts with [[affiliation-garhalzi|Gár-Hálzi]] chapters and issue letters of credit redeemable through those accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full monetary system and [[affiliation-crwntrdskhrs|The Crown Trades of Okháris]] for the Okhárian institutional arrangements.

@@ -3,7 +3,7 @@ shortcode: khelathpnthn
 name: {full: Khelâthi Pantheon, aliases: [The Twelve of the River]}
 type: affiliation
 subType: faithtradition
-description: "Ancient faith of Aû'Khelâthu built on the Weighing of the Heart, the annual flood's cycle of renewal, and the divine authority of the pharaonic line."
+description: "Ancient faith of Aû'Khelâthu built on the Weighing of the Heart, the annual flood's cycle of renewal, and the divine authority of the Gar-Aû's line."
 tags: [pantheon, khelathi, religion]
 data:
   banner: pantheonbnr
@@ -45,7 +45,7 @@ data:
         title: Gar-Aû
         lore: sovereignrnk
         description: >-
-          Nominal supreme priest of every god, standing above the three ranks of every temple at once, and the foundation of all temple authority. In practice religious authority is delegated entirely, but the theological fiction matters: every Thâz'Lekhau serves at the Gar-Aû's pleasure, and a Gar-Aû who wished to replace one would have doctrinal justification. Few have tried; fewer have succeeded. The traffic runs the other way at least as often—when a dynasty weakens it is frequently the priesthood that orchestrates the succession, and the Thâz'Lekhau of Uqa'â have deposed or elevated more Gar-Aûu than any army.
+          Nominal supreme priest of every god, standing above the three ranks of every temple at once, and the foundation of all temple authority. In practice religious authority is delegated entirely, but the theological fiction matters: every Thâz'Lekhau serves at the Gar-Aû's pleasure, and a Gar-Aû who wished to replace one would have doctrinal justification. Few have tried; fewer have succeeded. The traffic runs the other way at least as often—when a dynasty weakens it is frequently the priesthood that orchestrates the succession, and the Thâz'Lekhau of Uqa'â has deposed or elevated more Gar-Aûu than any army.
     offices:
       Gar-Aû: >-
         The throne, holding the nominal high priesthood of every god simultaneously.
@@ -76,7 +76,7 @@ sohl: {system: {commonSkills: []}}
 
 **Pronunciation**: _Keh-MEH-tee-ahn_
 
-The Khelâthi pantheon is the religious tradition of [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], the oldest continuously existing civilization in [[place-worldthlrn|Thalorna]]. The pantheon comprises twelve deities, each governing a fundamental aspect of existence—the same twelve domains found in the [[affiliation-arldnpnthn|Aurèldían Pantheon]] of western [[place-ankrscntnnt|Ankaris Continent]], though the Khelâthi would note, with characteristic equanimity, that their gods were ancient before the Aurèldían names were spoken.
+The Khelâthi pantheon is the religious tradition of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], the oldest continuously existing civilization in [[place-worldthlrn|Thalorna]]. The pantheon comprises twelve deities, each governing a fundamental aspect of existence—the same twelve domains found in the [[affiliation-arldnpnthn|Aurèldían Pantheon]] of western [[place-ankrscntnnt|Ankaris Continent]], though the Khelâthi would note, with characteristic equanimity, that their gods were ancient before the Aurèldían names were spoken.
 
 The Khelâthi faith is inseparable from the civilization it serves. Every aspect of Khelâthi life—governance, law, agriculture, war, commerce, art, and above all the vast mortuary industry that prepares the dead for eternal existence—is organized around theological principles maintained by the temple complexes. The great temples are not merely places of worship but economic and political institutions rivaling the Gar-Aû's palace in wealth and influence. The priesthood's three-rank hierarchy—**Thâz'Lekhau, Lem'Nelgir, and Wazu**—structures the religious life of the empire from the capital to the remotest village.
 

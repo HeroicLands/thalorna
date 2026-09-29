@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Gar-Anlaghet Selat is the land of [[affiliation-selatgrnlght|The Selat of Gar-Anlaghet]], one of the [[affiliation-deltaselatu|The Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+Gar-Anlaghet Selat is the land of the [[affiliation-selatgrnlght|Selat of Gar-Anlaghet]], one of the [[affiliation-deltaselatu|Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 Built around the great harbor-city of [[place-garanlaghet|Gar-Anlaghet]] on the westernmost and deepest of the river's mouths, the selat handles the lion's share of the empire's seaborne commerce.
 

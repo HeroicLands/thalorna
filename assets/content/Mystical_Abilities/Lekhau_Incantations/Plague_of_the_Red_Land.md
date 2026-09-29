@@ -3,7 +3,7 @@ shortcode: plagueredlnd
 name: {full: Plague of the Red Land, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-description: "Tjaq'ûru a wasting sickness on a stated population."
+description: "Sets a wasting sickness on a stated population."
 tags: [gethunu-lekhau, incantation]
 data: {icon: gargezrulutu, templatePriority: null, packFolder: regkhmys}
 sohl:

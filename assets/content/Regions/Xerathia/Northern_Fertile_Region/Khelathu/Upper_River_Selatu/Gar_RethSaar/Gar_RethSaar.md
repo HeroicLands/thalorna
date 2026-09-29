@@ -16,9 +16,9 @@ data:
 
 ## Overview
 
-Gar-Reth'Sa'âr is the land of [[affiliation-selatgrrthsr|The Selat of Gar-Reth'Sa'âr]], one of the [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+Gar-Reth'Sa'âr is the land of the [[affiliation-selatgrrthsr|Selat of Gar-Reth'Sa'âr]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
-At its center stands [[place-khelunu|Khelunu]], the foremost temple-city of [[affiliation-khelathpnthn|Khelâthi Pantheon]], keeper of sacred wisdom, whose great library-temple holds the deepest archive in [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] and whose priest-scribes maintain the meticulous king-lists that stretch back, unbroken, to the [[affiliation-empireakhlth#the-khelathi-calendar-and-dating|Qet Telgu]]. The selat's worldly produce is ordinary upper-river grain; its real export is literate, numerate, and learned men, and the records by which the empire knows itself.
+At its center stands [[place-khelunu|Khelunu]], the foremost temple-city of [[lore-rethsaardty|Reth'Sa'âr]], keeper of sacred wisdom, whose great library-temple holds the deepest archive in the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] and whose priest-scribes maintain the meticulous king-lists that stretch back, unbroken, to the [[affiliation-empireakhlth#the-khelathi-calendar-and-dating|Qet Telgu]]. The selat's worldly produce is ordinary upper-river grain; its real export is literate, numerate, and learned men, and the records by which the empire knows itself.
 
 ## Economy
 
@@ -26,7 +26,7 @@ The selat farms its share of upper-river grain like any other, but its distincti
 
 ## Notable Features
 
-- The great library-temple of [[affiliation-khelathpnthn|Khelâthi Pantheon]] at [[place-khelunu|Khelunu]]—the deepest archive in the empire
+- The great library-temple of [[lore-rethsaardty|Reth'Sa'âr]] at [[place-khelunu|Khelunu]]—the deepest archive in the empire
 - The astronomers' observatory and the calendar-service that keeps the realm's time
 
 ## Settlements

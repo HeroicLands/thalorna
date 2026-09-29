@@ -16,9 +16,9 @@ data:
 
 ## Overview
 
-Zu-Zel-Iaqtet is the land of [[affiliation-selatzuzlqtt|The Selat of Zu-Zel-Iaqtet]], one of the [[affiliation-borderselatu|The Border Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+Zu-Zel-Iaqtet is the land of the [[affiliation-selatzuzlqtt|Selat of Zu-Zel-Iaqtet]], one of the [[affiliation-borderselatu|Border Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
-Zu-Zel-Iaqtet—"the Land of the Eastern Hills"—is the great mining march of [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], a rugged border selat where the river-valley gives way to the mineral-rich uplands east of the water. This is where the empire digs its wealth out of the ground: gold and copper from the hill-mines, turquoise and other fine stones from the desert diggings, and the hard building-stone that the monuments of the whole realm are raised from.
+Zu-Zel-Iaqtet—"the Land of the Eastern Hills"—is the great mining march of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], a rugged border selat where the river-valley gives way to the mineral-rich uplands east of the water. This is where the empire digs its wealth out of the ground: gold and copper from the hill-mines, turquoise and other fine stones from the desert diggings, and the hard building-stone that the monuments of the whole realm are raised from.
 
 ## Character
 
@@ -33,7 +33,7 @@ Mining and quarrying are the whole of it. The selat's gold and copper feed the e
 - The gold and copper hill-mines—a chief source of the empire's precious and base metal
 - The turquoise and fine-stone diggings of the eastern desert
 - The hard-stone quarries that supply the empire's monuments
-- The smelter-towns and the temple-workshops of [[affiliation-khelathpnthn|Khelâthi Pantheon]]
+- The smelter-towns and the temple-workshops of [[lore-psaqarudty|Psaq'âru]]
 - The desert quarry-roads and the forts and water-stations that guard them
 
 ## Settlements

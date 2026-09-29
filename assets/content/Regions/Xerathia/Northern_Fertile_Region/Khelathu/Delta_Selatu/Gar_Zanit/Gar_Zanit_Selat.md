@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Gar-Zanit Selat is the land of [[affiliation-selatgarzant|The Selat of Gar-Zanit]], one of the [[affiliation-deltaselatu|The Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+Gar-Zanit Selat is the land of the [[affiliation-selatgarzant|Selat of Gar-Zanit]], one of the [[affiliation-deltaselatu|Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 

@@ -437,7 +437,7 @@ Githara stands 6'0" tall with a medium build. She has rich copper skin, deep bla
 
 # Dossier {#dossier}
 
-Born in the teak-rich highlands of the Empire of [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], Githara learned the language of trees before she learned to read. Her mother, Zaborêt the Elder, was the first woman admitted to the Timberwrights' Guild in three generations, and Githara followed naturally in those footsteps. As a girl, she spent seasons learning to identify every species by bark, leaf, and the sound of an axe's bite, earning her journeyman's marks before her twentieth year.
+Born in the teak-rich highlands of the Empire of [[affiliation-empireakhlth|Aû'Khelâthu]], Githara learned the language of trees before she learned to read. Her mother, Zaborêt the Elder, was the first woman admitted to the Timberwrights' Guild in three generations, and Githara followed naturally in those footsteps. As a girl, she spent seasons learning to identify every species by bark, leaf, and the sound of an axe's bite, earning her journeyman's marks before her twentieth year.
 
 Over the past decade, Githara has established herself as the most discerning timber selector in the Aû'Khelâthu trade, known for rejecting logs that lesser wrights would accept without hesitation. Her reputation has made her invaluable to the finest carpenters and shipwrights, though this perfectionism has occasionally strained her relationships with merchants who measure success solely by quantity. She maintains a workshop in the sprawling timber yards of the central district, where she stores her collections of wood samples and her prized identification texts.
 
@@ -476,7 +476,7 @@ Githara drives toward a singular vision: to prove that excellence in the timberw
 ### Patrons
 
 - **Master Therethu of Gar-Qelti**: A renowned shipwright who purchases premium timber exclusively from Githara and has publicly defended her expertise against skeptics.
-- **The Architect Imsazu**: The lead designer for the Aû'Khelâthu's new administrative complex, who insists on Githara's involvement in all timber specifications.
+- **The Architect Imsazu**: The lead designer for Aû'Khelâthu's new administrative complex, who insists on Githara's involvement in all timber specifications.
 - Merchant-Prince [[being-lekhebu2|Lekhebu]]: A wealthy trader in fine furnishings who has built his reputation partly on using only materials vetted by Githara Reth'el'Khelensu.
 
 ### Enemies

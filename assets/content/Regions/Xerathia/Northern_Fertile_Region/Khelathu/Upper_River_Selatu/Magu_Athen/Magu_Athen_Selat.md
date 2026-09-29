@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Magu-Athen Selat is the land of [[affiliation-selatmaguthn|The Selat of Magu-Athen]], one of the [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+Magu-Athen Selat is the land of the [[affiliation-selatmaguthn|Selat of Magu-Athen]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 

@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Izet-Ge is the land of [[affiliation-selatizetge|The Selat of Izet-Ge]], one of the [[affiliation-deltaselatu|The Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+Izet-Ge is the land of the [[affiliation-selatizetge|Selat of Izet-Ge]], one of the [[affiliation-deltaselatu|Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 

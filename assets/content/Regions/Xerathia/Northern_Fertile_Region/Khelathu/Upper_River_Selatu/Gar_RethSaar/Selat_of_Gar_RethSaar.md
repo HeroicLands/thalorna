@@ -89,7 +89,7 @@ sohl: {system: {commonSkills: [khelthlnglng]}}
 
 ## Overview
 
-Gar-Reth'Sa'âr—"the House of Reth'Sa'âr"—is the learned selat of the [[affiliation-upperrivrslt|The Upper River Selatu]], the empire's seat of writing, reckoning, and recorded knowledge. Here are the finest scribal schools in the empire, the astronomers who keep the empire's calendar, and the archivists, lawyers, mathematicians, and physicians whose training begins under Reth'Sa'âr's wing. The land it holds is [[place-garrethsaarnome|Gar-Reth'Sa'âr]].
+Gar-Reth'Sa'âr—"the House of Reth'Sa'âr"—is the learned selat of the [[affiliation-upperrivrslt|Upper River Selatu]], the empire's seat of writing, reckoning, and recorded knowledge. Here are the finest scribal schools in the empire, the astronomers who keep the empire's calendar, and the archivists, lawyers, mathematicians, and physicians whose training begins under Reth'Sa'âr's wing. The land it holds is [[place-garrethsaarnome|Gar-Reth'Sa'âr]].
 
 ## Character
 

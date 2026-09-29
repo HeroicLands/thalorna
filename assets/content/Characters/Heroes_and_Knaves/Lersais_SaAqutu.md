@@ -441,7 +441,7 @@ Lersaîs stands 6'2" tall with a heavy build. He has olive weathered skin, black
 
 # Dossier {#dossier}
 
-Lersaîs was born into the Sa'Aqutu family as the eldest son of a tenant-in-chief of the Empire of [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], a position that carried with it both significant lands and significant responsibilities. From his earliest childhood, he was groomed for military leadership, trained in swordplay by masters of the craft and educated in the art of command necessary to lead warriors in actual combat. His father died when Lersaîs was eighteen, and he inherited both the family's lands and their obligation to provide soldiers for the Empire's armies.
+Lersaîs was born into the Sa'Aqutu family as the eldest son of a tenant-in-chief of the Empire of [[affiliation-empireakhlth|Aû'Khelâthu]], a position that carried with it both significant lands and significant responsibilities. From his earliest childhood, he was groomed for military leadership, trained in swordplay by masters of the craft and educated in the art of command necessary to lead warriors in actual combat. His father died when Lersaîs was eighteen, and he inherited both the family's lands and their obligation to provide soldiers for the Empire's armies.
 
 The young Lersaîs threw himself into military service, earning a reputation for tactical brilliance and unfailing devotion to the Gar-Aû. He fought in three major campaigns against the Empire's neighbors, rising to the rank of general by his mid-thirties. His reputation became such that Gar-Aûu sought his counsel on military matters, and he became one of the most influential voices in the Gar-Aû's court regarding questions of defense and national security.
 

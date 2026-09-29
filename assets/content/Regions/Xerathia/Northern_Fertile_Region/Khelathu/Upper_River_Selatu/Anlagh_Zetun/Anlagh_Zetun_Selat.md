@@ -16,9 +16,9 @@ data:
 
 ## Overview
 
-Anlagh-Zetûn Selat is the land of [[affiliation-selatnlghztn|The Selat of Anlagh-Zetûn]], one of the [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+Anlagh-Zetûn Selat is the land of the [[affiliation-selatnlghztn|Selat of Anlagh-Zetûn]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
-Anlagh-Zetûn is the great granary of [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—the most productive agricultural selat in the empire and the fullest of its storehouses. Where the river-valley broadens into one of its widest flood-basins, the annual inundation lays down silt across leagues of wheatland, and the selat's deep granaries hold the surplus that feeds the capital, the army, and the delta ports in years of failure elsewhere. The selat's name, "the living storehouse," is no boast but a plain description: when men in the capital speak of where the empire's bread comes from, they mean Anlagh-Zetûn.
+Anlagh-Zetûn is the great granary of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—the most productive agricultural selat in the empire and the fullest of its storehouses. Where the river-valley broadens into one of its widest flood-basins, the annual inundation lays down silt across leagues of wheatland, and the selat's deep granaries hold the surplus that feeds the capital, the army, and the delta ports in years of failure elsewhere. The selat's name, "the living storehouse," is no boast but a plain description: when men in the capital speak of where the empire's bread comes from, they mean Anlagh-Zetûn.
 
 ## Character
 
@@ -33,7 +33,7 @@ Grain is the whole foundation—wheat above all, with barley and millet—grown 
 - The great flood-basin wheatlands—the broadest and most productive in the empire
 - The deep imperial and temple granaries that store the empire's reserve against famine
 - The river-port of [[place-amqelulegez|Amqelu-Legez]], where the grain-harvest is loaded for the capital
-- The temple of [[affiliation-khelathpnthn|Khelâthi Pantheon]] and the survey-and-assize courts that measure the land
+- The temple of [[lore-qearetdty|Qe'âret]] and the survey-and-assize courts that measure the land
 - The canal, dike, and basin-irrigation works that govern the flood
 
 ## Settlements

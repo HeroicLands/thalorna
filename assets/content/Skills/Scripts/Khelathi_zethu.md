@@ -17,7 +17,7 @@ sohl:
   flags: {"thalorna": {script_family: Logographic}}
 ---
 
-Khelâthi-zethu is the sacred writing of [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: a mixed system of **logograms** that stand for whole words, **phonetic signs** that spell consonant clusters, and **determinatives** that carry no sound at all and exist to tell the reader which of several possible words is meant. Roughly seven hundred signs are recognized; two or three hundred are in common use; the rest are the reason a temple keeps old scribes.
+Khelâthi-zethu is the sacred writing of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: a mixed system of **logograms** that stand for whole words, **phonetic signs** that spell consonant clusters, and **determinatives** that carry no sound at all and exist to tell the reader which of several possible words is meant. Roughly seven hundred signs are recognized; two or three hundred are in common use; the rest are the reason a temple keeps old scribes.
 
 A character needs **both** Khelâthi-zethu and [[skill-khelthlnglng|Khelâthi Language]] to read it—and specifically **Classical Khelâthi**, frozen in written form some twenty-three centuries ago and no longer the language anyone speaks.
 
@@ -27,11 +27,11 @@ Temple walls, royal monuments, tomb lintels, stelae, and the mortuary rolls buri
 
 ## The apparatus
 
-The script is maintained by the priesthood, the royal scribes and the esoteric orders—the scribal schools of [[place-khelunu|Khelunu]] in the [[affiliation-selatgrrthsr|The Selat of Gar-Reth'Sa'âr]] above all, where the king-lists, the calendar tables and the observatory records are kept under the patronage of [[affiliation-rethsaar|Faith of Reth'Sa'âr]] himself. The priesthood has resisted every orthographic reform proposed in living memory, and the resistance is not aesthetic. Simplify the sacred script and the class that reads it stops being necessary.
+The script is maintained by the priesthood, the royal scribes and the esoteric orders—the scribal schools of [[place-khelunu|Khelunu]] in the [[affiliation-selatgrrthsr|Selat of Gar-Reth'Sa'âr]] above all, where the king-lists, the calendar tables and the observatory records are kept under the patronage of [[affiliation-rethsaar|Faith of Reth'Sa'âr]] himself. The priesthood has resisted every orthographic reform proposed in living memory, and the resistance is not aesthetic. Simplify the sacred script and the class that reads it stops being necessary.
 
 ## Who has it
 
-Priests, royal scribes, initiates of the esoteric orders; a small fraction of the nobility, fewer than can read demotic. Foreign scholars occasionally, at the Panepistemium's expense and with the priesthood's grudging permission. Effectively nobody else—the gulf between those who read it and those who cannot is itself a marker of magical and social authority, and is maintained deliberately.
+Priests, royal scribes, initiates of the esoteric orders; a small fraction of the nobility, fewer than can read Qalezu. Foreign scholars occasionally, at the Panepistemium's expense and with the priesthood's grudging permission. Effectively nobody else—the gulf between those who read it and those who cannot is itself a marker of magical and social authority, and is maintained deliberately.
 
 ## In play
 

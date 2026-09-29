@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Zu-Zalu-Legulu is the land of [[affiliation-selatzuzllgl|The Selat of Zu-Zalu-Legulu]], one of the [[affiliation-borderselatu|The Border Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+Zu-Zalu-Legulu is the land of the [[affiliation-selatzuzllgl|Selat of Zu-Zalu-Legulu]], one of the [[affiliation-borderselatu|Border Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 Here the river breaks into the rapids of the first cataract, the green valley narrows to a thread, and the desert closes in on both banks; and here the empire plants its fortress-line, its garrisons, and its gateway to the south.
 

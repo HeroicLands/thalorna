@@ -433,7 +433,7 @@ Raiyaqu stands 5'8" tall with a light build. She has dark skin, black hair, and 
 
 **A Daughter of Privilege**
 
-Raiyaqu was born into the House of Wasetneb, one of the oldest and most respected noble families in the Empire of [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], with ancestry tracing back through two centuries of administrators, generals, and patrons of the arts. Her father, the deceased Lord Alûnet Gasezabu, was a celebrated diplomat and scholar who served the Empire in diplomatic missions to neighboring realms. Her mother, Lady Zezabu Gasezabu (née Qelti), brought connections to the military elite through her own lineage. From childhood, Raiyaqu was groomed for the courtier's life: trained in languages, the arts, diplomatic forms, and the arithmetic of noble alliance-building.
+Raiyaqu was born into the House of Gasezabu, one of the oldest and most respected noble families in the Empire of [[affiliation-empireakhlth|Aû'Khelâthu]], with ancestry tracing back through two centuries of administrators, generals, and patrons of the arts. Her father, the deceased Lord Alûnet Gasezabu, was a celebrated diplomat and scholar who served the Empire in diplomatic missions to neighboring realms. Her mother, Lady Zezabu Gasezabu (née Qelti), brought connections to the military elite through her own lineage. From childhood, Raiyaqu was groomed for the courtier's life: trained in languages, the arts, diplomatic forms, and the arithmetic of noble alliance-building.
 
 **Cultivation of Influence Through Compassion**
 
@@ -453,7 +453,7 @@ Yet for all her grace and warmth, Raiyaqu is no mere pleasant decoration. Her mi
 
 ### Motivation
 
-Raiyaqu Wasetneb is driven by a vision of the Empire of Aû'Khelâthu as a place where talent, merit, and creativity are recognized and nurtured regardless of birth. She believes that the greatest cultural achievements of her society have emerged from the contributions of humble artisans, and she sees her patronage and advocacy as both a moral obligation and an investment in the empire's future. She is motivated equally by a personal hunger for beauty, learning, and authentic connection—she surrounds herself with talented and interesting people because she enjoys their company and conversation. Beyond personal satisfaction, Raiyaqu seeks to prove that privilege, when wielded with conscience, becomes a means for others to flourish rather than for her own gain.
+Raiyaqu Gasezabu is driven by a vision of the Empire of Aû'Khelâthu as a place where talent, merit, and creativity are recognized and nurtured regardless of birth. She believes that the greatest cultural achievements of her society have emerged from the contributions of humble artisans, and she sees her patronage and advocacy as both a moral obligation and an investment in the empire's future. She is motivated equally by a personal hunger for beauty, learning, and authentic connection—she surrounds herself with talented and interesting people because she enjoys their company and conversation. Beyond personal satisfaction, Raiyaqu seeks to prove that privilege, when wielded with conscience, becomes a means for others to flourish rather than for her own gain.
 
 ### Strengths
 

@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Gar-Shebazet Selat is the land of [[affiliation-selatgrshbzt|The Selat of Gar-Shebazet]], one of the [[affiliation-deltaselatu|The Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+Gar-Shebazet Selat is the land of the [[affiliation-selatgrshbzt|Selat of Gar-Shebazet]], one of the [[affiliation-deltaselatu|Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 

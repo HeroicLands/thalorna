@@ -86,7 +86,7 @@ sohl: {system: {commonSkills: [khelthlnglng]}}
 
 ## Overview
 
-Khelenet-Zu is one of the upper-river selatu of [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: old assize-courts; a selat famous for its lawyer-priests and land-survey scribes. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-qearet|Faith of Qe'âret]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-khelenetzslt|Khelenet-Zu Selat]].
+Khelenet-Zu is one of the upper-river selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: old assize-courts; a selat famous for its lawyer-priests and land-survey scribes. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-qearet|Faith of Qe'âret]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-khelenetzslt|Khelenet-Zu Selat]].
 
 ## Character
 

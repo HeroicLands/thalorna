@@ -27,15 +27,15 @@ render is levied from it, and the
 [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] keeps it only because the road
 to the east and north runs across it and because whoever else held it would be
 a day's ride from the mines. Its name answers that of
-[[affiliation-seltkhqtmntq|The Selat of Khuqet-Imntiqa]], the western desert-march, but the
+the [[affiliation-seltkhqtmntq|Selat of Khuqet-Imntiqa]], the western desert-march, but the
 likeness ends at the name: Khuqet-Imntiqa is a selat with a Halzi'a and a temple,
 and Khuqet-Miglet is a garrison holding a road.
 
 ## Geography
 
 The march begins where the quarry-roads of
-[[affiliation-selatzuzlqtt|The Selat of Zu-Zel-Iaqtet]] and the well-lines of
-[[affiliation-selatiaqetlq|The Selat of Iaqet-Leqa]] give out, and runs northeast across
+the [[affiliation-selatzuzlqtt|Selat of Zu-Zel-Iaqtet]] and the well-lines of
+the [[affiliation-selatiaqetlq|Selat of Iaqet-Leqa]] give out, and runs northeast across
 stony plateau, gravel plain and low broken hills until the Dunhari sand seas
 begin. It is **semi-desert**: a thin winter rain greens the wadis for a few
 weeks and raises a short grass on the northern flats, and the rest of the year

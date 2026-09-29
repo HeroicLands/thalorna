@@ -14,6 +14,6 @@ sohl:
     charges: {value: null, max: null}
 ---
 
-Tjaq'ûru bone that healed crooked, restores a burned hand to usefulness, corrects what a birth did
+Sets bone that healed crooked, restores a burned hand to usefulness, corrects what a birth did
 badly. It does not transform and cannot exceed what the body could have been, and the House
 refuses commissions that amount to vanity—a refusal it enforces unevenly and is criticized for.

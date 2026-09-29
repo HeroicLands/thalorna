@@ -36,7 +36,7 @@ data:
         title: Craftsman
         lore: journeymanrnk
         description: >-
-          A working member of the brotherhood, cutting and decorating the great tombs of the Khelzuret necropolis. Tjaq'ûr above the ordinary labor-gangs, and proud of the distinction.
+          A working member of the brotherhood, cutting and decorating the great tombs of the Khelzuret necropolis. Set above the ordinary labor-gangs, and proud of the distinction.
       - level: 4
         title: Master
         lore: masterrnk
@@ -53,7 +53,7 @@ data:
       Keeper of the Locations: >-
         The brotherhood's real secret is not how the tombs are cut but where they are. The men of Zel-Qar know better than anyone where the dead and their treasures lie, which is what makes the village at once the most trusted and the most watched community in the selat.
       Master Draughtsman: >-
-        Tjaq'ûru out the work the cutters and painters follow. Khelâthi art is held to be a magical act rather than a depiction—a properly executed tomb painting is the afterlife, made real through correct form—so the draftsman's fidelity to the established form is a religious duty, not a matter of taste.
+        Sets out the work the cutters and painters follow. Khelâthi art is held to be a magical act rather than a depiction—a properly executed tomb painting is the afterlife, made real through correct form—so the draftsman's fidelity to the established form is a religious duty, not a matter of taste.
       Warden of the Shrines: >-
         Keeps the village's own shrines, which it maintains apart from the great temples it works for.
   seat: zelqar

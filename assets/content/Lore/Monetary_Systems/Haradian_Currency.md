@@ -25,13 +25,13 @@ The institutional infrastructure of the Haradian currency—the Bayt al-Khazîna
 
 ## Conversion Ratios
 
-For game purposes, Haradian coin converts to Vylarian and Ta'Khelâthi currencies as follows:
+For game purposes, Haradian coin converts to Vylarian and Khelâthi currencies as follows:
 
-| Haradian          | Vylarian (effective)                                   | Ta'Khelâthi (effective)          |
+| Haradian          | Vylarian (effective)                                   | Khelâthi (effective)             |
 | ----------------- | ------------------------------------------------------ | -------------------------------- |
-| 1 Haradian Aurion | 0.93 Vylarian Aurion (~149 Argo, due to gold discount) | ~75 silver deben                 |
-| 1 Haradian Argo   | 1 Vylarian Argo                                        | 5 silver kite (= ½ silver deben) |
-| 1 Haradian Bit    | 1 Vylarian Bit                                         | 0.625 silver kite                |
+| 1 Haradian Aurion | 0.93 Vylarian Aurion (~149 Argo, due to gold discount) | ~75 silver gezan                 |
+| 1 Haradian Argo   | 1 Vylarian Argo                                        | 5 silver qelu (= ½ silver gezan) |
+| 1 Haradian Bit    | 1 Vylarian Bit                                         | 0.625 silver qelu                |
 
 In casual commerce within Haradian territory the underweight Aurion passes at full nominal value; the discount only emerges in cross-border transactions where Vylarian or Khelâthi moneylenders assay the gold content.
 
@@ -42,7 +42,7 @@ In casual commerce within Haradian territory the underweight Aurion passes at fu
 | Confederation of Haradian States    | Native standard                                                                                                                        |
 | Vylarian Sea trading ports          | Accepted at the Heliónite intermediary houses for conversion to Vylarian script; otherwise rare                                        |
 | [[place-helionis\|Heliónis]] proper | Specific Argentariorum chapters maintain quiet correspondent arrangements with named Bayt-affiliated houses; not publicly acknowledged |
-| Northern Fertile Region             | Accepted as foreign currency through changers; conversion to Ta'Khelâthi weight-pieces                                                 |
+| Northern Fertile Region             | Accepted as foreign currency through changers; conversion to Khelâthi weight-pieces                                                    |
 | Elsewhere                           | Effectively absent                                                                                                                     |
 
 ## See Also

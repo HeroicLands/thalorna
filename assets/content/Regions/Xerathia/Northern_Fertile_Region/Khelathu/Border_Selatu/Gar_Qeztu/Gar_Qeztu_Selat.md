@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Gar-Qeztu Selat is the land of [[affiliation-selatgarqezt|The Selat of Gar-Qeztu]], one of the [[affiliation-borderselatu|The Border Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+Gar-Qeztu Selat is the land of the [[affiliation-selatgarqezt|Selat of Gar-Qeztu]], one of the [[affiliation-borderselatu|Border Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 

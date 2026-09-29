@@ -86,7 +86,7 @@ sohl: {system: {commonSkills: [khelthlnglng]}}
 
 ## Overview
 
-Lut-Tjelsuk is one of the delta selatu of [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: eastern marsh; the great crocodile cult and the river-beast hunters. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-tjelsuk|Faith of Tjelsuk]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-luttjelskslt|Lut-Tjelsuk Selat]].
+Lut-Tjelsuk is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: eastern marsh; the great crocodile cult and the river-beast hunters. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-tjelsuk|Faith of Tjelsuk]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-luttjelskslt|Lut-Tjelsuk Selat]].
 
 ## Character
 

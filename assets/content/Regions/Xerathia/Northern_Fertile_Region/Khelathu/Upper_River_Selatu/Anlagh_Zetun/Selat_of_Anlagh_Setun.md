@@ -89,11 +89,11 @@ sohl: {system: {commonSkills: [khelthlnglng]}}
 
 ## Overview
 
-The Selat of Anlagh-Zetûn holds the land of [[place-anlaghztnslt|Anlagh-Zetûn Selat]]. Its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] is the very type of the [[affiliation-upperrivrslt|The Upper River Selatu]] noble—conservative, hereditary, land-proud, and powerful precisely because the empire cannot do without his grain.
+The Selat of Anlagh-Zetûn holds the land of [[place-anlaghztnslt|Anlagh-Zetûn Selat]]. Its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] is the very type of the [[affiliation-upperrivrslt|Upper River Selatu]] noble—conservative, hereditary, land-proud, and powerful precisely because the empire cannot do without his grain.
 
 ## Character
 
-Its great families have farmed the same flood-basins for longer than the current dynasty has existed, and they guard their land, their grain-rents, and their ancient privileges with the patience of men who measure time in floods rather than reigns. The selat's patron is [[affiliation-khelathpnthn|Khelâthi Pantheon]], goddess of order, truth, and right measure—fitting for a country whose whole life turns on the survey of fields, the assessment of harvests, and the honest filling of granaries.
+Its great families have farmed the same flood-basins for longer than the current dynasty has existed, and they guard their land, their grain-rents, and their ancient privileges with the patience of men who measure time in floods rather than reigns. The selat's patron is [[lore-qearetdty|Qe'âret]], goddess of order, truth, and right measure—fitting for a country whose whole life turns on the survey of fields, the assessment of harvests, and the honest filling of granaries.
 
 ## For the Worldbuilder
 

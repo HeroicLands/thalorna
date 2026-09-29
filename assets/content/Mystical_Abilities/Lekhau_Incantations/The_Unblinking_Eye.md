@@ -3,7 +3,7 @@ shortcode: unblinkingey
 name: {full: The Unblinking Eye, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-description: "Tjaq'ûru a watch on a place that reports faithfully to the practitioner what passed there."
+description: "Sets a watch on a place that reports faithfully to the practitioner what passed there."
 tags: [gethunu-lekhau, incantation]
 data: {icon: garathenuqa, templatePriority: null, packFolder: regkhmys}
 sohl:

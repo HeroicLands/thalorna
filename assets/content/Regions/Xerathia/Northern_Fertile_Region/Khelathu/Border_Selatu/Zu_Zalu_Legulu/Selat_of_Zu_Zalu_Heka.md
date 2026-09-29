@@ -89,7 +89,7 @@ sohl: {system: {commonSkills: [khelthlnglng]}}
 
 ## Overview
 
-Zu-Zalu-Legulu—"the Southern Land of Rule"—is the great southern march of [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], the selat where the empire ends and the tribal lands begin. The selat's soldier-[[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] is the empire's warden of the southern frontier: he commands the cataract forts, taxes and escorts the gold, ivory, ebony, and slaves that come up the river-road from the deep south, and watches the southern tribes whose loyalty runs from grudging vassalage to open war. Its patron, fittingly, is [[lore-qeztudty|Qeztu]] the war-god, whose cult is stronger on this frontier than anywhere in the empire. The land it holds is [[place-zuzalulegulunome|Zu-Zalu-Legulu]].
+Zu-Zalu-Legulu—"the Southern Land of Rule"—is the great southern march of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], the selat where the empire ends and the tribal lands begin. The selat's soldier-[[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] is the empire's warden of the southern frontier: he commands the cataract forts, taxes and escorts the gold, ivory, ebony, and slaves that come up the river-road from the deep south, and watches the southern tribes whose loyalty runs from grudging vassalage to open war. Its patron, fittingly, is [[lore-qeztudty|Qeztu]] the war-god, whose cult is stronger on this frontier than anywhere in the empire. The land it holds is [[place-zuzalulegulunome|Zu-Zalu-Legulu]].
 
 ## Character
 

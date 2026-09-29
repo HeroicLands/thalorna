@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Yath-Lemet is the capital of [[affiliation-selatyathlmt|The Selat of Yath-Lemet]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]]. It holds the selat's chief temple of [[affiliation-tjelsuk|Faith of Tjelsuk]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's: the smallest upper selat; a narrow gorge-stretch where the valley pinches to almost nothing.
+Yath-Lemet is the capital of the [[affiliation-selatyathlmt|Selat of Yath-Lemet]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]]. It holds the selat's chief temple of [[affiliation-tjelsuk|Faith of Tjelsuk]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's: the smallest upper selat; a narrow gorge-stretch where the valley pinches to almost nothing.
 
 ## See Also
 

@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Khelenet-Zu Selat is the land of [[affiliation-selatkhelntz|The Selat of Khelenet-Zu]], one of the [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+Khelenet-Zu Selat is the land of the [[affiliation-selatkhelntz|Selat of Khelenet-Zu]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 

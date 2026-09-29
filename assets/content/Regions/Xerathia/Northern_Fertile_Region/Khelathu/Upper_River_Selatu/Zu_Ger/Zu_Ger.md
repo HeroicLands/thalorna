@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Zu-Ger is the land of [[affiliation-selatzuger|The Selat of Zu-Ger]], one of the [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+Zu-Ger is the land of the [[affiliation-selatzuger|Selat of Zu-Ger]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 

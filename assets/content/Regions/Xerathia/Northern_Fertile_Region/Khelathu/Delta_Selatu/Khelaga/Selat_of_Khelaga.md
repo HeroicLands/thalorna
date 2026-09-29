@@ -86,7 +86,7 @@ sohl: {system: {commonSkills: [khelthlnglng]}}
 
 ## Overview
 
-Khelaga is one of the delta selatu of [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: the delta apex, where the river first divides; old shrines and customs-stations. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-uqaa|Faith of Uqa'â]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-khelagaselat|Khelaga Selat]].
+Khelaga is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: the delta apex, where the river first divides; old shrines and customs-stations. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-uqaa|Faith of Uqa'â]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-khelagaselat|Khelaga Selat]].
 
 ## Character
 

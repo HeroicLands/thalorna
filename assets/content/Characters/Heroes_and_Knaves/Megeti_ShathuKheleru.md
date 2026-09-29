@@ -484,7 +484,7 @@ Megeti is driven by an almost religious belief in open books and the moral duty 
 ### Affiliations
 
 - **The Imperial Treasury**: Her primary institution and the source of her authority.
-- **The Scribes' Guild of [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]**: She maintains formal membership, though she rarely participates in guild activities.
+- **The Scribes' Guild of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]**: She maintains formal membership, though she rarely participates in guild activities.
 - [[affiliation-lemthubai|Lem'Thubâ'i]]: A religious devotional order dedicated to Thubâ'i, god of prosperity and the inundation. She maintains private worship and donates portions of her stipend to their works.
 
 ## Plot Hooks

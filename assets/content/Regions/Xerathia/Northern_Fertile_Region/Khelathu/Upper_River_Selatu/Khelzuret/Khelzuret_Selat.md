@@ -16,9 +16,9 @@ data:
 
 ## Overview
 
-Khelzuret Selat is the land of [[affiliation-selatkhelzrt|The Selat of Khelzuret]], one of the [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+Khelzuret Selat is the land of the [[affiliation-selatkhelzrt|Selat of Khelzuret]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
-Built around the temple-city of [[place-khelzuret|Khelzuret]] on the river's east bank and the vast necropolis that faces it across the water on the west, the selat is the beating heart of the empire's funerary civilization: its embalmers, its tomb-builders, its funerary artists, and the priesthoods of [[affiliation-khelathpnthn|Khelâthi Pantheon]] and [[affiliation-khelathpnthn|Khelâthi Pantheon]], lords of the passage into death.
+Built around the temple-city of [[place-khelzuret|Khelzuret]] on the river's east bank and the vast necropolis that faces it across the water on the west, the selat is the beating heart of the empire's funerary civilization: its embalmers, its tomb-builders, its funerary artists, and the priesthoods of [[lore-wethurdty|Wethûr]] and [[lore-hezmuiridty|Hezmuîri]], lords of the passage into death.
 
 ## Economy
 

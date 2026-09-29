@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Zebt-Relepet Selat is the land of [[affiliation-selatzbtrlpt|The Selat of Zebt-Relepet]], one of the [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+Zebt-Relepet Selat is the land of the [[affiliation-selatzbtrlpt|Selat of Zebt-Relepet]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 

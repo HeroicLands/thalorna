@@ -1,6 +1,6 @@
 ---
 shortcode: khelthcpprql
-name: {full: Khelâthi Copper Qelu, aliases: [Copper Qelu, Copper Qedét]}
+name: {full: Khelâthi Copper Qelu, aliases: [Copper Qelu, Copper Qezelet]}
 type: miscgear
 description: "Sealed bronze piece at qelu weight; the smallest Khelâthi denomination and everyday small change."
 tags: [jewelry_cash]

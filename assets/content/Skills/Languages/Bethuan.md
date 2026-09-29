@@ -161,7 +161,7 @@ Bethuan evolved from **Proto-Helonic** along a distinct path, isolated by geogra
 
 ## The Khelâthi Superstrate {#the-khelathi-superstrate}
 
-If the gender registers are what make Bethuan structurally unique, the **Khelâthi superstrate** is what makes it sound unmistakably itself. Bethuan inherited its grammar and its core vocabulary from Helonic, but layered over that inheritance is a dense stratum of loanwords from [[skill-khelthlnglng|Khelâthi Language]], the unrelated and far older tongue of [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]. The parallel is to the Arabic stratum in an older world's Spanish: a prestigious neighbor's vocabulary, entering not by descent but by cultural gravity and patronage, and clustering tightly in particular domains of life.
+If the gender registers are what make Bethuan structurally unique, the **Khelâthi superstrate** is what makes it sound unmistakably itself. Bethuan inherited its grammar and its core vocabulary from Helonic, but layered over that inheritance is a dense stratum of loanwords from [[skill-khelthlnglng|Khelâthi Language]], the unrelated and far older tongue of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]. The parallel is to the Arabic stratum in an older world's Spanish: a prestigious neighbor's vocabulary, entering not by descent but by cultural gravity and patronage, and clustering tightly in particular domains of life.
 
 The borrowing followed the realm's history. When Aû'Khelâthu backed Bethûan independence and the new state rebuilt its institutions on Khelâthi models, it imported the words along with the methods. The result is that the technical, administrative, and commercial life of Bethûa is conducted in a Helonic grammar studded with Khelâthi nouns—while the language of poetry, philosophy, and the temple stays defiantly Helonic.
 
@@ -174,10 +174,10 @@ The loans are overwhelmingly **concrete nouns**, and they pile up exactly where 
 | Water & engineering    | _qanat_                     | underground tunnel-well           | the irrigation form the Khelâthi taught                                                           |
 |                        | _et-tareb_                  | aqueduct                          | fossilized article _et-_                                                                          |
 |                        | _en-mûna_                   | cistern, reservoir                | fossilized article _en-_                                                                          |
-| Money & administration | _deben_, _kite_             | the weight-currency units         | the realm has no native coinage                                                                   |
+| Money & administration | _gezan_, _qelu_             | the weight-currency units         | the realm has no native coinage                                                                   |
 |                        | _et-makhs_                  | customs-toll, the impost          | from a Khelâthi root for "tax"                                                                    |
 |                        | _khetem_                    | seal; a sealed warrant            | Khelâthi _ḫtm_, "to seal"                                                                         |
-|                        | _sesh_                      | an official document, the writ    | Khelâthi _sš_, "scribe/writing"                                                                   |
+|                        | _zethu_                     | an official document, the writ    | Khelâthi _sš_, "scribe/writing"                                                                   |
 | Commerce & the sea     | _en-meret_                  | quay, the harbor-front            | Khelâthi _mryt_, "quay"                                                                           |
 |                        | _makhzen_                   | bonded warehouse, store           | cf. the same root behind _almacén_                                                                |
 | Calendar & measure     | _renpet_                    | year (in era-reckoning)           | as in _Renpet Qet Telgu_                                                                          |

@@ -16,5 +16,5 @@ sohl:
 
 The working every quarry, temple site and tomb in the empire runs on, and the reason Khelâthi
 masonry outlasts everything built beside it. It requires the surfaces to be cut true first; the
-House will not carry a bad joint, and a Master of the Tjaq'ûr Form who certifies one is answerable for
+House will not carry a bad joint, and a Master of the Set Form who certifies one is answerable for
 the building.

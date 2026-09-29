@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Wagaru Selat is the land of [[affiliation-selatwagaru|The Selat of Wagaru]], one of the [[affiliation-borderselatu|The Border Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+Wagaru Selat is the land of the [[affiliation-selatwagaru|Selat of Wagaru]], one of the [[affiliation-borderselatu|Border Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 

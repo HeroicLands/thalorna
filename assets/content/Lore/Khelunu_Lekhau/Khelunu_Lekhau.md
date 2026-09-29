@@ -12,7 +12,7 @@ data: {packFolder: regkharc}
 ## Khelunu Lekhau (The Eight Powers)
 
 The [[lore-khelunulekha|Khelunu Lekhau]]—the Eight Powers—is the arcane philosophy of
-[[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and the oldest continuously taught account of
+the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and the oldest continuously taught account of
 magical practice in the known world. It holds that the arcane divides into eight **domains**, each a
 region of the cosmic order over which a correctly known name has authority. Its practitioners are the
 **lekhau**, those who hold sacred power; the title of every high priest in the empire—**Thâz'Lekhau**, "Great of Sacred Power"—names the greatest of them.
@@ -66,7 +66,7 @@ of." Seven Houses are entered by initiation; the eighth is not entered at all.
 | [[affiliation-garithnetau\|Gar-Ithnetáu]]         | [[lore-ithnetau\|Ithnetáu]]           | the Westward Road     | The dead, passage, gates, resurrection, the night               |
 | [[affiliation-garnlghkhlth\|Gar-Anlagh'Khelâthu]] | [[lore-anlaghkhlth\|Anlagh'Khelâthu]] | the Living Black Land | Water, fertility, growth, healing, abundance                    |
 | [[affiliation-gargezrulutu\|Gar-Gezru'lutu]]      | [[lore-gezrulutu\|Gezru'lutu]]        | the Red Waste         | Fire, drought, storm, endurance, plague, the wandering          |
-| [[affiliation-garrethzethu\|Gar-Reth'zethu]]      | [[lore-rethzethu\|Reth'zethu]]        | the Name Tjaq'ûr Down | Speech, writing, true names, knowledge, memory, mind            |
+| [[affiliation-garrethzethu\|Gar-Reth'zethu]]      | [[lore-rethzethu\|Reth'zethu]]        | the Name Set Down     | Speech, writing, true names, knowledge, memory, mind            |
 | [[affiliation-garqeltnu\|Gar-Qelt'nu]]            | [[lore-qeltnu\|Qelt'nu]]              | the Made Body         | Craft, stone, flesh, shaping, animation, transformation         |
 
 The Houses share one ladder—**Wazu of the House**, who learns the names and may not set them down;

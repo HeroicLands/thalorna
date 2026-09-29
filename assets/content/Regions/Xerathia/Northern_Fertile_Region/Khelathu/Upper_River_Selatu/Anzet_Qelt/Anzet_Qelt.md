@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Anzet-Qelt is the land of [[affiliation-selatanztqlt|The Selat of Anzet-Qelt]], one of the [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+Anzet-Qelt is the land of the [[affiliation-selatanztqlt|Selat of Anzet-Qelt]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 

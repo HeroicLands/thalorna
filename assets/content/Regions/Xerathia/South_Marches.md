@@ -103,7 +103,7 @@ too dangerous to move against lightly.
 
 One road crosses the Marches worth the name: the track that runs from the
 Bethûan frontier along the forage belts and the watering-places, eastward
-across the drylands toward the Khelâthi frontier and the steppe-edge nomes of
+across the drylands toward the Khelâthi frontier and the steppe-edge selatu of
 [[place-aukhelathrgq|Aû'Khelâthu Region]]. It is the way a caravan takes when the coast is
 closed to it, and the way a fugitive takes who cannot use the northern ports.
 Whoever holds the wells

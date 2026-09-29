@@ -440,7 +440,7 @@ Amqelet-Zelemu stands 5'9\" tall with a medium build. He has dark skin, dark hai
 
 ### Origin and Early Life
 
-Amqelet-Zelemu was born into a respected family of scholars and astrologers in the grand city of [[place-khelunu|Khelunu]], a cultural and scholarly center of the **Empire of [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]**. The Empire, with traditions dating back thousands of years, continues to blend mysticism and scholarly pursuits, with astrology playing a critical role in its governance and daily life. The empire’s priests and astrologers are key advisors to the ruling elite, using celestial signs to predict outcomes of war, trade, and political alliances.
+Amqelet-Zelemu was born into a respected family of scholars and astrologers in the grand city of [[place-khelunu|Khelunu]], a cultural and scholarly center of the **Empire of [[affiliation-empireakhlth|Aû'Khelâthu]]**. The Empire, with traditions dating back thousands of years, continues to blend mysticism and scholarly pursuits, with astrology playing a critical role in its governance and daily life. The empire’s priests and astrologers are key advisors to the ruling elite, using celestial signs to predict outcomes of war, trade, and political alliances.
 
 Amqelet-Zelemu, from a young age, showed a rare affinity for reading the stars. His family, who had long served the high courts of Aû'Khelâthu, saw that he was trained by the greatest scholars and priests of the empire. By the age of 16, he had already earned a reputation for accurate star readings and predictions, and his name spread through the noble circles of Aû'Khelâthu.
 

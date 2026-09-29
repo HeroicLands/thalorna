@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Gezazabu is the capital of [[affiliation-selatgezazab|The Selat of Gezazabu]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]]. It holds the selat's chief temple of [[affiliation-thubai|Faith of Thubâ'i]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's: eastern delta port; salt-fish, curing-houses, and the trade road to Bethua.
+Gezazabu is the capital of the [[affiliation-selatgezazab|Selat of Gezazabu]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]]. It holds the selat's chief temple of [[affiliation-thubai|Faith of Thubâ'i]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's: eastern delta port; salt-fish, curing-houses, and the trade road to Bethua.
 
 ## See Also
 

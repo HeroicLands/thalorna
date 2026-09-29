@@ -8,9 +8,9 @@ name:
   home: anlaghzetun
   aliases: []
 type: being
-description: "The Meykhari clan's most respected tracker, keeper of sacred hunting grounds, and father to a daughter who outshot him by thirteen"
+description: "The Meykhathi clan's most respected tracker, keeper of sacred hunting grounds, and father to a daughter who outshot him by thirteen"
 tags: [generated]
 data: {packFolder: regkhfolk}
 ---
 
-The Meykhari clan's most respected tracker, keeper of sacred hunting grounds, and father to a daughter who outshot him by thirteen.
+The Meykhathi clan's most respected tracker, keeper of sacred hunting grounds, and father to a daughter who outshot him by thirteen.

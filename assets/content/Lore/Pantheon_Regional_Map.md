@@ -60,7 +60,7 @@ An eastern pantheon centered on cosmic balance, fire, and light. Predates Vylari
 
 ## [[affiliation-khelathpnthn|Khelâthi Pantheon]]
 
-The ancient faith of the great southern empire, centered on solar worship and the divine pharaonic line.
+The ancient faith of the great southern empire, centered on solar worship and the divine line of the Gar-Aû.
 
 **Primary region:**
 

@@ -436,7 +436,7 @@ Thefnutî stands 5'10" tall with a medium build. He has warm amber skin, gray ha
 
 # Dossier {#dossier}
 
-Thefnutî was born into a family of toymakers in the Empire of [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], in a tradition stretching back seven generations. His great-grandfather had been commissioned by an imperial prince to create mechanical toys of extraordinary ingenuity, work that established the family's reputation for invention and precision. Thefnutî's own father, Gakhoti, had expanded the family trade significantly, introducing mechanisms of increasing complexity while maintaining a commitment to beauty and craftsmanship.
+Thefnutî was born into a family of toymakers in the Empire of [[affiliation-empireakhlth|Aû'Khelâthu]], in a tradition stretching back seven generations. His great-grandfather had been commissioned by an imperial prince to create mechanical toys of extraordinary ingenuity, work that established the family's reputation for invention and precision. Thefnutî's own father, Gakhoti, had expanded the family trade significantly, introducing mechanisms of increasing complexity while maintaining a commitment to beauty and craftsmanship.
 
 From earliest childhood, Thefnutî was trained in the family traditions. Unlike some toymakers who view their work as frivolous entertainment, the Let'Gerau family understood that toys were miniature worlds—opportunities to teach mechanics, aesthetics, and imagination. Thefnutî exceeded even his father's capabilities, developing new techniques for creating clockwork mechanisms of breathtaking intricacy. By his thirties, his toys were so much in demand among wealthy families and collectors that his wait list extended years into the future.
 

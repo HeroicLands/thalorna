@@ -203,7 +203,7 @@ To the **south and southeast**, beyond the Kambezi wetlands and the Ngonzi highl
 
 ## Commerce and Currency
 
-Nyáluba Tribal Nation operates almost entirely on [[lore-bartercnmy|barter]] and [[lore-kinhalcrdt|tribal credit]] customs. Coin is essentially absent from internal commerce; the few foreign coins that reach Nyáluban hands through long-distance trade are valued as exotic goods rather than as currency. Commerce with the Northern Fertile Region (Ta'Khelâthi currency through southern trade-routes) is more developed than commerce with the western Vylarian system.
+Nyáluba Tribal Nation operates almost entirely on [[lore-bartercnmy|barter]] and [[lore-kinhalcrdt|tribal credit]] customs. Coin is essentially absent from internal commerce; the few foreign coins that reach Nyáluban hands through long-distance trade are valued as exotic goods rather than as currency. Commerce with the Northern Fertile Region (Khelâthi currency through southern trade-routes) is more developed than commerce with the western Vylarian system.
 
 ## See Also
 

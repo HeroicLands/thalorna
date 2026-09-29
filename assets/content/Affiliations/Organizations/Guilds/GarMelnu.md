@@ -3,7 +3,7 @@ shortcode: garmelnu
 name: {full: Gar'Melnu, aliases: [The House of the Melnu]}
 type: affiliation
 subType: guild
-description: "Gar-Aû's chartered guild of Ta'Khelâthi smiths, armorers, and weaponcrafters—heirs to the ancient Mesnu, the harpoon-makers of Gewaâtis, and the empire's arms-makers in fact."
+description: "Gar-Aû's chartered guild of Khelâthi smiths, armorers, and weaponcrafters—heirs to the ancient Mesnu, the harpoon-makers of Gewaâtis, and the empire's arms-makers in fact."
 tags: [organization, khelathu, xerathia, guild, metalwork, smiths]
 data:
   packFolder: regkhaff
@@ -14,7 +14,7 @@ data:
   governance:
     model: council
     summary: >-
-      A chartered guild of Ta'Khelâthi smiths, elevated from initiate to Great Smith through temple rite, governed by the Council of Smiths under its First Smith.
+      A chartered guild of Khelâthi smiths, elevated from initiate to Great Smith through temple rite, governed by the Council of Smiths under its First Smith.
     ranks:
       - level: 0
         title: Revoked Seal
@@ -64,13 +64,13 @@ _Khelâthi: "The House of the Mesnu"—the guild of metalworkers, after the anci
 - **Type:** Imperial chartered guild
 - **Region:** [[place-aukhelathrgq|Aû'Khelâthu Region]]—central guildhouse at the capital, with chapter forges in every selat of consequence
 - **Charter:** Granted by the eleventh Gar-Aû of the present dynasty; renewed and confirmed by each succeeding Gar-Aû
-- **Magnum Collegium status:** Not a member; independent Ta'Khelâthi institution. Maintains a per-trade credential equivalence agreement with the Vylarian Smiths' federation negotiated through the [[affiliation-magnumclgm|The Magnum Collegium]] for routine work; master-rank elevations remain non-transferable in either direction.
+- **Magnum Collegium status:** Not a member; independent Khelâthi institution. Maintains a per-trade credential equivalence agreement with the Vylarian Smiths' federation negotiated through the [[affiliation-magnumclgm|Magnum Collegium]] for routine work; master-rank elevations remain non-transferable in either direction.
 
 ## Overview
 
-Gar'Melnu is the institution by which the Gar-Aû's lands are armed. The Ta'Khelâthi empire is not primarily a military power—its armies are smaller and less expensively equipped than Vylaria's, its frontier defenses depend more on diplomacy and terrain than on weight of arms—but every blade carried by an Imperial soldier, every scale on a temple guard's armor, every harpoon thrown from a Zeghet'Nelgu skiff at a crocodile in the Zumélesh, was made by a smith of Gar'Melnu or to its standards. Civilian metalwork is the guild's larger business in pure volume—plowshares, cooking vessels, hinges, tools, the bronze and copper goods of daily life—but its prestige and political weight derive from its near-monopoly on weapons and armor.
+Gar'Melnu is the institution by which the Gar-Aû's lands are armed. The Khelâthi empire is not primarily a military power—its armies are smaller and less expensively equipped than Vylaria's, its frontier defenses depend more on diplomacy and terrain than on weight of arms—but every blade carried by an Imperial soldier, every scale on a temple guard's armor, every harpoon thrown from a Zeghet'Nelgu skiff at a crocodile in the Zumélesh, was made by a smith of Gar'Melnu or to its standards. Civilian metalwork is the guild's larger business in pure volume—plowshares, cooking vessels, hinges, tools, the bronze and copper goods of daily life—but its prestige and political weight derive from its near-monopoly on weapons and armor.
 
-The guild takes its name from the Mesnu, the legendary smith-warriors who, in the founding mythology of Aû'Khelâthu, forged the harpoons with which Gewaâtis slew the followers of Tjaq'ûr. The Mesnu were both metalsmiths and ritual warriors, and Gar'Melnu inherits both aspects of that legacy. Its master smiths are not merely craftsmen; they are initiates of Gewaâtis and Ptah, sworn at their elevation to standards of work that the guild treats as religious obligations. A master who falsifies a weapon's grade is not merely punished by the guild; he is treated by the temples as having committed sacrilege.
+The guild takes its name from the Mesnu, the legendary smith-warriors who, in the founding mythology of Aû'Khelâthu, forged the harpoons with which Gewaâtis slew the followers of Tjaq'ûr. The Mesnu were both metalsmiths and ritual warriors, and Gar'Melnu inherits both aspects of that legacy. Its master smiths are not merely craftsmen; they are initiates of Gewaâtis and Psaq'âru, sworn at their elevation to standards of work that the guild treats as religious obligations. A master who falsifies a weapon's grade is not merely punished by the guild; he is treated by the temples as having committed sacrilege.
 
 ## Membership and Structure
 
@@ -78,7 +78,7 @@ The guild is organized in five working ranks:
 
 - **Initiate** (_sebau_)—admitted between ten and fourteen years of age, after demonstration of suitable physical strength and a successful audition at a chapter forge. Initiates serve at the bellows and the charcoal pit for two to three years before being permitted near the metal itself.
 - **Apprentice** (_sba_)—three to seven years of training under a single master, focused on the foundational skills: forge management, basic shapes, the disciplines of copper and bronze.
-- **Journeyman** (_hemty_)—qualified by examination; permitted to work independently on civilian commissions under a master's seal. The term hemty (literally "smith") is the historical Egyptian generic; in guild use it is the working rank.
+- **Journeyman** (_melnu_)—qualified by examination; permitted to work independently on civilian commissions under a master's seal.
 - **Master** (_lem-Mesnu_)—promoted by senior vote after a presented original work; permitted to seal weapons and armor for imperial commissions; permitted to take apprentices; permitted to sit on chapter councils.
 - **Great Smith** (_wer-Mesnu_)—the most senior masters; convened as the **Council of Smiths** at the central guildhouse; advise the Gar-Aû's quartermasters and adjudicate guild disputes.
 
@@ -98,7 +98,7 @@ The guild holds three sworn standards:
 - **The Standard of the Scale**—that armor is fitted, not merely made. A master who issues armor that does not fit its wearer has failed the standard, regardless of the armor's quality in isolation.
 - **The Standard of the Mark**—that the master's seal carries personal responsibility. A master cannot delegate the work and seal the result. He may take apprentices' work as journeyman product, sealed at journeyman grade, but his own seal attests his own hand.
 
-The standards are taught, in their full religious form, only at the elevation to master, and the elevation itself is a temple rite conducted at the great forge attached to the temple of Ptah in the capital.
+The standards are taught, in their full religious form, only at the elevation to master, and the elevation itself is a temple rite conducted at the great forge attached to the temple of Psaq'âru in the capital.
 
 ## Operations
 
@@ -106,14 +106,14 @@ The standards are taught, in their full religious form, only at the elevation to
 - **Temple commissions.** Ceremonial weapons, ritual instruments, statuary fittings, the bronze and copper components of temple architecture.
 - **Civilian metalwork.** The largest volume of work but the smallest source of guild prestige: plowshares, cookware, hinges, tools, jewelry mountings.
 - **The Mining Charters.** The guild holds standing imperial charters for the copper mines of the eastern desert and the tin sources brought up the Zumélesh from the south. Without these charters the guild could not supply itself; with them it controls the empire's bronze.
-- **Examinations and certifications.** All Ta'Khelâthi metalwork sold under any quality grade is, in principle, certified by a guild master.
+- **Examinations and certifications.** All Khelâthi metalwork sold under any quality grade is, in principle, certified by a guild master.
 
 ## Relations
 
 - [[affiliation-genzetgarau|Genzet'Gar-Aû]]—patron and ultimate authority. The relationship is one of substantial mutual dependence and quiet bargaining over privileges.
 - **The Imperial Military Quartermaster's Office**—primary client; the quartermasters wield significant leverage through their procurement decisions but cannot easily replace the guild.
 - **The Temples of [[affiliation-psaqaru|Faith of Psaq'âru]] and [[affiliation-gewaatis|Faith of Gewaâtis]]**—the guild's religious foundation; senior elevations are conducted in temple rite.
-- [[affiliation-garnuw|Gar'Nuw]] (the Hunters' Guild) and the other Ta'Khelâthi trade guilds—peer institutions; relations are cordial and structured by the inter-guild conventions established at the imperial guildhall.
+- [[affiliation-garnuw|Gar'Nuw]] (the Hunters' Guild) and the other Khelâthi trade guilds—peer institutions; relations are cordial and structured by the inter-guild conventions established at the imperial guildhall.
 - **Foreign metalworking traditions**—the guild views the Vylarian armory tradition with professional respect, the Khazryn smithing schools with cautious interest, and the Nordlands traditions with curiosity. Foreign smiths working in Aû'Khelâthu must obtain guild permission to seal work; permission is rarely granted.
 
 ## Identifying Marks

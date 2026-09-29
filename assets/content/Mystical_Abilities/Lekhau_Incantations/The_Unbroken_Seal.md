@@ -3,7 +3,7 @@ shortcode: unbrokenseal
 name: {full: The Unbroken Seal, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-description: "Tjaq'ûru a seal that cannot be opened at all except by a named holder, and cannot be worked around."
+description: "Sets a seal that cannot be opened at all except by a named holder, and cannot be worked around."
 tags: [gethunu-lekhau, incantation]
 data: {icon: garqarquzu, templatePriority: null, packFolder: regkhmys}
 sohl:

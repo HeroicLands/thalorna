@@ -58,7 +58,7 @@ The three traditions interact cautiously. Khelâthi priests have long studied Nk
 Each of the three polities guards its independence carefully. There has never been a unified Northern Fertile Region; the closest thing to an imperial project was a short-lived Khelâthi attempt, centuries ago, to bring the western temple-cities of Okháris into tributary relationship, which collapsed within a generation. The region's interstate politics have been characterized instead by:
 
 - **Occasional border friction** between Bethua and Aû'Khelâthu over the poorly-defined eastern frontier.
-- **Pastoral-nomadic tribute relationships** along the southern margins of Bethua (where Okháric frontier clans pay tribute to Bethuan authorities in exchange for grazing rights) and along the western fringes of Aû'Khelâthu (where steppe peoples maintain similar arrangements with Khelâthi nomarchs).
+- **Pastoral-nomadic tribute relationships** along the southern margins of Bethua (where Okháric frontier clans pay tribute to Bethuan authorities in exchange for grazing rights) and along the western fringes of Aû'Khelâthu (where steppe peoples maintain similar arrangements with Khelâthi Halzi'a).
 - **Diplomatic coordination** on threats from outside the region—the occasional sea-raid from the north, the longer-term question of the Central Rainforest tribes' claims on their northern borderlands.
 
 The three states trade extensively, intermarry at the elite level selectively, and acknowledge one another as peers. None seeks to conquer the others and none would likely succeed if it tried.

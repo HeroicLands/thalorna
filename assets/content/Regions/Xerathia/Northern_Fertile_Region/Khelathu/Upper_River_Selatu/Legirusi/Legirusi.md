@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Legirusi is the capital of [[affiliation-selatlegirus|The Selat of Legirusi]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]]. It holds the selat's chief temple of [[affiliation-psaqaru|Faith of Psaq'âru]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's: stone-quarries and master masons; the temple-workshops that carve the monuments.
+Legirusi is the capital of the [[affiliation-selatlegirus|Selat of Legirusi]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]]. It holds the selat's chief temple of [[affiliation-psaqaru|Faith of Psaq'âru]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's: stone-quarries and master masons; the temple-workshops that carve the monuments.
 
 ## See Also
 

@@ -215,7 +215,7 @@ The "confirming officer's cut" that the Legar takes on noble commission confirma
 
 ## The Four Estates of Vylarian Nobility
 
-The imperial registry maintained by the [[affiliation-imprlscrblgld|The Imperial Scribal Guild]] recognizes four formal estates of nobility. The annual registry update—published at the spring imperial address—is one of the most politically watched documents in the empire; elevations, demotions, and standing-grade adjustments are all recorded there.
+The imperial registry maintained by the [[affiliation-imprlscrblgld|Imperial Scribal Guild]] recognizes four formal estates of nobility. The annual registry update—published at the spring imperial address—is one of the most politically watched documents in the empire; elevations, demotions, and standing-grade adjustments are all recorded there.
 
 | Estate                              | Houses | Livery / Mark                                            | Mode of Address       | Notes                                                                                                                                                                                        |
 | ----------------------------------- | ------ | -------------------------------------------------------- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -228,9 +228,9 @@ Movement between estates is rare but real. An Aerean house that produces three g
 
 ## Currency and the Commission System
 
-The Vylarian currency anchors at the **Aurion** (gold coin) but circulates principally in the **Argentus** (Argo) and **Octus** (Bit). One Aurion equals 160 Argo equals 1,280 Bits. The Aurion is barely a circulating coin—perhaps 200,000 in existence empire-wide, mostly held in noble vaults, the imperial treasury, and the [[affiliation-aerarimmpr|The Aerarium Imperii]]'s strongroom at Magnápolis. (See the [[lore-vylrncrncy|Vylarian Currency]] reference for the full coinage system, sample prices, and wage scale.)
+The Vylarian currency anchors at the **Aurion** (gold coin) but circulates principally in the **Argentus** (Argo) and **Octus** (Bit). One Aurion equals 160 Argo equals 1,280 Bits. The Aurion is barely a circulating coin—perhaps 200,000 in existence empire-wide, mostly held in noble vaults, the imperial treasury, and the [[affiliation-aerarimmpr|Aerarium Imperii]]'s strongroom at Magnápolis. (See the [[lore-vylrncrncy|Vylarian Currency]] reference for the full coinage system, sample prices, and wage scale.)
 
-Large-value commerce moves not in physical Aurion coin but in **paper script** issued by the [[affiliation-clgmrgntrrm|moneylenders' guild]] against the [[affiliation-aerarimmpr|imperial treasury]]'s reserves. (See the [[affiliation-aerarimmpr|The Aerarium Imperii]] note for the structure of the three-tier note system—retail, traveler's, and master notes.) Commission payments—even at the largest scales—are settled in script for nearly all houses and nearly all commissions; physical Aurion payment is reserved for the most prestigious transactions where an Aurelian house wishes to make a public display of liquid wealth.
+Large-value commerce moves not in physical Aurion coin but in **paper script** issued by the [[affiliation-clgmrgntrrm|moneylenders' guild]] against the [[affiliation-aerarimmpr|imperial treasury]]'s reserves. (See the [[affiliation-aerarimmpr|Aerarium Imperii]] note for the structure of the three-tier note system—retail, traveler's, and master notes.) Commission payments—even at the largest scales—are settled in script for nearly all houses and nearly all commissions; physical Aurion payment is reserved for the most prestigious transactions where an Aurelian house wishes to make a public display of liquid wealth.
 
 The commission price tables below are denominated in Aurions as the unit of account; actual payment in nearly every case is by sealed Collegium script.
 

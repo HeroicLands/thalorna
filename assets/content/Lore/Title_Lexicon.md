@@ -32,7 +32,7 @@ the headings here. Under each is every people that has a word for it.
 
 Where a people is absent from a heading, its ladder does not reach that far or
 does not divide there. An absence is not always a silence: the Khelâthi run their
-nomes without a treasurer and read no omens at court, and both are facts about
+selatu without a treasurer and read no omens at court, and both are facts about
 Aû'Khelâthu rather than gaps in the account of it.
 
 ```sql {section-level=3}

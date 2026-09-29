@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Iuthnet Selat is the land of [[affiliation-selatiuthnet|The Selat of Iuthnet]], one of the [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+Iuthnet Selat is the land of the [[affiliation-selatiuthnet|Selat of Iuthnet]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 

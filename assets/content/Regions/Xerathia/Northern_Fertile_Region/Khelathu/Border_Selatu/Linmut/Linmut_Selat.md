@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Linmut Selat is the land of [[affiliation-selatlinmut|The Selat of Linmut]], one of the [[affiliation-borderselatu|The Border Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+Linmut Selat is the land of the [[affiliation-selatlinmut|Selat of Linmut]], one of the [[affiliation-borderselatu|Border Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 

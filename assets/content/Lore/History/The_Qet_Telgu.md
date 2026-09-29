@@ -58,7 +58,7 @@ valley under a single crown. Years from it are noted **ST**, "Renpet Qet Telgu,"
 is approximately 2,830 ST, which is how the reckoning converts.
 
 It is one occurrence with two descriptions. Outside the reckoning it began, it is the founding of
-[[affiliation-empireakhlth|Empire of Aû'Khelâthu]] on its river; inside it, it is the moment civilization was
+the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] on its river; inside it, it is the moment civilization was
 established and the beginning of everything that can be dated. The temple chronologies at
 [[place-khelunu|Khelunu]] and elsewhere are meticulous, unbroken, and real; whether they are
 accurate for the earliest centuries is another matter entirely.

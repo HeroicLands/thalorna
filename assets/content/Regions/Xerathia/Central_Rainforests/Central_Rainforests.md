@@ -28,13 +28,13 @@ Several great rivers drain the region. Most flow north toward the [[place-vylari
 
 The climate is wet and warm year-round, with a rhythm of alternating dry and rainy seasons rather than true summer and winter. Daily afternoon thunderstorms are the norm through most of the year. Fog and mist are constant in the interior, and the air is thick with the smell of decay and growth happening simultaneously.
 
-The forest holds species of tree, vine, insect, and beast found nowhere else on Thalorna, many of them dangerous. It also holds endemic diseases—fevers, fluxes, parasites, and rots—that make long-duration expeditions by outsiders a matter of luck as much as preparation. Rainforest tribes have built up physiological and pharmacological defenses that northerners lack; a Ta'Khelâthi soldier or Vylarian explorer entering the forest is reckoned to have months, not years, before disease takes them whether any enemy does or not.
+The forest holds species of tree, vine, insect, and beast found nowhere else on Thalorna, many of them dangerous. It also holds endemic diseases—fevers, fluxes, parasites, and rots—that make long-duration expeditions by outsiders a matter of luck as much as preparation. Rainforest tribes have built up physiological and pharmacological defenses that northerners lack; a Khelâthi soldier or Vylarian explorer entering the forest is reckoned to have months, not years, before disease takes them whether any enemy does or not.
 
 ## Peoples and Culture
 
 The forest tribes are many, small, and extraordinarily varied. What little the northern scholars have managed to set down about them suggests a patchwork of distinct languages, social structures, and ritual traditions rather than anything resembling a unified culture. A few broad patterns recur:
 
-**Settled river-tribes** maintain semi-permanent villages along navigable waterways, practice shifting horticulture in forest clearings, and trade cautiously with Ta'Khelâthi, Okhárian, and Bethuan merchants who venture upriver. Their political organization typically centers on a council of elders, a ritual specialist, and a war-leader, with authority distributed rather than concentrated.
+**Settled river-tribes** maintain semi-permanent villages along navigable waterways, practice shifting horticulture in forest clearings, and trade cautiously with Khelâthi, Okhárian, and Bethuan merchants who venture upriver. Their political organization typically centers on a council of elders, a ritual specialist, and a war-leader, with authority distributed rather than concentrated.
 
 **Deep-forest tribes** live far from the rivers, move camp frequently, and have little or no contact with the north. What contact they do have is mediated—through the settled river-tribes, through ritual exchanges, and through the long-established forest trails whose existence is known only to those who have grown up on them.
 
@@ -44,7 +44,7 @@ A small number of [[lore-flksinale|Sinalë]] enclaves are rumored in the deepest
 
 ## Religion
 
-There is no pantheon of the Central Rainforests. There are thousands of spirits, hundreds of local courts, dozens of lineage traditions, and a small number of wider mythological cycles that recur across linguistically unrelated peoples. Northern scholars who have tried to impose the pantheon framework—notably the Khelâthi temple-schools of [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] and, more recently, the Aurèldían missionary academies—have produced taxonomies of such baroque uselessness that the attempt has been quietly abandoned more than once.
+There is no pantheon of the Central Rainforests. There are thousands of spirits, hundreds of local courts, dozens of lineage traditions, and a small number of wider mythological cycles that recur across linguistically unrelated peoples. Northern scholars who have tried to impose the pantheon framework—notably the Khelâthi temple-schools of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] and, more recently, the Aurèldían missionary academies—have produced taxonomies of such baroque uselessness that the attempt has been quietly abandoned more than once.
 
 What does recur is a recognition that the forest itself is alive in a way that merely wooded places are not, and that the appropriate relationship to it is negotiation rather than mastery. Offerings, apologies, and ritualized restraints on hunting and gathering are universal across the rainforest peoples. The forest tolerates those who behave correctly and punishes—through accident, disease, or the simple failure to find one's way home—those who do not.
 

@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Gadju-Mûlu Selat is the land of [[affiliation-selatgadjuml|The Selat of Gadju-Mûlu]], one of the [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+Gadju-Mûlu Selat is the land of the [[affiliation-selatgadjuml|Selat of Gadju-Mûlu]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 

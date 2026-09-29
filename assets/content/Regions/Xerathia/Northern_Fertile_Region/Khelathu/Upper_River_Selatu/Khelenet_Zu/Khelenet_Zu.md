@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Khelenet-Zu is the capital of [[affiliation-selatkhelntz|The Selat of Khelenet-Zu]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]]. It holds the selat's chief temple of [[affiliation-qearet|Faith of Qe'âret]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's: old assize-courts; a selat famous for its lawyer-priests and land-survey scribes.
+Khelenet-Zu is the capital of the [[affiliation-selatkhelntz|Selat of Khelenet-Zu]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]]. It holds the selat's chief temple of [[affiliation-qearet|Faith of Qe'âret]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's: old assize-courts; a selat famous for its lawyer-priests and land-survey scribes.
 
 ## See Also
 

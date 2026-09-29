@@ -98,7 +98,7 @@ Classical Vedyari follows a **Subject-Object-Verb (SOV)** order in main clauses,
 
 **Classical Script:** Vedyari employs the [[skill-vdykshrscrpt|Vedyákshara]], a syllabic script of approximately 48 distinct characters, each representing a CV syllable. Consonant clusters and final consonants are marked through diacritical modification of the base glyph. The script evolved from an older abjadic writing system (now preserved only in sacred contexts) and shows clear influence from neighboring systems.
 
-**Demotic Cursive:** A more flowing, connected variant has developed for administrative and mercantile use, reducing the syllabic inventory to roughly 36 core forms with additional ligatures.
+**Common Cursive:** A more flowing, connected variant has developed for administrative and mercantile use, reducing the syllabic inventory to roughly 36 core forms with additional ligatures.
 
 **Literacy:** Formal education in Classical Vedyari is the province of the priesthood, professional scribes, and perhaps 20-35% of the nobility. Even in the wealthiest city-states, the general population is overwhelmingly non-literate; merchants and guildsmen possess functional literacy at best—enough to recognize trade marks and numerals—and rely on scribes for contracts and record-keeping. In hinterland regions, literacy is virtually nonexistent outside the local temple. The mercantile caste has driven adoption of simplified script variants, but these are used by hired scribes rather than merchants themselves.
 

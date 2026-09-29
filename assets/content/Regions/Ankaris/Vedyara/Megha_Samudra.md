@@ -31,7 +31,7 @@ The wet season is a working season ashore and a dead one afloat. Hulls come up t
 
 ## The Khelâthi Passage
 
-The long voyage from this coast runs west and then north-west to the delta cities of [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and it is the most valuable passage any Vedyari ship makes. It is a month's sailing in a fair season. Vedyari spice, gems, worked ivory and fine cotton go out on it; Khelâthi grain, linen, papyrus and gold come back.
+The long voyage from this coast runs west and then north-west to the delta cities of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and it is the most valuable passage any Vedyari ship makes. It is a month's sailing in a fair season. Vedyari spice, gems, worked ivory and fine cotton go out on it; Khelâthi grain, linen, papyrus and gold come back.
 
 What reaches the [[place-vylarianse|Vylarian Sea]] from Vedyara goes through Khelâthi hands and at Khelâthi rates. The Vedyari houses know this and have never found a way around it. Aû'Khelâthu keeps its own year, its own weights and its own account of what a cargo is worth at the quay, and a Vedyari factor at the delta learns all three or is beaten on every contract.
 

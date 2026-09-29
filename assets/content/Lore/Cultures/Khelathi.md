@@ -10,7 +10,7 @@ data: {packFolder: regkhcult}
 
 The Khelâthi hold that theirs is the oldest civilization in the world, and the temple king-lists count 2,830 years back to the first Gar-Aû in unbroken sequence. Three facts shape a life in the valley: the river comes and goes on a schedule a farmer can name to the day, the house holds the land and answers at law for everyone attached to it, and the heart is weighed at the end before a court no one has ever bribed.
 
-## The River Tjaq'ûru the Year
+## The River Sets the Year
 
 The year runs in three seasons of four months each, and each is named for what the water is doing. Azlet is the inundation, when the fields lie drowned and the labor goes to the temples and the works; Gelet is the emergence, when men plant the black silt the flood has left; Shelu is the harvest. Every month carries thirty days, with five intercalary days at the end belonging to no month at all.
 
@@ -20,7 +20,7 @@ The flood erases every boundary stone in the valley once a year, so surveyors wa
 
 ## Which Hand a Man Was Taught
 
-The Khelâthi write in two hands and a scribe is trained into one of them: the sacred hand belongs to the temple and the tomb, the demotic hand to the counting-house, the tax roll and the contract. Training in one confers nothing whatever in the other. A priest who follows a mortuary text without effort may be unable to read a harbor manifest, and the clerk who wrote that manifest cannot read the wall behind him.
+The Khelâthi write in two hands and a scribe is trained into one of them: the sacred hand belongs to the temple and the tomb, the people's hand to the counting-house, the tax roll and the contract. Training in one confers nothing whatever in the other. A priest who follows a mortuary text without effort may be unable to read a harbor manifest, and the clerk who wrote that manifest cannot read the wall behind him.
 
 So the useful question about a stranger is never whether he is literate—it is which hand he was taught, and the answer places him at once as temple or trade, wall or ledger. A man who reads both is either very senior or under suspicion.
 

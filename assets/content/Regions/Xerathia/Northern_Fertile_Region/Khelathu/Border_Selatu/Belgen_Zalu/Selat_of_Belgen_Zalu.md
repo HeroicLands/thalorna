@@ -86,7 +86,7 @@ sohl: {system: {commonSkills: [khelthlnglng]}}
 
 ## Overview
 
-Belgen-Zalu is one of the border selatu of [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: the deepest southern fort; the empire's last writ before the tribal frontier. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-qeztu|Faith of Qeztu]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-belgenzalunome|Belgen-Zalu]].
+Belgen-Zalu is one of the border selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: the deepest southern fort; the empire's last writ before the tribal frontier. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-qeztu|Faith of Qeztu]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-belgenzalunome|Belgen-Zalu]].
 
 ## Character
 

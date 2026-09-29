@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Lenen-Nezut Selat is the land of [[affiliation-selatlennnzt|The Selat of Lenen-Nezut]], one of the [[affiliation-upperrivrslt|The Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+Lenen-Nezut Selat is the land of the [[affiliation-selatlennnzt|Selat of Lenen-Nezut]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 

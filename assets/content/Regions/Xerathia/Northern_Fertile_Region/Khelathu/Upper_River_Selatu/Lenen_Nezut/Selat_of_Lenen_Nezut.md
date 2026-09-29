@@ -86,7 +86,7 @@ sohl: {system: {commonSkills: [khelthlnglng]}}
 
 ## Overview
 
-Lenen-Nezut is one of the upper-river selatu of [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: an old capital of a former dynasty, proud and faded; ram-cult and horse-pasture. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-uqaa|Faith of Uqa'â]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-lenenneztslt|Lenen-Nezut Selat]].
+Lenen-Nezut is one of the upper-river selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: an old capital of a former dynasty, proud and faded; ram-cult and horse-pasture. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-uqaa|Faith of Uqa'â]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-lenenneztslt|Lenen-Nezut Selat]].
 
 ## Character
 

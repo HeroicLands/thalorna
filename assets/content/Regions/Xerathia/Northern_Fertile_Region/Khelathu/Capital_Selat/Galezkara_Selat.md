@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Galezkara Selat is the land of [[affiliation-capitalselat|The Capital Selat]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+Galezkara Selat is the land of the [[affiliation-capitalselat|Capital Selat]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 Within its bounds lie the palace and the throne, the central bureaucracy, the greatest temples of the [[affiliation-khelathpnthn|Khelâthi Pantheon]], the [[affiliation-genzetpalu|Genzet'Palu]] council, and—across the river on the western bank—the royal necropolis where the dynasties of three thousand years lie buried. With some two and a half million souls, it is the most populous selat in the empire and the densest concentration of power, wealth, and people in [[place-xerathia|Xerathia]].
 
@@ -26,12 +26,12 @@ The selat is a city-and-its-hinterland writ vast: the great metropolis of [[plac
 
 ## Economy
 
-The Capital Selat consumes more than it produces, and proudly so. It is fed by grain barged down from the [[affiliation-upperrivrslt|The Upper River Selatu]] and the produce of its own dense hinterland; it is enriched by the tribute and taxes of forty selatu flowing into its treasuries; and it employs an immense population in the work of governing, worshipping, building, and burying. The great temple-complexes are vast economic enterprises in their own right, owning farmland across the selat and employing thousands. The mortuary industry alone—embalmers, tomb-builders, funerary artists, priests, and the grave-goods trades that serve the royal necropolis—sustains whole districts. And the construction of the monuments, carried on through every flood-season, is the largest public works program in the world.
+The Capital Selat consumes more than it produces, and proudly so. It is fed by grain barged down from the [[affiliation-upperrivrslt|Upper River Selatu]] and the produce of its own dense hinterland; it is enriched by the tribute and taxes of forty selatu flowing into its treasuries; and it employs an immense population in the work of governing, worshipping, building, and burying. The great temple-complexes are vast economic enterprises in their own right, owning farmland across the selat and employing thousands. The mortuary industry alone—embalmers, tomb-builders, funerary artists, priests, and the grave-goods trades that serve the royal necropolis—sustains whole districts. And the construction of the monuments, carried on through every flood-season, is the largest public works program in the world.
 
 ## Notable Features
 
 - The imperial palace and the throne of the Gar-Aû, at the heart of [[place-galezkara|Galezkara]]
-- The great temples—the cult of [[affiliation-khelathpnthn|Khelâthi Pantheon]] that defines official doctrine chief among them
+- The great temples—the cult of [[lore-uqaadty|Uqa'â]] that defines official doctrine chief among them
 - The royal necropolis on the western bank—pyramids and rock-cut tombs of three thousand years of dynasties
 
 ## Settlements

@@ -436,7 +436,7 @@ Linta stands 5'10" tall with a medium build. She has tawny skin, jet black hair,
 
 ### Early Life
 
-Born to the Zu'Zereketu clan in the fertile valleys of the Empire of [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], Linta grew up watching her mother's brothers manage trade caravans between distant cities. Where other children played at merchant games, she scrambled up cliffside trails and learned to read the land like her elders read ledgers. Her mother, a priestess of [[lore-uzneradty|Uznêra]], blessed her daughter's natural agility with sacred oils before each journey, whispering prayers to the goddess of fertility and life's bounty for safe travels. This bond to the divine marked Linta early, though she would never serve in any temple—her calling lay elsewhere.
+Born to the Zu'Zereketu clan in the fertile valleys of the Empire of [[affiliation-empireakhlth|Aû'Khelâthu]], Linta grew up watching her mother's brothers manage trade caravans between distant cities. Where other children played at merchant games, she scrambled up cliffside trails and learned to read the land like her elders read ledgers. Her mother, a priestess of [[lore-uzneradty|Uznêra]], blessed her daughter's natural agility with sacred oils before each journey, whispering prayers to the goddess of fertility and life's bounty for safe travels. This bond to the divine marked Linta early, though she would never serve in any temple—her calling lay elsewhere.
 
 ### Training and Path
 

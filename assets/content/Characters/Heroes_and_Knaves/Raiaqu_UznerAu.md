@@ -427,7 +427,7 @@ Raiaqu stands 6'0" tall with a heavy build. He has ebony skin, graying black hai
 
 **Early Mastery**
 
-Raiaqu was born into the Sekmetâ family, a lineage whose name had been whispered among the smiths and bladewrights of the Empire of [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] for three generations. His father, [[being-zekenarezkmt|Zekenare Zekmetâ]], was himself a craftsman of note, and from age seven, young Raiaqu spent every waking hour in the workshop, learning the sacred geometry of tempering and the ancient songs the smiths sang to guide their hammer strikes. By his twentieth year, he had surpassed his father in technique, earning the notice of the city's noble houses and the military's elite orders.
+Raiaqu was born into the Zekmetâ family, a lineage whose name had been whispered among the smiths and bladewrights of the Empire of [[affiliation-empireakhlth|Aû'Khelâthu]] for three generations. His father, [[being-zekenarezkmt|Zekenare Zekmetâ]], was himself a craftsman of note, and from age seven, young Raiaqu spent every waking hour in the workshop, learning the sacred geometry of tempering and the ancient songs the smiths sang to guide their hammer strikes. By his twentieth year, he had surpassed his father in technique, earning the notice of the city's noble houses and the military's elite orders.
 
 **The Guild and Renown**
 
@@ -447,7 +447,7 @@ His gruff manner covers a deep melancholy: he has spent fifty-five years in serv
 
 ### Motivation
 
-Raiaqu Sekmetâ drives himself forward by a singular obsession: to create the perfect blade before age or death claims him. This is not a goal achievable in one lifetime, and he knows it—yet the pursuit itself is what gives his days meaning. He believes that through his craft he serves Uznêra's principle of creation and renewal, and that every weapon forged with true excellence contributes some measure of order and balance to a chaotic world. Beyond personal legacy, he is motivated by a fierce protectiveness of his craft's integrity; he works tirelessly to see that inferior smiths do not tarnish the reputation of true weaponcraft or deceive nobles into commissioning dangerous, shoddy arms.
+Raiaqu Zekmetâ drives himself forward by a singular obsession: to create the perfect blade before age or death claims him. This is not a goal achievable in one lifetime, and he knows it—yet the pursuit itself is what gives his days meaning. He believes that through his craft he serves Uznêra's principle of creation and renewal, and that every weapon forged with true excellence contributes some measure of order and balance to a chaotic world. Beyond personal legacy, he is motivated by a fierce protectiveness of his craft's integrity; he works tirelessly to see that inferior smiths do not tarnish the reputation of true weaponcraft or deceive nobles into commissioning dangerous, shoddy arms.
 
 ### Strengths
 
@@ -486,7 +486,7 @@ Raiaqu Sekmetâ drives himself forward by a singular obsession: to create the pe
 
 ## Plot Hooks
 
-1. **The Perfect Metal**: A merchant arrives in the city claiming to possess an ingot of meteoric iron, a material that fell from the heavens itself. Raiaqu Sekmetâ has heard legends of such metal—impossibly strong, impossibly rare—but is skeptical of the merchant's claims. The party is contracted to authenticate the material or track down its true origin, only to discover that the meteor fragment may not have come from the heavens at all, but from a fell sorcery involving a dead god's burial site. Raiaqu becomes obsessed with obtaining the metal, potentially drawing the party into dangerous mystical territory they hadn't anticipated.
+1. **The Perfect Metal**: A merchant arrives in the city claiming to possess an ingot of meteoric iron, a material that fell from the heavens itself. Raiaqu Zekmetâ has heard legends of such metal—impossibly strong, impossibly rare—but is skeptical of the merchant's claims. The party is contracted to authenticate the material or track down its true origin, only to discover that the meteor fragment may not have come from the heavens at all, but from a fell sorcery involving a dead god's burial site. Raiaqu becomes obsessed with obtaining the metal, potentially drawing the party into dangerous mystical territory they hadn't anticipated.
 
 2. **The Broken Blade of Prophecy**: A warrior arrives at Raiaqu's forge with a shattered sword of extraordinary make, claiming it was broken in heroic circumstance and must be reforged to fulfill an ancient prophecy. Yet Raiaqu, examining the fractures, realizes that the blade's original forging contains techniques he has never encountered—suggesting it was created by a master smith from a previous age or even a foreign land. He insists on investigating the blade's origins before attempting reforging, engaging the party to locate historical records, interview the warrior's ancestors' companions, or even commune with the spirit of the blade's original creator through magical means.
 

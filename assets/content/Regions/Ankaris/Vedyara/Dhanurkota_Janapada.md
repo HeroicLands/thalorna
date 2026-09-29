@@ -150,7 +150,7 @@ Within the [[affiliation-janpdsvdyr|Mahā-Sangha]], Dhanurkota's reputation is h
 
 ## Commerce and Currency
 
-Dhanurkota Janapada uses the [[lore-vdyrnbnkng|Vedyaran banking system]], administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. Foreign coin, weighed Khazryn metal and the Ta'Khelâthi deben pieces, is exchangeable at frontier moneylenders at Collective-controlled rates. The Vedyaran system is the dominant medium of internal commerce. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
+Dhanurkota Janapada uses the [[lore-vdyrnbnkng|Vedyaran banking system]], administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. Foreign coin, weighed Khazryn metal and the Khelâthi gezan pieces, is exchangeable at frontier moneylenders at Collective-controlled rates. The Vedyaran system is the dominant medium of internal commerce. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
 
 ## See Also
 

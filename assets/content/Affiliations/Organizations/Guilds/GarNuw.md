@@ -14,7 +14,7 @@ data:
   governance:
     model: council
     summary: >-
-      A chartered guild of Ta'Khelâthi professional hunters, elevated from apprentice to Great Hunter, governed by the Council of the Long Spear under its First Hunter.
+      A chartered guild of Khelâthi professional hunters, elevated from apprentice to Great Hunter, governed by the Council of the Long Spear under its First Hunter.
     ranks:
       - level: 0
         title: Revoked
@@ -64,11 +64,11 @@ _Khelâthi: "The House of Hunters"—the guild of professional hunters of Aû'Kh
 - **Type:** Imperial chartered guild
 - **Region:** [[place-aukhelathrgq|Aû'Khelâthu Region]]—central guildhouse at the capital, with regional chapter halls along the Zumélesh and at the desert edge
 - **Charter:** Granted by the seventh Gar-Aû of the present dynasty; renewed regularly thereafter
-- **Magnum Collegium status:** Not a member; independent Ta'Khelâthi institution. No standing credential equivalence with the [[affiliation-magnumclgm|The Magnum Collegium]]; foreign hunters operating in Aû'Khelâthu require case-by-case license. The Haradian [[affiliation-sodnaqirin|Sôd-Naqîrîn]] has, however, recently approached Gar'Nuw with proposals for an equivalence agreement covering desert and frontier work; negotiations are early-stage.
+- **Magnum Collegium status:** Not a member; independent Khelâthi institution. No standing credential equivalence with the [[affiliation-magnumclgm|Magnum Collegium]]; foreign hunters operating in Aû'Khelâthu require case-by-case license. The Haradian [[affiliation-sodnaqirin|Sôd-Naqîrîn]] has, however, recently approached Gar'Nuw with proposals for an equivalence agreement covering desert and frontier work; negotiations are early-stage.
 
 ## Overview
 
-Gar'Nuw is the guild that licenses the empire's professional hunters. Most Ta'Khelâthi game-taking is amateur—the household's livestock, the village's snares, the noble's pleasure hunt—and the guild has no claim on amateurs. What the guild claims, by imperial charter, is the right to license those who pursue hunting as a paid occupation: the suppliers of game-meat to the city markets, the cullers who answer when crocodiles or hippopotami threaten farming villages, the trappers of valuable fauna for temple and noble menageries, the men and women who venture into the eastern desert for falcons and into the southern marshes for the rarer ibis species, the specialists who supply the imperial mews with raptors and the great houses with hounds.
+Gar'Nuw is the guild that licenses the empire's professional hunters. Most Khelâthi game-taking is amateur—the household's livestock, the village's snares, the noble's pleasure hunt—and the guild has no claim on amateurs. What the guild claims, by imperial charter, is the right to license those who pursue hunting as a paid occupation: the suppliers of game-meat to the city markets, the cullers who answer when crocodiles or hippopotami threaten farming villages, the trappers of valuable fauna for temple and noble menageries, the men and women who venture into the eastern desert for falcons and into the southern marshes for the rarer ibis species, the specialists who supply the imperial mews with raptors and the great houses with hounds.
 
 The guild functions much as Gar'Melnu does in its trade: it sets standards, licenses practitioners, examines apprentices, conducts inter-member arbitration, negotiates with the imperial administration on behalf of the profession, and adjudicates disputes between members. It does not, however, hunt collectively. Each licensed hunter works independently or in a small partnership; the guild's role is to certify and to support, not to organize.
 
@@ -87,7 +87,7 @@ Gar'Nuw recognizes four working ranks:
 
 The current chair, the **First Hunter of the Gar-Aû** (_Ilmy-Qelt Nuw_), is [[being-germrytqltw2|Germeryt Qeltawes]], a woman in her fifties whose reputation rests on her single-handed culling of a crocodile that had taken eleven villagers over the course of a season.
 
-The guild's specialty divisions reflect the diversity of Ta'Khelâthi game:
+The guild's specialty divisions reflect the diversity of Khelâthi game:
 
 - **River-hunters** (crocodile, hippopotamus, ibis, riverine fauna)
 - **Marsh-hunters** (waterfowl, the rarer marsh-mammals)
@@ -111,7 +111,7 @@ The guild teaches three principles, drilled into apprentices from the first seas
 - **The Hunter's Honesty**—that the report of a hunt is as binding as the hunt itself. A member who falsifies game counts, returns conditions, or pricing is subject to revocation.
 - **The Hunter's Respect**—that the beast hunted is a creature of the Gar-Aû's lands, and that wantonness in its killing offends both the gods and the imperial order. Kills are conducted with the speed and efficiency that the beast's nature permits.
 
-The third principle has religious resonance: the Ta'Khelâthi pantheon includes deities (notably [[affiliation-linhur|Faith of Linhur]] and [[affiliation-linqur|Faith of Linqur]]) whose patronage of the hunt is understood to include scrutiny of the hunter's conduct. The guild's senior elevations include rites at both temples, performed in tandem.
+The third principle has religious resonance: the Khelâthi pantheon includes deities (notably [[affiliation-linhur|Faith of Linhur]] and [[affiliation-linqur|Faith of Linqur]]) whose patronage of the hunt is understood to include scrutiny of the hunter's conduct. The guild's senior elevations include rites at both temples, performed in tandem.
 
 ## Operations
 
@@ -125,7 +125,7 @@ The third principle has religious resonance: the Ta'Khelâthi pantheon includes 
 
 - [[affiliation-genzetgarau|Genzet'Gar-Aû]]—patron; the guild's charter and the Court's standing favor are mutually reinforcing.
 - **The Meglay caste**—formal coexistence; mutual non-interference reinforced by informal payments and courtesies.
-- **The [[affiliation-zeghetnelgu|Zeghet'Nelgu]]**—peer Ta'Khelâthi hunting institution; jurisdictional accommodation along the Zumélesh.
+- **The [[affiliation-zeghetnelgu|Zeghet'Nelgu]]**—peer Khelâthi hunting institution; jurisdictional accommodation along the Zumélesh.
 - [[affiliation-garmelnu|Gar'Melnu]]—sibling imperial chartered guild; cooperative relations, joint procurement of certain materials (the guild's hunters need blades and traps; the smiths' suppliers need hides).
 - **The Temples of [[affiliation-linhur|Faith of Linhur]] and [[affiliation-linqur|Faith of Linqur]]**—religious foundation; senior elevations conducted in temple rite.
 
@@ -138,4 +138,4 @@ A guild member carries a stamped bronze token (the _nuw-mudra_) bearing his lice
 - **The Falsified Cull.** A village along the Zumélesh has reported, and been paid for, a crocodile cull that on later inspection appears to have been substantially exaggerated. The Master Hunter who sealed the report has produced documentation; the village headman swears the documentation is false. The chapter council must investigate, with consequences for the master's seal either way.
 - **The Legendary Beast.** Master Latari, near death, has summoned [[being-akhrelrthllr|Akhrelu Reth'el'Lêru]] to pass on knowledge of a creature he has never taught—a beast of immense rarity that Latari has hunted, refrained from killing, and concealed for forty years. The knowledge, once passed, will inevitably leak to powerful interests who will commission a hunt the guild cannot openly support or refuse.
 - **The Meglay Provocation.** A Meglay noble has begun conducting commercial-scale hunts under cover of his hereditary exemption, undercutting guild pricing in the meat markets. The Council of the Long Spear's response will test the accommodation that has held the two institutions in peace for centuries.
-- **The Foreign Specialist.** A Vylarian beast-master, claiming an Ordo Arcanis license to procure rare fauna for arcane study, has begun operating in Ta'Khelâthi territory without a Gar'Nuw license. The Court has so far declined to intervene. The guild must decide whether to obstruct his work, accommodate him, or formally petition the Gar-Aû to refuse Ordo procurement permits.
+- **The Foreign Specialist.** A Vylarian beast-master, claiming an Ordo Arcanis license to procure rare fauna for arcane study, has begun operating in Khelâthi territory without a Gar'Nuw license. The Court has so far declined to intervene. The guild must decide whether to obstruct his work, accommodate him, or formally petition the Gar-Aû to refuse Ordo procurement permits.

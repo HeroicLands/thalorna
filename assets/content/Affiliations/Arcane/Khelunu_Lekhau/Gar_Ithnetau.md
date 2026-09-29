@@ -47,7 +47,7 @@ data:
       Keeper of the Twelve Hours: >-
         Holds the litany by which a soul is guided through the night, and is answerable for its exactness at every hour.
       Binder of the Chamber: >-
-        Tjaq'ûru the workings in the deepest chambers—the zaglu-warriors, ḍumaṭu that wake at a broken seal, and the revenant-wardens, ṭerebu set to walk the dark with their wits about them.
+        Sets the workings in the deepest chambers—the zaglu-warriors, ḍumaṭu that wake at a broken seal, and the revenant-wardens, ṭerebu set to walk the dark with their wits about them.
       Reader of the Sealed Work: >-
         Alone permitted to open a sealed chamber to correct a failed binding, and required to reseal it the same night.
   seat: null

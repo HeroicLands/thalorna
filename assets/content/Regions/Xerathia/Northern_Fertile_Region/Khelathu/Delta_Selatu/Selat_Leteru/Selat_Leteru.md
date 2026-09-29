@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Selat-Leteru is the land of [[affiliation-selatseltltr|The Selat of Selat-Leteru]], one of the [[affiliation-deltaselatu|The Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+Selat-Leteru is the land of the [[affiliation-selatseltltr|Selat of Selat-Leteru]], one of the [[affiliation-deltaselatu|Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 

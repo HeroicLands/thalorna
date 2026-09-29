@@ -43,7 +43,7 @@ data:
           Chief lector of the House at a temple, answerable for every form its practitioners set down. Where a working has failed and stands failed, this is the office that must go and correct it.
     offices:
       Warden of the Tracks: >-
-        Tjaq'ûru and maintains the workings on the desert roads, water-stations and quarry-camps.
+        Sets and maintains the workings on the desert roads, water-stations and quarry-camps.
       Keeper of the Sealed Forms: >-
         Holds the House's plague and drought formulae, which are kept under the same restriction as Gar-Zelgút's treatises though they are not themselves Chaos.
   seat: null

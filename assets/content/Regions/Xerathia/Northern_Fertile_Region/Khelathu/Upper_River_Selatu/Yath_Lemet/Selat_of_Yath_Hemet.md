@@ -86,7 +86,7 @@ sohl: {system: {commonSkills: [khelthlnglng]}}
 
 ## Overview
 
-Yath-Lemet is one of the upper-river selatu of [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: the smallest upper selat; a narrow gorge-stretch where the valley pinches to almost nothing. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-tjelsuk|Faith of Tjelsuk]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-yathlemetslt|Yath-Lemet Selat]].
+Yath-Lemet is one of the upper-river selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: the smallest upper selat; a narrow gorge-stretch where the valley pinches to almost nothing. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-tjelsuk|Faith of Tjelsuk]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-yathlemetslt|Yath-Lemet Selat]].
 
 ## Character
 

@@ -77,7 +77,7 @@ To the **north and east** lies the [[place-khzryndsrtrgn|Khazryn Desert]]. The t
 
 To the **southeast** lie the lands of [[place-vedyarargn|Vedyara]], reached by the march road that runs round the end of the [[place-graznmntns|Grazian]] wall rather than over it—the only way into the subcontinent that a loaded camel can take. Relations are commercial and cautious; the civilizational differences are greater than with Harad or the Khazryn, but centuries of caravan-trade have built up mutual respect and a practical working understanding.
 
-To the **southwest and west** lies [[place-xerathia|Xerathia]] and especially [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], met by land across [[place-khuqetmiglet|Khuqet-Miglet]], the desert-march the empire garrisons between them. Direct contact is ancient and constant—caravan-tolls, well-disputes and skirmishes at the march, and a sea-borne trade mediated through Haradi and Ta'Khelâthi maritime merchants on the [[place-vylarianse|Vylarian Sea]] to the west.
+To the **southwest and west** lies [[place-xerathia|Xerathia]] and especially [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], met by land across [[place-khuqetmiglet|Khuqet-Miglet]], the desert-march the empire garrisons between them. Direct contact is ancient and constant—caravan-tolls, well-disputes and skirmishes at the march, and a sea-borne trade mediated through Haradi and Khelâthi maritime merchants on the [[place-vylarianse|Vylarian Sea]] to the west.
 
 ## See Also
 
