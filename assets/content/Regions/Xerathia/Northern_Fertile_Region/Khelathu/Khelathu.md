@@ -90,7 +90,7 @@ data:
     vylarinmpr: unaligned
     okharis: unaligned
   packFolder: regkhpol
-sohl: {system: {commonSkills: [kheperlng]}}
+sohl: {system: {commonSkills: [khelthlnglng]}}
 
 # terran_analog: "Egypt + Sudan (Nile valley civilization)"
 ---
@@ -213,7 +213,7 @@ Khelâthi civilization excels in mathematics, astronomy, medicine, and engineeri
 
 The visual arts are highly developed but profoundly conservative. Khelâthi art follows conventions established millennia ago—the characteristic profile-and-frontal style, the hierarchical scaling of figures, the symbolic color palette—not from lack of skill but from theological conviction. Art in Aû'Khelâthu is not self-expression; it is a magical act that creates eternal reality. A properly executed tomb painting does not merely depict the afterlife—it _is_ the afterlife, made real through correct form. Innovation in artistic technique is therefore not valued; perfection of the established form is.
 
-### The Khelâthi Calendar and Dating {#the-kheperi-calendar-and-dating}
+### The Khelâthi Calendar and Dating {#the-khelathi-calendar-and-dating}
 
 The Khelâthi do not use the western Ankarian calendar and would find the suggestion offensive. Their dating system is older, they will tell you, than the Vylarian people themselves—and they are probably right, though the details are contested.
 

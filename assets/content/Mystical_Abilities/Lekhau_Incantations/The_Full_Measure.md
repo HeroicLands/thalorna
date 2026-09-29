@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Reads the true state of a body of water—its depth, its course, and what it will do next."
 tags: [gethunu-lekhau, incantation]
-data: {icon: ankhkemet, templatePriority: null, packFolder: regkhmys}
+data: {icon: garnlghkhlth, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhnlghkhlt

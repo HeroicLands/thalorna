@@ -4,7 +4,7 @@ name: {full: "Ritual: Azu'âthis", aliases: []}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]
-data: {icon: apophis, templatePriority: null, packFolder: regkhskl}
+data: {icon: azuathis, templatePriority: null, packFolder: regkhskl}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

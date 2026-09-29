@@ -84,7 +84,7 @@ data:
   parents: [empireakhlth]
   relations: {khelathpnthn: aligned, uqaa: aligned}
   packFolder: regkhpol
-sohl: {system: {commonSkills: [kheperlng]}}
+sohl: {system: {commonSkills: [khelthlnglng]}}
 ---
 
 ## Overview

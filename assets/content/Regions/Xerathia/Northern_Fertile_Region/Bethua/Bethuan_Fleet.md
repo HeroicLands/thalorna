@@ -3,7 +3,7 @@ shortcode: bethuanflt
 name: {full: The Bethûan Fleet, aliases: [The Purple Warrant, The Veiled Sails, Navy of Bethûa]}
 type: affiliation
 subType: governmental
-description: "The renowned navy of the Matriarchy of Bethûa—a southeastern-shore sea power that punches far above its size, and the licensed privateer war it wages against Vylarian shipping under the crown's Purple Warrant, as the deniable maritime arm of Ta'Kheperu's proxy strategy in Mídhalión."
+description: "The renowned navy of the Matriarchy of Bethûa—a southeastern-shore sea power that punches far above its size, and the licensed privateer war it wages against Vylarian shipping under the crown's Purple Warrant, as the deniable maritime arm of Aû'Khelâthu's proxy strategy in Mídhalión."
 tags: [military, navy, bethua, xerathia, maritime, privateers]
 data:
   icon: null

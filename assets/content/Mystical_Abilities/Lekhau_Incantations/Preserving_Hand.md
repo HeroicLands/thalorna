@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Arrests decay in a body or an object for as long as the working holds."
 tags: [gethunu-lekhau, incantation]
-data: {icon: khatnu, templatePriority: null, packFolder: regkhmys}
+data: {icon: garqeltnu, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhauqeltnu

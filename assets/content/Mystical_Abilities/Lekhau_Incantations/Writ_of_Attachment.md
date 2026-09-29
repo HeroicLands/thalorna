@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Binds an animate thing to a stated duty, which it will perform until released or destroyed."
 tags: [gethunu-lekhau, incantation]
-data: {icon: maatken, templatePriority: null, packFolder: regkhmys}
+data: {icon: garqarquzu, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhauqarquz

@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Transmutes a made thing into another material, keeping its form exactly."
 tags: [gethunu-lekhau, incantation]
-data: {icon: khatnu, templatePriority: null, packFolder: regkhmys}
+data: {icon: garqeltnu, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhauqeltnu

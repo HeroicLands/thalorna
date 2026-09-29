@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Undoes a binding, ward or seal without destroying the surface that carries it."
 tags: [gethunu-lekhau, incantation]
-data: {icon: sefut, templatePriority: null, packFolder: regkhmys}
+data: {icon: garzelgut, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhauzelgut

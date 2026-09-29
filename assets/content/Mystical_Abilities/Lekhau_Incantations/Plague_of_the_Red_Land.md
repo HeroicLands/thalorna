@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Tjaq'ûru a wasting sickness on a stated population."
 tags: [gethunu-lekhau, incantation]
-data: {icon: deshrut, templatePriority: null, packFolder: regkhmys}
+data: {icon: gargezrulutu, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhaugezrlt

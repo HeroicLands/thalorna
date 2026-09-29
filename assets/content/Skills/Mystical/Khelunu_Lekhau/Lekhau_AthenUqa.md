@@ -4,7 +4,7 @@ name: {full: "Lekhau: Athen'Uqa", aliases: []}
 type: skill
 subType: mystical
 tags: [gethunu-lekhau, draft]
-data: {icon: atenre, templatePriority: null, packFolder: regkhskl}
+data: {icon: garathenuqa, templatePriority: null, packFolder: regkhskl}
 sohl:
   system:
     skillBaseFormula: "@aur, @rea"

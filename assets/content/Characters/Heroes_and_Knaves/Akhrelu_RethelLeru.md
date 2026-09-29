@@ -477,13 +477,13 @@ Akhrelu also carries a private mission to discover and preserve knowledge about 
 
 ### Patrons
 
-- **Lord Waskaqu of the [[place-southrnmrch|Southern March]]**: A noble who has contracted Akhrelu for decades, providing both animal resources and payment in exchange for trained beasts for noble hunts and the occasional military campaign. Waskaqu is one of the few humans Akhrelu respects, as the lord treats animals with consideration.
+- **Lord [[being-vaskan|Vaskan]] of the [[place-southrnmrch|Southern March]]**: A noble who has contracted Akhrelu for decades, providing both animal resources and payment in exchange for trained beasts for noble hunts and the occasional military campaign. Vaskan is one of the few humans Akhrelu respects, as the lord treats animals with consideration.
 - **The Temple of Sacred Beasts**: A religious institution that occasionally seeks Akhrelu's skill for the training and care of sacred creatures used in ceremonies, offering both prestige and reasonable compensation.
 - [[affiliation-linzwrtkhlth|Lin'Zuwaret elu Aû'Khelâthu]]: Wealthy traders occasionally hire Akhrelu to train guard beasts, assess the condition of animals brought through the trade routes, or consult on the transport and care of exotic creatures destined for distant markets.
 
 ### Enemies
 
-- **Khelarven the Brutal**: A rival animal trainer who believes in domination and fear as training methods. Khelarven has sabotaged several of Akhrelu's commissions, poisoned animals in his care, and spread rumors about Akhrelu's competence. The enmity is personal; years ago, Lord Waskaqu chose to employ Akhrelu over Khelarven, a choice Khelarven has never forgiven. Recently, Khelarven has been working with darker patrons, suggesting his malice toward Akhrelu may escalate.
+- **Khelarven the Brutal**: A rival animal trainer who believes in domination and fear as training methods. Khelarven has sabotaged several of Akhrelu's commissions, poisoned animals in his care, and spread rumors about Akhrelu's competence. The enmity is personal; years ago, Lord Vaskan chose to employ Akhrelu over Khelarven, a choice Khelarven has never forgiven. Recently, Khelarven has been working with darker patrons, suggesting his malice toward Akhrelu may escalate.
 - [[affiliation-zeghetzulun|Zeghet'Zulun]]: A secret society that captures exotic animals for forced combat spectacles. They view Akhrelu's refusal to train beasts for such purposes as obstruction, and have made several attempts to steal particularly valuable animals from his compound.
 
 ### Affiliations
@@ -496,7 +496,7 @@ Akhrelu also carries a private mission to discover and preserve knowledge about 
 
 2. **The Cursed Animal**: A desperate merchant brings Akhrelu an animal of obvious quality that nonetheless proves impossible to train—it rages against handlers, resists all conventional methods, and seems to suffer from an internal torment. Akhrelu's investigation reveals signs suggesting magical corruption or curse. To help the creature, he must work where animal care and occult forces meet, seeking allies among those with arcane knowledge.
 
-3. [[affiliation-zeghetqelunu|Zeghet'Qelunu]]: Akhrelu discovers evidence of an organized poaching operation targeting the rarest animals in the Empire. The operation is larger and better-organized than any he has encountered before, with military-style structure and significant resources. Following the trail leads him toward powerful figures in government and nobility, forcing him to choose between his loyalty to Lord Waskaqu and his obligation to protect the creatures under threat.
+3. [[affiliation-zeghetqelunu|Zeghet'Qelunu]]: Akhrelu discovers evidence of an organized poaching operation targeting the rarest animals in the Empire. The operation is larger and better-organized than any he has encountered before, with military-style structure and significant resources. Following the trail leads him toward powerful figures in government and nobility, forcing him to choose between his loyalty to Lord Vaskan and his obligation to protect the creatures under threat.
 
 4. **The Stolen Beast**: One of Akhrelu's prized trained animals—a magnificent creature worth a fortune and irreplaceable to him—is stolen by persons unknown. The investigation leads him into the criminal underworld of Aû'Khelâthu's cities, where he must employ unfamiliar tactics of deception and information-gathering to track the theft. The trail suggests involvement of Khelarven, but the conspiracy appears far larger than personal rivalry.
 

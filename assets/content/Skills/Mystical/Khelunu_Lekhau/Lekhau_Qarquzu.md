@@ -4,7 +4,7 @@ name: {full: "Lekhau: Qar'quzu", aliases: []}
 type: skill
 subType: mystical
 tags: [gethunu-lekhau, draft]
-data: {icon: maatken, templatePriority: null, packFolder: regkhskl}
+data: {icon: garqarquzu, templatePriority: null, packFolder: regkhskl}
 sohl:
   system:
     skillBaseFormula: "@aur, @rea"

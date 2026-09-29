@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Permits a person or a working to endure extremes of heat unharmed."
 tags: [gethunu-lekhau, incantation]
-data: {icon: deshrut, templatePriority: null, packFolder: regkhmys}
+data: {icon: gargezrulutu, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhaugezrlt

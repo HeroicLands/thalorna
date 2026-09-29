@@ -4,7 +4,7 @@ name: {full: "Ritual: Tjaq'ûr", aliases: [Bringer of Tempests]}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]
-data: {icon: set, templatePriority: null, packFolder: regkhskl}
+data: {icon: tjaqur, templatePriority: null, packFolder: regkhskl}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

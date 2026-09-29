@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Opens a way through a sealed boundary between the living world and the Zulaten, for a stated interval."
 tags: [gethunu-lekhau, incantation]
-data: {icon: imnetau, templatePriority: null, packFolder: regkhmys}
+data: {icon: garithnetau, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhauithnet

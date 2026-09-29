@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Invests the subject with visible authority and a sustaining vitality, for a stated term."
 tags: [gethunu-lekhau, incantation]
-data: {icon: atenre, templatePriority: null, packFolder: regkhmys}
+data: {icon: garathenuqa, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhauathenq

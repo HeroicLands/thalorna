@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Discovers the true name of a person, place or made thing."
 tags: [gethunu-lekhau, incantation]
-data: {icon: rensesh, templatePriority: null, packFolder: regkhmys}
+data: {icon: garrethzethu, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhaurthzth

@@ -3,7 +3,7 @@ shortcode: nrthrnfrtlrgn
 name: {full: Northern Fertile Region, aliases: [The Fertile Crescent]}
 type: place
 subType: region
-description: The productive belt along Xerathia's northern shore—three distinct civilizations (Bethua, Ta'Kheperu, Okháris) layered across a climate gradient from wet-coastal Vylarian-Sea littoral through aqueduct-irrigated interior to semi-arid southern savanna.
+description: The productive belt along Xerathia's northern shore—three distinct civilizations (Bethua, Aû'Khelâthu, Okháris) layered across a climate gradient from wet-coastal Vylarian-Sea littoral through aqueduct-irrigated interior to semi-arid southern savanna.
 tags: [region]
 data:
   demonym: null

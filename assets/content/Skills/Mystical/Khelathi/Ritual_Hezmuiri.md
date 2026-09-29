@@ -4,7 +4,7 @@ name: {full: "Ritual: Hezmuîri", aliases: [The Keeper of Transitions]}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]
-data: {icon: anubis, templatePriority: null, packFolder: regkhskl}
+data: {icon: hezmuiri, templatePriority: null, packFolder: regkhskl}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

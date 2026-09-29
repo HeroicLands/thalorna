@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Brings a work of craft to exactness, so that it carries a working reliably."
 tags: [gethunu-lekhau, incantation]
-data: {icon: khatnu, templatePriority: null, packFolder: regkhmys}
+data: {icon: garqeltnu, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhauqeltnu

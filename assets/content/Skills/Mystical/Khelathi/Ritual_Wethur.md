@@ -4,7 +4,7 @@ name: {full: "Ritual: Wethûr", aliases: [Lord of Silent Passage]}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]
-data: {icon: seker, templatePriority: null, packFolder: regkhskl}
+data: {icon: wethur, templatePriority: null, packFolder: regkhskl}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Commands a person or thing by its true name, which it cannot refuse."
 tags: [gethunu-lekhau, incantation]
-data: {icon: rensesh, templatePriority: null, packFolder: regkhmys}
+data: {icon: garrethzethu, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhaurthzth

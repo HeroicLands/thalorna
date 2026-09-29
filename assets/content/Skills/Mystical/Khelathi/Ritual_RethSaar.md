@@ -4,7 +4,7 @@ name: {full: "Ritual: Reth'Sa'âr", aliases: [The Scribe of the Eternal Library]
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]
-data: {icon: thoth, templatePriority: null, packFolder: regkhskl}
+data: {icon: rethsaar, templatePriority: null, packFolder: regkhskl}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

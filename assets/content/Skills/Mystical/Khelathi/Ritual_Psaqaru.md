@@ -4,7 +4,7 @@ name: {full: "Ritual: Psaq'âru", aliases: []}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]
-data: {icon: ptah, templatePriority: null, packFolder: regkhskl}
+data: {icon: psaqaru, templatePriority: null, packFolder: regkhskl}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

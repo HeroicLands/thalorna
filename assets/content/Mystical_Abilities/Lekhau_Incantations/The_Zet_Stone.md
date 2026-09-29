@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Joins worked stone so that the join is as sound as the stone."
 tags: [gethunu-lekhau, incantation]
-data: {icon: khatnu, templatePriority: null, packFolder: regkhmys}
+data: {icon: garqeltnu, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhauqeltnu

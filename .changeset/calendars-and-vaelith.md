@@ -3,7 +3,7 @@
 ---
 
 **Three calendars gain their own pages.** The Common Calendar, the Khazryn
-calendar and the Kheperi calendar each get a page describing their months,
+calendar and the Khelâthi calendar each get a page describing their months,
 and the Tānvüri Calendar and Astrology page now carries its month lengths
 alongside its existing prose.
 
@@ -13,4 +13,4 @@ now have a section of their own.
 
 **Vaelith, the world's moon, has a page of its own.** Its size, its orbit
 and its thirty-day cycle are there, along with what the Itzani, the Tānvüri
-and the Kheperi each call it.
+and the Khelâthi each call it.

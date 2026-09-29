@@ -75,7 +75,7 @@ restricted forms; and **Wer Khel-Gebu**, chief lector at a temple and answerable
 practitioners set down. Below them all is **Name Struck**: expelled, and the record of the teaching
 erased, which in this tradition is the whole of the sentence.
 
-**Reth'zethu and Qelt'nu are named for the two soul-components the funerary rites already preserve**—the _ren_ that is inscribed and the _khat_ that is embalmed, the one written on every surface and the
+**Reth'zethu and Qelt'nu are named for the two soul-components the funerary rites already preserve**—the _reth_ that is inscribed and the _qelt_ that is embalmed, the one written on every surface and the
 other wrapped in linen. The pairing was not invented for the philosophy; the philosophy noticed it.
 
 ### The Frame: Qar'quzu and Zelgút

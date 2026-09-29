@@ -5,7 +5,7 @@ name:
   aliases: [The Three-Flame Charters, The Royal Trades, Royal Trades of Okháris]
 type: affiliation
 subType: guild
-description: "Royal-chartered trade guilds operating from the three temple-cities of Okháris—small in number, prestigious in standing, mediating between the settled-urban commercial economy and the nomadic-pastoralist hinterland; use Ta'Kheperan currency through correspondent banking arrangements."
+description: "Royal-chartered trade guilds operating from the three temple-cities of Okháris—small in number, prestigious in standing, mediating between the settled-urban commercial economy and the nomadic-pastoralist hinterland; use Khelâthi currency through correspondent banking arrangements."
 tags: []
 data:
   templatePriority: null

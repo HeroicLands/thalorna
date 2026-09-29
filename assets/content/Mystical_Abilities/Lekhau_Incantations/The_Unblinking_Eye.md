@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Tjaq'ûru a watch on a place that reports faithfully to the practitioner what passed there."
 tags: [gethunu-lekhau, incantation]
-data: {icon: atenre, templatePriority: null, packFolder: regkhmys}
+data: {icon: garathenuqa, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhauathenq

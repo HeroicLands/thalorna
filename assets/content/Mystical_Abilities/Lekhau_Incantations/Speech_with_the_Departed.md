@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Permits conversation with one named dead, provided the name and the body are both intact."
 tags: [gethunu-lekhau, incantation]
-data: {icon: imnetau, templatePriority: null, packFolder: regkhmys}
+data: {icon: garithnetau, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhauithnet

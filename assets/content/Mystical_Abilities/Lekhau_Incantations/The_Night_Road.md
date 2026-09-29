@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Permits passage by night unremarked by anything that walks it."
 tags: [gethunu-lekhau, incantation]
-data: {icon: imnetau, templatePriority: null, packFolder: regkhmys}
+data: {icon: garithnetau, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhauithnet

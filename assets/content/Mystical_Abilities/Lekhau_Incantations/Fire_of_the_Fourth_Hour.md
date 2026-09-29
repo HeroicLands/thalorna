@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Calls down the sun's heat on a place, with the force it carries at the height of the day."
 tags: [gethunu-lekhau, incantation]
-data: {icon: atenre, templatePriority: null, packFolder: regkhmys}
+data: {icon: garathenuqa, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhauathenq

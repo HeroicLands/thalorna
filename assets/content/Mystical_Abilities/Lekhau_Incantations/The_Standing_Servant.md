@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Animates a made body to perform work under continuous direction."
 tags: [gethunu-lekhau, incantation]
-data: {icon: khatnu, templatePriority: null, packFolder: regkhmys}
+data: {icon: garqeltnu, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhauqeltnu

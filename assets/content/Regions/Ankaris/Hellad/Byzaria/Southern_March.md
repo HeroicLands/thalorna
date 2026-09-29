@@ -18,7 +18,7 @@ data:
 
 The Southern March is the frontier district of the [[affiliation-byzarianlg|Byzarian League]] on the south-eastern flank of [[place-byzariargn|Byzaría]], where the plateau dries out, the coast bends away toward the eastern shore of the [[place-vylarianse|Vylarian Sea]], and the caravan road leaves [[affiliation-yesilhan|Yeşilhan]] for the [[place-dunharargn|Dunhara]]. It is pastoral upland—sheep, goats and horses on thin grass, hunting in the scrub and the gorges—and it is held for the League by a landed lord rather than a soldier, because the trouble it faces is the kind a landed lord handles: tolls, grazing rights, poachers, feuds and the occasional raid.
 
-Like the League's other marches it is common territory outside any city's charter. Its lord holds a commission from the League council in [[affiliation-altinkale|Altinkale]] and answers to it, and the district's garrison is a detachment of the joint army. The commission is at present held by **Lord Waskaqu of the Southern March**, whose house has hunted this country for generations and who governs it in the manner of a great landowner: from the saddle, by custom, and with a memory for every family in it.
+Like the League's other marches it is common territory outside any city's charter. Its lord holds a commission from the League council in [[affiliation-altinkale|Altinkale]] and answers to it, and the district's garrison is a detachment of the joint army. The commission is at present held by **Lord Vaskan of the Southern March**, whose house has hunted this country for generations and who governs it in the manner of a great landowner: from the saddle, by custom, and with a memory for every family in it.
 
 ## Geography
 
@@ -32,7 +32,7 @@ The March's western edge, toward the coast, is Haradian border country—a line 
 
 The upland is the finest hunting ground in the Hellád, and its lords treat it as such. Wild boar root in the gorges, gazelle and wild sheep graze the high ridges, wolves follow the herds, and leopard are taken in the remotest country. The great hunts of the Southern March are its political season: the League's merchant-princes and foreign envoys are invited, the lord's hospitality is lavish, and more League business is settled around the hunting fires than in half the sessions of the council.
 
-Waskaqu hunts with trained beasts—hounds, hawks and coursing cats—and pays well for them. His animals come from the best trainers he can find, including [[being-akhrelrthllr|Akhrelu Reth'el'Lêru]] of [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] across the sea, who has supplied the lord's kennels and mews for decades and whom Waskaqu values because he treats the animals with consideration. The lord's huntsmen double as the March's rangers, and the lord's kennels have furnished war-dogs and scouting beasts for the League's border campaigns more than once.
+Vaskan hunts with trained beasts—hounds, hawks and coursing cats—and pays well for them. His animals come from the best trainers he can find, including [[being-akhrelrthllr|Akhrelu Reth'el'Lêru]] of [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] across the sea, who has supplied the lord's kennels and mews for decades and whom Vaskan values because he treats the animals with consideration. The lord's huntsmen double as the March's rangers, and the lord's kennels have furnished war-dogs and scouting beasts for the League's border campaigns more than once.
 
 ## Garrison and Governance
 

@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Sustains a person without water for as long as the working holds."
 tags: [gethunu-lekhau, incantation]
-data: {icon: deshrut, templatePriority: null, packFolder: regkhmys}
+data: {icon: gargezrulutu, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhaugezrlt

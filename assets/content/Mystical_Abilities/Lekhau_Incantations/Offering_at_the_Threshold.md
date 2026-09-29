@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Renders an offering perceptible to the dead, so that it is received rather than merely left."
 tags: [gethunu-lekhau, incantation]
-data: {icon: imnetau, templatePriority: null, packFolder: regkhmys}
+data: {icon: garithnetau, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhauithnet

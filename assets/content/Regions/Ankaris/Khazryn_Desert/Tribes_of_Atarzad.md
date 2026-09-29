@@ -5,7 +5,7 @@ name:
   aliases: [Ātárzádegan, The Flame-born, The Twelve Tribes, Ātárzád, Atarzad]
 type: affiliation
 subType: polity
-description: A confederation of twelve tribes who came up out of bondage in Ta'Kheperu four generations ago and seized the choicest oases of the Khazryn Desert by the Promise of Ātáröš—the Sacred Flame. Monolatrous, covenantal, militant, and locked in blood-feud with the indigenous Khazryn whose oases they took.
+description: A confederation of twelve tribes who came up out of bondage in Aû'Khelâthu four generations ago and seized the choicest oases of the Khazryn Desert by the Promise of Ātáröš—the Sacred Flame. Monolatrous, covenantal, militant, and locked in blood-feud with the indigenous Khazryn whose oases they took.
 tags: []
 data:
   templatePriority: null

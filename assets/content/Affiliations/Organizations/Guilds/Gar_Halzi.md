@@ -69,7 +69,7 @@ The Gár-Hálzi is a _network_ of chapter-treasuries rather than a single centra
 
 ### The Council of the High Priests (_Sêdjet Halzi_)
 
-The Gár-Hálzi's governing body. The high priests of the eight greatest Khelâthi temples (the principal Galezkara, Gar-Anlaghet, Khelzuret, Amqelu-Legez, Ankh-Setun, and three lesser but anciently-established temples) constitute the Council, which meets four times a year at the great temple complex in the imperial capital and at any other moment when crisis demands. The Council sets the canonical inter-metal ratios (the gold-silver-copper conversion rates), reaffirms the attestation standards for weight-pieces, issues the major doctrinal rulings on commercial-religious questions, and approves new correspondent arrangements with foreign institutions.
+The Gár-Hálzi's governing body. The high priests of the eight greatest Khelâthi temples (the principal Galezkara, Gar-Anlaghet, Khelzuret, Amqelu-Legez, Anlagh-Zetûn, and three lesser but anciently-established temples) constitute the Council, which meets four times a year at the great temple complex in the imperial capital and at any other moment when crisis demands. The Council sets the canonical inter-metal ratios (the gold-silver-copper conversion rates), reaffirms the attestation standards for weight-pieces, issues the major doctrinal rulings on commercial-religious questions, and approves new correspondent arrangements with foreign institutions.
 
 ### The Ilmy'Zâ Halzi (the "Overseer of the Account")
 

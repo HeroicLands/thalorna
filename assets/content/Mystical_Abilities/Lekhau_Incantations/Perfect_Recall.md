@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Fixes a thing seen, heard or read so that it can be recovered exactly."
 tags: [gethunu-lekhau, incantation]
-data: {icon: rensesh, templatePriority: null, packFolder: regkhmys}
+data: {icon: garrethzethu, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhaurthzth

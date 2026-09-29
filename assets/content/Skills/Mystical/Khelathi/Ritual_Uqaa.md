@@ -4,7 +4,7 @@ name: {full: "Ritual: Uqa'â", aliases: [The Solar Flame]}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]
-data: {icon: ra, templatePriority: null, packFolder: regkhskl}
+data: {icon: uqaa, templatePriority: null, packFolder: regkhskl}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

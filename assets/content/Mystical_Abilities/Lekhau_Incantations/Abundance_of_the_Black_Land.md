@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Blesses an entire district so that everything sown in it thrives for a full season."
 tags: [gethunu-lekhau, incantation]
-data: {icon: ankhkemet, templatePriority: null, packFolder: regkhmys}
+data: {icon: garnlghkhlth, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhnlghkhlt

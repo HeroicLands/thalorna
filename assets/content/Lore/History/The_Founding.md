@@ -59,7 +59,7 @@ data:
         agrees: partly
       - by: affiliation-empireakhlth
         says: >-
-          Nothing of it. The Kheperi count from the Sep Tepy and give the western year as a conversion when they give it at all.
+          Nothing of it. The Khelâthi count from the Qet Telgu and give the western year as a conversion when they give it at all.
         agrees: silent
       - by: affiliation-tanvurempr
         says: Nothing of it. The empire keeps its own reckoning and has since before this one existed.

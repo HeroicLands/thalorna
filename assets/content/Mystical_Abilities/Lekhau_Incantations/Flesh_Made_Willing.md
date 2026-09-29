@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Reshapes a living body within its own nature, painfully and permanently."
 tags: [gethunu-lekhau, incantation]
-data: {icon: khatnu, templatePriority: null, packFolder: regkhmys}
+data: {icon: garqeltnu, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhauqeltnu

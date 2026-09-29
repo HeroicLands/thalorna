@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Closes and mends serious injury, in proportion to the practitioner's own strength."
 tags: [gethunu-lekhau, incantation]
-data: {icon: ankhkemet, templatePriority: null, packFolder: regkhmys}
+data: {icon: garnlghkhlth, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhnlghkhlt

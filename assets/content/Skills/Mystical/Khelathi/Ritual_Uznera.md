@@ -4,7 +4,7 @@ name: {full: "Ritual: Uznêra", aliases: [Mother of New Beginnings]}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]
-data: {icon: iset, templatePriority: null, packFolder: regkhskl}
+data: {icon: uznera, templatePriority: null, packFolder: regkhskl}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

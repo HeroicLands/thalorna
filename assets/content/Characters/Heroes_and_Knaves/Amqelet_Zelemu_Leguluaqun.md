@@ -442,13 +442,13 @@ Amqelet-Zelemu stands 5'9\" tall with a medium build. He has dark skin, dark hai
 
 Amqelet-Zelemu was born into a respected family of scholars and astrologers in the grand city of [[place-khelunu|Khelunu]], a cultural and scholarly center of the **Empire of [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]**. The Empire, with traditions dating back thousands of years, continues to blend mysticism and scholarly pursuits, with astrology playing a critical role in its governance and daily life. The empire’s priests and astrologers are key advisors to the ruling elite, using celestial signs to predict outcomes of war, trade, and political alliances.
 
-Amqelet-Zelemu, from a young age, showed a rare affinity for reading the stars. His family, who had long served the high courts of Ta’Kheperu, saw that he was trained by the greatest scholars and priests of the empire. By the age of 16, he had already earned a reputation for accurate star readings and predictions, and his name spread through the noble circles of Ta’Kheperu.
+Amqelet-Zelemu, from a young age, showed a rare affinity for reading the stars. His family, who had long served the high courts of Aû'Khelâthu, saw that he was trained by the greatest scholars and priests of the empire. By the age of 16, he had already earned a reputation for accurate star readings and predictions, and his name spread through the noble circles of Aû'Khelâthu.
 
 ### Astrological Discoveries and Vision
 
 When Amqelet-Zelemu reached his early thirties, he began experiencing disturbing visions during his astrological readings. Unusual alignments of stars and planets foretold the arrival of a significant celestial event, one that could reshape the very balance of power in the known world. After months of intense study, he concluded that this event, which he referred to as “The Convergence of the Nine Moons,” was not a simple astronomical occurrence, but a mystical one with divine consequences.
 
-His readings indicated that this event was tied to the fate of the **Court of the Nine Moons**, the council of the nine most powerful clans in Ta’Kheperu. His predictions warned that if the empire did not take action, the Convergence would bring about disaster, either in the form of internal strife or an invasion from external powers. The stars, however, did not reveal the full extent of the threat—only that it was imminent and inevitable.
+His readings indicated that this event was tied to the fate of the **Court of the Nine Moons**, the council of the nine most powerful clans in Aû'Khelâthu. His predictions warned that if the empire did not take action, the Convergence would bring about disaster, either in the form of internal strife or an invasion from external powers. The stars, however, did not reveal the full extent of the threat—only that it was imminent and inevitable.
 
 ### The Gar-Aû’s Response
 
@@ -458,7 +458,7 @@ Faced with skepticism from the court and the increasing pressure of the imperial
 
 ### The Sacred Journey
 
-Amqelet-Zelemu embarked on a **pilgrimage** to these ancient locations, which were sacred to the early astrologers of Ta’Kheperu. His journey would take him deep into the deserts of Beshakan, across the **Venâria Sea**, and through forgotten ruins where ancient star maps were carved into the stones by the earliest astronomers.
+Amqelet-Zelemu embarked on a **pilgrimage** to these ancient locations, which were sacred to the early astrologers of Aû'Khelâthu. His journey would take him deep into the deserts of Beshakan, across the **Venâria Sea**, and through forgotten ruins where ancient star maps were carved into the stones by the earliest astronomers.
 
 His first stop was the **Obelisk of Anlaghura**, an ancient monolithic structure standing in the middle of the Târga River Valley. There, Amqelet-Zelemu discovered fragments of a lost prophecy inscribed in ancient runes, pointing him to a mountain shrine in the highlands of **Chenosolis**, where the oldest records of the empire’s astrologers were kept.
 

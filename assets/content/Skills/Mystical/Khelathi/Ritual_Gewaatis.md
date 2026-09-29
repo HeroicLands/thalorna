@@ -4,7 +4,7 @@ name: {full: "Ritual: Gewaâtis", aliases: [The Guiding Falcon]}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]
-data: {icon: horus, templatePriority: null, packFolder: regkhskl}
+data: {icon: gewaatis, templatePriority: null, packFolder: regkhskl}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

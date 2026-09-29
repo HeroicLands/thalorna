@@ -4,7 +4,7 @@ name: {full: "Ritual: Thubâ'i", aliases: [The Golden Reveler, The Overflowing O
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]
-data: {icon: hapi, templatePriority: null, packFolder: regkhskl}
+data: {icon: thubai, templatePriority: null, packFolder: regkhskl}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

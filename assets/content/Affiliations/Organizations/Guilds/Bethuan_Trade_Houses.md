@@ -5,7 +5,7 @@ name:
   aliases: [The Houses, The Matriarchal Trade-Houses, Bethûan Matriarchal Trade-Houses]
 type: affiliation
 subType: guild
-description: "Federation of matriarchal trading clans that dominates Bethûan commerce—clan-based, female-led, operating through Ta'Kheperan currency and correspondent banking relationships with Pér-Háti temple-treasuries."
+description: "Federation of matriarchal trading clans that dominates Bethûan commerce—clan-based, female-led, operating through Khelâthi currency and correspondent banking relationships with Gár-Hálzi temple-treasuries."
 tags: []
 data:
   templatePriority: null
@@ -31,7 +31,7 @@ data:
         title: Great House
         lore: greatlordrnk
         description: >-
-          One of perhaps a dozen senior trading clans whose matriarch sits on the Council of Matriarchs, holding formal correspondent accounts at Kheperi temples.
+          One of perhaps a dozen senior trading clans whose matriarch sits on the Council of Matriarchs, holding formal correspondent accounts at Khelâthi temples.
     offices:
       Speaker of the Council: >-
         Chosen by consensus from among the present matriarchs for each session; presides over the session, frames the questions and announces the rulings, but carries prestige rather than standing executive authority.

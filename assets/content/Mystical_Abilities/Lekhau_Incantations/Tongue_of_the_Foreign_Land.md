@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Permits speech and understanding of a language the practitioner does not know."
 tags: [gethunu-lekhau, incantation]
-data: {icon: rensesh, templatePriority: null, packFolder: regkhmys}
+data: {icon: garrethzethu, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhaurthzth

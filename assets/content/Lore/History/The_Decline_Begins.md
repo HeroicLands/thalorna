@@ -13,7 +13,7 @@ data:
     when: {reckoning: VR, year: 520, precision: century, derived: roughly two hundred years ago}
     sources: [affiliation-vylarinmpr, place-ankrscntnnt]
     summary: >-
-      The Vylarian Empire begins losing what it holds—to overextension, internal corruption, barbarian pressure from the north, and the gradual independence of provinces. Provènzia and Tarvénia become successor states in all but name, Heliónis regains practical independence while keeping formal ties, and twelve years ago Harad fought and won a war of independence with Kheperi gold behind it. The Empire has retreated to its core territories and still claims authority over regions that have long since gone their own way.
+      The Vylarian Empire begins losing what it holds—to overextension, internal corruption, barbarian pressure from the north, and the gradual independence of provinces. Provènzia and Tarvénia become successor states in all but name, Heliónis regains practical independence while keeping formal ties, and twelve years ago Harad fought and won a war of independence with Khelâthi gold behind it. The Empire has retreated to its core territories and still claims authority over regions that have long since gone their own way.
     standing: attested
     where:
       locus: [place-midhalnrgn]
@@ -46,7 +46,7 @@ data:
     accounts:
       - by: affiliation-vylarinmpr
         says: >-
-          The empire retains nominal authority over its provinces, and the knowledge that Ta'Kheperu's hand was behind Harad festers in the Senate and the officer corps.
+          The empire retains nominal authority over its provinces, and the knowledge that Aû'Khelâthu's hand was behind Harad festers in the Senate and the officer corps.
         agrees: partly
         withholds: how much of Harad's war was bought
       - {by: affiliation-empireakhlth, says: Humanitarian commerce., agrees: denies}

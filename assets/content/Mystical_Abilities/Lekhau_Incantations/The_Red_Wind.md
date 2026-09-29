@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Raises or turns aside a sandstorm across a stated ground."
 tags: [gethunu-lekhau, incantation]
-data: {icon: deshrut, templatePriority: null, packFolder: regkhmys}
+data: {icon: gargezrulutu, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhaugezrlt

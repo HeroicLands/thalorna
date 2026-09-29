@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Grants sight of a distant place, provided the sun is standing on it."
 tags: [gethunu-lekhau, incantation]
-data: {icon: atenre, templatePriority: null, packFolder: regkhmys}
+data: {icon: garathenuqa, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhauathenq

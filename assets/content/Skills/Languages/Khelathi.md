@@ -3,9 +3,9 @@ shortcode: khelthlnglng
 name: {full: Khelâthi Language, aliases: []}
 type: skill
 subType: language
-description: "The ancient speech of Zu-Kheperu, bound to ritual and sorcery, written in hieroglyph for priests and in demotic for everyone else."
+description: "The ancient speech of Aû'Khelâthu, bound to ritual and sorcery, written in hieroglyph for priests and in demotic for everyone else."
 tags: []
-data: {banner: takheperubnr, icon: icon-speaking, templatePriority: null, packFolder: regkhskl}
+data: {banner: khelathubnr, icon: icon-speaking, templatePriority: null, packFolder: regkhskl}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -127,7 +127,7 @@ Around 800 years ago, the widening gap between the laborious sacred script and t
 
 ### Modern Divergence
 
-The spoken vernaculars of contemporary Kheperia show considerable divergence from Classical Khelâthi:
+The spoken vernaculars of contemporary Khelâthi show considerable divergence from Classical Khelâthi:
 
 - **Loss of Emphatics:** Younger speakers increasingly merge emphatic and non-emphatic stops
 - **Vowel Lengthening and Shortening:** Classical long/short distinctions are becoming phonetically eroded

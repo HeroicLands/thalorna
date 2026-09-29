@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Lays a condition of misfortune on a named person that follows them wherever they go."
 tags: [gethunu-lekhau, incantation]
-data: {icon: sefut, templatePriority: null, packFolder: regkhmys}
+data: {icon: garzelgut, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhauzelgut

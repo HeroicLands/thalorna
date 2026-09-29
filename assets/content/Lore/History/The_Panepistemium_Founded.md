@@ -28,7 +28,7 @@ data:
           knowledge: named
         - place: place-aukhelathrgq
           how: >-
-            centuries of exchange with the river empire run both ways—Helionite philosophy into Kheperi theological debate, Kheperi mathematics and astronomy into Helionite scholarship
+            centuries of exchange with the river empire run both ways—Helionite philosophy into Khelâthi theological debate, Khelâthi mathematics and astronomy into Helionite scholarship
           knowledge: named
         - place: place-byzariargn
           how: the academies here share the roots and have diverged from them over centuries

@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Accelerates the growth of living plants to a stated stage."
 tags: [gethunu-lekhau, incantation]
-data: {icon: ankhkemet, templatePriority: null, packFolder: regkhmys}
+data: {icon: garnlghkhlth, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhnlghkhlt

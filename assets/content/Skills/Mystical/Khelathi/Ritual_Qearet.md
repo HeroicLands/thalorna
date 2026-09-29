@@ -4,7 +4,7 @@ name: {full: "Ritual: Qe'âret", aliases: [Keeper of Truth and Harmony]}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]
-data: {icon: maat, templatePriority: null, packFolder: regkhskl}
+data: {icon: qearet, templatePriority: null, packFolder: regkhskl}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

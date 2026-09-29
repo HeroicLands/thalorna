@@ -3,7 +3,7 @@
 ---
 
 **The five calendars ship with the module.** Every reckoning the setting keeps — the Common
-Calendar, the Kheperi calendar, the Khazryn calendar, the Mādhavendra Count and the Tānvüri
+Calendar, the Khelâthi calendar, the Khazryn calendar, the Mādhavendra Count and the Tānvüri
 Celestial Calendar — installs at `calendars/`, once as a Foundry calendar and once as a
 Calendaria import file. Calendaria is optional and nothing here needs it.
 
@@ -15,7 +15,7 @@ Setday run on through the months without a break, so a date keeps its place in t
 not its weekday. The calendar note sets out what each is for.
 
 **Every calendar names the era it counts from, and the years before it.** The Common Calendar
-prints Before and After the Founding, the Kheperi calendar counts from the Sep Tepy, the
+prints Before and After the Founding, the Khelâthi calendar counts from the Qet Telgu, the
 Celestial Calendar from the Great Convergence, the Mādhavendra Count from the philosopher-kings,
 and the Khazryn calendar from the Āhúrdáén Awakening. A date before a reckoning begins prints
 with its own label, so 330 BF reads as a year rather than a negative number.

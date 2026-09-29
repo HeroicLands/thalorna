@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Tjaq'ûru an unmaking that lies dormant, sometimes for generations, until a stated condition is met."
 tags: [gethunu-lekhau, incantation]
-data: {icon: sefut, templatePriority: null, packFolder: regkhmys}
+data: {icon: garzelgut, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhauzelgut

@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Raises a clear, sourceless light that casts no shadow and cannot be looked away from."
 tags: [gethunu-lekhau, incantation]
-data: {icon: atenre, templatePriority: null, packFolder: regkhmys}
+data: {icon: garathenuqa, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhauathenq

@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Compels a truthful answer to a single question, or makes the weight of the lie plain to all present."
 tags: [gethunu-lekhau, incantation]
-data: {icon: maatken, templatePriority: null, packFolder: regkhmys}
+data: {icon: garqarquzu, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhauqarquz
