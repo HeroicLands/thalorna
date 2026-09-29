@@ -2,7 +2,7 @@
 shortcode: medicine
 name: {full: Medicine, aliases: []}
 type: lore
-subType: culture
+subType: custom
 data: {packFolder: tanvur}
 ---
 

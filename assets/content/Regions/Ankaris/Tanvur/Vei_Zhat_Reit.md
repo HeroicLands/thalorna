@@ -2,7 +2,7 @@
 shortcode: veizhatret
 name: {full: Vëi Zhāt Rëit, aliases: [The Jade Fan Dance, Jade Fan Dance]}
 type: lore
-subType: culture
+subType: custom
 data: {packFolder: tanvur}
 ---
 
