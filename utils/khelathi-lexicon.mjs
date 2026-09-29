@@ -43,8 +43,15 @@ import fs from "node:fs";
 import path from "node:path";
 import YAML from "yaml";
 
-/** Where the authored tree lives. */
-const CONTENT_DIR = "assets/content";
+/**
+ * Where authored words live.
+ *
+ * A changeset is published prose: it reaches a reader through the changelog
+ * exactly as a note reaches one through a page, so the same vocabulary holds
+ * in both. Retired words survived a sweep of the notes by sitting in a
+ * changeset nobody was scanning.
+ */
+const SCANNED_DIRS = ["assets/content", ".changeset"];
 
 /**
  * What makes a note this sweep's business.
@@ -335,7 +342,10 @@ function main() {
     }
 
     const byLayer = new Map();
-    const out = [...checkMapping(pairs), ...checkTree(pairs, markdownFiles(CONTENT_DIR), byLayer)];
+    const out = [
+        ...checkMapping(pairs),
+        ...checkTree(pairs, SCANNED_DIRS.flatMap(markdownFiles), byLayer),
+    ];
     for (const line of out) console.error(line);
 
     // What each packet still owes, so progress through the sweep is a number
