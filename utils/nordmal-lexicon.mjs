@@ -196,16 +196,50 @@ export function lexiconFrom(text) {
     // anything else opens one. Several spellings may share one row.
     const opening = new Set();
     const closing = new Set();
+    // One row may write one element two ways—`thrún-` and `thrumu-` are the
+    // same piece—so the spellings of a row are kept together. A god's name
+    // clipped into a place name may arrive in either.
+    const kin = new Map();
     for (const [entry] of rows(section(text, "### The element lexicon"))) {
-        for (const form of ticked(entry)) {
-            if (form.startsWith("-")) closing.add(form.slice(1).toLowerCase());
-            else opening.add(form.replace(/-$/, "").toLowerCase());
+        const forms = ticked(entry);
+        const row = forms.map((form) => form.replace(/^-|-$/g, "").toLowerCase());
+        for (const form of forms) {
+            const bare = form.replace(/^-|-$/g, "").toLowerCase();
+            if (form.startsWith("-")) closing.add(bare);
+            else opening.add(bare);
+            kin.set(bare, row);
         }
     }
 
+    // § _Place names_ carries two tables. The generics tick their entry in the
+    // first column; the table of what may stand first ticks it in the second,
+    // and names in words the two sources no list can hold—a god's name and a
+    // founder's, which are resolved from the register and from the note's own
+    // given-name rule.
     const generics = new Set();
-    for (const [entry] of rows(section(text, "### Place names"))) {
-        for (const form of ticked(entry)) generics.add(form.replace(/^-/, "").toLowerCase());
+    const placeFirst = new Set();
+    let fromGod = false;
+    let fromFounder = false;
+    for (const cells of rows(section(text, "### Place names"))) {
+        const head = ticked(cells[0] ?? "");
+        if (head.length) {
+            for (const form of head) generics.add(form.replace(/^-/, "").toLowerCase());
+            continue;
+        }
+        // The god's row and the founder's row describe a source rather than
+        // listing a form, and the founder's row ticks the genitive markers. So
+        // neither row's tick marks are read as elements, which would otherwise
+        // put a bare `s` and a bare `a` in front of every generic.
+        if (/\bgod\b/.test(cells[0] ?? "")) {
+            fromGod = true;
+            continue;
+        }
+        if (/\bfounder\b/.test(cells[0] ?? "")) {
+            fromFounder = true;
+            continue;
+        }
+        for (const form of ticked(cells[1] ?? ""))
+            placeFirst.add(form.replace(/^-|-$/g, "").toLowerCase());
     }
 
     const offices = new Set();
@@ -303,6 +337,13 @@ export function lexiconFrom(text) {
         offices,
         kept,
         readerTongue,
+        kin,
+        placeFirst,
+        fromGod,
+        fromFounder,
+        // Filled from the register of the gods, which a language note is not
+        // where to settle. `withGods` puts it here.
+        godFirst: new Set(),
         compoundEnds: new Set([...closing, ...generics]),
         standing,
         onsets,
@@ -399,6 +440,34 @@ export function decompose(word, rule, last) {
         if (word === `${head}r`) return [head];
     }
     return walk(word, []);
+}
+
+/**
+ * The gods' names, resolved into the elements they lend a place.
+ *
+ * The note states the rule—a place held from a god takes that god's name,
+ * clipped to its first element—and says nothing about who the gods are,
+ * because a language note is not where a pantheon is settled. The register is
+ * `utils/nordmal-concordance.json`, which the tree already keeps and another
+ * packet already maintains, so this reads it rather than carrying a second
+ * list that would drift from it.
+ *
+ * Every spelling of the element's row is admitted, since a row writes one
+ * piece more than one way: Thrúnvald lends `thrún-` and `thrumu-` alike.
+ *
+ * @param {object} rule - The derived lexicon.
+ * @param {object} table - The concordance.
+ * @returns {object} The same rule, with the gods' openings filled in.
+ */
+export function withGods(rule, table) {
+    if (!rule.fromGod) return rule;
+    for (const entry of table.entries ?? []) {
+        if (entry.subType !== "deity" || !entry.newName || /\s/.test(entry.newName)) continue;
+        const pieces = decompose(entry.newName.toLowerCase(), rule, rule.compoundEnds);
+        if (!pieces) continue;
+        for (const spelling of rule.kin.get(pieces[0]) ?? [pieces[0]]) rule.godFirst.add(spelling);
+    }
+    return rule;
 }
 
 /**
@@ -502,16 +571,35 @@ export function judge(name, kind, rule) {
     }
 
     if (kind === "place") {
-        for (const [stem] of rule.stems) {
-            for (const generic of rule.generics) {
-                if (bind(stem, generic) === lower || stem + generic === lower) return [];
+        for (const generic of rule.generics) {
+            if (!lower.endsWith(generic) || lower.length === generic.length) continue;
+            const head = lower.slice(0, lower.length - generic.length);
+            // Held from the ground alone: a name-stem, degeminating at the seam.
+            for (const [stem] of rule.stems) {
+                if (stem === head || bind(stem, generic) === lower) return [];
+            }
+            // Held from a god, from the ting and its law, from a sanctuary or
+            // from the gods' world: the forms the note's own table names.
+            if (rule.placeFirst.has(head) || rule.godFirst.has(head)) return [];
+            // Held from a founder: a lawful given name, with a genitive at the
+            // seam or with none.
+            if (rule.fromFounder) {
+                for (const [stem] of rule.stems) {
+                    for (const ending of rule.bestowal.keys()) {
+                        const given = bind(stem, ending);
+                        if (head === given || head === `${given}s` || head === `${given}a`)
+                            return [];
+                    }
+                }
             }
         }
-        const generic = [...rule.generics].find((end) => lower.endsWith(end));
+        const generic = [...rule.generics].find(
+            (end) => lower.endsWith(end) && lower.length > end.length,
+        );
         return [
             generic ?
-                `its generic "-${generic}" stands, and its first element "${name.slice(0, lower.length - generic.length)}-" is not a name-stem`
-            :   "it is not a name-stem and a place generic",
+                `its generic "-${generic}" stands, and its first element "${name.slice(0, lower.length - generic.length)}-" is neither a name-stem nor a name the place can be held from`
+            :   "it is not a first element and a place generic",
             ...shape(name, rule, "compound"),
         ];
     }
@@ -743,9 +831,12 @@ export function checkConcordance(table, rule, tally) {
                     :   (CONCORDANCE_KIND.get(entry.subType) ?? "compound"),
                 why: "the concordance settles it as new",
             })),
+        // A keep-list row says a name stands and does not say what kind of name
+        // it is, so it is held to whichever rule fits: a place name and a
+        // compound are both lawful things for one to be.
         ...(table.keep ?? []).map((entry) => ({
             name: entry.literal,
-            kind: "compound",
+            kind: ["compound", "place"],
             why: "the concordance keeps it standing",
         })),
     ];
@@ -753,18 +844,21 @@ export function checkConcordance(table, rule, tally) {
         const word = String(row.name).replace(/^the\s+/i, "");
         if (/[\s']/.test(word) || seen.has(word)) continue;
         seen.add(word);
-        const broken = judge(word, row.kind, rule);
-        if (!broken.length) continue;
-        out.push(
-            finding(
-                CONCORDANCE,
-                null,
-                null,
-                "warning",
-                `"${row.name}" — ${row.why}, and the ${row.kind} rule rejects it: ${broken.join("; ")}`,
-            ),
-        );
-        tally.set(row.kind, (tally.get(row.kind) ?? 0) + 1);
+        const kinds = Array.isArray(row.kind) ? row.kind : [row.kind];
+        const verdicts = kinds.map((kind) => ({ kind, broken: judge(word, kind, rule) }));
+        if (verdicts.some((verdict) => verdict.broken.length === 0)) continue;
+        for (const { kind, broken } of verdicts) {
+            out.push(
+                finding(
+                    CONCORDANCE,
+                    null,
+                    null,
+                    "warning",
+                    `"${row.name}" — ${row.why}, and the ${kind} rule rejects it: ${broken.join("; ")}`,
+                ),
+            );
+            tally.set(kind, (tally.get(kind) ?? 0) + 1);
+        }
     }
     return out;
 }
@@ -778,7 +872,8 @@ function main() {
         }
     }
     const note = fs.readFileSync(NOTE, "utf8");
-    const rule = lexiconFrom(note);
+    const table = JSON.parse(fs.readFileSync(CONCORDANCE, "utf8"));
+    const rule = withGods(lexiconFrom(note), table);
     const { names, bynames, titles } = corpus(rule);
 
     const out = [];
@@ -819,9 +914,7 @@ function main() {
     out.push(...checkLists(names, rule));
 
     const disagreements = new Map();
-    out.push(
-        ...checkConcordance(JSON.parse(fs.readFileSync(CONCORDANCE, "utf8")), rule, disagreements),
-    );
+    out.push(...checkConcordance(table, rule, disagreements));
 
     for (const line of out) console.error(line);
 
@@ -836,7 +929,9 @@ function main() {
         `The rules are read off ${NOTE}: ${rule.stems.size} stem-forms, ` +
             `${rule.bestowal.size} bestowal endings, ${rule.ting.size} ting-endings, ` +
             `${rule.opening.size + rule.closing.size} elements, ${rule.generics.size} place generics, ` +
-            `${rule.offices.size} office suffixes, ${rule.kept.size} kept words.`,
+            `${rule.offices.size} office suffixes, ${rule.kept.size} kept words. ` +
+            `A place may also be held from ${rule.godFirst.size} god-element(s) and ` +
+            `${rule.placeFirst.size} named source(s), which ${CONCORDANCE} and the note's own table supply.`,
     );
     say(`Names read: ${list(byClass)}`);
     say(
