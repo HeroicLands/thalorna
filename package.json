@@ -69,7 +69,8 @@
         "lint:reference-people": "node utils/reference-people.mjs",
         "lint:labels": "package-build labels check",
         "build:module": "package-build manifest",
-        "lint:lexicon": "node utils/khelathi-lexicon.mjs"
+        "lint:lexicon": "node utils/khelathi-lexicon.mjs",
+        "lint:drift": "node utils/nordmal-drift.mjs"
     },
     "devDependencies": {
         "@changesets/cli": "^3.0.3",
