@@ -16,8 +16,6 @@
   - **Khazártúrn** — the Khazári city also known as the _Valley of Seven Towers_.
   - The **Varkhad**, whose attacks initiated the _Pelwar Migrations_ to both Aelwyth
     and all across western Ankaris.
-- Aû'Khelâthu massively enhanced, including all new regions and polities,
-  characters, and lore notes regarding Aû'Khelâthu society.
 - Rewrite of many religions to update correct hierarchies and beliefs, including
   10 new Itzáni gods and the First Gods, as well as spirit traditions for
   the Nyáluba, the Old Way, and Okháris.
