@@ -14,10 +14,13 @@
  * so the check derives the whole question from one table and answers it as a
  * red test.
  *
- * **`utils/nordmal-drift.yaml` is the single source.** Nothing here restates a
- * pair, because a second copy drifts from the first the moment either is
- * edited, which is exactly the failure this guard exists to prevent, moved one
- * level up.
+ * **`utils/nordmal-concordance.json` is the single source.** It carries every
+ * historical form a name has been written in, from the pre-rename import
+ * onward — provenance the tree's current text alone cannot supply, since a
+ * name an earlier pass removed is invisible to a scan of today's tree. Nothing
+ * here restates a pair, because a second copy drifts from the first the
+ * moment either is edited, which is exactly the failure this guard exists to
+ * prevent, moved one level up.
  *
  * Two halves.
  *
@@ -40,17 +43,23 @@
  *
  * Three traps the table and this guard answer together:
  *
- * 1. **Every spelling is a row.** `Odinn` and `Ódinn` are labels on one
- *    address; `Njördur`, `Njördr`, `Njordur` and `Ragnarok` are each written
- *    beside a marked form. A rule written from one spelling reports clean.
+ * 1. **Every spelling is its own entry.** `Odinn` and `Ódinn` are labels on
+ *    one address; `Njördur`, `Njördr`, `Njordur`, `Njörðr` and `Ragnarok` are
+ *    each written beside a marked form, and an entry's `historical` flag says
+ *    whether the tree still writes that particular spelling. A rule written
+ *    from one spelling reports clean.
  * 2. **Short tokens are reached.** `Týr` and `Hél` are three characters and
- *    `Lôki` and `Ymir` four, and no minimum length is imposed anywhere. Where
- *    a token needs its context — `Hel.` abbreviates Helonic — the table says
- *    so and every occurrence the context excludes is counted and printed.
+ *    `Lôki` and `Ymir` four, and no minimum length is imposed anywhere. `Hel`
+ *    is the one entry that needs its context — `Hel.` abbreviates Helonic in
+ *    the language notes — and that single exception is written out below
+ *    rather than carried as a per-entry field no other row needs.
  * 3. **A retired name inside a kept word.** The keep-list is matched first and
  *    its spans are taken, so no retired token fires inside a word that keeps
  *    one. Longest match first among the retired tokens themselves, so
- *    `Bjorn-König` is found before `König` could be.
+ *    `Bjorn-Königers` is found before `Bjorn-König` could claim part of it —
+ *    both are their own entries, rather than one entry matched through an
+ *    inflection, so a spelling the sweep has not yet met is not silently
+ *    assumed to be covered.
  *
  * A guard proves completeness, never accuracy. Whether `Ódvar` is the right
  * name for the Fury-Ward is a judgement; whether it reached every sentence is
@@ -65,13 +74,21 @@
 
 import fs from "node:fs";
 import path from "node:path";
-import YAML from "yaml";
 
 /** Where the authored tree lives. */
 const CONTENT_DIR = "assets/content";
 
 /** The table every packet and this guard read from. */
-const MAPPING_FILE = "utils/nordmal-drift.yaml";
+const MAPPING_FILE = "utils/nordmal-concordance.json";
+
+/**
+ * The one context exception the corpus needs. `Hel.` abbreviates Helonic in
+ * the language notes, so the bare form is excepted when followed by a full
+ * stop. No other entry needs a context exception, so this stays a single
+ * hardcoded case rather than a per-entry field every other row would carry as
+ * `null`.
+ */
+const HEL_ABBREVIATION = /^\./u;
 
 /**
  * A note's address written bare, by the prefixes the corpus writes.
@@ -82,9 +99,6 @@ const MAPPING_FILE = "utils/nordmal-drift.yaml";
  */
 const ADDRESS =
     /(?<![\p{L}\p{M}])(?:affiliation|place|lore|being|skill|sohl|icon|miscgear|weapongear|armorgear|concoctiongear|mysticalability|mystery|scenario|doc)-[a-z0-9]+(?:#[\w-]+)?(?![\p{L}\p{M}])/gu;
-
-/** The groups of the mapping that carry drift pairs. */
-const PAIR_GROUPS = ["gods", "furniture", "ranks", "orders"];
 
 /** The marks a language note may state in its romanisation table. */
 const MARK_NAMES = new Map([
@@ -143,7 +157,7 @@ function finding(file, line, column, severity, message) {
  * @returns {object} The parsed table.
  */
 function readMapping() {
-    return YAML.parse(fs.readFileSync(MAPPING_FILE, "utf8"));
+    return JSON.parse(fs.readFileSync(MAPPING_FILE, "utf8"));
 }
 
 /**
@@ -162,18 +176,16 @@ function escape(text) {
  * The trailing boundary permits `'s` and nothing else: a rule that blocked a
  * following apostrophe would miss `Ódinn's` and `Ymir's Children`, and one
  * that allowed any apostrophe would reach into a foreign compound that carries
- * one. A row marked `suffix` is matched through an inflection instead, which is
- * how one row covers a name the corpus writes both bare and declined.
+ * one. An inflected spelling such as `Bjorn-Königers` is its own entry rather
+ * than a suffix matched onto `Bjorn-König`, so this pattern is never asked to
+ * cross an inflection.
  *
  * @param {object} pair - The mapping row.
  * @returns {RegExp} The pattern.
  */
 function patternFor(pair) {
     const before = "(?<![\\p{L}\\p{M}])";
-    const after =
-        pair.suffix ?
-            "[\\p{L}\\p{M}]*(?![\\p{L}\\p{M}])"
-        :   "(?![\\p{L}\\p{M}])(?:(?=['’]s(?![\\p{L}\\p{M}]))|(?!['’]))";
+    const after = "(?![\\p{L}\\p{M}])(?:(?=['’]s(?![\\p{L}\\p{M}]))|(?!['’]))";
     return new RegExp(`${before}${escape(String(pair.retired))}${after}`, "gu");
 }
 
@@ -350,27 +362,10 @@ export function checkDrift(pairs, keep, files, tally) {
                 const to = from + match[0].length;
                 if (overlaps(from, to)) continue;
 
-                if (
-                    pair.exceptFollowedBy &&
-                    new RegExp(`^(?:${pair.exceptFollowedBy})`, "u").test(text.slice(to))
-                ) {
+                if (pair.retired === "Hel" && HEL_ABBREVIATION.test(text.slice(to))) {
                     tally.excluded.set(
-                        `${pair.retired} followed by /${pair.exceptFollowedBy}/`,
-                        (tally.excluded.get(
-                            `${pair.retired} followed by /${pair.exceptFollowedBy}/`,
-                        ) ?? 0) + 1,
-                    );
-                    continue;
-                }
-                if (
-                    pair.exceptPrecededBy &&
-                    new RegExp(`(?:${pair.exceptPrecededBy})$`, "u").test(text.slice(0, from))
-                ) {
-                    tally.excluded.set(
-                        `${pair.retired} preceded by /${pair.exceptPrecededBy}/`,
-                        (tally.excluded.get(
-                            `${pair.retired} preceded by /${pair.exceptPrecededBy}/`,
-                        ) ?? 0) + 1,
+                        "Hel followed by /\\./",
+                        (tally.excluded.get("Hel followed by /\\./") ?? 0) + 1,
                     );
                     continue;
                 }
@@ -390,7 +385,7 @@ export function checkDrift(pairs, keep, files, tally) {
                         `retired name "${match[0]}" survives; ${says}`,
                     ),
                 );
-                tally.byLayer.set(pair.layer, (tally.byLayer.get(pair.layer) ?? 0) + 1);
+                tally.byGroup.set(pair.group, (tally.byGroup.get(pair.group) ?? 0) + 1);
                 tally.byToken.set(pair.retired, (tally.byToken.get(pair.retired) ?? 0) + 1);
             }
         }
@@ -516,14 +511,34 @@ export function checkRomanisation(spec, rule, files, tally) {
 /**
  * Check the table itself, before any note is read.
  *
+ * A replacement is not required to be unique to one entry: the concordance
+ * carries one entry per historical spelling, so `Odinn`, `Óðinn`, `Oðinn` and
+ * `Odin` legitimately share the replacement `Ódvar`. What must be unique is
+ * the retired spelling itself — two entries naming the same `oldName` is an
+ * ambiguous instruction the sweep cannot follow.
+ *
  * @param {object[]} pairs - The drift rows.
  * @returns {string[]} Findings.
  */
 export function checkMapping(pairs) {
     const out = [];
-    const seen = new Map();
+    const seenNames = new Map();
     for (const pair of pairs) {
         const where = `${pair.group}: ${pair.retired}`;
+        const priorReplacement = seenNames.get(pair.retired);
+        if (priorReplacement !== undefined && priorReplacement !== pair.replacement) {
+            out.push(
+                finding(
+                    MAPPING_FILE,
+                    null,
+                    null,
+                    "error",
+                    `"${pair.retired}" is entered twice, replaced once by "${priorReplacement}" and once by "${pair.replacement}"`,
+                ),
+            );
+        }
+        seenNames.set(pair.retired, pair.replacement);
+
         if (!pair.drop && !pair.replacement) {
             out.push(
                 finding(
@@ -549,19 +564,6 @@ export function checkMapping(pairs) {
                 ),
             );
         }
-        const collision = seen.get(replacement);
-        if (collision && collision !== pair.retired && !pair.merges) {
-            out.push(
-                finding(
-                    MAPPING_FILE,
-                    null,
-                    null,
-                    "error",
-                    `"${replacement}" replaces both ${collision} and ${pair.retired}, merging two names the setting keeps apart`,
-                ),
-            );
-        }
-        seen.set(replacement, pair.retired);
     }
     return out;
 }
@@ -574,12 +576,21 @@ function main() {
     }
     const table = readMapping();
 
-    const pairs = [];
-    for (const group of PAIR_GROUPS) {
-        for (const row of table[group] ?? []) {
-            if (row?.retired) pairs.push({ ...row, group });
-        }
-    }
+    // Every concordance entry with an `oldName` is a retired spelling this
+    // guard sweeps for. `subType` names the kind of thing (deity, rank,
+    // order, ...); `type` alone covers an entry with no `subType`, which is
+    // how a pure spelling variant (`type: "spelling"`) still reports as
+    // something readable. `newName: null` is `drop`: retired with nothing to
+    // replace it.
+    const pairs = (table.entries ?? [])
+        .filter((entry) => entry.oldName)
+        .map((entry) => ({
+            retired: entry.oldName,
+            replacement: entry.newName,
+            drop: entry.newName === null || entry.newName === undefined,
+            group: entry.subType ?? entry.type,
+            note: entry.note,
+        }));
     if (pairs.length === 0) {
         console.error(`${MAPPING_FILE}: error: the table declares no pairs`);
         return 1;
@@ -593,7 +604,7 @@ function main() {
     const scoped = files.filter(({ file, raw }) => inScope(file, raw, table.scope ?? {}));
 
     const tally = {
-        byLayer: new Map(),
+        byGroup: new Map(),
         byToken: new Map(),
         kept: new Map(),
         excluded: new Map(),
@@ -622,10 +633,7 @@ function main() {
         `The romanisation is read off ${table.romanisation.note}: ` +
             `${rule.marks.size} mark(s) written, ${[...rule.forbidden.values()].join(", ")} never.`,
     );
-    if (tally.byLayer.size) {
-        const layers = [...tally.byLayer.entries()].sort((a, b) => a[0] - b[0]);
-        say(`Surviving names by packet: ${layers.map(([layer, n]) => `${layer}=${n}`).join("  ")}`);
-    }
+    if (tally.byGroup.size) say(`Surviving names by kind: ${list(tally.byGroup)}`);
     if (tally.byToken.size) say(`By name: ${list(tally.byToken)}`);
     if (tally.romanisation.size) say(`Romanisation breaks: ${list(tally.romanisation)}`);
     if (tally.kept.size) say(`Kept words protected from the sweep: ${list(tally.kept)}`);
