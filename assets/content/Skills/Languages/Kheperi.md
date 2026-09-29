@@ -161,11 +161,14 @@ Yet religious conservatism has resulted in Classical Kheperi being actively rein
 
 ## Sample Phrases
 
-1. **Khepru en ankh**—_Greeting formula; literally "May the Kheperian principles uphold life"_
-2. **Amuun ra, seker em khenet**—_Ritual invocation; "Sun-lord, hidden in the sanctuary"_
-3. **Ermen es hotet**—_Affirmation of loyalty; "I am bound to the throne"_
-4. **Neb mehet aru kheper**—_Mercantile oath; "The lord's goods shall prosper"_
-5. **Shemsu setem**—_Sacred command; "Let the followers hear" (used to introduce proclamations)_
+1. **Khelâthu elu anlagh**—_Greeting formula; literally "the Khelâthi way upon life"_
+2. **Aqun-Uqa, wethûr ezu qelet**—_Ritual invocation; "Sun-lord, hidden in the sanctuary"_
+3. **Erlem ez luzet**—_Affirmation of loyalty; "I am bound to the throne"_
+4. **Zab melet agu khelâth**—_Mercantile oath; "The lord's goods shall prosper"_
+5. **Shelmu zetem**—_Sacred command; "Let the followers hear" (used to introduce proclamations)_
+
+The particles are _elu_ (of, upon), _ezu_ (in), _ez_ (to, toward) and _agu_
+(shall, marking what is undertaken rather than what is done).
 
 ## Learned Vocabulary
 
@@ -194,19 +197,19 @@ In Kheperian tradition, names are sacred utterances that encapsulate divine prin
 
 **Given Names (Male):**
 
-- Often incorporate theophoric elements (divine names prefixed or suffixed): _Ahmurê_ (devotion-blessed), _Imhûtep_ (he who arrives in stillness)
+- Often incorporate theophoric elements (divine names prefixed or suffixed): _Ahmuzê_ (devotion-blessed), _Imhûgepu_ (he who arrives in stillness)
 - Many reference royal titles, divine attributes, or favorable circumstances
 - Frequently compound with elements meaning "true," "beloved," "strength," or "protection"
 - Consonant-heavy phonology with frequent emphatics
 - Written as a single word, however many elements they are built from, and never with the collective _-u_, which belongs to the house
-- Examples: _Khâfirah_ (the bold one), _Thûtmês_ (moon-born)
+- Examples: _Khelâfirahu_ (the bold one), _Thûlmês_ (moon-born)
 
 **Given Names (Female):**
 
 - Similarly theophoric; often invoke goddesses of motherhood, fertility, and magic
 - Many end in long vowels (_-ê, -ā, -ī_) which grammatically mark feminine gender
 - Frequently incorporate feminine diminutive suffixes, creating terms of endearment
-- Examples: _Ankhesna_ (life-bearer), _Senya_ (fortunate), _Tiya_ (gift)
+- Examples: _Anlaghesna_ (life-bearer), _Linya_ (fortunate), _Thiya_ (gift)
 
 **Clan or House Names:**
 
@@ -214,11 +217,91 @@ In Kheperian tradition, names are sacred utterances that encapsulate divine prin
 - Often include hieratic epithets or divine titles
 - May reference the location of the family shrine or primary temple affiliation
 - Carry the collective _-u_: a house is named as the people of its founder, its shrine or its land, so the plural is what a reader hears at the end of every one
-- Examples: _Âmen'Rêu_ (house of the sun-lord), _Ta'Sekenu_ (land of the ancestral realm), _Per'Ankhrau_ (temple of the living)
+- Examples: _Âthen'Rêlu_ (house of the sun-lord), _Zu'Zekenu_ (land of the ancestral realm), _Gar'Anlaghau_ (house of the living)
 
 ### Titles and Epithets
 
 Formal address involves extensive titulature; individuals of rank may have five to ten titles reflecting their position, accomplishments, and piety. These are often written before the personal name and may be abbreviated in daily speech but elaborated in formal or religious contexts.
+
+### Institutional Names
+
+A body of people is named from three parts: the **head-word** saying what kind
+of body it is, the **work** it does or the **name** it is founded on, and whose
+it is.
+
+```
+Lin'Zethu elu Aû'Khelâthu     the scribes' guild of the Empire
+Lin'Melnu elu Galezkara       the smiths' guild of Galezkara
+```
+
+The head-word is the part a listener parses first, and it is the part that says
+whether the body is a trade, a household, a priesthood or a court.
+
+| Head-word | What it names                           | Example                         |
+| --------- | --------------------------------------- | ------------------------------- |
+| _Gar-_    | a house: a family, a lineage, an office | _Gar-Sa'Aqutu_, _Gar-Meglay_    |
+| _Lin'_    | a sworn body of a trade                 | _Lin'Githar_, the weavers       |
+| _Lut-_    | a mansion: a god's temple, or an estate | _Lut-Uznêra_, _Lut-Mulu_        |
+| _Lem'_    | an order, the servants of a god         | _Lem'Thubâ'i_                   |
+| _Genzet'_ | a court or council                      | _Genzet'Uznêra_                 |
+| _Zab'_    | the lords of a thing                    | _Zab elu Aû'Khelâthu_           |
+| _Zeghet'_ | a company that goes out                 | _Zeghet'Nelgu_, the sacred hunt |
+
+**The genitive is _elu_.** It is the same element that links the halves of a
+clan name—_Re'el'Lêru_, the Re of Lêru—standing free between a body and
+whatever holds it. What follows _elu_ is a realm, a city, a god or a house:
+_elu Aû'Khelâthu_ for a body chartered across the Empire, _elu Galezkara_ for
+one that answers to a single city, _elu Reth'Sa'âr_ for one attached to a
+temple.
+
+**The same trade in two places is two bodies, not one.** _Lin'Melnu elu
+Aû'Khelâthu_ is the imperial guild of metalworkers, chartered by the Gar-Aû and
+holding across every selat; _Lin'Melnu elu Galezkara_ is the smiths of the
+capital, who answer to their own masters and to the city. A smith may belong to
+both, to one, or to neither, and which he names when asked says a great deal
+about him.
+
+**A god's establishments share his name and differ by head-word.** The temple of
+Uznêra is _Lut-Uznêra_; the priesthood serving in it is _Lem'Uznêra_; the
+council that governs its holdings is _Genzet'Uznêra_. A speaker who says the
+wrong one has said something else entirely, and the distinction matters in any
+dispute over property, since the three hold different things.
+
+**A house is _Gar-_ whether the tie is blood or office.** _Gar-Sa'Aqutu_ is a
+family; _Gar-Meglay_ is the frontier command; _Gar-Gezanu_ is the service that
+collects the Gar-Aû's dues. What they share is that each has a head who answers
+for it, which is what the head-word asserts.
+
+#### The Work-Words
+
+These name what a body does, and stand between the head-word and the genitive.
+
+| Word      | Trade                     | Word      | Trade                        |
+| --------- | ------------------------- | --------- | ---------------------------- |
+| _zethu_   | the written hand, scribes | _zuwaret_ | trade, merchants             |
+| _zemnu_   | craft, artisans           | _melnu_   | the forge, metalworkers      |
+| _githar_  | the loom, weavers         | _lagun_   | timber                       |
+| _qenuwa_  | gold                      | _qelzu_   | the lock, locksmiths         |
+| _zaglu_   | the made figure, toys     | _zamlu_   | music, minstrels             |
+| _shelun_  | performance, players      | _legharu_ | the herb, apothecaries       |
+| _zeghet_  | the hunt                  | _qeztu_   | war, mercenaries             |
+| _igelu_   | the river, mariners       | _zegaru_  | the field, farmers           |
+| _lutgar_  | the inn, innkeepers       | _genzet_  | the court, litigants         |
+| _gezan_   | a weight of metal, debt   | _lagaru_  | bulk, volume                 |
+| _rethu_   | lore, scholars            | _lemu_    | service, servants            |
+| _lemzabu_ | a great house's steward   | _qethar_  | the old way, traditionalists |
+
+Several are the ordinary word doing double duty: _gezan_ is a weight of metal
+before it is a debt, so _Lin'Gezan_ is heard as "the guild of the weighing" and
+only then as the collectors; _lagar_ is a measure of grain, so the merchants who
+deal only in volume are _Lagaru_ whatever they think of the name. _zaglu_ is the
+funerary figure, which is why the toymakers carry it and why the trade is
+thought slightly unlucky.
+
+**Foreigners keep their own word and put it after.** A Vylarian factor writes
+_Lin'Zethu elu Aû'Khelâthu_ in a contract and says "the Scribes' Guild" in the
+tavern, and both are understood. A Khelâthi doing business abroad does the same
+in reverse, which is how the trade tongues along the coast came by the words.
 
 ---
 
