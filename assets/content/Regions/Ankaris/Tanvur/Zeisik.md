@@ -2,7 +2,7 @@
 shortcode: zeisik
 name: {full: Zëisīk, aliases: []}
 type: lore
-subType: culture
+subType: custom
 data: {packFolder: tanvur}
 ---
 

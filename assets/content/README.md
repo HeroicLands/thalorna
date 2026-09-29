@@ -122,6 +122,22 @@ Peoples such as the Pelwar (`pelwarpepl`) and Áelendan (`aelendnppl`) belong in
 one of these peoples still names `humanflk` as its species. Include each lore
 address once.
 
+## Cultures and customs
+
+A `lore` note with `subType: culture` names **a people** — a social grouping
+with its own beliefs, mores and values, such as the Kheperi or the Vedyari.
+Those notes live in `Lore/Cultures/`, one per people, and a being points at one
+through `data.culture`.
+
+A practice that a people keeps is not a culture. A rite, an observance, a
+naming habit, a dance, a trade or a way of treating the dead is
+`subType: custom`, and it belongs beside the region or people it describes. The
+test is whether the note answers _who are these people_ or _what do these people
+do_: the first is a culture, the second a custom.
+
+Neither is `subType: gathering`, which is a scheduled occasion people travel to
+— a festival, a fair, a tournament.
+
 ## Birth dates and ages
 
 A being's `data.born` supplies its birth date. With a known birth date, omit
