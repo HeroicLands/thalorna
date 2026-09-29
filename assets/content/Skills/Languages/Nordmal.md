@@ -33,17 +33,156 @@ Nordmal employs a consonant-heavy inventory with particular emphasis on stops an
 
 **Consonants:** The language employs a full complement of stop consonants (p, b, t, d, k, g) with strong aspiration in some contexts. Fricatives include f, v, s, z, the voiceless dental fricative _th_ (as in _thin_), and the uvular fricative kh/x (from Proto-Pelwar heritage). Nordmal has **no voiced dental fricative**: the sound older Pelwar carried in that slot merged into plain _d_ generations before the five kingdoms were founded, which is why _seidr_ is said SAI-dur and not SAY-thur. The runic row still keeps two separate staves for a distinction the tongue gave up, and rune-masters treat that as proof the staves are older than the speech. The combination of these fricatives with the heavy stress patterns creates the characteristic "crackling" sound of Nordmal speech. Initial consonant clusters are common and well-tolerated (str-, skr-, kn- are typical).
 
+**The letters are a closed set.** Nordmal writes the consonants `b d f g h j k l m n p r s t v z` and the two digraphs `th` and `kh`, and the vowels `a e i o u y` and `ö`, each of the first six having a long partner written `á é í ó ú ý`. It writes no `c`, no `q`, no `w` and no `x`, and marks no vowel long that the six acutes do not cover, so there is no long `ö`. A word carrying any of those four letters belongs to another tongue.
+
 **Vowels:** Nordmal maintains six vowel positions (a, e, i, o, u, y) with systematic length distinctions marked by accent marks (á, é, í, ó, ú, ý for long vowels). Diphthongs are limited in inventory but phonemic. Nasal vowels do not occur.
 
-**Stress and Rhythm:** Stress is predictable, falling primarily on the first syllable of words (STÓRáldur, HJÓRdis). This creates a hammer-blow rhythm characteristic of Nordmal speech. The language employs alliterative verse patterns where lines are bound by consonant repetition rather than end rhyme.
+**Stress and Rhythm:** Stress is predictable, falling primarily on the first syllable of words (STÓRáldur, HLARTHarukh). This creates a hammer-blow rhythm characteristic of Nordmal speech. The language employs alliterative verse patterns where lines are bound by consonant repetition rather than end rhyme.
 
 **Distinctive Features:** The uvular fricative (kh/x) marks the boundary between everyday and formal speech, appearing most frequently in archaic texts and high ritual contexts. The combination of initial consonant clusters with the strong initial stress gives Nordmal a distinctive "punch" in speech. Nordmal also preserves some archaic Pelwar features—like the instrumental case and a dual number—that other branches have lost.
 
+### Openings and closings
+
+Two inventories decide whether a name can be Nordmal at all, and both are closed. A name that opens or closes outside them belongs to some other tongue however well its middle behaves, and the closing is the stronger cue of the two, because the last sound by itself places a name in its class. Ordinary words keep the same openings and take a wider range of closings, so _skip_ and _hof_ are Nordmal and no name is.
+
+**What may open a name.** A single consonant, one of the clusters below, or a vowel with nothing in front of it.
+
+| consonants | the openings                                                                                                            |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------- |
+| one sound  | `b` `d` `f` `g` `h` `j` `k` `l` `m` `n` `p` `r` `s` `t` `v` `th`                                                        |
+| two        | `bj` `bl` `br` `dr` `dv` `fj` `fl` `fr` `gl` `gn` `gr` `hl` `hn` `hr` `hv` `kn` `kr` `nj` `sk` `sn` `st` `sv` `tv` `vr` |
+| three      | `skj` `skr` `stj` `str` `thr`                                                                                           |
+| none       | a vowel stands first                                                                                                    |
+
+The `kh` never opens anything. It sits at the end of a clan name and in the body of a ritual word, and nowhere else.
+
+**What may close a name.** A vowel, or one consonant from a set of nine.
+
+| closing                 | what may stand there                                  |
+| ----------------------- | ----------------------------------------------------- |
+| any name                | a vowel, or `d` `g` `k` `l` `m` `n` `r` `t` `v`       |
+| a clan name at the ting | `kh`, which nothing else ends in                      |
+| written double          | `ll` `nn` `rr`, as in Vígvöll, Knalthann, Thrúnhamarr |
+
+No Nordmal name ends in `b`, `f`, `h`, `j`, `p`, `s`, `th` or `z`. A name whose last element would otherwise close on `f` takes the strong ending `-r` instead, which is why the wolf is _úlfr_ and the fire _eldr_.
+
+**The consonant band.** Nordmal carries about two and a third consonants for every vowel, and a name has to sit inside the band its class occupies. A compound runs heavier than a bound name, because the two elements bring their codas together at the seam. Below the floor a coinage stops sounding northern: a name with more vowels in it than consonants belongs to a southern tongue.
+
+| class of name                 | consonants per vowel | syllables  |
+| ----------------------------- | -------------------- | ---------- |
+| a bestowed or ting-built name | `1.0` to `3.5`       | `2` to `3` |
+| a compound                    | `1.0` to `5.0`       | —          |
+
+**There is no glottal stop.** No name carries an apostrophe and no two vowels stand in hiatus. A vowel pair is a single diphthong spoken in one beat, and the free pairs are `ae`, `au`, `ei` and `ey`. An element carries whatever pair its own spelling has, so `-guard` and `-stead` keep theirs wherever they stand.
+
+### Weight, foot and beat
+
+Stress falls on the first syllable of every word without exception, so a Nordmal name has exactly one beat and it lands at the front. That is what lets a name be said correctly on sight: AL-thmýl, VRA-thý-ra, HLARTH-a-rukh.
+
+A name-stem is one syllable and carries a short vowel, so in a given name or a ting-built clan name every long vowel falls after the stress, inside the ending. A stem-and-ending name therefore runs two syllables or three and never one or four: a trochee where the ending is one syllable, a dactyl where it is two. A compound has as many syllables as its elements bring and no fixed count, and it may carry its length in the stressed syllable, which is the audible difference between a bestowed name and a made one—Sólrún and Thrúnvald open long, Althmýl and Hlartharukh open short.
+
+Alliteration binds, and end rhyme does nothing. A skald binds a line by repeating the onset, and a hall binds its generations the same way: a line whose name-giver was Hlarthvir names its sons Hlirthmýl and its grandsons Hlurthann, so the onset holds steady down the generations while the ablaut grade turns over. A coined name that alliterates with nothing in the hall it belongs to is as wrong as a coined name with the wrong grade.
+
+## Grammar Notes
+
+**Word Order:** Nordmal employs a basic SVO word order but allows significant flexibility due to its rich case system. Case marking through nominal suffixes allows pragmatic reordering for emphasis. Archaic texts show greater flexibility than modern speech.
+
+**Noun Cases:** Nordmal preserves the most elaborate case system of any Pelwar language, with five cases: nominative, accusative, genitive, dative, and instrumental. This allows precise expression of relationships without relying on prepositions or word order.
+
+**Number:** The language maintains singular, dual, and plural distinctions. The dual is used for naturally paired entities (hands, eyes, two-person teams) and is considered more precise than using singular or plural forms.
+
+**Gender:** Nordmal maintains three genders (masculine, feminine, neuter) with consistent agreement patterns. Gender often corresponds to semantic features but irregular assignments persist, marking archaisms.
+
+**Verbs:** Verbs conjugate according to person, number, tense (past, present, future), and aspect (perfective/imperfective). The subjunctive mood is well-developed. Strong verbs (employing vowel ablaut) are more numerous in Nordmal than in southern Pelwar languages, and irregular forms are respected as markers of education.
+
+**Articles:** Nordmal employs enclitic articles (attached to nouns) rather than separate words, distinguishing definite and indefinite forms. The choice of article can indicate degree of certainty or emotional distance.
+
+## Script & Literacy
+
+Nordmal traditionally employs a runic script (the ancient [[skill-thuravarkscript|Thurávark]], adapted for Pelwar sounds, and in all likelihood inherited, by way of a Proto-Pelwar row learned from the Khazári when the Pelwar tribes were their subjects—a claim no Norman will hear) for formal and sacred writing. The runic system is considered more noble and traditional than the alphabetic script used for trade and common writing. High-status texts—legal documents, genealogies, religious texts—are written in runes.
+
+### Romanizing Nordmal
+
+Nordmal is written in runes. Every Latin spelling in these pages is therefore a
+romanization rather than the language's own writing, and the rule governing it is
+that **a romanized name must be typeable**: a reader who meets Sólrún in a saga and
+goes looking for her has to find him by typing what they saw.
+
+That rules out any letter a search cannot fold away. An accent is a decoration
+sitting on an ordinary letter, so á, ó and ö reduce to a, o and o by themselves—they cost a reader nothing, and Nordmal keeps them to mark vowel length. Thorn,
+eth and ash are not decorations but letters in their own right, and nothing
+reduces them: a search for _thurs_ never reaches a name spelled with a thorn,
+because there is no _t_ and no _h_ inside it to find. They are written out
+instead:
+
+| sound                         | written       | never    |
+| ----------------------------- | ------------- | -------- |
+| voiceless dental fricative    | `th`          | thorn    |
+| its merged voiced counterpart | `d`           | eth      |
+| the low front vowel           | `ae`          | ash      |
+| the rounded back vowel        | `ö`           | o-ogonek |
+| long vowels                   | `á é í ó ú ý` | —        |
+
+The assembly is the one place the rule bends toward the older hard _t_. Spelled
+_th_ the word comes out _thing_, which is an ordinary English noun and would bury
+it past finding, so the northern word for a lawful gathering is the **ting**—and
+the handful of names that traveled with it, Torvald among them, keep the same
+hard opening.
+
+The [[skill-semrnscrpt|Sêmarion]] alphabet has become increasingly common for practical purposes, particularly in trade and maritime contexts. True literacy remains rare—confined to the priesthood, professional scribes, and a small minority of the nobility (perhaps 10-20%). Many jarls and thanes consider reading a scribe's task, not a warrior's, and keep household scribes for correspondence and record-keeping. Even in trading cities, most merchants rely on scribes for contracts and correspondence; a guildsman may recognize common trade marks and numerals but cannot read continuous text. Inland and rural populations are almost entirely non-literate. However, the cultural prestige of poetry and sagas means many non-literate Nordmen can recite extensive oral literature from memory.
+
+## Historical Development
+
+Nordmal descended from Proto-Pelwar stock along with [[skill-varokhlng|Varokhi]], but followed a unique evolutionary path in isolation across the frozen north. The language preserves many archaic Pelwar features (instrumental case, dual number, strong verbs) that have been lost or simplified in southern branches, suggesting Nordmal represents a more conservative development path.
+
+The five Nordmen kingdoms maintained relative political independence, preventing standardization. Instead, Nordmal developed as a family of related dialects tied to specific kingdoms. This diversity is a source of pride (each kingdom claims its variant is the "truest" Nordmal) but can create difficulties in inter-kingdom diplomacy.
+
+## Regional Dialects
+
+**Nordheim Standard:** The prestige dialect of the greatest kingdom, used in formal contexts and literature. Shows the most conservative phonetics.
+
+**Malagna Coastal:** Spoken in the more temperate coastal regions, showing some phonetic simplification and loanwords from trading contacts with Provenzal speakers.
+
+**Interior Highland:** Spoken in mountainous regions inland, preserves more archaic features, particularly in the case system and strong verb forms.
+
+**Frontier Speech (Aelwyth Nordmal):** A mixed variety spoken in western Aelwyth, incorporating some Élavendri vocabulary and showing phonetic simplification due to bilingual contact.
+
+## Sample Phrases
+
+- **"Hersvald kallar tingit."**—"The host-wielder calls the assembly." (Plain statement, showing the enclitic article `-it` on a neuter noun.)
+- **"Vér gangum í frídi."**—"We come in peace." (Formal diplomatic formula; _frídi_ is the dative of _frídr_, the peace a hall owes a guest.)
+- **"Thrúnvald vakir, úlfar thyrsta!"**—"The Thunder-Wielder wakes, the wolves thirst!" (Battle cry, bound by its alliteration on _th_ rather than by rhyme.)
+- **"Tvau skip, ein ferd."**—"Two ships, one voyage." (The dual _tvau_, said of two people who answer for one another.)
+- **"Stóraldit lifir í steini ok í minni."**—"The saga lives in stone and in memory." (Two datives in parallel; _minni_ is memory recited, not memory written.)
+
+## Related Languages
+
+Nordmal stands closest to [[skill-varokhlng|Varokhi]], sharing many archaic Pelwar features and phonetic similarities. The two languages are technically mutually intelligible to speakers with training, though the difference in written forms (Nordmal uses runes, Varokhi has no written form) and regional divergence create barriers.
+
+The relationship to southern Pelwar languages ([[skill-vylarilng|Vylari]], [[skill-provnzlng|Provenzal]], [[skill-tarvenlng|Tarvéni]]) is more distant. Nordmal speakers find southern languages overly soft and imprecise; southern speakers find Nordmal difficult to understand due to its phonetic severity and archaic grammar.
+
+[[skill-elvndrlng|Élavendri]] has had some influence on Nordmal in frontier regions, particularly in western Aelwyth, but the languages remain largely separate. No clear cognates or structural similarities suggest the two languages were ever mutually intelligible.
+
+## Naming Traditions
+
+Nordmal builds a name by one of two operations, and every class of name uses one or the other. A **bound** name is a name-stem in a name-ending, and the ending carries no sense of its own: given names and the clan names the ting reads out are built this way. A **compound** name is two or more elements each of which means something on its own: gods, offices, orders, places and earned clan names are built this way. Nothing formed any third way is a Nordmal name.
+
+A Nordman carries a **given name** and a **clan name**, and the tongue builds the two by different operations, so a herald calling a muster never has to ask which he is holding:
+
+1. A **given name** is a name-stem in one of the eight bestowal endings. It runs two syllables or three and closes on a vowel or on `l`, `n`, `r` or `v`.
+2. A **clan name** is a name-stem in one of the four ting-endings, closing on the formal `kh`, or else an earned name built as a compound. The `kh` decides the question one way: a name carrying one is a clan name, and no given name carries one anywhere.
+
+A name-giver therefore chooses two things and not four: the stem, which says what the name is about, and the ending, which says what the name is for. The sense a name carries is the stem's alone, glossed when a stranger asks and never rendered into another tongue, because a stem translated is a stem lost.
+
+**A clan has more than one member.** A name in these lists is a clan and not a person: brothers, cousins, a widow and her household and three generations of a hall all carry the same one. Reaching for an unused clan name where an existing clan would serve is how a hall of forty comes to be written as forty halls of one.
+
+Patronymic forms are common, particularly in genealogical contexts. The suffix -sen (son) or -dóttir (daughter) may be appended to a parent's name when formal identification is required. A line that can recite its name-giver takes the `-idrokh` ending to say so.
+
 ### Name-stems and name-endings
 
-A Nordmal name is built from two bound pieces, and neither is a word of the language standing on its own. A **name-stem** (_nafnstofn_) carries the sense. A **name-ending** (_nafnending_) carries none at all, and says only what kind of name this is. Because the ending is empty, a Nordmal name states one thing and not two, and there is no second piece in it for a hearer to translate. This is the line between a name and a **kenning**: a skald who wants to call a man a cliff-warden says so in the words for cliff and for warden, and every listener hears both. A name does no such thing.
+A Nordmal name is built from two bound pieces, and neither is a word of the language standing on its own. A **name-stem** (_nafnstofn_) carries the sense. A **name-ending** (_nafnending_) carries none at all, and says only what kind of name this is. Because the ending is empty, a Nordmal name states one thing and not two, and there is no second piece in it for a hearer to translate. This is the line between a name and a **kenning**: a skald who wants to call a man a cliff-warden says so in the words for cliff and for warden, and both words keep their own sense.
 
-**The stems ablaut.** Every name-stem is spoken in one of three grades — the **hard** grade in _a_, the **middle** in _i_, and the **deep** in _u_ — and in a name the grade is the generation mark: a child takes the grade after the name-giver's, hard to middle, middle to deep, deep to hard again. A hall's genealogy therefore rings through its vowels, which is why a skald recites eleven generations of a line without faltering, and why a wrong grade is heard at once.
+**The stems ablaut.** Every name-stem is spoken in one of three grades—the **hard** grade in _a_, the **middle** in _i_, and the **deep** in _u_—and in a name the grade is the generation mark: a child takes the grade after the name-giver's, hard to middle, middle to deep, deep to hard again. A hall's genealogy therefore rings through its vowels, which is why a skald recites eleven generations of a line without faltering, and why a wrong grade is heard at once.
 
 | hard     | middle   | deep     | what it names                                 |
 | -------- | -------- | -------- | --------------------------------------------- |
@@ -82,124 +221,249 @@ A Nordmal name is built from two bound pieces, and neither is a word of the lang
 | _brald_  | _brild_  | _bruld_  | a fire banked to keep overnight               |
 | _enth_   | _inth_   | _unth_   | the far side of a pass                        |
 
-**The endings.** A man's name takes `-vir`, `-mýl`, `-thann` or `-orv`. A woman's takes `-rinna`, `-selda`, `-thýra` or `-ynda`. The stems are not gendered and a brother and sister are frequently named from one, so the ending is the whole of the difference.
+Where a stem and an ending meet on the same consonant, one of them is written: _alth-_ and `-thann` give **Althann**, _vrath-_ and `-thýra` give **Vrathýra**. Stress is initial in a name as in every other word, so any of these can be said correctly on sight—AL-thann, VRA-thý-ra, HLARTH-a-rukh.
 
-A clan's name takes one of the four **ting-endings**, and each says the footing on which the clan holds the name, as the ting would read it out:
+### The bestowal endings
 
-- **`-arukh`** — **a charge kept**: a pass, a strand, a beacon, a march held against something.
-- **`-endikh`** — **a holding**: land, hall, harbour, fishery, mine.
-- **`-umakh`** — **a craft**: work the clan answers for and others come to it for.
-- **`-idrokh`** — **a forebear**: a line reckoned from a name-giver the clan can still recite to.
+A bestowal ending is what a name-giver puts on a stem at a naming. The stems are not gendered and a brother and sister are frequently named from one, so the ending is the whole of the difference.
 
-Every ting-ending carries the formal _kh_, because a clan name is a thing read out at the ting and not spoken across a kitchen. **No given name carries a _kh_ anywhere in it**, and that is the whole of the rule that separates the two on hearing.
+| ending   | names   |
+| -------- | ------- |
+| `-vir`   | a man   |
+| `-mýl`   | a man   |
+| `-thann` | a man   |
+| `-orv`   | a man   |
+| `-rinna` | a woman |
+| `-selda` | a woman |
+| `-thýra` | a woman |
+| `-ynda`  | a woman |
 
-Where a stem and an ending meet on the same consonant, one of them is written: _alth-_ and `-thann` give **Althann**, _vrath-_ and `-thýra` give **Vrathýra**. Stress is initial in a name as in every other word, so any of these can be said correctly on sight — AL-thann, VRA-thý-ra, HLARTH-a-rukh.
+### The ting-endings
 
-## Grammar Notes
+A clan's name takes one of the four ting-endings, and each says the footing on which the clan holds the name, as the ting would read it out. Every ting-ending carries the formal `kh`, because a clan name is a thing read out at the assembly and not spoken across a kitchen.
 
-**Word Order:** Nordmal employs a basic SVO word order but allows significant flexibility due to its rich case system. Case marking through nominal suffixes allows pragmatic reordering for emphasis. Archaic texts show greater flexibility than modern speech.
+| ending    | the footing                                                                |
+| --------- | -------------------------------------------------------------------------- |
+| `-arukh`  | a charge kept: a pass, a strand, a beacon, a march held against something  |
+| `-endikh` | a holding: land, hall, harbor, fishery, mine                               |
+| `-umakh`  | a craft: work the clan answers for and others come to it for               |
+| `-idrokh` | a forebear: a line reckoned from a name-giver the clan can still recite to |
 
-**Noun Cases:** Nordmal preserves the most elaborate case system of any Pelwar language, with five cases: nominative, accusative, genitive, dative, and instrumental. This allows precise expression of relationships without relying on prepositions or word order.
+### The element lexicon
 
-**Number:** The language maintains singular, dual, and plural distinctions. The dual is used for naturally paired entities (hands, eyes, two-person teams) and is considered more precise than using singular or plural forms.
+An **element** is a piece that means something and does not stand alone as a word. Every compound name is elements and nothing else, so the lexicon is the whole of what a compound may be made of. The thirty-four name-stems are elements too, and the ones that carry the most weight: a place or a person named from a stem is named from the stock the halls themselves are named from.
 
-**Gender:** Nordmal maintains three genders (masculine, feminine, neuter) with consistent agreement patterns. Gender often corresponds to semantic features but irregular assignments persist, marking archaisms.
+Four things happen at a seam. A stem and an ending that meet on one consonant write it once, which is the bound seam's rule and only the bound seam's: a compound seam writes both, so _storm-_ and `-maelendir` give Stormmaelendir. An element may take a genitive `-s` or `-a` before the seam, which is why the world-ash is Heimsask and the skalds' circle Skaldahringr. An element that would leave a name ending in `f` takes the strong `-r`, so the wolf closes a compound as `-úlfr`. And a god or a thing named for a bare quality takes that `-r` on one element alone, which is how Bjartr and Minnir are built.
 
-**Verbs:** Verbs conjugate according to person, number, tense (past, present, future), and aspect (perfective/imperfective). The subjunctive mood is well-developed. Strong verbs (employing vowel ablaut) are more numerous in Nordmal than in southern Pelwar languages, and irregular forms are respected as markers of education.
+**Elements that open a compound.**
 
-**Articles:** Nordmal employs enclitic articles (attached to nouns) rather than separate words, distinguishing definite and indefinite forms. The choice of article can indicate degree of certainty or emotional distance.
+| element             | what it names                             |
+| ------------------- | ----------------------------------------- |
+| `ald-`, `aldar-`    | an age, and the age's                     |
+| `ás-`, `as-`        | a god of the defending kin                |
+| `berg-`, `bjarg-`   | a crag                                    |
+| `bjarn-`            | a bear                                    |
+| `bjart-`            | bright                                    |
+| `blót-`             | a sacrifice made at a hof                 |
+| `bú-`               | an estate worked for a lord               |
+| `dag-`              | a day                                     |
+| `dreka-`            | a dragon                                  |
+| `drótt-`            | a war-band sworn to one man               |
+| `eid-`              | an oath sworn at a spear-point            |
+| `eld-`              | fire                                      |
+| `frost-`            | frost                                     |
+| `fród-`             | the peace that wisdom buys                |
+| `grön-`             | green, and growing                        |
+| `gull-`             | gold                                      |
+| `haf-`              | the open sea                              |
+| `haug-`             | a howe, a barrow                          |
+| `heims-`            | the world's                               |
+| `hers-`             | a host under arms                         |
+| `hird-`             | a king's household troop                  |
+| `hofs-`             | belonging to a hof                        |
+| `hrafn-`            | a raven                                   |
+| `hrím-`             | rime                                      |
+| `hring-`            | a ring given at a hall                    |
+| `hug-`              | thought                                   |
+| `ís-`               | ice                                       |
+| `járn-`             | iron                                      |
+| `jól-`              | the midwinter feast                       |
+| `konungs-`          | the king's                                |
+| `land-`             | the ground a realm holds                  |
+| `lid-`              | a company in the field                    |
+| `lög-`              | the law as it is recited                  |
+| `mál-`              | speech, and a suit at law                 |
+| `mann-`             | a man, and mankind                        |
+| `merki-`            | a standard carried in battle              |
+| `minni-`            | memory held rather than written           |
+| `mun-`              | memory recited                            |
+| `ná-`               | a corpse                                  |
+| `njör-`             | the open sea's deep                       |
+| `nótt-`             | night                                     |
+| `ód-`               | fury, and the seer's fit                  |
+| `ódal-`, `odal-`    | land held by inheritance and not by grant |
+| `orm-`              | a wyrm                                    |
+| `rún-`              | a rune                                    |
+| `skalda-`           | the skalds'                               |
+| `skip-`             | a ship                                    |
+| `skjálf-`           | a shaking                                 |
+| `ský-`              | cloud                                     |
+| `sól-`              | the sun                                   |
+| `stál-`             | steel                                     |
+| `stein-`            | stone                                     |
+| `storm-`            | a storm                                   |
+| `svart-`            | black                                     |
+| `thrún-`, `thrumu-` | thunder                                   |
+| `thurs-`            | a giant                                   |
+| `ting-`             | the lawful assembly                       |
+| `úlf-`              | a wolf                                    |
+| `val-`              | the slain                                 |
+| `vatn-`             | water                                     |
+| `vél-`              | a wile                                    |
+| `vetr-`             | winter                                    |
+| `víg-`              | a battle joined                           |
+| `vind-`             | wind                                      |
+| `vörn-`             | a defense held                            |
 
-## Script & Literacy
+**Elements that close a compound.**
 
-Nordmal traditionally employs a runic script (the ancient [[skill-thuravarkscript|Thurávark]], adapted for Pelwar sounds, and in all likelihood inherited, by way of a Proto-Pelwar row learned from the Khazári when the Pelwar tribes were their subjects—a claim no Norman will hear) for formal and sacred writing. The runic system is considered more noble and traditional than the alphabetic script used for trade and common writing. High-status texts—legal documents, genealogies, religious texts—are written in runes.
+| element                     | what it names                          |
+| --------------------------- | -------------------------------------- |
+| `-aett`                     | a kin reckoned together                |
+| `-ask`                      | an ash-tree                            |
+| `-bandalag`                 | a league of sworn companies            |
+| `-beri`                     | one who bears a thing                  |
+| `-blót`                     | a sacrifice                            |
+| `-börn`                     | children                               |
+| `-brandr`                   | a brand, either a firebrand or a blade |
+| `-brunnr`                   | a well                                 |
+| `-dómr`                     | a judgment given                       |
+| `-drengir`                  | warriors                               |
+| `-eldr`                     | fire                                   |
+| `-fadir`, `-módir`          | the father or mother of a hof          |
+| `-gar`, `-geir`             | a spear                                |
+| `-gengir`                   | ones that go                           |
+| `-godi`                     | a priest-chieftain                     |
+| `-grímr`                    | a mask                                 |
+| `-grind`                    | a gate                                 |
+| `-guard`                    | an enclosed world                      |
+| `-hamarr`                   | a hammer                               |
+| `-heim`                     | a home                                 |
+| `-hild`                     | a battle                               |
+| `-höll`                     | a great hall                           |
+| `-hönd`                     | a hand                                 |
+| `-hringr`, `-ringr`         | a ring, and a circle of sworn men      |
+| `-lok`                      | a close, an end                        |
+| `-madr`                     | a man holding a station                |
+| `-maelendir`                | ones that speak                        |
+| `-nótt`                     | night                                  |
+| `-ormr`                     | a wyrm                                 |
+| `-reid`                     | a ride                                 |
+| `-rót`                      | a root                                 |
+| `-rún`                      | a rune                                 |
+| `-sal`                      | a hall raised for a god                |
+| `-skari`                    | a troop                                |
+| `-skel`                     | a shell, and a plate of iron           |
+| `-stjóri`                   | the master of a thing                  |
+| `-systur`                   | sisters                                |
+| `-thur`                     | a giant                                |
+| `-úlfr`                     | a wolf                                 |
+| `-vald`                     | one who wields                         |
+| `-vangr`                    | a field                                |
+| `-var`, `-vördr`, `-verdir` | a ward, a keeper                       |
+| `-vargr`                    | an outlaw, a wolf in the law's eye     |
+| `-ven`                      | one who dwells in a place              |
+| `-vin`, `-vinir`            | a friend                               |
+| `-völl`                     | the field a battle is fought on        |
 
-### Romanizing Nordmal
+### Place names
 
-Nordmal is written in runes. Every Latin spelling in these pages is therefore a
-romanization rather than the language's own writing, and the rule governing it is
-that **a romanized name must be typeable**: a reader who meets Thórr in a saga and
-goes looking for him has to find him by typing what they saw.
+A place name is an element and a generic, and the generic says what kind of place it is. **The first element is a name-stem**, in any of its three grades, so one stock names a hall's people and the ground they hold. The generic is what makes it a place rather than a person, and it is never the piece that changes. A generic is a closing element like any other, so the same piece that names a place can close a god's name or an order's.
 
-That rules out any letter a search cannot fold away. An accent is a decoration
-sitting on an ordinary letter, so á, ó and ö reduce to a, o and o by themselves—they cost a reader nothing, and Nordmal keeps them to mark vowel length. Thorn,
-eth and ash are not decorations but letters in their own right, and nothing
-reduces them: a search for _thorr_ never reaches a name spelled with a thorn,
-because there is no _t_ and no _h_ inside it to find. They are written out
-instead:
+| generic   | what it names                      |
+| --------- | ---------------------------------- |
+| `-borg`   | a stronghold on a height           |
+| `-brekka` | a slope                            |
+| `-dal`    | a dale                             |
+| `-ey`     | an island                          |
+| `-fell`   | a bare hill                        |
+| `-fjall`  | a mountain                         |
+| `-fjord`  | a fjord                            |
+| `-gard`   | an enclosed yard and its buildings |
+| `-havn`   | a haven                            |
+| `-heim`   | a home, and a settled place        |
+| `-holm`   | an islet                           |
+| `-mark`   | a march, ground held at an edge    |
+| `-nes`    | a headland                         |
+| `-sal`    | a hall                             |
+| `-stead`  | a farmstead                        |
+| `-vangr`  | an open field                      |
+| `-vatn`   | a lake                             |
+| `-vík`    | an inlet                           |
 
-| sound                         | written       | never    |
-| ----------------------------- | ------------- | -------- |
-| voiceless dental fricative    | `th`          | thorn    |
-| its merged voiced counterpart | `d`           | eth      |
-| the low front vowel           | `ae`          | ash      |
-| the rounded back vowel        | `ö`           | o-ogonek |
-| long vowels                   | `á é í ó ú ý` | —        |
+### Ranks, offices and orders
 
-The assembly is the one place the rule bends toward the older hard _t_. Spelled
-_th_ the word comes out _thing_, which is an ordinary English noun and would bury
-it past finding, so the northern word for a lawful gathering is the **ting**—and
-the handful of names that traveled with it, Torvald among them, keep the same
-hard opening.
+An office is an element and one of the office suffixes, and the suffix says what kind of authority it is. An order takes the same shape, with a plural suffix where the order is its members rather than its head.
 
-The [[skill-semrnscrpt|Sêmarion]] alphabet has become increasingly common for practical purposes, particularly in trade and maritime contexts. True literacy remains rare—confined to the priesthood, professional scribes, and a small minority of the nobility (perhaps 10-20%). Many jarls and thanes consider reading a scribe's task, not a warrior's, and keep household scribes for correspondence and record-keeping. Even in trading cities, most merchants rely on scribes for contracts and correspondence; a guildsman may recognize common trade marks and numerals but cannot read continuous text. Inland and rural populations are almost entirely non-literate. However, the cultural prestige of poetry and sagas means many non-literate Nordmen can recite extensive oral literature from memory.
+| suffix              | what it makes                 |
+| ------------------- | ----------------------------- |
+| `-aett`             | a kin taken as a body         |
+| `-beri`             | the bearer of a thing         |
+| `-fadir`, `-módir`  | the head of a hof             |
+| `-godi`             | a priest-chieftain            |
+| `-madr`             | a man of a station            |
+| `-stjóri`           | the master of a thing         |
+| `-vald`             | one who wields an authority   |
+| `-vördr`, `-verdir` | the ward or keeper of a thing |
 
-## Historical Development
+**The words the tongue keeps.** These are words and not names, given whole rather than formed, and a reader meets them as the north's own vocabulary.
 
-Nordmal descended from Proto-Pelwar stock along with [[skill-varokhlng|Varokhi]], but followed a unique evolutionary path in isolation across the frozen north. The language preserves many archaic Pelwar features (instrumental case, dual number, strong verbs) that have been lost or simplified in southern branches, suggesting Nordmal represents a more conservative development path.
+| kept word                          | what it is                                     |
+| ---------------------------------- | ---------------------------------------------- |
+| jarl                               | the holder of a province under a king          |
+| godi, gydja                        | a priest-chieftain, and a priestess-chieftain  |
+| hird, hirdman                      | a king's household troop, and a man of it      |
+| ting, tingfridr                    | the lawful assembly, and the peace it holds    |
+| skald                              | a poet whose verse is a realm's memory         |
+| stórald                            | a saga                                         |
+| thrall                             | a man owned outright                           |
+| bóndi                              | a farmer holding his own land                  |
+| níding                             | a man outlawed at the ting                     |
+| drengr                             | a warrior of standing                          |
+| blót                               | a sacrifice                                    |
+| hof, hörgr                         | a roofed temple, and an open stone altar       |
+| völva                              | a seeress                                      |
+| seidr, ergi                        | the trance-craft, and the shame attached to it |
+| rúnagaldr, rúnameistari            | rune-craft, and a master of it                 |
+| odal                               | land held by inheritance and not by grant      |
+| Jól, Sumarmál, Midsumar, Vetrnaetr | the four turns of the year                     |
 
-The five Nordmen kingdoms maintained relative political independence, preventing standardization. Instead, Nordmal developed as a family of related dialects tied to specific kingdoms. This diversity is a source of pride (each kingdom claims its variant is the "truest" Nordmal) but can create difficulties in inter-kingdom diplomacy.
+### Bynames
 
-## Regional Dialects
+A byname is earned and is **rendered in the reader's tongue**, exactly as a saga translation renders Fairhair and Bloodaxe: the north says it in Nordmal and the page says it in the reader's own words. Stormborn, Oakheart, Fire-Tongue and the Crow are therefore not Nordmal words, are held to none of the rules above, and the Nordmal behind one is not written down. Position tells a byname from a clan name: a clan name stands second in a pair of Nordmal words, a byname stands second in the reader's own.
 
-**Nordheim Standard:** The prestige dialect of the greatest kingdom, used in formal contexts and literature. Shows the most conservative phonetics.
+A handful of titles and folk words reach the page the same way, and the list is closed: King, Queen, Lawspeaker, Freedman, Harbour-reeve, huscarl, wergild, Asguardian, Helspawn, the Ring-Sisters, the Sworn Hand, the Green Wardens, the Giant's Children, the Bonebreakers, the Jól-Ride, the Shattered Peaks.
 
-**Malagna Coastal:** Spoken in the more temperate coastal regions, showing some phonetic simplification and loanwords from trading contacts with Provenzal speakers.
+### Earned clan names
 
-**Interior Highland:** Spoken in mountainous regions inland, preserves more archaic features, particularly in the case system and strong verb forms.
+The Nordmen tradition of _aettarnafn_ stands beside the bestowal endings and is central to the culture: a man performs a great deed, takes a second name for it, and where the deed outlives him the name becomes his line's. An earned name is **granted rather than bestowed**, so it takes no ending and is built as a compound of elements—Járnskel, Sólvargr, Drekanótt, Steinblót, Stormrót. It closes the way a compound closes and not on the ting's `kh`, so position is what tells it from a given name: the second of two Nordmal names is the clan.
 
-**Frontier Speech (Aelwyth Nordmal):** A mixed variety spoken in western Aelwyth, incorporating some Élavendri vocabulary and showing phonetic simplification due to bilingual contact.
+### Theonyms
 
-## Sample Phrases
+A god's name is a compound, and its closing element says what the god is or does: a ward, a wielder, a mask, a brand, a battle, a giant, a friend, a spear. It takes no bestowal ending, because a god is not given a name at a naming, and it never carries the ting's `kh`, because a god is not a clan. Where a god is named for a quality rather than an office the name is one element in the strong `-r`, which is how Bjartr is built.
 
-- **"Hûn ér stórald ok djarflig kvárna."** – "She is tall and bold woman." (Description, using instrumental/adjectival agreement.)
-- **"Vír kómad skrídar-búd."** – "We come with peace-words" / "We come in peace." (Formal diplomatic formula.)
-- **"Thrúnvald vákir, úlfskarn drékhar!"** – "The war-god wakes, wolves thirst!" (Battle cry, invoking both god and warrior heritage.)
-- **"Thétvar ér djarfligásta dréngthal!"** – "This is the boldest deed!" (Praise formula.)
-- **"Stórald okkhár lifír í gréthum ok sárkheim."** – "Our saga lives in stone and sorrow." (Poetic statement about endurance and memory.)
+### The names that stand
 
-## Related Languages
-
-Nordmal stands closest to [[skill-varokhlng|Varokhi]], sharing many archaic Pelwar features and phonetic similarities. The two languages are technically mutually intelligible to speakers with training, though the difference in written forms (Nordmal uses runes, Varokhi has no written form) and regional divergence create barriers.
-
-The relationship to southern Pelwar languages ([[skill-vylarilng|Vylari]], [[skill-provnzlng|Provenzal]], [[skill-tarvenlng|Tarvéni]]) is more distant. Nordmal speakers find southern languages overly soft and imprecise; southern speakers find Nordmal difficult to understand due to its phonetic severity and archaic grammar.
-
-[[skill-elvndrlng|Élavendri]] has had some influence on Nordmal in frontier regions, particularly in western Aelwyth, but the languages remain largely separate. No clear cognates or structural similarities suggest the two languages were ever mutually intelligible.
-
-## Naming Traditions
-
-A Nordman carries a **given name** and a **clan name**, and the tongue builds the two by different operations, so a herald calling a muster never has to ask which he is holding:
-
-1. A **given name** is a name-stem in one of the eight bestowal endings. It runs two to four syllables and closes on a liquid, a nasal or a vowel.
-2. A **clan name** is a name-stem in one of the four ting-endings. It closes on the formal _kh_, which no given name does.
-
-A name-giver therefore chooses two things and not four: the stem, which says what the name is about, and the ending, which says what the name is for. The sense a name carries is the stem's alone, glossed when a stranger asks and never rendered into another tongue, because a stem translated is a stem lost.
-
-The Nordmen tradition of _aettarnafn_ (earned cognomen) stands beside this and is central to the culture: a man performs a great deed and thereby earns a second name used of him thereafter, and over generations such a name becomes the clan name of his line. An earned name is **granted whole rather than built**, so it takes whatever shape the deed gives it. The oldest clans of the north are known by one — Frostulf, Járnskel, Sólvargr, Drekanótt, Sköllbrandr — and because these close the way a given name closes, only position tells them from one: the second name in a pair is the clan.
-
-**What an earned name may be made of.** Its pieces are the north's own and not the hearer's. Nordmal stands close enough to Provenzal and to the trade speech that a handful of its plainest words arrive at a southern ear already translated, and a cognomen built out of those is read rather than heard — a description in northern spelling, which is the one thing a cognomen must never be. A skald reaching for an earned name reaches past them, which is why the cognomens of the north open into a sentence only for someone who holds the tongue whole, and why a jarl will refuse one that a factor from the south can repeat back to him with its meaning attached.
-
-**A clan has more than one member.** A name in these lists is a clan and not a person: brothers, cousins, a widow and her household and three generations of a hall all carry the same one. Reaching for an unused clan name where an existing clan would serve is how a hall of forty comes to be written as forty halls of one.
-
-Patronymic forms are common, particularly in genealogical contexts. The suffix -sen (son) or -dóttir (daughter) may be appended to a parent's name when formal identification is required. Fixed clan names deriving from an ancestor are also in use, particularly among the nobility, and a line that can recite its name-giver takes the `-idrokh` ending to say so.
+Five names are older than the stem system and are not formed by any rule in it: **Nordheim**, **Malagna**, **Norgaad**, **Targud** and **Vithgard**, the five realms, with **Nordlands** for the whole. Asguard and Mannguard are not realms of this world and are compounds under the rule above. Nothing else in Nordmal stands outside the formation rules.
 
 ## Male Given Names
 
-Aevarr, Alarík, Aldrik, Althann, Althmýl, Armund, Arnthor, Athalwulf, Bálrik, Balthur, Banrik, Björgúlf, Braldmýl, Braldvir, Brithgár, Bruthgar, Byrnjolf, Dágulf, Dalmarr, Danmarr, Dellrik, Denrik, Díormaith, Dithmar, Dórimar, Draskmýl, Draskthann, Druthgar, Duthgar, Duthmar, Dvalgmýl, Dvalgthann, Dvarnmýl, Dvarnvir, Earmundr, Eatamir, Eatheling, Eathmar, Eathrik, Edmark, Edrígar, Edrik, Eikar, Eldrik, Elfar, Elihorn, Elimar, Elius, Enthorv, Enthvir, Flarnorv, Flarnthann, Frithgar, Frodgar, Fulkír, Gárimund, Garkir, Garmund, Garthar, Garulf, Geirfinn, Gislinn, Glarvmýl, Glarvthann, Gnaldrmýl, Gnaldrvir, Gnarthorv, Gnarthvir, Gnildrmýl, Grasir, Gráthunn, Gravir, Greinar, Grindill, Grithel, Groldell, Hlarthmýl, Hlarthvir, Hlaskorv, Hlaskvir, Hlirthmýl, Hliskvir, Hnarvmýl, Hnarvthann, Hnirvmýl, Hrandorv, Hrandvir, Hrindvir, Hvalgmýl, Hvalgthann, Hvarnorv, Hvarnthann, Hvilgthann, Hvirnorv, Knalthann, Knalthorv, Knarvmýl, Knarvthann, Knilthorv, Knirvthann, Kraldmýl, Kraldthann, Marvmýl, Marvthann, Nalthmýl, Nalthvir, Ralthann, Ralthorv, Skalfmýl, Skalfthann, Skraldmýl, Skraldvir, Snalthann, Snalthmýl, Snarvmýl, Snarvthann, Svalthmýl, Svalthvir, Thalmorv, Thalmthann, Thraldorv, Thraldvir, Thraskmýl, Thraskvir, Tvalgorv, Tvalgthann, Tvarnorv, Tvarnvir, Vraldmýl, Vraldthann, Vrathann, Vrathorv
+Althmýl, Braldvir, Brildmýl, Bruldthann, Draskmýl, Driskthann, Druskorv, Dvalgmýl, Dvarnvir, Dvilgthann, Dvirnmýl, Dvulgorv, Dvurnthann, Enthorv, Flarnthann, Flirnorv, Flurnvir, Glarvorv, Glirvir, Glurvmýl, Gnaldrvir, Gnarthorv, Gnildrmýl, Gnirthvir, Gnuldrthann, Gnurthmýl, Hlarthvir, Hlaskorv, Hlirthmýl, Hliskvir, Hlurthann, Hluskmýl, Hnarvir, Hnirvmýl, Hnurvthann, Hrandorv, Hrindvir, Hrundmýl, Hvalgmýl, Hvarnthann, Hvilgthann, Hvirnorv, Hvulgorv, Hvurnvir, Ilthann, Inthvir, Knalthann, Knarvmýl, Knilthorv, Knirvthann, Knulthvir, Knurvorv, Kraldmýl, Krildthann, Kruldorv, Marvorv, Mirvir, Murvmýl, Nalthvir, Nilthmýl, Nulthann, Ralthann, Rilthorv, Rulthvir, Skalforv, Skilfvir, Skraldvir, Skrildmýl, Skruldthann, Skulfmýl, Snalthmýl, Snarvthann, Snilthann, Snirvorv, Snulthorv, Snurvir, Svalthvir, Svilthmýl, Svulthann, Thalmthann, Thilmorv, Thraldorv, Thraskvir, Thrildvir, Thriskmýl, Thruldmýl, Thruskthann, Thulmvir, Tvalgthann, Tvarnorv, Tvilgorv, Tvirnvir, Tvulgvir, Tvurnmýl, Ulthorv, Unthmýl, Vraldmýl, Vrathann, Vrildthann, Vrithorv, Vruldorv, Vruthvir
 
 ## Female Given Names
 
-Aelrún, Aelsía, Alfrúd, Alríd, Alrún, Alsa, Alsía, Althselda, Althýra, Alveig, Alvida, Alvidr, Alvig, Alwildr, Ama, Ambúd, Anakra, Anatla, Andís, Aneira, Aneka, Anemara, Anemora, Aneza, Anfrídr, Angrúd, Aniata, Anida, Aninka, Anitr, Aniza, Annara, Braldrinna, Draskselda, Draskthýra, Dvalgselda, Dvalgthýra, Dvarnrinna, Dvarnselda, Enthynda, Flarnthýra, Flarnynda, Glarvrinna, Glarvynda, Gnaldrselda, Gnaldrthýra, Gnarthrinna, Gnarthynda, Hlarthrinna, Hlarthselda, Hlaskrinna, Hlaskynda, Hnarvrinna, Hnarvselda, Hrandrinna, Hrandynda, Hvalgselda, Hvalgthýra, Hvarnthýra, Hvarnynda, Knalthynda, Knalthýra, Knarvselda, Knarvthýra, Kraldselda, Kraldthýra, Marvrinna, Marvynda, Nalthrinna, Nalthselda, Ralthynda, Ralthýra, Skalfrinna, Skalfynda, Skraldrinna, Skraldselda, Snalthselda, Snalthýra, Snarvthýra, Snarvynda, Svalthrinna, Svalthselda, Thalmthýra, Thalmynda, Thraldrinna, Thraldynda, Thraskrinna, Thraskselda, Tvalgthýra, Tvalgynda, Tvarnrinna, Tvarnynda, Vraldselda, Vraldthýra, Vrathynda, Vrathýra
+Althselda, Braldrinna, Brildselda, Bruldthýra, Draskselda, Driskthýra, Druskynda, Dvalgselda, Dvarnrinna, Dvilgthýra, Dvirnselda, Dvulgynda, Dvurnthýra, Enthynda, Flarnthýra, Flirnynda, Flurnrinna, Glarvynda, Glirvrinna, Glurvselda, Gnaldrinna, Gnarthynda, Gnildrselda, Gnirthrinna, Gnuldrthýra, Gnurthselda, Hlarthrinna, Hlaskynda, Hlirthselda, Hliskrinna, Hlurthýra, Hluskselda, Hnarvrinna, Hnirvselda, Hnurvthýra, Hrandynda, Hrindrinna, Hrundselda, Hvalgselda, Hvarnthýra, Hvilgthýra, Hvirnynda, Hvulgynda, Hvurnrinna, Ilthýra, Inthrinna, Knalthýra, Knarvselda, Knilthynda, Knirvthýra, Knulthrinna, Knurvynda, Kraldselda, Krildthýra, Kruldynda, Marvynda, Mirvrinna, Murvselda, Nalthrinna, Nilthselda, Nulthýra, Ralthýra, Rilthynda, Rulthrinna, Skalfynda, Skilfrinna, Skraldrinna, Skrildselda, Skruldthýra, Skulfselda, Snalthselda, Snarvthýra, Snilthýra, Snirvynda, Snulthynda, Snurvrinna, Svalthrinna, Svilthselda, Svulthýra, Thalmthýra, Thilmynda, Thraldynda, Thraskrinna, Thrildrinna, Thriskselda, Thruldselda, Thruskthýra, Thulmrinna, Tvalgthýra, Tvarnynda, Tvilgynda, Tvirnrinna, Tvulgrinna, Tvurnselda, Ulthynda, Unthselda, Vraldselda, Vrathýra, Vrildthýra, Vrithynda, Vruldynda, Vruthrinna
 
 ## Clan Names
 
-Althendikh, Althumakh, Ásgrind, Bjargskorn, Blóthöll, Braldarukh, Braldendikh, Draskendikh, Draskumakh, Drekanótt, Drengkarl, Driskumakh, Dróttgar, Dvalgendikh, Dvalgumakh, Dvarnarukh, Dvarnendikh, Dvilgumakh, Dvirnendikh, Eilífúd, Einkennir, Eldskari, Endalaus, Entharukh, Enthidrokh, Flarnidrokh, Flarnumakh, Flirnidrokh, Fródbán, Frostulf, Gárskald, Garwald, Glarvarukh, Glarvidrokh, Glirvarukh, Gnaldrarukh, Gnaldrendikh, Gnartharukh, Gnarthidrokh, Gnildrendikh, Gnirtharukh, Hafringr, Hildskorn, Hildvith, Hlartharukh, Hlarthendikh, Hlaskarukh, Hlaskidrokh, Hlirthendikh, Hliskarukh, Hnarvarukh, Hnarvendikh, Hnirvendikh, Hrafnsvald, Hrandarukh, Hrandendikh, Hrindarukh, Hvalgendikh, Hvalgumakh, Hvarnidrokh, Hvarnumakh, Hvilgumakh, Hvirnidrokh, Íseldr, Járnskel, Knalthidrokh, Knalthumakh, Knarvendikh, Knarvumakh, Knilthidrokh, Knirvumakh, Kraldendikh, Kraldumakh, Marvarukh, Marvidrokh, Mýrdal, Myrkelis, Naltharukh, Nalthendikh, Ralthidrokh, Ralthumakh, Skáldrith, Skalfarukh, Skalfidrokh, Skathhelm, Skilfarukh, Sköllbrandr, Skraldarukh, Skraldendikh, Skrildendikh, Skýrekkr, Skýrn, Snalthendikh, Snalthumakh, Snarvidrokh, Snarvumakh, Snilthumakh, Snirvidrokh, Sólvargr, Steinblót, Stormrót, Sundrýth, Svaltharukh, Svalthendikh, Svilthendikh, Sýndalr, Thalmidrokh, Thalmumakh, Thilmidrokh, Thraldarukh, Thraldendikh, Thraskarukh, Thraskendikh, Thrildarukh, Thriskendikh, Tvalgidrokh, Tvalgumakh, Tvarnarukh, Tvarnidrokh, Tvilgidrokh, Tvirnarukh, Vetrdómr, Vindrkvé, Vithrúnd, Vörnheim, Vorthrim, Vraldendikh, Vraldumakh, Vrathidrokh, Vrathumakh, Vrildumakh, Vrithidrokh
+Althendikh, Braldarukh, Brildendikh, Bruldumakh, Draskendikh, Driskumakh, Druskidrokh, Dvalgendikh, Dvarnarukh, Dvilgumakh, Dvirnendikh, Dvulgidrokh, Dvurnumakh, Enthidrokh, Flarnumakh, Flirnidrokh, Flurnarukh, Glarvidrokh, Glirvarukh, Glurvendikh, Gnaldrarukh, Gnarthidrokh, Gnildrendikh, Gnirtharukh, Gnuldrumakh, Gnurthendikh, Hlartharukh, Hlaskidrokh, Hlirthendikh, Hliskarukh, Hlurthumakh, Hluskendikh, Hnarvarukh, Hnirvendikh, Hnurvumakh, Hrandidrokh, Hrindarukh, Hrundendikh, Hvalgendikh, Hvarnumakh, Hvilgumakh, Hvirnidrokh, Hvulgidrokh, Hvurnarukh, Ilthumakh, Intharukh, Knalthumakh, Knarvendikh, Knilthidrokh, Knirvumakh, Knultharukh, Knurvidrokh, Kraldendikh, Krildumakh, Kruldidrokh, Marvidrokh, Mirvarukh, Murvendikh, Naltharukh, Nilthendikh, Nulthumakh, Ralthumakh, Rilthidrokh, Rultharukh, Skalfidrokh, Skilfarukh, Skraldarukh, Skrildendikh, Skruldumakh, Skulfendikh, Snalthendikh, Snarvumakh, Snilthumakh, Snirvidrokh, Snulthidrokh, Snurvarukh, Svaltharukh, Svilthendikh, Svulthumakh, Thalmumakh, Thilmidrokh, Thraldidrokh, Thraskarukh, Thrildarukh, Thriskendikh, Thruldendikh, Thruskumakh, Thulmarukh, Tvalgumakh, Tvarnidrokh, Tvilgidrokh, Tvirnarukh, Tvulgarukh, Tvurnendikh, Ulthidrokh, Unthendikh, Vraldendikh, Vrathumakh, Vrildumakh, Vrithidrokh, Vruldidrokh, Vrutharukh
