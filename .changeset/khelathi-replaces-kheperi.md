@@ -1,5 +1,5 @@
 ---
-"thalorna": minor
+"thalorna": patch
 ---
 
 **The empire has its own tongue.** The realm on the Zumélesh is Aû'Khelâthu and its people the Khelâthi, and every god, selat, settlement, guild, house and person in it carries a Khelâthi name.
