@@ -66,13 +66,25 @@ That division is why the Khelâthi pray. A man worried about a contract walks to
 
 ## What Is Written
 
-Every undertaking a person makes is entered: a sale, a lease, a betrothal, an apprenticeship, a vow to build a shrine, a promise to keep a road or a well, an agreement to foster a child or keep a beast. The entry is opened when the promise is witnessed and written. It is closed when the outcome is witnessed and written. An entry with one side written and the other blank is **open**, and an open entry is the thing a Khelâthi fears.
+Not every undertaking is entered, and the rule that decides is distance. Between people a relationship already binds—kin, neighbours, a household and the man who has farmed beside it for twenty years—the tie itself holds the promise, and entering it would be an insult. Between **strangers** there is no tie to hold anything, and the undertaking goes to a temple: a sale, a lease, a hire, a partnership, a debt between men of different towns. Some obligations within a family are entered anyway, where they are too heavy or too long for the tie alone to carry—the one created when a child is born and named, and released at majority; the one between a master and an apprentice for the term of the arrangement.
+
+The entry is opened when the promise is witnessed and written. It is closed when the outcome is witnessed and written. An entry with one side written and the other blank is **open**, and an open entry is the thing a Khelâthi fears.
 
 Closing does not mean keeping a promise whatever it costs. Four things close an entry, and only one of them is doing what was promised. A man may **perform** it. He may **settle**, giving something else instead by agreement. He may be **released**, the other party declaring before witnesses that nothing more is wanted. Or another may **assume** it, taking the undertaking onto his own account. A man ruined by a wreck who goes to his creditor, agrees what he can manage and has it written, has closed cleanly and performed nothing.
 
 What cannot be done is to leave a thing hanging—unperformed, unsettled, unreleased, with nobody able to say what became of it.
 
 Some undertakings any competent person can take up: a lease, a dyke, a fostering, a debt. Others are the person himself—marry this woman, speak for me at my hearing, keep what I told you—and nobody may assume those. They close by performance or by release, and by nothing else.
+
+## Who May Hold a Stranger's Word
+
+Making obligations is everybody's business and so is releasing them. A mother binds a son and forgives him; neighbours agree and let each other off; a household enforces what it is owed by shouting, by shunning, by the door closed and not opened. None of that is the temple's concern, and a priest asked to involve himself in it would decline.
+
+What the temples hold alone is the stranger's word—recording what two people with no tie between them owe each other, and standing behind it when one of them will not perform. That is the whole of the priesthood's civil office, and the reason a temple is an archive before it is anything else.
+
+So a criminal body that records what strangers owe it, and enforces those records, has not merely broken a law. It is doing the one thing the temples exist to do, and the priesthood answers it as heresy rather than as theft. The line runs in an unexpected place: a criminal family is nobody's doctrinal business, because its obligations are held by kinship like anyone else's. A body that takes in strangers and writes down what they owe has set up as a rival temple, whatever it calls itself. Growth is what condemns it, and the priests are the more serious enemy because the offence is theirs rather than the magistrate's.
+
+An obligation unmet follows a person whether a temple wrote it or not. What the writing changes is certainty and audience: a written obligation follows absolutely, everyone knows that it does, and it is read aloud when the person dies. A man who keeps his dealings off the books escapes the proof, the reading, and the shame his children would otherwise carry. He does not escape the obligation, and he knows it.
 
 ## The Weighing
 

@@ -9,3 +9,5 @@ data: {packFolder: regkhaff}
 ---
 
 A secretive body of thief-philosophers who hold every lock to be a puzzle rather than a barrier, and who treat the empire's finest locksmith as a standing challenge.
+
+The name is the boldest thing about them. _Lin'_ is the head-word of a sworn guild, and a guild holds its members' obligations to one another—so the Lin'Qelzu announce in their own name that they do what a temple does. They take apprentices, set terms and hold their people to them, and a priest who hears the name hears a rival body rather than a gang of thieves.
