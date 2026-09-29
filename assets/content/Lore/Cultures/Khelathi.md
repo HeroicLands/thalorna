@@ -54,6 +54,26 @@ The distinction is legal, not decorative. A house name asserts a claim—to land
 
 Names are sacred utterances and a priest bestows them. A second name, known to the bearer and the priesthood alone, is held to confer protection, and striking a name from the records is the heaviest sentence short of death—every temple and every selat keeps the rank of Name Struck for exactly that purpose.
 
+## Two Ledgers
+
+A Khelâthi keeps two accounts, and only one of them can be written.
+
+The first is the **temple account**. Contracts, leases, debts, offices, fosterings, the ten-year field—everything a witness saw and a scribe entered. It is held in a temple, it can be read back to him on demand, and it is what the scale tests at the end.
+
+The second has no name a scribe could use and everybody understands it anyway: what a son owes his mother, what a man owes the master who taught him thirty years after he became a master himself, what a sworn man owes his liege past the terms of the oath, what anyone owes the gods, the dead and the house that raised him. No witness was present. Nothing was ever written. **The gods keep it.**
+
+That division is why the Khelâthi pray. A man worried about a contract walks to the archive and has it read—there is nothing to ask anybody, the answer is in a cabinet. A man worried about whether he has been a good son has nowhere to go, and no record exists to reassure him. So he asks, he gives, he petitions, and he listens. **Attest the written and petition the unwritten**, and the error a priest actually corrects is confusing the two. Asking a god to set aside a contract is impiety. Asking a god whether you have failed your father is the whole of religion.
+
+## What Is Written
+
+Every undertaking a person makes is entered: a sale, a lease, a betrothal, an apprenticeship, a vow to build a shrine, a promise to keep a road or a well, an agreement to foster a child or keep a beast. The entry is opened when the promise is witnessed and written. It is closed when the outcome is witnessed and written. An entry with one side written and the other blank is **open**, and an open entry is the thing a Khelâthi fears.
+
+Closing does not mean keeping a promise whatever it costs. Four things close an entry, and only one of them is doing what was promised. A man may **perform** it. He may **settle**, giving something else instead by agreement. He may be **released**, the other party declaring before witnesses that nothing more is wanted. Or another may **assume** it, taking the undertaking onto his own account. A man ruined by a wreck who goes to his creditor, agrees what he can manage and has it written, has closed cleanly and performed nothing.
+
+What cannot be done is to leave a thing hanging—unperformed, unsettled, unreleased, with nobody able to say what became of it.
+
+Some undertakings any competent person can take up: a lease, a dyke, a fostering, a debt. Others are the person himself—marry this woman, speak for me at my hearing, keep what I told you—and nobody may assume those. They close by performance or by release, and by nothing else.
+
 ## The Weighing
 
 In the Hall of Two Truths the deceased stands before the assembled gods while his heart is set on one pan of a golden scale and a single feather of Qe'âret on the other. A heart heavy with falsehood, cruelty, theft or cowardice outweighs the feather and is devoured; a heart that balances it, or proves lighter, passes onward into the blessed Zulaten.
@@ -61,6 +81,100 @@ In the Hall of Two Truths the deceased stands before the assembled gods while hi
 The moral force of the doctrine comes from one provision: wealth buys no verdict, and every Khelâthi knows it. That single rule is the most effective check on a Halzi'a the empire possesses, and it is ignored often enough to be worth stating plainly. A lord squeezes his tenants for forty years and endows a temple in his last decade; the temple takes the endowment; both parties understand exactly what is being attempted and how little it is expected to work.
 
 None of this makes the Khelâthi solemn. Their calendar is dense with festivals, beer and wine and music sit at the center of both religious and secular life, and Thubâ'i is among the best-loved gods in the empire precisely because his priests teach that pleasure is a form of gratitude and not a distraction from it.
+
+## What the Dead Carry
+
+The Zulaten is not a rest. It is a place, and the dead must work, eat and get on there as anyone does. Every practice in the valley's vast funerary industry follows from that.
+
+**Grave goods are starting capital.** The rich take servants, gold, furniture, tools, grain and linen because those are the means of a life and not ornaments of one, and the zaglu are labor—they answer for their owner, do the work he would otherwise do himself, and guard the capital they are part of. The retainers who go down with a lord went by contract, attested like any other undertaking and paid in advance to their families, which is voluntary because an attestation needs both sides and horrible for exactly that reason. The poorest take a copper piece on the breast, and a family that can manage two puts in two.
+
+**Offerings are income.** The names said at the household shrine, the endowed readings, the annual rites: those are not remembrance. They are remittance against a real balance, and a house that lets them lapse is defaulting on somebody who cannot chase it.
+
+**And the accounts go into the ground with the body**, which is why the tablets matter more than the gold. Goods run out. A record of four hundred unreturned kindnesses goes on paying. This is also why tomb robbery is pursued across generations: a thief who takes the metal makes a dead man poor, and a thief who takes the tablets takes away his earnings and can unmake him.
+
+## Give, and Be Owed
+
+Here is the shape of a well-lived Khelâthi life, and it is not what a foreigner expects.
+
+**Close what you owe. Leave open everything owed to you.** The debit side must be shut, because that is the gate. The credit side should be long, because in a place where the dead cannot earn, what others owe you is income.
+
+So _he died square_—nobody owing him anything—is faint praise and a little pitiable. The phrase a man wants said over him is that **he went down owed**.
+
+Which makes Khelâthi generosity frankly acquisitive, and nobody sees a contradiction in it. A man gives in order to be owed; every unreturned kindness stands to his credit in the account the gods keep; and the neighbor he fed through a bad winter knows precisely what is happening and eats the bread anyway. A culture where the grasping instinct and the open-handed one point the same way does not need to preach much.
+
+It also answers the cold man, and answers him without any god having to decide anything. He took and did not give, so he owes, and he arrives in debt. His open-handed neighbor gave and was not repaid, so he is owed, and he arrives in credit. The cruel man's ruin is not that he is punished. It is that **the only thing which could relieve him is intercession, and he spent a life arranging that nobody would trouble to intercede.**
+
+## The Dead Are Not Beyond Reach
+
+The priests keep the civic books and they also carry the traffic between the two worlds, and the second office is as busy as the first. Through a temple a living person may ask the dead to **forgive** a debt of the unwritten kind, which closes it as surely as a living release closes a written one. He may ask a well-standing ancestor to **assume** a burden, which costs that ancestor and is not granted often, and which is why a family with strong dead is a family with reserves. And he may **relieve** what a dead man left open, paying what he owed or performing what he undertook, with the temple attesting the payment on this side and carrying word of it to the other.
+
+Family first, and then patrons. A lord may intercede for his dead man and it is understood as part of what the bond always was, which gives patronage a weight no contract carries: **a patron is his client's advocate after death.** That is what a Khelâthi means by a good lord, and it is why a house's reputation among its tenants outlives the house.
+
+## When a Person Dies
+
+Only the two parties to an entry can close it, and a dead man attests nothing. This is why the dying are attended so hard, and why the work at a bedside is not comfort but settlement.
+
+The physician's first duty is to say plainly and early that a man is dying, and concealing it is prosecuted, because it steals the time he needs. Then the household gathers what is open. A creditor is brought to say _I require no more_. A debt long avoided is acknowledged aloud so that an heir may take it up. A betrothed woman is asked whether she releases him. A brother he undertook to forgive is fetched, and asked.
+
+**"He died open"** means he died leaving undertakings that nobody can now resolve. **"She closed well"** means nothing she had taken on was left undetermined—some performed, some settled, some released, some taken up by a daughter, and every one of them written before she died.
+
+Anyone may refuse. A neighbor, a rival, a woman who was slighted twenty years ago may stand at a Reading, be asked, and say no. It costs them nothing, it is entirely lawful, and it condemns the man. That power sits in the hands of every ordinary person in the valley, and it is used. It is the most frightening thing about living among the Khelâthi, and it is not a flaw in the doctrine but the doctrine working.
+
+One kind of promise death completes rather than breaks. A man who undertook never to tell, never to retaliate, never to claim, has kept it to the end, and the entry closes with him unbreached. The Khelâthi find that consoling in a way foreigners do not expect: a poor man with one long-kept silence has discharged the hardest undertaking there is.
+
+Refusing is also not free, which is why it is so common. Being owed is an asset a person carries into the Zulaten, and a release writes it off. So a household will offer payment for one and nobody thinks that shabby, and the people who give a release for nothing are remembered for it by name.
+
+Two decisions are made aloud at a Closing and the household hears both. The dying man says **what he calls in and what he leaves open**: what he calls in passes to his heirs, and what he leaves open goes with him. A generous man calls in little and leaves his children much; a grasping one calls in everything, arrives wealthy, and leaves a house with nothing to start on. Then the heir is asked **whether he will assume** what the estate could not cover. Both are lawful, both happen, and both are watched by everyone who will live with the answer.
+
+## When a Person Cannot Close
+
+A man struck down but living—paralyzed, senseless, or gone in his wits—can neither attest nor be released, and he may last ten years that way. The valley has a procedure, and it treats him the way it treats a child.
+
+Physicians and witnesses make a **finding**, and the finding is entered. From that day the man's account is **in ward**. He opens nothing further, which protects him from anyone who would have him sign, and a **warden** is appointed to close what stands open: a son, a wife, a brother, or the temple where there is nobody.
+
+The protection is the whole point. **A ward cannot fail.** His acts are no longer his own, exactly as a child's are his father's and an apprentice's are his master's, so nothing done or left undone after the finding is a flaw in his piece. He cannot die open on any of it. If he recovers, a second finding lifts the ward and he resumes his own account, and the years between are simply blank—neither credit nor debit.
+
+The danger runs the other way. **A wardship is taken at real risk**, because the warden's failures are entered against the warden. Refusing one is common and carries no shame, and men think hard before accepting a wardship over a tangled estate.
+
+A warden may perform, settle and assume on the ward's behalf. He may not **release** what is owed _to_ the ward without the temple's consent, because that is giving away a man's property while he cannot object.
+
+As for who feeds him: his own estate first, administered by the warden. Then the household, in whose account he stands. Then his burial club, which carries a stricken member as it carries a dead one's widow. Then the temple, which maintains the wholly helpless outright—not with gleaning rights or a water-carrier's place, which assume a working body, but as a charge on the selat's endowments. It is one of the more expensive things a great temple does and one of the things endowments are given for.
+
+A finding is also the most abused instrument in the valley. It strips a living man of his standing, and an impatient heir has every reason to seek one early. So the temple must be party to it, and a finding obtained on a man who was not in fact incapable is a false entry—which is the graver failure, and which damns the physician and the scribe along with the son.
+
+## What the Estate Answers, and What the Heir Chooses
+
+The property of a dead man closes his open entries before anything passes to anybody. An heir takes the residue and never the gross, and a Khelâthi asked what he was left will name the residue, because the gross is not a real number.
+
+Where the estate falls short, the heir is asked—in public, at the Reading, with the creditor present—whether he will assume the remainder. If he assumes, the entry closes in the dead man's account and opens in his: his father goes in clean and he is poorer. If he declines, his father goes in short on that entry, and the creditor must take a release to close his own side and eat the loss.
+
+So the choice is not about money. It is whether to let a father go in short, said aloud in front of the household. A man spends his last years closing chiefly to spare his son that question. Guilt does not descend—an assumed entry opens clean in the heir's own account, and a father's failure is never a flaw in his son's. Debt descends, by consent, and debt is survivable.
+
+Obligations owed **to** the dead are simply assets. A debtor is not released by his creditor's death, and the executor's letters go out across three selatu in the fortnight after a Reading.
+
+## House, Club, Temple
+
+One ladder answers nearly every question about who provides. **The house first. The burial club when the house fails. The temple when both do.** A Khelâthi can recite it, and knowing exactly which rung he stands on is most of what the valley gives him in place of hope.
+
+**Somewhere to sleep.** The house, which is a place as much as an account, and which holds cousins, bondsmen, apprentices and fostered children under one roof without anyone thinking it remarkable. Failing that, the club hall, which exists for funerals and is used for the living between them. Failing that, the temple precinct, where dependents live in quarters as the temple's own household. And at the bottom, oddly, the necropolis: endowed tombs keep watch-priests, watch-priests have families, and a destitute man with a connection may end his life sleeping above somebody else's.
+
+**Teaching.** Every house teaches form, because a person who cannot make his mark, say the noon denials and read a weight cannot function. Past that, two roads. A craft is learned by **apprenticeship, which is an entry like any other**—a master undertakes to teach a named craft to a named child, attested, and a master who takes a boy and works him as a laborer without teaching him has an open entry that the boy's house, or the temple, will bring against him. Letters are learned at the **temple schools**, which take talent from any house, and the temples teach reading far more widely than their neighbors do. A man who can read checks his own account, and a priesthood that kept the valley illiterate would be a priesthood everybody suspected.
+
+**Defense.** At law, a person's real protection is the people who will witness for him, which is why a Khelâthi spends a lifetime accumulating them and why **a man with nobody to stand for him is defenseless in a precise and literal sense**. Below that sit the public reading-days, when a Wazu reads a petitioner's account aloud without fee, so that the illiterate are not at the mercy of whoever reads. For those who cannot speak at all—wards, orphans, infants, the beasts a household undertook to keep—the temple stands opposite as the party of record and brings the case itself. Against violence it is the house, then the selat's Meglay, then the temple for its own.
+
+## Widows and Orphans
+
+They are not charity. **They are the surviving parties to entries that are still open**, and that places them in law rather than in anyone's conscience.
+
+A man's marriage was an entry and his children were entered in his account, and his undertaking to maintain them was made long before any loan he took afterward. Entries are dated, and seniority runs by date, so **maintenance of a widow and her children is answered out of the estate ahead of later creditors**. The rule produces a decent outcome without anyone appealing to decency.
+
+In most cases nothing dramatic happens at all. The household is the unit, not the couple, so a widow and her children do not go anywhere—the head of the house changes, and often enough the widow becomes it, holding the account in her own right as a Zabet'lutu does. Her husband's brothers do not inherit her; she inherits the position.
+
+The exposed case is the house with no kin behind it: a migrant family, a soldier's household in a garrison town. Then the estate answers, then whoever takes the residue is offered the standing obligation to maintain them, and then—if no one will—the temple takes it up. A fostered child, a widow, an infant and a beast all share one difficulty: they cannot attest, so they cannot release anybody. The temple therefore stands opposite them as the party of record, which is what lets it demand performance on their behalf, and what obliges it to perform when nobody else will.
+
+Below that sit the burial clubs, which are neighborhood and guild societies that carry a dead member's widow and children as a matter of course, and below that the temples themselves, which take dependents as gleaners on temple land, water-carriers and sweepers. Orphan boys and girls of any promise are placed as apprentices, because an apprentice is an asset and not a burden, and this is the ordinary road by which a child of nobody becomes a scribe.
+
+None of it is generous and all of it works. A Khelâthi does not starve for being unloved. He starves for being unentered, and that can be mended in an afternoon by anybody willing to stand for him.
 
 ## The Burial
 
