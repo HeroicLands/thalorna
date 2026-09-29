@@ -4,8 +4,8 @@
 
 **Content Changes**
 
-- Money you can actually carry: the Khelâthi gold, silver and copper deben and
-  kite, the Vylarian Aurion, Argentus and Octus, and the Haradian coins struck
+- Money you can actually carry: the Khelâthi gold, silver and copper gezan and
+  qelu, the Vylarian Aurion, Argentus and Octus, and the Haradian coins struck
   against them are all items now, priced so a purse can be counted.
 - The Khelâthi gold and silver pieces are worth the metal in them, as
   temple-attested weight-pieces should be. The copper pieces are worth what the
