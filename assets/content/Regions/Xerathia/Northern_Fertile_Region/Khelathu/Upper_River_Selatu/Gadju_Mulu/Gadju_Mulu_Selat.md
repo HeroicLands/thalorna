@@ -3,7 +3,7 @@ shortcode: gadjumuluslt
 name: {full: Gadju-Mûlu Selat, aliases: []}
 type: place
 subType: region
-description: '"Green Waters"—marshy floodbasin, flax and waterfowl, the wettest of the upper selatu—the land of the Selat of Gadju-Mûlu, one of the upper-river selatu of Aû''Khelâthu.'
+description: "“Green Waters”—marshy floodbasin, flax and waterfowl, the wettest of the upper selatu—the land of the Selat of Gadju-Mûlu, one of the upper-river selatu of Aû'Khelâthu."
 tags: [region]
 data:
   banner: khelathubnr
