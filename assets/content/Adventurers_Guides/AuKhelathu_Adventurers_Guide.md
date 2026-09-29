@@ -49,6 +49,8 @@ The first is the temple account: contracts, leases, debts, offices, betrothals, 
 
 So a promise made privately opens no entry. No court will hear it and there is nothing in the archive to close — and it is not thereby escaped, because the second account is the one the gods are keeping. Attest the written and petition the unwritten: asking a god to set aside a contract is impiety, and asking a god whether you have failed your father is the whole of religion.
 
+Not everything goes in the temple, and the rule is distance. Between people a relationship already binds — kin, neighbours — the tie holds the promise and writing it down would insult somebody. Between **strangers** there is nothing to hold it, so it goes to a temple. Holding the stranger's word is what a temple is _for_, and it is the reason a temple is an archive before it is anything else.
+
 The vocabulary is a clerk's and it is used literally. An entry is **opened** when a promise is witnessed and written down, and **closed** when the outcome is witnessed and written down. One side written and the other still blank means the entry is open, and an open entry is the thing a Khelâthi fears.
 
 An entry closes four ways, and only one of them is doing what you promised. You may **perform** it, **settle** it by giving something else the other party accepts, be **released** from it, or have **another take it up** in your place. A man ruined by a shipwreck who agrees terms with his creditor has closed cleanly and performed nothing, and no shame attaches. What cannot be done is leave an entry open, with nobody able to say what became of it.
@@ -66,6 +68,10 @@ The gods are also where the doctrine bites. They witness; they do not judge in t
 ## Lekhau
 
 Khelâthi magic is priestly, and the line between priest and mage barely exists. Sacred power is trained in temple schools, licensed by temple authority, and practised as an extension of liturgy rather than as a separate craft; [[lore-khelunulekha|Khelunu Lekhau]] is the tradition and the houses that keep it. The [[affiliation-ordoarcanis|Ordo Arcanis]] has no presence in the empire and no prospect of one, and its factors are received with the courtesy owed to a foreign scholar who has misunderstood something fundamental.
+
+:::secret
+**For the GM:** The stranger rule is what makes organised crime here unlike organised crime anywhere else. A criminal family is nobody's doctrinal business — its obligations are held by kinship, as everyone's are. A body that takes in strangers and writes down what they owe is doing the one thing temples exist to do, and the priesthood answers that as heresy rather than theft. So growth is what condemns a syndicate, not violence or money, and its serious enemy is a priest rather than a magistrate. A party can be hired by either.
+:::
 
 :::secret
 **For the GM:** Because power is licensed, the interesting practitioners are the unlicensed ones, and the interesting crime is not casting but _entering_ — a rite performed without attestation, a working done for someone whose name is not in the record. A party that wants magical help outside the temples is buying from people whose whole risk is documentary.

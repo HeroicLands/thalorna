@@ -9,3 +9,5 @@ data: {packFolder: regkhaff}
 ---
 
 A secret society that takes exotic beasts and forces them to fight for spectacle. Those who train animals for any other purpose are an obstruction to be removed.
+
+The society takes oaths and keeps no book. What a member owes is sworn in front of the others and held by them, in the way a household holds what it is owed, which leaves the priests without the one charge that would let them move. Whether that is caution or accident is disputed by the people who would know.
