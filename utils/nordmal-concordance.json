@@ -1140,6 +1140,59 @@
             "historical": true
         },
         {
+            "oldName": "Midgard",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Mannguard",
+            "newAliases": null,
+            "newPath": null,
+            "newShortcode": null,
+            "newAddress": null,
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "namestock",
+            "subType": "mythfurniture",
+            "description": null,
+            "note": "_mann-_ \"man, men\" + _-guard_, Asguard's own element — \"Men's Guard,\" the middle world where men live, paired with the gods' enclosure",
+            "prose": null,
+            "oldRefPaths": [
+                "main:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:111:335",
+                "main:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:167:389"
+            ],
+            "boldKind": "none"
+        },
+        {
+            "oldName": "Miðgarð",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Mannguard",
+            "newAliases": null,
+            "newPath": null,
+            "newShortcode": null,
+            "newAddress": null,
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "spelling",
+            "subType": "mythfurniture",
+            "description": null,
+            "note": "eth spelling of the realm name, gone from main",
+            "prose": null,
+            "oldRefPaths": [
+                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:65:337",
+                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:121:391"
+            ],
+            "boldKind": "none",
+            "historical": true
+        },
+        {
             "oldName": "Ragnarok",
             "oldAliases": null,
             "oldPath": null,
@@ -1999,6 +2052,31 @@
             "note": "Vithgard's old seat",
             "prose": null,
             "oldRefPaths": [],
+            "boldKind": "none"
+        },
+        {
+            "oldName": "Hávamál",
+            "oldAliases": null,
+            "oldPath": "assets/content/Regions/Ankaris/Nordlands/Malagna/Havamal.md",
+            "oldShortcode": "havamal",
+            "oldAddress": "place-havamal",
+            "oldImage": null,
+            "newName": "Málstead",
+            "newAliases": null,
+            "newPath": "assets/content/Regions/Ankaris/Nordlands/Malagna/Havamal.md",
+            "newShortcode": "havamal",
+            "newAddress": "place-havamal",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "place",
+            "subType": "settlement",
+            "description": null,
+            "note": "_mál_ \"speech, sayings\" (Stormmál, Málalidabandalag) + _-stead_ (Thrymstead, Lögstead, Hringstead, Ormstead) — Speech-Stead, a Malagna town",
+            "prose": null,
+            "oldRefPaths": [
+                "main:assets/content/Regions/Ankaris/Nordlands/Malagna/Havamal.md:3:14"
+            ],
             "boldKind": "none"
         },
         {
