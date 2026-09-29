@@ -1,6 +1,6 @@
 ---
 shortcode: greyfjord
-name: {full: Greyfjord, aliases: []}
+name: {full: Thraldfjord, aliases: []}
 type: place
 subType: settlement
 description: "Fishing Village"

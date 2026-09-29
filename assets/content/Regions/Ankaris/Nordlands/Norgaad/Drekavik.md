@@ -1,6 +1,6 @@
 ---
 shortcode: drekavik
-name: {full: Drekavík, aliases: []}
+name: {full: Hvarnvík, aliases: []}
 type: place
 subType: settlement
 description: "Coastal Village"

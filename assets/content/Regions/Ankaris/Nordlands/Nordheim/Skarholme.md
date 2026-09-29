@@ -1,6 +1,6 @@
 ---
 shortcode: skarholme
-name: {full: Skarholme, aliases: []}
+name: {full: Raltholm, aliases: []}
 type: place
 subType: settlement
 description: "Town"

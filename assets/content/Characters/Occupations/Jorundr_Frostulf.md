@@ -402,7 +402,7 @@ Jörundr Frostulf is a 51-year-old man who stands 6'0" tall and is broad and sol
 
 # Dossier {#dossier}
 
-Jörundr Frostulf is head gaoler of the king's prison at Thrymstead, the seat of [[affiliation-kngdmnrdhm|Nordheim]], a Nordman freeman who has spent thirty years inside its walls and now runs them.
+Jörundr Frostulf is head gaoler of the king's prison at Knalthstead, the seat of [[affiliation-kngdmnrdhm|Nordheim]], a Nordman freeman who has spent thirty years inside its walls and now runs them.
 
 Jörundr came to the prison as a young guard because the Tingward was hiring and the fjord was not. The prison holds men awaiting the king's judgment, men held for ransom between clans, and men whose kin outside would kill them given an hour's opportunity. His answer to all of it is the rules. Every man inside is fed the same, locked the same and treated the same, whatever his clan or his jarl, and every guard under him keeps to the same book or leaves. It is not a popular way to run a prison in a country where a jarl expects to be obliged, and it has kept the feuds of Nordheim outside the walls.
 
@@ -424,13 +424,13 @@ Experienced, authoritative, strong sense of duty.
 
 ## Social
 
-Jörundr holds his post under the Tingward, the _Tingvördr_, the sworn men who keep the ting-peace within Thrymstead's walls, and answers to the Sýslumadr, the king's reeve.
+Jörundr holds his post under the Tingward, the _Tingvördr_, the sworn men who keep the ting-peace within Knalthstead's walls, and answers to the Sýslumadr, the king's reeve.
 
 ## Companions
 
 ### Patrons
 
-Jörundr's patrons are the reeve at Thrymstead and the senior officers of the Tingward, who trust his judgment because it has never once been bought.
+Jörundr's patrons are the reeve at Knalthstead and the senior officers of the Tingward, who trust his judgment because it has never once been bought.
 
 ### Enemies
 
@@ -442,6 +442,6 @@ Inmates who have been through his hands more than once; and a jarl of the fjord 
 
 2. **New Methods**—The reeve has appointed a younger warden over the prison, a man with ideas about informers and separate cells, and told Jörundr to work under him.
 
-3. **The Freed Man**—A prisoner Jörundr held for five years and treated exactly like everyone else has come back to Thrymstead a rich man, and has asked to see him. He has not said why.
+3. **The Freed Man**—A prisoner Jörundr held for five years and treated exactly like everyone else has come back to Knalthstead a rich man, and has asked to see him. He has not said why.
 
 4. **The Ting**—With the clans assembled for the ting, a purse has reached Jörundr through his own steward: an hour's carelessness with one door on one night. He has not touched it and he knows which of his guards it came through.

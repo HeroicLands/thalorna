@@ -1,6 +1,6 @@
 ---
 shortcode: vindborg
-name: {full: Vindborg, aliases: []}
+name: {full: Skraldborg, aliases: []}
 type: place
 subType: settlement
 description: "Hill Fort"

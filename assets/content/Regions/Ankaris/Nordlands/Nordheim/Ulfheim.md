@@ -1,6 +1,6 @@
 ---
 shortcode: ulfheim
-name: {full: Ulfheim, aliases: []}
+name: {full: Dvalgheim, aliases: []}
 type: place
 subType: settlement
 description: "Settlement"

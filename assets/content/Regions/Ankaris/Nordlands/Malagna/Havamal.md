@@ -1,6 +1,6 @@
 ---
 shortcode: havamal
-name: {full: Hávamál, aliases: []}
+name: {full: Málstead, aliases: []}
 type: place
 subType: settlement
 description: "Town"

@@ -6,7 +6,7 @@ name:
   given: Rúna
   clan: ""
   home: jarnhavn
-  aliases: [the Shield-Maiden of Járnhavn]
+  aliases: [the Shield-Maiden of Vrathavn]
 type: being
 tags: [heroes-and-knaves, hero, soldiery, character]
 data:
@@ -430,7 +430,7 @@ Rúna is 5’10" with a strong, athletic build, weighing about 180 pounds. Her f
 
 # Dossier {#dossier}
 
-Rúna is a fierce warrior from the trading town of [[place-jarnhavn|Járnhavn]], a town renowned for its warlike traditions and its ships of raiders. Born into a warrior clan, Rúna was trained from childhood in the use of weapons, particularly the spear and shield. Her clan holds the duty of protecting [[place-norgaad|Norgaad]]’s coastlines from invaders and raiders. Rúna first encountered [[being-grosdrnrgd|Gróa]] during a battle with [[affiliation-kingdmtrgd|Targud]] raiders. [[being-grosdrnrgd|Gróa]]’s strange powers and ability to foresee the movements of the enemy saved Rúna’s warband, earning her respect.
+Rúna is a fierce warrior from the trading town of [[place-jarnhavn|Vrathavn]], a town renowned for its warlike traditions and its ships of raiders. Born into a warrior clan, Rúna was trained from childhood in the use of weapons, particularly the spear and shield. Her clan holds the duty of protecting [[place-norgaad|Norgaad]]’s coastlines from invaders and raiders. Rúna first encountered [[being-grosdrnrgd|Gróa]] during a battle with [[affiliation-kingdmtrgd|Targud]] raiders. [[being-grosdrnrgd|Gróa]]’s strange powers and ability to foresee the movements of the enemy saved Rúna’s warband, earning her respect.
 
 ## Background
 
@@ -481,4 +481,4 @@ raiders
 
 3. **The Crimson Banner**: A rival shield-maiden challenges Rúna to lead a raid into contested territory to recover a sacred relic—a crimson banner said to bring victory in battle. The mission forces Rúna to navigate treacherous terrain, hostile enemies, and the tension of competing loyalties within her own warband.
 
-4. **The Ghosts of Járnhavn**: After a fierce storm, the spirits of fallen warriors are seen wandering the outskirts of Járnhavn, lamenting their unfulfilled oaths. Rúna learns that these warriors fought under her family’s banner but were betrayed by a forgotten ally. To lay their spirits to rest, she must uncover the truth of their betrayal and bring justice to those responsible, even if it means facing powerful enemies.
+4. **The Ghosts of Vrathavn**: After a fierce storm, the spirits of fallen warriors are seen wandering the outskirts of Vrathavn, lamenting their unfulfilled oaths. Rúna learns that these warriors fought under her family’s banner but were betrayed by a forgotten ally. To lay their spirits to rest, she must uncover the truth of their betrayal and bring justice to those responsible, even if it means facing powerful enemies.

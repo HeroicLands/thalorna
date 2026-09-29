@@ -1,6 +1,6 @@
 ---
 shortcode: haldrvik
-name: {full: Haldrvík, aliases: []}
+name: {full: Dvarnvík, aliases: []}
 type: place
 subType: settlement
 description: "Port Town"

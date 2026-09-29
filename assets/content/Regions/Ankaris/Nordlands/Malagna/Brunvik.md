@@ -1,6 +1,6 @@
 ---
 shortcode: brunvik
-name: {full: Brúnvík, aliases: []}
+name: {full: Hvalgvík, aliases: []}
 type: place
 subType: settlement
 description: "Coastal Village"

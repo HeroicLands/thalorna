@@ -27,4 +27,4 @@ The kingdom's eastern border is a contested no-man's-land of burned farmsteads, 
 
 - [[affiliation-kingdmtrgd|Kingdom of Targud]]—The kingdom that holds this land
 - [[place-nrdlndsrgn|Nordlands Region]]—The enclosing region
-- Valgard—The seat
+- Tvalgard—The seat
