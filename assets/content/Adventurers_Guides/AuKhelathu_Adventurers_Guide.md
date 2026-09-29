@@ -12,7 +12,7 @@ data: {packFolder: adventurersguides}
 
 The [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] is old in a way no other realm is old. It has been conquered — by hill-nomads, by sea-raiders, by a Vylarian occupation at the height of Vylaria's reach — and each time it has done the same thing, which is to hand the conqueror a scribe, a temple appointment and a throne name, and wait. Two generations later the conquerors are Khelâthi. Nineteen million people live in the valley and the delta, and they do not think of themselves as having survived history so much as having outlasted it.
 
-**The one thing to understand before anything else: in Aû'Khelâthu, what is written is what is real.** An act nobody witnessed and no scribe entered did not happen — not as a legal fiction, but as the plain sense of the world. A promise you made and never closed is still open, and it will be read out at your weighing. This is not a setting where documents are a complication on the way to the adventure. The document _is_ the adventure, and the archive is a dungeon with a clerk at the door.
+**The one thing to understand before anything else: in Aû'Khelâthu, what is written is what is real.** An act nobody witnessed and no scribe entered did not happen — not as a legal fiction, but as the plain sense of the world. An obligation you incur but don't settle counts against you, both civilly and in the afterlife. This is not a setting where documents are a complication on the way to the adventure. The document _is_ the adventure, and the archive is a dungeon with a clerk at the door.
 
 ## The Flood and the Year
 
@@ -38,7 +38,7 @@ ORDER BY name.full COLLATE NOCASE
 ```
 
 :::secret
-**For the GM:** The useful tension is that nobody in this system can simply give an order and have it obeyed. A Halzi'a can stall a decree for a season by referring it for attestation. A temple can misplace a record. The throne can appoint an auditor. Every one of those moves is legal, which means a party can be hired to make one of them happen without anyone breaking a law — and can be destroyed by one without anyone committing a crime.
+**For the GM:** The useful tension is that nobody in this system can simply give an order and have it obeyed. A Halzi'a can stall a decree for a season by sending it back to be witnessed and entered properly. A temple can misplace a record. The throne can appoint an auditor. Every one of those moves is legal, which means a party can be hired to make one of them happen without anyone breaking a law — and can be destroyed by one without anyone committing a crime.
 :::
 
 ## The Two Ledgers
@@ -47,9 +47,11 @@ A Khelâthi keeps two accounts and only one of them can be written.
 
 The first is the temple account: contracts, leases, debts, offices, betrothals, apprenticeships, a vow to keep a well, an agreement to foster a child. Everything a witness saw and a scribe entered, held in a temple, readable back to you for a fee. The second has no name a scribe could use and everyone understands it anyway — what a son owes his mother, what a man owes the master who taught him thirty years ago.
 
-An entry closes four ways and only one of them is doing what you promised. You may **perform** it, **settle** it by giving something else the other party accepts, be **released** from it, or have **another take it up** in your place. A man ruined by a shipwreck who agrees terms with his creditor has closed cleanly and performed nothing, and no shame attaches. What cannot be done is leave a thing hanging, with nobody able to say what became of it.
+The vocabulary is a clerk's and it is used literally. An entry is **opened** when a promise is witnessed and written down, and **closed** when the outcome is witnessed and written down. One side written and the other still blank means the entry is open, and an open entry is the thing a Khelâthi fears.
 
-Two consequences matter at the table. **Anyone may refuse to release a dying man**, at no cost to themselves and entirely within their rights — which is the most frightening power an ordinary person holds, and the seed of a hundred quiet feuds. And the weighing at the end measures purity rather than size: a farmer with twelve settled undertakings passes as surely as a lord with four hundred, and the priests say so to frightened people because it is true. [[lore-khelathiclt|The culture note]] works the doctrine through in full.
+An entry closes four ways, and only one of them is doing what you promised. You may **perform** it, **settle** it by giving something else the other party accepts, be **released** from it, or have **another take it up** in your place. A man ruined by a shipwreck who agrees terms with his creditor has closed cleanly and performed nothing, and no shame attaches. What cannot be done is leave an entry open, with nobody able to say what became of it.
+
+Two consequences matter at the table. **Anyone may refuse to release a dying man**, at no cost to themselves and entirely within their rights — which is the most frightening power an ordinary person holds, and the seed of a hundred quiet feuds. And the judgement after death — the weighing, in which the dead stand before the gods and are assessed against the truth — counts the proportion settled rather than the number: a farmer with twelve settled undertakings passes as surely as a lord with four hundred, and the priests say so to frightened people because it is true. [[lore-khelathiclt|The culture note]] works the doctrine through in full.
 
 ## The Gods
 
