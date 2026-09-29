@@ -8,7 +8,7 @@ tags: []
 data: {packFolder: adventurersguides}
 ---
 
-A river runs north through a desert for a thousand miles and makes a country. Once a year it rises, drowns the fields, and goes down again leaving black silt on them, and everything the [[lore-khelathiclt|Khelâthi]] have built stands on that one fact. Their calendar counts the water. Their gods are argued about in terms of it. Their surveyors re-walk the fields every spring because the flood has taken the boundary stones away again, and the scribes who record what the surveyors find are the most powerful commoners in the world.
+[[place-zumeleshrvr|A river]] runs north through a desert for a thousand miles and makes a country. Once a year it rises, drowns the fields, and goes down again leaving black silt on them, and everything the [[lore-khelathiclt|Khelâthi]] have built stands on that one fact. Their calendar counts the water. Their gods are argued about in terms of it. Their surveyors re-walk the fields every spring because the flood has taken the boundary stones away again, and the scribes who record what the surveyors find are the most powerful commoners in the world.
 
 The [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] is old in a way no other realm is old. It has been conquered — by hill-nomads, by sea-raiders, by a Vylarian occupation at the height of Vylaria's reach — and each time it has done the same thing, which is to hand the conqueror a scribe, a temple appointment and a throne name, and wait. Two generations later the conquerors are Khelâthi. Nineteen million people live in the valley and the delta, and they do not think of themselves as having survived history so much as having outlasted it.
 
@@ -135,6 +135,6 @@ This guide is enough to start playing. The corpus behind it goes deeper in rough
 - [[affiliation-empireakhlth|The Empire]] for the state, its history, its provinces, its army and its foreign relations
 - [[lore-khelathiclt|The culture]] for the doctrine of attestation worked through — the ledgers, the closures, the weighing, and what happens to the widow and the orphan
 - [[affiliation-khelathpnthn|The pantheon]] for the gods, their domains and their temples
-- [[place-aukhelathrgq|The region]] and the four classes of province for the geography
+- [[place-zumeleshrvr|The river]], [[place-aukhelathrgq|the region]] and the four classes of province for the geography
 - [[skill-khelthlnglng|The language]] for names, the two hands, and how to coin one that fits
 - [[lore-aukhlthcrncy|Money]], [[lore-khelathclndr|the calendar]] and [[lore-khelunulekha|the sacred power]] for the systems a campaign touches most
