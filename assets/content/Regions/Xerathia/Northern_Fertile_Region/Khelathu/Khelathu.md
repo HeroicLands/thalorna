@@ -101,7 +101,7 @@ Aû'Khelâthu is the oldest continuously existing civilization in [[place-worldt
 
 ## Geography
 
-Aû'Khelâthu is defined by its great river—a vast, slow-flowing waterway whose valley runs through the [[place-xerathia|Northern Fertile Region]] of Xerathia, the temperate agricultural heartland that stretches along the southern shore of the [[place-vylarianse|Vylarian Sea]]. The empire extends along both banks for hundreds of leagues, from the river's delta on the Vylarian coast to the cataracts and uplands far to the south.
+Aû'Khelâthu is defined by [[place-zumeleshrvr|the Zumélesh]]—a vast, slow-flowing waterway whose valley runs through the [[place-xerathia|Northern Fertile Region]] of Xerathia, the temperate agricultural heartland that stretches along the southern shore of the [[place-vylarianse|Vylarian Sea]]. The empire extends along both banks for hundreds of leagues, from the river's delta on the Vylarian coast to the cataracts and uplands far to the south.
 
 The annual flood is the heartbeat of Khelâthi civilization. Each year the river rises, depositing rich black silt across the floodplains and renewing the soil for the valley's extraordinary agriculture. The entire economic, religious, and administrative calendar is organized around the flood cycle: the Season of Inundation, the Season of Emergence (planting), and the Season of Harvest. This cycle of death and renewal—the land drowned and reborn each year—is the central metaphor of Khelâthi theology.
 
