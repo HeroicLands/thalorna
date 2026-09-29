@@ -25,7 +25,7 @@ building is heavy and low. A Provenzian from Válaren finds Batáren cold in eve
 
 ## The Élavendren
 
-The city's population is substantially **[[lore-elavendrnppl|Élavendren]]**—descendants of settlers
+The city's population is substantially [[lore-elavendrnppl|Élavendren]]—descendants of settlers
 who came down from Élavendre into these borderlands centuries ago, and who have been here longer than
 the present arrangement of crowns. They are Provenzian subjects. They are not, in any way that matters
 locally, Provenzian.

@@ -122,7 +122,7 @@ The Devabhoga's reply is that the forest was given to the gods before the [[affi
 
 ## Commerce and Currency
 
-The Bhārava-Devabhoga uses the [[lore-vdyrnbnkng|Vedyaran banking system]], administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]], and uses it at arm's length. Its tribute is rendered in goods to a temple and not in coin to a treasury, and the coin enters only where the estates sell, at the coastal end of the river, where a Kheperi buyer's metal is assayed and discounted like anyone else's. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
+The Bhārava-Devabhoga uses the [[lore-vdyrnbnkng|Vedyaran banking system]], administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]], and uses it at arm's length. Its tribute is rendered in goods to a temple and not in coin to a treasury, and the coin enters only where the estates sell, at the coastal end of the river, where a Khelâthi buyer's metal is assayed and discounted like anyone else's. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
 
 ## See Also
 

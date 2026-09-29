@@ -42,7 +42,7 @@ is romantic invention by collectors. The people of the hills decline to help the
 
 ## Notable Features
 
-- **[[place-shrinethuravelhills|The Forgotten Shrine]]**—the great pre-Aurèldían sanctuary of the
+- [[place-shrinethuravelhills|The Forgotten Shrine]]—the great pre-Aurèldían sanctuary of the
   hills, lost to official history and remembered in song. See
   [[scenario-frgtnshrnthrvlhls|The Forgotten Shrine of the Thúravel Hills]].
 

@@ -226,7 +226,7 @@ Valtári names show **weak gender marking**. Many names are used by either gende
 
 ### Male Given Names
 
-Hâkim Tàriq Jâlil Sâlim Kâdir Mûrad Râzim Khalîl Bâshir Fâzil Safîr Zaid Nûr Jâmil Farâji Êmar Idrîs Ômar Yazîd Hakam Alîm Tâsif Zafir Bâlaj Muri Jâsar Rahmân Ibrâhim Kâsim Okâyir Mânir Ghaib Hâkeem Sarîf Karim Bâyir Âhad Ra'id Tûmar Hamza Ilyâs Qâsid Hashem Emir Ômaran Yasir Nâdir Âmir Sa'im Wadil Zâmar Kâmal Lamir Jâfar Rahil Musid Bashîr Samad Thâbit Marwân Hâsik Minal Rahîl Amir Gabit Sharif Kârim Darim Salil Talib Khâlim Omar Zâlim Âziz Ghazi Fârid Shadal Ghaith Osân Zakir Salim Râzan Qâdar Lafim Isâm Mâhir Wazim Mutar Saqir Zumâr Tafir Nasir Jâbir Murâd Râfiq Onaj Fûzal Âshir Sâbir Larim
+Hâkim Tàriq Jâlil Sâlim Kâdir Mûrad Râzim Khalîl Bâshir Fâzil Safîr Zaid Nûr Jâmil Farâji Êmar Idrîs Ômar Yazîd Hakam Alîm Tâsif Zafir Bâlaj Muri Jâsar Rahmân Ibrâhim Kâsim Okâyir Mânir Ghaib Hâkeem Sarîf Karim Bâyir Âhad Uqa'id Tûmar Hamza Ilyâs Qâsid Hashem Emir Ômaran Yasir Nâdir Âmir Sa'im Wadil Zâmar Kâmal Lamir Jâfar Rahil Musid Bashîr Samad Thâbit Marwân Hâsik Minal Rahîl Amir Gabit Sharif Kârim Darim Salil Talib Khâlim Omar Zâlim Âziz Ghazi Fârid Shadal Ghaith Osân Zakir Salim Râzan Qâdar Lafim Isâm Mâhir Wazim Mutar Saqir Zumâr Tafir Nasir Jâbir Murâd Râfiq Onaj Fûzal Âshir Sâbir Larim
 
 ### Female Given Names
 

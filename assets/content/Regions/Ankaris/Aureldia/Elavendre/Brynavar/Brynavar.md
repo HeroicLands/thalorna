@@ -18,7 +18,7 @@ and they are also the road by which trouble arrives overland.
 ## The Raiding
 
 Where [[place-cilfor|Cilfor]] is raided from the sea, Brynavar is raided by land. Bands of
-**[[lore-grukarfolk|Grukar]]** out of [[place-grkrhlmrgn|Grukarholm]], and Varokh war-parties ranging
+[[lore-grukarfolk|Grukar]] out of [[place-grkrhlmrgn|Grukarholm]], and Varokh war-parties ranging
 south out of [[place-vrystwald|Vrystwald]], come down through the eastern hills—not as armies, and
 not seasonally enough to plan around comfortably, but often enough that no generation of Brynavar has
 been without it.
@@ -44,8 +44,8 @@ escort whether or not they wanted one.
 
 ## Its Places
 
-- **[[place-valdun|Valdûn]]**—the fortified inland town that anchors the march.
-- **[[place-cerdwnshlw|Ceridwen's Hollow]]**—a hill village of the interior.
+- [[place-valdun|Valdûn]]—the fortified inland town that anchors the march.
+- [[place-cerdwnshlw|Ceridwen's Hollow]]—a hill village of the interior.
 
 ## See Also
 

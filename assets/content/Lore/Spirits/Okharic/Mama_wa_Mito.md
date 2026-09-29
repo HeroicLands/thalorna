@@ -14,7 +14,7 @@ data: {packFolder: lorespiritsokharic}
 - **Met through:** [[skill-mamamitosprt|Mama wa Mito Spirit Power]], in the [[affiliation-njiayaroho|Njia ya Roho]]
 
 Mama wa Mito is the zohira of rivers as such, and she is met at whichever river a person
-stands beside. The Shókuma country, where the rivers twist through rainforest toward Ta'Kheperu, holds
+stands beside. The Shókuma country, where the rivers twist through rainforest toward Aû'Khelâthu, holds
 more of her cairns than anywhere else, but a cairn on a nameless stream a thousand miles off is
 hers as surely.
 

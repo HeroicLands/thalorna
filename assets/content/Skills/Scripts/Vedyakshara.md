@@ -25,7 +25,7 @@ It carries [[skill-vedyarlng|Vedyari]]—Classical Vedyari for anything that mat
 
 - **The old abjad.** The Vedyákshara evolved out of a consonantal script that survives now only in sacred use: certain mantras, certain temple foundation deposits, certain things that must be written the way they have always been written. Reading it is a separate accomplishment and a rare one.
 - **The classical syllabary.** The full forty-eight, carefully formed, used for scripture, legal codes, land grants, genealogy and inscription. This is what a temple scribe is trained in.
-- **The demotic cursive.** About thirty-six core forms plus a mass of ligatures, written running, used by the [[affiliation-mrchntclctvvdyr|Merchant Collective]] and the janapada administrations for anything that is not going to outlive the year.
+- **The common cursive.** About thirty-six core forms plus a mass of ligatures, written running, used by the [[affiliation-mrchntclctvvdyr|Merchant Collective]] and the janapada administrations for anything that is not going to outlive the year.
 
 ## Where the writing lives
 

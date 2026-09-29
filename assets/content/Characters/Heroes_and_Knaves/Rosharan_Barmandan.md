@@ -486,7 +486,7 @@ Rosharan is fundamentally driven by the desire to push the boundaries of what sh
 
 - **Master Khalid Hammerhand:** Her former mentor and the preeminent authority on shipcraft in the Sultanate, Khalid remains Rosharan's primary confidant and advisor. Though officially retired, he reviews her most ambitious designs and gives sage counsel on Guild politics.
 - **Lady Yasmin Mirza, Royal Survey Corps:** The commander of the Sultanate's maritime exploration division has become a consistent client and enthusiastic advocate, funding Rosharan's most experimental work in exchange for first access to new designs.
-- **The Merchant Consortium of Tahrodan:** The primary shipping authority in the major port city has contracted with Rosharan for multiple vessels and provides steady income, though conservative members sometimes clash with her approach.
+- **Lin'Zuwaret elu Aû'Khelâthu of Tahrodan:** The primary shipping authority in the major port city has contracted with Rosharan for multiple vessels and provides steady income, though conservative members sometimes clash with her approach.
 
 ### Enemies
 

@@ -113,7 +113,7 @@ Each lineage has its own internal hierarchy: apprentice (_shâgerd_), recognized
 
 ## Notable Members
 
-- **[[being-shadzrkmrz|Shâdezar Kamrûz]]**—currently the most prominent recognized vessel; the Storm Cults regard him as a chosen vessel of Báhrámiš and his counsel carries weight beyond his standing in the [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]. The cults defer to his interpretation of religious matters on which the Council of Elders has not specifically ruled.
+- [[being-shadzrkmrz|Shâdezar Kamrûz]]—currently the most prominent recognized vessel; the Storm Cults regard him as a chosen vessel of Báhrámiš and his counsel carries weight beyond his standing in the [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]. The cults defer to his interpretation of religious matters on which the Council of Elders has not specifically ruled.
 - **Sar-pîr Razâshar of the Wind-Readers**—current senior elder of the largest lineage; presides at most Council of Elders gatherings.
 - **Sar-pîr Mehrava of the Lightning-Marked**—the smallest lineage's elder; a woman of extraordinary personal authority whose prophetic accuracy is the source of significant inter-cult tension when her readings conflict with the other lineages'.
 

@@ -124,11 +124,11 @@ hostile counterparty who will read every clause and honor none of the intent.
 
 The Yokveng's principal residents of note are the **Demon Lords**—celestials whose nature is the subversion, refusal, or corruption of the classification system. Five are currently recognized in Tānvüri scripture:
 
-- **[[affiliation-hurnzhuk|Hürnzhük]]**—The Lord of the Unclassified, the First Refusal. A coherence from the Hürnlëi itself that refused the Great Sorting. Older than the classification system itself.
-- **[[affiliation-vekthor|Vëkthōr]]**—The Forger of False Records, the Counterfeit Scribe. A former Archival Scribe who began editing classifications and fled into the Yokveng with stolen records.
-- **[[affiliation-zhaksok|Zhāksōk]]**—The Unsorted, the Walking Contradiction. An entity that defies all classification—an open case that was never closed during the Great Sorting.
-- **[[affiliation-nushot|Nüshöt]]**—The Burning Dissolution, the Unmaker. Born from a jurisdictional failure between the Bureau of Returns and the Bureau of Transformation. Fire that annihilates rather than purifies.
-- **[[affiliation-dokyok|Dōkyök]]**—The Lost Road, the Guide Who Leads Astray. A corrupted Waymark Spirit of the Bureau of Passage who now redirects travelers into unclassified spaces.
+- [[affiliation-hurnzhuk|Hürnzhük]]—The Lord of the Unclassified, the First Refusal. A coherence from the Hürnlëi itself that refused the Great Sorting. Older than the classification system itself.
+- [[affiliation-vekthor|Vëkthōr]]—The Forger of False Records, the Counterfeit Scribe. A former Archival Scribe who began editing classifications and fled into the Yokveng with stolen records.
+- [[affiliation-zhaksok|Zhāksōk]]—The Unsorted, the Walking Contradiction. An entity that defies all classification—an open case that was never closed during the Great Sorting.
+- [[affiliation-nushot|Nüshöt]]—The Burning Dissolution, the Unmaker. Born from a jurisdictional failure between the Bureau of Returns and the Bureau of Transformation. Fire that annihilates rather than purifies.
+- [[affiliation-dokyok|Dōkyök]]—The Lost Road, the Guide Who Leads Astray. A corrupted Waymark Spirit of the Bureau of Passage who now redirects travelers into unclassified spaces.
 
 Each Demon Lord represents a different mode of failure within the classification system, and each holds a domain within the Yokveng that corresponds to that mode of failure.
 

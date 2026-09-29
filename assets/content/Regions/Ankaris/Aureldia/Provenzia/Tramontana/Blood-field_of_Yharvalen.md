@@ -12,7 +12,7 @@ A battlefield of Provènzia remembered as a blood-field—ground where an engage
 cost that the name stuck to the place rather than to the battle. Near
 [[place-yharvalenhenge|Yhârvalen Henge]].
 
-It lies in **[[place-tramontana|Tramontàna]]**, on the low country inland of the [[place-batarengulf|Gulf of Batáren]]—a day's march from where a fleet can put an army ashore, which is why an army was ever
+It lies in [[place-tramontana|Tramontàna]], on the low country inland of the [[place-batarengulf|Gulf of Batáren]]—a day's march from where a fleet can put an army ashore, which is why an army was ever
 brought to meet one there.
 
 It is the worst of Provènzia's [[lore-bloodfields|blood-fields]], and the one every Provenzian can

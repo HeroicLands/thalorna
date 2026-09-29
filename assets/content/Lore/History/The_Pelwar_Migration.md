@@ -54,7 +54,7 @@ data:
       - how many died on the crossing to Aelwyth, which the traditions do not give and which nobody serious puts below two in three
 ---
 
-The **[[lore-pelwarpepl|Pelwar]]** were not a nation or a polity but a loose cultural-linguistic
+The [[lore-pelwarpepl|Pelwar]] were not a nation or a polity but a loose cultural-linguistic
 grouping of related tribes, and the Migration was not a wandering. It was a displacement, and it had a
 cause: [[lore-varkhadcnq|the Varkhad]] took the homelands, and generations of pressure pushed whole
 peoples ahead of them across half a continent.

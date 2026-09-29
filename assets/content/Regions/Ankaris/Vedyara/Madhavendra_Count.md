@@ -46,7 +46,7 @@ The **Mādhavendra count** is Vedyara's own year-count, kept alongside—and nev
 
 ## The Epoch
 
-The count begins with the standardization of Classical Vedyari, "roughly 1,200 years before the present," under the philosopher-kings of Mādhavendra, whose capital gave the era its name. That reign produced the great philosophical commentaries, legal codes and epic narratives that are still the prestige texts of the civilization. Vedyaran reckoning takes its zero from that reign, and from no Vylarian, Kheperan or Tānvüri event. **M 1** falls in **480 BF**. A date given in M converts to the Common Calendar by the rule **AF year = M year − 480**. A result at or below zero is read as a BF date instead, counting back from AF 1.
+The count begins with the standardization of Classical Vedyari, "roughly 1,200 years before the present," under the philosopher-kings of Mādhavendra, whose capital gave the era its name. That reign produced the great philosophical commentaries, legal codes and epic narratives that are still the prestige texts of the civilization. Vedyaran reckoning takes its zero from that reign, and from no Vylarian, Khelâthi or Tānvüri event. **M 1** falls in **480 BF**. A date given in M converts to the Common Calendar by the rule **AF year = M year − 480**. A result at or below zero is read as a BF date instead, counting back from AF 1.
 
 ## The Year and Its Months
 
@@ -100,20 +100,20 @@ The work is easier here than a foreigner expects it to be. [[place-vaelith|Vaeli
 
 ## Who Keeps It
 
-The **[[affiliation-trimurtisampradaya|Trimūrti-sampradāya]]**, the largest and most orthodox of the Varnakan sects, sets the public year. Its high priests sight it at the **[[place-suryatempl|Sūrya temple]]**, the pilgrim shrine at [[place-chandrprbh|Chandraprabhava]] where the Chandramahī comes out of the ice. The sighting is announced from there to every court and temple that keeps the Mādhavendra count.
+The [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]], the largest and most orthodox of the Varnakan sects, sets the public year. Its high priests sight it at the [[place-suryatempl|Sūrya temple]], the pilgrim shrine at [[place-chandrprbh|Chandraprabhava]] where the Chandramahī comes out of the ice. The sighting is announced from there to every court and temple that keeps the Mādhavendra count.
 
 The reckoners of the Ganaka-shala compute the same year instead of sighting it, and the two methods do not always agree. A single day between the sighted year and the computed one is enough to move the date of a Mela, a Weighing or a coronation. Neither method is dropped for the other. A court states which one it follows.
 
 ## Elsewhere
 
-Vedyara's neighbors keep their own counts and not the Mādhavendra one. [[affiliation-empirtkhpr|Ta'Kheperu]] dates from the Sep Tepy and the [[affiliation-tanvurempr|Empire of Tānvür]] from the Celestial Calendar's Great Convergence. None of the three converts to either of the others in ordinary use. A trader or an envoy crossing between them carries both dates and translates neither.
+Vedyara's neighbors keep their own counts and not the Mādhavendra one. [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] dates from the Qet Telgu and the [[affiliation-tanvurempr|Empire of Tānvür]] from the Celestial Calendar's Great Convergence. None of the three converts to either of the others in ordinary use. A trader or an envoy crossing between them carries both dates and translates neither.
 
 ## See Also
 
-- **[[affiliation-trimurtisampradaya|Trimūrti-sampradāya]]**—sights the year at the Sūrya temple
-- **[[place-chandrprbh|Chandraprabhava]]**—the Sūrya temple's site, at the Chandramahī's source
-- **[[skill-vedyarlng|Vedyari]]**—the standardization of Classical Vedyari that the count is dated from
-- **[[place-worldthlrn|The World of Thalorna]]**—the 365-day year the twelve months fill
-- **[[place-vaelith|Vaelith]]**—the thirty-day moon the almanac sets against the solar year
-- **[[affiliation-varakpnthn|Varnaka pantheon]]**—the gods whose days the week is named for
-- **[[place-weighingstn|The Weighing-Station]]**—the new-moon weighing the almanac fixes
+- [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]]—sights the year at the Sūrya temple
+- [[place-chandrprbh|Chandraprabhava]]—the Sūrya temple's site, at the Chandramahī's source
+- [[skill-vedyarlng|Vedyari]]—the standardization of Classical Vedyari that the count is dated from
+- [[place-worldthlrn|The World of Thalorna]]—the 365-day year the twelve months fill
+- [[place-vaelith|Vaelith]]—the thirty-day moon the almanac sets against the solar year
+- [[affiliation-varakpnthn|Varnaka pantheon]]—the gods whose days the week is named for
+- [[place-weighingstn|The Weighing-Station]]—the new-moon weighing the almanac fixes

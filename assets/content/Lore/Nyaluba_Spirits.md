@@ -23,7 +23,7 @@ baobab-spirit that holds a village's gathering-tree keeps that village and no ot
 ancestor attends the descendants of the clan that remembers their name.
 
 They are not transcendent and do not preside over domains of existence in the manner of the
-Aurèldían or Kemetían gods. They are of the world, and the Nyáluba deal with them as kinsmen—close or distant, beloved or feared—whose territories the clan shares. Every guide has its own
+Aurèldían or Khelâthi gods. They are of the world, and the Nyáluba deal with them as kinsmen—close or distant, beloved or feared—whose territories the clan shares. Every guide has its own
 temperament, its own protocols, and its own history of dealings with the clans whose lives it
 touches.
 

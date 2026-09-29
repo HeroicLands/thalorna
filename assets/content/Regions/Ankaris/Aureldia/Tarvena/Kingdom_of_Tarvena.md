@@ -148,17 +148,17 @@ The kingdom is divided into five semi-autonomous regions, each with its own gove
 
 ### The Three Kingdoms
 
-- **[[affiliation-kngdmstrth|Kingdom of Astúrath]]**—The mountainous heartland of Tarvénia, seat of the High King, and the spiritual core of Tarvénan independence. Astúrath's mountain fortresses were never conquered by the [[affiliation-vylarinmpr|Vylarian Empire]], and the kingdom's lords consider themselves the truest heirs of the ancient Tarvéni warrior tradition. The High King is traditionally (though not always) drawn from the Astúrathi nobility.
-- **[[affiliation-kngdmglvrn|Kingdom of Galváren]]**—The green, mist-shrouded western coast. Galváren's people are seafarers, fishermen, and dreamers, with a reputation for mysticism that sits uneasily with mainstream Tarvénan skepticism of the arcane. The kingdom's fishing fleets are the largest in western [[place-ankrscntnnt|Ankaris Continent]], and its sailors are legendarily fearless—or foolhardy, depending on who you ask.
-- **[[affiliation-kingdmlnrk|Kingdom of Léonrik]]**—The largest and most fertile of the three kingdoms, occupying the central-southern lowlands. Léonrik has the most conventional feudal structure, the richest farmland, and the largest population. Its lords are wealthier and more politically ambitious than their mountain and coastal counterparts, and Léonriki nobles have contested the High Kingship more often than anyone.
+- [[affiliation-kngdmstrth|Kingdom of Astúrath]]—The mountainous heartland of Tarvénia, seat of the High King, and the spiritual core of Tarvénan independence. Astúrath's mountain fortresses were never conquered by the [[affiliation-vylarinmpr|Vylarian Empire]], and the kingdom's lords consider themselves the truest heirs of the ancient Tarvéni warrior tradition. The High King is traditionally (though not always) drawn from the Astúrathi nobility.
+- [[affiliation-kngdmglvrn|Kingdom of Galváren]]—The green, mist-shrouded western coast. Galváren's people are seafarers, fishermen, and dreamers, with a reputation for mysticism that sits uneasily with mainstream Tarvénan skepticism of the arcane. The kingdom's fishing fleets are the largest in western [[place-ankrscntnnt|Ankaris Continent]], and its sailors are legendarily fearless—or foolhardy, depending on who you ask.
+- [[affiliation-kingdmlnrk|Kingdom of Léonrik]]—The largest and most fertile of the three kingdoms, occupying the central-southern lowlands. Léonrik has the most conventional feudal structure, the richest farmland, and the largest population. Its lords are wealthier and more politically ambitious than their mountain and coastal counterparts, and Léonriki nobles have contested the High Kingship more often than anyone.
 
 ### The Free City
 
-- **[[affiliation-frctyvlthr|Free City of Valthári]]**—A prosperous port city-state on the southern coast, governed by a council of merchant families. Valthári is the richest single settlement in Tarvénia and the kingdom's window onto the [[place-vylarianse|Vylarian Sea]] trade. The city jealously guards its independence, paying tribute to the High King in exchange for a charter that guarantees self-governance. Its merchant-captains and naval power give it political leverage far beyond its modest territory.
+- [[affiliation-frctyvlthr|Free City of Valthári]]—A prosperous port city-state on the southern coast, governed by a council of merchant families. Valthári is the richest single settlement in Tarvénia and the kingdom's window onto the [[place-vylarianse|Vylarian Sea]] trade. The city jealously guards its independence, paying tribute to the High King in exchange for a charter that guarantees self-governance. Its merchant-captains and naval power give it political leverage far beyond its modest territory.
 
 ### The Free Territory
 
-- **[[affiliation-frtrtryskrth|Free Territory of Eskárath]]**—The highland territory along the northern border with [[place-elavendre|Élavendre]], home to an ancient people who predate the Tarvéni migration. The Eskárathi speak their own language alongside Tarvéni, maintain their own customs and legal traditions, and acknowledge the High King only in the loosest sense. They are fiercely independent even by Tarvénan standards—which is saying something.
+- [[affiliation-frtrtryskrth|Free Territory of Eskárath]]—The highland territory along the northern border with [[place-elavendre|Élavendre]], home to an ancient people who predate the Tarvéni migration. The Eskárathi speak their own language alongside Tarvéni, maintain their own customs and legal traditions, and acknowledge the High King only in the loosest sense. They are fiercely independent even by Tarvénan standards—which is saying something.
 
 ## Character
 
@@ -168,7 +168,7 @@ The Tarvénans are deeply skeptical of magic and of the [[affiliation-ordoarcani
 
 ## Commerce and Currency
 
-Kingdom of Tarvénia uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Kingdom of Tarvénia is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Kingdom of Tarvénia uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|Magnum Collegium]]. Kingdom of Tarvénia is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 

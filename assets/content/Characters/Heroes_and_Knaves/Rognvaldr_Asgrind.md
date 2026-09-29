@@ -488,7 +488,7 @@ Rögnvaldr is motivated by two seemingly contradictory drives: the desire to be 
 ### Enemies
 
 - **Lord Castor Thorne, Duke of the Southern Marches:** A nobleman whose secret ambitions Rögnvaldr publicly mocked through elaborate theatrical sequences that were obviously directed at him. Thorne has sworn vengeance, though he dare not move openly against the king's favored jester.
-- **The Puritanical Faction:** Religious conservatives who believe jesters are agents of demoralization and have lobbied the church to declare his performances blasphemous. While they lack the power to end his position, they make his life difficult.
+- **The Wazulu:** Religious conservatives who believe jesters are agents of demoralization and have lobbied the church to declare his performances blasphemous. While they lack the power to end his position, they make his life difficult.
 - **His Own Reflection:** The tragic figure Rögnvaldr most opposes is himself—his cynicism, his fear of closeness, and his slowly weakening ability to maintain the performance that defines him.
 
 ### Affiliations

@@ -48,7 +48,7 @@ The Khazári who came to Thalorna came as **seven clans**, and the number has ne
 to them. Clan names are patrilineal, the genealogies are kept as carefully as the craft-records, and a
 Khazár can recite a line back to one of the seven without hesitation or notes.
 
-**[[lore-khazarturn|Khazártúrn]]** was built for all seven together—seven great towers cut from the
+[[lore-khazarturn|Khazártúrn]] was built for all seven together—seven great towers cut from the
 cliff of a mountain valley, one to each clan, and the city held jointly beneath them. It is the only
 thing they are known to have made as a single people, and its loss took some part of every line on
 Thalorna at once.
@@ -57,7 +57,7 @@ Thalorna at once.
 
 The Khazári built one thing that all their other work was measured against, and lost it.
 
-**[[lore-khazarturn|Khazártúrn]]** was raised in 5123 BF and stood close to twenty-seven centuries—the seat of an
+[[lore-khazarturn|Khazártúrn]] was raised in 5123 BF and stood close to twenty-seven centuries—the seat of an
 entire people's craft-records, and the finest archive in the world at a date when humanity had not yet
 built a city anywhere. In **2427 BF** it was destroyed by a [[lore-flksinale|Sinalë]] outlaw wielding the
 [[miscgear-secondvoice|Second Voice]]—a relic that takes [[lore-grukarfolk|Grukar]] from their
@@ -87,7 +87,7 @@ Like the Sinalëan enclaves, the holds are hidden—not by magical misdirection 
 
 Human scholars believe there are holds in the mountains of every major continent—the ranges above [[place-vrystwald|Vrystwald Region]], the peaks of [[place-tarvenirgn|Tarvénia]], the great mountains of [[affiliation-tanvurempr|Tānvür]]'s western border, and ranges in [[place-xerathia|Xerathia Continent]] and beyond. The Khazári do not confirm or deny any of this. A Khazár who encounters a human asking about the location of holds will simply stop talking.
 
-The westernmost of them is **[[place-vorgald|Vorgald]]**, in the mountains of [[place-aelwyth|Aelwyth]], cut around **3100 BF** in the late centuries of [[lore-khazarturn|Khazártúrn]]—the farthest the Deep Folk ever carried a hold, and the only one that had to be reached across open sea. Because a hold feeds itself from its own gate or not at all, the making of it began with the making of farmers, and those farmers are the [[lore-vardain|Vardain]].
+The westernmost of them is [[place-vorgald|Vorgald]], in the mountains of [[place-aelwyth|Aelwyth]], cut around **3100 BF** in the late centuries of [[lore-khazarturn|Khazártúrn]]—the farthest the Deep Folk ever carried a hold, and the only one that had to be reached across open sea. Because a hold feeds itself from its own gate or not at all, the making of it began with the making of farmers, and those farmers are the [[lore-vardain|Vardain]].
 
 ## Relations with Humanity
 
@@ -97,7 +97,7 @@ Very rarely—perhaps a handful of times in a human generation—a Khazár will 
 
 No human _realm_ has a sustained relationship with them, no human scholar has been invited into a hold, and no crown on Thalorna has ever received an embassy from one. Whatever the Khazári think of humanity—if they think of humanity at all—they keep it behind walls of stone and silence.
 
-There is exactly one exception, and it is not a realm. The **[[lore-vardain|Vardain]]** of Aelwyth have lived beneath [[place-vorgald|Vorgald]] for millennia: they farm for the hold, factor for it in human markets, and are protected by it, and Khazári engineers work openly in their valleys. It is a closer and older relationship than Élavendre's with the Sinalë, and almost nobody outside those valleys knows it exists.
+There is exactly one exception, and it is not a realm. The [[lore-vardain|Vardain]] of Aelwyth have lived beneath [[place-vorgald|Vorgald]] for millennia: they farm for the hold, factor for it in human markets, and are protected by it, and Khazári engineers work openly in their valleys. It is a closer and older relationship than Élavendre's with the Sinalë, and almost nobody outside those valleys knows it exists.
 
 ## What the Vardain Are the Last Of
 

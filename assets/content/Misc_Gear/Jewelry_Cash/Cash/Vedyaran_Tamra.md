@@ -17,4 +17,4 @@ Its face varies by minting court, a temple mark here and a royal cypher there. T
 
 ## See Also
 
-- **[[lore-vdyrnbnkng|Vedyaran Banking]]**—the currency's place in the Collective's system
+- [[lore-vdyrnbnkng|Vedyaran Banking]]—the currency's place in the Collective's system

@@ -8,7 +8,7 @@ data: {packFolder: celestialorder}
 
 ## The Celestial Order of Tānvür
 
-The **Celestial Order**—formally the **[[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]]** ("The Celestial Court of Ten Thousand Spirits")—is the religious, cosmological, and administrative framework that underpins every aspect of life in the [[affiliation-tanvurempr|Empire of Tānvür]]. To call it a "religion" is misleading. The Tānvüri do not have faith. They have _procedures_.
+The **Celestial Order**—formally the [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] ("The Celestial Court of Ten Thousand Spirits")—is the religious, cosmological, and administrative framework that underpins every aspect of life in the [[affiliation-tanvurempr|Empire of Tānvür]]. To call it a "religion" is misleading. The Tānvüri do not have faith. They have _procedures_.
 
 In the Celestial Order, the universe is not a creation—it is a **classification project**. The gods are not beings to worship—they are **officials holding posts**. Morality is not an inner virtue—it is an **account balance**. And magic is not a personal gift—it is a **petition processed through proper channels**. For visitors from Western cultures, nearly every assumption about spirituality, divinity, and the individual's relationship to the cosmos is inverted.
 

@@ -31,7 +31,7 @@ In the [[place-nrdlndsrgn|Nordlands]] and to a lesser extent in [[place-vrystwal
 
 A typical transaction: a Nordlands fur-merchant brings his season's furs to a major hall and receives in exchange a season's worth of grain, ale, smoked meat, and worked iron—perhaps not delivered until next harvest, perhaps to be drawn against over the year. The transaction is announced publicly at the hall's evening feast, witnessed by the assembled retainers and any visiting parties, and committed to memory by the hall's [[affiliation-skaldscrcl|skald]] who maintains the hall's standing ledger of obligations in formal verse. The skald's recitation at subsequent feasts keeps the obligation alive; settlement is announced when delivered and the closure recited.
 
-The Nordlands' formal **[[affiliation-skaldscrcl|Skalds' Circle]]** plays a central role here. A skald serves as the institutional memory of his hall's obligations; the Circle's broader hospitality network means that a hall's obligations are known beyond its immediate community; the skalds' truth-of-the-recital discipline (a skald is sworn to recite accurately even when the recital harms his patron) means that the record cannot be manipulated by interested parties.
+The Nordlands' formal [[affiliation-skaldscrcl|Skalds' Circle]] plays a central role here. A skald serves as the institutional memory of his hall's obligations; the Circle's broader hospitality network means that a hall's obligations are known beyond its immediate community; the skalds' truth-of-the-recital discipline (a skald is sworn to recite accurately even when the recital harms his patron) means that the record cannot be manipulated by interested parties.
 
 Hall-credit can support substantial commerce—a jarl with strong standing can extend himself well beyond his immediate cash position, on the strength of his hall's collective ability to pay over time. It can also collapse spectacularly: a hall whose obligations exceed its ability to deliver enters a downward spiral of diminishing standing, declining retainers, and eventually the loss of its independent standing through absorption by a stronger hall.
 
@@ -51,7 +51,7 @@ Khazryn kin-credit relationships have historically been the principal credit inf
 
 ### Áelendan and Aurèldían Variants
 
-The [[affiliation-aelndntrbs|Áelendan]] of Élavendre operate a smaller-scale kin-credit system that overlaps with the formal Vylarian commonwealth banking infrastructure of the Élavendren cities. An Áelendan family member can deal with the [[affiliation-magnumclgm|The Magnum Collegium]]-chartered guilds and the [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] moneylenders in the cities, but within the Áelendan tribal communities of the deep forest and the [[place-drenavrspn|Drenavar foothills]], the older kin-credit system operates as the primary medium of substantial commerce. The dual presence creates interesting tensions—an Áelendan whose city dealings have produced substantial Collegium credit may find that credit not transferable into the tribal economy, where the relationship-based credit is what matters.
+The [[affiliation-aelndntrbs|Áelendan]] of Élavendre operate a smaller-scale kin-credit system that overlaps with the formal Vylarian commonwealth banking infrastructure of the Élavendren cities. An Áelendan family member can deal with the [[affiliation-magnumclgm|Magnum Collegium]]-chartered guilds and the [[affiliation-clgmrgntrrm|Collegium Argentariorum]] moneylenders in the cities, but within the Áelendan tribal communities of the deep forest and the [[place-drenavrspn|Drenavar foothills]], the older kin-credit system operates as the primary medium of substantial commerce. The dual presence creates interesting tensions—an Áelendan whose city dealings have produced substantial Collegium credit may find that credit not transferable into the tribal economy, where the relationship-based credit is what matters.
 
 Similar dual systems operate in the more remote regions of every Aurèldían kingdom—the deep mountain valleys, the offshore islands, the frontier homesteads. The Vylarian banking infrastructure is the formal system; the older kin-and-clan credit is the informal-but-binding shadow.
 
@@ -84,8 +84,8 @@ Kin-and-hall credit also operates as a _secondary_ system in many settled politi
 
 ## See Also
 
-- **[[lore-bartercnmy|The Barter Economy]]**—the goods-exchange system that kin-and-hall credit extends into deferred-obligation form
-- **[[lore-vylrncrncy|Vylarian Currency]]**—the formal currency that operates alongside or instead of kin-credit in various polities
-- **[[affiliation-skaldscrcl|The Skalds' Circle]]**—the Nordlands institutional infrastructure for maintaining the public memory of hall-obligations
-- **[[affiliation-wrrscrcldnhrtrbs|Dunhara Warriors Circle]]**—the Dunhari institution that occasionally adjudicates particularly contentious inter-tribal credit disputes
+- [[lore-bartercnmy|The Barter Economy]]—the goods-exchange system that kin-and-hall credit extends into deferred-obligation form
+- [[lore-vylrncrncy|Vylarian Currency]]—the formal currency that operates alongside or instead of kin-credit in various polities
+- [[affiliation-skaldscrcl|The Skalds' Circle]]—the Nordlands institutional infrastructure for maintaining the public memory of hall-obligations
+- [[affiliation-wrrscrcldnhrtrbs|Dunhara Warriors Circle]]—the Dunhari institution that occasionally adjudicates particularly contentious inter-tribal credit disputes
 - Polity notes for the regions where kin-and-hall credit predominates

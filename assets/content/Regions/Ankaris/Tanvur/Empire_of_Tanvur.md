@@ -98,20 +98,20 @@ The Empire's self-understanding is that it is not so much a state as the mortal-
 
 In the Empire of Tānvür, religion, politics, magic, and social hierarchy are not merely intertwined—they are the same system viewed from different angles. The Emperor, known as the **Son of Heaven** (Tëngzhëi), is the celestial bureaucracy's designated administrator of the mortal plane. The imperial line holds the [[lore-mandatehvn|Mandate of Heaven]] (Tëngvōr)—a cosmic appointment, not a divine blessing—granting administrative authority over the empire's classification system. The Son of Heaven does not rule by divine right in the Aurèldían sense; he rules by being _correctly classified_, and the loss of that correct classification (through dynastic decay, ritual failure, or the corruption of his household) results in the transfer of the Mandate to a more correctly-classified line.
 
-True power is balanced among three institutional forces. The **Emperor and his household** hold the ritual center and the ultimate authority. The **Warlords of Tānvür** ([[lore-vushok|Vüszhük]]) provide the military backbone and have repeatedly acted as kingmakers in succession disputes. The **[[lore-venduk|Vëndük]]**, the chattel sorcerers who are the legally-owned magical slaves of the imperial family, channel cosmic energy through bureaucratic forms and are indispensable to every function of governance that cannot be accomplished by mortal administration alone.
+True power is balanced among three institutional forces. The **Emperor and his household** hold the ritual center and the ultimate authority. The **Warlords of Tānvür** ([[lore-vushok|Vüszhük]]) provide the military backbone and have repeatedly acted as kingmakers in succession disputes. The [[lore-venduk|Vëndük]], the chattel sorcerers who are the legally-owned magical slaves of the imperial family, channel cosmic energy through bureaucratic forms and are indispensable to every function of governance that cannot be accomplished by mortal administration alone.
 
 ### The Hierarchy of Castes
 
 Tānvüri society is organized around a rigid **eight-caste system** that dictates profession, legal status, dress, marriage rights, and the name (if any) by which one may be known. The hierarchy, from highest to lowest:
 
-1. **[[lore-zheklung|Zhëklüng]]**—Sons of the Dragon: the Emperor, his family, and the Warlords
-2. **[[lore-venduk|Vëndük]]**—Chattel Sorcerers: magical slaves bound to serve the Zhëklüng
-3. **[[lore-vushok|Vüshōk]]**—Warrior Nobility: military commanders and administrators
-4. **[[lore-tanthei|Tānthëi]]**—Celestial Scholars: interpreters of omens and keepers of sacred texts
-5. **[[lore-zathuk|Zāthük]]**—Artisans, Craftsmen, and Common Warriors
-6. **[[lore-nokvur|Nōkvür]]**—Peasant Farmers and laborers
-7. **[[lore-shukren|Shükrën]]**—Merchants and Usurers
-8. **[[lore-nutzok|Nützōk]]**—Slaves and Outcasts
+1. [[lore-zheklung|Zhëklüng]]—Sons of the Dragon: the Emperor, his family, and the Warlords
+2. [[lore-venduk|Vëndük]]—Chattel Sorcerers: magical slaves bound to serve the Zhëklüng
+3. [[lore-vushok|Vüshōk]]—Warrior Nobility: military commanders and administrators
+4. [[lore-tanthei|Tānthëi]]—Celestial Scholars: interpreters of omens and keepers of sacred texts
+5. [[lore-zathuk|Zāthük]]—Artisans, Craftsmen, and Common Warriors
+6. [[lore-nokvur|Nōkvür]]—Peasant Farmers and laborers
+7. [[lore-shukren|Shükrën]]—Merchants and Usurers
+8. [[lore-nutzok|Nützōk]]—Slaves and Outcasts
 
 See [[lore-castelaws|Caste Laws]] for the legal framework governing caste rights, duties, and restrictions. The caste system is the subject of the legal code and the foundation of the imperial administration in a way that dwarfs the analogous class-systems of any Aurèldían kingdom; Tānvüri civilization treats the classification of persons as a subset of the classification of reality, and the same ministries that track the movements of comets also track the ritual purity of provincial officials.
 

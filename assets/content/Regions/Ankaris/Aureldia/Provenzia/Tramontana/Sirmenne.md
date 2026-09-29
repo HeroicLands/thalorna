@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [tramontana], population: null, packFol
 ---
 
 Deep in the borderlands between the [[place-provenzrgn|Provènzia Region]] and
-[[place-elavendre|Élavendre]], in the wooded country of **[[place-tramontana|Tramontàna]]** below the Áelendan
+[[place-elavendre|Élavendre]], in the wooded country of [[place-tramontana|Tramontàna]] below the Áelendan
 mountains, stand the crumbling ruins of **Sirmennë**.
 
 They predate any Provenzian settlement, and any Élavendren one, by centuries. What Sirmennë was built

@@ -32,7 +32,7 @@ The two coasts give the kingdom two quite different peoples. The south is where 
 ### The Blood-fields
 
 Provènzia has been fought over for as long as anyone can remember, and it carries the record in its
-ground. Scattered across the kingdom are the **[[lore-bloodfields|blood-fields]]**—places where so
+ground. Scattered across the kingdom are the [[lore-bloodfields|blood-fields]]—places where so
 many died at once that the boundary with the spirit world was torn rather than worn thin, and did not
 close afterward. Most replay the battle harmlessly; some grow too well; one is killing the country
 around it.

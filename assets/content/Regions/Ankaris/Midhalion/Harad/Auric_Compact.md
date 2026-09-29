@@ -87,7 +87,7 @@ The Auric Compact is the most powerful institution in the [[affiliation-cnfdrtnh
 
 ## Character
 
-The Compact operates through a network of counting houses in every major Haradian city and most major ports of the [[place-vylarianse|Vylarian Sea]]. Its agents—factors, assessors, and debt collectors—are a familiar sight in harbors from [[affiliation-provincvld|Vald]] to [[place-helionis|Heliónis]] to [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]. The Compact's letter of credit is accepted as currency across Mídhalión; its seal on a contract is as binding as any court order.
+The Compact operates through a network of counting houses in every major Haradian city and most major ports of the [[place-vylarianse|Vylarian Sea]]. Its agents—factors, assessors, and debt collectors—are a familiar sight in harbors from [[affiliation-provincvld|Vald]] to [[place-helionis|Heliónis]] to the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]. The Compact's letter of credit is accepted as currency across Mídhalión; its seal on a contract is as binding as any court order.
 
 The Compact financed the Haradian War of Independence—a calculated investment that paid off spectacularly when the post-war government fell under guild control. The Compact now holds the Confederation's debt and uses this leverage to ensure that government policy serves commercial interests. Taxes are kept low on guild operations; tariffs protect guild monopolies; and the courts enforce guild contracts with enthusiasm.
 
@@ -95,7 +95,7 @@ The Compact financed the Haradian War of Independence—a calculated investment 
 
 The Compact prefers economic pressure to violence, but it is not above either. Merchants who default on Compact loans find their credit revoked across every port in the Confederation. Ship captains who carry cargo for Compact rivals find their vessels denied harbor services. And when softer methods fail, the Compact employs enforcers—discreet, professional, and ruthless—who collect debts through intimidation and, when necessary, force.
 
-These enforcers are the people most likely to cross paths with the crew of the [[affiliation-thetamzir|The Tamzîr]]. Old debts from the war, broken contracts, and the captain's refusal to work within the guild system make the Tamzîr a persistent irritant to the Compact's sense of order.
+These enforcers are the people most likely to cross paths with the crew of the [[affiliation-thetamzir|Tamzîr]]. Old debts from the war, broken contracts, and the captain's refusal to work within the guild system make the Tamzîr a persistent irritant to the Compact's sense of order.
 
 ## See Also
 

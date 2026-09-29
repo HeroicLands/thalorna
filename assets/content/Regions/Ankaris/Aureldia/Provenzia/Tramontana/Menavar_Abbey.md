@@ -55,7 +55,7 @@ mad. This is a matter of record rather than rumor, and it has not deterred anyon
 Four parties, at least, and none of them will say so plainly:
 
 - The **Church**, which holds that the relic is its property and has never relinquished the claim.
-- The **[[affiliation-ordoarcanis|Ordo Arcanis]]**, which wishes to _study_ it, and whose agents are
+- The [[affiliation-ordoarcanis|Ordo Arcanis]], which wishes to _study_ it, and whose agents are
   invariably furnished with an authority nobody can quite check.
 - A **noble house** claiming historical custody—a claim that is probably genuine and certainly
   inconvenient.

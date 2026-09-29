@@ -12,7 +12,7 @@ Part of the [[affiliation-tanvurempr|Empire of Tānvür]] world-building.
 
 ### Caste Placement
 
-Apothecaries and physicians in the Empire of Tānvür belong to the **[[lore-zathuk|Zāthük]]** (Artisans and Craftsmen) caste. However, they occupy a distinct and respected sub-caste within this group, known as the **Yātvōr** (Healers of the Art). While they do not hold the same level of influence as the [[lore-tanthei|Tānthëi]] or [[lore-venduk|Vëndük]], the Yātvōr are vital to the health and well-being of the empire's population, from the lowest peasant to the highest noble. Their understanding of the body's internal classification system—the way elements, organs, and Lëi flows are sorted and maintained within a living being—makes them essential figures in society.
+Apothecaries and physicians in the Empire of Tānvür belong to the [[lore-zathuk|Zāthük]] (Artisans and Craftsmen) caste. However, they occupy a distinct and respected sub-caste within this group, known as the **Yātvōr** (Healers of the Art). While they do not hold the same level of influence as the [[lore-tanthei|Tānthëi]] or [[lore-venduk|Vëndük]], the Yātvōr are vital to the health and well-being of the empire's population, from the lowest peasant to the highest noble. Their understanding of the body's internal classification system—the way elements, organs, and Lëi flows are sorted and maintained within a living being—makes them essential figures in society.
 
 ### Belief System
 

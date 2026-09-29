@@ -34,7 +34,7 @@ matter of local knowledge rather than of any map.
 The royal forest above [[place-kingsholow|Kingshollow]] lies here, under forest law, hunted by kings
 and poached by everyone.
 
-It is also where Aldorath meets the **[[lore-grukaraelwyth|Grukar]]**, and has for as long as there has
+It is also where Aldorath meets the [[lore-grukaraelwyth|Grukar]], and has for as long as there has
 been an Aldorath. This is not an emergency and is never treated as one: a few forest-edge steadings lost
 in a year, a patrol that does not come back, a season when the woods are worse than usual. The march
 budgets for it the way it budgets for weather.

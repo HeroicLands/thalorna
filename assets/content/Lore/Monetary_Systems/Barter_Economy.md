@@ -67,7 +67,7 @@ Barter is the _secondary_ economic system in most settled polities—operating a
 
 The pure-spot-exchange form of barter—A trades goods for B's goods, transaction complete—is the simple case. The more complex case is **deferred barter**, in which goods are exchanged for the _promise_ of future goods. A Nordlands fur-trader gives a hall its season's furs in exchange for the hall's commitment to provide a season's worth of ale and grain at the harvest. The arrangement requires trust and is enforced by the social structures within which the parties operate (kin obligation, tribal custom, the standing reputation of both parties).
 
-Deferred barter is the bridge between simple barter and the formal credit systems of polities like the Nordlands and Dunhara, where **[[lore-kinhalcrdt|kin and hall credit]]** operates as a structured extension of deferred-barter customs. The distinction between deferred barter (a single transaction with a delivery deferred) and kin/hall credit (an ongoing pattern of obligation between parties bound by kinship or hall-affiliation) is somewhat fluid; both rest on the same fundamental principle that the relationship between the parties is the security for the transaction.
+Deferred barter is the bridge between simple barter and the formal credit systems of polities like the Nordlands and Dunhara, where [[lore-kinhalcrdt|kin and hall credit]] operates as a structured extension of deferred-barter customs. The distinction between deferred barter (a single transaction with a delivery deferred) and kin/hall credit (an ongoing pattern of obligation between parties bound by kinship or hall-affiliation) is somewhat fluid; both rest on the same fundamental principle that the relationship between the parties is the security for the transaction.
 
 ## Limitations
 
@@ -83,7 +83,7 @@ Where these limitations bite hard enough, cultures develop formal currency. Wher
 
 ## See Also
 
-- **[[lore-kinhalcrdt|Kin and Hall Credit]]**—the credit-system extension of barter customs in clan- and tribal-based polities
-- **[[lore-vylrncrncy|Vylarian Currency]]**—the formal currency that operates in the Nordlands without script infrastructure
-- **[[lore-tkhprcrncy|Ta'Kheperu Currency]]**—the formal currency system that operates in the Northern Fertile Region
+- [[lore-kinhalcrdt|Kin and Hall Credit]]—the credit-system extension of barter customs in clan- and tribal-based polities
+- [[lore-vylrncrncy|Vylarian Currency]]—the formal currency that operates in the Nordlands without script infrastructure
+- [[lore-aukhlthcrncy|Aû'Khelâthu Currency]]—the formal currency system that operates in the Northern Fertile Region
 - Polity-specific notes for barter-dominated regions: [[affiliation-dunhartrbs|Dunhara Tribes]], [[affiliation-khzrncnfdrtn|Khazryn Confederation]], [[affiliation-vrystwldtrbs|Vrystwald Tribes]], [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]

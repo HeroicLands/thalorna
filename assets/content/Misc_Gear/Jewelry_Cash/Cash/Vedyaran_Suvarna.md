@@ -17,6 +17,6 @@ It settles land, dowries and a kingdom's tribute rather than a market stall's tr
 
 ## See Also
 
-- **[[lore-vdyrnbnkng|Vedyaran Banking]]**—the currency's place in the Collective's system
+- [[lore-vdyrnbnkng|Vedyaran Banking]]—the currency's place in the Collective's system
 - **Suvarnagiri**—the Weighing, where the gold is bought
-- **[[affiliation-chandrapur|Chandrapur]]**—the coin's mint
+- [[affiliation-chandrapur|Chandrapur]]—the coin's mint

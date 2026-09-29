@@ -66,7 +66,7 @@ Beyond its deliberative role, the Curia Vylaria is the **highest court for senat
 - **The Augustar**—patron, counterweight, and master. The relationship defines the Curia's power in any given reign; the Senate advises a strong throne and constrains a weak one.
 - **The [[affiliation-curiaurbis|Curia Urbis]]**—the civic government of the city below, many of whose Curators are drawn from the senatorial order; the gravest senatorial causes rise from the imperial tribunals to the Curia Vylaria.
 - **The [[affiliation-vylrnmltry|estates of the nobility]]**—the Aurelii and Argentei who fill its seats; the Senate is the political theater in which their rivalries are conducted.
-- **The [[affiliation-pratrgstrm|The Praetar Augustarum]]**—the armed factor in any succession the Senate's lobbies debate; senators court the guard, and the guard watches the Senate.
+- **The [[affiliation-pratrgstrm|Praetar Augustarum]]**—the armed factor in any succession the Senate's lobbies debate; senators court the guard, and the guard watches the Senate.
 - **The court factions**—the Reformist and Conservative blocs that run through every imperial institution contend on the Curia's floor as fiercely as anywhere in the Empire.
 
 ### Plot Hooks

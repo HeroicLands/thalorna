@@ -26,7 +26,7 @@ think about them very often.
 
 ## The Blood-field
 
-On one shore stands the **[[place-bldfldtiravlen|Blood-field of Tiravlen]]**, which is a
+On one shore stands the [[place-bldfldtiravlen|Blood-field of Tiravlen]], which is a
 [[lore-bloodfields|recurrence]] and replays out over the water—ranks of lights moving on the surface,
 sound carrying off it with the clarity water gives. The lakeside villages long ago turned the
 anniversary into an observance rather than a crisis, and are firm that the field is not troublesome.

@@ -453,10 +453,10 @@ Tórnis seeks to distance himself from his past life as a Tarvénan brigand and 
 
 ## Companions
 
-- **[[being-branwldrgr|Brànwâal Dôrgaar]]**: Captain of the Silent Talon. Tórnis respects Brànwâal's competence and is loyal to him—as loyal as Tórnis is capable of being.
-- **[[being-elyseskyrn|Elýsè Skýrn]]**: A developing romantic relationship that Tórnis is unsure how to handle.
-- **[[being-chlbrhydyn|Chéleb Rhýddýn]]**: Fellow band member.
-- **[[being-dornsyndlr|Dôren Sýndalr]]**: Fellow band member.
+- [[being-branwldrgr|Brànwâal Dôrgaar]]: Captain of the Silent Talon. Tórnis respects Brànwâal's competence and is loyal to him—as loyal as Tórnis is capable of being.
+- [[being-elyseskyrn|Elýsè Skýrn]]: A developing romantic relationship that Tórnis is unsure how to handle.
+- [[being-chlbrhydyn|Chéleb Rhýddýn]]: Fellow band member.
+- [[being-dornsyndlr|Dôren Sýndalr]]: Fellow band member.
 
 ### Patrons
 
