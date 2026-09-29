@@ -32,7 +32,7 @@ data:
       - the Vylarian monarchy the patricians overthrew, of which nothing is recorded but that it ended
 ---
 
-The **[[affiliation-vylarinmpr|Vylarian Republic]]** was established by patrician families who
+The [[affiliation-vylarinmpr|Vylarian Republic]] was established by patrician families who
 overthrew the last Vylarian king—a monarchy the record mentions once, to say it was ended.
 
 Governed by a Senate of landed aristocrats, the Republic grew steadily from a regional city-state into

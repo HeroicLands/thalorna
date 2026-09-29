@@ -1,0 +1,10 @@
+---
+shortcode: zabeglegezu2
+name: {full: Zâbeglegezu, title: "", given: Zâbeglegezu, clan: "", home: garanlaghet, aliases: []}
+type: being
+description: "A lord who has employed the same household for over a decade and grants stable, respectful service in return for exacting standards"
+tags: [generated]
+data: {packFolder: regkhfolk}
+---
+
+A lord who has employed the same household for over a decade and grants stable, respectful service in return for exacting standards.

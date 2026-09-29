@@ -139,7 +139,7 @@ Outside the Council chamber, power is diffuse. Guilds of shipwrights, chandlers,
 
 ## Relations
 
-**[[affiliation-kngdmlvndr|Élavendre]]** is Calypsa's nearest mainland neighbor and largest single trading partner. The relationship is warm, cordial, and quietly transactional: the Élavendri crown has never seriously attempted to annex the island and Calypsa has never seriously contemplated resisting if it did. In practice the two realms negotiate as peers, and a steady stream of Élavendri younger sons and restless merchant families settles on the island each generation.
+[[affiliation-kngdmlvndr|Élavendre]] is Calypsa's nearest mainland neighbor and largest single trading partner. The relationship is warm, cordial, and quietly transactional: the Élavendri crown has never seriously attempted to annex the island and Calypsa has never seriously contemplated resisting if it did. In practice the two realms negotiate as peers, and a steady stream of Élavendri younger sons and restless merchant families settles on the island each generation.
 
 **The Nordmen kingdoms**—[[affiliation-kingdomlgn|Malagna]] especially—provide many of Calypsa's sailors, much of its shipbuilding timber, and a disproportionate share of its old-money families. Nordmal is still the working tongue of the docks for this reason. Relations with the Nordmen courts are friendly in trade and carefully neutral in politics; Calypsa has successfully stayed out of every Nordmen dynastic quarrel of the last three centuries.
 
@@ -153,7 +153,7 @@ Outside the Council chamber, power is diffuse. Guilds of shipwrights, chandlers,
 
 ## Commerce and Currency
 
-Calypsa uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Calypsa is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Calypsa uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|Magnum Collegium]]. Calypsa is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 

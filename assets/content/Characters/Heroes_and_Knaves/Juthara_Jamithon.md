@@ -54,7 +54,7 @@ sohl:
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 85}}
     - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 17}}
-    - {model: skill-demtkscrpt, system: {masteryLevelBase: 85}}
+    - {model: skill-qalzscrscrpt, system: {masteryLevelBase: 85}}
     - {model: sohl-sohl-skill-chrm, system: {masteryLevelBase: 45}}
     - {model: sohl-sohl-skill-cmd, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-dscr, system: {masteryLevelBase: 68}}

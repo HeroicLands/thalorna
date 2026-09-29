@@ -183,9 +183,9 @@ with the Order of the Burning Brand.
 ## Faith
 
 Provènzia is [[affiliation-arldnpnthn|Aurèldían]], and Zûravlen's devotion falls naturally to two of
-the Twelve: **[[affiliation-venusia|Vénusia]]**, the Bountiful One, whose symbol is a tree hung with
+the Twelve: [[affiliation-venusia|Vénusia]], the Bountiful One, whose symbol is a tree hung with
 golden fruit and who is honored at harvest with the first-picked basket of every orchard; and
-**[[affiliation-florania|Flórania]]**, the Nurturer, who owns the blossom and the vigil. A Zûravlen
+[[affiliation-florania|Flórania]], the Nurturer, who owns the blossom and the vigil. A Zûravlen
 will tell you the two goddesses divide the year between them, and that Vénusia gets the credit for what
 Flórania saved.
 
@@ -194,15 +194,15 @@ inland.
 
 ## Settlements
 
-- **[[place-mercadaure|Mercadaure]]**—the market town and the baron's seat, where the fruit is
+- [[place-mercadaure|Mercadaure]]—the market town and the baron's seat, where the fruit is
   graded, packed and sold, and where the autumn fair is held.
-- **[[place-portvent|Portvent]]**—the harbor at the foot of the cliff: fish, salt, and the fast
+- [[place-portvent|Portvent]]—the harbor at the foot of the cliff: fish, salt, and the fast
   boats that are quietly undoing the drying yards.
-- **[[place-vergeval|Vergéval]]**—the great orchard manor of the upper terraces, and the richest and
+- [[place-vergeval|Vergéval]]—the great orchard manor of the upper terraces, and the richest and
   most anxious place in the barony.
-- **[[place-blavera|Blavéra]]**—a mixed manor of the valley floor: grain, fold and a little fruit.
+- [[place-blavera|Blavéra]]—a mixed manor of the valley floor: grain, fold and a little fruit.
   The ordinary model, and the one most of Zûravlen actually resembles.
-- **[[place-estivren|Estivren]]**—the upland sheep manor, oldest of the three, poorest in coin and
+- [[place-estivren|Estivren]]—the upland sheep manor, oldest of the three, poorest in coin and
   least interested in peaches.
 
 ## Adventuring in Zûravlen

@@ -45,7 +45,7 @@ The League's relationship with the [[affiliation-auricompct|Auric Compact]] is o
 
 The League's charter gives its captains broad authority to "protect Haradian commerce"—language that has been interpreted to include attacking competitors' ships in disputed waters, seizing cargoes from vessels trading outside guild agreements, and occasional outright piracy against targets of opportunity. The Grand Council periodically threatens to revoke these privileges; the League reminds the Council that it provides the only naval force standing between Harad and a [[affiliation-vylarinmpr|Vylarian]] reconquest.
 
-Independent operators like the [[affiliation-thetamzir|The Tamzîr]] exist in a gray zone. The League would prefer that all Haradian-flagged vessels operate under its umbrella. Captains who refuse face harassment, port restrictions, and occasionally "mistaken" confrontations at sea.
+Independent operators like the [[affiliation-thetamzir|Tamzîr]] exist in a gray zone. The League would prefer that all Haradian-flagged vessels operate under its umbrella. Captains who refuse face harassment, port restrictions, and occasionally "mistaken" confrontations at sea.
 
 ## See Also
 

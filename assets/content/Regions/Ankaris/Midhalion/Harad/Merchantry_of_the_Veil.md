@@ -99,7 +99,7 @@ The Merchantry operates through a network of agents embedded in every port city,
 
 The Merchantry's relationship with the other guilds is parasitic but tolerated. The [[affiliation-auricompct|Auric Compact]] officially disapproves of the Merchantry's shadowy dealings but quietly uses its information services. The [[affiliation-corsairleg|Corsair League]] considers the Merchantry a pack of spies and smugglers but accepts that some cargoes are more profitably moved discreetly.
 
-The Merchantry is the guild most likely to approach the crew of the [[affiliation-thetamzir|The Tamzîr]] with offers of work rather than threats—a vessel operating outside normal guild channels is exactly what the Merchantry needs for its less conventional shipments.
+The Merchantry is the guild most likely to approach the crew of the [[affiliation-thetamzir|Tamzîr]] with offers of work rather than threats—a vessel operating outside normal guild channels is exactly what the Merchantry needs for its less conventional shipments.
 
 ### See Also
 

@@ -107,7 +107,7 @@ frontier rather than as border.
 ## The War Nobody Records
 
 For **more than five hundred years** the peoples of the wilderness have been fighting
-**[[lore-grukaraelwyth|Grukar]]**.
+[[lore-grukaraelwyth|Grukar]].
 
 The Grukar reached Aelwyth some seven centuries ago and established themselves in exactly the country
 the tribes live in—the deep forest, the wooded folds, the moor. There is no lowland chronicle of the

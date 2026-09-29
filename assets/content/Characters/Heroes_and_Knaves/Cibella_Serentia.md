@@ -446,7 +446,7 @@ Cibella suffers from severe dissociation. She is not in control of her own abili
 
 ### Patrons
 
-Her brother **[[being-lucernsrnt|Lucerian Serentia]]** is her protector, caretaker, and most constant presence. The crew of the **Tamzîr** have become reluctant but genuine guardians.
+Her brother [[being-lucernsrnt|Lucerian Serentia]] is her protector, caretaker, and most constant presence. The crew of the **Tamzîr** have become reluctant but genuine guardians.
 
 ### Enemies
 
@@ -454,7 +454,7 @@ The **Ordo Arcanis** considers Cibella their most valuable escaped asset. They h
 
 ### Affiliations
 
-Passenger aboard the **Tamzîr**. Sister of **Lucerian Serentia**. She has formed a quiet bond with **Kasûra Damzarû**, who treats her with simple warmth rather than the anxious protectiveness of her brother, and with **[[being-damsnghlrn|Dámàsûn Ghôlâron]]** (Parma), whose calm presence seems to soothe her in ways that defy easy explanation.
+Passenger aboard the **Tamzîr**. Sister of **Lucerian Serentia**. She has formed a quiet bond with **Kasûra Damzarû**, who treats her with simple warmth rather than the anxious protectiveness of her brother, and with [[being-damsnghlrn|Dámàsûn Ghôlâron]] (Parma), whose calm presence seems to soothe her in ways that defy easy explanation.
 
 ## Plot Hooks
 

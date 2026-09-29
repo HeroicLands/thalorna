@@ -92,7 +92,7 @@ The organization grew in Heliónis, where the Academy of the Silver Veil already
 
 **Primary:** Vylarian cities (especially Magnápolis and Alyssa), Provenzian courts and cultural centers, Helionite city-states (Thyrenae, Pelagora, Kalydria)
 
-**Secondary:** The Velvet Hand maintains small cells in every major city where powerful people gather. A single agent in a Haradian guild hall or a Ta.Kheperian court can be worth more than a dozen enforcers.
+**Secondary:** The Velvet Hand maintains small cells in every major city where powerful people gather. A single agent in a Haradian guild hall or a Ta.Khelâthi court can be worth more than a dozen enforcers.
 
 ## Operations
 
@@ -100,7 +100,7 @@ The organization grew in Heliónis, where the Academy of the Silver Veil already
 
 **Blackmail:** Information gathered through espionage is weaponized. A senator's affair, a merchant's fraudulent books, a priest's crisis of faith—all become leverage. The Velvet Hand rarely makes crude threats; instead, a target receives a polite note suggesting that a "mutual friend" would appreciate a small favor. The implicit alternative is never stated but universally understood.
 
-**Political assassination:** The Velvet Hand's most feared service. Kills are designed to look natural—poison in wine, a fall from a balcony, a sudden illness. Blade work is considered crude and is reserved for messages. The organization maintains a small cadre of specialist poisoners, some trained in Helionite pharmaceutical traditions, others in Ta.Kheperian embalming arts.
+**Political assassination:** The Velvet Hand's most feared service. Kills are designed to look natural—poison in wine, a fall from a balcony, a sudden illness. Blade work is considered crude and is reserved for messages. The organization maintains a small cadre of specialist poisoners, some trained in Helionite pharmaceutical traditions, others in Ta.Khelâthi embalming arts.
 
 **Theft of sensitive documents:** State secrets, trade agreements, military plans, Ordo Arcanis research notes—anything written down can be copied or stolen. The Velvet Hand's document forgers are among the best in the world, capable of producing copies indistinguishable from originals.
 

@@ -452,10 +452,10 @@ Chéleb's goal is to gather enough wealth to secure a future for his tribe and t
 
 ## Companions
 
-- **[[being-branwldrgr|Brànwâal Dôrgaar]]**: Captain of the Silent Talon.
-- **[[being-elyseskyrn|Elýsè Skýrn]]**: Fellow band member.
-- **[[being-torniskbry|Tórnis Kúbrý]]**: Fellow band member.
-- **[[being-dornsyndlr|Dôren Sýndalr]]**: Fellow band member.
+- [[being-branwldrgr|Brànwâal Dôrgaar]]: Captain of the Silent Talon.
+- [[being-elyseskyrn|Elýsè Skýrn]]: Fellow band member.
+- [[being-torniskbry|Tórnis Kúbrý]]: Fellow band member.
+- [[being-dornsyndlr|Dôren Sýndalr]]: Fellow band member.
 
 ### Patrons
 

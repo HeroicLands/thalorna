@@ -36,7 +36,7 @@ data:
       - where the valley stands, which appears on no map the Khazári have let out of their hands
 ---
 
-**[[lore-khazarturn|Khazártúrn]]** was not a buried hold. It was cut into the cliff face of a mountain
+[[lore-khazarturn|Khazártúrn]] was not a buried hold. It was cut into the cliff face of a mountain
 valley—a city in a wall of rock with the valley open in front of it, which is why its halls could
 take daylight at all and why anyone thought to try. Standing out from that cliff were seven great
 towers, because there were **seven clans**, and each tower was that clan's.

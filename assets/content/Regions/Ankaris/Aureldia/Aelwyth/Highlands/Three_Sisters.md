@@ -84,7 +84,7 @@ expedition. They were the surviving third of a people who had looked at a hundre
 open sea with families in tow and concluded it was the _better_ option.
 
 Nobody attempts that crossing unless staying is worse. What was behind them was worse. And behind the Pelwar, in smaller numbers but not small enough, came the
-**[[lore-pelwarpepl|Varkhad]]** who had driven them: the fierce eastern stock that had conquered the
+[[lore-pelwarpepl|Varkhad]] who had driven them: the fierce eastern stock that had conquered the
 Pelwar homelands and then followed the survivors across an ocean.
 
 An island holds a fixed amount of good land, and there was not enough of it. Two centuries of arrival,

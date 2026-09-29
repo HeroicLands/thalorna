@@ -15,4 +15,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-4 bodies in Thalorna name this standing, at levels 3, 4, 5 of their ladders, and each spells it in its own words: **Acolyte**, **Initiate**, **Initiate of the College**, **Wab of the Hunt**.
+4 bodies in Thalorna name this standing, at levels 3, 4, 5 of their ladders, and each spells it in its own words: **Acolyte**, **Initiate**, **Initiate of the College**, **Wazu of the Hunt**.

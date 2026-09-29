@@ -69,8 +69,8 @@ The Áelendan of [[place-elavendre|Élavendre]] claim—and with considerable ju
 
 The languages of Pelwar descent share deep structural commonalities and a significant core vocabulary, though centuries of divergence have made most of them mutually unintelligible without study. Speakers of one Pelwar language can sometimes catch fragments of another. The principal surviving Pelwar languages are:
 
-- **[[skill-elvndrlng|Áelendi]]**—Spoken by the [[lore-aelendnppl|Áelendan]] of central Élavendre. The most conservative member of the family, preserving features lost elsewhere.
-- **[[skill-elvndrlng|Élavendri]]**—The modern language of [[place-elavendre|Élavendre]], descended directly from Áelendan with simplifications and absorbed outside influences.
+- [[skill-elvndrlng|Áelendi]]—Spoken by the [[lore-aelendnppl|Áelendan]] of central Élavendre. The most conservative member of the family, preserving features lost elsewhere.
+- [[skill-elvndrlng|Élavendri]]—The modern language of [[place-elavendre|Élavendre]], descended directly from Áelendan with simplifications and absorbed outside influences.
 - **Vylari**—The language of the [[affiliation-vylarinmpr|Vylarian Empire]], heavily modified by contact with pre-Pelwar substrate languages.
 - **Nordmal**—The tongue of the northern Nordmen kingdoms.
 - **Varokhi**—Spoken by the Varokh tribes of [[place-vrystwald|Vrystwald]], closely related to Nordmal but diverged significantly.
@@ -81,8 +81,8 @@ The languages of Pelwar descent share deep structural commonalities and a signif
 
 The major peoples descended from Pelwar migrations share certain cultural commonalities—particularly an aristocratic social structure, a strong bardic tradition, and a reverence for ancestral lineage—but they have diverged substantially over the centuries. Some have preserved more of the original Pelwar heritage than others:
 
-- **[[lore-aelendnppl|Áelendan]]**—The most conservative living Pelwar culture, preserving the old language, the Kindred Pact, and traditional tribal organization
-- **[[place-elavendre|Élavendri]]**—Refined urban descendants of the Pelwar, whose nobility still trace lineage to Áelendan ancestors
+- [[lore-aelendnppl|Áelendan]]—The most conservative living Pelwar culture, preserving the old language, the Kindred Pact, and traditional tribal organization
+- [[place-elavendre|Élavendri]]—Refined urban descendants of the Pelwar, whose nobility still trace lineage to Áelendan ancestors
 - **Vylari**—The imperial Pelwar, whose migrations laid the foundation for the later rise of the Vylarian Empire
 - **Nordmen** (of the northern kingdoms)—Pelwar migrants who settled the frozen north and developed warrior-seafarer cultures
 - **Varokh** (of [[place-vrystwald|Vrystwald]])—Forest-dwelling Pelwar descendants who preserved a more tribal, barbarian way of life

@@ -127,7 +127,7 @@ the city fell—and it did not matter, which is the part the Khazári have never
 
 In 2427 BF Khazártúrn was destroyed by Grukar, in numbers and under a coordination that should not have
 been possible, **driven by a renegade of the [[lore-flksinale|Sinalë]]** who had taken up the
-**[[miscgear-secondvoice|Second Voice]]**—a relic that speaks over Ahks and commands the hatched
+[[miscgear-secondvoice|Second Voice]]—a relic that speaks over Ahks and commands the hatched
 directly.
 
 It was not a war and it was not a siege. It was **a single act of genocide**, carried out on a city that

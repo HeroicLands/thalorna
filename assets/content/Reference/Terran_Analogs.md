@@ -63,6 +63,6 @@ _Private worldbuilding reference—not published to the website._
 
 ## Xerathia
 
-| Region                                 | Terran Analog                                                                                       |
-| -------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| [[affiliation-empirtkhpr\|Ta'Kheperu]] | Ancient Egypt (New Kingdom through Ptolemaic—a civilization that reinvents itself across millennia) |
+| Region                                              | Terran Analog                                                                                       |
+| --------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| [[affiliation-empireakhlth\|Empire of Aû'Khelâthu]] | Ancient Egypt (New Kingdom through Ptolemaic—a civilization that reinvents itself across millennia) |

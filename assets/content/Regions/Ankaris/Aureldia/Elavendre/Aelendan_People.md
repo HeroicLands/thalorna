@@ -36,7 +36,7 @@ The Áelendan maintain a uniquely close neighborly relationship with the [[lore-
 
 ## Institutions
 
-- **[[affiliation-alndnwrdns|The Áelendan Wardens]]**—An ancient order tasked with protecting the sacred sites of the mountains and deep forests, particularly those connected to the fae. The Wardens patrol the boundary between the settled lowlands and the wild interior.
+- [[affiliation-alndnwrdns|The Áelendan Wardens]]—An ancient order tasked with protecting the sacred sites of the mountains and deep forests, particularly those connected to the fae. The Wardens patrol the boundary between the settled lowlands and the wild interior.
 - **Council of Elders**—The local governing bodies of each Áelendan tribe, composed of recognized elders from the community's leading families and lineages.
 - **Tradition Keepers**—Specialist memorizers who hold the unwritten Kindred Pact, the tribal songs, and the genealogies. Training to become a Tradition Keeper begins in childhood and continues across decades.
 
@@ -44,8 +44,8 @@ The Áelendan maintain a uniquely close neighborly relationship with the [[lore-
 
 Áelendan territory encompasses the mountainous interior of Élavendre, with particular concentration around sites sacred to the Kindred Pact:
 
-- **[[place-drenavrspn|The Drenavar Spine]]**—Sacred mountain range at the heart of Áelendan territory
-- **[[place-eshalshldg|Eshálosha Lodge]]**—The principal Áelendan settlement, a ceremonial and political center
+- [[place-drenavrspn|The Drenavar Spine]]—Sacred mountain range at the heart of Áelendan territory
+- [[place-eshalshldg|Eshálosha Lodge]]—The principal Áelendan settlement, a ceremonial and political center
 
 ## The Ordo
 

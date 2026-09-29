@@ -100,7 +100,7 @@ Alyssa is the empire at its most cultivated and most political—paved roads, aq
 
 ## Commerce and Currency
 
-Province of Alyssa uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through the [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Imperial taxation is administered by the [[affiliation-curiafscls|The Curia Fiscalis]] and revenues flow to the [[affiliation-aerarimmpr|Aerarium Imperii]]. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Province of Alyssa uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through the [[affiliation-clgmrgntrrm|Collegium Argentariorum]] moneylenders chartered under the [[affiliation-magnumclgm|Magnum Collegium]]. Imperial taxation is administered by the [[affiliation-curiafscls|Curia Fiscalis]] and revenues flow to the [[affiliation-aerarimmpr|Aerarium Imperii]]. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 

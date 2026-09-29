@@ -35,11 +35,11 @@ The temples bless a stone before it is cut, and a cutter who begins without the 
 
 ## What Stands in the City
 
-The **[[place-greatbazaar|Great Bazaar]]** is the crown's market ground, where the rough stone is assayed and sold and where every foreign trade in the city is done in the open.
+The [[place-greatbazaar|Great Bazaar]] is the crown's market ground, where the rough stone is assayed and sold and where every foreign trade in the city is done in the open.
 
-The **[[place-moonhouse|Moon House]]** is the palace above the river stair, the seat of the Mahārāja and the one building in Chandrapur nobody may rebuild.
+The [[place-moonhouse|Moon House]] is the palace above the river stair, the seat of the Mahārāja and the one building in Chandrapur nobody may rebuild.
 
-The **[[place-ganakahall|Ganaka-shala]]** is the reckoners' college, whose tables set the tides, the eclipses and the hour the year is declared in, and whose graduates keep the accounts of every court in Vedyara.
+The [[place-ganakahall|Ganaka-shala]] is the reckoners' college, whose tables set the tides, the eclipses and the hour the year is declared in, and whose graduates keep the accounts of every court in Vedyara.
 
 Above all of them stand the temples of the [[affiliation-varakpnthn|Varnaka]], which are older than the crown, confirm it, and have twice refused to.
 

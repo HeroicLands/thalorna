@@ -51,7 +51,7 @@ sohl: {system: {commonSkills: []}}
 
 - **Type:** Chartered professional guild
 - **Region:** [[place-byzariargn|Byzaría]], with chapterhouses in every League city
-- **Charter:** Originally granted by the [[affiliation-byzarianlg|Byzarian League]] Council; rolled up into the [[affiliation-magnumclgm|The Magnum Collegium]] when Byzaría was incorporated into Vylarian territory two centuries ago; both charters remain operative—the League charter as the guild's municipal foundation, the Collegium charter as its supra-realm standing
+- **Charter:** Originally granted by the [[affiliation-byzarianlg|Byzarian League]] Council; rolled up into the [[affiliation-magnumclgm|Magnum Collegium]] when Byzaría was incorporated into Vylarian territory two centuries ago; both charters remain operative—the League charter as the guild's municipal foundation, the Collegium charter as its supra-realm standing
 - **Magnum Collegium status:** Full member; the Grand Cartographer holds the Cartographers' seat on the Curia Collegiorum at Magnápolis
 
 ## Overview
@@ -83,7 +83,7 @@ In practice, the guild's standards have eroded under commercial pressure. Maps a
 ## Relations
 
 - **The League Council and Military**—primary client and overseer. The League's investigators currently include the guild in the same breath as the spy networks they are trying to dismantle.
-- **The [[affiliation-magnumclgm|The Magnum Collegium]]**—supra-realm authority. The guild's standing throughout the western Vylarian world depends on its Collegium charter; the Censores Collegiorum have, in correspondence the guild's leadership has not made public, expressed pointed interest in the espionage investigation currently underway against Master Damáklios. The matter is being held at chapter level for now; if it reaches Curia attention the consequences for the guild's charter could be substantial.
+- **The [[affiliation-magnumclgm|Magnum Collegium]]**—supra-realm authority. The guild's standing throughout the western Vylarian world depends on its Collegium charter; the Censores Collegiorum have, in correspondence the guild's leadership has not made public, expressed pointed interest in the espionage investigation currently underway against Master Damáklios. The matter is being held at chapter level for now; if it reaches Curia attention the consequences for the guild's charter could be substantial.
 - **The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]]**, particularly the **Theft Syndicate of the Eastern Docks**—quietly major purchasers of guild work for purposes the guild's charter forbids.
 - **The [[affiliation-blackledgr|Black Ledger]]**—the guild's shadow. Most Ledger members are guild-trained; many hold guild credentials and use them as cover. The Council pretends the Ledger does not exist; the city guard pretends the Council does not know.
 - **Foreign powers**—Tarvénia, an unidentified northern confederation, and at least one Vylarian province pay handsomely for League maps procured through irregular channels.

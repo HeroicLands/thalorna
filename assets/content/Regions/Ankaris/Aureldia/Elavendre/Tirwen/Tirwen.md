@@ -48,8 +48,8 @@ contest is polite, institutional and conducted through patronage. Beyond it, it 
 
 ## Its Places
 
-- **[[place-beravel|Béravel]]**—the capital, fifteen miles up the river from the sea.
-- **[[place-beravriver|The Bérav]]**—the river the whole region is arranged around.
+- [[place-beravel|Béravel]]—the capital, fifteen miles up the river from the sea.
+- [[place-beravriver|The Bérav]]—the river the whole region is arranged around.
 
 ## See Also
 

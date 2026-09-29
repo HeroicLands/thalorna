@@ -81,12 +81,12 @@ and the Nyáluba would not use the word. There is no council of named deities wi
 portfolios, no ordered hierarchy of gods, and no priesthood serving a unified creed. It is a
 **shamanic tradition**, and it is built in three layers.
 
-Above everything is a single diffuse source: **[[lore-mwangadty|Mwánga-Kúbwa]]**, the Great
+Above everything is a single diffuse source: [[lore-mwangadty|Mwánga-Kúbwa]], the Great
 Brightness, from which all spirits emerged and into which all will return. It receives nothing.
 No offering is made to it, no song is sung to it, and no shrine houses it. It is acknowledged,
 not venerated.
 
-Beneath it are the **[[lore-nyalbsprts|spirit guides]]**—totem, land, water, hunt, weather,
+Beneath it are the [[lore-nyalbsprts|spirit guides]]—totem, land, water, hunt, weather,
 ancestor and hearth—and it is the guides, not the source, that religious life is directed at.
 Each is **venerated, appeased, or warded against** according to its character. Every clan holds
 standing pacts with the guides whose territory or lineage overlaps its own.
@@ -153,7 +153,7 @@ Ashmark-adjacent purification rites—but the foundations differ. Where the Okh�
 on a singular Eternal Flame whose aspects the city-states embody, the Nyáluba Way is plural,
 lineage-bound, and oriented to the specific territory of each clan.
 
-Contact with the major Ankarian pantheons—[[affiliation-kemtnpnthn|Kemetían]] solar worship to
+Contact with the major Ankarian pantheons—[[affiliation-khelathpnthn|Khelâthi Pantheon]] solar worship to
 the north, the [[affiliation-arldnpnthn|Aurèldían]] faith of the western trade cities—has
 produced no syncretism. Nyáluba traders conduct themselves respectfully in foreign temples as
 courtesy demands, but do not take foreign gods into their own religious life. Those gods are

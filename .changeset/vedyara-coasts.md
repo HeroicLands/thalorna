@@ -12,8 +12,8 @@
 - The eastern sea carries the foreign hulls, the three kinds of ship a Vedyari
   builds, and harbors that speak a pidgin a scholar of the language cannot
   follow.
-- The southern sea carries the long passage to the Kheperi delta, the most
-  valuable voyage a Vedyari ship makes and one made on Kheperi terms.
+- The southern sea carries the long passage to the Khelâthi delta, the most
+  valuable voyage a Vedyari ship makes and one made on Khelâthi terms.
 - The western sea has no harbor on it worth the name, and its arid coast sells
   salt and dried fish.
 - Two seasonal ports at the river mouths, the island chain and its merchant

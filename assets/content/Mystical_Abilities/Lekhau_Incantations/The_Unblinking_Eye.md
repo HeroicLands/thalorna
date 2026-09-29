@@ -1,0 +1,20 @@
+---
+shortcode: unblinkingey
+name: {full: The Unblinking Eye, aliases: []}
+type: mysticalability
+subType: arcaneincantation
+description: "Sets a watch on a place that reports faithfully to the practitioner what passed there."
+tags: [gethunu-lekhau, incantation]
+data: {icon: garathenuqa, templatePriority: null, packFolder: regkhmys}
+sohl:
+  system:
+    assocSkillCode: lekhauathenq
+    masteryLevelBase: 0
+    levelBase: 2
+    charges: {value: null, max: null}
+---
+
+Inscribed at the place rather than carried, and reporting only when the practitioner returns and
+reads it. It does not raise an alarm and cannot act; it remembers, and the House regards that as
+the correct division of labor between a working and a guard. Temples, treasuries and the better
+tombs carry several, deliberately including one that is easy to find.

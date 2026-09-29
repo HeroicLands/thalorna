@@ -468,10 +468,10 @@ Elýsè's primary goal is the discovery of new alchemical recipes, medical remed
 
 ## Companions
 
-- **[[being-branwldrgr|Brànwâal Dôrgaar]]**: Captain of the Silent Talon.
-- **[[being-torniskbry|Tórnis Kúbrý]]**: Fellow band member; a developing romantic relationship.
-- **[[being-chlbrhydyn|Chéleb Rhýddýn]]**: Fellow band member.
-- **[[being-dornsyndlr|Dôren Sýndalr]]**: Fellow band member.
+- [[being-branwldrgr|Brànwâal Dôrgaar]]: Captain of the Silent Talon.
+- [[being-torniskbry|Tórnis Kúbrý]]: Fellow band member; a developing romantic relationship.
+- [[being-chlbrhydyn|Chéleb Rhýddýn]]: Fellow band member.
+- [[being-dornsyndlr|Dôren Sýndalr]]: Fellow band member.
 
 ### Patrons
 

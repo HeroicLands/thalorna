@@ -38,19 +38,19 @@ Alyssa is the most densely settled of the provinces—its countryside a near-con
 
 **The cities.**
 
-- **[[place-magnapolis|Magnápolis]]** (~1,000,000)—the imperial capital, seat of the Emperor, the Senate, and the Ordo Arcanis; so vast it is kept as its own thing rather than filed under the province. (See [[place-urbsaquiln|Urbs Aquilion]] and the [[place-pnthnrldnm|Pantheon Aurèldiānum]].)
+- [[place-magnapolis|Magnápolis]] (~1,000,000)—the imperial capital, seat of the Emperor, the Senate, and the Ordo Arcanis; so vast it is kept as its own thing rather than filed under the province. (See [[place-urbsaquiln|Urbs Aquilion]] and the [[place-pnthnrldnm|Pantheon Aurèldiānum]].)
 - **Alyssar** (~45,000)—the provincial capital, administrative seat of Alyssa proper.
-- **[[place-lentora|Lentora]]** (~32,000)—the province's second city, market and governing hub of the inner farm-and-villa country.
-- **[[place-belekos|Belekos]]** (~25,000)—a merchant city of the river valleys, grown rich on agricultural surplus and trade.
-- **[[place-velysara|Velysâra]]** (~20,000)—a secondary provincial city of columned forums and faded imperial grandeur.
+- [[place-lentora|Lentora]] (~32,000)—the province's second city, market and governing hub of the inner farm-and-villa country.
+- [[place-belekos|Belekos]] (~25,000)—a merchant city of the river valleys, grown rich on agricultural surplus and trade.
+- [[place-velysara|Velysâra]] (~20,000)—a secondary provincial city of columned forums and faded imperial grandeur.
 
 **Towns.**
 
-- **[[place-tibur|Tibur]]** (~12,000)—a market town on a great road into the capital.
+- [[place-tibur|Tibur]] (~12,000)—a market town on a great road into the capital.
 - **Corvinus** (~9,000)—a garrison town anchoring the province's interior.
-- **[[place-calvaris|Calvaris]]** (~9,000)—a temple-and-market town around an ancient hilltop precinct.
-- **[[place-ostenna|Ostenna]]** (~7,000)—a river-port town transshipping grain by barge.
-- **[[place-vennara|Vennara]]** (~6,000)—a villa-town in the hills, favored for senatorial country estates.
+- [[place-calvaris|Calvaris]] (~9,000)—a temple-and-market town around an ancient hilltop precinct.
+- [[place-ostenna|Ostenna]] (~7,000)—a river-port town transshipping grain by barge.
+- [[place-vennara|Vennara]] (~6,000)—a villa-town in the hills, favored for senatorial country estates.
 
 **Villages and villa-estates.** Beyond the towns the heartland is a near-unbroken quilt of villages and country villas of 300–1,500 souls—among them Aventis, Caldera, Tibrenna, Sorrenza, Marvale, Corennis, Vellano, Pradio, Sennara, Olivetta, Tarsenna, Quirnis, Belluno, Castellis, Florenza, Nervia, Ostrella, and Aravenna—most within a half-day's road of a market town and a magistrate. These are only the named places; the great mass of Alyssa's people live in countless smaller hamlets and farms between them.
 

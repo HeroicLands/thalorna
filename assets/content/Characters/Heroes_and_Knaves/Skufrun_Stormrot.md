@@ -472,7 +472,7 @@ Skúfrún is driven by a desire to create beauty that endures, to produce work t
 
 - **Lord Vraldmýl Braldendikh**: A wealthy noble with appreciation for fine art and textiles. He has commissioned multiple tapestries and furnishings from Skúfrún and frequently recommends her work to his peers, providing steady access to high-value commissions.
 - **The Traveling Muse Theater Company**: A prestigious performance group that requires stunning costumes and set dressings. They commission Skúfrún multiple times yearly and have become her most visible patrons, as her work appears before large audiences.
-- **The Merchant Consortium's Flagship Crews**: Successful merchant captains who value appearing prosperous commission elaborate tent pavilions and shipboard furnishings from her workshop. These provide both income and maritime visibility for her work.
+- **Lin'Zuwaret elu Aû'Khelâthu's Flagship Crews**: Successful merchant captains who value appearing prosperous commission elaborate tent pavilions and shipboard furnishings from her workshop. These provide both income and maritime visibility for her work.
 - **Princess Solveig of Malagna**: The royal family has begun commissioning items from Skúfrún, including ceremonial banners and royal furnishings. Though royal patronage is recent, it promises to elevate her status considerably.
 
 ### Enemies

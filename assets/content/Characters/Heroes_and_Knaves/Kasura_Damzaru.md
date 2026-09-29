@@ -452,7 +452,7 @@ Kasûra has no personal enemies, though the Tamzîr's enemies are by extension h
 
 ### Affiliations
 
-Shipwright of the **Tamzîr**. Daughter of a Haradian master shipwright. She has formed a particularly close bond with **[[being-cibelasrnt|Cibella Serentia]]**, the troubled young woman aboard the ship, finding in her a kindred spirit despite their vastly different circumstances.
+Shipwright of the **Tamzîr**. Daughter of a Haradian master shipwright. She has formed a particularly close bond with [[being-cibelasrnt|Cibella Serentia]], the troubled young woman aboard the ship, finding in her a kindred spirit despite their vastly different circumstances.
 
 ## Plot Hooks
 

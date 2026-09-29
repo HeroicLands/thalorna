@@ -7,13 +7,13 @@
 Two language notes spelled the emphatic/uvular k as `ḳ` — k with a dot below —
 once each, in the same list of emphatic consonants:
 
-| Note    | Was                                                     | Now                                                     |
-| ------- | ------------------------------------------------------- | ------------------------------------------------------- |
-| Kheperi | `Emphatic (pharyngealized): ṭ, ḍ, ḳ`                    | `Emphatic (pharyngealized): ṭ, ḍ, q`                    |
-| Bethuan | `**Emphatics** (ṭ, ḍ, ḳ) collapse into plain _t, d, k_` | `**Emphatics** (ṭ, ḍ, q) collapse into plain _t, d, k_` |
+| Note     | Was                                                     | Now                                                     |
+| -------- | ------------------------------------------------------- | ------------------------------------------------------- |
+| Khelâthi | `Emphatic (pharyngealized): ṭ, ḍ, ḳ`                    | `Emphatic (pharyngealized): ṭ, ḍ, q`                    |
+| Bethuan  | `**Emphatics** (ṭ, ḍ, ḳ) collapse into plain _t, d, k_` | `**Emphatics** (ṭ, ḍ, q) collapse into plain _t, d, k_` |
 
 Semitic romanisation writes this sound either way, and `q` is both the commoner
-choice and pure ASCII. It also agrees better with what the Kheperi note already
+choice and pure ASCII. It also agrees better with what the Khelâthi note already
 says about it — `q` _is_ the uvular stop, and the line describes the sound as
 "marked acoustically by uvular constriction".
 

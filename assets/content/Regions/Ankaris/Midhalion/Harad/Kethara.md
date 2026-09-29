@@ -88,7 +88,7 @@ Where [[affiliation-tamavar|Tamavar]] runs on money, Kethara runs on pride. The 
 
 Kethara's population includes a large community of war veterans—sailors and marines from the independence war who settled here afterward. These veterans are a politically potent and increasingly frustrated group. They fought for Haradian freedom and received promises of land, status, and guild membership that were never honored. The [[affiliation-auricompct|Auric Compact]] and the other great guilds view them as a nuisance; the veterans view the guilds as traitors to the cause they financed but never bled for.
 
-This is the city where the captain of the [[affiliation-thetamzir|The Tamzîr]] has the most connections—and the most enemies.
+This is the city where the captain of the [[affiliation-thetamzir|Tamzîr]] has the most connections—and the most enemies.
 
 ## Notable Features
 

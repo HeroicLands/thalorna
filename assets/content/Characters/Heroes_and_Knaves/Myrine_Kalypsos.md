@@ -531,9 +531,9 @@ Her relationship with Kallistratos is both her greatest work and her greatest vu
 
 ### Companions
 
-- **[[being-klstrtsxrchds|Kallistratos Exarchides]]**: The young Ordo Arcanis fire mage whom Myrine considers her life's most important work. She acts as his spiritual advisor, fire reader, and—from her perspective—the instrument of Vúlcan's will in his life. Their relationship is warm, sincere, and deeply unequal in ways Kallistratos has not yet perceived.
-- **[[being-phltsklfts|Philetos Kleftes]]**: The company's tactician. Myrine respects his mind and his usefulness but considers him a man of limited vision—capable of solving problems but incapable of grasping the larger purpose that drives her.
-- **[[being-shdqbnrhmndplmtcblddncr|Shadiq ibn Rahman]]**: The blade dancer and diplomat. Myrine finds him interesting—his social gifts rival her own, and she suspects he sees through her rhetoric more clearly than most. This makes him both a potential challenge and a worthy interlocutor.
+- [[being-klstrtsxrchds|Kallistratos Exarchides]]: The young Ordo Arcanis fire mage whom Myrine considers her life's most important work. She acts as his spiritual advisor, fire reader, and—from her perspective—the instrument of Vúlcan's will in his life. Their relationship is warm, sincere, and deeply unequal in ways Kallistratos has not yet perceived.
+- [[being-phltsklfts|Philetos Kleftes]]: The company's tactician. Myrine respects his mind and his usefulness but considers him a man of limited vision—capable of solving problems but incapable of grasping the larger purpose that drives her.
+- [[being-shdqbnrhmndplmtcblddncr|Shadiq ibn Rahman]]: The blade dancer and diplomat. Myrine finds him interesting—his social gifts rival her own, and she suspects he sees through her rhetoric more clearly than most. This makes him both a potential challenge and a worthy interlocutor.
 
 ### Patrons
 

@@ -9,7 +9,7 @@ data: {demonym: null, lore: [], parents: [elavendre], population: 260000, packFo
 ---
 
 **Cilfor** is Élavendre's northern coast: a quarter of a million people along the southern shore of
-**[[place-cilforbay|Cilfor Bay]]**, from which the region takes its name.
+[[place-cilforbay|Cilfor Bay]], from which the region takes its name.
 
 The climate is **cold but temperate**—gray, wet, windy, and never quite as hard as its latitude
 suggests, the sea keeping the frost off. The country behind the shore is low, boggy in places, and
@@ -21,8 +21,8 @@ thickly wooded; the coast itself is shingle and low headland rather than the cli
 The bay is the region's whole strategic problem. Thirty miles of open water at the narrows is not a
 frontier; it is a crossing, and it is crossed.
 
-**[[place-vrystwald|Vrystwald]]** lies on the far shore—wild forest country held by the Varokh
-tribes, with large bands of **[[lore-grukarfolk|Grukar]]** ranging through it out of
+[[place-vrystwald|Vrystwald]] lies on the far shore—wild forest country held by the Varokh
+tribes, with large bands of [[lore-grukarfolk|Grukar]] ranging through it out of
 [[place-grkrhlmrgn|Grukarholm]] to its east and south. Neither is a kingdom that could invade
 Élavendre. Both raid it constantly, and Cilfor is where they land.
 
@@ -50,7 +50,7 @@ it before Béravel took much notice.
 
 - **Fish, and a great deal of it.** Cold northern water and a sheltered bay make the best fishery in
   Élavendre. Salt-fish and oil go south to Tirwen and out through Calypsa.
-- **Calypsan transit.** **[[affiliation-calypsa|Calypsa]]** lies some forty miles north-north-west off the
+- **Calypsan transit.** [[affiliation-calypsa|Calypsa]] lies some forty miles north-north-west off the
   coast, just outside the mouth of the bay, and a great deal of Élavendre's northern trade is handled
   through it—including goods nobody wishes to declare.
 - **Timber and pitch** from the coastal forest, for the shipyards.

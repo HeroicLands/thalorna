@@ -26,12 +26,12 @@ fortunate.
 
 Three exceptions are recognized, and they are exceptions of person rather than of policy:
 
-- **[[affiliation-kingdmdnvr|Dúnavarre]]** is _tolerated_. Its embassies are received, heard, and
+- [[affiliation-kingdmdnvr|Dúnavarre]] is _tolerated_. Its embassies are received, heard, and
   answered briefly. Nobody would describe the reception as warm, and the Synod is under no illusion
   about the difference between being tolerated and being welcome.
-- **[[place-elavendre|Élavendre]]** is genuinely welcome, on the strength of a relationship the Sinalë
+- [[place-elavendre|Élavendre]] is genuinely welcome, on the strength of a relationship the Sinalë
   hold with that kingdom and not with this island.
-- The **[[lore-aelendnppl|Áelendan]]** most of all. An Áelendan embassy from across the water is
+- The [[lore-aelendnppl|Áelendan]] most of all. An Áelendan embassy from across the water is
   received as no human party on Aelwyth has ever been received, which every Aelwythan realm knows and
   none has been able to turn to any use.
 

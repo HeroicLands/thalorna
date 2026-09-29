@@ -5,7 +5,7 @@ name:
   aliases: [Ordo Voti Cinerei, The Ash-Sworn, The Brand of Vúlcan]
 type: affiliation
 subType: order
-description: 'Sworn purifier-knights of the Black Flame—heretic-hunters who burn what no other remedy can cleanse, inward against Sacred Forge "softness" and outward against rival faiths.'
+description: "Sworn purifier-knights of the Black Flame—heretic-hunters who burn what no other remedy can cleanse, inward against Sacred Forge “softness” and outward against rival faiths."
 tags: []
 data:
   templatePriority: null
@@ -90,7 +90,7 @@ _Aurèldían: Ordo Voti Cinerei—"The Order of the Ashen Vow"_
 
 - **Type:** Fighting religious order (heretical to the mainstream Aurèldían faith)
 - **Patron:** [[affiliation-blackflame|The Black Flame]]—Vúlcan as purifier-through-destruction, fire as weapon and instrument of dominion
-- **Region:** [[place-aureldirgn|Aurèldía]], operating clandestinely except in territories where Black Flame influence is locally tolerated; remote chapter sites in the [[place-drenavrspn|The Drenavar Spine]] and the Tarvénian highlands
+- **Region:** [[place-aureldirgn|Aurèldía]], operating clandestinely except in territories where Black Flame influence is locally tolerated; remote chapter sites in the [[place-drenavrspn|Drenavar Spine]] and the Tarvénian highlands
 
 ## Overview
 
@@ -132,7 +132,7 @@ Combat doctrine emphasizes incendiary tactics, the use of alchemical fire-throwe
 
 - **The [[affiliation-sacredforge|Sacred Forge]]**—primary doctrinal enemy. The order regards the Sacred Forge clergy as corrupt apostates from Vúlcan's true nature and treats them as a higher-priority target than non-Vúlcani heretics.
 - **The [[affiliation-ironcinder|Iron Cinder]]**—sister Black Flame order. The two orders coordinate; the Ashen Vow handles long-term theological and personnel purification, while the Iron Cinder handles immediate strike work. The relationship is cooperative but not without internal tension over priorities.
-- **The [[affiliation-ordrsldwrd|The Order of the Sealed Word]] and [[affiliation-twinbldrdr|Twinblade Order]]**—sworn enemies; the Jánus orders maintain standing arrangements with the Sacred Forge for the suppression of Ashen Vow activity in their territories.
+- **The [[affiliation-ordrsldwrd|Order of the Sealed Word]] and [[affiliation-twinbldrdr|Twinblade Order]]**—sworn enemies; the Jánus orders maintain standing arrangements with the Sacred Forge for the suppression of Ashen Vow activity in their territories.
 - **The [[affiliation-alndnwrdns|Áelendan Wardens]] and [[affiliation-groveconcl|The Grove Council]]**—the order has limited engagement with the Élavendren native institutions, which it regards as theologically separate and not its primary concern; the Wardens regard the order as a threat to the Kindred Pact when its operations brush against fae-touched territory.
 - **The Aurèldían Crowns**—formally hostile in all five kingdoms; informally protected by the Tarvénian hill-baronies.
 - **The [[affiliation-ordoarcanis|Ordo Arcanis]]**—the order regards the Ordo as a tactical opponent and a theological irrelevance; the Ordo regards the order as a security problem rather than a religious one.

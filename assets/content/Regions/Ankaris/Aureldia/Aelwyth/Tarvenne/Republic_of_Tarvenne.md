@@ -108,7 +108,7 @@ Tarvenne has cultivated its own diplomatic channels with the [[affiliation-vylar
 
 ## Commerce and Currency
 
-Republic of Tarvenne uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Republic of Tarvenne is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Republic of Tarvenne uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|Magnum Collegium]]. Republic of Tarvenne is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## Extent
 
@@ -191,7 +191,7 @@ from the corruption rather than sitting beside it.
 
 ### The Black Flame
 
-The **[[affiliation-blackflame|Black Flame]]**—Vúlcan's destructive aspect, suppressed across most of
+The [[affiliation-blackflame|Black Flame]]—Vúlcan's destructive aspect, suppressed across most of
 the Aurèldían world and reduced elsewhere to hidden shrines and secretive orders—has **enormous
 influence** in Tarvenne, and does not especially trouble to hide it.
 
@@ -208,7 +208,7 @@ the Forge asks loudly and cannot answer.
 
 ### Thánatos
 
-The other great presence is **[[affiliation-thanatos|Thánatos]]**, the Silent Judge—and he is
+The other great presence is [[affiliation-thanatos|Thánatos]], the Silent Judge—and he is
 prominent for precisely the opposite reason.
 
 In a republic where the courts work for those who can pay them to work, the god who judges everyone

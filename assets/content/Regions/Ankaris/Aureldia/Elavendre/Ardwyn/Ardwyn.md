@@ -13,19 +13,19 @@ the kingdom's eastern and southern borders: perhaps a hundred and eighty thousan
 that could hold far more and does not, because most of it is not the kingdom's to settle.
 
 Mist-shrouded peaks, glacial valleys with lakes in them, high pasture, and the deep old woods below the
-tree line. The **[[place-drenavrspn|Drenavar Spine]]** is its central range and its sacred heart.
+tree line. The [[place-drenavrspn|Drenavar Spine]] is its central range and its sacred heart.
 
 ## Áelendan Country
 
-Ardwyn is where the **[[lore-aelendnppl|Áelendan]]** live—the ancestor people of the Élavendri, who
+Ardwyn is where the [[lore-aelendnppl|Áelendan]] live—the ancestor people of the Élavendri, who
 never came down into the cities and who keep the Old Way in tribal communities under their own elders.
-The **[[place-alndntrblnds|Áelendan Tribal Lands]]** within Ardwyn are sovereign in practice and
+The [[place-alndntrblnds|Áelendan Tribal Lands]] within Ardwyn are sovereign in practice and
 protected by crown law in principle: the courts of Élavendre will act against anyone who encroaches, and
-generally do not have to, because the **[[affiliation-alndnwrdns|Áelendan Wardens]]** get there first.
+generally do not have to, because the [[affiliation-alndnwrdns|Áelendan Wardens]] get there first.
 
 This is the densest concentration of fae sites in Ankaris. The [[lore-aralwen|arálwain]], the sacred
 groves, the seated spirits—the [[place-ataanwyrd|At'aan Wyrd]] in the
-[[place-silvrfrsts|Silver Forests]], the river-mother **[[lore-aranwyspr|Aranwy]]** at the [[place-longstair|Long Stair]], the owl-spirit of the [[place-owlhollow|Owl Hollow]]—are all here,
+[[place-silvrfrsts|Silver Forests]], the river-mother [[lore-aranwyspr|Aranwy]] at the [[place-longstair|Long Stair]], the owl-spirit of the [[place-owlhollow|Owl Hollow]]—are all here,
 and all watched.
 
 ## The Wealth That Cannot Be Taken
@@ -63,11 +63,11 @@ defense.
 
 ## Its Places
 
-- **[[place-drenavrspn|The Drenavar Spine]]** · **[[place-alndntrblnds|Áelendan Tribal Lands]]** ·
-  **[[place-silvrfrsts|The Silver Forests]]**
-- **[[place-eshalshldg|Eshálosha Lodge]]**—Áelendan settlement and ceremonial center.
-- **[[place-elanmere|Elanmere]]**—the lake town at the mountains' foot.
-- **[[place-silvain|Silvain]]**—a woodland settlement of the Silver Forests.
+- [[place-drenavrspn|The Drenavar Spine]] · [[place-alndntrblnds|Áelendan Tribal Lands]] ·
+  [[place-silvrfrsts|The Silver Forests]]
+- [[place-eshalshldg|Eshálosha Lodge]]—Áelendan settlement and ceremonial center.
+- [[place-elanmere|Elanmere]]—the lake town at the mountains' foot.
+- [[place-silvain|Silvain]]—a woodland settlement of the Silver Forests.
 
 ## See Also
 
