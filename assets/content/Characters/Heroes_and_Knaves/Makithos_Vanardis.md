@@ -478,7 +478,7 @@ Màkîthos is driven by a vision of theater as the highest form of human artisti
 
 ### Affiliations
 
-- **The City Theater Company**: Principal playwright and frequent director; maintains a complicated relationship with the institution despite his central importance to its prestige.
+- [[affiliation-linshlnglzkr|Lin'Shelun elu Galezkara]]: Principal playwright and frequent director; maintains a complicated relationship with the institution despite his central importance to its prestige.
 - **The Writers' Guild**: Member in good standing, though frequently at odds with the guild's standards and expectations.
 - **The Circle of Artistic Innovation**: An informal collective of avant-garde artists and thinkers who view Màkîthos as a central figure in reshaping the city's arts.
 

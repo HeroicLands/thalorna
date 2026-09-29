@@ -426,7 +426,7 @@ Bjalfi stands 6'0" tall with a medium build. He has light fair skin, brown hair,
 
 # Dossier {#dossier}
 
-Bjalfi was born in a rural settlement of the **[[affiliation-kngdmvthgrd|Kingdom of Vithgard]]**, the son of **[[being-hrfnklhrfnsvld|Hrafnkell Hrafnsvald]]**, a soldier who enlisted in Vithgard's levy when Bjalfi was only three years old. With his father away fighting in the border conflicts, Bjalfi was raised primarily by his mother on the family's small farm in the borderlands—a region prone to bandit raids and territorial disputes. He grew up knowing his father only through stories and the occasional brief visit between campaigns.
+Bjalfi was born in a rural settlement of the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], the son of [[being-hrfnklhrfnsvld|Hrafnkell Hrafnsvald]], a soldier who enlisted in Vithgard's levy when Bjalfi was only three years old. With his father away fighting in the border conflicts, Bjalfi was raised primarily by his mother on the family's small farm in the borderlands—a region prone to bandit raids and territorial disputes. He grew up knowing his father only through stories and the occasional brief visit between campaigns.
 
 At fifteen, his family's lands were attacked by a raider band. Bjalfi's mother died defending the property, and his younger brothers were too small to help. By the time word reached [[being-hrfnklhrfnsvld|Hrafnkell]], it was over. The experience crystallized something in the young man: a burning desire to become strong enough to protect others from similar suffering—and a quiet resentment toward the father who had not been there when it mattered most.
 

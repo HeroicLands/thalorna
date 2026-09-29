@@ -38,7 +38,7 @@ data:
     unresolved: []
 ---
 
-**[[affiliation-jurthatempr|Jürthāt]]** is a mountainous island kingdom to the south-east of
+[[affiliation-jurthatempr|Jürthāt]] is a mountainous island kingdom to the south-east of
 [[affiliation-tanvurempr|Tānvür]], separated from the mainland by a treacherous strait. It was once a
 province. It broke away in a bloody war of secession and has since developed a fiercely independent
 culture.

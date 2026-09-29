@@ -23,10 +23,10 @@ It is a script, not a tongue. A character needs **both** the Helónika and the r
 
 ## What it carries
 
-- **[[skill-helonclng|Helonic]]**—the original fit, and still the prestige one. Published scholarship, drama, and philosophical argument are written in Helonic in the Helónika whatever the writer's birth tongue.
-- **[[skill-byzarnlng|Byzarian]]**—the same letters plus additions for _zh_ and the eastern _kh_, and length diacritics that formal writing feels free to omit. The scribe-houses of Temnos and Kephala standardized it.
-- **[[skill-bethunlng|Bethuan]]**—a recension with macron length marks, dedicated aspirate letterforms, a grave for pitch accent, and the **§ register-mark** that signals a shift between the masculine and feminine grammatical registers. Feminine-register texts are the more carefully pointed; temple copies are pointed throughout.
-- **[[skill-valtarlng|Valtári]]**—in the northern and Helonic-facing ports, where a docker's tally is set down in Helonic letters by whoever is holding the stylus, with no orthography worth the name.
+- [[skill-helonclng|Helonic]]—the original fit, and still the prestige one. Published scholarship, drama, and philosophical argument are written in Helonic in the Helónika whatever the writer's birth tongue.
+- [[skill-byzarnlng|Byzarian]]—the same letters plus additions for _zh_ and the eastern _kh_, and length diacritics that formal writing feels free to omit. The scribe-houses of Temnos and Kephala standardized it.
+- [[skill-bethunlng|Bethuan]]—a recension with macron length marks, dedicated aspirate letterforms, a grave for pitch accent, and the **§ register-mark** that signals a shift between the masculine and feminine grammatical registers. Feminine-register texts are the more carefully pointed; temple copies are pointed throughout.
+- [[skill-valtarlng|Valtári]]—in the northern and Helonic-facing ports, where a docker's tally is set down in Helonic letters by whoever is holding the stylus, with no orthography worth the name.
 
 ## Hands
 

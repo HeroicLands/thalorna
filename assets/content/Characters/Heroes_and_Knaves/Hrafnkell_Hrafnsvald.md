@@ -438,7 +438,7 @@ Hrafnkell stands 5'11" tall with a medium build. He has light fair skin, dark br
 
 ### From War to Craft
 
-Hrafnkell did not begin his life as a craftsman. At eighteen, he enlisted in the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]'s levy, serving as a soldier for fifteen years in the border conflicts that defined his youth. He left behind a young wife and an infant son, **[[being-bjlfhrfnsvld|Bjalfi]]**, on the family farm—a decision he told himself was necessary to provide for them, though the truth was more complicated. He earned his fire tattoo after the Burning of Kelstad, where he carried burning canvas from his company's tent before it could trap his companions inside. The experience—watching good men trapped by failure of equipment—planted a seed that would eventually transform him entirely.
+Hrafnkell did not begin his life as a craftsman. At eighteen, he enlisted in the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]'s levy, serving as a soldier for fifteen years in the border conflicts that defined his youth. He left behind a young wife and an infant son, [[being-bjlfhrfnsvld|Bjalfi]], on the family farm—a decision he told himself was necessary to provide for them, though the truth was more complicated. He earned his fire tattoo after the Burning of Kelstad, where he carried burning canvas from his company's tent before it could trap his companions inside. The experience—watching good men trapped by failure of equipment—planted a seed that would eventually transform him entirely.
 
 ### The Homecoming
 

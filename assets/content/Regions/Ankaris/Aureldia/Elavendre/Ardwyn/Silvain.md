@@ -8,7 +8,7 @@ tags: [village, woodland, sacred]
 data: {demonym: null, lore: [], parents: [silvrfrsts], population: 600, packFolder: elavendre}
 ---
 
-**Silvain** lies inside the **[[place-silvrfrsts|Silver Forests]]** of [[place-ardwyn|Ardwyn]], which
+**Silvain** lies inside the [[place-silvrfrsts|Silver Forests]] of [[place-ardwyn|Ardwyn]], which
 makes it unusual: a settled, permanent, largely Élavendri community of some six hundred souls, standing
 in country where such things are not normally permitted.
 

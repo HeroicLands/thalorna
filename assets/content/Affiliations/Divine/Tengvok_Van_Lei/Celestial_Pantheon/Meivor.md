@@ -102,7 +102,7 @@ a memo from a clerk rather than a message from a god.
 
 The bureau is the Tëngvōk Vān Lëi's expression of [[lore-goddreams|the God of Dreams]]—the same
 entity the Asguardians call Baldr, the Aurèldíans Aethería, the Ki'ichek Nal'ik Tz'uqal and the
-Kemetíans Bēs. In the Tānvüri framework this is not a coincidence but a bureaucratic anomaly: one
+Khelâthi Nehle'ât. In the Tānvüri framework this is not a coincidence but a bureaucratic anomaly: one
 being appears to hold the Dream portfolio across several celestial administrations at once, which
 no procedure accounts for and which the Tānthëi find deeply troubling.
 

@@ -63,7 +63,7 @@ The language is sometimes written with vowel diacriticals to indicate stress and
 
 Élavendri developed from Proto-Pelwar stock but in isolation from the other branches, in the northern forests and mountains of Élavendre. The language absorbed deep influence from the non-Pelwar populations of the region—people of fey heritage, indigenous forest dwellers, and magical practitioners—resulting in a tongue with features quite foreign to other Pelwar languages.
 
-The most conservative member of the Pelwar family is **[[skill-aelendlng|Áelendi]]**, spoken by the [[lore-aelendnppl|Áelendan]] people in the mountainous interior of Élavendre. Élavendri proper represents a "modernized" variant that has absorbed more external influences and grammatical simplification, particularly the loss of one gender and some synthetic verb forms.
+The most conservative member of the Pelwar family is [[skill-aelendlng|Áelendi]], spoken by the [[lore-aelendnppl|Áelendan]] people in the mountainous interior of Élavendre. Élavendri proper represents a "modernized" variant that has absorbed more external influences and grammatical simplification, particularly the loss of one gender and some synthetic verb forms.
 
 ## Regional Dialects
 

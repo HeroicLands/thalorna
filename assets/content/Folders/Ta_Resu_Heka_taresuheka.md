@@ -1,6 +1,6 @@
 ---
-shortcode: taresuheka
-name: {full: "Ta-Resu-Heka"}
+shortcode: zuzalulegulu
+name: {full: Zu-Zalu-Legulu, aliases: []}
 type: folder
-data: {parent: bordernomes, color: "#A5D6A7"}
+data: {parent: borderselatu, color: "#A5D6A7"}
 ---

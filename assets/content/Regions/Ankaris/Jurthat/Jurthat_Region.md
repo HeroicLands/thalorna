@@ -42,7 +42,7 @@ The Jürthāti practice **Rëitsīk**, a form of ritual suicide distinct from T�
 
 ## Religion
 
-The islands' faith is a divergent form of the [[affiliation-tngvkvnlei|Celestial Order]]. The broad pantheon—Celestial Dragon, Jade Sovereign, Minister of Storms, Minister of the Moon, the [[lore-fvlmntlrds|Five Elemental Lords]]—is recognizable, but interpretation has fragmented along regional and domainal lines. Coastal provinces elevate the storm and sea aspects; mountain provinces emphasize earth and metal; island shrines host cults specific to their locality. Each Great Lord claims some portion of heavenly favor for his own line, and the **[[lore-mandatehvn|Mandate of Heaven]]**—which in Tānvür is held singularly by the Emperor—has fractured into competing local claims.
+The islands' faith is a divergent form of the [[affiliation-tngvkvnlei|Celestial Order]]. The broad pantheon—Celestial Dragon, Jade Sovereign, Minister of Storms, Minister of the Moon, the [[lore-fvlmntlrds|Five Elemental Lords]]—is recognizable, but interpretation has fragmented along regional and domainal lines. Coastal provinces elevate the storm and sea aspects; mountain provinces emphasize earth and metal; island shrines host cults specific to their locality. Each Great Lord claims some portion of heavenly favor for his own line, and the [[lore-mandatehvn|Mandate of Heaven]]—which in Tānvür is held singularly by the Emperor—has fractured into competing local claims.
 
 The ceremonial emperor on Jürthāt serves this fragmented theology well: his role is to hold the symbolic center while the Great Lords pursue their regional pieties.
 

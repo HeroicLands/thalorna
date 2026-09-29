@@ -504,7 +504,7 @@ He is haunted by guilt—guilt at having survived, which manifests as compulsive
 
 - **The Byzarian League Artisans' Guild**: Ángelides holds master status and serves on the guild's board, though his attendance at meetings is sporadic. He uses his influence to advocate for rigorous standards in craft and refuses to countenance shortcuts or inferior work.
 
-- **The Society of Botanical Scholars**: An informal collective of naturalists, herbalists, and alchemists who correspond with Ángelides and occasionally undertake joint expeditions to source rare materials from dangerous or distant locations.
+- [[affiliation-linlghrglzkr|Lin'Legharu elu Galezkara]]: An informal collective of naturalists, herbalists, and alchemists who correspond with Ángelides and occasionally undertake joint expeditions to source rare materials from dangerous or distant locations.
 
 ## Plot Hooks
 

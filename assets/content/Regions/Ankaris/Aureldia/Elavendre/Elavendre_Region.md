@@ -42,7 +42,7 @@ The relationship between the two peoples is one of mutual respect. The Élavendr
 
 #### The Áelendan Wardens
 
-The most widely known Áelendan institution are the **[[affiliation-alndnwrdns|Áelendan Wardens]]**—an ancient order tasked with protecting the sacred sites of the mountains and deep forests, particularly those connected to the fae. The Wardens patrol the boundary between the settled lowlands and the wild interior, and they take their charge seriously. Trespassers who stumble into sacred territory are warned once and escorted out; those who persist or who desecrate a site are dealt with harshly. The Wardens are skilled trackers, archers, and survivalists, and they know the mountain passes and forest paths with an intimacy that no outsider can match.
+The most widely known Áelendan institution are the [[affiliation-alndnwrdns|Áelendan Wardens]]—an ancient order tasked with protecting the sacred sites of the mountains and deep forests, particularly those connected to the fae. The Wardens patrol the boundary between the settled lowlands and the wild interior, and they take their charge seriously. Trespassers who stumble into sacred territory are warned once and escorted out; those who persist or who desecrate a site are dealt with harshly. The Wardens are skilled trackers, archers, and survivalists, and they know the mountain passes and forest paths with an intimacy that no outsider can match.
 
 The kingdom's authorities accept the Wardens' jurisdiction over sacred sites without question. Even the most ambitious Élavendri noble knows better than to challenge a Warden on their own ground.
 
@@ -141,13 +141,13 @@ Relations with the [[place-nrdlndsrgn|Nordlands]] are the exception to Élavendr
 
 Élavendre divides into five, and the divisions are geographic before they are administrative:
 
-| Region                           | People  | What it is                                                                                       |
-| -------------------------------- | ------- | ------------------------------------------------------------------------------------------------ |
-| **[[place-tirwen\|Tirwen]]**     | 900,000 | the heartland basin of the Bérav—the capital, the University, and where everything is made       |
-| **[[place-glanmor\|Glanmor]]**   | 420,000 | the western seaboard: cliffs, Sinalë forest, and the thickest fae country outside the mountains  |
-| **[[place-brynavar\|Brynavar]]** | 240,000 | the eastern hills—wool, iron and the land march that takes the raiding                           |
-| **[[place-cilfor\|Cilfor]]**     | 260,000 | the northern coast on Cilfor Bay, thirty miles from Vrystwald across the water                   |
-| **[[place-ardwyn\|Ardwyn]]**     | 180,000 | the eastern and southern mountains—Áelendan country, and mineral wealth the kingdom may not take |
+| Region                       | People  | What it is                                                                                       |
+| ---------------------------- | ------- | ------------------------------------------------------------------------------------------------ |
+| [[place-tirwen\|Tirwen]]     | 900,000 | the heartland basin of the Bérav—the capital, the University, and where everything is made       |
+| [[place-glanmor\|Glanmor]]   | 420,000 | the western seaboard: cliffs, Sinalë forest, and the thickest fae country outside the mountains  |
+| [[place-brynavar\|Brynavar]] | 240,000 | the eastern hills—wool, iron and the land march that takes the raiding                           |
+| [[place-cilfor\|Cilfor]]     | 260,000 | the northern coast on Cilfor Bay, thirty miles from Vrystwald across the water                   |
+| [[place-ardwyn\|Ardwyn]]     | 180,000 | the eastern and southern mountains—Áelendan country, and mineral wealth the kingdom may not take |
 
 The kingdom's economy runs inward and then out again: raw material from the four margins, worked in
 Tirwen, exported through Béravel and the coastal ports.

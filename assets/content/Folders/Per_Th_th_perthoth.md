@@ -1,6 +1,6 @@
 ---
-shortcode: perthoth
-name: {full: "Per-Thōth"}
+shortcode: garrethsaar
+name: {full: Gar-Reth'Sa'âr, aliases: []}
 type: folder
-data: {parent: upperrivernomes, color: "#A5D6A7"}
+data: {parent: upperrivrslt, color: "#A5D6A7"}
 ---

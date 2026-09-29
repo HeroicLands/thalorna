@@ -495,11 +495,11 @@ Vànika is driven by a fundamental commitment to excellence—the conviction tha
 
 ### Enemies
 
-- **Chef Amendra**: A celebrated and fashionable chef who specializes in exotic and novel cuisine; she views Vànika as representative of outdated culinary traditions and has publicly dismissed her work as pedestrian and artistically limited.
+- Chef [[being-aqendra2|Aqendra]]: A celebrated and fashionable chef who specializes in exotic and novel cuisine; she views Vànika as representative of outdated culinary traditions and has publicly dismissed her work as pedestrian and artistically limited.
 
 - **The Culinary Progressives**: A movement among younger, ambitious cooks toward fashionable novelty and new techniques; they view Vànika's traditional approach as backward and resistant to the evolution of the culinary arts.
 
-- **Innkeeper Bhavesh**: A rival inn proprietor who employs Chef Amendra and views Vànika's reputation as directly threatening his business; he has attempted to poach her staff and has spread rumors undermining her standing.
+- **Innkeeper Bhavesh**: A rival inn proprietor who employs Chef Aqendra and views Vànika's reputation as directly threatening his business; he has attempted to poach her staff and has spread rumors undermining her standing.
 
 ### Affiliations
 
@@ -517,4 +517,4 @@ Vànika is driven by a fundamental commitment to excellence—the conviction tha
 
 3. **The Family Secret and the Ancestral Recipe**: An elderly relative dies and leaves Vànika a collection of handwritten recipes in an archaic dialect—recipes from generations of women in their family who were apparently cooks to nobility or perhaps even royalty in ancient times. The recipes describe dishes of extraordinary complexity and sophistication, suggesting that her family possesses culinary heritage far more distinguished than she realized. Yet some recipes include ingredients she cannot identify, techniques she does not understand, and apparent references to spiritual or magical properties of food. She can pursue mastery of these ancestral recipes (which could dramatically elevate her standing) and risk being changed by this previously unknown family history, or set the recipes aside as impractical nostalgia.
 
-4. **The Invitation to Excellence**: Chef Amendra, her great rival, mysteriously falls ill and, in what appears to be a deathbed reconciliation, requests that Vànika take over her prestigious position at the court of a major regional lord—a position of extraordinary prestige, wealth, and influence. The invitation is both a validation of her skill and a tremendous opportunity, yet it requires leaving her established position, her family's inn, her community, and everything she has built. There are also hints that Amendra's illness may not be entirely natural, and accepting the position might place Vànika in dangerous political circumstances. The opportunity is everything she has never quite achieved, yet accepting it requires abandoning her roots.
+4. **The Invitation to Excellence**: Chef Aqendra, her great rival, mysteriously falls ill and, in what appears to be a deathbed reconciliation, requests that Vànika take over her prestigious position at the court of a major regional lord—a position of extraordinary prestige, wealth, and influence. The invitation is both a validation of her skill and a tremendous opportunity, yet it requires leaving her established position, her family's inn, her community, and everything she has built. There are also hints that Aqendra's illness may not be entirely natural, and accepting the position might place Vànika in dangerous political circumstances. The opportunity is everything she has never quite achieved, yet accepting it requires abandoning her roots.

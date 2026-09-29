@@ -476,7 +476,7 @@ Björn's driving force is the belief that civilization itself rests upon small a
 
 - **Lady Constance Ashford**: A noble widow who has become Björn's confidante and occasional romantic interest. She secretly funds his more charitable endeavors and has warned him of court intrigue affecting his region.
 - **Magistrate Horatio Greensleeves**: The town's chief law enforcement, who relies heavily on Björn's network of informants and his insight into the community's pulse.
-- **The Merchant Consortium of Ravensholm**: The collective of trading guilds treats Björn's inn as their de facto meeting place and headquarters; they provide steady business and seek his counsel on commercial matters.
+- **Lin'Zuwaret elu Aû'Khelâthu of Ravensholm**: The collective of trading guilds treats Björn's inn as their de facto meeting place and headquarters; they provide steady business and seek his counsel on commercial matters.
 
 ### Enemies
 

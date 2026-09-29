@@ -57,7 +57,7 @@ data:
         says: >-
           The calendar is a product of Vylarian political authority and not a natural feature of the world, and its spread is a measure of where that authority reached.
         agrees: partly
-      - by: affiliation-empirtkhpr
+      - by: affiliation-empireakhlth
         says: >-
           Nothing of it. The Kheperi count from the Sep Tepy and give the western year as a conversion when they give it at all.
         agrees: silent

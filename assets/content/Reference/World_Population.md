@@ -64,7 +64,7 @@ Vylaría divides between the [[affiliation-vylarinmpr|Vylarian Empire]]'s four c
 
 | Region                                       | Population      |
 | -------------------------------------------- | --------------- |
-| [[place-takheperurgn\|Ta'Kheperu]]           | ~19,000,000     |
+| [[place-aukhelathrgq\|Aû'Khelâthu Region]]   | ~19,000,000     |
 | [[place-okharisrgn\|Okháris]]                | ~4,000,000      |
 | [[place-bethuargn\|Bethûa]]                  | ~3,000,000      |
 | [[place-sthrnsvnhs\|the Southern Savannahs]] | ~2,000,000      |
@@ -119,4 +119,4 @@ Vylaría divides between the [[affiliation-vylarinmpr|Vylarian Empire]]'s four c
 - [[affiliation-vylarinmpr|Vylarian Empire]]—the anchor polity, worked out province by province
 - [[place-magnapolis|Magnápolis]]—the world's great western metropolis
 - [[affiliation-tanvurempr|Tānvür]] · [[place-vedyarargn|Vedyara]]—the eastern giants
-- [[affiliation-empirtkhpr|Ta'Kheperu]]—the great Xerathian river-civilization
+- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—the great Xerathian river-civilization

@@ -53,7 +53,7 @@ The Tānvüri religious system does not so much tolerate other faiths as ignore 
 
 ## Politics and Power
 
-The political order is the Empire itself: a hereditary **[[lore-mandatehvn|Son of Heaven]]** whose authority is framed as cosmic appointment rather than divine blessing; a class of **Warlords** (Vüszhük) whose military power balances the throne; a caste of sorcerers (Vëndük) who are owned property of the imperial family but whose abilities are indispensable to governance; a professional scholar caste (Tānthëi) who run the administration. The [[lore-veizhatret|Vëi Zhāt Rëit]]—the game of political manipulation—is understood as an integrated part of imperial statecraft, not a corruption of it.
+The political order is the Empire itself: a hereditary [[lore-mandatehvn|Son of Heaven]] whose authority is framed as cosmic appointment rather than divine blessing; a class of **Warlords** (Vüszhük) whose military power balances the throne; a caste of sorcerers (Vëndük) who are owned property of the imperial family but whose abilities are indispensable to governance; a professional scholar caste (Tānthëi) who run the administration. The [[lore-veizhatret|Vëi Zhāt Rëit]]—the game of political manipulation—is understood as an integrated part of imperial statecraft, not a corruption of it.
 
 The Empire has never been seriously threatened from the west. Its worst enemies have always come from within (succession crises, caste revolts, Vëndük conspiracies) or from the east—which is to say, from [[place-jurthatrgn|Jürthāt]], the breakaway archipelago whose "rebellious" status has been a thousand-year stalemate of raid and counter-raid.
 

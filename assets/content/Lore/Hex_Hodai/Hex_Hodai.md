@@ -19,7 +19,7 @@ The framework predates the Ordo. Its roots lie in the Helionite city-states, whe
 
 The six Eídmata are traditionally represented as a hexagonal diagram known as the **Sigillum** (the Seal), with one Eídma at each vertex. The arrangement is not arbitrary—it encodes the relationships between the Eídmata in geometric form.
 
-Reading clockwise from the top, the Sigillum places: **[[affiliation-pyrethos|Eídma Pyréthos]]** (Fire), **[[affiliation-zepharis|Eídma Zephäris]]** (Air), **[[affiliation-physera|Eídma Physéra]]** (Earth), **[[affiliation-hydalis|Eídma Hydälis]]** (Water), **[[affiliation-sideros|Eídma Sidéros]]** (Metal), and **[[affiliation-pneumenos|Eídma Pneuménos]]** (Spirit). Each Eídma sits directly opposite its natural antagonist, connected by a line that passes through the center of the figure. At that center sits **[[affiliation-kentra|Kentra]]**—not a seventh Eídma, but the mastery of all six.
+Reading clockwise from the top, the Sigillum places: [[affiliation-pyrethos|Eídma Pyréthos]] (Fire), [[affiliation-zepharis|Eídma Zephäris]] (Air), [[affiliation-physera|Eídma Physéra]] (Earth), [[affiliation-hydalis|Eídma Hydälis]] (Water), [[affiliation-sideros|Eídma Sidéros]] (Metal), and [[affiliation-pneumenos|Eídma Pneuménos]] (Spirit). Each Eídma sits directly opposite its natural antagonist, connected by a line that passes through the center of the figure. At that center sits [[affiliation-kentra|Kentra]]—not a seventh Eídma, but the mastery of all six.
 
 The Sigillum appears throughout the Ordo's iconography: carved above chapter house doorways, embossed on the covers of arcane texts, woven into the robes of Magistri, and—most importantly—inscribed on the floor of the great examination hall in [[affiliation-provinclys|Alyssa]], where every Initiatus first learns which Eídma will claim them.
 
@@ -81,7 +81,7 @@ The most powerful workings require both mastery of Dýnaris (the ability to open
 
 ### Foreign Traditions and Cosmological Scandal
 
-The Ordo's conviction that the Héx Hodäi _is_ magic—that the Dýnaris is six-fold and the Eídmata exhaust the arcane—produces a particular kind of distress when its members encounter the magical traditions of other peoples. The arcanists of [[affiliation-tanvurempr|Tānvür]] work magic that does not align cleanly with any of the six Eídmata. The priesthood of [[affiliation-empirtkhpr|Ta'Kheperu]] speaks of nine sacred aspects of the divine arcane, drawn through divine patronage in patterns that cut across the Ordo's elemental categories entirely. The druidic traditions of [[place-elavendre|Élavendre]] appear to work without any clear Eídma attunement at all, accepting whatever the moment provides and shaping it as it comes. The völvur of the [[affiliation-kngdmnrdhm|Nordmen]] kingdoms work through runes and fate-patterns that bear no resemblance to the Sigillum. The [[lore-flksinale|Sinalë]] regard the Héx Hodäi with a polite tolerance that the Ordo finds maddening and refuses to examine too closely.
+The Ordo's conviction that the Héx Hodäi _is_ magic—that the Dýnaris is six-fold and the Eídmata exhaust the arcane—produces a particular kind of distress when its members encounter the magical traditions of other peoples. The arcanists of [[affiliation-tanvurempr|Tānvür]] work magic that does not align cleanly with any of the six Eídmata. The priesthood of [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] speaks of nine sacred aspects of the divine arcane, drawn through divine patronage in patterns that cut across the Ordo's elemental categories entirely. The druidic traditions of [[place-elavendre|Élavendre]] appear to work without any clear Eídma attunement at all, accepting whatever the moment provides and shaping it as it comes. The völvur of the [[affiliation-kngdmnrdhm|Nordmen]] kingdoms work through runes and fate-patterns that bear no resemblance to the Sigillum. The [[lore-flksinale|Sinalë]] regard the Héx Hodäi with a polite tolerance that the Ordo finds maddening and refuses to examine too closely.
 
 For an Ordo mage, sustained contact with these practices is genuinely disturbing—not in the sense of mere disagreement, but in the sense of _cosmological scandal_. Things are happening that, by the framework's lights, cannot happen. The Dýnaris cannot be drawn except through one of the Six; and yet, here is a Tānvürian arcanist drawing power that does not feel like any Eídma the mage knows. The Ordo's three available responses are all forms of refusal:
 
@@ -97,13 +97,13 @@ The Ordo's response to these objections, when pressed, is pragmatic rather than 
 
 ### The Eídmata
 
-- **[[affiliation-pyrethos|Eídma Pyréthos]]**—Fire: heat, light, energy, transformation through destruction
-- **[[affiliation-zepharis|Eídma Zephäris]]**—Air: wind, weather, sound, illusion, the intangible
-- **[[affiliation-physera|Eídma Physéra]]**—Earth: stone, growth, endurance, the body, the solid and rooted
-- **[[affiliation-hydalis|Eídma Hydälis]]**—Water: cold, flow, healing, transformation through adaptation
-- **[[affiliation-sideros|Eídma Sidéros]]**—Metal: craft, precision, binding, the material world made orderly
-- **[[affiliation-pneumenos|Eídma Pneuménos]]**—Spirit: mind, soul, communion with otherworldly entities, the immaterial
-- **[[affiliation-kentra|Kentra]]**—Center: mastery of all six Eídmata
+- [[affiliation-pyrethos|Eídma Pyréthos]]—Fire: heat, light, energy, transformation through destruction
+- [[affiliation-zepharis|Eídma Zephäris]]—Air: wind, weather, sound, illusion, the intangible
+- [[affiliation-physera|Eídma Physéra]]—Earth: stone, growth, endurance, the body, the solid and rooted
+- [[affiliation-hydalis|Eídma Hydälis]]—Water: cold, flow, healing, transformation through adaptation
+- [[affiliation-sideros|Eídma Sidéros]]—Metal: craft, precision, binding, the material world made orderly
+- [[affiliation-pneumenos|Eídma Pneuménos]]—Spirit: mind, soul, communion with otherworldly entities, the immaterial
+- [[affiliation-kentra|Kentra]]—Center: mastery of all six Eídmata
 
 ### See Also
 

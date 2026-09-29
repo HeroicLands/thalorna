@@ -23,7 +23,7 @@ difficult to hold.
 
 Thirty miles of enclosed water is not a barrier. It is a night's rowing in a shallow boat, in water
 that the enclosing arms keep far calmer than the open ocean outside, and it can be crossed in weather
-that would stop a proper ship. Varokh war-parties and **[[lore-grukarfolk|Grukar]]** bands have been
+that would stop a proper ship. Varokh war-parties and [[lore-grukarfolk|Grukar]] bands have been
 coming over it for as long as there has been anyone on the southern shore to come for, and the northern
 levy of [[place-cilfor|Cilfor]] exists for no other reason.
 

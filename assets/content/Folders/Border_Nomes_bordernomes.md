@@ -1,6 +1,6 @@
 ---
-shortcode: bordernomes
-name: {full: "Border Nomes"}
+shortcode: borderselatu
+name: {full: Border Selatu, aliases: []}
 type: folder
-data: {parent: takheperu, color: "#81C784"}
+data: {parent: aukhelathu, color: "#81C784"}
 ---

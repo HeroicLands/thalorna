@@ -21,7 +21,7 @@ Okháric is a tongue of the Okháric (isolate) family. Fluency measures the soph
 
 ## Overview
 
-Okháric is the principal tongue of the [[affiliation-okharis|Kingdom of Okháris]] and surrounding communities in the northern fertile regions of [[place-xerathia|Xerathia]]. Spoken by approximately 5-7 million people, Okháric occupies a unique position in the continent's linguistic landscape as the bridge language between the Kheperian Empire to the south and the distant civilizations of the east.
+Okháric is the principal tongue of the [[affiliation-okharis|Kingdom of Okháris]] and surrounding communities in the northern fertile regions of [[place-xerathia|Xerathia]]. Spoken by approximately 5-7 million people, Okháric occupies a unique position in the continent's linguistic landscape as the bridge language between the Khelâthi Empire to the south and the distant civilizations of the east.
 
 Unlike its neighbors, Okháric has developed a robust oral tradition alongside written literature. Religious texts in a sacred archaic form are preserved and recited by trained priests, while vernacular speech continues to evolve with marked vitality. The language reflects centuries of trade, cultural contact, and adaptation, making it a living repository of regional history.
 
@@ -100,9 +100,9 @@ Okháric predominantly follows a **Subject-Verb-Object (SVO)** order in declarat
 
 ## Script & Literacy
 
-**Traditional Script:** Okháric employs an abjadic consonantal script, [[skill-okhsshscrpt|Okh-sesh]], consisting of 23 basic characters, with diacritical marks indicating vowels. This system is ancient and is preserved in sacred texts and formal inscriptions. The consonantal base renders the script somewhat ambiguous, requiring context for correct interpretation.
+**Traditional Script:** Okháric employs an abjadic consonantal script, [[skill-okhthztscrpt|Okhatha-zethu Script]], consisting of 23 basic characters, with diacritical marks indicating vowels. This system is ancient and is preserved in sacred texts and formal inscriptions. The consonantal base renders the script somewhat ambiguous, requiring context for correct interpretation.
 
-**Hybrid Script ([[skill-okhsshscrpt|Okh-sesh-vowel]]):** A modified version adds explicit vowel markers, making it less ambiguous and more suitable for trade and administration. This system is now standard for mercantile use.
+**Hybrid Script ([[skill-okhthztscrpt|Okhatha-zethu Script]]):** A modified version adds explicit vowel markers, making it less ambiguous and more suitable for trade and administration. This system is now standard for mercantile use.
 
 **Literacy:** True literacy is confined to the priesthood, professional scribes, and perhaps 20-35% of the nobility. Guildsmen in major urban centers may possess functional literacy—recognizing trade marks, numerals, and common abbreviations—but rely on scribes for contracts and record-keeping. Rural populations are almost entirely non-literate. The priesthood maintains exclusive knowledge of the oldest liturgical forms, which are recited rather than read, reducing the practical necessity for mass literacy of the sacred texts.
 
@@ -118,7 +118,7 @@ The standardization of Classical Okháric occurred approximately 1,500 years bef
 
 ### Contact-Induced Change
 
-Unlike Vedyari and Kheperi, which have maintained relatively conservative classical standards, Okháric has been subject to more rapid vernacular change due to its role as a trade language. Extensive contact with Kheperi, Vedyari, and maritime pidgins has introduced loanwords and structural innovations.
+Unlike Vedyari and Khelâthi, which have maintained relatively conservative classical standards, Okháric has been subject to more rapid vernacular change due to its role as a trade language. Extensive contact with Khelâthi, Vedyari, and maritime pidgins has introduced loanwords and structural innovations.
 
 ### Modern Dialects
 
@@ -150,7 +150,7 @@ Regional speech shows considerable variation:
 - Verbal morphology increasingly simplified
 - Gender largely lost except in pronouns
 - Final nasals may be denasalized or simplified
-- Considerable mutual influence with Kheperi
+- Considerable mutual influence with Khelâthi
 
 ## Sample Phrases
 
@@ -164,7 +164,7 @@ Regional speech shows considerable variation:
 
 Okháric maintains linguistic contacts with several neighboring languages:
 
-- **Kheperi:** Ancient contact has left traces in sacred vocabulary and some archaic grammatical forms; modern contact is primarily through trade language
+- **Khelâthi:** Ancient contact has left traces in sacred vocabulary and some archaic grammatical forms; modern contact is primarily through trade language
 - **Vedyari:** More distant contact; some mutual intelligibility in trade pidgins, but limited direct borrowing
 - **Maritime Pidgins:** Okháric has been both a substrate and source in the development of trade linguas
 

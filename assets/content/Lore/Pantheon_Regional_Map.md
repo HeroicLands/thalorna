@@ -58,13 +58,13 @@ An eastern pantheon centered on cosmic balance, fire, and light. Predates Vylari
 - Eastern [[affiliation-cnfdrtnhrdnstts|Harad]]—significant following among eastern city-states and inland tribes
 - [[place-byzariargn|Byzaría]]—presence among merchant communities with eastern connections
 
-## [[affiliation-kemtnpnthn|Kemetian Pantheon]]
+## [[affiliation-khelathpnthn|Khelâthi Pantheon]]
 
 The ancient faith of the great southern empire, centered on solar worship and the divine pharaonic line.
 
 **Primary region:**
 
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—state religion of the empire
+- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—state religion of the empire
 
 ## [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]]
 

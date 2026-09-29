@@ -88,7 +88,7 @@ Day-to-day administration is conducted by the **Convocation of Companies**, whic
 
 ## Notable Members
 
-- **[[being-kelnstylgn|Kêlena Stylgon]]**—a founding figure of the present Collective; she helped formalize the federation twenty-three years ago and continues to wield substantial influence through it, even as her primary work has shifted to high society. The Collective treats her counsel as senior even when she does not attend gatherings.
+- [[being-kelnstylgn|Kêlena Stylgon]]—a founding figure of the present Collective; she helped formalize the federation twenty-three years ago and continues to wield substantial influence through it, even as her primary work has shifted to high society. The Collective treats her counsel as senior even when she does not attend gatherings.
 - **Léonardo Castiranni**—current First Speaker; playwright; political operator.
 - The **Teatro della Luna** company—most prestigious of the standing companies, with its own permanent venue in the capital.
 - The **Compagnia delle Maschere**—the leading touring troupe; specializes in commedia and the political mask traditions.

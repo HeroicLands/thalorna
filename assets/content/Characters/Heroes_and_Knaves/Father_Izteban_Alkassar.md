@@ -430,7 +430,7 @@ Standing at 5'11", Father Iztéban has a medium build, weighing around 170 pound
 
 # Dossier {#dossier}
 
-Iztéban Alkássar was born into a modest but respected noble family in the **[[affiliation-kingdmtrvn|Kingdom of Tarvénia]]**, a land known for its strong traditions of chivalry, honor, and justice. His father, **Álvaro Alkássar**, served as a knight in the royal guard, while his mother, **Tesera**, was the daughter of a well-known scholar. From an early age, Iztéban was taught the principles of the **Jánusian** faith, which holds sacred the ideals of protection, honor, and the defense of the weak.
+Iztéban Alkássar was born into a modest but respected noble family in the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]], a land known for its strong traditions of chivalry, honor, and justice. His father, **Álvaro Alkássar**, served as a knight in the royal guard, while his mother, **Tesera**, was the daughter of a well-known scholar. From an early age, Iztéban was taught the principles of the **Jánusian** faith, which holds sacred the ideals of protection, honor, and the defense of the weak.
 
 Although Iztéban’s family hoped he would follow in his father’s footsteps as a knight, Iztéban felt a strong calling to the clergy. He was particularly inspired by the goddess **Jánus**, the embodiment of justice and honor, who teaches her followers to defend the helpless and stand against oppression. By the age of 12, Iztéban expressed his desire to join the **Order of the Sword of Jánus**, the priesthood dedicated to serving both the spiritual and martial aspects of the Jánusian faith.
 

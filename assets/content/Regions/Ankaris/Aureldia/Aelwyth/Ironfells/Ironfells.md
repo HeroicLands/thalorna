@@ -40,7 +40,7 @@ them, and why Aldorath's wine is worth carrying to the mainland.
 ## The Khazári
 
 Somewhere in the eastern heights, where the range meets the sea cliffs, is
-**[[place-vorgald|Vorgald]]**—a hold of the [[lore-flkkhazar|Khazári]], the Deep Folk. That it exists
+[[place-vorgald|Vorgald]]—a hold of the [[lore-flkkhazar|Khazári]], the Deep Folk. That it exists
 is known. Very little else is.
 
 They came to this range **around 3100 BF**, while [[lore-khazarturn|Khazártúrn]] still stood and its

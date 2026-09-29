@@ -21,7 +21,7 @@ Bethuan is a tongue of the Helonic family. Fluency measures the sophistication o
 
 The tongue of the [[affiliation-mtrrchybth|Matriarchy of Bethua]], spoken by a people who preserved—and transformed—the ancient Helonic heritage in isolation. Bethuan represents a distinct evolutionary path from the common Helonic ancestor, retaining older phonetic features lost elsewhere while developing a unique grammatical feature unknown among the Helonic sisters: a sophisticated system of **gender registers** that reflects and reinforces the matriarchal social order. Formal educated speech in Bethuan employs a distinctly elevated, feminized register; masculine speech carries a markedly different grammatical flavor.
 
-Two forces shaped the language, and the relationship between them mirrors Bethûa's own history. Its bones are **Helonic**—Bethuan stands to mainland [[skill-helonclng|Helonic]] roughly as one Romance tongue stands to its sister, the inheritance of the Helonic colonists who first planted the realm. But laid over that inheritance is a thick stratum of **loanwords from [[skill-kheperlng|Kheperi]]**, the prestige tongue of the [[affiliation-empirtkhpr|Ta'Kheperu]] that midwifed Bethûan independence—a borrowed vocabulary concentrated in administration, water-engineering, commerce, the calendar, and luxury, much as Arabic enriched the Spanish of an older world. The deep grammar, the register system, and the core vocabulary remain Helonic to the root; the machinery of the modern state speaks in Kheperi loanwords. (See [[skill-bethunlng#the-kheperi-superstrate|The Kheperi Superstrate]].)
+Two forces shaped the language, and the relationship between them mirrors Bethûa's own history. Its bones are **Helonic**—Bethuan stands to mainland [[skill-helonclng|Helonic]] roughly as one Romance tongue stands to its sister, the inheritance of the Helonic colonists who first planted the realm. But laid over that inheritance is a thick stratum of **loanwords from [[skill-khelthlnglng|Khelâthi Language]]**, the prestige tongue of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] that midwifed Bethûan independence—a borrowed vocabulary concentrated in administration, water-engineering, commerce, the calendar, and luxury, much as Arabic enriched the Spanish of an older world. The deep grammar, the register system, and the core vocabulary remain Helonic to the root; the machinery of the modern state speaks in Khelâthi loanwords. (See [[skill-bethunlng#the-kheperi-superstrate|The Khelâthi Superstrate]].)
 
 ## Overview
 
@@ -157,64 +157,64 @@ Bethuan evolved from **Proto-Helonic** along a distinct path, isolated by geogra
 
 3. **Medieval Bethuan (500–200 years ago):** The golden age of Bethuan literature, philosophy, and theatrical arts. The feminine register reached its fullest elaboration; conservative grammar was celebrated as a marker of elite identity.
 
-4. **Modern Bethuan (200 years ago–present):** Gradual simplification of the masculine register through contact with practical trades, and—the great lexical event of the modern period—a heavy influx of **Kheperi loanwords** following independence, as the realm rebuilt its treasury, its water-engineering, its calendar, and its overseas commerce on Kheperi models (see below). Yet the prestige of the feminine register ensures its preservation in formal contexts, and the loanwords largely spared the literary language. Modern poets and philosophers deliberately employ archaic feminine forms—and pointedly _un_-borrowed Helonic vocabulary—to signal learning and refinement.
+4. **Modern Bethuan (200 years ago–present):** Gradual simplification of the masculine register through contact with practical trades, and—the great lexical event of the modern period—a heavy influx of **Khelâthi loanwords** following independence, as the realm rebuilt its treasury, its water-engineering, its calendar, and its overseas commerce on Khelâthi models (see below). Yet the prestige of the feminine register ensures its preservation in formal contexts, and the loanwords largely spared the literary language. Modern poets and philosophers deliberately employ archaic feminine forms—and pointedly _un_-borrowed Helonic vocabulary—to signal learning and refinement.
 
-## The Kheperi Superstrate {#the-kheperi-superstrate}
+## The Khelâthi Superstrate {#the-kheperi-superstrate}
 
-If the gender registers are what make Bethuan structurally unique, the **Kheperi superstrate** is what makes it sound unmistakably itself. Bethuan inherited its grammar and its core vocabulary from Helonic, but layered over that inheritance is a dense stratum of loanwords from [[skill-kheperlng|Kheperi]], the unrelated and far older tongue of [[affiliation-empirtkhpr|Ta'Kheperu]]. The parallel is to the Arabic stratum in an older world's Spanish: a prestigious neighbor's vocabulary, entering not by descent but by cultural gravity and patronage, and clustering tightly in particular domains of life.
+If the gender registers are what make Bethuan structurally unique, the **Khelâthi superstrate** is what makes it sound unmistakably itself. Bethuan inherited its grammar and its core vocabulary from Helonic, but layered over that inheritance is a dense stratum of loanwords from [[skill-khelthlnglng|Khelâthi Language]], the unrelated and far older tongue of [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]. The parallel is to the Arabic stratum in an older world's Spanish: a prestigious neighbor's vocabulary, entering not by descent but by cultural gravity and patronage, and clustering tightly in particular domains of life.
 
-The borrowing followed the realm's history. When Ta'Kheperu backed Bethûan independence and the new state rebuilt its institutions on Kheperi models, it imported the words along with the methods. The result is that the technical, administrative, and commercial life of Bethûa is conducted in a Helonic grammar studded with Kheperi nouns—while the language of poetry, philosophy, and the temple stays defiantly Helonic.
+The borrowing followed the realm's history. When Aû'Khelâthu backed Bethûan independence and the new state rebuilt its institutions on Khelâthi models, it imported the words along with the methods. The result is that the technical, administrative, and commercial life of Bethûa is conducted in a Helonic grammar studded with Khelâthi nouns—while the language of poetry, philosophy, and the temple stays defiantly Helonic.
 
 ### Domains of Borrowing
 
 The loans are overwhelmingly **concrete nouns**, and they pile up exactly where the modern state and economy do:
 
-| Domain                 | Bethuan loan (illustrative) | Meaning                           | Kheperi source / note                                                                            |
-| ---------------------- | --------------------------- | --------------------------------- | ------------------------------------------------------------------------------------------------ |
-| Water & engineering    | _qanat_                     | underground tunnel-well           | the irrigation form the Kheperi taught                                                           |
-|                        | _et-tareb_                  | aqueduct                          | fossilized article _et-_                                                                         |
-|                        | _en-mûna_                   | cistern, reservoir                | fossilized article _en-_                                                                         |
-| Money & administration | _deben_, _kite_             | the weight-currency units         | the realm has no native coinage                                                                  |
-|                        | _et-makhs_                  | customs-toll, the impost          | from a Kheperi root for "tax"                                                                    |
-|                        | _khetem_                    | seal; a sealed warrant            | Kheperi _ḫtm_, "to seal"                                                                         |
-|                        | _sesh_                      | an official document, the writ    | Kheperi _sš_, "scribe/writing"                                                                   |
-| Commerce & the sea     | _en-meret_                  | quay, the harbor-front            | Kheperi _mryt_, "quay"                                                                           |
-|                        | _makhzen_                   | bonded warehouse, store           | cf. the same root behind _almacén_                                                               |
-| Calendar & measure     | _renpet_                    | year (in era-reckoning)           | as in _Renpet Sep Tepy_                                                                          |
-|                        | _Akhet, Peret, Shemu_       | the three seasons                 | the Kheperi agricultural year                                                                    |
-| Faith & divination     | _makhat_                    | the scales; the oracular weighing | Kheperi _mḫat_, "balance"; tied to the [[affiliation-arldnpnthn\|Aethérían]] oracle's "weighing" |
-| Luxury & material      | _shemen_                    | fragrant oil, unguent             | a trade-good loan                                                                                |
-|                        | _natrun_                    | natron, cleaning-salt             | a material-culture loan                                                                          |
+| Domain                 | Bethuan loan (illustrative) | Meaning                           | Khelâthi source / note                                                                            |
+| ---------------------- | --------------------------- | --------------------------------- | ------------------------------------------------------------------------------------------------- |
+| Water & engineering    | _qanat_                     | underground tunnel-well           | the irrigation form the Khelâthi taught                                                           |
+|                        | _et-tareb_                  | aqueduct                          | fossilized article _et-_                                                                          |
+|                        | _en-mûna_                   | cistern, reservoir                | fossilized article _en-_                                                                          |
+| Money & administration | _deben_, _kite_             | the weight-currency units         | the realm has no native coinage                                                                   |
+|                        | _et-makhs_                  | customs-toll, the impost          | from a Khelâthi root for "tax"                                                                    |
+|                        | _khetem_                    | seal; a sealed warrant            | Khelâthi _ḫtm_, "to seal"                                                                         |
+|                        | _sesh_                      | an official document, the writ    | Khelâthi _sš_, "scribe/writing"                                                                   |
+| Commerce & the sea     | _en-meret_                  | quay, the harbor-front            | Khelâthi _mryt_, "quay"                                                                           |
+|                        | _makhzen_                   | bonded warehouse, store           | cf. the same root behind _almacén_                                                                |
+| Calendar & measure     | _renpet_                    | year (in era-reckoning)           | as in _Renpet Qet Telgu_                                                                          |
+|                        | _Azlet, Gelet, Shelu_       | the three seasons                 | the Khelâthi agricultural year                                                                    |
+| Faith & divination     | _makhat_                    | the scales; the oracular weighing | Khelâthi _mḫat_, "balance"; tied to the [[affiliation-arldnpnthn\|Aethérían]] oracle's "weighing" |
+| Luxury & material      | _shemen_                    | fragrant oil, unguent             | a trade-good loan                                                                                 |
+|                        | _natrun_                    | natron, cleaning-salt             | a material-culture loan                                                                           |
 
 _(These forms are illustrative; the pattern matters more than any single coinage.)_
 
-### How Kheperi Words Are Nativized
+### How Khelâthi Words Are Nativized
 
-Kheperi has sounds Bethuan does not, and they are regularly smoothed away on the tongue of a Bethuan speaker:
+Khelâthi has sounds Bethuan does not, and they are regularly smoothed away on the tongue of a Bethuan speaker:
 
 - **Emphatics** (ṭ, ḍ, q) collapse into plain _t, d, k_.
-- **Pharyngeals** (ḥ, ẓ) and the Kheperi **glottal stop** are dropped, or ḥ hardens to Bethuan _kh_, a throaty rasp; a lost glottal stop usually leaves a Bethuan **hiatus** in its place.
-- Kheperi's spare three-vowel system (_a, i, u_) is recolored into Bethuan's richer set, typically by **lengthening** (_a > â, i > î, u > û_) and by epenthetic _e_ and _o_.
+- **Pharyngeals** (ḥ, ẓ) and the Khelâthi **glottal stop** are dropped, or ḥ hardens to Bethuan _kh_, a throaty rasp; a lost glottal stop usually leaves a Bethuan **hiatus** in its place.
+- Khelâthi's spare three-vowel system (_a, i, u_) is recolored into Bethuan's richer set, typically by **lengthening** (_a > â, i > î, u > û_) and by epenthetic _e_ and _o_.
 - **Consonant clusters**, which Bethuan dislikes, are broken with an inserted vowel (the same epenthesis that turns _sketar_ into _seekatar_).
 - Stress is reset to the Bethuan **paroxytone** default.
 
-The single most recognizable mark of a Kheperi loan, though, is the **fossilized article**. Kheperi nouns often entered Bethuan with their definite article _en-_ or _et-_ still attached, and Bethuan speakers ceased to parse it as an article at all—so the word _is_ _en-meret_, "the quay," article and all, exactly as an older world's _al-_ froze into *al*cázar and *al*macén. A prefixed _en-_ or _et-_ on an otherwise opaque noun is, to a Helonic ear, the instant tell of a Kheperi borrowing.
+The single most recognizable mark of a Khelâthi loan, though, is the **fossilized article**. Khelâthi nouns often entered Bethuan with their definite article _en-_ or _et-_ still attached, and Bethuan speakers ceased to parse it as an article at all—so the word _is_ _en-meret_, "the quay," article and all, exactly as an older world's _al-_ froze into *al*cázar and *al*macén. A prefixed _en-_ or _et-_ on an otherwise opaque noun is, to a Helonic ear, the instant tell of a Khelâthi borrowing.
 
 ### The Register Split
 
 The most telling fact about the superstrate is **where it does and does not appear**, and the answer maps precisely onto Bethuan's two registers—and onto the realm's politics.
 
-The **feminine register**—the language of the temple, the law, philosophy, and high poetry—is **deliberately purist Helonic**. A hymn to [[affiliation-arldnpnthn|Lúsinía]] or a formal judgment will contain almost no Kheperi vocabulary; where a loanword exists for a thing, the cultivated speaker reaches past it for the inherited Helonic synonym. To lard formal or sacred speech with Kheperi loans is to mark oneself as ill-bred—"talking like a counting-house," in the Bethuan phrase.
+The **feminine register**—the language of the temple, the law, philosophy, and high poetry—is **deliberately purist Helonic**. A hymn to [[affiliation-arldnpnthn|Lúsinía]] or a formal judgment will contain almost no Khelâthi vocabulary; where a loanword exists for a thing, the cultivated speaker reaches past it for the inherited Helonic synonym. To lard formal or sacred speech with Khelâthi loans is to mark oneself as ill-bred—"talking like a counting-house," in the Bethuan phrase.
 
-The **masculine and practical register**—and all technical, administrative, mercantile, and maritime speech regardless of who is speaking—is **saturated** with the Kheperi stratum. One simply cannot run the qanats, keep the treasury's books, clear cargo on the quay, or reckon the calendar without it, and within those domains the loanwords carry their own prestige: they are the vocabulary of competence. An engineer-priestess of the [[affiliation-mtrrchybth|Order of the Waters]] and a hymn-singing priestess of the same temple will speak about water in two almost different languages—one in Kheperi jargon, the other in Helonic poetry.
+The **masculine and practical register**—and all technical, administrative, mercantile, and maritime speech regardless of who is speaking—is **saturated** with the Khelâthi stratum. One simply cannot run the qanats, keep the treasury's books, clear cargo on the quay, or reckon the calendar without it, and within those domains the loanwords carry their own prestige: they are the vocabulary of competence. An engineer-priestess of the [[affiliation-mtrrchybth|Order of the Waters]] and a hymn-singing priestess of the same temple will speak about water in two almost different languages—one in Khelâthi jargon, the other in Helonic poetry.
 
-The result is a productive irony that runs through all of Bethûan life: the most prestigious register is the most linguistically _purist_, while the actual machinery of the state speaks the patron's tongue. Among the fashionable, a sprinkling of Kheperi vocabulary in conversation signals worldliness and good connections at Wasetkara; among the priestly conservatives, the same habit signals exactly the creeping foreign dependence they distrust. A character's Bethuan can therefore say a great deal about where she stands—Helonic purism for the temple traditionalist, Kheperi-flavored speech for the engineer, the merchant, and the cosmopolitan.
+The result is a productive irony that runs through all of Bethûan life: the most prestigious register is the most linguistically _purist_, while the actual machinery of the state speaks the patron's tongue. Among the fashionable, a sprinkling of Khelâthi vocabulary in conversation signals worldliness and good connections at Galezkara; among the priestly conservatives, the same habit signals exactly the creeping foreign dependence they distrust. A character's Bethuan can therefore say a great deal about where she stands—Helonic purism for the temple traditionalist, Khelâthi-flavored speech for the engineer, the merchant, and the cosmopolitan.
 
 ### A Practical-Register Sample
 
 Where the feminine examples above (see Sample Constructions) run on pure Helonic vocabulary, ordinary practical speech mixes the strata freely:
 
-- _En-meret'sh makhzen pleôs et-makhs_—"The quay's warehouse is full; (pay) the customs-due" (masculine register: enclitic possessive _'sh_, reduced inflection, three Kheperi loans—_en-meret, makhzen, et-makhs_—carried on a Helonic frame).
+- _En-meret'sh makhzen pleôs et-makhs_—"The quay's warehouse is full; (pay) the customs-due" (masculine register: enclitic possessive _'sh_, reduced inflection, three Khelâthi loans—_en-meret, makhzen, et-makhs_—carried on a Helonic frame).
 
 ## Regional Dialects
 
@@ -244,9 +244,9 @@ Bethuan is a distinct member of the **Helonic language family**, alongside:
 
 - **Helonic**—The ancient common ancestor; Bethuan shares vocabulary and grammar but has developed the unique register system. Bethuan stands to mainland Helonic roughly as one Romance tongue stands to a sister: clearly related, broadly intelligible in their shared core, distinct in sound and idiom.
 - **Byzarian**—The synthetic crossroads language; more distantly related through the shared Helonic base
-- **[[skill-kheperlng|Kheperi]]**—Not a relative at all, but the great _lexical_ influence on Bethuan: an unrelated isolate from which Bethuan has borrowed a heavy stratum of administrative, technical, commercial, and luxury vocabulary (see [[skill-bethunlng#the-kheperi-superstrate|The Kheperi Superstrate]]). The grammar and core lexicon remain Helonic; the loanwords sit on top.
+- [[skill-khelthlnglng|Khelâthi Language]]—Not a relative at all, but the great _lexical_ influence on Bethuan: an unrelated isolate from which Bethuan has borrowed a heavy stratum of administrative, technical, commercial, and luxury vocabulary (see [[skill-bethunlng#the-kheperi-superstrate|The Khelâthi Superstrate]]). The grammar and core lexicon remain Helonic; the loanwords sit on top.
 
-Educated speakers of Helonic can understand formal Bethuan relatively easily—the prestige register's purism works in their favor—but find practical Bethuan harder, between the masculine register's simplifications and the thicket of Kheperi loanwords that mean nothing to a Helonic ear. Byzarian speakers find Bethuan's flowing vowels and softer consonants somewhat difficult but can manage with exposure.
+Educated speakers of Helonic can understand formal Bethuan relatively easily—the prestige register's purism works in their favor—but find practical Bethuan harder, between the masculine register's simplifications and the thicket of Khelâthi loanwords that mean nothing to a Helonic ear. Byzarian speakers find Bethuan's flowing vowels and softer consonants somewhat difficult but can manage with exposure.
 
 ## Naming Traditions
 

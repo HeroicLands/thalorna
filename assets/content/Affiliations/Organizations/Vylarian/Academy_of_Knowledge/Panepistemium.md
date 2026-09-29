@@ -113,7 +113,7 @@ The traditional colleges of the Epistemium, as they existed in the Helionite per
 
 ### The Magnápolis Campus
 
-The institution's spiritual home is [[place-helionis|Heliónis]], and [[affiliation-thyrenae|Thyrenae]] its birthplace, but its largest and most politically central seat is in the imperial capital, **[[place-magnapolis|Magnápolis]]**, where the campus sits in two very different registers.
+The institution's spiritual home is [[place-helionis|Heliónis]], and [[affiliation-thyrenae|Thyrenae]] its birthplace, but its largest and most politically central seat is in the imperial capital, [[place-magnapolis|Magnápolis]], where the campus sits in two very different registers.
 
 A small, rarefied compound, the [[place-aulpnpstmm|Aula Panepistemium]] stands within the [[place-urbsaquiln|Urbs Aquilion]], against the Palace precinct. This is not a school but the institution's seat of counsel and keeping: a standing body of senior scholars who answer directly to the throne, the [[affiliation-curiavylar|Senate]], and the great houses, together with the **Bibliotheca Reservata**—a warded library of the rarest manuscripts, conquered archives, and arcane artifacts too valuable or too dangerous to hold anywhere less secure.
 

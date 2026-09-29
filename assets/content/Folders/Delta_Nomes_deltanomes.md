@@ -1,6 +1,6 @@
 ---
-shortcode: deltanomes
-name: {full: "Delta Nomes"}
+shortcode: deltaselatu
+name: {full: Delta Selatu, aliases: []}
 type: folder
-data: {parent: takheperu, color: "#81C784"}
+data: {parent: aukhelathu, color: "#81C784"}
 ---

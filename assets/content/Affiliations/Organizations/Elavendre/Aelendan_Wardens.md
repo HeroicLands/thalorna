@@ -127,7 +127,7 @@ The Wardens have no central headquarters in the manner of a lowland military ord
 
 The principal concentrations of Wardens correspond to the most sacred sites:
 
-- **[[place-drenavrspn|The Drenavar Spine]]**—The central sacred range, with the largest Warden presence
+- [[place-drenavrspn|The Drenavar Spine]]—The central sacred range, with the largest Warden presence
 - **The Silver Forests**—Ancient fae-touched woodland under heavy Warden watch
 - **Mountain sanctuaries and grove shrines**—Scattered across the interior, each with its own small complement of Wardens
 

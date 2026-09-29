@@ -87,7 +87,7 @@ The Auric Compact is the most powerful institution in the [[affiliation-cnfdrtnh
 
 ## Character
 
-The Compact operates through a network of counting houses in every major Haradian city and most major ports of the [[place-vylarianse|Vylarian Sea]]. Its agents—factors, assessors, and debt collectors—are a familiar sight in harbors from [[affiliation-provincvld|Vald]] to [[place-helionis|Heliónis]] to [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]. The Compact's letter of credit is accepted as currency across Mídhalión; its seal on a contract is as binding as any court order.
+The Compact operates through a network of counting houses in every major Haradian city and most major ports of the [[place-vylarianse|Vylarian Sea]]. Its agents—factors, assessors, and debt collectors—are a familiar sight in harbors from [[affiliation-provincvld|Vald]] to [[place-helionis|Heliónis]] to [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]. The Compact's letter of credit is accepted as currency across Mídhalión; its seal on a contract is as binding as any court order.
 
 The Compact financed the Haradian War of Independence—a calculated investment that paid off spectacularly when the post-war government fell under guild control. The Compact now holds the Confederation's debt and uses this leverage to ensure that government policy serves commercial interests. Taxes are kept low on guild operations; tariffs protect guild monopolies; and the courts enforce guild contracts with enthusiasm.
 

@@ -462,7 +462,7 @@ Kallíxenos is driven by the desire to regain his prominent position within the 
 
 ### Patrons
 
-- **The Litigant's Guild**: Official organization that still employs him in advisory capacity, though his role is more limited than in his glory days.
+- [[affiliation-lingnztglzkr|Lin'Genzet elu Galezkara]]: Official organization that still employs him in advisory capacity, though his role is more limited than in his glory days.
 - **Lord Merchant Vasilis**: A major trader whose commercial interests Kallíxenos has protected through countless suits at law, maintaining a mutually beneficial relationship of considerable depth.
 - **The Byzarian Consortium of Shipping Merchants**: A trade organization that regularly seeks his counsel on the League's trade rules and how to turn them against rivals.
 
@@ -473,7 +473,7 @@ Kallíxenos is driven by the desire to regain his prominent position within the 
 
 ### Affiliations
 
-- **The Litigant's Guild of Byzaría**: Official organization governing advocates and pleaders in commercial law.
+- **Lin'Genzet elu Galezkara of Byzaría**: Official organization governing advocates and pleaders in commercial law.
 - **The Council of Master Advocates**: Informal organization of senior litigants who meet to discuss precedent and strategy, though Kallíxenos's position within it has weakened.
 
 ## Plot Hooks

@@ -380,7 +380,7 @@ As night falls, the temperature drops and the darkness becomes attentive. A figu
 
 # Dossier {#dossier}
 
-**Tereb** (plural _terebu_; "terebs" at the table) is the learned name for the intelligent undead, from the Kheperi root _t-r-b_, to wear, to cloak: _the cloaked one_. A tereb is a powerful individual who has undergone deliberate, prepared rituals to persist past death—a vampire, an undying lord, a dread-priest, a sorcerer-emperor who rules from beyond the grave, or a similar figure—and who wears its former self as a garment. The cloak holds for a short time and not too closely: a tereb can pass for a living person across a room or through a brief exchange, but under close eyes and long company the cloak frays, because nothing wears it from inside but the will. See [[lore-undead|Undead]] for the learned terms and the folk names.
+**Tereb** (plural _terebu_; "terebs" at the table) is the learned name for the intelligent undead, from the Khelâthi root _t-r-b_, to wear, to cloak: _the cloaked one_. A tereb is a powerful individual who has undergone deliberate, prepared rituals to persist past death—a vampire, an undying lord, a dread-priest, a sorcerer-emperor who rules from beyond the grave, or a similar figure—and who wears its former self as a garment. The cloak holds for a short time and not too closely: a tereb can pass for a living person across a room or through a brief exchange, but under close eyes and long company the cloak frays, because nothing wears it from inside but the will. See [[lore-undead|Undead]] for the learned terms and the folk names.
 
 ## The Creation Process
 

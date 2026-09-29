@@ -1,6 +1,6 @@
 ---
-shortcode: perankhet
-name: {full: "Per-Ankhet"}
+shortcode: garanlaghet
+name: {full: Gar-Anlaghet, aliases: []}
 type: folder
-data: {parent: deltanomes, color: "#A5D6A7"}
+data: {parent: deltaselatu, color: "#A5D6A7"}
 ---

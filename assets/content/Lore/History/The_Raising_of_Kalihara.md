@@ -42,7 +42,7 @@ data:
 
 What the Ithári made on Kalihara was not a people improved but a civilization invented. It arrived
 complete: agriculture, medicine, governance, a vocabulary for all of it, and
-**[[affiliation-tharivaan|Thári'vaan]]**, a disciplined account of the world as a single living whole
+[[affiliation-tharivaan|Thári'vaan]], a disciplined account of the world as a single living whole
 to be observed and tended rather than mastered or appeased.
 
 The Kaliharans hold that they were taught because teaching was the right way to treat what the Ithári

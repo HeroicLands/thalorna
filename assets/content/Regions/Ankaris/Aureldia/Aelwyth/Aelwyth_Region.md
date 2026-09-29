@@ -15,11 +15,11 @@ Off the western coast of [[place-ankrscntnnt|Ankaris Continent]], some hundred m
 
 Aelwyth is a large island of markedly unequal country, and its shape governs its politics.
 
-**The east** is mountain. The **[[place-ironfells|Ironfells]]** rise along the southern edge of
+**The east** is mountain. The [[place-ironfells|Ironfells]] rise along the southern edge of
 [[affiliation-jrldmstrmvld|Stormveld]], run eastward to the sea, then turn **south down the coast**,
 descending by degrees into foothills and at last into the lowlands of
 [[affiliation-kingdmdnvr|Dúnavarre]] in the south-east. Only **two passes** cross them, both through deep
-wilderness, and in their eastern heights is **[[place-vorgald|Vorgald]]**, a hold of the
+wilderness, and in their eastern heights is [[place-vorgald|Vorgald]], a hold of the
 [[lore-flkkhazar|Khazári]].
 
 **The north-east** is [[affiliation-jrldmstrmvld|Stormveld]]: a great central plain, the
@@ -36,7 +36,7 @@ known as far as the mainland.
 **The west** is open: the [[place-cntrlhghlnds|Central Highlands]] at the island's middle, falling to the
 western coastal country of [[affiliation-repblctrvn|Tarvenne]], and reaching north to the Peshtar forests.
 
-**The south**, below Aldorath and west of Dúnavarre, is the **[[place-hallowwood|Hallowwood]]**—deep
+**The south**, below Aldorath and west of Dúnavarre, is the [[place-hallowwood|Hallowwood]]—deep
 fae forest where the [[lore-flksinale|Sinalë]] of Aelwyth live, and which does not welcome visitors.
 
 ## Climate
@@ -47,10 +47,10 @@ The **western coast** has the worst of it. Wind comes off the ocean unbroken, fo
 condition of a great many days, and chill is the year-round expectation rather than the winter one. The
 northern coast is little better and the mountains are worse.
 
-The exceptions are two and both are sheltered. The **[[place-cntrlhghlnds|Central Highlands]]** stand
+The exceptions are two and both are sheltered. The [[place-cntrlhghlnds|Central Highlands]] stand
 above the coastal fog, which is a low thing, and are clearer and warmer than anywhere else—relative to
 Aelwyth, which is to say a Provenzian would still want his cloak. And the slopes of
-**[[place-sunnerslade|Sunnerslade]]**, in the Ironfells' rain-shadow, are dry and warm enough to ripen
+[[place-sunnerslade|Sunnerslade]], in the Ironfells' rain-shadow, are dry and warm enough to ripen
 vines, which is the single most improbable fact about the island's agriculture.
 
 ## Polities
@@ -84,7 +84,7 @@ Scattered between the major realms are smaller kingdoms, free cities, and indepe
 
 The [[affiliation-arldnpnthn|Aurèldían Pantheon]] is dominant in the southern and eastern kingdoms, with [[affiliation-arldnpnthn|Aethería]], [[affiliation-arldnpnthn|Lúsinía]], and [[affiliation-arldnpnthn|Karnavos]] being particularly prominent. [[affiliation-arldnpnthn|Jánus]] holds special importance in Dúnavarre. The Nordmen of the Stormveld worship the [[affiliation-asguardian|Asguardian Pantheon]] gods. Local folk traditions—spirits of the lake, guardians of crossroads, ancestral ghosts—layer additional beliefs atop the formal pantheons.
 
-The **[[affiliation-repblctrvn|Republic of Tarvenne]]** in the west is the exception on the island and something of an exception in the Aurèldían world. The [[affiliation-blackflame|Black Flame]]—suppressed nearly everywhere else—carries enormous influence there, for the straightforward reason that suppression requires magistrates and Tarvenne's magistracies are for sale. So does [[affiliation-thanatos|Thánatos]], the Silent Judge, for the opposite reason: in a republic whose courts work for whoever pays them, a god who cannot be bought is the only judge most Tarvennese will ever meet on equal terms with their betters.
+The [[affiliation-repblctrvn|Republic of Tarvenne]] in the west is the exception on the island and something of an exception in the Aurèldían world. The [[affiliation-blackflame|Black Flame]]—suppressed nearly everywhere else—carries enormous influence there, for the straightforward reason that suppression requires magistrates and Tarvenne's magistracies are for sale. So does [[affiliation-thanatos|Thánatos]], the Silent Judge, for the opposite reason: in a republic whose courts work for whoever pays them, a god who cannot be bought is the only judge most Tarvennese will ever meet on equal terms with their betters.
 
 ## Magic
 
@@ -171,7 +171,7 @@ alarming thing the great majority will ever meet is a bad winter.
 The reputation is wrong about the people and **right about the land**—and, within living memory, right
 about something else as well.
 
-There are **[[lore-grukaraelwyth|Grukar on Aelwyth]]**, and there have been for the better part of
+There are [[lore-grukaraelwyth|Grukar on Aelwyth]], and there have been for the better part of
 **seven hundred years**—established in the empty third of the island, endemic, and impossible to
 eradicate. The mainland's talk of fell creatures in the Aelwythan woods is very old, and so are they.
 It is entirely possible the reputation was always about them.

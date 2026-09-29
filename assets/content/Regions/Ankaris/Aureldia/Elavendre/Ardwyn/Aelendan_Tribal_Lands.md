@@ -22,7 +22,7 @@ To cross into the Tribal Lands is to pass out of the jurisdiction of royal magis
 
 ## Geography
 
-The Lands occupy the broad mountainous interior that rises behind the coastal plains and lowland river valleys where the settled [[place-elavendre|Élavendri]] make their cities. The heart of the territory is the **[[place-drenavrspn|Drenavar Spine]]**, a sacred range whose peaks and high valleys hold the most ancient sites of the Kindred Pact. Around the mountains lie the ancient forests—oldest among them the **Silver Forests**, a fae-touched woodland of unusual depth and darkness that the Áelendan and the Sinalë share as neighbors.
+The Lands occupy the broad mountainous interior that rises behind the coastal plains and lowland river valleys where the settled [[place-elavendre|Élavendri]] make their cities. The heart of the territory is the [[place-drenavrspn|Drenavar Spine]], a sacred range whose peaks and high valleys hold the most ancient sites of the Kindred Pact. Around the mountains lie the ancient forests—oldest among them the **Silver Forests**, a fae-touched woodland of unusual depth and darkness that the Áelendan and the Sinalë share as neighbors.
 
 The landscape is characterized by:
 
@@ -34,7 +34,7 @@ The landscape is characterized by:
 
 ### The Cervaron Frontier
 
-The eastern edge of the Áelendan sacred country runs along the **[[place-vylariargn#the-cervaron-spine|Cervaron Spine]]**—the great mountain arc that separates Élavendre from the [[affiliation-vylarinmpr|Vylarian Empire]]. The Cervaron is, by Áelendan reckoning, an inseparable extension of the same sacred high country that includes the Drenavar Spine and the other interior ranges: the same First Gods dwell on its peaks, the same glacier-springs feed the world's first waters, the same Kindred Pact binds its protocols. The Vylarian chancery, by its own reckoning, considers the Cervaron Vylarian territory and has done so since the early Republic. The two reckonings have never been reconciled. Vylarian punitive expeditions across the Cervaron passes have been repulsed every time they have been attempted; Áelendan war-bands have crossed east into Vylarian frontier districts more than once in retaliation, and have always returned home. The result is a stable but unresolved standoff in which the Áelendan effectively control the range, the Vylarian Senate continues to claim it, and Vylarian merchants who need to cross with goods pay informal "passage-gifts" to the local clans and are granted safe conduct in return.
+The eastern edge of the Áelendan sacred country runs along the [[place-vylariargn#the-cervaron-spine|Cervaron Spine]]—the great mountain arc that separates Élavendre from the [[affiliation-vylarinmpr|Vylarian Empire]]. The Cervaron is, by Áelendan reckoning, an inseparable extension of the same sacred high country that includes the Drenavar Spine and the other interior ranges: the same First Gods dwell on its peaks, the same glacier-springs feed the world's first waters, the same Kindred Pact binds its protocols. The Vylarian chancery, by its own reckoning, considers the Cervaron Vylarian territory and has done so since the early Republic. The two reckonings have never been reconciled. Vylarian punitive expeditions across the Cervaron passes have been repulsed every time they have been attempted; Áelendan war-bands have crossed east into Vylarian frontier districts more than once in retaliation, and have always returned home. The result is a stable but unresolved standoff in which the Áelendan effectively control the range, the Vylarian Senate continues to claim it, and Vylarian merchants who need to cross with goods pay informal "passage-gifts" to the local clans and are granted safe conduct in return.
 
 ## The Tarvénan Diaspora {#the-tarvenan-diaspora}
 
@@ -67,8 +67,8 @@ A handful of chartered lowland settlements sit at the edge of the Lands, serving
 
 ## Notable Places
 
-- **[[place-drenavrspn|The Drenavar Spine]]**—The sacred mountain range at the heart of the Lands; the most densely Pact-bound territory and the largest concentration of Wardens
-- **[[place-eshalshldg|Eshálosha Lodge]]**—The principal Áelendan settlement, a ceremonial and political gathering place in a sheltered valley of the Drenavar Spine
+- [[place-drenavrspn|The Drenavar Spine]]—The sacred mountain range at the heart of the Lands; the most densely Pact-bound territory and the largest concentration of Wardens
+- [[place-eshalshldg|Eshálosha Lodge]]—The principal Áelendan settlement, a ceremonial and political gathering place in a sheltered valley of the Drenavar Spine
 - **The Silver Forests**—An ancient fae-touched woodland under heavy Warden watch, shared in neighborly arrangement with the [[lore-flksinale|Sinalë]]
 - **Mountain sanctuaries and grove shrines**—Scattered across the interior; each has its own standing in the Kindred Pact and its own customary protocols
 

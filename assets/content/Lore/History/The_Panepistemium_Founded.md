@@ -26,7 +26,7 @@ data:
           how: >-
             the charter that credentials a scholar here runs in cities the Republic does not rule, and every arcane chapter house on the continent trades under it
           knowledge: named
-        - place: place-takheperurgn
+        - place: place-aukhelathrgq
           how: >-
             centuries of exchange with the river empire run both ways—Helionite philosophy into Kheperi theological debate, Kheperi mathematics and astronomy into Helionite scholarship
           knowledge: named
@@ -49,7 +49,7 @@ data:
 ---
 
 The most significant of the Helionite institutions was the
-**[[affiliation-panepistmm|Panepistēmion]]**—the _place of all knowledge_, which Vylarian tongues
+[[affiliation-panepistmm|Panepistēmion]]—the _place of all knowledge_, which Vylarian tongues
 later wore down to the Panepistemium and the Common tongue calls simply the Academy of Knowledge.
 
 It was conceived as a federation of all philosophical inquiry. Each city-state had its own scholarly

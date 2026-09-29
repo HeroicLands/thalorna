@@ -191,7 +191,7 @@ from the corruption rather than sitting beside it.
 
 ### The Black Flame
 
-The **[[affiliation-blackflame|Black Flame]]**—Vúlcan's destructive aspect, suppressed across most of
+The [[affiliation-blackflame|Black Flame]]—Vúlcan's destructive aspect, suppressed across most of
 the Aurèldían world and reduced elsewhere to hidden shrines and secretive orders—has **enormous
 influence** in Tarvenne, and does not especially trouble to hide it.
 
@@ -208,7 +208,7 @@ the Forge asks loudly and cannot answer.
 
 ### Thánatos
 
-The other great presence is **[[affiliation-thanatos|Thánatos]]**, the Silent Judge—and he is
+The other great presence is [[affiliation-thanatos|Thánatos]], the Silent Judge—and he is
 prominent for precisely the opposite reason.
 
 In a republic where the courts work for those who can pay them to work, the god who judges everyone

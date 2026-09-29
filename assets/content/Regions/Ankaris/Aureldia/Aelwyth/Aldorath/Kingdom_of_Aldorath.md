@@ -164,7 +164,7 @@ the usual way; above them sit a landed aristocracy with real hereditary claims, 
 thin merchant class. There is no equivalent of Dúnavarre's Synod-appointed stewardship, and no
 equivalent of Tarvenne's civic politics.
 
-**[[place-dunmere|Dunmere]]**, the seat, holds about **20,000**—the only place in the kingdom that is
+[[place-dunmere|Dunmere]], the seat, holds about **20,000**—the only place in the kingdom that is
 a city rather than a market town, and the only one where anyone lives who is not directly answerable to
 a manor.
 

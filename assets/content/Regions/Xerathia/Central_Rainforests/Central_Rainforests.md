@@ -28,13 +28,13 @@ Several great rivers drain the region. Most flow north toward the [[place-vylari
 
 The climate is wet and warm year-round, with a rhythm of alternating dry and rainy seasons rather than true summer and winter. Daily afternoon thunderstorms are the norm through most of the year. Fog and mist are constant in the interior, and the air is thick with the smell of decay and growth happening simultaneously.
 
-The forest holds species of tree, vine, insect, and beast found nowhere else on Thalorna, many of them dangerous. It also holds endemic diseases—fevers, fluxes, parasites, and rots—that make long-duration expeditions by outsiders a matter of luck as much as preparation. Rainforest tribes have built up physiological and pharmacological defenses that northerners lack; a Ta'Kheperian soldier or Vylarian explorer entering the forest is reckoned to have months, not years, before disease takes them whether any enemy does or not.
+The forest holds species of tree, vine, insect, and beast found nowhere else on Thalorna, many of them dangerous. It also holds endemic diseases—fevers, fluxes, parasites, and rots—that make long-duration expeditions by outsiders a matter of luck as much as preparation. Rainforest tribes have built up physiological and pharmacological defenses that northerners lack; a Ta'Khelâthi soldier or Vylarian explorer entering the forest is reckoned to have months, not years, before disease takes them whether any enemy does or not.
 
 ## Peoples and Culture
 
 The forest tribes are many, small, and extraordinarily varied. What little the northern scholars have managed to set down about them suggests a patchwork of distinct languages, social structures, and ritual traditions rather than anything resembling a unified culture. A few broad patterns recur:
 
-**Settled river-tribes** maintain semi-permanent villages along navigable waterways, practice shifting horticulture in forest clearings, and trade cautiously with Ta'Kheperian, Okhárian, and Bethuan merchants who venture upriver. Their political organization typically centers on a council of elders, a ritual specialist, and a war-leader, with authority distributed rather than concentrated.
+**Settled river-tribes** maintain semi-permanent villages along navigable waterways, practice shifting horticulture in forest clearings, and trade cautiously with Ta'Khelâthi, Okhárian, and Bethuan merchants who venture upriver. Their political organization typically centers on a council of elders, a ritual specialist, and a war-leader, with authority distributed rather than concentrated.
 
 **Deep-forest tribes** live far from the rivers, move camp frequently, and have little or no contact with the north. What contact they do have is mediated—through the settled river-tribes, through ritual exchanges, and through the long-established forest trails whose existence is known only to those who have grown up on them.
 
@@ -44,13 +44,13 @@ A small number of [[lore-flksinale|Sinalë]] enclaves are rumored in the deepest
 
 ## Religion
 
-There is no pantheon of the Central Rainforests. There are thousands of spirits, hundreds of local courts, dozens of lineage traditions, and a small number of wider mythological cycles that recur across linguistically unrelated peoples. Northern scholars who have tried to impose the pantheon framework—notably the Kemetian temple-schools of [[affiliation-empirtkhpr|Ta'Kheperu]] and, more recently, the Aurèldían missionary academies—have produced taxonomies of such baroque uselessness that the attempt has been quietly abandoned more than once.
+There is no pantheon of the Central Rainforests. There are thousands of spirits, hundreds of local courts, dozens of lineage traditions, and a small number of wider mythological cycles that recur across linguistically unrelated peoples. Northern scholars who have tried to impose the pantheon framework—notably the Khelâthi temple-schools of [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] and, more recently, the Aurèldían missionary academies—have produced taxonomies of such baroque uselessness that the attempt has been quietly abandoned more than once.
 
 What does recur is a recognition that the forest itself is alive in a way that merely wooded places are not, and that the appropriate relationship to it is negotiation rather than mastery. Offerings, apologies, and ritualized restraints on hunting and gathering are universal across the rainforest peoples. The forest tolerates those who behave correctly and punishes—through accident, disease, or the simple failure to find one's way home—those who do not.
 
 ## Politics and Power
 
-No outside power has ever ruled the Central Rainforests, and no internal power has ever unified them. The [[affiliation-vylarinmpr|Vylarian Empire]] at its height projected commercial influence along the major rivers but abandoned any pretense of sovereignty within a generation; [[affiliation-empirtkhpr|Ta'Kheperu]] has long maintained a network of trading posts and occasional tributary relationships with the northernmost river-tribes, but has never attempted—and would not be able—to administer the interior. The forest's internal politics are a shifting mosaic of tribal alliances, spirit-court diplomacy, and long feuds whose origins are often mythological rather than historical.
+No outside power has ever ruled the Central Rainforests, and no internal power has ever unified them. The [[affiliation-vylarinmpr|Vylarian Empire]] at its height projected commercial influence along the major rivers but abandoned any pretense of sovereignty within a generation; [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] has long maintained a network of trading posts and occasional tributary relationships with the northernmost river-tribes, but has never attempted—and would not be able—to administer the interior. The forest's internal politics are a shifting mosaic of tribal alliances, spirit-court diplomacy, and long feuds whose origins are often mythological rather than historical.
 
 ## Trade
 
@@ -60,7 +60,7 @@ The trading relationship is never casual. Outside merchants approach the forest 
 
 ## Relations with Neighboring Regions
 
-To the **north** lies the [[place-nrthrnfrtlrgn|Northern Fertile Crescent]]—the Kemetian, Okhárian, and Bethuan civilizations whose southern frontiers fade into the forest margin. Those civilizations' attitudes toward the rainforests range from cautious trade (Ta'Kheperu), mystical reverence (certain Okhárian traditions), to active avoidance (Bethua).
+To the **north** lies the [[place-nrthrnfrtlrgn|Northern Fertile Crescent]]—the Khelâthi, Okhárian, and Bethuan civilizations whose southern frontiers fade into the forest margin. Those civilizations' attitudes toward the rainforests range from cautious trade (Aû'Khelâthu), mystical reverence (certain Okhárian traditions), to active avoidance (Bethua).
 
 To the **south** lie the [[place-sthrnsvnhs|Southern Savannahs]] and the nomadic hunter-tribes that follow the great seasonal migrations. The savannah peoples and the forest peoples meet along the long southern margin where jungle gives way to grassland, and maintain a mostly peaceful set of exchanges built on generations of overlapping seasonal movement.
 
@@ -69,7 +69,7 @@ To the **east and west** the forests fade gradually into coastal terrain that ha
 ## See Also
 
 - [[place-xerathia|Xerathia Continent]]—parent continent
-- [[affiliation-empirtkhpr|Ta'Kheperu]]—northern empire, cautious trade partner
+- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—northern empire, cautious trade partner
 - [[affiliation-okharis|Okháris]]—three-flamed kingdom of the northern crescent
 - [[affiliation-mtrrchybth|Matriarchy of Bethua]]—eastern northern neighbor
 - Ékunda—southern savannah outpost

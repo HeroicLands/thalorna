@@ -12,7 +12,7 @@ The **Bérav** is Élavendre's principal river and the axis of [[place-tirwen|Ti
 northwestern uplands and runs southwest across the heartland basin to the western sea, gathering the
 tributaries of the whole interior as it goes.
 
-It is navigable a considerable way inland—comfortably past **[[place-beravel|Béravel]]**, which
+It is navigable a considerable way inland—comfortably past [[place-beravel|Béravel]], which
 stands on its banks some fifteen miles up from the coast and takes its name from the water. Sea-going
 hulls come up to the capital's quays on the tide; above that the traffic is barge and lighter, working
 as far as the country towns of the upper basin some forty miles inland.

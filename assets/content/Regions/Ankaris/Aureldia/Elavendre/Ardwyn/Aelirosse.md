@@ -13,7 +13,7 @@ data:
   packFolder: elavendre
 ---
 
-**Aelirossë** lies deep in the **[[place-silvrfrsts|Silver Forests]]**, within the
+**Aelirossë** lies deep in the [[place-silvrfrsts|Silver Forests]], within the
 [[place-alndntrblnds|Áelendan Tribal Lands]] of [[place-ardwyn|Ardwyn]], not far from the
 [[place-ataanwyrd|At'aan Wyrd]]. Perhaps a hundred and twenty [[lore-flksinale|Sinalë]] live there, and
 have for longer than there has been a kingdom of Élavendre to be unaware of it.

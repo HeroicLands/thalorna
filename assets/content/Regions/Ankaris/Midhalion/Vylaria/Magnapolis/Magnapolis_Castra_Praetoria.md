@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [vylariargn], population: 5000}
 
 ## Castra Praetoria—The Imperial Barracks
 
-Within the walls of [[place-urbsaquiln|Urbs Aquilion]], hard against the flank of the palace hill, stands the **Castra Praetoria**—the fortified barracks of the **[[affiliation-pratrgstrm|The Praetar Augustarum]]**, the imperial guard. It is the Augustar's own fortress at the center of his own capital: the strongpoint from which the throne's grip on the Inner City is enforced, and the only true castra raised inside the Inner Wall, where no field legion is ever quartered.
+Within the walls of [[place-urbsaquiln|Urbs Aquilion]], hard against the flank of the palace hill, stands the **Castra Praetoria**—the fortified barracks of the [[affiliation-pratrgstrm|The Praetar Augustarum]], the imperial guard. It is the Augustar's own fortress at the center of his own capital: the strongpoint from which the throne's grip on the Inner City is enforced, and the only true castra raised inside the Inner Wall, where no field legion is ever quartered.
 
 ### The Fortress
 

@@ -461,7 +461,7 @@ She is wanted in a Nordheimer fortress town for killing a garrison soldier. The 
 
 ### Affiliations
 
-Crewmember of the **Tamzîr**. She has formed a particular bond with **[[being-slvrvlskyr|Sélvara Válskyr]]**, recognizing in the first mate a kindred spirit—another woman warrior who has built a life on her own terms. She respects **Captain Eshârum Tarûzî** but maintains a careful distance.
+Crewmember of the **Tamzîr**. She has formed a particular bond with [[being-slvrvlskyr|Sélvara Válskyr]], recognizing in the first mate a kindred spirit—another woman warrior who has built a life on her own terms. She respects **Captain Eshârum Tarûzî** but maintains a careful distance.
 
 ## Plot Hooks
 

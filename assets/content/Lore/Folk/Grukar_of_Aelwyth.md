@@ -72,7 +72,7 @@ without negotiation, without exception, and without the enormous patience they e
 living thing on this island**—and it is the only subject on which the Khazári have ever been observed
 to act quickly.
 
-The reason is not competition, though they do compete. It is **[[lore-khazarturn|Khazártúrn]]**.
+The reason is not competition, though they do compete. It is [[lore-khazarturn|Khazártúrn]].
 
 In 2427 BF a Sinalë outlaw wielding the [[miscgear-secondvoice|Second Voice]] took tens of thousands of
 Grukar from their spawners and destroyed the greatest city the Deep Folk ever built. The account—exact,

@@ -128,11 +128,11 @@ The medical practices of Tānvür are built on Lëivōr's classification framewo
 
 The concept of Lëi-as-classification extends directly into political philosophy. Each caste and role within Tānvüri society is understood as occupying a specific classification within the Great Sorting:
 
-- The **[[lore-zheklung|Zhëklüng]]** embody administrative Lëi—the authority to classify and govern
-- The **[[lore-venduk|Vëndük]]** embody channeled Lëi—the capacity to manipulate cosmic energy through bureaucratic form
-- The **[[lore-vushok|Vüshōk]]** embody enforcing Lëi—the power that maintains classifications through force
-- The **[[lore-tanthei|Tānthëi]]** embody recording Lëi—the preservation of the classification system's records and precedents
-- The **[[lore-nokvur|Nōkvür]]** embody sustaining Lëi—the maintenance of the physical world's classifications through labor
+- The [[lore-zheklung|Zhëklüng]] embody administrative Lëi—the authority to classify and govern
+- The [[lore-venduk|Vëndük]] embody channeled Lëi—the capacity to manipulate cosmic energy through bureaucratic form
+- The [[lore-vushok|Vüshōk]] embody enforcing Lëi—the power that maintains classifications through force
+- The [[lore-tanthei|Tānthëi]] embody recording Lëi—the preservation of the classification system's records and precedents
+- The [[lore-nokvur|Nōkvür]] embody sustaining Lëi—the maintenance of the physical world's classifications through labor
 
 Marriages, rituals, and daily practices are designed to maintain the flow of Lëi within and between these classifications. Cross-caste mixing is not merely a social transgression—it is a _classification error_ that weakens the sorting and creates gaps through which the Hürnlëi may seep.
 

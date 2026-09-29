@@ -32,11 +32,13 @@ data:
           how: >-
             practical independence returns while the formal ties stay, and the relationship becomes that of a grown child to an aging parent
           knowledge: named
-        - place: place-takheperurgn
+        - place: place-aukhelathrgq
           how: >-
             gold, weapons and naval expertise went west under the fiction of humanitarian commerce, and direct trade now bypasses Vylarian intermediaries entirely
           knowledge: named
-    who: [{ref: affiliation-vylarinmpr, role: victim}, {ref: affiliation-empirtkhpr, role: actor}]
+    who:
+      - {ref: affiliation-vylarinmpr, role: victim}
+      - {ref: affiliation-empireakhlth, role: actor}
     follows:
       - event: lore-thefounding
         how: enabled
@@ -47,7 +49,7 @@ data:
           The empire retains nominal authority over its provinces, and the knowledge that Ta'Kheperu's hand was behind Harad festers in the Senate and the officer corps.
         agrees: partly
         withholds: how much of Harad's war was bought
-      - {by: affiliation-empirtkhpr, says: Humanitarian commerce., agrees: denies}
+      - {by: affiliation-empireakhlth, says: Humanitarian commerce., agrees: denies}
       - by: place-helionis
         says: >-
           A grown child to an aging parent—respectful, complicated, and occasionally resentful.
@@ -68,13 +70,13 @@ levies, the merchants bankrolled a revolution and recruited the common people wi
 liberty.
 
 The imperial response was effective on land—until
-[[affiliation-empirtkhpr|Ta'Kheperu]], seeing an opportunity to weaken a northern rival, covertly
-supplied the rebels with gold, weapons and military advisors. Kheperi gold kept the rebellion solvent
-and Kheperi naval expertise turned a ragtag flotilla into a fighting force; the destruction of a
+[[affiliation-empireakhlth|Empire of Aû'Khelâthu]], seeing an opportunity to weaken a northern rival, covertly
+supplied the rebels with gold, weapons and military advisors. Khelâthi gold kept the rebellion solvent
+and Khelâthi naval expertise turned a ragtag flotilla into a fighting force; the destruction of a
 Vylarian squadron at the Battle of Tamzîr Shoals broke the empire's ability to sustain its eastern
 garrisons, and Harad's independence was recognized within the year.
 
 Today the empire has retreated to its core territories around the Vylarian peninsula, though it still
 claims nominal authority over regions that have long since gone their own way. The loss of Harad's
 trade revenues has accelerated the fiscal decline, made worse by the explosion of direct
-Haradian–Kheperi commerce that now bypasses Vylarian intermediaries entirely.
+Haradian–Khelâthi commerce that now bypasses Vylarian intermediaries entirely.

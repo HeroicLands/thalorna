@@ -7,8 +7,8 @@ data: {banner: null}
 ---
 
 Thalorna's peoples do the same things and call them by different words. A
-Nordman and a Kheperi both have a man who holds a province for the king; one is
-a Jarl and the other a Haty'a. This note sets those words beside each other, so
+Nordman and a Khelâthi both have a man who holds a province for the king; one is
+a Jarl and the other a Halzi'a. This note sets those words beside each other, so
 that a name met in play can be placed, and a name needed in play can be found.
 
 ## Standing and office are two different things
@@ -31,14 +31,14 @@ standings under [[doc-lore|Lore]], and each of those has its own note. They are
 the headings here. Under each is every people that has a word for it.
 
 Where a people is absent from a heading, its ladder does not reach that far or
-does not divide there. An absence is not always a silence: the Kheperi run their
+does not divide there. An absence is not always a silence: the Khelâthi run their
 nomes without a treasurer and read no omens at court, and both are facts about
-Ta'Kheperu rather than gaps in the account of it.
+Aû'Khelâthu rather than gaps in the account of it.
 
 ```sql {section-level=3}
 WITH peoples AS (
   SELECT n.*, CASE
-      WHEN n.file.folder LIKE 'Regions/Xerathia/%/Ta.Kheperu%'       THEN 'Kheperi'
+      WHEN n.file.folder LIKE 'Regions/Xerathia/%/Khelathu%'       THEN 'Khelâthi'
       WHEN n.file.folder LIKE 'Regions/Xerathia/%/Bethua%'           THEN 'Bethuan'
       WHEN n.file.folder LIKE 'Regions/Xerathia/%/Okharis%'          THEN 'Okharin'
       WHEN n.file.folder LIKE 'Regions/Xerathia/Southern_Savannahs%' THEN 'Nyaluba'
@@ -116,7 +116,7 @@ Each entry says what its holder actually does.
 ```sql {section-level=3}
 WITH peoples AS (
   SELECT n.*, CASE
-      WHEN n.file.folder LIKE 'Regions/Xerathia/%/Ta.Kheperu%'       THEN 'Kheperi'
+      WHEN n.file.folder LIKE 'Regions/Xerathia/%/Khelathu%'       THEN 'Khelâthi'
       WHEN n.file.folder LIKE 'Regions/Xerathia/%/Bethua%'           THEN 'Bethuan'
       WHEN n.file.folder LIKE 'Regions/Xerathia/%/Okharis%'          THEN 'Okharin'
       WHEN n.file.folder LIKE 'Regions/Xerathia/Southern_Savannahs%' THEN 'Nyaluba'

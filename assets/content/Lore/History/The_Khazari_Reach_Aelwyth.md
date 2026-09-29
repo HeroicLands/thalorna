@@ -46,8 +46,8 @@ data:
     unresolved: [how a date held inside a hold reaches anybody outside it]
 ---
 
-Somewhere in the eastern heights of the **[[place-ironfells|Ironfells]]**, where the range meets the
-sea cliffs, is **[[place-vorgald|Vorgald]]**. That it exists is known. Very little else is.
+Somewhere in the eastern heights of the [[place-ironfells|Ironfells]], where the range meets the
+sea cliffs, is [[place-vorgald|Vorgald]]. That it exists is known. Very little else is.
 
 The Deep Folk came to this range while [[lore-khazarturn|Khazártúrn]] still stood and its people were
 still carrying holds outward from it. Vorgald is the far western end of that reach: a hold on an

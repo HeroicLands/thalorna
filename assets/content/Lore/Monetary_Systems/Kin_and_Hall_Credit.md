@@ -31,7 +31,7 @@ In the [[place-nrdlndsrgn|Nordlands]] and to a lesser extent in [[place-vrystwal
 
 A typical transaction: a Nordlands fur-merchant brings his season's furs to a major hall and receives in exchange a season's worth of grain, ale, smoked meat, and worked iron—perhaps not delivered until next harvest, perhaps to be drawn against over the year. The transaction is announced publicly at the hall's evening feast, witnessed by the assembled retainers and any visiting parties, and committed to memory by the hall's [[affiliation-skaldscrcl|skald]] who maintains the hall's standing ledger of obligations in formal verse. The skald's recitation at subsequent feasts keeps the obligation alive; settlement is announced when delivered and the closure recited.
 
-The Nordlands' formal **[[affiliation-skaldscrcl|Skalds' Circle]]** plays a central role here. A skald serves as the institutional memory of his hall's obligations; the Circle's broader hospitality network means that a hall's obligations are known beyond its immediate community; the skalds' truth-of-the-recital discipline (a skald is sworn to recite accurately even when the recital harms his patron) means that the record cannot be manipulated by interested parties.
+The Nordlands' formal [[affiliation-skaldscrcl|Skalds' Circle]] plays a central role here. A skald serves as the institutional memory of his hall's obligations; the Circle's broader hospitality network means that a hall's obligations are known beyond its immediate community; the skalds' truth-of-the-recital discipline (a skald is sworn to recite accurately even when the recital harms his patron) means that the record cannot be manipulated by interested parties.
 
 Hall-credit can support substantial commerce—a jarl with strong standing can extend himself well beyond his immediate cash position, on the strength of his hall's collective ability to pay over time. It can also collapse spectacularly: a hall whose obligations exceed its ability to deliver enters a downward spiral of diminishing standing, declining retainers, and eventually the loss of its independent standing through absorption by a stronger hall.
 
@@ -84,8 +84,8 @@ Kin-and-hall credit also operates as a _secondary_ system in many settled politi
 
 ## See Also
 
-- **[[lore-bartercnmy|The Barter Economy]]**—the goods-exchange system that kin-and-hall credit extends into deferred-obligation form
-- **[[lore-vylrncrncy|Vylarian Currency]]**—the formal currency that operates alongside or instead of kin-credit in various polities
-- **[[affiliation-skaldscrcl|The Skalds' Circle]]**—the Nordlands institutional infrastructure for maintaining the public memory of hall-obligations
-- **[[affiliation-wrrscrcldnhrtrbs|Dunhara Warriors Circle]]**—the Dunhari institution that occasionally adjudicates particularly contentious inter-tribal credit disputes
+- [[lore-bartercnmy|The Barter Economy]]—the goods-exchange system that kin-and-hall credit extends into deferred-obligation form
+- [[lore-vylrncrncy|Vylarian Currency]]—the formal currency that operates alongside or instead of kin-credit in various polities
+- [[affiliation-skaldscrcl|The Skalds' Circle]]—the Nordlands institutional infrastructure for maintaining the public memory of hall-obligations
+- [[affiliation-wrrscrcldnhrtrbs|Dunhara Warriors Circle]]—the Dunhari institution that occasionally adjudicates particularly contentious inter-tribal credit disputes
 - Polity notes for the regions where kin-and-hall credit predominates

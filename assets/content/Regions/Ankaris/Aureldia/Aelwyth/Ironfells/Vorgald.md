@@ -101,7 +101,7 @@ goes through Vardain hands.
 ## The Grukar
 
 The Khazári of Vorgald extend a measured indifference to nearly everything on this island. They extend
-none whatever to **[[lore-grukaraelwyth|Grukar]]**, who have been on Aelwyth for some seven hundred
+none whatever to [[lore-grukaraelwyth|Grukar]], who have been on Aelwyth for some seven hundred
 years and in these mountains for most of them.
 
 They kill them **immediately, wherever found, without negotiation and without exception**—and without
@@ -116,7 +116,7 @@ older and more particular than territory.
 
 The reason is recorded, and it is not a secret so much as a thing the Deep Folk do not raise with
 outsiders. In **2427 BF** a Sinalë outlaw wielding the [[miscgear-secondvoice|Second Voice]] took tens of
-thousands of Grukar from their spawners and destroyed **[[lore-khazarturn|Khazártúrn]]**, the greatest
+thousands of Grukar from their spawners and destroyed [[lore-khazarturn|Khazártúrn]], the greatest
 city the Khazári ever built. Every hold since has kept the account in its working archive and reads it,
 so a Khazár of Vorgald who has never seen a Grukar knows precisely what one is before it is in front of
 them—and knows, equally, that it did not choose to be there.

@@ -87,7 +87,7 @@ The current High Hand is **Iulia Verronius**, the seventh of her line to hold se
 
 ## Notable Members
 
-- **[[being-ailemkrmys|Ailêmâ Keriamyes]]**—Guildmaster of long standing, well-respected, regarded as one of the finest authentication experts in the empire. She is occasionally consulted on matters of standards and forgery detection at the highest levels.
+- [[being-ailemkrmys|Ailêmâ Keriamyes]]—Guildmaster of long standing, well-respected, regarded as one of the finest authentication experts in the empire. She is occasionally consulted on matters of standards and forgery detection at the highest levels.
 - **Iulia Verronius**—High Hand; presiding over the Guild's response to the increasing pressure from imperial authorities to streamline procedures the Guild considers essential.
 
 ## Doctrine and Practice

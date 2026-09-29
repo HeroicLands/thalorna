@@ -1,6 +1,6 @@
 ---
-shortcode: tasetiabtet
-name: {full: "Ta-Set-Iabtet"}
+shortcode: zuzeliaqtet
+name: {full: Zu-Zel-Iaqtet, aliases: []}
 type: folder
-data: {parent: bordernomes, color: "#A5D6A7"}
+data: {parent: borderselatu, color: "#A5D6A7"}
 ---

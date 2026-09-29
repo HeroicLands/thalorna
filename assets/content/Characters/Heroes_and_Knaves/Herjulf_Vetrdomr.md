@@ -487,7 +487,7 @@ Herjúlf is motivated by a desire to work at his craft with complete mastery, an
 
 ### Enemies
 
-- **The Merchant Consortium of Ironholm**: These ambitious merchants view Herjúlf's independent operations as an obstacle to their plans for industrial-scale timber harvesting and have attempted repeatedly to purchase his operation or absorb him into their company—attempts he has always refused.
+- **Lin'Zuwaret elu Aû'Khelâthu of Ironholm**: These ambitious merchants view Herjúlf's independent operations as an obstacle to their plans for industrial-scale timber harvesting and have attempted repeatedly to purchase his operation or absorb him into their company—attempts he has always refused.
 
 - **Warden Kale**: The regional forest warden has clashed with Herjúlf multiple times over interpretations of harvesting rights and believes that Herjúlf operates outside proper legal authority; this resentment has festered into genuine personal dislike.
 
