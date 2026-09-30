@@ -803,6 +803,8 @@ const CONCORDANCE_KIND = new Map([
     ["deity", "theonym"],
     ["rank", "rank"],
     ["settlement", "place"],
+    ["given", "given"],
+    ["clan", "clan"],
 ]);
 
 /**
@@ -833,10 +835,13 @@ export function checkConcordance(table, rule, tally) {
             })),
         // A keep-list row says a name stands and does not say what kind of name
         // it is, so it is held to whichever rule fits: a place name and a
-        // compound are both lawful things for one to be.
+        // compound are both lawful things for one to be. A row may instead name
+        // its own `kinds`, empty for a literal kept only so the drift sweep
+        // passes it by — a different person's or a different tongue's word,
+        // never claimed as a lawful Nordmal form and so never judged as one.
         ...(table.keep ?? []).map((entry) => ({
             name: entry.literal,
-            kind: ["compound", "place"],
+            kind: entry.kinds ?? ["compound", "place"],
             why: "the concordance keeps it standing",
         })),
     ];

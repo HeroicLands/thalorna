@@ -1,6 +1,12 @@
 ---
 shortcode: skulvtrdmr
-name: {full: Skúli Vetrdómr, title: "", given: Skúli, clan: Vetrdómr, home: greyfjord, aliases: []}
+name:
+  full: Braldthann Vetrdómr
+  title: ""
+  given: Braldthann
+  clan: Vetrdómr
+  home: greyfjord
+  aliases: []
 type: being
 tags: [heroes-and-knaves, guilded, tradesfolk, character]
 data:
@@ -417,9 +423,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[skulvtrdmr|Skúli Vetrdómr]]{float=top-left}
+![[skulvtrdmr|Braldthann Vetrdómr]]{float=top-left}
 
-Skúli stands 6'0" tall with a medium build. He has light ruddy skin, gray hair, and gray eyes. His features include a long face, a straight nose, a square jawline, narrow lips, heavy brows, hollow cheeks. A distinguishing mark is a tattoo of a falcon on the right arm.
+Braldthann stands 6'0" tall with a medium build. He has light ruddy skin, gray hair, and gray eyes. His features include a long face, a straight nose, a square jawline, narrow lips, heavy brows, hollow cheeks. A distinguishing mark is a tattoo of a falcon on the right arm.
 
 # Dossier {#dossier}
 
@@ -427,38 +433,38 @@ Skúli stands 6'0" tall with a medium build. He has light ruddy skin, gray hair,
 
 ### Early Years and Training
 
-Skúli was born into craft and hardship, the third son of a widowed tentmaker in the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]. His father, Vetrarr, had learned the trade in the service of the old jarl's warband, and passed the knowledge to his children with the same rigor as a drill sergeant teaches battle formations. Where others saw mere fabric and stitching, Skúli learned to see the shelter that stands between a warrior and death in the mountain passes. His apprenticeship was merciless—his hands scarred and callused long before his sixteenth year, his eyes trained to spot the tiniest flaw that might admit wind or water.
+Braldthann was born into craft and hardship, the third son of a widowed tentmaker in the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]. His father, Vetrarr, had learned the trade in the service of the old jarl's warband, and passed the knowledge to his children with the same rigor as a drill sergeant teaches battle formations. Where others saw mere fabric and stitching, Braldthann learned to see the shelter that stands between a warrior and death in the mountain passes. His apprenticeship was merciless—his hands scarred and callused long before his sixteenth year, his eyes trained to spot the tiniest flaw that might admit wind or water.
 
 ### The Craftsman's Rise
 
-At the age of twenty-five, Skúli earned his falcon tattoo and full membership in the Tentmakers' Guild. For the next twenty-eight years, he has been the Guild's most reliable master, known throughout the realm for tents that endure storms that would tear lesser work to shreds. He perfected the art of the double-weave, a technique that locks water on the outside while sealing heat within—a method passed down through his family, jealously guarded from rivals. His workshop in the market square of Nordheim's capital became the place where military quartermaster-generals placed orders, where merchants seeking supplies for trading expeditions knew to pay a premium for quality.
+At the age of twenty-five, Braldthann earned his falcon tattoo and full membership in the Tentmakers' Guild. For the next twenty-eight years, he has been the Guild's most reliable master, known throughout the realm for tents that endure storms that would tear lesser work to shreds. He perfected the art of the double-weave, a technique that locks water on the outside while sealing heat within—a method passed down through his family, jealously guarded from rivals. His workshop in the market square of Nordheim's capital became the place where military quartermaster-generals placed orders, where merchants seeking supplies for trading expeditions knew to pay a premium for quality.
 
 ### Present Circumstances
 
-Now, as the fifth decade of his life nears its close, Skúli faces a changing world. Younger craftsmen, trained in the new apprenticeship system, produce adequate tents at half the price. His technique, once revolutionary, is now merely "the old way." Yet he has never wavered—every stitch he places is a meditation on perfection, and he would sooner burn his workshop than compromise the standards set by his father's father.
+Now, as the fifth decade of his life nears its close, Braldthann faces a changing world. Younger craftsmen, trained in the new apprenticeship system, produce adequate tents at half the price. His technique, once revolutionary, is now merely "the old way." Yet he has never wavered—every stitch he places is a meditation on perfection, and he would sooner burn his workshop than compromise the standards set by his father's father.
 
 ## Psyche
 
 ### Personality
 
-Skúli is a man of few words and profound convictions. He speaks with the authority of someone who has proven himself through decades of uncompromising labor. There is no bombast in him, no need for flattery or recognition—his tents speak louder than any boast. He views the younger generation with a mixture of paternalism and disdain, believing that shortcuts and expediency have no place in honest work. Yet beneath his gruff exterior lies a steadfast loyalty to those he considers worthy; customers who return year after year find him capable of surprising generosity, and he has been known to repair defective work at no charge if the fault was genuinely his own.
+Braldthann is a man of few words and profound convictions. He speaks with the authority of someone who has proven himself through decades of uncompromising labor. There is no bombast in him, no need for flattery or recognition—his tents speak louder than any boast. He views the younger generation with a mixture of paternalism and disdain, believing that shortcuts and expediency have no place in honest work. Yet beneath his gruff exterior lies a steadfast loyalty to those he considers worthy; customers who return year after year find him capable of surprising generosity, and he has been known to repair defective work at no charge if the fault was genuinely his own.
 
 He is deeply religious, invoking Súrtr before major projects, believing the fire-god guides his hands through the hottest work—the application of fireproofing compounds and the sealing of seams. His workshop always contains an altar of stones, and he makes offerings whenever a commission is completed successfully.
 
 ### Motivation
 
-Skúli is driven by an almost obsessive need to preserve what his family built and to prove that quality and tradition have eternal value in a world increasingly seduced by convenience and haste. The younger craftsmen's success wounds him deeply because it represents a kind of moral failure in his world—a failure of discernment, of discipline, of respect for the craft. He would dearly love to find an apprentice worthy of his methods, someone who understands that a tent is not merely shelter but a promise kept between craftsman and customer.
+Braldthann is driven by an almost obsessive need to preserve what his family built and to prove that quality and tradition have eternal value in a world increasingly seduced by convenience and haste. The younger craftsmen's success wounds him deeply because it represents a kind of moral failure in his world—a failure of discernment, of discipline, of respect for the craft. He would dearly love to find an apprentice worthy of his methods, someone who understands that a tent is not merely shelter but a promise kept between craftsman and customer.
 
 ### Strengths
 
-- **Master Craftsman**: Decades of experience make Skúli unparalleled in creating weather-resistant, durable tents capable of withstanding the harshest conditions Nordheim can inflict. His double-weave technique is legendary among the military hierarchy.
+- **Master Craftsman**: Decades of experience make Braldthann unparalleled in creating weather-resistant, durable tents capable of withstanding the harshest conditions Nordheim can inflict. His double-weave technique is legendary among the military hierarchy.
 - **Uncompromising Standards**: Every piece that leaves his workshop meets exacting specifications. His reputation for reliability is absolute—military officers and merchants place standing orders with complete confidence.
 - **Fire Ritualist**: His knowledge of fireproofing techniques and flame-resistant compounds is sophisticated, and he combines practical chemistry with spiritual practice dedicated to Súrtr.
 - **Leadership and Authority**: Though he commands respect more through competence than charisma, those in the craft world recognize his authority. Younger makers, despite their dismissal of his methods, often secretly consult his work.
 
 ### Weaknesses
 
-- **Resistance to Innovation**: Skúli views any method not descended from his family's traditions as inherently inferior. He has rejected profitable opportunities because they would require learning new techniques.
+- **Resistance to Innovation**: Braldthann views any method not descended from his family's traditions as inherently inferior. He has rejected profitable opportunities because they would require learning new techniques.
 - **Aging Hands**: The arthritis creeping into his fingers is a silent threat he refuses to acknowledge. Some of the finest work now requires his apprentice's steadier hands, a reality that frustrates him deeply.
 - **Limited Flexibility**: His inability to adapt to market demands or even to customize designs beyond his established patterns has cost him contracts to more flexible competitors.
 - **Emotional Isolation**: His dismissal of younger craftsmen and outsiders has left him with few genuine friendships. His reputation protects his business but isolates his personal life.
@@ -467,26 +473,26 @@ Skúli is driven by an almost obsessive need to preserve what his family built a
 
 ### Patrons
 
-- **Magistrate-Commander Haldor Knarvumakh**: The military quartermaster of the Nordheim garrison places annual orders for campaign tents. He values Skúli's work so highly that he has never sought alternatives, though Haldor privately worries about the aging craftsman's future reliability.
-- **Merchant-Prince Erikson Wayfarer**: A wealthy trading expedition leader who has used Skúli's tents for three decades. Erikson credits the craftsman's work with saving his life during a catastrophic storm in the Northern Peaks.
+- **Magistrate-Commander Haldor Knarvumakh**: The military quartermaster of the Nordheim garrison places annual orders for campaign tents. He values Braldthann's work so highly that he has never sought alternatives, though Haldor privately worries about the aging craftsman's future reliability.
+- **Merchant-Prince Erikson Wayfarer**: A wealthy trading expedition leader who has used Braldthann's tents for three decades. Erikson credits the craftsman's work with saving his life during a catastrophic storm in the Northern Peaks.
 
 ### Enemies
 
-- **Halvar Fastworker**: A talented younger tentmaker who undercuts Skúli's prices by thirty percent while maintaining adequate quality. To Skúli, Halvar represents everything wrong with the new generation. The tension between them has created a genuine rivalry in the Guild.
-- **The Young Apprentices' Coalition**: A group of journeymen seeking to reform the Tentmakers' Guild's rigid apprenticeship system. They view Skúli as an obstacle to progress and modernization.
+- **Halvar Fastworker**: A talented younger tentmaker who undercuts Braldthann's prices by thirty percent while maintaining adequate quality. To Braldthann, Halvar represents everything wrong with the new generation. The tension between them has created a genuine rivalry in the Guild.
+- **The Young Apprentices' Coalition**: A group of journeymen seeking to reform the Tentmakers' Guild's rigid apprenticeship system. They view Braldthann as an obstacle to progress and modernization.
 
 ### Affiliations
 
-- **Tentmakers' Guild of Nordheim**: Skúli holds a senior position and is frequently consulted on matters of craft standards, though his votes often fall on the losing side as the Guild gradually embraces efficiency over tradition.
+- **Tentmakers' Guild of Nordheim**: Braldthann holds a senior position and is frequently consulted on matters of craft standards, though his votes often fall on the losing side as the Guild gradually embraces efficiency over tradition.
 
 ## Plot Hooks
 
-1. **The Commission of Legend**: A powerful jarl's daughter commissions a tent unlike anything ever requested—a portable temple to Súrtr that must incorporate ritual spaces, special colorings, and materials from across the known world. The commission is enormous and prestigious, but requires Skúli to innovate beyond his comfort and work with materials he has never handled. Will he rise to the challenge, or refuse and watch the contract go to Halvar? Either choice could reshape his legacy.
+1. **The Commission of Legend**: A powerful jarl's daughter commissions a tent unlike anything ever requested—a portable temple to Súrtr that must incorporate ritual spaces, special colorings, and materials from across the known world. The commission is enormous and prestigious, but requires Braldthann to innovate beyond his comfort and work with materials he has never handled. Will he rise to the challenge, or refuse and watch the contract go to Halvar? Either choice could reshape his legacy.
 
-2. **The Apprentice's Return**: Years ago, Skúli turned away a gifted but headstrong apprentice, **Astrid Ringbinder**, claiming she lacked discipline. Now she returns as a master craftsperson trained abroad, having developed revolutionary techniques that combine Skúli's family methods with foreign innovation. She offers to collaborate with him, but her success stings his pride. Can two stubborn masters find common ground, or will ego destroy a partnership that could save the old traditions?
+2. **The Apprentice's Return**: Years ago, Braldthann turned away a gifted but headstrong apprentice, **Astrid Ringbinder**, claiming she lacked discipline. Now she returns as a master craftsperson trained abroad, having developed revolutionary techniques that combine Braldthann's family methods with foreign innovation. She offers to collaborate with him, but her success stings his pride. Can two stubborn masters find common ground, or will ego destroy a partnership that could save the old traditions?
 
-3. **The Conspiracy of Quality**: Military investigators approach Skúli with evidence that someone has been deliberately sabotaging his tents—introducing flaws that barely manifest until soldiers are in the field. Someone wants to damage his reputation and open market share. Skúli must investigate whether the culprit is **Halvar Fastworker**, a jealous rival, or someone else entirely—perhaps even a competitor being hired by foreign powers to weaken Nordheim's military supply.
+3. **The Conspiracy of Quality**: Military investigators approach Braldthann with evidence that someone has been deliberately sabotaging his tents—introducing flaws that barely manifest until soldiers are in the field. Someone wants to damage his reputation and open market share. Braldthann must investigate whether the culprit is **Halvar Fastworker**, a jealous rival, or someone else entirely—perhaps even a competitor being hired by foreign powers to weaken Nordheim's military supply.
 
-4. **The Master's Illness**: Skúli's arthritic hands worsen dramatically. His physician, **Healer Ingrid Bondswoman**, warns that within a year he may lose the dexterity that defines his art. Desperate, Skúli seeks a solution—perhaps a pilgrimage to a shrine of Súrtr rumored to grant miraculous healing, or a dangerous ritual that might preserve his abilities at great cost. His journey becomes a race against time and infirmity.
+4. **The Master's Illness**: Braldthann's arthritic hands worsen dramatically. His physician, **Healer Ingrid Bondswoman**, warns that within a year he may lose the dexterity that defines his art. Desperate, Braldthann seeks a solution—perhaps a pilgrimage to a shrine of Súrtr rumored to grant miraculous healing, or a dangerous ritual that might preserve his abilities at great cost. His journey becomes a race against time and infirmity.
 
-5. **Preserving the Legacy**: With no worthy heir to his methods, Skúli faces a mortality crisis. A noble patron offers to fund a comprehensive record of his techniques—a master work that would preserve his family's knowledge forever. But the project requires collaboration with scribes and scholars, constant explanation, and admission that his way may not be eternal. Can he accept that immortality through documentation might be all that remains available to him?
+5. **Preserving the Legacy**: With no worthy heir to his methods, Braldthann faces a mortality crisis. A noble patron offers to fund a comprehensive record of his techniques—a master work that would preserve his family's knowledge forever. But the project requires collaboration with scribes and scholars, constant explanation, and admission that his way may not be eternal. Can he accept that immortality through documentation might be all that remains available to him?

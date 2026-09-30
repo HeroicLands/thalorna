@@ -1,10 +1,10 @@
 ---
 shortcode: alfrfrstlf
 name:
-  full: Áleifr Frostulf
+  full: Gnarthorv Snarvarukh
   title: ""
-  given: Áleifr
-  clan: Frostulf
+  given: Gnarthorv
+  clan: Snarvarukh
   home: greyfjord
   aliases: []
 type: being
@@ -401,13 +401,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Áleifr Frostulf is a 40-year-old man who stands 6'0" tall and is broad and solidly built. He has an oval face with prominent cheekbones, a high forehead, and a strong jaw that leads to a cleft chin. His almond-shaped blue eyes sit beneath heavy brows and give him a measured gaze. He has a straight nose and firm lips. He has light skin with a pale complexion. His dark blonde hair is thick and unkempt. A notable feature is a faded scar on the right brow.
+Gnarthorv Snarvarukh is a 40-year-old man who stands 6'0" tall and is broad and solidly built. He has an oval face with prominent cheekbones, a high forehead, and a strong jaw that leads to a cleft chin. His almond-shaped blue eyes sit beneath heavy brows and give him a measured gaze. He has a straight nose and firm lips. He has light skin with a pale complexion. His dark blonde hair is thick and unkempt. A notable feature is a faded scar on the right brow.
 
 # Dossier {#dossier}
 
-Áleifr Frostulf is chief huntsman to Lady Elenora of Wildwood Manor, above the fishing village of Thraldfjord in [[place-nordheim|Nordheim]], a Nordman freeman who has kept the manor's forest and settled the hunting quarrels of the fjord for fifteen years.
+Gnarthorv Snarvarukh is chief huntsman to Lady Elenora of Wildwood Manor, above the fishing village of Thraldfjord in [[place-nordheim|Nordheim]], a Nordman freeman who has kept the manor's forest and settled the hunting quarrels of the fjord for fifteen years.
 
-Áleifr keeps the forest that climbs behind Thraldfjord from the manor to the high ground; the village lives on fish, and the forest lives on him. He was a fisherman's son who preferred the wood, and took service at the manor as a boy. He knows which valleys the elk winter in, how many wolves the high ridge will carry, and which stands can be hunted this year and which must be left. He keeps the manor's table in game and its guests in sport. The clans of the fjord bring him their disputes over hunting rights and grazing at the wood's edge; he rules against his own lady's guests when the season requires, and she has never once overruled him.
+Gnarthorv keeps the forest that climbs behind Thraldfjord from the manor to the high ground; the village lives on fish, and the forest lives on him. He was a fisherman's son who preferred the wood, and took service at the manor as a boy. He knows which valleys the elk winter in, how many wolves the high ridge will carry, and which stands can be hunted this year and which must be left. He keeps the manor's table in game and its guests in sport. The clans of the fjord bring him their disputes over hunting rights and grazing at the wood's edge; he rules against his own lady's guests when the season requires, and she has never once overruled him.
 
 He is a known figure among the huntsmen of Nordheim.
 
@@ -415,11 +415,11 @@ He is a known figure among the huntsmen of Nordheim.
 
 ### Personality
 
-Áleifr is steady, cautious and deliberate, slow to change a method that works and slower to trust a new one. He is respected rather than liked, which suits him.
+Gnarthorv is steady, cautious and deliberate, slow to change a method that works and slower to trust a new one. He is respected rather than liked, which suits him.
 
 ### Motivation
 
-Áleifr wants the forest kept—its game, its ground and its balance—for the manor after him. He serves Lady Elenora because she lets him keep it that way.
+Gnarthorv wants the forest kept—its game, its ground and its balance—for the manor after him. He serves Lady Elenora because she lets him keep it that way.
 
 ### Strengths
 
@@ -427,13 +427,13 @@ Experienced, knowledgeable about the land and its game, a natural leader of hunt
 
 ## Social
 
-Áleifr belongs to Lady Elenora's retinue and ranks in it just below her steward.
+Gnarthorv belongs to Lady Elenora's retinue and ranks in it just below her steward.
 
 ## Companions
 
 ### Patrons
 
-Áleifr's patrons are Lady Elenora and the guests she brings to Wildwood Manor to hunt, whom he guides, outfits and—when the season or the ground demands it—refuses.
+Gnarthorv's patrons are Lady Elenora and the guests she brings to Wildwood Manor to hunt, whom he guides, outfits and—when the season or the ground demands it—refuses.
 
 ### Enemies
 
@@ -441,10 +441,10 @@ Nobody open, but a fjord is a small place, and the men he has ruled against over
 
 ## Plot Hooks
 
-1. **The Guest**—A jarl's kinsman, guesting at the manor, wants to take a stag the season forbids, and will take a refusal as an insult to his house. Lady Elenora has left the answer to Áleifr.
+1. **The Guest**—A jarl's kinsman, guesting at the manor, wants to take a stag the season forbids, and will take a refusal as an insult to his house. Lady Elenora has left the answer to Gnarthorv.
 
-2. **The Boundary**—Two clans of the fjord have brought Áleifr a dispute over a stretch of the wood's edge that both have grazed for a century.
+2. **The Boundary**—Two clans of the fjord have brought Gnarthorv a dispute over a stretch of the wood's edge that both have grazed for a century.
 
-3. **The Manor's Fortunes**—Lady Elenora's income has failed and she is under pressure to sell the timber rights to the forest. Áleifr has been asked what the wood is worth, and the truth is not what she wants to hear.
+3. **The Manor's Fortunes**—Lady Elenora's income has failed and she is under pressure to sell the timber rights to the forest. Gnarthorv has been asked what the wood is worth, and the truth is not what she wants to hear.
 
-4. **The Hard Winter**—The wolves have come down from the high ridge early and taken three of the village's cattle, and the fjord wants the pack hunted out. Áleifr knows the ridge cannot spare it and the village cannot spare the cattle.
+4. **The Hard Winter**—The wolves have come down from the high ridge early and taken three of the village's cattle, and the fjord wants the pack hunted out. Gnarthorv knows the ridge cannot spare it and the village cannot spare the cattle.

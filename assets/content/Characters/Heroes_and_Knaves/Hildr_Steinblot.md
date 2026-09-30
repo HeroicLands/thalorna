@@ -1,9 +1,9 @@
 ---
 shortcode: hldrstnblt
 name:
-  full: Hildr Steinblót
+  full: Flarnthýra Steinblót
   title: ""
-  given: Hildr
+  given: Flarnthýra
   clan: Steinblót
   home: haldrvik
   aliases: []
@@ -430,9 +430,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[hldrstnblt|Hildr Steinblót]]{float=top-left}
+![[hldrstnblt|Flarnthýra Steinblót]]{float=top-left}
 
-Hildr stands 5'11" tall with a medium build. She has light fair skin, dark brown hair, and hazel eyes. Her features include an oblong face, a slightly upturned nose, a strong jawline, a firm-set mouth, dark brows, angular cheeks.
+Flarnthýra stands 5'11" tall with a medium build. She has light fair skin, dark brown hair, and hazel eyes. Her features include an oblong face, a slightly upturned nose, a strong jawline, a firm-set mouth, dark brows, angular cheeks.
 
 # Dossier {#dossier}
 
@@ -440,27 +440,27 @@ Hildr stands 5'11" tall with a medium build. She has light fair skin, dark brown
 
 ### Early Life
 
-Born to the Steinblót clan, renowned stonemasons in the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], Hildr was expected to follow her family into monumental masonry. Instead, at age fourteen, she became fascinated with her grandmother's pottery wheel and the ancient techniques of glaze-making. Her father's disapproval was thunderous, but her mother's quiet support gave her courage to pursue the clay arts. She apprenticed with Master Jórun Graywick, a renowned potter whose workshop overlooked the River Vith, and spent ten years learning not merely the mechanics of her craft, but its philosophy.
+Born to the Steinblót clan, renowned stonemasons in the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], Flarnthýra was expected to follow her family into monumental masonry. Instead, at age fourteen, she became fascinated with her grandmother's pottery wheel and the ancient techniques of glaze-making. Her father's disapproval was thunderous, but her mother's quiet support gave her courage to pursue the clay arts. She apprenticed with Master Jórun Graywick, a renowned potter whose workshop overlooked the River Vith, and spent ten years learning not merely the mechanics of her craft, but its philosophy.
 
 ### Training and Craft
 
-Now in her prime at thirty-two, Hildr has established herself as one of the Kingdom's finest ceramic artists. She creates more than functional vessels—each piece is a meditation made tangible. Her signature work incorporates natural ash glazes and mineral deposits from the riverbanks, producing colors that seem to shift like moonlight. She has earned commissions from the wealthiest merchants and minor nobility, though she refuses work that doesn't speak to her artistic vision, much to her competitors' frustration.
+Now in her prime at thirty-two, Flarnthýra has established herself as one of the Kingdom's finest ceramic artists. She creates more than functional vessels—each piece is a meditation made tangible. Her signature work incorporates natural ash glazes and mineral deposits from the riverbanks, producing colors that seem to shift like moonlight. She has earned commissions from the wealthiest merchants and minor nobility, though she refuses work that doesn't speak to her artistic vision, much to her competitors' frustration.
 
 ### Current Circumstances
 
-Hildr maintains a modest pottery studio in the artisan quarter of Vithgard's capital, powered by the steady force of her creativity and an equally steady obsession with perfection. She lives above her workshop with her apprentice and an ornery cat named Styrrir. Recently, she has begun experimenting with relief work and narrative scenes inspired by the sagas, leading her toward a new artistic direction that has captured the attention of wealthy patrons and jealous rivals alike.
+Flarnthýra maintains a modest pottery studio in the artisan quarter of Vithgard's capital, powered by the steady force of her creativity and an equally steady obsession with perfection. She lives above her workshop with her apprentice and an ornery cat named Styrrir. Recently, she has begun experimenting with relief work and narrative scenes inspired by the sagas, leading her toward a new artistic direction that has captured the attention of wealthy patrons and jealous rivals alike.
 
 ## Psyche
 
 ### Personality
 
-Hildr possesses an intensity that can be mistaken for coldness until one recognizes it as passion rather than indifference. She is direct to the point of bluntness, viewing social niceties as unnecessary when clarity serves better. Her humor runs dry and sardonic, surfacing most often when others make the mistake of patronizing her about "women's crafts." Despite her prickly exterior, those who earn her genuine regard find her fiercely loyal and capable of unexpected gentleness.
+Flarnthýra possesses an intensity that can be mistaken for coldness until one recognizes it as passion rather than indifference. She is direct to the point of bluntness, viewing social niceties as unnecessary when clarity serves better. Her humor runs dry and sardonic, surfacing most often when others make the mistake of patronizing her about "women's crafts." Despite her prickly exterior, those who earn her genuine regard find her fiercely loyal and capable of unexpected gentleness.
 
 Her perfectionism is simultaneously her greatest strength and her deepest curse. She has been known to shatter finished pieces mere moments before delivery because a glaze didn't achieve precisely the shade she envisioned. She keeps ledgers of every failed experiment, studying them as seriously as scholars study ancient texts. This obsessive attention has made her wealthy but has also left her with few true friendships—most people find her standards exhausting.
 
 ### Motivation
 
-Hildr creates not for fame or fortune, though both have come to her, but because the act of transforming raw earth into art is the only thing that quiets the restless hunger in her soul. She is driven by an almost spiritual need to prove that women of Vithgard need not follow expected paths, that a woman wielding a potter's tools is worth no less than one wielding a sword. Beneath this lies a deeper truth: in shaping clay, she shapes herself, finding in each firing kiln a trial by fire that tests and reforges her will.
+Flarnthýra creates not for fame or fortune, though both have come to her, but because the act of transforming raw earth into art is the only thing that quiets the restless hunger in her soul. She is driven by an almost spiritual need to prove that women of Vithgard need not follow expected paths, that a woman wielding a potter's tools is worth no less than one wielding a sword. Beneath this lies a deeper truth: in shaping clay, she shapes herself, finding in each firing kiln a trial by fire that tests and reforges her will.
 
 ### Strengths
 
@@ -478,19 +478,19 @@ Hildr creates not for fame or fortune, though both have come to her, but because
 - **Emotional Isolation**: She finds it difficult to form close relationships, treating most people with professional distance or outright indifference.
 - **Resentment of Authority**: Having chafed under her father's expectations, she rebels against any authority figure; this has cost her opportunities and allies.
 - **Limited Combat Experience**: Despite her strength, she has no martial training and would be vulnerable in violent confrontation.
-- **Slow to Trust**: It takes years for Hildr to extend genuine trust to another person; her suspicion can make collaboration difficult.
+- **Slow to Trust**: It takes years for Flarnthýra to extend genuine trust to another person; her suspicion can make collaboration difficult.
 
 ## Social
 
 ### Patrons
 
 - **Merchant-Lord Théodric the Elder**: A wealthy trader who has commissioned five major pieces and pays handsomely for work that takes her fancy. He seeks her favor for political reasons as much as aesthetic ones.
-- **Lady Sígrún Whitmore**: A minor noblewoman of impeccable taste who has become Hildr's closest thing to a confidante, regularly commissioning decorative ware and providing commissions to others based on her recommendation.
-- **Master Jórun Graywick (Former Master)**: Though retired, her old mentor still refers commissions to Hildr and seeks her counsel on matters of technique; they meet monthly to discuss pottery and life.
+- **Lady Sígrún Whitmore**: A minor noblewoman of impeccable taste who has become Flarnthýra's closest thing to a confidante, regularly commissioning decorative ware and providing commissions to others based on her recommendation.
+- **Master Jórun Graywick (Former Master)**: Though retired, her old mentor still refers commissions to Flarnthýra and seeks her counsel on matters of technique; they meet monthly to discuss pottery and life.
 
 ### Enemies
 
-- **Kálf Stonebrow**: A rival potter of lesser skill who has begun spreading rumors that Hildr's success derives from her family name rather than talent. His jealousy has led him to undercut her prices and poach apprentices.
+- **Kálf Stonebrow**: A rival potter of lesser skill who has begun spreading rumors that Flarnthýra's success derives from her family name rather than talent. His jealousy has led him to undercut her prices and poach apprentices.
 - **Her Father, Víkingr Steinblót**: Though he lives in distant lands, the memory of his disapproval and the knowledge that she has succeeded despite his wishes creates an ongoing internal conflict; she occasionally hears rumors of his grudging pride.
 - **The Graystone Collective**: A guild of conservative craftspeople who view her innovative techniques and artistic pretensions as threats to traditional stoneworking values and have attempted to restrict her access to certain materials.
 
@@ -501,12 +501,12 @@ Hildr creates not for fame or fortune, though both have come to her, but because
 
 ## Plot Hooks
 
-1. **The Shattered Masterpiece**: Hildr has received an anonymous commission for a ceremonial urn said to contain the ashes of a long-dead king—work that could secure her legacy. However, the specifications are impossible: the piece must be both structurally perfect and fragile enough to shatter ceremonially at a specific moment. When the patron is revealed to be a conspiracy of nobles planning to use the urn's destruction as a signal for a coup, Hildr must decide whether to complete the work that will define her career or refuse and face the consequences of defying nobility.
+1. **The Shattered Masterpiece**: Flarnthýra has received an anonymous commission for a ceremonial urn said to contain the ashes of a long-dead king—work that could secure her legacy. However, the specifications are impossible: the piece must be both structurally perfect and fragile enough to shatter ceremonially at a specific moment. When the patron is revealed to be a conspiracy of nobles planning to use the urn's destruction as a signal for a coup, Flarnthýra must decide whether to complete the work that will define her career or refuse and face the consequences of defying nobility.
 
-2. **The Lost Glaze of Ástvaldur**: An elderly merchant brings Hildr a single fragment of pottery bearing a glaze of impossible beauty—ash-blue threaded with gold that seems to contain starlight. The merchant claims it comes from the legendary potter **Ástvaldur the Wise**, said to have disappeared centuries ago. Hildr becomes obsessed with recreating the formula, but her investigations lead her into dangerous territory: the glaze may have been created using ingredients now forbidden by the Church, or worse, techniques involving arts that lie beyond the mortal realm.
+2. **The Lost Glaze of Ástvaldur**: An elderly merchant brings Flarnthýra a single fragment of pottery bearing a glaze of impossible beauty—ash-blue threaded with gold that seems to contain starlight. The merchant claims it comes from the legendary potter **Ástvaldur the Wise**, said to have disappeared centuries ago. Flarnthýra becomes obsessed with recreating the formula, but her investigations lead her into dangerous territory: the glaze may have been created using ingredients now forbidden by the Church, or worse, techniques involving arts that lie beyond the mortal realm.
 
-3. **The Apprentice's Secret**: Hildr's promising young apprentice, **Eydís**, confesses that she has been secretly creating copies of Hildr's designs and selling them at lower prices to supplement her meager wages. Rather than dismiss her, Hildr recognizes herself in the girl's hunger to improve her station. She must navigate a delicate balance: mentoring Eydís toward genuine skill while teaching her that true artistry cannot be rushed or compromised, all while the girl's impudent actions threaten both their reputations.
+3. **The Apprentice's Secret**: Flarnthýra's promising young apprentice, **Eydís**, confesses that she has been secretly creating copies of Flarnthýra's designs and selling them at lower prices to supplement her meager wages. Rather than dismiss her, Flarnthýra recognizes herself in the girl's hunger to improve her station. She must navigate a delicate balance: mentoring Eydís toward genuine skill while teaching her that true artistry cannot be rushed or compromised, all while the girl's impudent actions threaten both their reputations.
 
-4. **The Kiln That Burns Wrong**: One morning, Hildr's grand kiln—built stone by stone by her own hands—ceases to function properly. Fires that once reached perfect temperature now burn too hot or not hot enough, and pieces emerge warped or ruined. A visiting scholar suggests the kiln may have been subtly sabotaged by someone using methods both physical and magical. As Hildr investigates, she uncovers that **Kálf Stonebrow** has been employing a hedge-witch named **Brynhildra Braldarukh** to curse his competitor's tools. Hildr must decide whether to seek revenge, pursue justice, or find a way to transform curse into creation.
+4. **The Kiln That Burns Wrong**: One morning, Flarnthýra's grand kiln—built stone by stone by her own hands—ceases to function properly. Fires that once reached perfect temperature now burn too hot or not hot enough, and pieces emerge warped or ruined. A visiting scholar suggests the kiln may have been subtly sabotaged by someone using methods both physical and magical. As Flarnthýra investigates, she uncovers that **Kálf Stonebrow** has been employing a hedge-witch named **Brynhildra Braldarukh** to curse his competitor's tools. Flarnthýra must decide whether to seek revenge, pursue justice, or find a way to transform curse into creation.
 
-5. **The Royal Commission Nobody Wants**: The King himself summons Hildr to craft commemorative vessels for an unpopular diplomatic marriage. The honor is immense, but the match is politically toxic—rumors suggest the bride was chosen through coercion, and her family is known for violence. Completing the work will elevate Hildr's status to national prominence but may entangle her in court intrigues that threaten not just her career but her life. Meanwhile, a clandestine group of nobles opposed to the marriage approaches her with an offer: create a flaw in the pieces that will humiliate the bride and sabotage the union.
+5. **The Royal Commission Nobody Wants**: The King himself summons Flarnthýra to craft commemorative vessels for an unpopular diplomatic marriage. The honor is immense, but the match is politically toxic—rumors suggest the bride was chosen through coercion, and her family is known for violence. Completing the work will elevate Flarnthýra's status to national prominence but may entangle her in court intrigues that threaten not just her career but her life. Meanwhile, a clandestine group of nobles opposed to the marriage approaches her with an offer: create a flaw in the pieces that will humiliate the bride and sabotage the union.

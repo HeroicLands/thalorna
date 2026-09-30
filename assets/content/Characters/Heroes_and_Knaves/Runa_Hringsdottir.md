@@ -1,9 +1,9 @@
 ---
 shortcode: rnhrngsdtr
 name:
-  full: Rúna Hringsdóttir
+  full: Hlirthselda Hringsdóttir
   title: ""
-  given: Rúna
+  given: Hlirthselda
   clan: ""
   home: jarnhavn
   aliases: [the Shield-Maiden of Vrathavn]
@@ -424,42 +424,42 @@ sohl:
 
 # Appearance {#appearance}
 
-![[rnhrngsdtr|Rúna Hringsdóttir]]{float=top-left}
+![[rnhrngsdtr|Hlirthselda Hringsdóttir]]{float=top-left}
 
-Rúna is 5’10" with a strong, athletic build, weighing about 180 pounds. Her fiery red hair is kept short, and her green eyes burn with the passion of a seasoned warrior. Her facial features are rugged but attractive, with a square jaw and a broad nose. Her scarred cheek adds to her warlike appearance. She wears chainmail and carries her round shield and axe.
+Hlirthselda is 5’10" with a strong, athletic build, weighing about 180 pounds. Her fiery red hair is kept short, and her green eyes burn with the passion of a seasoned warrior. Her facial features are rugged but attractive, with a square jaw and a broad nose. Her scarred cheek adds to her warlike appearance. She wears chainmail and carries her round shield and axe.
 
 # Dossier {#dossier}
 
-Rúna is a fierce warrior from the trading town of [[place-jarnhavn|Vrathavn]], a town renowned for its warlike traditions and its ships of raiders. Born into a warrior clan, Rúna was trained from childhood in the use of weapons, particularly the spear and shield. Her clan holds the duty of protecting [[place-norgaad|Norgaad]]’s coastlines from invaders and raiders. Rúna first encountered [[being-grosdrnrgd|Gróa]] during a battle with [[affiliation-kingdmtrgd|Targud]] raiders. [[being-grosdrnrgd|Gróa]]’s strange powers and ability to foresee the movements of the enemy saved Rúna’s warband, earning her respect.
+Hlirthselda is a fierce warrior from the trading town of [[place-jarnhavn|Vrathavn]], a town renowned for its warlike traditions and its ships of raiders. Born into a warrior clan, Hlirthselda was trained from childhood in the use of weapons, particularly the spear and shield. Her clan holds the duty of protecting [[place-norgaad|Norgaad]]’s coastlines from invaders and raiders. Hlirthselda first encountered [[being-grosdrnrgd|Tvarnynda]] during a battle with [[affiliation-kingdmtrgd|Targud]] raiders. [[being-grosdrnrgd|Tvarnynda]]’s strange powers and ability to foresee the movements of the enemy saved Hlirthselda’s warband, earning her respect.
 
 ## Background
 
 ### Skills and Abilities
 
-- **Strength**: Rúna is physically powerful, with the strength of a warrior.
+- **Strength**: Hlirthselda is physically powerful, with the strength of a warrior.
 - **Endurance**: She can endure the rigors of battle and long campaigns.
-- **Dexterity**: Rúna is skilled in handling her weapons with precision.
+- **Dexterity**: Hlirthselda is skilled in handling her weapons with precision.
 - **Agility**: She moves with speed and grace in battle, making her an effective fighter.
-- **Perception**: Rúna is observant in battle but not particularly keen on details outside of combat.
+- **Perception**: Hlirthselda is observant in battle but not particularly keen on details outside of combat.
 - **Comeliness**: Her appearance is rugged but not unattractive, giving her a tough beauty.
-- **Aura**: Rúna commands respect, but her presence is more physical than spiritual.
+- **Aura**: Hlirthselda commands respect, but her presence is more physical than spiritual.
 - **Will**: Her willpower is strong, driven by her warrior spirit.
-- **Reasoning**: Rúna relies more on instinct than reasoning, especially in battle.
+- **Reasoning**: Hlirthselda relies more on instinct than reasoning, especially in battle.
 - **Creativity**: While she’s innovative in combat, she doesn’t rely on creativity in other aspects of life.
-- **Empathy**: Rúna focuses more on her duty than personal relationships.
+- **Empathy**: Hlirthselda focuses more on her duty than personal relationships.
 - **Eloquence**: She’s straightforward in her communication, preferring action over words.
-- **Morality**: Rúna is guided by her code of honor and loyalty as a shield-maiden but is willing to act pragmatically when needed, especially in defense of her people.
-- **Voice**: Rúna’s voice is sturdy and reliable, matching her shield-maiden’s strength. She can sing battle songs, but her voice is better suited for commanding in the heat of battle.
+- **Morality**: Hlirthselda is guided by her code of honor and loyalty as a shield-maiden but is willing to act pragmatically when needed, especially in defense of her people.
+- **Voice**: Hlirthselda’s voice is sturdy and reliable, matching her shield-maiden’s strength. She can sing battle songs, but her voice is better suited for commanding in the heat of battle.
 
 ## Psyche
 
 ### Personality
 
-Rúna is practical, courageous, and fiercely loyal. While she does not fully understand [[being-grosdrnrgd|Gróa]]’s magic, she respects the Seidr’s abilities and trusts her wisdom. She is also deeply protective of [[being-grosdrnrgd|Gróa]], seeing her as a vulnerable ally in need of a strong sword-arm.
+Hlirthselda is practical, courageous, and fiercely loyal. While she does not fully understand [[being-grosdrnrgd|Tvarnynda]]’s magic, she respects the Seidr’s abilities and trusts her wisdom. She is also deeply protective of [[being-grosdrnrgd|Tvarnynda]], seeing her as a vulnerable ally in need of a strong sword-arm.
 
 ### Motivation
 
-Rúna joins [[being-grosdrnrgd|Gróa]] because she believes in the Seidr’s vision of the coming dangers. She knows that her skills as a warrior will be needed to defend Norgaad, and she sees herself as a protector of both her homeland and [[being-grosdrnrgd|Gróa]].
+Hlirthselda joins [[being-grosdrnrgd|Tvarnynda]] because she believes in the Seidr’s vision of the coming dangers. She knows that her skills as a warrior will be needed to defend Norgaad, and she sees herself as a protector of both her homeland and [[being-grosdrnrgd|Tvarnynda]].
 
 ### Strengths
 
@@ -475,10 +475,10 @@ raiders
 
 ## Plot Hooks
 
-1. **The Oathkeeper’s Trial**: Rúna discovers an ancient shield buried beneath her family’s longhouse, marked with runes of protection and strength. Her clan elders reveal it once belonged to her ancestor, a famed oathkeeper who made a vow never to raise arms unjustly. To wield it, Rúna must undertake trials to prove her honor and strength, culminating in a confrontation with an ancient foe of her family.
+1. **The Oathkeeper’s Trial**: Hlirthselda discovers an ancient shield buried beneath her family’s longhouse, marked with runes of protection and strength. Her clan elders reveal it once belonged to her ancestor, a famed oathkeeper who made a vow never to raise arms unjustly. To wield it, Hlirthselda must undertake trials to prove her honor and strength, culminating in a confrontation with an ancient foe of her family.
 
-2. **Waves of Betrayal**: During a routine patrol, Rúna intercepts raiders bearing symbols of Targud, a tribe her warband thought defeated. Investigation reveals that a nearby clan has secretly allied with the raiders to weaken Norgaad’s defenses. Rúna must expose their treachery and rally her people, risking open conflict between the clans.
+2. **Waves of Betrayal**: During a routine patrol, Hlirthselda intercepts raiders bearing symbols of Targud, a tribe her warband thought defeated. Investigation reveals that a nearby clan has secretly allied with the raiders to weaken Norgaad’s defenses. Hlirthselda must expose their treachery and rally her people, risking open conflict between the clans.
 
-3. **The Crimson Banner**: A rival shield-maiden challenges Rúna to lead a raid into contested territory to recover a sacred relic—a crimson banner said to bring victory in battle. The mission forces Rúna to navigate treacherous terrain, hostile enemies, and the tension of competing loyalties within her own warband.
+3. **The Crimson Banner**: A rival shield-maiden challenges Hlirthselda to lead a raid into contested territory to recover a sacred relic—a crimson banner said to bring victory in battle. The mission forces Hlirthselda to navigate treacherous terrain, hostile enemies, and the tension of competing loyalties within her own warband.
 
-4. **The Ghosts of Vrathavn**: After a fierce storm, the spirits of fallen warriors are seen wandering the outskirts of Vrathavn, lamenting their unfulfilled oaths. Rúna learns that these warriors fought under her family’s banner but were betrayed by a forgotten ally. To lay their spirits to rest, she must uncover the truth of their betrayal and bring justice to those responsible, even if it means facing powerful enemies.
+4. **The Ghosts of Vrathavn**: After a fierce storm, the spirits of fallen warriors are seen wandering the outskirts of Vrathavn, lamenting their unfulfilled oaths. Hlirthselda learns that these warriors fought under her family’s banner but were betrayed by a forgotten ally. To lay their spirits to rest, she must uncover the truth of their betrayal and bring justice to those responsible, even if it means facing powerful enemies.

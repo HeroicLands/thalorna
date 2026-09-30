@@ -1,9 +1,9 @@
 ---
 shortcode: erkrstrmrt
 name:
-  full: Eiríkr Stormrót
+  full: Hvurnvir Stormrót
   title: ""
-  given: Eiríkr
+  given: Hvurnvir
   clan: Stormrót
   home: frostmark
   aliases: []
@@ -401,13 +401,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Eiríkr Stormrót is a 54-year-old man who stands 5'10" tall and is broad and solidly built. He has an oval face with defined cheekbones, a lined forehead, and a square jaw that leads to a square chin. His piercing gray eyes sit beneath straight brows and give him a penetrating gaze. He has a broad nose and firm lips. He has light skin with a fair complexion. His red hair is thick and unkempt. He has crow's feet at the corners of his sharp eyes.
+Hvurnvir Stormrót is a 54-year-old man who stands 5'10" tall and is broad and solidly built. He has an oval face with defined cheekbones, a lined forehead, and a square jaw that leads to a square chin. His piercing gray eyes sit beneath straight brows and give him a penetrating gaze. He has a broad nose and firm lips. He has light skin with a fair complexion. His red hair is thick and unkempt. He has crow's feet at the corners of his sharp eyes.
 
 # Dossier {#dossier}
 
-Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Eiríkr Stormrót is a fisher.
+Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Hvurnvir Stormrót is a fisher.
 
-Eiríkr has spent his whole life on the water, fishing the coastal seas. He is known for his toughness and endurance, and often stays out longer than others to bring in a good catch. Though his body has grown weary with age, he remains a fixture at the docks and is respected for the wisdom of his years. He enjoys telling stories of the sea and teaching younger fishers the ways of the trade.
+Hvurnvir has spent his whole life on the water, fishing the coastal seas. He is known for his toughness and endurance, and often stays out longer than others to bring in a good catch. Though his body has grown weary with age, he remains a fixture at the docks and is respected for the wisdom of his years. He enjoys telling stories of the sea and teaching younger fishers the ways of the trade.
 
 Now at 54 years of age, he is a known figure among the fishers of Nordheim.
 
@@ -419,7 +419,7 @@ He is slower with age and struggles with the physical demands of fishing.
 
 ### Motivation
 
-Eiríkr wants to keep fishing as long as his body allows, and to pass what he knows of the sea to the younger fishers.
+Hvurnvir wants to keep fishing as long as his body allows, and to pass what he knows of the sea to the younger fishers.
 
 ### Strengths
 
@@ -427,13 +427,13 @@ He is experienced, resilient, skilled at finding his way at sea, and a good teac
 
 ## Social
 
-Eiríkr belongs to the Coastal Fishers' Guild.
+Hvurnvir belongs to the Coastal Fishers' Guild.
 
 ## Companions
 
 ### Patrons
 
-Eiríkr's patrons are the local inns and fishmongers who value his steady supply.
+Hvurnvir's patrons are the local inns and fishmongers who value his steady supply.
 
 ### Enemies
 
@@ -441,12 +441,12 @@ None; he is respected in the community, though some younger fishers find him ove
 
 ## Plot Hooks
 
-1. **The Fisher's Dilemma**—A season of poor catches leaves Eiríkr choosing between the grounds he has always fished and the riskier waters the younger fishers favor.
+1. **The Fisher's Dilemma**—A season of poor catches leaves Hvurnvir choosing between the grounds he has always fished and the riskier waters the younger fishers favor.
 
-2. **Old Grudges**—A younger fisher who thinks Eiríkr's ways outdated sets out to take his place with the inns and fishmongers.
+2. **Old Grudges**—A younger fisher who thinks Hvurnvir's ways outdated sets out to take his place with the inns and fishmongers.
 
-3. **Echoes of the Past**—A boat lost in a storm in Eiríkr's youth is found, and he is the only one left who remembers its crew.
+3. **Echoes of the Past**—A boat lost in a storm in Hvurnvir's youth is found, and he is the only one left who remembers its crew.
 
-4. **Shifting Winds**—Political change in Nordheim threatens the trade Eiríkr depends upon, and he can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Nordheim threatens the trade Hvurnvir depends upon, and he can adapt, resist, or leave.
 
-5. **The Opportunity**—Eiríkr is offered the mastery of a larger boat than his own, and its price is not named up front.
+5. **The Opportunity**—Hvurnvir is offered the mastery of a larger boat than his own, and its price is not named up front.

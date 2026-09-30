@@ -2,7 +2,7 @@
 shortcode: hornnjordur
 name: {full: The Horn of Njördur, aliases: []}
 type: miscgear
-description: "One of the three regalia of Gróa's quest—the horn of an older sea-power, whose name unsettlingly resembles that of the wraith it is needed to bind."
+description: "One of the three regalia of Tvarnynda's quest—the horn of an older sea-power, whose name unsettlingly resembles that of the wraith it is needed to bind."
 tags: [artifact, regalia, nordlands]
 data: {templatePriority: null, packFolder: nordlands}
 sohl: {system: {weightBase: 2, valueBase: 0, durabilityBase: 12}}
@@ -28,9 +28,9 @@ younger the first time. Some make them kin. A few, told quietly and not in halls
 thing under two names, which would raise an obvious and unwelcome question about what the Ritual of
 Binding actually invokes.
 
-Gróa has been advised not to pursue this question until after the sealing.
+Tvarnynda has been advised not to pursue this question until after the sealing.
 
 ## See Also
 
-- [[scenario-groascmpgn|Gróa's Campaign]] · [[being-njorven|Njörven]]
+- [[scenario-groascmpgn|Tvarnynda's Campaign]] · [[being-njorven|Njörven]]
 - [[lore-njordurritlbinding|The Ritual of Binding]]

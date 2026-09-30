@@ -1,12 +1,6 @@
 ---
 shortcode: rgnvldrsgrnd
-name:
-  full: Rögnvaldr Ásgrind
-  title: ""
-  given: Rögnvaldr
-  clan: Ásgrind
-  home: valgard
-  aliases: []
+name: {full: Enthorv Ásgrind, title: "", given: Enthorv, clan: Ásgrind, home: valgard, aliases: []}
 type: being
 tags: [heroes-and-knaves, tradesfolk, character]
 data:
@@ -435,29 +429,29 @@ sohl:
 
 # Appearance {#appearance}
 
-![[rgnvldrsgrnd|Rögnvaldr Ásgrind]]{float=top-left}
+![[rgnvldrsgrnd|Enthorv Ásgrind]]{float=top-left}
 
-Rögnvaldr stands 6'0" tall with a medium build. He has light weathered skin, graying black hair, and brown eyes. His features include a rectangular face, a straight nose, an angular jawline, a firm-set mouth, and straight brows.
+Enthorv stands 6'0" tall with a medium build. He has light weathered skin, graying black hair, and brown eyes. His features include a rectangular face, a straight nose, an angular jawline, a firm-set mouth, and straight brows.
 
 # Dossier {#dossier}
 
-**Humble Beginnings:** Rögnvaldr was born fifty winters ago in the common quarters of [[place-targud|Targud]]'s capital, the son of a street performer and a tavern keeper. From childhood, he was immersed in performance—his mother taught him to read crowds, his father to move with confidence, and the streets themselves taught him timing and ruthlessness. While other children learned trades, Rögnvaldr learned the subtle art of making people see what he wanted them to see, feel what he wanted them to feel, and spend what they otherwise intended to keep.
+**Humble Beginnings:** Enthorv was born fifty winters ago in the common quarters of [[place-targud|Targud]]'s capital, the son of a street performer and a tavern keeper. From childhood, he was immersed in performance—his mother taught him to read crowds, his father to move with confidence, and the streets themselves taught him timing and ruthlessness. While other children learned trades, Enthorv learned the subtle art of making people see what he wanted them to see, feel what he wanted them to feel, and spend what they otherwise intended to keep.
 
 **Rise to Prominence:** He first gained notice at twenty-three, when his elaborate performance sequence at the Festival of Fréyja so delighted King Alderon III that he was invited to the royal court as a permanent jester. For more than a quarter-century, he has remained the primary court entertainer, surviving the reigns of three monarchs through an uncanny ability to understand what each ruler needed from him—to Alderon III, he was a witty observer of folly; to his successor, a trusted confidant hidden in plain sight; to the current King Brenneth, he is an occasionally dangerous reminder of inconvenient truths wrapped in humor.
 
-**Mastery Earned:** Over the decades, Rögnvaldr has become an unofficial advisor, a subtle intelligence gatherer, and a keeper of secrets. Nobles and merchants alike seek his company, knowing that a jester can speak truths that courtiers dare not voice. His skill at surviving court politics has granted him security and influence unusual for someone of his class. Yet this very success has bred a deep cynicism; he has seen too much deception, too much cruelty masked by silk, too many promises broken for personal gain.
+**Mastery Earned:** Over the decades, Enthorv has become an unofficial advisor, a subtle intelligence gatherer, and a keeper of secrets. Nobles and merchants alike seek his company, knowing that a jester can speak truths that courtiers dare not voice. His skill at surviving court politics has granted him security and influence unusual for someone of his class. Yet this very success has bred a deep cynicism; he has seen too much deception, too much cruelty masked by silk, too many promises broken for personal gain.
 
 ## Psyche
 
 ### Personality
 
-Rögnvaldr is seemingly simple yet deeply complex, openly entertaining yet secretly calculating. His humor is not mere frivolity but a carefully crafted weapon, used to deflate the pompous, expose hypocrisy, and occasionally (rarely) to offer real comfort to the broken. His wit can be cutting, sometimes cruelty masked as comedy, though he stops short of making enemies of the powerful or truly wounding the innocent.
+Enthorv is seemingly simple yet deeply complex, openly entertaining yet secretly calculating. His humor is not mere frivolity but a carefully crafted weapon, used to deflate the pompous, expose hypocrisy, and occasionally (rarely) to offer real comfort to the broken. His wit can be cutting, sometimes cruelty masked as comedy, though he stops short of making enemies of the powerful or truly wounding the innocent.
 
 Beneath the performance, he is a somewhat lonely figure. His constant ability to read people and understand them perfectly has made true friendship nearly impossible—there is always a performance, always a calculation, even with those he cares for. He has learned to be content with affection based on his entertainment value rather than his authentic self, though this acceptance has engendered a quiet melancholy that occasionally surfaces when he thinks no one is watching.
 
 ### Motivation
 
-Rögnvaldr is motivated by two seemingly contradictory drives: the desire to be remembered, and remembered as sincere. Despite his cynicism, he wishes to believe that beneath all the folly and pretense, some authentic connection with his audience remains possible. He also seeks to maintain his current comfortable position—court jester is perhaps the only role in which his particular skills find legitimate and remunerative expression. He is also driven by curiosity about human nature and an almost compulsive need to understand the hidden motivations behind people's actions. Somewhere beneath the worldliness, he harbors a fading hope that his subtle mockery of corruption might occasionally inspire real change.
+Enthorv is motivated by two seemingly contradictory drives: the desire to be remembered, and remembered as sincere. Despite his cynicism, he wishes to believe that beneath all the folly and pretense, some authentic connection with his audience remains possible. He also seeks to maintain his current comfortable position—court jester is perhaps the only role in which his particular skills find legitimate and remunerative expression. He is also driven by curiosity about human nature and an almost compulsive need to understand the hidden motivations behind people's actions. Somewhere beneath the worldliness, he harbors a fading hope that his subtle mockery of corruption might occasionally inspire real change.
 
 ### Strengths
 
@@ -481,29 +475,29 @@ Rögnvaldr is motivated by two seemingly contradictory drives: the desire to be 
 
 ### Patrons
 
-- **King Brenneth II:** The current monarch of Targud, who values Rögnvaldr's ability to speak uncomfortable truths while maintaining plausible deniability. Brenneth has publicly denied ever taking the jester's advice, but privately relies on his insights.
-- **Lady Alrún Dvarnendikh, Court Mistress:** The wife of a powerful noble and one of the few people with whom Rögnvaldr maintains something approaching true friendship; she values his honesty disguised as mockery.
-- **The Innkeeper Styrbjorn:** His oldest friend, who manages the _Silver Wyvern_ tavern where Rögnvaldr performs regularly and keeps a private room where the jester can remove his mask, though he rarely does.
+- **King Brenneth II:** The current monarch of Targud, who values Enthorv's ability to speak uncomfortable truths while maintaining plausible deniability. Brenneth has publicly denied ever taking the jester's advice, but privately relies on his insights.
+- **Lady Alrún Dvarnendikh, Court Mistress:** The wife of a powerful noble and one of the few people with whom Enthorv maintains something approaching true friendship; she values his honesty disguised as mockery.
+- **The Innkeeper Styrbjorn:** His oldest friend, who manages the _Silver Wyvern_ tavern where Enthorv performs regularly and keeps a private room where the jester can remove his mask, though he rarely does.
 
 ### Enemies
 
-- **Lord Castor Thorne, Duke of the Southern Marches:** A nobleman whose secret ambitions Rögnvaldr publicly mocked through elaborate theatrical sequences that were obviously directed at him. Thorne has sworn vengeance, though he dare not move openly against the king's favored jester.
+- **Lord Castor Thorne, Duke of the Southern Marches:** A nobleman whose secret ambitions Enthorv publicly mocked through elaborate theatrical sequences that were obviously directed at him. Thorne has sworn vengeance, though he dare not move openly against the king's favored jester.
 - **The Wazulu:** Religious conservatives who believe jesters are agents of demoralization and have lobbied the church to declare his performances blasphemous. While they lack the power to end his position, they make his life difficult.
-- **His Own Reflection:** The tragic figure Rögnvaldr most opposes is himself—his cynicism, his fear of closeness, and his slowly weakening ability to maintain the performance that defines him.
+- **His Own Reflection:** The tragic figure Enthorv most opposes is himself—his cynicism, his fear of closeness, and his slowly weakening ability to maintain the performance that defines him.
 
 ### Affiliations
 
-- **None formal:** Rögnvaldr maintains independence from official guilds and organizations, preferring to be beholden to no one but the king.
+- **None formal:** Enthorv maintains independence from official guilds and organizations, preferring to be beholden to no one but the king.
 - **The Performers' Underground (unofficial):** He maintains loose connections with other entertainers, acrobats, and performers throughout the realm, creating an informal intelligence network.
 
 ## Plot Hooks
 
-1. **The Jester's Final Riddle:** An elderly jester from a foreign court arrives in Targud, claiming to have known Rögnvaldr's father (a claim Rögnvaldr has long denied). The visitor claims to possess information about Rögnvaldr's origins that would fundamentally change his understanding of himself. Rögnvaldr finds himself unable to dismiss the claim through humor, and recruits adventurers to investigate the truth. What begins as a search for biographical information transforms into a quest touching on magic, prophecy, and the possibility that Rögnvaldr's entire life has been shaped by forces beyond his understanding.
+1. **The Jester's Final Riddle:** An elderly jester from a foreign court arrives in Targud, claiming to have known Enthorv's father (a claim Enthorv has long denied). The visitor claims to possess information about Enthorv's origins that would fundamentally change his understanding of himself. Enthorv finds himself unable to dismiss the claim through humor, and recruits adventurers to investigate the truth. What begins as a search for biographical information transforms into a quest touching on magic, prophecy, and the possibility that Enthorv's entire life has been shaped by forces beyond his understanding.
 
-2. **The Courtier's Conspiracy:** Rögnvaldr discovers evidence that a faction of nobles is plotting against King Brenneth II. His usual methods—subtle public mockery and private suggestions—are insufficient to stop the conspiracy directly. He must recruit adventurers to gather proof, sabotage the plotters' preparations, and ultimately protect the king without revealing the conspiracy publicly (which would damage the crown). One of the conspirators is someone Rögnvaldr cares for, which leaves him facing a real moral problem rather than a cynical calculation.
+2. **The Courtier's Conspiracy:** Enthorv discovers evidence that a faction of nobles is plotting against King Brenneth II. His usual methods—subtle public mockery and private suggestions—are insufficient to stop the conspiracy directly. He must recruit adventurers to gather proof, sabotage the plotters' preparations, and ultimately protect the king without revealing the conspiracy publicly (which would damage the crown). One of the conspirators is someone Enthorv cares for, which leaves him facing a real moral problem rather than a cynical calculation.
 
-3. **The Traveling Show:** Rögnvaldr grows restless with the court and decides to tour the kingdom with a traveling theatrical troupe he recruits adventurers to protect. As they move from town to town, they discover that performances he creates inadvertently inspire peasants to rebellion against oppressive local lords. Rögnvaldr can continue the performances knowing they have revolutionary consequences, or abandon the most authentic work he has engaged in for decades.
+3. **The Traveling Show:** Enthorv grows restless with the court and decides to tour the kingdom with a traveling theatrical troupe he recruits adventurers to protect. As they move from town to town, they discover that performances he creates inadvertently inspire peasants to rebellion against oppressive local lords. Enthorv can continue the performances knowing they have revolutionary consequences, or abandon the most authentic work he has engaged in for decades.
 
-4. **The Prophet in Motley:** Rögnvaldr begins experiencing dreams of true prophetic clarity—visions of future disasters, disasters that can be prevented but only if he reveals knowledge he should not possess. Fighting against his cynical nature, he slowly accepts that something real—magic, destiny, divine will—is breaking through his carefully constructed irony. He recruits adventurers to help prevent the catastrophes while avoiding revealing that a jester is the source of the intelligence.
+4. **The Prophet in Motley:** Enthorv begins experiencing dreams of true prophetic clarity—visions of future disasters, disasters that can be prevented but only if he reveals knowledge he should not possess. Fighting against his cynical nature, he slowly accepts that something real—magic, destiny, divine will—is breaking through his carefully constructed irony. He recruits adventurers to help prevent the catastrophes while avoiding revealing that a jester is the source of the intelligence.
 
-5. **The Mask Remembers:** A mysterious figure from Rögnvaldr's past emerges from hiding—someone he once loved but was forced to abandon because of his position at court. This person has not aged as they should have, suggesting magical preservation or intervention. Their return forces Rögnvaldr to confront what he sacrificed to maintain his position and to consider whether he has been a fool in the most tragic sense. The person needs his help with something dangerous and morally complicated, and Rögnvaldr must find the line between the jester who can speak uncomfortable truths and the man who has spent fifty years avoiding the truth about himself.
+5. **The Mask Remembers:** A mysterious figure from Enthorv's past emerges from hiding—someone he once loved but was forced to abandon because of his position at court. This person has not aged as they should have, suggesting magical preservation or intervention. Their return forces Enthorv to confront what he sacrificed to maintain his position and to consider whether he has been a fool in the most tragic sense. The person needs his help with something dangerous and morally complicated, and Enthorv must find the line between the jester who can speak uncomfortable truths and the man who has spent fifty years avoiding the truth about himself.

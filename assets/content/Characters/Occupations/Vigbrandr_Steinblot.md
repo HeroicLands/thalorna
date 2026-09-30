@@ -1,9 +1,9 @@
 ---
 shortcode: vgbrndrstnblt
 name:
-  full: Vígbrandr Steinblót
+  full: Glarvorv Steinblót
   title: ""
-  given: Vígbrandr
+  given: Glarvorv
   clan: Steinblót
   home: ulfheim
   aliases: []
@@ -400,15 +400,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Vígbrandr Steinblót is a 35-year-old man who stands 5'7" tall and is of moderate build. He has a long face with high cheekbones, a narrow forehead, and a broad jaw that leads to a cleft chin. His sharp gray eyes sit beneath prominent brows, lending him an incisive gaze. A straight nose and wide lips complete his features. He has pale skin with a pale complexion. His brown hair is braided at the temples.
+Glarvorv Steinblót is a 35-year-old man who stands 5'7" tall and is of moderate build. He has a long face with high cheekbones, a narrow forehead, and a broad jaw that leads to a cleft chin. His sharp gray eyes sit beneath prominent brows, lending him an incisive gaze. A straight nose and wide lips complete his features. He has pale skin with a pale complexion. His brown hair is braided at the temples.
 
 # Dossier {#dossier}
 
-Born in the [[place-nordheim|Nordheim]] region to a noble family of Nordheimn heritage, Vígbrandr Steinblót came into the world of the perfumer through a combination of circumstance and aptitude.
+Born in the [[place-nordheim|Nordheim]] region to a noble family of Nordheimn heritage, Glarvorv Steinblót came into the world of the perfumer through a combination of circumstance and aptitude.
 
-Vígbrandr is a renowned perfumer who specializes in crafting bold and exotic scents. He is known for using unconventional ingredients, often sourcing rare plants and flowers from distant lands. Vígbrandr has developed a reputation for his artistic approach to perfumery and has garnered a loyal clientele. He enjoys the challenge of creating scents that evoke powerful emotions and memories.
+Glarvorv is a renowned perfumer who specializes in crafting bold and exotic scents. He is known for using unconventional ingredients, often sourcing rare plants and flowers from distant lands. Glarvorv has developed a reputation for his artistic approach to perfumery and has garnered a loyal clientele. He enjoys the challenge of creating scents that evoke powerful emotions and memories.
 
-Now at 35 years of age, Vígbrandr Steinblót has established himself as a known figure among the perfumers of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 35 years of age, Glarvorv Steinblót has established himself as a known figure among the perfumers of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
 
 ## Psyche
 
@@ -418,7 +418,7 @@ Can be too experimental, sometimes alienates traditional customers.
 
 ### Motivation
 
-Vígbrandr is driven by the desire to master his craft and secure a stable future. The uncertainties of life in perfumer work keep him vigilant and adaptable.
+Glarvorv is driven by the desire to master his craft and secure a stable future. The uncertainties of life in perfumer work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -426,15 +426,15 @@ Innovative, highly knowledgeable about exotic ingredients, great at storytelling
 
 ## Social
 
-Vígbrandr is affiliated with Local Artisans' Guild.
+Glarvorv is affiliated with Local Artisans' Guild.
 
-As a Nordheimn perfumer, Vígbrandr occupies a recognized social niche within Nordheim society.
+As a Nordheimn perfumer, Glarvorv occupies a recognized social niche within Nordheim society.
 
 ## Companions
 
 ### Patrons
 
-Vígbrandr's primary patron is Nobles and adventurers seeking unique fragrances.. This relationship provides both opportunity and obligation.
+Glarvorv's primary patron is Nobles and adventurers seeking unique fragrances.. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -442,12 +442,12 @@ Few; generally well-respected but some traditionalists may disapprove of his met
 
 ## Plot Hooks
 
-1. **The Perfumer's Dilemma**—Vígbrandr faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
+1. **The Perfumer's Dilemma**—Glarvorv faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
 
 2. **Old Grudges**—Few; generally well-respected but some traditionalists may disapprove of his methods. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Vígbrandr's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Glarvorv's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Nordheim threaten to upend the social order that Vígbrandr depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Nordheim threaten to upend the social order that Glarvorv depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Vígbrandr the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Glarvorv the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

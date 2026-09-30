@@ -1,6 +1,12 @@
 ---
 shortcode: kinghakoniii
-name: {full: King Hákon III, title: King, given: Hákon, clan: "", home: skorrborg, aliases: []}
+name:
+  full: King Hlurthann III
+  title: King
+  given: Hlurthann
+  clan: ""
+  home: skorrborg
+  aliases: []
 type: being
 tags: [character, draft]
 data:

@@ -1,6 +1,12 @@
 ---
 shortcode: hrefnasldr
-name: {full: Hrefna Íseldr, title: "", given: Hrefna, clan: Íseldr, home: ravensholm, aliases: []}
+name:
+  full: Hnarvynda Íseldr
+  title: ""
+  given: Hnarvynda
+  clan: Íseldr
+  home: ravensholm
+  aliases: []
 type: being
 tags: [draft, common-folk, character]
 data:
@@ -397,13 +403,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Hrefna Íseldr is a 34-year-old woman who stands 5'10" tall and is of moderate build. She has an oval face with sharp cheekbones, a wide forehead, and a square jaw that leads to a strong chin. Her bright hazel eyes sit beneath straight brows and give her a lively gaze. She has a broad nose and firm lips. She has pale skin with a pale complexion. Her dark blonde hair is plaited in a single thick braid.
+Hnarvynda Íseldr is a 34-year-old woman who stands 5'10" tall and is of moderate build. She has an oval face with sharp cheekbones, a wide forehead, and a square jaw that leads to a strong chin. Her bright hazel eyes sit beneath straight brows and give her a lively gaze. She has a broad nose and firm lips. She has pale skin with a pale complexion. Her dark blonde hair is plaited in a single thick braid.
 
 # Dossier {#dossier}
 
-Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Hrefna Íseldr is a woodcutter.
+Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Hnarvynda Íseldr is a woodcutter.
 
-Hrefna grew up in a family of woodcutters and took to the trade naturally. She is known for her quick work and for finding her way through dense forest to the best trees for cutting. She works alongside her brothers, who have come to respect her skill and knowledge of the craft. Despite the physical demands of the job, she enjoys the work and feels free in the forest.
+Hnarvynda grew up in a family of woodcutters and took to the trade naturally. She is known for her quick work and for finding her way through dense forest to the best trees for cutting. She works alongside her brothers, who have come to respect her skill and knowledge of the craft. Despite the physical demands of the job, she enjoys the work and feels free in the forest.
 
 Now at 34 years of age, she is a known figure among the woodcutters of Nordheim.
 
@@ -415,7 +421,7 @@ She sometimes overexerts herself, and can be stubborn about taking advice.
 
 ### Motivation
 
-Hrefna wants to keep working the forest beside her brothers and be taken as their equal at the trade.
+Hnarvynda wants to keep working the forest beside her brothers and be taken as their equal at the trade.
 
 ### Strengths
 
@@ -423,13 +429,13 @@ She is skilled in felling trees, a quick worker, and knows her way through the f
 
 ## Social
 
-Hrefna belongs to the Woodcutters' Guild.
+Hnarvynda belongs to the Woodcutters' Guild.
 
 ## Companions
 
 ### Patrons
 
-Hrefna's patrons are the local builders and furniture makers.
+Hnarvynda's patrons are the local builders and furniture makers.
 
 ### Enemies
 
@@ -437,12 +443,12 @@ Few, though some older woodcutters were initially skeptical of her abilities.
 
 ## Plot Hooks
 
-1. **The Woodcutter's Dilemma**—A builder wants timber from a stand Hrefna knows should be left, and she has to choose between the order and the forest.
+1. **The Woodcutter's Dilemma**—A builder wants timber from a stand Hnarvynda knows should be left, and she has to choose between the order and the forest.
 
 2. **Old Grudges**—One of the older woodcutters who doubted her has not let it go, and finds a way to make it cost her.
 
-3. **Echoes of the Past**—Something from Hrefna's earlier life resurfaces and has to be settled.
+3. **Echoes of the Past**—Something from Hnarvynda's earlier life resurfaces and has to be settled.
 
-4. **Shifting Winds**—Political change in Nordheim threatens the guild and the trade Hrefna depends upon, and she can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Nordheim threatens the guild and the trade Hnarvynda depends upon, and she can adapt, resist, or leave.
 
-5. **The Opportunity**—A chance encounter offers Hrefna more than the trade has ever paid her, and the price is not named up front.
+5. **The Opportunity**—A chance encounter offers Hnarvynda more than the trade has ever paid her, and the price is not named up front.

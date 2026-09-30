@@ -1,9 +1,9 @@
 ---
 shortcode: sgrthrhrfnsvld
 name:
-  full: Sigríthr Hrafnsvald
+  full: Glirvynda Hrafnsvald
   title: ""
-  given: Sigríthr
+  given: Glirvynda
   clan: Hrafnsvald
   home: vindborg
   aliases: []
@@ -405,13 +405,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Sigríthr Hrafnsvald is a 35-year-old woman who stands 5'11" tall and is of moderate build. She has an oval face with defined cheekbones, a prominent forehead, and a strong jaw that leads to a cleft chin. Her deep-set gray eyes sit beneath prominent brows and give her a watchful gaze. She has a broad nose and wide lips. She has light skin with a fair complexion. Her black hair flows past her shoulders.
+Glirvynda Hrafnsvald is a 35-year-old woman who stands 5'11" tall and is of moderate build. She has an oval face with defined cheekbones, a prominent forehead, and a strong jaw that leads to a cleft chin. Her deep-set gray eyes sit beneath prominent brows and give her a watchful gaze. She has a broad nose and wide lips. She has light skin with a fair complexion. Her black hair flows past her shoulders.
 
 # Dossier {#dossier}
 
-Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Sigríthr Hrafnsvald is a shipwright.
+Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Glirvynda Hrafnsvald is a shipwright.
 
-Sigríthr grew up in a family of fishermen, but she was more interested in building boats than sailing on them. She apprenticed with a well-known shipwright and quickly earned a reputation for designing fast and sturdy vessels. She is forever trying new methods, which sets her apart in a trade with few women in it.
+Glirvynda grew up in a family of fishermen, but she was more interested in building boats than sailing on them. She apprenticed with a well-known shipwright and quickly earned a reputation for designing fast and sturdy vessels. She is forever trying new methods, which sets her apart in a trade with few women in it.
 
 Now at 35 years of age, she is a known figure among the shipwrights of Nordheim.
 
@@ -423,7 +423,7 @@ She sometimes puts new methods before the old ones, which causes friction with h
 
 ### Motivation
 
-Sigríthr wants to build ships faster and sturdier than any the old methods produce, and to win over the clients who doubt them.
+Glirvynda wants to build ships faster and sturdier than any the old methods produce, and to win over the clients who doubt them.
 
 ### Strengths
 
@@ -431,13 +431,13 @@ She is inventive, skilled in ship design, and attentive to detail.
 
 ## Social
 
-Sigríthr belongs to the Coastal Shipwrights' Guild.
+Glirvynda belongs to the Coastal Shipwrights' Guild.
 
 ## Companions
 
 ### Patrons
 
-Sigríthr's patrons are the adventurers and traders who come to her for ships built to order.
+Glirvynda's patrons are the adventurers and traders who come to her for ships built to order.
 
 ### Enemies
 
@@ -445,12 +445,12 @@ Traditional shipwrights disapprove of her unconventional designs.
 
 ## Plot Hooks
 
-1. **The Shipwright's Dilemma**—A trader wants a ship built to Sigríthr's newest design, and the guild's masters have warned her against it.
+1. **The Shipwright's Dilemma**—A trader wants a ship built to Glirvynda's newest design, and the guild's masters have warned her against it.
 
-2. **Old Grudges**—A traditional shipwright blames one of Sigríthr's designs for a wreck, and the guild is listening.
+2. **Old Grudges**—A traditional shipwright blames one of Glirvynda's designs for a wreck, and the guild is listening.
 
-3. **Echoes of the Past**—A boat Sigríthr built for her family of fishermen in her apprentice years comes back to her yard broken, with her early work plain to see.
+3. **Echoes of the Past**—A boat Glirvynda built for her family of fishermen in her apprentice years comes back to her yard broken, with her early work plain to see.
 
-4. **Shifting Winds**—Political change in Nordheim threatens the trade Sigríthr depends upon, and she can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Nordheim threatens the trade Glirvynda depends upon, and she can adapt, resist, or leave.
 
-5. **The Opportunity**—Sigríthr is offered a commission larger than any she has built, and its price is not named up front.
+5. **The Opportunity**—Glirvynda is offered a commission larger than any she has built, and its price is not named up front.

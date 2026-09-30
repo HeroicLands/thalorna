@@ -1,9 +1,9 @@
 ---
 shortcode: thrstnjrnskl
 name:
-  full: Thorsteinn Járnskel
+  full: Rulthvir Járnskel
   title: ""
-  given: Thorsteinn
+  given: Rulthvir
   clan: Járnskel
   home: jarnhavn
   aliases: []
@@ -420,9 +420,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[thrstnjrnskl|Thorsteinn Járnskel]]{float=top-left}
+![[thrstnjrnskl|Rulthvir Járnskel]]{float=top-left}
 
-Thorsteinn stands 6'1" tall with a heavy build. He has tanned weathered skin, black hair, and gray eyes. His features include an oblong face, a straight nose, a heavy jawline, a small mouth, and low-set brows.
+Rulthvir stands 6'1" tall with a heavy build. He has tanned weathered skin, black hair, and gray eyes. His features include an oblong face, a straight nose, a heavy jawline, a small mouth, and low-set brows.
 
 # Dossier {#dossier}
 
@@ -430,72 +430,72 @@ Thorsteinn stands 6'1" tall with a heavy build. He has tanned weathered skin, bl
 
 ### Origins Among the Herds
 
-Thorsteinn was born into the Járnskel clan, a family of herders whose bloodline extends back generations among the pastoral valleys of [[place-norgaad|Norgaad]]. His earliest memories are of following his father across windswept highlands, learning to read the moods of livestock and the moods of the weather with equal attentiveness. Where most children played with toys, Thorsteinn practiced herding techniques with the family's mixed flocks. No one forced this education on him; it was simply the texture of his life.
+Rulthvir was born into the Járnskel clan, a family of herders whose bloodline extends back generations among the pastoral valleys of [[place-norgaad|Norgaad]]. His earliest memories are of following his father across windswept highlands, learning to read the moods of livestock and the moods of the weather with equal attentiveness. Where most children played with toys, Rulthvir practiced herding techniques with the family's mixed flocks. No one forced this education on him; it was simply the texture of his life.
 
 ### The Settling Years
 
-By his late teens, Thorsteinn had proven himself a fine herder, commanding respect from livestock and shepherds alike. He established a personal holding in the high valleys that the Járnskel family claimed, a region of dramatic seasonal variation where only the most dedicated herders could maintain successful flocks. He married **Astrid Hlarthendikh**, a healer's daughter, and together they built what became an increasingly prosperous pastoral operation. Their children—two daughters and a son—were raised in the same tradition, though only the youngest, **Steinn the Younger**, showed the passion for herding that defines the Járnskel line.
+By his late teens, Rulthvir had proven himself a fine herder, commanding respect from livestock and shepherds alike. He established a personal holding in the high valleys that the Járnskel family claimed, a region of dramatic seasonal variation where only the most dedicated herders could maintain successful flocks. He married **Marvthýra Hlarthendikh**, a healer's daughter, and together they built what became an increasingly prosperous pastoral operation. Their children—two daughters and a son—were raised in the same tradition, though only the youngest, **Steinn the Younger**, showed the passion for herding that defines the Járnskel line.
 
 ### The Current Era
 
-Now, at forty-five, Thorsteinn has become something of a byword in Norgaad's pastoral communities. His herds are the healthiest, his livestock the strongest, and farmers from three regions seek his counsel on animal husbandry, disease prevention, and grazing strategies. He's watched the world change around him—new kingdoms rise, trade routes shift, younger herders adopt new techniques—and he's remained largely unmoved, maintaining methods that his grandfather used because those methods still work. There is a stability to Thorsteinn Járnskel; he seems as immovable as the mountains.
+Now, at forty-five, Rulthvir has become something of a byword in Norgaad's pastoral communities. His herds are the healthiest, his livestock the strongest, and farmers from three regions seek his counsel on animal husbandry, disease prevention, and grazing strategies. He's watched the world change around him—new kingdoms rise, trade routes shift, younger herders adopt new techniques—and he's remained largely unmoved, maintaining methods that his grandfather used because those methods still work. There is a stability to Rulthvir Járnskel; he seems as immovable as the mountains.
 
 ## Psyche
 
 ### Personality
 
-Thorsteinn is quiet by nature, the kind of man who speaks only when he has something valuable to say, and who listens far more than he talks. This silence can be mistaken for simplicity by those who don't know him, but it masks a sharp intelligence and a deep understanding of how things fit together—the balances that maintain healthy herds, the subtle signs of coming changes in the weather, the web of relationships within pastoral communities. He is kind, particularly to those who approach him with honest humility seeking to learn. He has a dry, understated humor that surfaces rarely but carries warmth when it does.
+Rulthvir is quiet by nature, the kind of man who speaks only when he has something valuable to say, and who listens far more than he talks. This silence can be mistaken for simplicity by those who don't know him, but it masks a sharp intelligence and a deep understanding of how things fit together—the balances that maintain healthy herds, the subtle signs of coming changes in the weather, the web of relationships within pastoral communities. He is kind, particularly to those who approach him with honest humility seeking to learn. He has a dry, understated humor that surfaces rarely but carries warmth when it does.
 
 His primary characteristic, however, is his steadfast commitment to his responsibilities. His herds are not economic assets to him—they're family members he has known individually, often from birth, and he grieves when animals are lost to predation or illness. This emotional investment sometimes strains his family relationships; his wife has occasionally remarked that he treats the livestock with more visible affection than he shows her. His children recognize this as the particular nature of a man whose heart is bound to his flocks, not as coldness.
 
 ### Motivation
 
-Thorsteinn is motivated by a desire that extends beyond human ambition—he wants to preserve the pastoral way of life and the knowledge it represents. He sees the world changing in ways that threaten traditional herding, and he works tirelessly so that young herders learn the old wisdom before it's lost entirely. His herds themselves are a kind of legacy, maintained with great care so that the Járnskel bloodlines continue to thrive. Beyond this, he's driven by something almost spiritual—a sense that caring for livestock is a sacred trust, that the animals in his care depend entirely upon his vigilance and wisdom, and that failing them would be a betrayal of something fundamental to who he is.
+Rulthvir is motivated by a desire that extends beyond human ambition—he wants to preserve the pastoral way of life and the knowledge it represents. He sees the world changing in ways that threaten traditional herding, and he works tirelessly so that young herders learn the old wisdom before it's lost entirely. His herds themselves are a kind of legacy, maintained with great care so that the Járnskel bloodlines continue to thrive. Beyond this, he's driven by something almost spiritual—a sense that caring for livestock is a sacred trust, that the animals in his care depend entirely upon his vigilance and wisdom, and that failing them would be a betrayal of something fundamental to who he is.
 
 ### Strengths
 
-- **Extraordinary Animal Husbandry** - Thorsteinn's understanding of livestock is virtually intuitive. He can diagnose illness from behavioral changes, predict weather shifts from animal responses, manage complex herds with minimal apparent effort, and solve animal-related problems through both traditional and new approaches.
+- **Extraordinary Animal Husbandry** - Rulthvir's understanding of livestock is virtually intuitive. He can diagnose illness from behavioral changes, predict weather shifts from animal responses, manage complex herds with minimal apparent effort, and solve animal-related problems through both traditional and new approaches.
 - **Weather Prediction** - Through decades of observation, he has developed an almost supernatural ability to read weather patterns. He can forecast storms, temperature shifts, and seasonal changes with great accuracy, sometimes days in advance of more formal weather wisdom.
-- **Problem-Solving in Crisis** - When livestock become ill, when predators threaten, when environmental catastrophe looms, Thorsteinn remains calm and methodical, systematically working through solutions rather than panicking. His herds have survived hardships that decimated neighboring flocks.
+- **Problem-Solving in Crisis** - When livestock become ill, when predators threaten, when environmental catastrophe looms, Rulthvir remains calm and methodical, systematically working through solutions rather than panicking. His herds have survived hardships that decimated neighboring flocks.
 - **Physical Strength and Endurance** - His heavy frame carries real strength, and his capacity for sustained physical labor is great. He can work through exhaustion, weather extremes, and hardship that would break younger, apparently stronger individuals.
 - **Trusted Counsel** - His reputation is so established that regional leaders consult him on matters extending beyond animal husbandry. Nobles seek his perspective on agricultural crises, and his judgment has proven sound across diverse contexts.
 - **Deep Environmental Knowledge** - His decades of intimate engagement with Norgaad's terrain have given him a thorough knowledge of geography, water sources, seasonal patterns, and the limits of what the land can give.
-- **Genuine Empathy** - Despite his quiet demeanor, Thorsteinn shows real care for both animals and people, listening to concerns with patient attention and responding with practical assistance.
+- **Genuine Empathy** - Despite his quiet demeanor, Rulthvir shows real care for both animals and people, listening to concerns with patient attention and responding with practical assistance.
 
 ### Weaknesses
 
-- **Inflexible Traditionalism** - Thorsteinn's greatest limitation is his deep attachment to "the way things have always been done." He views new methods with automatic suspicion and rarely adopts them, even when they might save labor or improve results.
-- **Difficulty with Change** - Beyond herding practices, Thorsteinn struggles to adapt to broader social changes. New economic systems, shifting power structures, or evolving social hierarchies often confuse and frustrate him.
-- **Limited Formal Education** - While deeply knowledgeable about his specialty, Thorsteinn lacks formal education in broader subjects. He's largely illiterate and unfamiliar with the formal knowledge systems that govern kingdoms.
-- **Emotional Distance** - While not cold, Thorsteinn maintains emotional distance from most humans. He expresses affection primarily through actions rather than words, which can make him seem distant or unfeeling to those who need affection spoken aloud.
+- **Inflexible Traditionalism** - Rulthvir's greatest limitation is his deep attachment to "the way things have always been done." He views new methods with automatic suspicion and rarely adopts them, even when they might save labor or improve results.
+- **Difficulty with Change** - Beyond herding practices, Rulthvir struggles to adapt to broader social changes. New economic systems, shifting power structures, or evolving social hierarchies often confuse and frustrate him.
+- **Limited Formal Education** - While deeply knowledgeable about his specialty, Rulthvir lacks formal education in broader subjects. He's largely illiterate and unfamiliar with the formal knowledge systems that govern kingdoms.
+- **Emotional Distance** - While not cold, Rulthvir maintains emotional distance from most humans. He expresses affection primarily through actions rather than words, which can make him seem distant or unfeeling to those who need affection spoken aloud.
 - **Narrow Focus** - His complete engagement with herding sometimes leaves him inattentive to broader events. Political upheavals, distant wars, or cultural shifts often escape his awareness until they directly impact pastoral communities.
 - **Overprotectiveness** - His commitment to his herds sometimes manifests as possessiveness. He can become defensive about his animals, reluctant to sell livestock or allow others to direct their care, even when such decisions might benefit his family financially.
-- **Physical Aging** - While still capable, Thorsteinn is beginning to experience the wear of decades of physically demanding work. His back aches in cold weather, and sustained physical labor leaves him more exhausted than it did twenty years ago.
+- **Physical Aging** - While still capable, Rulthvir is beginning to experience the wear of decades of physically demanding work. His back aches in cold weather, and sustained physical labor leaves him more exhausted than it did twenty years ago.
 
 ## Social
 
 ### Patrons
 
-- **Lord Bjorn Stormborn** - A powerful regional noble who depends on Thorsteinn's knowledge to maintain the livestock that supplies his household and feeds his warriors. Bjorn has significant respect for Thorsteinn's judgment and occasionally seeks his counsel on matters beyond herding.
-- **The Pastoral Families of Norgaad** - Thorsteinn has no single patron; he is a trusted advisor to dozens of herding families who regularly seek his counsel and purchase young stock from his herds.
+- **Lord Skrildmýl Stormborn** - A powerful regional noble who depends on Rulthvir's knowledge to maintain the livestock that supplies his household and feeds his warriors. Skrildmýl has significant respect for Rulthvir's judgment and occasionally seeks his counsel on matters beyond herding.
+- **The Pastoral Families of Norgaad** - Rulthvir has no single patron; he is a trusted advisor to dozens of herding families who regularly seek his counsel and purchase young stock from his herds.
 
 ### Enemies
 
-- None formally, though there are subtle tensions with younger herders who view Thorsteinn's traditionalism as an obstacle to new methods and better yields.
+- None formally, though there are subtle tensions with younger herders who view Rulthvir's traditionalism as an obstacle to new methods and better yields.
 
 ### Affiliations
 
 - **The Járnskel Clan** - He remains bound to his family, though his primary emotional investment is in his herds rather than in clan politics.
-- **The Norgaad Pastoral Association** - An informal network of herders across the region who gather seasonally to share knowledge and address common challenges. Thorsteinn is a respected elder and keeper of traditional wisdom.
+- **The Norgaad Pastoral Association** - An informal network of herders across the region who gather seasonally to share knowledge and address common challenges. Rulthvir is a respected elder and keeper of traditional wisdom.
 
 ## Plot Hooks
 
-1. **The Plague Among the Herds**: - A mysterious illness begins spreading among livestock across Norgaad, affecting cattle, sheep, and goats indiscriminately. Thorsteinn's herds are among the first infected, and his ability to contain the spread becomes critical to regional survival. The disease appears to have no natural cause, leading to talk of magical corruption or divine punishment. Thorsteinn must work with healers, nobles, and possibly adventurers to identify the source while watching his beloved herds sicken and die. The crisis tests whether traditional knowledge is enough or whether new approaches are needed.
+1. **The Plague Among the Herds**: - A mysterious illness begins spreading among livestock across Norgaad, affecting cattle, sheep, and goats indiscriminately. Rulthvir's herds are among the first infected, and his ability to contain the spread becomes critical to regional survival. The disease appears to have no natural cause, leading to talk of magical corruption or divine punishment. Rulthvir must work with healers, nobles, and possibly adventurers to identify the source while watching his beloved herds sicken and die. The crisis tests whether traditional knowledge is enough or whether new approaches are needed.
 
-2. **The Herder's Choice**: - Thorsteinn's son, **Steinn the Younger**, seeks permission to leave the herding life to train as a warrior in a distant kingdom. Thorsteinn, who has always assumed his son would continue the family tradition, is devastated and refuses to grant permission. Steinn goes anyway, creating a rift that forces Thorsteinn to ask whether tradition can be preserved by compulsion or only by willing choice.
+2. **The Herder's Choice**: - Rulthvir's son, **Steinn the Younger**, seeks permission to leave the herding life to train as a warrior in a distant kingdom. Rulthvir, who has always assumed his son would continue the family tradition, is devastated and refuses to grant permission. Steinn goes anyway, creating a rift that forces Rulthvir to ask whether tradition can be preserved by compulsion or only by willing choice.
 
-3. **The Ecological Shift**: - Over successive seasons, Thorsteinn notices that the climate of his traditional pasturing regions is changing in subtle but concerning ways. The mountains that have reliably provided water sources are producing less runoff. Plant growth patterns are shifting. The understanding of his environment that has guided him for decades is becoming unreliable. He can abandon centuries of family tradition and move his herds to new territories, or keep his holding going in increasingly hard conditions.
+3. **The Ecological Shift**: - Over successive seasons, Rulthvir notices that the climate of his traditional pasturing regions is changing in subtle but concerning ways. The mountains that have reliably provided water sources are producing less runoff. Plant growth patterns are shifting. The understanding of his environment that has guided him for decades is becoming unreliable. He can abandon centuries of family tradition and move his herds to new territories, or keep his holding going in increasingly hard conditions.
 
-4. **The Mysterious Stranger's Request**: - A wealthy, mysterious traveler arrives requesting that Thorsteinn provide her with a specific animal from his herds—not a young breeding animal or a prized specimen, but a particular ordinary sheep or goat that seems unremarkable. When Thorsteinn refuses without explanation, the stranger becomes insistent, offering sums of money far exceeding the animal's value. The implication is that something is unusual about this particular creature, and Thorsteinn is forced to investigate while under mounting pressure from this stranger.
+4. **The Mysterious Stranger's Request**: - A wealthy, mysterious traveler arrives requesting that Rulthvir provide her with a specific animal from his herds—not a young breeding animal or a prized specimen, but a particular ordinary sheep or goat that seems unremarkable. When Rulthvir refuses without explanation, the stranger becomes insistent, offering sums of money far exceeding the animal's value. The implication is that something is unusual about this particular creature, and Rulthvir is forced to investigate while under mounting pressure from this stranger.
 
-5. **The Alliance Against the Encroachment**: - Regional lords begin discussing grand plans to expand agricultural development, which would involve converting Thorsteinn's traditional pastoral lands into formal farmland. While the project would theoretically benefit the broader region economically, it would destroy the pastoral way of life that Thorsteinn has devoted his entire existence to preserving. He must organize political opposition to the project. His wisdom and the respect he commands in the region make him a natural leader of resistance, though he has never before set himself against powerful forces.
+5. **The Alliance Against the Encroachment**: - Regional lords begin discussing grand plans to expand agricultural development, which would involve converting Rulthvir's traditional pastoral lands into formal farmland. While the project would theoretically benefit the broader region economically, it would destroy the pastoral way of life that Rulthvir has devoted his entire existence to preserving. He must organize political opposition to the project. His wisdom and the respect he commands in the region make him a natural leader of resistance, though he has never before set himself against powerful forces.

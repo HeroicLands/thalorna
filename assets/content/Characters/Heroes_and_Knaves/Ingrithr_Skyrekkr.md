@@ -1,10 +1,10 @@
 ---
 shortcode: ingrthrskyrkr
 name:
-  full: Íngrithr Skýrekkr
+  full: Dvilgthýra Skraldumakh
   title: ""
-  given: Íngrithr
-  clan: Skýrekkr
+  given: Dvilgthýra
+  clan: Skraldumakh
   home: havamal
   aliases: []
 type: being
@@ -419,9 +419,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[ingrthrskyrkr|Íngrithr Skýrekkr]]{float=top-left}
+![[ingrthrskyrkr|Dvilgthýra Skraldumakh]]{float=top-left}
 
-Íngrithr stands 5'8" tall with a light build. She has pale fair skin, black hair, and hazel eyes. Her features include a broad face, a snub nose, a narrow chin, rosy lips, light brows, and soft cheeks.
+Dvilgthýra stands 5'8" tall with a light build. She has pale fair skin, black hair, and hazel eyes. Her features include a broad face, a snub nose, a narrow chin, rosy lips, light brows, and soft cheeks.
 
 # Dossier {#dossier}
 
@@ -429,29 +429,29 @@ sohl:
 
 ### The Taking
 
-Íngrithr does not remember her freedom, though she was born to it. She was seven years old when the slave-traders came through the rural villages of the [[affiliation-kingdomlgn|Kingdom of Malagna]]. Her mother had gone to market, and her father was working in the fields. Slave-catchers came to their cottage, and Íngrithr was taken along with four other children from her village. That was twenty years ago. The woman that the traders claimed was her mother, who should have come to purchase her back, never appeared. Either her mother never learned where Íngrithr had been taken, or could not afford the ransom. Íngrithr has long since stopped wondering which.
+Dvilgthýra does not remember her freedom, though she was born to it. She was seven years old when the slave-traders came through the rural villages of the [[affiliation-kingdomlgn|Kingdom of Malagna]]. Her mother had gone to market, and her father was working in the fields. Slave-catchers came to their cottage, and Dvilgthýra was taken along with four other children from her village. That was twenty years ago. The woman that the traders claimed was her mother, who should have come to purchase her back, never appeared. Either her mother never learned where Dvilgthýra had been taken, or could not afford the ransom. Dvilgthýra has long since stopped wondering which.
 
 ### The Household
 
-For the first five years, Íngrithr was passed between owners, her worth declining as she grew older and less "valuable" as a house servant. She was purchased at age twelve by the current master, **Lord Aldwyn Darkmore**, a cold and exacting nobleman of moderate wealth who preferred competent staff to beautiful ones. In his household, Íngrithr discovered she had a gift for anticipating needs—she could read a person's mood in their posture and have what they required ready before they asked for it. She became extraordinarily valuable precisely because she was so good at being invisible, at providing service without demanding recognition or sympathy.
+For the first five years, Dvilgthýra was passed between owners, her worth declining as she grew older and less "valuable" as a house servant. She was purchased at age twelve by the current master, **Lord Aldwyn Darkmore**, a cold and exacting nobleman of moderate wealth who preferred competent staff to beautiful ones. In his household, Dvilgthýra discovered she had a gift for anticipating needs—she could read a person's mood in their posture and have what they required ready before they asked for it. She became extraordinarily valuable precisely because she was so good at being invisible, at providing service without demanding recognition or sympathy.
 
 Over the years, she has become the primary household servant, the one person who keeps the entire establishment running. She manages the junior servants, oversees the kitchen, maintains the household accounts, and is the closest thing to a confidante the emotionally distant Lord Aldwyn possesses. Her position has afforded her certain minor privileges—a small private room, slightly better food, the trust of her master. And yet it has also marked her as someone above the other servants, creating resentment among those who have not achieved her status.
 
 ### Present Circumstance
 
-Now twenty-seven years old, Íngrithr exists in the peculiar intersection of being valued and entirely disposable. Her master depends on her—more than he might recognize—but she remains slave, property that can be sold or traded at his whim. She has become highly skilled at managing the household, understanding financial matters, negotiating with merchants, and manipulating situations through subtle influence. Yet she remains bound by law and circumstance to absolute obedience. Recently, she has begun to wonder what freedom might look like, and the question itself terrifies her because to even ask it suggests rebellion.
+Now twenty-seven years old, Dvilgthýra exists in the peculiar intersection of being valued and entirely disposable. Her master depends on her—more than he might recognize—but she remains slave, property that can be sold or traded at his whim. She has become highly skilled at managing the household, understanding financial matters, negotiating with merchants, and manipulating situations through subtle influence. Yet she remains bound by law and circumstance to absolute obedience. Recently, she has begun to wonder what freedom might look like, and the question itself terrifies her because to even ask it suggests rebellion.
 
 ## Psyche
 
 ### Personality
 
-Íngrithr has learned through painful experience that the safest strategy is invisibility combined with meek cooperation. She has perfected the art of appearing submissive while observing everything. Her humor is quiet and private—she rarely laughs where her masters might hear, finding comedy in observations she shares only with the other servants, usually in the safety of the kitchen. She is intelligent and capable of subtle thought, but she has learned to hide this from those with power over her, recognizing that intelligence in a slave can be perceived as threat.
+Dvilgthýra has learned through painful experience that the safest strategy is invisibility combined with meek cooperation. She has perfected the art of appearing submissive while observing everything. Her humor is quiet and private—she rarely laughs where her masters might hear, finding comedy in observations she shares only with the other servants, usually in the safety of the kitchen. She is intelligent and capable of subtle thought, but she has learned to hide this from those with power over her, recognizing that intelligence in a slave can be perceived as threat.
 
 The submissive manner covers a more complex person. She is capable of real kindness toward those more wretched than herself—the oldest servants, the less capable servants who struggle with their duties. She will cover for others' mistakes when she can, see they are fed when rations are short, and listen to their troubles with fellow-feeling. This kindness is not calculated but flows from understanding what it means to be powerless. However, she is also capable of ruthless pragmatism—she has learned to put her own survival first and will do what is necessary to maintain her position, including throwing others under scrutiny when her own safety demands it.
 
 ### Motivation
 
-Íngrithr is driven primarily by the need to survive, to maintain stability and avoid punishment in an existence where both are precarious. This basic survival instinct has blossomed into something more complex: a desperate hope that perhaps her life might be something more than endless labor and servitude. She dreams of freedom with the intensity of someone who has never experienced it, yet fears it equally because freedom is incomprehensible to her. She is motivated also by a desire to prove her worth, perhaps as a way of asserting her humanity in a system that denies it—if she can be so valuable that she is irreplaceable, perhaps she has value that slavery cannot diminish.
+Dvilgthýra is driven primarily by the need to survive, to maintain stability and avoid punishment in an existence where both are precarious. This basic survival instinct has blossomed into something more complex: a desperate hope that perhaps her life might be something more than endless labor and servitude. She dreams of freedom with the intensity of someone who has never experienced it, yet fears it equally because freedom is incomprehensible to her. She is motivated also by a desire to prove her worth, perhaps as a way of asserting her humanity in a system that denies it—if she can be so valuable that she is irreplaceable, perhaps she has value that slavery cannot diminish.
 
 ### Strengths
 
@@ -480,8 +480,8 @@ None in any formal sense. She is dependent entirely on the whim of her master, *
 ### Enemies
 
 - **Other Servants in the Household**: The junior servants resent what they perceive as her elevated position and favor. They sometimes sabotage her work, speak against her to Lord Aldwyn, or deliberately create extra work for her as punishment for her perceived betrayal of servant solidarity.
-- **Senior Housemistress Morvanna**: The elderly servant who would have taken the position Íngrithr now holds has become her bitter enemy, blaming her for being passed over due to age. Morvanna actively works against Íngrithr within the servant hierarchy.
-- **Unspoken Enemies Among Nobility**: Some of the visiting nobles are aware of Íngrithr's position as a boundary-crosser (a servant trusted with knowledge and responsibility beyond her station) and view her with suspicion or hostility. A few have made inappropriate advances toward her, and when she has managed to evade them, they have blamed her for the embarrassment.
+- **Senior Housemistress Morvanna**: The elderly servant who would have taken the position Dvilgthýra now holds has become her bitter enemy, blaming her for being passed over due to age. Morvanna actively works against Dvilgthýra within the servant hierarchy.
+- **Unspoken Enemies Among Nobility**: Some of the visiting nobles are aware of Dvilgthýra's position as a boundary-crosser (a servant trusted with knowledge and responsibility beyond her station) and view her with suspicion or hostility. A few have made inappropriate advances toward her, and when she has managed to evade them, they have blamed her for the embarrassment.
 
 ### Affiliations
 
@@ -489,12 +489,12 @@ None. As an enslaved person in the Kingdom of Malagna, she is forbidden by law f
 
 ## Plot Hooks
 
-1. **The Hidden Will**: A traveler comes to the household as a guest and, during his stay, witnesses Íngrithr's competence and kindness. When he leaves, he leaves behind a carefully hidden letter, written by an old woman who claims to be Íngrithr's mother. The letter speaks of a legal action, filed decades ago but buried in bureaucratic processes, that could potentially free her. The traveler promises to return to help her pursue this claim. Íngrithr faces an agonizing dilemma: hope that freedom is possible, or accept her fate and protect herself from the devastating disappointment that could follow. If she pursues this, she may betray her master's trust, placing her in danger.
+1. **The Hidden Will**: A traveler comes to the household as a guest and, during his stay, witnesses Dvilgthýra's competence and kindness. When he leaves, he leaves behind a carefully hidden letter, written by an old woman who claims to be Dvilgthýra's mother. The letter speaks of a legal action, filed decades ago but buried in bureaucratic processes, that could potentially free her. The traveler promises to return to help her pursue this claim. Dvilgthýra faces an agonizing dilemma: hope that freedom is possible, or accept her fate and protect herself from the devastating disappointment that could follow. If she pursues this, she may betray her master's trust, placing her in danger.
 
-2. **The Magical Binding**: Lord Aldwyn falls gravely ill and in his delirium reveals to Íngrithr that her servitude is bound by more than legal contracts—she has been magically bound to the household by a dark ritual performed on her as a child, something designed to prevent her from escaping or even wanting to escape. A mysterious figure, perhaps a mage or a freed slave, contacts her and offers to break the binding, but doing so requires an act of betrayal against her master. More troublingly, she is not certain the binding is truly constraining her, or if she has simply accepted slavery so completely that the magic is no longer necessary—the chains might be entirely in her mind.
+2. **The Magical Binding**: Lord Aldwyn falls gravely ill and in his delirium reveals to Dvilgthýra that her servitude is bound by more than legal contracts—she has been magically bound to the household by a dark ritual performed on her as a child, something designed to prevent her from escaping or even wanting to escape. A mysterious figure, perhaps a mage or a freed slave, contacts her and offers to break the binding, but doing so requires an act of betrayal against her master. More troublingly, she is not certain the binding is truly constraining her, or if she has simply accepted slavery so completely that the magic is no longer necessary—the chains might be entirely in her mind.
 
-3. **The Secret Pregnancy**: Íngrithr discovers she is pregnant, possibly from an assault by a visiting nobleman that she was powerless to prevent. She has no rights as a mother—any child born to a slave becomes property of her master or can be sold away. She desperately seeks help, approaching a sympathetic visitor who might help her escape before the pregnancy becomes apparent. This desperate flight could be the beginning of freedom or could lead to her recapture and terrible punishment if discovered.
+3. **The Secret Pregnancy**: Dvilgthýra discovers she is pregnant, possibly from an assault by a visiting nobleman that she was powerless to prevent. She has no rights as a mother—any child born to a slave becomes property of her master or can be sold away. She desperately seeks help, approaching a sympathetic visitor who might help her escape before the pregnancy becomes apparent. This desperate flight could be the beginning of freedom or could lead to her recapture and terrible punishment if discovered.
 
-4. **The Household in Decline**: Lord Aldwyn, aging and showing signs of serious illness, begins to make concerning decisions about his estate. Íngrithr realizes that upon his death, her position is not secure—she might be sold as part of the estate settlement or simply abandoned. She begins secretly educating herself in the household accounts and Lord Aldwyn's finances, attempting to position herself somehow to survive his death. Her actions risk appearing treacherous if discovered, but inaction guarantees her vulnerability.
+4. **The Household in Decline**: Lord Aldwyn, aging and showing signs of serious illness, begins to make concerning decisions about his estate. Dvilgthýra realizes that upon his death, her position is not secure—she might be sold as part of the estate settlement or simply abandoned. She begins secretly educating herself in the household accounts and Lord Aldwyn's finances, attempting to position herself somehow to survive his death. Her actions risk appearing treacherous if discovered, but inaction guarantees her vulnerability.
 
-5. **The Underground Movement**: A member of an underground network helping enslaved people achieve freedom makes contact with Íngrithr. The network is apparently well-funded and effective, having successfully moved dozens of people to freedom over recent years. They believe Íngrithr's skills—her intelligence, her knowledge of the household, her ability to move unsuspected—would be of great value to their cause. They ask her to become an agent within noble households, gathering information or subtly assisting escapes. Helping would be deeply dangerous, requiring her to maintain the pretense of absolute loyalty while actually working against her master. But it would also mean becoming part of something larger than her own survival, connecting her to a community dedicated to liberation.
+5. **The Underground Movement**: A member of an underground network helping enslaved people achieve freedom makes contact with Dvilgthýra. The network is apparently well-funded and effective, having successfully moved dozens of people to freedom over recent years. They believe Dvilgthýra's skills—her intelligence, her knowledge of the household, her ability to move unsuspected—would be of great value to their cause. They ask her to become an agent within noble households, gathering information or subtly assisting escapes. Helping would be deeply dangerous, requiring her to maintain the pretense of absolute loyalty while actually working against her master. But it would also mean becoming part of something larger than her own survival, connecting her to a community dedicated to liberation.

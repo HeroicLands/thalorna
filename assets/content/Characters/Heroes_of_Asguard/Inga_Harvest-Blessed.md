@@ -1,9 +1,9 @@
 ---
 shortcode: inghrvstblsd
 name:
-  full: Inga Harvest-Blessed
+  full: Mirvrinna Harvest-Blessed
   title: null
-  given: Inga
+  given: Mirvrinna
   clan: null
   aliases: [Harvest-Blessed]
   home: null
@@ -368,27 +368,27 @@ sohl:
 
 # Appearance {#appearance}
 
-Inga stands 5'7" with a sturdy, strong-limbed frame, weighing about 165 pounds. Her fair skin is sun-darkened and freckled across the nose and cheeks, and her dark blonde hair is kept in a practical braid wound around her head to keep it out of her way while working. Her brown eyes are shrewd and appraising, the eyes of a woman who judges people by what they produce. Her features are plain and honest, with a round face, a snub nose, a firm chin, full lips, and sun-bleached brows. Her forearms are strong and brown from fieldwork, and her calloused hands are rarely idle. Inga dresses in practical homespun—a linen tunic, a heavy apron, leather shoes worn thin at the soles—with dried herbs hanging from her belt, filling the air around her with the scent of lavender and thyme. She carries a pruning knife and a leather pouch of seeds as naturally as a warrior carries a sword.
+Mirvrinna stands 5'7" with a sturdy, strong-limbed frame, weighing about 165 pounds. Her fair skin is sun-darkened and freckled across the nose and cheeks, and her dark blonde hair is kept in a practical braid wound around her head to keep it out of her way while working. Her brown eyes are shrewd and appraising, the eyes of a woman who judges people by what they produce. Her features are plain and honest, with a round face, a snub nose, a firm chin, full lips, and sun-bleached brows. Her forearms are strong and brown from fieldwork, and her calloused hands are rarely idle. Mirvrinna dresses in practical homespun—a linen tunic, a heavy apron, leather shoes worn thin at the soles—with dried herbs hanging from her belt, filling the air around her with the scent of lavender and thyme. She carries a pruning knife and a leather pouch of seeds as naturally as a warrior carries a sword.
 
 # Dossier {#dossier}
 
-Inga was born during a bountiful harvest, a time of great prosperity for her village. Her birth was seen as an omen of continued plenty, and from a young age, Inga showed a remarkable talent for agriculture. Under her care, crops grew larger and more plentiful, and the animals of the village thrived. Inga believed that her abilities were a gift from Fréyr, and she devoted herself to the god, performing rituals and ceremonies to honor him and ensure the continued prosperity of her people.
+Mirvrinna was born during a bountiful harvest, a time of great prosperity for her village. Her birth was seen as an omen of continued plenty, and from a young age, Mirvrinna showed a remarkable talent for agriculture. Under her care, crops grew larger and more plentiful, and the animals of the village thrived. Mirvrinna believed that her abilities were a gift from Fréyr, and she devoted herself to the god, performing rituals and ceremonies to honor him and ensure the continued prosperity of her people.
 
-The saga of Inga Harvest-Blessed tells of how she saved her village from a terrible famine. After several years of prosperity, the rains failed and the crops withered. Inga journeyed to the ancient standing stones of Hjartaland, where Fréyr himself had blessed the earth. There, she performed a ritual of renewal, offering the last of her village's grain to the earth and praying for Fréyr's mercy. A great wind arose, the skies darkened, and rain began to fall. Under her guidance, the villagers replanted their fields, and the harvest that followed was the largest and most bountiful in memory.
+The saga of Mirvrinna Harvest-Blessed tells of how she saved her village from a terrible famine. After several years of prosperity, the rains failed and the crops withered. Mirvrinna journeyed to the ancient standing stones of Hjartaland, where Fréyr himself had blessed the earth. There, she performed a ritual of renewal, offering the last of her village's grain to the earth and praying for Fréyr's mercy. A great wind arose, the skies darkened, and rain began to fall. Under her guidance, the villagers replanted their fields, and the harvest that followed was the largest and most bountiful in memory.
 
 ## Psyche
 
 ### Personality
 
-Inga is practical and no-nonsense, with the calloused hands and weather-beaten face of someone who works the land every day. She has little patience for pretension or laziness and judges people by what they produce rather than what they say. Despite her bluntness, she possesses a deep generosity and will share her last crust of bread with a hungry stranger. She has a rich, hearty laugh and an earthy sense of humor that can make even the grimmest warrior blush. She sings while she works, and her voice is surprisingly beautiful.
+Mirvrinna is practical and no-nonsense, with the calloused hands and weather-beaten face of someone who works the land every day. She has little patience for pretension or laziness and judges people by what they produce rather than what they say. Despite her bluntness, she possesses a deep generosity and will share her last crust of bread with a hungry stranger. She has a rich, hearty laugh and an earthy sense of humor that can make even the grimmest warrior blush. She sings while she works, and her voice is surprisingly beautiful.
 
 ### Motivation
 
-Inga's goal is simple and profound: to ensure that no one goes hungry. She seeks to spread Fréyr's agricultural blessings to every settlement in the north, teaching improved farming techniques alongside the sacred rituals that she believes make the land fertile. She is particularly concerned about the growing frequency of failed harvests and suspects that something is deliberately attacking the fertility of the northern lands.
+Mirvrinna's goal is simple and profound: to ensure that no one goes hungry. She seeks to spread Fréyr's agricultural blessings to every settlement in the north, teaching improved farming techniques alongside the sacred rituals that she believes make the land fertile. She is particularly concerned about the growing frequency of failed harvests and suspects that something is deliberately attacking the fertility of the northern lands.
 
 ### Strengths
 
-Inga's agricultural knowledge combines practical expertise with divine blessing; crops she tends grow faster, stronger, and more abundant. She can sense the health of soil and diagnose blight before it becomes visible. Her standing at the stones of Hjartaland gave her the ability to call rain once per season, a power she uses sparingly and only in genuine emergencies. Her practical skills make her invaluable to any settlement, and her network of farming communities gives her access to food, shelter, and information across the north.
+Mirvrinna's agricultural knowledge combines practical expertise with divine blessing; crops she tends grow faster, stronger, and more abundant. She can sense the health of soil and diagnose blight before it becomes visible. Her standing at the stones of Hjartaland gave her the ability to call rain once per season, a power she uses sparingly and only in genuine emergencies. Her practical skills make her invaluable to any settlement, and her network of farming communities gives her access to food, shelter, and information across the north.
 
 ## Social
 
@@ -396,20 +396,20 @@ Inga's agricultural knowledge combines practical expertise with divine blessing;
 
 ### Patrons
 
-**The Standing Stones of Hjartaland**—This sacred site and its keepers provide Inga with spiritual power and a place to perform her most important rituals.
+**The Standing Stones of Hjartaland**—This sacred site and its keepers provide Mirvrinna with spiritual power and a place to perform her most important rituals.
 
-**The Northern Farmers' Alliance**—A cooperative of farming communities that funds Inga's travels and implements her agricultural innovations across their lands.
+**The Northern Farmers' Alliance**—A cooperative of farming communities that funds Mirvrinna's travels and implements her agricultural innovations across their lands.
 
 ### Enemies
 
-**The Blight-Bringer**—A mysterious entity or person responsible for the increasing frequency of crop failures across the north. Inga has been investigating and is getting dangerously close to the truth.
+**The Blight-Bringer**—A mysterious entity or person responsible for the increasing frequency of crop failures across the north. Mirvrinna has been investigating and is getting dangerously close to the truth.
 
-**Jarl Grimbeard's Tax Collectors**—A lord who imposes crushing taxes on the villages Inga serves, deliberately keeping them dependent and hungry. He views Inga's efforts to improve their harvests as a threat to his control.
+**Jarl Grimbeard's Tax Collectors**—A lord who imposes crushing taxes on the villages Mirvrinna serves, deliberately keeping them dependent and hungry. He views Mirvrinna's efforts to improve their harvests as a threat to his control.
 
 ## Plot Hooks
 
-1. **The Poisoned Harvest**—A village's entire harvest has been tainted with a magical poison that causes madness in those who eat it. Inga must find the source and a cure before the stored grain runs out and starvation sets in.
+1. **The Poisoned Harvest**—A village's entire harvest has been tainted with a magical poison that causes madness in those who eat it. Mirvrinna must find the source and a cure before the stored grain runs out and starvation sets in.
 
-2. **The Famine War**—Two starving settlements are on the verge of war over a limited food supply. Inga must find a way to feed both communities before violence erupts.
+2. **The Famine War**—Two starving settlements are on the verge of war over a limited food supply. Mirvrinna must find a way to feed both communities before violence erupts.
 
-3. **The Blight's Source**—Inga has finally traced the spreading crop failures to their origin: a corrupted ley line deep underground. Reaching it will require delving into ancient tunnels that are home to something far worse than blight.
+3. **The Blight's Source**—Mirvrinna has finally traced the spreading crop failures to their origin: a corrupted ley line deep underground. Reaching it will require delving into ancient tunnels that are home to something far worse than blight.

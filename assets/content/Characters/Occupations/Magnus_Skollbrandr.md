@@ -1,10 +1,10 @@
 ---
 shortcode: mgnsklbrndr
 name:
-  full: Magnús Sköllbrandr
+  full: Flurnvir Glarvumakh
   title: ""
-  given: Magnús
-  clan: Sköllbrandr
+  given: Flurnvir
+  clan: Glarvumakh
   home: haukstad
   aliases: []
 type: being
@@ -400,15 +400,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Magnús Sköllbrandr is a 35-year-old man who stands 5'6" tall and is of moderate build. He has an oval face with wide-set cheekbones, a lined forehead, and a strong jaw that leads to a broad chin. His hooded green eyes sit beneath straight brows, lending him a guarded gaze. A strong nose and curved lips complete his features. He has light skin with a weathered complexion. His red hair is pulled back in a warrior's knot.
+Flurnvir Glarvumakh is a 35-year-old man who stands 5'6" tall and is of moderate build. He has an oval face with wide-set cheekbones, a lined forehead, and a strong jaw that leads to a broad chin. His hooded green eyes sit beneath straight brows, lending him a guarded gaze. A strong nose and curved lips complete his features. He has light skin with a weathered complexion. His red hair is pulled back in a warrior's knot.
 
 # Dossier {#dossier}
 
-Born in the [[place-nordheim|Nordheim]] region to a guilded family of Nordheimn heritage, Magnús Sköllbrandr came into the world of the jeweler through a combination of circumstance and aptitude.
+Born in the [[place-nordheim|Nordheim]] region to a guilded family of Nordheimn heritage, Flurnvir Glarvumakh came into the world of the jeweler through a combination of circumstance and aptitude.
 
-Magnús comes from a family of skilled artisans and has dedicated his life to mastering the art of gem cutting and jewelry making. He is known for his attention to detail and ability to bring out the beauty of each stone he works with. Magnús runs his own shop, where he creates exquisite pieces that attract both commoners and nobles alike. His passion for his craft is evident in every piece he produces.
+Flurnvir comes from a family of skilled artisans and has dedicated his life to mastering the art of gem cutting and jewelry making. He is known for his attention to detail and ability to bring out the beauty of each stone he works with. Flurnvir runs his own shop, where he creates exquisite pieces that attract both commoners and nobles alike. His passion for his craft is evident in every piece he produces.
 
-Now at 35 years of age, Magnús Sköllbrandr has established himself as a known figure among the jewelers of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 35 years of age, Flurnvir Glarvumakh has established himself as a known figure among the jewelers of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
 
 ## Psyche
 
@@ -418,7 +418,7 @@ Can be overly meticulous, struggles with time management during busy periods.
 
 ### Motivation
 
-Magnús is driven by the desire to master his craft and secure a stable future. The uncertainties of life in jeweler work keep him vigilant and adaptable.
+Flurnvir is driven by the desire to master his craft and secure a stable future. The uncertainties of life in jeweler work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -426,15 +426,15 @@ Highly skilled in gem cutting, creative, good business sense.
 
 ## Social
 
-Magnús is affiliated with Local Jewelers' Guild.
+Flurnvir is affiliated with Local Jewelers' Guild.
 
-As a Nordheimn jeweler, Magnús occupies a recognized social niche within Nordheim society.
+As a Nordheimn jeweler, Flurnvir occupies a recognized social niche within Nordheim society.
 
 ## Companions
 
 ### Patrons
 
-Magnús's primary patron is Local nobles and affluent merchants.. This relationship provides both opportunity and obligation.
+Flurnvir's primary patron is Local nobles and affluent merchants.. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -442,12 +442,12 @@ Few; generally respected by fellow artisans.
 
 ## Plot Hooks
 
-1. **The Jeweler's Dilemma**—Magnús faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
+1. **The Jeweler's Dilemma**—Flurnvir faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
 
 2. **Old Grudges**—Few; generally respected by fellow artisans. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Magnús's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Flurnvir's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Nordheim threaten to upend the social order that Magnús depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Nordheim threaten to upend the social order that Flurnvir depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Magnús the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Flurnvir the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

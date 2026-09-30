@@ -64,7 +64,7 @@ Those who claim to have looked on it directly do not agree on much. A shape unde
 
 The Sea Wraith was overthrown long ago by Thórr and put into a watery prison beneath the northern seas, and it has lain there since. It is not dead. The Ritual of Binding seals and does not kill, and the evidence that it has been worked before is that Njörven was already imprisoned when this age began, and is stirring out of that prison now.
 
-What the Nordlands meet is the stirring rather than the thing itself. Storms come in violently and out of season, old curses that had gone quiet wake up, and the influence seeps inland far enough that the Kingdom of Malagna's troubles are no longer separable from it. Gróa's vision names three threats and this is the one she calls most urgent, because the other two—the kingdom's internal strife, and the foreign fleets—get worse in proportion to it.
+What the Nordlands meet is the stirring rather than the thing itself. Storms come in violently and out of season, old curses that had gone quiet wake up, and the influence seeps inland far enough that the Kingdom of Malagna's troubles are no longer separable from it. Tvarnynda's vision names three threats and this is the one she calls most urgent, because the other two—the kingdom's internal strife, and the foreign fleets—get worse in proportion to it.
 
 ## What It Is Not
 
@@ -78,7 +78,7 @@ Nothing engages Njörven in melee. Its minions can be fought and the cult can be
 
 Every version of the story notices the resemblance between Njördur and Njörven, and no two versions agree on what it means. Some tellings make them enemies of old, and the horn the instrument by which the elder power bound the younger the first time. Some make them kin. A few, told quietly and not in halls, make them the same thing under two names—which raises an obvious and unwelcome question about what the Ritual of Binding actually invokes.
 
-Gróa has been advised not to pursue the question until after the sealing.
+Tvarnynda has been advised not to pursue the question until after the sealing.
 
 ## The Cult
 
@@ -88,7 +88,7 @@ Gróa has been advised not to pursue the question until after the sealing.
 
 The rite needs all three regalia and will not proceed on two: the [[miscgear-sprsigrid|Spear of Sigrid]], the [[miscgear-crwnwyrm|Crown of the Wyrm]] and the [[miscgear-hornnjordur|Horn of Njördur]]. It needs the hidden coastal temple and nowhere else. It needs spiritual and material preparation, and the spiritual half falls on the invoker personally.
 
-Then it needs holding. The climax of [[scenario-groascmpgn|Gróa's Campaign]] is a defense rather than a duel, in which the party protects someone deliberately helpless while Njörven's minions, the rival factions and the foreign invaders all arrive at once. A party that has the regalia and no allies does not finish it, because the temple cannot be held by a party alone—the sealing turns on having brought Malagna's fractured clans far enough together that the ground can be held at all.
+Then it needs holding. The climax of [[scenario-groascmpgn|Tvarnynda's Campaign]] is a defense rather than a duel, in which the party protects someone deliberately helpless while Njörven's minions, the rival factions and the foreign invaders all arrive at once. A party that has the regalia and no allies does not finish it, because the temple cannot be held by a party alone—the sealing turns on having brought Malagna's fractured clans far enough together that the ground can be held at all.
 
 And what it buys is a reprieve of the same kind the last one bought. Everyone who works the rite knows that.
 
@@ -97,4 +97,4 @@ And what it buys is a reprieve of the same kind the last one bought. Everyone wh
 - [[affiliation-njorvencult|Njörven's Cult]]—the faction that wants it loose
 - [[lore-njordurritlbinding|The Ritual of Binding]]—the rite, its requirements and its shape
 - [[miscgear-sprsigrid|The Spear of Sigrid]] · [[miscgear-crwnwyrm|The Crown of the Wyrm]] · [[miscgear-hornnjordur|The Horn of Njördur]]—the three regalia
-- [[scenario-groascmpgn|Gróa's Campaign]]—the campaign that ends at the coastal temple
+- [[scenario-groascmpgn|Tvarnynda's Campaign]]—the campaign that ends at the coastal temple

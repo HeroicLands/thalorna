@@ -1,9 +1,9 @@
 ---
 shortcode: yngvrblthl
 name:
-  full: Yngvarr Blóthöll
+  full: Tvalgthann Blóthöll
   title: ""
-  given: Yngvarr
+  given: Tvalgthann
   clan: Blóthöll
   home: ormstead
   aliases: []
@@ -419,9 +419,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[yngvrblthl|Yngvarr Blóthöll]]{float=top-left}
+![[yngvrblthl|Tvalgthann Blóthöll]]{float=top-left}
 
-Yngvarr stands 5'7" tall with a light build. He has light fair skin, red hair, and blue eyes. His features include an oblong face, an aquiline nose, a square jawline, a small mouth, heavy brows.
+Tvalgthann stands 5'7" tall with a light build. He has light fair skin, red hair, and blue eyes. His features include an oblong face, an aquiline nose, a square jawline, a small mouth, heavy brows.
 
 # Dossier {#dossier}
 
@@ -429,27 +429,27 @@ Yngvarr stands 5'7" tall with a light build. He has light fair skin, red hair, a
 
 ### Early Life and the Jester's Gift
 
-Yngvarr was born during the tempestuous month of spring winds in a riverside town of [[place-vithgard|Vithgard]]'s eastern provinces. His mother, **Sigrid the Brewmaster**, kept an inn where merchants and wanderers gathered; his father, a traveling performer himself, remained only long enough to pass on his gift for performance before departing for other horizons. From his earliest years, Yngvarr learned to read faces as others read scrolls—understanding the hidden griefs, the secret joys, the careful calculations behind every expression. He apprenticed under **Master Kolbeinn**, a legendary jester whose wit was said to have averted wars through sheer cleverness, learning that the craft of laughter is perhaps the most dangerous art of all.
+Tvalgthann was born during the tempestuous month of spring winds in a riverside town of [[place-vithgard|Vithgard]]'s eastern provinces. His mother, **Sigrid the Brewmaster**, kept an inn where merchants and wanderers gathered; his father, a traveling performer himself, remained only long enough to pass on his gift for performance before departing for other horizons. From his earliest years, Tvalgthann learned to read faces as others read scrolls—understanding the hidden griefs, the secret joys, the careful calculations behind every expression. He apprenticed under **Master Kolbeinn**, a legendary jester whose wit was said to have averted wars through sheer cleverness, learning that the craft of laughter is perhaps the most dangerous art of all.
 
 ### The Court Years
 
-At twenty, Yngvarr secured patronage with the ducal household of Vithgard, where his talent for reading his audience evolved into a sophisticated practice of political theater. His jokes and performances became increasingly layered—entertaining the masses while conveying subtle messages to the nobility, always walking the razor's edge between wisdom and foolishness. He has witnessed the secret councils of power, the intimate moments of great houses, the hidden shame and pride of kings. His extensive knowledge of folklore and arcane history has proven invaluable in understanding the complex tapestries of power and prophecy that bind the realm.
+At twenty, Tvalgthann secured patronage with the ducal household of Vithgard, where his talent for reading his audience evolved into a sophisticated practice of political theater. His jokes and performances became increasingly layered—entertaining the masses while conveying subtle messages to the nobility, always walking the razor's edge between wisdom and foolishness. He has witnessed the secret councils of power, the intimate moments of great houses, the hidden shame and pride of kings. His extensive knowledge of folklore and arcane history has proven invaluable in understanding the complex tapestries of power and prophecy that bind the realm.
 
 ### The Present Reckoning
 
-Now in his thirtieth year, Yngvarr finds himself caught between the comfort of his established reputation and a gnawing uncertainty about the purpose his performance serves. He has begun taking commissions beyond the Duke's court, traveling to distant festivals and merchant gatherings, searching for something intangible—perhaps redemption, perhaps merely a new challenge that might satisfy his restless spirit.
+Now in his thirtieth year, Tvalgthann finds himself caught between the comfort of his established reputation and a gnawing uncertainty about the purpose his performance serves. He has begun taking commissions beyond the Duke's court, traveling to distant festivals and merchant gatherings, searching for something intangible—perhaps redemption, perhaps merely a new challenge that might satisfy his restless spirit.
 
 ## Psyche
 
 ### Personality
 
-Yngvarr possesses the chameleon's gift, adapting his persona to whatever audience surrounds him. He can evoke laughter from the hardest merchant, draw tears from the coldest nobleman, and inspire courage in the fearful through careful deployment of jest and truth. Yet beneath the perpetual performance lies a contemplative soul, deeply aware of the weight of words and their power to heal or wound. He carries the jester's burden—the knowledge that those who make others laugh often hide the deepest sorrows.
+Tvalgthann possesses the chameleon's gift, adapting his persona to whatever audience surrounds him. He can evoke laughter from the hardest merchant, draw tears from the coldest nobleman, and inspire courage in the fearful through careful deployment of jest and truth. Yet beneath the perpetual performance lies a contemplative soul, deeply aware of the weight of words and their power to heal or wound. He carries the jester's burden—the knowledge that those who make others laugh often hide the deepest sorrows.
 
 His wit is legendary but double-edged; he has wounded as many feelings as he has charmed, though rarely without purpose. His self-awareness borders on obsessive, often leading him to overanalyze his own motivations and question the authenticity of his connections with others. He struggles with genuine vulnerability, fearing that any moment of true feeling might compromise his carefully constructed mask.
 
 ### Motivation
 
-Yngvarr seeks to discover whether his talents for performance and persuasion might serve some greater purpose beyond mere entertainment and political maneuvering. He is driven by an undefined hunger—a sense that the universe speaks through stories and laughter, and that he might be a translator of some cosmic truth. The possibility that his gifts might avert tragedy, heal broken hearts, or illuminate hidden injustices drives him forward, even as he fears his own capacity for deception.
+Tvalgthann seeks to discover whether his talents for performance and persuasion might serve some greater purpose beyond mere entertainment and political maneuvering. He is driven by an undefined hunger—a sense that the universe speaks through stories and laughter, and that he might be a translator of some cosmic truth. The possibility that his gifts might avert tragedy, heal broken hearts, or illuminate hidden injustices drives him forward, even as he fears his own capacity for deception.
 
 ### Strengths
 
@@ -473,15 +473,15 @@ Yngvarr seeks to discover whether his talents for performance and persuasion mig
 
 ### Patrons
 
-- **Duke Ragnarr of Vithgard** - The primary patron who employs Yngvarr's talents for court entertainment and subtle political messaging; their relationship is cordial but transactional
+- **Duke Ragnarr of Vithgard** - The primary patron who employs Tvalgthann's talents for court entertainment and subtle political messaging; their relationship is cordial but transactional
 - **Sigrid Blóthöll** - His mother, the innkeeper, who still provides refuge and honest counsel when he returns home worn by the demands of performance
-- **Master Kolbeinn** - His aging mentor and former teacher, now retired in the mountains, whom Yngvarr consults on matters of ethics and the deeper purposes of his craft
+- **Master Kolbeinn** - His aging mentor and former teacher, now retired in the mountains, whom Tvalgthann consults on matters of ethics and the deeper purposes of his craft
 
 ### Enemies
 
-- **Jorvald the Red** - A rival jester whose less sophisticated humor once dominated the Vithgard court; he schemes constantly to discredit Yngvarr's wit and expose his methods
-- **The Whispered Syndicate** - A network of information brokers who view Yngvarr's access to noble secrets as either an asset to control or a threat to eliminate
-- **Alderman Grevik of the Guildhall** - A strict moralist who views jesters as dangerous corruptors of virtue and has publicly questioned the Duke's patronage of Yngvarr
+- **Jorvald the Red** - A rival jester whose less sophisticated humor once dominated the Vithgard court; he schemes constantly to discredit Tvalgthann's wit and expose his methods
+- **The Whispered Syndicate** - A network of information brokers who view Tvalgthann's access to noble secrets as either an asset to control or a threat to eliminate
+- **Alderman Grevik of the Guildhall** - A strict moralist who views jesters as dangerous corruptors of virtue and has publicly questioned the Duke's patronage of Tvalgthann
 
 ### Affiliations
 
@@ -489,12 +489,12 @@ Yngvarr seeks to discover whether his talents for performance and persuasion mig
 
 ## Plot Hooks
 
-1. **The Duke's Unspoken Confession** - During a late night performance, the Duke drinks heavily and begins to hint at a terrible secret—a past betrayal, an illegitimate child, or perhaps knowledge of a conspiracy at the highest levels of the realm. Yngvarr, sworn to secrecy by the bonds of his position, must decide whether this knowledge demands action or whether discretion truly serves his patron better. The truth could topple the duchy, but concealment gnaws at his conscience.
+1. **The Duke's Unspoken Confession** - During a late night performance, the Duke drinks heavily and begins to hint at a terrible secret—a past betrayal, an illegitimate child, or perhaps knowledge of a conspiracy at the highest levels of the realm. Tvalgthann, sworn to secrecy by the bonds of his position, must decide whether this knowledge demands action or whether discretion truly serves his patron better. The truth could topple the duchy, but concealment gnaws at his conscience.
 
-2. **The Prophecy in Jest** - A traveling mystic attends one of Yngvarr's performances and afterward approaches him with a chilling assertion: that his jokes contain prophetic truth, that the universe speaks through his wit in ways he doesn't consciously understand. She offers cryptic evidence—past jokes that came true, warnings embedded in his past performances. Yngvarr must investigate whether he is a conduit for something far greater, or if this is merely a clever deception preying upon his desire for meaning.
+2. **The Prophecy in Jest** - A traveling mystic attends one of Tvalgthann's performances and afterward approaches him with a chilling assertion: that his jokes contain prophetic truth, that the universe speaks through his wit in ways he doesn't consciously understand. She offers cryptic evidence—past jokes that came true, warnings embedded in his past performances. Tvalgthann must investigate whether he is a conduit for something far greater, or if this is merely a clever deception preying upon his desire for meaning.
 
-3. **The Hidden Heir** - A child arrives at the Duke's court claiming to be the bastard offspring of **Master Kolbeinn**, Yngvarr's mentor. The child possesses extraordinary performance talent and claims Kolbeinn sent them to study under Yngvarr. But the timing is suspicious, and whispers suggest this child may be a spy, an impostor, or worse—a political tool placed to compromise Yngvarr's loyalty. He must discover the truth while potentially training a successor he doesn't trust.
+3. **The Hidden Heir** - A child arrives at the Duke's court claiming to be the bastard offspring of **Master Kolbeinn**, Tvalgthann's mentor. The child possesses extraordinary performance talent and claims Kolbeinn sent them to study under Tvalgthann. But the timing is suspicious, and whispers suggest this child may be a spy, an impostor, or worse—a political tool placed to compromise Tvalgthann's loyalty. He must discover the truth while potentially training a successor he doesn't trust.
 
-4. **The Merchants' Rebellion** - A coalition of wealthy merchants approaches Yngvarr with a proposal: use his access to the Duke's ear to advocate for tax reforms and reduced trade tariffs that benefit commerce. Refusing risks making enemies of powerful merchants; accepting means compromising his relationship with the Duke and potentially betraying his patron's interests. The situation grows more complex when he discovers the merchants' true goal is not reform but complete political restructuring.
+4. **The Merchants' Rebellion** - A coalition of wealthy merchants approaches Tvalgthann with a proposal: use his access to the Duke's ear to advocate for tax reforms and reduced trade tariffs that benefit commerce. Refusing risks making enemies of powerful merchants; accepting means compromising his relationship with the Duke and potentially betraying his patron's interests. The situation grows more complex when he discovers the merchants' true goal is not reform but complete political restructuring.
 
-5. **The Stolen Song** - Yngvarr's most famous composition—a hauntingly beautiful ballad about loss and redemption—appears in a far distant city, performed by an unknown artist who claims it as their own. As Yngvarr investigates, he discovers the song has inspired a genuine movement of change and hope across the realm, but its true authorship remains obscured. He must decide whether to reclaim credit for his art or allow it to serve humanity better as a work of uncertain origin, belonging to all who need it.
+5. **The Stolen Song** - Tvalgthann's most famous composition—a hauntingly beautiful ballad about loss and redemption—appears in a far distant city, performed by an unknown artist who claims it as their own. As Tvalgthann investigates, he discovers the song has inspired a genuine movement of change and hope across the realm, but its true authorship remains obscured. He must decide whether to reclaim credit for his art or allow it to serve humanity better as a work of uncertain origin, belonging to all who need it.

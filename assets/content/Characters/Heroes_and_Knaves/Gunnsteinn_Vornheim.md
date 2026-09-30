@@ -1,9 +1,9 @@
 ---
 shortcode: gnstnvrnhm
 name:
-  full: Gunnsteinn Vörnheim
+  full: Thraldorv Vörnheim
   title: ""
-  given: Gunnsteinn
+  given: Thraldorv
   clan: Vörnheim
   home: haldrvik
   aliases: []
@@ -418,9 +418,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[gnstnvrnhm|Gunnsteinn Vörnheim]]{float=top-left}
+![[gnstnvrnhm|Thraldorv Vörnheim]]{float=top-left}
 
-Gunnsteinn stands 6'2" tall with a heavy build. He has tanned weathered skin, dark brown hair, and blue eyes. His features include a narrow face, an aquiline nose, a broad chin, a slightly downturned mouth, and dark brows. He has a scar on his right forearm.
+Thraldorv stands 6'2" tall with a heavy build. He has tanned weathered skin, dark brown hair, and blue eyes. His features include a narrow face, an aquiline nose, a broad chin, a slightly downturned mouth, and dark brows. He has a scar on his right forearm.
 
 # Dossier {#dossier}
 
@@ -428,21 +428,21 @@ Gunnsteinn stands 6'2" tall with a heavy build. He has tanned weathered skin, da
 
 ### The Warrior's Birth
 
-Gunnsteinn was born the third son of **Ragnar Vörnheim**, a minor jarl of the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], into a world where strength and sword-skill determined a man's worth. As third son, he held no claim to his father's modest holdings—those belonged to his elder brother—and so was raised from his eleventh year as a warrior-for-hire, sent to train under the famous sword-master **Kael Marvarukh** in the fortress-barracks of Greystones. The training was brutal, designed to strip away softness and replace it with reflexive violence. By his sixteenth year, Gunnsteinn had drawn blood in earnest, fighting in border skirmishes against Vithgard's eternal rivals. By his twentieth, he had earned a fearsome reputation as a man who did not fall, did not yield, and did not ask questions of those who employed him.
+Thraldorv was born the third son of **Druskvir Vörnheim**, a minor jarl of the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], into a world where strength and sword-skill determined a man's worth. As third son, he held no claim to his father's modest holdings—those belonged to his elder brother—and so was raised from his eleventh year as a warrior-for-hire, sent to train under the famous sword-master **Kael Marvarukh** in the fortress-barracks of Greystones. The training was brutal, designed to strip away softness and replace it with reflexive violence. By his sixteenth year, Thraldorv had drawn blood in earnest, fighting in border skirmishes against Vithgard's eternal rivals. By his twentieth, he had earned a fearsome reputation as a man who did not fall, did not yield, and did not ask questions of those who employed him.
 
 ### The Years of Iron
 
-For fifteen years, Gunnsteinn hired himself out as a bodyguard, mercenary, and enforcer to the merchant houses, minor lords, and wealthy traders of Vithgard's primary settlements. He took wounds that would have killed lesser men—the forearm scar came during a siege at **Port Vethmark**, when a rival's blade nearly separated hand from wrist; only his great tolerance of pain and a swift healer's intervention preserved his sword-arm. He earned a reputation for absolute loyalty to his employers, steady courage, and a peculiar honor: he would not kill those incapable of defending themselves, and would not raise his hand against women or children under any contract. Such scruples cost him lucrative work, but they were the only lines he would not cross.
+For fifteen years, Thraldorv hired himself out as a bodyguard, mercenary, and enforcer to the merchant houses, minor lords, and wealthy traders of Vithgard's primary settlements. He took wounds that would have killed lesser men—the forearm scar came during a siege at **Port Vethmark**, when a rival's blade nearly separated hand from wrist; only his great tolerance of pain and a swift healer's intervention preserved his sword-arm. He earned a reputation for absolute loyalty to his employers, steady courage, and a peculiar honor: he would not kill those incapable of defending themselves, and would not raise his hand against women or children under any contract. Such scruples cost him lucrative work, but they were the only lines he would not cross.
 
 ### Present Circumstances
 
-At thirty-five years old, Gunnsteinn's body has begun to slow, though imperceptibly to any challenger. The younger warriors in Vithgard's mercenary markets eye him with a mixture of fear and hunger—fear of his proven skill, hunger to displace him and claim his steady income. He has worked recently as a bodyguard for **Lord Henrick Thorne**, a merchant prince with significant enemies, but that contract recently terminated when Henrick's youngest daughter took romantic interest in Gunnsteinn. Rather than risk complication, he separated from the service. Now he walks the cities seeking new work, his reputation preceding him and, in some quarters, prejudging him as little more than a blunt instrument of violence.
+At thirty-five years old, Thraldorv's body has begun to slow, though imperceptibly to any challenger. The younger warriors in Vithgard's mercenary markets eye him with a mixture of fear and hunger—fear of his proven skill, hunger to displace him and claim his steady income. He has worked recently as a bodyguard for **Lord Henrick Thorne**, a merchant prince with significant enemies, but that contract recently terminated when Henrick's youngest daughter took romantic interest in Thraldorv. Rather than risk complication, he separated from the service. Now he walks the cities seeking new work, his reputation preceding him and, in some quarters, prejudging him as little more than a blunt instrument of violence.
 
 ## Psyche
 
 ### Personality
 
-Gunnsteinn is a man of action rather than philosophy, of direct speech rather than careful diplomacy. In social settings, his discomfort is plain; he tends toward monosyllabic responses, averts his gaze from those of higher social standing, and fidgets with his weapons as though uncertain what to do with his massive hands when they are not engaged in combat. Yet this apparent simplicity masks a subtle tactical mind. He plays strategy games with unexpected depth, understands complex military positions that many officers struggle to grasp, and possesses an uncanny ability to read an opponent's intent before they act.
+Thraldorv is a man of action rather than philosophy, of direct speech rather than careful diplomacy. In social settings, his discomfort is plain; he tends toward monosyllabic responses, averts his gaze from those of higher social standing, and fidgets with his weapons as though uncertain what to do with his massive hands when they are not engaged in combat. Yet this apparent simplicity masks a subtle tactical mind. He plays strategy games with unexpected depth, understands complex military positions that many officers struggle to grasp, and possesses an uncanny ability to read an opponent's intent before they act.
 
 His manner with those he respects—which is rare—becomes almost gentle. He takes real care with the safety of those under his protection, often positioning himself to absorb harm before it can reach his charges. With his peers in the mercenary world, he is collegial but distant, aware that friendship and contract work often conflict. The few men he considers true friends receive absolute loyalty and the gift of his honest counsel, though he rarely volunteers words unless solicited.
 
@@ -450,7 +450,7 @@ The warrior's exterior covers a man surprisingly troubled by his life's work. Th
 
 ### Motivation
 
-Gunnsteinn seeks primarily the satisfaction of doing his work well—to earn fair payment for services rendered competently and to rest knowing that those under his protection suffered no harm through his negligence. Secondarily, he harbors a quiet hope that, in his final years, he might find some path toward redemption or rest. The constant violence no longer thrills him as it once did; the kills no longer carry pride. He continues because he knows nothing else, and because the coin sustains a modest life. Yet he wonders—in the dark watches of nights when drink and weariness make him introspective—whether a man of his history can ever earn true peace.
+Thraldorv seeks primarily the satisfaction of doing his work well—to earn fair payment for services rendered competently and to rest knowing that those under his protection suffered no harm through his negligence. Secondarily, he harbors a quiet hope that, in his final years, he might find some path toward redemption or rest. The constant violence no longer thrills him as it once did; the kills no longer carry pride. He continues because he knows nothing else, and because the coin sustains a modest life. Yet he wonders—in the dark watches of nights when drink and weariness make him introspective—whether a man of his history can ever earn true peace.
 
 ### Strengths
 
@@ -472,7 +472,7 @@ Gunnsteinn seeks primarily the satisfaction of doing his work well—to earn fai
 
 ### Patrons
 
-- **Lord Henrick Thorne**: A merchant prince of considerable wealth who has employed Gunnsteinn multiple times for extended contracts, though their current relationship is strained due to personal complications
+- **Lord Henrick Thorne**: A merchant prince of considerable wealth who has employed Thraldorv multiple times for extended contracts, though their current relationship is strained due to personal complications
 - **The Vithgard Mercenaries Guild**: Though not formally a member by choice, the Guild regularly contracts his services for their most dangerous work and provides steady flow of employment
 - **High Priestess Ellara of the Asgardian Temple**: Spiritual authority who has occasionally hired him for sacred protection duties and who views him as a man of real, if conflicted, faith
 
@@ -480,7 +480,7 @@ Gunnsteinn seeks primarily the satisfaction of doing his work well—to earn fai
 
 - **Kael Marvarukh's Successors**: His old mentor's heirs view him as competition for the most prestigious mercenary contracts; they have begun a subtle campaign to undermine his reputation
 - **The Crimson Ravens**: A rival mercenary band that sees him as an obstacle to their own expansion in Vithgard's markets; open conflict between the groups has occurred multiple times
-- **Lord Dalmarr Althendikh**: An ambitious noble whose assassination attempt Gunnsteinn once thwarted while protecting another client; Althendikh has since promised a substantial reward to any who bring Gunnsteinn down
+- **Lord Dalmarr Althendikh**: An ambitious noble whose assassination attempt Thraldorv once thwarted while protecting another client; Althendikh has since promised a substantial reward to any who bring Thraldorv down
 
 ### Affiliations
 
@@ -489,12 +489,12 @@ Gunnsteinn seeks primarily the satisfaction of doing his work well—to earn fai
 
 ## Plot Hooks
 
-1. **The Ghost of Greystones**: A young warrior appears in Vithgard's settlements claiming to be Gunnsteinn's lost brother—the brother he watched die during their training under **Kael Marvarukh** nearly twenty years past. The appearance is uncanny; the man bears the exact same mark on his left shoulder that Gunnsteinn's brother possessed. Yet investigation reveals the man has no history before three years ago. Gunnsteinn becomes obsessed with discovering whether this is a resurrection, an imposter, or a curse, and finds his famous focus fragmenting as the question consumes him.
+1. **The Ghost of Greystones**: A young warrior appears in Vithgard's settlements claiming to be Thraldorv's lost brother—the brother he watched die during their training under **Kael Marvarukh** nearly twenty years past. The appearance is uncanny; the man bears the exact same mark on his left shoulder that Thraldorv's brother possessed. Yet investigation reveals the man has no history before three years ago. Thraldorv becomes obsessed with discovering whether this is a resurrection, an imposter, or a curse, and finds his famous focus fragmenting as the question consumes him.
 
-2. **The Sacred Blade Contract**: The High Priestess **Ellara** approaches Gunnsteinn with a contract unlike any he has accepted before—to retrieve a holy artifact, the Blade of First Creation, stolen from the Asgardian Temple by mysterious raiders. The priestess confides that only Gunnsteinn possesses both the skill and the spiritual standing to bear the blade without corruption. Yet the trail leads him toward a revelation about his past that will shatter his understanding of his training under Kael Marvarukh and force him to reconcile the mentor he revered with a terrible historical truth.
+2. **The Sacred Blade Contract**: The High Priestess **Ellara** approaches Thraldorv with a contract unlike any he has accepted before—to retrieve a holy artifact, the Blade of First Creation, stolen from the Asgardian Temple by mysterious raiders. The priestess confides that only Thraldorv possesses both the skill and the spiritual standing to bear the blade without corruption. Yet the trail leads him toward a revelation about his past that will shatter his understanding of his training under Kael Marvarukh and force him to reconcile the mentor he revered with a terrible historical truth.
 
-3. **The Lord's Rebellion**: **Lord Henrick Thorne**, whom Gunnsteinn served faithfully for two years, approaches him with a covert proposal. Henrick has grown weary of serving the King and wishes to build an independent power base in a distant settlement. He offers Gunnsteinn a position as commander of an army of mercenaries, steady employment for life, and a share in the wealth they will build together—an offer that represents everything Gunnsteinn has been denied by his birth as third son. But accepting means betraying the Kingdom, breaking his implicit oath as a Vithgard citizen, and potentially facing former allies as enemies.
+3. **The Lord's Rebellion**: **Lord Henrick Thorne**, whom Thraldorv served faithfully for two years, approaches him with a covert proposal. Henrick has grown weary of serving the King and wishes to build an independent power base in a distant settlement. He offers Thraldorv a position as commander of an army of mercenaries, steady employment for life, and a share in the wealth they will build together—an offer that represents everything Thraldorv has been denied by his birth as third son. But accepting means betraying the Kingdom, breaking his implicit oath as a Vithgard citizen, and potentially facing former allies as enemies.
 
-4. **The Curse of the Crimson Ravens**: The Crimson Ravens, Gunnsteinn's rivals, appear to be murdering their way through Vithgard's warrior community in a pattern that traces directly toward him. One by one, warriors he fought alongside, trained with, or competed against fall dead under mysterious circumstances. Each death appears to carry a mark linking the Crimson Ravens as perpetrators, yet no evidence directly implicates them. Gunnsteinn must uncover whether he is being deliberately targeted, whether someone else is framing the Ravens, or whether a darker force is at work hunting warriors connected to him.
+4. **The Curse of the Crimson Ravens**: The Crimson Ravens, Thraldorv's rivals, appear to be murdering their way through Vithgard's warrior community in a pattern that traces directly toward him. One by one, warriors he fought alongside, trained with, or competed against fall dead under mysterious circumstances. Each death appears to carry a mark linking the Crimson Ravens as perpetrators, yet no evidence directly implicates them. Thraldorv must uncover whether he is being deliberately targeted, whether someone else is framing the Ravens, or whether a darker force is at work hunting warriors connected to him.
 
-5. **The Path to Redemption**: An elderly healer and philosopher named **Magister Frithgar** offers Gunnsteinn something he has come to desperately crave—a path to spiritual redemption. Frithgar claims to train broken warriors in methods of meditation and honor that can absolve them of the spiritual stain of accumulated killing. But Gunnsteinn's past includes a deed of such darkness (which he has never disclosed to anyone) that he fears no spiritual discipline can wash it away. He can continue to deny the deed existed, seek to have it forgiven, or discover that some acts cannot be absolved and must be borne.
+5. **The Path to Redemption**: An elderly healer and philosopher named **Magister Frithgar** offers Thraldorv something he has come to desperately crave—a path to spiritual redemption. Frithgar claims to train broken warriors in methods of meditation and honor that can absolve them of the spiritual stain of accumulated killing. But Thraldorv's past includes a deed of such darkness (which he has never disclosed to anyone) that he fears no spiritual discipline can wash it away. He can continue to deny the deed existed, seek to have it forgiven, or discover that some acts cannot be absolved and must be borne.

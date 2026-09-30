@@ -1,6 +1,12 @@
 ---
 shortcode: grmrstrmrt
-name: {full: Grímr Stormrót, title: "", given: Grímr, clan: Stormrót, home: greyfjord, aliases: []}
+name:
+  full: Knulthvir Stormrót
+  title: ""
+  given: Knulthvir
+  clan: Stormrót
+  home: greyfjord
+  aliases: []
 type: being
 tags: [draft, administration, character]
 data:
@@ -395,15 +401,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Grímr Stormrót is a 38-year-old man who stands 5'6" tall and is of moderate build. He has a square face with prominent cheekbones, a high forehead, and a square jaw that leads to a square chin. His bright blue eyes sit beneath prominent brows, lending him a lively gaze. A strong nose and firm lips complete his features. He has pale skin with a lightly freckled complexion. His brown hair is pulled back in a warrior's knot.
+Knulthvir Stormrót is a 38-year-old man who stands 5'6" tall and is of moderate build. He has a square face with prominent cheekbones, a high forehead, and a square jaw that leads to a square chin. His bright blue eyes sit beneath prominent brows, lending him a lively gaze. A strong nose and firm lips complete his features. He has pale skin with a lightly freckled complexion. His brown hair is pulled back in a warrior's knot.
 
 # Dossier {#dossier}
 
-Born in the [[place-nordheim|Nordheim]] region to a noble family of Nordheimn heritage, Grímr Stormrót came into the world of the litigant through a combination of circumstance and aptitude.
+Born in the [[place-nordheim|Nordheim]] region to a noble family of Nordheimn heritage, Knulthvir Stormrót came into the world of the litigant through a combination of circumstance and aptitude.
 
-Grímr hails from a prominent family of lawyers and has made a name for himself in the Litigant's Guild. Known for his sharp intellect and eloquence, he specializes in contract disputes and property law. Grímr has a reputation for being a formidable opponent in the courtroom and is sought after by clients seeking to protect their interests. He believes strongly in justice and fairness.
+Knulthvir hails from a prominent family of lawyers and has made a name for himself in the Litigant's Guild. Known for his sharp intellect and eloquence, he specializes in contract disputes and property law. Knulthvir has a reputation for being a formidable opponent in the courtroom and is sought after by clients seeking to protect their interests. He believes strongly in justice and fairness.
 
-Now at 38 years of age, Grímr Stormrót has established himself as a known figure among the litigants of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 38 years of age, Knulthvir Stormrót has established himself as a known figure among the litigants of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
 
 ## Psyche
 
@@ -413,7 +419,7 @@ Can be overly ambitious, sometimes prioritizes career over personal relationship
 
 ### Motivation
 
-Grímr's driving force is the search that defines his life—a quest that shapes every decision he makes and every risk he takes.
+Knulthvir's driving force is the search that defines his life—a quest that shapes every decision he makes and every risk he takes.
 
 ### Strengths
 
@@ -421,15 +427,15 @@ Excellent negotiator, knowledgeable in legal matters, persuasive speaker.
 
 ## Social
 
-Grímr is affiliated with Litigant's Guild.
+Knulthvir is affiliated with Litigant's Guild.
 
-As a Nordheimn litigant, Grímr occupies a recognized social niche within Nordheim society.
+As a Nordheimn litigant, Knulthvir occupies a recognized social niche within Nordheim society.
 
 ## Companions
 
 ### Patrons
 
-Grímr's primary patron is Wealthy clients and local nobles.. This relationship provides both opportunity and obligation.
+Knulthvir's primary patron is Wealthy clients and local nobles.. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -437,12 +443,12 @@ A few rival litigants who envy his success.
 
 ## Plot Hooks
 
-1. **The Litigant's Dilemma**—Grímr faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
+1. **The Litigant's Dilemma**—Knulthvir faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
 
 2. **Old Grudges**—A few rival litigants who envy his success. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Grímr's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Knulthvir's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Nordheim threaten to upend the social order that Grímr depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Nordheim threaten to upend the social order that Knulthvir depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Grímr the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Knulthvir the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

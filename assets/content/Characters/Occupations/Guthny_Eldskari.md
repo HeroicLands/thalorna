@@ -1,9 +1,9 @@
 ---
 shortcode: gthnyldskr
 name:
-  full: Guthný Eldskari
+  full: Nulthynda Eldskari
   title: ""
-  given: Guthný
+  given: Nulthynda
   clan: Eldskari
   home: skarholme
   aliases: []
@@ -403,15 +403,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Guthný Eldskari is a 32-year-old woman who stands 6'0" tall and is of moderate build. She has a long face with wide-set cheekbones, a prominent forehead, and a heavy jaw that leads to a strong chin. Her wide-set green eyes sit beneath straight brows, lending her an open gaze. A straight nose and expressive lips complete her features. She has pale skin with a weathered complexion. Her dark brown hair is braided and coiled at the nape.
+Nulthynda Eldskari is a 32-year-old woman who stands 6'0" tall and is of moderate build. She has a long face with wide-set cheekbones, a prominent forehead, and a heavy jaw that leads to a strong chin. Her wide-set green eyes sit beneath straight brows, lending her an open gaze. A straight nose and expressive lips complete her features. She has pale skin with a weathered complexion. Her dark brown hair is braided and coiled at the nape.
 
 # Dossier {#dossier}
 
-Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Guthný Eldskari came into the world of the laborer (farm) through a combination of circumstance and aptitude.
+Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Nulthynda Eldskari came into the world of the laborer (farm) through a combination of circumstance and aptitude.
 
-Guthný grew up in a family of laborers, working the fields from a young age. She is strong and capable, often taking on physically demanding tasks such as lifting and carrying heavy loads. Guthný is known for her reliability and work ethic, making her a valued member of any crew. Despite the hard labor, she finds satisfaction in her work and enjoys the camaraderie with her fellow workers.
+Nulthynda grew up in a family of laborers, working the fields from a young age. She is strong and capable, often taking on physically demanding tasks such as lifting and carrying heavy loads. Nulthynda is known for her reliability and work ethic, making her a valued member of any crew. Despite the hard labor, she finds satisfaction in her work and enjoys the camaraderie with her fellow workers.
 
-Now at 32 years of age, Guthný Eldskari has established herself as a known figure among the laborer (farm)s of Nordheim. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 32 years of age, Nulthynda Eldskari has established herself as a known figure among the laborer (farm)s of Nordheim. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
 ## Psyche
 
@@ -421,7 +421,7 @@ Can be stubborn, occasionally struggles with more delicate tasks.
 
 ### Motivation
 
-Guthný is driven by the desire to master her craft and secure a stable future. The uncertainties of life in laborer (farm) work keep her vigilant and adaptable.
+Nulthynda is driven by the desire to master her craft and secure a stable future. The uncertainties of life in laborer (farm) work keep her vigilant and adaptable.
 
 ### Strengths
 
@@ -429,15 +429,15 @@ Strong and resilient, excellent teamwork skills, dependable.
 
 ## Social
 
-Guthný is affiliated with Local Laborers' Union.
+Nulthynda is affiliated with Local Laborers' Union.
 
-As a Nordheimn laborer (farm), Guthný occupies a recognized social niche within Nordheim society.
+As a Nordheimn laborer (farm), Nulthynda occupies a recognized social niche within Nordheim society.
 
 ## Companions
 
 ### Patrons
 
-Guthný's primary patron is Local farmers and builders who hire her for various projects.. This relationship provides both opportunity and obligation.
+Nulthynda's primary patron is Local farmers and builders who hire her for various projects.. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -445,12 +445,12 @@ Few; well-respected in the community.
 
 ## Plot Hooks
 
-1. **The Laborer (farm)'s Dilemma**—Guthný faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Nordheim.
+1. **The Laborer (farm)'s Dilemma**—Nulthynda faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Nordheim.
 
 2. **Old Grudges**—Few; well-respected in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Guthný's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Nulthynda's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Nordheim threaten to upend the social order that Guthný depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Nordheim threaten to upend the social order that Nulthynda depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Guthný the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Nulthynda the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
