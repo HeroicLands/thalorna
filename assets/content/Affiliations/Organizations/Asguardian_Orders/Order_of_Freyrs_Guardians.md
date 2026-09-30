@@ -104,7 +104,7 @@ There are three ranks:
 
 - **Sworn Guardian** (_Grönvördr_)—the working warden; assigned to a station or, occasionally, riding as a circuit relief.
 - **Elder Guardian** (_Eldri Grönvördr_)—senior member; may serve as station-warden for a more important valley, may oversee training, sits on the order's Chapter.
-- **Speaker of the Green** (_Groenmáll_)—the order's chair; elected by the Chapter for a five-year term; one position; functions as administrative coordinator rather than commander.
+- **Speaker of the Green** (_Grönmáll_)—the order's chair; elected by the Chapter for a five-year term; one position; functions as administrative coordinator rather than commander.
 
 The order's annual chapter meets in late autumn, after the harvest is stored, in rotation between the three largest active halls. Inter-chapter administration is light and largely conducted by correspondence between Elder Guardians.
 
@@ -120,7 +120,7 @@ The order's training emphasizes the kinds of combat the Defended Hearth requires
 
 ## Notable Members
 
-- **Speaker Thorbjörg Groenmáll**—current Speaker of the Green; a former station-warden of a contested Vrystwald valley; widely regarded as the moral conscience of the contemporary order.
+- **Speaker Thorbjörg Grönmáll**—current Speaker of the Green; a former station-warden of a contested Vrystwald valley; widely regarded as the moral conscience of the contemporary order.
 - The standing Chapter—perhaps sixty Elder Guardians across the five kingdoms; meets in annual rotation.
 
 ## Relations
@@ -133,7 +133,7 @@ The order's training emphasizes the kinds of combat the Defended Hearth requires
 
 ## Identifying Marks
 
-A Sworn Guardian wears the green cloak of the order—undyed wool dyed with the _groenujurt_ plant—over working clothes. The clasp at the throat bears Fródvin's sigil, a sun-disc rising over a sheaf of barley. Elder Guardians wear an additional small bronze pin in the shape of the sheaf alone. The Speaker of the Green wears the great gold sun-disc of office, kept at the rotating chapter hall.
+A Sworn Guardian wears the green cloak of the order—undyed wool dyed with the _grönujurt_ plant—over working clothes. The clasp at the throat bears Fródvin's sigil, a sun-disc rising over a sheaf of barley. Elder Guardians wear an additional small bronze pin in the shape of the sheaf alone. The Speaker of the Green wears the great gold sun-disc of office, kept at the rotating chapter hall.
 
 ## Plot Hooks
 

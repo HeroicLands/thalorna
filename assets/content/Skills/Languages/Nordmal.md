@@ -262,12 +262,18 @@ An **element** is a piece that means something and does not stand alone as a wor
 
 Four things happen at a seam. A stem and an ending that meet on one consonant write it once, which is the bound seam's rule and only the bound seam's: a compound seam writes both, so _storm-_ and `-maelendir` give Stormmaelendir. An element may take a genitive `-s` or `-a` before the seam, which is why the world-ash is Heimsask and the skalds' circle Skaldahringr. An element that would leave a name ending in `f` takes the strong `-r`, so the wolf closes a compound as `-úlfr`. And a god or a thing named for a bare quality takes that `-r` on one element alone, which is how Bjartr and Minnir are built.
 
+**A kept word is not an element.** The words in _The words the tongue keeps_
+are given whole, and a compound never opens with one. An element that shares a
+kept word's sense earns its own row in the table below, and `stórald-` is the
+row that carries the saga.
+
 **Elements that open a compound.**
 
 | element             | what it names                             |
 | ------------------- | ----------------------------------------- |
 | `ald-`, `aldar-`    | an age, and the age's                     |
 | `ás-`, `as-`        | a god of the defending kin                |
+| `bandalag-`         | a league of sworn companies               |
 | `berg-`, `bjarg-`   | a crag                                    |
 | `bjarn-`            | a bear                                    |
 | `bjart-`            | bright                                    |
@@ -278,16 +284,20 @@ Four things happen at a seam. A stem and an ending that meet on one consonant wr
 | `drótt-`            | a war-band sworn to one man               |
 | `eid-`              | an oath sworn at a spear-point            |
 | `eld-`              | fire                                      |
+| `frjáls-`           | free, and sworn to no lord                |
 | `frost-`            | frost                                     |
 | `fród-`             | the peace that wisdom buys                |
 | `grön-`             | green, and growing                        |
 | `gull-`             | gold                                      |
 | `haf-`              | the open sea                              |
+| `hallar-`           | a great hall's                            |
+| `hamar-`            | a hammer                                  |
 | `haug-`             | a howe, a barrow                          |
 | `heims-`            | the world's                               |
 | `hers-`             | a host under arms                         |
 | `hird-`             | a king's household troop                  |
 | `hofs-`             | belonging to a hof                        |
+| `höfud-`            | the head of a body of men                 |
 | `hrafn-`            | a raven                                   |
 | `hrím-`             | rime                                      |
 | `hring-`            | a ring given at a hall                    |
@@ -311,15 +321,20 @@ Four things happen at a seam. A stem and an ending that meet on one consonant wr
 | `ódal-`, `odal-`    | land held by inheritance and not by grant |
 | `orm-`              | a wyrm                                    |
 | `rún-`              | a rune                                    |
+| `sár-`              | a wound                                   |
+| `sigr-`             | a victory won                             |
 | `skalda-`           | the skalds'                               |
 | `skip-`             | a ship                                    |
 | `skjálf-`           | a shaking                                 |
 | `ský-`              | cloud                                     |
+| `smid-`             | a smith                                   |
 | `sól-`              | the sun                                   |
 | `stál-`             | steel                                     |
 | `stein-`            | stone                                     |
+| `stórald-`          | a saga                                    |
 | `storm-`            | a storm                                   |
 | `svart-`            | black                                     |
+| `tal-`              | speech made on another's behalf           |
 | `thrún-`, `thrumu-` | thunder                                   |
 | `thurs-`            | a giant                                   |
 | `ting-`             | the lawful assembly                       |
