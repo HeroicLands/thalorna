@@ -15,4 +15,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-10 bodies in Thalorna name this standing, at levels 6, 7 of their ladders, and each spells it in its own words: **Lieutenant**, **Captain**, **Commander**, **Crew Boss**, **Squadron Commander**, **War-Chief**, **Emir**, **Mistress of a Satellite House**, **Huntmaster**, **Steersman of the Sacred Waters**.
+46 bodies in Thalorna name this standing, at levels 6, 7 of their ladders. **Captain** and **Lieutenant** each stand in 12, **Commander** stands in 9, and **Crew Boss** stands in 8. It also stands singly, in one body each, as **Cell-Master**, **Dýrr Hersir**, **Elding Hersir**, **Emir**, and **Fágr Hersir**, plus 12 more.

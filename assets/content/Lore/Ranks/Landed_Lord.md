@@ -15,4 +15,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-5 bodies in Thalorna name this standing, at level 5 of their ladders, and each spells it in its own words: **Legha'lutu**, **Lesser Nobility**, **Equestrian**, **Hersir**, **Wali**.
+66 bodies in Thalorna name this standing, at level 5 of their ladders. **Legha'lutu** stands in 43, **Lesser Nobility** stands in 8, **Equestrian** stands in 7, and **Hersir** stands in 6. It also stands singly, in one body each, as **Kshetrapāla** and **Wali**.

@@ -15,4 +15,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-13 bodies in Thalorna name this standing, at levels 1, 2, 3, 4 of their ladders, and each spells it in its own words: **Hand**, **Hanger-on**, **Dependent**, **Guest**, **Lay Household**, **Oarswoman**, **Rated Hand**, **Retainer**, **Client**, **Clan-Kin**, **Follower**, **Kin of the Khetai**, **Bearer**.
+42 bodies in Thalorna name this standing, at levels 1, 2, 3, 4 of their ladders. **Hand** stands in 12, **Dependent** and **Hanger-on** each stand in 8, and **Guest** stands in 2. It also stands singly, in one body each, as **Approached**, **Āshrita**, **Bearer**, **Clan-Kin**, and **Client**, plus 10 more.

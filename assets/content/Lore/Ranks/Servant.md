@@ -15,4 +15,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-4 bodies in Thalorna name this standing, at levels 1, 4 of their ladders, and each spells it in its own words: **Servant**, **Temple Servant**, **Ship's Servant**, **Servant of the House**.
+23 bodies in Thalorna name this standing, at levels 1, 4 of their ladders. **Servant** stands in 21. It also stands singly, in one body each, as **Servant of the House** and **Temple Servant**.

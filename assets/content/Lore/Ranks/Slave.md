@@ -15,4 +15,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-7 bodies in Thalorna name this standing, at level 1 of their ladders, and each spells it in its own words: **Unfree**, **Captive**, **Slave**, **Bondsman**, **Thrall**, **Shükrën**, **Temple Bondsman**.
+102 bodies in Thalorna name this standing, at level 1 of their ladders. **Bondsman** stands in 44, **Unfree** stands in 22, **Slave** stands in 15, **Captive** stands in 12, **Thrall** stands in 6, and **Shükrën** stands in 2. It also stands singly, in one body each, as **Temple Bondsman**.

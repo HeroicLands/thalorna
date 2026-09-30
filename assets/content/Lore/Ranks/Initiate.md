@@ -15,4 +15,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-4 bodies in Thalorna name this standing, at levels 3, 4, 5 of their ladders, and each spells it in its own words: **Acolyte**, **Initiate**, **Initiate of the College**, **Wazu of the Hunt**.
+119 bodies in Thalorna name this standing, at levels 3, 4, 5 of their ladders. **Wazu** stands in 18, **Initiate** stands in 16, **Āthravān** stands in 13, **Tq'an'ik** stands in 11, **Acolyte** stands in 9, **Wazu of the House** stands in 8, and **Acolytes**, **Acolytes of the Threshold**, **Apprentice**, and **Wazu of the Hunt** each stand in 2. It also stands singly, in one body each, as **Acolytes of Decay**, **Acolytes of the Garden**, **Acolytes of the Road**, **Acolytes of the Spring**, and **Antevāsin**, plus 31 more.

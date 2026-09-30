@@ -15,4 +15,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-4 bodies in Thalorna name this standing, at levels 1, 2 of their ladders, and each spells it in its own words: **Bondservant**, **Bonded Servant**, **Drudge**, **Spawn-Tender**.
+21 bodies in Thalorna name this standing, at levels 1, 2 of their ladders. **Bonded Servant** stands in 11 and **Bondservant** stands in 10.

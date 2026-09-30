@@ -15,4 +15,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-5 bodies in Thalorna name this standing, at levels 3, 4, 5 of their ladders, and each spells it in its own words: **Kinsman**, **Kinsman of a House**, **Kin by Marriage**, **Kin by Blood**, **Cadet Branch**.
+12 bodies in Thalorna name this standing, at levels 3, 4, 5 of their ladders. **Kinsman** stands in 7 and **Hearth-kin** stands in 2. It also stands singly, in one body each, as **Cadet Branch**, **Kin by Blood**, **Kin by Marriage**, **Kinsman of a House**, and **Of the People**.

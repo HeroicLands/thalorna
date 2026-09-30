@@ -15,4 +15,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-3 bodies in Thalorna name this standing, at levels 2, 4 of their ladders, and each spells it in its own words: **Scribe**, **Clerk**, **Licensed Practitioner**.
+66 bodies in Thalorna name this standing, at levels 2, 4 of their ladders. **Scribe** stands in 44 and **Clerk** stands in 19. It also stands singly, in one body each, as **Censor**, **Licensed Practitioner**, and **Ward Clerk**.
