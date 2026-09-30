@@ -13,7 +13,7 @@ tags: [draft, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [entertainer]
   occupation: Musician (Lute)
   stations: []
   lore: [commonerrnk]

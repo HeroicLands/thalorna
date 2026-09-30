@@ -7,7 +7,7 @@ tags: [draft, guilded, common-folk]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [guildsperson]
   occupation: Cook
   stations: []
   lore: [commonerrnk]

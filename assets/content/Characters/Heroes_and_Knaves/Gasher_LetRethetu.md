@@ -14,7 +14,7 @@ data:
   banner: khelathubnr
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [entertainer]
   occupation: Musician (Lyre)
   stations: []
   lore: [commonerrnk]
