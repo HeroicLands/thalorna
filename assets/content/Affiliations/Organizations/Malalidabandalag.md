@@ -91,13 +91,13 @@ _Nordmal: "Pay-Troop Compact"—the league of mercenary companies_
 
 ## Overview
 
-The Nordlands have always produced more warriors than their kingdoms can usefully employ. Younger sons, dispossessed jarls, oath-broken huscarls, drengr without a hall—the surplus has, for centuries, taken ship and hired its sword to whoever would pay. The Málalidabandalag is the institution that grew up around this trade. It is neither a single company nor a single army; it is the compact under which the free companies—the _frjálsalíd_—operate. A captain who signs the Compact swears that his company will accept its rulings on contract disputes, will not break sworn terms with an employer, will not take a contract against another signed company without notice, and will pay the Compact's annual due in silver or, in lean years, in shields and oarsmen for the Compact-Hall's own defenses.
+The Nordlands have always produced more warriors than their kingdoms can usefully employ. Younger sons, dispossessed jarls, oath-broken huscarls, drengr without a hall—the surplus has, for centuries, taken ship and hired its sword to whoever would pay. The Málalidabandalag is the institution that grew up around this trade. It is neither a single company nor a single army; it is the compact under which the free companies—the _frjálsalid_—operate. A captain who signs the Compact swears that his company will accept its rulings on contract disputes, will not break sworn terms with an employer, will not take a contract against another signed company without notice, and will pay the Compact's annual due in silver or, in lean years, in shields and oarsmen for the Compact-Hall's own defenses.
 
 The Compact does not field its own troops. It does not levy. It does not adjudicate between kingdoms. What it does is keep the trade legible: an employer hiring a Compact-signed company knows what he is getting and knows whom to complain to if he does not get it; a captain in a foreign land knows that the Compact will speak for him if a contract is dishonored; and a warrior crossing from one company to another knows the terms of his old oath and the standing of his new one. In a region where kingship is contested, oaths are common, and treachery is a recurring entertainment, that legibility is worth a great deal.
 
 ## Membership and Structure
 
-A company joins the Compact by its captain's oath and its named muster sworn before the **Council of the Hall** at Hringstead. The Council has nine seats—one for each of the three longest-standing companies, three rotating seats elected from junior signed companies, and three seats reserved for retired captains of particular standing (the _grá-káppar_, the "gray champions"). The Council meets four times a year, at the Compact's gathering-feasts.
+A company joins the Compact by its captain's oath and its named muster sworn before the **Council of the Hall** at Hringstead. The Council has nine seats—one for each of the three longest-standing companies, three rotating seats elected from junior signed companies, and three seats reserved for retired captains of particular standing (the _grákáppar_, the "gray champions"). The Council meets four times a year, at the Compact's gathering-feasts.
 
 Day-to-day administration falls to the **Speaker of the Compact** (the _Bandalagstalsmadr_), elected by the Council for a five-year term. The current Speaker is **Hróarr Vetrljóss**, a one-eyed veteran of the Vithgard succession wars who is widely respected and very much feared.
 
@@ -117,7 +117,7 @@ The Compact's standing rules are simple and short. A captain who breaks any of t
 
 ## Notable Signed Companies
 
-- **The Hringstead Long-Ship Fellowship**—largest signed company; semi-permanent garrison of the Compact-Hall itself; commanded by Captain Brynhildr Eldskári.
+- **The Hringstead Long-Ship Fellowship**—largest signed company; semi-permanent garrison of the Compact-Hall itself; commanded by Captain Brynhildr Eldskari.
 - **The Wolves of Vithgard**—long-standing inland heavy infantry; specialty is sieges.
 - **Skjöldungar of Norgaad**—coastal raiders turned legitimate naval contractors; primary employer is the merchant kings of Aelwyth.
 - **The Iron-Beard Company**—smaller, elite, expensive; the only signed company that operates routinely outside the Nordlands. They have taken contracts as far south as Heliónis.

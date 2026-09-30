@@ -39,7 +39,7 @@ data:
         Priest of the land, who hallows the ting island and speaks for the Ten with one voice.
       Höfudgodi: >-
         Head of the faith in one kingdom, seated among its jarls.
-      Hofgodi: >-
+      Hofsgodi: >-
         Keeper of a named hof, its stores and its blót.
       Godi / Gydja: >-
         The working priest or priestess of a hall, who keeps its rites and its people.
@@ -74,7 +74,7 @@ His hofs are few and hard to reach. Holafell in Norgaad is the oldest, a sanctua
 
 ## Clergy
 
-Hrímthur's faithful fill the lower rungs of the pantheon's ladder and leave the upper ones standing empty. Holafell keeps a Hofgodi and the Northern Hall another; no kingdom has named a Höfudgodi of his, and the faithful who are not of a hof answer to nobody at all.
+Hrímthur's faithful fill the lower rungs of the pantheon's ladder and leave the upper ones standing empty. Holafell keeps a Hofsgodi and the Northern Hall another; no kingdom has named a Höfudgodi of his, and the faithful who are not of a hof answer to nobody at all.
 
 **Key Skills:** Stonecraft, Survival in cold, Endurance of pain, Reading frost-marks, the recitation of the cutting
 
@@ -84,7 +84,7 @@ The faith names none. A god who is the world's substance has no messengers, and 
 
 ## High Ceremonies
 
-- **The Renewal of the Wound:** Cut into the rock at Holafell at the turn of winter, by the Hofgodi and as many of the Giant's Children as have come. What is cut is never mended between one year and the next.
+- **The Renewal of the Wound:** Cut into the rock at Holafell at the turn of winter, by the Hofsgodi and as many of the Giant's Children as have come. What is cut is never mended between one year and the next.
 - **The Naming of the Stone:** A hof's grey chips are brought out, counted aloud against the roll of the hall's dead, and returned to the floor.
 
 ## Ordeals for Favor
