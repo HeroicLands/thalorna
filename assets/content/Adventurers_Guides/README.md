@@ -12,6 +12,12 @@ Give the reader reasons to be curious. A useful paragraph says what makes a plac
 
 Keep claims grounded in the corpus. A guide can suggest a possible adventure without declaring an unwritten event to be established fact. Describe a culture's beliefs as its people's beliefs where the wider world does not establish them as fact. Make room for local variation and for characters who disagree with their neighbors.
 
+## The opening story
+
+Begin with a story of someone encountering the land for the first time. Put it in second person. Coming on a caravan, entering a town for the first time, crossing a ridge and seeing a valley; make the description vivid, sensory, enticing, with a palpable sense of excitement at reaching a new land. The opening story should be very short, one or two paragraphs, and should act as an invitation, not a conclusion.
+
+If it makes sense, you may continue using the character from the story throughout the material to enhance or explain how someone foreign might experience the culture; but such should always be in blockquotes to make clear that it is flavor, not the actual description of the culture.
+
 ## What the reader needs
 
 - **A clear invitation.** Open with the place in motion and state the idea that makes life there distinct.
