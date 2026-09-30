@@ -10,21 +10,21 @@ data: {packFolder: adventurersguides}
 
 [[place-zumeleshrvr|A river]] runs north through a desert for a thousand miles and makes a country. Once a year it rises, drowns the fields, and goes down again leaving black silt on them, and everything the [[lore-khelathiclt|Khelâthi]] have built stands on that one fact. Their calendar counts the water. Their gods are argued about in terms of it. Their surveyors re-walk the fields every spring because the flood has taken the boundary stones away again, and the scribes who record what the surveyors find are the most powerful commoners in the world.
 
-The [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] is old in a way no other realm is old. It has been conquered — by hill-nomads, by sea-raiders, by a Vylarian occupation at the height of Vylaria's reach — and each time it has done the same thing, which is to hand the conqueror a scribe, a temple appointment and a throne name, and wait. Two generations later the conquerors are Khelâthi. Nineteen million people live in the valley and the delta, and they do not think of themselves as having survived history so much as having outlasted it.
+The [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] counts its rulers back farther than any neighboring realm, and the Khelâthi hold theirs to be the oldest civilization in the world. It has been conquered — by hill-nomads, by sea-raiders, by a Vylarian occupation at the height of Vylaria's reach — and each time it has done the same thing: handed the conqueror a scribe, a temple appointment, and a throne name, and waited. Before long the conquerors are Khelâthi. In the crowded valley and delta, people speak of outlasting history as readily as surviving it.
 
-**The one thing to understand before anything else: in Aû'Khelâthu, what is written is what is real.** An act nobody witnessed and no scribe entered did not happen — not as a legal fiction, but as the plain sense of the world. An obligation you incur but don't settle counts against you, both civilly and in the afterlife. This is not a setting where documents are a complication on the way to the adventure. The document _is_ the adventure, and the archive is a dungeon with a clerk at the door.
+**The one thing to understand before anything else: in Aû'Khelâthu, a written promise can follow you anywhere.** A witnessed entry gives strangers a way to hold one another to their word, and an entry left open follows its maker toward death. Unwritten duties to kin and household matter just as deeply, though no court can read them back. Come looking for a lost record, a disputed witness, or a name missing from an archive, and you have an adventure before you ever leave the city.
 
 ## The Flood and the Year
 
 The year runs in three seasons of four months, each named for what the water is doing, beginning with the inundation. A farmer reckons everything by that cycle; tax rolls and contracts carry the regnal year of the reigning [[lore-garauu|Gar-Aû]], and temple chronicles count from a beginning so far back that the counting itself is an argument. The full reckoning is in [[lore-khelathclndr|the Khelâthi calendar]].
 
-For a party, the flood is a clock you cannot argue with. During the inundation the fields are underwater and the labour goes elsewhere — to the monuments, to the canals, to whatever the state wants doing while a few million farmers have nothing else to do. Travel is by boat or not at all. When the water goes down, the surveyors come out, and so do the disputes: every year the valley re-litigates who owns what, on the evidence of records held in temples by people with their own interests. A campaign that begins in the wrong week begins in the middle of that.
+Choose the season and you choose the journey. During the inundation, fields disappear beneath the water, labor shifts to canals and monuments, and boats carry travelers between settlements. When the water recedes, surveyors walk the fields and old boundary claims return with them. A party might ferry a witness through the flood, guard a survey crew, or discover that two temples hold different records for the same field.
 
 ## Who Holds Power
 
-The Gar-Aû is divine, and this is understood by everyone including the Gar-Aû to be a working arrangement rather than a fact. Behind the divine theatre is a bureaucracy of real competence: thirty-nine provinces, the selatu, each under a hereditary Halzi'a who answers to the throne and governs with a free hand in practice, all of it run day to day by a scribal class that outlasts every dynasty it serves.
+The [[lore-garauu|Gar-Aû]] is addressed as divine, and the empire's order rests on that claim. Daily power passes through scribes and the hereditary Halzi'a who govern its **selatu**, or provinces. A decree from the throne still needs a provincial governor to act and a clerk to enter what was done. A traveler with a petition may have to win over all three.
 
-The priesthood is the other power, and on a bad century the greater one. A major temple is not a church; it is a landholder, a bank, a school, a court and an employer, and its high priest speaks to the throne as something between a subject and a rival. The throne needs the temples to say it is divine. The temples need the throne to confirm their land. Neither can finish the other, which is the whole of Khelâthi high politics.
+The priesthood is the other power, and on a bad century the greater one. A major temple holds land, lends money, teaches scribes, hears disputes, and employs the people who keep it running. Its high priest speaks to the throne as something between a subject and a rival. The throne needs the temples to affirm its divinity; the temples need the throne to confirm their land. A party carrying news between them can find that both sides want the message delivered differently.
 
 ```sql
 SELECT address.slug AS _ref,
@@ -38,32 +38,32 @@ ORDER BY name.full COLLATE NOCASE
 ```
 
 :::secret
-**For the GM:** The useful tension is that nobody in this system can simply give an order and have it obeyed. A Halzi'a can stall a decree for a season by sending it back to be witnessed and entered properly. A temple can misplace a record. The throne can appoint an auditor. Every one of those moves is legal, which means a party can be hired to make one of them happen without anyone breaking a law — and can be destroyed by one without anyone committing a crime.
+**For the GM:** A Halzi'a can stall a decree for a season by sending it back to be witnessed and entered properly. A temple can misplace a record. The throne can appoint an auditor. Each move can draw a party into a dispute where everyone invokes the law and nobody agrees on what should happen next.
 :::
 
 ## The Two Ledgers
 
-A Khelâthi keeps two accounts and only one of them can be written.
+A Khelâthi keeps two accounts, and only one of them can be written. Understanding the difference gives a visitor a way into nearly every temple, household, and quarrel in the valley.
 
-The first is the temple account: contracts, leases, debts, offices, betrothals, apprenticeships, a vow to keep a well, an agreement to foster a child. Everything a witness saw and a scribe entered, held in a temple, readable back to you for a fee. The second has no name a scribe could use and everyone understands it anyway — what a son owes his mother, what a man owes the master who taught him thirty years ago. No witness was present and nothing was written, and the gods keep it regardless.
+The first is the temple account: contracts, leases, debts, and other undertakings a witness saw and a scribe entered. A temple holds them and reads them back for a fee. The second holds what a person owes a parent, a teacher, or the house that raised them. No witness entered those duties; the gods keep them regardless.
 
-So a promise made privately opens no entry. No court will hear it and there is nothing in the archive to close — and it is not thereby escaped, because the second account is the one the gods are keeping. Attest the written and petition the unwritten: asking a god to set aside a contract is impiety, and asking a god whether you have failed your father is the whole of religion.
+An unwritten promise opens no entry for a court to hear, but it still matters to the people involved and to the gods. A written one belongs in the archive. If your character needs an answer, the difference tells you whether to seek a scribe, a priest, or the person you made the promise to.
 
-Not everything goes in the temple, and the rule is distance. Between people a relationship already binds — kin, neighbours — the tie holds the promise and writing it down would insult somebody. Between **strangers** there is nothing to hold it, so it goes to a temple. Holding the stranger's word is what a temple is _for_, and it is the reason a temple is an archive before it is anything else.
+The rule is distance. Kin and neighbors can hold one another to a promise through the relationship itself; putting it in writing can be an insult. **Strangers** need a witness and an entry. The temple holds their word, which makes its archive as important to daily life as its shrine.
 
-The vocabulary is a clerk's and it is used literally. An entry is **opened** when a promise is witnessed and written down, and **closed** when the outcome is witnessed and written down. One side written and the other still blank means the entry is open, and an open entry is the thing a Khelâthi fears.
+An entry **opens** when a promise is witnessed and written down. It **closes** when the outcome is witnessed and entered. An open entry can follow its maker for years; a character asked to close one has a reason to cross the empire.
 
-An entry closes four ways, and only one of them is doing what you promised. You may **perform** it, **settle** it by giving something else the other party accepts, be **released** from it, or have **another take it up** in your place. A man ruined by a shipwreck who agrees terms with his creditor has closed cleanly and performed nothing, and no shame attaches. What cannot be done is leave an entry open, with nobody able to say what became of it.
+An entry closes by **performance**, **settlement** on other agreed terms, **release** by the person owed, or **assumption** by someone else. A shipwrecked merchant who cannot deliver a cargo might settle with the buyer or find someone to take up the debt. Either choice can send a party after a missing shipment, a reluctant creditor, or a willing heir. The [[lore-khelathiclt|culture note]] explains which promises another person may assume.
 
-Two consequences matter at the table. **Anyone may refuse to release a dying man**, at no cost to themselves and entirely within their rights — which is the most frightening power an ordinary person holds, and the seed of a hundred quiet feuds. And the judgement after death — the weighing, in which the dead stand before the gods and are assessed against the truth — counts the proportion settled rather than the number: a farmer with twelve settled undertakings passes as surely as a lord with four hundred, and the priests say so to frightened people because it is true. [[lore-khelathiclt|The culture note]] works the doctrine through in full.
+Two consequences matter at the table. **A person owed a release may refuse it**, even at a dying person's bedside, and a feud can outlast both parties. At the judgement after death, the heart is weighed against a feather: falsehood, cruelty, theft, and cowardice matter, and wealth buys no verdict. The [[lore-khelathiclt|culture note]] follows these obligations through the deathbed, the burial, and the lives of those left behind.
 
 ## The Gods
 
-The [[affiliation-khelathpnthn|Khelâthi Pantheon]] is large, ancient and genuinely believed. The gods hold domains a visitor can learn in an evening — order, knowledge, creation, storms, decay, voyages — and every selat keeps a patron of its own beneath that, so the theology of the capital and the practice of a river village are recognisably the same religion and not at all the same experience.
+The [[affiliation-khelathpnthn|Khelâthi Pantheon]] is large enough to meet a traveler at every turn. Its gods hold domains such as order, knowledge, creation, storms, decay, and voyages; each selat honors a patron of its own as well. A visitor can learn the great gods in an evening, then spend a journey discovering what a river village asks of its patron that the capital does not.
 
-Worship is not weekly attendance. It is offerings at a household shrine, a festival calendar dense enough that some part of the valley is always celebrating something, and a professional priesthood doing the actual liturgy on everyone's behalf. Three ranks run every major temple: the high priest, the ordained body who conduct the rites and keep the accounts, and the acolytes who entered the temple school as children and are being made into the empire's educated class whether or not they stay.
+Household offerings and crowded festivals make worship visible throughout the year. In the major temples, a high priest leads the ordained priests who perform the rites and keep the accounts, while acolytes learn in the temple school. Those schools train the scribes and scholars a party may need as often as it needs a priest.
 
-The gods are also where the doctrine bites. They witness; they do not judge in the sense a foreigner expects. A god is not asked to forgive an open entry — a god is asked to be present when it closes.
+The gods are also where the doctrine bites. They witness promises and weigh a person's heart after death; no offering erases an open entry. A god is asked to be present when it closes.
 
 ## Lekhau
 
@@ -79,7 +79,7 @@ Khelâthi magic is priestly, and the line between priest and mage barely exists.
 
 ## The Valley and Its Cities
 
-[[place-galezkara|Galezkara]] is the imperial city, and the largest thing most Khelâthi will ever see: the throne, the great temples, the central archives, and across the water the royal necropolis of [[place-zugezer|Zu-Gezer]]. The delta holds the money and the foreigners — [[place-amqelmiglet|Amqel-Miglet]] is where Khelâthi civilisation meets everyone else, and where a party with no papers can most easily be somebody. Upriver are the old temple-cities, older than the dynasty and quite aware of it. The southern and eastern frontier provinces are governed by soldiers and feel it.
+Choose [[place-galezkara|Galezkara]] if you want to work in the shadow of the throne, the great temples, and the central archives. Across the water stands [[place-zugezer|Zu-Gezer]], the royal necropolis. Choose [[place-amqelmiglet|Amqel-Miglet]] if you want a delta port where foreigners, money, and unfamiliar papers arrive together. Upriver, old temple-cities guard records and privileges older than the reigning dynasty. On the southern and eastern frontiers, soldiers govern provinces where a journey can turn into a military assignment.
 
 ```sql
 SELECT address.slug AS _ref,
@@ -95,9 +95,11 @@ ORDER BY data.population DESC, name.full COLLATE NOCASE
 
 The provinces are grouped four ways, and the grouping is most of what a traveller needs: the [[affiliation-deltaselatu|Delta Selatu]] are rich and cosmopolitan, the [[affiliation-upperrivrslt|Upper River Selatu]] are the grain and the old religion, the [[affiliation-borderselatu|Border Selatu]] are a military frontier, and the [[affiliation-capitalselat|Capital Selat]] is a province-sized city that thinks it is the empire.
 
-Money is weighed rather than counted. The empire strikes no round coin; it issues temple-attested pieces of copper, silver and gold in gezan and qelu, and the gold and silver are worth their metal anywhere. Copper is worth what the temple seal says instead, which is more than the metal — melting one down returns less than half its face, which is exactly why small change stays in circulation. Banking runs through the [[affiliation-garhalzi|Gár-Hálzi]]; the details are in [[lore-aukhlthcrncy|the currency note]].
+The empire strikes no round coin. Its temples attest pieces of copper, silver and gold in gezan and qelu weights; familiar sealed pieces pass at face value, while unfamiliar metal is weighed and assayed. Copper spends for the temple's attested value, more than the bronze itself would fetch. The metal chosen for a payment also speaks: copper suits a market purchase, silver a substantial bargain, and gold a major exchange or offering. Large sums travel through the [[affiliation-garhalzi|Gár-Hálzi]] temple treasuries. The [[lore-aukhlthcrncy|currency note]] gives the weights and exchange rates.
 
 ## Playing a Khelâthi
+
+A house holds land, ancestors, and responsibility for the people attached to it. Most Khelâthi have no house name to claim; they give a personal name with a village or trade instead. A character's place in a house, temple, guild, or estate offers shelter and work, and may determine who answers for them when a promise goes wrong.
 
 A name is bestowed by a priest and is a sacred utterance, not a label. Many people carry a second name known only to themselves and the priesthood, held to confer protection — and striking a name from the record is among the heaviest punishments the empire knows. A house name is a legal claim to land, a shrine or a descent, and wearing one you have no claim to is fraud that the courts will hear.
 
@@ -108,6 +110,8 @@ The question a Khelâthi asks about a literate stranger is never whether he can 
 The scribal school is the one reliable ladder out of the class you were born in, and every family in the valley knows it. A boy admitted at seven studies sacred texts, ritual, history, mathematics and medicine for years, and comes out belonging to the institution that actually runs the country. Military service raises a family over two or three generations; commerce takes longer. Most farmers' sons are farmers.
 
 Khelâthi women own property in their own names, initiate divorce, plead in court and practise medicine — a legal standing considerably wider than western Ankaris allows. The doctrine underneath it belongs to [[affiliation-uznera|Uznêra]], whose faith holds that creation requires a balanced partnership of masculine and feminine principles — a theology with direct legal consequences.
+
+A character might be a temple-trained scribe whose skill opens an archive, a boat pilot who knows which channels remain passable in the flood, a physician called to a deathbed, or a trader carrying a sealed letter between cities. Each has a reason to travel and people who expect them home.
 
 ## Bodies to Belong To
 
@@ -126,21 +130,49 @@ WHERE type = 'affiliation'
 ORDER BY name.full COLLATE NOCASE
 ```
 
+The houses and lineages hold claims that can follow a character into court, trade, or a temple archive:
+
+```sql
+SELECT address.slug AS _ref,
+       name.full AS "House or lineage"
+FROM notes
+WHERE type = 'affiliation'
+  AND subType = 'lineage'
+  AND file.folder LIKE 'Affiliations/Organizations/Khelathu%'
+ORDER BY name.full COLLATE NOCASE
+```
+
+## People to Meet
+
+An auditor can read a record, a caravan guard can get a party across a frontier, and a craftsperson can tell when a repair conceals more than damage. Meet Khelâthi people whose work brings them into the empire's disputes:
+
+```sql
+SELECT address.slug AS _ref,
+       name.full AS "Person",
+       data.occupation AS "Occupation"
+FROM notes
+WHERE type = 'being'
+  AND data.culture = 'thalorna-note-lore-khelathiclt'
+  AND COALESCE(list_contains(TRY_CAST(tags AS VARCHAR[]), 'character'), false)
+  AND state = 'full'
+ORDER BY name.full COLLATE NOCASE
+```
+
 ## Ways In
 
-A party arrives by sea into the delta, by caravan from [[affiliation-mtrrchybth|Bethûa]] or [[affiliation-cnfdrtnhrdnstts|Harad]], or up the river from the coast with the cargo. At the first temple, market or toll post, three questions place a character in the empire without anyone needing to learn it all at once: **What is entered against your name? Which hand were you taught? Whose house speaks for you?**
+A party can arrive by sea into the delta, by caravan from [[affiliation-mtrrchybth|Bethûa]] or [[affiliation-cnfdrtnhrdnstts|Harad]], or by riverboat with the cargo. Start where the journey meets a claim: a boat cannot pass until its manifest is produced, a survey crew needs a witness, or a household asks a stranger to carry word upriver. At the first temple, market or toll post, three questions place a character in the empire: **What is entered against your name? Which hand were you taught? Whose house speaks for you?**
 
 Campaigns here start well from an open entry. Someone died with something unclosed and the party is asked, hired or compelled to close it. A house claims a name it cannot prove. An archive burns and half a province's obligations become arguable. A foreign patron wants something done that cannot be entered, and finding a way to do it undocumented is the job.
 
 :::secret
-**For the GM:** The sharpest tool this setting hands you is that the record is both authoritative and physical. It can be read, bought, forged, lost, burned, or simply not produced on the day. A party that understands this stops trying to win fights and starts trying to control what the archive says happened — and the moment they do, every scribe, priest and clerk in the valley becomes a player rather than scenery.
+**For the GM:** The sharpest tool this setting hands you is that the record is both authoritative and physical. It can be read, bought, forged, lost, burned, or simply not produced on the day. A party that understands this starts asking what the archive says happened — and the moment they do, every scribe, priest and clerk in the valley becomes a player rather than scenery.
 
-The second tool is release. Any NPC can refuse it, for free, forever. A dying enemy who will not release your patron is a more durable problem than a living one.
+The second tool is release. A person owed an undertaking can refuse to release it, for free, forever. A dying enemy who will not release your patron is a more durable problem than a living one.
 :::
 
 ## Where to Read Next
 
-This guide is enough to start playing. The corpus behind it goes deeper in roughly this order:
+Begin with the river, a city, and a claim on the party. Follow the questions that arise into the wider setting:
 
 - [[affiliation-empireakhlth|The Empire]] for the state, its history, its provinces, its army and its foreign relations
 - [[lore-khelathiclt|The culture]] for the doctrine of attestation worked through — the ledgers, the closures, the weighing, and what happens to the widow and the orphan
