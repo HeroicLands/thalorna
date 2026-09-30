@@ -23,13 +23,19 @@
  * because a second copy of a rule drifts from the first the moment either is
  * edited, and the note is where a phonology is settled.
  *
- * Two halves.
+ * Three checks.
  *
  * **The corpus.** Names are read from frontmatter and from the note's own
  * lists, never from prose: a name in frontmatter is a name, while a capitalized
  * word in a sentence is a guess. Each is tested against the class its note
  * declares, and a name that fits no rule for its class is reported with the
  * rule it breaks.
+ *
+ * **The note against itself.** Two of the note's tables can disagree without
+ * any name showing it: an element that opens a compound stands first in the
+ * name, so its own spelling has to open on a cluster the onset inventory
+ * carries. Both tables are read off the note, so the check holds the
+ * specification to itself rather than to a copy of it.
  *
  * **The concordance.** `utils/nordmal-concordance.json` settles which names are
  * old and which are new. A name it settles as new, or keeps as standing, that
@@ -741,6 +747,39 @@ export function corpus(rule) {
 }
 
 /**
+ * The opening elements, checked against the onset inventory.
+ *
+ * An element that opens a compound stands first in the name, so its own
+ * spelling has to open on a cluster § _Openings and closings_ carries. Both
+ * tables are read off the note, so the check is the note against itself and
+ * neither side is a second copy of the other.
+ *
+ * @param {object} rule - The derived lexicon.
+ * @returns {string[]} Findings.
+ */
+export function checkElements(rule) {
+    const out = [];
+    for (const element of [...rule.opening].sort((a, b) => a.localeCompare(b, "en"))) {
+        const segs = sounds(element);
+        let i = 0;
+        while (i < segs.length && !rule.vowels.has(segs[i])) i += 1;
+        const onset = segs.slice(0, i).join("");
+        if (!onset || rule.onsets.has(onset)) continue;
+        const { line, column } = positionOf(fs.readFileSync(NOTE, "utf8"), `\`${element}-\``);
+        out.push(
+            finding(
+                NOTE,
+                line,
+                column,
+                "error",
+                `the element "${element}-" opens on "${onset}", which is not an opening a name may take, so no name can carry it`,
+            ),
+        );
+    }
+    return out;
+}
+
+/**
  * The note's lists, checked against the tables they are built from.
  *
  * @param {object[]} names - The corpus rows drawn from the note.
@@ -916,6 +955,7 @@ function main() {
             ),
         );
     }
+    out.push(...checkElements(rule));
     out.push(...checkLists(names, rule));
 
     const disagreements = new Map();

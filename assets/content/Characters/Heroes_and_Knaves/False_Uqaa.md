@@ -3,7 +3,7 @@ shortcode: falseuqaa
 name:
   full: False Uqa'â
   title: ""
-  given: False
+  given: "False"
   clan: Uqa'â
   home: galezkara
   aliases: [Khelâfirahu the Bold]
