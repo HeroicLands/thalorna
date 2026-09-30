@@ -2,8 +2,9 @@
 shortcode: gntscrpn
 name: {full: Giant Scorpion, aliases: []}
 type: being
+subType: creature
 description: "A ten-foot armored arachnid ambusher that waits motionless for prey, combining crushing claws with lethal venom across a multi-mile territory."
-tags: [animal, creature]
+tags: [animal]
 data:
   icon: icon-person
   templatePriority: null

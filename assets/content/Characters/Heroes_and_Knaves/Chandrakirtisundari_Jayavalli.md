@@ -8,7 +8,8 @@ name:
   home: vyalendra3
   aliases: []
 type: being
-tags: [heroes-and-knaves, underworld, character]
+subType: character
+tags: [heroes-and-knaves, underworld]
 data:
   icon: icon-person
   templatePriority: null

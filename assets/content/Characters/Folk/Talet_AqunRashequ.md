@@ -8,6 +8,7 @@ name:
   home: galezkara
   aliases: []
 type: being
+subType: npc
 description: "Father to an architect, who taught his son to understand roofs as sculpture rather than shelter"
 tags: [generated]
 data: {packFolder: regkhfolk}

@@ -8,7 +8,8 @@ name:
   home: alyssar
   aliases: [The Fire-Sworn Strategist]
 type: being
-tags: [heroes-and-knaves, hero, tradesfolk, character]
+subType: character
+tags: [heroes-and-knaves, hero, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

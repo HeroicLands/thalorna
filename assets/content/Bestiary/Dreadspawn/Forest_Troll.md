@@ -2,8 +2,9 @@
 shortcode: frsttrll
 name: {full: Forest Troll, aliases: []}
 type: being
+subType: creature
 description: "A massive woodland apex predator born of primal earth-magic that moves through dense old-growth forest as easily as open ground."
-tags: [dreadspawn, creature]
+tags: [dreadspawn]
 data:
   icon: icon-person
   templatePriority: null

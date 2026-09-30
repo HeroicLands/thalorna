@@ -7,7 +7,8 @@ name:
   clan: Fródbán
   aliases: [the Weasel, Skathilda Frodban]
 type: being
-tags: [blackpine-wolves, brigand, vrystwald, underworld, character]
+subType: character
+tags: [blackpine-wolves, brigand, vrystwald, underworld]
 data:
   icon: icon-person
   templatePriority: null

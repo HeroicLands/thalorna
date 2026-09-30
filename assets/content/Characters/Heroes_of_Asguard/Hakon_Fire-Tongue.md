@@ -8,7 +8,8 @@ name:
   aliases: [Fire-Tongue]
   home: null
 type: being
-tags: [hero, heroes-of-asguard, underworld, character]
+subType: character
+tags: [hero, heroes-of-asguard, underworld]
 data:
   icon: icon-person
   templatePriority: null

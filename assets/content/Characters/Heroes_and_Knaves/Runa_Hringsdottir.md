@@ -8,7 +8,8 @@ name:
   home: jarnhavn
   aliases: [the Shield-Maiden of Vrathavn]
 type: being
-tags: [heroes-and-knaves, hero, soldiery, character]
+subType: character
+tags: [heroes-and-knaves, hero, soldiery]
 data:
   icon: icon-person
   templatePriority: null

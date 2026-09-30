@@ -2,8 +2,9 @@
 shortcode: duneclaw
 name: {full: Duneclaw, aliases: []}
 type: being
+subType: creature
 description: "A massive venomous desert arthropod that rules its dune-fields with crushing force, cunning, and predatory instinct."
-tags: [dreadspawn, creature]
+tags: [dreadspawn]
 data:
   icon: icon-person
   templatePriority: null

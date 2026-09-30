@@ -2,7 +2,8 @@
 shortcode: azinarafrs
 name: {full: Ázîna Râfîrôs, title: "", given: Ázîna, clan: Râfîrôs, home: theradon2, aliases: []}
 type: being
-tags: [draft, tradesfolk, character]
+subType: npc
+tags: [draft, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

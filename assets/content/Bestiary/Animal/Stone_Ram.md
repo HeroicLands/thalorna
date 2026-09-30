@@ -2,8 +2,9 @@
 shortcode: stoneram
 name: {full: Stone Ram, aliases: []}
 type: being
+subType: creature
 description: "A powerfully built mountain herbivore and exceptional climber that holds cliffside territories beyond the reach of ground-bound predators."
-tags: [animal, creature]
+tags: [animal]
 data:
   icon: icon-person
   templatePriority: null

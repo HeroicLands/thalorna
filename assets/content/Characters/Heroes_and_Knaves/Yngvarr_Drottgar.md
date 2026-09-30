@@ -8,7 +8,8 @@ name:
   home: frostmark
   aliases: []
 type: being
-tags: [heroes-and-knaves, guilded, soldiery, character]
+subType: character
+tags: [heroes-and-knaves, guilded, soldiery]
 data:
   icon: icon-person
   templatePriority: null

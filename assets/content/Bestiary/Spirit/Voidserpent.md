@@ -2,8 +2,9 @@
 shortcode: vdsrpnt
 name: {full: Voidserpent, aliases: []}
 type: being
+subType: creature
 description: "An extraordinarily rare serpent from the spaces between worlds, older than gods and alien beyond comprehension, moving by incomprehensible purposes."
-tags: [spirit, creature]
+tags: [spirit]
 data:
   icon: icon-person
   templatePriority: null

@@ -8,7 +8,8 @@ name:
   home: thornhaven
   aliases: [Ermina Froban]
 type: being
-tags: [draft, common-folk, character]
+subType: npc
+tags: [draft, common-folk]
 data:
   icon: icon-person
   templatePriority: null

@@ -8,7 +8,8 @@ name:
   home: null # was: The South Marches
   aliases: [The Jackal-Queen, The Unhoused, Yâsûra]
 type: being
-tags: [heroes-and-knaves, hero, soldiery, character]
+subType: character
+tags: [heroes-and-knaves, hero, soldiery]
 data:
   icon: icon-person
   templatePriority: null

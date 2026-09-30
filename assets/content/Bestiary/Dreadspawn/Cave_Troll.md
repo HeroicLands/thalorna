@@ -2,8 +2,9 @@
 shortcode: cvtrll
 name: {full: Cave Troll, aliases: []}
 type: being
+subType: creature
 description: "A slow-witted but devastating cavern apex predator that hunts in absolute darkness using senses far keener than any humanoid's."
-tags: [dreadspawn, creature]
+tags: [dreadspawn]
 data:
   icon: icon-person
   templatePriority: null

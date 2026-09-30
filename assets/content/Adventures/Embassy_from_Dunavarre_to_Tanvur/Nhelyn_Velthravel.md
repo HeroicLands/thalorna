@@ -2,7 +2,8 @@
 shortcode: nhelynvelthravel
 name: {full: Nhelyn Vélthravel, title: "", given: Nhelyn, clan: Vélthravel, aliases: []}
 type: being
-tags: [character, draft, embassy-to-tanvur]
+subType: character
+tags: [draft, embassy-to-tanvur]
 data:
   templatePriority: null
   archetypes: []

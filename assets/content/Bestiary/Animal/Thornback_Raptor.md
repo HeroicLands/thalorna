@@ -2,8 +2,9 @@
 shortcode: thrnbckr
 name: {full: Thornback Raptor, aliases: []}
 type: being
+subType: creature
 description: "A five-to-six-foot bipedal reptilian pack hunter that coordinates ambushes with psychological terror through jungles, forests, and ruins."
-tags: [animal, creature]
+tags: [animal]
 data:
   icon: icon-person
   templatePriority: null

@@ -8,7 +8,8 @@ name:
   aliases: [Oakheart]
   home: ""
 type: being
-tags: [demigod, heroes-of-asguard, clergy, character]
+subType: character
+tags: [demigod, heroes-of-asguard, clergy]
 data:
   icon: icon-person
   templatePriority: null

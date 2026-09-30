@@ -2,8 +2,9 @@
 shortcode: gntoctps
 name: {full: Giant Octopus, aliases: []}
 type: being
+subType: creature
 description: "A solitary, fiercely territorial deep-water cephalopod whose crushing tentacles can splinter a small boat's hull, among the most intelligent creatures known."
-tags: [animal, creature]
+tags: [animal]
 data:
   icon: icon-person
   templatePriority: null

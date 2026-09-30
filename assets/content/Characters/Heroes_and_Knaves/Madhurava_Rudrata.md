@@ -8,7 +8,8 @@ name:
   home: chandrapur2
   aliases: []
 type: being
-tags: [heroes-and-knaves, guilded, administration, character]
+subType: character
+tags: [heroes-and-knaves, guilded, administration]
 data:
   icon: icon-person
   templatePriority: null

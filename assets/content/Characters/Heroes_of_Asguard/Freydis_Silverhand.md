@@ -8,7 +8,8 @@ name:
   aliases: [Silverhand]
   home: null
 type: being
-tags: [hero, heroes-of-asguard, tradesfolk, character]
+subType: character
+tags: [hero, heroes-of-asguard, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

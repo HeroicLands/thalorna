@@ -8,7 +8,8 @@ name:
   home: null # was: Eskárath
   aliases: [Knight of the Western Marches, Sir Andres Lorca]
 type: being
-tags: [heroes-and-knaves, hero, soldiery, character]
+subType: character
+tags: [heroes-and-knaves, hero, soldiery]
 data:
   icon: icon-person
   templatePriority: null

@@ -2,8 +2,9 @@
 shortcode: tnvrnelp
 name: {full: Tānvüran Elephant, aliases: []}
 type: being
+subType: creature
 description: "A massive, highly intelligent tusked megafauna often domesticated for labor and war, yet formidable and deadly in the wild."
-tags: [animal, creature]
+tags: [animal]
 data:
   icon: icon-person
   templatePriority: null

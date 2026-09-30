@@ -2,7 +2,8 @@
 shortcode: loristaravel
 name: {full: Loris Taravel, title: "", given: Loris, clan: Taravel, aliases: []}
 type: being
-tags: [character, draft, embassy-to-tanvur]
+subType: character
+tags: [draft, embassy-to-tanvur]
 data:
   templatePriority: null
   archetypes: []

@@ -2,7 +2,8 @@
 shortcode: danazishdm
 name: {full: Dânâzi Ashûdam, title: "", given: Dânâzi, clan: Ashûdam, home: kashmuret, aliases: []}
 type: being
-tags: [draft, soldiery, character]
+subType: npc
+tags: [draft, soldiery]
 data:
   icon: icon-person
   templatePriority: null

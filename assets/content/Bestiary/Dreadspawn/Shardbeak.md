@@ -2,8 +2,9 @@
 shortcode: shrdbk
 name: {full: Shardbeak, aliases: []}
 type: being
+subType: creature
 description: "A crystalline arcane bird drawn to nodes of raw magical power, feeding on arcane energy the way natural birds feed on seed."
-tags: [dreadspawn, creature]
+tags: [dreadspawn]
 data:
   icon: icon-person
   templatePriority: null

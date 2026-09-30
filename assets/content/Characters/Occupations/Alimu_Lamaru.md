@@ -2,7 +2,8 @@
 shortcode: alimulamar
 name: {full: Alîmû Lâmarû, title: "", given: Alîmû, clan: Lâmarû, home: kashmuret, aliases: []}
 type: being
-tags: [draft, guilded, administration, character]
+subType: npc
+tags: [draft, guilded, administration]
 data:
   icon: icon-person
   templatePriority: null

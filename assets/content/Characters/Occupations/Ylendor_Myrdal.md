@@ -2,7 +2,8 @@
 shortcode: ylndrmyrdl
 name: {full: Yléndor Mýrdal, title: "", given: Yléndor, clan: Mýrdal, home: lunacorte, aliases: []}
 type: being
-tags: [draft, guilded, mages, character]
+subType: npc
+tags: [draft, guilded, mages]
 data:
   icon: icon-person
   templatePriority: null

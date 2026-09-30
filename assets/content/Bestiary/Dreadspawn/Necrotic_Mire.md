@@ -2,8 +2,9 @@
 shortcode: ncrtcmr
 name: {full: Necrotic Mire, aliases: []}
 type: being
+subType: creature
 description: "An animate ooze born of concentrated decay in deep stagnant swamps, spreading inexorably to corrupt and consume all it touches."
-tags: [dreadspawn, creature]
+tags: [dreadspawn]
 data:
   icon: icon-person
   templatePriority: null

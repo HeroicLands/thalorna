@@ -2,8 +2,9 @@
 shortcode: stnbst
 name: {full: Stonebeast, aliases: []}
 type: being
+subType: creature
 description: "An ancient earth-and-stone guardian that lies dormant in caverns until disturbed, then becomes an implacable force of destruction."
-tags: [dreadspawn, creature]
+tags: [dreadspawn]
 data:
   icon: icon-person
   templatePriority: null

@@ -8,7 +8,8 @@ name:
   home: belekos
   aliases: [The Mendicant Priestess of the Black Flame]
 type: being
-tags: [heroes-and-knaves, character, hero, clergy]
+subType: character
+tags: [heroes-and-knaves, hero, clergy]
 data:
   icon: icon-person
   templatePriority: null

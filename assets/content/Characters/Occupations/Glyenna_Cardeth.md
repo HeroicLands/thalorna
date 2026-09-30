@@ -8,7 +8,8 @@ name:
   home: portaelion
   aliases: [Aperâni Valeria Firebrand]
 type: being
-tags: [todo, draft, administration, character]
+subType: npc
+tags: [todo, draft, administration]
 data:
   icon: icon-person
   templatePriority: null

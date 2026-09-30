@@ -2,8 +2,9 @@
 shortcode: rtwrth
 name: {full: Rootwraith, aliases: []}
 type: being
+subType: creature
 description: "A territorial mass of corrupted vegetation and ancient malice that rises from the soil of deep forests to punish intruders."
-tags: [dreadspawn, creature]
+tags: [dreadspawn]
 data:
   icon: icon-person
   templatePriority: null

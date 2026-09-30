@@ -8,6 +8,7 @@ name:
   home: garanlaghet
   aliases: []
 type: being
+subType: npc
 description: "A wealthy master of many works, whose commissions employ half a trade and whose standards keep the other half out"
 tags: [generated]
 data: {packFolder: regkhfolk}

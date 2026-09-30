@@ -2,8 +2,9 @@
 shortcode: vrdntcl
 name: {full: Verdantcoil, aliases: []}
 type: being
+subType: creature
 description: "A colossal, patient snake of corrupted origin that lurks motionless in ancient forests, waiting days to strike from ambush."
-tags: [dreadspawn, creature]
+tags: [dreadspawn]
 data:
   icon: icon-person
   templatePriority: null

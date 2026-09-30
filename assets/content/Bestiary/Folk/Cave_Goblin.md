@@ -2,8 +2,9 @@
 shortcode: cvgbln
 name: {full: Cave Goblin, aliases: []}
 type: being
+subType: creature
 description: "A highly intelligent, amoral subterranean goblin living as solitary hunter or loose community, pursuing its own self-interest with unwavering consistency."
-tags: [folk, creature]
+tags: [folk]
 data:
   icon: icon-person
   templatePriority: null

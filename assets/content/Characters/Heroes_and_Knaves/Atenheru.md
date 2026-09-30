@@ -8,7 +8,8 @@ name:
   home: kharalsulr
   aliases: [The Silent Jackal, The Desert Wanderer]
 type: being
-tags: [heroes-and-knaves, hero, tradesfolk, character]
+subType: character
+tags: [heroes-and-knaves, hero, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

@@ -8,7 +8,8 @@ name:
   home: tyrellan
   aliases: [Oswin Crey]
 type: being
-tags: [draft, guilded, mages, character]
+subType: npc
+tags: [draft, guilded, mages]
 data:
   icon: icon-person
   templatePriority: null

@@ -2,8 +2,9 @@
 shortcode: strcrwlr
 name: {full: Starcrawler, aliases: []}
 type: being
+subType: creature
 description: "A rare celestial being of stellar essence given flesh, appearing where earth and sky grow thin, harmless yet utterly alien in its priorities."
-tags: [spirit, creature]
+tags: [spirit]
 data:
   icon: icon-person
   templatePriority: null

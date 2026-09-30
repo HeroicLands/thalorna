@@ -8,7 +8,8 @@ name:
   home: velysara
   aliases: []
 type: being
-tags: [heroes-and-knaves, hero, mages, character]
+subType: character
+tags: [heroes-and-knaves, hero, mages]
 data:
   icon: icon-person
   templatePriority: null

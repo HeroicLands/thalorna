@@ -8,7 +8,8 @@ name:
   home: valdosta
   aliases: []
 type: being
-tags: [heroes-and-knaves, tradesfolk, character]
+subType: character
+tags: [heroes-and-knaves, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

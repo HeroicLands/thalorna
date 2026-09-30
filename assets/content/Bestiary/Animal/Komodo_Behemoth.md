@@ -2,8 +2,9 @@
 shortcode: kmdbhmth
 name: {full: Komodo Behemoth, aliases: []}
 type: being
+subType: creature
 description: "A ton-heavy reptilian predator up to eighteen feet long, its mottled gray-green bulk topped by a broad head whose jaws unhinge alarmingly wide."
-tags: [animal, creature]
+tags: [animal]
 data:
   icon: icon-person
   templatePriority: null

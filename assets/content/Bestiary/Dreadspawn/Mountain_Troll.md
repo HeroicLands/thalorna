@@ -2,8 +2,9 @@
 shortcode: mntntrll
 name: {full: Mountain Troll, aliases: []}
 type: being
+subType: creature
 description: "A primordial alpine guardian of immense weight and strength, roaming high peaks and caverns as a solitary omnivore that tolerates no rival."
-tags: [dreadspawn, creature]
+tags: [dreadspawn]
 data:
   icon: icon-person
   templatePriority: null

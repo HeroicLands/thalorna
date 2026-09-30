@@ -2,7 +2,8 @@
 shortcode: bldnstylgn
 name: {full: Bâlden Stýlgon, title: "", given: Bâlden, clan: Stýlgon, home: aureliane, aliases: []}
 type: being
-tags: [draft, tradesfolk, character]
+subType: npc
+tags: [draft, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
