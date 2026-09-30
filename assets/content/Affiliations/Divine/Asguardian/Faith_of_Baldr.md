@@ -42,8 +42,6 @@ data:
         Keeper of a named hof, its stores and its blót.
       Godi / Gydja: >-
         The working priest or priestess of a hall, who keeps its rites and its people.
-      Blótmadr: >-
-        One who attends the blót, without office in the faith.
   seat: null
   domains: []
   population: null
