@@ -8,7 +8,9 @@ tags: []
 data: {packFolder: adventurersguides}
 ---
 
-> At first light, the air in the northern pass stings your nose. Pine smoke curls above a shrine built low into the rock: a walled court and a hall where travelers crowd in from the cold. Below, the stone walls of Sūryāgarha close across the gorge, and the caravan yard smells of wet yak wool and the smiths' charcoal fires. Beyond the walls, rice terraces catch the sun one green step at a time. A customs clerk holds your caravan's pass-token while two merchants dispute the weight of a load. Your employer asks you to find the shrine's crossing register before the clerk sets the date. The road south is opening; will you be on it?
+> At first light, the air in the northern pass stings your nose. Pine smoke curls above a shrine built low into the rock: a walled court and a hall where travelers crowd in from the cold. Below, the stone walls of Sūryāgarha close across the gorge. Beyond them, rice terraces catch the sun one green step at a time.
+>
+> In the caravan yard, yaks kneel beside lowland horses while carters call for rope and smiths strike iron. The air smells of wet wool, charcoal, and hot grain. A dark-skinned trader in indigo cotton counts bales while a porter in a russet wool cloak calls for room. A woman with warm brown skin, a black braid, and a saffron shawl brings you a steaming bowl. "Welcome to Sūryāgarha. I am Chàndira of this city, of the Antarasena kula—my lineage. I keep the guest kitchen. Eat first; tell me what brings you here afterward." Only then do you hear that a customs clerk holds your caravan's pass-token while two merchants dispute the weight of a load. Your employer asks you to find the shrine's crossing register before the clerk sets the date. The road south is opening; will you be on it?
 
 This is one entrance to [[place-vedyarargn|Vedyara]]. Follow the rivers south and the fortresses give way to rice fields and village assemblies; keep going and the same language carries you into a harbor where gemcutters, sailors, and merchant houses bargain over the next voyage.
 
