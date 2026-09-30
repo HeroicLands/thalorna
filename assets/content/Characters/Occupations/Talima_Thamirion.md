@@ -8,7 +8,8 @@ name:
   home: korinthea2
   aliases: []
 type: being
-tags: [draft, soldiery, character]
+subType: npc
+tags: [draft, soldiery]
 data:
   icon: icon-person
   templatePriority: null

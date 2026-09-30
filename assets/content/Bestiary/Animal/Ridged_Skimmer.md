@@ -2,8 +2,9 @@
 shortcode: rdgdskmm
 name: {full: Ridged Skimmer, aliases: []}
 type: being
+subType: creature
 description: "A semi-aquatic ambush predator up to eight feet long plus tail, lurking submerged in rivers and shallows to strike unsuspecting prey."
-tags: [animal, creature]
+tags: [animal]
 data:
   icon: icon-person
   templatePriority: null

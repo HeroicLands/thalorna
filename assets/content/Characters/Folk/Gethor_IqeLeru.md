@@ -8,6 +8,7 @@ name:
   home: amqelulegez
   aliases: []
 type: being
+subType: npc
 description: "A Legha'lutu and husband to the Thâz'Lekhau of Qe'âret, in a marriage the temple brokered and both parties have made work"
 tags: [generated]
 data: {packFolder: regkhfolk}

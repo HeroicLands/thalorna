@@ -2,8 +2,9 @@
 shortcode: warg
 name: {full: Warg, aliases: []}
 type: being
+subType: creature
 description: "A monstrous four-hundred-pound wolf warped by fell magic into a near-sapient predator far deadlier than any dire wolf."
-tags: [mythic, image-needed, creature]
+tags: [mythic, image-needed]
 data:
   icon: icon-wolfhead
   templatePriority: null

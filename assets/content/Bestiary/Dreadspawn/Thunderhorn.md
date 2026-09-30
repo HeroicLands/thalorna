@@ -2,8 +2,9 @@
 shortcode: thndrhrn
 name: {full: Thunderhorn, aliases: []}
 type: being
+subType: creature
 description: "A massive, storm-infused beast of territorial fury that roams lightning-swept highlands, feeding on the electrical energy of thunderstorms."
-tags: [dreadspawn, creature]
+tags: [dreadspawn]
 data:
   icon: icon-person
   templatePriority: null

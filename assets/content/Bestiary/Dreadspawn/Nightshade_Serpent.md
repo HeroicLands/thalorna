@@ -2,8 +2,9 @@
 shortcode: nghtshds
 name: {full: Nightshade Serpent, aliases: []}
 type: being
+subType: creature
 description: "A shadow-corrupted serpent of malign intelligence that haunts the dark, feeding on fear and suffering as much as on flesh."
-tags: [dreadspawn, creature]
+tags: [dreadspawn]
 data:
   icon: icon-person
   templatePriority: null

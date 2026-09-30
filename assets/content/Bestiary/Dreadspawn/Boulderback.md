@@ -2,8 +2,9 @@
 shortcode: bldrbck
 name: {full: Boulderback, aliases: []}
 type: being
+subType: creature
 description: "An earth-elemental of animate stone and will that stands as an impassive obstacle in mountains, caves, and magic-rich quarries."
-tags: [dreadspawn, creature]
+tags: [dreadspawn]
 data:
   icon: icon-person
   templatePriority: null

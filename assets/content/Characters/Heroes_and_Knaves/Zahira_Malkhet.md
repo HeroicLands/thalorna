@@ -8,7 +8,8 @@ name:
   home: bethura
   aliases: [The Bounty Hunter, The Hound of the Veil]
 type: being
-tags: [heroes-and-knaves, hero, soldiery, character]
+subType: character
+tags: [heroes-and-knaves, hero, soldiery]
 data:
   icon: icon-person
   templatePriority: null

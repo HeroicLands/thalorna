@@ -2,8 +2,9 @@
 shortcode: erthchrg
 name: {full: Earthcharger, aliases: []}
 type: being
+subType: creature
 description: "A heavily armored cavern arthropod and living battering ram that breaks through doors and weakened stonework with unstoppable force."
-tags: [dreadspawn, creature]
+tags: [dreadspawn]
 data:
   icon: icon-person
   templatePriority: null

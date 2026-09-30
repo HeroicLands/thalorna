@@ -2,8 +2,9 @@
 shortcode: fireflit
 name: {full: Fireflit, aliases: []}
 type: being
+subType: creature
 description: "A small, clever fire elemental serving as scout or messenger, harmless alone but a genuine threat when gathered into a burning swarm."
-tags: [elemental, creature]
+tags: [elemental]
 data:
   icon: icon-person
   templatePriority: null

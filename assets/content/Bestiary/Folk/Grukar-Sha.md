@@ -2,8 +2,9 @@
 shortcode: grkrsh
 name: {full: Grukar-Sha, aliases: []}
 type: being
+subType: creature
 description: "A frail, cunning Grukar schemer who survives by never seeming a threat, winning through manipulation rather than any fair fight."
-tags: [folk, creature]
+tags: [folk]
 data:
   icon: icon-person
   templatePriority: null

@@ -8,7 +8,8 @@ name:
   home: nartum
   aliases: []
 type: being
-tags: [heroes-and-knaves, guilded, mages, character]
+subType: character
+tags: [heroes-and-knaves, guilded, mages]
 data:
   icon: icon-person
   templatePriority: null

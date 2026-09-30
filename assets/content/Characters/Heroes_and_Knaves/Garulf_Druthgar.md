@@ -2,7 +2,8 @@
 shortcode: grlfdrthgr
 name: {full: Garulf Druthgar, title: "", given: Garulf, clan: Druthgar, aliases: []}
 type: being
-tags: [tamzir-crew, soldiery, character]
+subType: character
+tags: [tamzir-crew, soldiery]
 data:
   banner: tamzirbnr
   icon: icon-person

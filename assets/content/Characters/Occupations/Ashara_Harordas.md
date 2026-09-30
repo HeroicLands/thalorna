@@ -8,7 +8,8 @@ name:
   home: tyrellan
   aliases: []
 type: being
-tags: [draft, guilded, soldiery, character]
+subType: npc
+tags: [draft, guilded, soldiery]
 data:
   icon: icon-person
   templatePriority: null

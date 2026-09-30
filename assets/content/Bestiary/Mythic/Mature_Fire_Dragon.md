@@ -2,8 +2,9 @@
 shortcode: mtrfrdrg
 name: {full: Mature Fire Dragon, aliases: []}
 type: being
+subType: creature
 description: "A calculating apex fire dragon of three or four centuries, cruel and supreme, selecting its prey with deliberate predatory strategy."
-tags: [mythic, image-needed, creature]
+tags: [mythic, image-needed]
 data:
   icon: icon-dragonheadft
   templatePriority: null

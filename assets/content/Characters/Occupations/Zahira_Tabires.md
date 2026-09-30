@@ -2,7 +2,8 @@
 shortcode: zahiratbrs
 name: {full: Zahîra Tâbîrês, title: "", given: Zahîra, clan: Tâbîrês, home: thyrenae2, aliases: []}
 type: being
-tags: [draft, tradesfolk, character]
+subType: npc
+tags: [draft, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

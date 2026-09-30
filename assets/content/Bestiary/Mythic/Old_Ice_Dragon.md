@@ -2,8 +2,9 @@
 shortcode: oldicdrg
 name: {full: Old Ice Dragon, aliases: [Frost Wyrm]}
 type: being
+subType: creature
 description: "A colossal, ancient ice-wyrm exceeding forty feet, embodying merciless patience and predatory cunning honed across centuries of frozen dominion."
-tags: [mythic, image-needed, creature]
+tags: [mythic, image-needed]
 data:
   icon: icon-dragonheadft
   templatePriority: null

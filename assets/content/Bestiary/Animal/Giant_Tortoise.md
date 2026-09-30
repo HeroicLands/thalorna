@@ -2,8 +2,9 @@
 shortcode: gnttrts
 name: {full: Giant Tortoise, aliases: []}
 type: being
+subType: creature
 description: "A centuries-old herbivorous reptile and near-indestructible walking fortress, peaceful and indifferent as it grazes slowly through the ages."
-tags: [animal, creature]
+tags: [animal]
 data:
   icon: icon-person
   templatePriority: null

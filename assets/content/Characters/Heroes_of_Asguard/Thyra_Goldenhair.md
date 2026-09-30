@@ -8,7 +8,8 @@ name:
   aliases: [Goldenhair]
   home: null
 type: being
-tags: [hero, heroes-of-asguard, administration, character]
+subType: character
+tags: [hero, heroes-of-asguard, administration]
 data:
   icon: icon-person
   templatePriority: null

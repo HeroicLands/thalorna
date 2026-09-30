@@ -8,7 +8,8 @@ name:
   aliases: [the Reforged]
   home: null
 type: being
-tags: [demigod, heroes-of-asguard, soldiery, character]
+subType: character
+tags: [demigod, heroes-of-asguard, soldiery]
 data:
   icon: icon-person
   templatePriority: null

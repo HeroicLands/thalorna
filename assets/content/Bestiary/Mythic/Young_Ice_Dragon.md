@@ -2,8 +2,9 @@
 shortcode: yngicdrg
 name: {full: Young Ice Dragon, aliases: []}
 type: being
+subType: creature
 description: "A young apex ice-wyrm of high peaks and glaciers, methodical and cold rather than aggressive, mastering the frozen air."
-tags: [mythic, image-needed, creature]
+tags: [mythic, image-needed]
 data:
   icon: icon-dragonheadft
   templatePriority: null

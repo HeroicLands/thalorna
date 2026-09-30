@@ -2,7 +2,8 @@
 shortcode: aruzankamm
 name: {full: Arûzan Kamûmû, title: "", given: Arûzan, clan: Kamûmû, home: qadhirun, aliases: []}
 type: being
-tags: [draft, soldiery, character]
+subType: npc
+tags: [draft, soldiery]
 data:
   icon: icon-person
   templatePriority: null

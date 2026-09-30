@@ -2,7 +2,8 @@
 shortcode: geldarpanivel
 name: {full: "Geldar Panivel, the Younger", title: "", given: Geldar, clan: Panivel, aliases: []}
 type: being
-tags: [character, draft, embassy-to-tanvur]
+subType: character
+tags: [draft, embassy-to-tanvur]
 data:
   templatePriority: null
   archetypes: []

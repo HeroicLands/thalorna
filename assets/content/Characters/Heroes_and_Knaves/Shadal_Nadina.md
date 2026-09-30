@@ -2,7 +2,8 @@
 shortcode: shadalnadn
 name: {full: Shadal Nadina, title: "", given: Shadal, clan: Nadina, home: vashuran, aliases: []}
 type: being
-tags: [heroes-and-knaves, guilded, tradesfolk, character]
+subType: character
+tags: [heroes-and-knaves, guilded, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

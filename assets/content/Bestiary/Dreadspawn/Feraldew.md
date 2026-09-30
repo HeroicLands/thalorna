@@ -2,8 +2,9 @@
 shortcode: feraldew
 name: {full: Feraldew, aliases: []}
 type: being
+subType: creature
 description: "A corrupted cervid of predatory intelligence that infiltrates ordinary herds and ambushes travelers before they sense the danger."
-tags: [dreadspawn, creature]
+tags: [dreadspawn]
 data:
   icon: icon-person
   templatePriority: null

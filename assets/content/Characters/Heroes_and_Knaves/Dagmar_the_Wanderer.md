@@ -8,7 +8,8 @@ name:
   home: stalbrekka
   aliases: [the Rogue Skald]
 type: being
-tags: [heroes-and-knaves, hero, guilded, tradesfolk, character]
+subType: character
+tags: [heroes-and-knaves, hero, guilded, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

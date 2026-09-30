@@ -2,7 +2,8 @@
 shortcode: takorozanethar
 name: {full: Tákoro Zanethar, title: "", given: Tákoro, clan: Zanethar, aliases: []}
 type: being
-tags: [character, administration, draft]
+subType: npc
+tags: [administration, draft]
 data:
   templatePriority: null
   archetypes: []

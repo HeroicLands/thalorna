@@ -8,7 +8,8 @@ name:
   aliases: [the Enchantress]
   home: null
 type: being
-tags: [paragon, heroes-of-asguard, administration, character]
+subType: character
+tags: [paragon, heroes-of-asguard, administration]
 data:
   icon: icon-person
   templatePriority: null

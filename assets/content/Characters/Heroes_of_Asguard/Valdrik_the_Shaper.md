@@ -8,7 +8,8 @@ name:
   aliases: [the Shaper]
   home: null
 type: being
-tags: [paragon, heroes-of-asguard, mages, character]
+subType: character
+tags: [paragon, heroes-of-asguard, mages]
 data:
   icon: icon-person
   templatePriority: null

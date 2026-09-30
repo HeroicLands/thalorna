@@ -2,7 +2,8 @@
 shortcode: sabirajira
 name: {full: Sâbir Âjira, title: "", given: Sâbir, clan: Âjira, home: qasirah, aliases: []}
 type: being
-tags: [heroes-and-knaves, guilded, common-folk, character]
+subType: character
+tags: [heroes-and-knaves, guilded, common-folk]
 data:
   icon: icon-person
   templatePriority: null

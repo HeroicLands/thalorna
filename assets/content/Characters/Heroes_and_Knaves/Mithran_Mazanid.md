@@ -2,7 +2,8 @@
 shortcode: mithrnmznd
 name: {full: Mithran Mazânid, title: "", given: Mithran, clan: Mazânid, home: shamsun, aliases: []}
 type: being
-tags: [heroes-and-knaves, common-folk, character]
+subType: character
+tags: [heroes-and-knaves, common-folk]
 data:
   icon: icon-person
   templatePriority: null

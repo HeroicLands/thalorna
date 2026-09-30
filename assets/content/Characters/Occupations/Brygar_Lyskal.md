@@ -2,7 +2,8 @@
 shortcode: brygrlyskl
 name: {full: Brýgar Lýskal, title: "", given: Brýgar, clan: Lýskal, home: "", aliases: []}
 type: being
-tags: [todo-warrior, draft, soldiery, character]
+subType: npc
+tags: [todo-warrior, draft, soldiery]
 data:
   icon: icon-person
   templatePriority: null

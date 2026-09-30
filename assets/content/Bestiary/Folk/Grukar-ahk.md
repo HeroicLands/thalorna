@@ -2,8 +2,9 @@
 shortcode: grkrahk
 name: {full: Grukar-ahk, aliases: []}
 type: being
+subType: creature
 description: "A self-fertilizing Grukar spawner, one per tribe, uniquely able to choose the subspecies of each clutch it lays."
-tags: [folk, creature]
+tags: [folk]
 data:
   icon: icon-orchead
   templatePriority: null

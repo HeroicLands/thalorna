@@ -2,8 +2,9 @@
 shortcode: smmtdrk
 name: {full: Summitdrake, aliases: []}
 type: being
+subType: creature
 description: "A tyrannical, fiercely territorial drake of harsh high peaks that holds its storm-lashed dominion against all challengers for centuries."
-tags: [dreadspawn, creature]
+tags: [dreadspawn]
 data:
   icon: icon-person
   templatePriority: null

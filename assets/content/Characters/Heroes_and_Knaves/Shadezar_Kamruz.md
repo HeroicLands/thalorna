@@ -8,7 +8,8 @@ name:
   home: dunashir
   aliases: []
 type: being
-tags: [heroes-and-knaves, administration, character]
+subType: character
+tags: [heroes-and-knaves, administration]
 data:
   icon: icon-person
   templatePriority: null

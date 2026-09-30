@@ -2,8 +2,9 @@
 shortcode: giantbee
 name: {full: Giant Bee, aliases: []}
 type: being
+subType: creature
 description: "A wolf-sized insect and hive worker directed by pheromone signals, defending colossal colonies of hundreds or thousands as one collective intelligence."
-tags: [animal, creature]
+tags: [animal]
 data:
   icon: icon-person
   templatePriority: null

@@ -8,6 +8,7 @@ name:
   home: anlaghzetun
   aliases: []
 type: being
+subType: npc
 description: "A noble of considerable wealth, whose patronage is sought and whose conditions are onerous"
 tags: [generated]
 data: {packFolder: regkhfolk}

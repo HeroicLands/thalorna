@@ -2,7 +2,8 @@
 shortcode: rudavahfrd
 name: {full: Rudâvah Farrud, title: "", given: Rudâvah, clan: Farrud, home: tahrodan, aliases: []}
 type: being
-tags: [heroes-and-knaves, guilded, common-folk, character]
+subType: character
+tags: [heroes-and-knaves, guilded, common-folk]
 data:
   icon: icon-person
   templatePriority: null

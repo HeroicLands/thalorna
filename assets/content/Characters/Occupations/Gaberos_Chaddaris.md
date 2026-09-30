@@ -8,7 +8,8 @@ name:
   home: athenikos2
   aliases: []
 type: being
-tags: [todo-warrior, draft, soldiery, character]
+subType: npc
+tags: [todo-warrior, draft, soldiery]
 data:
   icon: icon-person
   templatePriority: null

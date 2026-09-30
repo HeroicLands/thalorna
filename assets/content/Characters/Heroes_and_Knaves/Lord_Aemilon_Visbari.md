@@ -8,7 +8,8 @@ name:
   home: valdosta
   aliases: []
 type: being
-tags: [heroes-and-knaves, fffv1, herald, noble, spymaster, vylaria, administration, character]
+subType: character
+tags: [heroes-and-knaves, fffv1, herald, noble, spymaster, vylaria, administration]
 data:
   icon: icon-person
   templatePriority: null

@@ -166,12 +166,23 @@ on it (`FROM #draft`).
 `draft: false` included, since it reads as "publish this note", which is what
 happens either way.
 
+## Being classifications
+
+Every `being` note has a top-level `subType` that states what kind of being it
+describes:
+
+- `npc` describes a character meant to be encountered, including a reusable
+  template such as a town guard. It does not have to represent one individual.
+- `character` describes a detailed, playable individual and always represents
+  one person.
+- `creature` describes a being that is neither a character nor an NPC.
+
 ## Species and peoples
 
-A being tagged `character` names Human Folk with `data.species: humanflk`.
-`data.species` is an Address to an existing `lore` note. For other beings, leave
-it null when unstated. The Human Folk and Grukar Folk notes use `humanflk` and
-`grukarfolk`.
+A being with `subType: character` or `subType: npc` names Human Folk with
+`data.species: humanflk`. `data.species` is an Address to an existing `lore`
+note. For other beings, leave it null when unstated. The Human Folk and Grukar
+Folk notes use `humanflk` and `grukarfolk`.
 
 Peoples such as the Pelwar (`pelwarpepl`) and Áelendan (`aelendnppl`) belong in
 `data.lore`, alongside the being's other cultural and social lore. A human of

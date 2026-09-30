@@ -2,8 +2,9 @@
 shortcode: glowvine
 name: {full: Glowvine, aliases: []}
 type: being
+subType: creature
 description: "A dark-magic-corrupted predatory plant that lures unwary prey with bioluminescent beauty in shadowed forests and lightless caves."
-tags: [dreadspawn, creature]
+tags: [dreadspawn]
 data:
   icon: icon-person
   templatePriority: null

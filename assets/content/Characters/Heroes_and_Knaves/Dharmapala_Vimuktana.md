@@ -8,7 +8,8 @@ name:
   home: dhanurkota
   aliases: []
 type: being
-tags: [heroes-and-knaves, soldiery, character]
+subType: character
+tags: [heroes-and-knaves, soldiery]
 data:
   icon: icon-person
   templatePriority: null

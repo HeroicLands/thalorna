@@ -2,7 +2,8 @@
 shortcode: chlbrhydyn
 name: {full: Chéleb Rhýddýn, title: "", given: Chéleb, clan: Rhýddýn, aliases: []}
 type: being
-tags: [character, hero, silent-talon, unguilded, soldiery]
+subType: character
+tags: [hero, silent-talon, unguilded, soldiery]
 data:
   icon: icon-person
   templatePriority: null

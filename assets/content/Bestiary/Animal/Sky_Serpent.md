@@ -2,8 +2,9 @@
 shortcode: skysrpnt
 name: {full: Sky Serpent, aliases: []}
 type: being
+subType: creature
 description: "A serpentine aerial predator up to thirty feet long that glides from mountain heights and canopies to ambush and constrict prey."
-tags: [animal, creature]
+tags: [animal]
 data:
   icon: icon-person
   templatePriority: null

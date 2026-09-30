@@ -8,7 +8,8 @@ name:
   home: karatas2
   aliases: []
 type: being
-tags: [heroes-and-knaves, todo, clergy, character]
+subType: character
+tags: [heroes-and-knaves, todo, clergy]
 data:
   icon: icon-person
   templatePriority: null

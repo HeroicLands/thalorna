@@ -2,7 +2,8 @@
 shortcode: gulrnhgzvn
 name: {full: Gulrânah Gazvân, title: "", given: Gulrânah, clan: Gazvân, home: shamsun, aliases: []}
 type: being
-tags: [heroes-and-knaves, guilded, common-folk, character]
+subType: character
+tags: [heroes-and-knaves, guilded, common-folk]
 data:
   icon: icon-person
   templatePriority: null

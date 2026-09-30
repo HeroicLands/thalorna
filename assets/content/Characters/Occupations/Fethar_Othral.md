@@ -2,7 +2,8 @@
 shortcode: fetharthrl
 name: {full: Féthar Óthral, title: "", given: Féthar, clan: Óthral, home: valdun, aliases: []}
 type: being
-tags: [draft, tradesfolk, character]
+subType: npc
+tags: [draft, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

@@ -8,7 +8,8 @@ name:
   home: karatas2
   aliases: [Knight of the Black Flame, Sir Drazha Sycani]
 type: being
-tags: [heroes-and-knaves, hero, soldiery, character]
+subType: character
+tags: [heroes-and-knaves, hero, soldiery]
 data:
   icon: icon-person
   templatePriority: null
