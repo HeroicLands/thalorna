@@ -21,9 +21,9 @@
  * place generics and their genitives, the office suffixes, the kept words, the
  * opening and closing inventories, the consonant band and the syllable counts.
  * The one rule whose material the note withholds is which names are a god's,
- * and that is read from the concordance's deity rows. Nothing else is
- * restated, because a second copy of a rule drifts from the first the moment
- * either is edited, and the note is where a phonology is settled.
+ * and that is read from `Lore/Deities/Asguardian/`, one note per god. Nothing
+ * else is restated, because a second copy of a rule drifts from the first the
+ * moment either is edited, and the note is where a phonology is settled.
  *
  * Three checks.
  *
@@ -466,35 +466,65 @@ export function decompose(word, rule, last) {
 }
 
 /**
+ * Every god's name, read off its own note.
+ *
+ * `Lore/Deities/Asguardian/` carries one note per god of the Ten—`type: lore`,
+ * `subType: deity`—and `name.full` is the god's name whole. This is the
+ * corpus's own register of who the gods are, settled as a matter of setting
+ * rather than as a by-product of a renaming, so it survives whatever becomes
+ * of the instruments the renaming built.
+ *
+ * @returns {string[]} Each god's name, as its note writes it.
+ */
+function deityNames() {
+    const dir = path.join(CONTENT_DIR, DIVINE[1]);
+    const names = [];
+    for (const file of fs.readdirSync(dir)) {
+        if (!file.endsWith(".md")) continue;
+        const head = fs.readFileSync(path.join(dir, file), "utf8").match(/^---\n([\s\S]*?)\n---/);
+        if (!head) continue;
+        let front;
+        try {
+            front = YAML.parse(head[1]);
+        } catch {
+            continue;
+        }
+        if (front?.type === "lore" && front?.subType === "deity" && front.name?.full) {
+            names.push(String(front.name.full));
+        }
+    }
+    return names;
+}
+
+/**
  * The gods' names, resolved into what they lend a place.
  *
  * The note states two rules—a place held from a god takes that god's name
  * clipped to its first element, and a place the god dwells on takes the name
  * whole in the genitive—and says nothing about who the gods are, because a
- * language note is not where a pantheon is settled. The register is
- * `utils/nordmal-concordance.json`, which the tree already keeps and another
- * packet already maintains, so this reads it rather than carrying a second
- * list that would drift from it.
+ * language note is not where a pantheon is settled. `deityNames` reads that
+ * from the corpus's own notes rather than carrying a second list that would
+ * drift from it.
  *
- * Both rules are filled from the same rows, so the set of gods is one set. The
- * clipped form admits every spelling of the element's row, since a row writes
- * one piece more than one way: Thrúnvald lends `thrún-` and `thrumu-` alike.
- * The whole form admits the name as the register writes it and nothing else,
- * which is what keeps the genitive from reaching an arbitrary word: a name that
- * no deity row carries is not a god's name, however it is spelled.
+ * Both rules are filled from the same names, so the set of gods is one set.
+ * The clipped form admits every spelling of the element's row, since a row
+ * writes one piece more than one way: Thrúnvald lends `thrún-` and `thrumu-`
+ * alike. The whole form admits the name as its note writes it and nothing
+ * else, which is what keeps the genitive from reaching an arbitrary word: a
+ * name no deity note carries is not a god's name, however it is spelled.
  *
  * @param {object} rule - The derived lexicon.
- * @param {object} table - The concordance.
  * @returns {object} The same rule, with the gods' clipped openings and whole
  *   names filled in.
  */
-export function withGods(rule, table) {
+export function withGods(rule) {
     if (!rule.fromGod && !rule.fromGodWhole) return rule;
-    for (const entry of table.entries ?? []) {
-        if (entry.subType !== "deity" || !entry.newName || /\s/.test(entry.newName)) continue;
-        if (rule.fromGodWhole) rule.godWhole.add(entry.newName.toLowerCase());
+    for (const name of deityNames()) {
+        if (!name || /\s/.test(name)) continue;
+        const lower = name.toLowerCase();
+        if (rule.fromGodWhole) rule.godWhole.add(lower);
         if (!rule.fromGod) continue;
-        const pieces = decompose(entry.newName.toLowerCase(), rule, rule.compoundEnds);
+        const pieces = decompose(lower, rule, rule.compoundEnds);
         if (!pieces) continue;
         for (const spelling of rule.kin.get(pieces[0]) ?? [pieces[0]]) rule.godFirst.add(spelling);
     }
@@ -946,15 +976,17 @@ export function checkConcordance(table, rule, tally) {
 
 /** Run every half and report. @returns {number} The exit code. */
 function main() {
-    for (const file of [NOTE, CONCORDANCE]) {
-        if (!fs.existsSync(file)) {
-            console.error(`${file}: error: it is absent, and every rule is read from it`);
-            return 1;
-        }
+    if (!fs.existsSync(NOTE)) {
+        console.error(`${NOTE}: error: it is absent, and every rule is read from it`);
+        return 1;
     }
     const note = fs.readFileSync(NOTE, "utf8");
-    const table = JSON.parse(fs.readFileSync(CONCORDANCE, "utf8"));
-    const rule = withGods(lexiconFrom(note), table);
+    // The concordance is a renaming instrument and is not required for a
+    // predicate here to hold; its absence only silences the check that
+    // compares it against the note, further down.
+    const hasConcordance = fs.existsSync(CONCORDANCE);
+    const table = hasConcordance ? JSON.parse(fs.readFileSync(CONCORDANCE, "utf8")) : null;
+    const rule = withGods(lexiconFrom(note));
     const { names, bynames, titles } = corpus(rule);
 
     const out = [];
@@ -996,7 +1028,7 @@ function main() {
     out.push(...checkLists(names, rule));
 
     const disagreements = new Map();
-    out.push(...checkConcordance(table, rule, disagreements));
+    if (hasConcordance) out.push(...checkConcordance(table, rule, disagreements));
 
     for (const line of out) console.error(line);
 
@@ -1015,7 +1047,7 @@ function main() {
             `${rule.placeGenitive.size} generic genitive(s). ` +
             `A place may also be held from ${rule.godFirst.size} god-element(s), ` +
             `${rule.godWhole.size} whole god's name(s) in the genitive and ` +
-            `${rule.placeFirst.size} named source(s), which ${CONCORDANCE} and the note's own table supply.`,
+            `${rule.placeFirst.size} named source(s), which ${DIVINE[1]} and the note's own table supply.`,
     );
     say(`Names read: ${list(byClass)}`);
     say(
@@ -1032,11 +1064,13 @@ function main() {
             `  off-lexicon ${kind}: ${[...set].sort((a, b) => a.localeCompare(b, "en")).join(", ")}`,
         );
     }
-    say(
-        disagreements.size ?
-            `Settled names this note's rules reject, by class: ${list(disagreements)}`
-        :   "Every name the concordance settles fits its class's rule.",
-    );
+    if (hasConcordance) {
+        say(
+            disagreements.size ?
+                `Settled names this note's rules reject, by class: ${list(disagreements)}`
+            :   "Every name the concordance settles fits its class's rule.",
+        );
+    }
     // Printed rather than hidden, because a filter nobody can see is a filter
     // nobody can check.
     const distinct = [...new Set(bynames)].sort((a, b) => a.localeCompare(b, "en"));
