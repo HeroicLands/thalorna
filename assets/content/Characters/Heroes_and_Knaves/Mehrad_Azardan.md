@@ -2,7 +2,8 @@
 shortcode: mehradzrdn
 name: {full: Mehrâd Âzardan, title: "", given: Mehrâd, clan: Âzardan, home: golshahr, aliases: []}
 type: being
-tags: [heroes-and-knaves, guilded, tradesfolk, character]
+subType: character
+tags: [heroes-and-knaves, guilded, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

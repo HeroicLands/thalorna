@@ -2,7 +2,8 @@
 shortcode: brthrslthr
 name: {full: Bréthar Sálthar, title: "", given: Bréthar, clan: Sálthar, home: valdun, aliases: []}
 type: being
-tags: [draft, common-folk, character]
+subType: npc
+tags: [draft, common-folk]
 data:
   icon: icon-person
   templatePriority: null

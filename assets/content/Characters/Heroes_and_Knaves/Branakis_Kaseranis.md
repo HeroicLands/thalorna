@@ -8,7 +8,8 @@ name:
   home: solheim
   aliases: []
 type: being
-tags: [heroes-and-knaves, guilded, common-folk, character]
+subType: character
+tags: [heroes-and-knaves, guilded, common-folk]
 data:
   icon: icon-person
   templatePriority: null

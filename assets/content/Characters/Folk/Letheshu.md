@@ -2,6 +2,7 @@
 shortcode: letheshu
 name: {full: Letheshu, title: "", given: Letheshu, clan: "", home: galezkara, aliases: []}
 type: being
+subType: npc
 description: "A village healer who sends the cases beyond him on to better hands, and defends those hands against the talk that follows"
 tags: [generated]
 data: {packFolder: regkhfolk}

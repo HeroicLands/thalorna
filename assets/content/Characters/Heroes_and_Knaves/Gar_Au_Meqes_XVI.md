@@ -8,6 +8,7 @@ name:
   home: amqelulegez
   aliases: []
 type: being
+subType: character
 description: "The reigning Gar-Aû, who rules from Galezkara"
 tags: [generated]
 data: {packFolder: regkhhk}

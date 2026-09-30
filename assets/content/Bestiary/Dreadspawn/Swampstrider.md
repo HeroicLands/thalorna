@@ -2,8 +2,9 @@
 shortcode: swmpstrd
 name: {full: Swampstrider, aliases: []}
 type: being
+subType: creature
 description: "A massive, supernaturally intelligent amphibian that ambushes prey from its claimed stretch of wetland with devastating precision."
-tags: [dreadspawn, creature]
+tags: [dreadspawn]
 data:
   icon: icon-person
   templatePriority: null

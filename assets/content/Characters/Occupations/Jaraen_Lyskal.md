@@ -2,7 +2,8 @@
 shortcode: jaranlyskl
 name: {full: Járaen Lýskal, title: "", given: Járaen, clan: Lýskal, home: lunacorte, aliases: []}
 type: being
-tags: [draft, tradesfolk, character]
+subType: npc
+tags: [draft, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

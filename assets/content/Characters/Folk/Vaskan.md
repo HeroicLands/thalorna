@@ -2,6 +2,7 @@
 shortcode: vaskan
 name: {full: Vaskan, title: Lord, given: Vaskan, clan: "", home: southrnmrch, aliases: []}
 type: being
+subType: npc
 description: "The Byzarian lord who holds the Southern March for the League council, and whose choice of one beast-trainer over another began a feud that has outlasted the commission"
 tags: [generated]
 data: {packFolder: helladbyzaria}

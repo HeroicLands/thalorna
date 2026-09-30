@@ -8,7 +8,8 @@ name:
   home: anlaghzetun
   aliases: []
 type: being
-tags: [heroes-and-knaves, tradesfolk, character]
+subType: character
+tags: [heroes-and-knaves, tradesfolk]
 data:
   banner: khelathubnr
   icon: icon-person

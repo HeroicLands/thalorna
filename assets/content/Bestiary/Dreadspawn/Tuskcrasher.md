@@ -2,8 +2,9 @@
 shortcode: tskcrshr
 name: {full: Tuskcrasher, aliases: []}
 type: being
+subType: creature
 description: "A corrupted, colossal wild boar of suicidal ferocity that rules deep forests and destroys any threat to its territory."
-tags: [dreadspawn, creature]
+tags: [dreadspawn]
 data:
   icon: icon-person
   templatePriority: null

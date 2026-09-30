@@ -2,7 +2,8 @@
 shortcode: kelnstylgn
 name: {full: Kêlena Stýlgon, title: "", given: Kêlena, clan: Stýlgon, home: valcerise, aliases: []}
 type: being
-tags: [heroes-and-knaves, administration, character]
+subType: character
+tags: [heroes-and-knaves, administration]
 data:
   icon: icon-person
   templatePriority: null

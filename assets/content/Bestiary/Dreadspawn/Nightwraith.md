@@ -2,8 +2,9 @@
 shortcode: nghtwrth
 name: {full: Nightwraith, aliases: []}
 type: being
+subType: creature
 description: "A corrupted giant bat twisted into a cunning nocturnal killer, hunting the night skies and lightless caverns with ruthless precision."
-tags: [dreadspawn, creature]
+tags: [dreadspawn]
 data:
   icon: icon-person
   templatePriority: null

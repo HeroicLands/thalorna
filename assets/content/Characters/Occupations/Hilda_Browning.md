@@ -2,7 +2,8 @@
 shortcode: hildbrwnng
 name: {full: Hilda Browning, title: "", given: Hilda, clan: Browning, home: ashford, aliases: []}
 type: being
-tags: [draft, underworld, character]
+subType: npc
+tags: [draft, underworld]
 data:
   icon: icon-person
   templatePriority: null

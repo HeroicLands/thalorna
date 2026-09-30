@@ -2,7 +2,8 @@
 shortcode: prthncrdth
 name: {full: Párthun Cárdeth, title: "", given: Párthun, clan: Cárdeth, home: valdun, aliases: []}
 type: being
-tags: [draft, guilded, tradesfolk, character]
+subType: npc
+tags: [draft, guilded, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

@@ -8,7 +8,8 @@ name:
   home: amqelulegez
   aliases: []
 type: being
-tags: [heroes-and-knaves, hero, mages, character]
+subType: character
+tags: [heroes-and-knaves, hero, mages]
 data:
   banner: khelathubnr
   icon: icon-person

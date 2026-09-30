@@ -2,8 +2,9 @@
 shortcode: spndlfnd
 name: {full: Spindlefiend, aliases: []}
 type: being
+subType: creature
 description: "A shadow-corrupted arachnid ambusher that fills whole chambers with nearly invisible webs, turning them into silent deathtraps."
-tags: [dreadspawn, creature]
+tags: [dreadspawn]
 data:
   icon: icon-person
   templatePriority: null

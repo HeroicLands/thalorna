@@ -8,7 +8,8 @@ name:
   aliases: [the Forsaken]
   home: null
 type: being
-tags: [demigod, heroes-of-asguard, unguilded, soldiery, character]
+subType: character
+tags: [demigod, heroes-of-asguard, unguilded, soldiery]
 data:
   icon: icon-person
   templatePriority: null

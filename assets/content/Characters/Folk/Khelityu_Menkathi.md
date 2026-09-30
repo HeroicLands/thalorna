@@ -8,6 +8,7 @@ name:
   home: galezkara
   aliases: []
 type: being
+subType: npc
 description: "Master of the Zeghet'Nelgu, whose pronouncements have grown difficult to parse"
 tags: [generated]
 data: {packFolder: regkhfolk}

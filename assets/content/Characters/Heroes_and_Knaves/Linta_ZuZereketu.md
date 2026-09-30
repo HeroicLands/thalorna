@@ -8,7 +8,8 @@ name:
   home: garanlaghet
   aliases: []
 type: being
-tags: [heroes-and-knaves, soldiery, character]
+subType: character
+tags: [heroes-and-knaves, soldiery]
 data:
   banner: khelathubnr
   icon: icon-person

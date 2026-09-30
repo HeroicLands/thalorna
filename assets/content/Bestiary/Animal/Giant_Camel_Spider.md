@@ -2,8 +2,9 @@
 shortcode: gntcmlsp
 name: {full: Giant Camel Spider, aliases: []}
 type: being
+subType: creature
 description: "A fox-sized desert solifugid, neither venomous nor web-spinning, that compensates with pale bristling chitin and overwhelming jaw muscle."
-tags: [animal, image-needed, creature]
+tags: [animal, image-needed]
 data:
   icon: icon-person
   templatePriority: null

@@ -2,7 +2,8 @@
 shortcode: rgnvldrsgrnd
 name: {full: Enthorv Ásgrind, title: "", given: Enthorv, clan: Ásgrind, home: valgard, aliases: []}
 type: being
-tags: [heroes-and-knaves, tradesfolk, character]
+subType: character
+tags: [heroes-and-knaves, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

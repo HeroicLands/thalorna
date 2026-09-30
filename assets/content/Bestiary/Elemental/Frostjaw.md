@@ -2,8 +2,9 @@
 shortcode: frostjaw
 name: {full: Frostjaw, aliases: []}
 type: being
+subType: creature
 description: "A predator of ice and deep cold given animal form, pursuing prey relentlessly across frozen wastes, driven by hunger and territorial fury."
-tags: [elemental, creature]
+tags: [elemental]
 data:
   icon: icon-person
   templatePriority: null

@@ -2,8 +2,9 @@
 shortcode: crystlcl
 name: {full: Crystalclaw, aliases: []}
 type: being
+subType: creature
 description: "A crystalline apex predator of gem-rich caverns, a living weapon of razor mineral edges and blinding magical radiance."
-tags: [dreadspawn, creature]
+tags: [dreadspawn]
 data:
   icon: icon-person
   templatePriority: null

@@ -2,8 +2,9 @@
 shortcode: yngfrdrg
 name: {full: Young Fire Dragon, aliases: []}
 type: being
+subType: creature
 description: "A century-old fire dragon at its most volatile, killing with raw territorial ferocity as it carves out fresh land and hoard."
-tags: [mythic, image-needed, creature]
+tags: [mythic, image-needed]
 data:
   icon: icon-dragonheadft
   templatePriority: null

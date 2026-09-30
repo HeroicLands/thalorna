@@ -2,8 +2,9 @@
 shortcode: rcksclan
 name: {full: Rockscale Anklyte, aliases: []}
 type: being
+subType: creature
 description: "A quadrupedal herbivore over 800 pounds and twelve feet long, grazing sparse badland vegetation yet defending its ground with overwhelming force."
-tags: [animal, creature]
+tags: [animal]
 data:
   icon: icon-person
   templatePriority: null

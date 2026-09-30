@@ -2,7 +2,8 @@
 shortcode: dornsyndlr
 name: {full: Dôren Sýndalr, title: "", given: Dôren, clan: Sýndalr, aliases: []}
 type: being
-tags: [hero, silent-talon, unguilded, soldiery, character]
+subType: character
+tags: [hero, silent-talon, unguilded, soldiery]
 data:
   icon: icon-person
   templatePriority: null

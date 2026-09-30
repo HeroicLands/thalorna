@@ -2,7 +2,8 @@
 shortcode: daryanardh
 name: {full: Dárya Náredh, title: "", given: Dárya, clan: Náredh, home: cerdwnshlw, aliases: []}
 type: being
-tags: [draft, guilded, tradesfolk, character]
+subType: npc
+tags: [draft, guilded, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

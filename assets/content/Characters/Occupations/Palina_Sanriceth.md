@@ -8,7 +8,8 @@ name:
   home: solarden
   aliases: [Shénasenè Seraphine Dreamweaver]
 type: being
-tags: [todo, draft, clergy, character]
+subType: npc
+tags: [todo, draft, clergy]
 data:
   icon: icon-person
   templatePriority: null

@@ -8,7 +8,8 @@ name:
   home: magnapolis
   aliases: [The Harbour Factor, The Empire's Hand on the Southern Shore]
 type: being
-tags: [heroes-and-knaves, hero, administration, character]
+subType: character
+tags: [heroes-and-knaves, hero, administration]
 data:
   icon: icon-person
   templatePriority: null

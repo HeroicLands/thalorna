@@ -2,8 +2,9 @@
 shortcode: mrlrkr
 name: {full: Mirelurker, aliases: []}
 type: being
+subType: creature
 description: "A crustacean-amphibian apex predator of brackish marshes that waits motionless as a submerged log before striking with brutal force."
-tags: [dreadspawn, creature]
+tags: [dreadspawn]
 data:
   icon: icon-person
   templatePriority: null

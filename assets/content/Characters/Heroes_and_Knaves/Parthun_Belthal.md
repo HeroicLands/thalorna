@@ -2,7 +2,8 @@
 shortcode: prthnblthl
 name: {full: Párthun Bélthal, title: "", given: Párthun, clan: Bélthal, home: valdun, aliases: []}
 type: being
-tags: [heroes-and-knaves, guilded, administration, character]
+subType: character
+tags: [heroes-and-knaves, guilded, administration]
 data:
   icon: icon-person
   templatePriority: null

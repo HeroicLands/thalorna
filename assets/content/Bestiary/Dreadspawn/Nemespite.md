@@ -2,8 +2,9 @@
 shortcode: nmspt
 name: {full: Nemespite, aliases: []}
 type: being
+subType: creature
 description: "An intelligent, venomous insectoid predator that hunts in coordinated packs across warm highlands, caves, and corrupted lands."
-tags: [dreadspawn, creature]
+tags: [dreadspawn]
 data:
   icon: icon-person
   templatePriority: null

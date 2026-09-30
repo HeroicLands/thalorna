@@ -8,7 +8,8 @@ name:
   home: skorrborg
   aliases: []
 type: being
-tags: [character, draft]
+subType: npc
+tags: [draft]
 data:
   templatePriority: null
   archetypes: []

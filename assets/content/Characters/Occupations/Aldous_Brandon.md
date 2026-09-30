@@ -2,7 +2,8 @@
 shortcode: aldosbrndn
 name: {full: Aldous Brandon, title: "", given: Aldous, clan: Brandon, home: thornbury, aliases: []}
 type: being
-tags: [draft, common-folk, character]
+subType: npc
+tags: [draft, common-folk]
 data:
   icon: icon-person
   templatePriority: null

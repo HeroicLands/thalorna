@@ -8,7 +8,8 @@ name:
   home: khelzuret
   aliases: []
 type: being
-tags: [heroes-and-knaves, hero, underworld, character]
+subType: character
+tags: [heroes-and-knaves, hero, underworld]
 data:
   banner: khelathubnr
   icon: icon-person

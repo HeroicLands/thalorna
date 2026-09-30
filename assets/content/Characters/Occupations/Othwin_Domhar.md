@@ -2,7 +2,8 @@
 shortcode: othwindmhr
 name: {full: Óthwin Dómhár, title: "", given: Óthwin, clan: Dómhár, home: eichengrnd, aliases: []}
 type: being
-tags: [draft, common-folk, character]
+subType: npc
+tags: [draft, common-folk]
 data:
   icon: icon-person
   templatePriority: null

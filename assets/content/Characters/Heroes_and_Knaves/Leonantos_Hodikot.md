@@ -8,7 +8,8 @@ name:
   home: chrysamar
   aliases: []
 type: being
-tags: [heroes-and-knaves, todo, guilded, clergy, character]
+subType: character
+tags: [heroes-and-knaves, todo, guilded, clergy]
 data:
   icon: icon-person
   templatePriority: null

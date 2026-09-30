@@ -2,8 +2,9 @@
 shortcode: frstgbln
 name: {full: Forest Goblin, aliases: []}
 type: being
+subType: creature
 description: "A sapient woodland goblin dwelling as a solitary hunter, driven by personal hunger and amusement over fragile, greed-strained bonds."
-tags: [folk, creature]
+tags: [folk]
 data:
   icon: icon-person
   templatePriority: null

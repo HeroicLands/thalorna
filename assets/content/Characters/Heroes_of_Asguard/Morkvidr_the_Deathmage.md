@@ -8,7 +8,8 @@ name:
   aliases: [the Deathmage]
   home: null
 type: being
-tags: [demigod, heroes-of-asguard, unguilded, mages, character]
+subType: character
+tags: [demigod, heroes-of-asguard, unguilded, mages]
 data:
   icon: icon-person
   templatePriority: null

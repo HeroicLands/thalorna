@@ -2,7 +2,8 @@
 shortcode: fethardhrl
 name: {full: Féthar Dhárel, title: "", given: Féthar, clan: Dhárel, aliases: [Féth]}
 type: being
-tags: [tamzir-crew, tradesfolk, character]
+subType: character
+tags: [tamzir-crew, tradesfolk]
 data:
   banner: tamzirbnr
   icon: icon-person

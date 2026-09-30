@@ -8,6 +8,7 @@ name:
   home: anlaghzetun
   aliases: []
 type: being
+subType: npc
 description: "The Meykhathi clan's most respected tracker, keeper of sacred hunting grounds, and father to a daughter who outshot him by thirteen"
 tags: [generated]
 data: {packFolder: regkhfolk}

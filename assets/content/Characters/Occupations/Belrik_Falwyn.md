@@ -8,7 +8,8 @@ name:
   home: liranel
   aliases: [Aldric Fallow]
 type: being
-tags: [draft, guilded, mages, character]
+subType: npc
+tags: [draft, guilded, mages]
 data:
   icon: icon-person
   templatePriority: null

@@ -2,7 +2,8 @@
 shortcode: esharumtrz
 name: {full: Eshârum Tarûzî, title: Captain, given: Eshârum, clan: Tarûzî, aliases: [Shâ]}
 type: being
-tags: [tamzir-crew, tradesfolk, character]
+subType: character
+tags: [tamzir-crew, tradesfolk]
 data:
   banner: tamzirbnr
   icon: icon-person

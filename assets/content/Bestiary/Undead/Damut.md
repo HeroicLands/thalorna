@@ -2,8 +2,9 @@
 shortcode: damut
 name: {full: Damut, aliases: [Damutu, Hélthrall, Hélthralls]}
 type: being
+subType: creature
 description: "The driven one—the mindless undead that goes as it is driven: zombies, skeletons, mummies, and ghouls, animated by necromancy that binds soul-fragments to a corpse."
-tags: [undead, creature]
+tags: [undead]
 data:
   icon: icon-person
   templatePriority: null

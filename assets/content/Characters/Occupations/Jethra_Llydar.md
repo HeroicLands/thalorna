@@ -2,7 +2,8 @@
 shortcode: jethralydr
 name: {full: Jéthra Llýdar, title: "", given: Jéthra, clan: Llýdar, home: cerdwnshlw, aliases: []}
 type: being
-tags: [draft, guilded, mages, character]
+subType: npc
+tags: [draft, guilded, mages]
 data:
   icon: icon-person
   templatePriority: null

@@ -2,7 +2,8 @@
 shortcode: kuruyashim
 name: {full: Kûrûya Ashîmâ, title: "", given: Kûrûya, clan: Ashîmâ, home: kashmuret, aliases: []}
 type: being
-tags: [draft, tradesfolk, character]
+subType: npc
+tags: [draft, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

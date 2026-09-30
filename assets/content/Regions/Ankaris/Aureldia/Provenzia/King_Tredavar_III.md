@@ -2,8 +2,9 @@
 shortcode: kingtredavariii
 name: {full: King Trédavar III, title: King, given: Trédavar, clan: "", home: "", aliases: []}
 type: being
+subType: npc
 description: "A king of Provènzia."
-tags: [character, draft]
+tags: [draft]
 data:
   icon: icon-person
   templatePriority: null

@@ -2,7 +2,8 @@
 shortcode: nilaratlgn
 name: {full: Nílara Tólgen, title: "", given: Nílara, clan: Tólgen, home: lunacorte, aliases: []}
 type: being
-tags: [draft, soldiery, character]
+subType: npc
+tags: [draft, soldiery]
 data:
   icon: icon-person
   templatePriority: null

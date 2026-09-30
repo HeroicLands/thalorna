@@ -2,8 +2,9 @@
 shortcode: crgclmbr
 name: {full: Cragclimber, aliases: []}
 type: being
+subType: creature
 description: "A draconic cliffside ambush predator perfectly adapted to vertical hunting, lurking invisible on rockfaces until the moment it strikes."
-tags: [dreadspawn, creature]
+tags: [dreadspawn]
 data:
   icon: icon-person
   templatePriority: null

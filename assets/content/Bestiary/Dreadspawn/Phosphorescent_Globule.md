@@ -2,8 +2,9 @@
 shortcode: phsphrsc
 name: {full: Phosphorescent Globule, aliases: []}
 type: being
+subType: creature
 description: "A cunning predatory ooze of lightless caves that lures prey with deceptive bioluminescence before striking."
-tags: [dreadspawn, creature]
+tags: [dreadspawn]
 data:
   icon: icon-person
   templatePriority: null

@@ -2,7 +2,8 @@
 shortcode: elyseskyrn
 name: {full: Elýsè Skýrn, title: "", given: Elýsè, clan: Skýrn, aliases: []}
 type: being
-tags: [hero, silent-talon, guilded, mages, character]
+subType: character
+tags: [hero, silent-talon, guilded, mages]
 data:
   icon: icon-person
   templatePriority: null

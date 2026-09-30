@@ -2,7 +2,8 @@
 shortcode: garlendhrl
 name: {full: Gârlen Dhárel, title: "", given: Gârlen, clan: Dhárel, home: elanmere, aliases: []}
 type: being
-tags: [heroes-and-knaves, tradesfolk, character]
+subType: character
+tags: [heroes-and-knaves, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

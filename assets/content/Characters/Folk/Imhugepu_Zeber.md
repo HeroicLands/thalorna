@@ -2,6 +2,7 @@
 shortcode: imhugepuzebr
 name: {full: Imhûgepu Zeber, title: "", given: Imhûgepu, clan: Zeber, home: galezkara, aliases: []}
 type: being
+subType: npc
 description: "Ritualist and warrior of the Zeghet'Nelgu, keeper of the old rites"
 tags: [generated]
 data: {packFolder: regkhfolk}

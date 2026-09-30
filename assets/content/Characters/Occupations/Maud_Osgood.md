@@ -2,7 +2,8 @@
 shortcode: maudosgood
 name: {full: Maud Osgood, title: "", given: Maud, clan: Osgood, home: greywater, aliases: []}
 type: being
-tags: [draft, common-folk, character]
+subType: npc
+tags: [draft, common-folk]
 data:
   icon: icon-person
   templatePriority: null

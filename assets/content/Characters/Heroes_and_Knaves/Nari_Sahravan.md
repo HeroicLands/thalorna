@@ -8,7 +8,8 @@ name:
   home: oasishirvn
   aliases: [The Desert Mystic]
 type: being
-tags: [heroes-and-knaves, hero, clergy, character]
+subType: character
+tags: [heroes-and-knaves, hero, clergy]
 data:
   icon: icon-person
   templatePriority: null

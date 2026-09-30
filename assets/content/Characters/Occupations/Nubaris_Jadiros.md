@@ -8,7 +8,8 @@ name:
   home: theradon2
   aliases: [Lady Mirabel Shadowthorn]
 type: being
-tags: [draft, administration, character]
+subType: npc
+tags: [draft, administration]
 data:
   icon: icon-person
   templatePriority: null

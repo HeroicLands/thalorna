@@ -2,8 +2,9 @@
 shortcode: ironjaw
 name: {full: Ironjaw, aliases: []}
 type: being
+subType: creature
 description: "A metal-fused pack predator corrupted by dark magic that hunts mountains and industrial wastes, marking territory with bones and claw-scratches."
-tags: [dreadspawn, creature]
+tags: [dreadspawn]
 data:
   icon: icon-person
   templatePriority: null

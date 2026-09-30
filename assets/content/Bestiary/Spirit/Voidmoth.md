@@ -2,8 +2,9 @@
 shortcode: voidmoth
 name: {full: Voidmoth, aliases: []}
 type: being
+subType: creature
 description: "A rare being of solidified darkness and void-energy, gathering near thin places and torn reality where the barrier between worlds grows weak."
-tags: [spirit, creature]
+tags: [spirit]
 data:
   icon: icon-person
   templatePriority: null

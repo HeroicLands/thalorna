@@ -2,7 +2,8 @@
 shortcode: edgarchltn
 name: {full: Edgar Chilton, title: "", given: Edgar, clan: Chilton, home: caerwynd, aliases: []}
 type: being
-tags: [draft, tradesfolk, character]
+subType: npc
+tags: [draft, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

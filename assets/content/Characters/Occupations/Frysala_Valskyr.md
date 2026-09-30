@@ -8,7 +8,8 @@ name:
   home: fiordaure
   aliases: []
 type: being
-tags: [draft, administration, character]
+subType: npc
+tags: [draft, administration]
 data:
   icon: icon-person
   templatePriority: null

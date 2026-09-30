@@ -2,7 +2,8 @@
 shortcode: osmndwnwck
 name: {full: Osmund Winwick, title: "", given: Osmund, clan: Winwick, home: thornbury, aliases: []}
 type: being
-tags: [draft, tradesfolk, character]
+subType: npc
+tags: [draft, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

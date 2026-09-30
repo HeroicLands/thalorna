@@ -2,7 +2,8 @@
 shortcode: fakhrdtmrn
 name: {full: Fakhrad Tamârân, title: "", given: Fakhrad, clan: Tamârân, home: shamsun, aliases: []}
 type: being
-tags: [heroes-and-knaves, guilded, mages, character]
+subType: character
+tags: [heroes-and-knaves, guilded, mages]
 data:
   icon: icon-person
   templatePriority: null
