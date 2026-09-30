@@ -140,7 +140,7 @@ She is often depicted as a ghastly figure, her eyes burning with a baleful light
 
 ## Ordeals for Favor
 
-- **The Walk of the Dead:** A journey through a battlefield, where the faithful with the assistance of an unholy relic must summon, confront, and survive the spirits of the fallen courageous who would otherwise go to Valsal, sending their souls instead to the Void.
+- **The Walk of the Dead:** A journey through a battlefield, where the faithful with the assistance of an unholy relic must summon, confront, and survive the spirits of the fallen courageous who would otherwise go to [[place-valsal|Valsal]], turning their souls onto [[place-nulthey|Nulthey]] instead, to wander aimless and unfulfilled among the unworthy until they fade to nothing.
 - **The Blood Oath:** A binding pact made in blood, where the participant pledges their soul to Náhild in exchange for dark powers.
 - **The Grave Descent:** A trial where the faithful must spend a night buried alive, relying only on their faith in Náhild to survive.
 - **The Bone Ritual:** An ordeal where participants must fashion weapons from the bones of the dead and use them successfully in combat.
