@@ -63,7 +63,7 @@ there has ever done.
 
 ## Peoples and Culture
 
-The Nordmen are overwhelmingly human, fiercely independent, and organized into **clans** led by _jarls_ who rule through a combination of strength, generosity, and the reputation earned by their ancestors. Clans cluster into the five kinship-kingdoms—[[affiliation-kngdmnrdhm|Nordheim]], [[affiliation-kingdomlgn|Malagna]], [[affiliation-kingdmnrgd|Norgaad]], [[affiliation-kingdmtrgd|Targud]], and [[affiliation-kngdmvthgrd|Vithgard]]—each with its own king-jarl and regional traditions. What they share far outweighs what separates them: all speak [[skill-nordmalng|Nordmal]], all worship the Twelve of the [[affiliation-asguardian|Asguardian Pantheon]], and all recognize the authority of the _ting_, the open assembly where disputes are settled, laws proclaimed, and alliances forged.
+The Nordmen are overwhelmingly human, fiercely independent, and organized into **clans** led by _jarls_ who rule through a combination of strength, generosity, and the reputation earned by their ancestors. Clans cluster into the five kinship-kingdoms—[[affiliation-kngdmnrdhm|Nordheim]], [[affiliation-kingdomlgn|Malagna]], [[affiliation-kingdmnrgd|Norgaad]], [[affiliation-kingdmtrgd|Targud]], and [[affiliation-kngdmvthgrd|Vithgard]]—each with its own king-jarl and regional traditions. What they share far outweighs what separates them: all speak [[skill-nordmalng|Nordmal]], all worship the Ten of the [[affiliation-asguardian|Asguardian Pantheon]], and all recognize the authority of the _ting_, the open assembly where disputes are settled, laws proclaimed, and alliances forged.
 
 The _ting_ tradition is the closest thing the Nordlands have to a continental institution. Every seventh year the **King of All Clans** is convened on a sacred island at the heart of the region, where the five kings and their principal jarls gather to settle inter-kingdom quarrels, proclaim judgments that reach beyond any one kingdom's writ, and decide matters of war and peace with neighbors.
 
@@ -73,7 +73,7 @@ Nordmen excellence in shipbuilding is legendary. Their longships are shallow-dra
 
 ## Religion
 
-The [[affiliation-asguardian|Asguardian Pantheon]] is the living faith of the Nordlands. Its gods—[[affiliation-odinn|Ódinn]] the Allfather, [[affiliation-thorr|Thórr]] the storm-wielder, [[affiliation-baldr|Baldr]] of light and dreams, [[affiliation-freyr|Fréyr]] and [[affiliation-freyja|Fréyja]] of fertility and love, [[affiliation-tyr|Týr]] of oath and combat, dread [[affiliation-hel|Hél]] of the underworld, and the rest—are not distant cosmic abstractions but near, jealous, and demanding neighbors who walk the edges of the Nordmal imagination. Every Nordmen expects a reckoning at Ragnarok; every Nordmen hopes to be remembered as one who stood well when it came.
+The [[affiliation-asguardian|Asguardian Pantheon]] is the living faith of the Nordlands. Its gods—[[affiliation-odinn|Ódvar]] the Allfather, [[affiliation-thorr|Thrúnvald]] the storm-wielder, [[affiliation-baldr|Bjartr]] of light and dreams, [[affiliation-freyr|Fródvin]] and [[affiliation-freyja|Sólrún]] of fertility and love, [[affiliation-tyr|Eidgar]] of oath and combat, dread [[affiliation-hel|Náhild]] of the underworld, and the rest—are not distant cosmic abstractions but near, jealous, and demanding neighbors who walk the edges of the Nordmal imagination. Every Nordmen expects a reckoning at Aldarlok; every Nordmen hopes to be remembered as one who stood well when it came.
 
 Worship is decentralized. There is no pontifical authority, no single temple primacy, no Ordo. Instead the faith is organized around **hofs** (communal halls), **godar** and **gydjur** (local priests and priestesses who double as civic leaders), and the _blót_—the seasonal sacrifice and shared feast that knits a clan to its gods and to one another. Four great festivals mark the ritual year: _Jól_ at midwinter, _Sumarmál_ at spring, _Midsumar_ at the summer solstice, and _Vetrnaetr_ as winter returns.
 
@@ -98,7 +98,7 @@ Far to the south, Mídhalión is the great market. Nordmen traders and mercenari
 ## See Also
 
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—the five Nordmal kingdoms
-- [[affiliation-asguardian|Asguardian Pantheon]]—the Twelve of the north
+- [[affiliation-asguardian|Asguardian Pantheon]]—the Ten of the north
 - [[skill-nordmalng|Nordmal Language]]—the shared tongue
 - [[place-grkrhlmrgn|Grukarhölm]]—eastern neighbor
 - [[place-vrystwald|Vrystwald]]—southern frontier

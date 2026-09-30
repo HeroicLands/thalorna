@@ -1,11 +1,9 @@
 ---
 shortcode: ordrtyrsjstc
-name:
-  full: The Order of Týr's Justice
-  aliases: [The Sword-Hand of Týr, Týrshönd, Order of Tyrs Justice]
+name: {full: The Order of the Sworn Hand, aliases: [Eidhönd, The Sworn Hands, The White Wand]}
 type: affiliation
 subType: order
-description: "Sworn warrior-judges of Týr—itinerant arbiters and executors of judgment across the Nordlands, bound to give the right ruling regardless of who suffers from it."
+description: "Sworn warrior-judges of Eidgar—itinerant arbiters and executors of judgment across the Nordlands, bound to give the right ruling regardless of who suffers from it."
 tags: []
 data:
   templatePriority: null
@@ -86,35 +84,35 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-_Old Norse: Týrshönd—"The Hand of Týr"_
+_Nordmal: Eidhönd—"the Oath-Hand"_
 
 - **Type:** Fighting religious order
-- **Patron:** [[affiliation-tyr|Týr]]—Asguardian god of law, oath, and just war
+- **Patron:** [[affiliation-tyr|Eidgar]]—Asguardian god of law, oath, and just war
 - **Region:** [[place-nrdlndsrgn|The Nordlands]]—chapter halls in each of the five kingdoms, with the order's mother-hall at Lögstead in Vithgard
 
 ## Overview
 
-The Order of Týr's Justice is the militant arm of Týr's faith—a sworn brotherhood and sisterhood of warrior-judges whose vocation is to ride to where a judgment is required, hear the matter at the gathering of the local ting, render or enforce the ruling, and depart. The order does not claim sovereign authority; it operates within the law of each Nordlands kingdom and submits to that law's structures. What it provides is the trained, impartial, unbribed presence that the law's structures often lack: a knight of the order will not refuse a hard ruling to spare a powerful man, and a knight of the order will not, in living memory, have been bought.
+The Order of the Sworn Hand is the militant arm of Eidgar's faith—a sworn brotherhood and sisterhood of warrior-judges whose vocation is to ride to where a judgment is required, hear the matter at the gathering of the local ting, render or enforce the ruling, and depart. The order does not claim sovereign authority; it operates within the law of each Nordlands kingdom and submits to that law's structures. What it provides is the trained, impartial, unbribed presence that the law's structures often lack: a knight of the order will not refuse a hard ruling to spare a powerful man, and a knight of the order will not, in living memory, have been bought.
 
 The order's existence is the practical answer to the persistent Nordlands problem of corrupted local justice. A ting convened in the hall of the jarl whose interests are at issue is, in practice, not always able to rule against that jarl. The kings of the five kingdoms have, over centuries, found it useful to maintain an institution to which contested matters can be referred—and from which their own subjects can demand referral when their faith in the local ting has run out. The order does not displace local justice; it stands behind it, and steps forward when called.
 
-By tradition the order's knights ride alone or in pairs. They wear the broken-handed sigil of Týr (the god who sacrificed his right hand to bind Fenrir) and carry, at the saddle, a heavy white wand of office that is the visible mark of their authority to convene a ting in Týr's name.
+By tradition the order's knights ride alone or in pairs. They wear the broken-handed sigil of Eidgar (the god who sacrificed his right hand to bind Vetrúlfr) and carry, at the saddle, a heavy white wand of office that is the visible mark of their authority to convene a ting in Eidgar's name.
 
 ## Membership and Structure
 
-Membership is open to any sworn devotee of Týr who can pass the order's examinations. The examinations are rigorous and multi-part: martial competence, legal memory (the laws of all five kingdoms are required, plus the principal precedents of inter-kingdom dispute), the rules of judgment-by-combat, the rhetorical and procedural conduct of a ting, and a final personal interview before the **Council of Hands** at Lögstead. The order admits women on the same terms as men, and has done so since the third generation of its existence; the surviving founders' rolls record several women among the first members.
+Membership is open to any sworn devotee of Eidgar who can pass the order's examinations. The examinations are rigorous and multi-part: martial competence, legal memory (the laws of all five kingdoms are required, plus the principal precedents of inter-kingdom dispute), the rules of judgment-by-combat, the rhetorical and procedural conduct of a ting, and a final personal interview before the **Council of Hands** at Lögstead. The order admits women on the same terms as men, and has done so since the third generation of its existence; the surviving founders' rolls record several women among the first members.
 
 There are three ranks:
 
-- **Sworn Hand** (_Týrshönd_)—the working knight; takes contracts from the order or rides his own circuit by elder permission.
-- **Elder Hand** (_Eldri Týrshönd_)—senior member; recognized for many years of service or for notable rulings; permitted to take apprentices and to sit on the Council of Hands.
+- **Sworn Hand** (_Eidhönd_)—the working knight; takes contracts from the order or rides his own circuit by elder permission.
+- **Elder Hand** (_Eldri Eidhönd_)—senior member; recognized for many years of service or for notable rulings; permitted to take apprentices and to sit on the Council of Hands.
 - **Voice of Lögstead** (_Lögstadar Mál_)—the order's chair, elected from the Council for life; one position; functions as primus inter pares rather than commander.
 
 Apprentices are admitted as **Hand-Squires** (_Hönd-skjöldr_) and serve a senior knight for five to ten years before standing for examination.
 
 ## Doctrine and Practice
 
-The order's central principle is **the unblunted ruling**—that judgment must be rendered as the law requires, regardless of who benefits and who suffers. The principle is taken with the deadly seriousness for which Týr's faith is known: a knight who softens a ruling to spare a powerful man, accepts a gift from an interested party, or declines a hard case from personal inconvenience can be summarily stripped of rank by the nearest Elder Hand and faces, at trial before the Council, the prospect of permanent expulsion.
+The order's central principle is **the unblunted ruling**—that judgment must be rendered as the law requires, regardless of who benefits and who suffers. The principle is taken with the deadly seriousness for which Eidgar's faith is known: a knight who softens a ruling to spare a powerful man, accepts a gift from an interested party, or declines a hard case from personal inconvenience can be summarily stripped of rank by the nearest Elder Hand and faces, at trial before the Council, the prospect of permanent expulsion.
 
 Procedurally, the order observes three working forms:
 
@@ -129,7 +127,7 @@ Procedurally, the order observes three working forms:
 
 ## Relations
 
-- **The Asguardian Pantheon's Priesthood**—the order is religiously subordinate to Týr's senior priesthood but operationally independent. The priesthood does not direct the order's rulings; the order does not preach.
+- **The Asguardian Pantheon's Priesthood**—the order is religiously subordinate to Eidgar's senior priesthood but operationally independent. The priesthood does not direct the order's rulings; the order does not preach.
 - **The five Nordland Crowns**—the order serves all five; the kings maintain the order's chapter halls and grant the wand of office passage through their territories. Tensions occasionally arise when a knight's ruling is contrary to a crown's interest.
 - **The [[affiliation-malldbndlg|Málalidabandalag]]**—the order and the Compact have a standing agreement that any signed company member subject to order judgment will be surrendered to order custody on demand. The agreement holds.
 - **The [[affiliation-ordrstrmspkrs|Order of the Storm-Speakers]]**—religious peer; the two orders occasionally cooperate when a matter requires both legal and ritual authority.
@@ -137,7 +135,7 @@ Procedurally, the order observes three working forms:
 
 ## Identifying Marks
 
-A Sworn Hand wears at all times the order's surcoat—undyed white wool over the working harness—and bears the silver pendant of Týr's broken hand at the throat. The white wand of office, carried at the saddle and produced when convening a ting, is the order's emblem of legal authority. The wand is wrapped in dyed leather (red for a Sworn Hand, blue for an Elder Hand, black for the Voice of Lögstead).
+A Sworn Hand wears at all times the order's surcoat—undyed white wool over the working harness—and bears the silver pendant of Eidgar's broken hand at the throat. The white wand of office, carried at the saddle and produced when convening a ting, is the order's emblem of legal authority. The wand is wrapped in dyed leather (red for a Sworn Hand, blue for an Elder Hand, black for the Voice of Lögstead).
 
 ## Plot Hooks
 

@@ -1,6 +1,6 @@
 ---
 shortcode: hel
-name: {full: "Ritual: Hél", aliases: [The Eternal Night]}
+name: {full: "Ritual: Náhild", aliases: [The Eternal Night]}
 type: skill
 subType: mystical
 tags: [asguardian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-hel|Faith of Hél]]
+See [[affiliation-hel|Faith of Náhild]]

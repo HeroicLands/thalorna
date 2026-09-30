@@ -63,7 +63,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-_Old Norse: Skaldahringr—"the Ring of the Skalds"_
+_Nordmal: Skaldahringr—"the Ring of the Skalds"_
 
 - **Type:** Pan-regional bardic fellowship
 - **Region:** [[place-nrdlndsrgn|The Nordlands]]—all five kingdoms, plus [[place-vrystwald|Vrystwald]] and [[place-aelwyth|Aelwyth]] where Asguardian custom holds
@@ -71,7 +71,7 @@ _Old Norse: Skaldahringr—"the Ring of the Skalds"_
 
 ## Overview
 
-In the Nordlands a king's reign lasts as long as the songs that recall it. A jarl's deeds are not what he did but what is sung of him; an oath sworn in a hall without a skald present is suspected because there is no one to recite it in a generation. The Skalds' Circle is the institution that maintains this archive—not on parchment, which the Asguardian tradition treats with suspicion, but in the memory of trained singers who can recite, on demand, the genealogies of kin going back ten generations, the standing kennings of every great house, the verse-records of contested judgments at every Thing in the last century, and the saga of every campaign large enough to have warranted one.
+In the Nordlands a king's reign lasts as long as the songs that recall it. A jarl's deeds are not what he did but what is sung of him; an oath sworn in a hall without a skald present is suspected because there is no one to recite it in a generation. The Skalds' Circle is the institution that maintains this archive—not on parchment, which the Asguardian tradition treats with suspicion, but in the memory of trained singers who can recite, on demand, the genealogies of kin going back ten generations, the standing kennings of every great house, the verse-records of contested judgments at every ting in the last century, and the saga of every campaign large enough to have warranted one.
 
 A skald is not merely a court entertainer, though skalds do entertain. A skald is the trained, sworn keeper of his hall's record, his kingdom's history, and—when needed—the impartial witness whose recitation is treated by the Asguardian courts as documentary evidence. A dispute over inheritance, a contested oath, a question of who owed whom what tribute three winters ago: the skald is summoned, the skald recites, the recitation is binding.
 
@@ -106,7 +106,7 @@ The third principle has cost skalds their positions and occasionally their lives
 ## Relations
 
 - **The [[affiliation-malldbndlg|Málalidabandalag]]**—formal hospitality and mutual recognition. The Compact's signed companies welcome skalds at their fires; skalds carry company histories, sing the deaths of fallen captains, and serve as itinerant messengers between the Hall at Hringstead and the scattered companies.
-- **The Asguardian priesthood**—overlapping but distinct. Many skalds are also lay devotees of [[affiliation-odinn|Odinn]] (who is patron of poetry as of war and wisdom), and the priesthood of Odinn cooperates closely with the Circle. The cooperation is not formal subordination; skalds answer to their masters and to the Circle, not to any priest.
+- **The Asguardian priesthood**—overlapping but distinct. Many skalds are also lay devotees of [[affiliation-odinn|Ódvar]] (who is patron of poetry as of war and wisdom), and the priesthood of Ódvar cooperates closely with the Circle. The cooperation is not formal subordination; skalds answer to their masters and to the Circle, not to any priest.
 - **The [[affiliation-bardicolgs|Bardic Colleges]] of Élavendre**—cordial mutual respect across cultural distance. The two traditions exchange visiting members regularly and acknowledge each other's craft without claiming to share it.
 - **The kings and jarls**—clients, employers, and occasionally targets of honest recital. The relationship is one of permanent mutual usefulness and occasional sharp friction.
 
@@ -114,7 +114,7 @@ The third principle has cost skalds their positions and occasionally their lives
 
 A sworn skald wears a silver arm-ring (the _skáldhringr_) bearing the marks of his master and his master's master, traced back as far as the Circle's records permit. The ring is forged at the swearing and worn for life. A skald who has been formally accused and convicted of breaking the truth of the recital has his ring broken in his presence at the next Skaldating—a punishment from which there is no recovery and which has been imposed perhaps seven times in living memory.
 
-Court skalds wear, additionally, a brooch in the form of a raven (Odinn's bird), pinned to the cloak.
+Court skalds wear, additionally, a brooch in the form of a raven (Ódvar's bird), pinned to the cloak.
 
 ## Plot Hooks
 

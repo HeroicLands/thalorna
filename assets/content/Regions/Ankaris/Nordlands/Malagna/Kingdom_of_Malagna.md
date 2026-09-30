@@ -34,12 +34,12 @@ data:
         description: >-
           A free farmer holding his own land, bearing arms, and speaking at the ting in his own name.
       - level: 4
-        title: Hauldr
+        title: Ódalmadr
         lore: yeomanrnk
         description: >-
           A bóndi whose kin have held their odal land for generations, ranking first among the free farmers and weightiest in the assembly.
       - level: 5
-        title: Hersir
+        title: Hersvald
         lore: landedlordrnk
         description: >-
           A local chieftain who leads the men of a district in war and speaks for them in peace, holding by their consent rather than by grant.
@@ -47,9 +47,9 @@ data:
         title: Jarl
         lore: greatlordrnk
         description: >-
-          Holding a province of the king, commanding its hersar, and taking a share of its dues in return for keeping its peace.
+          Holding a province of the king, commanding the Hersvald of each of its districts, and taking a share of its dues in return for keeping its peace.
       - level: 7
-        title: Royal Kin
+        title: Konungsaett
         lore: heirrnk
         description: >-
           Of the royal line by blood or marriage, eligible to be acclaimed king but holding no crown.
@@ -62,18 +62,18 @@ data:
       King: Acclaimed sovereign, holding the realm by the ting's consent as much as by descent.
       Queen: The king's wife, keeper of the hall's keys and mistress of its household and stores.
       Jarl: Holder of a province of the king, commanding its levies and answering for its dues.
-      Hersir: Chieftain of a district, leading its men to the muster and speaking for them at the ting.
+      Hersvald: Chieftain of a district, leading its men to the muster and speaking for them at the ting.
       Lawspeaker: Keeper of the law in memory, who recites it at the assembly and declares what it is.
       Godi: >-
         Priest-chieftain of a temple and its district, holding sacred and secular authority together.
-      Stallari: The king's marshal, commander of his household men and master of the muster.
-      Ármadr: Steward of a royal estate, answerable for its yield and for the king's rights within it.
-      Féhirdir: Keeper of the king's treasure, his tribute and the silver of his hall.
-      Merkismadr: Bearer of the king's standard in battle, a post of the highest honor and shortest life.
+      Hirdstjóri: The king's marshal, commander of his household men and master of the muster.
+      Búvördr: Steward of a royal estate, answerable for its yield and for the king's rights within it.
+      Hringvördr: Keeper of the rings the king gives, his tribute and the silver of his hall.
+      Merkiberi: Bearer of the king's standard in battle, a post of the highest honor and shortest life.
       Skald: Court poet, whose verse is the realm's memory and whose praise or scorn makes reputations.
       Hirdman: Sworn man of the king's household troop, fed at his table and bound to his person.
-      Sýslumadr: The king's officer in a district, collecting his dues and holding his courts.
-      Styrimadr: Master of a ship, commanding her crew at sea and answering for her in the levy.
+      Landvördr: The king's reeve in a district, collecting his dues and holding his courts.
+      Skipstjóri: Master of a ship, commanding her crew at sea and answering for her in the levy.
       Harbour-reeve: Keeper of a haven, collecting its tolls and adjudicating disputes on its wharves.
   seat: skorrborg
   domains: [malagna]

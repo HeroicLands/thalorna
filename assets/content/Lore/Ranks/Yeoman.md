@@ -15,4 +15,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-2 bodies in Thalorna name this standing, at levels 3, 4 of their ladders, and each spells it in its own words: **Bóndi**, **Hauldr**.
+2 bodies in Thalorna name this standing, at levels 3, 4 of their ladders, and each spells it in its own words: **Bóndi**, **Ódalmadr**.

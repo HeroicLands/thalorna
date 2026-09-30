@@ -1,6 +1,6 @@
 ---
 shortcode: baldr
-name: {full: "Ritual: Baldr", aliases: [The Luminous Path]}
+name: {full: "Ritual: Bjartr", aliases: [The Luminous Path]}
 type: skill
 subType: mystical
 tags: [asguardian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-baldr|Faith of Baldr]]
+See [[affiliation-baldr|Faith of Bjartr]]

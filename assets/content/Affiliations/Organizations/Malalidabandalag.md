@@ -83,7 +83,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-_Old Norse: "Pay-Troop Compact"—the league of mercenary companies_
+_Nordmal: "Pay-Troop Compact"—the league of mercenary companies_
 
 - **Type:** Mercenary compact / regulatory body
 - **Region:** [[place-nrdlndsrgn|The Nordlands]]—the five kingdoms of [[affiliation-kngdmnrdhm|Nordheim]], [[affiliation-kingdmnrgd|Norgaad]], [[affiliation-kngdmvthgrd|Vithgard]], [[affiliation-kingdmtrgd|Targud]], and [[affiliation-kingdomlgn|Malagna]]

@@ -15,4 +15,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-5 bodies in Thalorna name this standing, at level 5 of their ladders, and each spells it in its own words: **Legha'lutu**, **Lesser Nobility**, **Equestrian**, **Hersir**, **Wali**.
+5 bodies in Thalorna name this standing, at level 5 of their ladders, and each spells it in its own words: **Legha'lutu**, **Lesser Nobility**, **Equestrian**, **Hersvald**, **Wali**.
