@@ -8,7 +8,7 @@ data:
   banner: tamzirbnr
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [mariner]
   occupation: First Mate
   stations: []
   lore: [commonerrnk]

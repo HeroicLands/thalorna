@@ -7,7 +7,7 @@ tags: [blackpine-wolves, brigand, serf, vrystwald, underworld]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [skirmisher, warrior]
   occupation: Brigand
   stations: []
   lore: [slavernk]

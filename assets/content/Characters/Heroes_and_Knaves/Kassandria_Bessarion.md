@@ -13,7 +13,7 @@ tags: [heroes-and-knaves, todo, guilded, mages]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [mage, scholar]
   occupation: Mage (Lore)
   stations: []
   lore: [commonerrnk]

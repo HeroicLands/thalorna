@@ -13,7 +13,7 @@ tags: [todo, draft, clergy]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [cleric]
   occupation: Priest
   stations: []
   lore: [landedlordrnk]

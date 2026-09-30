@@ -8,7 +8,7 @@ data:
   banner: tamzirbnr
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [cleric]
   occupation: Priest
   stations: []
   lore: [commonerrnk]

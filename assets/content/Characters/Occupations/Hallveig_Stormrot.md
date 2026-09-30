@@ -13,7 +13,7 @@ tags: [draft, mages]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [mage]
   occupation: Mage (Illusion)
   stations: []
   lore: [landedlordrnk]

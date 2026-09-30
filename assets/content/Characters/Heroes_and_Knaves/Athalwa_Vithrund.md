@@ -13,7 +13,7 @@ tags: [heroes-and-knaves, administration]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [warrior, courtier]
   occupation: Chieftain
   stations: []
   lore: [commonerrnk]

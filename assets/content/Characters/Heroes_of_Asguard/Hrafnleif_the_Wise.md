@@ -13,7 +13,7 @@ tags: [paragon, heroes-of-asguard, mages]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [scholar, mage]
   occupation: Seer and Runemaster
   stations: []
   lore: [commonerrnk]

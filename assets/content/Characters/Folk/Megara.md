@@ -5,7 +5,7 @@ type: being
 subType: npc
 description: "Wife to a metalworker, mother of two stepchildren by that union, and the steadier half of the household"
 tags: [generated]
-data: {packFolder: regkhfolk}
+data: {archetypes: [], packFolder: regkhfolk}
 ---
 
 Wife to a metalworker, mother of two stepchildren by that union, and the steadier half of the household.

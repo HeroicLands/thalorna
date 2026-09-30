@@ -13,7 +13,7 @@ tags: [paragon, heroes-of-asguard, soldiery]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [warrior, courtier]
   occupation: Warrior and Judge
   stations: []
   lore: [landedlordrnk]

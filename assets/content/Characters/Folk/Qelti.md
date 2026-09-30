@@ -5,7 +5,7 @@ type: being
 subType: npc
 description: "A given name borne by many in the empire—architects, magistrates, playwrights, captains and merchant lords among them—so that the name alone identifies nobody"
 tags: [generated]
-data: {packFolder: regkhfolk}
+data: {archetypes: [], packFolder: regkhfolk}
 ---
 
 A given name borne by many in the empire—architects, magistrates, playwrights, captains and merchant lords among them—so that the name alone identifies nobody.

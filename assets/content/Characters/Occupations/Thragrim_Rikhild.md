@@ -13,7 +13,7 @@ tags: [draft, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [artisan]
   occupation: Timberwright
   stations: []
   lore: [commonerrnk]

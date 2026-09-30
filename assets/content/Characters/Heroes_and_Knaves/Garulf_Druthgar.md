@@ -8,7 +8,7 @@ data:
   banner: tamzirbnr
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [warrior]
   occupation: Sellsword
   stations: []
   lore: [commonerrnk]

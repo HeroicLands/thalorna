@@ -7,7 +7,7 @@ tags: [hero, silent-talon, guilded, mages]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [mage, healer]
   occupation: Alchemist
   stations: []
   lore: [commonerrnk]

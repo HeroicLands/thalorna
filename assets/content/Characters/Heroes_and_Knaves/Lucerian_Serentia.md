@@ -8,7 +8,7 @@ data:
   banner: tamzirbnr
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [healer, scholar]
   occupation: Physician
   stations: []
   lore: [gentryrnk]

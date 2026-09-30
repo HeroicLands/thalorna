@@ -8,7 +8,7 @@ data:
   banner: khelathubnr
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [cleric, scholar]
   occupation: Priest
   stations: []
   lore: [commonerrnk]

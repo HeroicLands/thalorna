@@ -13,7 +13,7 @@ tags: [heroes-and-knaves, hero, administration]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [scholar]
   occupation: Grammatíssa (Records-Keeper)
   stations: []
   lore: [commonerrnk]

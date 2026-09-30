@@ -5,7 +5,7 @@ type: being
 subType: character
 description: "Commander of the Imperial Guard, answerable to the Gar-Aû alone, and careful never to be seen taking a side at court"
 tags: [generated]
-data: {packFolder: regkhhk}
+data: {archetypes: [warrior, courtier], packFolder: regkhhk}
 ---
 
 Commander of the Imperial Guard, answerable to the Gar-Aû alone, and careful never to be seen taking a side at court.

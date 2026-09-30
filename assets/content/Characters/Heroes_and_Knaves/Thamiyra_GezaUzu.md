@@ -14,7 +14,7 @@ data:
   banner: khelathubnr
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [courtier]
   occupation: Courtesan
   stations: []
   lore: [commonerrnk]

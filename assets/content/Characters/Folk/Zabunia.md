@@ -5,7 +5,7 @@ type: being
 subType: npc
 description: "A rival actress who has begun offering generous patronage and connections to elite audiences, and expects them returned"
 tags: [generated]
-data: {packFolder: regkhfolk}
+data: {archetypes: [courtier], packFolder: regkhfolk}
 ---
 
 A rival actress who has begun offering generous patronage and connections to elite audiences, and expects them returned.

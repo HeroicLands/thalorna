@@ -13,7 +13,7 @@ tags: [paragon, heroes-of-asguard, clergy]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [cleric, warrior]
   occupation: Priest
   stations: []
   lore: [commonerrnk]

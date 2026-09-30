@@ -14,7 +14,7 @@ data:
   banner: khelathubnr
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [scholar, mage]
   occupation: Scholar
   stations: []
   lore: [commonerrnk]

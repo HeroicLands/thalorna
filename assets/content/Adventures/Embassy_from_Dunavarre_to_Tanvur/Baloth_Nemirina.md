@@ -6,7 +6,7 @@ subType: character
 tags: [draft]
 data:
   templatePriority: null
-  archetypes: []
+  archetypes: [courtier]
   occupation: null
   stations: []
   lore: []

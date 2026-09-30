@@ -13,7 +13,7 @@ tags: [draft, soldiery]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [warrior]
   occupation: Mercenary
   stations: []
   lore: [commonerrnk]

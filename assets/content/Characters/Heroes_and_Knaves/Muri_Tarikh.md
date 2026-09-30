@@ -7,7 +7,7 @@ tags: [heroes-and-knaves, soldiery]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [warrior]
   occupation: Caravan Guard
   stations: []
   lore: [commonerrnk]

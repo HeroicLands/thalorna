@@ -13,7 +13,7 @@ tags: [heroes-and-knaves, hero, guilded, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [trader, courtier]
   occupation: Mercantyler
   stations: []
   lore: [commonerrnk]

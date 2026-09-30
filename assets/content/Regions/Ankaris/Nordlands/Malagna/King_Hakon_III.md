@@ -12,7 +12,7 @@ subType: npc
 tags: [draft]
 data:
   templatePriority: null
-  archetypes: []
+  archetypes: [courtier]
   occupation: King
   stations: []
   lore: []

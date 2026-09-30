@@ -13,7 +13,7 @@ tags: [heroes-and-knaves, administration]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [courtier, scholar]
   occupation: Nobility (Manor Lord)
   stations: []
   lore: [landedlordrnk]

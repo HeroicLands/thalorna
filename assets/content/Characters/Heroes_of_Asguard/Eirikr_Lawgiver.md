@@ -13,7 +13,7 @@ tags: [paragon, heroes-of-asguard, administration]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [cleric, scholar, courtier]
   occupation: Judge and Lawman
   stations: []
   lore: [commonerrnk]

@@ -5,7 +5,7 @@ type: being
 subType: npc
 description: "Master of Gar-Zekhemulu, an antiquarian so absorbed in his collection that he does not notice what his steward's excellence costs her"
 tags: [generated]
-data: {packFolder: regkhfolk}
+data: {archetypes: [scholar], packFolder: regkhfolk}
 ---
 
 Master of Gar-Zekhemulu, an antiquarian so absorbed in his collection that he does not notice what his steward's excellence costs her.

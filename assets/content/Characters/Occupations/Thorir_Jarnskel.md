@@ -13,7 +13,7 @@ tags: [draft, guilded, mages]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [mage, cleric]
   occupation: Mage (Spirit)
   stations: []
   lore: [commonerrnk]

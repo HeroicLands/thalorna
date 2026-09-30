@@ -13,7 +13,7 @@ tags: [heroes-and-knaves, guilded, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [artisan]
   occupation: Perfumer
   stations: []
   lore: [commonerrnk]

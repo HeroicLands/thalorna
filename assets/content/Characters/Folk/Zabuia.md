@@ -5,7 +5,7 @@ type: being
 subType: npc
 description: "A widow whose case an advocate took when no one else would, and whose gratitude has been useful to him since"
 tags: [generated]
-data: {packFolder: regkhfolk}
+data: {archetypes: [], packFolder: regkhfolk}
 ---
 
 A widow whose case an advocate took when no one else would, and whose gratitude has been useful to him since.

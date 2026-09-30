@@ -7,7 +7,7 @@ tags: [draft, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [trader, mariner]
   occupation: Mercantyler (Supercargo)
   stations: []
   lore: [landedlordrnk]

@@ -11,7 +11,7 @@ type: being
 subType: npc
 description: "A young Wazu attached to the great hunt, learning the rites that attend the taking of sacred beasts"
 tags: [generated]
-data: {packFolder: regkhfolk}
+data: {archetypes: [cleric], packFolder: regkhfolk}
 ---
 
 A young Wazu attached to the great hunt, learning the rites that attend the taking of sacred beasts.

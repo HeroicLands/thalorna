@@ -13,7 +13,7 @@ tags: [demigod, heroes-of-asguard, soldiery]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [warrior]
   occupation: Champion
   stations: []
   lore: [commonerrnk]

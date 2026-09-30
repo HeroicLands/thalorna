@@ -7,7 +7,7 @@ tags: [draft, soldiery]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [skirmisher]
   occupation: Yeoman Archer
   stations: []
   lore: [commonerrnk]

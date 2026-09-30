@@ -14,7 +14,7 @@ tags: [khelathu]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [healer, woodsman]
   occupation: null
   stations: []
   lore: []

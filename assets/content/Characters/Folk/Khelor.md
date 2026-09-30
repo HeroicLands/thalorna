@@ -5,7 +5,7 @@ type: being
 subType: npc
 description: "A younger brother, dead, whose loss his sister has never come to terms with and has poured into her work instead"
 tags: [generated]
-data: {packFolder: regkhfolk}
+data: {archetypes: [], packFolder: regkhfolk}
 ---
 
 A younger brother, dead, whose loss his sister has never come to terms with and has poured into her work instead.

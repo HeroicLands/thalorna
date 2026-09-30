@@ -14,7 +14,7 @@ data:
   banner: khelathubnr
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [warrior, woodsman]
   occupation: Caravan Guard
   stations: []
   lore: [commonerrnk]

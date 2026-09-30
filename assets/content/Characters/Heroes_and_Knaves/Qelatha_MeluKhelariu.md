@@ -14,7 +14,7 @@ data:
   banner: khelathubnr
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [skirmisher, woodsman]
   occupation: Yeoman Archer
   stations: []
   lore: [commonerrnk]

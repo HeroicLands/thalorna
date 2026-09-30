@@ -13,7 +13,7 @@ tags: [heroes-and-knaves, hero, administration]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [courtier, trader]
   occupation: Nobility (Courtier)
   stations: []
   lore: [landedlordrnk]

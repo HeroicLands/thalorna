@@ -11,7 +11,7 @@ type: being
 subType: npc
 description: "A noble administrator of the middle rank, diligent, and unlikely ever to be promoted past the point where diligence is enough"
 tags: [generated]
-data: {packFolder: regkhfolk}
+data: {archetypes: [courtier, scholar], packFolder: regkhfolk}
 ---
 
 A noble administrator of the middle rank, diligent, and unlikely ever to be promoted past the point where diligence is enough.

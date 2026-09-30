@@ -13,7 +13,7 @@ tags: [heroes-and-knaves, hero, soldiery]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [warrior, skirmisher]
   occupation: Bounty Hunter
   stations: []
   lore: [commonerrnk]

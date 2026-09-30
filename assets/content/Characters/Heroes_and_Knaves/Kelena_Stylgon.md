@@ -7,7 +7,7 @@ tags: [heroes-and-knaves, administration]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [courtier]
   occupation: Courtesan
   stations: []
   lore: [commonerrnk]

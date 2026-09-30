@@ -8,7 +8,7 @@ data:
   banner: khelathubnr
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [mage, healer]
   occupation: Alchemist
   stations: []
   lore: [commonerrnk]

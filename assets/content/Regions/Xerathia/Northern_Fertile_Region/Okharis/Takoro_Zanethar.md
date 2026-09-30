@@ -6,7 +6,7 @@ subType: npc
 tags: [administration, draft]
 data:
   templatePriority: null
-  archetypes: []
+  archetypes: [courtier, cleric]
   occupation: king
   stations: []
   lore: [landedlordrnk]

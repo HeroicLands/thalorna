@@ -7,7 +7,7 @@ tags: [heroes-and-knaves, guilded, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [artisan]
   occupation: Shipwright
   stations: []
   lore: [commonerrnk]

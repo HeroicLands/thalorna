@@ -5,7 +5,7 @@ type: being
 subType: npc
 description: "A junior priest at the temple of Qe'âret, young enough to still believe the order works as it is described"
 tags: [generated]
-data: {packFolder: regkhfolk}
+data: {archetypes: [cleric], packFolder: regkhfolk}
 ---
 
 A junior priest at the temple of Qe'âret, young enough to still believe the order works as it is described.

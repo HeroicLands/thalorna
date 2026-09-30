@@ -13,7 +13,7 @@ tags: [paragon, heroes-of-asguard, soldiery]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [cleric, woodsman]
   occupation: Farmer and Protector
   stations: []
   lore: [commonerrnk]

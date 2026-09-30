@@ -5,7 +5,7 @@ type: being
 subType: npc
 description: "A merchant's daughter whose sponsorship launched a performer's career, and who has never entirely let the performer forget it"
 tags: [generated]
-data: {packFolder: regkhfolk}
+data: {archetypes: [], packFolder: regkhfolk}
 ---
 
 A merchant's daughter whose sponsorship launched a performer's career, and who has never entirely let the performer forget it.

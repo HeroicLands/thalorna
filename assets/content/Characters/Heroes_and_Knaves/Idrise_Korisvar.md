@@ -13,7 +13,7 @@ tags: [heroes-and-knaves, soldiery]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [warrior, cleric]
   occupation: Bodyguard
   stations: []
   lore: [commonerrnk]

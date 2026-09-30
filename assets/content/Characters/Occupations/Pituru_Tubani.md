@@ -7,7 +7,7 @@ tags: [draft, soldiery]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [warrior, artisan]
   occupation: Man-at-Arms (Sapper)
   stations: []
   lore: [commonerrnk]

@@ -7,7 +7,7 @@ tags: [draft, common-folk]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [trader]
   occupation: Teamster
   stations: []
   lore: [commonerrnk]

@@ -13,7 +13,7 @@ tags: [hero, heroes-of-asguard, underworld]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [courtier]
   occupation: Agitator and Orator
   stations: []
   lore: [commonerrnk]

@@ -7,7 +7,7 @@ tags: [hero, silent-talon, unguilded, soldiery]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [infiltrator]
   occupation: Scout / Spy
   stations: []
   lore: [commonerrnk]

@@ -13,7 +13,7 @@ tags: [hero, heroes-of-asguard, administration]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [courtier]
   occupation: Courtesan and Power Broker
   stations: []
   lore: [commonerrnk]

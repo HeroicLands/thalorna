@@ -14,7 +14,7 @@ data:
   banner: khelathubnr
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [infiltrator]
   occupation: Intelligence Agent
   stations: []
   lore: [commonerrnk]

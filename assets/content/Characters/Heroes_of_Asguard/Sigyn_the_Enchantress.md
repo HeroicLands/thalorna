@@ -13,7 +13,7 @@ tags: [paragon, heroes-of-asguard, administration]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [courtier]
   occupation: Courtier and Counselor
   stations: []
   lore: [landedlordrnk]
