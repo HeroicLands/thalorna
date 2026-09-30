@@ -7,7 +7,7 @@ tags: [heroes-and-knaves, common-folk]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [commoner]
   occupation: Miner
   stations: []
   lore: [commonerrnk]

@@ -118,8 +118,13 @@ data:
 - mariner: Handles boats and blue water.
 - artisan: Builds, repairs, and appraises craft work.
 - trader: Moves goods, values them, and knows markets.
+- commoner: Fits no more specific archetype; handles ordinary work and daily life.
+- entertainer: Performs for an audience through acting, music, comedy, or similar arts.
+- guildsperson: Has professional training, standing, or connections that open doors.
 
 Note that archetypes are descriptive, not proscriptive, and a character may be described by multiple archetypes at once.
+`commoner` stands alone: a being with another fitting archetype does not also carry `commoner`.
+It fits labourers, animal trainers, ostlers, and teamsters whose notes establish no more specific role. Use `guildsperson` when education, professional standing, or useful connections matter to the character's part in an adventure; guild membership by itself does not require it.
 
 `socialTies` describes the relationship this being has with other people or affiliations. The possible relationships are:
 

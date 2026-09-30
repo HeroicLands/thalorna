@@ -13,7 +13,7 @@ tags: [draft, guilded, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [entertainer, guildsperson]
   occupation: Thespian
   stations: []
   lore: [commonerrnk]

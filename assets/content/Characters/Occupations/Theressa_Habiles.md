@@ -13,7 +13,7 @@ tags: [draft, underworld]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [commoner]
   occupation: Prostitute
   stations: []
   lore: [commonerrnk]

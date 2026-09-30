@@ -13,7 +13,7 @@ tags: [heroes-and-knaves, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [commoner]
   occupation: Animal Trainer
   stations: []
   lore: [commonerrnk]

@@ -13,7 +13,7 @@ tags: [draft, common-folk]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [commoner]
   occupation: Labourer (semi-skilled)
   stations: []
   lore: [commonerrnk]
