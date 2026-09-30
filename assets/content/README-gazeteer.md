@@ -4,7 +4,7 @@ Thalorna's supporting notes form a **complete reference**. The Adventurer's Guid
 
 Completeness and readability belong together. A settlement's population, harvest, ruler, and defenses may be essential facts, but a string of figures alone rarely helps a player imagine being there or a GM bring the place to life. Explain what those facts mean to the people who live with them. Keep precise information easy to find; give it context that makes it memorable and useful.
 
-This document draws on Deborah Teramis Christian and Bruce A. Heard's *The Gazetteer Writer's Manual: Creating Travel Guides to Fictional Worlds* to guide the **supporting corpus**. The manual's most useful principle here is that a detailed reference can also offer a tour of a place. Its accounts of history, land, society, and power should help readers understand how the place works and why its details matter.
+This document draws on Deborah Teramis Christian and Bruce A. Heard's _The Gazetteer Writer's Manual: Creating Travel Guides to Fictional Worlds_ to guide the **supporting corpus**. The manual's most useful principle here is that a detailed reference can also offer a tour of a place. Its accounts of history, land, society, and power should help readers understand how the place works and why its details matter.
 
 ## The central distinction
 
@@ -63,6 +63,7 @@ The note types below are those in `package-build/docs/reference/note-types.md`. 
 Use `subType: character` for one fully developed, playable individual. Use `subType: npc` for a being meant to be encountered rather than necessarily played; an NPC may be an individual or a reusable template such as a town guard. Use `subType: creature` for any being that is neither a character nor an NPC. These subtypes classify the being's role in the content regardless of species, intelligence, or appearance.
 
 Every being uses these frontmatter:
+
 ```yaml
 ---
 shortcode: ""
@@ -89,8 +90,8 @@ data:
   socialTies: [] # Defining support and opposition (see Enemies/Patrons below)
   gender: "" # male, female, or other
   species: # lore note associated with the being species, if any (e.g., `humanflk`)
-  born: ""  # canonical date when born (YYY.DDD, where YYY is the year, and DDD is the day of the year), or `unknown` if unknown
-  died: ""  # canonical date when died (YYY.DDD, where YYY is the year, and DDD is the day of the year), or `unknown` if unknown
+  born: "" # canonical date when born (YYY.DDD, where YYY is the year, and DDD is the day of the year), or `unknown` if unknown
+  died: "" # canonical date when died (YYY.DDD, where YYY is the year, and DDD is the day of the year), or `unknown` if unknown
   height: "" # Height expressed in feet and inches, with `'` for feet and `"` for inches
   weight: 0 # Weight in pounds, followed by "lbs"
   frame: "" # frame size: scant, light, medium, large, massive
