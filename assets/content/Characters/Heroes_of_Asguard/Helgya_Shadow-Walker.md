@@ -8,7 +8,8 @@ name:
   aliases: [Shadow-Walker]
   home: null
 type: being
-tags: [hero, heroes-of-asguard, unguilded, underworld, character]
+subType: character
+tags: [hero, heroes-of-asguard, unguilded, underworld]
 data:
   icon: icon-person
   templatePriority: null

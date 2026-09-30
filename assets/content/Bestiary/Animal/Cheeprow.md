@@ -2,8 +2,9 @@
 shortcode: cheeprow
 name: {full: Cheeprow, aliases: []}
 type: being
+subType: creature
 description: "A ten-inch creature of disarming cuteness that lures travelers with innocent charm before revealing itself as a dangerous pack predator."
-tags: [animal, creature]
+tags: [animal]
 data:
   icon: icon-person
   templatePriority: null

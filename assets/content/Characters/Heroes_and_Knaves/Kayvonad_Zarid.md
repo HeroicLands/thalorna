@@ -2,7 +2,8 @@
 shortcode: kayvondzrd
 name: {full: Kayvonad Zârîd, title: "", given: Kayvonad, clan: Zârîd, home: ashkarad, aliases: []}
 type: being
-tags: [heroes-and-knaves, guilded, mages, character]
+subType: character
+tags: [heroes-and-knaves, guilded, mages]
 data:
   icon: icon-person
   templatePriority: null

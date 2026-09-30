@@ -8,7 +8,8 @@ name:
   home: steinmark
   aliases: [Firehair, the Shipwright's Son]
 type: being
-tags: [heroes-and-knaves, hero, guilded, tradesfolk, character]
+subType: character
+tags: [heroes-and-knaves, hero, guilded, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

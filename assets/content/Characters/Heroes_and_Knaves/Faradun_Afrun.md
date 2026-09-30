@@ -2,7 +2,8 @@
 shortcode: faradunfrn
 name: {full: Faradûn Afrûn, title: "", given: Faradûn, clan: Afrûn, home: tahrodan, aliases: []}
 type: being
-tags: [heroes-and-knaves, guilded, common-folk, character]
+subType: character
+tags: [heroes-and-knaves, guilded, common-folk]
 data:
   icon: icon-person
   templatePriority: null

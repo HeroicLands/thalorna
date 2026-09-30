@@ -8,7 +8,8 @@ name:
   home: qadhirun
   aliases: []
 type: being
-tags: [draft, tradesfolk, character]
+subType: npc
+tags: [draft, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

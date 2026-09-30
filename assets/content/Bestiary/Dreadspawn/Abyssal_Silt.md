@@ -2,8 +2,9 @@
 shortcode: abysslsl
 name: {full: Abyssal Silt, aliases: []}
 type: being
+subType: creature
 description: "A predatory ooze from toxic marshes and deep caverns that lurks camouflaged in stagnant darkness, hungering with unnatural cunning."
-tags: [dreadspawn, creature]
+tags: [dreadspawn]
 data:
   icon: icon-person
   templatePriority: null

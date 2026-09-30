@@ -2,8 +2,9 @@
 shortcode: crglrkr
 name: {full: Crag Lurker, aliases: []}
 type: being
+subType: creature
 description: "A horse-sized ambush spider that scales sheer cliffs in ghostly silence before striking prey in rocky, vertical terrain."
-tags: [animal, creature]
+tags: [animal]
 data:
   icon: icon-person
   templatePriority: null

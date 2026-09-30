@@ -2,7 +2,8 @@
 shortcode: nulazizrsh
 name: {full: Nûlazî Zarrâshî, title: "", given: Nûlazî, clan: Zarrâshî, home: azhun2, aliases: []}
 type: being
-tags: [draft, tradesfolk, character]
+subType: npc
+tags: [draft, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

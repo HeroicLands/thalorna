@@ -2,8 +2,9 @@
 shortcode: margrush
 name: {full: Margrush, aliases: []}
 type: being
+subType: creature
 description: "A leathery-hided forest and swamp predator over 350 pounds, its flattened head and serrated jaws made for gripping prey amid concealing camouflage."
-tags: [animal, creature]
+tags: [animal]
 data:
   icon: icon-person
   templatePriority: null

@@ -2,8 +2,9 @@
 shortcode: blinkfox
 name: {full: Blinkfox, aliases: []}
 type: being
+subType: creature
 description: "A fae-touched predator that hunts enchanted forests by slipping through dimensions, striking from partially outside normal space."
-tags: [dreadspawn, creature]
+tags: [dreadspawn]
 data:
   icon: icon-person
   templatePriority: null

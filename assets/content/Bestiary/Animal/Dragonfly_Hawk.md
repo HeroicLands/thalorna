@@ -2,8 +2,9 @@
 shortcode: drgnflyh
 name: {full: Dragonfly Hawk, aliases: []}
 type: being
+subType: creature
 description: "A dragonfly scaled to nightmare size, an agile aerial hunter of rivers, marshes, and coasts that strikes prey by sight."
-tags: [animal, creature]
+tags: [animal]
 data:
   icon: icon-person
   templatePriority: null

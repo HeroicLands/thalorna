@@ -8,7 +8,8 @@ name:
   home: bethura
   aliases: [The Keeper of the Purple Warrant, The Renegade Grammatíssa]
 type: being
-tags: [heroes-and-knaves, hero, administration, character]
+subType: character
+tags: [heroes-and-knaves, hero, administration]
 data:
   icon: icon-person
   templatePriority: null

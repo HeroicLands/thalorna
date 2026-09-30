@@ -2,8 +2,9 @@
 shortcode: rckhdglm
 name: {full: Rockhide Golem, aliases: []}
 type: being
+subType: creature
 description: "A towering ten-foot guardian of fused stone, engineered for brute force to defend treasures within ancient ruins and fortifications."
-tags: [construct, creature]
+tags: [construct]
 data:
   icon: icon-person
   templatePriority: null

@@ -2,7 +2,8 @@
 shortcode: paturilmsh
 name: {full: Pâtûri Lamûshî, title: "", given: Pâtûri, clan: Lamûshî, home: azhun2, aliases: []}
 type: being
-tags: [draft, guilded, common-folk, character]
+subType: npc
+tags: [draft, guilded, common-folk]
 data:
   icon: icon-person
   templatePriority: null

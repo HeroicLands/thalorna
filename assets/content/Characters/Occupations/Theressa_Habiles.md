@@ -8,7 +8,8 @@ name:
   home: theradon2
   aliases: []
 type: being
-tags: [draft, underworld, character]
+subType: npc
+tags: [draft, underworld]
 data:
   icon: icon-person
   templatePriority: null

@@ -8,7 +8,8 @@ name:
   home: thrymstead
   aliases: []
 type: being
-tags: [heroes-and-knaves, common-folk, character]
+subType: character
+tags: [heroes-and-knaves, common-folk]
 data:
   icon: icon-person
   templatePriority: null

@@ -8,7 +8,8 @@ name:
   home: byzaris
   aliases: []
 type: being
-tags: [heroes-and-knaves, todo, guilded, mages, character]
+subType: character
+tags: [heroes-and-knaves, todo, guilded, mages]
 data:
   icon: icon-person
   templatePriority: null

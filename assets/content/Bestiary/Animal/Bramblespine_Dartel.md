@@ -2,8 +2,9 @@
 shortcode: brmblspn
 name: {full: Bramblespine Dartel, aliases: []}
 type: being
+subType: creature
 description: "A small, heavily armored arid-land reptile, far less deadly than large predators but disproportionately hazardous through its spined defenses."
-tags: [animal, creature]
+tags: [animal]
 data:
   icon: icon-person
   templatePriority: null

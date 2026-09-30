@@ -8,9 +8,10 @@ name:
   home: ""
   aliases: [Master Tiger of the Steppes]
 type: being
+subType: npc
 description: >-
   Warlord risen out of the Hëkvōr, the Black Wilds north of the Empire of Tānvür—a master strategist whose steppe confederation has become the gravest external threat the imperial frontier has faced in a generation.
-tags: [draft, character]
+tags: [draft]
 data:
   icon: icon-person
   templatePriority: null

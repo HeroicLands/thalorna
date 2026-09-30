@@ -2,7 +2,8 @@
 shortcode: nushirnrsf
 name: {full: Nushir Narsâfî, title: "", given: Nushir, clan: Narsâfî, home: zargandur, aliases: []}
 type: being
-tags: [heroes-and-knaves, guilded, tradesfolk, character]
+subType: character
+tags: [heroes-and-knaves, guilded, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

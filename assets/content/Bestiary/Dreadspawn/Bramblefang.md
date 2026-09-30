@@ -2,8 +2,9 @@
 shortcode: brmblfng
 name: {full: Bramblefang, aliases: []}
 type: being
+subType: creature
 description: "A corruption-born woodland apex predator that blends indistinguishably into thickets, striking from shadow-touched forests and groves."
-tags: [dreadspawn, creature]
+tags: [dreadspawn]
 data:
   icon: icon-person
   templatePriority: null

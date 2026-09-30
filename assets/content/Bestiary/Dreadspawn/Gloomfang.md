@@ -2,8 +2,9 @@
 shortcode: glmfng
 name: {full: Gloomfang, aliases: []}
 type: being
+subType: creature
 description: "A corrupted rodent-thing that hunts deep caverns in hive-minded packs, overwhelming prey through numbers and coordinated viciousness."
-tags: [dreadspawn, creature]
+tags: [dreadspawn]
 data:
   icon: icon-person
   templatePriority: null

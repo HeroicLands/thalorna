@@ -2,7 +2,8 @@
 shortcode: parsharkrm
 name: {full: Pârshar Kûrrîm, title: "", given: Pârshar, clan: Kûrrîm, home: kethara2, aliases: []}
 type: being
-tags: [draft, guilded, tradesfolk, character]
+subType: npc
+tags: [draft, guilded, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

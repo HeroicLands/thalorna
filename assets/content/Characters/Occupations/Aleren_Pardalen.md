@@ -2,7 +2,8 @@
 shortcode: alernprdln
 name: {full: Áleren Párdalen, title: "", given: Áleren, clan: Párdalen, home: silvain, aliases: []}
 type: being
-tags: [draft, clergy, character]
+subType: npc
+tags: [draft, clergy]
 data:
   icon: icon-person
   templatePriority: null

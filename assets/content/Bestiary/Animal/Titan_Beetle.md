@@ -2,8 +2,9 @@
 shortcode: ttnbtl
 name: {full: Titan Beetle, aliases: []}
 type: being
+subType: creature
 description: "A massive armored herbivorous beetle several feet long that fiercely defends its territory in dense forests, badlands, and caves."
-tags: [animal, creature]
+tags: [animal]
 data:
   icon: icon-person
   templatePriority: null

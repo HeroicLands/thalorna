@@ -2,7 +2,8 @@
 shortcode: torniskbry
 name: {full: Tórnis Kúbrý, title: "", given: Tórnis, clan: Kúbrý, aliases: [Calen]}
 type: being
-tags: [hero, silent-talon, unguilded, soldiery, character]
+subType: character
+tags: [hero, silent-talon, unguilded, soldiery]
 data:
   icon: icon-person
   templatePriority: null

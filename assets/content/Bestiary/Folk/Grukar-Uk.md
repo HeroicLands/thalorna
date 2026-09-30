@@ -2,8 +2,9 @@
 shortcode: grukaruk
 name: {full: Grukar-Uk, aliases: []}
 type: being
+subType: creature
 description: "A small, dull, lazy Grukar drone forming the teeming bulk of any tribe, unremarkable but overwhelming in sheer numbers."
-tags: [folk, creature]
+tags: [folk]
 data:
   icon: icon-person
   templatePriority: null

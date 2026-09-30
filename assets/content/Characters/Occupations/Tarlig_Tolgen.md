@@ -2,7 +2,8 @@
 shortcode: tarligtlgn
 name: {full: Târlig Tólgen, title: "", given: Târlig, clan: Tólgen, home: belporte, aliases: []}
 type: being
-tags: [draft, common-folk, character]
+subType: npc
+tags: [draft, common-folk]
 data:
   icon: icon-person
   templatePriority: null

@@ -2,7 +2,8 @@
 shortcode: lyrenatlgn
 name: {full: Lýrena Tólgen, title: "", given: Lýrena, clan: Tólgen, home: lunacorte, aliases: []}
 type: being
-tags: [draft, tradesfolk, character]
+subType: npc
+tags: [draft, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

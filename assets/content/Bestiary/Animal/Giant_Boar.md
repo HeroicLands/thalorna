@@ -2,8 +2,9 @@
 shortcode: gntbr
 name: {full: Giant Boar, aliases: []}
 type: being
+subType: creature
 description: "A thousand-pound apex boar of northern forests, standing five feet at the shoulder and jealously guarding vast territories with barely restrained violence."
-tags: [animal, creature]
+tags: [animal]
 data:
   icon: icon-person
   templatePriority: null

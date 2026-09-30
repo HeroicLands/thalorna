@@ -2,7 +2,8 @@
 shortcode: arevynlydr
 name: {full: Arévyn Llýdar, title: "", given: Arévyn, clan: Llýdar, home: liranel, aliases: []}
 type: being
-tags: [heroes-and-knaves, common-folk, character]
+subType: character
+tags: [heroes-and-knaves, common-folk]
 data:
   icon: icon-person
   templatePriority: null

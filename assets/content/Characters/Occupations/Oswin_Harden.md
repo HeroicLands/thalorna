@@ -2,7 +2,8 @@
 shortcode: oswinhardn
 name: {full: Oswin Harden, title: "", given: Oswin, clan: Harden, home: caerwynd, aliases: []}
 type: being
-tags: [draft, guilded, tradesfolk, character]
+subType: npc
+tags: [draft, guilded, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

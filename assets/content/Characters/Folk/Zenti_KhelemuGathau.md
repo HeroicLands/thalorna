@@ -8,6 +8,7 @@ name:
   home: garanlaghet
   aliases: []
 type: being
+subType: npc
 description: "A High Scribe who holds the drafting of treaties and trade agreements, and who believes his protégée is the key to expanding his influence"
 tags: [generated]
 data: {packFolder: regkhfolk}

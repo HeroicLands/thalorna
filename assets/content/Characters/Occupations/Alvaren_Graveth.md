@@ -2,7 +2,8 @@
 shortcode: alvrngrvth
 name: {full: Alváren Gráveth, title: "", given: Alváren, clan: Gráveth, home: valdes, aliases: []}
 type: being
-tags: [draft, common-folk, character]
+subType: npc
+tags: [draft, common-folk]
 data:
   icon: icon-person
   templatePriority: null

@@ -2,8 +2,9 @@
 shortcode: acidtoad
 name: {full: Acidtoad, aliases: []}
 type: being
+subType: creature
 description: "A corruption-twisted amphibian of swamps and toxic pools that ambushes prey with sluggish movements and lethally venomous, acidic flesh."
-tags: [dreadspawn, creature]
+tags: [dreadspawn]
 data:
   icon: icon-person
   templatePriority: null

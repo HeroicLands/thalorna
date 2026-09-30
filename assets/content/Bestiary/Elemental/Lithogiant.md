@@ -2,8 +2,9 @@
 shortcode: lthgnt
 name: {full: Lithogiant, aliases: []}
 type: being
+subType: creature
 description: "A titanic earth elemental that wanders mountain ranges by inscrutable paths, usually solitary but an apocalyptic threat when agitated or territorial."
-tags: [elemental, creature]
+tags: [elemental]
 data:
   icon: icon-person
   templatePriority: null

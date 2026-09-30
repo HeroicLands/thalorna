@@ -2,8 +2,9 @@
 shortcode: fthrcrst
 name: {full: Feathercrest Velon, aliases: []}
 type: being
+subType: creature
 description: "A four-foot iridescent-plumed pack predator of dense forests and rocky highlands, aggressively territorial and cunning in its hunts."
-tags: [animal, creature]
+tags: [animal]
 data:
   icon: icon-person
   templatePriority: null

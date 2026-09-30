@@ -2,7 +2,8 @@
 shortcode: ovlynslthr
 name: {full: Óvelyn Sálthar, title: "", given: Óvelyn, clan: Sálthar, home: liranel, aliases: []}
 type: being
-tags: [draft, tradesfolk, character]
+subType: npc
+tags: [draft, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

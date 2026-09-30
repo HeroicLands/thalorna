@@ -2,8 +2,9 @@
 shortcode: wbcrwlr
 name: {full: Webcrawler, aliases: []}
 type: being
+subType: creature
 description: "A supremely cunning spider of dark caverns and ruins that spreads nearly invisible webs across confined spaces to snare prey."
-tags: [dreadspawn, creature]
+tags: [dreadspawn]
 data:
   icon: icon-person
   templatePriority: null

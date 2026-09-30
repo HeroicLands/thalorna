@@ -8,6 +8,7 @@ name:
   home: amqelulegez
   aliases: []
 type: being
+subType: character
 description: "High priest of Qe'âret at Khelunu, whose judgement carries into the courts and whose enemies find it difficult to reach him"
 tags: [generated]
 data: {packFolder: regkhhk}

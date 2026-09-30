@@ -2,8 +2,9 @@
 shortcode: strmsr
 name: {full: Stormseer, aliases: []}
 type: being
+subType: creature
 description: "An arrogant elemental of sky and lightning born from violent storms, heralding severe weather that some believe its very presence conjures."
-tags: [elemental, creature]
+tags: [elemental]
 data:
   icon: icon-person
   templatePriority: null

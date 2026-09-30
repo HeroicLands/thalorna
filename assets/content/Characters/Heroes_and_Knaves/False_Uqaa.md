@@ -8,6 +8,7 @@ name:
   home: galezkara
   aliases: [Khelâfirahu the Bold]
 type: being
+subType: character
 description: "The last Gar-Aû of Gar-Zin'el'Rêlu, judged and bound at the Great Temple and struck from every wall"
 tags: [generated]
 data: {packFolder: regkhhk}

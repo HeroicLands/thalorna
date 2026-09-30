@@ -2,8 +2,9 @@
 shortcode: gntjmpng
 name: {full: Giant Jumping Spider, aliases: []}
 type: being
+subType: creature
 description: "A foot-wide arachnid and active ambush hunter that stalks and pounces on prey with terrifying speed, intelligence, and accuracy rather than webs."
-tags: [animal, creature]
+tags: [animal]
 data:
   icon: icon-person
   templatePriority: null
