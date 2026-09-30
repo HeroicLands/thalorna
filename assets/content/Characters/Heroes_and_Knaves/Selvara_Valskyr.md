@@ -2,7 +2,8 @@
 shortcode: slvrvlskyr
 name: {full: Sélvara Válskyr, title: "", given: Sélvara, clan: Válskyr, aliases: []}
 type: being
-tags: [tamzir-crew, tradesfolk, character]
+subType: character
+tags: [tamzir-crew, tradesfolk]
 data:
   banner: tamzirbnr
   icon: icon-person

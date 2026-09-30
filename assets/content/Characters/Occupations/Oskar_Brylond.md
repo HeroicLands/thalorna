@@ -2,7 +2,8 @@
 shortcode: oskrbrylnd
 name: {full: Óskar Brýlond, title: "", given: Óskar, clan: Brýlond, home: fiordaure, aliases: []}
 type: being
-tags: [draft, tradesfolk, character]
+subType: npc
+tags: [draft, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

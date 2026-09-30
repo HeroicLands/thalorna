@@ -2,7 +2,8 @@
 shortcode: zanutgezauzu
 name: {full: Zanut Gezâ'Uzu, aliases: []}
 type: being
-tags: [heroes-and-knaves, guilded, mages, character]
+subType: character
+tags: [heroes-and-knaves, guilded, mages]
 data:
   banner: khelathubnr
   icon: icon-person

@@ -8,7 +8,8 @@ name:
   home: korinthea2
   aliases: [Sérolan Cedric Lightbringer]
 type: being
-tags: [todo, draft, clergy, character]
+subType: npc
+tags: [todo, draft, clergy]
 data:
   icon: icon-person
   templatePriority: null

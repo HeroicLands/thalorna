@@ -2,8 +2,9 @@
 shortcode: harpy
 name: {full: Harpy, aliases: []}
 type: being
+subType: creature
 description: "A quasi-reptilian flying humanoid of high peaks and coastal cliffs, combining predatory cunning with animalistic, territorial ferocity across a fourteen-foot wingspan."
-tags: [mythic, image-needed, creature]
+tags: [mythic, image-needed]
 data:
   icon: icon-harpy
   templatePriority: null

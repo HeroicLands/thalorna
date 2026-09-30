@@ -8,7 +8,8 @@ name:
   home: kethramir
   aliases: []
 type: being
-tags: [heroes-and-knaves, clergy, character]
+subType: character
+tags: [heroes-and-knaves, clergy]
 data:
   icon: icon-person
   templatePriority: null

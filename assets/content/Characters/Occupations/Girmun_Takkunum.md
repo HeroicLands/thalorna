@@ -2,7 +2,8 @@
 shortcode: girmuntknm
 name: {full: Girmûn Takkûnûm, title: "", given: Girmûn, clan: Takkûnûm, home: azhun2, aliases: []}
 type: being
-tags: [draft, guilded, tradesfolk, character]
+subType: npc
+tags: [draft, guilded, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

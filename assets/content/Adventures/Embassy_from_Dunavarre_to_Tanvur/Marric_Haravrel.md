@@ -2,7 +2,8 @@
 shortcode: marricharavrel
 name: {full: Marric Háravrel, title: "", given: Marric, clan: Háravrel, aliases: []}
 type: being
-tags: [character, draft, embassy-to-tanvur]
+subType: character
+tags: [draft, embassy-to-tanvur]
 data:
   templatePriority: null
   archetypes: []

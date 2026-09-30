@@ -8,7 +8,8 @@ name:
   home: kingsholow
   aliases: [Thalos Graymoor]
 type: being
-tags: [draft, mages, character]
+subType: npc
+tags: [draft, mages]
 data:
   icon: icon-person
   templatePriority: null

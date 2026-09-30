@@ -2,8 +2,9 @@
 shortcode: gnthdghg
 name: {full: Giant Hedgehog, aliases: []}
 type: being
+subType: creature
 description: "A bulky, six-foot nocturnal forager armored in razor-sharp quills, rooting through leaf litter for grubs and roots but perilous to touch."
-tags: [animal, creature]
+tags: [animal]
 data:
   icon: icon-person
   templatePriority: null

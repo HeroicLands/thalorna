@@ -2,7 +2,8 @@
 shortcode: rimturdmrn
 name: {full: Rimtûra Damrûnî, title: "", given: Rimtûra, clan: Damrûnî, home: azhun2, aliases: []}
 type: being
-tags: [draft, administration, character]
+subType: npc
+tags: [draft, administration]
 data:
   icon: icon-person
   templatePriority: null

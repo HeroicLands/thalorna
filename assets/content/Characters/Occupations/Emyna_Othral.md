@@ -2,7 +2,8 @@
 shortcode: emynaothrl
 name: {full: Émyna Óthral, title: "", given: Émyna, clan: Óthral, home: valdun, aliases: []}
 type: being
-tags: [draft, administration, character]
+subType: npc
+tags: [draft, administration]
 data:
   icon: icon-person
   templatePriority: null

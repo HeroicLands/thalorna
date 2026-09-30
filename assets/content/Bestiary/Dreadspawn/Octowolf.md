@@ -2,8 +2,9 @@
 shortcode: octowolf
 name: {full: Octowolf, aliases: []}
 type: being
+subType: creature
 description: "An unnatural wolf-and-octopus fusion haunting coastal marshes, deltas, and corrupted waters where land and water meet."
-tags: [dreadspawn, creature]
+tags: [dreadspawn]
 data:
   icon: icon-person
   templatePriority: null

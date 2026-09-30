@@ -2,8 +2,9 @@
 shortcode: trrkthsn
 name: {full: Terrakith Sentinel, aliases: []}
 type: being
+subType: creature
 description: "An eight-foot golem sculpted from magically infused clay, engineered as a relentless enforcer guarding temples, crypts, and mages' chambers."
-tags: [construct, creature]
+tags: [construct]
 data:
   icon: icon-person
   templatePriority: null

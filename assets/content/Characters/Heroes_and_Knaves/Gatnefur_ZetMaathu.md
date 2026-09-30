@@ -8,7 +8,8 @@ name:
   home: galezkara
   aliases: []
 type: being
-tags: [heroes-and-knaves, guilded, tradesfolk, character]
+subType: character
+tags: [heroes-and-knaves, guilded, tradesfolk]
 data:
   banner: khelathubnr
   icon: icon-person

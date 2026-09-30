@@ -2,8 +2,9 @@
 shortcode: vdyrnelphnt
 name: {full: Vedyaran Elephant, aliases: []}
 type: being
+subType: creature
 description: "The largest land animal in Vedyara Region — war-beast of the kingdoms' hosts, temple mount, and the measure every other megafauna in the region is judged against."
-tags: [animal, image-needed, creature]
+tags: [animal, image-needed]
 data:
   icon: icon-person
   templatePriority: null

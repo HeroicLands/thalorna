@@ -2,7 +2,8 @@
 shortcode: domthgrvth
 name: {full: Dómeth Gráveth, title: "", given: Dómeth, clan: Gráveth, home: solarden, aliases: []}
 type: being
-tags: [heroes-and-knaves, guilded, tradesfolk, character]
+subType: character
+tags: [heroes-and-knaves, guilded, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

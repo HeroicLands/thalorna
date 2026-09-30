@@ -2,7 +2,8 @@
 shortcode: zoriladmvr
 name: {full: Zórila Dómivar, title: "", given: Zórila, clan: Dómivar, home: valthari, aliases: []}
 type: being
-tags: [draft, tradesfolk, character]
+subType: npc
+tags: [draft, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

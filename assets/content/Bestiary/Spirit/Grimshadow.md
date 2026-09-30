@@ -2,8 +2,9 @@
 shortcode: grmshdw
 name: {full: Grimshadow, aliases: []}
 type: being
+subType: creature
 description: "An ancient malevolent spirit born of concentrated terror, anchored to sites of tragedy where it feeds on fear and despair rather than flesh."
-tags: [spirit, creature]
+tags: [spirit]
 data:
   icon: icon-person
   templatePriority: null

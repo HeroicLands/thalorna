@@ -8,7 +8,8 @@ name:
   home: thyrenae2
   aliases: []
 type: being
-tags: [draft, mages, character]
+subType: npc
+tags: [draft, mages]
 data:
   icon: icon-person
   templatePriority: null

@@ -2,8 +2,9 @@
 shortcode: gryphon
 name: {full: Gryphon, aliases: []}
 type: being
+subType: creature
 description: "A three-hundred-pound eagle-lion predator of legend, lean and supremely muscled, blending the majesty of birds with the ferocity of beasts."
-tags: [mythic, image-needed, creature]
+tags: [mythic, image-needed]
 data:
   icon: icon-griffinsymbol
   templatePriority: null

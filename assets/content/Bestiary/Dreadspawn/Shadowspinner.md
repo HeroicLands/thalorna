@@ -2,8 +2,9 @@
 shortcode: shdwspnn
 name: {full: Shadowspinner, aliases: []}
 type: being
+subType: creature
 description: "An infernally intelligent apex arachnid that engineers light-drinking webs to trap prey and shatter the spirits of onlookers."
-tags: [dreadspawn, creature]
+tags: [dreadspawn]
 data:
   icon: icon-person
   templatePriority: null

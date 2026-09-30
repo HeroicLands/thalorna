@@ -2,7 +2,8 @@
 shortcode: avicewnwck
 name: {full: Avice Winwick, title: "", given: Avice, clan: Winwick, home: thornbury, aliases: []}
 type: being
-tags: [draft, tradesfolk, character]
+subType: npc
+tags: [draft, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

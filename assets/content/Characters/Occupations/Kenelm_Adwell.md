@@ -2,7 +2,8 @@
 shortcode: kenelmadwl
 name: {full: Kenelm Adwell, title: "", given: Kenelm, clan: Adwell, home: brynhallow, aliases: []}
 type: being
-tags: [draft, soldiery, character]
+subType: npc
+tags: [draft, soldiery]
 data:
   icon: icon-person
   templatePriority: null

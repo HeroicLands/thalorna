@@ -2,8 +2,9 @@
 shortcode: lmnphg
 name: {full: Luminophage, aliases: []}
 type: being
+subType: creature
 description: "A parasitic ceiling-dwelling predator of lightless depths that weaponizes bioluminescence as a lure to draw wanderers into its grasp."
-tags: [dreadspawn, creature]
+tags: [dreadspawn]
 data:
   icon: icon-person
   templatePriority: null

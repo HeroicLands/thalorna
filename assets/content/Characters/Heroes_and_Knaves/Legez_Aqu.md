@@ -2,7 +2,8 @@
 shortcode: legezaqu
 name: {full: Legez Aqu, title: "", given: Legez, clan: Aqu, home: anlaghzetun, aliases: []}
 type: being
-tags: [heroes-and-knaves, hero, clergy, character]
+subType: character
+tags: [heroes-and-knaves, hero, clergy]
 data:
   banner: khelathubnr
   icon: icon-person

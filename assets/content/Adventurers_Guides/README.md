@@ -1,6 +1,6 @@
 # Writing an Adventurer's Guide
 
-An Adventurer's Guide is the **front door to a culture for players and GMs**. A reader should finish it with a feel for the place, a character who belongs there or has reason to visit, and several directions an adventure could take. The guide offers a way in; the setting notes hold the detail. The [Vedyara](Vedyara_Adventurers_Guide.md) and [Aû'Khelâthu](AuKhelathu_Adventurers_Guide.md) guides show how different cultures can meet that purpose in their own voices.
+An Adventurer's Guide is a **travel guide for play** and the front door to a culture for players and GMs. It should make readers want to visit and give them enough orientation to decide where to go, how to travel, who they might meet, and what matters when they arrive. A reader should finish it with a feel for the place, a character who belongs there or has reason to visit, and several directions an adventure could take. The guide offers a way in; the setting notes hold the detail. The [Vedyara](Vedyara_Adventurers_Guide.md) and [Aû'Khelâthu](AuKhelathu_Adventurers_Guide.md) guides show how different cultures can meet that purpose in their own voices.
 
 The _Sword Coast Adventurer's Guide_ is a model for the job: welcome a traveler, make the setting vivid, and connect its places and people to play. Draw on its approach to orientation and invitation, using original wording and Thalorna's own material.
 
@@ -11,6 +11,22 @@ Write with the warmth and confidence of someone who knows the country and wants 
 Give the reader reasons to be curious. A useful paragraph says what makes a place distinctive **and** what a party might do there. Tension can be a disputed claim, a journey that needs a guide, a festival that gathers rivals, or an obligation someone cannot settle. Wonder and ordinary life matter too: food, craft, worship, learning, hospitality, and the rhythms of the year give characters something to care about.
 
 Keep claims grounded in the corpus. A guide can suggest a possible adventure without declaring an unwritten event to be established fact. Describe a culture's beliefs as its people's beliefs where the wider world does not establish them as fact. Make room for local variation and for characters who disagree with their neighbors.
+
+## How the prose works
+
+**Primary rule: show, don't tell. Be specific.** Put a person, object, action, and consequence on the page so a reader can picture the fact in use. You wait at the gate while a customs clerk turns your pass-token over; its date now matters to your journey. Name the dish, garment, building shape, color, and sound when the corpus establishes them. Leave out details that no note supports instead of filling the scene with generic spectacle.
+
+Description and narrative do most of the work. Exposition supplies the facts a traveler needs, and persuasion stays light and earned.
+
+**Description leads.** It lets readers feel the place through sight, sound, smell, taste, and touch. Give them the particular light on a temple wall, the grit of a road underfoot, the smell from a cookfire, or the calls crossing a busy quay. Choose details that belong to this place and this moment. A concrete sight or sound does more than calling a market _colorful_ or a view _breathtaking_. Use the corpus to identify the real landscape, architecture, food, and customs behind the image.
+
+**Narrative helps readers use what they see.** Let a traveler meet someone, misunderstand a custom, make a choice, or discover an unexpected obligation. An encounter can begin with a question, develop through a small difficulty, and end with a reason to follow the next road or link. Use brief stories throughout the guide where a person doing something makes a custom or institution easier to understand. These moments give the explanation a human scale and keep the guide from reading like an encyclopedia. Keep imagined experiences in blockquotes. Each one should illuminate a place, custom, institution, route, or adventure opportunity; keep the practical answer easy to find in the surrounding prose.
+
+**Weave exposition into what happens.** Players and GMs need to know when roads open, who grants passage, what a season changes, and where a dispute goes. Give each fact when the traveler has a reason to notice it. When the Zumelesh covers the fields, your pilot points to the boat route between villages; the flood tells you how to travel. The full account of the river and its seasons is one link away. A practical fact carried by a scene helps the reader remember it and imagine using it in play. Keep direct explanation where clarity requires it, but let scenes and choices do most of the work.
+
+**Let persuasion earn itself.** Show the people, pleasures, risks, and unresolved claims that make a reader want to go farther. Offer possible roles and roads rather than praising the setting in general terms. The reader's curiosity should grow from what they have seen and what they might do next.
+
+Open sections with a concrete moment or question. Write the travel narrative in second person, addressing the reader as **you** throughout; a local's quoted speech can keep that person's own voice. Mix short, punchy sentences that land a surprise or decision with longer, immersive ones that let the reader linger in a street or landscape. Favor exact names, actions, and sensory details over stock adjectives, and keep every example grounded in the culture's notes.
 
 ## The opening story
 
@@ -29,7 +45,7 @@ If it makes sense, you may continue using the character from the story throughou
 - **Ways into play.** Offer several grounded character ties and campaign starts. Give the GM a place, a claim on the party, and people with reasons to act. Put information meant only for the GM in a secret passage.
 - **Paths onward.** Give major regions, polities, religions, institutions, and lineages clear routes from the guide. Include people and creatures where they belong in the setting, using a query for a complete list when the corpus has a reliable field to select them.
 
-The guide should be enough to begin play. Detailed rosters, histories, procedures, and taxonomies belong in their own notes; the guide explains why a reader might want to follow them.
+The guide should be enough to begin play. About 2,000 words is a useful target for the guide as a whole, with room to describe the journey, explain the choices, and show how people live. Let the needs of the culture and the reader determine the final length. Detailed rosters, histories, procedures, and taxonomies belong in their own notes; the guide explains why a reader might want to follow them.
 
 ## The path through the corpus
 

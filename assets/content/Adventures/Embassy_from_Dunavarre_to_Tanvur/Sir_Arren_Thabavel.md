@@ -2,7 +2,8 @@
 shortcode: arrenthabavel
 name: {full: Sir Arren Thábavel, title: "", given: Arren, clan: Thábavel, aliases: []}
 type: being
-tags: [character, draft, embassy-to-tanvur]
+subType: character
+tags: [draft, embassy-to-tanvur]
 data:
   templatePriority: null
   archetypes: []

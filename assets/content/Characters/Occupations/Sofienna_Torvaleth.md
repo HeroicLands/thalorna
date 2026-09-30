@@ -8,7 +8,8 @@ name:
   home: valdes
   aliases: [Reslâva Vespera Sunstone]
 type: being
-tags: [todo, draft, clergy, character]
+subType: npc
+tags: [todo, draft, clergy]
 data:
   icon: icon-person
   templatePriority: null

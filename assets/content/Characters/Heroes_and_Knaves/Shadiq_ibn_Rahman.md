@@ -8,7 +8,8 @@ name:
   home: karatas2
   aliases: [The Diplomatic Blade Dancer]
 type: being
-tags: [heroes-and-knaves, hero, administration, character]
+subType: character
+tags: [heroes-and-knaves, hero, administration]
 data:
   icon: icon-person
   templatePriority: null

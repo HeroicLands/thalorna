@@ -2,8 +2,9 @@
 shortcode: wyvern
 name: {full: Wyvern, aliases: []}
 type: being
+subType: creature
 description: "A two-legged, dragon-like flier of mountain peaks and high plateaus, lacking true draconic cunning but formidably lethal on the wing."
-tags: [mythic, image-needed, creature]
+tags: [mythic, image-needed]
 data:
   icon: icon-wyvern
   templatePriority: null

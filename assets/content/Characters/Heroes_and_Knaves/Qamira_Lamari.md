@@ -2,7 +2,8 @@
 shortcode: qamiralamr
 name: {full: Qâmira Lamari, title: "", given: Qâmira, clan: Lamari, home: qasirah, aliases: []}
 type: being
-tags: [heroes-and-knaves, guilded, mages, character]
+subType: character
+tags: [heroes-and-knaves, guilded, mages]
 data:
   icon: icon-person
   templatePriority: null

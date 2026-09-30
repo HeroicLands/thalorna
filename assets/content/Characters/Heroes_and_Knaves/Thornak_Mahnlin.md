@@ -8,7 +8,8 @@ name:
   home: eichengrnd
   aliases: [The Boar-Totem Warrior, Blodtūsc Bār, Thornak Mahnlin]
 type: being
-tags: [heroes-and-knaves, hero, tradesfolk, character]
+subType: character
+tags: [heroes-and-knaves, hero, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

@@ -8,6 +8,7 @@ name:
   home: galezkara
   aliases: []
 type: being
+subType: npc
 description: "Boatman of the Zeghet'Nelgu, whose family has served the company for four generations and who has never lost a boat to the currents"
 tags: [generated]
 data: {packFolder: regkhfolk}

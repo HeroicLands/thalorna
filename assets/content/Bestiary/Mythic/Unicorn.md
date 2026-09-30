@@ -2,8 +2,9 @@
 shortcode: unicorn
 name: {full: Unicorn, aliases: []}
 type: being
+subType: creature
 description: "An impossibly rare and elusive mythic beast of incorruptible purity, so seldom seen that scholars doubt its existence altogether."
-tags: [mythic, image-needed, creature]
+tags: [mythic, image-needed]
 data:
   icon: icon-unicorn
   templatePriority: null

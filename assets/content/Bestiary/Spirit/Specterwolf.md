@@ -2,8 +2,9 @@
 shortcode: spctrwlf
 name: {full: Specterwolf, aliases: []}
 type: being
+subType: creature
 description: "The spectral remnant of ancient beasts, hunting on both sides of the veil in relentless, coordinated packs that terrorize isolated travelers."
-tags: [spirit, creature]
+tags: [spirit]
 data:
   icon: icon-person
   templatePriority: null

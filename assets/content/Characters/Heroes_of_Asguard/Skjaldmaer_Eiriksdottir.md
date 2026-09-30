@@ -8,7 +8,8 @@ name:
   aliases: [Knalthannsdóttir, Hvilgthýra Knalthannsdóttir]
   home: null
 type: being
-tags: [paragon, heroes-of-asguard, soldiery, character]
+subType: character
+tags: [paragon, heroes-of-asguard, soldiery]
 data:
   icon: icon-person
   templatePriority: null

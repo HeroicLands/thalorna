@@ -2,7 +2,8 @@
 shortcode: toradhtaravren
 name: {full: Dame Toradh Taravren, title: "", given: Toradh, clan: Taravren, aliases: []}
 type: being
-tags: [character, draft, embassy-to-tanvur]
+subType: character
+tags: [draft, embassy-to-tanvur]
 data:
   templatePriority: null
   archetypes: []

@@ -2,8 +2,9 @@
 shortcode: giantant
 name: {full: Giant Ant, aliases: []}
 type: being
+subType: creature
 description: "A hyper-evolved insect soldier up to five feet long, defending its vast colony with terrible, coordinated ferocity when disturbed."
-tags: [animal, creature]
+tags: [animal]
 data:
   icon: icon-person
   templatePriority: null

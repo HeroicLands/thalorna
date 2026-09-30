@@ -8,7 +8,8 @@ name:
   home: haukstad
   aliases: []
 type: being
-tags: [draft, guilded, tradesfolk, character]
+subType: npc
+tags: [draft, guilded, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

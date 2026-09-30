@@ -2,7 +2,8 @@
 shortcode: wystanosgd
 name: {full: Wystan Osgood, title: "", given: Wystan, clan: Osgood, home: brynhallow, aliases: []}
 type: being
-tags: [draft, common-folk, character]
+subType: npc
+tags: [draft, common-folk]
 data:
   icon: icon-person
   templatePriority: null

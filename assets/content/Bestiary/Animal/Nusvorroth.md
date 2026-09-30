@@ -2,8 +2,9 @@
 shortcode: nsvrroth
 name: {full: Nüsvōrroth, aliases: []}
 type: being
+subType: creature
 description: "A giant flightless carrion bird ruling barren rocky wastes, savagely territorial and attacking any intruder that crosses into its badland domain."
-tags: [animal, creature]
+tags: [animal]
 data:
   icon: icon-person
   templatePriority: null

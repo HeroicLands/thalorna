@@ -2,7 +2,8 @@
 shortcode: damsnghlrn
 name: {full: Dámàsûn Ghôlâron, title: "", given: Dámàsûn, clan: Ghôlâron, aliases: [Parma]}
 type: being
-tags: [tamzir-crew, clergy, character]
+subType: character
+tags: [tamzir-crew, clergy]
 data:
   banner: tamzirbnr
   icon: icon-person

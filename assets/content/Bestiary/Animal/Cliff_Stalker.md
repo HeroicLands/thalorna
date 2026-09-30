@@ -2,8 +2,9 @@
 shortcode: clffstlk
 name: {full: Cliff Stalker, aliases: []}
 type: being
+subType: creature
 description: "A massive solitary mountain feline built for vertical terrain and patient precision ambush, far larger than any snow leopard."
-tags: [animal, creature]
+tags: [animal]
 data:
   icon: icon-person
   templatePriority: null

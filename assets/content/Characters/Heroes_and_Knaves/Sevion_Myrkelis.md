@@ -2,7 +2,8 @@
 shortcode: sevnmyrkls
 name: {full: Sevion Myrkelis, title: "", given: Sevion, clan: Myrkelis, home: liranel, aliases: []}
 type: being
-tags: [heroes-and-knaves, hero, guilded, mages, character]
+subType: character
+tags: [heroes-and-knaves, hero, guilded, mages]
 data:
   icon: icon-person
   templatePriority: null

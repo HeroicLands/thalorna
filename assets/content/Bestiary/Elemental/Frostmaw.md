@@ -2,8 +2,9 @@
 shortcode: frostmaw
 name: {full: Frostmaw, aliases: []}
 type: being
+subType: creature
 description: "A titanic elemental of glacial destruction that lingers in frozen wastes for years, deepening winter and expanding its icy territory as it roams."
-tags: [elemental, creature]
+tags: [elemental]
 data:
   icon: icon-person
   templatePriority: null

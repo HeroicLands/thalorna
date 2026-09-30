@@ -8,7 +8,8 @@ name:
   aliases: [Harvest-Blessed]
   home: null
 type: being
-tags: [paragon, heroes-of-asguard, clergy, character]
+subType: character
+tags: [paragon, heroes-of-asguard, clergy]
 data:
   icon: icon-person
   templatePriority: null

@@ -2,7 +2,8 @@
 shortcode: balothnemirina
 name: {full: Baloth Nemirina, title: "", given: Baloth, clan: Nemirina, aliases: []}
 type: being
-tags: [character, draft]
+subType: character
+tags: [draft]
 data:
   templatePriority: null
   archetypes: []

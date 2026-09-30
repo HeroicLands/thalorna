@@ -2,7 +2,8 @@
 shortcode: ermynvldrn
 name: {full: Êrmyn Véldarin, title: "", given: Êrmyn, clan: Véldarin, home: "", aliases: []}
 type: being
-tags: [todo-warrior, draft, soldiery, character]
+subType: npc
+tags: [todo-warrior, draft, soldiery]
 data:
   icon: icon-person
   templatePriority: null

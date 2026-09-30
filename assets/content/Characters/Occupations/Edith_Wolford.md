@@ -2,7 +2,8 @@
 shortcode: edithwlfrd
 name: {full: Edith Wolford, title: "", given: Edith, clan: Wolford, home: ashford, aliases: []}
 type: being
-tags: [draft, guilded, tradesfolk, character]
+subType: npc
+tags: [draft, guilded, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

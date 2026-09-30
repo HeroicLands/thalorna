@@ -2,7 +2,8 @@
 shortcode: malianardh
 name: {full: Mália Náredh, title: "", given: Mália, clan: Náredh, home: elanmere, aliases: []}
 type: being
-tags: [draft, common-folk, character]
+subType: npc
+tags: [draft, common-folk]
 data:
   icon: icon-person
   templatePriority: null

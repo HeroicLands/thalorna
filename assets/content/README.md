@@ -101,8 +101,8 @@ name inside a "Faith of X" affiliation, a kenning that has become an order's
 working name — from that narrower identity instead). The steps:
 
 1. **Fold diacritics to plain Latin letters.** `Ódinn` folds to `Odinn`,
-   `Þórgeir` to `Thorgeir`, `Ærla` to `Aerla`; `þ`/`Þ` → `th`/`Th`, `ð`/`Ð` →
-   `d`/`D`, `æ`/`Æ` → `ae`/`Ae`, `œ`/`Œ` → `oe`/`Oe`, `ø`/`Ø` → `o`/`O`, `ß` →
+   `Þórgeir` to `Thorgeir`, `Ærla` to `Aerla`; `þ`/`Þ` > `th`/`Th`, `ð`/`Ð` >
+   `d`/`D`, `æ`/`Æ` > `ae`/`Ae`, `œ`/`Œ` > `oe`/`Oe`, `ø`/`Ø` > `o`/`O`, `ß` >
    `ss`.
 2. **Drop apostrophes**, straight or curly, closing the gap: `Tz'uma` folds to
    `Tzuma`.
@@ -128,9 +128,8 @@ Drekanótt` compresses to `bjorgdrknt` — its first word was short enough to
    `dty`, a totem `ttm`, a rank or office `rnk`, a culture `clt`. A place's
    own administrative tier takes whatever term its setting uses for that
    tier, folded the same way — `Region` closes `rgn`, and a setting with its
-   own word for the tier (a nome, a selat, a janapada) closes with that word's
-   fold instead. A settlement, a site, a feature or a structure closes with
-   nothing.
+   own word for the tier closes with that word's fold instead. A settlement, a
+   site, a feature or a structure closes with nothing.
 7. **A shortcode that already names another note of the same type** is not
    reused. Append the next integer starting at `2` (`3` if `2` is also taken,
    and so on) to the whole shortcode.
@@ -166,12 +165,23 @@ on it (`FROM #draft`).
 `draft: false` included, since it reads as "publish this note", which is what
 happens either way.
 
+## Being classifications
+
+Every `being` note has a top-level `subType` that states what kind of being it
+describes:
+
+- `npc` describes a character meant to be encountered, including a reusable
+  template such as a town guard. It does not have to represent one individual.
+- `character` describes a detailed, playable individual and always represents
+  one person.
+- `creature` describes a being that is neither a character nor an NPC.
+
 ## Species and peoples
 
-A being tagged `character` names Human Folk with `data.species: humanflk`.
-`data.species` is an Address to an existing `lore` note. For other beings, leave
-it null when unstated. The Human Folk and Grukar Folk notes use `humanflk` and
-`grukarfolk`.
+A being with `subType: character` or `subType: npc` names Human Folk with
+`data.species: humanflk`. `data.species` is an Address to an existing `lore`
+note. For other beings, leave it null when unstated. The Human Folk and Grukar
+Folk notes use `humanflk` and `grukarfolk`.
 
 Peoples such as the Pelwar (`pelwarpepl`) and Áelendan (`aelendnppl`) belong in
 `data.lore`, alongside the being's other cultural and social lore. A human of

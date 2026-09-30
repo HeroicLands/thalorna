@@ -2,7 +2,8 @@
 shortcode: vornantlgn
 name: {full: Vôrnan Tólgen, title: "", given: Vôrnan, clan: Tólgen, home: valcerise, aliases: []}
 type: being
-tags: [draft, tradesfolk, character]
+subType: npc
+tags: [draft, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

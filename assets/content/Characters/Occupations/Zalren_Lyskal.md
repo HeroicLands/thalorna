@@ -2,7 +2,8 @@
 shortcode: zalrnlyskl
 name: {full: Zálren Lýskal, title: "", given: Zálren, clan: Lýskal, home: chastelclr, aliases: []}
 type: being
-tags: [draft, tradesfolk, character]
+subType: npc
+tags: [draft, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

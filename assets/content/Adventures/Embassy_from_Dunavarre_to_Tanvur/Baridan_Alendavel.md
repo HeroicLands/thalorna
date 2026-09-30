@@ -2,7 +2,8 @@
 shortcode: baridanalendavel
 name: {full: Baridan Aléndavel, title: "", given: Baridan, clan: Aléndavel, aliases: []}
 type: being
-tags: [character, draft, embassy-to-tanvur]
+subType: character
+tags: [draft, embassy-to-tanvur]
 data:
   templatePriority: null
   archetypes: []

@@ -8,7 +8,8 @@ name:
   home: torreviga
   aliases: [The Jánusian Priest]
 type: being
-tags: [heroes-and-knaves, todo, hero, clergy, character]
+subType: character
+tags: [heroes-and-knaves, todo, hero, clergy]
 data:
   icon: icon-person
   templatePriority: null

@@ -2,8 +2,9 @@
 shortcode: frstwng
 name: {full: Frostwing, aliases: []}
 type: being
+subType: creature
 description: "An intelligent aerial hunter of deep winter, migrating toward the coldest lands and using coordinated flight tactics to bring death from above."
-tags: [elemental, creature]
+tags: [elemental]
 data:
   icon: icon-person
   templatePriority: null
