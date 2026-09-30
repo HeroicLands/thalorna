@@ -106,7 +106,7 @@ The crew's enemies are varied and persistent. The [[affiliation-ordoarcanis|Ordo
 - [[being-damsnghlrn|Dámàsûn Ghôlâron]] (Preist)
 - [[being-lucernsrnt|Lucerian Serentia]] (Physician)
 - [[being-cibelasrnt|Cibella Serentia]] (Sister of Lucerian)
-- [[being-ylrskrsdtr|Ylíra Skorrsdottir]] (Warrior)
+- [[being-ylrskrsdtr|Svalthrinna Skorrsdottir]] (Warrior)
 
 ## The Ship
 

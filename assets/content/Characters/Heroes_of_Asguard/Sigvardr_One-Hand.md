@@ -1,11 +1,11 @@
 ---
 shortcode: sgvrdrnhnd
 name:
-  full: Sigvardr One-Hand
+  full: Vraldorv One-Hand
   title: null
-  given: Sigvardr
+  given: Vraldorv
   clan: null
-  aliases: [One-Hand, Sigvardr One-Hand]
+  aliases: [One-Hand, Vraldorv One-Hand]
   home: null
 type: being
 tags: [paragon, heroes-of-asguard, soldiery, character]
@@ -368,27 +368,27 @@ sohl:
 
 # Appearance {#appearance}
 
-Sigvardr stands 5'11" with a lean, disciplined frame, weighing about 185 pounds. His fair skin shows the wear of a hard life lived outdoors, and his brown hair is streaked with gray and tied back from a face marked by gravity and purpose. His gray eyes are steady and penetrating—the eyes of a man who weighs every soul he meets. His features are gaunt and angular, with a long nose, sunken cheeks, a strong jaw, and thin lips that tighten when he disapproves, which is often. The stump of his right hand is cleanly healed and wrapped in worn leather bindings, displayed openly as a badge of sacrifice rather than hidden as a mark of shame. Sigvardr wears plain but well-made garments—a dark woolen tunic, leather breeches, and a heavy cloak—with a longsword worn on his left hip for cross-draw. A small iron pendant of Týr's rune hangs at his throat.
+Vraldorv stands 5'11" with a lean, disciplined frame, weighing about 185 pounds. His fair skin shows the wear of a hard life lived outdoors, and his brown hair is streaked with gray and tied back from a face marked by gravity and purpose. His gray eyes are steady and penetrating—the eyes of a man who weighs every soul he meets. His features are gaunt and angular, with a long nose, sunken cheeks, a strong jaw, and thin lips that tighten when he disapproves, which is often. The stump of his right hand is cleanly healed and wrapped in worn leather bindings, displayed openly as a badge of sacrifice rather than hidden as a mark of shame. Vraldorv wears plain but well-made garments—a dark woolen tunic, leather breeches, and a heavy cloak—with a longsword worn on his left hip for cross-draw. A small iron pendant of Týr's rune hangs at his throat.
 
 # Dossier {#dossier}
 
-Sigvardr was a renowned warrior known for his unyielding sense of justice and fairness. Born into a noble family, he was raised with a strong sense of duty and honor. His life took a dramatic turn when he lost his right hand in battle while defending a village from marauding raiders. Rather than seeing this as a defeat, Sigvardr took it as a sign from Týr, the god who had sacrificed his hand to bind the great wolf Fenrir. Determined to continue his fight for justice, Sigvardr trained himself to fight with his left hand, becoming even more skilled and disciplined than before.
+Vraldorv was a renowned warrior known for his unyielding sense of justice and fairness. Born into a noble family, he was raised with a strong sense of duty and honor. His life took a dramatic turn when he lost his right hand in battle while defending a village from marauding raiders. Rather than seeing this as a defeat, Vraldorv took it as a sign from Týr, the god who had sacrificed his hand to bind the great wolf Fenrir. Determined to continue his fight for justice, Vraldorv trained himself to fight with his left hand, becoming even more skilled and disciplined than before.
 
-The saga of Sigvardr One-Hand tells of his confrontation with a corrupt jarl who oppressed his people with unjust laws and cruel punishments. Despite his injury, Sigvardr challenged the jarl to single combat, invoking the right of trial by combat to decide the fate of the jarl's rule. Armed with his sword and shield, Sigvardr fought with the precision and honor that Týr himself embodied. In a fierce battle that lasted until dusk, Sigvardr defeated the jarl, sparing his life but demanding that he step down and restore justice to the land.
+The saga of Vraldorv One-Hand tells of his confrontation with a corrupt jarl who oppressed his people with unjust laws and cruel punishments. Despite his injury, Vraldorv challenged the jarl to single combat, invoking the right of trial by combat to decide the fate of the jarl's rule. Armed with his sword and shield, Vraldorv fought with the precision and honor that Týr himself embodied. In a fierce battle that lasted until dusk, Vraldorv defeated the jarl, sparing his life but demanding that he step down and restore justice to the land.
 
 ## Psyche
 
 ### Personality
 
-Sigvardr is grave and deliberate, a man who weighs every word and action against an internal standard of righteousness. He does not smile often, but when he does, it carries genuine warmth. He is scrupulously fair in all dealings and will not tolerate dishonesty, even from allies. The loss of his hand made him more contemplative, and he often speaks of sacrifice as the truest measure of a person's character. He can be rigid in his moral convictions, which sometimes alienates those who see the world in shades of gray.
+Vraldorv is grave and deliberate, a man who weighs every word and action against an internal standard of righteousness. He does not smile often, but when he does, it carries genuine warmth. He is scrupulously fair in all dealings and will not tolerate dishonesty, even from allies. The loss of his hand made him more contemplative, and he often speaks of sacrifice as the truest measure of a person's character. He can be rigid in his moral convictions, which sometimes alienates those who see the world in shades of gray.
 
 ### Motivation
 
-Sigvardr seeks to establish a code of justice that transcends the petty feuds and blood-vengeance cycles of the northern clans. He believes that law, fairly administered, is the only thing that separates civilization from barbarism. He is haunted by the raiders he could not stop in time and the village that paid the price for his absence, and he drives himself relentlessly to ensure no community is left unprotected.
+Vraldorv seeks to establish a code of justice that transcends the petty feuds and blood-vengeance cycles of the northern clans. He believes that law, fairly administered, is the only thing that separates civilization from barbarism. He is haunted by the raiders he could not stop in time and the village that paid the price for his absence, and he drives himself relentlessly to ensure no community is left unprotected.
 
 ### Strengths
 
-Sigvardr's left-handed fighting style is unorthodox and catches many opponents off guard. His reputation for absolute fairness makes him the most trusted arbiter in the northern lands, and his judgments carry weight even among rival clans. His missing hand, rather than being a weakness, has become a symbol of his devotion to Týr and inspires those who witness his resolve.
+Vraldorv's left-handed fighting style is unorthodox and catches many opponents off guard. His reputation for absolute fairness makes him the most trusted arbiter in the northern lands, and his judgments carry weight even among rival clans. His missing hand, rather than being a weakness, has become a symbol of his devotion to Týr and inspires those who witness his resolve.
 
 ## Social
 
@@ -396,20 +396,20 @@ Sigvardr's left-handed fighting style is unorthodox and catches many opponents o
 
 ### Patrons
 
-**The Court of Justice at Vidarrholt**—The oldest seat of law in the northern territories, where Sigvardr has been granted permanent standing as an itinerant judge with authority across clan boundaries.
+**The Court of Justice at Vidarrholt**—The oldest seat of law in the northern territories, where Vraldorv has been granted permanent standing as an itinerant judge with authority across clan boundaries.
 
-**Eiríkr Lawgiver**—A fellow devotee of Týr who works alongside Sigvardr, providing legal expertise to complement Sigvardr's martial authority.
+**Knalthann Lawgiver**—A fellow devotee of Týr who works alongside Vraldorv, providing legal expertise to complement Vraldorv's martial authority.
 
 ### Enemies
 
-**The former Jarl Halvdan**—The corrupt lord Sigvardr defeated in combat has never forgiven the humiliation. Though stripped of his title, Halvdan still commands loyal followers and plots revenge.
+**The former Jarl Halvdan**—The corrupt lord Vraldorv defeated in combat has never forgiven the humiliation. Though stripped of his title, Halvdan still commands loyal followers and plots revenge.
 
-**The Blood Eagle Clan**—A raider clan that follows the old ways of blood-vengeance and views Sigvardr's legal reforms as an attack on their traditions and honor.
+**The Blood Eagle Clan**—A raider clan that follows the old ways of blood-vengeance and views Vraldorv's legal reforms as an attack on their traditions and honor.
 
 ## Plot Hooks
 
-1. **The Unjust Execution**—A man condemned to death under Sigvardr's judgment has been found innocent after new evidence emerged. The execution has already been carried out. Sigvardr must face the consequences of his own fallibility and track down who planted the false evidence.
+1. **The Unjust Execution**—A man condemned to death under Vraldorv's judgment has been found innocent after new evidence emerged. The execution has already been carried out. Vraldorv must face the consequences of his own fallibility and track down who planted the false evidence.
 
-2. **The Blood Price**—The Blood Eagle Clan has kidnapped several villagers and demands the abolition of Sigvardr's legal reforms as ransom. Negotiation may be impossible, but a frontal assault risks the hostages' lives.
+2. **The Blood Price**—The Blood Eagle Clan has kidnapped several villagers and demands the abolition of Vraldorv's legal reforms as ransom. Negotiation may be impossible, but a frontal assault risks the hostages' lives.
 
-3. **Týr's Test**—Sigvardr is visited by a vision of Týr demanding that he sacrifice something even dearer than his hand. The nature of the sacrifice is unclear, but refusing may cost him his divine connection.
+3. **Týr's Test**—Vraldorv is visited by a vision of Týr demanding that he sacrifice something even dearer than his hand. The nature of the sacrifice is unclear, but refusing may cost him his divine connection.

@@ -515,7 +515,12 @@ export function checkRomanisation(spec, rule, files, tally) {
  * carries one entry per historical spelling, so `Odinn`, `Óðinn`, `Oðinn` and
  * `Odin` legitimately share the replacement `Ódvar`. What must be unique is
  * the retired spelling itself — two entries naming the same `oldName` is an
- * ambiguous instruction the sweep cannot follow.
+ * ambiguous instruction the sweep cannot follow, **unless each names its own
+ * `oldPath`**: a given name is a person's, not a word's, and a handful of
+ * Nordmen legitimately share one historical spelling while coined into
+ * different lawful names of their own. A path on both sides of the
+ * disagreement is what tells the sweep these are two people rather than one
+ * word entered twice.
  *
  * @param {object[]} pairs - The drift rows.
  * @returns {string[]} Findings.
@@ -525,19 +530,25 @@ export function checkMapping(pairs) {
     const seenNames = new Map();
     for (const pair of pairs) {
         const where = `${pair.group}: ${pair.retired}`;
-        const priorReplacement = seenNames.get(pair.retired);
-        if (priorReplacement !== undefined && priorReplacement !== pair.replacement) {
-            out.push(
-                finding(
-                    MAPPING_FILE,
-                    null,
-                    null,
-                    "error",
-                    `"${pair.retired}" is entered twice, replaced once by "${priorReplacement}" and once by "${pair.replacement}"`,
-                ),
-            );
+        const priorEntries = seenNames.get(pair.retired) ?? [];
+        for (const prior of priorEntries) {
+            if (prior.replacement === pair.replacement) continue;
+            const distinguishedByPath =
+                Boolean(pair.path) && Boolean(prior.path) && pair.path !== prior.path;
+            if (!distinguishedByPath) {
+                out.push(
+                    finding(
+                        MAPPING_FILE,
+                        null,
+                        null,
+                        "error",
+                        `"${pair.retired}" is entered twice, replaced once by "${prior.replacement}" and once by "${pair.replacement}"`,
+                    ),
+                );
+            }
         }
-        seenNames.set(pair.retired, pair.replacement);
+        priorEntries.push({ replacement: pair.replacement, path: pair.path });
+        seenNames.set(pair.retired, priorEntries);
 
         if (!pair.drop && !pair.replacement) {
             out.push(
@@ -590,6 +601,7 @@ function main() {
             drop: entry.newName === null || entry.newName === undefined,
             group: entry.subType ?? entry.type,
             note: entry.note,
+            path: entry.oldPath ?? null,
         }));
     if (pairs.length === 0) {
         console.error(`${MAPPING_FILE}: error: the table declares no pairs`);

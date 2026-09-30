@@ -2,7 +2,7 @@
 shortcode: sprsigrid
 name: {full: The Spear of Sigrid, aliases: []}
 type: miscgear
-description: "One of the three regalia of Gróa's quest—hidden in an ancient shrine and held by a spirit guardian who must be answered in the spirit world rather than fought."
+description: "One of the three regalia of Tvarnynda's quest—hidden in an ancient shrine and held by a spirit guardian who must be answered in the spirit world rather than fought."
 tags: [artifact, regalia, nordlands]
 data: {templatePriority: null, packFolder: nordlands}
 sohl: {system: {weightBase: 5, valueBase: 0, durabilityBase: 15}}
@@ -35,4 +35,4 @@ hers—it merely holds the weapon.
 
 ## See Also
 
-- [[scenario-groascmpgn|Gróa's Campaign]] · [[lore-njordurritlbinding|The Ritual of Binding]]
+- [[scenario-groascmpgn|Tvarnynda's Campaign]] · [[lore-njordurritlbinding|The Ritual of Binding]]

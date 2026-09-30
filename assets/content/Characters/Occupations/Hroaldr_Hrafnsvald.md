@@ -1,9 +1,9 @@
 ---
 shortcode: hrldrhrfnsvld
 name:
-  full: Hróaldr Hrafnsvald
+  full: Murvir Hrafnsvald
   title: ""
-  given: Hróaldr
+  given: Murvir
   clan: Hrafnsvald
   home: thrymstead
   aliases: []
@@ -401,13 +401,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Hróaldr Hrafnsvald is a 48-year-old man who stands 5'10" tall and is broad and solidly built. He has an angular face with defined cheekbones, a smooth forehead, and a strong jaw that leads to a broad chin. His round brown eyes sit beneath straight brows and give him a candid gaze. He has a straight nose and curved lips. He has fair skin with a weathered complexion. His dark blonde hair is thick and unkempt.
+Murvir Hrafnsvald is a 48-year-old man who stands 5'10" tall and is broad and solidly built. He has an angular face with defined cheekbones, a smooth forehead, and a strong jaw that leads to a broad chin. His round brown eyes sit beneath straight brows and give him a candid gaze. He has a straight nose and curved lips. He has fair skin with a weathered complexion. His dark blonde hair is thick and unkempt.
 
 # Dossier {#dossier}
 
-Born in the [[place-nordheim|Nordheim]] region to a guilded family of Nordheimn heritage, Hróaldr Hrafnsvald is a jeweler.
+Born in the [[place-nordheim|Nordheim]] region to a guilded family of Nordheimn heritage, Murvir Hrafnsvald is a jeweler.
 
-Hróaldr has spent more than two decades in the jewelry trade, honing his skill at both traditional and newer pieces. He has a reputation for valuing gemstones well and negotiating prices hard. He runs a successful shop that draws clients from nobles to common folk, and for all his success he enjoys teaching young apprentices the craft.
+Murvir has spent more than two decades in the jewelry trade, honing his skill at both traditional and newer pieces. He has a reputation for valuing gemstones well and negotiating prices hard. He runs a successful shop that draws clients from nobles to common folk, and for all his success he enjoys teaching young apprentices the craft.
 
 Now at 48 years of age, he is a known figure among the jewelers of Nordheim.
 
@@ -419,7 +419,7 @@ He can be too focused on profit, and is sometimes dismissive of new fashions.
 
 ### Motivation
 
-Hróaldr wants his shop to stay the one nobles and traders come to, and his apprentices to carry on the craft.
+Murvir wants his shop to stay the one nobles and traders come to, and his apprentices to carry on the craft.
 
 ### Strengths
 
@@ -427,13 +427,13 @@ He is experienced, an excellent negotiator, and skilled in both design and craft
 
 ## Social
 
-Hróaldr belongs to the local Jewelers' Guild.
+Murvir belongs to the local Jewelers' Guild.
 
 ## Companions
 
 ### Patrons
 
-Hróaldr's patrons are the nobles and local traders who trust his valuations.
+Murvir's patrons are the nobles and local traders who trust his valuations.
 
 ### Enemies
 
@@ -441,12 +441,12 @@ Few; generally respected within the industry.
 
 ## Plot Hooks
 
-1. **The Jeweler's Dilemma**—A noble brings Hróaldr a stone he recognizes as stolen, and he has to choose between the client and the truth.
+1. **The Jeweler's Dilemma**—A noble brings Murvir a stone he recognizes as stolen, and he has to choose between the client and the truth.
 
 2. **Old Grudges**—One of the few in the trade who do not respect him decides to do something about it.
 
-3. **Echoes of the Past**—A piece Hróaldr made early in his trade resurfaces in the wrong hands.
+3. **Echoes of the Past**—A piece Murvir made early in his trade resurfaces in the wrong hands.
 
-4. **Shifting Winds**—Political change in Nordheim threatens the custom Hróaldr's shop depends upon, and he can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Nordheim threatens the custom Murvir's shop depends upon, and he can adapt, resist, or leave.
 
-5. **The Opportunity**—A noble commission comes to Hróaldr beyond anything his shop has handled, and its price is not named up front.
+5. **The Opportunity**—A noble commission comes to Murvir beyond anything his shop has handled, and its price is not named up front.

@@ -1,10 +1,10 @@
 ---
 shortcode: thrlkrvndrkv
 name:
-  full: Thorlákr Vindrkvé
+  full: Ulthorv Nalthendikh
   title: ""
-  given: Thorlákr
-  clan: Vindrkvé
+  given: Ulthorv
+  clan: Nalthendikh
   home: bloth
   aliases: []
 type: being
@@ -431,9 +431,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[thrlkrvndrkv|Thorlákr Vindrkvé]]{float=top-left}
+![[thrlkrvndrkv|Ulthorv Nalthendikh]]{float=top-left}
 
-Thorlákr stands 6'1" tall with a medium build. He has tanned ruddy skin, gray hair, and blue eyes. His features include an angular face, a slightly upturned nose, an angular jawline, narrow lips, thick brows, and hollow cheeks. He has a tattoo of a tiger on his forearm.
+Ulthorv stands 6'1" tall with a medium build. He has tanned ruddy skin, gray hair, and blue eyes. His features include an angular face, a slightly upturned nose, an angular jawline, narrow lips, thick brows, and hollow cheeks. He has a tattoo of a tiger on his forearm.
 
 # Dossier {#dossier}
 
@@ -441,42 +441,42 @@ Thorlákr stands 6'1" tall with a medium build. He has tanned ruddy skin, gray h
 
 ### Life Before the Mines
 
-Thorlákr was born free in [[place-nordheim|Nordheim]]'s borderlands, son of a leather-worker and a wandering warrior-woman who passed through the region in pursuit of her own destiny. His father taught him the craft, but Thorlákr's heart always burned with his mother's restlessness. At twenty, seeking adventure and fortune, he ventured to the great mining settlements of the north, where a young man could theoretically rise through skill and determination. His tiger tattoo was earned through a rite of passage—a test of strength and will in the sacred valleys. For a decade, he worked as a free miner, his strength and shrewd judgment bringing him respect and decent wages.
+Ulthorv was born free in [[place-nordheim|Nordheim]]'s borderlands, son of a leather-worker and a wandering warrior-woman who passed through the region in pursuit of her own destiny. His father taught him the craft, but Ulthorv's heart always burned with his mother's restlessness. At twenty, seeking adventure and fortune, he ventured to the great mining settlements of the north, where a young man could theoretically rise through skill and determination. His tiger tattoo was earned through a rite of passage—a test of strength and will in the sacred valleys. For a decade, he worked as a free miner, his strength and shrewd judgment bringing him respect and decent wages.
 
 ### Descent into Bondage
 
-At thirty, Thorlákr made the critical error of witnessing something he shouldn't have—he saw the mine overseers falsifying records of a catastrophic collapse, suppressing knowledge of trapped workers to avoid costly rescue operations. When he attempted to expose the conspiracy, the corrupt officials moved swiftly. False charges of theft were leveled against him. His free status was revoked through a sham court, and he was declared an unfree laborer—a vassal of the mines, legally property rather than a person. The transformation from free man to slave happened with terrifying speed.
+At thirty, Ulthorv made the critical error of witnessing something he shouldn't have—he saw the mine overseers falsifying records of a catastrophic collapse, suppressing knowledge of trapped workers to avoid costly rescue operations. When he attempted to expose the conspiracy, the corrupt officials moved swiftly. False charges of theft were leveled against him. His free status was revoked through a sham court, and he was declared an unfree laborer—a vassal of the mines, legally property rather than a person. The transformation from free man to slave happened with terrifying speed.
 
 ### Years of Captivity
 
-Eight years have passed since that judgment. Thorlákr has survived the mines through sheer physical resilience and an unbreakable will, though his spirit has been beaten down repeatedly by the overseer's lashes and the grinding monotony of extraction labor. He has attempted escape six times—each attempt more desperate than the last, each foiled and punished with increasing severity. The scars on his back tell the story of his resistance. Yet something in him refuses to break completely. His fellow workers whisper that Thorlákr Vindrkvé still dreams of freedom, though such dreams are considered dangerous luxuries in the mines.
+Eight years have passed since that judgment. Ulthorv has survived the mines through sheer physical resilience and an unbreakable will, though his spirit has been beaten down repeatedly by the overseer's lashes and the grinding monotony of extraction labor. He has attempted escape six times—each attempt more desperate than the last, each foiled and punished with increasing severity. The scars on his back tell the story of his resistance. Yet something in him refuses to break completely. His fellow workers whisper that Ulthorv Nalthendikh still dreams of freedom, though such dreams are considered dangerous luxuries in the mines.
 
 ## Psyche
 
 ### Personality
 
-Years of captivity have stripped Thorlákr of illusions but not of pride. He is direct to the point of bluntness, with little patience for flowery language or social niceties—the mines have burned away such softness. He carries a grim humor, dark and often bitter, that occasionally surfaces in sardonic comments about the absurdity of his situation. With his fellow workers, he shows unexpected kindness and solidarity; he shares his meager portions with the weaker miners and has developed a reputation as someone who can be relied upon in emergencies.
+Years of captivity have stripped Ulthorv of illusions but not of pride. He is direct to the point of bluntness, with little patience for flowery language or social niceties—the mines have burned away such softness. He carries a grim humor, dark and often bitter, that occasionally surfaces in sardonic comments about the absurdity of his situation. With his fellow workers, he shows unexpected kindness and solidarity; he shares his meager portions with the weaker miners and has developed a reputation as someone who can be relied upon in emergencies.
 
-Thorlákr's defining characteristic, however, is his stubborn refusal to accept his fate as permanent. Others have resigned themselves to dying in the mines, becoming hollow shells going through the motions of work. Thorlákr has not. Each day, he studies the guards' routines, assesses the tunnel geography, and plans. He is not broken, only confined. This makes him dangerous to those who profit from his captivity.
+Ulthorv's defining characteristic, however, is his stubborn refusal to accept his fate as permanent. Others have resigned themselves to dying in the mines, becoming hollow shells going through the motions of work. Ulthorv has not. Each day, he studies the guards' routines, assesses the tunnel geography, and plans. He is not broken, only confined. This makes him dangerous to those who profit from his captivity.
 
 ### Motivation
 
-Thorlákr burns with a singular focus: freedom. That freedom may come through legitimate appeal, a miracle of the law, or violent escape; he will pursue it with every ounce of his considerable will. Beyond freedom itself, he is driven by a deep need for justice—to see the mine officials who orchestrated his enslavement held accountable, to expose the conspiracy that cost innocent lives, and to reclaim the dignity that was stolen from him.
+Ulthorv burns with a singular focus: freedom. That freedom may come through legitimate appeal, a miracle of the law, or violent escape; he will pursue it with every ounce of his considerable will. Beyond freedom itself, he is driven by a deep need for justice—to see the mine officials who orchestrated his enslavement held accountable, to expose the conspiracy that cost innocent lives, and to reclaim the dignity that was stolen from him.
 
 ### Strengths
 
-- **Phenomenal Physical Strength** - Eight years of mining labor have left Thorlákr a monument of functional muscle. He can lift loads that would require teams of ordinary workers, and his endurance in physical labor is almost superhuman.
+- **Phenomenal Physical Strength** - Eight years of mining labor have left Ulthorv a monument of functional muscle. He can lift loads that would require teams of ordinary workers, and his endurance in physical labor is almost superhuman.
 - **Exceptional Endurance** - Beyond strength, his will to persist through exhaustion is extraordinary. He can work through pain and fatigue that would collapse lesser men, a trait that has kept him alive when others have perished.
 - **Keen Mineralogical Knowledge** - Years in the deep earth have given him an intimate understanding of rock types, ore deposits, and geological formations. He can navigate unmapped tunnels and read the earth like a book.
 - **Tactical Mining Engineering** - Though trained as a laborer rather than an engineer, his practical experience has given him intuitive understanding of how tunnels are structured, where weaknesses exist, and how to navigate or even collapse sections deliberately.
-- **Loyal Companion** - To those he considers truly allied, Thorlákr is as loyal as mountains are immovable. He will shield companions with his own body and has on multiple occasions.
+- **Loyal Companion** - To those he considers truly allied, Ulthorv is as loyal as mountains are immovable. He will shield companions with his own body and has on multiple occasions.
 - **Resilience and Survival** - He has survived conditions that have killed stronger men simply through sheer determination and practical knowledge of how to endure in the harsh mining environment.
 
 ### Weaknesses
 
 - **Reckless Impetuousness** - His escape attempts, while understandable, have been increasingly desperate and poorly planned, often endangering himself and others. Desperation overrides planning.
 - **Damaged Trust in Authority** - His betrayal by the legal system has left him deeply cynical about legitimate channels. He's increasingly inclined to reject any solution that doesn't involve either personal action or revolutionary change.
-- **Limited Education** - Though intelligent, Thorlákr's practical experience hasn't equipped him with the literacy, formal knowledge, or political understanding that might help him win vindication in law.
+- **Limited Education** - Though intelligent, Ulthorv's practical experience hasn't equipped him with the literacy, formal knowledge, or political understanding that might help him win vindication in law.
 - **Physical Limitations Beyond Strength** - While very strong, he is not particularly agile or swift. His combat skills are raw rather than refined, and he would be outmatched by skilled warriors despite his power.
 - **Isolation** - Years in the mines have isolated him from the broader world. He knows little of what has transpired outside, and his understanding of politics and society is now years out of date.
 - **Bearing of Trauma** - The weight of captivity on body and mind has left scars that even freedom might not fully heal. He struggles with rage that sometimes surfaces unpredictably.
@@ -485,26 +485,26 @@ Thorlákr burns with a singular focus: freedom. That freedom may come through le
 
 ### Patrons
 
-- None formally, though older miners and fellow laborers view him as a de facto leader, and there are whispers among the enslaved workers that **Thorlákr's Mercy**—his willingness to share provisions with the dying—represents a kind of moral leadership the mines haven't seen in generations.
+- None formally, though older miners and fellow laborers view him as a de facto leader, and there are whispers among the enslaved workers that **Ulthorv's Mercy**—his willingness to share provisions with the dying—represents a kind of moral leadership the mines haven't seen in generations.
 
 ### Enemies
 
-- **Overseer Kalthor the Merciless** - The brutal taskmaster directly responsible for most of Thorlákr's torments. Kalthor takes personal pleasure in crushing the spirit of the enslaved and has specifically targeted Thorlákr for additional punishment because of his refusal to break.
-- **Lord Magistrate Gnartharukh** - The corrupt official who orchestrated Thorlákr's enslavement, initially to silence him about the tunnel collapse, and who now maintains vested financial interest in keeping him enslaved and controllable.
-- **The Nordheim Mining Consortium** - The collective enterprise that profits from slave labor and has institutional interest in maintaining Thorlákr's subjugation.
+- **Overseer Kalthor the Merciless** - The brutal taskmaster directly responsible for most of Ulthorv's torments. Kalthor takes personal pleasure in crushing the spirit of the enslaved and has specifically targeted Ulthorv for additional punishment because of his refusal to break.
+- **Lord Magistrate Gnartharukh** - The corrupt official who orchestrated Ulthorv's enslavement, initially to silence him about the tunnel collapse, and who now maintains vested financial interest in keeping him enslaved and controllable.
+- **The Nordheim Mining Consortium** - The collective enterprise that profits from slave labor and has institutional interest in maintaining Ulthorv's subjugation.
 
 ### Affiliations
 
-- **The Enslaved Workers** - Though he has no formal group affiliation, Thorlákr is increasingly seen as a leader figure among the enslaved miners, a symbol of resistance and dignity in a system designed to strip both away.
+- **The Enslaved Workers** - Though he has no formal group affiliation, Ulthorv is increasingly seen as a leader figure among the enslaved miners, a symbol of resistance and dignity in a system designed to strip both away.
 
 ## Plot Hooks
 
-1. **The Unlikely Rescue**: - A group of adventurers arrives in the mining settlement pursuing rumors of a fabled deposit of mithril ore that the Consortium has hidden. While exploring the mines, they discover Thorlákr and learn his story. They're faced with a moral dilemma: proceed with their quest knowing it enriches his enslavers, or involve themselves in liberating him—an action that would make them enemies of powerful forces. If they aid him, Thorlákr becomes fiercely loyal, but rescuing him also requires either careful subterfuge or overt rebellion against the Consortium's guards.
+1. **The Unlikely Rescue**: - A group of adventurers arrives in the mining settlement pursuing rumors of a fabled deposit of mithril ore that the Consortium has hidden. While exploring the mines, they discover Ulthorv and learn his story. They're faced with a moral dilemma: proceed with their quest knowing it enriches his enslavers, or involve themselves in liberating him—an action that would make them enemies of powerful forces. If they aid him, Ulthorv becomes fiercely loyal, but rescuing him also requires either careful subterfuge or overt rebellion against the Consortium's guards.
 
-2. **The Tunnel Collapse Opportunity**: - Thorlákr discovers evidence of structural weakness in one of the primary mine shafts—the very same tunnel system used by the overseers for quick movement and treasure transport. He realizes that a deliberate collapse at exactly the right moment could cut off the guards' retreat route, but it would also risk the lives of enslaved workers still in the upper levels. He can attempt a mass breakout despite the danger, or wait for a less risky opportunity that might never come.
+2. **The Tunnel Collapse Opportunity**: - Ulthorv discovers evidence of structural weakness in one of the primary mine shafts—the very same tunnel system used by the overseers for quick movement and treasure transport. He realizes that a deliberate collapse at exactly the right moment could cut off the guards' retreat route, but it would also risk the lives of enslaved workers still in the upper levels. He can attempt a mass breakout despite the danger, or wait for a less risky opportunity that might never come.
 
-3. **The Visiting Dignitary's Judgment**: - A representative from Nordheim's central government arrives to conduct an "inspection" of the mines. Thorlákr recognizes that this could be his single opportunity to formally present evidence of corruption and illegal enslavement—if he can reach the dignitary and convince them of the truth without being silenced first. The risk is enormous: if **Lord Magistrate Gnartharukh** learns of his intentions, Thorlákr might "disappear" into the deep mines permanently. His companions can help him stage a desperate appeal to authority or push for a more violent solution.
+3. **The Visiting Dignitary's Judgment**: - A representative from Nordheim's central government arrives to conduct an "inspection" of the mines. Ulthorv recognizes that this could be his single opportunity to formally present evidence of corruption and illegal enslavement—if he can reach the dignitary and convince them of the truth without being silenced first. The risk is enormous: if **Lord Magistrate Gnartharukh** learns of his intentions, Ulthorv might "disappear" into the deep mines permanently. His companions can help him stage a desperate appeal to authority or push for a more violent solution.
 
-4. **The Revolution in the Depths**: - Other enslaved groups in nearby mines begin coordinating, inspired by rumors of Thorlákr's unbreakable spirit and refusals to submit. A charismatic escaped slave named **Ketta Frostborn** contacts him with a plan: coordinate a simultaneous uprising across multiple mines to overwhelm the guards through sheer numbers. Thorlákr must weigh the possibility of liberation for thousands against the near-certainty that the attempt will be crushed and thousands will die in the attempt.
+4. **The Revolution in the Depths**: - Other enslaved groups in nearby mines begin coordinating, inspired by rumors of Ulthorv's unbreakable spirit and refusals to submit. A charismatic escaped slave named **Ketta Frostborn** contacts him with a plan: coordinate a simultaneous uprising across multiple mines to overwhelm the guards through sheer numbers. Ulthorv must weigh the possibility of liberation for thousands against the near-certainty that the attempt will be crushed and thousands will die in the attempt.
 
-5. **The Artifact in the Deep**: - Miners working in the deepest levels uncover something extraordinary—the ruins of an ancient dwarven structure, far older than the current mines, containing artifacts and knowledge that could reshape the politics of Nordheim. Both adventurers seeking treasure and government forces seeking to contain dangerous knowledge converge on the location. Thorlákr finds himself at the center of competing factions, each wanting to use him either as a laborer or as a tool. His knowledge of the deep tunnels makes him necessary to all of them, forcing him to decide which faction, if any, might represent his path to freedom—or whether freedom lies only in seizing control of the discovery for himself.
+5. **The Artifact in the Deep**: - Miners working in the deepest levels uncover something extraordinary—the ruins of an ancient dwarven structure, far older than the current mines, containing artifacts and knowledge that could reshape the politics of Nordheim. Both adventurers seeking treasure and government forces seeking to contain dangerous knowledge converge on the location. Ulthorv finds himself at the center of competing factions, each wanting to use him either as a laborer or as a tool. His knowledge of the deep tunnels makes him necessary to all of them, forcing him to decide which faction, if any, might represent his path to freedom—or whether freedom lies only in seizing control of the discovery for himself.

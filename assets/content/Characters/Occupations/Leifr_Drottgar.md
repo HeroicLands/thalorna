@@ -1,6 +1,12 @@
 ---
 shortcode: leifrdrtgr
-name: {full: Leifr Dróttgar, title: "", given: Leifr, clan: Dróttgar, home: frostmark, aliases: []}
+name:
+  full: Kruldorv Dróttgar
+  title: ""
+  given: Kruldorv
+  clan: Dróttgar
+  home: frostmark
+  aliases: []
 type: being
 tags: [draft, common-folk, character]
 data:
@@ -398,15 +404,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Leifr Dróttgar is a 31-year-old man who stands 6'3" tall and is broad and solidly built. He has an angular face with high cheekbones, a narrow forehead, and a broad jaw that leads to a cleft chin. His hooded brown eyes sit beneath straight brows, lending him a guarded gaze. A strong nose and expressive lips complete his features. He has pale skin with a ruddy complexion. His dark blonde hair is braided at the temples.
+Kruldorv Dróttgar is a 31-year-old man who stands 6'3" tall and is broad and solidly built. He has an angular face with high cheekbones, a narrow forehead, and a broad jaw that leads to a cleft chin. His hooded brown eyes sit beneath straight brows, lending him a guarded gaze. A strong nose and expressive lips complete his features. He has pale skin with a ruddy complexion. His dark blonde hair is braided at the temples.
 
 # Dossier {#dossier}
 
-Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Leifr Dróttgar came into the world of the farmer through a combination of circumstance and aptitude.
+Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Kruldorv Dróttgar came into the world of the farmer through a combination of circumstance and aptitude.
 
-Leifr was born into slavery on a large estate, where he has spent his entire life working in the fields and performing hard labor. Despite his harsh circumstances, he maintains a sense of resilience and holds onto the hope of freedom. Leifr is known for his physical strength and endurance, but his defiance has occasionally gotten him into trouble with his overseers.
+Kruldorv was born into slavery on a large estate, where he has spent his entire life working in the fields and performing hard labor. Despite his harsh circumstances, he maintains a sense of resilience and holds onto the hope of freedom. Kruldorv is known for his physical strength and endurance, but his defiance has occasionally gotten him into trouble with his overseers.
 
-Now at 31 years of age, Leifr Dróttgar has established himself as a known figure among the farmers of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 31 years of age, Kruldorv Dróttgar has established himself as a known figure among the farmers of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
 
 ## Psyche
 
@@ -416,7 +422,7 @@ Rebellious nature, struggles to accept authority.
 
 ### Motivation
 
-Leifr is driven by the desire to master his craft and secure a stable future. The uncertainties of life in farmer work keep him vigilant and adaptable.
+Kruldorv is driven by the desire to master his craft and secure a stable future. The uncertainties of life in farmer work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -424,15 +430,15 @@ Physically strong, resilient, skilled in farm labor.
 
 ## Social
 
-Leifr is affiliated with None; lacks freedom to associate with groups..
+Kruldorv is affiliated with None; lacks freedom to associate with groups..
 
-As a Nordheimn farmer, Leifr occupies a recognized social niche within Nordheim society.
+As a Nordheimn farmer, Kruldorv occupies a recognized social niche within Nordheim society.
 
 ## Companions
 
 ### Patrons
 
-Leifr's primary patron is None; seen merely as property by his owners.. This relationship provides both opportunity and obligation.
+Kruldorv's primary patron is None; seen merely as property by his owners.. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -440,12 +446,12 @@ Overseers who see him as a troublemaker.
 
 ## Plot Hooks
 
-1. **The Farmer's Dilemma**—Leifr faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
+1. **The Farmer's Dilemma**—Kruldorv faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
 
 2. **Old Grudges**—Overseers who see him as a troublemaker. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Leifr's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Kruldorv's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Nordheim threaten to upend the social order that Leifr depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Nordheim threaten to upend the social order that Kruldorv depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Leifr the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Kruldorv the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

@@ -1,6 +1,12 @@
 ---
 shortcode: oskdrekant
-name: {full: Ósk Drekanótt, title: "", given: Ósk, clan: Drekanótt, home: brunvik, aliases: []}
+name:
+  full: Hrandrinna Drekanótt
+  title: ""
+  given: Hrandrinna
+  clan: Drekanótt
+  home: brunvik
+  aliases: []
 type: being
 tags: [heroes-and-knaves, common-folk, character]
 data:
@@ -417,11 +423,11 @@ sohl:
 
 # Appearance {#appearance}
 
-![[oskdrekant|Ósk Drekanótt]]{float=top-left}
+![[oskdrekant|Hrandrinna Drekanótt]]{float=top-left}
 
-Ósk stands 5'7" tall with a light build. She has light fair skin, blonde hair, and brown eyes. Her features include an oval face, a small nose, a rounded chin, a wide mouth, light brows, and rosy cheeks. She has a scar running down her right leg.
+Hrandrinna stands 5'7" tall with a light build. She has light fair skin, blonde hair, and brown eyes. Her features include an oval face, a small nose, a rounded chin, a wide mouth, light brows, and rosy cheeks. She has a scar running down her right leg.
 
-Despite the demands of her craft, Ósk carries herself with an easy grace and natural confidence, the bearing of someone completely comfortable in her own skin and sure of her competence.
+Despite the demands of her craft, Hrandrinna carries herself with an easy grace and natural confidence, the bearing of someone completely comfortable in her own skin and sure of her competence.
 
 # Dossier {#dossier}
 
@@ -429,19 +435,19 @@ Despite the demands of her craft, Ósk carries herself with an easy grace and na
 
 ### The Wild Child
 
-Ósk Drekanótt was born into a family of thatchers in the northern reaches of the [[affiliation-kingdomlgn|Kingdom of Malagna]], where the climate is harsh, the winters are long, and every roof is a battleground between human ingenuity and the relentless forces of nature. Her father, Hjalmar Drekanótt, was a skilled thatcher of considerable reputation, and her mother, Keira, was the daughter of a timber merchant with a shrewd business sense. From her earliest years, Ósk showed an unusual combination of traits for her gender and station: she possessed her father's natural skill with materials and structural concepts, combined with her mother's eye for a better method and for money.
+Hrandrinna Drekanótt was born into a family of thatchers in the northern reaches of the [[affiliation-kingdomlgn|Kingdom of Malagna]], where the climate is harsh, the winters are long, and every roof is a battleground between human ingenuity and the relentless forces of nature. Her father, Hjalmar Drekanótt, was a skilled thatcher of considerable reputation, and her mother, Keira, was the daughter of a timber merchant with a shrewd business sense. From her earliest years, Hrandrinna showed an unusual combination of traits for her gender and station: she possessed her father's natural skill with materials and structural concepts, combined with her mother's eye for a better method and for money.
 
-Rather than being confined to the domestic tasks expected of a girl, Ósk was permitted—and encouraged—by her father to work alongside him on roofs. By age twelve, she was already assisting on full contracts. By sixteen, she was working on significant projects largely independently, with her father supervising and providing guidance rather than doing the work himself. Her unusual path raised eyebrows in conservative communities, but her competence was undeniable, and in a trade where quality work was more valued than social convention, she gradually earned acceptance.
+Rather than being confined to the domestic tasks expected of a girl, Hrandrinna was permitted—and encouraged—by her father to work alongside him on roofs. By age twelve, she was already assisting on full contracts. By sixteen, she was working on significant projects largely independently, with her father supervising and providing guidance rather than doing the work himself. Her unusual path raised eyebrows in conservative communities, but her competence was undeniable, and in a trade where quality work was more valued than social convention, she gradually earned acceptance.
 
 ### The Accident and Its Aftermath
 
-At nineteen, working on the roof of the King's hunting lodge, Ósk made a mistake. An unexpected shift in wind, combined with a split-second miscalculation of footing on wet thatch, sent her tumbling from the roofline. She fell twenty feet, striking the edge of a stone wall and a rain barrel, and coming to rest in mud that broke the final impact. The fall left her with a shattered right leg, torn flesh, and injuries that kept her bedridden for three months and in recovery for a full year.
+At nineteen, working on the roof of the King's hunting lodge, Hrandrinna made a mistake. An unexpected shift in wind, combined with a split-second miscalculation of footing on wet thatch, sent her tumbling from the roofline. She fell twenty feet, striking the edge of a stone wall and a rain barrel, and coming to rest in mud that broke the final impact. The fall left her with a shattered right leg, torn flesh, and injuries that kept her bedridden for three months and in recovery for a full year.
 
-Everyone, including Ósk herself, assumed her working life was finished. Her father grieved the loss of his successor and began training her younger brother instead. But during her long recovery, something shifted in Ósk's mind. The forced stillness allowed her to think deeply about the craft in ways her constant activity had never permitted. She studied the structural principles underlying good thatching, began sketching improvements to tools and techniques, and conceived of improvements that would make the work both faster and more aesthetically elegant. When she finally returned to full mobility, she returned a craftsperson with a vision of her own.
+Everyone, including Hrandrinna herself, assumed her working life was finished. Her father grieved the loss of his successor and began training her younger brother instead. But during her long recovery, something shifted in Hrandrinna's mind. The forced stillness allowed her to think deeply about the craft in ways her constant activity had never permitted. She studied the structural principles underlying good thatching, began sketching improvements to tools and techniques, and conceived of improvements that would make the work both faster and more aesthetically elegant. When she finally returned to full mobility, she returned a craftsperson with a vision of her own.
 
 ### The Master Years
 
-From her early twenties onward, Ósk established herself as one of the finest thatchers in the Kingdom. Her reputation was built on three pillars: uncompromising quality, new designs that pushed what thatching could achieve to the eye, and a commitment to her clients' needs and purses. Unlike her father, who charged high rates and refused to adapt his methods, Ósk was willing to work for rich and poor alike, taking smaller jobs that allowed her to refine her skills and larger, more prestigious commissions that pushed her to expand her capabilities.
+From her early twenties onward, Hrandrinna established herself as one of the finest thatchers in the Kingdom. Her reputation was built on three pillars: uncompromising quality, new designs that pushed what thatching could achieve to the eye, and a commitment to her clients' needs and purses. Unlike her father, who charged high rates and refused to adapt his methods, Hrandrinna was willing to work for rich and poor alike, taking smaller jobs that allowed her to refine her skills and larger, more prestigious commissions that pushed her to expand her capabilities.
 
 She never married, though she had several offers and at least two relationships that might have led to marriage. Instead, she remained focused on her work, eventually establishing a small team of apprentices and assistants who worked under her direction, allowing her to handle larger contracts while maintaining her personal standards.
 
@@ -451,7 +457,7 @@ The scar on her leg never fully healed—she walks with a slight limp that is ba
 
 ### Personality
 
-Ósk is direct, competent, and refreshingly unconcerned with the social conventions that constrain most people. She says what she thinks, acknowledges problems when they arise, and immediately begins working on solutions rather than dwelling on blame or complaint. This straightforward approach endears her to practical people and troubles those who expect more delicacy in company.
+Hrandrinna is direct, competent, and refreshingly unconcerned with the social conventions that constrain most people. She says what she thinks, acknowledges problems when they arise, and immediately begins working on solutions rather than dwelling on blame or complaint. This straightforward approach endears her to practical people and troubles those who expect more delicacy in company.
 
 She is ambitious in her own way—not for wealth or status, but for the opportunity to work on increasingly challenging and significant projects, to refine her craft to ever greater perfection, and to prove through action that her unusual path was not a mistake. She has a competitive streak, viewing her work not in isolation but in comparison to other thatchers, constantly measuring herself against the best work in her region and the craft as a whole.
 
@@ -459,60 +465,60 @@ She is also restless, struggling to be idle and filling downtime with additional
 
 ### Motivation
 
-Ósk's primary motivation is the mastery of her craft and the creation of works that represent the summit of what thatching can achieve. She is driven by a need to prove that her unconventional path was justified, that the accident that nearly ended her working life actually transformed her into something greater. Secondarily, she is motivated by a desire for independence—she has deliberately avoided marriage and family obligations specifically to maintain the freedom to accept or refuse work according to her own judgment, and to pursue projects of her own choosing.
+Hrandrinna's primary motivation is the mastery of her craft and the creation of works that represent the summit of what thatching can achieve. She is driven by a need to prove that her unconventional path was justified, that the accident that nearly ended her working life actually transformed her into something greater. Secondarily, she is motivated by a desire for independence—she has deliberately avoided marriage and family obligations specifically to maintain the freedom to accept or refuse work according to her own judgment, and to pursue projects of her own choosing.
 
 She is also motivated by the persistent fear that her leg injury will eventually become debilitating, that the scar tissue will worsen with age, that arthritis or some other age-related condition will slowly steal her ability to perform the physical work that is her life. This fear drives her to accept too much work, to push herself harder than is wise, and to avoid acknowledging any limitation that might suggest her working years are not endless.
 
 ### Strengths
 
-- **Exceptional Technical Skill Combined with Innovation**: Ósk has mastered traditional thatching techniques, but unlike more conventional practitioners, she is willing to experiment, to try new approaches, and to take up new methods that improve the craft. Her roofs are both technically sound and aesthetically superior.
+- **Exceptional Technical Skill Combined with Innovation**: Hrandrinna has mastered traditional thatching techniques, but unlike more conventional practitioners, she is willing to experiment, to try new approaches, and to take up new methods that improve the craft. Her roofs are both technically sound and aesthetically superior.
 
 - **Rapid Problem-Solving**: Her quick mind and willingness to think unconventionally mean she can adapt to unexpected challenges on the fly. When standard approaches fail, she finds alternatives that maintain quality while addressing new constraints.
 
-- **Reliability and Integrity**: Unlike some who accept more work than they can handle, Ósk generally delivers what she promises, on time, in excellent condition. Her word is reliable, and this has built her reputation steadily.
+- **Reliability and Integrity**: Unlike some who accept more work than they can handle, Hrandrinna generally delivers what she promises, on time, in excellent condition. Her word is reliable, and this has built her reputation steadily.
 
-- **Physical Capability**: Despite her injury, Ósk remains very capable. Her climbing ability is superior to most men's, her strength is considerable, and her balance and coordination are superb. She has learned to work with her injury rather than against it.
+- **Physical Capability**: Despite her injury, Hrandrinna remains very capable. Her climbing ability is superior to most men's, her strength is considerable, and her balance and coordination are superb. She has learned to work with her injury rather than against it.
 
 - **Independent Judgment**: She does not accept work she believes is compromised in quality, even when clients pressure her to rush or cut corners. She maintains her standards even when it costs her financially.
 
 ### Weaknesses
 
-- **Overcommitment**: Ósk's ambitious nature and her difficulty saying no to clients means she regularly takes on too much work, leading to exhaustion, mistakes, and stress on her working relationships. She sometimes accepts projects without adequate time for planning or execution.
+- **Overcommitment**: Hrandrinna's ambitious nature and her difficulty saying no to clients means she regularly takes on too much work, leading to exhaustion, mistakes, and stress on her working relationships. She sometimes accepts projects without adequate time for planning or execution.
 
-- **Perfectionist Paralysis on Major Projects**: While generally able to complete work, on larger or more prestigious commissions, Ósk sometimes becomes obsessive about details, spending excessive time on refinements that may not justify their cost in terms of overall improvement.
+- **Perfectionist Paralysis on Major Projects**: While generally able to complete work, on larger or more prestigious commissions, Hrandrinna sometimes becomes obsessive about details, spending excessive time on refinements that may not justify their cost in terms of overall improvement.
 
 - **Physical Vulnerability**: The injury to her right leg, while stable, is a constant concern. Repetitive strain, weight-bearing work, and the aging process all pose risks to the health of that leg. Any serious reinjury could threaten her ability to continue in the trade.
 
-- **Difficulty with Delegation and Team Management**: Though she has apprentices and assistants, Ósk struggles to fully trust their work and often ends up redoing portions of projects herself, undermining the point of having a team. This waste of effort frustrates both her and her workers.
+- **Difficulty with Delegation and Team Management**: Though she has apprentices and assistants, Hrandrinna struggles to fully trust their work and often ends up redoing portions of projects herself, undermining the point of having a team. This waste of effort frustrates both her and her workers.
 
-- **Relationship Avoidance**: Ósk's commitment to independence has left her without close personal connections or family ties. While this allows her freedom in her work, it also leaves her isolated and without the ties that give most people stability.
+- **Relationship Avoidance**: Hrandrinna's commitment to independence has left her without close personal connections or family ties. While this allows her freedom in her work, it also leaves her isolated and without the ties that give most people stability.
 
 ## Social
 
 ### Patrons
 
-- **The Thegn of Vallsey, Lord Erikson**: The regional lord has engaged Ósk for all his holdings' thatching work for the past decade, appreciating both her quality and her willingness to work within what he can pay. Lord Erikson has become one of her most consistent and reliable clients.
+- **The Thegn of Vallsey, Lord Erikson**: The regional lord has engaged Hrandrinna for all his holdings' thatching work for the past decade, appreciating both her quality and her willingness to work within what he can pay. Lord Erikson has become one of her most consistent and reliable clients.
 
-- **The Farmers' Collective of the Northern Reach**: A coalition of farming families who pool resources for major maintenance projects contracts with Ósk for seasonal work. While individual projects are small, the aggregate volume provides steady income and allows her to employ her assistant team consistently.
+- **The Farmers' Collective of the Northern Reach**: A coalition of farming families who pool resources for major maintenance projects contracts with Hrandrinna for seasonal work. While individual projects are small, the aggregate volume provides steady income and allows her to employ her assistant team consistently.
 
-- **Bishop Rúnhildr of the Thórr Temple**: The religious institution dedicated to the storm deity commissions Ósk for specialized high-pitched roofing work designed to shed snow and endure particularly harsh weather. The bishop values her skill and the quality of her work.
+- **Bishop Rúnhildr of the Thórr Temple**: The religious institution dedicated to the storm deity commissions Hrandrinna for specialized high-pitched roofing work designed to shed snow and endure particularly harsh weather. The bishop values her skill and the quality of her work.
 
 ### Enemies
 
-- **Aldwin the Conventional**: A neighboring thatcher of considerable age and conservative methods, Aldwin views Ósk's new methods as dangerous shortcuts that compromise quality. He has publicly criticized her work and attempted to persuade clients away from her, viewing her success as a threat to the traditional understanding of the craft. Their disagreement over the craft has become tinged with personal dislike.
+- **Aldwin the Conventional**: A neighboring thatcher of considerable age and conservative methods, Aldwin views Hrandrinna's new methods as dangerous shortcuts that compromise quality. He has publicly criticized her work and attempted to persuade clients away from her, viewing her success as a threat to the traditional understanding of the craft. Their disagreement over the craft has become tinged with personal dislike.
 
 ### Affiliations
 
-- **The Craftspeople's Collective of Malagna**: While not formally affiliated with any official guild (which would require her to follow more conservative standards), Ósk maintains good relationships with the broader community of craftspeople and occasionally collaborates on large projects.
+- **The Craftspeople's Collective of Malagna**: While not formally affiliated with any official guild (which would require her to follow more conservative standards), Hrandrinna maintains good relationships with the broader community of craftspeople and occasionally collaborates on large projects.
 
 ## Plot Hooks
 
-1. **The Commission from Across the Realm**: An emissary from a distant region, hearing of Ósk's reputation for new methods, arrives with an unusual commission: to design and oversee the construction of a roof for a structure with architectural specifications completely outside her previous experience—perhaps a tower, a dome, or a structure designed for a climate dramatically different from her native region. The challenge excites her as a craftsperson, but accepting means leaving her established base and risking her reputation on unfamiliar ground.
+1. **The Commission from Across the Realm**: An emissary from a distant region, hearing of Hrandrinna's reputation for new methods, arrives with an unusual commission: to design and oversee the construction of a roof for a structure with architectural specifications completely outside her previous experience—perhaps a tower, a dome, or a structure designed for a climate dramatically different from her native region. The challenge excites her as a craftsperson, but accepting means leaving her established base and risking her reputation on unfamiliar ground.
 
-2. **The Injured Competitor**: Aldwin the Conventional suffers a serious injury that incapacitates him, and his family approaches Ósk requesting assistance. Accepting would require her to temporarily take on his contracts and potentially even apply her own methods to his existing projects—which might be perceived as opportunistic or as the final blow against him. Refusing seems callous, but accepting means becoming entangled in a complex situation with real social consequences.
+2. **The Injured Competitor**: Aldwin the Conventional suffers a serious injury that incapacitates him, and his family approaches Hrandrinna requesting assistance. Accepting would require her to temporarily take on his contracts and potentially even apply her own methods to his existing projects—which might be perceived as opportunistic or as the final blow against him. Refusing seems callous, but accepting means becoming entangled in a complex situation with real social consequences.
 
-3. **The Structural Secret**: While working on the roof of an ancient building, Ósk discovers evidence that the structure's thatch is part of an elaborate system designed to collect water, channel it through hidden pipes, or even (she suspects) contain some form of magical property or hidden chamber. Investigating further could expose her to danger or unwanted attention from whoever created the original system.
+3. **The Structural Secret**: While working on the roof of an ancient building, Hrandrinna discovers evidence that the structure's thatch is part of an elaborate system designed to collect water, channel it through hidden pipes, or even (she suspects) contain some form of magical property or hidden chamber. Investigating further could expose her to danger or unwanted attention from whoever created the original system.
 
-4. **The Degenerating Injury**: The scar on Ósk's leg begins to trouble her more significantly. Pain, weakness, or signs of infection suggest that what she thought was fully healed may be deteriorating. She must consult a physician, who suggests her working life may be at risk if the condition worsens. Ósk faces the possibility that her worst fear—losing the ability to work—is becoming real, and she can accept limits or push on recklessly.
+4. **The Degenerating Injury**: The scar on Hrandrinna's leg begins to trouble her more significantly. Pain, weakness, or signs of infection suggest that what she thought was fully healed may be deteriorating. She must consult a physician, who suggests her working life may be at risk if the condition worsens. Hrandrinna faces the possibility that her worst fear—losing the ability to work—is becoming real, and she can accept limits or push on recklessly.
 
-5. **The Apprentice's Dangerous Ambition**: One of Ósk's most talented apprentices becomes impatient with the pace of their learning and secretly takes a major contract for a prestigious building, planning to complete it with techniques learned from Ósk but executed independently. When the project faces structural problems that the apprentice cannot solve, the solution falls to Ósk. She can salvage the project and uphold the standards of the craft, knowing it will benefit an apprentice who broke her trust, or let it fail and damage her own reputation.
+5. **The Apprentice's Dangerous Ambition**: One of Hrandrinna's most talented apprentices becomes impatient with the pace of their learning and secretly takes a major contract for a prestigious building, planning to complete it with techniques learned from Hrandrinna but executed independently. When the project faces structural problems that the apprentice cannot solve, the solution falls to Hrandrinna. She can salvage the project and uphold the standards of the craft, knowing it will benefit an apprentice who broke her trust, or let it fail and damage her own reputation.

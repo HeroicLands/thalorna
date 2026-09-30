@@ -1,9 +1,9 @@
 ---
 shortcode: eirkrlwgvr
 name:
-  full: Eiríkr Lawgiver
+  full: Knalthann Lawgiver
   title: null
-  given: Eiríkr
+  given: Knalthann
   clan: null
   aliases: [Lawgiver]
   home: null
@@ -368,27 +368,27 @@ sohl:
 
 # Appearance {#appearance}
 
-Eiríkr stands 5'8" with a slight, scholarly frame, weighing about 155 pounds. His light skin is pale from long hours spent indoors reviewing testimony and drafting legal codes. His gray hair is thin and combed back from a high forehead, and his blue eyes are sharp and probing—the kind of gaze that makes liars instinctively look away. His features are narrow and precise, with a long face, a thin blade of a nose, pursed lips, and deeply arched brows that give him a permanently skeptical expression. He leans on a tall staff inscribed with Týr's runes, which serves as both walking stick and symbol of his legal authority. Eiríkr dresses in simple robes of dark blue and gray, unadorned except for a silver brooch denoting his rank as Lawspeaker. His hands are ink-stained, and he carries a leather case of documents wherever he goes.
+Knalthann stands 5'8" with a slight, scholarly frame, weighing about 155 pounds. His light skin is pale from long hours spent indoors reviewing testimony and drafting legal codes. His gray hair is thin and combed back from a high forehead, and his blue eyes are sharp and probing—the kind of gaze that makes liars instinctively look away. His features are narrow and precise, with a long face, a thin blade of a nose, pursed lips, and deeply arched brows that give him a permanently skeptical expression. He leans on a tall staff inscribed with Týr's runes, which serves as both walking stick and symbol of his legal authority. Knalthann dresses in simple robes of dark blue and gray, unadorned except for a silver brooch denoting his rank as Lawspeaker. His hands are ink-stained, and he carries a leather case of documents wherever he goes.
 
 # Dossier {#dossier}
 
-Eiríkr was born into a family of judges and lawmen, known for their strict adherence to the principles of fairness and justice. From a young age, he displayed a keen understanding of the law and an unwavering commitment to the truth. Eiríkr traveled the lands, settling disputes and bringing justice to those who had been wronged. He was known for his impartiality and his ability to see through deception, earning the respect and admiration of both common folk and nobility. Eiríkr carried with him a staff inscribed with Týr's runes, which he used to administer justice and maintain order.
+Knalthann was born into a family of judges and lawmen, known for their strict adherence to the principles of fairness and justice. From a young age, he displayed a keen understanding of the law and an unwavering commitment to the truth. Knalthann traveled the lands, settling disputes and bringing justice to those who had been wronged. He was known for his impartiality and his ability to see through deception, earning the respect and admiration of both common folk and nobility. Knalthann carried with him a staff inscribed with Týr's runes, which he used to administer justice and maintain order.
 
-The saga of Eiríkr Lawgiver is told in the context of a great trial that took place in the town of Vidarrholt. A powerful thane was accused of treason against the king, but the evidence was scarce, and the witnesses were divided. Eiríkr arrived and spent days listening to testimonies, examining evidence, and meditating on the principles of Týr. On the day of the verdict, Eiríkr revealed that he had discovered a hidden piece of evidence—an incriminating rune hidden within the accused's personal items. This revelation turned the trial on its head, leading to the thane's conviction. Eiríkr's wisdom and dedication to justice earned him the title of Lawgiver, and his staff became a symbol of justice throughout the land.
+The saga of Knalthann Lawgiver is told in the context of a great trial that took place in the town of Vidarrholt. A powerful thane was accused of treason against the king, but the evidence was scarce, and the witnesses were divided. Knalthann arrived and spent days listening to testimonies, examining evidence, and meditating on the principles of Týr. On the day of the verdict, Knalthann revealed that he had discovered a hidden piece of evidence—an incriminating rune hidden within the accused's personal items. This revelation turned the trial on its head, leading to the thane's conviction. Knalthann's wisdom and dedication to justice earned him the title of Lawgiver, and his staff became a symbol of justice throughout the land.
 
 ## Psyche
 
 ### Personality
 
-Eiríkr is methodical and patient, possessing the kind of quiet authority that silences a room when he speaks. He listens far more than he talks, and when he does speak, his words are chosen with surgical precision. He has an extraordinary memory for details and can recall the specifics of trials he presided over decades ago. Despite his stern professional demeanor, Eiríkr has a dry sense of humor and enjoys riddles and word games. He is deeply troubled by cases where the law produces unjust outcomes and spends sleepless nights wrestling with such contradictions.
+Knalthann is methodical and patient, possessing the kind of quiet authority that silences a room when he speaks. He listens far more than he talks, and when he does speak, his words are chosen with surgical precision. He has an extraordinary memory for details and can recall the specifics of trials he presided over decades ago. Despite his stern professional demeanor, Knalthann has a dry sense of humor and enjoys riddles and word games. He is deeply troubled by cases where the law produces unjust outcomes and spends sleepless nights wrestling with such contradictions.
 
 ### Motivation
 
-Eiríkr seeks to codify the scattered oral laws of the northern peoples into a written legal tradition that will outlast any individual ruler. He believes that without written law, justice is merely the whim of whoever holds power. His deeper fear is that the law itself can become a tool of oppression if administered without wisdom, and he strives to build safeguards against such corruption into every code he drafts.
+Knalthann seeks to codify the scattered oral laws of the northern peoples into a written legal tradition that will outlast any individual ruler. He believes that without written law, justice is merely the whim of whoever holds power. His deeper fear is that the law itself can become a tool of oppression if administered without wisdom, and he strives to build safeguards against such corruption into every code he drafts.
 
 ### Strengths
 
-Eiríkr's legal knowledge is encyclopedic, encompassing the traditions of dozens of clans and settlements. His runic staff can compel truth from witnesses, though he uses this power sparingly and only in the most serious cases. His reputation for absolute impartiality means that even bitter enemies will accept his judgments, making him one of the few people who can mediate between warring clans.
+Knalthann's legal knowledge is encyclopedic, encompassing the traditions of dozens of clans and settlements. His runic staff can compel truth from witnesses, though he uses this power sparingly and only in the most serious cases. His reputation for absolute impartiality means that even bitter enemies will accept his judgments, making him one of the few people who can mediate between warring clans.
 
 ## Social
 
@@ -396,20 +396,20 @@ Eiríkr's legal knowledge is encyclopedic, encompassing the traditions of dozens
 
 ### Patrons
 
-**Sigvardr One-Hand**—His closest ally and the martial arm of their shared mission to bring lasting justice to the north.
+**Vraldorv One-Hand**—His closest ally and the martial arm of their shared mission to bring lasting justice to the north.
 
-**The Althing of Nordheim**—The great assembly of northern leaders has appointed Eiríkr as Lawspeaker, the highest legal authority recognized across clan boundaries.
+**The Althing of Nordheim**—The great assembly of northern leaders has appointed Knalthann as Lawspeaker, the highest legal authority recognized across clan boundaries.
 
 ### Enemies
 
-**Thane Skuli the Acquitted**—A powerful lord whom Eiríkr suspects of treason but could not convict due to insufficient evidence. Skuli now uses his influence to undermine Eiríkr's authority.
+**Thane Skuli the Acquitted**—A powerful lord whom Knalthann suspects of treason but could not convict due to insufficient evidence. Skuli now uses his influence to undermine Knalthann's authority.
 
-**The Rune Forgers**—A criminal network that creates false runic evidence to manipulate trials. Eiríkr has been dismantling their operation, and they have responded with threats against his family.
+**The Rune Forgers**—A criminal network that creates false runic evidence to manipulate trials. Knalthann has been dismantling their operation, and they have responded with threats against his family.
 
 ## Plot Hooks
 
-1. **The Impossible Case**—Two clans each claim the same tract of land, and both have seemingly legitimate runic deeds. The losing side will almost certainly declare war. Eiríkr must determine which deed is genuine before violence erupts.
+1. **The Impossible Case**—Two clans each claim the same tract of land, and both have seemingly legitimate runic deeds. The losing side will almost certainly declare war. Knalthann must determine which deed is genuine before violence erupts.
 
-2. **The Lawspeaker's Kidnapping**—Eiríkr has been abducted by the Rune Forgers, who plan to force him to authenticate their false evidence. The party must rescue him before the criminals can compel his cooperation.
+2. **The Lawspeaker's Kidnapping**—Knalthann has been abducted by the Rune Forgers, who plan to force him to authenticate their false evidence. The party must rescue him before the criminals can compel his cooperation.
 
-3. **Justice Undone**—A man Eiríkr convicted years ago has escaped imprisonment and is murdering the witnesses who testified against him. The twist: new evidence suggests the man may have been innocent all along.
+3. **Justice Undone**—A man Knalthann convicted years ago has escaped imprisonment and is murdering the witnesses who testified against him. The twist: new evidence suggests the man may have been innocent all along.

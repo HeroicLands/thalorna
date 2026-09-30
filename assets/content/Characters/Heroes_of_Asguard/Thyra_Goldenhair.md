@@ -1,9 +1,9 @@
 ---
 shortcode: thyrgldnhr
 name:
-  full: Thyra Goldenhair
+  full: Knirvthýra Goldenhair
   title: null
-  given: Thyra
+  given: Knirvthýra
   clan: null
   aliases: [Goldenhair]
   home: null
@@ -368,27 +368,27 @@ sohl:
 
 # Appearance {#appearance}
 
-Thyra stands 5'8" with a medium, curvaceous frame, weighing about 150 pounds. Her fair skin is luminous and carefully tended, and her golden blonde hair—her most famous feature—cascades past her shoulders in shining waves that catch the light even in dim rooms. Her blue eyes are large, bright, and dangerously perceptive, missing nothing while revealing only what she chooses. Her features are beautiful in a way that stops conversations—high cheekbones, a straight nose, a full mouth, and delicate brows over eyes that can shift from inviting warmth to arctic coldness in an instant. Despite the hardship of her past, she carries herself with regal poise, every movement deliberate and assured. Thyra dresses in rich fabrics—deep reds, golds, and midnight blue—cut to flatter and command attention. Gold rings and a choker of garnets accent her throat, and she wears a subtle perfume of rose and amber that lingers after she has left a room.
+Knirvthýra stands 5'8" with a medium, curvaceous frame, weighing about 150 pounds. Her fair skin is luminous and carefully tended, and her golden blonde hair—her most famous feature—cascades past her shoulders in shining waves that catch the light even in dim rooms. Her blue eyes are large, bright, and dangerously perceptive, missing nothing while revealing only what she chooses. Her features are beautiful in a way that stops conversations—high cheekbones, a straight nose, a full mouth, and delicate brows over eyes that can shift from inviting warmth to arctic coldness in an instant. Despite the hardship of her past, she carries herself with regal poise, every movement deliberate and assured. Knirvthýra dresses in rich fabrics—deep reds, golds, and midnight blue—cut to flatter and command attention. Gold rings and a choker of garnets accent her throat, and she wears a subtle perfume of rose and amber that lingers after she has left a room.
 
 # Dossier {#dossier}
 
-Thyra was born into poverty, her family struggling to make ends meet in a small, barren village. Despite her humble beginnings, Thyra possessed a radiant beauty that turned heads wherever she went. Her fortunes seemed to change when a wealthy merchant promised her a life of comfort and abundance, but his true intentions were far darker. Instead of luxury, Thyra found herself sold to a brothel in the city of Skarnholme. Refusing to be broken, Thyra saw this as a twisted opportunity to reshape her destiny. With determination and Fréyja's blessing, she rose within the establishment, eventually taking control and transforming the Gilded Cage from a brothel into a luxurious salon where the city's most influential figures came for both pleasure and guidance.
+Knirvthýra was born into poverty, her family struggling to make ends meet in a small, barren village. Despite her humble beginnings, Knirvthýra possessed a radiant beauty that turned heads wherever she went. Her fortunes seemed to change when a wealthy merchant promised her a life of comfort and abundance, but his true intentions were far darker. Instead of luxury, Knirvthýra found herself sold to a brothel in the city of Skarnholme. Refusing to be broken, Knirvthýra saw this as a twisted opportunity to reshape her destiny. With determination and Fréyja's blessing, she rose within the establishment, eventually taking control and transforming the Gilded Cage from a brothel into a luxurious salon where the city's most influential figures came for both pleasure and guidance.
 
-The saga of Thyra Goldenhair is one of resilience, transformation, and triumph. She learned the art of persuasion and business from Yrsa the Silver-Tongued, the brothel's madam, and used her beauty and intelligence to captivate the city's elite. Her most famous achievement came when she orchestrated the downfall of Rurik, the very merchant who had sold her. Using her network of clients, she uncovered his illicit dealings and ensured his disgrace. When the destitute merchant came to the brothel seeking solace, Thyra offered him a place—not as a lover, but as a servant, a living testament to her rise from the ashes of her past. Under her guidance, powerful men like Lord Ingvar Blackwood and Viggo Ironfist prospered, while she accumulated wealth and influence that rivaled any noble house.
+The saga of Knirvthýra Goldenhair is one of resilience, transformation, and triumph. She learned the art of persuasion and business from Yrsa the Silver-Tongued, the brothel's madam, and used her beauty and intelligence to captivate the city's elite. Her most famous achievement came when she orchestrated the downfall of Rurik, the very merchant who had sold her. Using her network of clients, she uncovered his illicit dealings and ensured his disgrace. When the destitute merchant came to the brothel seeking solace, Knirvthýra offered him a place—not as a lover, but as a servant, a living testament to her rise from the ashes of her past. Under her guidance, powerful men like Lord Ingvar Blackwood and Viggo Ironfist prospered, while she accumulated wealth and influence that rivaled any noble house.
 
 ## Psyche
 
 ### Personality
 
-Thyra is magnetic and dangerous, a woman who has transformed suffering into power. She is utterly pragmatic, having learned early that sentiment is a luxury the poor cannot afford. She is warm and charming when it serves her purpose and cold as northern steel when it does not. Despite the hardness that her experiences have forged in her, she retains a fierce protectiveness toward those who have been exploited and uses her power to shelter and empower women in circumstances similar to her own past. She never forgets a slight, and her patience in pursuing vengeance is legendary.
+Knirvthýra is magnetic and dangerous, a woman who has transformed suffering into power. She is utterly pragmatic, having learned early that sentiment is a luxury the poor cannot afford. She is warm and charming when it serves her purpose and cold as northern steel when it does not. Despite the hardness that her experiences have forged in her, she retains a fierce protectiveness toward those who have been exploited and uses her power to shelter and empower women in circumstances similar to her own past. She never forgets a slight, and her patience in pursuing vengeance is legendary.
 
 ### Motivation
 
-Thyra seeks to build an empire of influence that will protect her and those she cares about from ever being vulnerable again. She uses wealth, information, and strategic alliances to ensure that no one can threaten her position. Beneath her ambition, she is driven by a desire to prove that her worth was never defined by the circumstances of her birth or the cruelty of those who exploited her. She also quietly seeks the merchant Rurik's network of contacts in the slave trade, working to dismantle it from within.
+Knirvthýra seeks to build an empire of influence that will protect her and those she cares about from ever being vulnerable again. She uses wealth, information, and strategic alliances to ensure that no one can threaten her position. Beneath her ambition, she is driven by a desire to prove that her worth was never defined by the circumstances of her birth or the cruelty of those who exploited her. She also quietly seeks the merchant Rurik's network of contacts in the slave trade, working to dismantle it from within.
 
 ### Strengths
 
-Thyra's network of informants and clients spans the highest levels of Skarnholme society, giving her access to secrets that can make or break fortunes. Her salon, the Gilded Cage, is the most exclusive gathering place in the city, and an invitation is worth more than gold. She is a master of reading people and situations, and her business acumen has turned her establishment into one of the most profitable enterprises in the north. Her personal guard, drawn from women she has rescued from exploitation, is fiercely loyal and surprisingly well-trained.
+Knirvthýra's network of informants and clients spans the highest levels of Skarnholme society, giving her access to secrets that can make or break fortunes. Her salon, the Gilded Cage, is the most exclusive gathering place in the city, and an invitation is worth more than gold. She is a master of reading people and situations, and her business acumen has turned her establishment into one of the most profitable enterprises in the north. Her personal guard, drawn from women she has rescued from exploitation, is fiercely loyal and surprisingly well-trained.
 
 ## Social
 
@@ -396,20 +396,20 @@ Thyra's network of informants and clients spans the highest levels of Skarnholme
 
 ### Patrons
 
-**Lord Ingvar Blackwood**—A powerful noble whose political fortunes Thyra has guided for years. He provides political protection and legitimate business connections.
+**Lord Ingvar Blackwood**—A powerful noble whose political fortunes Knirvthýra has guided for years. He provides political protection and legitimate business connections.
 
-**Viggo Ironfist**—A wealthy merchant who owes much of his success to Thyra's counsel. He funds her operations and provides commercial intelligence.
+**Viggo Ironfist**—A wealthy merchant who owes much of his success to Knirvthýra's counsel. He funds her operations and provides commercial intelligence.
 
 ### Enemies
 
-**Rurik's Surviving Allies**—The slave trader's former associates who fear Thyra's growing power and the exposure of their own crimes.
+**Rurik's Surviving Allies**—The slave trader's former associates who fear Knirvthýra's growing power and the exposure of their own crimes.
 
-**The Morality Council of Skarnholme**—A group of religious conservatives who view Thyra's establishment as a den of sin and her influence as a corruption of the city's values. They seek to shut down the Gilded Cage and exile Thyra.
+**The Morality Council of Skarnholme**—A group of religious conservatives who view Knirvthýra's establishment as a den of sin and her influence as a corruption of the city's values. They seek to shut down the Gilded Cage and exile Knirvthýra.
 
 ## Plot Hooks
 
-1. **The Slave Ring**—Thyra has discovered that Rurik's slave trading network is still operating under new management, and children are among the victims. She needs agents who can infiltrate the ring and destroy it from within.
+1. **The Slave Ring**—Knirvthýra has discovered that Rurik's slave trading network is still operating under new management, and children are among the victims. She needs agents who can infiltrate the ring and destroy it from within.
 
-2. **The Gilded Cage's Secret**—One of Thyra's most trusted allies has been turned by the Morality Council and is feeding them information. Thyra must identify the traitor before her enemies have enough evidence to move against her.
+2. **The Gilded Cage's Secret**—One of Knirvthýra's most trusted allies has been turned by the Morality Council and is feeding them information. Knirvthýra must identify the traitor before her enemies have enough evidence to move against her.
 
-3. **The Noble's Proposal**—Lord Ingvar has proposed marriage, which would give Thyra legitimate noble status but could also make her a target for his political enemies. The decision is complicated by the arrival of a figure from her past who offers a very different kind of future.
+3. **The Noble's Proposal**—Lord Ingvar has proposed marriage, which would give Knirvthýra legitimate noble status but could also make her a target for his political enemies. The decision is complicated by the arrival of a figure from her past who offers a very different kind of future.

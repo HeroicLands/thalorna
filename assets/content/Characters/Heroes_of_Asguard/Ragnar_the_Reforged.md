@@ -1,9 +1,9 @@
 ---
 shortcode: ragnarfrgd
 name:
-  full: Ragnar the Reforged
+  full: Tvilgorv the Reforged
   title: null
-  given: Ragnar
+  given: Tvilgorv
   clan: null
   aliases: [the Reforged]
   home: null
@@ -368,27 +368,27 @@ sohl:
 
 # Appearance {#appearance}
 
-Ragnar stands 6'2" with a massive, unnaturally muscled frame, weighing about 260 pounds. His medium-toned skin shifts unsettlingly between human flesh and something harder and darker, particularly along his arms and spine, where strange ridges protrude beneath the surface. His dark brown hair is lank and unkempt, and his amber eyes occasionally flash with an inhuman light that makes others flinch. His features are heavy and brutish—a broad, flat face, a crushed nose, a heavy brow, and a jaw too wide for a normal man—bearing the unmistakable marks of Ymir's transformation. His voice carries a resonance that is not entirely human. Ragnar wears crude armor of boiled leather and salvaged plate, held together with sinew and iron wire, and carries a massive axe that he wields one-handed. He covers his most inhuman features with a hooded cloak, though the attempt at concealment fools no one up close.
+Tvilgorv stands 6'2" with a massive, unnaturally muscled frame, weighing about 260 pounds. His medium-toned skin shifts unsettlingly between human flesh and something harder and darker, particularly along his arms and spine, where strange ridges protrude beneath the surface. His dark brown hair is lank and unkempt, and his amber eyes occasionally flash with an inhuman light that makes others flinch. His features are heavy and brutish—a broad, flat face, a crushed nose, a heavy brow, and a jaw too wide for a normal man—bearing the unmistakable marks of Ymir's transformation. His voice carries a resonance that is not entirely human. Tvilgorv wears crude armor of boiled leather and salvaged plate, held together with sinew and iron wire, and carries a massive axe that he wields one-handed. He covers his most inhuman features with a hooded cloak, though the attempt at concealment fools no one up close.
 
 # Dossier {#dossier}
 
-Ragnar was once a powerful warrior, known for his strength and bravery, but he was mortally wounded in a great battle. On the brink of death, his soul was drawn into one of Ymir's laboratories, where the god of creation saw potential in his broken body. Ymir, in a rare moment of interest, decided to experiment on Ragnar, merging his soul with the essence of several failed Dreadspawn. The process was agonizing, and Ragnar's body was twisted and reshaped into a form that was both human and monstrous. When the experiment was complete, Ragnar was left discarded, but he emerged with a new purpose.
+Tvilgorv was once a powerful warrior, known for his strength and bravery, but he was mortally wounded in a great battle. On the brink of death, his soul was drawn into one of Ymir's laboratories, where the god of creation saw potential in his broken body. Ymir, in a rare moment of interest, decided to experiment on Tvilgorv, merging his soul with the essence of several failed Dreadspawn. The process was agonizing, and Tvilgorv's body was twisted and reshaped into a form that was both human and monstrous. When the experiment was complete, Tvilgorv was left discarded, but he emerged with a new purpose.
 
-The saga of Ragnar the Reforged tells of his quest to reclaim his lost humanity while embracing the monstrous power that Ymir had bestowed upon him. Cast out from his homeland and feared by those who once knew him, Ragnar wandered the wilderness, grappling with his new identity. He encountered a village under siege by a powerful Dreadspawn. Ragnar confronted the beast, using both his human strength and his monstrous abilities. He emerged victorious, not by destroying the Dreadspawn, but by subduing it and bringing it under his control—an act of dominance over Ymir's creation that marked Ragnar as one of the god's favored.
+The saga of Tvilgorv the Reforged tells of his quest to reclaim his lost humanity while embracing the monstrous power that Ymir had bestowed upon him. Cast out from his homeland and feared by those who once knew him, Tvilgorv wandered the wilderness, grappling with his new identity. He encountered a village under siege by a powerful Dreadspawn. Tvilgorv confronted the beast, using both his human strength and his monstrous abilities. He emerged victorious, not by destroying the Dreadspawn, but by subduing it and bringing it under his control—an act of dominance over Ymir's creation that marked Tvilgorv as one of the god's favored.
 
 ## Psyche
 
 ### Personality
 
-Ragnar is haunted and conflicted, a man trapped between two natures that war constantly within him. He speaks little, and when he does, his voice carries a resonance that is not entirely human. He is prone to dark moods and periods of withdrawal, during which the monstrous aspects of his nature become more pronounced. Despite his inner turmoil, Ragnar possesses a stubborn core of humanity that manifests in unexpected acts of kindness and protection, as if proving to himself that the man he was still exists beneath the monster he has become.
+Tvilgorv is haunted and conflicted, a man trapped between two natures that war constantly within him. He speaks little, and when he does, his voice carries a resonance that is not entirely human. He is prone to dark moods and periods of withdrawal, during which the monstrous aspects of his nature become more pronounced. Despite his inner turmoil, Tvilgorv possesses a stubborn core of humanity that manifests in unexpected acts of kindness and protection, as if proving to himself that the man he was still exists beneath the monster he has become.
 
 ### Motivation
 
-Ragnar seeks to understand what he has become and whether his humanity can be preserved. He hopes to find a way to stabilize his transformation so that the monstrous aspects of his nature serve him rather than consume him. He also searches for Ymir's purpose in remaking him—whether the god saw something special in Ragnar or merely used him as raw material for another experiment.
+Tvilgorv seeks to understand what he has become and whether his humanity can be preserved. He hopes to find a way to stabilize his transformation so that the monstrous aspects of his nature serve him rather than consume him. He also searches for Ymir's purpose in remaking him—whether the god saw something special in Tvilgorv or merely used him as raw material for another experiment.
 
 ### Strengths
 
-Ragnar's reforged body is extraordinarily powerful, combining human martial skill with the raw strength and resilience of Dreadspawn essence. He can command lesser Dreadspawn through force of will, a rare ability that makes him invaluable in the wild territories where these creatures roam. His dual nature makes him resistant to both physical and magical attacks, and his monstrous senses give him the ability to detect threats long before ordinary humans can.
+Tvilgorv's reforged body is extraordinarily powerful, combining human martial skill with the raw strength and resilience of Dreadspawn essence. He can command lesser Dreadspawn through force of will, a rare ability that makes him invaluable in the wild territories where these creatures roam. His dual nature makes him resistant to both physical and magical attacks, and his monstrous senses give him the ability to detect threats long before ordinary humans can.
 
 ## Social
 
@@ -396,20 +396,20 @@ Ragnar's reforged body is extraordinarily powerful, combining human martial skil
 
 ### Patrons
 
-**Astrid the Forsaken**—A fellow being transformed by Ymir who understands Ragnar's struggle better than anyone. She offers companionship and the kind of acceptance he cannot find elsewhere.
+**Gnuldrthýra the Forsaken**—A fellow being transformed by Ymir who understands Tvilgorv's struggle better than anyone. She offers companionship and the kind of acceptance he cannot find elsewhere.
 
-**Elder Thorbjorn**—The leader of the village Ragnar saved, who has declared Ragnar a friend of his people despite the warrior's monstrous appearance. He provides shelter and supplies when needed.
+**Elder Thorbjorn**—The leader of the village Tvilgorv saved, who has declared Tvilgorv a friend of his people despite the warrior's monstrous appearance. He provides shelter and supplies when needed.
 
 ### Enemies
 
-**His Former Clan**—The clan Ragnar once fought for has declared him dead and his current form an abomination wearing their kinsman's face. They hunt him with the same ferocity they would show any Dreadspawn.
+**His Former Clan**—The clan Tvilgorv once fought for has declared him dead and his current form an abomination wearing their kinsman's face. They hunt him with the same ferocity they would show any Dreadspawn.
 
-**The Collector**—A mysterious figure who captures and studies Ymir's transformed creations. The Collector has been tracking Ragnar and intends to add him to their collection, dead or alive.
+**The Collector**—A mysterious figure who captures and studies Ymir's transformed creations. The Collector has been tracking Tvilgorv and intends to add him to their collection, dead or alive.
 
 ## Plot Hooks
 
-1. **The Man Within**—Ragnar has discovered a ritual that might separate his human essence from the Dreadspawn parts of his nature, but the process could kill him or create two separate beings. He needs help gathering the components and protecting him during the ritual.
+1. **The Man Within**—Tvilgorv has discovered a ritual that might separate his human essence from the Dreadspawn parts of his nature, but the process could kill him or create two separate beings. He needs help gathering the components and protecting him during the ritual.
 
-2. **The Clan's Reckoning**—Ragnar's former clan is being threatened by a force they cannot defeat alone. They need his help but refuse to ask for it. Ragnar must decide whether to aid people who tried to kill him.
+2. **The Clan's Reckoning**—Tvilgorv's former clan is being threatened by a force they cannot defeat alone. They need his help but refuse to ask for it. Tvilgorv must decide whether to aid people who tried to kill him.
 
-3. **The Collector's Gallery**—Ragnar has found the Collector's hidden lair, where dozens of Ymir's transformed creations are imprisoned. He must infiltrate the gallery and free them, but the Collector has defenses that prey on the monstrous nature within each captive.
+3. **The Collector's Gallery**—Tvilgorv has found the Collector's hidden lair, where dozens of Ymir's transformed creations are imprisoned. He must infiltrate the gallery and free them, but the Collector has defenses that prey on the monstrous nature within each captive.

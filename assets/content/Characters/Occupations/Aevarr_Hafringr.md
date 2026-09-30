@@ -1,6 +1,12 @@
 ---
 shortcode: aevrhfrngr
-name: {full: Aevarr Hafringr, title: "", given: Aevarr, clan: Hafringr, home: bloth, aliases: []}
+name:
+  full: Knurvthann Hafringr
+  title: ""
+  given: Knurvthann
+  clan: Hafringr
+  home: bloth
+  aliases: []
 type: being
 tags: [draft, common-folk, character]
 data:
@@ -394,15 +400,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Aevarr Hafringr is a 45-year-old man who stands 6'0" tall and is broad and solidly built. He has a broad face with broad cheekbones, a broad forehead, and a broad jaw that leads to a cleft chin. His large blue eyes sit beneath prominent brows, lending him an expressive gaze. A strong nose and full lips complete his features. He has fair skin with a ruddy complexion. His auburn hair is pulled back in a warrior's knot.
+Knurvthann Hafringr is a 45-year-old man who stands 6'0" tall and is broad and solidly built. He has a broad face with broad cheekbones, a broad forehead, and a broad jaw that leads to a cleft chin. His large blue eyes sit beneath prominent brows, lending him an expressive gaze. A strong nose and full lips complete his features. He has fair skin with a ruddy complexion. His auburn hair is pulled back in a warrior's knot.
 
 # Dossier {#dossier}
 
-Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Aevarr Hafringr came into the world of the longshoreman through a combination of circumstance and aptitude.
+Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Knurvthann Hafringr came into the world of the longshoreman through a combination of circumstance and aptitude.
 
-Aevarr is a veteran longshoreman with over twenty years of experience on the docks. He has seen the industry evolve and is known for his knowledge of shipping practices and safety protocols. Aevarr takes pride in mentoring younger workers and is often called upon to resolve disputes or oversee complex loading operations. He values hard work and camaraderie, making him a respected figure among his peers.
+Knurvthann is a veteran longshoreman with over twenty years of experience on the docks. He has seen the industry evolve and is known for his knowledge of shipping practices and safety protocols. Knurvthann takes pride in mentoring younger workers and is often called upon to resolve disputes or oversee complex loading operations. He values hard work and camaraderie, making him a respected figure among his peers.
 
-Now at 45 years of age, Aevarr Hafringr has established himself as a known figure among the longshoremans of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 45 years of age, Knurvthann Hafringr has established himself as a known figure among the longshoremans of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
 
 ## Psyche
 
@@ -412,7 +418,7 @@ Can be resistant to change, sometimes too protective of younger workers.
 
 ### Motivation
 
-Aevarr is driven by the desire to master his craft and secure a stable future. The uncertainties of life in longshoreman work keep him vigilant and adaptable.
+Knurvthann is driven by the desire to master his craft and secure a stable future. The uncertainties of life in longshoreman work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -420,15 +426,15 @@ Highly experienced, knowledgeable about safety practices, strong leader.
 
 ## Social
 
-Aevarr is affiliated with Local Longshoremen's Union.
+Knurvthann is affiliated with Local Longshoremen's Union.
 
-As a Nordheimn longshoreman, Aevarr occupies a recognized social niche within Nordheim society.
+As a Nordheimn longshoreman, Knurvthann occupies a recognized social niche within Nordheim society.
 
 ## Companions
 
 ### Patrons
 
-Aevarr's primary patron is Shipping companies and local merchants.. This relationship provides both opportunity and obligation.
+Knurvthann's primary patron is Shipping companies and local merchants.. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -436,12 +442,12 @@ Few; generally well-respected.
 
 ## Plot Hooks
 
-1. **The Longshoreman's Dilemma**—Aevarr faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
+1. **The Longshoreman's Dilemma**—Knurvthann faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
 
 2. **Old Grudges**—Few; generally well-respected. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Aevarr's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Knurvthann's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Nordheim threaten to upend the social order that Aevarr depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Nordheim threaten to upend the social order that Knurvthann depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Aevarr the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Knurvthann the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

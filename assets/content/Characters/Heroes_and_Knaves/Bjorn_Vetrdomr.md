@@ -1,9 +1,9 @@
 ---
 shortcode: bjrnvtrdmr
 name:
-  full: Björn Vetrdómr
+  full: Hvalgvir Vetrdómr
   title: ""
-  given: Björn
+  given: Hvalgvir
   clan: Vetrdómr
   home: ravensholm
   aliases: []
@@ -417,9 +417,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[bjrnvtrdmr|Björn Vetrdómr]]{float=top-left}
+![[bjrnvtrdmr|Hvalgvir Vetrdómr]]{float=top-left}
 
-Björn stands 6'0" tall with a heavy build. He has tanned weathered skin, white hair, and gray eyes. His features include a rectangular face, a slightly upturned nose, a heavy jawline, a firm-set mouth, and straight brows. He has a tattoo of a snake on his chest.
+Hvalgvir stands 6'0" tall with a heavy build. He has tanned weathered skin, white hair, and gray eyes. His features include a rectangular face, a slightly upturned nose, a heavy jawline, a firm-set mouth, and straight brows. He has a tattoo of a snake on his chest.
 
 # Dossier {#dossier}
 
@@ -427,35 +427,35 @@ Björn stands 6'0" tall with a heavy build. He has tanned weathered skin, white 
 
 ### The Maker's Path
 
-Björn was born the eldest son of a brewmaster in the northern reaches of [[place-nordheim|Nordheim]], in a small town whose fortunes rose and fell with the success of its seasonal harvests. His father expected him to inherit the family trade, and indeed, young Björn showed considerable talent in the craft—a keen nose for the subtle interplay of grain, herbs, and fermentation that separates a palatable ale from a fine one. But Björn's mother, a storyteller of considerable skill, saw something else in her son: a capacity for hospitality, for creating spaces where strangers became friends and the weary found solace.
+Hvalgvir was born the eldest son of a brewmaster in the northern reaches of [[place-nordheim|Nordheim]], in a small town whose fortunes rose and fell with the success of its seasonal harvests. His father expected him to inherit the family trade, and indeed, young Hvalgvir showed considerable talent in the craft—a keen nose for the subtle interplay of grain, herbs, and fermentation that separates a palatable ale from a fine one. But Hvalgvir's mother, a storyteller of considerable skill, saw something else in her son: a capacity for hospitality, for creating spaces where strangers became friends and the weary found solace.
 
-When his father died suddenly—struck down by fever when Björn was but twenty—the family brewery fell to his younger brother, Keth, while Björn was left to find his own path. Rather than resent this, Björn saw providence. He spent five years as a traveling merchant, learning the roads and the needs of distant communities. He mastered cooking alongside brewing, understanding that a full belly and satisfied palate were the foundations of fellowship.
+When his father died suddenly—struck down by fever when Hvalgvir was but twenty—the family brewery fell to his younger brother, Keth, while Hvalgvir was left to find his own path. Rather than resent this, Hvalgvir saw providence. He spent five years as a traveling merchant, learning the roads and the needs of distant communities. He mastered cooking alongside brewing, understanding that a full belly and satisfied palate were the foundations of fellowship.
 
 ### The Founding of the Hearth
 
-At twenty-five, Björn took what savings he had gathered and purchased a modest building in the larger trading town of [[place-ravensholm|Ódholm]], where the crossroads of three major roads converged. The location was well chosen, but Björn's true genius lay in his understanding of what travelers and locals alike truly needed. He built a tavern that was also a sanctuary—a place where merchant princes and common folk could break bread together, where disputes were settled over shared drink rather than steel, where lonely wanderers could for a night feel the warmth of community.
+At twenty-five, Hvalgvir took what savings he had gathered and purchased a modest building in the larger trading town of [[place-ravensholm|Ódholm]], where the crossroads of three major roads converged. The location was well chosen, but Hvalgvir's true genius lay in his understanding of what travelers and locals alike truly needed. He built a tavern that was also a sanctuary—a place where merchant princes and common folk could break bread together, where disputes were settled over shared drink rather than steel, where lonely wanderers could for a night feel the warmth of community.
 
-For nearly three decades, the Serpent's Hearth (named after his devotion to Týr) has been the center of Ódholm's life. Björn's ales are known throughout the kingdom; his cooking is spoken of in hushed, reverent tones; but most importantly, his establishment has become a refuge. During harsh winters, he has sheltered those with nowhere else to go. During conflicts, he has mediated between feuding families. During celebrations, his hall has echoed with the most joyful sounds any of his patrons have known.
+For nearly three decades, the Serpent's Hearth (named after his devotion to Týr) has been the center of Ódholm's life. Hvalgvir's ales are known throughout the kingdom; his cooking is spoken of in hushed, reverent tones; but most importantly, his establishment has become a refuge. During harsh winters, he has sheltered those with nowhere else to go. During conflicts, he has mediated between feuding families. During celebrations, his hall has echoed with the most joyful sounds any of his patrons have known.
 
 ### The Weight of Years
 
-Yet recently, Björn has felt the weight of his years settling upon his shoulders like an iron cloak. His body, once powerful and tireless, now protests after long days of labor. He has made enemies through his impartiality—there are always those displeased by his fair judgments. And most troublingly, he has begun to wonder if all his years of building community and providing sanctuary have merely delayed the darker currents he senses moving through the kingdom. He has also begun to question whether his well-known trustfulness has blinded him to threats that now encircle his beloved establishment.
+Yet recently, Hvalgvir has felt the weight of his years settling upon his shoulders like an iron cloak. His body, once powerful and tireless, now protests after long days of labor. He has made enemies through his impartiality—there are always those displeased by his fair judgments. And most troublingly, he has begun to wonder if all his years of building community and providing sanctuary have merely delayed the darker currents he senses moving through the kingdom. He has also begun to question whether his well-known trustfulness has blinded him to threats that now encircle his beloved establishment.
 
 ## Psyche
 
 ### Personality
 
-Björn is a man of contradictions—simultaneously warm and reserved, open and calculating, expansive and introspective. He has perfected the art of listening; those who speak to him often feel heard in a way they rarely experience elsewhere. Yet this apparent openness masks a sharp tactical mind. He understands human nature with the precision of a craftsman understanding his materials, and he manages his patrons with subtle genius that few recognize.
+Hvalgvir is a man of contradictions—simultaneously warm and reserved, open and calculating, expansive and introspective. He has perfected the art of listening; those who speak to him often feel heard in a way they rarely experience elsewhere. Yet this apparent openness masks a sharp tactical mind. He understands human nature with the precision of a craftsman understanding his materials, and he manages his patrons with subtle genius that few recognize.
 
 His wit is dry and often self-deprecating, and he laughs readily, though those who know him well recognize that his laughter often masks deeper concerns. He speaks with the measured cadence of one accustomed to being heard, but he never dominates conversation—instead, he draws others out, making them feel as though their thoughts and experiences matter. There is an almost professorial quality to him, as though he is constantly teaching through example rather than lecture.
 
 ### Motivation
 
-Björn's driving force is the belief that civilization itself rests upon small acts of hospitality and justice. He views his inn as a bulwark against the encroaching darkness of a world that grows colder and more fractious each passing year. He seeks to create spaces where the better nature of humanity can flourish, where conflicts can be resolved through words and shared meals rather than violence and bloodshed. Yet he harbors a growing conviction that such refuges cannot indefinitely stand against the larger currents of history—and this knowledge drives him to accomplish as much as possible before the inevitable reckoning arrives.
+Hvalgvir's driving force is the belief that civilization itself rests upon small acts of hospitality and justice. He views his inn as a bulwark against the encroaching darkness of a world that grows colder and more fractious each passing year. He seeks to create spaces where the better nature of humanity can flourish, where conflicts can be resolved through words and shared meals rather than violence and bloodshed. Yet he harbors a growing conviction that such refuges cannot indefinitely stand against the larger currents of history—and this knowledge drives him to accomplish as much as possible before the inevitable reckoning arrives.
 
 ### Strengths
 
-- **Culinary Mastery**: Björn's cooking does more than feed people; his meals are memorable experiences that evoke emotional responses. He understands how flavors and textures can soothe wounds both bodily and spiritual.
+- **Culinary Mastery**: Hvalgvir's cooking does more than feed people; his meals are memorable experiences that evoke emotional responses. He understands how flavors and textures can soothe wounds both bodily and spiritual.
 - **Brewing Genius**: His ales, meads, and fermented beverages are in demand throughout the kingdom. He has developed techniques and flavors of his own that cannot be easily copied.
 - **Emotional Intelligence**: He reads people accurately and understands the unspoken currents in a room. He can calm heated situations through seemingly casual comments.
 - **Strategic Thinking**: His warm demeanor covers a sharp tactical mind. He has built and sustained his business through careful planning, observation, and adaptation.
@@ -468,36 +468,36 @@ Björn's driving force is the belief that civilization itself rests upon small a
 - **Physical Decline**: His aging body cannot match the demands he places upon it. Long periods of labor leave him exhausted, and he is no longer capable of the physical feats required in real combat.
 - **Emotional Burden**: The weight of being a refuge to so many has accumulated over decades. He carries the sorrows and struggles of his patrons within his own heart, and the burden grows heavier each year.
 - **Conflict Avoidance in Personal Matters**: While skilled at mediating others' disputes, he avoids addressing problems within his own life—unresolved tensions with his brother Keth, questions about his legacy and succession, and doubts about his own worthiness.
-- **Blindness to Systemic Problems**: For all his understanding of human nature, Björn sometimes fails to recognize larger patterns and conspiracies that extend beyond his personal sphere of influence.
+- **Blindness to Systemic Problems**: For all his understanding of human nature, Hvalgvir sometimes fails to recognize larger patterns and conspiracies that extend beyond his personal sphere of influence.
 
 ## Social
 
 ### Patrons
 
-- **Lady Constance Ashford**: A noble widow who has become Björn's confidante and occasional romantic interest. She secretly funds his more charitable endeavors and has warned him of court intrigue affecting his region.
-- **Magistrate Horatio Greensleeves**: The town's chief law enforcement, who relies heavily on Björn's network of informants and his insight into the community's pulse.
-- **Lin'Zuwaret elu Aû'Khelâthu of Ódholm**: The collective of trading guilds treats Björn's inn as their de facto meeting place and headquarters; they provide steady business and seek his counsel on commercial matters.
+- **Lady Constance Ashford**: A noble widow who has become Hvalgvir's confidante and occasional romantic interest. She secretly funds his more charitable endeavors and has warned him of court intrigue affecting his region.
+- **Magistrate Horatio Greensleeves**: The town's chief law enforcement, who relies heavily on Hvalgvir's network of informants and his insight into the community's pulse.
+- **Lin'Zuwaret elu Aû'Khelâthu of Ódholm**: The collective of trading guilds treats Hvalgvir's inn as their de facto meeting place and headquarters; they provide steady business and seek his counsel on commercial matters.
 
 ### Enemies
 
-- **Keth Vetrdómr** (His Brother): A source of deep pain for Björn, his younger brother inherited the family brewery and has built it into a vast commercial empire. Yet Keth resents Björn's greater fame and community standing, and he has subtly worked to undermine his brother's reputation and business.
-- **Thane Hrandarukh**: A warlord of the northern territories who views the Serpent's Hearth as a den of spies and resistance, and has made veiled threats about bringing Björn and his establishment to heel.
-- **The Poison Cult of Vúlcan**: A heretical sect has begun to target Björn, viewing his worship of Týr and his work in promoting order as direct opposition to their chaotic spiritual vision. They have begun poisoning patrons who drink from his taproom.
+- **Keth Vetrdómr** (His Brother): A source of deep pain for Hvalgvir, his younger brother inherited the family brewery and has built it into a vast commercial empire. Yet Keth resents Hvalgvir's greater fame and community standing, and he has subtly worked to undermine his brother's reputation and business.
+- **Thane Hrandarukh**: A warlord of the northern territories who views the Serpent's Hearth as a den of spies and resistance, and has made veiled threats about bringing Hvalgvir and his establishment to heel.
+- **The Poison Cult of Vúlcan**: A heretical sect has begun to target Hvalgvir, viewing his worship of Týr and his work in promoting order as direct opposition to their chaotic spiritual vision. They have begun poisoning patrons who drink from his taproom.
 
 ### Affiliations
 
-- **The Innkeepers' Guild**: A formal organization whose meetings Björn attends, though he is often frustrated by their focus on profit over purpose.
-- **The Order of Týr's Justice**: An informal society of those devoted to the principle of fair judgment and order. Björn is considered one of their spiritual leaders, though he rarely claims the title.
+- **The Innkeepers' Guild**: A formal organization whose meetings Hvalgvir attends, though he is often frustrated by their focus on profit over purpose.
+- **The Order of Týr's Justice**: An informal society of those devoted to the principle of fair judgment and order. Hvalgvir is considered one of their spiritual leaders, though he rarely claims the title.
 - **The Ódholm Community Council**: An ad-hoc assembly of merchants, craftspeople, and concerned citizens who often meet at the Serpent's Hearth to discuss town matters.
 
 ## Plot Hooks
 
-1. **The Succession Question**: Björn is aging, and he has no clear heir for his beloved inn. His nephew—Keth's son—approaches him with an offer: in exchange for naming him successor, the young man will help Björn discover the extent of his father's (Keth's) campaign against him. But the nephew has his own hidden purpose, and accepting his help may inadvertently enable a scheme that threatens the entire community.
+1. **The Succession Question**: Hvalgvir is aging, and he has no clear heir for his beloved inn. His nephew—Keth's son—approaches him with an offer: in exchange for naming him successor, the young man will help Hvalgvir discover the extent of his father's (Keth's) campaign against him. But the nephew has his own hidden purpose, and accepting his help may inadvertently enable a scheme that threatens the entire community.
 
-2. **The Plague of False Ale**: A mysterious illness begins spreading through Ódholm, affecting those who have consumed ale from the Serpent's Hearth. Björn is horrified to discover that someone has deliberately contaminated his supplies with subtle poison. The taint spreads faster than he can contain it, and he must work with both allies and dangerous outsiders to identify the poisoner while his reputation—and his patrons' lives—hang in the balance.
+2. **The Plague of False Ale**: A mysterious illness begins spreading through Ódholm, affecting those who have consumed ale from the Serpent's Hearth. Hvalgvir is horrified to discover that someone has deliberately contaminated his supplies with subtle poison. The taint spreads faster than he can contain it, and he must work with both allies and dangerous outsiders to identify the poisoner while his reputation—and his patrons' lives—hang in the balance.
 
-3. **The Noble's Dark Secret**: A prominent noble confides in Björn, sharing a terrible secret that, if revealed, would destroy her family and shift the politics of Nordheim. She asks for his absolute discretion, and he grants it—until adventurers arrive seeking information about her, and Björn must weigh his code of hospitality against whatever catastrophe they're trying to avert.
+3. **The Noble's Dark Secret**: A prominent noble confides in Hvalgvir, sharing a terrible secret that, if revealed, would destroy her family and shift the politics of Nordheim. She asks for his absolute discretion, and he grants it—until adventurers arrive seeking information about her, and Hvalgvir must weigh his code of hospitality against whatever catastrophe they're trying to avert.
 
-4. **The Resurrection of Keth**: Word arrives that Björn's younger brother, long thought lost to a trading accident years ago, has been discovered alive in distant lands, with vast wealth and mysterious new allegiances. Keth returns to Ódholm with claims to both the family brewery and the Serpent's Hearth, and he brings with him shadowy associates whose intentions are deeply unclear. Björn must face this reunion without knowing whether his brother is truly returned or an imposter, or what dark purposes lie behind his sudden reappearance.
+4. **The Resurrection of Keth**: Word arrives that Hvalgvir's younger brother, long thought lost to a trading accident years ago, has been discovered alive in distant lands, with vast wealth and mysterious new allegiances. Keth returns to Ódholm with claims to both the family brewery and the Serpent's Hearth, and he brings with him shadowy associates whose intentions are deeply unclear. Hvalgvir must face this reunion without knowing whether his brother is truly returned or an imposter, or what dark purposes lie behind his sudden reappearance.
 
-5. **The Tapestry of Fate**: An ancient prophet or oracle arrives at the inn, claiming to possess knowledge of a coming darkness that will test every principle Björn has built his life upon. She offers cryptic guidance in exchange for shelter and resources, but her predictions grow increasingly specific and disturbing. Björn must judge whether she is a true seer or mad, while the events she predicted begin—slowly, terrifyingly—to manifest around him.
+5. **The Tapestry of Fate**: An ancient prophet or oracle arrives at the inn, claiming to possess knowledge of a coming darkness that will test every principle Hvalgvir has built his life upon. She offers cryptic guidance in exchange for shelter and resources, but her predictions grow increasingly specific and disturbing. Hvalgvir must judge whether she is a true seer or mad, while the events she predicted begin—slowly, terrifyingly—to manifest around him.

@@ -1,9 +1,9 @@
 ---
 shortcode: slmndrblthl
 name:
-  full: Sölmundr Blóthöll
+  full: Ilthvir Blóthöll
   title: ""
-  given: Sölmundr
+  given: Ilthvir
   clan: Blóthöll
   home: skarholme
   aliases: []
@@ -402,13 +402,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Sölmundr Blóthöll is a 32-year-old man who stands 6'1" tall and is of moderate build. He has an oval face with prominent cheekbones, a broad forehead, and a strong jaw that leads to a broad chin. His sharp hazel eyes sit beneath heavy brows and give him an incisive gaze. He has a prominent nose and thin lips. He has fair skin with a weathered complexion. His dark blonde hair is pulled back in a warrior's knot.
+Ilthvir Blóthöll is a 32-year-old man who stands 6'1" tall and is of moderate build. He has an oval face with prominent cheekbones, a broad forehead, and a strong jaw that leads to a broad chin. His sharp hazel eyes sit beneath heavy brows and give him an incisive gaze. He has a prominent nose and thin lips. He has fair skin with a weathered complexion. His dark blonde hair is pulled back in a warrior's knot.
 
 # Dossier {#dossier}
 
-Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Sölmundr Blóthöll is a yeoman archer.
+Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Ilthvir Blóthöll is a yeoman archer.
 
-Sölmundr has always had a knack for archery, learning to hunt with a bow from a young age. His skill with a longbow earned him a place among the local lord’s yeomen. Known for his accuracy and steady hand, he has made a name for himself as one of the best archers in the region. He often goes out as a scout and marksman, and prefers to keep his distance from the press of melee.
+Ilthvir has always had a knack for archery, learning to hunt with a bow from a young age. His skill with a longbow earned him a place among the local lord’s yeomen. Known for his accuracy and steady hand, he has made a name for himself as one of the best archers in the region. He often goes out as a scout and marksman, and prefers to keep his distance from the press of melee.
 
 Now at 32 years of age, he is a known figure among the yeoman archers of Nordheim.
 
@@ -420,7 +420,7 @@ He is not as strong in close combat, and tends to rely too much on his bow.
 
 ### Motivation
 
-Sölmundr wants to keep his place among the lord's yeomen, and his name as the best archer in the region.
+Ilthvir wants to keep his place among the lord's yeomen, and his name as the best archer in the region.
 
 ### Strengths
 
@@ -428,13 +428,13 @@ He is a skilled archer with excellent vision, and steady under pressure.
 
 ## Social
 
-Sölmundr belongs to the Local Militia.
+Ilthvir belongs to the Local Militia.
 
 ## Companions
 
 ### Patrons
 
-Sölmundr's patron is the local lord, who values his skill as a marksman.
+Ilthvir's patron is the local lord, who values his skill as a marksman.
 
 ### Enemies
 
@@ -442,12 +442,12 @@ Poachers and rival archers challenge his reputation.
 
 ## Plot Hooks
 
-1. **The Yeoman Archer's Dilemma**—The lord orders Sölmundr to shoot a poacher on sight, and the man in his sights is one he knows.
+1. **The Yeoman Archer's Dilemma**—The lord orders Ilthvir to shoot a poacher on sight, and the man in his sights is one he knows.
 
-2. **Old Grudges**—A rival archer who lost to Sölmundr at the butts has challenged him to shoot again, with the lord's favor as the stake.
+2. **Old Grudges**—A rival archer who lost to Ilthvir at the butts has challenged him to shoot again, with the lord's favor as the stake.
 
-3. **Echoes of the Past**—A poacher Sölmundr once ran off the lord's land has come back.
+3. **Echoes of the Past**—A poacher Ilthvir once ran off the lord's land has come back.
 
-4. **Shifting Winds**—Political change in Nordheim threatens the lord Sölmundr serves, and he can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Nordheim threatens the lord Ilthvir serves, and he can adapt, resist, or leave.
 
-5. **The Opportunity**—A greater lord who saw Sölmundr shoot offers him a place among his own archers, and taking it would mean leaving the militia and the lord who made him.
+5. **The Opportunity**—A greater lord who saw Ilthvir shoot offers him a place among his own archers, and taking it would mean leaving the militia and the lord who made him.

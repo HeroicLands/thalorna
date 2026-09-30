@@ -1,9 +1,9 @@
 ---
 shortcode: hlbjrnsgrnd
 name:
-  full: Hallbjörn Ásgrind
+  full: Skilfvir Ásgrind
   title: ""
-  given: Hallbjörn
+  given: Skilfvir
   clan: Ásgrind
   home: thrymstead
   aliases: []
@@ -401,13 +401,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Hallbjörn Ásgrind is a 34-year-old man who stands 6'1" tall and is of moderate build. He has an oval face with wide-set cheekbones, a narrow forehead, and a heavy jaw that leads to a strong chin. His deep-set blue eyes sit beneath thick brows and give him a watchful gaze. He has a strong nose and firm lips. He has pale skin with a rough complexion. His auburn hair is long and gathered with a leather thong. He has a web of fine scars on his knuckles.
+Skilfvir Ásgrind is a 34-year-old man who stands 6'1" tall and is of moderate build. He has an oval face with wide-set cheekbones, a narrow forehead, and a heavy jaw that leads to a strong chin. His deep-set blue eyes sit beneath thick brows and give him a watchful gaze. He has a strong nose and firm lips. He has pale skin with a rough complexion. His auburn hair is long and gathered with a leather thong. He has a web of fine scars on his knuckles.
 
 # Dossier {#dossier}
 
-Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Hallbjörn Ásgrind is a huntsman.
+Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Skilfvir Ásgrind is a huntsman.
 
-Hallbjörn is the head huntsman for Lord Gwendolyn of Ashenwood Manor. He manages the lord's hunting grounds and sees that the game is not hunted out. He is a fine tracker with a deep knowledge of the local wildlife. His loyalty to the lord is unquestioned, and he is often called upon to lead hunting parties during the lord's feasts.
+Skilfvir is the head huntsman for Lord Gwendolyn of Ashenwood Manor. He manages the lord's hunting grounds and sees that the game is not hunted out. He is a fine tracker with a deep knowledge of the local wildlife. His loyalty to the lord is unquestioned, and he is often called upon to lead hunting parties during the lord's feasts.
 
 Now at 34 years of age, he is a known figure among the huntsmen of Nordheim.
 
@@ -419,7 +419,7 @@ He can be overly cautious, and struggles to talk with those outside the hunting 
 
 ### Motivation
 
-Hallbjörn wants to keep the lord's grounds well stocked and his own place at the head of the hunt.
+Skilfvir wants to keep the lord's grounds well stocked and his own place at the head of the hunt.
 
 ### Strengths
 
@@ -427,13 +427,13 @@ He is an excellent tracker, knowledgeable about the local fauna, and a strong le
 
 ## Social
 
-Hallbjörn belongs to Lord Gwendolyn’s retinue.
+Skilfvir belongs to Lord Gwendolyn’s retinue.
 
 ## Companions
 
 ### Patrons
 
-Hallbjörn's patrons are Lord Gwendolyn and the other members of the manor's household.
+Skilfvir's patrons are Lord Gwendolyn and the other members of the manor's household.
 
 ### Enemies
 
@@ -441,12 +441,12 @@ None; respected by the local community.
 
 ## Plot Hooks
 
-1. **The Huntsman's Dilemma**—Poachers thin the lord's game, and Hallbjörn has to choose between reporting men he knows and failing the lord he serves.
+1. **The Huntsman's Dilemma**—Poachers thin the lord's game, and Skilfvir has to choose between reporting men he knows and failing the lord he serves.
 
-2. **Old Grudges**—Hallbjörn has no known enemies, so a grudge against him would come from outside the community that respects him.
+2. **Old Grudges**—Skilfvir has no known enemies, so a grudge against him would come from outside the community that respects him.
 
-3. **Echoes of the Past**—Something from Hallbjörn's earlier life resurfaces and follows him onto the lord's grounds.
+3. **Echoes of the Past**—Something from Skilfvir's earlier life resurfaces and follows him onto the lord's grounds.
 
-4. **Shifting Winds**—Political change in Nordheim threatens the manor Hallbjörn depends upon, and he can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Nordheim threatens the manor Skilfvir depends upon, and he can adapt, resist, or leave.
 
-5. **The Opportunity**—Another lord offers Hallbjörn the mastery of a greater hunt than Ashenwood's, and the price of leaving Lord Gwendolyn is not named up front.
+5. **The Opportunity**—Another lord offers Skilfvir the mastery of a greater hunt than Ashenwood's, and the price of leaving Lord Gwendolyn is not named up front.

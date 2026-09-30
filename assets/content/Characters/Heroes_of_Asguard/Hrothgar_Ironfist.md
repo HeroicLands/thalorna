@@ -1,9 +1,9 @@
 ---
 shortcode: hrthgrrnfst
 name:
-  full: Hrothgar Ironfist
+  full: Vruthvir Ironfist
   title: null
-  given: Hrothgar
+  given: Vruthvir
   clan: null
   aliases: [Ironfist]
   home: null
@@ -368,27 +368,27 @@ sohl:
 
 # Appearance {#appearance}
 
-Hrothgar stands 6'1" with a massive, heavily muscled frame, weighing around 240 pounds. His fair skin is mottled with old burn scars that web his arms and chest, and a deep wound scar runs from his left shoulder to his hip—a souvenir of the stone giants' war. His dark brown hair is cropped close, streaked with premature gray. His brown eyes are steady and appraising, the eyes of a man who measures everything he sees. His features are broad and blunt, with a heavy brow, a nose broken and reset more than once, a square jaw, and massive hands covered in heavy calluses from decades at the forge. Hrothgar wears a leather blacksmith's apron over mail when working, and full battle gear when he expects trouble. His warhammer—the same one he forged for the giant battle—hangs at his side, its head faintly glowing when enemies draw near.
+Vruthvir stands 6'1" with a massive, heavily muscled frame, weighing around 240 pounds. His fair skin is mottled with old burn scars that web his arms and chest, and a deep wound scar runs from his left shoulder to his hip—a souvenir of the stone giants' war. His dark brown hair is cropped close, streaked with premature gray. His brown eyes are steady and appraising, the eyes of a man who measures everything he sees. His features are broad and blunt, with a heavy brow, a nose broken and reset more than once, a square jaw, and massive hands covered in heavy calluses from decades at the forge. Vruthvir wears a leather blacksmith's apron over mail when working, and full battle gear when he expects trouble. His warhammer—the same one he forged for the giant battle—hangs at his side, its head faintly glowing when enemies draw near.
 
 # Dossier {#dossier}
 
-Hrothgar was a blacksmith's son, born with a strength that set him apart from other children. He was fascinated by the forge and the molten metal that flowed within it, seeing in it the raw power of Súrtr. As he grew, Hrothgar became a master blacksmith, forging weapons and armor that were said to be unbreakable. However, his true passion was for battle, where he could unleash the fire within him. He became known as Ironfist for his devastating blows, which could shatter shields and crush bones with ease.
+Vruthvir was a blacksmith's son, born with a strength that set him apart from other children. He was fascinated by the forge and the molten metal that flowed within it, seeing in it the raw power of Súrtr. As he grew, Vruthvir became a master blacksmith, forging weapons and armor that were said to be unbreakable. However, his true passion was for battle, where he could unleash the fire within him. He became known as Ironfist for his devastating blows, which could shatter shields and crush bones with ease.
 
-The saga of Hrothgar Ironfist is one of endurance and relentless fury. When an army of stone giants threatened his homeland, Hrothgar knew that only the fire of Súrtr could defeat them. He forged a mighty warhammer, imbued with the flames of his forge, and led his people into battle. The stone giants, immune to ordinary weapons, crumbled before Hrothgar's fiery strikes. However, the battle took its toll on Hrothgar, who was severely wounded and left for dead. Refusing to succumb, he crawled back to his forge, where he immersed himself in the flames, offering his life to Súrtr in exchange for the power to finish the battle. Súrtr answered, reigniting Hrothgar's spirit and giving him the strength to return to the battlefield, where he defeated the remaining giants with his warhammer blazing with the power of Súrtr himself.
+The saga of Vruthvir Ironfist is one of endurance and relentless fury. When an army of stone giants threatened his homeland, Vruthvir knew that only the fire of Súrtr could defeat them. He forged a mighty warhammer, imbued with the flames of his forge, and led his people into battle. The stone giants, immune to ordinary weapons, crumbled before Vruthvir's fiery strikes. However, the battle took its toll on Vruthvir, who was severely wounded and left for dead. Refusing to succumb, he crawled back to his forge, where he immersed himself in the flames, offering his life to Súrtr in exchange for the power to finish the battle. Súrtr answered, reigniting Vruthvir's spirit and giving him the strength to return to the battlefield, where he defeated the remaining giants with his warhammer blazing with the power of Súrtr himself.
 
 ## Psyche
 
 ### Personality
 
-Hrothgar is stoic and practical, a man who measures the world by what can be built and what must be destroyed. He speaks plainly and has no patience for flattery or deception. At the forge he is meticulous and patient; in battle he is terrifyingly efficient. He expresses affection through craftsmanship—a well-made blade gifted to a friend says more than any words he could muster. He carries deep scars, both physical and emotional, from his near-death experience, and sometimes stares into flames for hours, lost in memory.
+Vruthvir is stoic and practical, a man who measures the world by what can be built and what must be destroyed. He speaks plainly and has no patience for flattery or deception. At the forge he is meticulous and patient; in battle he is terrifyingly efficient. He expresses affection through craftsmanship—a well-made blade gifted to a friend says more than any words he could muster. He carries deep scars, both physical and emotional, from his near-death experience, and sometimes stares into flames for hours, lost in memory.
 
 ### Motivation
 
-Hrothgar seeks to create a weapon worthy of Súrtr himself—a masterwork that will stand as his legacy long after his death. He believes that the fire of creation and the fire of destruction are the same flame, and that a true smith must understand both. The wounds from his battle with the stone giants never fully healed, and he knows his time as a warrior is limited, which drives him to work with increasing urgency.
+Vruthvir seeks to create a weapon worthy of Súrtr himself—a masterwork that will stand as his legacy long after his death. He believes that the fire of creation and the fire of destruction are the same flame, and that a true smith must understand both. The wounds from his battle with the stone giants never fully healed, and he knows his time as a warrior is limited, which drives him to work with increasing urgency.
 
 ### Strengths
 
-Hrothgar's smithing skill is legendary; weapons and armor from his forge are prized across the northern lands. His physical strength, even diminished by old wounds, surpasses most warriors in their prime. The warhammer he forged for the giant battle retains some of its enchantment, glowing faintly when enemies approach. His knowledge of metallurgy and fire-craft makes him invaluable in siege warfare and engineering.
+Vruthvir's smithing skill is legendary; weapons and armor from his forge are prized across the northern lands. His physical strength, even diminished by old wounds, surpasses most warriors in their prime. The warhammer he forged for the giant battle retains some of its enchantment, glowing faintly when enemies approach. His knowledge of metallurgy and fire-craft makes him invaluable in siege warfare and engineering.
 
 ## Social
 
@@ -396,20 +396,20 @@ Hrothgar's smithing skill is legendary; weapons and armor from his forge are pri
 
 ### Patrons
 
-**The Smiths' Brotherhood of Nordheim**—A guild of master craftsmen who revere Hrothgar as the finest smith of his generation. They provide him with rare materials and commissions.
+**The Smiths' Brotherhood of Nordheim**—A guild of master craftsmen who revere Vruthvir as the finest smith of his generation. They provide him with rare materials and commissions.
 
-**Jarl Thorvald Embersteel**—The same lord who patronizes Eldgrimr also values Hrothgar for his smithing; the jarl's household guard bears Hrothgar's arms and armor.
+**Jarl Thorvald Embersteel**—The same lord who patronizes Vrithorv also values Vruthvir for his smithing; the jarl's household guard bears Vruthvir's arms and armor.
 
 ### Enemies
 
-**The Stone Giant remnants**—Survivors of the army Hrothgar defeated have placed a blood price on his head. They send raiding parties to destroy his forge and everything he has built.
+**The Stone Giant remnants**—Survivors of the army Vruthvir defeated have placed a blood price on his head. They send raiding parties to destroy his forge and everything he has built.
 
-**Kolbjorn the Envious**—A rival blacksmith who has spread rumors that Hrothgar's work is enchanted through forbidden rituals rather than genuine skill, hoping to discredit him and steal his clients.
+**Kolbjorn the Envious**—A rival blacksmith who has spread rumors that Vruthvir's work is enchanted through forbidden rituals rather than genuine skill, hoping to discredit him and steal his clients.
 
 ## Plot Hooks
 
-1. **The Masterwork**—Hrothgar has located a vein of star-metal deep in giant territory that could allow him to forge his ultimate creation. He needs an escort to reach the deposit and protect him while he works.
+1. **The Masterwork**—Vruthvir has located a vein of star-metal deep in giant territory that could allow him to forge his ultimate creation. He needs an escort to reach the deposit and protect him while he works.
 
-2. **The Forge-Curse**—Someone has placed a curse on Hrothgar's forge, causing every weapon he creates to shatter within days. The culprit could be Kolbjorn, the stone giants, or something far more sinister.
+2. **The Forge-Curse**—Someone has placed a curse on Vruthvir's forge, causing every weapon he creates to shatter within days. The culprit could be Kolbjorn, the stone giants, or something far more sinister.
 
-3. **The Last Battle**—Hrothgar's old wounds are worsening, and a healer has told him he has months to live. He seeks one final battle worthy of a servant of Súrtr—a death in fire and glory rather than a slow fade.
+3. **The Last Battle**—Vruthvir's old wounds are worsening, and a healer has told him he has months to live. He seeks one final battle worthy of a servant of Súrtr—a death in fire and glory rather than a slow fade.

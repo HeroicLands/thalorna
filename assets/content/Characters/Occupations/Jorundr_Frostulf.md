@@ -1,10 +1,10 @@
 ---
 shortcode: jrndrfrstlf
 name:
-  full: Jörundr Frostulf
+  full: Hrundmýl Snarvarukh
   title: ""
-  given: Jörundr
-  clan: Frostulf
+  given: Hrundmýl
+  clan: Snarvarukh
   home: thrymstead
   aliases: []
 type: being
@@ -398,13 +398,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Jörundr Frostulf is a 51-year-old man who stands 6'0" tall and is broad and solidly built. He has a broad face with soft cheekbones, a narrow forehead, and a strong jaw that leads to a broad chin. His round green eyes sit beneath heavy brows and give him a candid gaze. He has a strong nose and narrow lips. He has fair skin with a fair complexion. His white hair is thick and unkempt.
+Hrundmýl Snarvarukh is a 51-year-old man who stands 6'0" tall and is broad and solidly built. He has a broad face with soft cheekbones, a narrow forehead, and a strong jaw that leads to a broad chin. His round green eyes sit beneath heavy brows and give him a candid gaze. He has a strong nose and narrow lips. He has fair skin with a fair complexion. His white hair is thick and unkempt.
 
 # Dossier {#dossier}
 
-Jörundr Frostulf is head gaoler of the king's prison at Knalthstead, the seat of [[affiliation-kngdmnrdhm|Nordheim]], a Nordman freeman who has spent thirty years inside its walls and now runs them.
+Hrundmýl Snarvarukh is head gaoler of the king's prison at Knalthstead, the seat of [[affiliation-kngdmnrdhm|Nordheim]], a Nordman freeman who has spent thirty years inside its walls and now runs them.
 
-Jörundr came to the prison as a young guard because the Tingward was hiring and the fjord was not. The prison holds men awaiting the king's judgment, men held for ransom between clans, and men whose kin outside would kill them given an hour's opportunity. His answer to all of it is the rules. Every man inside is fed the same, locked the same and treated the same, whatever his clan or his jarl, and every guard under him keeps to the same book or leaves. It is not a popular way to run a prison in a country where a jarl expects to be obliged, and it has kept the feuds of Nordheim outside the walls.
+Hrundmýl came to the prison as a young guard because the Tingward was hiring and the fjord was not. The prison holds men awaiting the king's judgment, men held for ransom between clans, and men whose kin outside would kill them given an hour's opportunity. His answer to all of it is the rules. Every man inside is fed the same, locked the same and treated the same, whatever his clan or his jarl, and every guard under him keeps to the same book or leaves. It is not a popular way to run a prison in a country where a jarl expects to be obliged, and it has kept the feuds of Nordheim outside the walls.
 
 He is a known figure among the gaolers of Nordheim.
 
@@ -412,11 +412,11 @@ He is a known figure among the gaolers of Nordheim.
 
 ### Personality
 
-Jörundr is stern, fair and immovable, and takes any suggestion that he bend the rules as an insult, which it usually is.
+Hrundmýl is stern, fair and immovable, and takes any suggestion that he bend the rules as an insult, which it usually is.
 
 ### Motivation
 
-Jörundr wants order inside his walls—the staff safe, the prisoners alive, the feuds outside—and he holds that the rules, kept for everyone, are the only thing that delivers it.
+Hrundmýl wants order inside his walls—the staff safe, the prisoners alive, the feuds outside—and he holds that the rules, kept for everyone, are the only thing that delivers it.
 
 ### Strengths
 
@@ -424,24 +424,24 @@ Experienced, authoritative, strong sense of duty.
 
 ## Social
 
-Jörundr holds his post under the Tingward, the _Tingvördr_, the sworn men who keep the ting-peace within Knalthstead's walls, and answers to the Sýslumadr, the king's reeve.
+Hrundmýl holds his post under the Tingward, the _Tingvördr_, the sworn men who keep the ting-peace within Knalthstead's walls, and answers to the Sýslumadr, the king's reeve.
 
 ## Companions
 
 ### Patrons
 
-Jörundr's patrons are the reeve at Knalthstead and the senior officers of the Tingward, who trust his judgment because it has never once been bought.
+Hrundmýl's patrons are the reeve at Knalthstead and the senior officers of the Tingward, who trust his judgment because it has never once been bought.
 
 ### Enemies
 
-Inmates who have been through his hands more than once; and a jarl of the fjord whose kinsman Jörundr will not release before the king has heard the case, whatever the jarl offers.
+Inmates who have been through his hands more than once; and a jarl of the fjord whose kinsman Hrundmýl will not release before the king has heard the case, whatever the jarl offers.
 
 ## Plot Hooks
 
-1. **The Jarl's Kinsman**—A jarl's nephew is inside for a killing, his clan is outside demanding him, and the dead man's clan is outside demanding him too. Jörundr will give him to nobody but the king.
+1. **The Jarl's Kinsman**—A jarl's nephew is inside for a killing, his clan is outside demanding him, and the dead man's clan is outside demanding him too. Hrundmýl will give him to nobody but the king.
 
-2. **New Methods**—The reeve has appointed a younger warden over the prison, a man with ideas about informers and separate cells, and told Jörundr to work under him.
+2. **New Methods**—The reeve has appointed a younger warden over the prison, a man with ideas about informers and separate cells, and told Hrundmýl to work under him.
 
-3. **The Freed Man**—A prisoner Jörundr held for five years and treated exactly like everyone else has come back to Knalthstead a rich man, and has asked to see him. He has not said why.
+3. **The Freed Man**—A prisoner Hrundmýl held for five years and treated exactly like everyone else has come back to Knalthstead a rich man, and has asked to see him. He has not said why.
 
-4. **The Ting**—With the clans assembled for the ting, a purse has reached Jörundr through his own steward: an hour's carelessness with one door on one night. He has not touched it and he knows which of his guards it came through.
+4. **The Ting**—With the clans assembled for the ting, a purse has reached Hrundmýl through his own steward: an hour's carelessness with one door on one night. He has not touched it and he knows which of his guards it came through.

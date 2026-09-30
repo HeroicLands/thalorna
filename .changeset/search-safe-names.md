@@ -24,10 +24,9 @@ reader nothing:
 | the rounded back vowel        | `ö`           | ǫ   |
 | long vowels                   | `á é í ó ú ý` | —   |
 
-So Óðinn is **Ódinn**, Þórr is **Thórr**, Skjaldmær is **Skjaldmaer**, and
-_seiðr_ is _seidr_. O-ogonek folds correctly but is missing from two of the three
-faces the system ships, so it becomes o-umlaut and stops falling back mid-word in
-sheet headers.
+So Óðinn is **Ódinn**, Þórr is **Thórr**, and _seiðr_ is _seidr_. O-ogonek folds
+correctly but is missing from two of the three faces the system ships, so it
+becomes o-umlaut and stops falling back mid-word in sheet headers.
 
 The northern assembly is the one word that does not take `th`: spelled that way
 it becomes _thing_, an ordinary English noun with some 2,800 uses already in the
@@ -35,10 +34,10 @@ tree, and the word would never be found again. It is the **ting**.
 
 Two names contradicted the tree rather than the rule, and follow it now —
 Asgarthul is **Asgardul**, since the element is `gard` in Asgard, Midgard,
-Valgard and Isgard; and Blóth is **Blód**, since blood is `blod` in Blodtusc and
-its own note calls it the Place of Blood-Sacrifice. Blóthöll keeps its `th`,
-which is a seam between two words rather than one sound, and Vithgard keeps its
-own — it was always plain ASCII and passes untouched.
+Tvalgard and Isgard; and Blóth is **Hörgsvangr**, since blood is `blod` in
+Blodtusc and its own note calls it the Place of Blood-Sacrifice. Blóthöll keeps
+its `th`, which is a seam between two words rather than one sound, and Vithgard
+keeps its own — it was always plain ASCII and passes untouched.
 
 Filenames were reduced by the same broken rule, which deleted what it could not
 decompose: Óðinn sat on disk as `Oinn.md` and Æthería as `theria.md`, a file that

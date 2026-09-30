@@ -1,9 +1,9 @@
 ---
 shortcode: thrdsdrtgr
 name:
-  full: Thórdís Dróttgar
+  full: Nilthselda Dróttgar
   title: ""
-  given: Thórdís
+  given: Nilthselda
   clan: Dróttgar
   home: skarholme
   aliases: []
@@ -402,15 +402,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Thórdís Dróttgar is a 34-year-old woman who stands 5'7" tall and is slender. She has an oval face with sharp cheekbones, a broad forehead, and a heavy jaw that leads to a broad chin. Her deep-set gray eyes sit beneath straight brows, lending her a watchful gaze. A broad nose and wide lips complete her features. She has fair skin with a weathered complexion. Her blonde hair is braided and coiled at the nape.
+Nilthselda Dróttgar is a 34-year-old woman who stands 5'7" tall and is slender. She has an oval face with sharp cheekbones, a broad forehead, and a heavy jaw that leads to a broad chin. Her deep-set gray eyes sit beneath straight brows, lending her a watchful gaze. A broad nose and wide lips complete her features. She has fair skin with a weathered complexion. Her blonde hair is braided and coiled at the nape.
 
 # Dossier {#dossier}
 
-Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Thórdís Dróttgar came into the world of the apothecary through a combination of circumstance and aptitude.
+Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Nilthselda Dróttgar came into the world of the apothecary through a combination of circumstance and aptitude.
 
-Thórdís grew up in a small village where her mother was a healer. She learned the basics of herbal medicine at an early age and later moved to the city to expand her knowledge and practice. She works out of a modest shop, providing simple remedies and salves for common ailments. Thórdís is passionate about treating the poor and often gives away medicines for free.
+Nilthselda grew up in a small village where her mother was a healer. She learned the basics of herbal medicine at an early age and later moved to the city to expand her knowledge and practice. She works out of a modest shop, providing simple remedies and salves for common ailments. Nilthselda is passionate about treating the poor and often gives away medicines for free.
 
-Now at 34 years of age, Thórdís Dróttgar has established herself as a known figure among the apothecarys of Nordheim. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 34 years of age, Nilthselda Dróttgar has established herself as a known figure among the apothecarys of Nordheim. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
 ## Psyche
 
@@ -420,7 +420,7 @@ Often overworks herself and struggles to turn away those in need, leading to fin
 
 ### Motivation
 
-Thórdís is driven by the desire to master her craft and secure a stable future. The uncertainties of life in apothecary work keep her vigilant and adaptable.
+Nilthselda is driven by the desire to master her craft and secure a stable future. The uncertainties of life in apothecary work keep her vigilant and adaptable.
 
 ### Strengths
 
@@ -428,15 +428,15 @@ Compassionate and highly skilled in natural remedies.
 
 ## Social
 
-Thórdís is affiliated with Independent healer.
+Nilthselda is affiliated with Independent healer.
 
-As a Nordheimn apothecary, Thórdís occupies a recognized social niche within Nordheim society.
+As a Nordheimn apothecary, Nilthselda occupies a recognized social niche within Nordheim society.
 
 ## Companions
 
 ### Patrons
 
-Thórdís's primary patron is Poor villagers and city laborers.. This relationship provides both opportunity and obligation.
+Nilthselda's primary patron is Poor villagers and city laborers.. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -444,12 +444,12 @@ None, though some apothecaries see her charity as competition.
 
 ## Plot Hooks
 
-1. **The Apothecary's Dilemma**—Thórdís faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Nordheim.
+1. **The Apothecary's Dilemma**—Nilthselda faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Nordheim.
 
 2. **Old Grudges**—None, though some apothecaries see her charity as competition. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Thórdís's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Nilthselda's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Nordheim threaten to upend the social order that Thórdís depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Nordheim threaten to upend the social order that Nilthselda depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Thórdís the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Nilthselda the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

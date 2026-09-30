@@ -1,9 +1,9 @@
 ---
 shortcode: gthrnslvrgr
 name:
-  full: Guthrún Sólvargr
+  full: Svulthýra Sólvargr
   title: ""
-  given: Guthrún
+  given: Svulthýra
   clan: Sólvargr
   home: greyfjord
   aliases: []
@@ -426,9 +426,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[gthrnslvrgr|Guthrún Sólvargr]]{float=top-left}
+![[gthrnslvrgr|Svulthýra Sólvargr]]{float=top-left}
 
-Guthrún stands 5'11" tall with a light build. She has light fair skin, brown hair, and green eyes. Her features include an angular face, a long nose, a strong jawline, a slightly downturned mouth, heavy brows, and flat cheeks. She has a tattoo of a skull on her upper arm.
+Svulthýra stands 5'11" tall with a light build. She has light fair skin, brown hair, and green eyes. Her features include an angular face, a long nose, a strong jawline, a slightly downturned mouth, heavy brows, and flat cheeks. She has a tattoo of a skull on her upper arm.
 
 # Dossier {#dossier}
 
@@ -436,21 +436,21 @@ Guthrún stands 5'11" tall with a light build. She has light fair skin, brown ha
 
 ### The Trapper's Daughter
 
-Guthrún was born in [[place-nordheim|Nordheim]]'s northern reaches to **Sólvi Sólvargr**, a trapper of wide fame whose knowledge of wilderness survival and animal behavior had no equal in three kingdoms. Her mother died bringing her into the world, and Sólvi raised his daughter in a solitary trapping settlement far from the comforts of civilization. He taught her not through formal instruction but through living—showing her how to read animal signs in snow and mud, how to construct traps that worked through understanding prey rather than brute force, how to harvest the creatures she caught with respect for the gift of their bodies.
+Svulthýra was born in [[place-nordheim|Nordheim]]'s northern reaches to **Sólvi Sólvargr**, a trapper of wide fame whose knowledge of wilderness survival and animal behavior had no equal in three kingdoms. Her mother died bringing her into the world, and Sólvi raised his daughter in a solitary trapping settlement far from the comforts of civilization. He taught her not through formal instruction but through living—showing her how to read animal signs in snow and mud, how to construct traps that worked through understanding prey rather than brute force, how to harvest the creatures she caught with respect for the gift of their bodies.
 
 ### The Inheritance of Knowledge
 
-At her twentieth year, during a harsh winter, Sólvi attempted to cross a frozen river while pursuing unusual game tracks and fell through ice that should have held his weight. Guthrún found his body downstream, and that same day inherited his trapping territory and the deep isolation that came with it. For the next decade, she became what her father had been—a solitary genius of the wilderness, a master whose traps and snares were sought by fur traders across three kingdoms. Her work stood apart because it was effective and because it showed a true knowledge of animal behavior. She never trapped more than necessary, never wasted what she took, and grew increasingly troubled by the ease with which she could kill.
+At her twentieth year, during a harsh winter, Sólvi attempted to cross a frozen river while pursuing unusual game tracks and fell through ice that should have held his weight. Svulthýra found his body downstream, and that same day inherited his trapping territory and the deep isolation that came with it. For the next decade, she became what her father had been—a solitary genius of the wilderness, a master whose traps and snares were sought by fur traders across three kingdoms. Her work stood apart because it was effective and because it showed a true knowledge of animal behavior. She never trapped more than necessary, never wasted what she took, and grew increasingly troubled by the ease with which she could kill.
 
 ### Present Searching
 
-At thirty years old, Guthrún stands at a crossroads of her own making. Her skills are in higher demand than ever—fur traders offer increasing wages, nobles contract her to oversee their estates, and wealthy merchants seek her knowledge of herbalism and wilderness lore. Yet she has begun to experience deep doubt about the morality of her work. The line between necessary harvesting and casual slaughter has blurred in her mind, and she finds herself setting fewer traps and spending longer periods simply moving through wild places, observing rather than taking. Her reputation remains stellar, but her heart has begun to rebel against the killing that sustains her.
+At thirty years old, Svulthýra stands at a crossroads of her own making. Her skills are in higher demand than ever—fur traders offer increasing wages, nobles contract her to oversee their estates, and wealthy merchants seek her knowledge of herbalism and wilderness lore. Yet she has begun to experience deep doubt about the morality of her work. The line between necessary harvesting and casual slaughter has blurred in her mind, and she finds herself setting fewer traps and spending longer periods simply moving through wild places, observing rather than taking. Her reputation remains stellar, but her heart has begun to rebel against the killing that sustains her.
 
 ## Psyche
 
 ### Personality
 
-Guthrún is a woman of few words who speaks only when there is need. In the wilderness, she becomes almost meditative—absorbed in the work with a depth that suggests her mind is on matters beyond ordinary concern. Civilization makes her visibly uncomfortable; she shifts her weight as though the ground is unstable and her eyes track exits and threats with predatory precision. Despite this apparent coldness, those who have worked with her closely recognize a surprising well of compassion and real care for other living beings.
+Svulthýra is a woman of few words who speaks only when there is need. In the wilderness, she becomes almost meditative—absorbed in the work with a depth that suggests her mind is on matters beyond ordinary concern. Civilization makes her visibly uncomfortable; she shifts her weight as though the ground is unstable and her eyes track exits and threats with predatory precision. Despite this apparent coldness, those who have worked with her closely recognize a surprising well of compassion and real care for other living beings.
 
 She holds an unusual code, forged in isolation and harsh necessity. She will kill an animal to survive or to prevent suffering, but regards casual violence as a spiritual transgression. This principle extends to human beings; she is capable of ruthless dispatch when truly threatened, but abhors killing for profit or convenience. Her tattoo—a skull—stands for her acceptance of mortality—a meditation on the truth that all life ends, not a glorification of death.
 
@@ -458,7 +458,7 @@ Her intellectual life is rich despite her outward simplicity. She is literate, t
 
 ### Motivation
 
-Guthrún seeks only to live with integrity in a world that grows increasingly disconnected from consequence. She wishes to practice her craft—trapping, tracking, wilderness survival—but only in ways that respect the web of life her father taught her is sacred. Increasingly, she finds herself drawn toward a larger purpose: becoming a guardian of wilderness places against those who would exploit them without understanding or respect. This motivation conflicts directly with her need for income and her reputation as a tool for fur traders and hunters. She feels trapped between the life she inherited and an emerging sense of calling toward something greater than herself.
+Svulthýra seeks only to live with integrity in a world that grows increasingly disconnected from consequence. She wishes to practice her craft—trapping, tracking, wilderness survival—but only in ways that respect the web of life her father taught her is sacred. Increasingly, she finds herself drawn toward a larger purpose: becoming a guardian of wilderness places against those who would exploit them without understanding or respect. This motivation conflicts directly with her need for income and her reputation as a tool for fur traders and hunters. She feels trapped between the life she inherited and an emerging sense of calling toward something greater than herself.
 
 ### Strengths
 
@@ -480,28 +480,28 @@ Guthrún seeks only to live with integrity in a world that grows increasingly di
 
 ### Patrons
 
-- **House Nordthorne**: A noble family that has maintained standing contracts with Guthrún for the finest furs and wilderness supplies; they pay well and respect her skill
-- **Harvin's Fur Trading Company**: The primary commercial outlet for Guthrún's work, run by an aging merchant named **Harvin Hvarnumakh** who has worked with her for over a decade and views her as indispensable
-- **Priest Aldwin of the Fréyr's Temple**: A spiritual authority who has taken interest in Guthrún's deepening moral philosophy and occasionally contracts her for wilderness-based spiritual retreats and teachings
+- **House Nordthorne**: A noble family that has maintained standing contracts with Svulthýra for the finest furs and wilderness supplies; they pay well and respect her skill
+- **Harvin's Fur Trading Company**: The primary commercial outlet for Svulthýra's work, run by an aging merchant named **Harvin Hvarnumakh** who has worked with her for over a decade and views her as indispensable
+- **Priest Aldwin of the Fréyr's Temple**: A spiritual authority who has taken interest in Svulthýra's deepening moral philosophy and occasionally contracts her for wilderness-based spiritual retreats and teachings
 
 ### Enemies
 
-- **The Blackpelt Poachers**: A criminal organization that kills game indiscriminately for quick profit; Guthrún actively interferes with their operations and has destroyed snares and traps to prevent their predatory harvesting
-- **Duke Hroarsson**: A noble of the neighboring realm who believes all wilderness should be exploited for maximum profit; he has openly declared his intention to destroy Guthrún's trapping territories and put hunting in Nordheim on a great and ruinous scale
-- **Merchant Jorvik the Merciless**: A fur trader who views Guthrún's recent reluctance to fulfill contracts as betrayal; he has begun spreading rumors that she has gone mad from isolation and is stealing from her patrons
+- **The Blackpelt Poachers**: A criminal organization that kills game indiscriminately for quick profit; Svulthýra actively interferes with their operations and has destroyed snares and traps to prevent their predatory harvesting
+- **Duke Hroarsson**: A noble of the neighboring realm who believes all wilderness should be exploited for maximum profit; he has openly declared his intention to destroy Svulthýra's trapping territories and put hunting in Nordheim on a great and ruinous scale
+- **Merchant Jorvik the Merciless**: A fur trader who views Svulthýra's recent reluctance to fulfill contracts as betrayal; he has begun spreading rumors that she has gone mad from isolation and is stealing from her patrons
 
 ### Affiliations
 
-- **The Fréyr's Circle**: An informal fellowship of individuals devoted to the fertility aspect of Fréyr and the preservation of natural abundance; Guthrún has recently begun attending their gatherings and exploring deeper spiritual connection
+- **The Fréyr's Circle**: An informal fellowship of individuals devoted to the fertility aspect of Fréyr and the preservation of natural abundance; Svulthýra has recently begun attending their gatherings and exploring deeper spiritual connection
 
 ## Plot Hooks
 
-1. **The Illegal Hunt**: Guthrún discovers that Duke Hroarsson has contracted poachers working under the command of Merchant Jorvik to slaughter entire herds of the rare silver elk—creatures that appear in Nordheim's territories only once per decade—in order to eliminate her competitive advantage and her trapping livelihood simultaneously. The slaughter is beginning, and Guthrún can respond with force, intervene covertly, or accept the loss as part of a changing world.
+1. **The Illegal Hunt**: Svulthýra discovers that Duke Hroarsson has contracted poachers working under the command of Merchant Jorvik to slaughter entire herds of the rare silver elk—creatures that appear in Nordheim's territories only once per decade—in order to eliminate her competitive advantage and her trapping livelihood simultaneously. The slaughter is beginning, and Svulthýra can respond with force, intervene covertly, or accept the loss as part of a changing world.
 
-2. **The Sacred Sanctuary**: A mysterious priestess of the old faith, representing an ancient order dedicated to preserving wild places, approaches Guthrún with a revelation: she is the reincarnation of the order's founder, a trapper of legend named **Sólvi the Wildborn** (her father's name is no coincidence). The order wishes to recruit her as a guardian of a hidden sanctuary—a place of extraordinary biodiversity and spiritual power that must be protected from exploitation. Accepting means abandoning her current life and dedicating herself entirely to this new purpose.
+2. **The Sacred Sanctuary**: A mysterious priestess of the old faith, representing an ancient order dedicated to preserving wild places, approaches Svulthýra with a revelation: she is the reincarnation of the order's founder, a trapper of legend named **Sólvi the Wildborn** (her father's name is no coincidence). The order wishes to recruit her as a guardian of a hidden sanctuary—a place of extraordinary biodiversity and spiritual power that must be protected from exploitation. Accepting means abandoning her current life and dedicating herself entirely to this new purpose.
 
-3. **The Fur Merchant's Fall**: Harvin Hvarnumakh, Guthrún's longtime patron, approaches her with a request born of desperation. His business is failing due to competition from Merchant Jorvik, and he has fallen into debt with dangerous people. He asks Guthrún to deliver an enormous, unsustainable harvest within a short timeframe—a request that directly contradicts her emerging conscience. He promises it will be the last time he asks, and that afterward, he will retire and allow Guthrún to pursue whatever path she chooses. To refuse is to abandon a man who has treated her fairly; to accept is to violate her conscience.
+3. **The Fur Merchant's Fall**: Harvin Hvarnumakh, Svulthýra's longtime patron, approaches her with a request born of desperation. His business is failing due to competition from Merchant Jorvik, and he has fallen into debt with dangerous people. He asks Svulthýra to deliver an enormous, unsustainable harvest within a short timeframe—a request that directly contradicts her emerging conscience. He promises it will be the last time he asks, and that afterward, he will retire and allow Svulthýra to pursue whatever path she chooses. To refuse is to abandon a man who has treated her fairly; to accept is to violate her conscience.
 
-4. **The Wounded Creature**: Guthrún discovers an injured creature—neither entirely wolf nor entirely human—caught in a trap of her own making in a remote forest valley. The creature possesses human intelligence and can speak, though its language is ancient and nearly forgotten. It bears marks suggesting it has been hunted for generations by those who view it as abomination. Freeing it and nursing it to health makes Guthrún an accomplice to whatever the creature is, but refusing to help the wounded violates everything her conscience has recently settled on.
+4. **The Wounded Creature**: Svulthýra discovers an injured creature—neither entirely wolf nor entirely human—caught in a trap of her own making in a remote forest valley. The creature possesses human intelligence and can speak, though its language is ancient and nearly forgotten. It bears marks suggesting it has been hunted for generations by those who view it as abomination. Freeing it and nursing it to health makes Svulthýra an accomplice to whatever the creature is, but refusing to help the wounded violates everything her conscience has recently settled on.
 
-5. **The Winter's Reckoning**: In the depths of a particularly harsh winter, food becomes scarce and the settlement nearest Guthrún's territory faces starvation. She is approached by the settlement's leaders with a desperate request: trap and kill every large animal she can, creating a meat store sufficient to see them through the remaining season. The request is legitimate, the need real, yet fulfilling it would require unsustainable harvesting that would take years to recover from. Guthrún has to weigh compassion toward her own kind in their need against the long stewardship of the wilderness she has come to revere.
+5. **The Winter's Reckoning**: In the depths of a particularly harsh winter, food becomes scarce and the settlement nearest Svulthýra's territory faces starvation. She is approached by the settlement's leaders with a desperate request: trap and kill every large animal she can, creating a meat store sufficient to see them through the remaining season. The request is legitimate, the need real, yet fulfilling it would require unsustainable harvesting that would take years to recover from. Svulthýra has to weigh compassion toward her own kind in their need against the long stewardship of the wilderness she has come to revere.
