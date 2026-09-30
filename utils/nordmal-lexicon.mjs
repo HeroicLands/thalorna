@@ -18,10 +18,12 @@
  *
  * **The note is the single source.** Every predicate here is derived from the
  * note's own tables at run time: the stems, the endings, the elements, the
- * place generics, the office suffixes, the kept words, the opening and closing
- * inventories, the consonant band and the syllable counts. Nothing is restated,
- * because a second copy of a rule drifts from the first the moment either is
- * edited, and the note is where a phonology is settled.
+ * place generics and their genitives, the office suffixes, the kept words, the
+ * opening and closing inventories, the consonant band and the syllable counts.
+ * The one rule whose material the note withholds is which names are a god's,
+ * and that is read from the concordance's deity rows. Nothing else is
+ * restated, because a second copy of a rule drifts from the first the moment
+ * either is edited, and the note is where a phonology is settled.
  *
  * Three checks.
  *
@@ -218,26 +220,37 @@ export function lexiconFrom(text) {
     }
 
     // § _Place names_ carries two tables. The generics tick their entry in the
-    // first column; the table of what may stand first ticks it in the second,
-    // and names in words the two sources no list can hold—a god's name and a
-    // founder's, which are resolved from the register and from the note's own
-    // given-name rule.
+    // first column and their genitive in the third; the table of what may
+    // stand first ticks it in the second, and names in words the two sources no
+    // list can hold—a god's name and a founder's, which are resolved from the
+    // register and from the note's own given-name rule.
     const generics = new Set();
+    const genitives = new Map();
     const placeFirst = new Set();
     let fromGod = false;
+    let fromGodWhole = false;
     let fromFounder = false;
     for (const cells of rows(section(text, "### Place names"))) {
         const head = ticked(cells[0] ?? "");
         if (head.length) {
-            for (const form of head) generics.add(form.replace(/^-/, "").toLowerCase());
+            const inflected = ticked(cells[2] ?? "").map((form) =>
+                form.replace(/^-/, "").toLowerCase(),
+            );
+            for (const form of head) {
+                const bare = form.replace(/^-/, "").toLowerCase();
+                generics.add(bare);
+                if (inflected.length) genitives.set(bare, inflected[0]);
+            }
             continue;
         }
-        // The god's row and the founder's row describe a source rather than
-        // listing a form, and the founder's row ticks the genitive markers. So
-        // neither row's tick marks are read as elements, which would otherwise
-        // put a bare `s` and a bare `a` in front of every generic.
+        // A god's row and the founder's row describe a source rather than
+        // listing a form, and each of the three ticks the genitive markers. So
+        // none of their tick marks is read as an element, which would otherwise
+        // put a bare `s` and a bare `a` in front of every generic. Two rows
+        // name a god, and the one that takes the name whole says so.
         if (/\bgod\b/.test(cells[0] ?? "")) {
-            fromGod = true;
+            if (/\bwhole\b/.test(cells[1] ?? "")) fromGodWhole = true;
+            else fromGod = true;
             continue;
         }
         if (/\bfounder\b/.test(cells[0] ?? "")) {
@@ -340,16 +353,20 @@ export function lexiconFrom(text) {
         opening,
         closing,
         generics,
+        genitives,
+        placeGenitive: new Set(genitives.values()),
         offices,
         kept,
         readerTongue,
         kin,
         placeFirst,
         fromGod,
+        fromGodWhole,
         fromFounder,
         // Filled from the register of the gods, which a language note is not
-        // where to settle. `withGods` puts it here.
+        // where to settle. `withGods` puts both here.
         godFirst: new Set(),
+        godWhole: new Set(),
         compoundEnds: new Set([...closing, ...generics]),
         standing,
         onsets,
@@ -449,26 +466,34 @@ export function decompose(word, rule, last) {
 }
 
 /**
- * The gods' names, resolved into the elements they lend a place.
+ * The gods' names, resolved into what they lend a place.
  *
- * The note states the rule—a place held from a god takes that god's name,
- * clipped to its first element—and says nothing about who the gods are,
- * because a language note is not where a pantheon is settled. The register is
+ * The note states two rules—a place held from a god takes that god's name
+ * clipped to its first element, and a place the god dwells on takes the name
+ * whole in the genitive—and says nothing about who the gods are, because a
+ * language note is not where a pantheon is settled. The register is
  * `utils/nordmal-concordance.json`, which the tree already keeps and another
  * packet already maintains, so this reads it rather than carrying a second
  * list that would drift from it.
  *
- * Every spelling of the element's row is admitted, since a row writes one
- * piece more than one way: Thrúnvald lends `thrún-` and `thrumu-` alike.
+ * Both rules are filled from the same rows, so the set of gods is one set. The
+ * clipped form admits every spelling of the element's row, since a row writes
+ * one piece more than one way: Thrúnvald lends `thrún-` and `thrumu-` alike.
+ * The whole form admits the name as the register writes it and nothing else,
+ * which is what keeps the genitive from reaching an arbitrary word: a name that
+ * no deity row carries is not a god's name, however it is spelled.
  *
  * @param {object} rule - The derived lexicon.
  * @param {object} table - The concordance.
- * @returns {object} The same rule, with the gods' openings filled in.
+ * @returns {object} The same rule, with the gods' clipped openings and whole
+ *   names filled in.
  */
 export function withGods(rule, table) {
-    if (!rule.fromGod) return rule;
+    if (!rule.fromGod && !rule.fromGodWhole) return rule;
     for (const entry of table.entries ?? []) {
         if (entry.subType !== "deity" || !entry.newName || /\s/.test(entry.newName)) continue;
+        if (rule.fromGodWhole) rule.godWhole.add(entry.newName.toLowerCase());
+        if (!rule.fromGod) continue;
         const pieces = decompose(entry.newName.toLowerCase(), rule, rule.compoundEnds);
         if (!pieces) continue;
         for (const spelling of rule.kin.get(pieces[0]) ?? [pieces[0]]) rule.godFirst.add(spelling);
@@ -577,7 +602,11 @@ export function judge(name, kind, rule) {
     }
 
     if (kind === "place") {
-        for (const generic of rule.generics) {
+        // A place name inflects on its generic, so the genitive of a place name
+        // is the same first element under the generic's own genitive form. Both
+        // endings answer to the same first-element rules, and a name-stem, a
+        // god's name and a founder's are what may stand in front of either.
+        for (const generic of [...rule.generics, ...rule.placeGenitive]) {
             if (!lower.endsWith(generic) || lower.length === generic.length) continue;
             const head = lower.slice(0, lower.length - generic.length);
             // Held from the ground alone: a name-stem, degeminating at the seam.
@@ -587,6 +616,14 @@ export function judge(name, kind, rule) {
             // Held from a god, from the ting and its law, from a sanctuary or
             // from the gods' world: the forms the note's own table names.
             if (rule.placeFirst.has(head) || rule.godFirst.has(head)) return [];
+            // Held from a god dwelling there: that god's whole name, in the
+            // genitive. The register settles which names are a god's, so no
+            // other word reaches this clause however it is spelled.
+            if (rule.fromGodWhole) {
+                for (const god of rule.godWhole) {
+                    if (head === `${god}s` || head === `${god}a`) return [];
+                }
+            }
             // Held from a founder: a lawful given name, with a genitive at the
             // seam or with none.
             if (rule.fromFounder) {
@@ -599,7 +636,7 @@ export function judge(name, kind, rule) {
                 }
             }
         }
-        const generic = [...rule.generics].find(
+        const generic = [...rule.generics, ...rule.placeGenitive].find(
             (end) => lower.endsWith(end) && lower.length > end.length,
         );
         return [
@@ -974,8 +1011,10 @@ function main() {
         `The rules are read off ${NOTE}: ${rule.stems.size} stem-forms, ` +
             `${rule.bestowal.size} bestowal endings, ${rule.ting.size} ting-endings, ` +
             `${rule.opening.size + rule.closing.size} elements, ${rule.generics.size} place generics, ` +
-            `${rule.offices.size} office suffixes, ${rule.kept.size} kept words. ` +
-            `A place may also be held from ${rule.godFirst.size} god-element(s) and ` +
+            `${rule.offices.size} office suffixes, ${rule.kept.size} kept words, ` +
+            `${rule.placeGenitive.size} generic genitive(s). ` +
+            `A place may also be held from ${rule.godFirst.size} god-element(s), ` +
+            `${rule.godWhole.size} whole god's name(s) in the genitive and ` +
             `${rule.placeFirst.size} named source(s), which ${CONCORDANCE} and the note's own table supply.`,
     );
     say(`Names read: ${list(byClass)}`);
