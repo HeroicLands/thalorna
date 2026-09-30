@@ -93,6 +93,62 @@ a `package:` key on a note is a hard build error, naming the file and the line.
 Do not add it back — not even with the value `thalorna`, which is refused
 exactly as any other is.
 
+## Deriving a shortcode from a name
+
+A shortcode is built from a note's `name.full` (or, for a note whose identity
+for addressing purposes is narrower than its display title — a deity's own
+name inside a "Faith of X" affiliation, a kenning that has become an order's
+working name — from that narrower identity instead). The steps:
+
+1. **Fold diacritics to plain Latin letters.** `Ódinn` folds to `Odinn`,
+   `Þórgeir` to `Thorgeir`, `Ærla` to `Aerla`; `þ`/`Þ` → `th`/`Th`, `ð`/`Ð` →
+   `d`/`D`, `æ`/`Æ` → `ae`/`Ae`, `œ`/`Œ` → `oe`/`Oe`, `ø`/`Ø` → `o`/`O`, `ß` →
+   `ss`.
+2. **Drop apostrophes**, straight or curly, closing the gap: `Tz'uma` folds to
+   `Tzuma`.
+3. **Split on spaces and hyphens**, and drop the bare articles and
+   prepositions — `the`, `of`, `a`, `an`, `and` — entirely; they contribute no
+   letters. `Order of Týr's Justice` keeps `Order`, `Tyrs` and `Justice` and
+   loses `of`.
+4. **Lowercase and join what is left.** If the result is twelve characters or
+   fewer, that is the shortcode.
+5. **Past twelve characters, compress each word**: keep its first letter
+   always, and drop enough of its non-initial `a`/`e`/`i`/`o`/`u` (`y` is
+   never a vowel here) to read as a skeleton of the word — collapsing a run of
+   the same letter to one as you go. Keep whichever vowels keep the result
+   sayable; two authors compressing the same name by hand do not always drop
+   exactly the same ones, and that is expected rather than a mistake to
+   correct. `Bjalfi Hrafnsvald` compresses to `bjlfhrfnsvld`; `Bjorg
+Drekanótt` compresses to `bjorgdrknt` — its first word was short enough to
+   need no compression of its own.
+6. **A note whose shortcode names what general kind of thing it is** — a
+   deity's own lore article, a totem, a rank or office, a people's culture
+   note, an administrative tier of a place — closes with a short tag for that
+   kind, folded through the same rule as any other word: a deity closes
+   `dty`, a totem `ttm`, a rank or office `rnk`, a culture `clt`. A place's
+   own administrative tier takes whatever term its setting uses for that
+   tier, folded the same way — `Region` closes `rgn`, and a setting with its
+   own word for the tier (a nome, a selat, a janapada) closes with that word's
+   fold instead. A settlement, a site, a feature or a structure closes with
+   nothing.
+7. **A shortcode that already names another note of the same type** is not
+   reused. Append the next integer starting at `2` (`3` if `2` is also taken,
+   and so on) to the whole shortcode.
+
+A shortcode is unique only within one `(package, system, type)` — a `being`,
+a `skill` and an `affiliation` may legally share one bare value, as the
+Asguardian deities do (`odinn` is the shortcode of both the faith and its
+ritual skill). What must never collide is two notes of the **same** type.
+
+**A note's filename follows the same source differently.** Where a shortcode
+drops articles, prepositions and (past the threshold) inner vowels, a
+filename keeps every word of the display title: fold diacritics, drop
+apostrophes, turn each run of spaces or hyphens into a single underscore, and
+keep the title's own capitalization. `Order of Týr's Justice` files as
+`Order_of_Tyrs_Justice.md`; `Bjalfi Hrafnsvald` files as
+`Bjalfi_Hrafnsvald.md`. Where a note sits in the directory tree is otherwise
+unconstrained — see "Notes are routed by frontmatter, not by location" above.
+
 **Mark anything unfinished with a `draft` tag.**
 
 ```yaml
