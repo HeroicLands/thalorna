@@ -15,43 +15,48 @@ data:
   governance:
     model: theocracy
     summary: >-
-      One ladder serves all ten faiths, and the rungs are the same words in every hof: the Blótmadr at the blót, the Godi or Gydja over a hall, the Hofgodi over a named hof, the Höfudgodi over one kingdom's faithful, and the Landsgodi over the whole pantheon at the ting island. Eidgar's hofs stand where tings sit, so his Hofgodar keep the oath-rings as well as the rites and are asked to witness more often than to preach.
+      A ladder of circles, rising from the young Thraell through the working Godi or Gydja to the senior ranks of Jarl and Konungr and the pontifical offices of the Allsherjargodi and the Fadir or Módir of the god. The titles are this faith's own; the pattern is the pantheon's. Circle II is unlisted in the sources.
     ranks:
       - level: 0
         title: Nídingr
         lore: excmmnctrnk
         description: >-
           Declared nithing—cut off from the faith and from the standing that being of it conferred. No hall will seat them and no godi will speak for them.
-      - level: 2
-        title: Blótmadr
-        lore: layfaithfulrnk
+      - level: 1
+        title: Dómr Thraell
+        lore: initiaternk
         description: >-
-          One who attends the blót, which is the standing most of the faithful hold for life. A blót not attended is a blót not accomplished, so the Blótmadr is part of the rite rather than its audience.
+          "Judgment Thrall"—Justice Acolyte. The god's thrall: taken into the temple young, given the observances and the labor, and years away from the priesthood.
       - level: 3
-        title: Godi / Gydja
+        title: Rétt Godi/Gode
         lore: priestrnk
         description: >-
-          The working priest or priestess—Godi for a man, Gydja for a woman—who keeps the rites of a hall and the people who gather at it.
-      - level: 5
-        title: Hofgodi
-        lore: officerrnk
+          "Justice Priest/Priestess"—Justice Priest/Priestess. The working priest or priestess—Godi for a man, Gydja for a woman—who keeps the rites of a hall and the people who gather at it.
+      - level: 4
+        title: Dýrr Hersir
+        lore: commanderrnk
         description: >-
-          Keeper of a named hof, answerable for its stores, its blót and the households that bring their offerings to it.
-      - level: 6
-        title: Höfudgodi
+          "Valiant Warlord"—Valor Herald. A warlord of the faith, carrying its authority where it must be carried by force or by presence.
+      - level: 5
+        title: Lög Jarl
         lore: greatlordrnk
         description: >-
-          Head of the faith within one kingdom, seated among that kingdom's jarls and reckoned a jarl of the faith.
+          "Law Jarl"—Warden of Law. A senior rank carrying temporal weight as well as spiritual; in many kingdoms a Jarl of a faith sits among the jarls of the land.
+      - level: 6
+        title: Dómskonungr/Konungrkvinde
+        lore: sovereignrnk
+        description: >-
+          "Law King/Queen"—Lawbringer. King or queen within the faith's own hierarchy, and in some kingdoms a power the crown must reckon with.
       - level: 7
-        title: Landsgodi
+        title: Týr Allsherjargodi
         lore: highpriestrnk
         description: >-
-          Priest of the land, who hallows the ting island and speaks for the Ten where they must speak with one voice. One man holds it, for the whole pantheon and not for one faith.
+          "Týr High Priest"—Honorable Lord. High priest—a pontifical office, speaking for the faith where it must speak with one voice.
       - level: 8
-        title: Hofsfadir / Hofsmódir
+        title: Sverd Fadir/Módir
         lore: grandmasterrnk
         description: >-
-          Father or mother of a hof: the honorific its founder keeps for life, and the highest standing the faith confers.
+          "Father/Mother of the Sword"—Pontiff of the Sword. Father or Mother of the god: the highest pontifical office, held by one person at a time.
     offices:
       Hofsfadir / Hofsmódir: >-
         Founder of a hof, honored as its father or mother for life.
@@ -103,7 +108,13 @@ Temples dedicated to Eidgar serve as places of law and order, where disputes are
 
 ## Clergy
 
-Eidgar's priests climb the pantheon's one ladder, and his hofs stand where tings sit, so a Godi of his is asked to witness far more often than to preach. The Hofgodi keeps the oath-rings, and a ruling sworn on them is held harder than one sworn anywhere else.
+- **Dómr Thraell** ("Judgment Thrall")—Justice Acolyte
+- **Rétt Godi/Gode** ("Justice Priest/Priestess")—Justice Priest/Priestess
+- **Dýrr Hersir** ("Valiant Warlord")—Valor Herald
+- **Lög Jarl** ("Law Jarl")—Warden of Law
+- **Dómskonungr/Konungrkvinde** ("Law King/Queen")—Lawbringer
+- **Týr Allsherjargodi** ("Týr High Priest")—Honorable Lord
+- **Sverd Fadir/Módir** ("Father/Mother of the Sword")—Pontiff of the Sword
 
 **Key Skills:** Legal knowledge and judgment, Combat and strategy, Oathbinding and mediation, Sacrifice and self-discipline
 

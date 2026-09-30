@@ -15,43 +15,23 @@ data:
   governance:
     model: council
     summary: >-
-      One ladder serves all ten faiths, and the rungs are the same words in every hof: the Blótmadr at the blót, the Godi or Gydja over a hall, the Hofgodi over a named hof, the Höfudgodi over one kingdom's faithful, and the Landsgodi over the whole pantheon at the ting island. Hrímthur's faithful fill the lower rungs and leave the upper ones empty: Holafell keeps its Hofgodi, no kingdom has named a Höfudgodi of his, and the scattered factions that do the faith's work answer to nobody at all.
+      No formal hierarchy and no structured organization: scattered factions, each attached to a different aspect of Ymir's work, operating independently and united only by admiration of his creative genius. What roles exist are informal, fluid, and claimed rather than conferred.
     ranks:
       - level: 0
-        title: Nídingr
-        lore: excmmnctrnk
+        title: Discarded
+        lore: expelledrnk
         description: >-
-          Declared nithing—cut off from the faith and from the standing that being of it conferred. No hall will seat them and no godi will speak for them.
-      - level: 2
-        title: Blótmadr
+          Put out by a faction—which, since there is no hierarchy to appeal to and no other body that recognizes the judgment, means only that this faction is finished with them.
+      - level: 1
+        title: Admirer
         lore: layfaithfulrnk
         description: >-
-          One who attends the blót, which is the standing most of the faithful hold for life. A blót not attended is a blót not accomplished, so the Blótmadr is part of the rite rather than its audience.
-      - level: 3
-        title: Godi / Gydja
-        lore: priestrnk
+          Holds Ymir's work in awe without attaching to any faction. There is no rite of entry, because there is nothing to enter.
+      - level: 2
+        title: Adherent
+        lore: professedrnk
         description: >-
-          The working priest or priestess—Godi for a man, Gydja for a woman—who keeps the rites of a hall and the people who gather at it.
-      - level: 5
-        title: Hofgodi
-        lore: officerrnk
-        description: >-
-          Keeper of a named hof, answerable for its stores, its blót and the households that bring their offerings to it.
-      - level: 6
-        title: Höfudgodi
-        lore: greatlordrnk
-        description: >-
-          Head of the faith within one kingdom, seated among that kingdom's jarls and reckoned a jarl of the faith.
-      - level: 7
-        title: Landsgodi
-        lore: highpriestrnk
-        description: >-
-          Priest of the land, who hallows the ting island and speaks for the Ten where they must speak with one voice. One man holds it, for the whole pantheon and not for one faith.
-      - level: 8
-        title: Hofsfadir / Hofsmódir
-        lore: grandmasterrnk
-        description: >-
-          Father or mother of a hof: the honorific its founder keeps for life, and the highest standing the faith confers.
+          Attached to one of the scattered factions and doing its work. Standing within a faction is a matter of what a person has made or understood, and is claimed rather than conferred.
     offices:
       Hofsfadir / Hofsmódir: >-
         Founder of a hof, honored as its father or mother for life.

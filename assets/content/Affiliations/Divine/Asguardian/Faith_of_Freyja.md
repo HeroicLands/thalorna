@@ -15,43 +15,48 @@ data:
   governance:
     model: theocracy
     summary: >-
-      One ladder serves all ten faiths, and the rungs are the same words in every hof: the Blótmadr at the blót, the Godi or Gydja over a hall, the Hofgodi over a named hof, the Höfudgodi over one kingdom's faithful, and the Landsgodi over the whole pantheon at the ting island. Sólrún's hofs are feast-halls where gold is given away, so her Hofgodar are judged by what has left the hall and not by what is kept in it.
+      A ladder of circles, rising from the young Thraell through the working Godi or Gydja to the senior ranks of Jarl and Konungr and the pontifical offices of the Allsherjargodi and the Fadir or Módir of the god. The titles are this faith's own; the pattern is the pantheon's. Circle II is unlisted in the sources.
     ranks:
       - level: 0
         title: Nídingr
         lore: excmmnctrnk
         description: >-
           Declared nithing—cut off from the faith and from the standing that being of it conferred. No hall will seat them and no godi will speak for them.
-      - level: 2
-        title: Blótmadr
-        lore: layfaithfulrnk
+      - level: 1
+        title: Gull Thraell
+        lore: initiaternk
         description: >-
-          One who attends the blót, which is the standing most of the faithful hold for life. A blót not attended is a blót not accomplished, so the Blótmadr is part of the rite rather than its audience.
+          "Golden Thrall"—Silk Acolyte. The god's thrall: taken into the temple young, given the observances and the labor, and years away from the priesthood.
       - level: 3
-        title: Godi / Gydja
+        title: Fegurd Godi/Gode
         lore: priestrnk
         description: >-
-          The working priest or priestess—Godi for a man, Gydja for a woman—who keeps the rites of a hall and the people who gather at it.
-      - level: 5
-        title: Hofgodi
-        lore: officerrnk
+          "Beauty Priest/Priestess"—Priest/Priestess of Charm. The working priest or priestess—Godi for a man, Gydja for a woman—who keeps the rites of a hall and the people who gather at it.
+      - level: 4
+        title: Fágr Hersir
+        lore: commanderrnk
         description: >-
-          Keeper of a named hof, answerable for its stores, its blót and the households that bring their offerings to it.
-      - level: 6
-        title: Höfudgodi
+          "Fair Warlord"—Gilded Voice. A warlord of the faith, carrying its authority where it must be carried by force or by presence.
+      - level: 5
+        title: Gull Jarl
         lore: greatlordrnk
         description: >-
-          Head of the faith within one kingdom, seated among that kingdom's jarls and reckoned a jarl of the faith.
+          "Gold Jarl"—Guardian of Prosperity. A senior rank carrying temporal weight as well as spiritual; in many kingdoms a Jarl of a faith sits among the jarls of the land.
+      - level: 6
+        title: Frídr Konungrkvinde
+        lore: sovereignrnk
+        description: >-
+          "Fair Queen"—Golden Sovereign. King or queen within the faith's own hierarchy, and in some kingdoms a power the crown must reckon with.
       - level: 7
-        title: Landsgodi
+        title: Sefja Allsherjargodi
         lore: highpriestrnk
         description: >-
-          Priest of the land, who hallows the ting island and speaks for the Ten where they must speak with one voice. One man holds it, for the whole pantheon and not for one faith.
+          "Charming High Priest"—High Enchantress. High priest—a pontifical office, speaking for the faith where it must speak with one voice.
       - level: 8
-        title: Hofsfadir / Hofsmódir
+        title: Frídr Módir
         lore: grandmasterrnk
         description: >-
-          Father or mother of a hof: the honorific its founder keeps for life, and the highest standing the faith confers.
+          "Mother of Beauty"—Pontiff of the Golden Veil. Father or Mother of the god: the highest pontifical office, held by one person at a time.
     offices:
       Hofsfadir / Hofsmódir: >-
         Founder of a hof, honored as its father or mother for life.
@@ -100,7 +105,15 @@ Sólrún is depicted as a radiant and sensual goddess, her beauty unparalleled a
 
 ## Clergy
 
-Sólrún's priests climb the pantheon's one ladder, and her hofs are feast-halls where gold is given away, so a Hofgodi of hers is judged by what has left the hall. Above the Godi the rungs are closed to men: a Hofgodi, a Höfudgodi and a Hofsmódir of hers are women, and the custom has never been tested.
+The higher levels of clergy, Circle V and above, are only accessible to females.
+
+- **Gull Thraell** (Circle I: "Golden Thrall")—Silk Acolyte
+- **Fegurd Godi/Gode** (Circle III: "Beauty Priest/Priestess")—Priest/Priestess of Charm
+- **Fágr Hersir** (Circle IV: "Fair Warlord")—Gilded Voice
+- **Gull Jarl** (Circle V: "Gold Jarl")—Guardian of Prosperity
+- **Frídr Konungrkvinde** (Circle VI: "Fair Queen")—Golden Sovereign
+- **Sefja Allsherjargodi** (Circle VII: "Charming High Priest")—High Enchantress
+- **Frídr Módir** (Circle VIII: "Mother of Beauty")—Pontiff of the Golden Veil
 
 **Key Skills:** Seduction and charm, Mercantilism, Mathematics
 

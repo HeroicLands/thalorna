@@ -14,43 +14,23 @@ data:
   governance:
     model: council
     summary: >-
-      One ladder serves all ten faiths, and the rungs are the same words in every hof: the Blótmadr at the blót, the Godi or Gydja over a hall, the Hofgodi over a named hof, the Höfudgodi over one kingdom's faithful, and the Landsgodi over the whole pantheon at the ting island. Bjartr's clergy hold those rungs under the Sinalëan names the faith took from the elder races—a Godi of his is a Calathir—and what a Höfudgodi decides elsewhere the open Lómëthar decides here.
+      Alone among the Asguardian faiths, Baldr's adherents took the Sinalëan structure rather than the circles—and it is barely a hierarchy at all. There are two standings and no office above them: all Calathiri are equal, and the Lómëthar that decides anything affecting the faith is an open convocation with no presiding officer, reaching accord by deliberation rather than decree.
     ranks:
       - level: 0
         title: Nídingr
         lore: excmmnctrnk
         description: >-
-          Declared nithing—cut off from the faith and from the standing that being of it conferred. No hall will seat them and no godi will speak for them.
-      - level: 2
-        title: Blótmadr
-        lore: layfaithfulrnk
+          Cut off from the faith. Rare here, and reached by the same open deliberation as everything else, which makes it slower and harder to reverse than a decree would be.
+      - level: 1
+        title: Tindësar
+        lore: initiaternk
         description: >-
-          One who attends the blót, which is the standing most of the faithful hold for life. A blót not attended is a blót not accomplished, so the Blótmadr is part of the rite rather than its audience.
-      - level: 3
-        title: Godi / Gydja
+          "Star-seeker"—newly called, learning dream-reading, healing and the tending of sacred groves under a Calathir, in a relationship closer to apprentice and mentor than to subordinate and superior.
+      - level: 2
+        title: Calathir
         lore: priestrnk
         description: >-
-          The working priest or priestess—Godi for a man, Gydja for a woman—who keeps the rites of a hall and the people who gather at it.
-      - level: 5
-        title: Hofgodi
-        lore: officerrnk
-        description: >-
-          Keeper of a named hof, answerable for its stores, its blót and the households that bring their offerings to it.
-      - level: 6
-        title: Höfudgodi
-        lore: greatlordrnk
-        description: >-
-          Head of the faith within one kingdom, seated among that kingdom's jarls and reckoned a jarl of the faith.
-      - level: 7
-        title: Landsgodi
-        lore: highpriestrnk
-        description: >-
-          Priest of the land, who hallows the ting island and speaks for the Ten where they must speak with one voice. One man holds it, for the whole pantheon and not for one faith.
-      - level: 8
-        title: Hofsfadir / Hofsmódir
-        lore: grandmasterrnk
-        description: >-
-          Father or mother of a hof: the honorific its founder keeps for life, and the highest standing the faith confers.
+          "Light-watcher"—entrusted with the rites, the care of the faithful and the stewardship of sacred places. All Calathiri are equal in standing, and there is nothing above this.
     offices:
       Hofsfadir / Hofsmódir: >-
         Founder of a hof, honored as its father or mother for life.
@@ -104,7 +84,7 @@ Bjartr is often depicted with an aura of radiant light, serene and filled with b
 
 ## Clergy
 
-Bjartr's adherents hold the pantheon's rungs under the Sinalëan names the faith took from the elder races—a Godi of his is a Calathir, and a Tindësar learns under one. See [[lore-goddreams|The Sinalëan Tradition]] for those standings and for the Lómëthar convocation, which settles here what a Höfudgodi settles in every other faith.
+Human adherents of Bjartr have adopted the Sinalëan clergy structure—the only Asguardian faith to do so. See [[lore-goddreams|The Sinalëan Tradition]] for the full structure (Tindësar, Calathir, and the Lómëthar convocation).
 
 **Key Skills:** Dream interpretation, Archery, Survival, Tracking, Trance, Communication with elder races, Prophecy
 

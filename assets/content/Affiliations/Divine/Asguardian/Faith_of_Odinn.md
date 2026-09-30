@@ -15,43 +15,48 @@ data:
   governance:
     model: theocracy
     summary: >-
-      One ladder serves all ten faiths, and the rungs are the same words in every hof: the Blótmadr at the blót, the Godi or Gydja over a hall, the Hofgodi over a named hof, the Höfudgodi over one kingdom's faithful, and the Landsgodi over the whole pantheon at the ting island. Ódvar's Hofgodar are rune-keepers first, and a hof of his is judged by what its Godi can recite from memory.
+      A ladder of circles, rising from the young Thraell through the working Godi or Gydja to the senior ranks of Jarl and Konungr and the pontifical offices of the Allsherjargodi and the Fadir or Módir of the god. The titles are this faith's own; the pattern is the pantheon's. Circle II is unlisted in the sources.
     ranks:
       - level: 0
         title: Nídingr
         lore: excmmnctrnk
         description: >-
           Declared nithing—cut off from the faith and from the standing that being of it conferred. No hall will seat them and no godi will speak for them.
-      - level: 2
-        title: Blótmadr
-        lore: layfaithfulrnk
+      - level: 1
+        title: Hrafn Thraell
+        lore: initiaternk
         description: >-
-          One who attends the blót, which is the standing most of the faithful hold for life. A blót not attended is a blót not accomplished, so the Blótmadr is part of the rite rather than its audience.
+          "Raven Thrall"—Raven Acolyte. The god's thrall: taken into the temple young, given the observances and the labor, and years away from the priesthood.
       - level: 3
-        title: Godi / Gydja
+        title: Rún Godi/Gode
         lore: priestrnk
         description: >-
-          The working priest or priestess—Godi for a man, Gydja for a woman—who keeps the rites of a hall and the people who gather at it.
-      - level: 5
-        title: Hofgodi
-        lore: officerrnk
+          "Rune Priest/Priestess"—Rune Priest/Priestess. The working priest or priestess—Godi for a man, Gydja for a woman—who keeps the rites of a hall and the people who gather at it.
+      - level: 4
+        title: Vitki Hersir
+        lore: commanderrnk
         description: >-
-          Keeper of a named hof, answerable for its stores, its blót and the households that bring their offerings to it.
-      - level: 6
-        title: Höfudgodi
+          "Sage Warlord"—Wisdom Herald. A warlord of the faith, carrying its authority where it must be carried by force or by presence.
+      - level: 5
+        title: Rún Jarl
         lore: greatlordrnk
         description: >-
-          Head of the faith within one kingdom, seated among that kingdom's jarls and reckoned a jarl of the faith.
+          "Rune Jarl"—Guardian of the Runes. A senior rank carrying temporal weight as well as spiritual; in many kingdoms a Jarl of a faith sits among the jarls of the land.
+      - level: 6
+        title: Rún Konungr/Konungrkvinde
+        lore: sovereignrnk
+        description: >-
+          "Rune King/Queen"—Runebringer. King or queen within the faith's own hierarchy, and in some kingdoms a power the crown must reckon with.
       - level: 7
-        title: Landsgodi
+        title: Vitki Allsherjargodi
         lore: highpriestrnk
         description: >-
-          Priest of the land, who hallows the ting island and speaks for the Ten where they must speak with one voice. One man holds it, for the whole pantheon and not for one faith.
+          "Sage High Priest"—Elder Seer. High priest—a pontifical office, speaking for the faith where it must speak with one voice.
       - level: 8
-        title: Hofsfadir / Hofsmódir
+        title: Ódinn Fadir/Módir
         lore: grandmasterrnk
         description: >-
-          Father or mother of a hof: the honorific its founder keeps for life, and the highest standing the faith confers.
+          "Father/Mother of Ódinn"—Pontiff of the Enlightened. Father or Mother of the god: the highest pontifical office, held by one person at a time.
     offices:
       Hofsfadir / Hofsmódir: >-
         Founder of a hof, honored as its father or mother for life.
@@ -101,7 +106,13 @@ In artistic depictions, Ódvar is often shown holding a spear, Skjálfgeir, whic
 
 ## Clergy
 
-Ódvar's priests climb the pantheon's one ladder, and rune-lore decides where a man stops on it: a Godi who cannot recite is given no hof of his own. The Hofgodi of a rune-hall is consulted on matters that have nothing to do with the god, and the faith encourages the habit.
+- **Hrafn Thraell** (Circle I: "Raven Thrall")—Raven Acolyte
+- **Rún Godi/Gode** (Circle III: "Rune Priest/Priestess")—Rune Priest/Priestess
+- **Vitki Hersir** (Circle IV: "Sage Warlord")—Wisdom Herald
+- **Rún Jarl** (Circle V: "Rune Jarl")—Guardian of the Runes
+- **Rún Konungr/Konungrkvinde** (Circle VI: "Rune King/Queen")—Runebringer
+- **Vitki Allsherjargodi** (Circle VII: "Sage High Priest")—Elder Seer
+- **Ódinn Fadir/Módir** (Circle VIII: "Father/Mother of Ódinn")—Pontiff of the Enlightened
 
 **Key Skills:** Rune casting and divination, Shamanic journeying, Poetic inspiration and storytelling, Battle wisdom and strategic insight, Intrigue and Politics, Arcane arts
 

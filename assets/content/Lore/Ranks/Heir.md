@@ -15,4 +15,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-4 bodies in Thalorna name this standing, at level 7 of their ladders, and each spells it in its own words: **Konungsaett**, **Royalty**, **Zhëklüng**, **Heir**.
+4 bodies in Thalorna name this standing, at level 7 of their ladders, and each spells it in its own words: **Royal Kin**, **Royalty**, **Zhëklüng**, **Heir**.

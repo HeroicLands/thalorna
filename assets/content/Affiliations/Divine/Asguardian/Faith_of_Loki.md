@@ -15,43 +15,48 @@ data:
   governance:
     model: theocracy
     summary: >-
-      One ladder serves all ten faiths, and the rungs are the same words in every hof: the Blótmadr at the blót, the Godi or Gydja over a hall, the Hofgodi over a named hof, the Höfudgodi over one kingdom's faithful, and the Landsgodi over the whole pantheon at the ting island. Vélgrímr's hofs keep no roll, so a Hofgodi of his is known to his own people and to nobody else, and the rung is claimed as often as it is conferred.
+      A ladder of circles, rising from the young Thraell through the working Godi or Gydja to the senior ranks of Jarl and Konungr and the pontifical offices of the Allsherjargodi and the Fadir or Módir of the god. The titles are this faith's own; the pattern is the pantheon's. Circle II is unlisted in the sources.
     ranks:
       - level: 0
         title: Nídingr
         lore: excmmnctrnk
         description: >-
           Declared nithing—cut off from the faith and from the standing that being of it conferred. No hall will seat them and no godi will speak for them.
-      - level: 2
-        title: Blótmadr
-        lore: layfaithfulrnk
+      - level: 1
+        title: Skuggi Thraell
+        lore: initiaternk
         description: >-
-          One who attends the blót, which is the standing most of the faithful hold for life. A blót not attended is a blót not accomplished, so the Blótmadr is part of the rite rather than its audience.
+          "Shadow Thrall"—Shade Acolyte. The god's thrall: taken into the temple young, given the observances and the labor, and years away from the priesthood.
       - level: 3
-        title: Godi / Gydja
+        title: Svik Godi/Gode
         lore: priestrnk
         description: >-
-          The working priest or priestess—Godi for a man, Gydja for a woman—who keeps the rites of a hall and the people who gather at it.
-      - level: 5
-        title: Hofgodi
-        lore: officerrnk
+          "Deception Priest/Priestess"—Priest/Priestess of the Veil. The working priest or priestess—Godi for a man, Gydja for a woman—who keeps the rites of a hall and the people who gather at it.
+      - level: 4
+        title: Ormr Hersir
+        lore: commanderrnk
         description: >-
-          Keeper of a named hof, answerable for its stores, its blót and the households that bring their offerings to it.
-      - level: 6
-        title: Höfudgodi
+          "Serpent Warlord"—Whispering Serpent. A warlord of the faith, carrying its authority where it must be carried by force or by presence.
+      - level: 5
+        title: Skuggi Jarl
         lore: greatlordrnk
         description: >-
-          Head of the faith within one kingdom, seated among that kingdom's jarls and reckoned a jarl of the faith.
+          "Shadow Jarl"—Shadowbinder. A senior rank carrying temporal weight as well as spiritual; in many kingdoms a Jarl of a faith sits among the jarls of the land.
+      - level: 6
+        title: Rád Konungr/Konungrkvinde
+        lore: sovereignrnk
+        description: >-
+          "Ruse King/Queen"—Veilmaster. King or queen within the faith's own hierarchy, and in some kingdoms a power the crown must reckon with.
       - level: 7
-        title: Landsgodi
+        title: Skáld Allsherjargodi
         lore: highpriestrnk
         description: >-
-          Priest of the land, who hallows the ting island and speaks for the Ten where they must speak with one voice. One man holds it, for the whole pantheon and not for one faith.
+          "Trickster High Priest"—Serpent of the Shadows. High priest—a pontifical office, speaking for the faith where it must speak with one voice.
       - level: 8
-        title: Hofsfadir / Hofsmódir
+        title: Ormr Fadir/Módir
         lore: grandmasterrnk
         description: >-
-          Father or mother of a hof: the honorific its founder keeps for life, and the highest standing the faith confers.
+          "Father/Mother of Serpents"—Pontiff of the Shifting Veil. Father or Mother of the god: the highest pontifical office, held by one person at a time.
     offices:
       Hofsfadir / Hofsmódir: >-
         Founder of a hof, honored as its father or mother for life.
@@ -100,7 +105,13 @@ Vélgrímr is depicted as a charismatic and enigmatic figure, his expression alw
 
 ## Clergy
 
-Vélgrímr's clergy climb the pantheon's one ladder and keep no roll of who stands where. A Hofgodi of his holds a hof disguised as something else, and the rung is claimed as often as it is conferred—which the faith takes for the point rather than the failing.
+- **Skuggi Thraell** (Circle I: "Shadow Thrall")—Shade Acolyte
+- **Svik Godi/Gode** (Circle III: "Deception Priest/Priestess")—Priest/Priestess of the Veil
+- **Ormr Hersir** (Circle IV: "Serpent Warlord")—Whispering Serpent
+- **Skuggi Jarl** (Circle V: "Shadow Jarl")—Shadowbinder
+- **Rád Konungr/Konungrkvinde** (Circle VI: "Ruse King/Queen")—Veilmaster
+- **Skáld Allsherjargodi** (Circle VII: "Trickster High Priest")—Serpent of the Shadows
+- **Ormr Fadir/Módir** (Circle VIII: "Father/Mother of Serpents")—Pontiff of the Shifting Veil
 
 **Key Skills:** Disguise and infiltration, Espionage and subterfuge, Manipulation and persuasion, Alchemy and Herbalism (Poisons), Intrigue, Stealth
 

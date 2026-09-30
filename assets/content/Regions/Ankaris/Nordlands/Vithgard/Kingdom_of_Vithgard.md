@@ -34,12 +34,12 @@ data:
         description: >-
           A free farmer holding his own land, bearing arms, and speaking at the ting in his own name.
       - level: 4
-        title: Ódalmadr
+        title: Hauldr
         lore: yeomanrnk
         description: >-
           A bóndi whose kin have held their odal land for generations, ranking first among the free farmers and weightiest in the assembly.
       - level: 5
-        title: Hersvald
+        title: Hersir
         lore: landedlordrnk
         description: >-
           A local chieftain who leads the men of a district in war and speaks for them in peace, holding by their consent rather than by grant.
@@ -47,9 +47,9 @@ data:
         title: Jarl
         lore: greatlordrnk
         description: >-
-          Holding a province of the king, commanding the Hersvald of each of its districts, and taking a share of its dues in return for keeping its peace.
+          Holding a province of the king, commanding its hersar, and taking a share of its dues in return for keeping its peace.
       - level: 7
-        title: Konungsaett
+        title: Royal Kin
         lore: heirrnk
         description: >-
           Of the royal line by blood or marriage, eligible to be acclaimed king but holding no crown.

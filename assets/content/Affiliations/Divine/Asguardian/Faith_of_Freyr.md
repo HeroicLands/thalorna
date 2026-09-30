@@ -15,43 +15,48 @@ data:
   governance:
     model: theocracy
     summary: >-
-      One ladder serves all ten faiths, and the rungs are the same words in every hof: the Blótmadr at the blót, the Godi or Gydja over a hall, the Hofgodi over a named hof, the Höfudgodi over one kingdom's faithful, and the Landsgodi over the whole pantheon at the ting island. Fródvin's valley hofs have infirmaries attached, and a Godi of his works the harvest beside the households he serves.
+      A ladder of circles, rising from the young Thraell through the working Godi or Gydja to the senior ranks of Jarl and Konungr and the pontifical offices of the Allsherjargodi and the Fadir or Módir of the god. The titles are this faith's own; the pattern is the pantheon's. Circle II is unlisted in the sources.
     ranks:
       - level: 0
         title: Nídingr
         lore: excmmnctrnk
         description: >-
           Declared nithing—cut off from the faith and from the standing that being of it conferred. No hall will seat them and no godi will speak for them.
-      - level: 2
-        title: Blótmadr
-        lore: layfaithfulrnk
+      - level: 1
+        title: Frjó Thraell
+        lore: initiaternk
         description: >-
-          One who attends the blót, which is the standing most of the faithful hold for life. A blót not attended is a blót not accomplished, so the Blótmadr is part of the rite rather than its audience.
+          "Fertile Thrall"—Seed Acolyte. The god's thrall: taken into the temple young, given the observances and the labor, and years away from the priesthood.
       - level: 3
-        title: Godi / Gydja
+        title: Heill Godi/Gode
         lore: priestrnk
         description: >-
-          The working priest or priestess—Godi for a man, Gydja for a woman—who keeps the rites of a hall and the people who gather at it.
-      - level: 5
-        title: Hofgodi
-        lore: officerrnk
+          "Blessing Priest/Priestess"—Harvest Priest/Priestess. The working priest or priestess—Godi for a man, Gydja for a woman—who keeps the rites of a hall and the people who gather at it.
+      - level: 4
+        title: Jörd Hersir
+        lore: commanderrnk
         description: >-
-          Keeper of a named hof, answerable for its stores, its blót and the households that bring their offerings to it.
-      - level: 6
-        title: Höfudgodi
+          "Earth Warlord"—Grove Keeper. A warlord of the faith, carrying its authority where it must be carried by force or by presence.
+      - level: 5
+        title: Frjó Jarl
         lore: greatlordrnk
         description: >-
-          Head of the faith within one kingdom, seated among that kingdom's jarls and reckoned a jarl of the faith.
+          "Fertility Jarl"—Steward of the Land. A senior rank carrying temporal weight as well as spiritual; in many kingdoms a Jarl of a faith sits among the jarls of the land.
+      - level: 6
+        title: Gródur Konungr/Konungrkvinde
+        lore: sovereignrnk
+        description: >-
+          "Growth King/Queen"—High Steward. King or queen within the faith's own hierarchy, and in some kingdoms a power the crown must reckon with.
       - level: 7
-        title: Landsgodi
+        title: Vetr Allsherjargodi
         lore: highpriestrnk
         description: >-
-          Priest of the land, who hallows the ting island and speaks for the Ten where they must speak with one voice. One man holds it, for the whole pantheon and not for one faith.
+          "Winter High Priest"—Greenwarden. High priest—a pontifical office, speaking for the faith where it must speak with one voice.
       - level: 8
-        title: Hofsfadir / Hofsmódir
+        title: Líf Fadir/Módir
         lore: grandmasterrnk
         description: >-
-          Father or mother of a hof: the honorific its founder keeps for life, and the highest standing the faith confers.
+          "Father/Mother of Life"—Pontiff of the Verdant Way. Father or Mother of the god: the highest pontifical office, held by one person at a time.
     offices:
       Hofsfadir / Hofsmódir: >-
         Founder of a hof, honored as its father or mother for life.
@@ -100,7 +105,13 @@ Fródvin is often depicted as a serene and nurturing figure, radiating kindness 
 
 ## Clergy
 
-Fródvin's priests climb the pantheon's one ladder, and his are the mendicant end of it: a Godi works the harvest beside the households he serves and keeps the rites outdoors. Every valley hof his Hofgodar hold has an infirmary attached, and the sick are its first business.
+- **Frjó Thraell** (Circle I: "Fertile Thrall")—Seed Acolyte
+- **Heill Godi/Gode** (Circle III: "Blessing Priest/Priestess")—Harvest Priest/Priestess
+- **Jörd Hersir** (Circle IV: "Earth Warlord")—Grove Keeper
+- **Frjó Jarl** (Circle V: "Fertility Jarl")—Steward of the Land
+- **Gródur Konungr/Konungrkvinde** (Circle VI: "Growth King/Queen")—High Steward
+- **Vetr Allsherjargodi** (Circle VII: "Winter High Priest")—Greenwarden
+- **Líf Fadir/Módir** (Circle VIII: "Father/Mother of Life")—Pontiff of the Verdant Way
 
 **Key Skills:** Herbalism, Physician, Survival, Animalcraft, Agriculture
 

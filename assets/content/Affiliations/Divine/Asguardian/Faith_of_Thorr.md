@@ -15,43 +15,48 @@ data:
   governance:
     model: theocracy
     summary: >-
-      One ladder serves all ten faiths, and the rungs are the same words in every hof: the Blótmadr at the blót, the Godi or Gydja over a hall, the Hofgodi over a named hof, the Höfudgodi over one kingdom's faithful, and the Landsgodi over the whole pantheon at the ting island. Thrúnvald's Höfudgodar are coastal men, and the Sea Wardens who bless the fleets answer to the Hofgodi of Thrumufjall.
+      A ladder of circles, rising from the young Thraell through the working Godi or Gydja to the senior ranks of Jarl and Konungr and the pontifical offices of the Allsherjargodi and the Fadir or Módir of the god. The titles are this faith's own; the pattern is the pantheon's. Circle II is unlisted in the sources.
     ranks:
       - level: 0
         title: Nídingr
         lore: excmmnctrnk
         description: >-
           Declared nithing—cut off from the faith and from the standing that being of it conferred. No hall will seat them and no godi will speak for them.
-      - level: 2
-        title: Blótmadr
-        lore: layfaithfulrnk
+      - level: 1
+        title: Thrumu Thraell
+        lore: initiaternk
         description: >-
-          One who attends the blót, which is the standing most of the faithful hold for life. A blót not attended is a blót not accomplished, so the Blótmadr is part of the rite rather than its audience.
+          "Thunder Thrall"—Storm Acolyte. The god's thrall: taken into the temple young, given the observances and the labor, and years away from the priesthood.
       - level: 3
-        title: Godi / Gydja
+        title: Reid Godi/Gode
         lore: priestrnk
         description: >-
-          The working priest or priestess—Godi for a man, Gydja for a woman—who keeps the rites of a hall and the people who gather at it.
-      - level: 5
-        title: Hofgodi
-        lore: officerrnk
+          "Storm Priest/Priestess"—Storm Priest/Priestess. The working priest or priestess—Godi for a man, Gydja for a woman—who keeps the rites of a hall and the people who gather at it.
+      - level: 4
+        title: Thrumu Hersir
+        lore: commanderrnk
         description: >-
-          Keeper of a named hof, answerable for its stores, its blót and the households that bring their offerings to it.
-      - level: 6
-        title: Höfudgodi
+          "Thunder Warlord"—Thunder Herald. A warlord of the faith, carrying its authority where it must be carried by force or by presence.
+      - level: 5
+        title: Sjór Jarl
         lore: greatlordrnk
         description: >-
-          Head of the faith within one kingdom, seated among that kingdom's jarls and reckoned a jarl of the faith.
+          "Sea Jarl"—Warden of the Sea. A senior rank carrying temporal weight as well as spiritual; in many kingdoms a Jarl of a faith sits among the jarls of the land.
+      - level: 6
+        title: Haf Konungr/Konungrkvinde
+        lore: sovereignrnk
+        description: >-
+          "Ocean King/Queen"—Stormbringer. King or queen within the faith's own hierarchy, and in some kingdoms a power the crown must reckon with.
       - level: 7
-        title: Landsgodi
+        title: Thór Allsherjargodi
         lore: highpriestrnk
         description: >-
-          Priest of the land, who hallows the ting island and speaks for the Ten where they must speak with one voice. One man holds it, for the whole pantheon and not for one faith.
+          "Thor High Priest"—Thundering Lord. High priest—a pontifical office, speaking for the faith where it must speak with one voice.
       - level: 8
-        title: Hofsfadir / Hofsmódir
+        title: Thrumu Fadir/Módir
         lore: grandmasterrnk
         description: >-
-          Father or mother of a hof: the honorific its founder keeps for life, and the highest standing the faith confers.
+          "Father/Mother of Thunder"—Pontiff of the Thunderer. Father or Mother of the god: the highest pontifical office, held by one person at a time.
     offices:
       Hofsfadir / Hofsmódir: >-
         Founder of a hof, honored as its father or mother for life.
@@ -101,7 +106,13 @@ In artistic representations, Thrúnvald is often shown driving his chariot pulle
 
 ## Clergy
 
-Thrúnvald's priests climb the pantheon's one ladder, and his coastal Hofgodar carry the weight of it: the Sea Wardens who bless the fleets are theirs, and the Höfudgodi of a raiding kingdom sails with the levy. A Godi of his is expected to have been at sea.
+- **Thrumu Thraell** (Circle I: "Thunder Thrall")—Storm Acolyte
+- **Reid Godi/Gode** (Circle III: "Storm Priest/Priestess")—Storm Priest/Priestess
+- **Thrumu Hersir** (Circle IV: "Thunder Warlord")—Thunder Herald
+- **Sjór Jarl** (Circle V: "Sea Jarl")—Warden of the Sea
+- **Haf Konungr/Konungrkvinde** (Circle VI: "Ocean King/Queen")—Stormbringer
+- **Thór Allsherjargodi** (Circle VII: "Thor High Priest")—Thundering Lord
+- **Thrumu Fadir/Módir** (Circle VIII: "Father/Mother of Thunder")—Pontiff of the Thunderer
 
 **Key Skills:** Weather manipulation and storm calling, Combat training and weapon mastery, Seafaring and navigation, Protection and blessing rituals
 
