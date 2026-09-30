@@ -29,4 +29,4 @@ The people of Vithgard are renowned for their whaling and seal-hunting, skills t
 
 - [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—The kingdom that holds this land
 - [[place-nrdlndsrgn|Nordlands Region]]—The enclosing region
-- [[place-bjornstad|Hrandstead]]—The seat
+- [[place-thorrborg|Thrúnborg]]—The seat
