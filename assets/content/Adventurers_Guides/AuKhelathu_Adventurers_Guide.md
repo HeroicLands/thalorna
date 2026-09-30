@@ -130,6 +130,34 @@ WHERE type = 'affiliation'
 ORDER BY name.full COLLATE NOCASE
 ```
 
+The houses and lineages hold claims that can follow a character into court, trade, or a temple archive:
+
+```sql
+SELECT address.slug AS _ref,
+       name.full AS "House or lineage"
+FROM notes
+WHERE type = 'affiliation'
+  AND subType = 'lineage'
+  AND file.folder LIKE 'Affiliations/Organizations/Khelathu%'
+ORDER BY name.full COLLATE NOCASE
+```
+
+## People to Meet
+
+An auditor can read a record, a caravan guard can get a party across a frontier, and a craftsperson can tell when a repair conceals more than damage. Meet Khelâthi people whose work brings them into the empire's disputes:
+
+```sql
+SELECT address.slug AS _ref,
+       name.full AS "Person",
+       data.occupation AS "Occupation"
+FROM notes
+WHERE type = 'being'
+  AND data.culture = 'thalorna-note-lore-khelathiclt'
+  AND COALESCE(list_contains(TRY_CAST(tags AS VARCHAR[]), 'character'), false)
+  AND state = 'full'
+ORDER BY name.full COLLATE NOCASE
+```
+
 ## Ways In
 
 A party can arrive by sea into the delta, by caravan from [[affiliation-mtrrchybth|Bethûa]] or [[affiliation-cnfdrtnhrdnstts|Harad]], or by riverboat with the cargo. Start where the journey meets a claim: a boat cannot pass until its manifest is produced, a survey crew needs a witness, or a household asks a stranger to carry word upriver. At the first temple, market or toll post, three questions place a character in the empire: **What is entered against your name? Which hand were you taught? Whose house speaks for you?**

@@ -89,6 +89,22 @@ Powerful ritual work belongs chiefly to ordained schools, or **sampradāyas**, r
 **For the GM:** The public year is sighted by priests and computed by the Ganaka-shala. Their answers can differ by a day, moving a festival, a coronation, or a gold weighing. A court's choice of calendar can therefore become a choice of authority. The [[affiliation-chayavrata|Chāya-vrata]] dream-line offers another fault line: its work is condemned, but the bodies that could pursue it do not agree on doing so.
 :::
 
+## People to Meet
+
+The traveler who feeds you, the clerk who knows a lineage, and the guide who can cross the wall all have lives beyond a party's errand. These Vedyari characters offer places to begin a friendship, a debt, or a dispute:
+
+```sql
+SELECT address.slug AS _ref,
+       name.full AS "Person",
+       data.occupation AS "Occupation"
+FROM notes
+WHERE type = 'being'
+  AND data.culture = 'thalorna-note-lore-vedyariclt'
+  AND COALESCE(list_contains(TRY_CAST(tags AS VARCHAR[]), 'character'), false)
+  AND state = 'full'
+ORDER BY name.full COLLATE NOCASE
+```
+
 ## Beginning an Adventure
 
 A party can arrive by ship, over the northern passes, or by the dry road from Dunhara. One character might be a temple student carrying a disputed calendar, another a guide owed payment by a caravan, and another a weaver sent to find out why a shipment never reached port. A local character might belong to a farming household, a merchant house, a craft guild, or an ascetic's following. Each tie offers help and asks something in return.
