@@ -159,7 +159,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'being'
   AND data.culture = 'thalorna-note-lore-khelathiclt'
-  AND COALESCE(list_contains(TRY_CAST(tags AS VARCHAR[]), 'character'), false)
+  AND subType IN ('npc', 'character')
   AND state = 'full'
 ORDER BY name.full COLLATE NOCASE
 ```

@@ -101,8 +101,8 @@ name inside a "Faith of X" affiliation, a kenning that has become an order's
 working name — from that narrower identity instead). The steps:
 
 1. **Fold diacritics to plain Latin letters.** `Ódinn` folds to `Odinn`,
-   `Þórgeir` to `Thorgeir`, `Ærla` to `Aerla`; `þ`/`Þ` → `th`/`Th`, `ð`/`Ð` →
-   `d`/`D`, `æ`/`Æ` → `ae`/`Ae`, `œ`/`Œ` → `oe`/`Oe`, `ø`/`Ø` → `o`/`O`, `ß` →
+   `Þórgeir` to `Thorgeir`, `Ærla` to `Aerla`; `þ`/`Þ` > `th`/`Th`, `ð`/`Ð` >
+   `d`/`D`, `æ`/`Æ` > `ae`/`Ae`, `œ`/`Œ` > `oe`/`Oe`, `ø`/`Ø` > `o`/`O`, `ß` >
    `ss`.
 2. **Drop apostrophes**, straight or curly, closing the gap: `Tz'uma` folds to
    `Tzuma`.
@@ -128,9 +128,8 @@ Drekanótt` compresses to `bjorgdrknt` — its first word was short enough to
    `dty`, a totem `ttm`, a rank or office `rnk`, a culture `clt`. A place's
    own administrative tier takes whatever term its setting uses for that
    tier, folded the same way — `Region` closes `rgn`, and a setting with its
-   own word for the tier (a nome, a selat, a janapada) closes with that word's
-   fold instead. A settlement, a site, a feature or a structure closes with
-   nothing.
+   own word for the tier closes with that word's fold instead. A settlement, a
+   site, a feature or a structure closes with nothing.
 7. **A shortcode that already names another note of the same type** is not
    reused. Append the next integer starting at `2` (`3` if `2` is also taken,
    and so on) to the whole shortcode.
