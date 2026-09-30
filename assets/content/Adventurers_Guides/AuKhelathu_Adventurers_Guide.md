@@ -8,7 +8,9 @@ tags: []
 data: {packFolder: adventurersguides}
 ---
 
-[[place-zumeleshrvr|A river]] runs north through a desert for a thousand miles and makes a country. Once a year it rises, drowns the fields, and goes down again leaving black silt on them, and everything the [[lore-khelathiclt|Khelâthi]] have built stands on that one fact. Their calendar counts the water. Their gods are argued about in terms of it. Their surveyors re-walk the fields every spring because the flood has taken the boundary stones away again, and the scribes who record what the surveyors find are the most powerful commoners in the world.
+> At dawn, after days upriver from the sea, the air smells of wet rope and river mud. The flood has fallen; people walk the black silt where their fields are coming back to light. Then Galezkara rises ahead of you: mudbrick houses crowd the banks, but across the water the sacred island's white walls catch the first gold of the sun. Behind them, stone pylons frame temple courts, and obelisks rise above the walls. Dry desert begins beyond the green riverbanks. At the landing, a merchant offers to pay you to carry cargo farther upriver, then asks who will witness your promise. The sun is warm on your back as you follow her toward a temple archive. What else lies inside those walls?
+
+The [[place-zumeleshrvr|Zumelesh]] runs north through a desert for a thousand miles and makes a country. Once a year it rises, drowns the fields, and goes down again leaving black silt on them, and everything the [[lore-khelathiclt|Khelâthi]] have built stands on that one fact. Their calendar counts the water. Their gods are argued about in terms of it. Their surveyors re-walk the fields every spring because the flood has taken the boundary stones away again, and the scribes who record what the surveyors find are the most powerful commoners in the world.
 
 The [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] counts its rulers back farther than any neighboring realm, and the Khelâthi hold theirs to be the oldest civilization in the world. It has been conquered — by hill-nomads, by sea-raiders, by a Vylarian occupation at the height of Vylaria's reach — and each time it has done the same thing: handed the conqueror a scribe, a temple appointment, and a throne name, and waited. Before long the conquerors are Khelâthi. In the crowded valley and delta, people speak of outlasting history as readily as surviving it.
 
@@ -52,6 +54,8 @@ An unwritten promise opens no entry for a court to hear, but it still matters to
 The rule is distance. Kin and neighbors can hold one another to a promise through the relationship itself; putting it in writing can be an insult. **Strangers** need a witness and an entry. The temple holds their word, which makes its archive as important to daily life as its shrine.
 
 An entry **opens** when a promise is witnessed and written down. It **closes** when the outcome is witnessed and entered. An open entry can follow its maker for years; a character asked to close one has a reason to cross the empire.
+
+> At the archive, you and the merchant agree on the terms a scribe enters. You can carry the cargo to its destination, agree to other terms, or ask the merchant to release you. Whichever path you choose, you will want a witness there when the account is closed.
 
 An entry closes by **performance**, **settlement** on other agreed terms, **release** by the person owed, or **assumption** by someone else. A shipwrecked merchant who cannot deliver a cargo might settle with the buyer or find someone to take up the debt. Either choice can send a party after a missing shipment, a reluctant creditor, or a willing heir. The [[lore-khelathiclt|culture note]] explains which promises another person may assume.
 
