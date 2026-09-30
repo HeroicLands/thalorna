@@ -8,7 +8,7 @@ data:
   banner: tamzirbnr
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [mage, scholar]
   occupation: Ward
   stations: []
   lore: [gentryrnk]

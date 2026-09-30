@@ -11,7 +11,7 @@ type: being
 subType: npc
 description: "Boatman of the Zeghet'Nelgu, whose family has served the company for four generations and who has never lost a boat to the currents"
 tags: [generated]
-data: {packFolder: regkhfolk}
+data: {archetypes: [mariner], packFolder: regkhfolk}
 ---
 
 Boatman of the Zeghet'Nelgu, whose family has served the company for four generations and who has never lost a boat to the currents.

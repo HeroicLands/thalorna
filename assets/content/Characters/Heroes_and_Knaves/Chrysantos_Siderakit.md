@@ -13,7 +13,7 @@ tags: [heroes-and-knaves, guilded, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [trader, courtier]
   occupation: Locksmith
   stations: []
   lore: [commonerrnk]

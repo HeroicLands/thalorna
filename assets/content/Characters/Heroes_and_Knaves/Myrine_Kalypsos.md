@@ -13,7 +13,7 @@ tags: [heroes-and-knaves, hero, clergy]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [cleric]
   occupation: Priest
   stations: []
   lore: [commonerrnk]

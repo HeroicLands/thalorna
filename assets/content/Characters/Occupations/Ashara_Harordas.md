@@ -13,7 +13,7 @@ tags: [draft, guilded, soldiery]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [warrior]
   occupation: Swordmaster
   stations: []
   lore: [commonerrnk]

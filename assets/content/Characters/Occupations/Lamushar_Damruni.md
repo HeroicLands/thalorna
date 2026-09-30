@@ -13,7 +13,7 @@ tags: [draft, administration]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [scholar, courtier]
   occupation: Litigant
   stations: []
   lore: [landedlordrnk]

@@ -8,7 +8,7 @@ tags: [draft]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [courtier]
   occupation: null
   stations: []
   lore: []

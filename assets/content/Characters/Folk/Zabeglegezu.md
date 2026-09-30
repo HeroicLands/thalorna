@@ -5,7 +5,7 @@ type: being
 subType: npc
 description: "A lord who has employed the same household for over a decade and grants stable, respectful service in return for exacting standards"
 tags: [generated]
-data: {packFolder: regkhfolk}
+data: {archetypes: [courtier], packFolder: regkhfolk}
 ---
 
 A lord who has employed the same household for over a decade and grants stable, respectful service in return for exacting standards.

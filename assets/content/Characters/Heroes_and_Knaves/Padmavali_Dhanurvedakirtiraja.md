@@ -13,7 +13,7 @@ tags: [heroes-and-knaves, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [artisan, scholar]
   occupation: Cartographer/Artist
   stations: []
   lore: [commonerrnk]

@@ -13,7 +13,7 @@ tags: [draft, administration]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [warrior, courtier]
   occupation: Chieftain
   stations: []
   lore: [landedlordrnk]

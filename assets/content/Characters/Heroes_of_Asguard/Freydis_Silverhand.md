@@ -13,7 +13,7 @@ tags: [hero, heroes-of-asguard, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [trader, courtier]
   occupation: Merchant and Diplomat
   stations: []
   lore: [landedlordrnk]

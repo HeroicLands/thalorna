@@ -5,7 +5,7 @@ type: being
 subType: npc
 description: "An alchemist hostile to independent practitioners, and to women practising outside male supervision in particular"
 tags: [generated]
-data: {packFolder: regkhfolk}
+data: {archetypes: [mage, scholar], packFolder: regkhfolk}
 ---
 
 An alchemist hostile to independent practitioners, and to women practising outside male supervision in particular.

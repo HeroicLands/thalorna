@@ -5,7 +5,7 @@ type: being
 subType: npc
 description: "A Halzi'a of a neighbouring selat, of a more traditional turn than his peers and untroubled by the comparison"
 tags: [generated]
-data: {packFolder: regkhfolk}
+data: {archetypes: [courtier], packFolder: regkhfolk}
 ---
 
 A Halzi'a of a neighbouring selat, of a more traditional turn than his peers and untroubled by the comparison.

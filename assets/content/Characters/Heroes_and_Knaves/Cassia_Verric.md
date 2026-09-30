@@ -13,7 +13,7 @@ tags: [heroes-and-knaves, hero, administration]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [infiltrator, courtier]
   occupation: Intelligence Officer
   stations: []
   lore: [commonerrnk]

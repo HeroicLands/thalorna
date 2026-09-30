@@ -13,7 +13,7 @@ tags: [heroes-and-knaves, soldiery]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [skirmisher, woodsman]
   occupation: Yeoman Archer
   stations: []
   lore: [commonerrnk]

@@ -7,7 +7,7 @@ tags: [draft, soldiery]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [warrior]
   occupation: Yeoman Infantry
   stations: []
   lore: [commonerrnk]

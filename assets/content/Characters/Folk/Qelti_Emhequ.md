@@ -5,7 +5,7 @@ type: being
 subType: npc
 description: "A wealthy merchant lord whose interests reach into several trades and whose name opens most doors in the capital"
 tags: [generated]
-data: {packFolder: regkhfolk}
+data: {archetypes: [trader, courtier], packFolder: regkhfolk}
 ---
 
 A wealthy merchant lord whose interests reach into several trades and whose name opens most doors in the capital.

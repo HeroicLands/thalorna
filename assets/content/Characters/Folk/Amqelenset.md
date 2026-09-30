@@ -5,7 +5,7 @@ type: being
 subType: npc
 description: "A powerful nobleman and architect, whose commissions shape the capital and whose favour is not lightly given"
 tags: [generated]
-data: {packFolder: regkhfolk}
+data: {archetypes: [artisan, courtier], packFolder: regkhfolk}
 ---
 
 A powerful nobleman and architect, whose commissions shape the capital and whose favour is not lightly given.

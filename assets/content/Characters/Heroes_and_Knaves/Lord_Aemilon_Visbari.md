@@ -13,7 +13,7 @@ tags: [heroes-and-knaves, fffv1, herald, noble, spymaster, vylaria, administrati
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [courtier, scholar]
   occupation: Herald
   stations: []
   lore: [landedlordrnk]

@@ -7,7 +7,7 @@ tags: [draft, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [scholar, courtier]
   occupation: Skald
   stations: []
   lore: [commonerrnk]

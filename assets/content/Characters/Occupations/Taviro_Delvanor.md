@@ -7,7 +7,7 @@ tags: [draft, common-folk]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [mariner]
   occupation: Common Seaman
   stations: []
   lore: [commonerrnk]

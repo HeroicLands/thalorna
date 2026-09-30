@@ -13,7 +13,7 @@ tags: [paragon, heroes-of-asguard, mages]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [mage, scholar]
   occupation: Alchemist and Scholar
   stations: []
   lore: [commonerrnk]

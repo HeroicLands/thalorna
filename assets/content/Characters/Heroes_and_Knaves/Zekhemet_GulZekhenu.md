@@ -14,7 +14,7 @@ data:
   banner: khelathubnr
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [mariner, trader]
   occupation: Pilot
   stations: []
   lore: [commonerrnk]

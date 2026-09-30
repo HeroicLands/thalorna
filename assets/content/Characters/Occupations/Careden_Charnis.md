@@ -13,7 +13,7 @@ tags: [draft, clergy]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [cleric]
   occupation: Shaman
   stations: []
   lore: [commonerrnk]

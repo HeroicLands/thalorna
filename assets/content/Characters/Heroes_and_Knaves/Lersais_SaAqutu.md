@@ -14,7 +14,7 @@ data:
   banner: khelathubnr
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [warrior, courtier]
   occupation: Nobility (Tenant-in-chief)
   stations: []
   lore: [landedlordrnk]

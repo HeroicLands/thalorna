@@ -11,7 +11,7 @@ type: being
 subType: npc
 description: "A lord of the capital, dead some years, whose line produced centuries of administrators, generals and patrons of the arts"
 tags: [generated]
-data: {packFolder: regkhfolk}
+data: {archetypes: [courtier], packFolder: regkhfolk}
 ---
 
 A lord of the capital, dead some years, whose line produced centuries of administrators, generals and patrons of the arts.

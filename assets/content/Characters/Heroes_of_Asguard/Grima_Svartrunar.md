@@ -13,7 +13,7 @@ tags: [demigod, heroes-of-asguard, unguilded, mages]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [mage]
   occupation: Necromancer
   stations: []
   lore: [commonerrnk]

@@ -5,7 +5,7 @@ type: being
 subType: npc
 description: "A celebrated chef whose fashionable cooking is admired in the capital and dismissed by the traditionalists as novelty dressed up"
 tags: [generated]
-data: {packFolder: regkhfolk}
+data: {archetypes: [], packFolder: regkhfolk}
 ---
 
 A celebrated chef whose fashionable cooking is admired in the capital and dismissed by the traditionalists as novelty dressed up.

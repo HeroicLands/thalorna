@@ -13,7 +13,7 @@ tags: [demigod, heroes-of-asguard, clergy]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [woodsman, warrior]
   occupation: Woodsman and Guardian
   stations: []
   lore: [commonerrnk]

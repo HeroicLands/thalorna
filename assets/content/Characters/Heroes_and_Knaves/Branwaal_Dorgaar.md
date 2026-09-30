@@ -7,7 +7,7 @@ tags: [hero, silent-talon, soldiery]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [warrior]
   occupation: Mercenary Captain
   stations: []
   lore: [landedlordrnk]

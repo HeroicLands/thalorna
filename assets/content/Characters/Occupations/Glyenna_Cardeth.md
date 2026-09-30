@@ -13,7 +13,7 @@ tags: [todo, draft, administration]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [courtier]
   occupation: Noblewoman / Head of House Cárdeth
   stations: []
   lore: [landedlordrnk]

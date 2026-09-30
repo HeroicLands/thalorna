@@ -7,7 +7,7 @@ tags: [draft, guilded, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [artisan]
   occupation: Jeweller
   stations: []
   lore: [commonerrnk]

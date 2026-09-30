@@ -13,7 +13,7 @@ tags: [heroes-and-knaves, hero, mages]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [mage]
   occupation: Mage (Fire)
   stations: []
   lore: [landedlordrnk]

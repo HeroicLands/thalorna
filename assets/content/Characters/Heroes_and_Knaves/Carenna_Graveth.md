@@ -13,7 +13,7 @@ tags: [heroes-and-knaves, guilded, administration]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [courtier, scholar]
   occupation: Herald
   stations: []
   lore: [commonerrnk]

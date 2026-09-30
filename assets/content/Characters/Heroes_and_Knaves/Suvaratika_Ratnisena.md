@@ -13,7 +13,7 @@ tags: [heroes-and-knaves, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [artisan]
   occupation: Toymaker
   stations: []
   lore: [commonerrnk]

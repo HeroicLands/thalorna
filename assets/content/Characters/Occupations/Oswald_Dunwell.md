@@ -13,7 +13,7 @@ tags: [draft, administration]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [courtier]
   occupation: Nobility (Manor Lord)
   stations: []
   lore: [commonerrnk]

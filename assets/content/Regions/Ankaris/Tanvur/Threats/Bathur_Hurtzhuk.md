@@ -15,7 +15,7 @@ tags: [draft]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [warrior, skirmisher]
   occupation: null
   stations: []
   lore: []

@@ -13,7 +13,7 @@ tags: [heroes-and-knaves, clergy]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [cleric, warrior]
   occupation: Shaman
   stations: []
   lore: [commonerrnk]

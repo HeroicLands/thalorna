@@ -5,7 +5,7 @@ type: being
 subType: npc
 description: "Mother to a timber-merchant, who taught her daughter the language of trees before she taught her to read"
 tags: [generated]
-data: {packFolder: regkhfolk}
+data: {archetypes: [trader], packFolder: regkhfolk}
 ---
 
 Mother to a timber-merchant, who taught her daughter the language of trees before she taught her to read.

@@ -13,7 +13,7 @@ tags: [heroes-and-knaves, guilded, administration]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [scholar, courtier]
   occupation: Litigant
   stations: []
   lore: [commonerrnk]

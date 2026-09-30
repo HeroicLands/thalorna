@@ -3,6 +3,12 @@
 /lang/
 package-lock.json
 
+# Written by `changeset version`, not by hand. Prettier's markdown formatting
+# disagrees with what changesets emits, and the Version Packages pull request
+# runs no CI (it is opened by GITHUB_TOKEN), so a formatted-by-hand changelog
+# would turn `main` red the moment that pull request merged.
+CHANGELOG.md
+
 # Vendored link manifests (#1446): another package's build output, copied here
 # verbatim. They are emitted with JSON.stringify's 2-space indent, which every
 # producing repository shares; reformatting them to this repository's tabWidth

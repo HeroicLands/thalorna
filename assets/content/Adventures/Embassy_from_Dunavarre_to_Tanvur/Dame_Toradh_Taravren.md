@@ -6,7 +6,7 @@ subType: character
 tags: [draft, embassy-to-tanvur]
 data:
   templatePriority: null
-  archetypes: []
+  archetypes: [warrior, courtier]
   occupation: Knight-Captain
   stations: []
   lore: []

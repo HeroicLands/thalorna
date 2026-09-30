@@ -13,7 +13,7 @@ tags: [todo-warrior, draft, soldiery]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [warrior, mariner]
   occupation: Man-at-Arms
   stations: []
   lore: [commonerrnk]

@@ -13,7 +13,7 @@ tags: [heroes-and-knaves, hero, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [healer, cleric]
   occupation: Apothecary
   stations: []
   lore: [landedlordrnk]

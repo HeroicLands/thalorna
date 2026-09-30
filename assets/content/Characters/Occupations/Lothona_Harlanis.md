@@ -7,7 +7,7 @@ tags: [todo-warrior, draft, soldiery]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [warrior]
   occupation: Town Guard
   stations: []
   lore: [commonerrnk]

@@ -13,7 +13,7 @@ tags: [draft, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [skirmisher, woodsman]
   occupation: Hunter
   stations: []
   lore: [commonerrnk]

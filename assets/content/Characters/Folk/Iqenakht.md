@@ -5,7 +5,7 @@ type: being
 subType: npc
 description: "A senior priest at Khelunu and the high priest's enforcer—intelligent, ruthless, and heavily invested in keeping certain matters buried"
 tags: [generated]
-data: {packFolder: regkhfolk}
+data: {archetypes: [cleric, courtier], packFolder: regkhfolk}
 ---
 
 A senior priest at Khelunu and the high priest's enforcer—intelligent, ruthless, and heavily invested in keeping certain matters buried.

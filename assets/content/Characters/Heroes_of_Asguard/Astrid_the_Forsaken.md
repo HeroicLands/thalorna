@@ -13,7 +13,7 @@ tags: [demigod, heroes-of-asguard, unguilded, soldiery]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [warrior]
   occupation: Wanderer and Warrior
   stations: []
   lore: [commonerrnk]

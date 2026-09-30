@@ -5,7 +5,7 @@ type: being
 subType: npc
 description: "The elderly chancellor of records, who has outlasted several administrations by knowing exactly where every document is and saying so rarely"
 tags: [generated]
-data: {packFolder: regkhfolk}
+data: {archetypes: [scholar, courtier], packFolder: regkhfolk}
 ---
 
 The elderly chancellor of records, who has outlasted several administrations by knowing exactly where every document is and saying so rarely.

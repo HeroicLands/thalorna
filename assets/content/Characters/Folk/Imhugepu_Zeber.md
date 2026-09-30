@@ -5,7 +5,7 @@ type: being
 subType: npc
 description: "Ritualist and warrior of the Zeghet'Nelgu, keeper of the old rites"
 tags: [generated]
-data: {packFolder: regkhfolk}
+data: {archetypes: [cleric, warrior], packFolder: regkhfolk}
 ---
 
 Ritualist and warrior of the Zeghet'Nelgu, keeper of the old rites. His authority within the company is absolute and under siege from outside it.

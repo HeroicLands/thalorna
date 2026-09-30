@@ -6,7 +6,7 @@ subType: character
 tags: [draft, embassy-to-tanvur]
 data:
   templatePriority: null
-  archetypes: []
+  archetypes: [warrior, infiltrator]
   occupation: Sergeant-at-Arms
   stations: []
   lore: []

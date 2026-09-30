@@ -13,7 +13,7 @@ tags: [paragon, heroes-of-asguard, administration]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [warrior, courtier]
   occupation: Warrior and Clan Leader
   stations: []
   lore: [landedlordrnk]

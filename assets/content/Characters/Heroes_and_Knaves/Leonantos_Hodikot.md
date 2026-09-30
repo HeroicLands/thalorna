@@ -13,7 +13,7 @@ tags: [heroes-and-knaves, todo, guilded, clergy]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [cleric, warrior]
   occupation: Priest
   stations: []
   lore: [commonerrnk]

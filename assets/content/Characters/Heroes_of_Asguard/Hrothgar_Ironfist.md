@@ -13,7 +13,7 @@ tags: [paragon, heroes-of-asguard, soldiery]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [artisan, warrior]
   occupation: Blacksmith and Warrior
   stations: []
   lore: [commonerrnk]
