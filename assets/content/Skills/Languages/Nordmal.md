@@ -475,7 +475,7 @@ A god's name is a compound, and its closing element says what the god is or does
 
 ### The names that stand
 
-Five names are older than the stem system and are not formed by any rule in it: **Nordheim**, **Malagna**, **Norgaad**, **Targud** and **Vithgard**, the five realms, with **Nordlands** for the whole. Asguard and Mannguard are not realms of this world and are compounds under the rule above. Nothing else in Nordmal stands outside the formation rules.
+Five names are older than the stem system and are not formed by any rule in it: **Nordheim**, **Malagna**, **Norgaad**, **Targud** and **Vithgard**, the five realms, with **Nordlands** for the whole. Asguard, the gods' world, and Mannguard, the north's own name for the world underfoot, are compounds under the rule above rather than names of that older layer. Nothing else in Nordmal stands outside the formation rules.
 
 ## Male Given Names
 
