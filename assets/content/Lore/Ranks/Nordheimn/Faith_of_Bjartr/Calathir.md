@@ -1,0 +1,34 @@
+---
+shortcode: calathirrnk
+name: {full: "Calathir", aliases: [Light-Watcher]}
+type: lore
+subType: law
+description: "Entrusted with the rites, the care of the faithful and the stewardship of sacred places, in the faith of Bjartr."
+tags: []
+---
+
+Entrusted with the rites, the care of the faithful and the stewardship of sacred places, in the faith of Bjartr.
+
+## What This Standing Is
+
+A Calathir, "light-watcher," is entrusted with the faith's rites, the care of its faithful, and the stewardship of its sacred places. All Calathiri are equal in standing, and any one of them may call the Lómëthar, the council of radiance in which the faith's collective decisions are made.
+
+## How the Law Treats a Person Here
+
+He is entrusted with what a tindësar only learns and the faithful only attend: the rites themselves, the sacred places, and a voice in the Lómëthar that decides the faith's course by deliberation rather than by any single officer's decree.
+
+## Privileges
+
+He performs the faith's rites, guides a tindësar, and calls or sits in the Lómëthar, whose accord or refusal is the faith's own act of admission and exclusion.
+
+## Obligations
+
+He cares for the faithful and the sacred places entrusted to him, and answers to the Lómëthar's collective judgment rather than to any single superior.
+
+## Offices Open at This Standing
+
+The Dreamwarden, keeper of the dream-rites and of those who sleep in the groves to receive them.
+
+## Where This Standing Is Held
+
+The [[affiliation-baldr|Faith of Bjartr]] alone.
