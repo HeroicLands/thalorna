@@ -47,14 +47,16 @@ Two inventories decide whether a name can be Nordmal at all, and both are closed
 
 **What may open a name.** A single consonant, one of the clusters below, or a vowel with nothing in front of it.
 
-| consonants | the openings                                                                                                            |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------- |
-| one sound  | `b` `d` `f` `g` `h` `j` `k` `l` `m` `n` `p` `r` `s` `t` `v` `th`                                                        |
-| two        | `bj` `bl` `br` `dr` `dv` `fj` `fl` `fr` `gl` `gn` `gr` `hl` `hn` `hr` `hv` `kn` `kr` `nj` `sk` `sn` `st` `sv` `tv` `vr` |
-| three      | `skj` `skr` `stj` `str` `thr`                                                                                           |
-| none       | a vowel stands first                                                                                                    |
+| consonants | the openings                                                                                                                 |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| one sound  | `b` `d` `f` `g` `h` `j` `k` `l` `m` `n` `p` `r` `s` `t` `v` `th`                                                             |
+| two        | `bj` `bl` `br` `dr` `dv` `fj` `fl` `fr` `gl` `gn` `gr` `hl` `hn` `hr` `hv` `kn` `kr` `nj` `sk` `sm` `sn` `st` `sv` `tv` `vr` |
+| three      | `frj` `skj` `skr` `stj` `str` `thr`                                                                                          |
+| none       | a vowel stands first                                                                                                         |
 
 The `kh` never opens anything. It sits at the end of a clan name and in the body of a ritual word, and nowhere else.
+
+**An element that opens a compound stands first in the name**, so its own spelling has to open on one of these. An element whose opening is not in the table above is an element no name can carry.
 
 **What may close a name.** A vowel, or one consonant from a set of nine.
 
@@ -263,9 +265,14 @@ An **element** is a piece that means something and does not stand alone as a wor
 Four things happen at a seam. A stem and an ending that meet on one consonant write it once, which is the bound seam's rule and only the bound seam's: a compound seam writes both, so _storm-_ and `-maelendir` give Stormmaelendir. An element may take a genitive `-s` or `-a` before the seam, which is why the world-ash is Heimsask and the skalds' circle Skaldahringr. An element that would leave a name ending in `f` takes the strong `-r`, so the wolf closes a compound as `-úlfr`. And a god or a thing named for a bare quality takes that `-r` on one element alone, which is how Bjartr and Minnir are built.
 
 **A kept word is not an element.** The words in _The words the tongue keeps_
-are given whole, and a compound never opens with one. An element that shares a
-kept word's sense earns its own row in the table below, and `stórald-` is the
+are given whole, and no compound is built from one. An element that shares a
+kept word's sense earns its own row in the tables below, and `stórald-` is the
 row that carries the saga.
+
+**An element that stands on both sides of a seam is published in both tables**,
+because a row is read in one direction only. The hammer opens Hamarsmál and
+closes Thrúnhamarr, so `hamar-` and `-hamarr` are two rows for one piece, and
+the closing row carries whatever the strong `-r` or the doubled letter adds.
 
 **Elements that open a compound.**
 
@@ -288,6 +295,7 @@ row that carries the saga.
 | `frost-`            | frost                                     |
 | `fród-`             | the peace that wisdom buys                |
 | `grön-`             | green, and growing                        |
+| `grá-`              | gray                                      |
 | `gull-`             | gold                                      |
 | `haf-`              | the open sea                              |
 | `hallar-`           | a great hall's                            |
@@ -298,6 +306,7 @@ row that carries the saga.
 | `hird-`             | a king's household troop                  |
 | `hofs-`             | belonging to a hof                        |
 | `höfud-`            | the head of a body of men                 |
+| `hönd-`             | a hand                                    |
 | `hrafn-`            | a raven                                   |
 | `hrím-`             | rime                                      |
 | `hring-`            | a ring given at a hall                    |
@@ -323,7 +332,7 @@ row that carries the saga.
 | `rún-`              | a rune                                    |
 | `sár-`              | a wound                                   |
 | `sigr-`             | a victory won                             |
-| `skalda-`           | the skalds'                               |
+| `skald-`, `skalda-` | a skald, and the skalds'                  |
 | `skip-`             | a ship                                    |
 | `skjálf-`           | a shaking                                 |
 | `ský-`              | cloud                                     |
@@ -349,54 +358,64 @@ row that carries the saga.
 
 **Elements that close a compound.**
 
-| element                     | what it names                          |
-| --------------------------- | -------------------------------------- |
-| `-aett`                     | a kin reckoned together                |
-| `-ask`                      | an ash-tree                            |
-| `-bandalag`                 | a league of sworn companies            |
-| `-beri`                     | one who bears a thing                  |
-| `-blót`                     | a sacrifice                            |
-| `-börn`                     | children                               |
-| `-brandr`                   | a brand, either a firebrand or a blade |
-| `-brunnr`                   | a well                                 |
-| `-dómr`                     | a judgment given                       |
-| `-drengir`                  | warriors                               |
-| `-eldr`                     | fire                                   |
-| `-fadir`, `-módir`          | the father or mother of a hof          |
-| `-gar`, `-geir`             | a spear                                |
-| `-gengir`                   | ones that go                           |
-| `-godi`                     | a priest-chieftain                     |
-| `-grímr`                    | a mask                                 |
-| `-grind`                    | a gate                                 |
-| `-guard`                    | an enclosed world                      |
-| `-hamarr`                   | a hammer                               |
-| `-heim`                     | a home                                 |
-| `-hild`                     | a battle                               |
-| `-höll`                     | a great hall                           |
-| `-hönd`                     | a hand                                 |
-| `-hringr`, `-ringr`         | a ring, and a circle of sworn men      |
-| `-lok`                      | a close, an end                        |
-| `-madr`                     | a man holding a station                |
-| `-maelendir`                | ones that speak                        |
-| `-nótt`                     | night                                  |
-| `-ormr`                     | a wyrm                                 |
-| `-reid`                     | a ride                                 |
-| `-rót`                      | a root                                 |
-| `-rún`                      | a rune                                 |
-| `-sal`                      | a hall raised for a god                |
-| `-skari`                    | a troop                                |
-| `-skel`                     | a shell, and a plate of iron           |
-| `-stjóri`                   | the master of a thing                  |
-| `-systur`                   | sisters                                |
-| `-thur`                     | a giant                                |
-| `-úlfr`                     | a wolf                                 |
-| `-vald`                     | one who wields                         |
-| `-vangr`                    | a field                                |
-| `-var`, `-vördr`, `-verdir` | a ward, a keeper                       |
-| `-vargr`                    | an outlaw, a wolf in the law's eye     |
-| `-ven`                      | one who dwells in a place              |
-| `-vin`, `-vinir`            | a friend                               |
-| `-völl`                     | the field a battle is fought on        |
+| element                     | what it names                            |
+| --------------------------- | ---------------------------------------- |
+| `-aett`                     | a kin reckoned together                  |
+| `-ask`                      | an ash-tree                              |
+| `-bandalag`                 | a league of sworn companies              |
+| `-beri`                     | one who bears a thing                    |
+| `-blót`                     | a sacrifice                              |
+| `-borinn`                   | one born of a thing                      |
+| `-börn`                     | children                                 |
+| `-brandr`                   | a brand, either a firebrand or a blade   |
+| `-brunnr`                   | a well                                   |
+| `-dómr`                     | a judgment given                         |
+| `-drengir`                  | warriors                                 |
+| `-efnir`                    | one in the making                        |
+| `-eldr`                     | fire                                     |
+| `-fadir`, `-módir`          | the father or mother of a hof            |
+| `-gar`, `-geir`             | a spear                                  |
+| `-gengir`                   | ones that go                             |
+| `-godi`                     | a priest-chieftain                       |
+| `-grímr`                    | a mask                                   |
+| `-grind`                    | a gate                                   |
+| `-guard`                    | an enclosed world                        |
+| `-hamarr`                   | a hammer                                 |
+| `-heim`                     | a home                                   |
+| `-hild`                     | a battle                                 |
+| `-höfdingi`                 | a chieftain                              |
+| `-höll`                     | a great hall                             |
+| `-hönd`                     | a hand                                   |
+| `-hringr`, `-ringr`         | a ring, and a circle of sworn men        |
+| `-káppar`                   | champions                                |
+| `-lid`                      | a company in the field                   |
+| `-lok`                      | a close, an end                          |
+| `-madr`                     | a man holding a station                  |
+| `-maelir`, `-maelendir`     | one that speaks, and ones that speak     |
+| `-mál`                      | speech, and the voice a body speaks with |
+| `-nótt`                     | night                                    |
+| `-ormr`                     | a wyrm                                   |
+| `-reid`                     | a ride                                   |
+| `-rót`                      | a root                                   |
+| `-rún`                      | a rune                                   |
+| `-sal`                      | a hall raised for a god                  |
+| `-skald`                    | a poet whose verse is a realm's memory   |
+| `-skari`                    | a troop                                  |
+| `-skel`                     | a shell, and a plate of iron             |
+| `-skírdr`                   | one made clean                           |
+| `-skjöldr`                  | a shield                                 |
+| `-stjóri`                   | the master of a thing                    |
+| `-systur`                   | sisters                                  |
+| `-thur`                     | a giant                                  |
+| `-ting`                     | the lawful assembly                      |
+| `-úlfr`                     | a wolf                                   |
+| `-vald`                     | one who wields                           |
+| `-vangr`                    | a field                                  |
+| `-var`, `-vördr`, `-verdir` | a ward, a keeper                         |
+| `-vargr`                    | an outlaw, a wolf in the law's eye       |
+| `-ven`                      | one who dwells in a place                |
+| `-vin`, `-vinir`            | a friend                                 |
+| `-völl`                     | the field a battle is fought on          |
 
 ### Place names
 
