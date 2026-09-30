@@ -14,9 +14,11 @@ Keep claims grounded in the corpus. A guide can suggest a possible adventure wit
 
 ## The opening story
 
-Begin with a story of someone encountering the land for the first time. Put it in second person. Coming on a caravan, entering a town for the first time, crossing a ridge and seeing a valley; make the description vivid, sensory, enticing, with a palpable sense of excitement at reaching a new land. The opening story should be very short, one or two paragraphs, and should act as an invitation, not a conclusion.
+Begin with a story of someone encountering the land for the first time. Put it in second person and in a blockquote. Coming on a caravan, entering a town for the first time, crossing a ridge and seeing a valley; make the description vivid, sensory, enticing, with a palpable sense of excitement at reaching a new land. Give the reader the time of day and the quality of the light, the air on their skin, the smell and noise of the place, and the shape and color of its streets, buildings, and temples. Let the arrival lead into a working place with people in it: show what several people look like and wear, how they move through the crowd, and what they are doing. Ground these details in the culture and region notes; show variety among individuals rather than assigning one appearance or outfit to a whole people.
 
-If it makes sense, you may continue using the character from the story throughout the material to enhance or explain how someone foreign might experience the culture; but such should always be in blockquotes to make clear that it is flavor, not the actual description of the culture.
+Let a local person welcome the traveler before asking for work or presenting a problem. Give that person a name and a visible presence. Have them introduce themselves as someone of that culture would, using a home, lineage, guild, office, or title when it fits; explain the local terms naturally in English so the reader understands the introduction as it happens. A greeting, a drink, or a meal can show the culture at work before the adventure begins. The opening story should stay brief—one or two paragraphs—and invite the reader onward.
+
+If it makes sense, you may continue using the character from the story throughout the material to enhance or explain how someone foreign might experience the culture. Keep these passages in blockquotes too, so readers can distinguish the imagined encounter from the setting's general description.
 
 ## What the reader needs
 
