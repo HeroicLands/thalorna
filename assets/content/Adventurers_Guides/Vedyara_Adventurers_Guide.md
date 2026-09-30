@@ -8,7 +8,7 @@ tags: []
 data: {packFolder: adventurersguides}
 ---
 
-> You come through a northern pass with a caravan as the morning light reaches the stone walls below. A shrine stands above the road; beyond it, terraces step down toward a green plain you cannot yet see the end of. Someone calls you over for a meal, and before you have set down your pack, two travelers are arguing their claims to the caravan's toll before a fortress officer. The road south promises warmer air, river towns, and a coast you have only heard described. Which way will you go when the wagons move on?
+> At first light, the air in the northern pass stings your nose. Pine smoke curls above a shrine built low into the rock: a walled court and a hall where travelers crowd in from the cold. Below, the stone walls of Sūryāgarha close across the gorge, and the caravan yard smells of wet yak wool and the smiths' charcoal fires. Beyond the walls, rice terraces catch the sun one green step at a time. A customs clerk holds your caravan's pass-token while two merchants dispute the weight of a load. Your employer asks you to find the shrine's crossing register before the clerk sets the date. The road south is opening; will you be on it?
 
 This is one entrance to [[place-vedyarargn|Vedyara]]. Follow the rivers south and the fortresses give way to rice fields and village assemblies; keep going and the same language carries you into a harbor where gemcutters, sailors, and merchant houses bargain over the next voyage.
 
@@ -28,7 +28,7 @@ The monsoon changes the journey as much as a border does. It sets planting and p
 
 When a canal breaks or two families claim the same field, a Vedyari village takes the matter to its **sabhā**. Most Vedyari live in a **janapada**: several villages joined around one central temple, governing themselves as a small republic. The land belongs collectively to the janapada through that temple; families hold rights to work particular fields. Household representatives, guild heads, and lineage elders sit in the sabhā, usually convened by a senior priest. The temple keeps the land records, irrigation works, granary, school, and court. A janapada is a place to live, a government, and a religious community at once.
 
-> Farther south, you ask who can mend a broken water channel. A farmer points you toward the temple hall, where the people who work the fields can argue their claims before the sabhā. The fortress officer's answer at the pass would have been simpler; here, you have to learn whose field needs water first.
+> Farther south, you ask who can mend a broken water channel. A farmer points you toward the temple hall, where household representatives argue their claims before the sabhā. At the pass, the clerk held a token and a ledger; here, you have to learn whose field needs water first.
 
 The [[affiliation-janpdsvdyr|Mahā-Sangha]] is the loose association of these janapadas. Delegates meet at markets and pilgrimages, above all the great **Mahā-Mela**, where shared water rights, routes, and disputes can be settled alongside religious observances. The Sangha convenes and persuades; it neither taxes the villages nor governs them between gatherings. A janapada can also seek a neighboring king or city-state's protection while keeping its own assembly and local law.
 
