@@ -262,7 +262,7 @@ A clan's name takes one of the four ting-endings, and each says the footing on w
 
 An **element** is a piece that means something and does not stand alone as a word. Every compound name is elements and nothing else, so the lexicon is the whole of what a compound may be made of. The thirty-four name-stems are elements too, and the ones that carry the most weight: a place or a person named from a stem is named from the stock the halls themselves are named from.
 
-Four things happen at a seam. A stem and an ending that meet on one consonant write it once, which is the bound seam's rule and only the bound seam's: a compound seam writes both, so _storm-_ and `-maelendir` give Stormmaelendir. An element may take a genitive `-s` or `-a` before the seam, which is why the world-ash is Heimsask and the skalds' circle Skaldahringr. An element that would leave a name ending in `f` takes the strong `-r`, so the wolf closes a compound as `-úlfr`. And a god or a thing named for a bare quality takes that `-r` on one element alone, which is how Bjartr and Minnir are built.
+Four things happen at a seam. A stem and an ending that meet on one consonant write it once, which is the bound seam's rule and only the bound seam's: a compound seam writes both, so _storm-_ and `-maelendir` give Stormmaelendir. An element may take a genitive `-s` or `-a` before the seam, which is why the world-ash is Heimsask and the skalds' circle Skaldahringr; that seam genitive belongs to an element, and § _Place names_ gives the two genitives a whole name takes. An element that would leave a name ending in `f` takes the strong `-r`, so the wolf closes a compound as `-úlfr`. And a god or a thing named for a bare quality takes that `-r` on one element alone, which is how Bjartr and Minnir are built.
 
 **A kept word is not an element.** The words in _The words the tongue keeps_
 are given whole, and no compound is built from one. An element that shares a
@@ -419,42 +419,50 @@ the closing row carries whatever the strong `-r` or the doubled letter adds.
 
 ### Place names
 
-A place name is an element and a generic, and the generic says what kind of place it is. The generic is what makes it a place rather than a person, and it is never the piece that changes. A generic is a closing element like any other, so the same piece that names a place can close a god's name or an order's.
+A place name is an element and a generic, and the generic says what kind of place it is. The generic is what makes it a place rather than a person, and it is never the piece that changes. A generic is a closing element like any other, so the same piece that names a place can close a god's name or an order's. The third column gives the generic in the genitive, which is the form a place name takes when it governs another word.
 
-| generic   | what it names                      |
-| --------- | ---------------------------------- |
-| `-borg`   | a stronghold on a height           |
-| `-brekka` | a slope                            |
-| `-dal`    | a dale                             |
-| `-ey`     | an island                          |
-| `-fell`   | a bare hill                        |
-| `-fjall`  | a mountain                         |
-| `-fjord`  | a fjord                            |
-| `-gard`   | an enclosed yard and its buildings |
-| `-havn`   | a haven                            |
-| `-heim`   | a home, and a settled place        |
-| `-holm`   | an islet                           |
-| `-mark`   | a march, ground held at an edge    |
-| `-nes`    | a headland                         |
-| `-sal`    | a hall                             |
-| `-stead`  | a farmstead                        |
-| `-thul`   | a seat where the law is recited    |
-| `-vangr`  | an open field                      |
-| `-vatn`   | a lake                             |
-| `-vík`    | an inlet                           |
+| generic   | what it names                      | in the genitive |
+| --------- | ---------------------------------- | --------------- |
+| `-borg`   | a stronghold on a height           | `-borgar`       |
+| `-brekka` | a slope                            | `-brekkar`      |
+| `-dal`    | a dale                             | `-dalar`        |
+| `-ey`     | an island                          | `-eyjar`        |
+| `-fell`   | a bare hill                        | `-fellar`       |
+| `-fjall`  | a mountain                         | `-fjallar`      |
+| `-fjord`  | a fjord                            | `-fjordar`      |
+| `-gard`   | an enclosed yard and its buildings | `-gardar`       |
+| `-havn`   | a haven                            | `-havnar`       |
+| `-heim`   | a home, and a settled place        | `-heimar`       |
+| `-holm`   | an islet                           | `-holmar`       |
+| `-höll`   | a great hall                       | `-hallar`       |
+| `-mark`   | a march, ground held at an edge    | `-markar`       |
+| `-nes`    | a headland                         | `-nesar`        |
+| `-sal`    | a hall                             | `-salar`        |
+| `-stead`  | a farmstead                        | `-stadar`       |
+| `-thul`   | a seat where the law is recited    | `-thular`       |
+| `-vangr`  | an open field                      | `-vangar`       |
+| `-vatn`   | a lake                             | `-vatnar`       |
+| `-vík`    | an inlet                           | `-víkar`        |
 
-**What stands first is what the place is held from.** Ground held from nothing but itself takes a name-stem, so one stock names a hall's people and the ground they hold. Ground held from a god takes the god's name, which is the oldest layer of the family's toponymy and the pattern behind Odinsve, Torsberg and Ullevi; ground held from the man who broke it takes his, as Grimsstadir carries the name of its Grimr; ground held from the assembly takes the assembly's, as Thingvellir and Logberg carry theirs. A god's name enters clipped to its first element, because a compound name gives a compound place name its opening and no more, so Thrúnvald's seat is Thrúnborg and his mountain Thrumufjall. A founder's given name enters whole, with a genitive `-s` or `-a` at the seam.
+**What stands first is what the place is held from.** Ground held from nothing but itself takes a name-stem, so one stock names a hall's people and the ground they hold. Ground held from a god takes the god's name, which is the oldest layer of the family's toponymy and the pattern behind Odinsve, Torsberg and Ullevi; ground held from the man who broke it takes his, as Grimsstadir carries the name of its Grimr; ground held from the assembly takes the assembly's, as Thingvellir and Logberg carry theirs. A god's name enters clipped to its first element, because a compound name gives a compound place name its opening and no more, so Thrúnvald's seat is Thrúnborg and his mountain Thrumufjall. Ground the god dwells on rather than merely holds takes the name whole instead, with a genitive `-s` or `-a` at the seam, so Ódvar's hall is Ódvarshöll and Sólrún's is Sólrúnshöll. A founder's given name enters whole, with a genitive at the seam in the same way.
 
 | held from                     | what stands first                                       |
 | ----------------------------- | ------------------------------------------------------- |
 | the ground alone              | a name-stem, in any of its three grades                 |
 | a god                         | that god's name, clipped to its first element           |
+| a god dwelling there          | that god's whole name, with a genitive `-s` or `-a`     |
 | a founder                     | that founder's given name, with a genitive `-s` or `-a` |
 | the ting and its law          | `ting-`, `lög-`, `mál-`, `hring-`                       |
 | a sanctuary cut into the rock | `hola-`, `hofs-`, `hörgs-`                              |
 | the gods' world               | `asgar-`                                                |
 
+**Only a god's name stands there whole.** The row admits the name of one of the north's own gods, built the way § _Theonyms_ builds one, and admits nothing else. An element in the genitive is not a god's name and neither is a name-stem in the genitive, so neither opens a place name by this row—the row above it and the founder's row say what those do. A word carrying a genitive `-s` before a generic is a place name held from a god only where that word is a god's name entire.
+
 **The clause reaches place names and nothing else.** In every other compound—an office, an order, a god's own name, an earned clan name—the first element is an element from the lexicon, and a god's or a founder's name does not stand there. A place is held from a god and the name records the holding; a station is held from a king, so an office built on a god's name would say something the rank ladder does not mean, and an earned name built on one would have a hall claiming descent from a god.
+
+**A place name in the genitive inflects on its generic.** The generic is the noun the name is built on and the first element only describes it, so the first element never changes and the ending falls on the generic alone. The ending is `-ar`. A generic closing on a vowel drops it before the ending and a generic carrying the strong `-r` drops that, which gives `-brekka` the genitive `brekkar` and `-vangr` the genitive `vangar`. Three generics change more than their ending: `-ey` takes a linking `j` for `eyjar`, and `-höll` and `-stead` open their vowel to `a` for `hallar` and `stadar`. Every generic's own genitive stands in the third column of the table above, so a reader inflects Nalthmark to Nalthmarkar and Dvalgheim to Dvalgheimar by reading the row rather than working the change out.
+
+**The genitive of a place name is a word and not a piece of one.** It governs what follows it across a space and joins nothing at a seam, so the Voice of Lögstead is _Lögstadar Mál_ in two words and the man who holds the seat is Hróaldr Lögstadar. Three genitives are in play in this section and they do different work: an element's `-s` or `-a` joins the seam inside one word, a god's whole name takes the same `-s` or `-a` and joins the seam in the same way, and a place name's `-ar` stands free. The last is the only one that inflects a whole name without compounding it, and it is the only one that changes a stem.
 
 ### Ranks, offices and orders
 

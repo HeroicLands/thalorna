@@ -197,6 +197,11 @@
         {
             "literal": "Bonebreakers",
             "why": "the Giant's Children keep the byname"
+        },
+        {
+            "literal": "Lögstadar",
+            "why": "the genitive of the place name Lögstead, inflected on its generic under § _Place names_; it stands as its own word in _Lögstadar Mál_ and in Hróaldr Lögstadar",
+            "kinds": ["place"]
         }
     ],
     "entries": [
@@ -5617,6 +5622,102 @@
             "prose": null,
             "oldRefPaths": [
                 "6e137b8c0:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:103:58"
+            ],
+            "boldKind": "none"
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Ódvarshöll",
+            "newAliases": ["Ódvar's Hall"],
+            "newPath": "assets/content/Lore/Asguard/Valsal_Hall.md",
+            "newShortcode": "valsalhall",
+            "newAddress": "place-valsalhall",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "place",
+            "subType": "structure",
+            "description": null,
+            "note": "the god's whole name _Ódvar_ in the genitive + the published generic `-höll` \"a great hall\" — a place held from a god dwelling there, under § _Place names_. `oldName: null` — nothing is retired; the hall answered to its region's name, Valsal, which the region keeps",
+            "prose": null,
+            "oldRefPaths": [],
+            "boldKind": "none"
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Sólrúnshöll",
+            "newAliases": ["Sólrún's Hall"],
+            "newPath": "assets/content/Lore/Asguard/Solvangr_Hall.md",
+            "newShortcode": "solvangrhall",
+            "newAddress": "place-solvangrhall",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "place",
+            "subType": "structure",
+            "description": null,
+            "note": "the god's whole name _Sólrún_ in the genitive + the published generic `-höll` \"a great hall\" — a place held from a god dwelling there, under § _Place names_. Judged as a place and not as a compound: the letters also decompose as `sól-` + `-rún` + `-höll`, three ordinary elements, and that reading is not the name. `oldName: null` — nothing is retired; the hall answered to its field's name, Sólvangr, which the field keeps",
+            "prose": null,
+            "oldRefPaths": [],
+            "boldKind": "none"
+        },
+        {
+            "oldName": "Hróarr",
+            "oldAliases": null,
+            "oldPath": "assets/content/Affiliations/Organizations/Malalidabandalag.md",
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Hrindvir",
+            "newAliases": null,
+            "newPath": "assets/content/Affiliations/Organizations/Malalidabandalag.md",
+            "newShortcode": null,
+            "newAddress": null,
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "being",
+            "subType": "given",
+            "description": null,
+            "note": "_hrind-_ (middle grade) + `-vir` (a man) — the Compact's Speaker; the retired form carries \"óa\" in hiatus, which Nordmal does not write, and the `hr-` opening is kept so the line still alliterates",
+            "prose": null,
+            "oldRefPaths": [
+                "main:assets/content/Affiliations/Organizations/Malalidabandalag.md:102:181"
+            ],
+            "boldKind": "none"
+        },
+        {
+            "oldName": "Vetrljóss",
+            "oldAliases": null,
+            "oldPath": "assets/content/Affiliations/Organizations/Malalidabandalag.md",
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Vetreldr",
+            "newAliases": null,
+            "newPath": "assets/content/Affiliations/Organizations/Malalidabandalag.md",
+            "newShortcode": null,
+            "newAddress": null,
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "being",
+            "subType": "clan",
+            "description": null,
+            "note": "_vetr-_ \"winter\" (Vetrúlfr, Vetrnaetr) + `-eldr` \"fire\" — an earned name, Winter-Fire; the retired form closes on `s`, which no Nordmal name closes on, and `-eldr` carries the light the retired closing named",
+            "prose": null,
+            "oldRefPaths": [
+                "main:assets/content/Affiliations/Organizations/Malalidabandalag.md:102:189"
             ],
             "boldKind": "none"
         }

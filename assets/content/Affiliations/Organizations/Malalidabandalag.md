@@ -99,7 +99,7 @@ The Compact does not field its own troops. It does not levy. It does not adjudic
 
 A company joins the Compact by its captain's oath and its named muster sworn before the **Council of the Hall** at Hringstead. The Council has nine seats—one for each of the three longest-standing companies, three rotating seats elected from junior signed companies, and three seats reserved for retired captains of particular standing (the _grákáppar_, the "gray champions"). The Council meets four times a year, at the Compact's gathering-feasts.
 
-Day-to-day administration falls to the **Speaker of the Compact** (the _Bandalagstalsmadr_), elected by the Council for a five-year term. The current Speaker is **Hróarr Vetrljóss**, a one-eyed veteran of the Vithgard succession wars who is widely respected and very much feared.
+Day-to-day administration falls to the **Speaker of the Compact** (the _Bandalagstalsmadr_), elected by the Council for a five-year term. The current Speaker is **Hrindvir Vetreldr**, a one-eyed veteran of the Vithgard succession wars who is widely respected and very much feared.
 
 There are presently thirty-four signed companies of meaningful size, ranging from twelve-sword scouting bands to the **Hringstead Long-Ship Fellowship** of nearly four hundred warriors and twelve ships. The largest signed company in living memory was the Stormhand Brotherhood at six hundred swords—disbanded a generation ago after a disastrous campaign in Vrystwald, an incident still spoken of in cautionary tones.
 
