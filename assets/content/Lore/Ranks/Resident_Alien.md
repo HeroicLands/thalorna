@@ -15,4 +15,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-3 bodies in Thalorna name this standing, at level 3 of their ladders, and each spells it in its own words: **Metic**, **Peregrine**, **Resident Alien**.
+15 bodies in Thalorna name this standing, at level 3 of their ladders. **Metic** stands in 8, **Peregrine** stands in 5, and **Resident Alien** stands in 2.

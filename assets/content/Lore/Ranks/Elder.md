@@ -15,4 +15,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-8 bodies in Thalorna name this standing, at levels 4, 5, 6, 7 of their ladders, and each spells it in its own words: **Elder Shaman**, **Elder**, **Elder Member**, **Sister of the Sacred College**, **Elder of a House**, **Elder of the Synod**, **Elder of a Lineage**, **Elder of the House**.
+43 bodies in Thalorna name this standing, at levels 4, 5, 6, 7 of their ladders. **Elder** stands in 15, **Elder Shaman** stands in 9, and **Elder Member** stands in 2. It also stands singly, in one body each, as **Aurelian**, **Elder of a House**, **Elder of a Lineage**, **Elder of the House**, and **Elder of the Spirit**, plus 12 more.

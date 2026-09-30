@@ -15,4 +15,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-1 bodies in Thalorna name this standing, at level 2 of their ladders, and each spells it in its own words: **Apprentice**.
+29 bodies in Thalorna name this standing, at level 2 of their ladders. **Copyist** stands in 19 and **Apprentice** stands in 6. It also stands singly, in one body each, as **Antevāsin**, **Discipuli**, **Shâgerd**, and **Slate-holder**.

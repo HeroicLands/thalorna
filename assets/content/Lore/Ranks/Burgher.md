@@ -15,4 +15,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-3 bodies in Thalorna name this standing, at level 3 of their ladders, and each spells it in its own words: **Freeman of the City**, **Townsman**, **Freeman of a Chartered Town**.
+16 bodies in Thalorna name this standing, at level 3 of their ladders. **Freeman of the City** stands in 13. It also stands singly, in one body each, as **Freeman of a Chartered Town**, **Lesser House**, and **Townsman**.

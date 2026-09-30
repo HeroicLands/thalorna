@@ -15,4 +15,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-2 bodies in Thalorna name this standing, at level 3 of their ladders, and each spells it in its own words: **Gentry**, **Dhanāja**.
+20 bodies in Thalorna name this standing, at level 3 of their ladders. **Dhanāja** stands in 11 and **Gentry** stands in 8. It also stands singly, in one body each, as **Courtier**.

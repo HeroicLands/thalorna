@@ -15,4 +15,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-6 bodies in Thalorna name this standing, at levels 3, 4 of their ladders, and each spells it in its own words: **Warrior**, **Veteran**, **Senāja**, **Blooded**, **Petty Officer**, **Proven Hunter**.
+39 bodies in Thalorna name this standing, at levels 3, 4 of their ladders. **Veteran** and **Warrior** each stand in 12 and **Senāja** stands in 11. It also stands singly, in one body each, as **Bahâr**, **Blooded**, **Marine**, and **Proven Hunter**.

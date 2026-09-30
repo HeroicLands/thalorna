@@ -15,4 +15,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-4 bodies in Thalorna name this standing, at level 7 of their ladders, and each spells it in its own words: **Royal Kin**, **Royalty**, **Zhëklüng**, **Heir**.
+23 bodies in Thalorna name this standing, at level 7 of their ladders. **Royal Kin** stands in 12, **Royalty** stands in 8, and **Zhëklüng** stands in 2. It also stands singly, in one body each, as **Heir**.

@@ -15,4 +15,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-9 bodies in Thalorna name this standing, at levels 2, 3 of their ladders, and each spells it in its own words: **Sworn Member**, **Associate**, **Made Member**, **Member**, **Full Member**, **Daughter of a House**, **Companion**, **Sworn Hunter**, **Sworn of the Hunt**.
+31 bodies in Thalorna name this standing, at levels 2, 3 of their ladders. **Sworn Member** stands in 12, **Associate** and **Made Member** each stand in 8, **Member** stands in 3, and **Full Member** stands in 2. It also stands singly, in one body each, as **Companion**, **Daughter of a House**, **Individual Moneylender**, **Lesser House**, and **Retainer**, plus 3 more.

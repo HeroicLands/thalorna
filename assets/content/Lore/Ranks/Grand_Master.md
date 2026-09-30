@@ -15,4 +15,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-9 bodies in Thalorna name this standing, at level 8 of their ladders, and each spells it in its own words: **Hierophant**, **Grand Master**, **Master of the Company**, **First of the Tradition**, **Archon**, **Boss**, **Minister**, **Prime of the Synod**, **Mistress of the Long Evening**.
+114 bodies in Thalorna name this standing, at level 8 of their ladders. **Chief Intendant** stands in 19, **Master of the Company** stands in 12, **Presiding K'ul Tq'an** stands in 11, **Grand Master** stands in 9, **Archon**, **Boss**, and **Wer Khel-Gebu** each stand in 8, and **First of the Tradition** stands in 7. It also stands singly, in one body each, as **Archivus Peregrinorum**, **Archmagister**, **Eldr Fadir/Módir**, **Fadir / Módir**, and **Flame-Warden**, plus 27 more.

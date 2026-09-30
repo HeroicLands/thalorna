@@ -15,4 +15,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-2 bodies in Thalorna name this standing, at level 4 of their ladders, and each spells it in its own words: **Earner**, **Senior Companion**.
+9 bodies in Thalorna name this standing, at level 4 of their ladders. **Earner** stands in 8. It also stands singly, in one body each, as **Senior Companion**.

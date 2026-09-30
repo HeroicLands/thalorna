@@ -15,4 +15,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-14 bodies in Thalorna name this standing, at levels 3, 4, 5 of their ladders, and each spells it in its own words: **Officer**, **Warden**, **House Factor**, **Senior Officer**, **Deputy**, **Tānthëi**, **Vüshōk**, **Naukléra**, **Pack-Leader**, **Officer of the Court**, **Warden of the Approaches**, **Ithári'kaan**, **Handler**, **Track-Leader**.
+67 bodies in Thalorna name this standing, at levels 3, 4, 5 of their ladders. **Officer** stands in 23, **Seal-Holder** stands in 19, **House Factor** stands in 13, and **Tānthëi** and **Vüshōk** each stand in 2. It also stands singly, in one body each, as **Censor**, **Guildmaster**, **Handler**, **Inspector**, and **Ithári'kaan**, plus 6 more.

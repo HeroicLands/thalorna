@@ -15,4 +15,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-1 bodies in Thalorna name this standing, at level 2 of their ladders, and each spells it in its own words: **Freedman**.
+21 bodies in Thalorna name this standing, at level 2 of their ladders. All 21 spell it **Freedman**.
