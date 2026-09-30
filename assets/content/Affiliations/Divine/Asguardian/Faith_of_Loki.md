@@ -1,6 +1,6 @@
 ---
 shortcode: loki
-name: {full: Faith of Lôki, aliases: [The Serpent's Path]}
+name: {full: Faith of Vélgrímr, aliases: [The Serpent's Path]}
 type: affiliation
 subType: faithtradition
 description: "Cunning, Deception, and Thieves."
@@ -58,17 +58,15 @@ data:
         description: >-
           "Father/Mother of Serpents"—Pontiff of the Shifting Veil. Father or Mother of the god: the highest pontifical office, held by one person at a time.
     offices:
-      Order of the Shifting Veil: >-
-        Priests dedicated to mastering the arts of illusion and disguise, often serving as spies and infiltrators.
-      Serpentfangs: >-
-        Fighters who combine physical prowess with the art of poison, using their knowledge of toxins to weaken and kill their foes.
-      Knights of the Shifting Shadow: >-
-        A militant order dedicated to protecting Lôki's temples and followers, using stealth and strategy.
-      Allsherjargodi: >-
-        High priest of the faith, and its voice where it must speak with one.
-      Fadir/Módir: >-
-        Father or Mother of the god—the highest office, held by one person.
-      Godi/Gydja: >-
+      Hofsfadir / Hofsmódir: >-
+        Founder of a hof, honored as its father or mother for life.
+      Landsgodi: >-
+        Priest of the land, who hallows the ting island and speaks for the Ten with one voice.
+      Höfudgodi: >-
+        Head of the faith in one kingdom, seated among its jarls.
+      Hofgodi: >-
+        Keeper of a named hof, its stores and its blót.
+      Godi / Gydja: >-
         The working priest or priestess of a hall, who keeps its rites and its people.
   seat: null
   domains: []
@@ -81,15 +79,15 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Lôki, the god of cunning, deception, and thieves, is the archetypal trickster—an unpredictable force of chaos and disruption. He is revered and feared in equal measure, embodying a dynamic, shape-shifting energy that defies the status quo and undermines conventional power structures. His followers are a diverse group, including assassins, thieves, and the downtrodden—those who lurk in society's shadows and navigate its underworld.
+Vélgrímr, the god of cunning, deception, and thieves, is the archetypal trickster—an unpredictable force of chaos and disruption. He is revered and feared in equal measure, embodying a dynamic, shape-shifting energy that defies the status quo and undermines conventional power structures. His followers are a diverse group, including assassins, thieves, and the downtrodden—those who lurk in society's shadows and navigate its underworld.
 
 ## Aspects
 
-Known for his sharp intellect and silver tongue, Lôki is a master of disguise and manipulation. His trickery knows no bounds, and he delights in orchestrating elaborate schemes that bring downfall to the powerful and instigate disorder. His ultimate goal is not to elevate the marginalized but to sow chaos and dismantle established order.
+Known for his sharp intellect and silver tongue, Vélgrímr is a master of disguise and manipulation. His trickery knows no bounds, and he delights in orchestrating elaborate schemes that bring downfall to the powerful and instigate disorder. His ultimate goal is not to elevate the marginalized but to sow chaos and dismantle established order.
 
-Temples dedicated to Lôki are rare and typically hidden from plain sight, often disguised as common establishments or concealed in the darkest corners of cities. Rituals in his name often involve acts of trickery and subversion, as well as offerings of stolen goods or other symbols of defiance.
+Temples dedicated to Vélgrímr are rare and typically hidden from plain sight, often disguised as common establishments or concealed in the darkest corners of cities. Rituals in his name often involve acts of trickery and subversion, as well as offerings of stolen goods or other symbols of defiance.
 
-Lôki is depicted as a charismatic and enigmatic figure, his expression always carrying a hint of a knowing smile. His eyes, sharp and alert, gleam with mischief and intelligence. In his hands, Lôki might hold a dagger or a coin, icons of his domains of assassination and thievery, or a mask, symbolizing his mastery over deception and disguise.
+Vélgrímr is depicted as a charismatic and enigmatic figure, his expression always carrying a hint of a knowing smile. His eyes, sharp and alert, gleam with mischief and intelligence. In his hands, Vélgrímr might hold a dagger or a coin, icons of his domains of assassination and thievery, or a mask, symbolizing his mastery over deception and disguise.
 
 ## Sacred Objects
 
@@ -117,22 +115,22 @@ Lôki is depicted as a charismatic and enigmatic figure, his expression always c
 
 ## Divine Servants
 
-- **Shadow Serpents:** Ethereal snakes that serve as messengers and agents of Lôki, often appearing in times of deception or mischief.
-- **Whispering Winds:** Spirits that carry secrets and lies, aiding Lôki's followers in their schemes.
+- **Shadow Serpents:** Ethereal snakes that serve as messengers and agents of Vélgrímr, often appearing in times of deception or mischief.
+- **Whispering Winds:** Spirits that carry secrets and lies, aiding Vélgrímr's followers in their schemes.
 
 ## Ceremonies and Festivals
 
 **Low Ceremonies:**
 
-- **The Masked Vigil:** A monthly ritual where followers don masks and share secrets, invoking Lôki's blessings for their cunning and craft.
+- **The Masked Vigil:** A monthly ritual where followers don masks and share secrets, invoking Vélgrímr's blessings for their cunning and craft.
 
 **High Ceremonies:**
 
-- **The Rite of Shadows:** A secretive ritual where the clergy gather to deepen their connection with Lôki, often resulting in new insights and abilities in the art of deception.
+- **The Rite of Shadows:** A secretive ritual where the clergy gather to deepen their connection with Vélgrímr, often resulting in new insights and abilities in the art of deception.
 
 **Festivals:**
 
-- **Festival of Masks:** Held in the autumn, this festival celebrates Lôki's mastery of disguise and deception with elaborate masquerades and games of wit.
+- **Festival of Masks:** Held in the autumn, this festival celebrates Vélgrímr's mastery of disguise and deception with elaborate masquerades and games of wit.
 - **The Night of Whispers:** An annual event where the faithful engage in a night of intrigue and subterfuge, with prizes awarded to the most cunning participants.
 
 ## Ordeals for Favor
@@ -140,7 +138,7 @@ Lôki is depicted as a charismatic and enigmatic figure, his expression always c
 - **The Shadow Walk:** A task where participants must infiltrate a heavily guarded location and retrieve a valuable item, relying solely on their skills in stealth and deception.
 - **The Trial of Lies:** A challenge where the faithful must weave a web of lies so intricate that it ensnares a powerful figure.
 - **The Serpent's Maze:** An ordeal where the participant must navigate a deadly labyrinth filled with traps, illusions, and false leads.
-- **The Whispering Hunt:** A task where participants must gather valuable secrets from influential figures, using them to manipulate events in Lôki's favor.
+- **The Whispering Hunt:** A task where participants must gather valuable secrets from influential figures, using them to manipulate events in Vélgrímr's favor.
 
 ## Orders
 
@@ -151,4 +149,4 @@ Lôki is depicted as a charismatic and enigmatic figure, his expression always c
 **Fighting Orders:**
 
 - **Serpentfangs:** Fighters who combine physical prowess with the art of poison, using their knowledge of toxins to weaken and kill their foes.
-- **Knights of the Shifting Shadow:** A militant order dedicated to protecting Lôki's temples and followers, using stealth and strategy.
+- **Knights of the Shifting Shadow:** A militant order dedicated to protecting Vélgrímr's temples and followers, using stealth and strategy.

@@ -1,6 +1,6 @@
 ---
 shortcode: heldty
-name: {full: Hél, aliases: []}
+name: {full: Náhild, aliases: []}
 type: lore
 subType: deity
 description: "The Despiser of Life among the Asguardian gods, holding the dead and the underworld they pass into."

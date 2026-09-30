@@ -1,6 +1,6 @@
 ---
 shortcode: loki
-name: {full: "Ritual: Lôki", aliases: [The Serpent's Path]}
+name: {full: "Ritual: Vélgrímr", aliases: [The Serpent's Path]}
 type: skill
 subType: mystical
 tags: [asguardian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-loki|Faith of Lôki]]
+See [[affiliation-loki|Faith of Vélgrímr]]

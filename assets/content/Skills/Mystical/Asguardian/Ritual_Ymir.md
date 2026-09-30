@@ -1,6 +1,6 @@
 ---
 shortcode: ymir
-name: {full: "Ritual: Ymir", aliases: [The Divine Architect's Path]}
+name: {full: "Ritual: Hrímthur", aliases: [The Path of the First Wound]}
 type: skill
 subType: mystical
 tags: [asguardian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-ymir|Faith of Ymir]]
+See [[affiliation-ymir|Faith of Hrímthur]]

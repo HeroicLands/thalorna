@@ -1,6 +1,6 @@
 ---
 shortcode: freyr
-name: {full: "Ritual: Fréyr", aliases: [The Verdant Path]}
+name: {full: "Ritual: Fródvin", aliases: [The Verdant Path]}
 type: skill
 subType: mystical
 tags: [asguardian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-freyr|Faith of Fréyr]]
+See [[affiliation-freyr|Faith of Fródvin]]

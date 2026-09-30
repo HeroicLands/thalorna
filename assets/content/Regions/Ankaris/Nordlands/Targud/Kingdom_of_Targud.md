@@ -62,18 +62,18 @@ data:
       King: Acclaimed sovereign, holding the realm by the ting's consent as much as by descent.
       Queen: The king's wife, keeper of the hall's keys and mistress of its household and stores.
       Jarl: Holder of a province of the king, commanding its levies and answering for its dues.
-      Hersir: Chieftain of a district, leading its men to the muster and speaking for them at the ting.
+      Hersvald: Chieftain of a district, leading its men to the muster and speaking for them at the ting.
       Lawspeaker: Keeper of the law in memory, who recites it at the assembly and declares what it is.
       Godi: >-
         Priest-chieftain of a temple and its district, holding sacred and secular authority together.
-      Stallari: The king's marshal, commander of his household men and master of the muster.
-      Ármadr: Steward of a royal estate, answerable for its yield and for the king's rights within it.
-      Féhirdir: Keeper of the king's treasure, his tribute and the silver of his hall.
-      Merkismadr: Bearer of the king's standard in battle, a post of the highest honor and shortest life.
+      Hirdstjóri: The king's marshal, commander of his household men and master of the muster.
+      Búvördr: Steward of a royal estate, answerable for its yield and for the king's rights within it.
+      Hringvördr: Keeper of the rings the king gives, his tribute and the silver of his hall.
+      Merkiberi: Bearer of the king's standard in battle, a post of the highest honor and shortest life.
       Skald: Court poet, whose verse is the realm's memory and whose praise or scorn makes reputations.
       Hirdman: Sworn man of the king's household troop, fed at his table and bound to his person.
-      Sýslumadr: The king's officer in a district, collecting his dues and holding his courts.
-      Styrimadr: Master of a ship, commanding her crew at sea and answering for her in the levy.
+      Landvördr: The king's reeve in a district, collecting his dues and holding his courts.
+      Skipstjóri: Master of a ship, commanding her crew at sea and answering for her in the levy.
       Harbour-reeve: Keeper of a haven, collecting its tolls and adjudicating disputes on its wharves.
   seat: valgard
   domains: [targud]

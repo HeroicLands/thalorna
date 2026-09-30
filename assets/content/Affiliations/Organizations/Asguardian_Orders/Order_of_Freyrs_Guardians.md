@@ -1,15 +1,9 @@
 ---
 shortcode: ordrfryrsgrdns
-name:
-  full: The Order of Fréyr's Guardians
-  aliases:
-    - Fréyrsverdir
-    - The Green Wardens
-    - The Guardians of the Harvest
-    - Order of Freyrs Guardians
+name: {full: The Green Wardens, aliases: [Grönverdir, The Guardians of the Harvest]}
 type: affiliation
 subType: order
-description: "Warrior-protectors sworn to Fréyr—guardians of farms, harvests, and the common folk against the dangers that the harvest-god's peace cannot itself avert."
+description: "Warrior-protectors sworn to Fródvin—guardians of farms, harvests, and the common folk against the dangers that the harvest-god's peace cannot itself avert."
 tags: []
 data:
   templatePriority: null
@@ -90,17 +84,17 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-_Old Norse: Fréyrsverdir—"Fréyr's Swords"_
+_Nordmal: Grönverdir—"the Green Wardens"_
 
 - **Type:** Fighting religious order
-- **Patron:** [[affiliation-freyr|Fréyr]]—Asguardian god of peace, fertility, harvest, and the sun
+- **Patron:** [[affiliation-freyr|Fródvin]]—Asguardian god of peace, fertility, harvest, and the sun
 - **Region:** [[place-nrdlndsrgn|The Nordlands]]—chapter halls in rural valleys across the five kingdoms, with no single mother-hall; the order rotates its annual chapter between the three largest active halls
 
 ## Overview
 
-The Order of Fréyr's Guardians is a paradox: a fighting order sworn to a god of peace. The paradox is, however, the order's central doctrine. Fréyr's peace is the peace of the cultivated valley—the harvest stored, the herd unmolested, the household whole—and that peace is not a passive state. It is held, in a region where raiders, wolves, hard winters, and casual cruelty from passing warbands are all standing threats, only by those willing to stand against the things that would take it. The Guardians are those who stand. Their working principle is that one does not protect peace by refusing to fight; one protects it by fighting only what threatens it.
+The Green Wardens are a paradox: a fighting order sworn to a god of peace. The paradox is, however, the order's central doctrine. Fródvin's peace is the peace of the cultivated valley—the harvest stored, the herd unmolested, the household whole—and that peace is not a passive state. It is held, in a region where raiders, wolves, hard winters, and casual cruelty from passing warbands are all standing threats, only by those willing to stand against the things that would take it. The Guardians are those who stand. Their working principle is that one does not protect peace by refusing to fight; one protects it by fighting only what threatens it.
 
-The order operates differently from its Týr-sworn siblings. Týr's Justice rides; Fréyr's Guardians settle. A Guardian is typically attached to a particular valley or cluster of farmsteads for years at a time, working alongside the household and serving as their armed presence in any contest with bandits, beasts, raiding parties, or the occasional warband whose discipline has slipped. The Guardian helps with the harvest. The Guardian helps with the calving. The Guardian also kills, when called to, with the trained competence of a sworn warrior whose vows specify exactly what kinds of killing are within his calling and which are not.
+The order operates differently from its Eidgar-sworn siblings. The Sworn Hands ride; the Green Wardens settle. A Guardian is typically attached to a particular valley or cluster of farmsteads for years at a time, working alongside the household and serving as their armed presence in any contest with bandits, beasts, raiding parties, or the occasional warband whose discipline has slipped. The Guardian helps with the harvest. The Guardian helps with the calving. The Guardian also kills, when called to, with the trained competence of a sworn warrior whose vows specify exactly what kinds of killing are within his calling and which are not.
 
 ## Membership and Structure
 
@@ -108,8 +102,8 @@ A candidate for the order is sponsored by a sitting Guardian and presented at th
 
 There are three ranks:
 
-- **Sworn Guardian** (_Fréyrsverd_)—the working warden; assigned to a station or, occasionally, riding as a circuit relief.
-- **Elder Guardian** (_Eldri Fréyrsverd_)—senior member; may serve as station-warden for a more important valley, may oversee training, sits on the order's Chapter.
+- **Sworn Guardian** (_Grönvördr_)—the working warden; assigned to a station or, occasionally, riding as a circuit relief.
+- **Elder Guardian** (_Eldri Grönvördr_)—senior member; may serve as station-warden for a more important valley, may oversee training, sits on the order's Chapter.
 - **Speaker of the Green** (_Groenmáll_)—the order's chair; elected by the Chapter for a five-year term; one position; functions as administrative coordinator rather than commander.
 
 The order's annual chapter meets in late autumn, after the harvest is stored, in rotation between the three largest active halls. Inter-chapter administration is light and largely conducted by correspondence between Elder Guardians.
@@ -131,15 +125,15 @@ The order's training emphasizes the kinds of combat the Defended Hearth requires
 
 ## Relations
 
-- **The Asguardian Pantheon's Priesthood**—religious foundation. Many Guardians are also lay priests of Fréyr; the order's annual chapter includes a major harvest-rite.
+- **The Asguardian Pantheon's Priesthood**—religious foundation. Many Guardians are also lay priests of Fródvin; the order's annual chapter includes a major harvest-rite.
 - **The five Nordland Crowns**—the kingdoms grant the order's stations land-use rights and informal exemption from levy (since a stationed Guardian's value to the crown is precisely that he is _not_ in the field with the king's host). The relationship is generally cordial and occasionally strained when a crown wishes to raise a levy that includes valley folk under Guardian protection.
 - **The [[affiliation-malldbndlg|Málalidabandalag]]**—wary mutual respect. The Compact's signed companies and the order's Guardians are sometimes on opposing sides of the same raid—the company hired to take a farmstead, the Guardian sworn to defend it. The standing convention is that both sides honor the rules of warfare under which they operate, and that captured wounded are returned for ransom or care.
-- **The [[affiliation-ordrtyrsjstc|Order of Týr's Justice]]**—sibling order; mutual recognition and occasional cooperation when a matter of contested harvest or steading involves judgment.
+- **The [[affiliation-ordrtyrsjstc|Order of the Sworn Hand]]**—sibling order; mutual recognition and occasional cooperation when a matter of contested harvest or steading involves judgment.
 - **The [[affiliation-ordrstrmspkrs|Order of the Storm-Speakers]]**—formal cooperation in winter. The Storm-Speakers' weather-magic and the Guardians' practical valley defense overlap in the hard months.
 
 ## Identifying Marks
 
-A Sworn Guardian wears the green cloak of the order—undyed wool dyed with the _groenujurt_ plant—over working clothes. The clasp at the throat bears Fréyr's sigil, a sun-disc rising over a sheaf of barley. Elder Guardians wear an additional small bronze pin in the shape of the sheaf alone. The Speaker of the Green wears the great gold sun-disc of office, kept at the rotating chapter hall.
+A Sworn Guardian wears the green cloak of the order—undyed wool dyed with the _groenujurt_ plant—over working clothes. The clasp at the throat bears Fródvin's sigil, a sun-disc rising over a sheaf of barley. Elder Guardians wear an additional small bronze pin in the shape of the sheaf alone. The Speaker of the Green wears the great gold sun-disc of office, kept at the rotating chapter hall.
 
 ## Plot Hooks
 

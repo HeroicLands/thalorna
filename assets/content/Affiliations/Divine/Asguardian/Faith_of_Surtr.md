@@ -1,6 +1,6 @@
 ---
 shortcode: surtr
-name: {full: Faith of Súrtr, aliases: [The Flameborn Path]}
+name: {full: Faith of Svartbrandr, aliases: [The Flameborn Path]}
 type: affiliation
 subType: faithtradition
 description: "Fire and Savage Battle."
@@ -58,17 +58,15 @@ data:
         description: >-
           "Father/Mother of Fire"—Pontiff of the Eternal Flame. Father or Mother of the god: the highest pontifical office, held by one person at a time.
     offices:
-      Order of the Inferno: >-
-        Priests dedicated to mastering the power of fire, often serving as blacksmiths and forge masters.
-      Infernal Blades: >-
-        Elite warriors known for their ferocity in battle.
-      Flameguard: >-
-        A militant order dedicated to protecting Súrtr's temples and followers, using fire-based combat techniques.
-      Allsherjargodi: >-
-        High priest of the faith, and its voice where it must speak with one.
-      Fadir/Módir: >-
-        Father or Mother of the god—the highest office, held by one person.
-      Godi/Gydja: >-
+      Hofsfadir / Hofsmódir: >-
+        Founder of a hof, honored as its father or mother for life.
+      Landsgodi: >-
+        Priest of the land, who hallows the ting island and speaks for the Ten with one voice.
+      Höfudgodi: >-
+        Head of the faith in one kingdom, seated among its jarls.
+      Hofgodi: >-
+        Keeper of a named hof, its stores and its blót.
+      Godi / Gydja: >-
         The working priest or priestess of a hall, who keeps its rites and its people.
   seat: null
   domains: []
@@ -81,15 +79,15 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Súrtr, the fire giant and god of savage battle, embodies the raw, destructive force of fire and the unrelenting fury of war. He is a fearsome figure, towering over his enemies, his body wreathed in flames that consume all they touch. Súrtr's presence is a harbinger of destruction, symbolizing the inevitable end of worlds, as foretold in the prophecies of Ragnarok.
+Svartbrandr, the fire giant and god of savage battle, embodies the raw, destructive force of fire and the unrelenting fury of war. He is a fearsome figure, towering over his enemies, his body wreathed in flames that consume all they touch. Svartbrandr's presence is a harbinger of destruction, symbolizing the inevitable end of worlds, as foretold in the prophecies of Aldarlok.
 
 ## Aspects
 
-Súrtr is depicted as a massive, menacing figure, his skin blackened by the eternal flames that engulf him. He wields a colossal sword, often described as being made of fire, capable of incinerating anything in its path—the weapon that will set the world ablaze during Ragnarok.
+Svartbrandr is depicted as a massive, menacing figure, his skin blackened by the eternal flames that engulf him. He wields a colossal sword, often described as being made of fire, capable of incinerating anything in its path—the weapon that will set the world ablaze during Aldarlok.
 
-In the cosmic struggle, Súrtr is the embodiment of chaos and destruction, standing in direct opposition to Týr, who represents order and justice. This conflict between Súrtr and Týr is not just a battle of physical might, but a deeper, existential struggle over the fate of the cosmos itself.
+In the cosmic struggle, Svartbrandr is the embodiment of chaos and destruction, standing in direct opposition to Eidgar, who represents order and justice. This conflict between Svartbrandr and Eidgar is not just a battle of physical might, but a deeper, existential struggle over the fate of the cosmos itself.
 
-Followers of Súrtr are warriors who embrace the chaos and brutality of battle. They see war as a purifying force, one that burns away the weak and the unworthy, leaving only the strong to claim victory. Worship of Súrtr is intense and often involves acts of ritualistic violence or symbolic destruction. His altars are typically simple, often made of stone or metal, and are located in places associated with fire—volcanoes, forges, or the aftermath of a great fire.
+Followers of Svartbrandr are warriors who embrace the chaos and brutality of battle. They see war as a purifying force, one that burns away the weak and the unworthy, leaving only the strong to claim victory. Worship of Svartbrandr is intense and often involves acts of ritualistic violence or symbolic destruction. His altars are typically simple, often made of stone or metal, and are located in places associated with fire—volcanoes, forges, or the aftermath of a great fire.
 
 ## Sacred Objects
 
@@ -100,9 +98,9 @@ Followers of Súrtr are warriors who embrace the chaos and brutality of battle. 
 
 ## Relics
 
-- **Heart of Ragnarok:** (Unique) A molten core said to be a part of Súrtr's fiery essence, encased in a blackened iron vessel, radiating intense heat and energy. It is said that any who dare to touch it directly will be consumed by its flames.
-- **Ashen Gauntlets:** A pair of gloves forged from volcanic ash and imbued with Súrtr's fiery essence, granting the wearer enhanced strength and the ability to withstand extreme heat.
-- **Emberstone Amulet:** A small, fiery gem set in a simple iron pendant, said to hold a fragment of Súrtr's eternal flame. Provides protection from fire and the ability to ignite flames at will.
+- **Heart of Aldarlok:** (Unique) A molten core said to be a part of Svartbrandr's fiery essence, encased in a blackened iron vessel, radiating intense heat and energy. It is said that any who dare to touch it directly will be consumed by its flames.
+- **Ashen Gauntlets:** A pair of gloves forged from volcanic ash and imbued with Svartbrandr's fiery essence, granting the wearer enhanced strength and the ability to withstand extreme heat.
+- **Emberstone Amulet:** A small, fiery gem set in a simple iron pendant, said to hold a fragment of Svartbrandr's eternal flame. Provides protection from fire and the ability to ignite flames at will.
 
 ## Clergy
 
@@ -118,14 +116,14 @@ Followers of Súrtr are warriors who embrace the chaos and brutality of battle. 
 
 ## Divine Servants
 
-- **Fire Giants:** Massive beings of flame and stone who serve Súrtr as warriors and guardians.
-- **Infernal Hounds:** Fierce, flame-breathing beasts that hunt down the enemies of Súrtr.
+- **Fire Giants:** Massive beings of flame and stone who serve Svartbrandr as warriors and guardians.
+- **Infernal Hounds:** Fierce, flame-breathing beasts that hunt down the enemies of Svartbrandr.
 
 ## Ceremonies and Festivals
 
 **Low Ceremonies:**
 
-- **The Ash Offering:** A ritual where the faithful offer burned sacrifices to Súrtr, asking for strength and conquest of enemies.
+- **The Ash Offering:** A ritual where the faithful offer burned sacrifices to Svartbrandr, asking for strength and conquest of enemies.
 
 **High Ceremonies:**
 
@@ -134,12 +132,12 @@ Followers of Súrtr are warriors who embrace the chaos and brutality of battle. 
 **Festivals:**
 
 - **The Pyre's Awakening:** An annual celebration of fire and destruction, where great bonfires are lit, and the faithful gather for spectacles of gladiatorial battles and ritual combat, sometimes involving wild beasts or captured slaves. Enemies are often burned alive at these festivals.
-- **The Forge's Fury:** A festival dedicated to the creation of weapons and armor, with competitions to see who can forge the finest items under Súrtr's guidance.
+- **The Forge's Fury:** A festival dedicated to the creation of weapons and armor, with competitions to see who can forge the finest items under Svartbrandr's guidance.
 
 ## Ordeals for Favor
 
-- **The Firewalk:** An ordeal where participants must walk barefoot across a bed of hot coals, proving their devotion to Súrtr.
-- **The Flame's Trial:** An ordeal where the faithful must survive in a volcanic region, relying on Súrtr's protection to endure the heat and danger.
+- **The Firewalk:** An ordeal where participants must walk barefoot across a bed of hot coals, proving their devotion to Svartbrandr.
+- **The Flame's Trial:** An ordeal where the faithful must survive in a volcanic region, relying on Svartbrandr's protection to endure the heat and danger.
 
 ## Orders
 
@@ -150,4 +148,4 @@ Followers of Súrtr are warriors who embrace the chaos and brutality of battle. 
 **Fighting Orders:**
 
 - **Infernal Blades:** Elite warriors known for their ferocity in battle.
-- **Flameguard:** A militant order dedicated to protecting Súrtr's temples and followers, using fire-based combat techniques.
+- **Flameguard:** A militant order dedicated to protecting Svartbrandr's temples and followers, using fire-based combat techniques.
