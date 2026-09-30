@@ -69,7 +69,7 @@ data:
       Godi / Gydja: >-
         The working priest or priestess of a hall, who keeps its rites and its people.
   seat: null
-  domains: []
+  domains: [solvangrhall]
   population: null
   economy: []
   lore: [freyjadty]
