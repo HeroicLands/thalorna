@@ -33,6 +33,8 @@ The northern foothills rise into high passes and snow-bearing slopes. South of t
 
 The eastern shore faces the warm [[place-suryasamdra|Sūrya-samudra]], and the southern shore the [[place-meghsamdra|Megha-samudra]]. Both are humid and monsoon-washed. The shorter western shore faces the [[place-sandhysmdr|Sandhyā-samudra]]; it is much drier, with no great river reaching its coast. The southern and eastern shores receive the heaviest seasonal rain.
 
+The [[being-vdyrnrhn|Vedyaran rhinoceros]] favors the marshes and tall grass of the floodplains. [[being-vdyrnelphnt|Vedyaran elephants]] serve as temple mounts and war beasts. Their notes give travelers and GMs a closer look at the largest animals of this country.
+
 ## Climate
 
 A wet season and a dry season govern the region. Monsoon rain falls hardest on the coasts, while the interior plateau remains comparatively dry. The northern mountains carry snow for part of the year. Snowmelt and monsoon runoff together feed the great rivers, whose level changes shape the floodplains below.
