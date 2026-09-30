@@ -641,17 +641,20 @@ export function judge(name, kind, rule) {
             const head = lower.slice(0, lower.length - generic.length);
             // Held from the ground alone: a name-stem, degeminating at the seam.
             for (const [stem] of rule.stems) {
-                if (stem === head || bind(stem, generic) === lower) return [];
+                if (stem === head || bind(stem, generic) === lower)
+                    return shape(name, rule, "compound");
             }
             // Held from a god, from the ting and its law, from a sanctuary or
             // from the gods' world: the forms the note's own table names.
-            if (rule.placeFirst.has(head) || rule.godFirst.has(head)) return [];
+            if (rule.placeFirst.has(head) || rule.godFirst.has(head))
+                return shape(name, rule, "compound");
             // Held from a god dwelling there: that god's whole name, in the
             // genitive. The register settles which names are a god's, so no
             // other word reaches this clause however it is spelled.
             if (rule.fromGodWhole) {
                 for (const god of rule.godWhole) {
-                    if (head === `${god}s` || head === `${god}a`) return [];
+                    if (head === `${god}s` || head === `${god}a`)
+                        return shape(name, rule, "compound");
                 }
             }
             // Held from a founder: a lawful given name, with a genitive at the
@@ -661,7 +664,7 @@ export function judge(name, kind, rule) {
                     for (const ending of rule.bestowal.keys()) {
                         const given = bind(stem, ending);
                         if (head === given || head === `${given}s` || head === `${given}a`)
-                            return [];
+                            return shape(name, rule, "compound");
                     }
                 }
             }
