@@ -1,6 +1,6 @@
 ---
 shortcode: surtr
-name: {full: "Ritual: Súrtr", aliases: [The Flameborn Path]}
+name: {full: "Ritual: Svartbrandr", aliases: [The Flameborn Path]}
 type: skill
 subType: mystical
 tags: [asguardian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-surtr|Faith of Súrtr]]
+See [[affiliation-surtr|Faith of Svartbrandr]]

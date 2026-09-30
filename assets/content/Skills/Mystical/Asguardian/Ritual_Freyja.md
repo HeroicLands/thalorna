@@ -1,6 +1,6 @@
 ---
 shortcode: freyja
-name: {full: "Ritual: Fréyja", aliases: [The Golden Path]}
+name: {full: "Ritual: Sólrún", aliases: [The Golden Path]}
 type: skill
 subType: mystical
 tags: [asguardian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-freyja|Faith of Fréyja]]
+See [[affiliation-freyja|Faith of Sólrún]]

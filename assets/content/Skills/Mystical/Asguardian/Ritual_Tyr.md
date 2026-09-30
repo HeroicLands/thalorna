@@ -1,6 +1,6 @@
 ---
 shortcode: tyr
-name: {full: "Ritual: Týr", aliases: [The Just Path]}
+name: {full: "Ritual: Eidgar", aliases: [The Just Path]}
 type: skill
 subType: mystical
 tags: [asguardian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-tyr|Faith of Týr]]
+See [[affiliation-tyr|Faith of Eidgar]]

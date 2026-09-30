@@ -1,11 +1,11 @@
 ---
 shortcode: ordrymrschldrn
 name:
-  full: The Order of Ymir's Children
-  aliases: [Ymisbörn, The Children of the First Frost, The Bonebreakers, Order of Ymirs Children]
+  full: The Giant's Children
+  aliases: [Thursbörn, The Children of the First Frost, The Bonebreakers]
 type: affiliation
 subType: order
-description: "Initiatic warrior brotherhood of Ymir—devotees of the primordial god of creation and strength, sworn to wield the violence from which the world was first made."
+description: "Initiatic warrior brotherhood of Hrímthur—devotees of the primordial god of creation and strength, sworn to wield the violence from which the world was first made."
 tags: []
 data:
   templatePriority: null
@@ -86,17 +86,17 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-_Old Norse: Ymisbörn—"Ymir's Children"_
+_Nordmal: Thursbörn—"the Giant's Children"_
 
 - **Type:** Initiatic fighting religious order
-- **Patron:** [[affiliation-ymir|Ymir]]—Asguardian primordial god of creation, raw strength, and the violence from which the cosmos was shaped
+- **Patron:** [[affiliation-ymir|Hrímthur]]—the Rime-Giant out of whose body the world was cut
 - **Region:** [[place-nrdlndsrgn|The Nordlands]], with strongest concentrations in the colder northern reaches; smaller chapters in [[place-vrystwald|Vrystwald]] and the more remote valleys of [[place-aelwyth|Aelwyth]]
 
 ## Overview
 
-The Order of Ymir's Children is the most theologically severe of the Asguardian fighting orders, and the one most regarded with cautious distance by the others. Where Týr's knights serve the law and Fréyr's wardens defend the harvest, Ymir's Children pursue something less domesticated: the cultivation, within themselves, of the primordial strength from which the gods first made the world. The order's central doctrine—that creation itself was an act of violence done to the body of the primordial giant Ymir, and that the world's continued existence depends on the periodic renewal of that founding violence—is taken with absolute seriousness by its members and with a certain wariness by everyone else.
+The Giant's Children are the most theologically severe of the Asguardian fighting orders, and the one most regarded with cautious distance by the others. Where the Sworn Hands serve the law and the Green Wardens defend the harvest, the Giant's Children pursue something less domesticated: the cultivation, within themselves, of the strength the world was cut out of. The order's central doctrine—that creation was an act of violence done to the body of the Rime-Giant Hrímthur, and that the world's continued existence depends on the periodic renewal of that founding violence—is taken with absolute seriousness by its members and with a certain wariness by everyone else.
 
-This does not make the order's members lawless. They are, by most accounts, exceptionally disciplined; the order's training is grueling, its initiations more so, and the surviving membership is small (perhaps four hundred sworn brothers across the Nordlands) and selective. What it does make them is theologically committed to combat as a sacred act, and to the cultivation of personal strength as a religious vocation. A Child of Ymir does not fight for hire (the order forbids mercenary work absolutely), does not fight for crown or for jarl, does not fight in personal quarrel—but when the order calls him to fight, he fights with the conviction that he is participating in the world's foundational act.
+This does not make the order's members lawless. They are, by most accounts, exceptionally disciplined; the order's training is grueling, its initiations more so, and the surviving membership is small (perhaps four hundred sworn brothers across the Nordlands) and selective. What it does make them is theologically committed to combat as a sacred act, and to the cultivation of personal strength as a religious vocation. A Child of Hrímthur does not fight for hire (the order forbids mercenary work absolutely), does not fight for crown or for jarl, does not fight in personal quarrel—but when the order calls him to fight, he fights with the conviction that he is participating in the world's foundational act.
 
 The order is exclusively male in present practice. The historical record includes some women among the founding generations; their absence from the contemporary order is a matter of internal debate that has, so far, never produced a change in policy.
 
@@ -116,7 +116,7 @@ The order maintains nine chapter halls across the Nordlands, each commanded by a
 
 The order's working theology is dense and not entirely shared with outsiders. Its three publicly known principles are:
 
-- **The Renewal of Founding**—that combat, properly conducted, participates in the cosmogonic violence of Ymir's slaying and shaping. The order's brothers fight with the understanding that the act of fighting is itself sacred, regardless of who wins.
+- **The Renewal of Founding**—that combat, properly conducted, participates in the cosmogonic violence of Hrímthur's slaying and shaping. The order's brothers fight with the understanding that the act of fighting is itself sacred, regardless of who wins.
 - **The Cultivation of the Body**—that physical strength, endurance, and the mastery of pain are religious virtues, cultivated by the order through training that approaches the punitive. A brother who allows his body to weaken in inactivity is failing his vow as surely as one who breaks it actively.
 - **The Refusal of Hire**—that the order does not accept payment for its members' work. Brothers labor for their hall's support during peacetime; in the field, they take no contracts. The principle is that the cultivation of sacred strength cannot coexist with the commercial sale of it.
 
@@ -131,14 +131,14 @@ The order's combat doctrine emphasizes individual prowess, heavy axe and hammer 
 
 The order does not maintain a standing field force. When the order calls its brothers to a particular cause, the call is issued by the Voice from the Wound through the chapter halls, and brothers travel to the gathering point under their own arrangements. The gathered force is then commanded by the Voice or his designated deputy. Such gatherings are rare—perhaps three in the last fifty years—and have typically responded to large-scale Helspawn ([[lore-undead|undead]]) incursions, threats to the cosmological order that the order regards as falling within its proper concern, or (once) the open emergence of a Black Flame faction operating in northern Aurèldía.
 
-Day-to-day, the order's brothers serve as chapter staff, as armed presence at remote settlements that have requested formal Ymisbörn protection (a relatively rare arrangement that involves theological as well as practical commitments on the settlement's part), and as itinerant teachers of the order's combat doctrine to selected younger warriors who are not order members but who are judged by sitting brothers to be of sufficient seriousness.
+Day-to-day, the order's brothers serve as chapter staff, as armed presence at remote settlements that have requested formal Thursbörn protection (a relatively rare arrangement that involves theological as well as practical commitments on the settlement's part), and as itinerant teachers of the order's combat doctrine to selected younger warriors who are not order members but who are judged by sitting brothers to be of sufficient seriousness.
 
 ## Relations
 
-- **The Asguardian Pantheon's Priesthood**—religious foundation; the order's senior initiations include rites at the great temple of Ymir at Holafell.
+- **The Asguardian Pantheon's Priesthood**—religious foundation; the order's senior initiations include rites at Holafell, the hof cut into the rock.
 - **The five Nordland Crowns**—careful tolerance. The kings respect the order, depend on its occasional interventions, and would prefer not to be in its way. No crown levies brothers of the order.
-- **The [[affiliation-ordrtyrsjstc|Order of Týr's Justice]]**—peer; mutual respect across theological distance.
-- **The [[affiliation-ordrfryrsgrdns|Order of Fréyr's Guardians]]**—the order most theologically opposite, since the Guardians revere cultivation and the Children revere founding violence. The two orders' members deal with one another correctly and seldom voluntarily.
+- **The [[affiliation-ordrtyrsjstc|Order of the Sworn Hand]]**—peer; mutual respect across theological distance.
+- **The [[affiliation-ordrfryrsgrdns|Green Wardens]]**—the order most theologically opposite, since the Wardens revere cultivation and the Children revere founding violence. The two orders' members deal with one another correctly and seldom voluntarily.
 - **The [[affiliation-ordrstrmspkrs|Order of the Storm-Speakers]]**—the order most theologically congenial; both share an interest in primal forces. Cooperation in the field is more frequent than with the other orders.
 - **The [[affiliation-blackflame|Black Flame]] of Aurèldía**—direct theological rival in the south; the order's only formal recent campaign was against a Black Flame faction that had begun making converts in border valleys.
 
