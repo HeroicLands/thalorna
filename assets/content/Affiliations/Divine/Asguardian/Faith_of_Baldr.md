@@ -38,7 +38,7 @@ data:
         Priest of the land, who hallows the ting island and speaks for the Ten with one voice.
       Höfudgodi: >-
         Head of the faith in one kingdom, seated among its jarls.
-      Hofgodi: >-
+      Hofsgodi: >-
         Keeper of a named hof, its stores and its blót.
       Godi / Gydja: >-
         The working priest or priestess of a hall, who keeps its rites and its people.
