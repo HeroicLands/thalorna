@@ -15,4 +15,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-2 bodies in Thalorna name this standing, at levels 6, 7 of their ladders, and each spells it in its own words: **Underboss**, **Vëndük**.
+10 bodies in Thalorna name this standing, at levels 6, 7 of their ladders. **Underboss** stands in 8 and **Vëndük** stands in 2.

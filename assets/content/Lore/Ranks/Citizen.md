@@ -15,4 +15,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-1 bodies in Thalorna name this standing, at level 4 of their ladders, and each spells it in its own words: **Citizen**.
+15 bodies in Thalorna name this standing, at level 4 of their ladders. All 15 spell it **Citizen**.

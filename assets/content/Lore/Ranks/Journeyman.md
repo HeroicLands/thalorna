@@ -15,4 +15,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-4 bodies in Thalorna name this standing, at level 3 of their ladders, and each spells it in its own words: **Craftsman**, **Journeyman**, **Artisan or Merchant**, **Zāthük**.
+67 bodies in Thalorna name this standing, at level 3 of their ladders. **Artisan or Merchant** stands in 43, **Craftsman** stands in 14, **Journeyman** stands in 3, and **Zāthük** stands in 2. It also stands singly, in one body each, as **Ādānika**, **Carrier**, **Ganaka**, **Pîr**, and **Roadwalker**.

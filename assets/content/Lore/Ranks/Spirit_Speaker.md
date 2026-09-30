@@ -15,4 +15,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-2 bodies in Thalorna name this standing, at levels 4, 5 of their ladders, and each spells it in its own words: **Spirit-Speaker**, **Vessel**.
+12 bodies in Thalorna name this standing, at levels 4, 5 of their ladders. **Spirit-Speaker** stands in 7 and **Shaman** and **Vessel** each stand in 2. It also stands singly, in one body each, as **Mwalimu wa Roho** and **Owl-Spoken**.

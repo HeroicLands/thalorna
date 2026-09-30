@@ -48,7 +48,7 @@ data:
         description: >-
           "Ruse King/Queen"—Veilmaster. King or queen within the faith's own hierarchy, and in some kingdoms a power the crown must reckon with.
       - level: 7
-        title: Skáld Allsherjargodi
+        title: Skald Allsherjargodi
         lore: highpriestrnk
         description: >-
           "Trickster High Priest"—Serpent of the Shadows. High priest—a pontifical office, speaking for the faith where it must speak with one voice.
@@ -64,7 +64,7 @@ data:
         Priest of the land, who hallows the ting island and speaks for the Ten with one voice.
       Höfudgodi: >-
         Head of the faith in one kingdom, seated among its jarls.
-      Hofgodi: >-
+      Hofsgodi: >-
         Keeper of a named hof, its stores and its blót.
       Godi / Gydja: >-
         The working priest or priestess of a hall, who keeps its rites and its people.
@@ -108,7 +108,7 @@ Vélgrímr is depicted as a charismatic and enigmatic figure, his expression alw
 - **Ormr Hersir** (Circle IV: "Serpent Warlord")—Whispering Serpent
 - **Skuggi Jarl** (Circle V: "Shadow Jarl")—Shadowbinder
 - **Rád Konungr/Konungrkvinde** (Circle VI: "Ruse King/Queen")—Veilmaster
-- **Skáld Allsherjargodi** (Circle VII: "Trickster High Priest")—Serpent of the Shadows
+- **Skald Allsherjargodi** (Circle VII: "Trickster High Priest")—Serpent of the Shadows
 - **Ormr Fadir/Módir** (Circle VIII: "Father/Mother of Serpents")—Pontiff of the Shifting Veil
 
 **Key Skills:** Disguise and infiltration, Espionage and subterfuge, Manipulation and persuasion, Alchemy and Herbalism (Poisons), Intrigue, Stealth

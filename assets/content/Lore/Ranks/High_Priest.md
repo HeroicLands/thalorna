@@ -15,4 +15,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-8 bodies in Thalorna name this standing, at levels 6, 7 of their ladders, and each spells it in its own words: **High Priest**, **Temple Officer**, **Keeper of the Ways**, **Alderman**, **Preceptor**, **Keeper of the Tradition**, **Consular**, **Magister**.
+111 bodies in Thalorna name this standing, at levels 6, 7 of their ladders. **Intendant** stands in 19, **Thâz'Lekhau** stands in 18, **Mōbad** stands in 13, **K'ul** and **K'ul Tq'an** each stand in 11, **Preceptor** stands in 9, **Consular** and **Keeper of the Tradition** each stand in 7, and **High Priest** stands in 2. It also stands singly, in one body each, as **Allsherjargodi**, **Aska Allsherjargodi**, **Collegium Doctorum**, **Dahana-Mūla**, and **Devapati**, plus 21 more.

@@ -15,4 +15,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-1 bodies in Thalorna name this standing, at level 5 of their ladders, and each spells it in its own words: **Enforcer**.
+8 bodies in Thalorna name this standing, at level 5 of their ladders. All 8 spell it **Enforcer**.

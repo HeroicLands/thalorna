@@ -107,7 +107,7 @@ Initiation is in stages, modeled on the order's understanding of the cosmogony.
 - **The Frost-Touched** (_Hrímskírdr_)—the candidate stage; a young man (typically sixteen to twenty) sponsored by a sitting brother and tested through a year of physical labor at one of the chapter halls. Many candidates withdraw or are dismissed.
 - **The Born of the Wound** (_Sárborinn_)—initiate; admitted after a formal rite that involves both severe physical ordeal and theological examination. The Born of the Wound wear the order's mark and are full members.
 - **The Hand of the Maker** (_Smidshönd_)—senior brother; advanced rite of initiation; permitted to lead the order's actions in the field and to instruct candidates.
-- **The Father of the Hall** (_Hallarfödur_)—chapter leader; one per chapter hall; presides over initiations and the chapter's standing affairs.
+- **The Father of the Hall** (_Hallarfadir_)—chapter leader; one per chapter hall; presides over initiations and the chapter's standing affairs.
 - **The Voice from the Wound** (_Sármál_)—the order's chair; one position; chosen by the assembled Fathers of the Halls in conclave following the death or retirement of the prior Voice.
 
 The order maintains nine chapter halls across the Nordlands, each commanded by a Father of the Hall. The chapter halls are typically remote—high valleys, coastal cliffs, the northern frontier—chosen for the harshness of their settings, which the order considers spiritually formative.
@@ -125,7 +125,7 @@ The order's combat doctrine emphasizes individual prowess, heavy axe and hammer 
 ## Notable Members
 
 - **Voice Hrungnir Steinhand**—current Voice from the Wound; an austere man in his late fifties, regarded by his brothers as the most theologically rigorous Voice in a generation.
-- The nine Fathers of the Halls—each presiding over a chapter; the most prominent is **Father Sveinn Eldskári** at the Northern Hall in Targud, who commands the order's largest standing chapter.
+- The nine Fathers of the Halls—each presiding over a chapter; the most prominent is **Father Sveinn Eldskari** at the Northern Hall in Targud, who commands the order's largest standing chapter.
 
 ## Field Practice
 
