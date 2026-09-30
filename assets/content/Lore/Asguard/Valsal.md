@@ -8,7 +8,7 @@ tags: [asguardian]
 data: {demonym: null, lore: [], parents: [asguard], population: null, packFolder: settinglore}
 ---
 
-Ódvar's country in [[place-asguard|Asguard]], and the destination of half the honored dead. The name serves twice over: the region is Valsal, and the hall standing at the middle of it is [[place-valsalhall|Valsal]] as well, and the north keeps no second word for either. Which is meant is settled by what the sentence is doing—a man is sent to Valsal, and he is seated in Valsal.
+Ódvar's country in [[place-asguard|Asguard]], and the destination of half the honored dead. The region is Valsal and the hall standing at the middle of it is [[place-valsalhall|Ódvarshöll]], so a man is sent to Valsal and he is seated in Ódvarshöll.
 
 The region is described as ground fit for the work done on it: level, hard, open, wide enough to draw up a host and walk it about, with the hall at the center and the quarters of the dead ranged around. The Valdrengir hold it. They are the warriors the choosers of the slain brought out of battle, and their day there is the day of a warband in winter quarters: they arm, they fight, they take wounds and lose limbs, and at evening they are whole again and go in to the tables.
 

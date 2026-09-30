@@ -8,7 +8,7 @@ tags: [asguardian]
 data: {demonym: null, lore: [], parents: [asguard], population: null, packFolder: settinglore}
 ---
 
-Sólrún's region of [[place-asguard|Asguard]], and the destination of the half of the honored dead who do not go to [[place-valsal|Valsal]]. The name serves twice here as it does there: the field is Sólvangr, and the hall at the head of it is [[place-solvangrhall|Sólvangr]] too.
+Sólrún's region of [[place-asguard|Asguard]], and the destination of the half of the honored dead who do not go to [[place-valsal|Valsal]]. The field is Sólvangr and the hall at the head of it is [[place-solvangrhall|Sólrúnshöll]].
 
 The region is an open field under a light that does not change, and the north lists what country has: grazing, water, and the long summer evening that never closes. Who comes here is not a lesser class of dead. Sólrún takes first choice of the slain in the older tellings, and she takes besides the deaths Ódvar's choosers do not gather—the woman dead in childbirth, the oath-keeper dead in his bed with his word intact, the craftsman killed defending his work, the drowned put down by weather rather than by an enemy.
 
