@@ -6,6 +6,7 @@ subType: creature
 description: "A quasi-reptilian flying humanoid of high peaks and coastal cliffs, combining predatory cunning with animalistic, territorial ferocity across a fourteen-foot wingspan."
 tags: [mythic, image-needed]
 data:
+  packFolder: mythic
   icon: icon-harpy
   templatePriority: null
   archetypes: []

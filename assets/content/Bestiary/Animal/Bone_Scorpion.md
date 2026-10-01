@@ -6,6 +6,7 @@ subType: creature
 description: "A massive pale desert scorpion up to nine feet long, an ambush predator of supernatural patience that hibernates through weeks of famine."
 tags: [animal]
 data:
+  packFolder: animals
   icon: icon-person
   templatePriority: null
   archetypes: []

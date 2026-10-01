@@ -6,6 +6,7 @@ subType: creature
 description: "A small, intelligent semi-arboreal drake ruling the forest canopy, solitary and fiercely territorial despite its modest draconic size."
 tags: [animal]
 data:
+  packFolder: animals
   icon: icon-person
   templatePriority: null
   archetypes: []

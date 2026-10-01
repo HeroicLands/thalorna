@@ -6,6 +6,7 @@ subType: creature
 description: "A solitary nocturnal ambush cat of deep forests, built for stealth and precision as it guards exclusive woodland territories."
 tags: [animal]
 data:
+  packFolder: animals
   icon: icon-person
   templatePriority: null
   archetypes: []

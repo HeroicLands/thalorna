@@ -6,6 +6,7 @@ subType: creature
 description: "A rare being of solidified darkness and void-energy, gathering near thin places and torn reality where the barrier between worlds grows weak."
 tags: [spirit]
 data:
+  packFolder: spirit
   icon: icon-person
   templatePriority: null
   archetypes: []

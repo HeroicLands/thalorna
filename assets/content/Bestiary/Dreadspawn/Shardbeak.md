@@ -6,6 +6,7 @@ subType: creature
 description: "A crystalline arcane bird drawn to nodes of raw magical power, feeding on arcane energy the way natural birds feed on seed."
 tags: [dreadspawn]
 data:
+  packFolder: dreadspawn
   icon: icon-person
   templatePriority: null
   archetypes: []

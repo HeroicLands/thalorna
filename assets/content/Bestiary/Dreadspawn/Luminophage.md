@@ -6,6 +6,7 @@ subType: creature
 description: "A parasitic ceiling-dwelling predator of lightless depths that weaponizes bioluminescence as a lure to draw wanderers into its grasp."
 tags: [dreadspawn]
 data:
+  packFolder: dreadspawn
   icon: icon-person
   templatePriority: null
   archetypes: []

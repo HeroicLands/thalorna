@@ -6,6 +6,7 @@ subType: creature
 description: "A vicious aerial carnivore with a devastating sting, forming aggressive colonies whose disturbed swarms can overwhelm entire settlements."
 tags: [animal]
 data:
+  packFolder: animals
   icon: icon-person
   templatePriority: null
   archetypes: []

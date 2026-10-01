@@ -6,6 +6,7 @@ subType: creature
 description: "The largest land creature alive, a towering savanna elephant living in matriarch-led herds across the Xerathian grasslands."
 tags: [animal]
 data:
+  packFolder: animals
   icon: icon-person
   templatePriority: null
   archetypes: []

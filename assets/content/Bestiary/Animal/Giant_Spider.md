@@ -6,6 +6,7 @@ subType: creature
 description: "A four-foot-bodied web-hunter spinning three-dimensional silken mazes through caves and forests, dominating its territory with sticky traps and venom."
 tags: [animal]
 data:
+  packFolder: animals
   icon: icon-person
   templatePriority: null
   archetypes: []

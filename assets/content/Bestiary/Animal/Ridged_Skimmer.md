@@ -6,6 +6,7 @@ subType: creature
 description: "A semi-aquatic ambush predator up to eight feet long plus tail, lurking submerged in rivers and shallows to strike unsuspecting prey."
 tags: [animal]
 data:
+  packFolder: animals
   icon: icon-person
   templatePriority: null
   archetypes: []

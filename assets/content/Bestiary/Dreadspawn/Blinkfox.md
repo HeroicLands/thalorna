@@ -6,6 +6,7 @@ subType: creature
 description: "A fae-touched predator that hunts enchanted forests by slipping through dimensions, striking from partially outside normal space."
 tags: [dreadspawn]
 data:
+  packFolder: dreadspawn
   icon: icon-person
   templatePriority: null
   archetypes: []

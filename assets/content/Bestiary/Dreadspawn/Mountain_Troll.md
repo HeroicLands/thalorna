@@ -6,6 +6,7 @@ subType: creature
 description: "A primordial alpine guardian of immense weight and strength, roaming high peaks and caverns as a solitary omnivore that tolerates no rival."
 tags: [dreadspawn]
 data:
+  packFolder: dreadspawn
   icon: icon-person
   templatePriority: null
   archetypes: []

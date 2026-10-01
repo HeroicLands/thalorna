@@ -6,6 +6,7 @@ subType: creature
 description: "An arrogant elemental of sky and lightning born from violent storms, heralding severe weather that some believe its very presence conjures."
 tags: [elemental]
 data:
+  packFolder: elementals
   icon: icon-person
   templatePriority: null
   archetypes: []

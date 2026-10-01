@@ -6,6 +6,7 @@ subType: creature
 description: "A light-warping predator of paradox that dwells in mirror halls and crystal caverns, wielding fractured reflections as both weapon and shield."
 tags: [dreadspawn]
 data:
+  packFolder: dreadspawn
   icon: icon-person
   templatePriority: null
   archetypes: []

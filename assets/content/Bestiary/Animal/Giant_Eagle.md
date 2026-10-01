@@ -6,6 +6,7 @@ subType: creature
 description: "A mount-sized mountain raptor with a twenty-foot wingspan and armor-piercing talons, hunting high passes with calculating tactical intelligence."
 tags: [animal]
 data:
+  packFolder: animals
   icon: icon-person
   templatePriority: null
   archetypes: []

@@ -6,6 +6,7 @@ subType: creature
 description: "A cunning fire elemental in animal form, combining a predator's tactics with living flame, hunting for fuel or bound to guard places of power."
 tags: [elemental]
 data:
+  packFolder: elementals
   icon: icon-person
   templatePriority: null
   archetypes: []

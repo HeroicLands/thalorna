@@ -6,6 +6,7 @@ subType: creature
 description: "An enormous flightless desert bird up to ten feet tall, a social herd forager that is placid unless provoked."
 tags: [animal]
 data:
+  packFolder: animals
   icon: icon-person
   templatePriority: null
   archetypes: []

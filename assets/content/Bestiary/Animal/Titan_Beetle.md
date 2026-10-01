@@ -6,6 +6,7 @@ subType: creature
 description: "A massive armored herbivorous beetle several feet long that fiercely defends its territory in dense forests, badlands, and caves."
 tags: [animal]
 data:
+  packFolder: animals
   icon: icon-person
   templatePriority: null
   archetypes: []

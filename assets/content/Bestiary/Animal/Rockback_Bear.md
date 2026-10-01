@@ -6,6 +6,7 @@ subType: creature
 description: "A solitary mountain apex bear standing ten feet tall and topped with rocky protrusions, intensely territorial and quick to hunt large prey."
 tags: [animal]
 data:
+  packFolder: animals
   icon: icon-person
   templatePriority: null
   archetypes: []

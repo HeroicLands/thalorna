@@ -6,6 +6,7 @@ subType: creature
 description: "A corrupted rodent-thing that hunts deep caverns in hive-minded packs, overwhelming prey through numbers and coordinated viciousness."
 tags: [dreadspawn]
 data:
+  packFolder: dreadspawn
   icon: icon-person
   templatePriority: null
   archetypes: []

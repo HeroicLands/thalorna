@@ -6,6 +6,7 @@ subType: creature
 description: "An extraordinarily rare serpent from the spaces between worlds, older than gods and alien beyond comprehension, moving by incomprehensible purposes."
 tags: [spirit]
 data:
+  packFolder: spirit
   icon: icon-person
   templatePriority: null
   archetypes: []

@@ -6,6 +6,7 @@ subType: creature
 description: "A boundary-dwelling spirit at home in neither realm, drawn to fog, mist, and thresholds where day and night or forest and clearing meet."
 tags: [spirit]
 data:
+  packFolder: spirit
   icon: icon-person
   templatePriority: null
   archetypes: []

@@ -6,6 +6,7 @@ subType: creature
 description: "A millennium-old fire-breathing wyrm of ash and calamity, sapient and vengeful, hoarding kingdom-bankrupting wealth over lands it conquers and razes."
 tags: [mythic, image-needed]
 data:
+  packFolder: mythic
   icon: icon-dragonheadft
   templatePriority: null
   archetypes: []

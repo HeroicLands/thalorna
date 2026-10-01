@@ -6,6 +6,7 @@ subType: creature
 description: "A small but deadly plague-bearing scavenger whose venomous spines and toxic bites can spread disease through an entire settlement."
 tags: [dreadspawn]
 data:
+  packFolder: dreadspawn
   icon: icon-person
   templatePriority: null
   archetypes: []

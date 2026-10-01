@@ -6,6 +6,7 @@ subType: creature
 description: "A massive semi-aquatic armored megaherbivore of the Vedyaran floodplains, wallowing among rivers, marshes, and tall lowland grasslands."
 tags: [animal, image-needed]
 data:
+  packFolder: animals
   icon: icon-person
   templatePriority: null
   archetypes: []

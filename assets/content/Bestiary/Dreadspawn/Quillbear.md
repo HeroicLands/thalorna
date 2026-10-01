@@ -6,6 +6,7 @@ subType: creature
 description: "A reclusive abomination of bear strength and porcupine quills that lairs in deep burrows and turns explosively aggressive when threatened."
 tags: [dreadspawn]
 data:
+  packFolder: dreadspawn
   icon: icon-person
   templatePriority: null
   archetypes: []

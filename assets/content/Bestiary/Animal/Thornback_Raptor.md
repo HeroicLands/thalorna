@@ -6,6 +6,7 @@ subType: creature
 description: "A five-to-six-foot bipedal reptilian pack hunter that coordinates ambushes with psychological terror through jungles, forests, and ruins."
 tags: [animal]
 data:
+  packFolder: animals
   icon: icon-person
   templatePriority: null
   archetypes: []

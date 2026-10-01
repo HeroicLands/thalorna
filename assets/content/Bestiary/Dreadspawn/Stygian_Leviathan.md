@@ -6,6 +6,7 @@ subType: creature
 description: "An elder aquatic predator of lightless subterranean seas whose indifferent presence renders entire underground ecosystems dormant with fear."
 tags: [dreadspawn]
 data:
+  packFolder: dreadspawn
   icon: icon-person
   templatePriority: null
   archetypes: []

@@ -6,6 +6,7 @@ subType: creature
 description: "A foot-wide arachnid and active ambush hunter that stalks and pounces on prey with terrifying speed, intelligence, and accuracy rather than webs."
 tags: [animal]
 data:
+  packFolder: animals
   icon: icon-person
   templatePriority: null
   archetypes: []

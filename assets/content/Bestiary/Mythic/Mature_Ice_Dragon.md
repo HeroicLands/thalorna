@@ -6,6 +6,7 @@ subType: creature
 description: "A patient apex ice dragon spanning thirty-six feet with fifty-foot wings, an ancient architect of its own legend after centuries of scheming."
 tags: [mythic, image-needed]
 data:
+  packFolder: mythic
   icon: icon-dragonheadft
   templatePriority: null
   archetypes: []

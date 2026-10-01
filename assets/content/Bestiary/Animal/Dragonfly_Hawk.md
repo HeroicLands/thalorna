@@ -6,6 +6,7 @@ subType: creature
 description: "A dragonfly scaled to nightmare size, an agile aerial hunter of rivers, marshes, and coasts that strikes prey by sight."
 tags: [animal]
 data:
+  packFolder: animals
   icon: icon-person
   templatePriority: null
   archetypes: []

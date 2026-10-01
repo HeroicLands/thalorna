@@ -6,6 +6,7 @@ subType: creature
 description: "An infernally intelligent apex arachnid that engineers light-drinking webs to trap prey and shatter the spirits of onlookers."
 tags: [dreadspawn]
 data:
+  packFolder: dreadspawn
   icon: icon-person
   templatePriority: null
   archetypes: []

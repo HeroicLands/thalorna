@@ -6,6 +6,7 @@ subType: creature
 description: "An earth-elemental of animate stone and will that stands as an impassive obstacle in mountains, caves, and magic-rich quarries."
 tags: [dreadspawn]
 data:
+  packFolder: dreadspawn
   icon: icon-person
   templatePriority: null
   archetypes: []

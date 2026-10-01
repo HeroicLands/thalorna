@@ -6,6 +6,7 @@ subType: creature
 description: "A sapient woodland goblin dwelling as a solitary hunter, driven by personal hunger and amusement over fragile, greed-strained bonds."
 tags: [folk]
 data:
+  packFolder: folk
   icon: icon-person
   templatePriority: null
   archetypes: []

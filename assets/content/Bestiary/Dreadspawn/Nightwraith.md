@@ -6,6 +6,7 @@ subType: creature
 description: "A corrupted giant bat twisted into a cunning nocturnal killer, hunting the night skies and lightless caverns with ruthless precision."
 tags: [dreadspawn]
 data:
+  packFolder: dreadspawn
   icon: icon-person
   templatePriority: null
   archetypes: []
