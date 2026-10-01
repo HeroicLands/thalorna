@@ -13,7 +13,7 @@ data:
   governance:
     model: council
     summary: >-
-      A chapter of professed brethren under an elected Grand Master, all of them bound by the rule he enforces.
+      A candidate is sponsored and examined before the Chapter and sworn in a Guardian outright; the Chapter also puts a Guardian from the order for breaking its vow, and elects the Speaker of the Green from among the Elder Guardians for a five-year term.
     ranks:
       - level: 0
         title: Put from the Order
@@ -59,11 +59,13 @@ The order operates differently from its Eidgar-sworn siblings. The Sworn Hands r
 
 A candidate for the order is sponsored by a sitting Guardian and presented at the annual chapter. Examinations are martial (the order's training emphasizes defensive infantry, polearm and bow, and the suppression of larger beasts) and devotional (the candidate must recite the order's vow, know the harvest cycle in detail, and demonstrate the patient temperament that the long station of a Guardian requires). The order admits women and men on equal terms; the founding tradition was that fertility-warden work is by nature open to both, and the order has preserved the principle.
 
-There are three ranks:
+The order holds three ranks. It admits nobody below its sworn rank: a candidate is sponsored and examined before he is anything.
 
+- **Put from the Order**—cast out by vote of the Chapter, closing every valley station's hospitality and every sibling order's recognition for good.
 - **Sworn Guardian** (_Grönvördr_)—the working warden; assigned to a station or, occasionally, riding as a circuit relief.
 - **Elder Guardian** (_Eldri Grönvördr_)—senior member; may serve as station-warden for a more important valley, may oversee training, sits on the order's Chapter.
-- **Speaker of the Green** (_Grönmál_)—the order's chair; elected by the Chapter for a five-year term; one position; functions as administrative coordinator rather than commander.
+
+The order's chair, the **Speaker of the Green** (_Grönmál_), is elected by the Chapter for a five-year term—one position, acting as administrative coordinator rather than as a commander.
 
 The order's annual chapter meets in late autumn, after the harvest is stored, in rotation between the three largest active halls. Inter-chapter administration is light and largely conducted by correspondence between Elder Guardians.
 

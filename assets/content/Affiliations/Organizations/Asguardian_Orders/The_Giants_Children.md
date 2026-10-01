@@ -15,7 +15,7 @@ data:
   governance:
     model: council
     summary: >-
-      A chapter of professed brethren under an elected Grand Master, all of them bound by the rule he enforces.
+      A sponsor presents a candidate for a year of labor at a chapter hall before the rite of the Born of the Wound admits him outright; the assembled Fathers of the Halls also cast a brother from the order, and choose the Voice from the Wound in conclave.
     ranks:
       - level: 0
         title: Put from the Order
@@ -68,13 +68,14 @@ The order is exclusively male in present practice. The historical record include
 
 ## Membership and Structure
 
-Initiation is in stages, modeled on the order's understanding of the cosmogony.
+Initiation is in stages, modeled on the order's understanding of the cosmogony. The order holds four ranks:
 
+- **Put from the Order**—cast out by the assembled Fathers of the Halls, closing every one of the nine chapter halls' hospitality for good.
 - **The Frost-Touched** (_Hrímskírdr_)—the candidate stage; a young man (typically sixteen to twenty) sponsored by a sitting brother and tested through a year of physical labor at one of the chapter halls. Many candidates withdraw or are dismissed.
-- **The Born of the Wound** (_Sárborinn_)—initiate; admitted after a formal rite that involves both severe physical ordeal and theological examination. The Born of the Wound wear the order's mark and are full members.
+- **The Born of the Wound** (_Sárborinn_)—admitted after a formal rite that involves both severe physical ordeal and theological examination. The Born of the Wound wear the order's mark and are full members.
 - **The Hand of the Maker** (_Smidshönd_)—senior brother; advanced rite of initiation; permitted to lead the order's actions in the field and to instruct candidates.
-- **The Father of the Hall** (_Hallarfadir_)—chapter leader; one per chapter hall; presides over initiations and the chapter's standing affairs.
-- **The Voice from the Wound** (_Sármál_)—the order's chair; one position; chosen by the assembled Fathers of the Halls in conclave following the death or retirement of the prior Voice.
+
+Two offices sit above the ranks. The **Father of the Hall** (_Hallarfadir_) leads a single chapter hall—one per hall, nine in all—and presides over initiations and the chapter's standing affairs. The **Voice from the Wound** (_Sármál_) is the order's chair, chosen by the assembled Fathers of the Halls in conclave following the death or retirement of the prior Voice.
 
 The order maintains nine chapter halls across the Nordlands, each commanded by a Father of the Hall. The chapter halls are typically remote—high valleys, coastal cliffs, the northern frontier—chosen for the harshness of their settings, which the order considers spiritually formative.
 

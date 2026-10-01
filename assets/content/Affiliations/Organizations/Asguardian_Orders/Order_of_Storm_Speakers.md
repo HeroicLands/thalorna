@@ -15,7 +15,7 @@ data:
   governance:
     model: council
     summary: >-
-      A chapter of professed brethren under an elected Grand Master, all of them bound by the rule he enforces.
+      A candidate stands the receptive test at Thrumufjall before a sponsoring Speaker presents him for examination; the conclave of Storm-Captains also tries and casts out a Speaker for cause, and chooses the Voice of the Hammer from among its own for life.
     ranks:
       - level: 0
         title: Put from the Order
@@ -68,12 +68,14 @@ The Storm-Speakers are widely regarded as the most directly useful of the Asguar
 
 Candidates are presented to the order by a sponsoring Speaker, typically between sixteen and twenty years of age. The examination is in three parts: martial (combat with the order's signature weapons, principally the two-handed hammer and the short axe), devotional (knowledge of Thrúnvald's myth-cycle and the order's vow), and _receptive_—a test of the candidate's latent sensitivity to weather-craft. The receptive test is conducted at Thrumufjall during a thunderstorm; candidates who do not register the storm in the trained ways the testers look for are dismissed regardless of their other merits.
 
-There are four working ranks:
+The order holds four ranks:
 
+- **Put from the Order**—cast out by conclave of the Storm-Captains, closing Thrumufjall and every chapter hall's hospitality for good.
 - **Storm-Aspirant** (_Stormefnir_)—candidate in training; serves at Thrumufjall or under a sitting Speaker.
 - **Sworn Speaker** (_Stormmaelir_)—full member; permitted to act on the order's behalf and to draw on its hospitality across the Nordlands.
 - **Storm-Captain** (_Stormhöfdingi_)—senior member; leads tactical actions in the field and instructs Aspirants.
-- **Voice of the Hammer** (_Hamarsmál_)—the order's chair; one position; chosen for life by conclave of the Storm-Captains.
+
+The order's chair, the **Voice of the Hammer** (_Hamarsmál_), is chosen for life by conclave of the Storm-Captains—one position.
 
 The order's mother-hall is at **Thrumufjall**, a sheer seamount on the Nordheim coast topped by an ancient Thrúnvald-temple. The hall serves as training ground (the seamount's exposed summit is where weather-craft is taught), administrative center, and the order's spiritual heart. Smaller chapter halls operate in each of the other four Nordland kingdoms.
 

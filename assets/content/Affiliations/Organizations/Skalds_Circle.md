@@ -15,7 +15,7 @@ data:
   governance:
     model: democracy
     summary: >-
-      A voluntary association whose members decide its affairs and elect its officers for a term.
+      A master swears an apprentice into the Circle once a Skaldating accepts his drápa; the assembled skalds convict and ring-break one who breaks the truth of the recital, and the Circle acclaims a Stóraldstjóri by peer recognition rather than vote.
     ranks:
       - level: 0
         title: Ring-Broken
@@ -72,12 +72,14 @@ A skald is made by a skald. The progression is master-apprentice, beginning typi
 
 The first composition is the apprentice's **drápa**—a long formal poem composed and delivered before assembled skalds at one of the Circle's annual gatherings. If the drápa is accepted, the apprentice is sworn into the Circle by his master and becomes a sworn skald in his own right. If the drápa is rejected, the apprentice may try again the following year, or twice more thereafter; after three rejections the apprenticeship is ended without recrimination but without rank.
 
-Sworn skalds are ranked informally:
+The Circle holds four ranks:
 
-- **Skald**—the sworn singer; permitted to take service in any hall.
-- **Hirdskald**—a court skald in formal service to a jarl or king; the most prestigious working position.
-- **Lögskald**—a "law-skald," specialized in the recitation of legal precedents and the witnessing of formal proceedings; few in number but indispensable to Nordland legal practice.
-- **Sögumadr**—the "saga-master," a senior skald whose composed sagas have been accepted into the standing repertoire of the Circle as a whole. A skald is acclaimed sögumadr by his peers, not appointed.
+- **Ring-Broken**—a skáld convicted of breaking the truth of the recital, the arm-ring broken at the next Skaldating; a punishment with no recovery.
+- **Apprentice**—a master's pupil for ten to fifteen years, entitled to nothing of the Circle's own until his drápa is accepted.
+- **Skáld**—the sworn singer, entitled to food, shelter, and safe passage at any hall, and bound to recite truly even against his own employer.
+- **Stóraldstjóri**—the "saga-master" (_Sögumadr_); a senior skáld whose composed sagas have been accepted into the standing repertoire of the Circle as a whole. A skáld is acclaimed stóraldstjóri by his peers, not appointed.
+
+Two offices sit above a sworn Skáld without raising him further. The **Hirdskáld** is a court skald in formal service to a jarl or king, the most prestigious working position the craft offers. The **Lögskáld**, a "law-skald," specializes in the recitation of legal precedents and the witnessing of formal proceedings—few in number, but indispensable to Nordland legal practice.
 
 The Circle's gatherings (the _Skaldating_) occur once a year, hosted in rotation by the five Nordland kingdoms and occasionally by Aelwyth or Vrystwald. At the Skaldating, new apprentices present their drápa, standing repertoire is reviewed and verified by collective recitation, and disputes over the accuracy of contested verses are resolved by the assembled body.
 
