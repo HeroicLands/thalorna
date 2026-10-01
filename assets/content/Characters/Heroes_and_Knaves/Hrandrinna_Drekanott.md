@@ -496,7 +496,7 @@ She is also motivated by the persistent fear that her leg injury will eventually
 
 - **The Farmers' Collective of the Northern Reach**: A coalition of farming families who pool resources for major maintenance projects contracts with Hrandrinna for seasonal work. While individual projects are small, the aggregate volume provides steady income and allows her to employ her assistant team consistently.
 
-- **Bishop Rúnhildr of the Thórr Temple**: The religious institution dedicated to the storm deity commissions Hrandrinna for specialized high-pitched roofing work designed to shed snow and endure particularly harsh weather. The bishop values her skill and the quality of her work.
+- **Bishop Rúnhildr of the Thrúnvald Temple**: The religious institution dedicated to the storm deity commissions Hrandrinna for specialized high-pitched roofing work designed to shed snow and endure particularly harsh weather. The bishop values her skill and the quality of her work.
 
 ### Enemies
 

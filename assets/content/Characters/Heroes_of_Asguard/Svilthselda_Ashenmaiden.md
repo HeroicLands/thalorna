@@ -367,9 +367,9 @@ Svilthselda stands 5'6" with a lean, sinewy frame, weighing about 140 pounds. He
 
 # Dossier {#dossier}
 
-Svilthselda was found as a child amid the ashes of a great fire that had consumed her village. The only survivor, she was taken in by followers of Súrtr who saw her survival as a sign of divine favor. Raised in the harsh, fiery environment of Súrtr's worshippers, Svilthselda grew into a fierce and determined warrior, her skin forever marked by the ash from which she had emerged. She became known for her ability to move through fire unscathed, and for her calm, almost detached demeanor in the face of the most terrifying dangers.
+Svilthselda was found as a child amid the ashes of a great fire that had consumed her village. The only survivor, she was taken in by followers of **Svartbrandr** who saw her survival as a sign of divine favor. Raised in the harsh, fiery environment of Svartbrandr's worshippers, Svilthselda grew into a fierce and determined warrior, her skin forever marked by the ash from which she had emerged. She became known for her ability to move through fire unscathed, and for her calm, almost detached demeanor in the face of the most terrifying dangers.
 
-Svilthselda's most famous saga tells of the time she led a band of warriors into the depths of a volcano to retrieve the Ember of Eternity, a powerful relic of Súrtr. The volcano was said to be guarded by a massive fire serpent, a creature born of Súrtr's own flames. Many had attempted the journey before, but none had returned. Undeterred, Svilthselda led her warriors through rivers of lava and walls of flame, her presence calming their fears. When they finally confronted the fire serpent, Svilthselda alone stepped forward to face it. Calling upon Súrtr's power, she absorbed the serpent's flames into her own body, leaving the creature weakened and allowing her warriors to strike it down. With the Ember of Eternity in hand, Svilthselda returned home, her skin glowing with the power of the flames she had conquered.
+Svilthselda's most famous saga tells of the time she led a band of warriors into the depths of a volcano to retrieve the Ember of Eternity, a powerful relic of Svartbrandr. The volcano was said to be guarded by a massive fire serpent, a creature born of Svartbrandr's own flames. Many had attempted the journey before, but none had returned. Undeterred, Svilthselda led her warriors through rivers of lava and walls of flame, her presence calming their fears. When they finally confronted the fire serpent, Svilthselda alone stepped forward to face it. Calling upon Svartbrandr's power, she absorbed the serpent's flames into her own body, leaving the creature weakened and allowing her warriors to strike it down. With the Ember of Eternity in hand, Svilthselda returned home, her skin glowing with the power of the flames she had conquered.
 
 ## Psyche
 
@@ -379,11 +379,11 @@ Svilthselda is eerily calm, her voice rarely rising above a measured tone even i
 
 ### Motivation
 
-Svilthselda seeks to understand the deeper mysteries of Súrtr's flame—not as a weapon of destruction, but as a force of renewal. She believes her survival as a child was not mere luck but a calling, and she strives to become a vessel through which Súrtr's purifying fire can cleanse the world of corruption. She is troubled by visions of a great conflagration that she cannot determine is prophecy or warning.
+Svilthselda seeks to understand the deeper mysteries of Svartbrandr's flame—not as a weapon of destruction, but as a force of renewal. She believes her survival as a child was not mere luck but a calling, and she strives to become a vessel through which Svartbrandr's purifying fire can cleanse the world of corruption. She is troubled by visions of a great conflagration that she cannot determine is prophecy or warning.
 
 ### Strengths
 
-Svilthselda's ability to absorb and redirect fire is extraordinary, making her nearly immune to flame-based attacks. Her calm leadership under pressure inspires confidence in those who follow her, and her spiritual authority among Súrtr's faithful is second only to the high priests. She is a skilled combatant who fights with deliberate precision rather than wild ferocity, making her more dangerous than warriors who rely on rage alone.
+Svilthselda's ability to absorb and redirect fire is extraordinary, making her nearly immune to flame-based attacks. Her calm leadership under pressure inspires confidence in those who follow her, and her spiritual authority among Svartbrandr's faithful is second only to the high priests. She is a skilled combatant who fights with deliberate precision rather than wild ferocity, making her more dangerous than warriors who rely on rage alone.
 
 ## Social
 
@@ -391,20 +391,20 @@ Svilthselda's ability to absorb and redirect fire is extraordinary, making her n
 
 ### Patrons
 
-**The Ember Sisterhood**—A secretive order of Súrtr's priestesses who recognized Svilthselda's gifts and trained her in the deeper mysteries of fire magic. They provide her with sacred knowledge and ritual support.
+**The Ember Sisterhood**—A secretive order of Svartbrandr's priestesses who recognized Svilthselda's gifts and trained her in the deeper mysteries of fire magic. They provide her with sacred knowledge and ritual support.
 
-**High Priest Asmund of Ashenmount**—The ranking priest at Súrtr's primary temple, who views Svilthselda as a potential successor and protects her from political enemies within the faith.
+**High Priest Asmund of Ashenmount**—The ranking priest at Svartbrandr's primary temple, who views Svilthselda as a potential successor and protects her from political enemies within the faith.
 
 ### Enemies
 
-**Vrithorv Flameheart**—A fellow devotee of Súrtr whose reckless interpretation of the god's will Svilthselda considers heretical. Their rivalry threatens to split the faithful.
+**Vrithorv Flameheart**—A fellow devotee of Svartbrandr whose reckless interpretation of the god's will Svilthselda considers heretical. Their rivalry threatens to split the faithful.
 
 **The Verdant Order**—A druidic circle that views all fire worship as an existential threat to the natural world. They have attempted to assassinate Svilthselda twice, seeing her growing power as particularly dangerous.
 
 ## Plot Hooks
 
-1. **The Ember's Burden**—Since absorbing the fire serpent's flames, Svilthselda has felt a growing heat within her that she cannot control. The Ember Sisterhood believes she is becoming a living vessel of Súrtr's power, but the transformation may consume her entirely if she cannot master it.
+1. **The Ember's Burden**—Since absorbing the fire serpent's flames, Svilthselda has felt a growing heat within her that she cannot control. The Ember Sisterhood believes she is becoming a living vessel of Svartbrandr's power, but the transformation may consume her entirely if she cannot master it.
 
 2. **The Ash Prophet**—A mysterious figure has appeared in the northern settlements, preaching that Svilthselda is the harbinger of the end times. Whether this prophet is an ally or enemy remains unclear, but their words are causing panic.
 
-3. **Schism of Flame**—The tension between Svilthselda's contemplative approach and Vrithorv's aggressive one has reached a breaking point. Both factions of Súrtr's faithful are arming for conflict, and someone must mediate before the faith tears itself apart.
+3. **Schism of Flame**—The tension between Svilthselda's contemplative approach and Vrithorv's aggressive one has reached a breaking point. Both factions of Svartbrandr's faithful are arming for conflict, and someone must mediate before the faith tears itself apart.

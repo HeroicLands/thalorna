@@ -440,7 +440,7 @@ Yet artistic success has not translated to business success. Althynda struggles 
 
 Althynda is a woman of quiet artistry and occasional intensity, most fully alive when engaged in creative work. In solitude or in the presence of those who appreciate her craft, she becomes animated and eloquent, capable of discussing color theory and scent composition with passion. Yet in trade or company, she becomes withdrawn, uncertain, and awkwardly quiet. She is modest about her talent—the compliments her work receives seem to confuse her rather than gratify her—and she frequently attributes her success to luck rather than skill.
 
-Her spiritual commitment to Fréyr, god of fertility, growth, and natural abundance, is deeply felt; she approaches her work as a form of spiritual practice, creating candles as offerings to divine principle and aids to others' spiritual wellbeing as well as for light. This perspective, while beautiful, sometimes conflicts with the demands of trade; she has been known to refuse commissions that she feels would betray the sacred character of her work.
+Her spiritual commitment to Fródvin, god of fertility, growth, and natural abundance, is deeply felt; she approaches her work as a form of spiritual practice, creating candles as offerings to divine principle and aids to others' spiritual wellbeing as well as for light. This perspective, while beautiful, sometimes conflicts with the demands of trade; she has been known to refuse commissions that she feels would betray the sacred character of her work.
 
 Althynda is both courageous and fearful—willing to take substantial risks in her craft in pursuit of artistic vision, yet terrified of failure in trade and judgment from established authorities. She experiences real anxiety in company, particularly with those of higher social station or greater confidence, yet shows unusual boldness in defending artistic integrity. She forms attachments slowly but deeply, and those few people she allows into intimacy discover unusual warmth and loyalty.
 
@@ -456,7 +456,7 @@ Althynda is driven by a need to create beauty and to contribute to others' spiri
 
 - **Botanical and Herbal Knowledge**: Understands plants, herbs, and aromatic compounds with real knowledge; she can harvest, prepare, and combine scents to create subtle blends that enhance both spirituality and function.
 
-- **Spiritual Authenticity**: Her commitment to Fréyr and to the sacred dimension of her work manifests in products that many report to have real spiritual power; her candles are particularly sought for religious observances and rituals.
+- **Spiritual Authenticity**: Her commitment to Fródvin and to the sacred dimension of her work manifests in products that many report to have real spiritual power; her candles are particularly sought for religious observances and rituals.
 
 - **Creative Problem-Solving**: When approached as artistic challenge rather than business problem, she demonstrates impressive ingenuity; she has developed novel techniques for wax layering, color saturation, and botanical embedding that are unique to her practice.
 
@@ -480,7 +480,7 @@ Althynda is driven by a need to create beauty and to contribute to others' spiri
 
 ### Patrons
 
-- **Priestess Sigrid**: High priestess of Fréyr's temple who has commissioned multiple candle sets for significant religious observances; she actively promotes Althynda's work and has provided spiritual guidance alongside patronage.
+- **Priestess Sigrid**: High priestess of Fródvin's temple who has commissioned multiple candle sets for significant religious observances; she actively promotes Althynda's work and has provided spiritual guidance alongside patronage.
 
 - **Master Craftsman Halvarr**: A respected woodworker and fellow member of the artisan community who has become something of an informal adviser in trade; he provides practical guidance while respecting her artistic vision.
 
@@ -500,7 +500,7 @@ Althynda is driven by a need to create beauty and to contribute to others' spiri
 
 - **The Artisan's Collective**: An informal association of craftspeople—weavers, woodworkers, metalcrafters—who meet periodically to discuss craft, techniques, and challenges; Althynda is a recent and tentative member.
 
-- **Fréyr's Grove**: A lay fellowship devoted to the god of fertility and growth; she participates in seasonal observances and maintains personal spiritual practice through this community.
+- **Fródvin's Grove**: A lay fellowship devoted to the god of fertility and growth; she participates in seasonal observances and maintains personal spiritual practice through this community.
 
 ## Plot Hooks
 

@@ -219,7 +219,7 @@ Settlements range from small forest homesteads to hilltop fortresses surrounded 
 
 ## Religion
 
-Religious practice in Vrystwald is syncretic. The northern tribes worship gods recognizable from the [[affiliation-asguardian|Asguardian Pantheon]], particularly Ódinn and the nature spirits. The southern tribes, influenced by centuries of contact with [[affiliation-vylarinmpr|Vylarian Empire]], have adopted elements of the [[affiliation-arldnpnthn|Aurèldían Pantheon]], particularly the worship of [[affiliation-arldnpnthn|Karnavos]] (The Wild Beast), whose domains of wilderness and primal chaos resonate deeply with Varokh sensibilities.
+Religious practice in Vrystwald is syncretic. The northern tribes worship gods recognizable from the [[affiliation-asguardian|Asguardian Pantheon]], particularly **Ódvar** and the nature spirits. The southern tribes, influenced by centuries of contact with [[affiliation-vylarinmpr|Vylarian Empire]], have adopted elements of the [[affiliation-arldnpnthn|Aurèldían Pantheon]], particularly the worship of [[affiliation-arldnpnthn|Karnavos]] (The Wild Beast), whose domains of wilderness and primal chaos resonate deeply with Varokh sensibilities.
 
 Regardless of which gods they name, the Varokh share a deep animistic reverence for the forest itself. Sacred groves serve as temples, and the oldest trees are believed to house powerful spirits. Druids and wise-women serve as spiritual leaders, performing rituals at the turning of the seasons and mediating between the mortal world and the spirit realm.
 

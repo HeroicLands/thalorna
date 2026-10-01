@@ -367,7 +367,7 @@ Dvirnmýl stands 5'9" with a medium, unremarkable frame, weighing about 170 poun
 
 # Dossier {#dossier}
 
-Dvirnmýl was born into the unforgiving streets of the city's slums, where survival depended on cunning, not strength. Orphaned at a young age, Dvirnmýl quickly became a master of deceit, learning how to manipulate others to get what he wanted. He had no interest in noble causes or grand ideals; his only goal was to claw his way out of poverty by any means necessary. Dvirnmýl's talents caught the eye of Lôki, the god of thieves and the dispossessed, who delighted in the trouble Dvirnmýl caused. With Lôki's subtle guidance, Dvirnmýl honed his skills in trickery and thievery.
+Dvirnmýl was born into the unforgiving streets of the city's slums, where survival depended on cunning, not strength. Orphaned at a young age, Dvirnmýl quickly became a master of deceit, learning how to manipulate others to get what he wanted. He had no interest in noble causes or grand ideals; his only goal was to claw his way out of poverty by any means necessary. Dvirnmýl's talents caught the eye of Vélgrímr, the god of thieves and the dispossessed, who delighted in the trouble Dvirnmýl caused. With Vélgrímr's subtle guidance, Dvirnmýl honed his skills in trickery and thievery.
 
 The saga of Dvirnmýl the Deceiver tells how he exploited the arrogance and greed of Jarl Vidar, a wealthy and corrupt noble. Dvirnmýl posed as a disgraced nobleman who had fallen on hard times, carefully forging documents and crafting a backstory. He infiltrated the jarl's court, convinced Vidar that he knew the location of hidden treasures, and then led the jarl to a remote mountain location where bandits Dvirnmýl had hired were waiting. With Vidar stranded, Dvirnmýl raided the jarl's estate and converted his assets into a personal fortune.
 
@@ -393,7 +393,7 @@ Dvirnmýl is a master of disguise, forgery, and social engineering. He can talk 
 
 **The Underworld Guild of Skarnholme**—An organized crime network that uses Dvirnmýl's talents for high-profile heists and cons in exchange for a share of the profits and protection from the law.
 
-**Lôki's Whisper**—The god himself takes an intermittent interest in Dvirnmýl, providing subtle guidance and occasional divine luck when the trickster is in particularly entertaining trouble.
+**Vélgrímr's Whisper**—The god himself takes an intermittent interest in Dvirnmýl, providing subtle guidance and occasional divine luck when the trickster is in particularly entertaining trouble.
 
 ### Enemies
 

@@ -15,7 +15,7 @@ consists of getting it performed.
 ## Requirements
 
 - **All three regalia.** The [[miscgear-sprsigrid|Spear of Sigrid]], the
-  [[miscgear-crwnwyrm|Crown of the Wyrm]] and the [[miscgear-hornnjordur|Horn of Njördur]]. Two will
+  [[miscgear-crwnwyrm|Crown of the Wyrm]] and the [[miscgear-hornnjordur|Horn of Njörvar]]. Two will
   not do.
 - **A specific place.** The rite must be worked at a **hidden coastal temple**, and nowhere else. Its
   location is part of the quest.

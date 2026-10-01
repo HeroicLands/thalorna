@@ -232,7 +232,7 @@ being burned for refusing the Flame.
 
 ### Relationship to Other Faiths
 
-Nkaru'thar is a distinctly Okháric tradition with no direct counterpart in any other Thalorna pantheon. The fire-worship elements bear a superficial resemblance to the [[affiliation-svartbrandr|Faith of Súrtr]] in the [[affiliation-asguardian|Asguardian]] tradition, but the theological foundations are entirely different: where Súrtr represents destruction and chaos as ends in themselves, Nkaru'thar's destructive aspect is always understood as part of a cycle of renewal.
+Nkaru'thar is a distinctly Okháric tradition with no direct counterpart in any other Thalorna pantheon. The fire-worship elements bear a superficial resemblance to the [[affiliation-svartbrandr|Faith of Svartbrandr]] in the [[affiliation-asguardian|Asguardian]] tradition, but the theological foundations are entirely different: where Svartbrandr represents destruction and chaos as ends in themselves, Nkaru'thar's destructive aspect is always understood as part of a cycle of renewal.
 
 The [[affiliation-khelathpnthn|Khelâthi Pantheon]] faith of neighboring [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] has had some contact with Okháric beliefs through trade and border interaction, but the two traditions remain distinct. Khelâthi scholars tend to view Nkaru'thar as a primitive fire cult, while Okháric priests consider the elaborate Khelâthi pantheon an unnecessary fragmentation of what is fundamentally one divine force.
 

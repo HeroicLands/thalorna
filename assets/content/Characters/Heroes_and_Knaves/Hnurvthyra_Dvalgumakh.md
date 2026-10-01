@@ -422,7 +422,7 @@ Hnurvthýra stands 5'6" tall with a light build. She has pale fair skin, auburn 
 
 **Early Life and Training**
 
-Hnurvthýra was born in the village of [[place-tvarnmark|Tvarnmark]], at the foot of the Bjarg mountains that granted her clan its name. Her mother, a weaver of considerable skill, taught her the fundamentals of textile work before she could read, and her father, a merchant of furs and hides, instilled in her an instinct for the market. By age twelve, she had already begun experimenting with natural dyes—extracting color from madder root, woad, and the rare indigo traders brought from southern lands. Her most formative years were spent apprenticed to the legendary dyer **Einkorn Kraldumakh**, a master craftsperson whose works were prized throughout [[place-norgaad|Norgaad]]. From Einkorn, she learned not merely technique but philosophy: that every thread tells a story, and that true craftsmanship is an act of honor to Ymir, the creator god.
+Hnurvthýra was born in the village of [[place-tvarnmark|Tvarnmark]], at the foot of the Bjarg mountains that granted her clan its name. Her mother, a weaver of considerable skill, taught her the fundamentals of textile work before she could read, and her father, a merchant of furs and hides, instilled in her an instinct for the market. By age twelve, she had already begun experimenting with natural dyes—extracting color from madder root, woad, and the rare indigo traders brought from southern lands. Her most formative years were spent apprenticed to the legendary dyer **Einkorn Kraldumakh**, a master craftsperson whose works were prized throughout [[place-norgaad|Norgaad]]. From Einkorn, she learned not merely technique but philosophy: that every thread tells a story, and that true craftsmanship is an act of honor to **Hrímthur**, the creator god.
 
 **Journey to Independence**
 
@@ -442,7 +442,7 @@ Though she is warm and personable, Hnurvthýra maintains certain boundaries. She
 
 ### Motivation
 
-Hnurvthýra's driving force is the pursuit of mastery—not for its own sake, but as a form of worship to her creator god. She believes that Ymir granted her hands and mind as tools to bring beauty and utility to the world, and that to waste such gifts through mediocrity would be a betrayal of faith. She seeks recognition not out of vanity, but because she believes that greater opportunity would allow her to help more people and to create works of lasting significance. Beneath her calm exterior burns an ambition that rivals any adventurer's hunger for glory: she wishes to be remembered as a master craftsperson whose creations endured across generations, whose work brought honor to her clan and realm.
+Hnurvthýra's driving force is the pursuit of mastery—not for its own sake, but as a form of worship to her creator god. She believes that Hrímthur granted her hands and mind as tools to bring beauty and utility to the world, and that to waste such gifts through mediocrity would be a betrayal of faith. She seeks recognition not out of vanity, but because she believes that greater opportunity would allow her to help more people and to create works of lasting significance. Beneath her calm exterior burns an ambition that rivals any adventurer's hunger for glory: she wishes to be remembered as a master craftsperson whose creations endured across generations, whose work brought honor to her clan and realm.
 
 ### Strengths
 

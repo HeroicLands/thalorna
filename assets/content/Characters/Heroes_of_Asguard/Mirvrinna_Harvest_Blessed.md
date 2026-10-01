@@ -367,9 +367,9 @@ Mirvrinna stands 5'7" with a sturdy, strong-limbed frame, weighing about 165 pou
 
 # Dossier {#dossier}
 
-Mirvrinna was born during a bountiful harvest, a time of great prosperity for her village. Her birth was seen as an omen of continued plenty, and from a young age, Mirvrinna showed a remarkable talent for agriculture. Under her care, crops grew larger and more plentiful, and the animals of the village thrived. Mirvrinna believed that her abilities were a gift from Fréyr, and she devoted herself to the god, performing rituals and ceremonies to honor him and ensure the continued prosperity of her people.
+Mirvrinna was born during a bountiful harvest, a time of great prosperity for her village. Her birth was seen as an omen of continued plenty, and from a young age, Mirvrinna showed a remarkable talent for agriculture. Under her care, crops grew larger and more plentiful, and the animals of the village thrived. Mirvrinna believed that her abilities were a gift from **Fródvin**, and she devoted herself to the god, performing rituals and ceremonies to honor him and ensure the continued prosperity of her people.
 
-The saga of Mirvrinna Harvest-Blessed tells of how she saved her village from a terrible famine. After several years of prosperity, the rains failed and the crops withered. Mirvrinna journeyed to the ancient standing stones of Hjartaland, where Fréyr himself had blessed the earth. There, she performed a ritual of renewal, offering the last of her village's grain to the earth and praying for Fréyr's mercy. A great wind arose, the skies darkened, and rain began to fall. Under her guidance, the villagers replanted their fields, and the harvest that followed was the largest and most bountiful in memory.
+The saga of Mirvrinna Harvest-Blessed tells of how she saved her village from a terrible famine. After several years of prosperity, the rains failed and the crops withered. Mirvrinna journeyed to the ancient standing stones of Hjartaland, where Fródvin himself had blessed the earth. There, she performed a ritual of renewal, offering the last of her village's grain to the earth and praying for Fródvin's mercy. A great wind arose, the skies darkened, and rain began to fall. Under her guidance, the villagers replanted their fields, and the harvest that followed was the largest and most bountiful in memory.
 
 ## Psyche
 
@@ -379,7 +379,7 @@ Mirvrinna is practical and no-nonsense, with the calloused hands and weather-bea
 
 ### Motivation
 
-Mirvrinna's goal is simple and profound: to ensure that no one goes hungry. She seeks to spread Fréyr's agricultural blessings to every settlement in the north, teaching improved farming techniques alongside the sacred rituals that she believes make the land fertile. She is particularly concerned about the growing frequency of failed harvests and suspects that something is deliberately attacking the fertility of the northern lands.
+Mirvrinna's goal is simple and profound: to ensure that no one goes hungry. She seeks to spread Fródvin's agricultural blessings to every settlement in the north, teaching improved farming techniques alongside the sacred rituals that she believes make the land fertile. She is particularly concerned about the growing frequency of failed harvests and suspects that something is deliberately attacking the fertility of the northern lands.
 
 ### Strengths
 
