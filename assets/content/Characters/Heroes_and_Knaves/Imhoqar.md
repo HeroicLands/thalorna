@@ -1,6 +1,6 @@
 ---
 shortcode: imhoqar2
-name: {full: Imhoqar, given: Imhoqar, clan: "", aliases: []}
+name: {full: Imhoqar, given: Imhoqar, aliases: []}
 type: being
 subType: character
 description: "The Imperial treasurer, whose hands are on the empire's accounts and whose patronage is worth more than most titles"

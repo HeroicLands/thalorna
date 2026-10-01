@@ -1,6 +1,6 @@
 ---
 shortcode: dvlgyndshdwwlkr
-name: {full: Dvulgynda Shadow-Walker, given: Dvulgynda, clan: null, aliases: [Shadow-Walker]}
+name: {full: Dvulgynda Shadow-Walker, given: Dvulgynda, aliases: [Shadow-Walker]}
 type: being
 subType: character
 tags: [hero, heroes-of-asguard, unguilded, underworld]

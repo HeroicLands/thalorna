@@ -1,6 +1,6 @@
 ---
 shortcode: gnldrthyrfrskn
-name: {full: Gnuldrthýra the Forsaken, given: Gnuldrthýra, clan: null, aliases: [the Forsaken]}
+name: {full: Gnuldrthýra the Forsaken, given: Gnuldrthýra, aliases: [the Forsaken]}
 type: being
 subType: character
 tags: [demigod, heroes-of-asguard, unguilded, soldiery]

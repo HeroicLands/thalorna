@@ -1,6 +1,6 @@
 ---
 shortcode: hnirvmylwise
-name: {full: Hnirvmýl the Wise, given: Hnirvmýl, clan: null, aliases: [the Wise]}
+name: {full: Hnirvmýl the Wise, given: Hnirvmýl, aliases: [the Wise]}
 type: being
 subType: character
 tags: [paragon, heroes-of-asguard, mages]

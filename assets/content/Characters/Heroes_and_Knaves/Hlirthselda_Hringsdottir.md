@@ -3,7 +3,6 @@ shortcode: hlrthsldhrngsdtr
 name:
   full: Hlirthselda Hringsdóttir
   given: Hlirthselda
-  clan: ""
   aliases: [the Shield-Maiden of Vrathavn]
 type: being
 subType: character

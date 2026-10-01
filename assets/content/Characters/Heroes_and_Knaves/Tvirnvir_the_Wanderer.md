@@ -1,6 +1,6 @@
 ---
 shortcode: tvrnvrwndr
-name: {full: Tvirnvir the Wanderer, given: Tvirnvir, clan: "", aliases: [the Rogue Skald]}
+name: {full: Tvirnvir the Wanderer, given: Tvirnvir, aliases: [the Rogue Skald]}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, guilded, tradesfolk]

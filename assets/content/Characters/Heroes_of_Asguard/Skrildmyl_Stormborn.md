@@ -1,6 +1,6 @@
 ---
 shortcode: skrldmylstrmbrn
-name: {full: Skrildmýl Stormborn, given: Skrildmýl, clan: null, aliases: [Stormborn]}
+name: {full: Skrildmýl Stormborn, given: Skrildmýl, aliases: [Stormborn]}
 type: being
 subType: character
 tags: [paragon, heroes-of-asguard, administration]
