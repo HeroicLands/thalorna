@@ -12,61 +12,15 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: theocracy
+    model: confederation
     summary: >-
-      Most faiths of the pantheon organize their clergy in a ladder of seven to eight circles. The titles differ between faiths—Ódinn's steeped in rune-lore, Thórr's in warband custom, Hél's in the secrecy of the suppressed—but the pattern is consistent: long apprenticeship, service in the working circles, and elevation to a senior rank carrying both spiritual authority and, in many kingdoms, temporal weight. Circle II is unlisted in the sources. Two faiths stand outside the pattern: Baldr's, which adopted the Sinalëan structure, and Ymir's, which has no hierarchy at all.
-    ranks:
-      - level: 0
-        title: Nídingr
-        lore: excmmnctrnk
-        description: >-
-          Declared nithing—cut off from the faith and from the standing that being of it conferred. No hall will seat them and no godi will speak for them.
-      - level: 1
-        title: Thraell
-        lore: initiaternk
-        description: >-
-          The god's thrall: taken into the temple young, given the observances and the labor, and years away from the priesthood.
-      - level: 3
-        title: Godi / Gydja
-        lore: priestrnk
-        description: >-
-          The working priest or priestess—Godi for a man, Gydja for a woman—who keeps the rites of a hall and the people who gather at it.
-      - level: 4
-        title: Hersir
-        lore: commanderrnk
-        description: >-
-          A warlord of the faith, carrying its authority where it must be carried by force or by presence.
-      - level: 5
-        title: Jarl
-        lore: greatlordrnk
-        description: >-
-          A senior rank carrying temporal weight as well as spiritual; in many kingdoms a Jarl of a faith sits among the jarls of the land.
-      - level: 6
-        title: Konungr / Konungrkvinde
-        lore: sovereignrnk
-        description: >-
-          King or queen within the faith's own hierarchy, and in some kingdoms a power the crown must reckon with.
-      - level: 7
-        title: Allsherjargodi
-        lore: highpriestrnk
-        description: >-
-          High priest—a pontifical office, speaking for the faith where it must speak with one voice.
-      - level: 8
-        title: Fadir / Módir
-        lore: grandmasterrnk
-        description: >-
-          Father or Mother of the god: the highest pontifical office, held by one person at a time.
+      Worship is decentralized on principle—no pontiff, no temple primacy, no continental synod—and the pantheon confers no standing of its own: each faith keeps its own clergy, its own liturgy and its own ranks, and nothing above them presides, admits or expels. What joins the Ten into one confederation is not an institution but a shared mythology, a shared calendar of seasonal blóts, and a shared ritual grammar—the runes, the mead poured in offering, the ancestral tongue spoken at the high ceremonies, and the binding weight of the spoken oath.
+    ranks: []
     offices:
       Hofsfadir / Hofsmódir: >-
         Founder of a hof, honored as its father or mother for life.
       Landsgodi: >-
         Priest of the land, who hallows the ting island and speaks for the Ten with one voice.
-      Höfudgodi: >-
-        Head of the faith in one kingdom, seated among its jarls.
-      Hofsgodi: >-
-        Keeper of a named hof, its stores and its blót.
-      Godi / Gydja: >-
-        The working priest or priestess of a hall, who keeps its rites and its people.
   seat: null
   domains: []
   population: null

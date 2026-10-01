@@ -15,59 +15,40 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A ladder of circles, rising from the young Thraell through the working Godi or Gydja to the senior ranks of Jarl and Konungr and the pontifical offices of the Allsherjargodi and the Fadir or Módir of the god. The titles are this faith's own; the pattern is the pantheon's. Circle II is unlisted in the sources.
+      What this faith confers is admission to the blót and the keeping of the hof where the local ting sits, granted and withheld by that hof's godi alike: the organ that sets the ladder's floor as well as its ceiling, with no rank of the land inside it and nothing above the high priest. The titles are this faith's own; the shape is shared by every faith of the Ten that keeps a public blót.
     ranks:
       - level: 0
-        title: Nídingr
-        lore: excmmnctrnk
+        title: Refused the Blót
+        lore: blotrefusedrnk
         description: >-
-          Declared nithing—cut off from the faith and from the standing that being of it conferred. No hall will seat them and no godi will speak for them.
+          Declined the offering at the hof where the local ting sits by its own godi, cutting a man from Eidgar's clergy and from the assembly's standing in one stroke.
       - level: 1
-        title: Dómr Thraell
-        lore: initiaternk
+        title: Blótmadr
+        lore: blotmadrrnk
         description: >-
-          "Judgment Thrall"—Justice Acolyte. The god's thrall: taken into the temple young, given the observances and the labor, and years away from the priesthood.
+          Attends the blót at the hof where the ting sits, sharing the meal that binds Eidgar's faithful to the law as well as the god.
+      - level: 2
+        title: Hofsmadr
+        lore: hofsmadrrnk
+        description: >-
+          Given to the hof where the ting sits, laboring at its observances for years short of standing in the priesthood that judges there.
       - level: 3
-        title: Rétt Godi/Gode
-        lore: priestrnk
+        title: Godi / Gydja
+        lore: godirnk
         description: >-
-          "Justice Priest/Priestess"—Justice Priest/Priestess. The working priest or priestess—Godi for a man, Gydja for a woman—who keeps the rites of a hall and the people who gather at it.
+          Ordained to keep the hof where the ting sits, swearing its oaths and keeping its rites, the faith's master and level for level a clan member's equal.
       - level: 4
-        title: Dýrr Hersir
-        lore: commanderrnk
+        title: Hofgodi / Hofgydja
+        lore: hofgodirnk
         description: >-
-          "Valiant Warlord"—Valor Herald. A warlord of the faith, carrying its authority where it must be carried by force or by presence.
-      - level: 5
-        title: Lög Jarl
-        lore: greatlordrnk
-        description: >-
-          "Law Jarl"—Warden of Law. A senior rank carrying temporal weight as well as spiritual; in many kingdoms a Jarl of a faith sits among the jarls of the land.
-      - level: 6
-        title: Dómskonungr/Konungrkvinde
-        lore: sovereignrnk
-        description: >-
-          "Law King/Queen"—Lawbringer. King or queen within the faith's own hierarchy, and in some kingdoms a power the crown must reckon with.
-      - level: 7
-        title: Týr Allsherjargodi
-        lore: highpriestrnk
-        description: >-
-          "Týr High Priest"—Honorable Lord. High priest—a pontifical office, speaking for the faith where it must speak with one voice.
-      - level: 8
-        title: Sverd Fadir/Módir
-        lore: grandmasterrnk
-        description: >-
-          "Father/Mother of the Sword"—Pontiff of the Sword. Father or Mother of the god: the highest pontifical office, held by one person at a time.
+          Consecrates the hofs where tings sit, ordains their godar, and performs the great blót at a season's turning; nothing of the land or any pontiff sits above this.
     offices:
       Hofsfadir / Hofsmódir: >-
         Founder of a hof, honored as its father or mother for life.
       Landsgodi: >-
         Priest of the land, who hallows the ting island and speaks for the Ten with one voice.
-      Höfudgodi: >-
-        Head of the faith in one kingdom, seated among its jarls.
       Hofsgodi: >-
-        Keeper of a named hof, its stores and its blót.
-      Godi / Gydja: >-
-        The working priest or priestess of a hall, who keeps its rites and its people.
+        Keeper of a named hof where the local ting sits, its stores and its blót.
   seat: null
   domains: []
   population: null
