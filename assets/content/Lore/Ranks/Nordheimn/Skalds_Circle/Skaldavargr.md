@@ -1,6 +1,6 @@
 ---
-shortcode: ringbrokenrnk
-name: {full: "Ring-Broken", aliases: []}
+shortcode: skaldavargrrnk
+name: {full: "Skaldavargr", aliases: ["Ring-Broken"]}
 type: lore
 subType: law
 description: "Convicted of breaking the truth of the recital, the arm-ring broken at the next Skaldating, in the Skalds' Circle."
@@ -11,7 +11,7 @@ Convicted of breaking the truth of the recital, the arm-ring broken at the next 
 
 ## What This Standing Is
 
-A skald formally accused and convicted of breaking the truth of the recital—reciting falsely what he was summoned to witness—has his silver arm-ring broken in his presence at the next Skaldating. The punishment has been imposed perhaps seven times in living memory, which is itself a measure of how rarely a sworn skald's word is doubted.
+A Skaldavargr is a skald formally accused and convicted of breaking the truth of the recital—reciting falsely what he was summoned to witness—whose silver arm-ring is broken in his presence at the next Skaldating. The punishment has been imposed perhaps seven times in living memory, which is itself a measure of how rarely a sworn skald's word is doubted.
 
 ## How the Law Treats a Person Here
 
@@ -19,7 +19,7 @@ There is no recovery from it: the ring that carried the marks of his master and 
 
 ## Privileges
 
-None. A ring-broken skald holds nothing the Circle confers.
+None. A Skaldavargr holds nothing the Circle confers.
 
 ## Obligations
 

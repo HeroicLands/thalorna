@@ -31,4 +31,4 @@ Holding a named province is itself the office the rank confers; a jarl may also 
 
 ## Where This Standing Is Held
 
-The five kingdoms—[[affiliation-kngdmnrdhm|Nordheim]], [[affiliation-kingdomlgn|Malagna]], [[affiliation-kingdmnrgd|Norgaad]], [[affiliation-kingdmtrgd|Targud]], and [[affiliation-kngdmvthgrd|Vithgard]]—hold this standing under one Nordmal law. The Jarldom of Stormveld does not: its jarls hold the [[lore-highjarlrnk|High Jarl]] standing among themselves rather than a province of a king.
+The five kingdoms—[[affiliation-kngdmnrdhm|Nordheim]], [[affiliation-kingdomlgn|Malagna]], [[affiliation-kingdmnrgd|Norgaad]], [[affiliation-kingdmtrgd|Targud]], and [[affiliation-kngdmvthgrd|Vithgard]]—hold this standing under one Nordmal law. The Jarldom of Stormveld does not: its jarls hold the [[lore-hofudvaldrnk|Höfudvald]] standing among themselves rather than a province of a king.

@@ -16,23 +16,23 @@ data:
       A sworn devotee serves as Hand-Squire until the Council of Hands examines and admits him a Sworn Hand; the Council also tries and puts a Hand from the order for a broken ruling, and elects the Voice of Lögstead from its Elder Hands for life.
     ranks:
       - level: 0
-        title: Put from the Order
-        lore: putfromordrrnk
+        title: Eidvargr
+        lore: eidvargrrnk
         description: >-
           Cast out at trial before the Council of Hands for softening a ruling, taking a gift from an interested party, or refusing a hard case, closing every chapter's hospitality for good.
       - level: 1
         title: Hand-Squire
-        lore: ordrcandidrnk
+        lore: eidefnirrnk
         description: >-
           Serves a senior knight for five to ten years before standing examination, doing the order's work while holding none of its authority to judge.
       - level: 3
-        title: Sworn Hand
-        lore: swornhandrnk
+        title: Lögvördr
+        lore: logvordrrnk
         description: >-
           Rides circuit or takes contracts from the order, convening a ting under Eidgar's white wand to render and enforce a binding ruling.
       - level: 4
         title: Elder Hand
-        lore: ordrseniorrnk
+        lore: eidhofdingirnk
         description: >-
           Takes apprentices, may strip a knight of rank on the spot pending trial, and sits among the twelve on the Council of Hands that elects the Voice of Lögstead.
     offices:
@@ -68,7 +68,7 @@ Membership is open to any sworn devotee of Eidgar who can pass the order's exami
 
 The order holds four ranks:
 
-- **Put from the Order**—cast out at trial before the Council of Hands, for softening a ruling, taking a gift from an interested party, or refusing a hard case; every chapter's hospitality is closed to them for good.
+- **Put from the Order** (_Eidvargr_)—cast out at trial before the Council of Hands, for softening a ruling, taking a gift from an interested party, or refusing a hard case; every chapter's hospitality is closed to them for good.
 - **Hand-Squire** (_Höndskjöldr_)—the admitted candidate; serves a senior knight for five to ten years before standing for examination, doing the order's work while holding none of its authority to judge.
 - **Sworn Hand** (_Eidhönd_)—the working knight; takes contracts from the order or rides his own circuit by elder permission, convening a ting under the white wand to render and enforce a ruling.
 - **Elder Hand** (_Eldri Eidhönd_)—senior member, recognized for many years of service or for notable rulings; permitted to take apprentices, to strip a knight of rank on the spot pending trial, and to sit on the Council of Hands.

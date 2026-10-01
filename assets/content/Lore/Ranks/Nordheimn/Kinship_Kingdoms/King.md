@@ -31,4 +31,4 @@ None above it. The King of All Clans assembly, which convenes at Dómsey and is 
 
 ## Where This Standing Is Held
 
-The five kingdoms—[[affiliation-kngdmnrdhm|Nordheim]], [[affiliation-kingdomlgn|Malagna]], [[affiliation-kingdmnrgd|Norgaad]], [[affiliation-kingdmtrgd|Targud]], and [[affiliation-kngdmvthgrd|Vithgard]]—each acclaim their own king under this standing. The Jarldom of Stormveld holds no king; its highest standing is [[lore-highjarlrnk|High Jarl]].
+The five kingdoms—[[affiliation-kngdmnrdhm|Nordheim]], [[affiliation-kingdomlgn|Malagna]], [[affiliation-kingdmnrgd|Norgaad]], [[affiliation-kingdmtrgd|Targud]], and [[affiliation-kngdmvthgrd|Vithgard]]—each acclaim their own king under this standing. The Jarldom of Stormveld holds no king; its highest standing is [[lore-hofudvaldrnk|Höfudvald]].

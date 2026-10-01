@@ -1,6 +1,6 @@
 ---
-shortcode: unaccordedrnk
-name: {full: "Unaccorded", aliases: []}
+shortcode: bjartlokrnk
+name: {full: "Bjartlok", aliases: ["Unaccorded"]}
 type: lore
 subType: law
 description: "Withheld the Lómëthar's accord, in the faith of Bjartr."
@@ -11,7 +11,7 @@ Withheld the Lómëthar's accord, in the faith of Bjartr.
 
 ## What This Standing Is
 
-The Lómëthar, the faith's council of radiance, speaks until it reaches accord on a matter before it, and can withhold that accord from a man it will not recognize. No single Calathir presides over the Lómëthar, but the gathering as a body still holds this power, and a man it refuses accord to is cast from the faith's standing by the same body that would otherwise confer it.
+The Lómëthar, the faith's council of radiance, speaks until it reaches accord on a matter before it, and can withhold that accord from a man it will not recognize. No single Calathir presides over the Lómëthar, but the gathering as a body still holds this power, and a man it refuses accord to is Bjartlok, cast from the faith's standing by the same body that would otherwise confer it.
 
 ## How the Law Treats a Person Here
 
@@ -19,7 +19,7 @@ He is refused what the Lómëthar's accord would confer: no Calathir will entrus
 
 ## Privileges
 
-None. A man unaccorded holds nothing this faith confers.
+None. A man the Lómëthar has refused holds nothing this faith confers.
 
 ## Obligations
 

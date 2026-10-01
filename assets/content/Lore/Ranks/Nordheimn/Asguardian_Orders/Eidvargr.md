@@ -1,6 +1,6 @@
 ---
-shortcode: putfromordrrnk
-name: {full: "Put from the Order", aliases: [Expelled, Foresworn]}
+shortcode: eidvargrrnk
+name: {full: "Eidvargr", aliases: ["Put from the Order"]}
 type: lore
 subType: law
 description: "Cast out of a sworn order, the habit taken back and the vows declared void, across the four Asguardian fighting orders."
@@ -11,7 +11,7 @@ Cast out of a sworn order, the habit taken back and the vows declared void, acro
 
 ## What This Standing Is
 
-A member is put out by his order's own council or chapter—the Council of Hands, a Chapter, a conclave of Storm-Captains, or the assembled Fathers of the Halls—which takes back the habit and declares the vows void. Each order words its own expulsion differently, but the act is one: a trial before the body that admitted him, ending in permanent loss of the order's hospitality.
+An Eidvargr is put out by his order's own council or chapter—the Council of Hands, a Chapter, a conclave of Storm-Captains, or the assembled Fathers of the Halls—which takes back the habit and declares the vows void. Each order words its own expulsion differently, but the act is one: a trial before the body that admitted him, ending in permanent loss of the order's hospitality.
 
 ## How the Law Treats a Person Here
 
@@ -19,7 +19,7 @@ No house of the order will receive him again: the network of hospitality that le
 
 ## Privileges
 
-None. A man put from the order holds nothing it confers.
+None. An Eidvargr holds nothing the order confers.
 
 ## Obligations
 

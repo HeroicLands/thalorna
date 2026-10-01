@@ -19,21 +19,21 @@ data:
   governance:
     model: stratocracy
     summary: >-
-      A captain swears his company into the Compact before the Council of the Hall and becomes a Signed Captain outright; the Council also discharges a captain in disgrace by vote, and elects the Speaker of the Compact from among its own for a five-year term.
+      A captain swears his company into the Compact before the Council of the Hall and becomes a Lidstjóri outright; the Council also discharges a captain in disgrace by vote, and elects the Speaker of the Compact from among its own for a five-year term.
     ranks:
       - level: 0
-        title: Discharged in Disgrace
-        lore: dischargedrnk
+        title: Bandalagsvargr
+        lore: bandalagsvargrrnk
         description: >-
           Expelled by Council vote, the bandalagshringr surrendered and the company's contracts dishonored, its hostels closed and its old debts settled by rivals the Compact will not restrain.
       - level: 1
-        title: Sworn of a Signed Company
-        lore: companyswornrnk
+        title: Bandalagsmadr
+        lore: bandalagsmadrrnk
         description: >-
           A common warrior testified by his captain rather than sworn directly to the Compact, holding its truce and a legible oath when he crosses from one signed company to another.
       - level: 3
-        title: Signed Captain
-        lore: signedcaptnrnk
+        title: Lidstjóri
+        lore: lidstjorirnk
         description: >-
           Swears the company into the Compact before the Council of the Hall, wears the bandalagshringr, and answers before the Council for the company's conduct under its oath.
     offices:
@@ -67,7 +67,7 @@ The Compact does not field its own troops. It does not levy. It does not adjudic
 
 A company joins the Compact by its captain's oath and its named muster sworn before the **Council of the Hall** at Hringstead. The Council has nine seats—one for each of the three longest-standing companies, three rotating seats elected from junior signed companies, and three seats reserved for retired captains of particular standing (the _grákáppar_, the "gray champions"). The Council meets four times a year, at the Compact's gathering-feasts.
 
-The Compact confers three ranks. A captain who signs his company's muster before the Council becomes a **Signed Captain**, wears the _bandalagshringr_, and answers to the Council for his company's conduct. His warriors hold the lesser standing of **Sworn of a Signed Company**: testified by his oath rather than sworn to the Compact directly, and bound by whatever he has sworn on the company's behalf. A captain who breaks the Compact's rules is **Discharged in Disgrace** by Council vote—his ring surrendered, his company's contracts dishonored, and its old debts left to rivals the Compact will not restrain.
+The Compact confers three ranks. A captain who signs his company's muster before the Council becomes a **Lidstjóri**, wears the _bandalagshringr_, and answers to the Council for his company's conduct. His warriors hold the lesser standing of **Bandalagsmadr**: testified by his oath rather than sworn to the Compact directly, and bound by whatever he has sworn on the company's behalf. A captain who breaks the Compact's rules is made **Bandalagsvargr** by Council vote—his ring surrendered, his company's contracts dishonored, and its old debts left to rivals the Compact will not restrain.
 
 Day-to-day administration falls to the **Speaker of the Compact** (the _Bandalagstalsmadr_), elected by the Council for a five-year term. The current Speaker is **Hrindvir Vetreldr**, a one-eyed veteran of the Vithgard succession wars who is widely respected and very much feared.
 

@@ -1,6 +1,6 @@
 ---
-shortcode: blotrefusedrnk
-name: {full: "Refused the Blót", aliases: []}
+shortcode: blotlokrnk
+name: {full: "Blótlok", aliases: ["Refused the Blót"]}
 type: lore
 subType: law
 description: "Declined the offering and the shared meal by a hof's godi, in the seven faiths of the Ten that keep the blót."
@@ -11,7 +11,7 @@ Declined the offering and the shared meal by a hof's godi, in the seven faiths o
 
 ## What This Standing Is
 
-The godi of a hof declines a man the offering and the shared meal that make up the blót. A blót not attended is a blót not accomplished, and because the rite ties a man to his clan as well as to his god, being refused it severs both at once.
+The godi of a hof declines a man the offering and the shared meal that make up the blót, and Blótlok is what that refusal leaves him. A blót not attended is a blót not accomplished, and because the rite ties a man to his clan as well as to his god, being refused it severs both at once.
 
 ## How the Law Treats a Person Here
 
@@ -19,7 +19,7 @@ He is cut from the shared meal that binds a hof's people to one another and to t
 
 ## Privileges
 
-None. A man refused the blót holds nothing this faith confers.
+None. A man the hof has refused holds nothing this faith confers.
 
 ## Obligations
 

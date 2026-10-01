@@ -1,6 +1,6 @@
 ---
-shortcode: dischargedrnk
-name: {full: "Discharged in Disgrace", aliases: []}
+shortcode: bandalagsvargrrnk
+name: {full: "Bandalagsvargr", aliases: ["Discharged in Disgrace"]}
 type: lore
 subType: law
 description: "Expelled from the Compact by Council vote, the bronze thumb-ring surrendered, in Málalidabandalag."
@@ -11,7 +11,7 @@ Expelled from the Compact by Council vote, the bronze thumb-ring surrendered, in
 
 ## What This Standing Is
 
-A captain is expelled by vote of the Council of the Hall for breaking one of the Compact's standing rules—walking off a contract without annulment, taking a contract against a signed company without declaring it at the Hall, or failing the Hall's due. The bandalagshringr, the bronze thumb-ring awarded at his swearing, is surrendered at expulsion.
+A Bandalagsvargr is expelled by vote of the Council of the Hall for breaking one of the Compact's standing rules—walking off a contract without annulment, taking a contract against a signed company without declaring it at the Hall, or failing the Hall's due. The bandalagshringr, the bronze thumb-ring awarded at his swearing, is surrendered at expulsion.
 
 ## How the Law Treats a Person Here
 
@@ -19,7 +19,7 @@ Expulsion is functionally a death sentence in the Nordlands trade: an expelled c
 
 ## Privileges
 
-None. A discharged captain holds nothing the Compact confers, and his former company's standing is discharged with him.
+None. A Bandalagsvargr holds nothing the Compact confers, and his former company's standing is discharged with him.
 
 ## Obligations
 

@@ -12,7 +12,7 @@ data:
   governance:
     model: confederation
     summary: >-
-      A loose confederation of jarldoms, each ruled by its own jarl, owing nominal allegiance to a High Jarl elected from among their number.
+      A loose confederation of jarldoms, each ruled by its own jarl, owing nominal allegiance to a Höfudvald elected from among their number.
     ranks:
       - level: 0
         title: Níding
@@ -48,17 +48,17 @@ data:
         title: Jarl
         lore: jarlrnk
         description: >-
-          Rules a jarldom in his own right, owing the High Jarl the confederation's nominal allegiance and nothing more.
+          Rules a jarldom in his own right, owing the Höfudvald the confederation's nominal allegiance and nothing more.
       - level: 7
-        title: High Jarl
-        lore: highjarlrnk
+        title: Höfudvald
+        lore: hofudvaldrnk
         description: >-
           Elected from among the jarls and holding only the authority they continue to lend him; no provision of the jarldoms' law ties the standing to his children.
     offices:
       Jarl: Ruler of a jarldom in his own right, with his own hall, levy and moot.
       Hersvald: Chieftain of a district, leading its men to the muster.
       Lawspeaker: Keeper of the law in memory, who recites it at the moot and declares what it is.
-      Hirdstjóri: Marshal of the High Jarl's household men and master of the common muster.
+      Hirdstjóri: Marshal of the Höfudvald's household men and master of the common muster.
       Skald: Poet of a hall, whose verse is its memory and whose scorn is a weapon.
       Skipstjóri: Master of a ship, commanding her crew at sea and answering for her in the levy.
       Harbour-reeve: Keeper of a haven, its tolls and its disputes.
@@ -84,17 +84,17 @@ sohl: {system: {commonSkills: [nordmalng]}}
 
 ## Overview
 
-The Jarldom of Stormveld holds the land of [[place-stormveld|Stormveld]]. The Stormveld is not a single unified polity but a loose confederation of jarldoms, each ruled by a jarl who owes nominal allegiance to a High Jarl elected from among their number.
+The Jarldom of Stormveld holds the land of [[place-stormveld|Stormveld]]. The Stormveld is not a single unified polity but a loose confederation of jarldoms, each ruled by a jarl who owes nominal allegiance to a Höfudvald elected from among their number.
 
 ## Character
 
 The Nordmen of Stormveld worship the [[affiliation-asguardian|Asguardian Pantheon]] gods, speak Nordmal, and maintain strong cultural ties to [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] across the sea.
 
-The High Jarl's authority is real but limited—each jarl governs his own territory with near-complete autonomy, and the High Jarl's primary role is to coordinate defense and settle disputes between the jarldoms. Elections for the position are contentious affairs that occasionally descend into armed contests.
+The Höfudvald's authority is real but limited—each jarl governs his own territory with near-complete autonomy, and the Höfudvald's primary role is to coordinate defense and settle disputes between the jarldoms. Elections for the position are contentious affairs that occasionally descend into armed contests.
 
 ## Relations
 
-Relations with the southern Aelwythan kingdoms alternate between uneasy peace and open raiding, depending on the temperament of whoever holds the High Jarl's seat. The [[affiliation-kngdmldrth|Kingdom of Aldorath]] bears the brunt of Stormveld's aggression, with the mountain ranges between the two polities serving as a contested frontier. The [[lore-flkkhazar|Khazári]] holds hidden in those same mountains are a source of wonder and occasional tension—the Nordmen respect the Deep Folk's craft but covet the mountain passes they control.
+Relations with the southern Aelwythan kingdoms alternate between uneasy peace and open raiding, depending on the temperament of whoever holds the Höfudvald's seat. The [[affiliation-kngdmldrth|Kingdom of Aldorath]] bears the brunt of Stormveld's aggression, with the mountain ranges between the two polities serving as a contested frontier. The [[lore-flkkhazar|Khazári]] holds hidden in those same mountains are a source of wonder and occasional tension—the Nordmen respect the Deep Folk's craft but covet the mountain passes they control.
 
 The Stormveld maintains strong connections to [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] across the sea, and warriors and traders move freely between the two. Some jarls hold lands on both sides of the water.
 

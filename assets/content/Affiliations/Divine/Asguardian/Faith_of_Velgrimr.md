@@ -18,8 +18,8 @@ data:
       What this faith confers is admission to the blót and the keeping of a hidden hof's rites, granted and withheld by that hof's godi alike: the organ that sets the ladder's floor as well as its ceiling, with no rank of the land inside it and nothing above the high priest. The titles are this faith's own; the shape is shared by every faith of the Ten that keeps a public blót.
     ranks:
       - level: 0
-        title: Refused the Blót
-        lore: blotrefusedrnk
+        title: Blótlok
+        lore: blotlokrnk
         description: >-
           Declined the offering at one of the hidden hofs tucked into Malagna's ports by its own godi, cutting a man from Vélgrímr's clergy and from the secrecy that protects it.
       - level: 1
@@ -84,7 +84,7 @@ Vélgrímr is depicted as a charismatic and enigmatic figure, his expression alw
 
 ## Clergy
 
-- **Refused the Blót**—denied the offering at a hidden hof in Malagna's ports, cut from the clergy and from the secrecy that protects it.
+- **Blótlok**—denied the offering at a hidden hof in Malagna's ports, cut from the clergy and from the secrecy that protects it.
 - **Blótmadr**—attends the blót at a hidden hof in Malagna's ports and shares an offering rarely spoken of outside it.
 - **Hofsmadr**—given young to a hidden hof in Malagna's ports, laboring at its secrecy before any claim to the priesthood.
 - **Godi / Gydja**—ordained to keep a hidden hof's rites in Malagna's ports.

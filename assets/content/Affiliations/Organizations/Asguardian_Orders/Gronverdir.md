@@ -1,6 +1,6 @@
 ---
 shortcode: gronverdir
-name: {full: The Green Wardens, aliases: [Grönverdir, The Guardians of the Harvest]}
+name: {full: "Grönverdir", aliases: ["The Green Wardens", "The Guardians of the Harvest"]}
 type: affiliation
 subType: order
 description: "Warrior-protectors sworn to Fródvin—guardians of farms, harvests, and the common folk against the dangers that the harvest-god's peace cannot itself avert."
@@ -16,18 +16,18 @@ data:
       A candidate is sponsored and examined before the Chapter and sworn in a Guardian outright; the Chapter also puts a Guardian from the order for breaking its vow, and elects the Speaker of the Green from among the Elder Guardians for a five-year term.
     ranks:
       - level: 0
-        title: Put from the Order
-        lore: putfromordrrnk
+        title: Eidvargr
+        lore: eidvargrrnk
         description: >-
           Cast out by vote of the Chapter, closing every valley station's hospitality and every sibling order's recognition for good.
       - level: 3
-        title: Sworn Guardian
-        lore: swrnguardnrnk
+        title: Grönvördr
+        lore: gronvordrrnk
         description: >-
           Holds a station over a valley or a cluster of farmsteads for years at a time, bound to defend it from outside harm without taking up the household's own quarrels.
       - level: 4
         title: Elder Guardian
-        lore: ordrseniorrnk
+        lore: eidhofdingirnk
         description: >-
           Oversees training, may hold a more important valley's station, and sits on the Chapter that elects the Speaker of the Green.
     offices:
@@ -61,7 +61,7 @@ A candidate for the order is sponsored by a sitting Guardian and presented at th
 
 The order holds three ranks. It admits nobody below its sworn rank: a candidate is sponsored and examined before he is anything.
 
-- **Put from the Order**—cast out by vote of the Chapter, closing every valley station's hospitality and every sibling order's recognition for good.
+- **Put from the Order** (_Eidvargr_)—cast out by vote of the Chapter, closing every valley station's hospitality and every sibling order's recognition for good.
 - **Sworn Guardian** (_Grönvördr_)—the working warden; assigned to a station or, occasionally, riding as a circuit relief.
 - **Elder Guardian** (_Eldri Grönvördr_)—senior member; may serve as station-warden for a more important valley, may oversee training, sits on the order's Chapter.
 

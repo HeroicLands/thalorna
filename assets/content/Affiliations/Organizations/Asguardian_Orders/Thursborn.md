@@ -1,8 +1,8 @@
 ---
 shortcode: thursborn
 name:
-  full: The Giant's Children
-  aliases: [Thursbörn, The Children of the First Frost, The Bonebreakers]
+  full: "Thursbörn"
+  aliases: ["The Giant's Children", "The Children of the First Frost", "The Bonebreakers"]
 type: affiliation
 subType: order
 description: "Initiatic warrior brotherhood of Hrímthur—devotees of the primordial god of creation and strength, sworn to wield the violence from which the world was first made."
@@ -18,23 +18,23 @@ data:
       A sponsor presents a candidate for a year of labor at a chapter hall before the rite of the Born of the Wound admits him outright; the assembled Fathers of the Halls also cast a brother from the order, and choose the Voice from the Wound in conclave.
     ranks:
       - level: 0
-        title: Put from the Order
-        lore: putfromordrrnk
+        title: Eidvargr
+        lore: eidvargrrnk
         description: >-
           Cast out by the assembled Fathers of the Halls, closing every one of the nine chapter halls' hospitality for good.
       - level: 1
         title: The Frost-Touched
-        lore: ordrcandidrnk
+        lore: eidefnirrnk
         description: >-
           Sponsored by a sitting brother and tested through a year of physical labor at a chapter hall; many withdraw or are dismissed before the rite that would admit them further.
       - level: 3
-        title: The Born of the Wound
-        lore: bornofwoundrnk
+        title: Sárborinn
+        lore: sarborinnrnk
         description: >-
           Admitted by a rite of severe physical ordeal and theological examination, wearing the order's permanent mark and bound by its absolute refusal of hire.
       - level: 4
         title: The Hand of the Maker
-        lore: ordrseniorrnk
+        lore: eidhofdingirnk
         description: >-
           Leads the order's actions in the field, instructs candidates, and sits among the Fathers of the Halls who choose the Voice from the Wound.
     offices:
@@ -70,7 +70,7 @@ The order is exclusively male in present practice. The historical record include
 
 Initiation is in stages, modeled on the order's understanding of the cosmogony. The order holds four ranks:
 
-- **Put from the Order**—cast out by the assembled Fathers of the Halls, closing every one of the nine chapter halls' hospitality for good.
+- **Put from the Order** (_Eidvargr_)—cast out by the assembled Fathers of the Halls, closing every one of the nine chapter halls' hospitality for good.
 - **The Frost-Touched** (_Hrímskírdr_)—the candidate stage; a young man (typically sixteen to twenty) sponsored by a sitting brother and tested through a year of physical labor at one of the chapter halls. Many candidates withdraw or are dismissed.
 - **The Born of the Wound** (_Sárborinn_)—admitted after a formal rite that involves both severe physical ordeal and theological examination. The Born of the Wound wear the order's mark and are full members.
 - **The Hand of the Maker** (_Smidshönd_)—senior brother; advanced rite of initiation; permitted to lead the order's actions in the field and to instruct candidates.

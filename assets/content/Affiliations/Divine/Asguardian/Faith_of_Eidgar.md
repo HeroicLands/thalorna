@@ -18,8 +18,8 @@ data:
       What this faith confers is admission to the blót and the keeping of the hof where the local ting sits, granted and withheld by that hof's godi alike: the organ that sets the ladder's floor as well as its ceiling, with no rank of the land inside it and nothing above the high priest. The titles are this faith's own; the shape is shared by every faith of the Ten that keeps a public blót.
     ranks:
       - level: 0
-        title: Refused the Blót
-        lore: blotrefusedrnk
+        title: Blótlok
+        lore: blotlokrnk
         description: >-
           Declined the offering at the hof where the local ting sits by its own godi, cutting a man from Eidgar's clergy and from the assembly's standing in one stroke.
       - level: 1
@@ -87,7 +87,7 @@ Temples dedicated to Eidgar serve as places of law and order, where disputes are
 
 ## Clergy
 
-- **Refused the Blót**—denied the offering at the hof where the local ting sits, cut from the clergy and from the assembly's standing.
+- **Blótlok**—denied the offering at the hof where the local ting sits, cut from the clergy and from the assembly's standing.
 - **Blótmadr**—attends the blót at the hof where the ting sits and shares the meal that binds the law to the god.
 - **Hofsmadr**—given to the hof where the ting sits, laboring at its observances before standing in the priesthood that judges there.
 - **Godi / Gydja**—ordained to keep the hof where the ting sits, swearing its oaths and keeping its rites.

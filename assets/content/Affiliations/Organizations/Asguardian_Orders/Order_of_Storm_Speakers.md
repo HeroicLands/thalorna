@@ -18,23 +18,23 @@ data:
       A candidate stands the receptive test at Thrumufjall before a sponsoring Speaker presents him for examination; the conclave of Storm-Captains also tries and casts out a Speaker for cause, and chooses the Voice of the Hammer from among its own for life.
     ranks:
       - level: 0
-        title: Put from the Order
-        lore: putfromordrrnk
+        title: Eidvargr
+        lore: eidvargrrnk
         description: >-
           Cast out by conclave of the Storm-Captains, closing Thrumufjall and every chapter hall's hospitality for good.
       - level: 1
         title: Storm-Aspirant
-        lore: ordrcandidrnk
+        lore: eidefnirrnk
         description: >-
           Trains at Thrumufjall or under a sitting Speaker, tested for weather-sensitivity in a thunderstorm and dismissed regardless of other merit if the test finds nothing in them.
       - level: 3
-        title: Sworn Speaker
-        lore: swornspkrrnk
+        title: Stormmaelir
+        lore: stormmaelirrnk
         description: >-
           Acts on the order's behalf and draws its hospitality anywhere in the Nordlands, reading a storm before calling it and answering the standing arrangements a coastal town keeps for its defense.
       - level: 4
         title: Storm-Captain
-        lore: ordrseniorrnk
+        lore: eidhofdingirnk
         description: >-
           Leads tactical actions in the field, instructs Aspirants, and sits in the conclave that chooses the Voice of the Hammer.
     offices:
@@ -70,7 +70,7 @@ Candidates are presented to the order by a sponsoring Speaker, typically between
 
 The order holds four ranks:
 
-- **Put from the Order**—cast out by conclave of the Storm-Captains, closing Thrumufjall and every chapter hall's hospitality for good.
+- **Put from the Order** (_Eidvargr_)—cast out by conclave of the Storm-Captains, closing Thrumufjall and every chapter hall's hospitality for good.
 - **Storm-Aspirant** (_Stormefnir_)—candidate in training; serves at Thrumufjall or under a sitting Speaker.
 - **Sworn Speaker** (_Stormmaelir_)—full member; permitted to act on the order's behalf and to draw on its hospitality across the Nordlands.
 - **Storm-Captain** (_Stormhöfdingi_)—senior member; leads tactical actions in the field and instructs Aspirants.

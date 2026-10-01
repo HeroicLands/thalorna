@@ -1,6 +1,6 @@
 ---
-shortcode: companyswornrnk
-name: {full: "Sworn of a Signed Company", aliases: []}
+shortcode: bandalagsmadrrnk
+name: {full: "Bandalagsmadr", aliases: ["Sworn of a Signed Company"]}
 type: lore
 subType: law
 description: "A common warrior of a Compact-signed company, testified by his captain, in Málalidabandalag."
@@ -11,7 +11,7 @@ A common warrior of a Compact-signed company, testified by his captain, in Mála
 
 ## What This Standing Is
 
-A common warrior of a signed company wears no Compact mark beyond his company's own; his standing before the Compact is testified by his captain rather than sworn by him directly. What he holds by his company's signing is the Compact's truce and a legible oath when he crosses from one company to another.
+A Bandalagsmadr, a common warrior of a signed company, wears no Compact mark beyond his company's own; his standing before the Compact is testified by his captain rather than sworn by him directly. What he holds by his company's signing is the Compact's truce and a legible oath when he crosses from one company to another.
 
 ## How the Law Treats a Person Here
 

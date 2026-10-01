@@ -1,8 +1,13 @@
 ---
-shortcode: ordrseniorrnk
+shortcode: eidhofdingirnk
 name:
-  full: "Senior of a Sworn Order"
-  aliases: [Elder Hand, Elder Guardian, Storm-Captain, Hand of the Maker]
+  full: "Eidhöfdingi"
+  aliases:
+    - "Senior of a Sworn Order"
+    - "Elder Hand"
+    - "Elder Guardian"
+    - "Storm-Captain"
+    - "Hand of the Maker"
 type: lore
 subType: law
 description: "Instructs candidates and sits in the body that chooses its order's chair, across the four Asguardian fighting orders."
@@ -13,7 +18,7 @@ Instructs candidates and sits in the body that chooses its order's chair, across
 
 ## What This Standing Is
 
-A senior member instructs the order's candidates, holds a heavier station than a working member, and sits in the body that chooses the order's chair. The Sworn Hand calls him an Elder Hand, permitted to take apprentices and to strip a knight of rank on the spot; the Green Wardens an Elder Guardian, warden of a more important valley; the Storm-Speakers a Storm-Captain, leading tactical actions in the field; the Giant's Children the Hand of the Maker, leading the order's actions and instructing candidates.
+An Eidhöfdingi instructs the order's candidates, holds a heavier station than a working member, and sits in the body that chooses the order's chair. The Sworn Hand calls him an Elder Hand, permitted to take apprentices and to strip a knight of rank on the spot; the Green Wardens an Elder Guardian, warden of a more important valley; the Storm-Speakers a Storm-Captain, leading tactical actions in the field; the Giant's Children the Hand of the Maker, leading the order's actions and instructing candidates.
 
 ## How the Law Treats a Person Here
 

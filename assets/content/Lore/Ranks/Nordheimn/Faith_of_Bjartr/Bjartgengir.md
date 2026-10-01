@@ -1,6 +1,6 @@
 ---
-shortcode: faithfulrnk
-name: {full: "The Faithful", aliases: []}
+shortcode: bjartgengirrnk
+name: {full: "Bjartgengir", aliases: ["The Faithful"]}
 type: lore
 subType: law
 description: "Those who come for the Blessing of Light and the Night of Dreams, in the faith of Bjartr."
@@ -11,11 +11,11 @@ Those who come for the Blessing of Light and the Night of Dreams, in the faith o
 
 ## What This Standing Is
 
-The faithful are those who come to the Blessing of Light, a ceremony held preferentially in a forest where the priests bless those gathered against darkness and despair, and to the Night of Dreams, where the faithful share their dreams and visions and seek Bjartr's guidance. Coming to these rites is the whole of what admits a person to this standing.
+The Bjartgengir are those who come to the Blessing of Light, a ceremony held preferentially in a forest where the priests bless those gathered against darkness and despair, and to the Night of Dreams, where the faithful share their dreams and visions and seek Bjartr's guidance. Coming to these rites is the whole of what admits a person to this standing.
 
 ## How the Law Treats a Person Here
 
-He is counted among the faith's people once he has received the Blessing of Light or joined the Night of Dreams, and is reckoned so until the Lómëthar withholds its accord from him and leaves him [[lore-unaccordedrnk|Unaccorded]] instead.
+He is counted among the faith's people once he has received the Blessing of Light or joined the Night of Dreams, and is reckoned so until the Lómëthar withholds its accord from him and leaves him [[lore-bjartlokrnk|Bjartlok]] instead.
 
 ## Privileges
 

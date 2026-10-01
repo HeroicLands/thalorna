@@ -1,6 +1,6 @@
 ---
-shortcode: swornspkrrnk
-name: {full: "Sworn Speaker", aliases: [Stormmaelir]}
+shortcode: stormmaelirrnk
+name: {full: "Stormmaelir", aliases: ["Sworn Speaker"]}
 type: lore
 subType: law
 description: "The full member of the Order of the Storm-Speakers, acting on the order's behalf across the Nordlands."
@@ -11,11 +11,11 @@ The full member of the Order of the Storm-Speakers, acting on the order's behalf
 
 ## What This Standing Is
 
-A Sworn Speaker is permitted to act on the order's behalf and to draw on its hospitality across the Nordlands. He is elevated from a Storm-Aspirant after passing three examinations—martial, devotional, and the receptive test of latent weather-sensitivity conducted at Thrumufjall during a thunderstorm, which dismisses a candidate regardless of other merit if it finds nothing in him.
+A Stormmaelir is permitted to act on the order's behalf and to draw on its hospitality across the Nordlands. He is elevated from a Storm-Aspirant after passing three examinations—martial, devotional, and the receptive test of latent weather-sensitivity conducted at Thrumufjall during a thunderstorm, which dismisses a candidate regardless of other merit if it finds nothing in him.
 
 ## How the Law Treats a Person Here
 
-He carries a standing the order's own hospitality and coastal arrangements answer to: a town under standing arrangement for coastal defense may call on any Sworn Speaker dispatched to it, and his reading of the weather is what a shipowner, a captain, or the Skalds' Circle relies on when they consult the order.
+He carries a standing the order's own hospitality and coastal arrangements answer to: a town under standing arrangement for coastal defense may call on any Stormmaelir dispatched to it, and his reading of the weather is what a shipowner, a captain, or the Skalds' Circle relies on when they consult the order.
 
 ## Privileges
 
@@ -27,7 +27,7 @@ He keeps the Hammer Held, the Storm Honored, and the Reading and the Speaking: h
 
 ## Offices Open at This Standing
 
-None above the rank itself short of advancement to [[lore-ordrseniorrnk|Storm-Captain]].
+None above the rank itself short of advancement to [[lore-eidhofdingirnk|Storm-Captain]].
 
 ## Where This Standing Is Held
 

@@ -1,6 +1,6 @@
 ---
-shortcode: adherentrnk
-name: {full: "Adherent", aliases: []}
+shortcode: hrimmadrrnk
+name: {full: "Hrímmadr", aliases: ["Adherent"]}
 type: lore
 subType: law
 description: "Attached to one of Hrímthur's scattered factions and doing its work, in the faith of Hrímthur."
@@ -11,7 +11,7 @@ Attached to one of Hrímthur's scattered factions and doing its work, in the fai
 
 ## What This Standing Is
 
-An adherent is attached to one of the scattered factions that keep Hrímthur's worship, each tied to a different hof and to the wound it keeps, and does that faction's work. Standing within a faction is a matter of what a person has made or understood, and is claimed rather than conferred by any officer of it.
+A Hrímmadr is attached to one of the scattered factions that keep Hrímthur's worship, each tied to a different hof and to the wound it keeps, and does that faction's work. Standing within a faction is a matter of what a person has made or understood, and is claimed rather than conferred by any officer of it.
 
 ## How the Law Treats a Person Here
 

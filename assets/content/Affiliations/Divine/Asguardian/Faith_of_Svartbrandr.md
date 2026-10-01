@@ -18,8 +18,8 @@ data:
       What this faith confers is admission to the blót and the keeping of a forge-hof's rites, granted and withheld by that hof's godi alike: the organ that sets the ladder's floor as well as its ceiling, with no rank of the land inside it and nothing above the high priest. The titles are this faith's own; the shape is shared by every faith of the Ten that keeps a public blót.
     ranks:
       - level: 0
-        title: Refused the Blót
-        lore: blotrefusedrnk
+        title: Blótlok
+        lore: blotlokrnk
         description: >-
           Declined the offering at a forge-hof during its Fire-Weeks by its own godi, cutting a man from Svartbrandr's clergy and from the ordeal that proves devotion there.
       - level: 1
@@ -85,7 +85,7 @@ Followers of Svartbrandr are warriors who embrace the chaos and brutality of bat
 
 ## Clergy
 
-- **Refused the Blót**—denied the offering at a forge-hof during its Fire-Weeks, cut from the clergy and from the ordeal that proves devotion there.
+- **Blótlok**—denied the offering at a forge-hof during its Fire-Weeks, cut from the clergy and from the ordeal that proves devotion there.
 - **Blótmadr**—attends the blót at a forge-hof and shares its ember-offering.
 - **Hofsmadr**—given to a forge-hof young, laboring at its bellows and its Fire-Weeks before any claim to the priesthood.
 - **Godi / Gydja**—ordained to keep a forge-hof's rites and its Fire-Weeks.

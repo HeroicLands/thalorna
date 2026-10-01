@@ -18,13 +18,13 @@ data:
       No formal hierarchy and no structured organization: scattered factions, each attached to a different hof and to the wound it keeps, operating independently and united only by faith in the Rime-Giant as substance rather than as a maker. What roles exist are informal, fluid, and claimed rather than conferred.
     ranks:
       - level: 1
-        title: Admirer
-        lore: admirerrnk
+        title: Hrímvin
+        lore: hrimvinrnk
         description: >-
           Holds Hrímthur's work in awe without joining any of the scattered factions that keep his worship, drawn by no rite because there is none to enter.
       - level: 3
-        title: Adherent
-        lore: adherentrnk
+        title: Hrímmadr
+        lore: hrimmadrrnk
         description: >-
           Attached to one of the scattered factions tied to a hof and the wound it keeps, holding whatever standing that faction claims for what he has made or understood.
     offices: {}
@@ -59,7 +59,7 @@ His hofs are few and hard to reach. Holafell in Norgaad is the oldest, a sanctua
 
 ## Clergy
 
-Hrímthur's faithful hold one of two standings. An admirer holds his work in awe and belongs to no faction; an adherent is attached to one of the scattered factions tied to Holafell, the Northern Hall, or one of the hörgar between them, and does that faction's work. No office binds the factions together, and a faithful who belongs to none of them answers to nobody at all.
+Hrímthur's faithful hold one of two standings. A Hrímvin holds his work in awe and belongs to no faction; a Hrímmadr is attached to one of the scattered factions tied to Holafell, the Northern Hall, or one of the hörgar between them, and does that faction's work. No office binds the factions together, and a faithful who belongs to none of them answers to nobody at all.
 
 **Key Skills:** Stonecraft, Survival in cold, Endurance of pain, Reading frost-marks, the recitation of the cutting
 
@@ -69,7 +69,7 @@ The faith names none. A god who is the world's substance has no messengers, and 
 
 ## High Ceremonies
 
-- **The Renewal of the Wound:** Cut into the rock at Holafell at the turn of winter, by whichever adherent the Holafell faction has put forward that year, and as many of the Giant's Children as have come. What is cut is never mended between one year and the next.
+- **The Renewal of the Wound:** Cut into the rock at Holafell at the turn of winter, by whichever Hrímmadr the Holafell faction has put forward that year, and as many of the Giant's Children as have come. What is cut is never mended between one year and the next.
 - **The Naming of the Stone:** A hof's grey chips are brought out, counted aloud against the roll of the hall's dead, and returned to the floor.
 
 ## Ordeals for Favor

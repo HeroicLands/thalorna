@@ -1,6 +1,6 @@
 ---
 shortcode: kinsmanrnk
-name: {full: Kinsman, aliases: []}
+name: {full: "Kinsman", aliases: ["Hallarborinn"]}
 type: lore
 subType: law
 description: "Of a house's blood or sworn following, entitled to its protection and its quarrels."

@@ -1,6 +1,6 @@
 ---
-shortcode: skaldapprntrnk
-name: {full: "Apprentice", aliases: []}
+shortcode: skaldefnirrnk
+name: {full: "Skaldefnir", aliases: ["Apprentice of the Circle"]}
 type: lore
 subType: law
 description: "A master's pupil for ten to fifteen years, entitled to present a drápa, in the Skalds' Circle."
@@ -11,7 +11,7 @@ A master's pupil for ten to fifteen years, entitled to present a drápa, in the 
 
 ## What This Standing Is
 
-A skald is made by a skald: an apprentice's progression begins when a sitting master identifies a candidate, typically in late childhood, and continues ten to fifteen years through memorization, composition, and presentation. His life is his master's life until the master judges him fit to compose his own first saga, the drápa, delivered before assembled skalds at a Skaldating.
+A skald is made by a skald: a Skaldefnir's progression begins when a sitting master identifies a candidate, typically in late childhood, and continues ten to fifteen years through memorization, composition, and presentation. His life is his master's life until the master judges him fit to compose his own first saga, the drápa, delivered before assembled skalds at a Skaldating.
 
 ## How the Law Treats a Person Here
 

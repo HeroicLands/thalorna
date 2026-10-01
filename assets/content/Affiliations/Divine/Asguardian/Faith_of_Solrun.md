@@ -18,8 +18,8 @@ data:
       What this faith confers is admission to the blót and the keeping of a feast-hall's rites, granted and withheld by that hof's godi alike: the organ that sets the ladder's floor as well as its ceiling, with no rank of the land inside it and nothing above the high priest. The titles are this faith's own; the shape is shared by every faith of the Ten that keeps a public blót.
     ranks:
       - level: 0
-        title: Refused the Blót
-        lore: blotrefusedrnk
+        title: Blótlok
+        lore: blotlokrnk
         description: >-
           Declined the offering at a feast-hall by its own godi, cutting a man from Sólrún's clergy and from the generosity that measures standing there.
       - level: 1
@@ -86,7 +86,7 @@ Sólrún is depicted as a radiant and sensual goddess, her beauty unparalleled a
 
 The faith's highest rank, Hofgodi/Hofgydja, is held by women alone.
 
-- **Refused the Blót**—denied the offering at a feast-hall, cut from the clergy and from the generosity that measures standing there.
+- **Blótlok**—denied the offering at a feast-hall, cut from the clergy and from the generosity that measures standing there.
 - **Blótmadr**—attends the blót at a feast-hall and shares its meal and the gold given away there.
 - **Hofsmadr**—given to a feast-hall's hof young, laboring at its stores and its rites before any claim to the priesthood.
 - **Godi / Gydja**—ordained to keep a feast-hall's rites and the giving-away of its gold.

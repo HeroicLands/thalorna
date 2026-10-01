@@ -1,6 +1,6 @@
 ---
-shortcode: highjarlrnk
-name: {full: "High Jarl", aliases: []}
+shortcode: hofudvaldrnk
+name: {full: "Höfudvald", aliases: ["High Jarl"]}
 type: lore
 subType: law
 description: "The sovereign standing of the Jarldom of Stormveld, held by a jarl elected from among his peers."
@@ -11,7 +11,7 @@ The sovereign standing of the Jarldom of Stormveld, held by a jarl elected from 
 
 ## What This Standing Is
 
-The Jarldom of Stormveld is a loose confederation of jarldoms, each ruled by a jarl who owes nominal allegiance to a High Jarl elected from among their number. A High Jarl holds this standing rather than a king's crown, and holds it on the jarldoms' election rather than on descent from a royal clan.
+The Jarldom of Stormveld is a loose confederation of jarldoms, each ruled by a jarl who owes nominal allegiance to a Höfudvald elected from among their number. A Höfudvald holds this standing rather than a king's crown, and holds it on the jarldoms' election rather than on descent from a royal clan.
 
 ## How the Law Treats a Person Here
 
@@ -27,7 +27,7 @@ He answers to the jarldoms that elected him, and holds the standing only as long
 
 ## Offices Open at This Standing
 
-None above it within the jarldom; a High Jarl remains a jarl of his own jarldom besides, and holds no further standing the confederation confers.
+None above it within the jarldom; a Höfudvald remains a jarl of his own jarldom besides, and holds no further standing the confederation confers.
 
 ## Where This Standing Is Held
 

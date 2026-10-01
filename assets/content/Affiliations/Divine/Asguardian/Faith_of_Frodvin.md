@@ -18,8 +18,8 @@ data:
       What this faith confers is admission to the blót and the keeping of a valley infirmary's rites, granted and withheld by that hof's godi alike: the organ that sets the ladder's floor as well as its ceiling, with no rank of the land inside it and nothing above the high priest. The titles are this faith's own; the shape is shared by every faith of the Ten that keeps a public blót.
     ranks:
       - level: 0
-        title: Refused the Blót
-        lore: blotrefusedrnk
+        title: Blótlok
+        lore: blotlokrnk
         description: >-
           Declined the offering at a valley infirmary's hof by its own godi, cutting a man from Fródvin's clergy and from the care it extends to the sick.
       - level: 1
@@ -84,7 +84,7 @@ Fródvin is often depicted as a serene and nurturing figure, radiating kindness 
 
 ## Clergy
 
-- **Refused the Blót**—denied the offering at a valley infirmary's hof, cut from the clergy and from the care it extends to the sick.
+- **Blótlok**—denied the offering at a valley infirmary's hof, cut from the clergy and from the care it extends to the sick.
 - **Blótmadr**—attends the blót at a valley infirmary's hof and shares its harvest-offering.
 - **Hofsmadr**—given to a valley infirmary's hof young, laboring at its herb-lore and its sick before any claim to the priesthood.
 - **Godi / Gydja**—ordained to keep a valley infirmary's rites and tend its sick.

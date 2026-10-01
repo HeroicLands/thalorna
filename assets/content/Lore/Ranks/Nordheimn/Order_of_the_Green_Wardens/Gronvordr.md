@@ -1,6 +1,6 @@
 ---
-shortcode: swrnguardnrnk
-name: {full: "Sworn Guardian", aliases: [Grönvördr]}
+shortcode: gronvordrrnk
+name: {full: "Grönvördr", aliases: ["Sworn Guardian"]}
 type: lore
 subType: law
 description: "The working warden of the Order of the Green Wardens, holding a station or riding circuit relief."
@@ -11,7 +11,7 @@ The working warden of the Order of the Green Wardens, holding a station or ridin
 
 ## What This Standing Is
 
-A Sworn Guardian holds a station—typically a particular valley or cluster of farmsteads for years at a time—or occasionally rides as circuit relief. He is sponsored by a sitting Guardian and presented at the order's annual chapter, examined in martial skill and in devotional knowledge of the harvest cycle and the order's vow, and sworn in with none of the candidate standing the order's siblings hold beneath their own sworn rank, because the Green Wardens admit nobody below it.
+A Grönvördr holds a station—typically a particular valley or cluster of farmsteads for years at a time—or occasionally rides as circuit relief. He is sponsored by a sitting Guardian and presented at the order's annual chapter, examined in martial skill and in devotional knowledge of the harvest cycle and the order's vow, and sworn in with none of the candidate standing the order's siblings hold beneath their own sworn rank, because the Green Wardens admit nobody below it.
 
 ## How the Law Treats a Person Here
 
@@ -27,7 +27,7 @@ He keeps the Defended Hearth, the Refused Quarrel, and the Honored Earth: dilige
 
 ## Offices Open at This Standing
 
-None above the rank itself short of advancement to [[lore-ordrseniorrnk|Elder Guardian]].
+None above the rank itself short of advancement to [[lore-eidhofdingirnk|Elder Guardian]].
 
 ## Where This Standing Is Held
 

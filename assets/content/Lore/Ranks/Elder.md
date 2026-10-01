@@ -1,6 +1,6 @@
 ---
 shortcode: elderrnk
-name: {full: Elder, aliases: []}
+name: {full: "Elder", aliases: ["Aldarmadr"]}
 type: lore
 subType: law
 description: "Senior of a body, whose recollection of its custom settles what the young dispute."

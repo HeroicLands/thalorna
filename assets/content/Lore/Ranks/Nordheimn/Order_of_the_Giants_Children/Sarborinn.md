@@ -1,6 +1,6 @@
 ---
-shortcode: bornofwoundrnk
-name: {full: "Born of the Wound", aliases: [Sárborinn]}
+shortcode: sarborinnrnk
+name: {full: "Sárborinn", aliases: ["Born of the Wound"]}
 type: lore
 subType: law
 description: "The full member of the Order of the Giant's Children, admitted by a rite of ordeal and theological examination."
@@ -11,7 +11,7 @@ The full member of the Order of the Giant's Children, admitted by a rite of orde
 
 ## What This Standing Is
 
-The Born of the Wound is admitted after a formal rite that involves both severe physical ordeal and theological examination, following a year or more as a Frost-Touched candidate. Wearing the order's mark, he is a full member, sworn to the doctrine that combat properly conducted participates in the cosmogonic violence that cut the world from Hrímthur's body.
+A Sárborinn is admitted after a formal rite that involves both severe physical ordeal and theological examination, following a year or more as a Frost-Touched candidate. Wearing the order's mark, he is a full member, sworn to the doctrine that combat properly conducted participates in the cosmogonic violence that cut the world from Hrímthur's body.
 
 ## How the Law Treats a Person Here
 
@@ -27,7 +27,7 @@ He keeps the Renewal of Founding, the Cultivation of the Body, and the Refusal o
 
 ## Offices Open at This Standing
 
-None above the rank itself short of advancement to [[lore-ordrseniorrnk|Hand of the Maker]].
+None above the rank itself short of advancement to [[lore-eidhofdingirnk|Hand of the Maker]].
 
 ## Where This Standing Is Held
 

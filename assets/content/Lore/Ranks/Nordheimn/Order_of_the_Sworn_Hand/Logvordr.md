@@ -1,6 +1,6 @@
 ---
-shortcode: swornhandrnk
-name: {full: "Sworn Hand", aliases: [Eidhönd]}
+shortcode: logvordrrnk
+name: {full: "Lögvördr", aliases: ["Sworn Hand"]}
 type: lore
 subType: law
 description: "The warrior-judge of the Order of the Sworn Hand, riding circuit to render and enforce rulings under the white wand."
@@ -11,7 +11,7 @@ The warrior-judge of the Order of the Sworn Hand, riding circuit to render and e
 
 ## What This Standing Is
 
-A Sworn Hand takes contracts from the order or rides his own circuit by elder permission, convening a ting under Eidgar's white wand to hear a matter and render or enforce the ruling. He is admitted after passing the order's examinations—martial competence, legal memory of all five kingdoms' laws, the rules of judgment by combat, and a ting's rhetorical and procedural conduct—and a final interview before the Council of Hands at Lögstead.
+A Lögvördr takes contracts from the order or rides his own circuit by elder permission, convening a ting under Eidgar's white wand to hear a matter and render or enforce the ruling. He is admitted after passing the order's examinations—martial competence, legal memory of all five kingdoms' laws, the rules of judgment by combat, and a ting's rhetorical and procedural conduct—and a final interview before the Council of Hands at Lögstead.
 
 ## How the Law Treats a Person Here
 
@@ -27,7 +27,7 @@ He must not soften a ruling to spare a powerful man, accept a gift from an inter
 
 ## Offices Open at This Standing
 
-None above the rank itself short of advancement to [[lore-ordrseniorrnk|Elder Hand]]; a knight stripped of rank by an Elder Hand pending trial holds this standing until the Council rules.
+None above the rank itself short of advancement to [[lore-eidhofdingirnk|Elder Hand]]; a knight stripped of rank by an Elder Hand pending trial holds this standing until the Council rules.
 
 ## Where This Standing Is Held
 

@@ -18,8 +18,8 @@ data:
       What this faith confers is admission to the blót and the keeping of a rune-hall's rites, granted and withheld by that hall's godi alike: the organ that sets the ladder's floor as well as its ceiling, with no rank of the land inside it and nothing above the high priest. The titles are this faith's own; the shape is shared by every faith of the Ten that keeps a public blót.
     ranks:
       - level: 0
-        title: Refused the Blót
-        lore: blotrefusedrnk
+        title: Blótlok
+        lore: blotlokrnk
         description: >-
           Declined the mead and the rune-offering at a rune-hall by its own godi, cutting a man from Ódvar's clergy and from the hall's reckoning of him at once.
       - level: 1
@@ -87,7 +87,7 @@ In artistic depictions, Ódvar is often shown holding a spear, Skjálfgeir, whic
 
 ## Clergy
 
-- **Refused the Blót**—denied the mead and rune-offering at a rune-hall, cut from the clergy and from the hall's reckoning of him.
+- **Blótlok**—denied the mead and rune-offering at a rune-hall, cut from the clergy and from the hall's reckoning of him.
 - **Blótmadr**—attends the blót at a rune-hall and shares its mead and meal.
 - **Hofsmadr**—given to a rune-hall young, laboring at its rune-lore before any claim to the priesthood.
 - **Godi / Gydja**—ordained to keep a rune-hall's rites and the rune-casting that guides its people.

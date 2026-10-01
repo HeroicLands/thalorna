@@ -18,13 +18,13 @@ data:
       A master swears an apprentice into the Circle once a Skaldating accepts his drápa; the assembled skalds convict and ring-break one who breaks the truth of the recital, and the Circle acclaims a Stóraldstjóri by peer recognition rather than vote.
     ranks:
       - level: 0
-        title: Ring-Broken
-        lore: ringbrokenrnk
+        title: Skaldavargr
+        lore: skaldavargrrnk
         description: >-
           Convicted of breaking the truth of the recital, the silver arm-ring broken at the next Skaldating—a punishment with no recovery, imposed perhaps seven times in living memory.
       - level: 1
-        title: Apprentice
-        lore: skaldapprntrnk
+        title: Skaldefnir
+        lore: skaldefnirrnk
         description: >-
           A master's pupil for ten to fifteen years, entitled to nothing of the Circle's own until the drápa presented at a Skaldating is accepted.
       - level: 3
@@ -74,8 +74,8 @@ The first composition is the apprentice's **drápa**—a long formal poem compos
 
 The Circle holds four ranks:
 
-- **Ring-Broken**—a skáld convicted of breaking the truth of the recital, the arm-ring broken at the next Skaldating; a punishment with no recovery.
-- **Apprentice**—a master's pupil for ten to fifteen years, entitled to nothing of the Circle's own until his drápa is accepted.
+- **Skaldavargr**—a skáld convicted of breaking the truth of the recital, the arm-ring broken at the next Skaldating; a punishment with no recovery.
+- **Skaldefnir**—a master's pupil for ten to fifteen years, entitled to nothing of the Circle's own until his drápa is accepted.
 - **Skáld**—the sworn singer, entitled to food, shelter, and safe passage at any hall, and bound to recite truly even against his own employer.
 - **Stóraldstjóri**—the "saga-master" (_Sögumadr_); a senior skáld whose composed sagas have been accepted into the standing repertoire of the Circle as a whole. A skáld is acclaimed stóraldstjóri by his peers, not appointed.
 
