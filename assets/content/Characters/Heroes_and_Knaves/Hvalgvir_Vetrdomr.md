@@ -482,7 +482,7 @@ Hvalgvir's driving force is the belief that civilization itself rests upon small
 ### Affiliations
 
 - **The Innkeepers' Guild**: A formal organization whose meetings Hvalgvir attends, though he is often frustrated by their focus on profit over purpose.
-- **The Order of Týr's Justice**: An informal society of those devoted to the principle of fair judgment and order. Hvalgvir is considered one of their spiritual leaders, though he rarely claims the title.
+- **The Order of the Sworn Hand**: An informal society of those devoted to the principle of fair judgment and order. Hvalgvir is considered one of their spiritual leaders, though he rarely claims the title.
 - **The Ódholm Community Council**: An ad-hoc assembly of merchants, craftspeople, and concerned citizens who often meet at the Serpent's Hearth to discuss town matters.
 
 ## Plot Hooks

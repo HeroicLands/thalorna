@@ -478,7 +478,7 @@ No true enemies, though Kael Swiftthatch, an ambitious younger craftsman, has be
 ### Affiliations
 
 - **The Rural Craftsmen's Guild of Malagna**: Hliskthann holds senior membership and is frequently consulted on matters of craft standards, though his votes are increasingly overridden by younger members seeking speed over durability.
-- **The Order of Ymir's Children**: A loose association of rural craftspeople devoted to the creation-god, who view their work as sacred practice. Hliskthann is among the most respected members.
+- **The Giant's Children**: A loose association of rural craftspeople devoted to the creation-god, who view their work as sacred practice. Hliskthann is among the most respected members.
 
 ## Plot Hooks
 
