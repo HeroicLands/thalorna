@@ -41,4 +41,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The Keepers of the Abyss guard Náhild's hidden hofs and the rituals kept inside them, standing as the cult's own inquisitors against anyone who threatens its secrecy. A member protects a sacred site first and its congregation second, and treats both duties as inseparable.
+The Keepers of the Abyss guard **Náhild**'s hidden hofs and the rituals kept inside them, standing as the cult's own inquisitors against anyone who threatens its secrecy. A member protects a sacred site first and its congregation second, and treats both duties as inseparable.

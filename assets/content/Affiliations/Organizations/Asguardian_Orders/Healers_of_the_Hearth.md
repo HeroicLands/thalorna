@@ -41,4 +41,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The Healers of the Hearth are priests of [[affiliation-frodvin|Fródvin]] devoted to the body and the soul together, caring for the sick and comforting the distressed at the valley infirmaries his faith keeps. A member's work is indoor and constant, set beside the Green Hand's own work in the fields and groves outside.
+The Healers of the Hearth are priests of [[affiliation-frodvin|Fródvin]] devoted to the body and the soul together, caring for the sick and comforting the distressed at the valley infirmaries his faith keeps. A member's work is indoor and constant, set beside the **Green Hand**'s own work in the fields and groves outside.

@@ -41,4 +41,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The Order of the Void serves [[affiliation-nahild|Náhild]]'s hidden cult in secret, working to widen the influence of the Eye of the Void over whatever ground its members can reach. A member answers only to a hidden hof's own godi, and the order's work is never done where an outsider can see it.
+The Order of the Void serves [[affiliation-nahild|Náhild]]'s hidden cult in secret, working to widen the influence of the **Eye of the Void** over whatever ground its members can reach. A member answers only to a hidden hof's own godi, and the order's work is never done where an outsider can see it.

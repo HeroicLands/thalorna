@@ -41,4 +41,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The Order of the Radiant Hand trains priests of [[affiliation-bjartr|Bjartr]] in healing and the spreading of his light, serving the faithful as medics and counselors wherever the Blessing of Light or the Night of Dreams is kept. A member tends a wound as readily as a troubled dream, the two cares the order treats as one.
+The Order of the Radiant Hand trains priests of [[affiliation-bjartr|Bjartr]] in healing and the spreading of his light, serving the faithful as medics and counselors wherever the **Blessing of Light** or the **Night of Dreams** is kept. A member tends a wound as readily as a troubled dream, the two cares the order treats as one.
