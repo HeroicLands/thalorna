@@ -6,6 +6,7 @@ subType: creature
 description: "A semi-corporeal shadow-realm predator that hunts in coordinated packs, slipping through darkness and stone to ambush prey underground or by night."
 tags: [spirit]
 data:
+  packFolder: spirit
   icon: icon-person
   templatePriority: null
   archetypes: []

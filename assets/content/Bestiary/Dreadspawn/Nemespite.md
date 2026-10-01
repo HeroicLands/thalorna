@@ -6,6 +6,7 @@ subType: creature
 description: "An intelligent, venomous insectoid predator that hunts in coordinated packs across warm highlands, caves, and corrupted lands."
 tags: [dreadspawn]
 data:
+  packFolder: dreadspawn
   icon: icon-person
   templatePriority: null
   archetypes: []

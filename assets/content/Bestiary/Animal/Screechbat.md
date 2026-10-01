@@ -6,6 +6,7 @@ subType: creature
 description: "A small, pack-coordinated cave predator with an eight-foot wingspan, weaponizing echolocation and sonic screeches to disorient prey before the kill."
 tags: [animal]
 data:
+  packFolder: animals
   icon: icon-person
   templatePriority: null
   archetypes: []

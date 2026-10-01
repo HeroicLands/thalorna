@@ -6,6 +6,7 @@ subType: creature
 description: "A silent nocturnal apex raptor with a twenty-five-foot wingspan and armor-piercing talons, intelligently ruling vast territories across many valleys."
 tags: [animal]
 data:
+  packFolder: animals
   icon: icon-person
   templatePriority: null
   archetypes: []

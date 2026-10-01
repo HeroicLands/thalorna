@@ -6,6 +6,7 @@ subType: creature
 description: "The animated spirit of ancient magic-steeped plants, haunting old groves and sacred gardens where the veil between living and dead has worn thin."
 tags: [spirit]
 data:
+  packFolder: spirit
   icon: icon-person
   templatePriority: null
   archetypes: []

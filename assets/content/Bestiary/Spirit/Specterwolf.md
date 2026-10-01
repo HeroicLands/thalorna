@@ -6,6 +6,7 @@ subType: creature
 description: "The spectral remnant of ancient beasts, hunting on both sides of the veil in relentless, coordinated packs that terrorize isolated travelers."
 tags: [spirit]
 data:
+  packFolder: spirit
   icon: icon-person
   templatePriority: null
   archetypes: []

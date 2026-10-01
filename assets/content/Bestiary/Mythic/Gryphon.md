@@ -6,6 +6,7 @@ subType: creature
 description: "A three-hundred-pound eagle-lion predator of legend, lean and supremely muscled, blending the majesty of birds with the ferocity of beasts."
 tags: [mythic, image-needed]
 data:
+  packFolder: mythic
   icon: icon-griffinsymbol
   templatePriority: null
   archetypes: []

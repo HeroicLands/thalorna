@@ -6,6 +6,7 @@ subType: creature
 description: "A dark-chitined arachnid with an eighteen-to-thirty-inch leg span, its bristled body armed with sensory hairs for stalking small prey."
 tags: [animal]
 data:
+  packFolder: animals
   icon: icon-person
   templatePriority: null
   archetypes: []

@@ -6,6 +6,7 @@ subType: creature
 description: "An eight-foot golem sculpted from magically infused clay, engineered as a relentless enforcer guarding temples, crypts, and mages' chambers."
 tags: [construct]
 data:
+  packFolder: constructs
   icon: icon-person
   templatePriority: null
   archetypes: []

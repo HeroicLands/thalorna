@@ -6,6 +6,7 @@ subType: creature
 description: "The driven one—the mindless undead that goes as it is driven: zombies, skeletons, mummies, and ghouls, animated by necromancy that binds soul-fragments to a corpse."
 tags: [undead]
 data:
+  packFolder: helspawn
   icon: icon-person
   templatePriority: null
   archetypes: []

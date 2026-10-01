@@ -69,7 +69,7 @@ The faith names none. A god who is the world's substance has no messengers, and 
 
 ## High Ceremonies
 
-- **The Renewal of the Wound:** Cut into the rock at Holafell at the turn of winter, by the Hofsgodi and as many of the Giant's Children as have come. What is cut is never mended between one year and the next.
+- **The Renewal of the Wound:** Cut into the rock at Holafell at the turn of winter, by whichever adherent the Holafell faction has put forward that year, and as many of the Giant's Children as have come. What is cut is never mended between one year and the next.
 - **The Naming of the Stone:** A hof's grey chips are brought out, counted aloud against the roll of the hall's dead, and returned to the floor.
 
 ## Ordeals for Favor

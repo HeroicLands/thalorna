@@ -6,6 +6,7 @@ subType: creature
 description: "A century-old fire dragon at its most volatile, killing with raw territorial ferocity as it carves out fresh land and hoard."
 tags: [mythic, image-needed]
 data:
+  packFolder: mythic
   icon: icon-dragonheadft
   templatePriority: null
   archetypes: []

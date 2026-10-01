@@ -6,6 +6,7 @@ subType: creature
 description: "An impossibly rare and elusive mythic beast of incorruptible purity, so seldom seen that scholars doubt its existence altogether."
 tags: [mythic, image-needed]
 data:
+  packFolder: mythic
   icon: icon-unicorn
   templatePriority: null
   archetypes: []

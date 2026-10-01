@@ -6,6 +6,7 @@ subType: creature
 description: "A cunning predatory ooze of lightless caves that lures prey with deceptive bioluminescence before striking."
 tags: [dreadspawn]
 data:
+  packFolder: dreadspawn
   icon: icon-person
   templatePriority: null
   archetypes: []
