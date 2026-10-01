@@ -345,6 +345,11 @@
             "kinds": []
         },
         {
+            "literal": "Expelled",
+            "why": "the name of the wider corpus's level-0 standing at Lore/Ranks/Expelled.md, an alias of Put from the Order, and the bare English word in the prose of other cultures; none of them is the gloss Dróttvargr retires",
+            "kinds": []
+        },
+        {
             "literal": "Devotee of the Order",
             "why": "Dróttmadr keeps the English phrase as its alias",
             "kinds": []
@@ -358,7 +363,7 @@
     "entries": [
         {
             "oldName": "Ódinn",
-            "oldAliases": null,
+            "oldAliases": ["Odinn", "Óðinn", "Oðinn"],
             "oldPath": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Odinn.md",
             "oldShortcode": "odinn",
             "oldAddress": "affiliation-odinn",
@@ -374,112 +379,15 @@
             "type": "affiliation",
             "subType": "deity",
             "description": null,
-            "note": "_ód-_ \"fury, the seer's fit\" (as in seidr's trance) + _-var_ \"ward\" — the Fury-Ward; aliases the All-Father, Hrafnfadir \"Raven-Father\"; the acute-only spelling is absent from the import (0 occurrences) and arrived in a later pass — see the eth-spelling row for the import-era form",
+            "note": "_ód-_ \"fury, the seer's fit\" (as in seidr's trance) + _-var_ \"ward\" — the Fury-Ward; aliases the All-Father, Hrafnfadir \"Raven-Father\"; the acute-only spelling is absent from the import (0 occurrences) and arrived in a later pass. Other forms: _Odinn_ — bare double-n spelling, no acute; _Óðinn_ — eth spelling used throughout the import prose; the guard's own romanisation rule forbids an eth in assets/content, but the spelling is still quoted, as a worked before-form, in a live changeset documenting that same rule; _Oðinn_ — eth spelling, single occurrence, in the faith note's own aliases block.",
             "prose": null,
             "oldRefPaths": [
-                "448de18db:assets/content/Affiliations/Divine/Asguardian/Faith_of_Odinn.md:56:16"
-            ],
-            "boldKind": "none"
-        },
-        {
-            "oldName": "Odinn",
-            "oldAliases": null,
-            "oldPath": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Odinn.md",
-            "oldShortcode": "odinn",
-            "oldAddress": "affiliation-odinn",
-            "oldImage": "assets/icons/affiliation/asguardian/odinn.webp",
-            "newName": "Faith of Ódvar",
-            "newAliases": ["The Enlightened Path"],
-            "newPath": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Odvar.md",
-            "newShortcode": "odvar",
-            "newAddress": "affiliation-odvar",
-            "newImage": "assets/icons/affiliation/asguardian/odvar.webp",
-            "newHome": null,
-            "newTags": null,
-            "type": "affiliation",
-            "subType": "deity",
-            "description": null,
-            "note": "bare double-n spelling, no acute",
-            "prose": null,
-            "oldRefPaths": ["e13afb5f2:assets/content/Organizations/Skalds_Circle.md:81:118"],
-            "boldKind": "none"
-        },
-        {
-            "oldName": "Óðinn",
-            "oldAliases": null,
-            "oldPath": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Odinn.md",
-            "oldShortcode": "odinn",
-            "oldAddress": "affiliation-odinn",
-            "oldImage": "assets/icons/affiliation/asguardian/odinn.webp",
-            "newName": "Faith of Ódvar",
-            "newAliases": ["The Enlightened Path"],
-            "newPath": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Odvar.md",
-            "newShortcode": "odvar",
-            "newAddress": "affiliation-odvar",
-            "newImage": "assets/icons/affiliation/asguardian/odvar.webp",
-            "newHome": null,
-            "newTags": null,
-            "type": "spelling",
-            "subType": "deity",
-            "description": null,
-            "note": "eth spelling used throughout the import prose; the guard's own romanisation rule forbids an eth in assets/content, but the spelling is still quoted, as a worked before-form, in a live changeset documenting that same rule",
-            "prose": null,
-            "oldRefPaths": [
+                "448de18db:assets/content/Affiliations/Divine/Asguardian/Faith_of_Odinn.md:56:16",
+                "e13afb5f2:assets/content/Organizations/Skalds_Circle.md:81:118",
                 "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:53:47",
                 "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Faith_of_Odinn.md:11:18",
-                "6e137b8c0:.changeset/search-safe-names.md:27:4"
-            ],
-            "boldKind": "bare"
-        },
-        {
-            "oldName": "Oðinn",
-            "oldAliases": null,
-            "oldPath": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Odinn.md",
-            "oldShortcode": "odinn",
-            "oldAddress": "affiliation-odinn",
-            "oldImage": "assets/icons/affiliation/asguardian/odinn.webp",
-            "newName": "Faith of Ódvar",
-            "newAliases": ["The Enlightened Path"],
-            "newPath": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Odvar.md",
-            "newShortcode": "odvar",
-            "newAddress": "affiliation-odvar",
-            "newImage": "assets/icons/affiliation/asguardian/odvar.webp",
-            "newHome": null,
-            "newTags": null,
-            "type": "spelling",
-            "subType": "deity",
-            "description": null,
-            "note": "eth spelling, single occurrence, in the faith note's own aliases block",
-            "prose": null,
-            "oldRefPaths": [
+                "6e137b8c0:.changeset/search-safe-names.md:27:4",
                 "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Faith_of_Odinn.md:3:14"
-            ],
-            "boldKind": "none",
-            "historical": true
-        },
-        {
-            "oldName": "Odin",
-            "oldAliases": null,
-            "oldPath": null,
-            "oldShortcode": null,
-            "oldAddress": null,
-            "oldImage": null,
-            "newName": "Ódvar",
-            "newAliases": null,
-            "newPath": null,
-            "newShortcode": null,
-            "newAddress": null,
-            "newImage": null,
-            "newHome": null,
-            "newTags": null,
-            "type": "spelling",
-            "subType": "deity",
-            "description": null,
-            "note": "bare Earth spelling with a single n; present at the import and unchanged today, in no drift row before this packet",
-            "prose": null,
-            "oldRefPaths": [
-                "e13afb5f2:assets/content/Regions/Ankaris/Nordlands/Nordheim/Ravensholm.md:31:139",
-                "b29be50fd:assets/content/Regions/Ankaris/Nordlands/Nordheim/Ravensholm.md:13:135"
             ],
             "boldKind": "none"
         },
@@ -610,7 +518,7 @@
         },
         {
             "oldName": "Hél",
-            "oldAliases": null,
+            "oldAliases": ["Hel"],
             "oldPath": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Hel.md",
             "oldShortcode": "hel",
             "oldAddress": "affiliation-hel",
@@ -626,37 +534,13 @@
             "type": "affiliation",
             "subType": "deity",
             "description": null,
-            "note": "_ná-_ \"corpse\" + _-hild_ \"battle\" (Ríkhild) — the Despiser of Life",
+            "note": "_ná-_ \"corpse\" + _-hild_ \"battle\" (Ríkhild) — the Despiser of Life. Other forms: _Hel_ — the acute is written; \"Hel.\" abbreviates Helonic in the language notes and is excepted from the sweep.",
             "prose": null,
             "oldRefPaths": [
-                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Faith_of_Hel.md:3:14"
-            ],
-            "boldKind": "bare"
-        },
-        {
-            "oldName": "Hel",
-            "oldAliases": null,
-            "oldPath": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Hel.md",
-            "oldShortcode": "hel",
-            "oldAddress": "affiliation-hel",
-            "oldImage": "assets/icons/affiliation/asguardian/hel.webp",
-            "newName": "Faith of Náhild",
-            "newAliases": ["The Eternal Night"],
-            "newPath": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Nahild.md",
-            "newShortcode": "nahild",
-            "newAddress": "affiliation-nahild",
-            "newImage": "assets/icons/affiliation/asguardian/nahild.webp",
-            "newHome": null,
-            "newTags": null,
-            "type": "spelling",
-            "subType": "deity",
-            "description": null,
-            "note": "the acute is written; \"Hel.\" abbreviates Helonic in the language notes and is excepted from the sweep",
-            "prose": null,
-            "oldRefPaths": [
+                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Faith_of_Hel.md:3:14",
                 "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Faith_of_Hel.md:66:44"
             ],
-            "boldKind": "phrase"
+            "boldKind": "bare"
         },
         {
             "oldName": "Lôki",
@@ -710,7 +594,7 @@
         },
         {
             "oldName": "Ymir",
-            "oldAliases": null,
+            "oldAliases": ["The Divine Architect's Path"],
             "oldPath": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Ymir.md",
             "oldShortcode": "ymir",
             "oldAddress": "affiliation-ymir",
@@ -726,16 +610,17 @@
             "type": "affiliation",
             "subType": "deity",
             "description": null,
-            "note": "_hrím_ \"rime\" + _thur_ \"giant\" (þurs romanises to _thur_) — the Rime-Giant whose body is the world; the tinkering Creator went with the name, and the laboratories, the soul-recycling, the hand-crafted Dreadspawn and the furniture that rested on them went with him",
+            "note": "_hrím_ \"rime\" + _thur_ \"giant\" (þurs romanises to _thur_) — the Rime-Giant whose body is the world; the tinkering Creator went with the name, and the laboratories, the soul-recycling, the hand-crafted Dreadspawn and the furniture that rested on them went with him. Other forms: _The Divine Architect's Path_ — the faith's alias and its ritual skill's: an architect is a maker, and Hrímthur makes nothing; the wound cut to make the world is what the faith keeps.",
             "prose": null,
             "oldRefPaths": [
-                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Faith_of_Ymir.md:3:14"
+                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Faith_of_Ymir.md:3:14",
+                "6e137b8c0:assets/content/Affiliations/Divine/Asguardian/Faith_of_Ymir.md:3:39"
             ],
             "boldKind": "bare"
         },
         {
             "oldName": "Njördur",
-            "oldAliases": null,
+            "oldAliases": ["Njördr", "Njordur", "Njörðr"],
             "oldPath": null,
             "oldShortcode": null,
             "oldAddress": null,
@@ -751,7 +636,7 @@
             "type": "lore",
             "subType": "deity",
             "description": null,
-            "note": "_njör-_ (as the tree's Njörven) + _-var_ \"ward\" — the Sea-Ward, the elder sea-power the Ten displaced",
+            "note": "_njör-_ (as the tree's Njörven) + _-var_ \"ward\" — the Sea-Ward, the elder sea-power the Ten displaced. Other forms: _Njördr_ — spelling without the final -ur; _Njordur_ — fully de-marked spelling; unattested at the import and unattested on main, kept defensively; _Njörðr_ — eth spelling, one occurrence at the import, gone from main.",
             "prose": null,
             "oldRefPaths": [
                 "3313f0081:assets/content/Adventures/Groas_Campaign.md:42:128",
@@ -769,84 +654,11 @@
                 "3313f0081:assets/content/Regions/Ankaris/Nordlands/The_Horn_of_Njordur.md:21:86",
                 "3313f0081:assets/content/Regions/Ankaris/Nordlands/The_Horn_of_Njordur.md:25:72",
                 "3313f0081:assets/content/Regions/Ankaris/Nordlands/The_Ritual_of_Binding.md:18:82",
-                "3313f0081:assets/content/Regions/Ankaris/Nordlands/The_Spear_of_Sigrid.md:12:80"
-            ],
-            "boldKind": "none"
-        },
-        {
-            "oldName": "Njördr",
-            "oldAliases": null,
-            "oldPath": null,
-            "oldShortcode": null,
-            "oldAddress": null,
-            "oldImage": null,
-            "newName": "Njörvar",
-            "newAliases": null,
-            "newPath": null,
-            "newShortcode": null,
-            "newAddress": null,
-            "newImage": null,
-            "newHome": null,
-            "newTags": null,
-            "type": "spelling",
-            "subType": "deity",
-            "description": null,
-            "note": "spelling without the final -ur",
-            "prose": null,
-            "oldRefPaths": [
-                "6e137b8c0:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:139:302"
-            ],
-            "boldKind": "none",
-            "historical": true
-        },
-        {
-            "oldName": "Njordur",
-            "oldAliases": null,
-            "oldPath": null,
-            "oldShortcode": null,
-            "oldAddress": null,
-            "oldImage": null,
-            "newName": "Njörvar",
-            "newAliases": null,
-            "newPath": null,
-            "newShortcode": null,
-            "newAddress": null,
-            "newImage": null,
-            "newHome": null,
-            "newTags": null,
-            "type": "spelling",
-            "subType": "deity",
-            "description": null,
-            "note": "fully de-marked spelling; unattested at the import and unattested on main, kept defensively",
-            "prose": null,
-            "oldRefPaths": [],
-            "boldKind": "none"
-        },
-        {
-            "oldName": "Njörðr",
-            "oldAliases": null,
-            "oldPath": null,
-            "oldShortcode": null,
-            "oldAddress": null,
-            "oldImage": null,
-            "newName": "Njörvar",
-            "newAliases": null,
-            "newPath": null,
-            "newShortcode": null,
-            "newAddress": null,
-            "newImage": null,
-            "newHome": null,
-            "newTags": null,
-            "type": "spelling",
-            "subType": "deity",
-            "description": null,
-            "note": "eth spelling, one occurrence at the import, gone from main",
-            "prose": null,
-            "oldRefPaths": [
+                "3313f0081:assets/content/Regions/Ankaris/Nordlands/The_Spear_of_Sigrid.md:12:80",
+                "6e137b8c0:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:139:302",
                 "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:93:304"
             ],
-            "boldKind": "none",
-            "historical": true
+            "boldKind": "none"
         },
         {
             "oldName": "Yggdrasil",
@@ -956,7 +768,7 @@
         },
         {
             "oldName": "Vígrídr",
-            "oldAliases": null,
+            "oldAliases": ["Vígríðr"],
             "oldPath": null,
             "oldShortcode": null,
             "oldAddress": null,
@@ -972,43 +784,18 @@
             "type": "namestock",
             "subType": "mythfurniture",
             "description": null,
-            "note": "_víg_ \"battle\" + _völl_ \"field\"",
+            "note": "_víg_ \"battle\" + _völl_ \"field\". Other forms: _Vígríðr_ — eth spelling, one occurrence at the import, gone from main.",
             "prose": null,
             "oldRefPaths": [
-                "6e137b8c0:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:151:93"
+                "6e137b8c0:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:151:93",
+                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:105:93"
             ],
             "boldKind": "none",
             "historical": true
         },
         {
-            "oldName": "Vígríðr",
-            "oldAliases": null,
-            "oldPath": null,
-            "oldShortcode": null,
-            "oldAddress": null,
-            "oldImage": null,
-            "newName": "Vígvöll",
-            "newAliases": null,
-            "newPath": null,
-            "newShortcode": null,
-            "newAddress": null,
-            "newImage": null,
-            "newHome": null,
-            "newTags": null,
-            "type": "spelling",
-            "subType": "mythfurniture",
-            "description": null,
-            "note": "eth spelling, one occurrence at the import, gone from main",
-            "prose": null,
-            "oldRefPaths": [
-                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:105:93"
-            ],
-            "boldKind": "bare",
-            "historical": true
-        },
-        {
             "oldName": "Múspél",
-            "oldAliases": null,
+            "oldAliases": ["Muspell"],
             "oldPath": null,
             "oldShortcode": null,
             "oldAddress": null,
@@ -1024,39 +811,15 @@
             "type": "namestock",
             "subType": "mythfurniture",
             "description": null,
-            "note": "_eld_ \"fire\" (Eldrid, Eldgrímr) + _heim_",
+            "note": "_eld_ \"fire\" (Eldrid, Eldgrímr) + _heim_. Other forms: _Muspell_ — alternate spelling of Múspél.",
             "prose": null,
             "oldRefPaths": [
                 "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:65:398",
-                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:103:448"
+                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:103:448",
+                "e13afb5f2:assets/content/Characters/Heroes_and_Knaves/Thornak_Mahnlin.md:718:71"
             ],
             "boldKind": "none",
             "historical": true
-        },
-        {
-            "oldName": "Muspell",
-            "oldAliases": null,
-            "oldPath": null,
-            "oldShortcode": null,
-            "oldAddress": null,
-            "oldImage": null,
-            "newName": "Eldheim",
-            "newAliases": null,
-            "newPath": null,
-            "newShortcode": null,
-            "newAddress": null,
-            "newImage": null,
-            "newHome": null,
-            "newTags": null,
-            "type": "spelling",
-            "subType": "mythfurniture",
-            "description": null,
-            "note": "alternate spelling of Múspél",
-            "prose": null,
-            "oldRefPaths": [
-                "e13afb5f2:assets/content/Characters/Heroes_and_Knaves/Thornak_Mahnlin.md:718:71"
-            ],
-            "boldKind": "none"
         },
         {
             "oldName": "Fenrir",
@@ -1285,7 +1048,7 @@
         },
         {
             "oldName": "Aesir",
-            "oldAliases": null,
+            "oldAliases": ["Æsir"],
             "oldPath": null,
             "oldShortcode": null,
             "oldAddress": null,
@@ -1301,42 +1064,17 @@
             "type": "namestock",
             "subType": "mythfurniture",
             "description": null,
-            "note": "_Ás_ \"god\" (Ásgrind) + _vinir_ \"friends\" — the defending kin",
+            "note": "_Ás_ \"god\" (Ásgrind) + _vinir_ \"friends\" — the defending kin. Other forms: _Æsir_ — ash-ligature spelling; \"Æsir-kin\" in the import's archaic liturgies, gone from main.",
             "prose": null,
             "oldRefPaths": [
-                "b71855eb9:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:109:80"
+                "b71855eb9:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:109:80",
+                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:63:82"
             ],
             "boldKind": "none"
         },
         {
-            "oldName": "Æsir",
-            "oldAliases": null,
-            "oldPath": null,
-            "oldShortcode": null,
-            "oldAddress": null,
-            "oldImage": null,
-            "newName": "Ásvinir",
-            "newAliases": null,
-            "newPath": null,
-            "newShortcode": null,
-            "newAddress": null,
-            "newImage": null,
-            "newHome": null,
-            "newTags": null,
-            "type": "spelling",
-            "subType": "mythfurniture",
-            "description": null,
-            "note": "ash-ligature spelling; \"Æsir-kin\" in the import's archaic liturgies, gone from main",
-            "prose": null,
-            "oldRefPaths": [
-                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:63:82"
-            ],
-            "boldKind": "phrase",
-            "historical": true
-        },
-        {
             "oldName": "Asgard",
-            "oldAliases": null,
+            "oldAliases": ["Asgarð"],
             "oldPath": null,
             "oldShortcode": null,
             "oldAddress": null,
@@ -1352,10 +1090,12 @@
             "type": "namestock",
             "subType": "mythfurniture",
             "description": null,
-            "note": "the tree's own drift",
+            "note": "the tree's own drift. Other forms: _Asgarð_ — eth spelling of the realm name, gone from main.",
             "prose": null,
             "oldRefPaths": [
-                "e13afb5f2:assets/content/Characters/Heroes_and_Knaves/Bjorg_Drekanott.md:725:128"
+                "e13afb5f2:assets/content/Characters/Heroes_and_Knaves/Bjorg_Drekanott.md:725:128",
+                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:65:291",
+                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:121:372"
             ],
             "boldKind": "none"
         },
@@ -1383,33 +1123,6 @@
                 "e13afb5f2:assets/content/Characters/Heroes_and_Knaves/Athalwa_Vithrund.md:724:68"
             ],
             "boldKind": "none"
-        },
-        {
-            "oldName": "Asgarð",
-            "oldAliases": null,
-            "oldPath": null,
-            "oldShortcode": null,
-            "oldAddress": null,
-            "oldImage": null,
-            "newName": "Asguard",
-            "newAliases": null,
-            "newPath": null,
-            "newShortcode": null,
-            "newAddress": null,
-            "newImage": null,
-            "newHome": null,
-            "newTags": null,
-            "type": "spelling",
-            "subType": "mythfurniture",
-            "description": null,
-            "note": "eth spelling of the realm name, gone from main",
-            "prose": null,
-            "oldRefPaths": [
-                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:65:291",
-                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:121:372"
-            ],
-            "boldKind": "none",
-            "historical": true
         },
         {
             "oldName": "Midgard",
@@ -1466,7 +1179,7 @@
         },
         {
             "oldName": "Ragnarok",
-            "oldAliases": null,
+            "oldAliases": ["Ragnarök"],
             "oldPath": "assets/content/Regions/Ankaris/Nordlands/Ragnarok.md",
             "oldShortcode": "ragnarok",
             "oldAddress": "lore-ragnarok",
@@ -1482,40 +1195,17 @@
             "type": "lore",
             "subType": "mythfurniture",
             "description": null,
-            "note": "_aldar_ \"the age's\" + _lok_ \"close\" — the Age's Close; the skalds' kenning \"the Fall of the Ash\". The one address this programme moves: the note held `lore-ragnarok`, nothing in `assets/content` referenced it, and name, shortcode and path now agree. `renamedFrom:` is the toolchain's way to declare a vacated address and `package-build lint` rejects the key, so the move is recorded here alone",
+            "note": "_aldar_ \"the age's\" + _lok_ \"close\" — the Age's Close; the skalds' kenning \"the Fall of the Ash\". The one address this programme moves: the note held `lore-ragnarok`, nothing in `assets/content` referenced it, and name, shortcode and path now agree. `renamedFrom:` is the toolchain's way to declare a vacated address and `package-build lint` rejects the key, so the move is recorded here alone. Other forms: _Ragnarök_ — marked spelling of Ragnarok.",
             "prose": null,
-            "oldRefPaths": ["6e137b8c0:assets/content/Regions/Ankaris/Nordlands/Ragnarok.md:3:14"],
+            "oldRefPaths": [
+                "6e137b8c0:assets/content/Regions/Ankaris/Nordlands/Ragnarok.md:3:14",
+                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:11:142"
+            ],
             "boldKind": "phrase"
         },
         {
-            "oldName": "Ragnarök",
-            "oldAliases": null,
-            "oldPath": null,
-            "oldShortcode": null,
-            "oldAddress": null,
-            "oldImage": null,
-            "newName": "Aldarlok",
-            "newAliases": null,
-            "newPath": null,
-            "newShortcode": null,
-            "newAddress": null,
-            "newImage": null,
-            "newHome": null,
-            "newTags": null,
-            "type": "spelling",
-            "subType": "mythfurniture",
-            "description": null,
-            "note": "marked spelling of Ragnarok",
-            "prose": null,
-            "oldRefPaths": [
-                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:11:142"
-            ],
-            "boldKind": "none",
-            "historical": true
-        },
-        {
             "oldName": "Draugar",
-            "oldAliases": null,
+            "oldAliases": ["draugar", "Draugrs"],
             "oldPath": null,
             "oldShortcode": null,
             "oldAddress": null,
@@ -1531,40 +1221,19 @@
             "type": "namestock",
             "subType": "mythfurniture",
             "description": null,
-            "note": "corpse-goers, a common noun",
+            "note": "corpse-goers, a common noun. Other forms: _draugar_ — lower-case form; _Draugrs_ — plural inflection of Draugar, live on main as Hél's favored undead; written out rather than matched through an inflection.",
             "prose": null,
             "oldRefPaths": [
-                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Faith_of_Hel.md:72:5"
+                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Faith_of_Hel.md:72:5",
+                "754a84b67:assets/content/Lore/Bestiary/Undead.md:36:294",
+                "6e137b8c0:assets/content/Affiliations/Divine/Asguardian/Faith_of_Hel.md:98:36"
             ],
             "boldKind": "phrase",
             "historical": true
-        },
-        {
-            "oldName": "draugar",
-            "oldAliases": null,
-            "oldPath": null,
-            "oldShortcode": null,
-            "oldAddress": null,
-            "oldImage": null,
-            "newName": "nágengir",
-            "newAliases": null,
-            "newPath": null,
-            "newShortcode": null,
-            "newAddress": null,
-            "newImage": null,
-            "newHome": null,
-            "newTags": null,
-            "type": "spelling",
-            "subType": "mythfurniture",
-            "description": null,
-            "note": "lower-case form",
-            "prose": null,
-            "oldRefPaths": ["754a84b67:assets/content/Lore/Bestiary/Undead.md:36:294"],
-            "boldKind": "none"
         },
         {
             "oldName": "Haugbúar",
-            "oldAliases": null,
+            "oldAliases": ["haugbúar", "Haugbúi"],
             "oldPath": null,
             "oldShortcode": null,
             "oldAddress": null,
@@ -1580,36 +1249,15 @@
             "type": "namestock",
             "subType": "mythfurniture",
             "description": null,
-            "note": "howe-wardens, a common noun",
+            "note": "howe-wardens, a common noun. Other forms: _haugbúar_ — lower-case form; _Haugbúi_ — singular of Haugbúar, live on main beside it in the same sentence; written out rather than matched through an inflection.",
             "prose": null,
             "oldRefPaths": [
-                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Faith_of_Hel.md:73:5"
+                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Faith_of_Hel.md:73:5",
+                "754a84b67:assets/content/Lore/Bestiary/Undead.md:36:319",
+                "6e137b8c0:assets/content/Affiliations/Divine/Asguardian/Faith_of_Hel.md:98:75"
             ],
             "boldKind": "phrase",
             "historical": true
-        },
-        {
-            "oldName": "haugbúar",
-            "oldAliases": null,
-            "oldPath": null,
-            "oldShortcode": null,
-            "oldAddress": null,
-            "oldImage": null,
-            "newName": "haugverdir",
-            "newAliases": null,
-            "newPath": null,
-            "newShortcode": null,
-            "newAddress": null,
-            "newImage": null,
-            "newHome": null,
-            "newTags": null,
-            "type": "spelling",
-            "subType": "mythfurniture",
-            "description": null,
-            "note": "lower-case form",
-            "prose": null,
-            "oldRefPaths": ["754a84b67:assets/content/Lore/Bestiary/Undead.md:36:319"],
-            "boldKind": "none"
         },
         {
             "oldName": "Wild Hunt",
@@ -1638,7 +1286,7 @@
         },
         {
             "oldName": "Allsherjargodi",
-            "oldAliases": null,
+            "oldAliases": ["Allsherjargoði"],
             "oldPath": null,
             "oldShortcode": null,
             "oldAddress": null,
@@ -1654,38 +1302,13 @@
             "type": "namestock",
             "subType": "mythfurniture",
             "description": null,
-            "note": "priest of the land — the one who hallows the ting island",
+            "note": "priest of the land — the one who hallows the ting island. Other forms: _Allsherjargoði_ — eth spelling, nine occurrences at the import as a rank-ladder suffix (\"Aska Allsherjargoði\", \"Ragnar Allsherjargoði\"), gone from main.",
             "prose": null,
             "oldRefPaths": [
-                "80cb8510d:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:50:16"
-            ],
-            "boldKind": "none"
-        },
-        {
-            "oldName": "Allsherjargoði",
-            "oldAliases": null,
-            "oldPath": null,
-            "oldShortcode": null,
-            "oldAddress": null,
-            "oldImage": null,
-            "newName": "Landsgodi",
-            "newAliases": null,
-            "newPath": null,
-            "newShortcode": null,
-            "newAddress": null,
-            "newImage": null,
-            "newHome": null,
-            "newTags": null,
-            "type": "spelling",
-            "subType": "mythfurniture",
-            "description": null,
-            "note": "eth spelling, nine occurrences at the import as a rank-ladder suffix (\"Aska Allsherjargoði\", \"Ragnar Allsherjargoði\"), gone from main",
-            "prose": null,
-            "oldRefPaths": [
+                "80cb8510d:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:50:16",
                 "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:73:280"
             ],
-            "boldKind": "phrase",
-            "historical": true
+            "boldKind": "none"
         },
         {
             "oldName": "Hauldr",
@@ -1977,7 +1600,7 @@
         },
         {
             "oldName": "Fadir",
-            "oldAliases": null,
+            "oldAliases": ["Faðir"],
             "oldPath": null,
             "oldShortcode": null,
             "oldAddress": null,
@@ -1993,14 +1616,17 @@
             "type": "namestock",
             "subType": "rank",
             "description": null,
-            "note": "father of a hof",
+            "note": "father of a hof. Other forms: _Faðir_ — eth spelling, part of the \"Faðir/Móðir\" rank-ladder pairing, gone from main.",
             "prose": null,
-            "oldRefPaths": ["754a84b67:assets/content/Lore/Ranks/Grand_Master.md:18:417"],
+            "oldRefPaths": [
+                "754a84b67:assets/content/Lore/Ranks/Grand_Master.md:18:417",
+                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:73:303"
+            ],
             "boldKind": "none"
         },
         {
             "oldName": "Módir",
-            "oldAliases": null,
+            "oldAliases": ["Móðir"],
             "oldPath": null,
             "oldShortcode": null,
             "oldAddress": null,
@@ -2016,66 +1642,17 @@
             "type": "namestock",
             "subType": "rank",
             "description": null,
-            "note": "mother of a hof",
-            "prose": null,
-            "oldRefPaths": ["754a84b67:assets/content/Lore/Ranks/Grand_Master.md:18:423"],
-            "boldKind": "none"
-        },
-        {
-            "oldName": "Faðir",
-            "oldAliases": null,
-            "oldPath": null,
-            "oldShortcode": null,
-            "oldAddress": null,
-            "oldImage": null,
-            "newName": "Hofsfadir",
-            "newAliases": null,
-            "newPath": null,
-            "newShortcode": null,
-            "newAddress": null,
-            "newImage": null,
-            "newHome": null,
-            "newTags": null,
-            "type": "spelling",
-            "subType": "rank",
-            "description": null,
-            "note": "eth spelling, part of the \"Faðir/Móðir\" rank-ladder pairing, gone from main",
+            "note": "mother of a hof. Other forms: _Móðir_ — eth spelling, part of the \"Faðir/Móðir\" rank-ladder pairing, gone from main.",
             "prose": null,
             "oldRefPaths": [
-                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:73:303"
-            ],
-            "boldKind": "phrase",
-            "historical": true
-        },
-        {
-            "oldName": "Móðir",
-            "oldAliases": null,
-            "oldPath": null,
-            "oldShortcode": null,
-            "oldAddress": null,
-            "oldImage": null,
-            "newName": "Hofsmódir",
-            "newAliases": null,
-            "newPath": null,
-            "newShortcode": null,
-            "newAddress": null,
-            "newImage": null,
-            "newHome": null,
-            "newTags": null,
-            "type": "spelling",
-            "subType": "rank",
-            "description": null,
-            "note": "eth spelling, part of the \"Faðir/Móðir\" rank-ladder pairing, gone from main",
-            "prose": null,
-            "oldRefPaths": [
+                "754a84b67:assets/content/Lore/Ranks/Grand_Master.md:18:423",
                 "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:73:309"
             ],
-            "boldKind": "phrase",
-            "historical": true
+            "boldKind": "none"
         },
         {
             "oldName": "Bjorn-König",
-            "oldAliases": null,
+            "oldAliases": ["Bjorn-Königers"],
             "oldPath": null,
             "oldShortcode": null,
             "oldAddress": null,
@@ -2091,35 +1668,11 @@
             "type": "namestock",
             "subType": "rank",
             "description": null,
-            "note": "the Bear-Kin, Vithgard's royal clan",
+            "note": "the Bear-Kin, Vithgard's royal clan. Other forms: _Bjorn-Königers_ — possessive/plural inflection of Bjorn-König, live on main; written out rather than matched through an inflection.",
             "prose": null,
             "oldRefPaths": [
                 "e13afb5f2:assets/content/Regions/Ankaris/Nordlands/Vithgard/Bjornstad.md:35:83",
-                "b29be50fd:assets/content/Regions/Ankaris/Nordlands/Vithgard/Bjornstad.md:17:84"
-            ],
-            "boldKind": "none"
-        },
-        {
-            "oldName": "Bjorn-Königers",
-            "oldAliases": null,
-            "oldPath": null,
-            "oldShortcode": null,
-            "oldAddress": null,
-            "oldImage": null,
-            "newName": "Bjarnaett",
-            "newAliases": null,
-            "newPath": null,
-            "newShortcode": null,
-            "newAddress": null,
-            "newImage": null,
-            "newHome": null,
-            "newTags": null,
-            "type": "spelling",
-            "subType": "rank",
-            "description": null,
-            "note": "possessive/plural inflection of Bjorn-König, live on main; recorded as its own spelling rather than relying on inflection-matching",
-            "prose": null,
-            "oldRefPaths": [
+                "b29be50fd:assets/content/Regions/Ankaris/Nordlands/Vithgard/Bjornstad.md:17:84",
                 "e13afb5f2:assets/content/Regions/Ankaris/Nordlands/Vithgard/Bjornstad.md:31:361",
                 "86516af10:assets/content/Regions/Ankaris/Nordlands/Vithgard/Bjornstad.md:13:311"
             ],
@@ -2198,7 +1751,7 @@
         },
         {
             "oldName": "Týrshönd",
-            "oldAliases": null,
+            "oldAliases": ["Týr's Justice"],
             "oldPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_Tyrs_Justice.md",
             "oldShortcode": "ordrtyrsjstc",
             "oldAddress": "affiliation-ordrtyrsjstc",
@@ -2214,45 +1767,21 @@
             "type": "affiliation",
             "subType": "order",
             "description": null,
-            "note": "Oath-Hand; aliases the Sworn Hands, the White Wand",
+            "note": "Oath-Hand; aliases the Sworn Hands, the White Wand. Other forms: _Týr's Justice_ — the order's alias becomes the name.",
             "prose": null,
             "oldRefPaths": [
                 "e13afb5f2:assets/content/Organizations/Asguardian_Orders/Order_of_Tyrs_Justice.md:14:7",
                 "e13afb5f2:assets/content/Organizations/Asguardian_Orders/Order_of_Tyrs_Justice.md:32:13",
                 "e13afb5f2:assets/content/Organizations/Asguardian_Orders/Order_of_Tyrs_Justice.md:52:20",
-                "e13afb5f2:assets/content/Organizations/Asguardian_Orders/Order_of_Tyrs_Justice.md:53:26"
+                "e13afb5f2:assets/content/Organizations/Asguardian_Orders/Order_of_Tyrs_Justice.md:53:26",
+                "e13afb5f2:assets/content/Organizations/Asguardian_Orders/Order_of_Tyrs_Justice.md:3:18"
             ],
             "boldKind": "none",
             "historical": true
-        },
-        {
-            "oldName": "Týr's Justice",
-            "oldAliases": null,
-            "oldPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_Tyrs_Justice.md",
-            "oldShortcode": "ordrtyrsjstc",
-            "oldAddress": "affiliation-ordrtyrsjstc",
-            "oldImage": null,
-            "newName": "The Order of the Sworn Hand",
-            "newAliases": ["Eidhönd", "The Sworn Hands", "The White Wand"],
-            "newPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/The_Order_of_the_Sworn_Hand.md",
-            "newShortcode": "eidhond",
-            "newAddress": "affiliation-eidhond",
-            "newImage": null,
-            "newHome": null,
-            "newTags": null,
-            "type": "affiliation",
-            "subType": "order",
-            "description": null,
-            "note": "the order's alias becomes the name",
-            "prose": null,
-            "oldRefPaths": [
-                "e13afb5f2:assets/content/Organizations/Asguardian_Orders/Order_of_Tyrs_Justice.md:3:18"
-            ],
-            "boldKind": "phrase"
         },
         {
             "oldName": "Fréyrsverdir",
-            "oldAliases": null,
+            "oldAliases": ["Fréyr's Guardians", "Fréyrsverðir"],
             "oldPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_Freyrs_Guardians.md",
             "oldShortcode": "ordrfryrsgrdns",
             "oldAddress": "affiliation-ordrfryrsgrdns",
@@ -2268,61 +1797,12 @@
             "type": "affiliation",
             "subType": "order",
             "description": null,
-            "note": "the alias becomes the name",
+            "note": "the alias becomes the name. Other forms: _Fréyr's Guardians_ — the order's alias becomes the name; _Fréyrsverðir_ — eth spelling, gone from main.",
             "prose": null,
             "oldRefPaths": [
                 "6e137b8c0:assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_Freyrs_Guardians.md:6:7",
-                "6e137b8c0:assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_Freyrs_Guardians.md:93:13"
-            ],
-            "boldKind": "none",
-            "historical": true
-        },
-        {
-            "oldName": "Fréyr's Guardians",
-            "oldAliases": null,
-            "oldPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_Freyrs_Guardians.md",
-            "oldShortcode": "ordrfryrsgrdns",
-            "oldAddress": "affiliation-ordrfryrsgrdns",
-            "oldImage": null,
-            "newName": "The Green Wardens",
-            "newAliases": ["Grönverdir", "The Guardians of the Harvest"],
-            "newPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/The_Green_Wardens.md",
-            "newShortcode": "gronverdir",
-            "newAddress": "affiliation-gronverdir",
-            "newImage": null,
-            "newHome": null,
-            "newTags": null,
-            "type": "affiliation",
-            "subType": "order",
-            "description": null,
-            "note": "the order's alias becomes the name",
-            "prose": null,
-            "oldRefPaths": [
-                "e13afb5f2:assets/content/Organizations/Asguardian_Orders/Order_of_Freyrs_Guardians.md:3:18"
-            ],
-            "boldKind": "phrase"
-        },
-        {
-            "oldName": "Fréyrsverðir",
-            "oldAliases": null,
-            "oldPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_Freyrs_Guardians.md",
-            "oldShortcode": "ordrfryrsgrdns",
-            "oldAddress": "affiliation-ordrfryrsgrdns",
-            "oldImage": null,
-            "newName": "The Green Wardens",
-            "newAliases": ["Grönverdir", "The Guardians of the Harvest"],
-            "newPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/The_Green_Wardens.md",
-            "newShortcode": "gronverdir",
-            "newAddress": "affiliation-gronverdir",
-            "newImage": null,
-            "newHome": null,
-            "newTags": null,
-            "type": "spelling",
-            "subType": "order",
-            "description": null,
-            "note": "eth spelling, gone from main",
-            "prose": null,
-            "oldRefPaths": [
+                "6e137b8c0:assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_Freyrs_Guardians.md:93:13",
+                "e13afb5f2:assets/content/Organizations/Asguardian_Orders/Order_of_Freyrs_Guardians.md:3:18",
                 "e13afb5f2:assets/content/Organizations/Asguardian_Orders/Order_of_Freyrs_Guardians.md:5:5"
             ],
             "boldKind": "none",
@@ -2330,7 +1810,7 @@
         },
         {
             "oldName": "Ymisbörn",
-            "oldAliases": null,
+            "oldAliases": ["Ymir's Children"],
             "oldPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_Ymirs_Children.md",
             "oldShortcode": "ordrymrschldrn",
             "oldAddress": "affiliation-ordrymrschldrn",
@@ -2346,70 +1826,20 @@
             "type": "affiliation",
             "subType": "order",
             "description": null,
-            "note": "Bonebreakers stays; Holafell stays",
+            "note": "Bonebreakers stays; Holafell stays. Other forms: _Ymir's Children_ — the order's alias becomes the name.",
             "prose": null,
             "oldRefPaths": [
                 "6e137b8c0:assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_Ymirs_Children.md:5:13",
                 "6e137b8c0:assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_Ymirs_Children.md:89:13",
-                "6e137b8c0:assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_Ymirs_Children.md:134:125"
+                "6e137b8c0:assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_Ymirs_Children.md:134:125",
+                "e13afb5f2:assets/content/Organizations/Asguardian_Orders/Order_of_Ymirs_Children.md:3:18"
             ],
             "boldKind": "none",
             "historical": true
         },
         {
-            "oldName": "Ymir's Children",
-            "oldAliases": null,
-            "oldPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_Ymirs_Children.md",
-            "oldShortcode": "ordrymrschldrn",
-            "oldAddress": "affiliation-ordrymrschldrn",
-            "oldImage": null,
-            "newName": "The Giant's Children",
-            "newAliases": ["Thursbörn", "The Children of the First Frost", "The Bonebreakers"],
-            "newPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/The_Giants_Children.md",
-            "newShortcode": "thursborn",
-            "newAddress": "affiliation-thursborn",
-            "newImage": null,
-            "newHome": null,
-            "newTags": null,
-            "type": "affiliation",
-            "subType": "order",
-            "description": null,
-            "note": "the order's alias becomes the name",
-            "prose": null,
-            "oldRefPaths": [
-                "e13afb5f2:assets/content/Organizations/Asguardian_Orders/Order_of_Ymirs_Children.md:3:18"
-            ],
-            "boldKind": "phrase"
-        },
-        {
-            "oldName": "Knights of the Golden Rose",
-            "oldAliases": null,
-            "oldPath": null,
-            "oldShortcode": null,
-            "oldAddress": null,
-            "oldImage": null,
-            "newName": "Hringsystur",
-            "newAliases": null,
-            "newPath": null,
-            "newShortcode": null,
-            "newAddress": null,
-            "newImage": null,
-            "newHome": null,
-            "newTags": null,
-            "type": "namestock",
-            "subType": "order",
-            "description": null,
-            "note": "Sólrún's women who give gold away; \"the Ring-Sisters\"",
-            "prose": null,
-            "oldRefPaths": [
-                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Faith_of_Freyja.md:106:5"
-            ],
-            "boldKind": "phrase",
-            "historical": true
-        },
-        {
             "oldName": "Hammersfjall",
-            "oldAliases": null,
+            "oldAliases": ["Þrumufjall"],
             "oldPath": null,
             "oldShortcode": null,
             "oldAddress": null,
@@ -2425,10 +1855,11 @@
             "type": "namestock",
             "subType": "order",
             "description": null,
-            "note": "one holy mountain of Thrúnvald; Bjorn Stormborn walked to Thrumufjall",
+            "note": "one holy mountain of Thrúnvald; Bjorn Stormborn walked to Thrumufjall. Other forms: _Þrumufjall_ — thorn spelling of the kept word Thrumufjall (Thrúnvald's holy mountain); the word stays, only the mark is romanised away.",
             "prose": null,
             "oldRefPaths": [
-                "e13afb5f2:assets/content/Characters/Heroes_of_Asguard/Bjorn_Stormborn.md:509:394"
+                "e13afb5f2:assets/content/Characters/Heroes_of_Asguard/Bjorn_Stormborn.md:509:394",
+                "e13afb5f2:assets/content/Organizations/Asguardian_Orders/Order_of_Storm_Speakers.md:38:127"
             ],
             "boldKind": "phrase"
         },
@@ -2481,32 +1912,6 @@
                 "b71855eb9:assets/content/Regions/Ankaris/Nordlands/Malagna/Havamal.md:3:14"
             ],
             "boldKind": "none"
-        },
-        {
-            "oldName": "Þrumufjall",
-            "oldAliases": null,
-            "oldPath": null,
-            "oldShortcode": null,
-            "oldAddress": null,
-            "oldImage": null,
-            "newName": "Thrumufjall",
-            "newAliases": null,
-            "newPath": null,
-            "newShortcode": null,
-            "newAddress": null,
-            "newImage": null,
-            "newHome": null,
-            "newTags": null,
-            "type": "spelling",
-            "subType": "spelling",
-            "description": null,
-            "note": "thorn spelling of the kept word Thrumufjall (Thrúnvald's holy mountain); the word stays, only the mark is romanised away",
-            "prose": null,
-            "oldRefPaths": [
-                "e13afb5f2:assets/content/Organizations/Asguardian_Orders/Order_of_Storm_Speakers.md:38:127"
-            ],
-            "boldKind": "none",
-            "historical": true
         },
         {
             "oldName": "Bjornstad",
@@ -5613,56 +5018,6 @@
             "boldKind": "none"
         },
         {
-            "oldName": "Draugrs",
-            "oldAliases": null,
-            "oldPath": null,
-            "oldShortcode": null,
-            "oldAddress": null,
-            "oldImage": null,
-            "newName": "nágengir",
-            "newAliases": null,
-            "newPath": null,
-            "newShortcode": null,
-            "newAddress": null,
-            "newImage": null,
-            "newHome": null,
-            "newTags": null,
-            "type": "spelling",
-            "subType": "mythfurniture",
-            "description": null,
-            "note": "plural inflection of Draugar, live on main as Hél's favored undead; recorded as its own spelling rather than matched through an inflection",
-            "prose": null,
-            "oldRefPaths": [
-                "6e137b8c0:assets/content/Affiliations/Divine/Asguardian/Faith_of_Hel.md:98:36"
-            ],
-            "boldKind": "none"
-        },
-        {
-            "oldName": "Haugbúi",
-            "oldAliases": null,
-            "oldPath": null,
-            "oldShortcode": null,
-            "oldAddress": null,
-            "oldImage": null,
-            "newName": "haugverdir",
-            "newAliases": null,
-            "newPath": null,
-            "newShortcode": null,
-            "newAddress": null,
-            "newImage": null,
-            "newHome": null,
-            "newTags": null,
-            "type": "spelling",
-            "subType": "mythfurniture",
-            "description": null,
-            "note": "singular of Haugbúar, live on main beside it in the same sentence; recorded as its own spelling rather than matched through an inflection",
-            "prose": null,
-            "oldRefPaths": [
-                "6e137b8c0:assets/content/Affiliations/Divine/Asguardian/Faith_of_Hel.md:98:75"
-            ],
-            "boldKind": "none"
-        },
-        {
             "oldName": "Fréyrsverd",
             "oldAliases": null,
             "oldPath": null,
@@ -5684,31 +5039,6 @@
             "prose": null,
             "oldRefPaths": [
                 "6e137b8c0:assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_Freyrs_Guardians.md:6:7"
-            ],
-            "boldKind": "none"
-        },
-        {
-            "oldName": "Thór",
-            "oldAliases": null,
-            "oldPath": null,
-            "oldShortcode": null,
-            "oldAddress": null,
-            "oldImage": null,
-            "newName": "Thrúnvald",
-            "newAliases": null,
-            "newPath": null,
-            "newShortcode": null,
-            "newAddress": null,
-            "newImage": null,
-            "newHome": null,
-            "newTags": null,
-            "type": "spelling",
-            "subType": "deity",
-            "description": null,
-            "note": "bare form without the strong -r, written only as the decoration on a rank-ladder rung (\"Thór Allsherjargodi\", \"Thor High Priest\"); gone with the ladder",
-            "prose": null,
-            "oldRefPaths": [
-                "6e137b8c0:assets/content/Affiliations/Divine/Asguardian/Faith_of_Thorr.md:51:16"
             ],
             "boldKind": "none"
         },
@@ -5882,31 +5212,6 @@
             "prose": null,
             "oldRefPaths": [
                 "6e137b8c0:assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_Ymirs_Children.md:5:74"
-            ],
-            "boldKind": "none"
-        },
-        {
-            "oldName": "The Divine Architect's Path",
-            "oldAliases": null,
-            "oldPath": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Ymir.md",
-            "oldShortcode": "ymir",
-            "oldAddress": "affiliation-ymir",
-            "oldImage": "assets/icons/affiliation/asguardian/ymir.webp",
-            "newName": "Faith of Hrímthur",
-            "newAliases": ["The Path of the First Wound"],
-            "newPath": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Hrimthur.md",
-            "newShortcode": "hrimthur",
-            "newAddress": "affiliation-hrimthur",
-            "newImage": "assets/icons/affiliation/asguardian/hrimthur.webp",
-            "newHome": null,
-            "newTags": null,
-            "type": "affiliation",
-            "subType": "order",
-            "description": null,
-            "note": "the faith's alias and its ritual skill's: an architect is a maker, and Hrímthur makes nothing; the wound cut to make the world is what the faith keeps",
-            "prose": null,
-            "oldRefPaths": [
-                "6e137b8c0:assets/content/Affiliations/Divine/Asguardian/Faith_of_Ymir.md:3:39"
             ],
             "boldKind": "none"
         },
@@ -6423,7 +5728,7 @@
         },
         {
             "oldName": "Ódinn",
-            "oldAliases": null,
+            "oldAliases": ["Odin"],
             "oldPath": "assets/content/Lore/Deities/Asguardian/Odinn.md",
             "oldShortcode": "oinndty",
             "oldAddress": "lore-oinndty",
@@ -6439,9 +5744,13 @@
             "type": "lore",
             "subType": "deity",
             "description": null,
-            "note": "the deity's own lore article, sharing odinn's theonym with the affiliation row (a shortcode is unique only within one type, so the rename touches all three independently) — see that row for the etymology: _ód-_ \"fury, the seer's fit\" + _-var_ \"ward\" — the Fury-Ward. No art: the lore article carries no icon slot. The disk shortcode oinndty is missing a letter against Ódinn; the derived newShortcode odvardty is formed correctly from Ódvar, not from the typo.",
+            "note": "the deity's own lore article, sharing odinn's theonym with the affiliation row (a shortcode is unique only within one type, so the rename touches all three independently) — see that row for the etymology: _ód-_ \"fury, the seer's fit\" + _-var_ \"ward\" — the Fury-Ward. No art: the lore article carries no icon slot. The disk shortcode oinndty is missing a letter against Ódinn; the derived newShortcode odvardty is formed correctly from Ódvar, not from the typo. Other forms: _Odin_ — bare Earth spelling with a single n; present at the import and unchanged today.",
             "prose": null,
-            "oldRefPaths": ["6e137b8c0:assets/content/Lore/Deities/Asguardian/Odinn.md:3:14"],
+            "oldRefPaths": [
+                "6e137b8c0:assets/content/Lore/Deities/Asguardian/Odinn.md:3:14",
+                "e13afb5f2:assets/content/Regions/Ankaris/Nordlands/Nordheim/Ravensholm.md:31:139",
+                "b29be50fd:assets/content/Regions/Ankaris/Nordlands/Nordheim/Ravensholm.md:13:135"
+            ],
             "boldKind": "bare"
         },
         {
@@ -6469,7 +5778,7 @@
         },
         {
             "oldName": "Thórr",
-            "oldAliases": null,
+            "oldAliases": ["Thór"],
             "oldPath": "assets/content/Lore/Deities/Asguardian/Thorr.md",
             "oldShortcode": "thorrdty",
             "oldAddress": "lore-thorrdty",
@@ -6485,9 +5794,12 @@
             "type": "lore",
             "subType": "deity",
             "description": null,
-            "note": "the deity's own lore article, sharing thorr's theonym with the affiliation row (a shortcode is unique only within one type, so the rename touches all three independently) — see that row for the etymology: _thrún-_ \"thunder\" + _-vald_ \"wielder\". No art: the lore article carries no icon slot.",
+            "note": "the deity's own lore article, sharing thorr's theonym with the affiliation row (a shortcode is unique only within one type, so the rename touches all three independently) — see that row for the etymology: _thrún-_ \"thunder\" + _-vald_ \"wielder\". No art: the lore article carries no icon slot. Other forms: _Thór_ — bare form without the strong -r, written only as the decoration on a rank-ladder rung (\"Thór Allsherjargodi\", \"Thor High Priest\"); gone with the ladder.",
             "prose": null,
-            "oldRefPaths": ["6e137b8c0:assets/content/Lore/Deities/Asguardian/Thorr.md:3:14"],
+            "oldRefPaths": [
+                "6e137b8c0:assets/content/Lore/Deities/Asguardian/Thorr.md:3:14",
+                "6e137b8c0:assets/content/Affiliations/Divine/Asguardian/Faith_of_Thorr.md:51:16"
+            ],
             "boldKind": "bare"
         },
         {
@@ -8284,7 +7596,7 @@
             "boldKind": "bare"
         },
         {
-            "oldName": null,
+            "oldName": "Knights of the Golden Rose",
             "oldAliases": null,
             "oldPath": null,
             "oldShortcode": null,
@@ -8301,12 +7613,14 @@
             "type": "affiliation",
             "subType": "order",
             "description": "Sólrún's sworn women, wealth made and given away.",
-            "note": "the ring-sisters, from `hring-` (a ring given at a hall) and `-systur` (sisters). The order's own name in Nordmal, with the English phrase it answered to in Sólrún's faith note kept as its alias: Sólrún's sworn women, making wealth and giving it away, armed at a feast-hall's door and keeping its ledgers alike. The name already stood in the faith's prose and the note carries it unchanged.",
+            "note": "the ring-sisters, from `hring-` (a ring given at a hall) and `-systur` (sisters). The order's own name in Nordmal, with \"the Ring-Sisters\" as its alias: Sólrún's sworn women, making wealth and giving it away, armed at a feast-hall's door and keeping its ledgers alike. The order stood in Sólrún's faith note as the Knights of the Golden Rose, the women who give gold away, and stands there now under the Nordmal name.",
             "prose": null,
             "oldRefPaths": [
+                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Faith_of_Freyja.md:106:5",
                 "754a84b67:assets/content/Affiliations/Divine/Asguardian/Faith_of_Solrun.md:134:5"
             ],
-            "boldKind": "bare"
+            "boldKind": "phrase",
+            "historical": true
         },
         {
             "oldName": "Cast Out of the Order",
@@ -8385,7 +7699,7 @@
         },
         {
             "oldName": "Seidrwiseman",
-            "oldAliases": null,
+            "oldAliases": ["Seidrwisemen"],
             "oldPath": null,
             "oldShortcode": null,
             "oldAddress": null,
@@ -8404,32 +7718,7 @@
             "note": "from `hug-` (thought) and `-fadir` (the father of a hof). A kept word is not an element, so no compound is built from `seidr`, and the half-English form was unbuildable twice over. The gendered pair follows Godi and Gydja, and `-fadir` and `-módir` are the one gendered pair the element tables publish; the order keeps its libraries at its temples, which is the hof the pair answers for.",
             "prose": null,
             "oldRefPaths": [
-                "2aeb3e72e:assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_the_All-Seeing_Eye.md:27:40"
-            ],
-            "boldKind": "none",
-            "historical": true
-        },
-        {
-            "oldName": "Seidrwisemen",
-            "oldAliases": null,
-            "oldPath": null,
-            "oldShortcode": null,
-            "oldAddress": null,
-            "oldImage": null,
-            "newName": "Hugfadir",
-            "newAliases": null,
-            "newPath": null,
-            "newShortcode": null,
-            "newAddress": null,
-            "newImage": null,
-            "newHome": null,
-            "newTags": null,
-            "type": "affiliation",
-            "subType": "order",
-            "description": "What Hugaett calls its members, the most learned of Ódvar's faithful and the keepers of its libraries.",
-            "note": "from `hug-` (thought) and `-fadir` (the father of a hof). A kept word is not an element, so no compound is built from `seidr`, and the half-English form was unbuildable twice over. The gendered pair follows Godi and Gydja, and `-fadir` and `-módir` are the one gendered pair the element tables publish; the order keeps its libraries at its temples, which is the hof the pair answers for.",
-            "prose": null,
-            "oldRefPaths": [
+                "2aeb3e72e:assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_the_All-Seeing_Eye.md:27:40",
                 "2aeb3e72e:assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_the_All-Seeing_Eye.md:44:153"
             ],
             "boldKind": "none",
@@ -8437,7 +7726,7 @@
         },
         {
             "oldName": "Seidrwisewoman",
-            "oldAliases": null,
+            "oldAliases": ["Seidrwisewomen"],
             "oldPath": null,
             "oldShortcode": null,
             "oldAddress": null,
@@ -8456,32 +7745,7 @@
             "note": "from `hug-` (thought) and `-módir` (the mother of a hof). A kept word is not an element, so no compound is built from `seidr`, and the half-English form was unbuildable twice over. The gendered pair follows Godi and Gydja, and `-fadir` and `-módir` are the one gendered pair the element tables publish; the order keeps its libraries at its temples, which is the hof the pair answers for.",
             "prose": null,
             "oldRefPaths": [
-                "2aeb3e72e:assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_the_All-Seeing_Eye.md:27:56"
-            ],
-            "boldKind": "none",
-            "historical": true
-        },
-        {
-            "oldName": "Seidrwisewomen",
-            "oldAliases": null,
-            "oldPath": null,
-            "oldShortcode": null,
-            "oldAddress": null,
-            "oldImage": null,
-            "newName": "Hugmódir",
-            "newAliases": null,
-            "newPath": null,
-            "newShortcode": null,
-            "newAddress": null,
-            "newImage": null,
-            "newHome": null,
-            "newTags": null,
-            "type": "affiliation",
-            "subType": "order",
-            "description": "What Hugaett calls its members, the most learned of Ódvar's faithful and the keepers of its libraries.",
-            "note": "from `hug-` (thought) and `-módir` (the mother of a hof). A kept word is not an element, so no compound is built from `seidr`, and the half-English form was unbuildable twice over. The gendered pair follows Godi and Gydja, and `-fadir` and `-módir` are the one gendered pair the element tables publish; the order keeps its libraries at its temples, which is the hof the pair answers for.",
-            "prose": null,
-            "oldRefPaths": [
+                "2aeb3e72e:assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_the_All-Seeing_Eye.md:27:56",
                 "2aeb3e72e:assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_the_All-Seeing_Eye.md:44:170"
             ],
             "boldKind": "none",

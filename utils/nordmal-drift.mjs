@@ -22,6 +22,16 @@
  * moment either is edited, which is exactly the failure this guard exists to
  * prevent, moved one level up.
  *
+ * **One row per thing, and the sweep reads every form that row retires.** A
+ * row holds the primary retired name in `oldName` and every other name the
+ * thing answered to in `oldAliases`, so both fields are read. `oldAliases` also
+ * holds the aliases the thing still carries, and `newAliases` is where those
+ * stand now, so **a form in both fields is live and is read past**. That
+ * subtraction is the whole of the rule: `oldName` plus `oldAliases` less
+ * `newAliases`. Reading `oldAliases` whole instead reports a kept alias in the
+ * very note that states it, and reading `oldName` alone stops sweeping every
+ * form a merge folded into the aliases.
+ *
  * Two halves.
  *
  * **No retired token survives in an in-world sentence.** Read past: a
@@ -43,11 +53,13 @@
  *
  * Three traps the table and this guard answer together:
  *
- * 1. **Every spelling is its own entry.** `Odinn` and `Ódinn` are labels on
- *    one address; `Njördur`, `Njördr`, `Njordur`, `Njörðr` and `Ragnarok` are
- *    each written beside a marked form, and an entry's `historical` flag says
- *    whether the tree still writes that particular spelling. A rule written
- *    from one spelling reports clean.
+ * 1. **Every spelling is written out, as a form of its thing's one row.**
+ *    `Odinn`, `Óðinn` and `Oðinn` are forms of the row `Ódinn` retires;
+ *    `Njördr`, `Njordur` and `Njörðr` of the row `Njördur` retires. Each is
+ *    swept in its own right rather than reached through the primary, so a rule
+ *    written from one spelling cannot report clean. A row's `historical` flag
+ *    speaks for its primary form, and each citation's revision says where any
+ *    other form stood.
  * 2. **Short tokens are reached.** `Týr` and `Hél` are three characters and
  *    `Lôki` and `Ymir` four, and no minimum length is imposed anywhere. `Hel`
  *    is the one entry that needs its context — `Hel.` abbreviates Helonic in
@@ -57,9 +69,9 @@
  *    its spans are taken, so no retired token fires inside a word that keeps
  *    one. Longest match first among the retired tokens themselves, so
  *    `Bjorn-Königers` is found before `Bjorn-König` could claim part of it —
- *    both are their own entries, rather than one entry matched through an
- *    inflection, so a spelling the sweep has not yet met is not silently
- *    assumed to be covered.
+ *    both are written-out forms of one row, rather than one form matched
+ *    through an inflection, so a spelling the sweep has not yet met is not
+ *    silently assumed to be covered.
  *
  * A guard proves completeness, never accuracy. Whether `Ódvar` is the right
  * name for the Fury-Ward is a judgement; whether it reached every sentence is
@@ -614,14 +626,50 @@ export function checkRomanisation(spec, rule, files, tally) {
 }
 
 /**
+ * A value the table writes bare or as a list, as a list either way.
+ *
+ * @param {string | string[] | null | undefined} value - The authored value.
+ * @returns {string[]} The members.
+ */
+function asList(value) {
+    if (Array.isArray(value)) return value.map(String);
+    return value == null ? [] : [String(value)];
+}
+
+/**
+ * Every form one row retires.
+ *
+ * A row names one thing and holds the primary retired name in `oldName`, with
+ * every other name the thing answered to in `oldAliases`. Both are swept,
+ * because a form folded into the aliases is a form the corpus must no longer
+ * write.
+ *
+ * **Less whatever `newAliases` holds.** `oldAliases` begins as a copy of the
+ * note's own aliases and grows as synonyms are found, so it carries the live
+ * ones beside the retired ones; `newAliases` is where a live alias stands now.
+ * A form in both fields is therefore one the thing still answers to, and
+ * sweeping it reports it in the very note that states it.
+ *
+ * @param {object} entry - The concordance row.
+ * @returns {string[]} The forms, the primary first.
+ */
+export function retiredForms(entry) {
+    const kept = new Set(asList(entry.newAliases));
+    return [
+        ...(entry.oldName ? [String(entry.oldName)] : []),
+        ...asList(entry.oldAliases).filter((alias) => !kept.has(alias)),
+    ];
+}
+
+/**
  * Check the table itself, before any note is read.
  *
- * A replacement is not required to be unique to one entry: the concordance
- * carries one entry per historical spelling, so `Odinn`, `Óðinn`, `Oðinn` and
- * `Odin` legitimately share the replacement `Ódvar`. What must be unique is
- * the retired spelling itself — two entries naming the same `oldName` is an
- * ambiguous instruction the sweep cannot follow, **unless each names its own
- * `oldPath`**: a given name is a person's, not a word's, and a handful of
+ * A replacement is not required to be unique to one pair: one row retires every
+ * form of its thing's name, so `Odinn`, `Óðinn` and `Oðinn` reach the sweep
+ * beside `Ódinn` and legitimately share the replacement `Faith of Ódvar`. What
+ * must be unique is the retired spelling itself — two rows naming the same form
+ * is an ambiguous instruction the sweep cannot follow, **unless each names its
+ * own `oldPath`**: a given name is a person's, not a word's, and a handful of
  * Nordmen legitimately share one historical spelling while coined into
  * different lawful names of their own. A path on both sides of the
  * disagreement is what tells the sweep these are two people rather than one
@@ -692,22 +740,20 @@ function main() {
     }
     const table = readMapping();
 
-    // Every concordance entry with an `oldName` is a retired spelling this
-    // guard sweeps for. `subType` names the kind of thing (deity, rank,
-    // order, ...); `type` alone covers an entry with no `subType`, which is
-    // how a pure spelling variant (`type: "spelling"`) still reports as
-    // something readable. `newName: null` is `drop`: retired with nothing to
-    // replace it.
-    const pairs = (table.entries ?? [])
-        .filter((entry) => entry.oldName)
-        .map((entry) => ({
-            retired: entry.oldName,
+    // Every form a row retires is a spelling this guard sweeps for, taken from
+    // {@link retiredForms}. `subType` names the kind of thing a finding reports
+    // — deity, rank, order — and `type` is the fallback where a row states no
+    // subType. `newName: null` is `drop`: retired with nothing to replace it.
+    const pairs = (table.entries ?? []).flatMap((entry) =>
+        retiredForms(entry).map((form) => ({
+            retired: form,
             replacement: entry.newName,
             drop: entry.newName === null || entry.newName === undefined,
             group: entry.subType ?? entry.type,
             note: entry.note,
             path: entry.oldPath ?? null,
-        }));
+        })),
+    );
     if (pairs.length === 0) {
         console.error(`${MAPPING_FILE}: error: the table declares no pairs`);
         return 1;

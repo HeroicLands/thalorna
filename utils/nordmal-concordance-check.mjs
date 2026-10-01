@@ -242,6 +242,37 @@ function positionOf(text, literal, nth = 0) {
 }
 
 /**
+ * A field the table writes bare or as a list, as a list either way.
+ *
+ * @param {string|string[]|null|undefined} value - The authored value.
+ * @returns {string[]} The members.
+ */
+function asList(value) {
+    if (Array.isArray(value)) return value.map(String);
+    return value == null ? [] : [String(value)];
+}
+
+/**
+ * Every name one row's thing answers to.
+ *
+ * `oldName` is the primary retired form, `oldAliases` holds every other name
+ * the thing answered to, and `newName` is what it is called now. All three are
+ * names of the one thing the row describes, which is what a citation of it may
+ * hold.
+ *
+ * @param {object} row - The entry.
+ * @returns {string[]} The names, the primary first.
+ */
+function namesOf(row) {
+    const names = [];
+    for (const name of [row.oldName, ...asList(row.oldAliases), row.newName]) {
+        if (!name || names.includes(String(name))) continue;
+        names.push(String(name));
+    }
+    return names;
+}
+
+/**
  * Where a row stands in the table, by its most distinctive field.
  *
  * @param {string} raw - The table's text.
@@ -317,9 +348,15 @@ export function checkCompleteness(rows, raw) {
  * Every `oldRefPaths` citation that does not resolve.
  *
  * The revision has to exist, the file has to exist at it, the line has to
- * exist, and the old form has to stand at the stated column. A citation that
- * resolves to nothing is the row's only evidence, so its failure is an error
- * rather than a note.
+ * exist, and one of the names the row carries has to stand at the stated
+ * column. A citation that resolves to nothing is the row's only evidence, so
+ * its failure is an error rather than a note.
+ *
+ * **The row's names are all of them**: `oldName`, every form in `oldAliases`,
+ * and `newName`. One row names one thing, and a thing live under a changed
+ * spelling carries a sighting of each — one at the old revision in the old
+ * form, one in the new. So the form a citation must hold is whichever of the
+ * thing's names stood there, not the primary alone.
  *
  * A citation may name `main` so that a branch can cite a change it has not
  * merged, and that form is reported as provisional: `main` moves, and the
@@ -407,30 +444,31 @@ export function checkCitations(rows, raw) {
                 );
                 continue;
             }
-            const form = row.oldName ?? row.newName;
-            if (!form) continue;
+            const forms = namesOf(row);
+            if (!forms.length) continue;
+            const said = forms.length === 1 ? `"${forms[0]}"` : `any name of "${forms[0]}"`;
             if (column === undefined) {
-                if (!body.includes(String(form)))
+                if (!forms.some((form) => body.includes(form)))
                     out.push(
                         finding(
                             TABLE,
                             spot.line,
                             spot.column,
                             "error",
-                            `citation "${citation}" does not hold "${form}" on that line`,
+                            `citation "${citation}" does not hold ${said} on that line`,
                         ),
                     );
                 continue;
             }
             const at = Number(column) - 1;
-            if (body.slice(at, at + String(form).length) !== String(form))
+            if (!forms.some((form) => body.slice(at, at + form.length) === form))
                 out.push(
                     finding(
                         TABLE,
                         spot.line,
                         spot.column,
                         "error",
-                        `citation "${citation}" does not hold "${form}" at that column; the line reads "${body.slice(at, at + 40).trim()}"`,
+                        `citation "${citation}" does not hold ${said} at that column; the line reads "${body.slice(at, at + 40).trim()}"`,
                     ),
                 );
         }
@@ -792,6 +830,13 @@ export function checkCollisions(rows, raw) {
  * The table only grows. A row that existed and no longer does has destroyed the
  * one record of a rename, and nothing downstream can recover it.
  *
+ * **A form merged into another row's `oldAliases` is held, not lost.** One new
+ * thing takes one row, so a thing that retired several names carries the
+ * primary in `oldName` and the rest in `oldAliases` — and a form that moved
+ * from its own row into a surviving row's aliases is still the record of that
+ * rename. Reading `oldName` alone reports every such merge as a destroyed
+ * mapping.
+ *
  * A name the keep-list now holds is reclassified rather than lost: the decision
  * went the other way, the name stands, and the keep-list's `why` records what it
  * was once paired with.
@@ -802,7 +847,12 @@ export function checkCollisions(rows, raw) {
  */
 export function checkNothingLost(rows, keep) {
     const out = [];
-    const held = new Set(rows.map((row) => row.oldName).filter(Boolean));
+    const held = new Set();
+    for (const row of rows) {
+        for (const form of [row.oldName, ...asList(row.oldAliases)]) {
+            if (form) held.add(String(form));
+        }
+    }
     for (const entry of keep ?? []) held.add(entry.literal);
     const log = git(["log", "--format=%H", "--", TABLE]);
     if (log == null) return out;
