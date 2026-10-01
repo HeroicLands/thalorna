@@ -52,7 +52,7 @@ data:
           Long practiced, teaching initiates and judging when the tradition's forms have been broken.
       - level: 7
         title: Keeper of the Ways
-        lore: highpriestrnk
+        lore: grandmasterrnk
         description: >-
           Holder of the tradition's paths, observances and sacred places, and its voice where it must speak with one.
     offices:

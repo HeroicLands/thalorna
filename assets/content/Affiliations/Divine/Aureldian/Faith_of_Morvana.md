@@ -39,7 +39,7 @@ data:
           Ordained priests who serve as healers to the terminally ill and counselors to the bereaved.
       - level: 4
         title: Magistra Mortis
-        lore: grandmasterrnk
+        lore: highpriestrnk
         description: >-
           High Priestess or High Priest, typically an older priestess who has spent a lifetime at the bedsides of the dying.
     offices:

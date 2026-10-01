@@ -43,7 +43,7 @@ data:
         description: Competent to teach the tradition and to answer for what a pupil does with it.
       - level: 6
         title: Keeper of the Tradition
-        lore: highpriestrnk
+        lore: branchheadrnk
         description: >-
           Holding one of its bodies of knowledge or one of its houses, and answerable for its continuance.
       - level: 7

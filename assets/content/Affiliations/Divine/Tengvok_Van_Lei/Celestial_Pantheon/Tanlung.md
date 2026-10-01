@@ -48,7 +48,7 @@ data:
           Keeps the region's ledgers and rules on whether a petition is correctly addressed, adequately supported by precedent, and free of conflict with standing allocations.
       - level: 6
         title: Intendant
-        lore: highpriestrnk
+        lore: branchheadrnk
         description: >-
           Heads one bureau's temple in a province, answering for its filings, its revenues and its record-keeping, and hiring the scholars who research precedent for difficult petitions.
       - level: 7

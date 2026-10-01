@@ -52,7 +52,7 @@ data:
           Elected to command the city's forces, the one office the citizens elect rather than allot, and re-elect without limit.
       - level: 8
         title: Archon
-        lore: grandmasterrnk
+        lore: prsdngffcrrnk
         description: >-
           Presiding magistrate of the year, who gives it his name and hands it back—the assembly remains sovereign throughout.
     offices:

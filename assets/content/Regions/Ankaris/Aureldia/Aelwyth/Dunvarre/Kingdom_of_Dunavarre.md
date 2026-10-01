@@ -45,7 +45,7 @@ data:
           Admitted to the Synod's instruction, sworn to its discipline and beginning to be trusted with its business.
       - level: 6
         title: Magister
-        lore: highpriestrnk
+        lore: magistraternk
         description: >-
           A mage of the Synod holding a portfolio of state—a district, a court, a revenue, a garrison.
       - level: 7

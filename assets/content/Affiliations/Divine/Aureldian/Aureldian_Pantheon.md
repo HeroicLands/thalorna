@@ -38,12 +38,12 @@ data:
           The ordained clergy of a faith, who keep its temples and perform its rites: Sacerdotes, Flamines, Oraculi, Custodes or Magistri as the god requires.
       - level: 4
         title: Senior College
-        lore: highpriestrnk
+        lore: seatedelderrnk
         description: >-
           Where a faith is large enough to need one—the Collegium Sacerdotalis of Jánus, the Collegium Doctorum of Ménérva—a body of seniors between the clergy and the apex.
       - level: 5
         title: Pontifex
-        lore: grandmasterrnk
+        lore: highpriestrnk
         description: >-
           The high priest of a faith, styled according to its god: Pontifex Iuris, Flamen Tempestas, Magistra Sapientiae, Somniatrix, Grand Pontifex.
     offices:

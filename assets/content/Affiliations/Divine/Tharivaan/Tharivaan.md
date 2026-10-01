@@ -38,7 +38,7 @@ data:
           "One who holds"—the working rank, and the one most Kaliharans meet in daily life. Performs the maintenance liturgies at a specific sanctuary or stretch of structures and teaches the next generation of kaan'sili. Taken for life: retirement is not recognized, though an aged kaan'vaar may have their duties reduced as strength fails.
       - level: 4
         title: kaan'thári
-        lore: highpriestrnk
+        lore: teachingelderrnk
         description: >-
           "One who keeps what came before"—the senior rank, reached after forty or fifty years. The memory of the tradition, to whom others turn when a practice has drifted, a procedure has been half-forgotten, or a structure fails in a way no living kaan'vaar has seen. Perhaps two hundred exist at any time, and their counsel is sought well beyond the strictly custodial.
       - level: 5

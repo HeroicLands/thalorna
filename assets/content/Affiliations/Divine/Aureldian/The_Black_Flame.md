@@ -39,7 +39,7 @@ data:
           Those who have undergone the highest ordeals and proven themselves as warriors and believers; lieutenants to a Flame-Warden, who train acolytes and lead its operations.
       - level: 4
         title: Flame-Warden
-        lore: grandmasterrnk
+        lore: highpriestrnk
         description: >-
           Also styled Ashlord. Each leads a semi-independent cell or warband and operates alone; the faith recognizes no Grand Pontifex and no supreme authority, and alliances between Wardens are temporary.
     offices:

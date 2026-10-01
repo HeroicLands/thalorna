@@ -39,12 +39,12 @@ data:
           Ordained teachers throughout the cities, who keep schools, mentor apprentices and research in their fields.
       - level: 4
         title: Collegium Doctorum
-        lore: highpriestrnk
+        lore: seatedelderrnk
         description: >-
           Twenty or thirty senior scholars specializing in mathematics, medicine, philosophy, languages, craftsmanship and astronomy.
       - level: 5
         title: Magistra Sapientiae
-        lore: grandmasterrnk
+        lore: highpriestrnk
         description: >-
           Master of Wisdom, chosen by vote of the senior scholars rather than by succession—this priesthood prioritizes scholarship over hierarchy.
     offices:

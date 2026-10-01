@@ -39,7 +39,7 @@ data:
           The Keepers of Roads—fifty to a hundred ordained priests stationed at way-shrines and crossings, scattered by design.
       - level: 4
         title: Archivus Peregrinorum
-        lore: grandmasterrnk
+        lore: highpriestrnk
         description: >-
           The nominal apex of a uniquely decentralized and mobile priesthood—an archivist of travelers rather than a commander of them.
     offices:

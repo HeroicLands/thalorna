@@ -39,7 +39,7 @@ data:
           Ordained clergy of the World-Weaver, keeping the rites of growth and making.
       - level: 4
         title: Magistra Vitae
-        lore: grandmasterrnk
+        lore: highpriestrnk
         description: >-
           High Priestess or High Priest, typically a figure of great age and wisdom.
     offices:

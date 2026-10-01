@@ -39,7 +39,7 @@ data:
           The Threshold Keepers—twenty or thirty ordained priests across the cities of western Ankaris, who perform funeral rites and keep the temple records of the dead.
       - level: 4
         title: Pontifex Mortis
-        lore: grandmasterrnk
+        lore: highpriestrnk
         description: >-
           Held by one among the Custodes; the hierarchy is defined by wisdom and philosophical depth rather than administrative rank.
     offices:

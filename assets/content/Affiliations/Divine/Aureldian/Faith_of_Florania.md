@@ -39,7 +39,7 @@ data:
           Ordained priestesses and priests serving as healers, midwives, gardeners and officiants at marriages.
       - level: 4
         title: Magistra Florarum
-        lore: grandmasterrnk
+        lore: highpriestrnk
         description: >-
           High Priestess, and occasionally High Priest, though the role is more often filled by a woman.
     offices:

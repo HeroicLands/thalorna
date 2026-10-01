@@ -39,7 +39,7 @@ data:
           Ordained clergy who manage daily worship, keep the sacred spaces and counsel those seeking the goddess's favor.
       - level: 4
         title: High Priestess of a Temple
-        lore: grandmasterrnk
+        lore: highpriestrnk
         description: >-
           Each major city's temple is governed by its own High Priestess—or High Priest, though priestesses are far more common. There is no centralized hierarchy above them.
     offices:

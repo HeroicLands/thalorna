@@ -39,7 +39,7 @@ data:
           The Priests of Storms—thirty or forty ordained clergy across the cities and coastal settlements, who keep the temples and advise farmers, merchants and sailors.
       - level: 4
         title: Flamen Tempestas
-        lore: grandmasterrnk
+        lore: highpriestrnk
         description: >-
           High Priest of the Storm: primary voice of the god and interpreter of his will as revealed in natural phenomena, consulted by kings and city councils.
     offices:

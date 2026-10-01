@@ -38,7 +38,7 @@ data:
           Lector—the one who carries the book and reads the great formulae aloud at the rites. A Khel-Gebu holds the House's restricted forms, and is trusted with workings that are meant to stand for centuries.
       - level: 4
         title: Wer Khel-Gebu
-        lore: grandmasterrnk
+        lore: branchheadrnk
         description: >-
           Chief lector of the House at a temple, answerable for every form its practitioners set down. Where a working has failed and stands failed, this is the office that must go and correct it.
     offices:

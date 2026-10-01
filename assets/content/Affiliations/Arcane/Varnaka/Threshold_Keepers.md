@@ -39,7 +39,7 @@ data:
           Puts the question. Ordained, licensed, and permitted one question at one threshold under one warrant.
       - level: 4
         title: Warrant-holder
-        lore: highpriestrnk
+        lore: branchheadrnk
         description: >-
           Holds a polity's standing warrant, settles which deaths are asked at and which are not, and answers to that polity's court for every consultation done under it.
     offices:
