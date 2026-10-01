@@ -31,4 +31,4 @@ None above it; a hidden hof answers to no higher office within the cult.
 
 ## Where This Standing Is Held
 
-The [[affiliation-hel|Faith of Náhild]] alone.
+The [[affiliation-nahild|Faith of Náhild]] alone.

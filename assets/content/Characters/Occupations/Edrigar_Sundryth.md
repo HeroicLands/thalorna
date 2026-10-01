@@ -49,7 +49,7 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 10}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 10}}
-    - {model: affiliation-ymir}
+    - {model: affiliation-hrimthur}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-eng, system: {masteryLevelBase: 65}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 14}}

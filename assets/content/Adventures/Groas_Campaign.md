@@ -6,7 +6,7 @@ subType: adventure
 data:
   parents: []
   locations: []
-  cast: [grosdrnrgd, rnhrngsdtr, njorven, kinghakoniii]
+  cast: [tvrnyndsdrnrgd, hlrthsldhrngsdtr, njorven, knghlrthni]
   factions: []
   follows: []
   status: draft
@@ -18,13 +18,13 @@ data:
 
 ### Campaign Overview:
 
-[[being-grosdrnrgd|Tvarnynda]]’s vision of the future is one of three interconnected threats: **internal strife** within the [[affiliation-kingdomlgn|Kingdom of Malagna]], **foreign invasions**, and, most urgently, the rise of [[being-njorven|Njörven]], the Sea Wraith. As the kingdom spirals into chaos, with rival factions vying for power and external enemies closing in, Njörven’s influence seeps back into the land, stirring violent storms and awakening ancient curses. Tvarnynda and her companions—though initially minor figures—will rise as protectors of the common folk, navigating a path through these tensions and facing the Sea Wraith’s growing power.
+[[being-tvrnyndsdrnrgd|Tvarnynda]]’s vision of the future is one of three interconnected threats: **internal strife** within the [[affiliation-kingdomlgn|Kingdom of Malagna]], **foreign invasions**, and, most urgently, the rise of [[being-njorven|Njörven]], the Sea Wraith. As the kingdom spirals into chaos, with rival factions vying for power and external enemies closing in, Njörven’s influence seeps back into the land, stirring violent storms and awakening ancient curses. Tvarnynda and her companions—though initially minor figures—will rise as protectors of the common folk, navigating a path through these tensions and facing the Sea Wraith’s growing power.
 
 This is a campaign where wisdom, diplomacy, and strength of character are valued over brute magical force. While Tvarnynda’s Seidr powers and her companions' skills will play important roles, the solutions to problems will often involve non-magical strategies. The internal political instability, foreign threats, and the plight of the people will shape much of the campaign.
 
 ### The Three Great Challenges
 
-1.  **Internal Strife:** Malagna is teetering on the edge of civil war. [[being-kinghakoniii|King Hlurthann III]] is aging and ineffective, and various factions within the kingdom, including powerful clans like the Hrafnvar and Grímvar, vie for dominance. Tvarnynda and her companions find themselves in a kingdom where the real threat is not only the ancient sea spirit, but also the unraveling of their homeland’s social fabric.
+1.  **Internal Strife:** Malagna is teetering on the edge of civil war. [[being-knghlrthni|King Hlurthann III]] is aging and ineffective, and various factions within the kingdom, including powerful clans like the Hrafnvar and Grímvar, vie for dominance. Tvarnynda and her companions find themselves in a kingdom where the real threat is not only the ancient sea spirit, but also the unraveling of their homeland’s social fabric.
 2.  **Foreign Invasions:** In addition to internal turmoil, foreign threats loom on Malagna’s borders. [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] and the [[affiliation-kingdmtrgd|Kingdom of Targud]], emboldened by Malagna’s political weakness, launch raids along the coast. Villages are left defenseless, and the kingdom’s military is too fractured to protect the people. Tvarnynda and her companions will need to confront these invaders, rally the common folk, and defend their homeland against these external dangers.
 3.  **Njörven’s Rise:** The ancient Sea Wraith, Njörven, is beginning to stir from his watery prison. His wrath is manifesting in destructive storms, and his influence grows as the seas become more perilous. However, Njörven’s awakening is not only a spiritual threat—it is also a political one, as some coastal clans begin questioning their allegiance to Thórr, the god who once vanquished Njörven. Tvarnynda’s mission to retrieve the three relics and stop Njörven’s rise is the overarching quest, but much of the campaign will be about dealing with the tangible effects of his influence.
 
@@ -35,7 +35,7 @@ This is a campaign where wisdom, diplomacy, and strength of character are valued
 This section focuses on establishing the political and social instability within Malagna and setting up Tvarnynda and her companions as protectors of the people.
 
 - **Internal Tensions:** Early on, Tvarnynda and her companions will find themselves caught in the crossfire of Malagna’s political factions. The royal clan, once dominant, is fractured by infighting, with several powerful heirs vying for the throne. Tvarnynda must navigate these tensions carefully, as different factions try to pull her into their schemes. She and her companions are primarily concerned with the well-being of the common folk, often finding themselves opposing local lords who are too focused on power struggles to defend their people.
-- **Foreign Raids:** Villages along the coast are regularly attacked by invaders from Nordheim and Targud. In one pivotal moment, [[being-rnhrngsdtr|Hlirthselda Hringsdóttir]] will lead the defense of a small village, rallying the villagers to fight back against overwhelming odds. Her successful defense will not only earn her and Tvarnynda valuable allies but also show the common people that they are champions of the people. This victory will lead to unforeseen assistance from one of the coastal clans later in the campaign.
+- **Foreign Raids:** Villages along the coast are regularly attacked by invaders from Nordheim and Targud. In one pivotal moment, [[being-hlrthsldhrngsdtr|Hlirthselda Hringsdóttir]] will lead the defense of a small village, rallying the villagers to fight back against overwhelming odds. Her successful defense will not only earn her and Tvarnynda valuable allies but also show the common people that they are champions of the people. This victory will lead to unforeseen assistance from one of the coastal clans later in the campaign.
 
 ### Act II: The Quest for the Relics
 

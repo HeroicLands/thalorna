@@ -31,4 +31,4 @@ None above the rank itself short of advancement to [[lore-ordrseniorrnk|Elder Gu
 
 ## Where This Standing Is Held
 
-The [[affiliation-ordrfryrsgrdns|Order of the Green Wardens]] alone.
+The [[affiliation-gronverdir|Order of the Green Wardens]] alone.

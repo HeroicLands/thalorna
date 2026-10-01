@@ -75,7 +75,7 @@ data:
       Landvördr: The king's reeve in a district, collecting his dues and holding his courts.
       Skipstjóri: Master of a ship, commanding her crew at sea and answering for her in the levy.
       Harbour-reeve: Keeper of a haven, collecting its tolls and adjudicating disputes on its wharves.
-  seat: thrymstead
+  seat: knalthstead
   domains: [nordheim]
   population: 650000
   economy: [lore-vylrncrncy, lore-bartercnmy, lore-kinhalcrdt]
@@ -108,7 +108,7 @@ Women in Nordmen society hold more autonomy than in many other Ankarian cultures
 
 ## Religion
 
-The Nordmen worship the [[affiliation-asguardian|Asguardian Pantheon]] pantheon, a collection of powerful and often capricious deities who embody the forces of nature and the virtues the Nordmen prize. [[affiliation-odinn|Ódvar]] is the Allfather, god of wisdom, war, and death; [[affiliation-baldr|Bjartr]] is the god of light, dreams, and the elder races; and [[affiliation-hel|Náhild]] is the dreaded goddess of the underworld, whose cult of death and chaos is both feared and reviled.
+The Nordmen worship the [[affiliation-asguardian|Asguardian Pantheon]] pantheon, a collection of powerful and often capricious deities who embody the forces of nature and the virtues the Nordmen prize. [[affiliation-odvar|Ódvar]] is the Allfather, god of wisdom, war, and death; [[affiliation-bjartr|Bjartr]] is the god of light, dreams, and the elder races; and [[affiliation-nahild|Náhild]] is the dreaded goddess of the underworld, whose cult of death and chaos is both feared and reviled.
 
 Worship is practical and personal. Nordmen make offerings at standing stones, sacred groves, and household altars. Major rituals accompany the turning of the seasons, with the midwinter _Jólblót_ and the midsummer _Sigrblót_ being the most important communal celebrations. Shamans and mystics called _völvur_ serve as spiritual guides, interpreting omens, performing seidr magic, and mediating between the mortal world and the divine.
 

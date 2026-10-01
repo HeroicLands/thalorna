@@ -18,7 +18,7 @@ import YAML from "yaml";
 const CONTENT_DIR = "assets/content";
 const NPC_PATHS = new Set([
     "Regions/Xerathia/Northern_Fertile_Region/Okharis/Takoro_Zanethar.md",
-    "Regions/Ankaris/Nordlands/Malagna/King_Hakon_III.md",
+    "Regions/Ankaris/Nordlands/Malagna/King_Hlurthann_III.md",
     "Regions/Ankaris/Aureldia/Provenzia/King_Tredavar_III.md",
     "Regions/Ankaris/Tanvur/Threats/Bathur_Hurtzhuk.md",
     "Regions/Ankaris/Tanvur/Threats/Teitjek_Vengyurt.md",

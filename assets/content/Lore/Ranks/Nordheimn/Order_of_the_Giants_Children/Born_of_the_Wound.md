@@ -31,4 +31,4 @@ None above the rank itself short of advancement to [[lore-ordrseniorrnk|Hand of 
 
 ## Where This Standing Is Held
 
-The [[affiliation-ordrymrschldrn|Order of the Giant's Children]] alone.
+The [[affiliation-thursborn|Order of the Giant's Children]] alone.

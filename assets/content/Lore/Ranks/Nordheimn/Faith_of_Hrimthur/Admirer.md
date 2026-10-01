@@ -31,4 +31,4 @@ None.
 
 ## Where This Standing Is Held
 
-The [[affiliation-ymir|Faith of Hrímthur]] alone.
+The [[affiliation-hrimthur|Faith of Hrímthur]] alone.

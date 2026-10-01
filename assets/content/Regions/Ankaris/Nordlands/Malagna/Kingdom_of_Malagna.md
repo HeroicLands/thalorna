@@ -75,7 +75,7 @@ data:
       Landvördr: The king's reeve in a district, collecting his dues and holding his courts.
       Skipstjóri: Master of a ship, commanding her crew at sea and answering for her in the levy.
       Harbour-reeve: Keeper of a haven, collecting its tolls and adjudicating disputes on its wharves.
-  seat: skorrborg
+  seat: gnarthborg
   domains: [malagna]
   population: 340000
   economy: [lore-vylrncrncy, lore-bartercnmy, lore-kinhalcrdt]
@@ -94,7 +94,7 @@ sohl: {system: {commonSkills: [nordmalng]}}
 
 ## Overview
 
-The Kingdom of Malagna holds the land of [[place-malagna|Malagna]]. Its crown is held by [[being-kinghakoniii|King Hlurthann III]], acclaimed at the ting and seated at Gnarthborg. Of all the Nordmen realms, Malagna has the most contact with the western kingdoms and the most trade with the cultures of [[place-midhalnrgn|Mídhalión Region]]. Its sailors are explorers and merchants as much as raiders, and Malagnan longships have reached the furthest shores of the known world.
+The Kingdom of Malagna holds the land of [[place-malagna|Malagna]]. Its crown is held by [[being-knghlrthni|King Hlurthann III]], acclaimed at the ting and seated at Gnarthborg. Of all the Nordmen realms, Malagna has the most contact with the western kingdoms and the most trade with the cultures of [[place-midhalnrgn|Mídhalión Region]]. Its sailors are explorers and merchants as much as raiders, and Malagnan longships have reached the furthest shores of the known world.
 
 ## Character
 
