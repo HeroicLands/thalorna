@@ -326,6 +326,7 @@ the closing row carries whatever the strong `-r` or the doubled letter adds.
 | `mann-`             | a man, and mankind                        |
 | `merki-`            | a standard carried in battle              |
 | `minni-`            | memory held rather than written           |
+| `mót-`              | a shape, a mould                          |
 | `mun-`              | memory recited                            |
 | `ná-`               | a corpse                                  |
 | `njör-`             | the open sea's deep                       |
@@ -340,7 +341,7 @@ the closing row carries whatever the strong `-r` or the doubled letter adds.
 | `skip-`             | a ship                                    |
 | `skjálf-`           | a shaking                                 |
 | `ský-`              | cloud                                     |
-| `smid-`             | a smith                                   |
+| `smid-`             | a craftsman                               |
 | `sól-`              | the sun                                   |
 | `stál-`             | steel                                     |
 | `stein-`            | stone                                     |
