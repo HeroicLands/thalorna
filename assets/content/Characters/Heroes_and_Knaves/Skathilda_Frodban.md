@@ -1,6 +1,10 @@
 ---
 shortcode: skthldfrdbn
-name: {full: Skathilda Frodban, given: Skathilda, clan: Frodban, aliases: [the Weasel]}
+name:
+  full: Skathilda Fródbán
+  given: Skathilda
+  clan: Fródbán
+  aliases: [the Weasel, Skathilda Frodban]
 type: being
 subType: character
 tags: [blackpine-wolves, brigand, vrystwald, underworld]
@@ -397,9 +401,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[skthldfrdbn|Skathilda Frodban]]{float=top-left}
+![[skthldfrdbn|Skathilda Fródbán]]{float=top-left}
 
-Skathilda Frodban is small, pale, and utterly terrifying. She stands barely over five feet, with a scant wiry frame that looks like it would snap in a strong wind—an impression that has cost several men their lives. Her dark blonde hair is hacked short and uneven, as though cut with a knife by feel, and her sharp, pointed face is dominated by watchful green eyes that hold the flat, assessing calm of a predator deciding when to strike. A thin white scar runs from her right ear down to the jawline, the souvenir of a fight she won decisively. She dresses in dark leathers—vest, bracers, cap, and calf boots—and carries a shortsword and two daggers with the ease of long practice. She moves with a coiled, restless energy, always shifting, always circling, never still. The other bandits call her the Weasel, but only behind her back.
+Skathilda Fródbán is small, pale, and utterly terrifying. She stands barely over five feet, with a scant wiry frame that looks like it would snap in a strong wind—an impression that has cost several men their lives. Her dark blonde hair is hacked short and uneven, as though cut with a knife by feel, and her sharp, pointed face is dominated by watchful green eyes that hold the flat, assessing calm of a predator deciding when to strike. A thin white scar runs from her right ear down to the jawline, the souvenir of a fight she won decisively. She dresses in dark leathers—vest, bracers, cap, and calf boots—and carries a shortsword and two daggers with the ease of long practice. She moves with a coiled, restless energy, always shifting, always circling, never still. The other bandits call her the Weasel, but only behind her back.
 
 # Dossier {#dossier}
 
@@ -407,7 +411,7 @@ Skathilda was born the youngest of four children in a woodcutter's family deep i
 
 She survived alone in the pines for nearly a year—stealing from traplines, raiding smokehouse stores, sleeping in hollowed logs. A roving band of poachers took her in when they found her half-starved in a snowdrift, and she repaid their charity by learning everything they could teach her about moving unseen, picking pockets, and cutting throats. When the poachers' leader tried to force himself on her two years later, she opened his belly with a skinning knife while he slept and vanished before dawn.
 
-She joined Dagulf's gang three years ago, drawn by the practical arrangement: safety in numbers, a share of the takings, and no one stupid enough to lay a hand on her twice. Dagulf recognized her value immediately—she is the gang's best scout, its most reliable killer in close quarters, and the member most likely to slit his throat if he ever shows weakness. They maintain a wary mutual respect built on the understanding that each is dangerous to the other.
+She joined Dágulf's gang three years ago, drawn by the practical arrangement: safety in numbers, a share of the takings, and no one stupid enough to lay a hand on her twice. Dágulf recognized her value immediately—she is the gang's best scout, its most reliable killer in close quarters, and the member most likely to slit his throat if he ever shows weakness. They maintain a wary mutual respect built on the understanding that each is dangerous to the other.
 
 # Skills and Abilities
 
@@ -417,11 +421,11 @@ Skathilda is extraordinarily fast and agile, with a natural gift for stealth and
 
 ### Personality
 
-Skathilda is cold, calculating, and deeply mistrustful of everyone. She speaks little, watches constantly, and has a memory for slights that stretches back years. She does not bluster or threaten—she simply acts, suddenly and without warning, which is why even Thrawald, who outweighs her by fifty kilograms, gives her space. She has a dark, cutting humor that she deploys rarely and to devastating effect. She despises weakness in others because she cannot afford it in herself, and she has no patience for self-pity, excuses, or sentimentality.
+Skathilda is cold, calculating, and deeply mistrustful of everyone. She speaks little, watches constantly, and has a memory for slights that stretches back years. She does not bluster or threaten—she simply acts, suddenly and without warning, which is why even Thráwald, who outweighs her by fifty kilograms, gives her space. She has a dark, cutting humor that she deploys rarely and to devastating effect. She despises weakness in others because she cannot afford it in herself, and she has no patience for self-pity, excuses, or sentimentality.
 
 ### Motivation
 
-Survival. Skathilda learned early that the world is divided into predators and prey, and she will never be prey again. Beyond that, she craves autonomy—the freedom to come and go as she chooses, beholden to no one. She stays with the Blackpine Wolves because the arrangement serves her, and she will leave or take over the moment it doesn't. She harbors a cold, patient ambition that Dagulf senses but cannot quite pin down.
+Survival. Skathilda learned early that the world is divided into predators and prey, and she will never be prey again. Beyond that, she craves autonomy—the freedom to come and go as she chooses, beholden to no one. She stays with the Blackpine Wolves because the arrangement serves her, and she will leave or take over the moment it doesn't. She harbors a cold, patient ambition that Dágulf senses but cannot quite pin down.
 
 ### Strengths
 
@@ -431,7 +435,7 @@ Her speed, stealth, and ruthlessness make her the most dangerous fighter in the 
 
 ## Companions
 
-The Blackpine Wolves. She maintains a functional working relationship with Dagulf based on mutual wariness. She tolerates Thrawald because he is predictable. She openly despises Brunjar for his cowardice and considers the younger members beneath her notice.
+The Blackpine Wolves. She maintains a functional working relationship with Dágulf based on mutual wariness. She tolerates Thráwald because he is predictable. She openly despises Brunjár for his cowardice and considers the younger members beneath her notice.
 
 ### Patrons
 
@@ -443,7 +447,7 @@ Her surviving brothers, if they still live, would not welcome a reunion. The fam
 
 ## Plot Hooks
 
-1. **The Weasel's Offer**—Skathilda approaches the party covertly, offering to sell out the Blackpine Wolves' camp location, patrol routes, and Dagulf's habits in exchange for guaranteed safe passage and a modest sum. She is planning to leave the gang anyway and sees an opportunity. Whether she can be trusted is another question entirely.
+1. **The Weasel's Offer**—Skathilda approaches the party covertly, offering to sell out the Blackpine Wolves' camp location, patrol routes, and Dágulf's habits in exchange for guaranteed safe passage and a modest sum. She is planning to leave the gang anyway and sees an opportunity. Whether she can be trusted is another question entirely.
 
 2. **A Knife in the Dark**—Someone is murdering travelers on the Vrystwald road with a single cut to the throat, but the killings don't match the Blackpine Wolves' usual pattern of ambush and robbery. Nothing is stolen. The party investigates and discovers Skathilda has been settling old scores on her own time—the victims are all connected to the men who wronged her in childhood.
 

@@ -1,6 +1,6 @@
 ---
 shortcode: thrnlrkhld
-name: {full: Thornila Rikhild, aliases: []}
+name: {full: Thornila Ríkhild, aliases: []}
 type: being
 subType: npc
 tags: [todo, draft, clergy]
@@ -398,11 +398,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Thornila Rikhild is a 35-year-old woman who stands 6'0" tall and is slender. She has a broad face with high cheekbones, a wide forehead, and a strong jaw that leads to a firm chin. Her almond-shaped amber eyes sit beneath heavy brows and give her a measured gaze. She has a strong nose and full lips. She has fair skin with a rough complexion. Her black hair is plaited in a single thick braid.
+Thornila Ríkhild is a 35-year-old woman who stands 6'0" tall and is slender. She has a broad face with high cheekbones, a wide forehead, and a strong jaw that leads to a firm chin. Her almond-shaped amber eyes sit beneath heavy brows and give her a measured gaze. She has a strong nose and full lips. She has fair skin with a rough complexion. Her black hair is plaited in a single thick braid.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a noble family of Varokhi heritage, Thornila Rikhild is a priestess of Jánus.
+Born in the [[place-vrystwald|Vrystwald]] region to a noble family of Varokhi heritage, Thornila Ríkhild is a priestess of Jánus.
 
 Thornila is a noble priestess devoted to the teachings of Jánus. With a strong belief in the protection of the weak, she often organizes charitable works, though her upbringing sometimes leads her to look down on those in need. She believes that chivalry is essential to the defense of honor, and encourages her followers to uphold the ideals of justice and righteous struggle, though she struggles to understand the plight of the lower classes.
 

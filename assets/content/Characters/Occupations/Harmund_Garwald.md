@@ -1,6 +1,6 @@
 ---
 shortcode: hrmndgrwld
-name: {full: Harmund Garwald, aliases: []}
+name: {full: Hármund Garwald, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -396,13 +396,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Harmund Garwald is a 55-year-old man who stands 6'0" tall and is broad and solidly built. He has an angular face with prominent cheekbones, a prominent forehead, and an angular jaw that leads to a broad chin. His deep-set green eyes sit beneath prominent brows and give him a watchful gaze. He has a strong nose and expressive lips. He has light skin, lined with age. His graying brown hair is thinning on top.
+Hármund Garwald is a 55-year-old man who stands 6'0" tall and is broad and solidly built. He has an angular face with prominent cheekbones, a prominent forehead, and an angular jaw that leads to a broad chin. His deep-set green eyes sit beneath prominent brows and give him a watchful gaze. He has a strong nose and expressive lips. He has light skin, lined with age. His graying brown hair is thinning on top.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a guilded family of Varokhi heritage, Harmund Garwald is a weaponcrafter and armorer.
+Born in the [[place-vrystwald|Vrystwald]] region to a guilded family of Varokhi heritage, Hármund Garwald is a weaponcrafter and armorer.
 
-Harmund is a master blacksmith and weaponcrafter who has been forging weapons for over thirty years. His blades are known for their durability and sharpness, and he is held to be one of the finest weaponcrafters in the city. He is strict with his apprentices, demanding precision and quality in every piece. He takes pride in his work, but age has begun to slow him, and he struggles to turn out as much as he did in his younger years.
+Hármund is a master blacksmith and weaponcrafter who has been forging weapons for over thirty years. His blades are known for their durability and sharpness, and he is held to be one of the finest weaponcrafters in the city. He is strict with his apprentices, demanding precision and quality in every piece. He takes pride in his work, but age has begun to slow him, and he struggles to turn out as much as he did in his younger years.
 
 Now at 55 years of age, he is a known figure among the armorers of Vrystwald.
 
@@ -414,7 +414,7 @@ He is slower with age and holds standards that others find hard to meet.
 
 ### Motivation
 
-Harmund wants every piece that leaves his forge to be as good as the ones that made his name, and an apprentice fit to carry it on.
+Hármund wants every piece that leaves his forge to be as good as the ones that made his name, and an apprentice fit to carry it on.
 
 ### Strengths
 
@@ -422,13 +422,13 @@ He is skilled in metalworking, knowledgeable about the design of weapons, and ex
 
 ## Social
 
-Harmund belongs to the City Blacksmiths' Guild.
+Hármund belongs to the City Blacksmiths' Guild.
 
 ## Companions
 
 ### Patrons
 
-Harmund's patrons are the nobles and soldiers who come to him for weapons made to order.
+Hármund's patrons are the nobles and soldiers who come to him for weapons made to order.
 
 ### Enemies
 
@@ -436,12 +436,12 @@ Rival blacksmiths covet his reputation.
 
 ## Plot Hooks
 
-1. **The Weaponcrafter (Armorer)'s Dilemma**—A noble wants a blade faster than Harmund can forge it well, and his name rides on whichever he chooses.
+1. **The Weaponcrafter (Armorer)'s Dilemma**—A noble wants a blade faster than Hármund can forge it well, and his name rides on whichever he chooses.
 
-2. **Old Grudges**—A rival blacksmith is passing off inferior work under Harmund's mark.
+2. **Old Grudges**—A rival blacksmith is passing off inferior work under Hármund's mark.
 
-3. **Echoes of the Past**—A blade Harmund forged thirty years ago is brought back to him, and the man carrying it wants to know who commissioned it.
+3. **Echoes of the Past**—A blade Hármund forged thirty years ago is brought back to him, and the man carrying it wants to know who commissioned it.
 
-4. **Shifting Winds**—Political change in Vrystwald threatens the guild standing Harmund depends upon, and he can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Vrystwald threatens the guild standing Hármund depends upon, and he can adapt, resist, or leave.
 
-5. **The Opportunity**—Harmund is offered the arming of a lord's whole household, and its price is not named up front.
+5. **The Opportunity**—Hármund is offered the arming of a lord's whole household, and its price is not named up front.

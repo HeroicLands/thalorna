@@ -26,7 +26,7 @@ data:
     hair_color: brown
     skin_color: medium
     complexion: rough
-    extra_features: [a broken nose, massive hands, carries a heavy battleaxe he calls 'Vara']
+    extra_features: [a broken nose, massive hands, carries a heavy battleaxe he calls 'Vára']
   packFolder: ankarisvrystwald
 sohl:
   items:
@@ -412,7 +412,7 @@ sohl:
 
 ![[grlfdrthgr|Garulf Druthgar]]{float=top-left}
 
-Garulf Druthgar is an enormous man—six foot four, heavy-boned, and packed with the kind of functional muscle that comes from decades of hard use rather than deliberate training. His brown hair is shaggy and unkempt, his gray eyes are small and watchful beneath a heavy brow, and his nose has been broken so many times it sits at a permanent angle. His hands are massive, scarred across the knuckles, and he moves with the deliberate heaviness of a man who knows his own size and uses it as a weapon. He carries a heavy battleaxe he has named "Vara"—a beautifully crafted weapon that is by far the most valuable thing he owns and the only thing he treats with genuine tenderness.
+Garulf Druthgar is an enormous man—six foot four, heavy-boned, and packed with the kind of functional muscle that comes from decades of hard use rather than deliberate training. His brown hair is shaggy and unkempt, his gray eyes are small and watchful beneath a heavy brow, and his nose has been broken so many times it sits at a permanent angle. His hands are massive, scarred across the knuckles, and he moves with the deliberate heaviness of a man who knows his own size and uses it as a weapon. He carries a heavy battleaxe he has named "Vára"—a beautifully crafted weapon that is by far the most valuable thing he owns and the only thing he treats with genuine tenderness.
 
 # Dossier {#dossier}
 
@@ -468,7 +468,7 @@ Crewman of the **Tamzîr**. No other formal affiliations. He maintains a grudgin
 
 ## Plot Hooks
 
-1. **Vara's Origin**: Someone recognizes Garulf's beloved battleaxe and claims it was stolen from a Vrystwald clan chief's tomb. The claim may be legitimate—Garulf won the axe in a card game years ago and never asked its history. Now a Varokh war party wants it back, and they do not care about the niceties of possession.
+1. **Vára's Origin**: Someone recognizes Garulf's beloved battleaxe and claims it was stolen from a Vrystwald clan chief's tomb. The claim may be legitimate—Garulf won the axe in a card game years ago and never asked its history. Now a Varokh war party wants it back, and they do not care about the niceties of possession.
 
 2. **Blood Debt**: The partner Garulf abandoned during the botched robbery survived, served time, and has spent years tracking Garulf down. Now free and vengeful, this former associate knows every port the Tamzîr visits and is closing in.
 

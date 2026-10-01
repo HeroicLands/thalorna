@@ -10,28 +10,33 @@
  *
  * `Skills/Languages/Varokhi.md` states one formation rule and every class of
  * name uses it: a name is an opening element and a closing element, a linking
- * `-a-` may stand at the seam, and a woman's name adds `-a`. Clan names, place
- * names, ranks, offices and orders are built the same way, and the closing
- * decides which of them a name is. This guard asks one question of every
- * Varokhi name the corpus holds — does it fit the rule for its class? — and
- * answers it as a red test with a count per class, because that enumeration is
- * the work list a rename reads.
+ * piece may stand at the seam, and a woman's name closes on the vowel or on one
+ * of the closings a woman's name takes. Clan names, place names, ranks, offices
+ * and orders are built the same way, and the closing decides which of them a
+ * name is. This guard asks one question of every Varokhi name the corpus holds —
+ * does it fit the rule for its class? — and answers it as a red test with a
+ * count per class, because that enumeration is the work list a rename reads.
  *
  * **The note is the single source.** Every predicate here is derived from the
- * note's own tables at run time: the letters, the openings, the closings, the
- * consonant band and the syllable count, the diphthongs, the elements, the
- * ground-closings, the office closings, the kept words, the bynames the page
- * renders in the reader's tongue, and the marks the romanisation refuses.
- * Nothing is restated, because a second copy of a rule drifts from the first
- * the moment either is edited, and the note is where a phonology is settled.
+ * note's own tables at run time: the letters and the digraphs, the openings, the
+ * closings, the consonant band and the beat count, the diphthongs, the linking
+ * pieces, the elements, the ground-closings, the office closings, the closings a
+ * woman's name takes, the kept words, the bynames the page renders in the
+ * reader's tongue, and the marks the romanisation writes and refuses. Nothing is
+ * restated, because a second copy of a rule drifts from the first the moment
+ * either is edited, and the note is where a phonology is settled.
  *
- * Four checks.
+ * Five checks.
  *
  * **The corpus.** Names are read from frontmatter and from the note's own
  * lists, never from prose: a name in frontmatter is a name, while a capitalized
  * word in a sentence is a guess. Each is tested against the class its note
  * declares, and a name that fits no rule for its class is reported with the
  * rule it breaks.
+ *
+ * **The gender a name is given to.** A being's note states the gender, and the
+ * closing states it too, so the two are compared: a man's name closing the way a
+ * woman's closes is a finding on the note that carries it.
  *
  * **The note against itself.** Three of the note's tables can disagree without
  * any name showing it. An element that opens a name stands first in it, so its
@@ -41,31 +46,33 @@
  * publishes. Both sides of each comparison are read off the note.
  *
  * **The derivation.** Every element row names the names it is read from, and
- * every one of those has to stand in one of the note's own three lists. That is
- * what makes the lexicon derived rather than asserted: a row citing a name
- * nothing publishes is a row with nothing behind it.
+ * every one of those has to stand in one of the note's published lists — the
+ * three name lists, or the worked ground and office names. That is what makes
+ * the lexicon derived rather than asserted: a row citing a name nothing
+ * publishes is a row with nothing behind it.
  *
- * **The romanisation.** Varokhi is romanized off Nordmal's table with the row
- * for vowel length struck out, so a Varokhi name carries no length mark at all.
- * The marks the note's own table refuses are read from its `never` column, and
- * any other combining mark is a break too.
+ * **The romanisation.** Varokhi is romanized off Nordmal's table, so it writes
+ * the acute for a long vowel and nothing else. Both halves are read off the
+ * note's own table: the marks it writes from the `written` column, the marks it
+ * refuses from the `never` column, and any other combining mark is a break too.
  *
  * Three traps the rules and this guard answer together:
  *
- * 1. **A mark is not a letter.** A name is demarked before it is decomposed, so
- *    one length mark reports one finding rather than reporting an unknown
- *    letter, a failed decomposition and a wrong consonant band as well.
+ * 1. **A mark is not a letter.** A name is demarked before it is decomposed, and
+ *    so is every element, so `fród-` matches Frodban and Fródbán alike and one
+ *    wrong mark reports one finding rather than reporting an unknown letter, a
+ *    failed decomposition and a wrong consonant band as well.
  * 2. **The feminine `-a` belongs to a given name.** A clan name is unmarked for
- *    gender, so the `-a` is not offered there, and `Velshara` passes on the
- *    `-shara` row rather than on a closing that never existed.
+ *    gender, so the `-a` is not offered there, and `Thaldrá` passes on the
+ *    `-drá` row rather than on a closing that never existed.
  * 3. **A byname is not a Varokhi word.** The note renders bynames in the
  *    reader's tongue, so the Crow and the Weasel are counted and read past.
  *    Every one is printed, because a filter nobody can see is a filter nobody
  *    can check.
  *
- * A guard proves completeness, never accuracy. Whether `-mark` is well glossed
- * as a keeper is a judgement; whether Vithmark is formed the way the note says
- * a clan name is formed is arithmetic, and only the second is answered here.
+ * A guard proves completeness, never accuracy. Whether `-mund` is well glossed
+ * as protection is a judgement; whether Ármund is formed the way the note says a
+ * man's name is formed is arithmetic, and only the second is answered here.
  *
  * Findings are written `file:line:column: severity: message`, the path first on
  * the line and relative to the working directory, with a field dropped rather
@@ -96,8 +103,8 @@ const CULTURE = "varokhiclt";
 /** The tag a body of the forest carries, wherever in the tree it is filed. */
 const TAG = "vrystwald";
 
-/** The digraphs Varokhi writes, each one sound. */
-const DIGRAPHS = ["ch", "kh", "sh", "th", "zh"];
+/** How a digraph is spelled: two of the letters the note's vowel set excludes. */
+const DIGRAPH = /^[^aeiouyáéíóúý]{2}$/;
 
 /** A finding, in the shape every diagnostic in this repository takes. */
 function finding(file, line, column, severity, message) {
@@ -187,17 +194,19 @@ export function marksOf(word) {
 }
 
 /**
- * A word cut into sounds, with each of the digraphs counted as one.
+ * A word cut into sounds, with each of the note's digraphs counted as one.
  *
  * @param {string} word - The name, in any case.
+ * @param {Iterable<string>} digraphs - The digraphs the note writes.
  * @returns {string[]} The sounds, lower case.
  */
-export function sounds(word) {
+export function sounds(word, digraphs) {
+    const pairs = new Set([...digraphs].map((pair) => pair.toLowerCase()));
     const lower = word.toLowerCase();
     const out = [];
     for (let i = 0; i < lower.length;) {
         const pair = lower.slice(i, i + 2);
-        if (DIGRAPHS.includes(pair)) {
+        if (pairs.has(pair)) {
             out.push(pair);
             i += 2;
         } else {
@@ -205,6 +214,30 @@ export function sounds(word) {
             i += 1;
         }
     }
+    return out;
+}
+
+/**
+ * The beats a word runs, a maximal run of vowels counting as one.
+ *
+ * A diphthong is spoken in one beat, so counting vowel letters would report a
+ * name carrying one as a syllable longer than it is said.
+ *
+ * @param {string} word - The name, demarked and lower case.
+ * @param {Set<string>} vowels - The vowels the note writes.
+ * @returns {string[]} One entry per beat, each the run of vowels in it.
+ */
+export function beats(word, vowels) {
+    const out = [];
+    let run = "";
+    for (const letter of word.toLowerCase()) {
+        if (vowels.has(letter)) run += letter;
+        else if (run) {
+            out.push(run);
+            run = "";
+        }
+    }
+    if (run) out.push(run);
     return out;
 }
 
@@ -228,7 +261,12 @@ function sentenceWith(text, phrase) {
 }
 
 /**
- * The three name lists the note publishes.
+ * Every name the note publishes: the three lists, and the worked names the place
+ * and office sections set out.
+ *
+ * The worked tables count as published names because the element lexicon cites
+ * them, and a citation is only worth something when the name behind it is on the
+ * page for a reader to find.
  *
  * @param {string} text - The note.
  * @returns {Array<{name: string, kind: string, listed: string}>} Every name.
@@ -252,6 +290,20 @@ export function listed(text) {
             if (word) out.push({ name: word, kind, listed: heading });
         }
     }
+    // The worked tables, whose first cell is a name and whose second states the
+    // two pieces it is built from. A row whose first cell is backticked is an
+    // element row from the closings table above it, and is passed over.
+    for (const [heading, kind, label] of [
+        ["### Place names", "place", "the worked ground names"],
+        ["### Ranks, offices and orders", "rank", "the worked office names"],
+    ]) {
+        for (const cells of rows(section(text, heading))) {
+            const word = (cells[0] ?? "").trim();
+            if (!word || word.includes("`")) continue;
+            if (!/^[A-Z][\p{L}\p{M}]*$/u.test(word)) continue;
+            out.push({ name: word, kind, listed: label });
+        }
+    }
     return out;
 }
 
@@ -264,23 +316,34 @@ export function listed(text) {
 export function lexiconFrom(text) {
     const sounding = section(text, "### Openings and closings");
 
-    // The letters, from the paragraph that closes the set, and the ones the
-    // same paragraph refuses.
+    // The letters, from the one paragraph that closes the set, and the ones the
+    // same paragraph refuses. The slice stops at the blank line, because a later
+    // paragraph quotes letters to compare the two tongues and those are not the
+    // inventory.
+    const letterFrom = sounding.indexOf("**The letters are a closed set.**");
     const letterPara = sounding.slice(
-        sounding.indexOf("**The letters are a closed set.**"),
-        sounding.indexOf("**What may open a name.**"),
+        letterFrom,
+        sounding.indexOf("\n\n", letterFrom) === -1 ?
+            undefined
+        :   sounding.indexOf("\n\n", letterFrom),
     );
     const letters = new Set();
     for (const run of ticked(letterPara))
         for (const letter of run.split(/\s+/)) letters.add(letter);
     const forbidden = new Set(
-        [...letterPara.matchAll(/no `([a-z])`/g)].map((match) => match[1].toLowerCase()),
+        [...letterPara.matchAll(/no `([\p{L}])`/gu)].map((match) => match[1].toLowerCase()),
     );
     for (const letter of forbidden) letters.delete(letter);
     const vowels = new Set(
         (letterPara.match(/the vowels `([^`]+)`/)?.[1] ?? "")
             .split(/\s+/)
             .filter((letter) => letters.has(letter)),
+    );
+    // The digraphs, which the same paragraph names, each standing for one sound.
+    const digraphs = new Set(
+        (letterPara.match(/the digraphs? `([^`]+)`/)?.[1] ?? "")
+            .split(/\s+/)
+            .filter((pair) => DIGRAPH.test(pair)),
     );
 
     // The openings and the closings.
@@ -305,16 +368,38 @@ export function lexiconFrom(text) {
         band = { low, high, least, most };
     }
 
-    // The diphthongs, from the sentence that closes that set.
-    const diphthongs = new Set(ticked(sentenceWith(sounding, "the free pairs are")));
+    // The diphthongs, from the sentence that closes that set. A pair is vowels
+    // and nothing else, which is what keeps a backticked consonant quoted
+    // alongside out of the set.
+    const diphthongs = new Set(
+        ticked(sentenceWith(sounding, "the free pairs are"))
+            .map((pair) => demark(pair).toLowerCase())
+            .filter((pair) => [...pair].every((letter) => vowels.has(letter))),
+    );
 
-    // The three pieces of the formation rule that are stated in prose: the
-    // vowel that links a seam, the vowel that marks a woman's name, and the one
-    // closing that names either.
-    const linking = ticked(sentenceWith(text, "A linking"))[0]?.replace(/-/g, "") ?? "";
-    const feminine =
-        ticked(sentenceWith(text, "**A woman's name closes on"))[0]?.replace(/^-/, "") ?? "";
-    const either = ticked(sentenceWith(text, "**A name closing on"))[0]?.replace(/^-/, "") ?? "";
+    // The pieces of the formation rule that are stated in prose. A linking piece
+    // is written with a hyphen at both ends, which is what tells it from an
+    // opening and from a closing, so the rules section yields them by spelling.
+    const built = section(text, "### How a name is built");
+    const linking = new Set(
+        ticked(built)
+            .filter((mark) => /^-[\p{L}]+-$/u.test(mark))
+            .map((mark) => demark(mark).replace(/-/g, "").toLowerCase()),
+    );
+    // A woman's name closes on the vowel the rule names first, or on one of the
+    // closings it names after it.
+    const womensRule = ticked(sentenceWith(text, "**A woman's name closes on"));
+    const feminine = demark(womensRule[0] ?? "")
+        .replace(/^-/, "")
+        .toLowerCase();
+    // The rule's prose names the vowel a second time where it says the vowel is
+    // added, so the vowel is taken out of the closings it is read alongside.
+    const womens = new Set(
+        womensRule
+            .slice(1)
+            .map((mark) => demark(mark).replace(/^-/, "").toLowerCase())
+            .filter((close) => close !== feminine),
+    );
 
     // The elements. A row whose entry opens with a hyphen closes a name;
     // anything else opens one. Several spellings may share one row, and every
@@ -335,7 +420,9 @@ export function lexiconFrom(text) {
             )
             .filter((word) => /^[A-Z][\p{L}\p{M}']*$/u.test(word));
         for (const form of forms) {
-            const bare = form.replace(/^-|-$/g, "").toLowerCase();
+            // An element is held demarked, because a name is demarked before it
+            // is decomposed and the two sides have to meet on the same spelling.
+            const bare = demark(form).replace(/^-|-$/g, "").toLowerCase();
             if (form.startsWith("-")) closing.add(bare);
             else opening.add(bare);
             readFrom.set(form, cited);
@@ -344,14 +431,17 @@ export function lexiconFrom(text) {
 
     // The closings a place takes, and the ones an office takes. Both are drawn
     // from the closings above, so each table is checked against that lexicon
-    // rather than standing on its own.
+    // rather than standing on its own. Each section also carries a table of
+    // worked names, whose first cell is a name rather than a backticked element,
+    // so only the backticked cells reach these two sets.
     const ground = new Set();
     for (const cells of rows(section(text, "### Place names")))
-        for (const form of ticked(cells[0] ?? "")) ground.add(form.replace(/^-/, "").toLowerCase());
+        for (const form of ticked(cells[0] ?? ""))
+            ground.add(demark(form).replace(/^-/, "").toLowerCase());
     const offices = new Set();
     for (const cells of rows(section(text, "### Ranks, offices and orders")))
         for (const form of ticked(cells[0] ?? ""))
-            offices.add(form.replace(/^-/, "").toLowerCase());
+            offices.add(demark(form).replace(/^-/, "").toLowerCase());
 
     // The particle that joins two names in a company's or an order's name, and
     // the words the tongue gives whole.
@@ -380,12 +470,20 @@ export function lexiconFrom(text) {
             .filter(Boolean),
     );
 
-    // The marks the romanisation refuses, from its own `never` column.
+    // The marks the romanisation writes, from its `written` column, and the ones
+    // it refuses, from its `never` column. Both halves are read, because a mark
+    // the table writes is as much a rule as a mark it strikes out.
+    const written = new Map();
     const refused = new Map();
     for (const cells of rows(section(text, "### Romanizing Varokhi"))) {
-        for (const run of ticked(cells[2] ?? "")) {
-            for (const letter of run.split(/\s+/)) {
-                for (const mark of marksOf(letter)) refused.set(mark, letter);
+        for (const [column, into] of [
+            [1, written],
+            [2, refused],
+        ]) {
+            for (const run of ticked(cells[column] ?? "")) {
+                for (const letter of run.split(/\s+/)) {
+                    for (const mark of marksOf(letter)) into.set(mark, letter);
+                }
             }
         }
     }
@@ -394,6 +492,7 @@ export function lexiconFrom(text) {
         letters,
         forbidden,
         vowels,
+        digraphs,
         onsets,
         finals,
         finalClusters,
@@ -401,7 +500,7 @@ export function lexiconFrom(text) {
         diphthongs,
         linking,
         feminine,
-        either,
+        womens,
         opening,
         closing,
         readFrom,
@@ -410,6 +509,7 @@ export function lexiconFrom(text) {
         kept,
         joiner,
         readerTongue,
+        written,
         refused,
     };
 }
@@ -417,11 +517,11 @@ export function lexiconFrom(text) {
 /**
  * Whether a demarked word is an opening element and a closing element.
  *
- * The search is exhaustive rather than greedy, because `keth-` and `kheth-` are
- * one row written two ways and `-mar` stands inside `-marthir`, so a
- * longest-first pass would take the wrong piece and report a lawful name as
- * broken. A linking vowel may stand at the seam, and a given name may add the
- * vowel that marks a woman's.
+ * The search is exhaustive rather than greedy, because `gar-` and `gár-` are one
+ * row written two ways and `-ar` stands inside `-jagár`, so a longest-first pass
+ * would take the wrong piece and report a lawful name as broken. Any of the
+ * linking pieces may stand at the seam, and a given name may add the vowel that
+ * marks a woman's.
  *
  * @param {string} word - The name, lower case and demarked.
  * @param {object} rule - The derived lexicon.
@@ -432,9 +532,9 @@ export function lexiconFrom(text) {
 export function decompose(word, rule, last, gendered) {
     for (const head of rule.opening) {
         if (!word.startsWith(head) || word.length === head.length) continue;
-        for (const seam of rule.linking ? ["", rule.linking] : [""]) {
-            const rest = word.slice(head.length + seam.length);
+        for (const seam of ["", ...rule.linking]) {
             if (seam && !word.startsWith(head + seam)) continue;
+            const rest = word.slice(head.length + seam.length);
             if (!rest) continue;
             for (const tail of last) {
                 if (rest === tail) return [head, tail];
@@ -455,21 +555,24 @@ export function decompose(word, rule, last, gendered) {
  */
 export function shape(name, rule) {
     const broken = [];
-    const marks = marksOf(name);
-    if (marks.length) {
+    // A mark the romanisation writes is a letter's length and nothing to report;
+    // any other mark is a break, whether the table strikes it out by name or
+    // says nothing about it at all.
+    const stray = marksOf(name).filter((mark) => !rule.written.has(mark));
+    if (stray.length) {
         // The letters as the name writes them, so a reader sees where the mark
         // sits rather than the bare combining character.
         const shown = [
             ...new Set(
                 [...name.normalize("NFC")]
-                    .filter((letter) => marksOf(letter).length)
+                    .filter((letter) => marksOf(letter).some((mark) => stray.includes(mark)))
                     .map((letter) => `"${letter}"`),
             ),
         ].join(", ");
-        const refused = marks.every((mark) => rule.refused.has(mark));
+        const named = stray.every((mark) => rule.refused.has(mark));
         broken.push(
-            refused ?
-                `it carries ${shown}, a length mark, and Varokhi marks no vowel long`
+            named ?
+                `it carries ${shown}, a mark the romanisation strikes out`
             :   `it carries ${shown}, a mark the romanisation does not write`,
         );
     }
@@ -477,7 +580,7 @@ export function shape(name, rule) {
         broken.push("it carries an apostrophe, and Varokhi has no glottal stop");
 
     const bare = demark(name);
-    const segs = sounds(bare);
+    const segs = sounds(bare, rule.digraphs);
     for (const seg of segs) {
         if (rule.letters.has(seg)) continue;
         // Everything downstream reads an unknown letter as a consonant, so one
@@ -498,8 +601,12 @@ export function shape(name, rule) {
     if (coda && !rule.finals.has(coda) && !rule.finalClusters.has(coda))
         broken.push(`it closes on "${coda}", which no Varokhi name closes on`);
 
+    const lower = bare.toLowerCase();
     const vowelCount = segs.filter((seg) => rule.vowels.has(seg)).length;
     const consonants = segs.length - vowelCount;
+    // A diphthong is one beat, so the beats are counted off the vowel runs and
+    // the band is counted off the vowels themselves.
+    const run = beats(lower, rule.vowels);
     if (vowelCount === 0) broken.push("it carries no vowel");
     else {
         const { low, high, least, most } = rule.band;
@@ -508,19 +615,41 @@ export function shape(name, rule) {
             broken.push(
                 `it carries ${ratio.toFixed(2)} consonants to the vowel, outside the ${low} to ${high} band`,
             );
-        if (vowelCount < least || vowelCount > most)
+        if (run.length < least || run.length > most)
             broken.push(
-                `it runs ${vowelCount} syllable(s), outside the ${least} to ${most} a Varokhi name runs`,
+                `it runs ${run.length} beat(s), outside the ${least} to ${most} a Varokhi name runs`,
             );
     }
 
-    const lower = bare.toLowerCase();
-    for (const pair of lower.matchAll(/[aeiouy]{2,}/g)) {
-        if (pair[0].length > 2 || !rule.diphthongs.has(pair[0]))
-            broken.push(`"${pair[0]}" is not one of the diphthongs Varokhi writes`);
+    for (const pair of run) {
+        if (pair.length === 1) continue;
+        if (pair.length > 2 || !rule.diphthongs.has(pair))
+            broken.push(`"${pair}" is not one of the diphthongs Varokhi writes`);
     }
-    if (/(.)\1/.test(lower)) broken.push("it doubles a letter, and no Varokhi name doubles one");
     return broken;
+}
+
+/**
+ * Whether a name closes the way a woman's name closes.
+ *
+ * @param {string} name - The name as written.
+ * @param {object} rule - The derived lexicon.
+ * @returns {boolean} True when the vowel or one of the women's closings stands last.
+ */
+export function womanly(name, rule) {
+    const bare = demark(name).toLowerCase();
+    if (rule.feminine && bare.endsWith(rule.feminine)) return true;
+    return [...rule.womens].some((close) => bare.endsWith(close));
+}
+
+/** The closings a woman's name takes, written out for a finding. @returns {string} */
+function closingList(rule) {
+    return (
+        [...rule.womens]
+            .sort((a, b) => a.localeCompare(b, "en"))
+            .map((close) => `"-${close}"`)
+            .join(", ") || "the closings a woman's name takes"
+    );
 }
 
 /**
@@ -589,12 +718,12 @@ export function corpus(rule) {
     // an order's name may be two Varokhi names joined by the particle the note
     // keeps. So a joined name is judged as its halves, a title of more than one
     // word is counted and printed, and a single word is judged.
-    const add = (name, kind, file, raw, framed = false) => {
+    const add = (name, kind, file, raw, framed = false, gender = null) => {
         if (typeof name !== "string" || !name.trim()) return;
         const word = name.trim();
         const halves = rule.joiner ? word.split(new RegExp(`\\s+${rule.joiner}\\s+`, "i")) : [word];
         if (halves.length > 1) {
-            for (const half of halves) add(half, kind, file, raw, framed);
+            for (const half of halves) add(half, kind, file, raw, framed, gender);
             return;
         }
         if (framed && /\s/.test(word)) {
@@ -602,7 +731,7 @@ export function corpus(rule) {
             return;
         }
         const { line, column } = positionOf(raw, word);
-        found.push({ name: word, kind, file, line, column });
+        found.push({ name: word, kind, file, line, column, gender });
     };
 
     for (const file of markdownFiles(CONTENT_DIR)) {
@@ -630,7 +759,7 @@ export function corpus(rule) {
             // the clan, which is the order the note's own introduction uses.
             const given = front.name?.given ?? (parts.length >= 2 ? parts[0] : null);
             const clan = front.name?.clan ?? (parts.length >= 2 ? parts[1] : null);
-            add(given, "given", file, raw);
+            add(given, "given", file, raw, false, front.data?.gender ?? null);
             add(clan, "clan", file, raw);
             let rest = full;
             for (const part of [given, clan].filter(Boolean))
@@ -684,7 +813,7 @@ export function checkElements(rule, note) {
     const out = [];
     const at = (literal) => positionOf(note, literal);
     for (const element of [...rule.opening].sort((a, b) => a.localeCompare(b, "en"))) {
-        const segs = sounds(element);
+        const segs = sounds(element, rule.digraphs);
         let i = 0;
         while (i < segs.length && !rule.vowels.has(segs[i])) i += 1;
         const onset = segs.slice(0, i).join("");
@@ -701,7 +830,7 @@ export function checkElements(rule, note) {
         );
     }
     for (const element of [...rule.closing].sort((a, b) => a.localeCompare(b, "en"))) {
-        const segs = sounds(element);
+        const segs = sounds(element, rule.digraphs);
         let i = segs.length;
         while (i > 0 && !rule.vowels.has(segs[i - 1])) i -= 1;
         const coda = segs.slice(i).join("");
@@ -794,33 +923,47 @@ export function checkLists(names, rule) {
                     ),
                 );
             seen.add(row.name);
-            // A woman's name is marked by the vowel and a man's by its absence,
-            // so each list is held to the half of the rule it carries.
+            // A woman's name closes on the vowel or on one of the closings the
+            // rule names, and a man's on neither, so each list is held to the
+            // half of the rule it carries.
             if (!/Given Names$/.test(heading)) continue;
-            const bare = demark(row.name).toLowerCase();
-            const feminine =
-                rule.feminine ? bare.endsWith(rule.feminine) || bare.endsWith(rule.either) : false;
-            if (/^## Female/.test(heading) && !feminine)
+            if (/^## Female/.test(heading) && !womanly(row.name, rule))
                 out.push(
                     finding(
                         NOTE,
                         row.line,
                         row.column,
                         "error",
-                        `${heading} lists "${row.name}", which closes on neither the "-${rule.feminine}" a woman's name takes nor the "-${rule.either}" that names either`,
+                        `${heading} lists "${row.name}", which closes on neither the "-${rule.feminine}" a woman's name takes nor any of ${closingList(rule)}`,
                     ),
                 );
-            if (/^## Male/.test(heading) && bare.endsWith(rule.feminine))
+            if (/^## Male/.test(heading) && womanly(row.name, rule))
                 out.push(
                     finding(
                         NOTE,
                         row.line,
                         row.column,
                         "error",
-                        `${heading} lists "${row.name}", which closes on the "-${rule.feminine}" that marks a woman's name`,
+                        `${heading} lists "${row.name}", which closes the way a woman's name closes`,
                     ),
                 );
         }
+    }
+    // A name in both given-name lists is one name claimed by two genders, and
+    // the rule marks gender by the closing alone, so it cannot be both.
+    const given = inLists.filter((row) => /Given Names$/.test(row.listed));
+    for (const row of given.filter((row) => /^## Male/.test(row.listed))) {
+        if (!given.some((other) => /^## Female/.test(other.listed) && other.name === row.name))
+            continue;
+        out.push(
+            finding(
+                NOTE,
+                row.line,
+                row.column,
+                "error",
+                `"${row.name}" stands in both given-name lists, and the closing marks one gender or the other`,
+            ),
+        );
     }
     // Every element the lexicon publishes stands in a listed name, or the
     // lexicon is carrying a piece the tongue does not use.
@@ -864,6 +1007,7 @@ function main() {
     // notes, and that is one piece of work.
     const offDistinct = new Map();
     const marked = new Set();
+    const mismatched = new Set();
     for (const row of names) {
         if (row.kind === "unreadable") {
             out.push(
@@ -879,6 +1023,23 @@ function main() {
         }
         byClass.set(row.kind, (byClass.get(row.kind) ?? 0) + 1);
         if (marksOf(row.name).length) marked.add(row.name);
+        // The closing marks the gender, and the note states it too, so a
+        // disagreement between the two is reported on the note that carries it.
+        if (row.kind === "given" && (row.gender === "male" || row.gender === "female")) {
+            const womanish = womanly(row.name, rule);
+            if (womanish !== (row.gender === "female")) {
+                mismatched.add(row.name);
+                out.push(
+                    finding(
+                        row.file,
+                        row.line,
+                        row.column,
+                        "error",
+                        `"${row.name}" is given to a ${row.gender} and closes the way a ${womanish ? "woman" : "man"}'s name closes`,
+                    ),
+                );
+            }
+        }
         const broken = judge(row.name, row.kind, rule);
         if (!broken.length) continue;
         offByClass.set(row.kind, (offByClass.get(row.kind) ?? 0) + 1);
@@ -908,13 +1069,16 @@ function main() {
             .join("  ");
 
     say(
-        `The rules are read off ${NOTE}: ${rule.letters.size} letters and digraphs, ` +
-            `${rule.onsets.size} openings, ${rule.finals.size + rule.finalClusters.size} closings, ` +
+        `The rules are read off ${NOTE}: ${rule.letters.size} letters, ` +
+            `${rule.digraphs.size} digraph(s), ${rule.onsets.size} openings, ` +
+            `${rule.finals.size + rule.finalClusters.size} closings, ` +
             `${rule.opening.size} opening element(s), ${rule.closing.size} closing element(s), ` +
             `${rule.ground.size} ground-closing(s), ${rule.offices.size} office closing(s), ` +
+            `${rule.linking.size} linking piece(s), ${rule.womens.size} closing(s) a woman's name takes, ` +
             `${rule.kept.size} kept word(s), ${rule.diphthongs.size} diphthong(s), ` +
             `a band of ${rule.band.low} to ${rule.band.high} consonants per vowel across ` +
-            `${rule.band.least} to ${rule.band.most} syllables, and ${rule.refused.size} refused mark(s).`,
+            `${rule.band.least} to ${rule.band.most} beats, ${rule.written.size} mark(s) written ` +
+            `and ${rule.refused.size} struck out.`,
     );
     say(`Names read: ${list(byClass)}`);
     say(
@@ -933,8 +1097,13 @@ function main() {
     }
     say(
         marked.size ?
-            `Names carrying a length mark the romanisation refuses (${marked.size}): ${[...marked].sort((a, b) => a.localeCompare(b, "en")).join(", ")}`
-        :   "No name carries a length mark.",
+            `Names carrying a mark (${marked.size}): ${[...marked].sort((a, b) => a.localeCompare(b, "en")).join(", ")}`
+        :   "No name carries a mark.",
+    );
+    say(
+        mismatched.size ?
+            `Given names whose closing and whose note disagree about gender (${mismatched.size}): ${[...mismatched].sort((a, b) => a.localeCompare(b, "en")).join(", ")}`
+        :   "Every given name closes the way its note's gender says it closes.",
     );
     // Printed rather than hidden, because a filter nobody can see is a filter
     // nobody can check.

@@ -1,6 +1,6 @@
 ---
 shortcode: wthrcdrthgr
-name: {full: Witharic Druthgar, aliases: []}
+name: {full: Wítharic Druthgar, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -400,15 +400,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Witharic Druthgar is a 42-year-old man who stands 6'0" tall and is broad and solidly built. He has a diamond face with broad cheekbones, a lined forehead, and a heavy jaw that leads to a strong chin. His piercing blue eyes sit beneath thick brows, lending him a penetrating gaze. A broad nose and thin lips complete his features. He has medium-toned skin with a weathered complexion. His dark brown hair is matted from years of outdoor work. A notable feature is a burn scar on the right forearm.
+Wítharic Druthgar is a 42-year-old man who stands 6'0" tall and is broad and solidly built. He has a diamond face with broad cheekbones, a lined forehead, and a heavy jaw that leads to a strong chin. His piercing blue eyes sit beneath thick brows, lending him a penetrating gaze. A broad nose and thin lips complete his features. He has medium-toned skin with a weathered complexion. His dark brown hair is matted from years of outdoor work. A notable feature is a burn scar on the right forearm.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a guilded family of Varokhi heritage, Witharic Druthgar came into the world of the shipwright through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a guilded family of Varokhi heritage, Wítharic Druthgar came into the world of the shipwright through a combination of circumstance and aptitude.
 
-Witharic hails from a long line of shipwrights and inherited his family's business. He specializes in crafting warships, and his vessels are highly prized for their durability and speed. Witharic is a hard worker but struggles with the administrative side of the business. His temper can flare when things don't go according to plan, especially with clients who constantly change their requirements.
+Wítharic hails from a long line of shipwrights and inherited his family's business. He specializes in crafting warships, and his vessels are highly prized for their durability and speed. Wítharic is a hard worker but struggles with the administrative side of the business. His temper can flare when things don't go according to plan, especially with clients who constantly change their requirements.
 
-Now at 42 years of age, Witharic Druthgar has established himself as a known figure among the shipwrights of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 42 years of age, Wítharic Druthgar has established himself as a known figure among the shipwrights of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
 ## Psyche
 
@@ -418,7 +418,7 @@ Poor management skills, quick-tempered under stress.
 
 ### Motivation
 
-Witharic is driven by the desire to master his craft and secure a stable future. The uncertainties of life in shipwright work keep him vigilant and adaptable.
+Wítharic is driven by the desire to master his craft and secure a stable future. The uncertainties of life in shipwright work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -426,15 +426,15 @@ Expertise in constructing durable warships, strong work ethic.
 
 ## Social
 
-Witharic is affiliated with Maritime Shipwrights' Guild.
+Wítharic is affiliated with Maritime Shipwrights' Guild.
 
-As a Varokhi shipwright, Witharic occupies a recognized social niche within Vrystwald society.
+As a Varokhi shipwright, Wítharic occupies a recognized social niche within Vrystwald society.
 
 ## Companions
 
 ### Patrons
 
-Witharic's primary patron is Nobles and military officials seeking warships.. This relationship provides both opportunity and obligation.
+Wítharic's primary patron is Nobles and military officials seeking warships.. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -442,12 +442,12 @@ Bureaucrats who clash with his no-nonsense approach.
 
 ## Plot Hooks
 
-1. **The Shipwright's Dilemma**—Witharic faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
+1. **The Shipwright's Dilemma**—Wítharic faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
 
 2. **Old Grudges**—Bureaucrats who clash with his no-nonsense approach. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Witharic's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Wítharic's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vrystwald threaten to upend the social order that Witharic depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vrystwald threaten to upend the social order that Wítharic depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Witharic the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Wítharic the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

@@ -1,6 +1,6 @@
 ---
 shortcode: armndhldskrn
-name: {full: Armund Hildskorn, aliases: []}
+name: {full: Ármund Hildskorn, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -393,15 +393,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Armund Hildskorn is a 30-year-old man who stands 5'7" tall and is lean and wiry. He has a diamond face with sharp cheekbones, a prominent forehead, and a heavy jaw that leads to a broad chin. His bright green eyes sit beneath prominent brows, lending him a lively gaze. A strong nose and thin lips complete his features. He has fair skin with a lightly freckled complexion. His red hair is matted from years of outdoor work.
+Ármund Hildskorn is a 30-year-old man who stands 5'7" tall and is lean and wiry. He has a diamond face with sharp cheekbones, a prominent forehead, and a heavy jaw that leads to a broad chin. His bright green eyes sit beneath prominent brows, lending him a lively gaze. A strong nose and thin lips complete his features. He has fair skin with a lightly freckled complexion. His red hair is matted from years of outdoor work.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Armund Hildskorn came into the world of the jester through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Ármund Hildskorn came into the world of the jester through a combination of circumstance and aptitude.
 
-Armund grew up in the bustling streets of the city, using humor and wit to entertain those around him. He earned a reputation as a talented jester, known for his clever wordplay, acrobatics, and mimicry. Armund now serves as the jester for the Duke, entertaining guests with his antics and providing comic relief during formal events. Despite his cheerful demeanor, he often uses humor to mask deeper insecurities.
+Ármund grew up in the bustling streets of the city, using humor and wit to entertain those around him. He earned a reputation as a talented jester, known for his clever wordplay, acrobatics, and mimicry. Ármund now serves as the jester for the Duke, entertaining guests with his antics and providing comic relief during formal events. Despite his cheerful demeanor, he often uses humor to mask deeper insecurities.
 
-Now at 30 years of age, Armund Hildskorn has established himself as a known figure among the jesters of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 30 years of age, Ármund Hildskorn has established himself as a known figure among the jesters of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
 ## Psyche
 
@@ -411,7 +411,7 @@ Can be overly self-critical, struggles with maintaining serious relationships.
 
 ### Motivation
 
-Armund is driven by the desire to master his craft and secure a stable future. The uncertainties of life in jester work keep him vigilant and adaptable.
+Ármund is driven by the desire to master his craft and secure a stable future. The uncertainties of life in jester work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -419,15 +419,15 @@ Quick-witted, skilled performer, adept at reading the crowd.
 
 ## Social
 
-Armund is affiliated with None; works independently..
+Ármund is affiliated with None; works independently..
 
-As a Varokhi jester, Armund occupies a recognized social niche within Vrystwald society.
+As a Varokhi jester, Ármund occupies a recognized social niche within Vrystwald society.
 
 ## Companions
 
 ### Patrons
 
-Armund's primary patron is The Duke and visiting nobles.. This relationship provides both opportunity and obligation.
+Ármund's primary patron is The Duke and visiting nobles.. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -435,12 +435,12 @@ Rival jesters who envy his popularity.
 
 ## Plot Hooks
 
-1. **The Jester's Dilemma**—Armund faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
+1. **The Jester's Dilemma**—Ármund faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
 
 2. **Old Grudges**—Rival jesters who envy his popularity. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Armund's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Ármund's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vrystwald threaten to upend the social order that Armund depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vrystwald threaten to upend the social order that Ármund depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Armund the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Ármund the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

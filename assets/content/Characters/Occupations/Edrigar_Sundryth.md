@@ -1,6 +1,6 @@
 ---
 shortcode: edrgrsndryth
-name: {full: Edrigar Sundryth, aliases: []}
+name: {full: Edrígar Sundrýth, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -395,15 +395,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Edrigar Sundryth is a 45-year-old man who stands 6'1" tall and is broad and solidly built. He has an angular face with sharp cheekbones, a wide forehead, and an angular jaw that leads to a square chin. His bright brown eyes sit beneath prominent brows, lending him a lively gaze. A straight nose and wide lips complete his features. He has light skin with a rough complexion. His auburn hair is pulled back in a warrior's knot.
+Edrígar Sundrýth is a 45-year-old man who stands 6'1" tall and is broad and solidly built. He has an angular face with sharp cheekbones, a wide forehead, and an angular jaw that leads to a square chin. His bright brown eyes sit beneath prominent brows, lending him a lively gaze. A straight nose and wide lips complete his features. He has light skin with a rough complexion. His auburn hair is pulled back in a warrior's knot.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Edrigar Sundryth came into the world of the miner through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Edrígar Sundrýth came into the world of the miner through a combination of circumstance and aptitude.
 
-Edrigar is a veteran miner with decades of experience in the field. He has worked in various mines and has a deep understanding of geology and extraction methods. Known for his wisdom and mentoring abilities, Edrigar often trains younger miners and shares his knowledge of the trade. He values the importance of safety and has fought for better conditions in the mines.
+Edrígar is a veteran miner with decades of experience in the field. He has worked in various mines and has a deep understanding of geology and extraction methods. Known for his wisdom and mentoring abilities, Edrígar often trains younger miners and shares his knowledge of the trade. He values the importance of safety and has fought for better conditions in the mines.
 
-Now at 45 years of age, Edrigar Sundryth has established himself as a known figure among the miners of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 45 years of age, Edrígar Sundrýth has established himself as a known figure among the miners of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
 ## Psyche
 
@@ -413,7 +413,7 @@ Can be resistant to change, struggles with the physical demands of mining due to
 
 ### Motivation
 
-Edrigar is driven by the desire to master his craft and secure a stable future. The uncertainties of life in miner work keep him vigilant and adaptable.
+Edrígar is driven by the desire to master his craft and secure a stable future. The uncertainties of life in miner work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -421,15 +421,15 @@ Highly knowledgeable, excellent mentor, strong work ethic.
 
 ## Social
 
-Edrigar is affiliated with Local Miners' Union.
+Edrígar is affiliated with Local Miners' Union.
 
-As a Varokhi miner, Edrigar occupies a recognized social niche within Vrystwald society.
+As a Varokhi miner, Edrígar occupies a recognized social niche within Vrystwald society.
 
 ## Companions
 
 ### Patrons
 
-Edrigar's primary patron is Mining companies and local jewelers seeking expert advice.. This relationship provides both opportunity and obligation.
+Edrígar's primary patron is Mining companies and local jewelers seeking expert advice.. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -437,12 +437,12 @@ Few; generally respected but sometimes viewed as old-fashioned.
 
 ## Plot Hooks
 
-1. **The Miner's Dilemma**—Edrigar faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
+1. **The Miner's Dilemma**—Edrígar faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
 
 2. **Old Grudges**—Few; generally respected but sometimes viewed as old-fashioned. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Edrigar's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Edrígar's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vrystwald threaten to upend the social order that Edrigar depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vrystwald threaten to upend the social order that Edrígar depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Edrigar the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Edrígar the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

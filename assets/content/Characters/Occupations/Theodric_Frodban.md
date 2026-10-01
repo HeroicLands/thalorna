@@ -1,6 +1,6 @@
 ---
 shortcode: thdrcfrdbn
-name: {full: Theodric Frodban, aliases: [Theodric Froban]}
+name: {full: Theódric Fródbán, aliases: [Theodric Froban]}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -394,15 +394,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Theodric Frodban is a 36-year-old man who stands 6'3" tall and is broad and solidly built. He has an angular face with prominent cheekbones, a high forehead, and a heavy jaw that leads to a broad chin. His wide-set gray eyes sit beneath prominent brows, lending him an open gaze. A straight nose and curved lips complete his features. He has fair skin with a rough complexion. His blonde hair is braided at the temples.
+Theódric Fródbán is a 36-year-old man who stands 6'3" tall and is broad and solidly built. He has an angular face with prominent cheekbones, a high forehead, and a heavy jaw that leads to a broad chin. His wide-set gray eyes sit beneath prominent brows, lending him an open gaze. A straight nose and curved lips complete his features. He has fair skin with a rough complexion. His blonde hair is braided at the temples.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Theodric Frodban came into the world of the miner through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Theódric Fródbán came into the world of the miner through a combination of circumstance and aptitude.
 
-Theodric has worked in the mines since he was a teenager, following in his father's footsteps. He specializes in extracting precious metals and stones, using his strength and experience to navigate the treacherous tunnels. Theodric is known for his reliability and strong work ethic, often taking on the most challenging tasks. He values camaraderie among his fellow miners and believes in looking out for one another.
+Theódric has worked in the mines since he was a teenager, following in his father's footsteps. He specializes in extracting precious metals and stones, using his strength and experience to navigate the treacherous tunnels. Theódric is known for his reliability and strong work ethic, often taking on the most challenging tasks. He values camaraderie among his fellow miners and believes in looking out for one another.
 
-Now at 36 years of age, Theodric Frodban has established himself as a known figure among the miners of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 36 years of age, Theódric Fródbán has established himself as a known figure among the miners of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
 ## Psyche
 
@@ -412,7 +412,7 @@ Can be overly cautious, struggles with technical mining kit.
 
 ### Motivation
 
-Theodric is driven by the desire to master his craft and secure a stable future. The uncertainties of life in miner work keep him vigilant and adaptable.
+Theódric is driven by the desire to master his craft and secure a stable future. The uncertainties of life in miner work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -420,15 +420,15 @@ Physically strong, experienced in mining techniques, good team player.
 
 ## Social
 
-Theodric is affiliated with Local Miners' Union.
+Theódric is affiliated with Local Miners' Union.
 
-As a Varokhi miner, Theodric occupies a recognized social niche within Vrystwald society.
+As a Varokhi miner, Theódric occupies a recognized social niche within Vrystwald society.
 
 ## Companions
 
 ### Patrons
 
-Theodric's primary patron is Local mining companies and merchants buying precious metals.. This relationship provides both opportunity and obligation.
+Theódric's primary patron is Local mining companies and merchants buying precious metals.. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -436,12 +436,12 @@ Few; generally well-respected among peers.
 
 ## Plot Hooks
 
-1. **The Miner's Dilemma**—Theodric faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
+1. **The Miner's Dilemma**—Theódric faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
 
 2. **Old Grudges**—Few; generally well-respected among peers. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Theodric's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Theódric's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vrystwald threaten to upend the social order that Theodric depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vrystwald threaten to upend the social order that Theódric depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Theodric the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Theódric the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

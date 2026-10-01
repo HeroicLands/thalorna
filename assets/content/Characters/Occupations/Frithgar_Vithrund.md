@@ -1,6 +1,6 @@
 ---
 shortcode: frthgrvthrnd
-name: {full: Frithgar Vithrund, aliases: []}
+name: {full: Frithgár Vithrúnd, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -393,15 +393,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Frithgar Vithrund is a 42-year-old man who stands 6'2" tall and is broad and solidly built. He has an angular face with high cheekbones, a smooth forehead, and a square jaw that leads to a firm chin. His hooded green eyes sit beneath furrowed brows, lending him a guarded gaze. A strong nose and narrow lips complete his features. He has fair skin with a ruddy complexion. His red hair is pulled back in a warrior's knot.
+Frithgár Vithrúnd is a 42-year-old man who stands 6'2" tall and is broad and solidly built. He has an angular face with high cheekbones, a smooth forehead, and a square jaw that leads to a firm chin. His hooded green eyes sit beneath furrowed brows, lending him a guarded gaze. A strong nose and narrow lips complete his features. He has fair skin with a ruddy complexion. His red hair is pulled back in a warrior's knot.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Frithgar Vithrund came into the world of the huscarl through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Frithgár Vithrúnd came into the world of the huscarl through a combination of circumstance and aptitude.
 
-Frithgar has served as a loyal huscarl for Lord Sigvald for many years. With extensive battle experience, he has seen his share of conflicts and knows how to handle himself in the heat of battle. Frithgar is respected for his tactical knowledge and ability to mentor younger warriors. He aims to pass down his wisdom and ensure the next generation is ready to defend their lord.
+Frithgár has served as a loyal huscarl for Lord Sigvald for many years. With extensive battle experience, he has seen his share of conflicts and knows how to handle himself in the heat of battle. Frithgár is respected for his tactical knowledge and ability to mentor younger warriors. He aims to pass down his wisdom and ensure the next generation is ready to defend their lord.
 
-Now at 42 years of age, Frithgar Vithrund has established himself as a known figure among the huscarls of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 42 years of age, Frithgár Vithrúnd has established himself as a known figure among the huscarls of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
 ## Psyche
 
@@ -411,7 +411,7 @@ Sometimes too rigid in his tactics, can be slow to adapt.
 
 ### Motivation
 
-Frithgar is driven by the desire to master his craft and secure a stable future. The uncertainties of life in huscarl work keep him vigilant and adaptable.
+Frithgár is driven by the desire to master his craft and secure a stable future. The uncertainties of life in huscarl work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -419,15 +419,15 @@ Experienced strategist, skilled in melee combat, good mentor.
 
 ## Social
 
-Frithgar is affiliated with Lord Sigvald's retinue.
+Frithgár is affiliated with Lord Sigvald's retinue.
 
-As a Varokhi huscarl, Frithgar occupies a recognized social niche within Vrystwald society.
+As a Varokhi huscarl, Frithgár occupies a recognized social niche within Vrystwald society.
 
 ## Companions
 
 ### Patrons
 
-Frithgar's primary patron is Lord Sigvald and his retainers.. This relationship provides both opportunity and obligation.
+Frithgár's primary patron is Lord Sigvald and his retainers.. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -435,12 +435,12 @@ Few; respected in the community.
 
 ## Plot Hooks
 
-1. **The Huscarl's Dilemma**—Frithgar faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
+1. **The Huscarl's Dilemma**—Frithgár faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
 
 2. **Old Grudges**—Few; respected in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Frithgar's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Frithgár's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vrystwald threaten to upend the social order that Frithgar depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vrystwald threaten to upend the social order that Frithgár depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Frithgar the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Frithgár the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

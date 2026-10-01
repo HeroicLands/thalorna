@@ -1,6 +1,6 @@
 ---
 shortcode: thdrsndryth
-name: {full: Theodris Sundryth, aliases: []}
+name: {full: Theódris Sundrýth, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -391,15 +391,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Theodris Sundryth is a 29-year-old woman who stands 5'3" tall and is slender. She has a square face with defined cheekbones, a lined forehead, and a heavy jaw that leads to a broad chin. Her round blue eyes sit beneath heavy brows, lending her a candid gaze. A strong nose and full lips complete her features. She has light skin with a ruddy complexion. Her dark blonde hair is plaited in a single thick braid.
+Theódris Sundrýth is a 29-year-old woman who stands 5'3" tall and is slender. She has a square face with defined cheekbones, a lined forehead, and a heavy jaw that leads to a broad chin. Her round blue eyes sit beneath heavy brows, lending her a candid gaze. A strong nose and full lips complete her features. She has light skin with a ruddy complexion. Her dark blonde hair is plaited in a single thick braid.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Theodris Sundryth came into the world of the beggar through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Theódris Sundrýth came into the world of the beggar through a combination of circumstance and aptitude.
 
-Theodris was left to fend for herself at a young age after her mother passed away. She learned to survive on the streets, using her wits to find food and avoid trouble. Her beautiful singing voice has brought her occasional favor, though she still struggles to escape the cycle of poverty.
+Theódris was left to fend for herself at a young age after her mother passed away. She learned to survive on the streets, using her wits to find food and avoid trouble. Her beautiful singing voice has brought her occasional favor, though she still struggles to escape the cycle of poverty.
 
-Now at 29 years of age, Theodris Sundryth has established herself as a known figure among the beggars of Vrystwald. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 29 years of age, Theódris Sundrýth has established herself as a known figure among the beggars of Vrystwald. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
 ## Psyche
 
@@ -409,7 +409,7 @@ Easily taken advantage of due to her trusting nature.
 
 ### Motivation
 
-Theodris is driven by the desire to master her craft and secure a stable future. The uncertainties of life in beggar work keep her vigilant and adaptable.
+Theódris is driven by the desire to master her craft and secure a stable future. The uncertainties of life in beggar work keep her vigilant and adaptable.
 
 ### Strengths
 
@@ -417,15 +417,15 @@ Charismatic and a talented singer.
 
 ## Social
 
-Theodris is affiliated with Informal network of street performers..
+Theódris is affiliated with Informal network of street performers..
 
-As a Varokhi beggar, Theodris occupies a recognized social niche within Vrystwald society.
+As a Varokhi beggar, Theódris occupies a recognized social niche within Vrystwald society.
 
 ## Companions
 
 ### Patrons
 
-Theodris's primary patron is Occasionally receives coin for singing from kind strangers.. This relationship provides both opportunity and obligation.
+Theódris's primary patron is Occasionally receives coin for singing from kind strangers.. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,12 +433,12 @@ None, but has been targeted by pickpockets.
 
 ## Plot Hooks
 
-1. **The Beggar's Dilemma**—Theodris faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vrystwald.
+1. **The Beggar's Dilemma**—Theódris faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vrystwald.
 
 2. **Old Grudges**—None, but has been targeted by pickpockets. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Theodris's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Theódris's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vrystwald threaten to upend the social order that Theodris depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vrystwald threaten to upend the social order that Theódris depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Theodris the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Theódris the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
