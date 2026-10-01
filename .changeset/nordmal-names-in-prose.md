@@ -3,7 +3,7 @@
 ---
 
 **The Ten in prose** — Every page that names a god of the Asguardian pantheon
-names him in Nordmal, and so do the devotional orders sworn to three of them.
+names him in Nordmal, and so do its devotional orders.
 
 **The north's lore** — The two ravens, the thunder-hammer, the world-wyrm, the
 winter-wolf, the defending kin of the gods and the storm-god's holy mountain
