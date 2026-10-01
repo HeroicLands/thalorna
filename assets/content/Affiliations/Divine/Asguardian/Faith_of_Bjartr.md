@@ -14,34 +14,31 @@ data:
   governance:
     model: council
     summary: >-
-      Alone among the Asguardian faiths, Baldr's adherents took the Sinalëan structure rather than the circles—and it is barely a hierarchy at all. There are two standings and no office above them: all Calathiri are equal, and the Lómëthar that decides anything affecting the faith is an open convocation with no presiding officer, reaching accord by deliberation rather than decree.
+      Alone among the Asguardian faiths, Bjartr's adherents took the Sinalëan structure rather than the circles—and it is barely a hierarchy at all. There are three standings and no office above them: the faithful who come to its rites, the tindësar it teaches, and the Calathiri who are all equal among themselves, and the Lómëthar that decides anything affecting the faith is an open convocation with no presiding officer, reaching accord by deliberation rather than decree.
     ranks:
       - level: 0
-        title: Nídingr
-        lore: excmmnctrnk
+        title: Unaccorded
+        lore: unaccordedrnk
         description: >-
-          Cut off from the faith. Rare here, and reached by the same open deliberation as everything else, which makes it slower and harder to reverse than a decree would be.
+          Refused the Lómëthar's accord by the convocation itself; rare here, and slower and harder to reverse than a single officer's decree would be.
       - level: 1
-        title: Tindësar
-        lore: initiaternk
+        title: The Faithful
+        lore: faithfulrnk
         description: >-
-          "Star-seeker"—newly called, learning dream-reading, healing and the tending of sacred groves under a Calathir, in a relationship closer to apprentice and mentor than to subordinate and superior.
+          Comes to the Blessing of Light or the Night of Dreams and receives the priests' blessing, holding nothing further the faith asks of him.
       - level: 2
-        title: Calathir
-        lore: priestrnk
+        title: Tindësar
+        lore: tindesarrnk
         description: >-
-          "Light-watcher"—entrusted with the rites, the care of the faithful and the stewardship of sacred places. All Calathiri are equal in standing, and there is nothing above this.
+          Newly called to learn dream-reading, healing and the tending of groves under a Calathir's guidance, in a bond closer to apprentice and mentor than to subordinate and superior.
+      - level: 3
+        title: Calathir
+        lore: calathirrnk
+        description: >-
+          Entrusted with the rites, the care of the faithful and the stewardship of sacred places; every Calathir stands equal, and any one of them may call the Lómëthar.
     offices:
-      Hofsfadir / Hofsmódir: >-
-        Founder of a hof, honored as its father or mother for life.
-      Landsgodi: >-
-        Priest of the land, who hallows the ting island and speaks for the Ten with one voice.
-      Höfudgodi: >-
-        Head of the faith in one kingdom, seated among its jarls.
-      Hofsgodi: >-
-        Keeper of a named hof, its stores and its blót.
-      Godi / Gydja: >-
-        The working priest or priestess of a hall, who keeps its rites and its people.
+      Dreamwarden: >-
+        Keeper of the dream-rites and of those who sleep in the groves to receive them.
   seat: null
   domains: []
   population: null

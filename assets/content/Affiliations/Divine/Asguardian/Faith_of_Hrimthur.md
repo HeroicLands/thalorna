@@ -17,32 +17,17 @@ data:
     summary: >-
       No formal hierarchy and no structured organization: scattered factions, each attached to a different hof and to the wound it keeps, operating independently and united only by faith in the Rime-Giant as substance rather than as a maker. What roles exist are informal, fluid, and claimed rather than conferred.
     ranks:
-      - level: 0
-        title: Discarded
-        lore: expelledrnk
-        description: >-
-          Put out by a faction—which, since there is no hierarchy to appeal to and no other body that recognizes the judgment, means only that this faction is finished with them.
       - level: 1
         title: Admirer
-        lore: layfaithfulrnk
+        lore: admirerrnk
         description: >-
-          Holds Ymir's work in awe without attaching to any faction. There is no rite of entry, because there is nothing to enter.
-      - level: 2
+          Holds Hrímthur's work in awe without joining any of the scattered factions that keep his worship, drawn by no rite because there is none to enter.
+      - level: 3
         title: Adherent
-        lore: professedrnk
+        lore: adherentrnk
         description: >-
-          Attached to one of the scattered factions and doing its work. Standing within a faction is a matter of what a person has made or understood, and is claimed rather than conferred.
-    offices:
-      Hofsfadir / Hofsmódir: >-
-        Founder of a hof, honored as its father or mother for life.
-      Landsgodi: >-
-        Priest of the land, who hallows the ting island and speaks for the Ten with one voice.
-      Höfudgodi: >-
-        Head of the faith in one kingdom, seated among its jarls.
-      Hofsgodi: >-
-        Keeper of a named hof, its stores and its blót.
-      Godi / Gydja: >-
-        The working priest or priestess of a hall, who keeps its rites and its people.
+          Attached to one of the scattered factions tied to a hof and the wound it keeps, holding whatever standing that faction claims for what he has made or understood.
+    offices: {}
   seat: null
   domains: []
   population: null
@@ -74,7 +59,7 @@ His hofs are few and hard to reach. Holafell in Norgaad is the oldest, a sanctua
 
 ## Clergy
 
-Hrímthur's faithful fill the lower rungs of the pantheon's ladder and leave the upper ones standing empty. Holafell keeps a Hofsgodi and the Northern Hall another; no kingdom has named a Höfudgodi of his, and the faithful who are not of a hof answer to nobody at all.
+Hrímthur's faithful hold one of two standings. An admirer holds his work in awe and belongs to no faction; an adherent is attached to one of the scattered factions tied to Holafell, the Northern Hall, or one of the hörgar between them, and does that faction's work. No office binds the factions together, and a faithful who belongs to none of them answers to nobody at all.
 
 **Key Skills:** Stonecraft, Survival in cold, Endurance of pain, Reading frost-marks, the recitation of the cutting
 

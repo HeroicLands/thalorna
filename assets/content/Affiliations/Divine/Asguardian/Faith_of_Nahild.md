@@ -15,59 +15,31 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A ladder of circles, rising from the young Thraell through the working Godi or Gydja to the senior ranks of Jarl and Konungr and the pontifical offices of the Allsherjargodi and the Fadir or Módir of the god. The titles are this faith's own; the pattern is the pantheon's. Circle II is unlisted in the sources.
+      What this cult confers is taught in secret rather than offered at a public rite: a hidden hof's godi admits an offerer, teaches an initiate the observances known only to Náhild's own, and takes the sacrifices nobody outside the faith may witness. No rank of the land reaches here, and nothing above a hidden hof's godi answers for it, because the pattern the other seven faiths of the Ten share depends on a public blót this cult cannot keep.
     ranks:
       - level: 0
-        title: Nídingr
-        lore: excmmnctrnk
+        title: The Betrayer
+        lore: betrayerrnk
         description: >-
-          Declared nithing—cut off from the faith and from the standing that being of it conferred. No hall will seat them and no godi will speak for them.
+          Named a hidden hof, an initiate or a godi to outsiders and lost the shelter the cult's secrecy owed him; the hof he betrayed owes him nothing further.
       - level: 1
-        title: Nádr Thraell
-        lore: initiaternk
+        title: Her Offerer
+        lore: offererrnk
         description: >-
-          "Shadow Thrall"—Shadow Acolyte. The god's thrall: taken into the temple young, given the observances and the labor, and years away from the priesthood.
+          Turns to Náhild and brings a hidden hof's offering, trusted enough to share its secrecy but not yet taught its observances.
+      - level: 2
+        title: Her Initiate
+        lore: cultinitiatrnk
+        description: >-
+          Taught the cult's secret observances and the location of a hidden hof, trusted with what an offerer is not.
       - level: 3
-        title: Daudr Godi/Gode
-        lore: priestrnk
+        title: Her Godi / Gydja
+        lore: cultgodirnk
         description: >-
-          "Priest/Priestess of Death"—Void Priest/Priestess. The working priest or priestess—Godi for a man, Gydja for a woman—who keeps the rites of a hall and the people who gather at it.
-      - level: 4
-        title: Skuggi Hersir
-        lore: commanderrnk
-        description: >-
-          "Shadow Warlord"—Harbinger of Chaos. A warlord of the faith, carrying its authority where it must be carried by force or by presence.
-      - level: 5
-        title: Heljar Jarl
-        lore: greatlordrnk
-        description: >-
-          "Jarl of the Underworld"—Warden of the Abyss. A senior rank carrying temporal weight as well as spiritual; in many kingdoms a Jarl of a faith sits among the jarls of the land.
-      - level: 6
-        title: Daudr Konungr/Konungrkvinde
-        lore: sovereignrnk
-        description: >-
-          "Death King/Queen"—Archshadow. King or queen within the faith's own hierarchy, and in some kingdoms a power the crown must reckon with.
-      - level: 7
-        title: Ragnar Allsherjargodi
-        lore: highpriestrnk
-        description: >-
-          "Ragnar High Priest"—Doombringer. High priest—a pontifical office, speaking for the faith where it must speak with one voice.
-      - level: 8
-        title: Heljar Fadir/Módir
-        lore: grandmasterrnk
-        description: >-
-          "Father/Mother of Hel"—Pontiff of Despair. Father or Mother of the god: the highest pontifical office, held by one person at a time.
+          Takes the sacrifices of a hidden hof and teaches the observances that raise an offerer to an initiate; no office of the cult answers above him.
     offices:
-      Hofsfadir / Hofsmódir: >-
-        Founder of a hof, honored as its father or mother for life.
-      Landsgodi: >-
-        Priest of the land, who hallows the ting island and speaks for the Ten with one voice.
-      Höfudgodi: >-
-        Head of the faith in one kingdom, seated among its jarls.
-      Hofsgodi: >-
-        Keeper of a named hof, its stores and its blót.
-      Godi / Gydja: >-
-        The working priest or priestess of a hall, who keeps its rites and its people.
+      Soulweaver: >-
+        A priest specialized in binding souls to Náhild's service, in life and after death.
   seat: null
   domains: []
   population: null
@@ -106,13 +78,10 @@ She is often depicted as a ghastly figure, her eyes burning with a baleful light
 
 ## Clergy
 
-- **Nádr Thraell** (Circle I: Shadow Thrall)—Shadow Acolyte
-- **Daudr Godi/Gode** (Circle III: Priest/Priestess of Death)—Void Priest/Priestess
-- **Skuggi Hersir** (Circle IV: Shadow Warlord)—Harbinger of Chaos
-- **Heljar Jarl** (Circle V: Jarl of the Underworld)—Warden of the Abyss
-- **Daudr Konungr/Konungrkvinde** (Circle VI: Death King/Queen)—Archshadow
-- **Ragnar Allsherjargodi** (Circle VII: Ragnar High Priest)—Doombringer
-- **Heljar Fadir/Módir** (Father/Mother of Hel)—Pontiff of Despair
+- **The Betrayer**—named a hidden hof, an initiate, or a godi to outsiders, and loses the shelter the cult's secrecy owed him.
+- **Her Offerer**—turns to Náhild and brings a hidden hof's offering, trusted enough to share its secrecy but not yet taught its observances.
+- **Her Initiate**—taught the cult's secret observances and the location of a hidden hof.
+- **Her Godi / Gydja**—takes the sacrifices of a hidden hof and teaches the observances that raise an offerer to an initiate.
 
 **Key Skills:** Embalming
 
