@@ -16,54 +16,51 @@ data:
     ranks:
       - level: 0
         title: Níding
-        lore: outlawrnk
+        lore: nidingrnk
         description: >-
-          Outlawed at the moot and beyond the law's protection, so that any man may kill them and owe nothing for it.
+          Cast beyond the moot's protection for an offense no payment settles: killing him draws no penalty, and a hall that shelters him answers to the assembly for it.
       - level: 1
         title: Thrall
-        lore: slavernk
-        description: Owned outright, owing labor, bearing no weapon by right and having no voice at the moot.
+        lore: thrallrnk
+        description: >-
+          Owned outright rather than born free, owing labor itself rather than rent, and holding no voice when the moot decides.
       - level: 2
-        title: Freedman
-        lore: freedmanrnk
-        description: Manumitted but still bound in obligation to a former master.
+        title: Lidmadr
+        lore: lidmadrrnk
+        description: >-
+          Free but answering through a following rather than a clan, so his word carries no weight on the moot's floor until some captain or former master vouches for him.
       - level: 3
         title: Bóndi
-        lore: yeomanrnk
-        description: A free farmer holding his own land, bearing arms and speaking at his jarldom's moot.
-      - level: 4
-        title: Hauldr
-        lore: yeomanrnk
+        lore: bondirnk
         description: >-
-          Holding odal land his kin have held for generations, and weightiest among the free farmers.
+          Holds his own odal land by inheritance rather than any jarl's grant, bears arms, and speaks at his jarldom's moot in a ruling that binds the jarl over him as much as any free man.
+      - level: 4
+        title: Hringberi
+        lore: hringberirnk
+        description: >-
+          Given a named seat by a hall—at a lord's table, the high seat, or the door nearest the fell—and heard before a common bóndi when the hall is deciding.
       - level: 5
-        title: Hersir
-        lore: landedlordrnk
-        description: Chieftain of a district, leading its men in war and speaking for them in peace.
+        title: Hersvald
+        lore: hersvaldrnk
+        description: >-
+          Leads a district's men to war and speaks for them in peace by their continued consent, and can be set aside by the same district that raised him.
       - level: 6
         title: Jarl
-        lore: greatlordrnk
-        description: Ruling a jarldom in his own right, owing the High Jarl nominal allegiance and no more.
-      - level: 7
-        title: Elector
-        lore: councillorrnk
+        lore: jarlrnk
         description: >-
-          A jarl entitled to a voice in choosing the High Jarl, which is the confederation's only real act.
-      - level: 8
+          Rules a jarldom in his own right, owing the High Jarl the confederation's nominal allegiance and nothing more.
+      - level: 7
         title: High Jarl
-        lore: sovereignrnk
-        description: Elected from among the jarls and holding no authority they do not lend him.
+        lore: highjarlrnk
+        description: >-
+          Elected from among the jarls and holding only the authority they continue to lend him; no provision of the jarldoms' law ties the standing to his children.
     offices:
-      High Jarl: >-
-        Elected from among the jarls to speak for the confederation, and holding only what they lend him.
       Jarl: Ruler of a jarldom in his own right, with his own hall, levy and moot.
-      Hersir: Chieftain of a district, leading its men to the muster.
+      Hersvald: Chieftain of a district, leading its men to the muster.
       Lawspeaker: Keeper of the law in memory, who recites it at the moot and declares what it is.
-      Godi: >-
-        Priest-chieftain of a temple and its district, holding sacred and secular authority together.
-      Stallari: Marshal of the High Jarl's household men and master of the common muster.
+      Hirdstjóri: Marshal of the High Jarl's household men and master of the common muster.
       Skald: Poet of a hall, whose verse is its memory and whose scorn is a weapon.
-      Styrimadr: Master of a ship, commanding her crew at sea and answering for her in the levy.
+      Skipstjóri: Master of a ship, commanding her crew at sea and answering for her in the levy.
       Harbour-reeve: Keeper of a haven, its tolls and its disputes.
       Truce-Warden: Holder of the peace declared for the moot, empowered to kill to keep it.
       Host-Caller: Bearer of the war-arrow that summons the jarldoms to a common muster.
