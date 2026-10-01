@@ -1,6 +1,6 @@
 ---
-shortcode: eldingsekr
-name: {full: "Eldingsekr", aliases: [Lightning Swords]}
+shortcode: lightningswrdsbj
+name: {full: "The Lightning Swords"}
 type: affiliation
 subType: order
 description: "Elder-trained fighters of Bjartr's will."
@@ -19,7 +19,7 @@ data:
         title: Cast Out of the Order
         lore: ordercastoutrnk
         description: >-
-          Cast out of the Eldingsekr, forfeiting whatever counsel, shelter or standing membership gave him.
+          Cast out of the Lightning Swords, forfeiting whatever counsel, shelter or standing membership gave him.
       - level: 1
         title: Devotee
         lore: orderdevoteernk
@@ -41,4 +41,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Eldingsekr, the Lightning Swords, are fighters trained by the elder races themselves in techniques and magic that uphold [[affiliation-bjartr|Bjartr]]'s will. A member carries that training into the world on the elder races' behalf, standing apart from the faith's priests, the one body in Bjartr's service built for battle.
+The Lightning Swords are fighters trained by the elder races themselves in techniques and magic that uphold [[affiliation-bjartr|Bjartr]]'s will. A member carries that training into the world on the elder races' behalf, standing apart from the faith's priests, the one body in Bjartr's service built for battle.

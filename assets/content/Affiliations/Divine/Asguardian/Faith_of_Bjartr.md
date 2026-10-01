@@ -115,4 +115,4 @@ Human adherents of Bjartr have adopted the Sinalëan clergy structure—the only
 
 - [[affiliation-ordrradianthndbj|Order of the Radiant Hand]]—priests who heal and spread Bjartr's light
 - [[affiliation-eldersvoicebj|Elder's Voice]]—the rare standing that speaks between the elder races and mortals
-- [[affiliation-eldingsekr|Eldingsekr]]—the Lightning Swords, elder-trained fighters of Bjartr's will
+- [[affiliation-lightningswrdsbj|The Lightning Swords]]—elder-trained fighters of Bjartr's will
