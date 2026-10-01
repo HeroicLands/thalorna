@@ -27,7 +27,7 @@ He keeps the Renewal of Founding, the Cultivation of the Body, and the Refusal o
 
 ## Offices Open at This Standing
 
-None above the rank itself short of advancement to [[lore-ordrseniorrnk|Hand of the Maker]].
+None above the rank itself short of advancement to [[lore-ordrseniorrnk|Hand of the Host]].
 
 ## Where This Standing Is Held
 

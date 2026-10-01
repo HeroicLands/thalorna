@@ -3,11 +3,11 @@ shortcode: hofsmadrrnk
 name: {full: "Hofsmadr", aliases: [Hof Acolyte]}
 type: lore
 subType: law
-description: "Given to a hof young and years short of the priesthood, in the seven faiths of the Ten that keep the blót."
+description: "Given to a hof young and years short of the priesthood, in the eight faiths of the Ten that keep the blót."
 tags: []
 ---
 
-Given to a hof young and years short of the priesthood, in the seven faiths of the Ten that keep the blót.
+Given to a hof young and years short of the priesthood, in the eight faiths of the Ten that keep the blót.
 
 ## What This Standing Is
 
@@ -31,4 +31,4 @@ None; the hof's offices attach to the ordained priesthood above this rank.
 
 ## Where This Standing Is Held
 
-The seven faiths of the Ten that keep the blót: [[affiliation-odvar|Ódvar]], [[affiliation-thrunvald|Thrúnvald]], [[affiliation-eidgar|Eidgar]], [[affiliation-frodvin|Fródvin]], [[affiliation-solrun|Sólrún]], [[affiliation-velgrimr|Vélgrímr]], and [[affiliation-svartbrandr|Svartbrandr]], each under its own hof and its own godi.
+The eight faiths of the Ten that keep the blót: [[affiliation-odvar|Ódvar]], [[affiliation-thrunvald|Thrúnvald]], [[affiliation-eidgar|Eidgar]], [[affiliation-frodvin|Fródvin]], [[affiliation-solrun|Sólrún]], [[affiliation-velgrimr|Vélgrímr]], [[affiliation-svartbrandr|Svartbrandr]], and [[affiliation-motefnir|Mótefnir]], each under its own hof and its own godi.

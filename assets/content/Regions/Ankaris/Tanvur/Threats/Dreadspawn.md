@@ -10,7 +10,7 @@ data: {banner: creaturebnr, packFolder: threats}
 
 **Dreadspawn** are creatures that were not born—they were _made_. Found across all of Thalorna, they are the deliberate creations of gods associated with creation, life, or primal shaping. Each is unique or nearly so: a singular design manufactured by divine will rather than a species that evolved or reproduced naturally. They do not breed. They do not form populations. Each Dreadspawn is an individual artifact of divine craftsmanship, as varied and unpredictable as the gods that made them.
 
-In Western Ankaris, the Asguardian god **Hrímthur** is the most prolific known creator of Dreadspawn, but the phenomenon is not limited to any one pantheon. Wherever gods of creation exist, Dreadspawn tend to appear—trolls, drakes, aberrant beasts, things that defy natural taxonomy. They range from cunning predators to lumbering monstrosities, from creatures of terrible beauty to things that seem assembled from mismatched parts. The only universal traits are that they were _deliberately created_, they _do not reproduce_, and they are _dangerous_.
+In Western Ankaris, the Asguardian god [[lore-motefnirdty|Mótefnir]] is the most prolific known creator of Dreadspawn, but the phenomenon is not limited to any one pantheon. Wherever gods of creation exist, Dreadspawn tend to appear—trolls, drakes, aberrant beasts, things that defy natural taxonomy. They range from cunning predators to lumbering monstrosities, from creatures of terrible beauty to things that seem assembled from mismatched parts. The only universal traits are that they were _deliberately created_, they _do not reproduce_, and they are _dangerous_.
 
 ---
 

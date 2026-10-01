@@ -5,7 +5,7 @@ name:
   aliases: [Thursbörn, The Children of the First Frost, The Bonebreakers]
 type: affiliation
 subType: order
-description: "Initiatic warrior brotherhood of Hrímthur—devotees of the primordial god of creation and strength, sworn to wield the violence from which the world was first made."
+description: "Initiatic warrior brotherhood of Hrímthur—devotees of the Rime-Giant the world was cut from, sworn to wield the violence that first made it."
 tags: []
 data:
   templatePriority: null
@@ -33,7 +33,7 @@ data:
         description: >-
           Admitted by a rite of severe physical ordeal and theological examination, wearing the order's permanent mark and bound by its absolute refusal of hire.
       - level: 4
-        title: The Hand of the Maker
+        title: The Hand of the Host
         lore: ordrseniorrnk
         description: >-
           Leads the order's actions in the field, instructs candidates, and sits among the Fathers of the Halls who choose the Voice from the Wound.
@@ -73,7 +73,7 @@ Initiation is in stages, modeled on the order's understanding of the cosmogony. 
 - **Put from the Order**—cast out by the assembled Fathers of the Halls, closing every one of the nine chapter halls' hospitality for good.
 - **The Frost-Touched** (_Hrímskírdr_)—the candidate stage; a young man (typically sixteen to twenty) sponsored by a sitting brother and tested through a year of physical labor at one of the chapter halls. Many candidates withdraw or are dismissed.
 - **The Born of the Wound** (_Sárborinn_)—admitted after a formal rite that involves both severe physical ordeal and theological examination. The Born of the Wound wear the order's mark and are full members.
-- **The Hand of the Maker** (_Smidshönd_)—senior brother; advanced rite of initiation; permitted to lead the order's actions in the field and to instruct candidates.
+- **The Hand of the Host** (_Hershönd_)—senior brother; advanced rite of initiation; permitted to lead the order's gathered brothers in the field and to instruct candidates.
 
 Two offices sit above the ranks. The **Father of the Hall** (_Hallarfadir_) leads a single chapter hall—one per hall, nine in all—and presides over initiations and the chapter's standing affairs. The **Voice from the Wound** (_Sármál_) is the order's chair, chosen by the assembled Fathers of the Halls in conclave following the death or retirement of the prior Voice.
 
