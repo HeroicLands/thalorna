@@ -72,7 +72,8 @@
         "build:module": "package-build manifest",
         "lint:lexicon": "node utils/khelathi-lexicon.mjs",
         "lint:drift": "node utils/nordmal-drift.mjs",
-        "lint:nordmal-lexicon": "node utils/nordmal-lexicon.mjs"
+        "lint:nordmal-lexicon": "node utils/nordmal-lexicon.mjs",
+        "lint:nordmal-concordance": "node utils/nordmal-concordance-check.mjs"
     },
     "devDependencies": {
         "@changesets/cli": "^3.0.3",
