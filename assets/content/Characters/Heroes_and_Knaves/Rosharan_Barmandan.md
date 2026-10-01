@@ -479,15 +479,15 @@ Rosharan is fundamentally driven by the desire to push the boundaries of what sh
 
 ### Patrons
 
-- **Master Khalid Hammerhand:** Her former mentor and the preeminent authority on shipcraft in the Sultanate, Khalid remains Rosharan's primary confidant and advisor. Though officially retired, he reviews her most ambitious designs and gives sage counsel on Guild politics.
-- **Lady Yasmin Mirza, Royal Survey Corps:** The commander of the Sultanate's maritime exploration division has become a consistent client and enthusiastic advocate, funding Rosharan's most experimental work in exchange for first access to new designs.
-- **Lin'Zuwaret elu Aû'Khelâthu of Tahrodan:** The primary shipping authority in the major port city has contracted with Rosharan for multiple vessels and provides steady income, though conservative members sometimes clash with her approach.
+- **Master Khalid Hammerhand**: Her former mentor and the preeminent authority on shipcraft in the Sultanate, Khalid remains Rosharan's primary confidant and advisor. Though officially retired, he reviews her most ambitious designs and gives sage counsel on Guild politics.
+- **Lady Yasmin Mirza, Royal Survey Corps**: The commander of the Sultanate's maritime exploration division has become a consistent client and enthusiastic advocate, funding Rosharan's most experimental work in exchange for first access to new designs.
+- **Lin'Zuwaret elu Aû'Khelâthu of Tahrodan**: The primary shipping authority in the major port city has contracted with Rosharan for multiple vessels and provides steady income, though conservative members sometimes clash with her approach.
 
 ### Enemies
 
-- **Master Shipwright Davoud al-Farsi:** A rival craftsman from a competing shipyard who views Rosharan's popularity as an affront to "proper" tradition. He has launched a quiet campaign to convince traditional merchants that her designs are unreliable, spreading rumors about ships that foundered using her designs (most false or exaggerated).
-- **The Iron Guilds Coalition:** A conservative alliance of traditional craftspeople across multiple disciplines who see her methods as threats to the apprenticeship and established practice. They lobby the Guild to revoke her membership or restrict her practices.
-- **The Reaver Fleet:** A privateer organization that seized one of her ships during its maiden voyage and has used it successfully for raiding. Rosharan takes this as a personal insult and has sworn to recover or destroy the vessel.
+- **Master Shipwright Davoud al-Farsi**: A rival craftsman from a competing shipyard who views Rosharan's popularity as an affront to "proper" tradition. He has launched a quiet campaign to convince traditional merchants that her designs are unreliable, spreading rumors about ships that foundered using her designs (most false or exaggerated).
+- **The Iron Guilds Coalition**: A conservative alliance of traditional craftspeople across multiple disciplines who see her methods as threats to the apprenticeship and established practice. They lobby the Guild to revoke her membership or restrict her practices.
+- **The Reaver Fleet**: A privateer organization that seized one of her ships during its maiden voyage and has used it successfully for raiding. Rosharan takes this as a personal insult and has sworn to recover or destroy the vessel.
 
 ### Affiliations
 

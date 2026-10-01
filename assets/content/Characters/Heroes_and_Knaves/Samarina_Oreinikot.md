@@ -480,15 +480,15 @@ Samarína is driven by multiple, sometimes conflicting motivations. Her primary 
 
 ### Patrons
 
-- **Elder Vasilis Pediníkot:** The respected elder of her herding commune and unofficial keeper of pastoral traditions, Vasilis has mentored Samarína throughout her life and provides guidance on both practical and cultural matters, though he sometimes expresses concern about her caution.
-- **The Wool Merchant Zenobárzan Kalvestris:** A fair-dealing trader who buys Samarína's wool at high prices and speaks for it in distant markets, giving her a reliable income whatever the season's prices.
-- **The Veterinary Herbalist Zenoníkash:** A semi-retired healer who specializes in animal care and has become a friend and occasional mentor, sharing knowledge about herbal remedies and the care of the whole animal.
+- **Elder Vasilis Pediníkot**: The respected elder of her herding commune and unofficial keeper of pastoral traditions, Vasilis has mentored Samarína throughout her life and provides guidance on both practical and cultural matters, though he sometimes expresses concern about her caution.
+- **The Wool Merchant Zenobárzan Kalvestris**: A fair-dealing trader who buys Samarína's wool at high prices and speaks for it in distant markets, giving her a reliable income whatever the season's prices.
+- **The Veterinary Herbalist Zenoníkash**: A semi-retired healer who specializes in animal care and has become a friend and occasional mentor, sharing knowledge about herbal remedies and the care of the whole animal.
 
 ### Enemies
 
-- **Landowner Theron Vaspas:** A wealthy landowner whose territories border Samarína's grazing lands, Theron has repeatedly attempted to purchase her land or pressure her into heavier grazing that ruins the land. Her refusal has earned his enmity.
-- **The Competitive Herders Collective:** Younger herders in the region, frustrated with what they see as outdated practices and conservative thinking, have begun ostracizing Samarína and spreading rumors about the inferior quality of her animals, despite evidence to the contrary.
-- **Her Own Doubts:** More dangerous than any external foe, Samarína's constant uncertainty about whether her traditional approaches are becoming obsolete, whether she is clinging to the past at the expense of her future.
+- **Landowner Theron Vaspas**: A wealthy landowner whose territories border Samarína's grazing lands, Theron has repeatedly attempted to purchase her land or pressure her into heavier grazing that ruins the land. Her refusal has earned his enmity.
+- **The Competitive Herders Collective**: Younger herders in the region, frustrated with what they see as outdated practices and conservative thinking, have begun ostracizing Samarína and spreading rumors about the inferior quality of her animals, despite evidence to the contrary.
+- **Her Own Doubts**: More dangerous than any external foe, Samarína's constant uncertainty about whether her traditional approaches are becoming obsolete, whether she is clinging to the past at the expense of her future.
 
 ### Affiliations
 

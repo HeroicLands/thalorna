@@ -475,7 +475,7 @@ Hvalgvir's driving force is the belief that civilization itself rests upon small
 
 ### Enemies
 
-- **Keth Vetrdómr** (His Brother): A source of deep pain for Hvalgvir, his younger brother inherited the family brewery and has built it into a vast commercial empire. Yet Keth resents Hvalgvir's greater fame and community standing, and he has subtly worked to undermine his brother's reputation and business.
+- **Keth Vetrdómr**: His brother, and a source of deep pain for Hvalgvir, his younger brother inherited the family brewery and has built it into a vast commercial empire. Yet Keth resents Hvalgvir's greater fame and community standing, and he has subtly worked to undermine his brother's reputation and business.
 - **Thane Hrandarukh**: A warlord of the northern territories who views the Serpent's Hearth as a den of spies and resistance, and has made veiled threats about bringing Hvalgvir and his establishment to heel.
 - **The Poison Cult of Vúlcan**: A heretical sect has begun to target Hvalgvir, viewing his worship of Týr and his work in promoting order as direct opposition to their chaotic spiritual vision. They have begun poisoning patrons who drink from his taproom.
 

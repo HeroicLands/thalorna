@@ -470,7 +470,9 @@ Hliskthann is motivated by a simple but deep desire to provide protection and co
 
 ### Enemies
 
-- **No true enemies**, though **Kael Swiftthatch**, an ambitious younger craftsman, has begun undercutting Hliskthann's prices by taking jobs Hliskthann has declined or delayed due to age. The two maintain a craftsman's courtesy but represent opposing philosophies.
+No true enemies, though Kael Swiftthatch, an ambitious younger craftsman, has begun undercutting Hliskthann's prices.
+
+- **Kael Swiftthatch**: An ambitious younger craftsman who has begun undercutting Hliskthann's prices by taking jobs Hliskthann has declined or delayed due to age. The two maintain a craftsman's courtesy but represent opposing philosophies.
 - **The New Methods Coalition**: Forward-looking builders and nobles experimenting with novel roofing materials and techniques sometimes view Hliskthann's traditionalism as an impediment to progress, though he has never actively opposed them.
 
 ### Affiliations
