@@ -85,7 +85,8 @@
     "keep": [
         {
             "literal": "Haulonna",
-            "why": "the Sinalë name for the valley (\"the hearth of the unfallen leaf\"), kept as an alias beside the Nordmen's own Thalmdal; an elvish name in an elvish context, never a Nordmal survivor"
+            "why": "the Sinalë name for the valley (\"the hearth of the unfallen leaf\"), kept as an alias beside the Nordmen's own Thalmdal; an elvish name in an elvish context, never a Nordmal survivor",
+            "kinds": []
         },
         {
             "literal": "Astrid",
@@ -226,7 +227,7 @@
             "note": "_ód-_ \"fury, the seer's fit\" (as in seidr's trance) + _-var_ \"ward\" — the Fury-Ward; aliases the All-Father, Hrafnfadir \"Raven-Father\"; the acute-only spelling is absent from the import (0 occurrences) and arrived in a later pass — see the eth-spelling row for the import-era form",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Affiliations/Divine/Asguardian/Faith_of_Odinn.md:3:23"
+                "448de18db:assets/content/Affiliations/Divine/Asguardian/Faith_of_Odinn.md:56:16"
             ],
             "boldKind": "none"
         },
@@ -276,7 +277,7 @@
             "oldRefPaths": [
                 "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:53:47",
                 "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Faith_of_Odinn.md:11:18",
-                "main:.changeset/search-safe-names.md:27:4"
+                "6e137b8c0:.changeset/search-safe-names.md:27:4"
             ],
             "boldKind": "bare"
         },
@@ -328,7 +329,7 @@
             "prose": null,
             "oldRefPaths": [
                 "e13afb5f2:assets/content/Regions/Ankaris/Nordlands/Nordheim/Ravensholm.md:31:139",
-                "main:assets/content/Regions/Ankaris/Nordlands/Nordheim/Ravensholm.md:13:139"
+                "b29be50fd:assets/content/Regions/Ankaris/Nordlands/Nordheim/Ravensholm.md:13:135"
             ],
             "boldKind": "none"
         },
@@ -602,7 +603,7 @@
             "description": null,
             "note": "_njör-_ (as the tree's Njörven) + _-var_ \"ward\" — the Sea-Ward, the elder sea-power the Ten displaced",
             "prose": null,
-            "oldRefPaths": ["main:assets/content/Bestiary/Mythic/Njorven.md:75:8"],
+            "oldRefPaths": ["main:assets/content/Bestiary/Mythic/Njorven.md:76:8"],
             "boldKind": "none"
         },
         {
@@ -625,8 +626,11 @@
             "description": null,
             "note": "spelling without the final -ur",
             "prose": null,
-            "oldRefPaths": [],
-            "boldKind": "none"
+            "oldRefPaths": [
+                "6e137b8c0:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:139:302"
+            ],
+            "boldKind": "none",
+            "historical": true
         },
         {
             "oldName": "Njordur",
@@ -747,8 +751,12 @@
             "description": null,
             "note": "Sólrún's field",
             "prose": null,
-            "oldRefPaths": [],
-            "boldKind": "bare"
+            "oldRefPaths": [
+                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:67:333",
+                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:115:140"
+            ],
+            "boldKind": "bare",
+            "historical": true
         },
         {
             "oldName": "Einherjar",
@@ -770,8 +778,14 @@
             "description": null,
             "note": "_val-_ + _drengr_ \"warrior\" (the Compact's \"drengr without a hall\")",
             "prose": null,
-            "oldRefPaths": [],
-            "boldKind": "phrase"
+            "oldRefPaths": [
+                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:67:387",
+                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:105:53",
+                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:107:328",
+                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Faith_of_Odinn.md:71:5"
+            ],
+            "boldKind": "phrase",
+            "historical": true
         },
         {
             "oldName": "Vígrídr",
@@ -793,8 +807,11 @@
             "description": null,
             "note": "_víg_ \"battle\" + _völl_ \"field\"",
             "prose": null,
-            "oldRefPaths": [],
-            "boldKind": "none"
+            "oldRefPaths": [
+                "6e137b8c0:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:151:93"
+            ],
+            "boldKind": "none",
+            "historical": true
         },
         {
             "oldName": "Vígríðr",
@@ -842,8 +859,12 @@
             "description": null,
             "note": "_eld_ \"fire\" (Eldrid, Eldgrímr) + _heim_",
             "prose": null,
-            "oldRefPaths": [],
-            "boldKind": "none"
+            "oldRefPaths": [
+                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:65:398",
+                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:103:448"
+            ],
+            "boldKind": "none",
+            "historical": true
         },
         {
             "oldName": "Muspell",
@@ -865,7 +886,9 @@
             "description": null,
             "note": "alternate spelling of Múspél",
             "prose": null,
-            "oldRefPaths": [],
+            "oldRefPaths": [
+                "e13afb5f2:assets/content/Characters/Heroes_and_Knaves/Thornak_Mahnlin.md:718:71"
+            ],
             "boldKind": "none"
         },
         {
@@ -888,7 +911,9 @@
             "description": null,
             "note": "Winter-Wolf — the wolf whose loosing is the wolf-winter",
             "prose": null,
-            "oldRefPaths": [],
+            "oldRefPaths": [
+                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Faith_of_Tyr.md:33:342"
+            ],
             "boldKind": "phrase"
         },
         {
@@ -911,7 +936,9 @@
             "description": null,
             "note": "World-Wyrm (Ormstead) — the Wyrm of the Crown",
             "prose": null,
-            "oldRefPaths": [],
+            "oldRefPaths": [
+                "e13afb5f2:assets/content/Characters/Heroes_of_Asguard/Thorgil_Thunderstrike.md:509:91"
+            ],
             "boldKind": "none"
         },
         {
@@ -934,7 +961,9 @@
             "description": null,
             "note": "Thought-Friend",
             "prose": null,
-            "oldRefPaths": [],
+            "oldRefPaths": [
+                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Faith_of_Odinn.md:37:188"
+            ],
             "boldKind": "phrase"
         },
         {
@@ -957,7 +986,9 @@
             "description": null,
             "note": "Memory-Friend",
             "prose": null,
-            "oldRefPaths": [],
+            "oldRefPaths": [
+                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Faith_of_Odinn.md:37:209"
+            ],
             "boldKind": "phrase"
         },
         {
@@ -1005,7 +1036,9 @@
             "description": null,
             "note": "Thunder-Hammer; \"the Hammer\" for short",
             "prose": null,
-            "oldRefPaths": [],
+            "oldRefPaths": [
+                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:55:95"
+            ],
             "boldKind": "phrase"
         },
         {
@@ -1053,7 +1086,9 @@
             "description": null,
             "note": "the two goats go unnamed",
             "prose": null,
-            "oldRefPaths": [],
+            "oldRefPaths": [
+                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Faith_of_Thorr.md:41:92"
+            ],
             "boldKind": "none"
         },
         {
@@ -1076,7 +1111,9 @@
             "description": null,
             "note": "the two goats go unnamed",
             "prose": null,
-            "oldRefPaths": [],
+            "oldRefPaths": [
+                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Faith_of_Thorr.md:41:108"
+            ],
             "boldKind": "none"
         },
         {
@@ -1100,7 +1137,7 @@
             "note": "_Ás_ \"god\" (Ásgrind) + _vinir_ \"friends\" — the defending kin",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:109:80"
+                "b71855eb9:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:109:80"
             ],
             "boldKind": "none"
         },
@@ -1150,7 +1187,9 @@
             "description": null,
             "note": "the tree's own drift",
             "prose": null,
-            "oldRefPaths": [],
+            "oldRefPaths": [
+                "e13afb5f2:assets/content/Characters/Heroes_and_Knaves/Bjorg_Drekanott.md:725:128"
+            ],
             "boldKind": "none"
         },
         {
@@ -1173,7 +1212,9 @@
             "description": null,
             "note": "the tree's own drift",
             "prose": null,
-            "oldRefPaths": [],
+            "oldRefPaths": [
+                "e13afb5f2:assets/content/Characters/Heroes_and_Knaves/Athalwa_Vithrund.md:724:68"
+            ],
             "boldKind": "none"
         },
         {
@@ -1224,8 +1265,8 @@
             "note": "_mann-_ \"man, men\" + _-guard_, Asguard's own element — \"Men's Guard,\" the middle world where men live, paired with the gods' enclosure",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:111:335",
-                "main:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:167:389"
+                "b71855eb9:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:111:335",
+                "b71855eb9:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:167:389"
             ],
             "boldKind": "none"
         },
@@ -1276,7 +1317,7 @@
             "description": null,
             "note": "_aldar_ \"the age's\" + _lok_ \"close\" — the Age's Close; the skalds' kenning \"the Fall of the Ash\". The one address this programme moves: the note held `lore-ragnarok`, nothing in `assets/content` referenced it, and name, shortcode and path now agree. `renamedFrom:` is the toolchain's way to declare a vacated address and `package-build lint` rejects the key, so the move is recorded here alone",
             "prose": null,
-            "oldRefPaths": ["6e137b8c0:assets/content/Regions/Ankaris/Nordlands/Ragnarok.md:2:1"],
+            "oldRefPaths": ["6e137b8c0:assets/content/Regions/Ankaris/Nordlands/Ragnarok.md:3:14"],
             "boldKind": "phrase"
         },
         {
@@ -1299,8 +1340,11 @@
             "description": null,
             "note": "marked spelling of Ragnarok",
             "prose": null,
-            "oldRefPaths": [],
-            "boldKind": "none"
+            "oldRefPaths": [
+                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:11:142"
+            ],
+            "boldKind": "none",
+            "historical": true
         },
         {
             "oldName": "Draugar",
@@ -1322,8 +1366,11 @@
             "description": null,
             "note": "corpse-goers, a common noun",
             "prose": null,
-            "oldRefPaths": [],
-            "boldKind": "phrase"
+            "oldRefPaths": [
+                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Faith_of_Hel.md:72:5"
+            ],
+            "boldKind": "phrase",
+            "historical": true
         },
         {
             "oldName": "draugar",
@@ -1345,7 +1392,7 @@
             "description": null,
             "note": "lower-case form",
             "prose": null,
-            "oldRefPaths": [],
+            "oldRefPaths": ["754a84b67:assets/content/Lore/Bestiary/Undead.md:36:294"],
             "boldKind": "none"
         },
         {
@@ -1368,8 +1415,11 @@
             "description": null,
             "note": "howe-wardens, a common noun",
             "prose": null,
-            "oldRefPaths": [],
-            "boldKind": "phrase"
+            "oldRefPaths": [
+                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Faith_of_Hel.md:73:5"
+            ],
+            "boldKind": "phrase",
+            "historical": true
         },
         {
             "oldName": "haugbúar",
@@ -1391,7 +1441,7 @@
             "description": null,
             "note": "lower-case form",
             "prose": null,
-            "oldRefPaths": [],
+            "oldRefPaths": ["754a84b67:assets/content/Lore/Bestiary/Undead.md:36:319"],
             "boldKind": "none"
         },
         {
@@ -1414,7 +1464,9 @@
             "description": null,
             "note": "English rendering; Nordmal Jólreid",
             "prose": null,
-            "oldRefPaths": [],
+            "oldRefPaths": [
+                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:91:291"
+            ],
             "boldKind": "none"
         },
         {
@@ -1438,7 +1490,7 @@
             "note": "priest of the land — the one who hallows the ting island",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:50:16"
+                "80cb8510d:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:50:16"
             ],
             "boldKind": "none"
         },
@@ -1488,7 +1540,7 @@
             "description": null,
             "note": "odal-man, holder of odal land",
             "prose": null,
-            "oldRefPaths": [],
+            "oldRefPaths": ["754a84b67:assets/content/Lore/Ranks/Yeoman.md:18:91"],
             "boldKind": "none"
         },
         {
@@ -1500,15 +1552,15 @@
             "oldImage": null,
             "newName": "Hersvald",
             "newAliases": null,
-            "newPath": null,
-            "newShortcode": null,
-            "newAddress": null,
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Kinship_Kingdoms/Hersvald.md",
+            "newShortcode": "hersvaldrnk",
+            "newAddress": "lore-hersvaldrnk",
             "newImage": null,
             "newHome": null,
             "newTags": null,
             "type": "namestock",
             "subType": "rank",
-            "description": null,
+            "description": "The clan's own head, leading a district's men in war and speaking for them in peace by their consent, in the five kingdoms and the Jarldom of Stormveld.",
             "note": "_her_ \"host\" + _-vald_ — host-wielder, the district's war-leader who holds by consent",
             "prose": null,
             "oldRefPaths": [
@@ -1536,7 +1588,7 @@
             "description": null,
             "note": "_aett_ \"kin\" (aettarnafn)",
             "prose": null,
-            "oldRefPaths": [],
+            "oldRefPaths": ["754a84b67:assets/content/Lore/Ranks/Heir.md:18:74"],
             "boldKind": "none"
         },
         {
@@ -1559,8 +1611,11 @@
             "description": null,
             "note": "marshal of the hird",
             "prose": null,
-            "oldRefPaths": [],
-            "boldKind": "none"
+            "oldRefPaths": [
+                "652f176de:assets/content/Regions/Ankaris/Aureldia/Aelwyth/Stormveld/Jarldom_of_Stormveld.md:64:7"
+            ],
+            "boldKind": "none",
+            "historical": true
         },
         {
             "oldName": "Ármadr",
@@ -1582,8 +1637,15 @@
             "description": null,
             "note": "estate-ward, steward",
             "prose": null,
-            "oldRefPaths": [],
-            "boldKind": "none"
+            "oldRefPaths": [
+                "6e137b8c0:assets/content/Regions/Ankaris/Nordlands/Malagna/Kingdom_of_Malagna.md:70:7",
+                "6e137b8c0:assets/content/Regions/Ankaris/Nordlands/Nordheim/Kingdom_of_Nordheim.md:70:7",
+                "6e137b8c0:assets/content/Regions/Ankaris/Nordlands/Norgaad/Kingdom_of_Norgaad.md:70:7",
+                "6e137b8c0:assets/content/Regions/Ankaris/Nordlands/Targud/Kingdom_of_Targud.md:70:7",
+                "6e137b8c0:assets/content/Regions/Ankaris/Nordlands/Vithgard/Kingdom_of_Vithgard.md:70:7"
+            ],
+            "boldKind": "none",
+            "historical": true
         },
         {
             "oldName": "Féhirdir",
@@ -1605,8 +1667,15 @@
             "description": null,
             "note": "ring-ward — keeper of the rings the king gives",
             "prose": null,
-            "oldRefPaths": [],
-            "boldKind": "none"
+            "oldRefPaths": [
+                "6e137b8c0:assets/content/Regions/Ankaris/Nordlands/Malagna/Kingdom_of_Malagna.md:71:7",
+                "6e137b8c0:assets/content/Regions/Ankaris/Nordlands/Nordheim/Kingdom_of_Nordheim.md:71:7",
+                "6e137b8c0:assets/content/Regions/Ankaris/Nordlands/Norgaad/Kingdom_of_Norgaad.md:71:7",
+                "6e137b8c0:assets/content/Regions/Ankaris/Nordlands/Targud/Kingdom_of_Targud.md:71:7",
+                "6e137b8c0:assets/content/Regions/Ankaris/Nordlands/Vithgard/Kingdom_of_Vithgard.md:71:7"
+            ],
+            "boldKind": "none",
+            "historical": true
         },
         {
             "oldName": "Merkismadr",
@@ -1628,8 +1697,15 @@
             "description": null,
             "note": "mark-bearer, \"highest honour and shortest life\"",
             "prose": null,
-            "oldRefPaths": [],
-            "boldKind": "none"
+            "oldRefPaths": [
+                "6e137b8c0:assets/content/Regions/Ankaris/Nordlands/Malagna/Kingdom_of_Malagna.md:72:7",
+                "6e137b8c0:assets/content/Regions/Ankaris/Nordlands/Nordheim/Kingdom_of_Nordheim.md:72:7",
+                "6e137b8c0:assets/content/Regions/Ankaris/Nordlands/Norgaad/Kingdom_of_Norgaad.md:72:7",
+                "6e137b8c0:assets/content/Regions/Ankaris/Nordlands/Targud/Kingdom_of_Targud.md:72:7",
+                "6e137b8c0:assets/content/Regions/Ankaris/Nordlands/Vithgard/Kingdom_of_Vithgard.md:72:7"
+            ],
+            "boldKind": "none",
+            "historical": true
         },
         {
             "oldName": "Sýslumadr",
@@ -1651,7 +1727,9 @@
             "description": null,
             "note": "land-ward, the king's reeve",
             "prose": null,
-            "oldRefPaths": [],
+            "oldRefPaths": [
+                "754a84b67:assets/content/Characters/Occupations/Hrundmyl_Snarvarukh.md:422:147"
+            ],
             "boldKind": "none"
         },
         {
@@ -1674,8 +1752,11 @@
             "description": null,
             "note": "ship-master",
             "prose": null,
-            "oldRefPaths": [],
-            "boldKind": "none"
+            "oldRefPaths": [
+                "652f176de:assets/content/Regions/Ankaris/Aureldia/Aelwyth/Stormveld/Jarldom_of_Stormveld.md:66:7"
+            ],
+            "boldKind": "none",
+            "historical": true
         },
         {
             "oldName": "Konungr",
@@ -1747,7 +1828,7 @@
             "description": null,
             "note": "father of a hof",
             "prose": null,
-            "oldRefPaths": [],
+            "oldRefPaths": ["754a84b67:assets/content/Lore/Ranks/Grand_Master.md:18:417"],
             "boldKind": "none"
         },
         {
@@ -1770,7 +1851,7 @@
             "description": null,
             "note": "mother of a hof",
             "prose": null,
-            "oldRefPaths": [],
+            "oldRefPaths": ["754a84b67:assets/content/Lore/Ranks/Grand_Master.md:18:423"],
             "boldKind": "none"
         },
         {
@@ -1847,7 +1928,7 @@
             "prose": null,
             "oldRefPaths": [
                 "e13afb5f2:assets/content/Regions/Ankaris/Nordlands/Vithgard/Bjornstad.md:35:83",
-                "main:assets/content/Regions/Ankaris/Nordlands/Vithgard/Bjornstad.md:17:83"
+                "b29be50fd:assets/content/Regions/Ankaris/Nordlands/Vithgard/Bjornstad.md:17:84"
             ],
             "boldKind": "none"
         },
@@ -1873,7 +1954,7 @@
             "prose": null,
             "oldRefPaths": [
                 "e13afb5f2:assets/content/Regions/Ankaris/Nordlands/Vithgard/Bjornstad.md:31:361",
-                "main:assets/content/Regions/Ankaris/Nordlands/Vithgard/Bjornstad.md:13:361"
+                "86516af10:assets/content/Regions/Ankaris/Nordlands/Vithgard/Bjornstad.md:13:311"
             ],
             "boldKind": "none"
         },
@@ -1886,15 +1967,15 @@
             "oldImage": null,
             "newName": "Lidmadr",
             "newAliases": null,
-            "newPath": null,
-            "newShortcode": null,
-            "newAddress": null,
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Kinship_Kingdoms/Of_A_Following.md",
+            "newShortcode": "lidmadrrnk",
+            "newAddress": "lore-lidmadrrnk",
             "newImage": null,
             "newHome": null,
             "newTags": null,
             "type": "namestock",
             "subType": "rank",
-            "description": null,
+            "description": "Free and of no clan, answering through a following rather than through kinship, in the five kingdoms and the Jarldom of Stormveld.",
             "note": "_lid-_ \"a company in the field\" + _-madr_ \"a man of a station\" — a man of a following: the freed thrall still owing a former master, the drengr without a hall, the settled freeman of another people under Nordmal law; level 2 of the kinship kingdoms' ladder, which had no name of its own",
             "prose": null,
             "oldRefPaths": [],
@@ -1909,15 +1990,15 @@
             "oldImage": null,
             "newName": "Hringberi",
             "newAliases": null,
-            "newPath": null,
-            "newShortcode": null,
-            "newAddress": null,
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Kinship_Kingdoms/Ring_Given.md",
+            "newShortcode": "hringberirnk",
+            "newAddress": "lore-hringberirnk",
             "newImage": null,
             "newHome": null,
             "newTags": null,
             "type": "namestock",
             "subType": "rank",
-            "description": null,
+            "description": "Held in high regard and given a named place for it, in the five kingdoms and the Jarldom of Stormveld.",
             "note": "_hring-_ \"a ring given at a hall\" + _-beri_ \"one who bears a thing\" — ring-bearer: the huscarl fed at the king's table, the clan leader's wife obeyed in his absence, the völva who takes the high seat, the honoured old at the door-seat; level 4, ungendered, chosen over the kept word _drengr_, which covers only one of the four doors",
             "prose": null,
             "oldRefPaths": [],
@@ -1932,19 +2013,19 @@
             "oldImage": null,
             "newName": "Hofsmadr",
             "newAliases": null,
-            "newPath": null,
-            "newShortcode": null,
-            "newAddress": null,
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Faiths_of_the_Ten/Hof_Acolyte.md",
+            "newShortcode": "hofsmadrrnk",
+            "newAddress": "lore-hofsmadrrnk",
             "newImage": null,
             "newHome": null,
             "newTags": null,
             "type": "namestock",
             "subType": "rank",
-            "description": null,
+            "description": "Given to a hof young and years short of the priesthood, in the seven faiths of the Ten that keep the blót.",
             "note": "_hofs-_ \"belonging to a hof\" + _-madr_ \"a man of a station\" — the hof's acolyte: given to a hof young, taking its observances and its labour, years short of the priesthood; replaces Thraell, whose word is kept for the polity's rank 1, a man owned outright",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:25:16"
+                "80cb8510d:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:25:16"
             ],
             "boldKind": "none"
         },
@@ -1968,8 +2049,14 @@
             "description": null,
             "note": "Oath-Hand; aliases the Sworn Hands, the White Wand",
             "prose": null,
-            "oldRefPaths": [],
-            "boldKind": "none"
+            "oldRefPaths": [
+                "e13afb5f2:assets/content/Organizations/Asguardian_Orders/Order_of_Tyrs_Justice.md:14:7",
+                "e13afb5f2:assets/content/Organizations/Asguardian_Orders/Order_of_Tyrs_Justice.md:32:13",
+                "e13afb5f2:assets/content/Organizations/Asguardian_Orders/Order_of_Tyrs_Justice.md:52:20",
+                "e13afb5f2:assets/content/Organizations/Asguardian_Orders/Order_of_Tyrs_Justice.md:53:26"
+            ],
+            "boldKind": "none",
+            "historical": true
         },
         {
             "oldName": "Týr's Justice",
@@ -2016,8 +2103,12 @@
             "description": null,
             "note": "the alias becomes the name",
             "prose": null,
-            "oldRefPaths": [],
-            "boldKind": "none"
+            "oldRefPaths": [
+                "6e137b8c0:assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_Freyrs_Guardians.md:6:7",
+                "6e137b8c0:assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_Freyrs_Guardians.md:93:13"
+            ],
+            "boldKind": "none",
+            "historical": true
         },
         {
             "oldName": "Fréyr's Guardians",
@@ -2090,8 +2181,13 @@
             "description": null,
             "note": "Bonebreakers stays; Holafell stays",
             "prose": null,
-            "oldRefPaths": [],
-            "boldKind": "none"
+            "oldRefPaths": [
+                "6e137b8c0:assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_Ymirs_Children.md:5:13",
+                "6e137b8c0:assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_Ymirs_Children.md:89:13",
+                "6e137b8c0:assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_Ymirs_Children.md:134:125"
+            ],
+            "boldKind": "none",
+            "historical": true
         },
         {
             "oldName": "Ymir's Children",
@@ -2138,8 +2234,11 @@
             "description": null,
             "note": "Sólrún's women who give gold away; \"the Ring-Sisters\"",
             "prose": null,
-            "oldRefPaths": [],
-            "boldKind": "phrase"
+            "oldRefPaths": [
+                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Faith_of_Freyja.md:106:5"
+            ],
+            "boldKind": "phrase",
+            "historical": true
         },
         {
             "oldName": "Hammersfjall",
@@ -2187,7 +2286,7 @@
             "note": "Vithgard's old seat",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Regions/Ankaris/Nordlands/Vithgard/Thorrborg.md:3:14"
+                "b71855eb9:assets/content/Regions/Ankaris/Nordlands/Vithgard/Thorrborg.md:3:14"
             ],
             "boldKind": "none"
         },
@@ -2212,7 +2311,7 @@
             "note": "_mál_ \"speech, sayings\" (Stormmál, Málalidabandalag) + _-stead_ (Thrymstead, Lögstead, Hringstead, Ormstead) — Speech-Stead, a Malagna town",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Regions/Ankaris/Nordlands/Malagna/Havamal.md:3:14"
+                "b71855eb9:assets/content/Regions/Ankaris/Nordlands/Malagna/Havamal.md:3:14"
             ],
             "boldKind": "none"
         },
@@ -2263,7 +2362,7 @@
             "note": "_hrand-_ \"a thing set down that will not be moved\" (hard grade) + _-stead_ (normalising _-stad_, with Haukstad) — the settlement's own note calls it the kingdom's \"principal stronghold and de facto capital,\" held by one dynasty for three generations; the retired _Bjorn-_ (bear) is not a name-stem, and the note's bear-lore is kept as the Bjorn-Königer dynasty's own, not the town's",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Regions/Ankaris/Nordlands/Vithgard/Bjornstad.md:3:14"
+                "b71855eb9:assets/content/Regions/Ankaris/Nordlands/Vithgard/Bjornstad.md:3:14"
             ],
             "boldKind": "none"
         },
@@ -2287,7 +2386,9 @@
             "description": null,
             "note": "_hörgs-_ (genitive of _hörgr_, \"an open stone altar\"), held from a sanctuary under the theophoric clause, + _-vangr_ \"an open field\" — the note describes a settlement \"built around a sacred grove and standing stones,\" an open-air altar rather than ground held for itself, so it is held from a sanctuary and not from a stem",
             "prose": null,
-            "oldRefPaths": ["main:assets/content/Regions/Ankaris/Nordlands/Nordheim/Bloth.md:3:14"],
+            "oldRefPaths": [
+                "b71855eb9:assets/content/Regions/Ankaris/Nordlands/Nordheim/Bloth.md:3:14"
+            ],
             "boldKind": "none"
         },
         {
@@ -2311,7 +2412,7 @@
             "note": "_hvalg-_ \"a bay that shelters in any wind\" (hard grade) + _-vík_ (unchanged) — the note gives only \"Coastal Village\"; a sheltering bay is the plainest sense a _-vík_ can carry for an otherwise undescribed coastal settlement",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Regions/Ankaris/Nordlands/Malagna/Brunvik.md:3:14"
+                "b71855eb9:assets/content/Regions/Ankaris/Nordlands/Malagna/Brunvik.md:3:14"
             ],
             "boldKind": "none"
         },
@@ -2336,7 +2437,7 @@
             "note": "_hvarn-_ \"water that will not freeze\" (hard grade) + _-vík_ (unchanged) — the note gives only \"Coastal Village\"; chosen distinct from Brúnvík/Hvalgvík so the two undescribed coastal villages are not named from the same stock, and an inlet that stays open through winter is a fact worth a village's name",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Regions/Ankaris/Nordlands/Norgaad/Drekavik.md:3:14"
+                "b71855eb9:assets/content/Regions/Ankaris/Nordlands/Norgaad/Drekavik.md:3:14"
             ],
             "boldKind": "none"
         },
@@ -2361,7 +2462,7 @@
             "note": "_nalth-_ \"the last hour of a watch\" (hard grade) + _-mark_ \"a march, ground held at an edge\" (unchanged) — the note gives only \"Border Settlement\"; a frontier holding is kept by its watch, and the retired _Frost-_ is not a name-stem",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Regions/Ankaris/Nordlands/Nordheim/Frostmark.md:3:14"
+                "b71855eb9:assets/content/Regions/Ankaris/Nordlands/Nordheim/Frostmark.md:3:14"
             ],
             "boldKind": "none"
         },
@@ -2386,7 +2487,7 @@
             "note": "_thrald-_ \"the pull of a current under calm water\" (hard grade) + _-fjord_ (unchanged) — the note gives only \"Fishing Village\"; reading the fjord's current is a fisherfolk's essential skill, and the retired _Grey-_ names no stock at all",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Regions/Ankaris/Nordlands/Nordheim/Greyfjord.md:3:14"
+                "b71855eb9:assets/content/Regions/Ankaris/Nordlands/Nordheim/Greyfjord.md:3:14"
             ],
             "boldKind": "none"
         },
@@ -2411,7 +2512,7 @@
             "note": "_dvarn-_ \"a door that is never barred\" (hard grade) + _-vík_ (unchanged) — the note gives only \"Port Town\"; an open harbor whose door is never barred to shipping is the plainest sense a port can carry",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Regions/Ankaris/Nordlands/Vithgard/Haldrvik.md:3:14"
+                "b71855eb9:assets/content/Regions/Ankaris/Nordlands/Vithgard/Haldrvik.md:3:14"
             ],
             "boldKind": "none"
         },
@@ -2436,7 +2537,7 @@
             "note": "_krald-_ \"a load a beast carries without complaint\" (hard grade) + _-stead_ (normalising _-stad_, per the lexicon's own arithmetic) — the note gives only \"Trading Post\"; a trading post lives on the pack-trains that carry its goods in",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Regions/Ankaris/Nordlands/Nordheim/Haukstad.md:3:14"
+                "b71855eb9:assets/content/Regions/Ankaris/Nordlands/Nordheim/Haukstad.md:3:14"
             ],
             "boldKind": "none"
         },
@@ -2461,7 +2562,7 @@
             "note": "_gnaldr-_ \"floes grinding on one another\" (hard grade) + _-fjord_ (unchanged) — the note describes \"currents that pull wrongly and lights that dance beneath the ice in winter\"; the grinding of pack ice is the fjord's own defining, eerie sound, kept distinct from Ravensholm/Ódholm's Odin-held name so the two raven-adjacent settlements are not named from the same source",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Regions/Ankaris/Nordlands/Norgaad/Hrafnfjord.md:3:14"
+                "b71855eb9:assets/content/Regions/Ankaris/Nordlands/Norgaad/Hrafnfjord.md:3:14"
             ],
             "boldKind": "none"
         },
@@ -2486,7 +2587,7 @@
             "note": "_vrath-_ \"the temper iron takes from the fire\" (hard grade) + _-havn_ (unchanged) — the note calls this Norgaad's \"Iron Harbor,\" a militant port of smithies and a standing garrison; the tempering fire is the closest name-stem sense to the retired Iron gloss",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Regions/Ankaris/Nordlands/Norgaad/Jarnhavn.md:3:14"
+                "b71855eb9:assets/content/Regions/Ankaris/Nordlands/Norgaad/Jarnhavn.md:3:14"
             ],
             "boldKind": "none"
         },
@@ -2511,7 +2612,7 @@
             "note": "_knarv-_ \"a joint made to take strain\" (hard grade) + _-vík_ (unchanged) — the note gives only \"Harbor Town\"; chosen distinct from Járnhavn/Vrathavn (also retired an Iron- name) for the structural sense of a dock built to bear a harbor's strain, rather than the fire that tempers a blade",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Regions/Ankaris/Nordlands/Vithgard/Jarnvik.md:3:14"
+                "b71855eb9:assets/content/Regions/Ankaris/Nordlands/Vithgard/Jarnvik.md:3:14"
             ],
             "boldKind": "none"
         },
@@ -2536,7 +2637,7 @@
             "note": "_hnarv-_ \"the notch cut to count off a year\" (hard grade) + _-dal_ (unchanged) — the note gives only \"Valley Settlement\"; a dale is itself a notch cut into the land, echoing the stem's own sense, and the retired _Kvenn-_ opens on \"kv,\" which Nordmal does not open on",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Regions/Ankaris/Nordlands/Vithgard/Kvenndal.md:3:14"
+                "b71855eb9:assets/content/Regions/Ankaris/Nordlands/Vithgard/Kvenndal.md:3:14"
             ],
             "boldKind": "none"
         },
@@ -2561,7 +2662,7 @@
             "note": "_marv-_ \"the grain in worked antler\" (hard grade) + _-stead_ (unchanged) — the note names it only \"Town\"; the stem is chosen for its plain, workaday craft sense rather than claiming a distinguishing feature the note does not state",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Regions/Ankaris/Nordlands/Vithgard/Ormstead.md:3:14"
+                "b71855eb9:assets/content/Regions/Ankaris/Nordlands/Vithgard/Ormstead.md:3:14"
             ],
             "boldKind": "none"
         },
@@ -2586,7 +2687,7 @@
             "note": "held from a god under the theophoric clause: Ódinn's settled name _Ódvar_ (concordance, deity) clipped to its first element _ód-_, + _-holm_ (unchanged) — the note is explicit that the settlement grew up around Odin's own temple and \"was founded in the age of heroes, when Odin himself walked the earth,\" the corpus's clearest case of a place held from a god rather than from the ground alone",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Regions/Ankaris/Nordlands/Nordheim/Ravensholm.md:3:14"
+                "b71855eb9:assets/content/Regions/Ankaris/Nordlands/Nordheim/Ravensholm.md:3:14"
             ],
             "boldKind": "none"
         },
@@ -2611,7 +2712,7 @@
             "note": "_ralth-_ \"how far a voice carries over water\" (hard grade) + _-holm_ (normalising _-holme_, per the lexicon's own arithmetic) — the note names it only \"Town\"; hailing across open water is the natural sense for an otherwise undescribed holm",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Regions/Ankaris/Nordlands/Nordheim/Skarholme.md:3:14"
+                "b71855eb9:assets/content/Regions/Ankaris/Nordlands/Nordheim/Skarholme.md:3:14"
             ],
             "boldKind": "none"
         },
@@ -2636,7 +2737,7 @@
             "note": "_gnarth-_ \"the set of a jaw that will not open\" (hard grade) + _-borg_ (unchanged) — the note gives only \"Fortified Town\"; the stem's unyielding sense matches a defended stronghold where no further detail is given",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Regions/Ankaris/Nordlands/Malagna/Skorrborg.md:3:14"
+                "b71855eb9:assets/content/Regions/Ankaris/Nordlands/Malagna/Skorrborg.md:3:14"
             ],
             "boldKind": "none"
         },
@@ -2661,7 +2762,7 @@
             "note": "_flarn-_ \"a flake of stone split off by frost\" (hard grade) + _-brekka_ (unchanged) — the note gives only \"Mountain Settlement\"; frost-shattered scree is what a slope in the high country is made of",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Regions/Ankaris/Nordlands/Norgaad/Stalbrekka.md:3:14"
+                "b71855eb9:assets/content/Regions/Ankaris/Nordlands/Norgaad/Stalbrekka.md:3:14"
             ],
             "boldKind": "none"
         },
@@ -2686,7 +2787,7 @@
             "note": "_tvarn-_ \"two things that must be counted as one\" (hard grade) + _-mark_ (unchanged) — the note is explicit that the town \"rises... at the confluence of two swift rivers\" on the kingdom's edge, which the stem names directly and the retired _Stein-_ (stone) does not",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Regions/Ankaris/Nordlands/Norgaad/Steinmark.md:3:14"
+                "b71855eb9:assets/content/Regions/Ankaris/Nordlands/Norgaad/Steinmark.md:3:14"
             ],
             "boldKind": "none"
         },
@@ -2711,7 +2812,7 @@
             "note": "_knalth-_ \"an oath that binds without being written\" (hard grade) + _-stead_ (unchanged) — the note names it only \"Fortified Town\"; an unwritten binding oath matches a garrison town's shared defense where no further detail is given",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Regions/Ankaris/Nordlands/Nordheim/Thrymstead.md:3:14"
+                "b71855eb9:assets/content/Regions/Ankaris/Nordlands/Nordheim/Thrymstead.md:3:14"
             ],
             "boldKind": "none"
         },
@@ -2736,7 +2837,7 @@
             "note": "_dvalg-_ \"sleep taken standing, on watch\" (hard grade) + _-heim_ (unchanged) — the note names it only \"Settlement\"; a watchful rest suits an ordinary home where no more specific detail is given",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Regions/Ankaris/Nordlands/Nordheim/Ulfheim.md:3:14"
+                "b71855eb9:assets/content/Regions/Ankaris/Nordlands/Nordheim/Ulfheim.md:3:14"
             ],
             "boldKind": "none"
         },
@@ -2761,7 +2862,7 @@
             "note": "_brald-_ \"a fire banked to keep overnight\" (hard grade) + _-heim_ (unchanged) — the note names it only \"Settlement\"; a banked hearth-fire is the plainest sense a home can carry",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Regions/Ankaris/Nordlands/Malagna/Valdarheim.md:3:14"
+                "b71855eb9:assets/content/Regions/Ankaris/Nordlands/Malagna/Valdarheim.md:3:14"
             ],
             "boldKind": "none"
         },
@@ -2785,7 +2886,9 @@
             "description": null,
             "note": "_tvalg-_ \"the lesser of a pair\" (hard grade) + _-gard_ (unchanged) — the note names it only \"Town\"; the stem is chosen for its plainness, marking an ordinary holding rather than a distinguished one",
             "prose": null,
-            "oldRefPaths": ["main:assets/content/Regions/Ankaris/Nordlands/Targud/Valgard.md:3:14"],
+            "oldRefPaths": [
+                "b71855eb9:assets/content/Regions/Ankaris/Nordlands/Targud/Valgard.md:3:14"
+            ],
             "boldKind": "none"
         },
         {
@@ -2809,7 +2912,7 @@
             "note": "_skrald-_ \"a cry the wind carries further than it should\" (hard grade) + _-borg_ (unchanged) — the note describes a \"Hill Fort\"; an exposed height where a warning carries unnaturally far on the wind answers the retired _Vind-_ (wind) sense while grounding it in a real name-stem",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Regions/Ankaris/Nordlands/Nordheim/Vindborg.md:3:14"
+                "b71855eb9:assets/content/Regions/Ankaris/Nordlands/Nordheim/Vindborg.md:3:14"
             ],
             "boldKind": "none"
         },
@@ -2834,7 +2937,7 @@
             "note": "_vrild-_ (middle grade) + `-mýl` (a man) — son of Hrafnkell, so takes the grade after his father's hard; vrald 'the weight a rope will take' fits a young protector shouldering the burden of keeping others from the harm his own family suffered",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Bjalfi_Hrafnsvald.md:6:3"
+                "5c79c346f:assets/content/Characters/Heroes_and_Knaves/Bjalfi_Hrafnsvald.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -2859,7 +2962,7 @@
             "note": "_ralth-_ (hard grade) + `-thýra` (a woman) — a street-singer whose ballads move listeners in taverns and alleys; ralth 'how far a voice carries over water' is a singer's own gift",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Bjorg_Drekanott.md:3:42"
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Bjorg_Drekanott.md:3:14"
             ],
             "boldKind": "none"
         },
@@ -2884,7 +2987,7 @@
             "note": "_hvalg-_ (hard grade) + `-vir` (a man) — an innkeeper whose tavern is 'a sanctuary' and 'a refuge'; hvalg 'a bay that shelters in any wind' is exactly that",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Bjorn_Vetrdomr.md:6:3"
+                "b29be50fd:assets/content/Characters/Heroes_and_Knaves/Bjorn_Vetrdomr.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -2909,7 +3012,7 @@
             "note": "_gnaldr-_ (hard grade) + `-thann` (a man) — a soldier ground down by decades of campaigns; gnaldr 'floes grinding on one another' is the friction and attrition of a life at war",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Bothvarr_Solvargr.md:6:3"
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Bothvarr_Solvargr.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -2934,7 +3037,7 @@
             "note": "_tvirn-_ (middle grade) + `-vir` (a man) — a clanless skald who 'plays both sides,' bending truth as needed; tvarn 'two things that must be counted as one' names a man who is never only one thing",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Dagmar_the_Wanderer.md:6:3"
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Dagmar_the_Wanderer.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -2959,7 +3062,7 @@
             "note": "_hlisk-_ (middle grade) + `-thann` (a man) — a thatcher of deep quiet who reads the weather before he reads a room; hlask 'the hush that follows heavy snow' is his own stillness",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Dek_Vetrdomr.md:3:39"
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Dek_Vetrdomr.md:3:14"
             ],
             "boldKind": "none"
         },
@@ -2984,7 +3087,7 @@
             "note": "_vrath-_ (hard grade) + `-mýl` (a man) — a shipwright with a latent gift for fire; vrath 'the temper iron takes from the fire' is his own magic, literally",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Eldrid_Firehair.md:6:3"
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Eldrid_Firehair.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -3009,7 +3112,7 @@
             "note": "_thilm-_ (middle grade) + `-selda` (a woman) — an innkeeper whose stern exterior hides real warmth, and whose inn is 'a space of true sanctuary'; thalm 'the still air inside a drift' is the calm she keeps at the center of a hard world",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Ermelina_Drekanott.md:6:3"
+                "5c79c346f:assets/content/Characters/Heroes_and_Knaves/Ermelina_Drekanott.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -3034,7 +3137,7 @@
             "note": "_tvarn-_ (hard grade) + `-ynda` (a woman) — a seidr-woman who walks between the mortal and spirit worlds; tvarn 'two things that must be counted as one' names exactly that liminal standing",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Groa_the_Seidr_of_Norgaad.md:6:3"
+                "b29be50fd:assets/content/Characters/Heroes_and_Knaves/Groa_the_Seidr_of_Norgaad.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -3059,7 +3162,7 @@
             "note": "_thrald-_ (hard grade) + `-orv` (a man) — a mercenary whose stoic exterior 'covers a man surprisingly troubled'; thrald 'the pull of a current under calm water' is exactly that hidden undertow",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Gunnsteinn_Vornheim.md:6:3"
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Gunnsteinn_Vornheim.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -3084,7 +3187,7 @@
             "note": "_knalth-_ (hard grade) + `-rinna` (a woman) — a teamster whose word is proverbially binding ('if Gunnvör promised delivery, that delivery would manifest'); knalth 'an oath that binds without being written' is her whole reputation",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Gunnvor_Hafringr.md:6:3"
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Gunnvor_Hafringr.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -3109,7 +3212,7 @@
             "note": "_svulth-_ (deep grade) + `-thýra` (a woman) — a solitary trapper of the deep wilderness, cold and isolated by trade; svalth 'the cold that comes off open water' names her chosen isolation",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Guthrun_Solvargr.md:6:3"
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Guthrun_Solvargr.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -3134,7 +3237,7 @@
             "note": "_krald-_ (hard grade) + `-mýl` (a man) — a woodcutter who bears his solitary labor and his old grief without complaint; krald 'a load a beast carries without complaint' is his whole temperament",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Herjulf_Vetrdomr.md:6:3"
+                "5c79c346f:assets/content/Characters/Heroes_and_Knaves/Herjulf_Vetrdomr.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -3159,7 +3262,7 @@
             "note": "_flarn-_ (hard grade) + `-thýra` (a woman) — a potter so exacting she 'shatters finished pieces' that miss the mark; flarn 'a flake of stone split off by frost' is her own perfectionism made literal",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Hildr_Steinblot.md:6:3"
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Hildr_Steinblot.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -3184,7 +3287,7 @@
             "note": "_dvarn-_ (hard grade) + `-vir` (a man) — a tentmaker who believes 'good shelter saves lives'; dvarn 'a door that is never barred' is the whole philosophy of his craft. Brothers with Thjótharr, so both take the hard grade; Bjalfi is his son and takes the grade after",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Hrafnkell_Hrafnsvald.md:6:3"
+                "5c79c346f:assets/content/Characters/Heroes_and_Knaves/Hrafnkell_Hrafnsvald.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -3209,7 +3312,7 @@
             "note": "_dvilg-_ (middle grade) + `-thýra` (a woman) — an enslaved household servant who has 'perfected the art of appearing submissive while observing everything'; dvalg 'sleep taken standing, on watch' is exactly her forced, constant vigilance",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Ingrithr_Skyrekkr.md:6:3"
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Ingrithr_Skyrekkr.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -3233,7 +3336,9 @@
             "description": null,
             "note": "_thrild-_ (middle grade) + `-vir` (a man) — a tailor whose 'passion held under disciplined control' hides beneath a quiet reserve; thrald 'the pull of a current under calm water' is that submerged intensity",
             "prose": null,
-            "oldRefPaths": ["main:assets/content/Characters/Heroes_and_Knaves/Karr_Iseldr.md:3:38"],
+            "oldRefPaths": [
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Karr_Iseldr.md:3:14"
+            ],
             "boldKind": "none"
         },
         {
@@ -3257,7 +3362,7 @@
             "note": "_hrand-_ (hard grade) + `-rinna` (a woman) — a thatcher whose roofs and whose stubborn resolve both outlast the ordinary; hrand 'a thing set down that will not be moved' names her durability",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Osk_Drekanott.md:3:40"
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Osk_Drekanott.md:3:14"
             ],
             "boldKind": "none"
         },
@@ -3282,7 +3387,7 @@
             "note": "_hnurv-_ (deep grade) + `-thýra` (a woman) — a dyer who has spent decades counting out her craft's slow mastery; hnarv 'the notch cut to count off a year' names that patient accumulation",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Oskunn_Bjargskorn.md:6:3"
+                "b29be50fd:assets/content/Characters/Heroes_and_Knaves/Oskunn_Bjargskorn.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -3307,7 +3412,7 @@
             "note": "_snurv-_ (deep grade) + `-thann` (a man) — a thatcher famed for forecasting weather with uncanny accuracy; snarv 'the hour before weather arrives' is his own gift, deep grade for his age and long widowhood",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Rangr_Vetrdomr.md:3:41"
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Rangr_Vetrdomr.md:3:14"
             ],
             "boldKind": "none"
         },
@@ -3332,7 +3437,7 @@
             "note": "_tvurn-_ (deep grade) + `-thann` (a man) — a shaman torn between Nordmen tradition and southern academy, ergi and honored, belonging fully to neither; tvarn 'two things that must be counted as one' is the whole of his contradiction",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Rikarthr_Iseldr.md:6:3"
+                "b29be50fd:assets/content/Characters/Heroes_and_Knaves/Rikarthr_Iseldr.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -3357,7 +3462,7 @@
             "note": "_enth-_ (hard grade) + `-orv` (a man) — a court jester who lives on 'the far side' of every mask he wears, never quite reaching the person underneath; enth 'the far side of a pass' names that unreachable far shore",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Rognvaldr_Asgrind.md:6:3"
+                "5c79c346f:assets/content/Characters/Heroes_and_Knaves/Rognvaldr_Asgrind.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -3382,7 +3487,7 @@
             "note": "_hlirth-_ (middle grade) + `-selda` (a woman) — a shield-maiden who holds a warband's duty to defend her home ground; hlirth 'the slope a hall is set on' names the ground she stands for",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Runa_Hringsdottir.md:6:3"
+                "b29be50fd:assets/content/Characters/Heroes_and_Knaves/Runa_Hringsdottir.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -3407,7 +3512,7 @@
             "note": "_hvarn-_ (hard grade) + `-thann` (a man) — a sailor whose whole life is the sea; hvarn 'water that will not freeze' is literally his working element",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Sigfuss_Stormrot.md:6:3"
+                "b29be50fd:assets/content/Characters/Heroes_and_Knaves/Sigfuss_Stormrot.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -3432,7 +3537,7 @@
             "note": "_glirv-_ (middle grade) + `-rinna` (a woman) — a textile artist absorbed in color, form and light; glarv 'light lying flat on water' is the visual quality her patterned work seeks",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Skufrun_Stormrot.md:6:3"
+                "5c79c346f:assets/content/Characters/Heroes_and_Knaves/Skufrun_Stormrot.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -3457,7 +3562,7 @@
             "note": "_brald-_ (hard grade) + `-thann` (a man) — a tentmaker who guards his family's craft and keeps its standard burning against a faster, cheaper age; brald 'a fire banked to keep overnight' is that tended, unyielding continuity (ending chosen to avoid duplicating an already-named background character elsewhere in the corpus)",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Skuli_Vetrdomr.md:3:41"
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Skuli_Vetrdomr.md:3:14"
             ],
             "boldKind": "none"
         },
@@ -3482,7 +3587,7 @@
             "note": "_thrask-_ (hard grade) + `-orv` (a man) — a former thrall of 'contained fury,' worn down by his condition like a keel scraping shingle; thrask names that grinding friction (ending chosen to avoid duplicating an already-named background character elsewhere in the corpus)",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Snorri_Jarnskel.md:6:3"
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Snorri_Jarnskel.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -3507,7 +3612,7 @@
             "note": "_skrald-_ (hard grade) + `-thann` (a man) — a clothier obsessed with recognition and 'immortality through his art'; skrald 'a cry the wind carries further than it should' names a reputation that wants to carry further than it has earned. Brother of Hrafnkell, hard grade to match",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Thjotharr_Hrafnsvald.md:6:3"
+                "5c79c346f:assets/content/Characters/Heroes_and_Knaves/Thjotharr_Hrafnsvald.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -3532,7 +3637,7 @@
             "note": "_ulth-_ (deep grade) + `-orv` (a man) — a man enslaved and burning for freedom above all else; ulth 'the limit a claim reaches' names the boundary of what is owed him and what he means to reclaim",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Thorlakr_Vindrkve.md:6:3"
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Thorlakr_Vindrkve.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -3557,7 +3662,7 @@
             "note": "_thulm-_ (deep grade) + `-vir` (a man) — a potter who guards patient tradition against fashionable haste; thulm 'the still air inside a drift' is his own unhurried stillness",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Thorsteinn_Frostulf.md:6:3"
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Thorsteinn_Frostulf.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -3582,7 +3687,7 @@
             "note": "_rulth-_ (deep grade) + `-vir` (a man) — a herder who has followed livestock across windswept highlands his whole life; rulth 'how far a voice carries over water' extends here to a herder's call across open ground",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Thorsteinn_Jarnskel.md:6:3"
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Thorsteinn_Jarnskel.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -3607,7 +3712,7 @@
             "note": "_thalm-_ (hard grade) + `-thann` (a man) — a glassworker of 'measured calm,' precise and unhurried; thalm 'the still air inside a drift' matches his temperament",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Thorsteinn_Solvargr.md:6:3"
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Thorsteinn_Solvargr.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -3632,7 +3737,7 @@
             "note": "_alth-_ (hard grade) + `-ynda` (a woman) — a chandler pushing her craft to where beauty and utility meet; alth 'the limit a claim reaches' names that outer edge she keeps testing",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Unnr_Eldskari.md:3:40"
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Unnr_Eldskari.md:3:14"
             ],
             "boldKind": "none"
         },
@@ -3657,7 +3762,7 @@
             "note": "_knilth-_ (middle grade) + `-thann` (a man) — a saga-keeper of an oral tradition, sworn to hold his clan's history without ever writing it; knalth 'an oath that binds without being written' is the whole of his craft",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Vigbrandr_Skyrekkr.md:6:3"
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Vigbrandr_Skyrekkr.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -3682,7 +3787,7 @@
             "note": "_hlask-_ (hard grade) + `-orv` (a man) — a woodcutter of 'deep silence' who thinks before he speaks; hlask 'the hush that follows heavy snow' is that same stillness",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Voggr_Blotholl.md:3:41"
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Voggr_Blotholl.md:3:14"
             ],
             "boldKind": "none"
         },
@@ -3707,7 +3812,7 @@
             "note": "_svalth-_ (hard grade) + `-rinna` (a woman) — raised on the storm-battered coast of Nordheim; svalth 'the cold that comes off open water' names the hard coast that shaped her",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Ylira_Skorrsdottir.md:3:45"
+                "5c79c346f:assets/content/Characters/Heroes_and_Knaves/Ylira_Skorrsdottir.md:3:14"
             ],
             "boldKind": "none"
         },
@@ -3732,7 +3837,7 @@
             "note": "_tvalg-_ (hard grade) + `-thann` (a man) — a jester who is always, by profession, the lesser figure beside the noble he entertains, however much true influence he holds; tvalg 'the lesser of a pair' names that public standing",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Yngvarr_Blotholl.md:6:3"
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Yngvarr_Blotholl.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -3757,7 +3862,7 @@
             "note": "_vruld-_ (deep grade) + `-orv` (a man) — a guardsman who carries the weight of duty and searches for a cause worth it; vruld 'the weight a rope will take' names that load",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Yngvarr_Drottgar.md:6:3"
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Yngvarr_Drottgar.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -3782,7 +3887,7 @@
             "note": "_hlarth-_ (hard grade) + `-vir` (a man) — a giant of a woodsman bound to the forest itself; hlarth 'the slope a hall is set on' is the ground he has become part of. The note's own worked example of a lawful name",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_of_Asguard/Asbjorn_Oakheart.md:6:3"
+                "89fbd0861:assets/content/Characters/Heroes_of_Asguard/Asbjorn_Oakheart.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -3807,7 +3912,7 @@
             "note": "_gnuldr-_ (deep grade) + `-thýra` (a woman) — 'a fusion of different beings' abandoned by her creator; gnuldr 'floes grinding on one another' names her composite, ground-together nature",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_of_Asguard/Astrid_the_Forsaken.md:6:3"
+                "89fbd0861:assets/content/Characters/Heroes_of_Asguard/Astrid_the_Forsaken.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -3832,7 +3937,7 @@
             "note": "_skrild-_ (middle grade) + `-mýl` (a man) — a war-leader 'whose war cry was said to echo like thunder'; skrild 'a cry the wind carries further than it should' is that carrying voice",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_of_Asguard/Bjorn_Stormborn.md:6:3"
+                "89fbd0861:assets/content/Characters/Heroes_of_Asguard/Bjorn_Stormborn.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -3857,7 +3962,7 @@
             "note": "_svilth-_ (middle grade) + `-selda` (a woman) — eerily calm even walking through fire; svilth 'the cold that comes off open water' is an ironic, deliberate coolness set against her flame",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_of_Asguard/Brynhildr_Ashenmaiden.md:6:3"
+                "89fbd0861:assets/content/Characters/Heroes_of_Asguard/Brynhildr_Ashenmaiden.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -3882,7 +3987,7 @@
             "note": "_knalth-_ (hard grade) + `-thann` (a man) — wants to 'codify the scattered oral laws' into something written and binding; knalth 'an oath that binds without being written' is exactly the old order he means to put into writing",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_of_Asguard/Eirikr_Lawgiver.md:6:3"
+                "89fbd0861:assets/content/Characters/Heroes_of_Asguard/Eirikr_Lawgiver.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -3907,7 +4012,7 @@
             "note": "_vrith-_ (middle grade) + `-orv` (a man) — a warrior whose heart 'burned with the very fire of Súrtr'; vrith 'the temper iron takes from the fire' is that same tempering by flame",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_of_Asguard/Eldgrimr_Flameheart.md:6:3"
+                "89fbd0861:assets/content/Characters/Heroes_of_Asguard/Eldgrimr_Flameheart.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -3932,7 +4037,7 @@
             "note": "_glurv-_ (deep grade) + `-selda` (a woman) — a merchant devoted to Fréyja who sees value and prosperity in everything; glurv 'light lying flat on water' is that glint of worth she finds everywhere",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_of_Asguard/Freydis_Silverhand.md:6:3"
+                "89fbd0861:assets/content/Characters/Heroes_of_Asguard/Freydis_Silverhand.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -3957,7 +4062,7 @@
             "note": "_hlusk-_ (deep grade) + `-mýl` (a man) — a sorcerer of quiet, vile menace; hlusk 'the hush that follows heavy snow' turned to a colder, more sinister silence",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_of_Asguard/Grima_Svartrunar.md:6:3"
+                "89fbd0861:assets/content/Characters/Heroes_of_Asguard/Grima_Svartrunar.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -3982,7 +4087,7 @@
             "note": "_skulf-_ (deep grade) + `-mýl` (a man) — a provocateur whose words crack the social order the way ice cracks before it gives; skulf 'the shudder in ice before it gives' is that same fracture",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_of_Asguard/Hakon_Fire-Tongue.md:6:3"
+                "89fbd0861:assets/content/Characters/Heroes_of_Asguard/Hakon_Fire-Tongue.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -4007,7 +4112,7 @@
             "note": "_dvulg-_ (deep grade) + `-ynda` (a woman) — a thief who studies a target for weeks before striking; dvulg 'sleep taken standing, on watch' is a spy's patient, wakeful stillness",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_of_Asguard/Helgya_Shadow-Walker.md:6:3"
+                "89fbd0861:assets/content/Characters/Heroes_of_Asguard/Helgya_Shadow-Walker.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -4032,7 +4137,7 @@
             "note": "_hnirv-_ (middle grade) + `-mýl` (a man) — a seer and runemaster who keeps the accumulated lore of generations; hnirv 'the notch cut to count off a year' names that long tally of remembered years",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_of_Asguard/Hrafnleif_the_Wise.md:6:3"
+                "89fbd0861:assets/content/Characters/Heroes_of_Asguard/Hrafnleif_the_Wise.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -4057,7 +4162,7 @@
             "note": "_krild-_ (middle grade) + `-thann` (a man) — a warrior who would 'rather absorb a hundred blows than deliver one unjust strike'; krild 'a load a beast carries without complaint' is the burden of a shield-bearer",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_of_Asguard/Hrolfur_Shieldbearer.md:6:3"
+                "89fbd0861:assets/content/Characters/Heroes_of_Asguard/Hrolfur_Shieldbearer.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -4082,7 +4187,7 @@
             "note": "_vruth-_ (deep grade) + `-vir` (a man) — a blacksmith who reveres 'the raw power' of the forge; vruth 'the temper iron takes from the fire' is literally his trade",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_of_Asguard/Hrothgar_Ironfist.md:6:3"
+                "89fbd0861:assets/content/Characters/Heroes_of_Asguard/Hrothgar_Ironfist.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -4107,7 +4212,7 @@
             "note": "_mirv-_ (middle grade) + `-rinna` (a woman) — a farmer blessed by Fréyr whose gift is the grain itself; mirv 'the grain in worked antler' echoes the harvest that names her",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_of_Asguard/Inga_Harvest-Blessed.md:6:3"
+                "89fbd0861:assets/content/Characters/Heroes_of_Asguard/Inga_Harvest-Blessed.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -4132,7 +4237,7 @@
             "note": "_rilth-_ (middle grade) + `-orv` (a man) — a wandering skald whose voice carries the sagas from village to village; rilth 'how far a voice carries over water' is his craft itself",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_of_Asguard/Leif_Runaskald.md:6:3"
+                "89fbd0861:assets/content/Characters/Heroes_of_Asguard/Leif_Runaskald.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -4157,7 +4262,7 @@
             "note": "_hvirn-_ (middle grade) + `-orv` (a man) — a sorcerer of cold, remorseless calculation; hvirn 'water that will not freeze' names that unyielding, glacial calm",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_of_Asguard/Morkvidr_the_Deathmage.md:6:3"
+                "89fbd0861:assets/content/Characters/Heroes_of_Asguard/Morkvidr_the_Deathmage.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -4182,7 +4287,7 @@
             "note": "_tvilg-_ (middle grade) + `-orv` (a man) — a man merged with Dreadspawn essence, trapped between two natures at war; tvilg 'the lesser of a pair' names the half of him that keeps losing ground to the other",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_of_Asguard/Ragnar_the_Reforged.md:6:3"
+                "89fbd0861:assets/content/Characters/Heroes_of_Asguard/Ragnar_the_Reforged.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -4207,7 +4312,7 @@
             "note": "_hvulg-_ (deep grade) + `-selda` (a woman) — a sailor-warrior devoted to defending her people from the sea's dangers; hvulg 'a bay that shelters in any wind' is the protection she offers others",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_of_Asguard/Sifhild_Sea-Bane.md:6:3"
+                "89fbd0861:assets/content/Characters/Heroes_of_Asguard/Sifhild_Sea-Bane.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -4232,7 +4337,7 @@
             "note": "_dvirn-_ (middle grade) + `-mýl` (a man) — a trickster guided by Lôki who slips past any barrier; dvirn 'a door that is never barred' fits a man no lock or persona keeps out",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_of_Asguard/Sigurd_the_Deceiver.md:6:3"
+                "89fbd0861:assets/content/Characters/Heroes_of_Asguard/Sigurd_the_Deceiver.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -4257,7 +4362,7 @@
             "note": "_vrald-_ (hard grade) + `-orv` (a man) — a warrior who carries the weight of justice with one hand, as Týr carries the weight of his own sacrifice; vrald 'the weight a rope will take' is that burden (ending chosen to avoid duplicating an already-named background character elsewhere in the corpus)",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_of_Asguard/Sigvardr_One-Hand.md:6:3"
+                "89fbd0861:assets/content/Characters/Heroes_of_Asguard/Sigvardr_One-Hand.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -4282,7 +4387,7 @@
             "note": "_murv-_ (deep grade) + `-selda` (a woman) — blessed by Fréyja with a voice and charm polished by long practice at court; murv 'the grain in worked antler' names that fine, worked quality",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_of_Asguard/Sigyn_the_Enchantress.md:6:3"
+                "89fbd0861:assets/content/Characters/Heroes_of_Asguard/Sigyn_the_Enchantress.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -4307,7 +4412,7 @@
             "note": "_hvilg-_ (middle grade) + `-thýra` (a woman) — a shieldmaiden who balances the blade with Ódinn's deeper teachings; hvilg 'a bay that shelters in any wind' extends a shield's own sense to a person",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_of_Asguard/Skjaldmaer_Eiriksdottir.md:6:3"
+                "89fbd0861:assets/content/Characters/Heroes_of_Asguard/Skjaldmaer_Eiriksdottir.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -4332,7 +4437,7 @@
             "note": "_brild-_ (middle grade) + `-selda` (a woman) — a healer whose touch 'brings warmth and life'; brild 'a fire banked to keep overnight' is the tended warmth she brings to the wounded",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_of_Asguard/Thora_Sunna.s_Blessing.md:6:3"
+                "89fbd0861:assets/content/Characters/Heroes_of_Asguard/Thora_Sunna.s_Blessing.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -4357,7 +4462,7 @@
             "note": "_skalf-_ (hard grade) + `-orv` (a man) — a warrior whose 'hammer blows echo like thunder'; skalf 'the shudder in ice before it gives' is that same shattering crack",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_of_Asguard/Thorgil_Thunderstrike.md:6:3"
+                "89fbd0861:assets/content/Characters/Heroes_of_Asguard/Thorgil_Thunderstrike.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -4382,7 +4487,7 @@
             "note": "_knirv-_ (middle grade) + `-thýra` (a woman) — a woman who transformed suffering under great pressure into lasting power; knirv 'a joint made to take strain' is exactly that",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_of_Asguard/Thyra_Goldenhair.md:6:3"
+                "89fbd0861:assets/content/Characters/Heroes_of_Asguard/Thyra_Goldenhair.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -4407,7 +4512,7 @@
             "note": "_bruld-_ (deep grade) + `-orv` (a man) — a farmer devoted to Fréyr who tends the land with patient generosity; bruld 'a fire banked to keep overnight' is that patient, tended nurture",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_of_Asguard/Torvald_Greenshield.md:6:3"
+                "89fbd0861:assets/content/Characters/Heroes_of_Asguard/Torvald_Greenshield.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -4432,7 +4537,7 @@
             "note": "_dvurn-_ (deep grade) + `-vir` (a man) — an obsessive who welcomes every dangerous, forbidden line of inquiry into Ymir's creations; dvurn 'a door that is never barred' names that open, reckless curiosity",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_of_Asguard/Valdrik_the_Shaper.md:6:3"
+                "89fbd0861:assets/content/Characters/Heroes_of_Asguard/Valdrik_the_Shaper.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -4457,7 +4562,7 @@
             "note": "_skruld-_ (deep grade) + `-thann` (a man) — a raider-turned-undead-warlord whose brutal name 'became synonymous with terror' across the land; skruld 'a cry the wind carries further than it should' is a reputation for slaughter that outran him",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_of_Asguard/Vargskaer_the_Fellblade.md:6:3"
+                "89fbd0861:assets/content/Characters/Heroes_of_Asguard/Vargskaer_the_Fellblade.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -4481,7 +4586,9 @@
             "description": null,
             "note": "_knurv-_ (deep grade) + `-thann` (a man) — a veteran longshoreman of twenty years handling cargo and strain at the docks; knurv 'a joint made to take strain' is his working life",
             "prose": null,
-            "oldRefPaths": ["main:assets/content/Characters/Occupations/Aevarr_Hafringr.md:3:42"],
+            "oldRefPaths": [
+                "89fbd0861:assets/content/Characters/Occupations/Aevarr_Hafringr.md:3:14"
+            ],
             "boldKind": "none"
         },
         {
@@ -4504,7 +4611,9 @@
             "description": null,
             "note": "_gnarth-_ (hard grade) + `-orv` (a man) — a huntsman 'slow to change a method that works'; gnarth 'the set of a jaw that will not open' is his stubborn steadiness",
             "prose": null,
-            "oldRefPaths": ["main:assets/content/Characters/Occupations/Aleifr_Frostulf.md:6:3"],
+            "oldRefPaths": [
+                "b29be50fd:assets/content/Characters/Occupations/Aleifr_Frostulf.md:6:10"
+            ],
             "boldKind": "none"
         },
         {
@@ -4527,7 +4636,9 @@
             "description": null,
             "note": "_hvurn-_ (deep grade) + `-vir` (a man) — an aging fisher who has spent a lifetime on the water; hvurn 'water that will not freeze', deep grade for his years",
             "prose": null,
-            "oldRefPaths": ["main:assets/content/Characters/Occupations/Eirikr_Stormrot.md:6:3"],
+            "oldRefPaths": [
+                "89fbd0861:assets/content/Characters/Occupations/Eirikr_Stormrot.md:6:10"
+            ],
             "boldKind": "none"
         },
         {
@@ -4550,7 +4661,9 @@
             "description": null,
             "note": "_flirn-_ (middle grade) + `-ynda` (a woman) — an agile ratter, quick and sharp in her work; flirn 'a flake of stone split off by frost' names that quick, sharp motion",
             "prose": null,
-            "oldRefPaths": ["main:assets/content/Characters/Occupations/Fritha_Stormrot.md:6:3"],
+            "oldRefPaths": [
+                "89fbd0861:assets/content/Characters/Occupations/Fritha_Stormrot.md:6:10"
+            ],
             "boldKind": "none"
         },
         {
@@ -4573,7 +4686,9 @@
             "description": null,
             "note": "_knulth-_ (deep grade) + `-vir` (a man) — a litigant known for binding contract disputes and property law; knulth 'an oath that binds without being written', deep grade for his established reputation",
             "prose": null,
-            "oldRefPaths": ["main:assets/content/Characters/Occupations/Grimr_Stormrot.md:3:41"],
+            "oldRefPaths": [
+                "89fbd0861:assets/content/Characters/Occupations/Grimr_Stormrot.md:3:14"
+            ],
             "boldKind": "none"
         },
         {
@@ -4596,7 +4711,9 @@
             "description": null,
             "note": "_nulth-_ (deep grade) + `-ynda` (a woman) — a field laborer who works reliably through to the end of every task; nulth 'the last hour of a watch' fits her steady endurance",
             "prose": null,
-            "oldRefPaths": ["main:assets/content/Characters/Occupations/Guthny_Eldskari.md:6:3"],
+            "oldRefPaths": [
+                "89fbd0861:assets/content/Characters/Occupations/Guthny_Eldskari.md:6:10"
+            ],
             "boldKind": "none"
         },
         {
@@ -4619,7 +4736,9 @@
             "description": null,
             "note": "_skilf-_ (middle grade) + `-vir` (a man) — a cautious huntsman attuned to subtle signs of game and danger; skalf 'the shudder in ice before it gives' is that fine attentiveness",
             "prose": null,
-            "oldRefPaths": ["main:assets/content/Characters/Occupations/Hallbjorn_Asgrind.md:6:3"],
+            "oldRefPaths": [
+                "89fbd0861:assets/content/Characters/Occupations/Hallbjorn_Asgrind.md:6:10"
+            ],
             "boldKind": "none"
         },
         {
@@ -4642,7 +4761,9 @@
             "description": null,
             "note": "_gnildr-_ (middle grade) + `-selda` (a woman) — an illusionist who layers false perception until even a seer is lost in it; gnildr 'floes grinding on one another' is that blurring and merging of boundaries",
             "prose": null,
-            "oldRefPaths": ["main:assets/content/Characters/Occupations/Hallveig_Stormrot.md:6:3"],
+            "oldRefPaths": [
+                "b29be50fd:assets/content/Characters/Occupations/Hallveig_Stormrot.md:6:10"
+            ],
             "boldKind": "none"
         },
         {
@@ -4665,7 +4786,9 @@
             "description": null,
             "note": "_gnirth-_ (middle grade) + `-thann` (a man) — a harbor guard whose fairness never bends; gnarth 'the set of a jaw that will not open' names that immovable evenhandedness",
             "prose": null,
-            "oldRefPaths": ["main:assets/content/Characters/Occupations/Harmund_Vetrdomr.md:3:43"],
+            "oldRefPaths": [
+                "b29be50fd:assets/content/Characters/Occupations/Harmund_Vetrdomr.md:3:14"
+            ],
             "boldKind": "none"
         },
         {
@@ -4688,7 +4811,9 @@
             "description": null,
             "note": "_hnarv-_ (hard grade) + `-ynda` (a woman) — a woodcutter working beside her brothers; hnarv 'the notch cut to count off a year' extends the tally of felling-marks to her own craft",
             "prose": null,
-            "oldRefPaths": ["main:assets/content/Characters/Occupations/Hrefna_Iseldr.md:3:40"],
+            "oldRefPaths": [
+                "89fbd0861:assets/content/Characters/Occupations/Hrefna_Iseldr.md:3:14"
+            ],
             "boldKind": "none"
         },
         {
@@ -4711,7 +4836,9 @@
             "description": null,
             "note": "_murv-_ (deep grade) + `-vir` (a man) — a jeweler who reads the worth of a stone at a glance after two decades in the trade; marv 'the grain in worked antler' is a craftsman's eye for the grain of a material",
             "prose": null,
-            "oldRefPaths": ["main:assets/content/Characters/Occupations/Hroaldr_Hrafnsvald.md:6:3"],
+            "oldRefPaths": [
+                "89fbd0861:assets/content/Characters/Occupations/Hroaldr_Hrafnsvald.md:6:10"
+            ],
             "boldKind": "none"
         },
         {
@@ -4734,7 +4861,9 @@
             "description": null,
             "note": "_hrund-_ (deep grade) + `-mýl` (a man) — a gaoler who holds every rule fixed and unbending for thirty years; hrund 'a thing set down that will not be moved' is his whole method",
             "prose": null,
-            "oldRefPaths": ["main:assets/content/Characters/Occupations/Jorundr_Frostulf.md:6:3"],
+            "oldRefPaths": [
+                "b29be50fd:assets/content/Characters/Occupations/Jorundr_Frostulf.md:6:10"
+            ],
             "boldKind": "none"
         },
         {
@@ -4757,7 +4886,9 @@
             "description": null,
             "note": "_kruld-_ (deep grade) + `-orv` (a man) — born into slavery and bearing his labor without complaint even as he holds onto hope; kruld 'a load a beast carries without complaint' is that endurance",
             "prose": null,
-            "oldRefPaths": ["main:assets/content/Characters/Occupations/Leifr_Drottgar.md:3:41"],
+            "oldRefPaths": [
+                "89fbd0861:assets/content/Characters/Occupations/Leifr_Drottgar.md:3:14"
+            ],
             "boldKind": "none"
         },
         {
@@ -4780,7 +4911,9 @@
             "description": null,
             "note": "_flurn-_ (deep grade) + `-vir` (a man) — a gem-cutter of meticulous attention; flurn 'a flake of stone split off by frost' is the literal act of cutting a stone",
             "prose": null,
-            "oldRefPaths": ["main:assets/content/Characters/Occupations/Magnus_Skollbrandr.md:6:3"],
+            "oldRefPaths": [
+                "89fbd0861:assets/content/Characters/Occupations/Magnus_Skollbrandr.md:6:10"
+            ],
             "boldKind": "none"
         },
         {
@@ -4803,7 +4936,9 @@
             "description": null,
             "note": "_gnurth-_ (deep grade) + `-selda` (a woman) — a shield-maiden hardened by her mother's legendary death and forty years proving herself; gnurth 'the set of a jaw that will not open' fits her grim, unyielding resolve",
             "prose": null,
-            "oldRefPaths": ["main:assets/content/Characters/Occupations/Sigrithr_Hafringr.md:3:44"],
+            "oldRefPaths": [
+                "b29be50fd:assets/content/Characters/Occupations/Sigrithr_Hafringr.md:3:14"
+            ],
             "boldKind": "none"
         },
         {
@@ -4827,7 +4962,7 @@
             "note": "_glirv-_ (middle grade) + `-ynda` (a woman) — a shipwright always experimenting with faster, sturdier designs; glirv 'light lying flat on water' echoes the vessels she designs for the water itself",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Occupations/Sigrithr_Hrafnsvald.md:6:3"
+                "89fbd0861:assets/content/Characters/Occupations/Sigrithr_Hrafnsvald.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -4851,7 +4986,9 @@
             "description": null,
             "note": "_ilth-_ (middle grade) + `-vir` (a man) — a yeoman archer prized for accuracy at range; ilth 'the limit a claim reaches' names an arrow finding the exact limit of its mark",
             "prose": null,
-            "oldRefPaths": ["main:assets/content/Characters/Occupations/Solmundr_Blotholl.md:6:3"],
+            "oldRefPaths": [
+                "89fbd0861:assets/content/Characters/Occupations/Solmundr_Blotholl.md:6:10"
+            ],
             "boldKind": "none"
         },
         {
@@ -4874,7 +5011,9 @@
             "description": null,
             "note": "_nilth-_ (middle grade) + `-selda` (a woman) — an apothecary who overworks herself tending the poor into the small hours; nilth 'the last hour of a watch' is that late, self-sacrificing vigil",
             "prose": null,
-            "oldRefPaths": ["main:assets/content/Characters/Occupations/Thordis_Drottgar.md:6:3"],
+            "oldRefPaths": [
+                "89fbd0861:assets/content/Characters/Occupations/Thordis_Drottgar.md:6:10"
+            ],
             "boldKind": "none"
         },
         {
@@ -4897,7 +5036,9 @@
             "description": null,
             "note": "_knarv-_ (hard grade) + `-vir` (a man) — a merchant living a double life under constant strain, hiding his seidr-craft for thirty years; knarv 'a joint made to take strain' is that sustained pressure",
             "prose": null,
-            "oldRefPaths": ["main:assets/content/Characters/Occupations/Thorir_Jarnskel.md:6:3"],
+            "oldRefPaths": [
+                "b29be50fd:assets/content/Characters/Occupations/Thorir_Jarnskel.md:6:10"
+            ],
             "boldKind": "none"
         },
         {
@@ -4921,7 +5062,7 @@
             "note": "_glarv-_ (hard grade) + `-orv` (a man) — a perfumer whose scents are subtle and diffuse, evoking memory; glarv 'light lying flat on water' names that diffuse, pervasive quality of a fine scent",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Occupations/Vigbrandr_Steinblot.md:6:3"
+                "89fbd0861:assets/content/Characters/Occupations/Vigbrandr_Steinblot.md:6:10"
             ],
             "boldKind": "none"
         },
@@ -4946,7 +5087,7 @@
             "note": "_hlurth-_ (deep grade) + `-thann` (a man) — a king of the Nordlands, third of his name; deep grade for the depth of his line, hlarth 'the slope a hall is set on' is a king's own seat and ground",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Regions/Ankaris/Nordlands/Malagna/King_Hakon_III.md:3:43"
+                "b29be50fd:assets/content/Regions/Ankaris/Nordlands/Malagna/King_Hakon_III.md:3:19"
             ],
             "boldKind": "none"
         },
@@ -4971,7 +5112,7 @@
             "note": "_dvalg-_ (hard grade) + `-umakh` (a craft) — a craft-clan (dyeing/textile work others come to it for); dvalg 'sleep taken standing, on watch' fits Óskunn's quiet, ever-attentive discretion with her customers' secrets",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Oskunn_Bjargskorn.md:7:3"
+                "b29be50fd:assets/content/Characters/Heroes_and_Knaves/Oskunn_Bjargskorn.md:7:9"
             ],
             "boldKind": "none"
         },
@@ -4996,9 +5137,9 @@
             "note": "_snarv-_ (hard grade) + `-arukh` (a charge kept) — a charge-kept clan: its members hold a forest for a manor (Áleifr), a prison (Jörundr), a craft-tradition (Thorsteinn); snarv 'the hour before weather arrives' fits their shared watchfulness/anticipation",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Thorsteinn_Frostulf.md:7:3",
-                "main:assets/content/Characters/Occupations/Aleifr_Frostulf.md:7:3",
-                "main:assets/content/Characters/Occupations/Jorundr_Frostulf.md:7:3"
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Thorsteinn_Frostulf.md:7:9",
+                "b29be50fd:assets/content/Characters/Occupations/Aleifr_Frostulf.md:7:9",
+                "b29be50fd:assets/content/Characters/Occupations/Jorundr_Frostulf.md:7:9"
             ],
             "boldKind": "none"
         },
@@ -5023,7 +5164,7 @@
             "note": "_drask-_ (hard grade) + `-arukh` (a charge kept) — a shipwright clan; drask 'a light kept burning on a headland' is a beacon, matching the -arukh footing exactly, and pairs with Eldrid's fire-touched nature",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Eldrid_Firehair.md:7:3"
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Eldrid_Firehair.md:7:9"
             ],
             "boldKind": "none"
         },
@@ -5047,7 +5188,9 @@
             "description": null,
             "note": "_glarv-_ (hard grade) + `-umakh` (a craft) — a gem-cutting craft-clan; glarv 'light lying flat on water' evokes the glint worked into a cut stone",
             "prose": null,
-            "oldRefPaths": ["main:assets/content/Characters/Occupations/Magnus_Skollbrandr.md:7:3"],
+            "oldRefPaths": [
+                "89fbd0861:assets/content/Characters/Occupations/Magnus_Skollbrandr.md:7:9"
+            ],
             "boldKind": "none"
         },
         {
@@ -5071,8 +5214,8 @@
             "note": "_skrald-_ (hard grade) + `-umakh` (a craft) — a clan of skalds and saga-keepers (Vígbrandr); skrald 'a cry the wind carries further than it should' is the clan's own craft: a voice carried on for generations",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Ingrithr_Skyrekkr.md:7:3",
-                "main:assets/content/Characters/Heroes_and_Knaves/Vigbrandr_Skyrekkr.md:7:3"
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Ingrithr_Skyrekkr.md:7:9",
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Vigbrandr_Skyrekkr.md:7:9"
             ],
             "boldKind": "none"
         },
@@ -5097,8 +5240,8 @@
             "note": "_nalth-_ (hard grade) + `-endikh` (a holding) — a small holding-clan of fishers and, later, miners (Gróa, Thorlákr); -endikh names a holding 'land, hall, harbor, fishery, mine' exactly, and nalth 'the last hour of a watch' fits an isolated clan keeping a lonely vigil over its ground",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Groa_the_Seidr_of_Norgaad.md:7:3",
-                "main:assets/content/Characters/Heroes_and_Knaves/Thorlakr_Vindrkve.md:7:3"
+                "b29be50fd:assets/content/Characters/Heroes_and_Knaves/Groa_the_Seidr_of_Norgaad.md:7:9",
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Thorlakr_Vindrkve.md:7:9"
             ],
             "boldKind": "none"
         },
@@ -5123,7 +5266,7 @@
             "note": "_drusk-_ (deep grade) + `-vir` — an unlinked background figure named in this note (unlinked father), carrying a retiring given name beside a clan name (Vörnheim (lawful, unchanged)) the note leaves alone; deep is the grade before his son Thraldorv's hard, per the note's own generation cycle",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Gunnsteinn_Vornheim.md:431:40"
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Gunnsteinn_Vornheim.md:431:40"
             ],
             "boldKind": "none"
         },
@@ -5148,7 +5291,7 @@
             "note": "_hlarth-_ (hard grade) + `-thann` — an unlinked background figure named in this note (unlinked son), carrying a retiring given name; hard is the grade after his father Snurvthann's deep, per the note's own generation cycle",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Rangr_Vetrdomr.md:443:442"
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Rangr_Vetrdomr.md:437:429"
             ],
             "boldKind": "none"
         },
@@ -5173,7 +5316,7 @@
             "note": "_unth-_ (deep grade) + `-ynda` — an unlinked background figure named in this note (unlinked late wife), carrying a retiring given name the note leaves alone",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Rangr_Vetrdomr.md:437:23"
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Rangr_Vetrdomr.md:437:31"
             ],
             "boldKind": "none"
         },
@@ -5198,7 +5341,7 @@
             "note": "_inth-_ (middle grade) + `-vir` — an unlinked background figure named in this note (unlinked father), carrying a retiring given name beside a clan name (Dróttgar (lawful, unchanged)) the note leaves alone",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Yngvarr_Drottgar.md:432:186"
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Yngvarr_Drottgar.md:432:186"
             ],
             "boldKind": "none"
         },
@@ -5223,7 +5366,7 @@
             "note": "_hvarn-_ (hard grade) + `-mýl` — an unlinked background figure named in this note (unlinked mentor), carrying a retiring given name beside a byname (Hrafnsbane) the note leaves alone",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Vigbrandr_Skyrekkr.md:431:397"
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Vigbrandr_Skyrekkr.md:431:397"
             ],
             "boldKind": "none"
         },
@@ -5248,7 +5391,7 @@
             "note": "_snalth-_ (hard grade) + `-orv` — an unlinked background figure named in this note (unlinked rival with an already-lawful clan name), carrying a retiring given name beside a clan name (Gnarthidrokh (lawful, unchanged)) the note leaves alone",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Yngvarr_Drottgar.md:482:5"
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Yngvarr_Drottgar.md:482:10"
             ],
             "boldKind": "none"
         },
@@ -5273,7 +5416,7 @@
             "note": "_drisk-_ (middle grade) + `-vir` — an unlinked background figure named in this note (unlinked rival captain with an already-lawful clan name), carrying a retiring given name beside a clan name (Thraldarukh (lawful, unchanged)) the note leaves alone",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Sigfuss_Stormrot.md:478:13"
+                "b29be50fd:assets/content/Characters/Heroes_and_Knaves/Sigfuss_Stormrot.md:478:13"
             ],
             "boldKind": "none"
         },
@@ -5298,7 +5441,7 @@
             "note": "_marv-_ (hard grade) + `-thýra` — an unlinked background figure named in this note (unlinked patron with an already-lawful clan name), carrying a retiring given name beside a clan name (Hlarthendikh (lawful, unchanged)) the note leaves alone",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Characters/Heroes_and_Knaves/Thorsteinn_Jarnskel.md:437:333"
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Thorsteinn_Jarnskel.md:437:333"
             ],
             "boldKind": "none"
         },
@@ -5692,7 +5835,7 @@
             "note": "_hrind-_ (middle grade) + `-vir` (a man) — the Compact's Speaker; the retired form carries \"óa\" in hiatus, which Nordmal does not write, and the `hr-` opening is kept so the line still alliterates",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Affiliations/Organizations/Malalidabandalag.md:102:181"
+                "3792591b5:assets/content/Affiliations/Organizations/Malalidabandalag.md:102:164"
             ],
             "boldKind": "none"
         },
@@ -5717,7 +5860,7 @@
             "note": "_vetr-_ \"winter\" (Vetrúlfr, Vetrnaetr) + `-eldr` \"fire\" — an earned name, Winter-Fire; the retired form closes on `s`, which no Nordmal name closes on, and `-eldr` carries the light the retired closing named",
             "prose": null,
             "oldRefPaths": [
-                "main:assets/content/Affiliations/Organizations/Malalidabandalag.md:102:189"
+                "3792591b5:assets/content/Affiliations/Organizations/Malalidabandalag.md:102:171"
             ],
             "boldKind": "none"
         },
@@ -6225,6 +6368,1048 @@
             "prose": null,
             "oldRefPaths": ["6e137b8c0:assets/content/Lore/Deities/Asguardian/Ymir.md:3:14"],
             "boldKind": "bare"
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Candidate of a Sworn Order",
+            "newAliases": ["Hand-Squire", "Storm-Aspirant", "Frost-Touched"],
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Asguardian_Orders/Order_Candidate.md",
+            "newShortcode": "ordrcandidrnk",
+            "newAddress": "lore-ordrcandidrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "Admitted on a sworn order's own terms and dismissible on them, in three of the four Asguardian fighting orders.",
+            "note": "the reader's tongue: a candidate holds on the order's own terms, which is what the name has to say",
+            "prose": "Level 1 in three of the four Asguardian fighting orders: admitted on the order's own terms and dismissible on them.",
+            "oldRefPaths": [],
+            "boldKind": "none"
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Senior of a Sworn Order",
+            "newAliases": ["Elder Hand", "Elder Guardian", "Storm-Captain", "Hand of the Maker"],
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Asguardian_Orders/Order_Senior.md",
+            "newShortcode": "ordrseniorrnk",
+            "newAddress": "lore-ordrseniorrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "Instructs candidates and sits in the body that chooses its order's chair, across the four Asguardian fighting orders.",
+            "note": "the reader's tongue: the standing is defined by instructing candidates and sitting in the body that chooses the chair",
+            "prose": "Level 4 across the four Asguardian fighting orders: instructs candidates and sits in the body that chooses its order's chair.",
+            "oldRefPaths": [],
+            "boldKind": "none"
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Put from the Order",
+            "newAliases": ["Expelled", "Foresworn"],
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Asguardian_Orders/Put_From_The_Order.md",
+            "newShortcode": "putfromordrrnk",
+            "newAddress": "lore-putfromordrrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "Cast out of a sworn order, the habit taken back and the vows declared void, across the four Asguardian fighting orders.",
+            "note": "the reader's tongue: the four orders state the condition as the act of expulsion, the habit taken back and the vows declared void",
+            "prose": "Level 0 across the four Asguardian fighting orders: cast out, the habit taken back and the vows declared void.",
+            "oldRefPaths": [],
+            "boldKind": "none"
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Calathir",
+            "newAliases": ["Light-Watcher"],
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Faith_of_Bjartr/Calathir.md",
+            "newShortcode": "calathirrnk",
+            "newAddress": "lore-calathirrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "Entrusted with the rites, the care of the faithful and the stewardship of sacred places, in the faith of Bjartr.",
+            "note": "a Sinalë word, kept with the Sinalëan structure of Bjartr's clergy; not a Nordmal coinage and not judged as one",
+            "prose": "Level 3 in the faith of Bjartr: entrusted with the rites, the care of the faithful and the stewardship of sacred places.",
+            "oldRefPaths": [],
+            "boldKind": "none",
+            "kinds": []
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "The Faithful",
+            "newAliases": null,
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Faith_of_Bjartr/The_Faithful.md",
+            "newShortcode": "faithfulrnk",
+            "newAddress": "lore-faithfulrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "Those who come for the Blessing of Light and the Night of Dreams, in the faith of Bjartr.",
+            "note": "the reader's tongue: Bjartr's laity are named for what they come for rather than by a station word",
+            "prose": "Level 1 in the faith of Bjartr: those who come for the Blessing of Light and the Night of Dreams.",
+            "oldRefPaths": [],
+            "boldKind": "none",
+            "kinds": []
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Tindësar",
+            "newAliases": ["Star-Seeker"],
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Faith_of_Bjartr/Tindesar.md",
+            "newShortcode": "tindesarrnk",
+            "newAddress": "lore-tindesarrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "Newly called to Bjartr's service, learning dream-reading, healing and the tending of groves under a Calathir, in the faith of Bjartr.",
+            "note": "a Sinalë word, kept as the faith's clergy keep the Sinalëan structure of their offices; not a Nordmal coinage and not judged as one",
+            "prose": "Level 2 in the faith of Bjartr: newly called to his service, learning dream-reading, healing and the tending of groves under a Calathir.",
+            "oldRefPaths": [],
+            "boldKind": "none",
+            "kinds": []
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Unaccorded",
+            "newAliases": null,
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Faith_of_Bjartr/Unaccorded.md",
+            "newShortcode": "unaccordedrnk",
+            "newAddress": "lore-unaccordedrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "Withheld the Lómëthar's accord, in the faith of Bjartr.",
+            "note": "the reader's tongue: the condition is the withholding of the Lómëthar's accord, and the Sinalëan structure Bjartr's clergy keep has no Nordmal word for it",
+            "prose": "Level 0 in the faith of Bjartr: withheld the Lómëthar's accord.",
+            "oldRefPaths": [],
+            "boldKind": "none",
+            "kinds": []
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Adherent",
+            "newAliases": null,
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Faith_of_Hrimthur/Adherent.md",
+            "newShortcode": "adherentrnk",
+            "newAddress": "lore-adherentrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "Attached to one of Hrímthur's scattered factions and doing its work, in the faith of Hrímthur.",
+            "note": "the reader's tongue, on the same pattern: the standing is attachment to a faction and the work it sets",
+            "prose": "Level 3 in the faith of Hrímthur: attached to one of his scattered factions and doing its work.",
+            "oldRefPaths": [],
+            "boldKind": "none",
+            "kinds": []
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Admirer",
+            "newAliases": null,
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Faith_of_Hrimthur/Admirer.md",
+            "newShortcode": "admirerrnk",
+            "newAddress": "lore-admirerrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "Holds Hrímthur's work in awe without attaching to any faction, in the faith of Hrímthur.",
+            "note": "the reader's tongue: Hrímthur's scattered factions keep no priesthood and no station words, so the standing is named by the attitude that defines it",
+            "prose": "Level 1 in the faith of Hrímthur: holds his work in awe without attaching to any faction.",
+            "oldRefPaths": [],
+            "boldKind": "none",
+            "kinds": []
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "The Betrayer",
+            "newAliases": null,
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Faith_of_Nahild/Betrayer.md",
+            "newShortcode": "betrayerrnk",
+            "newAddress": "lore-betrayerrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "What the cult of Náhild does to a man who gives away its hidden rites, in the faith of Náhild.",
+            "note": "the reader's tongue: the cult names the condition by what the man did to it, and no Nordmal word is coined for a standing the cult refuses to dignify",
+            "prose": "Level 0 of Náhild's cult ladder: what the cult does to a man who gives away its hidden rites.",
+            "oldRefPaths": [],
+            "boldKind": "none",
+            "kinds": []
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Her Godi / Gydja",
+            "newAliases": null,
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Faith_of_Nahild/Cult_Godi.md",
+            "newShortcode": "cultgodirnk",
+            "newAddress": "lore-cultgodirnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "The priest who takes Náhild's sacrifices in hiding, in the faith of Náhild.",
+            "note": "the kept words _godi_ and _gydja_ under the cult's possessive, both forms standing because the standing is one",
+            "prose": "Level 3 of Náhild's cult ladder: the priest who takes her sacrifices in hiding.",
+            "oldRefPaths": [],
+            "boldKind": "none"
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Her Initiate",
+            "newAliases": null,
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Faith_of_Nahild/Cult_Initiate.md",
+            "newShortcode": "cultinitiatrnk",
+            "newAddress": "lore-cultinitiatrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "Taught the secret observances known only to Náhild's own, in the faith of Náhild.",
+            "note": "the reader's tongue, on the cult ladder's possessive pattern",
+            "prose": "Level 2 of Náhild's cult ladder: taught the secret observances known only to her own.",
+            "oldRefPaths": [],
+            "boldKind": "none"
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Her Offerer",
+            "newAliases": null,
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Faith_of_Nahild/Offerer.md",
+            "newShortcode": "offererrnk",
+            "newAddress": "lore-offererrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "One who has turned to Náhild and brings her offering, holding none of the cult's observances, in the faith of Náhild.",
+            "note": "the reader's tongue, on the pattern the cult's ladder keeps throughout — each standing named by the goddess's possession of it",
+            "prose": "Level 1 of Náhild's cult ladder: turned to her and bringing her offering, holding none of the cult's observances.",
+            "oldRefPaths": [],
+            "boldKind": "none"
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Refused the Blót",
+            "newAliases": null,
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Faiths_of_the_Ten/Blot_Refused.md",
+            "newShortcode": "blotrefusedrnk",
+            "newAddress": "lore-blotrefusedrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "Declined the offering and the shared meal by a hof's godi, in the seven faiths of the Ten that keep the blót.",
+            "note": "the reader's tongue around the kept word _blót_: the condition is the refusal itself, so the phrase names the act rather than the person",
+            "prose": "Level 0 of the faith ladder in the seven faiths of the Ten that keep the blót: a hof's godi declines the offering and the shared meal, and the standing is withheld until he does not.",
+            "oldRefPaths": [],
+            "boldKind": "none"
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Blótmadr",
+            "newAliases": null,
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Faiths_of_the_Ten/Blotmadr.md",
+            "newShortcode": "blotmadrrnk",
+            "newAddress": "lore-blotmadrrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "One who attends the blót, the laity of the seven faiths of the Ten that keep it.",
+            "note": "_blót-_ \"the offering and the meal that follows\" + _-madr_ \"a man of a station\" — one who attends the blót, since a blót not attended is a blót not accomplished; the laity, level 1",
+            "prose": "Level 1 of the faith ladder: the laity of the seven faiths that keep the blót, whose attendance is what completes the offering.",
+            "oldRefPaths": [],
+            "boldKind": "none"
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Godi / Gydja",
+            "newAliases": null,
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Faiths_of_the_Ten/Godi.md",
+            "newShortcode": "godirnk",
+            "newAddress": "lore-godirnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "The ordained priest or priestess who keeps a hof's rites, in the seven faiths of the Ten that keep the blót.",
+            "note": "_godi_ and _gydja_ — kept words of the tongue, named among the setting's own; both forms stand in the name because the standing is one and the holder may be either",
+            "prose": "Level 3 of the faith ladder: the ordained priest or priestess who keeps a hof's rites.",
+            "oldRefPaths": [],
+            "boldKind": "none"
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Hofgodi / Hofgydja",
+            "newAliases": null,
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Faiths_of_the_Ten/Hofgodi.md",
+            "newShortcode": "hofgodirnk",
+            "newAddress": "lore-hofgodirnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "The high priest who consecrates a hof and performs the great blót at a season's turning, in the seven faiths of the Ten that keep it.",
+            "note": "_hof-_ \"the temple building\" + the kept _godi_ / _gydja_ — keeper of a named hof; both forms stand in the name because the standing is one",
+            "prose": "Level 4 of the faith ladder: consecrates a hof and performs the great blót at a season's turning.",
+            "oldRefPaths": [],
+            "boldKind": "none"
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "High Jarl",
+            "newAliases": null,
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Jarldom_of_Stormveld/High_Jarl.md",
+            "newShortcode": "highjarlrnk",
+            "newAddress": "lore-highjarlrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "The sovereign standing of the Jarldom of Stormveld, held by a jarl elected from among his peers.",
+            "note": "the reader's tongue, built on the kept word _jarl_: Stormveld seats no king, so its sovereign standing is a jarl raised above jarls rather than a crown",
+            "prose": "The sovereign standing of the Jarldom of Stormveld, held by a jarl elected from among his peers rather than by a royal clan's acclamation.",
+            "oldRefPaths": [],
+            "boldKind": "none"
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Bóndi",
+            "newAliases": null,
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Kinship_Kingdoms/Bondi.md",
+            "newShortcode": "bondirnk",
+            "newAddress": "lore-bondirnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "Full clan membership, holding odal land and a voice at the ting, in the five kingdoms and the Jarldom of Stormveld.",
+            "note": "_bóndi_ — a kept word of the tongue for the odal-holding freeman; level 3, where the ting enfranchises the commons, and the word stands rather than drifting",
+            "prose": "Level 3 of the civic ladder, the full clan member: holds his own odal land by inheritance, bears arms, and speaks at the ting in a ruling that binds the jarl over him.",
+            "oldRefPaths": [],
+            "boldKind": "none"
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Jarl",
+            "newAliases": null,
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Kinship_Kingdoms/Jarl.md",
+            "newShortcode": "jarlrnk",
+            "newAddress": "lore-jarlrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "The nobility, holding a province of the king and commanding its hersvaldar, in the five kingdoms and the Jarldom of Stormveld.",
+            "note": "_jarl_ — a kept word of the tongue, named among the setting's own; level 6, the nobility holding a province of the king",
+            "prose": "Level 6 of the civic ladder: holds a province by the king's grant, commands its hersvaldar, and answers to the king for its peace — a grant the crown can move, unlike a bóndi's odal land.",
+            "oldRefPaths": [],
+            "boldKind": "none"
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "King",
+            "newAliases": ["Konungr"],
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Kinship_Kingdoms/King.md",
+            "newShortcode": "konungrnk",
+            "newAddress": "lore-konungrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "The sovereign, chosen from the royal clans and acclaimed at the ting, in the five kingdoms.",
+            "note": "the standing is written in the reader's tongue, as the Lawspeaker and the Queen are; the Nordmal _konungr_ stands behind the shortcode, and the faith ladder's own Konungr is retired, so the word is left to the polity alone",
+            "prose": "Level 7 of the civic ladder: chosen from the royal clans and acclaimed at the ting, holding the realm on the assembly's continuing consent, which can refuse to hand his arm-ring back.",
+            "oldRefPaths": [],
+            "boldKind": "none"
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Níding",
+            "newAliases": null,
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Kinship_Kingdoms/Niding.md",
+            "newShortcode": "nidingrnk",
+            "newAddress": "lore-nidingrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "Outlawed at the ting and set beyond the law's protection, in the five kingdoms and the Jarldom of Stormveld.",
+            "note": "_níding_ — the north's own word for a man set outside the law, named in the tongue's kept words; the ladder's level 0, cast out, and the word stands rather than drifting",
+            "prose": "Level 0 of the Nordmal civic ladder in the five kingdoms and the Jarldom of Stormveld: outlawed at the ting, killing him draws no penalty, and a hall that shelters him answers for it.",
+            "oldRefPaths": [],
+            "boldKind": "none"
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Thrall",
+            "newAliases": null,
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Kinship_Kingdoms/Thrall.md",
+            "newShortcode": "thrallrnk",
+            "newAddress": "lore-thrallrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "Owned outright, owing labor rather than rent and holding no voice at the ting, in the five kingdoms and the Jarldom of Stormveld.",
+            "note": "_thrall_ — a kept word of the tongue, the man owned outright; level 1, the lowest standing the law still describes, and unfreedom is a rank because the law treats him apart",
+            "prose": "Level 1 of the civic ladder: owned rather than born free, owing labour itself rather than rent, barred from arms and unheard at the ting.",
+            "oldRefPaths": [],
+            "boldKind": "none"
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Sworn of a Signed Company",
+            "newAliases": null,
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Malalidabandalag/Company_Sworn.md",
+            "newShortcode": "companyswornrnk",
+            "newAddress": "lore-companyswornrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "A common warrior of a Compact-signed company, testified by his captain, in Málalidabandalag.",
+            "note": "the reader's tongue: the standing is the oath a captain testifies to, so the name says sworn and says of what",
+            "prose": "Level 1 of Málalidabandalag: a common warrior of a Compact-signed company, testified by his captain.",
+            "oldRefPaths": [],
+            "boldKind": "none"
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Discharged in Disgrace",
+            "newAliases": null,
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Malalidabandalag/Discharged_In_Disgrace.md",
+            "newShortcode": "dischargedrnk",
+            "newAddress": "lore-dischargedrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "Expelled from the Compact by Council vote, the bronze thumb-ring surrendered, in Málalidabandalag.",
+            "note": "the reader's tongue: the Compact states the condition as the discharge and the surrender of the bronze thumb-ring",
+            "prose": "Level 0 of Málalidabandalag: expelled from the Compact by Council vote, the bronze thumb-ring surrendered.",
+            "oldRefPaths": [],
+            "boldKind": "none"
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Signed Captain",
+            "newAliases": null,
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Malalidabandalag/Signed_Captain.md",
+            "newShortcode": "signedcaptnrnk",
+            "newAddress": "lore-signedcaptnrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "Swears the Compact before the Council of the Hall and wears the bandalagshringr, in Málalidabandalag.",
+            "note": "the reader's tongue: signing the Compact before the Council is the act that confers the standing, and the bandalagshringr is its mark",
+            "prose": "Level 3 of Málalidabandalag: swears the Compact before the Council of the Hall and wears the bandalagshringr.",
+            "oldRefPaths": [],
+            "boldKind": "none"
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Born of the Wound",
+            "newAliases": ["Sárborinn"],
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Order_of_the_Giants_Children/Born_of_the_Wound.md",
+            "newShortcode": "bornofwoundrnk",
+            "newAddress": "lore-bornofwoundrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "The full member of the Order of the Giant's Children, admitted by a rite of ordeal and theological examination.",
+            "note": "the reader's tongue, from Thursbörn's own theology: the full member is born of the founding wound, admitted by ordeal and examination",
+            "prose": "Level 3 of the Order of the Giant's Children: the full member, admitted by a rite of ordeal and theological examination.",
+            "oldRefPaths": [],
+            "boldKind": "none"
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Sworn Guardian",
+            "newAliases": ["Grönvördr"],
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Order_of_the_Green_Wardens/Sworn_Guardian.md",
+            "newShortcode": "swrnguardnrnk",
+            "newAddress": "lore-swrnguardnrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "The working warden of the Order of the Green Wardens, holding a station or riding circuit relief.",
+            "note": "the reader's tongue, from the order's own name: Grönverdir's working member is a sworn guardian",
+            "prose": "Level 3 of the Order of the Green Wardens: the working warden, holding a station or riding circuit relief.",
+            "oldRefPaths": [],
+            "boldKind": "none"
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Sworn Speaker",
+            "newAliases": ["Stormmaelir"],
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Order_of_the_Storm_Speakers/Sworn_Speaker.md",
+            "newShortcode": "swornspkrrnk",
+            "newAddress": "lore-swornspkrrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "The full member of the Order of the Storm-Speakers, acting on the order's behalf across the Nordlands.",
+            "note": "the reader's tongue, from the order's own name: a Storm-Speaker's full member is a sworn speaker",
+            "prose": "Level 3 of the Order of the Storm-Speakers: acts on the order's behalf across the Nordlands.",
+            "oldRefPaths": [],
+            "boldKind": "none"
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Sworn Hand",
+            "newAliases": ["Eidhönd"],
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Order_of_the_Sworn_Hand/Sworn_Hand.md",
+            "newShortcode": "swornhandrnk",
+            "newAddress": "lore-swornhandrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "The warrior-judge of the Order of the Sworn Hand, riding circuit to render and enforce rulings under the white wand.",
+            "note": "the reader's tongue, from the order's own name: Eidhönd's full member is a sworn hand, and the order's title carries the Nordmal form",
+            "prose": "Level 3 of the Order of the Sworn Hand: the warrior-judge who rides circuit to render and enforce rulings under the white wand.",
+            "oldRefPaths": [],
+            "boldKind": "none"
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Ring-Broken",
+            "newAliases": null,
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Skalds_Circle/Ring_Broken.md",
+            "newShortcode": "ringbrokenrnk",
+            "newAddress": "lore-ringbrokenrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "Convicted of breaking the truth of the recital, the arm-ring broken at the next Skaldating, in the Skalds' Circle.",
+            "note": "the reader's tongue around the ring the Circle gives: the condition is named by the breaking, which is what the Skaldating does",
+            "prose": "Level 0 of the Skalds' Circle: convicted of breaking the truth of the recital, the arm-ring broken at the next Skaldating.",
+            "oldRefPaths": [],
+            "boldKind": "none",
+            "kinds": []
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Stóraldstjóri",
+            "newAliases": ["Sögumadr", "Saga-Master"],
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Skalds_Circle/Saga_Master.md",
+            "newShortcode": "storaldstjrnk",
+            "newAddress": "lore-storaldstjrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "Acclaimed by his peers when his composed sagas enter the standing repertoire, in the Skalds' Circle.",
+            "note": "_stórald_ \"the great telling\" + _-stjóri_ \"one who directs a thing\" — the master whose composed sagas enter the standing repertoire",
+            "prose": "Level 4 of the Skalds' Circle: acclaimed by his peers when his composed sagas enter the standing repertoire.",
+            "oldRefPaths": [],
+            "boldKind": "none"
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Skáld",
+            "newAliases": null,
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Skalds_Circle/Skald.md",
+            "newShortcode": "skaldrnk",
+            "newAddress": "lore-skaldrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "Sworn keeper of a hall's record, entitled to food, shelter and safe passage at any hall, in the Skalds' Circle.",
+            "note": "_skald_ — a kept word of the tongue, named among the setting's own; the sworn keeper of a hall's record",
+            "prose": "Level 3 of the Skalds' Circle: sworn keeper of a hall's record, entitled to food, shelter and safe passage at any hall.",
+            "oldRefPaths": [],
+            "boldKind": "none",
+            "kinds": []
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Apprentice",
+            "newAliases": null,
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Skalds_Circle/Skald_Apprentice.md",
+            "newShortcode": "skaldapprntrnk",
+            "newAddress": "lore-skaldapprntrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "A master's pupil for ten to fifteen years, entitled to present a drápa, in the Skalds' Circle.",
+            "note": "the reader's tongue: the standing is a pupillage of ten to fifteen years, and the Circle names it plainly",
+            "prose": "Level 1 of the Skalds' Circle: a master's pupil for ten to fifteen years, entitled to present a drápa.",
+            "oldRefPaths": [],
+            "boldKind": "none",
+            "kinds": []
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Of the Band",
+            "newAliases": null,
+            "newPath": "assets/content/Lore/Ranks/Varokhi/Blackpine_Wolves/Of_The_Band.md",
+            "newShortcode": "ofthebandrnk",
+            "newAddress": "lore-ofthebandrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "One of the six who follow Dágulf Véthar, held by fear of the leader and the absence of better options, in the Blackpine Wolves.",
+            "note": "the reader's tongue: the band has one standing and no word for it, so the name states membership and nothing more",
+            "prose": "The single standing of the Blackpine Wolves: one of the six who follow Dágulf Véthar, held by fear of the leader and the absence of better options.",
+            "oldRefPaths": [],
+            "boldKind": "none"
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Bondservant",
+            "newAliases": null,
+            "newPath": "assets/content/Lore/Ranks/Varokhi/Vrystwald_Tribes/Bondservant.md",
+            "newShortcode": "varokhbondsvntrnk",
+            "newAddress": "lore-varokhbondsvntrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "Taken in war or bought at the river-landings, answering to the mistress of a household about everything, in the Vrystwald Tribes.",
+            "note": "the reader's tongue for a Varokhi standing, governed by that language's rule rather than Nordmal's",
+            "prose": "Level 1 of the Vrystwald Tribes: taken in war or bought at the river-landings, answering to the mistress of a household about everything.",
+            "oldRefPaths": [],
+            "boldKind": "none",
+            "kinds": []
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Chieftain",
+            "newAliases": null,
+            "newPath": "assets/content/Lore/Ranks/Varokhi/Vrystwald_Tribes/Chieftain.md",
+            "newShortcode": "chieftainrnk",
+            "newAddress": "lore-chieftainrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "Head of a clan or tribe by prowess, wisdom and the warriors' support, and not by descent, in the Vrystwald Tribes.",
+            "note": "the reader's tongue for a Varokhi standing: the tribes choose by prowess, wisdom and the warriors' support rather than descent",
+            "prose": "Level 5 of the Vrystwald Tribes: head of a clan or tribe by prowess, wisdom and the warriors' support, and not by descent.",
+            "oldRefPaths": [],
+            "boldKind": "none",
+            "kinds": []
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Kinless",
+            "newAliases": null,
+            "newPath": "assets/content/Lore/Ranks/Varokhi/Vrystwald_Tribes/Kinless.md",
+            "newShortcode": "kinlessrnk",
+            "newAddress": "lore-kinlessrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "Cast out by their own kin and claimed by none, in the Vrystwald Tribes.",
+            "note": "the reader's tongue for a Varokhi standing; Varokhi is its own tongue and Nordmal's rules do not govern its ranks",
+            "prose": "Level 0 of the Vrystwald Tribes: cast out by their own kin and claimed by none.",
+            "oldRefPaths": [],
+            "boldKind": "none",
+            "kinds": []
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Kinsman",
+            "newAliases": null,
+            "newPath": "assets/content/Lore/Ranks/Varokhi/Vrystwald_Tribes/Kinsman.md",
+            "newShortcode": "varokhkinsmanrnk",
+            "newAddress": "lore-varokhkinsmanrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "Of a kindred's blood, entitled to its protection, its feud and its share, in the Vrystwald Tribes.",
+            "note": "the reader's tongue for a Varokhi standing: the kindred's blood is what the standing is",
+            "prose": "Level 3 of the Vrystwald Tribes: of a kindred's blood, entitled to its protection, its feud and its share.",
+            "oldRefPaths": [],
+            "boldKind": "none",
+            "kinds": []
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Elder",
+            "newAliases": null,
+            "newPath": "assets/content/Lore/Ranks/Varokhi/Vrystwald_Tribes/Lineage_Elder.md",
+            "newShortcode": "lineageeldrrnk",
+            "newAddress": "lore-lineageeldrrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "Senior of a lineage, whose memory of custom and precedent settles what the young dispute, in the Vrystwald Tribes.",
+            "note": "the reader's tongue for a Varokhi standing: seniority in a lineage, not an office",
+            "prose": "Level 4 of the Vrystwald Tribes: senior of a lineage, whose memory of custom and precedent settles what the young dispute.",
+            "oldRefPaths": [],
+            "boldKind": "none",
+            "kinds": []
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Taken-In",
+            "newAliases": ["Dependent"],
+            "newPath": "assets/content/Lore/Ranks/Varokhi/Vrystwald_Tribes/Taken_In.md",
+            "newShortcode": "takeninrnk",
+            "newAddress": "lore-takeninrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "Free and of no kin, sheltered by a household without being of its blood, in the Vrystwald Tribes.",
+            "note": "the reader's tongue for a Varokhi standing: sheltered by a household without being of its blood",
+            "prose": "Level 2 of the Vrystwald Tribes: free and of no kin, sheltered by a household without being of its blood.",
+            "oldRefPaths": [],
+            "boldKind": "none",
+            "kinds": []
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Hunter",
+            "newAliases": null,
+            "newPath": "assets/content/Lore/Ranks/Varokhi/Wuldjagar/Hunter.md",
+            "newShortcode": "hunterrnk",
+            "newAddress": "lore-hunterrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "One of the company, carrying a charge and a share of the kill, in Wuldjagâr erund Gárskald.",
+            "note": "the reader's tongue for a Varokhi standing: the company has one word for its members and it is the work they do",
+            "prose": "Level 3 of Wuldjagâr erund Gárskald: one of the company, carrying a charge and a share of the kill.",
+            "oldRefPaths": [],
+            "boldKind": "none",
+            "kinds": []
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "New Hunter",
+            "newAliases": null,
+            "newPath": "assets/content/Lore/Ranks/Varokhi/Wuldjagar/New_Hunter.md",
+            "newShortcode": "newhunterrnk",
+            "newAddress": "lore-newhunterrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "Recently inducted and still learning the ways, watched for signs of weakness, in Wuldjagâr erund Gárskald.",
+            "note": "the reader's tongue for a Varokhi standing, governed by that language's rule rather than Nordmal's",
+            "prose": "Level 1 of Wuldjagâr erund Gárskald: recently inducted and still learning the ways, watched for signs of weakness.",
+            "oldRefPaths": [],
+            "boldKind": "none"
+        },
+        {
+            "oldName": "Málaliðabandalag",
+            "oldAliases": null,
+            "oldPath": "assets/content/Affiliations/Organizations/Malalidabandalag.md",
+            "oldShortcode": "malldbndlg",
+            "oldAddress": "affiliation-malldbndlg",
+            "oldImage": null,
+            "newName": "Málalidabandalag",
+            "newAliases": null,
+            "newPath": "assets/content/Affiliations/Organizations/Malalidabandalag.md",
+            "newShortcode": "malldbndlg",
+            "newAddress": "affiliation-malldbndlg",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "spelling",
+            "subType": "order",
+            "description": null,
+            "note": "eth spelling of the Compact's own name, used throughout the import; the name itself stands and is on the keep-list, so only the spelling moves — the romanisation rule writes a plain d where the import wrote an eth. The note's shortcode and address are unaffected, and both halves state so.",
+            "prose": null,
+            "oldRefPaths": [
+                "e13afb5f2:assets/content/Companies/Iron_Wolves_Company.md:33:69",
+                "e13afb5f2:assets/content/Companies/Iron_Wolves_Company.md:96:34",
+                "e13afb5f2:assets/content/Organizations/Asguardian_Orders/Order_of_Freyrs_Guardians.md:76:34",
+                "e13afb5f2:assets/content/Organizations/Asguardian_Orders/Order_of_Freyrs_Guardians.md:87:75",
+                "e13afb5f2:assets/content/Organizations/Asguardian_Orders/Order_of_Tyrs_Justice.md:77:34",
+                "e13afb5f2:assets/content/Organizations/Malalidabandalag.md:3:5",
+                "e13afb5f2:assets/content/Organizations/Malalidabandalag.md:4:9",
+                "e13afb5f2:assets/content/Organizations/Malalidabandalag.md:13:9",
+                "e13afb5f2:assets/content/Organizations/Malalidabandalag.md:31:3",
+                "e13afb5f2:assets/content/Organizations/Malalidabandalag.md:41:260",
+                "e13afb5f2:assets/content/Organizations/Skalds_Circle.md:80:34"
+            ],
+            "boldKind": "bare",
+            "historical": true
         }
     ]
 }

@@ -14,9 +14,12 @@
 # under `if: \${{ !cancelled() }}`, so one failure does not hide the others,
 # and a red run is a worklist rather than a wall.
 #
-# Two guards are deliberately absent. `lint:drift` and `lint:nordmal-lexicon`
+# Three guards are deliberately absent. `lint:drift` and `lint:nordmal-lexicon`
 # report what the northern renaming has not yet reached, so both are red by
 # design until it finishes and both are deleted with it.
+# `lint:nordmal-concordance` judges the table those two read. It reports the
+# names the renaming has recorded nothing for, so it is red by design on the
+# same backlog, and it is deleted with the table.
 #
 # ## The compile is a second job
 #
