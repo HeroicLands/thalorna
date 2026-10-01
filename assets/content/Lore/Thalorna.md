@@ -1,6 +1,6 @@
 ---
 shortcode: worldthlrn
-name: {full: The World of Thalorna, aliases: [Thalorna]}
+name: {full: The World of Thalorna, aliases: [Thalorna, Mannguard]}
 type: place
 subType: world
 data:
