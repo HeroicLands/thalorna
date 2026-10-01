@@ -31,17 +31,17 @@ data:
         lore: apprenticernk
         description: >-
           Sba—three to seven years of training under a single master, in forge management, basic shapes and the disciplines of copper and bronze.
-      - level: 2
+      - level: 3
         title: Journeyman
         lore: journeymanrnk
         description: >-
           Hemty—qualified by examination, permitted to work independently on civilian commissions under a master's seal.
-      - level: 3
+      - level: 4
         title: Master
         lore: masterrnk
         description: >-
           Lem-Mesnu—promoted by senior vote after a presented original work, permitted to seal weapons and armor for imperial commissions, take apprentices and sit on chapter councils.
-      - level: 4
+      - level: 5
         title: Great Smith
         lore: councillorrnk
         description: >-
