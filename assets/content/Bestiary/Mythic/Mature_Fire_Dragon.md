@@ -6,6 +6,7 @@ subType: creature
 description: "A calculating apex fire dragon of three or four centuries, cruel and supreme, selecting its prey with deliberate predatory strategy."
 tags: [mythic, image-needed]
 data:
+  packFolder: mythic
   icon: icon-dragonheadft
   templatePriority: null
   archetypes: []

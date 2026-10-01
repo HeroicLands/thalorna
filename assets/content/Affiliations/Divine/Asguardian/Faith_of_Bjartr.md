@@ -43,7 +43,7 @@ data:
   domains: []
   population: null
   economy: []
-  lore: [baldrdty]
+  lore: [bjartrdty]
   parents: [asguardian]
   relations: {asguardian: aligned}
   packFolder: pantheonsasguardian

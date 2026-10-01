@@ -514,7 +514,7 @@ She is not a warrior, and her moderate strength and endurance mean she is entire
 
 - [[affiliation-qethalu|The Qethalu]]: Conservative priests within Qe'âret's own order who view Thalura's political entanglements as a corruption of the goddess's purpose. They believe a Thâz'Lekhau should serve the divine, not the Genzet'Palu, and they have the ear of several provincial temple leaders who share their distaste.
 
-- **Thâz'Lekhau Anlagherhafu of [[place-khelunu|Khelunu]]** (distant): The Thâz'Lekhau of Qe'âret at Khelunu, technically subordinate to Thalura's authority, whose handling of the [[being-legezaqu|Legez Aqu]] heresy case has raised questions she has not yet chosen to investigate. Anlagherhafu is careful to maintain the appearance of deference while operating with considerable independence, and Thalura suspects—without yet being able to prove—that his judicial pronouncements serve local political interests rather than the goddess's truth. Their relationship is outwardly correct and quietly poisonous.
+- **Thâz'Lekhau Anlagherhafu of [[place-khelunu|Khelunu]]**: Distant, and the Thâz'Lekhau of Qe'âret at Khelunu, technically subordinate to Thalura's authority, whose handling of the [[being-legezaqu|Legez Aqu]] heresy case has raised questions she has not yet chosen to investigate. Anlagherhafu is careful to maintain the appearance of deference while operating with considerable independence, and Thalura suspects—without yet being able to prove—that his judicial pronouncements serve local political interests rather than the goddess's truth. Their relationship is outwardly correct and quietly poisonous.
 
 ### Affiliations
 

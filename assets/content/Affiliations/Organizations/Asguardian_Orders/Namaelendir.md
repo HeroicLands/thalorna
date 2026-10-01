@@ -1,6 +1,6 @@
 ---
 shortcode: namaelendir
-name: {full: "Námaelendir", aliases: ["The Harbingers of Despair"]}
+name: {full: "Námaelendir", aliases: ["Harbingers of Despair"]}
 type: affiliation
 subType: order
 description: "Náhild's doctrine spread through fear."

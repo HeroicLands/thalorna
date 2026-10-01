@@ -1,6 +1,6 @@
 ---
 shortcode: hallarvinir
-name: {full: "Hallarvinir", aliases: ["The Healers of the Hearth"]}
+name: {full: "Hallarvinir", aliases: ["Healers of the Hearth"]}
 type: affiliation
 subType: order
 description: "Body and soul tended at Fródvin's infirmaries."

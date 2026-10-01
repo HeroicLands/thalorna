@@ -1,6 +1,6 @@
 ---
 shortcode: aldarmal
-name: {full: "Aldarmál", aliases: ["The Elder's Voice"]}
+name: {full: "Aldarmál", aliases: ["Elder's Voice"]}
 type: affiliation
 subType: order
 description: "The rare standing between the elder races and mortals."

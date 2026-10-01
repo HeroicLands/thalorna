@@ -476,15 +476,15 @@ Enthorv is motivated by two seemingly contradictory drives: the desire to be rem
 
 ### Patrons
 
-- **King Brenneth II:** The current monarch of Targud, who values Enthorv's ability to speak uncomfortable truths while maintaining plausible deniability. Brenneth has publicly denied ever taking the jester's advice, but privately relies on his insights.
-- **Lady Alrún Dvarnendikh, Court Mistress:** The wife of a powerful noble and one of the few people with whom Enthorv maintains something approaching true friendship; she values his honesty disguised as mockery.
-- **The Innkeeper Styrbjorn:** His oldest friend, who manages the _Silver Wyvern_ tavern where Enthorv performs regularly and keeps a private room where the jester can remove his mask, though he rarely does.
+- **King Brenneth II**: The current monarch of Targud, who values Enthorv's ability to speak uncomfortable truths while maintaining plausible deniability. Brenneth has publicly denied ever taking the jester's advice, but privately relies on his insights.
+- **Lady Alrún Dvarnendikh, Court Mistress**: The wife of a powerful noble and one of the few people with whom Enthorv maintains something approaching true friendship; she values his honesty disguised as mockery.
+- **The Innkeeper Styrbjorn**: His oldest friend, who manages the _Silver Wyvern_ tavern where Enthorv performs regularly and keeps a private room where the jester can remove his mask, though he rarely does.
 
 ### Enemies
 
-- **Lord Castor Thorne, Duke of the Southern Marches:** A nobleman whose secret ambitions Enthorv publicly mocked through elaborate theatrical sequences that were obviously directed at him. Thorne has sworn vengeance, though he dare not move openly against the king's favored jester.
-- **The Wazulu:** Religious conservatives who believe jesters are agents of demoralization and have lobbied the church to declare his performances blasphemous. While they lack the power to end his position, they make his life difficult.
-- **His Own Reflection:** The tragic figure Enthorv most opposes is himself—his cynicism, his fear of closeness, and his slowly weakening ability to maintain the performance that defines him.
+- **Lord Castor Thorne, Duke of the Southern Marches**: A nobleman whose secret ambitions Enthorv publicly mocked through elaborate theatrical sequences that were obviously directed at him. Thorne has sworn vengeance, though he dare not move openly against the king's favored jester.
+- **The Wazulu**: Religious conservatives who believe jesters are agents of demoralization and have lobbied the church to declare his performances blasphemous. While they lack the power to end his position, they make his life difficult.
+- **His Own Reflection**: The tragic figure Enthorv most opposes is himself—his cynicism, his fear of closeness, and his slowly weakening ability to maintain the performance that defines him.
 
 ### Affiliations
 

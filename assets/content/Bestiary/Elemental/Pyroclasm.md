@@ -6,6 +6,7 @@ subType: creature
 description: "A chaotic fire elemental of animate volcanic devastation, born from active volcanoes and consuming everything in its path toward cooler waters."
 tags: [elemental]
 data:
+  packFolder: elementals
   icon: icon-person
   templatePriority: null
   archetypes: []

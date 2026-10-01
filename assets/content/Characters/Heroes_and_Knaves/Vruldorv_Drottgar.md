@@ -468,15 +468,15 @@ Vruldorv seeks meaningful work—a cause or purpose greater than the mere accumu
 
 ### Patrons
 
-- **The Nordheim Mercenaries' Guild** - His official employer and the organization that provides most of his contracts; the guild master, **Arnthor Knalthumakh**, values his reliability and occasionally consults him on matters of planning
-- **Merchant House Alderthor** - A prominent trading company that specifically requests Vruldorv for major caravans; their agent, **Lady Svenna**, has developed respect for his workmanlike approach
-- **Commander Hastein** - His aging former mentor, now retired from active service, whom Vruldorv visits regularly and whose counsel he seeks on matters of honor and purpose
+- **The Nordheim Mercenaries' Guild**: His official employer and the organization that provides most of his contracts; the guild master, **Arnthor Knalthumakh**, values his reliability and occasionally consults him on matters of planning
+- **Merchant House Alderthor**: A prominent trading company that specifically requests Vruldorv for major caravans; their agent, **Lady Svenna**, has developed respect for his workmanlike approach
+- **Commander Hastein**: His aging former mentor, now retired from active service, whom Vruldorv visits regularly and whose counsel he seeks on matters of honor and purpose
 
 ### Enemies
 
-- **Jarl Snalthorv Gnarthidrokh** - A rival warrior within the guild who views Vruldorv's success as a personal affront and spreads rumors that his reputation is exaggerated; they have not yet come to open conflict
-- **The Blackthorn Bandits** - An organized band of mountain raiders whose operations Vruldorv has disrupted multiple times, causing significant losses; they have sworn vengeance against the "Northern Ox"
-- **Merchant Lord Haldor the Greedy** - A crooked trader whose smuggling operations Vruldorv once refused to protect; Haldor now uses his considerable wealth to undermine Vruldorv's reputation
+- **Jarl Snalthorv Gnarthidrokh**: A rival warrior within the guild who views Vruldorv's success as a personal affront and spreads rumors that his reputation is exaggerated; they have not yet come to open conflict
+- **The Blackthorn Bandits**: An organized band of mountain raiders whose operations Vruldorv has disrupted multiple times, causing significant losses; they have sworn vengeance against the "Northern Ox"
+- **Merchant Lord Haldor the Greedy**: A crooked trader whose smuggling operations Vruldorv once refused to protect; Haldor now uses his considerable wealth to undermine Vruldorv's reputation
 
 ### Affiliations
 

@@ -1,6 +1,6 @@
 ---
 shortcode: nalok
-name: {full: "Nálok", aliases: ["The Order of the Void"]}
+name: {full: "Nálok", aliases: ["Order of the Void"]}
 type: affiliation
 subType: order
 description: "Náhild's hidden cult of the Eye of the Void."

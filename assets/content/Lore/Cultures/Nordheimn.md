@@ -39,23 +39,23 @@ When trade will not serve, the same ships carry raiders. Nordheimn culture does 
 
 ## Near Gods, and the Reckoning
 
-The Asguardian Twelve are not distant abstractions here. They are near, jealous and demanding neighbors who walk the edges of the imagination, and they are addressed directly, with offerings, and without much flattery.
+The Asguardian Ten are not distant abstractions here. They are near, jealous and demanding neighbors who walk the edges of the imagination, and they are addressed directly, with offerings, and without much flattery.
 
 Worship is decentralized on principle—no pontiff, no temple primacy, no Ordo. There are hofs, communal halls; godar and gydjur, local priests and priestesses who double as civic leaders; and the blót, the seasonal sacrifice and shared feast that ties a clan to its gods and to itself. Four festivals mark the year: Jól at midwinter, Sumarmál in spring, Midsumar at the solstice, and Vetrnaetr as winter returns.
 
 Running alongside the priesthood are the wandering völvur, seeresses who practice trance-magic and rune-magic and answer to nobody. The Ordo Arcanis has essentially no reach in the north, because the völvur predate it by centuries and Nordheimn distrust of foreign institutions is close to absolute.
 
-Every Nordman expects a reckoning at Ragnarok, but what he actually hopes for is narrower and more human: to be remembered as one who stood well when it came. That hope disciplines Nordheimn behavior more effectively than any doctrine, because a man composing his own remembered account behaves differently from one who is not.
+Every Nordman expects a reckoning at [[lore-aldarlok|Aldarlok]], but what he actually hopes for is narrower and more human: to be remembered as one who stood well when it came. That hope disciplines Nordheimn behavior more effectively than any doctrine, because a man composing his own remembered account behaves differently from one who is not.
 
 ## What a Person Owes
 
 Ask a Nordman what a man owes, and he answers: the oath first, whatever it was and whoever it was sworn to, because a man who breaks one has stopped being a man anybody can deal with. Then the clan, then the jarl who keeps the hall and shares out what comes into it, then the guest at his fire.
 
-The gods come into it late and are owed honesty and not obedience. They are held to despise a liar more reliably than they punish a killer, and a Nordman will say that this is simply an accurate account of what gods are like.
+The gods come into it late and are owed honesty and not obedience. They are held to despise a liar more reliably than they punish a killer—an accurate account of their nature, in the north's own reckoning, rather than a complaint against it.
 
 ## See Also
 
 - [[place-nrdlndsrgn|Nordlands Region]]—the fjords, the five kingdoms and the ships
-- [[affiliation-asguardian|Asguardian Pantheon]]—the Twelve and the reckoning they promise
+- [[affiliation-asguardian|Asguardian Pantheon]]—the Ten and the reckoning they promise
 - [[skill-nordmalng|Nordmal]]—the tongue and how a name is built in it
 - [[affiliation-jrldmstrmvld|Stormveld]]—the jarldom taken on Aelwyth, and why

@@ -6,6 +6,7 @@ subType: creature
 description: "The largest land animal in Vedyara Region — war-beast of the kingdoms' hosts, temple mount, and the measure every other megafauna in the region is judged against."
 tags: [animal, image-needed]
 data:
+  packFolder: animals
   icon: icon-person
   templatePriority: null
   archetypes: []

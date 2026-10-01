@@ -468,15 +468,15 @@ Tvalgthann seeks to discover whether his talents for performance and persuasion 
 
 ### Patrons
 
-- **Duke Ragnarr of Vithgard** - The primary patron who employs Tvalgthann's talents for court entertainment and subtle political messaging; their relationship is cordial but transactional
-- **Sigrid Blóthöll** - His mother, the innkeeper, who still provides refuge and honest counsel when he returns home worn by the demands of performance
-- **Master Kolbeinn** - His aging mentor and former teacher, now retired in the mountains, whom Tvalgthann consults on matters of ethics and the deeper purposes of his craft
+- **Duke Ragnarr of Vithgard**: The primary patron who employs Tvalgthann's talents for court entertainment and subtle political messaging; their relationship is cordial but transactional
+- **Sigrid Blóthöll**: His mother, the innkeeper, who still provides refuge and honest counsel when he returns home worn by the demands of performance
+- **Master Kolbeinn**: His aging mentor and former teacher, now retired in the mountains, whom Tvalgthann consults on matters of ethics and the deeper purposes of his craft
 
 ### Enemies
 
-- **Jorvald the Red** - A rival jester whose less sophisticated humor once dominated the Vithgard court; he schemes constantly to discredit Tvalgthann's wit and expose his methods
-- **The Whispered Syndicate** - A network of information brokers who view Tvalgthann's access to noble secrets as either an asset to control or a threat to eliminate
-- **Alderman Grevik of the Guildhall** - A strict moralist who views jesters as dangerous corruptors of virtue and has publicly questioned the Duke's patronage of Tvalgthann
+- **Jorvald the Red**: A rival jester whose less sophisticated humor once dominated the Vithgard court; he schemes constantly to discredit Tvalgthann's wit and expose his methods
+- **The Whispered Syndicate**: A network of information brokers who view Tvalgthann's access to noble secrets as either an asset to control or a threat to eliminate
+- **Alderman Grevik of the Guildhall**: A strict moralist who views jesters as dangerous corruptors of virtue and has publicly questioned the Duke's patronage of Tvalgthann
 
 ### Affiliations
 

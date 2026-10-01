@@ -1,6 +1,6 @@
 ---
 shortcode: smideldr
-name: {full: "Smideldr", aliases: ["The Order of the Inferno"]}
+name: {full: "Smideldr", aliases: ["Order of the Inferno"]}
 type: affiliation
 subType: order
 description: "Fire mastered for Svartbrandr's forges."

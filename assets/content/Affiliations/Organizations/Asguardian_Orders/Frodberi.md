@@ -1,6 +1,6 @@
 ---
 shortcode: frodberi
-name: {full: "Fródberi", aliases: ["The Heralds of Peace"]}
+name: {full: "Fródberi", aliases: ["Heralds of Peace"]}
 type: affiliation
 subType: order
 description: "Mediation and harmony in Fródvin's name."

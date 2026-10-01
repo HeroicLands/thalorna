@@ -6,6 +6,7 @@ subType: creature
 description: "A self-fertilizing Grukar spawner, one per tribe, uniquely able to choose the subspecies of each clutch it lays."
 tags: [folk]
 data:
+  packFolder: folk
   icon: icon-orchead
   templatePriority: null
   archetypes: []

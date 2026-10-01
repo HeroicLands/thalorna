@@ -1,6 +1,6 @@
 ---
 shortcode: bjartbrandr
-name: {full: "Bjartbrandr", aliases: ["The Lightning Swords"]}
+name: {full: "Bjartbrandr", aliases: ["Lightning Swords"]}
 type: affiliation
 subType: order
 description: "Elder-trained fighters of Bjartr's will."

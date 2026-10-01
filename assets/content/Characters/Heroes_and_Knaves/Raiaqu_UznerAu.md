@@ -464,16 +464,16 @@ Raiaqu Zekmetâ drives himself forward by a singular obsession: to create the pe
 
 ### Patrons
 
-- **Lord Commander Qelti:** The military's chief weapons officer who commissions custom arms for elite guard units and prestigious officer candidates. He trusts Raiaqu implicitly and often vouches for the smith's uncompromising standards to impatient nobles.
-- **The Gar-Gul'Thakétu:** A noble family known for their warrior traditions; Raiaqu has forged the ancestral blades of this house for thirty years, creating works that are as much heirloom as weapon.
-- **Master Architect Zezabu:** A celebrated builder and engineer who has learned to commission weapons of precise specifications that align with his exacting vision; he respects Raiaqu as a peer in the pursuit of structural perfection.
-- **Captain Thema:** A decorated military officer of common birth who has fought her way to prominence; Raiaqu has equipped her with three successive blades, and she has become one of his most vocal advocates.
+- **Lord Commander Qelti**: The military's chief weapons officer who commissions custom arms for elite guard units and prestigious officer candidates. He trusts Raiaqu implicitly and often vouches for the smith's uncompromising standards to impatient nobles.
+- **The Gar-Gul'Thakétu**: A noble family known for their warrior traditions; Raiaqu has forged the ancestral blades of this house for thirty years, creating works that are as much heirloom as weapon.
+- **Master Architect Zezabu**: A celebrated builder and engineer who has learned to commission weapons of precise specifications that align with his exacting vision; he respects Raiaqu as a peer in the pursuit of structural perfection.
+- **Captain Thema**: A decorated military officer of common birth who has fought her way to prominence; Raiaqu has equipped her with three successive blades, and she has become one of his most vocal advocates.
 
 ### Enemies
 
-- **Theqas the Swift:** A rival blacksmith of middling talent who has built a lucrative business by undercutting Raiaqu's prices and using mass production techniques. Raiaqu openly denounces his work as dangerous and inferior, damaging Theqas's reputation among informed patrons.
-- **The Foundry Collective:** A guild of lesser smiths operating on the city's southern dock, jealous of Raiaqu's prestige and monopoly on high-profile commissions. They have attempted to spread rumors that his age is affecting his work quality.
-- **Lord Lekhebur:** A corrupt noble who once commissioned a sword from Raiaqu, then refused payment, claiming the blade was overpriced. Raiaqu's public refusal to forge for him further soured the relationship.
+- **Theqas the Swift**: A rival blacksmith of middling talent who has built a lucrative business by undercutting Raiaqu's prices and using mass production techniques. Raiaqu openly denounces his work as dangerous and inferior, damaging Theqas's reputation among informed patrons.
+- **The Foundry Collective**: A guild of lesser smiths operating on the city's southern dock, jealous of Raiaqu's prestige and monopoly on high-profile commissions. They have attempted to spread rumors that his age is affecting his work quality.
+- **Lord Lekhebur**: A corrupt noble who once commissioned a sword from Raiaqu, then refused payment, claiming the blade was overpriced. Raiaqu's public refusal to forge for him further soured the relationship.
 
 ### Affiliations
 

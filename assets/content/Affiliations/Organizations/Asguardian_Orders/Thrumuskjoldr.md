@@ -1,6 +1,6 @@
 ---
 shortcode: thrumuskjoldr
-name: {full: "Thrumuskjöldr", aliases: ["The Order of the Hammer"]}
+name: {full: "Thrumuskjöldr", aliases: ["Order of the Hammer"]}
 type: affiliation
 subType: order
 description: "Combat and protection at Thrúnvald's coastal hofs."

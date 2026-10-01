@@ -6,6 +6,7 @@ subType: creature
 description: "A five-hundred-pound eagle-and-horse hybrid prized for balance over raw power, lacking the gryphon's fierce territorial aggression."
 tags: [mythic, image-needed]
 data:
+  packFolder: mythic
   icon: icon-griffinsymbol
   templatePriority: null
   archetypes: []

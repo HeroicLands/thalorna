@@ -1,6 +1,6 @@
 ---
 shortcode: solvinir
-name: {full: "Sólvinir", aliases: ["The Order of the Enchanted Rose"]}
+name: {full: "Sólvinir", aliases: ["Order of the Enchanted Rose"]}
 type: affiliation
 subType: order
 description: "Love and beauty counseled in Sólrún's name."

@@ -1,6 +1,6 @@
 ---
 shortcode: velskari
-name: {full: "Vélskari", aliases: ["The Knights of the Shifting Shadow"]}
+name: {full: "Vélskari", aliases: ["Knights of the Shifting Shadow"]}
 type: affiliation
 subType: order
 description: "A militant order guarding Vélgrímr's temples."
