@@ -162,6 +162,21 @@ The anchors are part of the content format: the build sends `Appearance` to the 
 
 For a reusable NPC template, describe the role rather than inventing one person's biography. `Appearance` gives what a party commonly encounters, with room for variation. In `Dossier`, `Background` explains the role's training and place in society; `Psyche` gives typical priorities and possible variation; `Social` identifies the authorities and communities connected to the role; `Plot Hooks` gives **3–5 encounter situations** in which such an NPC matters. Individual patrons, enemies, or life events belong in a specific person's note when relevant. Keep the main section headings so the template is navigable, and omit personal relationship subsections that do not apply.
 
+**A roster entry names its person first.** Under `Patrons` and `Enemies`, and
+under any other list of people or bodies a being stands with or against, each
+entry is one bullet: the full name, in bold, then a colon, then what the
+relationship is and why it matters.
+
+```markdown
+- **Merchant-Lord Davos the Uncouth**: A wealthy merchant with smuggling
+  interests along the coast, who commissions maps of hidden coves.
+```
+
+The colon sits **outside** the bold, so the bold span is the name and nothing
+else. A title or epithet belongs inside it where that is how the person is
+named. A name written as a wikilink needs no bold, as _Mark every name_ sets
+out, and takes the colon after the link.
+
 **`creature` — a being outside the other two roles.** [Abyssal Silt](../assets/content/Bestiary/Dreadspawn/Abyssal_Silt.md) illustrates a predatory creature. Use `Appearance` to make the first encounter sensory and recognizable without revealing what the creature intends or can secretly do. Use `Dossier` for the runner's account, with `Presentation`, `Key Behaviors`, `Combat Strategy`, `Attack Methods`, `Special Abilities`, and `Attributes`.
 
 **Presentation tells the GM how the creature presents in play.** It can describe its manner, movement, sounds, and apparent intentions, then explain what lies beneath that first impression and when a closer look or interaction reveals it. A creature may appear to be a warm, playful animal with soft fur and expressive eyes. Its `Appearance` can give players that honest first impression; `Presentation` can tell the GM that the fur secretes acid and the mouth hides razor-sharp teeth, along with observable clues and ways those traits come into view. This lets the GM portray a discovery rather than announce hidden facts at first sight. Keep the information about how to stage the creature here; put its actual attacks and special effects under `Attack Methods` and `Special Abilities`.
