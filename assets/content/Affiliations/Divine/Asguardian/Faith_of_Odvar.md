@@ -51,10 +51,6 @@ data:
         Keeper of a named rune-hall, its stores and its blót.
       Rune-caster: >-
         Reads the carved rune-staves to discern the currents of wyrd, a practice properly this clergy's own.
-      Seidr-worker: >-
-        Works seidr in this clergy's keeping alongside Sólrún's, the craft both faiths hold as their own.
-      Oracle: >-
-        The itinerant völva, received at any hall's high seat and answering what a household needs answered.
   seat: null
   domains: [valsalhall]
   population: null
@@ -91,13 +87,11 @@ In artistic depictions, Ódvar is often shown holding a spear, Skjálfgeir, whic
 
 ## Clergy
 
-- **Hrafn Thraell** (Circle I: "Raven Thrall")—Raven Acolyte
-- **Rún Godi/Gode** (Circle III: "Rune Priest/Priestess")—Rune Priest/Priestess
-- **Vitki Hersir** (Circle IV: "Sage Warlord")—Wisdom Herald
-- **Rún Jarl** (Circle V: "Rune Jarl")—Guardian of the Runes
-- **Rún Konungr/Konungrkvinde** (Circle VI: "Rune King/Queen")—Runebringer
-- **Vitki Allsherjargodi** (Circle VII: "Sage High Priest")—Elder Seer
-- **Ódinn Fadir/Módir** (Circle VIII: "Father/Mother of Ódinn")—Pontiff of the Enlightened
+- **Refused the Blót**—denied the mead and rune-offering at a rune-hall, cut from the clergy and from the hall's reckoning of him.
+- **Blótmadr**—attends the blót at a rune-hall and shares its mead and meal.
+- **Hofsmadr**—given to a rune-hall young, laboring at its rune-lore before any claim to the priesthood.
+- **Godi / Gydja**—ordained to keep a rune-hall's rites and the rune-casting that guides its people.
+- **Hofgodi / Hofgydja**—consecrates rune-halls, ordains their godar, and performs the great blót at a season's turning.
 
 **Key Skills:** Rune casting and divination, Shamanic journeying, Poetic inspiration and storytelling, Battle wisdom and strategic insight, Intrigue and Politics, Arcane arts
 

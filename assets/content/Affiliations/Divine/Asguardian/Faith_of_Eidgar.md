@@ -87,13 +87,11 @@ Temples dedicated to Eidgar serve as places of law and order, where disputes are
 
 ## Clergy
 
-- **Dómr Thraell** ("Judgment Thrall")—Justice Acolyte
-- **Rétt Godi/Gode** ("Justice Priest/Priestess")—Justice Priest/Priestess
-- **Dýrr Hersir** ("Valiant Warlord")—Valor Herald
-- **Lög Jarl** ("Law Jarl")—Warden of Law
-- **Dómskonungr/Konungrkvinde** ("Law King/Queen")—Lawbringer
-- **Týr Allsherjargodi** ("Týr High Priest")—Honorable Lord
-- **Sverd Fadir/Módir** ("Father/Mother of the Sword")—Pontiff of the Sword
+- **Refused the Blót**—denied the offering at the hof where the local ting sits, cut from the clergy and from the assembly's standing.
+- **Blótmadr**—attends the blót at the hof where the ting sits and shares the meal that binds the law to the god.
+- **Hofsmadr**—given to the hof where the ting sits, laboring at its observances before standing in the priesthood that judges there.
+- **Godi / Gydja**—ordained to keep the hof where the ting sits, swearing its oaths and keeping its rites.
+- **Hofgodi / Hofgydja**—consecrates the hofs where tings sit, ordains their godar, and performs the great blót at a season's turning.
 
 **Key Skills:** Legal knowledge and judgment, Combat and strategy, Oathbinding and mediation, Sacrifice and self-discipline
 

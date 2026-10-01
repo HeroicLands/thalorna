@@ -84,13 +84,11 @@ Vélgrímr is depicted as a charismatic and enigmatic figure, his expression alw
 
 ## Clergy
 
-- **Skuggi Thraell** (Circle I: "Shadow Thrall")—Shade Acolyte
-- **Svik Godi/Gode** (Circle III: "Deception Priest/Priestess")—Priest/Priestess of the Veil
-- **Ormr Hersir** (Circle IV: "Serpent Warlord")—Whispering Serpent
-- **Skuggi Jarl** (Circle V: "Shadow Jarl")—Shadowbinder
-- **Rád Konungr/Konungrkvinde** (Circle VI: "Ruse King/Queen")—Veilmaster
-- **Skald Allsherjargodi** (Circle VII: "Trickster High Priest")—Serpent of the Shadows
-- **Ormr Fadir/Módir** (Circle VIII: "Father/Mother of Serpents")—Pontiff of the Shifting Veil
+- **Refused the Blót**—denied the offering at a hidden hof in Malagna's ports, cut from the clergy and from the secrecy that protects it.
+- **Blótmadr**—attends the blót at a hidden hof in Malagna's ports and shares an offering rarely spoken of outside it.
+- **Hofsmadr**—given young to a hidden hof in Malagna's ports, laboring at its secrecy before any claim to the priesthood.
+- **Godi / Gydja**—ordained to keep a hidden hof's rites in Malagna's ports.
+- **Hofgodi / Hofgydja**—consecrates the hidden hofs of Malagna's ports, ordains their godar, and performs the great blót at a season's turning.
 
 **Key Skills:** Disguise and infiltration, Espionage and subterfuge, Manipulation and persuasion, Alchemy and Herbalism (Poisons), Intrigue, Stealth
 

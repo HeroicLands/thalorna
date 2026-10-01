@@ -87,13 +87,11 @@ In artistic representations, Thrúnvald is often shown driving his chariot pulle
 
 ## Clergy
 
-- **Thrumu Thraell** (Circle I: "Thunder Thrall")—Storm Acolyte
-- **Reid Godi/Gode** (Circle III: "Storm Priest/Priestess")—Storm Priest/Priestess
-- **Thrumu Hersir** (Circle IV: "Thunder Warlord")—Thunder Herald
-- **Sjór Jarl** (Circle V: "Sea Jarl")—Warden of the Sea
-- **Haf Konungr/Konungrkvinde** (Circle VI: "Ocean King/Queen")—Stormbringer
-- **Thór Allsherjargodi** (Circle VII: "Thor High Priest")—Thundering Lord
-- **Thrumu Fadir/Módir** (Circle VIII: "Father/Mother of Thunder")—Pontiff of the Thunderer
+- **Refused the Blót**—denied the offering at a coastal hof, cut from the clergy and from the crew that shares its blessing.
+- **Blótmadr**—attends the blót at a coastal hof and shares its sea-blessing.
+- **Hofsmadr**—given to a coastal hof young, laboring at its nets and its storm-rites before any claim to the priesthood.
+- **Godi / Gydja**—ordained to keep a coastal hof's rites and bless its ships.
+- **Hofgodi / Hofgydja**—consecrates coastal hofs, ordains their godar, and performs the great blót at a season's turning.
 
 **Key Skills:** Weather manipulation and storm calling, Combat training and weapon mastery, Seafaring and navigation, Protection and blessing rituals
 

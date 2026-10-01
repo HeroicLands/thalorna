@@ -84,13 +84,11 @@ Fródvin is often depicted as a serene and nurturing figure, radiating kindness 
 
 ## Clergy
 
-- **Frjó Thraell** (Circle I: "Fertile Thrall")—Seed Acolyte
-- **Heill Godi/Gode** (Circle III: "Blessing Priest/Priestess")—Harvest Priest/Priestess
-- **Jörd Hersir** (Circle IV: "Earth Warlord")—Grove Keeper
-- **Frjó Jarl** (Circle V: "Fertility Jarl")—Steward of the Land
-- **Gródur Konungr/Konungrkvinde** (Circle VI: "Growth King/Queen")—High Steward
-- **Vetr Allsherjargodi** (Circle VII: "Winter High Priest")—Greenwarden
-- **Líf Fadir/Módir** (Circle VIII: "Father/Mother of Life")—Pontiff of the Verdant Way
+- **Refused the Blót**—denied the offering at a valley infirmary's hof, cut from the clergy and from the care it extends to the sick.
+- **Blótmadr**—attends the blót at a valley infirmary's hof and shares its harvest-offering.
+- **Hofsmadr**—given to a valley infirmary's hof young, laboring at its herb-lore and its sick before any claim to the priesthood.
+- **Godi / Gydja**—ordained to keep a valley infirmary's rites and tend its sick.
+- **Hofgodi / Hofgydja**—consecrates valley infirmaries' hofs, ordains their godar, and performs the great blót at a season's turning.
 
 **Key Skills:** Herbalism, Physician, Survival, Animalcraft, Agriculture
 

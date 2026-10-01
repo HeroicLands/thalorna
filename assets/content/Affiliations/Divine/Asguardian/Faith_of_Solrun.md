@@ -49,8 +49,6 @@ data:
         Priest of the land, who hallows the ting island and speaks for the Ten with one voice.
       Hofsgodi: >-
         Keeper of a named feast-hall hof, its stores and its blót.
-      Seidr-worker: >-
-        Works seidr in this clergy's keeping alongside Ódvar's, the craft both faiths hold as their own.
   seat: null
   domains: [solvangrhall]
   population: null
@@ -86,15 +84,13 @@ Sólrún is depicted as a radiant and sensual goddess, her beauty unparalleled a
 
 ## Clergy
 
-The higher levels of clergy, Circle V and above, are only accessible to females.
+The faith's highest rank, Hofgodi/Hofgydja, is held by women alone.
 
-- **Gull Thraell** (Circle I: "Golden Thrall")—Silk Acolyte
-- **Fegurd Godi/Gode** (Circle III: "Beauty Priest/Priestess")—Priest/Priestess of Charm
-- **Fágr Hersir** (Circle IV: "Fair Warlord")—Gilded Voice
-- **Gull Jarl** (Circle V: "Gold Jarl")—Guardian of Prosperity
-- **Frídr Konungrkvinde** (Circle VI: "Fair Queen")—Golden Sovereign
-- **Sefja Allsherjargodi** (Circle VII: "Charming High Priest")—High Enchantress
-- **Frídr Módir** (Circle VIII: "Mother of Beauty")—Pontiff of the Golden Veil
+- **Refused the Blót**—denied the offering at a feast-hall, cut from the clergy and from the generosity that measures standing there.
+- **Blótmadr**—attends the blót at a feast-hall and shares its meal and the gold given away there.
+- **Hofsmadr**—given to a feast-hall's hof young, laboring at its stores and its rites before any claim to the priesthood.
+- **Godi / Gydja**—ordained to keep a feast-hall's rites and the giving-away of its gold.
+- **Hofgodi / Hofgydja**—consecrates feast-hall hofs, ordains their godar, and performs the great blót at a season's turning.
 
 **Key Skills:** Seduction and charm, Mercantilism, Mathematics
 

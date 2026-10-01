@@ -78,13 +78,10 @@ She is often depicted as a ghastly figure, her eyes burning with a baleful light
 
 ## Clergy
 
-- **Nádr Thraell** (Circle I: Shadow Thrall)—Shadow Acolyte
-- **Daudr Godi/Gode** (Circle III: Priest/Priestess of Death)—Void Priest/Priestess
-- **Skuggi Hersir** (Circle IV: Shadow Warlord)—Harbinger of Chaos
-- **Heljar Jarl** (Circle V: Jarl of the Underworld)—Warden of the Abyss
-- **Daudr Konungr/Konungrkvinde** (Circle VI: Death King/Queen)—Archshadow
-- **Ragnar Allsherjargodi** (Circle VII: Ragnar High Priest)—Doombringer
-- **Heljar Fadir/Módir** (Father/Mother of Hel)—Pontiff of Despair
+- **The Betrayer**—named a hidden hof, an initiate, or a godi to outsiders, and loses the shelter the cult's secrecy owed him.
+- **Her Offerer**—turns to Náhild and brings a hidden hof's offering, trusted enough to share its secrecy but not yet taught its observances.
+- **Her Initiate**—taught the cult's secret observances and the location of a hidden hof.
+- **Her Godi / Gydja**—takes the sacrifices of a hidden hof and teaches the observances that raise an offerer to an initiate.
 
 **Key Skills:** Embalming
 

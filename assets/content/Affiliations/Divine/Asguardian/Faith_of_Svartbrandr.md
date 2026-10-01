@@ -85,13 +85,11 @@ Followers of Svartbrandr are warriors who embrace the chaos and brutality of bat
 
 ## Clergy
 
-- **Eldr Thraell** (Circle I: "Fire Thrall")—Flame Acolyte
-- **Eldr Godi/Gode** (Circle III: "Fire Priest/Priestess")—Flame Priest/Priestess
-- **Elding Hersir** (Circle IV: "Lightning Warlord")—Inferno Herald
-- **Bál Jarl** (Circle V: "Pyre Jarl")—Warden of Flames
-- **Eldjötunn Konungr/Konungrkvinde** (Circle VI: "Fire Giant King/Queen")—Flamebringer
-- **Aska Allsherjargodi** (Circle VII: "Ash High Priest")—Ashen Lord
-- **Eldr Fadir/Módir** (Circle VIII: "Father/Mother of Fire")—Pontiff of the Eternal Flame
+- **Refused the Blót**—denied the offering at a forge-hof during its Fire-Weeks, cut from the clergy and from the ordeal that proves devotion there.
+- **Blótmadr**—attends the blót at a forge-hof and shares its ember-offering.
+- **Hofsmadr**—given to a forge-hof young, laboring at its bellows and its Fire-Weeks before any claim to the priesthood.
+- **Godi / Gydja**—ordained to keep a forge-hof's rites and its Fire-Weeks.
+- **Hofgodi / Hofgydja**—consecrates forge-hofs, ordains their godar, and performs the great blót and the Fire-Weeks at a season's turning.
 
 **Key Skills:** Fire manipulation and pyromancy, Battle tactics and warfare, Destruction and rebirth rituals, Forge and metalworking
 

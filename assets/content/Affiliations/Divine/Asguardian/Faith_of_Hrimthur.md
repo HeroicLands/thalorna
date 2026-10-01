@@ -59,7 +59,7 @@ His hofs are few and hard to reach. Holafell in Norgaad is the oldest, a sanctua
 
 ## Clergy
 
-Hrímthur's faithful fill the lower rungs of the pantheon's ladder and leave the upper ones standing empty. Holafell keeps a Hofsgodi and the Northern Hall another; no kingdom has named a Höfudgodi of his, and the faithful who are not of a hof answer to nobody at all.
+Hrímthur's faithful hold one of two standings. An admirer holds his work in awe and belongs to no faction; an adherent is attached to one of the scattered factions tied to Holafell, the Northern Hall, or one of the hörgar between them, and does that faction's work. No office binds the factions together, and a faithful who belongs to none of them answers to nobody at all.
 
 **Key Skills:** Stonecraft, Survival in cold, Endurance of pain, Reading frost-marks, the recitation of the cutting
 
