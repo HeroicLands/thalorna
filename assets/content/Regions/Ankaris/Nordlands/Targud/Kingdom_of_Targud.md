@@ -15,63 +15,59 @@ data:
     ranks:
       - level: 0
         title: Níding
-        lore: outlawrnk
+        lore: nidingrnk
         description: >-
-          Outlawed at the ting and set beyond the law's protection, so that any man may kill them and owe no wergild for it.
+          Cast beyond the ting's protection for an offense no wergild settles: killing him draws no penalty, and any hall that shelters him answers to the assembly for it.
       - level: 1
         title: Thrall
-        lore: slavernk
+        lore: thrallrnk
         description: >-
-          Owned outright, owing labor rather than rent, bearing no weapon by right and having no voice at the assembly.
+          Owned outright rather than born free, owing his master labor itself rather than rent, and barred from bearing arms or being heard at the ting.
       - level: 2
-        title: Freedman
-        lore: freedmanrnk
+        title: Lidmadr
+        lore: lidmadrrnk
         description: >-
-          Manumitted but still bound in obligation to a former master, and not yet reckoned a full man of the ting.
+          Free but answering through a following rather than a clan—a freed thrall still bound to his former master, a hall-less drengr, or a settled outsider—so his word carries no weight on the assembly's floor.
       - level: 3
         title: Bóndi
-        lore: yeomanrnk
+        lore: bondirnk
         description: >-
-          A free farmer holding his own land, bearing arms, and speaking at the ting in his own name.
+          Holds his own odal land by inheritance rather than a lord's grant, bears arms, and speaks at the ting—and in Targud answers as well the rotating fort-duty the Grukar frontier lays on every free farmer in his turn.
       - level: 4
-        title: Hauldr
-        lore: yeomanrnk
+        title: Hringberi
+        lore: hringberirnk
         description: >-
-          A bóndi whose kin have held their odal land for generations, ranking first among the free farmers and weightiest in the assembly.
+          Given a named seat by a hall—at the lord's table, the high seat, or the door nearest the fell—and heard before a common bóndi when the hall is deciding.
       - level: 5
-        title: Hersir
-        lore: landedlordrnk
+        title: Hersvald
+        lore: hersvaldrnk
         description: >-
-          A local chieftain who leads the men of a district in war and speaks for them in peace, holding by their consent rather than by grant.
+          Leads a district's men to war and speaks for them in peace by their continued consent rather than a king's grant, and can be set aside by the same district that raised him.
       - level: 6
         title: Jarl
-        lore: greatlordrnk
+        lore: jarlrnk
         description: >-
-          Holding a province of the king, commanding its hersar, and taking a share of its dues in return for keeping its peace.
+          Holds a province by the king's grant, commands its hersvaldar, and answers to the king for its peace—a grant the crown can move elsewhere, unlike a bóndi's inherited odal land.
       - level: 7
-        title: Royal Kin
-        lore: heirrnk
-        description: >-
-          Of the royal line by blood or marriage, eligible to be acclaimed king but holding no crown.
-      - level: 8
         title: King
-        lore: sovereignrnk
+        lore: konungrnk
         description: >-
-          Chosen from the royal kin and acclaimed at the ting, holding the realm by the assembly's consent as much as by descent.
+          Chosen from the royal clans and acclaimed at the ting, holding the realm on the assembly's continuing consent; that same assembly can refuse to hand his arm-ring back.
     offices:
-      King: Acclaimed sovereign, holding the realm by the ting's consent as much as by descent.
-      Queen: The king's wife, keeper of the hall's keys and mistress of its household and stores.
-      Jarl: Holder of a province of the king, commanding its levies and answering for its dues.
-      Hersvald: Chieftain of a district, leading its men to the muster and speaking for them at the ting.
+      Queen: >-
+        The king's wife, keeper of the hall's keys and mistress of its household and stores, and herself a Hringberi or higher by the marriage.
+      Jarl: Holding a named province of the king, commanding its levies and answering for its dues.
+      Hersvald: Chieftain of a named district, leading its men to the muster and speaking for them at the ting.
       Lawspeaker: Keeper of the law in memory, who recites it at the assembly and declares what it is.
-      Godi: >-
-        Priest-chieftain of a temple and its district, holding sacred and secular authority together.
       Hirdstjóri: The king's marshal, commander of his household men and master of the muster.
-      Búvördr: Steward of a royal estate, answerable for its yield and for the king's rights within it.
+      Búvördr: >-
+        Steward of a royal estate, answerable for its yield and for the king's rights within it; the same office seats the hall's honored old at Vetrnaetr.
       Hringvördr: Keeper of the rings the king gives, his tribute and the silver of his hall.
       Merkiberi: Bearer of the king's standard in battle, a post of the highest honor and shortest life.
-      Skald: Court poet, whose verse is the realm's memory and whose praise or scorn makes reputations.
-      Hirdman: Sworn man of the king's household troop, fed at his table and bound to his person.
+      Skald: >-
+        Court poet, whose verse is the realm's memory and whose praise or scorn makes reputations; the standing behind the post belongs to the Skalds' Circle.
+      Hirdman: >-
+        Sworn man of the king's household troop, fed at his table and bound to his person, and raised by that oath to Hringberi.
       Landvördr: The king's reeve in a district, collecting his dues and holding his courts.
       Skipstjóri: Master of a ship, commanding her crew at sea and answering for her in the levy.
       Harbour-reeve: Keeper of a haven, collecting its tolls and adjudicating disputes on its wharves.
