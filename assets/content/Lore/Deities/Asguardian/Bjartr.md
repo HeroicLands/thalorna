@@ -1,5 +1,5 @@
 ---
-shortcode: baldrdty
+shortcode: bjartrdty
 name: {full: Bjartr, aliases: []}
 type: lore
 subType: deity
