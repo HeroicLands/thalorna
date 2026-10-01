@@ -123,6 +123,6 @@ Fródvin is often depicted as a serene and nurturing figure, radiating kindness 
 
 ## See Also
 
-- [[affiliation-ordrgrnhandfrd|Order of the Green Hand]]—herbalists and caretakers of the sacred groves
-- [[affiliation-hrldspeacefrd|Heralds of Peace]]—mediators who keep harmony within and between households
-- [[affiliation-healrshrthfrd|Healers of the Hearth]]—priests who tend the sick and comfort the distressed
+- [[affiliation-gronhond|Grönhönd]]—the Order of the Green Hand, herbalists and caretakers of the sacred groves
+- [[affiliation-frodberi|Fródberi]]—the Heralds of Peace, mediators who keep harmony within and between households
+- [[affiliation-hallarvinir|Hallarvinir]]—the Healers of the Hearth, priests who tend the sick and comfort the distressed

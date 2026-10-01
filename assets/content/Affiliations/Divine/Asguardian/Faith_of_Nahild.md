@@ -117,7 +117,7 @@ She is often depicted as a ghastly figure, her eyes burning with a baleful light
 
 ## See Also
 
-- [[affiliation-ordrvoidnahld|Order of the Void]]—a secretive cult widening the Eye of the Void's influence
-- [[affiliation-keeprsabyssnhld|Keepers of the Abyss]]—guardians of hidden hofs and the cult's own inquisitors
-- [[affiliation-harbingersnhld|Harbingers of Despair]]—missionaries who spread Náhild's doctrine through fear
-- [[affiliation-nightstalkrsnhld|Nightstalkers]]—elite assassins carrying out Náhild's will
+- [[affiliation-nalok|Nálok]]—the Order of the Void, a secretive cult widening the Eye of the Void's influence
+- [[affiliation-naverdir|Náverdir]]—the Keepers of the Abyss, guardians of hidden hofs and the cult's own inquisitors
+- [[affiliation-namaelendir|Námaelendir]]—the Harbingers of Despair, missionaries who spread Náhild's doctrine through fear
+- [[affiliation-nottgengir|Nóttgengir]]—the Nightstalkers, elite assassins carrying out Náhild's will

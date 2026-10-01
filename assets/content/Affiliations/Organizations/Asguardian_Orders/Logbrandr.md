@@ -1,6 +1,6 @@
 ---
-shortcode: ordrswordeidg
-name: {full: "Order of the Sword"}
+shortcode: logbrandr
+name: {full: "Lögbrandr", aliases: ["The Order of the Sword"]}
 type: affiliation
 subType: order
 description: "Combat and justice at Eidgar's hofs."
@@ -16,18 +16,18 @@ data:
       What this order confers is membership alone: a devotee holds its least claim, admitted to its work, and a leader its fullest, with nothing recorded between the two rungs.
     ranks:
       - level: 0
-        title: Cast Out of the Order
-        lore: ordercastoutrnk
+        title: Dróttvargr
+        lore: drottvargrrnk
         description: >-
-          Cast out of the Order of the Sword, forfeiting whatever counsel, shelter or standing membership gave him.
+          Cast out of Lögbrandr, forfeiting whatever counsel, shelter or standing membership gave him.
       - level: 1
-        title: Devotee
-        lore: orderdevoteernk
+        title: Dróttmadr
+        lore: drottmadrrnk
         description: >-
           Serves a hof where the local ting sits, hearing disputes and training in the combat that enforces a ruling.
       - level: 3
-        title: Leader of the Order
-        lore: orderleaderrnk
+        title: Dróttstjóri
+        lore: drottstjorirnk
         description: >-
           Leads the order's work at a hof, judging and enforcing in Eidgar's name alike.
     offices: {}
@@ -41,4 +41,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The Order of the Sword trains priests of [[affiliation-eidgar|Eidgar]] in the mastery of combat and the upholding of justice, serving the hofs where the local ting sits as judges and defenders in one. A member hears a dispute as readily as he draws a blade in its enforcement, and answers to the hof's own godi for both.
+Lögbrandr, the Order of the Sword, trains priests of [[affiliation-eidgar|Eidgar]] in the mastery of combat and the upholding of justice, serving the hofs where the local ting sits as judges and defenders in one. A member hears a dispute as readily as he draws a blade in its enforcement, and answers to the hof's own godi for both.

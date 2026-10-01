@@ -16,18 +16,18 @@ data:
       What this order confers is membership alone: a devotee holds its least claim, admitted to its work, and a leader its fullest, with nothing recorded between the two rungs.
     ranks:
       - level: 0
-        title: Cast Out of the Order
-        lore: ordercastoutrnk
+        title: Dróttvargr
+        lore: drottvargrrnk
         description: >-
           Cast out of the Hringsystur, forfeiting whatever counsel, shelter or standing membership gave him.
       - level: 1
-        title: Devotee
-        lore: orderdevoteernk
+        title: Dróttmadr
+        lore: drottmadrrnk
         description: >-
           Keeps a feast-hall's ledgers and stands armed at its door, sworn to make wealth and give it away.
       - level: 3
-        title: Leader of the Order
-        lore: orderleaderrnk
+        title: Dróttstjóri
+        lore: drottstjorirnk
         description: >-
           Leads the order's guard over Sólrún's halls and the gold passing through her rites.
     offices: {}

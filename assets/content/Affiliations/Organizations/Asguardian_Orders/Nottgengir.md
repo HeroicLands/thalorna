@@ -1,6 +1,6 @@
 ---
-shortcode: nightstalkrsnhld
-name: {full: "The Nightstalkers"}
+shortcode: nottgengir
+name: {full: "Nóttgengir", aliases: ["The Nightstalkers"]}
 type: affiliation
 subType: order
 description: "Náhild's elite assassins."
@@ -16,18 +16,18 @@ data:
       What this order confers is membership alone: a devotee holds its least claim, admitted to its work, and a leader its fullest, with nothing recorded between the two rungs.
     ranks:
       - level: 0
-        title: Cast Out of the Order
-        lore: ordercastoutrnk
+        title: Dróttvargr
+        lore: drottvargrrnk
         description: >-
-          Cast out of the Nightstalkers, forfeiting whatever counsel, shelter or standing membership gave him.
+          Cast out of Nóttgengir, forfeiting whatever counsel, shelter or standing membership gave him.
       - level: 1
-        title: Devotee
-        lore: orderdevoteernk
+        title: Dróttmadr
+        lore: drottmadrrnk
         description: >-
           Trains in the secrecy Náhild's hidden hofs keep, carrying out small killings in her name.
       - level: 3
-        title: Leader of the Order
-        lore: orderleaderrnk
+        title: Dróttstjóri
+        lore: drottstjorirnk
         description: >-
           Leads the order's assassins, choosing killings for the chaos and fear they spread as much as for the target.
     offices: {}
@@ -41,4 +41,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The Nightstalkers are **Náhild**'s elite assassins, carrying out her will through killings chosen for the chaos and fear they spread as much as for the target. A member trains in secrecy as rigorous as the cult's own hofs keep, and answers to no authority outside the cult's hidden chain.
+Nóttgengir, the Nightstalkers, are **Náhild**'s elite assassins, carrying out her will through killings chosen for the chaos and fear they spread as much as for the target. A member trains in secrecy as rigorous as the cult's own hofs keep, and answers to no authority outside the cult's hidden chain.

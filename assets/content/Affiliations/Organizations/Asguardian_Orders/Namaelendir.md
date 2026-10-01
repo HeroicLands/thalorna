@@ -1,6 +1,6 @@
 ---
-shortcode: harbingersnhld
-name: {full: "Harbingers of Despair"}
+shortcode: namaelendir
+name: {full: "Námaelendir", aliases: ["The Harbingers of Despair"]}
 type: affiliation
 subType: order
 description: "Náhild's doctrine spread through fear."
@@ -16,18 +16,18 @@ data:
       What this order confers is membership alone: a devotee holds its least claim, admitted to its work, and a leader its fullest, with nothing recorded between the two rungs.
     ranks:
       - level: 0
-        title: Cast Out of the Order
-        lore: ordercastoutrnk
+        title: Dróttvargr
+        lore: drottvargrrnk
         description: >-
-          Cast out of the Harbingers of Despair, forfeiting whatever counsel, shelter or standing membership gave him.
+          Cast out of Námaelendir, forfeiting whatever counsel, shelter or standing membership gave him.
       - level: 1
-        title: Devotee
-        lore: orderdevoteernk
+        title: Dróttmadr
+        lore: drottmadrrnk
         description: >-
           Carries Náhild's doctrine to a single convert at a time, working alone or in pairs where a public blót cannot reach.
       - level: 3
-        title: Leader of the Order
-        lore: orderleaderrnk
+        title: Dróttstjóri
+        lore: drottstjorirnk
         description: >-
           Leads the order's spread of Náhild's doctrine through fear and terror beyond her hidden hofs.
     offices: {}
@@ -41,4 +41,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The Harbingers of Despair carry [[affiliation-nahild|Náhild]]'s doctrine beyond her hidden hofs, spreading it through fear and terror since open preaching is a risk her hidden cult cannot take. A member works alone or in pairs, finding converts in places a public blót could never reach.
+Námaelendir, the Harbingers of Despair, carry [[affiliation-nahild|Náhild]]'s doctrine beyond her hidden hofs, spreading it through fear and terror since open preaching is a risk her hidden cult cannot take. A member works alone or in pairs, finding converts in places a public blót could never reach.

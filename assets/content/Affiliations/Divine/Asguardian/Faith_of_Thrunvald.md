@@ -122,6 +122,6 @@ In artistic representations, Thrúnvald is often shown driving his chariot pulle
 
 ## See Also
 
-- [[affiliation-ordrhamrthrv|Order of the Hammer]]—priests who master combat and protection at a coastal hof
-- [[affiliation-hamrofthrv|Hammer of Thrúnvald]]—the faith's fighting order, hammer-warriors of the thunder-god
-- [[affiliation-seaforgedthrv|Seaforged]]—fighters trained at sea, masters of naval combat and defense
+- [[affiliation-thrumuskjoldr|Thrumuskjöldr]]—the Order of the Hammer, priests who master combat and protection at a coastal hof
+- [[affiliation-hamardrengir|Hamardrengir]]—the Hammer of Thrúnvald, the faith's fighting order, hammer-warriors of the thunder-god
+- [[affiliation-hafskel|Hafskel]]—the Seaforged, fighters trained at sea, masters of naval combat and defense

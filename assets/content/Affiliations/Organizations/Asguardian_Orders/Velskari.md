@@ -1,6 +1,6 @@
 ---
-shortcode: knightsshiftshvlg
-name: {full: "Knights of the Shifting Shadow"}
+shortcode: velskari
+name: {full: "Vélskari", aliases: ["The Knights of the Shifting Shadow"]}
 type: affiliation
 subType: order
 description: "A militant order guarding Vélgrímr's temples."
@@ -16,18 +16,18 @@ data:
       What this order confers is membership alone: a devotee holds its least claim, admitted to its work, and a leader its fullest, with nothing recorded between the two rungs.
     ranks:
       - level: 0
-        title: Cast Out of the Order
-        lore: ordercastoutrnk
+        title: Dróttvargr
+        lore: drottvargrrnk
         description: >-
-          Cast out of the Knights of the Shifting Shadow, forfeiting whatever counsel, shelter or standing membership gave him.
+          Cast out of Vélskari, forfeiting whatever counsel, shelter or standing membership gave him.
       - level: 1
-        title: Devotee
-        lore: orderdevoteernk
+        title: Dróttmadr
+        lore: drottmadrrnk
         description: >-
           Guards a hidden hof's secrecy by stealth, holding no standing yet to lead its defense.
       - level: 3
-        title: Leader of the Order
-        lore: orderleaderrnk
+        title: Dróttstjóri
+        lore: drottstjorirnk
         description: >-
           Leads the order's defense of Vélgrímr's hidden temples and his followers.
     offices: {}
@@ -41,4 +41,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The Knights of the Shifting Shadow are a militant order sworn to protect [[affiliation-velgrimr|Vélgrímr]]'s hidden temples and his followers, working by stealth and strategy to protect a secrecy that open force would break. A member guards a hof's secrecy as closely as its stores, since the one failing exposes the other.
+Vélskari, the Knights of the Shifting Shadow, is a militant order sworn to protect [[affiliation-velgrimr|Vélgrímr]]'s hidden temples and his followers, working by stealth and strategy to protect a secrecy that open force would break. A member guards a hof's secrecy as closely as its stores, since the one failing exposes the other.

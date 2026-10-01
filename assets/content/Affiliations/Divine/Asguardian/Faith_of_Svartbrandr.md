@@ -120,6 +120,6 @@ Followers of Svartbrandr are warriors who embrace the chaos and brutality of bat
 
 ## See Also
 
-- [[affiliation-ordrinfernosvb|Order of the Inferno]]—priests who master fire as blacksmiths and forge-masters
-- [[affiliation-infernalbladsvb|Infernal Blades]]—elite warriors proven by the forge-hofs' own ordeals
-- [[affiliation-flameguardsvb|Flameguard]]—a militant order guarding Svartbrandr's forge-hofs with fire
+- [[affiliation-smideldr|Smideldr]]—the Order of the Inferno, priests who master fire as blacksmiths and forge-masters
+- [[affiliation-eldulfr|Eldúlfr]]—the Infernal Blades, elite warriors proven by the forge-hofs' own ordeals
+- [[affiliation-eldverdir|Eldverdir]]—the Flameguard, a militant order guarding Svartbrandr's forge-hofs with fire

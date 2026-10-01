@@ -121,6 +121,6 @@ Vélgrímr is depicted as a charismatic and enigmatic figure, his expression alw
 
 ## See Also
 
-- [[affiliation-ordrshiftveilvlg|Order of the Shifting Veil]]—priests trained in illusion and disguise as spies
-- [[affiliation-serpentfangsvlg|Serpentfangs]]—fighters who weaken their foes with poison before the blade
-- [[affiliation-knightsshiftshvlg|Knights of the Shifting Shadow]]—a militant order guarding Vélgrímr's hidden temples
+- [[affiliation-skygrimr|Skýgrímr]]—the Order of the Shifting Veil, priests trained in illusion and disguise as spies
+- [[affiliation-ormgeir|Ormgeir]]—the Serpentfangs, fighters who weaken their foes with poison before the blade
+- [[affiliation-velskari|Vélskari]]—the Knights of the Shifting Shadow, a militant order guarding Vélgrímr's hidden temples

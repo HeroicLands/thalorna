@@ -1,6 +1,6 @@
 ---
-shortcode: serpentfangsvlg
-name: {full: "The Serpentfangs"}
+shortcode: ormgeir
+name: {full: "Ormgeir", aliases: ["The Serpentfangs"]}
 type: affiliation
 subType: order
 description: "Poison-trained fighters of Vélgrímr."
@@ -16,18 +16,18 @@ data:
       What this order confers is membership alone: a devotee holds its least claim, admitted to its work, and a leader its fullest, with nothing recorded between the two rungs.
     ranks:
       - level: 0
-        title: Cast Out of the Order
-        lore: ordercastoutrnk
+        title: Dróttvargr
+        lore: drottvargrrnk
         description: >-
-          Cast out of the Serpentfangs, forfeiting whatever counsel, shelter or standing membership gave him.
+          Cast out of Ormgeir, forfeiting whatever counsel, shelter or standing membership gave him.
       - level: 1
-        title: Devotee
-        lore: orderdevoteernk
+        title: Dróttmadr
+        lore: drottmadrrnk
         description: >-
           Trains in the toxins prepared at a hidden hof, carrying venom to weaken a foe before a blade is drawn.
       - level: 3
-        title: Leader of the Order
-        lore: orderleaderrnk
+        title: Dróttstjóri
+        lore: drottstjorirnk
         description: >-
           Leads the order's poison-fighters, relied on to finish what a blade alone would leave unsettled.
     offices: {}
@@ -41,4 +41,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The Serpentfangs fight for [[affiliation-velgrimr|Vélgrímr]] by poison as much as by blade, trained in the toxins that weaken a foe before a fight is ever joined. A member carries venom prepared at one of the hidden hofs in Malagna's ports, and is relied on to finish what a blade alone would leave unsettled.
+Ormgeir, the Serpentfangs, fight for [[affiliation-velgrimr|Vélgrímr]] by poison as much as by blade, trained in the toxins that weaken a foe before a fight is ever joined. A member carries venom prepared at one of the hidden hofs in Malagna's ports, and is relied on to finish what a blade alone would leave unsettled.

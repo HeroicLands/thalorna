@@ -1,6 +1,6 @@
 ---
-shortcode: infernalbladsvb
-name: {full: "Infernal Blades"}
+shortcode: eldulfr
+name: {full: "Eldúlfr", aliases: ["The Infernal Blades"]}
 type: affiliation
 subType: order
 description: "Svartbrandr's elite warriors of the forge-hofs."
@@ -16,18 +16,18 @@ data:
       What this order confers is membership alone: a devotee holds its least claim, admitted to its work, and a leader its fullest, with nothing recorded between the two rungs.
     ranks:
       - level: 0
-        title: Cast Out of the Order
-        lore: ordercastoutrnk
+        title: Dróttvargr
+        lore: drottvargrrnk
         description: >-
-          Cast out of the Infernal Blades, forfeiting whatever counsel, shelter or standing membership gave him.
+          Cast out of Eldúlfr, forfeiting whatever counsel, shelter or standing membership gave him.
       - level: 1
-        title: Devotee
-        lore: orderdevoteernk
+        title: Dróttmadr
+        lore: drottmadrrnk
         description: >-
           Survives a forge-hof's Fire-Weeks and the fights that follow, earning standing no rite alone can grant.
       - level: 3
-        title: Leader of the Order
-        lore: orderleaderrnk
+        title: Dróttstjóri
+        lore: drottstjorirnk
         description: >-
           Leads the order's warriors, proven by the ferocity the god's own ordeals are built to test.
     offices: {}
@@ -41,4 +41,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Infernal Blades are elite warriors of [[affiliation-svartbrandr|Svartbrandr]]'s faith, known through the forge-hofs for a ferocity in battle that the god's own ordeals are built to prove. A member earns standing by surviving the **Fire-Weeks** and by the fights that follow them, not by any rite a hof's godi alone can grant.
+Eldúlfr, the Infernal Blades, are elite warriors of [[affiliation-svartbrandr|Svartbrandr]]'s faith, known through the forge-hofs for a ferocity in battle that the god's own ordeals are built to prove. A member earns standing by surviving the **Fire-Weeks** and by the fights that follow them, not by any rite a hof's godi alone can grant.

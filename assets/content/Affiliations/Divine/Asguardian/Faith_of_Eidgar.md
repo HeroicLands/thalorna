@@ -122,7 +122,7 @@ Temples dedicated to Eidgar serve as places of law and order, where disputes are
 
 ## See Also
 
-- [[affiliation-ordrswordeidg|Order of the Sword]]—priests who master combat and the upholding of justice
-- [[affiliation-oathswrneidg|Oathsworn]]—priests who oversee the swearing of oaths and mediate on their breach
-- [[affiliation-swordeidgar|Sword of Eidgar]]—the faith's fighting order, warriors in justice's name
-- [[affiliation-oathkeeprseidg|Oathkeepers]]—warriors bound by oaths heavier than a soldier's, sworn to the faith's defense
+- [[affiliation-logbrandr|Lögbrandr]]—the Order of the Sword, priests who master combat and the upholding of justice
+- [[affiliation-eidringr|Eidringr]]—the Oathsworn, priests who oversee the swearing of oaths and mediate on their breach
+- [[affiliation-eidkappar|Eidkáppar]]—the Sword of Eidgar, the faith's fighting order, warriors in justice's name
+- [[affiliation-eidverdir|Eidverdir]]—the Oathkeepers, warriors bound by oaths heavier than a soldier's, sworn to the faith's defense

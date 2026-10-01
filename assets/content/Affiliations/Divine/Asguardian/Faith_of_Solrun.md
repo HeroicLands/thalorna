@@ -123,7 +123,7 @@ The faith's highest rank, Hofgodi/Hofgydja, is held by women alone.
 
 ## See Also
 
-- [[affiliation-ordrenchrosesol|Order of the Enchanted Rose]]—priests who counsel the powerful in love and beauty
-- [[affiliation-keeprsgldveilsol|Keepers of the Golden Veil]]—guardians of Sólrún's sacred wealth
-- [[affiliation-gildedvoicessol|Gilded Voices]]—priests who serve her faith as diplomats and negotiators
+- [[affiliation-solvinir|Sólvinir]]—the Order of the Enchanted Rose, priests who counsel the powerful in love and beauty
+- [[affiliation-gullverdir|Gullverdir]]—the Keepers of the Golden Veil, guardians of Sólrún's sacred wealth
+- [[affiliation-gullmal|Gullmál]]—the Gilded Voices, priests who serve her faith as diplomats and negotiators
 - [[affiliation-hringsystur|Hringsystur]]—the Ring-Sisters, sworn to make wealth and give it away

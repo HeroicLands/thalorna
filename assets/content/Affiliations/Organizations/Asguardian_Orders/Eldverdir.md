@@ -1,6 +1,6 @@
 ---
-shortcode: flameguardsvb
-name: {full: "The Flameguard"}
+shortcode: eldverdir
+name: {full: "Eldverdir", aliases: ["The Flameguard"]}
 type: affiliation
 subType: order
 description: "A militant order guarding Svartbrandr's forges."
@@ -16,18 +16,18 @@ data:
       What this order confers is membership alone: a devotee holds its least claim, admitted to its work, and a leader its fullest, with nothing recorded between the two rungs.
     ranks:
       - level: 0
-        title: Cast Out of the Order
-        lore: ordercastoutrnk
+        title: Dróttvargr
+        lore: drottvargrrnk
         description: >-
-          Cast out of the Flameguard, forfeiting whatever counsel, shelter or standing membership gave him.
+          Cast out of Eldverdir, forfeiting whatever counsel, shelter or standing membership gave him.
       - level: 1
-        title: Devotee
-        lore: orderdevoteernk
+        title: Dróttmadr
+        lore: drottmadrrnk
         description: >-
           Stands watch over a forge-hof through its Fire-Weeks, trained in the fire-based techniques the order fights with.
       - level: 3
-        title: Leader of the Order
-        lore: orderleaderrnk
+        title: Dróttstjóri
+        lore: drottstjorirnk
         description: >-
           Leads the order's defense of Svartbrandr's forge-hofs and his followers.
     offices: {}
@@ -41,4 +41,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The Flameguard is a militant order sworn to protect **Svartbrandr**'s forge-hofs and his followers, fighting with fire-based techniques that carry the god's own ordeal into battle. A member stands watch over a hof through its **Fire-Weeks** and answers any threat to it with the same flame the rite itself uses.
+Eldverdir, the Flameguard, is a militant order sworn to protect **Svartbrandr**'s forge-hofs and his followers, fighting with fire-based techniques that carry the god's own ordeal into battle. A member stands watch over a hof through its **Fire-Weeks** and answers any threat to it with the same flame the rite itself uses.

@@ -127,5 +127,5 @@ In artistic depictions, Ódvar is often shown holding a spear, Skjálfgeir, whic
 
 ## See Also
 
-- [[affiliation-ordrravenodv|Order of the Raven]]—priests devoted to rune-lore and divination
-- [[affiliation-ordralleyeodv|Order of the All-Seeing Eye]]—keepers of Ódvar's libraries and archives
+- [[affiliation-hrafnrun|Hrafnrún]]—the Order of the Raven, priests devoted to rune-lore and divination
+- [[affiliation-hugaett|Hugaett]]—the Order of the All-Seeing Eye, keepers of Ódvar's libraries and archives
