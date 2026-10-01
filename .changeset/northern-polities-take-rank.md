@@ -9,5 +9,5 @@ one.
 
 **Offices kept apart from rank** — A king's marshal, a province's reeve, a
 tribe's war-chief, and the other posts a person of standing may take up and
-lay down now appear separately from that person's rank, naming what each post
+lay down appear separately from that person's rank, naming what each post
 actually does.
