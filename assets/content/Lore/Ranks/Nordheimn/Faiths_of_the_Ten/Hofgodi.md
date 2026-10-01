@@ -3,11 +3,11 @@ shortcode: hofgodirnk
 name: {full: "Hofgodi / Hofgydja", aliases: []}
 type: lore
 subType: law
-description: "The high priest who consecrates a hof and performs the great blót at a season's turning, in the seven faiths of the Ten that keep it."
+description: "The high priest who consecrates a hof and performs the great blót at a season's turning, in the eight faiths of the Ten that keep it."
 tags: []
 ---
 
-The high priest who consecrates a hof and performs the great blót at a season's turning, in the seven faiths of the Ten that keep it.
+The high priest who consecrates a hof and performs the great blót at a season's turning, in the eight faiths of the Ten that keep it.
 
 ## What This Standing Is
 
@@ -31,4 +31,4 @@ None above it within the faith; the Landsgodi who hallows the ting island at Dó
 
 ## Where This Standing Is Held
 
-The seven faiths of the Ten that keep the blót: [[affiliation-odvar|Ódvar]], [[affiliation-thrunvald|Thrúnvald]], [[affiliation-eidgar|Eidgar]], [[affiliation-frodvin|Fródvin]], [[affiliation-solrun|Sólrún]], [[affiliation-velgrimr|Vélgrímr]], and [[affiliation-svartbrandr|Svartbrandr]], each under its own hof.
+The eight faiths of the Ten that keep the blót: [[affiliation-odvar|Ódvar]], [[affiliation-thrunvald|Thrúnvald]], [[affiliation-eidgar|Eidgar]], [[affiliation-frodvin|Fródvin]], [[affiliation-solrun|Sólrún]], [[affiliation-velgrimr|Vélgrímr]], [[affiliation-svartbrandr|Svartbrandr]], and [[affiliation-motefnir|Mótefnir]], each under its own hof.
