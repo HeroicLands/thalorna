@@ -85,7 +85,8 @@
     "keep": [
         {
             "literal": "Haulonna",
-            "why": "the Sinalë name for the valley (\"the hearth of the unfallen leaf\"), kept as an alias beside the Nordmen's own Thalmdal; an elvish name in an elvish context, never a Nordmal survivor"
+            "why": "the Sinalë name for the valley (\"the hearth of the unfallen leaf\"), kept as an alias beside the Nordmen's own Thalmdal; an elvish name in an elvish context, never a Nordmal survivor",
+            "kinds": []
         },
         {
             "literal": "Astrid",
