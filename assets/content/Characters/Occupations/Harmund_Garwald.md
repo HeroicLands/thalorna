@@ -1,12 +1,6 @@
 ---
 shortcode: hrmndgrwld
-name:
-  full: Hármund Garwald
-  title: ""
-  given: Hármund
-  clan: Garwald
-  home: falkensten
-  aliases: []
+name: {full: Hármund Garwald, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: varokhiclt
-  homes: [vrystwald]
+  homes: [falkensten]
   affiliations: [vrystwldtrbs]
   gender: male
   species: humanflk

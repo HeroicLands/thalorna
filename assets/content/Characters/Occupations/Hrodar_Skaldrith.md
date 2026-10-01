@@ -1,12 +1,6 @@
 ---
 shortcode: hrdrskldrth
-name:
-  full: Hródar Skáldrith
-  title: ""
-  given: Hródar
-  clan: Skáldrith
-  home: waldburg
-  aliases: []
+name: {full: Hródar Skáldrith, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: varokhiclt
-  homes: [vrystwald]
+  homes: [waldburg]
   affiliations: [vrystwldtrbs]
   gender: male
   species: humanflk

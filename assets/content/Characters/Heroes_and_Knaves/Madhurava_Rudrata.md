@@ -1,12 +1,6 @@
 ---
 shortcode: madhurvrdr
-name:
-  full: Màdhurava Rudrata
-  title: ""
-  given: Màdhurava
-  clan: Rudrata
-  home: chandrapur2
-  aliases: []
+name: {full: Màdhurava Rudrata, given: Màdhurava, clan: Rudrata, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, administration]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vedyariclt
-  homes: [vedyarargn]
+  homes: [chandrapur2]
   affiliations: [chandrapur]
   gender: male
   species: humanflk

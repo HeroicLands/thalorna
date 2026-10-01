@@ -1,12 +1,6 @@
 ---
 shortcode: krmdnsbrkrtys
-name:
-  full: Korêmdânis Bárkrâtys
-  title: ""
-  given: Korêmdânis
-  clan: Bárkrâtys
-  home: belekos
-  aliases: []
+name: {full: Korêmdânis Bárkrâtys, given: Korêmdânis, clan: Bárkrâtys, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [belekos]
   affiliations: [provincvld]
   gender: female
   species: humanflk

@@ -1,12 +1,6 @@
 ---
 shortcode: knrvrjrnskl
-name:
-  full: Knarvir Járnskel
-  title: ""
-  given: Knarvir
-  clan: Járnskel
-  home: thraldfjord
-  aliases: [Darius Thornveil]
+name: {full: Knarvir Járnskel, aliases: [Darius Thornveil]}
 type: being
 subType: npc
 tags: [draft, guilded, mages]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [thraldfjord]
   affiliations: [kngdmnrdhm]
   gender: male
   species: humanflk

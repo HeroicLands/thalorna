@@ -1,12 +1,6 @@
 ---
 shortcode: ulthrvnlthndkh
-name:
-  full: Ulthorv Nalthendikh
-  title: ""
-  given: Ulthorv
-  clan: Nalthendikh
-  home: horgsvangr
-  aliases: []
+name: {full: Ulthorv Nalthendikh, given: Ulthorv, clan: Nalthendikh, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [slavernk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [horgsvangr]
   affiliations: [kngdmnrdhm]
   gender: male
   species: humanflk

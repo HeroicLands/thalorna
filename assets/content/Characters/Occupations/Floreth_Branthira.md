@@ -1,12 +1,6 @@
 ---
 shortcode: flrthbrnthr
-name:
-  full: Floréth Bránthira
-  title: ""
-  given: Floréth
-  clan: Bránthira
-  home: valdes
-  aliases: []
+name: {full: Floréth Bránthira, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: tarvenanclt
-  homes: [tarvenirgn]
+  homes: [valdes]
   affiliations: [kingdmtrvn]
   gender: male
   species: humanflk

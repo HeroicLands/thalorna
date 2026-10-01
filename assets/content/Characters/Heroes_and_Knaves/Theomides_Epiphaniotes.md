@@ -1,12 +1,6 @@
 ---
 shortcode: thmdspphnts
-name:
-  full: Theomídes Epiphaniôtês
-  title: ""
-  given: Theomídes
-  clan: Epiphaniôtês
-  home: byzaris
-  aliases: []
+name: {full: Theomídes Epiphaniôtês, given: Theomídes, clan: Epiphaniôtês, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: byzarianclt
-  homes: [byzariargn]
+  homes: [byzaris]
   affiliations: [byzarianlg]
   gender: male
   species: humanflk

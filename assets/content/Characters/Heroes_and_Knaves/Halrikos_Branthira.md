@@ -1,12 +1,6 @@
 ---
 shortcode: hlrksbrnthr
-name:
-  full: Hálrikos Bránthira
-  title: ""
-  given: Hálrikos
-  clan: Bránthira
-  home: torreviga
-  aliases: []
+name: {full: Hálrikos Bránthira, given: Hálrikos, clan: Bránthira, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, administration]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: tarvenanclt
-  homes: [tarvenirgn]
+  homes: [torreviga]
   affiliations: [kingdmtrvn]
   gender: male
   species: humanflk

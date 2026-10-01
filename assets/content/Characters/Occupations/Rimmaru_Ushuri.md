@@ -1,6 +1,6 @@
 ---
 shortcode: rimarushur
-name: {full: Rimmârû Ushûrî, title: "", given: Rimmârû, clan: Ushûrî, home: miravel, aliases: []}
+name: {full: Rimmârû Ushûrî, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: haradianclt
-  homes: [haradregin]
+  homes: [miravel]
   affiliations: [cnfdrtnhrdnstts]
   gender: female
   species: humanflk

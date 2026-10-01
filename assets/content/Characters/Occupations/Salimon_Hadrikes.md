@@ -1,12 +1,6 @@
 ---
 shortcode: salmnhdrks
-name:
-  full: Sâlimón Hâdrîkês
-  title: ""
-  given: Sâlimón
-  clan: Hâdrîkês
-  home: theradon2
-  aliases: []
+name: {full: Sâlimón Hâdrîkês, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: helioniteclt
-  homes: [helionis]
+  homes: [theradon2]
   affiliations: [theradon]
   gender: male
   species: humanflk

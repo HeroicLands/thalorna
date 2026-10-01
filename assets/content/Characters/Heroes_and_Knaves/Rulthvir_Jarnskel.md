@@ -1,12 +1,6 @@
 ---
 shortcode: rlthvrjrnskl
-name:
-  full: Rulthvir Járnskel
-  title: ""
-  given: Rulthvir
-  clan: Járnskel
-  home: vrathavn
-  aliases: []
+name: {full: Rulthvir Járnskel, given: Rulthvir, clan: Járnskel, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [vrathavn]
   affiliations: [kingdmnrgd]
   gender: male
   species: humanflk

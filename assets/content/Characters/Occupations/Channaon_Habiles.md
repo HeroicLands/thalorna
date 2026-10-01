@@ -1,12 +1,6 @@
 ---
 shortcode: chananhbls
-name:
-  full: Chánnâon Hàbîlês
-  title: ""
-  given: Chánnâon
-  clan: Hàbîlês
-  home: thyrenae2
-  aliases: []
+name: {full: Chánnâon Hàbîlês, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: helioniteclt
-  homes: [helionis]
+  homes: [thyrenae2]
   affiliations: [thyrenae]
   gender: male
   species: humanflk

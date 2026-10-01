@@ -1,12 +1,6 @@
 ---
 shortcode: vshnshvdysgrml
-name:
-  full: Vishnusha Vidyāsāgaramandala
-  title: ""
-  given: Vishnusha
-  clan: Vidyāsāgaramandala
-  home: dhanurkota
-  aliases: []
+name: {full: Vishnusha Vidyāsāgaramandala, given: Vishnusha, clan: Vidyāsāgaramandala, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vedyariclt
-  homes: [vedyarargn]
+  homes: [dhanurkota]
   affiliations: [dhnrktjnpd]
   gender: male
   species: humanflk

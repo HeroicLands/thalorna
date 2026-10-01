@@ -1,12 +1,6 @@
 ---
 shortcode: kjrvngjrln
-name:
-  full: Kjôrvan Gjârlen
-  title: ""
-  given: Kjôrvan
-  clan: Gjârlen
-  home: fiordaure
-  aliases: []
+name: {full: Kjôrvan Gjârlen, given: Kjôrvan, clan: Gjârlen, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: provenzianclt
-  homes: [provenzrgn]
+  homes: [fiordaure]
   affiliations: [kngdmprvnz]
   gender: male
   species: humanflk

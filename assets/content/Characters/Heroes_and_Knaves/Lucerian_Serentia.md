@@ -1,6 +1,6 @@
 ---
 shortcode: lucernsrnt
-name: {full: Lucerian Serentia, title: "", given: Lucerian, clan: Serentia, aliases: []}
+name: {full: Lucerian Serentia, given: Lucerian, clan: Serentia, aliases: []}
 type: being
 subType: character
 tags: [tamzir-crew, tradesfolk]

@@ -1,12 +1,6 @@
 ---
 shortcode: sharnthmdn
-name:
-  full: Shárîna Thâmîdon
-  title: ""
-  given: Shárîna
-  clan: Thâmîdon
-  home: athenikos2
-  aliases: []
+name: {full: Shárîna Thâmîdon, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: helioniteclt
-  homes: [helionis]
+  homes: [athenikos2]
   affiliations: [athenikos]
   gender: female
   species: humanflk

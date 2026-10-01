@@ -1,6 +1,6 @@
 ---
 shortcode: kayvondzrd
-name: {full: Kayvonad Zârîd, title: "", given: Kayvonad, clan: Zârîd, home: ashkarad, aliases: []}
+name: {full: Kayvonad Zârîd, given: Kayvonad, clan: Zârîd, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, mages]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: khazrynclt
-  homes: [khzryndsrtrgn]
+  homes: [ashkarad]
   affiliations: [tribestrzd]
   gender: male
   species: humanflk

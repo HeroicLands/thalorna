@@ -1,12 +1,6 @@
 ---
 shortcode: phlnmrksns
-name:
-  full: Philína Markêsianos
-  title: ""
-  given: Philína
-  clan: Markêsianos
-  home: byzaris
-  aliases: []
+name: {full: Philína Markêsianos, given: Philína, clan: Markêsianos, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: byzarianclt
-  homes: [byzariargn]
+  homes: [byzaris]
   affiliations: [byzarianlg]
   gender: female
   species: humanflk

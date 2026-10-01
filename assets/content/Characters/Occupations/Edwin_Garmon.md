@@ -1,6 +1,6 @@
 ---
 shortcode: edwingarmn
-name: {full: Edwin Garmon, title: "", given: Edwin, clan: Garmon, home: kingsholow, aliases: []}
+name: {full: Edwin Garmon, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [kingsholow]
   affiliations: [kngdmldrth]
   gender: male
   species: humanflk

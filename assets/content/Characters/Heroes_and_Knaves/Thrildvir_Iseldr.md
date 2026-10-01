@@ -1,12 +1,6 @@
 ---
 shortcode: thrldvrisldr
-name:
-  full: Thrildvir Íseldr
-  title: ""
-  given: Thrildvir
-  clan: Íseldr
-  home: hrandstead
-  aliases: []
+name: {full: Thrildvir Íseldr, given: Thrildvir, clan: Íseldr, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [hrandstead]
   affiliations: [kngdmvthgrd]
   gender: male
   species: humanflk

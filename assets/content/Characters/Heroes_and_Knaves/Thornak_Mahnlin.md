@@ -2,10 +2,8 @@
 shortcode: thrnkbldtscbr
 name:
   full: Thornak Blodtūsc Bār
-  title: ""
   given: Thornak
   clan: Mahnlin
-  home: eichengrnd
   aliases: [The Boar-Totem Warrior, Blodtūsc Bār, Thornak Mahnlin]
 type: being
 subType: character
@@ -18,7 +16,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: varokhiclt
-  homes: [vrystwald]
+  homes: [eichengrnd]
   affiliations: [vrystwldtrbs]
   gender: male
   species: humanflk

@@ -1,12 +1,6 @@
 ---
 shortcode: senptvkrmd
-name:
-  full: Sénapati Vikramâda
-  title: ""
-  given: Sénapati
-  clan: Vikramâda
-  home: vyalendra3
-  aliases: []
+name: {full: Sénapati Vikramâda, given: Sénapati, clan: Vikramâda, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vedyariclt
-  homes: [vedyarargn]
+  homes: [vyalendra3]
   affiliations: [vyalendra2]
   gender: male
   species: humanflk

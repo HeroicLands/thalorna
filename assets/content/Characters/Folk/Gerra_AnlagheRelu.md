@@ -1,17 +1,11 @@
 ---
 shortcode: gerraanlghrl
-name:
-  full: Gerra Anlaghe'Rêlu
-  title: ""
-  given: Gerra
-  clan: Anlaghe'Rêlu
-  home: galezkara
-  aliases: []
+name: {full: Gerra Anlaghe'Rêlu, aliases: []}
 type: being
 subType: npc
 description: "A Halzi'a with a claim in the succession crisis, whose supporters are more numerous than his prospects"
 tags: [generated]
-data: {archetypes: [courtier], packFolder: regkhfolk}
+data: {archetypes: [courtier], packFolder: regkhfolk, homes: [galezkara]}
 ---
 
 A Halzi'a with a claim in the succession crisis, whose supporters are more numerous than his prospects.

@@ -1,12 +1,6 @@
 ---
 shortcode: dernklmrth
-name:
-  full: Déraen Kálmereth
-  title: ""
-  given: Déraen
-  clan: Kálmereth
-  home: silvain
-  aliases: []
+name: {full: Déraen Kálmereth, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [silvain]
   affiliations: [kngdmlvndr]
   gender: female
   species: humanflk

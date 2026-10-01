@@ -1,6 +1,6 @@
 ---
 shortcode: prthnblthl
-name: {full: Párthun Bélthal, title: "", given: Párthun, clan: Bélthal, home: valdun, aliases: []}
+name: {full: Párthun Bélthal, given: Párthun, clan: Bélthal, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, administration]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [valdun]
   affiliations: [kngdmlvndr]
   gender: male
   species: humanflk

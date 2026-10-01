@@ -1,12 +1,6 @@
 ---
 shortcode: galiaralwn
-name:
-  full: Gália Rálwen
-  title: Lady
-  given: Gália
-  clan: Rálwen
-  home: chastelclr
-  aliases: [Lady Elowen Brightwood]
+name: {full: Gália Rálwen, aliases: [Lady Elowen Brightwood]}
 type: being
 subType: npc
 tags: [draft, administration]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: provenzianclt
-  homes: [provenzrgn]
+  homes: [chastelclr]
   affiliations: [kngdmprvnz]
   gender: female
   species: humanflk

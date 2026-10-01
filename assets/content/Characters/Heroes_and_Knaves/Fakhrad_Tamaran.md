@@ -1,6 +1,6 @@
 ---
 shortcode: fakhrdtmrn
-name: {full: Fakhrad Tamârân, title: "", given: Fakhrad, clan: Tamârân, home: shamsun, aliases: []}
+name: {full: Fakhrad Tamârân, given: Fakhrad, clan: Tamârân, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, mages]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: dunhariclt
-  homes: [amradadrgn]
+  homes: [shamsun]
   affiliations: [sultntmrdd]
   gender: male
   species: humanflk

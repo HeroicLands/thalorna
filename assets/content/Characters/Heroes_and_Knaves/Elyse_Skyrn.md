@@ -1,6 +1,6 @@
 ---
 shortcode: elyseskyrn
-name: {full: Elýsè Skýrn, title: "", given: Elýsè, clan: Skýrn, aliases: []}
+name: {full: Elýsè Skýrn, given: Elýsè, clan: Skýrn, aliases: []}
 type: being
 subType: character
 tags: [hero, silent-talon, guilded, mages]

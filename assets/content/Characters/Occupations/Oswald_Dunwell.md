@@ -1,12 +1,6 @@
 ---
 shortcode: oswaldunwl
-name:
-  full: Oswald Dunwell
-  title: ""
-  given: Oswald
-  clan: Dunwell
-  home: kingsholow
-  aliases: [Sir Cedric Ashvale]
+name: {full: Oswald Dunwell, aliases: [Sir Cedric Ashvale]}
 type: being
 subType: npc
 tags: [draft, administration]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [kingsholow]
   affiliations: [kngdmldrth]
   gender: male
   species: humanflk

@@ -1,6 +1,6 @@
 ---
 shortcode: hildbrwnng
-name: {full: Hilda Browning, title: "", given: Hilda, clan: Browning, home: ashford, aliases: []}
+name: {full: Hilda Browning, aliases: []}
 type: being
 subType: npc
 tags: [draft, underworld]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [ashford]
   affiliations: [kngdmldrth]
   gender: female
   species: humanflk

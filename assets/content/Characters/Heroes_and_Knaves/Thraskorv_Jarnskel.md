@@ -1,12 +1,6 @@
 ---
 shortcode: thrskrvjrnskl
-name:
-  full: Thraskorv Járnskel
-  title: ""
-  given: Thraskorv
-  clan: Járnskel
-  home: knalthstead
-  aliases: []
+name: {full: Thraskorv Járnskel, given: Thraskorv, clan: Járnskel, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [slavernk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [knalthstead]
   affiliations: [kngdmnrdhm]
   gender: male
   species: humanflk

@@ -1,6 +1,6 @@
 ---
 shortcode: godabarnwl
-name: {full: Goda Barnwell, title: "", given: Goda, clan: Barnwell, home: kingsholow, aliases: []}
+name: {full: Goda Barnwell, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [kingsholow]
   affiliations: [kngdmldrth]
   gender: female
   species: humanflk

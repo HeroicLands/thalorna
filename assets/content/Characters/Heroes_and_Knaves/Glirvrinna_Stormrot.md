@@ -1,12 +1,6 @@
 ---
 shortcode: glrvrnstrmrt
-name:
-  full: Glirvrinna Stormrót
-  title: ""
-  given: Glirvrinna
-  clan: Stormrót
-  home: braldheim
-  aliases: []
+name: {full: Glirvrinna Stormrót, given: Glirvrinna, clan: Stormrót, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [braldheim]
   affiliations: [kingdomlgn]
   gender: female
   species: humanflk

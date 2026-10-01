@@ -1,6 +1,6 @@
 ---
 shortcode: zoriladmvr
-name: {full: Zórila Dómivar, title: "", given: Zórila, clan: Dómivar, home: valthari, aliases: []}
+name: {full: Zórila Dómivar, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: tarvenanclt
-  homes: [tarvenirgn]
+  homes: [valthari]
   affiliations: [kingdmtrvn]
   gender: female
   species: humanflk

@@ -1,12 +1,6 @@
 ---
 shortcode: phtnshdkt
-name:
-  full: Phótianos Hodíkot
-  title: ""
-  given: Phótianos
-  clan: Hodíkot
-  home: gumushisar2
-  aliases: []
+name: {full: Phótianos Hodíkot, given: Phótianos, clan: Hodíkot, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: byzarianclt
-  homes: [byzariargn]
+  homes: [gumushisar2]
   affiliations: [byzarianlg]
   gender: male
   species: humanflk

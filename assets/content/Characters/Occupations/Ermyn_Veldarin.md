@@ -1,6 +1,6 @@
 ---
 shortcode: ermynvldrn
-name: {full: Êrmyn Véldarin, title: "", given: Êrmyn, clan: Véldarin, home: "", aliases: []}
+name: {full: Êrmyn Véldarin, aliases: []}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]

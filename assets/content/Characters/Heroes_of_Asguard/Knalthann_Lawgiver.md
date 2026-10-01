@@ -1,12 +1,6 @@
 ---
 shortcode: knlthnlwgvr
-name:
-  full: Knalthann Lawgiver
-  title: null
-  given: Knalthann
-  clan: null
-  aliases: [Lawgiver]
-  home: null
+name: {full: Knalthann Lawgiver, given: Knalthann, clan: null, aliases: [Lawgiver]}
 type: being
 subType: character
 tags: [paragon, heroes-of-asguard, administration]

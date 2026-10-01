@@ -1,6 +1,6 @@
 ---
 shortcode: delnshfrdn
-name: {full: Delânash Faradân, title: "", given: Delânash, clan: Faradân, home: "", aliases: []}
+name: {full: Delânash Faradân, aliases: []}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]

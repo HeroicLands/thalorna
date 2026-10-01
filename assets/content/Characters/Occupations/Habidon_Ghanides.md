@@ -1,12 +1,6 @@
 ---
 shortcode: habdnghnds
-name:
-  full: Habìdon Ghânîdês
-  title: ""
-  given: Habìdon
-  clan: Ghânîdês
-  home: athenikos2
-  aliases: []
+name: {full: Habìdon Ghânîdês, aliases: []}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: helioniteclt
-  homes: [helionis]
+  homes: [athenikos2]
   affiliations: [athenikos]
   gender: male
   species: humanflk

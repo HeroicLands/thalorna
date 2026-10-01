@@ -1,12 +1,6 @@
 ---
 shortcode: damklsmpsn
-name:
-  full: Damáklios Sampsiôn
-  title: ""
-  given: Damáklios
-  clan: Sampsiôn
-  home: karatas2
-  aliases: []
+name: {full: Damáklios Sampsiôn, given: Damáklios, clan: Sampsiôn, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: byzarianclt
-  homes: [byzariargn]
+  homes: [karatas2]
   affiliations: [byzarianlg]
   gender: male
   species: humanflk

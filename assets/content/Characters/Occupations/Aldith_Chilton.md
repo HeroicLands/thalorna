@@ -1,12 +1,6 @@
 ---
 shortcode: aldthchltn
-name:
-  full: Aldith Chilton
-  title: ""
-  given: Aldith
-  clan: Chilton
-  home: ashford
-  aliases: [Shénasenè Lysandra Goldleaf]
+name: {full: Aldith Chilton, aliases: [Shénasenè Lysandra Goldleaf]}
 type: being
 subType: npc
 tags: [todo, draft, clergy]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [ashford]
   affiliations: [kngdmldrth]
   gender: female
   species: humanflk

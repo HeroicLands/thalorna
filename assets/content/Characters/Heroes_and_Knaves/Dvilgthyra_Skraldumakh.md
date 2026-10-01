@@ -1,12 +1,6 @@
 ---
 shortcode: dvlgthyrskrldmkh
-name:
-  full: Dvilgthýra Skraldumakh
-  title: ""
-  given: Dvilgthýra
-  clan: Skraldumakh
-  home: malstead
-  aliases: []
+name: {full: Dvilgthýra Skraldumakh, given: Dvilgthýra, clan: Skraldumakh, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [slavernk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [malstead]
   affiliations: [kingdomlgn]
   gender: female
   species: humanflk

@@ -1,12 +1,6 @@
 ---
 shortcode: sofntrvlth
-name:
-  full: Sofíenna Torvaleth
-  title: ""
-  given: Sofíenna
-  clan: Torvaleth
-  home: valdes
-  aliases: [Reslâva Vespera Sunstone]
+name: {full: Sofíenna Torvaleth, aliases: [Reslâva Vespera Sunstone]}
 type: being
 subType: npc
 tags: [todo, draft, clergy]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: tarvenanclt
-  homes: [tarvenirgn]
+  homes: [valdes]
   affiliations: [kingdmtrvn]
   gender: female
   species: humanflk

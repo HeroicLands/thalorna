@@ -1,6 +1,6 @@
 ---
 shortcode: legezaqu
-name: {full: Legez Aqu, title: "", given: Legez, clan: Aqu, home: anlaghzetun, aliases: []}
+name: {full: Legez Aqu, given: Legez, clan: Aqu, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, clergy]
@@ -13,7 +13,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: khelathiclt
-  homes: [aukhelathrgq]
+  homes: [anlaghzetun]
   affiliations: [empireakhlth]
   gender: male
   species: humanflk

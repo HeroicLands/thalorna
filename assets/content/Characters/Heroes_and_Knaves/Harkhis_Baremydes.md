@@ -1,12 +1,6 @@
 ---
 shortcode: hrkhsbrmyds
-name:
-  full: Harkhîs Bàremydês
-  title: ""
-  given: Harkhîs
-  clan: Bàremydês
-  home: belekos
-  aliases: []
+name: {full: Harkhîs Bàremydês, given: Harkhîs, clan: Bàremydês, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [belekos]
   affiliations: [provinclys]
   gender: male
   species: humanflk

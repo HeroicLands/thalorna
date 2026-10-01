@@ -1,6 +1,6 @@
 ---
 shortcode: lenarcrdth
-name: {full: Llénar Cárdeth, title: "", given: Llénar, clan: Cárdeth, home: silvain, aliases: []}
+name: {full: Llénar Cárdeth, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [silvain]
   affiliations: [kngdmlvndr]
   gender: male
   species: humanflk

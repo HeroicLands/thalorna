@@ -1,6 +1,6 @@
 ---
 shortcode: emynaothrl
-name: {full: Émyna Óthral, title: "", given: Émyna, clan: Óthral, home: valdun, aliases: []}
+name: {full: Émyna Óthral, aliases: []}
 type: being
 subType: npc
 tags: [draft, administration]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [valdun]
   affiliations: [kngdmlvndr]
   gender: female
   species: humanflk

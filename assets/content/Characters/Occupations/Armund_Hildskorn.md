@@ -1,12 +1,6 @@
 ---
 shortcode: armndhldskrn
-name:
-  full: Ármund Hildskorn
-  title: ""
-  given: Ármund
-  clan: Hildskorn
-  home: falkensten
-  aliases: []
+name: {full: Ármund Hildskorn, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: varokhiclt
-  homes: [vrystwald]
+  homes: [falkensten]
   affiliations: [vrystwldtrbs]
   gender: male
   species: humanflk

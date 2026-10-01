@@ -1,6 +1,6 @@
 ---
 shortcode: shamulzbsh
-name: {full: Shamûlû Zabîsh, title: "", given: Shamûlû, clan: Zabîsh, home: ashkabel2, aliases: []}
+name: {full: Shamûlû Zabîsh, aliases: []}
 type: being
 subType: npc
 tags: [todo, draft, clergy]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: haradianclt
-  homes: [haradregin]
+  homes: [ashkabel2]
   affiliations: [cnfdrtnhrdnstts]
   gender: male
   species: humanflk

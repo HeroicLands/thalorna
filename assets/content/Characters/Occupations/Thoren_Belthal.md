@@ -1,12 +1,6 @@
 ---
 shortcode: thornblthl
-name:
-  full: Thóren Bélthal
-  title: ""
-  given: Thóren
-  clan: Bélthal
-  home: cerdwnshlw
-  aliases: []
+name: {full: Thóren Bélthal, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [cerdwnshlw]
   affiliations: [kngdmlvndr]
   gender: male
   species: humanflk

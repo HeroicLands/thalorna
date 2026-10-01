@@ -1,6 +1,6 @@
 ---
 shortcode: jaranlyskl
-name: {full: Járaen Lýskal, title: "", given: Járaen, clan: Lýskal, home: lunacorte, aliases: []}
+name: {full: Járaen Lýskal, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: provenzianclt
-  homes: [provenzrgn]
+  homes: [lunacorte]
   affiliations: [kngdmprvnz]
   gender: female
   species: humanflk

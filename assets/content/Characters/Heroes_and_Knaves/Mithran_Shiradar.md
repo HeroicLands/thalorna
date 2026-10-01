@@ -1,12 +1,6 @@
 ---
 shortcode: mthrnshrdr
-name:
-  full: Mithran Shiradar
-  title: ""
-  given: Mithran
-  clan: Shiradar
-  home: oasisteyrn
-  aliases: []
+name: {full: Mithran Shiradar, given: Mithran, clan: Shiradar, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, administration]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: dunhariclt
-  homes: [dunhardsrtrgn]
+  homes: [oasisteyrn]
   affiliations: [dunhartrbs]
   gender: male
   species: humanflk

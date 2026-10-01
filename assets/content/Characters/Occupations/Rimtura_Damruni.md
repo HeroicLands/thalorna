@@ -1,6 +1,6 @@
 ---
 shortcode: rimturdmrn
-name: {full: Rimtûra Damrûnî, title: "", given: Rimtûra, clan: Damrûnî, home: azhun2, aliases: []}
+name: {full: Rimtûra Damrûnî, aliases: []}
 type: being
 subType: npc
 tags: [draft, administration]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: haradianclt
-  homes: [haradregin]
+  homes: [azhun2]
   affiliations: [cnfdrtnhrdnstts]
   gender: female
   species: humanflk

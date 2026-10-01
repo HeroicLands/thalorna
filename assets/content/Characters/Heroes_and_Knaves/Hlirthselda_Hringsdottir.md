@@ -2,10 +2,8 @@
 shortcode: hlrthsldhrngsdtr
 name:
   full: Hlirthselda Hringsdóttir
-  title: ""
   given: Hlirthselda
   clan: ""
-  home: vrathavn
   aliases: [the Shield-Maiden of Vrathavn]
 type: being
 subType: character
@@ -18,7 +16,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [vrathavn]
   affiliations: [kingdmnrgd]
   gender: female
   species: humanflk

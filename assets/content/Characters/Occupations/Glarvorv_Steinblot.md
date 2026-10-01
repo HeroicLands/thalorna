@@ -1,12 +1,6 @@
 ---
 shortcode: glrvrvstnblt
-name:
-  full: Glarvorv Steinblót
-  title: ""
-  given: Glarvorv
-  clan: Steinblót
-  home: dvalgheim
-  aliases: []
+name: {full: Glarvorv Steinblót, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [dvalgheim]
   affiliations: [kngdmnrdhm]
   gender: male
   species: humanflk

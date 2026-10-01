@@ -1,12 +1,6 @@
 ---
 shortcode: vanikartns
-name:
-  full: Vànika Ratnisena
-  title: ""
-  given: Vànika
-  clan: Ratnisena
-  home: rajapur
-  aliases: []
+name: {full: Vànika Ratnisena, given: Vànika, clan: Ratnisena, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vedyariclt
-  homes: [vedyarargn]
+  homes: [rajapur]
   affiliations: [rajaprjnpd]
   gender: female
   species: humanflk

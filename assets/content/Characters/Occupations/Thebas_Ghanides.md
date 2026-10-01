@@ -1,12 +1,6 @@
 ---
 shortcode: thebsghnds
-name:
-  full: Thêbas Ghânîdês
-  title: ""
-  given: Thêbas
-  clan: Ghânîdês
-  home: korinthea2
-  aliases: []
+name: {full: Thêbas Ghânîdês, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: helioniteclt
-  homes: [helionis]
+  homes: [korinthea2]
   affiliations: [korinthea]
   gender: male
   species: humanflk

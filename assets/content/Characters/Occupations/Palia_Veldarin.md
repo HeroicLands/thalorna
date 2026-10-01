@@ -1,12 +1,6 @@
 ---
 shortcode: paliavldrn
-name:
-  full: Pália Véldarin
-  title: ""
-  given: Pália
-  clan: Véldarin
-  home: cerdwnshlw
-  aliases: []
+name: {full: Pália Véldarin, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [cerdwnshlw]
   affiliations: [kngdmlvndr]
   gender: female
   species: humanflk

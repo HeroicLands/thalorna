@@ -1,12 +1,6 @@
 ---
 shortcode: firavdprsk
-name:
-  full: Firâvâd Pâresak
-  title: ""
-  given: Firâvâd
-  clan: Pâresak
-  home: dunashir
-  aliases: []
+name: {full: Firâvâd Pâresak, given: Firâvâd, clan: Pâresak, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, clergy]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: dunhariclt
-  homes: [dunhardsrtrgn]
+  homes: [dunashir]
   affiliations: [dunhartrbs]
   gender: male
   species: humanflk

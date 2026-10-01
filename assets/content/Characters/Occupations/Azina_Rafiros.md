@@ -1,6 +1,6 @@
 ---
 shortcode: azinarafrs
-name: {full: Ázîna Râfîrôs, title: "", given: Ázîna, clan: Râfîrôs, home: theradon2, aliases: []}
+name: {full: Ázîna Râfîrôs, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: helioniteclt
-  homes: [helionis]
+  homes: [theradon2]
   affiliations: [theradon]
   gender: female
   species: humanflk

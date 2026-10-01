@@ -1,6 +1,6 @@
 ---
 shortcode: elimuashim
-name: {full: Ellimû Ashîmâ, title: "", given: Ellimû, clan: Ashîmâ, home: qadhirun, aliases: []}
+name: {full: Ellimû Ashîmâ, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: haradianclt
-  homes: [haradregin]
+  homes: [qadhirun]
   affiliations: [cnfdrtnhrdnstts]
   gender: male
   species: humanflk

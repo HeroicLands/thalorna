@@ -1,6 +1,6 @@
 ---
 shortcode: lyrnvlskyr
-name: {full: Lýraen Válskyr, title: "", given: Lýraen, clan: Válskyr, home: valcerise, aliases: []}
+name: {full: Lýraen Válskyr, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: provenzianclt
-  homes: [provenzrgn]
+  homes: [valcerise]
   affiliations: [kngdmprvnz]
   gender: female
   species: humanflk

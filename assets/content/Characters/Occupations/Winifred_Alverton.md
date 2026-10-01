@@ -1,12 +1,6 @@
 ---
 shortcode: wnfrdlvrtn
-name:
-  full: Winifred Alverton
-  title: ""
-  given: Winifred
-  clan: Alverton
-  home: dunmere
-  aliases: []
+name: {full: Winifred Alverton, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [dunmere]
   affiliations: [kngdmldrth]
   gender: female
   species: humanflk

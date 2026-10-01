@@ -1,12 +1,6 @@
 ---
 shortcode: shezurzingat
-name:
-  full: Shezur Zin'Gatau
-  title: ""
-  given: Shezur
-  clan: Zin'Gatau
-  home: anlaghzetun
-  aliases: []
+name: {full: Shezur Zin'Gatau, given: Shezur, clan: Zin'Gatau, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -19,7 +13,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: khelathiclt
-  homes: [aukhelathrgq]
+  homes: [anlaghzetun]
   affiliations: [empireakhlth]
   gender: male
   species: humanflk

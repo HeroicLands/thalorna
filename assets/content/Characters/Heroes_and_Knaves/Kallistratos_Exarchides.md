@@ -1,12 +1,6 @@
 ---
 shortcode: klstrtsxrchds
-name:
-  full: Kallistratos Exarchides
-  title: ""
-  given: Kallistratos
-  clan: Exarchides
-  home: velysara
-  aliases: []
+name: {full: Kallistratos Exarchides, given: Kallistratos, clan: Exarchides, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, mages]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [velysara]
   affiliations: [provinclys, ordoarcanis]
   gender: male
   species: humanflk

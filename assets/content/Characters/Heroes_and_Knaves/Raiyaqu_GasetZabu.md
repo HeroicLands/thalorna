@@ -1,12 +1,6 @@
 ---
 shortcode: raiyaqugstzb
-name:
-  full: Raiyaqu Gaset'Zabu
-  title: Zabet
-  given: Raiyaqu
-  clan: Gaset'Zabu
-  home: galezkara
-  aliases: []
+name: {full: Raiyaqu Gaset'Zabu, given: Raiyaqu, clan: Gaset'Zabu, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, administration]
@@ -19,7 +13,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: khelathiclt
-  homes: [aukhelathrgq]
+  homes: [galezkara]
   affiliations: [empireakhlth]
   gender: female
   species: humanflk

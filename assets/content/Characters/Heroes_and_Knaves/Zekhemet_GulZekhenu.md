@@ -1,12 +1,6 @@
 ---
 shortcode: zekhmtglzkhn
-name:
-  full: Zekhemet Gul'Zekhenu
-  title: ""
-  given: Zekhemet
-  clan: Gul'Zekhenu
-  home: khelzuret
-  aliases: []
+name: {full: Zekhemet Gul'Zekhenu, given: Zekhemet, clan: Gul'Zekhenu, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -19,7 +13,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: khelathiclt
-  homes: [aukhelathrgq]
+  homes: [khelzuret]
   affiliations: [empireakhlth]
   gender: female
   species: humanflk

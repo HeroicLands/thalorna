@@ -1,6 +1,6 @@
 ---
 shortcode: sahiratbrs
-name: {full: Sahîra Tâbîrês, title: "", given: Sahîra, clan: Tâbîrês, home: pelagora2, aliases: []}
+name: {full: Sahîra Tâbîrês, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: helioniteclt
-  homes: [helionis]
+  homes: [pelagora2]
   affiliations: [pelagora]
   gender: female
   species: humanflk

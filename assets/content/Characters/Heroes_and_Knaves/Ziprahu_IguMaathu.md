@@ -1,12 +1,6 @@
 ---
 shortcode: ziprahuigmth
-name:
-  full: Ziprahu Igu'Maâthu
-  title: ""
-  given: Ziprahu
-  clan: Igu'Maâthu
-  home: galezkara
-  aliases: []
+name: {full: Ziprahu Igu'Maâthu, given: Ziprahu, clan: Igu'Maâthu, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -19,7 +13,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: khelathiclt
-  homes: [aukhelathrgq]
+  homes: [galezkara]
   affiliations: [empireakhlth]
   gender: male
   species: humanflk

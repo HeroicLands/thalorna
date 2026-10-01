@@ -1,12 +1,6 @@
 ---
 shortcode: amqltzlmlglq
-name:
-  full: Amqelet-Zelemu Legulu’aqun
-  title: ""
-  given: Amqelet-Zelemu
-  clan: Legulu’aqun
-  home: amqelulegez
-  aliases: []
+name: {full: Amqelet-Zelemu Legulu’aqun, given: Amqelet-Zelemu, clan: Legulu’aqun, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, mages]
@@ -19,7 +13,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: khelathiclt
-  homes: [aukhelathrgq]
+  homes: [amqelulegez]
   affiliations: [empireakhlth]
   gender: male
   species: humanflk

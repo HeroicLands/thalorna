@@ -1,12 +1,6 @@
 ---
 shortcode: thlmthnslvrgr
-name:
-  full: Thalmthann Sólvargr
-  title: ""
-  given: Thalmthann
-  clan: Sólvargr
-  home: dvarnvik
-  aliases: []
+name: {full: Thalmthann Sólvargr, given: Thalmthann, clan: Sólvargr, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [dvarnvik]
   affiliations: [kngdmvthgrd]
   gender: male
   species: humanflk

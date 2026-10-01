@@ -1,12 +1,6 @@
 ---
 shortcode: thldrdrthgr
-name:
-  full: Thaldrá Druthgar
-  title: ""
-  given: Thaldrá
-  clan: Druthgar
-  home: thornhaven
-  aliases: ["Thalia Hart"]
+name: {full: Thaldrá Druthgar, aliases: ["Thalia Hart"]}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: varokhiclt
-  homes: [vrystwald]
+  homes: [thornhaven]
   affiliations: [vrystwldtrbs]
   gender: female
   species: humanflk

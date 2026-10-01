@@ -1,12 +1,6 @@
 ---
 shortcode: chnkhrghrths
-name:
-  full: Chânkhor Ghârîthôs
-  title: ""
-  given: Chânkhor
-  clan: Ghârîthôs
-  home: theradon2
-  aliases: []
+name: {full: Chânkhor Ghârîthôs, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: helioniteclt
-  homes: [helionis]
+  homes: [theradon2]
   affiliations: [theradon]
   gender: male
   species: humanflk

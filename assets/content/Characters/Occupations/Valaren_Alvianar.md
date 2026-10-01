@@ -1,12 +1,6 @@
 ---
 shortcode: valarnlvnr
-name:
-  full: Valáren Álvianar
-  title: ""
-  given: Valáren
-  clan: Álvianar
-  home: null # was: Eskárath
-  aliases: []
+name: {full: Valáren Álvianar, aliases: []}
 type: being
 subType: npc
 tags: [draft, administration]

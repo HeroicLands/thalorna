@@ -1,6 +1,6 @@
 ---
 shortcode: jethralydr
-name: {full: Jéthra Llýdar, title: "", given: Jéthra, clan: Llýdar, home: cerdwnshlw, aliases: []}
+name: {full: Jéthra Llýdar, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, mages]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [cerdwnshlw]
   affiliations: [kngdmlvndr]
   gender: female
   species: humanflk

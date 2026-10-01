@@ -2,10 +2,8 @@
 shortcode: rshrhssfrn
 name:
   full: Rashîra of House Safîrôn
-  title: Grammatíssa
   given: Rashîra
   clan: Safîrôn
-  home: bethura
   aliases: [The Keeper of the Purple Warrant, The Renegade Grammatíssa]
 type: being
 subType: character
@@ -18,7 +16,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: bethuanclt
-  homes: [bethuargn]
+  homes: [bethura]
   affiliations: [mtrrchybth]
   gender: female
   species: humanflk

@@ -1,6 +1,6 @@
 ---
 shortcode: mithrnmznd
-name: {full: Mithran Mazânid, title: "", given: Mithran, clan: Mazânid, home: shamsun, aliases: []}
+name: {full: Mithran Mazânid, given: Mithran, clan: Mazânid, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: dunhariclt
-  homes: [amradadrgn]
+  homes: [shamsun]
   affiliations: [sultntmrdd]
   gender: male
   species: humanflk

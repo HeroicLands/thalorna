@@ -1,12 +1,6 @@
 ---
 shortcode: xthrnksrns
-name:
-  full: Xâthrîon Kâserânis
-  title: ""
-  given: Xâthrîon
-  clan: Kâserânis
-  home: valdosta
-  aliases: []
+name: {full: Xâthrîon Kâserânis, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [valdosta]
   affiliations: [vylarinmpr]
   gender: male
   species: humanflk

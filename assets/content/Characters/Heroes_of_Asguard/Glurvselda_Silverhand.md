@@ -1,12 +1,6 @@
 ---
 shortcode: glrvsldslvrhnd
-name:
-  full: Glurvselda Silverhand
-  title: null
-  given: Glurvselda
-  clan: null
-  aliases: [Silverhand]
-  home: null
+name: {full: Glurvselda Silverhand, given: Glurvselda, clan: null, aliases: [Silverhand]}
 type: being
 subType: character
 tags: [hero, heroes-of-asguard, tradesfolk]

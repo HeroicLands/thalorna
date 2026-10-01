@@ -1,12 +1,6 @@
 ---
 shortcode: rdrnvthrnd
-name:
-  full: Rádrún Vithrúnd
-  title: ""
-  given: Rádrún
-  clan: Vithrúnd
-  home: grimholt
-  aliases: []
+name: {full: Rádrún Vithrúnd, aliases: []}
 type: being
 subType: npc
 tags: [draft, underworld]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: varokhiclt
-  homes: [vrystwald]
+  homes: [grimholt]
   affiliations: [vrystwldtrbs]
   gender: female
   species: humanflk

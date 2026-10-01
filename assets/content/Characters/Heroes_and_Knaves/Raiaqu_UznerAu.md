@@ -1,12 +1,6 @@
 ---
 shortcode: raiaquuznera
-name:
-  full: Raiaqu Uzner'Âu
-  title: ""
-  given: Raiaqu
-  clan: Uzner'Âu
-  home: galezkara
-  aliases: []
+name: {full: Raiaqu Uzner'Âu, given: Raiaqu, clan: Uzner'Âu, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -19,7 +13,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: khelathiclt
-  homes: [aukhelathrgq]
+  homes: [galezkara]
   affiliations: [empireakhlth]
   gender: male
   species: humanflk

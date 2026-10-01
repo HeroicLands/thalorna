@@ -1,12 +1,6 @@
 ---
 shortcode: asharhrrds
-name:
-  full: Ashârâ Hârôrdâs
-  title: ""
-  given: Ashârâ
-  clan: Hârôrdâs
-  home: tyrellan
-  aliases: []
+name: {full: Ashârâ Hârôrdâs, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [tyrellan]
   affiliations: [vylarinmpr]
   gender: female
   species: humanflk

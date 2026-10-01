@@ -1,12 +1,6 @@
 ---
 shortcode: deklbrmzts
-name:
-  full: Dékêla Bàremzâtês
-  title: ""
-  given: Dékêla
-  clan: Bàremzâtês
-  home: aelissium
-  aliases: []
+name: {full: Dékêla Bàremzâtês, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [aelissium]
   affiliations: [vylarinmpr]
   gender: female
   species: humanflk

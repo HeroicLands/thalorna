@@ -1,6 +1,6 @@
 ---
 shortcode: branwldrgr
-name: {full: Brànwâal Dôrgaar, title: Captain, given: Brànwâal, clan: Dôrgaar, aliases: []}
+name: {full: Brànwâal Dôrgaar, given: Brànwâal, clan: Dôrgaar, aliases: []}
 type: being
 subType: character
 tags: [hero, silent-talon, soldiery]

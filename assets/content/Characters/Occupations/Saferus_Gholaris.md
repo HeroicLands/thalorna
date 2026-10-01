@@ -1,12 +1,6 @@
 ---
 shortcode: safrsghlrs
-name:
-  full: Sáfêrús Ghôlâris
-  title: ""
-  given: Sáfêrús
-  clan: Ghôlâris
-  home: pelagora2
-  aliases: []
+name: {full: Sáfêrús Ghôlâris, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: helioniteclt
-  homes: [helionis]
+  homes: [pelagora2]
   affiliations: [pelagora]
   gender: male
   species: humanflk

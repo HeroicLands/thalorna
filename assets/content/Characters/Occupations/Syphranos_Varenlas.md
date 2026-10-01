@@ -1,12 +1,6 @@
 ---
 shortcode: syphrnsvrnls
-name:
-  full: Syphrânôs Vârênlâs
-  title: ""
-  given: Syphrânôs
-  clan: Vârênlâs
-  home: belekos
-  aliases: []
+name: {full: Syphrânôs Vârênlâs, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [belekos]
   affiliations: [vylarinmpr]
   gender: male
   species: humanflk

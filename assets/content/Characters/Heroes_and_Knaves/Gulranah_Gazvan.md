@@ -1,6 +1,6 @@
 ---
 shortcode: gulrnhgzvn
-name: {full: Gulrânah Gazvân, title: "", given: Gulrânah, clan: Gazvân, home: shamsun, aliases: []}
+name: {full: Gulrânah Gazvân, given: Gulrânah, clan: Gazvân, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, common-folk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: dunhariclt
-  homes: [amradadrgn]
+  homes: [shamsun]
   affiliations: [sultntmrdd]
   gender: female
   species: humanflk

@@ -1,12 +1,6 @@
 ---
 shortcode: vrynbrnwyld
-name:
-  full: Vérynna Brânwyld
-  title: ""
-  given: Vérynna
-  clan: Brânwyld
-  home: aureliane
-  aliases: []
+name: {full: Vérynna Brânwyld, aliases: []}
 type: being
 subType: npc
 tags: [draft, clergy]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: provenzianclt
-  homes: [provenzrgn]
+  homes: [aureliane]
   affiliations: [kngdmprvnz]
   gender: female
   species: humanflk

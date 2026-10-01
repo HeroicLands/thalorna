@@ -1,12 +1,6 @@
 ---
 shortcode: arklrdsklmkns
-name:
-  full: Arkálòrdâs Kâlmâkanês
-  title: ""
-  given: Arkálòrdâs
-  clan: Kâlmâkanês
-  home: aelissium
-  aliases: []
+name: {full: Arkálòrdâs Kâlmâkanês, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [aelissium]
   affiliations: [vylarinmpr]
   gender: male
   species: humanflk

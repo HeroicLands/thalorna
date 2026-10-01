@@ -1,12 +1,6 @@
 ---
 shortcode: hrprsvrkrtys
-name:
-  full: Harpêros Vârkrâtys
-  title: ""
-  given: Harpêros
-  clan: Vârkrâtys
-  home: corvinus
-  aliases: []
+name: {full: Harpêros Vârkrâtys, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [corvinus]
   affiliations: [vylarinmpr]
   gender: male
   species: humanflk

@@ -1,12 +1,6 @@
 ---
 shortcode: rithardmvr
-name:
-  full: Ríthara Dómivar
-  title: ""
-  given: Ríthara
-  clan: Dómivar
-  home: torreviga
-  aliases: []
+name: {full: Ríthara Dómivar, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: tarvenanclt
-  homes: [tarvenirgn]
+  homes: [torreviga]
   affiliations: [kingdmtrvn]
   gender: female
   species: humanflk

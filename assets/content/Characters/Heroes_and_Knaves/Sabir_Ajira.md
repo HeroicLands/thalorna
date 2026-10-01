@@ -1,6 +1,6 @@
 ---
 shortcode: sabirajira
-name: {full: Sâbir Âjira, title: "", given: Sâbir, clan: Âjira, home: qasirah, aliases: []}
+name: {full: Sâbir Âjira, given: Sâbir, clan: Âjira, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, common-folk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: kaliharanclt
-  homes: [kaliharargn]
+  homes: [qasirah]
   affiliations: [kalihara]
   gender: male
   species: humanflk

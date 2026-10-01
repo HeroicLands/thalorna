@@ -1,12 +1,6 @@
 ---
 shortcode: anrjhrdvmbjkr
-name:
-  full: Anûraja Harshadēvāmbujakar
-  title: ""
-  given: Anûraja
-  clan: Harshadēvāmbujakar
-  home: chandrapur2
-  aliases: []
+name: {full: Anûraja Harshadēvāmbujakar, given: Anûraja, clan: Harshadēvāmbujakar, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, underworld]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vedyariclt
-  homes: [vedyarargn]
+  homes: [chandrapur2]
   affiliations: [chandrapur]
   gender: male
   species: humanflk

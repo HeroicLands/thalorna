@@ -1,12 +1,6 @@
 ---
 shortcode: kashnrrshm
-name:
-  full: Kashnûra Arshûmû
-  title: ""
-  given: Kashnûra
-  clan: Arshûmû
-  home: qadhirun
-  aliases: []
+name: {full: Kashnûra Arshûmû, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: haradianclt
-  homes: [haradregin]
+  homes: [qadhirun]
   affiliations: [cnfdrtnhrdnstts]
   gender: female
   species: humanflk

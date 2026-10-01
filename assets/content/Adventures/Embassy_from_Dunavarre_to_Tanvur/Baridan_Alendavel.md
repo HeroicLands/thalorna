@@ -1,6 +1,6 @@
 ---
 shortcode: baridanalendavel
-name: {full: Baridan Aléndavel, title: "", given: Baridan, clan: Aléndavel, aliases: []}
+name: {full: Baridan Aléndavel, given: Baridan, clan: Aléndavel, aliases: []}
 type: being
 subType: character
 tags: [draft, embassy-to-tanvur]

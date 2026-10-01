@@ -1,6 +1,6 @@
 ---
 shortcode: ylndrmyrdl
-name: {full: Yléndor Mýrdal, title: "", given: Yléndor, clan: Mýrdal, home: lunacorte, aliases: []}
+name: {full: Yléndor Mýrdal, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, mages]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: provenzianclt
-  homes: [provenzrgn]
+  homes: [lunacorte]
   affiliations: [kngdmprvnz]
   gender: male
   species: humanflk

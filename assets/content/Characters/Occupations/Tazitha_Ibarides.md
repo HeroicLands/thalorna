@@ -1,12 +1,6 @@
 ---
 shortcode: tazithbrds
-name:
-  full: Tázîtha Ibârîdês
-  title: ""
-  given: Tázîtha
-  clan: Ibârîdês
-  home: pelagora2
-  aliases: []
+name: {full: Tázîtha Ibârîdês, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: helioniteclt
-  homes: [helionis]
+  homes: [pelagora2]
   affiliations: [pelagora]
   gender: female
   species: humanflk

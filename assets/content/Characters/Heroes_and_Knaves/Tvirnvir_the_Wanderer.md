@@ -1,12 +1,6 @@
 ---
 shortcode: tvrnvrwndr
-name:
-  full: Tvirnvir the Wanderer
-  title: ""
-  given: Tvirnvir
-  clan: ""
-  home: flarnbrekka
-  aliases: [the Rogue Skald]
+name: {full: Tvirnvir the Wanderer, given: Tvirnvir, clan: "", aliases: [the Rogue Skald]}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, guilded, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [flarnbrekka]
   affiliations: [kingdmnrgd]
   gender: male
   species: humanflk

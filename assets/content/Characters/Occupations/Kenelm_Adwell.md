@@ -1,6 +1,6 @@
 ---
 shortcode: kenelmadwl
-name: {full: Kenelm Adwell, title: "", given: Kenelm, clan: Adwell, home: brynhallow, aliases: []}
+name: {full: Kenelm Adwell, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [brynhallow]
   affiliations: [kngdmldrth]
   gender: male
   species: humanflk

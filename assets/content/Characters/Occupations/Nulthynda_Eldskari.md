@@ -1,12 +1,6 @@
 ---
 shortcode: nlthyndeldskr
-name:
-  full: Nulthynda Eldskari
-  title: ""
-  given: Nulthynda
-  clan: Eldskari
-  home: raltholm
-  aliases: []
+name: {full: Nulthynda Eldskari, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [raltholm]
   affiliations: [kngdmnrdhm]
   gender: female
   species: humanflk

@@ -1,12 +1,6 @@
 ---
 shortcode: azendsdmtr
-name:
-  full: Azéndas Dâemâtôr
-  title: ""
-  given: Azéndas
-  clan: Dâemâtôr
-  home: tyrellan
-  aliases: [Ebaséthè Rowan Thistlewood]
+name: {full: Azéndas Dâemâtôr, aliases: [Ebaséthè Rowan Thistlewood]}
 type: being
 subType: npc
 tags: [todo, draft, clergy]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [tyrellan]
   affiliations: [vylarinmpr]
   gender: male
   species: humanflk

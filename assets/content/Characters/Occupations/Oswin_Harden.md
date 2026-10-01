@@ -1,6 +1,6 @@
 ---
 shortcode: oswinhardn
-name: {full: Oswin Harden, title: "", given: Oswin, clan: Harden, home: caerwynd, aliases: []}
+name: {full: Oswin Harden, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [caerwynd]
   affiliations: [kngdmldrth]
   gender: male
   species: humanflk

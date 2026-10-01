@@ -1,12 +1,6 @@
 ---
 shortcode: klndrskrklns
-name:
-  full: Kàlendrîs Korkâlenîs
-  title: ""
-  given: Kàlendrîs
-  clan: Korkâlenîs
-  home: velysara
-  aliases: []
+name: {full: Kàlendrîs Korkâlenîs, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [velysara]
   affiliations: [vylarinmpr]
   gender: female
   species: humanflk

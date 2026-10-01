@@ -1,12 +1,6 @@
 ---
 shortcode: edrthgrylng
-name:
-  full: Edrith Grayling
-  title: ""
-  given: Edrith
-  clan: Grayling
-  home: ravenmoor
-  aliases: []
+name: {full: Edrith Grayling, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [ravenmoor]
   affiliations: [kingdmdnvr]
   gender: female
   species: humanflk

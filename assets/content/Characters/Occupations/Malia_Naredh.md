@@ -1,6 +1,6 @@
 ---
 shortcode: malianardh
-name: {full: Mália Náredh, title: "", given: Mália, clan: Náredh, home: elanmere, aliases: []}
+name: {full: Mália Náredh, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [elanmere]
   affiliations: [kngdmlvndr]
   gender: female
   species: humanflk

@@ -1,12 +1,6 @@
 ---
 shortcode: akhrelrthllr
-name:
-  full: Akhrelu Reth'el'Lêru
-  title: ""
-  given: Akhrelu
-  clan: Reth'el'Lêru
-  home: garanlaghet
-  aliases: []
+name: {full: Akhrelu Reth'el'Lêru, given: Akhrelu, clan: Reth'el'Lêru, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -19,7 +13,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: khelathiclt
-  homes: [aukhelathrgq]
+  homes: [garanlaghet]
   affiliations: [empireakhlth]
   gender: male
   species: humanflk

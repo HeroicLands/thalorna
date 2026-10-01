@@ -1,12 +1,6 @@
 ---
 shortcode: hrndrndrknt
-name:
-  full: Hrandrinna Drekanótt
-  title: ""
-  given: Hrandrinna
-  clan: Drekanótt
-  home: hvalgvik
-  aliases: []
+name: {full: Hrandrinna Drekanótt, given: Hrandrinna, clan: Drekanótt, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [hvalgvik]
   affiliations: [kingdomlgn]
   gender: female
   species: humanflk

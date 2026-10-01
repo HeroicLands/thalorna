@@ -1,6 +1,6 @@
 ---
 shortcode: prthncrdth
-name: {full: Párthun Cárdeth, title: "", given: Párthun, clan: Cárdeth, home: valdun, aliases: []}
+name: {full: Párthun Cárdeth, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [valdun]
   affiliations: [kngdmlvndr]
   gender: male
   species: humanflk

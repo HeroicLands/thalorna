@@ -1,12 +1,6 @@
 ---
 shortcode: glvrmrthrn
-name:
-  full: Gálver Maríthran
-  title: ""
-  given: Gálver
-  clan: Maríthran
-  home: valdes
-  aliases: []
+name: {full: Gálver Maríthran, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: tarvenanclt
-  homes: [tarvenirgn]
+  homes: [valdes]
   affiliations: [kingdmtrvn]
   gender: male
   species: humanflk

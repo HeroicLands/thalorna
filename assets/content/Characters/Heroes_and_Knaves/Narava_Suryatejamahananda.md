@@ -1,12 +1,6 @@
 ---
 shortcode: nrvsrytjmhnnd
-name:
-  full: Nárava Sūryatejamahānanda
-  title: ""
-  given: Nárava
-  clan: Sūryatejamahānanda
-  home: vyalendra3
-  aliases: []
+name: {full: Nárava Sūryatejamahānanda, given: Nárava, clan: Sūryatejamahānanda, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vedyariclt
-  homes: [vedyarargn]
+  homes: [vyalendra3]
   affiliations: [vyalendra2]
   gender: male
   species: humanflk

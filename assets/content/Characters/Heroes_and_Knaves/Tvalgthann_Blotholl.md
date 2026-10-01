@@ -1,12 +1,6 @@
 ---
 shortcode: tvlgthnblthl
-name:
-  full: Tvalgthann Blóthöll
-  title: ""
-  given: Tvalgthann
-  clan: Blóthöll
-  home: marvstead
-  aliases: []
+name: {full: Tvalgthann Blóthöll, given: Tvalgthann, clan: Blóthöll, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [marvstead]
   affiliations: [kngdmvthgrd]
   gender: male
   species: humanflk

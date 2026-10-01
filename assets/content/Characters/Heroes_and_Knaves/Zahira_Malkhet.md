@@ -2,10 +2,8 @@
 shortcode: zahirmlkht
 name:
   full: Zahira Malkhet
-  title: ""
   given: Zahira
   clan: Malkhet
-  home: bethura
   aliases: [The Bounty Hunter, The Hound of the Veil]
 type: being
 subType: character
@@ -18,7 +16,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: bethuanclt
-  homes: [bethuargn]
+  homes: [bethura]
   affiliations: [mtrrchybth]
   gender: female
   species: humanflk

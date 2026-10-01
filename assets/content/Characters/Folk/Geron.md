@@ -1,11 +1,11 @@
 ---
 shortcode: geron
-name: {full: Geron, title: "", given: Geron, clan: "", home: galezkara, aliases: []}
+name: {full: Geron, aliases: []}
 type: being
 subType: npc
 description: "An alchemist hostile to independent practitioners, and to women practising outside male supervision in particular"
 tags: [generated]
-data: {archetypes: [mage, scholar], packFolder: regkhfolk}
+data: {archetypes: [mage, scholar], packFolder: regkhfolk, homes: [galezkara]}
 ---
 
 An alchemist hostile to independent practitioners, and to women practising outside male supervision in particular.

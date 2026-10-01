@@ -1,12 +1,6 @@
 ---
 shortcode: flrnthyrstnblt
-name:
-  full: Flarnthýra Steinblót
-  title: ""
-  given: Flarnthýra
-  clan: Steinblót
-  home: dvarnvik
-  aliases: []
+name: {full: Flarnthýra Steinblót, given: Flarnthýra, clan: Steinblót, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [dvarnvik]
   affiliations: [kngdmvthgrd]
   gender: female
   species: humanflk

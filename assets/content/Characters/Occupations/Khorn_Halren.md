@@ -1,6 +1,6 @@
 ---
 shortcode: khornhalrn
-name: {full: Khôrn Hálren, title: "", given: Khôrn, clan: Hálren, home: liranel, aliases: []}
+name: {full: Khôrn Hálren, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [liranel]
   affiliations: [kngdmlvndr]
   gender: male
   species: humanflk

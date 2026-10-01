@@ -1,12 +1,6 @@
 ---
 shortcode: hnrvyndisldr
-name:
-  full: Hnarvynda Íseldr
-  title: ""
-  given: Hnarvynda
-  clan: Íseldr
-  home: odholm
-  aliases: []
+name: {full: Hnarvynda Íseldr, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [odholm]
   affiliations: [kngdmnrdhm]
   gender: female
   species: humanflk

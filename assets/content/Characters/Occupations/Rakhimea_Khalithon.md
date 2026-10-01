@@ -1,12 +1,6 @@
 ---
 shortcode: rkhmkhlthn
-name:
-  full: Ràkhîmêa Khalîthôn
-  title: ""
-  given: Ràkhîmêa
-  clan: Khalîthôn
-  home: athenikos2
-  aliases: []
+name: {full: Ràkhîmêa Khalîthôn, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: helioniteclt
-  homes: [helionis]
+  homes: [athenikos2]
   affiliations: [athenikos]
   gender: female
   species: humanflk

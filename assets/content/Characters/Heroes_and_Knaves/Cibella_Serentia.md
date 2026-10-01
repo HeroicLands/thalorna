@@ -1,6 +1,6 @@
 ---
 shortcode: cibelasrnt
-name: {full: Cibella Serentia, title: "", given: Cibella, clan: Serentia, aliases: []}
+name: {full: Cibella Serentia, given: Cibella, clan: Serentia, aliases: []}
 type: being
 subType: character
 tags: [tamzir-crew, dependents]

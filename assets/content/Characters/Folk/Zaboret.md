@@ -1,11 +1,11 @@
 ---
 shortcode: zaboret
-name: {full: Zaborêt, title: "", given: Zaborêt, clan: "", home: khelzuret, aliases: []}
+name: {full: Zaborêt, aliases: []}
 type: being
 subType: npc
 description: "Mother to a timber-merchant, who taught her daughter the language of trees before she taught her to read"
 tags: [generated]
-data: {archetypes: [trader], packFolder: regkhfolk}
+data: {archetypes: [trader], packFolder: regkhfolk, homes: [khelzuret]}
 ---
 
 Mother to a timber-merchant, who taught her daughter the language of trees before she taught her to read.

@@ -1,6 +1,6 @@
 ---
 shortcode: faradunfrn
-name: {full: Faradûn Afrûn, title: "", given: Faradûn, clan: Afrûn, home: tahrodan, aliases: []}
+name: {full: Faradûn Afrûn, given: Faradûn, clan: Afrûn, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, common-folk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: dunhariclt
-  homes: [amradadrgn]
+  homes: [tahrodan]
   affiliations: [sultntmrdd]
   gender: male
   species: humanflk

@@ -1,12 +1,6 @@
 ---
 shortcode: sanrkjthrn
-name:
-  full: Sánrik Jútharen
-  title: ""
-  given: Sánrik
-  clan: Jútharen
-  home: solarden
-  aliases: []
+name: {full: Sánrik Jútharen, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: tarvenanclt
-  homes: [tarvenirgn]
+  homes: [solarden]
   affiliations: [kingdmtrvn]
   gender: male
   species: humanflk

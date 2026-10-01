@@ -1,12 +1,6 @@
 ---
 shortcode: gvrlsnktrts
-name:
-  full: Gávrilos Niktariôtês
-  title: ""
-  given: Gávrilos
-  clan: Niktariôtês
-  home: chrysamar
-  aliases: []
+name: {full: Gávrilos Niktariôtês, given: Gávrilos, clan: Niktariôtês, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: byzarianclt
-  homes: [byzariargn]
+  homes: [chrysamar]
   affiliations: [byzarianlg]
   gender: male
   species: humanflk

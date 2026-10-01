@@ -1,6 +1,6 @@
 ---
 shortcode: nulazizrsh
-name: {full: Nûlazî Zarrâshî, title: "", given: Nûlazî, clan: Zarrâshî, home: azhun2, aliases: []}
+name: {full: Nûlazî Zarrâshî, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: haradianclt
-  homes: [haradregin]
+  homes: [azhun2]
   affiliations: [cnfdrtnhrdnstts]
   gender: female
   species: humanflk

@@ -1,12 +1,6 @@
 ---
 shortcode: brldthnvtrdmr
-name:
-  full: Braldthann Vetrdómr
-  title: ""
-  given: Braldthann
-  clan: Vetrdómr
-  home: thraldfjord
-  aliases: []
+name: {full: Braldthann Vetrdómr, given: Braldthann, clan: Vetrdómr, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [thraldfjord]
   affiliations: [kngdmnrdhm]
   gender: male
   species: humanflk

@@ -1,12 +1,6 @@
 ---
 shortcode: prthmjkydr
-name:
-  full: Prthîmâja Kâyadara
-  title: ""
-  given: Prthîmâja
-  clan: Kâyadara
-  home: chandrapur2
-  aliases: []
+name: {full: Prthîmâja Kâyadara, given: Prthîmâja, clan: Kâyadara, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vedyariclt
-  homes: [vedyarargn]
+  homes: [chandrapur2]
   affiliations: [chandrapur]
   gender: male
   species: humanflk

@@ -2,10 +2,8 @@
 shortcode: casiaveric
 name:
   full: Cassia Verric
-  title: ""
   given: Cassia
   clan: Verric
-  home: magnapolis
   aliases: [The Harbour Factor, The Empire's Hand on the Southern Shore]
 type: being
 subType: character
@@ -18,7 +16,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [magnapolis]
   affiliations: [vylarinmpr]
   gender: female
   species: humanflk

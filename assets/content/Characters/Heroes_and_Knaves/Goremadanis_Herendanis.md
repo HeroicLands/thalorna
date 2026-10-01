@@ -1,12 +1,6 @@
 ---
 shortcode: grmdnshrndns
-name:
-  full: Goremadânis Hérendânis
-  title: ""
-  given: Goremadânis
-  clan: Hérendânis
-  home: belekos
-  aliases: []
+name: {full: Goremadânis Hérendânis, given: Goremadânis, clan: Hérendânis, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [belekos]
   affiliations: [provncmktr]
   gender: female
   species: humanflk

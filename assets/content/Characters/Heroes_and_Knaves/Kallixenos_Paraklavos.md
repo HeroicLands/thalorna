@@ -1,12 +1,6 @@
 ---
 shortcode: klxnsprklvs
-name:
-  full: Kallíxenos Paraklávos
-  title: ""
-  given: Kallíxenos
-  clan: Paraklávos
-  home: kostaros
-  aliases: []
+name: {full: Kallíxenos Paraklávos, given: Kallíxenos, clan: Paraklávos, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, administration]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: byzarianclt
-  homes: [byzariargn]
+  homes: [kostaros]
   affiliations: [byzarianlg]
   gender: male
   species: humanflk

@@ -1,12 +1,6 @@
 ---
 shortcode: knlthvrstrmrt
-name:
-  full: Knulthvir Stormrót
-  title: ""
-  given: Knulthvir
-  clan: Stormrót
-  home: thraldfjord
-  aliases: []
+name: {full: Knulthvir Stormrót, aliases: []}
 type: being
 subType: npc
 tags: [draft, administration]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [thraldfjord]
   affiliations: [kngdmnrdhm]
   gender: male
   species: humanflk

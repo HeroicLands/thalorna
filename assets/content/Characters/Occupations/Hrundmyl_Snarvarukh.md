@@ -1,12 +1,6 @@
 ---
 shortcode: hrndmylsnrvrkh
-name:
-  full: Hrundmýl Snarvarukh
-  title: ""
-  given: Hrundmýl
-  clan: Snarvarukh
-  home: knalthstead
-  aliases: []
+name: {full: Hrundmýl Snarvarukh, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [knalthstead]
   affiliations: [kngdmnrdhm]
   gender: male
   species: humanflk

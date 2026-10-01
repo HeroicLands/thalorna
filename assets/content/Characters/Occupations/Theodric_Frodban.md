@@ -1,12 +1,6 @@
 ---
 shortcode: thdrcfrdbn
-name:
-  full: Theódric Fródbán
-  title: ""
-  given: Theódric
-  clan: Fródbán
-  home: dunkelwald
-  aliases: [Theodric Froban]
+name: {full: Theódric Fródbán, aliases: [Theodric Froban]}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: varokhiclt
-  homes: [vrystwald]
+  homes: [dunkelwald]
   affiliations: [vrystwldtrbs]
   gender: male
   species: humanflk

@@ -1,12 +1,6 @@
 ---
 shortcode: krldmylvtrdmr
-name:
-  full: Kraldmýl Vetrdómr
-  title: ""
-  given: Kraldmýl
-  clan: Vetrdómr
-  home: raltholm
-  aliases: []
+name: {full: Kraldmýl Vetrdómr, given: Kraldmýl, clan: Vetrdómr, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [raltholm]
   affiliations: [kngdmnrdhm]
   gender: male
   species: humanflk

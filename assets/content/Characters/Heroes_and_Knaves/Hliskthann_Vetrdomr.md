@@ -1,12 +1,6 @@
 ---
 shortcode: hlskthnvtrdmr
-name:
-  full: Hliskthann Vetrdómr
-  title: ""
-  given: Hliskthann
-  clan: Vetrdómr
-  home: malstead
-  aliases: []
+name: {full: Hliskthann Vetrdómr, given: Hliskthann, clan: Vetrdómr, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [malstead]
   affiliations: [kingdomlgn]
   gender: male
   species: humanflk

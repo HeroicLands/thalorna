@@ -1,12 +1,6 @@
 ---
 shortcode: thamiyragezz
-name:
-  full: Thamiyra Gezâ'Uzu
-  title: ""
-  given: Thamiyra
-  clan: Gezâ'Uzu
-  home: garanlaghet
-  aliases: []
+name: {full: Thamiyra Gezâ'Uzu, given: Thamiyra, clan: Gezâ'Uzu, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, administration]
@@ -19,7 +13,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: khelathiclt
-  homes: [aukhelathrgq]
+  homes: [garanlaghet]
   affiliations: [empireakhlth]
   gender: female
   species: humanflk

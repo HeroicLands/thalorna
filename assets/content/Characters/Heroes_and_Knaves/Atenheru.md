@@ -2,10 +2,8 @@
 shortcode: atenhershr
 name:
   full: Atenheru Sahri
-  title: ""
   given: Atenheru
   clan: Sahri
-  home: kharalsulr
   aliases: [The Silent Jackal, The Desert Wanderer]
 type: being
 subType: character
@@ -18,7 +16,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: dunhariclt
-  homes: [dunhardsrtrgn]
+  homes: [kharalsulr]
   affiliations: [dunhartrbs]
   gender: male
   species: humanflk

@@ -1,6 +1,6 @@
 ---
 shortcode: mehradzrdn
-name: {full: Mehrâd Âzardan, title: "", given: Mehrâd, clan: Âzardan, home: golshahr, aliases: []}
+name: {full: Mehrâd Âzardan, given: Mehrâd, clan: Âzardan, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: dunhariclt
-  homes: [amradadrgn]
+  homes: [golshahr]
   affiliations: [sultntmrdd]
   gender: male
   species: humanflk

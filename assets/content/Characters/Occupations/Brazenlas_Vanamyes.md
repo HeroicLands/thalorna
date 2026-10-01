@@ -1,12 +1,6 @@
 ---
 shortcode: brznlsvnmys
-name:
-  full: Bràzenlâs Vânamyês
-  title: ""
-  given: Bràzenlâs
-  clan: Vânamyês
-  home: corvinus
-  aliases: []
+name: {full: Bràzenlâs Vânamyês, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [corvinus]
   affiliations: [vylarinmpr]
   gender: male
   species: humanflk

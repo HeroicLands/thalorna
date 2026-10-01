@@ -1,12 +1,6 @@
 ---
 shortcode: sahnrmkthn
-name:
-  full: Sahînór Mâkîthôn
-  title: ""
-  given: Sahînór
-  clan: Mâkîthôn
-  home: thyrenae2
-  aliases: [Sir Alaric Emberhill]
+name: {full: Sahînór Mâkîthôn, aliases: [Sir Alaric Emberhill]}
 type: being
 subType: npc
 tags: [draft, administration]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: helioniteclt
-  homes: [helionis]
+  homes: [thyrenae2]
   affiliations: [thyrenae]
   gender: male
   species: humanflk

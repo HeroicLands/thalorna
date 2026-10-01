@@ -1,12 +1,6 @@
 ---
 shortcode: dumarsrfrs
-name:
-  full: Dûmàrês Râfîrôs
-  title: ""
-  given: Dûmàrês
-  clan: Râfîrôs
-  home: korinthea2
-  aliases: [Sérolan Cedric Lightbringer]
+name: {full: Dûmàrês Râfîrôs, aliases: [Sérolan Cedric Lightbringer]}
 type: being
 subType: npc
 tags: [todo, draft, clergy]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: helioniteclt
-  homes: [helionis]
+  homes: [korinthea2]
   affiliations: [korinthea]
   gender: male
   species: humanflk

@@ -1,6 +1,6 @@
 ---
 shortcode: hawiseshby
-name: {full: Hawise Ashby, title: "", given: Hawise, clan: Ashby, home: thornbury, aliases: []}
+name: {full: Hawise Ashby, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [thornbury]
   affiliations: [repblctrvn]
   gender: female
   species: humanflk

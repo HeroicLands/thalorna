@@ -1,12 +1,6 @@
 ---
 shortcode: gnldrsldstrmrt
-name:
-  full: Gnildrselda Stormrót
-  title: ""
-  given: Gnildrselda
-  clan: Stormrót
-  home: nalthmark
-  aliases: [Lysandra Aetherwind]
+name: {full: Gnildrselda Stormrót, aliases: [Lysandra Aetherwind]}
 type: being
 subType: npc
 tags: [draft, mages]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [nalthmark]
   affiliations: [kngdmnrdhm]
   gender: female
   species: humanflk

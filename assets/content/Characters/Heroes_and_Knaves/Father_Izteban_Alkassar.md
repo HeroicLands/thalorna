@@ -2,10 +2,8 @@
 shortcode: frztbnlksr
 name:
   full: Father Iztéban Alkássar
-  title: Father
   given: Iztéban
   clan: Alkássar
-  home: torreviga
   aliases: [The Jánusian Priest]
 type: being
 subType: character
@@ -18,7 +16,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: tarvenanclt
-  homes: [tarvenirgn]
+  homes: [torreviga]
   affiliations: [kingdmtrvn]
   gender: male
   species: humanflk

@@ -1,6 +1,6 @@
 ---
 shortcode: grlfdrthgr
-name: {full: Garulf Druthgar, title: "", given: Garulf, clan: Druthgar, aliases: []}
+name: {full: Garulf Druthgar, given: Garulf, clan: Druthgar, aliases: []}
 type: being
 subType: character
 tags: [tamzir-crew, soldiery]

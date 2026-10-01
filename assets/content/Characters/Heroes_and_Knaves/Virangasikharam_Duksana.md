@@ -1,12 +1,6 @@
 ---
 shortcode: vrgskhrmdkn
-name:
-  full: Vīrāngashikharam Dukshana
-  title: ""
-  given: Vīrāngashikharam
-  clan: Dukshana
-  home: suvarnagiri
-  aliases: []
+name: {full: Vīrāngashikharam Dukshana, given: Vīrāngashikharam, clan: Dukshana, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, administration]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: vedyariclt
-  homes: [vedyarargn]
+  homes: [suvarnagiri]
   affiliations: [suvrgrjnpd]
   gender: male
   species: humanflk

@@ -1,12 +1,6 @@
 ---
 shortcode: palvdrvksh
-name:
-  full: Pallàvi Drâviksha
-  title: ""
-  given: Pallàvi
-  clan: Drâviksha
-  home: vyalendra3
-  aliases: []
+name: {full: Pallàvi Drâviksha, given: Pallàvi, clan: Drâviksha, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vedyariclt
-  homes: [vedyarargn]
+  homes: [vyalendra3]
   affiliations: [vyalendra2]
   gender: female
   species: humanflk

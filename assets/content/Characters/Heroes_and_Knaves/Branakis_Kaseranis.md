@@ -1,12 +1,6 @@
 ---
 shortcode: brnksksrns
-name:
-  full: Bránakis Kâserânis
-  title: ""
-  given: Bránakis
-  clan: Kâserânis
-  home: solheim
-  aliases: []
+name: {full: Bránakis Kâserânis, given: Bránakis, clan: Kâserânis, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [solheim]
   affiliations: [hlykngdmnrtm]
   gender: male
   species: humanflk

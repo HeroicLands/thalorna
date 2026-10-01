@@ -1,6 +1,6 @@
 ---
 shortcode: oskrbrylnd
-name: {full: Óskar Brýlond, title: "", given: Óskar, clan: Brýlond, home: fiordaure, aliases: []}
+name: {full: Óskar Brýlond, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: provenzianclt
-  homes: [provenzrgn]
+  homes: [fiordaure]
   affiliations: [kngdmprvnz]
   gender: male
   species: humanflk

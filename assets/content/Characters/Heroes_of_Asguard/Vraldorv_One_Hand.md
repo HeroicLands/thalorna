@@ -2,11 +2,9 @@
 shortcode: vrldrvonhnd
 name:
   full: Vraldorv One-Hand
-  title: null
   given: Vraldorv
   clan: null
   aliases: [One-Hand, Vraldorv One-Hand]
-  home: null
 type: being
 subType: character
 tags: [paragon, heroes-of-asguard, soldiery]

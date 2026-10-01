@@ -1,12 +1,6 @@
 ---
 shortcode: hnrvthyrdvlgmkh
-name:
-  full: Hnurvthýra Dvalgumakh
-  title: ""
-  given: Hnurvthýra
-  clan: Dvalgumakh
-  home: tvarnmark
-  aliases: []
+name: {full: Hnurvthýra Dvalgumakh, given: Hnurvthýra, clan: Dvalgumakh, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [tvarnmark]
   affiliations: [kingdmnrgd]
   gender: female
   species: humanflk

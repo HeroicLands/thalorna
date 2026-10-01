@@ -1,12 +1,6 @@
 ---
 shortcode: thalrkhlrn
-name:
-  full: Thálrik Hálren
-  title: ""
-  given: Thálrik
-  clan: Hálren
-  home: portaelion
-  aliases: []
+name: {full: Thálrik Hálren, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [portaelion]
   affiliations: [kngdmlvndr]
   gender: male
   species: humanflk

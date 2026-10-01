@@ -1,12 +1,6 @@
 ---
 shortcode: mrvrnhrvstblsd
-name:
-  full: Mirvrinna Harvest-Blessed
-  title: null
-  given: Mirvrinna
-  clan: null
-  aliases: [Harvest-Blessed]
-  home: null
+name: {full: Mirvrinna Harvest-Blessed, given: Mirvrinna, clan: null, aliases: [Harvest-Blessed]}
 type: being
 subType: character
 tags: [paragon, heroes-of-asguard, clergy]

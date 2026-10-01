@@ -1,12 +1,6 @@
 ---
 shortcode: mmdrsghrds
-name:
-  full: Mahmûdrós Gharîdís
-  title: ""
-  given: Mahmûdrós
-  clan: Gharîdís
-  home: pelagora2
-  aliases: []
+name: {full: Mahmûdrós Gharîdís, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: helioniteclt
-  homes: [helionis]
+  homes: [pelagora2]
   affiliations: [pelagora]
   gender: male
   species: humanflk

@@ -1,6 +1,6 @@
 ---
 shortcode: brakshrlns
-name: {full: Brákôs Hârlânis, title: "", given: Brákôs, clan: Hârlânis, home: "", aliases: []}
+name: {full: Brákôs Hârlânis, aliases: []}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]

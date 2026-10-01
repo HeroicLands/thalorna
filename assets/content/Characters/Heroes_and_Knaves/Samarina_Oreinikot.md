@@ -1,12 +1,6 @@
 ---
 shortcode: smrnorenkt
-name:
-  full: Samarína Oreiníkot
-  title: ""
-  given: Samarína
-  clan: Oreiníkot
-  home: byzaris
-  aliases: []
+name: {full: Samarína Oreiníkot, given: Samarína, clan: Oreiníkot, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: byzarianclt
-  homes: [byzariargn]
+  homes: [byzaris]
   affiliations: [byzarianlg]
   gender: female
   species: humanflk

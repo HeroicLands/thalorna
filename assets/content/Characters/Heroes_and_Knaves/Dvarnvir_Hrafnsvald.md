@@ -1,12 +1,6 @@
 ---
 shortcode: dvrnvrhrfnsvld
-name:
-  full: Dvarnvir Hrafnsvald
-  title: ""
-  given: Dvarnvir
-  clan: Hrafnsvald
-  home: knarvik
-  aliases: []
+name: {full: Dvarnvir Hrafnsvald, given: Dvarnvir, clan: Hrafnsvald, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [knarvik]
   affiliations: [kngdmvthgrd]
   gender: male
   species: humanflk

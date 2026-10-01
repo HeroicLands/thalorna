@@ -1,12 +1,6 @@
 ---
 shortcode: sntydhyrjvrdhn
-name:
-  full: Sunáti Āyodhyārājavardhan
-  title: ""
-  given: Sunáti
-  clan: Āyodhyārājavardhan
-  home: chandrapur2
-  aliases: []
+name: {full: Sunáti Āyodhyārājavardhan, given: Sunáti, clan: Āyodhyārājavardhan, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, administration]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vedyariclt
-  homes: [vedyarargn]
+  homes: [chandrapur2]
   affiliations: [chandrapur]
   gender: female
   species: humanflk

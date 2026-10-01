@@ -1,12 +1,6 @@
 ---
 shortcode: lintazuzerkt
-name:
-  full: Linta Zu'Zereketu
-  title: ""
-  given: Linta
-  clan: Zu'Zereketu
-  home: garanlaghet
-  aliases: []
+name: {full: Linta Zu'Zereketu, given: Linta, clan: Zu'Zereketu, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]
@@ -19,7 +13,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: khelathiclt
-  homes: [aukhelathrgq]
+  homes: [garanlaghet]
   affiliations: [empireakhlth]
   gender: female
   species: humanflk

@@ -1,12 +1,6 @@
 ---
 shortcode: edriclvrtn
-name:
-  full: Edric Alverton
-  title: ""
-  given: Edric
-  clan: Alverton
-  home: brynhallow
-  aliases: []
+name: {full: Edric Alverton, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [brynhallow]
   affiliations: [kngdmldrth]
   gender: male
   species: humanflk

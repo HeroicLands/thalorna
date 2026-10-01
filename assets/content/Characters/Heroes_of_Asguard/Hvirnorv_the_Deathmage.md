@@ -1,12 +1,6 @@
 ---
 shortcode: hvrnrvdthmg
-name:
-  full: Hvirnorv the Deathmage
-  title: null
-  given: Hvirnorv
-  clan: null
-  aliases: [the Deathmage]
-  home: null
+name: {full: Hvirnorv the Deathmage, given: Hvirnorv, clan: null, aliases: [the Deathmage]}
 type: being
 subType: character
 tags: [demigod, heroes-of-asguard, unguilded, mages]

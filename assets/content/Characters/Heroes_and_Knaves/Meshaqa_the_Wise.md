@@ -1,12 +1,6 @@
 ---
 shortcode: meshaqawise
-name:
-  full: Meshaqa the Wise
-  title: ""
-  given: Meshaqa
-  clan: the Wise
-  home: anlaghzetun
-  aliases: []
+name: {full: Meshaqa the Wise, given: Meshaqa, clan: the Wise, aliases: []}
 type: being
 subType: character
 description: "An apothecary of Anlagh-Zetûn who served the city's poor for decades and went out as a caravan head scout as far as the Nordlands into her old age—the mentor of Shegas Retha'Mogau and Linta Zu'Zereketu, dead now, whose proof of a conspiracy inside the Mercenaries' Guild still lies hidden in the Shattered Peaks."
@@ -19,7 +13,7 @@ data:
   stations: []
   lore: []
   culture: khelathiclt
-  homes: [aukhelathrgq]
+  homes: [anlaghzetun]
   affiliations: [empireakhlth]
   gender: female
   species: humanflk

@@ -1,6 +1,6 @@
 ---
 shortcode: belsharglm
-name: {full: Belshar Gûlamû, title: "", given: Belshar, clan: Gûlamû, home: miravel, aliases: []}
+name: {full: Belshar Gûlamû, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: haradianclt
-  homes: [haradregin]
+  homes: [miravel]
   affiliations: [cnfdrtnhrdnstts]
   gender: male
   species: humanflk

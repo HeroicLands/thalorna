@@ -1,12 +1,6 @@
 ---
 shortcode: krldrvdrtgr
-name:
-  full: Kruldorv Dróttgar
-  title: ""
-  given: Kruldorv
-  clan: Dróttgar
-  home: nalthmark
-  aliases: []
+name: {full: Kruldorv Dróttgar, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [nalthmark]
   affiliations: [kngdmnrdhm]
   gender: male
   species: humanflk

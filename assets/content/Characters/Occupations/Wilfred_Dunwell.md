@@ -1,12 +1,6 @@
 ---
 shortcode: wilfrednwl
-name:
-  full: Wilfred Dunwell
-  title: ""
-  given: Wilfred
-  clan: Dunwell
-  home: brynhallow
-  aliases: []
+name: {full: Wilfred Dunwell, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [brynhallow]
   affiliations: [kngdmldrth]
   gender: male
   species: humanflk

@@ -1,12 +1,6 @@
 ---
 shortcode: talirbshrn
-name:
-  full: Tàlîra Bâshirôn
-  title: ""
-  given: Tàlîra
-  clan: Bâshirôn
-  home: thyrenae2
-  aliases: [Elspeth Rowen]
+name: {full: Tàlîra Bâshirôn, aliases: [Elspeth Rowen]}
 type: being
 subType: npc
 tags: [draft, mages]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: helioniteclt
-  homes: [helionis]
+  homes: [thyrenae2]
   affiliations: [thyrenae]
   gender: female
   species: humanflk

@@ -1,6 +1,6 @@
 ---
 shortcode: tavirdlvnr
-name: {full: Tavíro Delvánor, title: "", given: Tavíro, clan: Delvánor, home: valdes, aliases: []}
+name: {full: Tavíro Delvánor, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: tarvenanclt
-  homes: [tarvenirgn]
+  homes: [valdes]
   affiliations: [kingdmtrvn]
   gender: male
   species: humanflk

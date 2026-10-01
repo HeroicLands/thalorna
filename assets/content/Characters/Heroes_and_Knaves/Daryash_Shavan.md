@@ -1,6 +1,6 @@
 ---
 shortcode: daryshshvn
-name: {full: Daryash Shavân, title: "", given: Daryash, clan: Shavân, home: zaristan, aliases: []}
+name: {full: Daryash Shavân, given: Daryash, clan: Shavân, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: dunhariclt
-  homes: [amradadrgn]
+  homes: [zaristan]
   affiliations: [sultntmrdd]
   gender: female
   species: humanflk

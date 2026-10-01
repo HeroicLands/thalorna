@@ -1,12 +1,6 @@
 ---
 shortcode: thorrldskr
-name:
-  full: Thórir Eldskari
-  title: ""
-  given: Thórir
-  clan: Eldskari
-  home: stormveil
-  aliases: []
+name: {full: Thórir Eldskari, aliases: []}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [stormveil]
   affiliations: [jrldmstrmvld]
   gender: male
   species: humanflk

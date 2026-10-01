@@ -1,6 +1,6 @@
 ---
 shortcode: lamzudamik
-name: {full: Lâmzû Damîkî, title: "", given: Lâmzû, clan: Damîkî, home: kethara2, aliases: []}
+name: {full: Lâmzû Damîkî, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: haradianclt
-  homes: [haradregin]
+  homes: [kethara2]
   affiliations: [cnfdrtnhrdnstts]
   gender: male
   species: humanflk

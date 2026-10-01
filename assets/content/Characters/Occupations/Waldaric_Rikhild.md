@@ -1,12 +1,6 @@
 ---
 shortcode: wldrcrkhld
-name:
-  full: Waldaric Ríkhild
-  title: ""
-  given: Waldaric
-  clan: Ríkhild
-  home: grimholt
-  aliases: []
+name: {full: Waldaric Ríkhild, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: varokhiclt
-  homes: [vrystwald]
+  homes: [grimholt]
   affiliations: [vrystwldtrbs]
   gender: male
   species: humanflk

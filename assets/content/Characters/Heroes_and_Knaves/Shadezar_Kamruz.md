@@ -1,12 +1,6 @@
 ---
 shortcode: shadzrkmrz
-name:
-  full: Shâdezar Kamruz
-  title: ""
-  given: Shâdezar
-  clan: Kamruz
-  home: dunashir
-  aliases: []
+name: {full: Shâdezar Kamruz, given: Shâdezar, clan: Kamruz, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, administration]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: dunhariclt
-  homes: [dunhardsrtrgn]
+  homes: [dunashir]
   affiliations: [dunhartrbs]
   gender: male
   species: humanflk

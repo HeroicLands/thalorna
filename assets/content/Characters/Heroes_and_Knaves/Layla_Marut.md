@@ -1,12 +1,6 @@
 ---
 shortcode: laylamarut
-name:
-  full: Layla Marut
-  title: ""
-  given: Layla
-  clan: Marut
-  home: bethura
-  aliases: [The Merchant Princess]
+name: {full: Layla Marut, given: Layla, clan: Marut, aliases: [The Merchant Princess]}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, guilded, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: bethuanclt
-  homes: [bethuargn]
+  homes: [bethura]
   affiliations: [mtrrchybth]
   gender: female
   species: humanflk

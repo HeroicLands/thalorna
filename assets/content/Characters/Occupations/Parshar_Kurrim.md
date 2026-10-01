@@ -1,6 +1,6 @@
 ---
 shortcode: parsharkrm
-name: {full: Pârshar Kûrrîm, title: "", given: Pârshar, clan: Kûrrîm, home: kethara2, aliases: []}
+name: {full: Pârshar Kûrrîm, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: haradianclt
-  homes: [haradregin]
+  homes: [kethara2]
   affiliations: [cnfdrtnhrdnstts]
   gender: male
   species: humanflk

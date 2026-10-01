@@ -1,12 +1,6 @@
 ---
 shortcode: erthrnhldvth
-name:
-  full: Erthran Hildvith
-  title: ""
-  given: Erthran
-  clan: Hildvith
-  home: waldburg
-  aliases: []
+name: {full: Erthran Hildvith, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: varokhiclt
-  homes: [vrystwald]
+  homes: [waldburg]
   affiliations: [vrystwldtrbs]
   gender: male
   species: humanflk

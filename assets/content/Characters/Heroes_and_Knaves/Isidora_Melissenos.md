@@ -1,12 +1,6 @@
 ---
 shortcode: isidrmlsns
-name:
-  full: Isidôra Melissenós
-  title: ""
-  given: Isidôra
-  clan: Melissenós
-  home: thalassos
-  aliases: []
+name: {full: Isidôra Melissenós, given: Isidôra, clan: Melissenós, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: byzarianclt
-  homes: [byzariargn]
+  homes: [thalassos]
   affiliations: [byzarianlg]
   gender: female
   species: humanflk

@@ -2,10 +2,8 @@
 shortcode: shdqbnrhmndplmtcblddncr
 name:
   full: Shadiq ibn Rahman, The Diplomatic Blade Dancer
-  title: ""
   given: Shadiq
   clan: Rahman
-  home: karatas2
   aliases: [The Diplomatic Blade Dancer]
 type: being
 subType: character
@@ -18,7 +16,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: byzarianclt
-  homes: [byzariargn]
+  homes: [karatas2]
   affiliations: [byzarianlg]
   gender: male
   species: humanflk

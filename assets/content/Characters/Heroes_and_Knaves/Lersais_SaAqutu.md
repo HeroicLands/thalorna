@@ -1,12 +1,6 @@
 ---
 shortcode: lersaissaaqt
-name:
-  full: Lersaîs Sa'Aqutu
-  title: Halzi'a
-  given: Lersaîs
-  clan: Sa'Aqutu
-  home: anlaghzetun
-  aliases: []
+name: {full: Lersaîs Sa'Aqutu, given: Lersaîs, clan: Sa'Aqutu, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, administration]
@@ -19,7 +13,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: khelathiclt
-  homes: [aukhelathrgq]
+  homes: [anlaghzetun]
   affiliations: [empireakhlth]
   gender: male
   species: humanflk

@@ -1,12 +1,6 @@
 ---
 shortcode: fryslvlskyr
-name:
-  full: Frýsala Válskyr
-  title: ""
-  given: Frýsala
-  clan: Válskyr
-  home: fiordaure
-  aliases: []
+name: {full: Frýsala Válskyr, aliases: []}
 type: being
 subType: npc
 tags: [draft, administration]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: provenzianclt
-  homes: [provenzrgn]
+  homes: [fiordaure]
   affiliations: [kngdmprvnz]
   gender: female
   species: humanflk

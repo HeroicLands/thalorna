@@ -1,17 +1,11 @@
 ---
 shortcode: balenermshg2
-name:
-  full: Balenerî Mesheget
-  title: ""
-  given: Balenerî
-  clan: Mesheget
-  home: anlaghzetun
-  aliases: []
+name: {full: Balenerî Mesheget, aliases: []}
 type: being
 subType: npc
 description: "A noble of considerable wealth, whose patronage is sought and whose conditions are onerous"
 tags: [generated]
-data: {archetypes: [courtier], packFolder: regkhfolk}
+data: {archetypes: [courtier], packFolder: regkhfolk, homes: [anlaghzetun]}
 ---
 
 A noble of considerable wealth, whose patronage is sought and whose conditions are onerous.

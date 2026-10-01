@@ -1,12 +1,6 @@
 ---
 shortcode: timthnnlkt
-name:
-  full: Timothéon Naulákit
-  title: ""
-  given: Timothéon
-  clan: Naulákit
-  home: chrysamar
-  aliases: []
+name: {full: Timothéon Naulákit, given: Timothéon, clan: Naulákit, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: byzarianclt
-  homes: [byzariargn]
+  homes: [chrysamar]
   affiliations: [byzarianlg]
   gender: male
   species: humanflk

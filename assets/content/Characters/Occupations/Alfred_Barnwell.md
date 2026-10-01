@@ -1,12 +1,6 @@
 ---
 shortcode: alfrdbrnwl
-name:
-  full: Alfred Barnwell
-  title: ""
-  given: Alfred
-  clan: Barnwell
-  home: kingsholow
-  aliases: [Thalos Graymoor]
+name: {full: Alfred Barnwell, aliases: [Thalos Graymoor]}
 type: being
 subType: npc
 tags: [draft, mages]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [kingsholow]
   affiliations: [kngdmldrth]
   gender: male
   species: humanflk

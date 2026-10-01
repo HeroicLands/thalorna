@@ -1,12 +1,6 @@
 ---
 shortcode: lefrcbrnwl
-name:
-  full: Leofric Barnwell
-  title: ""
-  given: Leofric
-  clan: Barnwell
-  home: ashford
-  aliases: []
+name: {full: Leofric Barnwell, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [ashford]
   affiliations: [kngdmldrth]
   gender: male
   species: humanflk

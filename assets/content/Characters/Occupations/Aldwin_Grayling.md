@@ -1,12 +1,6 @@
 ---
 shortcode: aldwngrylng
-name:
-  full: Aldwin Grayling
-  title: ""
-  given: Aldwin
-  clan: Grayling
-  home: ravenmoor
-  aliases: []
+name: {full: Aldwin Grayling, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [ravenmoor]
   affiliations: [kingdmdnvr]
   gender: male
   species: humanflk

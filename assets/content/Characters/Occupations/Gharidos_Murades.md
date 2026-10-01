@@ -1,12 +1,6 @@
 ---
 shortcode: ghardsmrds
-name:
-  full: Ghârîdos Mûrâdês
-  title: ""
-  given: Ghârîdos
-  clan: Mûrâdês
-  home: korinthea2
-  aliases: []
+name: {full: Ghârîdos Mûrâdês, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: helioniteclt
-  homes: [helionis]
+  homes: [korinthea2]
   affiliations: [korinthea]
   gender: male
   species: humanflk

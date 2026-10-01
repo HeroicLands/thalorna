@@ -1,12 +1,6 @@
 ---
 shortcode: erminfrdbn
-name:
-  full: Ermína Fródbán
-  title: ""
-  given: Ermína
-  clan: Fródbán
-  home: thornhaven
-  aliases: [Ermina Froban]
+name: {full: Ermína Fródbán, aliases: [Ermina Froban]}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: varokhiclt
-  homes: [vrystwald]
+  homes: [thornhaven]
   affiliations: [vrystwldtrbs]
   gender: female
   species: humanflk

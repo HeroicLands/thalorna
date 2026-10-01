@@ -1,12 +1,6 @@
 ---
 shortcode: arislkrsvr
-name:
-  full: Árisla Kórisvar
-  title: Lady
-  given: Árisla
-  clan: Kórisvar
-  home: chastelclr
-  aliases: [Lady Elowen Faircourt]
+name: {full: Árisla Kórisvar, aliases: [Lady Elowen Faircourt]}
 type: being
 subType: npc
 tags: [draft, administration]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: provenzianclt
-  homes: [provenzrgn]
+  homes: [chastelclr]
   affiliations: [kngdmprvnz]
   gender: female
   species: humanflk

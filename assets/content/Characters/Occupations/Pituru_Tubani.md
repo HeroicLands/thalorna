@@ -1,6 +1,6 @@
 ---
 shortcode: piturutubn
-name: {full: Pitûrû Tûbanî, title: "", given: Pitûrû, clan: Tûbanî, home: azhun2, aliases: []}
+name: {full: Pitûrû Tûbanî, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: haradianclt
-  homes: [haradregin]
+  homes: [azhun2]
   affiliations: [cnfdrtnhrdnstts]
   gender: male
   species: humanflk

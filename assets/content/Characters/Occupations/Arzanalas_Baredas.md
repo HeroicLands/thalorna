@@ -1,12 +1,6 @@
 ---
 shortcode: arznlsbrds
-name:
-  full: Arzânalàs Bâredâs
-  title: ""
-  given: Arzânalàs
-  clan: Bâredâs
-  home: tyrellan
-  aliases: []
+name: {full: Arzânalàs Bâredâs, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [tyrellan]
   affiliations: [vylarinmpr]
   gender: male
   species: humanflk

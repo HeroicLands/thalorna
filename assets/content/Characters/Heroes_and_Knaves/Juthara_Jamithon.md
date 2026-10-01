@@ -1,12 +1,6 @@
 ---
 shortcode: juthrjmthn
-name:
-  full: Júthâra Jâmîthôn
-  title: ""
-  given: Júthâra
-  clan: Jâmîthôn
-  home: ashira
-  aliases: []
+name: {full: Júthâra Jâmîthôn, given: Júthâra, clan: Jâmîthôn, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: bethuanclt
-  homes: [bethuargn]
+  homes: [ashira]
   affiliations: [mtrrchybth]
   gender: female
   species: humanflk

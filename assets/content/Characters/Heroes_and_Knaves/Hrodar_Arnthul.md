@@ -1,6 +1,6 @@
 ---
 shortcode: hrodrrnthl
-name: {full: Hródar Arnthúl, title: "", given: Hródar, clan: Arnthúl, aliases: [the Crow]}
+name: {full: Hródar Arnthúl, given: Hródar, clan: Arnthúl, aliases: [the Crow]}
 type: being
 subType: character
 tags: [blackpine-wolves, brigand, vrystwald, underworld]

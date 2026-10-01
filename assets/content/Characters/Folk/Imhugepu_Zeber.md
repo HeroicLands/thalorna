@@ -1,11 +1,11 @@
 ---
 shortcode: imhugepuzebr
-name: {full: Imhûgepu Zeber, title: "", given: Imhûgepu, clan: Zeber, home: galezkara, aliases: []}
+name: {full: Imhûgepu Zeber, aliases: []}
 type: being
 subType: npc
 description: "Ritualist and warrior of the Zeghet'Nelgu, keeper of the old rites"
 tags: [generated]
-data: {archetypes: [cleric, warrior], packFolder: regkhfolk}
+data: {archetypes: [cleric, warrior], packFolder: regkhfolk, homes: [galezkara]}
 ---
 
 Ritualist and warrior of the Zeghet'Nelgu, keeper of the old rites. His authority within the company is absolute and under siege from outside it.

@@ -1,12 +1,6 @@
 ---
 shortcode: eshewamagr
-name:
-  full: Eshe wa Magara
-  title: ""
-  given: Eshe
-  clan: Magara
-  home: zarhanor
-  aliases: [The Spirit Blade Warrior]
+name: {full: Eshe wa Magara, given: Eshe, clan: Magara, aliases: [The Spirit Blade Warrior]}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: okharinclt
-  homes: [okharisrgn]
+  homes: [zarhanor]
   affiliations: [okharis]
   gender: female
   species: humanflk

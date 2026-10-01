@@ -1,12 +1,6 @@
 ---
 shortcode: elfrdlwknr
-name:
-  full: Elfreda Lewknor
-  title: ""
-  given: Elfreda
-  clan: Lewknor
-  home: caerwynd
-  aliases: []
+name: {full: Elfreda Lewknor, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [caerwynd]
   affiliations: [kngdmldrth]
   gender: female
   species: humanflk

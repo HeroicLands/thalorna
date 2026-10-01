@@ -1,12 +1,6 @@
 ---
 shortcode: angldsptrks
-name:
-  full: Ángelides Patrikîos
-  title: ""
-  given: Ángelides
-  clan: Patrikîos
-  home: chrysamar
-  aliases: []
+name: {full: Ángelides Patrikîos, given: Ángelides, clan: Patrikîos, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, todo, guilded, mages]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: byzarianclt
-  homes: [byzariargn]
+  homes: [chrysamar]
   affiliations: [byzarianlg]
   gender: male
   species: humanflk

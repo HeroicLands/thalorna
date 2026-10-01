@@ -1,12 +1,6 @@
 ---
 shortcode: arkhekrkss
-name:
-  full: Arkhêa Kourkásios
-  title: ""
-  given: Arkhêa
-  clan: Kourkásios
-  home: yesilhan2
-  aliases: []
+name: {full: Arkhêa Kourkásios, given: Arkhêa, clan: Kourkásios, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: byzarianclt
-  homes: [byzariargn]
+  homes: [yesilhan2]
   affiliations: [byzarianlg]
   gender: female
   species: humanflk

@@ -1,12 +1,6 @@
 ---
 shortcode: makrinfrns
-name:
-  full: Mákrion Nâfrinês
-  title: ""
-  given: Mákrion
-  clan: Nâfrinês
-  home: thyrenae2
-  aliases: []
+name: {full: Mákrion Nâfrinês, aliases: []}
 type: being
 subType: npc
 tags: [draft, mages]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: helioniteclt
-  homes: [helionis]
+  homes: [thyrenae2]
   affiliations: [thyrenae]
   gender: male
   species: humanflk

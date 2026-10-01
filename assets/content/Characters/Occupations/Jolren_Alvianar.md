@@ -1,12 +1,6 @@
 ---
 shortcode: jolrenlvnr
-name:
-  full: Jólren Álvianar
-  title: ""
-  given: Jólren
-  clan: Álvianar
-  home: null # was: Eskárath
-  aliases: []
+name: {full: Jólren Álvianar, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

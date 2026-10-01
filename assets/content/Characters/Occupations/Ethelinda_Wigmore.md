@@ -1,12 +1,6 @@
 ---
 shortcode: ethlndwgmr
-name:
-  full: Ethelinda Wigmore
-  title: ""
-  given: Ethelinda
-  clan: Wigmore
-  home: kingsholow
-  aliases: []
+name: {full: Ethelinda Wigmore, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [kingsholow]
   affiliations: [kngdmldrth]
   gender: female
   species: humanflk

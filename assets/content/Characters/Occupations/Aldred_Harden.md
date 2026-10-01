@@ -1,6 +1,6 @@
 ---
 shortcode: aldredhrdn
-name: {full: Aldred Harden, title: "", given: Aldred, clan: Harden, home: kingsholow, aliases: []}
+name: {full: Aldred Harden, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [kingsholow]
   affiliations: [kngdmldrth]
   gender: male
   species: humanflk

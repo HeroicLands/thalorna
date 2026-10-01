@@ -1,12 +1,6 @@
 ---
 shortcode: esharumlrm
-name:
-  full: Eshârum Ellûram
-  title: ""
-  given: Eshârum
-  clan: Ellûram
-  home: kashmuret
-  aliases: []
+name: {full: Eshârum Ellûram, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: haradianclt
-  homes: [haradregin]
+  homes: [kashmuret]
   affiliations: [cnfdrtnhrdnstts]
   gender: male
   species: humanflk

@@ -1,12 +1,6 @@
 ---
 shortcode: tirushnmrz
-name:
-  full: Tirrûsh Namrûzî
-  title: ""
-  given: Tirrûsh
-  clan: Namrûzî
-  home: qadhirun
-  aliases: []
+name: {full: Tirrûsh Namrûzî, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: haradianclt
-  homes: [haradregin]
+  homes: [qadhirun]
   affiliations: [cnfdrtnhrdnstts]
   gender: male
   species: humanflk

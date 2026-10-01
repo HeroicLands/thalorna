@@ -1,12 +1,6 @@
 ---
 shortcode: wthrcdrthgr
-name:
-  full: Wítharic Druthgar
-  title: ""
-  given: Wítharic
-  clan: Druthgar
-  home: waldburg
-  aliases: []
+name: {full: Wítharic Druthgar, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: varokhiclt
-  homes: [vrystwald]
+  homes: [waldburg]
   affiliations: [vrystwldtrbs]
   gender: male
   species: humanflk

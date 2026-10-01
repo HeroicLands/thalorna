@@ -1,12 +1,6 @@
 ---
 shortcode: lefrnchlwl
-name:
-  full: Leofrun Chilwell
-  title: ""
-  given: Leofrun
-  clan: Chilwell
-  home: kingsholow
-  aliases: []
+name: {full: Leofrun Chilwell, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [kingsholow]
   affiliations: [kngdmldrth]
   gender: female
   species: humanflk

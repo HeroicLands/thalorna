@@ -1,12 +1,6 @@
 ---
 shortcode: thesidlvnr
-name:
-  full: Thésia Delvánor
-  title: ""
-  given: Thésia
-  clan: Delvánor
-  home: null # was: Eskárath
-  aliases: []
+name: {full: Thésia Delvánor, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]

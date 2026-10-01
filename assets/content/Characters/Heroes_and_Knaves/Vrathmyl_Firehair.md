@@ -2,10 +2,8 @@
 shortcode: vrthmylfrhr
 name:
   full: Vrathmýl Firehair
-  title: ""
   given: Vrathmýl
   clan: Draskarukh
-  home: tvarnmark
   aliases: [Firehair, the Shipwright's Son]
 type: being
 subType: character
@@ -18,7 +16,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [tvarnmark]
   affiliations: [kingdmnrgd]
   gender: male
   species: humanflk

@@ -1,6 +1,6 @@
 ---
 shortcode: sharushkdm
-name: {full: Shârûsh Kadûmû, title: "", given: Shârûsh, clan: Kadûmû, home: qadhirun, aliases: []}
+name: {full: Shârûsh Kadûmû, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: haradianclt
-  homes: [haradregin]
+  homes: [qadhirun]
   affiliations: [cnfdrtnhrdnstts]
   gender: male
   species: humanflk

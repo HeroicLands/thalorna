@@ -1,12 +1,6 @@
 ---
 shortcode: mildrdhrdn
-name:
-  full: Mildred Harden
-  title: ""
-  given: Mildred
-  clan: Harden
-  home: brynhallow
-  aliases: []
+name: {full: Mildred Harden, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [brynhallow]
   affiliations: [kngdmldrth]
   gender: female
   species: humanflk

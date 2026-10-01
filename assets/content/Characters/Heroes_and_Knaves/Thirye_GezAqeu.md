@@ -1,12 +1,6 @@
 ---
 shortcode: thiryegezaqe
-name:
-  full: Thirye Gez'Aqêu
-  title: ""
-  given: Thirye
-  clan: Gez'Aqêu
-  home: amqelulegez
-  aliases: []
+name: {full: Thirye Gez'Aqêu, given: Thirye, clan: Gez'Aqêu, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -19,7 +13,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: khelathiclt
-  homes: [aukhelathrgq]
+  homes: [amqelulegez]
   affiliations: [empireakhlth]
   gender: female
   species: humanflk

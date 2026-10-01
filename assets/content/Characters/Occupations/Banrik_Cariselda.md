@@ -1,12 +1,6 @@
 ---
 shortcode: banrkcrsld
-name:
-  full: Bánrik Cáriselda
-  title: ""
-  given: Bánrik
-  clan: Cáriselda
-  home: solarden
-  aliases: []
+name: {full: Bánrik Cáriselda, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: tarvenanclt
-  homes: [tarvenirgn]
+  homes: [solarden]
   affiliations: [kingdmtrvn]
   gender: male
   species: humanflk

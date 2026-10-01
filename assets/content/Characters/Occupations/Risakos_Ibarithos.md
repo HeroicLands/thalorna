@@ -1,12 +1,6 @@
 ---
 shortcode: risksbrths
-name:
-  full: Rísàkós Ibârìthôs
-  title: ""
-  given: Rísàkós
-  clan: Ibârìthôs
-  home: korinthea2
-  aliases: []
+name: {full: Rísàkós Ibârìthôs, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: helioniteclt
-  homes: [helionis]
+  homes: [korinthea2]
   affiliations: [korinthea]
   gender: male
   species: humanflk

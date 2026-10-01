@@ -1,12 +1,6 @@
 ---
 shortcode: thrnlrkhld
-name:
-  full: Thornila Ríkhild
-  title: ""
-  given: Thornila
-  clan: Ríkhild
-  home: dunkelwald
-  aliases: []
+name: {full: Thornila Ríkhild, aliases: []}
 type: being
 subType: npc
 tags: [todo, draft, clergy]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: varokhiclt
-  homes: [vrystwald]
+  homes: [dunkelwald]
   affiliations: [vrystwldtrbs]
   gender: female
   species: humanflk

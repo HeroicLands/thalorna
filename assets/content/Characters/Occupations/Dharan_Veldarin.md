@@ -1,12 +1,6 @@
 ---
 shortcode: dharnvldrn
-name:
-  full: Dháran Véldarin
-  title: ""
-  given: Dháran
-  clan: Véldarin
-  home: elanmere
-  aliases: [Viriâhn Roderick Flamebearer]
+name: {full: Dháran Véldarin, aliases: [Viriâhn Roderick Flamebearer]}
 type: being
 subType: npc
 tags: [todo, draft, clergy]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [elanmere]
   affiliations: [kngdmlvndr]
   gender: male
   species: humanflk

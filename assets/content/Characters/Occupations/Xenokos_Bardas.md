@@ -1,6 +1,6 @@
 ---
 shortcode: xenoksbrds
-name: {full: Xénokôs Bárdâs, title: "", given: Xénokôs, clan: Bárdâs, home: "", aliases: []}
+name: {full: Xénokôs Bárdâs, aliases: []}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]

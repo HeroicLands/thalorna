@@ -1,6 +1,6 @@
 ---
 shortcode: osmndwnwck
-name: {full: Osmund Winwick, title: "", given: Osmund, clan: Winwick, home: thornbury, aliases: []}
+name: {full: Osmund Winwick, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [thornbury]
   affiliations: [repblctrvn]
   gender: male
   species: humanflk

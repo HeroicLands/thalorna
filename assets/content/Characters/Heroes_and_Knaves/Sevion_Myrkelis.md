@@ -1,6 +1,6 @@
 ---
 shortcode: sevnmyrkls
-name: {full: Sevion Myrkelis, title: "", given: Sevion, clan: Myrkelis, home: liranel, aliases: []}
+name: {full: Sevion Myrkelis, given: Sevion, clan: Myrkelis, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, guilded, mages]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [liranel]
   affiliations: [kngdmlvndr]
   gender: male
   species: humanflk

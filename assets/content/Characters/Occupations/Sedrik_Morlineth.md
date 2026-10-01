@@ -1,12 +1,6 @@
 ---
 shortcode: sdrkmrlnth
-name:
-  full: Sédrik Mórlineth
-  title: ""
-  given: Sédrik
-  clan: Mórlineth
-  home: liranel
-  aliases: []
+name: {full: Sédrik Mórlineth, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [liranel]
   affiliations: [kngdmlvndr]
   gender: male
   species: humanflk

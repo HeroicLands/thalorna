@@ -1,6 +1,6 @@
 ---
 shortcode: kasuradmzr
-name: {full: Kasûra Damzarû, title: "", given: Kasûra, clan: Damzarû, aliases: []}
+name: {full: Kasûra Damzarû, given: Kasûra, clan: Damzarû, aliases: []}
 type: being
 subType: character
 tags: [tamzir-crew, tradesfolk]

@@ -1,12 +1,6 @@
 ---
 shortcode: tabismrnds
-name:
-  full: Tàbîsa Mârinadês
-  title: ""
-  given: Tàbîsa
-  clan: Mârinadês
-  home: kalydria2
-  aliases: []
+name: {full: Tàbîsa Mârinadês, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: helioniteclt
-  homes: [helionis]
+  homes: [kalydria2]
   affiliations: [kalydria]
   gender: female
   species: humanflk

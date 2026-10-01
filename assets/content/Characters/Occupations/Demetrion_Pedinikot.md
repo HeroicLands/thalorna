@@ -1,12 +1,6 @@
 ---
 shortcode: dmtrnpdnkt
-name:
-  full: Demétrion Pediníkot
-  title: ""
-  given: Demétrion
-  clan: Pediníkot
-  home: ""
-  aliases: []
+name: {full: Demétrion Pediníkot, aliases: []}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]

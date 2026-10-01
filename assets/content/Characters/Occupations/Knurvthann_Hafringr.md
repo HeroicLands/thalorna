@@ -1,12 +1,6 @@
 ---
 shortcode: knrvthnhfrngr
-name:
-  full: Knurvthann Hafringr
-  title: ""
-  given: Knurvthann
-  clan: Hafringr
-  home: horgsvangr
-  aliases: []
+name: {full: Knurvthann Hafringr, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [horgsvangr]
   affiliations: [kngdmnrdhm]
   gender: male
   species: humanflk

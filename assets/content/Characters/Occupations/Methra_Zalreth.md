@@ -1,6 +1,6 @@
 ---
 shortcode: methrzlrth
-name: {full: Méthra Zálreth, title: "", given: Méthra, clan: Zálreth, home: liranel, aliases: []}
+name: {full: Méthra Zálreth, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [liranel]
   affiliations: [kngdmlvndr]
   gender: female
   species: humanflk

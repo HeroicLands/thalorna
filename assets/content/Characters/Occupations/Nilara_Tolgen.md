@@ -1,6 +1,6 @@
 ---
 shortcode: nilaratlgn
-name: {full: Nílara Tólgen, title: "", given: Nílara, clan: Tólgen, home: lunacorte, aliases: []}
+name: {full: Nílara Tólgen, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: provenzianclt
-  homes: [provenzrgn]
+  homes: [lunacorte]
   affiliations: [kngdmprvnz]
   gender: female
   species: humanflk
