@@ -753,7 +753,24 @@
             "description": null,
             "note": "_njör-_ (as the tree's Njörven) + _-var_ \"ward\" — the Sea-Ward, the elder sea-power the Ten displaced",
             "prose": null,
-            "oldRefPaths": ["main:assets/content/Bestiary/Mythic/Njorven.md:76:8"],
+            "oldRefPaths": [
+                "3313f0081:assets/content/Adventures/Groas_Campaign.md:42:128",
+                "3313f0081:assets/content/Bestiary/Mythic/Njorven.md:77:8",
+                "3313f0081:assets/content/Bestiary/Mythic/Njorven.md:79:3",
+                "3313f0081:assets/content/Bestiary/Mythic/Njorven.md:81:60",
+                "3313f0081:assets/content/Bestiary/Mythic/Njorven.md:91:190",
+                "3313f0081:assets/content/Bestiary/Mythic/Njorven.md:101:129",
+                "3313f0081:assets/content/Characters/Heroes_and_Knaves/Tvarnynda_the_Seidr_of_Norgaad.md:454:919",
+                "3313f0081:assets/content/Regions/Ankaris/Nordlands/The_Crown_of_the_Wyrm.md:12:73",
+                "3313f0081:assets/content/Regions/Ankaris/Nordlands/The_Crown_of_the_Wyrm.md:34:38",
+                "3313f0081:assets/content/Regions/Ankaris/Nordlands/The_Horn_of_Njordur.md:3:26",
+                "3313f0081:assets/content/Regions/Ankaris/Nordlands/The_Horn_of_Njordur.md:15:4",
+                "3313f0081:assets/content/Regions/Ankaris/Nordlands/The_Horn_of_Njordur.md:19:3",
+                "3313f0081:assets/content/Regions/Ankaris/Nordlands/The_Horn_of_Njordur.md:21:86",
+                "3313f0081:assets/content/Regions/Ankaris/Nordlands/The_Horn_of_Njordur.md:25:72",
+                "3313f0081:assets/content/Regions/Ankaris/Nordlands/The_Ritual_of_Binding.md:18:82",
+                "3313f0081:assets/content/Regions/Ankaris/Nordlands/The_Spear_of_Sigrid.md:12:80"
+            ],
             "boldKind": "none"
         },
         {

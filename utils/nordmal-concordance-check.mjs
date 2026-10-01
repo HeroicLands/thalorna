@@ -314,6 +314,10 @@ export function checkCompleteness(rows, raw) {
  * resolves to nothing is the row's only evidence, so its failure is an error
  * rather than a note.
  *
+ * A citation may name `main` so that a branch can cite a change it has not
+ * merged, and that form is reported as provisional: `main` moves, and the
+ * citation holds only until a line is inserted above the one it names.
+ *
  * @param {object[]} rows - The entries.
  * @param {string} raw - The table's text.
  * @returns {string[]} Findings.
@@ -340,6 +344,21 @@ export function checkCitations(rows, raw) {
     for (const row of rows) {
         const spot = rowPosition(raw, row);
         for (const [index, citation] of (row.oldRefPaths ?? []).entries()) {
+            // `main` moves. A citation pinned to it holds only until a line is
+            // inserted above the one it names, and the table is the single
+            // permanent record of what a thing used to be, so provisional
+            // evidence in it decays into no evidence at all.
+            if (String(citation).startsWith("main:")) {
+                out.push(
+                    finding(
+                        TABLE,
+                        spot.line,
+                        spot.column,
+                        "warning",
+                        `citation ${index + 1} is pinned to \`main\`, which moves; repin it to the revision that holds the form`,
+                    ),
+                );
+            }
             const parsed = CITATION.exec(String(citation));
             if (!parsed) {
                 out.push(
