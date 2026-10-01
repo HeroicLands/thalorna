@@ -9,16 +9,15 @@ package-lock.json
 # would turn `main` red the moment that pull request merged.
 CHANGELOG.md
 
-# Vendored link manifests (#1446): another package's build output, copied here
+# Vendored link manifests: another package's build output, copied here
 # verbatim. They are emitted with JSON.stringify's 2-space indent, which every
 # producing repository shares; reformatting them to this repository's tabWidth
 # would make the copy differ from its source and re-diff on every re-vendor.
 # `sohl.json` alone is 38,000 lines, so that churn is not small.
 assets/manifests/*.json
 
-# The website. The theme is a submodule with its own repository and style, and
-# the pages and rendered output beneath `site/` are generated. The layouts are
-# Go templates in `.html` files, which Prettier reflows as HTML — folding the
-# template comments and directives into prose. The knowledgebase ignores its
-# `kb/` for the same reason.
+# The website. The pages and rendered output beneath `site/` are generated, and
+# the theme arrives as an npm package with its own style. The layouts are Go
+# templates in `.html` files, which Prettier reflows as HTML — folding the
+# template comments and directives into prose.
 /site/
