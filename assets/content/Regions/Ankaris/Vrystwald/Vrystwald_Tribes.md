@@ -15,50 +15,39 @@ data:
     ranks:
       - level: 0
         title: Kinless
-        lore: outlawrnk
+        lore: kinlessrnk
         description: >-
-          Cast out by their own kin and claimed by none; owed no hospitality, no water and no vengeance.
+          Cast out by his own kin and claimed by none, typically for breaking an oath sworn before a war-band; no household owes him shelter, and no kindred owes him vengeance if he is harmed.
       - level: 1
         title: Bondservant
-        lore: bondservantrnk
+        lore: varokhbondsvntrnk
         description: >-
-          Held in service or debt to a household, and answerable through its head rather than in their own name.
+          Taken in war or bought at the river-landings and answerable to the mistress of the house he serves in every particular; the standing is not hereditary, and marriage or manumission can end it.
       - level: 2
-        title: Dependent
-        lore: dependentrnk
+        title: Taken-In
+        lore: takeninrnk
         description: >-
-          Sheltered by a household without being of its blood—a client, a widow's family, a taken-in stranger.
+          Free and sheltered by a household not his own blood, with no war-band before which he has sworn, so nobody can yet take his word the way a kinsman's oath is taken.
       - level: 3
         title: Kinsman
-        lore: kinsmanrnk
-        description: Of a household's blood, entitled to its protection, its feud and its share.
+        lore: varokhkinsmanrnk
+        description: >-
+          Of a kindred's blood by a true name earned at eth-kethrun, entitled to its protection, its feud and its share; the man's voice at the moot and the woman's hand on the household are one standing.
       - level: 4
-        title: Householder
-        lore: commonerrnk
-        description: >-
-          Head of a tent or hall, holding its herds and its people and speaking for them at the moot.
-      - level: 5
         title: Elder
-        lore: elderrnk
-        description: Senior of a lineage, whose memory of custom and precedent settles what the young dispute.
-      - level: 6
+        lore: lineageeldrrnk
+        description: >-
+          Senior of a lineage, or a wise-woman keeping the herb-lore and the feud-cords, whose memory of custom settles what the young cannot settle themselves in a people with no written record to consult instead.
+      - level: 5
         title: Chieftain
-        lore: councillorrnk
+        lore: chieftainrnk
         description: >-
-          Leading a clan or tribe by descent and by consent together, and losing it when either fails.
-      - level: 7
-        title: Delegate
-        lore: councillorrnk
-        description: Sent by a tribe to the common council, empowered to argue and not to bind.
-      - level: 8
-        title: Speaker of the Council
-        lore: prsdngffcrrnk
-        description: >-
-          Presiding over the common council, holding the peace of its meeting and no authority beyond it.
+          Leads a clan or tribe on personal prowess, wisdom and the warriors' continued support rather than on descent, and can be set aside by the same moot that raised him.
     offices:
-      Speaker of the Council: Presiding officer of the common council, keeper of its peace and of the order of speaking.
-      Chieftain: Head of a clan or tribe, holding by descent and consent together.
-      Elder: Senior of a lineage, whose recollection of custom settles disputes the young cannot.
+      Speaker of the Council: >-
+        Presiding officer of the common council, keeping its peace and the order of its speaking—a different charge from the War-chief's command, though one man may hold both.
+      War-chief: >-
+        Temporary command over several tribes, raised only when every tribe lays its fragment of the Sundered Talisman together, and dissolving the moment the crisis that called it passes.
       Lawkeeper: >-
         Keeper of the customs the tribes hold in common, and arbiter where two tribes' customs differ.
       Host-Caller: Summoner of the common muster when a threat concerns every tribe.

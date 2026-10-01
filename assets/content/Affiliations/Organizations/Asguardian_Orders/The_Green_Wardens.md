@@ -13,67 +13,26 @@ data:
   governance:
     model: council
     summary: >-
-      A chapter of professed brethren under an elected Grand Master, all of them bound by the rule he enforces.
+      A candidate is sponsored and examined before the Chapter and sworn in a Guardian outright; the Chapter also puts a Guardian from the order for breaking its vow, and elects the Speaker of the Green from among the Elder Guardians for a five-year term.
     ranks:
       - level: 0
-        title: Expelled
-        lore: expelledrnk
+        title: Put from the Order
+        lore: putfromordrrnk
         description: >-
-          Put out of the order, the habit taken back and the vows declared void; no house of it will receive them again.
-      - level: 1
-        title: Servant
-        lore: servantrnk
-        description: >-
-          Attached to a house for its labor—its stables, its kitchens, its fields—and not of the order.
-      - level: 2
-        title: Postulant
-        lore: catechumenrnk
-        description: Petitioning for admission and living under the rule on trial, bound by nothing yet.
+          Cast out by vote of the Chapter, closing every valley station's hospitality and every sibling order's recognition for good.
       - level: 3
-        title: Novice
-        lore: catechumenrnk
+        title: Sworn Guardian
+        lore: swrnguardnrnk
         description: >-
-          Received for a term of formation, under the rule and under a master of novices, and free to leave until profession.
+          Holds a station over a valley or a cluster of farmsteads for years at a time, bound to defend it from outside harm without taking up the household's own quarrels.
       - level: 4
-        title: Professed
-        lore: professedrnk
+        title: Elder Guardian
+        lore: ordrseniorrnk
         description: >-
-          Vowed to the order for life, holding no property of their own and owing obedience to its officers.
-      - level: 5
-        title: Officer
-        lore: officerrnk
-        description: Holding a charge of a house—its arms, its stores, its almsgiving, its chapel.
-      - level: 6
-        title: Commander
-        lore: commanderrnk
-        description: >-
-          Holding a house of the order, its brethren and its lands, and answerable for both to the chapter.
-      - level: 7
-        title: Preceptor
-        lore: highpriestrnk
-        description: >-
-          Holding a province of the order—several houses—and sitting in the chapter that elects its head.
-      - level: 8
-        title: Grand Master
-        lore: grandmasterrnk
-        description: >-
-          Head of the order, elected by the chapter, bound by the rule he enforces and removable under it.
+          Oversees training, may hold a more important valley's station, and sits on the Chapter that elects the Speaker of the Green.
     offices:
-      Grand Master: Head of the order, elected by the chapter and himself bound by the rule.
-      Preceptor: Holder of a province of the order, and an elector in the chapter.
-      Commander: Holder of a single house, its brethren and its lands.
-      Marshal: Master of the order's arms, horses and discipline in the field.
-      Seneschal: >-
-        Second to the Grand Master, holding the order's administration and standing for him in his absence.
-      Draper: >-
-        Keeper of the habit and equipment, whose issue marks a brother's standing as plainly as any rank.
-      Almoner: >-
-        Administrator of the order's charity, which is commonly the reason it was chartered at all.
-      Chaplain: >-
-        Keeper of the order's rites and of its brethren's souls, and not under the Marshal's discipline.
-      Master of Novices: Charged with formation, and with judging who may profess.
-      Treasurer: Keeper of the order's revenue, its endowments and its debts.
-      Standard-Bearer: Carrier of the order's banner, a charge given to a professed brother of proven service.
+      Speaker of the Green: >-
+        The order's chair, elected by the Chapter for a five-year term; one position, acting as administrative coordinator rather than as a commander.
   seat: null
   domains: []
   population: null
@@ -100,11 +59,13 @@ The order operates differently from its Eidgar-sworn siblings. The Sworn Hands r
 
 A candidate for the order is sponsored by a sitting Guardian and presented at the annual chapter. Examinations are martial (the order's training emphasizes defensive infantry, polearm and bow, and the suppression of larger beasts) and devotional (the candidate must recite the order's vow, know the harvest cycle in detail, and demonstrate the patient temperament that the long station of a Guardian requires). The order admits women and men on equal terms; the founding tradition was that fertility-warden work is by nature open to both, and the order has preserved the principle.
 
-There are three ranks:
+The order holds three ranks. It admits nobody below its sworn rank: a candidate is sponsored and examined before he is anything.
 
+- **Put from the Order**—cast out by vote of the Chapter, closing every valley station's hospitality and every sibling order's recognition for good.
 - **Sworn Guardian** (_Grönvördr_)—the working warden; assigned to a station or, occasionally, riding as a circuit relief.
 - **Elder Guardian** (_Eldri Grönvördr_)—senior member; may serve as station-warden for a more important valley, may oversee training, sits on the order's Chapter.
-- **Speaker of the Green** (_Grönmál_)—the order's chair; elected by the Chapter for a five-year term; one position; functions as administrative coordinator rather than commander.
+
+The order's chair, the **Speaker of the Green** (_Grönmál_), is elected by the Chapter for a five-year term—one position, acting as administrative coordinator rather than as a commander.
 
 The order's annual chapter meets in late autumn, after the harvest is stored, in rotation between the three largest active halls. Inter-chapter administration is light and largely conducted by correspondence between Elder Guardians.
 

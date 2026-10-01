@@ -19,60 +19,28 @@ data:
   governance:
     model: stratocracy
     summary: >-
-      A company bound by its articles, its members sharing in what it takes and its officers holding by consent.
+      A captain swears his company into the Compact before the Council of the Hall and becomes a Signed Captain outright; the Council also discharges a captain in disgrace by vote, and elects the Speaker of the Compact from among its own for a five-year term.
     ranks:
       - level: 0
         title: Discharged in Disgrace
-        lore: expelledrnk
+        lore: dischargedrnk
         description: >-
-          Put out with the share forfeit and the name published, so that no other company will take them.
+          Expelled by Council vote, the bandalagshringr surrendered and the company's contracts dishonored, its hostels closed and its old debts settled by rivals the Compact will not restrain.
       - level: 1
-        title: Servant
-        lore: servantrnk
+        title: Sworn of a Signed Company
+        lore: companyswornrnk
         description: >-
-          Attached to the company for its baggage, its cooking, its animals; not sworn and not shared with.
-      - level: 2
-        title: Hand
-        lore: dependentrnk
-        description: Taken on for a season or a voyage, paid a wage, and holding no share of the undertaking.
+          A common warrior testified by his captain rather than sworn directly to the Compact, holding its truce and a legible oath when he crosses from one signed company to another.
       - level: 3
-        title: Sworn Member
-        lore: swornmemberrnk
+        title: Signed Captain
+        lore: signedcaptnrnk
         description: >-
-          Sworn to the company's articles, entitled to a share of what it takes and bound by what it agrees.
-      - level: 4
-        title: Veteran
-        lore: warriorrnk
-        description: >-
-          Of proven service across several undertakings, drawing a larger share and consulted before the company commits.
-      - level: 5
-        title: Officer
-        lore: officerrnk
-        description: Holding a charge in the company—its stores, its scouts, its accounts, its discipline.
-      - level: 6
-        title: Lieutenant
-        lore: commanderrnk
-        description: Second in the company, commanding in the captain's absence and detached with a part of it.
-      - level: 7
-        title: Captain
-        lore: commanderrnk
-        description: Commanding the company, holding its articles and negotiating its contracts.
-      - level: 8
-        title: Master of the Company
-        lore: grandmasterrnk
-        description: >-
-          Where a company outlives its captains: the standing head who holds the name, the charter and the contracts between them.
+          Swears the company into the Compact before the Council of the Hall, wears the bandalagshringr, and answers before the Council for the company's conduct under its oath.
     offices:
-      Master of the Company: Standing head of a company that outlives its captains, holding the name and the contracts.
-      Captain: Commander of the company, holder of its articles and negotiator of its contracts.
-      Lieutenant: Second in command, holding the company in the captain's absence.
-      Quartermaster: Keeper of the company's stores, its baggage and the division of what it takes.
-      Purser: Keeper of the accounts—wages, shares, debts and the contract's terms.
-      Navigator: Holder of the routes, whether by chart at sea or by memory overland.
-      Bosun: Master of the working of the ship or the ordering of the march.
-      Master-at-Arms: Keeper of the company's discipline and of its weapons.
-      Surgeon: Keeper of the company's wounded, and commonly the only lettered member besides the purser.
-      Standard-Bearer: Carrier of the company's banner, by which it is known and hired.
+      Speaker of the Compact: >-
+        Elected by the Council of the Hall for a five-year term; one position, holding the Compact's day-to-day administration.
+      Council of the Hall: >-
+        Nine seats: three held by the longest-standing signed companies, three rotating and elected from junior signed companies, and three reserved for the grá-káppar, retired captains of particular standing.
   seat: null
   domains: []
   population: null
@@ -98,6 +66,8 @@ The Compact does not field its own troops. It does not levy. It does not adjudic
 ## Membership and Structure
 
 A company joins the Compact by its captain's oath and its named muster sworn before the **Council of the Hall** at Hringstead. The Council has nine seats—one for each of the three longest-standing companies, three rotating seats elected from junior signed companies, and three seats reserved for retired captains of particular standing (the _grákáppar_, the "gray champions"). The Council meets four times a year, at the Compact's gathering-feasts.
+
+The Compact confers three ranks. A captain who signs his company's muster before the Council becomes a **Signed Captain**, wears the _bandalagshringr_, and answers to the Council for his company's conduct. His warriors hold the lesser standing of **Sworn of a Signed Company**: testified by his oath rather than sworn to the Compact directly, and bound by whatever he has sworn on the company's behalf. A captain who breaks the Compact's rules is **Discharged in Disgrace** by Council vote—his ring surrendered, his company's contracts dishonored, and its old debts left to rivals the Compact will not restrain.
 
 Day-to-day administration falls to the **Speaker of the Compact** (the _Bandalagstalsmadr_), elected by the Council for a five-year term. The current Speaker is **Hrindvir Vetreldr**, a one-eyed veteran of the Vithgard succession wars who is widely respected and very much feared.
 
