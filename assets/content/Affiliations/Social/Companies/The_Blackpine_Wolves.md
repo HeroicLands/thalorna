@@ -2,7 +2,7 @@
 shortcode: blckpnwlvs
 name: {full: The Blackpine Wolves, aliases: []}
 type: affiliation
-subType: venture
+subType: criminal
 description: "Vrystwald road bandits—brutal, desperate men held together by fear of their leader Dágulf and the absence of legitimate options in imperial forests."
 tags: [company, brigands, vrystwald]
 data:
@@ -12,9 +12,9 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: stratocracy
+    model: autocracy
     summary: >-
-      A company bound by its articles, its members sharing in what it takes and its officers holding by consent.
+      A gang bound by nothing but fear of Dágulf, who holds command only as long as no one dares to challenge him.
     ranks:
       - level: 0
         title: Discharged in Disgrace

@@ -14,7 +14,7 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: council
+    model: autocracy
     summary: >-
       A clan's sworn hunting company under a huntmaster who answers to the chief, bound by tradition rather than by contract.
     ranks:
