@@ -118,13 +118,8 @@ Followers of Svartbrandr are warriors who embrace the chaos and brutality of bat
 - **The Firewalk:** An ordeal where participants must walk barefoot across a bed of hot coals, proving their devotion to Svartbrandr.
 - **The Flame's Trial:** An ordeal where the faithful must survive in a volcanic region, relying on Svartbrandr's protection to endure the heat and danger.
 
-## Orders
+## See Also
 
-**Clerical Orders:**
-
-- **Order of the Inferno:** Priests dedicated to mastering the power of fire, often serving as blacksmiths and forge masters.
-
-**Fighting Orders:**
-
-- **Infernal Blades:** Elite warriors known for their ferocity in battle.
-- **Flameguard:** A militant order dedicated to protecting Svartbrandr's temples and followers, using fire-based combat techniques.
+- [[affiliation-smideldr|Smideldr]]—the Order of the Inferno, priests who master fire as blacksmiths and forge-masters
+- [[affiliation-eldulfr|Eldúlfr]]—the Infernal Blades, elite warriors proven by the forge-hofs' own ordeals
+- [[affiliation-eldverdir|Eldverdir]]—the Flameguard, a militant order guarding Svartbrandr's forge-hofs with fire

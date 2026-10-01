@@ -115,15 +115,9 @@ She is often depicted as a ghastly figure, her eyes burning with a baleful light
 - **The Bone Ritual:** An ordeal where participants must fashion weapons from the bones of the dead and use them successfully in combat.
 - **The Shadow Hunt:** A task where the faithful must track and capture a living sacrifice under the cover of darkness, offering it to Náhild at dawn.
 
-## Orders
+## See Also
 
-**Clerical Orders:**
-
-- **Order of the Void:** A secretive group dedicated to sowing chaos and expanding the influence of the Eye of the Void.
-- **Keepers of the Abyss:** Guardians of the temples and unholy inquisitors, tasked with protecting sacred sites and maintaining the rituals of Náhild.
-- **Harbingers of Despair:** Missionaries who spread the doctrine of Náhild through fear and terror.
-- **Soulweavers:** Priests specialized in binding souls to Náhild's service, both in life and after death.
-
-**Fighting Orders:**
-
-- **Nightstalkers:** Elite assassins who carry out Náhild's will through targeted killings designed for maximum chaos and impact.
+- [[affiliation-nalok|Nálok]]—the Order of the Void, a secretive cult widening the Eye of the Void's influence
+- [[affiliation-naverdir|Náverdir]]—the Keepers of the Abyss, guardians of hidden hofs and the cult's own inquisitors
+- [[affiliation-namaelendir|Námaelendir]]—the Harbingers of Despair, missionaries who spread Náhild's doctrine through fear
+- [[affiliation-nottgengir|Nóttgengir]]—the Nightstalkers, elite assassins carrying out Náhild's will
