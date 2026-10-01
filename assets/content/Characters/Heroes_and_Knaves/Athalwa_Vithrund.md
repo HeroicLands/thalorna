@@ -467,7 +467,7 @@ Athalwa's primary motivation is the survival and flourishing of the Vrystwald Tr
 - **Political Vulnerability**: As a female chieftain operating outside traditional frameworks, Athalwa is perpetually vulnerable to challenges from conservative factions within her own people. Her authority, though real, remains contested.
 - **Emotional Distance**: Her tendency to perceive events in larger, longer timescales than others makes her sometimes seem cold and dismissive of immediate human suffering. Warriors and clan members occasionally feel she values strategic outcomes over their wellbeing.
 - **Limited Diplomatic Subtlety**: While effective with direct negotiations, Athalwa sometimes misses the nuances of courtly politics in more sophisticated realms. The Byzarian League and other complex political entities sometimes take advantage of her more straightforward approach.
-- **Dependence on Visions**: Should her mystical abilities fade or prove unreliable, her authority would be severely compromised. The elders already doubt her connection to Ymir; evidence of false visions could destroy her completely.
+- **Dependence on Visions**: Should her mystical abilities fade or prove unreliable, her authority would be severely compromised. The elders already doubt her connection to [[lore-motefnirdty|Mótefnir]]; evidence of false visions could destroy her completely.
 
 ## Social
 
@@ -475,28 +475,28 @@ Athalwa's primary motivation is the survival and flourishing of the Vrystwald Tr
 
 - **The War Band of the Vithrúnd**: Young warriors and ambitious raiders who benefit from Athalwa's expansionist policies and see in her a leader who can elevate them to genuine power within the broader world.
 - **Merchant Prince Oleander of the Byzarian League**: A canny trader who has secured exclusive access to Vrystwald furs and amber through his relationship with Athalwa. They maintain a respectful commercial and diplomatic relationship.
-- **Ymir's Oracle, the Völva Astrid**: An ancient priestess of the Asgardian Pantheon who senses truth in Athalwa's visions and provides mystical counsel and validation.
+- **Mótefnir's Oracle, the Völva Astrid**: An ancient priestess of the Asgardian Pantheon who senses truth in Athalwa's visions and provides mystical counsel and validation.
 
 ### Enemies
 
 - **Chieftain Harthak Orossun (Cousin and Rival Claimant)**: Athalwa's cousin was denied the chieftainship she claimed. He maintains a competing claim and leads a faction of conservative warriors who would gladly see her deposed.
-- **Elder Council Speaker Vorthrim**: The most influential of the conservative elders, **Vorthrim** views Athalwa's innovations as blasphemy against Ymir and ancient tradition. He orchestrates political challenges to her authority.
+- **Elder Council Speaker Vorthrim**: The most influential of the conservative elders, **Vorthrim** views Athalwa's innovations as blasphemy against Mótefnir and ancient tradition. He orchestrates political challenges to her authority.
 - **Shadow Throne Empire**: A distant but expanding southern empire that views the Vrystwald Tribes as an obstacle to continental domination. They have begun secretly funding Athalwa's internal enemies.
 
 ### Affiliations
 
 - **Vrystwald Tribal Council**: Athalwa serves as Chieftain, though her position remains contested among traditional members.
-- **The Order of Ymir (Creation Aspect)**: A devout practitioner who maintains regular spiritual counsel with the Völva priestesses.
+- **[[affiliation-motefnir|Faith of Mótefnir]]**: A devout practitioner who maintains regular spiritual counsel with the Völva priestesses.
 - **The Eastern Trade Consortium**: Athalwa has recently been instrumental in establishing formal trading relationships with merchants from eastern kingdoms, creating new economic dependencies and opportunities.
 
 ## Plot Hooks
 
 1. **The Vision of Betrayal**: Athalwa experiences a terrible vision of betrayal from someone she trusts—but the vision is deliberately unclear about who the traitor is or what form the betrayal will take. As paranoia begins to grip her leadership, she must distinguish between genuine threats and the anxiety that her visions create. The investigation leads to uncomfortable truths about which relationships are truly built on loyalty versus political convenience.
 
-2. **The Coalition Against Prophecy**: Conservative elders, supported secretly by the Shadow Throne Empire, begin openly challenging Athalwa's claim that her visions come from Ymir. They propose a ritual to test her connection to the All-Father—a ritual designed to fail even if her visions are genuine. Athalwa must navigate this political trap while maintaining her authority and the support of her warriors.
+2. **The Coalition Against Prophecy**: Conservative elders, supported secretly by the Shadow Throne Empire, begin openly challenging Athalwa's claim that her visions come from Mótefnir. They propose a ritual to test her connection to the Maker—a ritual designed to fail even if her visions are genuine. Athalwa must navigate this political trap while maintaining her authority and the support of her warriors.
 
 3. **The Lost Kingdom**: Athalwa's visions begin revealing a civilization that existed centuries before even the oldest Vrystwald legends—an advanced kingdom in the far north that was deliberately hidden or destroyed. Investigation into these visions leads toward territories no Vrystwald explorer has ventured into in living memory, promising both discovery and terrible danger from whatever drove the ancients away.
 
 4. **The Diplomatic Gambit**: The Byzarian League formally proposes a marriage alliance between Athalwa and a powerful Byzarian noble—ostensibly to cement trade relationships and prevent future conflicts. Athalwa recognizes this as an attempt to diminish her authority by tying her to foreign politics, yet rejecting it would be interpreted as hostility and isolation. She must navigate this delicate negotiation while protecting her independence.
 
-5. **The Curse Upon the Land**: A blight begins spreading across Vrystwald territory—crops fail, livestock sicken, and newborns are stillborn with increasing frequency. The conservative priestesses declare this proof that Ymir has withdrawn his blessing due to Athalwa's unorthodox leadership. Athalwa's visions are clouded and unclear about the cause. She must investigate what appears to be either supernatural curse, systematic poisoning, or enemy magic, while simultaneously defending her authority against those claiming the blight is divine punishment.
+5. **The Curse Upon the Land**: A blight begins spreading across Vrystwald territory—crops fail, livestock sicken, and newborns are stillborn with increasing frequency. The conservative priestesses declare this proof that Mótefnir has withdrawn his blessing due to Athalwa's unorthodox leadership. Athalwa's visions are clouded and unclear about the cause. She must investigate what appears to be either supernatural curse, systematic poisoning, or enemy magic, while simultaneously defending her authority against those claiming the blight is divine punishment.

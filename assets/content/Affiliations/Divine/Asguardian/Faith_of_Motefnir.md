@@ -20,7 +20,7 @@ data:
         title: Refused the Blót
         lore: blotrefusedrnk
         description: >-
-          Declined the offering by the godi of the hof he swore his first-made thing at, cutting a man from Mótefnir's clergy and from the standing his craft held through it.
+          Declined the offering by the godi of the hof he swore his first work at, cutting a man from Mótefnir's clergy and from the standing his craft held through it.
       - level: 1
         title: Blótmadr
         lore: blotmadrrnk
@@ -73,7 +73,7 @@ Depictions give him hands and little else that is fixed—a pair of hands over a
 
 ## Sacred Objects
 
-- **The First-Made Thing:** Whatever a craftsman made first and kept, sworn at a hof and held on the shelf behind its altar for as long as the hof stands.
+- **The First Work:** Whatever a craftsman made first and kept, sworn at a hof and held on the shelf behind its altar for as long as the hof stands.
 - **The Half-Cast:** A casting broken out of its mould before it set, carried as the god's own habit in miniature.
 - **The Clay Mould:** Taken from a hof's bench, used once, and never used for a second pour.
 

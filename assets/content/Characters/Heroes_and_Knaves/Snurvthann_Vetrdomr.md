@@ -443,7 +443,7 @@ At thirty-five, Snurvthann married Unthynda, a farmer's daughter, and they had t
 
 Snurvthann is quiet and somewhat taciturn, with little interest in clever speech or elaborate conversation. He expresses himself primarily through his work, and those who attempt to know him must learn to read the language of his craft. He is honest to the point of bluntness—a customer asking if he can stretch their purse to add extra work will receive a straightforward answer about whether it can be done well or not, without flattery or false assurance.
 
-His relationship with his faith, centered on Ymir, god of creation and primordial potential, is deeply felt but expressed simply. He observes the seasonal rites and makes offerings at appropriate times, viewing his work as participation in the ongoing act of creation that Ymir initiated. He carries a small carved figurine of the primordial being, touched for blessings before beginning particularly complex or dangerous work. Despite his quiet nature, Snurvthann possesses a dry, understated humor that surfaces in conversation with fellow craftspeople—observations about weather, clients, or the general absurdities of his profession delivered in deadpan tones that cause real laughter among those who work closely with him.
+His relationship with his faith, centered on [[lore-motefnirdty|Mótefnir]] the Maker, is deeply felt but expressed simply. He observes the seasonal rites and makes offerings at appropriate times, viewing his work as participation in the making Mótefnir has never finished. He carries a small carved figurine of the god, touched for blessings before beginning particularly complex or dangerous work. Despite his quiet nature, Snurvthann possesses a dry, understated humor that surfaces in conversation with fellow craftspeople—observations about weather, clients, or the general absurdities of his profession delivered in deadpan tones that cause real laughter among those who work closely with him.
 
 ### Motivation
 
@@ -471,7 +471,7 @@ Snurvthann seeks to maintain the highest standards of his craft, so that knowled
 
 - **The Farmer's Collective of Malagna's Outer Reaches**: Agricultural families throughout the region contract Snurvthann for roof work, often waiting months for his availability. They consider his work worth the wait and the expense, trusting him implicitly with their family's primary shelter.
 - **Dún Ragnarsson, Local Chieftain**: The regional leader maintains Snurvthann on semi-retainer, so that the chieftain's hall and outlying buildings receive maintenance from the finest craftsperson available. This provides Snurvthann with steady work and prestige.
-- **The Temple of Ymir**: The local priesthood of Snurvthann's god regularly contract his services for the temple's complex roofing requirements, viewing the maintenance of the sacred structure's integrity as highly important.
+- **The Temple of Mótefnir**: The local priesthood of Snurvthann's god regularly contract his services for the temple's complex roofing requirements, viewing the maintenance of the sacred structure's integrity as highly important.
 - **Wealthy Merchants Traveling to the Capital**: Successful traders investing in secondary residences or trading posts throughout Malagna sometimes locate them near Snurvthann's region specifically to access his reputation for superior craftsmanship.
 
 ### Enemies

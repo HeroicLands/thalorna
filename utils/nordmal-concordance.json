@@ -7839,7 +7839,7 @@
             "type": "affiliation",
             "subType": "deity",
             "description": "Craft, Invention and the Made.",
-            "prose": "The faith kept almost entirely by people who make things for a living, on the ordinary blót ladder every public faith of the Ten keeps. Its offering is work rather than cattle: a craftsman swears his first-made thing at a hof and it stays on the shelf behind the altar, and a man who knowingly sells bad work is refused the blót.",
+            "prose": "The faith kept almost entirely by people who make things for a living, on the ordinary blót ladder every public faith of the Ten keeps. Its offering is work rather than cattle: a craftsman swears his first work at a hof and it stays on the shelf behind the altar, and a man who knowingly sells bad work is refused the blót.",
             "note": "the faith note, sharing the god's bare shortcode with its ritual skill (a shortcode is unique only within one type, so the two notes carry the name independently) — see the deity row for the etymology. Its alias is an English phrase on the pattern every other faith of the Ten uses, and names what the god does to his work rather than what he is. No art: the icon slot is unfilled, because the nine painted faith icons are drawn art and none exists for this faith yet.",
             "oldRefPaths": [],
             "boldKind": "none"

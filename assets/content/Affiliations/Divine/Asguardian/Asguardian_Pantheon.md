@@ -47,18 +47,18 @@ The Asguardian pantheon is the dominant religious tradition of the northern and 
 
 ## The Ten
 
-| Domain                                  | Deity           | Epithet              | Symbol                                    | Faith                                             |
-| --------------------------------------- | --------------- | -------------------- | ----------------------------------------- | ------------------------------------------------- |
-| Dead & Underworld                       | **Náhild**      | The Despiser of Life | Obsidian shard and the Eye of the Void    | [[affiliation-nahild\|Faith of Náhild]]           |
-| Elder Races, Dreams & Light             | **Bjartr**      | The Radiant One      | Sunstone and silver leaf                  | [[affiliation-bjartr\|Faith of Bjartr]]           |
-| Fertility, Agriculture, Peace & Healing | **Fródvin**     | The Healer           | Sheaf of wheat and healing herb bundle    | [[affiliation-frodvin\|Faith of Fródvin]]         |
-| Love, Beauty & Prosperity               | **Sólrún**      | The Golden One       | Rose petal and silver coin                | [[affiliation-solrun\|Faith of Sólrún]]           |
-| Cunning, Deception & Thieves            | **Vélgrímr**    | The Trickster        | Serpent skin and shadowed glass           | [[affiliation-velgrimr\|Faith of Vélgrímr]]       |
-| Knowledge & Wisdom                      | **Ódvar**       | The All-Father       | Raven feather and runestone               | [[affiliation-odvar\|Faith of Ódvar]]             |
-| Fire & Savage Battle                    | **Svartbrandr** | The Destroyer        | Ember and volcanic rock                   | [[affiliation-svartbrandr\|Faith of Svartbrandr]] |
-| War, Reavers & Sea                      | **Thrúnvald**   | The Thunderer        | Hammer stone (Thrúnhamarr) and sea shell  | [[affiliation-thrunvald\|Faith of Thrúnvald]]     |
-| Justice & Honorable Combat              | **Eidgar**      | The Just             | Iron scale and oath ring                  | [[affiliation-eidgar\|Faith of Eidgar]]           |
-| Craft, Invention & the Made             | **Mótefnir**    | The Maker            | A clay mould and an unfinished casting    | [[affiliation-motefnir\|Faith of Mótefnir]]       |
+| Domain                                  | Deity           | Epithet              | Symbol                                   | Faith                                             |
+| --------------------------------------- | --------------- | -------------------- | ---------------------------------------- | ------------------------------------------------- |
+| Dead & Underworld                       | **Náhild**      | The Despiser of Life | Obsidian shard and the Eye of the Void   | [[affiliation-nahild\|Faith of Náhild]]           |
+| Elder Races, Dreams & Light             | **Bjartr**      | The Radiant One      | Sunstone and silver leaf                 | [[affiliation-bjartr\|Faith of Bjartr]]           |
+| Fertility, Agriculture, Peace & Healing | **Fródvin**     | The Healer           | Sheaf of wheat and healing herb bundle   | [[affiliation-frodvin\|Faith of Fródvin]]         |
+| Love, Beauty & Prosperity               | **Sólrún**      | The Golden One       | Rose petal and silver coin               | [[affiliation-solrun\|Faith of Sólrún]]           |
+| Cunning, Deception & Thieves            | **Vélgrímr**    | The Trickster        | Serpent skin and shadowed glass          | [[affiliation-velgrimr\|Faith of Vélgrímr]]       |
+| Knowledge & Wisdom                      | **Ódvar**       | The All-Father       | Raven feather and runestone              | [[affiliation-odvar\|Faith of Ódvar]]             |
+| Fire & Savage Battle                    | **Svartbrandr** | The Destroyer        | Ember and volcanic rock                  | [[affiliation-svartbrandr\|Faith of Svartbrandr]] |
+| War, Reavers & Sea                      | **Thrúnvald**   | The Thunderer        | Hammer stone (Thrúnhamarr) and sea shell | [[affiliation-thrunvald\|Faith of Thrúnvald]]     |
+| Justice & Honorable Combat              | **Eidgar**      | The Just             | Iron scale and oath ring                 | [[affiliation-eidgar\|Faith of Eidgar]]           |
+| Craft, Invention & the Made             | **Mótefnir**    | The Maker            | A clay mould and an unfinished casting   | [[affiliation-motefnir\|Faith of Mótefnir]]       |
 
 ## Theological Foundations
 

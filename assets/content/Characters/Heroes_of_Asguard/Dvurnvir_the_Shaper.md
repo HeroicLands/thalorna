@@ -367,9 +367,9 @@ Dvurnvir stands 5'7" with a thin, almost gaunt frame, weighing about 140 pounds.
 
 # Dossier {#dossier}
 
-Dvurnvir was born to a clan of wanderers who revered Ymir for his creative genius, despite the god's indifference. From an early age, Dvurnvir was fascinated by the Dreadspawn—creations of Ymir that were both awe-inspiring and terrifying. While others feared these beings, Dvurnvir saw them as manifestations of Ymir's brilliance and sought to understand their nature. As he grew older, Dvurnvir became known as the Shaper for his ability to manipulate and alter these creations, seeking to perfect what Ymir had left incomplete. His experiments were dangerous and often led to disaster, but Dvurnvir was relentless in his pursuit of Ymir's ideals.
+Dvurnvir was born to a clan of wanderers who revered [[lore-motefnirdty|Mótefnir]] for his creative genius, despite the god's indifference. From an early age, Dvurnvir was fascinated by the Dreadspawn—creations of Mótefnir that were both awe-inspiring and terrifying. While others feared these beings, Dvurnvir saw them as manifestations of Mótefnir's brilliance and sought to understand their nature. As he grew older, Dvurnvir became known as the Shaper for his ability to manipulate and alter these creations, seeking to perfect what Mótefnir had left incomplete. His experiments were dangerous and often led to disaster, but Dvurnvir was relentless in his pursuit of Mótefnir's ideals.
 
-The saga of Dvurnvir the Shaper tells of his most ambitious experiment, where he attempted to combine the essence of two powerful Dreadspawn to create a new, more perfect being. The process was fraught with peril, as the Dreadspawn were unpredictable and volatile. Dvurnvir spent weeks preparing for the fusion, using ancient texts and forbidden knowledge to guide him. When the time came, he succeeded in merging the two beings, creating a new Dreadspawn that was both beautiful and terrifying—the Forsaken Guardian. This creation became a symbol of Dvurnvir's devotion to Ymir and his ability to bring order to chaos.
+The saga of Dvurnvir the Shaper tells of his most ambitious experiment, where he attempted to combine the essence of two powerful Dreadspawn to create a new, more perfect being. The process was fraught with peril, as the Dreadspawn were unpredictable and volatile. Dvurnvir spent weeks preparing for the fusion, using ancient texts and forbidden knowledge to guide him. When the time came, he succeeded in merging the two beings, creating a new Dreadspawn that was both beautiful and terrifying—the Forsaken Guardian. This creation became a symbol of Dvurnvir's devotion to Mótefnir and his ability to bring order to chaos.
 
 ## Psyche
 
@@ -379,7 +379,7 @@ Dvurnvir is obsessive and brilliant, a man whose mind operates on a different pl
 
 ### Motivation
 
-Dvurnvir seeks to complete what Ymir began—to perfect the art of creation itself. He believes that the Dreadspawn are not monsters but unfinished masterworks, and that with enough knowledge and skill, they can be elevated to something magnificent. His deeper drive is a need for meaning: if Ymir created without purpose, perhaps Dvurnvir can give that creation purpose after the fact.
+Dvurnvir seeks to complete what Mótefnir began—to perfect the art of creation itself. He believes that the Dreadspawn are not monsters but unfinished masterworks, and that with enough knowledge and skill, they can be elevated to something magnificent. His deeper drive is a need for meaning: if Mótefnir created without purpose, perhaps Dvurnvir can give that creation purpose after the fact.
 
 ### Strengths
 
@@ -391,7 +391,7 @@ Dvurnvir's understanding of the Dreadspawn is unparalleled; he can predict their
 
 ### Patrons
 
-**The Wanderers of Ymir**—The scattered followers of the Forsaken Creator who see Dvurnvir as the most promising practitioner of Ymir's creative arts and supply him with rare materials and forbidden texts.
+**The Wanderers of Mótefnir**—The scattered followers of the Maker who abandons his work, who see Dvurnvir as the most promising practitioner of Mótefnir's creative arts and supply him with rare materials and forbidden texts.
 
 **Aldric of the Panepistemium**—A Panepistemium scholar who secretly funds Dvurnvir's research, fascinated by the practical applications of his work with the Dreadspawn despite the ethical concerns.
 
@@ -403,7 +403,7 @@ Dvurnvir's understanding of the Dreadspawn is unparalleled; he can predict their
 
 ## Plot Hooks
 
-1. **The Unfinished Creation**—Dvurnvir has discovered the remains of one of Ymir's original laboratories and believes he can reactivate it. The knowledge within could revolutionize his work—or unleash something terrible.
+1. **The Unfinished Creation**—Dvurnvir has discovered the remains of one of Mótefnir's original laboratories and believes he can reactivate it. The knowledge within could revolutionize his work—or unleash something terrible.
 
 2. **The Guardian's Awakening**—The Forsaken Guardian has begun displaying independent thought and emotions. Dvurnvir must decide whether this is a breakthrough or a catastrophe.
 

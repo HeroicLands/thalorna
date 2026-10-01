@@ -480,7 +480,7 @@ Thraldorv seeks primarily the satisfaction of doing his work well—to earn fair
 ### Affiliations
 
 - **Vithgard Mercenaries Guild**: The primary employment network and social structure for warriors-for-hire throughout the kingdom
-- **The Asgardian Brotherhood**: Informal fellowship of men devoted to Ymir's aspect of creation and strength; mostly warriors, craftspeople, and those who revere the primal forces
+- **The Asgardian Brotherhood**: Informal fellowship of men who honor [[lore-motefnirdty|Mótefnir]]'s making and the Rime-Giant's strength together; mostly warriors, craftspeople, and those who revere the primal forces
 
 ## Plot Hooks
 
