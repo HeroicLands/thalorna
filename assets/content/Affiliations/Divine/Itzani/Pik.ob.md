@@ -53,7 +53,7 @@ data:
           Trusted to instruct, which in this order means to sit with someone for years and correct almost nothing.
       - level: 7
         title: K'ul Pik'ob
-        lore: highpriestrnk
+        lore: branchheadrnk
         description: >-
           Keeper of the owls—head of the contemplative branch in a city, who answers to the death-temple's K'ul Tq'an for what its philosophers say in public.
     offices:

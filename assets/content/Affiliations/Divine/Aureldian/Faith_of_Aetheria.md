@@ -41,7 +41,7 @@ data:
           Ordained dream-healers and interpreters of vision, trained for years in lucid dreaming and the reading of symbols.
       - level: 4
         title: Somniatrix
-        lore: grandmasterrnk
+        lore: highpriestrnk
         description: >-
           High Priestess or High Priest—the title is used regardless of gender—typically an elderly visionary whose dreams have guided kingdoms.
     offices:

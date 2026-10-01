@@ -59,7 +59,7 @@ data:
           Holds a cell, its shelter, its dead and its silence, and answers to no other cell for any of it.
       - level: 8
         title: Voice of the Owl
-        lore: grandmasterrnk
+        lore: sprtspkrrnk
         description: >-
           Believed to carry Pik'ul Tz'umaq's own word; never more than one in a region, often none, and the claim is never made twice in the same generation without bloodshed.
     offices:

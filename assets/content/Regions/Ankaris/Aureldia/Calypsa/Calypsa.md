@@ -51,7 +51,7 @@ data:
           Of the ruling council itself, holding a seat for life and deliberating on war, treasury and law.
       - level: 7
         title: Consular
-        lore: highpriestrnk
+        lore: formermagrnk
         description: >-
           Having held the chief magistracy and vacated it, and speaking with the weight that carries ever after.
       - level: 8

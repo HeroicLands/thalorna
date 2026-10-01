@@ -50,7 +50,7 @@ data:
           Holding a house of the order, its brethren and its lands, and answerable for both to the chapter.
       - level: 7
         title: Preceptor
-        lore: highpriestrnk
+        lore: branchheadrnk
         description: >-
           Holding a province of the order—several houses—and sitting in the chapter that elects its head.
       - level: 8

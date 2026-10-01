@@ -50,7 +50,7 @@ data:
           Speaks with the owl's voice and is understood to be doing so; the nearest thing the veneration has to an authority, and it is on loan.
       - level: 6
         title: Threshold-Held
-        lore: highpriestrnk
+        lore: transfiguredrnk
         description: >-
           One whose own soul the owl holds at the boundary rather than releasing—intercepted, returned intact, and no longer counted among the living.
       - level: 7

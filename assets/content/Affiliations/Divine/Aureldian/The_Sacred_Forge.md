@@ -39,7 +39,7 @@ data:
           Ordained clergy who lead individual temples, consecrate forges, bless craftspeople and train the acolytes; themselves typically accomplished smiths.
       - level: 4
         title: Grand Pontifex
-        lore: grandmasterrnk
+        lore: highpriestrnk
         description: >-
           Supreme priest or priestess overseeing every Sacred Forge temple and its clergy across western Ankaris.
     offices:

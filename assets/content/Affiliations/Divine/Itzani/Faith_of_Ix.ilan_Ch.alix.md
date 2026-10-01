@@ -49,7 +49,7 @@ data:
           "Sacred Servant"—an ordained priest, trained from childhood in mathematics, astronomy, writing and the reading of celestial signs, who keeps the daily rites and the codices.
       - level: 6
         title: K'ul
-        lore: highpriestrnk
+        lore: branchheadrnk
         description: >-
           "Keeper"—head of one specialist branch within a temple complex, answerable to its K'ul Tq'an and contending with the other branches for resources, precedence and favor.
       - level: 7

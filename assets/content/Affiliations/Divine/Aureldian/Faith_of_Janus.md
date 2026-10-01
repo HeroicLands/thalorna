@@ -39,12 +39,12 @@ data:
           Ordained priests throughout the cities, who keep local temples, witness oaths and contracts, and perform the ceremonies of blessing and condemnation.
       - level: 4
         title: Praetores Templi
-        lore: highpriestrnk
+        lore: seatedelderrnk
         description: >-
           Temple Judges—fifteen or twenty seniors of the Collegium Sacerdotalis who oversee the major temples and form the priesthood's administrative body.
       - level: 5
         title: Pontifex Iuris
-        lore: grandmasterrnk
+        lore: highpriestrnk
         description: >-
           High Judge and keeper of cosmic law; final arbiter of doctrine, whose counsel weighs on kings and city councils across western Ankaris.
     offices:

@@ -49,7 +49,7 @@ data:
           Of the senatorial families, holding a seat for life and the empire's highest civil offices with it.
       - level: 7
         title: Consular
-        lore: highpriestrnk
+        lore: formermagrnk
         description: Having held the consulship, and eligible thereafter for the greatest provincial commands.
       - level: 8
         title: Emperor
