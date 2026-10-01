@@ -1,10 +1,6 @@
 ---
 shortcode: yasurajckl
-name:
-  full: Yâsûra the Jackal
-  given: Yâsûra
-  clan: ""
-  aliases: [The Jackal-Queen, The Unhoused, Yâsûra]
+name: {full: Yâsûra the Jackal, given: Yâsûra, aliases: [The Jackal-Queen, The Unhoused, Yâsûra]}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, soldiery]

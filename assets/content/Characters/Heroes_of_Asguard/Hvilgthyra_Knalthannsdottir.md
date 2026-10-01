@@ -3,7 +3,6 @@ shortcode: hvlgthyrknlthnsdtr
 name:
   full: Hvilgthýra Knalthannsdóttir
   given: Hvilgthýra
-  clan: null
   aliases: [Knalthannsdóttir, Hvilgthýra Knalthannsdóttir]
 type: being
 subType: character

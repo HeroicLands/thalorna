@@ -1,6 +1,6 @@
 ---
 shortcode: krldthnshldbr
-name: {full: Krildthann Shieldbearer, given: Krildthann, clan: null, aliases: [Shieldbearer]}
+name: {full: Krildthann Shieldbearer, given: Krildthann, aliases: [Shieldbearer]}
 type: being
 subType: character
 tags: [paragon, heroes-of-asguard, soldiery]

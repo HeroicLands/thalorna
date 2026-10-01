@@ -1,6 +1,6 @@
 ---
 shortcode: vrthvrirnfst
-name: {full: Vruthvir Ironfist, given: Vruthvir, clan: null, aliases: [Ironfist]}
+name: {full: Vruthvir Ironfist, given: Vruthvir, aliases: [Ironfist]}
 type: being
 subType: character
 tags: [paragon, heroes-of-asguard, soldiery]

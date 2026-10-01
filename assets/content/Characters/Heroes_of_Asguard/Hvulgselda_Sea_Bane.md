@@ -1,6 +1,6 @@
 ---
 shortcode: hvlgsldsbn
-name: {full: Hvulgselda Sea-Bane, given: Hvulgselda, clan: null, aliases: [Sea-Bane]}
+name: {full: Hvulgselda Sea-Bane, given: Hvulgselda, aliases: [Sea-Bane]}
 type: being
 subType: character
 tags: [paragon, heroes-of-asguard, soldiery]

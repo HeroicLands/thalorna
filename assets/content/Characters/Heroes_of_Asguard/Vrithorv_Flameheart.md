@@ -1,6 +1,6 @@
 ---
 shortcode: vrthrvflmhrt
-name: {full: Vrithorv Flameheart, given: Vrithorv, clan: null, aliases: [Flameheart]}
+name: {full: Vrithorv Flameheart, given: Vrithorv, aliases: [Flameheart]}
 type: being
 subType: character
 tags: [paragon, heroes-of-asguard, soldiery]

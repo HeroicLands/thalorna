@@ -3,7 +3,6 @@ shortcode: skrldthnflbld
 name:
   full: Skruldthann the Fellblade
   given: Skruldthann
-  clan: null
   aliases: [the Fellblade, Skruldthann the Fellblade]
 type: being
 subType: character

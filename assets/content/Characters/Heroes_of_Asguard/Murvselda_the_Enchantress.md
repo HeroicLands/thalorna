@@ -1,6 +1,6 @@
 ---
 shortcode: mrvsldenchntrs
-name: {full: Murvselda the Enchantress, given: Murvselda, clan: null, aliases: [the Enchantress]}
+name: {full: Murvselda the Enchantress, given: Murvselda, aliases: [the Enchantress]}
 type: being
 subType: character
 tags: [paragon, heroes-of-asguard, administration]
