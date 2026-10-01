@@ -482,7 +482,7 @@ Ralthýra seeks not fortune nor fame, but redemption—both her own and that of 
 
 ## Plot Hooks
 
-1. **The Singing Stone**: A scholar seeking Ralthýra claims that ancient texts describe a legendary artifact—the Singing Stone of Asgard—whose power can only be awakened through a voice of perfect purity. He believes Ralthýra is the key to recovering it from a temple buried beneath Nordheim's oldest districts. What he doesn't know is that darker forces have also caught wind of this rumor, and they would sacrifice far more than ancient stone to possess such power. Ralthýra must navigate the intersection of faith, greed, and ancient magic.
+1. **The Singing Stone**: A scholar seeking Ralthýra claims that ancient texts describe a legendary artifact—the Singing Stone of Asguard—whose power can only be awakened through a voice of perfect purity. He believes Ralthýra is the key to recovering it from a temple buried beneath Nordheim's oldest districts. What he doesn't know is that darker forces have also caught wind of this rumor, and they would sacrifice far more than ancient stone to possess such power. Ralthýra must navigate the intersection of faith, greed, and ancient magic.
 
 2. **Memory in Melody**: A mysterious figure approaches Ralthýra, offering substantial coin to help recover a stolen musical score said to contain encrypted messages crucial to a political uprising. The requester claims the oppressed people of a neighboring kingdom depend on her aid. Yet accepting this task would make Ralthýra an unwitting pawn in a conflict between nobles, and the true contents of the score—and the true intended use of its decryption—remain obscure and potentially devastating.
 

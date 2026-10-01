@@ -469,7 +469,7 @@ Thraldorv seeks primarily the satisfaction of doing his work well—to earn fair
 
 - **Lord Henrick Thorne**: A merchant prince of considerable wealth who has employed Thraldorv multiple times for extended contracts, though their current relationship is strained due to personal complications
 - **The Vithgard Mercenaries Guild**: Though not formally a member by choice, the Guild regularly contracts his services for their most dangerous work and provides steady flow of employment
-- **High Priestess Ellara of the Asgardian Temple**: Spiritual authority who has occasionally hired him for sacred protection duties and who views him as a man of real, if conflicted, faith
+- **High Priestess Ellara of the Asguardian Temple**: Spiritual authority who has occasionally hired him for sacred protection duties and who views him as a man of real, if conflicted, faith
 
 ### Enemies
 
@@ -480,13 +480,13 @@ Thraldorv seeks primarily the satisfaction of doing his work well—to earn fair
 ### Affiliations
 
 - **Vithgard Mercenaries Guild**: The primary employment network and social structure for warriors-for-hire throughout the kingdom
-- **The Asgardian Brotherhood**: Informal fellowship of men devoted to **Hrímthur**'s aspect of creation and strength; mostly warriors, craftspeople, and those who revere the primal forces
+- **The Asguardian Brotherhood**: Informal fellowship of men devoted to **Hrímthur**'s aspect of creation and strength; mostly warriors, craftspeople, and those who revere the primal forces
 
 ## Plot Hooks
 
 1. **The Ghost of Greystones**: A young warrior appears in Vithgard's settlements claiming to be Thraldorv's lost brother—the brother he watched die during their training under **Kael Marvarukh** nearly twenty years past. The appearance is uncanny; the man bears the exact same mark on his left shoulder that Thraldorv's brother possessed. Yet investigation reveals the man has no history before three years ago. Thraldorv becomes obsessed with discovering whether this is a resurrection, an imposter, or a curse, and finds his famous focus fragmenting as the question consumes him.
 
-2. **The Sacred Blade Contract**: The High Priestess **Ellara** approaches Thraldorv with a contract unlike any he has accepted before—to retrieve a holy artifact, the Blade of First Creation, stolen from the Asgardian Temple by mysterious raiders. The priestess confides that only Thraldorv possesses both the skill and the spiritual standing to bear the blade without corruption. Yet the trail leads him toward a revelation about his past that will shatter his understanding of his training under Kael Marvarukh and force him to reconcile the mentor he revered with a terrible historical truth.
+2. **The Sacred Blade Contract**: The High Priestess **Ellara** approaches Thraldorv with a contract unlike any he has accepted before—to retrieve a holy artifact, the Blade of First Creation, stolen from the Asguardian Temple by mysterious raiders. The priestess confides that only Thraldorv possesses both the skill and the spiritual standing to bear the blade without corruption. Yet the trail leads him toward a revelation about his past that will shatter his understanding of his training under Kael Marvarukh and force him to reconcile the mentor he revered with a terrible historical truth.
 
 3. **The Lord's Rebellion**: **Lord Henrick Thorne**, whom Thraldorv served faithfully for two years, approaches him with a covert proposal. Henrick has grown weary of serving the King and wishes to build an independent power base in a distant settlement. He offers Thraldorv a position as commander of an army of mercenaries, steady employment for life, and a share in the wealth they will build together—an offer that represents everything Thraldorv has been denied by his birth as third son. But accepting means betraying the Kingdom, breaking his implicit oath as a Vithgard citizen, and potentially facing former allies as enemies.
 

@@ -407,4 +407,4 @@ Since absorbing the Heart of the Firstborn, Gnuldrthýra possesses strength and 
 
 2. **The Heart's Price**—The power of the Heart of the Firstborn is slowly transforming Gnuldrthýra, making her more powerful but also more monstrous. She must find a way to control the transformation or risk losing her humanity entirely.
 
-3. **The Creator's Return**—Signs suggest that Hrímthur may be stirring from his indifference, drawn by the power Gnuldrthýra has claimed. Whether the god's attention is a blessing or a curse remains to be seen.
+3. **The Giant's Return**—Signs suggest that Hrímthur may be stirring from his indifference, drawn by the power Gnuldrthýra has claimed. Whether the god's attention is a blessing or a curse remains to be seen.

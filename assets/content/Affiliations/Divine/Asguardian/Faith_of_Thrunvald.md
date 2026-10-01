@@ -70,7 +70,7 @@ Thrúnvald is most famously depicted wielding his mighty hammer, Thrúnhamarr, a
 
 Thrúnvald's physical appearance is that of a giant among men, muscular and bearded, with a fierce yet protective demeanor. His followers include warriors, seafarers, and those who live by the strength of their arms. Temples dedicated to Thrúnvald are often located near the coast, filled with symbols of war and the sea—shields, swords, anchors, and depictions of fierce sea storms.
 
-In artistic representations, Thrúnvald is often shown driving his chariot pulled by two goats, Tanngrisnir and Tanngnjóstr, across the sky, creating thunder with each strike of Thrúnhamarr.
+In artistic representations, Thrúnvald is often shown driving his chariot pulled by two goats across the sky, creating thunder with each strike of Thrúnhamarr.
 
 ## Sacred Objects
 

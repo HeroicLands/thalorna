@@ -76,7 +76,7 @@ Nothing engages Njörven in melee. Its minions can be fought and the cult can be
 
 ## The Njörvar Question
 
-**Njörvar** is not one of the Asguardian Twelve. The name belongs to an older sea-power of the Nordlands, largely displaced by the Aesir and surviving now in place-names, in a few coastal observances the priests of Thrúnvald tolerate without approving, and in the horn that bears the name.
+**Njörvar** is not one of the Asguardian Twelve. The name belongs to an older sea-power of the Nordlands, largely displaced by the **Ásvinir** and surviving now in place-names, in a few coastal observances the priests of Thrúnvald tolerate without approving, and in the horn that bears the name.
 
 Every version of the story notices the resemblance between Njörvar and Njörven, and no two versions agree on what it means. Some tellings make them enemies of old, and the horn the instrument by which the elder power bound the younger the first time. Some make them kin. A few, told quietly and not in halls, make them the same thing under two names—which raises an obvious and unwelcome question about what the Ritual of Binding actually invokes.
 

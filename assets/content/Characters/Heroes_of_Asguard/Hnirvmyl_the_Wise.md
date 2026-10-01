@@ -367,7 +367,7 @@ Hnirvmýl stands 6'1" with a heavy, slightly stooped frame, weighing around 215 
 
 # Dossier {#dossier}
 
-Hnirvmýl was born under a sky darkened by ravens, a sign that **Ódvar** himself was watching over his birth. As a child, he displayed an insatiable curiosity, often wandering far from his village to explore ancient ruins and forgotten forests. He claimed to hear the whispers of Huginn and Muninn in the wind, guiding him to hidden knowledge and lost lore. By the time he reached adulthood, Hnirvmýl had become a renowned seer and runemaster, his wisdom sought by kings and warriors alike.
+Hnirvmýl was born under a sky darkened by ravens, a sign that **Ódvar** himself was watching over his birth. As a child, he displayed an insatiable curiosity, often wandering far from his village to explore ancient ruins and forgotten forests. He claimed to hear the whispers of **Hugvin** and **Munvin** in the wind, guiding him to hidden knowledge and lost lore. By the time he reached adulthood, Hnirvmýl had become a renowned seer and runemaster, his wisdom sought by kings and warriors alike.
 
 The most famous saga of Hnirvmýl the Wise tells of the time he was called upon to save his people from an impending war. Two powerful jarls were on the brink of battle, their armies ready to clash, when Hnirvmýl, guided by Ódvar's ravens, discovered an ancient rune that foretold the doom of both kingdoms if they went to war. With this knowledge, Hnirvmýl ventured into the heart of the enemy camp alone, using his mastery of runes to weave illusions and speak directly to the jarl's fears and ambitions. He revealed the prophecy, convincing both leaders to lay down their arms and unite against a common enemy—a monstrous jotunn that threatened their lands. Hnirvmýl's wisdom not only averted war but forged an alliance that saved countless lives, forever earning him the favor of Ódvar.
 
@@ -405,7 +405,7 @@ Hnirvmýl's runic mastery is unmatched in the northern lands; he can read omens 
 
 1. **The Shattered Rune**—Hnirvmýl has discovered fragments of an ancient rune that, when assembled, could reveal the location of Ódvar's lost eye. Rival factions—including Grimvald Iron-Eye and agents of the Ordo Arcanis—are also hunting the fragments. The party must help Hnirvmýl recover the pieces before they fall into the wrong hands.
 
-2. **The Silent Ravens**—Huginn and Muninn have gone silent. Hnirvmýl can no longer hear their whispers and fears something terrible has happened in the spirit realm. He needs companions to journey to the World Tree's roots and investigate what has disrupted the ravens' flight.
+2. **The Silent Ravens**—Hugvin and Munvin have gone silent. Hnirvmýl can no longer hear their whispers and fears something terrible has happened in the spirit realm. He needs companions to journey to the World Tree's roots and investigate what has disrupted the ravens' flight.
 
 3. **The Jarl's Dilemma**—Jarl Ulfric's son has been accused of murder, and the evidence is damning. Ulfric begs Hnirvmýl to use his sight to uncover the truth, but what Hnirvmýl sees in the runes implicates someone far more dangerous than anyone suspected.
 
