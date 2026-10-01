@@ -203,6 +203,156 @@
             "literal": "Lögstadar",
             "why": "the genitive of the place name Lögstead, inflected on its generic under § _Place names_; it stands as its own word in _Lögstadar Mál_ and in Hróaldr Lögstadar",
             "kinds": ["place"]
+        },
+        {
+            "literal": "Elder's Voice",
+            "why": "Aldarmál keeps the English phrase as its alias",
+            "kinds": []
+        },
+        {
+            "literal": "Order of the Radiant Hand",
+            "why": "Bjarthönd keeps the English phrase as its alias",
+            "kinds": []
+        },
+        {
+            "literal": "Oathkeepers",
+            "why": "Eidverdir keeps the English phrase as its alias",
+            "kinds": []
+        },
+        {
+            "literal": "Oathsworn",
+            "why": "Eidringr keeps the English phrase as its alias",
+            "kinds": []
+        },
+        {
+            "literal": "Order of the Sword",
+            "why": "Lögbrandr keeps the English phrase as its alias",
+            "kinds": []
+        },
+        {
+            "literal": "Sword of Eidgar",
+            "why": "Eidkáppar keeps the English phrase as its alias",
+            "kinds": []
+        },
+        {
+            "literal": "Healers of the Hearth",
+            "why": "Hallarvinir keeps the English phrase as its alias",
+            "kinds": []
+        },
+        {
+            "literal": "Heralds of Peace",
+            "why": "Fródberi keeps the English phrase as its alias",
+            "kinds": []
+        },
+        {
+            "literal": "Order of the Green Hand",
+            "why": "Grönhönd keeps the English phrase as its alias",
+            "kinds": []
+        },
+        {
+            "literal": "Harbingers of Despair",
+            "why": "Námaelendir keeps the English phrase as its alias",
+            "kinds": []
+        },
+        {
+            "literal": "Keepers of the Abyss",
+            "why": "Náverdir keeps the English phrase as its alias",
+            "kinds": []
+        },
+        {
+            "literal": "Nightstalkers",
+            "why": "Nóttgengir keeps the English phrase as its alias",
+            "kinds": []
+        },
+        {
+            "literal": "Order of the Void",
+            "why": "Nálok keeps the English phrase as its alias",
+            "kinds": []
+        },
+        {
+            "literal": "Order of the All-Seeing Eye",
+            "why": "Hugaett keeps the English phrase as its alias",
+            "kinds": []
+        },
+        {
+            "literal": "Order of the Raven",
+            "why": "Hrafnrún keeps the English phrase as its alias",
+            "kinds": []
+        },
+        {
+            "literal": "Gilded Voices",
+            "why": "Gullmál keeps the English phrase as its alias",
+            "kinds": []
+        },
+        {
+            "literal": "Keepers of the Golden Veil",
+            "why": "Gullverdir keeps the English phrase as its alias",
+            "kinds": []
+        },
+        {
+            "literal": "Order of the Enchanted Rose",
+            "why": "Sólvinir keeps the English phrase as its alias",
+            "kinds": []
+        },
+        {
+            "literal": "Flameguard",
+            "why": "Eldverdir keeps the English phrase as its alias",
+            "kinds": []
+        },
+        {
+            "literal": "Infernal Blades",
+            "why": "Eldúlfr keeps the English phrase as its alias",
+            "kinds": []
+        },
+        {
+            "literal": "Order of the Inferno",
+            "why": "Smideldr keeps the English phrase as its alias",
+            "kinds": []
+        },
+        {
+            "literal": "Hammer of Thrúnvald",
+            "why": "Hamardrengir keeps the English phrase as its alias",
+            "kinds": []
+        },
+        {
+            "literal": "Order of the Hammer",
+            "why": "Thrumuskjöldr keeps the English phrase as its alias",
+            "kinds": []
+        },
+        {
+            "literal": "Seaforged",
+            "why": "Hafskel keeps the English phrase as its alias",
+            "kinds": []
+        },
+        {
+            "literal": "Knights of the Shifting Shadow",
+            "why": "Vélskari keeps the English phrase as its alias",
+            "kinds": []
+        },
+        {
+            "literal": "Order of the Shifting Veil",
+            "why": "Skýgrímr keeps the English phrase as its alias",
+            "kinds": []
+        },
+        {
+            "literal": "Serpentfangs",
+            "why": "Ormgeir keeps the English phrase as its alias",
+            "kinds": []
+        },
+        {
+            "literal": "Cast Out of the Order",
+            "why": "Dróttvargr keeps the English phrase as its alias",
+            "kinds": []
+        },
+        {
+            "literal": "Devotee of the Order",
+            "why": "Dróttmadr keeps the English phrase as its alias",
+            "kinds": []
+        },
+        {
+            "literal": "Leader of the Order",
+            "why": "Dróttstjóri keeps the English phrase as its alias",
+            "kinds": []
         }
     ],
     "entries": [
@@ -7426,6 +7576,910 @@
                 "e13afb5f2:assets/content/Organizations/Skalds_Circle.md:80:34"
             ],
             "boldKind": "bare",
+            "historical": true
+        },
+        {
+            "oldName": "Eldingsekr",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Bjartbrandr",
+            "newAliases": ["Lightning Swords"],
+            "newPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Bjartbrandr.md",
+            "newShortcode": "bjartbrandr",
+            "newAddress": "affiliation-bjartbrandr",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "affiliation",
+            "subType": "order",
+            "description": "Elder-trained fighters of Bjartr's will.",
+            "note": "the bright blade, from `bjart-` (bright) and `-brandr` (a brand, either a firebrand or a blade). Eldingsekr was built from `elding-` and `-sekr`, neither of which the element lexicon publishes, so the compound rule refused it; the lawful coinage says the same thing from published stock, and the English phrase the faith note glossed it with is kept as the alias: the one body in Bjartr's service built for battle, carrying the elder races' training as a blade of his light.",
+            "prose": null,
+            "oldRefPaths": [
+                "754a84b67:assets/content/Affiliations/Divine/Asguardian/Faith_of_Bjartr.md:123:5"
+            ],
+            "boldKind": "bare"
+        },
+        {
+            "oldName": "Elder's Voice",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Aldarmál",
+            "newAliases": ["Elder's Voice"],
+            "newPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Aldarmal.md",
+            "newShortcode": "aldarmal",
+            "newAddress": "affiliation-aldarmal",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "affiliation",
+            "subType": "order",
+            "description": "The rare standing between the elder races and mortals.",
+            "note": "the age's voice, from `aldar-` (an age's) and `-mál` (speech, and the voice a body speaks with). The order's own name in Nordmal, with the English phrase it answered to in Bjartr's faith note kept as its alias: the standing speaks between the elder races and mortals, so the name is the voice the elder age speaks with.",
+            "prose": null,
+            "oldRefPaths": [
+                "754a84b67:assets/content/Affiliations/Divine/Asguardian/Faith_of_Bjartr.md:119:5"
+            ],
+            "boldKind": "bare"
+        },
+        {
+            "oldName": "Order of the Radiant Hand",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Bjarthönd",
+            "newAliases": ["Order of the Radiant Hand"],
+            "newPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Bjarthond.md",
+            "newShortcode": "bjarthond",
+            "newAddress": "affiliation-bjarthond",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "affiliation",
+            "subType": "order",
+            "description": "Healing and counsel in Bjartr's light.",
+            "note": "the bright hand, from `bjart-` (bright) and `-hönd` (a hand). The order's own name in Nordmal, with the English phrase it answered to in Bjartr's faith note kept as its alias: healers and counselors who tend a wound and a troubled dream as one care, so the hand that carries Bjartr's light.",
+            "prose": null,
+            "oldRefPaths": [
+                "754a84b67:assets/content/Affiliations/Divine/Asguardian/Faith_of_Bjartr.md:118:5"
+            ],
+            "boldKind": "bare"
+        },
+        {
+            "oldName": "Oathkeepers",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Eidverdir",
+            "newAliases": ["The Oathkeepers"],
+            "newPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Eidverdir.md",
+            "newShortcode": "eidverdir",
+            "newAddress": "affiliation-eidverdir",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "affiliation",
+            "subType": "order",
+            "description": "Warriors sworn to Eidgar's heaviest oaths.",
+            "note": "the oath-wards, from `eid-` (an oath sworn at a spear-point) and `-verdir` (wards, keepers). The order's own name in Nordmal, with the English phrase it answered to in Eidgar's faith note kept as its alias: warriors under oaths heavier than a soldier's, sworn to the defense of the faith and the hofs where its tings sit.",
+            "prose": null,
+            "oldRefPaths": [
+                "754a84b67:assets/content/Affiliations/Divine/Asguardian/Faith_of_Eidgar.md:133:5"
+            ],
+            "boldKind": "bare"
+        },
+        {
+            "oldName": "Oathsworn",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Eidringr",
+            "newAliases": ["The Oathsworn"],
+            "newPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Eidringr.md",
+            "newShortcode": "eidringr",
+            "newAddress": "affiliation-eidringr",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "affiliation",
+            "subType": "order",
+            "description": "Witnesses and mediators of Eidgar's sworn oaths.",
+            "note": "the oath-ring, from `eid-` (an oath sworn at a spear-point) and `-ringr` (a ring, and a circle of sworn men). The order's own name in Nordmal, with the English phrase it answered to in Eidgar's faith note kept as its alias: priests who witness an oath and keep its memory, a circle of sworn men answering to neither side of a quarrel.",
+            "prose": null,
+            "oldRefPaths": [
+                "754a84b67:assets/content/Affiliations/Divine/Asguardian/Faith_of_Eidgar.md:128:5"
+            ],
+            "boldKind": "bare"
+        },
+        {
+            "oldName": "Order of the Sword",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Lögbrandr",
+            "newAliases": ["Order of the Sword"],
+            "newPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Logbrandr.md",
+            "newShortcode": "logbrandr",
+            "newAddress": "affiliation-logbrandr",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "affiliation",
+            "subType": "order",
+            "description": "Combat and justice at Eidgar's hofs.",
+            "note": "the law's blade, from `lög-` (the law as it is recited) and `-brandr` (a brand, either a firebrand or a blade). The order's own name in Nordmal, with the English phrase it answered to in Eidgar's faith note kept as its alias: priests who hear a dispute at the hof where the ting sits and draw the blade that enforces the ruling.",
+            "prose": null,
+            "oldRefPaths": [
+                "754a84b67:assets/content/Affiliations/Divine/Asguardian/Faith_of_Eidgar.md:127:5"
+            ],
+            "boldKind": "bare"
+        },
+        {
+            "oldName": "Sword of Eidgar",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Eidkáppar",
+            "newAliases": ["Sword of Eidgar"],
+            "newPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Eidkappar.md",
+            "newShortcode": "eidkappar",
+            "newAddress": "affiliation-eidkappar",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "affiliation",
+            "subType": "order",
+            "description": "Eidgar's fighting order of honorable combat.",
+            "note": "the oath-champions, from `eid-` (an oath sworn at a spear-point) and `-káppar` (champions). The order's own name in Nordmal, with the English phrase it answered to in Eidgar's faith note kept as its alias: the faith's elite fighting order, the arm a ting's ruling calls on when it needs one.",
+            "prose": null,
+            "oldRefPaths": [
+                "754a84b67:assets/content/Affiliations/Divine/Asguardian/Faith_of_Eidgar.md:132:5"
+            ],
+            "boldKind": "bare"
+        },
+        {
+            "oldName": "Healers of the Hearth",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Hallarvinir",
+            "newAliases": ["Healers of the Hearth"],
+            "newPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Hallarvinir.md",
+            "newShortcode": "hallarvinir",
+            "newAddress": "affiliation-hallarvinir",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "affiliation",
+            "subType": "order",
+            "description": "Body and soul tended at Fródvin's infirmaries.",
+            "note": "the hall's friends, from `hallar-` (a great hall's) and `-vinir` (friends). The order's own name in Nordmal, with the English phrase it answered to in Fródvin's faith note kept as its alias: indoor and constant work at the valley infirmaries, the sick tended and the distressed comforted as a household's own would be.",
+            "prose": null,
+            "oldRefPaths": [
+                "754a84b67:assets/content/Affiliations/Divine/Asguardian/Faith_of_Frodvin.md:130:5"
+            ],
+            "boldKind": "bare"
+        },
+        {
+            "oldName": "Heralds of Peace",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Fródberi",
+            "newAliases": ["Heralds of Peace"],
+            "newPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Frodberi.md",
+            "newShortcode": "frodberi",
+            "newAddress": "affiliation-frodberi",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "affiliation",
+            "subType": "order",
+            "description": "Mediation and harmony in Fródvin's name.",
+            "note": "the peace-bearer, from `fród-` (the peace that wisdom buys) and `-beri` (one who bears a thing). The order's own name in Nordmal, with the English phrase it answered to in Fródvin's faith note kept as its alias: mediators who carry Fródvin's peace into a quarrel before it reaches the ting.",
+            "prose": null,
+            "oldRefPaths": [
+                "754a84b67:assets/content/Affiliations/Divine/Asguardian/Faith_of_Frodvin.md:129:5"
+            ],
+            "boldKind": "bare"
+        },
+        {
+            "oldName": "Order of the Green Hand",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Grönhönd",
+            "newAliases": ["Order of the Green Hand"],
+            "newPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Gronhond.md",
+            "newShortcode": "gronhond",
+            "newAddress": "affiliation-gronhond",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "affiliation",
+            "subType": "order",
+            "description": "Herb-lore and healing in Fródvin's service.",
+            "note": "the green hand, from `grön-` (green, and growing) and `-hönd` (a hand). The order's own name in Nordmal, with the English phrase it answered to in Fródvin's faith note kept as its alias: herbalists who keep the sacred groves and the herb-lore Fródvin's healing depends on.",
+            "prose": null,
+            "oldRefPaths": [
+                "754a84b67:assets/content/Affiliations/Divine/Asguardian/Faith_of_Frodvin.md:128:5"
+            ],
+            "boldKind": "bare"
+        },
+        {
+            "oldName": "Harbingers of Despair",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Námaelendir",
+            "newAliases": ["Harbingers of Despair"],
+            "newPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Namaelendir.md",
+            "newShortcode": "namaelendir",
+            "newAddress": "affiliation-namaelendir",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "affiliation",
+            "subType": "order",
+            "description": "Náhild's doctrine spread through fear.",
+            "note": "the corpse-speakers, from `ná-` (a corpse) and `-maelendir` (ones that speak). The order's own name in Nordmal, with the English phrase it answered to in Náhild's faith note kept as its alias: they carry Náhild's doctrine beyond her hidden hofs by speaking it where a public blót could never reach.",
+            "prose": null,
+            "oldRefPaths": [
+                "754a84b67:assets/content/Affiliations/Divine/Asguardian/Faith_of_Nahild.md:124:5"
+            ],
+            "boldKind": "bare"
+        },
+        {
+            "oldName": "Keepers of the Abyss",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Náverdir",
+            "newAliases": ["Keepers of the Abyss"],
+            "newPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Naverdir.md",
+            "newShortcode": "naverdir",
+            "newAddress": "affiliation-naverdir",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "affiliation",
+            "subType": "order",
+            "description": "Guardians and inquisitors of Náhild's hidden hofs.",
+            "note": "the corpse-wards, from `ná-` (a corpse) and `-verdir` (wards, keepers). The order's own name in Nordmal, with the English phrase it answered to in Náhild's faith note kept as its alias: the cult's own inquisitors, guarding her hidden hofs and the rites kept inside them.",
+            "prose": null,
+            "oldRefPaths": [
+                "754a84b67:assets/content/Affiliations/Divine/Asguardian/Faith_of_Nahild.md:123:5"
+            ],
+            "boldKind": "bare"
+        },
+        {
+            "oldName": "Nightstalkers",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Nóttgengir",
+            "newAliases": ["The Nightstalkers"],
+            "newPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Nottgengir.md",
+            "newShortcode": "nottgengir",
+            "newAddress": "affiliation-nottgengir",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "affiliation",
+            "subType": "order",
+            "description": "Náhild's elite assassins.",
+            "note": "the night-goers, from `nótt-` (night) and `-gengir` (ones that go). The order's own name in Nordmal, with the English phrase it answered to in Náhild's faith note kept as its alias: her assassins, whose killings are chosen for the fear they spread as much as for the target.",
+            "prose": null,
+            "oldRefPaths": [
+                "754a84b67:assets/content/Affiliations/Divine/Asguardian/Faith_of_Nahild.md:129:5"
+            ],
+            "boldKind": "bare"
+        },
+        {
+            "oldName": "Order of the Void",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Nálok",
+            "newAliases": ["Order of the Void"],
+            "newPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Nalok.md",
+            "newShortcode": "nalok",
+            "newAddress": "affiliation-nalok",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "affiliation",
+            "subType": "order",
+            "description": "Náhild's hidden cult of the Eye of the Void.",
+            "note": "the corpse-end, from `ná-` (a corpse) and `-lok` (a close, an end). The order's own name in Nordmal, with the English phrase it answered to in Náhild's faith note kept as its alias: the hidden cult of the ending, widening the Eye of the Void's reach where no outsider can see the work.",
+            "prose": null,
+            "oldRefPaths": [
+                "754a84b67:assets/content/Affiliations/Divine/Asguardian/Faith_of_Nahild.md:122:5"
+            ],
+            "boldKind": "bare"
+        },
+        {
+            "oldName": "Order of the All-Seeing Eye",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Hugaett",
+            "newAliases": ["Order of the All-Seeing Eye"],
+            "newPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Hugaett.md",
+            "newShortcode": "hugaett",
+            "newAddress": "affiliation-hugaett",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "affiliation",
+            "subType": "order",
+            "description": "The pursuit and keeping of Ódvar's knowledge.",
+            "note": "the kin of thought, from `hug-` (thought) and `-aett` (a kin reckoned together). The order's own name in Nordmal, with the English phrase it answered to in Ódvar's faith note kept as its alias: the most learned of Ódvar's faithful, reckoned together as one body and keeping the libraries at its temples.",
+            "prose": null,
+            "oldRefPaths": [
+                "754a84b67:assets/content/Affiliations/Divine/Asguardian/Faith_of_Odvar.md:133:5"
+            ],
+            "boldKind": "bare"
+        },
+        {
+            "oldName": "Order of the Raven",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Hrafnrún",
+            "newAliases": ["Order of the Raven"],
+            "newPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Hrafnrun.md",
+            "newShortcode": "hrafnrun",
+            "newAddress": "affiliation-hrafnrun",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "affiliation",
+            "subType": "order",
+            "description": "Rune-lore and divination in Ódvar's service.",
+            "note": "the raven-rune, from `hrafn-` (a raven) and `-rún` (a rune). The order's own name in Nordmal, with the English phrase it answered to in Ódvar's faith note kept as its alias: rune-lore and divination, the staves cast for warbands, jarls and households who need counsel a blót does not supply.",
+            "prose": null,
+            "oldRefPaths": [
+                "754a84b67:assets/content/Affiliations/Divine/Asguardian/Faith_of_Odvar.md:132:5"
+            ],
+            "boldKind": "bare"
+        },
+        {
+            "oldName": "Gilded Voices",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Gullmál",
+            "newAliases": ["Gilded Voices"],
+            "newPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Gullmal.md",
+            "newShortcode": "gullmal",
+            "newAddress": "affiliation-gullmal",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "affiliation",
+            "subType": "order",
+            "description": "Diplomacy and persuasion for Sólrún's faith.",
+            "note": "the gold-speech, from `gull-` (gold) and `-mál` (speech, and the voice a body speaks with). The order's own name in Nordmal, with the English phrase it answered to in Sólrún's faith note kept as its alias: the voice Sólrún's faith speaks with in dealings no blunter envoy could carry.",
+            "prose": null,
+            "oldRefPaths": [
+                "754a84b67:assets/content/Affiliations/Divine/Asguardian/Faith_of_Solrun.md:130:5"
+            ],
+            "boldKind": "bare"
+        },
+        {
+            "oldName": "Keepers of the Golden Veil",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Gullverdir",
+            "newAliases": ["Keepers of the Golden Veil"],
+            "newPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Gullverdir.md",
+            "newShortcode": "gullverdir",
+            "newAddress": "affiliation-gullverdir",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "affiliation",
+            "subType": "order",
+            "description": "Guardians of Sólrún's sacred wealth.",
+            "note": "the gold-wards, from `gull-` (gold) and `-verdir` (wards, keepers). The order's own name in Nordmal, with the English phrase it answered to in Sólrún's faith note kept as its alias: they hold the gold given away at her rites in trust and answer for every coin that passes a hof's doors.",
+            "prose": null,
+            "oldRefPaths": [
+                "754a84b67:assets/content/Affiliations/Divine/Asguardian/Faith_of_Solrun.md:129:5"
+            ],
+            "boldKind": "bare"
+        },
+        {
+            "oldName": "Order of the Enchanted Rose",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Sólvinir",
+            "newAliases": ["Order of the Enchanted Rose"],
+            "newPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Solvinir.md",
+            "newShortcode": "solvinir",
+            "newAddress": "affiliation-solvinir",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "affiliation",
+            "subType": "order",
+            "description": "Love and beauty counseled in Sólrún's name.",
+            "note": "the sun's friends, from `sól-` (the sun) and `-vinir` (friends). The order's own name in Nordmal, with the English phrase it answered to in Sólrún's faith note kept as its alias: trained in love and beauty and set at the courts of the powerful, who seek Sólrún's favor through them.",
+            "prose": null,
+            "oldRefPaths": [
+                "754a84b67:assets/content/Affiliations/Divine/Asguardian/Faith_of_Solrun.md:128:5"
+            ],
+            "boldKind": "bare"
+        },
+        {
+            "oldName": "Flameguard",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Eldverdir",
+            "newAliases": ["The Flameguard"],
+            "newPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Eldverdir.md",
+            "newShortcode": "eldverdir",
+            "newAddress": "affiliation-eldverdir",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "affiliation",
+            "subType": "order",
+            "description": "A militant order guarding Svartbrandr's forges.",
+            "note": "the fire-wards, from `eld-` (fire) and `-verdir` (wards, keepers). The order's own name in Nordmal, with the English phrase it answered to in Svartbrandr's faith note kept as its alias: they stand watch over a forge-hof through its Fire-Weeks and answer a threat with the same flame the rite uses.",
+            "prose": null,
+            "oldRefPaths": [
+                "754a84b67:assets/content/Affiliations/Divine/Asguardian/Faith_of_Svartbrandr.md:130:5"
+            ],
+            "boldKind": "bare"
+        },
+        {
+            "oldName": "Infernal Blades",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Eldúlfr",
+            "newAliases": ["Infernal Blades"],
+            "newPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Eldulfr.md",
+            "newShortcode": "eldulfr",
+            "newAddress": "affiliation-eldulfr",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "affiliation",
+            "subType": "order",
+            "description": "Svartbrandr's elite warriors of the forge-hofs.",
+            "note": "the fire-wolf, from `eld-` (fire) and `-úlfr` (a wolf). The order's own name in Nordmal, with the English phrase it answered to in Svartbrandr's faith note kept as its alias: elite warriors known through the forge-hofs for a ferocity the god's own ordeals are built to prove.",
+            "prose": null,
+            "oldRefPaths": [
+                "754a84b67:assets/content/Affiliations/Divine/Asguardian/Faith_of_Svartbrandr.md:129:5"
+            ],
+            "boldKind": "bare"
+        },
+        {
+            "oldName": "Order of the Inferno",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Smideldr",
+            "newAliases": ["Order of the Inferno"],
+            "newPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Smideldr.md",
+            "newShortcode": "smideldr",
+            "newAddress": "affiliation-smideldr",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "affiliation",
+            "subType": "order",
+            "description": "Fire mastered for Svartbrandr's forges.",
+            "note": "the smith-fire, from `smid-` (a smith) and `-eldr` (fire). The order's own name in Nordmal, with the English phrase it answered to in Svartbrandr's faith note kept as its alias: blacksmiths and forge-masters who tend the bellows keeping a forge-hof's ordeals burning.",
+            "prose": null,
+            "oldRefPaths": [
+                "754a84b67:assets/content/Affiliations/Divine/Asguardian/Faith_of_Svartbrandr.md:125:5"
+            ],
+            "boldKind": "bare"
+        },
+        {
+            "oldName": "Hammer of Thrúnvald",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Hamardrengir",
+            "newAliases": ["Hammer of Thrúnvald"],
+            "newPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Hamardrengir.md",
+            "newShortcode": "hamardrengir",
+            "newAddress": "affiliation-hamardrengir",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "affiliation",
+            "subType": "order",
+            "description": "Thrúnvald's fighting order of hammer-warriors.",
+            "note": "the hammer-warriors, from `hamar-` (a hammer) and `-drengir` (warriors). The order's own name in Nordmal, with the English phrase it answered to in Thrúnvald's faith note kept as its alias: the faith's fighting order, wielding war-hammers in defense of the coastal hofs and the ships blessed from them.",
+            "prose": null,
+            "oldRefPaths": [
+                "754a84b67:assets/content/Affiliations/Divine/Asguardian/Faith_of_Thrunvald.md:132:5"
+            ],
+            "boldKind": "bare"
+        },
+        {
+            "oldName": "Order of the Hammer",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Thrumuskjöldr",
+            "newAliases": ["Order of the Hammer"],
+            "newPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Thrumuskjoldr.md",
+            "newShortcode": "thrumuskjoldr",
+            "newAddress": "affiliation-thrumuskjoldr",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "affiliation",
+            "subType": "order",
+            "description": "Combat and protection at Thrúnvald's coastal hofs.",
+            "note": "the thunder-shield, from `thrumu-` (thunder) and `-skjöldr` (a shield). The order's own name in Nordmal, with the English phrase it answered to in Thrúnvald's faith note kept as its alias: priests trained in combat and protection, standing guard over a coastal hof's stores and its people.",
+            "prose": null,
+            "oldRefPaths": [
+                "754a84b67:assets/content/Affiliations/Divine/Asguardian/Faith_of_Thrunvald.md:127:5"
+            ],
+            "boldKind": "bare"
+        },
+        {
+            "oldName": "Seaforged",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Hafskel",
+            "newAliases": ["The Seaforged"],
+            "newPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Hafskel.md",
+            "newShortcode": "hafskel",
+            "newAddress": "affiliation-hafskel",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "affiliation",
+            "subType": "order",
+            "description": "Naval combat trained at sea for Thrúnvald.",
+            "note": "the sea-plate, from `haf-` (the open sea) and `-skel` (a shell, and a plate of iron). The order's own name in Nordmal, with the English phrase it answered to in Thrúnvald's faith note kept as its alias: fighters drilled at sea rather than ashore into masters of naval combat and the defense of a ship under way.",
+            "prose": null,
+            "oldRefPaths": [
+                "754a84b67:assets/content/Affiliations/Divine/Asguardian/Faith_of_Thrunvald.md:133:5"
+            ],
+            "boldKind": "bare"
+        },
+        {
+            "oldName": "Knights of the Shifting Shadow",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Vélskari",
+            "newAliases": ["Knights of the Shifting Shadow"],
+            "newPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Velskari.md",
+            "newShortcode": "velskari",
+            "newAddress": "affiliation-velskari",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "affiliation",
+            "subType": "order",
+            "description": "A militant order guarding Vélgrímr's temples.",
+            "note": "the troop of guile, from `vél-` (a wile) and `-skari` (a troop). The order's own name in Nordmal, with the English phrase it answered to in Vélgrímr's faith note kept as its alias: a militant order guarding his hidden temples by stealth and strategy, since open force would break the secrecy it defends.",
+            "prose": null,
+            "oldRefPaths": [
+                "754a84b67:assets/content/Affiliations/Divine/Asguardian/Faith_of_Velgrimr.md:131:5"
+            ],
+            "boldKind": "bare"
+        },
+        {
+            "oldName": "Order of the Shifting Veil",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Skýgrímr",
+            "newAliases": ["Order of the Shifting Veil"],
+            "newPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Skygrimr.md",
+            "newShortcode": "skygrimr",
+            "newAddress": "affiliation-skygrimr",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "affiliation",
+            "subType": "order",
+            "description": "Illusion and disguise in Vélgrímr's service.",
+            "note": "the cloud-mask, from `ský-` (cloud) and `-grímr` (a mask). The order's own name in Nordmal, with the English phrase it answered to in Vélgrímr's faith note kept as its alias: priests of illusion and disguise, moving through Malagna's ports under a face not their own.",
+            "prose": null,
+            "oldRefPaths": [
+                "754a84b67:assets/content/Affiliations/Divine/Asguardian/Faith_of_Velgrimr.md:126:5"
+            ],
+            "boldKind": "bare"
+        },
+        {
+            "oldName": "Serpentfangs",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Ormgeir",
+            "newAliases": ["The Serpentfangs"],
+            "newPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Ormgeir.md",
+            "newShortcode": "ormgeir",
+            "newAddress": "affiliation-ormgeir",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "affiliation",
+            "subType": "order",
+            "description": "Poison-trained fighters of Vélgrímr.",
+            "note": "the wyrm's point, from `orm-` (a wyrm) and `-geir` (a spear). The order's own name in Nordmal, with the English phrase it answered to in Vélgrímr's faith note kept as its alias: they fight by poison as much as by blade, carrying venom prepared at the hidden hofs of Malagna's ports.",
+            "prose": null,
+            "oldRefPaths": [
+                "754a84b67:assets/content/Affiliations/Divine/Asguardian/Faith_of_Velgrimr.md:130:5"
+            ],
+            "boldKind": "bare"
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Hringsystur",
+            "newAliases": ["The Ring-Sisters"],
+            "newPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Hringsystur.md",
+            "newShortcode": "hringsystur",
+            "newAddress": "affiliation-hringsystur",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "affiliation",
+            "subType": "order",
+            "description": "Sólrún's sworn women, wealth made and given away.",
+            "note": "the ring-sisters, from `hring-` (a ring given at a hall) and `-systur` (sisters). The order's own name in Nordmal, with the English phrase it answered to in Sólrún's faith note kept as its alias: Sólrún's sworn women, making wealth and giving it away, armed at a feast-hall's door and keeping its ledgers alike. The name already stood in the faith's prose and the note carries it unchanged.",
+            "prose": null,
+            "oldRefPaths": [
+                "754a84b67:assets/content/Affiliations/Divine/Asguardian/Faith_of_Solrun.md:134:5"
+            ],
+            "boldKind": "bare"
+        },
+        {
+            "oldName": "Cast Out of the Order",
+            "oldAliases": ["Expelled", "Put Out"],
+            "oldPath": "assets/content/Lore/Ranks/Nordheimn/Devotional_Orders/Cast_Out_of_the_Order.md",
+            "oldShortcode": "ordercastoutrnk",
+            "oldAddress": "lore-ordercastoutrnk",
+            "oldImage": null,
+            "newName": "Dróttvargr",
+            "newAliases": ["Cast Out of the Order"],
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Devotional_Orders/Drottvargr.md",
+            "newShortcode": "drottvargrrnk",
+            "newAddress": "lore-drottvargrrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "law",
+            "description": "Put out of a devotional order of the faiths of the Ten, forfeiting its shelter and its purpose alike.",
+            "note": "the sworn band's outlaw, from `drótt-` (a war-band sworn to one man) and `-vargr` (an outlaw, a wolf in the law's eye). The three standings every one of the twenty-nine shares are built on one element, so the ladder reads as one, as Grönvördr and Eldri Grönvördr do. A closing that names what a member has become is not an office suffix by § _Ranks, offices and orders_, which is why this one is a plain compound where the other two take office suffixes — the same shape Sárborinn carries. The two single-word aliases go: an alias is an English phrase that says what a thing is.",
+            "prose": null,
+            "oldRefPaths": [
+                "2aeb3e72e:assets/content/Lore/Ranks/Nordheimn/Devotional_Orders/Cast_Out_of_the_Order.md:3:15"
+            ],
+            "boldKind": "none"
+        },
+        {
+            "oldName": "Devotee",
+            "oldAliases": null,
+            "oldPath": "assets/content/Lore/Ranks/Nordheimn/Devotional_Orders/Devotee.md",
+            "oldShortcode": "orderdevoteernk",
+            "oldAddress": "lore-orderdevoteernk",
+            "oldImage": null,
+            "newName": "Dróttmadr",
+            "newAliases": ["Devotee of the Order"],
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Devotional_Orders/Drottmadr.md",
+            "newShortcode": "drottmadrrnk",
+            "newAddress": "lore-drottmadrrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "law",
+            "description": "The ordinary member of a devotional order of the faiths of the Ten, holding the least standing it confers.",
+            "note": "a man of the sworn band, from `drótt-` (a war-band sworn to one man) and `-madr` (a man holding a station). The alias is a phrase rather than the bare word, which an alias may not be.",
+            "prose": null,
+            "oldRefPaths": [
+                "2aeb3e72e:assets/content/Lore/Ranks/Nordheimn/Devotional_Orders/Devotee.md:3:15"
+            ],
+            "boldKind": "none"
+        },
+        {
+            "oldName": "Leader of the Order",
+            "oldAliases": null,
+            "oldPath": "assets/content/Lore/Ranks/Nordheimn/Devotional_Orders/Leader_of_the_Order.md",
+            "oldShortcode": "orderleaderrnk",
+            "oldAddress": "lore-orderleaderrnk",
+            "oldImage": null,
+            "newName": "Dróttstjóri",
+            "newAliases": ["Leader of the Order"],
+            "newPath": "assets/content/Lore/Ranks/Nordheimn/Devotional_Orders/Drottstjori.md",
+            "newShortcode": "drottstjorirnk",
+            "newAddress": "lore-drottstjorirnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "law",
+            "description": "The leading standing of a devotional order of the faiths of the Ten, holding its fullest claim on what it confers.",
+            "note": "the master of the sworn band, from `drótt-` (a war-band sworn to one man) and `-stjóri` (the master of a thing), the office suffix § _Ranks, offices and orders_ gives to the one office of a muster's or a household's master.",
+            "prose": null,
+            "oldRefPaths": [
+                "2aeb3e72e:assets/content/Lore/Ranks/Nordheimn/Devotional_Orders/Leader_of_the_Order.md:3:15"
+            ],
+            "boldKind": "none"
+        },
+        {
+            "oldName": "Seidrwiseman",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Hugfadir",
+            "newAliases": null,
+            "newPath": null,
+            "newShortcode": null,
+            "newAddress": null,
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "affiliation",
+            "subType": "order",
+            "description": "What Hugaett calls its members, the most learned of Ódvar's faithful and the keepers of its libraries.",
+            "note": "from `hug-` (thought) and `-fadir` (the father of a hof). A kept word is not an element, so no compound is built from `seidr`, and the half-English form was unbuildable twice over. The gendered pair follows Godi and Gydja, and `-fadir` and `-módir` are the one gendered pair the element tables publish; the order keeps its libraries at its temples, which is the hof the pair answers for.",
+            "prose": null,
+            "oldRefPaths": [
+                "2aeb3e72e:assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_the_All-Seeing_Eye.md:27:40"
+            ],
+            "boldKind": "none",
+            "historical": true
+        },
+        {
+            "oldName": "Seidrwisemen",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Hugfadir",
+            "newAliases": null,
+            "newPath": null,
+            "newShortcode": null,
+            "newAddress": null,
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "affiliation",
+            "subType": "order",
+            "description": "What Hugaett calls its members, the most learned of Ódvar's faithful and the keepers of its libraries.",
+            "note": "from `hug-` (thought) and `-fadir` (the father of a hof). A kept word is not an element, so no compound is built from `seidr`, and the half-English form was unbuildable twice over. The gendered pair follows Godi and Gydja, and `-fadir` and `-módir` are the one gendered pair the element tables publish; the order keeps its libraries at its temples, which is the hof the pair answers for.",
+            "prose": null,
+            "oldRefPaths": [
+                "2aeb3e72e:assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_the_All-Seeing_Eye.md:44:153"
+            ],
+            "boldKind": "none",
+            "historical": true
+        },
+        {
+            "oldName": "Seidrwisewoman",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Hugmódir",
+            "newAliases": null,
+            "newPath": null,
+            "newShortcode": null,
+            "newAddress": null,
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "affiliation",
+            "subType": "order",
+            "description": "What Hugaett calls its members, the most learned of Ódvar's faithful and the keepers of its libraries.",
+            "note": "from `hug-` (thought) and `-módir` (the mother of a hof). A kept word is not an element, so no compound is built from `seidr`, and the half-English form was unbuildable twice over. The gendered pair follows Godi and Gydja, and `-fadir` and `-módir` are the one gendered pair the element tables publish; the order keeps its libraries at its temples, which is the hof the pair answers for.",
+            "prose": null,
+            "oldRefPaths": [
+                "2aeb3e72e:assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_the_All-Seeing_Eye.md:27:56"
+            ],
+            "boldKind": "none",
+            "historical": true
+        },
+        {
+            "oldName": "Seidrwisewomen",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Hugmódir",
+            "newAliases": null,
+            "newPath": null,
+            "newShortcode": null,
+            "newAddress": null,
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "affiliation",
+            "subType": "order",
+            "description": "What Hugaett calls its members, the most learned of Ódvar's faithful and the keepers of its libraries.",
+            "note": "from `hug-` (thought) and `-módir` (the mother of a hof). A kept word is not an element, so no compound is built from `seidr`, and the half-English form was unbuildable twice over. The gendered pair follows Godi and Gydja, and `-fadir` and `-módir` are the one gendered pair the element tables publish; the order keeps its libraries at its temples, which is the hof the pair answers for.",
+            "prose": null,
+            "oldRefPaths": [
+                "2aeb3e72e:assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_the_All-Seeing_Eye.md:44:170"
+            ],
+            "boldKind": "none",
             "historical": true
         }
     ]

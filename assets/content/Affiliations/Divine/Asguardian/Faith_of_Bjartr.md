@@ -111,13 +111,8 @@ Human adherents of Bjartr have adopted the Sinalëan clergy structure—the only
 - **The Luminous Quest:** A task where the faithful must retrieve a lost artifact of light from a dark and dangerous place.
 - **The Rite of Pure Vision:** An ordeal involving a period of sensory deprivation, allowing the participant to experience true vision and clarity.
 
-## Orders
+## See Also
 
-**Clerical Orders:**
-
-- **Order of the Radiant Hand:** Priests dedicated to healing and spreading Bjartr's light, often serving as medics and counselors.
-- **Elder's Voice:** Priests who act as intermediaries between the elder races and mortals, preserving ancient knowledge and ensuring harmony. Very rare, no more than one or two (and very often none).
-
-**Fighting Orders:**
-
-- **Eldingsekr** ("Lightning Swords"): Fighters who have been trained by the elder races, using ancient techniques and magic to uphold Bjartr's will.
+- [[affiliation-bjarthond|Bjarthönd]]—the Order of the Radiant Hand, priests who heal and spread Bjartr's light
+- [[affiliation-aldarmal|Aldarmál]]—the Elder's Voice, the rare standing that speaks between the elder races and mortals
+- [[affiliation-bjartbrandr|Bjartbrandr]]—the Lightning Swords, elder-trained fighters of Bjartr's will

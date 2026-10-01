@@ -125,9 +125,7 @@ In artistic depictions, Ódvar is often shown holding a spear, Skjálfgeir, whic
 - **The Warrior's Vigil:** A night-long vigil where the faithful must stay awake, guarding a sacred site or artifact.
 - **The Raven's Oath:** A binding oath made under the watch of ravens, pledging commitment to a task or goal that must then be achieved.
 
-## Orders
+## See Also
 
-**Clerical Orders:**
-
-- **Order of the Raven:** Priests dedicated to the study of runes and divination, serving as advisors and seers.
-- **Order of the All-Seeing Eye:** Dedicated to the pursuit and preservation of knowledge, wisdom, and learning. Members are known as Seidrwisemen or Seidrwisewomen, and are considered the most learned among Ódvar's followers. Their temples contain vast libraries and archives.
+- [[affiliation-hrafnrun|Hrafnrún]]—the Order of the Raven, priests devoted to rune-lore and divination
+- [[affiliation-hugaett|Hugaett]]—the Order of the All-Seeing Eye, keepers of Ódvar's libraries and archives

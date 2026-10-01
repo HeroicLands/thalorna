@@ -121,10 +121,8 @@ Fródvin is often depicted as a serene and nurturing figure, radiating kindness 
 - **The Blessing of the Wild:** An ordeal where the participant must survive alone in the wilderness, relying on their connection to nature and Fródvin's guidance.
 - **The Seed of Life:** A ritual where the faithful must nurture a seedling through harsh conditions, ensuring its growth into a strong and healthy tree.
 
-## Orders
+## See Also
 
-**Clerical Orders:**
-
-- **Order of the Green Hand:** Priests dedicated to healing and the nurturing of the earth, often working as herbalists and caretakers of sacred groves.
-- **Heralds of Peace:** Mediators who specialize in resolving conflicts and maintaining harmony within and between communities.
-- **Healers of the Hearth:** Priests who focus on healing the body and soul, providing care for the sick and comforting the distressed.
+- [[affiliation-gronhond|Grönhönd]]—the Order of the Green Hand, herbalists and caretakers of the sacred groves
+- [[affiliation-frodberi|Fródberi]]—the Heralds of Peace, mediators who keep harmony within and between households
+- [[affiliation-hallarvinir|Hallarvinir]]—the Healers of the Hearth, priests who tend the sick and comfort the distressed

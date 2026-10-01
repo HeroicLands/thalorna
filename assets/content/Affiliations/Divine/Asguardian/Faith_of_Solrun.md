@@ -121,14 +121,9 @@ The faith's highest rank, Hofgodi/Hofgydja, is held by women alone.
 - **The Blessing of the Mirror:** A ritual where the faithful must gaze into the Mirror of Desire for an entire night, contemplating their deepest desires.
 - **The Gilded Harvest:** A task where participants must accumulate a significant amount of wealth through trade, negotiation, or other means, dedicating it to Sólrún's temples.
 
-## Orders
+## See Also
 
-**Clerical Orders:**
-
-- **Order of the Enchanted Rose:** Priests dedicated to mastering the arts of love and beauty, often serving as advisors to the powerful and influential.
-- **Keepers of the Golden Veil:** Guardians of Sólrún's sacred wealth, ensuring that the temples are prosperous and well-maintained.
-- **Gilded Voices:** Priests known for their persuasive abilities, often serving as diplomats, negotiators, and ambassadors.
-
-**Fighting Orders:**
-
-- **Hringsystur** (the Ring-Sisters): Sólrún's women, sworn to make wealth and give it away, who guard her halls and the gold that passes through them.
+- [[affiliation-solvinir|Sólvinir]]—the Order of the Enchanted Rose, priests who counsel the powerful in love and beauty
+- [[affiliation-gullverdir|Gullverdir]]—the Keepers of the Golden Veil, guardians of Sólrún's sacred wealth
+- [[affiliation-gullmal|Gullmál]]—the Gilded Voices, priests who serve her faith as diplomats and negotiators
+- [[affiliation-hringsystur|Hringsystur]]—the Ring-Sisters, sworn to make wealth and give it away
