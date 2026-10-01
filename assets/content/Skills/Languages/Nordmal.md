@@ -131,12 +131,16 @@ it past finding, so the northern word for a lawful gathering is the **ting**—a
 the handful of names that traveled with it, Torvald among them, keep the same
 hard opening.
 
-[[skill-varokhlng|Varokhi]] is romanized off the same table with the last row
-struck out. The southern tongue's length distinction is phonemic but unmarked in
-the mouth, so nothing in the spelling marks it either: a Varokhi name writes the
-dental fricative `th`, its voiced counterpart `d` and the low front vowel `ae`
-exactly as a Nordmal name does, and carries no acute anywhere. A form on a page
-with a length mark on it is a Nordmal form or somebody else's.
+[[skill-varokhlng|Varokhi]] is romanized off the same table with the row for the
+rounded back vowel struck out. The southern tongue's length distinction is
+phonemic and marked, so a Varokhi name writes the dental fricative `th`, its
+voiced counterpart `d`, the low front vowel `ae` and the acute for a long vowel
+exactly as a Nordmal name does. The mark therefore tells the two tongues
+nothing apart, and the letters do: **Nordmal writes no `w` and no `c`**, and
+Varokhi writes both freely, as Thráwald, Garwald and Wítharic show, while the
+`ö` of Blóthöll and Vörnheim belongs to the north alone. The closings part them
+a second time—a Nordmal name closes on `g`, `t` or `v` and a Varokhi name on
+`c`, `s` or `th`, and neither closes a name the way the other does.
 
 The [[skill-semrnscrpt|Sêmarion]] alphabet has become increasingly common for practical purposes, particularly in trade and maritime contexts. True literacy remains rare—confined to the priesthood, professional scribes, and a small minority of the nobility (perhaps 10-20%). Many jarls and thanes consider reading a scribe's task, not a warrior's, and keep household scribes for correspondence and record-keeping. Even in trading cities, most merchants rely on scribes for contracts and correspondence; a guildsman may recognize common trade marks and numerals but cannot read continuous text. Inland and rural populations are almost entirely non-literate. However, the cultural prestige of poetry and sagas means many non-literate Nordmen can recite extensive oral literature from memory.
 
