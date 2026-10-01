@@ -27,7 +27,7 @@ because a question the senior members agree on is rarely opposed by the rest.
 Nothing here is enforceable in the way an office is enforceable. The effect is
 procedural: a senior member is heard earlier, interrupted less, and answered
 differently, and the body's ancient forms—the order of speaking, the phrasing a
-motion takes, the courtesies owed—are the forms this standing's predecessors set.
+motion takes, the courtesies owed—are this standing's own custom made procedure.
 Mastering those forms is itself the qualification for being heard.
 
 ## Privileges
