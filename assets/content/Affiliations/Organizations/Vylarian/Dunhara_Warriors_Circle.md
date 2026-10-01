@@ -29,7 +29,7 @@ data:
           Named to the Circle by acclamation of the existing members, never by application and never by tribal appointment; one of the hundred and eight, wearing the indigo vâst-bahâr renewed at the Stone.
       - level: 2
         title: Vâst
-        lore: elderrnk
+        lore: seniormemberrnk
         description: >-
           Of the Tîgh'Vâst, the informal inner body of those whose service has been longest. It does not vote separately, but a question on which it is united is rarely opposed by the full Circle.
     offices:

@@ -60,7 +60,7 @@ data:
           Head of a clan-house, holding its property, its ships and its votes in the Council of Houses.
       - level: 7
         title: Sister of the Sacred College
-        lore: elderrnk
+        lore: seatedelderrnk
         description: Of the priestly body that elects the Mêtríssa and constrains her in office.
       - level: 8
         title: Mêtríssa

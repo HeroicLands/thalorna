@@ -18,7 +18,7 @@ data:
     ranks:
       - level: 0
         title: Nützōk
-        lore: expelledrnk
+        lore: outcasternk
         description: >-
           Slaves and outcasts: the caste that is not a caste, whose members may hold no name the law recognizes.
       - level: 1

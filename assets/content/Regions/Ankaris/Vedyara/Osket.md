@@ -44,7 +44,7 @@ data:
         description: Holding a crossing in his own right and entitled to take a caravan over it.
       - level: 6
         title: Guide-mother
-        lore: elderrnk
+        lore: teachingelderrnk
         description: >-
           Senior woman of a lineage, holding its knowledge of the road and saying whether the road is open.
       - level: 7

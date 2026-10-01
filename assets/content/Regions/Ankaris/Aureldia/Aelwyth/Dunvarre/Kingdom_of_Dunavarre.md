@@ -50,7 +50,7 @@ data:
           A mage of the Synod holding a portfolio of state—a district, a court, a revenue, a garrison.
       - level: 7
         title: Elder of the Synod
-        lore: elderrnk
+        lore: seatedelderrnk
         description: Sitting in the closed session where policy is actually decided.
       - level: 8
         title: Prime of the Synod

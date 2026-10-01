@@ -25,12 +25,12 @@ data:
           Turned away at the threshold—the owl will not intercept them, and they go down into Xibalba's trials like anyone else, without even the orthodox recitation to guide them.
       - level: 1
         title: Petitioner
-        lore: catechumenrnk
+        lore: supplicantrnk
         description: >-
           Has asked for a dead kinsman back and not yet been answered; most are never answered, and are not told so.
       - level: 2
         title: Debt-Bound
-        lore: layfaithfulrnk
+        lore: voweddebtorrnk
         description: >-
           Given a returned loved one and bound by the giving—shelter, silence and food owed for as long as the returned lasts, which is never long.
       - level: 3

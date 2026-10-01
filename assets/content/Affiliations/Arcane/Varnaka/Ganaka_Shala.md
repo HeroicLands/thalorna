@@ -24,7 +24,7 @@ data:
           Removed for falsifying a computation or selling one. The roll records the striking and the reason, and no court that keeps the college's tables will seat the person again.
       - level: 1
         title: Hearer
-        lore: catechumenrnk
+        lore: unenteredrnk
         description: >-
           Sits in the hall, keeps no slate and is asked nothing. Anyone may be a Hearer, and the college takes no fee for it.
       - level: 2

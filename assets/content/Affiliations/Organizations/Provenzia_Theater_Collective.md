@@ -35,7 +35,7 @@ data:
         description: Of standing enough to propose, to vote and to be voted for.
       - level: 4
         title: Elder Member
-        lore: elderrnk
+        lore: seniormemberrnk
         description: Long enough of the fellowship that its customs are remembered through them.
       - level: 5
         title: Officer

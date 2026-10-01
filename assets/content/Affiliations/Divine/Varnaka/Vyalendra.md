@@ -28,7 +28,7 @@ data:
           The lay devotee, keeping the household observance of the shaping of the world, inspired by the Shilpa-Kalas, the crafting spirits who move mortals to art, architecture and innovation. This is what devotion to this god ordinarily consists of, and for most of the faithful it is the whole of it.
       - level: 2
         title: Vratin
-        lore: professedrnk
+        lore: vowdevoteernk
         description: >-
           "One under vow"—has undertaken and completed one of the god's Ordeals for Favor. Since this god has no priesthood, the ordeal is the only standing the devotion confers, and it is held for life.
     offices:

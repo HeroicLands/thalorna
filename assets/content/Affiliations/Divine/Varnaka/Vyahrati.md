@@ -28,7 +28,7 @@ data:
           The lay devotee, keeping the household observance of decay as return, kept in the petal bowl that stands on almost every Varnakan windowsill whatever the household's primary devotion. This is what devotion to this god ordinarily consists of, and for most of the faithful it is the whole of it.
       - level: 2
         title: Vratin
-        lore: professedrnk
+        lore: vowdevoteernk
         description: >-
           "One under vow"—has undertaken and completed one of the god's Ordeals for Favor. Since this god has no priesthood, the ordeal is the only standing the devotion confers, and it is held for life.
     offices:

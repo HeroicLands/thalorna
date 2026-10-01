@@ -17,7 +17,7 @@ data:
     ranks:
       - level: 0
         title: Outcaste
-        lore: excmmnctrnk
+        lore: outcasternk
         description: >-
           Placed outside the tharana by transgression or by birth, and on the plateau denied the wells before anything else is denied him.
       - level: 1

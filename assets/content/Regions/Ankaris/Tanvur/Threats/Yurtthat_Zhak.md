@@ -30,7 +30,7 @@ data:
           Owing the house service and loyalty and receiving its protection, bound to it by obligation rather than descent.
       - level: 3
         title: Kin by Marriage
-        lore: kinsmanrnk
+        lore: marriagekinrnk
         description: >-
           Married into the house, holding its name and its standing without its blood, and watched accordingly.
       - level: 4
@@ -40,7 +40,7 @@ data:
           Of the house's descent, entitled to its protection, its quarrels and a share of its fortune.
       - level: 5
         title: Cadet Branch
-        lore: kinsmanrnk
+        lore: cadetlinernk
         description: >-
           Head of a junior line, holding lands or offices of its own and standing behind the senior line in every claim.
       - level: 6

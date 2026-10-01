@@ -16,7 +16,7 @@ data:
     ranks:
       - level: 0
         title: Proscribed
-        lore: excmmnctrnk
+        lore: outlawrnk
         description: >-
           Struck from the citizen roll and outlawed by decree; property forfeit, and any citizen may kill them without penalty.
       - level: 1

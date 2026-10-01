@@ -27,7 +27,7 @@ data:
           Of a college, studying and teaching one domain of philosophical inquiry alongside scholars who often hold appointments in more than one.
       - level: 4
         title: Senior Scholar
-        lore: elderrnk
+        lore: seatedelderrnk
         description: >-
           Head of a college, convened with the other colleges' heads in common assembly to set institutional policy, resolve disputes and maintain the Epistemium's standards.
     offices: {}

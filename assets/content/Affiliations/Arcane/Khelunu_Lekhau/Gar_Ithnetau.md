@@ -30,7 +30,7 @@ data:
           Learning the domain's names and the exact forms they take. A Wazu of the House may recite under supervision and may not set anything down, because an inscription stands after the hand that made it has gone.
       - level: 2
         title: Lekhau
-        lore: professedrnk
+        lore: practitionerrnk
         description: >-
           Holder of sacred power: permitted to speak the House's formulae and to inscribe them. The rank is the ordinary working practitioner, and in Aû'Khelâthu it is held by priests rather than by any separate class of mage.
       - level: 3

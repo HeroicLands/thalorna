@@ -19,7 +19,7 @@ data:
     ranks:
       - level: 0
         title: Outcaste
-        lore: excmmnctrnk
+        lore: outcasternk
         description: >-
           Placed outside the tharana by transgression or by birth, excluded from the wells, the temples and the courts.
       - level: 1

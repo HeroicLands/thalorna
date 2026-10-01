@@ -26,7 +26,7 @@ data:
           Attached to a house for its labor—its stables, its kitchens, its fields—and not of the order.
       - level: 2
         title: Postulant
-        lore: catechumenrnk
+        lore: aspirantrnk
         description: Petitioning for admission and living under the rule on trial, bound by nothing yet.
       - level: 3
         title: Novice

@@ -22,11 +22,11 @@ data:
           Named against the tradition and cut off from its teaching, its protection and its company; what it taught them is not taken back.
       - level: 1
         title: Uninitiated
-        lore: catechumenrnk
+        lore: unenteredrnk
         description: Outside the tradition entirely—served by it, feared by it, and told nothing.
       - level: 2
         title: Aspirant
-        lore: catechumenrnk
+        lore: aspirantrnk
         description: Petitioning for admission and being watched to see whether it should be granted.
       - level: 3
         title: Initiate
@@ -48,7 +48,7 @@ data:
           Holding one of its bodies of knowledge or one of its houses, and answerable for its continuance.
       - level: 7
         title: Elder
-        lore: elderrnk
+        lore: seatedelderrnk
         description: Of the small body that decides what the tradition teaches and whom it admits.
       - level: 8
         title: First of the Tradition

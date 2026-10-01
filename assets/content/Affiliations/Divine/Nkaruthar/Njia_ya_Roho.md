@@ -24,7 +24,7 @@ data:
           Cut off by the zohira and by those who speak with them, and no cairn in the country will answer them again. This is not excommunication from a faith; it is expulsion from what being Okháric consists of, and it is not recoverable.
       - level: 1
         title: Of the People
-        lore: kinsmanrnk
+        lore: unenteredrnk
         description: >-
           Every Okháric, from birth and without joining anything: keeping the local cairns, leaving what the tribe's zohira are owed, and going to a shaman rather than speaking for themselves. Nearly everyone, all their lives.
       - level: 2
@@ -39,7 +39,7 @@ data:
           "Teacher of the spirit"—survived the Hunt and consumed the heart, bound to the zohira, and able to commune with them, interpret their will and intercede for the people.
       - level: 4
         title: Elder of the Spirit
-        lore: elderrnk
+        lore: teachingelderrnk
         description: >-
           Long bound and widely consulted; teaches candidates, judges who may attempt the Hunt, and carries the tribe's account of its dealings with its zohira.
     offices:

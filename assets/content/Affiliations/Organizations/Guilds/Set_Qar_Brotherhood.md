@@ -44,7 +44,7 @@ data:
           A master of one of the crafts, trusted with the whole of a work and with the knowledge of where it lies.
       - level: 5
         title: Headman
-        lore: elderrnk
+        lore: councillorrnk
         description: >-
           The village governs itself through its headmen, who keep its own little courts and speak for the brotherhood to the mortuary priesthoods and the Halzi'a.
     offices:
