@@ -18,41 +18,30 @@ data:
       A voluntary association whose members decide its affairs and elect its officers for a term.
     ranks:
       - level: 0
-        title: Expelled
-        lore: expelledrnk
-        description: Put out by vote of the members, with the fellowship's hospitality and its company closed.
+        title: Ring-Broken
+        lore: ringbrokenrnk
+        description: >-
+          Convicted of breaking the truth of the recital, the silver arm-ring broken at the next Skaldating—a punishment with no recovery, imposed perhaps seven times in living memory.
       - level: 1
-        title: Guest
-        lore: dependentrnk
-        description: Present by a member's invitation, welcome for the evening and party to nothing.
-      - level: 2
-        title: Member
-        lore: swornmemberrnk
-        description: Admitted, paying the subscription and enjoying the fellowship's company and its hall.
+        title: Apprentice
+        lore: skaldapprntrnk
+        description: >-
+          A master's pupil for ten to fifteen years, entitled to nothing of the Circle's own until the drápa presented at a Skaldating is accepted.
       - level: 3
-        title: Full Member
-        lore: swornmemberrnk
-        description: Of standing enough to propose, to vote and to be voted for.
+        title: Skáld
+        lore: skaldrnk
+        description: >-
+          Sworn in by the master once the drápa is accepted, wearing the forged skaldhringr, entitled to food, shelter and safe passage at any hall, and bound to recite truly even against his own employer.
       - level: 4
-        title: Elder Member
-        lore: elderrnk
-        description: Long enough of the fellowship that its customs are remembered through them.
-      - level: 5
-        title: Officer
-        lore: officerrnk
-        description: Elected to a charge of the fellowship—its purse, its records, its hall, its charity.
-      - level: 6
-        title: Chair
-        lore: councillorrnk
-        description: Presiding over the fellowship's meetings for a term, and holding nothing else by it.
+        title: Stóraldstjóri
+        lore: storaldstjrnk
+        description: >-
+          Acclaimed by his peers, not appointed, when his composed sagas enter the standing repertoire taught to every apprentice; perhaps a dozen hold the standing at a time.
     offices:
-      Chair: >-
-        Presiding officer of the fellowship's meetings, elected for a term and holding nothing else by it.
-      Secretary: Keeper of the roll, the minutes and the correspondence.
-      Treasurer: Keeper of the subscriptions and of what the fellowship spends them on.
-      Steward: Warden of the hall, its provision and the ordering of its gatherings.
-      Almoner: Administrator of the fellowship's relief to members in need.
-      Master of Ceremonies: Keeper of the forms the fellowship's gatherings follow.
+      Hirdskáld: >-
+        A court skald in formal service to a jarl or king—the most prestigious working position among the Circle's own, and conferred by no rank above Skáld.
+      Lögskáld: >-
+        Specialized in the recitation of legal precedents and the witnessing of formal proceedings; few in number but indispensable to Nordland legal practice.
   seat: null
   domains: []
   population: null
