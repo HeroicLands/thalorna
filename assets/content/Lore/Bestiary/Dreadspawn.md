@@ -19,8 +19,8 @@ The class is as wide as that leaves it. A dreadspawn can look and act like virtu
 Three classes of creature are made rather than born, and what tells them apart is what the maker began with and whose hand did it.
 
 - **Dreadspawn** are alive. A celestial being made them so, from nothing that was alive before, and gave each the spark and the wits it carries. They cannot breed.
-- **[[lore-golemcrtr|Constructs]]** are not alive. A mage works a semblance of life into material that has none—clay, stone, iron, or flesh that is already dead—and what moves afterward has no will of its own and does as it is directed.
-- **[[lore-undead|Undead]]** are the dead walking, bound by necrotic force to bodies they have already left. They are the province of death gods and of the necromancers who learn the authority from them.
+- [[lore-golemcrtr|Constructs]] are not alive. A mage works a semblance of life into material that has none—clay, stone, iron, or flesh that is already dead—and what moves afterward has no will of its own and does as it is directed.
+- [[lore-undead|Undead]] are the dead walking, bound by necrotic force to bodies they have already left. They are the province of death gods and of the necromancers who learn the authority from them.
 
 A made man stitched together out of the dead is therefore a construct and not a dreadspawn, however it was intended: the material was dead flesh and the hand was a mage's.
 

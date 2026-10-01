@@ -43,7 +43,7 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 13}}
-    - {model: affiliation-hrimthur}
+    - {model: affiliation-motefnir}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-law, system: {masteryLevelBase: 70}}
@@ -486,7 +486,7 @@ Athalwa's primary motivation is the survival and flourishing of the Vrystwald Tr
 ### Affiliations
 
 - **Vrystwald Tribal Council**: Athalwa serves as Chieftain, though her position remains contested among traditional members.
-- **[[affiliation-motefnir|Faith of Mótefnir]]**: A devout practitioner who maintains regular spiritual counsel with the Völva priestesses.
+- [[affiliation-motefnir|Faith of Mótefnir]]: A devout practitioner who maintains regular spiritual counsel with the Völva priestesses.
 - **The Eastern Trade Consortium**: Athalwa has recently been instrumental in establishing formal trading relationships with merchants from eastern kingdoms, creating new economic dependencies and opportunities.
 
 ## Plot Hooks

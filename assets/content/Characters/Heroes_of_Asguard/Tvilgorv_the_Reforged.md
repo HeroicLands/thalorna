@@ -43,7 +43,7 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 7}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 8}}
-    - {model: affiliation-hrimthur}
+    - {model: affiliation-motefnir}
   system:
     body:
       structure:
