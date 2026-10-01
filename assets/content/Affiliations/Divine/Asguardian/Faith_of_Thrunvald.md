@@ -120,14 +120,8 @@ In artistic representations, Thrúnvald is often shown driving his chariot pulle
 - **The Ocean's Challenge:** An ordeal where participants must navigate treacherous waters, trusting in Thrúnvald to guide them safely.
 - **The Iron Vigil:** An ordeal where participants must remain vigilant through a stormy night, protecting a sacred site from any threat.
 
-## Orders
+## See Also
 
-**Clerical Orders:**
-
-- **Order of the Hammer:** Priests dedicated to the mastery of combat and protection, often serving as warriors and guardians.
-- **Sea Wardens:** Priests who specialize in seafaring and navigation, often blessing ships and guiding sailors.
-
-**Fighting Orders:**
-
-- **Hammer of Thrúnvald:** Elite warriors who wield mighty hammers in battle, channeling Thrúnvald's strength and protection.
-- **Seaforged:** Fighters who have undergone rigorous training at sea, becoming masters of naval combat and defense.
+- [[affiliation-ordrhamrthrv|Order of the Hammer]]—priests who master combat and protection at a coastal hof
+- [[affiliation-hamrofthrv|Hammer of Thrúnvald]]—the faith's fighting order, hammer-warriors of the thunder-god
+- [[affiliation-seaforgedthrv|Seaforged]]—fighters trained at sea, masters of naval combat and defense

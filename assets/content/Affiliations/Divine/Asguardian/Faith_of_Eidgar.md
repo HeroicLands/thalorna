@@ -120,14 +120,9 @@ Temples dedicated to Eidgar serve as places of law and order, where disputes are
 - **The Oathkeeper's Challenge:** A test where the faithful must uphold a difficult oath, showing their commitment to justice and honor.
 - **The Sacrifice of the Hand:** An ordeal where participants must symbolically sacrifice a part of themselves, showing their willingness to give all for justice.
 
-## Orders
+## See Also
 
-### Clerical Orders
-
-- **Order of the Sword:** Priests dedicated to the mastery of combat and the upholding of justice, often serving as judges and defenders.
-- **Oathsworn:** Priests who oversee the swearing of oaths and the maintenance of honor, often acting as mediators in disputes.
-
-### Fighting Orders
-
-- **Sword of Eidgar:** Elite warriors who wield swords in the name of justice, defending the faith and its followers.
-- **Oathkeepers:** Warriors who have sworn powerful oaths to Eidgar, dedicating their lives to the protection and defense of the faith.
+- [[affiliation-ordrswordeidg|Order of the Sword]]—priests who master combat and the upholding of justice
+- [[affiliation-oathswrneidg|Oathsworn]]—priests who oversee the swearing of oaths and mediate on their breach
+- [[affiliation-swordeidgar|Sword of Eidgar]]—the faith's fighting order, warriors in justice's name
+- [[affiliation-oathkeeprseidg|Oathkeepers]]—warriors bound by oaths heavier than a soldier's, sworn to the faith's defense

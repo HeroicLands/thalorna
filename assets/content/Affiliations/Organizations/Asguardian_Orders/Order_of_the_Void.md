@@ -1,0 +1,44 @@
+---
+shortcode: ordrvoidnahld
+name: {full: "Order of the Void"}
+type: affiliation
+subType: order
+description: "Náhild's hidden cult of the Eye of the Void."
+tags: [draft]
+data:
+  templatePriority: null
+  demonym: null
+  epithet: null
+  symbol: null
+  governance:
+    model: theocracy
+    summary: >-
+      What this order confers is membership alone: a devotee holds its least claim, admitted to its work, and a leader its fullest, with nothing recorded between the two rungs.
+    ranks:
+      - level: 0
+        title: Cast Out of the Order
+        lore: ordercastoutrnk
+        description: >-
+          Cast out of the Order of the Void, forfeiting whatever counsel, shelter or standing membership gave him.
+      - level: 1
+        title: Devotee
+        lore: orderdevoteernk
+        description: >-
+          Serves a hidden hof's godi in secret, working to widen the Eye of the Void's reach where it can.
+      - level: 3
+        title: Leader of the Order
+        lore: orderleaderrnk
+        description: >-
+          Leads the order's secret work, answering only to a hidden hof's own godi.
+    offices: {}
+  seat: null
+  domains: []
+  population: null
+  economy: []
+  lore: []
+  parents: []
+  relations: {asguardian: aligned}
+sohl: {system: {commonSkills: []}}
+---
+
+The Order of the Void serves [[affiliation-nahild|Náhild]]'s hidden cult in secret, working to widen the influence of the Eye of the Void over whatever ground its members can reach. A member answers only to a hidden hof's own godi, and the order's work is never done where an outsider can see it.

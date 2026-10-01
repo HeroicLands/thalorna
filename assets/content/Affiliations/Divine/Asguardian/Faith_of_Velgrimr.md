@@ -119,13 +119,8 @@ Vélgrímr is depicted as a charismatic and enigmatic figure, his expression alw
 - **The Serpent's Maze:** An ordeal where the participant must navigate a deadly labyrinth filled with traps, illusions, and false leads.
 - **The Whispering Hunt:** A task where participants must gather valuable secrets from influential figures, using them to manipulate events in Vélgrímr's favor.
 
-## Orders
+## See Also
 
-**Clerical Orders:**
-
-- **Order of the Shifting Veil:** Priests dedicated to mastering the arts of illusion and disguise, often serving as spies and infiltrators.
-
-**Fighting Orders:**
-
-- **Serpentfangs:** Fighters who combine physical prowess with the art of poison, using their knowledge of toxins to weaken and kill their foes.
-- **Knights of the Shifting Shadow:** A militant order dedicated to protecting Vélgrímr's temples and followers, using stealth and strategy.
+- [[affiliation-ordrshiftveilvlg|Order of the Shifting Veil]]—priests trained in illusion and disguise as spies
+- [[affiliation-serpentfangsvlg|Serpentfangs]]—fighters who weaken their foes with poison before the blade
+- [[affiliation-knightsshiftshvlg|Knights of the Shifting Shadow]]—a militant order guarding Vélgrímr's hidden temples
