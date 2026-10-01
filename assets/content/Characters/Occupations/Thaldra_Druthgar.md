@@ -1,6 +1,6 @@
 ---
 shortcode: thldrdrthgr
-name: {full: Thaldrá Druthgar, aliases: ["Thalia Hart"]}
+name: {full: Thaldra Druthgar, aliases: ["Thalia Hart"]}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -396,15 +396,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Thaldrá Druthgar is a 27-year-old woman who stands 5'10" tall and is of moderate build. She has a square face with defined cheekbones, a broad forehead, and a heavy jaw that leads to a strong chin. Her hooded hazel eyes sit beneath prominent brows, lending her a guarded gaze. A straight nose and firm lips complete her features. She has light skin with a rugged complexion. Her brown hair is loose and wavy.
+Thaldra Druthgar is a 27-year-old woman who stands 5'10" tall and is of moderate build. She has a square face with defined cheekbones, a broad forehead, and a heavy jaw that leads to a strong chin. Her hooded hazel eyes sit beneath prominent brows, lending her a guarded gaze. A straight nose and firm lips complete her features. She has light skin with a rugged complexion. Her brown hair is loose and wavy.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Thaldrá Druthgar came into the world of the common seaman through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Thaldra Druthgar came into the world of the common seaman through a combination of circumstance and aptitude.
 
 Known as "Thorn" for her sharp wit and tenacity, Thalia is a fierce seaman who has proven herself in a male-dominated profession. She is skilled in rigging and often takes on the role of lookout during voyages. Thalia is determined to earn her place among the crew and dreams of one day captaining her own ship. She has a reputation for being tough and resilient, admired by her peers.
 
-Now at 27 years of age, Thaldrá Druthgar has established herself as a known figure among the common seamans of Vrystwald. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 27 years of age, Thaldra Druthgar has established herself as a known figure among the common seamans of Vrystwald. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
 ## Psyche
 
@@ -414,7 +414,7 @@ Can be overly competitive, struggles with vulnerability.
 
 ### Motivation
 
-Thaldrá is driven by the desire to master her craft and secure a stable future. The uncertainties of life in common seaman work keep her vigilant and adaptable.
+Thaldra is driven by the desire to master her craft and secure a stable future. The uncertainties of life in common seaman work keep her vigilant and adaptable.
 
 ### Strengths
 
@@ -422,15 +422,15 @@ Agile and quick, skilled in rigging and navigation, good problem solver.
 
 ## Social
 
-Thaldrá is affiliated with None; works as a hired hand..
+Thaldra is affiliated with None; works as a hired hand..
 
-As a Varokhi common seaman, Thaldrá occupies a recognized social niche within Vrystwald society.
+As a Varokhi common seaman, Thaldra occupies a recognized social niche within Vrystwald society.
 
 ## Companions
 
 ### Patrons
 
-Thaldrá's primary patron is Ship captains seeking capable crew members.. This relationship provides both opportunity and obligation.
+Thaldra's primary patron is Ship captains seeking capable crew members.. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -438,12 +438,12 @@ Few; generally well-respected, but may face jealousy from some.
 
 ## Plot Hooks
 
-1. **The Common Seaman's Dilemma**—Thaldrá faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vrystwald.
+1. **The Common Seaman's Dilemma**—Thaldra faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vrystwald.
 
 2. **Old Grudges**—Few; generally well-respected, but may face jealousy from some. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Thaldrá's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Thaldra's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vrystwald threaten to upend the social order that Thaldrá depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vrystwald threaten to upend the social order that Thaldra depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Thaldrá the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Thaldra the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

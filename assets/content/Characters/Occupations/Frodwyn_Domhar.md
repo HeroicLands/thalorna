@@ -1,6 +1,6 @@
 ---
 shortcode: frdwyndmhr
-name: {full: Fródwyn Dómhár, aliases: []}
+name: {full: Frodwyn Domhar, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -398,13 +398,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Fródwyn Dómhár is a 38-year-old woman who stands 5'8" tall and is of moderate build. She has a long face with sharp cheekbones, a wide forehead, and an angular jaw that leads to a square chin. Her wide-set green eyes sit beneath heavy brows and give her an open gaze. She has a broad nose and narrow lips. She has fair skin with a lightly freckled complexion. Her dark blonde hair is plaited in a single thick braid.
+Frodwyn Domhar is a 38-year-old woman who stands 5'8" tall and is of moderate build. She has a long face with sharp cheekbones, a wide forehead, and an angular jaw that leads to a square chin. Her wide-set green eyes sit beneath heavy brows and give her an open gaze. She has a broad nose and narrow lips. She has fair skin with a lightly freckled complexion. Her dark blonde hair is plaited in a single thick braid.
 
 # Dossier {#dossier}
 
-Fródwyn Dómhár is a scholar of plants and their uses at Dunkelwald, a deep-forest settlement of [[place-vrystwald|Vrystwald]], a Varokhi woman of a chieftain's house who has written the forest's healing lore down.
+Frodwyn Domhar is a scholar of plants and their uses at Dunkelwald, a deep-forest settlement of [[place-vrystwald|Vrystwald]], a Varokhi woman of a chieftain's house who has written the forest's healing lore down.
 
-Fródwyn was sent as a girl to the border towns of Moktur, where she learned letters from a Vylarian physician's wife, and came home with the idea that what the wise-women carry in their heads could be set down. She has spent fifteen years doing it, walking the forest with the wise-women of a dozen villages and writing what they know out in Varokhi, in books that have gone down the rivers with the fur-boats to villages she has never visited. She teaches it to any woman who will sit with her, and she means it to be used; knowledge not put to work, she holds, is not knowledge.
+Frodwyn was sent as a girl to the border towns of Moktur, where she learned letters from a Vylarian physician's wife, and came home with the idea that what the wise-women carry in their heads could be set down. She has spent fifteen years doing it, walking the forest with the wise-women of a dozen villages and writing what they know out in Varokhi, in books that have gone down the rivers with the fur-boats to villages she has never visited. She teaches it to any woman who will sit with her, and she means it to be used; knowledge not put to work, she holds, is not knowledge.
 
 She is a known figure among the scholars of Vrystwald, and its wise-women are divided about her.
 
@@ -412,11 +412,11 @@ She is a known figure among the scholars of Vrystwald, and its wise-women are di
 
 ### Personality
 
-Fródwyn is quick, exacting and demanding of herself first; she will test a cure a dozen times before she writes it down and then doubt the writing. She takes on more than the days will hold and is always behind.
+Frodwyn is quick, exacting and demanding of herself first; she will test a cure a dozen times before she writes it down and then doubt the writing. She takes on more than the days will hold and is always behind.
 
 ### Motivation
 
-Fródwyn wants the forest's healing lore written, so that it survives the deaths of the women who hold it, and used, so that fewer people die for the want of it.
+Frodwyn wants the forest's healing lore written, so that it survives the deaths of the women who hold it, and used, so that fewer people die for the want of it.
 
 ### Strengths
 
@@ -424,13 +424,13 @@ A patient observer, a clear teacher, a sound judge of what a plant will and will
 
 ## Social
 
-Fródwyn belongs to no guild or academy; Vrystwald has villages and nothing larger. Her standing is her house's: a chieftain's daughter who keeps the household stores of Dunkelwald and is known along the river as the woman with the books.
+Frodwyn belongs to no guild or academy; Vrystwald has villages and nothing larger. Her standing is her house's: a chieftain's daughter who keeps the household stores of Dunkelwald and is known along the river as the woman with the books.
 
 ## Companions
 
 ### Patrons
 
-Fródwyn's patrons are the wise-women of the central forest who trade their knowledge for her cures and her cures for their knowledge, and the river-women who carry her copied books downstream with the furs.
+Frodwyn's patrons are the wise-women of the central forest who trade their knowledge for her cures and her cures for their knowledge, and the river-women who carry her copied books downstream with the furs.
 
 ### Enemies
 
@@ -438,10 +438,10 @@ Wise-women of the older kind, who hold that the lore is the forest's and the spi
 
 ## Plot Hooks
 
-1. **The Physician's Request**—A physician from the border towns of Moktur has sent to Dunkelwald asking for a copy of Fródwyn's herbal for the academies, with silver. Every wise-woman who taught her would call it theft.
+1. **The Physician's Request**—A physician from the border towns of Moktur has sent to Dunkelwald asking for a copy of Frodwyn's herbal for the academies, with silver. Every wise-woman who taught her would call it theft.
 
-2. **The Sickness**—The winter sickness has come to Dunkelwald early and hard, and the cure Fródwyn wrote down for it is not working the way the wise-woman who gave it said it would. Either she wrote it wrong or it was never given whole.
+2. **The Sickness**—The winter sickness has come to Dunkelwald early and hard, and the cure Frodwyn wrote down for it is not working the way the wise-woman who gave it said it would. Either she wrote it wrong or it was never given whole.
 
 3. **The Chieftain's Wound**—A neighboring chieftain has taken a wound that his own wise-woman cannot close and has sent for the woman with the books. If her cure fails him, the failure will be laid to the writing.
 
-4. **The Accusation**—The most respected wise-woman of the district has accused Fródwyn, before a gathering, of giving the forest's secrets to strangers, and has asked that the books be burned. The women who taught her were there, and not all of them spoke.
+4. **The Accusation**—The most respected wise-woman of the district has accused Frodwyn, before a gathering, of giving the forest's secrets to strangers, and has asked that the books be burned. The women who taught her were there, and not all of them spoke.

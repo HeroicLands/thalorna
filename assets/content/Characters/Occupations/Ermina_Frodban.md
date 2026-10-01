@@ -1,6 +1,6 @@
 ---
 shortcode: erminfrdbn
-name: {full: Ermína Fródbán, aliases: [Ermina Froban]}
+name: {full: Ermina Frodban, aliases: [Ermina Froban]}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -392,15 +392,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Ermína Fródbán is a 30-year-old woman who stands 5'11" tall and is slender. She has a broad face with angular cheekbones, a broad forehead, and a square jaw that leads to a strong chin. Her large gray eyes sit beneath prominent brows, lending her an expressive gaze. A straight nose and firm lips complete her features. She has pale skin with a ruddy complexion. Her red hair is woven with small braids.
+Ermina Frodban is a 30-year-old woman who stands 5'11" tall and is slender. She has a broad face with angular cheekbones, a broad forehead, and a square jaw that leads to a strong chin. Her large gray eyes sit beneath prominent brows, lending her an expressive gaze. A straight nose and firm lips complete her features. She has pale skin with a ruddy complexion. Her red hair is woven with small braids.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Ermína Fródbán came into the world of the fisher through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Ermina Frodban came into the world of the fisher through a combination of circumstance and aptitude.
 
-Ermína grew up near the shore, where she developed a love for the sea. She became a fisher to support her family and enjoys the freedom that comes with being on the water. Ermína is known for her quick thinking and ability to adapt to changing conditions at sea. She is also a skilled netmaker, often mending her own nets and selling spares to other fishers.
+Ermina grew up near the shore, where she developed a love for the sea. She became a fisher to support her family and enjoys the freedom that comes with being on the water. Ermina is known for her quick thinking and ability to adapt to changing conditions at sea. She is also a skilled netmaker, often mending her own nets and selling spares to other fishers.
 
-Now at 30 years of age, Ermína Fródbán has established herself as a known figure among the fishers of Vrystwald. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 30 years of age, Ermina Frodban has established herself as a known figure among the fishers of Vrystwald. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
 ## Psyche
 
@@ -410,7 +410,7 @@ Tends to take risks when fishing, sometimes overconfident.
 
 ### Motivation
 
-Ermína is driven by the desire to master her craft and secure a stable future. The uncertainties of life in fisher work keep her vigilant and adaptable.
+Ermina is driven by the desire to master her craft and secure a stable future. The uncertainties of life in fisher work keep her vigilant and adaptable.
 
 ### Strengths
 
@@ -418,15 +418,15 @@ Skilled in fishing and netmaking, quick thinker, adaptable.
 
 ## Social
 
-Ermína is affiliated with Coastal Fishers' Guild.
+Ermina is affiliated with Coastal Fishers' Guild.
 
-As a Varokhi fisher, Ermína occupies a recognized social niche within Vrystwald society.
+As a Varokhi fisher, Ermina occupies a recognized social niche within Vrystwald society.
 
 ## Companions
 
 ### Patrons
 
-Ermína's primary patron is Local vendors who purchase her fresh catch.. This relationship provides both opportunity and obligation.
+Ermina's primary patron is Local vendors who purchase her fresh catch.. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -434,12 +434,12 @@ Few, though some older fishers question her methods.
 
 ## Plot Hooks
 
-1. **The Fisher's Dilemma**—Ermína faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vrystwald.
+1. **The Fisher's Dilemma**—Ermina faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vrystwald.
 
 2. **Old Grudges**—Few, though some older fishers question her methods. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Ermína's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Ermina's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vrystwald threaten to upend the social order that Ermína depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vrystwald threaten to upend the social order that Ermina depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Ermína the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Ermina the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

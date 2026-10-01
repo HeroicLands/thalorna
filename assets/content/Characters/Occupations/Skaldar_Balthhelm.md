@@ -1,6 +1,6 @@
 ---
 shortcode: skldrblthlm
-name: {full: Skaldár Balthhelm, aliases: []}
+name: {full: Skaldar Balthhelm, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -396,23 +396,23 @@ sohl:
 
 # Appearance {#appearance}
 
-Skaldár Balthhelm is a 51-year-old man who stands 5'10" tall and is of moderate build. He has a diamond face with defined cheekbones, a smooth forehead, and a heavy jaw that leads to a square chin. His narrow green eyes sit beneath heavy brows and give him a keen gaze. He has a broad nose and curved lips. He has fair skin with a ruddy complexion. His dark brown hair is matted from years of outdoor work. He has laugh lines around the eyes.
+Skaldar Balthhelm is a 51-year-old man who stands 5'10" tall and is of moderate build. He has a diamond face with defined cheekbones, a smooth forehead, and a heavy jaw that leads to a square chin. His narrow green eyes sit beneath heavy brows and give him a keen gaze. He has a broad nose and curved lips. He has fair skin with a ruddy complexion. His dark brown hair is matted from years of outdoor work. He has laugh lines around the eyes.
 
 # Dossier {#dossier}
 
-Skaldár Balthhelm is a toymaker of Falkenstein, a hill fort of the Varokh in [[place-vrystwald|Vrystwald]], a Varokh who fought until a Grukar spear ended it and has carved toys for the fort's children in the twenty years since.
+Skaldar Balthhelm is a toymaker of Falkenstein, a hill fort of the Varokh in [[place-vrystwald|Vrystwald]], a Varokh who fought until a Grukar spear ended it and has carved toys for the fort's children in the twenty years since.
 
-Skaldár was a warrior of Falkenstein's war-band until a spear through the thigh in the marsh fighting left him a limp that no war-band would carry. A Varokh man who cannot fight has no place the forest recognizes, and Skaldár found one with a knife: he had always carved for his own children, and he began to carve for everyone's. His toys move. A wolf with jointed legs that lopes when it is pulled, a boatman whose arms row, birds on a string that beat their wings; he has spent twenty years learning how a joint should be cut so that a thing of wood looks for a moment alive. The fort's households pay him in meat and furs, and the river-traders carry his animals down to the Nordman markets. Lately the traders bring painted Nordman toys back up the river, and the children have begun to prefer them.
+Skaldar was a warrior of Falkenstein's war-band until a spear through the thigh in the marsh fighting left him a limp that no war-band would carry. A Varokh man who cannot fight has no place the forest recognizes, and Skaldar found one with a knife: he had always carved for his own children, and he began to carve for everyone's. His toys move. A wolf with jointed legs that lopes when it is pulled, a boatman whose arms row, birds on a string that beat their wings; he has spent twenty years learning how a joint should be cut so that a thing of wood looks for a moment alive. The fort's households pay him in meat and furs, and the river-traders carry his animals down to the Nordman markets. Lately the traders bring painted Nordman toys back up the river, and the children have begun to prefer them.
 
 ## Psyche
 
 ### Personality
 
-Skaldár is patient, wry and stubborn, at ease with children and awkward with the young men, who cannot see what an old cripple with a knife is for. He will not carve to a pattern that is not his own or paint a thing that should be left to the grain.
+Skaldar is patient, wry and stubborn, at ease with children and awkward with the young men, who cannot see what an old cripple with a knife is for. He will not carve to a pattern that is not his own or paint a thing that should be left to the grain.
 
 ### Motivation
 
-Skaldár wants to make wooden things that move as living things move, and he wants the fort's children to want a Balthhelm animal over anything the boats bring. The second is slipping, and he answers it by working harder at the first.
+Skaldar wants to make wooden things that move as living things move, and he wants the fort's children to want a Balthhelm animal over anything the boats bring. The second is slipping, and he answers it by working harder at the first.
 
 ### Strengths
 
@@ -420,13 +420,13 @@ Skilled in jointed and moving work, experienced in carving, inventive.
 
 ## Social
 
-Skaldár belongs to no body; the forest has no guilds. He sits in the fort's councils as a man who has fought.
+Skaldar belongs to no body; the forest has no guilds. He sits in the fort's councils as a man who has fought.
 
 ## Companions
 
 ### Patrons
 
-Skaldár's patrons are the households of Falkenstein, who pay him in kind, and the river-traders, who carry his animals to the Nordman markets and have begun to tell him what to carve.
+Skaldar's patrons are the households of Falkenstein, who pay him in kind, and the river-traders, who carry his animals to the Nordman markets and have begun to tell him what to carve.
 
 ### Enemies
 
@@ -434,10 +434,10 @@ A young carver of the fort who copies his joints and paints them bright, and who
 
 ## Plot Hooks
 
-1. **The Chieftain's Grandchild**—The chieftain's grandchild wants a wolf from Skaldár for the naming feast, and the chieftain's daughter, who runs the fort's trade, wants it painted like the Nordman ones.
+1. **The Chieftain's Grandchild**—The chieftain's grandchild wants a wolf from Skaldar for the naming feast, and the chieftain's daughter, who runs the fort's trade, wants it painted like the Nordman ones.
 
-2. **The Nordman's Offer**—A Nordman trader has offered Skaldár a workshop and apprentices in a hall-town across the frontier. He would have to leave the forest.
+2. **The Nordman's Offer**—A Nordman trader has offered Skaldar a workshop and apprentices in a hall-town across the frontier. He would have to leave the forest.
 
-3. **The Thrall Child**—A thrall child has been coming to watch him work, and Skaldár has begun to teach it. A thrall who carves is a thrall somebody will sell for more.
+3. **The Thrall Child**—A thrall child has been coming to watch him work, and Skaldar has begun to teach it. A thrall who carves is a thrall somebody will sell for more.
 
-4. **The Young Men**—The fort's young warriors have taken to breaking the old cripple's animals for sport, and one of them is the chieftain's son, whose father Skaldár fought beside.
+4. **The Young Men**—The fort's young warriors have taken to breaking the old cripple's animals for sport, and one of them is the chieftain's son, whose father Skaldar fought beside.

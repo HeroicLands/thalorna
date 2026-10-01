@@ -405,7 +405,7 @@ Vandaric was born to a Varokh family that operated a roadside inn on the imperia
 
 He left home at eighteen—not fleeing, but seeking bigger marks. He spent a decade drifting through the border towns between [[place-vrystwald|Vrystwald]] and [[place-vylariargn|Vylaria]], running scams, selling fraudulent goods, impersonating minor officials, and always staying one step ahead of the consequences. He was good enough that he might have made a comfortable living indefinitely, but he had a weakness for gambling and a worse one for drink, and both caught up with him in a border town called Graumarkt. He cheated the wrong man at dice—a Vylarian merchant with connections to the local garrison—and fled into the pines with soldiers on his heels and a price on his head.
 
-He found the Blackpine Wolves a year ago and attached himself to Dágulf through sheer usefulness. He is the gang's voice—the one who scouts potential targets in taverns, learns caravan schedules, identifies which merchants carry the most coin, and occasionally talks guards into looking the other way. Dágulf dislikes him personally but recognizes that Vandaric brings in more intelligence in a week of tavern talk than the rest of the gang manages in a month of skulking.
+He found the Blackpine Wolves a year ago and attached himself to Dagulf through sheer usefulness. He is the gang's voice—the one who scouts potential targets in taverns, learns caravan schedules, identifies which merchants carry the most coin, and occasionally talks guards into looking the other way. Dagulf dislikes him personally but recognizes that Vandaric brings in more intelligence in a week of tavern talk than the rest of the gang manages in a month of skulking.
 
 # Skills and Abilities
 
@@ -423,7 +423,7 @@ Vandaric wants comfort, excitement, and the satisfaction of outwitting others. H
 
 ### Strengths
 
-His social skills are exceptional. He can talk his way into guarded camps, extract information from wary merchants, and charm serving girls into sharing caravan gossip. His creativity and reasoning make him the gang's best planner, and Dágulf reluctantly relies on his intelligence for ambush timing and target selection.
+His social skills are exceptional. He can talk his way into guarded camps, extract information from wary merchants, and charm serving girls into sharing caravan gossip. His creativity and reasoning make him the gang's best planner, and Dagulf reluctantly relies on his intelligence for ambush timing and target selection.
 
 ## Social
 
@@ -443,6 +443,6 @@ The Vylarian merchant he cheated in Graumarkt has not forgotten. There may be ou
 
 1. **The Friendly Stranger**—The party meets Vandaric in a tavern where he is posing as a traveling merchant. He is charming, helpful, and full of useful information about the road ahead—all of it carefully curated to steer the party into an ambush. If the party sees through him, he becomes a valuable source of information about the Blackpine Wolves, provided the price is right.
 
-2. **The Double Cross**—Vandaric approaches a Vylarian merchant guild offering to betray the Blackpine Wolves for gold and safe passage. At the same time, he is feeding Dágulf information about the guild's caravan routes. He is playing both sides, and the party—hired by the guild—walks into a situation far more tangled than a simple bandit hunt.
+2. **The Double Cross**—Vandaric approaches a Vylarian merchant guild offering to betray the Blackpine Wolves for gold and safe passage. At the same time, he is feeding Dagulf information about the guild's caravan routes. He is playing both sides, and the party—hired by the guild—walks into a situation far more tangled than a simple bandit hunt.
 
 3. **The Gambler's Debt**—Vandaric has racked up a dangerous gambling debt with a criminal syndicate in a border town, and they have sent enforcers to collect. He is desperate enough to make an offer to the party: help him deal with the enforcers, and he will lead them to the Blackpine Wolves' hidden cache of stolen goods. The offer is genuine—but Vandaric always has a second plan.

@@ -1,6 +1,6 @@
 ---
 shortcode: athlwvthrnd
-name: {full: Athalwa Vithrúnd, given: Athalwa, clan: Vithrúnd, aliases: []}
+name: {full: Athalwa Vithrund, given: Athalwa, clan: Vithrund, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, administration]
@@ -417,7 +417,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[athlwvthrnd|Athalwa Vithrúnd]]{float=top-left}
+![[athlwvthrnd|Athalwa Vithrund]]{float=top-left}
 
 Athalwa stands 5'10" tall with a medium build. She has pale fair skin, blonde hair, and blue eyes. Her features include an oval face, a long nose, a strong jawline, a slightly downturned mouth, straight brows, high cheeks. A distinguishing mark is a tattoo of an eagle on the back.
 
@@ -427,11 +427,11 @@ Athalwa stands 5'10" tall with a medium build. She has pale fair skin, blonde ha
 
 ### Born to Unorthodoxy
 
-Athalwa was the second child of **Chieftain Vorthgar Vithrúnd**, born during an unusual winter when the omens were considered ambiguous at best. Unlike her older brother Raeth, who showed early aptitude for the traditional chieftain's role—leading hunts, mediating disputes, upholding ancient law—Athalwa demonstrated an unusual combination of mystical sensitivity and tactical brilliance. As a child, she experienced visions of battles not yet fought and landscapes beyond the [[affiliation-vrystwldtrbs|Vrystwald]] borders. The elders debated whether she was blessed or cursed.
+Athalwa was the second child of **Chieftain Vorthgar Vithrund**, born during an unusual winter when the omens were considered ambiguous at best. Unlike her older brother Raeth, who showed early aptitude for the traditional chieftain's role—leading hunts, mediating disputes, upholding ancient law—Athalwa demonstrated an unusual combination of mystical sensitivity and tactical brilliance. As a child, she experienced visions of battles not yet fought and landscapes beyond the [[affiliation-vrystwldtrbs|Vrystwald]] borders. The elders debated whether she was blessed or cursed.
 
 ### The Warrior's Calling
 
-Rather than surrender to the role of priestess-advisor that the conservative elders pushed upon her, Athalwa demanded to be trained as a warrior. Her father, recognizing potential that transcended tradition, allowed it. She trained with the best hunters and raiders of the Vithrúnd clan, surpassing most of them by her early twenties. Her tactical visions, once considered mystical quirks, proved to be remarkably accurate predictions of enemy movements and environmental dangers. She led three successful raids against the Tzar Kingdom's southern outposts and returned with no losses to her war band—an unprecedented achievement.
+Rather than surrender to the role of priestess-advisor that the conservative elders pushed upon her, Athalwa demanded to be trained as a warrior. Her father, recognizing potential that transcended tradition, allowed it. She trained with the best hunters and raiders of the Vithrund clan, surpassing most of them by her early twenties. Her tactical visions, once considered mystical quirks, proved to be remarkably accurate predictions of enemy movements and environmental dangers. She led three successful raids against the Tzar Kingdom's southern outposts and returned with no losses to her war band—an unprecedented achievement.
 
 ### The Unexpected Succession
 
@@ -473,7 +473,7 @@ Athalwa's primary motivation is the survival and flourishing of the Vrystwald Tr
 
 ### Patrons
 
-- **The War Band of the Vithrúnd**: Young warriors and ambitious raiders who benefit from Athalwa's expansionist policies and see in her a leader who can elevate them to genuine power within the broader world.
+- **The War Band of the Vithrund**: Young warriors and ambitious raiders who benefit from Athalwa's expansionist policies and see in her a leader who can elevate them to genuine power within the broader world.
 - **Merchant Prince Oleander of the Byzarian League**: A canny trader who has secured exclusive access to Vrystwald furs and amber through his relationship with Athalwa. They maintain a respectful commercial and diplomatic relationship.
 - **Ymir's Oracle, the Völva Astrid**: An ancient priestess of the Asgardian Pantheon who senses truth in Athalwa's visions and provides mystical counsel and validation.
 

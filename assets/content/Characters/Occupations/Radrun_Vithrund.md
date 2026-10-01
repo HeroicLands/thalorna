@@ -1,6 +1,6 @@
 ---
 shortcode: rdrnvthrnd
-name: {full: Rádrún Vithrúnd, aliases: []}
+name: {full: Radrun Vithrund, aliases: []}
 type: being
 subType: npc
 tags: [draft, underworld]
@@ -394,13 +394,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Rádrún Vithrúnd is a 22-year-old woman who stands 5'9" tall and is slender. She has a long face with angular cheekbones, a lined forehead, and a strong jaw that leads to a broad chin. Her almond-shaped blue eyes sit beneath heavy brows and give her a measured gaze. She has a straight nose and expressive lips. She has light skin with a weathered complexion. Her brown hair is loose and wavy.
+Radrun Vithrund is a 22-year-old woman who stands 5'9" tall and is slender. She has a long face with angular cheekbones, a lined forehead, and a strong jaw that leads to a broad chin. Her almond-shaped blue eyes sit beneath heavy brows and give her a measured gaze. She has a straight nose and expressive lips. She has light skin with a weathered complexion. Her brown hair is loose and wavy.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Rádrún Vithrúnd is a prostitute.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Radrun Vithrund is a prostitute.
 
-Rádrún works in the same brothel as Nyssa, and secretly serves the Gray Tide. While she entertains clients, she acts as a lookout and messenger for the organization. She is known for her ability to blend into the background and overhear what is worth knowing. For all her involvement with the Tide, she remains conflicted about her choices and the risks of her double life.
+Radrun works in the same brothel as Nyssa, and secretly serves the Gray Tide. While she entertains clients, she acts as a lookout and messenger for the organization. She is known for her ability to blend into the background and overhear what is worth knowing. For all her involvement with the Tide, she remains conflicted about her choices and the risks of her double life.
 
 Now at 22 years of age, she is a known figure among the prostitutes of Vrystwald.
 
@@ -412,7 +412,7 @@ She can be overly cautious, and struggles with guilt over her involvement with t
 
 ### Motivation
 
-Rádrún wants to stay safe in a double life, and to be able to live with what the Tide asks of her.
+Radrun wants to stay safe in a double life, and to be able to live with what the Tide asks of her.
 
 ### Strengths
 
@@ -420,13 +420,13 @@ She is observant, skilled in stealth, and adept at eavesdropping.
 
 ## Social
 
-Rádrún belongs to the Gray Tide, a maritime crime network operating in the coastal areas of Vrystwald.
+Radrun belongs to the Gray Tide, a maritime crime network operating in the coastal areas of Vrystwald.
 
 ## Companions
 
 ### Patrons
 
-Rádrún's patrons are the wealthy clients who pay for her company and discretion.
+Radrun's patrons are the wealthy clients who pay for her company and discretion.
 
 ### Enemies
 
@@ -434,12 +434,12 @@ Few; she is well liked in her trade, but some rival Tide members may challenge h
 
 ## Plot Hooks
 
-1. **The Prostitute's Dilemma**—A client Rádrún has come to trust says something in her hearing that the Gray Tide would pay for, and she can carry it to the Tide or keep it.
+1. **The Prostitute's Dilemma**—A client Radrun has come to trust says something in her hearing that the Gray Tide would pay for, and she can carry it to the Tide or keep it.
 
-2. **Old Grudges**—A rival in the Tide who doubts Rádrún's loyalty has set a test for her that she is not meant to know is one.
+2. **Old Grudges**—A rival in the Tide who doubts Radrun's loyalty has set a test for her that she is not meant to know is one.
 
-3. **Echoes of the Past**—A message Rádrún carried for the Tide in her first months is traced back to the brothel, and to her.
+3. **Echoes of the Past**—A message Radrun carried for the Tide in her first months is traced back to the brothel, and to her.
 
-4. **Shifting Winds**—Political change in Vrystwald threatens the Gray Tide's hold on the coast, and Rádrún can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Vrystwald threatens the Gray Tide's hold on the coast, and Radrun can adapt, resist, or leave.
 
-5. **The Opportunity**—The Tide offers Rádrún a place beyond the brothel, and a heavier share of the work she already doubts.
+5. **The Opportunity**—The Tide offers Radrun a place beyond the brothel, and a heavier share of the work she already doubts.

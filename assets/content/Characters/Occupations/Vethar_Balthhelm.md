@@ -1,6 +1,6 @@
 ---
 shortcode: vthrblthlm
-name: {full: Véthar Balthhelm, aliases: []}
+name: {full: Vethar Balthhelm, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -393,15 +393,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Véthar Balthhelm is a 60-year-old man who stands 5'8" tall and is broad and solidly built. He has a diamond face with soft cheekbones, a narrow forehead, and a strong jaw that leads to a strong chin. His large green eyes sit beneath prominent brows, lending him an expressive gaze. A broad nose and narrow lips complete his features. He has medium-toned skin with a rough complexion. His red hair is pulled back in a warrior's knot.
+Vethar Balthhelm is a 60-year-old man who stands 5'8" tall and is broad and solidly built. He has a diamond face with soft cheekbones, a narrow forehead, and a strong jaw that leads to a strong chin. His large green eyes sit beneath prominent brows, lending him an expressive gaze. A broad nose and narrow lips complete his features. He has medium-toned skin with a rough complexion. His red hair is pulled back in a warrior's knot.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a guilded family of Varokhi heritage, Véthar Balthhelm came into the world of the innkeeper through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a guilded family of Varokhi heritage, Vethar Balthhelm came into the world of the innkeeper through a combination of circumstance and aptitude.
 
-Véthar has been the innkeeper of the Old Stone Inn for over thirty years. Known for his hearty laugh and welcoming nature, he has built a loyal clientele. Véthar is a skilled cook, often sharing recipes passed down through generations. While he enjoys the camaraderie of guests, he also values the peace and tranquility of the countryside.
+Vethar has been the innkeeper of the Old Stone Inn for over thirty years. Known for his hearty laugh and welcoming nature, he has built a loyal clientele. Vethar is a skilled cook, often sharing recipes passed down through generations. While he enjoys the camaraderie of guests, he also values the peace and tranquility of the countryside.
 
-Now at 60 years of age, Véthar Balthhelm has established himself as a known figure among the innkeepers of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 60 years of age, Vethar Balthhelm has established himself as a known figure among the innkeepers of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
 ## Psyche
 
@@ -411,7 +411,7 @@ Sometimes overly nostalgic, struggles with physical tasks due to age.
 
 ### Motivation
 
-Véthar is driven by the desire to master his craft and secure a stable future. The uncertainties of life in innkeeper work keep him vigilant and adaptable.
+Vethar is driven by the desire to master his craft and secure a stable future. The uncertainties of life in innkeeper work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -419,15 +419,15 @@ Skilled cook, excellent host, great storyteller.
 
 ## Social
 
-Véthar is affiliated with Local Innkeepers' Association.
+Vethar is affiliated with Local Innkeepers' Association.
 
-As a Varokhi innkeeper, Véthar occupies a recognized social niche within Vrystwald society.
+As a Varokhi innkeeper, Vethar occupies a recognized social niche within Vrystwald society.
 
 ## Companions
 
 ### Patrons
 
-Véthar's primary patron is Regulars from the local community and travelers.. This relationship provides both opportunity and obligation.
+Vethar's primary patron is Regulars from the local community and travelers.. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -435,12 +435,12 @@ Few; well-respected in the area.
 
 ## Plot Hooks
 
-1. **The Innkeeper's Dilemma**—Véthar faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
+1. **The Innkeeper's Dilemma**—Vethar faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
 
 2. **Old Grudges**—Few; well-respected in the area. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Véthar's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Vethar's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vrystwald threaten to upend the social order that Véthar depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vrystwald threaten to upend the social order that Vethar depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Véthar the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Vethar the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

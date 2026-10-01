@@ -177,13 +177,13 @@ function ticked(text) {
 export function demark(word) {
     return word
         .normalize("NFD")
-        .replace(/[̀-ͯ]/g, "")
+        .replace(/[\u0300-\u036f]/g, "")
         .normalize("NFC");
 }
 
 /** The combining marks a word carries, in the order they stand. */
 export function marksOf(word) {
-    return [...word.normalize("NFD")].filter((char) => /[̀-ͯ]/.test(char));
+    return [...word.normalize("NFD")].filter((char) => /[\u0300-\u036f]/.test(char));
 }
 
 /**
@@ -195,7 +195,7 @@ export function marksOf(word) {
 export function sounds(word) {
     const lower = word.toLowerCase();
     const out = [];
-    for (let i = 0; i < lower.length; ) {
+    for (let i = 0; i < lower.length;) {
         const pair = lower.slice(i, i + 2);
         if (DIGRAPHS.includes(pair)) {
             out.push(pair);
@@ -243,12 +243,12 @@ export function listed(text) {
         const body = section(text, heading).split("\n").slice(1).join("\n").trim();
         // A clan entry carries its gloss, so the split is on a comma that a
         // capital follows; a given-name list has nothing but names in it.
-        const entries =
-            kind === "clan" ?
-                body.split(/,\s*(?=[A-Z])/)
-            :   body.split(/,\s*/);
+        const entries = kind === "clan" ? body.split(/,\s*(?=[A-Z])/) : body.split(/,\s*/);
         for (const entry of entries) {
-            const word = entry.trim().split(/\s*[–-]\s*"/)[0].trim();
+            const word = entry
+                .trim()
+                .split(/\s*[–-]\s*"/)[0]
+                .trim();
             if (word) out.push({ name: word, kind, listed: heading });
         }
     }
@@ -271,7 +271,8 @@ export function lexiconFrom(text) {
         sounding.indexOf("**What may open a name.**"),
     );
     const letters = new Set();
-    for (const run of ticked(letterPara)) for (const letter of run.split(/\s+/)) letters.add(letter);
+    for (const run of ticked(letterPara))
+        for (const letter of run.split(/\s+/)) letters.add(letter);
     const forbidden = new Set(
         [...letterPara.matchAll(/no `([a-z])`/g)].map((match) => match[1].toLowerCase()),
     );
@@ -326,7 +327,12 @@ export function lexiconFrom(text) {
         if (!forms.length) continue;
         const cited = (cells[cells.length - 1] ?? "")
             .split(/[,;]/)
-            .map((part) => part.trim().split(/\s/)[0].replace(/[_*`"]/g, ""))
+            .map((part) =>
+                part
+                    .trim()
+                    .split(/\s/)[0]
+                    .replace(/[_*`"]/g, ""),
+            )
             .filter((word) => /^[A-Z][\p{L}\p{M}']*$/u.test(word));
         for (const form of forms) {
             const bare = form.replace(/^-|-$/g, "").toLowerCase();
@@ -344,7 +350,8 @@ export function lexiconFrom(text) {
         for (const form of ticked(cells[0] ?? "")) ground.add(form.replace(/^-/, "").toLowerCase());
     const offices = new Set();
     for (const cells of rows(section(text, "### Ranks, offices and orders")))
-        for (const form of ticked(cells[0] ?? "")) offices.add(form.replace(/^-/, "").toLowerCase());
+        for (const form of ticked(cells[0] ?? ""))
+            offices.add(form.replace(/^-/, "").toLowerCase());
 
     // The particle that joins two names in a company's or an order's name, and
     // the words the tongue gives whole.
@@ -454,9 +461,9 @@ export function shape(name, rule) {
         // sits rather than the bare combining character.
         const shown = [
             ...new Set(
-                [...name.normalize("NFC")].filter((letter) => marksOf(letter).length).map(
-                    (letter) => `"${letter}"`,
-                ),
+                [...name.normalize("NFC")]
+                    .filter((letter) => marksOf(letter).length)
+                    .map((letter) => `"${letter}"`),
             ),
         ].join(", ");
         const refused = marks.every((mark) => rule.refused.has(mark));
@@ -626,7 +633,8 @@ export function corpus(rule) {
             add(given, "given", file, raw);
             add(clan, "clan", file, raw);
             let rest = full;
-            for (const part of [given, clan].filter(Boolean)) rest = rest.replace(String(part), " ");
+            for (const part of [given, clan].filter(Boolean))
+                rest = rest.replace(String(part), " ");
             for (const alias of [rest, ...(front.name?.aliases ?? [])]) {
                 if (alias && String(alias).trim()) bynames.push(String(alias).trim());
             }
