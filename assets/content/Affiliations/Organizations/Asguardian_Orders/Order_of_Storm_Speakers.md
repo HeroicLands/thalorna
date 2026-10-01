@@ -15,67 +15,31 @@ data:
   governance:
     model: council
     summary: >-
-      A chapter of professed brethren under an elected Grand Master, all of them bound by the rule he enforces.
+      A candidate stands the receptive test at Thrumufjall before a sponsoring Speaker presents him for examination; the conclave of Storm-Captains also tries and casts out a Speaker for cause, and chooses the Voice of the Hammer from among its own for life.
     ranks:
       - level: 0
-        title: Expelled
-        lore: expelledrnk
+        title: Put from the Order
+        lore: putfromordrrnk
         description: >-
-          Put out of the order, the habit taken back and the vows declared void; no house of it will receive them again.
+          Cast out by conclave of the Storm-Captains, closing Thrumufjall and every chapter hall's hospitality for good.
       - level: 1
-        title: Servant
-        lore: servantrnk
+        title: Storm-Aspirant
+        lore: ordrcandidrnk
         description: >-
-          Attached to a house for its labor—its stables, its kitchens, its fields—and not of the order.
-      - level: 2
-        title: Postulant
-        lore: catechumenrnk
-        description: Petitioning for admission and living under the rule on trial, bound by nothing yet.
+          Trains at Thrumufjall or under a sitting Speaker, tested for weather-sensitivity in a thunderstorm and dismissed regardless of other merit if the test finds nothing in them.
       - level: 3
-        title: Novice
-        lore: catechumenrnk
+        title: Sworn Speaker
+        lore: swornspkrrnk
         description: >-
-          Received for a term of formation, under the rule and under a master of novices, and free to leave until profession.
+          Acts on the order's behalf and draws its hospitality anywhere in the Nordlands, reading a storm before calling it and answering the standing arrangements a coastal town keeps for its defense.
       - level: 4
-        title: Professed
-        lore: professedrnk
+        title: Storm-Captain
+        lore: ordrseniorrnk
         description: >-
-          Vowed to the order for life, holding no property of their own and owing obedience to its officers.
-      - level: 5
-        title: Officer
-        lore: officerrnk
-        description: Holding a charge of a house—its arms, its stores, its almsgiving, its chapel.
-      - level: 6
-        title: Commander
-        lore: commanderrnk
-        description: >-
-          Holding a house of the order, its brethren and its lands, and answerable for both to the chapter.
-      - level: 7
-        title: Preceptor
-        lore: highpriestrnk
-        description: >-
-          Holding a province of the order—several houses—and sitting in the chapter that elects its head.
-      - level: 8
-        title: Grand Master
-        lore: grandmasterrnk
-        description: >-
-          Head of the order, elected by the chapter, bound by the rule he enforces and removable under it.
+          Leads tactical actions in the field, instructs Aspirants, and sits in the conclave that chooses the Voice of the Hammer.
     offices:
-      Grand Master: Head of the order, elected by the chapter and himself bound by the rule.
-      Preceptor: Holder of a province of the order, and an elector in the chapter.
-      Commander: Holder of a single house, its brethren and its lands.
-      Marshal: Master of the order's arms, horses and discipline in the field.
-      Seneschal: >-
-        Second to the Grand Master, holding the order's administration and standing for him in his absence.
-      Draper: >-
-        Keeper of the habit and equipment, whose issue marks a brother's standing as plainly as any rank.
-      Almoner: >-
-        Administrator of the order's charity, which is commonly the reason it was chartered at all.
-      Chaplain: >-
-        Keeper of the order's rites and of its brethren's souls, and not under the Marshal's discipline.
-      Master of Novices: Charged with formation, and with judging who may profess.
-      Treasurer: Keeper of the order's revenue, its endowments and its debts.
-      Standard-Bearer: Carrier of the order's banner, a charge given to a professed brother of proven service.
+      Voice of the Hammer: >-
+        The order's chair, chosen for life by conclave of the Storm-Captains; one position.
   seat: null
   domains: []
   population: null
@@ -104,12 +68,14 @@ The Storm-Speakers are widely regarded as the most directly useful of the Asguar
 
 Candidates are presented to the order by a sponsoring Speaker, typically between sixteen and twenty years of age. The examination is in three parts: martial (combat with the order's signature weapons, principally the two-handed hammer and the short axe), devotional (knowledge of Thrúnvald's myth-cycle and the order's vow), and _receptive_—a test of the candidate's latent sensitivity to weather-craft. The receptive test is conducted at Thrumufjall during a thunderstorm; candidates who do not register the storm in the trained ways the testers look for are dismissed regardless of their other merits.
 
-There are four working ranks:
+The order holds four ranks:
 
+- **Put from the Order**—cast out by conclave of the Storm-Captains, closing Thrumufjall and every chapter hall's hospitality for good.
 - **Storm-Aspirant** (_Stormefnir_)—candidate in training; serves at Thrumufjall or under a sitting Speaker.
 - **Sworn Speaker** (_Stormmaelir_)—full member; permitted to act on the order's behalf and to draw on its hospitality across the Nordlands.
 - **Storm-Captain** (_Stormhöfdingi_)—senior member; leads tactical actions in the field and instructs Aspirants.
-- **Voice of the Hammer** (_Hamarsmál_)—the order's chair; one position; chosen for life by conclave of the Storm-Captains.
+
+The order's chair, the **Voice of the Hammer** (_Hamarsmál_), is chosen for life by conclave of the Storm-Captains—one position.
 
 The order's mother-hall is at **Thrumufjall**, a sheer seamount on the Nordheim coast topped by an ancient Thrúnvald-temple. The hall serves as training ground (the seamount's exposed summit is where weather-craft is taught), administrative center, and the order's spiritual heart. Smaller chapter halls operate in each of the other four Nordland kingdoms.
 

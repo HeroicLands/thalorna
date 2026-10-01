@@ -13,67 +13,31 @@ data:
   governance:
     model: council
     summary: >-
-      A chapter of professed brethren under an elected Grand Master, all of them bound by the rule he enforces.
+      A sworn devotee serves as Hand-Squire until the Council of Hands examines and admits him a Sworn Hand; the Council also tries and puts a Hand from the order for a broken ruling, and elects the Voice of Lögstead from its Elder Hands for life.
     ranks:
       - level: 0
-        title: Expelled
-        lore: expelledrnk
+        title: Put from the Order
+        lore: putfromordrrnk
         description: >-
-          Put out of the order, the habit taken back and the vows declared void; no house of it will receive them again.
+          Cast out at trial before the Council of Hands for softening a ruling, taking a gift from an interested party, or refusing a hard case, closing every chapter's hospitality for good.
       - level: 1
-        title: Servant
-        lore: servantrnk
+        title: Hand-Squire
+        lore: ordrcandidrnk
         description: >-
-          Attached to a house for its labor—its stables, its kitchens, its fields—and not of the order.
-      - level: 2
-        title: Postulant
-        lore: catechumenrnk
-        description: Petitioning for admission and living under the rule on trial, bound by nothing yet.
+          Serves a senior knight for five to ten years before standing examination, doing the order's work while holding none of its authority to judge.
       - level: 3
-        title: Novice
-        lore: catechumenrnk
+        title: Sworn Hand
+        lore: swornhandrnk
         description: >-
-          Received for a term of formation, under the rule and under a master of novices, and free to leave until profession.
+          Rides circuit or takes contracts from the order, convening a ting under Eidgar's white wand to render and enforce a binding ruling.
       - level: 4
-        title: Professed
-        lore: professedrnk
+        title: Elder Hand
+        lore: ordrseniorrnk
         description: >-
-          Vowed to the order for life, holding no property of their own and owing obedience to its officers.
-      - level: 5
-        title: Officer
-        lore: officerrnk
-        description: Holding a charge of a house—its arms, its stores, its almsgiving, its chapel.
-      - level: 6
-        title: Commander
-        lore: commanderrnk
-        description: >-
-          Holding a house of the order, its brethren and its lands, and answerable for both to the chapter.
-      - level: 7
-        title: Preceptor
-        lore: highpriestrnk
-        description: >-
-          Holding a province of the order—several houses—and sitting in the chapter that elects its head.
-      - level: 8
-        title: Grand Master
-        lore: grandmasterrnk
-        description: >-
-          Head of the order, elected by the chapter, bound by the rule he enforces and removable under it.
+          Takes apprentices, may strip a knight of rank on the spot pending trial, and sits among the twelve on the Council of Hands that elects the Voice of Lögstead.
     offices:
-      Grand Master: Head of the order, elected by the chapter and himself bound by the rule.
-      Preceptor: Holder of a province of the order, and an elector in the chapter.
-      Commander: Holder of a single house, its brethren and its lands.
-      Marshal: Master of the order's arms, horses and discipline in the field.
-      Seneschal: >-
-        Second to the Grand Master, holding the order's administration and standing for him in his absence.
-      Draper: >-
-        Keeper of the habit and equipment, whose issue marks a brother's standing as plainly as any rank.
-      Almoner: >-
-        Administrator of the order's charity, which is commonly the reason it was chartered at all.
-      Chaplain: >-
-        Keeper of the order's rites and of its brethren's souls, and not under the Marshal's discipline.
-      Master of Novices: Charged with formation, and with judging who may profess.
-      Treasurer: Keeper of the order's revenue, its endowments and its debts.
-      Standard-Bearer: Carrier of the order's banner, a charge given to a professed brother of proven service.
+      Voice of Lögstead: >-
+        The order's chair, elected from the Council of Hands for life; one position, acting as first among equals rather than as a commander.
   seat: null
   domains: []
   population: null
@@ -102,13 +66,14 @@ By tradition the order's knights ride alone or in pairs. They wear the broken-ha
 
 Membership is open to any sworn devotee of Eidgar who can pass the order's examinations. The examinations are rigorous and multi-part: martial competence, legal memory (the laws of all five kingdoms are required, plus the principal precedents of inter-kingdom dispute), the rules of judgment-by-combat, the rhetorical and procedural conduct of a ting, and a final personal interview before the **Council of Hands** at Lögstead. The order admits women on the same terms as men, and has done so since the third generation of its existence; the surviving founders' rolls record several women among the first members.
 
-There are three ranks:
+The order holds four ranks:
 
-- **Sworn Hand** (_Eidhönd_)—the working knight; takes contracts from the order or rides his own circuit by elder permission.
-- **Elder Hand** (_Eldri Eidhönd_)—senior member; recognized for many years of service or for notable rulings; permitted to take apprentices and to sit on the Council of Hands.
-- **Voice of Lögstead** (_Lögstadar Mál_)—the order's chair, elected from the Council for life; one position; functions as primus inter pares rather than commander.
+- **Put from the Order**—cast out at trial before the Council of Hands, for softening a ruling, taking a gift from an interested party, or refusing a hard case; every chapter's hospitality is closed to them for good.
+- **Hand-Squire** (_Höndskjöldr_)—the admitted candidate; serves a senior knight for five to ten years before standing for examination, doing the order's work while holding none of its authority to judge.
+- **Sworn Hand** (_Eidhönd_)—the working knight; takes contracts from the order or rides his own circuit by elder permission, convening a ting under the white wand to render and enforce a ruling.
+- **Elder Hand** (_Eldri Eidhönd_)—senior member, recognized for many years of service or for notable rulings; permitted to take apprentices, to strip a knight of rank on the spot pending trial, and to sit on the Council of Hands.
 
-Apprentices are admitted as **Hand-Squires** (_Höndskjöldr_) and serve a senior knight for five to ten years before standing for examination.
+The order's chair, the **Voice of Lögstead** (_Lögstadar Mál_), is elected from the Council of Hands for life—one position, acting as first among equals rather than as a commander.
 
 ## Doctrine and Practice
 

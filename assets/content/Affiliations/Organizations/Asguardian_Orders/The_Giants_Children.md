@@ -15,67 +15,33 @@ data:
   governance:
     model: council
     summary: >-
-      A chapter of professed brethren under an elected Grand Master, all of them bound by the rule he enforces.
+      A sponsor presents a candidate for a year of labor at a chapter hall before the rite of the Born of the Wound admits him outright; the assembled Fathers of the Halls also cast a brother from the order, and choose the Voice from the Wound in conclave.
     ranks:
       - level: 0
-        title: Expelled
-        lore: expelledrnk
+        title: Put from the Order
+        lore: putfromordrrnk
         description: >-
-          Put out of the order, the habit taken back and the vows declared void; no house of it will receive them again.
+          Cast out by the assembled Fathers of the Halls, closing every one of the nine chapter halls' hospitality for good.
       - level: 1
-        title: Servant
-        lore: servantrnk
+        title: The Frost-Touched
+        lore: ordrcandidrnk
         description: >-
-          Attached to a house for its labor—its stables, its kitchens, its fields—and not of the order.
-      - level: 2
-        title: Postulant
-        lore: catechumenrnk
-        description: Petitioning for admission and living under the rule on trial, bound by nothing yet.
+          Sponsored by a sitting brother and tested through a year of physical labor at a chapter hall; many withdraw or are dismissed before the rite that would admit them further.
       - level: 3
-        title: Novice
-        lore: catechumenrnk
+        title: The Born of the Wound
+        lore: bornofwoundrnk
         description: >-
-          Received for a term of formation, under the rule and under a master of novices, and free to leave until profession.
+          Admitted by a rite of severe physical ordeal and theological examination, wearing the order's permanent mark and bound by its absolute refusal of hire.
       - level: 4
-        title: Professed
-        lore: professedrnk
+        title: The Hand of the Maker
+        lore: ordrseniorrnk
         description: >-
-          Vowed to the order for life, holding no property of their own and owing obedience to its officers.
-      - level: 5
-        title: Officer
-        lore: officerrnk
-        description: Holding a charge of a house—its arms, its stores, its almsgiving, its chapel.
-      - level: 6
-        title: Commander
-        lore: commanderrnk
-        description: >-
-          Holding a house of the order, its brethren and its lands, and answerable for both to the chapter.
-      - level: 7
-        title: Preceptor
-        lore: highpriestrnk
-        description: >-
-          Holding a province of the order—several houses—and sitting in the chapter that elects its head.
-      - level: 8
-        title: Grand Master
-        lore: grandmasterrnk
-        description: >-
-          Head of the order, elected by the chapter, bound by the rule he enforces and removable under it.
+          Leads the order's actions in the field, instructs candidates, and sits among the Fathers of the Halls who choose the Voice from the Wound.
     offices:
-      Grand Master: Head of the order, elected by the chapter and himself bound by the rule.
-      Preceptor: Holder of a province of the order, and an elector in the chapter.
-      Commander: Holder of a single house, its brethren and its lands.
-      Marshal: Master of the order's arms, horses and discipline in the field.
-      Seneschal: >-
-        Second to the Grand Master, holding the order's administration and standing for him in his absence.
-      Draper: >-
-        Keeper of the habit and equipment, whose issue marks a brother's standing as plainly as any rank.
-      Almoner: >-
-        Administrator of the order's charity, which is commonly the reason it was chartered at all.
-      Chaplain: >-
-        Keeper of the order's rites and of its brethren's souls, and not under the Marshal's discipline.
-      Master of Novices: Charged with formation, and with judging who may profess.
-      Treasurer: Keeper of the order's revenue, its endowments and its debts.
-      Standard-Bearer: Carrier of the order's banner, a charge given to a professed brother of proven service.
+      Father of the Hall: >-
+        Chapter leader; one per chapter hall, nine in all, presiding over initiations and the hall's standing affairs.
+      Voice from the Wound: >-
+        The order's chair, chosen by the assembled Fathers of the Halls in conclave; one position.
   seat: null
   domains: []
   population: null
@@ -102,13 +68,14 @@ The order is exclusively male in present practice. The historical record include
 
 ## Membership and Structure
 
-Initiation is in stages, modeled on the order's understanding of the cosmogony.
+Initiation is in stages, modeled on the order's understanding of the cosmogony. The order holds four ranks:
 
+- **Put from the Order**—cast out by the assembled Fathers of the Halls, closing every one of the nine chapter halls' hospitality for good.
 - **The Frost-Touched** (_Hrímskírdr_)—the candidate stage; a young man (typically sixteen to twenty) sponsored by a sitting brother and tested through a year of physical labor at one of the chapter halls. Many candidates withdraw or are dismissed.
-- **The Born of the Wound** (_Sárborinn_)—initiate; admitted after a formal rite that involves both severe physical ordeal and theological examination. The Born of the Wound wear the order's mark and are full members.
+- **The Born of the Wound** (_Sárborinn_)—admitted after a formal rite that involves both severe physical ordeal and theological examination. The Born of the Wound wear the order's mark and are full members.
 - **The Hand of the Maker** (_Smidshönd_)—senior brother; advanced rite of initiation; permitted to lead the order's actions in the field and to instruct candidates.
-- **The Father of the Hall** (_Hallarfadir_)—chapter leader; one per chapter hall; presides over initiations and the chapter's standing affairs.
-- **The Voice from the Wound** (_Sármál_)—the order's chair; one position; chosen by the assembled Fathers of the Halls in conclave following the death or retirement of the prior Voice.
+
+Two offices sit above the ranks. The **Father of the Hall** (_Hallarfadir_) leads a single chapter hall—one per hall, nine in all—and presides over initiations and the chapter's standing affairs. The **Voice from the Wound** (_Sármál_) is the order's chair, chosen by the assembled Fathers of the Halls in conclave following the death or retirement of the prior Voice.
 
 The order maintains nine chapter halls across the Nordlands, each commanded by a Father of the Hall. The chapter halls are typically remote—high valleys, coastal cliffs, the northern frontier—chosen for the harshness of their settings, which the order considers spiritually formative.
 
