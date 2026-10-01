@@ -471,12 +471,12 @@ Rulthvir is motivated by a desire that extends beyond human ambition—he wants 
 
 ### Patrons
 
-- **Lord Skrildmýl Stormborn** - A powerful regional noble who depends on Rulthvir's knowledge to maintain the livestock that supplies his household and feeds his warriors. Skrildmýl has significant respect for Rulthvir's judgment and occasionally seeks his counsel on matters beyond herding.
-- **The Pastoral Families of Norgaad** - Rulthvir has no single patron; he is a trusted advisor to dozens of herding families who regularly seek his counsel and purchase young stock from his herds.
+- **Lord Skrildmýl Stormborn**: A powerful regional noble who depends on Rulthvir's knowledge to maintain the livestock that supplies his household and feeds his warriors. Skrildmýl has significant respect for Rulthvir's judgment and occasionally seeks his counsel on matters beyond herding.
+- **The Pastoral Families of Norgaad**: Rulthvir has no single patron; he is a trusted advisor to dozens of herding families who regularly seek his counsel and purchase young stock from his herds.
 
 ### Enemies
 
-- None formally, though there are subtle tensions with younger herders who view Rulthvir's traditionalism as an obstacle to new methods and better yields.
+None formally, though there are subtle tensions with younger herders who view Rulthvir's traditionalism as an obstacle to new methods and better yields.
 
 ### Affiliations
 

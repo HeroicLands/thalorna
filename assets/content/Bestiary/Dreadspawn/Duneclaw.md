@@ -6,6 +6,7 @@ subType: creature
 description: "A massive venomous desert arthropod that rules its dune-fields with crushing force, cunning, and predatory instinct."
 tags: [dreadspawn]
 data:
+  packFolder: dreadspawn
   icon: icon-person
   templatePriority: null
   archetypes: []

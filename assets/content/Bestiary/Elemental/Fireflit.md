@@ -6,6 +6,7 @@ subType: creature
 description: "A small, clever fire elemental serving as scout or messenger, harmless alone but a genuine threat when gathered into a burning swarm."
 tags: [elemental]
 data:
+  packFolder: elementals
   icon: icon-person
   templatePriority: null
   archetypes: []

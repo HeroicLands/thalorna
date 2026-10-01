@@ -6,6 +6,7 @@ subType: creature
 description: "A centuries-old herbivorous reptile and near-indestructible walking fortress, peaceful and indifferent as it grazes slowly through the ages."
 tags: [animal]
 data:
+  packFolder: animals
   icon: icon-person
   templatePriority: null
   archetypes: []

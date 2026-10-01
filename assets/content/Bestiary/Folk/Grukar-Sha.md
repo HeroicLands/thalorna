@@ -6,6 +6,7 @@ subType: creature
 description: "A frail, cunning Grukar schemer who survives by never seeming a threat, winning through manipulation rather than any fair fight."
 tags: [folk]
 data:
+  packFolder: folk
   icon: icon-person
   templatePriority: null
   archetypes: []

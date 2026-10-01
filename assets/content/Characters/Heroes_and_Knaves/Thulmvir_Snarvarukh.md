@@ -470,14 +470,14 @@ At forty, Thulmvir is primarily motivated by the desire to preserve authentic cr
 
 ### Patrons
 
-- **The Merchant House Valdris** - A wealthy merchant family that has commissioned custom tableware and storage vessels from Thulmvir for the past fifteen years. The patriarch, **Lord Aldric Valdris**, respects traditional craftsmanship and ensures that **Thulmvir's** work remains in demand among the upper classes.
-- **The Miller's Cooperatives** - Multiple miller families depend on Thulmvir's storage and measurement vessels, which are prized for their durability and accuracy of form.
-- **Herbalist Magga Hvalgumakh** - A respected healer who commissioned a series of specialized vessels for preserving medicines and herbs, and who has become a genuine friend despite their generational difference.
+- **The Merchant House Valdris**: A wealthy merchant family that has commissioned custom tableware and storage vessels from Thulmvir for the past fifteen years. The patriarch, **Lord Aldric Valdris**, respects traditional craftsmanship and ensures that **Thulmvir's** work remains in demand among the upper classes.
+- **The Miller's Cooperatives**: Multiple miller families depend on Thulmvir's storage and measurement vessels, which are prized for their durability and accuracy of form.
+- **Herbalist Magga Hvalgumakh**: A respected healer who commissioned a series of specialized vessels for preserving medicines and herbs, and who has become a genuine friend despite their generational difference.
 
 ### Enemies
 
-- **The Merchants' Collective of New Fashion** - A coalition of younger merchants and traders who have begun importing cheaper, mass-produced ceramics from distant lands, undercutting Thulmvir's prices and promoting contemporary aesthetic values that directly contrast with his traditional work.
-- **Artisan Eldrik Vrathumakh** - A younger potter of considerable talent who studied under Thulmvir for three years before breaking away to establish a rival workshop. Eldrik champions innovative glazing techniques and contemporary form, directly challenging Thulmvir's market dominance. The ideological conflict between them runs deep.
+- **The Merchants' Collective of New Fashion**: A coalition of younger merchants and traders who have begun importing cheaper, mass-produced ceramics from distant lands, undercutting Thulmvir's prices and promoting contemporary aesthetic values that directly contrast with his traditional work.
+- **Artisan Eldrik Vrathumakh**: A younger potter of considerable talent who studied under Thulmvir for three years before breaking away to establish a rival workshop. Eldrik champions innovative glazing techniques and contemporary form, directly challenging Thulmvir's market dominance. The ideological conflict between them runs deep.
 
 ### Affiliations
 

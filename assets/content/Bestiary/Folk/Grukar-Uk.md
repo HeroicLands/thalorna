@@ -6,6 +6,7 @@ subType: creature
 description: "A small, dull, lazy Grukar drone forming the teeming bulk of any tribe, unremarkable but overwhelming in sheer numbers."
 tags: [folk]
 data:
+  packFolder: folk
   icon: icon-person
   templatePriority: null
   archetypes: []

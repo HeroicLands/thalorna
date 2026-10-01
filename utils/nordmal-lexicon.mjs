@@ -936,18 +936,25 @@ export function checkConcordance(table, rule, tally) {
             .filter((entry) => entry.newName && entry.type !== "spelling")
             .map((entry) => ({
                 name: entry.newName,
+                // A row's `type` and `subType` select the rule its name is
+                // judged under. A row may instead name its own `kinds`, on the
+                // keep-list's terms and with the keep-list's meaning: empty for
+                // a name written in another tongue or in the reader's, which is
+                // never claimed as a lawful Nordmal form and so never judged as
+                // one. A Varokhi standing and an English rank label are both
+                // that case, and the note's rules have no jurisdiction over
+                // either.
                 kind:
-                    entry.type === "place" ?
+                    entry.kinds ??
+                    (entry.type === "place" ?
                         "place"
-                    :   (CONCORDANCE_KIND.get(entry.subType) ?? "compound"),
+                    :   (CONCORDANCE_KIND.get(entry.subType) ?? "compound")),
                 why: "the concordance settles it as new",
             })),
         // A keep-list row says a name stands and does not say what kind of name
         // it is, so it is held to whichever rule fits: a place name and a
-        // compound are both lawful things for one to be. A row may instead name
-        // its own `kinds`, empty for a literal kept only so the drift sweep
-        // passes it by — a different person's or a different tongue's word,
-        // never claimed as a lawful Nordmal form and so never judged as one.
+        // compound are both lawful things for one to be. Its `kinds` carries the
+        // same meaning as an entry's.
         ...(table.keep ?? []).map((entry) => ({
             name: entry.literal,
             kind: entry.kinds ?? ["compound", "place"],

@@ -6,6 +6,7 @@ subType: creature
 description: "The lonely, searching spirit of a creature that died far from home, pursuing living beings in hope of companionship it can never reclaim."
 tags: [spirit]
 data:
+  packFolder: spirit
   icon: icon-person
   templatePriority: null
   archetypes: []

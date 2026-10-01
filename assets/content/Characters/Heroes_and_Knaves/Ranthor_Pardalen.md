@@ -470,15 +470,15 @@ Ránthor is motivated by a commitment to prevent the suffering he experienced in
 
 ### Patrons
 
-- **Chief Aelyndor:** The current tribal leader who relies on Ránthor for counsel on matters both spiritual and martial; they have worked together for two decades and maintain deep trust despite their different temperaments.
-- **Captain Nerida:** A decorated military officer of the Kingdom of Élavendre who acts as liaison between the kingdom's forces and the tribes. She and Ránthor maintain a formal relationship with hints of deeper mutual respect and perhaps unresolved personal history.
-- **Elder Healer Morvain:** The oldest and most respected pure mystic shaman in the tribe who, despite their different approaches, respects Ránthor's results and refers patients to him for practical healing when her own spiritual work is insufficient.
+- **Chief Aelyndor**: The current tribal leader who relies on Ránthor for counsel on matters both spiritual and martial; they have worked together for two decades and maintain deep trust despite their different temperaments.
+- **Captain Nerida**: A decorated military officer of the Kingdom of Élavendre who acts as liaison between the kingdom's forces and the tribes. She and Ránthor maintain a formal relationship with hints of deeper mutual respect and perhaps unresolved personal history.
+- **Elder Healer Morvain**: The oldest and most respected pure mystic shaman in the tribe who, despite their different approaches, respects Ránthor's results and refers patients to him for practical healing when her own spiritual work is insufficient.
 
 ### Enemies
 
-- **Traditionalist Shamans' Faction:** Led by elder shamans like Korvin the Keeper, this faction views Ránthor as a dilution of true shamanic practice; they openly challenge his authority and question whether his crown tattoo marks him as a traitor who carries enemy (kingdom) symbolism into shamanic circles.
-- **Kingdom Hardliners:** Military commanders and courtiers within Élavendre who view Ránthor's bridging work between kingdom and tribe as disloyalty; they see his shamanic service as abandonment of his former oath.
-- **Lord Vexus of the Obsidian Order:** An ambitious noble with ties to dark magic and military ambition who views Ránthor's peace-brokering efforts as obstacles to his plans for territorial expansion; he has twice attempted to have Ránthor discredited or eliminated.
+- **Traditionalist Shamans' Faction**: Led by elder shamans like Korvin the Keeper, this faction views Ránthor as a dilution of true shamanic practice; they openly challenge his authority and question whether his crown tattoo marks him as a traitor who carries enemy (kingdom) symbolism into shamanic circles.
+- **Kingdom Hardliners**: Military commanders and courtiers within Élavendre who view Ránthor's bridging work between kingdom and tribe as disloyalty; they see his shamanic service as abandonment of his former oath.
+- **Lord Vexus of the Obsidian Order**: An ambitious noble with ties to dark magic and military ambition who views Ránthor's peace-brokering efforts as obstacles to his plans for territorial expansion; he has twice attempted to have Ránthor discredited or eliminated.
 
 ### Affiliations
 

@@ -472,15 +472,15 @@ Raiyaqu Gasezabu is driven by a vision of the Empire of Aû'Khelâthu as a place
 
 ### Patrons
 
-- **Lady Qeket Qelt'Agetu:** An elder noblewoman of celebrated taste who has been Raiyaqu's mentor in artistic patronage and cultural politics. She provides counsel on the shifting alliances of the factions.
-- **Master Architect Qelti:** A celebrated designer and builder who has benefited tremendously from Raiyaqu's commissions and patronage; he is devoted to her vision of elevating artisan crafts and advises her on building and public works.
-- **Genzet'Uznêra:** The priesthood of the fertility goddess that shares Raiyaqu's values concerning growth and renewal. They provide her with spiritual counsel and, occasionally, practical support for her endeavors.
+- **Lady Qeket Qelt'Agetu**: An elder noblewoman of celebrated taste who has been Raiyaqu's mentor in artistic patronage and cultural politics. She provides counsel on the shifting alliances of the factions.
+- **Master Architect Qelti**: A celebrated designer and builder who has benefited tremendously from Raiyaqu's commissions and patronage; he is devoted to her vision of elevating artisan crafts and advises her on building and public works.
+- **Genzet'Uznêra**: The priesthood of the fertility goddess that shares Raiyaqu's values concerning growth and renewal. They provide her with spiritual counsel and, occasionally, practical support for her endeavors.
 
 ### Enemies
 
-- **Lord Zelegezu:** A calculating noble of middling talent and significant wealth who views Raiyaqu's influence over the artistic community as a threat to his own status. He has spread insinuations that her patronage of common-born artisans is unseemly, and he quietly funds rival patrons to dilute her influence.
-- **Lin'Zuwaret elu Igelu:** An organization of wealthy traders who view Raiyaqu's advocacy for artisan rights and protections as interference in free trade; they resent her efforts on the council to fix minimum prices and conditions of work.
-- **Faction of Conservative Traditionalists:** A loose coalition of older nobles who view Raiyaqu's reforming ideas about advancement by merit and the arts for all as threats to the proper order of society; they mock her behind her back as naïve and dangerous.
+- **Lord Zelegezu**: A calculating noble of middling talent and significant wealth who views Raiyaqu's influence over the artistic community as a threat to his own status. He has spread insinuations that her patronage of common-born artisans is unseemly, and he quietly funds rival patrons to dilute her influence.
+- **Lin'Zuwaret elu Igelu**: An organization of wealthy traders who view Raiyaqu's advocacy for artisan rights and protections as interference in free trade; they resent her efforts on the council to fix minimum prices and conditions of work.
+- **Faction of Conservative Traditionalists**: A loose coalition of older nobles who view Raiyaqu's reforming ideas about advancement by merit and the arts for all as threats to the proper order of society; they mock her behind her back as naïve and dangerous.
 
 ### Affiliations
 

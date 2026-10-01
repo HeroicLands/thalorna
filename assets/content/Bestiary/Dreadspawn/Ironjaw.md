@@ -6,6 +6,7 @@ subType: creature
 description: "A metal-fused pack predator corrupted by dark magic that hunts mountains and industrial wastes, marking territory with bones and claw-scratches."
 tags: [dreadspawn]
 data:
+  packFolder: dreadspawn
   icon: icon-person
   templatePriority: null
   archetypes: []

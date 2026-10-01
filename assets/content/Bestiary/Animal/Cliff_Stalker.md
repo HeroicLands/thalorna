@@ -6,6 +6,7 @@ subType: creature
 description: "A massive solitary mountain feline built for vertical terrain and patient precision ambush, far larger than any snow leopard."
 tags: [animal]
 data:
+  packFolder: animals
   icon: icon-person
   templatePriority: null
   archetypes: []

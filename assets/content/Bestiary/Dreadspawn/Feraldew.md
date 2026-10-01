@@ -6,6 +6,7 @@ subType: creature
 description: "A corrupted cervid of predatory intelligence that infiltrates ordinary herds and ambushes travelers before they sense the danger."
 tags: [dreadspawn]
 data:
+  packFolder: dreadspawn
   icon: icon-person
   templatePriority: null
   archetypes: []

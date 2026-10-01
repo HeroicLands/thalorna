@@ -6,6 +6,7 @@ subType: creature
 description: "An eight-foot construct of interlocking iron plates, forged by arcane engineering to guard sacred sites, treasures, and treasured individuals."
 tags: [construct]
 data:
+  packFolder: constructs
   icon: icon-person
   templatePriority: null
   archetypes: []

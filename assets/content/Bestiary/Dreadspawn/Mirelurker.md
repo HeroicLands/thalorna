@@ -6,6 +6,7 @@ subType: creature
 description: "A crustacean-amphibian apex predator of brackish marshes that waits motionless as a submerged log before striking with brutal force."
 tags: [dreadspawn]
 data:
+  packFolder: dreadspawn
   icon: icon-person
   templatePriority: null
   archetypes: []

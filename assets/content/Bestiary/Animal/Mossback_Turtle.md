@@ -6,6 +6,7 @@ subType: creature
 description: "A ton-heavy reptile disguised as a rocky outcrop, its enormous domed shell so overgrown with moss, lichen, and fungi it vanishes into the landscape."
 tags: [animal]
 data:
+  packFolder: animals
   icon: icon-person
   templatePriority: null
   archetypes: []

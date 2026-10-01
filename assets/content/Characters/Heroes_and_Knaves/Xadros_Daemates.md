@@ -476,7 +476,7 @@ Xadrôs is motivated fundamentally by the creative impulse and the desire to cre
 
 ### Enemies
 
-- **None formally, though tensions exist with imported goods manufacturers who have begun selling cheaper, mass-produced items in the village market, undercutting local craftspeople's prices.**
+None formally, though tensions exist with imported goods manufacturers who have begun selling cheaper, mass-produced items in the village market, undercutting local craftspeople's prices.
 
 ### Affiliations
 

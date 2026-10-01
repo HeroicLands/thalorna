@@ -6,6 +6,7 @@ subType: creature
 description: "A powerfully built mountain herbivore and exceptional climber that holds cliffside territories beyond the reach of ground-bound predators."
 tags: [animal]
 data:
+  packFolder: animals
   icon: icon-person
   templatePriority: null
   archetypes: []

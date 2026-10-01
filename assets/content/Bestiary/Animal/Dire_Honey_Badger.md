@@ -6,6 +6,7 @@ subType: creature
 description: "A four-foot, four-hundred-pound honey badger scaled to lethal size, proportionally stronger, tougher, and even more relentlessly aggressive."
 tags: [animal]
 data:
+  packFolder: animals
   icon: icon-person
   templatePriority: null
   archetypes: []

@@ -6,6 +6,7 @@ subType: creature
 description: "A highly intelligent, amoral subterranean goblin living as solitary hunter or loose community, pursuing its own self-interest with unwavering consistency."
 tags: [folk]
 data:
+  packFolder: folk
   icon: icon-person
   templatePriority: null
   archetypes: []

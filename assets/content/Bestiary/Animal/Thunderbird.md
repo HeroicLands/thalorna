@@ -6,6 +6,7 @@ subType: creature
 description: "An enormous apex aerial predator with a sixty-to-eighty-foot wingspan that rides storm winds above remote mountain peaks and canyons."
 tags: [animal]
 data:
+  packFolder: animals
   icon: icon-person
   templatePriority: null
   archetypes: []

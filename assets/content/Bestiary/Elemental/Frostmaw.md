@@ -6,6 +6,7 @@ subType: creature
 description: "A titanic elemental of glacial destruction that lingers in frozen wastes for years, deepening winter and expanding its icy territory as it roams."
 tags: [elemental]
 data:
+  packFolder: elementals
   icon: icon-person
   templatePriority: null
   archetypes: []

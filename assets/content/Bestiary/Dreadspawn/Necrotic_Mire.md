@@ -6,6 +6,7 @@ subType: creature
 description: "An animate ooze born of concentrated decay in deep stagnant swamps, spreading inexorably to corrupt and consume all it touches."
 tags: [dreadspawn]
 data:
+  packFolder: dreadspawn
   icon: icon-person
   templatePriority: null
   archetypes: []

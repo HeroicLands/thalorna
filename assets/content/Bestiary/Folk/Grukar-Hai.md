@@ -6,6 +6,7 @@ subType: creature
 description: "A towering six-foot apex Grukar warrior, strongest of its kind, so consumed by the need for dominance it cannot tolerate its own kin."
 tags: [folk]
 data:
+  packFolder: folk
   icon: icon-person
   templatePriority: null
   archetypes: []

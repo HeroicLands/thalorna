@@ -6,6 +6,7 @@ subType: creature
 description: "A shadow-corrupted serpent of malign intelligence that haunts the dark, feeding on fear and suffering as much as on flesh."
 tags: [dreadspawn]
 data:
+  packFolder: dreadspawn
   icon: icon-person
   templatePriority: null
   archetypes: []

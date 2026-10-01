@@ -472,7 +472,7 @@ Véldor seeks the one thing that has always eluded him: the sense of genuine, la
 
 - **Dárion Ashford**: A younger actor of considerable talent who has begun to eclipse Véldor in popularity. Their professional rivalry has turned personal, with Dárion taking every opportunity to undermine Véldor's authority within the company and to disparage his performances.
 - **The Rival Stageworks Collective**: A competing theatrical company that has begun aggressively poaching the City Theater's best performers and audiences. Véldor sees their success as a personal affront.
-- **Master Celestyn Darnos** (Complicated): Though still Véldor's mentor and director, the aging Darnos has begun to criticize Véldor's recent work as lacking the depth and nuance of his earlier performances, suggesting that Véldor has grown complacent with success.
+- **Master Celestyn Darnos**: Complicated. Though still Véldor's mentor and director, the aging Darnos has begun to criticize Véldor's recent work as lacking the depth and nuance of his earlier performances, suggesting that Véldor has grown complacent with success.
 
 ### Affiliations
 

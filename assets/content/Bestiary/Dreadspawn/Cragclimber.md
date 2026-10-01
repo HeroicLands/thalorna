@@ -6,6 +6,7 @@ subType: creature
 description: "A draconic cliffside ambush predator perfectly adapted to vertical hunting, lurking invisible on rockfaces until the moment it strikes."
 tags: [dreadspawn]
 data:
+  packFolder: dreadspawn
   icon: icon-person
   templatePriority: null
   archetypes: []

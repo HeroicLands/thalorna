@@ -6,6 +6,7 @@ subType: creature
 description: "A fox-sized desert solifugid, neither venomous nor web-spinning, that compensates with pale bristling chitin and overwhelming jaw muscle."
 tags: [animal, image-needed]
 data:
+  packFolder: animals
   icon: icon-person
   templatePriority: null
   archetypes: []
