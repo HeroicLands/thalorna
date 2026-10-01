@@ -31,4 +31,4 @@ The Dreamwarden, keeper of the dream-rites and of those who sleep in the groves 
 
 ## Where This Standing Is Held
 
-The [[affiliation-baldr|Faith of Bjartr]] alone.
+The [[affiliation-bjartr|Faith of Bjartr]] alone.

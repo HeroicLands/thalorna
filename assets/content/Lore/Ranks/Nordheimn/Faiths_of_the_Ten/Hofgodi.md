@@ -31,4 +31,4 @@ None above it within the faith; the Landsgodi who hallows the ting island at Dó
 
 ## Where This Standing Is Held
 
-The seven faiths of the Ten that keep the blót: [[affiliation-odinn|Ódvar]], [[affiliation-thorr|Thrúnvald]], [[affiliation-tyr|Eidgar]], [[affiliation-freyr|Fródvin]], [[affiliation-freyja|Sólrún]], [[affiliation-loki|Vélgrímr]], and [[affiliation-surtr|Svartbrandr]], each under its own hof.
+The seven faiths of the Ten that keep the blót: [[affiliation-odvar|Ódvar]], [[affiliation-thrunvald|Thrúnvald]], [[affiliation-eidgar|Eidgar]], [[affiliation-frodvin|Fródvin]], [[affiliation-solrun|Sólrún]], [[affiliation-velgrimr|Vélgrímr]], and [[affiliation-svartbrandr|Svartbrandr]], each under its own hof.

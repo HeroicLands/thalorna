@@ -31,4 +31,4 @@ None short of entrustment as [[lore-calathirrnk|Calathir]].
 
 ## Where This Standing Is Held
 
-The [[affiliation-baldr|Faith of Bjartr]] alone.
+The [[affiliation-bjartr|Faith of Bjartr]] alone.

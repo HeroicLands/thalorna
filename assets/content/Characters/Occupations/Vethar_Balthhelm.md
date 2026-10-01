@@ -49,7 +49,7 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 15}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 13}}
-    - {model: affiliation-freyja}
+    - {model: affiliation-solrun}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 70}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 70}}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 13}}

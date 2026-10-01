@@ -31,4 +31,4 @@ None.
 
 ## Where This Standing Is Held
 
-Three of the four Asguardian fighting orders: the [[affiliation-ordrtyrsjstc|Order of the Sworn Hand]], the [[affiliation-ordrstrmspkrs|Order of the Storm-Speakers]], and the [[affiliation-ordrymrschldrn|Order of the Giant's Children]]. The [[affiliation-ordrfryrsgrdns|Order of the Green Wardens]] admits no member below its sworn rank.
+Three of the four Asguardian fighting orders: the [[affiliation-eidhond|Order of the Sworn Hand]], the [[affiliation-ordrstrmspkrs|Order of the Storm-Speakers]], and the [[affiliation-thursborn|Order of the Giant's Children]]. The [[affiliation-gronverdir|Order of the Green Wardens]] admits no member below its sworn rank.

@@ -89,7 +89,7 @@ sohl: {system: {commonSkills: []}}
 _Nordmal: Stormmaelendir—"Storm-Speakers"_
 
 - **Type:** Fighting religious order
-- **Patron:** [[affiliation-thorr|Thrúnvald]]—Asguardian god of thunder, storm, lightning, and the cosmic defense of the ordered world
+- **Patron:** [[affiliation-thrunvald|Thrúnvald]]—Asguardian god of thunder, storm, lightning, and the cosmic defense of the ordered world
 - **Region:** [[place-nrdlndsrgn|The Nordlands]], with strong presence along the coasts; chapter hall at the seamount-temple of Thrumufjall in Nordheim
 
 ## Overview
@@ -139,9 +139,9 @@ The combat doctrine is heavy-weapon focused—the two-handed hammer, the short a
 
 - **The Asguardian Pantheon's Priesthood**—religious foundation; the order's senior elevations include rites at Thrumufjall conducted by Thrúnvald's high priesthood.
 - **The five Nordland Crowns**—the kingdoms support the order through grants of coastal land for chapter halls and standing protection of the order's movements; the order in turn maintains the coastal defense arrangements that the crowns find indispensable.
-- **The [[affiliation-ordrtyrsjstc|Order of the Sworn Hand]]**—peer; cooperation when a matter requires both legal and tactical authority.
-- **The [[affiliation-ordrfryrsgrdns|Green Wardens]]**—formal cooperation in winter; weather and harvest are interrelated concerns.
-- **The [[affiliation-ordrymrschldrn|Giant's Children]]**—the theological congeniality is strongest with this order; both share an interest in primal forces. Cooperation in the field is more frequent than with the more domesticated orders.
+- **The [[affiliation-eidhond|Order of the Sworn Hand]]**—peer; cooperation when a matter requires both legal and tactical authority.
+- **The [[affiliation-gronverdir|Green Wardens]]**—formal cooperation in winter; weather and harvest are interrelated concerns.
+- **The [[affiliation-thursborn|Giant's Children]]**—the theological congeniality is strongest with this order; both share an interest in primal forces. Cooperation in the field is more frequent than with the more domesticated orders.
 - **The [[affiliation-ordoarcanis|Ordo Arcanis]]**—the only Asguardian fighting order with which the Ordo has attempted formal cooperation; the proposal was for joint research into weather-craft and was politely declined. The order regards Ordo interest in its weather-craft with grave suspicion.
 
 ## Identifying Marks
