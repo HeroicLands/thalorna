@@ -162,6 +162,21 @@ The anchors are part of the content format: the build sends `Appearance` to the 
 
 For a reusable NPC template, describe the role rather than inventing one person's biography. `Appearance` gives what a party commonly encounters, with room for variation. In `Dossier`, `Background` explains the role's training and place in society; `Psyche` gives typical priorities and possible variation; `Social` identifies the authorities and communities connected to the role; `Plot Hooks` gives **3–5 encounter situations** in which such an NPC matters. Individual patrons, enemies, or life events belong in a specific person's note when relevant. Keep the main section headings so the template is navigable, and omit personal relationship subsections that do not apply.
 
+**A roster entry names its person first.** Under `Patrons` and `Enemies`, and
+under any other list of people or bodies a being stands with or against, each
+entry is one bullet: the full name, in bold, then a colon, then what the
+relationship is and why it matters.
+
+```markdown
+- **Merchant-Lord Davos the Uncouth**: A wealthy merchant with smuggling
+  interests along the coast, who commissions maps of hidden coves.
+```
+
+The colon sits **outside** the bold, so the bold span is the name and nothing
+else. A title or epithet belongs inside it where that is how the person is
+named. A name written as a wikilink needs no bold, as _Mark every name_ sets
+out, and takes the colon after the link.
+
 **`creature` — a being outside the other two roles.** [Abyssal Silt](../assets/content/Bestiary/Dreadspawn/Abyssal_Silt.md) illustrates a predatory creature. Use `Appearance` to make the first encounter sensory and recognizable without revealing what the creature intends or can secretly do. Use `Dossier` for the runner's account, with `Presentation`, `Key Behaviors`, `Combat Strategy`, `Attack Methods`, `Special Abilities`, and `Attributes`.
 
 **Presentation tells the GM how the creature presents in play.** It can describe its manner, movement, sounds, and apparent intentions, then explain what lies beneath that first impression and when a closer look or interaction reveals it. A creature may appear to be a warm, playful animal with soft fur and expressive eyes. Its `Appearance` can give players that honest first impression; `Presentation` can tell the GM that the fur secretes acid and the mouth hides razor-sharp teeth, along with observable clues and ways those traits come into view. This lets the GM portray a discovery rather than announce hidden facts at first sight. Keep the information about how to stage the creature here; put its actual attacks and special effects under `Attack Methods` and `Special Abilities`.
@@ -276,12 +291,43 @@ These examples show a **third-person reference voice** that can briefly move clo
 
 **Voice:** Navigation rather than narration. Use a plain name and, if the body is shown to readers, a short explanation of what belongs there and how its entries relate. The folder organizes notes; the notes themselves carry the story and detailed reference.
 
+## Mark every name
+
+**A name is bolded on its first use in a note, unless it is a wikilink — a
+wikilink needs no bolding. Only the first use needs it, not the uses after.**
+
+This is how the corpus marks a name as significant, and it is what makes a name
+findable: a name nobody can locate cannot be checked, linked, renamed or
+translated, and the inventories that do that work read bold spans. A wikilink is
+exempt because the link already marks the name; a name is one or the other,
+never both.
+
+A naming phrase counts, not only a bare name. A named rite, ordeal, festival,
+relic, hall, ship, road, feud, vow or principle is a name — `Eye of the Void`,
+`Oathkeeper's Challenge`, `Rite of Minnir's Well`, `Walk to Holafell`. So is an
+epithet that stands for a person or a god, such as `The All-Father` or
+`Tvirnvir the Wanderer`, and so is a name carrying a possessive or a regnal
+number.
+
+Three things are not names, and none of them takes bold:
+
+- **A common noun**, however important the thing is.
+- **A rank, office or title used as the common word for it** — the godi who
+  keeps a hall, the hersvald who comes up from the valley. Such a word is a
+  name only where the phrase names one specific post, the way
+  `the Hersvald of the coastal district` names a seat.
+- **Emphasis on a sentence or a clause.** Bold on a whole statement is
+  emphasis, and a reader cannot tell it from a name. Where a sentence needs
+  weight, give it the weight with its own words.
+
 ## Keep the reference usable
 
 - **State facts where readers expect them.** Put locations, leaders, boundaries, normal weather, and other lookup information in clear prose or structured fields. Let narrative add meaning around them.
 - **Show consequences.** Explain what a measurement, custom, law, resource, or belief changes in everyday life.
 - **Keep perspectives identifiable.** Attribute a local's words or beliefs, especially where accounts disagree.
 - **Use maps and related notes.** Locate places and show routes between them; link to the adjacent region, settlement, institution, person, creature, or event when the relationship helps readers continue exploring.
+- **Keep names findable.** Bold a name on its first use unless it is a
+  wikilink, as _Mark every name_ sets out.
 - **Use space according to importance.** A major settlement can support a substantial account. A minor site still needs enough detail to distinguish it and make its links useful.
 
 The aim is a reference that rewards both kinds of use: a GM looking up a precise fact during preparation, and a player following their curiosity through the world. The facts stay dependable. The prose makes them matter.
