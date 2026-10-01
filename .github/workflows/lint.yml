@@ -8,12 +8,15 @@
 #
 # ## Named steps, not one `npm run lint`
 #
-# The chain is `run-s`, which stops at the first failure, so a single step
-# would report whichever check failed first and say nothing about the rest.
-# That is how two of these repositories had checks whose state nobody knew: the
-# chain never reached them. Each step runs under `if: \${{ !cancelled() }}`,
-# so one failure does not hide the others, and a red run is a worklist rather
-# than a wall.
+# `npm run lint` chains with `run-s`, which stops at the first failure, so a
+# single step reports whichever check failed first and says nothing about the
+# rest — the checks past the break have no known state. Each step here runs
+# under `if: \${{ !cancelled() }}`, so one failure does not hide the others,
+# and a red run is a worklist rather than a wall.
+#
+# Two guards are deliberately absent. `lint:drift` and `lint:nordmal-lexicon`
+# report what the northern renaming has not yet reached, so both are red by
+# design until it finishes and both are deleted with it.
 #
 # ## The compile is a second job
 #
@@ -63,16 +66,14 @@ jobs:
             - name: Install dependencies
               run: npm ci
 
-            # Without it, both address checks refuse to run rather than guess:
+            # Both address checks need it and refuse to run rather than guess:
             #
             #     sohl is a declared dependency but its content index has not
             #     been fetched. Run `content-build deps fetch` first.
             #
-            # They had therefore failed on every run of this job, for a reason
-            # with nothing to do with the tree being checked — two permanently
-            # red checks that a reader learns to ignore, which is worse than
-            # having no check at all. The compile job already fetches, by way
-            # of `build:db`; this job never did.
+            # Without this step they fail for a reason with nothing to do with
+            # the tree being checked, which is a red check a reader learns to
+            # ignore. The compile job fetches by way of `build:db`.
             - name: Fetch the dependency content index
               run: npm run build:deps
 
@@ -101,6 +102,29 @@ jobs:
             - name: Check content links
               if: ${{ !cancelled() }}
               run: npm run lint:content-links
+
+            # Era markers, the containment walk up `data.parents`, and the
+            # chronology a region's own dates must agree with.
+            - name: Check the history spine
+              if: ${{ !cancelled() }}
+              run: npm run lint:history
+
+            # A named person the prose leans on resolves to a note.
+            - name: Check reference people
+              if: ${{ !cancelled() }}
+              run: npm run lint:reference-people
+
+            # Khelathi names against the phonology its own language note
+            # publishes.
+            - name: Check the Khelathi lexicon
+              if: ${{ !cancelled() }}
+              run: npm run lint:lexicon
+
+            # Every being is a character, an npc or a creature, by the test the
+            # content format states.
+            - name: Check being subtypes
+              if: ${{ !cancelled() }}
+              run: npm run lint:being-subtypes
 
             # `.github/labels.yml` and the §3 table of the issue-reporting doc
             # still name the same closed set.

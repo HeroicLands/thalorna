@@ -44,7 +44,7 @@ pdf:
     # fallback: `sans` resolves to `serif` when it is absent, so the headings
     # the renderer sets in the sans slot come out in the body face.
     #
-    # One superfamily sets the whole book, which is what it was chosen for —
+    # One superfamily sets the whole book, which is what it is for —
     # matched metrics across body, headings and code from one designer. The mono
     # is the narrowest of the three: it carries the printable ASCII a fence needs
     # and little beyond it, and every fence in this tree is ASCII. A fence that

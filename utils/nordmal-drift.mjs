@@ -74,6 +74,7 @@
 
 import fs from "node:fs";
 import path from "node:path";
+import YAML from "yaml";
 
 /** Where the authored tree lives. */
 const CONTENT_DIR = "assets/content";
@@ -255,24 +256,128 @@ function positionOf(text, offset) {
 }
 
 /**
+ * A note's frontmatter block, parsed.
+ *
+ * @param {string} raw - The whole file.
+ * @returns {object | null} The parsed frontmatter, or `null` where there is
+ *   none or it does not parse.
+ */
+function frontmatterOf(raw) {
+    if (!raw.startsWith("---")) return null;
+    const end = raw.indexOf("\n---", 3);
+    if (end === -1) return null;
+    const fm = raw.slice(raw.indexOf("\n") + 1, end + 1);
+    try {
+        return YAML.parse(fm);
+    } catch {
+        return null;
+    }
+}
+
+/**
+ * A `data.homes` or `data.parents` entry, normalised to the bare shortcode it
+ * names.
+ *
+ * The corpus writes a place three ways: a bare shortcode, an address
+ * (`place-eichengrnd`), or a wikilink (`[[place-eichengrnd|Eichengrund]]`).
+ * Stripping the wikilink brackets, the label after `|`, a `#` fragment, and
+ * the type prefix before the last `-` reaches the shortcode any of the three
+ * names.
+ *
+ * @param {string} value - The authored value.
+ * @returns {string} The shortcode, lower-cased.
+ */
+function namedShortcode(value) {
+    let text = String(value).trim();
+    if (text.startsWith("[[") && text.endsWith("]]")) text = text.slice(2, -2);
+    text = text.split("|")[0].split("#")[0].trim();
+    const dash = text.lastIndexOf("-");
+    if (dash !== -1) text = text.slice(dash + 1);
+    return text.toLowerCase();
+}
+
+/**
+ * Every place note's own `data.parents`, keyed by address.
+ *
+ * Keyed `place-<shortcode>` rather than by the bare shortcode, because a
+ * shortcode is unique within a type and not across the tree, and this reads
+ * the whole address for the same reason {@link readIndex} in
+ * `history-spine.mjs` does. Built from the frontmatter the sweep already holds
+ * in memory, so resolving a settlement up its containment chain costs no
+ * second read of the tree.
+ *
+ * @param {Array<{file: string, raw: string}>} files - Every file the sweep read.
+ * @returns {Map<string, string[]>} Each place's own parents, as addresses.
+ */
+function placeIndex(files) {
+    const index = new Map();
+    for (const { raw } of files) {
+        const fm = frontmatterOf(raw);
+        if (!fm || fm.type !== "place" || !fm.shortcode) continue;
+        const parents = Array.isArray(fm.data?.parents) ? fm.data.parents : [];
+        index.set(
+            `place-${namedShortcode(fm.shortcode)}`,
+            parents.map((p) => `place-${namedShortcode(p)}`),
+        );
+    }
+    return index;
+}
+
+/**
+ * Every place on a containment chain, the start included.
+ *
+ * The `seen` set terminates the walk on a cycle rather than hanging it, the
+ * way `continentOf` in `history-spine.mjs` does.
+ *
+ * @param {string} address - Where to start, as `place-<shortcode>`.
+ * @param {Map<string, string[]>} index - Each place's own parents, from
+ *   {@link placeIndex}.
+ * @returns {Set<string>} The chain.
+ */
+function ancestryOf(address, index) {
+    const chain = new Set();
+    let frontier = [address];
+    while (frontier.length) {
+        const next = [];
+        for (const current of frontier) {
+            if (chain.has(current)) continue;
+            chain.add(current);
+            for (const parent of index.get(current) ?? []) next.push(parent);
+        }
+        frontier = next;
+    }
+    return chain;
+}
+
+/**
  * Whether a file is Nordmal or Varokhi material, which is what the
  * romanisation governs.
+ *
+ * A being's `data.homes` names the settlement it lives in, not the region
+ * around it, so a home is resolved up its `data.parents` chain and the note is
+ * in scope when any place on that chain is one `scope.homes` names. A value
+ * that already names a region keeps matching directly, since a region is the
+ * first place on its own chain.
  *
  * @param {string} file - The path, relative to the working directory.
  * @param {string} raw - The whole file.
  * @param {object} scope - The table's `scope`.
+ * @param {Map<string, string[]>} index - Each place's own parents, from
+ *   {@link placeIndex}.
  * @returns {boolean} Whether the romanisation is read here.
  */
-export function inScope(file, raw, scope) {
+export function inScope(file, raw, scope, index) {
     const relative = file.startsWith(`${CONTENT_DIR}/`) ? file.slice(CONTENT_DIR.length + 1) : file;
     if ((scope.paths ?? []).some((prefix) => relative.startsWith(prefix))) return true;
     if ((scope.notes ?? []).includes(relative)) return true;
-    const head = raw.split("\n---")[0];
-    return (scope.homes ?? []).some((code) =>
-        new RegExp(`^\\s*homes:.*(?<![\\p{L}\\p{M}])${escape(code)}(?![\\p{L}\\p{M}])`, "mu").test(
-            head,
-        ),
-    );
+    const fm = frontmatterOf(raw);
+    const homes = Array.isArray(fm?.data?.homes) ? fm.data.homes : [];
+    if (homes.length === 0) return false;
+    const scopedHomes = new Set((scope.homes ?? []).map((code) => `place-${namedShortcode(code)}`));
+    return homes.some((home) => {
+        const chain = ancestryOf(`place-${namedShortcode(home)}`, index ?? new Map());
+        return [...chain].some((address) => scopedHomes.has(address));
+    });
 }
 
 /**
@@ -613,7 +718,8 @@ function main() {
 
     const language = fs.readFileSync(table.romanisation.note, "utf8");
     const rule = romanisationFrom(language, table.romanisation.section);
-    const scoped = files.filter(({ file, raw }) => inScope(file, raw, table.scope ?? {}));
+    const places = placeIndex(files);
+    const scoped = files.filter(({ file, raw }) => inScope(file, raw, table.scope ?? {}, places));
 
     const tally = {
         byGroup: new Map(),
