@@ -1,6 +1,6 @@
 ---
-shortcode: takeninrnk
-name: {full: "Taken-In", aliases: [Dependent]}
+shortcode: edrmundrnk
+name: {full: "Edrmund", aliases: []}
 type: lore
 subType: law
 description: "Free and of no kin, sheltered by a household without being of its blood, in the Vrystwald Tribes."
@@ -11,7 +11,7 @@ Free and of no kin, sheltered by a household without being of its blood, in the 
 
 ## What This Standing Is
 
-A taken-in Varokh is sheltered by a household without being of its blood—a freed bondservant before he is married in, a widow's family taken under another household's roof, a stranger given shelter, or a trader or settler living among the tribes. Each is free, and each stands apart from the households that hold kinship by blood.
+An Edrmund is sheltered by a household without being of its blood—a freed [[lore-othmundrnk|Óthmund]] before he is married in, a widow's family taken under another household's roof, a stranger given shelter, or a trader or settler living among the tribes. Each is free, and each stands apart from the households that hold kinship by blood.
 
 ## How the Law Treats a Person Here
 
@@ -23,7 +23,7 @@ He is sheltered by the household that has taken him in, and may work and hold wh
 
 ## Obligations
 
-He owes the household that shelters him whatever service or deference its taking him in was given on, and holds no independent voice at the moot while he holds this standing.
+He owes the household that shelters him whatever service or deference its taking him in was given on, and holds no independent voice at the moot while he holds the standing of Edrmund.
 
 ## Offices Open at This Standing
 

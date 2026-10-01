@@ -14,50 +14,50 @@ data:
     summary: Tribal chiefs with a seasonal great-moot tradition.
     ranks:
       - level: 0
-        title: Kinless
-        lore: kinlessrnk
+        title: Vrystrith
+        lore: vrystrithrnk
         description: >-
           Cast out by his own kin and claimed by none, typically for breaking an oath sworn before a war-band; no household owes him shelter, and no kindred owes him vengeance if he is harmed.
       - level: 1
-        title: Bondservant
-        lore: varokhbondsvntrnk
+        title: Óthmund
+        lore: othmundrnk
         description: >-
           Taken in war or bought at the river-landings and answerable to the mistress of the house he serves in every particular; the standing is not hereditary, and marriage or manumission can end it.
       - level: 2
-        title: Taken-In
-        lore: takeninrnk
+        title: Edrmund
+        lore: edrmundrnk
         description: >-
-          Free and sheltered by a household not his own blood, with no war-band before which he has sworn, so nobody can yet take his word the way a kinsman's oath is taken.
+          Free and sheltered by a household not his own blood, with no war-band before which he has sworn, so nobody can yet take his word the way a Druthmund's oath is taken.
       - level: 3
-        title: Kinsman
-        lore: varokhkinsmanrnk
+        title: Druthmund
+        lore: druthmundrnk
         description: >-
           Of a kindred's blood by a true name earned at eth-kethrun, entitled to its protection, its feud and its share; the man's voice at the moot and the woman's hand on the household are one standing.
       - level: 4
-        title: Elder
-        lore: lineageeldrrnk
+        title: Fródrád
+        lore: frodradrnk
         description: >-
           Senior of a lineage, or a wise-woman keeping the herb-lore and the feud-cords, whose memory of custom settles what the young cannot settle themselves in a people with no written record to consult instead.
       - level: 5
-        title: Chieftain
-        lore: chieftainrnk
+        title: Hárár
+        lore: hararrnk
         description: >-
           Leads a clan or tribe on personal prowess, wisdom and the warriors' continued support rather than on descent, and can be set aside by the same moot that raised him.
     offices:
-      Speaker of the Council: >-
-        Presiding officer of the common council, keeping its peace and the order of its speaking—a different charge from the War-chief's command, though one man may hold both.
-      War-chief: >-
+      Ríkár: >-
+        Presiding officer of the common council, keeping its peace and the order of its speaking—a different charge from the Hárthúl's command, though one man may hold both.
+      Hárthúl: >-
         Temporary command over several tribes, raised only when every tribe lays its fragment of the Sundered Talisman together, and dissolving the moment the crisis that called it passes.
-      Lawkeeper: >-
+      Dómrád: >-
         Keeper of the customs the tribes hold in common, and arbiter where two tribes' customs differ.
-      Host-Caller: Summoner of the common muster when a threat concerns every tribe.
-      Truce-Warden: Holder of the peace at the council and at the seasonal markets, empowered to enforce it.
-      Water-Warden: >-
+      Hildskald: Summoner of the common muster when a threat concerns every tribe.
+      Frithmund: Holder of the peace at the council and at the seasonal markets, empowered to enforce it.
+      Thalthúl: >-
         Keeper of the wells, springs or pastures the tribes share, and of the order in which they are used.
-      Guide: >-
+      Véthrith: >-
         Holder of the routes—their water, their seasons and their dangers—and hired at a price accordingly.
-      Envoy: Sent to treat with a settled power, and protected by custom while he carries the word.
-      Keeper of the Feud: >-
+      Athalthúl: Sent to treat with a settled power, and protected by custom while he carries the word.
+      Skathár: >-
         Recorder of blood owed and blood paid between kindreds, without whom a settlement cannot be reckoned.
   seat: waldburg
   domains: [vrystwald]

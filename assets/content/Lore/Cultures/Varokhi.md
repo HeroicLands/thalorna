@@ -27,7 +27,7 @@ A Varokh man is formidable, proud and disinclined to explain himself. He fights 
 
 A Varokh woman is a merchant with capital, a fortune in furs moving under her name, and the whole domestic economy in her hand. She negotiates with foreign traders directly and is not accompanied, and Vylarian factors who arrive expecting to deal with her husband are corrected once.
 
-Chieftains lead confederations by consensus and martial reputation and not by descent. The tribes war among themselves constantly and combine against an outsider with a speed that has broken more than one Vylarian legion—and the legions never quite believe it until it happens, because a people that disunited is not supposed to be able to do that.
+[[lore-hararrnk|Hárár]]s lead confederations by consensus and martial reputation and not by descent. The tribes war among themselves constantly and combine against an outsider with a speed that has broken more than one Vylarian legion—and the legions never quite believe it until it happens, because a people that disunited is not supposed to be able to do that.
 
 ## The Forest Is the Temple
 

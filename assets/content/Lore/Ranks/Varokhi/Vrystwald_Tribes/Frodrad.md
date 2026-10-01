@@ -1,6 +1,6 @@
 ---
-shortcode: lineageeldrrnk
-name: {full: "Elder", aliases: []}
+shortcode: frodradrnk
+name: {full: "Fródrád", aliases: []}
 type: lore
 subType: law
 description: "Senior of a lineage, whose memory of custom and precedent settles what the young dispute, in the Vrystwald Tribes."
@@ -11,7 +11,7 @@ Senior of a lineage, whose memory of custom and precedent settles what the young
 
 ## What This Standing Is
 
-An elder is senior of a lineage, and holds the standing by what a people with no writing treats as the record: memory. Two doors lead to it—the lineage elders whose recollection of custom and precedent settles what the young dispute, and the wise-women who keep the herb-lore and the feud-cords, and both sexes hold the standing on the same terms.
+A Fródrád is senior of a lineage, and holds the standing by what a people with no writing treats as the record: memory. Two doors lead to it—the lineage elders whose recollection of custom and precedent settles what the young dispute, and the wise-women who keep the herb-lore and the feud-cords, and both sexes hold the standing on the same terms.
 
 ## How the Law Treats a Person Here
 
@@ -27,7 +27,7 @@ They keep the custom and the precedent their standing depends on, and answer for
 
 ## Offices Open at This Standing
 
-The Lawkeeper, keeper of the customs the tribes hold in common and arbiter where two tribes' customs differ, and the Keeper of the Feud, recorder of blood owed and blood paid between kindreds.
+The Dómrád, keeper of the customs the tribes hold in common and arbiter where two tribes' customs differ, and the Skathár, recorder of blood owed and blood paid between kindreds.
 
 ## Where This Standing Is Held
 
