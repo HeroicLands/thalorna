@@ -1,10 +1,10 @@
-# Build and deploy /thalorna — this repository's own website (#1451).
+# Build and deploy /thalorna — this repository's own website.
 #
 # This package renders its own HTML and publishes its own subtree. No other
 # repository is in the path between it and its readers: a checkout, the theme
-# submodule, Node and Hugo are the whole build, and the deploy uses credentials
+# package, Node and Hugo are the whole build, and the deploy uses credentials
 # scoped to this package's own hosting project. That is what makes the package
-# movable — a successor inheriting only this repository can publish it (#1444).
+# movable — a successor inheriting only this repository can publish it.
 name: Deploy the Thalorna site to Cloudflare Pages
 
 on:
@@ -67,7 +67,7 @@ jobs:
             # root when the file is missing. That fallback is a soft-404 (200
             # carrying the landing page), which reads as success to every link
             # check, so assert the file exists rather than discovering its
-            # absence in production (#1416).
+            # absence in production.
             - name: Verify the 404 page was built
               run: test -s build/site/thalorna/404.html
 
