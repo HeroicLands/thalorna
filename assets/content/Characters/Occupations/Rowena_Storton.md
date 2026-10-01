@@ -1,6 +1,6 @@
 ---
 shortcode: rowenstrtn
-name: {full: Rowena Storton, title: "", given: Rowena, clan: Storton, home: ravenmoor, aliases: []}
+name: {full: Rowena Storton, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [ravenmoor]
   affiliations: [kingdmdnvr]
   gender: female
   species: humanflk

@@ -1,12 +1,6 @@
 ---
 shortcode: thlmslddrknt
-name:
-  full: Thilmselda Drekanótt
-  title: ""
-  given: Thilmselda
-  clan: Drekanótt
-  home: tvalgard
-  aliases: []
+name: {full: Thilmselda Drekanótt, given: Thilmselda, clan: Drekanótt, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [tvalgard]
   affiliations: [kingdmtrgd]
   gender: female
   species: humanflk

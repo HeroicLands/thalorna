@@ -1,12 +1,6 @@
 ---
 shortcode: sklfmylfrtng
-name:
-  full: Skulfmýl Fire-Tongue
-  title: null
-  given: Skulfmýl
-  clan: null
-  aliases: [Fire-Tongue]
-  home: null
+name: {full: Skulfmýl Fire-Tongue, given: Skulfmýl, clan: null, aliases: [Fire-Tongue]}
 type: being
 subType: character
 tags: [hero, heroes-of-asguard, underworld]

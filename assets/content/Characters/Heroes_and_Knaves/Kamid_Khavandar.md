@@ -1,12 +1,6 @@
 ---
 shortcode: kamdkhvndr
-name:
-  full: Kamîd Khâvandar
-  title: ""
-  given: Kamîd
-  clan: Khâvandar
-  home: kethramir
-  aliases: []
+name: {full: Kamîd Khâvandar, given: Kamîd, clan: Khâvandar, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: khazrynclt
-  homes: [khzryndsrtrgn]
+  homes: [kethramir]
   affiliations: [khzrncnfdrtn]
   gender: male
   species: humanflk

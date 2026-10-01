@@ -1,12 +1,6 @@
 ---
 shortcode: elsarcstrn
-name:
-  full: Élsaro Castírenna
-  title: ""
-  given: Élsaro
-  clan: Castírenna
-  home: torreviga
-  aliases: []
+name: {full: Élsaro Castírenna, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: tarvenanclt
-  homes: [tarvenirgn]
+  homes: [torreviga]
   affiliations: [kingdmtrvn]
   gender: male
   species: humanflk

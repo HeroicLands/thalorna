@@ -1,12 +1,6 @@
 ---
 shortcode: arnelkrsvr
-name:
-  full: Ârnela Kórisvar
-  title: Lady
-  given: Ârnela
-  clan: Kórisvar
-  home: fiordaure
-  aliases: [Lady Seraphina Emberhart]
+name: {full: Ârnela Kórisvar, aliases: [Lady Seraphina Emberhart]}
 type: being
 subType: npc
 tags: [draft, administration]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: provenzianclt
-  homes: [provenzrgn]
+  homes: [fiordaure]
   affiliations: [kngdmprvnz]
   gender: female
   species: humanflk

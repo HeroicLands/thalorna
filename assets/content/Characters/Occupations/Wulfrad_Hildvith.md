@@ -1,12 +1,6 @@
 ---
 shortcode: wlfrdhldvth
-name:
-  full: Wulfrád Hildvith
-  title: ""
-  given: Wulfrád
-  clan: Hildvith
-  home: eichengrnd
-  aliases: []
+name: {full: Wulfrád Hildvith, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: varokhiclt
-  homes: [vrystwald]
+  homes: [eichengrnd]
   affiliations: [vrystwldtrbs]
   gender: male
   species: humanflk

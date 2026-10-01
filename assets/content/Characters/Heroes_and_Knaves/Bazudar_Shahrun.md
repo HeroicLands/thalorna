@@ -1,12 +1,6 @@
 ---
 shortcode: bazdrshhrn
-name:
-  full: Bazûdar Shahrûn
-  title: ""
-  given: Bazûdar
-  clan: Shahrûn
-  home: oasishirvn
-  aliases: []
+name: {full: Bazûdar Shahrûn, given: Bazûdar, clan: Shahrûn, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: khazrynclt
-  homes: [khzryndsrtrgn]
+  homes: [oasishirvn]
   affiliations: [khzrncnfdrtn]
   gender: male
   species: humanflk

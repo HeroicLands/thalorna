@@ -2,10 +2,8 @@
 shortcode: yasurajckl
 name:
   full: Yâsûra the Jackal
-  title: ""
   given: Yâsûra
   clan: ""
-  home: null # was: The South Marches
   aliases: [The Jackal-Queen, The Unhoused, Yâsûra]
 type: being
 subType: character

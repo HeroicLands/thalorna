@@ -1,12 +1,6 @@
 ---
 shortcode: gnrthrvsnrvrkh
-name:
-  full: Gnarthorv Snarvarukh
-  title: ""
-  given: Gnarthorv
-  clan: Snarvarukh
-  home: thraldfjord
-  aliases: []
+name: {full: Gnarthorv Snarvarukh, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [thraldfjord]
   affiliations: [kngdmnrdhm]
   gender: male
   species: humanflk

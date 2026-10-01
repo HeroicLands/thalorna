@@ -1,12 +1,6 @@
 ---
 shortcode: bathurhurtzhuk
-name:
-  full: Bāthür Hürtzhük
-  title: Hëkvōr Warlord
-  given: Bāthür
-  clan: Hürtzhük
-  home: ""
-  aliases: [Master Tiger of the Steppes]
+name: {full: Bāthür Hürtzhük, aliases: [Master Tiger of the Steppes]}
 type: being
 subType: npc
 description: >-

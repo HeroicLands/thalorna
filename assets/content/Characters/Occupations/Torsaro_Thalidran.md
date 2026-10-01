@@ -1,12 +1,6 @@
 ---
 shortcode: trsrthldrn
-name:
-  full: Tórsaro Thalídran
-  title: ""
-  given: Tórsaro
-  clan: Thalídran
-  home: castamere
-  aliases: []
+name: {full: Tórsaro Thalídran, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: tarvenanclt
-  homes: [tarvenirgn]
+  homes: [castamere]
   affiliations: [kingdmtrvn]
   gender: male
   species: humanflk

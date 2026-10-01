@@ -1,12 +1,6 @@
 ---
 shortcode: kelyrslthr
-name:
-  full: Kélyra Sálthar
-  title: ""
-  given: Kélyra
-  clan: Sálthar
-  home: cerdwnshlw
-  aliases: []
+name: {full: Kélyra Sálthar, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, administration]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [cerdwnshlw]
   affiliations: [kngdmlvndr]
   gender: female
   species: humanflk

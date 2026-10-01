@@ -1,6 +1,6 @@
 ---
 shortcode: qirushtarz
-name: {full: Qirûsh Tarûzî, title: "", given: Qirûsh, clan: Tarûzî, home: sulun, aliases: []}
+name: {full: Qirûsh Tarûzî, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: haradianclt
-  homes: [haradregin]
+  homes: [sulun]
   affiliations: [cnfdrtnhrdnstts]
   gender: male
   species: humanflk

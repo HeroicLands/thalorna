@@ -1,12 +1,6 @@
 ---
 shortcode: minakprkhn
-name:
-  full: Minàka Parikshana
-  title: ""
-  given: Minàka
-  clan: Parikshana
-  home: vyalendra3
-  aliases: []
+name: {full: Minàka Parikshana, given: Minàka, clan: Parikshana, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vedyariclt
-  homes: [vedyarargn]
+  homes: [vyalendra3]
   affiliations: [vyalendra2]
   gender: female
   species: humanflk

@@ -1,6 +1,6 @@
 ---
 shortcode: elowyrnimavren
-name: {full: Elowyr Nimávren, title: "", given: Elowyr, clan: Nimávren, aliases: []}
+name: {full: Elowyr Nimávren, given: Elowyr, clan: Nimávren, aliases: []}
 type: being
 subType: character
 tags: [draft, embassy-to-tanvur]

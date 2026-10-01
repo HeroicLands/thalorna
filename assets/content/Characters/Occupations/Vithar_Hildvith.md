@@ -1,12 +1,6 @@
 ---
 shortcode: vthrhldvth
-name:
-  full: Vithár Hildvith
-  title: ""
-  given: Vithár
-  clan: Hildvith
-  home: waldburg
-  aliases: []
+name: {full: Vithár Hildvith, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: varokhiclt
-  homes: [vrystwald]
+  homes: [waldburg]
   affiliations: [vrystwldtrbs]
   gender: male
   species: humanflk

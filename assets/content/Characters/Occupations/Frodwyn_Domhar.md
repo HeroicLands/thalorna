@@ -1,12 +1,6 @@
 ---
 shortcode: frdwyndmhr
-name:
-  full: Fródwyn Dómhár
-  title: ""
-  given: Fródwyn
-  clan: Dómhár
-  home: dunkelwald
-  aliases: []
+name: {full: Fródwyn Dómhár, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: varokhiclt
-  homes: [vrystwald]
+  homes: [dunkelwald]
   affiliations: [vrystwldtrbs]
   gender: female
   species: humanflk

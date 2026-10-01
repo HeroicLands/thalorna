@@ -1,12 +1,6 @@
 ---
 shortcode: thslnkpsskt
-name:
-  full: Thêsaloníke Pissákit
-  title: ""
-  given: Thêsaloníke
-  clan: Pissákit
-  home: yesilhan2
-  aliases: []
+name: {full: Thêsaloníke Pissákit, given: Thêsaloníke, clan: Pissákit, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: byzarianclt
-  homes: [byzariargn]
+  homes: [yesilhan2]
   affiliations: [byzarianlg]
   gender: female
   species: humanflk

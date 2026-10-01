@@ -1,12 +1,6 @@
 ---
 shortcode: girdanrshm
-name:
-  full: Girdanû Rashîmû
-  title: ""
-  given: Girdanû
-  clan: Rashîmû
-  home: qadhirun
-  aliases: []
+name: {full: Girdanû Rashîmû, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: haradianclt
-  homes: [haradregin]
+  homes: [qadhirun]
   affiliations: [cnfdrtnhrdnstts]
   gender: male
   species: humanflk

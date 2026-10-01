@@ -1,12 +1,6 @@
 ---
 shortcode: megtshthkhlr
-name:
-  full: Megeti Shathu'Kheleru
-  title: ""
-  given: Megeti
-  clan: Shathu'Kheleru
-  home: khelzuret
-  aliases: []
+name: {full: Megeti Shathu'Kheleru, given: Megeti, clan: Shathu'Kheleru, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, administration]
@@ -19,7 +13,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: khelathiclt
-  homes: [aukhelathrgq]
+  homes: [khelzuret]
   affiliations: [empireakhlth]
   gender: female
   species: humanflk

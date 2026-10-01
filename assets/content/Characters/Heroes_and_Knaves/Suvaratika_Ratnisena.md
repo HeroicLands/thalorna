@@ -1,12 +1,6 @@
 ---
 shortcode: suvrtkrtns
-name:
-  full: Suvaratika Ratnisena
-  title: ""
-  given: Suvaratika
-  clan: Ratnisena
-  home: chandrapur2
-  aliases: []
+name: {full: Suvaratika Ratnisena, given: Suvaratika, clan: Ratnisena, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vedyariclt
-  homes: [vedyarargn]
+  homes: [chandrapur2]
   affiliations: [chandrapur]
   gender: female
   species: humanflk

@@ -1,6 +1,6 @@
 ---
 shortcode: kingtredavariii
-name: {full: King Trédavar III, title: King, given: Trédavar, clan: "", home: "", aliases: []}
+name: {full: King Trédavar III, aliases: []}
 type: being
 subType: npc
 description: "A king of Provènzia."

@@ -1,12 +1,6 @@
 ---
 shortcode: githiyzbnlth
-name:
-  full: Githiya Zab'Anlethu
-  title: ""
-  given: Githiya
-  clan: Zab'Anlethu
-  home: amqelulegez
-  aliases: []
+name: {full: Githiya Zab'Anlethu, given: Githiya, clan: Zab'Anlethu, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -19,7 +13,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: khelathiclt
-  homes: [aukhelathrgq]
+  homes: [amqelulegez]
   affiliations: [empireakhlth]
   gender: female
   species: humanflk

@@ -1,12 +1,6 @@
 ---
 shortcode: zdmrsmkthn
-name:
-  full: Zádìmêros Mâkîthôn
-  title: ""
-  given: Zádìmêros
-  clan: Mâkîthôn
-  home: thyrenae2
-  aliases: []
+name: {full: Zádìmêros Mâkîthôn, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: helioniteclt
-  homes: [helionis]
+  homes: [thyrenae2]
   affiliations: [thyrenae]
   gender: male
   species: humanflk

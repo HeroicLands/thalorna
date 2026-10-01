@@ -1,12 +1,6 @@
 ---
 shortcode: rshrnbrmndn
-name:
-  full: Rosharan Barmandan
-  title: ""
-  given: Rosharan
-  clan: Barmandan
-  home: tahrodan
-  aliases: []
+name: {full: Rosharan Barmandan, given: Rosharan, clan: Barmandan, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: dunhariclt
-  homes: [amradadrgn]
+  homes: [tahrodan]
   affiliations: [sultntmrdd]
   gender: female
   species: humanflk

@@ -1,6 +1,6 @@
 ---
 shortcode: aldosbrndn
-name: {full: Aldous Brandon, title: "", given: Aldous, clan: Brandon, home: thornbury, aliases: []}
+name: {full: Aldous Brandon, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [thornbury]
   affiliations: [repblctrvn]
   gender: male
   species: humanflk

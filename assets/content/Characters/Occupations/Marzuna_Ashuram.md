@@ -1,6 +1,6 @@
 ---
 shortcode: marzunshrm
-name: {full: Marzûna Ashûram, title: "", given: Marzûna, clan: Ashûram, home: azhun2, aliases: []}
+name: {full: Marzûna Ashûram, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: haradianclt
-  homes: [haradregin]
+  homes: [azhun2]
   affiliations: [cnfdrtnhrdnstts]
   gender: female
   species: humanflk

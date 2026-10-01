@@ -1,6 +1,6 @@
 ---
 shortcode: edgarchltn
-name: {full: Edgar Chilton, title: "", given: Edgar, clan: Chilton, home: caerwynd, aliases: []}
+name: {full: Edgar Chilton, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [caerwynd]
   affiliations: [kngdmldrth]
   gender: male
   species: humanflk

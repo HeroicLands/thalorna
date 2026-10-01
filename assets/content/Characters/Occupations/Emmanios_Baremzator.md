@@ -1,12 +1,6 @@
 ---
 shortcode: emnsbrmztr
-name:
-  full: Émmanîôs Bàremzâtôr
-  title: ""
-  given: Émmanîôs
-  clan: Bàremzâtôr
-  home: valdosta
-  aliases: [Reslâva Aiden Greenfield]
+name: {full: Émmanîôs Bàremzâtôr, aliases: [Reslâva Aiden Greenfield]}
 type: being
 subType: npc
 tags: [todo, draft, clergy]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [valdosta]
   affiliations: [vylarinmpr]
   gender: male
   species: humanflk

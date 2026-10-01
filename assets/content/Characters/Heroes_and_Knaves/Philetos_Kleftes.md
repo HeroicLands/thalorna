@@ -2,10 +2,8 @@
 shortcode: phltsklfts
 name:
   full: Philetos Kleftes
-  title: ""
   given: Philetos
   clan: Kleftes
-  home: alyssar
   aliases: [The Fire-Sworn Strategist]
 type: being
 subType: character
@@ -18,7 +16,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [alyssar]
   affiliations: [provinclys]
   gender: male
   species: humanflk

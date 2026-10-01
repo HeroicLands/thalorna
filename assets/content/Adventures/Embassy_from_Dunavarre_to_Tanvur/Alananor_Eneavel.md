@@ -1,6 +1,6 @@
 ---
 shortcode: alanoreneavel
-name: {full: Alananor Enéavel, title: "", given: Alananor, clan: Enéavel, aliases: []}
+name: {full: Alananor Enéavel, given: Alananor, clan: Enéavel, aliases: []}
 type: being
 subType: character
 tags: [draft, embassy-to-tanvur]

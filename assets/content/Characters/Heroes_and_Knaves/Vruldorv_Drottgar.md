@@ -1,12 +1,6 @@
 ---
 shortcode: vrldrvdrtgr
-name:
-  full: Vruldorv Dróttgar
-  title: ""
-  given: Vruldorv
-  clan: Dróttgar
-  home: nalthmark
-  aliases: []
+name: {full: Vruldorv Dróttgar, given: Vruldorv, clan: Dróttgar, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [nalthmark]
   affiliations: [kngdmnrdhm]
   gender: male
   species: humanflk

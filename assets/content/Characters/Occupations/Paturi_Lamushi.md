@@ -1,6 +1,6 @@
 ---
 shortcode: paturilmsh
-name: {full: Pâtûri Lamûshî, title: "", given: Pâtûri, clan: Lamûshî, home: azhun2, aliases: []}
+name: {full: Pâtûri Lamûshî, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, common-folk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: haradianclt
-  homes: [haradregin]
+  homes: [azhun2]
   affiliations: [cnfdrtnhrdnstts]
   gender: female
   species: humanflk

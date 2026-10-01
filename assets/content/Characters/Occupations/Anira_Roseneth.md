@@ -1,12 +1,6 @@
 ---
 shortcode: anirarsnth
-name:
-  full: Ánira Róseneth
-  title: ""
-  given: Ánira
-  clan: Róseneth
-  home: null # was: Eskárath
-  aliases: []
+name: {full: Ánira Róseneth, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

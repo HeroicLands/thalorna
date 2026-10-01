@@ -1,12 +1,6 @@
 ---
 shortcode: sarenprdln
-name:
-  full: Sárena Párdalen
-  title: ""
-  given: Sárena
-  clan: Párdalen
-  home: silvain
-  aliases: [Reslâva Mira Lightwhisper]
+name: {full: Sárena Párdalen, aliases: [Reslâva Mira Lightwhisper]}
 type: being
 subType: npc
 tags: [todo, draft, clergy]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [silvain]
   affiliations: [kngdmlvndr]
   gender: female
   species: humanflk

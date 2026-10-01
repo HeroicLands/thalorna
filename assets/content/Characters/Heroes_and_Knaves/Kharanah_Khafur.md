@@ -1,12 +1,6 @@
 ---
 shortcode: kharnhkhfr
-name:
-  full: Khârânah Khafûr
-  title: ""
-  given: Khârânah
-  clan: Khafûr
-  home: ashkarad
-  aliases: []
+name: {full: Khârânah Khafûr, given: Khârânah, clan: Khafûr, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: khazrynclt
-  homes: [khzryndsrtrgn]
+  homes: [ashkarad]
   affiliations: [khzrncnfdrtn]
   gender: female
   species: humanflk

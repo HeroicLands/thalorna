@@ -1,12 +1,6 @@
 ---
 shortcode: thrgrmrkhld
-name:
-  full: Thrágrim Ríkhild
-  title: ""
-  given: Thrágrim
-  clan: Ríkhild
-  home: falkensten
-  aliases: []
+name: {full: Thrágrim Ríkhild, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: varokhiclt
-  homes: [vrystwald]
+  homes: [falkensten]
   affiliations: [vrystwldtrbs]
   gender: male
   species: humanflk

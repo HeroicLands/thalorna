@@ -1,12 +1,6 @@
 ---
 shortcode: teitjekvngyrt
-name:
-  full: Tëitjëk Vëngyürt
-  title: General
-  given: Tëitjëk
-  clan: Vëngyürt
-  home: ""
-  aliases: [Iron Spear Piercing the Clouds]
+name: {full: Tëitjëk Vëngyürt, aliases: [Iron Spear Piercing the Clouds]}
 type: being
 subType: npc
 description: >-

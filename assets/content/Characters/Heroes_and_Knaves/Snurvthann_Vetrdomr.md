@@ -1,12 +1,6 @@
 ---
 shortcode: snrvthnvtrdmr
-name:
-  full: Snurvthann Vetrdómr
-  title: ""
-  given: Snurvthann
-  clan: Vetrdómr
-  home: gnarthborg
-  aliases: []
+name: {full: Snurvthann Vetrdómr, given: Snurvthann, clan: Vetrdómr, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [gnarthborg]
   affiliations: [kingdomlgn]
   gender: male
   species: humanflk

@@ -1,6 +1,6 @@
 ---
 shortcode: edithwlfrd
-name: {full: Edith Wolford, title: "", given: Edith, clan: Wolford, home: ashford, aliases: []}
+name: {full: Edith Wolford, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [ashford]
   affiliations: [kngdmldrth]
   gender: female
   species: humanflk

@@ -1,6 +1,6 @@
 ---
 shortcode: alyrklmrth
-name: {full: Ályra Kálmereth, title: "", given: Ályra, clan: Kálmereth, home: valdun, aliases: []}
+name: {full: Ályra Kálmereth, given: Ályra, clan: Kálmereth, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [valdun]
   affiliations: [kngdmlvndr]
   gender: female
   species: humanflk

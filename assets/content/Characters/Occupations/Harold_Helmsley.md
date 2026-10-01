@@ -1,12 +1,6 @@
 ---
 shortcode: hrldhlmsly
-name:
-  full: Harold Helmsley
-  title: ""
-  given: Harold
-  clan: Helmsley
-  home: caerwynd
-  aliases: []
+name: {full: Harold Helmsley, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [caerwynd]
   affiliations: [kngdmldrth]
   gender: male
   species: humanflk

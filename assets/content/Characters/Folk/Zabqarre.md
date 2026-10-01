@@ -1,11 +1,11 @@
 ---
 shortcode: zabqarre2
-name: {full: Zabqarrê, title: "", given: Zabqarrê, clan: "", home: anlaghzetun, aliases: []}
+name: {full: Zabqarrê, aliases: []}
 type: being
 subType: npc
 description: "Halzi'a of Khelunu's selat, an administrator of the old school who governs by precedent and dislikes being surprised"
 tags: [generated]
-data: {archetypes: [courtier, scholar], packFolder: regkhfolk}
+data: {archetypes: [courtier, scholar], packFolder: regkhfolk, homes: [anlaghzetun]}
 ---
 
 Halzi'a of Khelunu's selat, an administrator of the old school who governs by precedent and dislikes being surprised.

@@ -1,12 +1,6 @@
 ---
 shortcode: legiretilmyz
-name:
-  full: Legiret Ilmy-Zâ
-  title: ""
-  given: Legiret
-  clan: Ilmy-Zâ
-  home: galezkara
-  aliases: []
+name: {full: Legiret Ilmy-Zâ, given: Legiret, clan: Ilmy-Zâ, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, guilded, tradesfolk]
@@ -19,7 +13,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: khelathiclt
-  homes: [aukhelathrgq]
+  homes: [galezkara]
   affiliations: [empireakhlth]
   gender: male
   species: humanflk

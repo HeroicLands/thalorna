@@ -1,12 +1,6 @@
 ---
 shortcode: azitrkhrds
-name:
-  full: Ázîta Râkhrîdês
-  title: ""
-  given: Ázîta
-  clan: Râkhrîdês
-  home: kalydria2
-  aliases: []
+name: {full: Ázîta Râkhrîdês, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: helioniteclt
-  homes: [helionis]
+  homes: [kalydria2]
   affiliations: [kalydria]
   gender: female
   species: humanflk

@@ -1,12 +1,6 @@
 ---
 shortcode: belrkflwyn
-name:
-  full: Bélrik Fálwyn
-  title: ""
-  given: Bélrik
-  clan: Fálwyn
-  home: liranel
-  aliases: [Aldric Fallow]
+name: {full: Bélrik Fálwyn, aliases: [Aldric Fallow]}
 type: being
 subType: npc
 tags: [draft, guilded, mages]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [liranel]
   affiliations: [kngdmlvndr]
   gender: male
   species: humanflk

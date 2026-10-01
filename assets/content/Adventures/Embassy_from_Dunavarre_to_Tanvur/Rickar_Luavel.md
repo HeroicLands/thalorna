@@ -1,6 +1,6 @@
 ---
 shortcode: rickarluavel
-name: {full: Rickar Lúavel, title: "", given: Rickar, clan: Lúavel, aliases: []}
+name: {full: Rickar Lúavel, given: Rickar, clan: Lúavel, aliases: []}
 type: being
 subType: character
 tags: [draft, embassy-to-tanvur]

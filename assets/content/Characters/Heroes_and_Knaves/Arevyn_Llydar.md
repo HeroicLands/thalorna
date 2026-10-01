@@ -1,6 +1,6 @@
 ---
 shortcode: arevynlydr
-name: {full: Arévyn Llýdar, title: "", given: Arévyn, clan: Llýdar, home: liranel, aliases: []}
+name: {full: Arévyn Llýdar, given: Arévyn, clan: Llýdar, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [liranel]
   affiliations: [kngdmlvndr]
   gender: male
   species: humanflk

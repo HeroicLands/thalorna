@@ -1,12 +1,6 @@
 ---
 shortcode: kirobashkm
-name:
-  full: Kiroba of the Shókuma
-  title: ""
-  given: Kiroba
-  clan: Shókuma
-  home: ithrakor
-  aliases: []
+name: {full: Kiroba of the Shókuma, given: Kiroba, clan: Shókuma, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: okharinclt
-  homes: [okharisrgn]
+  homes: [ithrakor]
   affiliations: [okharis]
   gender: male
   species: humanflk

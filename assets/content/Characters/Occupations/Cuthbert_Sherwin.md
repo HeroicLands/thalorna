@@ -1,12 +1,6 @@
 ---
 shortcode: cthbrtshrwn
-name:
-  full: Cuthbert Sherwin
-  title: ""
-  given: Cuthbert
-  clan: Sherwin
-  home: thornbury
-  aliases: []
+name: {full: Cuthbert Sherwin, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [thornbury]
   affiliations: [repblctrvn]
   gender: male
   species: humanflk

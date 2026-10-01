@@ -1,12 +1,6 @@
 ---
 shortcode: dalinavlrn
-name:
-  full: Dálina Valárion
-  title: ""
-  given: Dálina
-  clan: Valárion
-  home: castamere
-  aliases: []
+name: {full: Dálina Valárion, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: tarvenanclt
-  homes: [tarvenirgn]
+  homes: [castamere]
   affiliations: [kingdmtrvn]
   gender: female
   species: humanflk

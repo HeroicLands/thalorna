@@ -1,12 +1,6 @@
 ---
 shortcode: tshrnbrnsh
-name:
-  full: Teshûran Bûrnashî
-  title: ""
-  given: Teshûran
-  clan: Bûrnashî
-  home: kethara2
-  aliases: []
+name: {full: Teshûran Bûrnashî, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: haradianclt
-  homes: [haradregin]
+  homes: [kethara2]
   affiliations: [cnfdrtnhrdnstts]
   gender: male
   species: humanflk

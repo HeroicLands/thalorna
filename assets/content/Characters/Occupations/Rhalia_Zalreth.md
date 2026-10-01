@@ -1,12 +1,6 @@
 ---
 shortcode: rhalizlrth
-name:
-  full: Rhália Zálreth
-  title: ""
-  given: Rhália
-  clan: Zálreth
-  home: liranel
-  aliases: [Captain Elysia Windrider]
+name: {full: Rhália Zálreth, aliases: [Captain Elysia Windrider]}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [liranel]
   affiliations: [kngdmlvndr]
   gender: female
   species: humanflk

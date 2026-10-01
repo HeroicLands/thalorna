@@ -1,12 +1,6 @@
 ---
 shortcode: edrgrsndryth
-name:
-  full: Edrígar Sundrýth
-  title: ""
-  given: Edrígar
-  clan: Sundrýth
-  home: falkensten
-  aliases: []
+name: {full: Edrígar Sundrýth, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: varokhiclt
-  homes: [vrystwald]
+  homes: [falkensten]
   affiliations: [vrystwldtrbs]
   gender: male
   species: humanflk

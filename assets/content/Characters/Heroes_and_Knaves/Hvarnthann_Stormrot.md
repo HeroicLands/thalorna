@@ -1,12 +1,6 @@
 ---
 shortcode: hvrnthnstrmrt
-name:
-  full: Hvarnthann Stormrót
-  title: ""
-  given: Hvarnthann
-  clan: Stormrót
-  home: hrandstead
-  aliases: []
+name: {full: Hvarnthann Stormrót, given: Hvarnthann, clan: Stormrót, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [hrandstead]
   affiliations: [kngdmvthgrd]
   gender: male
   species: humanflk

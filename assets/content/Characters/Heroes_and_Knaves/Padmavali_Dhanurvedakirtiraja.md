@@ -2,10 +2,8 @@
 shortcode: pdmvldhnrvdkrtrj
 name:
   full: Padmàvali Dhanurvedakīrtirāja
-  title: ""
   given: Padmàvali
   clan: Dhanurvedakīrtirāja
-  home: suvarnagiri
   aliases: []
 type: being
 subType: character
@@ -18,7 +16,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vedyariclt
-  homes: [vedyarargn]
+  homes: [suvarnagiri]
   affiliations: [suvrgrjnpd]
   gender: female
   species: humanflk

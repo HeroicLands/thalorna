@@ -1,6 +1,6 @@
 ---
 shortcode: edasomervl
-name: {full: Eda Somervell, title: "", given: Eda, clan: Somervell, home: thornbury, aliases: []}
+name: {full: Eda Somervell, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [thornbury]
   affiliations: [repblctrvn]
   gender: female
   species: humanflk

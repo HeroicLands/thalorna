@@ -1,12 +1,6 @@
 ---
 shortcode: thrldrvvrnhm
-name:
-  full: Thraldorv Vörnheim
-  title: ""
-  given: Thraldorv
-  clan: Vörnheim
-  home: dvarnvik
-  aliases: []
+name: {full: Thraldorv Vörnheim, given: Thraldorv, clan: Vörnheim, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [dvarnvik]
   affiliations: [kngdmvthgrd]
   gender: male
   species: humanflk

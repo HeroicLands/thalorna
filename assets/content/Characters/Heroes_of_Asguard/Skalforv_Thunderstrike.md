@@ -1,12 +1,6 @@
 ---
 shortcode: sklfrvthndrstrk
-name:
-  full: Skalforv Thunderstrike
-  title: null
-  given: Skalforv
-  clan: null
-  aliases: [Thunderstrike]
-  home: null
+name: {full: Skalforv Thunderstrike, given: Skalforv, clan: null, aliases: [Thunderstrike]}
 type: being
 subType: character
 tags: [paragon, heroes-of-asguard, soldiery]

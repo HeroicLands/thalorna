@@ -1,12 +1,6 @@
 ---
 shortcode: thotkarletgr
-name:
-  full: Thotkar Let'Gerau
-  title: ""
-  given: Thotkar
-  clan: Let'Gerau
-  home: amqelulegez
-  aliases: []
+name: {full: Thotkar Let'Gerau, given: Thotkar, clan: Let'Gerau, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, administration]
@@ -19,7 +13,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: khelathiclt
-  homes: [aukhelathrgq]
+  homes: [amqelulegez]
   affiliations: [empireakhlth]
   gender: male
   species: humanflk

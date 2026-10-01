@@ -1,12 +1,6 @@
 ---
 shortcode: knlthnskrldmkh
-name:
-  full: Knilthann Skraldumakh
-  title: ""
-  given: Knilthann
-  clan: Skraldumakh
-  home: tvalgard
-  aliases: []
+name: {full: Knilthann Skraldumakh, given: Knilthann, clan: Skraldumakh, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [tvalgard]
   affiliations: [kingdmtrgd]
   gender: male
   species: humanflk

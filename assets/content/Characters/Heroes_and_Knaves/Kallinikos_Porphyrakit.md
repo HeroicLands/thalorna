@@ -1,12 +1,6 @@
 ---
 shortcode: klnksprphrkt
-name:
-  full: Kallínikos Porphyrákit
-  title: ""
-  given: Kallínikos
-  clan: Porphyrákit
-  home: yesilhan2
-  aliases: []
+name: {full: Kallínikos Porphyrákit, given: Kallínikos, clan: Porphyrákit, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: byzarianclt
-  homes: [byzariargn]
+  homes: [yesilhan2]
   affiliations: [byzarianlg]
   gender: male
   species: humanflk

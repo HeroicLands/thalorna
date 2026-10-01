@@ -1,12 +1,6 @@
 ---
 shortcode: rethutrthllr
-name:
-  full: Rethutê Reth'el'Lêru
-  title: ""
-  given: Rethutê
-  clan: Reth'el'Lêru
-  home: galezkara
-  aliases: []
+name: {full: Rethutê Reth'el'Lêru, given: Rethutê, clan: Reth'el'Lêru, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -19,7 +13,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: khelathiclt
-  homes: [aukhelathrgq]
+  homes: [galezkara]
   affiliations: [empireakhlth]
   gender: female
   species: humanflk

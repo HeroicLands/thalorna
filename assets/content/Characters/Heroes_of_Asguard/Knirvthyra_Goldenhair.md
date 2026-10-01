@@ -1,12 +1,6 @@
 ---
 shortcode: knrvthyrgldnhr
-name:
-  full: Knirvthýra Goldenhair
-  title: null
-  given: Knirvthýra
-  clan: null
-  aliases: [Goldenhair]
-  home: null
+name: {full: Knirvthýra Goldenhair, given: Knirvthýra, clan: null, aliases: [Goldenhair]}
 type: being
 subType: character
 tags: [hero, heroes-of-asguard, administration]

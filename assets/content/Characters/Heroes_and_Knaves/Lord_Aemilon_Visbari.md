@@ -1,12 +1,6 @@
 ---
 shortcode: lrdmlnvsbr
-name:
-  full: Lord Aemilon Visbari
-  title: Lord
-  given: Aemilon
-  clan: Visbari
-  home: valdosta
-  aliases: []
+name: {full: Lord Aemilon Visbari, given: Aemilon, clan: Visbari, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, fffv1, herald, noble, spymaster, vylaria, administration]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [valdosta]
   affiliations: [vylarinmpr]
   gender: male
   species: humanflk

@@ -1,12 +1,6 @@
 ---
 shortcode: arkdsphlmds
-name:
-  full: Arkádios Philomédis
-  title: ""
-  given: Arkádios
-  clan: Philomédis
-  home: chrysamar
-  aliases: []
+name: {full: Arkádios Philomédis, given: Arkádios, clan: Philomédis, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: byzarianclt
-  homes: [byzariargn]
+  homes: [chrysamar]
   affiliations: [byzarianlg]
   gender: male
   species: humanflk

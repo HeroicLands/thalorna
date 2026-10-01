@@ -2,10 +2,8 @@
 shortcode: cndrthrchrymkhysvr
 name:
   full: Càndrathar Āchāryamukhyēshvara
-  title: ""
   given: Càndrathar
   clan: Āchāryamukhyēshvara
-  home: rajapur
   aliases: []
 type: being
 subType: character
@@ -18,7 +16,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vedyariclt
-  homes: [vedyarargn]
+  homes: [rajapur]
   affiliations: [rajaprjnpd]
   gender: male
   species: humanflk

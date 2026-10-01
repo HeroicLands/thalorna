@@ -1,6 +1,6 @@
 ---
 shortcode: ovlynslthr
-name: {full: Óvelyn Sálthar, title: "", given: Óvelyn, clan: Sálthar, home: liranel, aliases: []}
+name: {full: Óvelyn Sálthar, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [liranel]
   affiliations: [kngdmlvndr]
   gender: female
   species: humanflk

@@ -1,12 +1,6 @@
 ---
 shortcode: hrlkvlskyr
-name:
-  full: Hârlak Válskyr
-  title: ""
-  given: Hârlak
-  clan: Válskyr
-  home: aureliane
-  aliases: [Braden Hask]
+name: {full: Hârlak Válskyr, aliases: [Braden Hask]}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: provenzianclt
-  homes: [provenzrgn]
+  homes: [aureliane]
   affiliations: [kngdmprvnz]
   gender: male
   species: humanflk

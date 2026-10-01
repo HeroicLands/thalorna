@@ -1,6 +1,6 @@
 ---
 shortcode: ureleralwn
-name: {full: Úrelè Rálwen, title: "", given: Úrelè, clan: Rálwen, home: chastelclr, aliases: []}
+name: {full: Úrelè Rálwen, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: provenzianclt
-  homes: [provenzrgn]
+  homes: [chastelclr]
   affiliations: [kngdmprvnz]
   gender: female
   species: humanflk

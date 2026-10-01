@@ -1,12 +1,6 @@
 ---
 shortcode: dvrnvrshpr
-name:
-  full: Dvurnvir the Shaper
-  title: null
-  given: Dvurnvir
-  clan: null
-  aliases: [the Shaper]
-  home: null
+name: {full: Dvurnvir the Shaper, given: Dvurnvir, clan: null, aliases: [the Shaper]}
 type: being
 subType: character
 tags: [paragon, heroes-of-asguard, mages]

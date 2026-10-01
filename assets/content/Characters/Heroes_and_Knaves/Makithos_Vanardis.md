@@ -1,12 +1,6 @@
 ---
 shortcode: mkthsvnrds
-name:
-  full: Màkîthos Vânardis
-  title: ""
-  given: Màkîthos
-  clan: Vânardis
-  home: valdosta
-  aliases: []
+name: {full: Màkîthos Vânardis, given: Màkîthos, clan: Vânardis, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [valdosta]
   affiliations: [provnchyln]
   gender: male
   species: humanflk

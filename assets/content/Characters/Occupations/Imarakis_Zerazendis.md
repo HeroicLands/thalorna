@@ -1,12 +1,6 @@
 ---
 shortcode: imrkszrznds
-name:
-  full: Îmarakîs Zêrâzêndis
-  title: ""
-  given: Îmarakîs
-  clan: Zêrâzêndis
-  home: belekos
-  aliases: []
+name: {full: Îmarakîs Zêrâzêndis, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [belekos]
   affiliations: [vylarinmpr]
   gender: female
   species: humanflk

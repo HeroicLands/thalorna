@@ -1,12 +1,6 @@
 ---
 shortcode: rnthrprdln
-name:
-  full: Ránthor Párdalen
-  title: ""
-  given: Ránthor
-  clan: Párdalen
-  home: valdun
-  aliases: []
+name: {full: Ránthor Párdalen, given: Ránthor, clan: Párdalen, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, clergy]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [valdun]
   affiliations: [kngdmlvndr]
   gender: male
   species: humanflk

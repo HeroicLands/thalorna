@@ -1,12 +1,6 @@
 ---
 shortcode: chrysntssdrkt
-name:
-  full: Chrysántos Siderákit
-  title: ""
-  given: Chrysántos
-  clan: Siderákit
-  home: thalassos
-  aliases: []
+name: {full: Chrysántos Siderákit, given: Chrysántos, clan: Siderákit, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: byzarianclt
-  homes: [byzariargn]
+  homes: [thalassos]
   affiliations: [byzarianlg]
   gender: male
   species: humanflk

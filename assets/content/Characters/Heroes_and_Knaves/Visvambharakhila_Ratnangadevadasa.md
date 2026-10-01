@@ -2,10 +2,8 @@
 shortcode: vsvmbhrkhlrtngdvds
 name:
   full: Vishvambhārākhila Ratnāngadēvadāsa
-  title: ""
   given: Vishvambhārākhila
   clan: Ratnāngadēvadāsa
-  home: chandrapur2
   aliases: []
 type: being
 subType: character
@@ -18,7 +16,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vedyariclt
-  homes: [vedyarargn]
+  homes: [chandrapur2]
   affiliations: [chandrapur]
   gender: male
   species: humanflk

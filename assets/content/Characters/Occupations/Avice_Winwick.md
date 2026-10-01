@@ -1,6 +1,6 @@
 ---
 shortcode: avicewnwck
-name: {full: Avice Winwick, title: "", given: Avice, clan: Winwick, home: thornbury, aliases: []}
+name: {full: Avice Winwick, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [thornbury]
   affiliations: [repblctrvn]
   gender: female
   species: humanflk

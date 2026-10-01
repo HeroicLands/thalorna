@@ -1,12 +1,6 @@
 ---
 shortcode: gahijwfnjr
-name:
-  full: Gahiji wa Fénjara
-  title: ""
-  given: Gahiji
-  clan: Fénjara
-  home: fenjaravlg
-  aliases: [The Spirit Tracker]
+name: {full: Gahiji wa Fénjara, given: Gahiji, clan: Fénjara, aliases: [The Spirit Tracker]}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nyalubaclt
-  homes: [sthrnsvnhs]
+  homes: [fenjaravlg]
   affiliations: [nylbtrblntn]
   gender: male
   species: humanflk

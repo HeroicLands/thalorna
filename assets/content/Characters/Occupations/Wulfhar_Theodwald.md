@@ -1,12 +1,6 @@
 ---
 shortcode: wlfhrthdwld
-name:
-  full: Wulfhár Theódwald
-  title: ""
-  given: Wulfhár
-  clan: Theódwald
-  home: thornhaven
-  aliases: []
+name: {full: Wulfhár Theódwald, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: varokhiclt
-  homes: [vrystwald]
+  homes: [thornhaven]
   affiliations: [vrystwldtrbs]
   gender: male
   species: humanflk

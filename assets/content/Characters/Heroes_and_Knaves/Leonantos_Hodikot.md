@@ -1,12 +1,6 @@
 ---
 shortcode: lnntshdkt
-name:
-  full: Leónantos Hodíkot
-  title: ""
-  given: Leónantos
-  clan: Hodíkot
-  home: chrysamar
-  aliases: []
+name: {full: Leónantos Hodíkot, given: Leónantos, clan: Hodíkot, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, todo, guilded, clergy]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: byzarianclt
-  homes: [byzariargn]
+  homes: [chrysamar]
   affiliations: [byzarianlg]
   gender: male
   species: humanflk

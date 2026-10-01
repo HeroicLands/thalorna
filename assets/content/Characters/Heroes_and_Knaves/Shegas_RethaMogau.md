@@ -1,12 +1,6 @@
 ---
 shortcode: shegasrethmg
-name:
-  full: Shegas Retha'Mogau
-  title: ""
-  given: Shegas
-  clan: Retha'Mogau
-  home: anlaghzetun
-  aliases: []
+name: {full: Shegas Retha'Mogau, given: Shegas, clan: Retha'Mogau, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -19,7 +13,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: khelathiclt
-  homes: [aukhelathrgq]
+  homes: [anlaghzetun]
   affiliations: [empireakhlth]
   gender: female
   species: humanflk

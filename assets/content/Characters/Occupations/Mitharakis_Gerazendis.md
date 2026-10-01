@@ -1,12 +1,6 @@
 ---
 shortcode: mthrksgrznds
-name:
-  full: Mitharâkîs Gêrazêndis
-  title: ""
-  given: Mitharâkîs
-  clan: Gêrazêndis
-  home: tyrellan
-  aliases: []
+name: {full: Mitharâkîs Gêrazêndis, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [tyrellan]
   affiliations: [vylarinmpr]
   gender: male
   species: humanflk

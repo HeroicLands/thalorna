@@ -1,6 +1,6 @@
 ---
 shortcode: vndrcgrwld
-name: {full: Vandaric Garwald, title: "", given: Vandaric, clan: Garwald, aliases: [the Liar]}
+name: {full: Vandaric Garwald, given: Vandaric, clan: Garwald, aliases: [the Liar]}
 type: being
 subType: character
 tags: [blackpine-wolves, brigand, vrystwald, underworld]

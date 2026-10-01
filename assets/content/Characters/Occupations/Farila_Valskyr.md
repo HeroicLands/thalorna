@@ -1,12 +1,6 @@
 ---
 shortcode: farlvlskyr
-name:
-  full: Fárila Válskyr
-  title: Lady
-  given: Fárila
-  clan: Válskyr
-  home: belporte
-  aliases: [Lady Seraphina Wellspring]
+name: {full: Fárila Válskyr, aliases: [Lady Seraphina Wellspring]}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: provenzianclt
-  homes: [provenzrgn]
+  homes: [belporte]
   affiliations: [kngdmprvnz]
   gender: female
   species: humanflk

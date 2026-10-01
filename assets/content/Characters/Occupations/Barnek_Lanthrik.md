@@ -1,12 +1,6 @@
 ---
 shortcode: brnklnthrk
-name:
-  full: Bárnek Lánthrik
-  title: ""
-  given: Bárnek
-  clan: Lánthrik
-  home: fiordaure
-  aliases: []
+name: {full: Bárnek Lánthrik, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: provenzianclt
-  homes: [provenzrgn]
+  homes: [fiordaure]
   affiliations: [kngdmprvnz]
   gender: male
   species: humanflk

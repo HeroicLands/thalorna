@@ -1,12 +1,6 @@
 ---
 shortcode: grgrsphthympls
-name:
-  full: Grégoras Ephthymiópoulos
-  title: ""
-  given: Grégoras
-  clan: Ephthymiópoulos
-  home: thalassos
-  aliases: []
+name: {full: Grégoras Ephthymiópoulos, given: Grégoras, clan: Ephthymiópoulos, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: byzarianclt
-  homes: [byzariargn]
+  homes: [thalassos]
   affiliations: [byzarianlg]
   gender: male
   species: humanflk

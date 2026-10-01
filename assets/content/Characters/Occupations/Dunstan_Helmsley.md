@@ -1,12 +1,6 @@
 ---
 shortcode: dnstnhlmsly
-name:
-  full: Dunstan Helmsley
-  title: ""
-  given: Dunstan
-  clan: Helmsley
-  home: ashford
-  aliases: []
+name: {full: Dunstan Helmsley, aliases: []}
 type: being
 subType: npc
 tags: [draft, administration]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [ashford]
   affiliations: [kngdmldrth]
   gender: male
   species: humanflk

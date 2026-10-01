@@ -1,6 +1,6 @@
 ---
 shortcode: tarstrvlth
-name: {full: Társia Torvaleth, title: "", given: Társia, clan: Torvaleth, home: "", aliases: []}
+name: {full: Társia Torvaleth, aliases: []}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]

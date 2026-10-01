@@ -1,12 +1,6 @@
 ---
 shortcode: agapevrzns
-name:
-  full: Agápeia Varzánês
-  title: ""
-  given: Agápeia
-  clan: Varzánês
-  home: kostaros
-  aliases: []
+name: {full: Agápeia Varzánês, given: Agápeia, clan: Varzánês, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: byzarianclt
-  homes: [byzariargn]
+  homes: [kostaros]
   affiliations: [byzarianlg]
   gender: female
   species: humanflk

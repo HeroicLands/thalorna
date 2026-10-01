@@ -1,12 +1,6 @@
 ---
 shortcode: alyksdrymkt
-name:
-  full: Alýkos Drymíkot
-  title: ""
-  given: Alýkos
-  clan: Drymíkot
-  home: chrysamar
-  aliases: []
+name: {full: Alýkos Drymíkot, given: Alýkos, clan: Drymíkot, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: byzarianclt
-  homes: [byzariargn]
+  homes: [chrysamar]
   affiliations: [byzarianlg]
   gender: male
   species: humanflk

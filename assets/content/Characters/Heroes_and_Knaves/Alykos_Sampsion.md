@@ -1,12 +1,6 @@
 ---
 shortcode: alykosmpsn
-name:
-  full: Alýkos Sampsiôn
-  title: ""
-  given: Alýkos
-  clan: Sampsiôn
-  home: selimara
-  aliases: []
+name: {full: Alýkos Sampsiôn, given: Alýkos, clan: Sampsiôn, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: byzarianclt
-  homes: [byzariargn]
+  homes: [selimara]
   affiliations: [byzarianlg]
   gender: male
   species: humanflk

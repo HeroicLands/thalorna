@@ -1,12 +1,6 @@
 ---
 shortcode: hvlgvrvtrdmr
-name:
-  full: Hvalgvir Vetrdómr
-  title: ""
-  given: Hvalgvir
-  clan: Vetrdómr
-  home: odholm
-  aliases: []
+name: {full: Hvalgvir Vetrdómr, given: Hvalgvir, clan: Vetrdómr, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [odholm]
   affiliations: [kngdmnrdhm]
   gender: male
   species: humanflk

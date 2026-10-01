@@ -1,12 +1,6 @@
 ---
 shortcode: svlthsldashnmdn
-name:
-  full: Svilthselda Ashenmaiden
-  title: null
-  given: Svilthselda
-  clan: null
-  aliases: [Ashenmaiden]
-  home: null
+name: {full: Svilthselda Ashenmaiden, given: Svilthselda, clan: null, aliases: [Ashenmaiden]}
 type: being
 subType: character
 tags: [paragon, heroes-of-asguard, clergy]

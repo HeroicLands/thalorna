@@ -1,12 +1,6 @@
 ---
 shortcode: kasndrbsrn
-name:
-  full: Kassándria Bessarîon
-  title: ""
-  given: Kassándria
-  clan: Bessarîon
-  home: byzaris
-  aliases: []
+name: {full: Kassándria Bessarîon, given: Kassándria, clan: Bessarîon, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, todo, guilded, mages]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: byzarianclt
-  homes: [byzariargn]
+  homes: [byzaris]
   affiliations: [byzarianlg]
   gender: female
   species: humanflk

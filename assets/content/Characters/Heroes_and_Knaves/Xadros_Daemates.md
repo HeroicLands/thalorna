@@ -1,12 +1,6 @@
 ---
 shortcode: xadrosdmts
-name:
-  full: Xadrôs Dâemâtês
-  title: ""
-  given: Xadrôs
-  clan: Dâemâtês
-  home: sanctara
-  aliases: []
+name: {full: Xadrôs Dâemâtês, given: Xadrôs, clan: Dâemâtês, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [sanctara]
   affiliations: [hlykngdmnrtm]
   gender: male
   species: humanflk

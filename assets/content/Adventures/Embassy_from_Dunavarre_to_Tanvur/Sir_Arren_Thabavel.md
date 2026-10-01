@@ -1,6 +1,6 @@
 ---
 shortcode: arrenthabavel
-name: {full: Sir Arren Thábavel, title: "", given: Arren, clan: Thábavel, aliases: []}
+name: {full: Sir Arren Thábavel, given: Arren, clan: Thábavel, aliases: []}
 type: being
 subType: character
 tags: [draft, embassy-to-tanvur]

@@ -1,6 +1,6 @@
 ---
 shortcode: lothnhrlns
-name: {full: Lôthônâ Hârlânis, title: "", given: Lôthônâ, clan: Hârlânis, home: "", aliases: []}
+name: {full: Lôthônâ Hârlânis, aliases: []}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]

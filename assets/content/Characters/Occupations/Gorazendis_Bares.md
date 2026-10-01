@@ -1,12 +1,6 @@
 ---
 shortcode: gorzndsbrs
-name:
-  full: Gorâzendîs Bârês
-  title: ""
-  given: Gorâzendîs
-  clan: Bârês
-  home: corvinus
-  aliases: []
+name: {full: Gorâzendîs Bârês, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [corvinus]
   affiliations: [vylarinmpr]
   gender: female
   species: humanflk

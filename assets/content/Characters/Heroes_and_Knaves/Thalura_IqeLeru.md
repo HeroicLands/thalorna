@@ -1,12 +1,6 @@
 ---
 shortcode: thaluraiqelr
-name:
-  full: Thalura Iqe'Lêru
-  title: Zabet
-  given: Thalura
-  clan: Iqe'Lêru
-  home: amqelulegez
-  aliases: []
+name: {full: Thalura Iqe'Lêru, given: Thalura, clan: Iqe'Lêru, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, clergy]
@@ -19,7 +13,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: khelathiclt
-  homes: [aukhelathrgq]
+  homes: [amqelulegez]
   affiliations: [empireakhlth]
   gender: female
   species: humanflk

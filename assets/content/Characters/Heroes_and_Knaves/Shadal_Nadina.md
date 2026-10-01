@@ -1,6 +1,6 @@
 ---
 shortcode: shadalnadn
-name: {full: Shadal Nadina, title: "", given: Shadal, clan: Nadina, home: vashuran, aliases: []}
+name: {full: Shadal Nadina, given: Shadal, clan: Nadina, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: kaliharanclt
-  homes: [kaliharargn]
+  homes: [vashuran]
   affiliations: [kalihara]
   gender: male
   species: humanflk

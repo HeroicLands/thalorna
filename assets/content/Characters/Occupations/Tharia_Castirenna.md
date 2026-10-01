@@ -1,12 +1,6 @@
 ---
 shortcode: tharicstrn
-name:
-  full: Thária Castírenna
-  title: ""
-  given: Thária
-  clan: Castírenna
-  home: solarden
-  aliases: []
+name: {full: Thária Castírenna, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: tarvenanclt
-  homes: [tarvenirgn]
+  homes: [solarden]
   affiliations: [kingdmtrvn]
   gender: female
   species: humanflk

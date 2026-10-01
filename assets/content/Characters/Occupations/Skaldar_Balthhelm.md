@@ -1,12 +1,6 @@
 ---
 shortcode: skldrblthlm
-name:
-  full: Skaldár Balthhelm
-  title: ""
-  given: Skaldár
-  clan: Balthhelm
-  home: falkensten
-  aliases: []
+name: {full: Skaldár Balthhelm, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: varokhiclt
-  homes: [vrystwald]
+  homes: [falkensten]
   affiliations: [vrystwldtrbs]
   gender: male
   species: humanflk

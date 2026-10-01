@@ -1,12 +1,6 @@
 ---
 shortcode: kyrksptrks
-name:
-  full: Kyriákos Patrikîos
-  title: ""
-  given: Kyriákos
-  clan: Patrikîos
-  home: kostaros
-  aliases: []
+name: {full: Kyriákos Patrikîos, given: Kyriákos, clan: Patrikîos, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: byzarianclt
-  homes: [byzariargn]
+  homes: [kostaros]
   affiliations: [byzarianlg]
   gender: male
   species: humanflk

@@ -1,6 +1,6 @@
 ---
 shortcode: edmndwlfrd
-name: {full: Edmund Wolford, title: "", given: Edmund, clan: Wolford, home: ashford, aliases: []}
+name: {full: Edmund Wolford, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [ashford]
   affiliations: [kngdmldrth]
   gender: male
   species: humanflk

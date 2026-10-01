@@ -1,6 +1,6 @@
 ---
 shortcode: porenadhrl
-name: {full: Pórena Dhárel, title: "", given: Pórena, clan: Dhárel, home: portaelion, aliases: []}
+name: {full: Pórena Dhárel, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [portaelion]
   affiliations: [kngdmlvndr]
   gender: female
   species: humanflk

@@ -1,11 +1,11 @@
 ---
 shortcode: gulmenwati2
-name: {full: Gulmenwati, title: "", given: Gulmenwati, clan: "", home: anlaghzetun, aliases: []}
+name: {full: Gulmenwati, aliases: []}
 type: being
 subType: npc
 description: "A junior priest at the temple of Qe'âret, young enough to still believe the order works as it is described"
 tags: [generated]
-data: {archetypes: [cleric], packFolder: regkhfolk}
+data: {archetypes: [cleric], packFolder: regkhfolk, homes: [anlaghzetun]}
 ---
 
 A junior priest at the temple of Qe'âret, young enough to still believe the order works as it is described.

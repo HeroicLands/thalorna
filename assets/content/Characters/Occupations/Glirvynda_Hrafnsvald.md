@@ -1,12 +1,6 @@
 ---
 shortcode: glrvyndhrfnsvld
-name:
-  full: Glirvynda Hrafnsvald
-  title: ""
-  given: Glirvynda
-  clan: Hrafnsvald
-  home: skraldborg
-  aliases: []
+name: {full: Glirvynda Hrafnsvald, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [skraldborg]
   affiliations: [kngdmnrdhm]
   gender: female
   species: humanflk

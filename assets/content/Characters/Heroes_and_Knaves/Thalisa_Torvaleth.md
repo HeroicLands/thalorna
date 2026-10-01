@@ -1,12 +1,6 @@
 ---
 shortcode: thlstrvlth
-name:
-  full: Thalísa Torvaleth
-  title: ""
-  given: Thalísa
-  clan: Torvaleth
-  home: null # was: Eskárath
-  aliases: []
+name: {full: Thalísa Torvaleth, given: Thalísa, clan: Torvaleth, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

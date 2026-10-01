@@ -1,11 +1,11 @@
 ---
 shortcode: amqelenset2
-name: {full: Amqelenset, title: "", given: Amqelenset, clan: "", home: amqelulegez, aliases: []}
+name: {full: Amqelenset, aliases: []}
 type: being
 subType: npc
 description: "A powerful nobleman and architect, whose commissions shape the capital and whose favour is not lightly given"
 tags: [generated]
-data: {archetypes: [artisan, courtier], packFolder: regkhfolk}
+data: {archetypes: [artisan, courtier], packFolder: regkhfolk, homes: [amqelulegez]}
 ---
 
 A powerful nobleman and architect, whose commissions shape the capital and whose favour is not lightly given.

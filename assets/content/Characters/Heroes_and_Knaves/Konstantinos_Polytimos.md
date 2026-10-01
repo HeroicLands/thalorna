@@ -1,12 +1,6 @@
 ---
 shortcode: knstntnsplytms
-name:
-  full: Konstántinos Polytimós
-  title: ""
-  given: Konstántinos
-  clan: Polytimós
-  home: denizara2
-  aliases: []
+name: {full: Konstántinos Polytimós, given: Konstántinos, clan: Polytimós, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: byzarianclt
-  homes: [byzariargn]
+  homes: [denizara2]
   affiliations: [byzarianlg]
   gender: male
   species: humanflk

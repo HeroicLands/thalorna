@@ -1,6 +1,6 @@
 ---
 shortcode: namrshgzrm
-name: {full: Namrûsh Gazrûm, title: "", given: Namrûsh, clan: Gazrûm, home: "", aliases: []}
+name: {full: Namrûsh Gazrûm, aliases: []}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]

@@ -1,12 +1,6 @@
 ---
 shortcode: gnldrthnslvrgr
-name:
-  full: Gnaldrthann Sólvargr
-  title: ""
-  given: Gnaldrthann
-  clan: Sólvargr
-  home: hvalgvik
-  aliases: []
+name: {full: Gnaldrthann Sólvargr, given: Gnaldrthann, clan: Sólvargr, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [hvalgvik]
   affiliations: [kingdomlgn]
   gender: male
   species: humanflk

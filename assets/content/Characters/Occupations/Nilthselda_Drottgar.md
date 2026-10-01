@@ -1,12 +1,6 @@
 ---
 shortcode: nlthslddrtgr
-name:
-  full: Nilthselda Dróttgar
-  title: ""
-  given: Nilthselda
-  clan: Dróttgar
-  home: raltholm
-  aliases: []
+name: {full: Nilthselda Dróttgar, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [raltholm]
   affiliations: [kngdmnrdhm]
   gender: female
   species: humanflk

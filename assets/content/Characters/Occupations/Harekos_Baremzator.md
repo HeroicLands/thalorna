@@ -1,12 +1,6 @@
 ---
 shortcode: hrksbrmztr
-name:
-  full: Hàrêkôs Bàremzâtôr
-  title: ""
-  given: Hàrêkôs
-  clan: Bàremzâtôr
-  home: corvinus
-  aliases: []
+name: {full: Hàrêkôs Bàremzâtôr, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [corvinus]
   affiliations: [vylarinmpr]
   gender: male
   species: humanflk

@@ -1,12 +1,6 @@
 ---
 shortcode: vndrcgrskld
-name:
-  full: Vandaric Gárskald
-  title: ""
-  given: Vandaric
-  clan: Gárskald
-  home: thornhaven
-  aliases: []
+name: {full: Vandaric Gárskald, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: varokhiclt
-  homes: [vrystwald]
+  homes: [thornhaven]
   affiliations: [vrystwldtrbs]
   gender: male
   species: humanflk

@@ -1,12 +1,6 @@
 ---
 shortcode: rznshmrvrn
-name:
-  full: Razanash Mervaran
-  title: ""
-  given: Razanash
-  clan: Mervaran
-  home: kethramir
-  aliases: []
+name: {full: Razanash Mervaran, given: Razanash, clan: Mervaran, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, clergy]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: khazrynclt
-  homes: [khzryndsrtrgn]
+  homes: [kethramir]
   affiliations: [khzrncnfdrtn]
   gender: female
   species: humanflk

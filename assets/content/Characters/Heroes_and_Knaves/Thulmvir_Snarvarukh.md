@@ -1,12 +1,6 @@
 ---
 shortcode: thlmvrsnrvrkh
-name:
-  full: Thulmvir Snarvarukh
-  title: ""
-  given: Thulmvir
-  clan: Snarvarukh
-  home: hrandstead
-  aliases: []
+name: {full: Thulmvir Snarvarukh, given: Thulmvir, clan: Snarvarukh, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [hrandstead]
   affiliations: [kngdmvthgrd]
   gender: male
   species: humanflk

@@ -1,12 +1,6 @@
 ---
 shortcode: afzndhprnzr
-name:
-  full: Afzandah Parnâzar
-  title: ""
-  given: Afzandah
-  clan: Parnâzar
-  home: kethramir
-  aliases: []
+name: {full: Afzandah Parnâzar, given: Afzandah, clan: Parnâzar, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: khazrynclt
-  homes: [khzryndsrtrgn]
+  homes: [kethramir]
   affiliations: [khzrncnfdrtn]
   gender: female
   species: humanflk

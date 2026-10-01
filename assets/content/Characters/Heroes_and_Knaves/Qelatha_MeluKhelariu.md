@@ -1,12 +1,6 @@
 ---
 shortcode: qelathmlkhlr
-name:
-  full: Qelatha Melu'Khelariu
-  title: ""
-  given: Qelatha
-  clan: Melu'Khelariu
-  home: anlaghzetun
-  aliases: []
+name: {full: Qelatha Melu'Khelariu, given: Qelatha, clan: Melu'Khelariu, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]
@@ -19,7 +13,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: khelathiclt
-  homes: [aukhelathrgq]
+  homes: [anlaghzetun]
   affiliations: [empireakhlth]
   gender: female
   species: humanflk

@@ -2,10 +2,8 @@
 shortcode: tvrnyndsdrnrgd
 name:
   full: Tvarnynda the Seidr of Norgaad
-  title: ""
   given: Tvarnynda
   clan: Nalthendikh
-  home: gnaldrfjord
   aliases: [the Seidr of Norgaad]
 type: being
 subType: character
@@ -18,7 +16,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [gnaldrfjord]
   affiliations: [kingdmnrgd]
   gender: female
   species: humanflk

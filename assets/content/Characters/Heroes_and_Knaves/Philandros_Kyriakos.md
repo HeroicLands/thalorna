@@ -1,12 +1,6 @@
 ---
 shortcode: phlndrskyrks
-name:
-  full: Philándros Kyriákos
-  title: ""
-  given: Philándros
-  clan: Kyriákos
-  home: byzaris
-  aliases: []
+name: {full: Philándros Kyriákos, given: Philándros, clan: Kyriákos, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, administration]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: byzarianclt
-  homes: [byzariargn]
+  homes: [byzaris]
   affiliations: [byzarianlg]
   gender: male
   species: humanflk

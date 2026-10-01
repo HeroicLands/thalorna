@@ -1,12 +1,6 @@
 ---
 shortcode: sfrsrkhmns
-name:
-  full: Sàfîros Râkhmônis
-  title: ""
-  given: Sàfîros
-  clan: Râkhmônis
-  home: kalydria2
-  aliases: []
+name: {full: Sàfîros Râkhmônis, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: helioniteclt
-  homes: [helionis]
+  homes: [kalydria2]
   affiliations: [kalydria]
   gender: male
   species: humanflk

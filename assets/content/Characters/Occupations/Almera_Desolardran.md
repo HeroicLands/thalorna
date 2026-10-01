@@ -1,12 +1,6 @@
 ---
 shortcode: almrdslrdrn
-name:
-  full: Álmera Desolárdran
-  title: ""
-  given: Álmera
-  clan: Desolárdran
-  home: valthari
-  aliases: []
+name: {full: Álmera Desolárdran, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: tarvenanclt
-  homes: [tarvenirgn]
+  homes: [valthari]
   affiliations: [kingdmtrvn]
   gender: female
   species: humanflk

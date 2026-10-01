@@ -1,12 +1,6 @@
 ---
 shortcode: dhrmplvmkt
-name:
-  full: Dharmàpala Vimuktana
-  title: ""
-  given: Dharmàpala
-  clan: Vimuktana
-  home: dhanurkota
-  aliases: []
+name: {full: Dharmàpala Vimuktana, given: Dharmàpala, clan: Vimuktana, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vedyariclt
-  homes: [vedyarargn]
+  homes: [dhanurkota]
   affiliations: [dhnrktjnpd]
   gender: male
   species: humanflk

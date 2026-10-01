@@ -1,12 +1,6 @@
 ---
 shortcode: mentrkrmys
-name:
-  full: Mêntrâ Kêrîamyês
-  title: ""
-  given: Mêntrâ
-  clan: Kêrîamyês
-  home: belekos
-  aliases: []
+name: {full: Mêntrâ Kêrîamyês, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [belekos]
   affiliations: [vylarinmpr]
   gender: female
   species: humanflk

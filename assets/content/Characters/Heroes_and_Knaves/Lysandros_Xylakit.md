@@ -1,12 +1,6 @@
 ---
 shortcode: lysndrsxylkt
-name:
-  full: Lysándros Xylákit
-  title: ""
-  given: Lysándros
-  clan: Xylákit
-  home: selimara
-  aliases: []
+name: {full: Lysándros Xylákit, given: Lysándros, clan: Xylákit, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: byzarianclt
-  homes: [byzariargn]
+  homes: [selimara]
   affiliations: [byzarianlg]
   gender: male
   species: humanflk

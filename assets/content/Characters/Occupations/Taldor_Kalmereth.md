@@ -1,12 +1,6 @@
 ---
 shortcode: tldrklmrth
-name:
-  full: Táldor Kálmereth
-  title: ""
-  given: Táldor
-  clan: Kálmereth
-  home: elanmere
-  aliases: []
+name: {full: Táldor Kálmereth, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [elanmere]
   affiliations: [kngdmlvndr]
   gender: male
   species: humanflk

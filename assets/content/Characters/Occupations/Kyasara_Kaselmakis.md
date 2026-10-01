@@ -1,12 +1,6 @@
 ---
 shortcode: kysrkslmks
-name:
-  full: Kyàsârâ Kâselmakîs
-  title: ""
-  given: Kyàsârâ
-  clan: Kâselmakîs
-  home: tyrellan
-  aliases: []
+name: {full: Kyàsârâ Kâselmakîs, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [tyrellan]
   affiliations: [vylarinmpr]
   gender: female
   species: humanflk

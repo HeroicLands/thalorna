@@ -1,12 +1,6 @@
 ---
 shortcode: idriskrsvr
-name:
-  full: Ídrisè Kórisvar
-  title: ""
-  given: Ídrisè
-  clan: Kórisvar
-  home: elanmere
-  aliases: []
+name: {full: Ídrisè Kórisvar, given: Ídrisè, clan: Kórisvar, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: elavendriclt
-  homes: [provenzrgn]
+  homes: [elanmere]
   affiliations: [kngdmprvnz]
   gender: female
   species: humanflk

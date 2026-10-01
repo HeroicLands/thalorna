@@ -1,12 +1,6 @@
 ---
 shortcode: gnrthnvtrdmr
-name:
-  full: Gnirthann Vetrdómr
-  title: ""
-  given: Gnirthann
-  clan: Vetrdómr
-  home: ""
-  aliases: []
+name: {full: Gnirthann Vetrdómr, aliases: []}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]

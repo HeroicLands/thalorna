@@ -1,6 +1,6 @@
 ---
 shortcode: othwindmhr
-name: {full: Óthwin Dómhár, title: "", given: Óthwin, clan: Dómhár, home: eichengrnd, aliases: []}
+name: {full: Óthwin Dómhár, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: varokhiclt
-  homes: [vrystwald]
+  homes: [eichengrnd]
   affiliations: [vrystwldtrbs]
   gender: male
   species: humanflk

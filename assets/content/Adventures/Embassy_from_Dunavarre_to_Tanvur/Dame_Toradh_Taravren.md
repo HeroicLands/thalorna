@@ -1,6 +1,6 @@
 ---
 shortcode: toradhtaravren
-name: {full: Dame Toradh Taravren, title: "", given: Toradh, clan: Taravren, aliases: []}
+name: {full: Dame Toradh Taravren, given: Toradh, clan: Taravren, aliases: []}
 type: being
 subType: character
 tags: [draft, embassy-to-tanvur]

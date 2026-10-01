@@ -1,6 +1,6 @@
 ---
 shortcode: zahiratbrs
-name: {full: Zahîra Tâbîrês, title: "", given: Zahîra, clan: Tâbîrês, home: thyrenae2, aliases: []}
+name: {full: Zahîra Tâbîrês, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: helioniteclt
-  homes: [helionis]
+  homes: [thyrenae2]
   affiliations: [thyrenae]
   gender: female
   species: humanflk

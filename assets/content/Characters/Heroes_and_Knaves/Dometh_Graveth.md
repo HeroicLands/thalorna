@@ -1,6 +1,6 @@
 ---
 shortcode: domthgrvth
-name: {full: Dómeth Gráveth, title: "", given: Dómeth, clan: Gráveth, home: solarden, aliases: []}
+name: {full: Dómeth Gráveth, given: Dómeth, clan: Gráveth, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: tarvenanclt
-  homes: [tarvenirgn]
+  homes: [solarden]
   affiliations: [kingdmtrvn]
   gender: male
   species: humanflk

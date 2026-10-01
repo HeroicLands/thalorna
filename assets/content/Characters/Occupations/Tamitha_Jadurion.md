@@ -1,12 +1,6 @@
 ---
 shortcode: tamithjdrn
-name:
-  full: Tamîtha Jâdurîon
-  title: ""
-  given: Tamîtha
-  clan: Jâdurîon
-  home: pelagora2
-  aliases: []
+name: {full: Tamîtha Jâdurîon, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: helioniteclt
-  homes: [helionis]
+  homes: [pelagora2]
   affiliations: [pelagora]
   gender: female
   species: humanflk

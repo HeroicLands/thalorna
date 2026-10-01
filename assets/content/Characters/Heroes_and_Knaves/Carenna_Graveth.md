@@ -1,12 +1,6 @@
 ---
 shortcode: carengrvth
-name:
-  full: Cárenna Gráveth
-  title: ""
-  given: Cárenna
-  clan: Gráveth
-  home: torreviga
-  aliases: []
+name: {full: Cárenna Gráveth, given: Cárenna, clan: Gráveth, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, administration]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: tarvenanclt
-  homes: [tarvenirgn]
+  homes: [torreviga]
   affiliations: [kingdmtrvn]
   gender: female
   species: humanflk

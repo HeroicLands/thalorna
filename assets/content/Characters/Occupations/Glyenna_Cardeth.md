@@ -1,12 +1,6 @@
 ---
 shortcode: glyencrdth
-name:
-  full: Glýenna Cárdeth
-  title: Lady
-  given: Glýenna
-  clan: Cárdeth
-  home: portaelion
-  aliases: [Aperâni Valeria Firebrand]
+name: {full: Glýenna Cárdeth, aliases: [Aperâni Valeria Firebrand]}
 type: being
 subType: npc
 tags: [todo, draft, administration]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [portaelion]
   affiliations: [kngdmlvndr]
   gender: female
   species: humanflk

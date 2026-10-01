@@ -1,12 +1,6 @@
 ---
 shortcode: palnsnrcth
-name:
-  full: Pálina Sánriceth
-  title: ""
-  given: Pálina
-  clan: Sánriceth
-  home: solarden
-  aliases: [Shénasenè Seraphine Dreamweaver]
+name: {full: Pálina Sánriceth, aliases: [Shénasenè Seraphine Dreamweaver]}
 type: being
 subType: npc
 tags: [todo, draft, clergy]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: tarvenanclt
-  homes: [tarvenirgn]
+  homes: [solarden]
   affiliations: [kingdmtrvn]
   gender: female
   species: humanflk

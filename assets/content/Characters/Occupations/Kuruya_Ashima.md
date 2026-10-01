@@ -1,6 +1,6 @@
 ---
 shortcode: kuruyashim
-name: {full: Kûrûya Ashîmâ, title: "", given: Kûrûya, clan: Ashîmâ, home: kashmuret, aliases: []}
+name: {full: Kûrûya Ashîmâ, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: haradianclt
-  homes: [haradregin]
+  homes: [kashmuret]
   affiliations: [cnfdrtnhrdnstts]
   gender: female
   species: humanflk

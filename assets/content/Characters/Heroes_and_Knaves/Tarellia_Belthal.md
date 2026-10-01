@@ -1,12 +1,6 @@
 ---
 shortcode: tarelblthl
-name:
-  full: Tárellia Bélthal
-  title: ""
-  given: Tárellia
-  clan: Bélthal
-  home: portaelion
-  aliases: []
+name: {full: Tárellia Bélthal, given: Tárellia, clan: Bélthal, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, mages]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [portaelion]
   affiliations: [kngdmlvndr]
   gender: female
   species: humanflk

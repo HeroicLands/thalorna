@@ -1,12 +1,6 @@
 ---
 shortcode: dalzurtbsh
-name:
-  full: Dalzûru Tûbashî
-  title: ""
-  given: Dalzûru
-  clan: Tûbashî
-  home: kethara2
-  aliases: []
+name: {full: Dalzûru Tûbashî, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: haradianclt
-  homes: [haradregin]
+  homes: [kethara2]
   affiliations: [cnfdrtnhrdnstts]
   gender: male
   species: humanflk

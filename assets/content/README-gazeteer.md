@@ -70,10 +70,8 @@ shortcode: ""
 name:
   full: ""
   aliases: ""
-  title: ""
-  given: ""
-  clan: ""
-  home: ""
+  given: "" # character only
+  clan: "" # character only
 type: being
 subType: "" # character, creature, or npc
 description: "" # a short one-line description of the being
@@ -85,7 +83,7 @@ data:
   occupation: "" # name of the occupation (npc or character only)
   lore: [] # any lore note associated with the character, such as social standing or law
   culture: "" # Primary culture, naming a lore note with `subType: culture`
-  homes: [] # place where the being calls home
+  homes: [] # the places the being calls home, naming the settlement rather than the region around it
   affiliations: [] # any guilds, polities, or other affiliations the being belongs to
   socialTies: [] # Defining support and opposition (see Enemies/Patrons below)
   gender: "" # male, female, or other

@@ -1,12 +1,6 @@
 ---
 shortcode: gracncstrn
-name:
-  full: Grácena Castírenna
-  title: ""
-  given: Grácena
-  clan: Castírenna
-  home: ""
-  aliases: []
+name: {full: Grácena Castírenna, aliases: []}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]

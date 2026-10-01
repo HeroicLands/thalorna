@@ -1,12 +1,6 @@
 ---
 shortcode: tvrnthnisldr
-name:
-  full: Tvurnthann Íseldr
-  title: ""
-  given: Tvurnthann
-  clan: Íseldr
-  home: thrunborg
-  aliases: []
+name: {full: Tvurnthann Íseldr, given: Tvurnthann, clan: Íseldr, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, todo, guilded, mages]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [thrunborg]
   affiliations: [kngdmvthgrd]
   gender: male
   species: humanflk

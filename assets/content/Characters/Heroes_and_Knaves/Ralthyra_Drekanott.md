@@ -1,12 +1,6 @@
 ---
 shortcode: rlthyrdrknt
-name:
-  full: Ralthýra Drekanótt
-  title: ""
-  given: Ralthýra
-  clan: Drekanótt
-  home: dvalgheim
-  aliases: []
+name: {full: Ralthýra Drekanótt, given: Ralthýra, clan: Drekanótt, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [dvalgheim]
   affiliations: [kngdmnrdhm]
   gender: female
   species: humanflk

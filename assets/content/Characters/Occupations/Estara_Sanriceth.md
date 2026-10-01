@@ -1,12 +1,6 @@
 ---
 shortcode: estrsnrcth
-name:
-  full: Estára Sánriceth
-  title: ""
-  given: Estára
-  clan: Sánriceth
-  home: valdes
-  aliases: []
+name: {full: Estára Sánriceth, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: tarvenanclt
-  homes: [tarvenirgn]
+  homes: [valdes]
   affiliations: [kingdmtrvn]
   gender: female
   species: humanflk

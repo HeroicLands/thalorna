@@ -1,12 +1,6 @@
 ---
 shortcode: brnlnsbrkls
-name:
-  full: Brânalenîs Bárkalâs
-  title: ""
-  given: Brânalenîs
-  clan: Bárkalâs
-  home: belekos
-  aliases: []
+name: {full: Brânalenîs Bárkalâs, given: Brânalenîs, clan: Bárkalâs, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [belekos]
   affiliations: [provinclys]
   gender: female
   species: humanflk

@@ -1,12 +1,6 @@
 ---
 shortcode: rodrnjthrn
-name:
-  full: Rodrén Jútharen
-  title: ""
-  given: Rodrén
-  clan: Jútharen
-  home: null # was: Eskárath
-  aliases: []
+name: {full: Rodrén Jútharen, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]

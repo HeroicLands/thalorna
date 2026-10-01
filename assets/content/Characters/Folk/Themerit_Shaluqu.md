@@ -1,17 +1,11 @@
 ---
 shortcode: themeritshl2
-name:
-  full: Themerît Shalûqu
-  title: ""
-  given: Themerît
-  clan: Shalûqu
-  home: garanlaghet
-  aliases: []
+name: {full: Themerît Shalûqu, aliases: []}
 type: being
 subType: npc
 description: "An aging widow and powerful patron, who sees in her protégée the ambitious mind she once possessed"
 tags: [generated]
-data: {archetypes: [courtier], packFolder: regkhfolk}
+data: {archetypes: [courtier], packFolder: regkhfolk, homes: [garanlaghet]}
 ---
 
 An aging widow and powerful patron, who sees in her protégée the ambitious mind she once possessed.

@@ -1,6 +1,6 @@
 ---
 shortcode: alimulamar
-name: {full: Alîmû Lâmarû, title: "", given: Alîmû, clan: Lâmarû, home: kashmuret, aliases: []}
+name: {full: Alîmû Lâmarû, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, administration]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: haradianclt
-  homes: [haradregin]
+  homes: [kashmuret]
   affiliations: [cnfdrtnhrdnstts]
   gender: male
   species: humanflk

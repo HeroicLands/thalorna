@@ -1,12 +1,6 @@
 ---
 shortcode: visvarmhpr
-name:
-  full: Vishvàra Mahâpara
-  title: ""
-  given: Vishvàra
-  clan: Mahâpara
-  home: vyalendra3
-  aliases: []
+name: {full: Vishvàra Mahâpara, given: Vishvàra, clan: Mahâpara, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vedyariclt
-  homes: [vedyarargn]
+  homes: [vyalendra3]
   affiliations: [vyalendra2]
   gender: male
   species: humanflk

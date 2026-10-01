@@ -1,6 +1,6 @@
 ---
 shortcode: qamiralamr
-name: {full: Qâmira Lamari, title: "", given: Qâmira, clan: Lamari, home: qasirah, aliases: []}
+name: {full: Qâmira Lamari, given: Qâmira, clan: Lamari, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, mages]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: kaliharanclt
-  homes: [kaliharargn]
+  homes: [qasirah]
   affiliations: [kalihara]
   gender: female
   species: humanflk

@@ -1,12 +1,6 @@
 ---
 shortcode: gamrunrshm
-name:
-  full: Gamrûn Narûsham
-  title: ""
-  given: Gamrûn
-  clan: Narûsham
-  home: qadhirun
-  aliases: []
+name: {full: Gamrûn Narûsham, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: haradianclt
-  homes: [haradregin]
+  homes: [qadhirun]
   affiliations: [cnfdrtnhrdnstts]
   gender: male
   species: humanflk

@@ -1,12 +1,6 @@
 ---
 shortcode: gatnefrztmth
-name:
-  full: Gatnefur Zet'Maâthu
-  title: ""
-  given: Gatnefur
-  clan: Zet'Maâthu
-  home: galezkara
-  aliases: []
+name: {full: Gatnefur Zet'Maâthu, given: Gatnefur, clan: Zet'Maâthu, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -19,7 +13,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: khelathiclt
-  homes: [aukhelathrgq]
+  homes: [galezkara]
   affiliations: [empireakhlth]
   gender: male
   species: humanflk

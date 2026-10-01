@@ -1,6 +1,6 @@
 ---
 shortcode: ilaraluavel
-name: {full: Lady Ilara Lúavel, title: "", given: Ilara, clan: Lúavel, aliases: []}
+name: {full: Lady Ilara Lúavel, given: Ilara, clan: Lúavel, aliases: []}
 type: being
 subType: character
 tags: [draft, embassy-to-tanvur]

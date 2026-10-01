@@ -1,12 +1,6 @@
 ---
 shortcode: prynbrmndn
-name:
-  full: Paryan Barmandan
-  title: ""
-  given: Paryan
-  clan: Barmandan
-  home: golshahr
-  aliases: []
+name: {full: Paryan Barmandan, given: Paryan, clan: Barmandan, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: dunhariclt
-  homes: [amradadrgn]
+  homes: [golshahr]
   affiliations: [sultntmrdd]
   gender: female
   species: humanflk

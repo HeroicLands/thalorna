@@ -1,12 +1,6 @@
 ---
 shortcode: enthrvasgrnd
-name:
-  full: Enthorv Ásgrind
-  title: ""
-  given: Enthorv
-  clan: Ásgrind
-  home: tvalgard
-  aliases: []
+name: {full: Enthorv Ásgrind, given: Enthorv, clan: Ásgrind, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [tvalgard]
   affiliations: [kingdmtrgd]
   gender: male
   species: humanflk

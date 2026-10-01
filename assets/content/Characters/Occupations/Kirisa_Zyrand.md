@@ -1,6 +1,6 @@
 ---
 shortcode: kiriszyrnd
-name: {full: Kírisa Zýrand, title: "", given: Kírisa, clan: Zýrand, home: belporte, aliases: []}
+name: {full: Kírisa Zýrand, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: provenzianclt
-  homes: [provenzrgn]
+  homes: [belporte]
   affiliations: [kngdmprvnz]
   gender: female
   species: humanflk

@@ -1,6 +1,6 @@
 ---
 shortcode: lendspyrgkt
-name: {full: Leónidês Pyrgíkot, title: "", given: Leónidês, clan: Pyrgíkot, home: "", aliases: []}
+name: {full: Leónidês Pyrgíkot, aliases: []}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]

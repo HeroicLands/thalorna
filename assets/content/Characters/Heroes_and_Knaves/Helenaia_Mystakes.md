@@ -1,12 +1,6 @@
 ---
 shortcode: helnmystks
-name:
-  full: Hélénaia Mystákês
-  title: ""
-  given: Hélénaia
-  clan: Mystákês
-  home: karatas2
-  aliases: []
+name: {full: Hélénaia Mystákês, given: Hélénaia, clan: Mystákês, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, todo, clergy]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: byzarianclt
-  homes: [byzariargn]
+  homes: [karatas2]
   affiliations: [byzarianlg]
   gender: female
   species: humanflk

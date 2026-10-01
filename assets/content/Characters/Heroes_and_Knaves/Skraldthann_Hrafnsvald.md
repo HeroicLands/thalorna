@@ -1,12 +1,6 @@
 ---
 shortcode: skrldthnhrfnsvld
-name:
-  full: Skraldthann Hrafnsvald
-  title: ""
-  given: Skraldthann
-  clan: Hrafnsvald
-  home: vrathavn
-  aliases: []
+name: {full: Skraldthann Hrafnsvald, given: Skraldthann, clan: Hrafnsvald, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [vrathavn]
   affiliations: [kingdmnrgd]
   gender: male
   species: humanflk

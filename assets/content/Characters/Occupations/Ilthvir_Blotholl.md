@@ -1,12 +1,6 @@
 ---
 shortcode: ilthvrblthl
-name:
-  full: Ilthvir Blóthöll
-  title: ""
-  given: Ilthvir
-  clan: Blóthöll
-  home: raltholm
-  aliases: []
+name: {full: Ilthvir Blóthöll, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [raltholm]
   affiliations: [kngdmnrdhm]
   gender: male
   species: humanflk

@@ -1,6 +1,6 @@
 ---
 shortcode: belrktrvnl
-name: {full: Bélrik Tárvenel, title: "", given: Bélrik, clan: Tárvenel, home: "", aliases: []}
+name: {full: Bélrik Tárvenel, aliases: []}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]

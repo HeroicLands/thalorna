@@ -1,6 +1,6 @@
 ---
 shortcode: wystanosgd
-name: {full: Wystan Osgood, title: "", given: Wystan, clan: Osgood, home: brynhallow, aliases: []}
+name: {full: Wystan Osgood, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [brynhallow]
   affiliations: [kngdmldrth]
   gender: male
   species: humanflk

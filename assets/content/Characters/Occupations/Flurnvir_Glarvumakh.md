@@ -1,12 +1,6 @@
 ---
 shortcode: flrnvrglrvmkh
-name:
-  full: Flurnvir Glarvumakh
-  title: ""
-  given: Flurnvir
-  clan: Glarvumakh
-  home: kraldstead
-  aliases: []
+name: {full: Flurnvir Glarvumakh, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [kraldstead]
   affiliations: [kngdmnrdhm]
   gender: male
   species: humanflk

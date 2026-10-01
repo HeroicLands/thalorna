@@ -1,12 +1,6 @@
 ---
 shortcode: knghlrthni
-name:
-  full: King Hlurthann III
-  title: King
-  given: Hlurthann
-  clan: ""
-  home: gnarthborg
-  aliases: []
+name: {full: King Hlurthann III, aliases: []}
 type: being
 subType: npc
 tags: [draft]
@@ -17,7 +11,7 @@ data:
   stations: []
   lore: []
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [gnarthborg]
   affiliations: [kingdomlgn]
   gender: male
   species: humanflk

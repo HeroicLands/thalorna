@@ -1,12 +1,6 @@
 ---
 shortcode: shrmnhthvn
-name:
-  full: Sharmînah Tahvân
-  title: ""
-  given: Sharmînah
-  clan: Tahvân
-  home: kethramir
-  aliases: []
+name: {full: Sharmînah Tahvân, given: Sharmînah, clan: Tahvân, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, todo, clergy]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: khazrynclt
-  homes: [khzryndsrtrgn]
+  homes: [kethramir]
   affiliations: [tribestrzd]
   gender: female
   species: humanflk

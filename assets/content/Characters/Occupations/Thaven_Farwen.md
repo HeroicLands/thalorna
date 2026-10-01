@@ -1,12 +1,6 @@
 ---
 shortcode: thavenfrwn
-name:
-  full: Thâven Fárwèn
-  title: ""
-  given: Thâven
-  clan: Fárwèn
-  home: chastelclr
-  aliases: [Bosun Kellan Stormwatch]
+name: {full: Thâven Fárwèn, aliases: [Bosun Kellan Stormwatch]}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: provenzianclt
-  homes: [provenzrgn]
+  homes: [chastelclr]
   affiliations: [kngdmprvnz]
   gender: male
   species: humanflk

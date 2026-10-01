@@ -1,12 +1,6 @@
 ---
 shortcode: jubensfths
-name:
-  full: Júbênós Safîthês
-  title: ""
-  given: Júbênós
-  clan: Safîthês
-  home: thyrenae2
-  aliases: []
+name: {full: Júbênós Safîthês, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, administration]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: helioniteclt
-  homes: [helionis]
+  homes: [thyrenae2]
   affiliations: [thyrenae]
   gender: male
   species: humanflk

@@ -1,12 +1,6 @@
 ---
 shortcode: vthrblthlm
-name:
-  full: Véthar Balthhelm
-  title: ""
-  given: Véthar
-  clan: Balthhelm
-  home: waldburg
-  aliases: []
+name: {full: Véthar Balthhelm, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: varokhiclt
-  homes: [vrystwald]
+  homes: [waldburg]
   affiliations: [vrystwldtrbs]
   gender: male
   species: humanflk

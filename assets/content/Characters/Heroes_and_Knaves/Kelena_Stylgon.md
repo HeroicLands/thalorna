@@ -1,6 +1,6 @@
 ---
 shortcode: kelnstylgn
-name: {full: Kêlena Stýlgon, title: "", given: Kêlena, clan: Stýlgon, home: valcerise, aliases: []}
+name: {full: Kêlena Stýlgon, given: Kêlena, clan: Stýlgon, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, administration]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: provenzianclt
-  homes: [provenzrgn]
+  homes: [valcerise]
   affiliations: [kngdmprvnz]
   gender: female
   species: humanflk

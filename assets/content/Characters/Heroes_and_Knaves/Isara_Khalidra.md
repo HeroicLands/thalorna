@@ -1,6 +1,6 @@
 ---
 shortcode: isarakhldr
-name: {full: Isâra Khalîdra, title: "", given: Isâra, clan: Khalîdra, aliases: []}
+name: {full: Isâra Khalîdra, given: Isâra, clan: Khalîdra, aliases: []}
 type: being
 subType: character
 tags: [tamzir-crew, administration]

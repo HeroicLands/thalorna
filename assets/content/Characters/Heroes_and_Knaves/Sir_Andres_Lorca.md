@@ -2,10 +2,8 @@
 shortcode: srndrslrcknghtwstrnmrchs
 name:
   full: Sir Andrés Lorca, Knight of the Western Marches
-  title: Sir
   given: Andrés
   clan: Lorca
-  home: null # was: Eskárath
   aliases: [Knight of the Western Marches, Sir Andres Lorca]
 type: being
 subType: character

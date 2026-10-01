@@ -42,9 +42,9 @@
  *    a document in a compendium, and this note compiles none: the content index
  *    carries what it wrote beside a null `foundry`, where it reads as a filing
  *    that never happened.
- * 6. **`references-resolve`** — every `data.homes`, `data.affiliations` and
- *    `name.home` value names a note that exists. A record's only claims about
- *    the world are these, and a reader has no body to correct them against.
+ * 6. **`references-resolve`** — every `data.homes` and `data.affiliations` value
+ *    names a note that exists. A record's only claims about the world are
+ *    these, and a reader has no body to correct them against.
  * 7. **`name-is-in-the-prose`** — the `name.full` appears somewhere else in the
  *    content tree. A record exists because a sentence names the person; when
  *    that sentence is rewritten the record is orphaned, and nothing else in the
@@ -55,6 +55,11 @@
  *    neither cannot have its title read at all. The pair is exclusive because
  *    an absent `homes` on its own cannot be told from one nobody has reached
  *    yet: the tag is what turns the gap into a state somebody decided.
+ * 9. **`name-is-closed`** — `name` carries only `full`, `aliases`, and, where
+ *    `subType` is `character`, `given` and `clan`. `title` and `home` are
+ *    never legal, and `given`/`clan` are an error on every other subtype
+ *    (including no subtype at all), so a record cannot answer "is this a
+ *    character?" by leaving the field unset.
  *
  * **The guard checks itself first.** There is no error in an empty set here —
  * the records are written a batch at a time, and a tree with none of them yet
@@ -405,9 +410,6 @@ function checkReferencePerson(note, context) {
             value,
             at: "affiliations",
         })),
-        ...(fm.name?.home == null || String(fm.name.home).trim() === "" ?
-            []
-        :   [{ key: "name.home", value: fm.name.home, at: "home" }]),
     ];
     for (const reference of references) {
         if (resolves(reference.value, corpus)) continue;
@@ -440,6 +442,38 @@ function checkReferencePerson(note, context) {
                 lineOf(note.raw, "tags"),
                 "origin-is-stated",
                 `\`${UNATTRIBUTED_TAG}\` states that the corpus never says where this person is from, and \`data.homes\` says where: drop whichever is untrue`,
+            ),
+        );
+    }
+
+    const name = fm.name && typeof fm.name === "object" ? fm.name : {};
+    if ("title" in name) {
+        out.push(
+            finding(
+                note,
+                lineOf(note.raw, "title") ?? lineOf(note.raw, "name"),
+                "name-is-closed",
+                "`name.title` is never legal; `name` carries only `full`, `aliases`, and, on a character, `given` and `clan`",
+            ),
+        );
+    }
+    if ("home" in name) {
+        out.push(
+            finding(
+                note,
+                lineOf(note.raw, "home") ?? lineOf(note.raw, "name"),
+                "name-is-closed",
+                "`name.home` is never legal; a record states where a being is from in `data.homes`",
+            ),
+        );
+    }
+    if (("given" in name || "clan" in name) && fm.subType !== "character") {
+        out.push(
+            finding(
+                note,
+                lineOf(note.raw, "given") ?? lineOf(note.raw, "clan") ?? lineOf(note.raw, "name"),
+                "name-is-closed",
+                `\`name.given\` and \`name.clan\` are legal only on \`subType: character\`; this record's subType is ${fm.subType == null ? "unset" : `\`${fm.subType}\``}`,
             ),
         );
     }
@@ -520,6 +554,10 @@ function selfTestPerson(changes = {}) {
     const written = {
         tags: ["character", "reference"],
         full: "Ilvana Sorrel",
+        subType: null,
+        title: null,
+        given: null,
+        clan: null,
         description: "A tide-book keeper of the Harbour Guild.",
         placement: null,
         templatePriority: "null",
@@ -532,11 +570,14 @@ function selfTestPerson(changes = {}) {
     const lines = ["---", "tags:"];
     for (const tag of written.tags) lines.push(`  - ${tag}`);
     lines.push("name:", `  full: ${written.full}`);
-    if (written.homes !== null) lines.push("  home: harbourtown");
+    if (written.title !== null) lines.push(`  title: ${written.title}`);
+    if (written.given !== null) lines.push(`  given: ${written.given}`);
+    if (written.clan !== null) lines.push(`  clan: ${written.clan}`);
     if (written.description !== null)
         lines.push(`description: ${JSON.stringify(written.description)}`);
     if (written.placement !== null) lines.push(written.placement);
     lines.push("shortcode: ilvanasorrel", `type: ${PERSON_TYPE}`);
+    if (written.subType !== null) lines.push(`subType: ${written.subType}`);
     lines.push("data:");
     if (written.templatePriority !== null)
         lines.push(`  templatePriority: ${written.templatePriority}`);
@@ -606,6 +647,26 @@ function selfTestNotes(systems) {
             name: "a home no note answers to",
             breaks: "references-resolve",
             raw: selfTestPerson({ homes: ["nowhereatall"] }),
+        },
+        {
+            name: "a title",
+            breaks: "name-is-closed",
+            raw: selfTestPerson({ title: "Lady" }),
+        },
+        {
+            name: "given and clan with no subType",
+            breaks: "name-is-closed",
+            raw: selfTestPerson({ given: "Ilvana", clan: "Sorrel" }),
+        },
+        {
+            name: "given and clan on an npc",
+            breaks: "name-is-closed",
+            raw: selfTestPerson({ given: "Ilvana", clan: "Sorrel", subType: "npc" }),
+        },
+        {
+            name: "given and clan on a character",
+            breaks: null,
+            raw: selfTestPerson({ given: "Ilvana", clan: "Sorrel", subType: "character" }),
         },
         {
             name: "a name the prose does not write",

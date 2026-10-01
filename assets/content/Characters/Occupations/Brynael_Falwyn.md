@@ -1,6 +1,6 @@
 ---
 shortcode: brynlflwyn
-name: {full: Brýnael Fálwyn, title: "", given: Brýnael, clan: Fálwyn, home: liranel, aliases: []}
+name: {full: Brýnael Fálwyn, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [liranel]
   affiliations: [kngdmlvndr]
   gender: female
   species: humanflk

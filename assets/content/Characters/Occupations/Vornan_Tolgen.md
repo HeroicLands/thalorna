@@ -1,6 +1,6 @@
 ---
 shortcode: vornantlgn
-name: {full: Vôrnan Tólgen, title: "", given: Vôrnan, clan: Tólgen, home: valcerise, aliases: []}
+name: {full: Vôrnan Tólgen, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: provenzianclt
-  homes: [provenzrgn]
+  homes: [valcerise]
   affiliations: [kngdmprvnz]
   gender: male
   species: humanflk

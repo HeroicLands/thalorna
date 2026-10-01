@@ -1,12 +1,6 @@
 ---
 shortcode: tmrsrytjmhnnd
-name:
-  full: Tamûra Sūryatejamahānanda
-  title: ""
-  given: Tamûra
-  clan: Sūryatejamahānanda
-  home: rajapur
-  aliases: []
+name: {full: Tamûra Sūryatejamahānanda, given: Tamûra, clan: Sūryatejamahānanda, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vedyariclt
-  homes: [vedyarargn]
+  homes: [rajapur]
   affiliations: [rajaprjnpd]
   gender: male
   species: humanflk

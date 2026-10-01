@@ -1,12 +1,6 @@
 ---
 shortcode: cardnchrns
-name:
-  full: Cáreden Chárnis
-  title: ""
-  given: Cáreden
-  clan: Chárnis
-  home: monverdre
-  aliases: []
+name: {full: Cáreden Chárnis, aliases: []}
 type: being
 subType: npc
 tags: [draft, clergy]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: provenzianclt
-  homes: [provenzrgn]
+  homes: [monverdre]
   affiliations: [kngdmprvnz]
   gender: male
   species: humanflk

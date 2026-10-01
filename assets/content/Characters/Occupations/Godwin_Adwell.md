@@ -1,6 +1,6 @@
 ---
 shortcode: godwinadwl
-name: {full: Godwin Adwell, title: "", given: Godwin, clan: Adwell, home: caerwynd, aliases: []}
+name: {full: Godwin Adwell, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [caerwynd]
   affiliations: [kngdmldrth]
   gender: male
   species: humanflk

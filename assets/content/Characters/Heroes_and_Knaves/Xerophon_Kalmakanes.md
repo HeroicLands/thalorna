@@ -1,12 +1,6 @@
 ---
 shortcode: xrphnklmkns
-name:
-  full: Xerôphôn Kâlmâkanês
-  title: ""
-  given: Xerôphôn
-  clan: Kâlmâkanês
-  home: ashenmere
-  aliases: []
+name: {full: Xerôphôn Kâlmâkanês, given: Xerôphôn, clan: Kâlmâkanês, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [ashenmere]
   affiliations: [provncmktr]
   gender: male
   species: humanflk

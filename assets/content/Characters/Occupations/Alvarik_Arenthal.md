@@ -1,12 +1,6 @@
 ---
 shortcode: alvrkrnthl
-name:
-  full: Alvárik Árenthal
-  title: ""
-  given: Alvárik
-  clan: Árenthal
-  home: valdes
-  aliases: []
+name: {full: Alvárik Árenthal, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: tarvenanclt
-  homes: [tarvenirgn]
+  homes: [valdes]
   affiliations: [kingdmtrvn]
   gender: male
   species: humanflk

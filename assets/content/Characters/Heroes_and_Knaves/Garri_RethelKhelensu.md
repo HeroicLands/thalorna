@@ -1,12 +1,6 @@
 ---
 shortcode: garrrthlkhln
-name:
-  full: Garri Reth'el'Khelensu
-  title: ""
-  given: Garri
-  clan: Reth'el'Khelensu
-  home: galezkara
-  aliases: []
+name: {full: Garri Reth'el'Khelensu, given: Garri, clan: Reth'el'Khelensu, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -19,7 +13,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: khelathiclt
-  homes: [aukhelathrgq]
+  homes: [galezkara]
   affiliations: [empireakhlth]
   gender: male
   species: humanflk

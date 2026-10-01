@@ -1,6 +1,6 @@
 ---
 shortcode: maudosgood
-name: {full: Maud Osgood, title: "", given: Maud, clan: Osgood, home: greywater, aliases: []}
+name: {full: Maud Osgood, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [greywater]
   affiliations: [kngdmldrth]
   gender: female
   species: humanflk

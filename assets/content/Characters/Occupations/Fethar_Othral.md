@@ -1,6 +1,6 @@
 ---
 shortcode: fetharthrl
-name: {full: Féthar Óthral, title: "", given: Féthar, clan: Óthral, home: valdun, aliases: []}
+name: {full: Féthar Óthral, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [valdun]
   affiliations: [kngdmlvndr]
   gender: male
   species: humanflk

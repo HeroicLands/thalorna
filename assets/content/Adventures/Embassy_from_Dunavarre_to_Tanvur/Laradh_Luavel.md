@@ -1,6 +1,6 @@
 ---
 shortcode: laradhluavel
-name: {full: Laradh Lúavel, title: "", given: Laradh, clan: Lúavel, aliases: []}
+name: {full: Laradh Lúavel, given: Laradh, clan: Lúavel, aliases: []}
 type: being
 subType: character
 tags: [draft, embassy-to-tanvur]

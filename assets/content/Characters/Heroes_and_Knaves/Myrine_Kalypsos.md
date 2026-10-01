@@ -2,10 +2,8 @@
 shortcode: myrnklypss
 name:
   full: Myrine Kalypsos
-  title: ""
   given: Myrine
   clan: Kalypsos
-  home: belekos
   aliases: [The Mendicant Priestess of the Black Flame]
 type: being
 subType: character
@@ -18,7 +16,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [belekos]
   affiliations: [provinclys, blackflame]
   gender: female
   species: humanflk

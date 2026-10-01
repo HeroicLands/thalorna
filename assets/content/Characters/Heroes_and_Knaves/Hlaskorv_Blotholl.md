@@ -1,12 +1,6 @@
 ---
 shortcode: hlskrvblthl
-name:
-  full: Hlaskorv Blóthöll
-  title: ""
-  given: Hlaskorv
-  clan: Blóthöll
-  home: horgsvangr
-  aliases: []
+name: {full: Hlaskorv Blóthöll, given: Hlaskorv, clan: Blóthöll, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [horgsvangr]
   affiliations: [kngdmnrdhm]
   gender: male
   species: humanflk

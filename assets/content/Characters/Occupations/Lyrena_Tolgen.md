@@ -1,6 +1,6 @@
 ---
 shortcode: lyrenatlgn
-name: {full: Lýrena Tólgen, title: "", given: Lýrena, clan: Tólgen, home: lunacorte, aliases: []}
+name: {full: Lýrena Tólgen, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: provenzianclt
-  homes: [provenzrgn]
+  homes: [lunacorte]
   affiliations: [kngdmprvnz]
   gender: female
   species: humanflk

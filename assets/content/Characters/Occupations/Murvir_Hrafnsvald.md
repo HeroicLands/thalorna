@@ -1,12 +1,6 @@
 ---
 shortcode: mrvrhrfnsvld
-name:
-  full: Murvir Hrafnsvald
-  title: ""
-  given: Murvir
-  clan: Hrafnsvald
-  home: knalthstead
-  aliases: []
+name: {full: Murvir Hrafnsvald, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [knalthstead]
   affiliations: [kngdmnrdhm]
   gender: male
   species: humanflk

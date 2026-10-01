@@ -1,11 +1,11 @@
 ---
 shortcode: lahmes
-name: {full: Lahmes, title: "", given: Lahmes, clan: "", home: amqelulegez, aliases: []}
+name: {full: Lahmes, aliases: []}
 type: being
 subType: npc
 description: "A merchant of Galezkara who funds the theatre and guides the spiritual side of the work he pays for, which the players tolerate because his money is good and his advice occasionally is"
 tags: [generated]
-data: {archetypes: [trader], packFolder: regkhfolk}
+data: {archetypes: [trader], packFolder: regkhfolk, homes: [amqelulegez]}
 ---
 
 A merchant of Galezkara who funds the theatre and guides the spiritual side of the work he pays for, which the players tolerate because his money is good and his advice occasionally is.

@@ -1,12 +1,6 @@
 ---
 shortcode: dmrthsvshrds
-name:
-  full: Dómrithâs Vîshârdâs
-  title: ""
-  given: Dómrithâs
-  clan: Vîshârdâs
-  home: nartum
-  aliases: []
+name: {full: Dómrithâs Vîshârdâs, given: Dómrithâs, clan: Vîshârdâs, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, mages]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [nartum]
   affiliations: [hlykngdmnrtm]
   gender: male
   species: humanflk

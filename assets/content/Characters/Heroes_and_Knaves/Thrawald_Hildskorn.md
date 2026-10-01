@@ -1,6 +1,6 @@
 ---
 shortcode: thrwldhldskrn
-name: {full: Thráwald Hildskorn, title: "", given: Thráwald, clan: Hildskorn, aliases: []}
+name: {full: Thráwald Hildskorn, given: Thráwald, clan: Hildskorn, aliases: []}
 type: being
 subType: character
 tags: [blackpine-wolves, brigand, vrystwald, underworld]

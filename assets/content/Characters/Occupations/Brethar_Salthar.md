@@ -1,6 +1,6 @@
 ---
 shortcode: brthrslthr
-name: {full: Bréthar Sálthar, title: "", given: Bréthar, clan: Sálthar, home: valdun, aliases: []}
+name: {full: Bréthar Sálthar, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [valdun]
   affiliations: [kngdmlvndr]
   gender: male
   species: humanflk

@@ -1,6 +1,6 @@
 ---
 shortcode: aruzankamm
-name: {full: Arûzan Kamûmû, title: "", given: Arûzan, clan: Kamûmû, home: qadhirun, aliases: []}
+name: {full: Arûzan Kamûmû, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: haradianclt
-  homes: [haradregin]
+  homes: [qadhirun]
   affiliations: [cnfdrtnhrdnstts]
   gender: male
   species: humanflk

@@ -1,12 +1,6 @@
 ---
 shortcode: althyndeldskr
-name:
-  full: Althynda Eldskari
-  title: ""
-  given: Althynda
-  clan: Eldskari
-  home: hnarvdal
-  aliases: []
+name: {full: Althynda Eldskari, given: Althynda, clan: Eldskari, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [hnarvdal]
   affiliations: [kngdmvthgrd]
   gender: female
   species: humanflk

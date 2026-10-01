@@ -1,12 +1,6 @@
 ---
 shortcode: flrnyndstrmrt
-name:
-  full: Flirnynda Stormrót
-  title: ""
-  given: Flirnynda
-  clan: Stormrót
-  home: knalthstead
-  aliases: []
+name: {full: Flirnynda Stormrót, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [knalthstead]
   affiliations: [kngdmnrdhm]
   gender: female
   species: humanflk

@@ -1,12 +1,6 @@
 ---
 shortcode: vrldmylhrfnsvld
-name:
-  full: Vrildmýl Hrafnsvald
-  title: ""
-  given: Vrildmýl
-  clan: Hrafnsvald
-  home: dvarnvik
-  aliases: []
+name: {full: Vrildmýl Hrafnsvald, given: Vrildmýl, clan: Hrafnsvald, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [dvarnvik]
   affiliations: [kngdmvthgrd]
   gender: male
   species: humanflk

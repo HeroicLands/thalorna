@@ -1,12 +1,6 @@
 ---
 shortcode: nubarsjdrs
-name:
-  full: Nûbàris Jâdîrôs
-  title: Lady
-  given: Nûbàris
-  clan: Jâdîrôs
-  home: theradon2
-  aliases: [Lady Mirabel Shadowthorn]
+name: {full: Nûbàris Jâdîrôs, aliases: [Lady Mirabel Shadowthorn]}
 type: being
 subType: npc
 tags: [draft, administration]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: helioniteclt
-  homes: [helionis]
+  homes: [theradon2]
   affiliations: [theradon]
   gender: female
   species: humanflk

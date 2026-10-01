@@ -1,12 +1,6 @@
 ---
 shortcode: julsmrthrn
-name:
-  full: Júlisa Maríthran
-  title: ""
-  given: Júlisa
-  clan: Maríthran
-  home: solarden
-  aliases: []
+name: {full: Júlisa Maríthran, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: tarvenanclt
-  homes: [tarvenirgn]
+  homes: [solarden]
   affiliations: [kingdmtrvn]
   gender: female
   species: humanflk

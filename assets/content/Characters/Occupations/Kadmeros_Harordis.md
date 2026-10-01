@@ -1,12 +1,6 @@
 ---
 shortcode: kdmrshrrds
-name:
-  full: Kadméros Hârôrdîs
-  title: ""
-  given: Kadméros
-  clan: Hârôrdîs
-  home: velysara
-  aliases: []
+name: {full: Kadméros Hârôrdîs, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [velysara]
   affiliations: [vylarinmpr]
   gender: male
   species: humanflk

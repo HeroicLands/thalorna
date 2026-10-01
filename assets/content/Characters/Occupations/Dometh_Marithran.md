@@ -1,12 +1,6 @@
 ---
 shortcode: dmthmrthrn
-name:
-  full: Dómeth Maríthran
-  title: ""
-  given: Dómeth
-  clan: Maríthran
-  home: castamere
-  aliases: []
+name: {full: Dómeth Maríthran, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: tarvenanclt
-  homes: [tarvenirgn]
+  homes: [castamere]
   affiliations: [kingdmtrvn]
   gender: male
   species: humanflk

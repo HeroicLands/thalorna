@@ -1,6 +1,6 @@
 ---
 shortcode: garlendhrl
-name: {full: Gârlen Dhárel, title: "", given: Gârlen, clan: Dhárel, home: elanmere, aliases: []}
+name: {full: Gârlen Dhárel, given: Gârlen, clan: Dhárel, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [elanmere]
   affiliations: [kngdmlvndr]
   gender: male
   species: humanflk

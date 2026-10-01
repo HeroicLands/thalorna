@@ -1,12 +1,6 @@
 ---
 shortcode: pdrthjthrn
-name:
-  full: Pédroth Jútharen
-  title: ""
-  given: Pédroth
-  clan: Jútharen
-  home: torreviga
-  aliases: []
+name: {full: Pédroth Jútharen, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: tarvenanclt
-  homes: [tarvenirgn]
+  homes: [torreviga]
   affiliations: [kingdmtrvn]
   gender: male
   species: humanflk

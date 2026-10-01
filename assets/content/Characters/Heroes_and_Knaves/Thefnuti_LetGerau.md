@@ -1,12 +1,6 @@
 ---
 shortcode: thefnutiltgr
-name:
-  full: Thefnutî Let'Gerau
-  title: ""
-  given: Thefnutî
-  clan: Let'Gerau
-  home: anlaghzetun
-  aliases: []
+name: {full: Thefnutî Let'Gerau, given: Thefnutî, clan: Let'Gerau, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -19,7 +13,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: khelathiclt
-  homes: [aukhelathrgq]
+  homes: [anlaghzetun]
   affiliations: [empireakhlth]
   gender: male
   species: humanflk

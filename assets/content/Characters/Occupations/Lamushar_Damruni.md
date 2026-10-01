@@ -1,12 +1,6 @@
 ---
 shortcode: lamshrdmrn
-name:
-  full: Lamûshar Damrûnî
-  title: ""
-  given: Lamûshar
-  clan: Damrûnî
-  home: qadhirun
-  aliases: []
+name: {full: Lamûshar Damrûnî, aliases: []}
 type: being
 subType: npc
 tags: [draft, administration]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: haradianclt
-  homes: [haradregin]
+  homes: [qadhirun]
   affiliations: [cnfdrtnhrdnstts]
   gender: male
   species: humanflk

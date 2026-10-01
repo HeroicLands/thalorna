@@ -1,12 +1,6 @@
 ---
 shortcode: frthgrvthrnd
-name:
-  full: Frithgár Vithrúnd
-  title: ""
-  given: Frithgár
-  clan: Vithrúnd
-  home: falkensten
-  aliases: []
+name: {full: Frithgár Vithrúnd, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: varokhiclt
-  homes: [vrystwald]
+  homes: [falkensten]
   affiliations: [vrystwldtrbs]
   gender: male
   species: humanflk

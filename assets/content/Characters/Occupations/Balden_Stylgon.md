@@ -1,6 +1,6 @@
 ---
 shortcode: bldnstylgn
-name: {full: Bâlden Stýlgon, title: "", given: Bâlden, clan: Stýlgon, home: aureliane, aliases: []}
+name: {full: Bâlden Stýlgon, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: provenzianclt
-  homes: [provenzrgn]
+  homes: [aureliane]
   affiliations: [kngdmprvnz]
   gender: male
   species: humanflk

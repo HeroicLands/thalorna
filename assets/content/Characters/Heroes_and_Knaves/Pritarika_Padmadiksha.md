@@ -1,12 +1,6 @@
 ---
 shortcode: prtrkpdmdksh
-name:
-  full: Pritàrika Padmadîksha
-  title: ""
-  given: Pritàrika
-  clan: Padmadîksha
-  home: suvarnagiri
-  aliases: []
+name: {full: Pritàrika Padmadîksha, given: Pritàrika, clan: Padmadîksha, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, administration]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: vedyariclt
-  homes: [vedyarargn]
+  homes: [suvarnagiri]
   affiliations: [suvrgrjnpd]
   gender: female
   species: humanflk

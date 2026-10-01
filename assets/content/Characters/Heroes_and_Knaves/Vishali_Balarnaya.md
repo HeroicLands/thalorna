@@ -1,12 +1,6 @@
 ---
 shortcode: vishalblry
-name:
-  full: Vishali Bâlarnaya
-  title: ""
-  given: Vishali
-  clan: Bâlarnaya
-  home: rajapur
-  aliases: []
+name: {full: Vishali Bâlarnaya, given: Vishali, clan: Bâlarnaya, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vedyariclt
-  homes: [vedyarargn]
+  homes: [rajapur]
   affiliations: [rajaprjnpd]
   gender: female
   species: humanflk

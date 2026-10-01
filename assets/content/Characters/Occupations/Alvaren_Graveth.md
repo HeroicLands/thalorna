@@ -1,6 +1,6 @@
 ---
 shortcode: alvrngrvth
-name: {full: Alváren Gráveth, title: "", given: Alváren, clan: Gráveth, home: valdes, aliases: []}
+name: {full: Alváren Gráveth, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: tarvenanclt
-  homes: [tarvenirgn]
+  homes: [valdes]
   affiliations: [kingdmtrvn]
   gender: male
   species: humanflk

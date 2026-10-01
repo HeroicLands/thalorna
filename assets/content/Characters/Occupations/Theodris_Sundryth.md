@@ -1,12 +1,6 @@
 ---
 shortcode: thdrsndryth
-name:
-  full: Theódris Sundrýth
-  title: ""
-  given: Theódris
-  clan: Sundrýth
-  home: grimholt
-  aliases: []
+name: {full: Theódris Sundrýth, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: varokhiclt
-  homes: [vrystwald]
+  homes: [grimholt]
   affiliations: [vrystwldtrbs]
   gender: female
   species: humanflk

@@ -1,6 +1,6 @@
 ---
 shortcode: nushirnrsf
-name: {full: Nushir Narsâfî, title: "", given: Nushir, clan: Narsâfî, home: zargandur, aliases: []}
+name: {full: Nushir Narsâfî, given: Nushir, clan: Narsâfî, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: khazrynclt
-  homes: [khzryndsrtrgn]
+  homes: [zargandur]
   affiliations: [khzrncnfdrtn]
   gender: female
   species: humanflk

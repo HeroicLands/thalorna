@@ -1,12 +1,6 @@
 ---
 shortcode: thereshbls
-name:
-  full: Thêrèssa Hàbîlês
-  title: ""
-  given: Thêrèssa
-  clan: Hàbîlês
-  home: theradon2
-  aliases: []
+name: {full: Thêrèssa Hàbîlês, aliases: []}
 type: being
 subType: npc
 tags: [draft, underworld]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: helioniteclt
-  homes: [helionis]
+  homes: [theradon2]
   affiliations: [theradon]
   gender: female
   species: humanflk

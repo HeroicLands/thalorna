@@ -1,12 +1,6 @@
 ---
 shortcode: quztarqnrshq
-name:
-  full: Quztar Aqun'Râshequ
-  title: ""
-  given: Quztar
-  clan: Aqun'Râshequ
-  home: galezkara
-  aliases: []
+name: {full: Quztar Aqun'Râshequ, given: Quztar, clan: Aqun'Râshequ, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -19,7 +13,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: khelathiclt
-  homes: [aukhelathrgq]
+  homes: [galezkara]
   affiliations: [empireakhlth]
   gender: male
   species: humanflk

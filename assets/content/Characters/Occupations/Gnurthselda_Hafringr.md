@@ -1,12 +1,6 @@
 ---
 shortcode: gnrthsldhfrngr
-name:
-  full: Gnurthselda Hafringr
-  title: ""
-  given: Gnurthselda
-  clan: Hafringr
-  home: ""
-  aliases: []
+name: {full: Gnurthselda Hafringr, aliases: []}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]

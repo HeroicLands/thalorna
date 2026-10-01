@@ -1,6 +1,6 @@
 ---
 shortcode: alernprdln
-name: {full: Áleren Párdalen, title: "", given: Áleren, clan: Párdalen, home: silvain, aliases: []}
+name: {full: Áleren Párdalen, aliases: []}
 type: being
 subType: npc
 tags: [draft, clergy]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [silvain]
   affiliations: [kngdmlvndr]
   gender: male
   species: humanflk

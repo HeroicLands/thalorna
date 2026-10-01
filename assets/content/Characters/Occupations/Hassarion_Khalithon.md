@@ -1,12 +1,6 @@
 ---
 shortcode: hsrnkhlthn
-name:
-  full: Hassârìon Khalîthôn
-  title: Lord
-  given: Hassârìon
-  clan: Khalîthôn
-  home: myrtillos
-  aliases: [Lord Alaric Stormhaven]
+name: {full: Hassârìon Khalîthôn, aliases: [Lord Alaric Stormhaven]}
 type: being
 subType: npc
 tags: [draft, administration]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: helioniteclt
-  homes: [helionis]
+  homes: [myrtillos]
   affiliations: [kostaros2]
   gender: male
   species: humanflk

@@ -1,12 +1,6 @@
 ---
 shortcode: hvrnvrstrmrt
-name:
-  full: Hvurnvir Stormrót
-  title: ""
-  given: Hvurnvir
-  clan: Stormrót
-  home: nalthmark
-  aliases: []
+name: {full: Hvurnvir Stormrót, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [nalthmark]
   affiliations: [kngdmnrdhm]
   gender: male
   species: humanflk

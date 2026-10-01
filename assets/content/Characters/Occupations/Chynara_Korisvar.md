@@ -1,12 +1,6 @@
 ---
 shortcode: chynrkrsvr
-name:
-  full: Chýnara Kórisvar
-  title: ""
-  given: Chýnara
-  clan: Kórisvar
-  home: chastelclr
-  aliases: []
+name: {full: Chýnara Kórisvar, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: provenzianclt
-  homes: [provenzrgn]
+  homes: [chastelclr]
   affiliations: [kngdmprvnz]
   gender: female
   species: humanflk

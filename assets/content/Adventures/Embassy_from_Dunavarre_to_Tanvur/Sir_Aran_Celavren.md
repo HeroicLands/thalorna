@@ -1,6 +1,6 @@
 ---
 shortcode: arancelavren
-name: {full: Sir Aran Célavren, title: "", given: Aran, clan: Célavren, aliases: []}
+name: {full: Sir Aran Célavren, given: Aran, clan: Célavren, aliases: []}
 type: being
 subType: character
 tags: [draft, embassy-to-tanvur]

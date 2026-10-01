@@ -1,12 +1,6 @@
 ---
 shortcode: theklastnkt
-name:
-  full: Thêkla Steníkot
-  title: ""
-  given: Thêkla
-  clan: Steníkot
-  home: kostaros
-  aliases: []
+name: {full: Thêkla Steníkot, given: Thêkla, clan: Steníkot, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: byzarianclt
-  homes: [byzariargn]
+  homes: [kostaros]
   affiliations: [byzarianlg]
   gender: female
   species: humanflk

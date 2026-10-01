@@ -1,12 +1,6 @@
 ---
 shortcode: jdhrsbshrn
-name:
-  full: Jâdhâros Bâshirôn
-  title: ""
-  given: Jâdhâros
-  clan: Bâshirôn
-  home: myrtillos
-  aliases: []
+name: {full: Jâdhâros Bâshirôn, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: helioniteclt
-  homes: [helionis]
+  homes: [myrtillos]
   affiliations: [kostaros2]
   gender: male
   species: humanflk

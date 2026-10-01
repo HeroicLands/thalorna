@@ -1,12 +1,6 @@
 ---
 shortcode: velarithrl
-name:
-  full: Vélaria Óthral
-  title: ""
-  given: Vélaria
-  clan: Óthral
-  home: liranel
-  aliases: [Reslâva Elowen Meadowbloom]
+name: {full: Vélaria Óthral, aliases: [Reslâva Elowen Meadowbloom]}
 type: being
 subType: npc
 tags: [todo, draft, clergy]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [liranel]
   affiliations: [kngdmlvndr]
   gender: female
   species: humanflk

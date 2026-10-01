@@ -1,12 +1,6 @@
 ---
 shortcode: athngrsktkls
-name:
-  full: Athênagoras Katakálos
-  title: ""
-  given: Athênagoras
-  clan: Katakálos
-  home: denizara2
-  aliases: []
+name: {full: Athênagoras Katakálos, given: Athênagoras, clan: Katakálos, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: byzarianclt
-  homes: [byzariargn]
+  homes: [denizara2]
   affiliations: [byzarianlg]
   gender: male
   species: humanflk

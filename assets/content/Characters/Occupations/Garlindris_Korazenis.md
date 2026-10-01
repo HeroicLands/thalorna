@@ -1,12 +1,6 @@
 ---
 shortcode: grlndrskrzns
-name:
-  full: Garlîndris Korâzênis
-  title: ""
-  given: Garlîndris
-  clan: Korâzênis
-  home: tyrellan
-  aliases: [Sir Cedric Loudvale]
+name: {full: Garlîndris Korâzênis, aliases: [Sir Cedric Loudvale]}
 type: being
 subType: npc
 tags: [draft, administration]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [tyrellan]
   affiliations: [vylarinmpr]
   gender: male
   species: humanflk

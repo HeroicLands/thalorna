@@ -2,10 +2,8 @@
 shortcode: srdrzhsycnknghtblckflm
 name:
   full: Sir Drazha Sycâni, Knight of the Black Flame
-  title: Sir
   given: Drazha
   clan: Sycâni
-  home: karatas2
   aliases: [Knight of the Black Flame, Sir Drazha Sycani]
 type: being
 subType: character
@@ -18,7 +16,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: byzarianclt
-  homes: [byzariargn]
+  homes: [karatas2]
   affiliations: [byzarianlg]
   gender: male
   species: humanflk

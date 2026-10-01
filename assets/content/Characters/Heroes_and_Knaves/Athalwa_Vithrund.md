@@ -1,12 +1,6 @@
 ---
 shortcode: athlwvthrnd
-name:
-  full: Athalwa Vithrúnd
-  title: ""
-  given: Athalwa
-  clan: Vithrúnd
-  home: eichengrnd
-  aliases: []
+name: {full: Athalwa Vithrúnd, given: Athalwa, clan: Vithrúnd, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, administration]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: varokhiclt
-  homes: [vrystwald]
+  homes: [eichengrnd]
   affiliations: [vrystwldtrbs]
   gender: female
   species: humanflk

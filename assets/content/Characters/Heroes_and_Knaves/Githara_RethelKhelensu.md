@@ -1,12 +1,6 @@
 ---
 shortcode: githrrthlkhl
-name:
-  full: Githara Reth'el'Khelensu
-  title: ""
-  given: Githara
-  clan: Reth'el'Khelensu
-  home: khelzuret
-  aliases: []
+name: {full: Githara Reth'el'Khelensu, given: Githara, clan: Reth'el'Khelensu, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -19,7 +13,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: khelathiclt
-  homes: [aukhelathrgq]
+  homes: [khelzuret]
   affiliations: [empireakhlth]
   gender: female
   species: humanflk

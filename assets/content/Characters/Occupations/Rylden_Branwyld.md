@@ -1,12 +1,6 @@
 ---
 shortcode: ryldnbrnwyld
-name:
-  full: Rýlden Brânwyld
-  title: ""
-  given: Rýlden
-  clan: Brânwyld
-  home: chastelclr
-  aliases: []
+name: {full: Rýlden Brânwyld, aliases: []}
 type: being
 subType: npc
 tags: [draft, administration]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: provenzianclt
-  homes: [provenzrgn]
+  homes: [chastelclr]
   affiliations: [kngdmprvnz]
   gender: male
   species: humanflk

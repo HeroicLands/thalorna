@@ -1,12 +1,6 @@
 ---
 shortcode: izaretgulzkr
-name:
-  full: Izaret Gul'Zekeru
-  title: ""
-  given: Izaret
-  clan: Gul'Zekeru
-  home: khelzuret
-  aliases: []
+name: {full: Izaret Gul'Zekeru, given: Izaret, clan: Gul'Zekeru, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, underworld]
@@ -19,7 +13,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: khelathiclt
-  homes: [aukhelathrgq]
+  homes: [khelzuret]
   affiliations: [empireakhlth]
   gender: female
   species: humanflk

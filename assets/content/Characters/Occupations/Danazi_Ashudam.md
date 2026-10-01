@@ -1,6 +1,6 @@
 ---
 shortcode: danazishdm
-name: {full: Dânâzi Ashûdam, title: "", given: Dânâzi, clan: Ashûdam, home: kashmuret, aliases: []}
+name: {full: Dânâzi Ashûdam, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: haradianclt
-  homes: [haradregin]
+  homes: [kashmuret]
   affiliations: [cnfdrtnhrdnstts]
   gender: female
   species: humanflk

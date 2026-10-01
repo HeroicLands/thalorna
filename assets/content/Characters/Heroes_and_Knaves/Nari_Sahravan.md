@@ -1,12 +1,6 @@
 ---
 shortcode: narisahrvn
-name:
-  full: Nari Sahravân
-  title: ""
-  given: Nari
-  clan: Sahravân
-  home: oasishirvn
-  aliases: [The Desert Mystic]
+name: {full: Nari Sahravân, given: Nari, clan: Sahravân, aliases: [The Desert Mystic]}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, clergy]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: khazrynclt
-  homes: [khzryndsrtrgn]
+  homes: [oasishirvn]
   affiliations: [khzrncnfdrtn]
   gender: female
   species: humanflk

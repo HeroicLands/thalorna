@@ -1,12 +1,6 @@
 ---
 shortcode: gasherltrtht
-name:
-  full: Gasher Let'Rethetu
-  title: ""
-  given: Gasher
-  clan: Let'Rethetu
-  home: galezkara
-  aliases: []
+name: {full: Gasher Let'Rethetu, given: Gasher, clan: Let'Rethetu, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -19,7 +13,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: khelathiclt
-  homes: [aukhelathrgq]
+  homes: [galezkara]
   affiliations: [empireakhlth]
   gender: male
   species: humanflk

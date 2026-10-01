@@ -1,12 +1,6 @@
 ---
 shortcode: hrphsrchrns
-name:
-  full: Harphôs Ôrchârenîs
-  title: ""
-  given: Harphôs
-  clan: Ôrchârenîs
-  home: aelissium
-  aliases: []
+name: {full: Harphôs Ôrchârenîs, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [aelissium]
   affiliations: [vylarinmpr]
   gender: male
   species: humanflk

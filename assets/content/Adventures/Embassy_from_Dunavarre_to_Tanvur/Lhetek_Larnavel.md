@@ -1,6 +1,6 @@
 ---
 shortcode: lheteklarnavel
-name: {full: Lhetek Larnavel, title: "", given: Lhetek, clan: Larnavel, aliases: []}
+name: {full: Lhetek Larnavel, given: Lhetek, clan: Larnavel, aliases: []}
 type: being
 subType: character
 tags: [draft, embassy-to-tanvur]

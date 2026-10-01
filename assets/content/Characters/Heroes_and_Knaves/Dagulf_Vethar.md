@@ -1,6 +1,6 @@
 ---
 shortcode: dagulfvthr
-name: {full: Dágulf Véthar, title: "", given: Dágulf, clan: Véthar, aliases: []}
+name: {full: Dágulf Véthar, given: Dágulf, clan: Véthar, aliases: []}
 type: being
 subType: character
 tags: [blackpine-wolves, brigand, serf, vrystwald, underworld]

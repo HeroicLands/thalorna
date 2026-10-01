@@ -1,12 +1,6 @@
 ---
 shortcode: erythnslnds
-name:
-  full: Érython Ûselîndâs
-  title: ""
-  given: Érython
-  clan: Ûselîndâs
-  home: nartum
-  aliases: []
+name: {full: Érython Ûselîndâs, given: Érython, clan: Ûselîndâs, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [nartum]
   affiliations: [hlykngdmnrtm]
   gender: male
   species: humanflk

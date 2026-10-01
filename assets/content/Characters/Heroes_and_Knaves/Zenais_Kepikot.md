@@ -1,12 +1,6 @@
 ---
 shortcode: zenskpkt
-name:
-  full: Zênais Kepíkot
-  title: ""
-  given: Zênais
-  clan: Kepíkot
-  home: gumushisar2
-  aliases: []
+name: {full: Zênais Kepíkot, given: Zênais, clan: Kepíkot, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: byzarianclt
-  homes: [byzariargn]
+  homes: [gumushisar2]
   affiliations: [byzarianlg]
   gender: female
   species: humanflk

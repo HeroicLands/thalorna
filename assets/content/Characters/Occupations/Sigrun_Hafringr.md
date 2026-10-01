@@ -1,12 +1,6 @@
 ---
 shortcode: sgrnhfrngr
-name:
-  full: Sigrún Hafringr
-  title: ""
-  given: Sigrún
-  clan: Hafringr
-  home: stormveil
-  aliases: []
+name: {full: Sigrún Hafringr, aliases: []}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [stormveil]
   affiliations: [jrldmstrmvld]
   gender: female
   species: humanflk

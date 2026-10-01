@@ -1,12 +1,6 @@
 ---
 shortcode: lagrxrznds
-name:
-  full: Làgôra Xêrâzêndis
-  title: ""
-  given: Làgôra
-  clan: Xêrâzêndis
-  home: corvinus
-  aliases: []
+name: {full: Làgôra Xêrâzêndis, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [corvinus]
   affiliations: [vylarinmpr]
   gender: female
   species: humanflk

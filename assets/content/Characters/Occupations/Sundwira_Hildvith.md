@@ -1,12 +1,6 @@
 ---
 shortcode: sndwrhldvth
-name:
-  full: Sundwíra Hildvith
-  title: ""
-  given: Sundwíra
-  clan: Hildvith
-  home: eichengrnd
-  aliases: []
+name: {full: Sundwíra Hildvith, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: varokhiclt
-  homes: [vrystwald]
+  homes: [eichengrnd]
   affiliations: [vrystwldtrbs]
   gender: female
   species: humanflk

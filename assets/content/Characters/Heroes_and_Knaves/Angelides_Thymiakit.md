@@ -1,12 +1,6 @@
 ---
 shortcode: angldsthymkt
-name:
-  full: Ángelides Thymiákit
-  title: ""
-  given: Ángelides
-  clan: Thymiákit
-  home: denizara2
-  aliases: []
+name: {full: Ángelides Thymiákit, given: Ángelides, clan: Thymiákit, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: byzarianclt
-  homes: [byzariargn]
+  homes: [denizara2]
   affiliations: [byzarianlg]
   gender: male
   species: humanflk

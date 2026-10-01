@@ -1,12 +1,6 @@
 ---
 shortcode: chgnzrznds
-name:
-  full: Chéagan Zêrâzêndis
-  title: ""
-  given: Chéagan
-  clan: Zêrâzêndis
-  home: aelissium
-  aliases: []
+name: {full: Chéagan Zêrâzêndis, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [aelissium]
   affiliations: [vylarinmpr]
   gender: female
   species: humanflk

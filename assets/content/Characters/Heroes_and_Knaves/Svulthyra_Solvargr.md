@@ -1,12 +1,6 @@
 ---
 shortcode: svlthyrslvrgr
-name:
-  full: Svulthýra Sólvargr
-  title: ""
-  given: Svulthýra
-  clan: Sólvargr
-  home: thraldfjord
-  aliases: []
+name: {full: Svulthýra Sólvargr, given: Svulthýra, clan: Sólvargr, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [thraldfjord]
   affiliations: [kngdmnrdhm]
   gender: female
   species: humanflk

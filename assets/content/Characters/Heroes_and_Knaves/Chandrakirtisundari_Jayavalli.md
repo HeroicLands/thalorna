@@ -2,10 +2,8 @@
 shortcode: chndrkrtsndrjyvl
 name:
   full: Chandrakīrtisundarī Jayavalli
-  title: ""
   given: Chandrakīrtisundarī
   clan: Jayavalli
-  home: vyalendra3
   aliases: []
 type: being
 subType: character
@@ -18,7 +16,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vedyariclt
-  homes: [vedyarargn]
+  homes: [vyalendra3]
   affiliations: [vyalendra2]
   gender: female
   species: humanflk

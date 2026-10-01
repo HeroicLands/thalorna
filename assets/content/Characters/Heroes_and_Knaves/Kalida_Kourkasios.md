@@ -1,12 +1,6 @@
 ---
 shortcode: kalidkrkss
-name:
-  full: Kalída Kourkásios
-  title: ""
-  given: Kalída
-  clan: Kourkásios
-  home: chrysamar
-  aliases: []
+name: {full: Kalída Kourkásios, given: Kalída, clan: Kourkásios, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: byzarianclt
-  homes: [byzariargn]
+  homes: [chrysamar]
   affiliations: [byzarianlg]
   gender: female
   species: humanflk

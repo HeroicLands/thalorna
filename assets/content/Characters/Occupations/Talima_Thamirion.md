@@ -1,12 +1,6 @@
 ---
 shortcode: talimthmrn
-name:
-  full: Tàlîma Thamîrîon
-  title: ""
-  given: Tàlîma
-  clan: Thamîrîon
-  home: korinthea2
-  aliases: []
+name: {full: Tàlîma Thamîrîon, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: helioniteclt
-  homes: [helionis]
+  homes: [korinthea2]
   affiliations: [korinthea]
   gender: female
   species: humanflk

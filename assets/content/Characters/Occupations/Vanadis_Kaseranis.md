@@ -1,12 +1,6 @@
 ---
 shortcode: vandsksrns
-name:
-  full: Vanâdîs Kâserânis
-  title: ""
-  given: Vanâdîs
-  clan: Kâserânis
-  home: valdosta
-  aliases: []
+name: {full: Vanâdîs Kâserânis, aliases: []}
 type: being
 subType: npc
 tags: [draft, administration]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [valdosta]
   affiliations: [vylarinmpr]
   gender: female
   species: humanflk

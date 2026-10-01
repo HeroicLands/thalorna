@@ -1,6 +1,6 @@
 ---
 shortcode: daryanardh
-name: {full: Dárya Náredh, title: "", given: Dárya, clan: Náredh, home: cerdwnshlw, aliases: []}
+name: {full: Dárya Náredh, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [cerdwnshlw]
   affiliations: [kngdmlvndr]
   gender: female
   species: humanflk

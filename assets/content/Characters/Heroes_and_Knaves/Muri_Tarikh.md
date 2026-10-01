@@ -1,6 +1,6 @@
 ---
 shortcode: muritarikh
-name: {full: Muri Târikh, title: "", given: Muri, clan: Târikh, home: vashuran, aliases: []}
+name: {full: Muri Târikh, given: Muri, clan: Târikh, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: kaliharanclt
-  homes: [kaliharargn]
+  homes: [vashuran]
   affiliations: [kalihara]
   gender: male
   species: humanflk

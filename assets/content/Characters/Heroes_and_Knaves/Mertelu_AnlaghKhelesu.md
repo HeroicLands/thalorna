@@ -1,12 +1,6 @@
 ---
 shortcode: mertlnlghkhl
-name:
-  full: Mertelu Anlagh'Khelesu
-  title: ""
-  given: Mertelu
-  clan: Anlagh'Khelesu
-  home: garanlaghet
-  aliases: []
+name: {full: Mertelu Anlagh'Khelesu, given: Mertelu, clan: Anlagh'Khelesu, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -19,7 +13,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: khelathiclt
-  homes: [aukhelathrgq]
+  homes: [garanlaghet]
   affiliations: [empireakhlth]
   gender: female
   species: humanflk

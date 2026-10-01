@@ -2,11 +2,9 @@
 shortcode: brldsldsnsblsng
 name:
   full: Brildselda Sunna's Blessing
-  title: null
   given: Brildselda
   clan: null
   aliases: [Sunna's Blessing]
-  home: null
 type: being
 subType: character
 tags: [paragon, heroes-of-asguard, clergy]

@@ -2,11 +2,9 @@
 shortcode: hvlgthyrknlthnsdtr
 name:
   full: Hvilgthýra Knalthannsdóttir
-  title: null
   given: Hvilgthýra
   clan: null
   aliases: [Knalthannsdóttir, Hvilgthýra Knalthannsdóttir]
-  home: null
 type: being
 subType: character
 tags: [paragon, heroes-of-asguard, soldiery]

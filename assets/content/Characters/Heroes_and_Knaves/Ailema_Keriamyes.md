@@ -1,12 +1,6 @@
 ---
 shortcode: ailemkrmys
-name:
-  full: Ailêmâ Kêrîamyês
-  title: ""
-  given: Ailêmâ
-  clan: Kêrîamyês
-  home: corvinus
-  aliases: []
+name: {full: Ailêmâ Kêrîamyês, given: Ailêmâ, clan: Kêrîamyês, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [corvinus]
   affiliations: [provinclys]
   gender: female
   species: humanflk

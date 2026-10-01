@@ -1,6 +1,6 @@
 ---
 shortcode: tarligtlgn
-name: {full: Târlig Tólgen, title: "", given: Târlig, clan: Tólgen, home: belporte, aliases: []}
+name: {full: Târlig Tólgen, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: provenzianclt
-  homes: [provenzrgn]
+  homes: [belporte]
   affiliations: [kngdmprvnz]
   gender: male
   species: humanflk

@@ -1,6 +1,6 @@
 ---
 shortcode: thaekliamaelvri
-name: {full: Lady Thaeklia Maelvri, title: "", given: Thaeklia, clan: Maelvri, aliases: []}
+name: {full: Lady Thaeklia Maelvri, given: Thaeklia, clan: Maelvri, aliases: []}
 type: being
 subType: character
 tags: [draft, embassy-to-tanvur]

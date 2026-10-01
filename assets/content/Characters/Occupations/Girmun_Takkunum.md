@@ -1,6 +1,6 @@
 ---
 shortcode: girmuntknm
-name: {full: Girmûn Takkûnûm, title: "", given: Girmûn, clan: Takkûnûm, home: azhun2, aliases: []}
+name: {full: Girmûn Takkûnûm, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: haradianclt
-  homes: [haradregin]
+  homes: [azhun2]
   affiliations: [cnfdrtnhrdnstts]
   gender: male
   species: humanflk

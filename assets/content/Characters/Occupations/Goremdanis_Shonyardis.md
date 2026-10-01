@@ -1,12 +1,6 @@
 ---
 shortcode: grmdnshnyrds
-name:
-  full: Goremdânis Shônyàrdîs
-  title: ""
-  given: Goremdânis
-  clan: Shônyàrdîs
-  home: corvinus
-  aliases: []
+name: {full: Goremdânis Shônyàrdîs, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [corvinus]
   affiliations: [vylarinmpr]
   gender: male
   species: humanflk

@@ -1,12 +1,6 @@
 ---
 shortcode: ylthklmrth
-name:
-  full: Yálith Kálmereth
-  title: ""
-  given: Yálith
-  clan: Kálmereth
-  home: liranel
-  aliases: []
+name: {full: Yálith Kálmereth, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [liranel]
   affiliations: [kngdmlvndr]
   gender: female
   species: humanflk

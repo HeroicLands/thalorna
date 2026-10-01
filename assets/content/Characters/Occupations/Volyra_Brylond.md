@@ -1,6 +1,6 @@
 ---
 shortcode: vlyrbrylnd
-name: {full: Vólyra Brýlond, title: "", given: Vólyra, clan: Brýlond, home: belporte, aliases: []}
+name: {full: Vólyra Brýlond, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: provenzianclt
-  homes: [provenzrgn]
+  homes: [belporte]
   affiliations: [kngdmprvnz]
   gender: female
   species: humanflk

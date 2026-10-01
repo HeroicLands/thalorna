@@ -1,12 +1,6 @@
 ---
 shortcode: pyrnszrlmkr
-name:
-  full: Pyrânês Zêralmâkor
-  title: ""
-  given: Pyrânês
-  clan: Zêralmâkor
-  home: valdosta
-  aliases: []
+name: {full: Pyrânês Zêralmâkor, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [valdosta]
   affiliations: [vylarinmpr]
   gender: male
   species: humanflk

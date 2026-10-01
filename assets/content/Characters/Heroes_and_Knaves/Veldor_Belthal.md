@@ -1,12 +1,6 @@
 ---
 shortcode: veldrblthl
-name:
-  full: Véldor Bélthal
-  title: ""
-  given: Véldor
-  clan: Bélthal
-  home: cerdwnshlw
-  aliases: []
+name: {full: Véldor Bélthal, given: Véldor, clan: Bélthal, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [cerdwnshlw]
   affiliations: [kngdmlvndr]
   gender: male
   species: humanflk

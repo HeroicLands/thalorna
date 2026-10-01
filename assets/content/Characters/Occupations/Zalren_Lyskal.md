@@ -1,6 +1,6 @@
 ---
 shortcode: zalrnlyskl
-name: {full: Zálren Lýskal, title: "", given: Zálren, clan: Lýskal, home: chastelclr, aliases: []}
+name: {full: Zálren Lýskal, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: provenzianclt
-  homes: [provenzrgn]
+  homes: [chastelclr]
   affiliations: [kngdmprvnz]
   gender: male
   species: humanflk

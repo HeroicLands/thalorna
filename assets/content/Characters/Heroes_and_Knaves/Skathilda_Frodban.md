@@ -2,7 +2,6 @@
 shortcode: skthldfrdbn
 name:
   full: Skathilda Fródbán
-  title: ""
   given: Skathilda
   clan: Fródbán
   aliases: [the Weasel, Skathilda Frodban]

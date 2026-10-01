@@ -1,12 +1,6 @@
 ---
 shortcode: klrthdlvnr
-name:
-  full: Kólrith Delvánor
-  title: ""
-  given: Kólrith
-  clan: Delvánor
-  home: null # was: Eskárath
-  aliases: []
+name: {full: Kólrith Delvánor, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

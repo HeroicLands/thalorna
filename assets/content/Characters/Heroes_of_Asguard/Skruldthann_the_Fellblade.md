@@ -2,11 +2,9 @@
 shortcode: skrldthnflbld
 name:
   full: Skruldthann the Fellblade
-  title: null
   given: Skruldthann
   clan: null
   aliases: [the Fellblade, Skruldthann the Fellblade]
-  home: null
 type: being
 subType: character
 tags: [demigod, heroes-of-asguard, unguilded, soldiery]

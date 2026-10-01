@@ -1,12 +1,6 @@
 ---
 shortcode: drknsdlsns
-name:
-  full: Drákonis Dalássênos
-  title: ""
-  given: Drákonis
-  clan: Dalássênos
-  home: yesilhan2
-  aliases: []
+name: {full: Drákonis Dalássênos, given: Drákonis, clan: Dalássênos, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: byzarianclt
-  homes: [byzariargn]
+  homes: [yesilhan2]
   affiliations: [byzarianlg]
   gender: male
   species: humanflk

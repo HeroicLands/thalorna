@@ -1,6 +1,6 @@
 ---
 shortcode: haliranrdh
-name: {full: Hâlira Náredh, title: "", given: Hâlira, clan: Náredh, home: valdun, aliases: []}
+name: {full: Hâlira Náredh, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -12,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [valdun]
   affiliations: [kngdmlvndr]
   gender: female
   species: humanflk

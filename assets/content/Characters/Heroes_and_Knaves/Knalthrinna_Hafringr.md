@@ -1,12 +1,6 @@
 ---
 shortcode: knlthrnhfrngr
-name:
-  full: Knalthrinna Hafringr
-  title: ""
-  given: Knalthrinna
-  clan: Hafringr
-  home: hvarnvik
-  aliases: []
+name: {full: Knalthrinna Hafringr, given: Knalthrinna, clan: Hafringr, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, common-folk]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [hvarnvik]
   affiliations: [kingdmnrgd]
   gender: female
   species: humanflk

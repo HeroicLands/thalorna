@@ -1,12 +1,6 @@
 ---
 shortcode: azatodmzns
-name:
-  full: Azatô Dâemzânis
-  title: ""
-  given: Azatô
-  clan: Dâemzânis
-  home: tyrellan
-  aliases: [Oswin Crey]
+name: {full: Azatô Dâemzânis, aliases: [Oswin Crey]}
 type: being
 subType: npc
 tags: [draft, guilded, mages]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [commonerrnk]
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [tyrellan]
   affiliations: [vylarinmpr]
   gender: male
   species: humanflk

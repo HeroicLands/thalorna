@@ -1,12 +1,6 @@
 ---
 shortcode: audryhrdng
-name:
-  full: Audrey Harding
-  title: ""
-  given: Audrey
-  clan: Harding
-  home: greywater
-  aliases: [Shénasenè Callista Tradewind]
+name: {full: Audrey Harding, aliases: [Shénasenè Callista Tradewind]}
 type: being
 subType: npc
 tags: [todo, draft, clergy]
@@ -18,7 +12,7 @@ data:
   stations: []
   lore: [landedlordrnk]
   culture: aelwythanclt
-  homes: [aelwyth]
+  homes: [greywater]
   affiliations: [kngdmldrth]
   gender: female
   species: humanflk
