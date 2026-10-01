@@ -18,7 +18,7 @@
  * a wrong one, and makes a missing row a destroyed mapping rather than a
  * deferred one.
  *
- * Six predicates, each derived from the table and the tree at run time so that
+ * Seven predicates, each derived from the table and the tree at run time so that
  * nothing here is a second copy of either.
  *
  * **Completeness.** A shortcode names a note, and a note has a path and an
@@ -33,9 +33,16 @@
  * only evidence it was ever real.
  *
  * **Agreement with the tree.** Where a note stands at a row's `newPath`, its
- * `shortcode` is that row's `newShortcode` and its `name.full` that row's
- * `newName`. A table the corpus contradicts is worse than no table, because it
- * is believed.
+ * `shortcode` is that row's `newShortcode`, its `name.full` that row's `newName`
+ * and its `name.aliases` that row's `newAliases`. The name is matched whole,
+ * because a row names one note and that note's name is the name of the thing the
+ * row describes: a god, its faith and its rite are three things with three
+ * names. A table the corpus contradicts is worse than no table, because it is
+ * believed.
+ *
+ * **One new thing, one row.** No two rows carry one `newName`. A thing that
+ * retired several names takes the primary in `oldName` and the rest in
+ * `oldAliases`, with every merged row's citations united in `oldRefPaths`.
  *
  * **Coverage.** Every note the table's own `scope` declares either carries a row
  * or is provably unchanged, read from the file's own history by
@@ -95,14 +102,14 @@ const HALVES = [
 ];
 
 /**
- * The frames a note's title puts around a name.
+ * A leading article, which is rendering rather than name.
  *
- * A row's `newName` is the thing's name; the note that describes it may be
- * titled around that name — `Faith of Ódvar` for the faith of the god `Ódvar`,
- * `Ritual Ódvar` for its rite. So a note agrees with its row when the row's
- * name stands in the note's own name block, framed or bare.
+ * `the Green Wardens` and `The Green Wardens` are one name, so the article is
+ * taken off both sides before they are compared. Nothing else is normalised: a
+ * row names one note, and the name of that note is the name of the thing the
+ * row describes.
  */
-const NAME_BLOCK_FIELDS = ["full", "aliases"];
+const LEADING_ARTICLE = /^the\s+/iu;
 
 /**
  * A row that describes something with no note of its own.
@@ -489,17 +496,14 @@ export function checkAgreement(rows, raw) {
                 ),
             );
         }
-        // A leading article is rendering rather than name, so `the Green
-        // Wardens` and `The Green Wardens` are one name.
-        const bare = (value) => String(value).replace(/^the\s+/iu, "");
-        const block = NAME_BLOCK_FIELDS.flatMap((field) => {
-            const value = front.name?.[field];
-            return (
-                Array.isArray(value) ? value.map(String)
-                : value ? [String(value)]
-                : []).map(bare);
-        });
-        if (row.newName && !block.some((written) => written.includes(bare(row.newName)))) {
+        const bare = (value) => String(value).replace(LEADING_ARTICLE, "");
+        // A row that names a note describes that note, so the row's new name is
+        // that note's `name.full` and not a word standing somewhere inside its
+        // name block. Reading the whole block cleared `Ódvar` against a note
+        // named `Faith of Ódvar`, and the faith, the god and the rite are three
+        // things: a row for one of them that carries another's name sends every
+        // reader of the table to the wrong note.
+        if (row.newName && bare(front.name?.full ?? "") !== bare(row.newName)) {
             const spot = positionOf(text, String(front.name?.full ?? ""));
             say(
                 finding(
@@ -507,7 +511,30 @@ export function checkAgreement(rows, raw) {
                     spot.line,
                     spot.column,
                     "error",
-                    `the note is named "${front.name?.full}" and the table says "${row.newName}", which stands nowhere in its name block`,
+                    `the note is named "${front.name?.full}" and the table says "${row.newName}"`,
+                ),
+            );
+        }
+        // The aliases move with the name. A row whose `newAliases` the note
+        // contradicts is the field that cannot be used to write the note,
+        // because applying it would blank an alias the note states.
+        const claimed =
+            Array.isArray(row.newAliases) ? row.newAliases.map(String)
+            : row.newAliases ? [String(row.newAliases)]
+            : [];
+        const stated =
+            Array.isArray(front.name?.aliases) ? front.name.aliases.map(String)
+            : front.name?.aliases ? [String(front.name.aliases)]
+            : [];
+        if (claimed.join("\u0000") !== stated.join("\u0000")) {
+            const spot = positionOf(text, String(front.name?.full ?? ""));
+            say(
+                finding(
+                    row.newPath,
+                    spot.line,
+                    spot.column,
+                    "error",
+                    `the note's aliases are ${stated.length ? stated.map((a) => `"${a}"`).join(", ") : "none"} and the table says ${claimed.length ? claimed.map((a) => `"${a}"`).join(", ") : "none"}`,
                 ),
             );
         }
@@ -662,6 +689,51 @@ export function nameHistory(file) {
 }
 
 /**
+ * Every `newName` more than one row claims.
+ *
+ * **One new thing takes one row.** A thing that retired several names still
+ * becomes one row: the primary retired form in `oldName`, the rest in
+ * `oldAliases`, and the union of every merged row's citations in `oldRefPaths`.
+ * So a name appearing twice is either one thing entered twice, or two rows that
+ * have confused one thing for another — most often a row carrying the name of
+ * something adjacent to the note it points at, a god's name on its faith or its
+ * rite.
+ *
+ * The position is taken from `oldName`, because rows that share a new name
+ * share their new fields too and the retired form is what tells them apart.
+ *
+ * @param {object[]} rows - The entries.
+ * @param {string} raw - The table's text.
+ * @returns {string[]} Findings.
+ */
+export function checkUniqueness(rows, raw) {
+    const out = [];
+    const claimed = new Map();
+    for (const row of rows) {
+        if (!row.newName) continue;
+        const prior = claimed.get(row.newName);
+        if (!prior) {
+            claimed.set(row.newName, row);
+            continue;
+        }
+        const spot =
+            row.oldName ?
+                positionOf(raw, `"oldName": ${JSON.stringify(row.oldName)}`)
+            :   rowPosition(raw, row);
+        out.push(
+            finding(
+                TABLE,
+                spot.line,
+                spot.column,
+                "error",
+                `"${row.newName}" is already the new name of the row retiring "${prior.oldName}"; one new thing takes one row, so the names it retires belong together in that row's oldAliases with every citation`,
+            ),
+        );
+    }
+    return out;
+}
+
+/**
  * Every `newShortcode` two things claim at once.
  *
  * A shortcode is unique within one package-system-type space and no wider, so
@@ -782,6 +854,7 @@ function main() {
         ...checkCompleteness(rows, raw),
         ...checkCitations(rows, raw),
         ...checkAgreement(rows, raw),
+        ...checkUniqueness(rows, raw),
         ...checkCollisions(rows, raw),
         ...checkNothingLost(rows, table.keep),
     ];
