@@ -31,4 +31,4 @@ None above the rank itself short of advancement to [[lore-ordrseniorrnk|Elder Ha
 
 ## Where This Standing Is Held
 
-The [[affiliation-ordrtyrsjstc|Order of the Sworn Hand]] alone.
+The [[affiliation-eidhond|Order of the Sworn Hand]] alone.

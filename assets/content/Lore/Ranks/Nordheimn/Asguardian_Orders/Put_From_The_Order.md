@@ -31,4 +31,4 @@ None.
 
 ## Where This Standing Is Held
 
-The four Asguardian fighting orders: the [[affiliation-ordrtyrsjstc|Order of the Sworn Hand]], the [[affiliation-ordrfryrsgrdns|Order of the Green Wardens]], the [[affiliation-ordrstrmspkrs|Order of the Storm-Speakers]], and the [[affiliation-ordrymrschldrn|Order of the Giant's Children]].
+The four Asguardian fighting orders: the [[affiliation-eidhond|Order of the Sworn Hand]], the [[affiliation-gronverdir|Order of the Green Wardens]], the [[affiliation-ordrstrmspkrs|Order of the Storm-Speakers]], and the [[affiliation-thursborn|Order of the Giant's Children]].

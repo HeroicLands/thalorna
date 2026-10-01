@@ -66,7 +66,7 @@ sohl: {system: {commonSkills: []}}
 
 Goddess of dreams, celestial visions, and the veil between worlds. Aethería brings divine inspiration and omens to mortals through their dreams. She is patron to seers, oracles, healers of the mind, and all who seek truth in the world beyond waking.
 
-"Aethería" is the Aurèldían name for [[lore-goddreams|The God of Dreams]]—a deity far older than any human pantheon, worshipped by the [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] since before humanity existed. The Asguardian peoples know the same deity as [[affiliation-baldr|Baldr]].
+"Aethería" is the Aurèldían name for [[lore-goddreams|The God of Dreams]]—a deity far older than any human pantheon, worshipped by the [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] since before humanity existed. The Asguardian peoples know the same deity as [[affiliation-bjartr|Baldr]].
 
 ## Worship
 

@@ -43,7 +43,7 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 9}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 5}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-thorr}
+    - {model: affiliation-thrunvald}
     - {model: sohl-sohl-skill-melee, system: {masteryLevelBase: 72}}
     - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 40}}
     - {model: sohl-sohl-skill-shok, system: {masteryLevelBase: 55}}

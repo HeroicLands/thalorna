@@ -31,4 +31,4 @@ None short of ordination as [[lore-cultgodirnk|Her Godi or Gydja]].
 
 ## Where This Standing Is Held
 
-The [[affiliation-hel|Faith of Náhild]] alone.
+The [[affiliation-nahild|Faith of Náhild]] alone.

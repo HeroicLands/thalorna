@@ -74,16 +74,16 @@ data:
   lore: []
   parents: []
   relations:
-    baldr: aligned
-    freyja: aligned
-    freyr: aligned
-    hel: aligned
-    loki: aligned
-    odinn: aligned
-    surtr: aligned
-    thorr: aligned
-    tyr: aligned
-    ymir: aligned
+    bjartr: aligned
+    solrun: aligned
+    frodvin: aligned
+    nahild: aligned
+    velgrimr: aligned
+    odvar: aligned
+    svartbrandr: aligned
+    thrunvald: aligned
+    eidgar: aligned
+    hrimthur: aligned
   packFolder: pantheonsasguardian
 sohl: {system: {commonSkills: []}}
 ---
@@ -92,18 +92,18 @@ The Asguardian pantheon is the dominant religious tradition of the northern and 
 
 ## The Ten
 
-| Domain                                  | Deity           | Epithet              | Symbol                                    | Faith                                       |
-| --------------------------------------- | --------------- | -------------------- | ----------------------------------------- | ------------------------------------------- |
-| Dead & Underworld                       | **Náhild**      | The Despiser of Life | Obsidian shard and the Eye of the Void    | [[affiliation-hel\|Faith of Náhild]]        |
-| Elder Races, Dreams & Light             | **Bjartr**      | The Radiant One      | Sunstone and silver leaf                  | [[affiliation-baldr\|Faith of Bjartr]]      |
-| Fertility, Agriculture, Peace & Healing | **Fródvin**     | The Healer           | Sheaf of wheat and healing herb bundle    | [[affiliation-freyr\|Faith of Fródvin]]     |
-| Love, Beauty & Prosperity               | **Sólrún**      | The Golden One       | Rose petal and silver coin                | [[affiliation-freyja\|Faith of Sólrún]]     |
-| Cunning, Deception & Thieves            | **Vélgrímr**    | The Trickster        | Serpent skin and shadowed glass           | [[affiliation-loki\|Faith of Vélgrímr]]     |
-| Knowledge & Wisdom                      | **Ódvar**       | The All-Father       | Raven feather and runestone               | [[affiliation-odinn\|Faith of Ódvar]]       |
-| Fire & Savage Battle                    | **Svartbrandr** | The Destroyer        | Ember and volcanic rock                   | [[affiliation-surtr\|Faith of Svartbrandr]] |
-| War, Reavers & Sea                      | **Thrúnvald**   | The Thunderer        | Hammer stone (Thrúnhamarr) and sea shell  | [[affiliation-thorr\|Faith of Thrúnvald]]   |
-| Justice & Honorable Combat              | **Eidgar**      | The Just             | Iron scale and oath ring                  | [[affiliation-tyr\|Faith of Eidgar]]        |
-| The World's Body & the First Frost      | **Hrímthur**    | The Rime-Giant       | Rime-scored bone and a chip of grey stone | [[affiliation-ymir\|Faith of Hrímthur]]     |
+| Domain                                  | Deity           | Epithet              | Symbol                                    | Faith                                             |
+| --------------------------------------- | --------------- | -------------------- | ----------------------------------------- | ------------------------------------------------- |
+| Dead & Underworld                       | **Náhild**      | The Despiser of Life | Obsidian shard and the Eye of the Void    | [[affiliation-nahild\|Faith of Náhild]]           |
+| Elder Races, Dreams & Light             | **Bjartr**      | The Radiant One      | Sunstone and silver leaf                  | [[affiliation-bjartr\|Faith of Bjartr]]           |
+| Fertility, Agriculture, Peace & Healing | **Fródvin**     | The Healer           | Sheaf of wheat and healing herb bundle    | [[affiliation-frodvin\|Faith of Fródvin]]         |
+| Love, Beauty & Prosperity               | **Sólrún**      | The Golden One       | Rose petal and silver coin                | [[affiliation-solrun\|Faith of Sólrún]]           |
+| Cunning, Deception & Thieves            | **Vélgrímr**    | The Trickster        | Serpent skin and shadowed glass           | [[affiliation-velgrimr\|Faith of Vélgrímr]]       |
+| Knowledge & Wisdom                      | **Ódvar**       | The All-Father       | Raven feather and runestone               | [[affiliation-odvar\|Faith of Ódvar]]             |
+| Fire & Savage Battle                    | **Svartbrandr** | The Destroyer        | Ember and volcanic rock                   | [[affiliation-svartbrandr\|Faith of Svartbrandr]] |
+| War, Reavers & Sea                      | **Thrúnvald**   | The Thunderer        | Hammer stone (Thrúnhamarr) and sea shell  | [[affiliation-thrunvald\|Faith of Thrúnvald]]     |
+| Justice & Honorable Combat              | **Eidgar**      | The Just             | Iron scale and oath ring                  | [[affiliation-eidgar\|Faith of Eidgar]]           |
+| The World's Body & the First Frost      | **Hrímthur**    | The Rime-Giant       | Rime-scored bone and a chip of grey stone | [[affiliation-hrimthur\|Faith of Hrímthur]]       |
 
 ## Theological Foundations
 

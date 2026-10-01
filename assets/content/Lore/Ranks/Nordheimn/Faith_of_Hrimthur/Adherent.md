@@ -31,4 +31,4 @@ Whatever role a faction has claimed for its own work, informally and without a c
 
 ## Where This Standing Is Held
 
-The [[affiliation-ymir|Faith of Hrímthur]] alone.
+The [[affiliation-hrimthur|Faith of Hrímthur]] alone.

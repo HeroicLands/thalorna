@@ -217,7 +217,7 @@ export function inWorld(raw) {
             })
             // A markdown link's target.
             .replace(/\]\(([^)\n]*)\)/g, blank)
-            // An address written bare — `affiliation-odinn`, `place-thrymstead`.
+            // An address written bare — `affiliation-odvar`, `place-knalthstead`.
             // The prefixes are the corpus's own, so an ordinary hyphenated
             // compound stays prose and is read.
             .replace(ADDRESS, blank)
@@ -232,7 +232,7 @@ export function inWorld(raw) {
                 /(?<![\p{L}\p{M}])[\w.-]*[A-Za-z_][\w.-]*\.(?:md|json|mjs|js|yaml|yml|png|webp|svg|jpg)(?![\p{L}\p{M}])/gu,
                 blank,
             )
-            // A note name written with underscores — `Faith_of_Odinn`.
+            // A note name written with underscores — `Faith_of_Odvar`.
             .replace(
                 /(?<![\p{L}\p{M}])[\p{L}\p{M}]+(?:_[\p{L}\p{M}0-9]+)+(?![\p{L}\p{M}])/gu,
                 blank,

@@ -118,8 +118,8 @@ working name — from that narrower identity instead). The steps:
    the same letter to one as you go. Keep whichever vowels keep the result
    sayable; two authors compressing the same name by hand do not always drop
    exactly the same ones, and that is expected rather than a mistake to
-   correct. `Bjalfi Hrafnsvald` compresses to `bjlfhrfnsvld`; `Bjorg
-Drekanótt` compresses to `bjorgdrknt` — its first word was short enough to
+   correct. `Vrildmýl Hrafnsvald` compresses to `vrldmylhrfnsvld`; `Thêkla
+Steníkot` compresses to `theklastnkt` — its first word was short enough to
    need no compression of its own.
 6. **A note whose shortcode names what general kind of thing it is** — a
    deity's own lore article, a totem, a rank or office, a people's culture
@@ -136,7 +136,7 @@ Drekanótt` compresses to `bjorgdrknt` — its first word was short enough to
 
 A shortcode is unique only within one `(package, system, type)` — a `being`,
 a `skill` and an `affiliation` may legally share one bare value, as the
-Asguardian deities do (`odinn` is the shortcode of both the faith and its
+Asguardian deities do (`odvar` is the shortcode of both the faith and its
 ritual skill). What must never collide is two notes of the **same** type.
 
 **A note's filename follows the same source differently.** Where a shortcode
