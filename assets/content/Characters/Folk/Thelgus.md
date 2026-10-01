@@ -5,7 +5,7 @@ type: being
 subType: npc
 description: "A rival who spreads rumours that a performer's music is tainted and his scars a mark of a curse"
 tags: [generated]
-data: {archetypes: [], packFolder: regkhfolk}
+data: {archetypes: [entertainer], packFolder: regkhfolk}
 ---
 
 A rival who spreads rumours that a performer's music is tainted and his scars a mark of a curse.

@@ -5,7 +5,7 @@ type: being
 subType: npc
 description: "A rival who feels the sting of public criticism and returns it where he can do most damage"
 tags: [generated]
-data: {archetypes: [], packFolder: regkhfolk}
+data: {archetypes: [commoner], packFolder: regkhfolk}
 ---
 
 A rival who feels the sting of public criticism and returns it where he can do most damage.

@@ -5,7 +5,7 @@ type: being
 subType: npc
 description: "A servant dismissed for sloppiness and dangerous corner-cutting, who holds that the standards were the problem"
 tags: [generated]
-data: {archetypes: [], packFolder: regkhfolk}
+data: {archetypes: [commoner], packFolder: regkhfolk}
 ---
 
 A servant dismissed for sloppiness and dangerous corner-cutting, who holds that the standards were the problem.
