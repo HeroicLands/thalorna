@@ -262,7 +262,7 @@ A clan's name takes one of the four ting-endings, and each says the footing on w
 
 An **element** is a piece that means something and does not stand alone as a word. Every compound name is elements and nothing else, so the lexicon is the whole of what a compound may be made of. The thirty-four name-stems are elements too, and the ones that carry the most weight: a place or a person named from a stem is named from the stock the halls themselves are named from.
 
-Four things happen at a seam. A stem and an ending that meet on one consonant write it once, which is the bound seam's rule and only the bound seam's: a compound seam writes both, so _storm-_ and `-maelendir` give Stormmaelendir. An element may take a genitive `-s` or `-a` before the seam, which is why the world-ash is Heimsask and the skalds' circle Skaldahringr; that seam genitive belongs to an element, and § _Place names_ gives the two genitives a whole name takes. An element that would leave a name ending in `f` takes the strong `-r`, so the wolf closes a compound as `-úlfr`. And a god or a thing named for a bare quality takes that `-r` on one element alone, which is how Bjartr and Minnir are built.
+Four things happen at a seam. A stem and an ending that meet on one consonant write it once, which is the bound seam's rule and only the bound seam's: a compound seam writes both, so _storm-_ and `-maelendir` give Stormmaelendir. An element may take a genitive `-s` or `-a` before the seam, which is why the world-ash is Heimsask and the skalds' circle Skaldahringr; that seam genitive belongs to an element, and § _Place names_ gives the two genitives a whole name takes. An element that would leave a name ending in `f` takes the strong `-r`, so the wolf closes a compound as `-úlfr`. And any element may stand alone as a name by taking that same `-r` in place of a second element, which is how Bjartr and Minnir are built.
 
 **A kept word is not an element.** The words in _The words the tongue keeps_
 are given whole, and no compound is built from one. An element that shares a
@@ -479,6 +479,8 @@ An office is an element and one of the office suffixes, and the suffix says what
 | `-vald`             | one who wields an authority   |
 | `-vördr`, `-verdir` | the ward or keeper of a thing |
 
+**An office suffix answers for something—a hof, a kin, a station, an authority, a thing kept or wielded—rather than naming what a member has become.** A closing element that marks a stage climbed in a ladder of trust, a trial survived, or a deed done is not an office suffix, however senior the standing it carries: `-höfdingi` names a chieftain's seniority among peers and stays in the general lexicon, while `-stjóri` names the one office of a muster's or a household's master and stands in the table above. The eight suffixes are closing elements like any other, so a compound that takes one is judged the same way every compound is; what sets an office apart from a rank is never the element alone but what it is asked to answer for.
+
 **The words the tongue keeps.** These are words and not names, given whole rather than formed, and a reader meets them as the north's own vocabulary.
 
 | kept word                          | what it is                                     |
@@ -513,7 +515,7 @@ The Nordmen tradition of _aettarnafn_ stands beside the bestowal endings and is 
 
 ### Theonyms
 
-A god's name is a compound, and its closing element says what the god is or does: a ward, a wielder, a mask, a brand, a battle, a giant, a friend, a spear. It takes no bestowal ending, because a god is not given a name at a naming, and it never carries the ting's `kh`, because a god is not a clan. Where a god is named for a quality rather than an office the name is one element in the strong `-r`, which is how Bjartr is built.
+A god's name is a compound, and its closing element says what the god is or does: a ward, a wielder, a mask, a brand, a battle, a giant, a friend, a spear. It takes no bestowal ending, because a god is not given a name at a naming, and it never carries the ting's `kh`, because a god is not a clan. A god named from a single element takes the strong `-r` in place of a second element, which is how Bjartr is built.
 
 ### The names that stand
 
