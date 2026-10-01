@@ -43,7 +43,7 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 9}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 10}}
-    - {model: affiliation-hrimthur}
+    - {model: affiliation-motefnir}
   system:
     body:
       structure:
@@ -363,13 +363,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Gnuldrthýra stands 5'5" with a lithe, predatory frame, weighing about 130 pounds. Her fair skin is smooth and unblemished in a way that seems slightly wrong—too perfect, as though sculpted rather than grown. Her auburn hair is bound in warrior's braids, and her amber eyes are striking and unsettling, with pupils that occasionally catch the light like a cat's. Her features are sharp and beautiful, with high cheekbones, a narrow nose, full lips, and a pointed chin—but subtle signs of her hybrid nature are visible to careful observers. Her canine teeth are slightly too pronounced, her movements too fluid, her reflexes faster than any human's should be. She wears dark leather armor fitted close to her body, allowing maximum freedom of movement, and carries no visible weapons, relying on the inhuman strength that Ymir's transformation has given her.
+Gnuldrthýra stands 5'5" with a lithe, predatory frame, weighing about 130 pounds. Her fair skin is smooth and unblemished in a way that seems slightly wrong—too perfect, as though sculpted rather than grown. Her auburn hair is bound in warrior's braids, and her amber eyes are striking and unsettling, with pupils that occasionally catch the light like a cat's. Her features are sharp and beautiful, with high cheekbones, a narrow nose, full lips, and a pointed chin—but subtle signs of her hybrid nature are visible to careful observers. Her canine teeth are slightly too pronounced, her movements too fluid, her reflexes faster than any human's should be. She wears dark leather armor fitted close to her body, allowing maximum freedom of movement, and carries no visible weapons, relying on the inhuman strength that Mótefnir's transformation has given her.
 
 # Dossier {#dossier}
 
-Gnuldrthýra was one of Ymir's early creations, a being of both human and monstrous traits. She was born in one of Ymir's laboratories, a fusion of different beings, but was quickly abandoned by her creator when he deemed her unworthy of his attention. Left to wander the world, Gnuldrthýra struggled with her identity, torn between her human emotions and her monstrous nature. Despite the rejection, she never lost faith in Ymir, believing that her existence had a purpose, even if Ymir had not yet seen it. Gnuldrthýra became known as the Forsaken, a title she wore with pride as she sought to prove her worth to her creator.
+Gnuldrthýra was one of [[lore-motefnirdty|Mótefnir]]'s early creations, a being of both human and monstrous traits. She was born in one of Mótefnir's laboratories, a fusion of different beings, but was quickly abandoned by her creator when he deemed her unworthy of his attention. Left to wander the world, Gnuldrthýra struggled with her identity, torn between her human emotions and her monstrous nature. Despite the rejection, she never lost faith in Mótefnir, believing that her existence had a purpose, even if Mótefnir had not yet seen it. Gnuldrthýra became known as the Forsaken, a title she wore with pride as she sought to prove her worth to her creator.
 
-The saga of Gnuldrthýra the Forsaken tells of her journey to reclaim her place in Ymir's creation. She heard rumors of the Heart of the Firstborn, hidden deep within one of Ymir's oldest and most dangerous laboratories. This relic was said to hold the essence of Ymir's first and most beloved creation. The journey was perilous, filled with traps and hostile Dreadspawn, but Gnuldrthýra's determination drove her forward. In the heart of the laboratory, she faced a guardian created by Ymir himself. In a fierce battle, Gnuldrthýra defeated the guardian, claiming the Heart of the Firstborn. Rather than offering it to Ymir, she absorbed its essence into herself, transforming into a being of immense power and beauty—a champion of Ymir's path.
+The saga of Gnuldrthýra the Forsaken tells of her journey to reclaim her place in Mótefnir's creation. She heard rumors of the Heart of the Firstborn, hidden deep within one of Mótefnir's oldest and most dangerous laboratories. This relic was said to hold the essence of Mótefnir's first and most beloved creation. The journey was perilous, filled with traps and hostile Dreadspawn, but Gnuldrthýra's determination drove her forward. In the heart of the laboratory, she faced a guardian created by Mótefnir himself. In a fierce battle, Gnuldrthýra defeated the guardian, claiming the Heart of the Firstborn. Rather than offering it to Mótefnir, she absorbed its essence into herself, transforming into a being of immense power and beauty—a champion of Mótefnir's path.
 
 ## Psyche
 
@@ -393,18 +393,18 @@ Since absorbing the Heart of the Firstborn, Gnuldrthýra possesses strength and 
 
 **Dvurnvir the Shaper**—The only person who has ever treated Gnuldrthýra as a fellow being rather than a curiosity or monster. Their relationship is complicated by Dvurnvir's scientific interest in her unique nature, but his respect is genuine.
 
-**The Forsaken Ones**—A loose community of Ymir's abandoned creations who recognize Gnuldrthýra as a champion since she absorbed the Heart of the Firstborn.
+**The Forsaken Ones**—A loose community of Mótefnir's abandoned creations who recognize Gnuldrthýra as a champion since she absorbed the Heart of the Firstborn.
 
 ### Enemies
 
-**The Purity Crusade**—A fanatical movement that views all of Ymir's creations as abominations that must be destroyed. They consider Gnuldrthýra an especially dangerous target and have mobilized significant resources to hunt her.
+**The Purity Crusade**—A fanatical movement that views all of Mótefnir's creations as abominations that must be destroyed. They consider Gnuldrthýra an especially dangerous target and have mobilized significant resources to hunt her.
 
-**Ymir's Warden**—A powerful entity left behind to guard Ymir's laboratories. It views Gnuldrthýra's theft of the Heart of the Firstborn as an unforgivable transgression and relentlessly pursues her.
+**Mótefnir's Warden**—A powerful entity left behind to guard Mótefnir's laboratories. It views Gnuldrthýra's theft of the Heart of the Firstborn as an unforgivable transgression and relentlessly pursues her.
 
 ## Plot Hooks
 
-1. **The Forsaken Children**—Gnuldrthýra's visions have led her to a settlement where Ymir's abandoned creations are being enslaved and used as forced labor. She must liberate them while confronting her own feelings about belonging and identity.
+1. **The Forsaken Children**—Gnuldrthýra's visions have led her to a settlement where Mótefnir's abandoned creations are being enslaved and used as forced labor. She must liberate them while confronting her own feelings about belonging and identity.
 
 2. **The Heart's Price**—The power of the Heart of the Firstborn is slowly transforming Gnuldrthýra, making her more powerful but also more monstrous. She must find a way to control the transformation or risk losing her humanity entirely.
 
-3. **The Creator's Return**—Signs suggest that Ymir may be stirring from his indifference, drawn by the power Gnuldrthýra has claimed. Whether the god's attention is a blessing or a curse remains to be seen.
+3. **The Maker's Return**—Signs suggest that Mótefnir may be stirring from his indifference, drawn by the power Gnuldrthýra has claimed. Whether the god's attention is a blessing or a curse remains to be seen.

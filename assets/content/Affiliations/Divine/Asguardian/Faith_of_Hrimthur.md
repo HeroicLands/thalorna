@@ -3,7 +3,7 @@ shortcode: hrimthur
 name: {full: Faith of Hrímthur, aliases: [The Path of the First Wound]}
 type: affiliation
 subType: faithtradition
-description: "The Rime-Giant whose body is the world, and the wound that made it."
+description: "The Rime-Giant whose body is the world, and the wound that made it; a northern faith standing outside the Ten."
 tags: [asguardian]
 data:
   banner: faithbnr
@@ -32,18 +32,18 @@ data:
   domains: []
   population: null
   economy: []
-  lore: [hrimthurdty]
+  lore: [hrimthurspr]
   parents: [asguardian]
   relations: {asguardian: aligned}
   packFolder: pantheonsasguardian
 sohl: {system: {commonSkills: []}}
 ---
 
-Hrímthur is the Rime-Giant out of whose body the world was cut. He is not a maker and never was one: he is the material every maker works, the stone under the fields and the rime on it, and the faith that keeps his name keeps the memory of what was done to him.
+Hrímthur is the Rime-Giant out of whose body the world was cut. He is one of the **Thursaett**, the giant-kin the Ten fought and beat before the world stood, and the only one of them killed rather than driven into **Thursguard**. He is not a maker and never was one: he is the material every maker works, the stone under the fields and the rime on it, and the faith that keeps his name keeps the memory of what was done to him.
 
 ## Aspects
 
-The theology is one sentence long and the whole faith hangs on it. The world was made by violence done to a living giant, the wound has never closed, and what holds the world together is that the violence is renewed. Everything else his priests say is a gloss on that.
+The theology is one sentence long and the whole faith hangs on it. The world was made by violence done to a living giant, the wound has never closed, and what holds the world together is that the violence is renewed. Everything else his priests say is a gloss on that. The faith is not a faith of the Ten and makes no claim to be one; what it keeps is the thing the Ten did, and the Ten are the ones who did it.
 
 Hrímthur is therefore worshipped as substance rather than as a person. He grants nothing, forbids nothing and answers no petition; the rite is not addressed to him but performed upon him, and a blót at one of his hofs is cut into the ground rather than poured onto an altar. His faithful describe him as awake and incurious, which they do not find troubling.
 
@@ -65,7 +65,7 @@ Hrímthur's faithful hold one of two standings. An admirer holds his work in awe
 
 ## Divine Servants
 
-The faith names none. A god who is the world's substance has no messengers, and his priests hold that anything claiming to speak for him is speaking for itself.
+The faith names none. A dead giant who is the world's substance has no messengers, and his priests hold that anything claiming to speak for him is speaking for itself.
 
 ## High Ceremonies
 
