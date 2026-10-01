@@ -147,7 +147,7 @@ Clan identity is encoded in the clan name, which is used alongside the personal 
 
 ### How a name is built
 
-Varokhi builds every class of name by one operation. A name is two **elements**, and an element means something on its own, so a Varokhi name states two things and a hearer who knows the lexicon can take both. Nothing in a name is empty: the piece that closes a name carries as much sense as the piece that opens it, which is the sharpest structural difference from [[skill-nordmalng|Nordmal]], where a name-ending carries none at all.
+Varokhi builds every class of name by one operation. A name is two **elements**, and an element means something on its own, so a Varokhi name states two things rather than one. Nothing in a name is empty: the piece that closes a name carries as much sense as the piece that opens it, which is the sharpest structural difference from [[skill-nordmalng|Nordmal]], where a name-ending carries none at all.
 
 Six rules settle the whole of it.
 
@@ -164,7 +164,7 @@ Six rules settle the whole of it.
 
 ### The element lexicon
 
-An **element** is a piece that means something and does not stand alone as a word. Every Varokhi name is elements and nothing else, so the lexicon is the whole of what a name may be made of. Each row names the names it is read from, because the lexicon is read out of the glossed clan names and the two given names the tradition works through, and a reader who wants to check a row can check it.
+An **element** is a piece that means something and does not stand alone as a word. Every Varokhi name is elements and nothing else, so the lexicon is the whole of what a name may be made of. Each row names the names it is read from, because the lexicon is read out of the glossed clan names and the two given names the tradition works through, so every row stands against the names behind it.
 
 Where two glosses of one element disagree, the sense the greater number of them carries is the one the row states. The `-mark` row is the worked case: thirteen of its fifteen glosses say keeper, guardian or holder, and the two that say master and journeyer are reporting what the neighbouring rows `-march` and `-mun` carry.
 
