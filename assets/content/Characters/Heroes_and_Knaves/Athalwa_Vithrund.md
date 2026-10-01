@@ -475,7 +475,7 @@ Athalwa's primary motivation is the survival and flourishing of the Vrystwald Tr
 
 - **The War Band of the Vithrúnd**: Young warriors and ambitious raiders who benefit from Athalwa's expansionist policies and see in her a leader who can elevate them to genuine power within the broader world.
 - **Merchant Prince Oleander of the Byzarian League**: A canny trader who has secured exclusive access to Vrystwald furs and amber through his relationship with Athalwa. They maintain a respectful commercial and diplomatic relationship.
-- **Mótefnir's Oracle, the Völva Astrid**: An ancient priestess of the Asgardian Pantheon who senses truth in Athalwa's visions and provides mystical counsel and validation.
+- **Mótefnir's Oracle, the Völva Astrid**: An ancient priestess of the Asguardian Pantheon who senses truth in Athalwa's visions and provides mystical counsel and validation.
 
 ### Enemies
 
