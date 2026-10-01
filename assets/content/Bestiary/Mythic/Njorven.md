@@ -6,6 +6,7 @@ subType: creature
 description: "The Sea Wraith of the Nordlands—long ago overthrown by Thórr, slowly waking beneath the northern seas, venerated by a cult that means to see it free, and the thing the Ritual of Binding exists to seal away."
 tags: [mythic]
 data:
+  packFolder: mythic
   templatePriority: null
   archetypes: []
   occupation: null

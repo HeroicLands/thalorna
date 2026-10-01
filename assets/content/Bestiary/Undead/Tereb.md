@@ -6,6 +6,7 @@ subType: creature
 description: "The cloaked one—the sentient, self-directed undead that wears its former self as a garment: vampires, dread-priests, and sorcerer-emperors who persist past death through deliberate, prepared ritual."
 tags: [undead]
 data:
+  packFolder: helspawn
   icon: icon-person
   templatePriority: null
   archetypes: []

@@ -6,6 +6,7 @@ subType: creature
 description: "A dog-sized rodent born of magical contamination, infesting sewers, cellars, and granaries wherever darkness meets food waste."
 tags: [animal, image-needed]
 data:
+  packFolder: animals
   icon: icon-person
   templatePriority: null
   archetypes: []

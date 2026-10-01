@@ -6,6 +6,7 @@ subType: creature
 description: "A young apex ice-wyrm of high peaks and glaciers, methodical and cold rather than aggressive, mastering the frozen air."
 tags: [mythic, image-needed]
 data:
+  packFolder: mythic
   icon: icon-dragonheadft
   templatePriority: null
   archetypes: []

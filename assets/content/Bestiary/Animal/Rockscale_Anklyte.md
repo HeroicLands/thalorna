@@ -6,6 +6,7 @@ subType: creature
 description: "A quadrupedal herbivore over 800 pounds and twelve feet long, grazing sparse badland vegetation yet defending its ground with overwhelming force."
 tags: [animal]
 data:
+  packFolder: animals
   icon: icon-person
   templatePriority: null
   archetypes: []
