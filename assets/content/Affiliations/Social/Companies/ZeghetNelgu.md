@@ -33,7 +33,7 @@ data:
           Carrying the harpoons, poling the boats and butchering what is taken, without striking at the quarry.
       - level: 3
         title: Sworn of the Hunt
-        lore: swornmemberrnk
+        lore: swornofriternk
         description: Bound by the sacred obligation, permitted at the rites, and permitted to strike.
       - level: 4
         title: Blooded

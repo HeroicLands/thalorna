@@ -37,7 +37,7 @@ data:
           The governing rank, holding a vote in their chapter's council; every chapter is governed by its council of Magistri.
       - level: 5
         title: Praelati
-        lore: elderrnk
+        lore: seatedelderrnk
         description: >-
           Senior masters elevated by appointment of the existing Concilium, each holding a seat on the Concilium Magnum and typically leading a chapter.
       - level: 6

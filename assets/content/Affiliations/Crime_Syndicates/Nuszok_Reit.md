@@ -27,7 +27,7 @@ data:
           Under recruitment and not yet committed. The cult draws from the empire's cast-aside—collapsed Shükrën households, Nützōk whose classification has drifted past recovery, ruined Zhëklüng younger sons, and above all the condemned, whose ledgers admit no ritual redemption and for whom no ancestor will advocate.
       - level: 2
         title: Committed
-        lore: professedrnk
+        lore: committedrnk
         description: >-
           Has performed the act of irreversible commitment on which recruitment deliberately culminates—a public blasphemy, a petty sabotage of a local temple, a first small act of violence—after which standing in the mainstream order cannot be recovered. There is no rank above this that anyone has ever confirmed.
     offices:

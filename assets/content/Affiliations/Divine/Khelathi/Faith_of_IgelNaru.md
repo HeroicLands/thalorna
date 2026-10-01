@@ -33,7 +33,7 @@ data:
           Reads the god's will before an expedition—in offerings, in bird flight, in the patterns of the water—and pronounces whether it may proceed. The rank is the temple's own acolyte-title borrowed into a hunting company, which is how thoroughly this cult lives inside the hunt rather than beside it.
       - level: 3
         title: Sworn of the Water
-        lore: professedrnk
+        lore: swornofriternk
         description: >-
           Bound by the sacred obligation, permitted at the rites, and permitted to strike at the quarry. The god's due is taken from the kill before any other share.
     offices:

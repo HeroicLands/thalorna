@@ -29,7 +29,7 @@ data:
           Has taken the vow and works the first of it—the misdirection, the errand nobody recalls being run, the face that will not fix in the memory.
       - level: 2
         title: Holder of the Vow
-        lore: professedrnk
+        lore: practitionerrnk
         description: >-
           Works the waking dream on a person who is awake and unwilling, which is the whole of what the line exists to teach and what the Council of the Dream condemned it for.
       - level: 3

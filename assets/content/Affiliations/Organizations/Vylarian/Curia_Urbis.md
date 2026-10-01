@@ -17,7 +17,7 @@ data:
     ranks:
       - level: 0
         title: Removed
-        lore: expelledrnk
+        lore: dismissedrnk
         description: >-
           The Augustar appoints and dismisses alike; a Curator holds at the throne's pleasure and leaves at the throne's word.
       - level: 1

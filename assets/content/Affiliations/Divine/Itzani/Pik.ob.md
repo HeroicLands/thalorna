@@ -23,7 +23,7 @@ data:
           Put out of the groves—almost always for having crossed from accepting that all things end into wishing to hasten the ending.
       - level: 1
         title: Grieving
-        lore: catechumenrnk
+        lore: unenteredrnk
         description: >-
           Brought to a grove by a loss and permitted to sit in it, under no obligation and asked for nothing; most never return a second time.
       - level: 2
@@ -48,7 +48,7 @@ data:
           Conducts sky burial where the region practices it—the exposure, the reading of the birds, and the gathering of the bared bone.
       - level: 6
         title: Teacher of Dissolution
-        lore: elderrnk
+        lore: teachingelderrnk
         description: >-
           Trusted to instruct, which in this order means to sit with someone for years and correct almost nothing.
       - level: 7

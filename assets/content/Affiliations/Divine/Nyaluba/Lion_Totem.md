@@ -23,7 +23,7 @@ data:
           Turned from by the spirits and by those who keep them: no rite will include them, no pact will cover them, and no griot will speak their name in a genealogy.
       - level: 1
         title: Uninitiated
-        lore: catechumenrnk
+        lore: unenteredrnk
         description: >-
           Living under the observances, the totem law and the clan's pacts without having entered the tradition—most of the people, most of the time.
       - level: 2
@@ -38,7 +38,7 @@ data:
           The mwalimu wa roho—permitted to perceive, address and negotiate with the spirits on the clan's behalf, and answerable for what is asked of them.
       - level: 4
         title: Elder Shaman
-        lore: elderrnk
+        lore: teachingelderrnk
         description: >-
           Long practiced, teaching initiates and sitting on the council, where their word carries the greater weight in what the younger Spirit-Speakers dispute.
     offices:

@@ -17,7 +17,7 @@ data:
     ranks:
       - level: 0
         title: Recalled
-        lore: expelledrnk
+        lore: dismissedrnk
         description: >-
           Council seats turn over at the Augustar's pleasure within procedural limits, and the Praetar Fiscalis is dismissed at imperial discretion. A seat lost this way is not given back.
       - level: 1

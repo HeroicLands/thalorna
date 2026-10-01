@@ -27,7 +27,7 @@ data:
           The lay devotee, keeping the household observances of whichever gods the household honors.
       - level: 2
         title: Vratin
-        lore: professedrnk
+        lore: vowdevoteernk
         description: >-
           "One under vow"—has completed one of the gods' Ordeals for Favor, which is the only standing devotion to a god confers, and is held for life.
       - level: 3

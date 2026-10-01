@@ -29,7 +29,7 @@ data:
           The frontier shamans and wise folk—steppe herders of the western uplands, hill-dwellers of the eastern ranges—who understand the god as natural force and keep practices of protection and appeasement. They operate outside the official priesthood but hold a kind of implicit sanction, their work protecting communities and their understanding held to be not inaccurate so much as differently framed.
       - level: 2
         title: Devotee
-        lore: professedrnk
+        lore: committedrnk
         description: >-
           One who has turned to actual worship, believing appeasement offers personal power or that destruction is preferable to the constraints of order. A capital heresy, kept entirely secret, and with no structure above it to belong to.
     offices:

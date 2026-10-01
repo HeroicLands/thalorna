@@ -24,7 +24,7 @@ data:
           Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Xibalba's trials unguided, which the Ki'ichek reckon the one sentence that outlives the body.
       - level: 1
         title: Water-Marked
-        lore: catechumenrnk
+        lore: childfaithrnk
         description: >-
           Consecrated at birth with water on the lips and counted among the faithful, but not yet of an age to give blood or keep the fasts.
       - level: 2
@@ -34,7 +34,7 @@ data:
           The lay faithful, who pierce tongue or earlobe on the days the calendar appoints and keep its prohibitions without holding office in the temple.
       - level: 3
         title: Debt-Bearer
-        lore: layfaithfulrnk
+        lore: voweddebtorrnk
         description: >-
           Bound by a debt pledged beyond what the calendar requires—a captive dedicated in advance, a pilgrimage undertaken, a season of autosacrifice vowed.
       - level: 4

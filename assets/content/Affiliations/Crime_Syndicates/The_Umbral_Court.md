@@ -22,7 +22,7 @@ data:
           Struck from the rolls, with the attainder read aloud in the old form—no household on the island will retain them, and the Court will not lift a hand when the Synod takes them.
       - level: 1
         title: Petitioner
-        lore: dependentrnk
+        lore: supplicantrnk
         description: >-
           Not a member at all: someone who has brought a matter before the Court and been heard. Most of Dúnavarre's dealings with the Court never go beyond this, and a petition granted is a debt owed.
       - level: 2

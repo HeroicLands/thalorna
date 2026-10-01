@@ -17,7 +17,7 @@ data:
     ranks:
       - level: 0
         title: Dismissed
-        lore: expelledrnk
+        lore: dismissedrnk
         description: >-
           The Quaestor Imperii serves for life or until imperial dismissal, and every officer beneath him holds at the Quaestor's pleasure or the throne's.
       - level: 1

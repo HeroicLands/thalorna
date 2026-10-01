@@ -28,7 +28,7 @@ data:
           The lay devotee, keeping the household observance of the dream, honored at the edges of the day rather than at a fixed hour, with a dream-stone kept under each sleeper's pillow and renewed at the new moon. This is what devotion to this god ordinarily consists of, and for most of the faithful it is the whole of it.
       - level: 2
         title: Vratin
-        lore: professedrnk
+        lore: vowdevoteernk
         description: >-
           "One under vow"—has undertaken and completed one of the god's Ordeals for Favor. Since this god has no priesthood, the ordeal is the only standing the devotion confers, and it is held for life.
     offices:

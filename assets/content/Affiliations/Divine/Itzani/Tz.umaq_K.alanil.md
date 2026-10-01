@@ -24,7 +24,7 @@ data:
           Named to the orthodox authorities by their own cell, or judged to have informed; expulsion and execution are the same sentence here.
       - level: 1
         title: Listener
-        lore: catechumenrnk
+        lore: unenteredrnk
         description: >-
           Has heard the arguments and not yet accepted them; the movement is patient with listeners, because its case is strongest on a second hearing.
       - level: 2
@@ -34,7 +34,7 @@ data:
           Holds the doctrine, gives shelter, food and silence, and takes no part in the rites; most adherents never advance past this and are the reason cells survive.
       - level: 3
         title: Bereaved
-        lore: layfaithfulrnk
+        lore: voweddebtorrnk
         description: >-
           Has accepted a reclaimed loved one and is bound by the acceptance—the movement's most reliable adherents, and its most desperate.
       - level: 4
@@ -49,7 +49,7 @@ data:
           Performs the reversal and the lesser rites, and holds the cell's account of why the cosmic cycle is failing.
       - level: 6
         title: Tz'uqil Ch'ul
-        lore: professedrnk
+        lore: transfiguredrnk
         description: >-
           Has undergone the ritual—torture, death and immediate reanimation—and come through it whole; named for the rite that made them.
       - level: 7

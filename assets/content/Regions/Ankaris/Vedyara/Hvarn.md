@@ -44,7 +44,7 @@ data:
           Entrusted with a crossing of the Reach alone, and answerable to the council for whoever does not come back.
       - level: 6
         title: Hearth-head
-        lore: elderrnk
+        lore: councillorrnk
         description: Head of a winter hearth, sitting on the council and speaking for those who eat at his fire.
       - level: 7
         title: Winter-speaker

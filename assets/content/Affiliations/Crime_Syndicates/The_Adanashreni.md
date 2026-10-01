@@ -42,7 +42,7 @@ data:
           Master of a craft-line, who teaches it, vouches for its members and answers to the Sabhā for every taking they perform.
       - level: 5
         title: Sthavira
-        lore: elderrnk
+        lore: seatedelderrnk
         description: >-
           An elder seated on the Sabhā, who judges disputes between craft-lines, rules on improper takings and orders restoration.
       - level: 6

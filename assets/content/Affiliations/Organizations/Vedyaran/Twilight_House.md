@@ -52,7 +52,7 @@ data:
           Holding one of the houses in the other Vedyaran cities, answerable for its Companions and its product.
       - level: 7
         title: Elder of the House
-        lore: elderrnk
+        lore: seatedelderrnk
         description: >-
           Retired from clients and of the small body that sets the curriculum, the tiers and the terms.
       - level: 8

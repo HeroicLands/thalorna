@@ -15,7 +15,7 @@ data:
     ranks:
       - level: 0
         title: Proscribed
-        lore: excmmnctrnk
+        lore: outlawrnk
         description: >-
           Named in a proscription; property forfeit to the treasury and life forfeit to whoever collects it.
       - level: 1

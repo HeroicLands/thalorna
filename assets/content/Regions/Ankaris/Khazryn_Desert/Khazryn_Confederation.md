@@ -39,7 +39,7 @@ data:
           Of a princely house's blood or sworn following, entitled to its protection and its quarrels.
       - level: 4
         title: Retainer
-        lore: dependentrnk
+        lore: officerrnk
         description: >-
           Holding a charge in a house's service—its caravans, its guards, its correspondence, its exile courts.
       - level: 5

@@ -17,7 +17,7 @@ data:
     ranks:
       - level: 0
         title: Outcaste
-        lore: excmmnctrnk
+        lore: outcasternk
         description: >-
           Placed outside the tharana by transgression or by birth, and barred from the estate's temple, its stores and its licences.
       - level: 1

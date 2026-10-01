@@ -22,12 +22,12 @@ data:
           Turned from by the spirit and by those who keep it: no rite will include them, and no elder will speak their name in one.
       - level: 1
         title: Uninitiated
-        lore: catechumenrnk
+        lore: unenteredrnk
         description: >-
           Living under the tradition's observances without having entered it—most of the people, most of the time.
       - level: 2
         title: Supplicant
-        lore: catechumenrnk
+        lore: supplicantrnk
         description: >-
           Petitioning the spirit through those who may address it, and bringing what the tradition asks in return.
       - level: 3
@@ -47,7 +47,7 @@ data:
           One the spirit is allowed to enter, in the rites where somebody must be—a standing of honor and of considerable risk.
       - level: 6
         title: Elder Shaman
-        lore: elderrnk
+        lore: teachingelderrnk
         description: >-
           Long practiced, teaching initiates and judging when the tradition's forms have been broken.
       - level: 7

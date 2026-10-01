@@ -44,7 +44,7 @@ data:
           Recognized practitioner of a lineage: reads for the tribal council and the warband, conducts the rites of the camp, and answers for the accuracy of what they report. Misreading is the gravest shamanic failure.
       - level: 4
         title: Sar-pîr
-        lore: elderrnk
+        lore: teachingelderrnk
         description: >-
           Senior elder of a lineage, holding its apprentices and its practice, and sitting in the Council of Elders at the Stone of Ranâz at the season-turns.
       - level: 5

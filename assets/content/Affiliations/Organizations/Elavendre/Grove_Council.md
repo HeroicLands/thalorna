@@ -27,7 +27,7 @@ data:
           Working clergy of the tradition, wearing the unworked band: some attached to a lesser grove, some walking a circuit of the groves that keep no permanent staff.
       - level: 3
         title: Grove-Elder
-        lore: elderrnk
+        lore: seatedelderrnk
         description: >-
           Holder of one of the nineteen seats, one to each recognized great grove. Chosen by the grove through long apprenticeship and confirmed by the Council gathered, with the grovekeepers below and the Áelendan Wardens patrolling on his writ.
     offices: {}
