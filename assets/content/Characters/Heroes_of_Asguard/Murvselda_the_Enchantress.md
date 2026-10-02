@@ -363,13 +363,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Murvselda stands 5'7" with a slender, graceful frame, weighing about 130 pounds. Her fair skin is flawless and luminous, and her dark blonde hair is arranged in an elaborate style that appears effortless but takes considerable art. Her blue eyes are large and expressive, shifting between warmth and calculation so smoothly that few notice the transition. Her features are striking—high cheekbones, a delicate nose, full lips that curve in an enigmatic smile, and perfectly arched brows that can convey a dozen meanings with a single rise. Her bearing is poised and courtly, every gesture deliberate and graceful, and she carries herself with the quiet confidence of someone accustomed to being the most important person in any room. Murvselda wears gowns of fine silk and soft wool in rich jewel tones, accented with subtle gold embroidery and a necklace of amber beads sacred to Fréyja. Her hands are soft and adorned with slender rings, the hands of a woman who has never wielded anything heavier than a quill.
+Murvselda stands 5'7" with a slender, graceful frame, weighing about 130 pounds. Her fair skin is flawless and luminous, and her dark blonde hair is arranged in an elaborate style that appears effortless but takes considerable art. Her blue eyes are large and expressive, shifting between warmth and calculation so smoothly that few notice the transition. Her features are striking—high cheekbones, a delicate nose, full lips that curve in an enigmatic smile, and perfectly arched brows that can convey a dozen meanings with a single rise. Her bearing is poised and courtly, every gesture deliberate and graceful, and she carries herself with the quiet confidence of someone accustomed to being the most important person in any room. Murvselda wears gowns of fine silk and soft wool in rich jewel tones, accented with subtle gold embroidery and a necklace of amber beads sacred to Sólrún. Her hands are soft and adorned with slender rings, the hands of a woman who has never wielded anything heavier than a quill.
 
 # Dossier {#dossier}
 
-Murvselda was a woman of extraordinary beauty and charm, blessed by Fréyja with a voice that could captivate even the coldest of hearts. From a young age, she showed an uncanny ability to influence those around her, using her wits and allure to navigate the complexities of courtly life. Murvselda became known as the Enchantress, a woman whose mere presence could sway the most hardened warriors and shrewd merchants. She was not only a master of seduction but also a wise counselor, helping those who sought her advice to find love, success, and prosperity.
+Murvselda was a woman of extraordinary beauty and charm, blessed by Sólrún with a voice that could captivate even the coldest of hearts. From a young age, she showed an uncanny ability to influence those around her, using her wits and allure to navigate the complexities of courtly life. Murvselda became known as the Enchantress, a woman whose mere presence could sway the most hardened warriors and shrewd merchants. She was not only a master of seduction but also a wise counselor, helping those who sought her advice to find love, success, and prosperity.
 
-The saga of Murvselda the Enchantress tells of how she saved her homeland from ruin through her wit and charm. The king of her land had fallen under the influence of a cruel advisor who sought to strip the kingdom of its wealth. Murvselda used her charm to gain the advisor's trust, feigning loyalty while secretly working to undermine his power. She gathered allies within the court and turned the king against the advisor. In a dramatic confrontation, Murvselda exposed the advisor's treachery. The king placed Murvselda in a position of great power, where she used her wisdom and connection to Fréyja to restore prosperity to the land.
+The saga of Murvselda the Enchantress tells of how she saved her homeland from ruin through her wit and charm. The king of her land had fallen under the influence of a cruel advisor who sought to strip the kingdom of its wealth. Murvselda used her charm to gain the advisor's trust, feigning loyalty while secretly working to undermine his power. She gathered allies within the court and turned the king against the advisor. In a dramatic confrontation, Murvselda exposed the advisor's treachery. The king placed Murvselda in a position of great power, where she used her wisdom and connection to Sólrún to restore prosperity to the land.
 
 ## Psyche
 
@@ -379,7 +379,7 @@ Murvselda is sophisticated and perceptive, reading people with an accuracy that 
 
 ### Motivation
 
-Murvselda seeks to prove that intellect and charm are as powerful as any sword, and that the soft power of diplomacy can achieve what armies cannot. She dreams of building a court where wisdom and beauty are valued above martial prowess, creating a center of culture and learning in the northern lands. She is also driven by a personal quest to understand the full extent of Fréyja's gifts and whether they carry a cost she has not yet discovered.
+Murvselda seeks to prove that intellect and charm are as powerful as any sword, and that the soft power of diplomacy can achieve what armies cannot. She dreams of building a court where wisdom and beauty are valued above martial prowess, creating a center of culture and learning in the northern lands. She is also driven by a personal quest to understand the full extent of Sólrún's gifts and whether they carry a cost she has not yet discovered.
 
 ### Strengths
 
@@ -393,7 +393,7 @@ Murvselda's charisma is her most powerful weapon; her voice carries a subtle enc
 
 **King Haraldr of the Northern Court**—The monarch who Murvselda saved from his corrupt advisor. He relies heavily on her counsel and has granted her considerable political authority.
 
-**The Fréyja Sisterhood**—A secret order of women devoted to Fréyja who use their influence to shape events from behind the scenes. Murvselda is one of their most prominent members.
+**The Sólrún Sisterhood**—A secret order of women devoted to Sólrún who use their influence to shape events from behind the scenes. Murvselda is one of their most prominent members.
 
 ### Enemies
 
@@ -407,4 +407,4 @@ Murvselda's charisma is her most powerful weapon; her voice carries a subtle enc
 
 2. **The Marriage Alliance**—A crucial peace treaty depends on a marriage between two powerful families, but both the bride and groom secretly love others. Murvselda must navigate the competing desires of duty, love, and politics.
 
-3. **Fréyja's Price**—Murvselda's enchanting abilities are growing stronger, but she has begun to notice that people she has influenced show signs of dependency. She must discover whether Fréyja's gifts carry an addiction that could harm those she is trying to help.
+3. **Sólrún's Price**—Murvselda's enchanting abilities are growing stronger, but she has begun to notice that people she has influenced show signs of dependency. She must discover whether Sólrún's gifts carry an addiction that could harm those she is trying to help.

@@ -12,7 +12,7 @@ data: {packFolder: regkhdeit}
 _Guardian of Night Visions—a crescent moon with a single protective eye._
 
 Nehle'ât is the Khelâthi name for [[lore-goddreams|the God of Dreams]], a deity far older than any single
-civilization and known under many names: **Baldr** to the Asguardian peoples, **Aethería** to the
+civilization and known under many names: **Bjartr** to the Asguardian peoples, **Aethería** to the
 Aurèldíans, and known to the [[lore-flksinale|Sinalë]] since time immemorial. What is distinctive in
 the Khelâthi understanding is the intimacy—not a distant celestial force but a companion who walks
 through the night beside the sleeper.

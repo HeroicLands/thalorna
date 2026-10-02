@@ -444,7 +444,7 @@ Now, as the fifth decade of his life nears its close, Braldthann faces a changin
 
 Braldthann is a man of few words and profound convictions. He speaks with the authority of someone who has proven himself through decades of uncompromising labor. There is no bombast in him, no need for flattery or recognition—his tents speak louder than any boast. He views the younger generation with a mixture of paternalism and disdain, believing that shortcuts and expediency have no place in honest work. Yet beneath his gruff exterior lies a steadfast loyalty to those he considers worthy; customers who return year after year find him capable of surprising generosity, and he has been known to repair defective work at no charge if the fault was genuinely his own.
 
-He is deeply religious, invoking Súrtr before major projects, believing the fire-god guides his hands through the hottest work—the application of fireproofing compounds and the sealing of seams. His workshop always contains an altar of stones, and he makes offerings whenever a commission is completed successfully.
+He is deeply religious, invoking **Svartbrandr** before major projects, believing the fire-god guides his hands through the hottest work—the application of fireproofing compounds and the sealing of seams. His workshop always contains an altar of stones, and he makes offerings whenever a commission is completed successfully.
 
 ### Motivation
 
@@ -454,7 +454,7 @@ Braldthann is driven by an almost obsessive need to preserve what his family bui
 
 - **Master Craftsman**: Decades of experience make Braldthann unparalleled in creating weather-resistant, durable tents capable of withstanding the harshest conditions Nordheim can inflict. His double-weave technique is legendary among the military hierarchy.
 - **Uncompromising Standards**: Every piece that leaves his workshop meets exacting specifications. His reputation for reliability is absolute—military officers and merchants place standing orders with complete confidence.
-- **Fire Ritualist**: His knowledge of fireproofing techniques and flame-resistant compounds is sophisticated, and he combines practical chemistry with spiritual practice dedicated to Súrtr.
+- **Fire Ritualist**: His knowledge of fireproofing techniques and flame-resistant compounds is sophisticated, and he combines practical chemistry with spiritual practice dedicated to Svartbrandr.
 - **Leadership and Authority**: Though he commands respect more through competence than charisma, those in the craft world recognize his authority. Younger makers, despite their dismissal of his methods, often secretly consult his work.
 
 ### Weaknesses
@@ -482,12 +482,12 @@ Braldthann is driven by an almost obsessive need to preserve what his family bui
 
 ## Plot Hooks
 
-1. **The Commission of Legend**: A powerful jarl's daughter commissions a tent unlike anything ever requested—a portable temple to Súrtr that must incorporate ritual spaces, special colorings, and materials from across the known world. The commission is enormous and prestigious, but requires Braldthann to innovate beyond his comfort and work with materials he has never handled. Will he rise to the challenge, or refuse and watch the contract go to Halvar? Either choice could reshape his legacy.
+1. **The Commission of Legend**: A powerful jarl's daughter commissions a tent unlike anything ever requested—a portable temple to Svartbrandr that must incorporate ritual spaces, special colorings, and materials from across the known world. The commission is enormous and prestigious, but requires Braldthann to innovate beyond his comfort and work with materials he has never handled. Will he rise to the challenge, or refuse and watch the contract go to Halvar? Either choice could reshape his legacy.
 
 2. **The Apprentice's Return**: Years ago, Braldthann turned away a gifted but headstrong apprentice, **Astrid Ringbinder**, claiming she lacked discipline. Now she returns as a master craftsperson trained abroad, having developed revolutionary techniques that combine Braldthann's family methods with foreign innovation. She offers to collaborate with him, but her success stings his pride. Can two stubborn masters find common ground, or will ego destroy a partnership that could save the old traditions?
 
 3. **The Conspiracy of Quality**: Military investigators approach Braldthann with evidence that someone has been deliberately sabotaging his tents—introducing flaws that barely manifest until soldiers are in the field. Someone wants to damage his reputation and open market share. Braldthann must investigate whether the culprit is **Halvar Fastworker**, a jealous rival, or someone else entirely—perhaps even a competitor being hired by foreign powers to weaken Nordheim's military supply.
 
-4. **The Master's Illness**: Braldthann's arthritic hands worsen dramatically. His physician, **Healer Ingrid Bondswoman**, warns that within a year he may lose the dexterity that defines his art. Desperate, Braldthann seeks a solution—perhaps a pilgrimage to a shrine of Súrtr rumored to grant miraculous healing, or a dangerous ritual that might preserve his abilities at great cost. His journey becomes a race against time and infirmity.
+4. **The Master's Illness**: Braldthann's arthritic hands worsen dramatically. His physician, **Healer Ingrid Bondswoman**, warns that within a year he may lose the dexterity that defines his art. Desperate, Braldthann seeks a solution—perhaps a pilgrimage to a shrine of Svartbrandr rumored to grant miraculous healing, or a dangerous ritual that might preserve his abilities at great cost. His journey becomes a race against time and infirmity.
 
 5. **Preserving the Legacy**: With no worthy heir to his methods, Braldthann faces a mortality crisis. A noble patron offers to fund a comprehensive record of his techniques—a master work that would preserve his family's knowledge forever. But the project requires collaboration with scribes and scholars, constant explanation, and admission that his way may not be eternal. Can he accept that immortality through documentation might be all that remains available to him?

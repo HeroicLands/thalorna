@@ -481,7 +481,7 @@ Vruldorv seeks meaningful work—a cause or purpose greater than the mere accumu
 ### Affiliations
 
 - **Nordheim Mercenaries' Guild** - His guild and source of contracts
-- **The Order of Fréyr's Guardians** - A loose spiritual fellowship of warriors devoted to protection and the sacred duty of strength in service of others
+- **The Green Wardens** - A loose spiritual fellowship of warriors devoted to protection and the sacred duty of strength in service of others
 
 ## Plot Hooks
 

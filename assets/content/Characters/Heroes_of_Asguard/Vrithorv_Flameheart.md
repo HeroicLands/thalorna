@@ -367,9 +367,9 @@ Vrithorv stands 6'0" with a powerful, barrel-chested frame, weighing around 210 
 
 # Dossier {#dossier}
 
-Vrithorv was born in the shadow of an active volcano, where his clan believed that Súrtr's flames shaped the land and their destiny. From a young age, he was fascinated by fire, often sneaking away to watch the molten lava flow and the sparks dance in the night sky. As he grew, Vrithorv became a warrior of unmatched ferocity, known for his ability to withstand intense heat and his love for the chaos of battle. His heart, it was said, burned with the very fire of Súrtr, driving him to seek out ever greater challenges.
+Vrithorv was born in the shadow of an active volcano, where his clan believed that **Svartbrandr**'s flames shaped the land and their destiny. From a young age, he was fascinated by fire, often sneaking away to watch the molten lava flow and the sparks dance in the night sky. As he grew, Vrithorv became a warrior of unmatched ferocity, known for his ability to withstand intense heat and his love for the chaos of battle. His heart, it was said, burned with the very fire of Svartbrandr, driving him to seek out ever greater challenges.
 
-The saga of Vrithorv Flameheart tells of his battle against the Frost Giants, ancient enemies of Súrtr who sought to extinguish the flames of the world. When the Frost Giants descended upon his homeland, freezing rivers and shattering mountains, Vrithorv knew that only the fire of Súrtr could stop them. He journeyed to the heart of the volcano that had shaped his life, praying to Súrtr for the strength to defeat these icy foes. In response, Súrtr blessed him with the power of the Eternal Flame, a burning aura that surrounded him in battle. With his newfound strength, Vrithorv faced the Frost Giants alone, melting their icy weapons and turning their bodies to steam. His victory ensured the survival of his people and the continuation of Súrtr's fiery reign.
+The saga of Vrithorv Flameheart tells of his battle against the Frost Giants, ancient enemies of Svartbrandr who sought to extinguish the flames of the world. When the Frost Giants descended upon his homeland, freezing rivers and shattering mountains, Vrithorv knew that only the fire of Svartbrandr could stop them. He journeyed to the heart of the volcano that had shaped his life, praying to Svartbrandr for the strength to defeat these icy foes. In response, Svartbrandr blessed him with the power of the Eternal Flame, a burning aura that surrounded him in battle. With his newfound strength, Vrithorv faced the Frost Giants alone, melting their icy weapons and turning their bodies to steam. His victory ensured the survival of his people and the continuation of Svartbrandr's fiery reign.
 
 ## Psyche
 
@@ -379,7 +379,7 @@ Vrithorv is intense and volatile, a man whose emotions burn as hot as the flames
 
 ### Motivation
 
-Vrithorv seeks the glory of battle and the approval of Súrtr, whom he worships with fanatical devotion. He believes the world will end in fire and that only those who have proven themselves worthy through combat will be reborn in the flames. He secretly fears growing old and weak, and drives himself to increasingly dangerous feats to prove he still carries Súrtr's flame within him.
+Vrithorv seeks the glory of battle and the approval of Svartbrandr, whom he worships with fanatical devotion. He believes the world will end in fire and that only those who have proven themselves worthy through combat will be reborn in the flames. He secretly fears growing old and weak, and drives himself to increasingly dangerous feats to prove he still carries Svartbrandr's flame within him.
 
 ### Strengths
 
@@ -391,7 +391,7 @@ Vrithorv's resistance to heat and fire borders on the supernatural, allowing him
 
 ### Patrons
 
-**The Flame Temple of Ashenmount**—The high priests of Súrtr's most sacred temple recognize Vrithorv as blessed by the god and provide him with arms, provisions, and spiritual guidance.
+**The Flame Temple of Ashenmount**—The high priests of Svartbrandr's most sacred temple recognize Vrithorv as blessed by the god and provide him with arms, provisions, and spiritual guidance.
 
 **Jarl Thorvald Embersteel**—A warlike jarl who keeps Vrithorv close as both champion and bodyguard, knowing that the warrior's reputation alone deters many would-be challengers.
 
@@ -399,12 +399,12 @@ Vrithorv's resistance to heat and fire borders on the supernatural, allowing him
 
 **The Frost Wardens**—Survivors of the Frost Giant clans who have sworn a blood oath against Vrithorv for the destruction of their kin. They send assassins armed with enchanted ice weapons.
 
-**Svilthselda Ashenmaiden**—Though both serve Súrtr, their interpretations of the god's will differ sharply. Svilthselda sees Vrithorv's reckless aggression as a perversion of Súrtr's purifying flame, and the tension between them has nearly erupted into open conflict.
+**Svilthselda Ashenmaiden**—Though both serve Svartbrandr, their interpretations of the god's will differ sharply. Svilthselda sees Vrithorv's reckless aggression as a perversion of Svartbrandr's purifying flame, and the tension between them has nearly erupted into open conflict.
 
 ## Plot Hooks
 
-1. **The Frozen Heart**—A new Frost Giant warlord has emerged, bearing an artifact that can extinguish any flame. Vrithorv must find and destroy this weapon before it can be used against Súrtr's sacred fires.
+1. **The Frozen Heart**—A new Frost Giant warlord has emerged, bearing an artifact that can extinguish any flame. Vrithorv must find and destroy this weapon before it can be used against Svartbrandr's sacred fires.
 
-2. **The Dying Flame**—Vrithorv's supernatural resistance to fire is fading. The priests of the Flame Temple believe his connection to Súrtr is weakening and that he must undergo a dangerous trial within the volcano's caldera to renew his blessing—or die trying.
+2. **The Dying Flame**—Vrithorv's supernatural resistance to fire is fading. The priests of the Flame Temple believe his connection to Svartbrandr is weakening and that he must undergo a dangerous trial within the volcano's caldera to renew his blessing—or die trying.
 
-3. **Trial by Fire**—A village has been accused of heresy against Súrtr. Vrithorv is sent to carry out the judgment, but evidence suggests the accusation is false and politically motivated. He must choose between his fanatical devotion and his sense of justice.
+3. **Trial by Fire**—A village has been accused of heresy against Svartbrandr. Vrithorv is sent to carry out the judgment, but evidence suggests the accusation is false and politically motivated. He must choose between his fanatical devotion and his sense of justice.

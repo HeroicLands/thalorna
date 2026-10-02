@@ -367,9 +367,9 @@ Hvirnorv stands 5'10" with a gaunt, wasted frame that belies the terrible power 
 
 # Dossier {#dossier}
 
-Hvirnorv was once a powerful and malevolent human sorcerer dedicated to Hél, feared across the lands for his mastery of dark magic. Obsessed with the secrets of death, he delved into forbidden rituals, sacrificing countless innocents in his quest for power. His cruelty knew no bounds, and his name became synonymous with terror. Hvirnorv's ultimate goal was to transcend mortality itself. Hél offered him a chance to become one of her favored servants—a Nightwight, a [[being-tereb|tereb]] in the learned word—in return for his immortal soul. Hvirnorv eagerly accepted, embracing his new existence as a Helspawn sorcerer with even greater powers.
+Hvirnorv was once a powerful and malevolent human sorcerer dedicated to Náhild, feared across the lands for his mastery of dark magic. Obsessed with the secrets of death, he delved into forbidden rituals, sacrificing countless innocents in his quest for power. His cruelty knew no bounds, and his name became synonymous with terror. Hvirnorv's ultimate goal was to transcend mortality itself. Náhild offered him a chance to become one of her favored servants—a Nightwight, a [[being-tereb|tereb]] in the learned word—in return for his immortal soul. Hvirnorv eagerly accepted, embracing his new existence as a Helspawn sorcerer with even greater powers.
 
-The most infamous saga of Hvirnorv the Deathmage recounts his assault on a grand temple of Týr. Hél, desiring to undermine Týr's influence, tasked Hvirnorv with retrieving the Heart of Judgment, a relic said to discern and destroy evil. Hvirnorv created an army of Hélthralls—mindless Helspawn soldiers—and descended upon the temple under cover of night. The priests of Týr fought valiantly but were no match for Hvirnorv's necromantic powers. He confronted the High Priest, bound him in chains of shadow, desecrated the Heart of Judgment, and made the High Priest into the lowest of his Hélthralls, leaving the temple in ruins.
+The most infamous saga of Hvirnorv the Deathmage recounts his assault on a grand temple of Eidgar. Náhild, desiring to undermine Eidgar's influence, tasked Hvirnorv with retrieving the Heart of Judgment, a relic said to discern and destroy evil. Hvirnorv created an army of Hélthralls—mindless Helspawn soldiers—and descended upon the temple under cover of night. The priests of Eidgar fought valiantly but were no match for Hvirnorv's necromantic powers. He confronted the High Priest, bound him in chains of shadow, desecrated the Heart of Judgment, and made the High Priest into the lowest of his Hélthralls, leaving the temple in ruins.
 
 ## Psyche
 
@@ -379,7 +379,7 @@ Hvirnorv is cold, calculating, and utterly without remorse. He views living bein
 
 ### Motivation
 
-Hvirnorv seeks complete dominion over death itself, answering to no one—not even Hél. His service to the goddess is a means to an end; he gathers power and knowledge with the ultimate goal of transcending even undeath and becoming something entirely new. He is driven by a bottomless hunger for power and the conviction that mortality was a prison he has escaped only partially.
+Hvirnorv seeks complete dominion over death itself, answering to no one—not even Náhild. His service to the goddess is a means to an end; he gathers power and knowledge with the ultimate goal of transcending even undeath and becoming something entirely new. He is driven by a bottomless hunger for power and the conviction that mortality was a prison he has escaped only partially.
 
 ### Strengths
 
@@ -391,22 +391,22 @@ Hvirnorv's necromantic powers are staggering: he can raise armies of the dead, b
 
 ### Patrons
 
-**Hél herself**—The goddess of the underworld considers Hvirnorv her most effective mortal agent, though she is well aware of his ambitions. She provides him with dark power and commands while keeping a watchful eye on his loyalty.
+**Náhild herself**—The goddess of the underworld considers Hvirnorv her most effective mortal agent, though she is well aware of his ambitions. She provides him with dark power and commands while keeping a watchful eye on his loyalty.
 
-**The Nightwight Council**—A cabal of Helspawn lords who serve Hél and recognize Hvirnorv as their most powerful member. They provide him with Helspawn servants and intelligence.
+**The Nightwight Council**—A cabal of Helspawn lords who serve Náhild and recognize Hvirnorv as their most powerful member. They provide him with Helspawn servants and intelligence.
 
 ### Enemies
 
-**The Temple of Týr**—The entire faith of Týr has sworn to destroy Hvirnorv for the desecration of their temple. Their finest warriors and most powerful blessings are dedicated to this purpose.
+**The Temple of Eidgar**—The entire faith of Eidgar has sworn to destroy Hvirnorv for the desecration of their temple. Their finest warriors and most powerful blessings are dedicated to this purpose.
 
-**The Sinalë of Haulonna**—The Sinalë whose sanctuary was later devastated by Hluskmýl under Hvirnorv's indirect influence seek to eliminate all of Hél's champions.
+**The Sinalë of Haulonna**—The Sinalë whose sanctuary was later devastated by Hluskmýl under Hvirnorv's indirect influence seek to eliminate all of Náhild's champions.
 
-**Vraldorv One-Hand**—The champion of Týr views Hvirnorv as his ultimate quarry and has sworn a personal oath to bring the necromancer to justice.
+**Vraldorv One-Hand**—The champion of Eidgar views Hvirnorv as his ultimate quarry and has sworn a personal oath to bring the necromancer to justice.
 
 ## Plot Hooks
 
-1. **The Dark Resurrection**—Hvirnorv is attempting to raise an ancient dragon from death to serve as his ultimate weapon. The ritual requires components scattered across the northern lands, and agents of Týr race to destroy them before Hvirnorv can collect them all.
+1. **The Dark Resurrection**—Hvirnorv is attempting to raise an ancient dragon from death to serve as his ultimate weapon. The ritual requires components scattered across the northern lands, and agents of Eidgar race to destroy them before Hvirnorv can collect them all.
 
 2. **The Heart of Judgment**—The corrupted relic still contains a spark of its original divine power. A vision suggests that if it can be reclaimed and purified, it could be the key to destroying Hvirnorv permanently.
 
-3. **Nightwight Civil War**—Hvirnorv's ambition has drawn the suspicion of other Nightwight lords, who fear he plans to usurp Hél's authority. A power struggle among the Helspawn could be exploited—or could make things far worse.
+3. **Nightwight Civil War**—Hvirnorv's ambition has drawn the suspicion of other Nightwight lords, who fear he plans to usurp Náhild's authority. A power struggle among the Helspawn could be exploited—or could make things far worse.

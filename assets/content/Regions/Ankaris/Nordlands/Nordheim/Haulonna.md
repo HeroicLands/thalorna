@@ -19,11 +19,11 @@ The enclave was small by Sinalëan standards—perhaps a few hundred souls at it
 
 ## Destruction
 
-The fall of Haulonna is the most notorious deed of [[being-hlskmylsvrtrnr|Hluskmýl Svartrúnar]], a Nightwight necromancer—a [[being-tereb|tereb]], in the learned word—in the service of [[affiliation-nahild|Hél]]. The goddess tasked Hluskmýl with the enclave's destruction—whether as a strike against the living world, a test of her servant's power, or for reasons known only to the divine, no mortal can say.
+The fall of Haulonna is the most notorious deed of [[being-hlskmylsvrtrnr|Hluskmýl Svartrúnar]], a Nightwight necromancer—a [[being-tereb|tereb]], in the learned word—in the service of [[affiliation-nahild|Náhild]]. The goddess tasked Hluskmýl with the enclave's destruction—whether as a strike against the living world, a test of her servant's power, or for reasons known only to the divine, no mortal can say.
 
-Under cover of night, Hluskmýl pierced the enclave's ancient wards—a feat that should have been impossible for a mortal, even a Helspawn one, and which suggests Hél's direct intercession. Once inside, he carved black runes into the earth itself, corrupting the natural energies that bound the sanctuary together. The corruption spread like a sickness, twisting the ancient trees, poisoning the waters, and turning the wards that once protected the enclave into a cage that trapped its inhabitants.
+Under cover of night, Hluskmýl pierced the enclave's ancient wards—a feat that should have been impossible for a mortal, even a Helspawn one, and which suggests Náhild's direct intercession. Once inside, he carved black runes into the earth itself, corrupting the natural energies that bound the sanctuary together. The corruption spread like a sickness, twisting the ancient trees, poisoning the waters, and turning the wards that once protected the enclave into a cage that trapped its inhabitants.
 
-The Sinalë fought. Led by **Calenlass Vardamir**, a guardian of great age and power, they rallied to defend their home. But Hluskmýl's runic magic was specifically devastating to the natural and divine forces the Sinalë drew upon—their own magic turned against them, corrupted and weaponized. In a final confrontation, Calenlass faced Hluskmýl directly. The sorcerer, drawing upon the full power of Hél, shattered the Sinalo's star-staff—a blow that broke both the guardian and the last of the enclave's defenses.
+The Sinalë fought. Led by **Calenlass Vardamir**, a guardian of great age and power, they rallied to defend their home. But Hluskmýl's runic magic was specifically devastating to the natural and divine forces the Sinalë drew upon—their own magic turned against them, corrupted and weaponized. In a final confrontation, Calenlass faced Hluskmýl directly. The sorcerer, drawing upon the full power of Náhild, shattered the Sinalo's star-staff—a blow that broke both the guardian and the last of the enclave's defenses.
 
 Haulonna died that night. The ancient trees blackened and twisted. The clear waters turned dark. The spirits of the fallen Sinalë—scores of the Firstborn—were trapped in eternal torment, bound to the corrupted land by Hluskmýl's runes.
 
@@ -52,4 +52,4 @@ Among the Nordmen, the blight spreading from the corrupted valley has become a g
 - [[being-hlskmylsvrtrnr|Hluskmýl Svartrúnar]]—The Nightwight necromancer who destroyed the enclave
 - [[lore-flksinale|Sinalë]]—The Firstborn; the elder race that built and inhabited Haulonna
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]—The kingdom in whose deep interior Haulonna was hidden
-- [[affiliation-nahild|Faith of Hél]]—The goddess who commanded the enclave's destruction
+- [[affiliation-nahild|Faith of Náhild]]—The goddess who commanded the enclave's destruction

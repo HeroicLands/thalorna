@@ -366,13 +366,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Hvilgthýra stands 5'7" with an athletic, well-muscled frame, weighing about 160 pounds. Her fair skin is weathered from years of campaigning, and her dark blonde hair is arranged in tight warrior's braids close to her scalp. Her blue eyes are cool and assessing, revealing nothing she does not wish to show. Her features are strong and symmetrical, with high cheekbones, a straight nose, a firm jaw, and a wide mouth that rarely smiles. Battle scars mark her forearms and the backs of her hands, earned in countless engagements. She wears well-maintained mail over a quilted tunic and carries a shield covered in intricate runic engravings that seem to shift and glow in certain lights. A longsword hangs at her hip, and a carved bone pendant of Ódinn's ravens rests against her collarbone.
+Hvilgthýra stands 5'7" with an athletic, well-muscled frame, weighing about 160 pounds. Her fair skin is weathered from years of campaigning, and her dark blonde hair is arranged in tight warrior's braids close to her scalp. Her blue eyes are cool and assessing, revealing nothing she does not wish to show. Her features are strong and symmetrical, with high cheekbones, a straight nose, a firm jaw, and a wide mouth that rarely smiles. Battle scars mark her forearms and the backs of her hands, earned in countless engagements. She wears well-maintained mail over a quilted tunic and carries a shield covered in intricate runic engravings that seem to shift and glow in certain lights. A longsword hangs at her hip, and a carved bone pendant of Ódvar's ravens rests against her collarbone.
 
 # Dossier {#dossier}
 
-Hvilgthýra Knalthannsdóttir was the daughter of a mighty warrior, raised in the traditions of battle and the wisdom of the runes. From a young age, she was taught to balance the blade with the mind, learning the art of combat alongside the deeper mysteries of Ódinn's teachings. Known for her fierce spirit and sharp intellect, Hvilgthýra became a shieldmaiden feared by her enemies and respected by her allies. She carries a shield inscribed with powerful runes, which she believes to be a gift from Ódinn himself, guiding her through the chaos of battle.
+Hvilgthýra Knalthannsdóttir was the daughter of a mighty warrior, raised in the traditions of battle and the wisdom of the runes. From a young age, she was taught to balance the blade with the mind, learning the art of combat alongside the deeper mysteries of Ódvar's teachings. Known for her fierce spirit and sharp intellect, Hvilgthýra became a shieldmaiden feared by her enemies and respected by her allies. She carries a shield inscribed with powerful runes, which she believes to be a gift from Ódvar himself, guiding her through the chaos of battle.
 
-The saga of Hvilgthýra Knalthannsdóttir tells of her confrontation with the dread warlock Jarnvidr, who had enslaved a village with dark magic. The warlock's power was said to be unassailable, his knowledge of the dark arts unmatched. Hvilgthýra, however, knew that brute strength alone would not defeat such an opponent. She spent seven days and nights in meditation, seeking Ódinn's guidance, until she received a vision of the runes that could shatter Jarnvidr's spell. Armed with this knowledge, Hvilgthýra faced the warlock, using her shield to deflect his sorcery and her runes to break his hold over the village. In the end, it was her wisdom and faith in Ódinn's guidance that won the day, freeing the villagers and banishing Jarnvidr to the shadowy depths.
+The saga of Hvilgthýra Knalthannsdóttir tells of her confrontation with the dread warlock Jarnvidr, who had enslaved a village with dark magic. The warlock's power was said to be unassailable, his knowledge of the dark arts unmatched. Hvilgthýra, however, knew that brute strength alone would not defeat such an opponent. She spent seven days and nights in meditation, seeking Ódvar's guidance, until she received a vision of the runes that could shatter Jarnvidr's spell. Armed with this knowledge, Hvilgthýra faced the warlock, using her shield to deflect his sorcery and her runes to break his hold over the village. In the end, it was her wisdom and faith in Ódvar's guidance that won the day, freeing the villagers and banishing Jarnvidr to the shadowy depths.
 
 ## Psyche
 
@@ -396,7 +396,7 @@ Hvilgthýra is a formidable warrior whose runic shield provides both physical an
 
 **Eirik the Gray**—Her father, now retired from active combat but still influential among the northern clans. He provides counsel and connections, though their relationship is complicated by his disappointment that she chose the path of the runes over pure warriorship.
 
-**The Shrine of Ódinn at Ravenspeak**—The high priestess of this sacred site has taken a personal interest in Hvilgthýra's runic abilities and provides her with access to ancient texts and ritual spaces.
+**The Shrine of Ódvar at Ravenspeak**—The high priestess of this sacred site has taken a personal interest in Hvilgthýra's runic abilities and provides her with access to ancient texts and ritual spaces.
 
 ### Enemies
 
@@ -408,6 +408,6 @@ Hvilgthýra is a formidable warrior whose runic shield provides both physical an
 
 1. **The Warlock's Return**—Strange signs suggest that Jarnvidr's banishment may not have been permanent. Villagers near the site of his defeat report hearing whispers in the dark and seeing shadows that move against the wind. Hvilgthýra needs allies to investigate before the warlock can rebuild his power.
 
-2. **The Shield's Secret**—The runes on Hvilgthýra's shield have begun to glow with an unfamiliar light, and new symbols are appearing that she cannot read. An ancient text suggests the shield may be one of several artifacts that, when united, could open a gate to Ódinn's hall.
+2. **The Shield's Secret**—The runes on Hvilgthýra's shield have begun to glow with an unfamiliar light, and new symbols are appearing that she cannot read. An ancient text suggests the shield may be one of several artifacts that, when united, could open a gate to Ódvar's hall.
 
 3. **Blood Feud**—Thane Brosi has kidnapped a young girl who showed talent for the runes, intending to "correct" her. Hvilgthýra must rescue the girl while navigating the political complications of defying a powerful thane.

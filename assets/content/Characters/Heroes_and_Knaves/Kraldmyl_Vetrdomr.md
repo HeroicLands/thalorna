@@ -476,7 +476,7 @@ Kraldmýl is motivated by a desire to work at his craft with complete mastery, a
 
 - **The Builders' Collective**: An informal association of craftsmen engaged in major construction projects in Nordheim's cities depends on Kraldmýl for special timber that must meet exacting standards; they pay well and do not question his methods.
 
-- **High Priestess Sigrún**: The priestess of Thórr in the nearest settlement views Kraldmýl as a genuine worshipper of the storm god through his craft and occasionally calls upon him for advice on matters of practical implementation in temple construction.
+- **High Priestess Sigrún**: The priestess of Thrúnvald in the nearest settlement views Kraldmýl as a genuine worshipper of the storm god through his craft and occasionally calls upon him for advice on matters of practical implementation in temple construction.
 
 - **Alderman Bórrin**: The local administrative leader respects Kraldmýl's integrity and supports him against occasional attempts to regulate or control the forests from which he harvests.
 
@@ -492,7 +492,7 @@ Kraldmýl is motivated by a desire to work at his craft with complete mastery, a
 
 - **The Woodcutters' Guild**: Kraldmýl maintains his membership and pays his dues, though he has little involvement in guild politics and routinely skips guild meetings.
 
-- **The Followers of Thórr**: Though not a formal priest or member of any religious institution, Kraldmýl is widely recognized as a genuine worshipper of the storm god through his unwavering commitment to excellence and his acceptance of danger.
+- **The Followers of Thrúnvald**: Though not a formal priest or member of any religious institution, Kraldmýl is widely recognized as a genuine worshipper of the storm god through his unwavering commitment to excellence and his acceptance of danger.
 
 ## Plot Hooks
 

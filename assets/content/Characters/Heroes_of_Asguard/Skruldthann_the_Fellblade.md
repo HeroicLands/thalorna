@@ -370,9 +370,9 @@ Skruldthann stands 6'4" with a towering, heavily muscled frame, weighing well ov
 
 # Dossier {#dossier}
 
-Skruldthann was once a brutal and savage warrior, known for his unmatched strength and his love of slaughter. Born into a clan of raiders, he quickly rose to prominence through sheer ferocity, leading his people in bloody campaigns across the land. Skruldthann's insatiable hunger for violence eventually led him to worship Hél, drawn to her promise of eternal chaos. In his final battle as a mortal, Skruldthann was mortally wounded, but instead of succumbing to his injuries, he was reborn as a Nightwight—a [[being-tereb|tereb]], in the learned word—a towering figure of undeath with an unquenchable thirst for blood. Now empowered by Hél's dark magic, Skruldthann set out to create a legion of warriors as deadly and ruthless as he was.
+Skruldthann was once a brutal and savage warrior, known for his unmatched strength and his love of slaughter. Born into a clan of raiders, he quickly rose to prominence through sheer ferocity, leading his people in bloody campaigns across the land. Skruldthann's insatiable hunger for violence eventually led him to worship Náhild, drawn to her promise of eternal chaos. In his final battle as a mortal, Skruldthann was mortally wounded, but instead of succumbing to his injuries, he was reborn as a Nightwight—a [[being-tereb|tereb]], in the learned word—a towering figure of undeath with an unquenchable thirst for blood. Now empowered by Náhild's dark magic, Skruldthann set out to create a legion of warriors as deadly and ruthless as he was.
 
-The saga of Skruldthann the Fellblade tells of his campaign against a holy order of knights dedicated to Týr. Seeking to destroy those who upheld justice and order, Skruldthann began hunting the knights one by one, turning their bodies into Helspawn warriors who served his will. The climax of his campaign came when he laid siege to the knights' stronghold, wielding a cursed blade that could shatter steel. He led his forces in a relentless assault, slew the leader of the knights, and claimed the fortress as his own—a citadel of death from which he and his Nightwights launched raids on the surrounding lands.
+The saga of Skruldthann the Fellblade tells of his campaign against a holy order of knights dedicated to **Eidgar**. Seeking to destroy those who upheld justice and order, Skruldthann began hunting the knights one by one, turning their bodies into Helspawn warriors who served his will. The climax of his campaign came when he laid siege to the knights' stronghold, wielding a cursed blade that could shatter steel. He led his forces in a relentless assault, slew the leader of the knights, and claimed the fortress as his own—a citadel of death from which he and his Nightwights launched raids on the surrounding lands.
 
 ## Psyche
 
@@ -386,7 +386,7 @@ Skruldthann seeks to build an army that will conquer the entire northern coast, 
 
 ### Strengths
 
-Skruldthann is a devastating melee combatant whose cursed fellblade can shatter enchanted steel and drain the life force of those it wounds. As a Nightwight, he possesses supernatural strength, speed, and resilience. His army of Hélthralls and living raiders is the most organized military force in Hél's service, capable of conducting sustained campaigns rather than mere raids. His tactical instincts, honed over years of raiding, make him a formidable battlefield commander.
+Skruldthann is a devastating melee combatant whose cursed fellblade can shatter enchanted steel and drain the life force of those it wounds. As a Nightwight, he possesses supernatural strength, speed, and resilience. His army of Hélthralls and living raiders is the most organized military force in Náhild's service, capable of conducting sustained campaigns rather than mere raids. His tactical instincts, honed over years of raiding, make him a formidable battlefield commander.
 
 ## Social
 
@@ -394,7 +394,7 @@ Skruldthann is a devastating melee combatant whose cursed fellblade can shatter 
 
 ### Patrons
 
-**Hél**—The goddess finds Skruldthann useful as a blunt instrument of destruction and provides him with the dark energy to maintain and expand his Helspawn army.
+**Náhild**—The goddess finds Skruldthann useful as a blunt instrument of destruction and provides him with the dark energy to maintain and expand his Helspawn army.
 
 **Hvirnorv the Deathmage**—Though their relationship is tense, Hvirnorv provides Skruldthann with necromantic support and intelligence in exchange for military cooperation against mutual enemies.
 
@@ -402,7 +402,7 @@ Skruldthann is a devastating melee combatant whose cursed fellblade can shatter 
 
 **The Order of the Shining Shield**—A new knightly order risen from the ashes of the one Skruldthann destroyed. They have sworn to reclaim their lost fortress and avenge their fallen brothers.
 
-**Skalforv Thunderstrike**—The champion of Thórr views the Helspawn as an affront to the natural order and has clashed with Skruldthann's forces multiple times.
+**Skalforv Thunderstrike**—The champion of **Thrúnvald** views the Helspawn as an affront to the natural order and has clashed with Skruldthann's forces multiple times.
 
 ## Plot Hooks
 

@@ -367,9 +367,9 @@ Vruthvir stands 6'1" with a massive, heavily muscled frame, weighing around 240 
 
 # Dossier {#dossier}
 
-Vruthvir was a blacksmith's son, born with a strength that set him apart from other children. He was fascinated by the forge and the molten metal that flowed within it, seeing in it the raw power of Súrtr. As he grew, Vruthvir became a master blacksmith, forging weapons and armor that were said to be unbreakable. However, his true passion was for battle, where he could unleash the fire within him. He became known as Ironfist for his devastating blows, which could shatter shields and crush bones with ease.
+Vruthvir was a blacksmith's son, born with a strength that set him apart from other children. He was fascinated by the forge and the molten metal that flowed within it, seeing in it the raw power of **Svartbrandr**. As he grew, Vruthvir became a master blacksmith, forging weapons and armor that were said to be unbreakable. However, his true passion was for battle, where he could unleash the fire within him. He became known as Ironfist for his devastating blows, which could shatter shields and crush bones with ease.
 
-The saga of Vruthvir Ironfist is one of endurance and relentless fury. When an army of stone giants threatened his homeland, Vruthvir knew that only the fire of Súrtr could defeat them. He forged a mighty warhammer, imbued with the flames of his forge, and led his people into battle. The stone giants, immune to ordinary weapons, crumbled before Vruthvir's fiery strikes. However, the battle took its toll on Vruthvir, who was severely wounded and left for dead. Refusing to succumb, he crawled back to his forge, where he immersed himself in the flames, offering his life to Súrtr in exchange for the power to finish the battle. Súrtr answered, reigniting Vruthvir's spirit and giving him the strength to return to the battlefield, where he defeated the remaining giants with his warhammer blazing with the power of Súrtr himself.
+The saga of Vruthvir Ironfist is one of endurance and relentless fury. When an army of stone giants threatened his homeland, Vruthvir knew that only the fire of Svartbrandr could defeat them. He forged a mighty warhammer, imbued with the flames of his forge, and led his people into battle. The stone giants, immune to ordinary weapons, crumbled before Vruthvir's fiery strikes. However, the battle took its toll on Vruthvir, who was severely wounded and left for dead. Refusing to succumb, he crawled back to his forge, where he immersed himself in the flames, offering his life to Svartbrandr in exchange for the power to finish the battle. Svartbrandr answered, reigniting Vruthvir's spirit and giving him the strength to return to the battlefield, where he defeated the remaining giants with his warhammer blazing with the power of Svartbrandr himself.
 
 ## Psyche
 
@@ -379,7 +379,7 @@ Vruthvir is stoic and practical, a man who measures the world by what can be bui
 
 ### Motivation
 
-Vruthvir seeks to create a weapon worthy of Súrtr himself—a masterwork that will stand as his legacy long after his death. He believes that the fire of creation and the fire of destruction are the same flame, and that a true smith must understand both. The wounds from his battle with the stone giants never fully healed, and he knows his time as a warrior is limited, which drives him to work with increasing urgency.
+Vruthvir seeks to create a weapon worthy of Svartbrandr himself—a masterwork that will stand as his legacy long after his death. He believes that the fire of creation and the fire of destruction are the same flame, and that a true smith must understand both. The wounds from his battle with the stone giants never fully healed, and he knows his time as a warrior is limited, which drives him to work with increasing urgency.
 
 ### Strengths
 
@@ -407,4 +407,4 @@ Vruthvir's smithing skill is legendary; weapons and armor from his forge are pri
 
 2. **The Forge-Curse**—Someone has placed a curse on Vruthvir's forge, causing every weapon he creates to shatter within days. The culprit could be Kolbjorn, the stone giants, or something far more sinister.
 
-3. **The Last Battle**—Vruthvir's old wounds are worsening, and a healer has told him he has months to live. He seeks one final battle worthy of a servant of Súrtr—a death in fire and glory rather than a slow fade.
+3. **The Last Battle**—Vruthvir's old wounds are worsening, and a healer has told him he has months to live. He seeks one final battle worthy of a servant of Svartbrandr—a death in fire and glory rather than a slow fade.

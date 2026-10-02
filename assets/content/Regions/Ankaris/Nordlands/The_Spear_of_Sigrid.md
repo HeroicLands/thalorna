@@ -9,7 +9,7 @@ sohl: {system: {weightBase: 5, valueBase: 0, durabilityBase: 15}}
 ---
 
 One of the **three regalia** required to seal away [[being-njorven|Njörven]], with the
-[[miscgear-crwnwyrm|Crown of the Wyrm]] and the [[miscgear-hornnjordur|Horn of Njördur]].
+[[miscgear-crwnwyrm|Crown of the Wyrm]] and the [[miscgear-hornnjordur|Horn of Njörvar]].
 
 The Spear is hidden within an **ancient shrine**, guarded by a powerful **spirit guardian**, and it is
 the regalia whose recovery is most explicitly _not_ a fight.

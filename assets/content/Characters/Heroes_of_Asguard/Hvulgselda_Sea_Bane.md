@@ -367,19 +367,19 @@ Hvulgselda stands 5'8" with a strong, athletic frame, weighing about 155 pounds.
 
 # Dossier {#dossier}
 
-Hvulgselda was the daughter of a renowned shipbuilder, raised among the fjords and taught the ways of the sea from a young age. Her father often spoke of Thórr, the protector of sailors, and instilled in her a deep respect for the god of thunder. As she grew, Hvulgselda became a formidable sailor and warrior, known for her skill with both oar and axe. She took it upon herself to protect her people from the dangers of the sea, believing that Thórr had chosen her to defend them against the giants and monsters that lurked beneath the waves.
+Hvulgselda was the daughter of a renowned shipbuilder, raised among the fjords and taught the ways of the sea from a young age. Her father often spoke of **Thrúnvald**, the protector of sailors, and instilled in her a deep respect for the god of thunder. As she grew, Hvulgselda became a formidable sailor and warrior, known for her skill with both oar and axe. She took it upon herself to protect her people from the dangers of the sea, believing that Thrúnvald had chosen her to defend them against the giants and monsters that lurked beneath the waves.
 
-Hvulgselda's most famous saga tells of her journey to reclaim the lost Ship of Thunder, a legendary vessel said to be blessed by Thórr himself. The ship had been stolen by a band of marauding sea giants, who sought to use its power to conquer the coastal villages. Undeterred, Hvulgselda set sail in a small longboat, determined to reclaim the ship for Thórr. She tracked the giants to their lair on a storm-lashed island, where she single-handedly fought her way through their ranks, her axe striking with the force of a thunderbolt. Finally, she reached the Ship of Thunder and called upon Thórr's power to drive the giants into the sea. With the ship reclaimed, Hvulgselda sailed it back to her people, where it became a symbol of Thórr's protection and her own unyielding courage.
+Hvulgselda's most famous saga tells of her journey to reclaim the lost Ship of Thunder, a legendary vessel said to be blessed by Thrúnvald himself. The ship had been stolen by a band of marauding sea giants, who sought to use its power to conquer the coastal villages. Undeterred, Hvulgselda set sail in a small longboat, determined to reclaim the ship for Thrúnvald. She tracked the giants to their lair on a storm-lashed island, where she single-handedly fought her way through their ranks, her axe striking with the force of a thunderbolt. Finally, she reached the Ship of Thunder and called upon Thrúnvald's power to drive the giants into the sea. With the ship reclaimed, Hvulgselda sailed it back to her people, where it became a symbol of Thrúnvald's protection and her own unyielding courage.
 
 ## Psyche
 
 ### Personality
 
-Hvulgselda is fiercely independent and quick-tempered, with a sharp tongue that can cut as deeply as her axe. She is most at home on the water, where the rhythm of the waves calms her restless spirit. On land she grows irritable and claustrophobic, preferring open skies to roofed halls. Despite her rough exterior, Hvulgselda is deeply loyal to her crew and considers them family. She has a superstitious streak and follows dozens of sailor's rituals, refusing to sail on certain days or without performing specific rites to Thórr.
+Hvulgselda is fiercely independent and quick-tempered, with a sharp tongue that can cut as deeply as her axe. She is most at home on the water, where the rhythm of the waves calms her restless spirit. On land she grows irritable and claustrophobic, preferring open skies to roofed halls. Despite her rough exterior, Hvulgselda is deeply loyal to her crew and considers them family. She has a superstitious streak and follows dozens of sailor's rituals, refusing to sail on certain days or without performing specific rites to Thrúnvald.
 
 ### Motivation
 
-Hvulgselda seeks to make the northern seas safe for her people, hunting the monsters and pirates that prey on fishing vessels and traders. She dreams of sailing beyond the known waters to discover what lies at the edge of the world, believing that Thórr's protection will carry her further than any sailor has gone before. She also seeks to prove herself the equal of any male warrior, a struggle that never fully ends in the male-dominated seafaring culture.
+Hvulgselda seeks to make the northern seas safe for her people, hunting the monsters and pirates that prey on fishing vessels and traders. She dreams of sailing beyond the known waters to discover what lies at the edge of the world, believing that Thrúnvald's protection will carry her further than any sailor has gone before. She also seeks to prove herself the equal of any male warrior, a struggle that never fully ends in the male-dominated seafaring culture.
 
 ### Strengths
 
@@ -407,4 +407,4 @@ Hvulgselda is an exceptional sailor and navigator who can read the weather, curr
 
 2. **The Pirate Queen's Challenge**—Gunhild the Reaver has captured a fleet of merchant vessels and demands Hvulgselda face her in single ship-to-ship combat. Refusing would embolden every pirate on the northern seas.
 
-3. **The Ship's Voice**—The Ship of Thunder has begun speaking to Hvulgselda in her dreams, showing her visions of a great underwater temple. Whether this is Thórr's guidance or a trap set by the Deep Ones remains unclear.
+3. **The Ship's Voice**—The Ship of Thunder has begun speaking to Hvulgselda in her dreams, showing her visions of a great underwater temple. Whether this is Thrúnvald's guidance or a trap set by the Deep Ones remains unclear.

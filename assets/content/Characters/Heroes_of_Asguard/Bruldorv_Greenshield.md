@@ -367,9 +367,9 @@ Bruldorv stands 6'0" with a heavy, broad-shouldered frame, weighing about 210 po
 
 # Dossier {#dossier}
 
-Bruldorv was born into a family of farmers who lived in harmony with the land. From an early age, he showed an innate connection to nature, able to coax life from even the most barren soil. As he grew, he became known as Greenshield, a protector of the fields and forests, ensuring that the land remained fertile and that his people prospered. Bruldorv's dedication to Fréyr, the god of fertility, agriculture, peace, and healing, was evident in all he did. He became a leader in his community, teaching others to respect the earth and to live in harmony with it.
+Bruldorv was born into a family of farmers who lived in harmony with the land. From an early age, he showed an innate connection to nature, able to coax life from even the most barren soil. As he grew, he became known as Greenshield, a protector of the fields and forests, ensuring that the land remained fertile and that his people prospered. Bruldorv's dedication to Fródvin, the god of fertility, agriculture, peace, and healing, was evident in all he did. He became a leader in his community, teaching others to respect the earth and to live in harmony with it.
 
-The saga of Bruldorv Greenshield tells of his battle against a terrible drought that threatened to starve his people. For months, no rain fell, and the crops withered. Bruldorv journeyed deep into the ancient forest to find the Heart of the Wild, a sacred grove where Fréyr himself had once walked. He found the grove guarded by a fearsome beast—a manifestation of the drought's anger. Unarmed, Bruldorv faced the beast with nothing but his faith in Fréyr, calming its rage with words of peace. In a final act of devotion, Bruldorv offered his own life in exchange for the return of the rains. Moved by his selflessness, Fréyr granted him the power to heal the land without sacrifice.
+The saga of Bruldorv Greenshield tells of his battle against a terrible drought that threatened to starve his people. For months, no rain fell, and the crops withered. Bruldorv journeyed deep into the ancient forest to find the Heart of the Wild, a sacred grove where Fródvin himself had once walked. He found the grove guarded by a fearsome beast—a manifestation of the drought's anger. Unarmed, Bruldorv faced the beast with nothing but his faith in Fródvin, calming its rage with words of peace. In a final act of devotion, Bruldorv offered his own life in exchange for the return of the rains. Moved by his selflessness, Fródvin granted him the power to heal the land without sacrifice.
 
 ## Psyche
 
@@ -379,7 +379,7 @@ Bruldorv is warm, patient, and deeply connected to the rhythms of the natural wo
 
 ### Motivation
 
-Bruldorv seeks to ensure that the balance between humanity and nature is maintained, believing that the northern peoples have grown too focused on war and conquest and have forgotten their duty to the land that sustains them. He dreams of establishing a network of sacred groves throughout the north where Fréyr's blessings can protect the harvests and heal the wounded earth.
+Bruldorv seeks to ensure that the balance between humanity and nature is maintained, believing that the northern peoples have grown too focused on war and conquest and have forgotten their duty to the land that sustains them. He dreams of establishing a network of sacred groves throughout the north where Fródvin's blessings can protect the harvests and heal the wounded earth.
 
 ### Strengths
 
@@ -391,7 +391,7 @@ Bruldorv's connection to the earth gives him an intuitive understanding of agric
 
 ### Patrons
 
-**The Grove-Keepers of Fréyr**—A network of priests and druids who tend sacred groves throughout the northern lands. They recognize Bruldorv's special connection to Fréyr and provide him with knowledge, supplies, and ritual support.
+**The Grove-Keepers of Fródvin**—A network of priests and druids who tend sacred groves throughout the northern lands. They recognize Bruldorv's special connection to Fródvin and provide him with knowledge, supplies, and ritual support.
 
 **Jarl Astrid of Greenhollow**—A wise ruler who values Bruldorv's counsel on agricultural matters and has given him authority over the management of her lands' harvests.
 
@@ -399,12 +399,12 @@ Bruldorv's connection to the earth gives him an intuitive understanding of agric
 
 **The Ash Reavers**—Raiders who practice scorched earth tactics, burning fields and salting the land as they go. Bruldorv has sworn to stop them.
 
-**Svilthselda Ashenmaiden**—Though Svilthselda serves Súrtr with nobler intentions than most, her belief in purifying fire is antithetical to Bruldorv's dedication to growth and nurture. Their philosophical conflict has led to tense confrontations.
+**Svilthselda Ashenmaiden**—Though Svilthselda serves **Svartbrandr** with nobler intentions than most, her belief in purifying fire is antithetical to Bruldorv's dedication to growth and nurture. Their philosophical conflict has led to tense confrontations.
 
 ## Plot Hooks
 
-1. **The Dying Grove**—One of Fréyr's sacred groves is withering for no apparent reason. Bruldorv must discover the source of the corruption before it spreads to the surrounding farmland.
+1. **The Dying Grove**—One of Fródvin's sacred groves is withering for no apparent reason. Bruldorv must discover the source of the corruption before it spreads to the surrounding farmland.
 
-2. **The Harvest War**—Two settlements are fighting over a disputed tract of fertile land. Both claim Fréyr's blessing, and both are willing to kill to keep it. Bruldorv must find a way to resolve the dispute peacefully or choose a side.
+2. **The Harvest War**—Two settlements are fighting over a disputed tract of fertile land. Both claim Fródvin's blessing, and both are willing to kill to keep it. Bruldorv must find a way to resolve the dispute peacefully or choose a side.
 
-3. **The Seed of Life**—Bruldorv has learned of a legendary seed said to have been planted by Fréyr himself, capable of restoring life to any dead land. It is hidden in a place of great danger, and many forces seek it for their own purposes.
+3. **The Seed of Life**—Bruldorv has learned of a legendary seed said to have been planted by Fródvin himself, capable of restoring life to any dead land. It is hidden in a place of great danger, and many forces seek it for their own purposes.

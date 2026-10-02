@@ -405,7 +405,7 @@ Knarvir Járnskel was born to a family of skilled metalworkers and merchants in 
 
 Knarvir began to perceive spirits.
 
-Not the approved, formal contacts that the priests of Ódinn's Order of the All-Seeing Eye conducted through sanctioned ritual. Not the divine visions granted to the clergy as instruments of the God's will. But persistent, nearby presences—the spirits of the dead, the genius loci of places, the creatures of the unseen world. And worse, he found he could _communicate_ with them, that they came to him when he slipped into deep trances, that he could bargain with them and draw on their power.
+Not the approved, formal contacts that the priests of **Ódvar**'s Order of the All-Seeing Eye conducted through sanctioned ritual. Not the divine visions granted to the clergy as instruments of the God's will. But persistent, nearby presences—the spirits of the dead, the genius loci of places, the creatures of the unseen world. And worse, he found he could _communicate_ with them, that they came to him when he slipped into deep trances, that he could bargain with them and draw on their power.
 
 In [[place-nordheim|Nordheim]], for a man to practice seidr—the shamanic, spirit-walking arts—is to be branded _ergi_, unmanned, a serious cultural transgression. Seidr is women's work, the domain of völvur and seer-priestesses. The few men who practice it exist in a hidden underground, watched by both the official clergy and by society at large. Knarvir understood this immediately, and he chose to hide.
 
@@ -447,7 +447,7 @@ His relationship with the Panepistemium is entirely cynical: he uses their libra
 
 ### Enemies and Threats
 
-**Skaold Righteous**, a clerk within Ódinn's Order of the All-Seeing Eye, who has developed a personal crusade against "corruptions" in traditional practice. He is not yet investigating Knarvir specifically, but his inquiries are widening, and he has the authority and institutional backing to cause serious damage. The tension is building.
+**Skaold Righteous**, a clerk within Ódvar's Order of the All-Seeing Eye, who has developed a personal crusade against "corruptions" in traditional practice. He is not yet investigating Knarvir specifically, but his inquiries are widening, and he has the authority and institutional backing to cause serious damage. The tension is building.
 
 **The Unidentified Watcher**, a person or persons (Knarvir is uncertain which) who has been asking questions in Thraldfjord about Knarvir's past, his associates, his patterns of travel. These inquiries are subtle and indirect, which somehow makes them worse—they suggest that whoever is interested in him is patient and practiced, not a casual busybody. He has no idea who they are or what they want, which is the core of his current paranoia.
 

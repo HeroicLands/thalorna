@@ -448,7 +448,7 @@ Now thirty-one years old, Thraskorv represents an unique threat to his masters�
 
 Thraskorv is a man of contained fury and dangerous eloquence. He speaks little, having learned that words often precede punishment, but when he does speak, his observations cut through pretense with the clarity of a well-honed blade. He possesses a grim humor, finding dark comedy in the absurdity and cruelty of his situation. Those who know him well recognize that his silence masks an extraordinary mind—one that observes, catalogs, and strategizes constantly. He is not cruel by nature, and his anger is not misdirected at his fellow thralls; rather, it burns with singular focus toward his masters and the system that enslaves him.
 
-He is spiritually devoted to Týr, the god of order and law, though his faith has evolved into something complex and defiant. He believes that true order demands justice, and that the false order imposed by his enslavers is a perversion of divine law. He prays in secret, asking Týr to grant him strength and clarity, and to make him an instrument of the reordering that must come.
+He is spiritually devoted to **Eidgar**, the god of order and law, though his faith has evolved into something complex and defiant. He believes that true order demands justice, and that the false order imposed by his enslavers is a perversion of divine law. He prays in secret, asking Eidgar to grant him strength and clarity, and to make him an instrument of the reordering that must come.
 
 ### Motivation
 
@@ -472,7 +472,7 @@ Thraskorv is consumed by two intertwined motivations: the visceral desire for fr
 
 ### Patrons
 
-Thraskorv has no patrons in the traditional sense. His masters view him as property, not as a person worthy of patronage. However, a few figures in his world show him kindness: **Astrid the Healer**, a free woman who treats thrall injuries in secret, has become a quiet ally. She provides him with medical care and information, though both know the risks of their contact. **Father Rúnarr**, a traveling priest of Týr, once stayed at the estate and spoke with Thraskorv of divine justice—leaving him with a hidden talisman and words of encouragement that sustained him through dark years.
+Thraskorv has no patrons in the traditional sense. His masters view him as property, not as a person worthy of patronage. However, a few figures in his world show him kindness: **Astrid the Healer**, a free woman who treats thrall injuries in secret, has become a quiet ally. She provides him with medical care and information, though both know the risks of their contact. **Father Rúnarr**, a traveling priest of Eidgar, once stayed at the estate and spoke with Thraskorv of divine justice—leaving him with a hidden talisman and words of encouragement that sustained him through dark years.
 
 ### Enemies
 
@@ -482,7 +482,7 @@ Thraskorv has no patrons in the traditional sense. His masters view him as prope
 
 ### Affiliations
 
-Thraskorv is forbidden from formal associations, but he maintains unofficial connections: an informal network of thralls who share information about escape routes, a loose spiritual affinity with followers of Týr who believe in divine justice, and a dangerous proximity to whispers of resistance movements in distant lands.
+Thraskorv is forbidden from formal associations, but he maintains unofficial connections: an informal network of thralls who share information about escape routes, a loose spiritual affinity with followers of Eidgar who believe in divine justice, and a dangerous proximity to whispers of resistance movements in distant lands.
 
 ## Plot Hooks
 
@@ -490,7 +490,7 @@ Thraskorv is forbidden from formal associations, but he maintains unofficial con
 
 2. **The Forbidden Education**: **Halla Wordsmith**, an old slave brought to the estate, begins secretly teaching Thraskorv to read and write. If discovered, both would be executed. As Thraskorv's literacy grows, he begins to understand documents, ledgers, and correspondence—revealing corruption and cruelty that could be used as evidence. The knowledge becomes a weapon, but using it would require him to expose himself.
 
-3. **The Raid of the Unfree**: Rumors speak of a band of escaped thralls forming a guerrilla force in the mountain passes, striking at caravans and freeing enslaved peoples by force. They seek Thraskorv, believing his tactical mind and strength could transform their band from a nuisance into a genuine threat. He is approached with an offer to join—but doing so would sign his death warrant if captured, and would violate the sacred law in ways that might curse him with Týr.
+3. **The Raid of the Unfree**: Rumors speak of a band of escaped thralls forming a guerrilla force in the mountain passes, striking at caravans and freeing enslaved peoples by force. They seek Thraskorv, believing his tactical mind and strength could transform their band from a nuisance into a genuine threat. He is approached with an offer to join—but doing so would sign his death warrant if captured, and would violate the sacred law in ways that might curse him with Eidgar.
 
 4. **The Jarl's Ambitious Son**: Jarl Hrandorv's younger son, **Ivar the Scholar**, returns from studies in distant cities with revolutionary ideas about agricultural reform and labor management. He views Thraskorv not as property but as a potential collaborator and teacher. His interest in Thraskorv is genuine but dangerous—it could lead either to transformation of the estate or to Thraskorv being executed as a corrupting influence on the heir.
 
