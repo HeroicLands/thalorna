@@ -430,7 +430,7 @@ When his father died suddenly—struck down by fever when Hvalgvir was but twent
 
 At twenty-five, Hvalgvir took what savings he had gathered and purchased a modest building in the larger trading town of [[place-odholm|Ódholm]], where the crossroads of three major roads converged. The location was well chosen, but Hvalgvir's true genius lay in his understanding of what travelers and locals alike truly needed. He built a tavern that was also a sanctuary—a place where merchant princes and common folk could break bread together, where disputes were settled over shared drink rather than steel, where lonely wanderers could for a night feel the warmth of community.
 
-For nearly three decades, the Serpent's Hearth (named after his devotion to Týr) has been the center of Ódholm's life. Hvalgvir's ales are known throughout the kingdom; his cooking is spoken of in hushed, reverent tones; but most importantly, his establishment has become a refuge. During harsh winters, he has sheltered those with nowhere else to go. During conflicts, he has mediated between feuding families. During celebrations, his hall has echoed with the most joyful sounds any of his patrons have known.
+For nearly three decades, the Serpent's Hearth (named after his devotion to **Eidgar**) has been the center of Ódholm's life. Hvalgvir's ales are known throughout the kingdom; his cooking is spoken of in hushed, reverent tones; but most importantly, his establishment has become a refuge. During harsh winters, he has sheltered those with nowhere else to go. During conflicts, he has mediated between feuding families. During celebrations, his hall has echoed with the most joyful sounds any of his patrons have known.
 
 ### The Weight of Years
 
@@ -477,12 +477,12 @@ Hvalgvir's driving force is the belief that civilization itself rests upon small
 
 - **Keth Vetrdómr**: His brother, and a source of deep pain for Hvalgvir, his younger brother inherited the family brewery and has built it into a vast commercial empire. Yet Keth resents Hvalgvir's greater fame and community standing, and he has subtly worked to undermine his brother's reputation and business.
 - **Thane Hrandarukh**: A warlord of the northern territories who views the Serpent's Hearth as a den of spies and resistance, and has made veiled threats about bringing Hvalgvir and his establishment to heel.
-- **The Poison Cult of Vúlcan**: A heretical sect has begun to target Hvalgvir, viewing his worship of Týr and his work in promoting order as direct opposition to their chaotic spiritual vision. They have begun poisoning patrons who drink from his taproom.
+- **The Poison Cult of Vúlcan**: A heretical sect has begun to target Hvalgvir, viewing his worship of Eidgar and his work in promoting order as direct opposition to their chaotic spiritual vision. They have begun poisoning patrons who drink from his taproom.
 
 ### Affiliations
 
 - **The Innkeepers' Guild**: A formal organization whose meetings Hvalgvir attends, though he is often frustrated by their focus on profit over purpose.
-- **The Order of Týr's Justice**: An informal society of those devoted to the principle of fair judgment and order. Hvalgvir is considered one of their spiritual leaders, though he rarely claims the title.
+- **The Order of the Sworn Hand**: An informal society of those devoted to the principle of fair judgment and order. Hvalgvir is considered one of their spiritual leaders, though he rarely claims the title.
 - **The Ódholm Community Council**: An ad-hoc assembly of merchants, craftspeople, and concerned citizens who often meet at the Serpent's Hearth to discuss town matters.
 
 ## Plot Hooks

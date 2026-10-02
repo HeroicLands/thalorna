@@ -476,7 +476,7 @@ Vrildmýl is motivated by a desire that no one else should suffer what his famil
 ### Affiliations
 
 - **The Militia of Vithgard**: Vrildmýl's primary affiliation. He is a dedicated member and now a sergeant with increasing responsibility.
-- **The Followers of Týr**: Vrildmýl actively participates in worship of the god of order and justice, and his faith is sincere, not mere ritual.
+- **The Followers of Eidgar**: Vrildmýl actively participates in worship of the god of order and justice, and his faith is sincere, not mere ritual.
 - **[[being-dvrnvrhrfnsvld|Dvarnvir Hrafnsvald]] (Father)**: Vrildmýl's father, a former soldier turned tentmaker in Vithgard. Their relationship is complicated by years of absence during Vrildmýl's childhood and the unspoken weight of his mother's death. They see each other from time to time, and there is love beneath the tension, but reconciliation remains a work in progress.
 - **[[being-skrldthnhrfnsvld|Skraldthann Hrafnsvald]] (Uncle)**: Vrildmýl's uncle, a well-known clothier in the [[affiliation-kingdmnrgd|Kingdom of Norgaad]]. Though they live in different realms and lead very different lives, the family bond remains. [[being-skrldthnhrfnsvld|Skraldthann]]'s connections among nobility have occasionally proven useful, and Vrildmýl's martial reputation lends a certain rugged credibility to the Hrafnsvald name that his uncle quietly appreciates.
 

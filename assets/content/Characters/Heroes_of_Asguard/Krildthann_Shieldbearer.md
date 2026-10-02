@@ -367,9 +367,9 @@ Krildthann stands 6'0" with a broad, solidly built frame, weighing about 210 pou
 
 # Dossier {#dossier}
 
-Krildthann was a warrior dedicated to the protection of his clan and the upholding of justice. From a young age, he trained in the ways of combat, but his true calling was as a defender rather than an aggressor. Krildthann believed that a warrior's duty was not only to fight but to protect the weak and uphold the law. He carried a massive shield, said to be blessed by Týr himself, which he used to defend those who could not defend themselves. Krildthann became known as Shieldbearer for his unyielding defense of justice and his role in maintaining peace in his homeland.
+Krildthann was a warrior dedicated to the protection of his clan and the upholding of justice. From a young age, he trained in the ways of combat, but his true calling was as a defender rather than an aggressor. Krildthann believed that a warrior's duty was not only to fight but to protect the weak and uphold the law. He carried a massive shield, said to be blessed by **Eidgar** himself, which he used to defend those who could not defend themselves. Krildthann became known as Shieldbearer for his unyielding defense of justice and his role in maintaining peace in his homeland.
 
-The saga of Krildthann Shieldbearer tells of a time when a band of mercenaries threatened to overthrow a rightful clan leader. The mercenaries, known for their ruthlessness, laid siege to the settlement, intending to force the clan leader to surrender. Krildthann, standing alone at the gates, challenged the leader of the mercenaries to a duel, knowing that the fate of his people rested on his shoulders. With his shield in hand, Krildthann withstood the relentless attacks, deflecting blow after blow with the strength and precision granted by Týr. As the duel raged on, Krildthann saw an opening and struck the leader down, ending the siege and saving his people.
+The saga of Krildthann Shieldbearer tells of a time when a band of mercenaries threatened to overthrow a rightful clan leader. The mercenaries, known for their ruthlessness, laid siege to the settlement, intending to force the clan leader to surrender. Krildthann, standing alone at the gates, challenged the leader of the mercenaries to a duel, knowing that the fate of his people rested on his shoulders. With his shield in hand, Krildthann withstood the relentless attacks, deflecting blow after blow with the strength and precision granted by Eidgar. As the duel raged on, Krildthann saw an opening and struck the leader down, ending the siege and saving his people.
 
 ## Psyche
 
@@ -403,7 +403,7 @@ Krildthann's defensive combat style is nearly impenetrable; his ability to read 
 
 ## Plot Hooks
 
-1. **The Unbreakable Shield**—Krildthann's blessed shield has developed a crack for the first time. The priests of Týr believe it is a sign that the god is testing Krildthann's faith, or that a great evil is approaching that even divine protection cannot fully withstand.
+1. **The Unbreakable Shield**—Krildthann's blessed shield has developed a crack for the first time. The priests of Eidgar believe it is a sign that the god is testing Krildthann's faith, or that a great evil is approaching that even divine protection cannot fully withstand.
 
 2. **The Siege of Hornburg**—A fortress protecting refugees has come under siege by a vastly superior force. Krildthann must organize the defense and hold the walls long enough for reinforcements to arrive—if they come at all.
 

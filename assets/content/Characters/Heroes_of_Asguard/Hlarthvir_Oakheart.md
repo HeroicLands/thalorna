@@ -363,13 +363,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Hlarthvir stands 6'5" with a massive, towering frame, weighing well over 260 pounds. Since his transformation by Fréyr, his weathered skin has taken on a bark-like texture in places, particularly across his shoulders and forearms, and leaves sometimes sprout unbidden from his thick brown hair. His green eyes carry the deep, ancient quality of forest canopy—patient, watchful, and faintly luminous in dim light. His features are craggy and broad, with a heavy brow, a wide flat nose, a square jaw, and a mouth that has grown increasingly silent as his humanity fades. His hands are enormous, gnarled like old roots, and the scent of loam and green wood clings to him. Hlarthvir wears no armor, only simple garments of rough-spun cloth and leather that seem to blend with the forest around him. He carries a staff of living oak that has begun to put out green shoots in his grip.
+Hlarthvir stands 6'5" with a massive, towering frame, weighing well over 260 pounds. Since his transformation by **Fródvin**, his weathered skin has taken on a bark-like texture in places, particularly across his shoulders and forearms, and leaves sometimes sprout unbidden from his thick brown hair. His green eyes carry the deep, ancient quality of forest canopy—patient, watchful, and faintly luminous in dim light. His features are craggy and broad, with a heavy brow, a wide flat nose, a square jaw, and a mouth that has grown increasingly silent as his humanity fades. His hands are enormous, gnarled like old roots, and the scent of loam and green wood clings to him. Hlarthvir wears no armor, only simple garments of rough-spun cloth and leather that seem to blend with the forest around him. He carries a staff of living oak that has begun to put out green shoots in his grip.
 
 # Dossier {#dossier}
 
 Hlarthvir was born into a family of woodsmen, surrounded by the vast and ancient forests that his people revered as sacred. From a young age, he showed a deep connection to the trees and the creatures that dwelled within them. He spent his childhood learning the secrets of the forest—how to find water in the driest seasons, how to call to the animals, and how to heal the trees themselves. Hlarthvir grew into a giant of a man, both in stature and in spirit, earning the name Oakheart for his unwavering loyalty to the forest and his people.
 
-The saga of Hlarthvir Oakheart is one of courage and sacrifice. The forest he loved was threatened by fire-worms—creatures that burrowed into the heart of the trees, setting them ablaze from within. Hlarthvir called upon Fréyr and journeyed deep into the forest to the ancient Tree of Life, said to be the first tree ever planted by Fréyr. There he found the source of the fire-worms: a cursed artifact buried beneath the roots. Hlarthvir knew that removing the artifact would kill him, as the roots were intertwined with his own spirit. Without hesitation, he uprooted the cursed artifact, and the fire-worms vanished. Fréyr transformed him into a guardian spirit of the forest, ensuring his presence would protect the trees for all time.
+The saga of Hlarthvir Oakheart is one of courage and sacrifice. The forest he loved was threatened by fire-worms—creatures that burrowed into the heart of the trees, setting them ablaze from within. Hlarthvir called upon Fródvin and journeyed deep into the forest to the ancient Tree of Life, said to be the first tree ever planted by Fródvin. There he found the source of the fire-worms: a cursed artifact buried beneath the roots. Hlarthvir knew that removing the artifact would kill him, as the roots were intertwined with his own spirit. Without hesitation, he uprooted the cursed artifact, and the fire-worms vanished. Fródvin transformed him into a guardian spirit of the forest, ensuring his presence would protect the trees for all time.
 
 ## Psyche
 
@@ -379,7 +379,7 @@ Hlarthvir is quiet and gentle, a towering man whose soft-spoken manner belies hi
 
 ### Motivation
 
-Hlarthvir exists now as something between man and spirit, bound to the forest by Fréyr's transformation. He seeks to protect the ancient woodlands from all threats while struggling with the gradual loss of his humanity. He remembers his mortal life with increasing difficulty and fears that one day he will forget entirely what it meant to be human. He also seeks to understand the cursed artifact he destroyed and whether its creator might return with something worse.
+Hlarthvir exists now as something between man and spirit, bound to the forest by Fródvin's transformation. He seeks to protect the ancient woodlands from all threats while struggling with the gradual loss of his humanity. He remembers his mortal life with increasing difficulty and fears that one day he will forget entirely what it meant to be human. He also seeks to understand the cursed artifact he destroyed and whether its creator might return with something worse.
 
 ### Strengths
 

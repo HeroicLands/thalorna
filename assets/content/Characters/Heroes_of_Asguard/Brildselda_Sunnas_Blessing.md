@@ -367,7 +367,7 @@ Brildselda stands 5'6" with a medium, graceful frame, weighing about 140 pounds.
 
 # Dossier {#dossier}
 
-Brildselda was born during a solar eclipse, a sign of both great power and great responsibility. Her mother, a priestess of Fréyr, believed that Brildselda was chosen by the god to be a healer and bringer of light. As a child, Brildselda was taught the ways of healing, learning to use herbs, chants, and rituals to cure the sick and soothe the wounded. Her touch was said to bring warmth and life, and as she grew, she became known as Sunna's Blessing, a name that reflected her radiant presence. Brildselda dedicated her life to serving Fréyr by healing both people and the land.
+Brildselda was born during a solar eclipse, a sign of both great power and great responsibility. Her mother, a priestess of Fródvin, believed that Brildselda was chosen by the god to be a healer and bringer of light. As a child, Brildselda was taught the ways of healing, learning to use herbs, chants, and rituals to cure the sick and soothe the wounded. Her touch was said to bring warmth and life, and as she grew, she became known as Sunna's Blessing, a name that reflected her radiant presence. Brildselda dedicated her life to serving Fródvin by healing both people and the land.
 
 The saga of Brildselda Sunna's Blessing tells of her quest to heal a land blighted by war. After a long and bloody conflict, the once fertile fields had turned to ash and the rivers ran dry. Brildselda embarked on a perilous journey to the sacred mountain of Blómstjarna, where the waters of life were said to flow from the earth itself. Upon reaching the summit, she discovered the sacred waters guarded by a powerful spirit of the mountain. The spirit tested her resolve, and Brildselda, with humility and wisdom, offered her own life in exchange for the renewal of the land. Moved by her selflessness, the spirit allowed Brildselda to take the waters without harm. She returned to restore the land, and the fields bloomed once more.
 
@@ -379,7 +379,7 @@ Brildselda radiates a quiet warmth that puts even the most troubled souls at eas
 
 ### Motivation
 
-Brildselda seeks to heal not just individuals but the deep wounds that war and hatred have inflicted on the northern lands. She believes that Fréyr's power of renewal can mend even the most devastated landscapes and shattered communities. She is particularly driven to find ways to heal those affected by dark magic and Helspawn ([[lore-undead|undead]]) corruption, having seen too many people left beyond the reach of ordinary healing.
+Brildselda seeks to heal not just individuals but the deep wounds that war and hatred have inflicted on the northern lands. She believes that Fródvin's power of renewal can mend even the most devastated landscapes and shattered communities. She is particularly driven to find ways to heal those affected by dark magic and Helspawn ([[lore-undead|undead]]) corruption, having seen too many people left beyond the reach of ordinary healing.
 
 ### Strengths
 
@@ -391,7 +391,7 @@ Brildselda's healing abilities are extraordinary, combining deep knowledge of he
 
 ### Patrons
 
-**The Temple of Fréyr at Blómstjarna**—The temple at the sacred mountain considers Brildselda their most gifted healer and provides her with supplies, training, and access to their most closely guarded healing knowledge.
+**The Temple of Fródvin at Blómstjarna**—The temple at the sacred mountain considers Brildselda their most gifted healer and provides her with supplies, training, and access to their most closely guarded healing knowledge.
 
 **The Widows' Circle**—An informal network of women across the northern settlements who have lost family to war. They shelter and supply Brildselda during her travels in exchange for her healing services.
 
@@ -399,7 +399,7 @@ Brildselda's healing abilities are extraordinary, combining deep knowledge of he
 
 **Hvirnorv the Deathmage**—The necromancer views Brildselda's healing power as a direct threat to his Helspawn legions and has specifically targeted her for destruction.
 
-**The Blood Cult of Súrtr**—An extremist faction within Súrtr's faith that believes healing the land prevents the necessary purification by fire. They consider Brildselda a heretic against the natural order.
+**The Blood Cult of Svartbrandr**—An extremist faction within Svartbrandr's faith that believes healing the land prevents the necessary purification by fire. They consider Brildselda a heretic against the natural order.
 
 ## Plot Hooks
 

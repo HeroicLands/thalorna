@@ -423,7 +423,7 @@ Ralthýra stands 5'3" tall with a light build. She has fair pale skin, dark brow
 
 ### Early Years
 
-Ralthýra was born to a fisher's family in the coastal settlements of [[place-nordheim|Nordheim]], where the howling wind and crashing waves formed the soundtrack of her childhood. When she was but seven winters old, a devastating storm claimed both her parents at sea. She was taken in by a monastery dedicated to Thórr, where the monks recognized in her a gift for song that seemed to transcend mortal origin. For fifteen years, she learned to weave melodies into prayers, channeling her grief into sacred music that moved even the stoniest hearts to tears. The crescent moon was marked upon her neck at her coming-of-age, a blessing and a burden both.
+Ralthýra was born to a fisher's family in the coastal settlements of [[place-nordheim|Nordheim]], where the howling wind and crashing waves formed the soundtrack of her childhood. When she was but seven winters old, a devastating storm claimed both her parents at sea. She was taken in by a monastery dedicated to Thrúnvald, where the monks recognized in her a gift for song that seemed to transcend mortal origin. For fifteen years, she learned to weave melodies into prayers, channeling her grief into sacred music that moved even the stoniest hearts to tears. The crescent moon was marked upon her neck at her coming-of-age, a blessing and a burden both.
 
 ### The Breaking
 
@@ -443,7 +443,7 @@ Yet this very openness is both her greatest strength and her fatal weakness. She
 
 ### Motivation
 
-Ralthýra seeks not fortune nor fame, but redemption—both her own and that of others. She bears an unshakeable conviction that she was spared from the storm that claimed her parents for a purpose: to be a voice for the voiceless, a song of hope in the darkness that threatens to consume the forgotten. In her quiet moments, she whispers prayers to Thórr, not asking for deliverance, but asking how she might best serve those the gods seem to have abandoned. Every coin given to a hungry child, every tale preserved in song, every moment of human connection forged in the cold streets feels to her like a small victory against the encroaching tide of despair.
+Ralthýra seeks not fortune nor fame, but redemption—both her own and that of others. She bears an unshakeable conviction that she was spared from the storm that claimed her parents for a purpose: to be a voice for the voiceless, a song of hope in the darkness that threatens to consume the forgotten. In her quiet moments, she whispers prayers to Thrúnvald, not asking for deliverance, but asking how she might best serve those the gods seem to have abandoned. Every coin given to a hungry child, every tale preserved in song, every moment of human connection forged in the cold streets feels to her like a small victory against the encroaching tide of despair.
 
 ### Strengths
 
@@ -478,11 +478,11 @@ Ralthýra seeks not fortune nor fame, but redemption—both her own and that of 
 ### Affiliations
 
 - **The Street Chorus**: An informal network of street performers, buskers, and wandering minstrels who share information, performance spaces, and resources.
-- **The Devotees of Thórr's Storm**: Though she no longer affiliates with any formal temple, she maintains loose spiritual bonds with independent worshippers who honor the storm god.
+- **The Devotees of Thrúnvald's Storm**: Though she no longer affiliates with any formal temple, she maintains loose spiritual bonds with independent worshippers who honor the storm god.
 
 ## Plot Hooks
 
-1. **The Singing Stone**: A scholar seeking Ralthýra claims that ancient texts describe a legendary artifact—the Singing Stone of Asgard—whose power can only be awakened through a voice of perfect purity. He believes Ralthýra is the key to recovering it from a temple buried beneath Nordheim's oldest districts. What he doesn't know is that darker forces have also caught wind of this rumor, and they would sacrifice far more than ancient stone to possess such power. Ralthýra must navigate the intersection of faith, greed, and ancient magic.
+1. **The Singing Stone**: A scholar seeking Ralthýra claims that ancient texts describe a legendary artifact—the Singing Stone of Asguard—whose power can only be awakened through a voice of perfect purity. He believes Ralthýra is the key to recovering it from a temple buried beneath Nordheim's oldest districts. What he doesn't know is that darker forces have also caught wind of this rumor, and they would sacrifice far more than ancient stone to possess such power. Ralthýra must navigate the intersection of faith, greed, and ancient magic.
 
 2. **Memory in Melody**: A mysterious figure approaches Ralthýra, offering substantial coin to help recover a stolen musical score said to contain encrypted messages crucial to a political uprising. The requester claims the oppressed people of a neighboring kingdom depend on her aid. Yet accepting this task would make Ralthýra an unwitting pawn in a conflict between nobles, and the true contents of the score—and the true intended use of its decryption—remain obscure and potentially devastating.
 
@@ -490,4 +490,4 @@ Ralthýra seeks not fortune nor fame, but redemption—both her own and that of 
 
 4. **The Child of Storm**: A young orphan appears in the streets, displaying an uncanny ability to predict coming storms with disturbing accuracy. The child becomes attached to Ralthýra, and soon it becomes apparent the monastery—and perhaps darker forces—are searching for the child with considerable urgency. Ralthýra must decide whether protecting this mysterious youth is worth becoming a fugitive herself.
 
-5. **The Silent Singer's Last Song**: An elderly bard, one of Nordheim's few remaining living legends, seeks out Ralthýra specifically, claiming he has trained his entire life to recognize a specific prophecy written in a long-lost saga. According to his interpretation, a singer marked with the crescent moon of Thórr will either be the salvation or the doom of Nordheim in the coming age of darkness. He asks for her help in deciphering which, and whether she has the courage to accept what the answer might demand of her.
+5. **The Silent Singer's Last Song**: An elderly bard, one of Nordheim's few remaining living legends, seeks out Ralthýra specifically, claiming he has trained his entire life to recognize a specific prophecy written in a long-lost saga. According to his interpretation, a singer marked with the crescent moon of Thrúnvald will either be the salvation or the doom of Nordheim in the coming age of darkness. He asks for her help in deciphering which, and whether she has the courage to accept what the answer might demand of her.

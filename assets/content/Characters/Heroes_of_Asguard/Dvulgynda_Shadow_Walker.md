@@ -367,9 +367,9 @@ Dvulgynda stands 5'4" with a slight, compact frame, weighing about 115 pounds. H
 
 # Dossier {#dossier}
 
-Dvulgynda was born with a talent for stealth and misdirection, traits that served her well in a world where strength was often valued above all else. She learned early on that her sharp mind and quick reflexes could be just as powerful as any sword, and she honed her skills as a thief and spy. Dvulgynda's natural affinity for slipping unnoticed through the shadows and her ability to play people against one another caught the attention of Lôki, who saw in her a kindred spirit and began to guide her toward greater and more daring exploits.
+Dvulgynda was born with a talent for stealth and misdirection, traits that served her well in a world where strength was often valued above all else. She learned early on that her sharp mind and quick reflexes could be just as powerful as any sword, and she honed her skills as a thief and spy. Dvulgynda's natural affinity for slipping unnoticed through the shadows and her ability to play people against one another caught the attention of Vélgrímr, who saw in her a kindred spirit and began to guide her toward greater and more daring exploits.
 
-The saga of Dvulgynda Shadow-Walker tells of her greatest heist, in which she stole the Crown of Ages from the well-guarded vault of a powerful jarl. The crown, said to grant its wearer immense wisdom and longevity, was kept under constant watch. Dvulgynda infiltrated the jarl's keep, bypassing every obstacle with Lôki's cunning, played the guards against one another, and used the jarl's own weaknesses to reach the vault. When she finally had the Crown of Ages, she did not keep it—she left it with a rival jarl, knowing the resulting conflict would plunge the region into chaos. As the two jarls fought for control of the crown, Dvulgynda vanished into the shadows.
+The saga of Dvulgynda Shadow-Walker tells of her greatest heist, in which she stole the Crown of Ages from the well-guarded vault of a powerful jarl. The crown, said to grant its wearer immense wisdom and longevity, was kept under constant watch. Dvulgynda infiltrated the jarl's keep, bypassing every obstacle with Vélgrímr's cunning, played the guards against one another, and used the jarl's own weaknesses to reach the vault. When she finally had the Crown of Ages, she did not keep it—she left it with a rival jarl, knowing the resulting conflict would plunge the region into chaos. As the two jarls fought for control of the crown, Dvulgynda vanished into the shadows.
 
 ## Psyche
 
@@ -393,7 +393,7 @@ Dvulgynda's stealth abilities border on the supernatural; she can move through g
 
 **The Shadow Market**—An underground network of thieves, fences, and information brokers who provide Dvulgynda with contracts, intelligence, and a market for her acquisitions.
 
-**Lôki**—The god of cunning takes a personal interest in Dvulgynda's exploits, occasionally providing supernatural aid in the form of enhanced stealth or lucky coincidences.
+**Vélgrímr**—The god of cunning takes a personal interest in Dvulgynda's exploits, occasionally providing supernatural aid in the form of enhanced stealth or lucky coincidences.
 
 ### Enemies
 
