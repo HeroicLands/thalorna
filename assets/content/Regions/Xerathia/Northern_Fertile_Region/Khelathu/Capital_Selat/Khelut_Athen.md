@@ -4,8 +4,20 @@ name: {full: Khelut-Athen, aliases: []}
 type: place
 subType: settlement
 description: "A hinterland village of the Capital Selat, rendering grain and beer to Galezkara and its temples"
-tags: [generated]
-data: {packFolder: regkhsett, banner: khelathubnr}
+tags: [generated, draft]
+data:
+  demonym: null
+  lore: []
+  parents: [galezkaraslt]
+  population: 0
+  packFolder: regkhsett
+  banner: khelathubnr
 ---
 
-A hinterland village of the Capital Selat, rendering grain and beer to Galezkara and its temples. Its fields lie close enough to the city that its people go in and out by barge in a morning.
+## Overview
+
+Khelut-Athen farms the country of [[place-galezkaraslt|Galezkara Selat]] close enough to [[place-galezkara|Galezkara]] that its people go in and out by barge within a morning. It renders grain and beer to the capital and its temples before it keeps anything back for itself. Living this near the city means the temples' agents know the village's fields as well as its own farmers do.
+
+## See Also
+
+TBD.
