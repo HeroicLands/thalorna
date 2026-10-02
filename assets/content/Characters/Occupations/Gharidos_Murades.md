@@ -24,7 +24,7 @@ data:
     eye_color: hazel
     hair_color: brown
     skin_color: medium
-    complexion: bronzed
+    complexion: sun_kissed
     extra_features: []
   packFolder: helladhelionis
 sohl:

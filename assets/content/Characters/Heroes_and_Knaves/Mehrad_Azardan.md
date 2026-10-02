@@ -23,7 +23,7 @@ data:
   appearance:
     eye_color: green
     hair_color: black
-    skin_color: warm
+    skin_color: olive
     complexion: null
     extra_features: [a scar on the lower abdomen]
   packFolder: sultanateofamradad

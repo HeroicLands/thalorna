@@ -23,8 +23,8 @@ data:
   appearance:
     eye_color: brown
     hair_color: dark_brown
-    skin_color: warm
-    complexion: bronzed
+    skin_color: tawny
+    complexion: sun_kissed
     extra_features: [a scar on the left knee]
   packFolder: aureldiatarvenia
 sohl:

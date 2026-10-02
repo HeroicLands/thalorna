@@ -200,20 +200,118 @@ data:
     being-kaldas: rival
 ```
 
-**Gender, frame and the appearance colours each hold one value from a closed list.** A field left unset — absent, `null` or `""` — says the detail is unrecorded; a stated value comes from this table, and `npm run lint` fails on anything else.
+**Gender, frame and the appearance colours each hold one value from a closed list.** They belong to `character` and `npc` beings; a `creature` states none of them. A field left unset — absent, `null` or `""` — says the detail is unrecorded. The English column is the words a reader meets, and the third column is what the value means, because several of these are words people use loosely.
 
-| Field                        | Permitted values                                                                                                                                                                                                     |
-| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `data.gender`                | `female`, `male`, `nonbinary`, `none`, `other`                                                                                                                                                                       |
-| `data.frame`                 | `scant`, `light`, `medium`, `heavy`, `massive`                                                                                                                                                                       |
-| `data.appearance.eye_color`  | `amber`, `black`, `blue`, `brown`, `dark_amber`, `dark_brown`, `gray`, `green`, `hazel`, `honey_brown`, `violet`, `warm_brown`                                                                                       |
-| `data.appearance.hair_color` | `auburn`, `bald`, `black`, `blonde`, `brown`, `chestnut`, `dark_blonde`, `dark_brown`, `gray`, `graying_black`, `graying_brown`, `red`, `silver`, `white`                                                            |
-| `data.appearance.skin_color` | `dark`, `dark_brown`, `ebony`, `fair`, `golden`, `light`, `medium`, `olive`, `olive_tanned`, `pale`, `rich_brown`, `tanned`, `tawny`, `warm`, `warm_golden`                                                          |
-| `data.appearance.complexion` | `battle_scarred`, `bronzed`, `clear`, `dusky`, `fair`, `flawless`, `freckled`, `olive_toned`, `pale`, `rough`, `ruddy`, `rugged`, `sallow`, `smooth`, `sun_kissed`, `sun_scarred`, `tanned`, `weathered`, `wrinkled` |
+#### `data.gender`
 
-`gender` takes `none` for a being that has no gender and `other` for one these words do not fit. `frame` runs from `scant` to `massive` and describes build rather than bulk, so it is read beside the being's height and weight. `skin_color` is the tone; `complexion` is the finish over it — the cast and condition of the face, and what weather, work or injury have made of it. `data.appearance.extra_features` is free text and carries everything the five fields cannot: scars, tattoos, a limp, a missing finger, the way someone holds themselves.
+| Value       | English   | What it means                                                      |
+| ----------- | --------- | ------------------------------------------------------------------ |
+| `female`    | Female    | Female.                                                            |
+| `male`      | Male      | Male.                                                              |
+| `nonbinary` | Nonbinary | Neither male nor female.                                           |
+| `none`      | None      | The being has no gender, as against one that is simply unrecorded. |
+| `other`     | Other     | A gender none of these words fits.                                 |
 
-A value outside the table is a decision, not a convenience. Widening a list means editing this table and the registry in `utils/being-appearance.mjs` together; `npm run lint:being-appearance` compares the two and fails when they disagree. Any key under `data.appearance` other than the five above fails as well, so a misspelled field name is caught rather than ignored.
+#### `data.frame`
+
+| Value     | English | What it means                                 |
+| --------- | ------- | --------------------------------------------- |
+| `scant`   | Scant   | Very thin, with little flesh over the bone.   |
+| `light`   | Light   | Slender, narrow through shoulder and hip.     |
+| `medium`  | Medium  | The ordinary build, neither slight nor heavy. |
+| `heavy`   | Heavy   | Broad and solid, in muscle or in flesh.       |
+| `massive` | Massive | Exceptionally large in frame.                 |
+
+#### `data.appearance.eye_color`
+
+| Value        | English    | What it means                                                                                  |
+| ------------ | ---------- | ---------------------------------------------------------------------------------------------- |
+| `amber`      | Amber      | Golden or coppery, with no grey or green in it; the honey-toned eye.                           |
+| `blue`       | Blue       | Unmixed blue, from pale ice to deep sea.                                                       |
+| `brown`      | Brown      | Mid-brown, the iris pattern still legible in ordinary light.                                   |
+| `dark_brown` | Dark Brown | Brown so deep the iris barely separates from the pupil. Ordinary description calls this black. |
+| `gray`       | Gray       | Grey or grey-blue, cool and without green.                                                     |
+| `green`      | Green      | Green dominant, with no brown ring worth naming.                                               |
+| `hazel`      | Hazel      | Brown and green together, often shifting with the light; the commonest mixed eye.              |
+| `violet`     | Violet     | The pink-violet of an iris carrying no pigment.                                                |
+
+#### `data.appearance.hair_color`
+
+| Value           | English       | What it means                                                             |
+| --------------- | ------------- | ------------------------------------------------------------------------- |
+| `auburn`        | Auburn        | Red-brown with the red dominant.                                          |
+| `black`         | Black         | True black, with no brown cast in sunlight.                               |
+| `blonde`        | Blonde        | Light yellow, from near-white to wheat.                                   |
+| `brown`         | Brown         | Mid-brown, neither dark nor reddish.                                      |
+| `chestnut`      | Chestnut      | Mid-brown with a red cast, the brown dominant — between brown and auburn. |
+| `dark_blonde`   | Dark Blonde   | Blonde darkened towards light brown.                                      |
+| `dark_brown`    | Dark Brown    | Brown approaching black, still brown in sunlight.                         |
+| `gray`          | Gray          | Grey throughout, the original colour no longer legible.                   |
+| `graying_black` | Graying Black | Black still dominant, grey coming in.                                     |
+| `graying_brown` | Graying Brown | Brown still dominant, grey coming in.                                     |
+| `red`           | Red           | Ginger or copper, the red unmixed with brown.                             |
+| `silver`        | Silver        | Grey with a bright metallic sheen rather than a dull cast.                |
+| `white`         | White         | Wholly white, whether from age or from carrying no pigment.               |
+
+#### `data.appearance.skin_color`
+
+| Value        | English    | What it means                                                                     |
+| ------------ | ---------- | --------------------------------------------------------------------------------- |
+| `pale`       | Pale       | The lightest skin, which burns rather than browns; also skin carrying no pigment. |
+| `fair`       | Fair       | Light with a pink cast, burning before it browns.                                 |
+| `light`      | Light      | Light and neutral, browning without burning readily.                              |
+| `medium`     | Medium     | Neither light nor dark, with no strong cast either way.                           |
+| `olive`      | Olive      | Medium with a green-grey cast.                                                    |
+| `tawny`      | Tawny      | Light brown, warm rather than olive.                                              |
+| `golden`     | Golden     | Light to medium with a yellow cast.                                               |
+| `tanned`     | Tanned     | Medium, darkened by sun rather than by birth.                                     |
+| `brown`      | Brown      | Mid-brown.                                                                        |
+| `dark_brown` | Dark Brown | Deep brown.                                                                       |
+| `ebony`      | Ebony      | The darkest skin, near-black.                                                     |
+
+#### `data.appearance.complexion`
+
+| Value         | English     | What it means                                                                                                                                       |
+| ------------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `ashen`       | Ashen       | Grey and drained; the skin of serious illness, shock or terror.                                                                                     |
+| `blotchy`     | Blotchy     | Uneven in colour, patched red or pale.                                                                                                              |
+| `chapped`     | Chapped     | Reddened and cracked by cold and wind.                                                                                                              |
+| `clear`       | Clear       | Free of blemish, mark or broken vessel.                                                                                                             |
+| `freckled`    | Freckled    | Freckled, in patches or across the whole face.                                                                                                      |
+| `jaundiced`   | Jaundiced   | Yellowed, the colour a failing liver gives.                                                                                                         |
+| `leathery`    | Leathery    | Thickened and toughened by years of exposure.                                                                                                       |
+| `oily`        | Oily        | Carrying a greasy sheen.                                                                                                                            |
+| `pasty`       | Pasty       | Pale and doughy; the skin of indoor work and poor feeding.                                                                                          |
+| `pimpled`     | Pimpled     | Presently broken out, with pimples at brow, cheek or jaw.                                                                                           |
+| `pockmarked`  | Pockmarked  | Pitted by pox, or by deep pimples long since healed.                                                                                                |
+| `rough`       | Rough       | Coarse in texture, without the wear of outdoor work.                                                                                                |
+| `ruddy`       | Ruddy       | High colour at cheek and nose, from weather, drink or constitution.                                                                                 |
+| `sallow`      | Sallow      | Yellowish and bloodless.                                                                                                                            |
+| `scabrous`    | Scabrous    | Rough and scaling, the skin of a lasting complaint such as eczema.                                                                                  |
+| `scarred`     | Scarred     | Marked by healed wounds. `extra_features` says where and from what.                                                                                 |
+| `smooth`      | Smooth      | Even in texture, whatever marks it carries.                                                                                                         |
+| `sun_kissed`  | Sun-Kissed  | Browned by sun on skin not naturally that dark.                                                                                                     |
+| `sunburnt`    | Sunburnt    | Presently burned, red and peeling.                                                                                                                  |
+| `translucent` | Translucent | So pale the vessels show through.                                                                                                                   |
+| `vitiligo`    | Vitiligo    | Patched with white where the skin has lost its colour, most often at face, hands and mouth. The tone it has lost is still what `skin_color` states. |
+| `wan`         | Wan         | Pale and drained; the skin of exhaustion or convalescence.                                                                                          |
+| `weathered`   | Weathered   | Worn and lined by sun and wind; the skin of outdoor work.                                                                                           |
+| `wrinkled`    | Wrinkled    | Deeply lined by age.                                                                                                                                |
+
+`skin_color` is the tone the being was born with, or acquired from the sun in the case of `tanned`. **`complexion` is the skin's condition and never its colour** — what health, weather, work and age have made of it. That division is what makes the two readable separately: a question about colour is answered by `skin_color` alone.
+
+**A complexion may hold several values.** A face carries more than one condition at once — weathered and ruddy, pockmarked and leathery — so `complexion` takes either one value or a list of them, and one value means a list of one. Every entry comes from the table, and no entry is repeated. `clear` says the skin carries no mark, so it does not stand beside `blotchy`, `freckled`, `pimpled`, `pockmarked`, `scabrous` or `scarred`.
+
+```yaml
+complexion: weathered
+complexion: [weathered, ruddy, scarred]
+```
+
+Albinism is four values together: `white` hair, `violet` eyes, `pale` skin and a `translucent` complexion. Vitiligo is one: a `complexion` of `vitiligo` beside whatever tone `skin_color` states, because the patches sit on a skin that still has its colour.
+
+`data.appearance.extra_features` is free text and carries everything the closed fields cannot: a bald head, a scar and where it runs, a tattoo and what it shows, a limp, a missing finger, the way someone holds themselves.
+
+A value outside these tables is a decision, not a convenience. Widening a list means editing the table and the registry in `utils/being-appearance.mjs` together; `npm run lint:being-appearance` compares the two, values and English both, and requires a definition for every value. Any key under `data.appearance` other than the five above fails as well, so a misspelled field name is caught rather than ignored.
 
 Every being uses these **H1 headings with their anchors intact**:
 

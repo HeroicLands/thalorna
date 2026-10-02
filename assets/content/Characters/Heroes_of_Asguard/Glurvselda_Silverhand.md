@@ -24,7 +24,7 @@ data:
     eye_color: green
     hair_color: silver
     skin_color: medium
-    complexion: fair
+    complexion: null
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

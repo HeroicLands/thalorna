@@ -24,7 +24,7 @@ data:
     eye_color: brown
     hair_color: white
     skin_color: light
-    complexion: bronzed
+    complexion: sun_kissed
     extra_features: []
   packFolder: aureldiaprovenzia
 sohl:

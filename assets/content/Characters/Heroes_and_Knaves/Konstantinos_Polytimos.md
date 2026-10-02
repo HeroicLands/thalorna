@@ -24,7 +24,7 @@ data:
     eye_color: brown
     hair_color: dark_brown
     skin_color: tawny
-    complexion: tanned
+    complexion: sun_kissed
     extra_features: []
   packFolder: helladbyzaria
 sohl:

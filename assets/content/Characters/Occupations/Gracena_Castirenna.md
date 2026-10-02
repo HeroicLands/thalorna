@@ -24,7 +24,7 @@ data:
     eye_color: green
     hair_color: dark_blonde
     skin_color: olive
-    complexion: tanned
+    complexion: sun_kissed
     extra_features: [missing tooth]
   packFolder: aureldiatarvenia
 sohl:

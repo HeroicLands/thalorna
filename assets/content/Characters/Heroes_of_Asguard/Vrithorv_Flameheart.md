@@ -24,7 +24,7 @@ data:
     eye_color: amber
     hair_color: brown
     skin_color: tanned
-    complexion: battle_scarred
+    complexion: scarred
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

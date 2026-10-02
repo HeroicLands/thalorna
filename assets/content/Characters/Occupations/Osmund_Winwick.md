@@ -24,7 +24,7 @@ data:
     eye_color: green
     hair_color: auburn
     skin_color: light
-    complexion: fair
+    complexion: null
     extra_features: [a scar on the right hand]
   packFolder: aureldiaaelwyth
 sohl:

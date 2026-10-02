@@ -21,10 +21,10 @@ data:
   weight: 77
   frame: medium
   appearance:
-    eye_color: warm_brown
+    eye_color: brown
     hair_color: auburn
     skin_color: fair
-    complexion: bronzed
+    complexion: sun_kissed
     extra_features: [prominent scar on neck]
   packFolder: aureldiaelavendre
 sohl:

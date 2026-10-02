@@ -25,7 +25,7 @@ data:
     eye_color: hazel
     hair_color: brown
     skin_color: fair
-    complexion: pale
+    complexion: null
     extra_features: [startlingly beautiful, unnervingly still gaze, moves with an uncanny grace]
   packFolder: midhalionvylaria
 sohl:

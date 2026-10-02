@@ -24,7 +24,7 @@ data:
     eye_color: dark_brown
     hair_color: gray
     skin_color: medium
-    complexion: olive_toned
+    complexion: null
     extra_features: [a tattoo of a heart on the chest]
   packFolder: midhalionvylaria
 sohl:

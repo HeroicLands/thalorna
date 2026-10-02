@@ -21,10 +21,10 @@ data:
   weight: 52
   frame: scant
   appearance:
-    eye_color: honey_brown
+    eye_color: amber
     hair_color: red
     skin_color: fair
-    complexion: fair
+    complexion: null
     extra_features: [tattoo on arm]
   packFolder: midhalionvylaria
 sohl:

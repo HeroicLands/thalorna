@@ -24,7 +24,7 @@ data:
     eye_color: green
     hair_color: dark_brown
     skin_color: fair
-    complexion: pale
+    complexion: null
     extra_features: [a tattoo of a crescent moon on the neck]
   packFolder: ankarisnordlands
 sohl:

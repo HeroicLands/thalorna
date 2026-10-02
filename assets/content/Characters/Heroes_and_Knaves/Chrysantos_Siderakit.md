@@ -24,7 +24,7 @@ data:
     eye_color: dark_brown
     hair_color: black
     skin_color: light
-    complexion: pale
+    complexion: null
     extra_features: [a tattoo of a fire on the leg]
   packFolder: helladbyzaria
 sohl:

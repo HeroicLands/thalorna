@@ -24,7 +24,7 @@ data:
     eye_color: brown
     hair_color: black
     skin_color: light
-    complexion: tanned
+    complexion: sun_kissed
     extra_features: [a tattoo of a rose vine on the leg]
   packFolder: helladbyzaria
 sohl:

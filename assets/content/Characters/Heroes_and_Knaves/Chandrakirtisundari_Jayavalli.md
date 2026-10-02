@@ -25,9 +25,9 @@ data:
   weight: 64.4
   frame: light
   appearance:
-    eye_color: warm_brown
+    eye_color: brown
     hair_color: black
-    skin_color: dark
+    skin_color: dark_brown
     complexion: null
     extra_features: []
   packFolder: ankarisvedyara

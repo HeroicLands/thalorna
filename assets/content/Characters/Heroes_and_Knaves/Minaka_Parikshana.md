@@ -23,7 +23,7 @@ data:
   appearance:
     eye_color: hazel
     hair_color: graying_brown
-    skin_color: warm
+    skin_color: golden
     complexion: null
     extra_features: [a tattoo of a horse on the thigh]
   packFolder: ankarisvedyara

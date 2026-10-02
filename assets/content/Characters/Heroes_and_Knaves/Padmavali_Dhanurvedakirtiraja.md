@@ -27,7 +27,7 @@ data:
   appearance:
     eye_color: dark_brown
     hair_color: black
-    skin_color: warm
+    skin_color: tawny
     complexion: null
     extra_features: []
   packFolder: ankarisvedyara

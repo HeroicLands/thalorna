@@ -21,7 +21,7 @@ data:
   weight: 83
   frame: heavy
   appearance:
-    eye_color: honey_brown
+    eye_color: amber
     hair_color: auburn
     skin_color: medium
     complexion: weathered

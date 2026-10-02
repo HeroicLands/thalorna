@@ -21,9 +21,9 @@ data:
   weight: 59.9
   frame: light
   appearance:
-    eye_color: black
+    eye_color: dark_brown
     hair_color: black
-    skin_color: warm
+    skin_color: dark_brown
     complexion: null
     extra_features: [a scar running down the right leg]
   packFolder: ankarisvedyara

@@ -24,7 +24,7 @@ data:
     eye_color: green
     hair_color: graying_brown
     skin_color: pale
-    complexion: fair
+    complexion: null
     extra_features: []
   packFolder: midhalionvylaria
 sohl:

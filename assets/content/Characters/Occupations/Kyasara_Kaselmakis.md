@@ -23,8 +23,8 @@ data:
   appearance:
     eye_color: hazel
     hair_color: brown
-    skin_color: warm
-    complexion: tanned
+    skin_color: tawny
+    complexion: sun_kissed
     extra_features: [a tattoo of a dragonfly on the neck]
   packFolder: midhalionvylaria
 sohl:

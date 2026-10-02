@@ -23,7 +23,7 @@ data:
   appearance:
     eye_color: brown
     hair_color: gray
-    skin_color: olive_tanned
+    skin_color: olive
     complexion: weathered
     extra_features: []
   packFolder: midhalionvylaria

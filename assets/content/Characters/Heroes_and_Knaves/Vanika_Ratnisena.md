@@ -21,9 +21,9 @@ data:
   weight: 73
   frame: medium
   appearance:
-    eye_color: dark_amber
+    eye_color: amber
     hair_color: black
-    skin_color: warm
+    skin_color: golden
     complexion: null
     extra_features: []
   packFolder: ankarisvedyara

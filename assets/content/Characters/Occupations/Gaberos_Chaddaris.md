@@ -21,10 +21,10 @@ data:
   weight: 63
   frame: light
   appearance:
-    eye_color: warm_brown
+    eye_color: brown
     hair_color: dark_brown
-    skin_color: warm
-    complexion: bronzed
+    skin_color: tawny
+    complexion: sun_kissed
     extra_features: []
   packFolder: helladhelionis
 sohl:

@@ -21,10 +21,10 @@ data:
   weight: 83
   frame: medium
   appearance:
-    eye_color: dark_amber
+    eye_color: amber
     hair_color: black
-    skin_color: dark
-    complexion: tanned
+    skin_color: dark_brown
+    complexion: sun_kissed
     extra_features: [a tattoo of a woman on the shoulder]
   packFolder: ankariskhazryndesert
 sohl:

@@ -24,7 +24,7 @@ data:
     eye_color: green
     hair_color: brown
     skin_color: pale
-    complexion: fair
+    complexion: null
     extra_features: [a scar on the left arm]
   packFolder: aureldiaelavendre
 sohl:

@@ -24,7 +24,7 @@ data:
     eye_color: brown
     hair_color: dark_brown
     skin_color: dark_brown
-    complexion: bronzed
+    complexion: sun_kissed
     extra_features: [tattoo on arm]
   packFolder: helladhelionis
 sohl:

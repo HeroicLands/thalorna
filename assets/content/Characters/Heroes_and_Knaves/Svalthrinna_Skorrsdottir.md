@@ -25,7 +25,7 @@ data:
     eye_color: blue
     hair_color: blonde
     skin_color: fair
-    complexion: pale
+    complexion: null
     extra_features:
       - lean and wiry
       - scar on her right hand

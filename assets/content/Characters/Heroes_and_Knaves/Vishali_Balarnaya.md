@@ -21,9 +21,9 @@ data:
   weight: 68.9
   frame: light
   appearance:
-    eye_color: warm_brown
+    eye_color: brown
     hair_color: black
-    skin_color: rich_brown
+    skin_color: brown
     complexion: null
     extra_features: [a scar on the right elbow]
   packFolder: ankarisvedyara
