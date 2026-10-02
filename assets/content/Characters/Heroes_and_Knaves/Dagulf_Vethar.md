@@ -13,7 +13,7 @@ data:
   lore: []
   culture: varokhiclt
   homes: [vrystwald]
-  affiliations: {blckpnwlvs: {office: Balthár}, vrystwldtrbs: {rank: 0}}
+  affiliations: {blckpnwlvs: {rank: 1, office: Balthár}, vrystwldtrbs: {rank: 0}}
   gender: male
   species: humanflk
   born: 686.237
