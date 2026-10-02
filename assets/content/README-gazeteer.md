@@ -92,7 +92,7 @@ data:
   died: "" # canonical date when died (YYY.DDD, where YYY is the year, and DDD is the day of the year), or `unknown` if unknown
   height: "" # Height expressed in feet and inches, with `'` for feet and `"` for inches
   weight: 0 # Weight in pounds, followed by "lbs"
-  frame: "" # frame size: scant, light, medium, large, massive
+  frame: "" # frame size: scant, light, medium, heavy, massive (see the vocabulary table below)
   appearance: # one value each from the vocabulary table below
     eye_color: ""
     hair_color: ""
@@ -200,17 +200,18 @@ data:
     being-kaldas: rival
 ```
 
-**Gender and the appearance colours each hold one value from a closed list.** A field left unset — absent, `null` or `""` — says the detail is unrecorded; a stated value comes from this table, and `npm run lint` fails on anything else.
+**Gender, frame and the appearance colours each hold one value from a closed list.** A field left unset — absent, `null` or `""` — says the detail is unrecorded; a stated value comes from this table, and `npm run lint` fails on anything else.
 
 | Field                        | Permitted values                                                                                                                                                                                                     |
 | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `data.gender`                | `female`, `male`, `nonbinary`, `none`, `other`                                                                                                                                                                       |
+| `data.frame`                 | `scant`, `light`, `medium`, `heavy`, `massive`                                                                                                                                                                       |
 | `data.appearance.eye_color`  | `amber`, `black`, `blue`, `brown`, `dark_amber`, `dark_brown`, `gray`, `green`, `hazel`, `honey_brown`, `violet`, `warm_brown`                                                                                       |
 | `data.appearance.hair_color` | `auburn`, `bald`, `black`, `blonde`, `brown`, `chestnut`, `dark_blonde`, `dark_brown`, `gray`, `graying_black`, `graying_brown`, `red`, `silver`, `white`                                                            |
 | `data.appearance.skin_color` | `dark`, `dark_brown`, `ebony`, `fair`, `golden`, `light`, `medium`, `olive`, `olive_tanned`, `pale`, `rich_brown`, `tanned`, `tawny`, `warm`, `warm_golden`                                                          |
 | `data.appearance.complexion` | `battle_scarred`, `bronzed`, `clear`, `dusky`, `fair`, `flawless`, `freckled`, `olive_toned`, `pale`, `rough`, `ruddy`, `rugged`, `sallow`, `smooth`, `sun_kissed`, `sun_scarred`, `tanned`, `weathered`, `wrinkled` |
 
-`gender` takes `none` for a being that has no gender and `other` for one these words do not fit. `skin_color` is the tone; `complexion` is the finish over it — the cast and condition of the face, and what weather, work or injury have made of it. `data.appearance.extra_features` is free text and carries everything the five fields cannot: scars, tattoos, a limp, a missing finger, the way someone holds themselves.
+`gender` takes `none` for a being that has no gender and `other` for one these words do not fit. `frame` runs from `scant` to `massive` and describes build rather than bulk, so it is read beside the being's height and weight. `skin_color` is the tone; `complexion` is the finish over it — the cast and condition of the face, and what weather, work or injury have made of it. `data.appearance.extra_features` is free text and carries everything the five fields cannot: scars, tattoos, a limp, a missing finger, the way someone holds themselves.
 
 A value outside the table is a decision, not a convenience. Widening a list means editing this table and the registry in `utils/being-appearance.mjs` together; `npm run lint:being-appearance` compares the two and fails when they disagree. Any key under `data.appearance` other than the five above fails as well, so a misspelled field name is caught rather than ignored.
 

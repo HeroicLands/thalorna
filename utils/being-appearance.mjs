@@ -12,10 +12,10 @@
  */
 
 /**
- * Holds `data.gender` and the four colour fields under `data.appearance` to a
- * closed vocabulary, so a consumer that branches on one has a list to branch
- * on. `data.appearance.extra_features` is free text and carries whatever the
- * closed fields cannot.
+ * Holds `data.gender`, `data.frame` and the four colour fields under
+ * `data.appearance` to a closed vocabulary, so a consumer that branches on one
+ * has a list to branch on. `data.appearance.extra_features` is free text and
+ * carries whatever the closed fields cannot.
  *
  * A field is unstated when it is absent, `null` or `""`, and an unstated field
  * passes. A stated value outside its list fails, as does any key under
@@ -37,6 +37,7 @@ const VOCABULARY_DOC = path.join(CONTENT_DIR, "README-gazeteer.md");
 /** The closed vocabulary, keyed by the field's dotted path under a note's `data`. */
 const VOCABULARY = Object.freeze({
     "data.gender": Object.freeze(["female", "male", "nonbinary", "none", "other"]),
+    "data.frame": Object.freeze(["scant", "light", "medium", "heavy", "massive"]),
     "data.appearance.eye_color": Object.freeze([
         "amber",
         "black",
@@ -281,6 +282,7 @@ for (const file of markdownFiles(CONTENT_DIR)) {
     const lastLine = match[1].split("\n").length + 1;
     const data = frontmatter.data ?? {};
     checkValue(file, source, "data.gender", data.gender, lastLine);
+    checkValue(file, source, "data.frame", data.frame, lastLine);
 
     const appearance = data.appearance;
     if (isUnstated(appearance)) continue;
