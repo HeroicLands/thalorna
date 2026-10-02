@@ -10,7 +10,7 @@ data:
   archetypes: [scholar, artisan]
   occupation: Cartographer/Artist
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: helioniteclt
   homes: [thyrenae2]
   affiliations: {thyrenae: {}}

@@ -10,7 +10,7 @@ data:
   archetypes: [healer]
   occupation: Apothecary
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: nordheimnclt
   homes: [raltholm]
   affiliations: {kngdmnrdhm: {}}

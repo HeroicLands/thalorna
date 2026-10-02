@@ -10,7 +10,7 @@ data:
   archetypes: [mariner]
   occupation: Pilot
   stations: []
-  lore: []
+  lore: [landedlordrnk]
   culture: tarvenanclt
   homes: [castamere]
   affiliations: {kingdmtrvn: {}}

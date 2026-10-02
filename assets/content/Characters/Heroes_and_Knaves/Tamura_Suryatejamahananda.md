@@ -10,7 +10,7 @@ data:
   archetypes: [artisan]
   occupation: Woodcrafter
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: vedyariclt
   homes: [rajapur]
   affiliations: {rajaprjnpd: {}}

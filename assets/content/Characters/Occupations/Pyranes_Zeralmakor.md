@@ -10,7 +10,7 @@ data:
   archetypes: [scholar, artisan]
   occupation: Cartographer/Artist
   stations: []
-  lore: []
+  lore: [landedlordrnk]
   culture: vylarianclt
   homes: [valdosta]
   affiliations: {vylarinmpr: {}}

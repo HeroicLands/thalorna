@@ -20,6 +20,7 @@ data:
           Named in a proscription; property forfeit to the treasury and life forfeit to whoever collects it.
       - level: 1
         title: Slave
+        lore: slavernk
         description: Owned outright, with no standing at law except through an owner.
       - level: 2
         title: Freedman
@@ -34,6 +35,7 @@ data:
           Holding the citizenship by birth, grant or service, with its protections at law and its liability to its taxes.
       - level: 5
         title: Equestrian
+        lore: landedlordrnk
         description: >-
           Of the propertied order from which the prefectures, the procuratorships and the great commands are filled.
       - level: 6

@@ -22,10 +22,12 @@ data:
           Driven from the selatu and denied burial, which is the true sentence: without a tomb there is no continuation.
       - level: 1
         title: Bondsman
+        lore: slavernk
         description: >-
           Bound to an estate or a temple, owing labor on its fields and its works and holding nothing of his own.
       - level: 2
         title: Farmer
+        lore: commonerrnk
         description: >-
           Working the floodplain under a lord or a temple, owing a share of the harvest and labor on the canals.
       - level: 3
@@ -38,6 +40,7 @@ data:
           Lettered, and therefore the empire's principal path upward: a talented child of any house may enter the schools.
       - level: 5
         title: Legha'lutu
+        lore: landedlordrnk
         description: >-
           Ruler of an estate—its manor, its fields and its village—answerable to the Halzi'a above.
       - level: 6

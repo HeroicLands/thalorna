@@ -10,7 +10,7 @@ data:
   archetypes: [mariner]
   occupation: Common Seaman
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: tarvenanclt
   homes: [valdes]
   affiliations: {kingdmtrvn: {}}

@@ -10,7 +10,7 @@ data:
   archetypes: [mariner]
   occupation: Pilot
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: dunhariclt
   homes: [golshahr]
   affiliations: {sultntmrdd: {}}

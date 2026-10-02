@@ -11,7 +11,7 @@ data:
   archetypes: [artisan]
   occupation: Timberwright
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: khelathiclt
   homes: [khelzuret]
   affiliations: {empireakhlth: {}}

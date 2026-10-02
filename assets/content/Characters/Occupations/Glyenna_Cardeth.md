@@ -10,7 +10,7 @@ data:
   archetypes: [courtier]
   occupation: Noblewoman / Head of House Cárdeth
   stations: []
-  lore: []
+  lore: [landedlordrnk]
   culture: elavendriclt
   homes: [portaelion]
   affiliations: {kngdmlvndr: {}}

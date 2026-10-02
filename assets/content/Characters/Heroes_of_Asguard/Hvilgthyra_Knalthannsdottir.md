@@ -13,7 +13,7 @@ data:
   archetypes: [warrior, scholar]
   occupation: Shieldmaiden
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: {kngdmnrdhm: {}}

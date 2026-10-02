@@ -10,7 +10,7 @@ data:
   archetypes: [courtier]
   occupation: Jester
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: nordheimnclt
   homes: [marvstead]
   affiliations: {kngdmvthgrd: {}}

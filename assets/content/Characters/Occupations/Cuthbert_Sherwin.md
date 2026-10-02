@@ -10,7 +10,7 @@ data:
   archetypes: [woodsman]
   occupation: Woodcutter
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: aelwythanclt
   homes: [thornbury]
   affiliations: {repblctrvn: {}}

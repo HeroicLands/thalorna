@@ -10,7 +10,7 @@ data:
   archetypes: [courtier]
   occupation: Herald
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: helioniteclt
   homes: [thyrenae2]
   affiliations: {thyrenae: {}}

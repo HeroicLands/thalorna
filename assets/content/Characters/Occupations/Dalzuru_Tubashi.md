@@ -10,7 +10,7 @@ data:
   archetypes: [scholar]
   occupation: Skald
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: haradianclt
   homes: [kethara2]
   affiliations: {cnfdrtnhrdnstts: {}}

@@ -10,7 +10,7 @@ data:
   archetypes: [trader]
   occupation: Teamster
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: helioniteclt
   homes: [korinthea2]
   affiliations: {korinthea: {}}

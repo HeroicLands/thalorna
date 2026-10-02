@@ -10,7 +10,7 @@ data:
   archetypes: [artisan]
   occupation: Perfumer
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: khazrynclt
   homes: [ashkarad]
   affiliations: {khzrncnfdrtn: {}}

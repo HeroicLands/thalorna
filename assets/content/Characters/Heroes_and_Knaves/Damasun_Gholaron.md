@@ -11,7 +11,7 @@ data:
   archetypes: [cleric]
   occupation: Priest
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: helioniteclt
   homes: [helionis]
   affiliations: {thetamzir: {}, ctysttshlns: {}}

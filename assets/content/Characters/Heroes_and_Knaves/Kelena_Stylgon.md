@@ -10,7 +10,7 @@ data:
   archetypes: [courtier]
   occupation: Courtesan
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: provenzianclt
   homes: [valcerise]
   affiliations: {kngdmprvnz: {}}

@@ -10,7 +10,7 @@ data:
   archetypes: [artisan, woodsman]
   occupation: Charcoaler
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: elavendriclt
   homes: [valdun]
   affiliations: {kngdmlvndr: {}}

@@ -10,7 +10,7 @@ data:
   archetypes: [courtier]
   occupation: Nobility (Courtier)
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: helioniteclt
   homes: [theradon2]
   affiliations: {theradon: {}}

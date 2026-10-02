@@ -25,10 +25,12 @@ data:
           Bound by debt or birth to a household, walking its herds and carrying its token, and holding neither stock nor water in his own name.
       - level: 2
         title: Karmāja
+        lore: commonerrnk
         description: >-
           Born to the serving tharana—drovers, tank-diggers, leather-workers and the herd-hands who do the year's walking for another man's cattle.
       - level: 3
         title: Dhanāja
+        lore: gentryrnk
         description: >-
           Born to the productive tharana, and on the plateau the tharana that matters: the herd-owning lineages, whose stock and whose wells are the kingdom's whole wealth.
       - level: 4

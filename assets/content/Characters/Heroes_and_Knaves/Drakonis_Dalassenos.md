@@ -10,7 +10,7 @@ data:
   archetypes: [woodsman]
   occupation: Trapper
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: byzarianclt
   homes: [yesilhan2]
   affiliations: {byzarianlg: {}}

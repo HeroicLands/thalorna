@@ -10,7 +10,7 @@ data:
   archetypes: [warrior, cleric]
   occupation: Bodyguard
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: elavendriclt
   homes: [elanmere]
   affiliations: {kngdmprvnz: {}}

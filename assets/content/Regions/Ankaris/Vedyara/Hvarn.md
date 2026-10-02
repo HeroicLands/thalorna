@@ -27,6 +27,7 @@ data:
         description: Of a hearth's blood, holding a place at its fire and a share of its winter store.
       - level: 3
         title: Drover
+        lore: commonerrnk
         description: >-
           Keeping the pack-beasts and working the lower stages, where a mistake is survivable.
       - level: 4

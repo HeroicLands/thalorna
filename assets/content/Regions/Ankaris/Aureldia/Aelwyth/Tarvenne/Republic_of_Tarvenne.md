@@ -20,6 +20,7 @@ data:
           Struck from the citizen roll and outlawed by decree; property forfeit, and any citizen may kill them without penalty.
       - level: 1
         title: Slave
+        lore: slavernk
         description: Owned outright, with no standing at law except through an owner.
       - level: 2
         title: Freedman
@@ -35,6 +36,7 @@ data:
           Enrolled in the citizen body, voting in the assembly and serving in the levy. A citizen is not a member of the governing order.
       - level: 5
         title: Equestrian
+        lore: landedlordrnk
         description: >-
           Of the propertied order that meets the census for office, and from which the magistracies are in practice filled.
       - level: 6

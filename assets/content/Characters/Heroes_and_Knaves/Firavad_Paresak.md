@@ -10,7 +10,7 @@ data:
   archetypes: [cleric]
   occupation: Shaman
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: dunhariclt
   homes: [dunashir]
   affiliations: {dunhartrbs: {}}

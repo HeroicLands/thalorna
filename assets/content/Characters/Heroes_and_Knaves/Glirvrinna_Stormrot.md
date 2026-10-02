@@ -10,7 +10,7 @@ data:
   archetypes: [artisan]
   occupation: Tentmaker
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: nordheimnclt
   homes: [braldheim]
   affiliations: {kingdomlgn: {}}

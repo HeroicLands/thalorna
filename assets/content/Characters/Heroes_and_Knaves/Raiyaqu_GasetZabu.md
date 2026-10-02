@@ -11,7 +11,7 @@ data:
   archetypes: [courtier]
   occupation: Nobility (Courtier)
   stations: []
-  lore: []
+  lore: [landedlordrnk]
   culture: khelathiclt
   homes: [galezkara]
   affiliations: {empireakhlth: {}}

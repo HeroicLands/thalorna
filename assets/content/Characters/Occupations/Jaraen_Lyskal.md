@@ -10,7 +10,7 @@ data:
   archetypes: [artisan]
   occupation: Toymaker
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: provenzianclt
   homes: [lunacorte]
   affiliations: {kngdmprvnz: {}}

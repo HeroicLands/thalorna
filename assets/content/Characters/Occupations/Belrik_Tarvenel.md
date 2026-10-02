@@ -10,7 +10,7 @@ data:
   archetypes: [warrior, woodsman]
   occupation: Man-at-Arms
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: elavendriclt
   homes: [elavendre]
   affiliations: {kngdmlvndr: {}}

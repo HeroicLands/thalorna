@@ -10,7 +10,7 @@ data:
   archetypes: [artisan]
   occupation: Weaponcrafter (Armorer)
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: varokhiclt
   homes: [waldburg]
   affiliations: {vrystwldtrbs: {}}

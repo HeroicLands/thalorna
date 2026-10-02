@@ -10,7 +10,7 @@ data:
   archetypes: [warrior]
   occupation: Gaoler
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: vylarianclt
   homes: [ashenmere]
   affiliations: {provncmktr: {}}

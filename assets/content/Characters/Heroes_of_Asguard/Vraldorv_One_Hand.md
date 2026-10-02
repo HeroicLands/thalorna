@@ -10,7 +10,7 @@ data:
   archetypes: [warrior, courtier]
   occupation: Warrior and Judge
   stations: []
-  lore: []
+  lore: [landedlordrnk]
   culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: {kngdmnrdhm: {}}

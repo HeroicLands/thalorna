@@ -10,7 +10,7 @@ data:
   archetypes: [cleric]
   occupation: Priest
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: haradianclt
   homes: [ashkabel2]
   affiliations: {cnfdrtnhrdnstts: {}}

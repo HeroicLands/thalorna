@@ -11,7 +11,7 @@ data:
   archetypes: [guildsperson]
   occupation: Innkeeper
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: khelathiclt
   homes: [galezkara]
   affiliations: {empireakhlth: {}}

@@ -14,7 +14,7 @@ data:
   archetypes: [cleric]
   occupation: Priest
   stations: []
-  lore: []
+  lore: [landedlordrnk]
   culture: tarvenanclt
   homes: [torreviga]
   affiliations: {kingdmtrvn: {}}

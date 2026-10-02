@@ -10,7 +10,7 @@ data:
   archetypes: [artisan]
   occupation: Clothier
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: vylarianclt
   homes: [velysara]
   affiliations: {vylarinmpr: {}}

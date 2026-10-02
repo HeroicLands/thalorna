@@ -32,6 +32,7 @@ data:
         description: Of a household's blood, entitled to its protection, its feud and its share.
       - level: 4
         title: Householder
+        lore: commonerrnk
         description: >-
           Head of a tent or hall, holding its herds and its people and speaking for them at the moot.
       - level: 5

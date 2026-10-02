@@ -10,7 +10,7 @@ data:
   archetypes: [warrior, mariner]
   occupation: Man-at-Arms
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: helioniteclt
   homes: [athenikos2]
   affiliations: {athenikos: {}}

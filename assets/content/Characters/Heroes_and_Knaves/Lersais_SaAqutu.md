@@ -11,7 +11,7 @@ data:
   archetypes: [warrior, courtier]
   occupation: Nobility (Tenant-in-chief)
   stations: []
-  lore: []
+  lore: [landedlordrnk]
   culture: khelathiclt
   homes: [anlaghzetun]
   affiliations: {empireakhlth: {}}

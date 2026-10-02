@@ -10,7 +10,7 @@ data:
   archetypes: [warrior]
   occupation: Mercenary
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: byzarianclt
   homes: [chrysamar]
   affiliations: {byzarianlg: {}}

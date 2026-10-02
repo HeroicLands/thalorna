@@ -10,7 +10,7 @@ data:
   archetypes: [artisan, woodsman]
   occupation: Charcoaler
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: kaliharanclt
   homes: [qasirah]
   affiliations: {kalihara: {}}

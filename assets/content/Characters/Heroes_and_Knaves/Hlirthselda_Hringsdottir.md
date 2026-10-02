@@ -13,7 +13,7 @@ data:
   archetypes: [warrior]
   occupation: Huscarl
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: nordheimnclt
   homes: [vrathavn]
   affiliations: {kingdmnrgd: {}}

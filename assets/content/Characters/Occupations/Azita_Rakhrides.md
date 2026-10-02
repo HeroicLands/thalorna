@@ -10,7 +10,7 @@ data:
   archetypes: [trader]
   occupation: Mercantyler
   stations: []
-  lore: []
+  lore: [landedlordrnk]
   culture: helioniteclt
   homes: [kalydria2]
   affiliations: {kalydria: {}}

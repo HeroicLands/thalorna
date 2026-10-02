@@ -10,7 +10,7 @@ data:
   archetypes: [commoner]
   occupation: Miner
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: byzarianclt
   homes: [kostaros]
   affiliations: {byzarianlg: {}}

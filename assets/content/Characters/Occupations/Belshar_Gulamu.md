@@ -10,7 +10,7 @@ data:
   archetypes: [artisan]
   occupation: Locksmith
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: haradianclt
   homes: [miravel]
   affiliations: {cnfdrtnhrdnstts: {}}

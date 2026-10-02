@@ -10,7 +10,7 @@ data:
   archetypes: [skirmisher]
   occupation: Yeoman Archer
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: vylarianclt
   homes: [corvinus]
   affiliations: {vylarinmpr: {}}

@@ -10,7 +10,7 @@ data:
   archetypes: [commoner]
   occupation: Domestic Servant
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: tarvenanclt
   homes: [solarden]
   affiliations: {kingdmtrvn: {}}

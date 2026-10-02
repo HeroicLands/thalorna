@@ -10,7 +10,7 @@ data:
   archetypes: [warrior]
   occupation: Caravan Guard
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: aelwythanclt
   homes: [brynhallow]
   affiliations: {kngdmldrth: {}}

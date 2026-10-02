@@ -10,7 +10,7 @@ data:
   archetypes: [warrior]
   occupation: Town Guard
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: haradianclt
   homes: [haradregin]
   affiliations: {cnfdrtnhrdnstts: {}}

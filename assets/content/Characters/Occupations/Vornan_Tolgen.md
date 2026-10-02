@@ -10,7 +10,7 @@ data:
   archetypes: [scholar]
   occupation: Scholar
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: provenzianclt
   homes: [valcerise]
   affiliations: {kngdmprvnz: {}}

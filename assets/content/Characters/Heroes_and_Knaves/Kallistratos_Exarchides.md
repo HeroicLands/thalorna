@@ -10,7 +10,7 @@ data:
   archetypes: [mage]
   occupation: Mage (Fire)
   stations: []
-  lore: []
+  lore: [landedlordrnk]
   culture: vylarianclt
   homes: [velysara]
   affiliations: {provinclys: {}, ordoarcanis: {rank: 3}}

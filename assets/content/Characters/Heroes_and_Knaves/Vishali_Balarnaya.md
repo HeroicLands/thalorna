@@ -10,7 +10,7 @@ data:
   archetypes: [entertainer]
   occupation: Fool
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: vedyariclt
   homes: [rajapur]
   affiliations: {rajaprjnpd: {}}

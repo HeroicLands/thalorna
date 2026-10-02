@@ -19,6 +19,7 @@ data:
           Stripped of civic honor by the courts: barred from the assembly, the agora and the temples, though still living among those who barred him.
       - level: 1
         title: Slave
+        lore: slavernk
         description: Owned outright, with no standing before the law except through an owner.
       - level: 2
         title: Freedman

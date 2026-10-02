@@ -10,7 +10,7 @@ data:
   archetypes: [cleric, warrior]
   occupation: Shaman
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: elavendriclt
   homes: [valdun]
   affiliations: {kngdmlvndr: {}}

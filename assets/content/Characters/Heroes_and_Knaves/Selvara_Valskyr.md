@@ -11,7 +11,7 @@ data:
   archetypes: [mariner]
   occupation: First Mate
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: tarvenanclt
   homes: [tarvenirgn]
   affiliations: {thetamzir: {}, kingdmtrvn: {}}

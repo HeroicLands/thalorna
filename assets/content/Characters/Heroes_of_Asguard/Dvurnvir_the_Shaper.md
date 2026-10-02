@@ -10,7 +10,7 @@ data:
   archetypes: [mage, scholar]
   occupation: Alchemist and Scholar
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: nordheimnclt
   homes: [vrystwald]
   affiliations: {vrystwldtrbs: {}}

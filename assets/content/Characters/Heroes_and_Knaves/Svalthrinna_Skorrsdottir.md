@@ -11,7 +11,7 @@ data:
   archetypes: [warrior]
   occupation: Warrior
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: {thetamzir: {}, kngdmnrdhm: {}}

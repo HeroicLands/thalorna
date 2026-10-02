@@ -10,7 +10,7 @@ data:
   archetypes: [warrior, courtier]
   occupation: Chieftain
   stations: []
-  lore: []
+  lore: [landedlordrnk]
   culture: provenzianclt
   homes: [fiordaure]
   affiliations: {kngdmprvnz: {}}

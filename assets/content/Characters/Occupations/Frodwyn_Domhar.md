@@ -10,7 +10,7 @@ data:
   archetypes: [scholar, healer]
   occupation: Scholar
   stations: []
-  lore: []
+  lore: [landedlordrnk]
   culture: varokhiclt
   homes: [dunkelwald]
   affiliations: {vrystwldtrbs: {}}

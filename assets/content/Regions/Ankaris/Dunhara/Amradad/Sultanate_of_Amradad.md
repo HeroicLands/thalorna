@@ -19,13 +19,16 @@ data:
           Cast out by the Sultan's word, stripped of protection, property and the right to trade in any city of the realm.
       - level: 1
         title: Bondsman
+        lore: slavernk
         description: >-
           Bound in service or debt, unable to depart or dispose of property, and answerable through a master rather than at law.
       - level: 2
         title: Subject
+        lore: commonerrnk
         description: Free at law and owing the Sultan's taxes, bearing no rank and holding no office.
       - level: 3
         title: Notable
+        lore: commonerrnk
         description: >-
           A man of standing in his oasis or quarter—a landholder, caravan-master or elder whose word carries in local matters.
       - level: 4
@@ -34,6 +37,7 @@ data:
           Appointed to the Sultan's service and paid from his revenue, holding delegated authority but no land.
       - level: 5
         title: Wali
+        lore: landedlordrnk
         description: Governor of a city or oasis in the Sultan's name, holding its garrison and its revenue.
       - level: 6
         title: Emir

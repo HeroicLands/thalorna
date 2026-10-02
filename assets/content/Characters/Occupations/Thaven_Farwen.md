@@ -10,7 +10,7 @@ data:
   archetypes: [mariner]
   occupation: Bosun
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: provenzianclt
   homes: [chastelclr]
   affiliations: {kngdmprvnz: {}}

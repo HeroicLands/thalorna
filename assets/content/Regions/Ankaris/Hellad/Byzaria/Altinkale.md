@@ -19,9 +19,11 @@ data:
           Expelled from the city's register: no charter, no protection, no standing in its courts, and every contract void.
       - level: 1
         title: Unfree
+        lore: slavernk
         description: Bound in service or debt-bondage, holding neither property nor the right to contract.
       - level: 2
         title: Resident
+        lore: commonerrnk
         description: >-
           Dwelling and laboring in the city under its protection, without its freedom or a vote in it.
       - level: 3

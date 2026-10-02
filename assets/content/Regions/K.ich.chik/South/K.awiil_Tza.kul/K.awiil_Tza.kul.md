@@ -21,10 +21,12 @@ data:
           Driven from the city and denied its ballcourt, its market and its rites; no lord will take him and no kin will own him.
       - level: 1
         title: Captive
+        lore: slavernk
         description: >-
           Taken in war and held for labor or for the altar, with no standing and, commonly, no long future.
       - level: 2
         title: Commoner
+        lore: commonerrnk
         description: >-
           Working the milpa and owing labor on the temple platforms and causeways, and tribute in maize, cloth and cacao.
       - level: 3

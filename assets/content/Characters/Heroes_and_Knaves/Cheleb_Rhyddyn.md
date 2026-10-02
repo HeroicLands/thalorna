@@ -10,7 +10,7 @@ data:
   archetypes: [skirmisher, woodsman]
   occupation: Hunter / Scout
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: provenzianclt
   homes: [provenzrgn]
   affiliations: {slntlncmpny: {}, kngdmprvnz: {}}

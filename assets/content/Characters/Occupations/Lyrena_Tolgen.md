@@ -10,7 +10,7 @@ data:
   archetypes: [scholar]
   occupation: Skald
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: provenzianclt
   homes: [lunacorte]
   affiliations: {kngdmprvnz: {}}

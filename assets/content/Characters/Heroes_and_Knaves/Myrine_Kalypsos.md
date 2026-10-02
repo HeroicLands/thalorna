@@ -14,7 +14,7 @@ data:
   archetypes: [cleric]
   occupation: Priest
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: vylarianclt
   homes: [belekos]
   affiliations: {provinclys: {}, blackflame: {}}

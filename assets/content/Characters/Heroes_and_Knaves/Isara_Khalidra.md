@@ -11,7 +11,7 @@ data:
   archetypes: [courtier]
   occupation: Courtesan
   stations: []
-  lore: []
+  lore: [gentryrnk]
   culture: helioniteclt
   homes: [helionis]
   affiliations: {thetamzir: {}, theradon: {}}

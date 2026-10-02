@@ -10,7 +10,7 @@ data:
   archetypes: [commoner]
   occupation: Ostler
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: varokhiclt
   homes: [eichengrnd]
   affiliations: {vrystwldtrbs: {}}

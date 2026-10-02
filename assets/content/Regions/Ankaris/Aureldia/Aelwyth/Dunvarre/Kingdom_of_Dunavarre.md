@@ -20,10 +20,12 @@ data:
           Placed under interdict by the Synod: unlicensed, unemployable and barred from every court and market in the realm.
       - level: 1
         title: Unfree
+        lore: slavernk
         description: >-
           Bound in service or debt, and answerable through a master rather than at the Synod's courts.
       - level: 2
         title: Subject
+        lore: commonerrnk
         description: Free at law, taxed, protected and governed—and with no voice whatever in how.
       - level: 3
         title: Freeman of a Chartered Town

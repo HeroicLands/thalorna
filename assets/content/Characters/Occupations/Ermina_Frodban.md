@@ -10,7 +10,7 @@ data:
   archetypes: [mariner]
   occupation: Fisher
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: varokhiclt
   homes: [thornhaven]
   affiliations: {vrystwldtrbs: {}}

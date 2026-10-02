@@ -10,7 +10,7 @@ data:
   archetypes: [mage, scholar]
   occupation: Alchemist
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: vylarianclt
   homes: [nartum]
   affiliations: {hlykngdmnrtm: {}}

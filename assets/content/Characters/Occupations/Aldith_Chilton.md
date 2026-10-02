@@ -10,7 +10,7 @@ data:
   archetypes: [cleric, courtier]
   occupation: Priest
   stations: []
-  lore: []
+  lore: [landedlordrnk]
   culture: aelwythanclt
   homes: [ashford]
   affiliations: {kngdmldrth: {}}

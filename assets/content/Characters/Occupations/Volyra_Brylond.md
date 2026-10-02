@@ -10,7 +10,7 @@ data:
   archetypes: [artisan]
   occupation: Thatcher
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: provenzianclt
   homes: [belporte]
   affiliations: {kngdmprvnz: {}}

@@ -10,7 +10,7 @@ data:
   archetypes: [cleric]
   occupation: Shaman
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: khazrynclt
   homes: [kethramir]
   affiliations: {khzrncnfdrtn: {}}

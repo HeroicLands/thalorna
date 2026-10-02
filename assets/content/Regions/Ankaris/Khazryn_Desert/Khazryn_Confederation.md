@@ -27,6 +27,7 @@ data:
           Bound in service or debt to a house, and answerable through it rather than in his own name.
       - level: 2
         title: Subject
+        lore: commonerrnk
         description: >-
           Of the peoples the houses ruled and rule, owing dues and labor and holding no place in the Council.
       - level: 3

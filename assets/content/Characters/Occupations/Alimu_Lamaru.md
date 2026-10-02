@@ -10,7 +10,7 @@ data:
   archetypes: [scholar, courtier]
   occupation: Bureaucrat
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: haradianclt
   homes: [kashmuret]
   affiliations: {cnfdrtnhrdnstts: {}}

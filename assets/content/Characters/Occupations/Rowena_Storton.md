@@ -10,7 +10,7 @@ data:
   archetypes: [commoner]
   occupation: Animal Trainer
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: aelwythanclt
   homes: [ravenmoor]
   affiliations: {kingdmdnvr: {}}

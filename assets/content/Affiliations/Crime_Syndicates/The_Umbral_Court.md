@@ -29,6 +29,7 @@ data:
           Sworn into a courtier's household—the runners, doormen, dealers, watchers and bought clerks who do the work and are told only their part of it.
       - level: 3
         title: Courtier
+        lore: gentryrnk
         description: >-
           Presented before the Veiled Crown and holding a place at Court, entitled to speak in its sessions and to be defended by it.
       - level: 4
