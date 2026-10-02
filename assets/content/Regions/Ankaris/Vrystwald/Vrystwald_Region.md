@@ -16,16 +16,16 @@ data:
 
 ## Overview
 
-East of the [[place-nrdlndsrgn|Nordlands]] proper, beyond the eastern forests of the Nordmal frontier, the land opens into the vast and largely roadless interior of Vrystwald—the great Varokh homeland of taiga, mixed forest, slow brown rivers, and the immense lake systems that no foreign army has ever managed to secure for long. The Varokh, descendants of the Pelwar nomads who once migrated across Ankaris, are organized into tribal confederations of staggering interior diversity: northern taiga clans whose lifeways are closer to the Nordmal than to their southern kindred; central forest-river tribes who fish, farm in clearings, and trade up and down the great river systems; southern frontier tribes who deal with [[place-velanthrgn|Velanthian]] grain-belt princes on terms ranging from cautious commerce to open raid. Vrystwald is a wild and untamed place, filled with great forests of dark pine and birch, fog-covered river-valleys, and ancient, crumbling ruins that speak of civilizations long vanished.
+East of the [[place-nrdlndsrgn|Nordlands]] proper, beyond the eastern forests of the Nordmal frontier, the land opens into the vast and largely roadless interior of Vrystwald—the great Varokh homeland of taiga, mixed forest, slow brown rivers, and the immense lake systems that no foreign army has ever managed to secure for long. The Varokh, descendants of the Pelwar nomads who once migrated across Ankaris, are organized into tribal confederations of staggering interior diversity: northern taiga clans whose lifeways are closer to the Nordmal than to their southern kindred; central forest-river tribes who fish, farm in clearings, and trade up and down the great river systems; northeastern frontier tribes who deal with [[place-velanthrgn|Velanthian]] grain-belt princes on terms ranging from cautious commerce to open raid. Vrystwald is a wild and untamed place, filled with great forests of dark pine and birch, fog-covered river-valleys, and ancient, crumbling ruins that speak of civilizations long vanished.
 
 ## Geography
 
-Vrystwald occupies a great forested interior of eastern Ankaris—an enormous territory stretching from the eastern margin of the Nordmal kingdoms in the west to the mountain chain that marks the start of the [[place-khzryndsrtrgn|Khazryn]] in the east, and from the northern Arctic-analog seaboard down to the [[place-velanthrgn|Velanthian]] forest-steppe frontier in the south. The landscape is dominated by:
+Vrystwald is an arc of forest rather than a block of it: it runs from the eastern margin of the Nordmal kingdoms in the west, along the northern Arctic-analog seaboard, then curls south and east around [[place-grkrhlmrgn|Grukarholm]] to the mountain chain that marks the start of the [[place-khzryndsrtrgn|Khazryn]] and the frontier with Vylaria in the east. The landscape is dominated by:
 
 - The **northern taiga**—endless boreal forest of spruce, pine, fir, and birch, lightly populated by hunter-fisher-trapper Varokh clans whose lifeways look more taiga-clan than Nordmal. The taiga's furs are a major Vrystwaldi export.
 - The **central mixed-forest belt**—the heartland: dense mixed woodlands of pine, spruce, oak, beech, and birch, broken by clearings, rivers, and the great inland lakes. Most of the Varokh population lives here, scattered across innumerable small forest-clearings and along the river-courses.
 - The **great river systems**—the slow brown rivers that drain the interior west to the northern sea and south to the great inland sea. The rivers are the principal long-distance transport, the principal trade routes, and the principal sites of Varokh settlement (clearings along the bank, fortified hilltops at the river-junctions). In winter the frozen rivers become highways for sleds and warbands.
-- The **southern frontier**—the long fluid border with [[place-velanthrgn|Velanthia]], where Vrystwaldi forest gives way gradually to Velanthian grain-belt and the two cultures interpenetrate through a thousand miles of mixed villages, intermarriage, and intermittent raid.
+- The **northeastern frontier**—the long fluid border with [[place-velanthrgn|Velanthia]], where Vrystwaldi forest gives way gradually to Velanthian grain-belt and the two cultures interpenetrate through a thousand miles of mixed villages, intermarriage, and intermittent raid.
 
 The climate is harsh-continental: long bitter winters with deep snow, brief warm summers, distinct spring thaw and autumn freeze. Sunlight is filtered by the canopy through most of the year; the open river-valleys and the lake-shores get the direct sun the deep forest never sees.
 
@@ -72,7 +72,7 @@ forest and understand that the average is a lie in both directions.
   carry.
 - The **river-courses** are where settlement actually concentrates: the rivers are the roads, the trade
   and the sites, and a map of Vrystwaldi population is essentially a map of its water.
-- The **southern frontier** with [[place-velanthrgn|Velanthia]] is the densest ground in the region, where
+- The **northeastern frontier** with [[place-velanthrgn|Velanthia]] is the densest ground in the region, where
   forest gives way to grain-belt and the two peoples interpenetrate through a thousand miles of mixed
   villages and intermittent raiding.
 
@@ -118,7 +118,7 @@ fish.
 And **slaves**.
 
 It would be strange if they did not. They raid, and raiding produces captives as surely as it produces
-cattle; their southern frontier runs a thousand miles against the [[place-velanthrgn|Velanthian]]
+cattle; their northeastern frontier runs a thousand miles against the [[place-velanthrgn|Velanthian]]
 grain-belt, which is full of villages worth raiding; the rivers that carry their furs run straight to
 markets in every direction; and the best customers in the world are their immediate neighbors. The
 [[place-nrdlndsrgn|Nordmen]] run a thrall economy—the Jarldom of
@@ -219,7 +219,7 @@ Settlements range from small forest homesteads to hilltop fortresses surrounded 
 
 ## Religion
 
-Religious practice in Vrystwald is syncretic. The northern tribes worship gods recognizable from the [[affiliation-asguardian|Asguardian Pantheon]], particularly **Ódvar** and the nature spirits. The southern tribes, influenced by centuries of contact with [[affiliation-vylarinmpr|Vylarian Empire]], have adopted elements of the [[affiliation-arldnpnthn|Aurèldían Pantheon]], particularly the worship of [[affiliation-arldnpnthn|Karnavos]] (The Wild Beast), whose domains of wilderness and primal chaos resonate deeply with Varokh sensibilities.
+Religious practice in Vrystwald is syncretic. The northern tribes worship gods recognizable from the [[affiliation-asguardian|Asguardian Pantheon]], particularly **Ódvar** and the nature spirits. The eastern tribes, influenced by centuries of contact with [[affiliation-vylarinmpr|Vylarian Empire]], have adopted elements of the [[affiliation-arldnpnthn|Aurèldían Pantheon]], particularly the worship of [[affiliation-arldnpnthn|Karnavos]] (The Wild Beast), whose domains of wilderness and primal chaos resonate deeply with Varokh sensibilities.
 
 Regardless of which gods they name, the Varokh share a deep animistic reverence for the forest itself. Sacred groves serve as temples, and the oldest trees are believed to house powerful spirits. Druids and wise-women serve as spiritual leaders, performing rituals at the turning of the seasons and mediating between the mortal world and the spirit realm.
 
@@ -233,27 +233,29 @@ The [[affiliation-ordoarcanis|Ordo Arcanis]] considers Vrystwald a lawless front
 
 To the **west** lies the [[place-nrdlndsrgn|Nordlands]]. The Varokh and the Nordmen share Pelwar ancestry and a great deal of cultural similarity (martial values, broad religious practice, similar architecture), but competition for resources along the long forest frontier keeps tensions simmering. Periodic Nordmal expeditions push into western Vrystwald; periodic Varokh counter-raids push back. Trade is substantial despite the friction, and intermarriage among border-clan and border-jarl households is common.
 
-To the **southwest** lies [[place-grkrhlmrgn|Grukarhölm]]. Vrystwaldi-Grukar relations are uniformly hostile—the Grukar marshlands border directly on Vrystwald's southwestern forests, and the long history of Grukar raiding into Varokh clearings (and Varokh punitive expeditions into the marshlands) has produced an entrenched mutual enmity that no living War Chief remembers the start of.
+To the **east and northeast**, where the arc curls around it, Vrystwald's forest thickens with [[lore-grukarfolk|Grukar]]—which is all [[place-grkrhlmrgn|Grukarholm]] means, since the name describes a people's prevalence and nothing else. Vrystwaldi-Grukar relations are uniformly hostile, but there is no Grukar polity and so no border to hold: unlike the line Velanthia's writ stops at, the Varokh meet only country where the Grukar grow thicker and country where they thin, by degree rather than by edge, and no campaign has ever closed ground that was never bounded to begin with. The raiding runs both ways and always has, long enough that no living War Chief remembers a time before it—a condition of that country, not a line fought over.
 
-To the **south** lies [[place-velanthrgn|Velanthia]]. The Vrystwald-Velanthian frontier is the most permeable border in the region: the Varokh forest peoples and the Velanthian river-prince and grain-belt populations have intermarried, traded, and shared frontier garrisons for many generations, with the result that the southern Varokh tribes look as much like Velanthian settlers as they do like their northern kin. The Velanthian princes consider the southern Varokh tribes useful auxiliaries and unreliable subjects in approximately equal measure.
+The Grukar are not a rival people but something wholly alien, and nothing passes between the two sides: no trade, no envoy, no intermarriage, and no ransom, because there is nobody there to pay one to, and nothing taken from them is worth keeping. A Grukar makes a poor slave and a worse conversation, and the Grukar consider human flesh a delicacy, so a Varokh taken is eaten rather than held. Every tribe answers to its own spawner, which cares nothing for any other tribe's survival, so what comes out of that country is never one war but an endless scatter of small incursions. The same absence of a line is why the danger is never confined to it: a tribe that outgrows its ground does not cross a border to bud, because there is none to cross—it goes far enough into unclaimed forest and wakes, and Vrystwald's own forest serves as well as any other. What this costs the Varokh returns nothing they can use, and the clearings deepest in Grukar country are the poorest in Vrystwald and the most constantly at war.
+
+To the **northeast**, around Grukarholm's northern side, lies [[place-velanthrgn|Velanthia]]. The Vrystwald-Velanthian frontier is the most permeable border in the region: the Varokh forest peoples and the Velanthian river-prince and grain-belt populations have intermarried, traded, and shared frontier garrisons for many generations, with the result that the Varokh tribes along that frontier look as much like Velanthian settlers as they do like the rest of their own people. The Velanthian princes consider those frontier tribes useful auxiliaries and unreliable subjects in approximately equal measure.
 
 To the **east** lie the mountain passes that separate Vrystwald from the [[place-khzryndsrtrgn|Khazryn]]. Contact across the eastern frontier is sparse—the mountains are bad terrain for everyone, and the steppe peoples beyond have little appetite for forest fighting. The few crossings that exist are in northern hands and are used principally for the fur trade.
 
-Of the [[affiliation-vylarinmpr|Vylarian Empire]] the Varokh know little. Vylaria is hundreds of leagues to the southwest, separated by Velanthia and Grukarhölm, and has no plausible territorial claims on Vrystwald—though the Empire's reach in earlier centuries did extend into the southwestern Vrystwald margins, and the crumbling ruins of those long-abandoned Vylarian forward posts are still a feature of the southwestern forests, picked over by generations of Varokh treasure-hunters.
+Of the [[affiliation-vylarinmpr|Vylarian Empire]] the Varokh know little. Vylaria lies hundreds of leagues to the east, at the far end of the arc beyond the mountains, separated by Velanthia and Grukarhölm, and has no plausible territorial claims on Vrystwald—though the Empire's reach in earlier centuries did extend into the southeastern Vrystwald margins, and the crumbling ruins of those long-abandoned Vylarian forward posts are still a feature of the southeastern forests, picked over by generations of Varokh treasure-hunters.
 
 ## Notable Features
 
 - **The Deepwood:** The heartland of Vrystwald, a forest so ancient and dense that sunlight barely reaches the floor. Home to the most traditional Varokh clans and reputed to be filled with supernatural beings.
-- **The Vylarian Ruins:** Crumbling forts, roads, and settlements from the high-imperial Vylarian eastern reach, now overgrown and reclaimed by the southwestern forest. Some are believed to hold buried treasures or ancient secrets.
+- **The Vylarian Ruins:** Crumbling forts, roads, and settlements from the high-imperial Vylarian eastern reach, now overgrown and reclaimed by the southeastern forest. Some are believed to hold buried treasures or ancient secrets.
 - **The Common Council:** An irregular gathering where the Varokh tribes attempt to resolve disputes and coordinate against external threats—rarely successful, but always dramatic.
 
 ## See Also
 
 - [[place-nrdlndsrgn|Nordlands Region]]—western neighbor
-- [[place-grkrhlmrgn|Grukarholm Region]]—southwestern hostile neighbor
-- [[place-velanthrgn|Velanthia Region]]—southern neighbor and most permeable frontier
+- [[place-grkrhlmrgn|Grukarholm Region]]—hostile Grukar concentration to the east and northeast
+- [[place-velanthrgn|Velanthia Region]]—northeastern neighbor and most permeable frontier
 - [[place-khzryndsrtrgn|Khazryn Desert Region]]—eastern frontier across the mountain passes
-- [[affiliation-vylarinmpr|Vylarian Empire]]—distant southwestern imperial power, source of the southwestern ruins
+- [[affiliation-vylarinmpr|Vylarian Empire]]—distant eastern imperial power, source of the southeastern ruins
 - [[skill-varokhlng|Varokhi]]—naming conventions
 - [[affiliation-asguardian|Asguardian Pantheon]]—pantheon
 - [[place-ankrscntnnt|Ankaris Continent]]—parent continent
