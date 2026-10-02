@@ -10,7 +10,7 @@ data:
   archetypes: [commoner]
   occupation: Miner
   stations: []
-  lore: []
+  lore: [slavernk]
   culture: nordheimnclt
   homes: [horgsvangr]
   affiliations: [kngdmnrdhm]

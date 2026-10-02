@@ -25,10 +25,12 @@ data:
           Bound by debt or birth to an estate's household, owing labour at the felling and the hauling and holding nothing of the season's take.
       - level: 2
         title: Karmāja
+        lore: commonerrnk
         description: >-
           Born to the serving tharana—fellers, raftsmen, porters and the estate's own cultivators on the cleared ground around its temple.
       - level: 3
         title: Dhanāja
+        lore: gentryrnk
         description: >-
           Born to the productive tharana—the licensed buyers and carriers who take the estate's resin, lac and spice down to the coast and answer for its price.
       - level: 4
@@ -41,6 +43,7 @@ data:
           Born to the priestly tharana, keeper of rite and learning, without whose sanction no felling season opens and no boundary is moved.
       - level: 6
         title: Kshetrapāla
+        lore: landedlordrnk
         description: >-
           The ordained holder of one estate—its forest, its licences, its season and its tribute to the temple that endowed it.
       - level: 7

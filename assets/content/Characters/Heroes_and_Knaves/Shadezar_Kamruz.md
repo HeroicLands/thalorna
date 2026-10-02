@@ -10,7 +10,7 @@ data:
   archetypes: [warrior, courtier]
   occupation: Chieftain
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: dunhariclt
   homes: [dunashir]
   affiliations: [dunhartrbs]

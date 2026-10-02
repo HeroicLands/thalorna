@@ -10,7 +10,7 @@ data:
   archetypes: [entertainer]
   occupation: Musician (Lute)
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: byzarianclt
   homes: [thalassos]
   affiliations: [byzarianlg]

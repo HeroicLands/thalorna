@@ -10,7 +10,7 @@ data:
   archetypes: [artisan, woodsman]
   occupation: Charcoaler
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: vylarianclt
   homes: [solheim]
   affiliations: [hlykngdmnrtm]

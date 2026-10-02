@@ -10,7 +10,7 @@ data:
   archetypes: [trader]
   occupation: Teamster
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: haradianclt
   homes: [qadhirun]
   affiliations: [cnfdrtnhrdnstts]

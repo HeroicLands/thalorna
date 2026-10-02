@@ -10,7 +10,7 @@ data:
   archetypes: [mariner]
   occupation: Common Seaman
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: vylarianclt
   homes: [belekos]
   affiliations: [provncmktr]

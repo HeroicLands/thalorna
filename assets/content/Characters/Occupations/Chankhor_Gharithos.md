@@ -10,7 +10,7 @@ data:
   archetypes: [commoner]
   occupation: Ostler
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: helioniteclt
   homes: [theradon2]
   affiliations: [theradon]

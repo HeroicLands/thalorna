@@ -10,7 +10,7 @@ data:
   archetypes: [mage, scholar]
   occupation: Astrologer
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: dunhariclt
   homes: [shamsun]
   affiliations: [sultntmrdd]

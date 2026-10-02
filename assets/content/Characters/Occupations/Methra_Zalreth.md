@@ -10,7 +10,7 @@ data:
   archetypes: [commoner]
   occupation: Labourer (unskilled)
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: elavendriclt
   homes: [liranel]
   affiliations: [kngdmlvndr]

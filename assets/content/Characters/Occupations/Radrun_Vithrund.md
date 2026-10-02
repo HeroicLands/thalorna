@@ -10,7 +10,7 @@ data:
   archetypes: [infiltrator]
   occupation: Prostitute
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: varokhiclt
   homes: [grimholt]
   affiliations: [vrystwldtrbs]

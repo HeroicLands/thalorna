@@ -10,7 +10,7 @@ data:
   archetypes: [mage, cleric]
   occupation: Mage (Spirit)
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: nordheimnclt
   homes: [thraldfjord]
   affiliations: [kngdmnrdhm]

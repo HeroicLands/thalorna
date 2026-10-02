@@ -10,7 +10,7 @@ data:
   archetypes: [warrior]
   occupation: Huscarl
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: helioniteclt
   homes: [athenikos2]
   affiliations: [athenikos]

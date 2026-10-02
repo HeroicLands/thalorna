@@ -14,7 +14,7 @@ data:
   archetypes: [artisan]
   occupation: Shipwright
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: nordheimnclt
   homes: [tvarnmark]
   affiliations: [kingdmnrgd]

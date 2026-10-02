@@ -10,7 +10,7 @@ data:
   archetypes: [scholar, artisan]
   occupation: Cartographer/Artist
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: byzarianclt
   homes: [yesilhan2]
   affiliations: [byzarianlg]

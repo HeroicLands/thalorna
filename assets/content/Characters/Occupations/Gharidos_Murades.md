@@ -10,7 +10,7 @@ data:
   archetypes: [commoner]
   occupation: Longshoreman
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: helioniteclt
   homes: [korinthea2]
   affiliations: [korinthea]

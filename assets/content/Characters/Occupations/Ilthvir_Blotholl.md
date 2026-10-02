@@ -10,7 +10,7 @@ data:
   archetypes: [skirmisher]
   occupation: Yeoman Archer
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: nordheimnclt
   homes: [raltholm]
   affiliations: [kngdmnrdhm]

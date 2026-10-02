@@ -10,7 +10,7 @@ data:
   archetypes: [artisan]
   occupation: Potter
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: aelwythanclt
   homes: [kingsholow]
   affiliations: [kngdmldrth]

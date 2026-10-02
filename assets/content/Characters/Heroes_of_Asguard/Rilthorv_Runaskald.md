@@ -10,7 +10,7 @@ data:
   archetypes: [scholar, mage]
   occupation: Skald and Runemaster
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kngdmnrdhm]

@@ -10,7 +10,7 @@ data:
   archetypes: [artisan]
   occupation: Embalmer
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: aelwythanclt
   homes: [caerwynd]
   affiliations: [kngdmldrth]

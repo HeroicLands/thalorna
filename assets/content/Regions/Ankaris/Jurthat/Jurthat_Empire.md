@@ -21,10 +21,12 @@ data:
           Slaves and outcasts: the caste that is not a caste, whose members may hold no name the law recognizes.
       - level: 1
         title: Shükrën
+        lore: slavernk
         description: >-
           Merchants and usurers—wealthy, indispensable, and ranked beneath the peasantry for the offense of profiting without producing.
       - level: 2
         title: Nōkvür
+        lore: commonerrnk
         description: >-
           Peasant farmers and laborers, the base on which the celestial order rests and the caste it constrains most.
       - level: 3

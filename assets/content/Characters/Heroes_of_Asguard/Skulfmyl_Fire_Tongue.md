@@ -10,7 +10,7 @@ data:
   archetypes: [courtier]
   occupation: Agitator and Orator
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kngdmnrdhm]

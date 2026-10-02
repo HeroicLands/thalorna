@@ -10,7 +10,7 @@ data:
   archetypes: [commoner]
   occupation: Ratter
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: elavendriclt
   homes: [silvain]
   affiliations: [kngdmlvndr]

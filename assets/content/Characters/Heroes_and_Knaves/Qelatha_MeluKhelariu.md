@@ -11,7 +11,7 @@ data:
   archetypes: [skirmisher, woodsman]
   occupation: Yeoman Archer
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: khelathiclt
   homes: [anlaghzetun]
   affiliations: [empireakhlth]

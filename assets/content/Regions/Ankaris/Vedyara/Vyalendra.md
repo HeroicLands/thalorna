@@ -24,10 +24,12 @@ data:
           Bound by debt or birth to a household, owing labor and lacking the standing to hold land.
       - level: 2
         title: Karmāja
+        lore: commonerrnk
         description: >-
           Born to the serving tharana—cultivators, artisans and laborers who hold their place by work rather than by rite.
       - level: 3
         title: Dhanāja
+        lore: gentryrnk
         description: >-
           Born to the productive tharana—merchants, dyers and cloth-factors, whose houses carry the city's trade and pay for its walls.
       - level: 4

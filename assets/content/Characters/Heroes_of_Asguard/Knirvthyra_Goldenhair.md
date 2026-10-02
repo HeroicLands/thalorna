@@ -10,7 +10,7 @@ data:
   archetypes: [courtier]
   occupation: Courtesan and Power Broker
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kngdmnrdhm]

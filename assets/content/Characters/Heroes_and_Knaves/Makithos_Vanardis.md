@@ -10,7 +10,7 @@ data:
   archetypes: [entertainer]
   occupation: Thespian
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: vylarianclt
   homes: [valdosta]
   affiliations: [provnchyln]

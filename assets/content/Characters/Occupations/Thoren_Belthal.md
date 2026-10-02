@@ -10,7 +10,7 @@ data:
   archetypes: [artisan]
   occupation: Shipwright
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: elavendriclt
   homes: [cerdwnshlw]
   affiliations: [kngdmlvndr]

@@ -10,7 +10,7 @@ data:
   archetypes: [warrior]
   occupation: Gladiator
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: vylarianclt
   homes: [belekos]
   affiliations: [vylarinmpr]

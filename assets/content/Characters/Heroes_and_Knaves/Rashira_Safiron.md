@@ -14,7 +14,7 @@ data:
   archetypes: [scholar]
   occupation: Grammatíssa (Records-Keeper)
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: bethuanclt
   homes: [bethura]
   affiliations: [mtrrchybth]

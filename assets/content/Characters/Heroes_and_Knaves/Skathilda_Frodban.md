@@ -14,7 +14,7 @@ data:
   archetypes: [skirmisher, woodsman]
   occupation: Brigand
   stations: []
-  lore: []
+  lore: [slavernk]
   culture: varokhiclt
   homes: [vrystwald]
   affiliations: [blckpnwlvs, vrystwldtrbs]

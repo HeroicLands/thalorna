@@ -10,7 +10,7 @@ data:
   archetypes: [skirmisher, woodsman]
   occupation: Yeoman Archer
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: vylarianclt
   homes: [nartum]
   affiliations: [hlykngdmnrtm]

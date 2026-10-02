@@ -10,7 +10,7 @@ data:
   archetypes: [infiltrator]
   occupation: Prostitute
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: aelwythanclt
   homes: [ashford]
   affiliations: [kngdmldrth]

@@ -10,7 +10,7 @@ data:
   archetypes: [commoner]
   occupation: Beggar
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: khazrynclt
   homes: [kethramir]
   affiliations: [khzrncnfdrtn]

@@ -10,7 +10,7 @@ data:
   archetypes: [cleric, scholar, courtier]
   occupation: Judge and Lawman
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kngdmnrdhm]

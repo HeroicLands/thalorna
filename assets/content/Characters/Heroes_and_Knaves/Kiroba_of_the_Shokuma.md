@@ -10,7 +10,7 @@ data:
   archetypes: [healer, cleric]
   occupation: Apothecary
   stations: []
-  lore: []
+  lore: [landedlordrnk]
   culture: okharinclt
   homes: [ithrakor]
   affiliations: [okharis]

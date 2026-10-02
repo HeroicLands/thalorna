@@ -28,6 +28,7 @@ data:
           Of a hearth's blood, entitled to its shelter, its herds and its share of a season's fee.
       - level: 3
         title: Herdholder
+        lore: commonerrnk
         description: Holding beasts and a stake in a high pasture, and answering for both at the hearth.
       - level: 4
         title: Carrier

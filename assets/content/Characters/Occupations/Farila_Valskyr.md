@@ -10,7 +10,7 @@ data:
   archetypes: [healer]
   occupation: Physician
   stations: []
-  lore: []
+  lore: [landedlordrnk]
   culture: provenzianclt
   homes: [belporte]
   affiliations: [kngdmprvnz]

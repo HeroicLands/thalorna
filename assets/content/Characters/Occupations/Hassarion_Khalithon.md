@@ -10,7 +10,7 @@ data:
   archetypes: [courtier, warrior]
   occupation: Nobility (Tenant-in-chief)
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: helioniteclt
   homes: [myrtillos]
   affiliations: [kostaros2]

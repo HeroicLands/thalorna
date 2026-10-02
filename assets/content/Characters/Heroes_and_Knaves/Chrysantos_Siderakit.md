@@ -10,7 +10,7 @@ data:
   archetypes: [trader, courtier]
   occupation: Locksmith
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: byzarianclt
   homes: [thalassos]
   affiliations: [byzarianlg]

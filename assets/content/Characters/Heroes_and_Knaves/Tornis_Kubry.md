@@ -10,7 +10,7 @@ data:
   archetypes: [infiltrator]
   occupation: Scout / Spy
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: tarvenanclt
   homes: [tarvenirgn]
   affiliations: [slntlncmpny, kingdmtrvn]

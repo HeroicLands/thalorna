@@ -10,7 +10,7 @@ data:
   archetypes: [artisan]
   occupation: Shipwright
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: dunhariclt
   homes: [tahrodan]
   affiliations: [sultntmrdd]

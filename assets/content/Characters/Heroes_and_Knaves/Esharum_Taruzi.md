@@ -11,7 +11,7 @@ data:
   archetypes: [mariner]
   occupation: Ship Captain
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: haradianclt
   homes: [haradregin]
   affiliations: [thetamzir, cnfdrtnhrdnstts]

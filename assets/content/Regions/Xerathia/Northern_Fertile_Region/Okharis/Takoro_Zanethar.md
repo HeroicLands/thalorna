@@ -9,7 +9,7 @@ data:
   archetypes: [courtier, cleric]
   occupation: king
   stations: []
-  lore: []
+  lore: [landedlordrnk]
   culture: okharinclt
   homes: [okharisrgn]
   affiliations: [okharis]

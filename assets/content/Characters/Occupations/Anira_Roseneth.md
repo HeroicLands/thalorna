@@ -10,7 +10,7 @@ data:
   archetypes: [entertainer]
   occupation: Musician (Lute)
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: tarvenanclt
   homes: [tarvenirgn]
   affiliations: [kingdmtrvn]

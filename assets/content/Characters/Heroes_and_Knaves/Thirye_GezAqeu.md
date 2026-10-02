@@ -11,7 +11,7 @@ data:
   archetypes: [entertainer]
   occupation: Thespian
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: khelathiclt
   homes: [amqelulegez]
   affiliations: [empireakhlth]

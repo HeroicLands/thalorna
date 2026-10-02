@@ -10,7 +10,7 @@ data:
   archetypes: [scholar]
   occupation: Scribe
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: vylarianclt
   homes: [corvinus]
   affiliations: [provinclys]

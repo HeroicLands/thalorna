@@ -10,7 +10,7 @@ data:
   archetypes: [scholar]
   occupation: Bard
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: elavendriclt
   homes: [cerdwnshlw]
   affiliations: [kngdmlvndr]

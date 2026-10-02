@@ -10,7 +10,7 @@ data:
   archetypes: [artisan]
   occupation: Shipwright
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: byzarianclt
   homes: [thalassos]
   affiliations: [byzarianlg]

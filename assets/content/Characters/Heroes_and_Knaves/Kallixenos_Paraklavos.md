@@ -10,7 +10,7 @@ data:
   archetypes: [scholar, courtier]
   occupation: Litigant
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: byzarianclt
   homes: [kostaros]
   affiliations: [byzarianlg]

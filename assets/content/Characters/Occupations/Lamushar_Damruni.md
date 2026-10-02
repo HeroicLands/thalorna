@@ -10,7 +10,7 @@ data:
   archetypes: [scholar, courtier]
   occupation: Litigant
   stations: []
-  lore: []
+  lore: [landedlordrnk]
   culture: haradianclt
   homes: [qadhirun]
   affiliations: [cnfdrtnhrdnstts]

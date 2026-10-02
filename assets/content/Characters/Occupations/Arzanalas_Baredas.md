@@ -10,7 +10,7 @@ data:
   archetypes: [warrior]
   occupation: Huscarl
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: vylarianclt
   homes: [tyrellan]
   affiliations: [vylarinmpr]

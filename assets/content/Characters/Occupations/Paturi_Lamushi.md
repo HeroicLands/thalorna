@@ -10,7 +10,7 @@ data:
   archetypes: [guildsperson]
   occupation: Cook
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: haradianclt
   homes: [azhun2]
   affiliations: [cnfdrtnhrdnstts]

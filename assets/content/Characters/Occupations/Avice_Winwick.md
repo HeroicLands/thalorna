@@ -10,7 +10,7 @@ data:
   archetypes: [trader, mariner]
   occupation: Mercantyler (Supercargo)
   stations: []
-  lore: []
+  lore: [landedlordrnk]
   culture: aelwythanclt
   homes: [thornbury]
   affiliations: [repblctrvn]

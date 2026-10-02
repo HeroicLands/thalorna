@@ -10,7 +10,7 @@ data:
   archetypes: [warrior]
   occupation: Man-at-Arms
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: tarvenanclt
   homes: [tarvenirgn]
   affiliations: [kingdmtrvn]

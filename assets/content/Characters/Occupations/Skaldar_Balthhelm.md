@@ -10,7 +10,7 @@ data:
   archetypes: [artisan]
   occupation: Toymaker
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: varokhiclt
   homes: [falkensten]
   affiliations: [vrystwldtrbs]

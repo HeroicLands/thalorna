@@ -10,7 +10,7 @@ data:
   archetypes: [scholar]
   occupation: Bard
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: provenzianclt
   homes: [fiordaure]
   affiliations: [kngdmprvnz]

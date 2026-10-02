@@ -10,7 +10,7 @@ data:
   archetypes: [cleric, healer, mage]
   occupation: Shaman
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: khazrynclt
   homes: [oasishirvn]
   affiliations: [khzrncnfdrtn]

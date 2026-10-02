@@ -10,7 +10,7 @@ data:
   archetypes: [warrior]
   occupation: Yeoman Infantry
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: elavendriclt
   homes: [liranel]
   affiliations: [kngdmlvndr]

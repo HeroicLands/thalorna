@@ -10,7 +10,7 @@ data:
   archetypes: [warrior]
   occupation: Yeoman Infantry
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: helioniteclt
   homes: [kalydria2]
   affiliations: [kalydria]

@@ -10,7 +10,7 @@ data:
   archetypes: [artisan, infiltrator]
   occupation: Locksmith
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: vylarianclt
   homes: [corvinus]
   affiliations: [vylarinmpr]

@@ -10,7 +10,7 @@ data:
   archetypes: [guildsperson]
   occupation: Innkeeper
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: byzarianclt
   homes: [thalassos]
   affiliations: [byzarianlg]

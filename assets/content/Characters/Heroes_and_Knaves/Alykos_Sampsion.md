@@ -10,7 +10,7 @@ data:
   archetypes: [healer]
   occupation: Physician
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: byzarianclt
   homes: [selimara]
   affiliations: [byzarianlg]

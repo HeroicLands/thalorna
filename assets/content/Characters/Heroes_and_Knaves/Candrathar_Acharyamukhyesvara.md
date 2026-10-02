@@ -14,7 +14,7 @@ data:
   archetypes: [healer]
   occupation: Apothecary
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: vedyariclt
   homes: [rajapur]
   affiliations: [rajaprjnpd]

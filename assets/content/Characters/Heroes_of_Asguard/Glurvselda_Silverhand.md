@@ -10,7 +10,7 @@ data:
   archetypes: [trader, courtier]
   occupation: Merchant and Diplomat
   stations: []
-  lore: []
+  lore: [landedlordrnk]
   culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kngdmnrdhm]

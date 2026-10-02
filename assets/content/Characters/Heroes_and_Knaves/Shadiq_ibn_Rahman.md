@@ -14,7 +14,7 @@ data:
   archetypes: [courtier, trader]
   occupation: Nobility (Courtier)
   stations: []
-  lore: []
+  lore: [landedlordrnk]
   culture: byzarianclt
   homes: [karatas2]
   affiliations: [byzarianlg]

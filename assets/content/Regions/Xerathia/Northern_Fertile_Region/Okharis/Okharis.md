@@ -20,10 +20,12 @@ data:
         description: Struck from the temple rolls and denied its rites, its grain and its justice.
       - level: 1
         title: Temple Bondsman
+        lore: slavernk
         description: >-
           Bound to a temple's estates, owing labor for its granaries and holding nothing of his own.
       - level: 2
         title: Villager
+        lore: commonerrnk
         description: >-
           Of the rural tribes owing tribute and labor to a temple-city, and governed through their own elders.
       - level: 3

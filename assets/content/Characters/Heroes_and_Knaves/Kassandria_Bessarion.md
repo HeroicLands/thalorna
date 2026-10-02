@@ -10,7 +10,7 @@ data:
   archetypes: [mage, scholar]
   occupation: Mage (Lore)
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: byzarianclt
   homes: [byzaris]
   affiliations: [byzarianlg]

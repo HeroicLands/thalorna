@@ -14,7 +14,7 @@ data:
   archetypes: [cleric, mage]
   occupation: Shaman
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: nordheimnclt
   homes: [gnaldrfjord]
   affiliations: [kingdmnrgd]

@@ -10,7 +10,7 @@ data:
   archetypes: [cleric, warrior]
   occupation: Priest
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: byzarianclt
   homes: [chrysamar]
   affiliations: [byzarianlg]

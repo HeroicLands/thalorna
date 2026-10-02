@@ -13,7 +13,7 @@ data:
   archetypes: [warrior]
   occupation: Helspawn Warlord
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kngdmnrdhm]

@@ -22,6 +22,7 @@ data:
         description: Held in service to a lineage, and answerable through its head.
       - level: 2
         title: Islander
+        lore: commonerrnk
         description: >-
           Of the common lineages, working the terraces and the fisheries under the island's ancient order.
       - level: 3

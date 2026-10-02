@@ -10,7 +10,7 @@ data:
   archetypes: [woodsman, warrior]
   occupation: Woodsman and Guardian
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: nordheimnclt
   homes: [vrystwald]
   affiliations: [vrystwldtrbs]

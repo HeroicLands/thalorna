@@ -10,7 +10,7 @@ data:
   archetypes: [courtier]
   occupation: Courtesan
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: vedyariclt
   homes: [chandrapur2]
   affiliations: [chandrapur]

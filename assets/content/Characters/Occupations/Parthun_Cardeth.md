@@ -10,7 +10,7 @@ data:
   archetypes: [entertainer, guildsperson]
   occupation: Thespian
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: elavendriclt
   homes: [valdun]
   affiliations: [kngdmlvndr]

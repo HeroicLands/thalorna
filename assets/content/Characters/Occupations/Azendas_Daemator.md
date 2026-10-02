@@ -10,7 +10,7 @@ data:
   archetypes: [cleric, warrior]
   occupation: Priest
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: vylarianclt
   homes: [tyrellan]
   affiliations: [vylarinmpr]

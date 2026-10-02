@@ -10,7 +10,7 @@ data:
   archetypes: [artisan]
   occupation: Mason
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: helioniteclt
   homes: [pelagora2]
   affiliations: [pelagora]

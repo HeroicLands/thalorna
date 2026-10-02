@@ -10,7 +10,7 @@ data:
   archetypes: [woodsman]
   occupation: Trapper
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: aelwythanclt
   homes: [kingsholow]
   affiliations: [kngdmldrth]

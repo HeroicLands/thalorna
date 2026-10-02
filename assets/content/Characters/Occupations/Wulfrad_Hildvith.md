@@ -10,7 +10,7 @@ data:
   archetypes: [warrior, artisan]
   occupation: Man-at-Arms (Sapper)
   stations: []
-  lore: []
+  lore: [commonerrnk]
   culture: varokhiclt
   homes: [eichengrnd]
   affiliations: [vrystwldtrbs]
