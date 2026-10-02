@@ -24,7 +24,7 @@ data:
     eye_color: brown
     hair_color: black
     skin_color: tanned
-    complexion: medium
+    complexion: null
     extra_features: [a scar on the right forearm]
   packFolder: midhalionharad
 sohl:

@@ -28,7 +28,7 @@ data:
     eye_color: hazel
     hair_color: black
     skin_color: dark
-    complexion: olive
+    complexion: olive_toned
     extra_features: []
   packFolder: northernfertileregionbethua
 sohl:

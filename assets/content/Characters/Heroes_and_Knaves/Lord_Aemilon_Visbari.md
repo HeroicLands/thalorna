@@ -24,7 +24,7 @@ data:
     eye_color: blue
     hair_color: gray
     skin_color: medium
-    complexion: medium
+    complexion: null
     extra_features: [limp, mustache, beard]
   packFolder: midhalionvylaria
 sohl:
