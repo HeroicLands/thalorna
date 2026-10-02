@@ -62,9 +62,9 @@ The note types below are those in `package-build/docs/reference/note-types.md`. 
 
 Use `subType: character` for one fully developed, playable individual. Use `subType: npc` for a being meant to be encountered rather than necessarily played; an NPC may be an individual or a reusable template such as a town guard. Use `subType: creature` for any being that is neither a character nor an NPC. These subtypes classify the being's role in the content regardless of species, intelligence, or appearance.
 
-Every being uses these frontmatter:
+Every being uses this format:
 
-```yaml
+```
 ---
 shortcode: ""
 name:
@@ -100,6 +100,62 @@ data:
     complexion: ""
     extra_features: []
   packFolder: "" # The compendium folder shortcode where the being should be placed. Usually under the "<culture>/Characters/Folk" for NPCs, "<culture>/Characters/Heroes and Knaves" for characters, and Beastiary for creatures.
+---
+
+# Appearance {#appearance}
+<one-line description based on their appearance data, like:>
+
+Alîmû Lâmarû is a 53-year-old man who stands 5'4" tall and is of moderate build. He has a diamond face with prominent cheekbones, a smooth forehead, and a strong jaw that leads to a pointed chin. His deep-set black eyes sit beneath heavy brows and give him a watchful gaze. He has an aquiline nose and full lips. He has olive skin with a smooth complexion. His brown hair is kept practical and short.
+
+# Dossier {#dossier}
+
+<description>
+
+## Psyche
+
+### Personality
+
+TBD.
+
+### Motivation
+
+TBD.
+
+### Strengths
+
+TBD.
+
+### Weaknesses
+
+TBD.
+
+## Social
+
+<generate some text for each of these sections based on the `data.socialTies` specified above, if any.>
+
+### Companions
+
+TBD.
+
+### Patrons
+
+TBD.
+
+### Enemies
+
+TBD.
+
+### Affiliations
+
+<generate some text based on affiliations described above, for instance:>
+
+- **Kethramír Artisans' Guild**: Afzandah holds full Guildmaster standing, though her relationship with the organization is fraught. She pays her dues and maintains the minimum necessary involvement, frustrated by their conservatism.
+
+## Plot Hooks
+
+<invent 2-3 plot hooks based on the informaton above, for instance:>
+
+1. **The Caravan Master's Commission**: A caravan master arrives in Kethramír with an extraordinary offer. He has been hired by a distant noble to assemble a company of capable warriors and craftspeople for a dangerous expedition into the distant mountains, where mithral deposits are rumored to exist. He seeks Afzandah specifically, having heard that she can work with exotic materials under harsh conditions. The commission is substantial—enough to fund a year of experimental work—but it requires her personal involvement in the expedition's field operations. The caravan master is vague about the precise dangers, mentioning only "environmental hazards" and "territorial complications." Afzandah's knowledge of mineralogy and material sourcing is what he needs, but she would be away from her workshop for months. The real danger is that the caravan master's patron is actually an evil sorcerer, who seeks mithral not for legitimate commerce but for a dark ritual. Afzandah and her party would discover this truth only after accepting the contract.
 ```
 
 **Archetypes** describe characters in broad terms and help match them to an adventure. The list is:
@@ -183,7 +239,72 @@ out, and takes the colon after the link.
 
 Name the actual methods and abilities beneath their sections. Describe habitat, signs of presence, senses, feeding or social behavior, and the creature's relationship to nearby people and ecosystems. `Combat Strategy` explains what it tries to do and why; `Attack Methods` and `Special Abilities` explain what the runner can bring into play. Adjust the account to the being's actual nature: a creature can be social, intelligent, or capable of negotiation. Keep prose descriptions aligned with the mechanical record, especially where attributes or effects appear in both places. Do not invent behavior or powers simply to fill a heading.
 
-These examples show a **third-person reference voice** that can briefly move close to the subject: a physician at a bedside, a miner teaching an apprentice, or a traveler noticing the silt's smell before seeing it. A quotation or local account can deepen the profile, but the named sections keep the note navigable and the narrator's limits clear.
+Every being uses this format:
+
+```
+---
+shortcode: ""
+name: {full: "", aliases: []}
+type: being
+subType: creature
+description: "" # a short description of the creature
+tags: [draft]
+data:
+  icon: icon-creature
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: {}
+  gender: null
+  species: null
+  age: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
+  packFolder: "" # must be specified
+---
+
+# Appearance {#appearance}
+
+<Second-person first-encounter appearance of creature to characters, for instance:>
+
+Light fractures and scatters as something moves through the shadows—a shape of impossible geometry, faceted and radiant. Every color of the spectrum glints from its surfaces as it turns, and the air shimmers with refracted light that makes your eyes water. You hear it before you fully see it: a crystalline chiming, like bells or wind-chimes, with each movement. Then those eyes—bright, burning sapphire—find you, and you understand it has always been watching.
+
+# Dossier {#dossier}
+
+<describe the creature:>
+
+The Abyssal Silt is a predatory ooze born from deep caverns and toxic marshlands, a creature fundamentally wrong—a thing that hungers and calculates. It dwells in darkness, camouflaged by its murky coloration, waiting with patient malice for prey to draw near. Adventurers encounter it lurking in caves, abandoned ruins, or stagnant pools where nothing else dares venture.
+
+## Presentation
+
+TBD.
+
+## Key Behaviors
+
+TBD.
+
+## Combat Strategy
+
+TBD.
+
+## Attack Methods
+
+TBD.
+
+## Special Abilities
+
+TBD.
+```
 
 ### homepage
 
@@ -196,6 +317,64 @@ These examples show a **third-person reference voice** that can briefly move clo
 ### affiliation
 
 **Voice:** An informed account of a living institution, with attributed member and outsider views where they disagree. State its purpose, membership, seat, reach, governance, offices, resources, allies, and opponents. Then show how a person encounters its authority: a hearing, initiation, levy, petition, market bargain, or rite. For polities and governmental bodies, explain who actually decides and enforces; for faith and magical traditions, show practice as well as doctrine; for guilds, lineages, ventures, fellowships, orders, and criminal groups, show what membership asks and gives. Goals, motives, and conflicts make the organization useful for play.
+
+Affiliation Template
+====================
+
+```
+---
+shortcode: ""
+name: {full: "", aliases: []}
+type: affiliation
+subType: polity # appropriate affiliation type
+description: "" # descriptive title for this affiliation
+tags: [draft]
+data:
+  templatePriority: null
+  demonym: ""
+  epithet: null
+  symbol: null
+  governance:
+    model: "" # e.g. monarchy, confederation, etc.
+    summary: "" # text description of the governance model
+    ranks:
+      - level: 0
+        title: "" # ex: Outcast
+        description: "" # description of the rank
+      - level: 1
+        title: "" # ex: resident
+        description: "" # description of the rank
+    offices: {}
+  seat: "" # shortcode of capital settlement of the affiliation
+  domains: [] # shortcode of the place region where the affiliation holds influence
+  population: 0 # population of the affiliation
+  economy: []
+  lore: [humanflk]
+  parents: []
+  relations: {}
+  packFolder: ""  # must be specified
+---
+
+## Overview
+
+<short context overview of the affiliation.>
+
+## Character
+
+TBD.
+
+## Relations
+
+TBD.
+
+## Commerce and Currency
+
+TBD.
+
+## See Also
+
+TBD.
+```
 
 ### affliction
 
@@ -270,6 +449,66 @@ These examples show a **third-person reference voice** that can briefly move clo
 - **Region:** Show terrain, climate, resources, routes, borders, peoples, and internal contrasts. A guide crossing it can reveal change from one district to another.
 - **Settlement:** Show arrival, street or village life, livelihoods, authority, services, local tensions, and connections to its hinterland. Interpret yields, market size, and population through what people produce and need.
 - **Site, structure, and feature:** Give a clear location and physical description, purpose or origin, present use, access, and relevant dangers or beliefs. A local custodian or traveler may supply a revealing account.
+
+Settlement Template
+===================
+
+```
+---
+shortcode: ""
+name: {full: "", aliases: []}
+type: place
+subType: settlement
+description: "" # short description of the settlement
+tags: [draft]
+data:
+  demonym: null # specify if able
+  lore: []
+  parents: [] # shortcode of polity that this settlement is governed under
+  population: 0
+  packFolder: ""  # must be specified
+---
+
+## Overview
+
+<descripton>
+
+## See Also
+
+TBD.
+```
+
+REGION TEMPLATE
+===============
+
+```
+---
+shortcode: ""
+name: {full: "", aliases: []}
+type: place
+subType: region
+description: "" # Short one-line description of the region
+tags: [draft]
+data:
+  demonym: ""
+  lore: [humanflk]
+  parents: [] # parent region shortcodes
+  population: 0 # population of region
+  packFolder: ""  # must be specified
+---
+
+## Overview
+
+<description>
+
+## Character
+
+<a sentence or two about what the region geography and biome is like>
+
+## See Also
+
+TBD.
+```
 
 ### scenario
 
