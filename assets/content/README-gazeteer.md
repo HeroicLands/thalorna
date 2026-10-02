@@ -318,6 +318,14 @@ TBD.
 
 **Voice:** An informed account of a living institution, with attributed member and outsider views where they disagree. State its purpose, membership, seat, reach, governance, offices, resources, allies, and opponents. Then show how a person encounters its authority: a hearing, initiation, levy, petition, market bargain, or rite. For polities and governmental bodies, explain who actually decides and enforces; for faith and magical traditions, show practice as well as doctrine; for guilds, lineages, ventures, fellowships, orders, and criminal groups, show what membership asks and gives. Goals, motives, and conflicts make the organization useful for play.
 
+**A rung states `level`, `title` and `description`, and that is a complete
+statement.** `lore` is the one optional key: it addresses a `subType: law` note
+under `Lore/Ranks/` for a standing that needs more said about it than a rung's
+`description` can hold — a long account of obligations, privileges and how the
+standing is gained and lost. Omit it otherwise. Most standings need no note, and
+a note whose only content restates its rung or lists the bodies that confer it
+should not exist.
+
 #### Affiliation template
 
 ```
@@ -343,6 +351,7 @@ data:
       - level: 1
         title: "" # ex: resident
         description: "" # description of the rank
+        lore: "" # optional; omit unless the standing needs its own note
     offices: {}
   seat: null # shortcode of the affiliation's capital settlement; `null` where it has none or none is known, never ""
   domains: [] # shortcode of the place region where the affiliation holds influence
