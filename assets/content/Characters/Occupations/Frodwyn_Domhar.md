@@ -402,7 +402,7 @@ Fródwyn Dómhár is a 38-year-old woman who stands 5'8" tall and is of moderate
 
 # Dossier {#dossier}
 
-Fródwyn Dómhár is a scholar of plants and their uses at Dunkelwald, a deep-forest settlement of [[place-vrystwald|Vrystwald]], a Varokhi woman of a chieftain's house who has written the forest's healing lore down.
+Fródwyn Dómhár is a scholar of plants and their uses at Dunkelwald, a deep-forest settlement of [[place-vrystwald|Vrystwald]], a Varokhi woman of a War Chief's house who has written the forest's healing lore down.
 
 Fródwyn was sent as a girl to the border towns of Moktur, where she learned letters from a Vylarian physician's wife, and came home with the idea that what the wise-women carry in their heads could be set down. She has spent fifteen years doing it, walking the forest with the wise-women of a dozen villages and writing what they know out in Varokhi, in books that have gone down the rivers with the fur-boats to villages she has never visited. She teaches it to any woman who will sit with her, and she means it to be used; knowledge not put to work, she holds, is not knowledge.
 
@@ -424,7 +424,7 @@ A patient observer, a clear teacher, a sound judge of what a plant will and will
 
 ## Social
 
-Fródwyn belongs to no guild or academy; Vrystwald has villages and nothing larger. Her standing is her house's: a chieftain's daughter who keeps the household stores of Dunkelwald and is known along the river as the woman with the books.
+Fródwyn belongs to no guild or academy; Vrystwald has villages and nothing larger. Her standing is her house's: a War Chief's daughter who keeps the household stores of Dunkelwald and is known along the river as the woman with the books.
 
 ## Companions
 
@@ -442,6 +442,6 @@ Wise-women of the older kind, who hold that the lore is the forest's and the spi
 
 2. **The Sickness**—The winter sickness has come to Dunkelwald early and hard, and the cure Fródwyn wrote down for it is not working the way the wise-woman who gave it said it would. Either she wrote it wrong or it was never given whole.
 
-3. **The Chieftain's Wound**—A neighboring chieftain has taken a wound that his own wise-woman cannot close and has sent for the woman with the books. If her cure fails him, the failure will be laid to the writing.
+3. **The War Chief's Wound**—A neighboring War Chief has taken a wound that his own wise-woman cannot close and has sent for the woman with the books. If her cure fails him, the failure will be laid to the writing.
 
 4. **The Accusation**—The most respected wise-woman of the district has accused Fródwyn, before a gathering, of giving the forest's secrets to strangers, and has asked that the books be burned. The women who taught her were there, and not all of them spoke.

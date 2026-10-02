@@ -17,12 +17,12 @@ data:
       A gang bound by nothing but fear of Dágulf, who holds command only as long as no one dares to challenge him.
     ranks:
       - level: 1
-        title: Of the Band
-        lore: ofthebandrnk
+        title: Grimmund
+        lore: grimmundrnk
         description: >-
           One of the six fed from what the gang takes, held by fear of Dágulf Véthar and the absence of anywhere better to go rather than by any oath the band administers.
     offices:
-      Leader: >-
+      Balthár: >-
         Held by Dágulf Véthar, who rules through unpredictability and sudden violence rather than through any office the band itself seats.
   seat: null
   domains: []
@@ -45,7 +45,7 @@ The gang is led by [[being-dagulfvthr|Dágulf Véthar]], a Varokh runaway serf w
 
 The current membership stands at six:
 
-- [[being-dagulfvthr|Dágulf Véthar]]—Leader. Former shepherd turned brigand. Cold, watchful, and feared.
+- [[being-dagulfvthr|Dágulf Véthar]]—Balthár. Former shepherd turned brigand. Cold, watchful, and feared.
 - [[being-thrwldhldskrn|Thráwald Hildskorn]]—Muscle. A huge, dull-witted former deserter from the Vylarian garrison. Follows orders because thinking is harder.
 - [[being-skthldfrdbn|Skathilda Fródbán]]—Scout and knife-fighter. Small, fast, and the most dangerous member of the gang after Dágulf himself. Everyone is afraid of her.
 - [[being-vndrcgrwld|Vandaric Garwald]]—The talker. A confidence man and gambler who gathers intelligence in border taverns. Charming, dishonest, and loyal to nothing.
