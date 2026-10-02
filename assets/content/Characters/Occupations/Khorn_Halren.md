@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: elavendriclt
   homes: [liranel]
-  affiliations: [kngdmlvndr]
+  affiliations: {kngdmlvndr: {}}
   gender: male
   species: humanflk
   born: 684.166

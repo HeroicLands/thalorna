@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: provenzianclt
   homes: [belporte]
-  affiliations: [kngdmprvnz]
+  affiliations: {kngdmprvnz: {}}
   gender: male
   species: humanflk
   born: 673.127

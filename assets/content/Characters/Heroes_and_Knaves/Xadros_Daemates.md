@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: vylarianclt
   homes: [sanctara]
-  affiliations: [hlykngdmnrtm]
+  affiliations: {hlykngdmnrtm: {}}
   gender: male
   species: humanflk
   born: 682.263

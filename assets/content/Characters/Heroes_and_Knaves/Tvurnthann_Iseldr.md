@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: nordheimnclt
   homes: [thrunborg]
-  affiliations: [kngdmvthgrd]
+  affiliations: {kngdmvthgrd: {}}
   gender: male
   species: humanflk
   born: 666.118

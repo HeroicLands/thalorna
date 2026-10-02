@@ -17,7 +17,7 @@ data:
   lore: [commonerrnk]
   culture: vylarianclt
   homes: [magnapolis]
-  affiliations: [vylarinmpr]
+  affiliations: {vylarinmpr: {}}
   gender: female
   species: humanflk
   born: 677.41

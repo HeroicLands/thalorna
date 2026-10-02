@@ -13,7 +13,7 @@ data:
   lore: [landedlordrnk]
   culture: aelwythanclt
   homes: [thornbury]
-  affiliations: [repblctrvn]
+  affiliations: {repblctrvn: {}}
   gender: female
   species: humanflk
   born: 694.267

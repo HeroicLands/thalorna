@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: aelwythanclt
   homes: [dunmere]
-  affiliations: [kngdmldrth]
+  affiliations: {kngdmldrth: {}}
   gender: female
   species: humanflk
   born: 689.171

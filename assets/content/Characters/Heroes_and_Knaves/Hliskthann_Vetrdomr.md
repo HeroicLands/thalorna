@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: nordheimnclt
   homes: [malstead]
-  affiliations: [kingdomlgn]
+  affiliations: {kingdomlgn: {}}
   gender: male
   species: humanflk
   born: 673.127

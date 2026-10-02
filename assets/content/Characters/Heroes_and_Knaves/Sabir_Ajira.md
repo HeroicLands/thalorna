@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: kaliharanclt
   homes: [qasirah]
-  affiliations: [kalihara]
+  affiliations: {kalihara: {}}
   gender: male
   species: humanflk
   born: 683.137

@@ -15,7 +15,7 @@ data:
   lore: []
   culture: tanvuriclt
   homes: []
-  affiliations: []
+  affiliations: {}
   gender: null
   species: humanflk
   age: null

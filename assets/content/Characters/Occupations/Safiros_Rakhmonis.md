@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: helioniteclt
   homes: [kalydria2]
-  affiliations: [kalydria]
+  affiliations: {kalydria: {}}
   gender: male
   species: humanflk
   born: 678.58

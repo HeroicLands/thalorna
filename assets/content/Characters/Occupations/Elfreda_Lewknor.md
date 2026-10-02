@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: aelwythanclt
   homes: [caerwynd]
-  affiliations: [kngdmldrth]
+  affiliations: {kngdmldrth: {}}
   gender: female
   species: humanflk
   born: 692.113

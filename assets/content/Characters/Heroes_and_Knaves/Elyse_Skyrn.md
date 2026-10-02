@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: elavendriclt
   homes: [elavendre]
-  affiliations: [slntlncmpny, ordoarcanis, kngdmlvndr]
+  affiliations: {slntlncmpny: {}, ordoarcanis: {}, kngdmlvndr: {}}
   gender: female
   species: humanflk
   born: 693.329

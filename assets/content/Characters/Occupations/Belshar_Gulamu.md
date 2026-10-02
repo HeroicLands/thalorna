@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: haradianclt
   homes: [miravel]
-  affiliations: [cnfdrtnhrdnstts]
+  affiliations: {cnfdrtnhrdnstts: {}}
   gender: male
   species: humanflk
   born: 684.105

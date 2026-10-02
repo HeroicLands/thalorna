@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: vylarianclt
   homes: [corvinus]
-  affiliations: [provinclys]
+  affiliations: {provinclys: {}}
   gender: female
   species: humanflk
   born: 691.102

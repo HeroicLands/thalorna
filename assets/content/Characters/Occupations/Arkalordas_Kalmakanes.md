@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: vylarianclt
   homes: [aelissium]
-  affiliations: [vylarinmpr]
+  affiliations: {vylarinmpr: {}}
   gender: male
   species: humanflk
   born: 687.101

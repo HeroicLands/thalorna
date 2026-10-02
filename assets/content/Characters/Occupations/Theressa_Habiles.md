@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: helioniteclt
   homes: [theradon2]
-  affiliations: [theradon]
+  affiliations: {theradon: {}}
   gender: female
   species: humanflk
   born: 690.263

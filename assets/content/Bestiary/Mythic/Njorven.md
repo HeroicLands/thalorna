@@ -13,7 +13,7 @@ data:
   stations: []
   lore: []
   homes: []
-  affiliations: [njorvencult]
+  affiliations: {njorvencult: {}}
   gender: null
   species: null
   age: null

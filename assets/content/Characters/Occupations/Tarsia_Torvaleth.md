@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: tarvenanclt
   homes: [tarvenirgn]
-  affiliations: [kingdmtrvn]
+  affiliations: {kingdmtrvn: {}}
   gender: female
   species: humanflk
   born: 694.207

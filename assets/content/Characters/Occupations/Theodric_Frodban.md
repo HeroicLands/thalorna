@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: varokhiclt
   homes: [dunkelwald]
-  affiliations: [vrystwldtrbs]
+  affiliations: {vrystwldtrbs: {}}
   gender: male
   species: humanflk
   born: 688.106

@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: dunhariclt
   homes: [dunashir]
-  affiliations: [dunhartrbs]
+  affiliations: {dunhartrbs: {}}
   gender: male
   species: humanflk
   born: 671.99

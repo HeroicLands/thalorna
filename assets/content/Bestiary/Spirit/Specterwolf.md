@@ -14,7 +14,7 @@ data:
   stations: []
   lore: []
   homes: []
-  affiliations: []
+  affiliations: {}
   gender: null
   species: null
   age: null

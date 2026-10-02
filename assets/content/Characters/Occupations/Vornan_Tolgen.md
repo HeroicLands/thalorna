@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: provenzianclt
   homes: [valcerise]
-  affiliations: [kngdmprvnz]
+  affiliations: {kngdmprvnz: {}}
   gender: male
   species: humanflk
   born: 674.246

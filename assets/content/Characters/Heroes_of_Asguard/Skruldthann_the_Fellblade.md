@@ -16,7 +16,7 @@ data:
   lore: [commonerrnk]
   culture: nordheimnclt
   homes: [nrdlndsrgn]
-  affiliations: [kngdmnrdhm]
+  affiliations: {kngdmnrdhm: {}}
   gender: male
   species: humanflk
   born: 679.290

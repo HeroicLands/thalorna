@@ -13,7 +13,7 @@ data:
   lore: [landedlordrnk]
   culture: provenzianclt
   homes: [chastelclr]
-  affiliations: [kngdmprvnz]
+  affiliations: {kngdmprvnz: {}}
   gender: female
   species: humanflk
   born: 696.295

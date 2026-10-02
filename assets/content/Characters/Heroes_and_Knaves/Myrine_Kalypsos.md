@@ -17,7 +17,7 @@ data:
   lore: [commonerrnk]
   culture: vylarianclt
   homes: [belekos]
-  affiliations: [provinclys, blackflame]
+  affiliations: {provinclys: {}, blackflame: {}}
   gender: female
   species: humanflk
   born: 696.341
@@ -53,7 +53,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 15}}
-    - {model: affiliation-blackflame}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 48}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 32}}

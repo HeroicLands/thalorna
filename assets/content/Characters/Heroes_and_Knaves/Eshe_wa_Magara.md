@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: okharinclt
   homes: [zarhanor]
-  affiliations: [okharis]
+  affiliations: {okharis: {}}
   gender: female
   species: humanflk
   born: 683.162

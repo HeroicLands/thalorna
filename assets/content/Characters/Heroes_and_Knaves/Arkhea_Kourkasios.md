@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: byzarianclt
   homes: [yesilhan2]
-  affiliations: [byzarianlg]
+  affiliations: {byzarianlg: {}}
   gender: female
   species: humanflk
   born: 658.162

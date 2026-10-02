@@ -14,7 +14,7 @@ data:
   lore: [gentryrnk]
   culture: helioniteclt
   homes: [helionis]
-  affiliations: [thetamzir, theradon]
+  affiliations: {thetamzir: {}, theradon: {}}
   gender: female
   species: humanflk
   born: 693.300

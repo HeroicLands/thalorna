@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: elavendriclt
   homes: [silvain]
-  affiliations: [kngdmlvndr]
+  affiliations: {kngdmlvndr: {}}
   gender: female
   species: humanflk
   born: 695.94

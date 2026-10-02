@@ -12,7 +12,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [gnarthborg]
-  affiliations: [kingdomlgn]
+  affiliations: {kingdomlgn: {}}
   gender: male
   species: humanflk
   packFolder: malagna

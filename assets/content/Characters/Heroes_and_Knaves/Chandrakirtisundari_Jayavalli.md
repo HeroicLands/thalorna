@@ -17,7 +17,7 @@ data:
   lore: [commonerrnk]
   culture: vedyariclt
   homes: [vyalendra3]
-  affiliations: [vyalendra2]
+  affiliations: {vyalendra2: {}}
   gender: female
   species: humanflk
   born: 685.18

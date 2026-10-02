@@ -13,7 +13,7 @@ data:
   lore: [landedlordrnk]
   culture: aelwythanclt
   homes: [greywater]
-  affiliations: [kngdmldrth]
+  affiliations: {kngdmldrth: {}}
   gender: female
   species: humanflk
   born: 689.18

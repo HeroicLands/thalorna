@@ -14,7 +14,7 @@ data:
   lore: [commonerrnk]
   culture: khelathiclt
   homes: [khelzuret]
-  affiliations: [empireakhlth]
+  affiliations: {empireakhlth: {}}
   gender: female
   species: humanflk
   born: 689.171

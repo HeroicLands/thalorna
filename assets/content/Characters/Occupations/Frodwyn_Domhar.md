@@ -13,7 +13,7 @@ data:
   lore: [landedlordrnk]
   culture: varokhiclt
   homes: [dunkelwald]
-  affiliations: [vrystwldtrbs]
+  affiliations: {vrystwldtrbs: {}}
   gender: female
   species: humanflk
   born: 686.96

@@ -17,7 +17,7 @@ data:
   lore: [commonerrnk]
   culture: nordheimnclt
   homes: [gnaldrfjord]
-  affiliations: [kingdmnrgd]
+  affiliations: {kingdmnrgd: {}}
   gender: female
   species: humanflk
   born: 690.159

@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: byzarianclt
   homes: [thalassos]
-  affiliations: [byzarianlg]
+  affiliations: {byzarianlg: {}}
   gender: male
   species: humanflk
   born: 678.60

@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: dunhariclt
   homes: [tahrodan]
-  affiliations: [sultntmrdd]
+  affiliations: {sultntmrdd: {}}
   gender: male
   species: humanflk
   born: 678.190

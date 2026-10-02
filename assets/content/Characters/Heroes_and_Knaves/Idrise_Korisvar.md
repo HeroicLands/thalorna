@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: elavendriclt
   homes: [elanmere]
-  affiliations: [kngdmprvnz]
+  affiliations: {kngdmprvnz: {}}
   gender: female
   species: humanflk
   born: 691.15

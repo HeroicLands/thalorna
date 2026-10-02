@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: byzarianclt
   homes: [denizara2]
-  affiliations: [byzarianlg]
+  affiliations: {byzarianlg: {}}
   gender: male
   species: humanflk
   born: 694.182

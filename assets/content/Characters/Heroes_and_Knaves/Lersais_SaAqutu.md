@@ -14,7 +14,7 @@ data:
   lore: [landedlordrnk]
   culture: khelathiclt
   homes: [anlaghzetun]
-  affiliations: [empireakhlth]
+  affiliations: {empireakhlth: {}}
   gender: male
   species: humanflk
   born: 672.111

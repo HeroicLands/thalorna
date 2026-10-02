@@ -13,7 +13,7 @@ data:
   lore: [landedlordrnk]
   culture: nordheimnclt
   homes: [thraldfjord]
-  affiliations: [kngdmnrdhm]
+  affiliations: {kngdmnrdhm: {}}
   gender: male
   species: humanflk
   born: 686.98

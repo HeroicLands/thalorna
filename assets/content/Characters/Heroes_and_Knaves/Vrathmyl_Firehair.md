@@ -17,7 +17,7 @@ data:
   lore: [commonerrnk]
   culture: nordheimnclt
   homes: [tvarnmark]
-  affiliations: [kingdmnrgd]
+  affiliations: {kingdmnrgd: {}}
   gender: male
   species: humanflk
   born: 692.94

@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: nyalubaclt
   homes: [fenjaravlg]
-  affiliations: [nylbtrblntn]
+  affiliations: {nylbtrblntn: {}}
   gender: male
   species: humanflk
   born: 692.32

@@ -13,7 +13,7 @@ data:
   lore: [landedlordrnk]
   culture: aelwythanclt
   homes: [kingsholow]
-  affiliations: [kngdmldrth]
+  affiliations: {kngdmldrth: {}}
   gender: male
   species: humanflk
   born: 682.284

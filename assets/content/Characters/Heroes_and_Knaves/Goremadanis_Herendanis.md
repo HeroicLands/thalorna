@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: vylarianclt
   homes: [belekos]
-  affiliations: [provncmktr]
+  affiliations: {provncmktr: {}}
   gender: female
   species: humanflk
   born: 698.37

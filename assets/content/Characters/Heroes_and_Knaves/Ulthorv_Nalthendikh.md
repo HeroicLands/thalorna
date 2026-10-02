@@ -13,7 +13,7 @@ data:
   lore: [slavernk]
   culture: nordheimnclt
   homes: [horgsvangr]
-  affiliations: [kngdmnrdhm]
+  affiliations: {kngdmnrdhm: {}}
   gender: male
   species: humanflk
   born: 682.134

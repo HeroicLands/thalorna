@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: bethuanclt
   homes: [ashira]
-  affiliations: [mtrrchybth]
+  affiliations: {mtrrchybth: {}}
   gender: female
   species: humanflk
   born: 686.263

@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: aelwythanclt
   homes: [ravenmoor]
-  affiliations: [kingdmdnvr]
+  affiliations: {kingdmdnvr: {}}
   gender: male
   species: humanflk
   born: 672.270

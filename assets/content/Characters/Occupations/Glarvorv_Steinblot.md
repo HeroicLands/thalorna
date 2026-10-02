@@ -13,7 +13,7 @@ data:
   lore: [landedlordrnk]
   culture: nordheimnclt
   homes: [dvalgheim]
-  affiliations: [kngdmnrdhm]
+  affiliations: {kngdmnrdhm: {}}
   gender: male
   species: humanflk
   born: 689.159

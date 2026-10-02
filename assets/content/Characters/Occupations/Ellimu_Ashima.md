@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: haradianclt
   homes: [qadhirun]
-  affiliations: [cnfdrtnhrdnstts]
+  affiliations: {cnfdrtnhrdnstts: {}}
   gender: male
   species: humanflk
   born: 682.190

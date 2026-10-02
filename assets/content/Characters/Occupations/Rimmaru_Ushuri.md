@@ -13,7 +13,7 @@ data:
   lore: [landedlordrnk]
   culture: haradianclt
   homes: [miravel]
-  affiliations: [cnfdrtnhrdnstts]
+  affiliations: {cnfdrtnhrdnstts: {}}
   gender: female
   species: humanflk
   born: 694.79

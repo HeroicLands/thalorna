@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: khazrynclt
   homes: [zargandur]
-  affiliations: [khzrncnfdrtn]
+  affiliations: {khzrncnfdrtn: {}}
   gender: female
   species: humanflk
   born: 673.102

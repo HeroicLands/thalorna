@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: dunhariclt
   homes: [golshahr]
-  affiliations: [sultntmrdd]
+  affiliations: {sultntmrdd: {}}
   gender: female
   species: humanflk
   born: 691.299

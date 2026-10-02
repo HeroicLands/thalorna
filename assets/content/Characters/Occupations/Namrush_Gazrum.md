@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: haradianclt
   homes: [haradregin]
-  affiliations: [cnfdrtnhrdnstts]
+  affiliations: {cnfdrtnhrdnstts: {}}
   gender: male
   species: humanflk
   born: 688.327

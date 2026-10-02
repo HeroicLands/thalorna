@@ -13,7 +13,7 @@ data:
   lore: [slavernk]
   culture: varokhiclt
   homes: [vrystwald]
-  affiliations: [blckpnwlvs, vrystwldtrbs]
+  affiliations: {blckpnwlvs: {office: Leader}, vrystwldtrbs: {}}
   gender: male
   species: humanflk
   born: 686.237

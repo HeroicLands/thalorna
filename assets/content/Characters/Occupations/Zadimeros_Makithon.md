@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: helioniteclt
   homes: [thyrenae2]
-  affiliations: [thyrenae]
+  affiliations: {thyrenae: {}}
   gender: male
   species: humanflk
   born: 675.281

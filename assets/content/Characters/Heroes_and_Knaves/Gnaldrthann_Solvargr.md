@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: nordheimnclt
   homes: [hvalgvik]
-  affiliations: [kingdomlgn]
+  affiliations: {kingdomlgn: {}}
   gender: male
   species: humanflk
   born: 678.58

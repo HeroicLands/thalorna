@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: nordheimnclt
   homes: [braldheim]
-  affiliations: [kingdomlgn]
+  affiliations: {kingdomlgn: {}}
   gender: female
   species: humanflk
   born: 688.120

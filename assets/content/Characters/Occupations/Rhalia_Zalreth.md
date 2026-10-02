@@ -13,7 +13,7 @@ data:
   lore: [landedlordrnk]
   culture: elavendriclt
   homes: [liranel]
-  affiliations: [kngdmlvndr]
+  affiliations: {kngdmlvndr: {}}
   gender: female
   species: humanflk
   born: 688.4

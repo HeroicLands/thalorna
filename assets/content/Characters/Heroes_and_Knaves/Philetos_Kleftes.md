@@ -17,7 +17,7 @@ data:
   lore: [commonerrnk]
   culture: vylarianclt
   homes: [alyssar]
-  affiliations: [provinclys]
+  affiliations: {provinclys: {}}
   gender: male
   species: humanflk
   born: 687.110

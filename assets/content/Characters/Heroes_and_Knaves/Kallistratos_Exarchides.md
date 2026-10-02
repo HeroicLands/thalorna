@@ -13,7 +13,7 @@ data:
   lore: [landedlordrnk]
   culture: vylarianclt
   homes: [velysara]
-  affiliations: [provinclys, ordoarcanis]
+  affiliations: {provinclys: {}, ordoarcanis: {rank: 3}}
   gender: male
   species: humanflk
   born: 686.89

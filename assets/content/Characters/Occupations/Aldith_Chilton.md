@@ -13,7 +13,7 @@ data:
   lore: [landedlordrnk]
   culture: aelwythanclt
   homes: [ashford]
-  affiliations: [kngdmldrth]
+  affiliations: {kngdmldrth: {}}
   gender: female
   species: humanflk
   born: 694.162

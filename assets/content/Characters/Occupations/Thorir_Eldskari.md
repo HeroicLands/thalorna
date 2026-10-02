@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: aelwythanclt
   homes: [stormveil]
-  affiliations: [jrldmstrmvld]
+  affiliations: {jrldmstrmvld: {}}
   gender: male
   species: humanflk
   born: 677.276

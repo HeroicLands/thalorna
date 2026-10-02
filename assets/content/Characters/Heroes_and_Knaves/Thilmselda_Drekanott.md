@@ -13,7 +13,7 @@ data:
   lore: [commonerrnk]
   culture: nordheimnclt
   homes: [tvalgard]
-  affiliations: [kingdmtrgd]
+  affiliations: {kingdmtrgd: {}}
   gender: female
   species: humanflk
   born: 668.91
