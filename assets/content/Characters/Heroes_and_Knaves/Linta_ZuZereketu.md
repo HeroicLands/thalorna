@@ -11,7 +11,7 @@ data:
   archetypes: [warrior, woodsman]
   occupation: Caravan Guard
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: khelathiclt
   homes: [garanlaghet]
   affiliations: [empireakhlth]

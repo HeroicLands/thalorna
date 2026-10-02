@@ -10,7 +10,7 @@ data:
   archetypes: [warrior, skirmisher]
   occupation: Raider Warlord
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: bethuanclt
   homes: [bethuargn]
   affiliations: [mtrrchybth]

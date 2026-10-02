@@ -10,7 +10,7 @@ data:
   archetypes: [artisan]
   occupation: Glassworker
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: haradianclt
   homes: [qadhirun]
   affiliations: [cnfdrtnhrdnstts]

@@ -14,7 +14,7 @@ data:
   archetypes: [skirmisher, woodsman]
   occupation: Hunter
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: varokhiclt
   homes: [eichengrnd]
   affiliations: [vrystwldtrbs]

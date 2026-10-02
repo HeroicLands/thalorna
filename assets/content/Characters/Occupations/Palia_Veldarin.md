@@ -10,7 +10,7 @@ data:
   archetypes: [commoner]
   occupation: Domestic Servant
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: elavendriclt
   homes: [cerdwnshlw]
   affiliations: [kngdmlvndr]

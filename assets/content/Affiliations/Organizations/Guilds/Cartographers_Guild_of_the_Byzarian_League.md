@@ -23,17 +23,14 @@ data:
     ranks:
       - level: 1
         title: Apprentice
-        lore: apprenticernk
         description: >-
           Admitted by examination, typically between twelve and sixteen years of age, trained in geometry, drafting, surveying, and the foundational pigments and inks.
       - level: 2
         title: Journeyman
-        lore: journeymanrnk
         description: >-
           Qualified by an examined survey of an assigned territory, granted the right to take paid commissions under a master's seal.
       - level: 3
         title: Master
-        lore: masterrnk
         description: >-
           Qualified by a vote of sitting masters after a presented original work, granted the right to seal commissions, take apprentices and sit on guild councils.
     offices:

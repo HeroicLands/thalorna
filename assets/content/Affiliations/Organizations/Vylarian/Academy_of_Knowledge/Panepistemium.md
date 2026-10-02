@@ -17,17 +17,14 @@ data:
     ranks:
       - level: 1
         title: Student
-        lore: initiaternk
         description: >-
           Come from patrician and well-propertied families able to support the long years of study; the District neither admits nor lodges the poor.
       - level: 3
         title: Scholar
-        lore: masterrnk
         description: >-
           Of a college, studying and teaching one domain of philosophical inquiry alongside scholars who often hold appointments in more than one.
       - level: 4
         title: Senior Scholar
-        lore: seatedelderrnk
         description: >-
           Head of a college, convened with the other colleges' heads in common assembly to set institutional policy, resolve disputes and maintain the Epistemium's standards.
     offices: {}

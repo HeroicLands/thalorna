@@ -10,7 +10,7 @@ data:
   archetypes: [artisan]
   occupation: Perfumer
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: byzarianclt
   homes: [denizara2]
   affiliations: [byzarianlg]

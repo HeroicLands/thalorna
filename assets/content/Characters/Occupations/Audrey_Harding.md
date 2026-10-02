@@ -10,7 +10,7 @@ data:
   archetypes: [cleric]
   occupation: Priest
   stations: []
-  lore: [landedlordrnk]
+  lore: []
   culture: aelwythanclt
   homes: [greywater]
   affiliations: [kngdmldrth]

@@ -17,12 +17,10 @@ data:
     ranks:
       - level: 0
         title: Cast Out
-        lore: expelledrnk
         description: >-
           Put out of the House, her training disowned and her name given to every satellite house and to the Guild—no door in Vedyara opens to her again.
       - level: 1
         title: Servant of the House
-        lore: servantrnk
         description: >-
           Kept for the running of the establishment—its kitchens, its linens, its doors—and taught nothing of the curriculum.
       - level: 2
@@ -32,32 +30,26 @@ data:
           Under instruction in the curriculum: the poetry in three court dialects, the four instruments, the reckoning and the reading of a room.
       - level: 3
         title: Companion
-        lore: swornmemberrnk
         description: >-
           Graduated and receiving clients, and debriefed after every engagement by the handler assigned to her.
       - level: 4
         title: Senior Companion
-        lore: earnerrnk
         description: >-
           Trusted with the clients whose evenings are worth the most and whose talk is worth more, and consulted on whom to recruit.
       - level: 5
         title: Handler
-        lore: officerrnk
         description: >-
           Commonly a former Companion, who debriefs, transcribes, and decides what a night's talk is worth and to whom.
       - level: 6
         title: Mistress of a Satellite House
-        lore: commanderrnk
         description: >-
           Holding one of the houses in the other Vedyaran cities, answerable for its Companions and its product.
       - level: 7
         title: Elder of the House
-        lore: seatedelderrnk
         description: >-
           Retired from clients and of the small body that sets the curriculum, the tiers and the terms.
       - level: 8
         title: Mistress of the Long Evening
-        lore: grandmasterrnk
         description: >-
           The Sandhyā-mātā: an elder courtesan withdrawn from clients who governs the House, its instruction and everything it sells.
     offices:

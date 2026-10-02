@@ -17,22 +17,18 @@ data:
     ranks:
       - level: 0
         title: Struck from the Roll
-        lore: expelledrnk
         description: >-
           Put out of the magistracy with the record endorsed. The endorsement is the sentence—it closes every civic office in the city, and the trades a former Aedile ruled over remember him.
       - level: 1
         title: Ward Clerk
-        lore: clerkrnk
         description: >-
           Keeps the ward's registers: the licenses, the weights attested, the buildings condemned and the fines levied. Sees every transaction the ward makes and is paid as though he saw none.
       - level: 2
         title: Inspector
-        lore: officerrnk
         description: >-
           Walks the quarter and applies the district law at the door—shutters a business, levies a fine on the spot, or marks a building for pulling down. The office where the law is actually felt, and the one most often bought.
       - level: 3
         title: Aedile
-        lore: magistraternk
         description: >-
           Magistrate of a ward, holding the only court most Magnápolitans will ever see: markets and licenses, weights and measures, building and sanitation, nuisance and petty disorder. Levies fines, shutters premises and condemns buildings, with the City Watch supplying the muscle behind the ruling.
     offices:

@@ -18,32 +18,26 @@ data:
     ranks:
       - level: 0
         title: Struck from the Rolls
-        lore: expelledrnk
         description: >-
           A warrant recalled and its captain disowned when she becomes an embarrassment; no Bethûan hull will ship her afterward and no House will own the service.
       - level: 1
         title: Marine
-        lore: warriorrnk
         description: >-
           Of the boarding-fighters who decide a galley action, drawn from the Spear-Sisterhood and the eunuch Spádai, fighting with blade, with javelin and with the unarmed Charíssa in a press where a longer weapon is useless.
       - level: 3
         title: Petty Officer
-        lore: officerrnk
         description: >-
           Holding a station's people: the bosun, the master of ordnance, the sailing-master's mate.
       - level: 4
         title: Naukléra
-        lore: commanderrnk
         description: >-
           Ship-mistress: commands a war-galley or a squadron, and in the private and privateer service is commonly the owner of her own vessel.
       - level: 5
         title: Naukrátissa
-        lore: magistraternk
         description: >-
           Sea-mistress: admiral of the fleet and the realm's chief naval commander, and a frequent stepping-stone to the highest circles of both councils.
       - level: 6
         title: Stratégissa
-        lore: magistraternk
         description: >-
           Supreme command of the whole host, army and fleet alike, held as the Mêtríssa's lent authority.
     offices:

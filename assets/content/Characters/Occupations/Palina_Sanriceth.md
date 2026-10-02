@@ -10,7 +10,7 @@ data:
   archetypes: [cleric]
   occupation: Priest
   stations: []
-  lore: [landedlordrnk]
+  lore: []
   culture: tarvenanclt
   homes: [solarden]
   affiliations: [kingdmtrvn]

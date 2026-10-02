@@ -10,7 +10,7 @@ data:
   archetypes: [artisan, warrior]
   occupation: Blacksmith and Warrior
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kngdmnrdhm]

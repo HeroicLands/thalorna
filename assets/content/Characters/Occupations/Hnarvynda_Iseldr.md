@@ -10,7 +10,7 @@ data:
   archetypes: [woodsman]
   occupation: Woodcutter
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: nordheimnclt
   homes: [odholm]
   affiliations: [kngdmnrdhm]

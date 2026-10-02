@@ -10,7 +10,7 @@ data:
   archetypes: [courtier]
   occupation: Herald
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: byzarianclt
   homes: [byzaris]
   affiliations: [byzarianlg]

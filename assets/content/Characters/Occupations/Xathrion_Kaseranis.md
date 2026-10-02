@@ -10,7 +10,7 @@ data:
   archetypes: [healer]
   occupation: Physician
   stations: []
-  lore: [landedlordrnk]
+  lore: []
   culture: vylarianclt
   homes: [valdosta]
   affiliations: [vylarinmpr]

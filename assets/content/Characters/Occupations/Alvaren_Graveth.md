@@ -10,7 +10,7 @@ data:
   archetypes: [artisan]
   occupation: Salter
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: tarvenanclt
   homes: [valdes]
   affiliations: [kingdmtrvn]

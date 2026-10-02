@@ -10,7 +10,7 @@ data:
   archetypes: [mage, healer]
   occupation: Alchemist
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: elavendriclt
   homes: [elavendre]
   affiliations: [slntlncmpny, ordoarcanis, kngdmlvndr]

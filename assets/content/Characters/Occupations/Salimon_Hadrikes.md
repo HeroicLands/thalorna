@@ -10,7 +10,7 @@ data:
   archetypes: [scholar]
   occupation: Scholar
   stations: []
-  lore: [landedlordrnk]
+  lore: []
   culture: helioniteclt
   homes: [theradon2]
   affiliations: [theradon]

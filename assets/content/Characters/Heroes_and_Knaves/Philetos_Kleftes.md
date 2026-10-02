@@ -14,7 +14,7 @@ data:
   archetypes: [scholar, warrior]
   occupation: Scholar
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: vylarianclt
   homes: [alyssar]
   affiliations: [provinclys]

@@ -17,17 +17,14 @@ data:
     ranks:
       - level: 0
         title: Removed
-        lore: dismissedrnk
         description: >-
           The Augustar appoints and dismisses alike; a Curator holds at the throne's pleasure and leaves at the throne's word.
       - level: 1
         title: Iudex
-        lore: magistraternk
         description: >-
           Of the Iudicia, the civil courts, drawn from the propertied orders and hearing citizen against citizen over property, contract, debt, inheritance and standing; the weightier disputes before panels.
       - level: 3
         title: Curator
-        lore: councillorrnk
         description: >-
           One of the five, appointed from the senatorial order, holding a standing portfolio and deciding the weightier matters with the others by majority. The chair rotates so that none becomes the head of the city.
     offices:

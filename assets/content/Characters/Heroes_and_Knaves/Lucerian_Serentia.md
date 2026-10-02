@@ -11,7 +11,7 @@ data:
   archetypes: [healer, scholar]
   occupation: Physician
   stations: []
-  lore: [gentryrnk]
+  lore: []
   culture: vylarianclt
   homes: [vylariargn]
   affiliations: [thetamzir, vylarinmpr]

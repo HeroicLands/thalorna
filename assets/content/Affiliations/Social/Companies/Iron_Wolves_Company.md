@@ -18,43 +18,34 @@ data:
     ranks:
       - level: 0
         title: Discharged in Disgrace
-        lore: expelledrnk
         description: >-
           Put out with the share forfeit and the name published, so that no other company will take them.
       - level: 1
         title: Servant
-        lore: servantrnk
         description: >-
           Attached to the company for its baggage, its cooking, its animals; not sworn and not shared with.
       - level: 2
         title: Hand
-        lore: dependentrnk
         description: Taken on for a season or a voyage, paid a wage, and holding no share of the undertaking.
       - level: 3
         title: Sworn Member
-        lore: swornmemberrnk
         description: >-
           Sworn to the company's articles, entitled to a share of what it takes and bound by what it agrees.
       - level: 4
         title: Veteran
-        lore: warriorrnk
         description: >-
           Of proven service across several undertakings, drawing a larger share and consulted before the company commits.
       - level: 5
         title: Officer
-        lore: officerrnk
         description: Holding a charge in the company—its stores, its scouts, its accounts, its discipline.
       - level: 6
         title: Lieutenant
-        lore: commanderrnk
         description: Second in the company, commanding in the captain's absence and detached with a part of it.
       - level: 7
         title: Captain
-        lore: commanderrnk
         description: Commanding the company, holding its articles and negotiating its contracts.
       - level: 8
         title: Master of the Company
-        lore: grandmasterrnk
         description: >-
           Where a company outlives its captains: the standing head who holds the name, the charter and the contracts between them.
     offices:

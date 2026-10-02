@@ -10,7 +10,7 @@ data:
   archetypes: [mage, scholar]
   occupation: Alchemist
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: khazrynclt
   homes: [ashkarad]
   affiliations: [tribestrzd]

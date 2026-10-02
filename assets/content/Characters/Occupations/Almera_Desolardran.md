@@ -10,7 +10,7 @@ data:
   archetypes: [warrior]
   occupation: Caravan Guard
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: tarvenanclt
   homes: [valthari]
   affiliations: [kingdmtrvn]

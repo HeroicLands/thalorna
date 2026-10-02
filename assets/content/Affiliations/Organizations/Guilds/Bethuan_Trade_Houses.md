@@ -19,17 +19,14 @@ data:
     ranks:
       - level: 0
         title: Expelled
-        lore: expelledrnk
         description: >-
           Admission or expulsion of a member house is the Council of Matriarchs' own to decide.
       - level: 1
         title: Lesser House
-        lore: swornmemberrnk
         description: >-
           A trading clan of regional standing conducting most of its business locally, relying on the Great Houses to extend credit and handle cross-territory transactions.
       - level: 3
         title: Great House
-        lore: greatlordrnk
         description: >-
           One of perhaps a dozen senior trading clans whose matriarch sits on the Council of Matriarchs, holding formal correspondent accounts at Khelâthi temples.
     offices:

@@ -18,27 +18,22 @@ data:
     ranks:
       - level: 0
         title: Patita
-        lore: excmmnctrnk
         description: >-
           "Fallen"—put out of the tradition, denied its rites and its teaching, and not received again by any of its houses.
       - level: 1
         title: Upāsaka
-        lore: layfaithfulrnk
         description: >-
           The lay follower, who keeps the observances and brings petitions without holding any office in the tradition.
       - level: 2
         title: Antevāsin
-        lore: initiaternk
         description: >-
           "One who dwells near"—acolytes, often of mature age, drawn from the building trades and the academies.
       - level: 3
         title: Ácārya
-        lore: priestrnk
         description: >-
           The working priesthood: scholar-priests trained in architecture, mathematics and theological argument as well as liturgy.
       - level: 4
         title: Parama-Ácārya
-        lore: highpriestrnk
         description: >-
           "Supreme Master"—senior priest of a temple, granted only after a rigorous philosophical examination, and expected to have published.
     offices:

@@ -10,7 +10,7 @@ data:
   archetypes: [healer, scholar]
   occupation: Apothecary
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: vylarianclt
   homes: [belekos]
   affiliations: [provinclys]

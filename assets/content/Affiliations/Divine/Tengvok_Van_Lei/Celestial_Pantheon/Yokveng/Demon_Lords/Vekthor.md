@@ -19,22 +19,18 @@ data:
     ranks:
       - level: 0
         title: Recorded
-        lore: expelledrnk
         description: >-
           Noticed: a file opened, the forgery known to the Bureau of All Records, and the cult finished with them. Where an orthodox clerk fears being struck from the rolls, here the catastrophe is being entered on them.
       - level: 1
         title: Lay
-        lore: layfaithfulrnk
         description: >-
           Has petitioned, keeps the small observances, and is thereby known to people they would rather not be known to. Most who deal with the Yokveng never go further.
       - level: 2
         title: Acolyte
-        lore: initiaternk
         description: >-
           Being taught the forms of address, the appeasements and the things that must not appear in the same document; not yet trusted to draft anything that will be burned.
       - level: 3
         title: Priest
-        lore: priestrnk
         description: >-
           Holds this one's particular forms and prohibitions, drafts, files, and keeps whatever censer they can keep—rarely a shrine and almost never a temple. Charges at rates reflecting the risk rather than the skill, because the drafting is the service: a loosely drawn petition is honored to the letter.
     offices:

@@ -19,27 +19,22 @@ data:
     ranks:
       - level: 0
         title: Exsecratus
-        lore: excmmnctrnk
         description: >-
           Cast out—denied the rites, the temple and the burial the faith promises, which is the one sentence it can pass that outlives the body.
       - level: 1
         title: Fideles
-        lore: layfaithfulrnk
         description: >-
           The lay faithful, who keep the feasts and the observances of the god without holding office in the temple.
       - level: 2
         title: Acolytes
-        lore: initiaternk
         description: >-
           Younger initiates, many of them apprentices to master smiths, learning the practical craft alongside theology.
       - level: 3
         title: Hammer-Priests
-        lore: priestrnk
         description: >-
           Ordained clergy who lead individual temples, consecrate forges, bless craftspeople and train the acolytes; themselves typically accomplished smiths.
       - level: 4
         title: Grand Pontifex
-        lore: highpriestrnk
         description: >-
           Supreme priest or priestess overseeing every Sacred Forge temple and its clergy across western Ankaris.
     offices:

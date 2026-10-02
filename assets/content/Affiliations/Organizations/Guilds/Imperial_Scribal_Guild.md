@@ -19,32 +19,26 @@ data:
     ranks:
       - level: 0
         title: Revoked License
-        lore: expelledrnk
         description: >-
           A scribe's license is revoked for proven misconduct, ending the right to seal.
       - level: 1
         title: Probationer
-        lore: initiaternk
         description: >-
           Scriba probandus—a student in training at a chapterhouse, not authorized to seal independently.
       - level: 2
         title: Scribe
-        lore: clerkrnk
         description: >-
           Scriba—qualified after the seven-year course, permitted to seal routine documents under the supervision of a master.
       - level: 3
         title: Master Scribe
-        lore: masterrnk
         description: >-
           Magister scribarum—examined, permitted to seal all civilian documents independently and to supervise junior scribes.
       - level: 4
         title: Guildmaster
-        lore: officerrnk
         description: >-
           Magister collegii—promoted by senior vote, permitted to seal imperial edicts and to hold positions on the Council of the Guild.
       - level: 5
         title: High Hand
-        lore: grandmasterrnk
         description: >-
           Manus prima—the Guild's chair, one position, held for life or until resignation.
     offices: {}

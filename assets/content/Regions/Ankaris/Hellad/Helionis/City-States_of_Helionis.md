@@ -16,44 +16,35 @@ data:
     ranks:
       - level: 0
         title: Atimos
-        lore: outlawrnk
         description: >-
           Stripped of civic honor by the courts: barred from the assembly, the agora and the temples, though still living among those who barred him.
       - level: 1
         title: Slave
-        lore: slavernk
         description: Owned outright, with no standing before the law except through an owner.
       - level: 2
         title: Freedman
-        lore: freedmanrnk
         description: Manumitted, working and trading in the city, and barred from the assembly for life.
       - level: 3
         title: Metic
-        lore: rsdntlnrnk
         description: A resident foreigner, taxed and liable to the levy, with no vote and no right to own land.
       - level: 4
         title: Citizen
-        lore: citizenrnk
         description: >-
           Of the citizen body by descent, voting in the assembly and serving in the militia. A citizen is not yet a member of the council.
       - level: 5
         title: Councillor
-        lore: councillorrnk
         description: >-
           Chosen by lot to the council that prepares the assembly's business, for one year and never twice.
       - level: 6
         title: Magistrate
-        lore: magistraternk
         description: >-
           Elected or allotted to an office of the city—its markets, its walls, its treasury, its courts—and audited at the end of the year.
       - level: 7
         title: Strategos
-        lore: magistraternk
         description: >-
           Elected to command the city's forces, the one office the citizens elect rather than allot, and re-elect without limit.
       - level: 8
         title: Archon
-        lore: prsdngffcrrnk
         description: >-
           Presiding magistrate of the year, who gives it his name and hands it back—the assembly remains sovereign throughout.
     offices:

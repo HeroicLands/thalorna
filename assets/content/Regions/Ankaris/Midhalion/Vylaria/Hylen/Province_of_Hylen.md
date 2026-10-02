@@ -15,35 +15,28 @@ data:
     ranks:
       - level: 0
         title: Proscribed
-        lore: outlawrnk
         description: >-
           Named in a proscription; property forfeit to the treasury and life forfeit to whoever collects it.
       - level: 1
         title: Slave
-        lore: slavernk
         description: Owned outright, with no standing at law except through an owner.
       - level: 2
         title: Freedman
-        lore: freedmanrnk
         description: Manumitted, and in the imperial household often far more powerful than the rank suggests.
       - level: 3
         title: Peregrine
-        lore: rsdntlnrnk
         description: >-
           A provincial living under imperial authority without the citizenship—the great majority of the empire's people.
       - level: 4
         title: Citizen
-        lore: citizenrnk
         description: >-
           Holding the citizenship by birth, grant or service, with its protections at law and its liability to its taxes.
       - level: 5
         title: Equestrian
-        lore: landedlordrnk
         description: >-
           Of the propertied order from which the prefectures, the procuratorships and the great commands are filled.
       - level: 6
         title: Senator
-        lore: councillorrnk
         description: >-
           Of the senatorial families, holding a seat for life and the empire's highest civil offices with it.
       - level: 7
@@ -52,7 +45,6 @@ data:
         description: Having held the consulship, and eligible thereafter for the greatest provincial commands.
       - level: 8
         title: Governor
-        lore: magistraternk
         description: >-
           Holding the province for the emperor, commanding its garrison and its courts, and answerable to him alone.
     offices:

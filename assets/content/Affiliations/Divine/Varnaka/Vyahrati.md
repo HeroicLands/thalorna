@@ -18,12 +18,10 @@ data:
     ranks:
       - level: 0
         title: Patita
-        lore: excmmnctrnk
         description: >-
           "Fallen"—put out of Varnakan observance altogether, and received again by no house and no sampradāya.
       - level: 1
         title: Upāsaka
-        lore: layfaithfulrnk
         description: >-
           The lay devotee, keeping the household observance of decay as return, kept in the petal bowl that stands on almost every Varnakan windowsill whatever the household's primary devotion. This is what devotion to this god ordinarily consists of, and for most of the faithful it is the whole of it.
       - level: 2

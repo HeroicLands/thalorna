@@ -10,7 +10,7 @@ data:
   archetypes: [entertainer]
   occupation: Musician (Lyre)
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: vylarianclt
   homes: [corvinus]
   affiliations: [vylarinmpr]

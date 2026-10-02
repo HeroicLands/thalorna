@@ -10,7 +10,7 @@ data:
   archetypes: [warrior, courtier]
   occupation: War Chief
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: varokhiclt
   homes: [eichengrnd]
   affiliations: [vrystwldtrbs]

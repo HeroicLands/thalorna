@@ -10,7 +10,7 @@ data:
   archetypes: [courtier, scholar]
   occupation: Nobility (Manor Lord)
   stations: []
-  lore: [landedlordrnk]
+  lore: []
   culture: vedyariclt
   homes: [suvarnagiri]
   affiliations: [suvrgrjnpd]

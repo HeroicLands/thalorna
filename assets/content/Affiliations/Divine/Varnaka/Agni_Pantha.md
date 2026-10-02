@@ -18,27 +18,22 @@ data:
     ranks:
       - level: 0
         title: Patita
-        lore: excmmnctrnk
         description: >-
           "Fallen"—put out of the tradition, denied its rites and its teaching, and not received again by any of its houses.
       - level: 1
         title: Upāsaka
-        lore: layfaithfulrnk
         description: >-
           The lay follower, who keeps the observances and brings petitions without holding any office in the tradition.
       - level: 2
         title: Bhasma
-        lore: initiaternk
         description: >-
           "Ash"—novices, who serve a five-year probation of travel and work before being entrusted with a vessel of their own.
       - level: 3
         title: Jvālita
-        lore: priestrnk
         description: >-
           "Kindled One"—the ordinary priesthood: itinerant, typically traveling alone or in pairs, each carrying their own ember-vessel.
       - level: 4
         title: Dahana-Mūla
-        lore: highpriestrnk
         description: >-
           "Root of the Burning"—senior priest of a regional chapter; a rare rank, since most of the sect's authority rests with individual priests on the road.
     offices:

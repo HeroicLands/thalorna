@@ -10,7 +10,7 @@ data:
   archetypes: [warrior]
   occupation: Town Guard
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kngdmnrdhm]

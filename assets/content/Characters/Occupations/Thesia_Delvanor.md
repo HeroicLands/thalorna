@@ -10,7 +10,7 @@ data:
   archetypes: [warrior]
   occupation: Mercenary
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: tarvenanclt
   homes: [tarvenirgn]
   affiliations: [kingdmtrvn]

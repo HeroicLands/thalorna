@@ -17,45 +17,36 @@ data:
     ranks:
       - level: 0
         title: Exile
-        lore: outlawrnk
         description: >-
           Driven from the city and denied its ballcourt, its market and its rites; no lord will take him and no kin will own him.
       - level: 1
         title: Captive
-        lore: slavernk
         description: >-
           Taken in war and held for labor or for the altar, with no standing and, commonly, no long future.
       - level: 2
         title: Commoner
-        lore: commonerrnk
         description: >-
           Working the milpa and owing labor on the temple platforms and causeways, and tribute in maize, cloth and cacao.
       - level: 3
         title: Craftsman
-        lore: journeymanrnk
         description: >-
           Of the skilled trades—potters, weavers, feather-workers, stone-cutters—attached to a lord's household or a temple.
       - level: 4
         title: Warrior
-        lore: warriorrnk
         description: Taker of captives, whose standing rises with each one and whose dress records them.
       - level: 5
         title: Scribe or Priest
-        lore: priestrnk
         description: >-
           Keeper of the count of days, the glyphs and the rites, without whom no lord may act at an auspicious hour.
       - level: 6
         title: Ajaw
-        lore: greatlordrnk
         description: A noble lord of the city, holding land, dependents and a place in the k'uhul ajaw's court.
       - level: 7
         title: Sahal
-        lore: greatlordrnk
         description: >-
           A subordinate lord holding a lesser center for the k'uhul ajaw, and the usual rank of a conquered city's ruler.
       - level: 8
         title: K'uhul Ajaw
-        lore: sovereignrnk
         description: >-
           Holy Lord: divine king of the city, who bleeds for it at the turn of the calendar and embodies it in war.
     offices:

@@ -10,7 +10,7 @@ data:
   archetypes: [scholar, courtier]
   occupation: Bureaucrat
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: elavendriclt
   homes: [cerdwnshlw]
   affiliations: [kngdmlvndr]

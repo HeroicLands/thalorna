@@ -10,7 +10,7 @@ data:
   archetypes: [commoner]
   occupation: Labourer (farm)
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: nordheimnclt
   homes: [raltholm]
   affiliations: [kngdmnrdhm]

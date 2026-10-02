@@ -10,7 +10,7 @@ data:
   archetypes: [cleric, courtier]
   occupation: Priest
   stations: []
-  lore: [landedlordrnk]
+  lore: []
   culture: varokhiclt
   homes: [dunkelwald]
   affiliations: [vrystwldtrbs]

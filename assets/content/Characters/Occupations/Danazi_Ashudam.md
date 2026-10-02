@@ -10,7 +10,7 @@ data:
   archetypes: [warrior]
   occupation: Gladiator
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: haradianclt
   homes: [kashmuret]
   affiliations: [cnfdrtnhrdnstts]

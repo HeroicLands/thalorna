@@ -17,42 +17,34 @@ data:
     ranks:
       - level: 0
         title: Outcaste
-        lore: outcasternk
         description: >-
           Placed outside the tharana by transgression or by birth, excluded from the wells, the temples and the courts.
       - level: 1
         title: Bonded Servant
-        lore: bondservantrnk
         description: >-
           Bound by debt or birth to a household, owing labor and lacking the standing to hold land.
       - level: 2
         title: Karmāja
-        lore: commonerrnk
         description: >-
           Born to the serving tharana—cultivators, artisans and laborers who hold their place by work rather than by rite.
       - level: 3
         title: Dhanāja
-        lore: gentryrnk
         description: >-
           Born to the productive tharana—merchants, herders and landholders, whose tithes in coin and goods sustain the temple and its granary.
       - level: 4
         title: Senāja
-        lore: warriorrnk
         description: >-
           Born to the warrior tharana, bearing arms by right and owing service in the militia the sabhā raises from the villages.
       - level: 5
         title: Ritūja
-        lore: priestrnk
         description: >-
           Born to the priestly tharana, keeper of rite and learning, without whose sanction no act of the sabhā is complete.
       - level: 6
         title: Sabhāsad
-        lore: councillorrnk
         description: >-
           A seated member of the sabhā, sent by a constituent village at its turn or by a guild holding a reserved seat, and answerable to those who sent him.
       - level: 7
         title: Sabhāpati
-        lore: prsdngffcrrnk
         description: >-
           The convening priest, who puts the sabhā's questions and declares what it has agreed. He presides and does not rule, and only the ordained may hold the office.
     offices:

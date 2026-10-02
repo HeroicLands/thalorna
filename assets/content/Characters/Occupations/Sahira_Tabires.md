@@ -10,7 +10,7 @@ data:
   archetypes: [scholar]
   occupation: Scribe
   stations: []
-  lore: [landedlordrnk]
+  lore: []
   culture: helioniteclt
   homes: [pelagora2]
   affiliations: [pelagora]

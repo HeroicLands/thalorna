@@ -18,12 +18,10 @@ data:
     ranks:
       - level: 1
         title: Halzi'a
-        lore: greatlordrnk
         description: >-
           Halzi'a of a selat, seated in the council for the house he heads and for the inter-selat business it settles.
       - level: 2
         title: Iru'palu
-        lore: greatlordrnk
         description: >-
           Of the royal house and the most exalted families, the highest hereditary rank below the throne. The council's de facto mediators come from among them, and wield enormous informal power.
     offices: {}

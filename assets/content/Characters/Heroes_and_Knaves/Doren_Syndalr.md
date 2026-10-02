@@ -10,7 +10,7 @@ data:
   archetypes: [warrior]
   occupation: Mercenary
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: provenzianclt
   homes: [provenzrgn]
   affiliations: [slntlncmpny, kngdmprvnz]

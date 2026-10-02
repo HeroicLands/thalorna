@@ -17,45 +17,36 @@ data:
     ranks:
       - level: 0
         title: Marked
-        lore: outlawrnk
         description: Named for killing, and every member who meets them is expected to try.
       - level: 1
         title: Hanger-on
-        lore: dependentrnk
         description: >-
           Around the organization and useful to it—a doorman, a runner, a girl in a house—and told nothing.
       - level: 2
         title: Associate
-        lore: swornmemberrnk
         description: >-
           Working for the organization without being of it: paid for jobs, and disposable between them.
       - level: 3
         title: Made Member
-        lore: swornmemberrnk
         description: >-
           Sworn in and under the organization's protection, owing it obedience and a cut of everything.
       - level: 4
         title: Earner
-        lore: earnerrnk
         description: >-
           Running a business of the organization's—a racket, a route, a house—and paying up from it.
       - level: 5
         title: Enforcer
-        lore: enforcerrnk
         description: >-
           Charged with what the organization collects by fear, and with what it does when fear fails.
       - level: 6
         title: Crew Boss
-        lore: commanderrnk
         description: Holding a crew and a territory, answerable for both and for what they bring in.
       - level: 7
         title: Underboss
-        lore: underbossrnk
         description: >-
           Second in the organization, running it day to day and standing between the boss and everyone else.
       - level: 8
         title: Boss
-        lore: grandmasterrnk
         description: >-
           Head of the organization, whose word is its only law and whose position lasts exactly as long as it is feared.
     offices:

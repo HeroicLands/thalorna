@@ -10,7 +10,7 @@ data:
   archetypes: [courtier]
   occupation: Courtier and Counselor
   stations: []
-  lore: [landedlordrnk]
+  lore: []
   culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: [kngdmnrdhm]

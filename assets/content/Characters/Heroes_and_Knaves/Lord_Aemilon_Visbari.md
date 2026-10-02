@@ -10,7 +10,7 @@ data:
   archetypes: [courtier, scholar]
   occupation: Herald
   stations: []
-  lore: [landedlordrnk]
+  lore: []
   culture: vylarianclt
   homes: [valdosta]
   affiliations: [vylarinmpr]

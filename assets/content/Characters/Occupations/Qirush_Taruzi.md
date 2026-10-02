@@ -10,7 +10,7 @@ data:
   archetypes: [artisan]
   occupation: Hideworker
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: haradianclt
   homes: [sulun]
   affiliations: [cnfdrtnhrdnstts]

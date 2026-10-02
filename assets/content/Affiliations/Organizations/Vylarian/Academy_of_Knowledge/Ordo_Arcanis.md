@@ -17,32 +17,26 @@ data:
     ranks:
       - level: 1
         title: Initiati
-        lore: initiaternk
         description: >-
           The newly inducted, often children or adolescents identified as having arcane talent; no rights beyond instruction and no unsupervised practice.
       - level: 2
         title: Discipuli
-        lore: apprenticernk
         description: >-
           Assigned to a Magister as mentor for five to ten years, combining arcane theory, practical instruction and indoctrination; may practice only under direct supervision.
       - level: 3
         title: Adepti
-        lore: masterrnk
         description: >-
           Qualified practitioners who have passed the Ordo's examinations and are licensed to practice independently; a voice in chapter meetings but no vote in governance.
       - level: 4
         title: Magistri
-        lore: councillorrnk
         description: >-
           The governing rank, holding a vote in their chapter's council; every chapter is governed by its council of Magistri.
       - level: 5
         title: Praelati
-        lore: seatedelderrnk
         description: >-
           Senior masters elevated by appointment of the existing Concilium, each holding a seat on the Concilium Magnum and typically leading a chapter.
       - level: 6
         title: Archmagister
-        lore: grandmasterrnk
         description: >-
           The single most powerful position in the arcane world, elected by the Praelati for life, presiding over the Concilium Magnum and speaking for the Ordo to foreign powers.
     offices: {}

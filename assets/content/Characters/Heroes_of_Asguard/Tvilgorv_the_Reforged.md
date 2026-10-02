@@ -10,7 +10,7 @@ data:
   archetypes: [warrior]
   occupation: Champion
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: nordheimnclt
   homes: [vrystwald]
   affiliations: [vrystwldtrbs]

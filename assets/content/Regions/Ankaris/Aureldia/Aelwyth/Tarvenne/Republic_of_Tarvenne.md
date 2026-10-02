@@ -16,36 +16,29 @@ data:
     ranks:
       - level: 0
         title: Proscribed
-        lore: outlawrnk
         description: >-
           Struck from the citizen roll and outlawed by decree; property forfeit, and any citizen may kill them without penalty.
       - level: 1
         title: Slave
-        lore: slavernk
         description: Owned outright, with no standing at law except through an owner.
       - level: 2
         title: Freedman
-        lore: freedmanrnk
         description: >-
           Manumitted, trading and holding property freely, but barred from office and owing duties to a former master.
       - level: 3
         title: Resident Alien
-        lore: rsdntlnrnk
         description: >-
           Living and trading in the republic under its protection, paying its taxes, and having no vote in it.
       - level: 4
         title: Citizen
-        lore: citizenrnk
         description: >-
           Enrolled in the citizen body, voting in the assembly and serving in the levy. A citizen is not a member of the governing order.
       - level: 5
         title: Equestrian
-        lore: landedlordrnk
         description: >-
           Of the propertied order that meets the census for office, and from which the magistracies are in practice filled.
       - level: 6
         title: Senator
-        lore: councillorrnk
         description: >-
           Of the ruling council itself, holding a seat for life and deliberating on war, treasury and law.
       - level: 7
@@ -55,7 +48,6 @@ data:
           Having held the chief magistracy and vacated it, and speaking with the weight that carries ever after.
       - level: 8
         title: First Senator
-        lore: prsdngffcrrnk
         description: >-
           Presiding over the council and speaking first in it—an office of precedence, held for a term, not a sovereign.
     offices:

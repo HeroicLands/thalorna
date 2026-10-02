@@ -10,7 +10,7 @@ data:
   archetypes: [warrior]
   occupation: Town Guard
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: helioniteclt
   homes: [athenikos2]
   affiliations: [athenikos]

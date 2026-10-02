@@ -10,7 +10,7 @@ data:
   archetypes: [warrior]
   occupation: Mercenary
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: varokhiclt
   homes: [waldburg]
   affiliations: [vrystwldtrbs]

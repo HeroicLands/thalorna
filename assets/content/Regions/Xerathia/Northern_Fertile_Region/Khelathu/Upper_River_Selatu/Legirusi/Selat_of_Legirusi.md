@@ -14,47 +14,38 @@ data:
     ranks:
       - level: 0
         title: Outcast
-        lore: expelledrnk
         description: >-
           Driven from the selatu and denied burial, which is the true sentence: without a tomb there is no continuation.
       - level: 1
         title: Bondsman
-        lore: slavernk
         description: >-
           Bound to an estate or a temple, owing labor on its fields and its works and holding nothing of his own.
       - level: 2
         title: Farmer
-        lore: commonerrnk
         description: >-
           Working the floodplain under a lord or a temple, owing a share of the harvest and labor on the canals.
       - level: 3
         title: Artisan or Merchant
-        lore: journeymanrnk
         description: >-
           Of the trades—potters, weavers, boatmen, traders—free of the fields and taxed on their work.
       - level: 4
         title: Scribe
-        lore: clerkrnk
         description: >-
           Lettered, and therefore the empire's principal path upward: a talented child of any house may enter the schools.
       - level: 5
         title: Legha'lutu
-        lore: landedlordrnk
         description: >-
           Ruler of an estate—its manor, its fields and its village—answerable to the Halzi'a above.
       - level: 6
         title: Halzi'a
-        lore: greatlordrnk
         description: >-
           Halzi'a: hereditary governor of a selat, commanding its army, collecting its taxes and dispensing its justice.
       - level: 7
         title: Iru'palu
-        lore: greatlordrnk
         description: >-
           Of the royal house and the most exalted families, the highest hereditary rank below the throne.
       - level: 8
         title: Gar-Aû
-        lore: sovereignrnk
         description: >-
           The divine sovereign, on whose claim all temple and secular authority rests—a fiction nobody believes and nobody may abandon.
     offices:

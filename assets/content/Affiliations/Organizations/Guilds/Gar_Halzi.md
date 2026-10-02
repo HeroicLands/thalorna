@@ -18,17 +18,14 @@ data:
     ranks:
       - level: 0
         title: Expelled
-        lore: expelledrnk
         description: >-
           Struck from a chapter-temple's service, no longer accounted a priest of the Account.
       - level: 1
         title: Priest
-        lore: priestrnk
         description: >-
           Ordained to a Khelâthi temple's rites, the order every senior officer is drawn from, but not yet assigned independent charge of a chapter's treasury function.
       - level: 3
         title: High Priest
-        lore: highpriestrnk
         description: >-
           Head of one of the eight greatest temples, constituting the Council of the High Priests, the network's governing body.
     offices:

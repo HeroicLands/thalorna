@@ -11,7 +11,7 @@ data:
   archetypes: [artisan]
   occupation: Perfumer
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: khelathiclt
   homes: [galezkara]
   affiliations: [empireakhlth]

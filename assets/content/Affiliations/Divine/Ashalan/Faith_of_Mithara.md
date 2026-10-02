@@ -20,27 +20,22 @@ data:
     ranks:
       - level: 0
         title: Flame-Denied
-        lore: excmmnctrnk
         description: >-
           Barred from the fire: no temple will admit them to an altar, and no Hērbad will kindle for them. In a faith where every prayer begins with a flame, this ends religious life entirely.
       - level: 1
         title: Lay Faithful
-        lore: layfaithfulrnk
         description: >-
           Of the faith by observance—keeping the household fire-ritual at sunrise and sunset, which is the foundational act of Āsháian practice and needs no priest.
       - level: 2
         title: Āthravān
-        lore: initiaternk
         description: >-
           "Fire-Keeper"—initiates whose duty is the flame itself: feeding it with practiced precision, keeping it from wind and rain, collecting and preserving the ashes. Ordination requires maintaining a portion of the temple fire for a full year without its failing.
       - level: 3
         title: Hērbad
-        lore: priestrnk
         description: >-
           "Teacher-Priest"—the working priesthood: daily rituals, instruction, pastoral duty, and the reading of flame-behavior as omen. Trained in theology, astronomy, medicine and the interpretation of signs; they serve in temples, travel with caravans and minister to the tribes.
       - level: 4
         title: Mōbad
-        lore: highpriestrnk
         description: >-
           "Master of Fire"—senior priest of a major fire-temple or a regional authority, personally responsible for its eternal flame and keeper of its fire-lineage records. Adjudicates theological disputes; the Mōbad of the Great Fire-Temple of Amradad holds influence rivaling the Sultan's vizier.
     offices:

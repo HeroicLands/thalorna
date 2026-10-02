@@ -17,22 +17,18 @@ data:
     ranks:
       - level: 0
         title: Expelled
-        lore: expelledrnk
         description: >-
           Struck from a trade's charter and the Sôd's roll; the Sôd's authority over guilds is equivalent to the Vylarian Collegium's it replaced.
       - level: 1
         title: Apprentice
-        lore: apprenticernk
         description: >-
           Bound to a chartered trade and examined as the Sôd's authority requires, not yet a registered master.
       - level: 3
         title: Guildmaster
-        lore: masterrnk
         description: >-
           A registered master of one of the Sôd's chartered trades, examined and bound to its standards.
       - level: 4
         title: Sôd-Rabbânîn Seat
-        lore: councillorrnk
         description: >-
           The senior naqîr of a recognized trade-category, elected by that trade's own masters to one of the thirty-two seats of the standing council.
     offices:

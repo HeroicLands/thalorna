@@ -10,7 +10,7 @@ data:
   archetypes: [infiltrator]
   occupation: Assassin
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: vedyariclt
   homes: [chandrapur2]
   affiliations: [chandrapur]

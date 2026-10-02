@@ -10,7 +10,7 @@ data:
   archetypes: [artisan]
   occupation: Chandler
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: elavendriclt
   homes: [liranel]
   affiliations: [kngdmlvndr]

@@ -10,7 +10,7 @@ data:
   archetypes: [artisan]
   occupation: Toymaker
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: vedyariclt
   homes: [chandrapur2]
   affiliations: [chandrapur]

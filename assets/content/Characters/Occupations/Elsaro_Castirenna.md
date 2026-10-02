@@ -10,7 +10,7 @@ data:
   archetypes: [warrior, infiltrator]
   occupation: Mercenary
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: tarvenanclt
   homes: [torreviga]
   affiliations: [kingdmtrvn]

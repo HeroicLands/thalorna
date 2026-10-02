@@ -14,7 +14,7 @@ data:
   archetypes: [warrior]
   occupation: Nobility (Knight Bachelor)
   stations: []
-  lore: [landedlordrnk]
+  lore: []
   culture: byzarianclt
   homes: [karatas2]
   affiliations: [byzarianlg]

@@ -16,45 +16,36 @@ data:
     ranks:
       - level: 0
         title: Proscribed
-        lore: excmmnctrnk
         description: >-
           Placed under interdict by the Synod: unlicensed, unemployable and barred from every court and market in the realm.
       - level: 1
         title: Unfree
-        lore: slavernk
         description: >-
           Bound in service or debt, and answerable through a master rather than at the Synod's courts.
       - level: 2
         title: Subject
-        lore: commonerrnk
         description: Free at law, taxed, protected and governed—and with no voice whatever in how.
       - level: 3
         title: Freeman of a Chartered Town
-        lore: burgherrnk
         description: >-
           Enrolled in a town holding a Synod charter, with its markets, its courts and its guild rights.
       - level: 4
         title: Licensed Practitioner
-        lore: clerkrnk
         description: >-
           Permitted to practice an art the Synod regulates—physic, letters, minor sorcery—under its inspection.
       - level: 5
         title: Adept
-        lore: masterrnk
         description: >-
           Admitted to the Synod's instruction, sworn to its discipline and beginning to be trusted with its business.
       - level: 6
         title: Magister
-        lore: magistraternk
         description: >-
           A mage of the Synod holding a portfolio of state—a district, a court, a revenue, a garrison.
       - level: 7
         title: Elder of the Synod
-        lore: seatedelderrnk
         description: Sitting in the closed session where policy is actually decided.
       - level: 8
         title: Prime of the Synod
-        lore: grandmasterrnk
         description: >-
           Presiding over the Synod, and thereby over the realm—chosen by the Elders and removable by them.
     offices:

@@ -14,7 +14,7 @@ data:
   archetypes: [infiltrator, courtier]
   occupation: Intelligence Officer
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: vylarianclt
   homes: [magnapolis]
   affiliations: [vylarinmpr]

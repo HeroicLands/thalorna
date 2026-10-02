@@ -10,7 +10,7 @@ data:
   archetypes: [warrior]
   occupation: Yeoman Infantry
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: byzarianclt
   homes: [denizara2]
   affiliations: [byzarianlg]

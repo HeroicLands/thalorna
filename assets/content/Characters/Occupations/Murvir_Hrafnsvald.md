@@ -10,7 +10,7 @@ data:
   archetypes: [artisan]
   occupation: Jeweller
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: nordheimnclt
   homes: [knalthstead]
   affiliations: [kngdmnrdhm]

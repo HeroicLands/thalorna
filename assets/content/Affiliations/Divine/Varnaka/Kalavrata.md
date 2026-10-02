@@ -18,12 +18,10 @@ data:
     ranks:
       - level: 0
         title: Patita
-        lore: excmmnctrnk
         description: >-
           "Fallen"—put out of Varnakan observance altogether, and received again by no house and no sampradāya.
       - level: 1
         title: Upāsaka
-        lore: layfaithfulrnk
         description: >-
           The lay devotee, keeping the household observance of the passage of the dead, whom the Mārgapālas guide along the paths of the afterlife until they reach the gate of rebirth. This is what devotion to this god ordinarily consists of, and for most of the faithful it is the whole of it.
       - level: 2

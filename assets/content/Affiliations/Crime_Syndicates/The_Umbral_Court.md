@@ -17,37 +17,30 @@ data:
     ranks:
       - level: 0
         title: Attainted
-        lore: outlawrnk
         description: >-
           Struck from the rolls, with the attainder read aloud in the old form—no household on the island will retain them, and the Court will not lift a hand when the Synod takes them.
       - level: 1
         title: Petitioner
-        lore: supplicantrnk
         description: >-
           Not a member at all: someone who has brought a matter before the Court and been heard. Most of Dúnavarre's dealings with the Court never go beyond this, and a petition granted is a debt owed.
       - level: 2
         title: Retainer
-        lore: swornmemberrnk
         description: >-
           Sworn into a courtier's household—the runners, doormen, dealers, watchers and bought clerks who do the work and are told only their part of it.
       - level: 3
         title: Courtier
-        lore: gentryrnk
         description: >-
           Presented before the Veiled Crown and holding a place at Court, entitled to speak in its sessions and to be defended by it.
       - level: 4
         title: Officer of the Household
-        lore: officerrnk
         description: >-
           Holder of one of the great offices—Chamberlain, Revels, Privy Purse, Rolls, Marshal, Hunt, Herald—each with a portfolio and a household of its own.
       - level: 5
         title: Peer of the Shadow
-        lore: councillorrnk
         description: >-
           Granted a title the Synod does not recognize and the old registers would have, and seated in the council that advises the Crown and would choose the next one.
       - level: 6
         title: The Veiled Crown
-        lore: sovereignrnk
         description: >-
           The masked sovereign, addressed only in the third person, whose face perhaps six people have seen and whose claim is the Court's greatest asset and its greatest vulnerability.
     offices:

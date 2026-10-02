@@ -19,27 +19,22 @@ data:
     ranks:
       - level: 0
         title: Spirit-shunned
-        lore: excmmnctrnk
         description: >-
           Turned from by the spirits and by those who keep them: no rite will include them, no pact will cover them, and no griot will speak their name in a genealogy.
       - level: 1
         title: Uninitiated
-        lore: unenteredrnk
         description: >-
           Living under the observances, the totem law and the clan's pacts without having entered the tradition—most of the people, most of the time.
       - level: 2
         title: Initiate
-        lore: initiaternk
         description: >-
           Taken through the ordeal and received; learning the pacts, the protocols and the three postures, and permitted at the rites without yet speaking in them.
       - level: 3
         title: Spirit-Speaker
-        lore: sprtspkrrnk
         description: >-
           The mwalimu wa roho—permitted to perceive, address and negotiate with the spirits on the clan's behalf, and answerable for what is asked of them.
       - level: 4
         title: Elder Shaman
-        lore: teachingelderrnk
         description: >-
           Long practiced, teaching initiates and sitting on the council, where their word carries the greater weight in what the younger Spirit-Speakers dispute.
     offices:
