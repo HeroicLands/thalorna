@@ -10,7 +10,7 @@ data:
   archetypes: [commoner]
   occupation: Domestic Servant
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: vedyariclt
   homes: [chandrapur2]
   affiliations: {chandrapur: {}}

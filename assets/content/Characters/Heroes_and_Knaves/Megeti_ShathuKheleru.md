@@ -11,7 +11,7 @@ data:
   archetypes: [scholar, courtier]
   occupation: Bureaucrat
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: khelathiclt
   homes: [khelzuret]
   affiliations: {empireakhlth: {}}

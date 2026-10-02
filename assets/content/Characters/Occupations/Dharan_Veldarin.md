@@ -10,7 +10,7 @@ data:
   archetypes: [cleric, warrior, mage]
   occupation: Priest
   stations: []
-  lore: [landedlordrnk]
+  lore: []
   culture: elavendriclt
   homes: [elanmere]
   affiliations: {kngdmlvndr: {}}

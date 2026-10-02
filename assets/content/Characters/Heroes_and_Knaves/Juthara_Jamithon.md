@@ -10,7 +10,7 @@ data:
   archetypes: [scholar, healer, mage]
   occupation: Scholar
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: bethuanclt
   homes: [ashira]
   affiliations: {mtrrchybth: {}}

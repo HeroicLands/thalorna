@@ -10,7 +10,7 @@ data:
   archetypes: [infiltrator]
   occupation: Thief and Spy
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: {kngdmnrdhm: {}}

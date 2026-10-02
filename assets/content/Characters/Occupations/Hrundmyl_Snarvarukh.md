@@ -10,7 +10,7 @@ data:
   archetypes: [warrior]
   occupation: Gaoler
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: nordheimnclt
   homes: [knalthstead]
   affiliations: {kngdmnrdhm: {}}

@@ -10,7 +10,7 @@ data:
   archetypes: [mariner]
   occupation: Common Seaman
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: helioniteclt
   homes: [myrtillos]
   affiliations: {kostaros2: {}}

@@ -10,7 +10,7 @@ data:
   archetypes: [warrior]
   occupation: Guard
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: nordheimnclt
   homes: [nalthmark]
   affiliations: {kngdmnrdhm: {}}

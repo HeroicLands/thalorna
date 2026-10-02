@@ -10,7 +10,7 @@ data:
   archetypes: [commoner]
   occupation: Farmer
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: aelwythanclt
   homes: [brynhallow]
   affiliations: {kngdmldrth: {}}

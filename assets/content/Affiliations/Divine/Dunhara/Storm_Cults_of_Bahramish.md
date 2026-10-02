@@ -24,32 +24,26 @@ data:
     ranks:
       - level: 0
         title: Denounced
-        lore: excmmnctrnk
         description: >-
           Formally denounced before the lineages—for falsifying a reading, or for claiming vesselhood the Council has not conferred. No lineage will train them and no camp of consequence will seat them.
       - level: 1
         title: Pîravân
-        lore: layfaithfulrnk
         description: >-
           "Followers"—the Dunhari at large, who keep the observances, bring their births, marriages and dead to the resident practitioner, and read no weather themselves.
       - level: 2
         title: Shâgerd
-        lore: apprenticernk
         description: >-
           Apprenticed into one of the five lineages and learning its particular craft, whether that is the reading of wind, the calling of rain, or walking into a storm to read it from inside.
       - level: 3
         title: Pîr
-        lore: journeymanrnk
         description: >-
           Recognized practitioner of a lineage: reads for the tribal council and the warband, conducts the rites of the camp, and answers for the accuracy of what they report. Misreading is the gravest shamanic failure.
       - level: 4
         title: Sar-pîr
-        lore: teachingelderrnk
         description: >-
           Senior elder of a lineage, holding its apprentices and its practice, and sitting in the Council of Elders at the Stone of Ranâz at the season-turns.
       - level: 5
         title: Vessel
-        lore: sprtspkrrnk
         description: >-
           One in whom Báhrámiš is held to speak directly—recognized only by the assembled senior elders, binding on all five lineages until withdrawn for cause. A vessel's authority crosses tribal lines, overrides a chieftain on religious matters, and can summon warriors to a cause the chieftains have not endorsed.
     offices:

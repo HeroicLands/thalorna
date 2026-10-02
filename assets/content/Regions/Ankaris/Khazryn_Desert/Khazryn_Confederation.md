@@ -19,45 +19,36 @@ data:
     ranks:
       - level: 0
         title: Blood-Debtor
-        lore: outlawrnk
         description: >-
           Under an unsettled feud and outside the confederation's protection until it is paid or avenged.
       - level: 1
         title: Bondservant
-        lore: bondservantrnk
         description: >-
           Bound in service or debt to a house, and answerable through it rather than in his own name.
       - level: 2
         title: Subject
-        lore: commonerrnk
         description: >-
           Of the peoples the houses ruled and rule, owing dues and labor and holding no place in the Council.
       - level: 3
         title: Kinsman of a House
-        lore: kinsmanrnk
         description: >-
           Of a princely house's blood or sworn following, entitled to its protection and its quarrels.
       - level: 4
         title: Retainer
-        lore: officerrnk
         description: >-
           Holding a charge in a house's service—its caravans, its guards, its correspondence, its exile courts.
       - level: 5
         title: Mōbad
-        lore: priestrnk
         description: Ordained to the fire and the law, keeping the rites the Catastrophe did not extinguish.
       - level: 6
         title: Elder of a House
-        lore: elderrnk
         description: Senior of a princely house, whose counsel binds its head in practice if not in form.
       - level: 7
         title: Prince of a House
-        lore: councillorrnk
         description: >-
           Head of one of the seven houses—three still ruling, four ruling in exile, and all seven seated at the Council.
       - level: 8
         title: First of the Seven
-        lore: prsdngffcrrnk
         description: >-
           The senior house's prince, who speaks first at the Council by long custom and commands nothing by it.
     offices:

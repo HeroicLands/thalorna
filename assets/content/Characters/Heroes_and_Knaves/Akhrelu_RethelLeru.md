@@ -11,7 +11,7 @@ data:
   archetypes: [commoner]
   occupation: Animal Trainer
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: khelathiclt
   homes: [garanlaghet]
   affiliations: {empireakhlth: {}}

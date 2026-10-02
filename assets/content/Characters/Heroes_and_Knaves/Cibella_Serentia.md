@@ -11,7 +11,7 @@ data:
   archetypes: [mage, scholar]
   occupation: Ward
   stations: []
-  lore: [gentryrnk]
+  lore: []
   culture: vylarianclt
   homes: [vylariargn]
   affiliations: {thetamzir: {}, vylarinmpr: {}}

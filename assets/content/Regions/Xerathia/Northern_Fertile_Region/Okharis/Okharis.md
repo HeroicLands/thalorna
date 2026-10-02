@@ -17,43 +17,34 @@ data:
     ranks:
       - level: 0
         title: Temple-Cast
-        lore: excmmnctrnk
         description: Struck from the temple rolls and denied its rites, its grain and its justice.
       - level: 1
         title: Temple Bondsman
-        lore: slavernk
         description: >-
           Bound to a temple's estates, owing labor for its granaries and holding nothing of his own.
       - level: 2
         title: Villager
-        lore: commonerrnk
         description: >-
           Of the rural tribes owing tribute and labor to a temple-city, and governed through their own elders.
       - level: 3
         title: Townsman
-        lore: burgherrnk
         description: >-
           Enrolled in one of the three temple-cities, entitled to its protection, its markets and its courts.
       - level: 4
         title: Temple Servant
-        lore: servantrnk
         description: In the temple's employ—scribe, artisan, singer, guard—and fed from its stores.
       - level: 5
         title: Priest
-        lore: priestrnk
         description: Ordained to the rites of a temple, holding authority over its dependents and its lands.
       - level: 6
         title: High Priest
-        lore: highpriestrnk
         description: Head of one of the three great temple-cities, ruling it in all but name.
       - level: 7
         title: Royal Kin
-        lore: heirrnk
         description: >-
           Of the king's house by blood or marriage, from whom governors and high priests are commonly drawn.
       - level: 8
         title: King
-        lore: sovereignrnk
         description: >-
           Hereditary sovereign over the three temple-cities, holding them by descent and by the gods' sanction alike.
     offices:

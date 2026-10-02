@@ -10,7 +10,7 @@ data:
   archetypes: [artisan]
   occupation: Clothier
   stations: []
-  lore: [landedlordrnk]
+  lore: []
   culture: helioniteclt
   homes: [pelagora2]
   affiliations: {pelagora: {}}

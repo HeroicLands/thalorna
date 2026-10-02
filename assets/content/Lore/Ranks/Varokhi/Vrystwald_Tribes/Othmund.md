@@ -1,6 +1,6 @@
 ---
-shortcode: varokhbondsvntrnk
-name: {full: "Bondservant", aliases: []}
+shortcode: othmundrnk
+name: {full: "Óthmund", aliases: ["Bondservant"]}
 type: lore
 subType: law
 description: "Taken in war or bought at the river-landings, answering to the mistress of a household about everything, in the Vrystwald Tribes."
@@ -11,11 +11,11 @@ Taken in war or bought at the river-landings, answering to the mistress of a hou
 
 ## What This Standing Is
 
-A bondservant is taken in war or bought at the river-landings, and stands at the base of the whole Varokh arrangement: bought, worked, fed, and watched by the mistress of the house he serves. The standing is not hereditary the way bondage often is elsewhere—a bondservant may be freed, and is occasionally married in, at which point his children are simply Varokh.
+An Óthmund is taken in war or bought at the river-landings, and stands at the base of the whole Varokh arrangement: bought, worked, fed, and watched by the mistress of the house he serves. The standing is not hereditary the way bondage often is elsewhere—an Óthmund may be freed, and is occasionally married in, at which point his children are simply Varokh.
 
 ## How the Law Treats a Person Here
 
-A bondservant answers to a woman, every day, about everything: the mistress of the house disposes of him as she does the stores and the stock, and he is answerable through the household's head rather than in his own name before any moot.
+An Óthmund answers to a woman, every day, about everything: the mistress of the house disposes of him as she does the stores and the stock, and he is answerable through the household's head rather than in his own name before any moot.
 
 ## Privileges
 

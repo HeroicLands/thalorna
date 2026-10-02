@@ -10,7 +10,7 @@ data:
   archetypes: [woodsman]
   occupation: Woodcutter
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: elavendriclt
   homes: [portaelion]
   affiliations: {kngdmlvndr: {}}

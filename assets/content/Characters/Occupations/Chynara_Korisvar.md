@@ -10,7 +10,7 @@ data:
   archetypes: [artisan]
   occupation: Salter
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: provenzianclt
   homes: [chastelclr]
   affiliations: {kngdmprvnz: {}}

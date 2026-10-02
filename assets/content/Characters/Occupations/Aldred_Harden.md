@@ -10,7 +10,7 @@ data:
   archetypes: [trader]
   occupation: Mercantyler
   stations: []
-  lore: [landedlordrnk]
+  lore: []
   culture: aelwythanclt
   homes: [kingsholow]
   affiliations: {kngdmldrth: {}}

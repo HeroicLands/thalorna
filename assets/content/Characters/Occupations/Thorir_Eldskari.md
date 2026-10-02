@@ -10,7 +10,7 @@ data:
   archetypes: [warrior]
   occupation: Man-at-Arms
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: aelwythanclt
   homes: [stormveil]
   affiliations: {jrldmstrmvld: {}}

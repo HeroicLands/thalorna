@@ -19,27 +19,22 @@ data:
     ranks:
       - level: 0
         title: Exsecratus
-        lore: excmmnctrnk
         description: >-
           Cast out—denied the rites, the temple and the burial the faith promises, which is the one sentence it can pass that outlives the body.
       - level: 1
         title: Fideles
-        lore: layfaithfulrnk
         description: >-
           The lay faithful, who keep the feasts and the observances of the god without holding office in the temple.
       - level: 2
         title: Acolytes of the Garden
-        lore: initiaternk
         description: >-
           Initiates training in both spiritual practice and the practical work of the garden.
       - level: 3
         title: Sacerdotes
-        lore: priestrnk
         description: >-
           Ordained priestesses and priests serving as healers, midwives, gardeners and officiants at marriages.
       - level: 4
         title: Magistra Florarum
-        lore: highpriestrnk
         description: >-
           High Priestess, and occasionally High Priest, though the role is more often filled by a woman.
     offices:

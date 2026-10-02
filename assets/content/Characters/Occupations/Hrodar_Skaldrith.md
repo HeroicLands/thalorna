@@ -10,7 +10,7 @@ data:
   archetypes: [warrior]
   occupation: Mercenary
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: varokhiclt
   homes: [waldburg]
   affiliations: {vrystwldtrbs: {}}
@@ -401,7 +401,7 @@ Hródar Skáldrith is a 45-year-old man who stands 6'4" tall and is broad and so
 
 Hródar Skáldrith is a mercenary of Waldburg, a forest stronghold of the Varokh in [[place-vrystwald|Vrystwald]], a Varokh warrior who has sold his sword outside the forest for twenty-five years and comes home between wars.
 
-Hródar was raised to fight, as every Varokh man is, and at twenty he went down the river with a war-band hired by a Velanthian river-prince, which is how most Varokh who see the outside world see it. He has fought since for the grain-belt princes against each other, for a Moktur border-lord against Varokh raiders who might have been his cousins, and for frontier villages that pooled their silver to hire a band. He leads Waldburg's war-band for hire now, and trains the boys who go out in it. There are fights he no longer takes: he will hire to hold a wall or break one, and he will not hire to a raid whose purpose is people. The river-traders who sell what such raids bring down the water have noticed, and so has the chieftain.
+Hródar was raised to fight, as every Varokh man is, and at twenty he went down the river with a war-band hired by a Velanthian river-prince, which is how most Varokh who see the outside world see it. He has fought since for the grain-belt princes against each other, for a Moktur border-lord against Varokh raiders who might have been his cousins, and for frontier villages that pooled their silver to hire a band. He leads Waldburg's war-band for hire now, and trains the boys who go out in it. There are fights he no longer takes: he will hire to hold a wall or break one, and he will not hire to a raid whose purpose is people. The river-traders who sell what such raids bring down the water have noticed, and so has the War Chief.
 
 ## Psyche
 
@@ -411,7 +411,7 @@ Hródar is deliberate, loyal past reason to the men under him and slow to trust 
 
 ### Motivation
 
-Hródar wants every boy he takes out of Waldburg to come back to it, and he wants to fight only what is worth a Varokh's dying for. He has not found a way to say the second to the chieftain that does not sound like fear.
+Hródar wants every boy he takes out of Waldburg to come back to it, and he wants to fight only what is worth a Varokh's dying for. He has not found a way to say the second to the War Chief that does not sound like fear.
 
 ### Strengths
 
@@ -419,7 +419,7 @@ A hard and skilled fighter, an experienced war-leader, followed without question
 
 ## Social
 
-Hródar leads the Waldburg Frath, the stronghold's war-band for hire, and answers to the chieftain for what it does and what it brings home.
+Hródar leads the Waldburg Frath, the stronghold's war-band for hire, and answers to the War Chief for what it does and what it brings home.
 
 ## Companions
 
@@ -439,4 +439,4 @@ A younger war-leader of Waldburg who takes the raiding contracts Hródar refuses
 
 3. **The Governor's Offer**—A Moktur governor has offered the Frath a standing post on the march, with pay and land, to hold the frontier against Varokh. Half his men want it.
 
-4. **The Council**—The Council of Chieftains has been called against a Nordman push into the western forest, and Waldburg's chieftain means to send the younger man's band. Hródar is to stay and train boys.
+4. **The Council**—The Common Council has been called against a Nordman push into the western forest, and Waldburg's War Chief means to send the younger man's band. Hródar is to stay and train boys.

@@ -10,7 +10,7 @@ data:
   archetypes: [commoner]
   occupation: Cook
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: haradianclt
   homes: [qadhirun]
   affiliations: {cnfdrtnhrdnstts: {}}

@@ -10,7 +10,7 @@ data:
   archetypes: [scholar, mage]
   occupation: Seer and Runemaster
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: nordheimnclt
   homes: [nrdlndsrgn]
   affiliations: {kngdmnrdhm: {}}

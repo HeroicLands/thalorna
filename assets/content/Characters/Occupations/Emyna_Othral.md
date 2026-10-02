@@ -10,7 +10,7 @@ data:
   archetypes: [courtier]
   occupation: Courtesan
   stations: []
-  lore: [landedlordrnk]
+  lore: []
   culture: elavendriclt
   homes: [valdun]
   affiliations: {kngdmlvndr: {}}

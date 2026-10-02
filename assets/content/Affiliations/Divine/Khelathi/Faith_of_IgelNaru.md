@@ -18,22 +18,18 @@ data:
     ranks:
       - level: 0
         title: Rite-Denied
-        lore: excmmnctrnk
         description: >-
           Refused the river-rites, which on this reach means refused the water: no boat launches with them aboard and no hunt is made in their company.
       - level: 1
         title: Lay Faithful
-        lore: layfaithfulrnk
         description: >-
           The farming and fishing villages that line the banks, who keep the river's observances and pay for the hunt with a share of what it takes.
       - level: 2
         title: Wazu of the Hunt
-        lore: initiaternk
         description: >-
           Reads the god's will before an expedition—in offerings, in bird flight, in the patterns of the water—and pronounces whether it may proceed. The rank is the temple's own acolyte-title borrowed into a hunting company, which is how thoroughly this cult lives inside the hunt rather than beside it.
       - level: 3
         title: Sworn of the Water
-        lore: swornofriternk
         description: >-
           Bound by the sacred obligation, permitted at the rites, and permitted to strike at the quarry. The god's due is taken from the kill before any other share.
     offices:

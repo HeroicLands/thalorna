@@ -11,7 +11,7 @@ data:
   archetypes: [infiltrator]
   occupation: Intelligence Agent
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: khelathiclt
   homes: [khelzuret]
   affiliations: {empireakhlth: {}}

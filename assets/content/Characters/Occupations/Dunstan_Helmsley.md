@@ -10,7 +10,7 @@ data:
   archetypes: [warrior, courtier]
   occupation: Chieftain
   stations: []
-  lore: [landedlordrnk]
+  lore: []
   culture: aelwythanclt
   homes: [ashford]
   affiliations: {kngdmldrth: {}}

@@ -14,7 +14,7 @@ data:
   archetypes: [warrior, courtier]
   occupation: Nobility (Knight Bachelor)
   stations: []
-  lore: [landedlordrnk]
+  lore: []
   culture: tarvenanclt
   homes: [tarvenirgn]
   affiliations: {kingdmtrvn: {}}

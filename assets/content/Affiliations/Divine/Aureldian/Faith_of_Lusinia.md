@@ -19,27 +19,22 @@ data:
     ranks:
       - level: 0
         title: Exsecratus
-        lore: excmmnctrnk
         description: >-
           Cast out—denied the rites, the temple and the burial the faith promises, which is the one sentence it can pass that outlives the body.
       - level: 1
         title: Fideles
-        lore: layfaithfulrnk
         description: >-
           The lay faithful, who keep the feasts and the observances of the god without holding office in the temple.
       - level: 2
         title: Acolytes of the Spring
-        lore: initiaternk
         description: >-
           Young initiates training in spiritual practice alongside gardening, herbalism and midwifery.
       - level: 3
         title: Sacerdotes
-        lore: priestrnk
         description: >-
           Ordained clergy of the World-Weaver, keeping the rites of growth and making.
       - level: 4
         title: Magistra Vitae
-        lore: highpriestrnk
         description: >-
           High Priestess or High Priest, typically a figure of great age and wisdom.
     offices:

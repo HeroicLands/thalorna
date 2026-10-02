@@ -10,7 +10,7 @@ data:
   archetypes: [warrior]
   occupation: Mercenary Captain
   stations: []
-  lore: [landedlordrnk]
+  lore: []
   culture: provenzianclt
   homes: [provenzrgn]
   affiliations: {slntlncmpny: {rank: 7, office: Captain}, kngdmprvnz: {}}

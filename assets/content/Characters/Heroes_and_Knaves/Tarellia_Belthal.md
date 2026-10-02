@@ -10,7 +10,7 @@ data:
   archetypes: [mage, scholar]
   occupation: Astrologer
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: elavendriclt
   homes: [portaelion]
   affiliations: {kngdmlvndr: {}}

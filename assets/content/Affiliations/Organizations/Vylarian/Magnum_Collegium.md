@@ -19,22 +19,18 @@ data:
     ranks:
       - level: 0
         title: Revoked
-        lore: expelledrnk
         description: >-
           Permanent loss of a master's seal by Curia ruling—rare and crushing, and the harshest sanction the Collegium can impose.
       - level: 1
         title: Apprentice
-        lore: apprenticernk
         description: >-
           Certified by a member guild under standards the Collegium has standardized across every member territory; not yet a master.
       - level: 3
         title: Guildmaster
-        lore: masterrnk
         description: >-
           A chartered master of one of the Collegium's member guilds, holding standing under its charter but no seat of his own on the Curia.
       - level: 4
         title: Master Magister
-        lore: councillorrnk
         description: >-
           Elected by a trade's own senior masters to hold that trade's seat on the Curia Collegiorum.
     offices:

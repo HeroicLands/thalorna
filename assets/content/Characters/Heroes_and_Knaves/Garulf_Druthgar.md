@@ -11,7 +11,7 @@ data:
   archetypes: [warrior]
   occupation: Sellsword
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: varokhiclt
   homes: [vrystwald]
   affiliations: {thetamzir: {}, vrystwldtrbs: {}}

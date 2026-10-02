@@ -10,7 +10,7 @@ data:
   archetypes: [trader, courtier]
   occupation: Mercantyler
   stations: []
-  lore: [landedlordrnk]
+  lore: []
   culture: provenzianclt
   homes: [fiordaure]
   affiliations: {kngdmprvnz: {}}

@@ -10,7 +10,7 @@ data:
   archetypes: [artisan]
   occupation: Chandler
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: nordheimnclt
   homes: [hnarvdal]
   affiliations: {kngdmvthgrd: {}}

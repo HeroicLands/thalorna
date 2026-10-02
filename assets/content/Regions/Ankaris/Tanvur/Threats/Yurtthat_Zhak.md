@@ -15,17 +15,14 @@ data:
     ranks:
       - level: 0
         title: Attainted
-        lore: outlawrnk
         description: >-
           Struck from the genealogy and denied the name; the house's obligations toward them lapse with their claim on it.
       - level: 1
         title: Dependent
-        lore: dependentrnk
         description: >-
           Sheltered and fed by the house without being of its blood—servants, wards, retainers' families.
       - level: 2
         title: Client
-        lore: dependentrnk
         description: >-
           Owing the house service and loyalty and receiving its protection, bound to it by obligation rather than descent.
       - level: 3
@@ -35,7 +32,6 @@ data:
           Married into the house, holding its name and its standing without its blood, and watched accordingly.
       - level: 4
         title: Kin by Blood
-        lore: kinsmanrnk
         description: >-
           Of the house's descent, entitled to its protection, its quarrels and a share of its fortune.
       - level: 5
@@ -45,16 +41,13 @@ data:
           Head of a junior line, holding lands or offices of its own and standing behind the senior line in every claim.
       - level: 6
         title: Elder
-        lore: elderrnk
         description: >-
           Senior of the house, whose recollection of its obligations and its genealogies binds its head in practice.
       - level: 7
         title: Heir
-        lore: heirrnk
         description: Designated to succeed, and by that already a party to every negotiation the house enters.
       - level: 8
         title: Head of the House
-        lore: sovereignrnk
         description: >-
           Holder of the name, the property and the house's voice at court, answerable for its standing to every member of it.
     offices:

@@ -18,42 +18,34 @@ data:
     ranks:
       - level: 0
         title: Jivu
-        lore: excmmnctrnk
         description: >-
           "Ash"—put out of the Flame: no temple in Okháris will receive them, no ashmark is set on them at a passage, and no fire they kindle is reckoned descended from the First Ember.
       - level: 1
         title: Mwamini
-        lore: layfaithfulrnk
         description: >-
           "Believer"—the lay worshipper, keeping the festivals, carrying a pyrestone and lighting the three-wick lamp, without office in any temple. Of the spirits as well, by being Okháric, which is not a matter of profession at all.
       - level: 2
         title: Mwanafunzi
-        lore: initiaternk
         description: >-
           "Student of the Flame"—the initiate rank, and the one title the three cities share. Received into a temple and under instruction, whichever aspect they serve.
       - level: 3
         title: Mtaalamu wa Moto
-        lore: priestrnk
         description: >-
           "Scholar of the Fire"—the ordained priest of Zarhánis. Kaljékor ordains the Mhudumu wa Dhahabu ("Servant of Gold"); Vuthráka the Askari wa Moto ("Soldier of Fire"), a warrior-priest.
       - level: 4
         title: Mlinzi wa Roho
-        lore: priestrnk
         description: >-
           "Guardian of Spirits"—the senior priest of Zarhánis, charged with the passage of the soul after death. Kaljékor has the Mlinzi wa Utajiri ("Guardian of Wealth"), Vuthráka the Mlinzi wa Vita ("Guardian of Battle"); the Mlinzi wa form is common to all three.
       - level: 5
         title: Nabii wa Mwanga
-        lore: highpriestrnk
         description: >-
           "Prophet of Light"—temple master at Zarhánis, holding its dreams, visions and communion with the ancestors. Kaljékor's is the Mtawala wa Soko ("Master of the Market"), Vuthráka's the Jemadari wa Moto ("Commander of Fire").
       - level: 6
         title: Mlinzi wa Mwali
-        lore: highpriestrnk
         description: >-
           Warden of the Flame—head of Vuthráka, a warrior-priest who commands the armies of Okháris in war. Kaljékor is instead headed collectively by the Baraza ya Moto ("Council of Fire"), its ruling priest-nobles.
       - level: 7
         title: Pyremant Mkuu
-        lore: grandmasterrnk
         description: >-
           The High Pyremant of Zarhánis—supreme spiritual leader of all Okháris and advisor to the Overlord, alone permitted to enter the chamber of the First Ember. One holder; the other two aspects defer to him on doctrine and on nothing else.
     offices:

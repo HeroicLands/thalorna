@@ -19,27 +19,22 @@ data:
     ranks:
       - level: 0
         title: Rite-Denied
-        lore: excmmnctrnk
         description: >-
           Barred from the temple rites, and with them from the funerary rites every Khelâthi eventually requires—a sentence that reaches past the end of the life it is passed in.
       - level: 1
         title: Lay Faithful
-        lore: layfaithfulrnk
         description: >-
           Keeps the observances and brings offerings without holding office in any temple.
       - level: 2
         title: Wazu
-        lore: initiaternk
         description: >-
           "Purified One"—acolytes in study, many of whom never advance to full priesthood but take secular careers as scribes, administrators or scholars while keeping their connection through continued study and pilgrimage.
       - level: 3
         title: Lem'Nelgir
-        lore: priestrnk
         description: >-
           "Servant of the God"—ordained priests of knowledge, each overseeing a specific domain and holding authority over its archive: the astronomical tables, the medical texts, the architectural plans, and so on.
       - level: 4
         title: Thâz'Lekhau
-        lore: highpriestrnk
         description: >-
           "Great of Sacred Power"—High Priest or High Priestess of Reth'Sa'âr, at the head of the temples that hold the archives.
     offices:

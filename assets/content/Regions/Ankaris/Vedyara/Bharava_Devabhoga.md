@@ -17,42 +17,34 @@ data:
     ranks:
       - level: 0
         title: Outcaste
-        lore: outcasternk
         description: >-
           Placed outside the tharana by transgression or by birth, and barred from the estate's temple, its stores and its licences.
       - level: 1
         title: Bonded Servant
-        lore: bondservantrnk
         description: >-
           Bound by debt or birth to an estate's household, owing labour at the felling and the hauling and holding nothing of the season's take.
       - level: 2
         title: Karmāja
-        lore: commonerrnk
         description: >-
           Born to the serving tharana—fellers, raftsmen, porters and the estate's own cultivators on the cleared ground around its temple.
       - level: 3
         title: Dhanāja
-        lore: gentryrnk
         description: >-
           Born to the productive tharana—the licensed buyers and carriers who take the estate's resin, lac and spice down to the coast and answer for its price.
       - level: 4
         title: Senāja
-        lore: warriorrnk
         description: >-
           Born to the warrior tharana, bearing arms by right and serving in the small bodies the estates keep against theft of standing timber.
       - level: 5
         title: Ritūja
-        lore: priestrnk
         description: >-
           Born to the priestly tharana, keeper of rite and learning, without whose sanction no felling season opens and no boundary is moved.
       - level: 6
         title: Kshetrapāla
-        lore: landedlordrnk
         description: >-
           The ordained holder of one estate—its forest, its licences, its season and its tribute to the temple that endowed it.
       - level: 7
         title: Devapati
-        lore: highpriestrnk
         description: >-
           Senior priest of a mother-temple, who confirms the keepers of the estates endowed to it and answers for what those estates yield.
     offices:

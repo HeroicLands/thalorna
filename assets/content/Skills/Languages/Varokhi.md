@@ -125,11 +125,10 @@ The absence of a written form may seem to place Varokhi at a disadvantage compar
 
 ## Sample Phrases
 
-- **"Thrag huthel mun, frath vel skar."** – "The wolf walks alone, but the pack hunts." (Philosophical observation about independence and community.)
-- **"Vethrim sal karthun, vel mun druthal."** – "We honor the old ways, we walk the true path." (Statement of cultural commitment.)
-- **"Shargan rethil vel maknath!"** – "Sharpen your blade and stand ready!" (Battle cry or call to arms.)
-- **"Mun sethir vel, eth thang kelmun."** – "The heart speaks truth, the tongue merely follows." (Saying about authenticity.)
-- **"Khethun vel duthrim, fram shal mareth."** – "The forest remembers all things; the forest keeps the deep secrets." (Invocation of ancestral memory and natural knowledge.)
+Varokhi has no writing, so almost nothing of ordinary speech reaches the page at all—a name, a clan's gloss, a handful of words a clan's dealings with outsiders have carried south. What survives whole is small:
+
+- **"Hródar vel Fródbán."** – "Hródar, and Fródbán." (Two names joined by _vel_, the particle a longer sentence would turn on the same way.)
+- **"Eth shal."** – "This, alone." (_eth_ and _shal_, the two ordinary words § _Openings and closings_ cites—neither a name, both built on the openings a name takes.)
 
 ## Related Languages
 

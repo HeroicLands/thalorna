@@ -10,7 +10,7 @@ data:
   archetypes: [courtier]
   occupation: Nobility (Manor Lord)
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: aelwythanclt
   homes: [kingsholow]
   affiliations: {kngdmldrth: {}}

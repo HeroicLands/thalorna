@@ -16,47 +16,38 @@ data:
     ranks:
       - level: 0
         title: Outcaste
-        lore: outcasternk
         description: >-
           Placed outside the tharana by transgression or by birth, excluded from the wells, the temples and the courts.
       - level: 1
         title: Bonded Servant
-        lore: bondservantrnk
         description: >-
           Bound by debt or birth to a household, owing labor and lacking the standing to hold land.
       - level: 2
         title: Karmāja
-        lore: commonerrnk
         description: >-
           Born to the serving tharana—cultivators, artisans and laborers who hold their place by work rather than by rite.
       - level: 3
         title: Dhanāja
-        lore: gentryrnk
         description: >-
           Born to the productive tharana—merchants, herders and landholders, whose wealth sustains the court and its temples.
       - level: 4
         title: Senāja
-        lore: warriorrnk
         description: >-
           Born to the warrior tharana, bearing arms by right and owing service in the Mahārāja's host and aboard the galleys of his fleet.
       - level: 5
         title: Ritūja
-        lore: priestrnk
         description: >-
           Born to the priestly tharana, keeper of rite and learning, without whose sanction no royal act is complete.
       - level: 6
         title: Kulina
-        lore: greatlordrnk
         description: >-
           The head of one of the Nine Houses, holding his seat at court by his house's charter and the temples' confirmation rather than by any grant of land.
       - level: 7
         title: Royal Kin
-        lore: heirrnk
         description: >-
           Of the Mahārāja's house by blood or marriage, eligible for the throne and its regencies.
       - level: 8
         title: Mahārāja
-        lore: sovereignrnk
         description: >-
           The great king himself, raised by descent, confirmed by the temples, and seated at the head of the court the Nine Houses fill.
     offices:

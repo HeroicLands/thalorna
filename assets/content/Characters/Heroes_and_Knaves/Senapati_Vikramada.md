@@ -10,7 +10,7 @@ data:
   archetypes: [mariner]
   occupation: Bosun
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: vedyariclt
   homes: [vyalendra3]
   affiliations: {vyalendra2: {}}

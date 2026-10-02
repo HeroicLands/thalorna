@@ -10,7 +10,7 @@ data:
   archetypes: [warrior]
   occupation: Swordmaster
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: okharinclt
   homes: [zarhanor]
   affiliations: {okharis: {}}

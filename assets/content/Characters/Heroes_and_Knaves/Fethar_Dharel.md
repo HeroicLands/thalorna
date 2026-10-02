@@ -11,7 +11,7 @@ data:
   archetypes: [mariner]
   occupation: Pilot
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: provenzianclt
   homes: [provenzrgn]
   affiliations: {thetamzir: {}, kngdmprvnz: {}}

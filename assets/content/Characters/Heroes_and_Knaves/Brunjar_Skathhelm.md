@@ -10,7 +10,7 @@ data:
   archetypes: [skirmisher]
   occupation: Brigand
   stations: []
-  lore: [slavernk]
+  lore: []
   culture: varokhiclt
   homes: [vrystwald]
   affiliations: {blckpnwlvs: {}}

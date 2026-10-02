@@ -10,7 +10,7 @@ data:
   archetypes: [artisan]
   occupation: Timberwright
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: haradianclt
   homes: [azhun2]
   affiliations: {cnfdrtnhrdnstts: {}}

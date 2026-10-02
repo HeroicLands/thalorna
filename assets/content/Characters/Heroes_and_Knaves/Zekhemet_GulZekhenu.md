@@ -11,7 +11,7 @@ data:
   archetypes: [mariner, trader]
   occupation: Pilot
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: khelathiclt
   homes: [khelzuret]
   affiliations: {empireakhlth: {}}

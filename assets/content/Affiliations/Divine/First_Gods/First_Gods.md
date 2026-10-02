@@ -17,32 +17,26 @@ data:
     ranks:
       - level: 0
         title: Exiled
-        lore: outlawrnk
         description: >-
           Put out for turning shamanic power to personal ends—cursing, private gain, coercion—which is the gravest religious offense the Áelendan recognize.
       - level: 1
         title: Untaught
-        lore: unenteredrnk
         description: >-
           Of the tribe and living under its compacts, keeping the seasonal observances without perceiving the Kindred—most of the people, all their lives.
       - level: 2
         title: Marked
-        lore: aspirantrnk
         description: >-
           A child showing the perception—unusual rapport with animals, sensitivity to places, the capacity to dream true dreams—and not yet taken as apprentice.
       - level: 3
         title: Apprentice
-        lore: initiaternk
         description: >-
           Taken by an elder shaman and learning over many years: the songs, the lineages of the tribe's Kindred, the protocols of offering, and the uses of fire, smoke, plant and water.
       - level: 4
         title: Shaman
-        lore: sprtspkrrnk
         description: >-
           Recognized by the tribe rather than ordained by any body; perceives the Kindred, speaks with them, and negotiates on the tribe's behalf with the spirits whose land it shares.
       - level: 5
         title: Elder Shaman
-        lore: teachingelderrnk
         description: >-
           Takes apprentices and holds the tribe's long memory of its compacts, deeply respected and not a ruler—leadership sits with the elders and the council.
     offices:

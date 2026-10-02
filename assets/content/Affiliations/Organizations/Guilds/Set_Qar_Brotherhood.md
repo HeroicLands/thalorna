@@ -19,32 +19,26 @@ data:
     ranks:
       - level: 0
         title: Cast Out
-        lore: expelledrnk
         description: >-
           Put out of the village and the brotherhood together. The trade is the village and the village is the trade, so expulsion ends both—and a man who knows where the tombs are and no longer answers to the brotherhood is watched for the rest of his life.
       - level: 1
         title: Village-Born
-        lore: dependentrnk
         description: >-
           Born into Zel-Qar but not yet taken into a craft. The trades pass father to son, so birth is the ordinary door in, and very nearly the only one.
       - level: 2
         title: Apprentice
-        lore: apprenticernk
         description: >-
           Taken into one of the four crafts—stonecutting, draftsmanship, sculpture or painting—and learning it from a father or an uncle. The secrets of the craft and the locations of the work are learned together and kept together.
       - level: 3
         title: Craftsman
-        lore: journeymanrnk
         description: >-
           A working member of the brotherhood, cutting and decorating the great tombs of the Khelzuret necropolis. Set above the ordinary labor-gangs, and proud of the distinction.
       - level: 4
         title: Master
-        lore: masterrnk
         description: >-
           A master of one of the crafts, trusted with the whole of a work and with the knowledge of where it lies.
       - level: 5
         title: Headman
-        lore: councillorrnk
         description: >-
           The village governs itself through its headmen, who keep its own little courts and speak for the brotherhood to the mortuary priesthoods and the Halzi'a.
     offices:

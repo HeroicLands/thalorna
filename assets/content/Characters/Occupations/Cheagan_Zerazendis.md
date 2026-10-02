@@ -10,7 +10,7 @@ data:
   archetypes: [guildsperson]
   occupation: Innkeeper
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: vylarianclt
   homes: [aelissium]
   affiliations: {vylarinmpr: {}}

@@ -10,7 +10,7 @@ data:
   archetypes: [artisan]
   occupation: Toymaker
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: elavendriclt
   homes: [liranel]
   affiliations: {kngdmlvndr: {}}

@@ -10,7 +10,7 @@ data:
   archetypes: [mage, scholar]
   occupation: Alchemist
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: aelwythanclt
   homes: [kingsholow]
   affiliations: {kngdmldrth: {}}

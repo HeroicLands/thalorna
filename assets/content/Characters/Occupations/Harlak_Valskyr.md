@@ -10,7 +10,7 @@ data:
   archetypes: [commoner]
   occupation: Animal Trainer
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: provenzianclt
   homes: [aureliane]
   affiliations: {kngdmprvnz: {}}

@@ -20,42 +20,34 @@ data:
     ranks:
       - level: 0
         title: Refused
-        lore: expelledrnk
         description: >-
           Turned away at the threshold—the owl will not intercept them, and they go down into Xibalba's trials like anyone else, without even the orthodox recitation to guide them.
       - level: 1
         title: Petitioner
-        lore: supplicantrnk
         description: >-
           Has asked for a dead kinsman back and not yet been answered; most are never answered, and are not told so.
       - level: 2
         title: Debt-Bound
-        lore: voweddebtorrnk
         description: >-
           Given a returned loved one and bound by the giving—shelter, silence and food owed for as long as the returned lasts, which is never long.
       - level: 3
         title: Threshold-Watcher
-        lore: initiaternk
         description: >-
           Taught to recognize the boundary and to feel a passage beginning; the first standing the owl confers rather than merely accepts.
       - level: 4
         title: Door-Opener
-        lore: priestrnk
         description: >-
           Able to work the reversal and draw a soul back out of the labyrinth, and answerable to nobody for what comes back.
       - level: 5
         title: Owl-Spoken
-        lore: sprtspkrrnk
         description: >-
           Speaks with the owl's voice and is understood to be doing so; the nearest thing the veneration has to an authority, and it is on loan.
       - level: 6
         title: Threshold-Held
-        lore: transfiguredrnk
         description: >-
           One whose own soul the owl holds at the boundary rather than releasing—intercepted, returned intact, and no longer counted among the living.
       - level: 7
         title: Talon of the Threshold
-        lore: grandmasterrnk
         description: >-
           The highest standing any mortal reaches, and still a servant: the owl itself stands above every rank and is not of them.
     offices:

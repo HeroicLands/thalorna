@@ -17,12 +17,10 @@ data:
     ranks:
       - level: 0
         title: Patita
-        lore: excmmnctrnk
         description: >-
           "Fallen"—put out of Varnakan observance, and received again by no house and no sampradāya.
       - level: 1
         title: Upāsaka
-        lore: layfaithfulrnk
         description: >-
           The lay devotee, keeping the household observances of whichever gods the household honors.
       - level: 2
@@ -32,7 +30,6 @@ data:
           "One under vow"—has completed one of the gods' Ordeals for Favor, which is the only standing devotion to a god confers, and is held for life.
       - level: 3
         title: Ordained of a Sampradāya
-        lore: priestrnk
         description: >-
           Ordained into one of the four schools—Agnī-panthā, Svapnasāri Samāja, Trimūrti Sampradāya, Vyālendravāda—each of which carries its own ladder. Priesthood in Varnaka belongs to the school, never to the god.
     offices:

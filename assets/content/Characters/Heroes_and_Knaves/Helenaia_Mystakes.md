@@ -10,7 +10,7 @@ data:
   archetypes: [cleric, healer]
   occupation: Priest
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: byzarianclt
   homes: [karatas2]
   affiliations: {byzarianlg: {}}

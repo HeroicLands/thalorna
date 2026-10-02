@@ -10,7 +10,7 @@ data:
   archetypes: [commoner]
   occupation: Labourer (semi-skilled)
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: tarvenanclt
   homes: [valdes]
   affiliations: {kingdmtrvn: {}}

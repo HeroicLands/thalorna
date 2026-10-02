@@ -19,32 +19,26 @@ data:
     ranks:
       - level: 0
         title: Struck from the Roll
-        lore: excmmnctrnk
         description: >-
           Removed for falsifying a computation or selling one. The roll records the striking and the reason, and no court that keeps the college's tables will seat the person again.
       - level: 1
         title: Hearer
-        lore: unenteredrnk
         description: >-
           Sits in the hall, keeps no slate and is asked nothing. Anyone may be a Hearer, and the college takes no fee for it.
       - level: 2
         title: Slate-holder
-        lore: apprenticernk
         description: >-
           Admitted to the tables and to the notation, and answerable for the arithmetic of a working but not for its method.
       - level: 3
         title: Ganaka
-        lore: journeymanrnk
         description: >-
           Qualified to be hired. A court's Ganaka fixes the auspicious hour, and the college stands behind his figures as long as he states which method he used.
       - level: 4
         title: Reckoner of the Hall
-        lore: masterrnk
         description: >-
           Sets the questions and sits the boards, and holds one of the instruments. A Reckoner may contradict a Ganaka's published figure, which is the only way a figure is withdrawn.
       - level: 5
         title: Keeper of the Tables
-        lore: grandmasterrnk
         description: >-
           Answerable for the tables themselves—the ephemeris, the tide-tables and the assay constants—and for every figure the college has put its name to.
     offices:

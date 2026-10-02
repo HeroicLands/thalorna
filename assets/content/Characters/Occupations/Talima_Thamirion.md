@@ -10,7 +10,7 @@ data:
   archetypes: [warrior, artisan]
   occupation: Man-at-Arms (Sapper)
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: helioniteclt
   homes: [korinthea2]
   affiliations: {korinthea: {}}

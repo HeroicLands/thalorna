@@ -11,7 +11,7 @@ data:
   archetypes: [artisan]
   occupation: Toymaker
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: khelathiclt
   homes: [anlaghzetun]
   affiliations: {empireakhlth: {}}

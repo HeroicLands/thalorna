@@ -10,7 +10,7 @@ data:
   archetypes: [artisan]
   occupation: Glassworker
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: nordheimnclt
   homes: [dvarnvik]
   affiliations: {kngdmvthgrd: {}}

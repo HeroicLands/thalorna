@@ -8,9 +8,9 @@ data:
   icon: icon-person
   templatePriority: null
   archetypes: [warrior, courtier]
-  occupation: Chieftain
+  occupation: War Chief
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: varokhiclt
   homes: [eichengrnd]
   affiliations: {vrystwldtrbs: {}}
@@ -427,7 +427,7 @@ Athalwa stands 5'10" tall with a medium build. She has pale fair skin, blonde ha
 
 ### Born to Unorthodoxy
 
-Athalwa was the second child of **Chieftain Vorthgar Vithrúnd**, born during an unusual winter when the omens were considered ambiguous at best. Unlike her older brother Raeth, who showed early aptitude for the traditional chieftain's role—leading hunts, mediating disputes, upholding ancient law—Athalwa demonstrated an unusual combination of mystical sensitivity and tactical brilliance. As a child, she experienced visions of battles not yet fought and landscapes beyond the [[affiliation-vrystwldtrbs|Vrystwald]] borders. The elders debated whether she was blessed or cursed.
+Athalwa was the second child of **Vorthgar Vithrúnd**, the Vithrúnd clan's War Chief, born during an unusual winter when the omens were considered ambiguous at best. Unlike her older brother Raeth, who showed early aptitude for a War Chief's role—leading hunts, training for the warband's acclaim—Athalwa demonstrated an unusual combination of mystical sensitivity and tactical brilliance. As a child, she experienced visions of battles not yet fought and landscapes beyond the [[affiliation-vrystwldtrbs|Vrystwald]] borders. The elders debated whether she was blessed or cursed.
 
 ### The Warrior's Calling
 
@@ -435,7 +435,7 @@ Rather than surrender to the role of priestess-advisor that the conservative eld
 
 ### The Unexpected Succession
 
-When her brother Raeth died mysteriously while hunting at age thirty-eight, the path to leadership became complicated. The elder council, bound by tradition to prefer a male leader, suggested her cousin Harthak should assume chieftainship. Athalwa challenged this decision not through overt rebellion but through demonstrated merit. When raiders from the Shadowpine Clan threatened the borders, Athalwa organized a devastating counteroffensive that not only repelled the invasion but expanded Vrystwald territory. The warriors who fought alongside her demanded she be recognized as Chieftain. After months of negotiation and ritual, the elders relented, creating unprecedented conditions: Athalwa could lead, but only under enhanced scrutiny and with certain traditional privileges revoked.
+When her brother Raeth died mysteriously while hunting at age thirty-eight, the path to leadership became complicated. The elder council, bound by tradition to prefer a male leader, suggested her cousin Harthak should take the War Chief's seat. Athalwa challenged this decision not through overt rebellion but through demonstrated merit. When raiders from the Shadowpine Clan threatened the borders, Athalwa organized a devastating counteroffensive that not only repelled the invasion but expanded Vrystwald territory. The warriors who fought alongside her demanded she be acclaimed War Chief. After months of negotiation and ritual, the elders relented, creating unprecedented conditions: Athalwa could lead, but only under enhanced scrutiny and with certain traditional privileges revoked.
 
 ### Present Challenges
 
@@ -464,7 +464,7 @@ Athalwa's primary motivation is the survival and flourishing of the Vrystwald Tr
 ### Weaknesses
 
 - **Mystical Burden**: Her visions, while often accurate, sometimes cloud her judgment. She occasionally acts on intuitions that lack rational foundation, trusting her perception rather than evidence.
-- **Political Vulnerability**: As a female chieftain operating outside traditional frameworks, Athalwa is perpetually vulnerable to challenges from conservative factions within her own people. Her authority, though real, remains contested.
+- **Political Vulnerability**: As a female War Chief operating outside traditional frameworks, Athalwa is perpetually vulnerable to challenges from conservative factions within her own people. Her authority, though real, remains contested.
 - **Emotional Distance**: Her tendency to perceive events in larger, longer timescales than others makes her sometimes seem cold and dismissive of immediate human suffering. Warriors and clan members occasionally feel she values strategic outcomes over their wellbeing.
 - **Limited Diplomatic Subtlety**: While effective with direct negotiations, Athalwa sometimes misses the nuances of courtly politics in more sophisticated realms. The Byzarian League and other complex political entities sometimes take advantage of her more straightforward approach.
 - **Dependence on Visions**: Should her mystical abilities fade or prove unreliable, her authority would be severely compromised. The elders already doubt her connection to [[lore-motefnirdty|Mótefnir]]; evidence of false visions could destroy her completely.
@@ -479,13 +479,13 @@ Athalwa's primary motivation is the survival and flourishing of the Vrystwald Tr
 
 ### Enemies
 
-- **Chieftain Harthak Orossun (Cousin and Rival Claimant)**: Athalwa's cousin was denied the chieftainship she claimed. He maintains a competing claim and leads a faction of conservative warriors who would gladly see her deposed.
+- **Harthak Orossun (Cousin and Rival Claimant)**: Athalwa's cousin was denied the War Chief's seat she claimed. He maintains a competing claim and leads a faction of conservative warriors who would gladly see her deposed.
 - **Elder Council Speaker Vorthrim**: The most influential of the conservative elders, **Vorthrim** views Athalwa's innovations as blasphemy against Mótefnir and ancient tradition. He orchestrates political challenges to her authority.
 - **Shadow Throne Empire**: A distant but expanding southern empire that views the Vrystwald Tribes as an obstacle to continental domination. They have begun secretly funding Athalwa's internal enemies.
 
 ### Affiliations
 
-- **Vrystwald Tribal Council**: Athalwa serves as Chieftain, though her position remains contested among traditional members.
+- **Vrystwald Tribal Council**: Athalwa serves as War Chief, though her seat remains contested among traditional members.
 - [[affiliation-motefnir|Faith of Mótefnir]]: A devout practitioner who maintains regular spiritual counsel with the Völva priestesses.
 - **The Eastern Trade Consortium**: Athalwa has recently been instrumental in establishing formal trading relationships with merchants from eastern kingdoms, creating new economic dependencies and opportunities.
 

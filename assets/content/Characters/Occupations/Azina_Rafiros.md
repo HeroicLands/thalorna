@@ -10,7 +10,7 @@ data:
   archetypes: [artisan]
   occupation: Embalmer
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: helioniteclt
   homes: [theradon2]
   affiliations: {theradon: {}}

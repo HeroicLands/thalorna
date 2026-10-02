@@ -10,7 +10,7 @@ data:
   archetypes: [mage, healer]
   occupation: Mage (Healing)
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: byzarianclt
   homes: [chrysamar]
   affiliations: {byzarianlg: {}}

@@ -17,38 +17,30 @@ data:
     ranks:
       - level: 0
         title: Unhoused
-        lore: outlawrnk
         description: Put out of the winter house for a fault the council has named, and fed by nobody.
       - level: 1
         title: Taken-in
-        lore: dependentrnk
         description: >-
           Sheltered by a hearth without being of it—a widow's family, a stranger, a child of the roads.
       - level: 2
         title: Hearth-kin
-        lore: kinsmanrnk
         description: Of a hearth's blood, holding a place at its fire and a share of its winter store.
       - level: 3
         title: Drover
-        lore: commonerrnk
         description: >-
           Keeping the pack-beasts and working the lower stages, where a mistake is survivable.
       - level: 4
         title: Roadwalker
-        lore: journeymanrnk
         description: Taking parties over the eastern crossings in another's charge, and learning the weather.
       - level: 5
         title: Reach-guide
-        lore: masterrnk
         description: >-
           Entrusted with a crossing of the Reach alone, and answerable to the council for whoever does not come back.
       - level: 6
         title: Hearth-head
-        lore: councillorrnk
         description: Head of a winter hearth, sitting on the council and speaking for those who eat at his fire.
       - level: 7
         title: Winter-speaker
-        lore: prsdngffcrrnk
         description: >-
           Presiding over the winter council, holding the order of speaking and no authority when it rises.
     offices:

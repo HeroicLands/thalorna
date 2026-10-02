@@ -11,7 +11,7 @@ data:
   archetypes: [entertainer]
   occupation: Musician (Lyre)
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: khelathiclt
   homes: [galezkara]
   affiliations: {empireakhlth: {}}

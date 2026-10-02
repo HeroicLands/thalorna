@@ -34,6 +34,20 @@
  * declares, and a name that fits no rule for its class is reported with the
  * rule it breaks.
  *
+ * **What a thing was called is settled by the table, not here.**
+ * `utils/nordmal-concordance.json` records every name a thing has borne, and a
+ * thing that takes its culture's own word keeps the name a reader knows it by
+ * in its `name.aliases` — one note, every tongue linking to it, and the phrase
+ * still finds it. Such an alias is in the reader's tongue by definition, so it
+ * is read past and counted rather than judged as a Varokhi form. The table is
+ * what says which aliases those are: an alias no row records is judged like any
+ * other name, and reports off-lexicon when it does not fit. Every one read past
+ * is printed, because a filter nobody can see is a filter nobody can check.
+ * A row created outright, `oldName: null`, retired nothing, so its own
+ * `newAliases` is read past the same way: it is the reader's-tongue gloss the
+ * thing was coined with rather than a kept former name, and neither is a
+ * Varokhi form the lexicon has jurisdiction over.
+ *
  * **The gender a name is given to.** A being's note states the gender, and the
  * closing states it too, so the two are compared: a man's name closing the way a
  * woman's closes is a finding on the note that carries it.
@@ -87,6 +101,9 @@ import YAML from "yaml";
 
 /** The note every predicate is derived from. */
 const NOTE = "assets/content/Skills/Languages/Varokhi.md";
+
+/** The table that settles which names are retired and what replaced them. */
+const CONCORDANCE = "utils/nordmal-concordance.json";
 
 /** Where the authored tree lives. */
 const CONTENT_DIR = "assets/content";
@@ -699,6 +716,48 @@ export function positionOf(raw, literal, from = 0) {
 }
 
 /**
+ * Every name the concordance records a thing as having been called.
+ *
+ * A thing that takes its culture's own word keeps the name a reader knows it by
+ * in its `name.aliases`, so one note serves every tongue that links to it and
+ * the phrase still finds it. That phrase is in the reader's tongue by
+ * definition, and the lexicon has no jurisdiction over it — the table is where
+ * a name's provenance is settled, so the table is what says so rather than a
+ * list kept here. Both old fields are read whole: whether the phrase is still
+ * carried decides where it belongs, not whether it is Varokhi.
+ *
+ * The table is a renaming instrument and is not required for a predicate here
+ * to hold. Where it is absent every alias is judged, which is the stricter
+ * reading.
+ *
+ * **A row created outright carries no former name to keep**, so its
+ * `newAliases` is read the same way instead: `oldName: null` is the table's
+ * own mark for a thing that retired nothing, and the alias standing against it
+ * is the reader's-tongue gloss the thing was coined with, never a claim to be
+ * Varokhi.
+ *
+ * @returns {Set<string>} The forms, trimmed as a note writes them.
+ */
+export function formerNames() {
+    const out = new Set();
+    if (!fs.existsSync(CONCORDANCE)) return out;
+    const table = JSON.parse(fs.readFileSync(CONCORDANCE, "utf8"));
+    const asList = (value) =>
+        Array.isArray(value) ? value.map(String)
+        : value == null ? []
+        : [String(value)];
+    for (const entry of table.entries ?? []) {
+        const forms = [...asList(entry.oldName), ...asList(entry.oldAliases)];
+        if (entry.oldName === null) forms.push(...asList(entry.newAliases));
+        for (const form of forms) {
+            const word = form.trim();
+            if (word) out.add(word);
+        }
+    }
+    return out;
+}
+
+/**
  * Every Varokhi name the corpus holds, with the class it belongs to and where
  * it is written.
  *
@@ -708,12 +767,14 @@ export function positionOf(raw, literal, from = 0) {
  * than to build.
  *
  * @param {object} rule - The derived lexicon.
- * @returns {object} `{ names, bynames, titles }`.
+ * @param {Set<string>} former - What a thing was called, from {@link formerNames}.
+ * @returns {object} `{ names, bynames, titles, kept }`.
  */
-export function corpus(rule) {
+export function corpus(rule, former = new Set()) {
     const found = [];
     const bynames = [];
     const titles = [];
+    const kept = [];
     // A note's title may be a frame in the reader's tongue, and a company's or
     // an order's name may be two Varokhi names joined by the particle the note
     // keeps. So a joined name is judged as its halves, a title of more than one
@@ -732,6 +793,18 @@ export function corpus(rule) {
         }
         const { line, column } = positionOf(raw, word);
         found.push({ name: word, kind, file, line, column, gender });
+    };
+    // An alias is judged like any other name, except where the concordance
+    // records the thing as having been called it. Then the alias is the former
+    // name kept for findability, and what it has to be is findable rather than
+    // Varokhi.
+    const addAlias = (name, kind, file, raw, framed = false) => {
+        const word = typeof name === "string" ? name.trim() : "";
+        if (word && former.has(word)) {
+            kept.push(word);
+            return;
+        }
+        add(name, kind, file, raw, framed);
     };
 
     for (const file of markdownFiles(CONTENT_DIR)) {
@@ -771,17 +844,19 @@ export function corpus(rule) {
 
         if (front.type === "place" && relative.startsWith(VRYSTWALD)) {
             add(front.name?.full, "place", file, raw, true);
-            for (const alias of front.name?.aliases ?? []) add(alias, "place", file, raw, true);
+            for (const alias of front.name?.aliases ?? [])
+                addAlias(alias, "place", file, raw, true);
         }
 
         if (front.type === "lore" && relative.startsWith(RANKS)) {
             add(front.name?.full, "rank", file, raw);
-            for (const alias of front.name?.aliases ?? []) add(alias, "rank", file, raw);
+            for (const alias of front.name?.aliases ?? []) addAlias(alias, "rank", file, raw);
         }
 
         if (front.type === "affiliation" && (tagged || relative.startsWith(VRYSTWALD))) {
             add(front.name?.full, "order", file, raw, true);
-            for (const alias of front.name?.aliases ?? []) add(alias, "order", file, raw, true);
+            for (const alias of front.name?.aliases ?? [])
+                addAlias(alias, "order", file, raw, true);
         }
 
         const governance = front.data?.governance;
@@ -799,7 +874,7 @@ export function corpus(rule) {
         const { line, column } = positionOf(note, row.name, from);
         found.push({ ...row, file: NOTE, line, column });
     }
-    return { names: found, bynames, titles };
+    return { names: found, bynames, titles, kept };
 }
 
 /**
@@ -998,7 +1073,7 @@ function main() {
     }
     const note = fs.readFileSync(NOTE, "utf8");
     const rule = lexiconFrom(note);
-    const { names, bynames, titles } = corpus(rule);
+    const { names, bynames, titles, kept } = corpus(rule, formerNames());
 
     const out = [];
     const byClass = new Map();
@@ -1118,6 +1193,12 @@ function main() {
         framed.length ?
             `Read past as titles in the reader's tongue (${framed.length}): ${framed.join(", ")}`
         :   "No title was read past.",
+    );
+    const former = [...new Set(kept)].sort((a, b) => a.localeCompare(b, "en"));
+    say(
+        former.length ?
+            `Read past as aliases ${CONCORDANCE} records a thing as having been called, kept so the phrase a reader knows still finds the note (${former.length}): ${former.join(", ")}`
+        :   `No alias was read past as a name ${CONCORDANCE} records.`,
     );
     say("Names are read from frontmatter and from the note's own lists; prose is not read.");
 

@@ -10,7 +10,7 @@ data:
   archetypes: [woodsman]
   occupation: Animal Trainer
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: khazrynclt
   homes: [oasishirvn]
   affiliations: {khzrncnfdrtn: {}}

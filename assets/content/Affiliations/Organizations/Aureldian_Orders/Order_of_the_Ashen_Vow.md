@@ -19,17 +19,14 @@ data:
     ranks:
       - level: 0
         title: Expelled
-        lore: expelledrnk
         description: >-
           Put out of the order, the habit taken back and the vows declared void; no house of it will receive them again.
       - level: 1
         title: Servant
-        lore: servantrnk
         description: >-
           Attached to a house for its labor—its stables, its kitchens, its fields—and not of the order.
       - level: 2
         title: Postulant
-        lore: aspirantrnk
         description: Petitioning for admission and living under the rule on trial, bound by nothing yet.
       - level: 3
         title: Novice
@@ -38,26 +35,21 @@ data:
           Received for a term of formation, under the rule and under a master of novices, and free to leave until profession.
       - level: 4
         title: Professed
-        lore: professedrnk
         description: >-
           Vowed to the order for life, holding no property of their own and owing obedience to its officers.
       - level: 5
         title: Officer
-        lore: officerrnk
         description: Holding a charge of a house—its arms, its stores, its almsgiving, its chapel.
       - level: 6
         title: Commander
-        lore: commanderrnk
         description: >-
           Holding a house of the order, its brethren and its lands, and answerable for both to the chapter.
       - level: 7
         title: Preceptor
-        lore: branchheadrnk
         description: >-
           Holding a province of the order—several houses—and sitting in the chapter that elects its head.
       - level: 8
         title: Grand Master
-        lore: grandmasterrnk
         description: >-
           Head of the order, elected by the chapter, bound by the rule he enforces and removable under it.
     offices:

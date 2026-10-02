@@ -10,7 +10,7 @@ data:
   archetypes: [woodsman]
   occupation: Herder
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: nordheimnclt
   homes: [vrathavn]
   affiliations: {kingdmnrgd: {}}

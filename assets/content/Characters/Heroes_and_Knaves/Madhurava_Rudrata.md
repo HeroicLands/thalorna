@@ -10,7 +10,7 @@ data:
   archetypes: [courtier, scholar]
   occupation: Herald
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: vedyariclt
   homes: [chandrapur2]
   affiliations: {chandrapur: {}}

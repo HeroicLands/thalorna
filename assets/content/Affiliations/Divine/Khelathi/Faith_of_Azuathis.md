@@ -19,17 +19,14 @@ data:
     ranks:
       - level: 0
         title: Denounced
-        lore: outlawrnk
         description: >-
           Discovered. A person found maintaining a shrine to the chaos god faces execution, their very existence held to invite catastrophe on the realm; there is no penitence and no restoration.
       - level: 1
         title: Warded
-        lore: layfaithfulrnk
         description: >-
           The frontier shamans and wise folk—steppe herders of the western uplands, hill-dwellers of the eastern ranges—who understand the god as natural force and keep practices of protection and appeasement. They operate outside the official priesthood but hold a kind of implicit sanction, their work protecting communities and their understanding held to be not inaccurate so much as differently framed.
       - level: 2
         title: Devotee
-        lore: committedrnk
         description: >-
           One who has turned to actual worship, believing appeasement offers personal power or that destruction is preferable to the constraints of order. A capital heresy, kept entirely secret, and with no structure above it to belong to.
     offices:

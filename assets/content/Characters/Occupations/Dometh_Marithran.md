@@ -10,7 +10,7 @@ data:
   archetypes: [entertainer, guildsperson]
   occupation: Thespian
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: tarvenanclt
   homes: [castamere]
   affiliations: {kingdmtrvn: {}}

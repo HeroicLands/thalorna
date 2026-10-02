@@ -11,7 +11,7 @@ data:
   archetypes: [artisan]
   occupation: Shipwright
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: haradianclt
   homes: [haradregin]
   affiliations: {thetamzir: {}, cnfdrtnhrdnstts: {}}

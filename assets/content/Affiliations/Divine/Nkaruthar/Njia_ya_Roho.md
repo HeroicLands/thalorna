@@ -19,27 +19,22 @@ data:
     ranks:
       - level: 0
         title: Spirit-Deaf
-        lore: outlawrnk
         description: >-
           Cut off by the zohira and by those who speak with them, and no cairn in the country will answer them again. This is not excommunication from a faith; it is expulsion from what being Okháric consists of, and it is not recoverable.
       - level: 1
         title: Of the People
-        lore: unenteredrnk
         description: >-
           Every Okháric, from birth and without joining anything: keeping the local cairns, leaving what the tribe's zohira are owed, and going to a shaman rather than speaking for themselves. Nearly everyone, all their lives.
       - level: 2
         title: Candidate of the Hunt
-        lore: initiaternk
         description: >-
           Accepted to attempt the Spirit Hunt, and taught what can be taught beforehand; some candidates do not return, and the tradition does not pretend otherwise.
       - level: 3
         title: Mwalimu wa Roho
-        lore: sprtspkrrnk
         description: >-
           "Teacher of the spirit"—survived the Hunt and consumed the heart, bound to the zohira, and able to commune with them, interpret their will and intercede for the people.
       - level: 4
         title: Elder of the Spirit
-        lore: teachingelderrnk
         description: >-
           Long bound and widely consulted; teaches candidates, judges who may attempt the Hunt, and carries the tribe's account of its dealings with its zohira.
     offices:

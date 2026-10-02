@@ -19,47 +19,38 @@ data:
     ranks:
       - level: 0
         title: Denounced
-        lore: expelledrnk
         description: >-
           Named to the orthodox authorities by their own cell, or judged to have informed; expulsion and execution are the same sentence here.
       - level: 1
         title: Listener
-        lore: unenteredrnk
         description: >-
           Has heard the arguments and not yet accepted them; the movement is patient with listeners, because its case is strongest on a second hearing.
       - level: 2
         title: Persuaded
-        lore: layfaithfulrnk
         description: >-
           Holds the doctrine, gives shelter, food and silence, and takes no part in the rites; most adherents never advance past this and are the reason cells survive.
       - level: 3
         title: Bereaved
-        lore: voweddebtorrnk
         description: >-
           Has accepted a reclaimed loved one and is bound by the acceptance—the movement's most reliable adherents, and its most desperate.
       - level: 4
         title: Awakener
-        lore: initiaternk
         description: >-
           Active in a cell: carries the teaching, finds the grieving, and moves between villages under whatever name the region has not yet learned to fear.
       - level: 5
         title: Priest of the Broken Round
-        lore: priestrnk
         description: >-
           Performs the reversal and the lesser rites, and holds the cell's account of why the cosmic cycle is failing.
       - level: 6
         title: Tz'uqil Ch'ul
-        lore: transfiguredrnk
         description: >-
           Has undergone the ritual—torture, death and immediate reanimation—and come through it whole; named for the rite that made them.
       - level: 7
         title: Cell-Master
-        lore: commanderrnk
         description: >-
           Holds a cell, its shelter, its dead and its silence, and answers to no other cell for any of it.
       - level: 8
         title: Voice of the Owl
-        lore: sprtspkrrnk
         description: >-
           Believed to carry Pik'ul Tz'umaq's own word; never more than one in a region, often none, and the claim is never made twice in the same generation without bloodshed.
     offices:

@@ -14,7 +14,7 @@ data:
   archetypes: [artisan]
   occupation: Shipwright
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: nordheimnclt
   homes: [tvarnmark]
   affiliations: {kingdmnrgd: {}}
@@ -469,7 +469,7 @@ Vrathmýl is bold, curious, and quick to action. His fiery temper can lead to ra
 
 1. **The Calling of the Flame**: During a village gathering, Vrathmýl witnesses a strange fire burning in the distance, but when others investigate, no one else sees it. Drawn to its location, he discovers an ancient cairn inscribed with runes that seem familiar. The discovery hints at a connection between his family and a forgotten guardian role tied to the region’s safety, forcing Vrathmýl to question his future as more than a craftsman.
 
-2. **The Pact of the Drowned**: A local chieftain seeks Vrathmýl’s help in recovering artifacts from a recently unearthed shipwreck in a nearby fjord. The artifacts, said to belong to an ancient maritime cult, appear harmless at first but soon bring mistrust and fear among the villagers. As tensions rise, Vrathmýl finds himself caught between returning the items to the fjord or uncovering their true origin—and purpose.
+2. **The Pact of the Drowned**: A local Hersvald seeks Vrathmýl’s help in recovering artifacts from a recently unearthed shipwreck in a nearby fjord. The artifacts, said to belong to an ancient maritime cult, appear harmless at first but soon bring mistrust and fear among the villagers. As tensions rise, Vrathmýl finds himself caught between returning the items to the fjord or uncovering their true origin—and purpose.
 
 3. **The Stranger with No Shadow**: While traveling with companions, Vrathmýl encounters a lone wanderer who claims to know the path to a hidden stronghold of lost knowledge. The stranger’s eerie knowledge of Vrathmýl’s past, and their refusal to cast a shadow, raise suspicions. Yet the promise of understanding his growing sense of destiny pushes Vrathmýl to follow—though the journey may cost him more than answers.
 

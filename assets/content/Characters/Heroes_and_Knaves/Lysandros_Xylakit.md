@@ -10,7 +10,7 @@ data:
   archetypes: [artisan, woodsman]
   occupation: Timberwright
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: byzarianclt
   homes: [selimara]
   affiliations: {byzarianlg: {}}

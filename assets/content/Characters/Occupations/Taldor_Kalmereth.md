@@ -10,7 +10,7 @@ data:
   archetypes: [mariner]
   occupation: Fisher
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: elavendriclt
   homes: [elanmere]
   affiliations: {kngdmlvndr: {}}

@@ -10,7 +10,7 @@ data:
   archetypes: [artisan]
   occupation: Woodcrafter
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: vylarianclt
   homes: [sanctara]
   affiliations: {hlykngdmnrtm: {}}

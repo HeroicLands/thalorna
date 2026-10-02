@@ -24,27 +24,22 @@ data:
     ranks:
       - level: 0
         title: Patita
-        lore: excmmnctrnk
         description: >-
           "Fallen"—put out of the tradition, denied its rites and its teaching, and not received again by any of its houses.
       - level: 1
         title: Upāsaka
-        lore: layfaithfulrnk
         description: >-
           The lay follower, who keeps the observances and brings petitions without holding any office in the tradition.
       - level: 2
         title: Nidrāpāla
-        lore: initiaternk
         description: >-
           "Keeper of Sleep"—acolytes who attend the dream-chambers and keep watch over sleeping petitioners.
       - level: 3
         title: Darshaka
-        lore: priestrnk
         description: >-
           "Seer"—the working priesthood, trained in dream-reading, meditation, and the careful recording of the dreams brought by the faithful.
       - level: 4
         title: Svapna-Ácārya
-        lore: highpriestrnk
         description: >-
           "Master of Dreams"—senior priest of a monastery or temple; almost always a proven oneiromancer of many years' standing.
     offices:

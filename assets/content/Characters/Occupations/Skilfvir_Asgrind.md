@@ -10,7 +10,7 @@ data:
   archetypes: [skirmisher, woodsman]
   occupation: Hunter
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: nordheimnclt
   homes: [knalthstead]
   affiliations: {kngdmnrdhm: {}}

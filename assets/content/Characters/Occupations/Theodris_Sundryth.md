@@ -10,7 +10,7 @@ data:
   archetypes: [commoner]
   occupation: Beggar
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: varokhiclt
   homes: [grimholt]
   affiliations: {vrystwldtrbs: {}}

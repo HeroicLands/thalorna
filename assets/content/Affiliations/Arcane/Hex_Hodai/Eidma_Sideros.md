@@ -17,42 +17,33 @@ data:
     ranks:
       - level: 0
         title: Anathema
-        lore: excmmnctrnk
         description: >-
           Named against the tradition and cut off from its teaching, its protection and its company; what it taught them is not taken back.
       - level: 1
         title: Uninitiated
-        lore: unenteredrnk
         description: Outside the tradition entirely—served by it, feared by it, and told nothing.
       - level: 2
         title: Aspirant
-        lore: aspirantrnk
         description: Petitioning for admission and being watched to see whether it should be granted.
       - level: 3
         title: Initiate
-        lore: initiaternk
         description: >-
           Received into the tradition and bound by its oaths, holding its first mysteries and few of its secrets.
       - level: 4
         title: Adept
-        lore: masterrnk
         description: Practiced in the tradition's art and trusted to work it unsupervised.
       - level: 5
         title: Master of the Art
-        lore: masterrnk
         description: Competent to teach the tradition and to answer for what a pupil does with it.
       - level: 6
         title: Keeper of the Tradition
-        lore: branchheadrnk
         description: >-
           Holding one of its bodies of knowledge or one of its houses, and answerable for its continuance.
       - level: 7
         title: Elder
-        lore: seatedelderrnk
         description: Of the small body that decides what the tradition teaches and whom it admits.
       - level: 8
         title: First of the Tradition
-        lore: grandmasterrnk
         description: >-
           Presiding over the elders and speaking for the whole tradition where it must speak with one voice.
     offices:

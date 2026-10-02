@@ -10,7 +10,7 @@ data:
   archetypes: [artisan]
   occupation: Shipwright
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: nordheimnclt
   homes: [skraldborg]
   affiliations: {kngdmnrdhm: {}}

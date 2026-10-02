@@ -10,7 +10,7 @@ data:
   archetypes: [warrior]
   occupation: Bodyguard
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: haradianclt
   homes: [qadhirun]
   affiliations: {cnfdrtnhrdnstts: {}}

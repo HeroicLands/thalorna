@@ -18,36 +18,29 @@ data:
     ranks:
       - level: 0
         title: Cast from the Hunt
-        lore: expelledrnk
         description: >-
           Put out of the Zeghet'Nelgu and denied its rites; the shame falls on the Khetai and is not forgotten in seven generations.
       - level: 1
         title: Kin of the Khetai
-        lore: dependentrnk
         description: >-
           Of the family the charter was granted to, and entitled to nothing of the hunt by that alone.
       - level: 2
         title: Bearer
-        lore: dependentrnk
         description: >-
           Carrying the harpoons, poling the boats and butchering what is taken, without striking at the quarry.
       - level: 3
         title: Sworn of the Hunt
-        lore: swornofriternk
         description: Bound by the sacred obligation, permitted at the rites, and permitted to strike.
       - level: 4
         title: Blooded
-        lore: warriorrnk
         description: >-
           Having taken a hippopotamus or a crocodile in open water, and reckoned a hunter rather than a hand.
       - level: 5
         title: Wazu of the Hunt
-        lore: initiaternk
         description: >-
           Reading the will of the river gods before an expedition, without whose word it does not launch.
       - level: 6
         title: Steersman of the Sacred Waters
-        lore: commanderrnk
         description: >-
           Holder of the Gar-Aû's charter over this reach of the Zumélesh, whose authority in the hunt is absolute and whose tenure is not.
     offices:

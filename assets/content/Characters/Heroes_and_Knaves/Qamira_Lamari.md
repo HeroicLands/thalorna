@@ -10,7 +10,7 @@ data:
   archetypes: [mage, scholar]
   occupation: Astrologer
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: kaliharanclt
   homes: [qasirah]
   affiliations: {kalihara: {}}

@@ -19,22 +19,18 @@ data:
     ranks:
       - level: 0
         title: Exsecratus
-        lore: excmmnctrnk
         description: >-
           Cast out—which in a faith with no authority to expel anyone means only that the fellowship has stopped answering, and that is enough.
       - level: 1
         title: Fideles
-        lore: layfaithfulrnk
         description: >-
           The lay faithful, who keep the god's feasts and take no part in the Circle.
       - level: 2
         title: Acolytes of the Threshold
-        lore: initiaternk
         description: >-
           Initiates attached to a priest or a hermit, learning what that particular teacher holds—which is not what the next one holds.
       - level: 3
         title: Circle of the Threshold
-        lore: priestrnk
         description: >-
           The priests and philosophers of the god, who are of the Circle by claiming to be and hold no rank within it. There is nothing above this.
     offices:

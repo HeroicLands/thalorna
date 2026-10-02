@@ -10,7 +10,7 @@ data:
   archetypes: [scholar, artisan]
   occupation: Cartographer/Artist
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: aelwythanclt
   homes: [dunmere]
   affiliations: {kngdmldrth: {}}

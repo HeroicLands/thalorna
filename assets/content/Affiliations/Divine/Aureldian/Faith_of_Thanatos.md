@@ -19,27 +19,22 @@ data:
     ranks:
       - level: 0
         title: Exsecratus
-        lore: excmmnctrnk
         description: >-
           Cast out—denied the rites, the temple and the burial the faith promises, which is the one sentence it can pass that outlives the body.
       - level: 1
         title: Fideles
-        lore: layfaithfulrnk
         description: >-
           The lay faithful, who keep the feasts and the observances of the god without holding office in the temple.
       - level: 2
         title: Novices of the Silent Watch
-        lore: initiaternk
         description: >-
           Young men and women, often survivors of a near-death experience, in extensive training in funerary practice and theology.
       - level: 3
         title: Custodes Liminis
-        lore: priestrnk
         description: >-
           The Threshold Keepers—twenty or thirty ordained priests across the cities of western Ankaris, who perform funeral rites and keep the temple records of the dead.
       - level: 4
         title: Pontifex Mortis
-        lore: highpriestrnk
         description: >-
           Held by one among the Custodes; the hierarchy is defined by wisdom and philosophical depth rather than administrative rank.
     offices:

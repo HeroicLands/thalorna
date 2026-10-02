@@ -11,7 +11,7 @@ data:
   archetypes: [artisan]
   occupation: Weaponcrafter (Armorer)
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: khelathiclt
   homes: [galezkara]
   affiliations: {empireakhlth: {}}

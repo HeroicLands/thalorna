@@ -10,7 +10,7 @@ data:
   archetypes: [scholar, artisan]
   occupation: Scribe
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: vedyariclt
   homes: [vyalendra3]
   affiliations: {vyalendra2: {}}

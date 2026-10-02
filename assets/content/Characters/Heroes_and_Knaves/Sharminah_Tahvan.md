@@ -10,7 +10,7 @@ data:
   archetypes: [cleric]
   occupation: Priest
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: khazrynclt
   homes: [kethramir]
   affiliations: {tribestrzd: {}}

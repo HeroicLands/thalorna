@@ -11,7 +11,7 @@ data:
   archetypes: [mage, healer]
   occupation: Alchemist
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: khelathiclt
   homes: [aukhelathrgq]
   affiliations: {empireakhlth: {}}

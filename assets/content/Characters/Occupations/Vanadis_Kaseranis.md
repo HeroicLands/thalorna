@@ -10,7 +10,7 @@ data:
   archetypes: [courtier]
   occupation: Courtesan
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: vylarianclt
   homes: [valdosta]
   affiliations: {vylarinmpr: {}}

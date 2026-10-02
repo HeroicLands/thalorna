@@ -11,7 +11,7 @@ data:
   archetypes: [mage, scholar]
   occupation: Astrologer
   stations: []
-  lore: [landedlordrnk]
+  lore: []
   culture: khelathiclt
   homes: [amqelulegez]
   affiliations: {empireakhlth: {}}

@@ -10,7 +10,7 @@ data:
   archetypes: [courtier]
   occupation: Nobility (Courtier)
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: provenzianclt
   homes: [chastelclr]
   affiliations: {kngdmprvnz: {}}

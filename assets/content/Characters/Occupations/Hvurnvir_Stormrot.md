@@ -10,7 +10,7 @@ data:
   archetypes: [mariner]
   occupation: Fisher
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: nordheimnclt
   homes: [nalthmark]
   affiliations: {kngdmnrdhm: {}}

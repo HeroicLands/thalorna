@@ -14,7 +14,7 @@ data:
   archetypes: [artisan]
   occupation: Chandler
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: vedyariclt
   homes: [chandrapur2]
   affiliations: {chandrapur: {}}

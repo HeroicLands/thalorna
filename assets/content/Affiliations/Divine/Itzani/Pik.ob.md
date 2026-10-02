@@ -18,42 +18,34 @@ data:
     ranks:
       - level: 0
         title: Turned Away
-        lore: expelledrnk
         description: >-
           Put out of the groves—almost always for having crossed from accepting that all things end into wishing to hasten the ending.
       - level: 1
         title: Grieving
-        lore: unenteredrnk
         description: >-
           Brought to a grove by a loss and permitted to sit in it, under no obligation and asked for nothing; most never return a second time.
       - level: 2
         title: Sitter
-        lore: initiaternk
         description: >-
           Received for the long practice—years of sitting where things are rotting and being asked what they find objectionable about it.
       - level: 3
         title: Pik'ob
-        lore: professedrnk
         description: >-
           A professed owl keeper, of the order for life, holding nothing of their own and maintaining nothing beyond what the grove requires.
       - level: 4
         title: Grove-Keeper
-        lore: priestrnk
         description: >-
           Holds one Ch'ulba K'anal: its boundary, its dead, and the discipline of leaving it alone.
       - level: 5
         title: Platform-Master
-        lore: priestrnk
         description: >-
           Conducts sky burial where the region practices it—the exposure, the reading of the birds, and the gathering of the bared bone.
       - level: 6
         title: Teacher of Dissolution
-        lore: teachingelderrnk
         description: >-
           Trusted to instruct, which in this order means to sit with someone for years and correct almost nothing.
       - level: 7
         title: K'ul Pik'ob
-        lore: branchheadrnk
         description: >-
           Keeper of the owls—head of the contemplative branch in a city, who answers to the death-temple's K'ul Tq'an for what its philosophers say in public.
     offices:
