@@ -1,6 +1,6 @@
 ---
 shortcode: edrmundrnk
-name: {full: "Edrmund", aliases: []}
+name: {full: "Edrmund", aliases: ["Taken-In", "Dependent"]}
 type: lore
 subType: law
 description: "Free and of no kin, sheltered by a household without being of its blood, in the Vrystwald Tribes."

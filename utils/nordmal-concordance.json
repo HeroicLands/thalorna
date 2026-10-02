@@ -6649,7 +6649,7 @@
             "oldAddress": "lore-ofthebandrnk",
             "oldImage": null,
             "newName": "Grimmund",
-            "newAliases": [],
+            "newAliases": ["Of the Band"],
             "newPath": "assets/content/Lore/Ranks/Varokhi/Blackpine_Wolves/Grimmund.md",
             "newShortcode": "grimmundrnk",
             "newAddress": "lore-grimmundrnk",
@@ -6664,7 +6664,8 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Lore/Ranks/Varokhi/Blackpine_Wolves/Of_The_Band.md:3:15"
             ],
-            "boldKind": "none"
+            "boldKind": "none",
+            "kinds": []
         },
         {
             "oldName": "Bondservant",
@@ -6674,7 +6675,7 @@
             "oldAddress": "lore-varokhbondsvntrnk",
             "oldImage": null,
             "newName": "Óthmund",
-            "newAliases": [],
+            "newAliases": ["Bondservant"],
             "newPath": "assets/content/Lore/Ranks/Varokhi/Vrystwald_Tribes/Othmund.md",
             "newShortcode": "othmundrnk",
             "newAddress": "lore-othmundrnk",
@@ -6700,7 +6701,7 @@
             "oldAddress": "lore-chieftainrnk",
             "oldImage": null,
             "newName": "Hárár",
-            "newAliases": [],
+            "newAliases": ["Chieftain"],
             "newPath": "assets/content/Lore/Ranks/Varokhi/Vrystwald_Tribes/Harar.md",
             "newShortcode": "hararrnk",
             "newAddress": "lore-hararrnk",
@@ -6726,7 +6727,7 @@
             "oldAddress": "lore-kinlessrnk",
             "oldImage": null,
             "newName": "Vrystrith",
-            "newAliases": [],
+            "newAliases": ["Kinless"],
             "newPath": "assets/content/Lore/Ranks/Varokhi/Vrystwald_Tribes/Vrystrith.md",
             "newShortcode": "vrystrithrnk",
             "newAddress": "lore-vrystrithrnk",
@@ -6752,7 +6753,7 @@
             "oldAddress": "lore-varokhkinsmanrnk",
             "oldImage": null,
             "newName": "Druthmund",
-            "newAliases": [],
+            "newAliases": ["Kinsman"],
             "newPath": "assets/content/Lore/Ranks/Varokhi/Vrystwald_Tribes/Druthmund.md",
             "newShortcode": "druthmundrnk",
             "newAddress": "lore-druthmundrnk",
@@ -6778,7 +6779,7 @@
             "oldAddress": "lore-lineageeldrrnk",
             "oldImage": null,
             "newName": "Fródrád",
-            "newAliases": [],
+            "newAliases": ["Elder"],
             "newPath": "assets/content/Lore/Ranks/Varokhi/Vrystwald_Tribes/Frodrad.md",
             "newShortcode": "frodradrnk",
             "newAddress": "lore-frodradrnk",
@@ -6804,7 +6805,7 @@
             "oldAddress": "lore-takeninrnk",
             "oldImage": null,
             "newName": "Edrmund",
-            "newAliases": [],
+            "newAliases": ["Taken-In", "Dependent"],
             "newPath": "assets/content/Lore/Ranks/Varokhi/Vrystwald_Tribes/Edrmund.md",
             "newShortcode": "edrmundrnk",
             "newAddress": "lore-edrmundrnk",
@@ -6831,7 +6832,7 @@
             "oldAddress": "lore-hunterrnk",
             "oldImage": null,
             "newName": "Erthjagár",
-            "newAliases": [],
+            "newAliases": ["Hunter"],
             "newPath": "assets/content/Lore/Ranks/Varokhi/Wuldjagar/Erthjagar.md",
             "newShortcode": "erthjagarrnk",
             "newAddress": "lore-erthjagarrnk",
@@ -6855,7 +6856,7 @@
             "oldAddress": "lore-newhunterrnk",
             "oldImage": null,
             "newName": "Vandár",
-            "newAliases": [],
+            "newAliases": ["New Hunter"],
             "newPath": "assets/content/Lore/Ranks/Varokhi/Wuldjagar/Vandar.md",
             "newShortcode": "vandarrnk",
             "newAddress": "lore-vandarrnk",
@@ -6870,7 +6871,8 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Lore/Ranks/Varokhi/Wuldjagar/New_Hunter.md:3:15"
             ],
-            "boldKind": "none"
+            "boldKind": "none",
+            "kinds": []
         },
         {
             "oldName": "Málaliðabandalag",
@@ -7907,7 +7909,8 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Regions/Ankaris/Vrystwald/Vrystwald_Tribes.md:47:7"
             ],
-            "boldKind": "none"
+            "boldKind": "none",
+            "kinds": []
         },
         {
             "oldName": "War-chief",
@@ -7932,7 +7935,8 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Regions/Ankaris/Vrystwald/Vrystwald_Tribes.md:48:126"
             ],
-            "boldKind": "none"
+            "boldKind": "none",
+            "kinds": []
         },
         {
             "oldName": "Lawkeeper",
@@ -7957,7 +7961,8 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Regions/Ankaris/Vrystwald/Vrystwald_Tribes.md:51:7"
             ],
-            "boldKind": "none"
+            "boldKind": "none",
+            "kinds": []
         },
         {
             "oldName": "Host-Caller",
@@ -7982,7 +7987,8 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Regions/Ankaris/Vrystwald/Vrystwald_Tribes.md:53:7"
             ],
-            "boldKind": "none"
+            "boldKind": "none",
+            "kinds": []
         },
         {
             "oldName": "Truce-Warden",
@@ -8007,7 +8013,8 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Regions/Ankaris/Vrystwald/Vrystwald_Tribes.md:54:7"
             ],
-            "boldKind": "none"
+            "boldKind": "none",
+            "kinds": []
         },
         {
             "oldName": "Water-Warden",
@@ -8032,7 +8039,8 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Regions/Ankaris/Vrystwald/Vrystwald_Tribes.md:55:7"
             ],
-            "boldKind": "none"
+            "boldKind": "none",
+            "kinds": []
         },
         {
             "oldName": "Guide",
@@ -8057,7 +8065,8 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Regions/Ankaris/Vrystwald/Vrystwald_Tribes.md:57:7"
             ],
-            "boldKind": "none"
+            "boldKind": "none",
+            "kinds": []
         },
         {
             "oldName": "Envoy",
@@ -8082,7 +8091,8 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Regions/Ankaris/Vrystwald/Vrystwald_Tribes.md:59:7"
             ],
-            "boldKind": "none"
+            "boldKind": "none",
+            "kinds": []
         },
         {
             "oldName": "Keeper of the Feud",
@@ -8107,7 +8117,8 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Regions/Ankaris/Vrystwald/Vrystwald_Tribes.md:60:7"
             ],
-            "boldKind": "none"
+            "boldKind": "none",
+            "kinds": []
         },
         {
             "oldName": "Huntmaster",
@@ -8132,7 +8143,8 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Affiliations/Social/Companies/Wuldjagar_erund_Garskald.md:32:7"
             ],
-            "boldKind": "none"
+            "boldKind": "none",
+            "kinds": []
         },
         {
             "oldName": "Track-Leader",
@@ -8157,7 +8169,8 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Affiliations/Social/Companies/Wuldjagar_erund_Garskald.md:34:7"
             ],
-            "boldKind": "none"
+            "boldKind": "none",
+            "kinds": []
         },
         {
             "oldName": "Healer",
@@ -8182,7 +8195,8 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Affiliations/Social/Companies/Wuldjagar_erund_Garskald.md:35:7"
             ],
-            "boldKind": "none"
+            "boldKind": "none",
+            "kinds": []
         },
         {
             "oldName": "Spear-Bearer",
@@ -8207,7 +8221,8 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Affiliations/Social/Companies/Wuldjagar_erund_Garskald.md:36:7"
             ],
-            "boldKind": "none"
+            "boldKind": "none",
+            "kinds": []
         },
         {
             "oldName": "Skinner",
@@ -8232,7 +8247,8 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Affiliations/Social/Companies/Wuldjagar_erund_Garskald.md:38:7"
             ],
-            "boldKind": "none"
+            "boldKind": "none",
+            "kinds": []
         },
         {
             "oldName": "Dog-Keeper",
@@ -8257,7 +8273,8 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Affiliations/Social/Companies/Wuldjagar_erund_Garskald.md:40:7"
             ],
-            "boldKind": "none"
+            "boldKind": "none",
+            "kinds": []
         },
         {
             "oldName": "Scout",
@@ -8282,7 +8299,8 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Affiliations/Social/Companies/Wuldjagar_erund_Garskald.md:41:7"
             ],
-            "boldKind": "none"
+            "boldKind": "none",
+            "kinds": []
         },
         {
             "oldName": "Leader",
@@ -8307,7 +8325,8 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Affiliations/Social/Companies/The_Blackpine_Wolves.md:25:7"
             ],
-            "boldKind": "none"
+            "boldKind": "none",
+            "kinds": []
         }
     ]
 }

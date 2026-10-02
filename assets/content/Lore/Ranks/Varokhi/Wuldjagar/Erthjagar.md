@@ -1,6 +1,6 @@
 ---
 shortcode: erthjagarrnk
-name: {full: "Erthjagár", aliases: []}
+name: {full: "Erthjagár", aliases: ["Hunter"]}
 type: lore
 subType: law
 description: "One of the company, carrying a charge and a share of the kill, in Wuldjagár erund Gárskald."

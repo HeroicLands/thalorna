@@ -1,6 +1,6 @@
 ---
 shortcode: hararrnk
-name: {full: "Hárár", aliases: []}
+name: {full: "Hárár", aliases: ["Chieftain"]}
 type: lore
 subType: law
 description: "Head of a clan or tribe by prowess, wisdom and the warriors' support, and not by descent, in the Vrystwald Tribes."
@@ -27,7 +27,7 @@ He answers to the moot for his leadership, and holds the standing on the same pr
 
 ## Offices Open at This Standing
 
-A seat in the Council of Chieftains, the irregular gathering where the tribes attempt to resolve disputes and coordinate against outside threats, and the Ríkár, presiding officer of the common council and keeper of its peace and the order of speaking.
+A seat in the Council of Hárárs, the irregular gathering where the tribes attempt to resolve disputes and coordinate against outside threats, and the Ríkár, presiding officer of the common council and keeper of its peace and the order of speaking.
 
 ## Where This Standing Is Held
 

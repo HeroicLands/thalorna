@@ -1,6 +1,6 @@
 ---
 shortcode: frodradrnk
-name: {full: "Fródrád", aliases: []}
+name: {full: "Fródrád", aliases: ["Elder"]}
 type: lore
 subType: law
 description: "Senior of a lineage, whose memory of custom and precedent settles what the young dispute, in the Vrystwald Tribes."

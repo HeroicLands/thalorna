@@ -439,4 +439,4 @@ A younger war-leader of Waldburg who takes the raiding contracts Hródar refuses
 
 3. **The Governor's Offer**—A Moktur governor has offered the Frath a standing post on the march, with pay and land, to hold the frontier against Varokh. Half his men want it.
 
-4. **The Council**—The Council of Chieftains has been called against a Nordman push into the western forest, and Waldburg's chieftain means to send the younger man's band. Hródar is to stay and train boys.
+4. **The Council**—The Council of Hárárs has been called against a Nordman push into the western forest, and Waldburg's chieftain means to send the younger man's band. Hródar is to stay and train boys.
