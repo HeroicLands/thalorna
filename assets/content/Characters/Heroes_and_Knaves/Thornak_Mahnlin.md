@@ -1,10 +1,10 @@
 ---
 shortcode: thrnkbldtscbr
 name:
-  full: Thornak Blodtūsc Bār
+  full: Thornak Blodtusc Bar
   given: Thornak
   clan: Mahnlin
-  aliases: [The Boar-Totem Warrior, Blodtūsc Bār, Thornak Mahnlin]
+  aliases: [The Boar-Totem Warrior, Blodtusc Bar, Thornak Mahnlin]
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, tradesfolk]
@@ -17,7 +17,7 @@ data:
   lore: []
   culture: varokhiclt
   homes: [eichengrnd]
-  affiliations: {vrystwldtrbs: {}}
+  affiliations: {vrystwldtrbs: {rank: 4}}
   gender: male
   species: humanflk
   born: 679.130
@@ -47,7 +47,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 9}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 10}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 14}}
-    - {model: affiliation-eidgar}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-mrcn, system: {masteryLevelBase: 26}}
@@ -425,7 +424,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[thrnkbldtscbr|Thornak Blodtūsc Bār]]{float=top-left}
+![[thrnkbldtscbr|Thornak Blodtusc Bar]]{float=top-left}
 
 Thornak is a hulking figure, standing at 6'6" and weighing around 250 pounds, with a body built for battle. His skin is pale and scarred from countless battles, and his long, untamed reddish-brown hair falls wildly over his shoulders, often tied back with leather straps. His fierce blue eyes reflect a primal rage that he channels in combat, and his face is adorned with ritualistic scars, including a prominent one across his nose. His heavy jaw is framed by a thick beard, also reddish-brown, that he keeps long and untrimmed. Thornak wears furs and hides, practical for the harsh environment of the Vrystwald tribes, and he wields a massive boar spear, the symbol of his totem, along with a bone-handled axe.
 
@@ -435,11 +434,11 @@ Thornak is a hulking figure, standing at 6'6" and weighing around 250 pounds, wi
 
 ### Early Life
 
-Thornak Blodtūsc Bār was born into the **Mahnlin tribe**, one of the most remote and fiercely independent Vrystwald tribes. His tribe’s survival depended on their mastery of the wild, rugged terrain of Peran, a land of dense forests, deep valleys, and treacherous mountains. The Vrystwalds are known for their violent customs, deep reverence for the spirits of nature, and a resistance to outsiders. Thornak’s childhood was a brutal one, marked by intense physical and spiritual trials.
+Thornak Blodtusc Bar was born into the **Mahnlin tribe**, one of the most remote and fiercely independent Vrystwald tribes. His tribe’s survival depended on their mastery of the wild, rugged terrain of Peran, a land of dense forests, deep valleys, and treacherous mountains. The Vrystwalds are known for their violent customs, deep reverence for the spirits of nature, and a resistance to outsiders. Thornak’s childhood was a brutal one, marked by intense physical and spiritual trials.
 
 From an early age, Thornak exhibited a strong connection to the spirit world. His dreams were vivid, often filled with images of wild boars charging through dense forests, blood on their tusks. These visions were seen as a sign from **Kemlar the Guide**, the Vrystwald god of war and strength, who frequently manifested in the form of a boar. As a child, Thornak was taught that every Vrystwald warrior must choose or be chosen by an animal totem, which would shape their path in life. The boar, with its stubbornness, aggression, and resilience, chose Thornak. It became his lifelong guide and source of power.
 
-Thornak's father, **Hrodgar**, was a fierce warrior who led the tribe’s warbands against invaders and rival clans. His mother, **Maghildr**, was a respected spirit-talker, often called upon to interpret the will of the gods and spirits. From them, Thornak learned both the ways of war and the sacred rituals that tied his people to the land and its spirits. By the time he was 12, Thornak had undergone several brutal rites of passage, including the **Trial of the Bloodtusk**, where he was forced to kill a wild boar with nothing but a spear. This trial earned him his name, **Blodtūsc**, symbolizing his connection to the boar spirit and his role as a protector of the tribe.
+Thornak's father, **Hrodgar**, was a fierce warrior who led the tribe’s warbands against invaders and rival clans. His mother, **Maghildr**, was a respected spirit-talker, often called upon to interpret the will of the gods and spirits. From them, Thornak learned both the ways of war and the sacred rituals that tied his people to the land and its spirits. By the time he was 12, Thornak had undergone several brutal rites of passage, including the **Trial of the Bloodtusk**, where he was forced to kill a wild boar with nothing but a spear. This trial earned him his name, **Blodtusc**, symbolizing his connection to the boar spirit and his role as a protector of the tribe.
 
 ### Hunter Training
 

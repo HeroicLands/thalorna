@@ -1,10 +1,6 @@
 ---
 shortcode: skthldfrdbn
-name:
-  full: Skathilda Fródbán
-  given: Skathilda
-  clan: Fródbán
-  aliases: [the Weasel, Skathilda Frodban]
+name: {full: Skathilda Fródbán, given: Skathilda, clan: Fródbán, aliases: [the Weasel]}
 type: being
 subType: character
 tags: [blackpine-wolves, brigand, vrystwald, underworld]
@@ -17,7 +13,7 @@ data:
   lore: []
   culture: varokhiclt
   homes: [vrystwald]
-  affiliations: {blckpnwlvs: {rank: 1}, vrystwldtrbs: {}}
+  affiliations: {blckpnwlvs: {rank: 1}, vrystwldtrbs: {rank: 0}}
   gender: female
   species: humanflk
   born: 692.9

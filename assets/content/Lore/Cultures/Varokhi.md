@@ -21,6 +21,8 @@ The men train for war, and not seasonally or as a levy. A Varokh man's occupatio
 
 The women do everything else, which is a great deal more than the phrase suggests. The traplines through the winter taiga and the river-boats that carry the furs down to market are one trade seen from two ends, so the most valuable commodity in Vrystwald is taken, prepared, carried and sold by women from beginning to end. They also hold the household: the stores, the stock, the year's provisioning, the reckoning of what is owed to whom, and the slaves, who are bought, worked, fed, watched and disposed of by the mistress of the house. A slave in Vrystwald answers to a woman, every day, about everything.
 
+Every piece of the division points outward. Freeing a man's whole working life for weapons, and putting the entire fur trade in a woman's hands rather than pulling her husband off training to run it, are not separable choices—they are one economy built around a stranger's arrival rather than around the harvest. Severe contempt for outsiders is not a trait riding alongside this arrangement; it is what the arrangement is for. A boyhood spent training for that arrival leaves barely any room in it for counting the arrival as human, and the Nordmen—the nearest outsiders there are—clear that low measure only barely.
+
 ## What That Makes of Them
 
 A Varokh man is formidable, proud and disinclined to explain himself. He fights for his war-band before his tribe and for his tribe before any confederation, and the loyalty runs in that order without apology.
@@ -35,7 +37,7 @@ Religious practice is syncretic and nobody minds. The northern tribes name gods 
 
 Underneath whichever names are in use runs the thing that actually matters: a deep animistic reverence for the forest itself. Sacred groves are the temples, the oldest trees are held to house powerful spirits and are addressed as such, and druids and wise-women lead the rites at the turning of the seasons and mediate with the spirit world on an authority independent of either chief's.
 
-A Varokh will adopt a foreign god without difficulty and will not adopt a foreign attitude to the forest. The first is a name; the second would be a change of substance.
+A god of the Ten takes root in a Varokh only on narrow terms—a captive raised among the Nordmen, a trader long settled at their landings, a wife married across the Falkenstein frontier—and never as a casual borrowing from the people nearest to being counted kin. What never takes root on any terms is a foreign attitude to the forest: that would be a change of substance, not a name.
 
 ## Memory Without Writing
 
@@ -49,7 +51,11 @@ Craftwork is valued highly: woodcarving, leatherwork and ironsmithing. Varokh we
 
 Slaves are taken in war and bought at the river-landings, and they are the base of the whole arrangement. There is no Varokh discomfort about it and no theology softening it. A slave may be freed, is occasionally married in, and the children of such a marriage are simply Varokh—the line is hard while it lasts and is not hereditary in the way Ankarian bondage often is.
 
-A foreigner who moralizes about it will find the Varokh unmoved and genuinely puzzled, since the alternative he is proposing appears to involve the men doing the hauling, which would leave nobody training.
+Whether a captive is held or absorbed turns on one thing: the chance someone will buy him back. A captive Varokh is ransomed by his own tribe as a matter of course, and is treated well while the asking takes place—Skathár, who records the blood owed and paid between kindreds, keeps the same reckoning for a price owed and paid for a person. A Nordlander's ransom is common enough to count on, and he is treated the better for it, though with the same distrust a Nordman gets at any other time. A southerner's ransom is next to unheard of: a captive off a raided coast has no kin within reach of a river crossing, let alone a longship, so he becomes the arrangement's permanent labor rather than its temporary stock. Ransom is also what lets the tribes war among themselves without ending each other—a feud that trades captives back along with the blood it owes is an exchange a people can run forever, where one that only takes eventually runs out of someone to fight.
+
+A held captive and an absorbed one are not one thing under two names. A man still worth ransoming is kept rather than owned the way the ladder means it: no household has finished buying him, so none yet holds his standing. [[lore-othmundrnk|Óthmund]] and [[lore-edrmundrnk|Edrmund]] are where a captive lands once that question is settled the other way, with no ransom coming and a household's service the only road left—toward being freed, married in, or, in time, simply Varokh.
+
+A foreigner who moralizes about the arrangement will find the Varokh unmoved and genuinely puzzled, since the alternative he is proposing appears to involve the men doing the hauling, which would leave nobody training.
 
 ## What a Person Owes
 

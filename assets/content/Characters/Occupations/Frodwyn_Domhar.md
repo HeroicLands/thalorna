@@ -13,7 +13,7 @@ data:
   lore: []
   culture: varokhiclt
   homes: [dunkelwald]
-  affiliations: {vrystwldtrbs: {}}
+  affiliations: {vrystwldtrbs: {rank: 3}}
   gender: female
   species: humanflk
   born: 686.96
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 16}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 15}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 13}}
-    - {model: affiliation-odvar}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 32}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 75}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 15}}
