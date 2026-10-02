@@ -211,7 +211,7 @@ outlasted every enemy it ever had without ever once threatening to conquer one.
 
 ## Culture and Society
 
-The Varokh are organized into tribal confederations, each led by a chieftain who rules by consensus and martial prowess rather than hereditary right. The tribes are fiercely independent, often warring among themselves, but they unite against external threats with a ferocity that has broken more than one Vylarian legion.
+The Varokh are organized into tribal confederations, each led by a War Chief who rules by consensus and martial prowess rather than hereditary right. The tribes are fiercely independent, often warring among themselves, but they unite against external threats with a ferocity that has broken more than one Vylarian legion.
 
 Varokh culture prizes personal courage, loyalty to one's war-band, and a deep reverence for the forest and its spirits. Their oral traditions are rich with tales of giant-slayers, spirit-walkers, and great heroes whose deeds echo through the ages. Craftwork—particularly woodcarving, leatherwork, and ironsmithing—is highly valued, and Varokh weapons, while less refined than Vylarian steel, are sturdy and effective.
 
@@ -233,7 +233,7 @@ The [[affiliation-ordoarcanis|Ordo Arcanis]] considers Vrystwald a lawless front
 
 To the **west** lies the [[place-nrdlndsrgn|Nordlands]]. The Varokh and the Nordmen share Pelwar ancestry and a great deal of cultural similarity (martial values, broad religious practice, similar architecture), but competition for resources along the long forest frontier keeps tensions simmering. Periodic Nordmal expeditions push into western Vrystwald; periodic Varokh counter-raids push back. Trade is substantial despite the friction, and intermarriage among border-clan and border-jarl households is common.
 
-To the **southwest** lies [[place-grkrhlmrgn|Grukarhölm]]. Vrystwaldi-Grukar relations are uniformly hostile—the Grukar marshlands border directly on Vrystwald's southwestern forests, and the long history of Grukar raiding into Varokh clearings (and Varokh punitive expeditions into the marshlands) has produced an entrenched mutual enmity that no living chieftain remembers the start of.
+To the **southwest** lies [[place-grkrhlmrgn|Grukarhölm]]. Vrystwaldi-Grukar relations are uniformly hostile—the Grukar marshlands border directly on Vrystwald's southwestern forests, and the long history of Grukar raiding into Varokh clearings (and Varokh punitive expeditions into the marshlands) has produced an entrenched mutual enmity that no living War Chief remembers the start of.
 
 To the **south** lies [[place-velanthrgn|Velanthia]]. The Vrystwald-Velanthian frontier is the most permeable border in the region: the Varokh forest peoples and the Velanthian river-prince and grain-belt populations have intermarried, traded, and shared frontier garrisons for many generations, with the result that the southern Varokh tribes look as much like Velanthian settlers as they do like their northern kin. The Velanthian princes consider the southern Varokh tribes useful auxiliaries and unreliable subjects in approximately equal measure.
 
@@ -245,7 +245,7 @@ Of the [[affiliation-vylarinmpr|Vylarian Empire]] the Varokh know little. Vylari
 
 - **The Deepwood:** The heartland of Vrystwald, a forest so ancient and dense that sunlight barely reaches the floor. Home to the most traditional Varokh clans and reputed to be filled with supernatural beings.
 - **The Vylarian Ruins:** Crumbling forts, roads, and settlements from the high-imperial Vylarian eastern reach, now overgrown and reclaimed by the southwestern forest. Some are believed to hold buried treasures or ancient secrets.
-- **The Council of Hárárs:** An irregular gathering where the Varokh tribes attempt to resolve disputes and coordinate against external threats—rarely successful, but always dramatic.
+- **The Common Council:** An irregular gathering where the Varokh tribes attempt to resolve disputes and coordinate against external threats—rarely successful, but always dramatic.
 
 ## See Also
 
