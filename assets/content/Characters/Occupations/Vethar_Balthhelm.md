@@ -13,7 +13,7 @@ data:
   lore: []
   culture: varokhiclt
   homes: [waldburg]
-  affiliations: {vrystwldtrbs: {}}
+  affiliations: {vrystwldtrbs: {rank: 3}}
   gender: male
   species: humanflk
   born: 664.336
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 15}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 13}}
-    - {model: affiliation-solrun}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 70}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 70}}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 13}}

@@ -1,6 +1,6 @@
 ---
 shortcode: thldrdrthgr
-name: {full: Thaldrá Druthgar, aliases: ["Thalia Hart"]}
+name: {full: Thaldrá Druthgar, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -13,7 +13,7 @@ data:
   lore: []
   culture: varokhiclt
   homes: [thornhaven]
-  affiliations: {vrystwldtrbs: {}}
+  affiliations: {vrystwldtrbs: {rank: 3}}
   gender: female
   species: humanflk
   born: 697.93
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 11}}
-    - {model: affiliation-thrunvald}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 36}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 11}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 11}}
@@ -402,7 +401,7 @@ Thaldrá Druthgar is a 27-year-old woman who stands 5'10" tall and is of moderat
 
 Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Thaldrá Druthgar came into the world of the common seaman through a combination of circumstance and aptitude.
 
-Known as "Thorn" for her sharp wit and tenacity, Thalia is a fierce seaman who has proven herself in a male-dominated profession. She is skilled in rigging and often takes on the role of lookout during voyages. Thalia is determined to earn her place among the crew and dreams of one day captaining her own ship. She has a reputation for being tough and resilient, admired by her peers.
+Known as "Thorn" for her sharp wit and tenacity, Thaldrá is a fierce seaman who has proven herself in a male-dominated profession. She is skilled in rigging and often takes on the role of lookout during voyages. Thaldrá is determined to earn her place among the crew and dreams of one day captaining her own ship. She has a reputation for being tough and resilient, admired by her peers.
 
 Now at 27 years of age, Thaldrá Druthgar has established herself as a known figure among the common seamans of Vrystwald. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
