@@ -662,6 +662,34 @@
             "boldKind": "none"
         },
         {
+            "oldName": "The Horn of Njördur",
+            "oldAliases": null,
+            "oldPath": "assets/content/Regions/Ankaris/Nordlands/The_Horn_of_Njordur.md",
+            "oldShortcode": "hornnjordur",
+            "oldAddress": "miscgear-hornnjordur",
+            "oldImage": null,
+            "newName": "The Horn of Njörvar",
+            "newAliases": null,
+            "newPath": "assets/content/Regions/Ankaris/Nordlands/The_Horn_of_Njordur.md",
+            "newShortcode": "hornnjordur",
+            "newAddress": "miscgear-hornnjordur",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "miscgear",
+            "subType": "regalia",
+            "description": null,
+            "note": "the horn is named for the sea-power it was taken from, so it follows that name: the Sea-Ward is Njörvar, and the horn is his. The note's shortcode and address are unaffected, and both halves state so.",
+            "prose": null,
+            "oldRefPaths": [
+                "6e137b8c0:assets/content/Adventures/Groas_Campaign.md:42:116",
+                "6e137b8c0:assets/content/Bestiary/Mythic/Njorven.md:99:117",
+                "6e137b8c0:assets/content/Regions/Ankaris/Nordlands/The_Crown_of_the_Wyrm.md:34:26",
+                "6e137b8c0:assets/content/Regions/Ankaris/Nordlands/The_Horn_of_Njordur.md:3:14"
+            ],
+            "boldKind": "bare"
+        },
+        {
             "oldName": "Yggdrasil",
             "oldAliases": null,
             "oldPath": null,
