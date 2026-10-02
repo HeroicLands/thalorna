@@ -318,8 +318,15 @@ TBD.
 
 **Voice:** An informed account of a living institution, with attributed member and outsider views where they disagree. State its purpose, membership, seat, reach, governance, offices, resources, allies, and opponents. Then show how a person encounters its authority: a hearing, initiation, levy, petition, market bargain, or rite. For polities and governmental bodies, explain who actually decides and enforces; for faith and magical traditions, show practice as well as doctrine; for guilds, lineages, ventures, fellowships, orders, and criminal groups, show what membership asks and gives. Goals, motives, and conflicts make the organization useful for play.
 
-Affiliation Template
-====================
+**A rung states `level`, `title` and `description`, and that is a complete
+statement.** `lore` is the one optional key: it addresses a `subType: law` note
+under `Lore/Ranks/` for a standing that needs more said about it than a rung's
+`description` can hold — a long account of obligations, privileges and how the
+standing is gained and lost. Omit it otherwise. Most standings need no note, and
+a note whose only content restates its rung or lists the bodies that confer it
+should not exist.
+
+#### Affiliation template
 
 ```
 ---
@@ -344,8 +351,9 @@ data:
       - level: 1
         title: "" # ex: resident
         description: "" # description of the rank
+        lore: "" # optional; omit unless the standing needs its own note
     offices: {}
-  seat: "" # shortcode of capital settlement of the affiliation
+  seat: null # shortcode of the affiliation's capital settlement; `null` where it has none or none is known, never ""
   domains: [] # shortcode of the place region where the affiliation holds influence
   population: 0 # population of the affiliation
   economy: []
@@ -437,6 +445,35 @@ TBD.
 - **Material, bestiary:** Describe physical properties, habitat or sources, uses, and regional variation. A craftsperson, hunter, or naturalist can illuminate them.
 - **Folk, culture, custom, gathering:** Let people demonstrate a practice, story, or gathering while explaining who participates, what it means, and how it varies. A single speaker does not stand for everyone.
 
+#### Lore template
+
+A lore note carries almost no data: what it is lives in its prose. The sections differ
+by subtype — a rank states what the standing is and what it asks, a bestiary note
+states habitat and use, a culture note states how its people live — so take the
+sections the subject needs rather than a fixed list, and close on `## See Also`.
+
+```
+---
+shortcode: ""
+name: {full: "", aliases: []}
+type: lore
+subType: "" # see the subtypes above
+description: "" # short description of what this note holds
+tags: [draft]
+data:
+  banner: "" # optional; the banner image shortcode
+  packFolder: ""  # must be specified
+---
+
+## Overview
+
+<description>
+
+## See Also
+
+TBD.
+```
+
 ### map
 
 **Voice:** Cartographic and navigational. State what the map depicts, its scale or limits, how to orient it, and what its symbols and marked sites mean. The manual treats maps as a way to locate resources, routes, borders, settlements, and story possibilities. Use map pins or a short traveler's observation to direct attention to meaningful features; do not make readers decipher a tale to find an entrance or distance.
@@ -450,8 +487,7 @@ TBD.
 - **Settlement:** Show arrival, street or village life, livelihoods, authority, services, local tensions, and connections to its hinterland. Interpret yields, market size, and population through what people produce and need.
 - **Site, structure, and feature:** Give a clear location and physical description, purpose or origin, present use, access, and relevant dangers or beliefs. A local custodian or traveler may supply a revealing account.
 
-Settlement Template
-===================
+#### Settlement template
 
 ```
 ---
@@ -478,8 +514,7 @@ data:
 TBD.
 ```
 
-REGION TEMPLATE
-===============
+#### Region template
 
 ```
 ---
@@ -504,6 +539,38 @@ data:
 ## Character
 
 <a sentence or two about what the region geography and biome is like>
+
+## See Also
+
+TBD.
+```
+
+#### Site, structure and feature template
+
+A site, a structure and a feature carry the same frontmatter and differ only in what
+they are: a site is a place something happened or is done, a structure is a built
+thing, a feature is a thing of the land. The body takes whatever sections the subject
+needs — these notes have no fixed shape beyond closing on `## See Also`.
+
+```
+---
+shortcode: ""
+name: {full: "", aliases: []}
+type: place
+subType: "" # site, structure, or feature
+description: "" # short description of the place
+tags: [draft]
+data:
+  demonym: null # specify if able
+  lore: []
+  parents: [] # shortcode of the place or polity this one sits within
+  population: 0 # 0 where nobody lives there, which is usual
+  packFolder: ""  # must be specified
+---
+
+## Overview
+
+<description>
 
 ## See Also
 
