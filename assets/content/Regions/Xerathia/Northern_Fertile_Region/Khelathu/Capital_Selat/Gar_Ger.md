@@ -4,8 +4,20 @@ name: {full: Gar-Ger, aliases: []}
 type: place
 subType: settlement
 description: "A hinterland village of the Capital Selat"
-tags: [generated]
-data: {packFolder: regkhsett, banner: khelathubnr}
+tags: [generated, draft]
+data:
+  demonym: null
+  lore: []
+  parents: [galezkaraslt]
+  population: 0
+  packFolder: regkhsett
+  banner: khelathubnr
 ---
 
-A hinterland village of the Capital Selat. Its grain goes up to Galezkara and its people go with it, since a half-day's barge puts the great markets within reach of anyone with something to sell.
+## Overview
+
+Gar-Ger lies in the farm country of [[place-galezkaraslt|Galezkara Selat]], close enough to [[place-galezkara|Galezkara]] that a half-day's barge reaches the capital's markets. It lives by grain, sending its surplus upriver and its people with it whenever there is something worth selling. The city is near enough that a bad harvest here is felt the same season in Galezkara's own markets.
+
+## See Also
+
+TBD.

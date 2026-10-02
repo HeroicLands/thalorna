@@ -4,8 +4,14 @@ name: {full: Melgat, aliases: []}
 type: place
 subType: site
 description: "The turquoise camps of Zu-Zel-Iaqtet, worked in the desert hills and held by a guard-fort, with everything the camp drinks carried in by caravan"
-tags: [generated]
-data: {packFolder: regkhsite, banner: khelathubnr}
+tags: [generated, draft]
+data:
+  demonym: null
+  lore: []
+  parents: [zuzeliaqtetnome]
+  population: null
+  packFolder: regkhsite
+  banner: khelathubnr
 ---
 
-The turquoise camps of Zu-Zel-Iaqtet, worked in the desert hills and held by a guard-fort, with everything the camp drinks carried in by caravan.
+Melgat is worked in the desert hills of [[place-zuzeliaqtetnome|Zu-Zel-Iaqtet]], its turquoise camps held by a guard-fort against whatever the empty country might send against them. It lives by the stone, and everything the camp drinks is carried in by caravan rather than drawn from any source of its own. The guard-fort's purpose is as much about the caravan's safe arrival as about the turquoise it protects once it is cut.
