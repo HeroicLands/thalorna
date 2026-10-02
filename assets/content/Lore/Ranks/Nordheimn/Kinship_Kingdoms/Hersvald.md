@@ -11,7 +11,7 @@ The clan's own head, leading a district's men in war and speaking for them in pe
 
 ## What This Standing Is
 
-A hersvald is a local chieftain who leads the men of a district in war and speaks for them in peace, holding the standing by their consent rather than by any king's grant. Where a jarl answers for a province the crown has given him, a hersvald answers for a clan that chose him.
+A hersvald leads the men of a district in war and speaks for them in peace, holding the standing by their consent rather than by any king's grant. Where a jarl answers for a province the crown has given him, a hersvald answers for a clan that chose him.
 
 ## How the Law Treats a Person Here
 

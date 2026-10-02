@@ -24,13 +24,14 @@
  *
  * **One row per thing, and the sweep reads every form that row retires.** A
  * row holds the primary retired name in `oldName` and every other name the
- * thing answered to in `oldAliases`, so both fields are read. `oldAliases` also
- * holds the aliases the thing still carries, and `newAliases` is where those
- * stand now, so **a form in both fields is live and is read past**. That
+ * thing answered to in `oldAliases`, so both fields are read. `newAliases` is
+ * where a name the thing still carries stands now, so **a form `newAliases`
+ * also holds is live and is read past, whichever old field it came from**. That
  * subtraction is the whole of the rule: `oldName` plus `oldAliases` less
- * `newAliases`. Reading `oldAliases` whole instead reports a kept alias in the
- * very note that states it, and reading `oldName` alone stops sweeping every
- * form a merge folded into the aliases.
+ * `newAliases`. Reading the old fields whole instead reports a kept name in the
+ * very note that states it — which is what a thing that takes its culture's own
+ * word and keeps its former name as an alias does — and reading `oldName` alone
+ * stops sweeping every form a merge folded into the aliases.
  *
  * Two halves.
  *
@@ -41,6 +42,20 @@
  * exceptions are the heart of the rule and each is written out rather than
  * folded into one exclusion that a later hand can widen. **A wikilink's label
  * is prose and is read**, because a label is what a reader meets.
+ *
+ * **How far a form is swept is the form's own business, and the row states it.**
+ * A theonym, a place, an order, a given name or a Nordmal rank word is a name
+ * no other tongue writes by accident, and a pantheon that measures its own
+ * maker against the north's writes the north's name inside its own note, so
+ * these are swept across the whole corpus and a comparison made from anywhere
+ * is reached. A `lore`/`rank` row retires something else: the phrase in the
+ * reader's tongue that a standing or an office bore before its culture had a
+ * word of its own. `Elder`, `Guide`, `Hunter` and `Healer` are ordinary words,
+ * and hunting one through the corpus reports `Adventurer's Guide` as a Varokhi
+ * office. Those are swept in the material of the culture whose ladder they name
+ * — the scope the romanisation holds to — and read past elsewhere. The
+ * distinction is read off each row's `type` and `subType`, so no list of words
+ * is kept anywhere to drift from the table.
  *
  * **The romanisation holds.** The rule is derived from the language note's own
  * § _Romanizing Nordmal_ table: the `written` column gives the letters and the
@@ -435,13 +450,29 @@ export function romanisationFrom(text, heading) {
 /**
  * Every retired token surviving in an in-world sentence.
  *
+ * **How far a row reaches is the row's own business.** A theonym, a place, an
+ * order, a given name, a Nordmal rank word: no other tongue in the setting
+ * writes any of them by accident, and a pantheon that compares its own maker to
+ * the north's writes the north's name in its own note, so these are swept
+ * across the whole corpus and a comparison made from anywhere is reached. The
+ * English phrase a standing or an office bore before its culture had a word of
+ * its own is the other case: `Elder`, `Guide`, `Hunter`, `Healer` are ordinary
+ * words of the reader's tongue, and a sweep for one across the corpus reports
+ * the word in `Adventurer's Guide` as a Varokhi office. Those are swept in the
+ * material of the culture whose ladder they name and read past elsewhere, which
+ * is the same scope the romanisation holds to.
+ *
+ * `pair.scoped` carries that decision, derived in {@link main} from the row's
+ * own `type` and `subType`, so nothing here is held to a second list of words.
+ *
  * @param {object[]} pairs - The drift rows.
  * @param {object[]} keep - The keep-list.
  * @param {Array<{file: string, raw: string}>} files - The files to read.
+ * @param {Set<string>} scoped - The paths that are Nordmal or Varokhi material.
  * @param {object} tally - Where counts are collected.
  * @returns {string[]} Findings.
  */
-export function checkDrift(pairs, keep, files, tally) {
+export function checkDrift(pairs, keep, files, scoped, tally) {
     const out = [];
     const keepPatterns = keep.map((entry) => ({
         ...entry,
@@ -458,6 +489,7 @@ export function checkDrift(pairs, keep, files, tally) {
 
     for (const { file, raw } of files) {
         const text = inWorld(raw);
+        const ownTongue = scoped.has(file);
         /** @type {Array<[number, number]>} Spans a keep-list word or an earlier row has taken. */
         const taken = [];
         const overlaps = (from, to) => taken.some(([a, b]) => from < b && to > a);
@@ -472,6 +504,7 @@ export function checkDrift(pairs, keep, files, tally) {
         }
 
         for (const pair of patterns) {
+            if (pair.scoped && !ownTongue) continue;
             pair.rx.lastIndex = 0;
             let match;
             while ((match = pair.rx.exec(text)) !== null) {
@@ -644,21 +677,24 @@ function asList(value) {
  * because a form folded into the aliases is a form the corpus must no longer
  * write.
  *
- * **Less whatever `newAliases` holds.** `oldAliases` begins as a copy of the
- * note's own aliases and grows as synonyms are found, so it carries the live
- * ones beside the retired ones; `newAliases` is where a live alias stands now.
- * A form in both fields is therefore one the thing still answers to, and
- * sweeping it reports it in the very note that states it.
+ * **Less whatever `newAliases` holds, and that reaches `oldName` too.**
+ * `oldAliases` begins as a copy of the note's own aliases and grows as synonyms
+ * are found, so it carries the live ones beside the retired ones; `newAliases`
+ * is where a live alias stands now. A form in either old field that `newAliases`
+ * also holds is one the thing still answers to, and sweeping it reports it in
+ * the very note that states it. A thing that takes its culture's own word and
+ * keeps its former name as an alias, so the phrase a reader knows it by still
+ * finds it, is exactly that case: the former name is where it belongs and is
+ * not a survivor.
  *
  * @param {object} entry - The concordance row.
  * @returns {string[]} The forms, the primary first.
  */
 export function retiredForms(entry) {
     const kept = new Set(asList(entry.newAliases));
-    return [
-        ...(entry.oldName ? [String(entry.oldName)] : []),
-        ...asList(entry.oldAliases).filter((alias) => !kept.has(alias)),
-    ];
+    return [...(entry.oldName ? [String(entry.oldName)] : []), ...asList(entry.oldAliases)].filter(
+        (form) => !kept.has(form),
+    );
 }
 
 /**
@@ -744,12 +780,17 @@ function main() {
     // {@link retiredForms}. `subType` names the kind of thing a finding reports
     // — deity, rank, order — and `type` is the fallback where a row states no
     // subType. `newName: null` is `drop`: retired with nothing to replace it.
+    //
+    // A `lore`/`rank` row retires the English phrase a standing or an office
+    // bore before its culture had a word of its own, so it is swept where that
+    // culture is written and read past elsewhere; see {@link checkDrift}.
     const pairs = (table.entries ?? []).flatMap((entry) =>
         retiredForms(entry).map((form) => ({
             retired: form,
             replacement: entry.newName,
             drop: entry.newName === null || entry.newName === undefined,
             group: entry.subType ?? entry.type,
+            scoped: entry.type === "lore" && entry.subType === "rank",
             note: entry.note,
             path: entry.oldPath ?? null,
         })),
@@ -776,9 +817,10 @@ function main() {
         romanisation: new Map(),
     };
 
+    const scopedPaths = new Set(scoped.map(({ file }) => file));
     const out = [
         ...checkMapping(pairs),
-        ...checkDrift(pairs, table.keep ?? [], files, tally),
+        ...checkDrift(pairs, table.keep ?? [], files, scopedPaths, tally),
         ...checkRomanisation(table.romanisation, rule, scoped, tally),
     ];
     for (const line of out) console.error(line);
@@ -790,8 +832,11 @@ function main() {
             .map(([key, n]) => `${key}=${n}`)
             .join("  ");
 
+    const ownTongueOnly = pairs.filter((pair) => pair.scoped).length;
     say(
-        `${pairs.length} retired name(s) in the table; ${files.length} file(s) swept, ${scoped.length} of them Nordmal or Varokhi.`,
+        `${pairs.length} retired name(s) in the table. ` +
+            `${pairs.length - ownTongueOnly} name(s) no other tongue writes, swept across all ${files.length} file(s); ` +
+            `${ownTongueOnly} standing's or office's phrase(s) in the reader's tongue, swept in the ${scoped.length} file(s) of Nordmal and Varokhi material, which is also where the romanisation is read.`,
     );
     say(
         `The romanisation is read off ${table.romanisation.note}: ` +

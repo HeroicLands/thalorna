@@ -1,6 +1,6 @@
 ---
-shortcode: ofthebandrnk
-name: {full: "Of the Band", aliases: []}
+shortcode: grimmundrnk
+name: {full: "Grimmund", aliases: ["Of the Band"]}
 type: lore
 subType: law
 description: "One of the six who follow Dágulf Véthar, held by fear of the leader and the absence of better options, in the Blackpine Wolves."
@@ -27,7 +27,7 @@ He follows Dágulf's word, since no formal hierarchy exists to appeal to or to s
 
 ## Offices Open at This Standing
 
-None. Every member also holds [[lore-kinlessrnk|Kinless]] in the Vrystwald Tribes around the band, full membership here being exclusion from the tribes at once.
+None. Every member also holds [[lore-vrystrithrnk|Vrystrith]] in the Vrystwald Tribes around the band, full membership here being exclusion from the tribes at once.
 
 ## Where This Standing Is Held
 

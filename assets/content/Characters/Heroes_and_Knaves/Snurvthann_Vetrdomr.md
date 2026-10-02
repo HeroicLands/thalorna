@@ -470,7 +470,7 @@ Snurvthann seeks to maintain the highest standards of his craft, so that knowled
 ### Patrons
 
 - **The Farmer's Collective of Malagna's Outer Reaches**: Agricultural families throughout the region contract Snurvthann for roof work, often waiting months for his availability. They consider his work worth the wait and the expense, trusting him implicitly with their family's primary shelter.
-- **Dún Ragnarsson, Local Chieftain**: The regional leader maintains Snurvthann on semi-retainer, so that the chieftain's hall and outlying buildings receive maintenance from the finest craftsperson available. This provides Snurvthann with steady work and prestige.
+- **Dún Ragnarsson, Local Hersvald**: The district leader maintains Snurvthann on semi-retainer, so that the Hersvald's hall and outlying buildings receive maintenance from the finest craftsperson available. This provides Snurvthann with steady work and prestige.
 - **The Temple of Mótefnir**: The local priesthood of Snurvthann's god regularly contract his services for the temple's complex roofing requirements, viewing the maintenance of the sacred structure's integrity as highly important.
 - **Wealthy Merchants Traveling to the Capital**: Successful traders investing in secondary residences or trading posts throughout Malagna sometimes locate them near Snurvthann's region specifically to access his reputation for superior craftsmanship.
 

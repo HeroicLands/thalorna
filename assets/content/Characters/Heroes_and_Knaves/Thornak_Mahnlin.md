@@ -447,7 +447,7 @@ As Thornak grew, under the guidance of the tribe’s elder warrior, **Gurnulf Hr
 
 In battle, Thornak could enter a berserker state, driven by the spirit of the boar, becoming a nearly unstoppable force of nature. His war club, carved from a boar’s skull and reinforced with iron, became both a symbol of his dedication to his totem and a tool of destruction in his hands.
 
-Thornak is ambitious, desiring to lead the clan himself some day. This ambition is shared with the tribe's shaman, **Sigulf the Crowcaller**, who sees Thornak as an obstruction to his own leadership. Thornak is well respected within his tribe, and Sigulf is less so, but Sigulf can commune with the spirit world engendering fear and awe, if not respect, among the tribe.
+Thornak holds the standing of [[lore-hrodthulrnk|Hródthúl]], Respected, among the Vrystwald Tribes: the band he leads at Eichengrund under the boar totem is one of the three kinds the standing gathers, and a hunting band's leader is exactly who a village's War Chief is eventually raised from. Thornak is ambitious, desiring to lead the clan himself some day. This ambition is shared with the tribe's shaman, **Sigulf the Crowcaller**, who sees Thornak as an obstruction to his own leadership. Thornak is well respected within his tribe, and Sigulf is less so, but Sigulf can commune with the spirit world engendering fear and awe, if not respect, among the tribe.
 
 ### Current Challenges
 
