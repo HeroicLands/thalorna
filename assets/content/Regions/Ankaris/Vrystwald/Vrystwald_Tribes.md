@@ -67,14 +67,14 @@ data:
   economy: [affiliation-clgmrgntrrm, lore-bartercnmy, lore-kinhalcrdt, lore-vylrncrncy]
   lore: [humanflk]
   parents: []
-  relations: {asguardian: aligned, kngdmnrdhm: rival, vylarinmpr: rival}
+  relations: {asguardian: unaligned, kngdmnrdhm: rival, vylarinmpr: nemesis}
   packFolder: vrystwald
 sohl: {system: {commonSkills: [varokhlng]}}
 ---
 
 ## Overview
 
-The Vrystwald Tribes are a collection of Varokh barbarian clans and tribal groups that inhabit the vast primeval forests between the Nordmen kingdoms to the north and the [[affiliation-vylarinmpr|Vylarian Empire]] to the south. They are not a unified polity in any meaningful sense—the tribes fight among themselves as often as they raid their neighbors—but they share a common language, common gods, and a fierce commitment to their ancestral forests.
+The Vrystwald Tribes are a collection of Varokh clans and tribal groups that inhabit the vast primeval forests between the Nordmen kingdoms to the north and the [[affiliation-vylarinmpr|Vylarian Empire]] to the south. They are not a unified polity in any meaningful sense—the tribes fight among themselves as often as they raid their neighbors—but they share a common language, common gods, and a fierce commitment to their ancestral forests.
 
 ## Government
 
@@ -97,5 +97,5 @@ Vrystwald Tribes uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo / 
 - [[place-vrystwald|Vrystwald]]—Regional overview
 - [[affiliation-vylarinmpr|Vylarian Empire]]—Southern enemy
 - [[affiliation-provncmktr|Province of Moktur]]—Frontier neighbor
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]—Distant cultural cousins
+- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]—Kin by blood, not by liking
 - [[affiliation-asguardian|Asguardian Pantheon]]—Pantheon

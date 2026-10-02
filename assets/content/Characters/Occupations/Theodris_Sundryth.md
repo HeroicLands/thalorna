@@ -13,7 +13,7 @@ data:
   lore: []
   culture: varokhiclt
   homes: [grimholt]
-  affiliations: {vrystwldtrbs: {}}
+  affiliations: {vrystwldtrbs: {rank: 3}}
   gender: female
   species: humanflk
   born: 691.64
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 16}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 15}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 17}}
-    - {model: affiliation-nahild}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 22}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 11}}
     - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 11}}
