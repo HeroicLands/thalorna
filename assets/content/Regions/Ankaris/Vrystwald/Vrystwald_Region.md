@@ -245,7 +245,7 @@ Of the [[affiliation-vylarinmpr|Vylarian Empire]] the Varokh know little. Vylari
 
 - **The Deepwood:** The heartland of Vrystwald, a forest so ancient and dense that sunlight barely reaches the floor. Home to the most traditional Varokh clans and reputed to be filled with supernatural beings.
 - **The Vylarian Ruins:** Crumbling forts, roads, and settlements from the high-imperial Vylarian eastern reach, now overgrown and reclaimed by the southwestern forest. Some are believed to hold buried treasures or ancient secrets.
-- **The Council of Chieftains:** An irregular gathering where the Varokh tribes attempt to resolve disputes and coordinate against external threats—rarely successful, but always dramatic.
+- **The Council of Hárárs:** An irregular gathering where the Varokh tribes attempt to resolve disputes and coordinate against external threats—rarely successful, but always dramatic.
 
 ## See Also
 
