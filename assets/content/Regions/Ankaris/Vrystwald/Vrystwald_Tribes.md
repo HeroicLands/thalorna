@@ -34,20 +34,22 @@ data:
         description: >-
           Of a kindred's blood by a true name earned at eth-kethrun, entitled to its protection, its feud and its share; the man's voice at the moot and the woman's hand on the household are one standing.
       - level: 4
+        title: Hródthúl
+        lore: hrodthulrnk
+        description: >-
+          Bears a charge on the renown a deed has already won, assisting the village's three elders in everyday duties; the apprentice who will succeed a Shaman, the hunting-band leader who may yet be raised to War Chief, and the other help a seat's work requires.
+      - level: 5
         title: Fródrád
         lore: frodradrnk
         description: >-
-          Senior of a lineage, or a wise-woman keeping the herb-lore and the feud-cords, whose memory of custom settles what the young cannot settle themselves in a people with no written record to consult instead.
-      - level: 5
-        title: Hárár
-        lore: hararrnk
-        description: >-
-          Leads a clan or tribe on personal prowess, wisdom and the warriors' continued support rather than on descent, and can be set aside by the same moot that raised him.
+          Holds one of the three seats that govern a village together, so that the village's vote never ties: the Shaman, the War Chief or the Other Chief, each reached and lost by its own measure rather than by descent.
     offices:
       Ríkár: >-
         Presiding officer of the common council, keeping its peace and the order of its speaking—a different charge from the Hárthúl's command, though one man may hold both.
       Hárthúl: >-
         Temporary command over several tribes, raised only when every tribe lays its fragment of the Sundered Talisman together, and dissolving the moment the crisis that called it passes.
+      Theódár: >-
+        Answers for the village in everything that is neither war nor the spirit's business—custom held in common and arbitrated where two tribes' differ, as Dómrád, and blood owed and paid between kindreds, as Skathár.
       Dómrád: >-
         Keeper of the customs the tribes hold in common, and arbiter where two tribes' customs differ.
       Hildskald: Summoner of the common muster when a threat concerns every tribe.

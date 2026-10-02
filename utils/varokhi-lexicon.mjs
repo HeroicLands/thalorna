@@ -43,6 +43,10 @@
  * what says which aliases those are: an alias no row records is judged like any
  * other name, and reports off-lexicon when it does not fit. Every one read past
  * is printed, because a filter nobody can see is a filter nobody can check.
+ * A row created outright, `oldName: null`, retired nothing, so its own
+ * `newAliases` is read past the same way: it is the reader's-tongue gloss the
+ * thing was coined with rather than a kept former name, and neither is a
+ * Varokhi form the lexicon has jurisdiction over.
  *
  * **The gender a name is given to.** A being's note states the gender, and the
  * closing states it too, so the two are compared: a man's name closing the way a
@@ -726,6 +730,12 @@ export function positionOf(raw, literal, from = 0) {
  * to hold. Where it is absent every alias is judged, which is the stricter
  * reading.
  *
+ * **A row created outright carries no former name to keep**, so its
+ * `newAliases` is read the same way instead: `oldName: null` is the table's
+ * own mark for a thing that retired nothing, and the alias standing against it
+ * is the reader's-tongue gloss the thing was coined with, never a claim to be
+ * Varokhi.
+ *
  * @returns {Set<string>} The forms, trimmed as a note writes them.
  */
 export function formerNames() {
@@ -737,7 +747,9 @@ export function formerNames() {
         : value == null ? []
         : [String(value)];
     for (const entry of table.entries ?? []) {
-        for (const form of [...asList(entry.oldName), ...asList(entry.oldAliases)]) {
+        const forms = [...asList(entry.oldName), ...asList(entry.oldAliases)];
+        if (entry.oldName === null) forms.push(...asList(entry.newAliases));
+        for (const form of forms) {
             const word = form.trim();
             if (word) out.add(word);
         }

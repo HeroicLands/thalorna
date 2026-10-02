@@ -6722,32 +6722,6 @@
             "kinds": []
         },
         {
-            "oldName": "Chieftain",
-            "oldAliases": null,
-            "oldPath": "assets/content/Lore/Ranks/Varokhi/Vrystwald_Tribes/Chieftain.md",
-            "oldShortcode": "chieftainrnk",
-            "oldAddress": "lore-chieftainrnk",
-            "oldImage": null,
-            "newName": "Hárár",
-            "newAliases": ["Chieftain"],
-            "newPath": "assets/content/Lore/Ranks/Varokhi/Vrystwald_Tribes/Harar.md",
-            "newShortcode": "hararrnk",
-            "newAddress": "lore-hararrnk",
-            "newImage": null,
-            "newHome": null,
-            "newTags": null,
-            "type": "lore",
-            "subType": "rank",
-            "description": "Head of a clan or tribe by prowess, wisdom and the warriors' support, and not by descent, in the Vrystwald Tribes.",
-            "note": "_hár-_ (a war-host) + `-ár` (the one who answers for a thing) — answers for the war-host before the moot that raised him.",
-            "prose": "Level 5 of the Vrystwald Tribes: head of a clan or tribe by prowess, wisdom and the warriors' support, and not by descent.",
-            "oldRefPaths": [
-                "b7a3cbe7c:assets/content/Lore/Ranks/Varokhi/Vrystwald_Tribes/Chieftain.md:3:15"
-            ],
-            "boldKind": "none",
-            "kinds": []
-        },
-        {
             "oldName": "Kinless",
             "oldAliases": null,
             "oldPath": "assets/content/Lore/Ranks/Varokhi/Vrystwald_Tribes/Kinless.md",
@@ -6801,7 +6775,7 @@
         },
         {
             "oldName": "Elder",
-            "oldAliases": null,
+            "oldAliases": ["Chieftain"],
             "oldPath": "assets/content/Lore/Ranks/Varokhi/Vrystwald_Tribes/Lineage_Elder.md",
             "oldShortcode": "lineageeldrrnk",
             "oldAddress": "lore-lineageeldrrnk",
@@ -6816,12 +6790,37 @@
             "newTags": null,
             "type": "lore",
             "subType": "rank",
-            "description": "Senior of a lineage, whose memory of custom and precedent settles what the young dispute, in the Vrystwald Tribes.",
-            "note": "_fród-_ (wise, seasoned by years) + `-rád` (the one who counsels on a thing) — the wise one whose counsel settles what the young cannot.",
-            "prose": "Level 4 of the Vrystwald Tribes: senior of a lineage, whose memory of custom and precedent settles what the young dispute.",
+            "description": "Holds one of the three seats that govern a village together, so that the village's vote never ties, in the Vrystwald Tribes.",
+            "note": "_fród-_ (wise, seasoned by years) + `-rád` (the one who counsels on a thing) — the wise one who sits in one of the village's three seats.",
+            "prose": "Level 5 of the Vrystwald Tribes: holds one of the three seats that govern a village together, so that the village's vote never ties.",
             "oldRefPaths": [
-                "b7a3cbe7c:assets/content/Lore/Ranks/Varokhi/Vrystwald_Tribes/Lineage_Elder.md:3:15"
+                "b7a3cbe7c:assets/content/Lore/Ranks/Varokhi/Vrystwald_Tribes/Lineage_Elder.md:3:15",
+                "b7a3cbe7c:assets/content/Lore/Ranks/Varokhi/Vrystwald_Tribes/Chieftain.md:3:15"
             ],
+            "boldKind": "none",
+            "kinds": []
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Hródthúl",
+            "newAliases": ["Respected"],
+            "newPath": "assets/content/Lore/Ranks/Varokhi/Vrystwald_Tribes/Hrodthul.md",
+            "newShortcode": "hrodthulrnk",
+            "newAddress": "lore-hrodthulrnk",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "rank",
+            "description": "Bears a charge on the renown a deed has already won, assisting the elders in everyday duties, in the Vrystwald Tribes.",
+            "note": "_hród-_ (renown) + `-thúl` (one who endures and bears a charge) — the one who bears a charge on their renown.",
+            "prose": "Level 4 of the Vrystwald Tribes: bears a charge on the renown a deed has already won, assisting the elders in everyday duties.",
+            "oldRefPaths": [],
             "boldKind": "none",
             "kinds": []
         },

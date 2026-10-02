@@ -27,13 +27,13 @@ A Varokh man is formidable, proud and disinclined to explain himself. He fights 
 
 A Varokh woman is a merchant with capital, a fortune in furs moving under her name, and the whole domestic economy in her hand. She negotiates with foreign traders directly and is not accompanied, and Vylarian factors who arrive expecting to deal with her husband are corrected once.
 
-[[lore-hararrnk|Hárár]]s lead confederations by consensus and martial reputation and not by descent. The tribes war among themselves constantly and combine against an outsider with a speed that has broken more than one Vylarian legion—and the legions never quite believe it until it happens, because a people that disunited is not supposed to be able to do that.
+[[lore-frodradrnk|War Chiefs]] lead confederations by consensus and martial reputation and not by descent. The tribes war among themselves constantly and combine against an outsider with a speed that has broken more than one Vylarian legion—and the legions never quite believe it until it happens, because a people that disunited is not supposed to be able to do that.
 
 ## The Forest Is the Temple
 
 Religious practice is syncretic and nobody minds. The northern tribes name gods recognizable from the Asguardian Twelve; the southern tribes, after centuries of Vylarian contact, have taken up parts of the Aurèldían pantheon, and Karnavos of the wilderness and primal chaos above all, whose domains suit Varokh sensibilities exactly.
 
-Underneath whichever names are in use runs the thing that actually matters: a deep animistic reverence for the forest itself. Sacred groves are the temples, the oldest trees are held to house powerful spirits and are addressed as such, and druids and wise-women lead the rites at the turning of the seasons and mediate with the spirit world on an authority independent of any chieftain's.
+Underneath whichever names are in use runs the thing that actually matters: a deep animistic reverence for the forest itself. Sacred groves are the temples, the oldest trees are held to house powerful spirits and are addressed as such, and druids and wise-women lead the rites at the turning of the seasons and mediate with the spirit world on an authority independent of either chief's.
 
 A Varokh will adopt a foreign god without difficulty and will not adopt a foreign attitude to the forest. The first is a name; the second would be a change of substance.
 
@@ -60,7 +60,7 @@ Both will say last, and mean it, that a person owes the forest the courtesy of n
 ## See Also
 
 - [[place-vrystwald|Vrystwald Region]]—the taiga, the rivers and the villages
-- [[affiliation-vrystwldtrbs|Vrystwald Tribes]]—the confederations and their chieftains
+- [[affiliation-vrystwldtrbs|Vrystwald Tribes]]—the confederations and the triads that govern their villages
 - [[skill-varokhlng|Varokhi]]—the unwritten tongue
 - [[affiliation-asguardian|Asguardian Pantheon]]—the gods the northern tribes name
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—and the ones the southern tribes took up

@@ -57,7 +57,7 @@ data:
       Queen: >-
         The king's wife, keeper of the hall's keys and mistress of its household and stores, and herself a Hringberi or higher by the marriage.
       Jarl: Holding a named province of the king, commanding its levies and answering for its dues.
-      Hersvald: Chieftain of a named district, leading its men to the muster and speaking for them at the ting.
+      Hersvald: Answers for a named district, leading its men to the muster and speaking for them at the ting.
       Lawspeaker: Keeper of the law in memory, who recites it at the assembly and declares what it is.
       Hirdstjóri: The king's marshal, commander of his household men and master of the muster.
       Búvördr: >-
