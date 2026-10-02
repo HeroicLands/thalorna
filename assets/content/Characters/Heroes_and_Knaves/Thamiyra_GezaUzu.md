@@ -11,7 +11,7 @@ data:
   archetypes: [courtier]
   occupation: Courtesan
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: khelathiclt
   homes: [garanlaghet]
   affiliations: [empireakhlth]

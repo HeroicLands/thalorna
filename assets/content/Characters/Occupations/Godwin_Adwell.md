@@ -10,7 +10,7 @@ data:
   archetypes: [woodsman]
   occupation: Herder
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: aelwythanclt
   homes: [caerwynd]
   affiliations: [kngdmldrth]

@@ -18,32 +18,26 @@ data:
     ranks:
       - level: 0
         title: Revoked Seal
-        lore: expelledrnk
         description: >-
           Substantiated failure of sealed work means revocation of the master's seal.
       - level: 1
         title: Initiate
-        lore: initiaternk
         description: >-
           Sebau—admitted between ten and fourteen after demonstrating suitable physical strength, serving at the bellows and charcoal pit for two to three years before being permitted near the metal itself.
       - level: 2
         title: Apprentice
-        lore: apprenticernk
         description: >-
           Sba—three to seven years of training under a single master, in forge management, basic shapes and the disciplines of copper and bronze.
       - level: 3
         title: Journeyman
-        lore: journeymanrnk
         description: >-
           Hemty—qualified by examination, permitted to work independently on civilian commissions under a master's seal.
       - level: 4
         title: Master
-        lore: masterrnk
         description: >-
           Lem-Mesnu—promoted by senior vote after a presented original work, permitted to seal weapons and armor for imperial commissions, take apprentices and sit on chapter councils.
       - level: 5
         title: Great Smith
-        lore: councillorrnk
         description: >-
           Wer-Mesnu—the most senior masters, convened as the Council of Smiths, advising the Gar-Aû's quartermasters and adjudicating guild disputes.
     offices:

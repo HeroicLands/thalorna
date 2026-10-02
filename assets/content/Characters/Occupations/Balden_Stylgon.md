@@ -10,7 +10,7 @@ data:
   archetypes: [scholar, courtier]
   occupation: Skald
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: provenzianclt
   homes: [aureliane]
   affiliations: [kngdmprvnz]

@@ -21,27 +21,22 @@ data:
     ranks:
       - level: 0
         title: Exsecratus
-        lore: excmmnctrnk
         description: >-
           Cast out—denied the rites, the temple and the burial the faith promises, which is the one sentence it can pass that outlives the body.
       - level: 1
         title: Fideles
-        lore: layfaithfulrnk
         description: >-
           The lay faithful, who keep the feasts and the observances of the god without holding office in the temple.
       - level: 2
         title: Noctaries
-        lore: initiaternk
         description: >-
           Acolytes and servants of the night, who keep the temples through the dark hours, tend the sacred lamps and prepare the sleeping chambers.
       - level: 3
         title: Oraculi
-        lore: priestrnk
         description: >-
           Ordained dream-healers and interpreters of vision, trained for years in lucid dreaming and the reading of symbols.
       - level: 4
         title: Somniatrix
-        lore: highpriestrnk
         description: >-
           High Priestess or High Priest—the title is used regardless of gender—typically an elderly visionary whose dreams have guided kingdoms.
     offices:

@@ -10,7 +10,7 @@ data:
   archetypes: [entertainer]
   occupation: Thespian
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: elavendriclt
   homes: [cerdwnshlw]
   affiliations: [kngdmlvndr]

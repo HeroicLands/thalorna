@@ -17,17 +17,14 @@ data:
     ranks:
       - level: 0
         title: Lapsed
-        lore: expelledrnk
         description: >-
           Broken with a cell. Those who join do not usually leave, and one who does is exposed on both sides at once: the irreversible act that admitted them has already destroyed any standing in the mainstream order.
       - level: 1
         title: Approached
-        lore: dependentrnk
         description: >-
           Under recruitment and not yet committed. The cult draws from the empire's cast-aside—collapsed Shükrën households, Nützōk whose classification has drifted past recovery, ruined Zhëklüng younger sons, and above all the condemned, whose ledgers admit no ritual redemption and for whom no ancestor will advocate.
       - level: 2
         title: Committed
-        lore: committedrnk
         description: >-
           Has performed the act of irreversible commitment on which recruitment deliberately culminates—a public blasphemy, a petty sabotage of a local temple, a first small act of violence—after which standing in the mainstream order cannot be recovered. There is no rank above this that anyone has ever confirmed.
     offices:

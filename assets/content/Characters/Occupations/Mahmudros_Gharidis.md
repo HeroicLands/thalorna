@@ -10,7 +10,7 @@ data:
   archetypes: [artisan]
   occupation: Hideworker
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: helioniteclt
   homes: [pelagora2]
   affiliations: [pelagora]

@@ -10,7 +10,7 @@ data:
   archetypes: [entertainer]
   occupation: Thespian
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: vylarianclt
   homes: [tyrellan]
   affiliations: [vylarinmpr]

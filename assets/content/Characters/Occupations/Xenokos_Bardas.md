@@ -10,7 +10,7 @@ data:
   archetypes: [warrior]
   occupation: Town Guard
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: vylarianclt
   homes: [vylariargn]
   affiliations: [vylarinmpr]

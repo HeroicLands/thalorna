@@ -10,7 +10,7 @@ data:
   archetypes: [artisan]
   occupation: Glassworker
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: vedyariclt
   homes: [vyalendra3]
   affiliations: [vyalendra2]

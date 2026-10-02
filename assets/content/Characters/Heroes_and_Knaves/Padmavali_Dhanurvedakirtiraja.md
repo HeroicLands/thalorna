@@ -14,7 +14,7 @@ data:
   archetypes: [artisan, scholar]
   occupation: Cartographer/Artist
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: vedyariclt
   homes: [suvarnagiri]
   affiliations: [suvrgrjnpd]

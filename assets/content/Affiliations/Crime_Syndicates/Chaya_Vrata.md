@@ -19,22 +19,18 @@ data:
     ranks:
       - level: 0
         title: Remembered
-        lore: excmmnctrnk
         description: >-
           Known by face and name to people who have reason to want the face and name. It is the one sanction the vow has and it is applied by abandonment: the line stops answering.
       - level: 1
         title: Under the Vow
-        lore: swornmemberrnk
         description: >-
           Has taken the vow and works the first of it—the misdirection, the errand nobody recalls being run, the face that will not fix in the memory.
       - level: 2
         title: Holder of the Vow
-        lore: practitionerrnk
         description: >-
           Works the waking dream on a person who is awake and unwilling, which is the whole of what the line exists to teach and what the Council of the Dream condemned it for.
       - level: 3
         title: Keeper of a Line
-        lore: masterrnk
         description: >-
           Teaches. Takes one student, or two, and does not meet the students of other lines.
     offices:

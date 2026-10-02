@@ -16,42 +16,34 @@ data:
     ranks:
       - level: 0
         title: Outcaste
-        lore: outcasternk
         description: >-
           Placed outside the tharana by transgression or by birth, excluded from the wells, the temples and the courts.
       - level: 1
         title: Bonded Servant
-        lore: bondservantrnk
         description: >-
           Bound by debt or birth to a household, owing labor and lacking the standing to hold land.
       - level: 2
         title: Karmāja
-        lore: commonerrnk
         description: >-
           Born to the serving tharana—cultivators, artisans and laborers who hold their place by work rather than by rite.
       - level: 3
         title: Dhanāja
-        lore: gentryrnk
         description: >-
           Born to the productive tharana—merchants, dyers and cloth-factors, whose houses carry the city's trade and pay for its walls.
       - level: 4
         title: Senāja
-        lore: warriorrnk
         description: >-
           Born to the warrior tharana, bearing arms by right and owing service in the city watch.
       - level: 5
         title: Ritūja
-        lore: priestrnk
         description: >-
           Born to the priestly tharana, keeper of rite and learning, without whose sanction no act of the Loom-Council is complete.
       - level: 6
         title: Loom-Master
-        lore: masterrnk
         description: >-
           A master of one of the chartered weaving guilds, holding his loom-caste's seat on the Loom-Council and the right to take apprentices in his own name.
       - level: 7
         title: Speaker of the Loom-Council
-        lore: prsdngffcrrnk
         description: >-
           The master the Council raises to put its questions and declare what it has agreed. He holds the office for a term and returns to his loom at the end of it.
     offices:

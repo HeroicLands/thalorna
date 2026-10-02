@@ -10,7 +10,7 @@ data:
   archetypes: [trader, courtier]
   occupation: Mercantyler
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: bethuanclt
   homes: [bethura]
   affiliations: [mtrrchybth]

@@ -19,27 +19,22 @@ data:
     ranks:
       - level: 0
         title: Exsecratus
-        lore: excmmnctrnk
         description: >-
           Cast out—denied the rites, the temple and the burial the faith promises, which is the one sentence it can pass that outlives the body.
       - level: 1
         title: Fideles
-        lore: layfaithfulrnk
         description: >-
           The lay faithful, who keep the feasts and the observances of the god without holding office in the temple.
       - level: 2
         title: Acolytes of Decay
-        lore: initiaternk
         description: >-
           Initiates learning the rites of the waning and the care of those who are ending.
       - level: 3
         title: Sacerdotes of Twilight
-        lore: priestrnk
         description: >-
           Ordained priests who serve as healers to the terminally ill and counselors to the bereaved.
       - level: 4
         title: Magistra Mortis
-        lore: highpriestrnk
         description: >-
           High Priestess or High Priest, typically an older priestess who has spent a lifetime at the bedsides of the dying.
     offices:

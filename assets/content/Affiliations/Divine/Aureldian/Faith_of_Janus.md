@@ -19,32 +19,26 @@ data:
     ranks:
       - level: 0
         title: Exsecratus
-        lore: excmmnctrnk
         description: >-
           Cast out—denied the rites, the temple and the burial the faith promises, which is the one sentence it can pass that outlives the body.
       - level: 1
         title: Fideles
-        lore: layfaithfulrnk
         description: >-
           The lay faithful, who keep the feasts and the observances of the god without holding office in the temple.
       - level: 2
         title: Acolytes of the Threshold
-        lore: initiaternk
         description: >-
           Initiates in training at a temple, learning the law before they may witness under it.
       - level: 3
         title: Flamines Iuris
-        lore: priestrnk
         description: >-
           Ordained priests throughout the cities, who keep local temples, witness oaths and contracts, and perform the ceremonies of blessing and condemnation.
       - level: 4
         title: Praetores Templi
-        lore: seatedelderrnk
         description: >-
           Temple Judges—fifteen or twenty seniors of the Collegium Sacerdotalis who oversee the major temples and form the priesthood's administrative body.
       - level: 5
         title: Pontifex Iuris
-        lore: highpriestrnk
         description: >-
           High Judge and keeper of cosmic law; final arbiter of doctrine, whose counsel weighs on kings and city councils across western Ankaris.
     offices:

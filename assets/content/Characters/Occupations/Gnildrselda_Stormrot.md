@@ -10,7 +10,7 @@ data:
   archetypes: [mage]
   occupation: Mage (Illusion)
   stations: []
-  lore: [landedlordrnk]
+  lore: []
   culture: nordheimnclt
   homes: [nalthmark]
   affiliations: [kngdmnrdhm]

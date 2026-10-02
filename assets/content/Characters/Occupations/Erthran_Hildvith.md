@@ -10,7 +10,7 @@ data:
   archetypes: [woodsman]
   occupation: Trapper
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: varokhiclt
   homes: [waldburg]
   affiliations: [vrystwldtrbs]

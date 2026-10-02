@@ -17,47 +17,38 @@ data:
     ranks:
       - level: 0
         title: Nützōk
-        lore: outcasternk
         description: >-
           Slaves and outcasts: the caste that is not a caste, whose members may hold no name the law recognizes.
       - level: 1
         title: Shükrën
-        lore: slavernk
         description: >-
           Merchants and usurers—wealthy, indispensable, and ranked beneath the peasantry for the offense of profiting without producing.
       - level: 2
         title: Nōkvür
-        lore: commonerrnk
         description: >-
           Peasant farmers and laborers, the base on which the celestial order rests and the caste it constrains most.
       - level: 3
         title: Zāthük
-        lore: journeymanrnk
         description: >-
           Artisans, craftsmen and common warriors—skilled hands, and the highest a commoner may ordinarily rise.
       - level: 4
         title: Tānthëi
-        lore: officerrnk
         description: >-
           Celestial Scholars: interpreters of omens and keepers of the sacred texts by which the empire reckons everything.
       - level: 5
         title: Vüshōk
-        lore: officerrnk
         description: >-
           Warrior nobility—the military commanders and administrators through whom the provinces are held.
       - level: 6
         title: Vëndük
-        lore: underbossrnk
         description: >-
           Chattel sorcerers: magical slaves bound to the Zhëklüng, ranked high in precedence and owning nothing, not even themselves.
       - level: 7
         title: Zhëklüng
-        lore: heirrnk
         description: >-
           Sons of the Dragon—the imperial family and the Warlords, in whom the celestial mandate is held to run.
       - level: 8
         title: Emperor
-        lore: sovereignrnk
         description: >-
           The Dragon himself, in whom the celestial administration and the caste order alike find their justification.
     offices:

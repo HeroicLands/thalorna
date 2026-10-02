@@ -14,43 +14,34 @@ data:
     ranks:
       - level: 0
         title: Struck from the Roll
-        lore: expelledrnk
         description: >-
           Expelled from the city's register: no charter, no protection, no standing in its courts, and every contract void.
       - level: 1
         title: Unfree
-        lore: slavernk
         description: Bound in service or debt-bondage, holding neither property nor the right to contract.
       - level: 2
         title: Resident
-        lore: commonerrnk
         description: >-
           Dwelling and laboring in the city under its protection, without its freedom or a vote in it.
       - level: 3
         title: Freeman of the City
-        lore: burgherrnk
         description: Enrolled in the city's register, entitled to trade in its markets and plead in its courts.
       - level: 4
         title: Guild Master
-        lore: masterrnk
         description: >-
           Head of a chartered trade, speaking for it before the Council and answerable for its members' conduct.
       - level: 5
         title: House Factor
-        lore: officerrnk
         description: >-
           Managing the affairs of one of the great houses—its warehouses, its ships, its correspondents abroad.
       - level: 6
         title: House Head
-        lore: councillorrnk
         description: Master of a merchant house, its capital and its name, and an elector of the Council.
       - level: 7
         title: Councillor
-        lore: councillorrnk
         description: Sitting on the Council that governs the city, by weight of the house behind him.
       - level: 8
         title: First of the Council
-        lore: prsdngffcrrnk
         description: Presiding over the Council for a term, and holding the city's seal while he does.
     offices:
       First of the Council: >-

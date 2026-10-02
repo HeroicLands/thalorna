@@ -10,7 +10,7 @@ data:
   archetypes: [trader]
   occupation: Teamster
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: byzarianclt
   homes: [chrysamar]
   affiliations: [byzarianlg]

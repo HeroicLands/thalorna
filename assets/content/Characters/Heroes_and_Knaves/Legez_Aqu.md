@@ -11,7 +11,7 @@ data:
   archetypes: [cleric, scholar]
   occupation: Priest
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: khelathiclt
   homes: [anlaghzetun]
   affiliations: [empireakhlth]

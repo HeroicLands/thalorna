@@ -17,46 +17,37 @@ data:
     ranks:
       - level: 0
         title: Outcaste
-        lore: outcasternk
         description: >-
           Placed outside the tharana by transgression or by birth, and on the plateau denied the wells before anything else is denied him.
       - level: 1
         title: Bonded Servant
-        lore: bondservantrnk
         description: >-
           Bound by debt or birth to a household, walking its herds and carrying its token, and holding neither stock nor water in his own name.
       - level: 2
         title: Karmāja
-        lore: commonerrnk
         description: >-
           Born to the serving tharana—drovers, tank-diggers, leather-workers and the herd-hands who do the year's walking for another man's cattle.
       - level: 3
         title: Dhanāja
-        lore: gentryrnk
         description: >-
           Born to the productive tharana, and on the plateau the tharana that matters: the herd-owning lineages, whose stock and whose wells are the kingdom's whole wealth.
       - level: 4
         title: Senāja
-        lore: warriorrnk
         description: >-
           Born to the warrior tharana, bearing arms by right and owing mounted service on the droveways in the moving seasons.
       - level: 5
         title: Ritūja
-        lore: priestrnk
         description: >-
           Born to the priestly tharana, keeper of rite and learning, and the one who reads the season and names the day the herds move.
       - level: 6
         title: Sāmanta
-        lore: greatlordrnk
         description: >-
           Holder of a droveway of the crown, answerable for its wells, its grazing rights and the peace kept along it.
       - level: 7
         title: Royal Kin
-        lore: heirrnk
         description: Of the Mahārāja's house by blood or marriage, eligible for the crown and its regencies.
       - level: 8
         title: Mahārāja
-        lore: sovereignrnk
         description: >-
           The king of the cattle-road, in whom the droveways and the wells are held together and whose court has no fixed roof.
     offices:

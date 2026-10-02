@@ -10,7 +10,7 @@ data:
   archetypes: [entertainer]
   occupation: Musician (Drums)
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: vylarianclt
   homes: [belekos]
   affiliations: [vylarinmpr]

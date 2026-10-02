@@ -19,27 +19,22 @@ data:
     ranks:
       - level: 0
         title: Rite-Denied
-        lore: excmmnctrnk
         description: >-
           Barred from the temple rites, and with them from the funerary rites every Khelâthi eventually requires—a sentence that reaches past the end of the life it is passed in.
       - level: 1
         title: Lay Faithful
-        lore: layfaithfulrnk
         description: >-
           Keeps the observances and brings offerings without holding office in any temple.
       - level: 2
         title: Wazu
-        lore: initiaternk
         description: >-
           "Purified One"—acolytes trained for an unusual combination of sacred and practical responsibility: the sacred texts and the prayers that guide souls, alongside an apprenticeship under master embalmers.
       - level: 3
         title: Lem'Nelgir
-        lore: priestrnk
         description: >-
           "Servant of the God"—ordained priests overseeing specific mortuary temples and performing the sacred rituals of embalming and funeral rites.
       - level: 4
         title: Thâz'Lekhau
-        lore: highpriestrnk
         description: >-
           "Great of Sacred Power"—High Priest of Wethûr, overseeing the mortuary temples and the mortuary industry, responsible for maintaining standards of sacred practice and for all the dead—whatever their status—receiving appropriate preparation and burial.
     offices:

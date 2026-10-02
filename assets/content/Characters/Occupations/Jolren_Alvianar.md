@@ -10,7 +10,7 @@ data:
   archetypes: [artisan]
   occupation: Mason
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: tarvenanclt
   homes: [tarvenirgn]
   affiliations: [kingdmtrvn]

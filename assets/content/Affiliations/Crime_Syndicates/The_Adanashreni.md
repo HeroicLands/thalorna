@@ -17,37 +17,30 @@ data:
     ranks:
       - level: 0
         title: Chinnasūtra
-        lore: expelledrnk
         description: >-
           The cut thread. Struck from the lineage and from the guild's protection, which in practice means the guild will surrender them to the justice of whatever crown or council chartered the line, to keep its charter clean.
       - level: 1
         title: Āshrita
-        lore: dependentrnk
         description: >-
           Sheltered by the guild without being of it—watchers, doorkeepers, the households of craftsmen, the fence's wife who keeps his book. Fed and defended, told nothing.
       - level: 2
         title: Antevāsin
-        lore: apprenticernk
         description: >-
           One who dwells near. Apprenticed to a craft-line by birth, and not permitted to take anything unsupervised until the Ácārya presents them to the Sabhā.
       - level: 3
         title: Ādānika
-        lore: journeymanrnk
         description: >-
           A taker in their own right, entered in the guild register, bound by the taboos and entitled to the guild's advocate before a crown's or a council's magistrate.
       - level: 4
         title: Ácārya
-        lore: masterrnk
         description: >-
           Master of a craft-line, who teaches it, vouches for its members and answers to the Sabhā for every taking they perform.
       - level: 5
         title: Sthavira
-        lore: seatedelderrnk
         description: >-
           An elder seated on the Sabhā, who judges disputes between craft-lines, rules on improper takings and orders restoration.
       - level: 6
         title: Shreshthin
-        lore: grandmasterrnk
         description: >-
           The guild-chief under one polity's charter—carrying, deliberately, the same title a great banker carries, and holding it for life or until the Sabhā unmakes them.
     offices:

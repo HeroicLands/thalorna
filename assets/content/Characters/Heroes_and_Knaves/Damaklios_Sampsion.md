@@ -10,7 +10,7 @@ data:
   archetypes: [artisan, scholar]
   occupation: Cartographer/Artist
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: byzarianclt
   homes: [karatas2]
   affiliations: [byzarianlg]

@@ -10,7 +10,7 @@ data:
   archetypes: [artisan]
   occupation: Tentmaker
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: varokhiclt
   homes: [grimholt]
   affiliations: [vrystwldtrbs]

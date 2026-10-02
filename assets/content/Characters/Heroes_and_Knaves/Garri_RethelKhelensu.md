@@ -11,7 +11,7 @@ data:
   archetypes: [scholar]
   occupation: Scholar
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: khelathiclt
   homes: [galezkara]
   affiliations: [empireakhlth]

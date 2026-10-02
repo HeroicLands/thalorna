@@ -19,27 +19,22 @@ data:
     ranks:
       - level: 0
         title: Exsecratus
-        lore: excmmnctrnk
         description: >-
           Cast out—denied the rites, the temple and the burial the faith promises, which is the one sentence it can pass that outlives the body.
       - level: 1
         title: Fideles
-        lore: layfaithfulrnk
         description: >-
           The lay faithful, who keep the feasts and the observances of the god without holding office in the temple.
       - level: 2
         title: Acolytes
-        lore: initiaternk
         description: >-
           Younger devotees in training, not yet ordained, who study the theology of prosperity and often serve as scribes and administrators.
       - level: 3
         title: Priestesses of the Temple
-        lore: priestrnk
         description: >-
           Ordained clergy who manage daily worship, keep the sacred spaces and counsel those seeking the goddess's favor.
       - level: 4
         title: High Priestess of a Temple
-        lore: highpriestrnk
         description: >-
           Each major city's temple is governed by its own High Priestess—or High Priest, though priestesses are far more common. There is no centralized hierarchy above them.
     offices:

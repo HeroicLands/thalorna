@@ -25,46 +25,37 @@ data:
     ranks:
       - level: 0
         title: Cast from the Hearth
-        lore: expelledrnk
         description: >-
           Struck from her House's roll and denied its protection, its name and its share—a civil death.
       - level: 1
         title: Bondservant
-        lore: bondservantrnk
         description: >-
           Bound in service to a House, owing labor and holding neither property nor a voice in its councils.
       - level: 2
         title: Lay Household
-        lore: dependentrnk
         description: >-
           Of a House's dependents, sheltered by it and owing it service, but not counted among its daughters.
       - level: 3
         title: Daughter of a House
-        lore: swornmemberrnk
         description: >-
           Counted in a House's blood and entitled to its name, its protection, and a share of its trade.
       - level: 4
         title: Initiate of the College
-        lore: initiaternk
         description: >-
           Received into the Sacred College's instruction, serving in the temples while learning its rites.
       - level: 5
         title: Priestess
-        lore: priestrnk
         description: >-
           Ordained to the rites, holding authority in matters sacred and a voice in the College's deliberations.
       - level: 6
         title: Matriarch of a House
-        lore: councillorrnk
         description: >-
           Head of a clan-house, holding its property, its ships and its votes in the Council of Houses.
       - level: 7
         title: Sister of the Sacred College
-        lore: seatedelderrnk
         description: Of the priestly body that elects the Mêtríssa and constrains her in office.
       - level: 8
         title: Mêtríssa
-        lore: sovereignrnk
         description: >-
           Queen and High Priestess, elected by the Sacred College and ruling through the Two Pillars, never above them.
     offices:

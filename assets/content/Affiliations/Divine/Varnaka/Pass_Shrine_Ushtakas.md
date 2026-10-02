@@ -19,27 +19,22 @@ data:
     ranks:
       - level: 0
         title: Sent Down
-        lore: excmmnctrnk
         description: >-
           Put off the col and not taken back by any of the five. A shrine states the reason on the cistern wall with the names of the dead, which is where the sub-caste keeps what it will not forget.
       - level: 1
         title: Shrine-born
-        lore: layfaithfulrnk
         description: >-
           Born to the sub-caste and raised on the cols, keeping the observances and carrying fuel and water before being trusted with anything else.
       - level: 2
         title: Fire-watcher
-        lore: initiaternk
         description: >-
           Keeps the fire through the closed months, which is the qualifying work and is done alone for a shift of days at a time.
       - level: 3
         title: Shrine-priest
-        lore: priestrnk
         description: >-
           Works the weather-rite and the road-rite, gives or withholds the summit blessing, and writes the crossing-register.
       - level: 4
         title: Keeper of the Col
-        lore: highpriestrnk
         description: >-
           Senior priest of one shrine, answerable for its register, its stores and its refusals.
     offices:

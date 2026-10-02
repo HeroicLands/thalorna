@@ -18,27 +18,22 @@ data:
     ranks:
       - level: 0
         title: Patita
-        lore: excmmnctrnk
         description: >-
           "Fallen"—put out of the tradition, denied its rites and its teaching, and not received again by any of its houses.
       - level: 1
         title: Upāsaka
-        lore: layfaithfulrnk
         description: >-
           The lay follower, who keeps the observances and brings petitions without holding any office in the tradition.
       - level: 2
         title: Sevaka
-        lore: initiaternk
         description: >-
           "Servant"—acolytes and assistants, who train at least five years in all three forms before requesting ordination to one.
       - level: 3
         title: Ácārya
-        lore: priestrnk
         description: >-
           The working priesthood, ordained to one of the three forms but required to keep the rites of the other two.
       - level: 4
         title: Triyācārya
-        lore: highpriestrnk
         description: >-
           "Master of the Three"—senior priest of a temple, ordained to serve all three forms at once. The rank is difficult to attain; most priests specialize in one and serve the others.
     offices:

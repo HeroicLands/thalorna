@@ -10,7 +10,7 @@ data:
   archetypes: [warrior]
   occupation: Swordmaster
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: byzarianclt
   homes: [chrysamar]
   affiliations: [byzarianlg]

@@ -14,7 +14,7 @@ data:
   archetypes: [courtier]
   occupation: Prostitute
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: vedyariclt
   homes: [vyalendra3]
   affiliations: [vyalendra2]

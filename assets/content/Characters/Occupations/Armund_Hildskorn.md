@@ -10,7 +10,7 @@ data:
   archetypes: [courtier]
   occupation: Jester
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: varokhiclt
   homes: [falkensten]
   affiliations: [vrystwldtrbs]

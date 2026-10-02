@@ -18,12 +18,10 @@ data:
     ranks:
       - level: 0
         title: Patita
-        lore: excmmnctrnk
         description: >-
           "Fallen"—put out of Varnakan observance altogether, and received again by no house and no sampradāya.
       - level: 1
         title: Upāsaka
-        lore: layfaithfulrnk
         description: >-
           The lay devotee, keeping the household observance of love and its keeping, marked at the doorpost each morning and between newly-weds on the wedding night and each anniversary after. This is what devotion to this god ordinarily consists of, and for most of the faithful it is the whole of it.
       - level: 2

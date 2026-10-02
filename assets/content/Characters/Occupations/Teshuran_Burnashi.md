@@ -10,7 +10,7 @@ data:
   archetypes: [warrior]
   occupation: Swordmaster
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: haradianclt
   homes: [kethara2]
   affiliations: [cnfdrtnhrdnstts]

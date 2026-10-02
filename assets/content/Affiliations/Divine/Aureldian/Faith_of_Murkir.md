@@ -19,27 +19,22 @@ data:
     ranks:
       - level: 0
         title: Exsecratus
-        lore: excmmnctrnk
         description: >-
           Cast out—denied the rites, the temple and the burial the faith promises, which is the one sentence it can pass that outlives the body.
       - level: 1
         title: Fideles
-        lore: layfaithfulrnk
         description: >-
           The lay faithful, who keep the feasts and the observances of the god without holding office in the temple.
       - level: 2
         title: Acolytes of the Road
-        lore: initiaternk
         description: >-
           Initiates who travel with a Custos before they are given a shrine of their own.
       - level: 3
         title: Custodes Viarum
-        lore: priestrnk
         description: >-
           The Keepers of Roads—fifty to a hundred ordained priests stationed at way-shrines and crossings, scattered by design.
       - level: 4
         title: Archivus Peregrinorum
-        lore: highpriestrnk
         description: >-
           The nominal apex of a uniquely decentralized and mobile priesthood—an archivist of travelers rather than a commander of them.
     offices:

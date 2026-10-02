@@ -14,7 +14,7 @@ data:
   archetypes: [warrior, skirmisher]
   occupation: Bounty Hunter
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: bethuanclt
   homes: [bethura]
   affiliations: [mtrrchybth]

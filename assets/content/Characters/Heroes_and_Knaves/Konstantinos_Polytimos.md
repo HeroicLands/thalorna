@@ -10,7 +10,7 @@ data:
   archetypes: [commoner]
   occupation: Cook
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: byzarianclt
   homes: [denizara2]
   affiliations: [byzarianlg]

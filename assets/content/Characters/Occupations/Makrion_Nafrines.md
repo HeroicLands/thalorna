@@ -10,7 +10,7 @@ data:
   archetypes: [mage, scholar]
   occupation: Astrologer
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: helioniteclt
   homes: [thyrenae2]
   affiliations: [thyrenae]

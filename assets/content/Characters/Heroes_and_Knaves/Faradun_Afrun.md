@@ -10,7 +10,7 @@ data:
   archetypes: [trader]
   occupation: Teamster
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: dunhariclt
   homes: [tahrodan]
   affiliations: [sultntmrdd]

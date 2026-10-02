@@ -10,7 +10,7 @@ data:
   archetypes: [scholar, courtier]
   occupation: Litigant
   stations: []
-  lore: [landedlordrnk]
+  lore: []
   culture: nordheimnclt
   homes: [thraldfjord]
   affiliations: [kngdmnrdhm]

@@ -10,7 +10,7 @@ data:
   archetypes: [artisan, woodsman]
   occupation: Charcoaler
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: aelwythanclt
   homes: [thornbury]
   affiliations: [repblctrvn]

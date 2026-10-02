@@ -16,47 +16,38 @@ data:
     ranks:
       - level: 0
         title: Outlaw
-        lore: outlawrnk
         description: >-
           Cast out by the realm and set beyond its protection—outlawed, banished, or attainted. Known to the polity only as one it has excluded.
       - level: 1
         title: Unfree
-        lore: slavernk
         description: >-
           Bound to the land or to a master, owing labor rather than rent, and unable to depart, marry, or dispose of property at will.
       - level: 2
         title: Freeman
-        lore: commonerrnk
         description: >-
           Free at law to hold, trade, and remove where they will, and answerable directly to the realm's courts, but bearing no rank within it.
       - level: 3
         title: Gentry
-        lore: gentryrnk
         description: >-
           Entitled to bear arms and to be answered as a gentleman, holding no title of nobility but standing above the common freeman by birth or grant.
       - level: 4
         title: Knight
-        lore: knightrnk
         description: >-
           Holding land of a lord by military service, owing that service in person, and bearing the arms and obligations of the fee.
       - level: 5
         title: Lesser Nobility
-        lore: landedlordrnk
         description: >-
           Holding a fief in their own right, with vassals beneath them and a greater lord above, and exercising justice within their holding.
       - level: 6
         title: Greater Nobility
-        lore: greatlordrnk
         description: >-
           Holding a province of the crown directly as tenant-in-chief, answering to no authority below the sovereign, and commanding lesser lords in turn.
       - level: 7
         title: Royalty
-        lore: heirrnk
         description: >-
           Of the ruling house by blood or marriage, standing above the nobility in precedence and in claim, but holding no crown.
       - level: 8
         title: Sovereign
-        lore: sovereignrnk
         description: >-
           The crown itself, from which all other standing in the realm derives and to which all fealty within it ultimately runs.
     offices:

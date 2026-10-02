@@ -10,7 +10,7 @@ data:
   archetypes: [mage, scholar, courtier]
   occupation: Astrologer
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: provenzianclt
   homes: [lunacorte]
   affiliations: [kngdmprvnz]

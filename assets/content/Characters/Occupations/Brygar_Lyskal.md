@@ -10,7 +10,7 @@ data:
   archetypes: [warrior]
   occupation: Town Guard
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: provenzianclt
   homes: [provenzrgn]
   affiliations: [kngdmprvnz]

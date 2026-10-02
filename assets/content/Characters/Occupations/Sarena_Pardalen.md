@@ -10,7 +10,7 @@ data:
   archetypes: [cleric, healer]
   occupation: Priest
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: elavendriclt
   homes: [silvain]
   affiliations: [kngdmlvndr]

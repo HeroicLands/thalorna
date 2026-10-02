@@ -18,32 +18,26 @@ data:
     ranks:
       - level: 0
         title: Rite-Denied
-        lore: excmmnctrnk
         description: >-
           Barred from the temple rites, and with them from the funerary rites every Khelâthi eventually requires—a sentence that reaches past the end of the life it is passed in.
       - level: 1
         title: Lay Faithful
-        lore: layfaithfulrnk
         description: >-
           Keeps the observances and brings offerings without holding office in any temple. Each selat has its own patron deity and its own local cults, so what the lay faithful actually practice varies considerably beneath the surface of theological orthodoxy—a diversity the priesthoods tolerate and even encourage, holding the gods too vast to be captured by any single cult.
       - level: 2
         title: Wazu
-        lore: initiaternk
         description: >-
           "Purified One"—acolytes in the long temple education, entering as a child or youth and studying sacred texts, ritual, history, mathematics, medicine and the reading of omens for years before ordination. The purification the rank is named for is taken seriously: a Wazu observes strict dietary, behavioral and hygiene codes that mark them apart from ordinary life. The temple schools are among the finest in the empire, and those who leave before ordination carry skills that serve them well in secular careers.
       - level: 3
         title: Lem'Nelgir
-        lore: priestrnk
         description: >-
           "Servant of the God"—the ordained priesthood and the working body of the temple: daily rites, the sanctuary, temple lands and finances, the temple schools, divination for petitioners, and the temple's part in local governance. The rank spans a wide band of seniority, from the newly ordained to veterans of decades who command temple districts and advise Halzi'a, and most specialize—in ritual performance, administration, medicine, scholarship or legal arbitration. The internal politics of a major temple are as complex as anything in the Gar-Aû's court.
       - level: 4
         title: Thâz'Lekhau
-        lore: highpriestrnk
         description: >-
           "Great of Sacred Power"—the High Priest or High Priestess of a major temple and the supreme religious authority for a single cult. Manages its vast economic holdings, speaks with the voice of the god in matters of doctrine, and as High Ritualist conducts the great seasonal rites and the divinations that guide state policy; in the great temples, only the Thâz'Lekhau and the Gar-Aû may enter the innermost sanctuary where the god's image dwells. The position is not hereditary: a Thâz'Lekhau is elevated from among the senior Lem'Nelgir by a combination of internal temple politics, demonstrated capability and—the priesthood insists—divine revelation. The office commands resources rivaling the wealthiest Halzi'a.
       - level: 5
         title: Gar-Aû
-        lore: sovereignrnk
         description: >-
           Nominal supreme priest of every god, standing above the three ranks of every temple at once, and the foundation of all temple authority. In practice religious authority is delegated entirely, but the theological fiction matters: every Thâz'Lekhau serves at the Gar-Aû's pleasure, and a Gar-Aû who wished to replace one would have doctrinal justification. Few have tried; fewer have succeeded. The traffic runs the other way at least as often—when a dynasty weakens it is frequently the priesthood that orchestrates the succession, and the Thâz'Lekhau of Uqa'â has deposed or elevated more Gar-Aûu than any army.
     offices:

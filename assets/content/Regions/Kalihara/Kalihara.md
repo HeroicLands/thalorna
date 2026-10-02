@@ -15,45 +15,36 @@ data:
     ranks:
       - level: 0
         title: Severed
-        lore: outlawrnk
         description: >-
           Cut off from the lineages and from the structures' service; permitted to live, and spoken to by no one.
       - level: 1
         title: Bondservant
-        lore: bondservantrnk
         description: Held in service to a lineage, and answerable through its head.
       - level: 2
         title: Islander
-        lore: commonerrnk
         description: >-
           Of the common lineages, working the terraces and the fisheries under the island's ancient order.
       - level: 3
         title: Craftsman
-        lore: journeymanrnk
         description: >-
           Of the skilled trades the island's isolation makes precious—shipwrights, dyers, smiths, apothecaries.
       - level: 4
         title: Warden of the Approaches
-        lore: officerrnk
         description: >-
           Charged with the sea-lanes, the pilots and the strangers who must never be allowed to land uninvited.
       - level: 5
         title: Ithári'kaan
-        lore: officerrnk
         description: >-
           Keeper of the ancient structures, trained from childhood in maintenance rites whose purpose is no longer wholly understood.
       - level: 6
         title: Elder of a Lineage
-        lore: elderrnk
         description: >-
           Head of one of the old kindreds, holding its lands, its memory and its share of the island's secrets.
       - level: 7
         title: Councillor
-        lore: councillorrnk
         description: Of the body that governs the island and decides, chiefly, what outsiders may be told.
       - level: 8
         title: Speaker for the Island
-        lore: prsdngffcrrnk
         description: Presiding over the Council and the one voice permitted to answer a foreign power.
     offices:
       Speaker for the Island: >-

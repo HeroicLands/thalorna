@@ -19,27 +19,22 @@ data:
     ranks:
       - level: 0
         title: License Withdrawn
-        lore: excmmnctrnk
         description: >-
           The license lifted for asking a question the warrant did not cover. The Council publishes the withdrawal, and an unlicensed working that claims the god's name is Patita, which ends the ordination as well.
       - level: 1
         title: Lamp-tender
-        lore: layfaithfulrnk
         description: >-
           Attends the household's threshold lamp from the onset of the last illness, and asks nothing. Most who hold this rank hold no other and want none.
       - level: 2
         title: Witness
-        lore: initiaternk
         description: >-
           Hears the answer and writes it down. Two Witnesses are required, and a consultation with one is worth nothing in any court.
       - level: 3
         title: Threshold-keeper
-        lore: priestrnk
         description: >-
           Puts the question. Ordained, licensed, and permitted one question at one threshold under one warrant.
       - level: 4
         title: Warrant-holder
-        lore: branchheadrnk
         description: >-
           Holds a polity's standing warrant, settles which deaths are asked at and which are not, and answers to that polity's court for every consultation done under it.
     offices:

@@ -17,42 +17,34 @@ data:
     ranks:
       - level: 0
         title: Spirit-shunned
-        lore: excmmnctrnk
         description: >-
           Turned from by the spirit and by those who keep it: no rite will include them, and no elder will speak their name in one.
       - level: 1
         title: Uninitiated
-        lore: unenteredrnk
         description: >-
           Living under the tradition's observances without having entered it—most of the people, most of the time.
       - level: 2
         title: Supplicant
-        lore: supplicantrnk
         description: >-
           Petitioning the spirit through those who may address it, and bringing what the tradition asks in return.
       - level: 3
         title: Initiate
-        lore: initiaternk
         description: >-
           Taken through the ordeal and received; permitted at the rites and bound by the tradition's prohibitions.
       - level: 4
         title: Spirit-Speaker
-        lore: sprtspkrrnk
         description: >-
           Permitted to address the spirit directly on another's behalf, and answerable for what is asked of it.
       - level: 5
         title: Vessel
-        lore: sprtspkrrnk
         description: >-
           One the spirit is allowed to enter, in the rites where somebody must be—a standing of honor and of considerable risk.
       - level: 6
         title: Elder Shaman
-        lore: teachingelderrnk
         description: >-
           Long practiced, teaching initiates and judging when the tradition's forms have been broken.
       - level: 7
         title: Keeper of the Ways
-        lore: grandmasterrnk
         description: >-
           Holder of the tradition's paths, observances and sacred places, and its voice where it must speak with one.
     offices:

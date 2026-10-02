@@ -10,7 +10,7 @@ data:
   archetypes: [commoner]
   occupation: Miner
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: vedyariclt
   homes: [dhanurkota]
   affiliations: [dhnrktjnpd]

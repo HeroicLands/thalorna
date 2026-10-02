@@ -10,7 +10,7 @@ data:
   archetypes: [artisan]
   occupation: Perfumer
   stations: []
-  lore: [landedlordrnk]
+  lore: []
   culture: haradianclt
   homes: [miravel]
   affiliations: [cnfdrtnhrdnstts]

@@ -10,7 +10,7 @@ data:
   archetypes: [cleric]
   occupation: Shaman
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: provenzianclt
   homes: [monverdre]
   affiliations: [kngdmprvnz]

@@ -10,7 +10,7 @@ data:
   archetypes: [artisan, trader]
   occupation: Clothier
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: nordheimnclt
   homes: [tvarnmark]
   affiliations: [kingdmnrgd]

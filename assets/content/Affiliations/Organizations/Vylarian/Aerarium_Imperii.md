@@ -17,27 +17,22 @@ data:
     ranks:
       - level: 0
         title: Dismissed
-        lore: dismissedrnk
         description: >-
           The Quaestor Imperii serves for life or until imperial dismissal, and every officer beneath him holds at the Quaestor's pleasure or the throne's.
       - level: 1
         title: Censor
-        lore: clerkrnk
         description: >-
           One of sixteen auditors: sees that the strongroom's books match the held bullion, that clearing claims are honored only against valid notes, and that the Praefares' reports reconcile.
       - level: 3
         title: Magistar Stationum
-        lore: officerrnk
         description: >-
           Provincial deputy, one to each Vylarian province and one to Heliónis. Administers the Aerarium's direct operations in his territory and coordinates with the Argentariorum chapters in the non-imperial territories adjacent to his station.
       - level: 4
         title: Praefar
-        lore: commanderrnk
         description: >-
           Senior deputy over a whole function of the treasury—operations, the script and clearing system, or the strongroom and reserves—appointed by the Quaestor with imperial confirmation.
       - level: 5
         title: Quaestor
-        lore: magistraternk
         description: >-
           The Aerarium's chief officer, appointed by the Augustar on the Dux Bellorum's recommendation and serving for life, holding one of the six standing accesses to the imperial privy presence.
     offices:

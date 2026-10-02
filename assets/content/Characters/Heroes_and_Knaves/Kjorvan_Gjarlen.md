@@ -10,7 +10,7 @@ data:
   archetypes: [commoner]
   occupation: Ostler
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: provenzianclt
   homes: [fiordaure]
   affiliations: [kngdmprvnz]

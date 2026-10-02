@@ -11,7 +11,7 @@ data:
   archetypes: [scholar, courtier]
   occupation: Litigant
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: khelathiclt
   homes: [amqelulegez]
   affiliations: [empireakhlth]

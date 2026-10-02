@@ -19,27 +19,22 @@ data:
     ranks:
       - level: 0
         title: Exsecratus
-        lore: excmmnctrnk
         description: >-
           Cast out—denied the rites, the temple and the burial the faith promises, which is the one sentence it can pass that outlives the body.
       - level: 1
         title: Fideles
-        lore: layfaithfulrnk
         description: >-
           The lay faithful, who keep the feasts and the observances of the god without holding office in the temple.
       - level: 2
         title: Vestales Tempestatis
-        lore: initiaternk
         description: >-
           Young acolytes and apprentices, typically youths who survived a near-fatal storm or show unusual sensitivity to weather.
       - level: 3
         title: Sacerdotes Tempestatis
-        lore: priestrnk
         description: >-
           The Priests of Storms—thirty or forty ordained clergy across the cities and coastal settlements, who keep the temples and advise farmers, merchants and sailors.
       - level: 4
         title: Flamen Tempestas
-        lore: highpriestrnk
         description: >-
           High Priest of the Storm: primary voice of the god and interpreter of his will as revealed in natural phenomena, consulted by kings and city councils.
     offices:

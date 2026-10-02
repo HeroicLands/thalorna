@@ -10,7 +10,7 @@ data:
   archetypes: [cleric, woodsman]
   occupation: Shaman
   stations: []
-  lore: [commonerrnk]
+  lore: []
   culture: elavendriclt
   homes: [silvain]
   affiliations: [kngdmlvndr]

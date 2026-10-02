@@ -17,12 +17,10 @@ data:
     ranks:
       - level: 1
         title: Argentean
-        lore: councillorrnk
         description: >-
           A senator of an established Silver house, seated by standing and holding a voice beneath the dome. A newly elevated house learns quickly that the forms of the Curia are themselves a language one must master to be heard.
       - level: 2
         title: Aurelian
-        lore: seniormemberrnk
         description: >-
           A senator of a founding Gilded house, traceable to the empire's first century, whose name carries weight in the chamber before he rises and whose custom the chamber's ancient forms are.
     offices: {}

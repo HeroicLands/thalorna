@@ -17,44 +17,35 @@ data:
     ranks:
       - level: 0
         title: Kinless
-        lore: outlawrnk
         description: >-
           Cast out by their own kin and claimed by none; owed no hospitality, no water and no vengeance.
       - level: 1
         title: Bondservant
-        lore: bondservantrnk
         description: >-
           Held in service or debt to a household, and answerable through its head rather than in their own name.
       - level: 2
         title: Dependent
-        lore: dependentrnk
         description: >-
           Sheltered by a household without being of its blood—a client, a widow's family, a taken-in stranger.
       - level: 3
         title: Kinsman
-        lore: kinsmanrnk
         description: Of a household's blood, entitled to its protection, its feud and its share.
       - level: 4
         title: Householder
-        lore: commonerrnk
         description: >-
           Head of a tent or hall, holding its herds and its people and speaking for them at the moot.
       - level: 5
         title: Elder
-        lore: elderrnk
         description: Senior of a lineage, whose memory of custom and precedent settles what the young dispute.
       - level: 6
         title: Chieftain
-        lore: councillorrnk
         description: >-
           Leading a clan or tribe by descent and by consent together, and losing it when either fails.
       - level: 7
         title: Delegate
-        lore: councillorrnk
         description: Sent by a tribe to the common council, empowered to argue and not to bind.
       - level: 8
         title: Speaker of the Council
-        lore: prsdngffcrrnk
         description: >-
           Presiding over the common council, holding the peace of its meeting and no authority beyond it.
     offices:

@@ -19,22 +19,18 @@ data:
     ranks:
       - level: 0
         title: Revoked Charter
-        lore: expelledrnk
         description: >-
           A charter revoked by the Crown—rare and consequential—ending a guild's standing among the Crown Trades.
       - level: 1
         title: Licensee
-        lore: dependentrnk
         description: >-
           A competing operation working under a Crown Trade's charter without holding it outright—inside the guild structure, unlike those who operate informally outside it.
       - level: 3
         title: Chartered Craftsman
-        lore: masterrnk
         description: >-
           Of one of the six Crown Trades, working the monopoly its charter grants under whatever tradition that trade elects its own masters.
       - level: 4
         title: Council Officer
-        lore: councillorrnk
         description: >-
           The senior officer of a chartered guild, holding its seat on the Council of the Three-Flame Charters.
     offices:

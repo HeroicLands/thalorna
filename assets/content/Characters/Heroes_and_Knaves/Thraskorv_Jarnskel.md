@@ -10,7 +10,7 @@ data:
   archetypes: [commoner]
   occupation: Farmer
   stations: []
-  lore: [slavernk]
+  lore: []
   culture: nordheimnclt
   homes: [knalthstead]
   affiliations: [kngdmnrdhm]

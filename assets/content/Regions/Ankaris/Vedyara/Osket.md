@@ -17,39 +17,31 @@ data:
     ranks:
       - level: 0
         title: Roadless
-        lore: outlawrnk
         description: >-
           Put out of every lineage for selling a road or losing a party through carelessness, and taken over the wall by nobody.
       - level: 1
         title: Fosterling
-        lore: dependentrnk
         description: Taken into a hearth without being of its blood, fed and taught and holding no share.
       - level: 2
         title: Hearth-kin
-        lore: kinsmanrnk
         description: >-
           Of a hearth's blood, entitled to its shelter, its herds and its share of a season's fee.
       - level: 3
         title: Herdholder
-        lore: commonerrnk
         description: Holding beasts and a stake in a high pasture, and answering for both at the hearth.
       - level: 4
         title: Carrier
-        lore: journeymanrnk
         description: >-
           Walking the roads under another's word, carrying loads and learning the ground a season at a time.
       - level: 5
         title: Road-holder
-        lore: masterrnk
         description: Holding a crossing in his own right and entitled to take a caravan over it.
       - level: 6
         title: Guide-mother
-        lore: teachingelderrnk
         description: >-
           Senior woman of a lineage, holding its knowledge of the road and saying whether the road is open.
       - level: 7
         title: Speaker of the Cols
-        lore: prsdngffcrrnk
         description: Speaking for the lineages when they meet, binding none of them and heard by all.
     offices:
       Speaker of the Cols: >-

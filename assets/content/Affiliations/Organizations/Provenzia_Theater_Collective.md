@@ -19,31 +19,24 @@ data:
     ranks:
       - level: 0
         title: Expelled
-        lore: expelledrnk
         description: Put out by vote of the members, with the fellowship's hospitality and its company closed.
       - level: 1
         title: Guest
-        lore: dependentrnk
         description: Present by a member's invitation, welcome for the evening and party to nothing.
       - level: 2
         title: Member
-        lore: swornmemberrnk
         description: Admitted, paying the subscription and enjoying the fellowship's company and its hall.
       - level: 3
         title: Full Member
-        lore: swornmemberrnk
         description: Of standing enough to propose, to vote and to be voted for.
       - level: 4
         title: Elder Member
-        lore: seniormemberrnk
         description: Long enough of the fellowship that its customs are remembered through them.
       - level: 5
         title: Officer
-        lore: officerrnk
         description: Elected to a charge of the fellowship—its purse, its records, its hall, its charity.
       - level: 6
         title: Chair
-        lore: councillorrnk
         description: Presiding over the fellowship's meetings for a term, and holding nothing else by it.
     offices:
       Chair: >-
