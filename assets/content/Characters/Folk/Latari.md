@@ -5,7 +5,7 @@ type: being
 subType: npc
 description: "An ancient mentor, long retired, whose teaching still shapes how his pupil handles every beast he is given"
 tags: [generated]
-data: {archetypes: [commoner], packFolder: regkhfolk, homes: [garanlaghet]}
+data: {archetypes: [commoner], packFolder: regkhfolk, homes: [garanlaghet], gender: male}
 ---
 
 An ancient mentor, long retired, whose teaching still shapes how his pupil handles every beast he is given.

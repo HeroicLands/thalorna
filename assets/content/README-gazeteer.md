@@ -200,7 +200,7 @@ data:
     being-kaldas: rival
 ```
 
-**Gender, frame and the appearance colours each hold one value from a closed list.** They belong to `character` and `npc` beings; a `creature` states none of them. A field left unset — absent, `null` or `""` — says the detail is unrecorded. The English column is the words a reader meets, and the third column is what the value means, because several of these are words people use loosely.
+**Gender, frame and the appearance colours each hold one value from a closed list.** They belong to `character` and `npc` beings; a `creature` states none of them. The English column is the words a reader meets, and the third column is what the value means, because several of these are words people use loosely.
 
 #### `data.gender`
 
@@ -297,6 +297,8 @@ data:
 | `wan`         | Wan         | Pale and drained; the skin of exhaustion or convalescence.                                                                                          |
 | `weathered`   | Weathered   | Worn and lined by sun and wind; the skin of outdoor work.                                                                                           |
 | `wrinkled`    | Wrinkled    | Deeply lined by age.                                                                                                                                |
+
+**`gender` is required**, and `npm run lint` fails on a `character` or `npc` that states none. Every other field may be left unset — absent, `null` or `""` — which says the detail is unrecorded: a being whose hair nobody wrote down leaves `hair_color` null rather than guessing at it.
 
 `skin_color` is the tone the being was born with, or acquired from the sun in the case of `tanned`. **`complexion` is the skin's condition and never its colour** — what health, weather, work and age have made of it. That division is what makes the two readable separately: a question about colour is answered by `skin_color` alone.
 

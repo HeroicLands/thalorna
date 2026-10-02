@@ -5,7 +5,7 @@ type: being
 subType: npc
 description: "Lead designer on one of the empire's great works, whose name is on the plans and whose reputation rests on their standing"
 tags: [generated]
-data: {archetypes: [artisan, scholar], packFolder: regkhfolk, homes: [khelzuret]}
+data: {archetypes: [artisan, scholar], packFolder: regkhfolk, homes: [khelzuret], gender: female}
 ---
 
 Lead designer on one of the empire's great works, whose name is on the plans and whose reputation rests on their standing.

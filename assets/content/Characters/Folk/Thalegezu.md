@@ -5,7 +5,7 @@ type: being
 subType: npc
 description: "An elderly scribe, meticulous, and the last man in the bureau who remembers how the older filings were arranged"
 tags: [generated]
-data: {archetypes: [scholar], packFolder: regkhfolk, homes: [garanlaghet]}
+data: {archetypes: [scholar], packFolder: regkhfolk, homes: [garanlaghet], gender: male}
 ---
 
 An elderly scribe, meticulous, and the last man in the bureau who remembers how the older filings were arranged.

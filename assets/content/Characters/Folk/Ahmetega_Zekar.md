@@ -5,7 +5,7 @@ type: being
 subType: npc
 description: "A decorated officer of the river fleet, whose service is a matter of record and whose opinions on the fleet's present command are not"
 tags: [generated]
-data: {archetypes: [warrior, mariner], packFolder: regkhfolk, homes: [galezkara]}
+data: {archetypes: [warrior, mariner], packFolder: regkhfolk, homes: [galezkara], gender: male}
 ---
 
 A decorated officer of the river fleet, whose service is a matter of record and whose opinions on the fleet's present command are not.

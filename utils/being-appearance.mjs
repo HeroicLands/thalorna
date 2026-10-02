@@ -19,8 +19,9 @@
  *
  * The lists describe human beings, and they apply to the subtypes that state
  * them — `character` and `npc`. A field is unstated when it is absent, `null` or
- * `""`, and an unstated field passes. A stated value outside its list fails, as
- * does any key under `data.appearance` that is not one of the five.
+ * `""`. `data.gender` must be stated; every other field may be left unset, which
+ * says the detail is unrecorded. A stated value outside its list fails, as does
+ * any key under `data.appearance` that is not one of the five.
  *
  * `complexion` holds one value or several; every entry is held to the list.
  *
@@ -129,6 +130,13 @@ const VOCABULARY = Object.freeze({
  * so its colouring is not held to a vocabulary written for human beings.
  */
 const SUBTYPES = Object.freeze(["character", "npc"]);
+
+/**
+ * Fields a `character` or `npc` must state. Everything else may be left unset,
+ * which says the detail is unrecorded — a being whose hair nobody wrote down
+ * leaves `hair_color` null rather than guessing at it.
+ */
+const REQUIRED = Object.freeze(["data.gender"]);
 
 /**
  * `complexion` holds one value or several, because a face carries more than one
@@ -391,6 +399,17 @@ for (const file of markdownFiles(CONTENT_DIR)) {
 
     const lastLine = match[1].split("\n").length + 1;
     const data = frontmatter.data ?? {};
+    for (const field of REQUIRED) {
+        const key = field.split(".").at(-1);
+        if (!isUnstated(data[key])) continue;
+        const at = locate(source, key, lastLine);
+        report(
+            file,
+            `${field} states nothing; a character or npc names one of ` +
+                Object.keys(VOCABULARY[field]).join(", "),
+            at.line === undefined ? locate(source, "data", lastLine) : at,
+        );
+    }
     checkValue(file, source, "data.gender", data.gender, lastLine);
     checkValue(file, source, "data.frame", data.frame, lastLine);
 
