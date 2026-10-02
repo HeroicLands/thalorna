@@ -14,7 +14,7 @@ data:
   lore: []
   culture: helioniteclt
   homes: [helionis]
-  affiliations: [thetamzir, ctysttshlns]
+  affiliations: {thetamzir: {}, ctysttshlns: {}}
   gender: male
   species: humanflk
   born: 659.118

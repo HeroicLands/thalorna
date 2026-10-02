@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [gnarthborg]
-  affiliations: [kingdomlgn]
+  affiliations: {kingdomlgn: {}}
   gender: male
   species: humanflk
   born: 673.127

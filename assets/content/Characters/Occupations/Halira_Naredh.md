@@ -13,7 +13,7 @@ data:
   lore: []
   culture: elavendriclt
   homes: [valdun]
-  affiliations: [kngdmlvndr]
+  affiliations: {kngdmlvndr: {}}
   gender: female
   species: humanflk
   born: 698.246

@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [knalthstead]
-  affiliations: [kngdmnrdhm]
+  affiliations: {kngdmnrdhm: {}}
   gender: female
   species: humanflk
   born: 697.95

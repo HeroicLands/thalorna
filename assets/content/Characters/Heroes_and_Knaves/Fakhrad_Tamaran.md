@@ -13,7 +13,7 @@ data:
   lore: []
   culture: dunhariclt
   homes: [shamsun]
-  affiliations: [sultntmrdd]
+  affiliations: {sultntmrdd: {}}
   gender: male
   species: humanflk
   born: 674.22

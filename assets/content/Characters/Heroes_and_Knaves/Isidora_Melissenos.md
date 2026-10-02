@@ -13,7 +13,7 @@ data:
   lore: []
   culture: byzarianclt
   homes: [thalassos]
-  affiliations: [byzarianlg]
+  affiliations: {byzarianlg: {}}
   gender: female
   species: humanflk
   born: 693.110

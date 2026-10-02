@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [raltholm]
-  affiliations: [kngdmnrdhm]
+  affiliations: {kngdmnrdhm: {}}
   gender: male
   species: humanflk
   born: 688.250

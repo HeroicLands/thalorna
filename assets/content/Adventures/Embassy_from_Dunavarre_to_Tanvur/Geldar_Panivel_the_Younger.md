@@ -12,7 +12,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: []
-  affiliations: [kingdmdnvr]
+  affiliations: {kingdmdnvr: {}}
   gender: male
   species: humanflk
   packFolder: adventures

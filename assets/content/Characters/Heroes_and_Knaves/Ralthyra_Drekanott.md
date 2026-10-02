@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [dvalgheim]
-  affiliations: [kngdmnrdhm]
+  affiliations: {kngdmnrdhm: {}}
   gender: female
   species: humanflk
   born: 691.64

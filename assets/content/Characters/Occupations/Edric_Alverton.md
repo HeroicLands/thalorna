@@ -13,7 +13,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: [brynhallow]
-  affiliations: [kngdmldrth]
+  affiliations: {kngdmldrth: {}}
   gender: male
   species: humanflk
   born: 667.60

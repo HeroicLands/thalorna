@@ -13,7 +13,7 @@ data:
   lore: []
   culture: varokhiclt
   homes: [falkensten]
-  affiliations: [vrystwldtrbs]
+  affiliations: {vrystwldtrbs: {}}
   gender: male
   species: humanflk
   born: 694.76

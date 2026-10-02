@@ -13,7 +13,7 @@ data:
   lore: []
   culture: provenzianclt
   homes: [valcerise]
-  affiliations: [kngdmprvnz]
+  affiliations: {kngdmprvnz: {}}
   gender: female
   species: humanflk
   born: 682.55

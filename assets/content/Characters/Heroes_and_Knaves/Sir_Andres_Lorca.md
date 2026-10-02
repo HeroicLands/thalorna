@@ -17,7 +17,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [tarvenirgn]
-  affiliations: [kingdmtrvn]
+  affiliations: {kingdmtrvn: {}}
   gender: male
   species: humanflk
   born: 676.282

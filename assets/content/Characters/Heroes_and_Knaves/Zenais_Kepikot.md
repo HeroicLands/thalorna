@@ -13,7 +13,7 @@ data:
   lore: []
   culture: byzarianclt
   homes: [gumushisar2]
-  affiliations: [byzarianlg]
+  affiliations: {byzarianlg: {}}
   gender: female
   species: humanflk
   born: 692.262

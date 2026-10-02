@@ -13,7 +13,7 @@ data:
   lore: []
   culture: kaliharanclt
   homes: [qasirah]
-  affiliations: [kalihara]
+  affiliations: {kalihara: {}}
   gender: female
   species: humanflk
   born: 662.303

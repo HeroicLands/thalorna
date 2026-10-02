@@ -13,7 +13,7 @@ data:
   lore: []
   culture: provenzianclt
   homes: [aureliane]
-  affiliations: [kngdmprvnz]
+  affiliations: {kngdmprvnz: {}}
   gender: male
   species: humanflk
   born: 682.219

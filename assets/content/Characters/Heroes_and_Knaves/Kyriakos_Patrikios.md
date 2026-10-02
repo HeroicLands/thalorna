@@ -13,7 +13,7 @@ data:
   lore: []
   culture: byzarianclt
   homes: [kostaros]
-  affiliations: [byzarianlg]
+  affiliations: {byzarianlg: {}}
   gender: male
   species: humanflk
   born: 670.34

@@ -13,7 +13,7 @@ data:
   lore: []
   culture: provenzianclt
   homes: [fiordaure]
-  affiliations: [kngdmprvnz]
+  affiliations: {kngdmprvnz: {}}
   gender: male
   species: humanflk
   born: 680.8

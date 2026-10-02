@@ -13,7 +13,7 @@ data:
   lore: []
   culture: varokhiclt
   homes: [eichengrnd]
-  affiliations: [vrystwldtrbs]
+  affiliations: {vrystwldtrbs: {}}
   gender: male
   species: humanflk
   born: 668.32

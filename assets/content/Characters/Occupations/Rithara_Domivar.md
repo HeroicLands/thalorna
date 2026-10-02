@@ -13,7 +13,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [torreviga]
-  affiliations: [kingdmtrvn]
+  affiliations: {kingdmtrvn: {}}
   gender: female
   species: humanflk
   born: 702.37

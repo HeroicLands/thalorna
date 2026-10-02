@@ -13,7 +13,7 @@ data:
   lore: []
   culture: byzarianclt
   homes: [chrysamar]
-  affiliations: [byzarianlg]
+  affiliations: {byzarianlg: {}}
   gender: male
   species: humanflk
   born: 675.108

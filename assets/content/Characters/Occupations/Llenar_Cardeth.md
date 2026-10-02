@@ -13,7 +13,7 @@ data:
   lore: []
   culture: elavendriclt
   homes: [silvain]
-  affiliations: [kngdmlvndr]
+  affiliations: {kngdmlvndr: {}}
   gender: male
   species: humanflk
   born: 679.272

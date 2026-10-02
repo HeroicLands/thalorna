@@ -13,7 +13,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [valthari]
-  affiliations: [kingdmtrvn]
+  affiliations: {kingdmtrvn: {}}
   gender: female
   species: humanflk
   born: 695.88

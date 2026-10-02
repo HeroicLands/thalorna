@@ -13,7 +13,7 @@ data:
   lore: []
   culture: dunhariclt
   homes: [oasisteyrn]
-  affiliations: [dunhartrbs]
+  affiliations: {dunhartrbs: {}}
   gender: male
   species: humanflk
   born: 664.353

@@ -13,7 +13,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: [thornbury]
-  affiliations: [repblctrvn]
+  affiliations: {repblctrvn: {}}
   gender: male
   species: humanflk
   born: 668.59

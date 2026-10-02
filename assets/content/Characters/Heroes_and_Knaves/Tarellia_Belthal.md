@@ -13,7 +13,7 @@ data:
   lore: []
   culture: elavendriclt
   homes: [portaelion]
-  affiliations: [kngdmlvndr]
+  affiliations: {kngdmlvndr: {}}
   gender: female
   species: humanflk
   born: 681.125

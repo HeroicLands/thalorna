@@ -13,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [aelissium]
-  affiliations: [vylarinmpr]
+  affiliations: {vylarinmpr: {}}
   gender: female
   species: humanflk
   born: 692.38

@@ -13,7 +13,7 @@ data:
   lore: []
   culture: khazrynclt
   homes: [ashkarad]
-  affiliations: [khzrncnfdrtn]
+  affiliations: {khzrncnfdrtn: {}}
   gender: female
   species: humanflk
   born: 692.295

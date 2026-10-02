@@ -12,7 +12,7 @@ data:
   lore: []
   culture: okharinclt
   homes: [okharisrgn]
-  affiliations: [okharis]
+  affiliations: {okharis: {}}
   gender: male
   species: humanflk
   born: 679.267

@@ -13,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [vylariargn]
-  affiliations: [vylarinmpr]
+  affiliations: {vylarinmpr: {}}
   gender: male
   species: humanflk
   born: 698.353

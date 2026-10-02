@@ -14,7 +14,7 @@ data:
   lore: []
   culture: provenzianclt
   homes: []
-  affiliations: []
+  affiliations: {}
   gender: male
   species: humanflk
   packFolder: provenzia

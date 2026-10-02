@@ -13,7 +13,7 @@ data:
   lore: []
   culture: varokhiclt
   homes: [grimholt]
-  affiliations: [vrystwldtrbs]
+  affiliations: {vrystwldtrbs: {}}
   gender: female
   species: humanflk
   born: 702.73

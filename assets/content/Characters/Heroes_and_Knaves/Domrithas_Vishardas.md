@@ -13,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [nartum]
-  affiliations: [hlykngdmnrtm]
+  affiliations: {hlykngdmnrtm: {}}
   gender: male
   species: humanflk
   born: 677.106

@@ -84,7 +84,7 @@ data:
   lore: [] # any lore note associated with the character, such as social standing or law
   culture: "" # Primary culture, naming a lore note with `subType: culture`
   homes: [] # the places the being calls home, naming the settlement rather than the region around it
-  affiliations: [] # any guilds, polities, or other affiliations the being belongs to
+  affiliations: {} # bodies the being belongs to, keyed by Address, each entry holding the standing it holds there (`rank`, `office`)
   socialTies: [] # Defining support and opposition (see Enemies/Patrons below)
   gender: "" # male, female, or other
   species: # lore note associated with the being species, if any (e.g., `humanflk`)

@@ -13,7 +13,7 @@ data:
   lore: []
   culture: provenzianclt
   homes: [fiordaure]
-  affiliations: [kngdmprvnz]
+  affiliations: {kngdmprvnz: {}}
   gender: female
   species: humanflk
   born: 678.152

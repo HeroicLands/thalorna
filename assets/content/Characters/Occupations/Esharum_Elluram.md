@@ -13,7 +13,7 @@ data:
   lore: []
   culture: haradianclt
   homes: [kashmuret]
-  affiliations: [cnfdrtnhrdnstts]
+  affiliations: {cnfdrtnhrdnstts: {}}
   gender: male
   species: humanflk
   born: 691.261

@@ -13,7 +13,7 @@ data:
   lore: []
   culture: haradianclt
   homes: [sulun]
-  affiliations: [cnfdrtnhrdnstts]
+  affiliations: {cnfdrtnhrdnstts: {}}
   gender: male
   species: humanflk
   born: 683.257

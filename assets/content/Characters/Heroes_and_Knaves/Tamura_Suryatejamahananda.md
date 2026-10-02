@@ -13,7 +13,7 @@ data:
   lore: []
   culture: vedyariclt
   homes: [rajapur]
-  affiliations: [rajaprjnpd]
+  affiliations: {rajaprjnpd: {}}
   gender: male
   species: humanflk
   born: 666.56

@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [vrystwald]
-  affiliations: [vrystwldtrbs]
+  affiliations: {vrystwldtrbs: {}}
   gender: male
   species: humanflk
   born: 668.146

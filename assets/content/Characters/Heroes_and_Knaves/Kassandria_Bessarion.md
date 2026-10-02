@@ -13,7 +13,7 @@ data:
   lore: []
   culture: byzarianclt
   homes: [byzaris]
-  affiliations: [byzarianlg]
+  affiliations: {byzarianlg: {}}
   gender: female
   species: humanflk
   born: 683.247

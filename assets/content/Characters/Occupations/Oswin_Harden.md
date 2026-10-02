@@ -13,7 +13,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: [caerwynd]
-  affiliations: [kngdmldrth]
+  affiliations: {kngdmldrth: {}}
   gender: male
   species: humanflk
   born: 674.64

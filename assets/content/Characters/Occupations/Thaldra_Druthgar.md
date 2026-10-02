@@ -13,7 +13,7 @@ data:
   lore: []
   culture: varokhiclt
   homes: [thornhaven]
-  affiliations: [vrystwldtrbs]
+  affiliations: {vrystwldtrbs: {}}
   gender: female
   species: humanflk
   born: 697.93

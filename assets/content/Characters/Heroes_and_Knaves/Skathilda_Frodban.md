@@ -17,7 +17,7 @@ data:
   lore: []
   culture: varokhiclt
   homes: [vrystwald]
-  affiliations: [blckpnwlvs, vrystwldtrbs]
+  affiliations: {blckpnwlvs: {rank: 1}, vrystwldtrbs: {}}
   gender: female
   species: humanflk
   born: 692.9

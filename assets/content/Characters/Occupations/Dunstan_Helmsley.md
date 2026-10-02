@@ -13,7 +13,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: [ashford]
-  affiliations: [kngdmldrth]
+  affiliations: {kngdmldrth: {}}
   gender: male
   species: humanflk
   born: 671.99

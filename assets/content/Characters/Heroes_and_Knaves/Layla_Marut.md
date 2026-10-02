@@ -13,7 +13,7 @@ data:
   lore: []
   culture: bethuanclt
   homes: [bethura]
-  affiliations: [mtrrchybth]
+  affiliations: {mtrrchybth: {}}
   gender: female
   species: humanflk
   born: 694.4

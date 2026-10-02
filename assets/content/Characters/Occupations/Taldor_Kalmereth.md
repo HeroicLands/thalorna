@@ -13,7 +13,7 @@ data:
   lore: []
   culture: elavendriclt
   homes: [elanmere]
-  affiliations: [kngdmlvndr]
+  affiliations: {kngdmlvndr: {}}
   gender: male
   species: humanflk
   born: 673.18

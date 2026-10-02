@@ -13,7 +13,7 @@ data:
   lore: []
   culture: varokhiclt
   homes: [waldburg]
-  affiliations: [vrystwldtrbs]
+  affiliations: {vrystwldtrbs: {}}
   gender: male
   species: humanflk
   born: 678.93

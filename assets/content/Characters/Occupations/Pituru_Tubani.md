@@ -13,7 +13,7 @@ data:
   lore: []
   culture: haradianclt
   homes: [azhun2]
-  affiliations: [cnfdrtnhrdnstts]
+  affiliations: {cnfdrtnhrdnstts: {}}
   gender: male
   species: humanflk
   born: 694.67

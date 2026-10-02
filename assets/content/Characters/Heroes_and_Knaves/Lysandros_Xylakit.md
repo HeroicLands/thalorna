@@ -13,7 +13,7 @@ data:
   lore: []
   culture: byzarianclt
   homes: [selimara]
-  affiliations: [byzarianlg]
+  affiliations: {byzarianlg: {}}
   gender: male
   species: humanflk
   born: 672.36

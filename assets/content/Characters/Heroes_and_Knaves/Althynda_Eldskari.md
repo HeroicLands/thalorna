@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [hnarvdal]
-  affiliations: [kngdmvthgrd]
+  affiliations: {kngdmvthgrd: {}}
   gender: female
   species: humanflk
   born: 691.67

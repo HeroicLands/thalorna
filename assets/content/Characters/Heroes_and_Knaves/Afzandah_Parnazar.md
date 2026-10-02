@@ -13,7 +13,7 @@ data:
   lore: []
   culture: khazrynclt
   homes: [kethramir]
-  affiliations: [khzrncnfdrtn]
+  affiliations: {khzrncnfdrtn: {}}
   gender: female
   species: humanflk
   born: 687.107

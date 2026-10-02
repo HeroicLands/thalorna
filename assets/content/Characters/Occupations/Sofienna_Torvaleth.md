@@ -13,7 +13,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [valdes]
-  affiliations: [kingdmtrvn]
+  affiliations: {kingdmtrvn: {}}
   gender: female
   species: humanflk
   born: 690.100

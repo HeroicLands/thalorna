@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [vrathavn]
-  affiliations: [kingdmnrgd]
+  affiliations: {kingdmnrgd: {}}
   gender: male
   species: humanflk
   born: 668.100

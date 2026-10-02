@@ -13,7 +13,7 @@ data:
   lore: []
   culture: provenzianclt
   homes: [lunacorte]
-  affiliations: [kngdmprvnz]
+  affiliations: {kngdmprvnz: {}}
   gender: male
   species: humanflk
   born: 662.303

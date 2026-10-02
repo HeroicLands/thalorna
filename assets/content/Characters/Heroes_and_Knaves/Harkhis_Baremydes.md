@@ -13,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [belekos]
-  affiliations: [provinclys]
+  affiliations: {provinclys: {}}
   gender: male
   species: humanflk
   born: 674.41

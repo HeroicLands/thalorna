@@ -13,7 +13,7 @@ data:
   lore: []
   culture: okharinclt
   homes: [ithrakor]
-  affiliations: [okharis]
+  affiliations: {okharis: {}}
   gender: male
   species: humanflk
   born: 692.32

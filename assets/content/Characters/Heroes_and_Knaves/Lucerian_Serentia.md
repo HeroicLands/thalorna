@@ -14,7 +14,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [vylariargn]
-  affiliations: [thetamzir, vylarinmpr]
+  affiliations: {thetamzir: {}, vylarinmpr: {}}
   gender: male
   species: humanflk
   born: 693.282

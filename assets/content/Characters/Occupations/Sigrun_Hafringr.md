@@ -13,7 +13,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: [stormveil]
-  affiliations: [jrldmstrmvld]
+  affiliations: {jrldmstrmvld: {}}
   gender: female
   species: humanflk
   born: 689.27

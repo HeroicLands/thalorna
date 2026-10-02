@@ -13,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [ashenmere]
-  affiliations: [provncmktr]
+  affiliations: {provncmktr: {}}
   gender: male
   species: humanflk
   born: 681.140

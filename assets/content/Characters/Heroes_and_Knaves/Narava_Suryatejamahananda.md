@@ -13,7 +13,7 @@ data:
   lore: []
   culture: vedyariclt
   homes: [vyalendra3]
-  affiliations: [vyalendra2]
+  affiliations: {vyalendra2: {}}
   gender: male
   species: humanflk
   born: 683.299

@@ -13,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [solheim]
-  affiliations: [hlykngdmnrtm]
+  affiliations: {hlykngdmnrtm: {}}
   gender: male
   species: humanflk
   born: 669.245

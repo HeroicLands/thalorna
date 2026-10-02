@@ -13,7 +13,7 @@ data:
   lore: []
   culture: provenzianclt
   homes: [provenzrgn]
-  affiliations: [slntlncmpny, kngdmprvnz]
+  affiliations: {slntlncmpny: {}, kngdmprvnz: {}}
   gender: male
   species: humanflk
   born: 692.160

@@ -13,7 +13,7 @@ data:
   lore: []
   culture: helioniteclt
   homes: [theradon2]
-  affiliations: [theradon]
+  affiliations: {theradon: {}}
   gender: male
   species: humanflk
   born: 679.81

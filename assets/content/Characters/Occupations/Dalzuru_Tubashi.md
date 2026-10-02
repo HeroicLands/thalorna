@@ -13,7 +13,7 @@ data:
   lore: []
   culture: haradianclt
   homes: [kethara2]
-  affiliations: [cnfdrtnhrdnstts]
+  affiliations: {cnfdrtnhrdnstts: {}}
   gender: male
   species: humanflk
   born: 677.138
