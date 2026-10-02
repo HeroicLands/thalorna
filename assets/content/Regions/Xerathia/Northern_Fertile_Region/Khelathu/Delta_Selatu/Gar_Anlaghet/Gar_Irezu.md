@@ -4,8 +4,20 @@ name: {full: Gar-Irezu, aliases: []}
 type: place
 subType: settlement
 description: "A channel village of the Gar-Anlaghet marshes, of a few hundred to a couple of thousand, working the water and the ferry-traffic the harbour cannot be bothered with"
-tags: [generated]
-data: {packFolder: regkhsett, banner: khelathubnr}
+tags: [generated, draft]
+data:
+  demonym: null
+  lore: []
+  parents: [garanlghtslt]
+  population: 0
+  packFolder: regkhsett
+  banner: khelathubnr
 ---
 
-A channel village of the Gar-Anlaghet marshes, of a few hundred to a couple of thousand, working the water and the ferry-traffic the harbour cannot be bothered with.
+## Overview
+
+Gar-Irezu stands in the marshes of [[place-garanlghtslt|Gar-Anlaghet Selat]], a few hundred to a couple of thousand people working channels too small for the great port of [[place-garanlaghet|Gar-Anlaghet]] to trouble with. It lives on the ferry-traffic and the water-work the harbour leaves behind. What the port will not carry, Gar-Irezu usually will, for a price the port would never charge.
+
+## See Also
+
+TBD.
