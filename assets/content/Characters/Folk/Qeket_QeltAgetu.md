@@ -4,8 +4,36 @@ name: {full: Qeket Qelt'Agetu, aliases: []}
 type: being
 subType: npc
 description: "An elder noblewoman whose memory of who owes what to whom is longer than the records, and better organised"
-tags: [generated]
-data: {archetypes: [courtier, scholar], packFolder: regkhfolk, homes: [galezkara]}
+tags: [generated, draft]
+data:
+  icon: icon-person
+  templatePriority: null
+  archetypes: [courtier, scholar]
+  occupation: ""
+  lore: []
+  culture: khelathiclt
+  homes: [galezkara]
+  affiliations: {}
+  gender: "female"
+  species: humanflk
+  born: "678.311"
+  died: null
+  height: 1.72
+  weight: 67
+  frame: medium
+  appearance:
+    eye_color: hazel
+    hair_color: dark_brown
+    skin_color: dark
+    complexion: ""
+    extra_features: []
+  packFolder: regkhfolk
 ---
 
-An elder noblewoman whose memory of who owes what to whom is longer than the records, and better organised.
+# Appearance {#appearance}
+
+Qeket Qelt'Agetu is a 41-year-old woman who stands 5'8" tall and has an average build. Her eyes are hazel and her skin is dark. Her hair is dark brown.
+
+# Dossier {#dossier}
+
+Qeket Qelt'Agetu is an elder noblewoman of [[place-galezkara|Galezkara]], whose memory of who owes what to whom outlasts the written records. It is also better organised than the records, which she will say plainly if asked. Anyone settling an old debt in the capital checks her memory before they check the ledger.

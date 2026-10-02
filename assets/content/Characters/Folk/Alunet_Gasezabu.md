@@ -4,8 +4,36 @@ name: {full: Alûnet Gasezabu, aliases: []}
 type: being
 subType: npc
 description: "A lord of the capital, dead some years, whose line produced centuries of administrators, generals and patrons of the arts"
-tags: [generated]
-data: {archetypes: [courtier], packFolder: regkhfolk, homes: [galezkara]}
+tags: [generated, draft]
+data:
+  icon: icon-person
+  templatePriority: null
+  archetypes: [courtier]
+  occupation: "Nobleman"
+  lore: []
+  culture: khelathiclt
+  homes: [galezkara]
+  affiliations: {}
+  gender: "male"
+  species: humanflk
+  born: "679.030"
+  died: unknown
+  height: 1.88
+  weight: 89
+  frame: large
+  appearance:
+    eye_color: brown
+    hair_color: dark_brown
+    skin_color: dark
+    complexion: ""
+    extra_features: []
+  packFolder: regkhfolk
 ---
 
-A lord of the capital, dead some years, whose line produced centuries of administrators, generals and patrons of the arts.
+# Appearance {#appearance}
+
+Alûnet Gasezabu is a 40-year-old man who stands 6'2" tall and has a heavy build. His eyes are brown and his skin is dark. His hair is dark brown.
+
+# Dossier {#dossier}
+
+Alûnet Gasezabu was a lord of [[place-galezkara|Galezkara]], dead some years now. His line did not end with him: it has produced generations of administrators, generals and patrons of the arts who still answer for the name. Anyone establishing a family's credentials in the capital eventually traces them back to him.

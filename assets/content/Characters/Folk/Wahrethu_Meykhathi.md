@@ -4,8 +4,36 @@ name: {full: Wahrethu Meykhathi, aliases: []}
 type: being
 subType: npc
 description: "The Meykhathi clan's most respected tracker, keeper of sacred hunting grounds, and father to a daughter who outshot him by thirteen"
-tags: [generated]
-data: {archetypes: [woodsman, skirmisher], packFolder: regkhfolk, homes: [anlaghzetun]}
+tags: [generated, draft]
+data:
+  icon: icon-person
+  templatePriority: null
+  archetypes: [woodsman, skirmisher]
+  occupation: "Tracker"
+  lore: []
+  culture: khelathiclt
+  homes: [anlaghzetun]
+  affiliations: {}
+  gender: "male"
+  species: humanflk
+  born: "680.159"
+  died: null
+  height: 1.76
+  weight: 70
+  frame: medium
+  appearance:
+    eye_color: dark_brown
+    hair_color: dark_brown
+    skin_color: tawny
+    complexion: weathered
+    extra_features: []
+  packFolder: regkhfolk
 ---
 
-The Meykhathi clan's most respected tracker, keeper of sacred hunting grounds, and father to a daughter who outshot him by thirteen.
+# Appearance {#appearance}
+
+Wahrethu Meykhathi is a 39-year-old man who stands 5'9" tall and has an average build. His eyes are dark brown and his skin is tawny, weathered by years of it. His hair is dark brown.
+
+# Dossier {#dossier}
+
+Wahrethu Meykhathi tracks for the Meykhathi clan out of [[place-anlaghzetun|Anlagh-Zetûn]], and keeps the clan's sacred hunting grounds besides. He is the most respected tracker the clan has, a title his daughter has already begun to challenge: she outshot him by thirteen. The clan now measures both trackers against each other, whatever his record was before that.

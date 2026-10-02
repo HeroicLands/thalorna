@@ -4,8 +4,36 @@ name: {full: Legirtari, aliases: []}
 type: being
 subType: npc
 description: "A high priestess and patron, whose relationship with the artisan she funds is the subject of rumours neither of them troubles to deny"
-tags: [generated]
-data: {archetypes: [cleric, courtier], packFolder: regkhfolk, homes: [galezkara]}
+tags: [generated, draft]
+data:
+  icon: icon-person
+  templatePriority: null
+  archetypes: [cleric, courtier]
+  occupation: "High Priestess"
+  lore: []
+  culture: khelathiclt
+  homes: [galezkara]
+  affiliations: {}
+  gender: "female"
+  species: humanflk
+  born: "670.169"
+  died: null
+  height: 1.83
+  weight: 80
+  frame: large
+  appearance:
+    eye_color: hazel
+    hair_color: black
+    skin_color: dark
+    complexion: ""
+    extra_features: []
+  packFolder: regkhfolk
 ---
 
-A high priestess and patron, whose relationship with the artisan she funds is the subject of rumours neither of them troubles to deny.
+# Appearance {#appearance}
+
+Legirtari is a 49-year-old woman who stands 6' tall and has a heavy build. Her eyes are hazel and her skin is dark. Her hair is black.
+
+# Dossier {#dossier}
+
+Legirtari serves as a high priestess and patron out of [[place-galezkara|Galezkara]]. Her relationship with the artisan she funds is the subject of rumours that neither of them troubles to deny. Whatever the truth of it, the funding has not stopped, and neither have the rumours.

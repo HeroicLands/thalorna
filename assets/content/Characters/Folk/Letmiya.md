@@ -4,8 +4,36 @@ name: {full: Letmiya, aliases: []}
 type: being
 subType: npc
 description: "Head of a major trading concern, whose discretion is worth as much to her clients as her prices"
-tags: [generated]
-data: {archetypes: [trader], packFolder: regkhfolk, homes: [galezkara]}
+tags: [generated, draft]
+data:
+  icon: icon-person
+  templatePriority: null
+  archetypes: [trader]
+  occupation: "Head of a Trading Concern"
+  lore: []
+  culture: khelathiclt
+  homes: [galezkara]
+  affiliations: {}
+  gender: "female"
+  species: humanflk
+  born: "682.322"
+  died: null
+  height: 1.85
+  weight: 77
+  frame: large
+  appearance:
+    eye_color: dark_brown
+    hair_color: black
+    skin_color: golden
+    complexion: ""
+    extra_features: []
+  packFolder: regkhfolk
 ---
 
-Head of a major trading concern, whose discretion is worth as much to her clients as her prices.
+# Appearance {#appearance}
+
+Letmiya is a 37-year-old woman who stands 6'1" tall and has a heavy build. Her eyes are dark brown and her skin is golden. Her hair is black.
+
+# Dossier {#dossier}
+
+Letmiya heads a major trading concern out of [[place-galezkara|Galezkara]]. Her discretion is worth as much to her clients as her prices are, sometimes more. A client paying for silence finds Letmiya keeps it as reliably as she keeps the accounts.

@@ -4,8 +4,36 @@ name: {full: Lekhebu, aliases: []}
 type: being
 subType: npc
 description: "A merchant-prince dealing in fine furnishings, supplying the houses that want to be seen to have the best"
-tags: [generated]
-data: {archetypes: [trader], packFolder: regkhfolk, homes: [khelzuret]}
+tags: [generated, draft]
+data:
+  icon: icon-person
+  templatePriority: null
+  archetypes: [trader]
+  occupation: "Merchant-Prince"
+  lore: []
+  culture: khelathiclt
+  homes: [khelzuret]
+  affiliations: {}
+  gender: ""
+  species: humanflk
+  born: "680.177"
+  died: null
+  height: 1.9
+  weight: 92
+  frame: massive
+  appearance:
+    eye_color: dark_brown
+    hair_color: black
+    skin_color: dark
+    complexion: ""
+    extra_features: []
+  packFolder: regkhfolk
 ---
 
-A merchant-prince dealing in fine furnishings, supplying the houses that want to be seen to have the best.
+# Appearance {#appearance}
+
+Lekhebu is a 39-year-old person who stands 6'3" tall and has a massive, powerful build. Their eyes are dark brown and their skin is dark. Their hair is black.
+
+# Dossier {#dossier}
+
+Lekhebu deals in fine furnishings out of [[place-khelzuret|Khelzuret]], supplying the houses that want to be seen owning the best. Being seen with the goods matters to the clients as much as owning them does. Lekhebu's furnishings end up, consequently, in every house whose owner cares what is noticed.

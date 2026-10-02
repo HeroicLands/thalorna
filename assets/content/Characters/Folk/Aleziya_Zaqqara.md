@@ -4,8 +4,36 @@ name: {full: Aleziya Zaqqara, aliases: []}
 type: being
 subType: npc
 description: "A merchant's widow of considerable means, who manages what her husband left and is courted by everyone who wants a share of it"
-tags: [generated]
-data: {archetypes: [trader], packFolder: regkhfolk, homes: [galezkara]}
+tags: [generated, draft]
+data:
+  icon: icon-person
+  templatePriority: null
+  archetypes: [trader]
+  occupation: "Merchant"
+  lore: []
+  culture: khelathiclt
+  homes: [galezkara]
+  affiliations: {}
+  gender: "female"
+  species: humanflk
+  born: "688.318"
+  died: null
+  height: 1.69
+  weight: 68
+  frame: medium
+  appearance:
+    eye_color: black
+    hair_color: black
+    skin_color: rich_brown
+    complexion: ""
+    extra_features: []
+  packFolder: regkhfolk
 ---
 
-A merchant's widow of considerable means, who manages what her husband left and is courted by everyone who wants a share of it.
+# Appearance {#appearance}
+
+Aleziya Zaqqara is a 31-year-old woman who stands 5'7" tall and has an average build. Her eyes are black and her skin is rich brown. Her hair is black.
+
+# Dossier {#dossier}
+
+Aleziya Zaqqara keeps her late husband's trading concern running from [[place-galezkara|Galezkara]], and keeps it running well. Her wealth draws a line of suitors to her door, each with an interest in the business as much as in the widow. She has learned to read which interest comes first, and the ones who fail that test are shown out quickly.

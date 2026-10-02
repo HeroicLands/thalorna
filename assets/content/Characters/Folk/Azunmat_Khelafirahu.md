@@ -4,8 +4,36 @@ name: {full: Azûnmat Khelâfirahu, aliases: []}
 type: being
 subType: npc
 description: "Steersman of the Zeghet'Nelgu and leader of the sacred hunt, holding a company that the temple priesthood would rather see disbanded"
-tags: [generated]
-data: {archetypes: [mariner], packFolder: regkhfolk, homes: [galezkara]}
+tags: [generated, draft]
+data:
+  icon: icon-person
+  templatePriority: null
+  archetypes: [mariner]
+  occupation: "Steersman of the Zeghet'Nelgu"
+  lore: []
+  culture: khelathiclt
+  homes: [galezkara]
+  affiliations: {}
+  gender: ""
+  species: humanflk
+  born: "678.120"
+  died: null
+  height: 1.79
+  weight: 70
+  frame: medium
+  appearance:
+    eye_color: black
+    hair_color: black
+    skin_color: dark
+    complexion: weathered
+    extra_features: []
+  packFolder: regkhfolk
 ---
 
-Steersman of the Zeghet'Nelgu and leader of the sacred hunt, holding a company that the temple priesthood would rather see disbanded.
+# Appearance {#appearance}
+
+Azûnmat Khelâfirahu is a 41-year-old person who stands 5'10" tall and has an average build. Their eyes are black and their skin is dark, weathered by years of it. Their hair is black.
+
+# Dossier {#dossier}
+
+Azûnmat Khelâfirahu steers for the [[affiliation-zeghetnelgu|Zeghet'Nelgu]] out of [[place-galezkara|Galezkara]] and leads the sacred hunt itself. The company under this leadership is one the temple priesthood would rather see disbanded than renewed. Anyone measuring the hunt's standing with the temple starts with that disagreement.
