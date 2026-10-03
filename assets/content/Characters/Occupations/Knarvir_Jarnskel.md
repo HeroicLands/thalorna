@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [thraldfjord]
-  affiliations: {kngdmnrdhm: {}}
+  affiliations: {kngdmnrdhm: {rank: 3}}
   gender: male
   species: humanflk
   born: 666.118

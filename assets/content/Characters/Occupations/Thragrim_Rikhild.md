@@ -16,7 +16,7 @@ data:
   affiliations: {vrystwldtrbs: {rank: 3}}
   gender: male
   species: humanflk
-  born: 672.36
+  born: "672.36"
   height: 1.91
   weight: 85
   frame: heavy

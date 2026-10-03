@@ -13,10 +13,10 @@ data:
   lore: []
   culture: helioniteclt
   homes: [thyrenae2]
-  affiliations: {thyrenae: {}}
+  affiliations: {thyrenae: {rank: 4}}
   gender: male
   species: humanflk
-  born: 674.22
+  born: "674.22"
   height: 1.8
   weight: 74
   frame: medium

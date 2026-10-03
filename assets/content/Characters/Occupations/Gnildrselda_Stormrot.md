@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [nalthmark]
-  affiliations: {kngdmnrdhm: {}}
+  affiliations: {kngdmnrdhm: {rank: 4}}
   gender: female
   species: humanflk
   born: 683.247

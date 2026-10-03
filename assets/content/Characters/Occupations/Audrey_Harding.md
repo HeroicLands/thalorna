@@ -13,10 +13,10 @@ data:
   lore: []
   culture: aelwythanclt
   homes: [greywater]
-  affiliations: {kngdmldrth: {}}
+  affiliations: {kngdmldrth: {rank: 5}}
   gender: female
   species: humanflk
-  born: 689.18
+  born: "689.18"
   height: 1.68
   weight: 64
   frame: medium

@@ -13,10 +13,10 @@ data:
   lore: []
   culture: elavendriclt
   homes: [liranel]
-  affiliations: {kngdmlvndr: {}}
+  affiliations: {kngdmlvndr: {rank: 2}}
   gender: female
   species: humanflk
-  born: 687.12
+  born: "687.12"
   height: 1.73
   weight: 70
   frame: medium

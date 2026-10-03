@@ -13,10 +13,10 @@ data:
   lore: []
   culture: elavendriclt
   homes: [cerdwnshlw]
-  affiliations: {kngdmlvndr: {}}
+  affiliations: {kngdmlvndr: {rank: 2}}
   gender: female
   species: humanflk
-  born: 674.100
+  born: "674.100"
   height: 1.83
   weight: 72
   frame: medium

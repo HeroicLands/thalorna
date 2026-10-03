@@ -13,10 +13,10 @@ data:
   lore: []
   culture: haradianclt
   homes: [kethara2]
-  affiliations: {cnfdrtnhrdnstts: {}}
+  affiliations: {cnfdrtnhrdnstts: {rank: 3}}
   gender: male
   species: humanflk
-  born: 670.34
+  born: "670.34"
   height: 1.83
   weight: 84
   frame: heavy

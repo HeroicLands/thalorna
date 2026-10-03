@@ -13,10 +13,10 @@ data:
   lore: []
   culture: byzarianclt
   homes: [byzariargn]
-  affiliations: {byzarianlg: {}}
+  affiliations: {byzarianlg: {rank: 3}}
   gender: male
   species: humanflk
-  born: 690.350
+  born: "690.350"
   height: 1.96
   weight: 112
   frame: massive

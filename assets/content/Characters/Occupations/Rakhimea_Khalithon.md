@@ -13,7 +13,7 @@ data:
   lore: []
   culture: helioniteclt
   homes: [athenikos2]
-  affiliations: {athenikos: {}}
+  affiliations: {athenikos: {rank: 4}}
   gender: female
   species: humanflk
   born: 695.157

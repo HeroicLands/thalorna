@@ -13,10 +13,10 @@ data:
   lore: []
   culture: haradianclt
   homes: [qadhirun]
-  affiliations: {cnfdrtnhrdnstts: {}}
+  affiliations: {cnfdrtnhrdnstts: {rank: 3}}
   gender: male
   species: humanflk
-  born: 682.190
+  born: "682.190"
   height: 1.78
   weight: 78
   frame: heavy

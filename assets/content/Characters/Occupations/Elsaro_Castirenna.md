@@ -13,10 +13,10 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [torreviga]
-  affiliations: {kingdmtrvn: {}}
+  affiliations: {kingdmtrvn: {rank: 2}}
   gender: male
   species: humanflk
-  born: 693.30
+  born: "693.30"
   height: 1.83
   weight: 75
   frame: medium

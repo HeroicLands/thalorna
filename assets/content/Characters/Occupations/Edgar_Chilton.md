@@ -13,10 +13,10 @@ data:
   lore: []
   culture: aelwythanclt
   homes: [caerwynd]
-  affiliations: {kngdmldrth: {}}
+  affiliations: {kngdmldrth: {rank: 2}}
   gender: male
   species: humanflk
-  born: 679.9
+  born: "679.9"
   height: 1.7
   weight: 64
   frame: medium

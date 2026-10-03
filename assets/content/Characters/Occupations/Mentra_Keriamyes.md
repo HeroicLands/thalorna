@@ -13,10 +13,10 @@ data:
   lore: []
   culture: vylarianclt
   homes: [belekos]
-  affiliations: {vylarinmpr: {}}
+  affiliations: {vylarinmpr: {rank: 4}}
   gender: female
   species: humanflk
-  born: 693.110
+  born: "693.110"
   height: 1.78
   weight: 71
   frame: light

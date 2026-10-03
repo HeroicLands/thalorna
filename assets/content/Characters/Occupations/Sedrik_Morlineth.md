@@ -13,10 +13,10 @@ data:
   lore: []
   culture: elavendriclt
   homes: [liranel]
-  affiliations: {kngdmlvndr: {}}
+  affiliations: {kngdmlvndr: {rank: 2}}
   gender: male
   species: humanflk
-  born: 671.14
+  born: "671.14"
   height: 1.91
   weight: 87
   frame: heavy
