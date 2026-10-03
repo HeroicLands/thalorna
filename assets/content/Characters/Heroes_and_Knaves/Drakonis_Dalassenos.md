@@ -13,10 +13,10 @@ data:
   lore: []
   culture: byzarianclt
   homes: [yesilhan2]
-  affiliations: {byzarianlg: {}}
+  affiliations: {byzarianlg: {rank: 3}}
   gender: male
   species: humanflk
-  born: 668.32
+  born: "668.32"
   height: 1.83
   weight: 80.3
   frame: heavy

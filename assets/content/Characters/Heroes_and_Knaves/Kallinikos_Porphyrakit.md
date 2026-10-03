@@ -13,7 +13,7 @@ data:
   lore: []
   culture: byzarianclt
   homes: [yesilhan2]
-  affiliations: {byzarianlg: {}}
+  affiliations: {byzarianlg: {rank: 3}}
   gender: male
   species: humanflk
   born: 681.88

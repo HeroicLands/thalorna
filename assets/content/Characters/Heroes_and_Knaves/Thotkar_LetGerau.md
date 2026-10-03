@@ -14,10 +14,10 @@ data:
   lore: []
   culture: khelathiclt
   homes: [amqelulegez]
-  affiliations: {empireakhlth: {}}
+  affiliations: {empireakhlth: {rank: 4}}
   gender: male
   species: humanflk
-  born: 672.260
+  born: "672.260"
   height: 1.78
   weight: 66.7
   frame: heavy

@@ -13,10 +13,10 @@ data:
   lore: []
   culture: aelwythanclt
   homes: [kingsholow]
-  affiliations: {kngdmldrth: {}}
+  affiliations: {kngdmldrth: {rank: 5}}
   gender: male
   species: humanflk
-  born: 691.34
+  born: "691.34"
   height: 1.83
   weight: 74
   frame: medium

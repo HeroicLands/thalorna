@@ -13,10 +13,10 @@ data:
   lore: []
   culture: vedyariclt
   homes: [suvarnagiri]
-  affiliations: {suvrgrjnpd: {}}
+  affiliations: {suvrgrjnpd: {rank: 6}}
   gender: male
   species: humanflk
-  born: 687.34
+  born: "687.34"
   height: 1.83
   weight: 73.9
   frame: medium

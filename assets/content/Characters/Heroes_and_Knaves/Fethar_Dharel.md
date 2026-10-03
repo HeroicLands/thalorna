@@ -14,7 +14,7 @@ data:
   lore: []
   culture: provenzianclt
   homes: [provenzrgn]
-  affiliations: {thetamzir: {}, kngdmprvnz: {}}
+  affiliations: {thetamzir: {rank: 3}, kngdmprvnz: {rank: 2}}
   gender: male
   species: humanflk
   born: 685.142

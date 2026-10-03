@@ -13,10 +13,10 @@ data:
   lore: []
   culture: nyalubaclt
   homes: [fenjaravlg]
-  affiliations: {nylbtrblntn: {}}
+  affiliations: {nylbtrblntn: {rank: 3}}
   gender: male
   species: humanflk
-  born: 692.32
+  born: "692.32"
   height: 1.88
   weight: 90.7
   frame: heavy

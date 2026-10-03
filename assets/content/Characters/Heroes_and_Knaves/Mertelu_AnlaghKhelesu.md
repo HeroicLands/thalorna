@@ -14,10 +14,10 @@ data:
   lore: []
   culture: khelathiclt
   homes: [garanlaghet]
-  affiliations: {empireakhlth: {}}
+  affiliations: {empireakhlth: {rank: 3}}
   gender: female
   species: humanflk
-  born: 674.100
+  born: "674.100"
   height: 1.83
   weight: 71.7
   frame: medium

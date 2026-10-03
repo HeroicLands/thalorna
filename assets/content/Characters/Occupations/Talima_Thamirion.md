@@ -13,7 +13,7 @@ data:
   lore: []
   culture: helioniteclt
   homes: [korinthea2]
-  affiliations: {korinthea: {}}
+  affiliations: {korinthea: {rank: 4}}
   gender: female
   species: humanflk
   born: 698.94

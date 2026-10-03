@@ -13,10 +13,10 @@ data:
   lore: []
   culture: vylarianclt
   homes: [nartum]
-  affiliations: {hlykngdmnrtm: {}}
+  affiliations: {hlykngdmnrtm: {rank: 2}}
   gender: male
   species: humanflk
-  born: 688.250
+  born: "688.250"
   height: 1.85
   weight: 80.7
   frame: medium

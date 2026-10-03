@@ -13,11 +13,11 @@ data:
   lore: []
   culture: byzarianclt
   homes: [kostaros]
-  affiliations: {byzarianlg: {}}
+  affiliations: {byzarianlg: {rank: 3}}
   socialTies: {affiliation-irnwlvscmpny: nemesis}
   gender: male
   species: humanflk
-  born: 670.34
+  born: "670.34"
   height: 1.83
   weight: 83.9
   frame: heavy

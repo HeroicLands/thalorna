@@ -14,7 +14,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [nrdlndsrgn]
-  affiliations: {thetamzir: {}, kngdmnrdhm: {}}
+  affiliations: {thetamzir: {rank: 2}, kngdmnrdhm: {rank: 2}}
   gender: female
   species: humanflk
   born: 694.47

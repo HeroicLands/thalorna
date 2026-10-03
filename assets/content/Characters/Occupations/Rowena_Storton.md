@@ -13,7 +13,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: [ravenmoor]
-  affiliations: {kingdmdnvr: {}}
+  affiliations: {kingdmdnvr: {rank: 2}}
   gender: female
   species: humanflk
   born: 692.262

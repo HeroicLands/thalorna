@@ -13,10 +13,10 @@ data:
   lore: []
   culture: bethuanclt
   homes: [bethura]
-  affiliations: {mtrrchybth: {}}
+  affiliations: {mtrrchybth: {rank: 3}}
   gender: female
   species: humanflk
-  born: 694.4
+  born: "694.4"
   height: 1.68
   weight: 59
   frame: light

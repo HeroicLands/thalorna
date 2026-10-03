@@ -13,10 +13,10 @@ data:
   lore: []
   culture: helioniteclt
   homes: [kalydria2]
-  affiliations: {kalydria: {}}
+  affiliations: {kalydria: {rank: 4}}
   gender: female
   species: humanflk
-  born: 690.90
+  born: "690.90"
   height: 1.8
   weight: 73
   frame: medium

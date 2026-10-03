@@ -14,7 +14,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [galezkara]
-  affiliations: {empireakhlth: {}}
+  affiliations: {empireakhlth: {rank: 3}}
   socialTies: {being-lekhebur2: rival, being-thema2: patron}
   gender: male
   species: humanflk

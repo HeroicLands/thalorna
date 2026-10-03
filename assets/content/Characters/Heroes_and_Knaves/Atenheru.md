@@ -17,7 +17,7 @@ data:
   lore: []
   culture: dunhariclt
   homes: [kharalsulr]
-  affiliations: {dunhartrbs: {}}
+  affiliations: {dunhartrbs: {rank: 3}}
   gender: male
   species: humanflk
   born: 679.59

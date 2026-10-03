@@ -14,10 +14,10 @@ data:
   lore: []
   culture: khelathiclt
   homes: [khelzuret]
-  affiliations: {empireakhlth: {}}
+  affiliations: {empireakhlth: {rank: 3}}
   gender: female
   species: humanflk
-  born: 692.32
+  born: "692.32"
   height: 1.68
   weight: 63.5
   frame: light

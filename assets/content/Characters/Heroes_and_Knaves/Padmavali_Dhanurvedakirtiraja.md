@@ -17,7 +17,7 @@ data:
   lore: []
   culture: vedyariclt
   homes: [suvarnagiri]
-  affiliations: {suvrgrjnpd: {}}
+  affiliations: {suvrgrjnpd: {rank: 3}}
   gender: female
   species: humanflk
   born: 689.171

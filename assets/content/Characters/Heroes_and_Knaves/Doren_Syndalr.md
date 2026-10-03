@@ -13,10 +13,10 @@ data:
   lore: []
   culture: provenzianclt
   homes: [provenzrgn]
-  affiliations: {slntlncmpny: {}, kngdmprvnz: {}}
+  affiliations: {slntlncmpny: {rank: 3}, kngdmprvnz: {rank: 2}}
   gender: male
   species: humanflk
-  born: 692.160
+  born: "692.160"
   height: 1.93
   weight: 98
   frame: heavy

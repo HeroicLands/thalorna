@@ -14,7 +14,7 @@ data:
   lore: []
   culture: haradianclt
   homes: [haradregin]
-  affiliations: {thetamzir: {rank: 7, office: Captain}, cnfdrtnhrdnstts: {}}
+  affiliations: {thetamzir: {rank: 7, office: Captain}, cnfdrtnhrdnstts: {rank: 3}}
   gender: male
   species: humanflk
   born: 680.191
