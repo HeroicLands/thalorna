@@ -23,7 +23,7 @@ data:
   appearance:
     eye_color: brown
     hair_color: black
-    skin_color: warm
+    skin_color: golden
     complexion: null
     extra_features: [a scar running across the stomach]
   packFolder: northernfertileregionbethua

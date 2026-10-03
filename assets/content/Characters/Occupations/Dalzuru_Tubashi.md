@@ -24,7 +24,7 @@ data:
     eye_color: hazel
     hair_color: dark_brown
     skin_color: medium
-    complexion: olive_toned
+    complexion: null
     extra_features: [a tattoo of a falcon on the right arm]
   packFolder: midhalionharad
 sohl:

@@ -24,7 +24,7 @@ data:
   appearance:
     eye_color: brown
     hair_color: gray
-    skin_color: dark
+    skin_color: dark_brown
     complexion: weathered
     extra_features: [a tattoo of a bird in flight on the left shoulder]
   packFolder: regkhhk

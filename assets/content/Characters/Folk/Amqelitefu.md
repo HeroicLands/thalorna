@@ -5,7 +5,7 @@ type: being
 subType: npc
 description: "A kitchen servant who takes outside work reordering the households of other noble families, and resents the steward who will not promote her"
 tags: [generated]
-data: {archetypes: [commoner], packFolder: regkhfolk, homes: [amqelulegez]}
+data: {archetypes: [commoner], packFolder: regkhfolk, homes: [amqelulegez], gender: female}
 ---
 
 A kitchen servant who takes outside work reordering the households of other noble families, and resents the steward who will not promote her.

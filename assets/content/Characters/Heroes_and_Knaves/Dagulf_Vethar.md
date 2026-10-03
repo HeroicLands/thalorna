@@ -24,7 +24,7 @@ data:
     eye_color: blue
     hair_color: brown
     skin_color: medium
-    complexion: medium
+    complexion: null
     extra_features: [Pox marks]
   packFolder: ankarisvrystwald
 sohl:

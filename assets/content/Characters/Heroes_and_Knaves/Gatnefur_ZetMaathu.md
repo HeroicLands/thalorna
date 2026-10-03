@@ -24,7 +24,7 @@ data:
   appearance:
     eye_color: brown
     hair_color: black
-    skin_color: dark
+    skin_color: dark_brown
     complexion: null
     extra_features: [a scar on the left side of the neck]
   packFolder: regkhhk

@@ -24,7 +24,7 @@ data:
     eye_color: brown
     hair_color: black
     skin_color: medium
-    complexion: bronzed
+    complexion: sun_kissed
     extra_features: [a scar on the left ankle]
   packFolder: midhalionharad
 sohl:

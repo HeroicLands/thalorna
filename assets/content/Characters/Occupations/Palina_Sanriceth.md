@@ -24,7 +24,7 @@ data:
     eye_color: amber
     hair_color: dark_brown
     skin_color: tanned
-    complexion: rugged
+    complexion: weathered
     extra_features: [a scar running down the right leg]
   packFolder: aureldiatarvenia
 sohl:

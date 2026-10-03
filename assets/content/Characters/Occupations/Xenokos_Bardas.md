@@ -21,10 +21,10 @@ data:
   weight: 60
   frame: light
   appearance:
-    eye_color: honey_brown
+    eye_color: amber
     hair_color: dark_brown
     skin_color: pale
-    complexion: pale
+    complexion: null
     extra_features: [scar across forehead]
   packFolder: midhalionvylaria
 sohl:

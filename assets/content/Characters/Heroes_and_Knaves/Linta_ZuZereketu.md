@@ -22,7 +22,7 @@ data:
   weight: 70.3
   frame: medium
   appearance:
-    eye_color: honey_brown
+    eye_color: amber
     hair_color: black
     skin_color: tawny
     complexion: null

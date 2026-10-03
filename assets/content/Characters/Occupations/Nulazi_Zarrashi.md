@@ -23,8 +23,8 @@ data:
   appearance:
     eye_color: dark_brown
     hair_color: dark_brown
-    skin_color: warm
-    complexion: tanned
+    skin_color: tawny
+    complexion: sun_kissed
     extra_features: []
   packFolder: midhalionharad
 sohl:

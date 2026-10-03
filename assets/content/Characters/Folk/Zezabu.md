@@ -5,7 +5,7 @@ type: being
 subType: npc
 description: "A celebrated builder and engineer whose works stand, which in his trade is the whole of the argument"
 tags: [generated]
-data: {archetypes: [artisan], packFolder: regkhfolk, homes: [galezkara]}
+data: {archetypes: [artisan], packFolder: regkhfolk, homes: [galezkara], gender: male}
 ---
 
 A celebrated builder and engineer whose works stand, which in his trade is the whole of the argument.

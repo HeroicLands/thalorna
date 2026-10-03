@@ -24,7 +24,7 @@ data:
     eye_color: gray
     hair_color: silver
     skin_color: light
-    complexion: pale
+    complexion: null
     extra_features: [a tattoo of a dolphin on the left wrist]
   packFolder: ankarisnordlands
 sohl:

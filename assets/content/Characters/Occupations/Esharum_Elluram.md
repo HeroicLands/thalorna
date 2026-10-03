@@ -23,8 +23,8 @@ data:
   appearance:
     eye_color: brown
     hair_color: black
-    skin_color: warm
-    complexion: olive_toned
+    skin_color: tawny
+    complexion: null
     extra_features: [a tattoo of a waterfall on the shoulder]
   packFolder: midhalionharad
 sohl:

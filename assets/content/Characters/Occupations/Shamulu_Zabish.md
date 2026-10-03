@@ -24,7 +24,7 @@ data:
     eye_color: hazel
     hair_color: gray
     skin_color: olive
-    complexion: medium
+    complexion: null
     extra_features: []
   packFolder: midhalionharad
 sohl:

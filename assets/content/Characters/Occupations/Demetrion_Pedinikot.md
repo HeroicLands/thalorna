@@ -21,10 +21,10 @@ data:
   weight: 73
   frame: medium
   appearance:
-    eye_color: dark_amber
+    eye_color: amber
     hair_color: dark_blonde
     skin_color: olive
-    complexion: fair
+    complexion: null
     extra_features: [deep-set eyes]
   packFolder: helladbyzaria
 sohl:

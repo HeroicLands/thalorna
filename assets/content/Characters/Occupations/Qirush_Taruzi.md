@@ -23,8 +23,8 @@ data:
   appearance:
     eye_color: brown
     hair_color: dark_brown
-    skin_color: warm_golden
-    complexion: olive_toned
+    skin_color: golden
+    complexion: null
     extra_features: [a scar running down the right leg]
   packFolder: midhalionharad
 sohl:

@@ -5,7 +5,7 @@ type: being
 subType: npc
 description: "Father to a locksmith, of no particular distinction or wealth, who gave his son a trade and little else"
 tags: [generated]
-data: {archetypes: [artisan], packFolder: regkhfolk, homes: [galezkara]}
+data: {archetypes: [artisan], packFolder: regkhfolk, homes: [galezkara], gender: male}
 ---
 
 Father to a locksmith, of no particular distinction or wealth, who gave his son a trade and little else.

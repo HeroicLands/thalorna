@@ -21,9 +21,9 @@ data:
   weight: 67.1
   frame: medium
   appearance:
-    eye_color: dark_amber
+    eye_color: amber
     hair_color: black
-    skin_color: olive_tanned
+    skin_color: olive
     complexion: null
     extra_features: [a burn mark on the left hand]
   packFolder: sultanateofamradad

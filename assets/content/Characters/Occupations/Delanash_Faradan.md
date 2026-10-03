@@ -21,7 +21,7 @@ data:
   weight: 119
   frame: massive
   appearance:
-    eye_color: honey_brown
+    eye_color: amber
     hair_color: chestnut
     skin_color: medium
     complexion: freckled

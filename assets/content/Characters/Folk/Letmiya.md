@@ -5,7 +5,7 @@ type: being
 subType: npc
 description: "Head of a major trading concern, whose discretion is worth as much to her clients as her prices"
 tags: [generated]
-data: {archetypes: [trader], packFolder: regkhfolk, homes: [galezkara]}
+data: {archetypes: [trader], packFolder: regkhfolk, homes: [galezkara], gender: female}
 ---
 
 Head of a major trading concern, whose discretion is worth as much to her clients as her prices.

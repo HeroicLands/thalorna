@@ -23,7 +23,7 @@ data:
   appearance:
     eye_color: brown
     hair_color: black
-    skin_color: warm
+    skin_color: olive
     complexion: null
     extra_features: []
   packFolder: helladbyzaria

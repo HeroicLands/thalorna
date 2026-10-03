@@ -24,7 +24,7 @@ data:
     eye_color: green
     hair_color: graying_black
     skin_color: light
-    complexion: tanned
+    complexion: sun_kissed
     extra_features: []
   packFolder: helladbyzaria
 sohl:

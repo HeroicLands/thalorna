@@ -23,7 +23,7 @@ data:
   appearance:
     eye_color: green
     hair_color: gray
-    skin_color: warm
+    skin_color: tawny
     complexion: sun_kissed
     extra_features: [a tattoo of a horse on the thigh]
   packFolder: midhalionharad

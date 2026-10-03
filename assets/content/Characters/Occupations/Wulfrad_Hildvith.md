@@ -24,7 +24,7 @@ data:
     eye_color: blue
     hair_color: white
     skin_color: light
-    complexion: rugged
+    complexion: weathered
     extra_features: []
   packFolder: ankarisvrystwald
 sohl:

@@ -22,9 +22,9 @@ data:
   weight: 72.6
   frame: light
   appearance:
-    eye_color: black
+    eye_color: dark_brown
     hair_color: black
-    skin_color: dark
+    skin_color: dark_brown
     complexion: null
     extra_features: [a tattoo of a spider on the shoulder]
   packFolder: regkhhk

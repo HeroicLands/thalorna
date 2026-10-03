@@ -21,7 +21,7 @@ data:
   weight: 80.3
   frame: medium
   appearance:
-    eye_color: dark_amber
+    eye_color: amber
     hair_color: black
     skin_color: dark_brown
     complexion: null

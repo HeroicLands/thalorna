@@ -21,10 +21,10 @@ data:
   weight: 66
   frame: light
   appearance:
-    eye_color: black
+    eye_color: dark_brown
     hair_color: gray
     skin_color: tanned
-    complexion: tanned
+    complexion: sun_kissed
     extra_features: [a tattoo of a tree on the back]
   packFolder: aureldiatarvenia
 sohl:

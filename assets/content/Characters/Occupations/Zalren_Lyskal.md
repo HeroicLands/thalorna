@@ -24,7 +24,7 @@ data:
     eye_color: blue
     hair_color: gray
     skin_color: medium
-    complexion: olive_toned
+    complexion: null
     extra_features: [a tattoo of a butterfly on the neck]
   packFolder: aureldiaprovenzia
 sohl:

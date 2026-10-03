@@ -24,7 +24,7 @@ data:
     eye_color: green
     hair_color: brown
     skin_color: olive
-    complexion: medium
+    complexion: null
     extra_features: []
   packFolder: aureldiaprovenzia
 sohl:

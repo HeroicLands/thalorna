@@ -24,7 +24,7 @@ data:
     eye_color: green
     hair_color: brown
     skin_color: light
-    complexion: fair
+    complexion: null
     extra_features: [a tattoo of a skull on the upper arm]
   packFolder: ankarisnordlands
 sohl:

@@ -27,8 +27,8 @@ data:
   appearance:
     eye_color: brown
     hair_color: black
-    skin_color: dark
-    complexion: tanned
+    skin_color: dark_brown
+    complexion: sun_kissed
     extra_features: []
   packFolder: northernfertileregionbethua
 sohl:

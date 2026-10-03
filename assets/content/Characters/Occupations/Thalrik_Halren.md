@@ -24,7 +24,7 @@ data:
     eye_color: green
     hair_color: blonde
     skin_color: pale
-    complexion: flawless
+    complexion: clear
     extra_features: [a scar along the jawline]
   packFolder: aureldiaelavendre
 sohl:

@@ -21,9 +21,9 @@ data:
   weight: 89.4
   frame: heavy
   appearance:
-    eye_color: warm_brown
+    eye_color: brown
     hair_color: black
-    skin_color: warm_golden
+    skin_color: golden
     complexion: null
     extra_features: [a scar on the right calf]
   packFolder: ankarisvedyara

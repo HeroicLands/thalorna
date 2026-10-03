@@ -23,8 +23,8 @@ data:
   appearance:
     eye_color: dark_brown
     hair_color: gray
-    skin_color: warm_golden
-    complexion: olive_toned
+    skin_color: golden
+    complexion: null
     extra_features: []
   packFolder: midhalionharad
 sohl:

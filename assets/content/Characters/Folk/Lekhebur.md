@@ -5,7 +5,7 @@ type: being
 subType: npc
 description: "A corrupt noble whose arrangements are widely suspected and nowhere documented"
 tags: [generated]
-data: {archetypes: [courtier], packFolder: regkhfolk, homes: [galezkara]}
+data: {archetypes: [courtier], packFolder: regkhfolk, homes: [galezkara], gender: female}
 ---
 
 A corrupt noble whose arrangements are widely suspected and nowhere documented.

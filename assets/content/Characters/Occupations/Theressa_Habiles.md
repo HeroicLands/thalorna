@@ -23,7 +23,7 @@ data:
   appearance:
     eye_color: blue
     hair_color: brown
-    skin_color: olive_tanned
+    skin_color: olive
     complexion: clear
     extra_features: [a tattoo of a butterfly on the neck]
   packFolder: helladhelionis

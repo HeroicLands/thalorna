@@ -24,7 +24,7 @@ data:
     eye_color: blue
     hair_color: dark_blonde
     skin_color: light
-    complexion: fair
+    complexion: null
     extra_features: [a scar on the right hand]
   packFolder: ankarisnordlands
 sohl:

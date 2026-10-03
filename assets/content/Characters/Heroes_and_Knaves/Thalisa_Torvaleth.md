@@ -23,7 +23,7 @@ data:
   appearance:
     eye_color: green
     hair_color: dark_brown
-    skin_color: warm
+    skin_color: olive
     complexion: null
     extra_features: [a tattoo of a wolf on the shoulder]
   packFolder: aureldiatarvenia

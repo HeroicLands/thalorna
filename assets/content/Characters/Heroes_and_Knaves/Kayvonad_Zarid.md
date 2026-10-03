@@ -21,11 +21,11 @@ data:
   weight: 50.8
   frame: medium
   appearance:
-    eye_color: dark_amber
-    hair_color: bald
+    eye_color: amber
+    hair_color: null
     skin_color: light
     complexion: null
-    extra_features: []
+    extra_features: [a bald head]
   packFolder: ankariskhazryndesert
 sohl:
   items:

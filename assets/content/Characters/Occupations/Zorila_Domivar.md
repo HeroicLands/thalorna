@@ -23,8 +23,8 @@ data:
   appearance:
     eye_color: amber
     hair_color: dark_brown
-    skin_color: olive_tanned
-    complexion: tanned
+    skin_color: olive
+    complexion: sun_kissed
     extra_features: []
   packFolder: aureldiatarvenia
 sohl:

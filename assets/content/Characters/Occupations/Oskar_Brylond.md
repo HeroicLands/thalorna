@@ -23,8 +23,8 @@ data:
   appearance:
     eye_color: gray
     hair_color: black
-    skin_color: warm
-    complexion: tanned
+    skin_color: tawny
+    complexion: sun_kissed
     extra_features: [a scar above the left eyebrow]
   packFolder: aureldiaprovenzia
 sohl:

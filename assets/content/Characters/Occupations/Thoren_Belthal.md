@@ -24,7 +24,7 @@ data:
     eye_color: green
     hair_color: chestnut
     skin_color: pale
-    complexion: flawless
+    complexion: clear
     extra_features: [a tattoo of a snake on the chest]
   packFolder: aureldiaelavendre
 sohl:

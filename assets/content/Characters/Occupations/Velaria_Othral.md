@@ -24,7 +24,7 @@ data:
     eye_color: hazel
     hair_color: blonde
     skin_color: medium
-    complexion: fair
+    complexion: null
     extra_features: []
   packFolder: aureldiaelavendre
 sohl:

@@ -23,7 +23,7 @@ data:
   appearance:
     eye_color: dark_brown
     hair_color: black
-    skin_color: warm_golden
+    skin_color: golden
     complexion: null
     extra_features: [a tattoo of a flower on the ankle]
   packFolder: ankarisvedyara

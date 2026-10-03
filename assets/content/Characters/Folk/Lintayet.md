@@ -5,7 +5,7 @@ type: being
 subType: npc
 description: "A priestess of Thubâ'i, who reads the river's rise and is believed when she says what the year will bring"
 tags: [generated]
-data: {archetypes: [cleric], packFolder: regkhfolk, homes: [amqelulegez]}
+data: {archetypes: [cleric], packFolder: regkhfolk, homes: [amqelulegez], gender: female}
 ---
 
 A priestess of Thubâ'i, who reads the river's rise and is believed when she says what the year will bring.

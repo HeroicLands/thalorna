@@ -24,7 +24,7 @@ data:
     eye_color: green
     hair_color: graying_brown
     skin_color: fair
-    complexion: fair
+    complexion: null
     extra_features: [a tattoo of a bird in flight on the left shoulder]
   packFolder: aureldiaelavendre
 sohl:

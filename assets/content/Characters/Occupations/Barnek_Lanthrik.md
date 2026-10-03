@@ -23,8 +23,8 @@ data:
   appearance:
     eye_color: amber
     hair_color: gray
-    skin_color: warm
-    complexion: olive_toned
+    skin_color: tawny
+    complexion: null
     extra_features: []
   packFolder: aureldiaprovenzia
 sohl:

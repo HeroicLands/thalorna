@@ -22,7 +22,7 @@ data:
   weight: 85.3
   frame: heavy
   appearance:
-    eye_color: dark_amber
+    eye_color: amber
     hair_color: black
     skin_color: olive
     complexion: weathered

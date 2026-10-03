@@ -24,7 +24,7 @@ data:
     eye_color: brown
     hair_color: black
     skin_color: olive
-    complexion: olive_toned
+    complexion: null
     extra_features: [a scar on the right upper arm]
   packFolder: midhalionharad
 sohl:

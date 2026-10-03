@@ -24,7 +24,7 @@ data:
     eye_color: gray
     hair_color: red
     skin_color: light
-    complexion: fair
+    complexion: null
     extra_features: [a scar on the chin]
   packFolder: ankarisnordlands
 sohl:

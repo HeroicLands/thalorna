@@ -5,7 +5,7 @@ type: being
 subType: npc
 description: "The Gar-Aû's nephew and an Iru'palu, whose blood places him near the succession and whose temperament places him some way from it"
 tags: [generated]
-data: {archetypes: [courtier], packFolder: regkhfolk, homes: [anlaghzetun]}
+data: {archetypes: [courtier], packFolder: regkhfolk, homes: [anlaghzetun], gender: male}
 ---
 
 The Gar-Aû's nephew and an Iru'palu, whose blood places him near the succession and whose temperament places him some way from it.

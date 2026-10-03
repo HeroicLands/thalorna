@@ -24,7 +24,7 @@ data:
     eye_color: brown
     hair_color: blonde
     skin_color: light
-    complexion: fair
+    complexion: null
     extra_features: [a scar running down the right leg]
   packFolder: ankarisnordlands
 sohl:

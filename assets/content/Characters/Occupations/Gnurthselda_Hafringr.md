@@ -21,7 +21,7 @@ data:
   weight: 52
   frame: scant
   appearance:
-    eye_color: honey_brown
+    eye_color: amber
     hair_color: gray
     skin_color: golden
     complexion: clear

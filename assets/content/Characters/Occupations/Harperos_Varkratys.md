@@ -24,7 +24,7 @@ data:
     eye_color: hazel
     hair_color: auburn
     skin_color: medium
-    complexion: tanned
+    complexion: sun_kissed
     extra_features: [a scar along the jawline]
   packFolder: midhalionvylaria
 sohl:

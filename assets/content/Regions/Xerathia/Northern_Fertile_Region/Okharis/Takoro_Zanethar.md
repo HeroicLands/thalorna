@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: black
     skin_color: ebony
-    complexion: medium
+    complexion: null
     extra_features: []
   packFolder: northernfertileregionokharis
 sohl:

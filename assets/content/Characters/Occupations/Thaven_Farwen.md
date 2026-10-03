@@ -24,7 +24,7 @@ data:
     eye_color: brown
     hair_color: red
     skin_color: fair
-    complexion: fair
+    complexion: null
     extra_features:
       - a tattoo of a crescent moon on the neck and a Seaman's Guild tatoo on his right arm.
   packFolder: aureldiaprovenzia

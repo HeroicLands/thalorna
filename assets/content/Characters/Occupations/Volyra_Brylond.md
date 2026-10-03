@@ -24,7 +24,7 @@ data:
     eye_color: brown
     hair_color: gray
     skin_color: light
-    complexion: bronzed
+    complexion: sun_kissed
     extra_features: [a scar running down the right leg]
   packFolder: aureldiaprovenzia
 sohl:

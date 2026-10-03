@@ -5,7 +5,7 @@ type: being
 subType: npc
 description: "A healer and wise woman of the borderlands, who taught her daughter to read the spiritual significance of plants and animals before she taught her anything else"
 tags: [generated]
-data: {archetypes: [healer, cleric], packFolder: regkhfolk, homes: [anlaghzetun]}
+data: {archetypes: [healer, cleric], packFolder: regkhfolk, homes: [anlaghzetun], gender: female}
 ---
 
 A healer and wise woman of the borderlands, who taught her daughter to read the spiritual significance of plants and animals before she taught her anything else.
