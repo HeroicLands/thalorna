@@ -16,7 +16,7 @@ data:
   affiliations: {blckpnwlvs: {rank: 1}, vrystwldtrbs: {rank: 0}}
   gender: female
   species: humanflk
-  born: 692.9
+  born: "692.9"
   height: 1.6
   weight: 52.2
   frame: scant

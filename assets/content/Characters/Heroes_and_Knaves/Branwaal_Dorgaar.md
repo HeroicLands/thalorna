@@ -13,7 +13,7 @@ data:
   lore: []
   culture: provenzianclt
   homes: [provenzrgn]
-  affiliations: {slntlncmpny: {rank: 7, office: Captain}, kngdmprvnz: {}}
+  affiliations: {slntlncmpny: {rank: 7, office: Captain}, kngdmprvnz: {rank: 3}}
   gender: male
   species: humanflk
   born: 686.77

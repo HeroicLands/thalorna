@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [tvalgard]
-  affiliations: {kingdmtrgd: {}}
+  affiliations: {kingdmtrgd: {rank: 4}}
   gender: male
   species: humanflk
   born: 677.138

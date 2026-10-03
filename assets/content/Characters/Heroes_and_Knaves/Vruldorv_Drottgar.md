@@ -13,10 +13,10 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [nalthmark]
-  affiliations: {kngdmnrdhm: {}}
+  affiliations: {kngdmnrdhm: {rank: 3}}
   gender: male
   species: humanflk
-  born: 686.90
+  born: "686.90"
   height: 1.8
   weight: 81.6
   frame: medium

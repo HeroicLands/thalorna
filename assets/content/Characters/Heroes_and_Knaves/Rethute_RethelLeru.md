@@ -14,7 +14,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [galezkara]
-  affiliations: {empireakhlth: {}}
+  affiliations: {empireakhlth: {rank: 3}}
   socialTies:
     affiliation-lingeznglzkr: rival
     affiliation-linrethglzkr: patron

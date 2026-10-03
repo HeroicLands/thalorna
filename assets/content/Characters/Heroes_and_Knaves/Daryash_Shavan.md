@@ -13,7 +13,7 @@ data:
   lore: []
   culture: dunhariclt
   homes: [zaristan]
-  affiliations: {sultntmrdd: {}}
+  affiliations: {sultntmrdd: {rank: 2}}
   gender: female
   species: humanflk
   born: 691.186

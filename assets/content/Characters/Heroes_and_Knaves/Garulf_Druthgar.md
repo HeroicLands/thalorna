@@ -14,7 +14,7 @@ data:
   lore: []
   culture: varokhiclt
   homes: [vrystwald]
-  affiliations: {thetamzir: {}, vrystwldtrbs: {rank: 3}}
+  affiliations: {thetamzir: {rank: 2}, vrystwldtrbs: {rank: 3}}
   gender: male
   species: humanflk
   born: 676.262

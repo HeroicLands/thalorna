@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [hvalgvik]
-  affiliations: {kingdomlgn: {}}
+  affiliations: {kingdomlgn: {rank: 3}}
   gender: female
   species: humanflk
   born: 686.81

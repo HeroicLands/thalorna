@@ -17,7 +17,7 @@ data:
   lore: []
   culture: vedyariclt
   homes: [chandrapur2]
-  affiliations: {chandrapur: {}}
+  affiliations: {chandrapur: {rank: 2}}
   gender: male
   species: humanflk
   born: 682.176

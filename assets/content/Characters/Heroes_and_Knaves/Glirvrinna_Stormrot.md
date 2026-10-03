@@ -13,10 +13,10 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [braldheim]
-  affiliations: {kingdomlgn: {}}
+  affiliations: {kingdomlgn: {rank: 3}}
   gender: female
   species: humanflk
-  born: 688.120
+  born: "688.120"
   height: 1.7
   weight: 64.9
   frame: light

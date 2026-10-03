@@ -13,10 +13,10 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [tarvenirgn]
-  affiliations: {kingdmtrvn: {}}
+  affiliations: {kingdmtrvn: {rank: 2}}
   gender: female
   species: humanflk
-  born: 693.110
+  born: "693.110"
   height: 1.78
   weight: 71.2
   frame: light

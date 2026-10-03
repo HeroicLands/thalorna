@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [vrathavn]
-  affiliations: {kingdmnrgd: {}}
+  affiliations: {kingdmnrgd: {rank: 3}}
   socialTies: {being-skrldmylstrmbrn: patron}
   gender: male
   species: humanflk

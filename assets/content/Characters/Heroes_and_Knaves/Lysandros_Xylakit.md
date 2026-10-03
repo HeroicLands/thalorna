@@ -13,10 +13,10 @@ data:
   lore: []
   culture: byzarianclt
   homes: [selimara]
-  affiliations: {byzarianlg: {}}
+  affiliations: {byzarianlg: {rank: 3}}
   gender: male
   species: humanflk
-  born: 672.36
+  born: "672.36"
   height: 1.91
   weight: 84.8
   frame: heavy

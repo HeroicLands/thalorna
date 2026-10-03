@@ -13,10 +13,10 @@ data:
   lore: []
   culture: byzarianclt
   homes: [thalassos]
-  affiliations: {byzarianlg: {}}
+  affiliations: {byzarianlg: {rank: 3}}
   gender: male
   species: humanflk
-  born: 678.60
+  born: "678.60"
   height: 1.83
   weight: 80.7
   frame: heavy
