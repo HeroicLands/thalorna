@@ -22,7 +22,7 @@ data:
   weight: 67.1
   frame: heavy
   appearance:
-    eye_color: warm_brown
+    eye_color: brown
     hair_color: white
     skin_color: golden
     complexion: null

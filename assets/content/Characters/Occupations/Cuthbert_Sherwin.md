@@ -24,7 +24,7 @@ data:
     eye_color: green
     hair_color: dark_blonde
     skin_color: fair
-    complexion: fair
+    complexion: null
     extra_features: [a scar running down the back]
   packFolder: aureldiaaelwyth
 sohl:

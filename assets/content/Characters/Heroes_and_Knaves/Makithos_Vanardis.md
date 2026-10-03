@@ -24,7 +24,7 @@ data:
     eye_color: hazel
     hair_color: black
     skin_color: light
-    complexion: tanned
+    complexion: sun_kissed
     extra_features: [a scar on the right side of the face]
   packFolder: midhalionvylaria
 sohl:

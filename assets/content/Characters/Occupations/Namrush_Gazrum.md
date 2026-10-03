@@ -21,7 +21,7 @@ data:
   weight: 66
   frame: medium
   appearance:
-    eye_color: dark_amber
+    eye_color: amber
     hair_color: dark_brown
     skin_color: medium
     complexion: clear

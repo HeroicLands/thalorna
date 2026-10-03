@@ -24,7 +24,7 @@ data:
   appearance:
     eye_color: hazel
     hair_color: white
-    skin_color: dark
+    skin_color: dark_brown
     complexion: null
     extra_features: []
   packFolder: regkhhk

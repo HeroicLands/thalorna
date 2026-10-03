@@ -24,7 +24,7 @@ data:
     eye_color: brown
     hair_color: brown
     skin_color: light
-    complexion: tanned
+    complexion: sun_kissed
     extra_features: []
   packFolder: midhalionvylaria
 sohl:

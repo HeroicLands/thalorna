@@ -24,7 +24,7 @@ data:
     eye_color: amber
     hair_color: auburn
     skin_color: fair
-    complexion: battle_scarred
+    complexion: scarred
     extra_features: []
   packFolder: ankarisvrystwald
 sohl:

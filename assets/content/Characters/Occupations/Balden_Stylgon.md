@@ -24,7 +24,7 @@ data:
     eye_color: green
     hair_color: black
     skin_color: fair
-    complexion: fair
+    complexion: null
     extra_features: [a scar on the right hand]
   packFolder: aureldiaprovenzia
 sohl:

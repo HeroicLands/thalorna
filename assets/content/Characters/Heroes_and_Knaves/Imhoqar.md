@@ -14,7 +14,7 @@ data:
   culture: khelathiclt
   homes: [galezkara]
   affiliations: {}
-  gender: ""
+  gender: "male"
   species: humanflk
   born: "678.222"
   died: null

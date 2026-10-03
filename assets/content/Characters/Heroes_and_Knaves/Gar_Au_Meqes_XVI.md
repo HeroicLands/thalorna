@@ -14,7 +14,7 @@ data:
   culture: khelathiclt
   homes: [amqelulegez]
   affiliations: {}
-  gender: ""
+  gender: "female"
   species: humanflk
   born: "674.321"
   died: null

@@ -24,7 +24,7 @@ data:
     eye_color: brown
     hair_color: graying_black
     skin_color: olive
-    complexion: olive_toned
+    complexion: null
     extra_features: []
   packFolder: helladhelionis
 sohl:

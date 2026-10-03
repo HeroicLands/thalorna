@@ -24,7 +24,7 @@ data:
     eye_color: green
     hair_color: chestnut
     skin_color: medium
-    complexion: fair
+    complexion: null
     extra_features: []
   packFolder: aureldiaelavendre
 sohl:

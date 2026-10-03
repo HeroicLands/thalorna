@@ -24,7 +24,7 @@ data:
     eye_color: gray
     hair_color: gray
     skin_color: medium
-    complexion: bronzed
+    complexion: sun_kissed
     extra_features: [a tattoo of a compass on the chest]
   packFolder: aureldiatarvenia
 sohl:

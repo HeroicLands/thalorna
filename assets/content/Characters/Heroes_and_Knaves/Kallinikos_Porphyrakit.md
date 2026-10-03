@@ -21,10 +21,10 @@ data:
   weight: 70.8
   frame: medium
   appearance:
-    eye_color: warm_brown
+    eye_color: brown
     hair_color: dark_brown
-    skin_color: warm
-    complexion: tanned
+    skin_color: tanned
+    complexion: sun_kissed
     extra_features: [a scar on the left thigh]
   packFolder: helladbyzaria
 sohl:

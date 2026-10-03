@@ -14,7 +14,7 @@ data:
   culture: khelathiclt
   homes: [garanlaghet]
   affiliations: {}
-  gender: ""
+  gender: "male"
   species: humanflk
   born: "669.165"
   died: null

@@ -24,7 +24,7 @@ data:
     eye_color: gray
     hair_color: black
     skin_color: light
-    complexion: fair
+    complexion: null
     extra_features: [a tattoo of a bear on the left arm]
   packFolder: ankarisnordlands
 sohl:

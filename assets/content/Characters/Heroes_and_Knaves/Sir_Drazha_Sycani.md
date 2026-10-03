@@ -26,10 +26,10 @@ data:
   frame: heavy
   appearance:
     eye_color: dark_brown
-    hair_color: bald
+    hair_color: null
     skin_color: dark_brown
     complexion: null
-    extra_features: []
+    extra_features: [a bald head]
   packFolder: helladbyzaria
 sohl:
   items:

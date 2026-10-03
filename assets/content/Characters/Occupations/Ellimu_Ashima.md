@@ -23,7 +23,7 @@ data:
   appearance:
     eye_color: brown
     hair_color: dark_brown
-    skin_color: warm_golden
+    skin_color: golden
     complexion: weathered
     extra_features: []
   packFolder: midhalionharad

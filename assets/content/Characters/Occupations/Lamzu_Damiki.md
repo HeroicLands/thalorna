@@ -24,7 +24,7 @@ data:
     eye_color: brown
     hair_color: brown
     skin_color: medium
-    complexion: olive_toned
+    complexion: null
     extra_features: [a scar on the chin]
   packFolder: midhalionharad
 sohl:

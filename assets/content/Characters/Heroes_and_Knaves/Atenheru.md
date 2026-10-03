@@ -27,7 +27,7 @@ data:
   appearance:
     eye_color: brown
     hair_color: dark_brown
-    skin_color: olive_tanned
+    skin_color: olive
     complexion: null
     extra_features: []
   packFolder: dunharatribes

@@ -21,10 +21,10 @@ data:
   weight: 116
   frame: massive
   appearance:
-    eye_color: dark_amber
+    eye_color: amber
     hair_color: graying_black
     skin_color: golden
-    complexion: tanned
+    complexion: sun_kissed
     extra_features: [scar across forehead]
   packFolder: aureldiaaelwyth
 sohl:

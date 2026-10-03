@@ -23,7 +23,7 @@ data:
   appearance:
     eye_color: gray
     hair_color: black
-    skin_color: olive_tanned
+    skin_color: olive
     complexion: weathered
     extra_features: []
   packFolder: aureldiaprovenzia

@@ -24,7 +24,7 @@ data:
     eye_color: green
     hair_color: black
     skin_color: olive
-    complexion: olive_toned
+    complexion: null
     extra_features: [a scar across the bridge of the nose]
   packFolder: midhalionvylaria
 sohl:

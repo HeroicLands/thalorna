@@ -24,7 +24,7 @@ data:
     eye_color: amber
     hair_color: black
     skin_color: medium
-    complexion: tanned
+    complexion: sun_kissed
     extra_features: [a tattoo of a compass on the chest]
   packFolder: midhalionharad
 sohl:

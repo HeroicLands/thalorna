@@ -22,9 +22,9 @@ data:
   weight: 65.3
   frame: light
   appearance:
-    eye_color: dark_amber
+    eye_color: amber
     hair_color: dark_brown
-    skin_color: dark
+    skin_color: dark_brown
     complexion: null
     extra_features: [a scar running down the right leg]
   packFolder: regkhhk

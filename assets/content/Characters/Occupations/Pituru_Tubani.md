@@ -23,8 +23,8 @@ data:
   appearance:
     eye_color: brown
     hair_color: graying_black
-    skin_color: warm
-    complexion: dusky
+    skin_color: tawny
+    complexion: null
     extra_features: [a tattoo of a fish on the lower back]
   packFolder: midhalionharad
 sohl:

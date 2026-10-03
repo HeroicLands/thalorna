@@ -25,7 +25,7 @@ data:
     eye_color: hazel
     hair_color: brown
     skin_color: medium
-    complexion: flawless
+    complexion: clear
     extra_features:
       - carries herself with effortless poise
       - possesses a voice of extraordinary beauty

@@ -22,9 +22,9 @@ data:
   weight: 55.8
   frame: light
   appearance:
-    eye_color: black
+    eye_color: dark_brown
     hair_color: black
-    skin_color: warm
+    skin_color: dark_brown
     complexion: null
     extra_features: [a faint scar on the left side of the neck]
   packFolder: regkhhk

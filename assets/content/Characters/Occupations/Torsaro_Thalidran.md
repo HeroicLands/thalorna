@@ -21,7 +21,7 @@ data:
   weight: 75
   frame: medium
   appearance:
-    eye_color: black
+    eye_color: dark_brown
     hair_color: black
     skin_color: medium
     complexion: smooth

@@ -24,7 +24,7 @@ data:
     eye_color: amber
     hair_color: auburn
     skin_color: tanned
-    complexion: olive_toned
+    complexion: null
     extra_features: [a scar on the left ear]
   packFolder: helladhelionis
 sohl:

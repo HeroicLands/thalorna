@@ -24,7 +24,7 @@ data:
     eye_color: blue
     hair_color: chestnut
     skin_color: medium
-    complexion: tanned
+    complexion: sun_kissed
     extra_features: [a tattoo of a bear on the left arm]
   packFolder: helladhelionis
 sohl:

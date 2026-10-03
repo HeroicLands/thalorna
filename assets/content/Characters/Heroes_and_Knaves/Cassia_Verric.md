@@ -25,7 +25,7 @@ data:
   weight: 66
   frame: medium
   appearance:
-    eye_color: grey
+    eye_color: gray
     hair_color: brown
     skin_color: fair
     complexion: weathered

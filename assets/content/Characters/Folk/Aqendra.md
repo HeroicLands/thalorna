@@ -14,7 +14,7 @@ data:
   culture: khelathiclt
   homes: [rajapur]
   affiliations: {}
-  gender: ""
+  gender: "male"
   species: humanflk
   born: "676.221"
   died: null

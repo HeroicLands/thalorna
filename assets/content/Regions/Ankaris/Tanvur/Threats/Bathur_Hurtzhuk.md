@@ -16,7 +16,7 @@ data:
   culture: tanvuriclt
   homes: []
   affiliations: {}
-  gender: null
+  gender: male
   species: humanflk
   age: null
   born: "unknown"

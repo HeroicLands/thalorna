@@ -21,9 +21,9 @@ data:
   weight: 76.2
   frame: medium
   appearance:
-    eye_color: honey_brown
+    eye_color: amber
     hair_color: dark_brown
-    skin_color: warm
+    skin_color: olive
     complexion: null
     extra_features: []
   packFolder: ankariskhazryndesert

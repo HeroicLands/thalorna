@@ -23,7 +23,7 @@ data:
   appearance:
     eye_color: dark_brown
     hair_color: dark_brown
-    skin_color: warm
+    skin_color: golden
     complexion: null
     extra_features: [a tattoo of a waterfall on the shoulder]
   packFolder: ankarisvedyara
