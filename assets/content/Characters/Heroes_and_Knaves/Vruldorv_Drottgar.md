@@ -493,7 +493,7 @@ Merchant Lord Haldor the Greedy
 Nordheim Mercenaries' Guild
 : - His guild and source of contracts
 
-The Green Wardens
+[[affiliation-gronverdir|The Green Wardens]]
 : - A loose spiritual fellowship of warriors devoted to protection and the sacred duty of strength in service of others
 
 ## Plot Hooks

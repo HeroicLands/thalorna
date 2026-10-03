@@ -85,7 +85,7 @@ data:
   culture: "" # Primary culture, naming a lore note with `subType: culture`
   homes: [] # the places the being calls home, naming the settlement rather than the region around it
   affiliations: {} # bodies the being belongs to, keyed by Address, each entry holding the standing it holds there (`rank`, `office`)
-  socialTies: [] # Defining support and opposition (see Enemies/Patrons below)
+  socialTies: {} # Defining support and opposition, keyed by Address (see below)
   gender: "" # female, male, nonbinary, none, or other (see the vocabulary table below)
   species: # lore note associated with the being species, if any (e.g., `humanflk`)
   born: "" # canonical date when born (YYY.DDD, where YYY is the year, and DDD is the day of the year), or `unknown` if unknown

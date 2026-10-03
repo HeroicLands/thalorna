@@ -505,7 +505,7 @@ The Merchant-Bureaucrats of Trade
 
 ### Affiliations
 
-The Imperial Scribal Guild
+[[affiliation-imprlscrblgld|The Imperial Scribal Guild]]
 : Ailêmâ maintains full Guildmaster standing and participates in the guild's formal structures, though she does not hold an official position. She is well-respected within the organization and is occasionally consulted on matters of standards and authenticity.
 
 The Temple of Flórania
