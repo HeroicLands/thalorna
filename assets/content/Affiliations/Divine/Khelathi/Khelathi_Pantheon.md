@@ -3,7 +3,7 @@ shortcode: khelathpnthn
 name: {full: Khelâthi Pantheon, aliases: [The Twelve of the River]}
 type: affiliation
 subType: faithtradition
-description: "Ancient faith of Aû'Khelâthu built on the Weighing of the Heart, the annual flood's cycle of renewal, and the divine authority of the Gar-Aû's line."
+description: "Ancient faith of Aû'Khelâthu built on the Weighing of a life's two accounts, the annual flood's cycle of renewal, and the divine authority of the Gar-Aû's line."
 tags: [pantheon, khelathi, religion]
 data:
   banner: pantheonbnr
@@ -74,7 +74,7 @@ The Khelâthi pantheon is the religious tradition of the [[affiliation-empireakh
 
 The Khelâthi faith is inseparable from the civilization it serves. Every aspect of Khelâthi life—governance, law, agriculture, war, commerce, art, and above all the vast mortuary industry that prepares the dead for eternal existence—is organized around theological principles maintained by the temple complexes. The great temples are not merely places of worship but economic and political institutions rivaling the Gar-Aû's palace in wealth and influence. The priesthood's three-rank hierarchy—**Thâz'Lekhau, Lem'Nelgir, and Wazu**—structures the religious life of the empire from the capital to the remotest village.
 
-The central eschatological doctrine is the **Weighing of the Heart**: after death, every soul is judged by having its heart weighed against the feather of [[affiliation-qearet|Faith of Qe'âret]]. A heart heavy with falsehood, cruelty, or violation of cosmic order is devoured; a heart that balances the feather passes into eternal life. This doctrine exerts genuine moral influence on daily life—even the powerful fear a negative judgment, and the knowledge that wealth cannot buy a favorable verdict provides a check, however imperfect, on the worst abuses of power.
+The central eschatological doctrine is **the Weighing**: after death, both of a person's accounts are opened before the assembled gods—the temple account a scribe took, and the account [[affiliation-qearet|Qe'âret]] kept where no scribe was present. A soul short on either is devoured; a soul whose entries close passes into eternal life. This doctrine exerts genuine moral influence on daily life—even the powerful fear a negative judgment, and the knowledge that wealth cannot buy a favorable verdict provides a check, however imperfect, on the worst abuses of power.
 
 ## The Twelve
 

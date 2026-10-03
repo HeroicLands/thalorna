@@ -88,9 +88,11 @@ An obligation unmet follows a person whether a temple wrote it or not. What the 
 
 ## The Weighing
 
-In the Hall of Two Truths the deceased stands before the assembled gods while his heart is set on one pan of a golden scale and a single feather of Qe'âret on the other. A heart heavy with falsehood, cruelty, theft or cowardice outweighs the feather and is devoured; a heart that balances it, or proves lighter, passes onward into the blessed Zulaten.
+The deceased stands before the assembled gods and both of his accounts are opened. The temple account is read as it stands—every entry a scribe took, closed or short—and against it the gods set the account they kept themselves, which no witness attended and no tablet holds. A man who goes in short on either is taken by Álgit; a man whose entries close passes onward into the blessed Zulaten.
 
-The moral force of the doctrine comes from one provision: wealth buys no verdict, and every Khelâthi knows it. That single rule is the most effective check on a Halzi'a the empire possesses, and it is ignored often enough to be worth stating plainly. A lord squeezes his tenants for forty years and endows a temple in his last decade; the temple takes the endowment; both parties understand exactly what is being attempted and how little it is expected to work.
+That both are opened is the whole of the doctrine. A written obligation can be closed late, bought out, assumed by an heir; the unwritten one can only be met, and a man cannot know in advance how it stands, which is why he spends his last years asking rather than paying.
+
+The moral force comes from one provision: wealth buys no verdict, and every Khelâthi knows it. That single rule is the most effective check on a Halzi'a the empire possesses, and it is ignored often enough to be worth stating plainly. A lord squeezes his tenants for forty years and endows a temple in his last decade; the temple takes the endowment; both parties understand exactly what is being attempted and how little it is expected to work.
 
 None of this makes the Khelâthi solemn. Their calendar is dense with festivals, beer and wine and music sit at the center of both religious and secular life, and Thubâ'i is among the best-loved gods in the empire precisely because his priests teach that pleasure is a form of gratitude and not a distraction from it.
 

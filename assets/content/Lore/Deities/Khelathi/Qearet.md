@@ -17,19 +17,20 @@ on that primordial darkness and established the laws by which the universe opera
 creation must conform. To live in harmony with her is to live truthfully, honor one's oaths, speak
 with clarity, and balance every action with restraint.
 
-Her theology rests on one overwhelming doctrine: after death every soul faces the **Weighing of the
-Heart**. In the **Hall of Two Truths** the deceased stands before the assembled gods while their
-heart is set on one pan of a golden scale and a single feather of Qe'âret on the other. A heart heavy
-with lies, cruelty, theft or cowardice outweighs the feather, and the soul is devoured by **Álgit,
-the Devourer of the Dead**. A heart that balances it, or proves lighter, passes onward into the
-blessed [[place-zulaten|Zulaten]].
+Her theology rests on one overwhelming doctrine: **the Weighing**. The deceased stands before the
+assembled gods and both of his accounts are opened—the temple account as a scribe took it, every
+entry closed or short, and beside it the account the gods kept themselves, which no witness attended
+and no tablet holds. A soul short on either is taken by **Álgit, the Devourer of the Dead**. A soul
+whose entries close passes onward into the blessed [[place-zulaten|Zulaten]].
 
 That judgment is the foundation of Khelâthi ethics, and its moral force comes from one feature above
-all: **wealth cannot buy a favorable verdict**. Even the powerful fear it, which makes it a real if
+all: **wealth cannot buy a favorable verdict**. A written entry can be closed late or bought out; the
+unwritten account can only be met, and nobody holds a copy to consult. Even the powerful fear it, which makes it a real if
 imperfect check on the worst abuses of power in a civilization otherwise steeply unequal.
 
 She judges; [[lore-wethurdty|Wethûr]] does not. By the time a soul reaches his realm it has already
 been weighed.
 
-TBD—the declarations the deceased makes before the assembled gods, and what Álgit is: whether a
-god, a beast, or an office.
+TBD—whether the deceased may speak when his accounts are read, and in which register: whether he
+attests the written, petitions the unwritten, or stands silent while the gods read both. And what
+Álgit is: whether a god, a beast, or an office.
