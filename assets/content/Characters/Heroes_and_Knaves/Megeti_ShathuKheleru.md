@@ -486,7 +486,7 @@ Methisî the Iron
 
 ### Affiliations
 
-The Imperial Treasury
+[[affiliation-aerarimmpr|The Imperial Treasury]]
 : Her primary institution and the source of her authority.
 
 The Scribes' Guild of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]

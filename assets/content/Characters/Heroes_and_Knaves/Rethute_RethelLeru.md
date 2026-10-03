@@ -15,6 +15,10 @@ data:
   culture: khelathiclt
   homes: [galezkara]
   affiliations: {empireakhlth: {}}
+  socialTies:
+    affiliation-lingeznglzkr: rival
+    affiliation-linrethglzkr: patron
+    being-ahmetegazek2: patron
   gender: female
   species: humanflk
   born: 688.38
@@ -482,13 +486,13 @@ Rethutê is motivated by her vision of her inn as a sanctuary—a place where pe
 
 ### Patrons
 
-Captain Ahmetega Zekar
+Captain [[being-ahmetegazek2|Ahmetega Zekar]]
 : A decorated naval officer who frequently stays at the Reenfré and uses her common room for important meetings. He values her discretion and her ability to keep conversations private.
 
 Master Merchant Letmiya
 : The head of a major trading concern who has relied on Rethutê's recommendations for finding trustworthy business associates and reliable travel partners. Their relationship has made both of them substantial profits.
 
-Lin'Rethu elu Galezkara
+[[affiliation-linrethglzkr|Lin'Rethu elu Galezkara]]
 : A group of learned individuals who hold regular meetings at the Reenfré and have come to depend on Rethutê's ability to provide excellent meals on their schedule and maintain privacy for their discussions.
 
 Various Adventuring Companies
@@ -502,7 +506,7 @@ Vex the Competitor
 City Magistrate Tomás
 : An official who attempted to impose onerous new regulations on innkeepers, which Rethutê organized opposition against. He views her advocacy as insubordination and has looked for ways to harass or fine her establishment.
 
-Lin'Gezan elu Galezkara
+[[affiliation-lingeznglzkr|Lin'Gezan elu Galezkara]]
 : A disreputable organization that Rethutê has refused to pay protection fees to, insisting that her inn exists under the city's legitimate jurisdiction. They view her as a target and an example, though direct action against her is risky given her popularity.
 
 ### Affiliations
@@ -513,7 +517,7 @@ Local Innkeepers' Association
 The Harbor Community
 : As someone located near the docks, Rethutê maintains connections with merchants, sailors, and port workers; she is considered part of the harbor community and is trusted by its members.
 
-Lin'Rethu elu Galezkara
+[[affiliation-linrethglzkr|Lin'Rethu elu Galezkara]]
 : While not formally a member, Rethutê has close ties to this intellectual group and allows them preferential access to her private spaces.
 
 ## Plot Hooks

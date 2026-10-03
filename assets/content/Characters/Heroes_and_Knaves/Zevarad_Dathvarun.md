@@ -1,8 +1,8 @@
 ---
 shortcode: zevaradthvrn
-name: {full: Zevârad Dathvarûn, aliases: []}
+name: {full: Zevârad Dathvarûn, given: Zevârad, clan: Dathvarûn, aliases: []}
 type: being
-subType: npc
+subType: character
 description: "The elder who keeps the water-shrine teaching at Kethramír, and who has not taught all of it to anyone"
 tags: [generated, draft]
 data:

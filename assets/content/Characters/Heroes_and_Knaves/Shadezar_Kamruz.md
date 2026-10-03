@@ -14,6 +14,7 @@ data:
   culture: dunhariclt
   homes: [dunashir]
   affiliations: {dunhartrbs: {}}
+  socialTies: {affiliation-wrrscrcldnhrtrbs: patron}
   gender: male
   species: humanflk
   born: 671.99
@@ -481,7 +482,7 @@ Shâdezar's core motivation is the perpetuation and expansion of his bloodline's
 
 ### Patrons
 
-The Warrior's Circle of the Dunhara Tribes
+[[affiliation-wrrscrcldnhrtrbs|The Warrior's Circle of the Dunhara Tribes]]
 : An ancient organization of senior warriors and chieftains that recognizes Shâdezar as one of its most honored members. The circle occasionally calls upon him for major military ventures that benefit all the tribes.
 
 His Own Kamruz Clan Warriors

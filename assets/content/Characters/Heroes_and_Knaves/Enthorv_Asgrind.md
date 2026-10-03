@@ -14,6 +14,7 @@ data:
   culture: nordheimnclt
   homes: [tvalgard]
   affiliations: {kingdmtrgd: {}}
+  socialTies: {affiliation-wazulu: rival}
   gender: male
   species: humanflk
   born: 670.292
@@ -490,7 +491,7 @@ The Innkeeper Styrbjorn
 Lord Castor Thorne, Duke of the Southern Marches
 : A nobleman whose secret ambitions Enthorv publicly mocked through elaborate theatrical sequences that were obviously directed at him. Thorne has sworn vengeance, though he dare not move openly against the king's favored jester.
 
-The Wazulu
+[[affiliation-wazulu|The Wazulu]]
 : Religious conservatives who believe jesters are agents of demoralization and have lobbied the church to declare his performances blasphemous. While they lack the power to end his position, they make his life difficult.
 
 His Own Reflection
