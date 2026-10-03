@@ -484,7 +484,8 @@ Despite his unwavering commitment to his faith, Father Iztéban is pragmatic eno
 Sir [[being-srndrslrcknghtwstrnmrchs|Andrés]] Lorca
 : A loyal knight and Iztéban’s close friend, Sir [[being-srndrslrcknghtwstrnmrchs|Andrés]] has served as Iztéban’s protector and companion on many dangerous missions. Together, they have fought bandits, quelled rebellions, and brought corrupt nobles to justice. Sir [[being-srndrslrcknghtwstrnmrchs|Andrés]] embodies the ideals of Jánusian chivalry and is unwavering in his support of Iztéban’s quest for justice.
 
-- **Archbishop Valerio Córdava**
+Archbishop Valerio Córdava
+: The Jánusian prelate at Valderas, who confirms Iztéban’s arbitrations under seal and so meets him on the register four times a year. The commissions into noble corruption carry that seal, and so does the protection from the complaints they draw—protection Iztéban knows is conditional on the matter never reaching the royal court. Córdava is also **Tesera**’s brother. Neither of them says so, and nobody counts a scholar’s daughter who married into the royal guard as kin to an archbishop.
 
 ### Enemies
 
