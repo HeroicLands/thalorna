@@ -6,7 +6,7 @@ subType: calendar
 description: "The Vylarian Common Calendar, kept from Mídhalión to Aelwyth: twelve months, four fixed quarter days, and the year every other reckoning is measured against."
 tags: [reference, calendar]
 data:
-  epoch: 1.1
+  epoch: "1.1"
   months:
     - {name: Floralis, abbreviation: Flor, days: 30}
     - {name: Lusenar, abbreviation: Luse, days: 31}
