@@ -4,8 +4,36 @@ name: {full: Meshlen, aliases: []}
 type: being
 subType: npc
 description: "An ambitious young craftsperson claiming a master's craft as her inheritance, having learned it from a source she will not name"
-tags: [generated]
-data: {archetypes: [artisan], packFolder: regkhfolk, homes: [anlaghzetun], gender: female}
+tags: [generated, draft]
+data:
+  icon: icon-person
+  templatePriority: null
+  archetypes: [artisan]
+  occupation: "Craftsperson"
+  lore: []
+  culture: khelathiclt
+  homes: [anlaghzetun]
+  affiliations: {}
+  gender: "female"
+  species: humanflk
+  born: "676.340"
+  died: null
+  height: 1.62
+  weight: 60
+  frame: light
+  appearance:
+    eye_color: dark_brown
+    hair_color: dark_brown
+    skin_color: ebony
+    complexion: ""
+    extra_features: []
+  packFolder: regkhfolk
 ---
 
-An ambitious young craftsperson claiming a master's craft as her inheritance, having learned it from a source she will not name.
+# Appearance {#appearance}
+
+Meshlen is a 44-year-old woman who stands 5'4" tall with a light build. She has ebony skin, dark brown hair, and dark brown eyes.
+
+# Dossier {#dossier}
+
+Meshlen practices a master's craft out of [[place-anlaghzetun|Anlagh-Zetûn]], claiming it as inheritance from a source she will not name. The ambition behind the claim is plain even where the source is not. Anyone asking where she learned it gets the same silence every time.

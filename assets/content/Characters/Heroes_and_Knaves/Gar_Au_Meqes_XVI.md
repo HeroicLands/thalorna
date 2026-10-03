@@ -4,8 +4,36 @@ name: {full: Gar-Aû Meqes XVI, given: Gar-Aû, clan: Meqes XVI, aliases: []}
 type: being
 subType: character
 description: "The reigning Gar-Aû, who rules from Galezkara"
-tags: [generated]
-data: {archetypes: [courtier], packFolder: regkhhk, homes: [amqelulegez], gender: female}
+tags: [generated, draft]
+data:
+  icon: icon-person
+  templatePriority: null
+  archetypes: [courtier]
+  occupation: ""
+  lore: []
+  culture: khelathiclt
+  homes: [amqelulegez]
+  affiliations: {}
+  gender: "female"
+  species: humanflk
+  born: "674.321"
+  died: null
+  height: 1.71
+  weight: 64
+  frame: light
+  appearance:
+    eye_color: brown
+    hair_color: dark_brown
+    skin_color: dark_brown
+    complexion: ""
+    extra_features: []
+  packFolder: regkhhk
 ---
 
-The reigning Gar-Aû, who rules from Galezkara. A practical man who has learned to trust the warnings of astrologers, he depends on the judicial auguries of Qe'âret's high priestess and treats her as a counterweight to the more aggressive faction leaders at court.
+# Appearance {#appearance}
+
+Gar-Aû Meqes XVI is a 46-year-old woman who stands 5'7" tall with a light build. She has dark brown skin, dark brown hair, and brown eyes.
+
+# Dossier {#dossier}
+
+Gar-Aû Meqes XVI reigns from [[place-galezkara|Galezkara]], the sixteenth to bear the name on the throne. The regnal count alone marks a lineage long enough that the number has become part of the title. Every tax roll and contract in the realm carries this reign's year, whether or not the signer has ever seen the throne.
