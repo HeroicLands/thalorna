@@ -25,7 +25,7 @@ data:
     eye_color: dark_brown
     hair_color: black
     skin_color: dark_brown
-    complexion: scarred
+    complexion: [weathered, scarred]
     extra_features:
       - "a seam of scar from the left ear to the collarbone"
       - "a mail shirt kept oiled"
@@ -34,7 +34,7 @@ data:
 
 # Appearance {#appearance}
 
-Tharaset is a 37-year-old woman who stands 5'9" tall with a heavy build. She has dark brown skin, scarred complexion, black hair, and dark brown eyes. Her features include a seam of scar from the left ear to the collarbone and a mail shirt kept oiled.
+Tharaset is a 37-year-old woman who stands 5'9" tall with a heavy build. She has dark brown skin, weathered and scarred complexion, black hair, and dark brown eyes. Her features include a seam of scar from the left ear to the collarbone and a mail shirt kept oiled.
 
 # Dossier {#dossier}
 

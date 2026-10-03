@@ -25,7 +25,7 @@ data:
     eye_color: brown
     hair_color: white
     skin_color: tawny
-    complexion: weathered
+    complexion: [weathered, wrinkled]
     extra_features:
       - "a staff worn smooth at the grip"
       - "hands that shake except when he is pouring the libation"
@@ -34,7 +34,7 @@ data:
 
 # Appearance {#appearance}
 
-Zevârad Dathvarûn is a 72-year-old man who stands 5'8" tall with a light build. He has tawny skin, weathered complexion, white hair, and brown eyes. His features include a staff worn smooth at the grip and hands that shake except when he is pouring the libation.
+Zevârad Dathvarûn is a 72-year-old man who stands 5'8" tall with a light build. He has tawny skin, weathered and wrinkled complexion, white hair, and brown eyes. His features include a staff worn smooth at the grip and hands that shake except when he is pouring the libation.
 
 # Dossier {#dossier}
 
