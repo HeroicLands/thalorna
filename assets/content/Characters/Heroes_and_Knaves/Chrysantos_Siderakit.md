@@ -461,21 +461,36 @@ Chrysántos is driven by the endless accumulation of wealth, influence, and pres
 
 ### Patrons
 
-- **Lord Daemon Voss, Master of the Byzarian League's Eastern Territory**: A powerful noble with whom Chrysántos maintains a complex relationship of mutual benefit. Voss provides official protection and access to certain restricted items; Chrysántos sees that Voss's acquisitions remain discreet and his valuable contacts remain available exclusively.
-- **The Collector of Reliquaries**: A mysterious individual (possibly a private wealthy collector, possibly an institution) who commissions Chrysántos to locate and acquire specific items of historical or spiritual significance. These commissions are very lucrative and have provided much of his recent wealth accumulation.
-- **Master Artificer Kaelvos**: A famed craftsperson whose work Chrysántos traffics in and whose custom commissions he brokers. Kaelvos's relationship with Chrysántos is symbiotic but delicate; should Chrysántos ever attempt to exploit Kaelvos directly, the master would have him eliminated.
+Lord Daemon Voss, Master of the Byzarian League's Eastern Territory
+: A powerful noble with whom Chrysántos maintains a complex relationship of mutual benefit. Voss provides official protection and access to certain restricted items; Chrysántos sees that Voss's acquisitions remain discreet and his valuable contacts remain available exclusively.
+
+The Collector of Reliquaries
+: A mysterious individual (possibly a private wealthy collector, possibly an institution) who commissions Chrysántos to locate and acquire specific items of historical or spiritual significance. These commissions are very lucrative and have provided much of his recent wealth accumulation.
+
+Master Artificer Kaelvos
+: A famed craftsperson whose work Chrysántos traffics in and whose custom commissions he brokers. Kaelvos's relationship with Chrysántos is symbiotic but delicate; should Chrysántos ever attempt to exploit Kaelvos directly, the master would have him eliminated.
 
 ### Enemies
 
-- **Merchant-Lord Tharenis**: A rival merchant-broker operating in the Byzarian League's central territories. Tharenis has undercut Chrysántos's pricing on several important commissions and is aggressively cultivating some of Chrysántos's established clients. There is undeclared but intense commercial warfare between them.
-- **The Puritan Orders**: Certain monastic and priestly orders have become concerned that Chrysántos is acquiring sacred relics and religious artifacts for private collectors without proper ecclesiastical approval. They view him as a desecrator and have begun subtly working to undermine his reputation with both ecclesiastical and secular authorities.
-- **Unknown Parties with Claims to Artifacts**: Several of the items Chrysántos has acquired and sold came from tombs, ruins, or sites of previous conflict. The descendants or cultural inheritors of those sites are beginning to investigate their provenance and demanding repatriation. Some have grown hostile and begun making threats against Chrysántos directly.
+Merchant-Lord Tharenis
+: A rival merchant-broker operating in the Byzarian League's central territories. Tharenis has undercut Chrysántos's pricing on several important commissions and is aggressively cultivating some of Chrysántos's established clients. There is undeclared but intense commercial warfare between them.
+
+The Puritan Orders
+: Certain monastic and priestly orders have become concerned that Chrysántos is acquiring sacred relics and religious artifacts for private collectors without proper ecclesiastical approval. They view him as a desecrator and have begun subtly working to undermine his reputation with both ecclesiastical and secular authorities.
+
+Unknown Parties with Claims to Artifacts
+: Several of the items Chrysántos has acquired and sold came from tombs, ruins, or sites of previous conflict. The descendants or cultural inheritors of those sites are beginning to investigate their provenance and demanding repatriation. Some have grown hostile and begun making threats against Chrysántos directly.
 
 ### Affiliations
 
-- **Merchant's Guild of the Byzarian League**: His primary trade affiliation, providing legitimacy, protection, and access to guild resources and information networks.
-- **Prosperity Cults of Vénusia**: His fire tattoo marks him as at least peripherally involved with certain fertility and prosperity mystery cults devoted to Vénusia. His actual level of involvement with these groups remains ambiguous even to those who know him well.
-- **The Collector's Circle**: An informal network of wealthy collectors, merchants, and brokers who facilitate transactions among themselves and share information about notable acquisitions and opportunities.
+Merchant's Guild of the Byzarian League
+: His primary trade affiliation, providing legitimacy, protection, and access to guild resources and information networks.
+
+Prosperity Cults of Vénusia
+: His fire tattoo marks him as at least peripherally involved with certain fertility and prosperity mystery cults devoted to Vénusia. His actual level of involvement with these groups remains ambiguous even to those who know him well.
+
+The Collector's Circle
+: An informal network of wealthy collectors, merchants, and brokers who facilitate transactions among themselves and share information about notable acquisitions and opportunities.
 
 ## Plot Hooks
 

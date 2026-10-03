@@ -473,33 +473,45 @@ Hálrikos is motivated by a deep, almost religious belief that proper procedure,
 
 ### Patrons
 
-- **Magistrate Korvain**: The current city magistrate relies heavily on Hálrikos's counsel and has protected him from several attempts to diminish his authority, knowing that his administration would collapse without Hálrikos's support.
+Magistrate Korvain
+: The current city magistrate relies heavily on Hálrikos's counsel and has protected him from several attempts to diminish his authority, knowing that his administration would collapse without Hálrikos's support.
 
-- **City Judge Thelessa**: The head of Tarvénia's court system views Hálrikos as an invaluable ally in maintaining the city's legal integrity and often calls upon him to resolve disputed points of law.
+City Judge Thelessa
+: The head of Tarvénia's court system views Hálrikos as an invaluable ally in maintaining the city's legal integrity and often calls upon him to resolve disputed points of law.
 
-- **Master Merchant Vaelot**: A wealthy trader who has benefited from Hálrikos's careful interpretation of mercantile regulations and who pays him a regular consulting fee for ongoing advice.
+Master Merchant Vaelot
+: A wealthy trader who has benefited from Hálrikos's careful interpretation of mercantile regulations and who pays him a regular consulting fee for ongoing advice.
 
-- **The Guild of Scribes**: His original guild regards him as one of their greatest achievements and maintains him as an honored senior member, consulting him on matters of professional standards.
+The Guild of Scribes
+: His original guild regards him as one of their greatest achievements and maintains him as an honored senior member, consulting him on matters of professional standards.
 
 ### Enemies
 
-- **The Reformist Coalition**: This loose alliance of younger officials, progressive merchants, and idealistic citizens views Hálrikos as the primary obstacle to necessary modernization and has made his removal from influence a central goal.
+The Reformist Coalition
+: This loose alliance of younger officials, progressive merchants, and idealistic citizens views Hálrikos as the primary obstacle to necessary modernization and has made his removal from influence a central goal.
 
-- **Inspector Kelix**: A younger city official who was denied promotion in part due to Hálrikos's testimony that she lacked proper understanding of procedural law; she blames him bitterly and works to discredit him.
+Inspector Kelix
+: A younger city official who was denied promotion in part due to Hálrikos's testimony that she lacked proper understanding of procedural law; she blames him bitterly and works to discredit him.
 
-- **Lady Merchant Sylaine**: An ambitious trader who views Hálrikos's strict interpretation of contract law as an impediment to her commercial ambitions and has attempted to have him removed from his position.
+Lady Merchant Sylaine
+: An ambitious trader who views Hálrikos's strict interpretation of contract law as an impediment to her commercial ambitions and has attempted to have him removed from his position.
 
-- **The Shadow Syndicate**: This organized crime network views Hálrikos's institutional knowledge as a threat to their operations and has made vague but unmistakable threats against him.
+The Shadow Syndicate
+: This organized crime network views Hálrikos's institutional knowledge as a threat to their operations and has made vague but unmistakable threats against him.
 
 ### Affiliations
 
-- **The City Bureaucracy**: Hálrikos is woven into the fabric of Tarvénia's government and serves as an advisor to nearly every city office.
+The City Bureaucracy
+: Hálrikos is woven into the fabric of Tarvénia's government and serves as an advisor to nearly every city office.
 
-- **The Guild of Scribes**: He maintains his membership and attends quarterly meetings, though he relates to fewer and fewer of the younger members.
+The Guild of Scribes
+: He maintains his membership and attends quarterly meetings, though he relates to fewer and fewer of the younger members.
 
-- **The Archives of Tarvénia**: He has effectively become the guardian of the city's historical records and legal documents.
+The Archives of Tarvénia
+: He has effectively become the guardian of the city's historical records and legal documents.
 
-- **The Order of Táranon**: Hálrikos is a pious if unemotional follower of Táranon, god of storms and order, attending temple services regularly.
+The Order of Táranon
+: Hálrikos is a pious if unemotional follower of Táranon, god of storms and order, attending temple services regularly.
 
 ## Plot Hooks
 

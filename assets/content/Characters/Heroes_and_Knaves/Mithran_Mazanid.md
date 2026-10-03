@@ -458,18 +458,27 @@ Mithran is motivated by a simple, profound desire: to steward his flocks well an
 
 ### Patrons
 
-- **The Farming Communities of Amradad**: Various farmers and landholders purchase his wool and cheese regularly and value his reliability and quality.
-- **The Temple of Zúráthrä**: He donates a portion of his yield to the temple's fertility rituals and receives their blessing in return.
+The Farming Communities of Amradad
+: Various farmers and landholders purchase his wool and cheese regularly and value his reliability and quality.
+
+The Temple of Zúráthrä
+: He donates a portion of his yield to the temple's fertility rituals and receives their blessing in return.
 
 ### Enemies
 
-- **Haradan the Merchant**: A merchant trader who attempted to pressure Mithran into exclusive supply agreements. When Mithran refused, Haradan began spreading rumors about the quality of his products and has attempted to undercut his prices.
-- **The Kazir Herding Clan**: A rival herding family whose grazing lands border Mithran's territory. Several disputes over water rights and grazing boundaries have created lasting tension.
+Haradan the Merchant
+: A merchant trader who attempted to pressure Mithran into exclusive supply agreements. When Mithran refused, Haradan began spreading rumors about the quality of his products and has attempted to undercut his prices.
+
+The Kazir Herding Clan
+: A rival herding family whose grazing lands border Mithran's territory. Several disputes over water rights and grazing boundaries have created lasting tension.
 
 ### Affiliations
 
-- **The Independent Herders of the Amradad Steppes**: An informal association of herders who share knowledge about weather, grazing, and market prices.
-- **The Temple of Zúráthrä**: A devotional order dedicated to the god of fertility and abundance.
+The Independent Herders of the Amradad Steppes
+: An informal association of herders who share knowledge about weather, grazing, and market prices.
+
+The Temple of Zúráthrä
+: A devotional order dedicated to the god of fertility and abundance.
 
 ## Plot Hooks
 

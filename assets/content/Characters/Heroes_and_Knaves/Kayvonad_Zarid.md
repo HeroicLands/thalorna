@@ -472,18 +472,27 @@ Kayvonad is motivated primarily by a need for vindication. He is convinced that 
 
 ### Patrons
 
-- **University of Caldar Administration**: The institution that employs him, though their support is increasingly perfunctory and administrative rather than real intellectual backing.
-- **The Mineral Consortium of Khazryn**: A loose association of wealthy merchants dealing in rare minerals who fund some of his research in exchange for first option on any transmutation breakthroughs with commercial applications.
+University of Caldar Administration
+: The institution that employs him, though their support is increasingly perfunctory and administrative rather than real intellectual backing.
+
+The Mineral Consortium of Khazryn
+: A loose association of wealthy merchants dealing in rare minerals who fund some of his research in exchange for first option on any transmutation breakthroughs with commercial applications.
 
 ### Enemies
 
-- **Doctor Theron Casix**: His former colleague whose mathematical critique became the basis for Kayvonad's fall from prominence. Casix has since become the favored elder statesman of the University's alchemical research, a position Kayvonad considers his by right.
-- **The Cabal of Progressive Theorists**: A faction of younger scholars at the University who have openly criticized Kayvonad's methodology as outdated and advocated for embracing newer theoretical frameworks that he views as intellectually corrupt.
+Doctor Theron Casix
+: His former colleague whose mathematical critique became the basis for Kayvonad's fall from prominence. Casix has since become the favored elder statesman of the University's alchemical research, a position Kayvonad considers his by right.
+
+The Cabal of Progressive Theorists
+: A faction of younger scholars at the University who have openly criticized Kayvonad's methodology as outdated and advocated for embracing newer theoretical frameworks that he views as intellectually corrupt.
 
 ### Affiliations
 
-- **University of Caldar**: His institutional home, though his status has diminished considerably over the years.
-- **The Alchemists' Society**: An academic organization where he maintains membership but rarely participates in official functions.
+University of Caldar
+: His institutional home, though his status has diminished considerably over the years.
+
+The Alchemists' Society
+: An academic organization where he maintains membership but rarely participates in official functions.
 
 ## Plot Hooks
 

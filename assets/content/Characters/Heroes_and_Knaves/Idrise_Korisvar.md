@@ -467,20 +467,33 @@ She is, however, a deeply ethical individual. She will not take contracts to har
 
 ### Patrons
 
-- **Duke Reginald Stormthorne**: A minor nobleman of real virtue who has employed Ídrisè multiple times for protection work. He respects her integrity and has become one of the few people whose company she actively seeks rather than merely tolerates.
-- **Lady Merchant Selena Goldleaf**: A wealthy trader specializing in luxury goods who employs Ídrisè for high-value escort work. Their working relationship has extended into something approaching friendship, though Ídrisè would never use that word.
-- **The Shrine of Táranon**: The monks who raised her remain her deepest loyalty. Though she no longer practices their faith in any formal way, she maintains a connection to the community and would move mountains to protect them.
+Duke Reginald Stormthorne
+: A minor nobleman of real virtue who has employed Ídrisè multiple times for protection work. He respects her integrity and has become one of the few people whose company she actively seeks rather than merely tolerates.
+
+Lady Merchant Selena Goldleaf
+: A wealthy trader specializing in luxury goods who employs Ídrisè for high-value escort work. Their working relationship has extended into something approaching friendship, though Ídrisè would never use that word.
+
+The Shrine of Táranon
+: The monks who raised her remain her deepest loyalty. Though she no longer practices their faith in any formal way, she maintains a connection to the community and would move mountains to protect them.
 
 ### Enemies
 
-- **The Red Syndicate**: A criminal organization that attempted to force Ídrisè into their employ. When she refused, they placed a contract on her life. The contract remains technically active, though several assassins have already tried and failed. The Syndicate views her refusal as an insult that must be answered.
-- **Lord Petyr the Cruel**: A nobleman whose cruelty toward servants and dependents violated every principle Ídrisè holds. When she discovered he was considering hiring her services, she refused and then discovered evidence of his crimes. She has become a quiet enemy, gathering information against him while keeping her distance.
-- **Her Own Past**: In her younger years as a mercenary, before she developed her current moral code, Ídrisè took contracts whose purposes she now regrets. She wonders if any of her former victims or their families will one day come seeking revenge.
+The Red Syndicate
+: A criminal organization that attempted to force Ídrisè into their employ. When she refused, they placed a contract on her life. The contract remains technically active, though several assassins have already tried and failed. The Syndicate views her refusal as an insult that must be answered.
+
+Lord Petyr the Cruel
+: A nobleman whose cruelty toward servants and dependents violated every principle Ídrisè holds. When she discovered he was considering hiring her services, she refused and then discovered evidence of his crimes. She has become a quiet enemy, gathering information against him while keeping her distance.
+
+Her Own Past
+: In her younger years as a mercenary, before she developed her current moral code, Ídrisè took contracts whose purposes she now regrets. She wonders if any of her former victims or their families will one day come seeking revenge.
 
 ### Affiliations
 
-- **The Mercenaries Guild of Provènzia**: She maintains loose membership for contract purposes, though she is often at odds with the Guild's leadership over their willingness to take any contract regardless of moral considerations.
-- **The Shrine of Táranon**: Her spiritual home and place of origin, where the warrior-monks still speak of her as one of their most accomplished students, though she has moved beyond their direct community.
+The Mercenaries Guild of Provènzia
+: She maintains loose membership for contract purposes, though she is often at odds with the Guild's leadership over their willingness to take any contract regardless of moral considerations.
+
+The Shrine of Táranon
+: Her spiritual home and place of origin, where the warrior-monks still speak of her as one of their most accomplished students, though she has moved beyond their direct community.
 
 ## Plot Hooks
 

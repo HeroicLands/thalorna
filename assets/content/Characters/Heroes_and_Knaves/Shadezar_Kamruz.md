@@ -481,27 +481,36 @@ Shâdezar's core motivation is the perpetuation and expansion of his bloodline's
 
 ### Patrons
 
-- **The Warrior's Circle of the Dunhara Tribes**: An ancient organization of senior warriors and chieftains that recognizes Shâdezar as one of its most honored members. The circle occasionally calls upon him for major military ventures that benefit all the tribes.
+The Warrior's Circle of the Dunhara Tribes
+: An ancient organization of senior warriors and chieftains that recognizes Shâdezar as one of its most honored members. The circle occasionally calls upon him for major military ventures that benefit all the tribes.
 
-- **His Own Kamruz Clan Warriors**: The primary patrons who depend on Shâdezar for leadership, protection, and the opportunity to gain glory through expansion. They view him as the model of tribal virtue.
+His Own Kamruz Clan Warriors
+: The primary patrons who depend on Shâdezar for leadership, protection, and the opportunity to gain glory through expansion. They view him as the model of tribal virtue.
 
-- **Shamanic Council**: The spiritual leaders of the tribes consult with Shâdezar on matters affecting all Dunhara people, and they perform rituals in his name to invoke Báhrámiš's blessing on his campaigns.
+Shamanic Council
+: The spiritual leaders of the tribes consult with Shâdezar on matters affecting all Dunhara people, and they perform rituals in his name to invoke Báhrámiš's blessing on his campaigns.
 
 ### Enemies
 
-- **Chieftain Morven of the Soltrev Clan**: Leader of one of the clans that Shâdezar defeated, Morven harbors deep resentment and plots constant rebellion. He seeks alliances with other displaced chieftains to overthrow Shâdezar's rule.
+Chieftain Morven of the Soltrev Clan
+: Leader of one of the clans that Shâdezar defeated, Morven harbors deep resentment and plots constant rebellion. He seeks alliances with other displaced chieftains to overthrow Shâdezar's rule.
 
-- **The Merchant Coalition of the Northern Trade Routes**: The merchant republics beyond the Dunhara territories view Shâdezar's expansion as a threat to their trade and have begun funding his rivals and providing weapons to rebel tribes.
+The Merchant Coalition of the Northern Trade Routes
+: The merchant republics beyond the Dunhara territories view Shâdezar's expansion as a threat to their trade and have begun funding his rivals and providing weapons to rebel tribes.
 
-- **Warlord Kethren the Sorcerer**: A rival warrior who rules lands adjacent to Shâdezar's territory. Kethren uses magical power rather than pure physical strength, which Shâdezar views as cowardly. Their conflicting approaches to warfare have led to several bitter confrontations.
+Warlord Kethren the Sorcerer
+: A rival warrior who rules lands adjacent to Shâdezar's territory. Kethren uses magical power rather than pure physical strength, which Shâdezar views as cowardly. Their conflicting approaches to warfare have led to several bitter confrontations.
 
 ### Affiliations
 
-- **Kamruz Clan**: Shâdezar's primary affiliation and the source of his authority and power. The clan loyalty is absolute and reciprocal.
+Kamruz Clan
+: Shâdezar's primary affiliation and the source of his authority and power. The clan loyalty is absolute and reciprocal.
 
-- **The Warrior's Circle**: An ancient organization of elite warriors across the Dunhara tribes, meeting quarterly to discuss matters of mutual concern and occasionally coordinating large campaigns.
+The Warrior's Circle
+: An ancient organization of elite warriors across the Dunhara tribes, meeting quarterly to discuss matters of mutual concern and occasionally coordinating large campaigns.
 
-- **The Storm Cults**: Followers of Báhrámiš recognize Shâdezar as a chosen vessel of the storm god, and various religious groups seek his patronage and blessing.
+The Storm Cults
+: Followers of Báhrámiš recognize Shâdezar as a chosen vessel of the storm god, and various religious groups seek his patronage and blessing.
 
 ## Plot Hooks
 

@@ -469,19 +469,30 @@ Màdhurava is driven by a conviction that the careful maintenance of heraldic tr
 
 ### Patrons
 
-- **Lady Maharani Sávia of the Central House**: The most powerful noble in the city-states, who has relied on Màdhurava's counsel for thirty years to maintain her family's dominance and resolve succession questions in her favor.
-- **The Council of Lord Mayors**: The executive body of the city collectively seeks his counsel on matters affecting the governance and legitimacy of their collective rule.
+Lady Maharani Sávia of the Central House
+: The most powerful noble in the city-states, who has relied on Màdhurava's counsel for thirty years to maintain her family's dominance and resolve succession questions in her favor.
+
+The Council of Lord Mayors
+: The executive body of the city collectively seeks his counsel on matters affecting the governance and legitimacy of their collective rule.
 
 ### Enemies
 
-- **Herald Kárvesh the Modernizer**: A younger herald of considerable talent who advocates for streamlined heraldic processes and argues that many of Màdhurava's "sacred traditions" are merely outdated bureaucratic theater, directly challenging his authority.
-- **House Vákhara**: An ambitious merchant family whose genealogical claims Màdhurava has repeatedly denied in favor of more established houses; they are rumored to be sponsoring forged genealogical documents to discredit him.
+Herald Kárvesh the Modernizer
+: A younger herald of considerable talent who advocates for streamlined heraldic processes and argues that many of Màdhurava's "sacred traditions" are merely outdated bureaucratic theater, directly challenging his authority.
+
+House Vákhara
+: An ambitious merchant family whose genealogical claims Màdhurava has repeatedly denied in favor of more established houses; they are rumored to be sponsoring forged genealogical documents to discredit him.
 
 ### Affiliations
 
-- **The City Heralds' Guild**: Senior member and de facto keeper of the archive; wields enormous influence over the guild's direction and standards.
-- **The Council of Historical Scholars**: Founding member of an elite academic circle devoted to the preservation and study of the city-states' historical records.
-- **House Rudrata**: His family house, for whom he acts as primary genealogical advisor and keeper of family records.
+The City Heralds' Guild
+: Senior member and de facto keeper of the archive; wields enormous influence over the guild's direction and standards.
+
+The Council of Historical Scholars
+: Founding member of an elite academic circle devoted to the preservation and study of the city-states' historical records.
+
+House Rudrata
+: His family house, for whom he acts as primary genealogical advisor and keeper of family records.
 
 ## Plot Hooks
 

@@ -477,21 +477,36 @@ Gnaldrthann is driven primarily by the code he has constructed for himself: prot
 
 ### Patrons
 
-- **Lord Commander Aldric Naltharukh**: The highest-ranking military officer in the region, who has repeatedly relied on Gnaldrthann's counsel and experience. Aldric respects Gnaldrthann and has sheltered him from some of the more politically motivated aspects of military service.
-- **The Garrison Community**: The soldiers under his command, though they fear him, are loyal to Gnaldrthann. They know he will not ask them to take risks he would not take himself.
-- **Master Weaponsmith Gorath**: A craftsman who creates superior weapons and armor. Gorath and Gnaldrthann have a tacit understanding that supplies weapons to the garrison in exchange for protection and Gnaldrthann's advocacy.
+Lord Commander Aldric Naltharukh
+: The highest-ranking military officer in the region, who has repeatedly relied on Gnaldrthann's counsel and experience. Aldric respects Gnaldrthann and has sheltered him from some of the more politically motivated aspects of military service.
+
+The Garrison Community
+: The soldiers under his command, though they fear him, are loyal to Gnaldrthann. They know he will not ask them to take risks he would not take himself.
+
+Master Weaponsmith Gorath
+: A craftsman who creates superior weapons and armor. Gorath and Gnaldrthann have a tacit understanding that supplies weapons to the garrison in exchange for protection and Gnaldrthann's advocacy.
 
 ### Enemies
 
-- **Captain Meredith Vane**: A rival soldier of approximately equal skill who has competed with Gnaldrthann for recognition and advancement for the past fifteen years. Their conflicts have become personal and vicious, extending beyond the battlefield into political maneuvering.
-- **The Warlord Bruthgar**: A notorious mercenary commander whose forces have clashed with Gnaldrthann's garrison repeatedly. Bruthgar has vowed to eventually face Gnaldrthann in single combat to prove his superiority.
-- **Councilor Harvis Snalthendikh**: A political figure who views military power as a threat to his authority. He has worked systematically to undermine Gnaldrthann's position and credibility, seeking to replace him with someone more politically pliable.
+Captain Meredith Vane
+: A rival soldier of approximately equal skill who has competed with Gnaldrthann for recognition and advancement for the past fifteen years. Their conflicts have become personal and vicious, extending beyond the battlefield into political maneuvering.
+
+The Warlord Bruthgar
+: A notorious mercenary commander whose forces have clashed with Gnaldrthann's garrison repeatedly. Bruthgar has vowed to eventually face Gnaldrthann in single combat to prove his superiority.
+
+Councilor Harvis Snalthendikh
+: A political figure who views military power as a threat to his authority. He has worked systematically to undermine Gnaldrthann's position and credibility, seeking to replace him with someone more politically pliable.
 
 ### Affiliations
 
-- **The Royal Guard of Malagna**: The elite military force tasked with protecting the kingdom's borders and internal stability. Gnaldrthann is one of their most valued sergeants-at-arms.
-- **The Order of the Lion's Heart**: An informal fraternity of veteran soldiers who have survived significant military engagements. They meet occasionally to share war stories and honor fallen comrades.
-- **The Garrison at Stonewatch**: The specific military installation where Gnaldrthann is Master-at-Arms, training recruits and managing daily operations.
+The Royal Guard of Malagna
+: The elite military force tasked with protecting the kingdom's borders and internal stability. Gnaldrthann is one of their most valued sergeants-at-arms.
+
+The Order of the Lion's Heart
+: An informal fraternity of veteran soldiers who have survived significant military engagements. They meet occasionally to share war stories and honor fallen comrades.
+
+The Garrison at Stonewatch
+: The specific military installation where Gnaldrthann is Master-at-Arms, training recruits and managing daily operations.
 
 ## Plot Hooks
 

@@ -491,19 +491,24 @@ Secondarily, she is motivated by a fear of irrelevance—the fear that she is be
 
 ### Patrons
 
-- **The Temple of Khóršádrä, Keeper of Flames Morhan**: The desert temple dedicated to the deity of knowledge maintains an exclusive contract with Nushir for high-quality candles used in religious observance. **Morhan** has quietly assured Nushir that this contract will remain regardless of economic circumstances, reflecting the temple's commitment to supporting craftspeople of real excellence.
+The Temple of Khóršádrä, Keeper of Flames Morhan
+: The desert temple dedicated to the deity of knowledge maintains an exclusive contract with Nushir for high-quality candles used in religious observance. **Morhan** has quietly assured Nushir that this contract will remain regardless of economic circumstances, reflecting the temple's commitment to supporting craftspeople of real excellence.
 
-- **The Desert Caravans Consortium**: A confederation of merchants who travel the dangerous desert routes contracts with Nushir for high-quality candles for use in their camps. The reliability and superior burn characteristics of her products are valued for the safety they provide.
+The Desert Caravans Consortium
+: A confederation of merchants who travel the dangerous desert routes contracts with Nushir for high-quality candles for use in their camps. The reliability and superior burn characteristics of her products are valued for the safety they provide.
 
-- **House Merchants of the Khazryn**: The wealthy merchant families of the region maintain standing orders for Nushir's products, both for personal use and for prestigious gifts. Though some have begun experimenting with cheaper alternatives, several still refuse to compromise.
+House Merchants of the Khazryn
+: The wealthy merchant families of the region maintain standing orders for Nushir's products, both for personal use and for prestigious gifts. Though some have begun experimenting with cheaper alternatives, several still refuse to compromise.
 
 ### Enemies
 
-- **Salira the Innovator**: The younger chandler who has established herself as Nushir's rival, Salira represents everything Nushir despises—shortcuts, low standards, chasing fashions rather than perfecting craft. Though Salira has shown Nushir no deliberate disrespect, Nushir views her as a threat to everything she has spent her life building. Salira, for her part, is unaware of how deeply Nushir resents her, viewing the older chandler as merely a stuck-in-the-mud competitor who refuses to adapt to changing times.
+Salira the Innovator
+: The younger chandler who has established herself as Nushir's rival, Salira represents everything Nushir despises—shortcuts, low standards, chasing fashions rather than perfecting craft. Though Salira has shown Nushir no deliberate disrespect, Nushir views her as a threat to everything she has spent her life building. Salira, for her part, is unaware of how deeply Nushir resents her, viewing the older chandler as merely a stuck-in-the-mud competitor who refuses to adapt to changing times.
 
 ### Affiliations
 
-- **Village Craft Guild**: Nushir maintains active membership and has served on the guild's quality standards committee, though her increasingly rigid positions on what constitutes acceptable craftwork have begun to create tension with guild members who favor a broader definition of acceptable quality.
+Village Craft Guild
+: Nushir maintains active membership and has served on the guild's quality standards committee, though her increasingly rigid positions on what constitutes acceptable craftwork have begun to create tension with guild members who favor a broader definition of acceptable quality.
 
 ## Plot Hooks
 

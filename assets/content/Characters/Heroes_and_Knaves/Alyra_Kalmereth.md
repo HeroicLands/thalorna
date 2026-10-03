@@ -480,21 +480,27 @@ Three years into her independent work, Ályra has gained a modest reputation for
 
 ### Patrons
 
-- **Mistress Lìrien Clearbrook**: The local schoolmistress purchases toys in bulk for the children's lessons. She has become something of a mentor figure, gently pushing Ályra toward higher prices and introducing her to noble families seeking commissioned work.
+Mistress Lìrien Clearbrook
+: The local schoolmistress purchases toys in bulk for the children's lessons. She has become something of a mentor figure, gently pushing Ályra toward higher prices and introducing her to noble families seeking commissioned work.
 
-- **Trálkar the Wanderer**: A traveling storyteller who has taken Ályra's figures on tour across three kingdoms. He credits her creations with enhancing his performances and has become her most reliable champion.
+Trálkar the Wanderer
+: A traveling storyteller who has taken Ályra's figures on tour across three kingdoms. He credits her creations with enhancing his performances and has become her most reliable champion.
 
-- **The Kálmereth Family**: Despite early estrangement, Ályra's mother and elder siblings now purchase her work regularly and have begun commissioning pieces as marriage gifts for their own children and grandchildren.
+The Kálmereth Family
+: Despite early estrangement, Ályra's mother and elder siblings now purchase her work regularly and have begun commissioning pieces as marriage gifts for their own children and grandchildren.
 
 ### Enemies
 
-- **Master Gálric Skýrn**: The established toymaker of Élavendre, whose family has dominated the craft for three generations. He views Ályra as an unwelcome upstart and has begun spreading rumors that her dyes are toxic, her craftsmanship mediocre, and her prices represent a predatory undercutting of established artisans. In truth, his own work has grown stale and his prices inflated.
+Master Gálric Skýrn
+: The established toymaker of Élavendre, whose family has dominated the craft for three generations. He views Ályra as an unwelcome upstart and has begun spreading rumors that her dyes are toxic, her craftsmanship mediocre, and her prices represent a predatory undercutting of established artisans. In truth, his own work has grown stale and his prices inflated.
 
-- [[affiliation-linzwrtkhlth|Lin'Zuwaret elu Aû'Khelâthu]]: Several merchant guild officials view her independent status with suspicion and have begun threatening to impose taxation and licensing requirements specifically targeting solo craftspeople, clearly designed to force her out of business or into their ranks.
+[[affiliation-linzwrtkhlth|Lin'Zuwaret elu Aû'Khelâthu]]
+: Several merchant guild officials view her independent status with suspicion and have begun threatening to impose taxation and licensing requirements specifically targeting solo craftspeople, clearly designed to force her out of business or into their ranks.
 
 ### Affiliations
 
-- **The Artisan's Path**: An informal collective of independent craftspeople—woodworkers, potters, weavers, and others—who share knowledge, materials, and occasionally commission work. Ályra is one of their youngest members but increasingly its heart, often mediating disputes and organizing collaborative works.
+The Artisan's Path
+: An informal collective of independent craftspeople—woodworkers, potters, weavers, and others—who share knowledge, materials, and occasionally commission work. Ályra is one of their youngest members but increasingly its heart, often mediating disputes and organizing collaborative works.
 
 ## Plot Hooks
 

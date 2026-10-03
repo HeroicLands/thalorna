@@ -462,17 +462,24 @@ Goremadânis is driven by gratitude toward **Captain Saltmask** and a desire to 
 
 ### Patrons
 
-- **Captain Revik Saltmask**: Her adoptive father figure and original savior, **Saltmask** remains her primary patron and deepest loyalty. He has refused several offers to purchase her contract and insists she maintain her independence and freedom to choose her work.
-- **The Crews of Various Merchant Vessels**: The collective captains and officers of the ships she regularly works for, who value her reliability and skills. She has become a known commodity among **Moktur's** merchant marine.
+Captain Revik Saltmask
+: Her adoptive father figure and original savior, **Saltmask** remains her primary patron and deepest loyalty. He has refused several offers to purchase her contract and insists she maintain her independence and freedom to choose her work.
+
+The Crews of Various Merchant Vessels
+: The collective captains and officers of the ships she regularly works for, who value her reliability and skills. She has become a known commodity among **Moktur's** merchant marine.
 
 ### Enemies
 
-- **Slave Trader Devorin**: A merchant of human suffering who operates out of hidden docks in **Moktur**, **Devorin** has attempted multiple times to capture **Goremadânis**, viewing her as a valuable commodity. **Captain Saltmask** has protected her thus far, but the threat remains.
-- **The Stern Order of Naval Tradition**: Some of the older, more conservative naval officers view her presence aboard vessels as a violation of maritime tradition and believe women have no place in honest seafaring. They sometimes attempt to bar her from work or undermine her standing with captains.
+Slave Trader Devorin
+: A merchant of human suffering who operates out of hidden docks in **Moktur**, **Devorin** has attempted multiple times to capture **Goremadânis**, viewing her as a valuable commodity. **Captain Saltmask** has protected her thus far, but the threat remains.
+
+The Stern Order of Naval Tradition
+: Some of the older, more conservative naval officers view her presence aboard vessels as a violation of maritime tradition and believe women have no place in honest seafaring. They sometimes attempt to bar her from work or undermine her standing with captains.
 
 ### Affiliations
 
-- **Informal Merchant Marine Community**: While not a member of any formal organization, she is known among **Moktur's** maritime workers and enjoys a loose affiliation based on reputation and mutual respect.
+Informal Merchant Marine Community
+: While not a member of any formal organization, she is known among **Moktur's** maritime workers and enjoys a loose affiliation based on reputation and mutual respect.
 
 ## Plot Hooks
 

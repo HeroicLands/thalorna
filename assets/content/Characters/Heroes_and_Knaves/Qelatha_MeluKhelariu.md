@@ -470,18 +470,27 @@ Qelatha is driven by a combination of grief, duty, and determination to preserve
 
 ### Patrons
 
-- **Captain Joren Valdis**: The militia commander who employs Qelatha and has developed real respect for her skills and character. Valdis is unaware of her vigilante activities and tacitly allows her considerable freedom in exchange for her skill and loyalty. He has subtly protected her from official scrutiny on several occasions.
-- [[affiliation-linwalgir|Lin'Walgir]]: An informal network of individuals dedicated to protecting the borderlands and resisting exploitation. While not a formal patron, this network provides Qelatha with information, occasional resources, and companions who share her purpose.
+Captain Joren Valdis
+: The militia commander who employs Qelatha and has developed real respect for her skills and character. Valdis is unaware of her vigilante activities and tacitly allows her considerable freedom in exchange for her skill and loyalty. He has subtly protected her from official scrutiny on several occasions.
+
+[[affiliation-linwalgir|Lin'Walgir]]
+: An informal network of individuals dedicated to protecting the borderlands and resisting exploitation. While not a formal patron, this network provides Qelatha with information, occasional resources, and companions who share her purpose.
 
 ### Enemies
 
-- **Merchant-Lord Cassius Thorne**: A wealthy merchant whose logging and mining operations in the borderlands have destroyed significant portions of Qelatha's ancestral lands. Thorne has reason to suspect Qelatha has been sabotaging his operations and has hired mercenaries to track and eliminate her.
-- [[affiliation-gargezanu|Gar-Gezanu]]: An imperial organization tasked with collecting taxes and enforcing the laws of trade. They view Qelatha's vigilante activity as theft (of harvested goods) and assault (against their authorized contractors), and they have compiled a dossier on her activities.
+Merchant-Lord Cassius Thorne
+: A wealthy merchant whose logging and mining operations in the borderlands have destroyed significant portions of Qelatha's ancestral lands. Thorne has reason to suspect Qelatha has been sabotaging his operations and has hired mercenaries to track and eliminate her.
+
+[[affiliation-gargezanu|Gar-Gezanu]]
+: An imperial organization tasked with collecting taxes and enforcing the laws of trade. They view Qelatha's vigilante activity as theft (of harvested goods) and assault (against their authorized contractors), and they have compiled a dossier on her activities.
 
 ### Affiliations
 
-- **Local Militia**: Her official employment, which provides her with legitimacy and access to resources, though it also constrains her ability to operate against imperial interests.
-- [[affiliation-linwalgir|Lin'Walgir]]: An informal network of wilderness protectors and defenders of the land who work in coordination though without formal hierarchy or structure.
+Local Militia
+: Her official employment, which provides her with legitimacy and access to resources, though it also constrains her ability to operate against imperial interests.
+
+[[affiliation-linwalgir|Lin'Walgir]]
+: An informal network of wilderness protectors and defenders of the land who work in coordination though without formal hierarchy or structure.
 
 ## Plot Hooks
 

@@ -484,13 +484,19 @@ None formally, though older miners and fellow laborers view him as a de facto le
 
 ### Enemies
 
-- **Overseer Kalthor the Merciless**: The brutal taskmaster directly responsible for most of Ulthorv's torments. Kalthor takes personal pleasure in crushing the spirit of the enslaved and has specifically targeted Ulthorv for additional punishment because of his refusal to break.
-- **Lord Magistrate Gnartharukh**: The corrupt official who orchestrated Ulthorv's enslavement, initially to silence him about the tunnel collapse, and who now maintains vested financial interest in keeping him enslaved and controllable.
-- **The Nordheim Mining Consortium**: The collective enterprise that profits from slave labor and has institutional interest in maintaining Ulthorv's subjugation.
+Overseer Kalthor the Merciless
+: The brutal taskmaster directly responsible for most of Ulthorv's torments. Kalthor takes personal pleasure in crushing the spirit of the enslaved and has specifically targeted Ulthorv for additional punishment because of his refusal to break.
+
+Lord Magistrate Gnartharukh
+: The corrupt official who orchestrated Ulthorv's enslavement, initially to silence him about the tunnel collapse, and who now maintains vested financial interest in keeping him enslaved and controllable.
+
+The Nordheim Mining Consortium
+: The collective enterprise that profits from slave labor and has institutional interest in maintaining Ulthorv's subjugation.
 
 ### Affiliations
 
-- **The Enslaved Workers** - Though he has no formal group affiliation, Ulthorv is increasingly seen as a leader figure among the enslaved miners, a symbol of resistance and dignity in a system designed to strip both away.
+The Enslaved Workers
+: - Though he has no formal group affiliation, Ulthorv is increasingly seen as a leader figure among the enslaved miners, a symbol of resistance and dignity in a system designed to strip both away.
 
 ## Plot Hooks
 

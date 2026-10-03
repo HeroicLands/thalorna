@@ -484,25 +484,33 @@ Philína seeks to elevate hideworking from the status of a mere trade to that of
 
 ### Patrons
 
-- **Lady Theodora Kallisthenes**: A wealthy widow and patron of the arts who has become Philína's most consistent and generous patron. Theodora commissions regular pieces from Philína and has begun to introduce her work to other members of the city's artistic and intellectual circles.
+Lady Theodora Kallisthenes
+: A wealthy widow and patron of the arts who has become Philína's most consistent and generous patron. Theodora commissions regular pieces from Philína and has begun to introduce her work to other members of the city's artistic and intellectual circles.
 
-- **The Merchant Queens' Collective**: An informal network of successful female merchants and business owners who have collectively commissioned several pieces from Philína and who actively promote her work within their circles.
+The Merchant Queens' Collective
+: An informal network of successful female merchants and business owners who have collectively commissioned several pieces from Philína and who actively promote her work within their circles.
 
-- **High Priestess Irene of Vénusia**: A priestess of the goddess of prosperity who has commissioned ceremonial leather garments and artifacts from Philína for use in ritual contexts.
+High Priestess Irene of Vénusia
+: A priestess of the goddess of prosperity who has commissioned ceremonial leather garments and artifacts from Philína for use in ritual contexts.
 
 ### Enemies
 
-- **Master Theron of the Hideworkers' Guild**: The formal master of the guild who views Philína's independence and her rejection of traditional apprenticeship structures as a threat to the guild's authority and coherence. He has attempted to pressure her into formally joining the guild and submitting to its regulations.
+Master Theron of the Hideworkers' Guild
+: The formal master of the guild who views Philína's independence and her rejection of traditional apprenticeship structures as a threat to the guild's authority and coherence. He has attempted to pressure her into formally joining the guild and submitting to its regulations.
 
-- **Competing Male Hideworkers**: Several male artisans whose businesses have suffered as wealthy patrons have begun to seek out Philína's work instead. They have attempted to undermine her reputation through gossip and by suggesting that she must be receiving illicit assistance from men, that she couldn't possibly have achieved her skill through her own efforts.
+Competing Male Hideworkers
+: Several male artisans whose businesses have suffered as wealthy patrons have begun to seek out Philína's work instead. They have attempted to undermine her reputation through gossip and by suggesting that she must be receiving illicit assistance from men, that she couldn't possibly have achieved her skill through her own efforts.
 
-- **Traditional Craft Conservatives**: Members of the older generation of hideworkers who view her new methods and her willingness to challenge traditional methods as disrespectful to the accumulated knowledge of the craft.
+Traditional Craft Conservatives
+: Members of the older generation of hideworkers who view her new methods and her willingness to challenge traditional methods as disrespectful to the accumulated knowledge of the craft.
 
 ### Affiliations
 
-- **Independent Artisan Network**: Though she maintains no formal guild affiliation, she is part of an informal network of independent craftspeople in Byzaris who support and promote each other's work.
+Independent Artisan Network
+: Though she maintains no formal guild affiliation, she is part of an informal network of independent craftspeople in Byzaris who support and promote each other's work.
 
-- **The Women's Artistic Collective**: A newer organization dedicated to promoting the work of female artists and craftspeople in all disciplines. Philína is increasingly being called upon as a representative of the organization.
+The Women's Artistic Collective
+: A newer organization dedicated to promoting the work of female artists and craftspeople in all disciplines. Philína is increasingly being called upon as a representative of the organization.
 
 ## Plot Hooks
 

@@ -474,9 +474,14 @@ None in any formal sense. She is dependent entirely on the whim of her master, *
 
 ### Enemies
 
-- **Other Servants in the Household**: The junior servants resent what they perceive as her elevated position and favor. They sometimes sabotage her work, speak against her to Lord Aldwyn, or deliberately create extra work for her as punishment for her perceived betrayal of servant solidarity.
-- **Senior Housemistress Morvanna**: The elderly servant who would have taken the position Dvilgthýra now holds has become her bitter enemy, blaming her for being passed over due to age. Morvanna actively works against Dvilgthýra within the servant hierarchy.
-- **Unspoken Enemies Among Nobility**: Some of the visiting nobles are aware of Dvilgthýra's position as a boundary-crosser (a servant trusted with knowledge and responsibility beyond her station) and view her with suspicion or hostility. A few have made inappropriate advances toward her, and when she has managed to evade them, they have blamed her for the embarrassment.
+Other Servants in the Household
+: The junior servants resent what they perceive as her elevated position and favor. They sometimes sabotage her work, speak against her to Lord Aldwyn, or deliberately create extra work for her as punishment for her perceived betrayal of servant solidarity.
+
+Senior Housemistress Morvanna
+: The elderly servant who would have taken the position Dvilgthýra now holds has become her bitter enemy, blaming her for being passed over due to age. Morvanna actively works against Dvilgthýra within the servant hierarchy.
+
+Unspoken Enemies Among Nobility
+: Some of the visiting nobles are aware of Dvilgthýra's position as a boundary-crosser (a servant trusted with knowledge and responsibility beyond her station) and view her with suspicion or hostility. A few have made inappropriate advances toward her, and when she has managed to evade them, they have blamed her for the embarrassment.
 
 ### Affiliations
 

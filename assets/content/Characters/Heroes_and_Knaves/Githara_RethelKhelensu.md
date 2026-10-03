@@ -470,21 +470,36 @@ Githara drives toward a singular vision: to prove that excellence in the timberw
 
 ### Patrons
 
-- **Master Therethu of Gar-Qelti**: A renowned shipwright who purchases premium timber exclusively from Githara and has publicly defended her expertise against skeptics.
-- **The Architect Imsazu**: The lead designer for Aû'Khelâthu's new administrative complex, who insists on Githara's involvement in all timber specifications.
-- Merchant-Prince [[being-lekhebu2|Lekhebu]]: A wealthy trader in fine furnishings who has built his reputation partly on using only materials vetted by Githara Reth'el'Khelensu.
+Master Therethu of Gar-Qelti
+: A renowned shipwright who purchases premium timber exclusively from Githara and has publicly defended her expertise against skeptics.
+
+The Architect Imsazu
+: The lead designer for Aû'Khelâthu's new administrative complex, who insists on Githara's involvement in all timber specifications.
+
+Merchant-Prince [[being-lekhebu2|Lekhebu]]
+: A wealthy trader in fine furnishings who has built his reputation partly on using only materials vetted by Githara Reth'el'Khelensu.
 
 ### Enemies
 
-- **Gahkar the Dismissive**: An aging master timberwright who refuses to acknowledge Githara's superior knowledge and spreads rumors that she succeeds only through her mother's connections rather than merit.
-- [[affiliation-linlagrkhlth|Lin'Lagaru elu Aû'Khelâthu]]: A loose coalition of timber dealers focused purely on volume, who view Githara's refusal to supply inferior wood as an affront to their profits.
-- **Guild Politics**: While not a personal enemy, the conservative faction within the Timberwrights' Guild resists her attempts to establish new standards for quality assessment.
+Gahkar the Dismissive
+: An aging master timberwright who refuses to acknowledge Githara's superior knowledge and spreads rumors that she succeeds only through her mother's connections rather than merit.
+
+[[affiliation-linlagrkhlth|Lin'Lagaru elu Aû'Khelâthu]]
+: A loose coalition of timber dealers focused purely on volume, who view Githara's refusal to supply inferior wood as an affront to their profits.
+
+Guild Politics
+: While not a personal enemy, the conservative faction within the Timberwrights' Guild resists her attempts to establish new standards for quality assessment.
 
 ### Affiliations
 
-- **Timberwrights' Guild of Aû'Khelâthu**: A member in good standing, though she remains somewhat at odds with the old guard over admission standards and quality measures.
-- [[affiliation-genzetgewats|Genzet'Gewaâtis]]: A devotional society of the Voyager's followers, where Githara serves as one of the lay teachers on journeys, transitions, and transformation.
-- **The Craft Collective**: An informal association of the finest artisans in the timber trade, who meet quarterly to share techniques and maintain standards.
+Timberwrights' Guild of Aû'Khelâthu
+: A member in good standing, though she remains somewhat at odds with the old guard over admission standards and quality measures.
+
+[[affiliation-genzetgewats|Genzet'Gewaâtis]]
+: A devotional society of the Voyager's followers, where Githara serves as one of the lay teachers on journeys, transitions, and transformation.
+
+The Craft Collective
+: An informal association of the finest artisans in the timber trade, who meet quarterly to share techniques and maintain standards.
 
 ## Plot Hooks
 

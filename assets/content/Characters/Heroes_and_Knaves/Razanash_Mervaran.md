@@ -482,20 +482,33 @@ Razanash is motivated primarily by her commitment to her spiritual vows and to t
 
 ### Patrons
 
-- **Elder Shaman Qelti**: The oldest and most respected shaman in the tribe; he has mentored Razanash since her initiation and continues to provide guidance, though he sometimes worries that her methods are too unconventional.
-- **Chief Amara**: The tribe's leader who respects Razanash's spiritual authority and often consults her on matters of tribal importance; she has granted Razanash considerable autonomy in conducting her shamanic duties.
-- **The Serpent Spirit**: An entity Razanash encountered during her initiation ordeal and maintains an ongoing relationship with; it communicates with her through dreams and visions and provides guidance (though sometimes cryptic or morally complex guidance).
+Elder Shaman Qelti
+: The oldest and most respected shaman in the tribe; he has mentored Razanash since her initiation and continues to provide guidance, though he sometimes worries that her methods are too unconventional.
+
+Chief Amara
+: The tribe's leader who respects Razanash's spiritual authority and often consults her on matters of tribal importance; she has granted Razanash considerable autonomy in conducting her shamanic duties.
+
+The Serpent Spirit
+: An entity Razanash encountered during her initiation ordeal and maintains an ongoing relationship with; it communicates with her through dreams and visions and provides guidance (though sometimes cryptic or morally complex guidance).
 
 ### Enemies
 
-- **Shaman Darius**: A rival shamanic practitioner who views Razanash as an upstart and challenges her interpretations publicly; he represents the traditionalist faction that questions her unconventional methods.
-- **The Shadow Collective**: A mysterious group of rogue shamans and sorcerers who have approached Razanash multiple times with offers of power and knowledge; she has rejected them, but they view her refusal as naive and continue to attempt recruitment.
-- **Skeptical Warriors**: A faction within the tribe, led by hunter **Tarek**, who view shamanism generally as superstition and Razanash specifically as a charlatan capitalizing on superstitious fears. Their skepticism creates friction and undermines her authority.
+Shaman Darius
+: A rival shamanic practitioner who views Razanash as an upstart and challenges her interpretations publicly; he represents the traditionalist faction that questions her unconventional methods.
+
+The Shadow Collective
+: A mysterious group of rogue shamans and sorcerers who have approached Razanash multiple times with offers of power and knowledge; she has rejected them, but they view her refusal as naive and continue to attempt recruitment.
+
+Skeptical Warriors
+: A faction within the tribe, led by hunter **Tarek**, who view shamanism generally as superstition and Razanash specifically as a charlatan capitalizing on superstitious fears. Their skepticism creates friction and undermines her authority.
 
 ### Affiliations
 
-- **Tribal Shamanic Circle:** Razanash holds formal membership and is one of the circle's active practitioners, though her influence within the hierarchy is still secondary to the oldest shamans.
-- **The Desert Heralists' Collective:** An informal network of healers and herbalists across multiple desert tribes who share knowledge and recipes; Razanash maintains active correspondence through written symbols and occasional meetings.
+Tribal Shamanic Circle
+: Razanash holds formal membership and is one of the circle's active practitioners, though her influence within the hierarchy is still secondary to the oldest shamans.
+
+The Desert Heralists' Collective
+: An informal network of healers and herbalists across multiple desert tribes who share knowledge and recipes; Razanash maintains active correspondence through written symbols and occasional meetings.
 
 ## Plot Hooks
 

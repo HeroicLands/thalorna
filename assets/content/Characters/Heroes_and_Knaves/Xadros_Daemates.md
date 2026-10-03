@@ -470,9 +470,14 @@ Xadrôs is motivated fundamentally by the creative impulse and the desire to cre
 
 ### Patrons
 
-- **The Temple of Vénusia**: The local religious order regularly commissions altar adornments, decorative panels, and ceremonial objects from Xadrôs, valuing both his skill and his personal piety.
-- **Merchant Peldan the Prosperous**: A wealthy local trader who appreciates fine craftsmanship and has commissioned several pieces for his home, serving as Xadrôs' most reliable repeat customer.
-- **Village Elder Marîn**: The village's governing elder who treasures Xadrôs' work and regularly recommends him to visiting dignitaries, serving as an informal advocate for the craftsman's talents.
+The Temple of Vénusia
+: The local religious order regularly commissions altar adornments, decorative panels, and ceremonial objects from Xadrôs, valuing both his skill and his personal piety.
+
+Merchant Peldan the Prosperous
+: A wealthy local trader who appreciates fine craftsmanship and has commissioned several pieces for his home, serving as Xadrôs' most reliable repeat customer.
+
+Village Elder Marîn
+: The village's governing elder who treasures Xadrôs' work and regularly recommends him to visiting dignitaries, serving as an informal advocate for the craftsman's talents.
 
 ### Enemies
 
@@ -480,7 +485,8 @@ None formally, though tensions exist with imported goods manufacturers who have 
 
 ### Affiliations
 
-- **The Dâemâtês Family Workshop**: Operating for six generations, this establishment remains Xadrôs' primary identity and focus.
+The Dâemâtês Family Workshop
+: Operating for six generations, this establishment remains Xadrôs' primary identity and focus.
 
 ## Plot Hooks
 

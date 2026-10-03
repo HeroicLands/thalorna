@@ -473,23 +473,30 @@ Afzandah is driven by two competing desires that threaten to tear her life in op
 
 ### Patrons
 
-- **Zephyr-Merchant Kaelûs**: A wealthy trader in exotic materials who regularly commissions Afzandah for unique decorative arms to gift to minor nobility. His consistent business sustains her workshop, though she finds his taste uninspired.
+Zephyr-Merchant Kaelûs
+: A wealthy trader in exotic materials who regularly commissions Afzandah for unique decorative arms to gift to minor nobility. His consistent business sustains her workshop, though she finds his taste uninspired.
 
-- **Lady Savâ d'Anûr**: A desert knight of some renown who appreciates Afzandah's work and has commissioned several functional war-weapons. Their relationship is based on mutual respect for each other's craft, and Savâ occasionally invites Afzandah to hear tales of her campaigns.
+Lady Savâ d'Anûr
+: A desert knight of some renown who appreciates Afzandah's work and has commissioned several functional war-weapons. Their relationship is based on mutual respect for each other's craft, and Savâ occasionally invites Afzandah to hear tales of her campaigns.
 
-- **High Artisan Valdrin Corethûs**: Her former master, now retired, who takes pride in Afzandah's accomplishments and occasionally directs difficult technical problems to her for consultation.
+High Artisan Valdrin Corethûs
+: Her former master, now retired, who takes pride in Afzandah's accomplishments and occasionally directs difficult technical problems to her for consultation.
 
 ### Enemies
 
-- **Master-Smith Thordûn Blackforge**: A traditional weaponsmith who views Afzandah's ornamental designs as frivolous and has actively discouraged clients from commissioning her work. He sees her as a threat to the reputation of "serious" arms-craft and spreads rumors about the durability of her weapons.
+Master-Smith Thordûn Blackforge
+: A traditional weaponsmith who views Afzandah's ornamental designs as frivolous and has actively discouraged clients from commissioning her work. He sees her as a threat to the reputation of "serious" arms-craft and spreads rumors about the durability of her weapons.
 
-- **The Ferric Brotherhood**: A loose association of traditionalist craftspeople who have formally protested her advancement within the artisans' guild, claiming her work violates the guild's standards for martial functionality. They have attempted, thus far unsuccessfully, to have her expelled.
+The Ferric Brotherhood
+: A loose association of traditionalist craftspeople who have formally protested her advancement within the artisans' guild, claiming her work violates the guild's standards for martial functionality. They have attempted, thus far unsuccessfully, to have her expelled.
 
 ### Affiliations
 
-- **Kethramír Artisans' Guild**: Afzandah holds full Guildmaster standing, though her relationship with the organization is fraught. She pays her dues and maintains the minimum necessary involvement, frustrated by their conservatism.
+Kethramír Artisans' Guild
+: Afzandah holds full Guildmaster standing, though her relationship with the organization is fraught. She pays her dues and maintains the minimum necessary involvement, frustrated by their conservatism.
 
-- **The Devotees of Šírvádár**: She maintains loose affiliation with the temple of the Voyager in Kethramír, participating in seasonal rituals and seeking spiritual guidance regarding her wanderlust. The priests encourage her to see travel and adventure as forms of sacred service.
+The Devotees of Šírvádár
+: She maintains loose affiliation with the temple of the Voyager in Kethramír, participating in seasonal rituals and seeking spiritual guidance regarding her wanderlust. The priests encourage her to see travel and adventure as forms of sacred service.
 
 ## Plot Hooks
 

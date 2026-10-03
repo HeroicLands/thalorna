@@ -490,25 +490,33 @@ Zanut is driven by the desire to heal suffering and to prove that her brother's 
 
 ### Patrons
 
-- **Master Herbalist Zareshu**: An elderly herbalist who has become something of a mentor figure to Zanut. Zareshu has quietly helped her acquire rare plant specimens and occasionally provides financial support when Zanut's circumstances become desperate, though without Zanut's explicit knowledge.
+Master Herbalist Zareshu
+: An elderly herbalist who has become something of a mentor figure to Zanut. Zareshu has quietly helped her acquire rare plant specimens and occasionally provides financial support when Zanut's circumstances become desperate, though without Zanut's explicit knowledge.
 
-- **The Village Healer Letheshu**: A local healer who refers complex cases to Zanut and defends her against criticism, seeing in her work a worthy extension of his own practice.
+The Village Healer Letheshu
+: A local healer who refers complex cases to Zanut and defends her against criticism, seeing in her work a worthy extension of his own practice.
 
-- **Noblewoman Qiya of Gar-Theqeru**: A wealthy patron who employs Zanut to create custom remedies. Though Qiya pays well, her actual motivation may be less pure than it appears—she may be cultivating Zanut for purposes Zanut does not yet understand.
+Noblewoman Qiya of Gar-Theqeru
+: A wealthy patron who employs Zanut to create custom remedies. Though Qiya pays well, her actual motivation may be less pure than it appears—she may be cultivating Zanut for purposes Zanut does not yet understand.
 
 ### Enemies
 
-- **Church Inquisitor Malachi the Censorious**: A zealous religious official who views Zanut's independent practice and her use of certain botanicals as potentially heretical. He has begun investigating her work, questioning whether she employs forbidden magical techniques, and warning others away from her services. His scrutiny is partially motivated by religious concern, but also by his general hostility toward women working independently outside male supervision.
+Church Inquisitor Malachi the Censorious
+: A zealous religious official who views Zanut's independent practice and her use of certain botanicals as potentially heretical. He has begun investigating her work, questioning whether she employs forbidden magical techniques, and warning others away from her services. His scrutiny is partially motivated by religious concern, but also by his general hostility toward women working independently outside male supervision.
 
-- **The Merchant Alchemist Geron**: A wealthy alchemist who produces remedies in bulk and who views Zanut as a threat to his hold on the trade. Geron produces cheaper, less effective alternatives and has begun spreading rumors that Zanut's high-quality remedies contain dangerous ingredients and that her methods are unsanitary.
+The Merchant Alchemist Geron
+: A wealthy alchemist who produces remedies in bulk and who views Zanut as a threat to his hold on the trade. Geron produces cheaper, less effective alternatives and has begun spreading rumors that Zanut's high-quality remedies contain dangerous ingredients and that her methods are unsanitary.
 
-- **A Manipulative Former Patient**: A man who obtained multiple valuable remedies from Zanut by claiming to be terminally ill, then used them to poison a political rival. When the crime was discovered, Zanut's remedies were identified as the murder weapon, and though she was exonerated of wrongdoing, the scandal damaged her reputation and made her vulnerable to further accusations.
+A Manipulative Former Patient
+: A man who obtained multiple valuable remedies from Zanut by claiming to be terminally ill, then used them to poison a political rival. When the crime was discovered, Zanut's remedies were identified as the murder weapon, and though she was exonerated of wrongdoing, the scandal damaged her reputation and made her vulnerable to further accusations.
 
 ### Affiliations
 
-- [[affiliation-linlegharuw2|Lin'Legharu elu Wazu]]: A loose collective of practitioners who maintain independence from large commercial organizations or the formal Guild. Zanut is loosely affiliated, though her participation is minimal and her commitment is primarily to her own practice rather than to collective action.
+[[affiliation-linlegharuw2|Lin'Legharu elu Wazu]]
+: A loose collective of practitioners who maintain independence from large commercial organizations or the formal Guild. Zanut is loosely affiliated, though her participation is minimal and her commitment is primarily to her own practice rather than to collective action.
 
-- [[affiliation-linlghrglzkr|Lin'Legharu elu Galezkara]]: An informal network of naturalists and herbalists who correspond and occasionally meet to discuss botanical discoveries. Zanut's knowledge is valued, though her limited literacy and confidence prevent her from fully participating in scholarly discourse.
+[[affiliation-linlghrglzkr|Lin'Legharu elu Galezkara]]
+: An informal network of naturalists and herbalists who correspond and occasionally meet to discuss botanical discoveries. Zanut's knowledge is valued, though her limited literacy and confidence prevent her from fully participating in scholarly discourse.
 
 ## Plot Hooks
 

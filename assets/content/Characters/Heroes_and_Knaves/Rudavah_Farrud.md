@@ -469,19 +469,30 @@ Rudâvah is driven by a singular, almost obsessive goal: to reduce the suffering
 
 ### Patrons
 
-- **Master Jamal of Amradad**: Her former mentor, now retired, who still provides guidance on difficult cases and advocates for her reputation. He is one of the few people with whom Rudâvah maintains something approaching warm relationship.
-- **Captain Amir al-Rashid, Royal Cavalry**: The commander of the Sultanate's cavalry forces, who contracts with Rudâvah for the care and training of elite cavalry mounts. Their relationship is complicated—Amir demands results, but respects Rudâvah's insistence on treating animals well.
-- **Lady Zahra al-Mansur, Merchant Princess**: A wealthy merchant and equestrian enthusiast who has contracted for Rudâvah's services for two decades and provides her with political protection when her stubbornness creates problems with authorities.
+Master Jamal of Amradad
+: Her former mentor, now retired, who still provides guidance on difficult cases and advocates for her reputation. He is one of the few people with whom Rudâvah maintains something approaching warm relationship.
+
+Captain Amir al-Rashid, Royal Cavalry
+: The commander of the Sultanate's cavalry forces, who contracts with Rudâvah for the care and training of elite cavalry mounts. Their relationship is complicated—Amir demands results, but respects Rudâvah's insistence on treating animals well.
+
+Lady Zahra al-Mansur, Merchant Princess
+: A wealthy merchant and equestrian enthusiast who has contracted for Rudâvah's services for two decades and provides her with political protection when her stubbornness creates problems with authorities.
 
 ### Enemies
 
-- **Merchant Hakkim ibn Sahar**: A wealthy trader who once contracted Rudâvah for care of his caravan horses. When she discovered he was pushing animals beyond safe limits and refused to continue serving him, he spread rumors that her care was inadequate. The economic damage was substantial, and Rudâvah has never forgiven him.
-- **The Abusive Stablehands**: Several individuals employed by other facilities have felt her judgment and intervention when she discovers them mistreating animals, and they harbor resentment for her interference and moral lectures.
-- **Her Own Pain**: The chronic pain from her burn mark occasionally resurfaces, both physically and emotionally, reminding her of vulnerability and occasionally bringing on dark spells where she doubts her ability to prevent suffering.
+Merchant Hakkim ibn Sahar
+: A wealthy trader who once contracted Rudâvah for care of his caravan horses. When she discovered he was pushing animals beyond safe limits and refused to continue serving him, he spread rumors that her care was inadequate. The economic damage was substantial, and Rudâvah has never forgiven him.
+
+The Abusive Stablehands
+: Several individuals employed by other facilities have felt her judgment and intervention when she discovers them mistreating animals, and they harbor resentment for her interference and moral lectures.
+
+Her Own Pain
+: The chronic pain from her burn mark occasionally resurfaces, both physically and emotionally, reminding her of vulnerability and occasionally bringing on dark spells where she doubts her ability to prevent suffering.
 
 ### Affiliations
 
-- **None formal:** Rudâvah maintains independence from official organizations, though she works closely with the Sultanate's cavalry forces and maintains good relations with most of the region's stables and traders.
+None formal
+: Rudâvah maintains independence from official organizations, though she works closely with the Sultanate's cavalry forces and maintains good relations with most of the region's stables and traders.
 
 ## Plot Hooks
 

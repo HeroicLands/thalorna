@@ -472,20 +472,33 @@ Knalthrinna seeks to build something permanent—a legacy of commerce and reliab
 
 ### Patrons
 
-- **Merchant House Threnwick**: A major trading consortium that has contracted Knalthrinna's services exclusively for three years, providing a steady foundation of income
-- **The Brewers' Collective of Norgaad**: Guild of brewing operations that rely entirely on Knalthrinna to deliver their product to distant markets; they have become her most vocal advocates
-- **Lady Margery Ashford**: A minor noble woman who has contracted Knalthrinna to manage the complex carriage of her rural estates; their relationship has grown into something approaching true friendship
+Merchant House Threnwick
+: A major trading consortium that has contracted Knalthrinna's services exclusively for three years, providing a steady foundation of income
+
+The Brewers' Collective of Norgaad
+: Guild of brewing operations that rely entirely on Knalthrinna to deliver their product to distant markets; they have become her most vocal advocates
+
+Lady Margery Ashford
+: A minor noble woman who has contracted Knalthrinna to manage the complex carriage of her rural estates; their relationship has grown into something approaching true friendship
 
 ### Enemies
 
-- **The Blackwheel Consortium**: A rival teamster operation that has begun aggressive price-cutting and sabotage to undermine Knalthrinna's contracts; open warfare between the organizations seems imminent
-- **Tobias Sallow and Associates**: A merchant gang that attempted to strongarm Knalthrinna into paying "protection fees"; she refused and has since blocked their access to reliable transport, creating a dangerous enmity
-- **The City Constabulary Commander Darch**: The official responsible for road permits and checkpoint enforcement has taken Knalthrinna's straightforward refusal to accept corruption as a personal offense; he creates official obstacles at every opportunity
+The Blackwheel Consortium
+: A rival teamster operation that has begun aggressive price-cutting and sabotage to undermine Knalthrinna's contracts; open warfare between the organizations seems imminent
+
+Tobias Sallow and Associates
+: A merchant gang that attempted to strongarm Knalthrinna into paying "protection fees"; she refused and has since blocked their access to reliable transport, creating a dangerous enmity
+
+The City Constabulary Commander Darch
+: The official responsible for road permits and checkpoint enforcement has taken Knalthrinna's straightforward refusal to accept corruption as a personal offense; he creates official obstacles at every opportunity
 
 ### Affiliations
 
-- **City Teamsters' Guild**: Trade organization that Knalthrinna participates in reluctantly, viewing most of its traditions as wasteful but recognizing the political value of membership
-- **The Hafringr Company**: Her personal merchant enterprise, the organizational center of her identity and primary focus
+City Teamsters' Guild
+: Trade organization that Knalthrinna participates in reluctantly, viewing most of its traditions as wasteful but recognizing the political value of membership
+
+The Hafringr Company
+: Her personal merchant enterprise, the organizational center of her identity and primary focus
 
 ## Plot Hooks
 

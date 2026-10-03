@@ -482,17 +482,24 @@ Vishvàra is driven by loyalty to a way of life that he sees slowly disappearing
 
 ### Patrons
 
-- **The Merchant Captains' Collective**: Various ship captains and merchants who regularly contract Vishvàra's services respect his skill and seek his guidance. This informal circle provides him with steady employment.
-- **Shipping Industry Veterans**: Older, established ship captains who remember the traditions Vishvàra upholds and value his commitment to the old ways of seamanship.
+The Merchant Captains' Collective
+: Various ship captains and merchants who regularly contract Vishvàra's services respect his skill and seek his guidance. This informal circle provides him with steady employment.
+
+Shipping Industry Veterans
+: Older, established ship captains who remember the traditions Vishvàra upholds and value his commitment to the old ways of seamanship.
 
 ### Enemies
 
-- **Captain Meredith the Reckless**: A younger, ambitious captain who represents everything Vishvàra despises—puts speed and profit before safety, drives crews beyond reasonable endurance, and ignores the traditional practices that keep sailors alive. Their conflicts over the trade have become personal, with Meredith viewing Vishvàra as an obstacle to progress.
-- **The Trade Efficiency Bureau**: A new office of the crown charged with speeding maritime commerce has begun issuing rules that require faster sailing schedules and smaller crews. Vishvàra views these policies as dangerous and has publicly criticized them, earning the Bureau's enmity.
+Captain Meredith the Reckless
+: A younger, ambitious captain who represents everything Vishvàra despises—puts speed and profit before safety, drives crews beyond reasonable endurance, and ignores the traditional practices that keep sailors alive. Their conflicts over the trade have become personal, with Meredith viewing Vishvàra as an obstacle to progress.
+
+The Trade Efficiency Bureau
+: A new office of the crown charged with speeding maritime commerce has begun issuing rules that require faster sailing schedules and smaller crews. Vishvàra views these policies as dangerous and has publicly criticized them, earning the Bureau's enmity.
 
 ### Affiliations
 
-- **The Informal Sailors' Network**: Though not formally affiliated, Vishvàra maintains close connections with sailors, riggers, and maritime workers throughout the Vedyara territories. He occasionally provides advice and support to those in crisis.
+The Informal Sailors' Network
+: Though not formally affiliated, Vishvàra maintains close connections with sailors, riggers, and maritime workers throughout the Vedyara territories. He occasionally provides advice and support to those in crisis.
 
 ## Plot Hooks
 

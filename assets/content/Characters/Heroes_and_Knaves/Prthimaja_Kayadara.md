@@ -474,29 +474,39 @@ Prthîmâja seeks to create lasting beauty that outlasts human years, objects th
 
 ### Patrons
 
-- **Lady Chandrika Deshpande**: A noblewoman of impeccable taste who has patronized Prthîmâja's work for twelve years, commissioning increasingly ambitious pieces. She has become his closest confidant, though neither has articulated the affection that has grown between them. She represents both his greatest patron and his most significant emotional entanglement.
+Lady Chandrika Deshpande
+: A noblewoman of impeccable taste who has patronized Prthîmâja's work for twelve years, commissioning increasingly ambitious pieces. She has become his closest confidant, though neither has articulated the affection that has grown between them. She represents both his greatest patron and his most significant emotional entanglement.
 
-- **The Merchant Rajahs of the Spice Confederation**: A consortium of wealthy merchant families who have collectively commissioned significant numbers of Prthîmâja's pieces for gifts and personal adornment. Their patronage keeps his business solvent during slow seasons.
+The Merchant Rajahs of the Spice Confederation
+: A consortium of wealthy merchant families who have collectively commissioned significant numbers of Prthîmâja's pieces for gifts and personal adornment. Their patronage keeps his business solvent during slow seasons.
 
-- **The Temple of Vyālendra**: The great temple honors the deity Vyālendra (creation and craftsmanship) and regularly commissions sacred vessels, ceremonial jewels, and ritual objects from Prthîmâja. This work sustains him spiritually even when it provides less income than private commissions.
+The Temple of Vyālendra
+: The great temple honors the deity Vyālendra (creation and craftsmanship) and regularly commissions sacred vessels, ceremonial jewels, and ritual objects from Prthîmâja. This work sustains him spiritually even when it provides less income than private commissions.
 
-- **Master Mahendra's Heirs**: The family of his former teacher continues to commission his work and has become something like family, particularly Mahendra's granddaughter Sunita, who shares his love of creative problem-solving.
+Master Mahendra's Heirs
+: The family of his former teacher continues to commission his work and has become something like family, particularly Mahendra's granddaughter Sunita, who shares his love of creative problem-solving.
 
 ### Enemies
 
-- **Kalmesh the Ambitious**: A younger jeweler of growing skill who views Prthîmâja as an obstacle to his own ambitions. Kalmesh spreads rumors that Prthîmâja's new techniques are merely fashionable affectations, that his reputation exceeds his actual skill. He undercuts prices aggressively and has begun poaching Prthîmâja's apprentices.
+Kalmesh the Ambitious
+: A younger jeweler of growing skill who views Prthîmâja as an obstacle to his own ambitions. Kalmesh spreads rumors that Prthîmâja's new techniques are merely fashionable affectations, that his reputation exceeds his actual skill. He undercuts prices aggressively and has begun poaching Prthîmâja's apprentices.
 
-- **Maharaja Devànûra's Estate Administrators**: After Devànûra's death, his heirs have demanded Prthîmâja return or provide compensation for an extraordinary piece that was commissioned but never completed. The administrators are pursuing legal action, claiming Prthîmâja stole materials and payment without delivering the promised work. Prthîmâja abandoned the piece because he could not achieve the vision he promised, but the administrators view this as simple theft.
+Maharaja Devànûra's Estate Administrators
+: After Devànûra's death, his heirs have demanded Prthîmâja return or provide compensation for an extraordinary piece that was commissioned but never completed. The administrators are pursuing legal action, claiming Prthîmâja stole materials and payment without delivering the promised work. Prthîmâja abandoned the piece because he could not achieve the vision he promised, but the administrators view this as simple theft.
 
-- **The Guild Council's Conservative Faction**: Certain guild masters view Prthîmâja's new methods with suspicion, fearing that his experimental techniques violate traditional craft standards and compromise the guild's integrity. They have moved to restrict his teaching and limit access to the finest raw materials.
+The Guild Council's Conservative Faction
+: Certain guild masters view Prthîmâja's new methods with suspicion, fearing that his experimental techniques violate traditional craft standards and compromise the guild's integrity. They have moved to restrict his teaching and limit access to the finest raw materials.
 
 ### Affiliations
 
-- **The Jewelers' Guild of Vedyara**: Prthîmâja is a master member in full standing, though his relationship with certain factions is strained due to methodological disagreements.
+The Jewelers' Guild of Vedyara
+: Prthîmâja is a master member in full standing, though his relationship with certain factions is strained due to methodological disagreements.
 
-- **The Temple of Vyālendra**: He is a devoted follower and regular contributor of work, viewing his craftsmanship as a form of worship.
+The Temple of Vyālendra
+: He is a devoted follower and regular contributor of work, viewing his craftsmanship as a form of worship.
 
-- **The Artisans' Collective**: An informal network of master craftspeople from various disciplines who gather monthly to discuss techniques, challenges, and philosophical questions about their work.
+The Artisans' Collective
+: An informal network of master craftspeople from various disciplines who gather monthly to discuss techniques, challenges, and philosophical questions about their work.
 
 ## Plot Hooks
 

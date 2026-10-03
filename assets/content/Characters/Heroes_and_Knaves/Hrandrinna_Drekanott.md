@@ -492,19 +492,24 @@ She is also motivated by the persistent fear that her leg injury will eventually
 
 ### Patrons
 
-- **The Thegn of Vallsey, Lord Erikson**: The regional lord has engaged Hrandrinna for all his holdings' thatching work for the past decade, appreciating both her quality and her willingness to work within what he can pay. Lord Erikson has become one of her most consistent and reliable clients.
+The Thegn of Vallsey, Lord Erikson
+: The regional lord has engaged Hrandrinna for all his holdings' thatching work for the past decade, appreciating both her quality and her willingness to work within what he can pay. Lord Erikson has become one of her most consistent and reliable clients.
 
-- **The Farmers' Collective of the Northern Reach**: A coalition of farming families who pool resources for major maintenance projects contracts with Hrandrinna for seasonal work. While individual projects are small, the aggregate volume provides steady income and allows her to employ her assistant team consistently.
+The Farmers' Collective of the Northern Reach
+: A coalition of farming families who pool resources for major maintenance projects contracts with Hrandrinna for seasonal work. While individual projects are small, the aggregate volume provides steady income and allows her to employ her assistant team consistently.
 
-- **Bishop Rúnhildr of the Thrúnvald Temple**: The religious institution dedicated to the storm deity commissions Hrandrinna for specialized high-pitched roofing work designed to shed snow and endure particularly harsh weather. The bishop values her skill and the quality of her work.
+Bishop Rúnhildr of the Thrúnvald Temple
+: The religious institution dedicated to the storm deity commissions Hrandrinna for specialized high-pitched roofing work designed to shed snow and endure particularly harsh weather. The bishop values her skill and the quality of her work.
 
 ### Enemies
 
-- **Aldwin the Conventional**: A neighboring thatcher of considerable age and conservative methods, Aldwin views Hrandrinna's new methods as dangerous shortcuts that compromise quality. He has publicly criticized her work and attempted to persuade clients away from her, viewing her success as a threat to the traditional understanding of the craft. Their disagreement over the craft has become tinged with personal dislike.
+Aldwin the Conventional
+: A neighboring thatcher of considerable age and conservative methods, Aldwin views Hrandrinna's new methods as dangerous shortcuts that compromise quality. He has publicly criticized her work and attempted to persuade clients away from her, viewing her success as a threat to the traditional understanding of the craft. Their disagreement over the craft has become tinged with personal dislike.
 
 ### Affiliations
 
-- **The Craftspeople's Collective of Malagna**: While not formally affiliated with any official guild (which would require her to follow more conservative standards), Hrandrinna maintains good relationships with the broader community of craftspeople and occasionally collaborates on large projects.
+The Craftspeople's Collective of Malagna
+: While not formally affiliated with any official guild (which would require her to follow more conservative standards), Hrandrinna maintains good relationships with the broader community of craftspeople and occasionally collaborates on large projects.
 
 ## Plot Hooks
 

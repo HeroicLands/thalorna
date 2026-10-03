@@ -479,25 +479,33 @@ Bazûdar is driven by a desire to preserve the ancient relationship between huma
 
 ### Patrons
 
-- **Desert Lord Malik Shadowstep**: A wealthy noble who has employed Bazûdar for two decades to manage his prized herd of racing camels. Malik respects Bazûdar's methods and pays generously, providing one of his most reliable sources of income and social legitimacy.
+Desert Lord Malik Shadowstep
+: A wealthy noble who has employed Bazûdar for two decades to manage his prized herd of racing camels. Malik respects Bazûdar's methods and pays generously, providing one of his most reliable sources of income and social legitimacy.
 
-- **Mistress Arah of the Cooperative**: The leading figure of the Farmers' Cooperative, Arah recognizes Bazûdar's value and defends him against critics, though even her patience is sometimes tested by his inflexibility.
+Mistress Arah of the Cooperative
+: The leading figure of the Farmers' Cooperative, Arah recognizes Bazûdar's value and defends him against critics, though even her patience is sometimes tested by his inflexibility.
 
-- **The Village Healer Senna**: An older woman who has recognized that Bazûdar is fundamentally lonely and has made subtle attempts to include him in village social life. She brings him meals occasionally and treats his injuries, maternal in her concern without being patronizing.
+The Village Healer Senna
+: An older woman who has recognized that Bazûdar is fundamentally lonely and has made subtle attempts to include him in village social life. She brings him meals occasionally and treats his injuries, maternal in her concern without being patronizing.
 
 ### Enemies
 
-- **Magister Caldus**: The ambitious Town Administrator who views Bazûdar's traditional methods as an obstacle to progress and modernization. Caldus has been quietly working to impose regulations that would force Bazûdar to adopt new training techniques and potentially strip him of his authority. Caldus is also motivated by jealousy—Bazûdar commands more real respect than Caldus despite his lower social status.
+Magister Caldus
+: The ambitious Town Administrator who views Bazûdar's traditional methods as an obstacle to progress and modernization. Caldus has been quietly working to impose regulations that would force Bazûdar to adopt new training techniques and potentially strip him of his authority. Caldus is also motivated by jealousy—Bazûdar commands more real respect than Caldus despite his lower social status.
 
-- **The Merchant Combine of the North**: A faction of wealthy merchants pushing for large-scale animal breeding and training methods to increase yields. They view Bazûdar as a dangerous impediment to progress and have commissioned Magister Caldus to develop policies that would eliminate his influence.
+The Merchant Combine of the North
+: A faction of wealthy merchants pushing for large-scale animal breeding and training methods to increase yields. They view Bazûdar as a dangerous impediment to progress and have commissioned Magister Caldus to develop policies that would eliminate his influence.
 
-- **Rival Trainer Vex Ironhoof**: A younger animal trainer who has adopted harsh, forceful methods that produce quick results. Vex views Bazûdar as weak and outdated, and their ideological conflict has become personal. Vex deliberately undercuts Bazûdar's prices and spreads rumors that his methods are ineffective.
+Rival Trainer Vex Ironhoof
+: A younger animal trainer who has adopted harsh, forceful methods that produce quick results. Vex views Bazûdar as weak and outdated, and their ideological conflict has become personal. Vex deliberately undercuts Bazûdar's prices and spreads rumors that his methods are ineffective.
 
 ### Affiliations
 
-- **The Farmers' Cooperative of Khazryn**: Bazûdar holds membership and the respect of most members, though the organization is increasingly divided between traditionalists who support him and modernizers who view him as an impediment.
+The Farmers' Cooperative of Khazryn
+: Bazûdar holds membership and the respect of most members, though the organization is increasingly divided between traditionalists who support him and modernizers who view him as an impediment.
 
-- **The Desert Shamanic Circle**: An informal collective of spiritual practitioners who maintain the ancient traditions of desert magic and ritual. Bazûdar participates in their ceremonies, though his primary commitment remains his work with animals rather than explicit magical practice.
+The Desert Shamanic Circle
+: An informal collective of spiritual practitioners who maintain the ancient traditions of desert magic and ritual. Bazûdar participates in their ceremonies, though his primary commitment remains his work with animals rather than explicit magical practice.
 
 ## Plot Hooks
 

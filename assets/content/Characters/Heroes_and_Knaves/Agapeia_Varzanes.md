@@ -482,23 +482,30 @@ Agápeia is driven by a desire for autonomy and meaningful work that connects he
 
 ### Patrons
 
-- **Master Jeweler Sâvâlî**: One of the Byzarian League's finest gem workers, who regularly commissions Agápeia to locate and extract specific gem varieties. Their relationship is built on mutual respect and years of reliable dealings.
+Master Jeweler Sâvâlî
+: One of the Byzarian League's finest gem workers, who regularly commissions Agápeia to locate and extract specific gem varieties. Their relationship is built on mutual respect and years of reliable dealings.
 
-- **Overseer Dûrûm**: Her former mentor, still active in the major mining operations, who refers her specialized prospecting jobs and occasionally provides her with information about emerging deposits and developments in the trade.
+Overseer Dûrûm
+: Her former mentor, still active in the major mining operations, who refers her specialized prospecting jobs and occasionally provides her with information about emerging deposits and developments in the trade.
 
-- **The Clergy of Flórania**: The local temple of the fertility goddess, which employs Agápeia informally to source materials for ritual work and maintains a small stipend in support of her mission to practice mining with spiritual reverence.
+The Clergy of Flórania
+: The local temple of the fertility goddess, which employs Agápeia informally to source materials for ritual work and maintains a small stipend in support of her mission to practice mining with spiritual reverence.
 
 ### Enemies
 
-- **Mining Baron Valdûm Thex**: The ruthless owner of several of the largest mining operations in the Byzarian League, who views independent miners like Agápeia as obstacles to consolidation and profit. He has made subtle efforts to make her operations more difficult, buying up mineral rights to areas she frequents and offering inflated prices to her regular clients to undercut her sales.
+Mining Baron Valdûm Thex
+: The ruthless owner of several of the largest mining operations in the Byzarian League, who views independent miners like Agápeia as obstacles to consolidation and profit. He has made subtle efforts to make her operations more difficult, buying up mineral rights to areas she frequents and offering inflated prices to her regular clients to undercut her sales.
 
-- **The Karataş Consortium**: A loose association of the larger mining interests that have begun using dangerous alchemical and magical extraction methods. Agápeia suspects they are drawing her former colleagues into increasingly perilous work, and she has begun to publicly question their practices, making her a target for their displeasure.
+The Karataş Consortium
+: A loose association of the larger mining interests that have begun using dangerous alchemical and magical extraction methods. Agápeia suspects they are drawing her former colleagues into increasingly perilous work, and she has begun to publicly question their practices, making her a target for their displeasure.
 
 ### Affiliations
 
-- **The Byzarian Miners' Free Union**: Agápeia maintains membership in the independent miners' collective, which provides mutual support and advocacy for prospectors working outside the major operations. She contributes to their fund and occasionally participates in union activities, though she is not a leader within the organization.
+The Byzarian Miners' Free Union
+: Agápeia maintains membership in the independent miners' collective, which provides mutual support and advocacy for prospectors working outside the major operations. She contributes to their fund and occasionally participates in union activities, though she is not a leader within the organization.
 
-- **The Temple of Flórania**: She maintains active spiritual affiliation and participates in seasonal celebrations and rituals, and occasionally guides temple-sanctioned expeditions into the sacred mineral sites.
+The Temple of Flórania
+: She maintains active spiritual affiliation and participates in seasonal celebrations and rituals, and occasionally guides temple-sanctioned expeditions into the sacred mineral sites.
 
 ## Plot Hooks
 

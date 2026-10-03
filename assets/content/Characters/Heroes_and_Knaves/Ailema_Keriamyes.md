@@ -486,23 +486,30 @@ Ailêmâ is driven by competing desires that create significant internal tension
 
 ### Patrons
 
-- **Imperial Archivist Salûdor**: The head of the Imperial Archives, who commissions Ailêmâ regularly for the transcription and preservation of historical documents. He values her reliability and her understanding of archival standards.
+Imperial Archivist Salûdor
+: The head of the Imperial Archives, who commissions Ailêmâ regularly for the transcription and preservation of historical documents. He values her reliability and her understanding of archival standards.
 
-- **Merchant-Lady Savîna d'Corieth**: A wealthy merchant of considerable influence who employs Ailêmâ to handle her personal correspondence and record-keeping. Savîna appreciates Ailêmâ's discretion and discreteness, and has become something of a patron to her.
+Merchant-Lady Savîna d'Corieth
+: A wealthy merchant of considerable influence who employs Ailêmâ to handle her personal correspondence and record-keeping. Savîna appreciates Ailêmâ's discretion and discreteness, and has become something of a patron to her.
 
-- **Master Vexillus**: Her former teacher, now elderly and retired, who maintains contact with Ailêmâ and occasionally seeks her advice on historical scribal techniques and is an informal mentor to her.
+Master Vexillus
+: Her former teacher, now elderly and retired, who maintains contact with Ailêmâ and occasionally seeks her advice on historical scribal techniques and is an informal mentor to her.
 
 ### Enemies
 
-- **Scribe-Master Thelvûn**: A rival scribe who operates a competing workshop in Alyssa. Thelvûn practices a more commercial, volume-oriented approach to scribal work, and he views Ailêmâ's perfectionism and premium pricing as elitist. He has actively worked to undercut her prices and has spread rumors questioning whether her premium pricing is justified by proportionally superior quality.
+Scribe-Master Thelvûn
+: A rival scribe who operates a competing workshop in Alyssa. Thelvûn practices a more commercial, volume-oriented approach to scribal work, and he views Ailêmâ's perfectionism and premium pricing as elitist. He has actively worked to undercut her prices and has spread rumors questioning whether her premium pricing is justified by proportionally superior quality.
 
-- **The Merchant-Bureaucrats of Trade**: A faction within the merchant guilds who view scribal services as an unnecessary luxury and have advocated for the replacement of hand-written documents with printed or more economical alternatives. They see Ailêmâ as an example of the kind of unnecessary refinement that slows commerce.
+The Merchant-Bureaucrats of Trade
+: A faction within the merchant guilds who view scribal services as an unnecessary luxury and have advocated for the replacement of hand-written documents with printed or more economical alternatives. They see Ailêmâ as an example of the kind of unnecessary refinement that slows commerce.
 
 ### Affiliations
 
-- **The Imperial Scribal Guild**: Ailêmâ maintains full Guildmaster standing and participates in the guild's formal structures, though she does not hold an official position. She is well-respected within the organization and is occasionally consulted on matters of standards and authenticity.
+The Imperial Scribal Guild
+: Ailêmâ maintains full Guildmaster standing and participates in the guild's formal structures, though she does not hold an official position. She is well-respected within the organization and is occasionally consulted on matters of standards and authenticity.
 
-- **The Temple of Flórania**: She participates sporadically in temple activities and maintains a nominal spiritual affiliation with the fertility goddess. However, her engagement with the temple has been minimal compared to her earlier years, a fact that occasionally troubles her conscience.
+The Temple of Flórania
+: She participates sporadically in temple activities and maintains a nominal spiritual affiliation with the fertility goddess. However, her engagement with the temple has been minimal compared to her earlier years, a fact that occasionally troubles her conscience.
 
 ## Plot Hooks
 

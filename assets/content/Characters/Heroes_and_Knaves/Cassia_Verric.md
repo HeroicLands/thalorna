@@ -470,9 +470,14 @@ She does not hate Rashîra, or Zahira, or Bethûa. They are, respectively, a pri
 
 ### Enemies
 
-- [[being-zahirmlkht|Zahira Malkhet, the Hound of the Veil]]: The Bethûan thief-taker racing to recover or destroy the register. Cassia means to see her thwarted, confused, and delayed at every turn—never letting the Veil's hand close on the rolls—and respects her enough to spend real resources on it.
-- **The Court of the Veil**: The Bethûan intelligence household whose secret she is working to expose. The whole of Cassia's operation is a quiet duel against the unseen agents of **Mêtríssa Amîthéna of House Thamîrîon**.
-- **The agents of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]**: Should the Khelâthi learn that the register exists and is running for their frontier, their hand will reach into the Marches too—and Cassia must keep the proof from them as surely as from Bethûa.
+[[being-zahirmlkht|Zahira Malkhet, the Hound of the Veil]]
+: The Bethûan thief-taker racing to recover or destroy the register. Cassia means to see her thwarted, confused, and delayed at every turn—never letting the Veil's hand close on the rolls—and respects her enough to spend real resources on it.
+
+The Court of the Veil
+: The Bethûan intelligence household whose secret she is working to expose. The whole of Cassia's operation is a quiet duel against the unseen agents of **Mêtríssa Amîthéna of House Thamîrîon**.
+
+The agents of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]
+: Should the Khelâthi learn that the register exists and is running for their frontier, their hand will reach into the Marches too—and Cassia must keep the proof from them as surely as from Bethûa.
 
 ## Plot Hooks
 

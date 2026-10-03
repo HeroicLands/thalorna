@@ -472,20 +472,33 @@ Arévyn drives forward not from ambition or material need, but from a deep convi
 
 ### Patrons
 
-- **Merchant House Kallinthiros**: The wealthy gem-trading family relies on Arévyn for prospecting expeditions and authentication services. They pay handsomely for his continued consultation.
-- **Master Jeweler Selyndor the Exquisite**: A master craftsperson who learned her trade partly under Arévyn's instruction. She remains his most loyal patron and friend.
-- **The Royal Engineering Corps of Élavendre**: The Kingdom occasionally contracts Arévyn for strategic mining projects and tunnel assessments involving critical infrastructure.
+Merchant House Kallinthiros
+: The wealthy gem-trading family relies on Arévyn for prospecting expeditions and authentication services. They pay handsomely for his continued consultation.
+
+Master Jeweler Selyndor the Exquisite
+: A master craftsperson who learned her trade partly under Arévyn's instruction. She remains his most loyal patron and friend.
+
+The Royal Engineering Corps of Élavendre
+: The Kingdom occasionally contracts Arévyn for strategic mining projects and tunnel assessments involving critical infrastructure.
 
 ### Enemies
 
-- **Foreman Kardos of the Deepmine Consortium**: A ruthless operative who views Arévyn's safety protocols as expensive obstacles to profit. They have clashed repeatedly over his warnings about unstable shafts.
-- **The Industrialists' Council**: A growing faction of younger mine owners who see Arévyn's traditionalism as a threat to their efficiency-focused operations and expansion plans.
+Foreman Kardos of the Deepmine Consortium
+: A ruthless operative who views Arévyn's safety protocols as expensive obstacles to profit. They have clashed repeatedly over his warnings about unstable shafts.
+
+The Industrialists' Council
+: A growing faction of younger mine owners who see Arévyn's traditionalism as a threat to their efficiency-focused operations and expansion plans.
 
 ### Affiliations
 
-- **Miners' Union of Élavendre**: Arévyn holds the rank of Senior Advisor and chairs the Safety Committee.
-- **Craftspeople's Guild**: Membership in multiple specialized circles including Jewelcrafters and Metallurgists.
-- **The Order of Jánus (Order Aspect)**: A devout follower who attends ceremonies regularly, finding spiritual meaning in the order inherent in mineral formations.
+Miners' Union of Élavendre
+: Arévyn holds the rank of Senior Advisor and chairs the Safety Committee.
+
+Craftspeople's Guild
+: Membership in multiple specialized circles including Jewelcrafters and Metallurgists.
+
+The Order of Jánus (Order Aspect)
+: A devout follower who attends ceremonies regularly, finding spiritual meaning in the order inherent in mineral formations.
 
 ## Plot Hooks
 

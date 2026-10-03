@@ -464,19 +464,30 @@ Júthâra is driven by an almost obsessive need to understand the forces that co
 
 ### Patrons
 
-- **The Matriarch's Council**: Officially, she serves the ruling body of [[affiliation-mtrrchybth|Bethua]], conducting investigations and providing medical consultation on matters of state health.
-- **Thessala the Wise**: Her elderly mentor and former primary teacher, though now retired, continues to provide guidance and occasionally supplies rare components for her experiments.
-- **Master Archivist Solene**: The keeper of the Great Library, who has protected Júthâra's reputation and provided her with access to restricted texts in exchange for her discoveries.
+The Matriarch's Council
+: Officially, she serves the ruling body of [[affiliation-mtrrchybth|Bethua]], conducting investigations and providing medical consultation on matters of state health.
+
+Thessala the Wise
+: Her elderly mentor and former primary teacher, though now retired, continues to provide guidance and occasionally supplies rare components for her experiments.
+
+Master Archivist Solene
+: The keeper of the Great Library, who has protected Júthâra's reputation and provided her with access to restricted texts in exchange for her discoveries.
 
 ### Enemies
 
-- **The Traditionalist Cabal**: A loose coalition of conservative scholars who view her methods as heretical, actively working to discredit her findings and block her publications.
-- **Herald-Priest Matthias**: A religious authority who considers her research blasphemous and has publicly condemned her medical practices as sorcery.
+The Traditionalist Cabal
+: A loose coalition of conservative scholars who view her methods as heretical, actively working to discredit her findings and block her publications.
+
+Herald-Priest Matthias
+: A religious authority who considers her research blasphemous and has publicly condemned her medical practices as sorcery.
 
 ### Affiliations
 
-- **The Scholars' Guild of Bethua**: The primary organization of her profession, though her relationship with it is contentious—she frequently challenges their orthodoxies.
-- **The Circle of Natural Philosophy**: A secret society of reform-minded scholars who meet to discuss radical new ideas beyond the scrutiny of traditionalists.
+The Scholars' Guild of Bethua
+: The primary organization of her profession, though her relationship with it is contentious—she frequently challenges their orthodoxies.
+
+The Circle of Natural Philosophy
+: A secret society of reform-minded scholars who meet to discuss radical new ideas beyond the scrutiny of traditionalists.
 
 ## Plot Hooks
 

@@ -475,19 +475,30 @@ Svulthýra seeks only to live with integrity in a world that grows increasingly 
 
 ### Patrons
 
-- **House Nordthorne**: A noble family that has maintained standing contracts with Svulthýra for the finest furs and wilderness supplies; they pay well and respect her skill
-- **Harvin's Fur Trading Company**: The primary commercial outlet for Svulthýra's work, run by an aging merchant named **Harvin Hvarnumakh** who has worked with her for over a decade and views her as indispensable
-- **Priest Aldwin of the Fródvin's Temple**: A spiritual authority who has taken interest in Svulthýra's deepening moral philosophy and occasionally contracts her for wilderness-based spiritual retreats and teachings
+House Nordthorne
+: A noble family that has maintained standing contracts with Svulthýra for the finest furs and wilderness supplies; they pay well and respect her skill
+
+Harvin's Fur Trading Company
+: The primary commercial outlet for Svulthýra's work, run by an aging merchant named **Harvin Hvarnumakh** who has worked with her for over a decade and views her as indispensable
+
+Priest Aldwin of the Fródvin's Temple
+: A spiritual authority who has taken interest in Svulthýra's deepening moral philosophy and occasionally contracts her for wilderness-based spiritual retreats and teachings
 
 ### Enemies
 
-- **The Blackpelt Poachers**: A criminal organization that kills game indiscriminately for quick profit; Svulthýra actively interferes with their operations and has destroyed snares and traps to prevent their predatory harvesting
-- **Duke Hroarsson**: A noble of the neighboring realm who believes all wilderness should be exploited for maximum profit; he has openly declared his intention to destroy Svulthýra's trapping territories and put hunting in Nordheim on a great and ruinous scale
-- **Merchant Jorvik the Merciless**: A fur trader who views Svulthýra's recent reluctance to fulfill contracts as betrayal; he has begun spreading rumors that she has gone mad from isolation and is stealing from her patrons
+The Blackpelt Poachers
+: A criminal organization that kills game indiscriminately for quick profit; Svulthýra actively interferes with their operations and has destroyed snares and traps to prevent their predatory harvesting
+
+Duke Hroarsson
+: A noble of the neighboring realm who believes all wilderness should be exploited for maximum profit; he has openly declared his intention to destroy Svulthýra's trapping territories and put hunting in Nordheim on a great and ruinous scale
+
+Merchant Jorvik the Merciless
+: A fur trader who views Svulthýra's recent reluctance to fulfill contracts as betrayal; he has begun spreading rumors that she has gone mad from isolation and is stealing from her patrons
 
 ### Affiliations
 
-- **The Fródvin's Circle**: An informal fellowship of individuals devoted to the fertility aspect of Fródvin and the preservation of natural abundance; Svulthýra has recently begun attending their gatherings and exploring deeper spiritual connection
+The Fródvin's Circle
+: An informal fellowship of individuals devoted to the fertility aspect of Fródvin and the preservation of natural abundance; Svulthýra has recently begun attending their gatherings and exploring deeper spiritual connection
 
 ## Plot Hooks
 

@@ -481,17 +481,24 @@ Despite his unwavering commitment to his faith, Father Iztéban is pragmatic eno
 
 ### Patrons
 
-- **Sir [[being-srndrslrcknghtwstrnmrchs|Andrés]] Lorca**: A loyal knight and Iztéban’s close friend, Sir [[being-srndrslrcknghtwstrnmrchs|Andrés]] has served as Iztéban’s protector and companion on many dangerous missions. Together, they have fought bandits, quelled rebellions, and brought corrupt nobles to justice. Sir [[being-srndrslrcknghtwstrnmrchs|Andrés]] embodies the ideals of Jánusian chivalry and is unwavering in his support of Iztéban’s quest for justice.
-- **Archbishop Valerio Córdava**
+Sir [[being-srndrslrcknghtwstrnmrchs|Andrés]] Lorca
+: A loyal knight and Iztéban’s close friend, Sir [[being-srndrslrcknghtwstrnmrchs|Andrés]] has served as Iztéban’s protector and companion on many dangerous missions. Together, they have fought bandits, quelled rebellions, and brought corrupt nobles to justice. Sir [[being-srndrslrcknghtwstrnmrchs|Andrés]] embodies the ideals of Jánusian chivalry and is unwavering in his support of Iztéban’s quest for justice.
+
+Archbishop Valerio Córdava
+: The Jánusian prelate at Valderas, who confirms Iztéban’s arbitrations under seal and so meets him on the register four times a year. The commissions into noble corruption carry that seal, and so does the protection from the complaints they draw—protection Iztéban knows is conditional on the matter never reaching the royal court. Córdava is also **Tesera**’s brother. Neither of them says so, and nobody counts a scholar’s daughter who married into the royal guard as kin to an archbishop.
 
 ### Enemies
 
-- **Lord Goran de Virador**: A corrupt noble who has been exploiting his people and ignoring the laws of the kingdom, Lord Goran sees Iztéban’s investigation as a direct threat to his power. Lord Goran will use every means at his disposal—bribery, manipulation, and even violence—to stop Iztéban from uncovering the full extent of his crimes.
-- **Lady Isolda de Varas**: A shrewd noblewoman who plays a dangerous political game, Lady Isolda publicly supports the Jánusian faith but has secretly allied herself with the corrupt elements within the kingdom. She views Iztéban as an obstacle to her ambitions and has begun to quietly work against him, spreading rumors and using her influence in the royal court to undermine his reputation.
+Lord Goran de Virador
+: A corrupt noble who has been exploiting his people and ignoring the laws of the kingdom, Lord Goran sees Iztéban’s investigation as a direct threat to his power. Lord Goran will use every means at his disposal—bribery, manipulation, and even violence—to stop Iztéban from uncovering the full extent of his crimes.
+
+Lady Isolda de Varas
+: A shrewd noblewoman who plays a dangerous political game, Lady Isolda publicly supports the Jánusian faith but has secretly allied herself with the corrupt elements within the kingdom. She views Iztéban as an obstacle to her ambitions and has begun to quietly work against him, spreading rumors and using her influence in the royal court to undermine his reputation.
 
 ### Affiliations
 
-- **Sir [[being-srndrslrcknghtwstrnmrchs|Andrés]] Lorca**: A staunch advocate of chivalry and honor, Sir [[being-srndrslrcknghtwstrnmrchs|Andrés]] was impressed with Father Iztéban’s commitment and dedication, and has decided to support his goals. Their friendship is borne out of mutual respect and admiration.
+Sir [[being-srndrslrcknghtwstrnmrchs|Andrés]] Lorca
+: A staunch advocate of chivalry and honor, Sir [[being-srndrslrcknghtwstrnmrchs|Andrés]] was impressed with Father Iztéban’s commitment and dedication, and has decided to support his goals. Their friendship is borne out of mutual respect and admiration.
 
 ## Plot Hooks
 

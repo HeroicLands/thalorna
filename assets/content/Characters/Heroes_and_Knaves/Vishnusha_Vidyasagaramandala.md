@@ -472,18 +472,27 @@ Vishnusha seeks to create a legacy that extends beyond extracted ore and profit.
 
 ### Patrons
 
-- **The Merchant Collective**: The primary commercial organization that contracts Vishnusha's skill and employs him as a senior foreman. This relationship is increasingly strained as the Collective pushes for higher profits at the expense of safety.
-- **The Miners' Union Leadership**: Several prominent members of the union's leadership council rely on Vishnusha's counsel and support. He acts as an informal mediator between the union and the Merchant Collective.
+The Merchant Collective
+: The primary commercial organization that contracts Vishnusha's skill and employs him as a senior foreman. This relationship is increasingly strained as the Collective pushes for higher profits at the expense of safety.
+
+The Miners' Union Leadership
+: Several prominent members of the union's leadership council rely on Vishnusha's counsel and support. He acts as an informal mediator between the union and the Merchant Collective.
 
 ### Enemies
 
-- **Overseer Thálim**: A ruthless administrator dispatched by the Merchant Collective to increase profits. Thálim views safety measures as unnecessary expense and has repeatedly overridden Vishnusha's safety recommendations, creating dangerous conditions and tension between them.
-- **The Industrial Consortium**: A rival merchant organization that seeks to undercut the Collective's mining operations. They have attempted to poach Vishnusha's workers and techniques, and have even offered him substantial sums to switch his allegiance.
+Overseer Thálim
+: A ruthless administrator dispatched by the Merchant Collective to increase profits. Thálim views safety measures as unnecessary expense and has repeatedly overridden Vishnusha's safety recommendations, creating dangerous conditions and tension between them.
+
+The Industrial Consortium
+: A rival merchant organization that seeks to undercut the Collective's mining operations. They have attempted to poach Vishnusha's workers and techniques, and have even offered him substantial sums to switch his allegiance.
 
 ### Affiliations
 
-- **The Miners' Union**: Vishnusha maintains full membership and serves in an unofficial capacity as a bridge between the union and the Merchant Collective's overseers. The union views him as one of their most reliable members.
-- **The Merchant Collective**: His primary employer, though this relationship is becoming increasingly complicated by ethical disagreements.
+The Miners' Union
+: Vishnusha maintains full membership and serves in an unofficial capacity as a bridge between the union and the Merchant Collective's overseers. The union views him as one of their most reliable members.
+
+The Merchant Collective
+: His primary employer, though this relationship is becoming increasingly complicated by ethical disagreements.
 
 ## Plot Hooks
 

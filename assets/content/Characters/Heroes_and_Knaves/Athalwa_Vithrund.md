@@ -472,21 +472,36 @@ Athalwa's primary motivation is the survival and flourishing of the Vrystwald Tr
 
 ### Patrons
 
-- **The War Band of the Vithrúnd**: Young warriors and ambitious raiders who benefit from Athalwa's expansionist policies and see in her a leader who can elevate them to genuine power within the broader world.
-- **Merchant Prince Oleander of the Byzarian League**: A canny trader who has secured exclusive access to Vrystwald furs and amber through his relationship with Athalwa. They maintain a respectful commercial and diplomatic relationship.
-- **Mótefnir's Oracle, the Völva Astrid**: An ancient priestess of the Asguardian Pantheon who senses truth in Athalwa's visions and provides mystical counsel and validation.
+The War Band of the Vithrúnd
+: Young warriors and ambitious raiders who benefit from Athalwa's expansionist policies and see in her a leader who can elevate them to genuine power within the broader world.
+
+Merchant Prince Oleander of the Byzarian League
+: A canny trader who has secured exclusive access to Vrystwald furs and amber through his relationship with Athalwa. They maintain a respectful commercial and diplomatic relationship.
+
+Mótefnir's Oracle, the Völva Astrid
+: An ancient priestess of the Asguardian Pantheon who senses truth in Athalwa's visions and provides mystical counsel and validation.
 
 ### Enemies
 
-- **Harthak Orossun (Cousin and Rival Claimant)**: Athalwa's cousin was denied the War Chief's seat she claimed. He maintains a competing claim and leads a faction of conservative warriors who would gladly see her deposed.
-- **Elder Council Speaker Vorthrim**: The most influential of the conservative elders, **Vorthrim** views Athalwa's innovations as blasphemy against Mótefnir and ancient tradition. He orchestrates political challenges to her authority.
-- **Shadow Throne Empire**: A distant but expanding southern empire that views the Vrystwald Tribes as an obstacle to continental domination. They have begun secretly funding Athalwa's internal enemies.
+Harthak Orossun (Cousin and Rival Claimant)
+: Athalwa's cousin was denied the War Chief's seat she claimed. He maintains a competing claim and leads a faction of conservative warriors who would gladly see her deposed.
+
+Elder Council Speaker Vorthrim
+: The most influential of the conservative elders, **Vorthrim** views Athalwa's innovations as blasphemy against Mótefnir and ancient tradition. He orchestrates political challenges to her authority.
+
+Shadow Throne Empire
+: A distant but expanding southern empire that views the Vrystwald Tribes as an obstacle to continental domination. They have begun secretly funding Athalwa's internal enemies.
 
 ### Affiliations
 
-- **Vrystwald Tribal Council**: Athalwa serves as War Chief, though her seat remains contested among traditional members.
-- [[affiliation-motefnir|Faith of Mótefnir]]: A devout practitioner who maintains regular spiritual counsel with the Völva priestesses.
-- **The Eastern Trade Consortium**: Athalwa has recently been instrumental in establishing formal trading relationships with merchants from eastern kingdoms, creating new economic dependencies and opportunities.
+Vrystwald Tribal Council
+: Athalwa serves as War Chief, though her seat remains contested among traditional members.
+
+[[affiliation-motefnir|Faith of Mótefnir]]
+: A devout practitioner who maintains regular spiritual counsel with the Völva priestesses.
+
+The Eastern Trade Consortium
+: Athalwa has recently been instrumental in establishing formal trading relationships with merchants from eastern kingdoms, creating new economic dependencies and opportunities.
 
 ## Plot Hooks
 

@@ -482,27 +482,36 @@ Thotkar is driven by an almost religious commitment to justice and truth—not j
 
 ### Patrons
 
-- Priestess [[being-amqelitana2|Amqelitâna]]: High priestess of Reth'Sa'âr's temple and a fellow scholar of law and wisdom; she has become both spiritual advisor and patron, commissioning Thotkar to defend temple interests and consulting with him on matters of religious jurisprudence.
+Priestess [[being-amqelitana2|Amqelitâna]]
+: High priestess of Reth'Sa'âr's temple and a fellow scholar of law and wisdom; she has become both spiritual advisor and patron, commissioning Thotkar to defend temple interests and consulting with him on matters of religious jurisprudence.
 
-- **The Widow Zabuia**: A client whose case Thotkar defended without fee years ago, resulting in restoration of her family's property and dignity; she has become his patron and supporter, regularly bringing him additional cases and commending his work to others.
+The Widow Zabuia
+: A client whose case Thotkar defended without fee years ago, resulting in restoration of her family's property and dignity; she has become his patron and supporter, regularly bringing him additional cases and commending his work to others.
 
-- **Lord Magistrate Qelti**: The city's principal judicial authority who respects Thotkar deeply; though officially neutral, Qelti consistently favors Thotkar in scheduling and procedural matters, and regularly consults him on questions of legal interpretation.
+Lord Magistrate Qelti
+: The city's principal judicial authority who respects Thotkar deeply; though officially neutral, Qelti consistently favors Thotkar in scheduling and procedural matters, and regularly consults him on questions of legal interpretation.
 
-- **Master Scribe Zeshelegezu**: A former rival who has come to respect Thotkar's intellect; they maintain a collegial relationship and occasionally collaborate on legal matters of particular complexity.
+Master Scribe Zeshelegezu
+: A former rival who has come to respect Thotkar's intellect; they maintain a collegial relationship and occasionally collaborate on legal matters of particular complexity.
 
 ### Enemies
 
-- [[affiliation-garzeglar|Gar-Zeglar]]: Thotkar's willingness to challenge governmental injustice and expose administrative corruption has made him a liability to several ministers whose authority he has questioned; they work subtly to undermine his credibility and restrict his access to certain cases.
+[[affiliation-garzeglar|Gar-Zeglar]]
+: Thotkar's willingness to challenge governmental injustice and expose administrative corruption has made him a liability to several ministers whose authority he has questioned; they work subtly to undermine his credibility and restrict his access to certain cases.
 
-- Litigant [[being-gezehutyu2|Gezehutyu]]: A wealthy and unscrupulous counselor whose cases Thotkar has beaten repeatedly; Gezehutyu harbors deep resentment and has begun to threaten Thotkar's clients in subtle ways, attempting to intimidate him into refusing cases against him.
+Litigant [[being-gezehutyu2|Gezehutyu]]
+: A wealthy and unscrupulous counselor whose cases Thotkar has beaten repeatedly; Gezehutyu harbors deep resentment and has begun to threaten Thotkar's clients in subtle ways, attempting to intimidate him into refusing cases against him.
 
-- [[affiliation-qetharpalu2|The Qethar'palu]]: Traditionalist legal scholars who view Thotkar's willingness to challenge established interpretations and to defend socially marginal clients as dangerous radicalism threatening legal stability.
+[[affiliation-qetharpalu2|The Qethar'palu]]
+: Traditionalist legal scholars who view Thotkar's willingness to challenge established interpretations and to defend socially marginal clients as dangerous radicalism threatening legal stability.
 
 ### Affiliations
 
-- **Litigant's Guild**: A respected senior member who serves on the ethics committee and has been approached regarding leadership positions; his standards and reputation significantly influence Guild policy and standards of practice.
+Litigant's Guild
+: A respected senior member who serves on the ethics committee and has been approached regarding leadership positions; his standards and reputation significantly influence Guild policy and standards of practice.
 
-- [[affiliation-lemrethsaar|Lem'Reth'Sa'âr]]: Committed lay member devoted to the pursuit of wisdom and truth; he participates in scholarly circles and has begun to develop written theological work exploring the intersection of divine wisdom and human justice.
+[[affiliation-lemrethsaar|Lem'Reth'Sa'âr]]
+: Committed lay member devoted to the pursuit of wisdom and truth; he participates in scholarly circles and has begun to develop written theological work exploring the intersection of divine wisdom and human justice.
 
 ## Plot Hooks
 

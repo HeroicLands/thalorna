@@ -486,33 +486,45 @@ At a deeper level, Lersaîs fears chaos and loss of control, and he has organize
 
 ### Patrons
 
-- [[lore-garauu|The Gar-Aû]]: Lersaîs serves the Gar-Aû directly and is one of his most trusted military advisors; the Gar-Aû has rewarded his service with lands, authority, and respect.
+[[lore-garauu|The Gar-Aû]]
+: Lersaîs serves the Gar-Aû directly and is one of his most trusted military advisors; the Gar-Aû has rewarded his service with lands, authority, and respect.
 
-- [[affiliation-genzetqeztu|Genzet'Qeztu]]: Lersaîs remains influential within the military hierarchy and maintains relationships with younger commanders whom he has trained and who seek his counsel.
+[[affiliation-genzetqeztu|Genzet'Qeztu]]
+: Lersaîs remains influential within the military hierarchy and maintains relationships with younger commanders whom he has trained and who seek his counsel.
 
-- Zabet [[being-mesheget2|Mesheget]]: His wife, a politically astute woman, has aligned herself with Lersaîs and works to advance their family's interests through her own network of merchant relationships.
+Zabet [[being-mesheget2|Mesheget]]
+: His wife, a politically astute woman, has aligned herself with Lersaîs and works to advance their family's interests through her own network of merchant relationships.
 
-- [[affiliation-lutuznera|The Lut-Uznêra]]: As a devoted follower, Lersaîs maintains strong relationships with the priesthood and is a major financial supporter of the temple, earning their support in his endeavors.
+[[affiliation-lutuznera|The Lut-Uznêra]]
+: As a devoted follower, Lersaîs maintains strong relationships with the priesthood and is a major financial supporter of the temple, earning their support in his endeavors.
 
 ### Enemies
 
-- Iru'palu [[being-anlaghur|Anlaghur]]: The Gar-Aû's nephew, who views Lersaîs as an obstacle to his own political ambitions and who has begun cultivating alternative sources of military influence.
+Iru'palu [[being-anlaghur|Anlaghur]]
+: The Gar-Aû's nephew, who views Lersaîs as an obstacle to his own political ambitions and who has begun cultivating alternative sources of military influence.
 
-- Zemelu [[being-qeltiri|Qeltiri]]: A rival courtier who sees Lersaîs's military authority as a threat to his own influence over the Gar-Aû and who works to position civilian authority over military matters.
+Zemelu [[being-qeltiri|Qeltiri]]
+: A rival courtier who sees Lersaîs's military authority as a threat to his own influence over the Gar-Aû and who works to position civilian authority over military matters.
 
-- Halzi'a [[being-thulmosis2|Thulmosis]]: A fellow Halzi'a who harbors deep resentment that Lersaîs's military reputation earned him greater honors and authority than Thulmosis's more traditional approach to nobility.
+Halzi'a [[being-thulmosis2|Thulmosis]]
+: A fellow Halzi'a who harbors deep resentment that Lersaîs's military reputation earned him greater honors and authority than Thulmosis's more traditional approach to nobility.
 
-- [[affiliation-lethunu2|The Lethunu]]: A loose alliance of reforming voices that views Lersaîs as the symbol of imperial rigidity and militarism, arguing that his influence perpetuates unnecessary military spending.
+[[affiliation-lethunu2|The Lethunu]]
+: A loose alliance of reforming voices that views Lersaîs as the symbol of imperial rigidity and militarism, arguing that his influence perpetuates unnecessary military spending.
 
 ### Affiliations
 
-- **The Imperial Military**: Lersaîs maintains deep connections throughout the military hierarchy and exercises influence far beyond his formal position.
+The Imperial Military
+: Lersaîs maintains deep connections throughout the military hierarchy and exercises influence far beyond his formal position.
 
-- [[affiliation-genzetzabu|Genzet'Zabu]]: He is a member and often the voice of traditionalist, militarily-oriented thinking.
+[[affiliation-genzetzabu|Genzet'Zabu]]
+: He is a member and often the voice of traditionalist, militarily-oriented thinking.
 
-- [[affiliation-lutuznera|The Lut-Uznêra]]: He is a major supporter and participant in religious ceremonies and maintains a formal relationship with the priesthood.
+[[affiliation-lutuznera|The Lut-Uznêra]]
+: He is a major supporter and participant in religious ceremonies and maintains a formal relationship with the priesthood.
 
-- [[affiliation-garsaaqutu|The Gar-Sa'Aqutu]]: As the family's patriarch, he seeks to elevate the Sa'Aqutu to permanent prominence in the imperial hierarchy.
+[[affiliation-garsaaqutu|The Gar-Sa'Aqutu]]
+: As the family's patriarch, he seeks to elevate the Sa'Aqutu to permanent prominence in the imperial hierarchy.
 
 ## Plot Hooks
 

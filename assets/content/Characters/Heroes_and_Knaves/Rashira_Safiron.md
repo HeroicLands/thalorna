@@ -478,8 +478,11 @@ She is not naive. She knows Vylaria wants the register to wage its own war, not 
 
 ### Enemies
 
-- [[being-zahirmlkht|Zahira Malkhet, the Hound of the Veil]]: The thief-taker loosed by the Court of the Veil to recover or burn the register and silence its keeper. Rashîra has never met her hunter and yet feels she knows her—and suspects that, of everyone in the affair, this Houseless-hearted woman with no profit in the crime might be the one who could be made to understand why she ran. Whether she can turn the Hound before the Hound takes her is the gamble her flight may come down to. What Rashîra cannot know is that the Veil has foreseen exactly that hope and moved to foreclose it: the Hound rides under standing orders never to read the rolls and never to let her quarry speak—so the one argument Rashîra means to make may never reach the only ear that might heed it.
-- **The Court of the Veil**: Her former masters, the intelligence household of **Mêtríssa Amîthéna of House Thamîrîon**—and the very people the register condemns. To them Rashîra is the worst kind of failure: a trusted keeper who kept too well and walked away with the proof. They want the rolls recovered or destroyed and the Grammatíssa silenced, in that order.
+[[being-zahirmlkht|Zahira Malkhet, the Hound of the Veil]]
+: The thief-taker loosed by the Court of the Veil to recover or burn the register and silence its keeper. Rashîra has never met her hunter and yet feels she knows her—and suspects that, of everyone in the affair, this Houseless-hearted woman with no profit in the crime might be the one who could be made to understand why she ran. Whether she can turn the Hound before the Hound takes her is the gamble her flight may come down to. What Rashîra cannot know is that the Veil has foreseen exactly that hope and moved to foreclose it: the Hound rides under standing orders never to read the rolls and never to let her quarry speak—so the one argument Rashîra means to make may never reach the only ear that might heed it.
+
+The Court of the Veil
+: Her former masters, the intelligence household of **Mêtríssa Amîthéna of House Thamîrîon**—and the very people the register condemns. To them Rashîra is the worst kind of failure: a trusted keeper who kept too well and walked away with the proof. They want the rolls recovered or destroyed and the Grammatíssa silenced, in that order.
 
 ### Hunters and False Friends
 

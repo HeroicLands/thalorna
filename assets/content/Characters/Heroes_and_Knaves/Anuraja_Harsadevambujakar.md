@@ -470,18 +470,27 @@ Anûraja is also driven by a need to understand the limits of his capability. He
 
 ### Patrons
 
-- **The House of Vedyan Merchants**: A noble merchant family that has contracted Anûraja's services repeatedly over eight years, always for high-stakes elimination of political or commercial rivals. They pay extraordinarily well and understand the necessity of discretion.
-- **The Shadow-Brotherhoods of Vedyara**: While Anûraja operates independently, he maintains loose affiliation with the organizations that trained him. They occasionally provide contracts, intelligence, or assistance when his own projects require additional capability.
+The House of Vedyan Merchants
+: A noble merchant family that has contracted Anûraja's services repeatedly over eight years, always for high-stakes elimination of political or commercial rivals. They pay extraordinarily well and understand the necessity of discretion.
+
+The Shadow-Brotherhoods of Vedyara
+: While Anûraja operates independently, he maintains loose affiliation with the organizations that trained him. They occasionally provide contracts, intelligence, or assistance when his own projects require additional capability.
 
 ### Enemies
 
-- **The Righteous Order of Preservation**: A loose confederation of paladins, clerics, and holy warriors who view assassins as abominations requiring eradication. They have a standing contract to hunt Anûraja, though he has so far managed to avoid direct confrontation through his superior intelligence and stealth.
-- **Vex the Undying**: Anûraja's former mentor, Grandmother Vex, has begun to hunt him for reasons he does not fully understand. She seems to believe that Anûraja has strayed from the philosophical principles of shadow-work and must be eliminated. Their war is conducted in shadows, with neither able to gain decisive advantage.
-- **The Guild of Ironhands**: A mercenary organization that views Anûraja as competition. They have attempted several times to eliminate him or recruit him forcibly, none of which has succeeded.
+The Righteous Order of Preservation
+: A loose confederation of paladins, clerics, and holy warriors who view assassins as abominations requiring eradication. They have a standing contract to hunt Anûraja, though he has so far managed to avoid direct confrontation through his superior intelligence and stealth.
+
+Vex the Undying
+: Anûraja's former mentor, Grandmother Vex, has begun to hunt him for reasons he does not fully understand. She seems to believe that Anûraja has strayed from the philosophical principles of shadow-work and must be eliminated. Their war is conducted in shadows, with neither able to gain decisive advantage.
+
+The Guild of Ironhands
+: A mercenary organization that views Anûraja as competition. They have attempted several times to eliminate him or recruit him forcibly, none of which has succeeded.
 
 ### Affiliations
 
-- **The Shadow-Brotherhoods**: While not formally affiliated, Anûraja maintains connections with these organizations, taking contracts through them when it suits him, though his independent commissions generally pay far better.
+The Shadow-Brotherhoods
+: While not formally affiliated, Anûraja maintains connections with these organizations, taking contracts through them when it suits him, though his independent commissions generally pay far better.
 
 ## Plot Hooks
 

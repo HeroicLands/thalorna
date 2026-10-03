@@ -481,19 +481,24 @@ Padmàvali is driven by the pursuit of truth and beauty working in harmony. She 
 
 ### Patrons
 
-- **The Five City-States Merchant Coalition**: Collectively, the merchant lords of the five city-states have commissioned her to create the Great Map, a comprehensive and politically significant project that has both elevated her status and exposed her to their conflicting interests.
+The Five City-States Merchant Coalition
+: Collectively, the merchant lords of the five city-states have commissioned her to create the Great Map, a comprehensive and politically significant project that has both elevated her status and exposed her to their conflicting interests.
 
-- **Master Ananda**: Her former teacher, now retired to a house in the countryside, remains her most trusted advisor and occasional patron. He commissions small personal maps and is a source of wisdom about the ethics of cartography.
+Master Ananda
+: Her former teacher, now retired to a house in the countryside, remains her most trusted advisor and occasional patron. He commissions small personal maps and is a source of wisdom about the ethics of cartography.
 
-- **The Twenty-Eight**: The hereditary panning-families of her native Suvarnagiri continue to patronize her work—they have wanted the panning reaches properly surveyed for a generation—and have offered her a permanent workshop in exchange for priority commissions.
+The Twenty-Eight
+: The hereditary panning-families of her native Suvarnagiri continue to patronize her work—they have wanted the panning reaches properly surveyed for a generation—and have offered her a permanent workshop in exchange for priority commissions.
 
 ### Enemies
 
-- **None Named, But Tensions Exist**: Various political factions within the city-states view her with suspicion, each believing she might be secretly aligned with their rivals. She has not yet made true enemies, but her refusal to manipulate her maps for political advantage is beginning to create tensions.
+None Named, But Tensions Exist
+: Various political factions within the city-states view her with suspicion, each believing she might be secretly aligned with their rivals. She has not yet made true enemies, but her refusal to manipulate her maps for political advantage is beginning to create tensions.
 
 ### Affiliations
 
-- **Independent Cartographers' Fellowship**: Padmàvali is a member of an informal but respected network of master cartographers who maintain high standards for accuracy and integrity. The Fellowship occasionally commissions collaborative works and provides moral support.
+Independent Cartographers' Fellowship
+: Padmàvali is a member of an informal but respected network of master cartographers who maintain high standards for accuracy and integrity. The Fellowship occasionally commissions collaborative works and provides moral support.
 
 ## Plot Hooks
 

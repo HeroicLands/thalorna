@@ -472,18 +472,27 @@ Akhrelu also carries a private mission to discover and preserve knowledge about 
 
 ### Patrons
 
-- **Lord [[being-vaskan|Vaskan]] of the [[place-southrnmrch|Southern March]]**: A noble who has contracted Akhrelu for decades, providing both animal resources and payment in exchange for trained beasts for noble hunts and the occasional military campaign. Vaskan is one of the few humans Akhrelu respects, as the lord treats animals with consideration.
-- **The Temple of Sacred Beasts**: A religious institution that occasionally seeks Akhrelu's skill for the training and care of sacred creatures used in ceremonies, offering both prestige and reasonable compensation.
-- [[affiliation-linzwrtkhlth|Lin'Zuwaret elu Aû'Khelâthu]]: Wealthy traders occasionally hire Akhrelu to train guard beasts, assess the condition of animals brought through the trade routes, or consult on the transport and care of exotic creatures destined for distant markets.
+Lord [[being-vaskan|Vaskan]] of the [[place-southrnmrch|Southern March]]
+: A noble who has contracted Akhrelu for decades, providing both animal resources and payment in exchange for trained beasts for noble hunts and the occasional military campaign. Vaskan is one of the few humans Akhrelu respects, as the lord treats animals with consideration.
+
+The Temple of Sacred Beasts
+: A religious institution that occasionally seeks Akhrelu's skill for the training and care of sacred creatures used in ceremonies, offering both prestige and reasonable compensation.
+
+[[affiliation-linzwrtkhlth|Lin'Zuwaret elu Aû'Khelâthu]]
+: Wealthy traders occasionally hire Akhrelu to train guard beasts, assess the condition of animals brought through the trade routes, or consult on the transport and care of exotic creatures destined for distant markets.
 
 ### Enemies
 
-- **Khelarven the Brutal**: A rival animal trainer who believes in domination and fear as training methods. Khelarven has sabotaged several of Akhrelu's commissions, poisoned animals in his care, and spread rumors about Akhrelu's competence. The enmity is personal; years ago, Lord Vaskan chose to employ Akhrelu over Khelarven, a choice Khelarven has never forgiven. Recently, Khelarven has been working with darker patrons, suggesting his malice toward Akhrelu may escalate.
-- [[affiliation-zeghetzulun|Zeghet'Zulun]]: A secret society that captures exotic animals for forced combat spectacles. They view Akhrelu's refusal to train beasts for such purposes as obstruction, and have made several attempts to steal particularly valuable animals from his compound.
+Khelarven the Brutal
+: A rival animal trainer who believes in domination and fear as training methods. Khelarven has sabotaged several of Akhrelu's commissions, poisoned animals in his care, and spread rumors about Akhrelu's competence. The enmity is personal; years ago, Lord Vaskan chose to employ Akhrelu over Khelarven, a choice Khelarven has never forgiven. Recently, Khelarven has been working with darker patrons, suggesting his malice toward Akhrelu may escalate.
+
+[[affiliation-zeghetzulun|Zeghet'Zulun]]
+: A secret society that captures exotic animals for forced combat spectacles. They view Akhrelu's refusal to train beasts for such purposes as obstruction, and have made several attempts to steal particularly valuable animals from his compound.
 
 ### Affiliations
 
-- [[affiliation-linzghtkhlth|Lin'Zeghet elu Aû'Khelâthu]]: A formal organization of hunters and animal specialists. While Akhrelu maintains membership and respects the Guild's codes, he remains something of an outsider due to his unorthodox methods and preference for solitude.
+[[affiliation-linzghtkhlth|Lin'Zeghet elu Aû'Khelâthu]]
+: A formal organization of hunters and animal specialists. While Akhrelu maintains membership and respects the Guild's codes, he remains something of an outsider due to his unorthodox methods and preference for solitude.
 
 ## Plot Hooks
 

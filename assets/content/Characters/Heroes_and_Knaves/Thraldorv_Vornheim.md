@@ -467,20 +467,33 @@ Thraldorv seeks primarily the satisfaction of doing his work well—to earn fair
 
 ### Patrons
 
-- **Lord Henrick Thorne**: A merchant prince of considerable wealth who has employed Thraldorv multiple times for extended contracts, though their current relationship is strained due to personal complications
-- **The Vithgard Mercenaries Guild**: Though not formally a member by choice, the Guild regularly contracts his services for their most dangerous work and provides steady flow of employment
-- **High Priestess Ellara of the Asguardian Temple**: Spiritual authority who has occasionally hired him for sacred protection duties and who views him as a man of real, if conflicted, faith
+Lord Henrick Thorne
+: A merchant prince of considerable wealth who has employed Thraldorv multiple times for extended contracts, though their current relationship is strained due to personal complications
+
+The Vithgard Mercenaries Guild
+: Though not formally a member by choice, the Guild regularly contracts his services for their most dangerous work and provides steady flow of employment
+
+High Priestess Ellara of the Asguardian Temple
+: Spiritual authority who has occasionally hired him for sacred protection duties and who views him as a man of real, if conflicted, faith
 
 ### Enemies
 
-- **Kael Marvarukh's Successors**: His old mentor's heirs view him as competition for the most prestigious mercenary contracts; they have begun a subtle campaign to undermine his reputation
-- **The Crimson Ravens**: A rival mercenary band that sees him as an obstacle to their own expansion in Vithgard's markets; open conflict between the groups has occurred multiple times
-- **Lord Dalmarr Althendikh**: An ambitious noble whose assassination attempt Thraldorv once thwarted while protecting another client; Althendikh has since promised a substantial reward to any who bring Thraldorv down
+Kael Marvarukh's Successors
+: His old mentor's heirs view him as competition for the most prestigious mercenary contracts; they have begun a subtle campaign to undermine his reputation
+
+The Crimson Ravens
+: A rival mercenary band that sees him as an obstacle to their own expansion in Vithgard's markets; open conflict between the groups has occurred multiple times
+
+Lord Dalmarr Althendikh
+: An ambitious noble whose assassination attempt Thraldorv once thwarted while protecting another client; Althendikh has since promised a substantial reward to any who bring Thraldorv down
 
 ### Affiliations
 
-- **Vithgard Mercenaries Guild**: The primary employment network and social structure for warriors-for-hire throughout the kingdom
-- **The Asguardian Brotherhood**: Informal fellowship of men who honor [[lore-motefnirdty|Mótefnir]]'s making and the Rime-Giant's strength together; mostly warriors, craftspeople, and those who revere the primal forces
+Vithgard Mercenaries Guild
+: The primary employment network and social structure for warriors-for-hire throughout the kingdom
+
+The Asguardian Brotherhood
+: Informal fellowship of men who honor [[lore-motefnirdty|Mótefnir]]'s making and the Rime-Giant's strength together; mostly warriors, craftspeople, and those who revere the primal forces
 
 ## Plot Hooks
 

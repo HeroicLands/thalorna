@@ -473,18 +473,27 @@ Vishvambhārākhila is motivated by a deep-seated fear of losing what he has ach
 
 ### Patrons
 
-- **Lady Ashira of House Deshani**: A noblewoman of considerable taste and influence who has championed Vishvambhārākhila's products among the nobility. Her endorsement has been essential to his business success, and he cultivates this relationship carefully.
-- **The Urban Craft Guild Leadership**: Vishvambhārākhila holds significant influence within the guild structure and maintains patronage relationships with several guild officials who benefit from his financial support.
+Lady Ashira of House Deshani
+: A noblewoman of considerable taste and influence who has championed Vishvambhārākhila's products among the nobility. Her endorsement has been essential to his business success, and he cultivates this relationship carefully.
+
+The Urban Craft Guild Leadership
+: Vishvambhārākhila holds significant influence within the guild structure and maintains patronage relationships with several guild officials who benefit from his financial support.
 
 ### Enemies
 
-- **Master Devani Karthik**: A skilled candle-maker whom Vishvambhārākhila drove into bankruptcy through aggressive undercutting and market manipulation. Devani now works as a mere employee in another workshop and harbors fierce resentment, plotting subtle revenge.
-- **The Artisan Collective**: An emerging organization of craftspeople attempting to create a cooperative market free from merchants like Vishvambhārākhila. They view him as the exemplar of predatory capitalism and have made his downfall a symbolic goal.
-- **Merchant-Lord Vasilis**: A rival merchant whose economic interests frequently conflict with Vishvambhārākhila's. Their competition has occasionally turned vicious, with each attempting to undercut the other's trade routes and relationships.
+Master Devani Karthik
+: A skilled candle-maker whom Vishvambhārākhila drove into bankruptcy through aggressive undercutting and market manipulation. Devani now works as a mere employee in another workshop and harbors fierce resentment, plotting subtle revenge.
+
+The Artisan Collective
+: An emerging organization of craftspeople attempting to create a cooperative market free from merchants like Vishvambhārākhila. They view him as the exemplar of predatory capitalism and have made his downfall a symbolic goal.
+
+Merchant-Lord Vasilis
+: A rival merchant whose economic interests frequently conflict with Vishvambhārākhila's. Their competition has occasionally turned vicious, with each attempting to undercut the other's trade routes and relationships.
 
 ### Affiliations
 
-- **The Urban Craft Guild**: Vishvambhārākhila maintains full membership and holds a position of considerable influence within the guild's leadership structure. He has leveraged guild power to advance his economic interests.
+The Urban Craft Guild
+: Vishvambhārākhila maintains full membership and holds a position of considerable influence within the guild's leadership structure. He has leveraged guild power to advance his economic interests.
 
 ## Plot Hooks
 

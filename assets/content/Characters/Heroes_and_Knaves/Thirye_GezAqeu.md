@@ -479,27 +479,36 @@ Thirye is driven by an insatiable hunger to create beauty and truthfulness in ar
 
 ### Patrons
 
-- **Lord Architect Amqelenset**: A powerful nobleman and principal patron of the City Theater Company who is captivated by Thirye's artistry; he has commissioned private performances and provided financial support for experimental theatrical productions she wishes to develop.
+Lord Architect Amqelenset
+: A powerful nobleman and principal patron of the City Theater Company who is captivated by Thirye's artistry; he has commissioned private performances and provided financial support for experimental theatrical productions she wishes to develop.
 
-- **Master Playwright Qelti**: Lin'Shelun elu Galezkara's head writer who has become something of a mentor figure and advocate; he deliberately writes roles showcasing Thirye's particular gifts and has begun to champion her for imperial commissions.
+Master Playwright Qelti
+: Lin'Shelun elu Galezkara's head writer who has become something of a mentor figure and advocate; he deliberately writes roles showcasing Thirye's particular gifts and has begun to champion her for imperial commissions.
 
-- Priestess [[being-lintayet2|Lintayet]]: A priestess of Thubâ'i in the temple district who has become Thirye's spiritual advisor, guiding her practice and helping her through the spiritual dimensions of her art.
+Priestess [[being-lintayet2|Lintayet]]
+: A priestess of Thubâ'i in the temple district who has become Thirye's spiritual advisor, guiding her practice and helping her through the spiritual dimensions of her art.
 
-- **The Merchant Prince Lahmes**: A wealthy collector of fine art and patron of performers who has recently become fascinated with Thirye's work and has begun offering generous patronage and connections to elite audiences.
+The Merchant Prince Lahmes
+: A wealthy collector of fine art and patron of performers who has recently become fascinated with Thirye's work and has begun offering generous patronage and connections to elite audiences.
 
 ### Enemies
 
-- **Actress Zabunia**: A rival performer of nearly equal talent whose roles have been repeatedly passed over in favor of Thirye; she harbors deep resentment and has begun circulating cruel rumors about Thirye's personal life and emotional stability.
+Actress Zabunia
+: A rival performer of nearly equal talent whose roles have been repeatedly passed over in favor of Thirye; she harbors deep resentment and has begun circulating cruel rumors about Thirye's personal life and emotional stability.
 
-- [[affiliation-wazulu|The Wazulu]]: A growing movement within the priesthood of the more conservative deities views theatrical performance as corrupting and spiritually dangerous; they have begun organizing opposition to Thirye's performances, particularly those they perceive as morally transgressive.
+[[affiliation-wazulu|The Wazulu]]
+: A growing movement within the priesthood of the more conservative deities views theatrical performance as corrupting and spiritually dangerous; they have begun organizing opposition to Thirye's performances, particularly those they perceive as morally transgressive.
 
-- Critic [[being-gathamose2|Gathamose]]: An influential theater critic whose scathing review of Thirye's early work wounded her deeply; he remains dismissive of her talent despite her subsequent success and continues to write devastating critiques.
+Critic [[being-gathamose2|Gathamose]]
+: An influential theater critic whose scathing review of Thirye's early work wounded her deeply; he remains dismissive of her talent despite her subsequent success and continues to write devastating critiques.
 
 ### Affiliations
 
-- **City Theater Company**: A senior member of the ensemble, though not yet achieving official leadership status; she is the Company's most celebrated performer and acts as a subtle informal mentor to younger actresses.
+City Theater Company
+: A senior member of the ensemble, though not yet achieving official leadership status; she is the Company's most celebrated performer and acts as a subtle informal mentor to younger actresses.
 
-- [[affiliation-linshelunthb|The Lin'Shelun elu Thubâ'i]]: A group of performers, painters, and musicians dedicated to exploring the spiritual dimensions of art and maintaining the Khelâthi artistic traditions; Thirye is a committed though sometimes erratic participant.
+[[affiliation-linshelunthb|The Lin'Shelun elu Thubâ'i]]
+: A group of performers, painters, and musicians dedicated to exploring the spiritual dimensions of art and maintaining the Khelâthi artistic traditions; Thirye is a committed though sometimes erratic participant.
 
 ## Plot Hooks
 

@@ -478,20 +478,33 @@ Zênais is driven by a sense that her understanding of animals might represent s
 
 ### Patrons
 
-- **House Kallixenáhr**: A prominent noble family of the Byzarian League who employ her regularly to train and maintain their falconry birds; **Lady Dorothéhran Kallixenáhr** has become something of a mentor figure
-- **Master Badvárion**: Her former teacher, now elderly and semi-retired, who continues to advise her and vouches for her methods and integrity
-- **The Byzarian Merchants' Consortium**: A powerful trading organization that occasionally contracts her services for managing animals used in commercial expeditions
+House Kallixenáhr
+: A prominent noble family of the Byzarian League who employ her regularly to train and maintain their falconry birds; **Lady Dorothéhran Kallixenáhr** has become something of a mentor figure
+
+Master Badvárion
+: Her former teacher, now elderly and semi-retired, who continues to advise her and vouches for her methods and integrity
+
+The Byzarian Merchants' Consortium
+: A powerful trading organization that occasionally contracts her services for managing animals used in commercial expeditions
 
 ### Enemies
 
-- **Arslanikos the Cruel**: A brutal animal trader who views Zênais's ethical standards as threats to his profit margins; he has spread rumors that her methods are ineffective and that she is unreliable for serious work
-- **The Feathered Syndicate**: A mysterious criminal organization involved in smuggling rare and exotic birds for black market operations; they view Zênais's knowledge as either an asset to control or a liability to eliminate
-- **Theron the Beast Master**: A rival trainer whose brutal methods stand in direct opposition to Zênais's philosophy; he views her success as evidence that his approach is inferior and has challenged her reputation publicly
+Arslanikos the Cruel
+: A brutal animal trader who views Zênais's ethical standards as threats to his profit margins; he has spread rumors that her methods are ineffective and that she is unreliable for serious work
+
+The Feathered Syndicate
+: A mysterious criminal organization involved in smuggling rare and exotic birds for black market operations; they view Zênais's knowledge as either an asset to control or a liability to eliminate
+
+Theron the Beast Master
+: A rival trainer whose brutal methods stand in direct opposition to Zênais's philosophy; he views her success as evidence that his approach is inferior and has challenged her reputation publicly
 
 ### Affiliations
 
-- **Urban Animal Trainers' Guild** - Her guild, where she sits on the committee that sets standards of care for trained animals
-- **The Sanctuary of Vénusia** - A spiritual fellowship devoted to the goddess of prosperity and natural harmony, which sponsors rehabilitation work with injured and mistreated animals
+Urban Animal Trainers' Guild
+: - Her guild, where she sits on the committee that sets standards of care for trained animals
+
+The Sanctuary of Vénusia
+: - A spiritual fellowship devoted to the goddess of prosperity and natural harmony, which sponsors rehabilitation work with injured and mistreated animals
 
 ## Plot Hooks
 

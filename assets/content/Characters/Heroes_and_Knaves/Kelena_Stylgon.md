@@ -463,17 +463,24 @@ Kêlena operates from multiple, sometimes contradictory motivations. On the surf
 
 ### Patrons
 
-- **The Duke of Ravenshold**: A powerful noble of considerable influence who has maintained a relationship with Kêlena for the past four years. Their arrangement is more transactional than intimate, though he is fond of her and consistently provides substantial financial support in exchange for her company and discretion regarding his private matters.
-- **Merchant-Prince Aldric Covens**: A wealthy merchant who profits considerably from the wine and luxury goods trade. Covens views Kêlena as an investment and source of status within high society, providing her with gifts and access to merchant circles in exchange for her presence at his events.
+The Duke of Ravenshold
+: A powerful noble of considerable influence who has maintained a relationship with Kêlena for the past four years. Their arrangement is more transactional than intimate, though he is fond of her and consistently provides substantial financial support in exchange for her company and discretion regarding his private matters.
+
+Merchant-Prince Aldric Covens
+: A wealthy merchant who profits considerably from the wine and luxury goods trade. Covens views Kêlena as an investment and source of status within high society, providing her with gifts and access to merchant circles in exchange for her presence at his events.
 
 ### Enemies
 
-- **Margot Thesselier**: A rival courtesan who has cultivated connections with some of Kêlena's former patrons and actively works to undermine her reputation in high society. Margot views Kêlena as superior in talent but lower in status, and resents deeply what she sees as Kêlena's undeserved prominence.
-- **The Hidden Hand**: A shadowy organization rumored to traffic in information and maintain leverage over powerful individuals. Kêlena has reason to believe they possess information about her past that could devastate her current position, and she lives in constant low-level fear of their attention.
+Margot Thesselier
+: A rival courtesan who has cultivated connections with some of Kêlena's former patrons and actively works to undermine her reputation in high society. Margot views Kêlena as superior in talent but lower in status, and resents deeply what she sees as Kêlena's undeserved prominence.
+
+The Hidden Hand
+: A shadowy organization rumored to traffic in information and maintain leverage over powerful individuals. Kêlena has reason to believe they possess information about her past that could devastate her current position, and she lives in constant low-level fear of their attention.
 
 ### Affiliations
 
-- **The Provènzia Theater Collective**: An informal association of performers and theater operators that Kêlena helped establish and continues to influence. Through this group, she maintains connections to the artistic and performance communities even as she operates primarily in high society.
+The Provènzia Theater Collective
+: An informal association of performers and theater operators that Kêlena helped establish and continues to influence. Through this group, she maintains connections to the artistic and performance communities even as she operates primarily in high society.
 
 ## Plot Hooks
 

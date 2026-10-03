@@ -465,18 +465,27 @@ Véldor seeks the one thing that has always eluded him: the sense of genuine, la
 
 ### Patrons
 
-- **Lady Sýlena of House Valorant**: A noblewoman of considerable wealth and refined taste who has become Véldor's primary benefactor. She hosts exclusive performances at her estate and maintains his theater company with generous annual donations. Their relationship is primarily financial, though rumors of romantic entanglement have circulated for years.
-- **The Élavendre City Theater Company's Board of Directors**: A council of wealthy merchants and minor nobility who collectively fund the theater. They rely upon Véldor's star power to fill seats and maintain the company's prestigious reputation.
+Lady Sýlena of House Valorant
+: A noblewoman of considerable wealth and refined taste who has become Véldor's primary benefactor. She hosts exclusive performances at her estate and maintains his theater company with generous annual donations. Their relationship is primarily financial, though rumors of romantic entanglement have circulated for years.
+
+The Élavendre City Theater Company's Board of Directors
+: A council of wealthy merchants and minor nobility who collectively fund the theater. They rely upon Véldor's star power to fill seats and maintain the company's prestigious reputation.
 
 ### Enemies
 
-- **Dárion Ashford**: A younger actor of considerable talent who has begun to eclipse Véldor in popularity. Their professional rivalry has turned personal, with Dárion taking every opportunity to undermine Véldor's authority within the company and to disparage his performances.
-- **The Rival Stageworks Collective**: A competing theatrical company that has begun aggressively poaching the City Theater's best performers and audiences. Véldor sees their success as a personal affront.
-- **Master Celestyn Darnos**: Complicated. Though still Véldor's mentor and director, the aging Darnos has begun to criticize Véldor's recent work as lacking the depth and nuance of his earlier performances, suggesting that Véldor has grown complacent with success.
+Dárion Ashford
+: A younger actor of considerable talent who has begun to eclipse Véldor in popularity. Their professional rivalry has turned personal, with Dárion taking every opportunity to undermine Véldor's authority within the company and to disparage his performances.
+
+The Rival Stageworks Collective
+: A competing theatrical company that has begun aggressively poaching the City Theater's best performers and audiences. Véldor sees their success as a personal affront.
+
+Master Celestyn Darnos
+: Complicated. Though still Véldor's mentor and director, the aging Darnos has begun to criticize Véldor's recent work as lacking the depth and nuance of his earlier performances, suggesting that Véldor has grown complacent with success.
 
 ### Affiliations
 
-- **The Élavendre City Theater Company**: Véldor's professional home and primary identity. He serves as the company's principal actor and de facto artistic advisor, wielding considerable influence over casting and repertoire decisions.
+The Élavendre City Theater Company
+: Véldor's professional home and primary identity. He serves as the company's principal actor and de facto artistic advisor, wielding considerable influence over casting and repertoire decisions.
 
 ## Plot Hooks
 

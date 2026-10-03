@@ -479,25 +479,33 @@ Timothéon is driven by a deep commitment to excellence and the preservation of 
 
 ### Patrons
 
-- **Merchant House Valdris**: One of the Byzarian League's most prominent trading families; they have exclusively employed Timothéon for their most valuable shipments for over twenty years and would accept no substitute.
+Merchant House Valdris
+: One of the Byzarian League's most prominent trading families; they have exclusively employed Timothéon for their most valuable shipments for over twenty years and would accept no substitute.
 
-- **Master Cook Ilenna**: Proprietor of a well-known provision house where Timothéon coordinates supplies for merchant caravans; they maintain a mutually beneficial relationship built on decades of reliable partnership.
+Master Cook Ilenna
+: Proprietor of a well-known provision house where Timothéon coordinates supplies for merchant caravans; they maintain a mutually beneficial relationship built on decades of reliable partnership.
 
-- **Guild Master Maxentáhr**: The current head of the Teamsters' Guild values Timothéon as an unofficial advisor on standards and practices, consulting with him on disputes and policy matters.
+Guild Master Maxentáhr
+: The current head of the Teamsters' Guild values Timothéon as an unofficial advisor on standards and practices, consulting with him on disputes and policy matters.
 
-- **Lady Merchant Theresia**: A younger merchant whose family was personally helped by Timothéon in her youth; she has grown into one of the League's major traders and remains fiercely loyal to the old teamster.
+Lady Merchant Theresia
+: A younger merchant whose family was personally helped by Timothéon in her youth; she has grown into one of the League's major traders and remains fiercely loyal to the old teamster.
 
 ### Enemies
 
-- **The Ravenswood Brigands**: A loose confederation of bandits who have targeted merchant caravans throughout the eastern trade routes; Timothéon famously refused their demands for tribute, leading to an ongoing vendetta that has made those routes increasingly dangerous for his shipments.
+The Ravenswood Brigands
+: A loose confederation of bandits who have targeted merchant caravans throughout the eastern trade routes; Timothéon famously refused their demands for tribute, leading to an ongoing vendetta that has made those routes increasingly dangerous for his shipments.
 
-- **Merchant Castellan Thorne**: A rival who rose through the ranks using cutthroat practices; he views Timothéon as an obstacle to new ways and has publicly disputed his methods, working to undermine the old teamster's reputation.
+Merchant Castellan Thorne
+: A rival who rose through the ranks using cutthroat practices; he views Timothéon as an obstacle to new ways and has publicly disputed his methods, working to undermine the old teamster's reputation.
 
 ### Affiliations
 
-- **Teamsters' Guild**: A senior member whose counsel is regularly sought on matters of standards, training, and guild governance; he maintains a small workshop where junior teamsters are trained in proper maintenance and care of draft animals.
+Teamsters' Guild
+: A senior member whose counsel is regularly sought on matters of standards, training, and guild governance; he maintains a small workshop where junior teamsters are trained in proper maintenance and care of draft animals.
 
-- **The Order of Jánus**: A lay organization devoted to maintaining proper order and boundaries in commerce; Timothéon is a regular participant in their ritual observances and has served on their advisory council.
+The Order of Jánus
+: A lay organization devoted to maintaining proper order and boundaries in commerce; Timothéon is a regular participant in their ritual observances and has served on their advisory council.
 
 ## Plot Hooks
 

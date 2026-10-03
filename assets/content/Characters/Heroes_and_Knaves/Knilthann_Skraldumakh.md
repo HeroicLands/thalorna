@@ -463,19 +463,30 @@ Knilthann's driving force is the preservation of cultural memory and the validat
 
 ### Patrons
 
-- **House of Bergvorn**: A noble family of great conservatism and wealth who commission Knilthann annually for their great winter festival, honoring the deeds of their ancestors as recounted through his voice.
-- **The High Thegn of Targud**: The kingdom's ruler has relied upon Knilthann to authenticate historical claims and validate dynastic narratives, making him an informal advisor on matters of cultural importance.
-- **Jarl Torsten the Unyielding**: A provincial ruler who views Knilthann as the keeper of his family's honor and commissions performances that serve to elevate his status among rival jarls.
+House of Bergvorn
+: A noble family of great conservatism and wealth who commission Knilthann annually for their great winter festival, honoring the deeds of their ancestors as recounted through his voice.
+
+The High Thegn of Targud
+: The kingdom's ruler has relied upon Knilthann to authenticate historical claims and validate dynastic narratives, making him an informal advisor on matters of cultural importance.
+
+Jarl Torsten the Unyielding
+: A provincial ruler who views Knilthann as the keeper of his family's honor and commissions performances that serve to elevate his status among rival jarls.
 
 ### Enemies
 
-- **Sindri the Innovator**: A young skald of real talent who has begun introducing foreign musical traditions into traditional sagas, attracting patronage from forward-looking nobles and earning Knilthann's bitter enmity.
-- **The Modern Skalds' Collective**: A loose association of younger performers who view traditional methods as restrictive and seek to establish alternative traditions based on individual creativity rather than historical accuracy.
-- **Kveld of the Eastern Reaches**: A rival skald who publically challenged Knilthann's interpretations of certain sagas, claiming the elder has distorted ancient stories to suit noble patrons—a wound that has never fully healed.
+Sindri the Innovator
+: A young skald of real talent who has begun introducing foreign musical traditions into traditional sagas, attracting patronage from forward-looking nobles and earning Knilthann's bitter enmity.
+
+The Modern Skalds' Collective
+: A loose association of younger performers who view traditional methods as restrictive and seek to establish alternative traditions based on individual creativity rather than historical accuracy.
+
+Kveld of the Eastern Reaches
+: A rival skald who publically challenged Knilthann's interpretations of certain sagas, claiming the elder has distorted ancient stories to suit noble patrons—a wound that has never fully healed.
 
 ### Affiliations
 
-- **Nordic Skalds' Guild**: As the Guild's Master of Lore and most celebrated active member, Knilthann holds substantial influence over certification, dispute resolution, and the maintenance of traditional standards.
+Nordic Skalds' Guild
+: As the Guild's Master of Lore and most celebrated active member, Knilthann holds substantial influence over certification, dispute resolution, and the maintenance of traditional standards.
 
 ## Plot Hooks
 

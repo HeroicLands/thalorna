@@ -474,20 +474,33 @@ Isidôra's driving passion is simple: she wants to create sanctuary. In a world 
 
 ### Patrons
 
-- **Her Mother, Lady Kalista Melissenós**: Though officially estranged from her father, Isidôra maintains a close and loving relationship with her mother, who provides both emotional support and occasional financial assistance. Kalista has also become one of Isidôra's best sources of information about the social machinations of the wealthy.
-- **Master Melanthéhran Eugenazûr**: Her mentor and former owner, now retired, who still frequents the Gilded Gryphon to share wine with Isidôra and offer wisdom on business and life matters.
-- **Merchant-Lord Kaelith**: A worldly trader and collector of fine things who has become both a regular guest and a social ally, using his position to recommend the Gilded Gryphon to other wealthy travelers and defending Isidôra's reputation when necessary.
+Her Mother, Lady Kalista Melissenós
+: Though officially estranged from her father, Isidôra maintains a close and loving relationship with her mother, who provides both emotional support and occasional financial assistance. Kalista has also become one of Isidôra's best sources of information about the social machinations of the wealthy.
+
+Master Melanthéhran Eugenazûr
+: Her mentor and former owner, now retired, who still frequents the Gilded Gryphon to share wine with Isidôra and offer wisdom on business and life matters.
+
+Merchant-Lord Kaelith
+: A worldly trader and collector of fine things who has become both a regular guest and a social ally, using his position to recommend the Gilded Gryphon to other wealthy travelers and defending Isidôra's reputation when necessary.
 
 ### Enemies
 
-- **Her Father, Merchant-Prince Kossian Melissenós**: Though not actively hostile, Isidôra's father views her choice as a personal rejection of his authority and the family's social position. He has pressured her to close the Inn and return to her "proper" role in the family business. The emotional distance between them causes Isidôra real pain despite her outward success.
-- **The Merchant's Syndicate**: A powerful organization of merchant-lords who view independent innkeepers as obstacles to their control of the hospitality trade. They have threatened Isidôra's suppliers and attempted to pressure her into joining their ring, which would compromise her ability to serve all travelers equally.
-- **Unspoken Jealousy**: Some of the older innkeepers in the region resent her success and beauty, spreading rumors about her propriety and hinting that her popularity stems from something improper rather than true hospitality.
+Her Father, Merchant-Prince Kossian Melissenós
+: Though not actively hostile, Isidôra's father views her choice as a personal rejection of his authority and the family's social position. He has pressured her to close the Inn and return to her "proper" role in the family business. The emotional distance between them causes Isidôra real pain despite her outward success.
+
+The Merchant's Syndicate
+: A powerful organization of merchant-lords who view independent innkeepers as obstacles to their control of the hospitality trade. They have threatened Isidôra's suppliers and attempted to pressure her into joining their ring, which would compromise her ability to serve all travelers equally.
+
+Unspoken Jealousy
+: Some of the older innkeepers in the region resent her success and beauty, spreading rumors about her propriety and hinting that her popularity stems from something improper rather than true hospitality.
 
 ### Affiliations
 
-- **The Innkeepers' Association of the Byzarian League**: An association of innkeepers and taverners in which Isidôra is a respected voice for the rights of independent innkeepers against larger merchant organizations.
-- **The Vénusia Circle**: An informal society of women who worship the prosperity goddess Vénusia, through which Isidôra maintains connections with female merchants, scholars, and influential women throughout the League.
+The Innkeepers' Association of the Byzarian League
+: An association of innkeepers and taverners in which Isidôra is a respected voice for the rights of independent innkeepers against larger merchant organizations.
+
+The Vénusia Circle
+: An informal society of women who worship the prosperity goddess Vénusia, through which Isidôra maintains connections with female merchants, scholars, and influential women throughout the League.
 
 ## Plot Hooks
 

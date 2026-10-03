@@ -469,20 +469,33 @@ Gávrilos is driven by two conflicting forces: the desire to cement his legacy a
 
 ### Patrons
 
-- **House Markedon**: A wealthy merchant dynasty that has employed Gávrilos as a private weapons master for fifteen years. Their eldest son, **Theron Markedon**, now commands the garrison, a position Gávrilos helped him prepare for.
-- **Captain-General Isidore of the City Guard**: The supreme military commander of Chrysamar personally consults with Gávrilos on matters of combat doctrine and maintains him on an annual retainer.
-- **Archon Paulides**: A senior political figure who guards Gávrilos jealously, seeing that he receives prominent civic positions and shielding him from rivals' schemes—in exchange for advice on matters requiring decisive action.
+House Markedon
+: A wealthy merchant dynasty that has employed Gávrilos as a private weapons master for fifteen years. Their eldest son, **Theron Markedon**, now commands the garrison, a position Gávrilos helped him prepare for.
+
+Captain-General Isidore of the City Guard
+: The supreme military commander of Chrysamar personally consults with Gávrilos on matters of combat doctrine and maintains him on an annual retainer.
+
+Archon Paulides
+: A senior political figure who guards Gávrilos jealously, seeing that he receives prominent civic positions and shielding him from rivals' schemes—in exchange for advice on matters requiring decisive action.
 
 ### Enemies
 
-- **Swordmaster Theodarash the Younger**: An ambitious rival twenty years Gávrilos's junior who has begun publicly questioning whether the aging master still deserves his reputation. Theodarash has cultivated alliances among newer swordmasters and has won several public bouts against Gávrilos's former students, building confidence and a following.
-- **The Merchants' Syndicate Faction**: A group of mercantile powers who resent Gávrilos's alliance with noble houses and have begun recruiting alternative weapons masters, seeking to dilute his monopoly on quality training.
-- **His Own Reputation**: Perhaps his greatest enemy is the impossibly high standard he has created through forty years of undefeated excellence. Every student now expects perfection; every new pupil hopes to be trained by an immortal legend rather than an aging master. This burden grows heavier with each passing year.
+Swordmaster Theodarash the Younger
+: An ambitious rival twenty years Gávrilos's junior who has begun publicly questioning whether the aging master still deserves his reputation. Theodarash has cultivated alliances among newer swordmasters and has won several public bouts against Gávrilos's former students, building confidence and a following.
+
+The Merchants' Syndicate Faction
+: A group of mercantile powers who resent Gávrilos's alliance with noble houses and have begun recruiting alternative weapons masters, seeking to dilute his monopoly on quality training.
+
+His Own Reputation
+: Perhaps his greatest enemy is the impossibly high standard he has created through forty years of undefeated excellence. Every student now expects perfection; every new pupil hopes to be trained by an immortal legend rather than an aging master. This burden grows heavier with each passing year.
 
 ### Affiliations
 
-- **Byzarian Swordmasters' Guild**: A prestigious organization to which only masters of proven excellence are admitted. Gávrilos sits on the Council of Masters that adjudicates disputes and sets standards.
-- **The Scholars of Vénusia**: A philosophical circle devoted to the goddess of prosperity and martial excellence. Gávrilos attends their quarterly meetings, where swordmasters debate technique and history.
+Byzarian Swordmasters' Guild
+: A prestigious organization to which only masters of proven excellence are admitted. Gávrilos sits on the Council of Masters that adjudicates disputes and sets standards.
+
+The Scholars of Vénusia
+: A philosophical circle devoted to the goddess of prosperity and martial excellence. Gávrilos attends their quarterly meetings, where swordmasters debate technique and history.
 
 ## Plot Hooks
 

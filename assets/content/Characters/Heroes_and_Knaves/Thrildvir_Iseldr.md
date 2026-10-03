@@ -473,17 +473,24 @@ Thrildvir's deepest motivation is fundamentally about creating beauty and meanin
 
 ### Patrons
 
-- **Lord Aldwyn Voss**: A powerful noble and patron of the arts who regularly commissions elaborate ceremonial garments from Thrildvir and has been instrumental in establishing his reputation among the kingdom's elite. Their relationship is cordial in business but personally distant.
-- **The Royal Costume Master**: An official appointment that requires Thrildvir to produce state garments for royal ceremonies, a prestigious but demanding obligation that commands significant portions of his creative energy.
+Lord Aldwyn Voss
+: A powerful noble and patron of the arts who regularly commissions elaborate ceremonial garments from Thrildvir and has been instrumental in establishing his reputation among the kingdom's elite. Their relationship is cordial in business but personally distant.
+
+The Royal Costume Master
+: An official appointment that requires Thrildvir to produce state garments for royal ceremonies, a prestigious but demanding obligation that commands significant portions of his creative energy.
 
 ### Enemies
 
-- **Merchant-Tailor Halvin Greye**: A successful clothier who operates a larger, more commercially-focused atelier. Greye views Thrildvir as pretentious and haughty, while Thrildvir considers Greye's work mass-produced mediocrity. They compete fiercely for commissions from the lesser nobility.
-- **The Dyers' Consortium**: A commercial organization that controls much of the fabric supply in the region. Thrildvir's insistence on seeking out specific weavers and naturally-dyed fabrics has put him at odds with their pricing and availability demands.
+Merchant-Tailor Halvin Greye
+: A successful clothier who operates a larger, more commercially-focused atelier. Greye views Thrildvir as pretentious and haughty, while Thrildvir considers Greye's work mass-produced mediocrity. They compete fiercely for commissions from the lesser nobility.
+
+The Dyers' Consortium
+: A commercial organization that controls much of the fabric supply in the region. Thrildvir's insistence on seeking out specific weavers and naturally-dyed fabrics has put him at odds with their pricing and availability demands.
 
 ### Affiliations
 
-- **City Tailors' Guild**: He holds a senior position within the guild and serves on its governing council, though his idealistic standards sometimes put him at odds with the more pragmatic membership.
+City Tailors' Guild
+: He holds a senior position within the guild and serves on its governing council, though his idealistic standards sometimes put him at odds with the more pragmatic membership.
 
 ## Plot Hooks
 
