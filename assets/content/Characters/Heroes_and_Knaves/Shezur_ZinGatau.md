@@ -469,7 +469,7 @@ Shezur seeks to leave a legacy of excellence that will outlast his mortal years.
 [[being-akherethu2|Akherethu]]
 : Commander of the Aû'Khelâthu Imperial Guard, who has purchased from Shezur for seventeen years. Trusts no other source for his cohort's weapons and considers Zin'Gatau blades worth their weight in gold.
 
-Captain [[being-qelti|Qelti]]
+Captain [[being-tharaset|Tharaset]]
 : A mercenary captain of considerable renown who leads a company of two hundred soldiers. She sends at least a dozen soldiers annually to commission from Shezur.
 
 Lord Merchant Zekhenti
