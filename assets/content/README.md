@@ -39,10 +39,9 @@ events. The note's prose remains the readable account; the map makes the
 chronology and its evidence checkable. See
 [The Founding](Lore/History/The_Founding.md) for a complete example.
 
-World events in `Lore/History/` form the shared history spine. Run
-`npm run lint:history` to check their dates, sources, reach, and event links.
-That check requires `data.event.depth: world` for a spine event. Regional and
-local event metadata can live on other lore notes.
+World events form the shared history spine and carry `data.event.depth: world`.
+An event a single region can hold is that region's, and its metadata lives on
+that region's own lore note.
 
 ## Adding a note
 

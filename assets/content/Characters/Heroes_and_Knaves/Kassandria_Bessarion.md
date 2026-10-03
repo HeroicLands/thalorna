@@ -485,7 +485,7 @@ The Keepers of the Sealed Archive
 
 ### Affiliations
 
-Panepistemium
+[[affiliation-panepistmm|Panepistemium]]
 : Her official membership and primary institutional affiliation, though her relationship with the organization has grown increasingly complicated as her theories gain both devoted followers among younger scholars and vehement opponents among the conservative leadership. Her tenure is no longer secure, and she is acutely aware that powerful figures within the Epistemium now view her work as a threat to institutional stability and orthodox doctrine.
 
 ## Plot Hooks

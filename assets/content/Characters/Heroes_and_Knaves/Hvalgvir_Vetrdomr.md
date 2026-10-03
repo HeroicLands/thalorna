@@ -494,7 +494,7 @@ The Poison Cult of Vúlcan
 The Innkeepers' Guild
 : A formal organization whose meetings Hvalgvir attends, though he is often frustrated by their focus on profit over purpose.
 
-The Order of the Sworn Hand
+[[affiliation-eidhond|The Order of the Sworn Hand]]
 : An informal society of those devoted to the principle of fair judgment and order. Hvalgvir is considered one of their spiritual leaders, though he rarely claims the title.
 
 The Ódholm Community Council

@@ -14,6 +14,7 @@ data:
   culture: byzarianclt
   homes: [kostaros]
   affiliations: {byzarianlg: {}}
+  socialTies: {affiliation-irnwlvscmpny: nemesis}
   gender: male
   species: humanflk
   born: 670.34
@@ -489,7 +490,7 @@ The Village Blacksmith
 Karûsh
 : A former lieutenant from the Iron Wolves Company who was present at the massacre that broke Kyriákos. Karûsh has never forgiven Kyriákos for abandoning the company and suspects he's living in the very village they were hired to destroy. If Karûsh discovered Kyriákos's location, he would likely attempt to capture or kill him for his perceived betrayal.
 
-The Iron Wolves Company
+[[affiliation-irnwlvscmpny|The Iron Wolves Company]]
 : The mercenary company views Kyriákos as a deserter who could reveal their operations and methods. There is likely a standing bounty on him, though few realize the old village instructor is worth finding.
 
 Lord Varkûn

@@ -58,26 +58,25 @@ const SCANNED_DIRS = ["assets/content", ".changeset"];
  *
  * The lexicon is retired from one culture, not from the world. A Vedyari sword
  * named `Pata` and a Khelâthi house named for `Ptā'h` share four letters and
- * nothing else, so the scan asks first whether a note is Khelâthi at all —
- * by where it lives, by the culture it declares, by the pack it compiles into,
- * or by naming the people in its own text.
+ * nothing else, so the scan asks first whether a note is Khelâthi at all — by
+ * the culture it declares, by the pack it compiles into, or by naming the
+ * people in its own text.
  *
  * **The test names the people both ways, old and new.** A note swept early would
  * otherwise fall out of scope the moment its last `Kheperi` became `Khelâthi`,
  * taking its unswept ranks and places with it — the sweep would report itself
  * finished by shrinking what it was willing to look at.
  */
-const IN_SCOPE_PATH = /Ta\.Kheperu|Kemetian|Okharis/;
 const IN_SCOPE_TEXT =
     /(?<![\p{L}])(Kheperi|Kheperan|Kheperian|Kemet[ií]an|Ta'Kheperu|khepericlt|takheperu|Khelâthi|Khelâthu|Aû'Khelâthu|khelathiclt|khelathu)(?![\p{L}])/u;
 
-/** @param {string} file @param {string} text @returns {boolean} */
-function inScope(file, text) {
-    return IN_SCOPE_PATH.test(file) || IN_SCOPE_TEXT.test(text);
+/** @param {string} text @returns {boolean} */
+function inScope(text) {
+    return IN_SCOPE_TEXT.test(text);
 }
 
 /** The table every packet and this guard read from. */
-const MAPPING_FILE = "utils/khelathi-mapping.yaml";
+const MAPPING_FILE = "utils/lexicons/khelathi-mapping.yaml";
 
 /** The letters a coined morpheme must carry at least one of. */
 const RULE_THREE = ["l", "g", "z", "th", "q"];
@@ -303,7 +302,7 @@ export function checkTree(pairs, files, counts = new Map()) {
 
     for (const file of files) {
         const source = fs.readFileSync(file, "utf8");
-        if (!inScope(file, source)) continue;
+        if (!inScope(source)) continue;
         const lines = source.split("\n");
         lines.forEach((text, index) => {
             if (/^\s*renamedFrom:/.test(text)) return;

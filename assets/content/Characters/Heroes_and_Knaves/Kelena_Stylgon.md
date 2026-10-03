@@ -479,7 +479,7 @@ The Hidden Hand
 
 ### Affiliations
 
-The Provènzia Theater Collective
+[[affiliation-prvnzthtrclctv|The Provènzia Theater Collective]]
 : An informal association of performers and theater operators that Kêlena helped establish and continues to influence. Through this group, she maintains connections to the artistic and performance communities even as she operates primarily in high society.
 
 ## Plot Hooks
