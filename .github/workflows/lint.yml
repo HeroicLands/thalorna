@@ -123,11 +123,10 @@ jobs:
               if: ${{ !cancelled() }}
               run: npm run lint:lexicon
 
-            # Every being is a character, an npc or a creature, by the test the
-            # content format states.
-            - name: Check being subtypes
+            # A being's classification lives in `subType`, and no tag repeats it.
+            - name: Check being classification tags
               if: ${{ !cancelled() }}
-              run: npm run lint:being-subtypes
+              run: npm run lint:being-classification-tags
 
             # `.github/labels.yml` and the §3 table of the issue-reporting doc
             # still name the same closed set.
