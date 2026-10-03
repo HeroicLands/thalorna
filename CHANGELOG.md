@@ -1,5 +1,272 @@
 # thalorna
 
+## 0.1.1
+
+### Patch Changes
+
+**Affiliations** — Wuldjagâr erund Gárskald and the Blackpine Wolves now list
+
+the government that actually rules them: a huntmaster answering to the clan
+chief, and a boss who holds command only as long as no one dares to challenge
+him.
+
+**The Asguardian gods** — Each of the Ten carries a senior priest's account of its
+own: what the god is held to be, what a hof asks of the faithful, and what
+devotion costs or wins.
+
+**The northern culture note** — Names the pantheon as the Ten, and names the
+reckoning at the end of the age by the north's own word.
+
+**Beings** — Character and NPC profiles show the roles they can fill in an
+adventure, including common folk, entertainers, and established professionals.
+
+**The Ten's devotional orders** — Twenty-nine priesthoods and militant bands, from
+Ódvar's rune-readers to Bjartr's elder-trained swords, each stand as their own
+compendium affiliation with a cast-out, a member and a leading standing.
+
+**Each order answers to a northern name** — Eldverdir, Grönhönd, Hrafnrún and the
+rest are named in Nordmal, with the English phrase each is known by beside it.
+
+**One ladder across all of them** — An order's three standings are Dróttvargr,
+Dróttmadr and Dróttstjóri, whatever the order.
+
+**A faith names its orders once** — Each faith of the Ten points to the orders that
+answer to it.
+
+**Patrons, enemies and affiliations** — Where a patron, enemy or affiliation names
+
+a house, guild, temple, company or person the setting has a page for, the name is
+now a link, so a reader can follow it instead of being told that a guild matters
+and left there.
+
+affiliations now read as a term and its explanation rather than a bulleted
+line, so the name of a house or a guild stands clear of the account of what
+it wants.
+
+**Standings** — Following a standing from a ladder now leads straight to the
+
+affiliation that confers it, rather than to a separate page that said nothing
+beyond the standing's own name.
+
+holds one house, province or branch of a larger body and answers upward for
+everything it does, and the former magistrate, whose standing comes of having
+served a body's chief magistracy and handed it back.
+
+the aspirant, the child of the faith, the supplicant, the licensed
+practitioner, the vow-bound devotee, the sworn of the rite, the committed, the
+transfigured, the teaching elder, the seated elder, the senior member, the
+vowed debtor, the kin by marriage, the cadet line, the outcaste, and the
+officer dismissed from a charge.
+
+**Seventy-seven Khelathi affiliations** — Every temple, guild, noble house,
+faction and company of Aû'Khelâthu reads as a page: what it is, who belongs,
+what it does, and what dealing with it costs a person.
+
+**Marked as drafts** — Each carries its template's full set of fields, with
+what nobody has researched yet left honestly empty rather than guessed at.
+
+**Khelâthi folk** — Officers, priests, scribes, traders, hunters, and nobles of
+Aû'Khelâthu now carry an appearance and a dossier — what they look like, who
+they are, what they do, and what it costs or buys to deal with them — in
+place of a single repeated line.
+
+**The reigning court** — The Gar-Aû, the Imperial Guard's commander, the high
+priest of Qe'âret, and the Imperial treasurer each carry the same fuller
+account.
+
+**Khelâthu's villages, quarters and selats** — A generated settlement, site,
+structure, feature or region reads as a place: where it stands, what it lives
+by, and one consequence of that for the people there, in place of its own
+description repeated back as the whole entry.
+
+**Two halves of one tradition** — Gezru'lutu and Ithnetáu each explain the
+half of the world they govern against the half its companion governs, rather
+than standing alone.
+
+**The season of low water** — Shelu explains what four months of falling
+water lets the empire do that the rest of the year will not allow.
+
+**The World of Thalorna** — The world page answers to _Mannguard_, the name the
+north calls the world underfoot, beside _Thalorna_.
+
+**A tenth god** — Mótefnir the Maker holds craft and invention among the Ten,
+with his own article, a faith on the ordinary blót ladder, and a faith skill. The
+Dreadspawn are his, he makes each living thing once, and he does not come back
+for any of it.
+
+**The Rime-Giant** — Hrímthur is one of the giant-kin the Ten fought and beat,
+killed instead of banished and cut into the ground the world stands on. His faith
+is kept in the north and stands outside the Ten.
+
+**What the pantheon is for** — The Ten are the ten who won that war, and the
+making of the world is the only thing all of them ever did together. Everything
+the sagas quarrel about dates from after the victory.
+
+**Three ways a creature is made** — A dreadspawn is alive and a celestial hand
+made it so; a construct is matter moved by a mage's working, dead flesh included;
+an undead is a body its spirit has left, raised under necrotic force.
+
+**Craftsmen know who they pray to** — The roofers, the weaver, the völva and the
+laboratory-born of the north name the Maker.
+
+**People** — A character or NPC's profile names the settlement they call home rather than the region around it, so a reader lands on the town or waypoint itself.
+
+**The north** — The Nordlands' people and settlements, the Ten and their
+rites, and the sworn orders are all found under the names the Nordmen give
+them. Each page, compendium entry and portrait is reached by its own name, and
+the links between them land there.
+
+**The Ten in prose** — Every page that names a god of the Asguardian pantheon
+names him in Nordmal, and so do its devotional orders.
+
+**The north's lore** — The two ravens, the thunder-hammer, the world-wyrm, the
+winter-wolf, the defending kin of the gods and the storm-god's holy mountain
+carry the north's own names.
+
+**Words of the north** — The undead the Faith of Náhild favours, the elder
+sea-power the coastal clans placated, the king's reeve, Vithgard's royal clan
+and a frontier settlement of Nordheim take northern names.
+
+**Northern rank ladders** — The five kingdoms, the Jarldom of Stormveld, and the
+Vrystwald Tribes each list the standings their own law confers, from the
+lowest to the highest, with what the law actually does to a person who holds
+one.
+
+**Offices kept apart from rank** — A king's marshal, a province's reeve, a
+tribe's war-chief, and the other posts a person of standing may take up and
+lay down appear separately from that person's rank, naming what each post
+actually does.
+
+**Twenty-four northern settlements** — Every market town, fishing village, mining
+camp, frontier fort and Vrystwald clearing reads as a place: who holds it, what
+its people live on, and what they argue about.
+
+**Authority by title** — A settlement's holder is a named office over a named
+district or province, or a Vrystwald chieftain in his own hall.
+
+**The Nordlands' sworn orders and companies** — The four Asguardian fighting
+orders, the Mercenary Compact, the Blackpine Wolves, the Wuldjagâr hunters and
+the Skalds' Circle each list the ranks a member actually climbs, from candidate
+to senior, with the same ranks named on the page and on the sheet.
+
+**Chairs are offices** — The Voice of Lögstead, the Speaker of the Compact and
+the other orders' and companies' chairs each appear as the office it is, held
+by whoever is elected to it.
+
+**Ladders** — A rung points at the standing it describes, so a bureau's
+
+provincial temple head reads apart from the head of its whole establishment, a
+specialist branch of a temple complex apart from the complex, and a presiding
+magistrate of the year apart from a master of an order.
+
+hereditary exclusion reads as one, a hired practitioner is not a vowed
+religious, and an elder who teaches is told apart from an elder who votes.
+
+**Pages a standing has** — High Priest and Grand Master say what the standing
+
+is, how the law treats a person holding it, and what it wins and costs. Grand
+Master states plainly that it names a place at the top of a ladder, held on
+terms each body sets for itself.
+
+Kinsman say what the standing is, how the law treats a person holding it, and
+what it costs and wins.
+
+**Order of the Storm-Speakers** — The order answers to _The Hammer Held_, one
+of the three principles its members swear.
+
+**The Weighing** — Qe'âret's judgement reads what a Khelâthi owed and whether he
+closed it, not his heart against a feather. Both of a person's accounts are
+opened: the temple account a scribe took, and the account the gods kept where no
+scribe was present. A written entry can be closed late or bought out; the
+unwritten one can only be met, which is why a Khelâthi spends his last years
+asking rather than paying.
+
+**Three people, not one name** — The elder who keeps the water-shrine teaching at
+Kethramír and the mercenary captain who equips her two hundred better than her
+contracts require each have a note of their own, and the playwright of Galezkara
+keeps his. Following a mention of any of the three now reaches that person
+rather than a page explaining that the name could mean anybody.
+
+**The throne and the augur** — The Gar-Aû's reliance on the judicial auguries of
+Qe'âret's high priest is stated again, which is also why his judgement is so
+hard to move against.
+
+**The Varokhi tongue** — The language note publishes what a Varokhi name is made
+of: the elements a kindred names itself from, each traced to a name on the page,
+and the rules that join them into a given name, a clan name, a ground name, a
+rank and an office.
+
+**Plenty of names to pick from** — Eighty-one men's names, seventy-five women's
+and eighty-eight clans, the clans glossed by their people, so a household can be
+named without coining anything.
+
+**A woman's name and a man's** — A woman's name closes on `-a`, or on `-wyn`,
+`-rún` or `-ris`. A man's closes on a consonant and on none of those three.
+
+**Telling the forest from the north** — Varokhi writes `w` and `c` where Nordmal
+writes neither, and Nordmal writes `ö` where Varokhi does not. Both tongues write
+the acute for a long vowel, and both write out the thorn and the eth as letters.
+
+**Varokh standings** — every Varokh carries a standing on the Vrystwald
+Tribes' own ladder, read from what the person does, rather than a flat
+Nordmen-style rank.
+
+**Varokh spirits** — Varokh characters answer to their tribe and its totems
+on the sheet, not to a god of the Ten.
+
+**Ransom** — a captive's treatment turns on whether his own people can buy
+him back: a fellow Varokh is ransomed and treated well, a Nordlander often
+enough to matter, and a southerner almost never, which is why the labor base
+is foreign.
+
+**Contempt, graded** — the Varokh regard the Nordmen as the least foreign
+people there are and the Vylarian Empire as a nemesis, rather than treating
+both the same.
+
+**Corrected names** — five Varokh names lose a misspelling or a mark neither
+tongue of the region writes.
+
+**Varokhi tribes and companies name their own standings** — The Vrystwald
+tribes, the Wuldjagár hunting company and the Blackpine Wolves name every
+standing and office a member can hold in their own tongue, from the kinless
+to the elders who share a village's three seats, from the council's speaker
+to the hunt's tracker. Each standing also lists the plain English name it was
+known by, so the old word still finds it.
+
+**A village has no single chieftain** — A Vrystwald village answers to three
+co-equal elders instead of one: a Shaman for the spirits, a War Chief for the
+warband, and an Other Chief for everything between. A new standing, Respected,
+sits just below them, naming the few who assist each seat and from whom every
+seat is eventually filled.
+
+**A spelling corrected** — The Wuldjagár company's own name carries the long
+vowel Varokhi marks, not the mark a southern tongue would write.
+
+**A phrasebook that keeps to its own vocabulary** — The handful of Varokhi
+sentences on the page are built from words the tongue's own sound rules
+allow, rather than from sounds the forest does not speak.
+
+**The compass** — Velanthia and the Grukar lie to the northeast of the Varokh
+forest, and Vylaria lies far to the east, beyond the mountains.
+
+**The Grukar ground** — It thickens and thins rather than drawing a line,
+since the Grukar hold no polity and no border exists to hold.
+
+**The Grukar themselves** — Wholly alien rather than a rival people: no
+trade, envoy, intermarriage or ransom crosses that ground, and a captive
+taken there is eaten rather than held.
+
+**Why they never mass** — Every tribe answers only to its own spawner, so
+Grukar nests never combine into one war, and a breakaway tribe can appear
+deep in Varokh country without crossing any border.
+
+**The six Vrystwald villages** — Each keeps its own totem animal now, from
+Eichengrund's boar to Waldburg's dove.
+
+**Their governing councils** — Each village note now reads as a place a
+referee can run: which of the three seats that govern a Varokh village
+actually holds sway there, and which two resent it and why.
+
 ## 0.1.0
 
 ### Minor Changes
