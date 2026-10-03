@@ -14,6 +14,7 @@ data:
   culture: nordheimnclt
   homes: [vrathavn]
   affiliations: {kingdmnrgd: {}}
+  socialTies: {being-skrldmylstrmbrn: patron}
   gender: male
   species: humanflk
   born: 675.83
@@ -471,7 +472,7 @@ Rulthvir is motivated by a desire that extends beyond human ambition—he wants 
 
 ### Patrons
 
-Lord Skrildmýl Stormborn
+Lord [[being-skrldmylstrmbrn|Skrildmýl Stormborn]]
 : A powerful regional noble who depends on Rulthvir's knowledge to maintain the livestock that supplies his household and feeds his warriors. Skrildmýl has significant respect for Rulthvir's judgment and occasionally seeks his counsel on matters beyond herding.
 
 The Pastoral Families of Norgaad

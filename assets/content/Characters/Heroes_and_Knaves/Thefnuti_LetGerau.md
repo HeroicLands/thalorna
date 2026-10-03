@@ -15,6 +15,7 @@ data:
   culture: khelathiclt
   homes: [anlaghzetun]
   affiliations: {empireakhlth: {}}
+  socialTies: {affiliation-aerarimmpr: patron}
   gender: male
   species: humanflk
   born: 669.179
@@ -485,7 +486,7 @@ Lady [[being-uznerashkag2|Uzner Ashkagar]]
 Scholar-Collector [[being-kheladenthlt|Khelâden Itha'Letu]]
 : A historian and antiquarian who employs Thefnutî to create accurate mechanical reproductions of ancient devices based on historical records and archaeological findings. Their collaboration has produced some of Thefnutî's most celebrated works.
 
-the Imperial Treasury
+[[affiliation-aerarimmpr|the Imperial Treasury]]
 : Thefnutî has several standing commissions from the imperial court to create elaborate gifts for diplomatic purposes and state ceremonies. These are highly visible works that enhance his reputation significantly.
 
 Merchant Prince Zassor the Learned
@@ -501,7 +502,7 @@ Toymaker Mavrik the Innovator
 
 ### Affiliations
 
-the Toymakers' Guild of Aû'Khelâthu
+[[affiliation-linzaglkhlth|the Toymakers' Guild of Aû'Khelâthu]]
 : Thefnutî holds membership and retains significant prestige within the guild, though he frequently clashes with guild leadership over standards and methods. He serves on the guild's standards committee, where he advocates for stricter quality requirements.
 
 [[affiliation-garletgerau|the Gar-Let'Gerau]]

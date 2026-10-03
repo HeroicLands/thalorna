@@ -15,6 +15,7 @@ data:
   culture: khelathiclt
   homes: [galezkara]
   affiliations: {empireakhlth: {}}
+  socialTies: {being-lekhebur2: rival, being-thema2: patron}
   gender: male
   species: humanflk
   born: 665.164
@@ -473,7 +474,7 @@ The Gar-Gul'Thakétu
 Master Architect Zezabu
 : A celebrated builder and engineer who has learned to commission weapons of precise specifications that align with his exacting vision; he respects Raiaqu as a peer in the pursuit of structural perfection.
 
-Captain Thema
+Captain [[being-thema2|Thema]]
 : A decorated military officer of common birth who has fought her way to prominence; Raiaqu has equipped her with three successive blades, and she has become one of his most vocal advocates.
 
 ### Enemies
@@ -484,7 +485,7 @@ Theqas the Swift
 The Foundry Collective
 : A guild of lesser smiths operating on the city's southern dock, jealous of Raiaqu's prestige and monopoly on high-profile commissions. They have attempted to spread rumors that his age is affecting his work quality.
 
-Lord Lekhebur
+Lord [[being-lekhebur2|Lekhebur]]
 : A corrupt noble who once commissioned a sword from Raiaqu, then refused payment, claiming the blade was overpriced. Raiaqu's public refusal to forge for him further soured the relationship.
 
 ### Affiliations
