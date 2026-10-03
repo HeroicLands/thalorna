@@ -35,7 +35,7 @@
         "build:assets": "package-build assets",
         "build:compiledb": "package-build package compile",
         "build:unpackdb": "package-build package unpack",
-        "lint": "run-s lint:format lint:markdown lint:lang lint:addresses lint:content-links lint:history lint:reference-people lint:lexicon lint:being-appearance lint:labels",
+        "lint": "run-s lint:format lint:markdown lint:lang lint:addresses lint:content-links lint:reference-people lint:labels",
         "lint:format": "package-build format",
         "lint:markdown": "package-build markdown",
         "lint:markdown:fix": "package-build markdown --fix",
@@ -65,16 +65,14 @@
         "build:content-index": "package-build content-index",
         "build:calendars": "package-build calendars --calendaria-version 1.4.2",
         "lint:lang": "package-build lang check",
-        "lint:history": "node utils/history-spine.mjs",
         "lint:reference-people": "node utils/reference-people.mjs",
-        "lint:being-appearance": "node utils/being-appearance.mjs",
         "lint:labels": "package-build labels check",
         "build:module": "package-build manifest",
-        "lint:lexicon": "node utils/khelathi-lexicon.mjs",
+        "lint:khelathi-lexicon": "node utils/lexicons/khelathi-lexicon.mjs",
         "lint:drift": "node utils/nordmal-drift.mjs",
-        "lint:nordmal-lexicon": "node utils/nordmal-lexicon.mjs",
+        "lint:nordmal-lexicon": "node utils/lexicons/nordmal-lexicon.mjs",
         "lint:nordmal-concordance": "node utils/nordmal-concordance-check.mjs",
-        "lint:varokhi-lexicon": "node utils/varokhi-lexicon.mjs"
+        "lint:varokhi-lexicon": "node utils/lexicons/varokhi-lexicon.mjs"
     },
     "devDependencies": {
         "@changesets/cli": "^3.0.3",

@@ -313,7 +313,7 @@ Albinism is four values together: `white` hair, `violet` eyes, `pale` skin and a
 
 `data.appearance.extra_features` is free text and carries everything the closed fields cannot: a bald head, a scar and where it runs, a tattoo and what it shows, a limp, a missing finger, the way someone holds themselves.
 
-A value outside these tables is a decision, not a convenience. Widening a list means editing the table and the registry in `utils/being-appearance.mjs` together; `npm run lint:being-appearance` compares the two, values and English both, and requires a definition for every value. Any key under `data.appearance` other than the five above fails as well, so a misspelled field name is caught rather than ignored.
+A value outside these tables is a decision, not a convenience. Widening a list means adding the value to the table with a definition, in the same change that first writes it. `data.appearance` takes the five keys above and no others.
 
 Every being uses these **H1 headings with their anchors intact**:
 

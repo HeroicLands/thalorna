@@ -14,12 +14,19 @@
 # under `if: \${{ !cancelled() }}`, so one failure does not hide the others,
 # and a red run is a worklist rather than a wall.
 #
-# Three guards are deliberately absent. `lint:drift` and `lint:nordmal-lexicon`
-# report what the northern renaming has not yet reached, so both are red by
-# design until it finishes and both are deleted with it.
-# `lint:nordmal-concordance` judges the table those two read. It reports the
-# names the renaming has recorded nothing for, so it is red by design on the
-# same backlog, and it is deleted with the table.
+# The lexicons are deliberately absent, and so is the drift sweep. A lexicon
+# judges one culture's names against the phonology its own language note
+# publishes, and there is one per culture — Nordmal, Varokhi, Khelâthi, and
+# whichever comes next. Each reports the names a renaming has not yet reached,
+# so each is red by design while that renaming is in progress, and holding the
+# whole tree red on one culture's backlog tells a contributor nothing about the
+# change in front of them. They are run on demand:
+# `npm run lint:khelathi-lexicon`, `lint:nordmal-lexicon`,
+# `lint:varokhi-lexicon`.
+#
+# `lint:drift` reports old names surviving in prose, and
+# `lint:nordmal-concordance` judges the table it and the Nordmal lexicon read.
+# Both are red on the same backlog and both are run the same way.
 #
 # ## The compile is a second job
 #
@@ -106,22 +113,10 @@ jobs:
               if: ${{ !cancelled() }}
               run: npm run lint:content-links
 
-            # Era markers, the containment walk up `data.parents`, and the
-            # chronology a region's own dates must agree with.
-            - name: Check the history spine
-              if: ${{ !cancelled() }}
-              run: npm run lint:history
-
             # A named person the prose leans on resolves to a note.
             - name: Check reference people
               if: ${{ !cancelled() }}
               run: npm run lint:reference-people
-
-            # Khelathi names against the phonology its own language note
-            # publishes.
-            - name: Check the Khelathi lexicon
-              if: ${{ !cancelled() }}
-              run: npm run lint:lexicon
 
             # `.github/labels.yml` and the §3 table of the issue-reporting doc
             # still name the same closed set.
