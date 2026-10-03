@@ -465,20 +465,33 @@ Glirvrinna is driven by a desire to create beauty that endures, to produce work 
 
 ### Patrons
 
-- **Lord Vraldmýl Braldendikh**: A wealthy noble with appreciation for fine art and textiles. He has commissioned multiple tapestries and furnishings from Glirvrinna and frequently recommends her work to his peers, providing steady access to high-value commissions.
-- **The Traveling Muse Theater Company**: A prestigious performance group that requires stunning costumes and set dressings. They commission Glirvrinna multiple times yearly and have become her most visible patrons, as her work appears before large audiences.
-- **Lin'Zuwaret elu Aû'Khelâthu's Flagship Crews**: Successful merchant captains who value appearing prosperous commission elaborate tent pavilions and shipboard furnishings from her workshop. These provide both income and maritime visibility for her work.
-- **Princess Solveig of Malagna**: The royal family has begun commissioning items from Glirvrinna, including ceremonial banners and royal furnishings. Though royal patronage is recent, it promises to elevate her status considerably.
+Lord Vraldmýl Braldendikh
+: A wealthy noble with appreciation for fine art and textiles. He has commissioned multiple tapestries and furnishings from Glirvrinna and frequently recommends her work to his peers, providing steady access to high-value commissions.
+
+The Traveling Muse Theater Company
+: A prestigious performance group that requires stunning costumes and set dressings. They commission Glirvrinna multiple times yearly and have become her most visible patrons, as her work appears before large audiences.
+
+Lin'Zuwaret elu Aû'Khelâthu's Flagship Crews
+: Successful merchant captains who value appearing prosperous commission elaborate tent pavilions and shipboard furnishings from her workshop. These provide both income and maritime visibility for her work.
+
+Princess Solveig of Malagna
+: The royal family has begun commissioning items from Glirvrinna, including ceremonial banners and royal furnishings. Though royal patronage is recent, it promises to elevate her status considerably.
 
 ### Enemies
 
-- **Master Craftsman Thorvald the Practical**: An older male tentmaker who represents the "function-first" philosophy Glirvrinna's father stood for. Thorvald publicly criticizes her work as beautiful but impractical and has won contracts she sought by undercutting her prices and emphasizing durability over aesthetics.
-- **Draskselda the Copyist**: A jealous rival artisan who specializes in producing close imitations of Glirvrinna's original designs at lower cost. Draskselda's plagiarism has cost Glirvrinna several clients, though legal action has proven difficult given the custom nature of textile work.
-- **Her Own Father**: Vigram Stormrót, though retired and no longer a direct business threat, occasionally makes critical comments about Glirvrinna's prioritization of artistry over durability, implying she is abandoning family traditions.
+Master Craftsman Thorvald the Practical
+: An older male tentmaker who represents the "function-first" philosophy Glirvrinna's father stood for. Thorvald publicly criticizes her work as beautiful but impractical and has won contracts she sought by undercutting her prices and emphasizing durability over aesthetics.
+
+Draskselda the Copyist
+: A jealous rival artisan who specializes in producing close imitations of Glirvrinna's original designs at lower cost. Draskselda's plagiarism has cost Glirvrinna several clients, though legal action has proven difficult given the custom nature of textile work.
+
+Her Own Father
+: Vigram Stormrót, though retired and no longer a direct business threat, occasionally makes critical comments about Glirvrinna's prioritization of artistry over durability, implying she is abandoning family traditions.
 
 ### Affiliations
 
-- **The Artisans' Collective of Malagna**: Glirvrinna is a prominent member and serves on the council, though she remains somewhat isolated due to her focus on textiles rather than more traditionally respected arts like sculpture or painting.
+The Artisans' Collective of Malagna
+: Glirvrinna is a prominent member and serves on the council, though she remains somewhat isolated due to her focus on textiles rather than more traditionally respected arts like sculpture or painting.
 
 ## Plot Hooks
 

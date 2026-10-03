@@ -470,21 +470,36 @@ Kjôrvan is driven by a desire to provide care and comfort to creatures that can
 
 ### Patrons
 
-- **Innkeeper Mârlith**: The proprietor of the Traveler's Rest Inn, who trusts Kjôrvan completely and relies on him to maintain the quality of the inn's services. She often consults him on matters beyond his stable work.
-- **Merchant Caravans of the Crossroads**: Regular merchants who pass through the inn give Kjôrvan gifts, bonuses, and special requests, viewing his care as worth premium payment.
-- **The Kingdom's Ranger Corps**: The royal rangers occasionally stable their horses with Kjôrvan and respect his knowledge of equine fitness and trail-readiness.
-- **Noble Houses of Provènzia**: Several regional nobles have favorite horses stabled permanently at the inn specifically to be under Kjôrvan's care.
+Innkeeper Mârlith
+: The proprietor of the Traveler's Rest Inn, who trusts Kjôrvan completely and relies on him to maintain the quality of the inn's services. She often consults him on matters beyond his stable work.
+
+Merchant Caravans of the Crossroads
+: Regular merchants who pass through the inn give Kjôrvan gifts, bonuses, and special requests, viewing his care as worth premium payment.
+
+The Kingdom's Ranger Corps
+: The royal rangers occasionally stable their horses with Kjôrvan and respect his knowledge of equine fitness and trail-readiness.
+
+Noble Houses of Provènzia
+: Several regional nobles have favorite horses stabled permanently at the inn specifically to be under Kjôrvan's care.
 
 ### Enemies
 
-- **The Slave Traders of the Shadowmarch**: Criminal organizations that occasionally pass through the crossroads. Kjôrvan refuses them service, and they view him as an obstacle to their operations.
-- **The Road Bandits of Thornwood**: A band of brigands led by the cruel **Captain Rogûn** who have attempted to steal valuable horses from the inn. Kjôrvan has helped facilitate the recovery of stolen animals.
-- **Rival Ostlers**: A few ostlers from competing stables view Kjôrvan's reputation as a threat to their business and have occasionally attempted to poach his clients or sabotage his reputation.
+The Slave Traders of the Shadowmarch
+: Criminal organizations that occasionally pass through the crossroads. Kjôrvan refuses them service, and they view him as an obstacle to their operations.
+
+The Road Bandits of Thornwood
+: A band of brigands led by the cruel **Captain Rogûn** who have attempted to steal valuable horses from the inn. Kjôrvan has helped facilitate the recovery of stolen animals.
+
+Rival Ostlers
+: A few ostlers from competing stables view Kjôrvan's reputation as a threat to their business and have occasionally attempted to poach his clients or sabotage his reputation.
 
 ### Affiliations
 
-- **The Traveler's Rest Inn**: His primary workplace and community, where he holds significant influence and trust.
-- **Informal Network of Beast-Keepers**: Through his reputation, he maintains loose connections with other skilled animal handlers, herbalists, and healers throughout the region.
+The Traveler's Rest Inn
+: His primary workplace and community, where he holds significant influence and trust.
+
+Informal Network of Beast-Keepers
+: Through his reputation, he maintains loose connections with other skilled animal handlers, herbalists, and healers throughout the region.
 
 ## Plot Hooks
 

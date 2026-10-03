@@ -482,25 +482,33 @@ Under the calm exterior runs a current of deep frustration—frustration with th
 
 ### Patrons
 
-- **Sage Glykeriásh Eulalazûr**: An elderly herbalist and natural philosopher who recognized the value in Ángelides' approach when the Guild condemned him. She has remained his steadiest advocate and closest confidante, providing both material support and the intellectual partnership that sustains his morale.
+Sage Glykeriásh Eulalazûr
+: An elderly herbalist and natural philosopher who recognized the value in Ángelides' approach when the Guild condemned him. She has remained his steadiest advocate and closest confidante, providing both material support and the intellectual partnership that sustains his morale.
 
-- **The Village Elder Thom**: A weathered rural leader who employs Ángelides regularly to treat the injuries and illnesses of his village community. Thom fiercely defends Ángelides against official condemnation, having witnessed his effectiveness repeatedly.
+The Village Elder Thom
+: A weathered rural leader who employs Ángelides regularly to treat the injuries and illnesses of his village community. Thom fiercely defends Ángelides against official condemnation, having witnessed his effectiveness repeatedly.
 
-- **Scholar Lycius of the Archives**: A librarian within the Panepistemium who secretly believes that Ángelides' approach may represent a true step forward in magical practice. Lycius provides him access to restricted texts and information about Guild politics.
+Scholar Lycius of the Archives
+: A librarian within the Panepistemium who secretly believes that Ángelides' approach may represent a true step forward in magical practice. Lycius provides him access to restricted texts and information about Guild politics.
 
 ### Enemies
 
-- **Magister Ptolemaus of the Hydälis Sodalitas**: His former teacher remains Ángelides' most bitter opponent, viewing his break with orthodoxy as a personal betrayal and a corruption of magical tradition. Ptolemaus holds significant influence within the Epistemium's chapterhouse and has repeatedly argued to the council that Ángelides should be formally expelled and reported to the Ordo Arcanis for practicing uncontrolled, unregistered sorcery. Their enmity, once a matter of doctrine, is now deeply personal—Ptolemaus sees in Ángelides a living refutation of everything he believes about the necessity of formal discipline, and Ángelides sees in Ptolemaus the rigidity of the orders that he fled.
+Magister Ptolemaus of the Hydälis Sodalitas
+: His former teacher remains Ángelides' most bitter opponent, viewing his break with orthodoxy as a personal betrayal and a corruption of magical tradition. Ptolemaus holds significant influence within the Epistemium's chapterhouse and has repeatedly argued to the council that Ángelides should be formally expelled and reported to the Ordo Arcanis for practicing uncontrolled, unregistered sorcery. Their enmity, once a matter of doctrine, is now deeply personal—Ptolemaus sees in Ángelides a living refutation of everything he believes about the necessity of formal discipline, and Ángelides sees in Ptolemaus the rigidity of the orders that he fled.
 
-- **The Quaesitorium Arcanum**: The Ordo Arcanis's investigation and enforcement arm has begun to take notice of Ángelides' reputation. An aggressive **Quaesitor Magister Sokrates** has filed an official inquiry into whether Ángelides constitutes an unlicensed magical practitioner in violation of the Ordo's monopoly. While the Ordo's enforcement in the provincial towns of the Byzarian League is laxer than in the Vylarian heartland, an escalation of pressure from the Quaesitorium could force Ángelides to flee or face serious consequences—possibly even trial before the Order's magistrates on charges of illegal sorcery.
+The Quaesitorium Arcanum
+: The Ordo Arcanis's investigation and enforcement arm has begun to take notice of Ángelides' reputation. An aggressive **Quaesitor Magister Sokrates** has filed an official inquiry into whether Ángelides constitutes an unlicensed magical practitioner in violation of the Ordo's monopoly. While the Ordo's enforcement in the provincial towns of the Byzarian League is laxer than in the Vylarian heartland, an escalation of pressure from the Quaesitorium could force Ángelides to flee or face serious consequences—possibly even trial before the Order's magistrates on charges of illegal sorcery.
 
-- **Rival Healer Kalista of [[place-yesilhan2|Yeşilhan]]**: A self-taught mage from the caravan city who was briefly Ángelides' apprentice before their relationship turned bitter over philosophical differences. Kalista believes that Ángelides' intuitive approach is dangerously unreliable and has begun spreading rumors throughout the region that his work is fraudulent—that his supposed healings are merely cases of natural recovery that he takes undue credit for, or worse, cases where his uncontrolled magic has caused harm he refuses to acknowledge. Kalista's accusations are particularly dangerous because she has connections to the Epistemium's chapterhouse and has hinted at bringing her evidence before the Quaesitorium.
+Rival Healer Kalista of [[place-yesilhan2|Yeşilhan]]
+: A self-taught mage from the caravan city who was briefly Ángelides' apprentice before their relationship turned bitter over philosophical differences. Kalista believes that Ángelides' intuitive approach is dangerously unreliable and has begun spreading rumors throughout the region that his work is fraudulent—that his supposed healings are merely cases of natural recovery that he takes undue credit for, or worse, cases where his uncontrolled magic has caused harm he refuses to acknowledge. Kalista's accusations are particularly dangerous because she has connections to the Epistemium's chapterhouse and has hinted at bringing her evidence before the Quaesitorium.
 
 ### Affiliations
 
-- **Panepistemium Chapterhouse (Byzarian League)**: Nominal membership, though increasingly contentious and conditional on his continued discretion. His status within the organization is precarious and likely to collapse if Magister Ptolemaus or Quaesitor Sokrates gain the upper hand within the local council, or if his work becomes widely known outside remote villages.
+Panepistemium Chapterhouse (Byzarian League)
+: Nominal membership, though increasingly contentious and conditional on his continued discretion. His status within the organization is precarious and likely to collapse if Magister Ptolemaus or Quaesitor Sokrates gain the upper hand within the local council, or if his work becomes widely known outside remote villages.
 
-- **The Informal Network of Folk Healers and Independent Practitioners**: Though not formally organized, Ángelides maintains correspondence and occasional meetings with other non-traditional magic workers throughout the Byzarian League and neighboring regions—herbalists, folk healers, and hedge witches who operate outside official structures. These connections provide both practical knowledge-sharing and mutual protection against official pressure. However, this network is fragile, scattered, and increasingly viewed with suspicion by both the Epistemium and the Ordo.
+The Informal Network of Folk Healers and Independent Practitioners
+: Though not formally organized, Ángelides maintains correspondence and occasional meetings with other non-traditional magic workers throughout the Byzarian League and neighboring regions—herbalists, folk healers, and hedge witches who operate outside official structures. These connections provide both practical knowledge-sharing and mutual protection against official pressure. However, this network is fragile, scattered, and increasingly viewed with suspicion by both the Epistemium and the Ordo.
 
 ## Plot Hooks
 

@@ -490,18 +490,27 @@ Kiroba is cautious of outsiders and does not trust easily, particularly those fr
 
 ### Patrons
 
-- **Elder Shaman Ishuara**: Kiroba’s mentor and spiritual guide, Ishuara remains in the Shókuma village, offering guidance through rituals and dreams. She warns him of dangers ahead and occasionally provides spiritual aid in the form of protective charms.
-- **Chief Mandari**: The chief of Kiroba’s tribe, Mandari, sees great potential in Kiroba and has tasked him with protecting the tribe. He funds Kiroba’s expedition and uses his political connections to provide safe passage through certain hostile territories.
+Elder Shaman Ishuara
+: Kiroba’s mentor and spiritual guide, Ishuara remains in the Shókuma village, offering guidance through rituals and dreams. She warns him of dangers ahead and occasionally provides spiritual aid in the form of protective charms.
+
+Chief Mandari
+: The chief of Kiroba’s tribe, Mandari, sees great potential in Kiroba and has tasked him with protecting the tribe. He funds Kiroba’s expedition and uses his political connections to provide safe passage through certain hostile territories.
 
 ### Enemies
 
-- [[affiliation-zabaukhelath|Zab elu Aû'Khelâthu]]: A wealthy Aû'Khelâthu family seeks to gain control over the spirits of the jungle for political advantage. They’ve sent assassins and sorcerers to track Kiroba, hoping to capture or kill him before he can complete his quest.
-- **The Jinmuaji Pack Leader**: Deep within the Yánda Maláika mountains, Kiroba will face the Pack Leader of the jinmuaji, a monstrous land-crocodile that has terrorized the local tribes. The beast is tied to the spiritual imbalance and must be confronted to restore balance.
+[[affiliation-zabaukhelath|Zab elu Aû'Khelâthu]]
+: A wealthy Aû'Khelâthu family seeks to gain control over the spirits of the jungle for political advantage. They’ve sent assassins and sorcerers to track Kiroba, hoping to capture or kill him before he can complete his quest.
+
+The Jinmuaji Pack Leader
+: Deep within the Yánda Maláika mountains, Kiroba will face the Pack Leader of the jinmuaji, a monstrous land-crocodile that has terrorized the local tribes. The beast is tied to the spiritual imbalance and must be confronted to restore balance.
 
 ### Affiliations
 
-- [[being-eshewamagr|Eshe wa Magara]]: When her village began suffering from the same spiritual imbalance plaguing the Shókuma lands, she decided to join Kiroba, believing their fates are tied in restoring balance.
-- [[being-izaretgulzkr|Izaret Gul'Zekeru]]: After uncovering secret experiments to disrupt the spiritual balance, Izaret fled Aû'Khelâthu and sought out Kiroba, hoping that together they could restore the balance.
+[[being-eshewamagr|Eshe wa Magara]]
+: When her village began suffering from the same spiritual imbalance plaguing the Shókuma lands, she decided to join Kiroba, believing their fates are tied in restoring balance.
+
+[[being-izaretgulzkr|Izaret Gul'Zekeru]]
+: After uncovering secret experiments to disrupt the spiritual balance, Izaret fled Aû'Khelâthu and sought out Kiroba, hoping that together they could restore the balance.
 
 ## Plot Hooks
 

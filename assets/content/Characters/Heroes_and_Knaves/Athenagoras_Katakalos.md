@@ -471,20 +471,33 @@ Deep down, Athênagoras fears civilian life and what it might require of him—t
 
 ### Patrons
 
-- **Lord Commander Vasilis of the Eastern March**: The military commander who has overseen Athênagoras's service for the past decade. Vasilis respects Athênagoras's judgment and frequently seeks his counsel on tactical matters.
-- **Lady Merchant Elestra Panos**: A wealthy merchant widow who provides supplies to the garrison and has developed a private relationship with Athênagoras. She offers both material support and emotional companionship.
-- **The Monastery of Saint Florantine**: A religious order that provides counsel and spiritual support to soldiers scarred by war. Athênagoras attends irregularly but finds their refusal to judge helpful.
+Lord Commander Vasilis of the Eastern March
+: The military commander who has overseen Athênagoras's service for the past decade. Vasilis respects Athênagoras's judgment and frequently seeks his counsel on tactical matters.
+
+Lady Merchant Elestra Panos
+: A wealthy merchant widow who provides supplies to the garrison and has developed a private relationship with Athênagoras. She offers both material support and emotional companionship.
+
+The Monastery of Saint Florantine
+: A religious order that provides counsel and spiritual support to soldiers scarred by war. Athênagoras attends irregularly but finds their refusal to judge helpful.
 
 ### Enemies
 
-- **Captain Markos of the Rival Legion**: A competitor from a neighboring military unit whose unit was chosen for a prestigious campaign over Athênagoras's. Markos harbors deep resentment and seeks opportunities to undermine Athênagoras's reputation.
-- **The Bandit Lord Thessarios**: A criminal leader whose network Athênagoras's unit destroyed several years ago. Thessarios survived and harbors lethal grudges against Athênagoras personally.
+Captain Markos of the Rival Legion
+: A competitor from a neighboring military unit whose unit was chosen for a prestigious campaign over Athênagoras's. Markos harbors deep resentment and seeks opportunities to undermine Athênagoras's reputation.
+
+The Bandit Lord Thessarios
+: A criminal leader whose network Athênagoras's unit destroyed several years ago. Thessarios survived and harbors lethal grudges against Athênagoras personally.
 
 ### Affiliations
 
-- **The Byzarian League Military**: Serving as a commissioned captain in the League's Eastern March garrison.
-- **The Order of Flórania (Fertility Aspect)**: A nominal adherent who maintains the faith of his childhood, though his military service has complicated his relationship with the goddess of growth and creation.
-- **The Veterans' Society**: An informal association of long-service soldiers who support each other through the transitions away from active military life.
+The Byzarian League Military
+: Serving as a commissioned captain in the League's Eastern March garrison.
+
+The Order of Flórania (Fertility Aspect)
+: A nominal adherent who maintains the faith of his childhood, though his military service has complicated his relationship with the goddess of growth and creation.
+
+The Veterans' Society
+: An informal association of long-service soldiers who support each other through the transitions away from active military life.
 
 ## Plot Hooks
 

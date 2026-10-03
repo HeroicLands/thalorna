@@ -479,25 +479,33 @@ Thefnutî's primary motivation is the creation of mechanical perfection—toys t
 
 ### Patrons
 
-- Lady [[being-uznerashkag2|Uzner Ashkagar]]: An elderly widow of great wealth and refined taste who has become Thefnutî's primary patron over the past decade. She commissions elaborate mechanical sculptures for her private collection and appreciates his perfectionism as an expression of respect for craft itself.
+Lady [[being-uznerashkag2|Uzner Ashkagar]]
+: An elderly widow of great wealth and refined taste who has become Thefnutî's primary patron over the past decade. She commissions elaborate mechanical sculptures for her private collection and appreciates his perfectionism as an expression of respect for craft itself.
 
-- Scholar-Collector [[being-kheladenthlt|Khelâden Itha'Letu]]: A historian and antiquarian who employs Thefnutî to create accurate mechanical reproductions of ancient devices based on historical records and archaeological findings. Their collaboration has produced some of Thefnutî's most celebrated works.
+Scholar-Collector [[being-kheladenthlt|Khelâden Itha'Letu]]
+: A historian and antiquarian who employs Thefnutî to create accurate mechanical reproductions of ancient devices based on historical records and archaeological findings. Their collaboration has produced some of Thefnutî's most celebrated works.
 
-- **the Imperial Treasury**: Thefnutî has several standing commissions from the imperial court to create elaborate gifts for diplomatic purposes and state ceremonies. These are highly visible works that enhance his reputation significantly.
+the Imperial Treasury
+: Thefnutî has several standing commissions from the imperial court to create elaborate gifts for diplomatic purposes and state ceremonies. These are highly visible works that enhance his reputation significantly.
 
-- **Merchant Prince Zassor the Learned**: A collector of mechanical curiosities who maintains a private museum and commissions elaborate pieces specifically for display. Zassor pays handsomely and allows Thefnutî complete creative freedom, though he can be demanding about timelines.
+Merchant Prince Zassor the Learned
+: A collector of mechanical curiosities who maintains a private museum and commissions elaborate pieces specifically for display. Zassor pays handsomely and allows Thefnutî complete creative freedom, though he can be demanding about timelines.
 
 ### Enemies
 
-- **Toymaker Mavrik the Innovator**: A successful younger toymaker who has built wealth by turning out toys in bulk with newer materials that Thefnutî views as inferior. Mavrik has directly challenged Thefnutî's supremacy by advertising his toys as "superior because they are affordable" and has actively poached several of Thefnutî's potential clients. Mavrik sees Thefnutî as an arrogant relic and publicly questions whether his work is worth the extraordinary cost.
+Toymaker Mavrik the Innovator
+: A successful younger toymaker who has built wealth by turning out toys in bulk with newer materials that Thefnutî views as inferior. Mavrik has directly challenged Thefnutî's supremacy by advertising his toys as "superior because they are affordable" and has actively poached several of Thefnutî's potential clients. Mavrik sees Thefnutî as an arrogant relic and publicly questions whether his work is worth the extraordinary cost.
 
-- [[being-rethekuthght|Retheku Iuthi'Gehtiu]]: A bureaucrat who has begun examining Thefnutî's finances closely, questioning how commissions that should be financially ruinous result in Thefnutî's continued wealth. Retheku suspects hidden income or tax evasion and has become increasingly adversarial in his investigations.
+[[being-rethekuthght|Retheku Iuthi'Gehtiu]]
+: A bureaucrat who has begun examining Thefnutî's finances closely, questioning how commissions that should be financially ruinous result in Thefnutî's continued wealth. Retheku suspects hidden income or tax evasion and has become increasingly adversarial in his investigations.
 
 ### Affiliations
 
-- **the Toymakers' Guild of Aû'Khelâthu**: Thefnutî holds membership and retains significant prestige within the guild, though he frequently clashes with guild leadership over standards and methods. He serves on the guild's standards committee, where he advocates for stricter quality requirements.
+the Toymakers' Guild of Aû'Khelâthu
+: Thefnutî holds membership and retains significant prestige within the guild, though he frequently clashes with guild leadership over standards and methods. He serves on the guild's standards committee, where he advocates for stricter quality requirements.
 
-- [[affiliation-garletgerau|the Gar-Let'Gerau]]: An informal family legacy and tradition spanning seven generations, of which Thefnutî is the current master. He has become increasingly protective of family techniques and secretive about his methods.
+[[affiliation-garletgerau|the Gar-Let'Gerau]]
+: An informal family legacy and tradition spanning seven generations, of which Thefnutî is the current master. He has become increasingly protective of family techniques and secretive about his methods.
 
 ## Plot Hooks
 

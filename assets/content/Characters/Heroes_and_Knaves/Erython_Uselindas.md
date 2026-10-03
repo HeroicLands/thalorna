@@ -458,21 +458,36 @@ For a decade, Érython has served in this capacity—maintaining peace, hunting 
 
 ### Patrons
 
-- **Lord Keldarion**: The aging nobleman who employs Érython values him not merely as a skilled guard but as a trusted counselor; their relationship has deepened over the decade of service into something approaching genuine friendship.
-- **High Priestess Liríndâ of the Verdant Sanctum**: The spiritual leader who marked Érython with the serpent tattoo maintains contact with him, offering guidance and occasionally requesting that he undertake special missions.
-- **Master Fletcher Aldunor**: The finest bowyer and fletcher in the region has become something of a mentor and friend, constantly pushing Érython to refine his technique.
+Lord Keldarion
+: The aging nobleman who employs Érython values him not merely as a skilled guard but as a trusted counselor; their relationship has deepened over the decade of service into something approaching genuine friendship.
+
+High Priestess Liríndâ of the Verdant Sanctum
+: The spiritual leader who marked Érython with the serpent tattoo maintains contact with him, offering guidance and occasionally requesting that he undertake special missions.
+
+Master Fletcher Aldunor
+: The finest bowyer and fletcher in the region has become something of a mentor and friend, constantly pushing Érython to refine his technique.
 
 ### Enemies
 
-- **Vraknar the Poacher**: A dangerous criminal operating in the borderlands who poaches sacred game and sells protected animals; Érython has pursued him repeatedly and views him as a direct affront to both law and faith.
-- **Thaleris Swiftshot**: A rival archer from a neighboring kingdom who publicly challenged Érython's reputation three years ago; though Érython defeated him in a formal competition, Thaleris harbors bitter resentment and spreads rumors about luck and fairness.
-- **The Crimson Cult**: A faction of heretics who have targeted the Verdant Sanctum and its priests; Érython's connection to High Priestess Liríndâ has made him a target for their agents.
+Vraknar the Poacher
+: A dangerous criminal operating in the borderlands who poaches sacred game and sells protected animals; Érython has pursued him repeatedly and views him as a direct affront to both law and faith.
+
+Thaleris Swiftshot
+: A rival archer from a neighboring kingdom who publicly challenged Érython's reputation three years ago; though Érython defeated him in a formal competition, Thaleris harbors bitter resentment and spreads rumors about luck and fairness.
+
+The Crimson Cult
+: A faction of heretics who have targeted the Verdant Sanctum and its priests; Érython's connection to High Priestess Liríndâ has made him a target for their agents.
 
 ### Affiliations
 
-- **The Holy Militia of Nartum**: Érython maintains an active rank and deep involvement with the kingdom's primary military organization.
-- **The Archers' Circle of Nartum**: A prestigious guild and social organization for skilled bowmen throughout the kingdom.
-- **The Devotees of Flórania**: Though not a formal organization, Érython maintains a strong spiritual commitment to the faith and participates in seasonal rituals and celebrations.
+The Holy Militia of Nartum
+: Érython maintains an active rank and deep involvement with the kingdom's primary military organization.
+
+The Archers' Circle of Nartum
+: A prestigious guild and social organization for skilled bowmen throughout the kingdom.
+
+The Devotees of Flórania
+: Though not a formal organization, Érython maintains a strong spiritual commitment to the faith and participates in seasonal rituals and celebrations.
 
 ## Plot Hooks
 

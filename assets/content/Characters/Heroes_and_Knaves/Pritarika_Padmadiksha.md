@@ -482,33 +482,45 @@ Privately, she also seeks to honor the memory of her late husband by seeing that
 
 ### Patrons
 
-- **The Scholarly Circle of Vedyara**: A network of educated women from various noble houses who share Pritàrika's reforming vision. They exchange knowledge, provide mutual support, and work toward gradual transformation of Vedyaran society. Led formally by the aging matriarch Lord Shashvati, the circle functions as both salon and secret society.
+The Scholarly Circle of Vedyara
+: A network of educated women from various noble houses who share Pritàrika's reforming vision. They exchange knowledge, provide mutual support, and work toward gradual transformation of Vedyaran society. Led formally by the aging matriarch Lord Shashvati, the circle functions as both salon and secret society.
 
-- **The Merchant Guilds of Three Cities**: Prosperous merchant families appreciate Pritàrika's liberal trade policies and protection of commerce. They provide financial support and political backing, viewing her as good for business stability.
+The Merchant Guilds of Three Cities
+: Prosperous merchant families appreciate Pritàrika's liberal trade policies and protection of commerce. They provide financial support and political backing, viewing her as good for business stability.
 
-- **Aráti the Wise**: A famed holy woman of indeterminate age who dwells in a mountaintop hermitage. Pritàrika visits her for counsel on matters of conscience and receives guidance that is cryptic but often proves wise. Few know of this relationship.
+Aráti the Wise
+: A famed holy woman of indeterminate age who dwells in a mountaintop hermitage. Pritàrika visits her for counsel on matters of conscience and receives guidance that is cryptic but often proves wise. Few know of this relationship.
 
-- **The Common People of Her Estates**: While not formally organized, the population broadly supports Pritàrika's rule due to the visible improvements in their lives. This widespread loyalty is her greatest political asset.
+The Common People of Her Estates
+: While not formally organized, the population broadly supports Pritàrika's rule due to the visible improvements in their lives. This widespread loyalty is her greatest political asset.
 
 ### Enemies
 
-- **Lord Mantra Deshpande**: The leader of the traditionalist faction within the nobility. He views Pritàrika's reforms as a mortal threat to the noble order and has made it his mission to discredit her, expose weaknesses in her administration, and ultimately force her removal or replacement with a more conservative leader.
+Lord Mantra Deshpande
+: The leader of the traditionalist faction within the nobility. He views Pritàrika's reforms as a mortal threat to the noble order and has made it his mission to discredit her, expose weaknesses in her administration, and ultimately force her removal or replacement with a more conservative leader.
 
-- **The Orthodox Temple Authority**: Certain powerful religious figures view Pritàrika's support for lower-class education and her questioning of traditional gender roles as heretical. They preach against her from their pulpits and have excommunicated followers who support her reforms.
+The Orthodox Temple Authority
+: Certain powerful religious figures view Pritàrika's support for lower-class education and her questioning of traditional gender roles as heretical. They preach against her from their pulpits and have excommunicated followers who support her reforms.
 
-- **Unknown Assassins**: Someone has made at least three attempts on Pritàrika's life over the past seven years—attempts that appeared accidental or coincidental but revealed patterns to her suspicious mind. She does not know whether these attacks originate from Deshpande, foreign powers, or someone with personal motivation.
+Unknown Assassins
+: Someone has made at least three attempts on Pritàrika's life over the past seven years—attempts that appeared accidental or coincidental but revealed patterns to her suspicious mind. She does not know whether these attacks originate from Deshpande, foreign powers, or someone with personal motivation.
 
-- **Kalindi Padmadîksha**: Pritàrika's younger brother, who was bypassed in the succession due to his youth and perceived lack of aptitude. He has grown bitter, viewing Pritàrika's success as theft of his birthright. While not directly opposing her, his resentment simmers and may become dangerous.
+Kalindi Padmadîksha
+: Pritàrika's younger brother, who was bypassed in the succession due to his youth and perceived lack of aptitude. He has grown bitter, viewing Pritàrika's success as theft of his birthright. While not directly opposing her, his resentment simmers and may become dangerous.
 
 ### Affiliations
 
-- **The Grand Council of Nobility of Vedyara**: Pritàrika holds a prominent seat and uses this platform to advocate for her vision of reformed governance.
+The Grand Council of Nobility of Vedyara
+: Pritàrika holds a prominent seat and uses this platform to advocate for her vision of reformed governance.
 
-- **The Padmadîksha House and its Territories**: Her primary loyalty and greatest responsibility, encompassing two estates and several satellite holdings.
+The Padmadîksha House and its Territories
+: Her primary loyalty and greatest responsibility, encompassing two estates and several satellite holdings.
 
-- **The Order of Mahájaya**: She is a devotee of this peaceful deity aspect and uses her religious affiliation to justify her reformist philosophy.
+The Order of Mahájaya
+: She is a devotee of this peaceful deity aspect and uses her religious affiliation to justify her reformist philosophy.
 
-- **The Learned Society of Vedyara**: An organization dedicated to preserving and advancing knowledge. Pritàrika is a generous patron and active member.
+The Learned Society of Vedyara
+: An organization dedicated to preserving and advancing knowledge. Pritàrika is a generous patron and active member.
 
 ## Plot Hooks
 

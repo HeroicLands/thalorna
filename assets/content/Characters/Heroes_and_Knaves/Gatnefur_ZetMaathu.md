@@ -481,25 +481,33 @@ Gatnefur is driven by a belief that he has not yet created his masterpiece—the
 
 ### Patrons
 
-- Lord [[being-qeltiemhequ2|Qelti Emhequ]]: A wealthy merchant lord with an obsession with rare fragrances. He has become Gatnefur's greatest patron and champion, commissioning custom fragrances and defending him against accusations from traditionalist guild members. There are rumors that their relationship is more intimate than mere patron and artisan.
+Lord [[being-qeltiemhequ2|Qelti Emhequ]]
+: A wealthy merchant lord with an obsession with rare fragrances. He has become Gatnefur's greatest patron and champion, commissioning custom fragrances and defending him against accusations from traditionalist guild members. There are rumors that their relationship is more intimate than mere patron and artisan.
 
-- **High Priestess Legirtari of the Temple of Hathor**: A spiritual leader who commissioned from Gatnefur a special fragrance intended to heighten participants' awareness during sacred rituals. She values his work and offers him access to rare and sacred ingredients.
+High Priestess Legirtari of the Temple of Hathor
+: A spiritual leader who commissioned from Gatnefur a special fragrance intended to heighten participants' awareness during sacred rituals. She values his work and offers him access to rare and sacred ingredients.
 
-- **The Royal Perfumer of the Gar-Aû's Court**: Though not a patron in the traditional sense, this court official has taken interest in Gatnefur's new fragrances and occasionally brings requests from the highest levels of society.
+The Royal Perfumer of the Gar-Aû's Court
+: Though not a patron in the traditional sense, this court official has taken interest in Gatnefur's new fragrances and occasionally brings requests from the highest levels of society.
 
 ### Enemies
 
-- **Master Lekhûr (Scarred Perfumer)**: Though he supposedly died from his wounds, whispers persist that Lekhûr survived and has been plotting his revenge from the shadows. Rumor has him acquiring rare poisons with which to compromise Gatnefur's formulations.
+Master Lekhûr (Scarred Perfumer)
+: Though he supposedly died from his wounds, whispers persist that Lekhûr survived and has been plotting his revenge from the shadows. Rumor has him acquiring rare poisons with which to compromise Gatnefur's formulations.
 
-- [[affiliation-linqethar|Lin'Qethar]]: A loose alliance of older perfumers and guild conservatives who view Gatnefur as a threat to the established order and the sanctity of their craft. They have been known to attempt to restrict his access to rare ingredients and materials.
+[[affiliation-linqethar|Lin'Qethar]]
+: A loose alliance of older perfumers and guild conservatives who view Gatnefur as a threat to the established order and the sanctity of their craft. They have been known to attempt to restrict his access to rare ingredients and materials.
 
-- **Shelti the Alchemist**: A mysterious figure dealing in rare ingredients who claims that Gatnefur owes him a significant debt for materials supplied years ago. He periodically appears demanding payment or threatening to reveal compromising secrets about Gatnefur's early experiments.
+Shelti the Alchemist
+: A mysterious figure dealing in rare ingredients who claims that Gatnefur owes him a significant debt for materials supplied years ago. He periodically appears demanding payment or threatening to reveal compromising secrets about Gatnefur's early experiments.
 
 ### Affiliations
 
-- [[affiliation-linzemnkhlth|Lin'Zemnu elu Aû'Khelâthu]]: Though technically a member in good standing, his relationship with the Guild is contentious. They benefit from his prestige but disapprove of his methods.
+[[affiliation-linzemnkhlth|Lin'Zemnu elu Aû'Khelâthu]]
+: Though technically a member in good standing, his relationship with the Guild is contentious. They benefit from his prestige but disapprove of his methods.
 
-- [[affiliation-linrethrthsr|The Lin'Rethu elu Reth'Sa'âr]]: A loose network of researchers and academics with whom Gatnefur exchanges information about rare substances and ancient texts.
+[[affiliation-linrethrthsr|The Lin'Rethu elu Reth'Sa'âr]]
+: A loose network of researchers and academics with whom Gatnefur exchanges information about rare substances and ancient texts.
 
 ## Plot Hooks
 

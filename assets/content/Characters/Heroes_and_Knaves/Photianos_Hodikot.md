@@ -467,29 +467,39 @@ Phótianos's deepest motivation is to create and maintain a sanctuary—a refuge
 
 ### Patrons
 
-- **The City Magistrate, Lord Theodóros**: An aging administrator who conducts much of his actual governance from a corner table in the Starlight Crown's common room. Phótianos provides him with information, advice, and the illusion of privacy while subtly influencing policy through carefully timed conversations.
+The City Magistrate, Lord Theodóros
+: An aging administrator who conducts much of his actual governance from a corner table in the Starlight Crown's common room. Phótianos provides him with information, advice, and the illusion of privacy while subtly influencing policy through carefully timed conversations.
 
-- **Captain Nikolaüs of the Harbor Guard**: A gruff military officer who has relied on Phótianos for word of smuggling and crime in the port. Phótianos freely trades information in exchange for protection and official favor.
+Captain Nikolaüs of the Harbor Guard
+: A gruff military officer who has relied on Phótianos for word of smuggling and crime in the port. Phótianos freely trades information in exchange for protection and official favor.
 
-- **The Merchant House of Kallistos**: A wealthy trading family that considers the Starlight Crown their second home and pays high rates for exclusive use of the private dining hall. Phótianos is their informal advisor in matters of society.
+The Merchant House of Kallistos
+: A wealthy trading family that considers the Starlight Crown their second home and pays high rates for exclusive use of the private dining hall. Phótianos is their informal advisor in matters of society.
 
-- **Traveling Scholars and Healers**: An informal network of educated wanderers who view the inn as both sanctuary and information exchange. Phótianos subsidizes rooms for impoverished scholars in exchange for access to their knowledge.
+Traveling Scholars and Healers
+: An informal network of educated wanderers who view the inn as both sanctuary and information exchange. Phótianos subsidizes rooms for impoverished scholars in exchange for access to their knowledge.
 
 ### Enemies
 
-- **Kharon the Fist**: A new criminal lord from the southern territories who has been attempting to establish an extortion racket in the district. Phótianos refused to pay protection money and has become the target of increasingly hostile "suggestions." Kharon views the innkeeper as an obstacle to establishing his power.
+Kharon the Fist
+: A new criminal lord from the southern territories who has been attempting to establish an extortion racket in the district. Phótianos refused to pay protection money and has become the target of increasingly hostile "suggestions." Kharon views the innkeeper as an obstacle to establishing his power.
 
-- **Demetría Sulfúra**: A merchant woman of rival house who has accused Phótianos of spreading false rumors about her trading practices, damaging her reputation and business. The two families maintain cold antagonism, though the rift may not be irreparable.
+Demetría Sulfúra
+: A merchant woman of rival house who has accused Phótianos of spreading false rumors about her trading practices, damaging her reputation and business. The two families maintain cold antagonism, though the rift may not be irreparable.
 
-- **The Orthodox Temple of Jánus**: Certain temple authorities believe Phótianos's inn has become "too permissive" regarding who is served and what discussions are tolerated. They have sermonized against the inn and encouraged the faithful to boycott it, viewing him as spiritually corrupted by worldliness.
+The Orthodox Temple of Jánus
+: Certain temple authorities believe Phótianos's inn has become "too permissive" regarding who is served and what discussions are tolerated. They have sermonized against the inn and encouraged the faithful to boycott it, viewing him as spiritually corrupted by worldliness.
 
 ### Affiliations
 
-- **The Innkeepers' Association of the Byzarian League**: Phótianos holds high standing, though he is often at philosophical odds with younger members regarding the running of an inn and the new fashions.
+The Innkeepers' Association of the Byzarian League
+: Phótianos holds high standing, though he is often at philosophical odds with younger members regarding the running of an inn and the new fashions.
 
-- **The Order of Hospitality**: An ancient, somewhat informal organization dedicated to preserving the traditions of sacred hospitality. Phótianos is a sworn keeper of its traditions.
+The Order of Hospitality
+: An ancient, somewhat informal organization dedicated to preserving the traditions of sacred hospitality. Phótianos is a sworn keeper of its traditions.
 
-- **The Starlight Crown**: His life's work and legacy, the inn functions as much as a symbol as a business.
+The Starlight Crown
+: His life's work and legacy, the inn functions as much as a symbol as a business.
 
 ## Plot Hooks
 

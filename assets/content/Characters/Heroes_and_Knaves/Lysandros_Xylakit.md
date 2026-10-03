@@ -469,19 +469,30 @@ Lysándros seeks to prove that there is a way to live in the world without compr
 
 ### Patrons
 
-- **Master Castellan Atashíkon**: The governor of the northern territories values Lysándros's timber for both fortification work and shipbuilding, and tacitly protects him from guild persecution in exchange for preferential contracts.
-- **Lady Serena of House Thálassos**: A wealthy widow who has commissioned Lysándros to restore and rebuild her ancestral estate using only timber that meets his exacting standards, earning his respect through her patience and refusal to rush his work.
+Master Castellan Atashíkon
+: The governor of the northern territories values Lysándros's timber for both fortification work and shipbuilding, and tacitly protects him from guild persecution in exchange for preferential contracts.
+
+Lady Serena of House Thálassos
+: A wealthy widow who has commissioned Lysándros to restore and rebuild her ancestral estate using only timber that meets his exacting standards, earning his respect through her patience and refusal to rush his work.
 
 ### Enemies
 
-- **The Xylákit Family Enterprise**: His own blood relatives, now wealthy guild magnates, view him as both a moral rebuke and an economic competitor whose existence challenges their monopoly on timber contracts.
-- **Guild Master Sozomáhr the Ruthless**: The current head of the Timberwrights' Guild marked Lysándros for subtle destruction long ago; his independent success is an open wound to guild authority and profit.
+The Xylákit Family Enterprise
+: His own blood relatives, now wealthy guild magnates, view him as both a moral rebuke and an economic competitor whose existence challenges their monopoly on timber contracts.
+
+Guild Master Sozomáhr the Ruthless
+: The current head of the Timberwrights' Guild marked Lysándros for subtle destruction long ago; his independent success is an open wound to guild authority and profit.
 
 ### Affiliations
 
-- **The Timberwrights' Guild** (estranged member): Though technically still registered, he operates independently and refuses all guild obligations and contracts.
-- **The Order of the Green Sentinel**: An informal network of environmentally-minded craftspeople and forest wardens who share his philosophy of sustainable harvesting.
-- **The Independent Craftspeople's League**: A loose alliance of artisans who have separated from guild control to maintain quality and principle.
+The Timberwrights' Guild
+: (estranged member): Though technically still registered, he operates independently and refuses all guild obligations and contracts.
+
+The Order of the Green Sentinel
+: An informal network of environmentally-minded craftspeople and forest wardens who share his philosophy of sustainable harvesting.
+
+The Independent Craftspeople's League
+: A loose alliance of artisans who have separated from guild control to maintain quality and principle.
 
 ## Plot Hooks
 

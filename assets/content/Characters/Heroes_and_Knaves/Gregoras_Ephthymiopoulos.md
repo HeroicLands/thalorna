@@ -474,20 +474,33 @@ Grégoras is primarily motivated by the pursuit of maritime perfection—the cre
 
 ### Patrons
 
-- **Admiral Pantelázûr of the Byzarian Fleet**: The supreme naval commander of the [[affiliation-byzarianlg|Byzarian League]] maintains a permanent contract with Grégoras for advanced warship design and construction. Pantelázûr shields Grégoras from bureaucratic interference and sees that his projects get first call on materials.
-- **House Merkarios**: A wealthy merchant dynasty that has commissioned multiple high-speed merchant vessels and naval support ships. Their patriarch, Lord Justinian Merkarios, personally negotiates with Grégoras and values his counsel on maritime matters.
-- **Guild Master Petrolas**: The current head of the Maritime Shipwrights' Guild, Petrolas acts as a political buffer between Grégoras and various governmental bureaucracies, smoothing over conflicts caused by the shipwright's abrasive manner.
+Admiral Pantelázûr of the Byzarian Fleet
+: The supreme naval commander of the [[affiliation-byzarianlg|Byzarian League]] maintains a permanent contract with Grégoras for advanced warship design and construction. Pantelázûr shields Grégoras from bureaucratic interference and sees that his projects get first call on materials.
+
+House Merkarios
+: A wealthy merchant dynasty that has commissioned multiple high-speed merchant vessels and naval support ships. Their patriarch, Lord Justinian Merkarios, personally negotiates with Grégoras and values his counsel on maritime matters.
+
+Guild Master Petrolas
+: The current head of the Maritime Shipwrights' Guild, Petrolas acts as a political buffer between Grégoras and various governmental bureaucracies, smoothing over conflicts caused by the shipwright's abrasive manner.
 
 ### Enemies
 
-- **The Byzarian Naval Bureaucracy**: Mid-level administrators and functionaries who view Grégoras's refusal to follow standard procedures and his contempt for political process as intolerable insubordination. Several have attempted to block his projects or audit his finances in retaliation for perceived slights.
-- **Competitor Shipwright Abrázion**: A rival master shipwright whose designs put cheapness before quality, Abrázion has begun undercutting Grégoras on price and spreading rumors that the aging master is losing his edge. This rivalry has become increasingly bitter as Abrázion actually begins winning some contracts.
-- **The Harbor Master's Office**: Grégoras's refusal to grease the proper palms and his contempt for the harbor authority's regulations have resulted in repeated fines, permit delays, and bureaucratic harassment designed to make his work more difficult.
+The Byzarian Naval Bureaucracy
+: Mid-level administrators and functionaries who view Grégoras's refusal to follow standard procedures and his contempt for political process as intolerable insubordination. Several have attempted to block his projects or audit his finances in retaliation for perceived slights.
+
+Competitor Shipwright Abrázion
+: A rival master shipwright whose designs put cheapness before quality, Abrázion has begun undercutting Grégoras on price and spreading rumors that the aging master is losing his edge. This rivalry has become increasingly bitter as Abrázion actually begins winning some contracts.
+
+The Harbor Master's Office
+: Grégoras's refusal to grease the proper palms and his contempt for the harbor authority's regulations have resulted in repeated fines, permit delays, and bureaucratic harassment designed to make his work more difficult.
 
 ### Affiliations
 
-- **Maritime Shipwrights' Guild**: Grégoras holds the rank of Master and sits on the guild's technical council, where he occasionally advocates for stricter standards and craft requirements.
-- **The Scholars of Technological Arts**: An informal circle of engineers, mathematicians, and craftspeople who share discoveries and discuss theoretical principles underlying their work. Grégoras participates irregularly but with real enthusiasm for the intellectual component of this community.
+Maritime Shipwrights' Guild
+: Grégoras holds the rank of Master and sits on the guild's technical council, where he occasionally advocates for stricter standards and craft requirements.
+
+The Scholars of Technological Arts
+: An informal circle of engineers, mathematicians, and craftspeople who share discoveries and discuss theoretical principles underlying their work. Grégoras participates irregularly but with real enthusiasm for the intellectual component of this community.
 
 ## Plot Hooks
 

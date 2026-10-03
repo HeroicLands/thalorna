@@ -485,21 +485,36 @@ Yet in the immediate sense, she is driven by competition and the relentless need
 
 ### Patrons
 
-- **Captain Bárdanôs Arzatorìs**: A merchant vessel captain who regularly seeks Brânalenîs out for contracts, recognizing her great value despite her difficult personality. He maintains hope that given time, she might accept permanent crew status.
-- **Master Harbormaster Deneus**: The official overseer of Alyssa's harbor, who provides Brânalenîs with information about incoming vessels seeking crew and occasionally intervenes with less scrupulous captains.
-- **The Seafarers' Lodge**: An informal fraternity of experienced sailors who gather to trade stories and information. Though Brânalenîs is not a full member due to her gender, several senior members have quietly advocated for her.
+Captain Bárdanôs Arzatorìs
+: A merchant vessel captain who regularly seeks Brânalenîs out for contracts, recognizing her great value despite her difficult personality. He maintains hope that given time, she might accept permanent crew status.
+
+Master Harbormaster Deneus
+: The official overseer of Alyssa's harbor, who provides Brânalenîs with information about incoming vessels seeking crew and occasionally intervenes with less scrupulous captains.
+
+The Seafarers' Lodge
+: An informal fraternity of experienced sailors who gather to trade stories and information. Though Brânalenîs is not a full member due to her gender, several senior members have quietly advocated for her.
 
 ### Enemies
 
-- **Captain Drown**: A rivaling sailor of questionable ethics who views Brânalenîs as competition and has spread unfounded rumors about her reliability. They have clashed on at least three separate occasions.
-- **The Harbor Master's Rival Faction**: Certain merchants who view Deneus as an obstacle to their trading operations have subtly worked to undermine his authority. Since Brânalenîs is associated with him, she has become a secondary target.
-- **Merchant Syndicate of Shallow Cove**: An organized smuggling ring has attempted to recruit Brânalenîs into their operations. When she refused, they marked her as a threat due to her knowledge of ships and harbor layouts.
+Captain Drown
+: A rivaling sailor of questionable ethics who views Brânalenîs as competition and has spread unfounded rumors about her reliability. They have clashed on at least three separate occasions.
+
+The Harbor Master's Rival Faction
+: Certain merchants who view Deneus as an obstacle to their trading operations have subtly worked to undermine his authority. Since Brânalenîs is associated with him, she has become a secondary target.
+
+Merchant Syndicate of Shallow Cove
+: An organized smuggling ring has attempted to recruit Brânalenîs into their operations. When she refused, they marked her as a threat due to her knowledge of ships and harbor layouts.
 
 ### Affiliations
 
-- **The Seafarers' Lodge**: An informal association of seafarers, though her official status remains uncertain due to gender conventions.
-- **The Port Authority of Alyssa**: Not formally affiliated, but she maintains good relationships with most harbor officials.
-- **Independent Maritime Community**: She is connected to the loose network of sailors, captains, and seafolk throughout the empire, though these connections are largely of work rather than friendship.
+The Seafarers' Lodge
+: An informal association of seafarers, though her official status remains uncertain due to gender conventions.
+
+The Port Authority of Alyssa
+: Not formally affiliated, but she maintains good relationships with most harbor officials.
+
+Independent Maritime Community
+: She is connected to the loose network of sailors, captains, and seafolk throughout the empire, though these connections are largely of work rather than friendship.
 
 ## Plot Hooks
 

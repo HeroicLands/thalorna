@@ -486,27 +486,36 @@ Shadal is driven by a deep belief in the power of the written word to protect th
 
 ### Patrons
 
-- **The Kalihara Confederation's High Registry**: Though Shadal left formal employment, the Registry still calls upon him for sensitive or complex documentation work. He is consulted privately on cases that require particular skill, and the Registry sees that his reputation remains unblemished.
+The Kalihara Confederation's High Registry
+: Though Shadal left formal employment, the Registry still calls upon him for sensitive or complex documentation work. He is consulted privately on cases that require particular skill, and the Registry sees that his reputation remains unblemished.
 
-- **Merchants' and Traders' Guild**: Several powerful merchants in the confederation employ Shadal regularly for contract work. These patrons pay well, though Shadal often irritates them by insisting on fair terms that benefit both parties.
+Merchants' and Traders' Guild
+: Several powerful merchants in the confederation employ Shadal regularly for contract work. These patrons pay well, though Shadal often irritates them by insisting on fair terms that benefit both parties.
 
-- **Village Councils and Local Magistrates**: Small towns and villages regularly hire Shadal to document local disputes, create legal records, and act as a neutral witness to important agreements. These patrons respect him deeply and protect his reputation in their communities.
+Village Councils and Local Magistrates
+: Small towns and villages regularly hire Shadal to document local disputes, create legal records, and act as a neutral witness to important agreements. These patrons respect him deeply and protect his reputation in their communities.
 
-- **Poor Farmers and Craftspeople**: Though they cannot pay much, Shadal's most loyal patrons are the common folk who depend on him to protect their interests. These clients view him as a hero and would defend him fiercely if he were ever threatened.
+Poor Farmers and Craftspeople
+: Though they cannot pay much, Shadal's most loyal patrons are the common folk who depend on him to protect their interests. These clients view him as a hero and would defend him fiercely if he were ever threatened.
 
 ### Enemies
 
-- **Merchant Lysander Cross**: A wealthy trader who Shadal refused to work for after discovering Cross was using legal documents to systematically defraud his less educated business partners. Cross views Shadal as a threat to his operations and spreads rumors that Shadal's documents are unreliable and that he favors the poor over the wealthy.
+Merchant Lysander Cross
+: A wealthy trader who Shadal refused to work for after discovering Cross was using legal documents to systematically defraud his less educated business partners. Cross views Shadal as a threat to his operations and spreads rumors that Shadal's documents are unreliable and that he favors the poor over the wealthy.
 
-- **Guild Master Parvesh**: The master of the scribes' guild has long viewed Shadal as a troublemaker who uses his position to push idealistic notions of fairness. Parvesh profits by taking higher fees from wealthy clients and discouraging scribes from working with the poor. He sees Shadal's independent success as an implicit rebuke of his leadership.
+Guild Master Parvesh
+: The master of the scribes' guild has long viewed Shadal as a troublemaker who uses his position to push idealistic notions of fairness. Parvesh profits by taking higher fees from wealthy clients and discouraging scribes from working with the poor. He sees Shadal's independent success as an implicit rebuke of his leadership.
 
 ### Affiliations
 
-- **Scribes' Guild of the Kalihara Confederation**: Shadal maintains membership in the guild, though the relationship is somewhat strained. He participates in guild activities and upholds its standards, but his insistence on serving the poor and his resistance to the guild's increasingly mercenary policies have made him unpopular with certain factions.
+Scribes' Guild of the Kalihara Confederation
+: Shadal maintains membership in the guild, though the relationship is somewhat strained. He participates in guild activities and upholds its standards, but his insistence on serving the poor and his resistance to the guild's increasingly mercenary policies have made him unpopular with certain factions.
 
-- **Temple Archive Cooperative**: Shadal shares his office with a cooperative of scholars and archivists who maintain historical records for the local temples. This affiliation gives him access to reference materials and connects him to the intellectual community.
+Temple Archive Cooperative
+: Shadal shares his office with a cooperative of scholars and archivists who maintain historical records for the local temples. This affiliation gives him access to reference materials and connects him to the intellectual community.
 
-- **Free Scribes' Alliance**: A loose association of independent scribes like himself who have left formal guild or registry employment. This informal group shares techniques, helps with difficult commissions, and supports each other's work.
+Free Scribes' Alliance
+: A loose association of independent scribes like himself who have left formal guild or registry employment. This informal group shares techniques, helps with difficult commissions, and supports each other's work.
 
 ## Plot Hooks
 

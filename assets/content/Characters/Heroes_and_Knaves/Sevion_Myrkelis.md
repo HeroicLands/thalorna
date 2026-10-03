@@ -497,15 +497,25 @@ He avoids making enemies within the guild but is aware of the dangerous politics
 
 ### Patrons
 
-- **Lady Adrienna Alranis**: A minor noblewoman with a keen interest in alchemical remedies. Lady Adrienna suffers from a rare blood disorder and frequently commissions Sevion to create tonics and elixirs to alleviate her condition. In return, she provides him with funding and access to noble circles, where his reputation has begun to grow.
-- **The Merchant’s Guild**: Sevion has developed a lucrative relationship with several merchants who commission him to craft elixirs that enhance strength, stamina, and charisma—often for use in negotiations or physical contests. The **Merchant’s Guild** values his work and provides him with some of the rarest ingredients that come through the ports of Calypsa.
-- **Master Virel Danogir**: Although he is no longer Sevion’s mentor, Master Virel remains an important figure in his life. The two maintain a mutually beneficial relationship, exchanging information and occasionally collaborating on projects. Master Virel provides Sevion with insights from the inner workings of the Guild of Esoteric Crafts, though his support comes at a price—Sevion often feels indebted to his old mentor.
+Lady Adrienna Alranis
+: A minor noblewoman with a keen interest in alchemical remedies. Lady Adrienna suffers from a rare blood disorder and frequently commissions Sevion to create tonics and elixirs to alleviate her condition. In return, she provides him with funding and access to noble circles, where his reputation has begun to grow.
+
+The Merchant’s Guild
+: Sevion has developed a lucrative relationship with several merchants who commission him to craft elixirs that enhance strength, stamina, and charisma—often for use in negotiations or physical contests. The **Merchant’s Guild** values his work and provides him with some of the rarest ingredients that come through the ports of Calypsa.
+
+Master Virel Danogir
+: Although he is no longer Sevion’s mentor, Master Virel remains an important figure in his life. The two maintain a mutually beneficial relationship, exchanging information and occasionally collaborating on projects. Master Virel provides Sevion with insights from the inner workings of the Guild of Esoteric Crafts, though his support comes at a price—Sevion often feels indebted to his old mentor.
 
 ### Enemies
 
-- **Arlis Ruthorn**: A fellow member of the Guild of Esoteric Crafts and a long-standing rival, Arlis has always been envious of Sevion’s talent and his access to rare materials. While Arlis excels in creating alchemical weapons and volatile compounds, his aggressive ambition and desire for recognition have made him reckless. He frequently tries to undermine Sevion’s work, spreading rumors about his experiments and attempting to poach clients. Arlis also has his own designs on the **Visionary Elixir**, having learned of Sevion’s pursuit through guild gossip.
-- **Jarl Kervan Redblade**: Sevion once refused to sell a dangerous combat-enhancing elixir to Kervan, a notorious warlord and privateer who sought to use it to gain an edge in a bloody power struggle. This refusal has made Kervan a dangerous enemy. Though Sevion tries to avoid any direct confrontation, Kervan’s men have been seen lurking around Héligstrom, leading Sevion to believe that retaliation may be imminent.
-- **Guild of Apothecaries**: While Sevion is associated with the Guild of Esoteric Crafts, his success in crafting both potions and remedies has drawn the ire of the **Guild of Apothecaries**, whose members believe that he is encroaching on their territory. This professional tension has led to strained relations between the two guilds, and Sevion has faced increased scrutiny and resistance when trying to acquire certain permits or licenses for rare ingredients.
+Arlis Ruthorn
+: A fellow member of the Guild of Esoteric Crafts and a long-standing rival, Arlis has always been envious of Sevion’s talent and his access to rare materials. While Arlis excels in creating alchemical weapons and volatile compounds, his aggressive ambition and desire for recognition have made him reckless. He frequently tries to undermine Sevion’s work, spreading rumors about his experiments and attempting to poach clients. Arlis also has his own designs on the **Visionary Elixir**, having learned of Sevion’s pursuit through guild gossip.
+
+Jarl Kervan Redblade
+: Sevion once refused to sell a dangerous combat-enhancing elixir to Kervan, a notorious warlord and privateer who sought to use it to gain an edge in a bloody power struggle. This refusal has made Kervan a dangerous enemy. Though Sevion tries to avoid any direct confrontation, Kervan’s men have been seen lurking around Héligstrom, leading Sevion to believe that retaliation may be imminent.
+
+Guild of Apothecaries
+: While Sevion is associated with the Guild of Esoteric Crafts, his success in crafting both potions and remedies has drawn the ire of the **Guild of Apothecaries**, whose members believe that he is encroaching on their territory. This professional tension has led to strained relations between the two guilds, and Sevion has faced increased scrutiny and resistance when trying to acquire certain permits or licenses for rare ingredients.
 
 ## Plot Hooks
 

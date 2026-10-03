@@ -481,21 +481,27 @@ Garri is driven by a quest for understanding that has shaped his entire life. He
 
 ### Patrons
 
-- [[affiliation-lutuznera|The Lut-Uznêra]]: The priesthood of his patron goddess recognize him as a spiritual authority and occasionally provide modest financial support and sanctuary. However, this relationship is complex, as Garri's ideas sometimes challenge official temple doctrine.
+[[affiliation-lutuznera|The Lut-Uznêra]]
+: The priesthood of his patron goddess recognize him as a spiritual authority and occasionally provide modest financial support and sanctuary. However, this relationship is complex, as Garri's ideas sometimes challenge official temple doctrine.
 
-- **Grateful Former Students**: Several of Garri's former students have prospered in their lives and maintain their connection with him through regular donations and commissions for written works. These relationships are the foundation of his current modest livelihood.
+Grateful Former Students
+: Several of Garri's former students have prospered in their lives and maintain their connection with him through regular donations and commissions for written works. These relationships are the foundation of his current modest livelihood.
 
-- **The City's Intellectual Community**: The city's more open-minded scholars, liberal merchants, and teachers recognize his value and occasionally commission him to lead lectures, conduct seminars, or advise on matters requiring ethical consideration.
+The City's Intellectual Community
+: The city's more open-minded scholars, liberal merchants, and teachers recognize his value and occasionally commission him to lead lectures, conduct seminars, or advise on matters requiring ethical consideration.
 
 ### Enemies
 
-- **The Qethar'lemu and Rigid Orthodoxy**: Conservative elements within the Khelâthi religious establishment view Garri's questioning of orthodox interpretations as dangerous heresy. They would like to silence him but lack direct cause to do so, creating ongoing tension.
+The Qethar'lemu and Rigid Orthodoxy
+: Conservative elements within the Khelâthi religious establishment view Garri's questioning of orthodox interpretations as dangerous heresy. They would like to silence him but lack direct cause to do so, creating ongoing tension.
 
-- **Merchant Lords Uncomfortable with Critique**: Wealthy merchants who have built fortunes through practices Garri considers exploitative or morally questionable view him with hostility. He has been known to critique materialism and greed publicly, earning their enmity.
+Merchant Lords Uncomfortable with Critique
+: Wealthy merchants who have built fortunes through practices Garri considers exploitative or morally questionable view him with hostility. He has been known to critique materialism and greed publicly, earning their enmity.
 
 ### Affiliations
 
-- **Independent Scholar Network**: Garri maintains informal connections with other independent philosophers, teachers, and spiritual seekers throughout the Khelâthi lands. However, he is not formally affiliated with any institution or organization.
+Independent Scholar Network
+: Garri maintains informal connections with other independent philosophers, teachers, and spiritual seekers throughout the Khelâthi lands. However, he is not formally affiliated with any institution or organization.
 
 ## Plot Hooks
 

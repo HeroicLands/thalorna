@@ -447,7 +447,8 @@ She is not, in her own telling, a traitor or a monster but a woman who was throw
 
 ### Enemies
 
-- [[being-zahirmlkht|Zahira Malkhet, the Hound of the Veil]]: The thief-taker whose long-ago hunt cost Yâsûra her commission, her House, and her country. Yâsûra wants her dead by her own hand, and the present contract to run her down is, to the Jackal-Queen, the settling of the oldest debt she owns as much as any paid job.
+[[being-zahirmlkht|Zahira Malkhet, the Hound of the Veil]]
+: The thief-taker whose long-ago hunt cost Yâsûra her commission, her House, and her country. Yâsûra wants her dead by her own hand, and the present contract to run her down is, to the Jackal-Queen, the settling of the oldest debt she owns as much as any paid job.
 
 ### Patrons of Convenience
 

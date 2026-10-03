@@ -480,27 +480,36 @@ Althynda is driven by a need to create beauty and to contribute to others' spiri
 
 ### Patrons
 
-- **Priestess Sigrid**: High priestess of Fródvin's temple who has commissioned multiple candle sets for significant religious observances; she actively promotes Althynda's work and has provided spiritual guidance alongside patronage.
+Priestess Sigrid
+: High priestess of Fródvin's temple who has commissioned multiple candle sets for significant religious observances; she actively promotes Althynda's work and has provided spiritual guidance alongside patronage.
 
-- **Master Craftsman Halvarr**: A respected woodworker and fellow member of the artisan community who has become something of an informal adviser in trade; he provides practical guidance while respecting her artistic vision.
+Master Craftsman Halvarr
+: A respected woodworker and fellow member of the artisan community who has become something of an informal adviser in trade; he provides practical guidance while respecting her artistic vision.
 
-- **The Widow Solveig**: An elderly woman of considerable means who has adopted Althynda as something of a spiritual protégé; she has purchased candles regularly and has begun subtly promoting Althynda's work to her social circle.
+The Widow Solveig
+: An elderly woman of considerable means who has adopted Althynda as something of a spiritual protégé; she has purchased candles regularly and has begun subtly promoting Althynda's work to her social circle.
 
-- **Lord Brynjorn**: A minor nobleman who discovered Althynda's candles and has begun commissioning elaborate custom orders; his patronage provides crucial steady custom and social standing.
+Lord Brynjorn
+: A minor nobleman who discovered Althynda's candles and has begun commissioning elaborate custom orders; his patronage provides crucial steady custom and social standing.
 
 ### Enemies
 
-- **Master Chandler Ragnar**: An established chandler of twenty years' standing who views Althynda's new methods and rising reputation as threatening to his business; he has begun undercutting her prices and spreading rumors about the quality of her work.
+Master Chandler Ragnar
+: An established chandler of twenty years' standing who views Althynda's new methods and rising reputation as threatening to his business; he has begun undercutting her prices and spreading rumors about the quality of her work.
 
-- **The Guild of Established Crafts**: The formal guild, while not directly opposed to Althynda, maintains standards and requirements that effectively exclude her; their members view her as an outsider and resist her attempts to join their organization.
+The Guild of Established Crafts
+: The formal guild, while not directly opposed to Althynda, maintains standards and requirements that effectively exclude her; their members view her as an outsider and resist her attempts to join their organization.
 
-- **Merchant Aldred**: A supplier and dealer who sees Althynda's inexperience as opportunity; he has deliberately sold her substandard materials at inflated prices and encourages her poor business decisions that benefit his interests.
+Merchant Aldred
+: A supplier and dealer who sees Althynda's inexperience as opportunity; he has deliberately sold her substandard materials at inflated prices and encourages her poor business decisions that benefit his interests.
 
 ### Affiliations
 
-- **The Artisan's Collective**: An informal association of craftspeople—weavers, woodworkers, metalcrafters—who meet periodically to discuss craft, techniques, and challenges; Althynda is a recent and tentative member.
+The Artisan's Collective
+: An informal association of craftspeople—weavers, woodworkers, metalcrafters—who meet periodically to discuss craft, techniques, and challenges; Althynda is a recent and tentative member.
 
-- **Fródvin's Grove**: A lay fellowship devoted to the god of fertility and growth; she participates in seasonal observances and maintains personal spiritual practice through this community.
+Fródvin's Grove
+: A lay fellowship devoted to the god of fertility and growth; she participates in seasonal observances and maintains personal spiritual practice through this community.
 
 ## Plot Hooks
 

@@ -468,19 +468,30 @@ Privately, Alýkos is also motivated by a need for mastery and control—not of 
 
 ### Patrons
 
-- **House Polytimós**: A noble merchant family that has engaged Alýkos for decades as their personal physician, providing stable income and access to their extensive private library for research purposes.
-- **The Physicians' Guild of the Byzarian League**: Both as member and occasional consultant, the Guild provides Alýkos with referrals, research materials, and standing among his peers. However, his sometimes heterodox approaches occasionally create friction with more traditionalist guild members.
-- **The Temple of Múrkír**: The religious institution has engaged Alýkos to advise on public health matters and the treatment of pilgrims afflicted with various ailments, providing both financial support and access to the temple's historical medical archives.
+House Polytimós
+: A noble merchant family that has engaged Alýkos for decades as their personal physician, providing stable income and access to their extensive private library for research purposes.
+
+The Physicians' Guild of the Byzarian League
+: Both as member and occasional consultant, the Guild provides Alýkos with referrals, research materials, and standing among his peers. However, his sometimes heterodox approaches occasionally create friction with more traditionalist guild members.
+
+The Temple of Múrkír
+: The religious institution has engaged Alýkos to advise on public health matters and the treatment of pilgrims afflicted with various ailments, providing both financial support and access to the temple's historical medical archives.
 
 ### Enemies
 
-- **The Traditionalist Faction of the Physicians' Guild**: Conservative healers who view Alýkos's experimental approaches and willingness to question inherited medical doctrine as dangerous and disrespectful. Led by the elderly physician **Gregoriash**, they regularly oppose his positions within the Guild and spread rumors that his new methods have resulted in patient deaths—a charge with just enough truth to be damaging.
-- **Charlatan Healers**: Various fraudulent practitioners throughout the League whom Alýkos has publicly exposed or reported to authorities, resulting in lost income for them. Some have threatened retaliation.
+The Traditionalist Faction of the Physicians' Guild
+: Conservative healers who view Alýkos's experimental approaches and willingness to question inherited medical doctrine as dangerous and disrespectful. Led by the elderly physician **Gregoriash**, they regularly oppose his positions within the Guild and spread rumors that his new methods have resulted in patient deaths—a charge with just enough truth to be damaging.
+
+Charlatan Healers
+: Various fraudulent practitioners throughout the League whom Alýkos has publicly exposed or reported to authorities, resulting in lost income for them. Some have threatened retaliation.
 
 ### Affiliations
 
-- **The Physicians' Guild of the Byzarian League**: A formal organization maintaining standards for medical practice and licensing. Alýkos holds high standing despite occasional controversy.
-- **The Circle of Medical Scholars**: An informal association of physicians and natural philosophers who share research and meet periodically to discuss advances in medical knowledge.
+The Physicians' Guild of the Byzarian League
+: A formal organization maintaining standards for medical practice and licensing. Alýkos holds high standing despite occasional controversy.
+
+The Circle of Medical Scholars
+: An informal association of physicians and natural philosophers who share research and meet periodically to discuss advances in medical knowledge.
 
 ## Plot Hooks
 

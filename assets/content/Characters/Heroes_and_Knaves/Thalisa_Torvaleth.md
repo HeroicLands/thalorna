@@ -472,25 +472,33 @@ Thalísa is motivated by a drive to create beauty that expresses truth as she pe
 
 ### Patrons
 
-- **Bishop Matthias of Riverside Cathedral**: A reform-minded religious leader who commissioned Thalísa to create unconventional windows that express spiritual concepts beyond literal religious imagery. He has become her primary patron and most vocal advocate, defending her work against criticism from more conservative ecclesiastical figures.
+Bishop Matthias of Riverside Cathedral
+: A reform-minded religious leader who commissioned Thalísa to create unconventional windows that express spiritual concepts beyond literal religious imagery. He has become her primary patron and most vocal advocate, defending her work against criticism from more conservative ecclesiastical figures.
 
-- **Merchant Collector Lady Esther Whitmore**: A wealthy widow with refined aesthetic tastes who has commissioned several major pieces for her private manor. She appreciates Thalísa's originality and has paid premium prices for original works.
+Merchant Collector Lady Esther Whitmore
+: A wealthy widow with refined aesthetic tastes who has commissioned several major pieces for her private manor. She appreciates Thalísa's originality and has paid premium prices for original works.
 
-- **Artist-Patrons the Ravencroft Collective**: A loose association of artists, musicians, and intellectual rebels who admire Thalísa's work and frequently commission pieces from her. They represent her artistic peer group and provide emotional support for her unconventional approach.
+Artist-Patrons the Ravencroft Collective
+: A loose association of artists, musicians, and intellectual rebels who admire Thalísa's work and frequently commission pieces from her. They represent her artistic peer group and provide emotional support for her unconventional approach.
 
-- **Master Aldwin's Estate**: Though her mentor passed years ago, his will established a small trust specifically to commission an annual work from Thalísa, giving her both financial stability and continuity of their artistic relationship.
+Master Aldwin's Estate
+: Though her mentor passed years ago, his will established a small trust specifically to commission an annual work from Thalísa, giving her both financial stability and continuity of their artistic relationship.
 
 ### Enemies
 
-- **Master Glassworker Helmut Thorne**: A traditionalist of great reputation who views Thalísa's work as a corruption of the glassmaker's craft. He has publicly criticized her work, called her a charlatan, and actively encourages clients and institutions to hire more "authentic" traditionalist glassworkers instead. He views her success as a personal threat to the integrity of his life's work.
+Master Glassworker Helmut Thorne
+: A traditionalist of great reputation who views Thalísa's work as a corruption of the glassmaker's craft. He has publicly criticized her work, called her a charlatan, and actively encourages clients and institutions to hire more "authentic" traditionalist glassworkers instead. He views her success as a personal threat to the integrity of his life's work.
 
-- **Rival Artisan Cassian Darkglass**: A younger glassworker who initially studied under Thalísa but left her workshop in bitter circumstances, feeling inadequate compared to her natural talents. Cassian has adopted traditional methods specifically to distance himself from her influence and publicly portrays her as a fraud whose novelties are merely abandonment of proper technique.
+Rival Artisan Cassian Darkglass
+: A younger glassworker who initially studied under Thalísa but left her workshop in bitter circumstances, feeling inadequate compared to her natural talents. Cassian has adopted traditional methods specifically to distance himself from her influence and publicly portrays her as a fraud whose novelties are merely abandonment of proper technique.
 
 ### Affiliations
 
-- **the Glassworkers' Guild of Tarvénia**: Thalísa maintains formal membership but exists in uneasy relationship with the organization, which leans conservative and has several times suggested she adopt more traditional practices. She attends meetings sporadically and resists their authority.
+the Glassworkers' Guild of Tarvénia
+: Thalísa maintains formal membership but exists in uneasy relationship with the organization, which leans conservative and has several times suggested she adopt more traditional practices. She attends meetings sporadically and resists their authority.
 
-- **the Ravencroft Artistic Circle**: An informal community of forward-looking artists, philosophers, and others pushing at the bounds of custom, who see Thalísa as a key member and a voice for artistic freedom and new work.
+the Ravencroft Artistic Circle
+: An informal community of forward-looking artists, philosophers, and others pushing at the bounds of custom, who see Thalísa as a key member and a voice for artistic freedom and new work.
 
 ## Plot Hooks
 

@@ -469,19 +469,30 @@ Arkhêa no longer operates from personal ambition; that luxury departed decades 
 
 ### Patrons
 
-- **Mother Superior Thessala of the House of Flórania**: The abbess of a local convent dedicated to fertility, growth, and mercy periodically provides shelter and food to Arkhêa. They share a spiritual understanding despite their vastly different circumstances.
-- **Merchant's Widow Helena Margikos**: A wealthy woman whose sense of guilt over her comfortable life occasionally manifests as support for street-dwellers. She knows Arkhêa by name and sometimes provides coin or shelter.
-- **Young Scholar Dmitris**: A university student who trades philosophical conversation and occasional bread for Arkhêa's stories and hard-won wisdom about the human condition.
+Mother Superior Thessala of the House of Flórania
+: The abbess of a local convent dedicated to fertility, growth, and mercy periodically provides shelter and food to Arkhêa. They share a spiritual understanding despite their vastly different circumstances.
+
+Merchant's Widow Helena Margikos
+: A wealthy woman whose sense of guilt over her comfortable life occasionally manifests as support for street-dwellers. She knows Arkhêa by name and sometimes provides coin or shelter.
+
+Young Scholar Dmitris
+: A university student who trades philosophical conversation and occasional bread for Arkhêa's stories and hard-won wisdom about the human condition.
 
 ### Enemies
 
-- **The Brass Knuckles**: A crew of street thugs led by a brutal enforcer named **Korvin** who run extortion rackets against beggars. They have beaten Arkhêa multiple times for "protection" money she could not pay.
-- **Stephanárzan**: An official who views beggars as urban blight to be removed. He has had Arkhêa arrested multiple times for vagrancy, each arrest more brutal than the last.
+The Brass Knuckles
+: A crew of street thugs led by a brutal enforcer named **Korvin** who run extortion rackets against beggars. They have beaten Arkhêa multiple times for "protection" money she could not pay.
+
+Stephanárzan
+: An official who views beggars as urban blight to be removed. He has had Arkhêa arrested multiple times for vagrancy, each arrest more brutal than the last.
 
 ### Affiliations
 
-- **The Unseen Community**: Arkhêa is an elder figure among the city's street-dwellers, respected for her longevity and wisdom.
-- **The Order of Flórania (Fertility Aspect)**: Despite her poverty, she maintains spiritual practice and occasional participation in informal worship gatherings.
+The Unseen Community
+: Arkhêa is an elder figure among the city's street-dwellers, respected for her longevity and wisdom.
+
+The Order of Flórania (Fertility Aspect)
+: Despite her poverty, she maintains spiritual practice and occasional participation in informal worship gatherings.
 
 ## Plot Hooks
 

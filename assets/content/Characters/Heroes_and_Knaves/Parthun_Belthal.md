@@ -483,23 +483,30 @@ Párthun seeks to consolidate his power and expand his influence to the highest 
 
 ### Patrons
 
-- **Lord Merkus Vethrand**: Despite the complications between them, Merkus remains technically Párthun's patron and the relationship continues, though now on more equal terms. Merkus values Párthun's continued assistance and has become dependent on his problem-solving abilities, even as he suspects the young man may be manipulating him.
+Lord Merkus Vethrand
+: Despite the complications between them, Merkus remains technically Párthun's patron and the relationship continues, though now on more equal terms. Merkus values Párthun's continued assistance and has become dependent on his problem-solving abilities, even as he suspects the young man may be manipulating him.
 
-- **The Lord Chancellor of Élavendre**: At the highest level of government, Párthun has begun to attract the attention of the realm's ultimate administrative authority. Whether this represents genuine patronage or merely the normal monitoring of an unusually capable official is unclear.
+The Lord Chancellor of Élavendre
+: At the highest level of government, Párthun has begun to attract the attention of the realm's ultimate administrative authority. Whether this represents genuine patronage or merely the normal monitoring of an unusually capable official is unclear.
 
 ### Enemies
 
-- **Magistrate Helvren Zálreth**: A judge who has clashed with Párthun on numerous occasions over the interpretation of law and regulation. She views him as a dangerous influence on the administrative system and would gladly see him removed from his position.
+Magistrate Helvren Zálreth
+: A judge who has clashed with Párthun on numerous occasions over the interpretation of law and regulation. She views him as a dangerous influence on the administrative system and would gladly see him removed from his position.
 
-- **The Office of Civic Integrity**: An official body tasked with investigating corruption in government. Párthun has managed to stay ahead of their inquiries so far, but the office has begun to focus attention on his affairs with increasing intensity.
+The Office of Civic Integrity
+: An official body tasked with investigating corruption in government. Párthun has managed to stay ahead of their inquiries so far, but the office has begun to focus attention on his affairs with increasing intensity.
 
-- **Displaced Administrators**: Those who have been forced out of positions by Párthun's machinations nurse considerable resentment. Some have enough knowledge of his methods to pose genuine threats.
+Displaced Administrators
+: Those who have been forced out of positions by Párthun's machinations nurse considerable resentment. Some have enough knowledge of his methods to pose genuine threats.
 
 ### Affiliations
 
-- **The City Administration of Valdûn**: His official position and the primary source of his power, though his actual loyalty is to himself rather than the institution.
+The City Administration of Valdûn
+: His official position and the primary source of his power, though his actual loyalty is to himself rather than the institution.
 
-- **The Bureaucrats' Collegia**: A loose fraternal organization of administrative officials across the kingdom. He maintains good standing while carefully using the organization's resources for his own benefit.
+The Bureaucrats' Collegia
+: A loose fraternal organization of administrative officials across the kingdom. He maintains good standing while carefully using the organization's resources for his own benefit.
 
 ## Plot Hooks
 

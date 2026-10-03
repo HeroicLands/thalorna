@@ -470,21 +470,27 @@ Muri's primary motivation is the pursuit of perfection in his craft—he views t
 
 ### Patrons
 
-- **House Kalirrûn**: A major merchant family dealing in rare spices and silks, they have contracted Muri for their three most valuable annual shipments for over a decade. **Merchant-Prince Akrûm Kalirrûn** has personally requested Muri for shipments bound for the distant courts of the Dragon's Reach, trusting none other with goods worth a king's ransom.
+House Kalirrûn
+: A major merchant family dealing in rare spices and silks, they have contracted Muri for their three most valuable annual shipments for over a decade. **Merchant-Prince Akrûm Kalirrûn** has personally requested Muri for shipments bound for the distant courts of the Dragon's Reach, trusting none other with goods worth a king's ransom.
 
-- **The Silk Caravans Consortium**: A loose confederation of independent merchants who pool resources for major journeys. Muri is their preferred security contractor, hired for routes through the most dangerous stretches of the Veil Mountains.
+The Silk Caravans Consortium
+: A loose confederation of independent merchants who pool resources for major journeys. Muri is their preferred security contractor, hired for routes through the most dangerous stretches of the Veil Mountains.
 
-- **Lady Morwenna of House Dûravîn**: A noble widow of considerable means, she has employed Muri repeatedly for personal journeys between her holdings, relying on his discretion as much as his skill at keeping her safe.
+Lady Morwenna of House Dûravîn
+: A noble widow of considerable means, she has employed Muri repeatedly for personal journeys between her holdings, relying on his discretion as much as his skill at keeping her safe.
 
 ### Enemies
 
-- **The Veiled Riders**: A band of organized bandits operating in the high passes of Kalihara. While they have never successfully ambushed one of Muri's caravans, repeated failed attempts have earned them a burning hatred of the old guard captain. They have placed a substantial bounty on his head and actively seek opportunities for revenge.
+The Veiled Riders
+: A band of organized bandits operating in the high passes of Kalihara. While they have never successfully ambushed one of Muri's caravans, repeated failed attempts have earned them a burning hatred of the old guard captain. They have placed a substantial bounty on his head and actively seek opportunities for revenge.
 
-- **Khûn the Scarlet**: A younger, more charismatic competitor who has been systematically undercutting Muri's fees and winning contracts with merchants who value speed and novelty over Muri's methodical approach. Their rivalry has begun to take on personal overtones, with each man viewing the other as a threat to his livelihood.
+Khûn the Scarlet
+: A younger, more charismatic competitor who has been systematically undercutting Muri's fees and winning contracts with merchants who value speed and novelty over Muri's methodical approach. Their rivalry has begun to take on personal overtones, with each man viewing the other as a threat to his livelihood.
 
 ### Affiliations
 
-- **Mercenaries' Guild of the Kalihara Confederation**: Muri maintains his membership and serves occasionally on the guild's disciplinary council, lending his vast experience to contract disputes and standards of conduct.
+Mercenaries' Guild of the Kalihara Confederation
+: Muri maintains his membership and serves occasionally on the guild's disciplinary council, lending his vast experience to contract disputes and standards of conduct.
 
 ## Plot Hooks
 

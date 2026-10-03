@@ -470,20 +470,33 @@ Konstántinos is driven by the conviction that food is one of humanity's greates
 
 ### Patrons
 
-- **The Proprietor of the Copper Kettle**: His employer, **Merchant-Master Theron**, trusts him completely and defers to his judgment on all kitchen matters. Theron has invested significantly in the kitchen and treats Konstántinos almost as a partner.
-- **Wealthy Merchant Families**: Several prominent merchant houses in the city specifically patronize the Copper Kettle to enjoy Konstántinos's cooking and have requested private catering for their events.
-- **Scholarly Community**: Academics and philosophers who gather in the tavern's back room have become devoted to his meals and often engage him in discussions about the philosophy of cooking.
-- **Guild of Farmers and Growers**: Local farmers view him as a patron of quality and a customer who truly values their best work, making him central to their business success.
+The Proprietor of the Copper Kettle
+: His employer, **Merchant-Master Theron**, trusts him completely and defers to his judgment on all kitchen matters. Theron has invested significantly in the kitchen and treats Konstántinos almost as a partner.
+
+Wealthy Merchant Families
+: Several prominent merchant houses in the city specifically patronize the Copper Kettle to enjoy Konstántinos's cooking and have requested private catering for their events.
+
+Scholarly Community
+: Academics and philosophers who gather in the tavern's back room have become devoted to his meals and often engage him in discussions about the philosophy of cooking.
+
+Guild of Farmers and Growers
+: Local farmers view him as a patron of quality and a customer who truly values their best work, making him central to their business success.
 
 ### Enemies
 
-- **The Merchant Prince Varkûs**: A wealthy entrepreneur who once offered Konstántinos an enormous sum to work exclusively for his household. When Konstántinos declined, Varkûs took it as a personal insult and has since worked to undermine the **Copper Kettle's** reputation through rumor and sabotage.
-- **The Synthetic Food Consortium**: A merchant group promoting cheaper, magically-created food substitutes views Konstántinos's commitment to traditional cooking as an obstacle to their profits and spreads propaganda against his work.
+The Merchant Prince Varkûs
+: A wealthy entrepreneur who once offered Konstántinos an enormous sum to work exclusively for his household. When Konstántinos declined, Varkûs took it as a personal insult and has since worked to undermine the **Copper Kettle's** reputation through rumor and sabotage.
+
+The Synthetic Food Consortium
+: A merchant group promoting cheaper, magically-created food substitutes views Konstántinos's commitment to traditional cooking as an obstacle to their profits and spreads propaganda against his work.
 
 ### Affiliations
 
-- **The Copper Kettle Tavern**: His primary workplace and the center of his professional identity.
-- **Informal Network of Master Cooks**: Through reputation and occasional encounters, he maintains loose connections with other skilled cooks throughout the Byzarian League, though he rarely formalizes these relationships.
+The Copper Kettle Tavern
+: His primary workplace and the center of his professional identity.
+
+Informal Network of Master Cooks
+: Through reputation and occasional encounters, he maintains loose connections with other skilled cooks throughout the Byzarian League, though he rarely formalizes these relationships.
 
 ## Plot Hooks
 

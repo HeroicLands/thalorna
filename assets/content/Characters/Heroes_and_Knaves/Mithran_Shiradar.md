@@ -454,20 +454,33 @@ Mithran is driven by a single, all-consuming purpose: the survival and dominance
 
 ### Patrons
 
-- **The Council of Dunhara Tribal Elders**: The council that shares leadership responsibility with Mithran and provides legitimacy for his rule.
-- **The Spirit Keepers**: The shamans and ritual specialists of the tribe who maintain Mithran's spiritual authority and advise on matters of religious significance.
+The Council of Dunhara Tribal Elders
+: The council that shares leadership responsibility with Mithran and provides legitimacy for his rule.
+
+The Spirit Keepers
+: The shamans and ritual specialists of the tribe who maintain Mithran's spiritual authority and advise on matters of religious significance.
 
 ### Enemies
 
-- **Kethrak the Challenger**: A rival chieftain from the neighboring Valdun tribes who has been systematically consolidating power and openly positioning himself as a future threat to Mithran's dominion. The two have never directly fought, but each respects the other's capabilities and recognizes that conflict is eventually inevitable.
-- **The Imperial Garrison at [[place-khuqetmiglet|Khuqet-Miglet]]**: The military outpost maintains nominal peace with the Dunhara, but recent commanders have proven hostile to tribal interests, leading to multiple border skirmishes and failed negotiations.
-- **Estheva, the Returning Son**: Mithran's youngest son, once considered his heir, abandoned tribal life twenty years ago to live among the settled kingdoms. He has recently returned with outsider ideas about governance and change, threatening Mithran's traditionalist authority.
+Kethrak the Challenger
+: A rival chieftain from the neighboring Valdun tribes who has been systematically consolidating power and openly positioning himself as a future threat to Mithran's dominion. The two have never directly fought, but each respects the other's capabilities and recognizes that conflict is eventually inevitable.
+
+The Imperial Garrison at [[place-khuqetmiglet|Khuqet-Miglet]]
+: The military outpost maintains nominal peace with the Dunhara, but recent commanders have proven hostile to tribal interests, leading to multiple border skirmishes and failed negotiations.
+
+Estheva, the Returning Son
+: Mithran's youngest son, once considered his heir, abandoned tribal life twenty years ago to live among the settled kingdoms. He has recently returned with outsider ideas about governance and change, threatening Mithran's traditionalist authority.
 
 ### Affiliations
 
-- **The Dunhara Tribes**: His primary affiliation and the source of his identity and authority.
-- **The Council of Tribal Leaders**: A confederation of the Dunhara chieftains and war leaders who collectively advise on tribal matters.
-- **The Temple of Zúráthrä**: A devotional order dedicated to the god of fertility, prosperity, and abundance.
+The Dunhara Tribes
+: His primary affiliation and the source of his identity and authority.
+
+The Council of Tribal Leaders
+: A confederation of the Dunhara chieftains and war leaders who collectively advise on tribal matters.
+
+The Temple of Zúráthrä
+: A devotional order dedicated to the god of fertility, prosperity, and abundance.
 
 ## Plot Hooks
 

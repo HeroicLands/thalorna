@@ -466,22 +466,39 @@ Skraldthann is motivated by a desire for recognition and immortality through his
 
 ### Patrons
 
-- **Lady Viscontess Aelrún Thorgrimsdottir**: A powerful noblewoman who has been Skraldthann's most consistent and influential patron for twenty years. She wears his designs to every significant event and has championed his work in the highest circles.
-- **Duke Svalthvir Hnarvendikh**: A wealthy warrior nobleman who commissions formal garments for official functions. He trusts Skraldthann's judgment completely and has introduced him to numerous high-ranking patrons.
-- **The Court of the Kingdom of Norgaad**: Official court functions and ceremonial occasions increasingly feature garments designed by Skraldthann. His influence on royal aesthetics is substantial.
+Lady Viscontess Aelrún Thorgrimsdottir
+: A powerful noblewoman who has been Skraldthann's most consistent and influential patron for twenty years. She wears his designs to every significant event and has championed his work in the highest circles.
+
+Duke Svalthvir Hnarvendikh
+: A wealthy warrior nobleman who commissions formal garments for official functions. He trusts Skraldthann's judgment completely and has introduced him to numerous high-ranking patrons.
+
+The Court of the Kingdom of Norgaad
+: Official court functions and ceremonial occasions increasingly feature garments designed by Skraldthann. His influence on royal aesthetics is substantial.
 
 ### Enemies
 
-- **Master Tailor Knarvthann Vraldumakh**: Skraldthann's primary rival, whose more accessible and commercially successful designs have challenged Skraldthann's market dominance. Their competition is professional but venomous.
-- **The Tailors' Guild**: While Skraldthann holds prestigious membership, many guild members resent his elitism and his tendency to poach the best apprentices with promises of training superior to the guild provides.
-- **Common Clothiers and Market Merchants**: Those who serve average clients view Skraldthann as an elitist who has damaged the reputation of the entire profession by treating common people with contempt.
+Master Tailor Knarvthann Vraldumakh
+: Skraldthann's primary rival, whose more accessible and commercially successful designs have challenged Skraldthann's market dominance. Their competition is professional but venomous.
+
+The Tailors' Guild
+: While Skraldthann holds prestigious membership, many guild members resent his elitism and his tendency to poach the best apprentices with promises of training superior to the guild provides.
+
+Common Clothiers and Market Merchants
+: Those who serve average clients view Skraldthann as an elitist who has damaged the reputation of the entire profession by treating common people with contempt.
 
 ### Affiliations
 
-- **The City Tailors' Guild**: Skraldthann holds a prestigious position and effectively shapes the guild's standards, though this creates resentment among other members.
-- **Elite Social Circles of Norgaad**: He moves in the highest social strata and is welcome at noble gatherings where his opinions on aesthetics are treated as gospel.
-- **[[being-dvrnvrhrfnsvld|Dvarnvir Hrafnsvald]] (Brother)**: Skraldthann's younger brother by eight years, a tentmaker in Vithgard. The two share the Hrafnsvald name and a talent for working with fabric, but that is where the similarities end. Skraldthann considers tentmaking a waste of genuine skill—[[being-dvrnvrhrfnsvld|Dvarnvir]] could have been a fine clothier if he hadn't squandered his youth soldiering. [[being-dvrnvrhrfnsvld|Dvarnvir]], for his part, views his brother's vanity and elitism with weary amusement. They correspond infrequently but with real affection, each quietly convinced the other chose the wrong life.
-- **[[being-vrldmylhrfnsvld|Vrildmýl Hrafnsvald]] (Nephew)**: Skraldthann's nephew, the son of [[being-dvrnvrhrfnsvld|Dvarnvir]], a young militia sergeant in Vithgard. Skraldthann finds [[being-vrldmylhrfnsvld|Vrildmýl]]'s martial lifestyle coarse and unglamorous, yet feels a genuine familial pride in the young man's courage and rising reputation. He has been known to send finely crafted garments to his nephew—gifts [[being-vrldmylhrfnsvld|Vrildmýl]] wears awkwardly but with quiet appreciation.
+The City Tailors' Guild
+: Skraldthann holds a prestigious position and effectively shapes the guild's standards, though this creates resentment among other members.
+
+Elite Social Circles of Norgaad
+: He moves in the highest social strata and is welcome at noble gatherings where his opinions on aesthetics are treated as gospel.
+
+[[being-dvrnvrhrfnsvld|Dvarnvir Hrafnsvald]] (Brother)
+: Skraldthann's younger brother by eight years, a tentmaker in Vithgard. The two share the Hrafnsvald name and a talent for working with fabric, but that is where the similarities end. Skraldthann considers tentmaking a waste of genuine skill—[[being-dvrnvrhrfnsvld|Dvarnvir]] could have been a fine clothier if he hadn't squandered his youth soldiering. [[being-dvrnvrhrfnsvld|Dvarnvir]], for his part, views his brother's vanity and elitism with weary amusement. They correspond infrequently but with real affection, each quietly convinced the other chose the wrong life.
+
+[[being-vrldmylhrfnsvld|Vrildmýl Hrafnsvald]] (Nephew)
+: Skraldthann's nephew, the son of [[being-dvrnvrhrfnsvld|Dvarnvir]], a young militia sergeant in Vithgard. Skraldthann finds [[being-vrldmylhrfnsvld|Vrildmýl]]'s martial lifestyle coarse and unglamorous, yet feels a genuine familial pride in the young man's courage and rising reputation. He has been known to send finely crafted garments to his nephew—gifts [[being-vrldmylhrfnsvld|Vrildmýl]] wears awkwardly but with quiet appreciation.
 
 ## Plot Hooks
 

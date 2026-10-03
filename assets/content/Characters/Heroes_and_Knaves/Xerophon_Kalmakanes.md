@@ -469,19 +469,30 @@ Xerôphôn is motivated fundamentally by the belief that order is a prerequisite
 
 ### Patrons
 
-- **Commander Vâlaris of the City Watch**: The highest official in Moktur's law enforcement structure who values Xerôphôn's judgment and regularly defers to his recommendations regarding prison management.
-- **The Imperial Council of Moktur**: Various officials who have depended upon Xerôphôn's discretion and integrity in managing sensitive prisoners and classified matters.
-- **Magistrate Théodôr the Strict**: A justice official known for harsh sentencing who appreciates Xerôphôn's reliable implementation of punishment and consequence.
+Commander Vâlaris of the City Watch
+: The highest official in Moktur's law enforcement structure who values Xerôphôn's judgment and regularly defers to his recommendations regarding prison management.
+
+The Imperial Council of Moktur
+: Various officials who have depended upon Xerôphôn's discretion and integrity in managing sensitive prisoners and classified matters.
+
+Magistrate Théodôr the Strict
+: A justice official known for harsh sentencing who appreciates Xerôphôn's reliable implementation of punishment and consequence.
 
 ### Enemies
 
-- **Ferûn the Escaped**: A cunning prisoner who orchestrated an attempted escape eight years ago that resulted in the death of three guards. Though captured and returned, the incident damaged Xerôphôn's reputation for complete control, and Ferûn remains in the facility as a subtle ongoing insult to his authority.
-- **Warden Kasânder**: The political administrator appointed to manage the prison bureaucratically, a man who Xerôphôn views as incompetent and corrupt. They maintain an awkward relationship of mutual necessity while harboring deep disdain for one another.
-- **The Brotherhood of the Freed**: A criminal organization dedicated to liberating imprisoned members through violence, bribery, or escape. Xerôphôn has thwarted multiple attempts at incarcerated members' release, making him a known enemy to the organization.
+Ferûn the Escaped
+: A cunning prisoner who orchestrated an attempted escape eight years ago that resulted in the death of three guards. Though captured and returned, the incident damaged Xerôphôn's reputation for complete control, and Ferûn remains in the facility as a subtle ongoing insult to his authority.
+
+Warden Kasânder
+: The political administrator appointed to manage the prison bureaucratically, a man who Xerôphôn views as incompetent and corrupt. They maintain an awkward relationship of mutual necessity while harboring deep disdain for one another.
+
+The Brotherhood of the Freed
+: A criminal organization dedicated to liberating imprisoned members through violence, bribery, or escape. Xerôphôn has thwarted multiple attempts at incarcerated members' release, making him a known enemy to the organization.
 
 ### Affiliations
 
-- **The City Watch of Moktur**: Xerôphôn maintains formal affiliation with the Watch though he works primarily in the prison system, and his judgment on matters of law enforcement carries significant weight.
+The City Watch of Moktur
+: Xerôphôn maintains formal affiliation with the Watch though he works primarily in the prison system, and his judgment on matters of law enforcement carries significant weight.
 
 ## Plot Hooks
 

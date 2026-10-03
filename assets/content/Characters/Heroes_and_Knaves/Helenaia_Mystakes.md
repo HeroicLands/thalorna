@@ -485,31 +485,42 @@ At a deeper level, Hélénaia seeks to create beauty in a world filled with suff
 
 ### Patrons
 
-- **High Priestess Amara**: The spiritual leader of the temple recognizes Hélénaia as one of the priesthood's finest practitioners and has designated her as a primary advisor on matters of healing and community service.
+High Priestess Amara
+: The spiritual leader of the temple recognizes Hélénaia as one of the priesthood's finest practitioners and has designated her as a primary advisor on matters of healing and community service.
 
-- **The Citizens of the Byzarian League**: Through her healing work, Hélénaia has accumulated numerous grateful clients from across the social spectrum, from merchants to nobles to the poor.
+The Citizens of the Byzarian League
+: Through her healing work, Hélénaia has accumulated numerous grateful clients from across the social spectrum, from merchants to nobles to the poor.
 
-- **The Order of the Sacred Forge**: The priesthood as a whole views Hélénaia as one of their finest representatives and regularly recommends her services to those seeking spiritual counsel.
+The Order of the Sacred Forge
+: The priesthood as a whole views Hélénaia as one of their finest representatives and regularly recommends her services to those seeking spiritual counsel.
 
-- **Master Herbalist Lyrian**: An aging herbalist who has become something of a mentor figure to Hélénaia and who has taught her many of the healing practices that form the foundation of her work.
+Master Herbalist Lyrian
+: An aging herbalist who has become something of a mentor figure to Hélénaia and who has taught her many of the healing practices that form the foundation of her work.
 
 ### Enemies
 
-- **Bishop Theron**: A conservative religious figure who views Hélénaia's changes to ritual as heretical departures from proper practice and who works to limit her authority and influence.
+Bishop Theron
+: A conservative religious figure who views Hélénaia's changes to ritual as heretical departures from proper practice and who works to limit her authority and influence.
 
-- **The Merchant Syndicate**: A powerful merchant organization views the temple's healing work as interfering with their labor practices and profits and has occasionally worked against the temple's interests.
+The Merchant Syndicate
+: A powerful merchant organization views the temple's healing work as interfering with their labor practices and profits and has occasionally worked against the temple's interests.
 
-- **Lord Merchant Valdis**: A wealthy and politically connected merchant whose family has been damaged by Hélénaia's intervention in their affairs; he blames her for his daughter's decision to leave her husband and harbors deep resentment.
+Lord Merchant Valdis
+: A wealthy and politically connected merchant whose family has been damaged by Hélénaia's intervention in their affairs; he blames her for his daughter's decision to leave her husband and harbors deep resentment.
 
 ### Affiliations
 
-- **The Temple of the Sacred Forge**: Hélénaia is a priest in good standing and maintains a formal relationship with the priesthood.
+The Temple of the Sacred Forge
+: Hélénaia is a priest in good standing and maintains a formal relationship with the priesthood.
 
-- **The Byzarian League**: She is recognized throughout the league as one of its spiritual treasures and maintains relationships with leaders and common people alike.
+The Byzarian League
+: She is recognized throughout the league as one of its spiritual treasures and maintains relationships with leaders and common people alike.
 
-- **The Healing Circle**: An informal network of herbalists, physicians, and spiritual practitioners who collaborate on difficult cases and share knowledge.
+The Healing Circle
+: An informal network of herbalists, physicians, and spiritual practitioners who collaborate on difficult cases and share knowledge.
 
-- **The Order of Compassion**: A loose spiritual organization devoted to healing and service that Hélénaia actively supports and participates in.
+The Order of Compassion
+: A loose spiritual organization devoted to healing and service that Hélénaia actively supports and participates in.
 
 ## Plot Hooks
 

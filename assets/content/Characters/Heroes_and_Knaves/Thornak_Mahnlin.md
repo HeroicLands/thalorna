@@ -500,9 +500,14 @@ If Thornak can unlock the ancient power of the first Vrystwald ancestors, he hop
 
 ### Enemies
 
-- **Captain Varlan Keldros**: A southern military commander who has been leading expeditions into Vrystwald territory. Keldros views the Vrystwalds as backward savages standing in the way of civilization’s progress. His raids have been particularly destructive, and he has gained a reputation for cruelty, often executing captured Vrystwalds to instill fear.
-- **The Sons of Muspell**: This Vúlcanian cult seeks to cleanse the wildlands of Vrystwald influence, seeing their worship of nature spirits as heretical. The **Blazewarden Malekir** of the Sons has personally sworn to burn the Vrystwald forests to the ground and offer the tribe’s shamans as sacrifices to Vúlcan. Thornak has clashed with Malekir’s forces on several occasions, but the Vúlcanian forces are numerous and well-armed, making them a deadly threat.
-- **Sigulf the Crowcaller**: The tribe's shaman who believes that Thornak’s connection to the Boar Spirit is outdated and that the Vrystwalds must embrace a new path of survival through cunning and deception. Sigulf emphasizes his connection to the spirit world to create awe and fear in the tribespeople. While not an outright enemy yet, Sigulf’s growing power threatens Thornak’s ambition to lead the Mahnlin tribe and ultimately unite all the Vrystwald tribes under his leadership.
+Captain Varlan Keldros
+: A southern military commander who has been leading expeditions into Vrystwald territory. Keldros views the Vrystwalds as backward savages standing in the way of civilization’s progress. His raids have been particularly destructive, and he has gained a reputation for cruelty, often executing captured Vrystwalds to instill fear.
+
+The Sons of Muspell
+: This Vúlcanian cult seeks to cleanse the wildlands of Vrystwald influence, seeing their worship of nature spirits as heretical. The **Blazewarden Malekir** of the Sons has personally sworn to burn the Vrystwald forests to the ground and offer the tribe’s shamans as sacrifices to Vúlcan. Thornak has clashed with Malekir’s forces on several occasions, but the Vúlcanian forces are numerous and well-armed, making them a deadly threat.
+
+Sigulf the Crowcaller
+: The tribe's shaman who believes that Thornak’s connection to the Boar Spirit is outdated and that the Vrystwalds must embrace a new path of survival through cunning and deception. Sigulf emphasizes his connection to the spirit world to create awe and fear in the tribespeople. While not an outright enemy yet, Sigulf’s growing power threatens Thornak’s ambition to lead the Mahnlin tribe and ultimately unite all the Vrystwald tribes under his leadership.
 
 ## Plot Hooks
 

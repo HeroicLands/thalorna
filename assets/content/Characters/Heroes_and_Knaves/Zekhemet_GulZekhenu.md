@@ -486,21 +486,36 @@ Beneath these practical ambitions lies a deeper need: to prove that a woman can 
 
 ### Patrons
 
-- Merchant-Prince [[being-gezebari2|Gezebari]]: A wealthy trader in fine goods and spices who has worked exclusively with Zekhemet for a decade and considers her his most trusted business partner.
-- [[affiliation-lingthrglzkr|Lin'Githar elu Galezkara]]: A collective of textile producers who depend on Zekhemet to transport their goods to distant markets, and who have publicly praised her reliability.
-- **Gar-Qelti's Trading Interests**: A noble family with commercial holdings that value Zekhemet's discretion and reliability for sensitive shipments.
+Merchant-Prince [[being-gezebari2|Gezebari]]
+: A wealthy trader in fine goods and spices who has worked exclusively with Zekhemet for a decade and considers her his most trusted business partner.
+
+[[affiliation-lingthrglzkr|Lin'Githar elu Galezkara]]
+: A collective of textile producers who depend on Zekhemet to transport their goods to distant markets, and who have publicly praised her reliability.
+
+Gar-Qelti's Trading Interests
+: A noble family with commercial holdings that value Zekhemet's discretion and reliability for sensitive shipments.
 
 ### Enemies
 
-- **Captain Zezabu of the Kestrel**: A rival pilot whose ship was damaged in an incident where Zekhemet claims foul play occurred. Zezabu blames Zekhemet directly, creating a blood feud in the merchant community.
-- [[affiliation-garzulemu|Gar-Zulemu]]: Certain merchants and port officials have attempted repeatedly to involve Zekhemet in smuggling or bribery schemes. Her refusals have made her a target of resentment from those accustomed to moral flexibility.
-- **Market Pressures**: The rise of larger merchant consortiums attempting to undercut independent traders creates institutional opposition to her business model.
+Captain Zezabu of the Kestrel
+: A rival pilot whose ship was damaged in an incident where Zekhemet claims foul play occurred. Zezabu blames Zekhemet directly, creating a blood feud in the merchant community.
+
+[[affiliation-garzulemu|Gar-Zulemu]]
+: Certain merchants and port officials have attempted repeatedly to involve Zekhemet in smuggling or bribery schemes. Her refusals have made her a target of resentment from those accustomed to moral flexibility.
+
+Market Pressures
+: The rise of larger merchant consortiums attempting to undercut independent traders creates institutional opposition to her business model.
 
 ### Affiliations
 
-- [[affiliation-linigelkhlth|Lin'Igelu elu Aû'Khelâthu]]: Full member and contributor to the guild's safety standards and traditions.
-- [[affiliation-linzwrtglzk3|Lin'Zuwaret elu Galezkara]]: An informal association of independent traders who meet to share information and coordinate against larger commercial entities attempting to monopolize trade routes.
-- [[affiliation-lutthubai|The Lut-Thubâ'i]]: Devoted worshipper and regular contributor to the temple's charitable work supporting injured or disabled sailors.
+[[affiliation-linigelkhlth|Lin'Igelu elu Aû'Khelâthu]]
+: Full member and contributor to the guild's safety standards and traditions.
+
+[[affiliation-linzwrtglzk3|Lin'Zuwaret elu Galezkara]]
+: An informal association of independent traders who meet to share information and coordinate against larger commercial entities attempting to monopolize trade routes.
+
+[[affiliation-lutthubai|The Lut-Thubâ'i]]
+: Devoted worshipper and regular contributor to the temple's charitable work supporting injured or disabled sailors.
 
 ## Plot Hooks
 

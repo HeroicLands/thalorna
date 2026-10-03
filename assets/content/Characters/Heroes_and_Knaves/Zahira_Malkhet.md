@@ -488,20 +488,33 @@ Despite her skills and reputation, Zahira is not without doubts. She struggles w
 
 ### Patrons
 
-- **Dómissa Tázîtha of House Khalîthôn**: Zahira's first patron, the clan-matriarch who raised her out of the village levy into her own household guard and taught her the trade of arms. Though Zahira has long since left her service, the Dómissa remains a resource and an occasional advisor, and her word still opens doors among the lesser Houses of the southern cantons.
-- **Dómissa Othris of [[affiliation-bthntrdhss|House Othris-Khanu]]**: Matriarch of Bethûa's principal maritime House and Zahira's patron for the present hunt. Othris-Khanu's own dealings sit among the secrets in Rashîra's stolen rolls, and the Dómissa has thrown her ships, her captains, and her coin behind the pursuit—acting, it is understood, for the Court of the Veil. Her interest is real but not disinterested, and Zahira knows better than to assume their goals are identical.
-- **Mûnêtha of House Ghôlâris**: A rival thief-taker of real skill and Zahira's long-standing competitor for the richest contracts. The two have crossed paths often, sometimes as rivals and sometimes as wary allies; Mûnêtha respects Zahira's gifts and resents them in equal measure, and her help, when it comes, always carries a price and a hidden angle.
+Dómissa Tázîtha of House Khalîthôn
+: Zahira's first patron, the clan-matriarch who raised her out of the village levy into her own household guard and taught her the trade of arms. Though Zahira has long since left her service, the Dómissa remains a resource and an occasional advisor, and her word still opens doors among the lesser Houses of the southern cantons.
+
+Dómissa Othris of [[affiliation-bthntrdhss|House Othris-Khanu]]
+: Matriarch of Bethûa's principal maritime House and Zahira's patron for the present hunt. Othris-Khanu's own dealings sit among the secrets in Rashîra's stolen rolls, and the Dómissa has thrown her ships, her captains, and her coin behind the pursuit—acting, it is understood, for the Court of the Veil. Her interest is real but not disinterested, and Zahira knows better than to assume their goals are identical.
+
+Mûnêtha of House Ghôlâris
+: A rival thief-taker of real skill and Zahira's long-standing competitor for the richest contracts. The two have crossed paths often, sometimes as rivals and sometimes as wary allies; Mûnêtha respects Zahira's gifts and resents them in equal measure, and her help, when it comes, always carries a price and a hidden angle.
 
 ### Enemies
 
-- [[being-rshrhssfrn|Rashîra of House Safîrôn]]: Zahira's quarry—the renegade Grammatíssa who fled the Naukrátissa's office with the sealed Warrant-rolls. Once a trusted keeper of the realm's deepest naval secret, she is now its most dangerous fugitive: intelligent, well-connected, and carrying knowledge that powerful people on both shores of the [[place-vylarianse|Vylarian Sea]] would kill to control or to bury. She insists she is no traitor, but a woman fleeing a rot she could no longer serve.
-- [[being-casiaveric|Cassia Verric]]: The Vylarian agent working the same Marches—courting Rashîra toward a Vylarian handover, closing the roads east to keep the register from Aû'Khelâthu, and sabotaging Zahira's own hunt at every turn. To Vylaria a Bethûan recovery is the worst outcome of all, so Cassia means to see the Hound confused, misled, and delayed until the rolls are in imperial hands—though she is far too careful to be seen doing it.
-- **[[being-yasurajckl|Yâsûra the Jackal]] and her [[affiliation-jcklsthmrchs|Jackals of the South Marches]]**: A warband of the Houseless in the drylands beyond Bethûa's southern frontier, led by an exiled spear-sister who blames Zahira—rightly—for her ruin. Years ago a hunt of Zahira's turned bloody on Yâsûra's own ground and brought about her disgrace, the loss of her House, and her exile from the matriarchy; the renegade has nursed the grudge ever since, and made of Bethûa's castoffs a power that owes the realm nothing. Answerable to no Dómissa, the Jackals sell their blades to whoever pays—and Rashîra's protectors have coin enough to set them on Zahira's trail.
+[[being-rshrhssfrn|Rashîra of House Safîrôn]]
+: Zahira's quarry—the renegade Grammatíssa who fled the Naukrátissa's office with the sealed Warrant-rolls. Once a trusted keeper of the realm's deepest naval secret, she is now its most dangerous fugitive: intelligent, well-connected, and carrying knowledge that powerful people on both shores of the [[place-vylarianse|Vylarian Sea]] would kill to control or to bury. She insists she is no traitor, but a woman fleeing a rot she could no longer serve.
+
+[[being-casiaveric|Cassia Verric]]
+: The Vylarian agent working the same Marches—courting Rashîra toward a Vylarian handover, closing the roads east to keep the register from Aû'Khelâthu, and sabotaging Zahira's own hunt at every turn. To Vylaria a Bethûan recovery is the worst outcome of all, so Cassia means to see the Hound confused, misled, and delayed until the rolls are in imperial hands—though she is far too careful to be seen doing it.
+
+[[being-yasurajckl|Yâsûra the Jackal]] and her [[affiliation-jcklsthmrchs|Jackals of the South Marches]]
+: A warband of the Houseless in the drylands beyond Bethûa's southern frontier, led by an exiled spear-sister who blames Zahira—rightly—for her ruin. Years ago a hunt of Zahira's turned bloody on Yâsûra's own ground and brought about her disgrace, the loss of her House, and her exile from the matriarchy; the renegade has nursed the grudge ever since, and made of Bethûa's castoffs a power that owes the realm nothing. Answerable to no Dómissa, the Jackals sell their blades to whoever pays—and Rashîra's protectors have coin enough to set them on Zahira's trail.
 
 ### Affiliations
 
-- [[being-laylamarut|Layla Marut, the Merchant Princess]]: [[being-laylamarut|Layla]] and Zahira met when Zahira was hired by Layla's trading clan to recover goods stolen from one of their caravans. Taken with Zahira's nerve and skill, the restless daughter of the House talked her family into letting her ride along—trading the gilded cage of a Bethûan trade-clan's expectations for the road, and bringing her web of mercantile contacts and her sharp tongue to Zahira's hunts.
-- [[being-narisahrvn|Nari Sahravân, the Desert Mystic]]: A far-wandering mystic and healer of the deep [[place-khzryndsrtrgn|Khazryn]], drawn across the world by visions toward a thread she could not name. She and Zahira met in the southern Mídhalion borderlands—a vision had carried Nari there, a hunt had carried Zahira—and [[being-narisahrvn|Nari]]'s craft saved Zahira from a mortal wound. She travels with Zahira to learn why her sight binds them, lending her knowledge of the wilds, her visions, and her healer's hands; and she makes no secret of how much of Bethûa, and what it does to its men, unsettles her.
+[[being-laylamarut|Layla Marut, the Merchant Princess]]
+: [[being-laylamarut|Layla]] and Zahira met when Zahira was hired by Layla's trading clan to recover goods stolen from one of their caravans. Taken with Zahira's nerve and skill, the restless daughter of the House talked her family into letting her ride along—trading the gilded cage of a Bethûan trade-clan's expectations for the road, and bringing her web of mercantile contacts and her sharp tongue to Zahira's hunts.
+
+[[being-narisahrvn|Nari Sahravân, the Desert Mystic]]
+: A far-wandering mystic and healer of the deep [[place-khzryndsrtrgn|Khazryn]], drawn across the world by visions toward a thread she could not name. She and Zahira met in the southern Mídhalion borderlands—a vision had carried Nari there, a hunt had carried Zahira—and [[being-narisahrvn|Nari]]'s craft saved Zahira from a mortal wound. She travels with Zahira to learn why her sight binds them, lending her knowledge of the wilds, her visions, and her healer's hands; and she makes no secret of how much of Bethûa, and what it does to its men, unsettles her.
 
 ## Plot Hooks
 

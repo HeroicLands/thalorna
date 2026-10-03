@@ -460,18 +460,27 @@ Akákios is driven by a desire to leave a mark upon his craft that transcends a 
 
 ### Patrons
 
-- **Captain Merillos**: The merchant captain who trained him in youth and remains his closest professional contact, regularly requesting Akákios for important commissions and vouching for his reliability to other vessel owners.
-- **Merchant House Polytimós**: A trading concern that occasionally employs him for high-value cargo transport, respecting the family name connection and the competence he represents.
-- **The Harbor Master of Thessálon**: A bureaucrat who values Akákios's honest assessments of vessel condition and occasionally redirects ship repair contracts his way.
+Captain Merillos
+: The merchant captain who trained him in youth and remains his closest professional contact, regularly requesting Akákios for important commissions and vouching for his reliability to other vessel owners.
+
+Merchant House Polytimós
+: A trading concern that occasionally employs him for high-value cargo transport, respecting the family name connection and the competence he represents.
+
+The Harbor Master of Thessálon
+: A bureaucrat who values Akákios's honest assessments of vessel condition and occasionally redirects ship repair contracts his way.
 
 ### Enemies
 
-- **Pirate Captain Vorios**: A former rival from years past who commands a small corsair band preying on League merchant vessels. Vorios views Akákios as the one who got away from his crew, and harbors resentment over a failed recruitment attempt.
-- **The Shipwright's Consortium**: A loosely organized group of established timber workers and shipwrights who view independent specialists like Akákios as undercutting their guild-negotiated wages.
+Pirate Captain Vorios
+: A former rival from years past who commands a small corsair band preying on League merchant vessels. Vorios views Akákios as the one who got away from his crew, and harbors resentment over a failed recruitment attempt.
+
+The Shipwright's Consortium
+: A loosely organized group of established timber workers and shipwrights who view independent specialists like Akákios as undercutting their guild-negotiated wages.
 
 ### Affiliations
 
-- **Byzarian Seafarers' Loose Network**: Not a formal guild, but an informal association of merchant sailors and shipworkers who share information about reliable captains, dangerous routes, and available work.
+Byzarian Seafarers' Loose Network
+: Not a formal guild, but an informal association of merchant sailors and shipworkers who share information about reliable captains, dangerous routes, and available work.
 
 ## Plot Hooks
 

@@ -474,21 +474,27 @@ Pallàvi's primary drive is the integration of beauty and meaning. She believes 
 
 ### Patrons
 
-- **The Temple of Vyālendra**: The priesthood of her patron deity regularly commissions her to create sacred texts and illuminated prayers. They trust her spiritual understanding and have made her something of an unofficial artist-in-residence.
+The Temple of Vyālendra
+: The priesthood of her patron deity regularly commissions her to create sacred texts and illuminated prayers. They trust her spiritual understanding and have made her something of an unofficial artist-in-residence.
 
-- **The Merchants' Cooperative**: Wealthy merchants regularly commission elaborate documents from her—contracts rendered beautifully, ledgers transformed into works of art, gifts to business partners that demonstrate their refinement and taste.
+The Merchants' Cooperative
+: Wealthy merchants regularly commission elaborate documents from her—contracts rendered beautifully, ledgers transformed into works of art, gifts to business partners that demonstrate their refinement and taste.
 
-- **Master Kîrtidhéva**: Though now very elderly and no longer accepting commissions, her former teacher remains her most trusted advisor and occasional patron. He occasionally requests that she copy texts of personal spiritual significance.
+Master Kîrtidhéva
+: Though now very elderly and no longer accepting commissions, her former teacher remains her most trusted advisor and occasional patron. He occasionally requests that she copy texts of personal spiritual significance.
 
-- **The Guild of Scribes**: The guild leadership, despite their sometimes fraught relationship with her, regularly commissions official documents, certificates of apprenticeship, and formal records that require her distinctive touch.
+The Guild of Scribes
+: The guild leadership, despite their sometimes fraught relationship with her, regularly commissions official documents, certificates of apprenticeship, and formal records that require her distinctive touch.
 
 ### Enemies
 
-- **Master Yajña, Conservative Guild Elder**: A powerful senior figure in the Scribes' Guild, Yajña represents the traditionalist faction. He views Pallàvi's new forms as disrespectful to the classical traditions and has begun to publicly criticize her work as "frivolous decoration" that obscures rather than serves the text. He has subtle support from other conservatives, and there is quiet conflict over whether the guild should encourage new forms or preserve traditional forms.
+Master Yajña, Conservative Guild Elder
+: A powerful senior figure in the Scribes' Guild, Yajña represents the traditionalist faction. He views Pallàvi's new forms as disrespectful to the classical traditions and has begun to publicly criticize her work as "frivolous decoration" that obscures rather than serves the text. He has subtle support from other conservatives, and there is quiet conflict over whether the guild should encourage new forms or preserve traditional forms.
 
 ### Affiliations
 
-- **The Scribes' Guild of Dharmapur**: Pallàvi is a full member of the guild and holds certain official responsibilities, though her relationship with the organization is complex due to her unorthodox approaches and the conservative faction's criticism.
+The Scribes' Guild of Dharmapur
+: Pallàvi is a full member of the guild and holds certain official responsibilities, though her relationship with the organization is complex due to her unorthodox approaches and the conservative faction's criticism.
 
 ## Plot Hooks
 

@@ -481,23 +481,30 @@ Beyond the creative satisfaction, Paryan is also motivated by a desire for recog
 
 ### Patrons
 
-- **The Royal Family of Amradad**: Several members of the royal family have commissioned pieces from Paryan, and her work is displayed in the royal treasury. Their patronage has significantly elevated her status.
+The Royal Family of Amradad
+: Several members of the royal family have commissioned pieces from Paryan, and her work is displayed in the royal treasury. Their patronage has significantly elevated her status.
 
-- **Master Dhavani**: Her former teacher, now semi-retired, continues to be her most trusted advisor and occasional patron. Dhavani commissions personal pieces from her and advocates for her work among the elite collectors she knows.
+Master Dhavani
+: Her former teacher, now semi-retired, continues to be her most trusted advisor and occasional patron. Dhavani commissions personal pieces from her and advocates for her work among the elite collectors she knows.
 
-- **The Jewelers' Guild**: While Paryan maintains an independent workshop, the guild occasionally commissions her to create pieces for official purposes or to contribute work to guild exhibitions and demonstrations.
+The Jewelers' Guild
+: While Paryan maintains an independent workshop, the guild occasionally commissions her to create pieces for official purposes or to contribute work to guild exhibitions and demonstrations.
 
-- **Wealthy Collectors and Merchants**: A growing circle of affluent patrons commission her work for personal collection or as gifts. These clients appreciate her originality and are willing to pay premium prices for her distinctive designs.
+Wealthy Collectors and Merchants
+: A growing circle of affluent patrons commission her work for personal collection or as gifts. These clients appreciate her originality and are willing to pay premium prices for her distinctive designs.
 
 ### Enemies
 
-- **Master Farrokh, Conservative Guild Master**: A senior figure in the Jewelers' Guild who represents the traditionalist faction, Farrokh views Paryan's experimental approaches as disrespectful to established conventions. He has subtly opposed her rise within the guild and spreads criticism that her work, while beautiful, lacks "true classical foundation." The two have never had direct conflict, but there is clear tension between them.
+Master Farrokh, Conservative Guild Master
+: A senior figure in the Jewelers' Guild who represents the traditionalist faction, Farrokh views Paryan's experimental approaches as disrespectful to established conventions. He has subtly opposed her rise within the guild and spreads criticism that her work, while beautiful, lacks "true classical foundation." The two have never had direct conflict, but there is clear tension between them.
 
 ### Affiliations
 
-- **The Jewelers' Guild of Amradad**: Paryan is a full member and recognized master of the guild, though her unorthodox approaches sometimes create tension with the more conservative elements of the organization.
+The Jewelers' Guild of Amradad
+: Paryan is a full member and recognized master of the guild, though her unorthodox approaches sometimes create tension with the more conservative elements of the organization.
 
-- **The Artisans' Collective**: Paryan maintains informal connections with other master craftspeople across multiple disciplines—sculptors, textile workers, potters—through a loose association of like-minded artisans who support and inspire each other's work.
+The Artisans' Collective
+: Paryan maintains informal connections with other master craftspeople across multiple disciplines—sculptors, textile workers, potters—through a loose association of like-minded artisans who support and inspire each other's work.
 
 ## Plot Hooks
 

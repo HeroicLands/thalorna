@@ -481,23 +481,30 @@ Linta seeks to test herself against increasingly difficult challenges, driven by
 
 ### Patrons
 
-- Merchant Prince [[being-walrthqltlft|Walrethu Qelt'Lefetu]]: A shrewd and successful trader who employs Linta as his primary scout and caravan guard. He pays extremely well and respects her independence, making him her most consistent patron. Qelt'Lefetu trusts Linta's judgment implicitly and often acts on her tactical recommendations.
+Merchant Prince [[being-walrthqltlft|Walrethu Qelt'Lefetu]]
+: A shrewd and successful trader who employs Linta as his primary scout and caravan guard. He pays extremely well and respects her independence, making him her most consistent patron. Qelt'Lefetu trusts Linta's judgment implicitly and often acts on her tactical recommendations.
 
-- **Caravan Master Thoren the Keen-Eyed**: Her early mentor who first hired her as a porter, Thoren remains a friend and occasional employer. Though he rarely travels the trade routes himself anymore, managing a large operation from his warehouse in the capital, he recommends Linta to other caravan masters seeking reliable protection.
+Caravan Master Thoren the Keen-Eyed
+: Her early mentor who first hired her as a porter, Thoren remains a friend and occasional employer. Though he rarely travels the trade routes himself anymore, managing a large operation from his warehouse in the capital, he recommends Linta to other caravan masters seeking reliable protection.
 
-- [[affiliation-linqeztkhlth|Lin'Qeztu elu Aû'Khelâthu]]: The formal institution that recognizes her as a guard and provides a steady stream of work. Guild contacts occasionally request her specifically for high-value or dangerous routes.
+[[affiliation-linqeztkhlth|Lin'Qeztu elu Aû'Khelâthu]]
+: The formal institution that recognizes her as a guard and provides a steady stream of work. Guild contacts occasionally request her specifically for high-value or dangerous routes.
 
 ### Enemies
 
-- [[affiliation-wagalu|The Wagalu]]: A bandit gang that has plagued the southern trade routes for three years. Their leader, **Kraed Hardscale**, harbors deep resentment toward Linta after she foiled six separate robbery attempts, twice escaping their ambushes with minimal losses. Kraed has sworn a blood oath to kill her.
+[[affiliation-wagalu|The Wagalu]]
+: A bandit gang that has plagued the southern trade routes for three years. Their leader, **Kraed Hardscale**, harbors deep resentment toward Linta after she foiled six separate robbery attempts, twice escaping their ambushes with minimal losses. Kraed has sworn a blood oath to kill her.
 
-- **Scout Malachar**: A rival scout employed by competing merchant houses who views Linta as a threat to his own livelihood. He spreads rumors about her recklessness and has twice attempted to sabotage her caravans, though he lacks Linta's skill and has always been caught.
+Scout Malachar
+: A rival scout employed by competing merchant houses who views Linta as a threat to his own livelihood. He spreads rumors about her recklessness and has twice attempted to sabotage her caravans, though he lacks Linta's skill and has always been caught.
 
 ### Affiliations
 
-- **Mercenaries' Guild of Aû'Khelâthu**: The primary organization that regulates her work and provides access to jobs. She maintains good standing and is considered one of the guild's most valuable members.
+Mercenaries' Guild of Aû'Khelâthu
+: The primary organization that regulates her work and provides access to jobs. She maintains good standing and is considered one of the guild's most valuable members.
 
-- [[affiliation-linzwrtqltlf|Lin'Zuwaret elu Qelt'Lefetu]]: Informal affiliation with Merchant Prince Qelt'Lefetu's extensive trade network, giving her access to supplies, safe houses, and information along the major trade routes.
+[[affiliation-linzwrtqltlf|Lin'Zuwaret elu Qelt'Lefetu]]
+: Informal affiliation with Merchant Prince Qelt'Lefetu's extensive trade network, giving her access to supplies, safe houses, and information along the major trade routes.
 
 ## Plot Hooks
 

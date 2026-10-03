@@ -470,22 +470,39 @@ Khârânah is driven by a dual vision: to elevate the art of perfumery to its hi
 
 ### Patrons
 
-- **Lord Fâhir of House Kaza**: A wealthy merchant lord who has commissioned exclusive fragrances for his household for five years. He values her judgment and occasionally asks her counsel on matters of trade policy.
-- **The Temple of Āhúrdáén**: The priesthood regularly commissions liturgical scents and offerings. They view her as a keeper of sacred tradition and seek her perspective on matters of spiritual significance.
-- **Master Healers of Ashkarad**: The city's physicians and herbalists purchase rare essences from Khârânah and value her knowledge of plant properties for their own healing work.
-- **Merchant Caravans**: Various caravan masters rely on her to source specialty materials and preserve valuable goods through her scent-preservation techniques.
+Lord Fâhir of House Kaza
+: A wealthy merchant lord who has commissioned exclusive fragrances for his household for five years. He values her judgment and occasionally asks her counsel on matters of trade policy.
+
+The Temple of Āhúrdáén
+: The priesthood regularly commissions liturgical scents and offerings. They view her as a keeper of sacred tradition and seek her perspective on matters of spiritual significance.
+
+Master Healers of Ashkarad
+: The city's physicians and herbalists purchase rare essences from Khârânah and value her knowledge of plant properties for their own healing work.
+
+Merchant Caravans
+: Various caravan masters rely on her to source specialty materials and preserve valuable goods through her scent-preservation techniques.
 
 ### Enemies
 
-- **Mâkûth the Synthetic**: A rival perfumer who has embraced cheap synthetic alternatives and undercuts Khârânah's prices. He views her as a sanctimonious obstacle to progress and spreads rumors about her business practices.
-- [[affiliation-linleghargzr|Lin'Legharu elu Gezru]]: A loose association of merchants who exploit rare plant species for quick profit. They see Khârânah's conservation efforts as a direct threat to their profits and have attempted to undercut her suppliers.
-- **Rival Guild Masters**: A few jealous artisans within the Artisans' Guild view her rise as a stain on their own reputations and work subtly to exclude her from prestigious commissions.
+Mâkûth the Synthetic
+: A rival perfumer who has embraced cheap synthetic alternatives and undercuts Khârânah's prices. He views her as a sanctimonious obstacle to progress and spreads rumors about her business practices.
+
+[[affiliation-linleghargzr|Lin'Legharu elu Gezru]]
+: A loose association of merchants who exploit rare plant species for quick profit. They see Khârânah's conservation efforts as a direct threat to their profits and have attempted to undercut her suppliers.
+
+Rival Guild Masters
+: A few jealous artisans within the Artisans' Guild view her rise as a stain on their own reputations and work subtly to exclude her from prestigious commissions.
 
 ### Affiliations
 
-- **Artisans' Guild of Ashkarad**: A full member and respected voice in matters concerning craft quality and ethical standards.
-- **The Green Covenant**: A loose informal network of craftspeople and merchants dedicated to harvesting with restraint in the Khazryn Desert.
-- **Temple of Āhúrdáén**: Regular contributor of liturgical scents and consulted as a crafts-keeper of sacred tradition.
+Artisans' Guild of Ashkarad
+: A full member and respected voice in matters concerning craft quality and ethical standards.
+
+The Green Covenant
+: A loose informal network of craftspeople and merchants dedicated to harvesting with restraint in the Khazryn Desert.
+
+Temple of Āhúrdáén
+: Regular contributor of liturgical scents and consulted as a crafts-keeper of sacred tradition.
 
 ## Plot Hooks
 

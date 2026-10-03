@@ -462,21 +462,36 @@ Hvarnthann sails because it is what he is—the sea is his whole self as well as
 
 ### Patrons
 
-- **Captain Thorgrim Ironhull**: A grizzled merchant captain whose aging vessel has become famous across the northern routes. He brings Hvarnthann aboard whenever his schedule allows, calling him "the best navigator in Vithgard's service." Thorgrim has twice promoted Hvarnthann to first mate, though Hvarnthann has refused permanent rank.
-- **Merchant Princess Astrid Gylvedóttir**: A wealthy trading magnate who contracts sailors for her extensive merchant fleet. She has offered Hvarnthann command of her flagship multiple times, recognizing his value and offering wages that would set him for life. His refusals perplex and intrigue her.
-- **The Fishermen's Collective of Hrandstead**: Local fishing masters who regularly hire Hvarnthann for particularly dangerous catches or rescue operations. They consider him family and see that he always has work.
-- **The Lighthouse Order**: Keepers of navigational beacons along Vithgard's coast. They maintain informal communication with Hvarnthann, warning of hazardous conditions and occasionally requesting specific intelligence about distant waters.
+Captain Thorgrim Ironhull
+: A grizzled merchant captain whose aging vessel has become famous across the northern routes. He brings Hvarnthann aboard whenever his schedule allows, calling him "the best navigator in Vithgard's service." Thorgrim has twice promoted Hvarnthann to first mate, though Hvarnthann has refused permanent rank.
+
+Merchant Princess Astrid Gylvedóttir
+: A wealthy trading magnate who contracts sailors for her extensive merchant fleet. She has offered Hvarnthann command of her flagship multiple times, recognizing his value and offering wages that would set him for life. His refusals perplex and intrigue her.
+
+The Fishermen's Collective of Hrandstead
+: Local fishing masters who regularly hire Hvarnthann for particularly dangerous catches or rescue operations. They consider him family and see that he always has work.
+
+The Lighthouse Order
+: Keepers of navigational beacons along Vithgard's coast. They maintain informal communication with Hvarnthann, warning of hazardous conditions and occasionally requesting specific intelligence about distant waters.
 
 ### Enemies
 
-- **Harbormaster Hrandvir Hvalgendikh**: An official charged with the ordering of the port in Vithgard's capital. Hrandvir views Hvarnthann as a troublemaker who flouts maritime law and encourages crew insubordination. Their conflicts are frequent and bitter.
-- **Captain Driskvir Thraldarukh**: A rival sailor who captains a merchant vessel and views Hvarnthann as competition for the most prestigious contracts. Driskvir has twice maneuvered to undercut Hvarnthann's negotiations through lies and political leverage.
-- **The Smugglers' Network**: Criminal elements operating across the Vithgard coast view Hvarnthann as a threat because he occasionally reports suspicious activity to maritime authorities and refuses to accept smuggling contracts regardless of payment.
+Harbormaster Hrandvir Hvalgendikh
+: An official charged with the ordering of the port in Vithgard's capital. Hrandvir views Hvarnthann as a troublemaker who flouts maritime law and encourages crew insubordination. Their conflicts are frequent and bitter.
+
+Captain Driskvir Thraldarukh
+: A rival sailor who captains a merchant vessel and views Hvarnthann as competition for the most prestigious contracts. Driskvir has twice maneuvered to undercut Hvarnthann's negotiations through lies and political leverage.
+
+The Smugglers' Network
+: Criminal elements operating across the Vithgard coast view Hvarnthann as a threat because he occasionally reports suspicious activity to maritime authorities and refuses to accept smuggling contracts regardless of payment.
 
 ### Affiliations
 
-- **The Seafarers' Guild of Vithgard**: Though maintaining independence, Hvarnthann is a registered member in good standing, benefiting from the guild's information networks about routes, hazards, and available work.
-- **The Crew of the _Stormrider_**: Though not officially organized, Hvarnthann maintains bonds with the rotating crew of his preferred vessel, and they actively seek his continued involvement in their ventures.
+The Seafarers' Guild of Vithgard
+: Though maintaining independence, Hvarnthann is a registered member in good standing, benefiting from the guild's information networks about routes, hazards, and available work.
+
+The Crew of the _Stormrider_
+: Though not officially organized, Hvarnthann maintains bonds with the rotating crew of his preferred vessel, and they actively seek his continued involvement in their ventures.
 
 ## Plot Hooks
 

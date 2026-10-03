@@ -469,17 +469,24 @@ Kassándria's deepest motivation flows from a conviction that the decline of the
 
 ### Patrons
 
-- **Lord Mikhael Verath**: A Byzarian nobleman of mysterious motivations and connections who has funded Kassándria's expeditions for the past three years. Their relationship is transactional but cordial; **Verath** provides substantial resources—both gold and access to restricted locations—in exchange for copies of all significant discoveries and first right of refusal on any artifacts recovered. His true interests and the source of his wealth remain obscure, and Kassándria has begun to wonder whether his patronage is scholarly enthusiasm or something more calculated.
-- **Praelatus Aleksandr of the Zephäris Sodalitas**: The elderly senior master of the Panepistemium in Byzaris who mentored her in her early years and continues to defend her controversial theories against institutional pressure from more conservative factions. His support has been crucial to her institutional survival, though he increasingly urges her toward "more orthodox" lines of inquiry.
+Lord Mikhael Verath
+: A Byzarian nobleman of mysterious motivations and connections who has funded Kassándria's expeditions for the past three years. Their relationship is transactional but cordial; **Verath** provides substantial resources—both gold and access to restricted locations—in exchange for copies of all significant discoveries and first right of refusal on any artifacts recovered. His true interests and the source of his wealth remain obscure, and Kassándria has begun to wonder whether his patronage is scholarly enthusiasm or something more calculated.
+
+Praelatus Aleksandr of the Zephäris Sodalitas
+: The elderly senior master of the Panepistemium in Byzaris who mentored her in her early years and continues to defend her controversial theories against institutional pressure from more conservative factions. His support has been crucial to her institutional survival, though he increasingly urges her toward "more orthodox" lines of inquiry.
 
 ### Enemies
 
-- **Magister Prokopáhr Varthis**: A conservative member of the Sodalitas Physéra whose theoretical work on the stability of ancient magical foundations Kassándria publicly discredited in print five years ago, devastating his reputation and prospects. **Varthis** has spent those years cultivating allies within the Epistemium's leadership, gathering what he claims is evidence of dangerous methodological flaws in her work and mounting a systematic campaign to discredit her scholarship. His vendetta has evolved from academic disagreement into something more personal and institutional.
-- **The Keepers of the Sealed Archive**: A loosely organized but influential faction within the Epistemium's leadership—drawn from multiple Sodalitates but dominated by the Sodalitas Sidéros (Metal) with its emphasis on order, binding, and control—that views Kassándria's research into hidden magical knowledge as dangerous and potentially heretical. They believe that certain knowledge was deliberately sealed away by the ancients for good reason, and that her work risks unleashing forces that should remain bound. They have begun to lobby for formal restrictions on her access to restricted texts.
+Magister Prokopáhr Varthis
+: A conservative member of the Sodalitas Physéra whose theoretical work on the stability of ancient magical foundations Kassándria publicly discredited in print five years ago, devastating his reputation and prospects. **Varthis** has spent those years cultivating allies within the Epistemium's leadership, gathering what he claims is evidence of dangerous methodological flaws in her work and mounting a systematic campaign to discredit her scholarship. His vendetta has evolved from academic disagreement into something more personal and institutional.
+
+The Keepers of the Sealed Archive
+: A loosely organized but influential faction within the Epistemium's leadership—drawn from multiple Sodalitates but dominated by the Sodalitas Sidéros (Metal) with its emphasis on order, binding, and control—that views Kassándria's research into hidden magical knowledge as dangerous and potentially heretical. They believe that certain knowledge was deliberately sealed away by the ancients for good reason, and that her work risks unleashing forces that should remain bound. They have begun to lobby for formal restrictions on her access to restricted texts.
 
 ### Affiliations
 
-- **Panepistemium**: Her official membership and primary institutional affiliation, though her relationship with the organization has grown increasingly complicated as her theories gain both devoted followers among younger scholars and vehement opponents among the conservative leadership. Her tenure is no longer secure, and she is acutely aware that powerful figures within the Epistemium now view her work as a threat to institutional stability and orthodox doctrine.
+Panepistemium
+: Her official membership and primary institutional affiliation, though her relationship with the organization has grown increasingly complicated as her theories gain both devoted followers among younger scholars and vehement opponents among the conservative leadership. Her tenure is no longer secure, and she is acutely aware that powerful figures within the Epistemium now view her work as a threat to institutional stability and orthodox doctrine.
 
 ## Plot Hooks
 

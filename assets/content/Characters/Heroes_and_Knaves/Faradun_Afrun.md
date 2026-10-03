@@ -461,20 +461,33 @@ Faradûn's primary motivation is to maintain his reputation as a reliable transp
 
 ### Patrons
 
-- **Merchant Lord Vashir**: One of the most prominent trading masters in the Sultanate has employed Faradûn repeatedly and trusts him with valuable cargo; Vashir actively recommends him to other merchants.
-- **The Merchants' Consortium of the Eastern Roads**: A formal organization of wealthy traders maintains Faradûn on contract for important shipments and considers him one of their most valued contractors.
-- **Stablemaster Khorvan**: The master of the central waystation relies on Faradûn to bring in animals and goods, and the two have developed a genuine friendship despite their different temperaments.
+Merchant Lord Vashir
+: One of the most prominent trading masters in the Sultanate has employed Faradûn repeatedly and trusts him with valuable cargo; Vashir actively recommends him to other merchants.
+
+The Merchants' Consortium of the Eastern Roads
+: A formal organization of wealthy traders maintains Faradûn on contract for important shipments and considers him one of their most valued contractors.
+
+Stablemaster Khorvan
+: The master of the central waystation relies on Faradûn to bring in animals and goods, and the two have developed a genuine friendship despite their different temperaments.
 
 ### Enemies
 
-- **The Crimson Crag Bandits**: A well-organized band of brigands that operates along the eastern routes has repeatedly targeted Faradûn's wagons; their leader, a scarred woman called **Kela the Knife**, has marked him as a particular enemy for foiling her ambushes.
-- **Rival Teamster Gazren**: A unscrupulous competitor who undercuts prices through unsafe practices and harbors deep resentment toward Faradûn's success and reputation. Gazren occasionally sabotages Faradûn's wagons or spreads lies about his reliability.
-- **Merchant Overlord Shassik**: A wealthy trader whom Faradûn once refused to transport goods for (due to suspicions about their nature) has harbored a grudge and occasionally works to interfere with Faradûn's contracts.
+The Crimson Crag Bandits
+: A well-organized band of brigands that operates along the eastern routes has repeatedly targeted Faradûn's wagons; their leader, a scarred woman called **Kela the Knife**, has marked him as a particular enemy for foiling her ambushes.
+
+Rival Teamster Gazren
+: A unscrupulous competitor who undercuts prices through unsafe practices and harbors deep resentment toward Faradûn's success and reputation. Gazren occasionally sabotages Faradûn's wagons or spreads lies about his reliability.
+
+Merchant Overlord Shassik
+: A wealthy trader whom Faradûn once refused to transport goods for (due to suspicions about their nature) has harbored a grudge and occasionally works to interfere with Faradûn's contracts.
 
 ### Affiliations
 
-- **The Teamsters' Guild of Amradad**: Faradûn maintains an active position within this organization and is respected for his adherence to its codes and standards.
-- **The Waystation Keepers' Brotherhood**: An informal network of those who maintain rest stops and supply depots along the major routes; Faradûn networks with this group and assists them when possible.
+The Teamsters' Guild of Amradad
+: Faradûn maintains an active position within this organization and is respected for his adherence to its codes and standards.
+
+The Waystation Keepers' Brotherhood
+: An informal network of those who maintain rest stops and supply depots along the major routes; Faradûn networks with this group and assists them when possible.
 
 ## Plot Hooks
 

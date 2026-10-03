@@ -466,20 +466,33 @@ More subtly, Sâbir seeks to prove that mastery in a craft considered humble or 
 
 ### Patrons
 
-- **Master Smith Khardun**: A renowned metalworker whose forges exclusively use Sâbir's charcoal and who has publicly praised his work, creating demand among other smiths seeking the "Âjira advantage."
-- **The Confederation's Arsenal**: The state military purchasing authority regularly commissions Sâbir's charcoal for weapons production, providing steady if not always punctual income.
-- **Merchant-Artificer Sornak**: A dealer in high-quality tools and materials who maintains exclusive distribution rights to Sâbir's premium charcoal in three provinces.
+Master Smith Khardun
+: A renowned metalworker whose forges exclusively use Sâbir's charcoal and who has publicly praised his work, creating demand among other smiths seeking the "Âjira advantage."
+
+The Confederation's Arsenal
+: The state military purchasing authority regularly commissions Sâbir's charcoal for weapons production, providing steady if not always punctual income.
+
+Merchant-Artificer Sornak
+: A dealer in high-quality tools and materials who maintains exclusive distribution rights to Sâbir's premium charcoal in three provinces.
 
 ### Enemies
 
-- **The Bulk Producers**: A consortium of larger charcoaling operations views Sâbir's premium methods and higher prices as a threat to their market dominance. They have begun spreading rumors about his reliability and attempting to poach his key clients.
-- **Market Pressure**: The Confederation's rapid industrialization demands ever-larger quantities of charcoal, and many officials view Sâbir's refusal to scale production as an obstruction to progress.
-- **Rival Craftsman Voth**: Another charcoaler who attempted to copy Sâbir's methods but failed to achieve comparable results. Voth publicly claims Sâbir guards proprietary secrets rather than admitting his own inferiority.
+The Bulk Producers
+: A consortium of larger charcoaling operations views Sâbir's premium methods and higher prices as a threat to their market dominance. They have begun spreading rumors about his reliability and attempting to poach his key clients.
+
+Market Pressure
+: The Confederation's rapid industrialization demands ever-larger quantities of charcoal, and many officials view Sâbir's refusal to scale production as an obstruction to progress.
+
+Rival Craftsman Voth
+: Another charcoaler who attempted to copy Sâbir's methods but failed to achieve comparable results. Voth publicly claims Sâbir guards proprietary secrets rather than admitting his own inferiority.
 
 ### Affiliations
 
-- **Charcoalers' Guild of the Kalihara Confederation**: Member and standard-bearer of quality standards, though increasingly at odds with the guild's push toward mass production.
-- **The Order of Vúlcan's Flame**: A semi-religious society of craftspeople who work with fire, from smiths to brewers, where Sâbir maintains a contemplative presence.
+Charcoalers' Guild of the Kalihara Confederation
+: Member and standard-bearer of quality standards, though increasingly at odds with the guild's push toward mass production.
+
+The Order of Vúlcan's Flame
+: A semi-religious society of craftspeople who work with fire, from smiths to brewers, where Sâbir maintains a contemplative presence.
 
 ## Plot Hooks
 

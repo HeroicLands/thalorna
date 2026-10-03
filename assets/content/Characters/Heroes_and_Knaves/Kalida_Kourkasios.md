@@ -462,19 +462,30 @@ Kalída is driven by a vision of pushing the boundaries of what pottery can be�
 
 ### Patrons
 
-- **Lord Archon Theodorus**: A wealthy collector and patron of the arts who has commissioned several major pieces and provides her with occasional capital for experiments.
-- **The Byzarian Merchant Consortium**: Her family's organization, which, despite initial disapproval, now takes pride in her success and occasionally sponsors commissions for diplomatic gifts.
-- **Master Timolkâr**: Though retired, her elderly teacher remains her confidant and advisor, and she still seeks his input on technically difficult glazing problems.
+Lord Archon Theodorus
+: A wealthy collector and patron of the arts who has commissioned several major pieces and provides her with occasional capital for experiments.
+
+The Byzarian Merchant Consortium
+: Her family's organization, which, despite initial disapproval, now takes pride in her success and occasionally sponsors commissions for diplomatic gifts.
+
+Master Timolkâr
+: Though retired, her elderly teacher remains her confidant and advisor, and she still seeks his input on technically difficult glazing problems.
 
 ### Enemies
 
-- **The Conservative Artisans' Guild Faction**: Traditional potters view her revolutionary techniques as a threat to established standards and have worked to exclude her from certain prestigious exhibitions.
-- **Rival Artist Andrónash**: A jealous sculptor who was once romantically involved with Kalída and now actively spreads rumors about her methods being "mere trickery" rather than true art.
+The Conservative Artisans' Guild Faction
+: Traditional potters view her revolutionary techniques as a threat to established standards and have worked to exclude her from certain prestigious exhibitions.
+
+Rival Artist Andrónash
+: A jealous sculptor who was once romantically involved with Kalída and now actively spreads rumors about her methods being "mere trickery" rather than true art.
 
 ### Affiliations
 
-- **The Artisans' Guild of Byzaría**: Despite occasional friction with traditionalists, she maintains official membership and participates in guild exhibitions.
-- **The Circle of Innovators**: A loose association of artists, craftspeople, and patrons committed to progressive techniques and challenging classical orthodoxy.
+The Artisans' Guild of Byzaría
+: Despite occasional friction with traditionalists, she maintains official membership and participates in guild exhibitions.
+
+The Circle of Innovators
+: A loose association of artists, craftspeople, and patrons committed to progressive techniques and challenging classical orthodoxy.
 
 ## Plot Hooks
 

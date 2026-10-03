@@ -466,19 +466,30 @@ Gulrânah seeks only to produce the finest charcoal the Sultanate has ever known
 
 ### Patrons
 
-- **Master Karamak al-Ashenthorn**: Her retired mentor, now a wealthy merchant. Though he no longer practices the craft himself, he champions her work and occasionally contracts for specialty batches
-- **The Apothecary Collective of Amradad**: Guild of ritual herbalists who have made her the exclusive supplier of ceremonial charcoal for fertility rites of Zúráthrä
-- **House Ferringhold**: A minor noble house of merchants who commission her finest work exclusively and pay handsomely to keep competitors deprived of her product
+Master Karamak al-Ashenthorn
+: Her retired mentor, now a wealthy merchant. Though he no longer practices the craft himself, he champions her work and occasionally contracts for specialty batches
+
+The Apothecary Collective of Amradad
+: Guild of ritual herbalists who have made her the exclusive supplier of ceremonial charcoal for fertility rites of Zúráthrä
+
+House Ferringhold
+: A minor noble house of merchants who commission her finest work exclusively and pay handsomely to keep competitors deprived of her product
 
 ### Enemies
 
-- **Rakesh al-Gavid and the Ash-Brothers Guild**: A collective of male charcoalers who publicly declaim that women have no place in the trade and actively undermine her reputation with potential customers
-- **The Durvesh Syndicate**: Smugglers and gray-market traders who resent her refusal to supply them with specialized charcoal for alchemical purposes they consider unsavory
-- **Tormund Blacksmoke**: A rival charcoaler whose inferior product's lower price undercuts hers; he spreads rumors that her seclusion masks madness or curse
+Rakesh al-Gavid and the Ash-Brothers Guild
+: A collective of male charcoalers who publicly declaim that women have no place in the trade and actively undermine her reputation with potential customers
+
+The Durvesh Syndicate
+: Smugglers and gray-market traders who resent her refusal to supply them with specialized charcoal for alchemical purposes they consider unsavory
+
+Tormund Blacksmoke
+: A rival charcoaler whose inferior product's lower price undercuts hers; he spreads rumors that her seclusion masks madness or curse
 
 ### Affiliations
 
-- **The Kiln-Keepers of Amradad**: Independent guild of craftspeople devoted to maintaining quality standards in the charcoal trade (though she remains mostly inactive in their politics)
+The Kiln-Keepers of Amradad
+: Independent guild of craftspeople devoted to maintaining quality standards in the charcoal trade (though she remains mostly inactive in their politics)
 
 ## Plot Hooks
 

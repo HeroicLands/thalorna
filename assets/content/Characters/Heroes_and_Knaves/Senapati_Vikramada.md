@@ -489,20 +489,33 @@ More personally, he seeks to leave a legacy of trained sailors and officers who 
 
 ### Patrons
 
-- **Captain-Merchant Taramandal**: A successful merchant captain who employs Sénapati regularly and considers him the foundation of his trading success. Taramandal has offered Sénapati a permanent position with significant authority, which Sénapati has declined.
-- **The Shipwrights' Guild of Vedyara**: Maintains good relationships with the guild, occasionally consulting on matters of crew management and vessel design from the standpoint of practical seamanship.
-- **Temple of Rásikara**: Devoted practitioner and occasional volunteer in temple activities, though his faith is expressed through work rather than elaborate ceremony.
+Captain-Merchant Taramandal
+: A successful merchant captain who employs Sénapati regularly and considers him the foundation of his trading success. Taramandal has offered Sénapati a permanent position with significant authority, which Sénapati has declined.
+
+The Shipwrights' Guild of Vedyara
+: Maintains good relationships with the guild, occasionally consulting on matters of crew management and vessel design from the standpoint of practical seamanship.
+
+Temple of Rásikara
+: Devoted practitioner and occasional volunteer in temple activities, though his faith is expressed through work rather than elaborate ceremony.
 
 ### Enemies
 
-- **Captain Dharen of the Crimson Sail**: A merchant captain whom Sénapati once refused to serve because of what he perceived as grossly inadequate safety standards and crew abuse. Dharen has since built his own reputation for speed and profit, and he views Sénapati as a rival whose standards are "outdated" and "cost-prohibitive."
-- **Modernist Faction**: A loose coalition of younger seafarers who view Sénapati's traditional methods as obstacles to progress, particularly the adoption of new rigs and instruments.
-- **The Black Tides Syndicate**: A maritime criminal organization that has attempted to recruit Sénapati, offering enormous payments for his assistance in crew management for their operations. His refusals have made him a target of their resentment.
+Captain Dharen of the Crimson Sail
+: A merchant captain whom Sénapati once refused to serve because of what he perceived as grossly inadequate safety standards and crew abuse. Dharen has since built his own reputation for speed and profit, and he views Sénapati as a rival whose standards are "outdated" and "cost-prohibitive."
+
+Modernist Faction
+: A loose coalition of younger seafarers who view Sénapati's traditional methods as obstacles to progress, particularly the adoption of new rigs and instruments.
+
+The Black Tides Syndicate
+: A maritime criminal organization that has attempted to recruit Sénapati, offering enormous payments for his assistance in crew management for their operations. His refusals have made him a target of their resentment.
 
 ### Affiliations
 
-- **Vedyaran Maritime Tradition**: Though he works on contract rather than as an official representative, he is deeply connected to and considered an exemplar of Vedyaran maritime culture and values.
-- **The Order of Mariners**: An informal association of senior sailors and officers who maintain standards and traditions, and who respect Sénapati as one of their most honored members.
+Vedyaran Maritime Tradition
+: Though he works on contract rather than as an official representative, he is deeply connected to and considered an exemplar of Vedyaran maritime culture and values.
+
+The Order of Mariners
+: An informal association of senior sailors and officers who maintain standards and traditions, and who respect Sénapati as one of their most honored members.
 
 ## Plot Hooks
 

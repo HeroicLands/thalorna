@@ -444,13 +444,19 @@ She also carries a fear she would never voice aloud: that her father was right, 
 
 ### Patrons
 
-- **Countess Míravel Tárveneth**: A senior member of the Council of Peers and leader of the reformist faction. She sees Ârnela as a useful ally—capable, ambitious, and expendable enough that the Countess can use her as a stalking horse for policies too controversial to champion directly. Ârnela is aware of this and accepts it as the cost of access.
-- **Master Lúcen Fáravel**: The elderly head of the Panepistemium chapterhouse in Chastèlclair. He helped Ârnela establish her academy in Fiòrdaure and continues to provide instructors and texts in exchange for her political support on matters affecting the Epistemium's chartered rights.
+Countess Míravel Tárveneth
+: A senior member of the Council of Peers and leader of the reformist faction. She sees Ârnela as a useful ally—capable, ambitious, and expendable enough that the Countess can use her as a stalking horse for policies too controversial to champion directly. Ârnela is aware of this and accepts it as the cost of access.
+
+Master Lúcen Fáravel
+: The elderly head of the Panepistemium chapterhouse in Chastèlclair. He helped Ârnela establish her academy in Fiòrdaure and continues to provide instructors and texts in exchange for her political support on matters affecting the Epistemium's chartered rights.
 
 ### Enemies
 
-- **Lord Vásquen Cortelúni**: Head of one of Fiòrdaure's older noble families and a staunch traditionalist who views Ârnela's academy as an insult to the proper order—educating commoners above their station, he says, weakens the order of society. He has blocked several of her proposals on the charter council and is quietly working to undermine her influence at court. The rivalry is conducted with impeccable Provenzian courtesy, and is dangerous all the same.
-- **The Syndics of Belpòrte**: The merchant guild that governs Belpòrte resents the fishing compact that Ârnela brokered, believing she gave Fiòrdaure's fishermen too generous a share. They have retained a litigant to challenge the compact's terms, and there are rumors they have also hired less legitimate agents to gather information about Ârnela's finances and political dealings.
+Lord Vásquen Cortelúni
+: Head of one of Fiòrdaure's older noble families and a staunch traditionalist who views Ârnela's academy as an insult to the proper order—educating commoners above their station, he says, weakens the order of society. He has blocked several of her proposals on the charter council and is quietly working to undermine her influence at court. The rivalry is conducted with impeccable Provenzian courtesy, and is dangerous all the same.
+
+The Syndics of Belpòrte
+: The merchant guild that governs Belpòrte resents the fishing compact that Ârnela brokered, believing she gave Fiòrdaure's fishermen too generous a share. They have retained a litigant to challenge the compact's terms, and there are rumors they have also hired less legitimate agents to gather information about Ârnela's finances and political dealings.
 
 ## Plot Hooks
 

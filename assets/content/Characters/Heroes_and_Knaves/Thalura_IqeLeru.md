@@ -496,35 +496,48 @@ She is not a warrior, and her moderate strength and endurance mean she is entire
 
 ### Patrons
 
-- Thâz'Lekhau [[being-etheritzrkh2|Etherita Zarukhét]]: The former Thâz'Lekhau of Qe'âret in the capital, now too frail to conduct the great rites, who elevated Thalura as her successor. Zarukhét retains enormous informal influence within the order and relies on Thalura to maintain the temple's political standing at court. She senses the contradictions that gnaw at her protégé—she knows what it costs to speak for a goddess of truth when truth has become a political instrument—and this troubles her deeply, though she has never spoken of it directly. Zarukhét navigated the same tensions in her own career, and she is not certain that Thalura will find a resolution she could not.
+Thâz'Lekhau [[being-etheritzrkh2|Etherita Zarukhét]]
+: The former Thâz'Lekhau of Qe'âret in the capital, now too frail to conduct the great rites, who elevated Thalura as her successor. Zarukhét retains enormous informal influence within the order and relies on Thalura to maintain the temple's political standing at court. She senses the contradictions that gnaw at her protégé—she knows what it costs to speak for a goddess of truth when truth has become a political instrument—and this troubles her deeply, though she has never spoken of it directly. Zarukhét navigated the same tensions in her own career, and she is not certain that Thalura will find a resolution she could not.
 
-- [[being-garaumeqesxv|Gar-Aû Meqes XVI]]: The reigning Gar-Aû depends on Thalura's judicial auguries and her ability to read the Genzet'Palu's shifting loyalties. He views her as a necessary counterbalance to the more aggressive faction leaders within the court and the high priests of rival temples.
+[[being-garaumeqesxv|Gar-Aû Meqes XVI]]
+: The reigning Gar-Aû depends on Thalura's judicial auguries and her ability to read the Genzet'Palu's shifting loyalties. He views her as a necessary counterbalance to the more aggressive faction leaders within the court and the high priests of rival temples.
 
-- **Merchant Prince Othman**: A wealthy spice trader from the eastern provinces and member of the Zebequ'Zut. He depended on the Iqe'Lêru network long before Gethor's death and now relies on Thalura's combined temple-and-commercial authority for political protection, providing exotic goods and invaluable intelligence from foreign ports in return.
+Merchant Prince Othman
+: A wealthy spice trader from the eastern provinces and member of the Zebequ'Zut. He depended on the Iqe'Lêru network long before Gethor's death and now relies on Thalura's combined temple-and-commercial authority for political protection, providing exotic goods and invaluable intelligence from foreign ports in return.
 
-- Zemelu [[being-amnalegezu2|Amnalegezu]]: The elderly chancellor of records owes his position partly to Thalura's intervention decades ago. He has become her reliable source for historical precedent and archival secrets—the kind of information that makes her judicial pronouncements uncannily well-supported.
+Zemelu [[being-amnalegezu2|Amnalegezu]]
+: The elderly chancellor of records owes his position partly to Thalura's intervention decades ago. He has become her reliable source for historical precedent and archival secrets—the kind of information that makes her judicial pronouncements uncannily well-supported.
 
 ### Enemies
 
-- Zemelu [[being-qeltiri|Qeltiri]]: A secular courtier who resents the temple's hold on the Gar-Aû's ear and works constantly to position himself as an alternative source of counsel. He considers Thalura's auguries a political racket dressed in sacred vestments and would happily expose her if he could prove it.
+Zemelu [[being-qeltiri|Qeltiri]]
+: A secular courtier who resents the temple's hold on the Gar-Aû's ear and works constantly to position himself as an alternative source of counsel. He considers Thalura's auguries a political racket dressed in sacred vestments and would happily expose her if he could prove it.
 
-- **The Thâz'Lekhau of [[lore-uqaadty|Uqa'â]]**: The most powerful religious figure in the empire views Qe'âret's growing political influence with alarm. Thalura's prominence at court threatens the traditional primacy of the solar cult, and he has begun quietly undermining her judicial pronouncements by commissioning competing auguries from his own seers—a direct challenge to Qe'âret's monopoly on truth-speaking.
+The Thâz'Lekhau of [[lore-uqaadty|Uqa'â]]
+: The most powerful religious figure in the empire views Qe'âret's growing political influence with alarm. Thalura's prominence at court threatens the traditional primacy of the solar cult, and he has begun quietly undermining her judicial pronouncements by commissioning competing auguries from his own seers—a direct challenge to Qe'âret's monopoly on truth-speaking.
 
-- Zabet [[being-amqelitamun2|Amqelitamun]]: Thalura's own distant cousin and nominal ally, who harbors deep resentment that Thalura inherited the bulk of the Iqe'Lêru wealth while she was forced into a minor provincial marriage. Amqelitamun knows things about the Iqe'Lêru family that Thalura would prefer to remain buried.
+Zabet [[being-amqelitamun2|Amqelitamun]]
+: Thalura's own distant cousin and nominal ally, who harbors deep resentment that Thalura inherited the bulk of the Iqe'Lêru wealth while she was forced into a minor provincial marriage. Amqelitamun knows things about the Iqe'Lêru family that Thalura would prefer to remain buried.
 
-- [[affiliation-qethalu|The Qethalu]]: Conservative priests within Qe'âret's own order who view Thalura's political entanglements as a corruption of the goddess's purpose. They believe a Thâz'Lekhau should serve the divine, not the Genzet'Palu, and they have the ear of several provincial temple leaders who share their distaste.
+[[affiliation-qethalu|The Qethalu]]
+: Conservative priests within Qe'âret's own order who view Thalura's political entanglements as a corruption of the goddess's purpose. They believe a Thâz'Lekhau should serve the divine, not the Genzet'Palu, and they have the ear of several provincial temple leaders who share their distaste.
 
-- **Thâz'Lekhau Anlagherhafu of [[place-khelunu|Khelunu]]**: Distant, and the Thâz'Lekhau of Qe'âret at Khelunu, technically subordinate to Thalura's authority, whose handling of the [[being-legezaqu|Legez Aqu]] heresy case has raised questions she has not yet chosen to investigate. Anlagherhafu is careful to maintain the appearance of deference while operating with considerable independence, and Thalura suspects—without yet being able to prove—that his judicial pronouncements serve local political interests rather than the goddess's truth. Their relationship is outwardly correct and quietly poisonous.
+Thâz'Lekhau Anlagherhafu of [[place-khelunu|Khelunu]]
+: Distant, and the Thâz'Lekhau of Qe'âret at Khelunu, technically subordinate to Thalura's authority, whose handling of the [[being-legezaqu|Legez Aqu]] heresy case has raised questions she has not yet chosen to investigate. Anlagherhafu is careful to maintain the appearance of deference while operating with considerable independence, and Thalura suspects—without yet being able to prove—that his judicial pronouncements serve local political interests rather than the goddess's truth. Their relationship is outwardly correct and quietly poisonous.
 
 ### Affiliations
 
-- [[affiliation-lutqearet|The Lut-Qe'âret]]: Her primary institution. As Thâz'Lekhau, she presides over the great judicial rites, oversees the temple's augury practices, and manages the order's political relationships with the court and the aristocracy. The temple complex itself—its lands, granaries, workshops, and treasury—is a significant economic power in its own right. She also holds nominal supervisory authority over the provincial Qe'âret temples, including the one at Khelunu—an authority she has exercised sparingly and cautiously.
+[[affiliation-lutqearet|The Lut-Qe'âret]]
+: Her primary institution. As Thâz'Lekhau, she presides over the great judicial rites, oversees the temple's augury practices, and manages the order's political relationships with the court and the aristocracy. The temple complex itself—its lands, granaries, workshops, and treasury—is a significant economic power in its own right. She also holds nominal supervisory authority over the provincial Qe'âret temples, including the one at Khelunu—an authority she has exercised sparingly and cautiously.
 
-- [[affiliation-genzetpalu|The Genzet'Palu]] (Council of the Nobles): Thalura serves as the de facto mediator in this gathering of the empire's most powerful families. Her position is unique—she sits not as a noble faction leader but as a representative of divine order, which gives her a neutrality that no secular courtier could claim.
+[[affiliation-genzetpalu|The Genzet'Palu]] (Council of the Nobles)
+: Thalura serves as the de facto mediator in this gathering of the empire's most powerful families. Her position is unique—she sits not as a noble faction leader but as a representative of divine order, which gives her a neutrality that no secular courtier could claim.
 
-- [[affiliation-genzetgarau|Genzet'Gar-Aû]]: She attends regularly as a judicial and religious advisor and maintains a formal residence within the palace complex. Her auguries carry the weight of the goddess's voice, which is both her greatest asset and her greatest burden.
+[[affiliation-genzetgarau|Genzet'Gar-Aû]]
+: She attends regularly as a judicial and religious advisor and maintains a formal residence within the palace complex. Her auguries carry the weight of the goddess's voice, which is both her greatest asset and her greatest burden.
 
-- [[affiliation-zebequzut|The Zebequ'Zut]] (Merchant Alliance): Through the Iqe'Lêru commercial network she inherited from her husband, she maintains business relationships and mutual protection pacts with the empire's major trading houses—a source of wealth and intelligence that operates entirely outside temple channels.
+[[affiliation-zebequzut|The Zebequ'Zut]] (Merchant Alliance)
+: Through the Iqe'Lêru commercial network she inherited from her husband, she maintains business relationships and mutual protection pacts with the empire's major trading houses—a source of wealth and intelligence that operates entirely outside temple channels.
 
 ## Plot Hooks
 

@@ -461,20 +461,33 @@ Minàka is driven by the pursuit of perfection in her craft and by a deep belief
 
 ### Patrons
 
-- **The Devakara Merchant Family**: Her primary employers and supporters. The patriarch, **Merchant Lord Devakara**, values her contribution to the family's prestige and protects her autonomy fiercely.
-- **The Council of Merchants**: Several members of the city council regularly request private meals prepared by Minàka for diplomatic functions.
-- **The Temple of Mahájaya**: She donates portions of her finest work to temple festivals and maintains a private devotional practice to the god of order.
+The Devakara Merchant Family
+: Her primary employers and supporters. The patriarch, **Merchant Lord Devakara**, values her contribution to the family's prestige and protects her autonomy fiercely.
+
+The Council of Merchants
+: Several members of the city council regularly request private meals prepared by Minàka for diplomatic functions.
+
+The Temple of Mahájaya
+: She donates portions of her finest work to temple festivals and maintains a private devotional practice to the god of order.
 
 ### Enemies
 
-- **Chef Ranjeet of the Harbor District**: A brilliant but unstable cook who studied briefly under Minàka before being dismissed for temperament and unreliability. He now runs his own establishment and spreads rumors that Minàka stole his innovations.
-- **The Spice Merchant Syndicate**: Certain merchants in this organization feel threatened by her direct sourcing of spices and her refusal to deal through their networks. They have spread rumors about the quality of her ingredients.
+Chef Ranjeet of the Harbor District
+: A brilliant but unstable cook who studied briefly under Minàka before being dismissed for temperament and unreliability. He now runs his own establishment and spreads rumors that Minàka stole his innovations.
+
+The Spice Merchant Syndicate
+: Certain merchants in this organization feel threatened by her direct sourcing of spices and her refusal to deal through their networks. They have spread rumors about the quality of her ingredients.
 
 ### Affiliations
 
-- **The City Cooks' Guild of Vedyara**: A prestigious organization of master chefs and culinary craftspeople. Minàka holds rank among the highest members.
-- **The Devakara Household**: Her primary institution and the source of her authority and identity.
-- **The Temple of Mahájaya**: An order dedicated to the god of order and structure. She maintains private worship and contributes to temple feasts.
+The City Cooks' Guild of Vedyara
+: A prestigious organization of master chefs and culinary craftspeople. Minàka holds rank among the highest members.
+
+The Devakara Household
+: Her primary institution and the source of her authority and identity.
+
+The Temple of Mahájaya
+: An order dedicated to the god of order and structure. She maintains private worship and contributes to temple feasts.
 
 ## Plot Hooks
 

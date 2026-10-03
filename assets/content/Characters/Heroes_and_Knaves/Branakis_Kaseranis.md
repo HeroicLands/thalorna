@@ -484,21 +484,36 @@ Bránakis is driven by a commitment to excellence that borders on obsession, and
 
 ### Patrons
 
-- **Master Blacksmith Torvin Arkálmanês**: The region's most famous blacksmith who specifically seeks out Bránakis' charcoal for his most important commissions. Torvin is perhaps the only person Bránakis considers a true peer.
-- **The Abbey of Vúlcan's Flame**: A monastic order devoted to the fire god, which purchases substantial quantities of charcoal for both practical and spiritual purposes. They also provide some protection and prestige to Bránakis within the religious community.
-- **Guild Master Aldus Garlindrîs**: The head of the Woodworkers' Guild, who has maintained Bránakis' membership despite pressure from younger, more pliable members.
+Master Blacksmith Torvin Arkálmanês
+: The region's most famous blacksmith who specifically seeks out Bránakis' charcoal for his most important commissions. Torvin is perhaps the only person Bránakis considers a true peer.
+
+The Abbey of Vúlcan's Flame
+: A monastic order devoted to the fire god, which purchases substantial quantities of charcoal for both practical and spiritual purposes. They also provide some protection and prestige to Bránakis within the religious community.
+
+Guild Master Aldus Garlindrîs
+: The head of the Woodworkers' Guild, who has maintained Bránakis' membership despite pressure from younger, more pliable members.
 
 ### Enemies
 
-- **Merchant Prince Bàrdôvan Bàrlìmàtes**: A wealthy trader who has begun running charcoal works on a great scale with lower standards. He has undercut Bránakis' prices and reputation systematically.
-- **The Timber Consortium**: A large trading company that controls vast timber harvesting rights. They view Bránakis' opposition to their practices as problematic and have worked to restrict his access to quality timber sources.
-- **Charcoaler Silas Ashbringer**: A younger rival charcoaler who has adopted new methods and proven profitable. Bránakis views Silas as a symbol of everything wrong with craftwork today, and the animosity between them has become quite personal.
+Merchant Prince Bàrdôvan Bàrlìmàtes
+: A wealthy trader who has begun running charcoal works on a great scale with lower standards. He has undercut Bránakis' prices and reputation systematically.
+
+The Timber Consortium
+: A large trading company that controls vast timber harvesting rights. They view Bránakis' opposition to their practices as problematic and have worked to restrict his access to quality timber sources.
+
+Charcoaler Silas Ashbringer
+: A younger rival charcoaler who has adopted new methods and proven profitable. Bránakis views Silas as a symbol of everything wrong with craftwork today, and the animosity between them has become quite personal.
 
 ### Affiliations
 
-- **The Woodworkers' Guild of Nartum**: A formal trade organization providing standards, protection, and mutual support for those in timber-related crafts.
-- **The Keepers of the Forest**: An informal network of those devoted to the careful management and preservation of the great woods. Bránakis is one of their most vocal members.
-- **The Abbey of Vúlcan's Flame**: A religious community that views Bránakis' work as spiritually significant.
+The Woodworkers' Guild of Nartum
+: A formal trade organization providing standards, protection, and mutual support for those in timber-related crafts.
+
+The Keepers of the Forest
+: An informal network of those devoted to the careful management and preservation of the great woods. Bránakis is one of their most vocal members.
+
+The Abbey of Vúlcan's Flame
+: A religious community that views Bránakis' work as spiritually significant.
 
 ## Plot Hooks
 

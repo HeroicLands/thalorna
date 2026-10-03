@@ -469,21 +469,36 @@ Damáklios is driven by a complex tangle of motivations. Primarily, he seeks to 
 
 ### Patrons
 
-- **Military Intelligence Operatives of the Byzarian League**: The League's military establishment remains his primary legitimate patron, even as they suspect him of selling maps to their enemies. The contradiction remains unresolved because Damáklios's maps are so valuable that the military continues to commission them while simultaneously investigating him.
-- **Merchant-Lord Davos the Uncouth**: A wealthy merchant with significant smuggling interests throughout the coastal territories. Davos commissions maps identifying hidden coves, unpatrolled routes, and secure locations for illicit goods storage. Davos is also one of Damáklios's few social contacts and occasional drinking companions.
-- **Unknown Foreign Power**: Damáklios has been receiving increasingly lucrative commissions from intermediaries operating on behalf of a foreign power (possibly the Kingdom of Tarvénia or a distant northern confederation). He does not know the true identity of these patrons, which both attracts him (plausible deniability) and terrifies him.
+Military Intelligence Operatives of the Byzarian League
+: The League's military establishment remains his primary legitimate patron, even as they suspect him of selling maps to their enemies. The contradiction remains unresolved because Damáklios's maps are so valuable that the military continues to commission them while simultaneously investigating him.
+
+Merchant-Lord Davos the Uncouth
+: A wealthy merchant with significant smuggling interests throughout the coastal territories. Davos commissions maps identifying hidden coves, unpatrolled routes, and secure locations for illicit goods storage. Davos is also one of Damáklios's few social contacts and occasional drinking companions.
+
+Unknown Foreign Power
+: Damáklios has been receiving increasingly lucrative commissions from intermediaries operating on behalf of a foreign power (possibly the Kingdom of Tarvénia or a distant northern confederation). He does not know the true identity of these patrons, which both attracts him (plausible deniability) and terrifies him.
 
 ### Enemies
 
-- **The Byzarian League's City Guard (Official)**: Suspicion of espionage has created an official enmity. Damáklios is being watched, and they have commissioned rival **Cartographer Méchon** to produce competing maps to verify whether Damáklios's accuracy is skill or potentially involves access to classified information.
-- **Rival Cartographer Méchon**: A talented but jealous competitor who suspects Damáklios of receiving commissions through underhanded means. Méchon has been cultivating relationships with city guard officials and spreading insinuations about Damáklios's integrity.
-- **The Theft Syndicate of the Eastern Docks**: A criminal organization whose operations were severely disrupted when Damáklios, attempting to reduce his own complicity in harm, provided information to the city guard about their hidden supply caches (which he had previously mapped for them at high cost). They now view him as a traitor and have marked him for death.
+The Byzarian League's City Guard (Official)
+: Suspicion of espionage has created an official enmity. Damáklios is being watched, and they have commissioned rival **Cartographer Méchon** to produce competing maps to verify whether Damáklios's accuracy is skill or potentially involves access to classified information.
+
+Rival Cartographer Méchon
+: A talented but jealous competitor who suspects Damáklios of receiving commissions through underhanded means. Méchon has been cultivating relationships with city guard officials and spreading insinuations about Damáklios's integrity.
+
+The Theft Syndicate of the Eastern Docks
+: A criminal organization whose operations were severely disrupted when Damáklios, attempting to reduce his own complicity in harm, provided information to the city guard about their hidden supply caches (which he had previously mapped for them at high cost). They now view him as a traitor and have marked him for death.
 
 ### Affiliations
 
-- **Cartographers' Guild of the Byzarian League**: His official affiliation, though increasingly tenuous. The guild knows of suspicions against him but maintains his membership pending formal charges.
-- **Flórania's Mystery Cults**: His crescent moon tattoo marks him as formally initiated into one of the fertility mystery cults. The cult provides some spiritual comfort and occult understanding, though his involvement has become more distant over the years.
-- **The Black Ledger (Underground Cartography Network)**: An informal network of cartographers willing to map forbidden territories and create specialized maps for illegal purposes. Membership is by reputation; Damáklios maintains contact with this network as a safeguard and alternative income source.
+Cartographers' Guild of the Byzarian League
+: His official affiliation, though increasingly tenuous. The guild knows of suspicions against him but maintains his membership pending formal charges.
+
+Flórania's Mystery Cults
+: His crescent moon tattoo marks him as formally initiated into one of the fertility mystery cults. The cult provides some spiritual comfort and occult understanding, though his involvement has become more distant over the years.
+
+The Black Ledger (Underground Cartography Network)
+: An informal network of cartographers willing to map forbidden territories and create specialized maps for illegal purposes. Membership is by reputation; Damáklios maintains contact with this network as a safeguard and alternative income source.
 
 ## Plot Hooks
 

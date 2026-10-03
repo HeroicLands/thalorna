@@ -470,19 +470,30 @@ A deeper motivation underlies this: Dómeth builds ships because they are perman
 
 ### Patrons
 
-- **Captain-Admiral Voren**: A celebrated naval commander who has commissioned multiple vessels from Dómeth over two decades and would speak of his craftsmanship as the only reason certain campaigns succeeded.
-- **Lin'Zuwaret elu Aû'Khelâthu of Tarvénia's Harbor**: A collective of wealthy traders who have maintained standing orders for Gráveth vessels despite the expense and delays, understanding that his ships provide competitive advantages that justify premium pricing.
-- **Priestess-Keeper Maristela of Vénusia's Temple**: The keeper of the ocean-goddess's temple considers Dómeth's work a form of worship and sees to it that the temple's ships are always commissioned from him, providing him with steady work during lean years.
+Captain-Admiral Voren
+: A celebrated naval commander who has commissioned multiple vessels from Dómeth over two decades and would speak of his craftsmanship as the only reason certain campaigns succeeded.
+
+Lin'Zuwaret elu Aû'Khelâthu of Tarvénia's Harbor
+: A collective of wealthy traders who have maintained standing orders for Gráveth vessels despite the expense and delays, understanding that his ships provide competitive advantages that justify premium pricing.
+
+Priestess-Keeper Maristela of Vénusia's Temple
+: The keeper of the ocean-goddess's temple considers Dómeth's work a form of worship and sees to it that the temple's ships are always commissioned from him, providing him with steady work during lean years.
 
 ### Enemies
 
-- **Master-Craftsman Aldred the Efficient**: A rival shipwright who has built his reputation on fast, cheap construction and views Dómeth's premium work as market distortion; Aldred actively spreads rumors that Gráveth vessels are overpriced relics and works to capture Dómeth's would-be customers.
-- **The Merchant's Association Reform Faction**: A segment of the merchant class seeking to modernize and standardize shipbuilding practices views Dómeth's stubborn individualism as an impediment to progress and has launched campaigns to discredit him.
+Master-Craftsman Aldred the Efficient
+: A rival shipwright who has built his reputation on fast, cheap construction and views Dómeth's premium work as market distortion; Aldred actively spreads rumors that Gráveth vessels are overpriced relics and works to capture Dómeth's would-be customers.
+
+The Merchant's Association Reform Faction
+: A segment of the merchant class seeking to modernize and standardize shipbuilding practices views Dómeth's stubborn individualism as an impediment to progress and has launched campaigns to discredit him.
 
 ### Affiliations
 
-- **Coastal Shipwrights' Guild**: Nominally a member, though increasingly at odds with the guild's direction toward industrialized production.
-- **The Keepers of Vénusia's Temple**: Informal but deep connection through shared devotion to the prosperity-goddess and reverence for maritime traditions.
+Coastal Shipwrights' Guild
+: Nominally a member, though increasingly at odds with the guild's direction toward industrialized production.
+
+The Keepers of Vénusia's Temple
+: Informal but deep connection through shared devotion to the prosperity-goddess and reverence for maritime traditions.
 
 ## Plot Hooks
 

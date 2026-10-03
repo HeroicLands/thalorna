@@ -476,9 +476,14 @@ Thraskorv has no patrons in the traditional sense. His masters view him as prope
 
 ### Enemies
 
-- **Jarl Hrandorv Hlirthendikh**: His nominal master, a man more interested in profit than cruelty, but nonetheless the embodiment of the system that enslaves him. Jarl Hrandorv views Thraskorv as a potentially valuable asset that is becoming too dangerous.
-- **Haldor, the New Overseer**: The replacement for Hrollaug, and no less cruel. Haldor treats Thraskorv with particular savagery, viewing him as a threat that must be constantly suppressed.
-- **The System Itself**: Thraskorv's true enemy is the legal and social structure of thralldom that permits his bondage. He sees every noble, every priest who accepts the status quo, as complicit.
+Jarl Hrandorv Hlirthendikh
+: His nominal master, a man more interested in profit than cruelty, but nonetheless the embodiment of the system that enslaves him. Jarl Hrandorv views Thraskorv as a potentially valuable asset that is becoming too dangerous.
+
+Haldor, the New Overseer
+: The replacement for Hrollaug, and no less cruel. Haldor treats Thraskorv with particular savagery, viewing him as a threat that must be constantly suppressed.
+
+The System Itself
+: Thraskorv's true enemy is the legal and social structure of thralldom that permits his bondage. He sees every noble, every priest who accepts the status quo, as complicit.
 
 ### Affiliations
 

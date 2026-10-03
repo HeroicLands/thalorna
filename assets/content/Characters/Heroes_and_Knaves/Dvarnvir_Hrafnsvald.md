@@ -481,22 +481,39 @@ Dvarnvir is driven by a simple but profound conviction: good shelter saves lives
 
 ### Patrons
 
-- **Captain Hnarvthann Skalfarukh**: A decorated military officer who has become Dvarnvir's best customer and closest friend. Hnarvthann purchases tents for his unit and regularly refers other soldiers and adventurers to Dvarnvir's workshop.
-- **Master Torsten Roofmaker (Retired Mentor)**: Though now elderly and mostly retired, Torsten still consults with Dvarnvir on particularly difficult projects and has referred many of his own clients to his former apprentice.
-- **The Merchant Kalvin**: A wealthy trader who commissions custom tents for his expedition caravans and has paid premium prices for Dvarnvir's work, trusting his quality absolutely.
+Captain Hnarvthann Skalfarukh
+: A decorated military officer who has become Dvarnvir's best customer and closest friend. Hnarvthann purchases tents for his unit and regularly refers other soldiers and adventurers to Dvarnvir's workshop.
+
+Master Torsten Roofmaker (Retired Mentor)
+: Though now elderly and mostly retired, Torsten still consults with Dvarnvir on particularly difficult projects and has referred many of his own clients to his former apprentice.
+
+The Merchant Kalvin
+: A wealthy trader who commissions custom tents for his expedition caravans and has paid premium prices for Dvarnvir's work, trusting his quality absolutely.
 
 ### Enemies
 
-- **Kross the Cutthroat**: A rival tentmaker who operates at half Dvarnvir's prices by using inferior materials and shoddy construction. Kross's tents look impressive but fail under real stress, yet he has stolen many contracts Dvarnvir might have earned. Kross also spreads rumors that Dvarnvir charges inflated prices for military cachet.
-- **The Vithgard Cloth Syndicate**: A merchant guild that seeks to control all textile production in the region. They view independent craftspeople like Dvarnvir as obstacles and have attempted to force him to buy exclusively through their network, dramatically increasing his material costs.
-- **Unspoken Rivalry with Competitors**: The newer, younger tentmakers who can produce faster than him view him as an obstacle preventing their growth; some have engaged in subtle sabotage of his reputation.
+Kross the Cutthroat
+: A rival tentmaker who operates at half Dvarnvir's prices by using inferior materials and shoddy construction. Kross's tents look impressive but fail under real stress, yet he has stolen many contracts Dvarnvir might have earned. Kross also spreads rumors that Dvarnvir charges inflated prices for military cachet.
+
+The Vithgard Cloth Syndicate
+: A merchant guild that seeks to control all textile production in the region. They view independent craftspeople like Dvarnvir as obstacles and have attempted to force him to buy exclusively through their network, dramatically increasing his material costs.
+
+Unspoken Rivalry with Competitors
+: The newer, younger tentmakers who can produce faster than him view him as an obstacle preventing their growth; some have engaged in subtle sabotage of his reputation.
 
 ### Affiliations
 
-- **The Tentmakers' Guild of Vithgard**: A professional organization where he serves as a senior member and occasionally takes on formal apprentices, though he remains independent-minded and sometimes clashes with the Guild's leadership over quality standards versus profitability.
-- **The Old Soldiers' Lodge**: An informal fraternity of veterans who gather monthly to share drink and stories. Dvarnvir contributes his skills and craftsmanship to the Lodge's projects.
-- **[[being-skrldthnhrfnsvld|Skraldthann Hrafnsvald]] (Brother)**: Dvarnvir's elder brother by eight years, a celebrated clothier in the [[affiliation-kingdmnrgd|Kingdom of Norgaad]]. [[being-skrldthnhrfnsvld|Skraldthann]] left Vithgard long before Dvarnvir enlisted, pursuing the finer side of the textile craft among Norgaad's nobility. Dvarnvir finds his brother's obsession with fashion bewildering but respects the skill behind it—after all, they both learned to work fabric from the same parents. Their letters are infrequent but warm, and [[being-skrldthnhrfnsvld|Skraldthann]] has never once failed to send something extravagant for the winter holidays.
-- **[[being-vrldmylhrfnsvld|Vrildmýl Hrafnsvald]] (Son)**: Dvarnvir's son, now a sergeant in the Vithgard militia. Their relationship carries the weight of years of absence and unspoken guilt. Dvarnvir is quietly proud of the man [[being-vrldmylhrfnsvld|Vrildmýl]] has become, though he knows he had little hand in shaping him. He occasionally leaves supplies or a well-made tent at the militia barracks without a note—small gestures from a man who has never learned how to say what needs saying.
+The Tentmakers' Guild of Vithgard
+: A professional organization where he serves as a senior member and occasionally takes on formal apprentices, though he remains independent-minded and sometimes clashes with the Guild's leadership over quality standards versus profitability.
+
+The Old Soldiers' Lodge
+: An informal fraternity of veterans who gather monthly to share drink and stories. Dvarnvir contributes his skills and craftsmanship to the Lodge's projects.
+
+[[being-skrldthnhrfnsvld|Skraldthann Hrafnsvald]] (Brother)
+: Dvarnvir's elder brother by eight years, a celebrated clothier in the [[affiliation-kingdmnrgd|Kingdom of Norgaad]]. [[being-skrldthnhrfnsvld|Skraldthann]] left Vithgard long before Dvarnvir enlisted, pursuing the finer side of the textile craft among Norgaad's nobility. Dvarnvir finds his brother's obsession with fashion bewildering but respects the skill behind it—after all, they both learned to work fabric from the same parents. Their letters are infrequent but warm, and [[being-skrldthnhrfnsvld|Skraldthann]] has never once failed to send something extravagant for the winter holidays.
+
+[[being-vrldmylhrfnsvld|Vrildmýl Hrafnsvald]] (Son)
+: Dvarnvir's son, now a sergeant in the Vithgard militia. Their relationship carries the weight of years of absence and unspoken guilt. Dvarnvir is quietly proud of the man [[being-vrldmylhrfnsvld|Vrildmýl]] has become, though he knows he had little hand in shaping him. He occasionally leaves supplies or a well-made tent at the militia barracks without a note—small gestures from a man who has never learned how to say what needs saying.
 
 ## Plot Hooks
 
