@@ -472,25 +472,33 @@ Thamiyra's primary motivation is survival combined with the acquisition of secur
 
 ### Patrons
 
-- Lord [[being-uqetirakugz2|Uqetiraku Gazemu]]: A wealthy master of many workshops and collector of fine arts who values Thamiyra as both companion and intellectual equal. He provides her with significant financial support and protection from those who might exploit her former scandal. Their relationship is perhaps her most stable, built on mutual respect rather than mere attraction.
+Lord [[being-uqetirakugz2|Uqetiraku Gazemu]]
+: A wealthy master of many workshops and collector of fine arts who values Thamiyra as both companion and intellectual equal. He provides her with significant financial support and protection from those who might exploit her former scandal. Their relationship is perhaps her most stable, built on mutual respect rather than mere attraction.
 
-- Lady [[being-themeritshl2|Themerît Shalûqu]]: An aging widow and powerful political matriarch who has taken Thamiyra under her wing as a protégée and potential heir to her network of influence. Lady Shalûqu sees in Thamiyra the ambitious mind she once possessed.
+Lady [[being-themeritshl2|Themerît Shalûqu]]
+: An aging widow and powerful political matriarch who has taken Thamiyra under her wing as a protégée and potential heir to her network of influence. Lady Shalûqu sees in Thamiyra the ambitious mind she once possessed.
 
-- **Merchant Prince Vasken Tharcot**: A wealthy foreign trader who visits Aû'Khelâthu regularly for business. He pays handsomely for her companionship and, more importantly, for intelligence about imperial politics and trade agreements. He believes she holds the key to expanding his influence.
+Merchant Prince Vasken Tharcot
+: A wealthy foreign trader who visits Aû'Khelâthu regularly for business. He pays handsomely for her companionship and, more importantly, for intelligence about imperial politics and trade agreements. He believes she holds the key to expanding his influence.
 
-- High Scribe [[being-zentikhlmgth|Zenti Khelemu'Gathau]]: A learned man of letters who employs her to transcribe rare texts and discuss philosophy. He is one of the few patrons with whom she shares a true meeting of minds rather than merely performing companionship.
+High Scribe [[being-zentikhlmgth|Zenti Khelemu'Gathau]]
+: A learned man of letters who employs her to transcribe rare texts and discuss philosophy. He is one of the few patrons with whom she shares a true meeting of minds rather than merely performing companionship.
 
 ### Enemies
 
-- **Lord Commander Azaes Korvac**: The military officer involved in her scandal, now openly resentful of her continued elevation while his own advancement stalled following the incident. He harbors fantasies of somehow destroying her reputation thoroughly enough that she cannot recover. He spreads rumors about her whenever possible and has hired informants to discover new scandals he might use against her.
+Lord Commander Azaes Korvac
+: The military officer involved in her scandal, now openly resentful of her continued elevation while his own advancement stalled following the incident. He harbors fantasies of somehow destroying her reputation thoroughly enough that she cannot recover. He spreads rumors about her whenever possible and has hired informants to discover new scandals he might use against her.
 
-- **Merchant Rival Selena Moros**: A younger courtesan who rose to prominence in the years following Thamiyra's scandal, positioning herself as the fresh alternative to Thamiyra's potentially dangerous history. She actively poaches Thamiyra's patrons and spreads insinuations that Thamiyra is aging out of her prime appeal.
+Merchant Rival Selena Moros
+: A younger courtesan who rose to prominence in the years following Thamiyra's scandal, positioning herself as the fresh alternative to Thamiyra's potentially dangerous history. She actively poaches Thamiyra's patrons and spreads insinuations that Thamiyra is aging out of her prime appeal.
 
 ### Affiliations
 
-- [[affiliation-genzetqelunu|Genzet'Qelunu]]: An informal network of courtesans, companions, and women of influence throughout Aû'Khelâthu who exchange information, provide mutual protection, and maintain standards for their profession. Thamiyra is an unofficial advisor to this network.
+[[affiliation-genzetqelunu|Genzet'Qelunu]]
+: An informal network of courtesans, companions, and women of influence throughout Aû'Khelâthu who exchange information, provide mutual protection, and maintain standards for their profession. Thamiyra is an unofficial advisor to this network.
 
-- [[affiliation-linzethglzkr|Lin'Zethu elu Galezkara]]: A loose association of scholars, historians, and learned individuals who commission her transcription work and include her in their intellectual circles, giving her access to knowledge and protected status as a patron of learning.
+[[affiliation-linzethglzkr|Lin'Zethu elu Galezkara]]
+: A loose association of scholars, historians, and learned individuals who commission her transcription work and include her in their intellectual circles, giving her access to knowledge and protected status as a patron of learning.
 
 ## Plot Hooks
 

@@ -469,18 +469,27 @@ Firâvâd yearns to ensure a smooth succession of power to the next generation o
 
 ### Patrons
 
-- **Chieftain Vethak Stormborn**: The tribe's war leader seeks Firâvâd's counsel on matters both spiritual and practical, often deferring major decisions until consulting with the aged shaman. Their relationship spans twenty-three winters.
-- **Kúlveth the Healer's Daughter**: An herbalist who studied under Firâvâd and now seeks his approval for new medicinal techniques she wishes to integrate into tribal healing practices.
+Chieftain Vethak Stormborn
+: The tribe's war leader seeks Firâvâd's counsel on matters both spiritual and practical, often deferring major decisions until consulting with the aged shaman. Their relationship spans twenty-three winters.
+
+Kúlveth the Healer's Daughter
+: An herbalist who studied under Firâvâd and now seeks his approval for new medicinal techniques she wishes to integrate into tribal healing practices.
 
 ### Enemies
 
-- **Shaman Throkûm of the Eastern Grounds**: A rival practitioner who questions Firâvâd's methods and has gathered a following among younger tribal members. Throkûm practices a more aggressive, combat-focused shamanism that Firâvâd considers spiritually dangerous.
-- **The Silent Conspiracy**: Several younger warriors whisper that Firâvâd's growing infirmity makes him unreliable, that the tribe should seek counsel from shamans with the physical strength to accompany war parties. Firâvâd remains unaware of the depth of this sentiment.
+Shaman Throkûm of the Eastern Grounds
+: A rival practitioner who questions Firâvâd's methods and has gathered a following among younger tribal members. Throkûm practices a more aggressive, combat-focused shamanism that Firâvâd considers spiritually dangerous.
+
+The Silent Conspiracy
+: Several younger warriors whisper that Firâvâd's growing infirmity makes him unreliable, that the tribe should seek counsel from shamans with the physical strength to accompany war parties. Firâvâd remains unaware of the depth of this sentiment.
 
 ### Affiliations
 
-- **Tribal Spiritual Council**: Firâvâd serves as High Shaman and holds a permanent seat on the Council of Elders.
-- **The Order of Storm-Speakers**: An ancient, informal order of shamans devoted to Báhrámiš, scattered across the northern lands. Firâvâd maintains correspondence with a handful of distant brothers and sisters through mystical communion.
+Tribal Spiritual Council
+: Firâvâd serves as High Shaman and holds a permanent seat on the Council of Elders.
+
+The Order of Storm-Speakers
+: An ancient, informal order of shamans devoted to Báhrámiš, scattered across the northern lands. Firâvâd maintains correspondence with a handful of distant brothers and sisters through mystical communion.
 
 ## Plot Hooks
 

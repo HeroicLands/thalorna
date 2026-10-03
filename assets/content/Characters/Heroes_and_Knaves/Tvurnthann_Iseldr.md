@@ -486,9 +486,14 @@ Tvurnthann is driven by three interlocking and contradictory motivations: first,
 
 ### Affiliations
 
-- **Panepistemium (Distant & Precarious):** Tvurnthann maintains a loose affiliation with the Epistemium, having studied there decades ago. However, his formal credentials are suspect, his current activities are at best tolerated and at worst unknown to Epistemium leadership, and his reputation as a "provincial spirit-worker" rather than a true Magister means he has little institutional standing. The Epistemium sees his work as ethnographic curiosity rather than legitimate arcane scholarship.
-- **Vithgard Community (Complicated & Hidden):** Tvurnthann is both embedded in and alienated from Thrúnborg society. The community needs his shamanic gifts—his ability to divine the future, to commune with spirits, to provide counsel on matters spiritual. Yet this same need comes paired with profound cultural shame around his ergi status. Publicly, respectable people maintain distance from him; privately, they seek his counsel and pay for his services.
-- **The Informal Network of Northern Spirit-Workers (Self-Imposed Isolation):** Tvurnthann once moved in circles with other shamanic practitioners—völvur, seers, and priests of the Asguardian faith. But his attempt to formalize and teach shamanic practice, and his gender transgression, have increasingly isolated him. He is no longer fully part of this community, though he desperately wishes to protect it from external threats.
+Panepistemium (Distant & Precarious)
+: Tvurnthann maintains a loose affiliation with the Epistemium, having studied there decades ago. However, his formal credentials are suspect, his current activities are at best tolerated and at worst unknown to Epistemium leadership, and his reputation as a "provincial spirit-worker" rather than a true Magister means he has little institutional standing. The Epistemium sees his work as ethnographic curiosity rather than legitimate arcane scholarship.
+
+Vithgard Community (Complicated & Hidden)
+: Tvurnthann is both embedded in and alienated from Thrúnborg society. The community needs his shamanic gifts—his ability to divine the future, to commune with spirits, to provide counsel on matters spiritual. Yet this same need comes paired with profound cultural shame around his ergi status. Publicly, respectable people maintain distance from him; privately, they seek his counsel and pay for his services.
+
+The Informal Network of Northern Spirit-Workers (Self-Imposed Isolation)
+: Tvurnthann once moved in circles with other shamanic practitioners—völvur, seers, and priests of the Asguardian faith. But his attempt to formalize and teach shamanic practice, and his gender transgression, have increasingly isolated him. He is no longer fully part of this community, though he desperately wishes to protect it from external threats.
 
 ## Plot Hooks
 

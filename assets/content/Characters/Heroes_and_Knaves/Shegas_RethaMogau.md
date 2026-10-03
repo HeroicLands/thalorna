@@ -490,27 +490,36 @@ Shegas is fundamentally driven by a desire that no one should suffer as her brot
 
 ### Patrons
 
-- **The City's Poor and Laboring Classes**: Shegas's primary patrons, though they rarely pay in conventional coin. They repay her kindness with loyalty, gratitude, and protection. If anyone threatened Shegas, they would respond with fierce devotion.
+The City's Poor and Laboring Classes
+: Shegas's primary patrons, though they rarely pay in conventional coin. They repay her kindness with loyalty, gratitude, and protection. If anyone threatened Shegas, they would respond with fierce devotion.
 
-- **The Temple of [[lore-tjaqurdty|Tjaq'ûr]]**: Though Shegas worships Tjaq'ûr, the god of storms, the local temple occasionally sends patients to her and provides her with access to their herbalist's library and resources.
+The Temple of [[lore-tjaqurdty|Tjaq'ûr]]
+: Though Shegas worships Tjaq'ûr, the god of storms, the local temple occasionally sends patients to her and provides her with access to their herbalist's library and resources.
 
-- **Wealthy Merchants Seeking Discretion**: A few affluent clients seek Shegas specifically because they trust her discretion and know she will never betray their confidences. These clients pay well and help sustain her practice.
+Wealthy Merchants Seeking Discretion
+: A few affluent clients seek Shegas specifically because they trust her discretion and know she will never betray their confidences. These clients pay well and help sustain her practice.
 
 ### Enemies
 
-- **Apothecary Corven Marchant**: A wealthy, ambitious apothecary who views Shegas as competition and a threat to his practice. He spreads rumors about her methods, undercuts her prices with wealthy clients, and has tried to convince the city's merchant council to regulate her practice out of existence.
+Apothecary Corven Marchant
+: A wealthy, ambitious apothecary who views Shegas as competition and a threat to his practice. He spreads rumors about her methods, undercuts her prices with wealthy clients, and has tried to convince the city's merchant council to regulate her practice out of existence.
 
-- **Debt Collectors and Loan Sharks**: In her financial desperation, Shegas has taken loans from unsavory sources. These creditors grow impatient with her inability to repay and are beginning to threaten her shop and her safety.
+Debt Collectors and Loan Sharks
+: In her financial desperation, Shegas has taken loans from unsavory sources. These creditors grow impatient with her inability to repay and are beginning to threaten her shop and her safety.
 
-- **The City Guard Commander**: A military official who views independent healers as outside the proper authority structure. He has begun harassing Shegas, threatening to arrest her for practicing medicine without proper licensing, though the licensing he references is not officially required.
+The City Guard Commander
+: A military official who views independent healers as outside the proper authority structure. He has begun harassing Shegas, threatening to arrest her for practicing medicine without proper licensing, though the licensing he references is not officially required.
 
 ### Affiliations
 
-- **Independent Apothecary**: Shegas operates her own practice without formal affiliation to any larger institution, though she maintains good standing with the Apothecaries' Guild (which she pays dues to, even if she often disagrees with their practices).
+Independent Apothecary
+: Shegas operates her own practice without formal affiliation to any larger institution, though she maintains good standing with the Apothecaries' Guild (which she pays dues to, even if she often disagrees with their practices).
 
-- [[affiliation-lutnlgrkhlth|The Lut-Nelgir elu Aû'Khelâthu]]: While not a priestess, Shegas maintains relationships with multiple temples and shares knowledge with their healers.
+[[affiliation-lutnlgrkhlth|The Lut-Nelgir elu Aû'Khelâthu]]
+: While not a priestess, Shegas maintains relationships with multiple temples and shares knowledge with their healers.
 
-- **The Community of the Lower Quarters**: Informal but strong affiliation with the neighborhoods she serves, who view her as one of their own and would rally to her defense.
+The Community of the Lower Quarters
+: Informal but strong affiliation with the neighborhoods she serves, who view her as one of their own and would rally to her defense.
 
 ## Plot Hooks
 

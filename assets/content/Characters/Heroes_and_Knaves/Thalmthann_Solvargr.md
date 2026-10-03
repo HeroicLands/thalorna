@@ -474,18 +474,27 @@ Thalmthann is primarily motivated by a desire to preserve the quality and integr
 
 ### Patrons
 
-- **The Merchant House Valdris**: A wealthy merchant family of considerable power who commission specialized glassware and decorative pieces, providing steady income. Lord **Aldric Valdris** values quality and tradition, making him an ideal patron for Thalmthann.
-- **The Scholars' Collegiate**: A consortium of scholars who depend on Thalmthann's precision glasswork for laboratory equipment and specialized vessels.
+The Merchant House Valdris
+: A wealthy merchant family of considerable power who commission specialized glassware and decorative pieces, providing steady income. Lord **Aldric Valdris** values quality and tradition, making him an ideal patron for Thalmthann.
+
+The Scholars' Collegiate
+: A consortium of scholars who depend on Thalmthann's precision glasswork for laboratory equipment and specialized vessels.
 
 ### Enemies
 
-- **Artisan Eldrik Vrathumakh**: A younger glassworker (who is also trained in ceramics) who established a rival workshop and is actively promoting contemporary aesthetic and technical approaches that directly challenge traditional glassworking. Eldrik has begun winning commissions from wealthy patrons seeking the newest work, which troubles Thalmthann.
-- **The Merchants' Coalition of Modern Commerce**: A faction of younger traders and merchants promoting cheaper, imported glassware and contemporary design trends, actively undercutting Thalmthann's market.
+Artisan Eldrik Vrathumakh
+: A younger glassworker (who is also trained in ceramics) who established a rival workshop and is actively promoting contemporary aesthetic and technical approaches that directly challenge traditional glassworking. Eldrik has begun winning commissions from wealthy patrons seeking the newest work, which troubles Thalmthann.
+
+The Merchants' Coalition of Modern Commerce
+: A faction of younger traders and merchants promoting cheaper, imported glassware and contemporary design trends, actively undercutting Thalmthann's market.
 
 ### Affiliations
 
-- **Glassworkers' Guild of Vithgard** - He holds a position of respect but is increasingly aligned with the guild's conservative faction, creating friction with younger members seeking new methods and experimentation.
-- **The Masters' Circle** - An informal association of elder craftspeople from various disciplines who meet to discuss preservation of traditional techniques and resistance to the newer fashions.
+Glassworkers' Guild of Vithgard
+: - He holds a position of respect but is increasingly aligned with the guild's conservative faction, creating friction with younger members seeking new methods and experimentation.
+
+The Masters' Circle
+: - An informal association of elder craftspeople from various disciplines who meet to discuss preservation of traditional techniques and resistance to the newer fashions.
 
 ## Plot Hooks
 

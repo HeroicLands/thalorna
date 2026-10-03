@@ -469,21 +469,36 @@ Snurvthann seeks to maintain the highest standards of his craft, so that knowled
 
 ### Patrons
 
-- **The Farmer's Collective of Malagna's Outer Reaches**: Agricultural families throughout the region contract Snurvthann for roof work, often waiting months for his availability. They consider his work worth the wait and the expense, trusting him implicitly with their family's primary shelter.
-- **Dún Ragnarsson, Local Hersvald**: The district leader maintains Snurvthann on semi-retainer, so that the Hersvald's hall and outlying buildings receive maintenance from the finest craftsperson available. This provides Snurvthann with steady work and prestige.
-- **The Temple of Mótefnir**: The local priesthood of Snurvthann's god regularly contract his services for the temple's complex roofing requirements, viewing the maintenance of the sacred structure's integrity as highly important.
-- **Wealthy Merchants Traveling to the Capital**: Successful traders investing in secondary residences or trading posts throughout Malagna sometimes locate them near Snurvthann's region specifically to access his reputation for superior craftsmanship.
+The Farmer's Collective of Malagna's Outer Reaches
+: Agricultural families throughout the region contract Snurvthann for roof work, often waiting months for his availability. They consider his work worth the wait and the expense, trusting him implicitly with their family's primary shelter.
+
+Dún Ragnarsson, Local Hersvald
+: The district leader maintains Snurvthann on semi-retainer, so that the Hersvald's hall and outlying buildings receive maintenance from the finest craftsperson available. This provides Snurvthann with steady work and prestige.
+
+The Temple of Mótefnir
+: The local priesthood of Snurvthann's god regularly contract his services for the temple's complex roofing requirements, viewing the maintenance of the sacred structure's integrity as highly important.
+
+Wealthy Merchants Traveling to the Capital
+: Successful traders investing in secondary residences or trading posts throughout Malagna sometimes locate them near Snurvthann's region specifically to access his reputation for superior craftsmanship.
 
 ### Enemies
 
-- **Master Thatcher Bergur**: A younger, more forward-looking competitor operating in the region who uses newer materials and quicker methods that undercut Snurvthann's both in cost and speed. Bergur views Snurvthann as an obstacle to his own advancement and has deliberately sought to replace him on certain contracts.
-- **The Merchant Synod of Progress**: A loose organization of traders and merchants pushing for faster and cheaper building. They view traditional craftspeople like Snurvthann as slow and costly and are paying for attempts to make roofing that can be turned out in quantity.
-- **His Own Aging**: While not a personified enemy, Snurvthann's body increasingly feels like an opponent, rebelling against demands he could once meet without thought. His true enemy is time and physical decline.
+Master Thatcher Bergur
+: A younger, more forward-looking competitor operating in the region who uses newer materials and quicker methods that undercut Snurvthann's both in cost and speed. Bergur views Snurvthann as an obstacle to his own advancement and has deliberately sought to replace him on certain contracts.
+
+The Merchant Synod of Progress
+: A loose organization of traders and merchants pushing for faster and cheaper building. They view traditional craftspeople like Snurvthann as slow and costly and are paying for attempts to make roofing that can be turned out in quantity.
+
+His Own Aging
+: While not a personified enemy, Snurvthann's body increasingly feels like an opponent, rebelling against demands he could once meet without thought. His true enemy is time and physical decline.
 
 ### Affiliations
 
-- **The Rural Craftsmen's Guild of Malagna**: Snurvthann holds senior rank and is respected by all members, though he rarely attends guild functions. The guild recognizes him as one of its finest living practitioners.
-- **The Thatcher's Society**: A smaller, more specialized organization of roof craftspeople across the kingdom. Snurvthann is among the most senior active members and is occasionally consulted on difficult projects.
+The Rural Craftsmen's Guild of Malagna
+: Snurvthann holds senior rank and is respected by all members, though he rarely attends guild functions. The guild recognizes him as one of its finest living practitioners.
+
+The Thatcher's Society
+: A smaller, more specialized organization of roof craftspeople across the kingdom. Snurvthann is among the most senior active members and is occasionally consulted on difficult projects.
 
 ## Plot Hooks
 

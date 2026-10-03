@@ -468,17 +468,24 @@ Braldthann is driven by an almost obsessive need to preserve what his family bui
 
 ### Patrons
 
-- **Magistrate-Commander Haldor Knarvumakh**: The military quartermaster of the Nordheim garrison places annual orders for campaign tents. He values Braldthann's work so highly that he has never sought alternatives, though Haldor privately worries about the aging craftsman's future reliability.
-- **Merchant-Prince Erikson Wayfarer**: A wealthy trading expedition leader who has used Braldthann's tents for three decades. Erikson credits the craftsman's work with saving his life during a catastrophic storm in the Northern Peaks.
+Magistrate-Commander Haldor Knarvumakh
+: The military quartermaster of the Nordheim garrison places annual orders for campaign tents. He values Braldthann's work so highly that he has never sought alternatives, though Haldor privately worries about the aging craftsman's future reliability.
+
+Merchant-Prince Erikson Wayfarer
+: A wealthy trading expedition leader who has used Braldthann's tents for three decades. Erikson credits the craftsman's work with saving his life during a catastrophic storm in the Northern Peaks.
 
 ### Enemies
 
-- **Halvar Fastworker**: A talented younger tentmaker who undercuts Braldthann's prices by thirty percent while maintaining adequate quality. To Braldthann, Halvar represents everything wrong with the new generation. The tension between them has created a genuine rivalry in the Guild.
-- **The Young Apprentices' Coalition**: A group of journeymen seeking to reform the Tentmakers' Guild's rigid apprenticeship system. They view Braldthann as an obstacle to progress and modernization.
+Halvar Fastworker
+: A talented younger tentmaker who undercuts Braldthann's prices by thirty percent while maintaining adequate quality. To Braldthann, Halvar represents everything wrong with the new generation. The tension between them has created a genuine rivalry in the Guild.
+
+The Young Apprentices' Coalition
+: A group of journeymen seeking to reform the Tentmakers' Guild's rigid apprenticeship system. They view Braldthann as an obstacle to progress and modernization.
 
 ### Affiliations
 
-- **Tentmakers' Guild of Nordheim**: Braldthann holds a senior position and is frequently consulted on matters of craft standards, though his votes often fall on the losing side as the Guild gradually embraces efficiency over tradition.
+Tentmakers' Guild of Nordheim
+: Braldthann holds a senior position and is frequently consulted on matters of craft standards, though his votes often fall on the losing side as the Guild gradually embraces efficiency over tradition.
 
 ## Plot Hooks
 

@@ -467,21 +467,36 @@ Càndrathar is driven by survival—his own, and that of his reputation and inde
 
 ### Patrons
 
-- **Lady Seráthis of House Vélyara**: A noble widow whose husband died under mysterious circumstances. She sees to Càndrathar's material comfort and protection within noble circles in exchange for his discretion and the occasional remedy that addresses her more pressing inconveniences.
-- **Merchant-Lord Divócheus**: A ruthless trader who controls shipping interests throughout Vedyara. He occasionally requires Càndrathar's talents to see that troublesome competitors or dishonest agents do not live to cause further problems.
-- **The Silk Merchants' Consortium**: A coalition of powerful merchant families who value Càndrathar's ability to make particularly troublesome slaves, witnesses, or creditors vanish quietly from their enterprises.
+Lady Seráthis of House Vélyara
+: A noble widow whose husband died under mysterious circumstances. She sees to Càndrathar's material comfort and protection within noble circles in exchange for his discretion and the occasional remedy that addresses her more pressing inconveniences.
+
+Merchant-Lord Divócheus
+: A ruthless trader who controls shipping interests throughout Vedyara. He occasionally requires Càndrathar's talents to see that troublesome competitors or dishonest agents do not live to cause further problems.
+
+The Silk Merchants' Consortium
+: A coalition of powerful merchant families who value Càndrathar's ability to make particularly troublesome slaves, witnesses, or creditors vanish quietly from their enterprises.
 
 ### Enemies
 
-- **Apothecary Mandávar the Accuser**: The most vocal critic within the Apothecaries' Guild, Mandávar has been attempting for years to prove that Càndrathar engages in poison-craft and murder-for-hire. His investigations have come dangerously close to truth on several occasions, and Càndrathar lives in constant fear of what evidence Mandávar might uncover—or manufacture.
-- **The Crimson Sisters (Assassins' Collective)**: A loose confederacy of hired killers who view Càndrathar's poison-work as encroachment on their exclusive domain. There is unspoken war between them; each has attempted to frame the other for high-profile murders.
-- **Temple of Rásikara's Inquisitors**: The clergy of his own patron deity have grown concerned by rumors of his activities. Several clerics suspect him of desecrating the sacred fire of Rásikara through his abuse of divine knowledge for profane ends.
+Apothecary Mandávar the Accuser
+: The most vocal critic within the Apothecaries' Guild, Mandávar has been attempting for years to prove that Càndrathar engages in poison-craft and murder-for-hire. His investigations have come dangerously close to truth on several occasions, and Càndrathar lives in constant fear of what evidence Mandávar might uncover—or manufacture.
+
+The Crimson Sisters (Assassins' Collective)
+: A loose confederacy of hired killers who view Càndrathar's poison-work as encroachment on their exclusive domain. There is unspoken war between them; each has attempted to frame the other for high-profile murders.
+
+Temple of Rásikara's Inquisitors
+: The clergy of his own patron deity have grown concerned by rumors of his activities. Several clerics suspect him of desecrating the sacred fire of Rásikara through his abuse of divine knowledge for profane ends.
 
 ### Affiliations
 
-- **Apothecaries' Guild of Vedyara**: His most legitimate and valued affiliation, though increasingly precarious. He maintains his position through careful politicking and significant contributions to the guild's coffers.
-- **The Sealed Ledger (Underground Network)**: A loose confederation of individuals involved in morally questionable commerce who value discretion and skill. Membership is by reputation alone.
-- **Rásikara's Temple**: Officially a devotee and sometime patron of healing rituals, though his relationship with the priesthood has grown strained.
+Apothecaries' Guild of Vedyara
+: His most legitimate and valued affiliation, though increasingly precarious. He maintains his position through careful politicking and significant contributions to the guild's coffers.
+
+The Sealed Ledger (Underground Network)
+: A loose confederation of individuals involved in morally questionable commerce who value discretion and skill. Membership is by reputation alone.
+
+Rásikara's Temple
+: Officially a devotee and sometime patron of healing rituals, though his relationship with the priesthood has grown strained.
 
 ## Plot Hooks
 

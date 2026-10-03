@@ -480,29 +480,39 @@ Vànika is driven by a fundamental commitment to excellence—the conviction tha
 
 ### Patrons
 
-- **Merchant Lord Kaliprasad**: One of Vedyara's most prominent merchants and a devoted admirer of Vànika's cooking; he regularly hosts dinners at his residence and specifically requests that Vànika be hired to prepare meals, paying premium fees for her services.
+Merchant Lord Kaliprasad
+: One of Vedyara's most prominent merchants and a devoted admirer of Vànika's cooking; he regularly hosts dinners at his residence and specifically requests that Vànika be hired to prepare meals, paying premium fees for her services.
 
-- **Priestess Malini**: High priestess of Rásikara's temple and a fellow devotee of the fire goddess; she has commissioned Vànika to prepare ritual meals and has become something of spiritual companion and advocate.
+Priestess Malini
+: High priestess of Rásikara's temple and a fellow devotee of the fire goddess; she has commissioned Vànika to prepare ritual meals and has become something of spiritual companion and advocate.
 
-- **The Ratnisena Family**: Her extended family, for whom she continues to work as head cook; they have given her unusual autonomy and have supported her work despite its demands.
+The Ratnisena Family
+: Her extended family, for whom she continues to work as head cook; they have given her unusual autonomy and have supported her work despite its demands.
 
-- **Master Musicianist Devendra**: A celebrated musician and composer who frequents the inn and has become one of Vànika's few close personal friends; he appreciates her cooking and advocates for her value and importance.
+Master Musicianist Devendra
+: A celebrated musician and composer who frequents the inn and has become one of Vànika's few close personal friends; he appreciates her cooking and advocates for her value and importance.
 
 ### Enemies
 
-- Chef [[being-aqendra2|Aqendra]]: A celebrated and fashionable chef who specializes in exotic and novel cuisine; she views Vànika as representative of outdated culinary traditions and has publicly dismissed her work as pedestrian and artistically limited.
+Chef [[being-aqendra2|Aqendra]]
+: A celebrated and fashionable chef who specializes in exotic and novel cuisine; she views Vànika as representative of outdated culinary traditions and has publicly dismissed her work as pedestrian and artistically limited.
 
-- **The Culinary Progressives**: A movement among younger, ambitious cooks toward fashionable novelty and new techniques; they view Vànika's traditional approach as backward and resistant to the evolution of the culinary arts.
+The Culinary Progressives
+: A movement among younger, ambitious cooks toward fashionable novelty and new techniques; they view Vànika's traditional approach as backward and resistant to the evolution of the culinary arts.
 
-- **Innkeeper Bhavesh**: A rival inn proprietor who employs Chef Aqendra and views Vànika's reputation as directly threatening his business; he has attempted to poach her staff and has spread rumors undermining her standing.
+Innkeeper Bhavesh
+: A rival inn proprietor who employs Chef Aqendra and views Vànika's reputation as directly threatening his business; he has attempted to poach her staff and has spread rumors undermining her standing.
 
 ### Affiliations
 
-- **City Cooks' Guild**: A senior member whose counsel is sought on matters of traditional practice and culinary standards; she serves informally as voice for traditional approaches within an organization increasingly given to novelty.
+City Cooks' Guild
+: A senior member whose counsel is sought on matters of traditional practice and culinary standards; she serves informally as voice for traditional approaches within an organization increasingly given to novelty.
 
-- **The Fellowship of Rásikara**: A lay devotional group honoring the fire goddess; Vànika participates in ritual observances and has begun to develop deeper theological engagement through this community.
+The Fellowship of Rásikara
+: A lay devotional group honoring the fire goddess; Vànika participates in ritual observances and has begun to develop deeper theological engagement through this community.
 
-- **The Ratnisena House Inn**: Her primary workplace and family enterprise where she maintains full creative authority over all culinary operations.
+The Ratnisena House Inn
+: Her primary workplace and family enterprise where she maintains full creative authority over all culinary operations.
 
 ## Plot Hooks
 

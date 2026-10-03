@@ -464,21 +464,36 @@ Chandrakīrtisundarī seeks escape from her current circumstances: she wants to 
 
 ### Patrons
 
-- **The Twilight House Administration**: Led by the mysterious **Madame Síralina**, the house provides Chandrakīrtisundarī with shelter, clients, and access to the wealthy and powerful. The house also protects her from external threats—so long as she remains profitable and obedient.
-- **Nobles of Vedyara (Various)**: Several wealthy merchants, minor nobles, and powerful guild members maintain ongoing arrangements with her, paying for her company and her discretion. Each maintains leverage over her through blackmail or financial dependency.
-- **The Ādānashrenī (Covertly)**: Though not a formal patron, the guild has invested significantly in her development as an information asset. Various members protect her as they would a valuable tool, so long as she remains useful.
+The Twilight House Administration
+: Led by the mysterious **Madame Síralina**, the house provides Chandrakīrtisundarī with shelter, clients, and access to the wealthy and powerful. The house also protects her from external threats—so long as she remains profitable and obedient.
+
+Nobles of Vedyara (Various)
+: Several wealthy merchants, minor nobles, and powerful guild members maintain ongoing arrangements with her, paying for her company and her discretion. Each maintains leverage over her through blackmail or financial dependency.
+
+The Ādānashrenī (Covertly)
+: Though not a formal patron, the guild has invested significantly in her development as an information asset. Various members protect her as they would a valuable tool, so long as she remains useful.
 
 ### Enemies
 
-- **The Guild of Rivals**: Several members of the Ādānashrenī view her divided loyalty as a threat. **Master Thief Gorrán** in particular has marked her as someone who serves too many masters and may eventually betray guild secrets to one of her other patrons.
-- **Discarded Lovers**: Several former clients have become obsessed with her, believing that her paid warmth was real love. Some have become dangerous, attempting to force commitment, threatening violence, or spreading rumors about her work.
-- **Apothecary [[being-cndrthrchrymkhysvr|Càndrathar Āchāryamukhyēshvara]]**: Chandrakīrtisundarī discovered that [[being-cndrthrchrymkhysvr|Càndrathar]] was crafting poisons for hire and attempted to use this knowledge as leverage. He became aware of her investigation and now views her as a threat to his carefully constructed secrecy and safety. He has begun subtly poisoning her, testing compounds and doses to determine how best to kill her when the time comes.
+The Guild of Rivals
+: Several members of the Ādānashrenī view her divided loyalty as a threat. **Master Thief Gorrán** in particular has marked her as someone who serves too many masters and may eventually betray guild secrets to one of her other patrons.
+
+Discarded Lovers
+: Several former clients have become obsessed with her, believing that her paid warmth was real love. Some have become dangerous, attempting to force commitment, threatening violence, or spreading rumors about her work.
+
+Apothecary [[being-cndrthrchrymkhysvr|Càndrathar Āchāryamukhyēshvara]]
+: Chandrakīrtisundarī discovered that [[being-cndrthrchrymkhysvr|Càndrathar]] was crafting poisons for hire and attempted to use this knowledge as leverage. He became aware of her investigation and now views her as a threat to his carefully constructed secrecy and safety. He has begun subtly poisoning her, testing compounds and doses to determine how best to kill her when the time comes.
 
 ### Affiliations
 
-- **Ādānashrenī**: Her official affiliation, though she maintains considerable independence and attempts to serve her own interests first, the guild's second, and her clients' third.
-- **Twilight House**: Her workplace and residence, providing both protection and constraint. She is simultaneously valued asset and trapped commodity.
-- **Vyālendra's Temple**: An informal spiritual affiliation; she prays to the goddess of creation hoping for transformation or redemption, though she attends temple only rarely and carefully.
+Ādānashrenī
+: Her official affiliation, though she maintains considerable independence and attempts to serve her own interests first, the guild's second, and her clients' third.
+
+Twilight House
+: Her workplace and residence, providing both protection and constraint. She is simultaneously valued asset and trapped commodity.
+
+Vyālendra's Temple
+: An informal spiritual affiliation; she prays to the goddess of creation hoping for transformation or redemption, though she attends temple only rarely and carefully.
 
 ## Plot Hooks
 

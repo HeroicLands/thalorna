@@ -481,25 +481,33 @@ He is haunted by guilt—guilt at having survived, which manifests as compulsive
 
 ### Patrons
 
-- **Duchess Verenthia Stonehold**: An aging noblewoman of considerable power who has become Ángelides' most steadfast patron and something approaching a confidante. She commissions fragrance for every season and has referred numerous wealthy clients. She has also begun asking him searching questions about his past and future that suggest maternal concern.
+Duchess Verenthia Stonehold
+: An aging noblewoman of considerable power who has become Ángelides' most steadfast patron and something approaching a confidante. She commissions fragrance for every season and has referred numerous wealthy clients. She has also begun asking him searching questions about his past and future that suggest maternal concern.
 
-- **Lord Marchant Silus**: A wealthy merchant prince who collects unique fragrances as investments. He pays extraordinary sums for experimental pieces and has bankrolled several of Ángelides' most ambitious botanical expeditions to distant lands.
+Lord Marchant Silus
+: A wealthy merchant prince who collects unique fragrances as investments. He pays extraordinary sums for experimental pieces and has bankrolled several of Ángelides' most ambitious botanical expeditions to distant lands.
 
-- **Master Educator Theron**: The head of the Byzarian League's premier academy has engaged Ángelides to create a signature scent for the institution and has begun encouraging him to take apprentices, recognizing that his knowledge is irreplaceable and at risk of being lost if not passed on.
+Master Educator Theron
+: The head of the Byzarian League's premier academy has engaged Ángelides to create a signature scent for the institution and has begun encouraging him to take apprentices, recognizing that his knowledge is irreplaceable and at risk of being lost if not passed on.
 
 ### Enemies
 
-- **Rival Perfumer Makáriash Photokâr**: The only craftsman working at anywhere near Ángelides' level, Makáriash is driven by bitter envy and has begun spreading rumors that Ángelides' fragrances contain narcotic additives and that he has achieved his reputation through illicit magic rather than legitimate skill. Makáriash has also been systematically recruiting away Ángelides' few apprentices.
+Rival Perfumer Makáriash Photokâr
+: The only craftsman working at anywhere near Ángelides' level, Makáriash is driven by bitter envy and has begun spreading rumors that Ángelides' fragrances contain narcotic additives and that he has achieved his reputation through illicit magic rather than legitimate skill. Makáriash has also been systematically recruiting away Ángelides' few apprentices.
 
-- **The Merchant House of Thorne**: The family responsible for orchestrating the attack that took Thessal's life, though official records list them as innocent. They remain powerful, and recent reports suggest they are commissioning Makáriash to create fragrances specifically designed to undermine Ángelides' reputation.
+The Merchant House of Thorne
+: The family responsible for orchestrating the attack that took Thessal's life, though official records list them as innocent. They remain powerful, and recent reports suggest they are commissioning Makáriash to create fragrances specifically designed to undermine Ángelides' reputation.
 
-- **The Church Inquisitor Malthas**: A zealous religious official who suspects Ángelides' use of animal musks and certain exotic botanicals to constitute forbidden practices. He has initiated a quiet investigation into whether Ángelides' work violates religious law, putting him in legal danger even if unfounded.
+The Church Inquisitor Malthas
+: A zealous religious official who suspects Ángelides' use of animal musks and certain exotic botanicals to constitute forbidden practices. He has initiated a quiet investigation into whether Ángelides' work violates religious law, putting him in legal danger even if unfounded.
 
 ### Affiliations
 
-- **The Byzarian League Artisans' Guild**: Ángelides holds master status and serves on the guild's board, though his attendance at meetings is sporadic. He uses his influence to advocate for rigorous standards in craft and refuses to countenance shortcuts or inferior work.
+The Byzarian League Artisans' Guild
+: Ángelides holds master status and serves on the guild's board, though his attendance at meetings is sporadic. He uses his influence to advocate for rigorous standards in craft and refuses to countenance shortcuts or inferior work.
 
-- [[affiliation-linlghrglzkr|Lin'Legharu elu Galezkara]]: An informal collective of naturalists, herbalists, and alchemists who correspond with Ángelides and occasionally undertake joint expeditions to source rare materials from dangerous or distant locations.
+[[affiliation-linlghrglzkr|Lin'Legharu elu Galezkara]]
+: An informal collective of naturalists, herbalists, and alchemists who correspond with Ángelides and occasionally undertake joint expeditions to source rare materials from dangerous or distant locations.
 
 ## Plot Hooks
 

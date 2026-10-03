@@ -465,20 +465,33 @@ Ralthýra seeks not fortune nor fame, but redemption—both her own and that of 
 
 ### Patrons
 
-- **Brother Aldrin**: A sympathetic former monk from her monastery who occasionally slips her coin and information, though he himself risks punishment for maintaining the connection.
-- **Magistrate Keira Stonehearst**: A widow who fell in love with Ralthýra's voice years ago and has quietly ensured she survives each harsh winter, though few know of their association.
-- **The Wayfarers' Council**: An informal collective of street folk who provide protection and shelter to Ralthýra in exchange for her songs, which preserve their histories.
+Brother Aldrin
+: A sympathetic former monk from her monastery who occasionally slips her coin and information, though he himself risks punishment for maintaining the connection.
+
+Magistrate Keira Stonehearst
+: A widow who fell in love with Ralthýra's voice years ago and has quietly ensured she survives each harsh winter, though few know of their association.
+
+The Wayfarers' Council
+: An informal collective of street folk who provide protection and shelter to Ralthýra in exchange for her songs, which preserve their histories.
 
 ### Enemies
 
-- **The Copper Syndicate**: A gang of organized pickpockets and con artists who view Ralthýra's easy trust as an exploitable resource. They have repeatedly victimized her, and she has recently begun to recognize the pattern.
-- **Father Cormac**: Her former monastery's new priest, a zealot who views her as a heretic whose very existence challenges the theological authority he seeks to establish. He has forbidden anyone from assisting her.
-- **Merchant House Drâk**: A trading family whose wayward son she spurned; his wounded pride has translated into a vendetta, spreading lies about her character.
+The Copper Syndicate
+: A gang of organized pickpockets and con artists who view Ralthýra's easy trust as an exploitable resource. They have repeatedly victimized her, and she has recently begun to recognize the pattern.
+
+Father Cormac
+: Her former monastery's new priest, a zealot who views her as a heretic whose very existence challenges the theological authority he seeks to establish. He has forbidden anyone from assisting her.
+
+Merchant House Drâk
+: A trading family whose wayward son she spurned; his wounded pride has translated into a vendetta, spreading lies about her character.
 
 ### Affiliations
 
-- **The Street Chorus**: An informal network of street performers, buskers, and wandering minstrels who share information, performance spaces, and resources.
-- **The Devotees of Thrúnvald's Storm**: Though she no longer affiliates with any formal temple, she maintains loose spiritual bonds with independent worshippers who honor the storm god.
+The Street Chorus
+: An informal network of street performers, buskers, and wandering minstrels who share information, performance spaces, and resources.
+
+The Devotees of Thrúnvald's Storm
+: Though she no longer affiliates with any formal temple, she maintains loose spiritual bonds with independent worshippers who honor the storm god.
 
 ## Plot Hooks
 

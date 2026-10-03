@@ -471,22 +471,39 @@ Korêmdânis is driven by a vision of mastery that goes beyond technical skill. 
 
 ### Patrons
 
-- **The Imperial House of Vylaria**: The royal family employs her as unofficial advisor on martial matters and frequently commissions her to teach their scions. The Emperor himself has attended her demonstrations.
-- **House Bárkrâtys**: Her own noble family relies on her to restore their reputation and standing, and she has successfully elevated their status from declining house to one of prestige in Vald.
-- **The Wyvern-Sword Company**: A mercenary military company hires her as a consultant for combat training and occasionally seeks her counsel on matters of war.
-- **Wealthy Merchant Families**: Several prominent merchant families, eager to have their children trained by the famous master, pay enormous sums for private instruction and commission special training regimens.
+The Imperial House of Vylaria
+: The royal family employs her as unofficial advisor on martial matters and frequently commissions her to teach their scions. The Emperor himself has attended her demonstrations.
+
+House Bárkrâtys
+: Her own noble family relies on her to restore their reputation and standing, and she has successfully elevated their status from declining house to one of prestige in Vald.
+
+The Wyvern-Sword Company
+: A mercenary military company hires her as a consultant for combat training and occasionally seeks her counsel on matters of war.
+
+Wealthy Merchant Families
+: Several prominent merchant families, eager to have their children trained by the famous master, pay enormous sums for private instruction and commission special training regimens.
 
 ### Enemies
 
-- **Swordmaster Lysandor the Undefeated**: Officially, no rival; practically, Lysandor is in the service of the Empire's rival power and harbors intense envy of Korêmdânis's reputation. They have not yet formally dueled, though both know it is inevitable.
-- **The Iron Circle**: A shadowy assassin's guild views Korêmdânis as a threat to their operations, as her students often become bodyguards and protectors. They have made subtle attempts to undermine her reputation.
-- **Her Own Ambition**: In a sense, her greatest enemy is her perfectionist drive, which drives her forward endlessly but allows her no rest or satisfaction.
+Swordmaster Lysandor the Undefeated
+: Officially, no rival; practically, Lysandor is in the service of the Empire's rival power and harbors intense envy of Korêmdânis's reputation. They have not yet formally dueled, though both know it is inevitable.
+
+The Iron Circle
+: A shadowy assassin's guild views Korêmdânis as a threat to their operations, as her students often become bodyguards and protectors. They have made subtle attempts to undermine her reputation.
+
+Her Own Ambition
+: In a sense, her greatest enemy is her perfectionist drive, which drives her forward endlessly but allows her no rest or satisfaction.
 
 ### Affiliations
 
-- **The City Fencing Guild of Vald**: She is the Guild's acknowledged master and is the final arbiter in disputes over technique and conduct within the dueling circles.
-- **The Path of Breath**: The sacred martial order to which she belongs, comprising only the most accomplished warriors devoted to uniting technique with spiritual discipline.
-- **House Bárkrâtys**: Her noble family, whose honor she has restored and whose name she continues to elevate through her accomplishments.
+The City Fencing Guild of Vald
+: She is the Guild's acknowledged master and is the final arbiter in disputes over technique and conduct within the dueling circles.
+
+The Path of Breath
+: The sacred martial order to which she belongs, comprising only the most accomplished warriors devoted to uniting technique with spiritual discipline.
+
+House Bárkrâtys
+: Her noble family, whose honor she has restored and whose name she continues to elevate through her accomplishments.
 
 ## Plot Hooks
 

@@ -474,19 +474,30 @@ Mehrâd is driven by a need to prove that the combination of instinct, skill, an
 
 ### Patrons
 
-- **Merchant Consortium of the Eastern Trade**: A powerful merchant collective that has contracted Mehrâd's services repeatedly for particularly difficult voyages between sultanate ports and distant trading partners.
-- **Captain Sámir the Venerable**: An aging merchant captain and Mehrâd's closest friend, who continues to offer him navigation contracts and is one of the few people Mehrâd trusts.
+Merchant Consortium of the Eastern Trade
+: A powerful merchant collective that has contracted Mehrâd's services repeatedly for particularly difficult voyages between sultanate ports and distant trading partners.
+
+Captain Sámir the Venerable
+: An aging merchant captain and Mehrâd's closest friend, who continues to offer him navigation contracts and is one of the few people Mehrâd trusts.
 
 ### Enemies
 
-- **Khalid al-Rash (The Cruel Tide)**: A rival pilot of similar age whose jealousy of Mehrâd's greater success has festered into open enmity. Khalid has begun spreading rumors regarding the safety of Mehrâd's methods and competing for contracts to deliberately undermine his reputation.
-- **The Corsairs of the Burning Coast**: A pirate collective that Mehrâd humiliated several years ago by piloting a merchant vessel directly through their territory without allowing them a chance at plunder. The corsairs have placed a substantial bounty on Mehrâd's head.
+Khalid al-Rash (The Cruel Tide)
+: A rival pilot of similar age whose jealousy of Mehrâd's greater success has festered into open enmity. Khalid has begun spreading rumors regarding the safety of Mehrâd's methods and competing for contracts to deliberately undermine his reputation.
+
+The Corsairs of the Burning Coast
+: A pirate collective that Mehrâd humiliated several years ago by piloting a merchant vessel directly through their territory without allowing them a chance at plunder. The corsairs have placed a substantial bounty on Mehrâd's head.
 
 ### Affiliations
 
-- **The Local Mariners' Guild**: Member in good standing, though frequently at odds with the guild's safety rules and conservative approach to navigation.
-- **The Sultanate's Merchant Fleet**: Occasional contractor for government trade missions and sensitive vessel movements.
-- **The Adventurers' Collective** (informal): An emerging association of explorers and risk-takers seeking to chart new waters and discover undocumented lands.
+The Local Mariners' Guild
+: Member in good standing, though frequently at odds with the guild's safety rules and conservative approach to navigation.
+
+The Sultanate's Merchant Fleet
+: Occasional contractor for government trade missions and sensitive vessel movements.
+
+The Adventurers' Collective
+: (informal): An emerging association of explorers and risk-takers seeking to chart new waters and discover undocumented lands.
 
 ## Plot Hooks
 

@@ -477,18 +477,27 @@ As she approaches forty, she is increasingly aware that her vision could die wit
 
 ### Patrons
 
-- **Lady Amara Vaidyavallabha**: A wealthy merchant's wife and dedicated patron of Vedyara's craftspeople who has commissioned numerous toys for her children and grandchildren. She has become Suvaratika's de facto advocate, recommending her work to other noble families and occasionally commissioning custom pieces.
-- **The House of Childhood Wisdom**: A scholarly institution dedicated to understanding child development and education that has acquired several of Suvaratika's toys for study, viewing them as both functional objects and philosophical texts about learning and play.
+Lady Amara Vaidyavallabha
+: A wealthy merchant's wife and dedicated patron of Vedyara's craftspeople who has commissioned numerous toys for her children and grandchildren. She has become Suvaratika's de facto advocate, recommending her work to other noble families and occasionally commissioning custom pieces.
+
+The House of Childhood Wisdom
+: A scholarly institution dedicated to understanding child development and education that has acquired several of Suvaratika's toys for study, viewing them as both functional objects and philosophical texts about learning and play.
 
 ### Enemies
 
-- **The Merchant Collective of Mass Producers**: Large-scale toy manufacturers who view Suvaratika's insistence on handcrafted quality as an obstacle to progress and market efficiency. They have occasionally attempted to undercut her prices and capture her customers.
-- **Dhârîka Vyāvahārika**: A competitive toymaker and a merchant-craftsperson who produces trendy, fashionable toys in high volume. She views Suvaratika's philosophical approach as pretentious and her resistance to mass production as economically naive. The two have engaged in passive-aggressive competition for the same elite clientele.
+The Merchant Collective of Mass Producers
+: Large-scale toy manufacturers who view Suvaratika's insistence on handcrafted quality as an obstacle to progress and market efficiency. They have occasionally attempted to undercut her prices and capture her customers.
+
+Dhârîka Vyāvahārika
+: A competitive toymaker and a merchant-craftsperson who produces trendy, fashionable toys in high volume. She views Suvaratika's philosophical approach as pretentious and her resistance to mass production as economically naive. The two have engaged in passive-aggressive competition for the same elite clientele.
 
 ### Affiliations
 
-- **The City Artisans' Guild of Vedyara**: Suvaratika holds full membership and is respected for her commitment to craft standards, though her resistance to guild efforts toward collective marketing and efficiency gains sometimes creates friction.
-- **The Order of Meghanātha's Children**: A spiritual organization devoted to the storm-goddess that Suvaratika maintains loose affiliation with, viewing her creative work as part of a larger spiritual practice of world-making.
+The City Artisans' Guild of Vedyara
+: Suvaratika holds full membership and is respected for her commitment to craft standards, though her resistance to guild efforts toward collective marketing and efficiency gains sometimes creates friction.
+
+The Order of Meghanātha's Children
+: A spiritual organization devoted to the storm-goddess that Suvaratika maintains loose affiliation with, viewing her creative work as part of a larger spiritual practice of world-making.
 
 ## Plot Hooks
 

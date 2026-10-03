@@ -464,19 +464,30 @@ There is also a will-to-power beneath his stated goals—a desire to become some
 
 ### Patrons
 
-- **Baron Euthélôs of Nartûm**: An aging nobleman of considerable wealth and power who has become increasingly obsessed with his own mortality and views Dómrithâs's work as his best hope for extended life or outright immortality. Euthélôs provides resources, protection from guild scrutiny, and unwilling test subjects from his estate's servile population.
-- **Master Physician Bryâkos**: A healer of real reputation who, while publicly maintaining distance from Dómrithâs's more questionable work, secretly purchases certain of his creations for use in his own practice, generating income and intellectual exchange.
+Baron Euthélôs of Nartûm
+: An aging nobleman of considerable wealth and power who has become increasingly obsessed with his own mortality and views Dómrithâs's work as his best hope for extended life or outright immortality. Euthélôs provides resources, protection from guild scrutiny, and unwilling test subjects from his estate's servile population.
+
+Master Physician Bryâkos
+: A healer of real reputation who, while publicly maintaining distance from Dómrithâs's more questionable work, secretly purchases certain of his creations for use in his own practice, generating income and intellectual exchange.
 
 ### Enemies
 
-- **Master Alchemist Theron**: The guild-master of Nartûm's Alchemist Guild views Dómrithâs as a corruption of their craft and has spent years gathering evidence of his unethical practices with intent to expose him and have him expelled or worse.
-- **Priestess Morvanna of Jánus's Temple**: The keeper of the order-god's temple views Dómrithâs's work as corruption of natural order and has declared his pursuit of immortality heretical. She actively works to discredit him and protect innocents from his experiments.
-- **The Widow Selene**: The former lover of Dómrithâs who realized the depth of his moral corruption and left him, she now operates a secret network providing sanctuary to those who have escaped his experiments.
+Master Alchemist Theron
+: The guild-master of Nartûm's Alchemist Guild views Dómrithâs as a corruption of their craft and has spent years gathering evidence of his unethical practices with intent to expose him and have him expelled or worse.
+
+Priestess Morvanna of Jánus's Temple
+: The keeper of the order-god's temple views Dómrithâs's work as corruption of natural order and has declared his pursuit of immortality heretical. She actively works to discredit him and protect innocents from his experiments.
+
+The Widow Selene
+: The former lover of Dómrithâs who realized the depth of his moral corruption and left him, she now operates a secret network providing sanctuary to those who have escaped his experiments.
 
 ### Affiliations
 
-- **Alchemist Guild of Nartûm**: Nominally affiliated but increasingly shunned by mainstream guild members.
-- **The Hidden Cabal**: Rumored to be part of a secret society of researchers pursuing similar goals of transcendence and immortality, though his actual membership status is unclear.
+Alchemist Guild of Nartûm
+: Nominally affiliated but increasingly shunned by mainstream guild members.
+
+The Hidden Cabal
+: Rumored to be part of a secret society of researchers pursuing similar goals of transcendence and immortality, though his actual membership status is unclear.
 
 ## Plot Hooks
 

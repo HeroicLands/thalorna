@@ -473,19 +473,30 @@ Secondarily, Alýkos is driven by pride in his craft. He wants to complete signi
 
 ### Patrons
 
-- **The Timberwrights' Guild**: His guild affiliation provides him with regular commissions, referrals, and standing. However, his occasional criticism of newer techniques creates some tension with the guild's forward-looking members.
-- **The Noble House of Theodákis**: A merchant-noble family that has commissioned Alýkos for three major projects over two decades, including the beams for their primary residence. They value his reliability and quality.
-- **The Master Builders' Association**: An informal group of architects and master craftspeople who value his consultation on projects requiring skill with timber, particularly those where traditional aesthetics are desired.
+The Timberwrights' Guild
+: His guild affiliation provides him with regular commissions, referrals, and standing. However, his occasional criticism of newer techniques creates some tension with the guild's forward-looking members.
+
+The Noble House of Theodákis
+: A merchant-noble family that has commissioned Alýkos for three major projects over two decades, including the beams for their primary residence. They value his reliability and quality.
+
+The Master Builders' Association
+: An informal group of architects and master craftspeople who value his consultation on projects requiring skill with timber, particularly those where traditional aesthetics are desired.
 
 ### Enemies
 
-- **The Modernist Faction**: A loosely organized group of younger timberwrights and craftspeople who view traditional methods as wasteful and who actively undercut Alýkos's commissions by offering faster, cheaper alternatives. Their leader, **Vektor the Innovator**, has directly challenged Alýkos's design choices on several projects.
-- **His Own Son, Leontáhir**: Once apprenticed to Alýkos, Leontáhir rejected his father's teachings and became a champion of faster, newer techniques. The two have been estranged for fifteen years, a source of deep private pain for Alýkos. Leontáhir's success with the new methods feels like a personal repudiation of everything Alýkos values.
+The Modernist Faction
+: A loosely organized group of younger timberwrights and craftspeople who view traditional methods as wasteful and who actively undercut Alýkos's commissions by offering faster, cheaper alternatives. Their leader, **Vektor the Innovator**, has directly challenged Alýkos's design choices on several projects.
+
+His Own Son, Leontáhir
+: Once apprenticed to Alýkos, Leontáhir rejected his father's teachings and became a champion of faster, newer techniques. The two have been estranged for fifteen years, a source of deep private pain for Alýkos. Leontáhir's success with the new methods feels like a personal repudiation of everything Alýkos values.
 
 ### Affiliations
 
-- **The Timberwrights' Guild of the Byzarian League**: A formal organization maintaining standards for timber-working and managing guild commissions. Alýkos holds status as a Master, the highest rank.
-- **The Master Craftspeople's Association**: An informal group meeting quarterly to share techniques and discuss the future of craft trades in the League.
+The Timberwrights' Guild of the Byzarian League
+: A formal organization maintaining standards for timber-working and managing guild commissions. Alýkos holds status as a Master, the highest rank.
+
+The Master Craftspeople's Association
+: An informal group meeting quarterly to share techniques and discuss the future of craft trades in the League.
 
 ## Plot Hooks
 

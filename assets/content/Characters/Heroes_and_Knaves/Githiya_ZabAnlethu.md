@@ -476,20 +476,33 @@ Githiya's deepest drive pulls two ways: she seeks both complete control over her
 
 ### Patrons
 
-- **Master Lenti of Gar-Zekhemulu**: Her current employer, a wealthy antiquarian who, despite his obliviousness to her resentment, depends on her and would be lost without her.
-- [[affiliation-lutuznera|The Lut-Uznêra]]: Githiya performs volunteer ritual work at the main temple and is recognized there as a keeper of proper domestic observances.
-- [[affiliation-linlmzbglzk2|Lin'Lemzabu elu Galezkara]]: A loose society of the trade through which Githiya occasionally takes outside work, reordering the households of other noble families.
+Master Lenti of Gar-Zekhemulu
+: Her current employer, a wealthy antiquarian who, despite his obliviousness to her resentment, depends on her and would be lost without her.
+
+[[affiliation-lutuznera|The Lut-Uznêra]]
+: Githiya performs volunteer ritual work at the main temple and is recognized there as a keeper of proper domestic observances.
+
+[[affiliation-linlmzbglzk2|Lin'Lemzabu elu Galezkara]]
+: A loose society of the trade through which Githiya occasionally takes outside work, reordering the households of other noble families.
 
 ### Enemies
 
-- **Young Servant Amqelitefu**: A charming but lazy kitchen worker whose sloppiness Githiya has repeatedly corrected, creating mutual contempt. Amqelitefu spreads rumors that Githiya is cruel and joyless.
-- **The Competing Steward Akhoqu**: Another highly competent household manager working for a rival noble family, with whom Githiya competed years ago. Akhoqu beat her for a prestigious position, and Githiya has never forgotten or forgiven.
-- **Her Own Resentment**: In some ways, Master Lenti himself has become an enemy—not through malice, but through his casual assumption that her excellence is simply her nature, not something worthy of acknowledgment or reward.
+Young Servant Amqelitefu
+: A charming but lazy kitchen worker whose sloppiness Githiya has repeatedly corrected, creating mutual contempt. Amqelitefu spreads rumors that Githiya is cruel and joyless.
+
+The Competing Steward Akhoqu
+: Another highly competent household manager working for a rival noble family, with whom Githiya competed years ago. Akhoqu beat her for a prestigious position, and Githiya has never forgotten or forgiven.
+
+Her Own Resentment
+: In some ways, Master Lenti himself has become an enemy—not through malice, but through his casual assumption that her excellence is simply her nature, not something worthy of acknowledgment or reward.
 
 ### Affiliations
 
-- [[affiliation-lutuznera|Lut-Uznêra]]: Devoted worshipper and volunteer, though she attends with the same methodical approach she applies to everything.
-- [[affiliation-linlmzbglzk2|Lin'Lemzabu elu Galezkara]]: Member in good standing, though she remains somewhat isolated even among her peers in the trade.
+[[affiliation-lutuznera|Lut-Uznêra]]
+: Devoted worshipper and volunteer, though she attends with the same methodical approach she applies to everything.
+
+[[affiliation-linlmzbglzk2|Lin'Lemzabu elu Galezkara]]
+: Member in good standing, though she remains somewhat isolated even among her peers in the trade.
 
 ## Plot Hooks
 

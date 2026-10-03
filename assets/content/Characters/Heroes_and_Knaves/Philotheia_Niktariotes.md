@@ -464,27 +464,36 @@ Philothêia seeks to go beyond mere entertainment. Obsessed with uncovering the 
 
 ### Patrons
 
-- **Varékos the Heartful**: Proprietor of the Siren's Repose, a beloved tavern in Thálassos's harbor district. He has become something of a father figure to Philothêia, offering her steady employment and shelter, though he worries about her increasingly dangerous quests. Their relationship is complex—he has never concealed romantic interest, which Philothêia gently deflects with affection but firm boundaries.
+Varékos the Heartful
+: Proprietor of the Siren's Repose, a beloved tavern in Thálassos's harbor district. He has become something of a father figure to Philothêia, offering her steady employment and shelter, though he worries about her increasingly dangerous quests. Their relationship is complex—he has never concealed romantic interest, which Philothêia gently deflects with affection but firm boundaries.
 
-- **Lady Aéthna Tethyríon**: An aging widow of minor noble standing who became enchanted with Philothêia's playing at a merchant's wedding. She now sponsors the musician's travels and has deep connections throughout the League's nobility, which Philothêia leverages despite her distaste for aristocratic politics.
+Lady Aéthna Tethyríon
+: An aging widow of minor noble standing who became enchanted with Philothêia's playing at a merchant's wedding. She now sponsors the musician's travels and has deep connections throughout the League's nobility, which Philothêia leverages despite her distaste for aristocratic politics.
 
-- **The Fisher-Folk of Coastal Villages**: Widespread informal patronage from common people in maritime communities. They see in Philothêia a keeper of the old songs, and they share information about any stranger asking about ancient music.
+The Fisher-Folk of Coastal Villages
+: Widespread informal patronage from common people in maritime communities. They see in Philothêia a keeper of the old songs, and they share information about any stranger asking about ancient music.
 
 ### Enemies
 
-- **Démetros the Flawless**: A virtuoso courtier-musician of aristocratic birth who views Philothêia as an untutored talent who has undeservedly garnered Guild attention. He has spread rumors questioning her authenticity and occasionally purchases her commissions only to cancel them publicly, damaging her reputation.
+Démetros the Flawless
+: A virtuoso courtier-musician of aristocratic birth who views Philothêia as an untutored talent who has undeservedly garnered Guild attention. He has spread rumors questioning her authenticity and occasionally purchases her commissions only to cancel them publicly, damaging her reputation.
 
-- **The Orthodox Guild Establishment**: While she holds membership in good standing, several senior Guild masters view her refusal to commit to formal composition as a betrayal of their teachings. They have subtly blacklisted her from high-profile teaching positions.
+The Orthodox Guild Establishment
+: While she holds membership in good standing, several senior Guild masters view her refusal to commit to formal composition as a betrayal of their teachings. They have subtly blacklisted her from high-profile teaching positions.
 
-- **Kârell the Sage-Hunter**: An obsessive collector of arcane lore who believes Philothêia possesses information about the Lost Anthem that rightfully belongs to him. He has begun following her travels, offering payment for her research, and growing more threatening as she refuses his advances.
+Kârell the Sage-Hunter
+: An obsessive collector of arcane lore who believes Philothêia possesses information about the Lost Anthem that rightfully belongs to him. He has begun following her travels, offering payment for her research, and growing more threatening as she refuses his advances.
 
 ### Affiliations
 
-- **Minstrels' Guild of the Byzarian League**: Her official membership, though tensions exist with the establishment hierarchy regarding her unconventional approach.
+Minstrels' Guild of the Byzarian League
+: Her official membership, though tensions exist with the establishment hierarchy regarding her unconventional approach.
 
-- **The Siren's Repose**: Effectively her home base and regular venue for performances.
+The Siren's Repose
+: Effectively her home base and regular venue for performances.
 
-- **The Fellowship of the Old Songs**: An informal network of folklorists, scholars, and village storytellers scattered across three kingdoms. She is a junior member seeking to gain standing through her discoveries.
+The Fellowship of the Old Songs
+: An informal network of folklorists, scholars, and village storytellers scattered across three kingdoms. She is a junior member seeking to gain standing through her discoveries.
 
 ## Plot Hooks
 

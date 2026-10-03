@@ -471,20 +471,33 @@ Leónantos seeks redemption through unwavering service to Flórania, believing t
 
 ### Patrons
 
-- **Thálassios of the Byzarian Council**: A military governor who relies on Leónantos's blessings and counsel to maintain his authority and morale among his troops.
-- **High Priestess Eupráxinaz**: The supreme ecclesiastical authority in the region, who has come to trust—though not entirely comfort—Leónantos's brutal effectiveness.
+Thálassios of the Byzarian Council
+: A military governor who relies on Leónantos's blessings and counsel to maintain his authority and morale among his troops.
+
+High Priestess Eupráxinaz
+: The supreme ecclesiastical authority in the region, who has come to trust—though not entirely comfort—Leónantos's brutal effectiveness.
 
 ### Enemies
 
-- **Captain Théodoulos the Bitter**: A rival corsair from Leónantos's pirate days, now commanding his own fleet and seeking to end his former comrade before divine luck can claim vengeance for all Théodoulos has lost.
-- **House of Maríanos**: An aristocratic family whose merchant fleet Leónantos systematically destroyed during his years as the Scarlet Reaver's captain; the surviving heirs have sworn blood oaths to see him burned.
-- **The Apostate Priests of Darkness**: A heretical sect believes Leónantos's conversion was false and that he works to corrupt the church from within; they have marked him for assassination.
+Captain Théodoulos the Bitter
+: A rival corsair from Leónantos's pirate days, now commanding his own fleet and seeking to end his former comrade before divine luck can claim vengeance for all Théodoulos has lost.
+
+House of Maríanos
+: An aristocratic family whose merchant fleet Leónantos systematically destroyed during his years as the Scarlet Reaver's captain; the surviving heirs have sworn blood oaths to see him burned.
+
+The Apostate Priests of Darkness
+: A heretical sect believes Leónantos's conversion was false and that he works to corrupt the church from within; they have marked him for assassination.
 
 ### Affiliations
 
-- **Church of Flórania (Fire Aspect)**: High-ranking priest and architect of military-religious cooperation
-- **Byzarian Military Council**: Serves as spiritual advisor to commanders and overseer of pre-battle rituals
-- **The Order of the Sacred Flame**: An elite cadre of warrior-monks trained in both priestly and martial disciplines under his direct mentorship
+Church of Flórania (Fire Aspect)
+: High-ranking priest and architect of military-religious cooperation
+
+Byzarian Military Council
+: Serves as spiritual advisor to commanders and overseer of pre-battle rituals
+
+The Order of the Sacred Flame
+: An elite cadre of warrior-monks trained in both priestly and martial disciplines under his direct mentorship
 
 ## Plot Hooks
 

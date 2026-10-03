@@ -471,19 +471,30 @@ Hlaskorv is driven by two interrelated motivations: a determination to practice 
 
 ### Patrons
 
-- **The Masterwork Carpenters' Alliance**: A collective of the region's finest woodworkers who depend upon Hlaskorv's timber for their most important commissions and fiercely defend his methods against criticism.
-- **Jarl Hálrek Forestborn**: A noble who has made the surprising commitment to sustainable forest management and contracts Hlaskorv for all major timber needs across his extensive lands.
-- **The Herbal Society of Nordheim**: An organization dedicated to preserving forest knowledge and sustainable practices that values Hlaskorv's knowledge and advocates for his methods throughout the kingdom.
+The Masterwork Carpenters' Alliance
+: A collective of the region's finest woodworkers who depend upon Hlaskorv's timber for their most important commissions and fiercely defend his methods against criticism.
+
+Jarl Hálrek Forestborn
+: A noble who has made the surprising commitment to sustainable forest management and contracts Hlaskorv for all major timber needs across his extensive lands.
+
+The Herbal Society of Nordheim
+: An organization dedicated to preserving forest knowledge and sustainable practices that values Hlaskorv's knowledge and advocates for his methods throughout the kingdom.
 
 ### Enemies
 
-- **The Rapid Timber Consortium**: A coalition of aggressive woodcutters and merchants who put the volume cut before sustainability and view Hlaskorv as an obstacle to profit, regularly underbidding his contracts and spreading rumors about his inflexibility.
-- **Master Loggen the Efficient**: A younger, talented woodcutter who has embraced modern techniques that allow rapid felling and processing. He and Hlaskorv have clashed repeatedly over philosophy and methods, with Loggen publicly mocking the elder's "outdated sentimentality."
-- **The Expanding Cities Guild**: An organization of merchants and builders who source timber for urban expansion and have no interest in the slower pace and higher costs of sustainable harvesting.
+The Rapid Timber Consortium
+: A coalition of aggressive woodcutters and merchants who put the volume cut before sustainability and view Hlaskorv as an obstacle to profit, regularly underbidding his contracts and spreading rumors about his inflexibility.
+
+Master Loggen the Efficient
+: A younger, talented woodcutter who has embraced modern techniques that allow rapid felling and processing. He and Hlaskorv have clashed repeatedly over philosophy and methods, with Loggen publicly mocking the elder's "outdated sentimentality."
+
+The Expanding Cities Guild
+: An organization of merchants and builders who source timber for urban expansion and have no interest in the slower pace and higher costs of sustainable harvesting.
 
 ### Affiliations
 
-- **The Woodcutters' Guild of Nordheim**: Hlaskorv holds significant prestige within the Guild as one of its most respected masters, and his advocacy for traditional standards provides the primary counterweight to those pushing toward more aggressive practices.
+The Woodcutters' Guild of Nordheim
+: Hlaskorv holds significant prestige within the Guild as one of its most respected masters, and his advocacy for traditional standards provides the primary counterweight to those pushing toward more aggressive practices.
 
 ## Plot Hooks
 

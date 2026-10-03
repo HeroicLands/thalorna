@@ -472,19 +472,24 @@ Hnurvthýra's driving force is the pursuit of mastery—not for its own sake, bu
 
 ### Patrons
 
-- **Tvarnmark Village Council**: The local leadership regularly commissions her to create formal garments for ceremonies and state functions, and they strongly advocate for her skills among travelers and merchants.
+Tvarnmark Village Council
+: The local leadership regularly commissions her to create formal garments for ceremonies and state functions, and they strongly advocate for her skills among travelers and merchants.
 
-- **Einkorn Kraldumakh**: Though now elderly and retired, her former master remains a mentor figure and important influence. He occasionally guides her on difficult technical questions and serves as a source of wisdom and encouragement.
+Einkorn Kraldumakh
+: Though now elderly and retired, her former master remains a mentor figure and important influence. He occasionally guides her on difficult technical questions and serves as a source of wisdom and encouragement.
 
-- **The Merchant Families**: Particularly the families of Tvarnmark's merchants, who purchase fine clothing from her for their own use and as gifts for business associates and family celebrations.
+The Merchant Families
+: Particularly the families of Tvarnmark's merchants, who purchase fine clothing from her for their own use and as gifts for business associates and family celebrations.
 
 ### Enemies
 
-- **None Actively Hostile**: Hnurvthýra has earned no true enemies through her work. However, rival craftspeople in neighboring towns view her growing reputation with some envy, and a few jealous competitors have attempted (unsuccessfully) to undermine her reputation.
+None Actively Hostile
+: Hnurvthýra has earned no true enemies through her work. However, rival craftspeople in neighboring towns view her growing reputation with some envy, and a few jealous competitors have attempted (unsuccessfully) to undermine her reputation.
 
 ### Affiliations
 
-- **Informal Community Textile Workers**: While not formally guilded, Hnurvthýra maintains connections with weavers, dyers, and leather workers throughout Norgaad and occasionally trades materials and knowledge with them.
+Informal Community Textile Workers
+: While not formally guilded, Hnurvthýra maintains connections with weavers, dyers, and leather workers throughout Norgaad and occasionally trades materials and knowledge with them.
 
 ## Plot Hooks
 

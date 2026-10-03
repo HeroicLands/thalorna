@@ -469,21 +469,36 @@ Hvalgvir's driving force is the belief that civilization itself rests upon small
 
 ### Patrons
 
-- **Lady Constance Ashford**: A noble widow who has become Hvalgvir's confidante and occasional romantic interest. She secretly funds his more charitable endeavors and has warned him of court intrigue affecting his region.
-- **Magistrate Horatio Greensleeves**: The town's chief law enforcement, who relies heavily on Hvalgvir's network of informants and his insight into the community's pulse.
-- **Lin'Zuwaret elu Aû'Khelâthu of Ódholm**: The collective of trading guilds treats Hvalgvir's inn as their de facto meeting place and headquarters; they provide steady business and seek his counsel on commercial matters.
+Lady Constance Ashford
+: A noble widow who has become Hvalgvir's confidante and occasional romantic interest. She secretly funds his more charitable endeavors and has warned him of court intrigue affecting his region.
+
+Magistrate Horatio Greensleeves
+: The town's chief law enforcement, who relies heavily on Hvalgvir's network of informants and his insight into the community's pulse.
+
+Lin'Zuwaret elu Aû'Khelâthu of Ódholm
+: The collective of trading guilds treats Hvalgvir's inn as their de facto meeting place and headquarters; they provide steady business and seek his counsel on commercial matters.
 
 ### Enemies
 
-- **Keth Vetrdómr**: His brother, and a source of deep pain for Hvalgvir, his younger brother inherited the family brewery and has built it into a vast commercial empire. Yet Keth resents Hvalgvir's greater fame and community standing, and he has subtly worked to undermine his brother's reputation and business.
-- **Thane Hrandarukh**: A warlord of the northern territories who views the Serpent's Hearth as a den of spies and resistance, and has made veiled threats about bringing Hvalgvir and his establishment to heel.
-- **The Poison Cult of Vúlcan**: A heretical sect has begun to target Hvalgvir, viewing his worship of Eidgar and his work in promoting order as direct opposition to their chaotic spiritual vision. They have begun poisoning patrons who drink from his taproom.
+Keth Vetrdómr
+: His brother, and a source of deep pain for Hvalgvir, his younger brother inherited the family brewery and has built it into a vast commercial empire. Yet Keth resents Hvalgvir's greater fame and community standing, and he has subtly worked to undermine his brother's reputation and business.
+
+Thane Hrandarukh
+: A warlord of the northern territories who views the Serpent's Hearth as a den of spies and resistance, and has made veiled threats about bringing Hvalgvir and his establishment to heel.
+
+The Poison Cult of Vúlcan
+: A heretical sect has begun to target Hvalgvir, viewing his worship of Eidgar and his work in promoting order as direct opposition to their chaotic spiritual vision. They have begun poisoning patrons who drink from his taproom.
 
 ### Affiliations
 
-- **The Innkeepers' Guild**: A formal organization whose meetings Hvalgvir attends, though he is often frustrated by their focus on profit over purpose.
-- **The Order of the Sworn Hand**: An informal society of those devoted to the principle of fair judgment and order. Hvalgvir is considered one of their spiritual leaders, though he rarely claims the title.
-- **The Ódholm Community Council**: An ad-hoc assembly of merchants, craftspeople, and concerned citizens who often meet at the Serpent's Hearth to discuss town matters.
+The Innkeepers' Guild
+: A formal organization whose meetings Hvalgvir attends, though he is often frustrated by their focus on profit over purpose.
+
+The Order of the Sworn Hand
+: An informal society of those devoted to the principle of fair judgment and order. Hvalgvir is considered one of their spiritual leaders, though he rarely claims the title.
+
+The Ódholm Community Council
+: An ad-hoc assembly of merchants, craftspeople, and concerned citizens who often meet at the Serpent's Hearth to discuss town matters.
 
 ## Plot Hooks
 

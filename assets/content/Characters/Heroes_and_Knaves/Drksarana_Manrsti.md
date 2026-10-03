@@ -458,17 +458,24 @@ Drkshàrana seeks neither power nor wealth, but rather a deeper sense of purpose
 
 ### Patrons
 
-- **Lord Vedásthira**: The merchant administrator who first employed Drkshàrana now advocates for him as the finest house servant in the city-state. Their relationship is one of quiet mutual respect, though Drkshàrana often fears disappointing his patron.
-- **Lady Cintáya**: Lord Vedásthira's wife has grown to rely on Drkshàrana's counsel in matters of household aesthetics and entertaining; she treats him with genuine warmth rare in the noble households.
+Lord Vedásthira
+: The merchant administrator who first employed Drkshàrana now advocates for him as the finest house servant in the city-state. Their relationship is one of quiet mutual respect, though Drkshàrana often fears disappointing his patron.
+
+Lady Cintáya
+: Lord Vedásthira's wife has grown to rely on Drkshàrana's counsel in matters of household aesthetics and entertaining; she treats him with genuine warmth rare in the noble households.
 
 ### Enemies
 
-- **Kháran Manrshti (distant cousin)**: A fellow servant from a rival household who resents Drkshàrana's reputation and spreads subtle rumors about his competence and loyalty.
-- **The Hierarchy Itself**: Drkshàrana's greatest adversary is the rigid structure of servitude; several higher-ranking servants view him as a threat to their position and work to undermine his standing.
+Kháran Manrshti (distant cousin)
+: A fellow servant from a rival household who resents Drkshàrana's reputation and spreads subtle rumors about his competence and loyalty.
+
+The Hierarchy Itself
+: Drkshàrana's greatest adversary is the rigid structure of servitude; several higher-ranking servants view him as a threat to their position and work to undermine his standing.
 
 ### Affiliations
 
-- **The Servants' Guild of Vedyara**: Drkshàrana maintains loose ties with this association, which advocates for fair treatment and standard wages across the city-states.
+The Servants' Guild of Vedyara
+: Drkshàrana maintains loose ties with this association, which advocates for fair treatment and standard wages across the city-states.
 
 ## Plot Hooks
 

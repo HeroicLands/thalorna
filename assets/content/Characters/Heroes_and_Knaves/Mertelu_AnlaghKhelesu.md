@@ -470,19 +470,30 @@ She has no ambition to rise beyond her station, nor does she resent her position
 
 ### Patrons
 
-- Lord [[being-zabeglegezu2|Zâbeglegezu]]: Her employer and the man who has granted her stable, respectful employment for over a decade. Their relationship is professional but based on genuine mutual regard.
-- **The Lut-Gewaâtis at Aû'Khelâthu**: She donates a portion of her wages to the temple and receives their blessing in return.
+Lord [[being-zabeglegezu2|Zâbeglegezu]]
+: Her employer and the man who has granted her stable, respectful employment for over a decade. Their relationship is professional but based on genuine mutual regard.
+
+The Lut-Gewaâtis at Aû'Khelâthu
+: She donates a portion of her wages to the temple and receives their blessing in return.
 
 ### Enemies
 
-- **Qelleret the Steward**: A rival household manager working for a neighboring noble family. The two households are in competition for prestige, and Qelleret has suggested (subtly, through other servants) that Mertelu's standards are excessive. Mertelu considers Qelleret sloppy and dangerous.
-- **Disgraced Former Servants**: Several individuals whom Mertelu dismissed for theft, dishonesty, or incompetence bear her grudges. They tell stories about her severity, though few believe them.
+Qelleret the Steward
+: A rival household manager working for a neighboring noble family. The two households are in competition for prestige, and Qelleret has suggested (subtly, through other servants) that Mertelu's standards are excessive. Mertelu considers Qelleret sloppy and dangerous.
+
+Disgraced Former Servants
+: Several individuals whom Mertelu dismissed for theft, dishonesty, or incompetence bear her grudges. They tell stories about her severity, though few believe them.
 
 ### Affiliations
 
-- [[affiliation-lutzabeklegz|Lut-Zâbeklegezu]]: Her primary loyalty and the source of her identity.
-- [[affiliation-linlemuglzkr|Lin'Lemu elu Galezkara]]: An informal network of household managers and senior servants who share knowledge about household management and mutual protection.
-- [[affiliation-lutgewaatis|The Lut-Gewaâtis]]: A devotional order where she worships and maintains her private religious practice.
+[[affiliation-lutzabeklegz|Lut-Zâbeklegezu]]
+: Her primary loyalty and the source of her identity.
+
+[[affiliation-linlemuglzkr|Lin'Lemu elu Galezkara]]
+: An informal network of household managers and senior servants who share knowledge about household management and mutual protection.
+
+[[affiliation-lutgewaatis|The Lut-Gewaâtis]]
+: A devotional order where she worships and maintains her private religious practice.
 
 ## Plot Hooks
 

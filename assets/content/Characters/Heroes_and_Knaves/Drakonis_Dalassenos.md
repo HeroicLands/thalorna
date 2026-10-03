@@ -462,15 +462,25 @@ A more personal motivation underlies this: the wilderness is the only place wher
 
 ### Patrons
 
-- **Lord Harren of the Frontier Territories**: A regional noble who maintains vast estates and regularly contracts Drákonis to eliminate predators threatening livestock and hunting preserves; their relationship is one of business but carries unusual mutual respect.
-- **The Kozna Collective of Woodsmen**: A loose association of trappers and hunters who, while maintaining distance from Drákonis, regularly defer difficult contracts to him and pay extraordinary rates for his skill.
-- **Brother Selvak of Ménérva's Monastery**: A monk keeper who acknowledges that Drákonis's work, while violent, serves a necessary function in maintaining the balance that the knowledge-goddess requires.
+Lord Harren of the Frontier Territories
+: A regional noble who maintains vast estates and regularly contracts Drákonis to eliminate predators threatening livestock and hunting preserves; their relationship is one of business but carries unusual mutual respect.
+
+The Kozna Collective of Woodsmen
+: A loose association of trappers and hunters who, while maintaining distance from Drákonis, regularly defer difficult contracts to him and pay extraordinary rates for his skill.
+
+Brother Selvak of Ménérva's Monastery
+: A monk keeper who acknowledges that Drákonis's work, while violent, serves a necessary function in maintaining the balance that the knowledge-goddess requires.
 
 ### Enemies
 
-- **Provincial Warden Tevik**: An official tasked with enforcing hunting regulations and game laws, Tevik views Drákonis's disregard for these restrictions as insufferable and has made his arrest a personal mission despite the political complications his capture would create.
-- **The Poacher's Syndicate**: A criminal organization that controls illegal hunting operations and views Drákonis as a threat to their profits; they have attempted to eliminate him multiple times.
-- **Merchant-Lord Khalideon**: A wealthy trader whose hunting party was decimated by a great predator; Khalideon blames Drákonis for failing to eliminate the beast beforehand and has sworn vendetta against him.
+Provincial Warden Tevik
+: An official tasked with enforcing hunting regulations and game laws, Tevik views Drákonis's disregard for these restrictions as insufferable and has made his arrest a personal mission despite the political complications his capture would create.
+
+The Poacher's Syndicate
+: A criminal organization that controls illegal hunting operations and views Drákonis as a threat to their profits; they have attempted to eliminate him multiple times.
+
+Merchant-Lord Khalideon
+: A wealthy trader whose hunting party was decimated by a great predator; Khalideon blames Drákonis for failing to eliminate the beast beforehand and has sworn vendetta against him.
 
 ### Affiliations
 

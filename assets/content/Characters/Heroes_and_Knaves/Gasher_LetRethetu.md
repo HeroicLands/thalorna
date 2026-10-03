@@ -474,23 +474,30 @@ Gasher seeks to capture in music the full spectrum of human experience: joy and 
 
 ### Patrons
 
-- [[being-aleziyazaqq2|Aleziya Zaqqara]]: A wealthy merchant widow of advancing years who once sponsored his rise to prominence. Though their romance ended decades ago, she remains his most reliable patron, offering him shelter and patronage whenever he returns to Galezkara. She sees in him the young idealist she once knew.
+[[being-aleziyazaqq2|Aleziya Zaqqara]]
+: A wealthy merchant widow of advancing years who once sponsored his rise to prominence. Though their romance ended decades ago, she remains his most reliable patron, offering him shelter and patronage whenever he returns to Galezkara. She sees in him the young idealist she once knew.
 
-- **Lord Maqûptas of the Eastern Reaches**: A provincial lord who has competed with other nobles for the privilege of hosting Gasher's performances. He values Gasher's ability to enhance the prestige of his court and treats the musician with unusual respect and generosity.
+Lord Maqûptas of the Eastern Reaches
+: A provincial lord who has competed with other nobles for the privilege of hosting Gasher's performances. He values Gasher's ability to enhance the prestige of his court and treats the musician with unusual respect and generosity.
 
-- **Master Uzner of the Minstrels' Guild**: The current Guild Master, herself a retired performer, who recognizes Gasher's talent and occasionally pressures him to take greater responsibility within the Guild's structure—pressure he consistently resists.
+Master Uzner of the Minstrels' Guild
+: The current Guild Master, herself a retired performer, who recognizes Gasher's talent and occasionally pressures him to take greater responsibility within the Guild's structure—pressure he consistently resists.
 
 ### Enemies
 
-- **The Jade Serpent Collective**: A cabal of traditional court bards who view Gasher's "common" style and his independence from established guild hierarchies as a threat to their monopoly on the ear of nobles. They have been known to spread rumors that his music is somehow tainted or that his scar marks him as cursed.
+The Jade Serpent Collective
+: A cabal of traditional court bards who view Gasher's "common" style and his independence from established guild hierarchies as a threat to their monopoly on the ear of nobles. They have been known to spread rumors that his music is somehow tainted or that his scar marks him as cursed.
 
-- **Thelgus the Silent**: A rival musician who has attempted to shadow Gasher from town to town, attempting to learn his methods and his original compositions. Gasher suspects Thelgus of attempting to steal his work for his own profit.
+Thelgus the Silent
+: A rival musician who has attempted to shadow Gasher from town to town, attempting to learn his methods and his original compositions. Gasher suspects Thelgus of attempting to steal his work for his own profit.
 
 ### Affiliations
 
-- **Minstrels' Guild of Aû'Khelâthu**: Though only loosely connected, he maintains membership and appears at Guild gatherings sporadically.
+Minstrels' Guild of Aû'Khelâthu
+: Though only loosely connected, he maintains membership and appears at Guild gatherings sporadically.
 
-- [[affiliation-linwalthu|Lin'Walthu]]: An informal network of traveling performers and storytellers who share information about safe roads, hostile regions, and potential performance venues.
+[[affiliation-linwalthu|Lin'Walthu]]
+: An informal network of traveling performers and storytellers who share information about safe roads, hostile regions, and potential performance venues.
 
 ## Plot Hooks
 

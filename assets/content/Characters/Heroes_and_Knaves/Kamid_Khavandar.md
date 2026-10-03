@@ -447,17 +447,24 @@ Kamîd is driven by a desperate desire to re-establish himself, to prove that th
 
 ### Patrons
 
-- **Old Merchant Khalib**: A spice trader who knew Kamîd's family decades ago, occasionally employs him for temporary work and ensures he doesn't starve, though he is careful not to patronize.
-- **The Desert Monks**: Wandering spiritual practitioners who sometimes provide shelter and accept him as fellow pilgrims in the desert's harshness.
+Old Merchant Khalib
+: A spice trader who knew Kamîd's family decades ago, occasionally employs him for temporary work and ensures he doesn't starve, though he is careful not to patronize.
+
+The Desert Monks
+: Wandering spiritual practitioners who sometimes provide shelter and accept him as fellow pilgrims in the desert's harshness.
 
 ### Enemies
 
-- **Captain Darius and the City Guard**: The local garrison commander has made begging and vagrancy a personal crusade, and views Kamîd specifically as a troublemaker and vagrant to be driven out or arrested.
-- **The Creditor's Guild**: The organization that seized his farm decades ago, though they no longer actively pursue him, he views them as the architects of his destruction and failure.
+Captain Darius and the City Guard
+: The local garrison commander has made begging and vagrancy a personal crusade, and views Kamîd specifically as a troublemaker and vagrant to be driven out or arrested.
+
+The Creditor's Guild
+: The organization that seized his farm decades ago, though they no longer actively pursue him, he views them as the architects of his destruction and failure.
 
 ### Affiliations
 
-- **The Vagrant Collective**: An informal network of beggars and homeless in the desert settlements who share information, resources, and protection.
+The Vagrant Collective
+: An informal network of beggars and homeless in the desert settlements who share information, resources, and protection.
 
 ## Plot Hooks
 

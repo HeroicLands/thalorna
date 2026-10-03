@@ -465,20 +465,33 @@ Vīrāngashikharam is driven by a fundamental belief that leadership carries wit
 
 ### Patrons
 
-- **The Vedyara Farmers' Collective**: A loose association of agricultural workers who view Vīrāngashikharam as their advocate within the nobility, having improved working conditions and payment structures across the entire region.
-- **Merchant Lord Tâvâros**: A wealthy trader from a distant city-state who has recognized the potential profit in the improved agricultural products emerging from Dukshana lands and has become a reliable buyer of the finest harvest.
-- **The Council of Progressive City-States**: An informal coalition of forward-thinking rulers from multiple Vedyaran settlements who see in Vīrāngashikharam a model for enlightened governance and consult him on matters of economic development.
+The Vedyara Farmers' Collective
+: A loose association of agricultural workers who view Vīrāngashikharam as their advocate within the nobility, having improved working conditions and payment structures across the entire region.
+
+Merchant Lord Tâvâros
+: A wealthy trader from a distant city-state who has recognized the potential profit in the improved agricultural products emerging from Dukshana lands and has become a reliable buyer of the finest harvest.
+
+The Council of Progressive City-States
+: An informal coalition of forward-thinking rulers from multiple Vedyaran settlements who see in Vīrāngashikharam a model for enlightened governance and consult him on matters of economic development.
 
 ### Enemies
 
-- **Lord Sharvâdhara of the Eastern Reaches**: A powerful and conservative noble whose traditional extraction-based methods have become less profitable since surrounding farmers began following Dukshana's example. He views Vīrāngashikharam as an existential threat to his way of life.
-- **The Syndicate of Merchant Guilds**: Traditional trading houses whose monopolistic practices depended upon controlling access to goods. Dukshana's fair pricing and direct merchant relationships undercut their profit margins and have made him a target for various schemes to discredit or destabilize him.
-- **Vyâdhar the Silent**: A former steward of the Dukshana house who was dismissed for corrupt practices and now serves unknown masters, working subtly to undermine the manor's prosperity and prove Vīrāngashikharam's methods ultimately unsustainable.
+Lord Sharvâdhara of the Eastern Reaches
+: A powerful and conservative noble whose traditional extraction-based methods have become less profitable since surrounding farmers began following Dukshana's example. He views Vīrāngashikharam as an existential threat to his way of life.
+
+The Syndicate of Merchant Guilds
+: Traditional trading houses whose monopolistic practices depended upon controlling access to goods. Dukshana's fair pricing and direct merchant relationships undercut their profit margins and have made him a target for various schemes to discredit or destabilize him.
+
+Vyâdhar the Silent
+: A former steward of the Dukshana house who was dismissed for corrupt practices and now serves unknown masters, working subtly to undermine the manor's prosperity and prove Vīrāngashikharam's methods ultimately unsustainable.
 
 ### Affiliations
 
-- **The Agricultural Society of Vedyara**: Vīrāngashikharam holds a position of considerable influence within this organization and uses his standing to advocate for innovation and fair labor practices.
-- **The Council of Vedyaran Rulers**: He maintains formal relationships with the other noble houses of the city-states, serving as an advisor on economic matters to those willing to listen.
+The Agricultural Society of Vedyara
+: Vīrāngashikharam holds a position of considerable influence within this organization and uses his standing to advocate for innovation and fair labor practices.
+
+The Council of Vedyaran Rulers
+: He maintains formal relationships with the other noble houses of the city-states, serving as an advisor on economic matters to those willing to listen.
 
 ## Plot Hooks
 

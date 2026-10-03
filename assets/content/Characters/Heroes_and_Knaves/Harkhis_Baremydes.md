@@ -485,20 +485,33 @@ Harkhîs seeks only to survive, to continue the work that defines his existence,
 
 ### Patrons
 
-- **The Crimson Order**: A well-organized criminal brotherhood operating throughout Vylaria; they maintain standing contract for Harkhîs' exclusive services and provide security in exchange for his availability
-- **Merchant Prince Devarion**: An ambiguous figure who may be legitimate or criminal (Harkhîs is uncertain); he contracts Harkhîs for exotic poisons and antidotes and seems to move easily between legitimate and shadow economies
-- **The Master Healer's Guild (Covertly)**: Certain legitimate medical practitioners have been known to discreetly contract Harkhîs for poisons used in mercy-killings and the relief of suffering in cases he does not fully understand but accepts at face value
+The Crimson Order
+: A well-organized criminal brotherhood operating throughout Vylaria; they maintain standing contract for Harkhîs' exclusive services and provide security in exchange for his availability
+
+Merchant Prince Devarion
+: An ambiguous figure who may be legitimate or criminal (Harkhîs is uncertain); he contracts Harkhîs for exotic poisons and antidotes and seems to move easily between legitimate and shadow economies
+
+The Master Healer's Guild (Covertly)
+: Certain legitimate medical practitioners have been known to discreetly contract Harkhîs for poisons used in mercy-killings and the relief of suffering in cases he does not fully understand but accepts at face value
 
 ### Enemies
 
-- **Commander Thrace of the City Watch**: The official responsible for investigating underground apothecary operations; she views Harkhîs as a personal obsession and has dedicated significant resources to apprehending him
-- **The Violet Syndicate**: A rival criminal organization that has attempted multiple times to acquire Harkhîs' services exclusively; they view his independence as a threat to their control
-- **Master Kehdaan (His Former Mentor)**: His old master encountered Harkhîs years after his disappearance and, rather than helping him, publicly denounced him as a disgrace to the apothecary craft; Harkhîs has never forgiven this betrayal
+Commander Thrace of the City Watch
+: The official responsible for investigating underground apothecary operations; she views Harkhîs as a personal obsession and has dedicated significant resources to apprehending him
+
+The Violet Syndicate
+: A rival criminal organization that has attempted multiple times to acquire Harkhîs' services exclusively; they view his independence as a threat to their control
+
+Master Kehdaan (His Former Mentor)
+: His old master encountered Harkhîs years after his disappearance and, rather than helping him, publicly denounced him as a disgrace to the apothecary craft; Harkhîs has never forgiven this betrayal
 
 ### Affiliations
 
-- **The Underground Apothecaries Network**: Informal confederation of renegade healers and alchemists operating beyond legitimate authority; Harkhîs maintains standing in this organization and contributes his knowledge to the common store
-- **The Crimson Order**: While not a formal member, functions effectively as their primary alchemical consultant
+The Underground Apothecaries Network
+: Informal confederation of renegade healers and alchemists operating beyond legitimate authority; Harkhîs maintains standing in this organization and contributes his knowledge to the common store
+
+The Crimson Order
+: While not a formal member, functions effectively as their primary alchemical consultant
 
 ## Plot Hooks
 

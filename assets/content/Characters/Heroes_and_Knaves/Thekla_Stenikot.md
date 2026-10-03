@@ -462,20 +462,33 @@ Thêkla is motivated by a desire to protect those who cannot protect themselves.
 
 ### Patrons
 
-- **The Village Council of Marshfeld**: A agrarian community that hires Thêkla annually to protect against bandits and raiders. **Elder Magistrate Tomás** has become a mentor figure, offering wisdom and support.
-- **Lady Khatunéla Lysandáhr**: A noblewoman of conscience who uses her influence to connect Thêkla with communities in need of protection. She asks only that Thêkla help those who cannot afford formal mercenary rates.
-- **The Scholars' Collective of the Archive**: Dangerous knowledge sometimes requires protection. The head archivist, **Master Scholarch Menandáhr**, retains Thêkla for sensitive operations involving recovered texts or persecuted scholars.
+The Village Council of Marshfeld
+: A agrarian community that hires Thêkla annually to protect against bandits and raiders. **Elder Magistrate Tomás** has become a mentor figure, offering wisdom and support.
+
+Lady Khatunéla Lysandáhr
+: A noblewoman of conscience who uses her influence to connect Thêkla with communities in need of protection. She asks only that Thêkla help those who cannot afford formal mercenary rates.
+
+The Scholars' Collective of the Archive
+: Dangerous knowledge sometimes requires protection. The head archivist, **Master Scholarch Menandáhr**, retains Thêkla for sensitive operations involving recovered texts or persecuted scholars.
 
 ### Enemies
 
-- **The Crimson Brotherhood**: A slavering organization operating throughout the **Byzarian League**. Their leader, **Captain Malachai the Chained**, has marked Thêkla for death after she dismantled two of their trafficking operations.
-- **Mercenary Lord Korvas the Merciless**: A rival who views her moral stance as weakness and profit-loss. He has actively worked to undermine her contracts and damage her reputation.
-- **The Corrupt House of Magistrates**: City officials who profit from allowing crime to flourish. They view Thêkla as a threat to their comfortable arrangements.
+The Crimson Brotherhood
+: A slavering organization operating throughout the **Byzarian League**. Their leader, **Captain Malachai the Chained**, has marked Thêkla for death after she dismantled two of their trafficking operations.
+
+Mercenary Lord Korvas the Merciless
+: A rival who views her moral stance as weakness and profit-loss. He has actively worked to undermine her contracts and damage her reputation.
+
+The Corrupt House of Magistrates
+: City officials who profit from allowing crime to flourish. They view Thêkla as a threat to their comfortable arrangements.
 
 ### Affiliations
 
-- **The Mercenaries' Guild of the Byzarian League**: Thêkla maintains full membership, though she operates with unusual independence.
-- **The Protectors' Circle**: An informal network of conscientious mercenaries who share information about genuinely dangerous criminals and support one another's defensive operations.
+The Mercenaries' Guild of the Byzarian League
+: Thêkla maintains full membership, though she operates with unusual independence.
+
+The Protectors' Circle
+: An informal network of conscientious mercenaries who share information about genuinely dangerous criminals and support one another's defensive operations.
 
 ## Plot Hooks
 

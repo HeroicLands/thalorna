@@ -466,18 +466,27 @@ Vishali is driven by a contradictory pair of impulses: a desire for freedom so a
 
 ### Patrons
 
-- **Lord Jayakâra of House Deshani**: A broad-minded noble of one of the Vedyara city-states who has hired Vishali multiple times for court performances. He appreciates her boundary-pushing humor and has developed a real, if platonic, fondness for her. His support provides her with regular employment and credibility.
-- **Traveling Fair Circuit**: The various festival organizers, merchants' guilds, and market masters throughout the Vedyara territories who regularly book Vishali for performances. These relationships are transactional but reliable.
+Lord Jayakâra of House Deshani
+: A broad-minded noble of one of the Vedyara city-states who has hired Vishali multiple times for court performances. He appreciates her boundary-pushing humor and has developed a real, if platonic, fondness for her. His support provides her with regular employment and credibility.
+
+Traveling Fair Circuit
+: The various festival organizers, merchants' guilds, and market masters throughout the Vedyara territories who regularly book Vishali for performances. These relationships are transactional but reliable.
 
 ### Enemies
 
-- **Priest Vandal of the Temple of Ashkanti**: A high-ranking priest offended by one of Vishali's performances in which she mocked certain temple practices as superstitious theater. He has used his influence to have her banned from several religious festivals and considers her a heretic.
-- **Lady Malvina the Austere**: A noblewoman whose reputation Vishali devastated through a performance that highlighted her well-known hypocrisy regarding virtue and morality. Lady Malvina has sworn that Vishali will never perform in her territories and has hired informants to track her movements.
-- **The Masked Collective**: A shadowy group of puritanical extremists who view Vishali's performances as a corruption of traditional Vedyaran values. They have threatened her on several occasions, and one member attempted violence against her in a marketplace.
+Priest Vandal of the Temple of Ashkanti
+: A high-ranking priest offended by one of Vishali's performances in which she mocked certain temple practices as superstitious theater. He has used his influence to have her banned from several religious festivals and considers her a heretic.
+
+Lady Malvina the Austere
+: A noblewoman whose reputation Vishali devastated through a performance that highlighted her well-known hypocrisy regarding virtue and morality. Lady Malvina has sworn that Vishali will never perform in her territories and has hired informants to track her movements.
+
+The Masked Collective
+: A shadowy group of puritanical extremists who view Vishali's performances as a corruption of traditional Vedyaran values. They have threatened her on several occasions, and one member attempted violence against her in a marketplace.
 
 ### Affiliations
 
-- **The Traveling Fair Network**: While technically independent, Vishali maintains close connections with various traveling fairs and circus companies that move through the Vedyara territories. She often collaborates with performers from these groups.
+The Traveling Fair Network
+: While technically independent, Vishali maintains close connections with various traveling fairs and circus companies that move through the Vedyara territories. She often collaborates with performers from these groups.
 
 ## Plot Hooks
 

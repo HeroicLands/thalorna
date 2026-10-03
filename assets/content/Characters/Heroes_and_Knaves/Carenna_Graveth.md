@@ -458,21 +458,36 @@ Cárenna's driving ambition is the advancement of her house and, by extension, h
 
 ### Patrons
 
-- **King Aldrous III**: The aging monarch values Cárenna's counsel and has come to rely on her judgment in matters of diplomacy and internal realm politics. He has indicated subtle support for her continued advancement within the herald corps.
-- **Duke Mycaelus of the Eastern Marches**: A powerful regional lord who has engaged Cárenna's services repeatedly in mediating disputes with neighboring provinces. He views her as a valuable ally and occasional lover, though their relationship is carefully concealed.
-- **Lady Serenna Voss, Master of Commerce**: The crown's chief advisor on trade and mercantile matters has become Cárenna's closest confidant and patron within court, offering guidance on the political currents of the royal household.
+King Aldrous III
+: The aging monarch values Cárenna's counsel and has come to rely on her judgment in matters of diplomacy and internal realm politics. He has indicated subtle support for her continued advancement within the herald corps.
+
+Duke Mycaelus of the Eastern Marches
+: A powerful regional lord who has engaged Cárenna's services repeatedly in mediating disputes with neighboring provinces. He views her as a valuable ally and occasional lover, though their relationship is carefully concealed.
+
+Lady Serenna Voss, Master of Commerce
+: The crown's chief advisor on trade and mercantile matters has become Cárenna's closest confidant and patron within court, offering guidance on the political currents of the royal household.
 
 ### Enemies
 
-- **Lord Kelvic Aldred, Herald Emeritus**: The previous chief herald, now retired, views Cárenna as an upstart who lacks the necessary gravitas for her position. He has begun subtly undermining her authority, questioning her decisions to the king and his allies among the older nobility.
-- **The Canonist Orthodox**: A traditionalist faction within the priesthood of the [[affiliation-arldnpnthn|Aurèldían Pantheon]] who view Cárenna's pragmatic morality and her role in secular governance as improper and potentially heretical. They have begun questioning her moral standing from their pulpits.
-- **Merchant-Lord Thevarin**: A wealthy and politically connected trader whose interests Cárenna opposed in a recent negotiation, resulting in significant financial loss to his enterprises. He has been quietly gathering evidence of her conflicts of interest and inappropriate relationships, intending to expose her when circumstances allow.
+Lord Kelvic Aldred, Herald Emeritus
+: The previous chief herald, now retired, views Cárenna as an upstart who lacks the necessary gravitas for her position. He has begun subtly undermining her authority, questioning her decisions to the king and his allies among the older nobility.
+
+The Canonist Orthodox
+: A traditionalist faction within the priesthood of the [[affiliation-arldnpnthn|Aurèldían Pantheon]] who view Cárenna's pragmatic morality and her role in secular governance as improper and potentially heretical. They have begun questioning her moral standing from their pulpits.
+
+Merchant-Lord Thevarin
+: A wealthy and politically connected trader whose interests Cárenna opposed in a recent negotiation, resulting in significant financial loss to his enterprises. He has been quietly gathering evidence of her conflicts of interest and inappropriate relationships, intending to expose her when circumstances allow.
 
 ### Affiliations
 
-- **City Heralds' Guild of Tarvénia**: Her primary affiliation and source of authority. She maintains its political interests while advancing her own.
-- **House Gráveth**: Her family house, whose interests she subtly promotes through her position.
-- **The Aurèldían Pantheon**: A devoted follower of Múrkír the Voyager, she maintains public religious devotion while privately entertaining doubts about institutional faith.
+City Heralds' Guild of Tarvénia
+: Her primary affiliation and source of authority. She maintains its political interests while advancing her own.
+
+House Gráveth
+: Her family house, whose interests she subtly promotes through her position.
+
+The Aurèldían Pantheon
+: A devoted follower of Múrkír the Voyager, she maintains public religious devotion while privately entertaining doubts about institutional faith.
 
 ## Plot Hooks
 

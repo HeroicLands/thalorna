@@ -463,22 +463,39 @@ Vrildmýl is motivated by a desire that no one else should suffer what his famil
 
 ### Patrons
 
-- **Captain Aldric Stonefist**: Vrildmýl's commanding officer and mentor. Aldric became the father figure Vrildmýl lacked growing up, and his opinion matters more to Vrildmýl than almost anyone else's.
-- **The Farming Council of Vithgard**: The communities Vrildmýl's militia protects recognize him as their primary defender. They advocate for his promotions and provide support for militia operations.
-- **The Village Elder Kara Stonekeeper**: An influential elder who sees potential in Vrildmýl and has been mentoring him in aspects of leadership beyond combat.
+Captain Aldric Stonefist
+: Vrildmýl's commanding officer and mentor. Aldric became the father figure Vrildmýl lacked growing up, and his opinion matters more to Vrildmýl than almost anyone else's.
+
+The Farming Council of Vithgard
+: The communities Vrildmýl's militia protects recognize him as their primary defender. They advocate for his promotions and provide support for militia operations.
+
+The Village Elder Kara Stonekeeper
+: An influential elder who sees potential in Vrildmýl and has been mentoring him in aspects of leadership beyond combat.
 
 ### Enemies
 
-- **The Crimson Raiders**: A particularly organized bandit gang that has proven difficult to eliminate. Their leader, **Skraldarukh**, has specifically marked Vrildmýl, seeing him as an obstacle to their plans.
-- **Corrupt Local Officials**: Some magistrates profit from allowing banditry to continue unchecked. Vrildmýl's aggressive pursuit of raiders threatens their arrangements.
-- **Ambitious Militia Rivals**: Some older militia members resent Vrildmýl's rapid advancement and question whether his youth and idealism suit him for leadership.
+The Crimson Raiders
+: A particularly organized bandit gang that has proven difficult to eliminate. Their leader, **Skraldarukh**, has specifically marked Vrildmýl, seeing him as an obstacle to their plans.
+
+Corrupt Local Officials
+: Some magistrates profit from allowing banditry to continue unchecked. Vrildmýl's aggressive pursuit of raiders threatens their arrangements.
+
+Ambitious Militia Rivals
+: Some older militia members resent Vrildmýl's rapid advancement and question whether his youth and idealism suit him for leadership.
 
 ### Affiliations
 
-- **The Militia of Vithgard**: Vrildmýl's primary affiliation. He is a dedicated member and now a sergeant with increasing responsibility.
-- **The Followers of Eidgar**: Vrildmýl actively participates in worship of the god of order and justice, and his faith is sincere, not mere ritual.
-- **[[being-dvrnvrhrfnsvld|Dvarnvir Hrafnsvald]] (Father)**: Vrildmýl's father, a former soldier turned tentmaker in Vithgard. Their relationship is complicated by years of absence during Vrildmýl's childhood and the unspoken weight of his mother's death. They see each other from time to time, and there is love beneath the tension, but reconciliation remains a work in progress.
-- **[[being-skrldthnhrfnsvld|Skraldthann Hrafnsvald]] (Uncle)**: Vrildmýl's uncle, a well-known clothier in the [[affiliation-kingdmnrgd|Kingdom of Norgaad]]. Though they live in different realms and lead very different lives, the family bond remains. [[being-skrldthnhrfnsvld|Skraldthann]]'s connections among nobility have occasionally proven useful, and Vrildmýl's martial reputation lends a certain rugged credibility to the Hrafnsvald name that his uncle quietly appreciates.
+The Militia of Vithgard
+: Vrildmýl's primary affiliation. He is a dedicated member and now a sergeant with increasing responsibility.
+
+The Followers of Eidgar
+: Vrildmýl actively participates in worship of the god of order and justice, and his faith is sincere, not mere ritual.
+
+[[being-dvrnvrhrfnsvld|Dvarnvir Hrafnsvald]] (Father)
+: Vrildmýl's father, a former soldier turned tentmaker in Vithgard. Their relationship is complicated by years of absence during Vrildmýl's childhood and the unspoken weight of his mother's death. They see each other from time to time, and there is love beneath the tension, but reconciliation remains a work in progress.
+
+[[being-skrldthnhrfnsvld|Skraldthann Hrafnsvald]] (Uncle)
+: Vrildmýl's uncle, a well-known clothier in the [[affiliation-kingdmnrgd|Kingdom of Norgaad]]. Though they live in different realms and lead very different lives, the family bond remains. [[being-skrldthnhrfnsvld|Skraldthann]]'s connections among nobility have occasionally proven useful, and Vrildmýl's martial reputation lends a certain rugged credibility to the Hrafnsvald name that his uncle quietly appreciates.
 
 ## Plot Hooks
 

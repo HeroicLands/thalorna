@@ -463,19 +463,30 @@ Màkîthos is driven by a vision of theater as the highest form of human artisti
 
 ### Patrons
 
-- **Lady Thespis Aurelia**: An immensely wealthy widow and patron of the arts who has championed Màkîthos's work despite critical controversy, commissioning his most ambitious productions and providing financial stability.
-- **The Imperial Theater Company**: The state-sanctioned theatrical institution, which despite tensions with Màkîthos's nonconformity, regularly produces his works and provides him with resources and prestige.
+Lady Thespis Aurelia
+: An immensely wealthy widow and patron of the arts who has championed Màkîthos's work despite critical controversy, commissioning his most ambitious productions and providing financial stability.
+
+The Imperial Theater Company
+: The state-sanctioned theatrical institution, which despite tensions with Màkîthos's nonconformity, regularly produces his works and provides him with resources and prestige.
 
 ### Enemies
 
-- **Díthranôs the Savage**: The city's most influential theater critic, whose scathing reviews of Màkîthos's early works were instrumental in establishing the controversial reputation that has followed him; they share a complex relationship of mutual contempt.
-- **Délgôs Vánarthes**: A former collaborator and rival playwright whose prospects Màkîthos effectively destroyed through public criticism and sabotage; Délgôs now works to undermine every project Màkîthos attempts.
+Díthranôs the Savage
+: The city's most influential theater critic, whose scathing reviews of Màkîthos's early works were instrumental in establishing the controversial reputation that has followed him; they share a complex relationship of mutual contempt.
+
+Délgôs Vánarthes
+: A former collaborator and rival playwright whose prospects Màkîthos effectively destroyed through public criticism and sabotage; Délgôs now works to undermine every project Màkîthos attempts.
 
 ### Affiliations
 
-- [[affiliation-linshlnglzkr|Lin'Shelun elu Galezkara]]: Principal playwright and frequent director; maintains a complicated relationship with the institution despite his central importance to its prestige.
-- **The Writers' Guild**: Member in good standing, though frequently at odds with the guild's standards and expectations.
-- **The Circle of Artistic Innovation**: An informal collective of avant-garde artists and thinkers who view Màkîthos as a central figure in reshaping the city's arts.
+[[affiliation-linshlnglzkr|Lin'Shelun elu Galezkara]]
+: Principal playwright and frequent director; maintains a complicated relationship with the institution despite his central importance to its prestige.
+
+The Writers' Guild
+: Member in good standing, though frequently at odds with the guild's standards and expectations.
+
+The Circle of Artistic Innovation
+: An informal collective of avant-garde artists and thinkers who view Màkîthos as a central figure in reshaping the city's arts.
 
 ## Plot Hooks
 

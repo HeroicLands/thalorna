@@ -514,21 +514,27 @@ His association with Myrine Kalypsos is a growing liability. The Black Flame's p
 
 ### Patrons
 
-- **Magister Vaelethon**: A veteran of the Sodalitas Pyréthos and former Quaesitorium operative, now a senior Magister on the Velysâra chapter council. Vaelethon served as Kallistratos's mentor during his Discipulus years and continues to guide his career, though increasingly from a distance as Kallistratos's independence—and his research into forbidden techniques—creates complications that Vaelethon must manage carefully. He sees genuine greatness in his former student, and he also sees the danger, and he is not certain which will win.
+Magister Vaelethon
+: A veteran of the Sodalitas Pyréthos and former Quaesitorium operative, now a senior Magister on the Velysâra chapter council. Vaelethon served as Kallistratos's mentor during his Discipulus years and continues to guide his career, though increasingly from a distance as Kallistratos's independence—and his research into forbidden techniques—creates complications that Vaelethon must manage carefully. He sees genuine greatness in his former student, and he also sees the danger, and he is not certain which will win.
 
-- **Lady Eleneis of House Thalior**: A noblewoman with close ties to the imperial court, Lady Eleneis offers Kallistratos political support in exchange for his assistance in manipulating key figures within Vylaria. She is pragmatic, self-serving, and well-connected—precisely the kind of political operator that Kallistratos despises in theory and finds indispensable in practice. Her interest in him is transactional, but her connections could help him rebuild his family's fortunes if he is willing to play her game.
+Lady Eleneis of House Thalior
+: A noblewoman with close ties to the imperial court, Lady Eleneis offers Kallistratos political support in exchange for his assistance in manipulating key figures within Vylaria. She is pragmatic, self-serving, and well-connected—precisely the kind of political operator that Kallistratos despises in theory and finds indispensable in practice. Her interest in him is transactional, but her connections could help him rebuild his family's fortunes if he is willing to play her game.
 
 ### Enemies
 
-- **Archon Vaidros**: Once an ally of House Exarchides, Vaidros turned against them in their moment of need, hastening their downfall. Now a minor ruler on the empire's borders, Vaidros views Kallistratos as an insignificant remnant of a dead house. Kallistratos is determined to correct this assessment, permanently.
+Archon Vaidros
+: Once an ally of House Exarchides, Vaidros turned against them in their moment of need, hastening their downfall. Now a minor ruler on the empire's borders, Vaidros views Kallistratos as an insignificant remnant of a dead house. Kallistratos is determined to correct this assessment, permanently.
 
-- **The Guilded Talon**: A conservative faction within the Ordo Arcanis that monitors practitioners whose research strays into areas the institution considers dangerous. The Guilded Talon operates in the gray space between the formal Quaesitorium and the chapter councils' scholarly oversight—not an official body, but an informal network of Magistri across multiple Sodalitates who share the conviction that certain knowledge should remain suppressed. They view Kallistratos's pursuit of pre-Ordo Pyréthos techniques as reckless at best and heretical at worst, and they have begun taking steps to obstruct his research, discredit his findings, and—if necessary—ensure his career within the Ordo does not advance further.
+The Guilded Talon
+: A conservative faction within the Ordo Arcanis that monitors practitioners whose research strays into areas the institution considers dangerous. The Guilded Talon operates in the gray space between the formal Quaesitorium and the chapter councils' scholarly oversight—not an official body, but an informal network of Magistri across multiple Sodalitates who share the conviction that certain knowledge should remain suppressed. They view Kallistratos's pursuit of pre-Ordo Pyréthos techniques as reckless at best and heretical at worst, and they have begun taking steps to obstruct his research, discredit his findings, and—if necessary—ensure his career within the Ordo does not advance further.
 
 ### Affiliations
 
-- **The Ordo Arcanis**: Kallistratos's institutional home. He holds the rank of Adeptus within the Velysâra chapter, licensed to practice independently, with a voice in chapter meetings but no vote in governance. His standing within the chapter is mixed: respected for his field competence and arcane talent, watched with concern by the conservative Magistri who suspect his research agenda exceeds what an Adeptus should be pursuing.
+The Ordo Arcanis
+: Kallistratos's institutional home. He holds the rank of Adeptus within the Velysâra chapter, licensed to practice independently, with a voice in chapter meetings but no vote in governance. His standing within the chapter is mixed: respected for his field competence and arcane talent, watched with concern by the conservative Magistri who suspect his research agenda exceeds what an Adeptus should be pursuing.
 
-- **The Sodalitas Pyréthos**: His fellowship within the Ordo—the community of Fire mages who share his elemental affinity and his way of perceiving magic. Within the Sodalitas, Kallistratos has a growing reputation as a talented practitioner with dangerously ambitious research interests. The fellowship's meritocratic culture rewards his demonstrated capability, but its internal rivalries mean that every success also creates competitors who resent his rise.
+The Sodalitas Pyréthos
+: His fellowship within the Ordo—the community of Fire mages who share his elemental affinity and his way of perceiving magic. Within the Sodalitas, Kallistratos has a growing reputation as a talented practitioner with dangerously ambitious research interests. The fellowship's meritocratic culture rewards his demonstrated capability, but its internal rivalries mean that every success also creates competitors who resent his rise.
 
 ### Companions
 

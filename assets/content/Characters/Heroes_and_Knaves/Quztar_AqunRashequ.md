@@ -481,19 +481,24 @@ Quztar's primary motivation is the preservation of craft excellence in an age in
 
 ### Patrons
 
-- **The Lut-Uznêra, High Priestess Amqelitâna**: The great temple dedicated to the deity of fertility and renewal has commissioned Quztar for all major thatching work for the past three decades. Amqelitâna views Quztar's work as a reflection of divine craftsmanship and insists that none other touch the temple's iconic roof.
+The Lut-Uznêra, High Priestess Amqelitâna
+: The great temple dedicated to the deity of fertility and renewal has commissioned Quztar for all major thatching work for the past three decades. Amqelitâna views Quztar's work as a reflection of divine craftsmanship and insists that none other touch the temple's iconic roof.
 
-- [[affiliation-linzegarmglt|Lin'Zegaru elu Miglet]]: A consortium of the region's most successful farming families maintains a standing agreement with Quztar to maintain and repair the complex system of storage buildings, granaries, and shelters that form the backbone of their operation. They pay him an annual retainer that provides a measure of financial security.
+[[affiliation-linzegarmglt|Lin'Zegaru elu Miglet]]
+: A consortium of the region's most successful farming families maintains a standing agreement with Quztar to maintain and repair the complex system of storage buildings, granaries, and shelters that form the backbone of their operation. They pay him an annual retainer that provides a measure of financial security.
 
-- Lord [[being-gezhtymnkhz2|Gezehutyu Menkhezerre]]: A noble administrator of considerable influence, Gezehutyu commissions Quztar for all his various holdings and has been known to delay important projects waiting for Quztar's availability, trusting no other with such significant investments.
+Lord [[being-gezhtymnkhz2|Gezehutyu Menkhezerre]]
+: A noble administrator of considerable influence, Gezehutyu commissions Quztar for all his various holdings and has been known to delay important projects waiting for Quztar's availability, trusting no other with such significant investments.
 
 ### Enemies
 
-- **Khelosuefu the Innovator**: A former student of Quztar's who broke away to establish his own practice using hybrid techniques combining traditional and newer methods. Khelosuefu's work is adequate and his prices significantly lower, earning him the contracts Quztar once would have assumed were his by right. Though no open conflict exists, Quztar views Khelosuefu's success as a betrayal of the principles he taught, and Khelosuefu himself feels stung by Quztar's public criticism of his methods.
+Khelosuefu the Innovator
+: A former student of Quztar's who broke away to establish his own practice using hybrid techniques combining traditional and newer methods. Khelosuefu's work is adequate and his prices significantly lower, earning him the contracts Quztar once would have assumed were his by right. Though no open conflict exists, Quztar views Khelosuefu's success as a betrayal of the principles he taught, and Khelosuefu himself feels stung by Quztar's public criticism of his methods.
 
 ### Affiliations
 
-- [[affiliation-linzemnglzk2|Lin'Zemnu elu Galezkara]]: A society of the finest skilled craftspeople in the Empire, Quztar is one of the guild elders and sits on the council that arbitrates disputes and maintains standards of quality throughout the trade.
+[[affiliation-linzemnglzk2|Lin'Zemnu elu Galezkara]]
+: A society of the finest skilled craftspeople in the Empire, Quztar is one of the guild elders and sits on the council that arbitrates disputes and maintains standards of quality throughout the trade.
 
 ## Plot Hooks
 

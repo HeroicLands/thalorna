@@ -535,21 +535,27 @@ Her relationship with Kallistratos is both her greatest work and her greatest vu
 
 ### Patrons
 
-- **Aralôna Melikhron**: Senior priestess at the Temple of the Black Flame in Velysâra, Myrine's teacher in fire divination and her primary sponsor within the faith's hierarchy. Aralôna recognized Myrine's gift and invested years in training her. Now in her late fifties, Aralôna views Myrine as both her greatest student and a source of concern—the girl's talent is undeniable, but her certainty about the Kallistratos prophecy unsettles a woman who has spent decades learning how easily fire readings can deceive. She supports Myrine's mendicant work but monitors her reports carefully.
+Aralôna Melikhron
+: Senior priestess at the Temple of the Black Flame in Velysâra, Myrine's teacher in fire divination and her primary sponsor within the faith's hierarchy. Aralôna recognized Myrine's gift and invested years in training her. Now in her late fifties, Aralôna views Myrine as both her greatest student and a source of concern—the girl's talent is undeniable, but her certainty about the Kallistratos prophecy unsettles a woman who has spent decades learning how easily fire readings can deceive. She supports Myrine's mendicant work but monitors her reports carefully.
 
-- **Theron Kalypsos**: Myrine's eldest brother, who has taken over the family's grain trading operations in Belekos. Theron did not convert to the Black Flame, but he respects his sister's success and finds her philosophy commercially useful. He provides Myrine with occasional financial support and, more importantly, with the merchant-class contacts that give her access to the minor nobility and the emerging commercial elite where the Black Flame's doctrine resonates most powerfully. Their relationship is affectionate and pragmatic—the Kalypsos family does not disown its own, and a priestess with connections is an asset regardless of the faith she serves.
+Theron Kalypsos
+: Myrine's eldest brother, who has taken over the family's grain trading operations in Belekos. Theron did not convert to the Black Flame, but he respects his sister's success and finds her philosophy commercially useful. He provides Myrine with occasional financial support and, more importantly, with the merchant-class contacts that give her access to the minor nobility and the emerging commercial elite where the Black Flame's doctrine resonates most powerfully. Their relationship is affectionate and pragmatic—the Kalypsos family does not disown its own, and a priestess with connections is an asset regardless of the faith she serves.
 
 ### Enemies
 
-- **Archimandrite Dyrìlios Bàrôndas**: A senior Sacred Forge clergyman based in Alyssa, the imperial capital, who has made the Black Flame's growing influence a personal crusade. He cannot act against Myrine directly—Vylarian law protects the Black Flame's legal right to exist—but he has used his influence to pressure local authorities to restrict Black Flame preaching, discredit known sympathizers, and fund counter-sermons in towns where Myrine has been active. He considers her one of the most dangerous agents the Black Flame has produced in a generation, precisely because her methods are so difficult to counter: no one can arrest a woman for having conversations.
+Archimandrite Dyrìlios Bàrôndas
+: A senior Sacred Forge clergyman based in Alyssa, the imperial capital, who has made the Black Flame's growing influence a personal crusade. He cannot act against Myrine directly—Vylarian law protects the Black Flame's legal right to exist—but he has used his influence to pressure local authorities to restrict Black Flame preaching, discredit known sympathizers, and fund counter-sermons in towns where Myrine has been active. He considers her one of the most dangerous agents the Black Flame has produced in a generation, precisely because her methods are so difficult to counter: no one can arrest a woman for having conversations.
 
-- **The Jánite Watch in Vylaria**: While the Faith of Jánus has less institutional power in Vylaria than in kingdoms where it is the state religion, its military orders maintain a watchful presence. The Jánite knights stationed in Alyssa province regard the Black Flame with theological hatred that overrides local law, and they have agents tracking known Black Flame clergy—including Myrine. They cannot touch her legally, but they can make her life difficult: warning innkeepers, alerting local lords, seeing that doors close before she reaches them. Myrine treats their interference as proof that the Jánites fear what she represents.
+The Jánite Watch in Vylaria
+: While the Faith of Jánus has less institutional power in Vylaria than in kingdoms where it is the state religion, its military orders maintain a watchful presence. The Jánite knights stationed in Alyssa province regard the Black Flame with theological hatred that overrides local law, and they have agents tracking known Black Flame clergy—including Myrine. They cannot touch her legally, but they can make her life difficult: warning innkeepers, alerting local lords, seeing that doors close before she reaches them. Myrine treats their interference as proof that the Jánites fear what she represents.
 
 ### Affiliations
 
-- **The Black Flame**: Myrine's faith and her life's work. She is ordained, authorized as a mendicant, and recognized as a fire reader—a combination that gives her unusual independence within the faith's loose hierarchy. She reports to the Temple in Velysâra but operates with significant autonomy.
+The Black Flame
+: Myrine's faith and her life's work. She is ordained, authorized as a mendicant, and recognized as a fire reader—a combination that gives her unusual independence within the faith's loose hierarchy. She reports to the Temple in Velysâra but operates with significant autonomy.
 
-- **The Mendicant Circuit**: An informal network of itinerant Black Flame priests who travel the empire, sharing information about sympathetic communities, hostile territories, and opportunities for the faith. Myrine is one of approximately two dozen active mendicants in the Province of Alyssa, and her success as a proselytizer has made her a respected voice within this network.
+The Mendicant Circuit
+: An informal network of itinerant Black Flame priests who travel the empire, sharing information about sympathetic communities, hostile territories, and opportunities for the faith. Myrine is one of approximately two dozen active mendicants in the Province of Alyssa, and her success as a proselytizer has made her a respected voice within this network.
 
 ## Plot Hooks
 

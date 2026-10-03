@@ -457,19 +457,30 @@ Dharmàpala is motivated by the pursuit of mastery—the relentless refinement o
 
 ### Patrons
 
-- **Merchant-Princess Ashera of Vedyara's Eastern Quarter**: A widow and trader in luxury goods who regularly contracts Dharmàpala's services and has developed a real (though carefully unspoken) affection for him.
-- **Lord Kavindra the Banker**: An elderly financier who values Dharmàpala's discretion and tactical thinking as much as his combat abilities, and has kept him on quasi-retainer for sensitive commissions.
-- **Master Surgeon Devak**: A healer of some renown who once treated Dharmàpala for a near-fatal wound and has since become one of the few individuals he considers a friend.
+Merchant-Princess Ashera of Vedyara's Eastern Quarter
+: A widow and trader in luxury goods who regularly contracts Dharmàpala's services and has developed a real (though carefully unspoken) affection for him.
+
+Lord Kavindra the Banker
+: An elderly financier who values Dharmàpala's discretion and tactical thinking as much as his combat abilities, and has kept him on quasi-retainer for sensitive commissions.
+
+Master Surgeon Devak
+: A healer of some renown who once treated Dharmàpala for a near-fatal wound and has since become one of the few individuals he considers a friend.
 
 ### Enemies
 
-- **Captain Nàgarîtha of the City Guard**: A corrupt official who views Dharmàpala's independence from his authority as insult and has made his removal a personal crusade, generating false charges and attempting to cut off his legitimate work.
-- [[affiliation-gargezru|Gar-Gezru]]: A criminal organization that attempted to hire Dharmàpala for unforgivable purposes; when he refused and reported them to city authorities, they marked him for death and have pursued this vendetta with cold determination.
-- **Kàndhara the Knife**: A rival bodyguard and occasional guild-mate who views Dharmàpala as having stolen commissions that should have been his, and who harbors deep resentment over a past failure to protect a client where Dharmàpala succeeded.
+Captain Nàgarîtha of the City Guard
+: A corrupt official who views Dharmàpala's independence from his authority as insult and has made his removal a personal crusade, generating false charges and attempting to cut off his legitimate work.
+
+[[affiliation-gargezru|Gar-Gezru]]
+: A criminal organization that attempted to hire Dharmàpala for unforgivable purposes; when he refused and reported them to city authorities, they marked him for death and have pursued this vendetta with cold determination.
+
+Kàndhara the Knife
+: A rival bodyguard and occasional guild-mate who views Dharmàpala as having stolen commissions that should have been his, and who harbors deep resentment over a past failure to protect a client where Dharmàpala succeeded.
 
 ### Affiliations
 
-- **The Mercenaries Guild of Vedyara**: Formally affiliated but deliberately maintaining distance from organizational involvement and factional disputes.
+The Mercenaries Guild of Vedyara
+: Formally affiliated but deliberately maintaining distance from organizational involvement and factional disputes.
 
 ## Plot Hooks
 

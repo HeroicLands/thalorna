@@ -465,20 +465,33 @@ Fakhrad's primary motivation is to prove that genuine wisdom and utility need no
 
 ### Patrons
 
-- **Farmer Torvan of the Eastern Fields**: A wealthy and influential grain merchant who has relied on Fakhrad's astronomical counsel for harvesting decisions for nearly two decades; Torvan actively defends Fakhrad against criticism.
-- **The Village Elders of Sarath**: The collective leadership of a significant rural settlement maintains Fakhrad on retainer as their adviser regarding seasonal matters and longer-term planning.
-- **Merchant Caravan Master Saffan**: A trader who conducts seasonal journeys across the sultanate uses Fakhrad's predictions to time his routes and often brings news and new knowledge to the astrologer.
+Farmer Torvan of the Eastern Fields
+: A wealthy and influential grain merchant who has relied on Fakhrad's astronomical counsel for harvesting decisions for nearly two decades; Torvan actively defends Fakhrad against criticism.
+
+The Village Elders of Sarath
+: The collective leadership of a significant rural settlement maintains Fakhrad on retainer as their adviser regarding seasonal matters and longer-term planning.
+
+Merchant Caravan Master Saffan
+: A trader who conducts seasonal journeys across the sultanate uses Fakhrad's predictions to time his routes and often brings news and new knowledge to the astrologer.
 
 ### Enemies
 
-- **Master Astrologer Rashid al-Kharazi**: A prominent court astrologer who views Fakhrad as a charlatan undoing the serious work of true scholars. Rashid has attempted to publicly discredit him on several occasions.
-- **Inquisitor Mazul**: A religious authority who sees Fakhrad's unconventional relationship with astronomical knowledge as heretical and has begun building a case against him.
-- **The Skeptical Merchants' Council**: A faction of urban merchants who view Fakhrad's methods as superstition and actively work to undermine his reputation among those who might hire him.
+Master Astrologer Rashid al-Kharazi
+: A prominent court astrologer who views Fakhrad as a charlatan undoing the serious work of true scholars. Rashid has attempted to publicly discredit him on several occasions.
+
+Inquisitor Mazul
+: A religious authority who sees Fakhrad's unconventional relationship with astronomical knowledge as heretical and has begun building a case against him.
+
+The Skeptical Merchants' Council
+: A faction of urban merchants who view Fakhrad's methods as superstition and actively work to undermine his reputation among those who might hire him.
 
 ### Affiliations
 
-- **Rural Astrologers' Circle**: Fakhrad maintains membership in this loose, informal association of practitioners who share his practical approach and his distance from academic establishments.
-- **The Herblore Practitioners' Guild**: Though unofficial, he networks with other healers and herbalists who combine their knowledge with astronomical timing.
+Rural Astrologers' Circle
+: Fakhrad maintains membership in this loose, informal association of practitioners who share his practical approach and his distance from academic establishments.
+
+The Herblore Practitioners' Guild
+: Though unofficial, he networks with other healers and herbalists who combine their knowledge with astronomical timing.
 
 ## Plot Hooks
 

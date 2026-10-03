@@ -475,25 +475,33 @@ Tárellia is motivated by a drive to prevent tragedy through accurate knowledge,
 
 ### Patrons
 
-- **Merchant Prince Náldor Cárdeth**: A wealthy trader whose fortune was significantly increased by consistently following Tárellia's advice regarding trade routes and departure timing. He pays handsomely for her exclusive consultation and considers her his secret advantage against competitors.
+Merchant Prince Náldor Cárdeth
+: A wealthy trader whose fortune was significantly increased by consistently following Tárellia's advice regarding trade routes and departure timing. He pays handsomely for her exclusive consultation and considers her his secret advantage against competitors.
 
-- **Captain-Commander Ténral Sálthar**: The supreme naval commander of Élavendre's maritime forces, who employs Tárellia for predictions regarding weather, enemy movements, and auspicious timing for naval operations. His trust in her has made her recommendations carry official weight.
+Captain-Commander Ténral Sálthar
+: The supreme naval commander of Élavendre's maritime forces, who employs Tárellia for predictions regarding weather, enemy movements, and auspicious timing for naval operations. His trust in her has made her recommendations carry official weight.
 
-- **the Mariners' Guild Council**: The official governing body of the guild that has engaged Tárellia as the primary consultant for matters of celestial navigation and maritime astrology. They pay her retainer and frequently consult her on matters affecting guild interests.
+the Mariners' Guild Council
+: The official governing body of the guild that has engaged Tárellia as the primary consultant for matters of celestial navigation and maritime astrology. They pay her retainer and frequently consult her on matters affecting guild interests.
 
-- **Scholar-Collector Lóriena Myrkelis**: An elderly woman of learning who maintains a private library of rare astrological texts and who employs Tárellia to help authenticate, organize, and study new acquisitions. Their relationship is more that of fellow scholars than of patron and adviser.
+Scholar-Collector Lóriena Myrkelis
+: An elderly woman of learning who maintains a private library of rare astrological texts and who employs Tárellia to help authenticate, organize, and study new acquisitions. Their relationship is more that of fellow scholars than of patron and adviser.
 
 ### Enemies
 
-- **Captain Darios Stormrider**: A successful merchant captain who publicly blamed Tárellia for the naval disaster that occurred when his ship ignored her warnings. Though investigation absolved her, Darios continues to view her as responsible for his lost crew and missing cargo. He actively spreads the story that her predictions are unreliable and that her caution is nothing more than excessive fear.
+Captain Darios Stormrider
+: A successful merchant captain who publicly blamed Tárellia for the naval disaster that occurred when his ship ignored her warnings. Though investigation absolved her, Darios continues to view her as responsible for his lost crew and missing cargo. He actively spreads the story that her predictions are unreliable and that her caution is nothing more than excessive fear.
 
-- **Charlatan Astrologer Malachai the False**: A rival astrologer who employs theatrical presentation and ambiguous prophecy to charm wealthy clients. He views Tárellia as a threat to his livelihood and has actively worked to undermine her credibility, spreading claims that her success is due to luck rather than skill.
+Charlatan Astrologer Malachai the False
+: A rival astrologer who employs theatrical presentation and ambiguous prophecy to charm wealthy clients. He views Tárellia as a threat to his livelihood and has actively worked to undermine her credibility, spreading claims that her success is due to luck rather than skill.
 
 ### Affiliations
 
-- **the Mariners' Guild of Port Aelion**: The chief body governing maritime interests in the region. Tárellia is an official advisor and maintains guild standing that enhances her credibility.
+the Mariners' Guild of Port Aelion
+: The chief body governing maritime interests in the region. Tárellia is an official advisor and maintains guild standing that enhances her credibility.
 
-- **the Aurèldían Academy of Celestial Studies**: A scholarly institution focused on the study of astrology and celestial mechanics. Though she operates independently, Tárellia maintains membership and occasionally lectures there on maritime applications of her knowledge.
+the Aurèldían Academy of Celestial Studies
+: A scholarly institution focused on the study of astrology and celestial mechanics. Though she operates independently, Tárellia maintains membership and occasionally lectures there on maritime applications of her knowledge.
 
 ## Plot Hooks
 

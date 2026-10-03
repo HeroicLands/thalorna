@@ -466,21 +466,36 @@ Shezur seeks to leave a legacy of excellence that will outlast his mortal years.
 
 ### Patrons
 
-- [[being-akherethu2|Akherethu]]: Commander of the Aû'Khelâthu Imperial Guard, who has purchased from Shezur for seventeen years. Trusts no other source for his cohort's weapons and considers Zin'Gatau blades worth their weight in gold.
-- Captain [[being-qelti|Qelti]]: A mercenary captain of considerable renown who leads a company of two hundred soldiers. She sends at least a dozen soldiers annually to commission from Shezur.
-- **Lord Merchant Zekhenti**: A wealthy trader who deals in imperial contracts. While he cares little for the functional beauty of weapons, he appreciates the investment value of Zin'Gatau craftsmanship.
-- **The Bridge District Militia**: The informal neighborhood watch that maintains peace in Aû'Khelâthu's merchant quarters. They scrape together funds to purchase Shezur's work whenever possible.
+[[being-akherethu2|Akherethu]]
+: Commander of the Aû'Khelâthu Imperial Guard, who has purchased from Shezur for seventeen years. Trusts no other source for his cohort's weapons and considers Zin'Gatau blades worth their weight in gold.
+
+Captain [[being-qelti|Qelti]]
+: A mercenary captain of considerable renown who leads a company of two hundred soldiers. She sends at least a dozen soldiers annually to commission from Shezur.
+
+Lord Merchant Zekhenti
+: A wealthy trader who deals in imperial contracts. While he cares little for the functional beauty of weapons, he appreciates the investment value of Zin'Gatau craftsmanship.
+
+The Bridge District Militia
+: The informal neighborhood watch that maintains peace in Aû'Khelâthu's merchant quarters. They scrape together funds to purchase Shezur's work whenever possible.
 
 ### Enemies
 
-- **Master Khelamose the Embellisher**: A rival craftsman who specializes in ornate, jeweled weapons intended for nobility. Khelamose publicly mocks Shezur's "crude militarism" and has twice attempted to undercut his prices at military auctions.
-- [[affiliation-linmlnqnwglz|Lin'Melnu-Qenuwa elu Galezkara]]: A merchant organization representing aesthetic craftspeople across the Empire. They view Shezur as an enemy of true artistry and have lobbied to exclude his work from noble exhibition halls.
-- Priest [[being-aqenmose2|Aqenmose]]: A mid-ranking cleric of Psaq'âru (god of craftsmanship and architecture) who resents that Shezur worships Thubâ'i. Aqenmose has suggested that Shezur's "heretical practices" compromise his quality and spreads this falsehood among religious merchants.
+Master Khelamose the Embellisher
+: A rival craftsman who specializes in ornate, jeweled weapons intended for nobility. Khelamose publicly mocks Shezur's "crude militarism" and has twice attempted to undercut his prices at military auctions.
+
+[[affiliation-linmlnqnwglz|Lin'Melnu-Qenuwa elu Galezkara]]
+: A merchant organization representing aesthetic craftspeople across the Empire. They view Shezur as an enemy of true artistry and have lobbied to exclude his work from noble exhibition halls.
+
+Priest [[being-aqenmose2|Aqenmose]]
+: A mid-ranking cleric of Psaq'âru (god of craftsmanship and architecture) who resents that Shezur worships Thubâ'i. Aqenmose has suggested that Shezur's "heretical practices" compromise his quality and spreads this falsehood among religious merchants.
 
 ### Affiliations
 
-- [[affiliation-linmelnkhlth|Lin'Melnu elu Aû'Khelâthu]]: Though Shezur maintains independence and refuses guild leadership positions, he remains formally registered and pays his annual dues. The guild recognizes him as the highest-ranked active craftsperson.
-- **Imperial Military Quartermaster's Office**: While not an official affiliation, Shezur maintains standing contracts with the Empire's military procurement division, granting him priority access to the finest raw materials in imperial warehouses.
+[[affiliation-linmelnkhlth|Lin'Melnu elu Aû'Khelâthu]]
+: Though Shezur maintains independence and refuses guild leadership positions, he remains formally registered and pays his annual dues. The guild recognizes him as the highest-ranked active craftsperson.
+
+Imperial Military Quartermaster's Office
+: While not an official affiliation, Shezur maintains standing contracts with the Empire's military procurement division, granting him priority access to the finest raw materials in imperial warehouses.
 
 ## Plot Hooks
 

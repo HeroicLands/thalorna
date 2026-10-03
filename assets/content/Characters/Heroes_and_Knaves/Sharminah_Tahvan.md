@@ -482,25 +482,33 @@ Sharmînah exists to expand the influence and power of Ātáröš, genuinely bel
 
 ### Patrons
 
-- **High Priestess Zahara**: Though now quite elderly and spending most of her time in deep meditation, Zahara remains the highest authority in the temple and Sharmînah's spiritual mother. Zahara does not restrain Sharmînah's zealotry, instead encouraging her to pursue what she believes the god demands.
+High Priestess Zahara
+: Though now quite elderly and spending most of her time in deep meditation, Zahara remains the highest authority in the temple and Sharmînah's spiritual mother. Zahara does not restrain Sharmînah's zealotry, instead encouraging her to pursue what she believes the god demands.
 
-- **The Council of the Eternal Flame**: A group of senior priests who recognize Sharmînah's value as an enforcer and missionary, even as some harbor doubts about her methods. They employ her for tasks that require strength and absolute commitment to temple doctrine.
+The Council of the Eternal Flame
+: A group of senior priests who recognize Sharmînah's value as an enforcer and missionary, even as some harbor doubts about her methods. They employ her for tasks that require strength and absolute commitment to temple doctrine.
 
-- **Desert Warlords and Mercenary Captains**: Various military leaders seek Sharmînah's blessing and counsel, viewing her divine connection as a source of legitimacy and supernatural aid. They pay the temple handsomely for her services.
+Desert Warlords and Mercenary Captains
+: Various military leaders seek Sharmînah's blessing and counsel, viewing her divine connection as a source of legitimacy and supernatural aid. They pay the temple handsomely for her services.
 
 ### Enemies
 
-- **The Cult of the Twilight**: A heretical sect that Sharmînah has systematically hunted, viewing their more moderate theology as a corruption of true faith. The sect's leader, **Prophet Malachar**, views Sharmînah as an abomination and works to counter her influence.
+The Cult of the Twilight
+: A heretical sect that Sharmînah has systematically hunted, viewing their more moderate theology as a corruption of true faith. The sect's leader, **Prophet Malachar**, views Sharmînah as an abomination and works to counter her influence.
 
-- **The Desert Unity Movement**: A political faction seeking to unite the various desert kingdoms through negotiation and shared culture rather than religious conversion. Sharmînah views them as obstacles to the Sacred Flame's will and has repeatedly sabotaged their efforts.
+The Desert Unity Movement
+: A political faction seeking to unite the various desert kingdoms through negotiation and shared culture rather than religious conversion. Sharmînah views them as obstacles to the Sacred Flame's will and has repeatedly sabotaged their efforts.
 
-- **Priest Salim of the Northern Temple**: A fellow priest of Ātáröš who broke with orthodox teachings to advocate for compassion and mercy. He represents everything Sharmînah despises about weakness in faith, and she would eagerly destroy him to prevent his teachings from corrupting others.
+Priest Salim of the Northern Temple
+: A fellow priest of Ātáröš who broke with orthodox teachings to advocate for compassion and mercy. He represents everything Sharmînah despises about weakness in faith, and she would eagerly destroy him to prevent his teachings from corrupting others.
 
 ### Affiliations
 
-- **The Great Fire-Temple of Ātáröš**: Sharmînah's primary institution and source of authority. The temple sponsors her missions and employs her as a warrior-priest and enforcer of orthodox doctrine.
+The Great Fire-Temple of Ātáröš
+: Sharmînah's primary institution and source of authority. The temple sponsors her missions and employs her as a warrior-priest and enforcer of orthodox doctrine.
 
-- **The Order of the Eternal Flame**: A monastic military order of Ātáröš's followers, dedicated to the spread of divine transformation and purification through whatever means necessary. Sharmînah is one of their most prominent and feared members.
+The Order of the Eternal Flame
+: A monastic military order of Ātáröš's followers, dedicated to the spread of divine transformation and purification through whatever means necessary. Sharmînah is one of their most prominent and feared members.
 
 ## Plot Hooks
 

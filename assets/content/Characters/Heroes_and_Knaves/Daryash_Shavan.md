@@ -458,18 +458,27 @@ Daryash is animated by a profound belief that physical objects possess sacred si
 
 ### Patrons
 
-- **Lady Sarafina al-Khamis**: A widow and collector of sacred objects who has commissioned three major pieces and serves as Daryash's primary advocate in noble circles.
-- **Father Ilmantur of the Míthárä Temple**: The elderly priest who recognized spiritual dimension in her work and provides both commissions and spiritual counsel.
-- **Merchant-Prince Davoud**: A wealthy spice trader who values her work above all others and has promised patronage if she were ever to accept formal support.
+Lady Sarafina al-Khamis
+: A widow and collector of sacred objects who has commissioned three major pieces and serves as Daryash's primary advocate in noble circles.
+
+Father Ilmantur of the Míthárä Temple
+: The elderly priest who recognized spiritual dimension in her work and provides both commissions and spiritual counsel.
+
+Merchant-Prince Davoud
+: A wealthy spice trader who values her work above all others and has promised patronage if she were ever to accept formal support.
 
 ### Enemies
 
-- **Master Craftsman Rehman of the Collective**: The jealous guild-master who views Daryash's refusal to join as insult and threat, and actively works to undermine her reputation and secure her rare commissions for guild-approved craftspeople.
-- **The Carpentry-Masters' Collective**: This powerful organization views her as a rogue element challenging their monopoly and has begun spreading rumors questioning the ethics of her sourcing practices.
+Master Craftsman Rehman of the Collective
+: The jealous guild-master who views Daryash's refusal to join as insult and threat, and actively works to undermine her reputation and secure her rare commissions for guild-approved craftspeople.
+
+The Carpentry-Masters' Collective
+: This powerful organization views her as a rogue element challenging their monopoly and has begun spreading rumors questioning the ethics of her sourcing practices.
 
 ### Affiliations
 
-- **Míthárä's Circle of Creation**: An informal network of spiritual seekers and artists devoted to sacred craftsmanship (unaffiliated with institutional structures).
+Míthárä's Circle of Creation
+: An informal network of spiritual seekers and artists devoted to sacred craftsmanship (unaffiliated with institutional structures).
 
 ## Plot Hooks
 

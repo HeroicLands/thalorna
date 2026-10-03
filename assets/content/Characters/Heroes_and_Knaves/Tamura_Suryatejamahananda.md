@@ -472,23 +472,30 @@ Tamûra is motivated primarily by the desire to create things that will outlast 
 
 ### Patrons
 
-- **Farmer Lord Kestin Haroway**: A wealthy landowner who employs Tamûra exclusively for all structural work on his sprawling estates. Kestin considers Tamûra's work to be an investment in the permanence of his properties and pays handsomely for first call on his time.
+Farmer Lord Kestin Haroway
+: A wealthy landowner who employs Tamûra exclusively for all structural work on his sprawling estates. Kestin considers Tamûra's work to be an investment in the permanence of his properties and pays handsomely for first call on his time.
 
-- **the Vedyaran Guildhall Commission**: The official body overseeing craftsman standards frequently contracts with Tamûra to evaluate the work of other craftsmen or to handle the most important public works. His reputation lends legitimacy to their assessments.
+the Vedyaran Guildhall Commission
+: The official body overseeing craftsman standards frequently contracts with Tamûra to evaluate the work of other craftsmen or to handle the most important public works. His reputation lends legitimacy to their assessments.
 
-- **Shipbuilder Master Alden Coursewright**: A celebrated builder of merchant vessels who employs Tamûra for keel and frame work on his most important commissions, knowing his structural integrity will make the difference between a ship that lasts twenty years and one that lasts a century.
+Shipbuilder Master Alden Coursewright
+: A celebrated builder of merchant vessels who employs Tamûra for keel and frame work on his most important commissions, knowing his structural integrity will make the difference between a ship that lasts twenty years and one that lasts a century.
 
 ### Enemies
 
-- **Industrialist Merchant Grayson Thrift**: A merchant who has turned much of the wood-working trade over to mills, creating cheaper, faster work at the cost of quality. Grayson views Tamûra's insistence on traditional methods as an impediment to progress and has publicly derided his approach as antiquated. Grayson actively seeks to undercut Tamûra's prices and steal his commissions.
+Industrialist Merchant Grayson Thrift
+: A merchant who has turned much of the wood-working trade over to mills, creating cheaper, faster work at the cost of quality. Grayson views Tamûra's insistence on traditional methods as an impediment to progress and has publicly derided his approach as antiquated. Grayson actively seeks to undercut Tamûra's prices and steal his commissions.
 
-- **Rival Craftsman Marden the Swift**: A younger woodcrafter who has made a name for himself by producing fashionable, ornate pieces quickly and cheaply. Marden sees Tamûra as a relic of the old ways, and he actively courts the younger patrons Tamûra alienates with his refusal to adapt.
+Rival Craftsman Marden the Swift
+: A younger woodcrafter who has made a name for himself by producing fashionable, ornate pieces quickly and cheaply. Marden sees Tamûra as a relic of the old ways, and he actively courts the younger patrons Tamûra alienates with his refusal to adapt.
 
 ### Affiliations
 
-- **The Rural Craftsmen's Guild of Vedyara**: The primary organization governing craftsmen standards in the agricultural regions. Tamûra serves on their council and acts as one of their primary arbiters of quality and technique standards.
+The Rural Craftsmen's Guild of Vedyara
+: The primary organization governing craftsmen standards in the agricultural regions. Tamûra serves on their council and acts as one of their primary arbiters of quality and technique standards.
 
-- **The Woodhearth Lineage**: An informal but deeply respected chain of apprenticeship and mentorship stretching back three hundred years, of which Tamûra is a senior member. The lineage emphasizes that wood-craft is a calling rather than a trade alone.
+The Woodhearth Lineage
+: An informal but deeply respected chain of apprenticeship and mentorship stretching back three hundred years, of which Tamûra is a senior member. The lineage emphasizes that wood-craft is a calling rather than a trade alone.
 
 ## Plot Hooks
 

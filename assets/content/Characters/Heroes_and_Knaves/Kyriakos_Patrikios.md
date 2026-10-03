@@ -475,20 +475,33 @@ Kyriákos is driven by a need to atone that he consciously recognizes can never 
 
 ### Patrons
 
-- **Village Elder Mâria**: The leader of the village that has become Kyriákos's home. She values his protection and guidance and acts as his primary connection to the village community, mediating between him and those who fear his past.
-- **Young Warriors and Adventurers**: Dozens of youths and adventurers seeking training have benefited from Kyriákos's instruction, and many maintain loyalty to him as their teacher.
-- **The Village Blacksmith**: A collaborative partnership with **Master Thorne**, the village blacksmith, who has become something like a friend to Kyriákos. They work together to create quality weapons.
+Village Elder Mâria
+: The leader of the village that has become Kyriákos's home. She values his protection and guidance and acts as his primary connection to the village community, mediating between him and those who fear his past.
+
+Young Warriors and Adventurers
+: Dozens of youths and adventurers seeking training have benefited from Kyriákos's instruction, and many maintain loyalty to him as their teacher.
+
+The Village Blacksmith
+: A collaborative partnership with **Master Thorne**, the village blacksmith, who has become something like a friend to Kyriákos. They work together to create quality weapons.
 
 ### Enemies
 
-- **Karûsh**: A former lieutenant from the Iron Wolves Company who was present at the massacre that broke Kyriákos. Karûsh has never forgiven Kyriákos for abandoning the company and suspects he's living in the very village they were hired to destroy. If Karûsh discovered Kyriákos's location, he would likely attempt to capture or kill him for his perceived betrayal.
-- **The Iron Wolves Company**: The mercenary company views Kyriákos as a deserter who could reveal their operations and methods. There is likely a standing bounty on him, though few realize the old village instructor is worth finding.
-- **Lord Varkûn**: The regional noble who hired the Iron Wolves to massacre the village still rules the region. Kyriákos fears that if his identity were known, Varkûn might move against him or the village he's come to protect.
-- **His Own Conscience**: More than any external enemy, Kyriákos battles himself—his guilt, his memories, his conviction that he deserves punishment for what he has done.
+Karûsh
+: A former lieutenant from the Iron Wolves Company who was present at the massacre that broke Kyriákos. Karûsh has never forgiven Kyriákos for abandoning the company and suspects he's living in the very village they were hired to destroy. If Karûsh discovered Kyriákos's location, he would likely attempt to capture or kill him for his perceived betrayal.
+
+The Iron Wolves Company
+: The mercenary company views Kyriákos as a deserter who could reveal their operations and methods. There is likely a standing bounty on him, though few realize the old village instructor is worth finding.
+
+Lord Varkûn
+: The regional noble who hired the Iron Wolves to massacre the village still rules the region. Kyriákos fears that if his identity were known, Varkûn might move against him or the village he's come to protect.
+
+His Own Conscience
+: More than any external enemy, Kyriákos battles himself—his guilt, his memories, his conviction that he deserves punishment for what he has done.
 
 ### Affiliations
 
-- **The Village**: Though he would never formally affiliate with any group, the village has become his implicit family and the focus of his protective commitment.
+The Village
+: Though he would never formally affiliate with any group, the village has become his implicit family and the focus of his protective commitment.
 
 ## Plot Hooks
 

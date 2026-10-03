@@ -470,18 +470,27 @@ Gârlen's primary drive is the pursuit of perfection in his craft. He seeks to c
 
 ### Patrons
 
-- **Captain of the City Guard, Commander Aldis**: A patron who has commissioned multiple leather armor sets for the city's elite guard. Aldis values Gârlen's work and sees that the guard's supply contracts flow regularly to his workshop.
-- **Lady Merenna of House Élavère**: A minor nobility whose appreciation for Gârlen's aesthetic sense has made her a regular customer. She commissions decorative leather goods and saddles, and her endorsement among the city's elite has brought significant prestige to his workshop.
-- **Master Physician Cútheir**: The healer who saved Gârlen's leg and his life decades ago, now elderly but still influential. The two remain in close contact, and Cútheir occasionally sends injured patients to Gârlen to help them recover their strength.
+Captain of the City Guard, Commander Aldis
+: A patron who has commissioned multiple leather armor sets for the city's elite guard. Aldis values Gârlen's work and sees that the guard's supply contracts flow regularly to his workshop.
+
+Lady Merenna of House Élavère
+: A minor nobility whose appreciation for Gârlen's aesthetic sense has made her a regular customer. She commissions decorative leather goods and saddles, and her endorsement among the city's elite has brought significant prestige to his workshop.
+
+Master Physician Cútheir
+: The healer who saved Gârlen's leg and his life decades ago, now elderly but still influential. The two remain in close contact, and Cútheir occasionally sends injured patients to Gârlen to help them recover their strength.
 
 ### Enemies
 
-- **Master Leatherworker Torvin**: A rival craftsperson who produces faster, cheaper goods through corner-cutting methods. Torvin actively attempts to undercut Gârlen on price and spreads rumors about his work's durability, despite the fact that his own products are objectively inferior.
-- **The Tanners' Guild Elders**: Several guild administrators have attempted to pressure Gârlen into their standardized pricing and methods. When he refused to compromise his standards or join their cartel, they blacklisted him from certain contracts, though his reputation has largely insulated him from the worst effects.
+Master Leatherworker Torvin
+: A rival craftsperson who produces faster, cheaper goods through corner-cutting methods. Torvin actively attempts to undercut Gârlen on price and spreads rumors about his work's durability, despite the fact that his own products are objectively inferior.
+
+The Tanners' Guild Elders
+: Several guild administrators have attempted to pressure Gârlen into their standardized pricing and methods. When he refused to compromise his standards or join their cartel, they blacklisted him from certain contracts, though his reputation has largely insulated him from the worst effects.
 
 ### Affiliations
 
-- **The Independent Craftspeople's Association**: A loose collective of artisans who reject guild monopolies. Gârlen holds no formal position but attends their meetings and contributes to their advocacy efforts.
+The Independent Craftspeople's Association
+: A loose collective of artisans who reject guild monopolies. Gârlen holds no formal position but attends their meetings and contributes to their advocacy efforts.
 
 ## Plot Hooks
 

@@ -479,20 +479,33 @@ Flarnthýra creates not for fame or fortune, though both have come to her, but b
 
 ### Patrons
 
-- **Merchant-Lord Théodric the Elder**: A wealthy trader who has commissioned five major pieces and pays handsomely for work that takes her fancy. He seeks her favor for political reasons as much as aesthetic ones.
-- **Lady Sígrún Whitmore**: A minor noblewoman of impeccable taste who has become Flarnthýra's closest thing to a confidante, regularly commissioning decorative ware and providing commissions to others based on her recommendation.
-- **Master Jórun Graywick (Former Master)**: Though retired, her old mentor still refers commissions to Flarnthýra and seeks her counsel on matters of technique; they meet monthly to discuss pottery and life.
+Merchant-Lord Théodric the Elder
+: A wealthy trader who has commissioned five major pieces and pays handsomely for work that takes her fancy. He seeks her favor for political reasons as much as aesthetic ones.
+
+Lady Sígrún Whitmore
+: A minor noblewoman of impeccable taste who has become Flarnthýra's closest thing to a confidante, regularly commissioning decorative ware and providing commissions to others based on her recommendation.
+
+Master Jórun Graywick (Former Master)
+: Though retired, her old mentor still refers commissions to Flarnthýra and seeks her counsel on matters of technique; they meet monthly to discuss pottery and life.
 
 ### Enemies
 
-- **Kálf Stonebrow**: A rival potter of lesser skill who has begun spreading rumors that Flarnthýra's success derives from her family name rather than talent. His jealousy has led him to undercut her prices and poach apprentices.
-- **Her Father, Víkingr Steinblót**: Though he lives in distant lands, the memory of his disapproval and the knowledge that she has succeeded despite his wishes creates an ongoing internal conflict; she occasionally hears rumors of his grudging pride.
-- **The Graystone Collective**: A guild of conservative craftspeople who view her innovative techniques and artistic pretensions as threats to traditional stoneworking values and have attempted to restrict her access to certain materials.
+Kálf Stonebrow
+: A rival potter of lesser skill who has begun spreading rumors that Flarnthýra's success derives from her family name rather than talent. His jealousy has led him to undercut her prices and poach apprentices.
+
+Her Father, Víkingr Steinblót
+: Though he lives in distant lands, the memory of his disapproval and the knowledge that she has succeeded despite his wishes creates an ongoing internal conflict; she occasionally hears rumors of his grudging pride.
+
+The Graystone Collective
+: A guild of conservative craftspeople who view her innovative techniques and artistic pretensions as threats to traditional stoneworking values and have attempted to restrict her access to certain materials.
 
 ### Affiliations
 
-- **The Artisans' Guild of Vithgard**: A prestigious organization where she serves on the Council of Masters, though her uncompromising nature has made her unpopular with some members.
-- **The River Market Cooperative**: An informal association of independent craftspeople and merchants who support one another's work and share resources.
+The Artisans' Guild of Vithgard
+: A prestigious organization where she serves on the Council of Masters, though her uncompromising nature has made her unpopular with some members.
+
+The River Market Cooperative
+: An informal association of independent craftspeople and merchants who support one another's work and share resources.
 
 ## Plot Hooks
 

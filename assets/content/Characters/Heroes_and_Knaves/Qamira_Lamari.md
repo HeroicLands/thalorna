@@ -490,29 +490,39 @@ Increasingly, she is motivated by something darker: a suspicion that something h
 
 ### Patrons
 
-- **The House of Khán**: A powerful noble family that has patronized Qâmira for thirty years. They consult her before major decisions and have consistently paid her handsomely for her counsel. The current patriarch, Lord Devendra, views her as essential to his political strategy, though Qâmira considers most of his decisions foolish.
+The House of Khán
+: A powerful noble family that has patronized Qâmira for thirty years. They consult her before major decisions and have consistently paid her handsomely for her counsel. The current patriarch, Lord Devendra, views her as essential to his political strategy, though Qâmira considers most of his decisions foolish.
 
-- **The Council of the Panepistemium**: While a member of the Guild, Qâmira has a complicated relationship with its leadership. However, certain senior members remain devoted to her work and provide research funding and access to rare texts and instruments.
+The Council of the Panepistemium
+: While a member of the Guild, Qâmira has a complicated relationship with its leadership. However, certain senior members remain devoted to her work and provide research funding and access to rare texts and instruments.
 
-- **The Observatory of Kalihara**: The institution where Qâmira studied and now maintains a private research chamber. The Observatory provides her with access to superior instruments and the quiet necessary for her work.
+The Observatory of Kalihara
+: The institution where Qâmira studied and now maintains a private research chamber. The Observatory provides her with access to superior instruments and the quiet necessary for her work.
 
-- **The Temple of Táranon**: While not formally affiliated, Qâmira has developed a relationship with the priesthood of this storm deity. They view her astrological work as complementary to their practice and provide both funding and spiritual support.
+The Temple of Táranon
+: While not formally affiliated, Qâmira has developed a relationship with the priesthood of this storm deity. They view her astrological work as complementary to their practice and provide both funding and spiritual support.
 
 ### Enemies
 
-- **Vasánt the Disputer**: A rival astrologer who has spent twenty years attempting to prove that Qâmira's predictions are a combination of luck, statistical coincidence, and careful vagueness. He has achieved modest success in discrediting some of her work, particularly predictions that failed to materialize. He views her as a charlatan and is attempting to drive her out of the Guild.
+Vasánt the Disputer
+: A rival astrologer who has spent twenty years attempting to prove that Qâmira's predictions are a combination of luck, statistical coincidence, and careful vagueness. He has achieved modest success in discrediting some of her work, particularly predictions that failed to materialize. He views her as a charlatan and is attempting to drive her out of the Guild.
 
-- **The Institutional Church**: Certain factions within the religious establishment view astrology itself as heretical, viewing it as attributing to stars an influence that should belong solely to divine will. They have campaigned to have Qâmira's work suppressed and her reputation damaged.
+The Institutional Church
+: Certain factions within the religious establishment view astrology itself as heretical, viewing it as attributing to stars an influence that should belong solely to divine will. They have campaigned to have Qâmira's work suppressed and her reputation damaged.
 
-- **Merchant Lord Rashid**: A wealthy merchant who consulted Qâmira regarding a major investment thirty years ago. She advised him against a particular venture, predicting catastrophic loss. He ignored her counsel and proceeded, resulting in exactly the disaster she predicted. Rather than accepting her accuracy, Rashid has concluded that she somehow caused the failure through sorcery or sabotage, and he has become increasingly obsessed with proving she is a witch and having her prosecuted.
+Merchant Lord Rashid
+: A wealthy merchant who consulted Qâmira regarding a major investment thirty years ago. She advised him against a particular venture, predicting catastrophic loss. He ignored her counsel and proceeded, resulting in exactly the disaster she predicted. Rather than accepting her accuracy, Rashid has concluded that she somehow caused the failure through sorcery or sabotage, and he has become increasingly obsessed with proving she is a witch and having her prosecuted.
 
 ### Affiliations
 
-- **The Panepistemium**: Qâmira holds senior membership, though her relationship with certain factions is adversarial.
+The Panepistemium
+: Qâmira holds senior membership, though her relationship with certain factions is adversarial.
 
-- **The Observatory of Kalihara**: She maintains a private research chamber and is considered a distinguished visiting researcher.
+The Observatory of Kalihara
+: She maintains a private research chamber and is considered a distinguished visiting researcher.
 
-- **The Temple of Táranon**: While not formally ordained, she functions as a quasi-official advisor to the priesthood regarding celestial and astrological matters.
+The Temple of Táranon
+: While not formally ordained, she functions as a quasi-official advisor to the priesthood regarding celestial and astrological matters.
 
 ## Plot Hooks
 

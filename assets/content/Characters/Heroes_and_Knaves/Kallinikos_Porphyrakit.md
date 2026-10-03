@@ -466,19 +466,30 @@ Kallínikos is driven by the deep human desire to know, to map the unmapped, to 
 
 ### Patrons
 
-- **The Royal Cartographers' Society**: Official patron organization that grants him access to resources, archive materials, and occasionally funding for expeditions of strategic importance.
-- **Lord Commander Hieronymus**: A military leader who has commissioned numerous military maps and occasionally funds expeditions specifically to gather information on potential threats or expansion opportunities.
-- **Lady Investress Calyndra**: A wealthy collector of fine maps and geographical art who has become increasingly invested in funding his expeditions, ostensibly for the beauty of his work.
+The Royal Cartographers' Society
+: Official patron organization that grants him access to resources, archive materials, and occasionally funding for expeditions of strategic importance.
+
+Lord Commander Hieronymus
+: A military leader who has commissioned numerous military maps and occasionally funds expeditions specifically to gather information on potential threats or expansion opportunities.
+
+Lady Investress Calyndra
+: A wealthy collector of fine maps and geographical art who has become increasingly invested in funding his expeditions, ostensibly for the beauty of his work.
 
 ### Enemies
 
-- **The Orthodox Cartographers' Alliance**: Conservative practitioners who view Kallínikos's artistic approach as compromising precision and his expeditions as wasteful spending on unnecessary discovery.
-- **The Faceless Warden**: An entity or individual Kallínikos encountered during his Shadowpeak expedition, something that clearly does not want him—or anyone—mapping the deep mountain regions. They have tried multiple times to kill him.
+The Orthodox Cartographers' Alliance
+: Conservative practitioners who view Kallínikos's artistic approach as compromising precision and his expeditions as wasteful spending on unnecessary discovery.
+
+The Faceless Warden
+: An entity or individual Kallínikos encountered during his Shadowpeak expedition, something that clearly does not want him—or anyone—mapping the deep mountain regions. They have tried multiple times to kill him.
 
 ### Affiliations
 
-- **The Royal Cartographers' Society**: Official membership providing resources and legitimacy, though his maverick approach creates occasional friction.
-- **The Explorers' Fellowship**: An informal network of adventurers and naturalists dedicated to expanding geographical knowledge.
+The Royal Cartographers' Society
+: Official membership providing resources and legitimacy, though his maverick approach creates occasional friction.
+
+The Explorers' Fellowship
+: An informal network of adventurers and naturalists dedicated to expanding geographical knowledge.
 
 ## Plot Hooks
 

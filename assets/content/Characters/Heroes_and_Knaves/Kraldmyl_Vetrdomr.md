@@ -472,27 +472,36 @@ Kraldmýl is motivated by a desire to work at his craft with complete mastery, a
 
 ### Patrons
 
-- **Master Carpenter Thorgrim**: The finest carpenter in Nordheim relies entirely on Kraldmýl's timber and has arranged his entire business around Kraldmýl's supply schedule, paying a premium for the superior quality of wood that only Kraldmýl can provide.
+Master Carpenter Thorgrim
+: The finest carpenter in Nordheim relies entirely on Kraldmýl's timber and has arranged his entire business around Kraldmýl's supply schedule, paying a premium for the superior quality of wood that only Kraldmýl can provide.
 
-- **The Builders' Collective**: An informal association of craftsmen engaged in major construction projects in Nordheim's cities depends on Kraldmýl for special timber that must meet exacting standards; they pay well and do not question his methods.
+The Builders' Collective
+: An informal association of craftsmen engaged in major construction projects in Nordheim's cities depends on Kraldmýl for special timber that must meet exacting standards; they pay well and do not question his methods.
 
-- **High Priestess Sigrún**: The priestess of Thrúnvald in the nearest settlement views Kraldmýl as a genuine worshipper of the storm god through his craft and occasionally calls upon him for advice on matters of practical implementation in temple construction.
+High Priestess Sigrún
+: The priestess of Thrúnvald in the nearest settlement views Kraldmýl as a genuine worshipper of the storm god through his craft and occasionally calls upon him for advice on matters of practical implementation in temple construction.
 
-- **Alderman Bórrin**: The local administrative leader respects Kraldmýl's integrity and supports him against occasional attempts to regulate or control the forests from which he harvests.
+Alderman Bórrin
+: The local administrative leader respects Kraldmýl's integrity and supports him against occasional attempts to regulate or control the forests from which he harvests.
 
 ### Enemies
 
-- **Lin'Zuwaret elu Aû'Khelâthu of Ironholm**: These ambitious merchants view Kraldmýl's independent operations as an obstacle to their plans for industrial-scale timber harvesting and have attempted repeatedly to purchase his operation or absorb him into their company—attempts he has always refused.
+Lin'Zuwaret elu Aû'Khelâthu of Ironholm
+: These ambitious merchants view Kraldmýl's independent operations as an obstacle to their plans for industrial-scale timber harvesting and have attempted repeatedly to purchase his operation or absorb him into their company—attempts he has always refused.
 
-- **Warden Kale**: The regional forest warden has clashed with Kraldmýl multiple times over interpretations of harvesting rights and believes that Kraldmýl operates outside proper legal authority; this resentment has festered into genuine personal dislike.
+Warden Kale
+: The regional forest warden has clashed with Kraldmýl multiple times over interpretations of harvesting rights and believes that Kraldmýl operates outside proper legal authority; this resentment has festered into genuine personal dislike.
 
-- **The Corrupted Settlement**: A nearby settlement whose leaders have been bribed by the Merchant Consortium has begun making legal challenges to Kraldmýl's rights to harvest in traditional territories.
+The Corrupted Settlement
+: A nearby settlement whose leaders have been bribed by the Merchant Consortium has begun making legal challenges to Kraldmýl's rights to harvest in traditional territories.
 
 ### Affiliations
 
-- **The Woodcutters' Guild**: Kraldmýl maintains his membership and pays his dues, though he has little involvement in guild politics and routinely skips guild meetings.
+The Woodcutters' Guild
+: Kraldmýl maintains his membership and pays his dues, though he has little involvement in guild politics and routinely skips guild meetings.
 
-- **The Followers of Thrúnvald**: Though not a formal priest or member of any religious institution, Kraldmýl is widely recognized as a genuine worshipper of the storm god through his unwavering commitment to excellence and his acceptance of danger.
+The Followers of Thrúnvald
+: Though not a formal priest or member of any religious institution, Kraldmýl is widely recognized as a genuine worshipper of the storm god through his unwavering commitment to excellence and his acceptance of danger.
 
 ## Plot Hooks
 

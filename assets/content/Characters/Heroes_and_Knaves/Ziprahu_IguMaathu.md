@@ -463,21 +463,36 @@ Ziprahu is driven by a desire to be the best locksmith who has ever lived, to su
 
 ### Patrons
 
-- Treasurer [[being-imhoqar2|Imhoqar]]: The Imperial official responsible for the Empire's treasury holds Ziprahu in the highest regard. All imperial vaults and secure chambers have been installed with locks of his design, and Imhoqar provides the single largest stream of consistent work.
-- Lady [[being-balenermshg2|Balenerî Mesheget]]: A noble of considerable wealth and paranoid disposition. She commissions new locks and security modifications every few months, trusting no one but Ziprahu with access to her estate's systems. She pays extraordinarily well and provides social access to her wealthy peers.
-- [[affiliation-lutgewaatis|The Lut-Gewaâtis]]: The priesthood maintains contracts with Ziprahu for maintaining the Temple's sacred vaults. He is one of only three individuals alive who knows the complete configuration of the Temple's security system.
-- Master [[affiliation-linzwrtglzk3|Lin'Zuwaret elu Galezkara]]: The guild of high-value traders collectively employ Ziprahu as their adviser on security, and he regularly designs custom vault systems for member houses.
+Treasurer [[being-imhoqar2|Imhoqar]]
+: The Imperial official responsible for the Empire's treasury holds Ziprahu in the highest regard. All imperial vaults and secure chambers have been installed with locks of his design, and Imhoqar provides the single largest stream of consistent work.
+
+Lady [[being-balenermshg2|Balenerî Mesheget]]
+: A noble of considerable wealth and paranoid disposition. She commissions new locks and security modifications every few months, trusting no one but Ziprahu with access to her estate's systems. She pays extraordinarily well and provides social access to her wealthy peers.
+
+[[affiliation-lutgewaatis|The Lut-Gewaâtis]]
+: The priesthood maintains contracts with Ziprahu for maintaining the Temple's sacred vaults. He is one of only three individuals alive who knows the complete configuration of the Temple's security system.
+
+Master [[affiliation-linzwrtglzk3|Lin'Zuwaret elu Galezkara]]
+: The guild of high-value traders collectively employ Ziprahu as their adviser on security, and he regularly designs custom vault systems for member houses.
 
 ### Enemies
 
-- **Merchant Qelti the Bold**: A thief of considerable skill who has attempted multiple times to break Ziprahu's locks and steal from his clients. Each attempt has failed, and Qelti harbors a deep hatred for the locksmith, viewing him as a personal nemesis and obstacle to his art.
-- Master [[affiliation-linzokhothu|Lin'Zokhothu]]: The retired master's three children blame Ziprahu for outpacing their inheritance and belief that one of them should have succeeded Zokhothu. They spread rumors that Ziprahu's success owes to theft of their father's designs, a claim without foundation but which causes periodic gossip.
-- [[affiliation-linqelzu|Lin'Qelzu]]: A secretive organization of thief-philosophers who view any lock as a puzzle to be solved and see Ziprahu's work as a direct challenge. They have made it a point of honor to breach at least one of his major commissions.
+Merchant Qelti the Bold
+: A thief of considerable skill who has attempted multiple times to break Ziprahu's locks and steal from his clients. Each attempt has failed, and Qelti harbors a deep hatred for the locksmith, viewing him as a personal nemesis and obstacle to his art.
+
+Master [[affiliation-linzokhothu|Lin'Zokhothu]]
+: The retired master's three children blame Ziprahu for outpacing their inheritance and belief that one of them should have succeeded Zokhothu. They spread rumors that Ziprahu's success owes to theft of their father's designs, a claim without foundation but which causes periodic gossip.
+
+[[affiliation-linqelzu|Lin'Qelzu]]
+: A secretive organization of thief-philosophers who view any lock as a puzzle to be solved and see Ziprahu's work as a direct challenge. They have made it a point of honor to breach at least one of his major commissions.
 
 ### Affiliations
 
-- **Locksmiths' Guild of Aû'Khelâthu**: Ziprahu holds the highest rank within the guild and serves on its council of masters. Though he attends meetings reluctantly and speaks rarely, his voice carries significant weight in guild decisions.
-- **The Scholar's Archive**: Ziprahu maintains membership in this institution and regularly consults on matters of security and lock history, though he contributes little directly beyond his passive presence.
+Locksmiths' Guild of Aû'Khelâthu
+: Ziprahu holds the highest rank within the guild and serves on its council of masters. Though he attends meetings reluctantly and speaks rarely, his voice carries significant weight in guild decisions.
+
+The Scholar's Archive
+: Ziprahu maintains membership in this institution and regularly consults on matters of security and lock history, though he contributes little directly beyond his passive presence.
 
 ## Plot Hooks
 

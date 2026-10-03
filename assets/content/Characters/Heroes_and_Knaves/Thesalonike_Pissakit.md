@@ -466,20 +466,33 @@ Thêsaloníke is driven by a profound love for the forests of her homeland and a
 
 ### Patrons
 
-- **Master Carpenter Eustrátiash Athanaskâr**: A renowned furniture maker who commissions Thêsaloníke specifically for rare wood projects. He values her craftsmanship and has become a trusted colleague and occasional confidant.
-- **The Architects' Collective of the Byzarian League**: A group of progressive builders committed to sustainable construction. They seek Thêsaloníke's timber for high-profile projects and trust her judgment on material selection.
-- **The Monastery of Silent Waters**: A religious community in the forest that employs Thêsaloníke to manage their woodlands sustainably while generating income. The head priest, **Father Damian**, shares her conservation philosophy.
+Master Carpenter Eustrátiash Athanaskâr
+: A renowned furniture maker who commissions Thêsaloníke specifically for rare wood projects. He values her craftsmanship and has become a trusted colleague and occasional confidant.
+
+The Architects' Collective of the Byzarian League
+: A group of progressive builders committed to sustainable construction. They seek Thêsaloníke's timber for high-profile projects and trust her judgment on material selection.
+
+The Monastery of Silent Waters
+: A religious community in the forest that employs Thêsaloníke to manage their woodlands sustainably while generating income. The head priest, **Father Damian**, shares her conservation philosophy.
 
 ### Enemies
 
-- **The Logging Consortium of the Byzarian League**: A commercial enterprise that prioritizes profit over sustainability. Their operation manager, **Master Harvester Zarránikos**, views Thêsaloníke as an irritant and has attempted to undercut her contracts.
-- **Corrupt Guild Officials**: Some members of the **Woodcutters' Guild** resent her for raising standards and are occasionally hostile toward her work practices.
-- **Unscrupulous Competing Woodcutters**: Several rivals view her sustainable practices as economically foolish and have spread rumors about her reliability and quality.
+The Logging Consortium of the Byzarian League
+: A commercial enterprise that prioritizes profit over sustainability. Their operation manager, **Master Harvester Zarránikos**, views Thêsaloníke as an irritant and has attempted to undercut her contracts.
+
+Corrupt Guild Officials
+: Some members of the **Woodcutters' Guild** resent her for raising standards and are occasionally hostile toward her work practices.
+
+Unscrupulous Competing Woodcutters
+: Several rivals view her sustainable practices as economically foolish and have spread rumors about her reliability and quality.
 
 ### Affiliations
 
-- **The Woodcutters' Guild of the Byzarian League**: Thêsaloníke maintains membership and serves informally as an advocate for sustainable practices.
-- **The Forest Stewards' Council**: An informal association of woodworkers, builders, and conservationists dedicated to balancing timber harvesting with forest preservation.
+The Woodcutters' Guild of the Byzarian League
+: Thêsaloníke maintains membership and serves informally as an advocate for sustainable practices.
+
+The Forest Stewards' Council
+: An informal association of woodworkers, builders, and conservationists dedicated to balancing timber harvesting with forest preservation.
 
 ## Plot Hooks
 

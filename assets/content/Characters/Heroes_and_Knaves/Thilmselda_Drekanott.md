@@ -455,20 +455,33 @@ Thilmselda's primary drive is to create a space of true sanctuary in a world of 
 
 ### Patrons
 
-- **Jarl Knalthorv Hrandendikh**: The regional noble whose lands surround her inn depends on her for hospitality during his frequent hunting expeditions; he has granted her a charter ensuring her establishment's protection.
-- **Lin'Zuwaret elu Aû'Khelâthu of Targud**: Several wealthy merchant families use her inn as a neutral meeting ground for negotiations; they value both her discretion and her excellent wine cellars.
-- **Braldvir Thalmumakh**: The head of the regional brewers' guild maintains a close relationship with Thilmselda, supplying her with the finest ales and meads, and relying on her recommendations to advance his reputation.
+Jarl Knalthorv Hrandendikh
+: The regional noble whose lands surround her inn depends on her for hospitality during his frequent hunting expeditions; he has granted her a charter ensuring her establishment's protection.
+
+Lin'Zuwaret elu Aû'Khelâthu of Targud
+: Several wealthy merchant families use her inn as a neutral meeting ground for negotiations; they value both her discretion and her excellent wine cellars.
+
+Braldvir Thalmumakh
+: The head of the regional brewers' guild maintains a close relationship with Thilmselda, supplying her with the finest ales and meads, and relying on her recommendations to advance his reputation.
 
 ### Enemies
 
-- **Halgar Stonefist**: A rival innkeeper who runs a disreputable establishment nearby and views Thilmselda's success as a personal affront; he spreads rumors about her business and occasionally orchestrates minor sabotage.
-- **The Crimson Road Bandits**: A loose confederation of brigands operating in the borderlands sees her well-stocked inn as both a target and a gathering place; they have robbed her twice in past years.
-- **Lord Márkos's Agent**: A nobleman's representative who attempted to purchase her inn by any means necessary, including coercion; they harbor considerable resentment over her refusal.
+Halgar Stonefist
+: A rival innkeeper who runs a disreputable establishment nearby and views Thilmselda's success as a personal affront; he spreads rumors about her business and occasionally orchestrates minor sabotage.
+
+The Crimson Road Bandits
+: A loose confederation of brigands operating in the borderlands sees her well-stocked inn as both a target and a gathering place; they have robbed her twice in past years.
+
+Lord Márkos's Agent
+: A nobleman's representative who attempted to purchase her inn by any means necessary, including coercion; they harbor considerable resentment over her refusal.
 
 ### Affiliations
 
-- **Innkeepers' Guild of Targud**: Thilmselda maintains an active, respected position within this association and serves on its council, advocating for fair trade practices and safe roads.
-- **The Brewers' Circle**: She networks with master brewers and vintners across the region, helping to establish quality standards and fair pricing.
+Innkeepers' Guild of Targud
+: Thilmselda maintains an active, respected position within this association and serves on its council, advocating for fair trade practices and safe roads.
+
+The Brewers' Circle
+: She networks with master brewers and vintners across the region, helping to establish quality standards and fair pricing.
 
 ## Plot Hooks
 

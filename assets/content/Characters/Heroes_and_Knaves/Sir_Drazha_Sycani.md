@@ -486,13 +486,19 @@ Despite his unwavering faith, Drazhan is not without doubt. The deeper he delves
 
 ### Patrons
 
-- **High Blazewarden Hadrik**: The leader of the Servants of Sycânus, Hadrik is both Drazhan’s mentor and rival. While Hadrik respects Drazhan’s abilities, he is wary of his growing influence within the order. Hadrik secretly hopes that Drazhan’s quest for the Eye of Velok will either elevate him to new heights or end in his destruction, eliminating him as a potential threat.
-- **Zirael Aimapyrós**: A high-ranking priestess of the Black Flame and a member of the Blazing Oath, Zirael is a sexual partner and one of Drazhan’s closest allies. She provides spiritual guidance and leads the dark rituals that invoke Vúlcan’s favor before battle. Zirael is fiercely loyal to Drazhan, though she has her own ambitions within the church.
+High Blazewarden Hadrik
+: The leader of the Servants of Sycânus, Hadrik is both Drazhan’s mentor and rival. While Hadrik respects Drazhan’s abilities, he is wary of his growing influence within the order. Hadrik secretly hopes that Drazhan’s quest for the Eye of Velok will either elevate him to new heights or end in his destruction, eliminating him as a potential threat.
+
+Zirael Aimapyrós
+: A high-ranking priestess of the Black Flame and a member of the Blazing Oath, Zirael is a sexual partner and one of Drazhan’s closest allies. She provides spiritual guidance and leads the dark rituals that invoke Vúlcan’s favor before battle. Zirael is fiercely loyal to Drazhan, though she has her own ambitions within the church.
 
 ### Enemies
 
-- **Sir Thalion Râskar**: A Jánusian knight of the **Order of the Righteous Path**, sworn to protect the weak and uphold justice, Thalion has crossed paths with Drazhan on several occasions. Their enmity began when Drazhan’s forces massacred a Jánusian outpost, and Thalion has since sworn to bring him to justice. The two are destined to clash again, as Thalion views Drazhan as the embodiment of everything he stands against.
-- **Sir Vashek of Nakarys the Scourge**: Once a fellow knight of the Blazing Oath, Sir Vashek turned traitor and now leads a faction within the **Nakarys the Scourge**, a rival Black Flame fighting order. Drazhan sees Vashek’s defection as the ultimate betrayal and has vowed to hunt him down. However, Vashek has proven elusive, and members of his order continue to disrupt Servants of Sycânus operations throughout the Desert of Hek’ar.
+Sir Thalion Râskar
+: A Jánusian knight of the **Order of the Righteous Path**, sworn to protect the weak and uphold justice, Thalion has crossed paths with Drazhan on several occasions. Their enmity began when Drazhan’s forces massacred a Jánusian outpost, and Thalion has since sworn to bring him to justice. The two are destined to clash again, as Thalion views Drazhan as the embodiment of everything he stands against.
+
+Sir Vashek of Nakarys the Scourge
+: Once a fellow knight of the Blazing Oath, Sir Vashek turned traitor and now leads a faction within the **Nakarys the Scourge**, a rival Black Flame fighting order. Drazhan sees Vashek’s defection as the ultimate betrayal and has vowed to hunt him down. However, Vashek has proven elusive, and members of his order continue to disrupt Servants of Sycânus operations throughout the Desert of Hek’ar.
 
 ## Plot Hooks
 
