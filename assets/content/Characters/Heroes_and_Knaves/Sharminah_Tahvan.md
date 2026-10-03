@@ -13,7 +13,7 @@ data:
   lore: []
   culture: khazrynclt
   homes: [kethramir]
-  affiliations: {tribestrzd: {}}
+  affiliations: {ataros: {rank: 2}}
   gender: female
   species: humanflk
   born: 688.86
