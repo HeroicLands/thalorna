@@ -24,7 +24,7 @@ data:
   appearance:
     eye_color: dark_brown
     hair_color: black
-    skin_color: rich_brown
+    skin_color: brown
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Zenti Khelemu'Gathau is a 38-year-old man who stands 5'10" tall and has an average build. His eyes are dark brown and his skin is rich brown. His hair is black.
+Zenti Khelemu'Gathau is a 39-year-old man who stands 5'10" tall with a medium build. He has brown skin, black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

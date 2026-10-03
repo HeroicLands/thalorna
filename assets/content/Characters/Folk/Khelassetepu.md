@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Khelassetepu is a 46-year-old woman who stands 5'9" tall and has an average build. Her eyes are brown and her skin is ebony. Her hair is black.
+Khelassetepu is a 47-year-old woman who stands 5'9" tall with a medium build. She has ebony skin, black hair, and brown eyes.
 
 # Dossier {#dossier}
 

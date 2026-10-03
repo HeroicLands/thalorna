@@ -22,7 +22,7 @@ data:
   weight: 61
   frame: light
   appearance:
-    eye_color: dark_amber
+    eye_color: amber
     hair_color: black
     skin_color: olive
     complexion: ""
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Zeshelegezu is a 37-year-old man who stands 5'9" tall and has a lean build. His eyes are dark amber and his skin is olive. His hair is black.
+Zeshelegezu is a 38-year-old man who stands 5'9" tall with a light build. He has olive skin, black hair, and amber eyes.
 
 # Dossier {#dossier}
 

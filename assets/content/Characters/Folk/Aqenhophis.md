@@ -20,7 +20,7 @@ data:
   died: null
   height: 1.8
   weight: 86
-  frame: large
+  frame: heavy
   appearance:
     eye_color: dark_brown
     hair_color: black
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Aqenhophis is a 39-year-old person who stands 5'11" tall and has a heavy build. Their eyes are dark brown and their skin is golden. Their hair is black.
+Aqenhophis is a 40-year-old woman who stands 5'11" tall with a heavy build. She has golden skin, black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

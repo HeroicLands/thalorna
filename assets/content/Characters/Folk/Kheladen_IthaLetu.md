@@ -24,7 +24,7 @@ data:
   appearance:
     eye_color: hazel
     hair_color: graying_black
-    skin_color: rich_brown
+    skin_color: brown
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Khelâden Itha'Letu is a 45-year-old man who stands 5'7" tall and has a lean build. His eyes are hazel and his skin is rich brown. His hair is graying black.
+Khelâden Itha'Letu is a 46-year-old man who stands 5'7" tall with a light build. He has brown skin, graying black hair, and hazel eyes.
 
 # Dossier {#dossier}
 

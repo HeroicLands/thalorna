@@ -20,7 +20,7 @@ data:
   died: null
   height: 1.82
   weight: 89
-  frame: large
+  frame: heavy
   appearance:
     eye_color: hazel
     hair_color: black
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Zetmeryu-Khelâ is a 41-year-old person who stands 6' tall and has a heavy build. Their eyes are hazel and their skin is tawny. Their hair is black.
+Zetmeryu-Khelâ is a 42-year-old man who stands 6'0" tall with a heavy build. He has tawny skin, black hair, and hazel eyes.
 
 # Dossier {#dossier}
 

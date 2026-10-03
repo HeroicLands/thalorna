@@ -22,9 +22,9 @@ data:
   weight: 68
   frame: medium
   appearance:
-    eye_color: black
+    eye_color: dark_brown
     hair_color: black
-    skin_color: rich_brown
+    skin_color: brown
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Aleziya Zaqqara is a 31-year-old woman who stands 5'7" tall and has an average build. Her eyes are black and her skin is rich brown. Her hair is black.
+Aleziya Zaqqara is a 32-year-old woman who stands 5'7" tall with a medium build. She has brown skin, black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

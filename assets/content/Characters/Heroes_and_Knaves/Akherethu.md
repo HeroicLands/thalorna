@@ -23,16 +23,16 @@ data:
   frame: medium
   appearance:
     eye_color: brown
-    hair_color: bald
-    skin_color: dark
+    hair_color: null
+    skin_color: dark_brown
     complexion: weathered
-    extra_features: []
+    extra_features: ["a bald head"]
   packFolder: regkhhk
 ---
 
 # Appearance {#appearance}
 
-Akherethu is a 38-year-old person who stands 6' tall and has an average build. Their eyes are brown and their skin is dark, weathered by years of it. The head is shaved bald.
+Akherethu is a 39-year-old woman who stands 6'0" tall with a medium build. She has dark brown skin, weathered complexion, and brown eyes. Her features include a bald head.
 
 # Dossier {#dossier}
 

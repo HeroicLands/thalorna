@@ -24,7 +24,7 @@ data:
   appearance:
     eye_color: brown
     hair_color: graying_black
-    skin_color: dark
+    skin_color: dark_brown
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Zassor is a 40-year-old man who stands 5'10" tall and has an average build. His eyes are brown and his skin is dark. His hair is graying black.
+Zassor is a 41-year-old man who stands 5'10" tall with a medium build. He has dark brown skin, graying black hair, and brown eyes.
 
 # Dossier {#dossier}
 

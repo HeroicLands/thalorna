@@ -22,9 +22,9 @@ data:
   weight: 46
   frame: scant
   appearance:
-    eye_color: black
+    eye_color: dark_brown
     hair_color: dark_brown
-    skin_color: dark
+    skin_color: dark_brown
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Khelôr is a 37-year-old man who stands 5'2" tall and has a spare, slight build. His eyes are black and his skin is dark. His hair is dark brown.
+Khelôr is a 38-year-old man who stands 5'2" tall with a scant build. He has dark brown skin, dark brown hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

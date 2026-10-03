@@ -22,9 +22,9 @@ data:
   weight: 53
   frame: light
   appearance:
-    eye_color: dark_amber
+    eye_color: amber
     hair_color: dark_brown
-    skin_color: dark
+    skin_color: dark_brown
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Walrethu Qelt'Lefetu is a 39-year-old person who stands 5'6" tall and has a lean build. Their eyes are dark amber and their skin is dark. Their hair is dark brown.
+Walrethu Qelt'Lefetu is a 40-year-old man who stands 5'6" tall with a light build. He has dark brown skin, dark brown hair, and amber eyes.
 
 # Dossier {#dossier}
 

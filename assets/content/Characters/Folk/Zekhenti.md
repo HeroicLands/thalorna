@@ -22,9 +22,9 @@ data:
   weight: 60
   frame: light
   appearance:
-    eye_color: black
+    eye_color: dark_brown
     hair_color: black
-    skin_color: warm
+    skin_color: tawny
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Zekhenti is a 43-year-old person who stands 5'8" tall and has a lean build. Their eyes are black and their skin is warm. Their hair is black.
+Zekhenti is a 44-year-old woman who stands 5'8" tall with a light build. She has tawny skin, black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

@@ -24,7 +24,7 @@ data:
   appearance:
     eye_color: brown
     hair_color: white
-    skin_color: dark
+    skin_color: dark_brown
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Uqetiraku Gazemu is a 50-year-old person who stands 5'7" tall and has an average build. Their eyes are brown and their skin is dark. Their hair is white.
+Uqetiraku Gazemu is a 51-year-old man who stands 5'7" tall with a medium build. He has dark brown skin, white hair, and brown eyes.
 
 # Dossier {#dossier}
 

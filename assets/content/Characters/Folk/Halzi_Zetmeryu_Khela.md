@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Halzi Zetmeryu-Khelâ is a 51-year-old person who stands 5'3" tall and has a lean build. Their eyes are dark brown and their skin is tawny. Their hair is gray.
+Halzi Zetmeryu-Khelâ is a 52-year-old man who stands 5'3" tall with a light build. He has tawny skin, gray hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

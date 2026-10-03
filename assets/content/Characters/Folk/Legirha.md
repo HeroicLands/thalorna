@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Legirha is a 37-year-old person who stands 5'8" tall and has an average build. Their eyes are hazel and their skin is ebony. Their hair is black.
+Legirha is a 38-year-old woman who stands 5'8" tall with a medium build. She has ebony skin, black hair, and hazel eyes.
 
 # Dossier {#dossier}
 

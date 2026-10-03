@@ -24,7 +24,7 @@ data:
   appearance:
     eye_color: brown
     hair_color: dark_brown
-    skin_color: dark
+    skin_color: dark_brown
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Ganomu Balehfardu is a 38-year-old woman who stands 5'7" tall and has an average build. Her eyes are brown and her skin is dark. Her hair is dark brown.
+Ganomu Balehfardu is a 39-year-old woman who stands 5'7" tall with a medium build. She has dark brown skin, dark brown hair, and brown eyes.
 
 # Dossier {#dossier}
 

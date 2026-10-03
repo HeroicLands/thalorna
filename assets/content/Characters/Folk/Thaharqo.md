@@ -20,11 +20,11 @@ data:
   died: null
   height: 1.78
   weight: 80
-  frame: large
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: dark_brown
-    skin_color: dark
+    skin_color: dark_brown
     complexion: weathered
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Thaharqo is a 33-year-old person who stands 5'10" tall and has a heavy build. Their eyes are brown and their skin is dark, weathered by years of it. Their hair is dark brown.
+Thaharqo is a 34-year-old woman who stands 5'10" tall with a heavy build. She has dark brown skin, weathered complexion, dark brown hair, and brown eyes.
 
 # Dossier {#dossier}
 

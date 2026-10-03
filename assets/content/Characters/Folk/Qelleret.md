@@ -20,7 +20,7 @@ data:
   died: null
   height: 1.88
   weight: 86
-  frame: large
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: graying_black
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Qelleret is a 50-year-old person who stands 6'2" tall and has a heavy build. Their eyes are brown and their skin is ebony. Their hair is graying black.
+Qelleret is a 51-year-old woman who stands 6'2" tall with a heavy build. She has ebony skin, graying black hair, and brown eyes.
 
 # Dossier {#dossier}
 

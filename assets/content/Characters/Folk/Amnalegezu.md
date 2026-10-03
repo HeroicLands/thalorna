@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Amnalegezu is a 37-year-old person who stands 5'7" tall and has an average build. Their eyes are dark brown and their skin is golden. Their hair is black.
+Amnalegezu is a 38-year-old woman who stands 5'7" tall with a medium build. She has golden skin, black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

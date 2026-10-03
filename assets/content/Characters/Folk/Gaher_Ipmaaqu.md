@@ -20,19 +20,19 @@ data:
   died: null
   height: 1.89
   weight: 89
-  frame: large
+  frame: heavy
   appearance:
     eye_color: brown
-    hair_color: bald
-    skin_color: dark
+    hair_color: null
+    skin_color: dark_brown
     complexion: ""
-    extra_features: []
+    extra_features: ["a bald head"]
   packFolder: regkhfolk
 ---
 
 # Appearance {#appearance}
 
-Gaher Ipmaâqu is a 49-year-old man who stands 6'2" tall and has a heavy build. His eyes are brown and his skin is dark. The head is shaved bald.
+Gaher Ipmaâqu is a 50-year-old man who stands 6'2" tall with a heavy build. He has dark brown skin and brown eyes. His features include a bald head.
 
 # Dossier {#dossier}
 

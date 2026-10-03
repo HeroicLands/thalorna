@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Zabmeht Zin'Gatau is a 49-year-old man who stands 5'9" tall and has a lean build. His eyes are hazel and his skin is tawny, weathered by years of it. His hair is gray.
+Zabmeht Zin'Gatau is a 50-year-old man who stands 5'9" tall with a light build. He has tawny skin, weathered complexion, gray hair, and hazel eyes.
 
 # Dossier {#dossier}
 

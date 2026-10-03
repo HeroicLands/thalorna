@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Anlaghi Gar'Râqu is a 44-year-old person who stands 5'6" tall and has a lean build. Their eyes are hazel and their skin is ebony, weathered by years of it. Their hair is dark brown.
+Anlaghi Gar'Râqu is a 45-year-old man who stands 5'6" tall with a light build. He has ebony skin, weathered complexion, dark brown hair, and hazel eyes.
 
 # Dossier {#dossier}
 

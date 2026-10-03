@@ -24,7 +24,7 @@ data:
   appearance:
     eye_color: brown
     hair_color: dark_brown
-    skin_color: dark
+    skin_color: dark_brown
     complexion: weathered
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Zareshu is a 45-year-old man who stands 5'3" tall and has a spare, slight build. His eyes are brown and his skin is dark, weathered by years of it. His hair is dark brown.
+Zareshu is a 46-year-old man who stands 5'3" tall with a scant build. He has dark brown skin, weathered complexion, dark brown hair, and brown eyes.
 
 # Dossier {#dossier}
 

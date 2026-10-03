@@ -24,7 +24,7 @@ data:
   appearance:
     eye_color: brown
     hair_color: dark_brown
-    skin_color: dark
+    skin_color: dark_brown
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Qeltiri is a 43-year-old person who stands 5'7" tall and has a lean build. Their eyes are brown and their skin is dark. Their hair is dark brown.
+Qeltiri is a 44-year-old woman who stands 5'7" tall with a light build. She has dark brown skin, dark brown hair, and brown eyes.
 
 # Dossier {#dossier}
 

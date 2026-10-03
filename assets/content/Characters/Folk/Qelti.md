@@ -16,23 +16,23 @@ data:
   affiliations: {}
   gender: "male"
   species: humanflk
-  born: "679.077"
+  born: null
   died: null
-  height: 1.73
-  weight: 66
-  frame: medium
+  height: null
+  weight: null
+  frame: null
   appearance:
-    eye_color: brown
-    hair_color: black
-    skin_color: dark
-    complexion: ""
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
     extra_features: []
   packFolder: regkhfolk
 ---
 
 # Appearance {#appearance}
 
-Qelti is a 40-year-old person who stands 5'8" tall and has an average build. Their eyes are brown and their skin is dark. Their hair is black.
+Qelti is a name, not a face. Its bearers differ in every particular a stranger could see — age, height, build, colouring — so the name alone tells nobody what to look for.
 
 # Dossier {#dossier}
 

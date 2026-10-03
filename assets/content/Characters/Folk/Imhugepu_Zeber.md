@@ -24,7 +24,7 @@ data:
   appearance:
     eye_color: brown
     hair_color: black
-    skin_color: dark
+    skin_color: dark_brown
     complexion: weathered
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Imhûgepu Zeber is a 39-year-old man who stands 5'5" tall and has a lean build. His eyes are brown and his skin is dark, weathered by years of it. His hair is black.
+Imhûgepu Zeber is a 40-year-old man who stands 5'5" tall with a light build. He has dark brown skin, weathered complexion, black hair, and brown eyes.
 
 # Dossier {#dossier}
 

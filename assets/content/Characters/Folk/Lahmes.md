@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Lahmes is a 36-year-old man who stands 6'5" tall and has a massive, powerful build. His eyes are brown and his skin is ebony. His hair is dark brown.
+Lahmes is a 37-year-old man who stands 6'5" tall with a massive build. He has ebony skin, dark brown hair, and brown eyes.
 
 # Dossier {#dossier}
 

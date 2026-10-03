@@ -22,7 +22,7 @@ data:
   weight: 64
   frame: light
   appearance:
-    eye_color: black
+    eye_color: dark_brown
     hair_color: dark_brown
     skin_color: ebony
     complexion: ""
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Imhoqar is a 41-year-old person who stands 5'9" tall and has a lean build. Their eyes are black and their skin is ebony. Their hair is dark brown.
+Imhoqar is a 42-year-old man who stands 5'9" tall with a light build. He has ebony skin, dark brown hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

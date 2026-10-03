@@ -20,7 +20,7 @@ data:
   died: null
   height: 1.91
   weight: 78
-  frame: large
+  frame: heavy
   appearance:
     eye_color: hazel
     hair_color: black
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Lekhebur is a 39-year-old person who stands 6'3" tall and has a heavy build. Their eyes are hazel and their skin is dark brown. Their hair is black.
+Lekhebur is a 40-year-old woman who stands 6'3" tall with a heavy build. She has dark brown skin, black hair, and hazel eyes.
 
 # Dossier {#dossier}
 

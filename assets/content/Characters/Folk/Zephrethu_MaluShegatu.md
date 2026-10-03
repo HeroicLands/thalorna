@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Zephrethu Malu'Shegatu is a 38-year-old person who stands 5'4" tall and has a lean build. Their eyes are brown and their skin is dark brown, weathered by years of it. Their hair is black.
+Zephrethu Malu'Shegatu is a 39-year-old woman who stands 5'4" tall with a light build. She has dark brown skin, weathered complexion, black hair, and brown eyes.
 
 # Dossier {#dossier}
 

@@ -24,7 +24,7 @@ data:
   appearance:
     eye_color: dark_brown
     hair_color: graying_black
-    skin_color: dark
+    skin_color: dark_brown
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Zaborêt is a 45-year-old woman who stands 5'5" tall and has a lean build. Her eyes are dark brown and her skin is dark. Her hair is graying black.
+Zaborêt is a 46-year-old woman who stands 5'5" tall with a light build. She has dark brown skin, graying black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

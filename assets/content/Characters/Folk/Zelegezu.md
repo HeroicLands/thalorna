@@ -24,7 +24,7 @@ data:
   appearance:
     eye_color: hazel
     hair_color: graying_black
-    skin_color: dark
+    skin_color: dark_brown
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Zelegezu is a 40-year-old person who stands 5'6" tall and has an average build. Their eyes are hazel and their skin is dark. Their hair is graying black.
+Zelegezu is a 41-year-old man who stands 5'6" tall with a medium build. He has dark brown skin, graying black hair, and hazel eyes.
 
 # Dossier {#dossier}
 

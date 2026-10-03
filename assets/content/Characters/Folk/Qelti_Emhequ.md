@@ -24,7 +24,7 @@ data:
   appearance:
     eye_color: brown
     hair_color: graying_black
-    skin_color: dark
+    skin_color: dark_brown
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Qelti Emhequ is a 43-year-old man who stands 6'6" tall and has a massive, powerful build. His eyes are brown and his skin is dark. His hair is graying black.
+Qelti Emhequ is a 44-year-old man who stands 6'6" tall with a massive build. He has dark brown skin, graying black hair, and brown eyes.
 
 # Dossier {#dossier}
 

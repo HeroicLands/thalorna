@@ -20,7 +20,7 @@ data:
   died: null
   height: 1.85
   weight: 77
-  frame: large
+  frame: heavy
   appearance:
     eye_color: dark_brown
     hair_color: black
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Letmiya is a 37-year-old woman who stands 6'1" tall and has a heavy build. Her eyes are dark brown and her skin is golden. Her hair is black.
+Letmiya is a 38-year-old woman who stands 6'1" tall with a heavy build. She has golden skin, black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

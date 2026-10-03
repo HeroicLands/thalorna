@@ -20,7 +20,7 @@ data:
   died: null
   height: 1.9
   weight: 85
-  frame: large
+  frame: heavy
   appearance:
     eye_color: dark_brown
     hair_color: dark_brown
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Zezabu is a 48-year-old man who stands 6'3" tall and has a heavy build. His eyes are dark brown and his skin is tawny. His hair is dark brown.
+Zezabu is a 49-year-old man who stands 6'3" tall with a heavy build. He has tawny skin, dark brown hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

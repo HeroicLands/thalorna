@@ -24,7 +24,7 @@ data:
   appearance:
     eye_color: brown
     hair_color: black
-    skin_color: dark
+    skin_color: dark_brown
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Aqenmose is a 36-year-old person who stands 5'10" tall and has an average build. Their eyes are brown and their skin is dark. Their hair is black.
+Aqenmose is a 37-year-old man who stands 5'10" tall with a medium build. He has dark brown skin, black hair, and brown eyes.
 
 # Dossier {#dossier}
 

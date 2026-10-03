@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Thelgus is a 32-year-old man who stands 5'8" tall and has a lean build. His eyes are hazel and his skin is olive. His hair is black.
+Thelgus is a 33-year-old man who stands 5'8" tall with a light build. He has olive skin, black hair, and hazel eyes.
 
 # Dossier {#dossier}
 

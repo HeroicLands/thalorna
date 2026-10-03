@@ -22,9 +22,9 @@ data:
   weight: 51
   frame: scant
   appearance:
-    eye_color: warm_brown
+    eye_color: brown
     hair_color: black
-    skin_color: rich_brown
+    skin_color: brown
     complexion: weathered
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Gahkar is a 43-year-old person who stands 5'2" tall and has a spare, slight build. Their eyes are warm brown and their skin is rich brown, weathered by years of it. Their hair is black.
+Gahkar is a 44-year-old woman who stands 5'2" tall with a scant build. She has brown skin, weathered complexion, black hair, and brown eyes.
 
 # Dossier {#dossier}
 

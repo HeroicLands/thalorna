@@ -22,9 +22,9 @@ data:
   weight: 51
   frame: scant
   appearance:
-    eye_color: warm_brown
+    eye_color: brown
     hair_color: dark_brown
-    skin_color: warm
+    skin_color: tawny
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Latari is a 43-year-old man who stands 5'2" tall and has a spare, slight build. His eyes are warm brown and his skin is warm. His hair is dark brown.
+Latari is a 44-year-old man who stands 5'2" tall with a scant build. He has tawny skin, dark brown hair, and brown eyes.
 
 # Dossier {#dossier}
 

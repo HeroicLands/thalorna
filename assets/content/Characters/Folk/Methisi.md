@@ -22,9 +22,9 @@ data:
   weight: 74
   frame: medium
   appearance:
-    eye_color: honey_brown
+    eye_color: amber
     hair_color: black
-    skin_color: warm
+    skin_color: tawny
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Methisî is a 36-year-old person who stands 5'6" tall and has an average build. Their eyes are honey brown and their skin is warm. Their hair is black.
+Methisî is a 37-year-old man who stands 5'6" tall with a medium build. He has tawny skin, black hair, and amber eyes.
 
 # Dossier {#dossier}
 

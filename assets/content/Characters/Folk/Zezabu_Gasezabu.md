@@ -22,9 +22,9 @@ data:
   weight: 53
   frame: light
   appearance:
-    eye_color: dark_amber
+    eye_color: amber
     hair_color: black
-    skin_color: dark
+    skin_color: dark_brown
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Zezabu Gasezabu is a 40-year-old woman who stands 5'5" tall and has a lean build. Her eyes are dark amber and her skin is dark. Her hair is black.
+Zezabu Gasezabu is a 41-year-old woman who stands 5'5" tall with a light build. She has dark brown skin, black hair, and amber eyes.
 
 # Dossier {#dossier}
 

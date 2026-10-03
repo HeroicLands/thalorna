@@ -24,7 +24,7 @@ data:
   appearance:
     eye_color: brown
     hair_color: gray
-    skin_color: warm
+    skin_color: tawny
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Gezebari is a 41-year-old person who stands 5'3" tall and has a spare, slight build. Their eyes are brown and their skin is warm. Their hair is gray.
+Gezebari is a 42-year-old woman who stands 5'3" tall with a scant build. She has tawny skin, gray hair, and brown eyes.
 
 # Dossier {#dossier}
 

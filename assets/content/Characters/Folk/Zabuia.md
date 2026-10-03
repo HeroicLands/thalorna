@@ -24,7 +24,7 @@ data:
   appearance:
     eye_color: brown
     hair_color: black
-    skin_color: warm
+    skin_color: tawny
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Zabuia is a 35-year-old woman who stands 5'3" tall and has a lean build. Her eyes are brown and her skin is warm. Her hair is black.
+Zabuia is a 36-year-old woman who stands 5'3" tall with a light build. She has tawny skin, black hair, and brown eyes.
 
 # Dossier {#dossier}
 

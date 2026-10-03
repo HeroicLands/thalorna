@@ -24,7 +24,7 @@ data:
   appearance:
     eye_color: dark_brown
     hair_color: dark_brown
-    skin_color: dark
+    skin_color: dark_brown
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Gathamose is a 34-year-old person who stands 5'11" tall and has an average build. Their eyes are dark brown and their skin is dark. Their hair is dark brown.
+Gathamose is a 35-year-old man who stands 5'11" tall with a medium build. He has dark brown skin, dark brown hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

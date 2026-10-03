@@ -24,7 +24,7 @@ data:
   appearance:
     eye_color: hazel
     hair_color: black
-    skin_color: dark
+    skin_color: dark_brown
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Lekhûr is a 56-year-old person who stands 5'7" tall and has a lean build. Their eyes are hazel and their skin is dark. Their hair is black.
+Lekhûr is a 57-year-old man who stands 5'7" tall with a light build. He has dark brown skin, black hair, and hazel eyes.
 
 # Dossier {#dossier}
 

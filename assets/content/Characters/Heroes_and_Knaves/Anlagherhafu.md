@@ -20,7 +20,7 @@ data:
   died: null
   height: 1.89
   weight: 86
-  frame: large
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: gray
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Anlagherhafu is a 44-year-old man who stands 6'2" tall and has a heavy build. His eyes are brown and his skin is ebony. His hair is gray.
+Anlagherhafu is a 45-year-old man who stands 6'2" tall with a heavy build. He has ebony skin, gray hair, and brown eyes.
 
 # Dossier {#dossier}
 

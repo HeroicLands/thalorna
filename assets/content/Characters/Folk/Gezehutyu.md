@@ -20,7 +20,7 @@ data:
   died: null
   height: 1.8
   weight: 87
-  frame: large
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: graying_black
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Gezehutyu is a 45-year-old person who stands 5'11" tall and has a heavy build. Their eyes are brown and their skin is golden. Their hair is graying black.
+Gezehutyu is a 46-year-old woman who stands 5'11" tall with a heavy build. She has golden skin, graying black hair, and brown eyes.
 
 # Dossier {#dossier}
 

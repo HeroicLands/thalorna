@@ -20,19 +20,19 @@ data:
   died: null
   height: 1.91
   weight: 85
-  frame: large
+  frame: heavy
   appearance:
     eye_color: brown
-    hair_color: bald
-    skin_color: dark
+    hair_color: null
+    skin_color: dark_brown
     complexion: ""
-    extra_features: []
+    extra_features: ["a bald head"]
   packFolder: regkhfolk
 ---
 
 # Appearance {#appearance}
 
-Maqûptas is a 40-year-old man who stands 6'3" tall and has a heavy build. His eyes are brown and his skin is dark. The head is shaved bald.
+Maqûptas is a 41-year-old man who stands 6'3" tall with a heavy build. He has dark brown skin and brown eyes. His features include a bald head.
 
 # Dossier {#dossier}
 

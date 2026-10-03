@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Zabqarrê is a 46-year-old person who stands 5'7" tall and has a lean build. Their eyes are brown and their skin is dark brown. Their hair is dark brown.
+Zabqarrê is a 47-year-old woman who stands 5'7" tall with a light build. She has dark brown skin, dark brown hair, and brown eyes.
 
 # Dossier {#dossier}
 

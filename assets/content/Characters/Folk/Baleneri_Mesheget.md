@@ -22,17 +22,17 @@ data:
   weight: 69
   frame: medium
   appearance:
-    eye_color: black
-    hair_color: bald
+    eye_color: dark_brown
+    hair_color: null
     skin_color: tawny
     complexion: ""
-    extra_features: []
+    extra_features: ["a bald head"]
   packFolder: regkhfolk
 ---
 
 # Appearance {#appearance}
 
-Balenerî Mesheget is a 32-year-old person who stands 5'9" tall and has an average build. Their eyes are black and their skin is tawny. The head is shaved bald.
+Balenerî Mesheget is a 33-year-old man who stands 5'9" tall with a medium build. He has tawny skin and dark brown eyes. His features include a bald head.
 
 # Dossier {#dossier}
 

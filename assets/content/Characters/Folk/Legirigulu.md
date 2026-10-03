@@ -20,11 +20,11 @@ data:
   died: null
   height: 1.87
   weight: 84
-  frame: large
+  frame: heavy
   appearance:
-    eye_color: dark_amber
+    eye_color: amber
     hair_color: black
-    skin_color: rich_brown
+    skin_color: brown
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Legirigulu is a 41-year-old woman who stands 6'2" tall and has a heavy build. Her eyes are dark amber and her skin is rich brown. Her hair is black.
+Legirigulu is a 42-year-old woman who stands 6'2" tall with a heavy build. She has brown skin, black hair, and amber eyes.
 
 # Dossier {#dossier}
 

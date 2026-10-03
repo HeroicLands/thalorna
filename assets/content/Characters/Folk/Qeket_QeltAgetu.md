@@ -24,7 +24,7 @@ data:
   appearance:
     eye_color: hazel
     hair_color: dark_brown
-    skin_color: dark
+    skin_color: dark_brown
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Qeket Qelt'Agetu is a 41-year-old woman who stands 5'8" tall and has an average build. Her eyes are hazel and her skin is dark. Her hair is dark brown.
+Qeket Qelt'Agetu is a 42-year-old woman who stands 5'8" tall with a medium build. She has dark brown skin, dark brown hair, and hazel eyes.
 
 # Dossier {#dossier}
 

@@ -22,9 +22,9 @@ data:
   weight: 70
   frame: medium
   appearance:
-    eye_color: warm_brown
+    eye_color: brown
     hair_color: black
-    skin_color: warm
+    skin_color: tawny
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Etherita Zarukhét is a 55-year-old woman who stands 5'7" tall and has an average build. Her eyes are warm brown and her skin is warm. Her hair is black.
+Etherita Zarukhét is a 56-year-old woman who stands 5'7" tall with a medium build. She has tawny skin, black hair, and brown eyes.
 
 # Dossier {#dossier}
 

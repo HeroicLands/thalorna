@@ -22,7 +22,7 @@ data:
   weight: 73
   frame: medium
   appearance:
-    eye_color: honey_brown
+    eye_color: amber
     hair_color: black
     skin_color: ebony
     complexion: ""
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Thalegezu is a 39-year-old man who stands 5'9" tall and has an average build. His eyes are honey brown and his skin is ebony. His hair is black.
+Thalegezu is a 40-year-old man who stands 5'9" tall with a medium build. He has ebony skin, black hair, and amber eyes.
 
 # Dossier {#dossier}
 

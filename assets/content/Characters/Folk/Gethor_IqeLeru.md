@@ -24,7 +24,7 @@ data:
   appearance:
     eye_color: brown
     hair_color: dark_brown
-    skin_color: dark
+    skin_color: dark_brown
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Gethor Iqe'Lêru is a 43-year-old man who stands 5'11" tall and has an average build. His eyes are brown and his skin is dark. His hair is dark brown.
+Gethor Iqe'Lêru is a 44-year-old man who stands 5'11" tall with a medium build. He has dark brown skin, dark brown hair, and brown eyes.
 
 # Dossier {#dossier}
 

@@ -20,7 +20,7 @@ data:
   died: null
   height: 1.86
   weight: 92
-  frame: large
+  frame: heavy
   appearance:
     eye_color: dark_brown
     hair_color: black
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Iqenakht is a 47-year-old man who stands 6'1" tall and has a heavy build. His eyes are dark brown and his skin is tawny. His hair is black.
+Iqenakht is a 48-year-old man who stands 6'1" tall with a heavy build. He has tawny skin, black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

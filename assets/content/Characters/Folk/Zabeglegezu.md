@@ -24,7 +24,7 @@ data:
   appearance:
     eye_color: dark_brown
     hair_color: dark_brown
-    skin_color: dark
+    skin_color: dark_brown
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Zâbeglegezu is a 36-year-old man who stands 5'10" tall and has an average build. His eyes are dark brown and his skin is dark. His hair is dark brown.
+Zâbeglegezu is a 37-year-old man who stands 5'10" tall with a medium build. He has dark brown skin, dark brown hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

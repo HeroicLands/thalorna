@@ -20,11 +20,11 @@ data:
   died: null
   height: 1.83
   weight: 80
-  frame: large
+  frame: heavy
   appearance:
     eye_color: hazel
     hair_color: black
-    skin_color: dark
+    skin_color: dark_brown
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Legirtari is a 49-year-old woman who stands 6' tall and has a heavy build. Her eyes are hazel and her skin is dark. Her hair is black.
+Legirtari is a 50-year-old woman who stands 6'0" tall with a heavy build. She has dark brown skin, black hair, and hazel eyes.
 
 # Dossier {#dossier}
 

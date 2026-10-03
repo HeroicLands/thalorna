@@ -24,7 +24,7 @@ data:
   appearance:
     eye_color: dark_brown
     hair_color: black
-    skin_color: warm
+    skin_color: tawny
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Therethu is a 44-year-old woman who stands 5'1" tall and has a spare, slight build. Her eyes are dark brown and her skin is warm. Her hair is black.
+Therethu is a 45-year-old woman who stands 5'1" tall with a scant build. She has tawny skin, black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

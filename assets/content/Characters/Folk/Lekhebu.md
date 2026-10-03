@@ -24,7 +24,7 @@ data:
   appearance:
     eye_color: dark_brown
     hair_color: black
-    skin_color: dark
+    skin_color: dark_brown
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Lekhebu is a 39-year-old person who stands 6'3" tall and has a massive, powerful build. Their eyes are dark brown and their skin is dark. Their hair is black.
+Lekhebu is a 40-year-old man who stands 6'3" tall with a massive build. He has dark brown skin, black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

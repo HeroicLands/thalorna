@@ -23,16 +23,16 @@ data:
   frame: medium
   appearance:
     eye_color: brown
-    hair_color: bald
+    hair_color: null
     skin_color: golden
     complexion: ""
-    extra_features: []
+    extra_features: ["a bald head"]
   packFolder: regkhfolk
 ---
 
 # Appearance {#appearance}
 
-Anlaghur is a 42-year-old man who stands 6' tall and has an average build. His eyes are brown and his skin is golden. The head is shaved bald.
+Anlaghur is a 43-year-old man who stands 6'0" tall with a medium build. He has golden skin and brown eyes. His features include a bald head.
 
 # Dossier {#dossier}
 

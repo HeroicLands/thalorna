@@ -20,9 +20,9 @@ data:
   died: null
   height: 1.84
   weight: 78
-  frame: large
+  frame: heavy
   appearance:
-    eye_color: dark_amber
+    eye_color: amber
     hair_color: dark_brown
     skin_color: olive
     complexion: ""
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Retheku Iuthi'Gehtiu is a 38-year-old person who stands 6' tall and has a heavy build. Their eyes are dark amber and their skin is olive. Their hair is dark brown.
+Retheku Iuthi'Gehtiu is a 39-year-old woman who stands 6'0" tall with a heavy build. She has olive skin, dark brown hair, and amber eyes.
 
 # Dossier {#dossier}
 

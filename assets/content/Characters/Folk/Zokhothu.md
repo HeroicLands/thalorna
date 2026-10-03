@@ -20,9 +20,9 @@ data:
   died: null
   height: 1.91
   weight: 84
-  frame: large
+  frame: heavy
   appearance:
-    eye_color: black
+    eye_color: dark_brown
     hair_color: dark_brown
     skin_color: olive
     complexion: ""
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Zokhothu is a 48-year-old man who stands 6'3" tall and has a heavy build. His eyes are black and his skin is olive. His hair is dark brown.
+Zokhothu is a 49-year-old man who stands 6'3" tall with a heavy build. He has olive skin, dark brown hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

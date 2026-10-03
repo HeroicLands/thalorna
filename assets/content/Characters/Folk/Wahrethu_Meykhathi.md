@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Wahrethu Meykhathi is a 39-year-old man who stands 5'9" tall and has an average build. His eyes are dark brown and his skin is tawny, weathered by years of it. His hair is dark brown.
+Wahrethu Meykhathi is a 40-year-old man who stands 5'9" tall with a medium build. He has tawny skin, weathered complexion, dark brown hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

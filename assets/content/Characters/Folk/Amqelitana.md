@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Amqelitâna is a 37-year-old woman who stands 5'5" tall and has a lean build. Her eyes are dark brown and her skin is golden. Her hair is black.
+Amqelitâna is a 38-year-old woman who stands 5'5" tall with a light build. She has golden skin, black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

@@ -24,7 +24,7 @@ data:
   appearance:
     eye_color: hazel
     hair_color: dark_brown
-    skin_color: dark
+    skin_color: dark_brown
     complexion: weathered
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Germeryt Qeltawes is a 40-year-old person who stands 6' tall and has an average build. Their eyes are hazel and their skin is dark, weathered by years of it. Their hair is dark brown.
+Germeryt Qeltawes is a 41-year-old woman who stands 6'0" tall with a medium build. She has dark brown skin, weathered complexion, dark brown hair, and hazel eyes.
 
 # Dossier {#dossier}
 

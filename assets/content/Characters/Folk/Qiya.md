@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Qiya is a 55-year-old woman who stands 5'3" tall and has a lean build. Her eyes are hazel and her skin is ebony. Her hair is white.
+Qiya is a 56-year-old woman who stands 5'3" tall with a light build. She has ebony skin, white hair, and hazel eyes.
 
 # Dossier {#dossier}
 

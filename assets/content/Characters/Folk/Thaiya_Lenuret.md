@@ -22,9 +22,9 @@ data:
   weight: 64
   frame: light
   appearance:
-    eye_color: black
+    eye_color: dark_brown
     hair_color: graying_black
-    skin_color: dark
+    skin_color: dark_brown
     complexion: weathered
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Thaiya Lenuret is a 50-year-old person who stands 5'4" tall and has a lean build. Their eyes are black and their skin is dark, weathered by years of it. Their hair is graying black.
+Thaiya Lenuret is a 51-year-old man who stands 5'4" tall with a light build. He has dark brown skin, weathered complexion, graying black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

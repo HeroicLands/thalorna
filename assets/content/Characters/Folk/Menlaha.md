@@ -22,7 +22,7 @@ data:
   weight: 71
   frame: medium
   appearance:
-    eye_color: dark_amber
+    eye_color: amber
     hair_color: black
     skin_color: ebony
     complexion: ""
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Menlaha is a 32-year-old man who stands 5'10" tall and has an average build. His eyes are dark amber and his skin is ebony. His hair is black.
+Menlaha is a 33-year-old man who stands 5'10" tall with a medium build. He has ebony skin, black hair, and amber eyes.
 
 # Dossier {#dossier}
 

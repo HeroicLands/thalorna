@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Thulmosis is a 39-year-old man who stands 5'7" tall and has a lean build. His eyes are brown and his skin is tawny. His hair is black.
+Thulmosis is a 40-year-old man who stands 5'7" tall with a light build. He has tawny skin, black hair, and brown eyes.
 
 # Dossier {#dossier}
 

@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Khelarven is a 45-year-old man who stands 5'6" tall and has a lean build. His eyes are brown and his skin is ebony. His hair is dark brown.
+Khelarven is a 46-year-old man who stands 5'6" tall with a light build. He has ebony skin, dark brown hair, and brown eyes.
 
 # Dossier {#dossier}
 

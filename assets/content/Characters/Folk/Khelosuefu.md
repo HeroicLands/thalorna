@@ -20,7 +20,7 @@ data:
   died: null
   height: 1.84
   weight: 90
-  frame: large
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: white
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Khelosuefu is a 52-year-old man who stands 6' tall and has a heavy build. His eyes are brown and his skin is olive. His hair is white.
+Khelosuefu is a 53-year-old man who stands 6'0" tall with a heavy build. He has olive skin, white hair, and brown eyes.
 
 # Dossier {#dossier}
 

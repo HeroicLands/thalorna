@@ -24,7 +24,7 @@ data:
   appearance:
     eye_color: brown
     hair_color: dark_brown
-    skin_color: dark
+    skin_color: dark_brown
     complexion: ""
     extra_features: []
   packFolder: regkhhk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Gar-Aû Meqes XVI is a 45-year-old person who stands 5'7" tall and has a lean build. Their eyes are brown and their skin is dark. Their hair is dark brown.
+Gar-Aû Meqes XVI is a 46-year-old woman who stands 5'7" tall with a light build. She has dark brown skin, dark brown hair, and brown eyes.
 
 # Dossier {#dossier}
 

@@ -24,7 +24,7 @@ data:
   appearance:
     eye_color: hazel
     hair_color: gray
-    skin_color: dark
+    skin_color: dark_brown
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Amqelitamun is a 47-year-old woman who stands 5'9" tall and has an average build. Her eyes are hazel and her skin is dark. Her hair is gray.
+Amqelitamun is a 48-year-old woman who stands 5'9" tall with a medium build. She has dark brown skin, gray hair, and hazel eyes.
 
 # Dossier {#dossier}
 

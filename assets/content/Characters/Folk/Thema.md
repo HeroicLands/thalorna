@@ -22,7 +22,7 @@ data:
   weight: 74
   frame: medium
   appearance:
-    eye_color: black
+    eye_color: dark_brown
     hair_color: graying_black
     skin_color: ebony
     complexion: weathered
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Thema is a 43-year-old person who stands 5'7" tall and has an average build. Their eyes are black and their skin is ebony, weathered by years of it. Their hair is graying black.
+Thema is a 44-year-old man who stands 5'7" tall with a medium build. He has ebony skin, weathered complexion, graying black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

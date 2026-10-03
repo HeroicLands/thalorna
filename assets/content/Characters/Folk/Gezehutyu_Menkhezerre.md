@@ -24,7 +24,7 @@ data:
   appearance:
     eye_color: brown
     hair_color: black
-    skin_color: dark
+    skin_color: dark_brown
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Gezehutyu Menkhezerre is a 29-year-old person who stands 5'7" tall and has a lean build. Their eyes are brown and their skin is dark. Their hair is black.
+Gezehutyu Menkhezerre is a 30-year-old man who stands 5'7" tall with a light build. He has dark brown skin, black hair, and brown eyes.
 
 # Dossier {#dossier}
 

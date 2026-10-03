@@ -20,11 +20,11 @@ data:
   died: null
   height: 1.89
   weight: 89
-  frame: large
+  frame: heavy
   appearance:
     eye_color: dark_brown
     hair_color: black
-    skin_color: dark
+    skin_color: dark_brown
     complexion: weathered
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Khelamose is a 30-year-old man who stands 6'2" tall and has a heavy build. His eyes are dark brown and his skin is dark, weathered by years of it. His hair is black.
+Khelamose is a 31-year-old man who stands 6'2" tall with a heavy build. He has dark brown skin, weathered complexion, black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

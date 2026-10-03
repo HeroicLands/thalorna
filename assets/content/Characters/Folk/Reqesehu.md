@@ -24,7 +24,7 @@ data:
   appearance:
     eye_color: dark_brown
     hair_color: black
-    skin_color: dark
+    skin_color: dark_brown
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Rêqesehu is a 46-year-old person who stands 5'9" tall and has a lean build. Their eyes are dark brown and their skin is dark. Their hair is black.
+Rêqesehu is a 47-year-old man who stands 5'9" tall with a light build. He has dark brown skin, black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

@@ -22,7 +22,7 @@ data:
   weight: 60
   frame: light
   appearance:
-    eye_color: black
+    eye_color: dark_brown
     hair_color: dark_brown
     skin_color: ebony
     complexion: ""
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Meshlen is a 43-year-old woman who stands 5'4" tall and has a lean build. Her eyes are black and her skin is ebony. Her hair is dark brown.
+Meshlen is a 44-year-old woman who stands 5'4" tall with a light build. She has ebony skin, dark brown hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

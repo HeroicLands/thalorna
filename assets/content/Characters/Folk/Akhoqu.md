@@ -24,7 +24,7 @@ data:
   appearance:
     eye_color: brown
     hair_color: black
-    skin_color: dark
+    skin_color: dark_brown
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Akhoqu is a 39-year-old man who stands 6' tall and has an average build. His eyes are brown and his skin is dark. His hair is black.
+Akhoqu is a 40-year-old man who stands 6'0" tall with a medium build. He has dark brown skin, black hair, and brown eyes.
 
 # Dossier {#dossier}
 

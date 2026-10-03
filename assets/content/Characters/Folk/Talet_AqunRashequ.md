@@ -20,11 +20,11 @@ data:
   died: null
   height: 1.88
   weight: 90
-  frame: large
+  frame: heavy
   appearance:
     eye_color: brown
     hair_color: dark_brown
-    skin_color: dark
+    skin_color: dark_brown
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Talet Aqun'Râshequ is a 41-year-old man who stands 6'2" tall and has a heavy build. His eyes are brown and his skin is dark. His hair is dark brown.
+Talet Aqun'Râshequ is a 42-year-old man who stands 6'2" tall with a heavy build. He has dark brown skin, dark brown hair, and brown eyes.
 
 # Dossier {#dossier}
 

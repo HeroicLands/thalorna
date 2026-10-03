@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Imsazu is a 41-year-old person who stands 5'8" tall and has an average build. Their eyes are brown and their skin is golden. Their hair is black.
+Imsazu is a 42-year-old woman who stands 5'8" tall with a medium build. She has golden skin, black hair, and brown eyes.
 
 # Dossier {#dossier}
 

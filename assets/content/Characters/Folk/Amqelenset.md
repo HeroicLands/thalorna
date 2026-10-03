@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Amqelenset is a 48-year-old man who stands 5'7" tall and has a lean build. His eyes are brown and his skin is ebony. His hair is gray.
+Amqelenset is a 49-year-old man who stands 5'7" tall with a light build. He has ebony skin, gray hair, and brown eyes.
 
 # Dossier {#dossier}
 

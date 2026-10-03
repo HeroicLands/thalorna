@@ -24,7 +24,7 @@ data:
   appearance:
     eye_color: dark_brown
     hair_color: gray
-    skin_color: dark
+    skin_color: dark_brown
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Zabunia is a 56-year-old woman who stands 5'1" tall and has a spare, slight build. Her eyes are dark brown and her skin is dark. Her hair is gray.
+Zabunia is a 57-year-old woman who stands 5'1" tall with a scant build. She has dark brown skin, gray hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

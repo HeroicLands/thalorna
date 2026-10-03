@@ -24,7 +24,7 @@ data:
   appearance:
     eye_color: brown
     hair_color: black
-    skin_color: warm
+    skin_color: tawny
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Theqas is a 39-year-old person who stands 5'8" tall and has an average build. Their eyes are brown and their skin is warm. Their hair is black.
+Theqas is a 40-year-old woman who stands 5'8" tall with a medium build. She has tawny skin, black hair, and brown eyes.
 
 # Dossier {#dossier}
 

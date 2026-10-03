@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Khelîtyu Menkâthi is a 39-year-old person who stands 6'3" tall and has a massive, powerful build. Their eyes are dark brown and their skin is dark brown. Their hair is black.
+Khelîtyu Menkâthi is a 40-year-old man who stands 6'3" tall with a massive build. He has dark brown skin, black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

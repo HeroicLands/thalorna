@@ -24,7 +24,7 @@ data:
   appearance:
     eye_color: brown
     hair_color: black
-    skin_color: dark
+    skin_color: dark_brown
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Gulmenwati is a 52-year-old man who stands 5'6" tall and has a lean build. His eyes are brown and his skin is dark. His hair is black.
+Gulmenwati is a 53-year-old man who stands 5'6" tall with a light build. He has dark brown skin, black hair, and brown eyes.
 
 # Dossier {#dossier}
 

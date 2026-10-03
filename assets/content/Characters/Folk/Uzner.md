@@ -22,7 +22,7 @@ data:
   weight: 76
   frame: medium
   appearance:
-    eye_color: honey_brown
+    eye_color: amber
     hair_color: gray
     skin_color: tawny
     complexion: ""
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Uzner is a 49-year-old person who stands 5'7" tall and has an average build. Their eyes are honey brown and their skin is tawny. Their hair is gray.
+Uzner is a 50-year-old woman who stands 5'7" tall with a medium build. She has tawny skin, gray hair, and amber eyes.
 
 # Dossier {#dossier}
 

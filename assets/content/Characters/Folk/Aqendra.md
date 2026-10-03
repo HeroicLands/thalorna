@@ -11,7 +11,7 @@ data:
   archetypes: [guildsperson]
   occupation: "Chef"
   lore: []
-  culture: khelathiclt
+  culture: vedyariclt
   homes: [rajapur]
   affiliations: {}
   gender: "male"
@@ -20,9 +20,9 @@ data:
   died: null
   height: 1.79
   weight: 77
-  frame: large
+  frame: heavy
   appearance:
-    eye_color: dark_amber
+    eye_color: amber
     hair_color: black
     skin_color: ebony
     complexion: ""
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Aqendra is a 43-year-old person who stands 5'10" tall and has a heavy build. Their eyes are dark amber and their skin is ebony. Their hair is black.
+Aqendra is a 44-year-old man who stands 5'10" tall with a heavy build. He has ebony skin, black hair, and amber eyes.
 
 # Dossier {#dossier}
 

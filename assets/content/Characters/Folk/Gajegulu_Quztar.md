@@ -24,7 +24,7 @@ data:
   appearance:
     eye_color: hazel
     hair_color: black
-    skin_color: warm
+    skin_color: tawny
     complexion: weathered
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Gajegulu Quztar is a 40-year-old man who stands 5'11" tall and has an average build. His eyes are hazel and his skin is warm, weathered by years of it. His hair is black.
+Gajegulu Quztar is a 41-year-old man who stands 5'11" tall with a medium build. He has tawny skin, weathered complexion, black hair, and hazel eyes.
 
 # Dossier {#dossier}
 

@@ -22,9 +22,9 @@ data:
   weight: 70
   frame: medium
   appearance:
-    eye_color: black
+    eye_color: dark_brown
     hair_color: black
-    skin_color: dark
+    skin_color: dark_brown
     complexion: weathered
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Azûnmat Khelâfirahu is a 41-year-old person who stands 5'10" tall and has an average build. Their eyes are black and their skin is dark, weathered by years of it. Their hair is black.
+Azûnmat Khelâfirahu is a 42-year-old woman who stands 5'10" tall with a medium build. She has dark brown skin, weathered complexion, black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

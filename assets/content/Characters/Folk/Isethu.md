@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Isethu is a 44-year-old woman who stands 5'9" tall and has an average build. Her eyes are dark brown and her skin is olive. Her hair is black.
+Isethu is a 45-year-old woman who stands 5'9" tall with a medium build. She has olive skin, black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

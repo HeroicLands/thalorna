@@ -22,9 +22,9 @@ data:
   weight: 53
   frame: light
   appearance:
-    eye_color: dark_amber
+    eye_color: amber
     hair_color: black
-    skin_color: dark
+    skin_color: dark_brown
     complexion: ""
     extra_features: []
   packFolder: regkhfolk
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Shelti is a 30-year-old person who stands 5'8" tall and has a lean build. Their eyes are dark amber and their skin is dark. Their hair is black.
+Shelti is a 31-year-old man who stands 5'8" tall with a light build. He has dark brown skin, black hair, and amber eyes.
 
 # Dossier {#dossier}
 

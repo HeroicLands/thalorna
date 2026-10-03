@@ -22,17 +22,17 @@ data:
   weight: 68
   frame: medium
   appearance:
-    eye_color: black
-    hair_color: bald
-    skin_color: dark
+    eye_color: dark_brown
+    hair_color: null
+    skin_color: dark_brown
     complexion: ""
-    extra_features: []
+    extra_features: ["a bald head"]
   packFolder: regkhfolk
 ---
 
 # Appearance {#appearance}
 
-Aleziya is a 53-year-old woman who stands 5'6" tall and has an average build. Her eyes are black and her skin is dark. The head is shaved bald.
+Aleziya is a 54-year-old woman who stands 5'6" tall with a medium build. She has dark brown skin and dark brown eyes. Her features include a bald head.
 
 # Dossier {#dossier}
 
