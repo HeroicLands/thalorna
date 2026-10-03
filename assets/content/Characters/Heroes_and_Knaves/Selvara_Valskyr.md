@@ -14,7 +14,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [tarvenirgn]
-  affiliations: {thetamzir: {}, kingdmtrvn: {}}
+  affiliations: {thetamzir: {rank: 6}, kingdmtrvn: {rank: 2}}
   gender: female
   species: humanflk
   born: 685.56

@@ -13,10 +13,10 @@ data:
   lore: []
   culture: kaliharanclt
   homes: [vashuran]
-  affiliations: {kalihara: {}}
+  affiliations: {kalihara: {rank: 3}}
   gender: male
   species: humanflk
-  born: 680.100
+  born: "680.100"
   height: 1.88
   weight: 85.7
   frame: heavy

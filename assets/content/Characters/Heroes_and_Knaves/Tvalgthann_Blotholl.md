@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [marvstead]
-  affiliations: {kngdmvthgrd: {}}
+  affiliations: {kngdmvthgrd: {rank: 4}}
   gender: male
   species: humanflk
   born: 690.76

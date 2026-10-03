@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [tvalgard]
-  affiliations: {kingdmtrgd: {}}
+  affiliations: {kingdmtrgd: {rank: 4}}
   socialTies: {affiliation-wazulu: rival}
   gender: male
   species: humanflk

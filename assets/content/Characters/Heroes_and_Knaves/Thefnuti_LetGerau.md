@@ -14,7 +14,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [anlaghzetun]
-  affiliations: {empireakhlth: {}}
+  affiliations: {empireakhlth: {rank: 3}}
   socialTies: {affiliation-aerarimmpr: patron}
   gender: male
   species: humanflk

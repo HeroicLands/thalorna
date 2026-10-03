@@ -13,10 +13,10 @@ data:
   lore: []
   culture: vylarianclt
   homes: [ashenmere]
-  affiliations: {provncmktr: {}}
+  affiliations: {provncmktr: {rank: 4}}
   gender: male
   species: humanflk
-  born: 681.140
+  born: "681.140"
   height: 1.8
   weight: 78
   frame: medium

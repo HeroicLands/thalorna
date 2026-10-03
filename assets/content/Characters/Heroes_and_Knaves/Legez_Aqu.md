@@ -14,10 +14,10 @@ data:
   lore: []
   culture: khelathiclt
   homes: [anlaghzetun]
-  affiliations: {empireakhlth: {}}
+  affiliations: {empireakhlth: {rank: 4}}
   gender: male
   species: humanflk
-  born: 680.15
+  born: "680.15"
   height: 1.75
   weight: 74.8
   frame: heavy

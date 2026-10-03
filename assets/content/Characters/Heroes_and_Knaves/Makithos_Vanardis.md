@@ -13,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [valdosta]
-  affiliations: {provnchyln: {}}
+  affiliations: {provnchyln: {rank: 3}}
   gender: male
   species: humanflk
   born: 679.147

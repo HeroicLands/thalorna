@@ -13,10 +13,10 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [hrandstead]
-  affiliations: {kngdmvthgrd: {}}
+  affiliations: {kngdmvthgrd: {rank: 3}}
   gender: male
   species: humanflk
-  born: 680.70
+  born: "680.70"
   height: 1.85
   weight: 78.5
   frame: medium

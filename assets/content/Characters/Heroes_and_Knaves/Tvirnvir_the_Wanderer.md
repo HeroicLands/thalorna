@@ -13,10 +13,10 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [flarnbrekka]
-  affiliations: {kingdmnrgd: {}}
+  affiliations: {kingdmnrgd: {rank: 2}}
   gender: male
   species: humanflk
-  born: 690.36
+  born: "690.36"
   height: 1.7
   weight: 63.5
   frame: light

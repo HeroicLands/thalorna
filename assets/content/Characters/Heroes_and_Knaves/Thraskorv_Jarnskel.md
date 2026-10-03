@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [knalthstead]
-  affiliations: {kngdmnrdhm: {}}
+  affiliations: {kngdmnrdhm: {rank: 1}}
   gender: male
   species: humanflk
   born: 689.108
