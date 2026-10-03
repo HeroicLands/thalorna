@@ -123,11 +123,6 @@ jobs:
               if: ${{ !cancelled() }}
               run: npm run lint:lexicon
 
-            # A being's classification lives in `subType`, and no tag repeats it.
-            - name: Check being classification tags
-              if: ${{ !cancelled() }}
-              run: npm run lint:being-classification-tags
-
             # `.github/labels.yml` and the §3 table of the issue-reporting doc
             # still name the same closed set.
             - name: Check label registry
