@@ -5,12 +5,7 @@ type: place
 subType: settlement
 description: "Deep Forest Settlement"
 tags: [settlement, forest]
-data:
-  demonym: null
-  lore: [bearttm]
-  parents: [vrystwald]
-  population: 400
-  packFolder: vrystwald
+data: {demonym: null, lore: [bearttm], parents: [vethwald], population: 400, packFolder: vrystwald}
 ---
 
 ## Overview
@@ -24,4 +19,4 @@ Dunkelwald's argument with the wider tribes is the oldest kind a conservative vi
 ## See Also
 
 - [[affiliation-vrystwldtrbs|Vrystwald Tribes]]—The confederation this village holds to most closely
-- [[place-vrystwald|Vrystwald]]—The forest it stands in
+- [[place-vethwald|Véthwald]]—The Deepwood it stands in

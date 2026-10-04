@@ -11,6 +11,7 @@ data:
   lore: [humanflk]
   parents: [ankrscntnnt]
   population: 2000000
+  borders: [{to: vrystwald, bearing: SE}, {to: falkhaven, bearing: S}]
   packFolder: nordlands
 
 # terran_analog: "Germany, Poland, Czechia, the Baltic states, Denmark, Norway, Sweden, and Finland—the great northern temperate-and-boreal belt of Norse/Germanic kingdoms and Baltic-Scandinavian forest peoples."

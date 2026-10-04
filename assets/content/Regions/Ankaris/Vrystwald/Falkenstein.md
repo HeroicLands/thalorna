@@ -8,7 +8,7 @@ tags: [fortress, hill]
 data:
   demonym: null
   lore: [falconttm]
-  parents: [vrystwald]
+  parents: [falkhaven]
   population: 300
   packFolder: vrystwald
 ---
@@ -24,4 +24,4 @@ Falkenstein's argument is the frontier's oldest one, repeated in both directions
 ## See Also
 
 - [[affiliation-vrystwldtrbs|Vrystwald Tribes]]—The confederation this fort defends
-- [[place-vrystwald|Vrystwald]]—The forest it stands in
+- [[place-falkhaven|Falkhaven]]—The western reach it guards
