@@ -481,7 +481,7 @@ The Copper Syndicate
 Father Cormac
 : Her former monastery's new priest, a zealot who views her as a heretic whose very existence challenges the theological authority he seeks to establish. He has forbidden anyone from assisting her.
 
-Merchant House Drâk
+Merchant House Drák
 : A trading family whose wayward son she spurned; his wounded pride has translated into a vendetta, spreading lies about her character.
 
 ### Affiliations
