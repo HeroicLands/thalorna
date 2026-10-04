@@ -15,7 +15,7 @@ A Varokh is therefore descended from the people who were here and from the peopl
 
 Varokh society divides its labor three ways, and the division explains nearly everything else about them.
 
-The slaves do the labor: stock-tending, hauling, wood, water and fields—the whole grinding base of keeping a village alive. Most villages hold some, and a prosperous one on a good river-landing holds a good many.
+The slaves do the labor: stock-tending, hauling, wood, water and fields—the whole grinding base of keeping a village alive. Most villages hold some, and a prosperous one on a good river-landing holds a good many. A captive still being held for ransom is not yet one of them; household standing is decided only when the hope of ransom is gone.
 
 The men train for war, and not seasonally or as a levy. A Varokh man's occupation _is_ fighting: he practices it, is judged on it, and gives it the working life an Aurèldían peasant gives the plow, because there are slaves to do the plowing. This is the real answer to why the Varokh are fiercer than their northern neighbors, and it is not temperament. A Nordman is a farmer and fisherman who raids in season; a Varokh warrior is a warrior and has been since he was old enough to hold something. The difference is hours.
 
@@ -25,17 +25,15 @@ Every piece of the division points outward. Freeing a man's whole working life f
 
 ## What That Makes of Them
 
-A Varokh man is formidable, proud and disinclined to explain himself. He fights for his war-band before his tribe and for his tribe before any confederation, and the loyalty runs in that order without apology.
+A Varokh man is formidable, proud and disinclined to explain himself. He fights for his war-band before his village and for his village before any other tribe. The loyalty runs in that order without apology.
 
 A Varokh woman is a merchant with capital, a fortune in furs moving under her name, and the whole domestic economy in her hand. She negotiates with foreign traders directly and is not accompanied, and Vylarian factors who arrive expecting to deal with her husband are corrected once.
 
-[[lore-frodradrnk|War Chiefs]] lead confederations by consensus and martial reputation and not by descent. The tribes war among themselves constantly and combine against an outsider with a speed that has broken more than one Vylarian legion—and the legions never quite believe it until it happens, because a people that disunited is not supposed to be able to do that.
+The villages war among themselves constantly and distrust one another even at a shared market. Only an imminent danger that needs several villages acting together makes their elders agree to a common response and acclaim a War Chief for it. His wider command ends as soon as that response does. The speed with which the Varokh can combine has broken more than one Vylarian legion—and the legions never quite believe it until it happens, because a people that disunited is not supposed to be able to do that.
 
 ## The Forest Is the Temple
 
-Religious practice is syncretic and nobody minds. The northern tribes name gods recognizable from the Asguardian Twelve; the southern tribes, after centuries of Vylarian contact, have taken up parts of the Aurèldían pantheon, and Karnavos of the wilderness and primal chaos above all, whose domains suit Varokh sensibilities exactly.
-
-Underneath whichever names are in use runs the thing that actually matters: a deep animistic reverence for the forest itself. Sacred groves are the temples, the oldest trees are held to house powerful spirits and are addressed as such, and druids and wise-women lead the rites at the turning of the seasons and mediate with the spirit world on an authority independent of either chief's.
+Each village keeps one totem, and its Shaman keeps the rites and every spiritual need of the village. A totem belongs to that village, not to a northern or southern pantheon. The Varokh's reverence is for the forest itself: sacred groves are the temples, the oldest trees house powerful spirits and are addressed as such, and the Shaman mediates with them at the turning of the seasons. His authority over the spirits is independent of the War Chief and the Other Chief.
 
 A god of the Ten takes root in a Varokh only on narrow terms—a captive raised among the Nordmen, a trader long settled at their landings, a wife married across the Falkenstein frontier—and never as a casual borrowing from the people nearest to being counted kin. What never takes root on any terms is a foreign attitude to the forest: that would be a change of substance, not a name.
 
@@ -66,7 +64,5 @@ Both will say last, and mean it, that a person owes the forest the courtesy of n
 ## See Also
 
 - [[place-vrystwald|Vrystwald Region]]—the taiga, the rivers and the villages
-- [[affiliation-vrystwldtrbs|Vrystwald Tribes]]—the confederations and the triads that govern their villages
+- [[affiliation-vrystwldtrbs|Vrystwald Tribes]]—the standing shared by the villages and the triads that govern them
 - [[skill-varokhlng|Varokhi]]—the unwritten tongue
-- [[affiliation-asguardian|Asguardian Pantheon]]—the gods the northern tribes name
-- [[affiliation-arldnpnthn|Aurèldían Pantheon]]—and the ones the southern tribes took up
