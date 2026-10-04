@@ -7,51 +7,51 @@ description: "In 330 BF, holding the dragons' dead, the Vylarian Republic offers
 tags: [history, spine]
 data:
   packFolder: settinglore
-  event:
-    kind: treaty
-    depth: world
-    when: {reckoning: VR, year: -330, precision: year}
-    sources: [decided-midhalion, decided-chronology, doc-soulspirts]
-    summary: >-
-      Holding what was taken at Therádon, the Republic offers the dragons the only thing it has that they want: the return of the bound to the ancestor pool. The dragons' price is the war. The agreement is not made for the war's duration but as a term of years renewed annually, which is why the Dragon Riders are a standing corps for two and a third centuries rather than a wartime expedient. Nothing of it is written down. What the Republic's chancery enters is a yearly appropriation for the keeping of a thing named only by a number, under a description it invented so that nobody would query the line.
-    standing: single-source
-    where:
-      locus: [place-vylariargn]
-      reach:
-        - place: place-midhalnrgn
-          how: >-
-            a corps of Dragon Riders is kept in the field year on year for two and a third centuries, and a magistrate renews an appropriation every year for a thing his docket names by a number
-          knowledge: named
-        - place: place-helionis
-          how: >-
-            the war is lost to an arm the city-states cannot answer, and nobody here is ever told what bought it
-          knowledge: unlinked
-    who: [{ref: affiliation-vylarinmpr, role: signatory}]
-    follows:
-      - event: lore-dragondead
-        how: enabled
-        note: nothing can be leased that is not first held, and the jars come out of Therádon first
-      - event: lore-helionscnq
-        how: answered
-        note: the Republic is answering a war its legions are losing to the city-states' mages
-    accounts:
-      - by: affiliation-vylarinmpr
-        says: >-
-          The Republic and the dragons reached an agreement, and the Dragon Riders broke the great mages of Heliónis where legions could not. What was promised in exchange is not recorded.
-        agrees: partly
-        withholds: the terms, the object held, and the debt outstanding
-      - by: affiliation-ordoarcanis
-        says: >-
-          Nothing. The records for this stretch are missing, and what the Ordo holds of the Republic's arcane property is not a subject on which it corresponds.
-        agrees: silent
-      - by: place-helionis
-        says: >-
-          There were no dragons. No such creature has been seen in western Ankaris in seven centuries, the mounts were never shown in any triumph, and magic failing on a battlefield is what a large working does.
-        agrees: denies
-    unresolved:
-      - what was promised, in so many words, the terms having never been written down at all
-      - what a year's renewal cost, and who on the dragons' side accepted it
-      - whether the dragons hold the Republic's successors to an agreement the Republic never recorded
+  events:
+    - kind: treaty
+      depth: world
+      when: -330
+      sources: [decided-midhalion, decided-chronology, doc-soulspirts]
+      summary: >-
+        Holding what was taken at Therádon, the Republic offers the dragons the only thing it has that they want: the return of the bound to the ancestor pool. The dragons' price is the war. The agreement is not made for the war's duration but as a term of years renewed annually, which is why the Dragon Riders are a standing corps for two and a third centuries rather than a wartime expedient. Nothing of it is written down. What the Republic's chancery enters is a yearly appropriation for the keeping of a thing named only by a number, under a description it invented so that nobody would query the line.
+      standing: single-source
+      where:
+        locus: [place-vylariargn]
+        reach:
+          - place: place-midhalnrgn
+            how: >-
+              a corps of Dragon Riders is kept in the field year on year for two and a third centuries, and a magistrate renews an appropriation every year for a thing his docket names by a number
+            knowledge: named
+          - place: place-helionis
+            how: >-
+              the war is lost to an arm the city-states cannot answer, and nobody here is ever told what bought it
+            knowledge: unlinked
+      who: [{ref: affiliation-vylarinmpr, role: signatory}]
+      follows:
+        - event: lore-dragondead
+          how: enabled
+          note: nothing can be leased that is not first held, and the jars come out of Therádon first
+        - event: lore-helionscnq
+          how: answered
+          note: the Republic is answering a war its legions are losing to the city-states' mages
+      accounts:
+        - by: affiliation-vylarinmpr
+          says: >-
+            The Republic and the dragons reached an agreement, and the Dragon Riders broke the great mages of Heliónis where legions could not. What was promised in exchange is not recorded.
+          agrees: partly
+          withholds: the terms, the object held, and the debt outstanding
+        - by: affiliation-ordoarcanis
+          says: >-
+            Nothing. The records for this stretch are missing, and what the Ordo holds of the Republic's arcane property is not a subject on which it corresponds.
+          agrees: silent
+        - by: place-helionis
+          says: >-
+            There were no dragons. No such creature has been seen in western Ankaris in seven centuries, the mounts were never shown in any triumph, and magic failing on a battlefield is what a large working does.
+          agrees: denies
+      unresolved:
+        - what was promised, in so many words, the terms having never been written down at all
+        - what a year's renewal cost, and who on the dragons' side accepted it
+        - whether the dragons hold the Republic's successors to an agreement the Republic never recorded
 ---
 
 The Republic had the jars and nothing else the dragons wanted. What it offered was the one thing only
