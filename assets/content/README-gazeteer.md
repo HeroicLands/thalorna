@@ -727,7 +727,7 @@ A naming phrase counts, not only a bare name. A named rite, ordeal, festival,
 relic, hall, ship, road, feud, vow or principle is a name — `Eye of the Void`,
 `Oathkeeper's Challenge`, `Rite of Minnir's Well`, `Walk to Holafell`. So is an
 epithet that stands for a person or a god, such as `The All-Father` or
-`Tvirnvir the Wanderer`, and so is a name carrying a possessive or a regnal
+`Dagmar the Skaald`, and so is a name carrying a possessive or a regnal
 number.
 
 Three things are not names, and none of them takes bold:

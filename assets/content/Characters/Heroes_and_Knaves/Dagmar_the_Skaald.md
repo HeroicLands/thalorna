@@ -1,10 +1,14 @@
 ---
-shortcode: tvrnvrwndr
-name: {full: Tvirnvir the Wanderer, given: Tvirnvir, aliases: [the Rogue Skald]}
+shortcode: dagmrskaald
+name:
+  full: Dagmar the Skaald
+  given: Dagmar
+  aliases: [the Rogue Skald, Dagmar, Tvirnvir, Tvirnvir the Wanderer]
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, guilded, tradesfolk]
 data:
+  id: bed0a8231515e64f
   icon: icon-person
   templatePriority: null
   archetypes: [scholar]
@@ -415,13 +419,13 @@ sohl:
 
 # Appearance {#appearance}
 
-![[tvrnvrwndr|Tvirnvir the Wanderer]]{float=top-left}
+![[dagmrskaald|Dagmar the Skaald]]{float=top-left}
 
-Tvirnvir stands 5'7\" tall with a light build. He has light skin, brown hair, and green eyes. His features include a prominent nose, a firm-set mouth, heavy brows, flat cheeks.
+Dagmar stands 5'7\" tall with a light build. He has light skin, brown hair, and green eyes. His features include a prominent nose, a firm-set mouth, heavy brows, flat cheeks.
 
 # Dossier {#dossier}
 
-Tvirnvir is a skald from the far northern reaches of [[place-norgaad|Norgaad]], where he wandered from clan to clan, composing songs and telling tales of great heroes and legendary battles. He is clanless, having been exiled for an unknown crime—though some whisper that he had an affair with a powerful lord’s wife, others say he was involved in a conspiracy against his clan. [[being-grosdrnrgd|Gróa]] met Tvirnvir at a village blót, where the skald’s sharp wit and knowledge of ancient lore impressed her. Tvirnvir’s songs often contain veiled warnings and prophecies, hinting at the deeper wisdom he possesses.
+Dagmar is a skald from the far northern reaches of [[place-norgaad|Norgaad]], where he wandered from clan to clan, composing songs and telling tales of great heroes and legendary battles. He is clanless, having been exiled for an unknown crime—though some whisper that he had an affair with a powerful lord’s wife, others say he was involved in a conspiracy against his clan. [[being-grosdrnrgd|Gróa]] met Dagmar at a village blót, where the skald’s sharp wit and knowledge of ancient lore impressed her. Dagmar’s songs often contain veiled warnings and prophecies, hinting at the deeper wisdom he possesses.
 
 ## Background
 
@@ -439,18 +443,18 @@ Tvirnvir is a skald from the far northern reaches of [[place-norgaad|Norgaad]], 
 - **Creativity**: Exceptionally creative, a master of tales and songs.
 - **Empathy**: Reads people well, aiding his storytelling.
 - **Eloquence**: Gifted speaker and performer.
-- **Morality**: As a rogue skald, Tvirnvir enjoys his freedom and has a loose relationship with the mores of his culture. He’s willing to take advantage of situations as long as it benefits him.
-- **Voice**: As a rogue skald, Tvirnvir’s voice is one of his greatest assets. He can captivate an audience with his melodious tone, turning his songs and stories into unforgettable performances.
+- **Morality**: As a rogue skald, Dagmar enjoys his freedom and has a loose relationship with the mores of his culture. He’s willing to take advantage of situations as long as it benefits him.
+- **Voice**: As a rogue skald, Dagmar’s voice is one of his greatest assets. He can captivate an audience with his melodious tone, turning his songs and stories into unforgettable performances.
 
 ## Psyche
 
 ### Personality
 
-Cynical and secretive, Tvirnvir is a skilled manipulator and strategist. He is not above bending the truth or playing both sides to his advantage, but his loyalty to [[being-grosdrnrgd|Gróa]] is genuine. Tvirnvir sees the Seidr as a kindred spirit, both outcasts who walk between worlds.
+Cynical and secretive, Dagmar is a skilled manipulator and strategist. He is not above bending the truth or playing both sides to his advantage, but his loyalty to [[being-grosdrnrgd|Gróa]] is genuine. Dagmar sees the Seidr as a kindred spirit, both outcasts who walk between worlds.
 
 ### Motivation
 
-Tvirnvir’s interest in [[being-grosdrnrgd|Gróa]] lies in the Seidr’s connection to the spirit world, which fascinates him. She sees [[being-grosdrnrgd|Gróa]]’s journey as an opportunity to witness something truly extraordinary and to compose the greatest saga ever told.
+Dagmar’s interest in [[being-grosdrnrgd|Gróa]] lies in the Seidr’s connection to the spirit world, which fascinates him. He sees [[being-grosdrnrgd|Gróa]]’s journey as an opportunity to witness something truly extraordinary and to compose the greatest saga ever told.
 
 ### Strengths
 
@@ -466,10 +470,10 @@ Local clans
 
 ## Plot Hooks
 
-1. **The Song of Unwritten Fates**: Tvirnvir is approached by a mysterious figure who claims to have an ancient saga meant to be sung only once, at a time when fate hangs in the balance. The figure insists Tvirnvir is the only one worthy of delivering it, but as Tvirnvir deciphers the verses, he realizes the saga predicts events that could destroy his companions—or save them. The choice of how and when to use it rests with him.
+1. **The Song of Unwritten Fates**: Dagmar is approached by a mysterious figure who claims to have an ancient saga meant to be sung only once, at a time when fate hangs in the balance. The figure insists Dagmar is the only one worthy of delivering it, but as Dagmar deciphers the verses, he realizes the saga predicts events that could destroy his companions—or save them. The choice of how and when to use it rests with him.
 
-2. **The Jarl’s Last Tale**: A dying jarl summons Tvirnvir to record his life’s story, offering the promise of wealth and renown. However, Tvirnvir soon discovers dark truths hidden within the jarl’s deeds—secrets that, if revealed, could fracture alliances in Norgaad. Tvirnvir must decide whether to sing a sanitized version of history or risk exposing the jarl’s sins to the world.
+2. **The Jarl’s Last Tale**: A dying jarl summons Dagmar to record his life’s story, offering the promise of wealth and renown. However, Dagmar soon discovers dark truths hidden within the jarl’s deeds—secrets that, if revealed, could fracture alliances in Norgaad. Dagmar must decide whether to sing a sanitized version of history or risk exposing the jarl’s sins to the world.
 
-3. **The Festival of Forgotten Voices**: Tvirnvir learns of a remote village where, once every generation, a skald must perform to appease spirits bound to the land. The last skald to attempt the feat vanished without a trace, leaving the village cursed by endless storms. Tvirnvir’s reputation compels him to accept the challenge, but he must unravel the truth behind the ritual while ensuring his own survival.
+3. **The Festival of Forgotten Voices**: Dagmar learns of a remote village where, once every generation, a skald must perform to appease spirits bound to the land. The last skald to attempt the feat vanished without a trace, leaving the village cursed by endless storms. Dagmar’s reputation compels him to accept the challenge, but he must unravel the truth behind the ritual while ensuring his own survival.
 
-4. **The Tale That Never Ends**: Tvirnvir encounters an old skald who tells him a captivating story, only to vanish before finishing it. The incomplete tale haunts Tvirnvir, who begins to hear whispers of its continuation in dreams and rumors. As he chases the story’s threads, he realizes the tale may hold a clue to a greater threat—or an opportunity to craft a saga of his own.
+4. **The Tale That Never Ends**: Dagmar encounters an old skald who tells him a captivating story, only to vanish before finishing it. The incomplete tale haunts Dagmar, who begins to hear whispers of its continuation in dreams and rumors. As he chases the story’s threads, he realizes the tale may hold a clue to a greater threat—or an opportunity to craft a saga of his own.

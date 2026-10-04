@@ -2618,29 +2618,31 @@
             "boldKind": "none"
         },
         {
-            "oldName": "Dagmar",
-            "oldAliases": null,
-            "oldPath": "assets/content/Characters/Heroes_and_Knaves/Dagmar_the_Wanderer.md",
-            "oldShortcode": "dagmrwndrr",
-            "oldAddress": "being-dagmrwndrr",
-            "oldImage": "assets/images/beings/characters/dagmrwndrr.webp",
-            "newName": "Tvirnvir the Wanderer",
-            "newAliases": ["the Rogue Skald"],
-            "newPath": "assets/content/Characters/Heroes_and_Knaves/Tvirnvir_the_Wanderer.md",
-            "newShortcode": "tvrnvrwndr",
-            "newAddress": "being-tvrnvrwndr",
-            "newImage": "assets/images/beings/characters/tvrnvrwndr.webp",
+            "oldName": "Tvirnvir the Wanderer",
+            "oldAliases": ["Dagmar", "the Rogue Skald"],
+            "oldPath": "assets/content/Characters/Heroes_and_Knaves/Tvirnvir_the_Wanderer.md",
+            "oldShortcode": "tvrnvrwndr",
+            "oldAddress": "being-tvrnvrwndr",
+            "oldImage": "assets/images/beings/characters/tvrnvrwndr.webp",
+            "newName": "Dagmar the Skaald",
+            "newAliases": ["the Rogue Skald", "Dagmar", "Tvirnvir", "Tvirnvir the Wanderer"],
+            "newPath": "assets/content/Characters/Heroes_and_Knaves/Dagmar_the_Skaald.md",
+            "newShortcode": "dagmrskaald",
+            "newAddress": "being-dagmrskaald",
+            "newImage": "assets/images/beings/characters/dagmrskaald.webp",
             "newHome": null,
             "newTags": null,
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_tvirn-_ (middle grade) + `-vir` (a man) — a clanless skald who 'plays both sides,' bending truth as needed; tvarn 'two things that must be counted as one' names a man who is never only one thing",
+            "note": "Dagmar is an owner-retained name, restored as Dagmar the Skaald in #796 and narrowly exempt from Nordmal given-name decomposition. The #610 sweep renamed Dagmar the Wanderer (dagmrwndrr) to Tvirnvir the Wanderer (tvrnvrwndr); both Dagmar and Tvirnvir remain aliases. The historical Nordmal alias combines tvirn- (middle grade, two things that must be counted as one) with -vir (a man), naming a clanless skald who plays both sides.",
             "prose": null,
             "oldRefPaths": [
-                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Dagmar_the_Wanderer.md:6:10"
+                "e51d35186:assets/content/Characters/Heroes_and_Knaves/Dagmar_the_Wanderer.md:6:10",
+                "e7259c08d:assets/content/Characters/Heroes_and_Knaves/Tvirnvir_the_Wanderer.md:3:14"
             ],
-            "boldKind": "none"
+            "boldKind": "none",
+            "kinds": []
         },
         {
             "oldName": "Dek",
