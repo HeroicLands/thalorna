@@ -24,11 +24,11 @@
  *
  * **One row per thing, and the sweep reads every form that row retires.** A
  * row holds the primary retired name in `oldName` and every other name the
- * thing answered to in `oldAliases`, so both fields are read. `newAliases` is
- * where a name the thing still carries stands now, so **a form `newAliases`
- * also holds is live and is read past, whichever old field it came from**. That
- * subtraction is the whole of the rule: `oldName` plus `oldAliases` less
- * `newAliases`. Reading the old fields whole instead reports a kept name in the
+ * thing answered to in `oldAliases`, so both fields are read. `newName` and
+ * `newAliases` hold names still in use, so **a form either current field holds
+ * anywhere in the table is live**, whichever old field it came from. That
+ * subtraction is the whole of the rule: `oldName` plus `oldAliases` less every
+ * `newName` and `newAliases` across the table. Reading the old fields whole reports a kept name in the
  * very note that states it — which is what a thing that takes its culture's own
  * word and keeps its former name as an alias does — and reading `oldName` alone
  * stops sweeping every form a merge folded into the aliases.
@@ -670,30 +670,30 @@ function asList(value) {
 }
 
 /**
- * Every form one row retires.
+ * Every form one row retires after current names across the table are removed.
  *
  * A row names one thing and holds the primary retired name in `oldName`, with
  * every other name the thing answered to in `oldAliases`. Both are swept,
  * because a form folded into the aliases is a form the corpus must no longer
  * write.
  *
- * **Less whatever `newAliases` holds, and that reaches `oldName` too.**
+ * **Less whatever any row's `newName` or `newAliases` holds, including `oldName`.**
  * `oldAliases` begins as a copy of the note's own aliases and grows as synonyms
  * are found, so it carries the live ones beside the retired ones; `newAliases`
- * is where a live alias stands now. A form in either old field that `newAliases`
- * also holds is one the thing still answers to, and sweeping it reports it in
+ * is where a live alias stands now. A form in either old field that any row's
+ * current name or aliases also hold is still in use, and sweeping it reports it in
  * the very note that states it. A thing that takes its culture's own word and
  * keeps its former name as an alias, so the phrase a reader knows it by still
  * finds it, is exactly that case: the former name is where it belongs and is
  * not a survivor.
  *
  * @param {object} entry - The concordance row.
+ * @param {Set<string>} live - Every current name and alias in the table.
  * @returns {string[]} The forms, the primary first.
  */
-export function retiredForms(entry) {
-    const kept = new Set(asList(entry.newAliases));
+export function retiredForms(entry, live) {
     return [...(entry.oldName ? [String(entry.oldName)] : []), ...asList(entry.oldAliases)].filter(
-        (form) => !kept.has(form),
+        (form) => !live.has(form),
     );
 }
 
@@ -784,8 +784,12 @@ function main() {
     // A `lore`/`rank` row retires the English phrase a standing or an office
     // bore before its culture had a word of its own, so it is swept where that
     // culture is written and read past elsewhere; see {@link checkDrift}.
-    const pairs = (table.entries ?? []).flatMap((entry) =>
-        retiredForms(entry).map((form) => ({
+    const entries = table.entries ?? [];
+    const live = new Set(
+        entries.flatMap((entry) => [...asList(entry.newName), ...asList(entry.newAliases)]),
+    );
+    const pairs = entries.flatMap((entry) =>
+        retiredForms(entry, live).map((form) => ({
             retired: form,
             replacement: entry.newName,
             drop: entry.newName === null || entry.newName === undefined,
