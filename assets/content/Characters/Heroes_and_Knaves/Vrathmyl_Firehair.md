@@ -428,7 +428,7 @@ Stands 6'1" tall with a light build. He has weather-roughened skin, fiery red ha
 
 Vrathmýl is the son of a renowned shipwright family in the port town of Hrólfstead, one of the most vital coastal towns in [[place-norgaad|Norgaad]]. From a young age, Vrathmýl was trained in the art of shipbuilding, mastering the craft of creating the sleek and deadly longships that Norgaad is famous for. However, despite his family’s pride in their trade, Vrathmýl felt a strong pull toward the arcane. As a child, he witnessed a mysterious fire spirit in the shipyard, sparking a lifelong fascination with magic and the spirit world.
 
-Vrathmýl’s striking red hair and fiery temper earned him the nickname “Firehair,” but it was his latent magical talent—an affinity for fire magic—that truly set him apart. He met [[being-tvrnyndsdrnrgd|Tvarnynda the Seidr of Norgaad]] when she sought passage across the fjords, and he was immediately intrigued by her connection to the spirit world. Over time, Vrathmýl became one of Tvarnynda’s trusted companions, eager to learn more about his mystical inclinations and to explore the deeper mysteries of magic.
+Vrathmýl’s striking red hair and fiery temper earned him the nickname “Firehair,” but it was his latent magical talent—an affinity for fire magic—that truly set him apart. He met [[being-grosdrnrgd|Gróa the Seidr of Norgaad]] when she sought passage across the fjords, and he was immediately intrigued by her connection to the spirit world. Over time, Vrathmýl became one of Gróa’s trusted companions, eager to learn more about his mystical inclinations and to explore the deeper mysteries of magic.
 
 ## Skills and Abilities
 
@@ -447,14 +447,14 @@ Vrathmýl’s striking red hair and fiery temper earned him the nickname “Fire
 - **Morality**: Vrathmýl follows his culture’s values of craftsmanship and strength but is willing to bend the rules for practical reasons, especially when it comes to survival.
 - **Voice**: Vrathmýl’s voice is rugged, reflecting his life as a shipwright. While his singing isn’t unpleasant, it lacks the smoothness of a trained performer.
 - **Shipbuilding and Navigation**: Vrathmýl is a master shipwright, skilled in constructing and maintaining longships. His deep knowledge of ships and the sea makes him invaluable when traveling across the fjords and open waters of [[place-nordheim|Nordheim]].
-- **Fire Magic**: Vrathmýl has a latent talent for fire magic, though he is still learning to control it. Under Tvarnynda’s guidance, he has begun to harness this power, using it in both combat and rituals.
+- **Fire Magic**: Vrathmýl has a latent talent for fire magic, though he is still learning to control it. Under Gróa’s guidance, he has begun to harness this power, using it in both combat and rituals.
 - **Combat Skills**: Though not as battle-hardened as a warrior, Vrathmýl is capable in a fight, wielding a **short sword** and using his fire magic to enhance his strikes.
 
 ## Psyche
 
 ### Personality
 
-Vrathmýl is bold, curious, and quick to action. His fiery temper can lead to rash decisions, but his heart is in the right place. He is deeply fascinated by magic and the unseen world, seeing Tvarnynda as both a mentor and a gateway to unlocking his own potential. Vrathmýl’s natural curiosity makes him a constant student of the arcane, though his impetuous nature sometimes puts him at odds with Tvarnynda’s more measured approach.
+Vrathmýl is bold, curious, and quick to action. His fiery temper can lead to rash decisions, but his heart is in the right place. He is deeply fascinated by magic and the unseen world, seeing Gróa as both a mentor and a gateway to unlocking his own potential. Vrathmýl’s natural curiosity makes him a constant student of the arcane, though his impetuous nature sometimes puts him at odds with Gróa’s more measured approach.
 
 ### Strengths
 

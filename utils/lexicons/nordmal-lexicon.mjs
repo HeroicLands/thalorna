@@ -726,9 +726,20 @@ export function positionOf(raw, literal, from = 0) {
  * than to build.
  *
  * @param {object} rule - The derived lexicon.
+ * @param {object|null} [table=null] - Concordance with explicit name exemptions.
  * @returns {object[]} `{ name, kind, file, line, column }` for each.
  */
-export function corpus(rule) {
+export function corpus(rule, table = null) {
+    const exemptGivenNames = new Map(
+        (table?.entries ?? [])
+            .filter(
+                (entry) =>
+                    entry.subType === "given" &&
+                    Array.isArray(entry.kinds) &&
+                    entry.kinds.length === 0,
+            )
+            .map((entry) => [entry.newPath, entry.newName]),
+    );
     const found = [];
     const bynames = [];
     const titles = [];
@@ -764,7 +775,10 @@ export function corpus(rule) {
         const relative = file.slice(CONTENT_DIR.length + 1);
 
         if (front.type === "being" && front.data?.culture === CULTURE) {
-            add(front.name?.given, "given", file, raw);
+            // An explicit concordance exemption covers the given name; the clan
+            // remains subject to its own Nordmal rule.
+            if (exemptGivenNames.get(file) !== front.name?.full)
+                add(front.name?.given, "given", file, raw);
             add(front.name?.clan, "clan", file, raw);
             const full = String(front.name?.full ?? "");
             const parts = [front.name?.given, front.name?.clan].filter(Boolean).map(String);
@@ -997,7 +1011,7 @@ function main() {
     const hasConcordance = fs.existsSync(CONCORDANCE);
     const table = hasConcordance ? JSON.parse(fs.readFileSync(CONCORDANCE, "utf8")) : null;
     const rule = withGods(lexiconFrom(note));
-    const { names, bynames, titles } = corpus(rule);
+    const { names, bynames, titles } = corpus(rule, table);
 
     const out = [];
     const byClass = new Map();
