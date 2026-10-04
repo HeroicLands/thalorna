@@ -13,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [belekos]
-  affiliations: {provinclys: {rank: 3}}
+  affiliations: {provinclys: {rank: 3}, murkir: {rank: 1}}
   gender: male
   species: humanflk
   born: 674.41
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 8}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 10}}
-    - {model: affiliation-murkir}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 14}}

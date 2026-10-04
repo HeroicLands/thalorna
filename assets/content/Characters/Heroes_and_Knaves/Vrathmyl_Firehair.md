@@ -17,7 +17,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [tvarnmark]
-  affiliations: {kingdmnrgd: {rank: 3}}
+  affiliations: {kingdmnrgd: {rank: 3}, svartbrandr: {rank: 1}}
   gender: male
   species: humanflk
   born: 692.94
@@ -47,7 +47,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 8}}
-    - {model: affiliation-svartbrandr}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 14}}

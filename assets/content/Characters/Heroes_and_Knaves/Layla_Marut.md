@@ -13,7 +13,7 @@ data:
   lore: []
   culture: bethuanclt
   homes: [bethura]
-  affiliations: {mtrrchybth: {rank: 3}}
+  affiliations: {mtrrchybth: {rank: 3}, venusia: {rank: 1}}
   gender: female
   species: humanflk
   born: "694.4"
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 15}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 9}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 10}}
-    - {model: affiliation-venusia}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 64}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 80}}

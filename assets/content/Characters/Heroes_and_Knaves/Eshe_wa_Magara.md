@@ -13,7 +13,7 @@ data:
   lore: []
   culture: okharinclt
   homes: [zarhanor]
-  affiliations: {okharis: {rank: 2}}
+  affiliations: {okharis: {rank: 2}, nkaruthar: {rank: 1}, njiayaroho: {rank: 1}}
   gender: female
   species: humanflk
   born: 683.162
@@ -43,8 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 9}}
-    - {model: affiliation-nkaruthar}
-    - {model: affiliation-njiayaroho}
     - {model: skill-upangasprt, system: {masteryLevelBase: 48}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 14}}

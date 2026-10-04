@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [tvalgard]
-  affiliations: {kingdmtrgd: {rank: 4}}
+  affiliations: {kingdmtrgd: {rank: 4}, solrun: {rank: 1}}
   socialTies: {affiliation-wazulu: rival}
   gender: male
   species: humanflk
@@ -44,7 +44,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 16}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 15}}
-    - {model: affiliation-solrun}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 52}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 15}}

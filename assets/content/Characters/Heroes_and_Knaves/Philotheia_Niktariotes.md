@@ -13,7 +13,7 @@ data:
   lore: []
   culture: byzarianclt
   homes: [thalassos]
-  affiliations: {byzarianlg: {rank: 3}}
+  affiliations: {byzarianlg: {rank: 3}, sacredforge: {rank: 1}}
   gender: female
   species: humanflk
   born: 694.249
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 15}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 16}}
-    - {model: affiliation-sacredforge}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 56}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 65}}
     - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 14}}

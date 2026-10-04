@@ -17,7 +17,7 @@ data:
   lore: []
   culture: dunhariclt
   homes: [kharalsulr]
-  affiliations: {dunhartrbs: {rank: 3}}
+  affiliations: {dunhartrbs: {rank: 3}, korsadra: {rank: 1}}
   gender: male
   species: humanflk
   born: 679.59
@@ -47,7 +47,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 10}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 7}}
-    - {model: affiliation-korsadra}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 14}}
