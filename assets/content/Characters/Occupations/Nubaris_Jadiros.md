@@ -13,7 +13,7 @@ data:
   lore: []
   culture: helioniteclt
   homes: [theradon2]
-  affiliations: {theradon: {rank: 4}}
+  affiliations: {theradon: {rank: 4}, janus: {rank: 1}}
   gender: female
   species: humanflk
   born: 684.276
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 16}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-janus}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 34}}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 17}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 51}}

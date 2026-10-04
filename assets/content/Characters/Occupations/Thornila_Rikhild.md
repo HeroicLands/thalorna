@@ -13,7 +13,7 @@ data:
   lore: []
   culture: varokhiclt
   homes: [dunkelwald]
-  affiliations: {vrystwldtrbs: {rank: 3}}
+  affiliations: {vrystwldtrbs: {rank: 3}, janus: {rank: 3}}
   gender: female
   species: humanflk
   born: "689.8"
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 15}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-janus}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 13}}

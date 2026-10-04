@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [thraldfjord]
-  affiliations: {kngdmnrdhm: {rank: 4}}
+  affiliations: {kngdmnrdhm: {rank: 4}, eidgar: {rank: 1}}
   gender: male
   species: humanflk
   born: 686.98
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 16}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 15}}
-    - {model: affiliation-eidgar}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 16}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 32}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 16}}

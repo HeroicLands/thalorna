@@ -13,7 +13,7 @@ data:
   lore: []
   culture: elavendriclt
   homes: [cerdwnshlw]
-  affiliations: {kngdmlvndr: {rank: 2}}
+  affiliations: {kngdmlvndr: {rank: 2}, janus: {rank: 1}}
   gender: female
   species: humanflk
   born: "678.35"
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 13}}
-    - {model: affiliation-janus}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 60}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 75}}

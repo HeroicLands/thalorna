@@ -13,7 +13,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: [stormveil]
-  affiliations: {jrldmstrmvld: {rank: 3}}
+  affiliations: {jrldmstrmvld: {rank: 3}, arldnpnthn: {rank: 1}}
   gender: male
   species: humanflk
   born: 677.276
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-wil, system: {scoreBase: 12}}
-    - {model: affiliation-arldnpnthn}
     - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 51}}
     - {model: sohl-sohl-skill-clmb, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-cmd, system: {masteryLevelBase: 28}}

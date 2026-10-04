@@ -13,7 +13,7 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: council
+    model: oligarchy
     summary: >-
       No hierarch and no single voice: a council of Spirit-Speakers and Elder Shamans in which the elders' word carries the greater weight, seeking consensus rather than imposing it.
     ranks:
@@ -22,9 +22,9 @@ data:
         description: >-
           Turned from by the spirits and by those who keep them: no rite will include them, no pact will cover them, and no griot will speak their name in a genealogy.
       - level: 1
-        title: Uninitiated
+        title: Observant
         description: >-
-          Living under the observances, the totem law and the clan's pacts without having entered the tradition—most of the people, most of the time.
+          Living under the observances, the totem law and the clan's pacts without having entered the tradition—most of the people, most of the time. Bound by the pact and not initiated into it.
       - level: 2
         title: Initiate
         description: >-

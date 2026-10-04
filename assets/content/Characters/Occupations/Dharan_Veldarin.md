@@ -13,7 +13,7 @@ data:
   lore: []
   culture: elavendriclt
   homes: [elanmere]
-  affiliations: {kngdmlvndr: {rank: 5}}
+  affiliations: {kngdmlvndr: {rank: 5}, blackflame: {rank: 3}}
   gender: male
   species: humanflk
   born: 679.108
@@ -45,7 +45,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 15}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 6}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 14}}
-    - {model: affiliation-blackflame}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 18}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 35}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 40}}

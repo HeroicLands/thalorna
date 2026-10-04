@@ -13,7 +13,7 @@ data:
   lore: []
   culture: elavendriclt
   homes: [elavendre]
-  affiliations: {kngdmlvndr: {rank: 2}}
+  affiliations: {kngdmlvndr: {rank: 2}, arldnpnthn: {rank: 1}}
   gender: male
   species: humanflk
   born: "697.160"
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 8}}
     - {model: sohl-sohl-attribute-wil, system: {scoreBase: 10}}
-    - {model: affiliation-arldnpnthn}
     - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 40}}
     - {model: sohl-sohl-skill-chrm, system: {masteryLevelBase: 27}}
     - {model: sohl-sohl-skill-cmd, system: {masteryLevelBase: 36}}

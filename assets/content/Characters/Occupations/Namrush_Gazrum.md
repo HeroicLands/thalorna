@@ -13,7 +13,7 @@ data:
   lore: []
   culture: haradianclt
   homes: [haradregin]
-  affiliations: {cnfdrtnhrdnstts: {rank: 3}}
+  affiliations: {cnfdrtnhrdnstts: {rank: 3}, arldnpnthn: {rank: 1}}
   gender: male
   species: humanflk
   born: 688.327
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 10}}
     - {model: sohl-sohl-attribute-wil, system: {scoreBase: 9}}
-    - {model: affiliation-arldnpnthn}
     - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 44}}
     - {model: sohl-sohl-skill-chrm, system: {masteryLevelBase: 36}}
     - {model: sohl-sohl-skill-cmd, system: {masteryLevelBase: 32}}

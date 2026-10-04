@@ -13,7 +13,7 @@ data:
   lore: []
   culture: byzarianclt
   homes: [byzariargn]
-  affiliations: {byzarianlg: {rank: 3}}
+  affiliations: {byzarianlg: {rank: 3}, arldnpnthn: {rank: 1}}
   gender: male
   species: humanflk
   born: 681.45
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 8}}
     - {model: sohl-sohl-attribute-wil, system: {scoreBase: 14}}
-    - {model: affiliation-arldnpnthn}
     - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 41}}
     - {model: sohl-sohl-skill-chrm, system: {masteryLevelBase: 29}}
     - {model: sohl-sohl-skill-cmd, system: {masteryLevelBase: 26}}

@@ -13,7 +13,7 @@ data:
   lore: []
   culture: dunhariclt
   homes: [dunhardsrtrgn]
-  affiliations: {dunhartrbs: {rank: 3}}
+  affiliations: {dunhartrbs: {rank: 3}, mithara: {rank: 1}}
   gender: female
   species: humanflk
   born: 679.325
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-wil, system: {scoreBase: 14}}
-    - {model: affiliation-mithara}
     - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 38}}
     - {model: sohl-sohl-skill-cmd, system: {masteryLevelBase: 33}}
     - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 25}}
