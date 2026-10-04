@@ -5,7 +5,16 @@ type: place
 subType: settlement
 description: "Settlement"
 tags: [settlement]
-data: {demonym: null, lore: [foxttm], parents: [thornwald], population: 300, packFolder: vrystwald}
+data:
+  demonym: null
+  lore: [foxttm]
+  parents: [thornwald]
+  population: 300
+  borders: [{to: thornryth, bearing: W}, {to: frithhaven, bearing: SE}]
+  routes:
+    - {to: thornryth, bearing: W, mode: land, days: 2, terrain: [track, forest]}
+    - {to: frithhaven, bearing: SE, mode: land, days: 3, terrain: [track, forest]}
+  packFolder: vrystwald
 ---
 
 ## Overview
