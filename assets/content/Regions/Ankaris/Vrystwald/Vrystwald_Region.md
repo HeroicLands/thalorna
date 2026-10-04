@@ -97,7 +97,7 @@ under no obligation whatever to be brought.
 
 ## Villages, and Nothing Larger
 
-There are **no cities in Vrystwald and no towns**. There never have been.
+There are **no cities in Vrystwald and no towns**. There never have been. At roughly 350 people per village, the region's half million people imply about **1,400 villages**; the twenty villages with their own notes and sixty more in the roster below are examples, not a complete census. At roughly 350 people per village, the region's half million people imply about **1,400 villages**; the twenty villages with their own notes and sixty more in the roster below are examples, not a complete census.
 
 What there is, is villages—thousands of them, scattered through forest clearings and strung along the
 riverbanks, ordinarily holding about 200 to 500 people behind a palisade. Below 200 a village cannot send
@@ -118,6 +118,73 @@ This is the plainest statement of what the Varokh are. A people with no urban pl
 power to seize, no treasury to sack, no walls whose fall decides anything, and no single point at which
 it can be made to submit. It is also why the "nothing to capture" problem is not a tactic they adopted.
 They simply never built anything worth capturing.
+
+## Village Roster
+
+The twenty named village notes are a small sample. This further roster gives sixty usable villages without claiming that any one of them commands its neighbors. Their populations remain within the ordinary 200–500 band. Each totem names the village's single spirit bond; the leading seat identifies whose judgement usually prevails, while the other two seats remain in place.
+
+| Village    | Reach                          | People | Totem                          | Leading seat | Character                                              |
+| ---------- | ------------------------------ | -----: | ------------------------------ | ------------ | ------------------------------------------------------ |
+| Arnholt    | [[place-falkhaven\|Falkhaven]] |    240 | [[lore-eaglettm\|eagle]]       | War Chief    | Its cliff watch warns the shore of unfamiliar sails.   |
+| Balthburg  | [[place-falkhaven\|Falkhaven]] |    390 | [[lore-bullttm\|bull]]         | War Chief    | Its palisade guards a narrow landward approach.        |
+| Dómak      | [[place-falkhaven\|Falkhaven]] |    220 | [[lore-hedgehogttm\|hedgehog]] | Shaman       | A thorn stand marks a place where oaths are heard.     |
+| Erthstein  | [[place-falkhaven\|Falkhaven]] |    310 | [[lore-hawkttm\|hawk]]         | Other Chief  | The quarry sells stone to boats from the west.         |
+| Frithrýth  | [[place-falkhaven\|Falkhaven]] |    270 | [[lore-dovettm\|dove]]         | Other Chief  | Rival fishing crews share its net drying ground.       |
+| Garhaven   | [[place-falkhaven\|Falkhaven]] |    410 | [[lore-sharkttm\|shark]]       | War Chief    | Shore hunters return here with dangerous catches.      |
+| Hárholt    | [[place-falkhaven\|Falkhaven]] |    350 | [[lore-wolfttm\|wolf]]         | War Chief    | A muster gathers beneath its old pines each thaw.      |
+| Hródgrund  | [[place-falkhaven\|Falkhaven]] |    300 | [[lore-otterttm\|otter]]       | Shaman       | Floods expose bones the elders refuse to move.         |
+| Mahnwald   | [[place-falkhaven\|Falkhaven]] |    460 | [[lore-bearttm\|bear]]         | Other Chief  | Its long winter stores are lent against spring furs.   |
+| Rádstein   | [[place-falkhaven\|Falkhaven]] |    230 | [[lore-falconttm\|falcon]]     | Other Chief  | A rocky hearing place settles boat debts.              |
+| Sundhaven  | [[place-falkhaven\|Falkhaven]] |    370 | [[lore-whalettm\|whale]]       | Shaman       | A stranded whale once fed it through a famine.         |
+| Wulfrýth   | [[place-falkhaven\|Falkhaven]] |    290 | [[lore-wolfttm\|wolf]]         | War Chief    | Its daughter clearing still disputes the old trapline. |
+| Dómholt    | [[place-edrwald\|Edrwald]]     |    280 | [[lore-badgerttm\|badger]]     | Shaman       | The oldest copse shelters a forbidden grave.           |
+| Druthhaven | [[place-edrwald\|Edrwald]]     |    430 | [[lore-goosettm\|goose]]       | Other Chief  | Boat crews leave pledges before crossing the bay.      |
+| Eichwald   | [[place-edrwald\|Edrwald]]     |    260 | [[lore-stagttm\|stag]]         | Shaman       | Oak seedlings grow behind a defended hedge.            |
+| Ermgrund   | [[place-edrwald\|Edrwald]]     |    340 | [[lore-deerttm\|deer]]         | Other Chief  | Several kin groups share its wet valley floor.         |
+| Fródstein  | [[place-edrwald\|Edrwald]]     |    210 | [[lore-owlttm\|owl]]           | Shaman       | A weathered rock holds a memory of older rites.        |
+| Hildrýth   | [[place-edrwald\|Edrwald]]     |    380 | [[lore-crowttm\|crow]]         | War Chief    | It cut a new clearing after a feud over timber.        |
+| Óthholt    | [[place-edrwald\|Edrwald]]     |    450 | [[lore-rabbitttm\|rabbit]]     | Other Chief  | Its households argue over an inherited grove.          |
+| Rádburg    | [[place-edrwald\|Edrwald]]     |    320 | [[lore-boarttm\|boar]]         | War Chief    | A small timber ring protects the bay ford.             |
+| Ríkhaven   | [[place-edrwald\|Edrwald]]     |    250 | [[lore-duckttm\|duck]]         | Other Chief  | The landing changes hands each fishing season.         |
+| Skaldwald  | [[place-edrwald\|Edrwald]]     |    400 | [[lore-pigeonttm\|pigeon]]     | Shaman       | Its singers remember a lost shore path.                |
+| Thalhaven  | [[place-edrwald\|Edrwald]]     |    290 | [[lore-troutttm\|trout]]       | Other Chief  | Freshwater and saltwater traders meet here.            |
+| Vithgrund  | [[place-edrwald\|Edrwald]]     |    360 | [[lore-oxttm\|ox]]             | War Chief    | Its young men guard grain brought up from the south.   |
+| Balthhaven | [[place-thornwald\|Thornwald]] |    330 | [[lore-foxttm\|fox]]           | Other Chief  | A Velanthian family winters inside its gate.           |
+| Dágholt    | [[place-thornwald\|Thornwald]] |    240 | [[lore-chickenttm\|chicken]]   | Shaman       | Dawn rites mark a grove shared by two kindreds.        |
+| Edrgrund   | [[place-thornwald\|Thornwald]] |    470 | [[lore-cowttm\|cow]]           | Other Chief  | Its grazing rights cross the disputed frontier.        |
+| Falkrýth   | [[place-thornwald\|Thornwald]] |    300 | [[lore-falconttm\|falcon]]     | War Chief    | Scouts watch the grain fields from its clearing.       |
+| Garstein   | [[place-thornwald\|Thornwald]] |    280 | [[lore-hawkttm\|hawk]]         | War Chief    | Its rock shelters an ambush path to the river.         |
+| Hárhaven   | [[place-thornwald\|Thornwald]] |    420 | [[lore-goosettm\|goose]]       | Other Chief  | Two markets bargain under a temporary truce.           |
+| Mahnstein  | [[place-thornwald\|Thornwald]] |    230 | [[lore-hedgehogttm\|hedgehog]] | Shaman       | An old boundary stone is sacred to its households.     |
+| Óthwald    | [[place-thornwald\|Thornwald]] |    390 | [[lore-deerttm\|deer]]         | Other Chief  | A daughter village contests its eastern wood.          |
+| Skathrýth  | [[place-thornwald\|Thornwald]] |    260 | [[lore-crowttm\|crow]]         | War Chief    | A failed raid left captives still awaiting ransom.     |
+| Sundgrund  | [[place-thornwald\|Thornwald]] |    350 | [[lore-catfishttm\|catfish]]   | Other Chief  | Its fish weirs are shared with river neighbors.        |
+| Thornholt  | [[place-thornwald\|Thornwald]] |    440 | [[lore-foxttm\|fox]]           | Shaman       | Thorn scrub hides a grove from foreign visitors.       |
+| Wíthhaven  | [[place-thornwald\|Thornwald]] |    310 | [[lore-otterttm\|otter]]       | Other Chief  | Women ferry grain across a watched border.             |
+| Arnwald    | [[place-skathwald\|Skathwald]] |    250 | [[lore-eaglettm\|eagle]]       | War Chief    | Its watch platform faces the Grukar paths.             |
+| Balthstein | [[place-skathwald\|Skathwald]] |    460 | [[lore-boarttm\|boar]]         | War Chief    | A stone fall narrows the approach to its wall.         |
+| Dómrýth    | [[place-skathwald\|Skathwald]] |    210 | [[lore-owlttm\|owl]]           | Shaman       | Its warning drums follow the night calls.              |
+| Erthburg   | [[place-skathwald\|Skathwald]] |    370 | [[lore-badgerttm\|badger]]     | War Chief    | Earth banks protect families during alarms.            |
+| Frithholt  | [[place-skathwald\|Skathwald]] |    290 | [[lore-dovettm\|dove]]         | Other Chief  | It shelters displaced kin without claiming them.       |
+| Grimstein  | [[place-skathwald\|Skathwald]] |    430 | [[lore-lynxttm\|lynx]]         | War Chief    | Scouts report from an exposed rocky tooth.             |
+| Hildburg   | [[place-skathwald\|Skathwald]] |    350 | [[lore-wolfttm\|wolf]]         | War Chief    | Its gate is rebuilt after each wet season.             |
+| Mahnrýth   | [[place-skathwald\|Skathwald]] |    240 | [[lore-rabbitttm\|rabbit]]     | Other Chief  | A refugee clearing has become a lasting village.       |
+| Rádholt    | [[place-skathwald\|Skathwald]] |    320 | [[lore-crowttm\|crow]]         | Shaman       | A grove council chooses when to sound alarm.           |
+| Thrágrund  | [[place-skathwald\|Skathwald]] |    400 | [[lore-stagttm\|stag]]         | War Chief    | Its valley stores provision neighboring watches.       |
+| Vandholt   | [[place-skathwald\|Skathwald]] |    270 | [[lore-foxttm\|fox]]           | Other Chief  | An old feud delays a shared defense.                   |
+| Weskstein  | [[place-skathwald\|Skathwald]] |    380 | [[lore-bearttm\|bear]]         | Shaman       | A totem stone is visited by scattered families.        |
+| Arngrund   | [[place-vandstein\|Vandstein]] |    300 | [[lore-eaglettm\|eagle]]       | Shaman       | A high valley keeps a shrine above the snowline.       |
+| Balthrýth  | [[place-vandstein\|Vandstein]] |    260 | [[lore-goatttm\|goat]]         | War Chief    | Its pass scouts will not serve a foreign claimant.     |
+| Dágstein   | [[place-vandstein\|Vandstein]] |    220 | [[lore-stagttm\|stag]]         | Shaman       | The first sun strikes its standing stone in spring.    |
+| Druthholt  | [[place-vandstein\|Vandstein]] |    340 | [[lore-bearttm\|bear]]         | Other Chief  | Its guides take pledges before a crossing.             |
+| Erthgrund  | [[place-vandstein\|Vandstein]] |    420 | [[lore-badgerttm\|badger]]     | Other Chief  | Terrace walls divide a hard won harvest.               |
+| Fródhaven  | [[place-vandstein\|Vandstein]] |    280 | [[lore-owlttm\|owl]]           | Shaman       | An old road bends around its sacred shelter.           |
+| Gargrund   | [[place-vandstein\|Vandstein]] |    390 | [[lore-wolfttm\|wolf]]         | War Chief    | A spear company watches the lower pass.                |
+| Hródholt   | [[place-vandstein\|Vandstein]] |    310 | [[lore-deerttm\|deer]]         | Other Chief  | It exchanges winter firewood for pass news.            |
+| Ríkstein   | [[place-vandstein\|Vandstein]] |    450 | [[lore-hawkttm\|hawk]]         | War Chief    | A ruined tower tempts outsiders to claim ground.       |
+| Sundrýth   | [[place-vandstein\|Vandstein]] |    230 | [[lore-rabbitttm\|rabbit]]     | Shaman       | A new clearing owes its survival to snowmelt.          |
+| Thráhaven  | [[place-vandstein\|Vandstein]] |    370 | [[lore-goatttm\|goat]]         | Other Chief  | Families shelter travelers during sudden storms.       |
+| Véthgrund  | [[place-vandstein\|Vandstein]] |    290 | [[lore-bearttm\|bear]]         | Shaman       | A sacred hollow remains closed to quarrymen.           |
 
 ## Furs, Amber—and People
 
