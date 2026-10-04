@@ -7,12 +7,12 @@ tags: [todo, draft, clergy]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: [cleric, courtier]
+  archetypes: [cleric]
   occupation: Priest
   stations: []
   lore: []
   culture: varokhiclt
-  homes: [dunkelwald]
+  homes: [thornhaven]
   affiliations: {vrystwldtrbs: {rank: 3}, janus: {rank: 3}}
   gender: female
   species: humanflk
@@ -401,21 +401,21 @@ Thornila Ríkhild is a 35-year-old woman who stands 6'0" tall and is slender. Sh
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a noble family of Varokhi heritage, Thornila Ríkhild is a priestess of Jánus.
+Born in [[place-thornhaven|Thornhaven]] to a Varokh family with Velanthian kin, Thornila Ríkhild became a priestess of Jánus through the traders and mixed households of the frontier.
 
-Thornila is a noble priestess devoted to the teachings of Jánus. With a strong belief in the protection of the weak, she often organizes charitable works, though her upbringing sometimes leads her to look down on those in need. She believes that chivalry is essential to the defense of honor, and encourages her followers to uphold the ideals of justice and righteous struggle, though she struggles to understand the plight of the lower classes.
+Thornila is devoted to the teachings of Jánus and often organizes help for the vulnerable at Thornhaven’s landing. Her certainty in her own judgment can make that help feel like a debt rather than a gift. She urges those who can fight to defend the weak, yet she struggles to listen when the people she helps tell her what they need.
 
-Now at 35 years of age, she is a known figure among the priesthood of Jánus in Vrystwald.
+At thirty-five, she is known to the small circle of Jánus worshippers along the Velanthian frontier.
 
 ## Psyche
 
 ### Personality
 
-She can be elitist, and struggles to feel for the disadvantaged.
+She can be condescending to those she means to help.
 
 ### Motivation
 
-Thornila wants the weak protected and honor defended as Jánus teaches, by nobles and knights who hold to chivalry.
+Thornila wants the village’s stronger households and warriors to defend those who cannot defend themselves.
 
 ### Strengths
 
@@ -423,13 +423,13 @@ She is passionate about her beliefs, and a strong leader.
 
 ## Social
 
-Thornila belongs to the Temple of Jánus.
+Thornila serves the few followers of Jánus at Thornhaven, where Velanthian visitors and mixed households have brought the faith across the frontier. She is a priestess of that faith, while the village’s Shaman keeps its totem and rites.
 
 ## Companions
 
 ### Patrons
 
-Thornila's patrons are the nobles and knights who seek spiritual support and honor.
+Her supporters are traders and households who keep Jánus’s rites. They shelter her work by choice, while other villagers keep the fox totem and ask their own Shaman for spiritual help.
 
 ### Enemies
 
@@ -437,12 +437,12 @@ Few; she is generally respected, but some view her as aloof.
 
 ## Plot Hooks
 
-1. **The Priestess's Dilemma**—A knight Thornila counsels has broken the chivalry she preaches against one of the weak she preaches for, and he is of her own class.
+1. **The Priestess's Dilemma**—A warrior Thornila counsels has harmed someone she promised to protect, and his kin expect her silence.
 
-2. **Old Grudges**—One of the poor Thornila's charity was meant for has not forgotten how she looked at him, and says so where the temple can hear.
+2. **Old Grudges**—A household Thornila helped has not forgotten how she spoke to them, and says so at the landing.
 
 3. **Echoes of the Past**—A charitable work Thornila organized years ago is found to have done its poor more harm than good, and they remember whose it was.
 
-4. **Shifting Winds**—Political change in Vrystwald threatens the nobility Thornila was born into and preaches to, and she can adapt, resist, or leave.
+4. **Shifting Winds**—A feud with Velanthian kin makes Thornila’s foreign faith suspect in Thornhaven, and she can mediate, leave, or insist on staying.
 
-5. **The Opportunity**—The Temple of Jánus offers Thornila a higher office, and the price is the charitable work that is the one part of her ministry that reaches the poor.
+5. **The Opportunity**—A Velanthian shrine offers Thornila a settled post, but taking it means leaving the few Thornhaven households who rely on her.

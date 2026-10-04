@@ -3,7 +3,7 @@ shortcode: skldrblthlm
 name: {full: Skaldár Balthhelm, aliases: []}
 type: being
 subType: npc
-tags: [draft, guilded, tradesfolk]
+tags: [draft, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null

@@ -418,15 +418,13 @@ Knowledgeable about horse health, attentive, good at problem-solving.
 
 ## Social
 
-Sundwíra is affiliated with None; works independently..
-
-As a Varokhi ostler, Sundwíra occupies a recognized social niche within Vrystwald society.
+Sundwíra keeps Eichengrund’s horses for the War Chief’s household and for visitors whose mounts need care. She makes each bargain herself and trains younger hands at the stable.
 
 ## Companions
 
 ### Patrons
 
-Sundwíra's primary patron is Travelers and local riders seeking horse care and advice.. This relationship provides both opportunity and obligation.
+Athalwa’s household and travelers through Eichengrund pay Sundwíra for stabling, feed and advice.
 
 ### Enemies
 

@@ -420,15 +420,13 @@ Highly knowledgeable, excellent mentor, strong work ethic.
 
 ## Social
 
-Edrígar is affiliated with Local Miners' Union.
-
-As a Varokhi miner, Edrígar occupies a recognized social niche within Vrystwald society.
+Edrígar works the stony ground near Falkenstein with a few relatives and neighbors. A promising seam draws help by bargain, not by orders from a miners’ union.
 
 ## Companions
 
 ### Patrons
 
-Edrígar's primary patron is Mining companies and local jewelers seeking expert advice.. This relationship provides both opportunity and obligation.
+The village smiths take his ore, and households pay him for stone and metal they cannot dig themselves.
 
 ### Enemies
 

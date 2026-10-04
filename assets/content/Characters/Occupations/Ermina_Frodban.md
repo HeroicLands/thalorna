@@ -417,15 +417,13 @@ Skilled in fishing and netmaking, quick thinker, adaptable.
 
 ## Social
 
-Ermína is affiliated with Coastal Fishers' Guild.
-
-As a Varokhi fisher, Ermína occupies a recognized social niche within Vrystwald society.
+Ermína fishes the waters near Thornhaven with her own crew and kin. She shares landings and nets by agreement with other families; no fishers’ guild controls the catch.
 
 ## Companions
 
 ### Patrons
 
-Ermína's primary patron is Local vendors who purchase her fresh catch.. This relationship provides both opportunity and obligation.
+Thornhaven households buy her fresh catch, while river traders sometimes take what she can preserve for the journey.
 
 ### Enemies
 

@@ -419,15 +419,13 @@ Physically strong, experienced in mining techniques, good team player.
 
 ## Social
 
-Theódric is affiliated with Local Miners' Union.
-
-As a Varokhi miner, Theódric occupies a recognized social niche within Vrystwald society.
+Theódric works shallow seams near Dunkelwald with kin and hired hands. He negotiates access with the households that use the ground, without a union or mining company above them.
 
 ## Companions
 
 ### Patrons
 
-Theódric's primary patron is Local mining companies and merchants buying precious metals.. This relationship provides both opportunity and obligation.
+Dunkelwald’s smiths and traders buy the usable metal he brings out of the forest.
 
 ### Enemies
 

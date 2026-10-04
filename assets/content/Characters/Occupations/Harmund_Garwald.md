@@ -3,7 +3,7 @@ shortcode: hrmndgrwld
 name: {full: Hármund Garwald, aliases: []}
 type: being
 subType: npc
-tags: [draft, guilded, tradesfolk]
+tags: [draft, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -399,9 +399,9 @@ Hármund Garwald is a 55-year-old man who stands 6'0" tall and is broad and soli
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a guilded family of Varokhi heritage, Hármund Garwald is a weaponcrafter and armorer.
+Born in [[place-falkensten|Falkenstein]] to a Varokh smithing family, Hármund Garwald is a weaponcrafter and armorer.
 
-Hármund is a master blacksmith and weaponcrafter who has been forging weapons for over thirty years. His blades are known for their durability and sharpness, and he is held to be one of the finest weaponcrafters in the city. He is strict with his apprentices, demanding precision and quality in every piece. He takes pride in his work, but age has begun to slow him, and he struggles to turn out as much as he did in his younger years.
+Hármund is a master blacksmith and weaponcrafter who has been forging weapons for over thirty years. His blades are known for their durability and sharpness, and he is held to be one of the finest weaponcrafters on the Nordmal frontier. He is strict with his apprentices, demanding precision and quality in every piece. He takes pride in his work, but age has begun to slow him, and he struggles to turn out as much as he did in his younger years.
 
 Now at 55 years of age, he is a known figure among the armorers of Vrystwald.
 
@@ -421,13 +421,13 @@ He is skilled in metalworking, knowledgeable about the design of weapons, and ex
 
 ## Social
 
-Hármund belongs to the City Blacksmiths' Guild.
+Hármund works his own forge in Falkenstein and teaches apprentices at his hearth. Other smiths can bargain with him or compete with him; none belongs to a city guild.
 
 ## Companions
 
 ### Patrons
 
-Hármund's patrons are the nobles and soldiers who come to him for weapons made to order.
+Warriors and village households bring him blades and armor to make or repair, paying in metal, food and the obligations they can keep.
 
 ### Enemies
 
@@ -435,12 +435,12 @@ Rival blacksmiths covet his reputation.
 
 ## Plot Hooks
 
-1. **The Weaponcrafter (Armorer)'s Dilemma**—A noble wants a blade faster than Hármund can forge it well, and his name rides on whichever he chooses.
+1. **The Weaponcrafter (Armorer)'s Dilemma**—A War Chief wants a blade faster than Hármund can forge it well, and his name rides on whichever he chooses.
 
 2. **Old Grudges**—A rival blacksmith is passing off inferior work under Hármund's mark.
 
 3. **Echoes of the Past**—A blade Hármund forged thirty years ago is brought back to him, and the man carrying it wants to know who commissioned it.
 
-4. **Shifting Winds**—Political change in Vrystwald threatens the guild standing Hármund depends upon, and he can adapt, resist, or leave.
+4. **Shifting Winds**—A feud between neighboring villages threatens the trade Hármund depends upon, and he can adapt, resist, or leave.
 
-5. **The Opportunity**—Hármund is offered the arming of a lord's whole household, and its price is not named up front.
+5. **The Opportunity**—Hármund is offered the arming of a whole war-band, and its price is not named up front.
