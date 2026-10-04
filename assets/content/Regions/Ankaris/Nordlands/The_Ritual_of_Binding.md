@@ -9,7 +9,7 @@ data: {packFolder: nordlands}
 ---
 
 The **Ritual of Binding** is the rite by which the Sea Wraith [[being-njorven|Njörven]] is sealed
-away. It is the object of [[scenario-groascmpgn|Tvarnynda's Campaign]], and the campaign's final act
+away. It is the object of [[scenario-groascmpgn|Gróa's Campaign]], and the campaign's final act
 consists of getting it performed.
 
 ## Requirements
@@ -43,4 +43,4 @@ is a reprieve of the same kind, and everyone involved knows it.
 
 ## See Also
 
-- [[being-njorven|Njörven]] · [[scenario-groascmpgn|Tvarnynda's Campaign]]
+- [[being-njorven|Njörven]] · [[scenario-groascmpgn|Gróa's Campaign]]

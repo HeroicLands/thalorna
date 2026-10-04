@@ -421,7 +421,7 @@ Tvirnvir stands 5'7\" tall with a light build. He has light skin, brown hair, an
 
 # Dossier {#dossier}
 
-Tvirnvir is a skald from the far northern reaches of [[place-norgaad|Norgaad]], where he wandered from clan to clan, composing songs and telling tales of great heroes and legendary battles. He is clanless, having been exiled for an unknown crime—though some whisper that he had an affair with a powerful lord’s wife, others say he was involved in a conspiracy against his clan. [[being-tvrnyndsdrnrgd|Tvarnynda]] met Tvirnvir at a village blót, where the skald’s sharp wit and knowledge of ancient lore impressed her. Tvirnvir’s songs often contain veiled warnings and prophecies, hinting at the deeper wisdom he possesses.
+Tvirnvir is a skald from the far northern reaches of [[place-norgaad|Norgaad]], where he wandered from clan to clan, composing songs and telling tales of great heroes and legendary battles. He is clanless, having been exiled for an unknown crime—though some whisper that he had an affair with a powerful lord’s wife, others say he was involved in a conspiracy against his clan. [[being-grosdrnrgd|Gróa]] met Tvirnvir at a village blót, where the skald’s sharp wit and knowledge of ancient lore impressed her. Tvirnvir’s songs often contain veiled warnings and prophecies, hinting at the deeper wisdom he possesses.
 
 ## Background
 
@@ -446,11 +446,11 @@ Tvirnvir is a skald from the far northern reaches of [[place-norgaad|Norgaad]], 
 
 ### Personality
 
-Cynical and secretive, Tvirnvir is a skilled manipulator and strategist. He is not above bending the truth or playing both sides to his advantage, but his loyalty to [[being-tvrnyndsdrnrgd|Tvarnynda]] is genuine. Tvirnvir sees the Seidr as a kindred spirit, both outcasts who walk between worlds.
+Cynical and secretive, Tvirnvir is a skilled manipulator and strategist. He is not above bending the truth or playing both sides to his advantage, but his loyalty to [[being-grosdrnrgd|Gróa]] is genuine. Tvirnvir sees the Seidr as a kindred spirit, both outcasts who walk between worlds.
 
 ### Motivation
 
-Tvirnvir’s interest in [[being-tvrnyndsdrnrgd|Tvarnynda]] lies in the Seidr’s connection to the spirit world, which fascinates him. She sees [[being-tvrnyndsdrnrgd|Tvarnynda]]’s journey as an opportunity to witness something truly extraordinary and to compose the greatest saga ever told.
+Tvirnvir’s interest in [[being-grosdrnrgd|Gróa]] lies in the Seidr’s connection to the spirit world, which fascinates him. She sees [[being-grosdrnrgd|Gróa]]’s journey as an opportunity to witness something truly extraordinary and to compose the greatest saga ever told.
 
 ### Strengths
 

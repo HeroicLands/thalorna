@@ -427,7 +427,7 @@ Hlirthselda is 5’10" with a strong, athletic build, weighing about 180 pounds.
 
 # Dossier {#dossier}
 
-Hlirthselda is a fierce warrior from the trading town of [[place-vrathavn|Vrathavn]], a town renowned for its warlike traditions and its ships of raiders. Born into a warrior clan, Hlirthselda was trained from childhood in the use of weapons, particularly the spear and shield. Her clan holds the duty of protecting [[place-norgaad|Norgaad]]’s coastlines from invaders and raiders. Hlirthselda first encountered [[being-tvrnyndsdrnrgd|Tvarnynda]] during a battle with [[affiliation-kingdmtrgd|Targud]] raiders. [[being-tvrnyndsdrnrgd|Tvarnynda]]’s strange powers and ability to foresee the movements of the enemy saved Hlirthselda’s warband, earning her respect.
+Hlirthselda is a fierce warrior from the trading town of [[place-vrathavn|Vrathavn]], a town renowned for its warlike traditions and its ships of raiders. Born into a warrior clan, Hlirthselda was trained from childhood in the use of weapons, particularly the spear and shield. Her clan holds the duty of protecting [[place-norgaad|Norgaad]]’s coastlines from invaders and raiders. Hlirthselda first encountered [[being-grosdrnrgd|Gróa]] during a battle with [[affiliation-kingdmtrgd|Targud]] raiders. [[being-grosdrnrgd|Gróa]]’s strange powers and ability to foresee the movements of the enemy saved Hlirthselda’s warband, earning her respect.
 
 ## Background
 
@@ -452,11 +452,11 @@ Hlirthselda is a fierce warrior from the trading town of [[place-vrathavn|Vratha
 
 ### Personality
 
-Hlirthselda is practical, courageous, and fiercely loyal. While she does not fully understand [[being-tvrnyndsdrnrgd|Tvarnynda]]’s magic, she respects the Seidr’s abilities and trusts her wisdom. She is also deeply protective of [[being-tvrnyndsdrnrgd|Tvarnynda]], seeing her as a vulnerable ally in need of a strong sword-arm.
+Hlirthselda is practical, courageous, and fiercely loyal. While she does not fully understand [[being-grosdrnrgd|Gróa]]’s magic, she respects the Seidr’s abilities and trusts her wisdom. She is also deeply protective of [[being-grosdrnrgd|Gróa]], seeing her as a vulnerable ally in need of a strong sword-arm.
 
 ### Motivation
 
-Hlirthselda joins [[being-tvrnyndsdrnrgd|Tvarnynda]] because she believes in the Seidr’s vision of the coming dangers. She knows that her skills as a warrior will be needed to defend Norgaad, and she sees herself as a protector of both her homeland and [[being-tvrnyndsdrnrgd|Tvarnynda]].
+Hlirthselda joins [[being-grosdrnrgd|Gróa]] because she believes in the Seidr’s vision of the coming dangers. She knows that her skills as a warrior will be needed to defend Norgaad, and she sees herself as a protector of both her homeland and [[being-grosdrnrgd|Gróa]].
 
 ### Strengths
 
