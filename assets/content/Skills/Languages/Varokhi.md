@@ -212,6 +212,7 @@ Several spellings may share one row. A long vowel and a short one are two spelli
 | `vryst-`           | free, held by nobody                            | Vrystwald, Vrystvith          |
 | `wald-`, `wuld-`   | rule in a person's name, a wood in a ground one | Waldaric, Waldburg, Wuldjagár |
 | `wulf-`            | a wolf                                          | Wulfhár, Wulfrád              |
+| `wesk-`            | a village's totem and its spirit bond           | Weskár                        |
 
 **Elements that close a name.** These are the pieces a reader coins with, because each carries a sense the lists settle.
 
@@ -311,23 +312,75 @@ An office is an element and one of the office closings, and the closing says wha
 | Skathár     | `skath-` + `-ár`   | answering a harm             |
 | Thalthúl    | `thal-` + `-thúl`  | bearing the charge of a dale |
 | Wuldjagár   | `wuld-` + `-jagár` | hunting the wood             |
+| Weskár      | `wesk-` + `-ár`    | keeping the village's totem  |
 
 An order joins two of these with `erund`, as Wuldjagár erund Gárskald does: the hunters of the wood, of the kindred that speaks for the spear.
 
 ### Bynames
 
-A byname is earned and is **rendered in the reader's tongue**, which is the one place the oral tradition and the page part company: the forest says it in Varokhi and the page says it in the reader's own words. The Crow, the Weasel and the Liar are therefore not Varokhi words, are held to none of the rules above, and the Varokhi behind one is not written down. Position tells a byname from a clan name: a clan name stands second in a pair of Varokhi names, a byname stands second in the reader's own.
+A byname is earned. Most are rendered in the reader's tongue: The Crow, the Weasel and the Liar are therefore not Varokhi words and are held to none of the name rules above. A byname may also be retained in Varokhi, as Thornak's **Blodtusc Bar** is. It means "bloody tusk of the Boar": _blod_ is blood, _tusc_ is a tusk, and _bar_ is the boar whose spirit he follows. The epithet is spoken as a phrase, so it is not judged as a two-element given or clan name. Position and the note's stated clan distinguish the byname from a clan name.
 
 ### The words the tongue keeps
 
-These are words and not names, given whole rather than formed, and no name is built from one.
+These are ordinary words rather than names. Most are given whole; where a word also opens a name, the element table states that use separately. Varokhi can join ordinary words in an epithet without making it a given or clan name. The totem words below are new coinages for animals the Varokh could encounter in Vrystwald or on its western shore; each row points to the totem it names.
 
-| kept word   | what it is                                                   |
-| ----------- | ------------------------------------------------------------ |
-| Varokh      | one of the people, and the people taken together             |
-| eth-kethrun | the taking of a true name, and the rite that marks adulthood |
-| erund       | of the, joining two names in a company's or an order's name  |
-| vel         | the particle that stands between two clauses                 |
+| kept word   | what it is                                                   | attested or represented by |
+| ----------- | ------------------------------------------------------------ | -------------------------- |
+| Varokh      | one of the people, and the people taken together             | `lore-varokhiclt`          |
+| eth-kethrun | the taking of a true name, and the rite that marks adulthood | `lore-varokhiclt`          |
+| erund       | of the, joining two names in a company's or an order's name  | Wuldjagár erund Gárskald   |
+| vel         | the particle that stands between two clauses                 | the sample phrase above    |
+| wesk        | the one totem a village keeps and the bond with its spirit   | `affiliation-vrystwldtrbs` |
+| wesketh     | the rite binding a person or village to its totem            | `lore-varokhiclt`          |
+| eldwesk     | an ancestor spirit addressed through the village's totem     | `lore-varokhiclt`          |
+| blod        | blood                                                        | `being-thrnkbldtscbr`      |
+| tusc        | a tusk                                                       | `being-thrnkbldtscbr`      |
+| bar         | a boar                                                       | `being-thrnkbldtscbr`      |
+
+The animal words are the spoken names of possible village totems. _Arn_, _falk_ and _wulf_ already occur as name elements; the other forms here name animals in speech without adding untested name elements. _Bar_ is attested in Thornak's epithet. The links identify the existing totem notes, not earlier attestations of these new Varokhi coinages.
+
+| animal word | totem              |
+| ----------- | ------------------ |
+| dask        | `lore-badgerttm`   |
+| berk        | `lore-bearttm`     |
+| bar         | `lore-boarttm`     |
+| lodkat      | `lore-bobcatttm`   |
+| sturm       | `lore-bullttm`     |
+| muskfis     | `lore-catfishttm`  |
+| hen         | `lore-chickenttm`  |
+| ku          | `lore-cowttm`      |
+| krav        | `lore-crowttm`     |
+| hirs        | `lore-deerttm`     |
+| esel        | `lore-donkeyttm`   |
+| duv         | `lore-dovettm`     |
+| and         | `lore-duckttm`     |
+| arn         | `lore-eaglettm`    |
+| falk        | `lore-falconttm`   |
+| fuks        | `lore-foxttm`      |
+| get         | `lore-goatttm`     |
+| gans        | `lore-goosettm`    |
+| hamst       | `lore-hamsterttm`  |
+| havk        | `lore-hawkttm`     |
+| igl         | `lore-hedgehogttm` |
+| hros        | `lore-horsettm`    |
+| linsk       | `lore-lynxttm`     |
+| otr         | `lore-otterttm`    |
+| uwl         | `lore-owlttm`      |
+| uks         | `lore-oxttm`       |
+| tuv         | `lore-pigeonttm`   |
+| has         | `lore-rabbitttm`   |
+| sefis       | `lore-seabassttm`  |
+| hark        | `lore-sharkttm`    |
+| skaf        | `lore-sheepttm`    |
+| slang       | `lore-snakettm`    |
+| hirt        | `lore-stagttm`     |
+| stur        | `lore-sturgeonttm` |
+| forl        | `lore-troutttm`    |
+| tun         | `lore-tunattm`     |
+| hval        | `lore-whalettm`    |
+| wulf        | `lore-wolfttm`     |
+
+Six totems have no Varokhi animal word here: [[lore-bisonttm|bison]], [[lore-jaguarttm|jaguar]], [[lore-leopardttm|leopard]], [[lore-lionttm|lion]], [[lore-parrotttm|parrot]] and [[lore-turkeyttm|turkey]]. None is established in Vrystwald or its waters, so giving a forest village one as its totem would invent a contact the setting does not describe. Shore villages can meet sea bass, shark, tuna and whale through their fishing and trade; the inland villages need not use those words.
 
 The particle `vel` is a word and no element is spelled the same way, so a sentence never carries an element on its own and a name is never built from a kept word.
 
