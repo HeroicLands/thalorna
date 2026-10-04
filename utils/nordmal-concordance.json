@@ -2718,29 +2718,31 @@
             "boldKind": "none"
         },
         {
-            "oldName": "Gróa",
-            "oldAliases": null,
-            "oldPath": "assets/content/Characters/Heroes_and_Knaves/Groa_the_Seidr_of_Norgaad.md",
-            "oldShortcode": "grosdrnrgd",
-            "oldAddress": "being-grosdrnrgd",
-            "oldImage": "assets/images/beings/characters/grosdrnrgd.webp",
-            "newName": "Tvarnynda the Seidr of Norgaad",
-            "newAliases": ["the Seidr of Norgaad"],
-            "newPath": "assets/content/Characters/Heroes_and_Knaves/Tvarnynda_the_Seidr_of_Norgaad.md",
-            "newShortcode": "tvrnyndsdrnrgd",
-            "newAddress": "being-tvrnyndsdrnrgd",
-            "newImage": "assets/images/beings/characters/tvrnyndsdrnrgd.webp",
+            "oldName": "Tvarnynda the Seidr of Norgaad",
+            "oldAliases": ["Gróa", "Tvarnynda", "the Seidr of Norgaad"],
+            "oldPath": "assets/content/Characters/Heroes_and_Knaves/Tvarnynda_the_Seidr_of_Norgaad.md",
+            "oldShortcode": "tvrnyndsdrnrgd",
+            "oldAddress": "being-tvrnyndsdrnrgd",
+            "oldImage": "assets/images/beings/characters/tvrnyndsdrnrgd.webp",
+            "newName": "Gróa the Seidr of Norgaad",
+            "newAliases": ["the Seidr of Norgaad", "Tvarnynda"],
+            "newPath": "assets/content/Characters/Heroes_and_Knaves/Groa_the_Seidr_of_Norgaad.md",
+            "newShortcode": "grosdrnrgd",
+            "newAddress": "being-grosdrnrgd",
+            "newImage": "assets/images/beings/characters/grosdrnrgd.webp",
             "newHome": null,
             "newTags": null,
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_tvarn-_ (hard grade) + `-ynda` (a woman) — a seidr-woman who walks between the mortal and spirit worlds; tvarn 'two things that must be counted as one' names exactly that liminal standing",
+            "note": "Gróa is a founding name of the setting, exempt from Nordmal decomposition. Her Nordmal alias Tvarnynda combines tvarn- (two things counted as one) with -ynda (a woman), naming her standing between the mortal and spirit worlds.",
             "prose": null,
             "oldRefPaths": [
-                "b29be50fd:assets/content/Characters/Heroes_and_Knaves/Groa_the_Seidr_of_Norgaad.md:6:10"
+                "b29be50fd:assets/content/Characters/Heroes_and_Knaves/Groa_the_Seidr_of_Norgaad.md:6:10",
+                "fc42947aa:assets/content/Characters/Heroes_and_Knaves/Tvarnynda_the_Seidr_of_Norgaad.md:4:9"
             ],
-            "boldKind": "none"
+            "boldKind": "none",
+            "kinds": []
         },
         {
             "oldName": "Gunnsteinn",

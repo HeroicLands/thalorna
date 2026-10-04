@@ -58,3 +58,15 @@ Kelestia Productions' Hârn properties never enters this repository — it lives
 [`sohl-kethira-basic`](https://github.com/HeroicLands/sohl-kethira-basic) under a
 separate licence. Under no circumstances commit copyrighted text, art, maps, or
 trade dress belonging to a third party.
+
+## Nordmal names
+
+`npm run lint:nordmal-lexicon` checks northern names against the element tables
+in the Nordmal language note. A deliberate name outside those rules has
+`kinds: []` on its row in `utils/nordmal-concordance.json`, with the reason in
+`note`. For a given-name row, the exemption applies only to the character at
+`newPath` whose full name matches `newName`; the clan name remains checked.
+Nordmal aliases and the language note's examples retain their normal spelling.
+
+Run `node --test utils/lexicons/*.test.mjs` when changing this guard, and
+`npm run lint:nordmal-concordance` when changing the table.
