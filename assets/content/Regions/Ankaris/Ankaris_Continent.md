@@ -42,7 +42,7 @@ ORDER BY name.full COLLATE NOCASE
 
 Ankaris is overwhelmingly a human continent. The great mass of its population—hundreds of millions across the ten regions—is human, varied into dozens of distinct cultural and linguistic groups that do not recognize themselves as a single people.
 
-Two non-human peoples hold substantial territory. The [[skill-grukarlng|Grukar]] tribes dominate the far northeast, with scattered communities in the Vrystwald forests and seasonal trading posts in the highlands of neighboring regions. The goblin clans maintain their own territories in the deep Vrystwald and in the marginal lands between the settled kingdoms, though they are rarely organized at a scale that registers on Ankarian political maps.
+Two non-human peoples hold substantial territory. The [[skill-grukarlng|Grukar]] tribes dominate the far northeast, with scattered nests in the Vrystwald forests and the highlands of neighboring regions. The goblin clans maintain their own territories in the deep Vrystwald and in the marginal lands between the settled kingdoms, though they are rarely organized at a scale that registers on Ankarian political maps.
 
 The Elder Races—the [[lore-flksinale|Sinalë]] who arrived roughly eight thousand years ago and the [[lore-flkkhazar|Khazári]] who followed two thousand years later—are vanishingly rare on Ankaris as everywhere else. Fewer than one in ten thousand Ankarians has ever seen a Sinalë or Khazári; most doubt they exist at all. Where they do persist, they do so in hidden enclaves: Sinalëan communities in the oldest forests of Élavendre and in the imperial court of Tānvür, Khazári halls in the deepest mountain ranges of the east.
 
