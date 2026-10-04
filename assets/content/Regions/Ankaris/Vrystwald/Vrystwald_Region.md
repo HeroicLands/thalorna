@@ -20,7 +20,7 @@ data:
 
 ## Overview
 
-South and east of the [[place-nrdlndsrgn|Nordlands]] proper lies the roadless interior of Vrystwald—the Varokh homeland of taiga, mixed forest, slow brown rivers, and lake systems. [[place-aureldirgn|Aurèldía]] lies to its south and [[place-velanthrgn|Velanthia]] to its east. The Varokh, descendants of the Pelwar nomads who once migrated across Ankaris, are organized into tribal confederations: northern taiga clans whose lifeways are closer to the Nordmal than to their southern kindred; central forest-river tribes who fish, farm in clearings, and trade along the rivers; and eastern frontier tribes who deal with Velanthian grain-belt princes on terms ranging from cautious commerce to open raid. Vrystwald is filled with dark pine and birch forests, fog-covered river valleys, and ancient ruins.
+South and east of the [[place-nrdlndsrgn|Nordlands]] proper lies the roadless interior of Vrystwald—the Varokh homeland of taiga, mixed forest, slow brown rivers, and lake systems. [[place-aureldirgn|Aurèldía]] lies to its south and [[place-velanthrgn|Velanthia]] to its east. The Varokh, descendants of the Pelwar nomads who once migrated across Ankaris, live in independent villages across the region: northern taiga clans whose lifeways are closer to the Nordmal than to their southern kindred; central forest-river villages that fish, farm in clearings, and trade along the rivers; and eastern frontier villages that deal with Velanthian grain-belt princes on terms ranging from cautious commerce to open raid. Vrystwald is filled with dark pine and birch forests, fog-covered river valleys, and ancient ruins.
 
 ## Geography
 
@@ -102,11 +102,19 @@ under no obligation whatever to be brought.
 There are **no cities in Vrystwald and no towns**. There never have been.
 
 What there is, is villages—thousands of them, scattered through forest clearings and strung along the
-riverbanks, most of them a few score people and a palisade. Some are considerably larger, and where they
-are larger it is always for the same reason: **the trade is better there**. A landing on a good stretch
-of river, a portage between two water systems, a confluence, a crossing—those villages grow into
-something a stranger might mistake for a small town, and are still villages, because nothing about how
-they are governed or held together changes with the size.
+riverbanks, ordinarily holding about 200 to 500 people behind a palisade. Below 200 a village cannot send
+out part of its muster and still hold its own wall, so its people join another village. Smaller places
+are camps, trapline stations, shrines with keepers or worked landings, not villages. A village at the
+upper end can send roughly half its fighters out while the rest defend it; the band is large enough to
+divide, but not large enough to support another governing layer.
+
+Good trade draws people to a landing, portage, confluence or crossing, but a village cannot simply keep
+growing. Above 500, the three elders could no longer govern directly; someone would have to answer to
+someone between them and the people. The Varokh refuse that hierarchy. Instead the village splits, and
+a daughter village of its own kin takes ground the parent once used. That division often gives the two
+villages their first feud. [[place-waldburg|Waldburg]], with 800 people at its river crossing, is the
+conspicuous exception whose strained triad must be understood on its own terms. The repeated split,
+rather than growth into towns, makes Vrystwald a country of many villages and no urban centre.
 
 This is the plainest statement of what the Varokh are. A people with no urban places has no seat of
 power to seize, no treasury to sack, no walls whose fall decides anything, and no single point at which
@@ -215,7 +223,7 @@ outlasted every enemy it ever had without ever once threatening to conquer one.
 
 ## Culture and Society
 
-The Varokh are organized into tribal confederations, each led by a War Chief who rules by consensus and martial prowess rather than hereditary right. The tribes are fiercely independent, often warring among themselves, but they unite against external threats with a ferocity that has broken more than one Vylarian legion.
+Each Varokh village has its own triad of elders and its own war-band. Villages distrust and often fight one another. When imminent danger demands several villages' strength, their elders can agree on a joint response and raise a common War Chief; both the agreement and his wider command end with that response. This brief unity has broken more than one Vylarian legion without leaving a government behind it.
 
 Varokh culture prizes personal courage, loyalty to one's war-band, and a deep reverence for the forest and its spirits. Their oral traditions are rich with tales of giant-slayers, spirit-walkers, and great heroes whose deeds echo through the ages. Craftwork—particularly woodcarving, leatherwork, and ironsmithing—is highly valued, and Varokh weapons, while less refined than Vylarian steel, are sturdy and effective.
 
@@ -223,9 +231,9 @@ Settlements range from small forest homesteads to hilltop fortresses surrounded 
 
 ## Religion
 
-Religious practice in Vrystwald is syncretic. The northern tribes worship gods recognizable from the [[affiliation-asguardian|Asguardian Pantheon]], particularly **Ódvar** and the nature spirits. The eastern tribes, influenced by centuries of contact with [[affiliation-vylarinmpr|Vylarian Empire]], have adopted elements of the [[affiliation-arldnpnthn|Aurèldían Pantheon]], particularly the worship of [[affiliation-arldnpnthn|Karnavos]] (The Wild Beast), whose domains of wilderness and primal chaos resonate deeply with Varokh sensibilities.
+Each village keeps one totem, and its Shaman tends the rites and the spirits of its forest. Sacred groves and the oldest trees matter more than any foreign pantheon. A person may bring a foreign god home through captivity, marriage or long residence abroad, but the village does not take up a neighbor's pantheon as its own.
 
-Regardless of which gods they name, the Varokh share a deep animistic reverence for the forest itself. Sacred groves serve as temples, and the oldest trees are believed to house powerful spirits. Druids and wise-women serve as spiritual leaders, performing rituals at the turning of the seasons and mediating between the mortal world and the spirit realm.
+The village's rites are its own, even when a visitor or a household member brings a different name to a grove. That difference can trouble the Shaman's authority without giving the visitor's god a place beside the village's totem.
 
 ## Magic
 
@@ -249,9 +257,9 @@ The [[affiliation-vylarinmpr|Vylarian Empire]] lies to the south and southeast. 
 
 ## Notable Features
 
-- **The Deepwood:** The heartland of Vrystwald, a forest so ancient and dense that sunlight barely reaches the floor. Home to the most traditional Varokh clans and reputed to be filled with supernatural beings.
+- **The Deepwood:** An ancient central forest so dense that sunlight barely reaches the floor. Home to some of the most traditional Varokh villages and reputed to be filled with supernatural beings.
 - **The Vylarian Ruins:** Crumbling forts, roads, and settlements from the high-imperial Vylarian eastern reach, now overgrown and reclaimed by the southeastern forest. Some are believed to hold buried treasures or ancient secrets.
-- **The Common Council:** An irregular gathering where the Varokh tribes attempt to resolve disputes and coordinate against external threats—rarely successful, but always dramatic.
+- **The Common Council:** A brief gathering of village elders when imminent danger requires several villages to act together. The agreement ends with their response.
 
 ## See Also
 
@@ -261,5 +269,4 @@ The [[affiliation-vylarinmpr|Vylarian Empire]] lies to the south and southeast. 
 - [[place-khzryndsrtrgn|Khazryn Desert Region]]—farther east, beyond Velanthia
 - [[affiliation-vylarinmpr|Vylarian Empire]]—southern imperial power, source of the forest ruins
 - [[skill-varokhlng|Varokhi]]—naming conventions
-- [[affiliation-asguardian|Asguardian Pantheon]]—pantheon
 - [[place-ankrscntnnt|Ankaris Continent]]—parent continent

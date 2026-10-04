@@ -3,15 +3,15 @@ shortcode: vrystwldtrbs
 name: {full: Vrystwald Tribes, aliases: []}
 type: affiliation
 subType: polity
-description: "Confederation of warrior tribes inhabiting the Vrystwald forests—hardy people bound by clan honor, hunting tradition, and resistance to foreign rule."
+description: "Varokh villages of the Vrystwald, each governed by its own three elders and bound to no common seat or lasting council."
 data:
   templatePriority: null
   demonym: Varokh
   epithet: null
   symbol: null
   governance:
-    model: confederation
-    summary: Tribal chiefs with a seasonal great-moot tradition.
+    model: council
+    summary: Co-equal Shaman, War Chief and Other Chief govern each village; a common command exists only for an imminent danger that several villages must face together.
     ranks:
       - level: 0
         title: Vrystrith
@@ -45,23 +45,22 @@ data:
           Holds one of the three seats that govern a village together, so that the village's vote never ties: the Shaman, the War Chief or the Other Chief, each reached and lost by its own measure rather than by descent.
     offices:
       Ríkár: >-
-        Presiding officer of the common council, keeping its peace and the order of its speaking—a different charge from the Hárthúl's command, though one man may hold both.
+        Chairs a council called to answer imminent danger, keeping its peace and the order of its speaking; the charge ends when the council disperses.
       Hárthúl: >-
-        Temporary command over several tribes, raised only when every tribe lays its fragment of the Sundered Talisman together, and dissolving the moment the crisis that called it passes.
+        War Chief of a village; one may command several villages only when their elders agree to face an imminent danger together, and that wider command ends with the response.
       Theódár: >-
-        Answers for the village in everything that is neither war nor the spirit's business—custom held in common and arbitrated where two tribes' differ, as Dómrád, and blood owed and paid between kindreds, as Skathár.
+        Answers for the village in everything that is neither war nor the spirit's business—its trade and custom, a particular dispute it accepts for arbitration, and blood owed and paid between kindreds.
       Dómrád: >-
-        Keeper of the customs the tribes hold in common, and arbiter where two tribes' customs differ.
-      Hildskald: Summoner of the common muster when a threat concerns every tribe.
-      Frithmund: Holder of the peace at the council and at the seasonal markets, empowered to enforce it.
+        Arbiter of a village's customs, or of a particular dispute whose parties accept the judgment; no common court stands above the villages.
+      Hildskald: Summoner of a joint muster agreed by villages facing the same imminent danger; the charge ends with the muster.
+      Frithmund: Holder of the peace at a meeting or seasonal market by the custom observed by those present, without a wider command.
       Thalthúl: >-
-        Keeper of the wells, springs or pastures the tribes share, and of the order in which they are used.
+        Keeper of a village's wells, springs or pastures and of the order in which they are used.
       Véthrith: >-
         Holder of the routes—their water, their seasons and their dangers—and hired at a price accordingly.
-      Athalthúl: Sent to treat with a settled power, and protected by custom while he carries the word.
+      Athalthúl: Sent by a village to treat with a settled power and protected by custom while carrying its word.
       Skathár: >-
         Recorder of blood owed and blood paid between kindreds, without whom a settlement cannot be reckoned.
-  seat: waldburg
   domains: [vrystwald]
   population: 500000
   economy: [affiliation-clgmrgntrrm, lore-bartercnmy, lore-kinhalcrdt, lore-vylrncrncy]
@@ -74,13 +73,15 @@ sohl: {system: {commonSkills: [varokhlng]}}
 
 ## Overview
 
-The Vrystwald Tribes are a collection of Varokh clans and tribal groups that inhabit the vast primeval forests between the Nordmen kingdoms to the north and the [[affiliation-vylarinmpr|Vylarian Empire]] to the south. They are not a unified polity in any meaningful sense—the tribes fight among themselves as often as they raid their neighbors—but they share a common language, common gods, and a fierce commitment to their ancestral forests.
+The Vrystwald Tribes are the Varokh clans and villages of the vast forests between the Nordmen kingdoms to the north and the [[affiliation-vylarinmpr|Vylarian Empire]] to the south. They share a language and a fierce commitment to their ancestral forests, but distrust other tribes and fight among themselves. This name gathers a people, not a government over them.
 
 ## Government
 
-Each tribe is led by a chief whose authority rests on personal prowess, wisdom, and the support of the tribe's warriors. Chiefs are not hereditary in principle, though strong families tend to produce successive leaders. Decisions affecting the whole tribe are made at moots where every free warrior has a voice.
+Each village is governed by three co-equal Fródrád elders: the Shaman, the War Chief and the Other Chief. The Shaman keeps the village's one totem and handles its rites and spiritual needs. His authority reaches even to banishing a War Chief who acts against the spirits, but whether the other elders and the village accept that judgment is a political question. The War Chief directs the war-band and internal security; his authority ends there. The Other Chief handles trade, custom, debts and the village's dealings with outsiders. Each has one vote, so a decision of the three cannot tie. None is a chieftain over the other two.
 
-When an external threat demands coordination—a Vylarian punitive expedition, a Grukar incursion, or a particularly harsh winter—the tribes hold a great-moot to choose a war-chief with temporary authority over multiple tribes. These alliances dissolve as soon as the crisis passes, and attempts to create permanent unity have always failed.
+The seats pass in different ways. The Shaman trains and designates one apprentice to succeed him. The War Chief's band leaders earn their claim by what they have done, and succession among them is contested. The people acclaim an Other Chief from the Hródthúl Respected who have proved themselves in the village's work. These assistants also serve the other two elders, but their standing gives them no seat until they take one of the three offices.
+
+Nothing solidly organized sits above a village. Varokh generally distrust other tribes. Only when danger is imminent and several villages need one another may their elders agree on a joint response, acclaim a common War Chief and call a muster. That command and the council that agreed it end as soon as the response ends. Trade and the market peace at Waldburg depend on custom and each party's interest; they grant no tribe authority over another and do not keep a council sitting between dangers.
 
 ## Character
 
@@ -98,4 +99,3 @@ Vrystwald Tribes uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo / 
 - [[affiliation-vylarinmpr|Vylarian Empire]]—Southern enemy
 - [[affiliation-provncmktr|Province of Moktur]]—Frontier neighbor
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]—Kin by blood, not by liking
-- [[affiliation-asguardian|Asguardian Pantheon]]—Pantheon
