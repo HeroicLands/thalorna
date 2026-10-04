@@ -11,7 +11,7 @@ data:
   symbol: null
   governance:
     model: council
-    summary: Co-equal Shaman, War Chief and Other Chief govern each village; a common command exists only for an imminent danger that several villages must face together.
+    summary: Co-equal Weskár (Shaman), War Chief and Other Chief govern each village; a common command exists only for an imminent danger that several villages must face together.
     ranks:
       - level: 0
         title: Vrystrith
@@ -44,6 +44,8 @@ data:
         description: >-
           Holds one of the three seats that govern a village together, so that the village's vote never ties: the Shaman, the War Chief or the Other Chief, each reached and lost by its own measure rather than by descent.
     offices:
+      Weskár: >-
+        Shaman of a village, keeper of its one totem and every rite and spiritual need of its people; one of the three co-equal elders.
       Ríkár: >-
         Chairs a council called to answer imminent danger, keeping its peace and the order of its speaking; the charge ends when the council disperses.
       Hárthúl: >-
@@ -77,7 +79,7 @@ The Vrystwald Tribes are the Varokh clans and villages of the vast forests betwe
 
 ## Government
 
-Each village is governed by three co-equal Fródrád elders: the Shaman, the War Chief and the Other Chief. The Shaman keeps the village's one totem and handles its rites and spiritual needs. His authority reaches even to banishing a War Chief who acts against the spirits, but whether the other elders and the village accept that judgment is a political question. The War Chief directs the war-band and internal security; his authority ends there. The Other Chief handles trade, custom, debts and the village's dealings with outsiders. Each has one vote, so a decision of the three cannot tie. None is a chieftain over the other two.
+Each village is governed by three co-equal Fródrád elders: the **Weskár** (Shaman), the War Chief and the Other Chief. The Weskár keeps the village's one _wesk_, its totem, and handles its rites and spiritual needs. His authority reaches even to banishing a War Chief who acts against the spirits, but whether the other elders and the village accept that judgment is a political question. The War Chief directs the war-band and internal security; his authority ends there. The Other Chief handles trade, custom, debts and the village's dealings with outsiders. Each has one vote, so a decision of the three cannot tie. None is a chieftain over the other two.
 
 The seats pass in different ways. The Shaman trains and designates one apprentice to succeed him. The War Chief's band leaders earn their claim by what they have done, and succession among them is contested. The people acclaim an Other Chief from the Hródthúl Respected who have proved themselves in the village's work. These assistants also serve the other two elders, but their standing gives them no seat until they take one of the three offices.
 
