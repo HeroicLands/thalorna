@@ -92,6 +92,10 @@ a `package:` key on a note is a hard build error, naming the file and the line.
 Do not add it back — not even with the value `thalorna`, which is refused
 exactly as any other is.
 
+## Eichengrund names and totems
+
+Eichengrund is the village, clan and tribe of its residents; use `Eichengrund` in their `name.clan` and living clan references. Its shared _wesk_ is the boar. Personal totems may reflect individual personalities and are not mandatory. Preserve former full names as historical aliases and update the existing person row in `utils/nordmal-concordance.json` when correcting a name.
+
 ## Deriving a shortcode from a name
 
 A shortcode is built from a note's `name.full` (or, for a note whose identity
