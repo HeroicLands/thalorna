@@ -7,6 +7,7 @@ description: "Craft, Invention and the Made."
 tags: [asguardian]
 data:
   banner: faithbnr
+  icon: motefnir
   templatePriority: null
   demonym: null
   epithet: The Maker
