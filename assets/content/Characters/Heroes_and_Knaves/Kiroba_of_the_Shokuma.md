@@ -13,7 +13,7 @@ data:
   lore: []
   culture: okharinclt
   homes: [ithrakor]
-  affiliations: {okharis: {rank: 2}}
+  affiliations: {okharis: {rank: 2}, nkaruthar: {rank: 1}, njiayaroho: {rank: 3}}
   gender: male
   species: humanflk
   born: "692.32"
@@ -43,8 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 15}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-nkaruthar}
-    - {model: affiliation-njiayaroho}
     - {model: skill-kivulisprt, system: {masteryLevelBase: 52}}
     - {model: skill-mamamitosprt, system: {masteryLevelBase: 40}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 30}}

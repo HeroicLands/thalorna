@@ -13,7 +13,7 @@ data:
   lore: []
   culture: elavendriclt
   homes: [liranel]
-  affiliations: {kngdmlvndr: {rank: 2}}
+  affiliations: {kngdmlvndr: {rank: 2}, florania: {rank: 1}}
   gender: male
   species: humanflk
   born: 683.264
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 10}}
-    - {model: affiliation-florania}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 32}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 32}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 64}}

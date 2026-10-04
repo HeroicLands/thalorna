@@ -13,7 +13,11 @@ data:
   lore: []
   culture: elavendriclt
   homes: [elavendre]
-  affiliations: {slntlncmpny: {rank: 3}, ordoarcanis: {rank: 3}, kngdmlvndr: {rank: 2}}
+  affiliations:
+    slntlncmpny: {rank: 3}
+    ordoarcanis: {rank: 3}
+    kngdmlvndr: {rank: 2}
+    menerva: {rank: 1}
   gender: female
   species: humanflk
   born: 693.329
@@ -43,7 +47,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 10}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 16}}
-    - {model: affiliation-menerva}
     - {model: sohl-sohl-skill-chrm, system: {masteryLevelBase: 70}}
     - {model: sohl-sohl-skill-cmd, system: {masteryLevelBase: 20}}
     - {model: sohl-sohl-skill-dscr, system: {masteryLevelBase: 24}}

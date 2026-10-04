@@ -13,7 +13,7 @@ data:
   lore: []
   culture: byzarianclt
   homes: [byzaris]
-  affiliations: {byzarianlg: {rank: 3}}
+  affiliations: {byzarianlg: {rank: 3}, florania: {rank: 1}}
   gender: female
   species: humanflk
   born: 683.247
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 15}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 15}}
-    - {model: affiliation-florania}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 32}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 32}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 85}}

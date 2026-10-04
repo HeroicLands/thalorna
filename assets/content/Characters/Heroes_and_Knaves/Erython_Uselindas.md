@@ -13,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [nartum]
-  affiliations: {hlykngdmnrtm: {rank: 2}}
+  affiliations: {hlykngdmnrtm: {rank: 2}, florania: {rank: 1}}
   gender: male
   species: humanflk
   born: "688.250"
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-florania}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 45}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 13}}

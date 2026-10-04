@@ -13,7 +13,7 @@ data:
   lore: []
   culture: kaliharanclt
   homes: [vashuran]
-  affiliations: {kalihara: {rank: 3}}
+  affiliations: {kalihara: {rank: 3}, lusinia: {rank: 1}}
   gender: male
   species: humanflk
   born: "680.100"
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 9}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 10}}
-    - {model: affiliation-lusinia}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 39}}

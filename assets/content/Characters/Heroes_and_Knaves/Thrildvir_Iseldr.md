@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [hrandstead]
-  affiliations: {kngdmvthgrd: {rank: 3}}
+  affiliations: {kngdmvthgrd: {rank: 3}, eidgar: {rank: 1}}
   gender: male
   species: humanflk
   born: 676.278
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 13}}
-    - {model: affiliation-eidgar}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 39}}
     - {model: sohl-sohl-skill-law, system: {masteryLevelBase: 13}}

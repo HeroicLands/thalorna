@@ -13,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [belekos]
-  affiliations: {provinclys: {rank: 3}}
+  affiliations: {provinclys: {rank: 3}, janus: {rank: 1}}
   gender: female
   species: humanflk
   born: 693.93
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 11}}
-    - {model: affiliation-janus}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 36}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 11}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 11}}

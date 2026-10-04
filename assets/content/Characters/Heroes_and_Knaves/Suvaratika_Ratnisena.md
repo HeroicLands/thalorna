@@ -13,7 +13,7 @@ data:
   lore: []
   culture: vedyariclt
   homes: [chandrapur2]
-  affiliations: {chandrapur: {rank: 2}}
+  affiliations: {chandrapur: {rank: 2}, varakpnthn: {rank: 1}}
   gender: female
   species: humanflk
   born: 681.95
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 13}}
-    - {model: affiliation-varakpnthn}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-eng, system: {masteryLevelBase: 14}}
