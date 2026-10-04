@@ -16,9 +16,9 @@ data:
       A framework rather than a house: it admits whoever is taught it, and every standing a person holds within it is held in one of its six Eídmata.
     ranks:
       - level: 1
-        title: Initiate of the Six Ways
+        title: Adherent
         description: >-
-          Taught to reckon the arcane by the six Eídmata and holding that reckoning as the structure of magic itself. Every mage of the Ordo begins here, whatever Eídma they are admitted to, and a scholar may hold the framework without ever being admitted to one.
+          Reckons the arcane by the six Eídmata and holds that reckoning as the structure of magic itself. Every mage of the Ordo stands here, whatever Eídma admits them, and a scholar may hold the framework without ever being admitted to one.
     offices: {}
   seat: null
   domains: []

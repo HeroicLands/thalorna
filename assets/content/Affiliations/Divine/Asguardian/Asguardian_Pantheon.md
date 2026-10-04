@@ -15,7 +15,11 @@ data:
     model: confederation
     summary: >-
       Worship is decentralized on principle—no pontiff, no temple primacy, no continental synod—and the pantheon confers no standing of its own: each faith keeps its own clergy, its own liturgy and its own ranks, and nothing above them presides, admits or expels. What joins the Ten into one confederation is not an institution but a shared mythology, a shared calendar of seasonal blóts, and a shared ritual grammar—the runes, the mead poured in offering, the ancestral tongue spoken at the high ceremonies, and the binding weight of the spoken oath.
-    ranks: []
+    ranks:
+      - level: 1
+        title: Adherent
+        description: >-
+          Holds to the Ten—keeps the seasonal blóts, pours the mead, swears by the runes and the ancestral tongue—without professing any one of the faiths within the confederation. Nearly every Nordlander stands here, and a person who also holds a standing in a faith of the Ten holds both.
     offices:
       Hofsfadir / Hofsmódir: >-
         Founder of a hof, honored as its father or mother for life.
