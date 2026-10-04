@@ -33,7 +33,7 @@ The villages war among themselves constantly and distrust one another even at a 
 
 ## The Forest Is the Temple
 
-Each village keeps one totem, and its Shaman keeps the rites and every spiritual need of the village. A totem belongs to that village, not to a northern or southern pantheon. The Varokh's reverence is for the forest itself: sacred groves are the temples, the oldest trees house powerful spirits and are addressed as such, and the Shaman mediates with them at the turning of the seasons. His authority over the spirits is independent of the War Chief and the Other Chief.
+Each village keeps one _wesk_, its totem, and its **Weskár** (Shaman) keeps the rites and every spiritual need of the village. The _wesketh_ binds a person or village to that spirit; _eldwesk_ names an ancestral spirit addressed through it. A totem belongs to that village, not to a northern or southern pantheon. The Varokh's reverence is for the forest itself: sacred groves are the temples, the oldest trees house powerful spirits and are addressed as such, and the Weskár mediates with them at the turning of the seasons. His authority over the spirits is independent of the War Chief and the Other Chief.
 
 A god of the Ten takes root in a Varokh only on narrow terms—a captive raised among the Nordmen, a trader long settled at their landings, a wife married across the Falkenstein frontier—and never as a casual borrowing from the people nearest to being counted kin. What never takes root on any terms is a foreign attitude to the forest: that would be a change of substance, not a name.
 

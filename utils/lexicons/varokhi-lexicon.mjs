@@ -21,8 +21,8 @@
  * note's own tables at run time: the letters and the digraphs, the openings, the
  * closings, the consonant band and the beat count, the diphthongs, the linking
  * pieces, the elements, the ground-closings, the office closings, the closings a
- * woman's name takes, the kept words, the bynames the page renders in the
- * reader's tongue, and the marks the romanisation writes and refuses. Nothing is
+ * woman's name takes, the kept words, the bynames the page renders in either
+ * tongue, and the marks the romanisation writes and refuses. Nothing is
  * restated, because a second copy of a rule drifts from the first the moment
  * either is edited, and the note is where a phonology is settled.
  *
@@ -79,10 +79,9 @@
  * 2. **The feminine `-a` belongs to a given name.** A clan name is unmarked for
  *    gender, so the `-a` is not offered there, and `Thaldrá` passes on the
  *    `-drá` row rather than on a closing that never existed.
- * 3. **A byname is not a Varokhi word.** The note renders bynames in the
- *    reader's tongue, so the Crow and the Weasel are counted and read past.
- *    Every one is printed, because a filter nobody can see is a filter nobody
- *    can check.
+ * 3. **A byname is not a two-element name.** The Crow and the Weasel are
+ *    translated, while Thornak's Varokhi epithet is checked against the
+ *    ordinary words the note publishes. Both kinds are printed.
  *
  * A guard proves completeness, never accuracy. Whether `-mund` is well glossed
  * as protection is a judgement; whether Ármund is formed the way the note says a
@@ -486,6 +485,11 @@ export function lexiconFrom(text) {
             )
             .filter(Boolean),
     );
+    const nativeBynames = new Set(
+        [...bynameSection.matchAll(/retained in Varokhi, as [^\n]*?\*\*([^*]+)\*\*/g)].map(
+            (match) => match[1],
+        ),
+    );
 
     // The marks the romanisation writes, from its `written` column, and the ones
     // it refuses, from its `never` column. Both halves are read, because a mark
@@ -526,6 +530,7 @@ export function lexiconFrom(text) {
         kept,
         joiner,
         readerTongue,
+        nativeBynames,
         written,
         refused,
     };
@@ -1133,6 +1138,27 @@ function main() {
     out.push(...checkElements(rule, note));
     out.push(...checkDerivation(rule, names, note));
     out.push(...checkLists(names, rule));
+    const ordinaryWords = [...rule.kept].filter((word) => !word.includes("-"));
+    const spokenAsWords = (phrase) => {
+        const pieces = phrase.toLowerCase().split(/\s+/);
+        const canRead = (part) =>
+            !part ||
+            ordinaryWords.some((word) => part.startsWith(word) && canRead(part.slice(word.length)));
+        return pieces.every(canRead);
+    };
+    for (const byname of rule.nativeBynames) {
+        if (bynames.includes(byname) && spokenAsWords(byname)) continue;
+        const { line, column } = positionOf(note, byname);
+        out.push(
+            finding(
+                NOTE,
+                line,
+                column,
+                "error",
+                `the Varokhi byname "${byname}" is absent from the corpus or contains an unpublished word`,
+            ),
+        );
+    }
 
     for (const line of out) console.error(line);
 
@@ -1185,8 +1211,11 @@ function main() {
     const distinct = [...new Set(bynames)].sort((a, b) => a.localeCompare(b, "en"));
     say(
         distinct.length ?
-            `Read past as bynames, which the note renders in the reader's tongue (${distinct.length}): ${distinct.join(", ")}`
+            `Read past as bynames (${distinct.length}): ${distinct.join(", ")}`
         :   "No byname was read past.",
+    );
+    say(
+        `Varokhi bynames read as published ordinary words: ${[...rule.nativeBynames].join(", ") || "none"}`,
     );
     const framed = [...new Set(titles)].sort((a, b) => a.localeCompare(b, "en"));
     say(
