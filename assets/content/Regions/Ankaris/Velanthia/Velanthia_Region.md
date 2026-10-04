@@ -13,6 +13,7 @@ data:
   borders:
     - {to: nrdlndsrgn, bearing: NW}
     - {to: vrystwald, bearing: W}
+    - {to: thornwald, bearing: W}
     - {to: khzryndsrtrgn, bearing: E}
     - {to: vylariargn, bearing: S}
     - {to: heladrgn, bearing: S}
@@ -95,13 +96,11 @@ Major external threats have come repeatedly from two directions: the western Nor
 
 To the **northwest** lie the [[place-nrdlndsrgn|Nordlands]]. Relations are old, complicated, and generally tense—Nordmal princes consider Velanthia a frontier prize that someone, eventually, will take; Velanthian princes consider the Nordmal a perpetual problem requiring careful management. Trade is substantial despite the friction; intermarriage among the western princely houses and the eastern Nordmal jarls is common.
 
-To the **northwest** lies the [[place-grkrhlmrgn|Grukarhölm]]—the Grukar enclave wedged into the eastern Nordlands forest. Velanthian-Grukar relations are minimal and cordial; the Grukari have no territorial designs on the river-kingdoms, and the Velanthians treat the Grukar holds as a useful buffer between themselves and the deeper Nordmal kingdoms beyond.
+Between Velanthia's northern belt and southeastern pocket lies the [[place-grkrhlmrgn|Grukarholm]] country, where Grukar nests are especially prevalent. Its extent has no fixed border. Velanthian-Grukar relations are minimal and cordial; the Velanthians treat the Grukar holds as a buffer between their settlements and more dangerous forest routes.
 
 To the **west** lies [[place-vrystwald|Vrystwald]]—the Varokh forest country between Velanthia and Aurèldía. The Vrystwald-Velanthian frontier is the most permeable border in the region: the Varokh tribes and the Velanthian river-prince and grain-belt populations have intermarried, traded, and shared frontier garrisons for many generations. The Velanthian river-princes consider them useful auxiliaries and unreliable subjects in approximately equal measure.
 
 To the **east** lies the vast [[place-khzryndsrtrgn|Khazryn]]. The relationship is the central strategic fact of Velanthian existence. Across a long, fluid frontier, Velanthian Hosts and Khazryn confederations conduct a continuous low-level commerce of trade, raid, alliance, and intermarriage. When a great khan rises in the central Khazryn, the relationship turns dangerous; in the long stretches between, it is workable.
-
-To the **south** lies the [[place-heladrgn|Hellád]] across the southern uplands. Velanthian grain feeds Helladic cities; Helladic philosophy, medicine, and luxury goods flow north. The two regions are good commercial partners and have rarely come into political conflict.
 
 To the **south** lie [[place-vylariargn|Vylaría]] and the [[place-heladrgn|Hellád]]. Velanthian grain feeds their cities; finished goods and scholarship flow north. Farther southeast, beyond the Khazryn, lie the [[affiliation-sultntmrdd|Sultanate of Amradad]] and the broader [[place-dunharargn|Dunhara]].
 
@@ -111,7 +110,7 @@ To the **south** lie [[place-vylariargn|Vylaría]] and the [[place-heladrgn|Hell
 - [[place-vrystwald|Vrystwald]]—western neighbor across the most permeable frontier
 - [[place-khzryndsrtrgn|Khazryn Desert Region]]—eastern frontier
 - [[place-heladrgn|Hellád Region]]—southern trading partner
-- [[place-grkrhlmrgn|Grukarholm Region]]—northwestern enclave-buffer
+- [[place-grkrhlmrgn|Grukarholm Region]]—Grukar concentration between Velanthia's northern and southeastern reaches
 - [[affiliation-sultntmrdd|Sultanate of Amradad]]—eastern-shore trading partner
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—formal religion
 - [[place-ankrscntnnt|Ankaris Continent]]—parent continent

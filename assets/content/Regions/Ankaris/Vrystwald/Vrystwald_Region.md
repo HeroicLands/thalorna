@@ -11,8 +11,13 @@ data:
   borders:
     - {to: nrdlndsrgn, bearing: NW}
     - {to: aureldirgn, bearing: S}
+    - {to: elavendre, bearing: SW}
     - {to: velanthrgn, bearing: E}
+    - {to: vylariargn, bearing: SE}
   population: 500000
+  routes:
+    - {to: falkhaven, bearing: W, mode: land, days: 90, terrain: [forest]}
+    - {to: vandstein, bearing: SE, mode: land, days: 90, terrain: [forest, mountains]}
   packFolder: vrystwald
 
 # terran_analog: "A forest-and-river frontier between the northwestern kingdoms and the eastern grain belt."
@@ -28,8 +33,10 @@ Vrystwald occupies the forest belt between the western Nordmal kingdoms, Aurèld
 
 - The **northern taiga**—endless boreal forest of spruce, pine, fir, and birch, lightly populated by hunter-fisher-trapper Varokh clans whose lifeways look more taiga-clan than Nordmal. The taiga's furs are a major Vrystwaldi export.
 - The **central mixed-forest belt**—the heartland: dense mixed woodlands of pine, spruce, oak, beech, and birch, broken by clearings, rivers, and the great inland lakes. Most of the Varokh population lives here, scattered across innumerable small forest-clearings and along the river-courses.
-- The **great river systems**—slow brown rivers that cross the interior and link its settlements. The rivers are the principal long-distance transport, trade routes, and sites of Varokh settlement (clearings along the banks, fortified hilltops at the junctions). In winter the frozen rivers become highways for sleds and warbands.
+- The [[place-vrystwldrvrs|great river systems]]—slow brown rivers that cross the interior and link its settlements. Some waters leave the forest to the west; others pass through neighboring lands toward the inland sea, which does not touch Vrystwald. In winter the frozen rivers become highways for sleds and warbands.
 - The **eastern frontier**—the fluid border with [[place-velanthrgn|Velanthia]], where Vrystwaldi forest gives way gradually to Velanthian grain-belt and the two cultures meet in mixed villages, intermarriage, and intermittent raids.
+
+Five reaches describe the forest's different contacts: [[place-falkhaven|Falkhaven]] faces the western shore and Nordmal frontier; [[place-edrwald|Edrwald]] turns around the bay toward [[place-elavendre|Élavendre]]; [[place-thornwald|Thornwald]] meets Velanthia to the east; [[place-skathwald|Skathwald]] lies where Grukar nests grow more prevalent; and [[place-vandstein|Vandstein]] faces the southern highlands toward Vylaría. These are descriptions of ground and contact, not governments. [[place-vethwald|Véthwald]], the Deepwood, lies within the forest interior.
 
 The climate is harsh-continental: long bitter winters with deep snow, brief warm summers, distinct spring thaw and autumn freeze. Sunlight is filtered by the canopy through most of the year; the open river-valleys and the lake-shores get the direct sun the deep forest never sees.
 
@@ -69,16 +76,7 @@ Vrystwald holds about **500,000** people, spread very thinly across an enormous 
 soul to two square miles of it, averaged out, which is a figure that means nothing until you stand in the
 forest and understand that the average is a lie in both directions.
 
-- The **northern taiga** is nearly empty: hunter-fisher-trapper clans at densities no farming people would
-  recognize, working furs that are worth more than the country they come from.
-- The **central mixed-forest belt** holds most of the Varokh—but "most" means innumerable small
-  clearings, not towns, and the density even here is a fraction of what the Aurèldían grain kingdoms
-  carry.
-- The **river-courses** are where settlement actually concentrates: the rivers are the roads, the trade
-  and the sites, and a map of Vrystwaldi population is essentially a map of its water.
-- The **eastern frontier** with [[place-velanthrgn|Velanthia]] is the densest ground in the region, where
-  forest gives way to grain-belt and the two peoples interpenetrate through a thousand miles of mixed
-  villages and intermittent raiding.
+The taiga is sparsely inhabited by hunters, fishers and trappers; most people live in mixed-forest clearings and along river courses. The river landings and the [[place-thornwald|Velanthian reach]] draw more people than the deep interior. These patterns cross the five frontier reaches rather than defining village governments of their own.
 
 That is a **small** people by any standard an Aurèldían would apply—a fraction of what the
 [[place-nrdlndsrgn|Nordlands]] carry, and a rounding error beside the grain kingdoms of the west. The
@@ -130,7 +128,7 @@ fish.
 And **slaves**.
 
 It would be strange if they did not. They raid, and raiding produces captives as surely as it produces
-cattle; their northeastern frontier runs a thousand miles against the [[place-velanthrgn|Velanthian]]
+cattle; their northeastern frontier meets the [[place-velanthrgn|Velanthian]]
 grain-belt, which is full of villages worth raiding; the rivers that carry their furs run straight to
 markets in every direction; and the best customers in the world are their immediate neighbors. The
 [[place-nrdlndsrgn|Nordmen]] run a thrall economy—the Jarldom of
@@ -257,13 +255,15 @@ The [[affiliation-vylarinmpr|Vylarian Empire]] lies to the south and southeast. 
 
 ## Notable Features
 
-- **The Deepwood:** An ancient central forest so dense that sunlight barely reaches the floor. Home to some of the most traditional Varokh villages and reputed to be filled with supernatural beings.
+- [[place-vethwald|The Deepwood]]: An ancient central forest so dense that sunlight barely reaches the floor. Home to some of the most traditional Varokh villages and reputed to be filled with supernatural beings.
 - **The Vylarian Ruins:** Crumbling forts, roads, and settlements from the high-imperial Vylarian eastern reach, now overgrown and reclaimed by the southeastern forest. Some are believed to hold buried treasures or ancient secrets.
 - **The Common Council:** A brief gathering of village elders when imminent danger requires several villages to act together. The agreement ends with their response.
 
 ## See Also
 
 - [[place-nrdlndsrgn|Nordlands Region]]—western neighbor
+- [[place-edrwald|Edrwald]]—the bayward forest facing [[place-elavendre|Elavendre]]
+- [[place-vrystwldrvrs|Vrystwald Rivers]]—the water routes crossing the forest
 - [[place-grkrhlmrgn|Grukarholm Region]]—hostile Grukar concentration in the neighboring forests
 - [[place-velanthrgn|Velanthia Region]]—eastern neighbor and most permeable frontier
 - [[place-khzryndsrtrgn|Khazryn Desert Region]]—farther east, beyond Velanthia

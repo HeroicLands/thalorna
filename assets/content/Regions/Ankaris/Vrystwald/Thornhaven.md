@@ -5,7 +5,7 @@ type: place
 subType: settlement
 description: "Settlement"
 tags: [settlement]
-data: {demonym: null, lore: [foxttm], parents: [vrystwald], population: 300, packFolder: vrystwald}
+data: {demonym: null, lore: [foxttm], parents: [thornwald], population: 300, packFolder: vrystwald}
 ---
 
 ## Overview
@@ -19,4 +19,4 @@ Thornhaven's tension runs along the same frontier that built it: a village this 
 ## See Also
 
 - [[affiliation-vrystwldtrbs|Vrystwald Tribes]]—The confederation this frontier village answers to
-- [[place-vrystwald|Vrystwald]]—The forest it stands in
+- [[place-thornwald|Thornwald]]—The Velanthian reach it stands in

@@ -8,7 +8,7 @@ tags: [village, fortified]
 data:
   demonym: null
   lore: [sturgeonttm]
-  parents: [vrystwald]
+  parents: [vrystwldrvrs]
   population: 450
   packFolder: vrystwald
 ---
@@ -24,4 +24,4 @@ Grimholt's one standing argument is with the tribes further up the same river, w
 ## See Also
 
 - [[affiliation-vrystwldtrbs|Vrystwald Tribes]]—The confederation this landing serves
-- [[place-vrystwald|Vrystwald]]—The forest it stands in
+- [[place-vrystwldrvrs|Vrystwald Rivers]]—The waterways its landing serves
