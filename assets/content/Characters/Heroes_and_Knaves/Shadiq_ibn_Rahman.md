@@ -17,7 +17,7 @@ data:
   lore: []
   culture: byzarianclt
   homes: [karatas2]
-  affiliations: {byzarianlg: {}}
+  affiliations: {byzarianlg: {rank: 6}}
   gender: male
   species: humanflk
   born: 692.286

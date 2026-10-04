@@ -14,7 +14,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [garanlaghet]
-  affiliations: {empireakhlth: {}}
+  affiliations: {empireakhlth: {rank: 3}}
   gender: male
   species: humanflk
   born: 682.219

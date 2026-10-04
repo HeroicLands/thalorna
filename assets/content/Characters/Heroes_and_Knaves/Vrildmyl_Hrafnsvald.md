@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [dvarnvik]
-  affiliations: {kngdmvthgrd: {}}
+  affiliations: {kngdmvthgrd: {rank: 3}}
   gender: male
   species: humanflk
   born: 691.141

@@ -6,7 +6,7 @@ subType: calendar
 description: "The Khelâthi calendar: three four-month seasons tracking the river's flood, planting and harvest, with five days added at the year's end to keep the count whole."
 tags: [reference, calendar]
 data:
-  epoch: -2110.1
+  epoch: "-2110.1"
   months:
     - {name: Azlet I, days: 30}
     - {name: Azlet II, days: 30}

@@ -13,7 +13,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [castamere]
-  affiliations: {kingdmtrvn: {}}
+  affiliations: {kingdmtrvn: {rank: 2}}
   gender: male
   species: humanflk
   born: 691.141

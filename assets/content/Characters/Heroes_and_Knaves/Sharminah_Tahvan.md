@@ -13,7 +13,7 @@ data:
   lore: []
   culture: khazrynclt
   homes: [kethramir]
-  affiliations: {tribestrzd: {}}
+  affiliations: {ataros: {rank: 2}}
   gender: female
   species: humanflk
   born: 688.86
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 16}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 7}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 13}}
-    - {model: affiliation-ataros}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 39}}

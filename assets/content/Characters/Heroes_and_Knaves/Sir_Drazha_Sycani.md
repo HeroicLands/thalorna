@@ -17,10 +17,10 @@ data:
   lore: []
   culture: byzarianclt
   homes: [karatas2]
-  affiliations: {byzarianlg: {}}
+  affiliations: {byzarianlg: {rank: 2}}
   gender: male
   species: humanflk
-  born: 677.200
+  born: "677.200"
   height: 1.93
   weight: 106.6
   frame: heavy

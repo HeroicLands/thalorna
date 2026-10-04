@@ -13,10 +13,10 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [knalthstead]
-  affiliations: {kngdmnrdhm: {}}
+  affiliations: {kngdmnrdhm: {rank: 3}}
   gender: male
   species: humanflk
-  born: 676.260
+  born: "676.260"
   height: 1.78
   weight: 71
   frame: heavy

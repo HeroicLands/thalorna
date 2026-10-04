@@ -13,7 +13,7 @@ data:
   lore: []
   culture: helioniteclt
   homes: [pelagora2]
-  affiliations: {pelagora: {}}
+  affiliations: {pelagora: {rank: 4}}
   gender: female
   species: humanflk
   born: 695.102

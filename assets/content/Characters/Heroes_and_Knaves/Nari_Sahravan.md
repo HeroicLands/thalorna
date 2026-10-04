@@ -13,7 +13,7 @@ data:
   lore: []
   culture: khazrynclt
   homes: [oasishirvn]
-  affiliations: {khzrncnfdrtn: {}}
+  affiliations: {khzrncnfdrtn: {rank: 5}}
   gender: female
   species: humanflk
   born: 687.198

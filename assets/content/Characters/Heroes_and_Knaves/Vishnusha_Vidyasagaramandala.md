@@ -13,7 +13,7 @@ data:
   lore: []
   culture: vedyariclt
   homes: [dhanurkota]
-  affiliations: {dhnrktjnpd: {}}
+  affiliations: {dhnrktjnpd: {rank: 2}}
   gender: male
   species: humanflk
   born: 684.106

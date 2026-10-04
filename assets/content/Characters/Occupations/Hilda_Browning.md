@@ -13,10 +13,10 @@ data:
   lore: []
   culture: aelwythanclt
   homes: [ashford]
-  affiliations: {kngdmldrth: {}}
+  affiliations: {kngdmldrth: {rank: 2}}
   gender: female
   species: humanflk
-  born: 700.35
+  born: "700.35"
   height: 1.68
   weight: 62
   frame: medium

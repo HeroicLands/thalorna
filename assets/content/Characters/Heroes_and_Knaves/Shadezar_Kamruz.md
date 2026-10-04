@@ -13,7 +13,7 @@ data:
   lore: []
   culture: dunhariclt
   homes: [dunashir]
-  affiliations: {dunhartrbs: {}}
+  affiliations: {dunhartrbs: {rank: 6}}
   socialTies: {affiliation-wrrscrcldnhrtrbs: patron}
   gender: male
   species: humanflk

@@ -13,7 +13,7 @@ data:
   lore: []
   culture: elavendriclt
   homes: [elavendre]
-  affiliations: {kngdmlvndr: {}}
+  affiliations: {kngdmlvndr: {rank: 2}}
   gender: male
   species: humanflk
   born: 685.246

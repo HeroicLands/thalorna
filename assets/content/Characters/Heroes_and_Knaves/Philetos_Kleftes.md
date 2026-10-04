@@ -17,10 +17,10 @@ data:
   lore: []
   culture: vylarianclt
   homes: [alyssar]
-  affiliations: {provinclys: {}}
+  affiliations: {provinclys: {rank: 4}}
   gender: male
   species: humanflk
-  born: 687.110
+  born: "687.110"
   height: 1.8
   weight: 78
   frame: heavy

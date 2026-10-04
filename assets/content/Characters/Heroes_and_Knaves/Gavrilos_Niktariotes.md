@@ -13,10 +13,10 @@ data:
   lore: []
   culture: byzarianclt
   homes: [chrysamar]
-  affiliations: {byzarianlg: {}}
+  affiliations: {byzarianlg: {rank: 3}}
   gender: male
   species: humanflk
-  born: 675.80
+  born: "675.80"
   height: 1.85
   weight: 82.1
   frame: medium

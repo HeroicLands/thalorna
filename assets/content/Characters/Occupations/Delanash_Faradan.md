@@ -13,7 +13,7 @@ data:
   lore: []
   culture: dunhariclt
   homes: [dunhardsrtrgn]
-  affiliations: {dunhartrbs: {}}
+  affiliations: {dunhartrbs: {rank: 3}}
   gender: female
   species: humanflk
   born: 679.325

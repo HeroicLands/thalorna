@@ -13,10 +13,10 @@ data:
   lore: []
   culture: haradianclt
   homes: [azhun2]
-  affiliations: {cnfdrtnhrdnstts: {}}
+  affiliations: {cnfdrtnhrdnstts: {rank: 3}}
   gender: female
   species: humanflk
-  born: 692.90
+  born: "692.90"
   height: 1.73
   weight: 67
   frame: light

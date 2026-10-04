@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [odholm]
-  affiliations: {kngdmnrdhm: {}}
+  affiliations: {kngdmnrdhm: {rank: 3}}
   gender: female
   species: humanflk
   born: 686.115

@@ -13,10 +13,10 @@ data:
   lore: []
   culture: haradianclt
   homes: [ashkabel2]
-  affiliations: {cnfdrtnhrdnstts: {}}
+  affiliations: {cnfdrtnhrdnstts: {rank: 3}}
   gender: male
   species: humanflk
-  born: 685.27
+  born: "685.27"
   height: 1.8
   weight: 73
   frame: medium

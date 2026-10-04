@@ -14,10 +14,10 @@ data:
   lore: []
   culture: khelathiclt
   homes: [galezkara]
-  affiliations: {empireakhlth: {}}
+  affiliations: {empireakhlth: {rank: 3}}
   gender: male
   species: humanflk
-  born: 662.32
+  born: "662.32"
   height: 1.75
   weight: 69.9
   frame: medium

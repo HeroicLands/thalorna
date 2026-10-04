@@ -13,7 +13,7 @@ data:
   lore: []
   culture: provenzianclt
   homes: [belporte]
-  affiliations: {kngdmprvnz: {}}
+  affiliations: {kngdmprvnz: {rank: 2}}
   gender: female
   species: humanflk
   born: 679.57

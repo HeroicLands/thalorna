@@ -17,10 +17,10 @@ data:
   lore: []
   culture: vedyariclt
   homes: [vyalendra3]
-  affiliations: {vyalendra2: {}}
+  affiliations: {vyalendra2: {rank: 2}}
   gender: female
   species: humanflk
-  born: 685.18
+  born: "685.18"
   height: 1.68
   weight: 64.4
   frame: light

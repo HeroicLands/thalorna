@@ -13,7 +13,7 @@ data:
   lore: []
   culture: khazrynclt
   homes: [ashkarad]
-  affiliations: {tribestrzd: {}}
+  affiliations: {tribestrzd: {rank: 3}}
   gender: male
   species: humanflk
   born: 670.147

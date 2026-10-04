@@ -14,7 +14,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [amqelulegez]
-  affiliations: {empireakhlth: {}}
+  affiliations: {empireakhlth: {rank: 4}}
   gender: female
   species: humanflk
   born: 680.276
