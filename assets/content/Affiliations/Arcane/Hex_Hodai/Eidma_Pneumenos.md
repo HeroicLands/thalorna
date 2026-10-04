@@ -20,29 +20,23 @@ data:
         description: >-
           Named against the tradition and cut off from its teaching, its protection and its company; what it taught them is not taken back.
       - level: 1
-        title: Uninitiated
-        description: Outside the tradition entirely—served by it, feared by it, and told nothing.
-      - level: 2
-        title: Aspirant
-        description: Petitioning for admission and being watched to see whether it should be granted.
-      - level: 3
         title: Initiate
         description: >-
           Received into the tradition and bound by its oaths, holding its first mysteries and few of its secrets.
-      - level: 4
+      - level: 2
         title: Adept
         description: Practiced in the tradition's art and trusted to work it unsupervised.
-      - level: 5
+      - level: 3
         title: Master of the Art
         description: Competent to teach the tradition and to answer for what a pupil does with it.
-      - level: 6
+      - level: 4
         title: Keeper of the Tradition
         description: >-
           Holding one of its bodies of knowledge or one of its houses, and answerable for its continuance.
-      - level: 7
+      - level: 5
         title: Elder
         description: Of the small body that decides what the tradition teaches and whom it admits.
-      - level: 8
+      - level: 6
         title: First of the Tradition
         description: >-
           Presiding over the elders and speaking for the whole tradition where it must speak with one voice.
@@ -61,7 +55,7 @@ data:
   population: null
   economy: []
   lore: []
-  parents: []
+  parents: [hexhodai]
   relations: {physera: nemesis, sideros: aligned, pyrethos: aligned}
   packFolder: affiliationshexhodai
 sohl: {system: {commonSkills: []}}
@@ -70,7 +64,7 @@ sohl: {system: {commonSkills: []}}
 #   school: spirit
 ---
 
-Eídma **Pneuménos** is the Eídma of mind, soul, communion with otherworldly entities, and the immaterial. It occupies the lower-left vertex of the [[lore-hexhodai|Sigillum]], directly opposite [[affiliation-physera|Eídma Physéra]]. Where Earth trusts only what can be touched, Spirit reaches for what lies beyond touch—the unseen architectures of consciousness, the entities that inhabit the spaces between the material and the divine, and the deep structures of will and awareness that underlie all magical practice. Pneuménos is the most respected, the most feared, and the most closely supervised of the six schools.
+Eídma **Pneuménos** is the Eídma of mind, soul, communion with otherworldly entities, and the immaterial. It occupies the lower-left vertex of the [[affiliation-hexhodai|Sigillum]], directly opposite [[affiliation-physera|Eídma Physéra]]. Where Earth trusts only what can be touched, Spirit reaches for what lies beyond touch—the unseen architectures of consciousness, the entities that inhabit the spaces between the material and the divine, and the deep structures of will and awareness that underlie all magical practice. Pneuménos is the most respected, the most feared, and the most closely supervised of the six schools.
 
 ## Philosophy
 
@@ -108,7 +102,7 @@ Politically, the Sodalitas Pneuménos is the most isolated of the six fellowship
 
 ## See Also
 
-- [[lore-hexhodai|Héx Hodäi]]—The Héx Hodäi framework
+- [[affiliation-hexhodai|Héx Hodäi]]—The Héx Hodäi framework
 - [[affiliation-physera|Eídma Physéra]]—The opposing Eídma
 - [[affiliation-sideros|Eídma Sidéros]]—Adjacent Eídma (binding and precision)
 - [[affiliation-pyrethos|Eídma Pyréthos]]—Adjacent Eídma (intensity)

@@ -142,7 +142,7 @@ Most chapters are led by a Praelatus, who serves as both the chapter's internal 
 
 At the heart of the Ordo's arcane philosophy is the **Héx Hodäi**—the Six Ways—a classification of all magical phenomena into six fundamental schools. This framework was developed over centuries of research and debate, and it represents the Ordo's deepest understanding of the nature of magic itself.
 
-The six schools are arranged in a hexagonal diagram (the [[lore-hexhodai|Sigillum]], or Seal):
+The six schools are arranged in a hexagonal diagram (the [[affiliation-hexhodai|Sigillum]], or Seal):
 
 - [[affiliation-pyrethos|Pyréthos]] (Fire)—the magic of heat, light, energy, and transformation through destruction
 - [[affiliation-hydalis|Hydälis]] (Water)—the magic of cold, flow, healing, and transformation through adaptation

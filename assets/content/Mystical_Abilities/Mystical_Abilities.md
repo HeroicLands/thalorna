@@ -12,7 +12,7 @@ data: {banner: packagebuild-none-image-mysticalabilitybnr}
 
 Arcane incantations are divided by tradition.
 
-- [[lore-hexhodai|Hex Hodai]]
+- [[affiliation-hexhodai|Hex Hodai]]
 
 ### Incantus Hydälis
 
