@@ -8,8 +8,8 @@
 /**
  * The guard for the Nordmal drift.
  *
- * The drift retires every verbatim Earth name in the north's faith, office and
- * rank layer and gives the setting its own. Completeness is the thing no reader
+ * The drift retires verbatim Earth names in the north's faith and rank layer
+ * and gives the setting its own. Completeness is the thing no reader
  * can check by eye — one survivor in a thousand notes is invisible in a diff —
  * so the check derives the whole question from one table and answers it as a
  * red test.
@@ -49,13 +49,13 @@
  * maker against the north's writes the north's name inside its own note, so
  * these are swept across the whole corpus and a comparison made from anywhere
  * is reached. A `lore`/`rank` row retires something else: the phrase in the
- * reader's tongue that a standing or an office bore before its culture had a
- * word of its own. `Elder`, `Guide`, `Hunter` and `Healer` are ordinary words,
- * and hunting one through the corpus reports `Adventurer's Guide` as a Varokhi
- * office. Those are swept in the material of the culture whose ladder they name
- * — the scope the romanisation holds to — and read past elsewhere. The
- * distinction is read off each row's `type` and `subType`, so no list of words
- * is kept anywhere to drift from the table.
+ * reader's tongue that a standing bore before its culture had a word of its
+ * own. `Elder` and `Hunter` are ordinary words, so those forms are swept only
+ * in material of the culture whose ladder they name. An office has no note or
+ * aliases; its former English phrase is also an ordinary word, even there.
+ * The Varokhi lexicon guard checks every `data.governance.offices` key, so the
+ * prose sweep skips a row verified as a current office key. No second list of
+ * office words is kept here.
  *
  * **The romanisation holds.** The rule is derived from the language note's own
  * § _Romanizing Nordmal_ table: the `written` column gives the letters and the
@@ -302,6 +302,31 @@ function frontmatterOf(raw) {
 }
 
 /**
+ * Whether a retired rank row names a current governance office.
+ *
+ * Office rows have no standalone note or shortcode. Check the current key in
+ * the note named by the row before leaving its old English phrase to the
+ * Varokhi lexicon guard. A missing or changed key keeps the row in this sweep
+ * rather than silently treating it as an office.
+ *
+ * @param {object} entry - A concordance row.
+ * @returns {boolean} Whether the replacement is a governance office key.
+ */
+function isGovernanceOffice(entry) {
+    if (
+        entry.type !== "lore" ||
+        entry.subType !== "rank" ||
+        entry.newShortcode ||
+        !entry.newPath ||
+        !entry.newName ||
+        !fs.existsSync(entry.newPath)
+    )
+        return false;
+    const front = frontmatterOf(fs.readFileSync(entry.newPath, "utf8"));
+    return Object.hasOwn(front?.data?.governance?.offices ?? {}, entry.newName);
+}
+
+/**
  * A `data.homes` or `data.parents` entry, normalised to the bare shortcode it
  * names.
  *
@@ -455,12 +480,13 @@ export function romanisationFrom(text, heading) {
  * writes any of them by accident, and a pantheon that compares its own maker to
  * the north's writes the north's name in its own note, so these are swept
  * across the whole corpus and a comparison made from anywhere is reached. The
- * English phrase a standing or an office bore before its culture had a word of
- * its own is the other case: `Elder`, `Guide`, `Hunter`, `Healer` are ordinary
- * words of the reader's tongue, and a sweep for one across the corpus reports
- * the word in `Adventurer's Guide` as a Varokhi office. Those are swept in the
- * material of the culture whose ladder they name and read past elsewhere, which
- * is the same scope the romanisation holds to.
+ * English phrase a standing bore before its culture had a word of its own is
+ * the other case: `Elder` and `Hunter` are ordinary words of the reader's
+ * tongue, so retired standing phrases are swept only in their culture's
+ * material, the same scope the romanisation holds to. `Guide` and `Healer`
+ * are former office phrases, also ordinary words there; they are omitted by
+ * {@link isGovernanceOffice}, since the Varokhi lexicon guard checks the
+ * actual governance keys.
  *
  * `pair.scoped` carries that decision, derived in {@link main} from the row's
  * own `type` and `subType`, so nothing here is held to a second list of words.
@@ -781,23 +807,25 @@ function main() {
     // — deity, rank, order — and `type` is the fallback where a row states no
     // subType. `newName: null` is `drop`: retired with nothing to replace it.
     //
-    // A `lore`/`rank` row retires the English phrase a standing or an office
-    // bore before its culture had a word of its own, so it is swept where that
-    // culture is written and read past elsewhere; see {@link checkDrift}.
+    // A `lore`/`rank` row for a standing retires an English phrase and is swept
+    // only where its culture is written. Office keys are checked directly by
+    // the Varokhi lexicon guard, so their ordinary English phrases are omitted.
     const entries = table.entries ?? [];
     const live = new Set(
         entries.flatMap((entry) => [...asList(entry.newName), ...asList(entry.newAliases)]),
     );
     const pairs = entries.flatMap((entry) =>
-        retiredForms(entry, live).map((form) => ({
-            retired: form,
-            replacement: entry.newName,
-            drop: entry.newName === null || entry.newName === undefined,
-            group: entry.subType ?? entry.type,
-            scoped: entry.type === "lore" && entry.subType === "rank",
-            note: entry.note,
-            path: entry.oldPath ?? null,
-        })),
+        isGovernanceOffice(entry) ?
+            []
+        :   retiredForms(entry, live).map((form) => ({
+                retired: form,
+                replacement: entry.newName,
+                drop: entry.newName === null || entry.newName === undefined,
+                group: entry.subType ?? entry.type,
+                scoped: entry.type === "lore" && entry.subType === "rank",
+                note: entry.note,
+                path: entry.oldPath ?? null,
+            })),
     );
     if (pairs.length === 0) {
         console.error(`${MAPPING_FILE}: error: the table declares no pairs`);
@@ -838,9 +866,9 @@ function main() {
 
     const ownTongueOnly = pairs.filter((pair) => pair.scoped).length;
     say(
-        `${pairs.length} retired name(s) in the table. ` +
+        `${pairs.length} retired name(s) swept from the table. ` +
             `${pairs.length - ownTongueOnly} name(s) no other tongue writes, swept across all ${files.length} file(s); ` +
-            `${ownTongueOnly} standing's or office's phrase(s) in the reader's tongue, swept in the ${scoped.length} file(s) of Nordmal and Varokhi material, which is also where the romanisation is read.`,
+            `${ownTongueOnly} standing phrase(s) in the reader's tongue, swept in the ${scoped.length} file(s) of Nordmal and Varokhi material, which is also where the romanisation is read.`,
     );
     say(
         `The romanisation is read off ${table.romanisation.note}: ` +
