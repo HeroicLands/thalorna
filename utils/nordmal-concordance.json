@@ -2725,7 +2725,7 @@
             "oldAddress": "being-tvrnyndsdrnrgd",
             "oldImage": "assets/images/beings/characters/tvrnyndsdrnrgd.webp",
             "newName": "Gróa the Seidr of Norgaad",
-            "newAliases": ["the Seidr of Norgaad", "Tvarnynda"],
+            "newAliases": ["the Seidr of Norgaad", "Tvarnynda", "Gróa"],
             "newPath": "assets/content/Characters/Heroes_and_Knaves/Groa_the_Seidr_of_Norgaad.md",
             "newShortcode": "grosdrnrgd",
             "newAddress": "being-grosdrnrgd",

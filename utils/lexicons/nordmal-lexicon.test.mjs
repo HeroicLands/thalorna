@@ -49,3 +49,11 @@ test("an exemption does not cover another name at the same path", () => {
     );
     assert(judge("Invented", "given", rule).length > 0);
 });
+
+test("Gróa remains a live short name while its historical identity is preserved", () => {
+    const entry = table.entries.find((row) => row.newName === "Gróa the Seidr of Norgaad");
+    assert(entry.oldAliases.includes("Gróa"));
+    const live = new Set(table.entries.flatMap((row) => [row.newName, ...(row.newAliases ?? [])]));
+    assert(live.has("Gróa"));
+    assert(entry.newAliases.includes("Gróa"));
+});

@@ -4,7 +4,7 @@ name:
   full: Gróa the Seidr of Norgaad
   given: Gróa
   clan: Nalthendikh
-  aliases: [the Seidr of Norgaad, Tvarnynda]
+  aliases: [the Seidr of Norgaad, Tvarnynda, Gróa]
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, clergy]
