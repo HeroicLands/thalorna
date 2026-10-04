@@ -75,7 +75,7 @@ data:
   parents: [upperrivrslt]
   relations: {khelathpnthn: aligned, wethur: aligned, hezmuiri: aligned}
   packFolder: regkhpol
-sohl: {system: {commonSkills: [khelthlnglng]}}
+sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
 ## Overview

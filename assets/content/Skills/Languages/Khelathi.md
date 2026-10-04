@@ -1,5 +1,5 @@
 ---
-shortcode: khelthlnglng
+shortcode: khelathlng
 name: {full: Khelâthi Language, aliases: []}
 type: skill
 subType: language
@@ -64,11 +64,22 @@ Khelâthi distinguishes three cardinal vowels, each with short and long variants
 
 ### Phonotactic Patterns
 
-Analysis of attested names reveals:
+**A word ends in a vowel or in `n`, `t`, `s` or `r`**, the emphatic `ṭ` counting as
+`t`. Final vowels are frequent, particularly in nominal and verbal inflections.
+Nothing ends in `l` or `z`, which is why those two are so common inside a word and
+never close one.
 
-- **Initial Clusters:** Rare; typically restricted to consonant + semi-vowel (y, w) or fricative + stop
-- **Syllable Structure:** CV or CVC; some words begin with vowels (marked by glottal stop)
-- **Final Consonants:** Commonly n, t, s, ṭ, r; final vowels are frequent, particularly in nominal and verbal inflections
+**The glottal stop stands between two vowels and gives a word a pause where a
+reader expects a consonant.** That is its whole function, and it is what a
+sacred or lineage name has and an ordinary one lacks — `Qe'âret` and `Psaq'âru`
+pause; `Mani` and `Dari` do not.
+
+**Openings.** `An-`, `Am-`, `Re-`, `Wa-` and `Kh-` are the characteristic ones.
+Initial clusters are otherwise rare and restricted to consonant + semi-vowel
+(`y`, `w`) or fricative + stop: `Ps-` and `Tj-` are the licensed instances, as in
+`Psaq'âru` and `Tjelsuk`. Stop + stop is not Khelâthi, so no word opens `Pt-`.
+
+- **Syllable Structure:** CV or CVC; a word may begin with a vowel, which the glottal marks
 - **Word Length:** Often moderate (two to three morphemes); compound names are less frequent than in Vedyari, though hieratic epithets create lengthy formal designations
 - **Stress Patterns:** Usually fall on the first or second syllable; later syllables receive weaker stress in polysyllabic words
 
@@ -187,11 +198,221 @@ Khelâthi remains an isolate, yet areal contacts have created zones of lexical a
 - **Vedyari:** Possible borrowings in domains of royal administration and diplomatic terminology, though the directionality and depth of contact remain unclear
 - **Maritime Pidgins:** Khelâthi has been a major substrate in the development of trade linguas along the Xerathian coast
 
+## The Lexicon
+
+This is what a Khelâthi word is made of. An author coining a name works from
+these tables and the rules above them, and a form built from anything else is not
+Khelâthi.
+
+### Name elements
+
+Eighteen elements build every given name and every house name. An element does not
+stand alone as a word: it opens a compound or sits inside one, and the name it
+builds is what a reader meets. Seven carry a longer form beside the short one, and
+**the longer form is the one a house name takes**, since a house name ends in `-u`.
+
+| Element  | Longer form | Sense                         |
+| -------- | ----------- | ----------------------------- |
+| `anlagh` | `anlaghu`   | life                          |
+| `zab`    | `zabu`      | lord, lady                    |
+| `leg`    | `legir`     | fair, good                    |
+| `amqel`  | `amqelu`    | beloved                       |
+| `reth`   | `rethu`     | name                          |
+| `waz`    | `wazu`      | pure                          |
+| `wal`    | `walu`      | the road                      |
+| `gul`    | —           | vital spirit                  |
+| `lem`    | —           | servant                       |
+| `gith`   | —           | daughter of                   |
+| `legez`  | —           | at peace                      |
+| `lin`    | —           | brother                       |
+| `quz`    | —           | strong                        |
+| `anleth` | —           | the horizon, never the season |
+| `zin`    | —           | the soul                      |
+| `gez`    | —           | enduring                      |
+| `qelt`   | —           | foremost                      |
+| `zu`     | —           | land                          |
+
+The openings `An-`, `Am-`, `Re-`, `Wa-` and `Kh-` carry much of the language's
+character. They are phonology rather than lexicon, and they arrive through the
+high-frequency elements — `anlagh`, `amqel`, `reth`, `waz`, `wal`, `anleth` —
+rather than being chosen name by name.
+
+**`Re-` and `Rê-` carry `reth`, the name.** The sun-lord's house-form is `Uqa`, so
+`Rêqesehu`, `Rethur` and `Renutê` all mean what they say, and a house ending
+`'Rêlu` is named for a name and not for the sun.
+
+### Particles
+
+| Particle | Sense                                                                    |
+| -------- | ------------------------------------------------------------------------ |
+| `ez`     | of, toward — the genitive, and the particle a commoner's byname hangs on |
+| `elu`    | of, upon                                                                 |
+| `ezu`    | in                                                                       |
+| `agu`    | shall — marking what is undertaken rather than what is done              |
+
+### The nineteen gods
+
+A god carries a sacred-register stem, and the register is audible: the Twelve
+pause and the local gods do not.
+
+| God          | Domain                      |
+| ------------ | --------------------------- |
+| `Uqa'â`      | fire                        |
+| `Qe'âret`    | order                       |
+| `Reth'Sa'âr` | knowledge                   |
+| `Psaq'âru`   | creation                    |
+| `Uznêra`     | fertility and healing       |
+| `Wethûr`     | death                       |
+| `Thubâ'i`    | prosperity                  |
+| `Tjaq'ûr`    | storms                      |
+| `Nehle'ât`   | dreams                      |
+| `Hezmuîri`   | decay                       |
+| `Gewaâtis`   | voyages                     |
+| `Azu'âthis`  | chaos                       |
+| `Qeztu`      | war                         |
+| `Tjelsuk`    | river-beasts                |
+| `Shebazet`   | the marsh                   |
+| `Pelgun`     | desert roads                |
+| `Linhur`     | the hunt, the hunter        |
+| `Linqur`     | the hunt, the killing       |
+| `Igel'Nâru`  | the river, built on `igelu` |
+
+#### The clipped house-form
+
+A house never carries a god's full name. It carries a clipped form, and **the
+clipped form drops the mark.** Not every god has houses named for it, and nobody
+names a house for chaos.
+
+| God          | House-form |
+| ------------ | ---------- |
+| `Uqa'â`      | `Uqa`      |
+| `Qe'âret`    | `Qar`      |
+| `Reth'Sa'âr` | `Retha`    |
+| `Psaq'âru`   | `Psaqa`    |
+| `Uznêra`     | `Uzner`    |
+
+### Place-building elements
+
+A place name is `<element>-<element>`. The first element opens the name and the
+four directions close it.
+
+| Element   | Sense               |
+| --------- | ------------------- |
+| `Gar-`    | house of, temple of |
+| `Zu-`     | land of             |
+| `Lut-`    | estate of           |
+| `Yath-`   | mound of            |
+| `Zel-`    | place of            |
+| `Magu-`   | garden of           |
+| `Khuqet-` | desert land of      |
+| `Selat-`  | the province        |
+| `-Zalu`   | south               |
+| `-Miglet` | north               |
+| `-Ithnet` | west                |
+| `-Iaqtet` | east                |
+
+### The morphemes a rank is built from
+
+A rank is a two-word construct: the charge, then the holder or the place it is
+held. What each rank means is stated on the ladder of the body that confers it;
+what the words are made of is here.
+
+| Morpheme   | Sense                                                                     |
+| ---------- | ------------------------------------------------------------------------- |
+| `Aû`       | of the throne and the realm, and reserved to it                           |
+| `Thâz`     | of rank and extent — the ordinary word for great, and so the unpaused one |
+| `Lem'`     | servant of                                                                |
+| `Nelgir`   | god                                                                       |
+| `Lekhau`   | sacred power                                                              |
+| `Halzi`    | heart, and the account a heart answers for                                |
+| `Wazu`     | pure                                                                      |
+| `Genzet`   | council                                                                   |
+| `Selat`    | province                                                                  |
+| `Iru'palu` | the hereditary standing                                                   |
+
+Two words translate as "great" and they do not merge: `Aû` belongs to the throne
+and the realm, `Thâz` to rank and extent. Keeping them apart is what sets a high
+priest apart from a god-king.
+
+### Occupation words
+
+What a commoner's byname names when it names a trade rather than a place.
+
+| Word     | Trade       |
+| -------- | ----------- |
+| `zethu`  | scribe      |
+| `zuqal`  | tiller      |
+| `meglu`  | herder      |
+| `igelar` | boatman     |
+| `shebar` | reed-cutter |
+| `qedlu`  | quarryman   |
+| `gethar` | potter      |
+| `legzar` | brewer      |
+| `walir`  | weaver      |
+| `lemzu`  | bondsman    |
+
+### Temple, arcane and cosmology
+
+| Word        | Sense                               |
+| ----------- | ----------------------------------- |
+| `lekhau`    | sacred power                        |
+| `zethu`     | writing                             |
+| `nelgir`    | god                                 |
+| `halzi`     | heart, account                      |
+| `igelu`     | the river                           |
+| `Zulaten`   | the realm of the dead               |
+| `Gethunu`   | the arcane order                    |
+| `Álgit`     | the Devourer of the Dead            |
+| `Qet Telgu` | the first occasion                  |
+| `zaglu`     | a figure that answers for its owner |
+| `Azlet`     | the season of flood                 |
+| `Gelet`     | the season of growing               |
+| `Shelu`     | the season of low water             |
+
+Weights and measures: `gezan`, `qelu` and its formal form `qezelet`, and `lagar`.
+
+### The realm, its people and its hands
+
+| Term             | Sense                      |
+| ---------------- | -------------------------- |
+| `Aû'Khelâthu`    | the empire, formally       |
+| `Khelâthu`       | the land                   |
+| `Khelâthi`       | its people, and its tongue |
+| `Khelâthi-zethu` | the sacred hand            |
+| `Qalezu`         | the common hand            |
+
 ## Naming Traditions
 
 ### Cultural Significance
 
 In Khelâthi tradition, names are sacred utterances that encapsulate divine principles, royal genealogy, and magical potency. The bestowing of a name is a ritualistic act, often overseen by priests. Personal names are believed to carry the essence of the person and to establish sympathetic connections to the divine realm. Secret names, known only to the individual and the priesthood, are thought to confer protection and magical authority.
+
+### Register
+
+**The pause is the register.** A god, a throne, a great institution or a house
+carries a glottal hiatus between two vowels, or a seam before a vowel. An
+ordinary personal name carries neither, and a reader hears the difference without
+being told: `Qe'âret` and `Reth'el'Lêru` pause, `Aguri` and `Khelemûr` do not.
+
+So a name states a standing before it states anything else, and the standing
+decides what follows the given name.
+
+| Standing                                            | How a person is named                    | Example                        |
+| --------------------------------------------------- | ---------------------------------------- | ------------------------------ |
+| `Iru'palu`, `Zemelu`, priestly and scribal lineages | given + house                            | `Rethutê Reth'el'Lêru`         |
+| Artisan, merchant, soldier, free tenant             | given + `ez` + place                     | `Aguri ez Zileti`              |
+| Farmer, villager                                    | given + `ez` + village or district       | `Khelemûr ez Iqu`              |
+| Bondsman                                            | given + `ez` + the estate that holds him | `Gezebari ez Lut-Psaqa`        |
+| Outcast, `Name Struck`                              | given alone                              | `Ahmuzê`, and nothing after it |
+
+**A commoner's byname never carries `-u`.** The collective is what makes a house
+name a house name, and wearing one without the land, the shrine or the ancestor
+behind it is a false claim rather than an affectation. That is why rank 0 in a
+Khelâthi body is `Name Struck`: a name carries legal weight here, so removing it
+is a sentence.
+
+A given name carries no seam and no hiatus whatever the standing. What rises with
+standing is what comes after it.
 
 ### Naming Patterns
 
@@ -217,7 +438,7 @@ In Khelâthi tradition, names are sacred utterances that encapsulate divine prin
 - Often include hieratic epithets or divine titles
 - May reference the location of the family shrine or primary temple affiliation
 - Carry the collective _-u_: a house is named as the people of its founder, its shrine or its land, so the plural is what a reader hears at the end of every one
-- Examples: _Âthen'Rêlu_ (house of the sun-lord), _Zu'Zekenu_ (land of the ancestral realm), _Gar'Anlaghau_ (house of the living)
+- Examples: _Qar'quzu_ (house of the balance, on `Qar`), _Zu'Zekenu_ (land of the ancestral realm), _Gar'Anlaghau_ (house of the living)
 
 ### Titles and Epithets
 

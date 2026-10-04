@@ -19,7 +19,7 @@ sohl:
 
 Khelâthi-zethu is the sacred writing of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: a mixed system of **logograms** that stand for whole words, **phonetic signs** that spell consonant clusters, and **determinatives** that carry no sound at all and exist to tell the reader which of several possible words is meant. Roughly seven hundred signs are recognized; two or three hundred are in common use; the rest are the reason a temple keeps old scribes.
 
-A character needs **both** Khelâthi-zethu and [[skill-khelthlnglng|Khelâthi Language]] to read it—and specifically **Classical Khelâthi**, frozen in written form some twenty-three centuries ago and no longer the language anyone speaks.
+A character needs **both** Khelâthi-zethu and [[skill-khelathlng|Khelâthi Language]] to read it—and specifically **Classical Khelâthi**, frozen in written form some twenty-three centuries ago and no longer the language anyone speaks.
 
 ## What it is for
 

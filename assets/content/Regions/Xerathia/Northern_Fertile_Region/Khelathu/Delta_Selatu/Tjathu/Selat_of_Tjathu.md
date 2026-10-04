@@ -72,7 +72,7 @@ data:
   parents: [deltaselatu]
   relations: {khelathpnthn: aligned, wethur: aligned}
   packFolder: regkhpol
-sohl: {system: {commonSkills: [khelthlnglng]}}
+sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
 ## Overview

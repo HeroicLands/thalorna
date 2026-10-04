@@ -1,370 +1,259 @@
 /*
  * This file is part of the Song of Heroic Lands (SoHL) system for Foundry VTT.
- * Copyright (c) 2024-2026 Tom Rodriguez ("Toasty") — <toasty@heroiclands.org>
+ * Copyright (c) 2026 Tom Rodriguez ("Toasty") — <toasty@heroiclands.org>
+ *
+ * This work is licensed under the GNU General Public License v3.0 (GPLv3).
+ * You may copy, modify, and distribute it under the terms of this license.
+ *
+ * For full terms, see the LICENSE.md file in the project root or visit:
+ * https://www.gnu.org/licenses/gpl-3.0.html
  *
  * SPDX-License-Identifier: GPL-3.0-or-later
  */
 
 /**
- * The guard for the Khelâthi lexicon sweep.
+ * The guard over the Khelâthi lexicon.
  *
- * The sweep retires an Earth vocabulary from one culture and replaces it. Its
- * completeness is the thing no reader can check by eye — 441 notes, thousands
- * of occurrences, and a single survivor is invisible in the diff. So the check
- * derives the whole question from one table and answers it as a red test.
+ * **Everything it checks, it reads off the language note.** The note publishes
+ * the elements, the gods and their house-forms, the place-building morphemes and
+ * the name lists; it also states the rules those forms obey. So the check and the
+ * specification are one document, and a rule the note stops stating is a rule the
+ * guard stops enforcing.
  *
- * **`utils/khelathi-mapping.yaml` is the single source.** Nothing here restates
- * a pair, because a second copy drifts from the first the moment either is
- * edited — which is exactly the failure this guard exists to prevent, moved one
- * level up.
+ * Five predicates:
  *
- * Four predicates:
- *
- * 1. **No retired token survives**, outside a `renamedFrom` value, which is the
- *    one place a moved address is *supposed* to name its old self.
- * 2. **Every replacement satisfies the coinage rules** — it carries one of
- *    `l g z th q` with the `g` audible, and it ends in a vowel or in `n t s r`.
- * 3. **The rule-3 letters are distributed**, so no single letter carries more
- *    than 35% of the replacements and each carries at least 10%.
- * 4. **No replacement collides** with a different retired token's replacement,
- *    which would merge two senses the corpus keeps apart.
- *
- * A guard proves completeness, never accuracy. Whether `Qeztu` is the right
- * name for a war god is a judgement; whether it survived the sweep everywhere
- * is arithmetic, and only the second is checked here.
- *
- * Findings are written `file:line:column: severity: message`, the path first on
- * the line and relative to the working directory.
- *
- * @module
+ * 1. **A word ends in a vowel or in `n`, `t`, `s`, `r`.** A prefix ending in `-`
+ *    and a suffix opening with one are bound morphemes and close no word, so
+ *    neither is held to it.
+ * 2. **Every name element carries one of `l`, `g`, `z`, `th`, `q`**, and no one of
+ *    the five carries more than its share. Membership is necessary; the spread is
+ *    what keeps the inventory from leaning on a single letter.
+ * 3. **A given name carries no seam.** The glottal is the sacred and lineage
+ *    register, so it belongs to a god, a throne, an institution or a house.
+ * 4. **A house name ends in `-u` and carries a seam.** The collective is what
+ *    makes a house name a house name.
+ * 5. **No name is listed twice**, within a list or across them, and every house-form
+ *    names a god the note lists.
  */
 
 import fs from "node:fs";
-import path from "node:path";
-import YAML from "yaml";
 
-/**
- * Where authored words live.
- *
- * A changeset is published prose: it reaches a reader through the changelog
- * exactly as a note reaches one through a page, so the same vocabulary holds
- * in both. Retired words survived a sweep of the notes by sitting in a
- * changeset nobody was scanning.
- */
-const SCANNED_DIRS = ["assets/content", ".changeset"];
+const NOTE = "assets/content/Skills/Languages/Khelathi.md";
 
-/**
- * What makes a note this sweep's business.
- *
- * The lexicon is retired from one culture, not from the world. A Vedyari sword
- * named `Pata` and a Khelâthi house named for `Ptā'h` share four letters and
- * nothing else, so the scan asks first whether a note is Khelâthi at all — by
- * the culture it declares, by the pack it compiles into, or by naming the
- * people in its own text.
- *
- * **The test names the people both ways, old and new.** A note swept early would
- * otherwise fall out of scope the moment its last `Kheperi` became `Khelâthi`,
- * taking its unswept ranks and places with it — the sweep would report itself
- * finished by shrinking what it was willing to look at.
- */
-const IN_SCOPE_TEXT =
-    /(?<![\p{L}])(Kheperi|Kheperan|Kheperian|Kemet[ií]an|Ta'Kheperu|khepericlt|takheperu|Khelâthi|Khelâthu|Aû'Khelâthu|khelathiclt|khelathu)(?![\p{L}])/u;
+/** The letters a coined element must carry at least one of. */
+const MARKERS = ["th", "l", "g", "z", "q"];
 
-/** @param {string} text @returns {boolean} */
-function inScope(text) {
-    return IN_SCOPE_TEXT.test(text);
+/** The share of the elements any one marker may carry. */
+const CAP = 0.6;
+
+/** What a word may end in: a vowel, or one of these four consonants. */
+const FINAL = /[aeiouâêîôûáéíóúäëïöüāīē]$|[ntsr]$/i;
+
+/** @param {string} file @param {number|null} line @param {string} severity @param {string} message */
+function finding(file, line, severity, message) {
+    return `${file}:${line ?? ""}${line ? "" : ""}: ${severity}: ${message}`.replace("::", ":");
 }
 
-/** The table every packet and this guard read from. */
-const MAPPING_FILE = "utils/lexicons/khelathi-mapping.yaml";
-
-/** The letters a coined morpheme must carry at least one of. */
-const RULE_THREE = ["l", "g", "z", "th", "q"];
-
-/** What a word may end in. Rule 4, which 58 of 63 place names already keep. */
-const ENDINGS = /[aeiouâêîôûáéíóúäëïöü]$|[ntsr]$/i;
-
-/** Share of replacements one rule-3 letter may carry, and must carry. */
-const CAP = 0.35;
-const FLOOR = 0.1;
-
-/**
- * Groups whose rows are bound morphemes rather than words.
- *
- * Rule 4 governs a *word*. A place element and a name element never stand
- * alone — `Gar-` opens a compound and `zab` sits inside one — and the word they
- * build does comply. Holding a morpheme to a word's rule would refuse the
- * table's own vocabulary.
- */
-const MORPHEME_GROUPS = new Set(["placeElements", "nameElements"]);
-
-/**
- * Every markdown file under a directory.
- * @param {string} dir - Where to start.
- * @returns {string[]} Absolute-ish paths, in walk order.
- */
-function markdownFiles(dir) {
-    return fs.readdirSync(dir, { withFileTypes: true }).flatMap((entry) => {
-        const full = path.join(dir, entry.name);
-        if (entry.isDirectory()) return markdownFiles(full);
-        return entry.isFile() && full.endsWith(".md") ? [full] : [];
-    });
+/** The line a literal sits on, 1-based, or null when it is absent. */
+function lineOf(text, literal) {
+    const at = text.indexOf(literal);
+    return at === -1 ? null : text.slice(0, at).split("\n").length;
 }
 
 /**
- * Read the mapping as one flat list of pairs.
- * @returns {{groups: Record<string, object[]>, pairs: object[]}} The table.
+ * One section of the note, by its heading, up to the next heading as shallow.
+ *
+ * @param {string} text - The note.
+ * @param {string} heading - The heading line, hashes included.
+ * @returns {string} The section, heading included.
  */
-function readMapping() {
-    const parsed = YAML.parse(fs.readFileSync(MAPPING_FILE, "utf8"));
-    const groups = {};
-    const pairs = [];
-    for (const [group, rows] of Object.entries(parsed)) {
-        if (group === "keep" || !Array.isArray(rows)) continue;
-        groups[group] = rows;
-        for (const row of rows) {
-            if (row?.retired && row?.replacement) pairs.push({ ...row, group });
-        }
+export function section(text, heading) {
+    const start = text.indexOf(`\n${heading}\n`);
+    if (start === -1) throw new Error(`${NOTE} states no section "${heading}"`);
+    const depth = heading.match(/^#+/)[0].length;
+    const rest = text.slice(start + 1);
+    const lines = rest.split("\n");
+    for (let i = 1; i < lines.length; i += 1) {
+        const mark = lines[i].match(/^(#+)\s/);
+        if (mark && mark[1].length <= depth) return lines.slice(0, i).join("\n");
     }
-    return { groups, pairs };
-}
-
-/** A finding, in the shape every diagnostic in this repository takes. */
-function finding(file, line, column, severity, message) {
-    const at = [file, line, column].filter((part) => part !== null).join(":");
-    return `${at}: ${severity}: ${message}`;
+    return rest;
 }
 
 /**
- * Whether a coined form carries an audible rule-3 letter.
+ * Every table row of a section, as cells, less the header and its rule.
  *
- * `gh` does not count: an English reader hears it as silent or `/f/`, so
- * `Lughtu` reads "Luff-too" and passes a naive membership test while failing
- * the ear. `g` counts only before a vowel.
- *
- * @param {string} word - The replacement.
- * @returns {string[]} Which letters it carries.
+ * @param {string} text - The section.
+ * @returns {string[][]} One array of cells per row.
  */
-function ruleThreeLetters(word) {
-    const lower = word.toLowerCase();
-    const carried = [];
-    if (/l/.test(lower)) carried.push("l");
-    if (/g(?![h])/.test(lower) && /g[aeiouâêîôûáéíóú]/.test(lower)) carried.push("g");
-    if (/z/.test(lower)) carried.push("z");
-    if (/th/.test(lower)) carried.push("th");
-    if (/q/.test(lower)) carried.push("q");
-    return carried;
-}
-
-/** The last word of a replacement, which is the one rule 4 governs. */
-function finalWord(replacement) {
-    const words = replacement.split(/[\s'-]+/).filter(Boolean);
-    return words[words.length - 1] ?? replacement;
-}
-
-/**
- * Check the table itself, before any note is read.
- * @param {object[]} pairs - Every mapping row.
- * @returns {string[]} Findings.
- */
-export function checkMapping(pairs) {
+export function rows(text) {
+    const cells = text
+        .split("\n")
+        .filter((line) => line.trim().startsWith("|"))
+        .map((line) =>
+            line
+                .split("|")
+                .slice(1, -1)
+                .map((cell) => cell.trim()),
+        );
     const out = [];
-    const tally = Object.fromEntries(RULE_THREE.map((letter) => [letter, 0]));
-    const seen = new Map();
-    let sole = 0;
-
-    for (const pair of pairs) {
-        const { retired, replacement, group } = pair;
-        const where = `${MAPPING_FILE}: ${group}: ${retired} → ${replacement}`;
-
-        const letters = ruleThreeLetters(replacement);
-        if (letters.length === 0) {
-            out.push(
-                finding(
-                    MAPPING_FILE,
-                    null,
-                    null,
-                    "error",
-                    `${where} carries none of ${RULE_THREE.join(", ")} audibly; ` +
-                        "a `g` counts only before a vowel",
-                ),
-            );
-        }
-        // Rule 3 caps how many morphemes *lean on* a letter, not how many
-        // happen to contain one. `Lem'Nelgir` carries `l` and `g` and depends
-        // on neither, so it counts toward nothing; `Wazu` has only `z` and
-        // counts there. Containment would report that `l` is everywhere, which
-        // is true of English and says nothing about the coinage.
-        if (letters.length === 1) tally[letters[0]] += 1;
-        sole += letters.length === 1 ? 1 : 0;
-
-        // Rule 2 keeps a replacement's shape, so a token whose original broke
-        // rule 4 may break it in the same place. `Sobek` ended in `k` and
-        // `Tjelsuk` does too, by construction rather than by oversight.
-        const last = finalWord(replacement);
-        const inherited = !ENDINGS.test(finalWord(retired));
-        const bound = MORPHEME_GROUPS.has(group) || retired.includes("-");
-        if (!ENDINGS.test(last) && !inherited && !bound) {
-            out.push(
-                finding(
-                    MAPPING_FILE,
-                    null,
-                    null,
-                    "error",
-                    `${where} ends in "${last.slice(-1)}"; a word ends in a vowel or in n, t, s, r`,
-                ),
-            );
-        }
-
-        // A deliberate merge says so. Five spellings of one demonym, or two
-        // words the design folds together, are not a collision.
-        const collision = seen.get(replacement);
-        if (collision && collision !== retired && !pair.merges) {
-            out.push(
-                finding(
-                    MAPPING_FILE,
-                    null,
-                    null,
-                    "error",
-                    `${replacement} replaces both ${collision} and ${retired}, ` +
-                        "merging two senses the corpus keeps apart",
-                ),
-            );
-        }
-        seen.set(replacement, retired);
-    }
-
-    // Measured against the replacements that lean on exactly one letter, which
-    // is the population the rule is about.
-    const total = sole || pairs.length;
-    for (const letter of RULE_THREE) {
-        const share = tally[letter] / total;
-        if (share > CAP) {
-            out.push(
-                finding(
-                    MAPPING_FILE,
-                    null,
-                    null,
-                    "error",
-                    `"${letter}" is the only rule-3 letter in ${tally[letter]} of ` +
-                        `${total} single-letter replacements (${Math.round(share * 100)}%), ` +
-                        `past the ${CAP * 100}% cap`,
-                ),
-            );
-        }
-        if (share < FLOOR) {
-            out.push(
-                finding(
-                    MAPPING_FILE,
-                    null,
-                    null,
-                    "error",
-                    `"${letter}" is the only rule-3 letter in ${tally[letter]} of ` +
-                        `${total} single-letter replacements (${Math.round(share * 100)}%), ` +
-                        `under the ${FLOOR * 100}% floor`,
-                ),
-            );
-        }
+    for (let i = 0; i < cells.length; i += 1) {
+        const isRule = cells[i].every((cell) => /^:?-+:?$/.test(cell));
+        const isHeader =
+            i + 1 < cells.length && cells[i + 1].every((cell) => /^:?-+:?$/.test(cell));
+        if (!isRule && !isHeader) out.push(cells[i]);
     }
     return out;
 }
 
+/** The backticked forms of a cell, with the ticks off. */
+function ticked(cell) {
+    return [...cell.matchAll(/`([^`]+)`/g)].map((m) => m[1]);
+}
+
+/** Every bulleted item of a section. */
+function bullets(text) {
+    return [...text.matchAll(/^- (.+)$/gm)].map((m) => m[1].trim());
+}
+
 /**
- * Find every surviving retired token in the tree.
+ * The whole lexicon, read off the note.
  *
- * Matched whole-word and case-sensitively, because `Ra`, `Set`, `Min`, `Sau`,
- * `Imet`, `Ipu`, `Wab` and `Sile` are all substrings of ordinary words. A
- * `renamedFrom` line is skipped, since that is the one place a moved address is
- * meant to name its old self.
- *
- * @param {object[]} pairs - Every mapping row.
- * @param {string[]} files - The notes to read.
- * @returns {string[]} Findings.
+ * @param {string} text - The note.
+ * @returns {object} The published inventories.
  */
-export function checkTree(pairs, files, counts = new Map()) {
-    const out = [];
-    // A generator builds names; it is not a token to hunt in prose. `sat` and
-    // `ren` are English words, and a scan that flagged them would report a
-    // Haradian note's "sat uncomfortably" as a surviving Khelâthi morpheme.
-    const patterns = pairs
-        .filter((pair) => !pair.generator)
-        .map((pair) => ({
-            ...pair,
-            // A leading or trailing hyphen marks an affix, which needs no boundary
-            // on the joined side.
-            rx: new RegExp(
-                (pair.retired.startsWith("-") ? "" : "(?<![\\p{L}\\p{M}])") +
-                    pair.retired.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") +
-                    (pair.retired.endsWith("-") ? "" : "(?![\\p{L}\\p{M}])"),
-                "gu",
+export function lexiconFrom(text) {
+    const elements = [];
+    for (const cells of rows(section(text, "### Name elements"))) {
+        for (const form of [...ticked(cells[0]), ...ticked(cells[1] ?? "")]) elements.push(form);
+    }
+    // `section` stops at the next heading as shallow, so a `####` subsection sits
+    // inside its parent. The gods are the rows above the house-form table.
+    const godsSection = section(text, "### The nineteen gods").split(/^#### /m)[0];
+    const gods = rows(godsSection).flatMap((cells) => ticked(cells[0]));
+    const houseForms = rows(section(text, "#### The clipped house-form")).map((cells) => ({
+        god: ticked(cells[0])[0],
+        form: ticked(cells[1])[0],
+    }));
+    const places = rows(section(text, "### Place-building elements")).flatMap((cells) =>
+        ticked(cells[0]),
+    );
+    // A rank morpheme and a particle are bound; a trade, a temple word and the
+    // realm's own names stand alone.
+    const bound = ["### Particles", "### The morphemes a rank is built from"].flatMap((heading) =>
+        rows(section(text, heading)).flatMap((cells) => ticked(cells[0])),
+    );
+    const words = [
+        "### Occupation words",
+        "### Temple, arcane and cosmology",
+        "### The realm, its people and its hands",
+    ].flatMap((heading) => rows(section(text, heading)).flatMap((cells) => ticked(cells[0])));
+
+    // Split on the headings rather than lookahead past them: JavaScript has no
+    // `\Z`, and a regex written with one stops at the first literal `Z` in the
+    // text, which silently truncates a list.
+    const lists = new Map();
+    const chunks = section(text, "## Name Lists").split(/^### /m).slice(1);
+    for (const chunk of chunks) {
+        const [heading, ...body] = chunk.split("\n");
+        lists.set(heading.trim(), bullets(body.join("\n")));
+    }
+    return { elements, gods, houseForms, places, bound, words, lists };
+}
+
+const text = fs.readFileSync(NOTE, "utf8");
+const lex = lexiconFrom(text);
+const out = [];
+const report = (literal, severity, message) =>
+    out.push(finding(NOTE, lineOf(text, literal), severity, message));
+
+// 1. A word ends in a vowel or in n, t, s, r.
+//
+// Rule 4 governs a word. A name element and a place morpheme never stand alone —
+// `Gar-` opens a compound and `zab` sits inside one — and the word they build
+// does comply, so holding a morpheme to a word's rule would refuse the note's own
+// vocabulary. The gods, the trades, the temple words and the realm's own names
+// are words, and they are held to it.
+for (const form of [...lex.gods, ...lex.words]) {
+    if (form.startsWith("-") || form.endsWith("-") || form.endsWith("'")) continue;
+    if (!FINAL.test(form)) {
+        report(form, "error", `\`${form}\` ends in none of a vowel, n, t, s or r`);
+    }
+}
+
+// 2. Every element carries a marker, and no marker carries more than its share.
+//
+// An element carrying two markers counts under both: what the share measures is
+// how far the inventory leans on one letter, not which letter was found first.
+const carried = new Map(MARKERS.map((m) => [m, 0]));
+for (const form of lex.elements) {
+    const low = form.toLowerCase();
+    const has = MARKERS.filter((m) => low.includes(m));
+    if (has.length === 0) {
+        report(form, "error", `\`${form}\` carries none of ${MARKERS.join(", ")}`);
+        continue;
+    }
+    for (const m of has) carried.set(m, carried.get(m) + 1);
+}
+for (const [marker, n] of carried) {
+    if (lex.elements.length && n / lex.elements.length > CAP) {
+        out.push(
+            finding(
+                NOTE,
+                lineOf(text, "### Name elements"),
+                "error",
+                `\`${marker}\` is in ${n} of ${lex.elements.length} elements, past the share any one may hold`,
             ),
-        }));
-
-    for (const file of files) {
-        const source = fs.readFileSync(file, "utf8");
-        if (!inScope(source)) continue;
-        const lines = source.split("\n");
-        lines.forEach((text, index) => {
-            if (/^\s*renamedFrom:/.test(text)) return;
-            for (const pattern of patterns) {
-                pattern.rx.lastIndex = 0;
-                let match;
-                while ((match = pattern.rx.exec(text)) !== null) {
-                    out.push(
-                        finding(
-                            file,
-                            index + 1,
-                            match.index + 1,
-                            "error",
-                            `retired token "${pattern.retired}" survives; ` +
-                                `the ${pattern.group} table replaces it with "${pattern.replacement}"`,
-                        ),
-                    );
-                    counts.set(pattern.layer, (counts.get(pattern.layer) ?? 0) + 1);
-                }
-            }
-        });
-    }
-    return out;
-}
-
-/** Run both halves and report. @returns {number} The exit code. */
-function main() {
-    if (!fs.existsSync(MAPPING_FILE)) {
-        console.error(`${MAPPING_FILE}: error: the lexicon mapping is absent`);
-        return 1;
-    }
-    const { pairs } = readMapping();
-    if (pairs.length === 0) {
-        console.error(`${MAPPING_FILE}: error: the mapping declares no pairs`);
-        return 1;
-    }
-
-    const byLayer = new Map();
-    const out = [
-        ...checkMapping(pairs),
-        ...checkTree(pairs, SCANNED_DIRS.flatMap(markdownFiles), byLayer),
-    ];
-    for (const line of out) console.error(line);
-
-    // What each packet still owes, so progress through the sweep is a number
-    // rather than an impression.
-    if (byLayer.size) {
-        const layers = [...byLayer.entries()].sort((a, b) => a[0] - b[0]);
-        console.error(
-            "remaining by packet: " + layers.map(([layer, n]) => `${layer}=${n}`).join("  "),
         );
     }
-
-    const errors = out.filter((line) => line.includes(": error: ")).length;
-    if (errors === 0) {
-        console.log(
-            `The lexicon holds: ${pairs.length} retired token(s), none surviving in Khelâthi material.`,
-        );
-        return 0;
-    }
-    console.error(`${errors} error(s) across ${pairs.length} mapped token(s).`);
-    return 1;
 }
 
-process.exit(main());
+// 3 and 4. The register: a given name is smooth, a house name is seamed and collective.
+for (const [listName, names] of lex.lists) {
+    const isHouse = /clan|house|tribe/i.test(listName);
+    for (const name of names) {
+        if (!isHouse && /['’]/.test(name)) {
+            report(name, "error", `\`${name}\` is a given name and carries a seam`);
+        }
+        if (isHouse && !/['’]/.test(name)) {
+            report(name, "error", `\`${name}\` is a house name and carries no seam`);
+        }
+        if (isHouse && !/[uû]$/.test(name)) {
+            report(name, "error", `\`${name}\` is a house name and does not end in \`-u\``);
+        }
+    }
+}
+
+// 5. No name twice, and every house-form names a god the note lists.
+const seen = new Map();
+for (const [listName, names] of lex.lists) {
+    for (const name of names) {
+        if (seen.has(name)) {
+            report(
+                name,
+                "error",
+                `\`${name}\` is listed under both ${seen.get(name)} and ${listName}`,
+            );
+        } else seen.set(name, listName);
+    }
+}
+for (const { god, form } of lex.houseForms) {
+    if (!lex.gods.includes(god)) {
+        report(
+            god,
+            "error",
+            `\`${form}\` is the house-form of \`${god}\`, which the note does not list`,
+        );
+    }
+}
+
+for (const line of out) console.error(line);
+if (out.length) {
+    console.error(`${out.length} Khelâthi lexicon finding(s).`);
+    process.exitCode = 1;
+} else {
+    console.log(
+        `The note publishes ${lex.elements.length} element form(s), ${lex.gods.length} gods, ` +
+            `${lex.places.length} place morphemes and ${[...lex.lists.values()].flat().length} names.`,
+    );
+}
