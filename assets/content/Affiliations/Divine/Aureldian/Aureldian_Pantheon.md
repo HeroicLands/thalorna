@@ -16,10 +16,6 @@ data:
     summary: >-
       Twelve separate priesthoods rather than one, sharing a pattern: acolytes in training, a body of ordained clergy, and a high priest above them—a Pontifex, a Flamen, a Magistra or a Somniatrix according to the god. The larger faiths insert a senior college between clergy and apex. Two stand outside it: Karnavos's, which is deliberately anarchic, and the Vúlcani faiths, split by schism into the Sacred Forge's Grand Pontifex and the Black Flame's independent Flame-Wardens.
     ranks:
-      - level: 0
-        title: Exsecratus
-        description: >-
-          Cast out—denied the rites, the temple and the burial a faith promises, which is the one sentence it can pass that outlives the body.
       - level: 1
         title: Adherent
         description: >-
