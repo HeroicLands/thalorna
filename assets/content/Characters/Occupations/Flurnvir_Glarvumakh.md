@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [kraldstead]
-  affiliations: {kngdmnrdhm: {rank: 3}, hrimthur: {rank: 1}}
+  affiliations: {kngdmnrdhm: {rank: 3}, motefnir: {rank: 1}}
   gender: male
   species: humanflk
   born: 689.101
