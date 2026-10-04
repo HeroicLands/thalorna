@@ -97,7 +97,7 @@ Life in Targud is defined by the eastern frontier. The Grukar are not a distant 
 
 Targud maintains a network of frontier forts manned by warriors who serve rotating duty—a system that ensures every able-bodied person in the kingdom has combat experience.
 
-Despite the grim reputation, Targud is also the kingdom with the most knowledge of the Grukar—their language, customs, and internal politics. Some Targudan border lords maintain cautious trading relationships with the nearer Grukar clans, exchanging metalwork and salt for furs and amber.
+Despite the grim reputation, Targud is also the kingdom with the most knowledge of the Grukar—their castes, watch paths and the places where nests divide. That knowledge comes from patrols and survivors, not from trading partners. A Targudan border lord cannot buy peace from a nest or ransom back someone taken in a raid.
 
 ## Commerce and Currency
 

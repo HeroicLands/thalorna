@@ -26,7 +26,7 @@ The **deep forest belt** covers most of the region—dense mixed and coniferous 
 
 The **marshlands** of the central and southern lowlands are the region's most distinctive geographic feature—a vast complex of swamp, peat-bog, slow water, and seasonal flood that covers perhaps a quarter of the total territory. The marshes are passable on foot only in the depths of winter when they freeze, or in a few weeks of dry summer; the rest of the year they are functionally roadless. The Nordmal call them the **Drowned Country** and have learned not to send armies into them. Grukar settlements within the marshlands are reached by canoe, by cause-walks of sunken logs, or by knowledge of paths invisible to outsiders.
 
-The **river systems**—the slow brown rivers that wind across the country toward Velanthian reaches—provide what long-distance transport the region has. Grukar war-canoes move warriors and goods along these rivers in summer; in winter the frozen rivers become the highways of overland movement. The rivers are also the principal exterior trade routes, and the Velanthian frontier-towns at the eastern river-mouths are where most Grukar exterior contact happens.
+The **river systems**—the slow brown rivers that wind across the country toward Velanthian reaches—provide what long-distance transport the region has. Grukar war-canoes move warriors and goods along these rivers in summer; in winter the frozen rivers become the highways of overland movement. The rivers also carry raiding parties toward the Velanthian reaches. A landing can be watched or attacked, but it is no meeting place for an agreed exchange.
 
 The climate is continental: cold snowy winters, warm humid summers, distinct spring thaw and autumn freeze. It is not the killing extreme of the far-northern taiga—Grukarhölm's winters are survivable, by Grukar standards even comfortable—but the marshlands' summer mosquitoes are legendary, and the spring thaw turns the country into an impassable mire for weeks every year.
 
@@ -66,46 +66,31 @@ ferocity in Grukarholm. There is a permanent, structural shortage of **concentra
 
 ## Peoples and Culture
 
-Grukarhölm is the only major region on Thalorna where humans are a demographic minority. The **Grukar** are the dominant folk, a prolific and fractious species organized into a hive-like society distinct from any human polity. The Grukar themselves are genderless; reproduction is the function of a separate hermaphroditic subspecies, the [[being-grkrahk|Grukar-ahk]], one fertile individual of whom anchors each tribe and spawns its entire population. The fertile Grukar-ahk is guarded by a small order of infertile Grukar-ahk that serve simultaneously as personal protectors and as latent reserves, and the tribe's military and political life is dominated by a Grukar-Hai **warlord** who enforces the spawner's protection and coordinates the tribe's wars.
+The region holds about fifty thousand [[lore-grukarfolk|Grukar]] in many separate tribes, each centered on one fertile [[being-grkrahk|Ahk]]. The Ahk chooses which caste each clutch becomes. [[being-grukaruk|Uk]] work and fight with what they know at hatching; [[being-grkrh|Hai]] learn from battle; [[being-grkrsh|Sha]] can plan beyond the next fight and carry an idea back to the nest. None of those differences creates a ruler over another tribe. A nest's stores, watch paths and spawn-chamber belong to that tribe alone.
 
-Grukar society is stratified not merely by rank but by subspecies. The common [[being-grukaruk|Grukar-Uk]] form the great mass of any tribe—stocky, strong-backed, and numbing in their stupidity; they are the laborers, the rank-and-file spearmen, and the expendable horde. The cunning [[being-grkrsh|Grukar-Sha]] are thin, clever, and indispensable as scouts, spies, and counselors—a minority whose survival depends on making themselves too useful to kill. The towering [[being-grkrh|Grukar-Hai]] are the apex warriors, savage enough to command but too fractious to cooperate at scale without a Sha counselor at their ear. When a Hai war-chief finds the right Sha advisor and disciplines the Uk into a marching horde, the result is the kind of tide of destruction that swallows towns and scatters armies. Such alliances rarely last: Grukar politics are a roiling cauldron of internal violence, and most warbands burn out in civil strife before they can make themselves permanent.
+Humans appear at the margins as hunters, soldiers or fugitives passing through dangerous ground, not as a settled client population of the nests. The Grukar take people in raids and eat them. Human flesh is a delicacy to them; it is distinct from the rite in which an Ahk consumes a Grukar's nervous tissue to pass acquired knowledge into a later clutch. A captured human is not kept as a servant or held for ransom.
 
-Small enclaves of humans exist at the region's southern and western edges—trappers, traders, and the descendants of captives who have become adopted servants of this or that Grukar warlord. They are a minority and live at the tolerance of the nearest war-chief.
+## Each Tribe Alone
 
-Grukari architecture reflects the climate and the culture: longhouses of timber and turf, palisaded with sharpened logs, clustered around the great-hall of the warlord and the hidden, heavily guarded spawn-chamber of the fertile [[being-grkrahk|Grukar-ahk]]. The settlement itself is a defensive work first and a home second.
+No Ahk acknowledges another as a superior, and no tribe can make terms for its neighbors. Tribes grow and split when a faction carries an infertile Ahk beyond its parent's suppressing influence; the new spawner establishes a new nest rather than a province of the old one. Their collisions are local and frequent. The name Grukarholm describes where nests are thickest, not a kingdom, a league or a single front an army can defeat.
 
-## Religion
+## The Frontier Gives Nothing Back
 
-The Grukari practice an animistic spirit-tradition with no formal pantheon, no temples, and no priesthood beyond the _gál-speakers_—shamans who commune with the spirits of wolf, bear, eagle, and the great serpents that are said to dwell beneath the ice of lakes and the inland sea. Sacred places are natural features—ancient trees, cave-mouths, standing stones, the shorelines where ice meets dark water—and sacred times follow the unforgiving rhythm of the northern year.
+There is no trade, envoy or ransom with a Grukar nest. An Uk cannot learn a bargain; a Hai understands the immediate fight but not the obligation beyond it. Only a Sha can take in an outsider's words, and it uses that knowledge for its own spawner. Hearing a Sha speak is not a parley or a promise of safe passage. No neighbor takes Grukar as slaves either: the Uk cannot be taught new work, the Hai learns only tactics, and a captive Sha would work toward escape.
 
-The howls of wolves are the voices of gods. The dead journey down through the ice to a spirit-world beneath the frozen earth, and burial practices are engineered with obsessive care to ensure the deceased can find their way. Ritual combat between _gál-speakers_ of rival tribes is a recognized way of resolving disputes that the warlords cannot; the tribes whose shaman falls must accept tribute terms, or go to open war.
-
-There is no contact with the Asguardian faith of the west, nor with the Aurèldían pantheon, nor with any organized Ankarian religion. Such faiths are, from the Grukari point of view, the decadent superstitions of soft peoples. The feeling is mutual.
-
-## Politics and Power
-
-Grukarhölm has no single ruler. It has perhaps a dozen major tribal confederations and many more lesser ones, each centered on a fertile [[being-grkrahk|Grukar-ahk]] and the warlord who protects its spawn-chamber, surrounding itself with a corona of client-clans, allied bands, and tributary splinters. When a tribe grows too large for its territory to support, internal strife produces splinter factions: a Grukar-Hai with its retainers raids the inner sanctum, seizes one of the infertile Grukar-ahk, and flees into unclaimed land—the abducted spawner's biology activates with distance, and a new tribe begins from its first clutch. The result is the endless slow expansion of Grukar territory along every available margin.
-
-The **Kingdom of Grukarhölm** is the most recognizable of these confederations—the one most often meant by outsiders who speak of the "Grukari warlord-king." It is larger, more settled, and more disciplined than its rivals, and it dominates the approaches to the inland sea. But its rule over the wider region is more myth than reality, and the term "kingdom" is a Nordmal-and-Velanthian convenience rather than anything Grukar themselves would recognize.
-
-## Trade
-
-What commerce exists is conducted at designated frontier trading-posts on routes toward Nordmal and Velanthian markets, where violence is (theoretically) forbidden by the standing arrangements of local princes and Grukar warlords. The Grukari export furs, amber recovered from the southern peat-bogs, hides, the carved-bone work that Grukar artisans produce in considerable quantity, and the medicinal herbs harvested from deep-forest sites no outsider could find. They import iron, bronze, salt, strong drink, and occasionally textiles. Much of this trade is a thin, fragile veneer over a baseline of perpetual raiding, and the trading-posts exist because both sides find them more profitable than total war.
-
-Captives—human and Grukar alike—are the ugliest of the region's exports, moved through clandestine channels to markets that do not ask where they came from.
+The result is a costly frontier without the returns other frontiers offer. No captive can be sold, no captured neighbor bought home, and no market repays the labor of keeping watch. Along [[place-skathwald|Skathwald]], villages store less and spend more on their walls; a path through the nests has no protected stopping place. The account of caste learning, appetite and the Ahk's inheritance rite belongs to the [[lore-grukarfolk|folk note]].
 
 ## Relations with Neighboring Regions
 
 The [[place-nrdlndsrgn|Nordlands]] lie farther west and north, beyond the western Vrystwald reaches. Nordmal accounts remember Grukar raids and punitive expeditions, but no Nordmal kingdom draws a line around the Grukar nests.
 
-[[place-vrystwald|Vrystwald]] curls around this area on its way east. The stretch called [[place-skathwald|Skathwald]] is where Grukar nests become more prevalent within Varokh forest, with no border to cross. Grukar-Varokh relations are uniformly hostile, and villages there endure repeated small incursions rather than a war with a single front.
+[[place-vrystwald|Vrystwald]] curls around this area on its way east. The stretch called [[place-skathwald|Skathwald]] is where Grukar nests become more prevalent within Varokh forest, with no border to cross. Grukar-Varokh relations are uniformly hostile. Villages there endure repeated small incursions rather than a war with a single front, and a person taken cannot be recovered through ransom.
 
-[[place-velanthrgn|Velanthia]] lies north of the thickest Grukar country and in the pocket to its southeast. Grukar-Velanthian relations are oddly pragmatic—the Velanthian river-princes have learned that Grukar trade posts can be workable when handled with patience. Velanthian frontier towns handle much of the area's exterior commerce.
+[[place-velanthrgn|Velanthia]] lies north of the thickest Grukar country and in the pocket to its southeast. Velanthian villages watch the same raiding paths as the Varokh. A Sha may understand a warning, but no Velanthian prince can make an agreement that binds a nest or the other tribes behind it.
 
 ## See Also
 
-- [[place-grkrhlmrgn|Grukarhölm]]—the dominant Grukar confederation
-- [[skill-grukarlng|Grukar]]—the folk and their subspecies
+- [[lore-grukarfolk|Grukar Folk]]—the castes, inheritance rite and appetite
 - [[being-grukaruk|Grukar-Uk]], [[being-grkrsh|Grukar-Sha]], [[being-grkrh|Grukar-Hai]]—the three subspecies
 - [[skill-grukarlng|Grukar Language]]—the Grukar tongue
 - [[place-nrdlndsrgn|Nordlands Region]]—farther west and north
