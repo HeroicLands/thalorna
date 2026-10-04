@@ -21,25 +21,9 @@ data:
         description: >-
           Cast out—denied the rites, the temple and the burial a faith promises, which is the one sentence it can pass that outlives the body.
       - level: 1
-        title: Fideles
+        title: Adherent
         description: >-
           The lay faithful of any of the Twelve, keeping the feasts and observances without office.
-      - level: 2
-        title: Acolyte
-        description: >-
-          In training at a temple and not yet ordained—a Vestalis, a Noctary, a Scholaris or an Acolyte of the Garden, according to the god.
-      - level: 3
-        title: Sacerdos
-        description: >-
-          The ordained clergy of a faith, who keep its temples and perform its rites: Sacerdotes, Flamines, Oraculi, Custodes or Magistri as the god requires.
-      - level: 4
-        title: Senior College
-        description: >-
-          Where a faith is large enough to need one—the Collegium Sacerdotalis of Jánus, the Collegium Doctorum of Ménérva—a body of seniors between the clergy and the apex.
-      - level: 5
-        title: Pontifex
-        description: >-
-          The high priest of a faith, styled according to its god: Pontifex Iuris, Flamen Tempestas, Magistra Sapientiae, Somniatrix, Grand Pontifex.
     offices:
       Pontifex: >-
         The apex of a single faith, whose style varies by god and whose authority does not extend beyond it.
