@@ -38,9 +38,6 @@ updates:
           package-build:
               patterns:
                   - "@heroiclands/package-build"
-          hugo-theme:
-              patterns:
-                  - "@heroiclands/hugo-theme"
           production-minor-patch:
               dependency-type: production
               update-types:
