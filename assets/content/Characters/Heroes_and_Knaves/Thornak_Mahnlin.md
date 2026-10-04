@@ -456,7 +456,7 @@ The Vrystwald tribes have always faced threats from outside their lands, but in 
 
 However, the greatest threat to the Vrystwalds comes from the Sons of Muspell, a Vúlcanian cult dedicated to fire, destruction, and conquest. The Vúlcanians view the Vrystwalds as savages who must be exterminated or subjugated. Their brutal raids have decimated several Vrystwald villages, and Thornak has sworn vengeance on them. He believes that the Vúlcanians' ultimate goal is to seize control of the entire Peran region and enslave the Vrystwalds, forcing them to labor or to feed Vúlcan’s bloody rituals.
 
-Within his own tribe, Thornak faces challenges to his authority as well. Sigulf the Crowcaller, the tribal shaman, has begun gathering followers, claiming that the time of the Boar Spirit is over and that the Vrystwalds must unite under a new totem—the crow, which he claims represents cunning and adaptability. Sigulf’s growing influence threatens to fracture the unity of the tribe, and Thornak can confront Sigulf directly or attempt to win him over to his side.
+Within his own tribe, Thornak faces challenges to his authority as well. Sigulf the Crowcaller, the tribal shaman, has begun gathering followers, claiming that the time of the Boar Spirit is over and that Eichengrund should replace its boar wesk with the crow, which he claims represents cunning and adaptability. Sigulf’s growing influence threatens to fracture the unity of the tribe, and Thornak can confront Sigulf directly or attempt to win him over to his side.
 
 ### Current Goal
 
@@ -509,7 +509,7 @@ The Sons of Muspell
 : This Vúlcanian cult seeks to cleanse the wildlands of Vrystwald influence, seeing their worship of nature spirits as heretical. The **Blazewarden Malekir** of the Sons has personally sworn to burn the Vrystwald forests to the ground and offer the tribe’s shamans as sacrifices to Vúlcan. Thornak has clashed with Malekir’s forces on several occasions, but the Vúlcanian forces are numerous and well-armed, making them a deadly threat.
 
 Sigulf the Crowcaller
-: The tribe's shaman who believes that Thornak’s connection to the Boar Spirit is outdated and that the Vrystwalds must embrace a new path of survival through cunning and deception. Sigulf emphasizes his connection to the spirit world to create awe and fear in the tribespeople. While not an outright enemy yet, Sigulf’s growing power threatens Thornak’s ambition to lead the Eichengrund tribe and ultimately unite all the Vrystwald tribes under his leadership.
+: The tribe's shaman who believes that Thornak’s connection to the Boar Spirit is outdated and that Eichengrund must embrace a new path of survival through cunning and deception. Sigulf emphasizes his connection to the spirit world to create awe and fear in the tribespeople. While not an outright enemy yet, Sigulf’s growing power threatens Thornak’s ambition to lead the Eichengrund tribe and ultimately unite all the Vrystwald tribes under his leadership.
 
 ## Plot Hooks
 

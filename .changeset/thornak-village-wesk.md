@@ -2,4 +2,4 @@
 "thalorna": patch
 ---
 
-Thornak Blodtusc Bar belongs to Eichengrund and shares its boar wesk; his story no longer assigns personal totems or common Kemlar worship.
+Eichengrund’s named residents now share its clan name, and Thornak shares its boar wesk without mandatory personal totems or common Kemlar worship.
