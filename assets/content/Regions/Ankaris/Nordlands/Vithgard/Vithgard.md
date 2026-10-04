@@ -3,7 +3,7 @@ shortcode: vithgard
 name: {full: Vithgard, aliases: []}
 type: place
 subType: region
-description: "The land of the Kingdom of Vithgard—the northernmost Nordmen country of ice, tundra and polar night, its sparse settlements strung along an ice-choked coast."
+description: "The land of the Kingdom of Vithgard, a small western coastal realm beside Nordheim."
 tags: [region]
 data:
   demonym: Vithgardian
@@ -15,9 +15,9 @@ data:
 
 ## Overview
 
-Vithgard is the land of the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], the far north of the [[place-nrdlndsrgn|Nordlands]] beyond the tree line.
+Vithgard is the land of the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], a small coastal realm on the western edge of the [[place-nrdlndsrgn|Nordlands]] beside [[place-nordheim|Nordheim]].
 
-Vithgard is the northernmost of the Nordmen kingdoms, a land of ice, tundra, and long polar nights where survival itself is an achievement. Its territory stretches into the frozen wastes beyond the tree line, and its people are the hardiest and most isolated of the Nordmen. Vithgard's settlements are sparse and scattered, connected by sea routes along the ice-choked northern coast.
+Vithgard occupies the western coast south of Nordheim's main territory, a land of ice, tundra, and long winter nights where survival itself is an achievement. Its people are among the most isolated of the Nordmen. Vithgard's settlements are sparse and scattered, connected by sea routes along the coast.
 
 ## Character
 

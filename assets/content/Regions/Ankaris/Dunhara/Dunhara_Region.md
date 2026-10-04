@@ -11,7 +11,7 @@ data:
   lore: [humanflk]
   parents: [ankrscntnnt]
   borders:
-    - {to: khzryndsrtrgn, bearing: NE}
+    - {to: khzryndsrtrgn, bearing: N}
     - {to: vedyarargn, bearing: SE}
     - {to: aukhelathrgq, bearing: SW}
     - {to: khuqetmiglet, bearing: SW}
@@ -33,7 +33,7 @@ The Dunhara stretches south and east from the arid scrublands of the Haradian hi
 
 The climate is brutal. Summer daytime temperatures can be lethal within hours; winter nights drop far below freezing; windstorms can bury a camp or scour paint from a merchant's chests in minutes. The southern reaches see almost no rain at all; the northern margin—bordering Harad—receives a thin winter rain that supports dryland pastoralism and a narrow belt of seasonal grass.
 
-The desert borders the [[place-khzryndsrtrgn|Khazryn Desert]] to the north and east (the two regions shade into one another along a long, ill-defined frontier), the [[affiliation-cnfdrtnhrdnstts|Haradian States]] to the northwest, and the lands of [[place-vedyarargn|Vedyara]] to the southeast. To the southwest and west lies the vast region of [[place-aukhelathrgq|Aû'Khelâthu Region]], a constant source of both commerce and conflict; between the two lies [[place-khuqetmiglet|Khuqet-Miglet]], the disputed desert-march the empire garrisons and the western clans contest.
+The desert borders the [[place-khzryndsrtrgn|Khazryn Desert]] to the north (the two regions shade into one another along a long, ill-defined frontier), the [[affiliation-cnfdrtnhrdnstts|Haradian States]] to the west, and the lands of [[place-vedyarargn|Vedyara]] to the southeast. To the southwest lies the vast region of [[place-aukhelathrgq|Aû'Khelâthu Region]], a constant source of both commerce and conflict; between the two lies [[place-khuqetmiglet|Khuqet-Miglet]], the disputed desert-march the empire garrisons and the western clans contest.
 
 ## Peoples and Culture
 

@@ -3,7 +3,7 @@ shortcode: khzryndsrtrgn
 name: {full: Khazryn Desert Region, aliases: [Khazryn Desert, Khazryn]}
 type: place
 subType: region
-description: Vast central-Ankaris steppe-desert—a barrier of dunes, oases, and nomadic confederations along the Silk-Road corridor between east and west.
+description: Vast steppe-desert of central and eastern Ankaris—a barrier of dunes, oases, and nomadic confederations along the Silk-Road corridor between east and west.
 tags: [region]
 data:
   icon: null
@@ -11,8 +11,9 @@ data:
   lore: [humanflk]
   parents: [ankrscntnnt]
   borders:
-    - {to: dunharargn, bearing: SW}
-    - {to: vedyarargn, bearing: S}
+    - {to: velanthrgn, bearing: W}
+    - {to: dunharargn, bearing: S}
+    - {to: graznmntns, bearing: S}
     - {to: tanvuregin, bearing: E}
   routes:
     - {to: meghadvara, bearing: S, mode: land, days: 30}
@@ -25,17 +26,17 @@ data:
 # terran_analog: "Central Asia in the broadest sense—Siberia, Mongolia, Kazakhstan, Uzbekistan, Tajikistan, Kyrgyzstan, and the Gobi. The southwestern Persianate oasis-belt (Uzbek/Tajik analog) is held by the Khazryn and Ātárzád; the vast northern, central, and eastern steppes, taiga, and Gobi-analog dryland are home to Turkic and Mongolic horse-nomad confederations and Siberian forest peoples."
 ---
 
-The Khazryn Desert is the great central wasteland of [[place-ankrscntnnt|Ankaris Continent]]—an immense expanse of dune, salt flat, gravel plain, and rocky plateau that forms the continent's largest single geographic obstacle. For a thousand miles and more the desert stretches between the [[place-heladrgn|Helladic]] east and the mountain passes of the far east, separating the Aurèldían world from [[place-vedyarargn|Vedyara]] and [[place-tanvuregin|Tānvür]] with a barrier that can be crossed only by those who know its rhythms. Caravans take months; armies, almost without exception, die.
+The Khazryn Desert spreads across the central and eastern interior of [[place-ankrscntnnt|Ankaris Continent]]—an immense expanse of dune, salt flat, gravel plain, and rocky plateau that forms the continent's largest single geographic obstacle. For a thousand miles and more it stretches from [[place-velanthrgn|Velanthia]] toward the mountain passes of the far east, separating the western heartlands from [[place-tanvuregin|Tānvür]] and lying north of [[place-dunharargn|Dunhara]] and [[place-vedyarargn|Vedyara]]. Caravans take months; armies, almost without exception, die.
 
 The desert is not empty. Nomadic confederations, oasis settlements, and the long-running Celestial Road trade system have made the Khazryn one of the most economically consequential regions on the continent, despite holding only a fraction of the population of any of its neighbors. To cross the Khazryn successfully is to reach the other half of the known world; to control any significant oasis on the route is to be wealthy beyond the imagination of any settled peasant.
 
 ## Geography
 
-The Khazryn occupies an enormous central-and-eastern band of Ankaris, dwarfing every other region of the continent in sheer extent. It runs from the eastern frontier of [[place-velanthrgn|Velanthia]] in the west, across the high steppes and the great central sand-and-stone deserts, to the eastern passes that descend into [[place-tanvuregin|Tānvür]] and the southern passes that descend through the [[place-graznmntns|Grazian Mountains]] into [[place-vedyarargn|Vedyara]]. North to south, it stretches from the Siberian-analog taiga that borders [[place-grkrhlmrgn|Grukarhölm]] down to the southern oasis-belt where it shades into the [[place-dunharargn|Dunhara]].
+The Khazryn occupies an enormous central-and-eastern band of Ankaris, dwarfing every other region of the continent in sheer extent. It runs from the eastern frontier of [[place-velanthrgn|Velanthia]] in the west, across the high steppes and the great central sand-and-stone deserts, to the eastern passes that descend into [[place-tanvuregin|Tānvür]] and the southern passes that descend through the [[place-graznmntns|Grazian Mountains]] into [[place-vedyarargn|Vedyara]]. North to south, it stretches from its cold northern taiga and steppe down to the southern oasis-belt where it shades into [[place-dunharargn|Dunhara]].
 
 The region's vastness produces extraordinary internal variation. Five distinct zones can be distinguished:
 
-The **northern taiga**—vast cold-temperate boreal forest that runs along the Khazryn's far northern margin against the southern fringe of [[place-grkrhlmrgn|Grukarhölm]]. Sparsely populated by hunter-fisher-trapper peoples whose lifeways are closer to the Nordmal than to anything in the southern Khazryn. The taiga's furs (sable, ermine, marten) are valuable trade goods that flow south through Khazryn merchants to the cities of Mídhalión.
+The **northern taiga**—vast cold-temperate boreal forest along the Khazryn's far northern margin. It is sparsely populated by hunter-fisher-trapper peoples whose lifeways are closer to the Nordmal than to anything in the southern Khazryn. The taiga's furs (sable, ermine, marten) are valuable trade goods that flow south through Khazryn merchants to the cities of Mídhalión.
 
 The **northern and central steppes**—the great open grasslands that dominate the region by area: cold-winter, hot-summer, treeless or thinly-treed plains supporting enormous seasonal herds of horses, sheep, and cattle. This is the country of the great horse-nomad confederations whose mounted warriors have been the terror of every settled neighbor for as long as records have been kept. Their khanates rise and fall on roughly the same generational cycles as the desert sand-seas advance and retreat.
 

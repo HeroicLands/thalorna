@@ -10,6 +10,7 @@ data:
   demonym: Aurèldían
   lore: [humanflk, grukarfolk, flksinale, flkkhazar]
   parents: [ankrscntnnt]
+  borders: [{to: nrdlndsrgn, bearing: N}, {to: vrystwald, bearing: N}]
   population: 11000000
   packFolder: aureldia
 
@@ -20,9 +21,9 @@ Aurèldía is a region bound by faith. It is the western heartland of the [[affi
 
 ## Geography
 
-Aurèldía occupies the western third of Ankaris, stretching from the pine forests that mark its border with the [[place-nrdlndsrgn|Nordlands]] in the north, down to the [[place-vylarianse|Vylarian Sea]] where [[place-provenzrgn|Provènzia Region]] and [[place-tarvenirgn|Tarvénia Region]] touch the waters of [[place-midhalnrgn|Mídhalión]]. The western coast faces the open ocean and is broken by the great island of [[place-aelwyth|Aelwyth]]—the Misty Isle—and the smaller port-island of [[affiliation-calypsa|Calypsa]] lying just off the Élavendri shore.
+Aurèldía occupies western Ankaris, from the pine forests along the [[place-nrdlndsrgn|Nordlands]] and [[place-vrystwald|Vrystwald]] borders in the north down to the [[place-vylarianse|Vylarian Sea]]. [[place-elavendre|Élavendre]] lies north of [[place-provenzrgn|Provènzia Region]] and west of [[place-tarvenirgn|Tarvénia Region]], which meets [[place-vylariargn|Vylaría]] on its eastern side. The western coast faces the open ocean; the great island of [[place-aelwyth|Aelwyth]]—the Misty Isle—lies offshore, with the smaller port-island of [[affiliation-calypsa|Calypsa]] closer to the mainland.
 
-The terrain is remarkably varied. Élavendre's rolling plains and silver-birch forests give way inland to the [[place-drenavrspn|Drenavar Spine]], a natural divide between the Aurèldían core and the interior regions. The [[place-silvrfrsts|Silver Forests]] are famous for a near-supernatural luminance at dawn and dusk—a landscape so distinctive that Aurèldían painting, tapestry, and song return to it again and again. Further south, Tarvénia's mountain kingdoms tumble down to the Vylarian coast, while Provènzia's coastal plains, hills, and river valleys produce some of the finest wine, glass, and illuminated work in all of Thalorna.
+The terrain is remarkably varied. Élavendre's rolling plains and silver-birch forests give way inland to the [[place-drenavrspn|Drenavar Spine]], a natural divide between the Aurèldían core and the interior regions. The [[place-silvrfrsts|Silver Forests]] are famous for a near-supernatural luminance at dawn and dusk—a landscape so distinctive that Aurèldían painting, tapestry, and song return to it again and again. Farther south, Provènzia's coastal plains, hills, and river valleys produce some of the finest wine, glass, and illuminated work in all of Thalorna. Tarvénia's mountain kingdoms lie east of Provènzia and reach the sea along their southern edge.
 
 Climate varies correspondingly: cool and rain-washed in the north and west, temperate through the central heartlands, and warm and dry along the southern coast. The region's many rivers—flowing both westward to the open ocean and southward to the [[place-vylarianse|Vylarian Sea]]—have long served as the arteries of Aurèldían trade.
 

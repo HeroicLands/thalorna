@@ -3,7 +3,7 @@ shortcode: malagna
 name: {full: Malagna, aliases: []}
 type: place
 subType: region
-description: "The land of the Kingdom of Malagna—the westernmost of the Nordmen kingdoms, fjord-cut coastline and forested highlands facing the open ocean."
+description: "The land of the Kingdom of Malagna, between Nordheim and Targud in the northern Nordlands."
 tags: [region]
 data:
   demonym: Malagnan
@@ -15,9 +15,9 @@ data:
 
 ## Overview
 
-Malagna is the land of the [[affiliation-kingdomlgn|Kingdom of Malagna]], the westernmost of the five Nordmen kingdoms of the [[place-nrdlndsrgn|Nordlands]].
+Malagna is the land of the [[affiliation-kingdomlgn|Kingdom of Malagna]], between [[place-nordheim|Nordheim]] to the southwest and [[place-targud|Targud]] to the northeast.
 
-Malagna is the westernmost of the five Nordmen kingdoms, occupying fjord-cut coastline and forested highlands facing the open ocean beyond [[place-elavendre|Élavendre]] and [[place-aelwyth|Aelwyth]].
+Malagna occupies the northern Nordlands between Nordheim's coastal country and Targud's eastern frontier. Its own coast faces the northern ocean, while [[place-velanthrgn|Velanthia]] lies beyond its southeastern border.
 
 ## Character
 
