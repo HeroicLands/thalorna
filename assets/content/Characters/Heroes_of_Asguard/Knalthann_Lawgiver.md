@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [nrdlndsrgn]
-  affiliations: {kngdmnrdhm: {rank: 3}}
+  affiliations: {kngdmnrdhm: {rank: 3}, eidgar: {rank: 1}}
   gender: male
   species: humanflk
   born: 665.238
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 16}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 17}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 14}}
-    - {model: affiliation-eidgar}
   system:
     body:
       structure:
