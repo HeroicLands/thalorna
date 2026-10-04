@@ -75,7 +75,7 @@ data:
   parents: [empireakhlth]
   relations: {khelathpnthn: aligned}
   packFolder: regkhpol
-sohl: {system: {commonSkills: [khelthlnglng]}}
+sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
 ## Overview
@@ -133,4 +133,4 @@ The Delta Selatu use the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]]—temple-a
 - [[affiliation-upperrivrslt|The Upper River Selatu]], [[affiliation-borderselatu|The Border Selatu]], [[affiliation-capitalselat|The Capital Selat]]—Sister selat-classes
 - [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—Chief trading partner
 - [[place-vylarianse|Vylarian Sea]]—The delta's sea
-- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—Pantheon · [[skill-khelthlnglng|Khelâthi Language]]—Naming
+- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—Pantheon · [[skill-khelathlng|Khelâthi Language]]—Naming

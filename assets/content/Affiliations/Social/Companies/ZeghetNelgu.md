@@ -62,7 +62,7 @@ data:
   relations: {igelnaru: aligned, khelathpnthn: aligned, tjelsuk: aligned, garnuw: aligned}
   packFolder: regkhaff
 sohl:
-  system: {commonSkills: [ritualigelnr, sohl-sohl-skill-srvl, sohl-sohl-skill-melee, khelthlnglng]}
+  system: {commonSkills: [ritualigelnr, sohl-sohl-skill-srvl, sohl-sohl-skill-melee, khelathlng]}
 ---
 
 ## Zeghet'Nelgu—The Sacred Hunt of the Khetai

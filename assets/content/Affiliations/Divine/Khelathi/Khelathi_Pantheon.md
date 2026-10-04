@@ -128,4 +128,4 @@ This theological framework gives the Khelâthi faith a coherence that impressed 
 
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—The civilization
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—Western Ankarian equivalent
-- [[skill-khelthlnglng|Khelâthi Language]]—Naming conventions
+- [[skill-khelathlng|Khelâthi Language]]—Naming conventions

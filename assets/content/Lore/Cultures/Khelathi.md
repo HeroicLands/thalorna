@@ -229,7 +229,7 @@ Above all of it he owes a true heart at the weighing—and he owes it whether or
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—the civilization this is the culture of
 - [[place-aukhelathrgq|Aû'Khelâthu Region]]—the valley, the delta and the desert margins
 - [[affiliation-khelathpnthn|Khelâthi Pantheon]]—the Twelve and the selat gods
-- [[skill-khelthlnglng|Khelâthi Language]]—the tongue, its two hands, and how a name is built
+- [[skill-khelathlng|Khelâthi Language]]—the tongue, its two hands, and how a name is built
 - [[lore-garauu|Gar-Aûu]]—the throne and what it claims
 - [[lore-khelunulekha|Khelunu Lekhau]]—the order that teaches magic
 - [[affiliation-garhalzi|Gár-Hálzi]]—the temple-treasury houses

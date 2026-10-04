@@ -75,7 +75,7 @@ data:
   parents: [empireakhlth]
   relations: {khelathpnthn: aligned}
   packFolder: regkhpol
-sohl: {system: {commonSkills: [khelthlnglng]}}
+sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
 ## Overview
@@ -139,4 +139,4 @@ The Upper River Selatu use the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], but
 
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—Parent empire
 - [[affiliation-deltaselatu|The Delta Selatu]], [[affiliation-borderselatu|The Border Selatu]], [[affiliation-capitalselat|The Capital Selat]]—Sister selat-classes
-- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—Pantheon · [[skill-khelthlnglng|Khelâthi Language]]—Naming
+- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—Pantheon · [[skill-khelathlng|Khelâthi Language]]—Naming

@@ -75,7 +75,7 @@ data:
   parents: [empireakhlth]
   relations: {khelathpnthn: aligned, uqaa: aligned}
   packFolder: regkhpol
-sohl: {system: {commonSkills: [khelthlnglng]}}
+sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
 ## Overview
@@ -108,5 +108,5 @@ The Capital Selat uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], and it 
 - [[place-galezkara|Galezkara]]—The imperial city
 - [[affiliation-deltaselatu|The Delta Selatu]], [[affiliation-upperrivrslt|The Upper River Selatu]], [[affiliation-borderselatu|The Border Selatu]]—The other selat-classes
 - [[affiliation-genzetpalu|Genzet'Palu]]—Council of the Nobles · [[affiliation-garhalzi|Gár-Hálzi]]—Temple-treasuries
-- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—Pantheon · [[skill-khelthlnglng|Khelâthi Language]]—Naming
+- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—Pantheon · [[skill-khelathlng|Khelâthi Language]]—Naming
 - [[place-galezkaraslt|Galezkara Selat]]—The land the selat holds

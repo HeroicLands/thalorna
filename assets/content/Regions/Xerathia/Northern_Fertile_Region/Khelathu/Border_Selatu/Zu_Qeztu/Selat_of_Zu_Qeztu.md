@@ -72,7 +72,7 @@ data:
   parents: [borderselatu]
   relations: {khelathpnthn: aligned, uqaa: aligned}
   packFolder: regkhpol
-sohl: {system: {commonSkills: [khelthlnglng]}}
+sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
 ## Overview

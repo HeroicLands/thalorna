@@ -75,7 +75,7 @@ data:
   parents: [empireakhlth]
   relations: {khelathpnthn: aligned}
   packFolder: regkhpol
-sohl: {system: {commonSkills: [khelthlnglng]}}
+sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
 ## Overview
@@ -132,4 +132,4 @@ The Border Selatu use the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], and the 
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—Parent empire
 - [[affiliation-deltaselatu|The Delta Selatu]], [[affiliation-upperrivrslt|The Upper River Selatu]], [[affiliation-capitalselat|The Capital Selat]]—Sister selat-classes
 - [[affiliation-malldbndlg|Free Companies Compact]]—Chartered mercenaries who take frontier contracts
-- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—Pantheon · [[skill-khelthlnglng|Khelâthi Language]]—Naming
+- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—Pantheon · [[skill-khelathlng|Khelâthi Language]]—Naming
