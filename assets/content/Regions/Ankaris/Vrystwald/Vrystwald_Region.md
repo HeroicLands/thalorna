@@ -3,38 +3,40 @@ shortcode: vrystwald
 name: {full: Vrystwald, aliases: [Vrystwald Region]}
 type: place
 subType: region
-description: "The vast forest-and-river arc south and east of the Nordlands—endless taiga, mixed woodland and great slow rivers, held by the Varokh: a people descended from the Pelwar who were here first and from the Varkhad who took the country off them, and who defend it against all comers with the ferocity they inherited from the invading half."
+description: "The forest-and-river belt south and east of the Nordlands, north of Aurèldía and west of Velanthia—taiga, mixed woodland and slow rivers held by the Varokh."
 data:
   demonym: null
   lore: [humanflk]
   parents: [ankrscntnnt]
-  population: 500000
   borders:
     - {to: nrdlndsrgn, bearing: NW}
+    - {to: aureldirgn, bearing: S}
     - {to: elavendre, bearing: SW}
-    - {to: velanthrgn, bearing: NE}
-    - {to: vylariargn, bearing: E}
+    - {to: velanthrgn, bearing: E}
+    - {to: vylariargn, bearing: SE}
+  population: 500000
   routes:
     - {to: falkhaven, bearing: W, mode: land, days: 90, terrain: [forest]}
-    - {to: vandstein, bearing: E, mode: land, days: 90, terrain: [forest, mountains]}
+    - {to: vandstein, bearing: SE, mode: land, days: 90, terrain: [forest, mountains]}
   packFolder: vrystwald
 
-# terran_analog: "European Russia—the vast taiga, mixed forest, and great river-and-lake systems of the Russian Plain from the eastern Baltic frontier across to the Ural-analog mountain chain that marks the start of the Khazryn."
+# terran_analog: "A forest-and-river frontier between the northwestern kingdoms and the eastern grain belt."
 ---
 
 ## Overview
 
-South and east of the [[place-nrdlndsrgn|Nordlands]] proper, beyond the eastern forests of the Nordmal frontier, the land opens into the vast and largely roadless interior of Vrystwald—the great Varokh homeland of taiga, mixed forest, slow brown rivers, and the immense lake systems that no foreign army has ever managed to secure for long. The Varokh, descendants of the Pelwar nomads who once migrated across Ankaris, live in independent villages across a country of staggering interior diversity: northern taiga clans whose lifeways are closer to the Nordmal than to their southern kindred; central forest-river villages that fish, farm in clearings, and trade up and down the great river systems; northeastern frontier villages that deal with [[place-velanthrgn|Velanthian]] grain-belt princes on terms ranging from cautious commerce to open raid. Vrystwald is a wild and untamed place, filled with great forests of dark pine and birch, fog-covered river-valleys, and ancient, crumbling ruins that speak of civilizations long vanished.
+South and east of the [[place-nrdlndsrgn|Nordlands]] proper lies the roadless interior of Vrystwald—the Varokh homeland of taiga, mixed forest, slow brown rivers, and lake systems. [[place-aureldirgn|Aurèldía]] lies to its south and [[place-velanthrgn|Velanthia]] to its east. The Varokh, descendants of the Pelwar nomads who once migrated across Ankaris, live in independent villages across the region: northern taiga clans whose lifeways are closer to the Nordmal than to their southern kindred; central forest-river villages that fish, farm in clearings, and trade along the rivers; and eastern frontier villages that deal with Velanthian grain-belt princes on terms ranging from cautious commerce to open raid. Vrystwald is filled with dark pine and birch forests, fog-covered river valleys, and ancient ruins.
 
 ## Geography
 
-Vrystwald is an arc of forest rather than a block of it. It begins south of Nordheim at the western ocean, follows the northern shore of a broad bay, curls south toward [[place-elavendre|Elavendre]], then curves south and east around the country called [[place-grkrhlmrgn|Grukarholm]] to the mountains facing Vylaria. [[affiliation-calypsa|Calypsa]] lies on an island in the bay. Grukarholm is a concentration of Grukar nests with no drawn edge; it is not a border. The landscape is dominated by:
+Vrystwald occupies the forest belt between the western Nordmal kingdoms, Aurèldía to the south, and Velanthia to the east. Its southern margins approach the northern lands of [[place-vylariargn|Vylaría]]. The landscape is dominated by:
 
 - The **northern taiga**—endless boreal forest of spruce, pine, fir, and birch, lightly populated by hunter-fisher-trapper Varokh clans whose lifeways look more taiga-clan than Nordmal. The taiga's furs are a major Vrystwaldi export.
 - The **central mixed-forest belt**—the heartland: dense mixed woodlands of pine, spruce, oak, beech, and birch, broken by clearings, rivers, and the great inland lakes. Most of the Varokh population lives here, scattered across innumerable small forest-clearings and along the river-courses.
-- The [[place-vrystwldrvrs|great river systems]]—slow brown waterways that carry people and goods across the ecological belts. Some waters leave the forest to the west; others pass through neighboring country before reaching the great inland sea, which does not touch Vrystwald. In winter the frozen channels become sled roads.
+- The [[place-vrystwldrvrs|great river systems]]—slow brown rivers that cross the interior and link its settlements. Some waters leave the forest to the west; others pass through neighboring lands toward the inland sea, which does not touch Vrystwald. In winter the frozen rivers become highways for sleds and warbands.
+- The **eastern frontier**—the fluid border with [[place-velanthrgn|Velanthia]], where Vrystwaldi forest gives way gradually to Velanthian grain-belt and the two cultures meet in mixed villages, intermarriage, and intermittent raids.
 
-Five reaches give the arc its different contacts: [[place-falkhaven|Falkhaven]] trades across the western shore and Nordmal frontier; [[place-edrwald|Edrwald]] turns around the bay toward Elavendre's guarded sacred ground; [[place-thornwald|Thornwald]] meets Velanthia northeast of Grukarholm; [[place-skathwald|Skathwald]] lies where Grukar nests grow more prevalent; and [[place-vandstein|Vandstein]] meets the eastern mountains facing Vylaria. These are descriptions of ground and contact, not governments. The taiga, mixed forest and rivers cross them. [[place-vethwald|Véthwald]], the Deepwood, is a dense part of that interior rather than a sixth authority.
+Five reaches describe the forest's different contacts: [[place-falkhaven|Falkhaven]] faces the western shore and Nordmal frontier; [[place-edrwald|Edrwald]] turns around the bay toward [[place-elavendre|Élavendre]]; [[place-thornwald|Thornwald]] meets Velanthia to the east; [[place-skathwald|Skathwald]] lies where Grukar nests grow more prevalent; and [[place-vandstein|Vandstein]] faces the southern highlands toward Vylaría. These are descriptions of ground and contact, not governments. [[place-vethwald|Véthwald]], the Deepwood, lies within the forest interior.
 
 The climate is harsh-continental: long bitter winters with deep snow, brief warm summers, distinct spring thaw and autumn freeze. Sunlight is filtered by the canopy through most of the year; the open river-valleys and the lake-shores get the direct sun the deep forest never sees.
 
@@ -241,13 +243,15 @@ The [[affiliation-ordoarcanis|Ordo Arcanis]] considers Vrystwald a lawless front
 
 To the **west** lies the [[place-nrdlndsrgn|Nordlands]]. The Varokh and the Nordmen share Pelwar ancestry and a great deal of cultural similarity (martial values, broad religious practice, similar architecture), but competition for resources along the long forest frontier keeps tensions simmering. Periodic Nordmal expeditions push into western Vrystwald; periodic Varokh counter-raids push back. Trade is substantial despite the friction, and intermarriage among border-clan and border-jarl households is common.
 
-To the **east and northeast**, where the arc curls around it, Vrystwald's forest thickens with [[lore-grukarfolk|Grukar]]—which is all [[place-grkrhlmrgn|Grukarholm]] means, since the name describes a people's prevalence and nothing else. Vrystwaldi-Grukar relations are uniformly hostile, but there is no Grukar polity and so no border to hold: unlike the line Velanthia's writ stops at, the Varokh meet only country where the Grukar grow thicker and country where they thin, by degree rather than by edge, and no campaign has ever closed ground that was never bounded to begin with. The raiding runs both ways and always has, long enough that no living War Chief remembers a time before it—a condition of that country, not a line fought over.
+In the forests around [[place-grkrhlmrgn|Grukarholm]], Vrystwald's forest thickens with [[lore-grukarfolk|Grukar]]—which is all Grukarholm means, since the name describes a people's prevalence and nothing else. Vrystwaldi-Grukar relations are uniformly hostile, but there is no Grukar polity and so no fixed border to hold: the Varokh meet country where the Grukar grow thicker and country where they thin, by degree rather than by edge. The raiding runs both ways and always has, long enough that no living War Chief remembers a time before it.
 
 The Grukar are not a rival people but something wholly alien, and nothing passes between the two sides: no trade, no envoy, no intermarriage, and no ransom, because there is nobody there to pay one to, and nothing taken from them is worth keeping. A Grukar makes a poor slave and a worse conversation, and the Grukar consider human flesh a delicacy, so a Varokh taken is eaten rather than held. Every tribe answers to its own spawner, which cares nothing for any other tribe's survival, so what comes out of that country is never one war but an endless scatter of small incursions. The same absence of a line is why the danger is never confined to it: a tribe that outgrows its ground does not cross a border to bud, because there is none to cross—it goes far enough into unclaimed forest and wakes, and Vrystwald's own forest serves as well as any other. What this costs the Varokh returns nothing they can use, and the clearings deepest in Grukar country are the poorest in Vrystwald and the most constantly at war.
 
-To the **northeast**, around Grukarholm's northern side, lies [[place-velanthrgn|Velanthia]]. The Vrystwald-Velanthian frontier is the most permeable border in the region: the Varokh forest peoples and the Velanthian river-prince and grain-belt populations have intermarried, traded, and shared frontier garrisons for many generations, with the result that the Varokh tribes along that frontier look as much like Velanthian settlers as they do like the rest of their own people. The Velanthian princes consider those frontier tribes useful auxiliaries and unreliable subjects in approximately equal measure.
+To the **east** lies [[place-velanthrgn|Velanthia]]. The Vrystwald-Velanthian frontier is the most permeable border in the region: the Varokh forest peoples and the Velanthian river-prince and grain-belt populations have intermarried, traded, and shared frontier garrisons for many generations. The Velanthian princes consider those frontier tribes useful auxiliaries and unreliable subjects in approximately equal measure.
 
-To the **east** the mountains mark the end of the arc and the approaches to [[affiliation-vylarinmpr|Vylaria]]. Contact across the passes is sparse and contested. Vylarian reach in earlier centuries extended into Vrystwald's eastern woods; its crumbling forward posts remain there, picked over by Varokh treasure-hunters.
+Farther east, beyond Velanthia, lie the [[place-khzryndsrtrgn|Khazryn]] steppes. Contact with the steppe peoples passes chiefly through Velanthian intermediaries and the fur trade.
+
+The [[affiliation-vylarinmpr|Vylarian Empire]] lies to the south and southeast. Its reach in earlier centuries extended into Vrystwald's southern margins; the crumbling ruins of long-abandoned Vylarian forward posts remain in the forests and are picked over by generations of Varokh treasure-hunters.
 
 ## Notable Features
 
@@ -259,9 +263,10 @@ To the **east** the mountains mark the end of the arc and the approaches to [[af
 
 - [[place-nrdlndsrgn|Nordlands Region]]—western neighbor
 - [[place-edrwald|Edrwald]]—the bayward forest facing [[place-elavendre|Elavendre]]
-- [[place-grkrhlmrgn|Grukarholm Region]]—hostile Grukar concentration to the east and northeast
-- [[place-velanthrgn|Velanthia Region]]—northeastern neighbor and most permeable frontier
 - [[place-vrystwldrvrs|Vrystwald Rivers]]—the water routes crossing the forest
-- [[affiliation-vylarinmpr|Vylarian Empire]]—eastern neighbor beyond the mountains and source of the ruins
+- [[place-grkrhlmrgn|Grukarholm Region]]—hostile Grukar concentration in the neighboring forests
+- [[place-velanthrgn|Velanthia Region]]—eastern neighbor and most permeable frontier
+- [[place-khzryndsrtrgn|Khazryn Desert Region]]—farther east, beyond Velanthia
+- [[affiliation-vylarinmpr|Vylarian Empire]]—southern imperial power, source of the forest ruins
 - [[skill-varokhlng|Varokhi]]—naming conventions
 - [[place-ankrscntnnt|Ankaris Continent]]—parent continent

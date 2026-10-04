@@ -9,8 +9,11 @@ data:
   demonym: null
   lore: []
   parents: [midhalnrgn]
+  borders:
+    - {to: velanthrgn, bearing: N}
+    - {to: vrystwald, bearing: NW}
+    - {to: vandstein, bearing: NW}
   population: 24000000
-  borders: [{to: vrystwald, bearing: W}, {to: vandstein, bearing: W}]
   packFolder: vylaria
 ---
 
@@ -18,7 +21,7 @@ data:
 
 Vylaría Region is the land of the [[affiliation-vylarinmpr|Vylarian Empire]] and of the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûm]], on the northern shore of the [[place-vylarianse|Vylarian Sea]] within [[place-midhalnrgn|Mídhalión Region]].
 
-Vylaria, once the pinnacle of civilization, lies beyond the mountains at the eastern end of [[place-vrystwald|Vrystwald]]'s forest arc, on the northern shores of the [[place-vylarianse|Vylarian Sea]].
+Vylaría, once the pinnacle of civilization, lies east of [[place-tarvenirgn|Tarvénia]], west of the [[place-heladrgn|Hellád]], south of [[place-velanthrgn|Velanthia]], and southeast of [[place-vrystwald|Vrystwald]], on the northern shores of the [[place-vylarianse|Vylarian Sea]].
 
 ## Geography
 

@@ -3,7 +3,7 @@ shortcode: edrwald
 name: {full: Edrwald, aliases: [Bay Forest]}
 type: place
 subType: region
-description: The bay-facing Vrystwald forest, where the arc turns south toward Elavendre's sacred mountain approaches.
+description: The bay-facing Vrystwald forest, across the water from Elavendre.
 data:
   demonym: null
   lore: [humanflk]
@@ -18,7 +18,7 @@ data:
 
 ## Around the Bay
 
-Edrwald follows the great bay's northern shore and the southward turn of Vrystwald's arc. The bay is about fifty miles across at its widest, with [[affiliation-calypsa|Calypsa]] on an island in its waters. On the far side lie northern [[place-elavendre|Elavendre]] and the western end of the mountain belt that continues toward Vylaria.
+Edrwald follows the bay-facing edge of Vrystwald. [[affiliation-calypsa|Calypsa]] lies on an island farther west. Across the water lie the northern lands of [[place-elavendre|Elavendre]].
 
 The conflict here concerns sacred ground. Aelendan Wardens seek to keep Varokh parties out of places they guard; a crossing that looks like passage to one side can look like trespass to the other. The Wardens have no separate record yet, and no village council in Edrwald can bind the rest of Vrystwald to its answer. A party planning to follow the bay must ask at each landing whose claim a path crosses.
 

@@ -11,7 +11,7 @@ data:
   population: null
   routes:
     - {to: thornwald, bearing: W, mode: land, days: 45, terrain: [forest]}
-    - {to: vandstein, bearing: E, mode: land, days: 45, terrain: [forest, mountains]}
+    - {to: vandstein, bearing: SE, mode: land, days: 45, terrain: [forest, mountains]}
   packFolder: vrystwald
 ---
 

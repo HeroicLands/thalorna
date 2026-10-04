@@ -11534,7 +11534,7 @@
             "oldAddress": null,
             "oldImage": null,
             "newName": "Vandstein",
-            "newAliases": ["Eastern Mountain Reach"],
+            "newAliases": ["Southern Highland Reach"],
             "newPath": "assets/content/Regions/Ankaris/Vrystwald/Vandstein.md",
             "newShortcode": "vandstein",
             "newAddress": "place-vandstein",

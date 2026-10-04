@@ -10,10 +10,7 @@ data:
   demonym: Tānvüri
   lore: [humanflk]
   parents: [ankrscntnnt]
-  borders:
-    - {to: khzryndsrtrgn, bearing: W}
-    - {to: vedyarargn, bearing: SW}
-    - {to: graznmntns, bearing: W}
+  borders: [{to: khzryndsrtrgn, bearing: W}, {to: graznmntns, bearing: SW}]
   routes:
     - {to: suryadvara, bearing: SW, mode: land, days: 30}
     - {to: jnanadvara, bearing: SW, mode: land, days: 45}
@@ -29,7 +26,7 @@ The Tānvür Region is the far east of [[place-ankrscntnnt|Ankaris Continent]]�
 
 ## Geography
 
-The region is defined by a ring of mountain ranges that enclose a series of great river basins. To the **north** lie frozen steppes and the contested frontier with [[place-grkrhlmrgn|Grukarhölm]]; to the **west** stretch the passes and high deserts that separate Tānvür from the [[place-khzryndsrtrgn|Khazryn]] and beyond; to the **south** the land breaks into subtropical coastal plains and the warm seas from which [[place-jurthatrgn|Jürthāt]] detaches; to the **east** lies the open ocean and the treacherous strait that separates the mainland from the Jürthāti archipelago.
+The region is defined by mountain ranges that enclose a series of great river basins. Its **northern** lands reach the cold coast; to the **west** lie the passes and high deserts of the [[place-khzryndsrtrgn|Khazryn]] frontier; to the **southwest** the unaligned [[place-graznmntns|Grazian Mountains]] separate Tānvür from [[place-vedyarargn|Vedyara]]; and to the **east** lies the open ocean and the strait that separates the mainland from the Jürthāti archipelago.
 
 Three great rivers define the basins: fed by mountain glaciers, they flow through the heartland and out to the eastern ocean, carrying commerce, tribute, and imperial edicts. The valleys between them are the most intensively cultivated land in the world—rice, millet, silk-worm mulberry, tea, and orchard fruits supply the vast populations of the river cities. Higher up, terraced hillsides climb the foothills in staircase patterns maintained by villages whose terraces have passed down through named lineages for thirty or more generations.
 

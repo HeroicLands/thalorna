@@ -3,13 +3,13 @@ shortcode: thornwald
 name: {full: Thornwald, aliases: [Velanthian Reach]}
 type: place
 subType: region
-description: The northeastern Vrystwald forest that meets Velanthia north of Grukarholm.
+description: The eastern Vrystwald forest that meets Velanthia.
 data:
   demonym: null
   lore: [humanflk]
   parents: [vrystwald]
   population: null
-  borders: [{to: velanthrgn, bearing: NE}]
+  borders: [{to: velanthrgn, bearing: E}]
   routes:
     - {to: edrwald, bearing: W, mode: land, days: 45, terrain: [forest]}
     - {to: skathwald, bearing: E, mode: land, days: 45, terrain: [forest]}
@@ -19,7 +19,7 @@ data:
 
 ## The Velanthian Reach
 
-Thornwald is where Vrystwald meets [[place-velanthrgn|Velanthia]] around the northern side of Grukarholm. Forest gives way to the grain belt by degrees, while a political frontier runs through landings and villages whose families have long traded and married across it. This is the arc's most permeable contact with a settled neighbor. A Varokh trader can know a Velanthian river market well and still owe no obedience to its prince.
+Thornwald is where eastern Vrystwald meets [[place-velanthrgn|Velanthia]]. Forest gives way to the grain belt by degrees, while a political frontier runs through landings and villages whose families have long traded and married across it. This is the forest's most permeable contact with a settled neighbor. A Varokh trader can know a Velanthian river market well and still owe no obedience to its prince.
 
 [[place-thornhaven|Thornhaven]] shows the mixture plainly: its people share work and kin with the river folk beyond the line, while its own three elders must decide which bargains serve the village. River traffic carries goods in both directions. The further a traveler follows the water, the less useful a simple division between forest village and grain country becomes.
 
