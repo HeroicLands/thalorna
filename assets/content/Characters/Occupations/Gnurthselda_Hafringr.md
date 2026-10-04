@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [nrdlndsrgn]
-  affiliations: {kngdmnrdhm: {rank: 3}}
+  affiliations: {kngdmnrdhm: {rank: 3}, eidgar: {rank: 1}}
   gender: female
   species: humanflk
   born: 680.204
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 16}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-wil, system: {scoreBase: 9}}
-    - {model: affiliation-eidgar}
     - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 54}}
     - {model: sohl-sohl-skill-cmd, system: {masteryLevelBase: 34}}
     - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 37}}

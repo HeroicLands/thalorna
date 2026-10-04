@@ -13,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [vylariargn]
-  affiliations: {vylarinmpr: {rank: 4}}
+  affiliations: {vylarinmpr: {rank: 4}, arldnpnthn: {rank: 1}}
   gender: male
   species: humanflk
   born: 695.84
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-wil, system: {scoreBase: 9}}
-    - {model: affiliation-arldnpnthn}
     - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 44}}
     - {model: sohl-sohl-skill-clmb, system: {masteryLevelBase: 29}}
     - {model: sohl-sohl-skill-cmd, system: {masteryLevelBase: 22}}

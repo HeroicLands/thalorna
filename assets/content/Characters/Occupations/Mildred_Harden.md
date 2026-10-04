@@ -13,7 +13,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: [brynhallow]
-  affiliations: {kngdmldrth: {rank: 2}}
+  affiliations: {kngdmldrth: {rank: 2}, venusia: {rank: 1}}
   gender: female
   species: humanflk
   born: 679.142
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-venusia}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 65}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 65}}
     - {model: sohl-sohl-skill-eng, system: {masteryLevelBase: 13}}

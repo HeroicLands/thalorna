@@ -13,7 +13,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: [ashford]
-  affiliations: {kngdmldrth: {rank: 5}}
+  affiliations: {kngdmldrth: {rank: 5}, venusia: {rank: 3}}
   gender: female
   species: humanflk
   born: 694.162
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 16}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 14}}
-    - {model: affiliation-venusia}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 10}}

@@ -13,7 +13,7 @@ data:
   lore: []
   culture: helioniteclt
   homes: [thyrenae2]
-  affiliations: {thyrenae: {rank: 4}}
+  affiliations: {thyrenae: {rank: 4}, menerva: {rank: 1}}
   gender: male
   species: humanflk
   born: 675.281
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 9}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-menerva}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 32}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 70}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 30}}

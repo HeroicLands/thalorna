@@ -13,7 +13,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: [greywater]
-  affiliations: {kngdmldrth: {rank: 5}}
+  affiliations: {kngdmldrth: {rank: 5}, venusia: {rank: 3}}
   gender: female
   species: humanflk
   born: "689.18"
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 16}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 11}}
-    - {model: affiliation-venusia}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 17}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 34}}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 68}}

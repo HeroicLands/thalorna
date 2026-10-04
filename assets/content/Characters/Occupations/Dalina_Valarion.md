@@ -13,7 +13,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [castamere]
-  affiliations: {kingdmtrvn: {rank: 5}}
+  affiliations: {kingdmtrvn: {rank: 5}, murkir: {rank: 1}}
   gender: female
   species: humanflk
   born: 692.161
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 16}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-murkir}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 32}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 39}}

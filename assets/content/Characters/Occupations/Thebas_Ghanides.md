@@ -13,7 +13,7 @@ data:
   lore: []
   culture: helioniteclt
   homes: [korinthea2]
-  affiliations: {korinthea: {rank: 4}}
+  affiliations: {korinthea: {rank: 4}, murkir: {rank: 1}}
   gender: male
   species: humanflk
   born: 669.52
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-murkir}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 39}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 12}}

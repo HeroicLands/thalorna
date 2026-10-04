@@ -13,7 +13,7 @@ data:
   lore: []
   culture: elavendriclt
   homes: [silvain]
-  affiliations: {kngdmlvndr: {rank: 2}}
+  affiliations: {kngdmlvndr: {rank: 2}, morvana: {rank: 1}}
   gender: male
   species: humanflk
   born: 679.272
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 8}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 10}}
-    - {model: affiliation-morvana}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 12}}

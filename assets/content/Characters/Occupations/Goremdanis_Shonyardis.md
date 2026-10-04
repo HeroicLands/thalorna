@@ -13,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [corvinus]
-  affiliations: {vylarinmpr: {rank: 4}}
+  affiliations: {vylarinmpr: {rank: 4}, lusinia: {rank: 1}}
   gender: male
   species: humanflk
   born: 685.38
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 15}}
-    - {model: affiliation-lusinia}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 52}}
     - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 15}}

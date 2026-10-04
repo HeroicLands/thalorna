@@ -13,7 +13,7 @@ data:
   lore: []
   culture: haradianclt
   homes: [ashkabel2]
-  affiliations: {cnfdrtnhrdnstts: {rank: 3}}
+  affiliations: {cnfdrtnhrdnstts: {rank: 3}, florania: {rank: 3}}
   gender: male
   species: humanflk
   born: "685.27"
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 15}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-florania}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 32}}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 75}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 13}}

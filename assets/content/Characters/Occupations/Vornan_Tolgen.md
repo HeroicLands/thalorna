@@ -13,7 +13,7 @@ data:
   lore: []
   culture: provenzianclt
   homes: [valcerise]
-  affiliations: {kngdmprvnz: {rank: 2}}
+  affiliations: {kngdmprvnz: {rank: 2}, menerva: {rank: 1}}
   gender: male
   species: humanflk
   born: 674.246
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 15}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 11}}
-    - {model: affiliation-menerva}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 32}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 80}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 75}}

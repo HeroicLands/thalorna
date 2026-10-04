@@ -13,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [tyrellan]
-  affiliations: {vylarinmpr: {rank: 5}}
+  affiliations: {vylarinmpr: {rank: 5}, menerva: {rank: 1}}
   gender: male
   species: humanflk
   born: 670.147
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 13}}
-    - {model: affiliation-menerva}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 30}}

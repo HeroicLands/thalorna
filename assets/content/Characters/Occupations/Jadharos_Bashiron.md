@@ -13,7 +13,7 @@ data:
   lore: []
   culture: helioniteclt
   homes: [myrtillos]
-  affiliations: {kostaros2: {rank: 4}}
+  affiliations: {kostaros2: {rank: 4}, murkir: {rank: 1}}
   gender: male
   species: humanflk
   born: 694.45
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 10}}
-    - {model: affiliation-murkir}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 13}}

@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [dvalgheim]
-  affiliations: {kngdmnrdhm: {rank: 4}}
+  affiliations: {kngdmnrdhm: {rank: 4}, solrun: {rank: 1}}
   gender: male
   species: humanflk
   born: 689.159
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 16}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 13}}
-    - {model: affiliation-solrun}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 32}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-pfmy, system: {masteryLevelBase: 80}}

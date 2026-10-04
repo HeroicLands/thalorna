@@ -13,7 +13,7 @@ data:
   lore: []
   culture: provenzianclt
   homes: [chastelclr]
-  affiliations: {kngdmprvnz: {rank: 2}}
+  affiliations: {kngdmprvnz: {rank: 2}, murkir: {rank: 1}}
   gender: male
   species: humanflk
   born: 679.255
@@ -44,7 +44,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 11}}
-    - {model: affiliation-murkir}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 11}}
     - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 36}}

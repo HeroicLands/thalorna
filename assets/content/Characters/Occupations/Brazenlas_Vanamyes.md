@@ -13,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [corvinus]
-  affiliations: {vylarinmpr: {rank: 4}}
+  affiliations: {vylarinmpr: {rank: 4}, thanatos: {rank: 1}}
   gender: male
   species: humanflk
   born: 668.331
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 10}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 11}}
-    - {model: affiliation-thanatos}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 42}}

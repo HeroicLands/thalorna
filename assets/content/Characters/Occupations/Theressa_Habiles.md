@@ -13,7 +13,7 @@ data:
   lore: []
   culture: helioniteclt
   homes: [theradon2]
-  affiliations: {theradon: {rank: 4}}
+  affiliations: {theradon: {rank: 4}, venusia: {rank: 1}}
   gender: female
   species: humanflk
   born: 690.263
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 10}}
-    - {model: affiliation-venusia}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 56}}
     - {model: sohl-sohl-skill-eng, system: {masteryLevelBase: 22}}

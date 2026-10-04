@@ -13,7 +13,7 @@ data:
   lore: []
   culture: elavendriclt
   homes: [elanmere]
-  affiliations: {kngdmlvndr: {rank: 2}}
+  affiliations: {kngdmlvndr: {rank: 2}, murkir: {rank: 1}}
   gender: male
   species: humanflk
   born: "673.18"
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 10}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 11}}
-    - {model: affiliation-murkir}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 39}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 36}}
     - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 13}}

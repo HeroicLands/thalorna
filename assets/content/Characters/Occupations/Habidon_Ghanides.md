@@ -13,7 +13,7 @@ data:
   lore: []
   culture: helioniteclt
   homes: [athenikos2]
-  affiliations: {athenikos: {rank: 4}}
+  affiliations: {athenikos: {rank: 4}, arldnpnthn: {rank: 1}}
   gender: male
   species: humanflk
   born: 692.128
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 15}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 9}}
     - {model: sohl-sohl-attribute-wil, system: {scoreBase: 14}}
-    - {model: affiliation-arldnpnthn}
     - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 54}}
     - {model: sohl-sohl-skill-clmb, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-cmd, system: {masteryLevelBase: 30}}

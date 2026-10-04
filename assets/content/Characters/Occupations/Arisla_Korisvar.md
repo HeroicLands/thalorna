@@ -13,7 +13,7 @@ data:
   lore: []
   culture: provenzianclt
   homes: [chastelclr]
-  affiliations: {kngdmprvnz: {rank: 2}}
+  affiliations: {kngdmprvnz: {rank: 2}, janus: {rank: 1}}
   gender: female
   species: humanflk
   born: 688.111
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 17}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 16}}
-    - {model: affiliation-janus}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 65}}

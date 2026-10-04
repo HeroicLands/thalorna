@@ -13,7 +13,7 @@ data:
   lore: []
   culture: provenzianclt
   homes: [fiordaure]
-  affiliations: {kngdmprvnz: {rank: 2}}
+  affiliations: {kngdmprvnz: {rank: 2}, lusinia: {rank: 1}}
   gender: male
   species: humanflk
   born: "680.8"
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 16}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 16}}
-    - {model: affiliation-lusinia}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 60}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 70}}

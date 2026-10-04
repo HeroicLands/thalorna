@@ -13,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [corvinus]
-  affiliations: {vylarinmpr: {rank: 4}}
+  affiliations: {vylarinmpr: {rank: 4}, sacredforge: {rank: 1}}
   gender: female
   species: humanflk
   born: 697.276
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 10}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 10}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 14}}
-    - {model: affiliation-sacredforge}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-pfmy, system: {masteryLevelBase: 15}}

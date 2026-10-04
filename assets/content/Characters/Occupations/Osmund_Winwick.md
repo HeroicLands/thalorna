@@ -13,7 +13,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: [thornbury]
-  affiliations: {repblctrvn: {rank: 5}}
+  affiliations: {repblctrvn: {rank: 5}, venusia: {rank: 1}}
   gender: male
   species: humanflk
   born: 687.76
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 16}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-venusia}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 32}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 42}}

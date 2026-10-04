@@ -13,7 +13,7 @@ data:
   lore: []
   culture: elavendriclt
   homes: [silvain]
-  affiliations: {kngdmlvndr: {rank: 2}}
+  affiliations: {kngdmlvndr: {rank: 2}, aetheria: {rank: 3}}
   gender: male
   species: humanflk
   born: 676.138
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 13}}
-    - {model: affiliation-aetheria}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 70}}
     - {model: sohl-sohl-skill-mrcn, system: {masteryLevelBase: 13}}

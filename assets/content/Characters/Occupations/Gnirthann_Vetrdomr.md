@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [nrdlndsrgn]
-  affiliations: {kngdmnrdhm: {rank: 3}}
+  affiliations: {kngdmnrdhm: {rank: 3}, asguardian: {rank: 1}}
   gender: male
   species: humanflk
   born: 680.263
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-wil, system: {scoreBase: 14}}
-    - {model: affiliation-asguardian}
     - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 55}}
     - {model: sohl-sohl-skill-chrm, system: {masteryLevelBase: 34}}
     - {model: sohl-sohl-skill-cmd, system: {masteryLevelBase: 40}}

@@ -13,7 +13,7 @@ data:
   lore: []
   culture: helioniteclt
   homes: [theradon2]
-  affiliations: {theradon: {rank: 4}}
+  affiliations: {theradon: {rank: 4}, menerva: {rank: 1}}
   gender: male
   species: humanflk
   born: 679.81
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 17}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-menerva}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 80}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 75}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 75}}

@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [raltholm]
-  affiliations: {kngdmnrdhm: {rank: 3}}
+  affiliations: {kngdmnrdhm: {rank: 3}, frodvin: {rank: 1}}
   gender: female
   species: humanflk
   born: "692.34"
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 9}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 11}}
-    - {model: affiliation-frodvin}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 12}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 11}}

@@ -13,7 +13,7 @@ data:
   lore: []
   culture: helioniteclt
   homes: [pelagora2]
-  affiliations: {pelagora: {rank: 4}}
+  affiliations: {pelagora: {rank: 4}, sacredforge: {rank: 1}}
   gender: female
   species: humanflk
   born: 696.93
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 10}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 13}}
-    - {model: affiliation-sacredforge}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-eng, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 13}}

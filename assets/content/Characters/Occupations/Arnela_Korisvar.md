@@ -13,7 +13,7 @@ data:
   lore: []
   culture: provenzianclt
   homes: [fiordaure]
-  affiliations: {kngdmprvnz: {rank: 5}}
+  affiliations: {kngdmprvnz: {rank: 5}, janus: {rank: 1}}
   gender: female
   species: humanflk
   born: 678.164
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 16}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 15}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 14}}
-    - {model: affiliation-janus}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 17}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 68}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 17}}

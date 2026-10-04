@@ -13,7 +13,7 @@ data:
   lore: []
   culture: provenzianclt
   homes: [lunacorte]
-  affiliations: {kngdmprvnz: {rank: 2}}
+  affiliations: {kngdmprvnz: {rank: 2}, lusinia: {rank: 1}}
   gender: female
   species: humanflk
   born: 690.278
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 16}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 16}}
-    - {model: affiliation-lusinia}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 48}}
     - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 13}}

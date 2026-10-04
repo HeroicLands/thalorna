@@ -13,7 +13,7 @@ data:
   lore: []
   culture: elavendriclt
   homes: [silvain]
-  affiliations: {kngdmlvndr: {rank: 2}}
+  affiliations: {kngdmlvndr: {rank: 2}, venusia: {rank: 1}}
   gender: female
   species: humanflk
   born: 695.94
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 11}}
-    - {model: affiliation-venusia}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 60}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-pfmy, system: {masteryLevelBase: 30}}

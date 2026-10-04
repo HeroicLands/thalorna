@@ -13,7 +13,7 @@ data:
   lore: []
   culture: haradianclt
   homes: [sulun]
-  affiliations: {cnfdrtnhrdnstts: {rank: 3}}
+  affiliations: {cnfdrtnhrdnstts: {rank: 3}, florania: {rank: 1}}
   gender: male
   species: humanflk
   born: 683.257
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 9}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 11}}
-    - {model: affiliation-florania}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 52}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 12}}
     - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 26}}

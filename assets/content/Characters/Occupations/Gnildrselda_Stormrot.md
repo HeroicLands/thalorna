@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [nalthmark]
-  affiliations: {kngdmnrdhm: {rank: 4}}
+  affiliations: {kngdmnrdhm: {rank: 4}, odvar: {rank: 1}}
   gender: female
   species: humanflk
   born: 683.247
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 15}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 15}}
-    - {model: affiliation-odvar}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 32}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 32}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 85}}
