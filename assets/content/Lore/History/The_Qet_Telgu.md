@@ -7,50 +7,48 @@ description: "Around 2110 BF the first Gar-Aû unites the river valley under a s
 tags: [history, spine]
 data:
   packFolder: regkhhist
-  event:
-    kind: founding
-    depth: world
-    when:
-      reckoning: VR
-      year: -2110
-      precision: century
+  events:
+    - when: ~-2110
       stated: {calendar: qettelgu, text: "Renpet Qet Telgu, year 1"}
-    sources: [place-ankrscntnnt, affiliation-empireakhlth]
-    summary: >-
-      The first Gar-Aû unites the river valley under a single crown and Aû'Khelâthu is founded on its river. The temple chronologies of every dynasty and Gar-Aû since run back in unbroken sequence to this point, and the reckoning spreads to every polity inside the empire's cultural gravity.
-    standing: single-source
-    names:
-      - name: The Qet Telgu
-        by: affiliation-empireakhlth
-        gloss: the First Occasion, from which years are numbered ST
-      - name: the founding of Aû'Khelâthu on its river
-        by: place-ankrscntnnt
-        gloss: how the same occurrence is dated from outside the reckoning it began
-    where:
-      locus: [place-aukhelathrgq]
-      reach:
-        - place: place-okharisrgn
-          how: every year here is numbered from it, as a matter of course
-          knowledge: named
-        - place: place-bethuargn
-          how: the local reckoning is its own and shows the Khelâthi system throughout
-          knowledge: named
-    who:
-      - {ref: affiliation-empireakhlth, role: founder}
-      - {ref: affiliation-okharis, role: witness}
-    accounts:
-      - by: affiliation-empireakhlth
-        says: >-
-          History begins at the Qet Telgu. The mound of Yath-Telgu is the very mound that first lifted from the waters of creation, the gods established the order of civilization, and what came before was chaos.
-        agrees: partly
-        withholds: any account of the era before it, which the Khelâthi do not trouble to date
-      - by: place-worldthlrn
-        says: >-
-          Nothing. No other cosmogony is recorded anywhere, and nothing addresses whether the world is as young as this.
-        agrees: silent
-    unresolved:
-      - the age of the world, which nothing outside Aû'Khelâthu addresses and which the Khelâthi account does not reconcile with lineages five millennia older
-      - whether the earliest centuries of the king-lists are accurate, the lists themselves being real
+      precision: century
+      kind: founding
+      depth: world
+      sources: [place-ankrscntnnt, affiliation-empireakhlth]
+      summary: >-
+        The first Gar-Aû unites the river valley under a single crown and Aû'Khelâthu is founded on its river. The temple chronologies of every dynasty and Gar-Aû since run back in unbroken sequence to this point, and the reckoning spreads to every polity inside the empire's cultural gravity.
+      standing: single-source
+      names:
+        - name: The Qet Telgu
+          by: affiliation-empireakhlth
+          gloss: the First Occasion, from which years are numbered ST
+        - name: the founding of Aû'Khelâthu on its river
+          by: place-ankrscntnnt
+          gloss: how the same occurrence is dated from outside the reckoning it began
+      where:
+        locus: [place-aukhelathrgq]
+        reach:
+          - place: place-okharisrgn
+            how: every year here is numbered from it, as a matter of course
+            knowledge: named
+          - place: place-bethuargn
+            how: the local reckoning is its own and shows the Khelâthi system throughout
+            knowledge: named
+      who:
+        - {ref: affiliation-empireakhlth, role: founder}
+        - {ref: affiliation-okharis, role: witness}
+      accounts:
+        - by: affiliation-empireakhlth
+          says: >-
+            History begins at the Qet Telgu. The mound of Yath-Telgu is the very mound that first lifted from the waters of creation, the gods established the order of civilization, and what came before was chaos.
+          agrees: partly
+          withholds: any account of the era before it, which the Khelâthi do not trouble to date
+        - by: place-worldthlrn
+          says: >-
+            Nothing. No other cosmogony is recorded anywhere, and nothing addresses whether the world is as young as this.
+          agrees: silent
+      unresolved:
+        - the age of the world, which nothing outside Aû'Khelâthu addresses and which the Khelâthi account does not reconcile with lineages five millennia older
+        - whether the earliest centuries of the king-lists are accurate, the lists themselves being real
 ---
 
 The Khelâthi count from the [[lore-qettelgu|Qet Telgu]]—the First Occasion, when the first Gar-Aû united the river

@@ -7,59 +7,60 @@ description: "In 984 BF the Sinalë king of the joint Aelwythan kingdom is kille
 tags: [history, spine]
 data:
   packFolder: settinglore
-  event:
-    kind: battle
-    depth: world
-    when: {reckoning: VR, year: -984, precision: year}
-    sources: [place-threesisters, place-aelwyth, place-hallowwood]
-    summary: >-
-      The Sinalë king of the joint Sinalë–Khazári kingdom of Aelwyth is killed at the Three Sisters amid the Great War, by a force the tradition is consistent only in calling spiritual rather than merely an army. The surviving Sinalë abandon the crown, the kingdom and every claim outside the Hallowwood and withdraw permanently. The Khazári finish the war alone. It ends the only attempt either Elder Race has made to repair the breach that began at Khazártúrn.
-    standing: attested
-    where:
-      locus: [place-threesisters]
-      reach:
-        - place: place-hallowwood
-          how: the Sinalë withdraw into this forest, admit no outsider, and receive nobody who asks why
-          knowledge: named
-        - place: place-ironfells
-          how: >-
-            the Deep Folk finish a war alone that they entered as one half of a crown, and have not spoken to the Sinalë since
-          knowledge: named
-        - place: place-aelwyth
-          how: >-
-            a single crown over the whole island ends, and every realm on the map today stands in the ground it left
-          knowledge: named
-        - place: place-vardainvalleys
-          how: the valley people keep the only human telling of it there is, and tell it plainly, as a thing that happened to their lords
-          knowledge: named
-    who:
-      - {ref: lore-flksinale, role: victim}
-      - {ref: lore-flkkhazar, role: actor}
-      - {ref: lore-pelwarpepl, role: actor}
-    follows:
-      - event: lore-fallkhazturn
-        how: ended
-        note: the reconciliation attempted here was the answer to that breach, and this is where the answer stopped
-      - event: lore-pelwarmigr
-        how: caused
-        note: two centuries of arrival, pressure and reprisal became the Great War the king died in
-    accounts:
-      - by: lore-vardain
-        says: >-
-          The joint kingdom under a Sinalë king, the war, the king's death, and the retreat into the forest that the Khazári have never forgiven.
-        agrees: full
-        withholds: nothing, and they do not know whether it is the great sundering or only its Aelwythan chapter
-      - by: lore-flkkhazar
-        says: >-
-          The Sinalë walked away from us in a crisis, for the second time, having spent six hundred years persuading us it would not happen again.
-        agrees: partly
-        withholds: why the withdrawal has never been forgiven, beyond that it has not
-      - by: lore-flksinale
-        says: Nothing. The Hallowwood will not receive anyone who asks.
-        agrees: silent
-    unresolved:
-      - what killed the Sinalë king, which the tradition is consistent only in calling spiritual in nature
-      - whether this is the great sundering between the Elder Races or only its Aelwythan chapter
+  events:
+    - when: -984
+      precision: year
+      kind: battle
+      depth: world
+      sources: [place-threesisters, place-aelwyth, place-hallowwood]
+      summary: >-
+        The Sinalë king of the joint Sinalë–Khazári kingdom of Aelwyth is killed at the Three Sisters amid the Great War, by a force the tradition is consistent only in calling spiritual rather than merely an army. The surviving Sinalë abandon the crown, the kingdom and every claim outside the Hallowwood and withdraw permanently. The Khazári finish the war alone. It ends the only attempt either Elder Race has made to repair the breach that began at Khazártúrn.
+      standing: attested
+      where:
+        locus: [place-threesisters]
+        reach:
+          - place: place-hallowwood
+            how: the Sinalë withdraw into this forest, admit no outsider, and receive nobody who asks why
+            knowledge: named
+          - place: place-ironfells
+            how: >-
+              the Deep Folk finish a war alone that they entered as one half of a crown, and have not spoken to the Sinalë since
+            knowledge: named
+          - place: place-aelwyth
+            how: >-
+              a single crown over the whole island ends, and every realm on the map today stands in the ground it left
+            knowledge: named
+          - place: place-vardainvalleys
+            how: the valley people keep the only human telling of it there is, and tell it plainly, as a thing that happened to their lords
+            knowledge: named
+      who:
+        - {ref: lore-flksinale, role: victim}
+        - {ref: lore-flkkhazar, role: actor}
+        - {ref: lore-pelwarpepl, role: actor}
+      follows:
+        - event: lore-fallkhazturn
+          how: ended
+          note: the reconciliation attempted here was the answer to that breach, and this is where the answer stopped
+        - event: lore-pelwarmigr
+          how: caused
+          note: two centuries of arrival, pressure and reprisal became the Great War the king died in
+      accounts:
+        - by: lore-vardain
+          says: >-
+            The joint kingdom under a Sinalë king, the war, the king's death, and the retreat into the forest that the Khazári have never forgiven.
+          agrees: full
+          withholds: nothing, and they do not know whether it is the great sundering or only its Aelwythan chapter
+        - by: lore-flkkhazar
+          says: >-
+            The Sinalë walked away from us in a crisis, for the second time, having spent six hundred years persuading us it would not happen again.
+          agrees: partly
+          withholds: why the withdrawal has never been forgiven, beyond that it has not
+        - by: lore-flksinale
+          says: Nothing. The Hallowwood will not receive anyone who asks.
+          agrees: silent
+      unresolved:
+        - what killed the Sinalë king, which the tradition is consistent only in calling spiritual in nature
+        - whether this is the great sundering between the Elder Races or only its Aelwythan chapter
 ---
 
 Before there were kingdoms on [[place-aelwyth|Aelwyth]] there was one, and both Elder Races held it.

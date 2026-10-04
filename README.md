@@ -91,8 +91,8 @@ npm run serve:site   # the same, then `hugo server` for a local preview
 
 `build/hugo/` is the generated Hugo project: `package-build site` writes its
 configuration and the content mount there, and the home page is rendered by
-the theme's landing layout from `assets/content/homepage.md`. The shared
-`heroiclands-hugo-theme` arrives through `npm ci`, as `@heroiclands/hugo-theme`.
+the theme's landing layout from `assets/content/homepage.md`. The shared theme
+ships inside `@heroiclands/package-build`, which arrives through `npm ci`.
 Nothing under `build/hugo/` is committed.
 `.github/workflows/deploy-site.yml` builds the site on every push that touches
 the content or the build deriving it, and deploys it to this package's own

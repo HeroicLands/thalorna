@@ -7,45 +7,46 @@ description: "Around 400 BF the leading philosophical schools of the Helionite c
 tags: [history, spine]
 data:
   packFolder: settinglore
-  event:
-    kind: founding
-    depth: world
-    when: {reckoning: VR, year: -400, precision: decade}
-    sources: [affiliation-panepistmm, place-helionis]
-    summary: >-
-      The leading philosophical schools of the Helionite city-states agree to a common federation of standards and mutual recognition. The Panepistemium is not a guild or a government body but an intellectual society, organized into colleges of roughly equal standing—metaphysics, ethics, logic, natural philosophy, political thought, aesthetics, and the arcane arts among them. A scholar it credentials is received in any Helionite city.
-    standing: attested
-    names:
-      - name: Panepistēmion
-        by: place-helionis
-        gloss: the place of all knowledge, which Vylarian tongues wear down to Panepistemium
-    where:
-      locus: [place-helionis]
-      reach:
-        - place: place-midhalnrgn
-          how: >-
-            the charter that credentials a scholar here runs in cities the Republic does not rule, and every arcane chapter house on the continent trades under it
-          knowledge: named
-        - place: place-aukhelathrgq
-          how: >-
-            centuries of exchange with the river empire run both ways—Helionite philosophy into Khelâthi theological debate, Khelâthi mathematics and astronomy into Helionite scholarship
-          knowledge: named
-        - place: place-byzariargn
-          how: the academies here share the roots and have diverged from them over centuries
-          knowledge: named
-    who:
-      - {ref: affiliation-panepistmm, role: founder}
-      - {ref: affiliation-ctysttshlns, role: founder}
-    accounts:
-      - by: place-helionis
-        says: >-
-          The crown jewel of Helionite civilization, and a monument to the idea that all forms of knowledge are worth pursuing and that truth is best found through open inquiry.
-        agrees: full
-      - by: affiliation-ordoarcanis
-        says: >-
-          The College of Arcane Philosophy developed the foundational theories here—elemental classification, oppositional forces, structured practice—before any of what followed.
-        agrees: partly
-    unresolved: []
+  events:
+    - when: ~-400
+      precision: decade
+      kind: founding
+      depth: world
+      sources: [affiliation-panepistmm, place-helionis]
+      summary: >-
+        The leading philosophical schools of the Helionite city-states agree to a common federation of standards and mutual recognition. The Panepistemium is not a guild or a government body but an intellectual society, organized into colleges of roughly equal standing—metaphysics, ethics, logic, natural philosophy, political thought, aesthetics, and the arcane arts among them. A scholar it credentials is received in any Helionite city.
+      standing: attested
+      names:
+        - name: Panepistēmion
+          by: place-helionis
+          gloss: the place of all knowledge, which Vylarian tongues wear down to Panepistemium
+      where:
+        locus: [place-helionis]
+        reach:
+          - place: place-midhalnrgn
+            how: >-
+              the charter that credentials a scholar here runs in cities the Republic does not rule, and every arcane chapter house on the continent trades under it
+            knowledge: named
+          - place: place-aukhelathrgq
+            how: >-
+              centuries of exchange with the river empire run both ways—Helionite philosophy into Khelâthi theological debate, Khelâthi mathematics and astronomy into Helionite scholarship
+            knowledge: named
+          - place: place-byzariargn
+            how: the academies here share the roots and have diverged from them over centuries
+            knowledge: named
+      who:
+        - {ref: affiliation-panepistmm, role: founder}
+        - {ref: affiliation-ctysttshlns, role: founder}
+      accounts:
+        - by: place-helionis
+          says: >-
+            The crown jewel of Helionite civilization, and a monument to the idea that all forms of knowledge are worth pursuing and that truth is best found through open inquiry.
+          agrees: full
+        - by: affiliation-ordoarcanis
+          says: >-
+            The College of Arcane Philosophy developed the foundational theories here—elemental classification, oppositional forces, structured practice—before any of what followed.
+          agrees: partly
+      unresolved: []
 ---
 
 The most significant of the Helionite institutions was the
