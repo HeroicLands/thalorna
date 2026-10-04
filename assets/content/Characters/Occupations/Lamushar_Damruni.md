@@ -13,7 +13,7 @@ data:
   lore: []
   culture: haradianclt
   homes: [qadhirun]
-  affiliations: {cnfdrtnhrdnstts: {rank: 3}}
+  affiliations: {cnfdrtnhrdnstts: {rank: 3}, menerva: {rank: 1}}
   gender: male
   species: humanflk
   born: 679.286
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 15}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-menerva}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 48}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 16}}
     - {model: sohl-sohl-skill-law, system: {masteryLevelBase: 80}}

@@ -13,7 +13,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [valdes]
-  affiliations: {kingdmtrvn: {rank: 2}}
+  affiliations: {kingdmtrvn: {rank: 2}, venusia: {rank: 1}}
   gender: male
   species: humanflk
   born: 684.167
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 10}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 10}}
-    - {model: affiliation-venusia}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 45}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 14}}

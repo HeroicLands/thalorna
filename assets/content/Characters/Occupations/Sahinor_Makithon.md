@@ -13,7 +13,7 @@ data:
   lore: []
   culture: helioniteclt
   homes: [thyrenae2]
-  affiliations: {thyrenae: {rank: 4}}
+  affiliations: {thyrenae: {rank: 4}, janus: {rank: 1}}
   gender: male
   species: humanflk
   born: 670.313
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 16}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 17}}
-    - {model: affiliation-janus}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 70}}

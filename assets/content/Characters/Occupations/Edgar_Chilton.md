@@ -13,7 +13,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: [caerwynd]
-  affiliations: {kngdmldrth: {rank: 2}}
+  affiliations: {kngdmldrth: {rank: 2}, thanatos: {rank: 1}}
   gender: male
   species: humanflk
   born: "679.9"
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-thanatos}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 70}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 56}}

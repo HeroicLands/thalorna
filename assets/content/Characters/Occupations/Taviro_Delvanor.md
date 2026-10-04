@@ -13,7 +13,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [valdes]
-  affiliations: {kingdmtrvn: {rank: 2}}
+  affiliations: {kingdmtrvn: {rank: 2}, murkir: {rank: 1}}
   gender: male
   species: humanflk
   born: 698.182
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 10}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 10}}
-    - {model: affiliation-murkir}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 48}}
     - {model: sohl-sohl-skill-eng, system: {masteryLevelBase: 10}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 11}}

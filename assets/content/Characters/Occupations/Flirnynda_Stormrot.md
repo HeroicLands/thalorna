@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [knalthstead]
-  affiliations: {kngdmnrdhm: {rank: 3}}
+  affiliations: {kngdmnrdhm: {rank: 3}, velgrimr: {rank: 1}}
   gender: female
   species: humanflk
   born: 697.95
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 10}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-velgrimr}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 75}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 28}}

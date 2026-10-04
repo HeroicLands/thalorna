@@ -13,7 +13,7 @@ data:
   lore: []
   culture: helioniteclt
   homes: [kalydria2]
-  affiliations: {kalydria: {rank: 4}}
+  affiliations: {kalydria: {rank: 4}, taranon: {rank: 1}}
   gender: male
   species: humanflk
   born: 678.58
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 10}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 11}}
-    - {model: affiliation-taranon}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 24}}

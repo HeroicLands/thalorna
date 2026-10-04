@@ -13,7 +13,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: [kingsholow]
-  affiliations: {kngdmldrth: {rank: 5}}
+  affiliations: {kngdmldrth: {rank: 5}, janus: {rank: 1}}
   gender: male
   species: humanflk
   born: "691.34"
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-janus}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 45}}
     - {model: sohl-sohl-skill-eng, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 14}}

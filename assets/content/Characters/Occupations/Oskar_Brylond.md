@@ -13,7 +13,7 @@ data:
   lore: []
   culture: provenzianclt
   homes: [fiordaure]
-  affiliations: {kngdmprvnz: {rank: 2}}
+  affiliations: {kngdmprvnz: {rank: 2}, venusia: {rank: 1}}
   gender: male
   species: humanflk
   born: 678.99
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 15}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-venusia}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 64}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 80}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 56}}

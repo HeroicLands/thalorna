@@ -13,7 +13,7 @@ data:
   lore: []
   culture: provenzianclt
   homes: [provenzrgn]
-  affiliations: {kngdmprvnz: {rank: 2}}
+  affiliations: {kngdmprvnz: {rank: 2}, arldnpnthn: {rank: 1}}
   gender: male
   species: humanflk
   born: 693.97
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 8}}
     - {model: sohl-sohl-attribute-wil, system: {scoreBase: 11}}
-    - {model: affiliation-arldnpnthn}
     - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 47}}
     - {model: sohl-sohl-skill-chrm, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-skill-cmd, system: {masteryLevelBase: 45}}

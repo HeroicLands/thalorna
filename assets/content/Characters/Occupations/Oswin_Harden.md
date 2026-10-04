@@ -13,7 +13,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: [caerwynd]
-  affiliations: {kngdmldrth: {rank: 2}}
+  affiliations: {kngdmldrth: {rank: 2}, venusia: {rank: 1}}
   gender: male
   species: humanflk
   born: 674.64
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 15}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 14}}
-    - {model: affiliation-venusia}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 60}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 60}}
     - {model: sohl-sohl-skill-eng, system: {masteryLevelBase: 12}}

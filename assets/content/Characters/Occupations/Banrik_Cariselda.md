@@ -13,7 +13,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [solarden]
-  affiliations: {kingdmtrvn: {rank: 2}}
+  affiliations: {kingdmtrvn: {rank: 2}, taranon: {rank: 1}}
   gender: male
   species: humanflk
   born: 691.49
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-taranon}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 11}}

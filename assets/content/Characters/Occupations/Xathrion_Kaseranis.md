@@ -13,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [valdosta]
-  affiliations: {vylarinmpr: {rank: 5}}
+  affiliations: {vylarinmpr: {rank: 5}, florania: {rank: 1}}
   gender: male
   species: humanflk
   born: 676.162
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 10}}
-    - {model: affiliation-florania}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 17}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 51}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 32}}

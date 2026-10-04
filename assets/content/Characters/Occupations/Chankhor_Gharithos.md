@@ -13,7 +13,7 @@ data:
   lore: []
   culture: helioniteclt
   homes: [theradon2]
-  affiliations: {theradon: {rank: 4}}
+  affiliations: {theradon: {rank: 4}, florania: {rank: 1}}
   gender: male
   species: humanflk
   born: 682.39
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 10}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 10}}
-    - {model: affiliation-florania}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 12}}

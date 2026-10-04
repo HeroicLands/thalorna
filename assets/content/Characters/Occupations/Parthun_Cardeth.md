@@ -13,7 +13,7 @@ data:
   lore: []
   culture: elavendriclt
   homes: [valdun]
-  affiliations: {kngdmlvndr: {rank: 2}}
+  affiliations: {kngdmlvndr: {rank: 2}, lusinia: {rank: 1}}
   gender: male
   species: humanflk
   born: 679.147
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 17}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 16}}
-    - {model: affiliation-lusinia}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 56}}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 39}}

@@ -13,7 +13,7 @@ data:
   lore: []
   culture: elavendriclt
   homes: [portaelion]
-  affiliations: {kngdmlvndr: {rank: 5}}
+  affiliations: {kngdmlvndr: {rank: 5}, blackflame: {rank: 1}}
   gender: female
   species: humanflk
   born: 692.86
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 16}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 7}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 13}}
-    - {model: affiliation-blackflame}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 20}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 55}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 62}}

@@ -13,7 +13,7 @@ data:
   lore: []
   culture: haradianclt
   homes: [azhun2]
-  affiliations: {cnfdrtnhrdnstts: {rank: 3}}
+  affiliations: {cnfdrtnhrdnstts: {rank: 3}, florania: {rank: 1}}
   gender: female
   species: humanflk
   born: 670.94
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-florania}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 70}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 39}}

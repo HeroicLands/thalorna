@@ -13,7 +13,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: [ravenmoor]
-  affiliations: {kingdmdnvr: {rank: 2}}
+  affiliations: {kingdmdnvr: {rank: 2}, morvana: {rank: 1}}
   gender: male
   species: humanflk
   born: "672.270"
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 10}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 11}}
-    - {model: affiliation-morvana}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 33}}
     - {model: sohl-sohl-skill-eng, system: {masteryLevelBase: 11}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 12}}
