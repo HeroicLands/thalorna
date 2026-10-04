@@ -63,7 +63,7 @@ not lekhau at all.
 [[lore-anlaghkhlth|Anlagh'Khelâthu]]—the Living Black Land—is the domain of water, fertility, growth, healing, and abundance. It is one of the
 eight into which the [[lore-khelunulekha|Khelunu Lekhau]] partitions the Dýnaris—by function in
 the cosmic order rather than by substance, which is why no portion of it corresponds to any single
-Eídma of the western [[lore-hexhodai|Héx Hodäi]].
+Eídma of the western [[affiliation-hexhodai|Héx Hodäi]].
 
 ### See Also
 

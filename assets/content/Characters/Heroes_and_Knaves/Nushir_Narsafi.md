@@ -13,7 +13,7 @@ data:
   lore: []
   culture: khazrynclt
   homes: [zargandur]
-  affiliations: {khzrncnfdrtn: {}}
+  affiliations: {khzrncnfdrtn: {rank: 2}, korsadra: {rank: 1}}
   gender: female
   species: humanflk
   born: 673.102
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 11}}
-    - {model: affiliation-korsadra}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 22}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 33}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 13}}

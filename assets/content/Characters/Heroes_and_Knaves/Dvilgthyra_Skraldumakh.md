@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [malstead]
-  affiliations: {kingdomlgn: {}}
+  affiliations: {kingdomlgn: {rank: 1}, frodvin: {rank: 1}}
   gender: female
   species: humanflk
   born: 693.264
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-frodvin}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 70}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 14}}

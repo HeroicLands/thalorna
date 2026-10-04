@@ -13,7 +13,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [solarden]
-  affiliations: {kingdmtrvn: {}}
+  affiliations: {kingdmtrvn: {rank: 2}}
   gender: female
   species: humanflk
   born: 693.264

@@ -13,7 +13,7 @@ data:
   lore: []
   culture: byzarianclt
   homes: [thalassos]
-  affiliations: {byzarianlg: {}}
+  affiliations: {byzarianlg: {rank: 3}, venusia: {rank: 1}}
   gender: male
   species: humanflk
   born: 693.276
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 17}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-venusia}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 17}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 34}}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 17}}

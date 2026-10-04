@@ -13,7 +13,7 @@ data:
   lore: []
   culture: byzarianclt
   homes: [byzaris]
-  affiliations: {byzarianlg: {}}
+  affiliations: {byzarianlg: {rank: 3}, venusia: {rank: 1}}
   gender: female
   species: humanflk
   born: 692.96
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-venusia}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 39}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 14}}

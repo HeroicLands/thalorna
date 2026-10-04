@@ -13,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [sanctara]
-  affiliations: {hlykngdmnrtm: {}}
+  affiliations: {hlykngdmnrtm: {rank: 2}, venusia: {rank: 1}}
   gender: male
   species: humanflk
   born: 682.263
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-venusia}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 14}}

@@ -6,7 +6,7 @@ subType: calendar
 description: "The ancient Khazryn calendar: twelve thirty-day months and a five-day festival that closes the year at the spring equinox, kept by the Mōbadate against the Ātárzád's own ritual reckoning."
 tags: [reference, calendar]
 data:
-  epoch: -1500.1
+  epoch: "-1500.1"
   months:
     - {name: First, days: 30}
     - {name: Second, days: 30}

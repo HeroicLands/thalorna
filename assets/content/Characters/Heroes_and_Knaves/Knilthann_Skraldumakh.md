@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [tvalgard]
-  affiliations: {kingdmtrgd: {}}
+  affiliations: {kingdmtrgd: {rank: 4}, odvar: {rank: 1}}
   gender: male
   species: humanflk
   born: 677.138
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 16}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 17}}
-    - {model: affiliation-odvar}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 52}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 65}}
     - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 26}}

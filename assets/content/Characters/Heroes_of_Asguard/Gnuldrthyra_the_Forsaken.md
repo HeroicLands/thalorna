@@ -13,10 +13,10 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [vrystwald]
-  affiliations: {vrystwldtrbs: {}}
+  affiliations: {vrystwldtrbs: {rank: 0}}
   gender: female
   species: humanflk
-  born: 693.250
+  born: "693.250"
   height: 1.69
   weight: 60
   frame: medium

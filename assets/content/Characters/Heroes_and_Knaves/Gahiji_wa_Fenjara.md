@@ -13,10 +13,10 @@ data:
   lore: []
   culture: nyalubaclt
   homes: [fenjaravlg]
-  affiliations: {nylbtrblntn: {}}
+  affiliations: {nylbtrblntn: {rank: 3}, nyalbleop: {rank: 1}}
   gender: male
   species: humanflk
-  born: 692.32
+  born: "692.32"
   height: 1.88
   weight: 90.7
   frame: heavy
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 15}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-nyalbleop}
     - {model: skill-leopardsengalasprt, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 30}}

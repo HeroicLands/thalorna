@@ -13,10 +13,10 @@ data:
   lore: []
   culture: byzarianclt
   homes: [yesilhan2]
-  affiliations: {byzarianlg: {}}
+  affiliations: {byzarianlg: {rank: 3}, menerva: {rank: 1}}
   gender: male
   species: humanflk
-  born: 668.32
+  born: "668.32"
   height: 1.83
   weight: 80.3
   frame: heavy
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 8}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 11}}
-    - {model: affiliation-menerva}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 14}}

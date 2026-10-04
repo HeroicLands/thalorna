@@ -13,7 +13,7 @@ data:
   lore: []
   culture: byzarianclt
   homes: [byzaris]
-  affiliations: {byzarianlg: {}}
+  affiliations: {byzarianlg: {rank: 3}, sacredforge: {rank: 1}}
   gender: male
   species: humanflk
   born: 676.251
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 8}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 11}}
-    - {model: affiliation-sacredforge}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 12}}
     - {model: sohl-sohl-skill-pfmy, system: {masteryLevelBase: 14}}

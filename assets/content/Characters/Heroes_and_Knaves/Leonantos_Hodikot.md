@@ -13,7 +13,7 @@ data:
   lore: []
   culture: byzarianclt
   homes: [chrysamar]
-  affiliations: {byzarianlg: {}}
+  affiliations: {byzarianlg: {rank: 3}, florania: {rank: 3}}
   gender: male
   species: humanflk
   born: 675.108
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 15}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 6}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 14}}
-    - {model: affiliation-florania}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 28}}

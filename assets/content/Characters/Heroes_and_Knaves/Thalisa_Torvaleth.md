@@ -13,10 +13,10 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [tarvenirgn]
-  affiliations: {kingdmtrvn: {}}
+  affiliations: {kingdmtrvn: {rank: 2}, taranon: {rank: 1}}
   gender: female
   species: humanflk
-  born: 693.110
+  born: "693.110"
   height: 1.78
   weight: 71.2
   frame: light
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 13}}
-    - {model: affiliation-taranon}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 14}}

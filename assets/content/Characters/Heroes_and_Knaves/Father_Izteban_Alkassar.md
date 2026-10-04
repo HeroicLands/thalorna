@@ -17,7 +17,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [torreviga]
-  affiliations: {kingdmtrvn: {}}
+  affiliations: {kingdmtrvn: {rank: 3}, janus: {rank: 3}}
   gender: male
   species: humanflk
   born: 694.121
@@ -47,7 +47,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 16}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 14}}
-    - {model: affiliation-janus}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 30}}

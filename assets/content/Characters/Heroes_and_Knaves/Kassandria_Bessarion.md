@@ -13,7 +13,7 @@ data:
   lore: []
   culture: byzarianclt
   homes: [byzaris]
-  affiliations: {byzarianlg: {}}
+  affiliations: {byzarianlg: {rank: 3}, florania: {rank: 1}}
   gender: female
   species: humanflk
   born: 683.247
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 15}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 15}}
-    - {model: affiliation-florania}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 32}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 32}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 85}}
@@ -432,7 +431,7 @@ Born into the distinguished Bessarîon merchant family of [[place-byzaris|Byzari
 
 ### Scholarly Pursuits and Dangerous Experiments
 
-For nearly two decades, Kassándria devoted herself to the systematic cataloging and analysis of forgotten languages and archaic magical texts, studying linguistic patterns in spellwork and discovering connections between phonetic structures and the deeper mechanics of the [[lore-hexhodai|Héx Hodäi]]. Her three published treatises on ancient thaumaturgical traditions earned her reputation as the foremost expert in her field throughout the Byzarian League and beyond, yet also made her a controversial figure. Her most recent work, _On the Wards of the Sundered Kingdoms_, suggested that the fragmentation and decline of the ancient Helionite city-states was not inevitable catastrophe but the result of deliberate arcane workings by powers whose names and purposes have been deliberately erased from history. This thesis attracted both deep admiration from scholars who sought vindication of lost traditions and fierce denunciation from conservative factions within the Epistemium who viewed such speculations as destabilizing and potentially heretical.
+For nearly two decades, Kassándria devoted herself to the systematic cataloging and analysis of forgotten languages and archaic magical texts, studying linguistic patterns in spellwork and discovering connections between phonetic structures and the deeper mechanics of the [[affiliation-hexhodai|Héx Hodäi]]. Her three published treatises on ancient thaumaturgical traditions earned her reputation as the foremost expert in her field throughout the Byzarian League and beyond, yet also made her a controversial figure. Her most recent work, _On the Wards of the Sundered Kingdoms_, suggested that the fragmentation and decline of the ancient Helionite city-states was not inevitable catastrophe but the result of deliberate arcane workings by powers whose names and purposes have been deliberately erased from history. This thesis attracted both deep admiration from scholars who sought vindication of lost traditions and fierce denunciation from conservative factions within the Epistemium who viewed such speculations as destabilizing and potentially heretical.
 
 ### Present Circumstances
 

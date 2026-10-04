@@ -17,7 +17,7 @@ data:
   lore: []
   culture: vedyariclt
   homes: [suvarnagiri]
-  affiliations: {suvrgrjnpd: {}}
+  affiliations: {suvrgrjnpd: {rank: 3}, varakpnthn: {rank: 1}}
   gender: female
   species: humanflk
   born: 689.171
@@ -47,7 +47,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 13}}
-    - {model: affiliation-varakpnthn}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 48}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 60}}

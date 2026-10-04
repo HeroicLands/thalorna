@@ -13,10 +13,10 @@ data:
   lore: []
   culture: byzarianclt
   homes: [thalassos]
-  affiliations: {byzarianlg: {}}
+  affiliations: {byzarianlg: {rank: 3}, janus: {rank: 1}}
   gender: male
   species: humanflk
-  born: 678.60
+  born: "678.60"
   height: 1.83
   weight: 80.7
   frame: heavy
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-janus}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-eng, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 42}}

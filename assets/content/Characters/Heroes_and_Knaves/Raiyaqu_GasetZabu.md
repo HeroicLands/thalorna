@@ -14,7 +14,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [galezkara]
-  affiliations: {empireakhlth: {}}
+  affiliations: {empireakhlth: {rank: 7}, uznera: {rank: 1}}
   socialTies:
     affiliation-genzetuznera: patron
     affiliation-linzuwaretgl: rival
@@ -49,7 +49,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 16}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 15}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 13}}
-    - {model: affiliation-uznera}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 65}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 52}}

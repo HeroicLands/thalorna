@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [tvalgard]
-  affiliations: {kingdmtrgd: {}}
+  affiliations: {kingdmtrgd: {rank: 3}, thrunvald: {rank: 1}}
   gender: female
   species: humanflk
   born: 668.91
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 10}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-thrunvald}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 65}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 65}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 13}}

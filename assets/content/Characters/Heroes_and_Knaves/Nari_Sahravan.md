@@ -13,7 +13,7 @@ data:
   lore: []
   culture: khazrynclt
   homes: [oasishirvn]
-  affiliations: {khzrncnfdrtn: {}}
+  affiliations: {khzrncnfdrtn: {rank: 5}, korsadra: {rank: 1}}
   gender: female
   species: humanflk
   born: 687.198
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 13}}
-    - {model: affiliation-korsadra}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 64}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 60}}
     - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 75}}

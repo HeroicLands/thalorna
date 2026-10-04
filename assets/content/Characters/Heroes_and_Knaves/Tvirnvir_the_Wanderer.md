@@ -13,10 +13,10 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [flarnbrekka]
-  affiliations: {kingdmnrgd: {}}
+  affiliations: {kingdmnrgd: {rank: 2}, svartbrandr: {rank: 1}}
   gender: male
   species: humanflk
-  born: 690.36
+  born: "690.36"
   height: 1.7
   weight: 63.5
   frame: light
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 16}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 10}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 16}}
-    - {model: affiliation-svartbrandr}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 70}}
     - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 15}}

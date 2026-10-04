@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [vrystwald]
-  affiliations: {vrystwldtrbs: {}}
+  affiliations: {vrystwldtrbs: {rank: 3}, motefnir: {rank: 1}}
   gender: male
   species: humanflk
   born: 668.146
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 10}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 8}}
-    - {model: affiliation-motefnir}
   system:
     body:
       structure:

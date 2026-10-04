@@ -14,7 +14,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [garanlaghet]
-  affiliations: {empireakhlth: {}}
+  affiliations: {empireakhlth: {rank: 3}, thubai: {rank: 1}}
   gender: female
   species: humanflk
   born: 684.261
@@ -44,7 +44,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 16}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 17}}
-    - {model: affiliation-thubai}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 15}}

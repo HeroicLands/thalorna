@@ -13,10 +13,10 @@ data:
   lore: []
   culture: vylarianclt
   homes: [ashenmere]
-  affiliations: {provncmktr: {}}
+  affiliations: {provncmktr: {rank: 4}, venusia: {rank: 1}}
   gender: male
   species: humanflk
-  born: 681.140
+  born: "681.140"
   height: 1.8
   weight: 78
   frame: medium
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 10}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 11}}
-    - {model: affiliation-venusia}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 52}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 13}}

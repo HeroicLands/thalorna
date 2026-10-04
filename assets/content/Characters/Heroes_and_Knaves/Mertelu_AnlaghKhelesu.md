@@ -14,10 +14,10 @@ data:
   lore: []
   culture: khelathiclt
   homes: [garanlaghet]
-  affiliations: {empireakhlth: {}}
+  affiliations: {empireakhlth: {rank: 3}, gewaatis: {rank: 1}}
   gender: female
   species: humanflk
-  born: 674.100
+  born: "674.100"
   height: 1.83
   weight: 71.7
   frame: medium
@@ -44,7 +44,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-gewaatis}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 65}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 11}}

@@ -13,7 +13,7 @@ data:
   lore: []
   culture: vedyariclt
   homes: [rajapur]
-  affiliations: {rajaprjnpd: {}}
+  affiliations: {rajaprjnpd: {rank: 3}, varakpnthn: {rank: 1}}
   gender: female
   species: humanflk
   born: 693.278
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 15}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 14}}
-    - {model: affiliation-varakpnthn}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 56}}
     - {model: sohl-sohl-skill-eng, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 39}}

@@ -13,10 +13,10 @@ data:
   lore: []
   culture: vedyariclt
   homes: [suvarnagiri]
-  affiliations: {suvrgrjnpd: {}}
+  affiliations: {suvrgrjnpd: {rank: 6}, varakpnthn: {rank: 1}}
   gender: male
   species: humanflk
-  born: 687.34
+  born: "687.34"
   height: 1.83
   weight: 73.9
   frame: medium
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-varakpnthn}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 45}}
     - {model: sohl-sohl-skill-eng, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 14}}

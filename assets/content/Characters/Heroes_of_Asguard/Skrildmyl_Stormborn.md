@@ -13,10 +13,10 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [nrdlndsrgn]
-  affiliations: {kngdmnrdhm: {}}
+  affiliations: {kngdmnrdhm: {rank: 5}, thrunvald: {rank: 1}}
   gender: male
   species: humanflk
-  born: 674.6
+  born: "674.6"
   height: 1.81
   weight: 103
   frame: heavy
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 15}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 15}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 16}}
-    - {model: affiliation-thrunvald}
   system:
     body:
       structure:

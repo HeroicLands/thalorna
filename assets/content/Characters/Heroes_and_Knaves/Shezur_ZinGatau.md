@@ -14,7 +14,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [anlaghzetun]
-  affiliations: {empireakhlth: {}}
+  affiliations: {empireakhlth: {rank: 3}, thubai: {rank: 1}}
   gender: male
   species: humanflk
   born: 673.344
@@ -44,7 +44,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 9}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 11}}
-    - {model: affiliation-thubai}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 48}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-skill-pfmy, system: {masteryLevelBase: 12}}

@@ -13,10 +13,10 @@ data:
   lore: []
   culture: aelwythanclt
   homes: [thornbury]
-  affiliations: {repblctrvn: {}}
+  affiliations: {repblctrvn: {rank: 4}}
   gender: female
   species: humanflk
-  born: 695.110
+  born: "695.110"
   height: 1.7
   weight: 61
   frame: light

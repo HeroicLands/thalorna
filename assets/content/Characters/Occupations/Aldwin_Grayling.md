@@ -13,10 +13,10 @@ data:
   lore: []
   culture: aelwythanclt
   homes: [ravenmoor]
-  affiliations: {kingdmdnvr: {}}
+  affiliations: {kingdmdnvr: {rank: 2}}
   gender: male
   species: humanflk
-  born: 672.270
+  born: "672.270"
   height: 1.83
   weight: 78
   frame: medium

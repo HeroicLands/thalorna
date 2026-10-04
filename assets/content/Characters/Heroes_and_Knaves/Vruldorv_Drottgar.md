@@ -13,10 +13,10 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [nalthmark]
-  affiliations: {kngdmnrdhm: {}}
+  affiliations: {kngdmnrdhm: {rank: 3}, frodvin: {rank: 1}}
   gender: male
   species: humanflk
-  born: 686.90
+  born: "686.90"
   height: 1.8
   weight: 81.6
   frame: medium
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 9}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 11}}
-    - {model: affiliation-frodvin}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-skill-eng, system: {masteryLevelBase: 9}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 11}}

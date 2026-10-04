@@ -13,7 +13,7 @@ data:
   lore: []
   culture: khazrynclt
   homes: [kethramir]
-  affiliations: {khzrncnfdrtn: {}}
+  affiliations: {khzrncnfdrtn: {rank: 5}, zurathra: {rank: 3}}
   gender: female
   species: humanflk
   born: 686.235
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 14}}
-    - {model: affiliation-zurathra}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 60}}

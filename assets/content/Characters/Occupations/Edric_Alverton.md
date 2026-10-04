@@ -13,10 +13,10 @@ data:
   lore: []
   culture: aelwythanclt
   homes: [brynhallow]
-  affiliations: {kngdmldrth: {}}
+  affiliations: {kngdmldrth: {rank: 2}}
   gender: male
   species: humanflk
-  born: 667.60
+  born: "667.60"
   height: 1.8
   weight: 80
   frame: heavy

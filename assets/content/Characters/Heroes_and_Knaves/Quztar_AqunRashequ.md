@@ -14,10 +14,10 @@ data:
   lore: []
   culture: khelathiclt
   homes: [galezkara]
-  affiliations: {empireakhlth: {}}
+  affiliations: {empireakhlth: {rank: 3}, uznera: {rank: 1}}
   gender: male
   species: humanflk
-  born: 662.32
+  born: "662.32"
   height: 1.75
   weight: 69.9
   frame: medium
@@ -44,7 +44,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-uznera}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-eng, system: {masteryLevelBase: 39}}

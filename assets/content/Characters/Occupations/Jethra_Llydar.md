@@ -13,7 +13,7 @@ data:
   lore: []
   culture: elavendriclt
   homes: [cerdwnshlw]
-  affiliations: {kngdmlvndr: {}}
+  affiliations: {kngdmlvndr: {rank: 2}}
   gender: female
   species: humanflk
   born: 681.125

@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [vrathavn]
-  affiliations: {kingdmnrgd: {}}
+  affiliations: {kingdmnrgd: {rank: 3}, svartbrandr: {rank: 1}}
   socialTies: {being-skrldmylstrmbrn: patron}
   gender: male
   species: humanflk
@@ -44,7 +44,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 9}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 11}}
-    - {model: affiliation-svartbrandr}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 65}}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 13}}

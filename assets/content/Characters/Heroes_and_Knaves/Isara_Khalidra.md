@@ -14,10 +14,10 @@ data:
   lore: []
   culture: helioniteclt
   homes: [helionis]
-  affiliations: {thetamzir: {}, theradon: {}}
+  affiliations: {thetamzir: {rank: 2}, theradon: {rank: 4}}
   gender: female
   species: humanflk
-  born: 693.300
+  born: "693.300"
   height: 1.73
   weight: 62.6
   frame: light

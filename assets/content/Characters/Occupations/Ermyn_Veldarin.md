@@ -13,10 +13,10 @@ data:
   lore: []
   culture: elavendriclt
   homes: [elavendre]
-  affiliations: {kngdmlvndr: {}}
+  affiliations: {kngdmlvndr: {rank: 2}}
   gender: male
   species: humanflk
-  born: 697.160
+  born: "697.160"
   height: 1.72
   weight: 58
   frame: light

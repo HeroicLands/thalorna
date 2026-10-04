@@ -14,7 +14,7 @@ data:
   lore: []
   culture: haradianclt
   homes: [haradregin]
-  affiliations: {thetamzir: {}, cnfdrtnhrdnstts: {}}
+  affiliations: {thetamzir: {rank: 3}, cnfdrtnhrdnstts: {rank: 3}}
   gender: female
   species: humanflk
   born: 696.125

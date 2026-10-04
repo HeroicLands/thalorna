@@ -13,7 +13,7 @@ data:
   lore: []
   culture: dunhariclt
   homes: [golshahr]
-  affiliations: {sultntmrdd: {}}
+  affiliations: {sultntmrdd: {rank: 3}, bahramis: {rank: 1}}
   gender: male
   species: humanflk
   born: 685.304
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 10}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 11}}
-    - {model: affiliation-bahramis}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 39}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 11}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 22}}

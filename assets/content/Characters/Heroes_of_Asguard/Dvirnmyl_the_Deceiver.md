@@ -13,10 +13,10 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [nrdlndsrgn]
-  affiliations: {kngdmnrdhm: {}}
+  affiliations: {kngdmnrdhm: {rank: 3}, velgrimr: {rank: 1}}
   gender: male
   species: humanflk
-  born: 687.16
+  born: "687.16"
   height: 1.75
   weight: 67
   frame: light
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 16}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 6}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 13}}
-    - {model: affiliation-velgrimr}
   system:
     body:
       structure:

@@ -14,7 +14,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [amqelulegez]
-  affiliations: {empireakhlth: {}}
+  affiliations: {empireakhlth: {rank: 4}, qearet: {rank: 4}}
   gender: female
   species: humanflk
   born: 680.276
@@ -46,7 +46,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 16}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-qearet}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 34}}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 17}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 51}}

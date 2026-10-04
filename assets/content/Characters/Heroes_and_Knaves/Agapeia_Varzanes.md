@@ -13,7 +13,7 @@ data:
   lore: []
   culture: byzarianclt
   homes: [kostaros]
-  affiliations: {byzarianlg: {}}
+  affiliations: {byzarianlg: {rank: 3}, florania: {rank: 1}}
   gender: female
   species: humanflk
   born: 692.39
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-florania}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-eng, system: {masteryLevelBase: 33}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 12}}

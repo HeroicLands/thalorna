@@ -13,10 +13,10 @@ data:
   lore: []
   culture: dunhariclt
   homes: [tahrodan]
-  affiliations: {sultntmrdd: {}}
+  affiliations: {sultntmrdd: {rank: 2}, zurathra: {rank: 1}}
   gender: male
   species: humanflk
-  born: 678.190
+  born: "678.190"
   height: 1.78
   weight: 78
   frame: heavy
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 8}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 11}}
-    - {model: affiliation-zurathra}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 39}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 12}}
     - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 24}}

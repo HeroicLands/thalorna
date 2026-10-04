@@ -62,7 +62,7 @@ the Red Land, and the House's commonest work is keeping the people who go there 
 [[lore-gezrulutu|Gezru'lutu]]—the Red Waste—is the domain of fire, drought, storm, endurance, plague, and the wandering. It is one
 of the eight into which the [[lore-khelunulekha|Khelunu Lekhau]] partitions the Dýnaris—by
 function in the cosmic order rather than by substance, which is why no portion of it corresponds
-to any single Eídma of the western [[lore-hexhodai|Héx Hodäi]].
+to any single Eídma of the western [[affiliation-hexhodai|Héx Hodäi]].
 
 ### See Also
 

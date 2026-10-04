@@ -13,10 +13,10 @@ data:
   lore: []
   culture: khazrynclt
   homes: [kethramir]
-  affiliations: {khzrncnfdrtn: {}}
+  affiliations: {khzrncnfdrtn: {rank: 2}, bahramis: {rank: 1}}
   gender: male
   species: humanflk
-  born: 672.270
+  born: "672.270"
   height: 1.83
   weight: 77.6
   frame: medium
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 10}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 11}}
-    - {model: affiliation-bahramis}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 33}}
     - {model: sohl-sohl-skill-eng, system: {masteryLevelBase: 11}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 12}}

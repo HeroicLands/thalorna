@@ -13,10 +13,10 @@ data:
   lore: []
   culture: bethuanclt
   homes: [bethuargn]
-  affiliations: {mtrrchybth: {}}
+  affiliations: {mtrrchybth: {rank: 0}, morvana: {rank: 1}}
   gender: female
   species: humanflk
-  born: 679.80
+  born: "679.80"
   height: 1.72
   weight: 66
   frame: medium
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 6}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 11}}
-    - {model: affiliation-morvana}
     - {model: sohl-sohl-skill-common, system: {masteryLevelBase: 55}}
     - {model: skill-bethunlng, system: {masteryLevelBase: 45}}
     - {model: sohl-sohl-skill-melee, system: {masteryLevelBase: 70}}

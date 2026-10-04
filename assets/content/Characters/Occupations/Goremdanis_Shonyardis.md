@@ -13,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [corvinus]
-  affiliations: {vylarinmpr: {}}
+  affiliations: {vylarinmpr: {rank: 4}}
   gender: male
   species: humanflk
   born: 685.38

@@ -13,10 +13,10 @@ data:
   lore: []
   culture: elavendriclt
   homes: [elanmere]
-  affiliations: {kngdmprvnz: {}}
+  affiliations: {kngdmprvnz: {rank: 2}, taranon: {rank: 1}}
   gender: female
   species: humanflk
-  born: 691.15
+  born: "691.15"
   height: 1.91
   weight: 86.2
   frame: medium
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 9}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-taranon}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 12}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 36}}

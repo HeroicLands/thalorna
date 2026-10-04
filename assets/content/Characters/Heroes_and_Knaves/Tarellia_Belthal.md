@@ -13,7 +13,7 @@ data:
   lore: []
   culture: elavendriclt
   homes: [portaelion]
-  affiliations: {kngdmlvndr: {}}
+  affiliations: {kngdmlvndr: {rank: 2}, florania: {rank: 1}}
   gender: female
   species: humanflk
   born: 681.125
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 15}}
-    - {model: affiliation-florania}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 56}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 39}}

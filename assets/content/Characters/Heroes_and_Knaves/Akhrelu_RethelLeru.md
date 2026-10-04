@@ -14,7 +14,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [garanlaghet]
-  affiliations: {empireakhlth: {}}
+  affiliations: {empireakhlth: {rank: 3}, rethsaar: {rank: 1}}
   gender: male
   species: humanflk
   born: 682.219
@@ -44,7 +44,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 7}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 11}}
-    - {model: affiliation-rethsaar}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-eng, system: {masteryLevelBase: 10}}

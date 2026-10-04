@@ -13,10 +13,10 @@ data:
   lore: []
   culture: provenzianclt
   homes: [fiordaure]
-  affiliations: {kngdmprvnz: {}}
+  affiliations: {kngdmprvnz: {rank: 2}}
   gender: male
   species: humanflk
-  born: 680.8
+  born: "680.8"
   height: 1.8
   weight: 73
   frame: medium

@@ -13,10 +13,10 @@ data:
   lore: []
   culture: byzarianclt
   homes: [selimara]
-  affiliations: {byzarianlg: {}}
+  affiliations: {byzarianlg: {rank: 3}, janus: {rank: 1}}
   gender: male
   species: humanflk
-  born: 672.36
+  born: "672.36"
   height: 1.91
   weight: 84.8
   frame: heavy
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 8}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 11}}
-    - {model: affiliation-janus}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 52}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 24}}

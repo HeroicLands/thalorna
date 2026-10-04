@@ -13,10 +13,10 @@ data:
   lore: []
   culture: vylarianclt
   homes: [corvinus]
-  affiliations: {vylarinmpr: {}}
+  affiliations: {vylarinmpr: {rank: 4}}
   gender: female
   species: humanflk
-  born: 697.4
+  born: "697.4"
   height: 1.73
   weight: 69
   frame: light

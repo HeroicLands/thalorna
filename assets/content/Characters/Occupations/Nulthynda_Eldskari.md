@@ -13,10 +13,10 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [raltholm]
-  affiliations: {kngdmnrdhm: {}}
+  affiliations: {kngdmnrdhm: {rank: 3}}
   gender: female
   species: humanflk
-  born: 692.34
+  born: "692.34"
   height: 1.83
   weight: 86
   frame: medium

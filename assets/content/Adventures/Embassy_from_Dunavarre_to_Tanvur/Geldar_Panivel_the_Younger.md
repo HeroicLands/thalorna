@@ -12,7 +12,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: []
-  affiliations: {kingdmdnvr: {}}
+  affiliations: {kingdmdnvr: {rank: 2}, thanatos: {rank: 2}}
   gender: male
   species: humanflk
   packFolder: adventures
@@ -32,7 +32,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 10}}
-    - {model: affiliation-thanatos}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 68}}
     - {model: sohl-sohl-skill-herb, system: {masteryLevelBase: 55}}
     - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 52}}

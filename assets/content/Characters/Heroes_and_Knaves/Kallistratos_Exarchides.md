@@ -13,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [velysara]
-  affiliations: {provinclys: {}, ordoarcanis: {rank: 3}}
+  affiliations: {provinclys: {rank: 4}, ordoarcanis: {rank: 3}, florania: {rank: 1}}
   gender: male
   species: humanflk
   born: 686.89
@@ -46,7 +46,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 15}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 9}}
-    - {model: affiliation-florania}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 75}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 64}}

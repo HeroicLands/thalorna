@@ -12,7 +12,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: []
-  affiliations: {kingdmdnvr: {}}
+  affiliations: {kingdmdnvr: {rank: 2}, janus: {rank: 1}}
   gender: male
   species: humanflk
   packFolder: adventures
@@ -32,7 +32,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 15}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 10}}
-    - {model: affiliation-janus}
     - {model: sohl-sohl-skill-melee, system: {masteryLevelBase: 72}}
     - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 66}}
     - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 52}}
