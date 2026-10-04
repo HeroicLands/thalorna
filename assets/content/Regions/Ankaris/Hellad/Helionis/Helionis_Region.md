@@ -13,7 +13,7 @@ Once the cultural heart of the [[affiliation-vylarinmpr|Vylarian Empire]], Heli�
 
 ## Geography
 
-Heliónis occupies a rugged peninsula and surrounding islands in the central [[place-vylarianse|Vylarian Sea]]. The terrain is a patchwork of rocky coastlines, olive-clad hills, narrow fertile valleys, and dramatic mountain ranges. The sea is everywhere—no point in Heliónis is far from salt water, and the region's hundreds of islands form a maritime web that connects (and sometimes divides) its communities.
+Heliónis lies east of [[place-vylariargn|Vylaría]], south of [[place-velanthrgn|Velanthia]], and north of Harad, with its coastal cities facing the [[place-vylarianse|Vylarian Sea]]. Its terrain is a patchwork of rocky coastlines, olive-clad hills, narrow fertile valleys, and dramatic mountain ranges. The coast and nearby islands form a maritime web that connects (and sometimes divides) its communities.
 
 The climate is warm and dry, with brilliant sunshine, azure seas, and a clarity of light that artists and philosophers have celebrated for millennia. The soil is thin but productive, supporting olive groves, vineyards, and hardy grain crops on terraced hillsides.
 

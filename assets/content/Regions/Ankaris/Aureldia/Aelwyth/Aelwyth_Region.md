@@ -9,7 +9,7 @@ data: {demonym: null, lore: [], parents: [aureldirgn], population: 710000, packF
 # terran_analog: "The British Isles, but with Ireland and Britain joined into a single landmass shaped like an inverted V. The western arm is trackless deep forest (the Peshtar Wilderness); the eastern arm is the Scottish-and-English-analog kingdom belt (Stormveld in northeastern Scotland, the southern Aelwythan kingdoms in England-analog territory). The two arms meet at the misty northern apex."
 ---
 
-Off the western coast of [[place-ankrscntnnt|Ankaris Continent]], some hundred miles out across the cold sea from the [[place-elavendre|Élavendri]] coast, Aelwyth is a mist-shrouded island known for its great central bay, diverse kingdoms, and thin veil between the mortal and supernatural worlds. Often called "the Misty Isle," Aelwyth is a land of mystery where ancient ruins, lost temples, and forgotten cities stand as remnants of civilizations that have long since passed into legend.
+Off the western coast of [[place-ankrscntnnt|Ankaris Continent]], some hundred miles out across the cold sea from the [[place-elavendre|Élavendri]] coast, Aelwyth is the island containing both [[place-aldorathrgn|Aldorath]] and [[place-dunavarre|Dúnavarre]], as well as Stormveld and Tarvenne. Often called "the Misty Isle," it is a land of mystery where ancient ruins, lost temples, and forgotten cities stand as remnants of civilizations that have long since passed into legend.
 
 ## Geography
 

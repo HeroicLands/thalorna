@@ -6,8 +6,12 @@ subType: region
 data:
   demonym: null
   lore: []
-  parents: [vedyarargn, khzryndsrtrgn]
-  borders: [{to: tanvuregin, bearing: E}, {to: dunharargn, bearing: W}]
+  parents: [ankrscntnnt]
+  borders:
+    - {to: khzryndsrtrgn, bearing: N}
+    - {to: vedyarargn, bearing: S}
+    - {to: tanvuregin, bearing: NE}
+    - {to: dunharargn, bearing: W}
   population: null
   packFolder: vedyara
 
@@ -16,13 +20,13 @@ data:
 
 - **Type:** Great mountain range
 - **Region:** The wall between [[place-vedyarargn|Vedyara]] and the [[place-khzryndsrtrgn|Khazryn Desert]], turning east toward [[place-tanvuregin|Tānvür]] and falling away in the west into the foothills of the [[place-dunharargn|Dunhara]]
-- **Controlled by:** The ridges by no one; they are too high, too cold and too remote to occupy. The passes by whoever holds their throats: a kingdom at the greatest of them, a clan toll-gate or a shrine-tower at the rest, and nobody at all at one.
+- **Controlled by:** The range is unaligned. Its ridges answer to no state; the passes are watched by local guides, shrines, and occasional lowland garrisons at their approaches.
 
 ## Overview
 
-The **Grazian Mountains** are the great mountain wall between the [[place-vedyarargn|Vedyari subcontinent]] and the [[place-khzryndsrtrgn|Khazryn Desert]] to the north, and between it and the western marches of [[affiliation-tanvurempr|Tānvür]] to the northeast. In the west they separate Vedyara from nothing. The range ends there, its last ridges breaking down into the foothills of the [[place-dunharargn|Dunhara]], and the road between the two lands goes round it.
+The **Grazian Mountains** are the unaligned mountain wall north of the [[place-vedyarargn|Vedyari subcontinent]] and south of the [[place-khzryndsrtrgn|Khazryn Desert]]. [[affiliation-tanvurempr|Tānvür]] lies north of the range's eastern reach. In the west, the range ends in the foothills of the [[place-dunharargn|Dunhara]], and the road between Dunhara and Vedyara goes around it.
 
-They are the highest mountains on Thalorna. Their peaks catch the dawn an hour before the lowlands beneath them. Their glaciers have ground their valleys to the same shape since before the [[lore-flksinale|Sinalë]] arrived on the world, and their snowfields feed half the rivers of Vedyara and a meaningful share of the Khazryn's southwestern oases.
+They are the highest mountains on Thalorna. Their summits remain under snow and glacier ice throughout the year, even when the lower passes briefly open in late summer. Their peaks catch the dawn an hour before the lowlands beneath them. Their glaciers have ground their valleys to the same shape since before the [[lore-flksinale|Sinalë]] arrived on the world, and their snowfields feed half the rivers of Vedyara and a meaningful share of the Khazryn's southwestern oases.
 
 Vedyari geographers call them the **Grazian Range** in formal scholarship and the **Grazian Wall** in poetry. The foothill janapadas keep a dozen older names in their own dialect, every one of them older than the classical Vedyari tongue and none of them translating cleanly.
 

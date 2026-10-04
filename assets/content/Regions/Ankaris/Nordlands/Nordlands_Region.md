@@ -10,6 +10,10 @@ data:
   demonym: Nordmen
   lore: [humanflk]
   parents: [ankrscntnnt]
+  borders:
+    - {to: aureldirgn, bearing: S}
+    - {to: vrystwald, bearing: SE}
+    - {to: velanthrgn, bearing: SE}
   population: 2000000
   packFolder: nordlands
 
@@ -20,7 +24,7 @@ The Nordlands are the frozen north of [[place-ankrscntnnt|Ankaris Continent]]—
 
 ## Geography
 
-The Nordlands occupy Ankaris's northwestern quarter, stretching from the old forested marches that front the [[place-aureldirgn|Aurèldían]] north down to the iron coasts that face the open northern ocean. The region is defined above all by its coastline—a saw-toothed geography of thousands of natural harbors carved by glaciers into granite and basalt. The fjords reach deep inland, each a sheltered road for longship fleets.
+The Nordlands occupy northwestern Ankaris, with [[place-aureldirgn|Aurèldía]] to the southwest, [[place-vrystwald|Vrystwald]] and [[place-velanthrgn|Velanthia]] to the south and east, and the open northern ocean beyond their coasts. The region is defined above all by its coastline—a saw-toothed geography of thousands of natural harbors carved by glaciers into granite and basalt. The fjords reach deep inland, each a sheltered road for longship fleets.
 
 Behind the fjords the land rises into mountain ranges of wind-scoured stone and ice, breaking into high interior plateaus where caribou migrate and the most reclusive clans dwell. South and east of the mountains, the terrain settles into boreal forest: endless spruce and pine, pierced by glacier-fed rivers that flow both south toward [[place-midhalnrgn|Mídhalión]] and east toward the frozen interior. Off the northwest coast, a chain of volcanic islands breaks the weather—their hot springs and fertile volcanic soils make them coveted settlements despite their remoteness.
 
