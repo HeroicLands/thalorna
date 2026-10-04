@@ -3,11 +3,11 @@ shortcode: vthrblthlm
 name: {full: Véthar Balthhelm, aliases: []}
 type: being
 subType: npc
-tags: [draft, guilded, tradesfolk]
+tags: [draft, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: [guildsperson]
+  archetypes: [artisan]
   occupation: Innkeeper
   stations: []
   lore: []
@@ -396,7 +396,7 @@ Véthar Balthhelm is a 60-year-old man who stands 5'8" tall and is broad and sol
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a guilded family of Varokhi heritage, Véthar Balthhelm came into the world of the innkeeper through a combination of circumstance and aptitude.
+Born at [[place-waldburg|Waldburg]] to a Varokh household of hosts, Véthar Balthhelm came into the world of the innkeeper through a combination of circumstance and aptitude.
 
 Véthar has been the innkeeper of the Old Stone Inn for over thirty years. Known for his hearty laugh and welcoming nature, he has built a loyal clientele. Véthar is a skilled cook, often sharing recipes passed down through generations. While he enjoys the camaraderie of guests, he also values the peace and tranquility of the countryside.
 
@@ -418,15 +418,13 @@ Skilled cook, excellent host, great storyteller.
 
 ## Social
 
-Véthar is affiliated with Local Innkeepers' Association.
-
-As a Varokhi innkeeper, Véthar occupies a recognized social niche within Vrystwald society.
+Véthar keeps a hall for travelers at Waldburg’s crossing. Its market custom gives him customers, but no innkeepers’ association speaks for him or the other hosts.
 
 ## Companions
 
 ### Patrons
 
-Véthar's primary patron is Regulars from the local community and travelers.. This relationship provides both opportunity and obligation.
+Visiting traders and local households pay for a bed, a meal and a place to settle bargains under the market peace.
 
 ### Enemies
 

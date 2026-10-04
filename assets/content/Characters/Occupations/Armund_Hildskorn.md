@@ -398,7 +398,7 @@ sohl:
 
 Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Ármund Hildskorn came into the world of the jester through a combination of circumstance and aptitude.
 
-Ármund grew up in the bustling streets of the city, using humor and wit to entertain those around him. He earned a reputation as a talented jester, known for his clever wordplay, acrobatics, and mimicry. Ármund now serves as the jester for the Duke, entertaining guests with his antics and providing comic relief during formal events. Despite his cheerful demeanor, he often uses humor to mask deeper insecurities.
+Ármund grew up among the halls and landing places of Falkenstein, using humor and wit to entertain those around him. His wordplay, acrobatics and mimicry have made him welcome at more than one hearth. He travels between village feasts and market gatherings, though his cheer often masks deeper insecurities.
 
 Now at 30 years of age, Ármund Hildskorn has established himself as a known figure among the jesters of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
@@ -418,15 +418,13 @@ Quick-witted, skilled performer, adept at reading the crowd.
 
 ## Social
 
-Ármund is affiliated with None; works independently..
-
-As a Varokhi jester, Ármund occupies a recognized social niche within Vrystwald society.
+Ármund earns a place by making the households of Falkenstein laugh at themselves, including the warriors whose quarrels can empty a hall. He holds no court appointment; a welcome at one hearth gives him no claim at another.
 
 ## Companions
 
 ### Patrons
 
-Ármund's primary patron is The Duke and visiting nobles.. This relationship provides both opportunity and obligation.
+Households and visiting traders feed or pay Ármund when his performances please them. A War Chief may call for a tale after a muster, but cannot command his voice as a lord would.
 
 ### Enemies
 

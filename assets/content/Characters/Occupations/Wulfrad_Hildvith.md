@@ -422,15 +422,13 @@ Highly experienced, strong leadership skills, skilled in engineering.
 
 ## Social
 
-Wulfrád is affiliated with Local Engineers' Guild.
-
-As a Varokhi man-at-arms (sapper), Wulfrád occupies a recognized social niche within Vrystwald society.
+Wulfrád works with Eichengrund’s war-band on palisades, crossings and siege craft. His skill is valued by the village War Chief, not certified by an engineers’ guild.
 
 ## Companions
 
 ### Patrons
 
-Wulfrád's primary patron is Military leaders who rely on his expertise.. This relationship provides both opportunity and obligation.
+The War Chief and the households that need a defence repaired call on him and supply the workers he needs.
 
 ### Enemies
 

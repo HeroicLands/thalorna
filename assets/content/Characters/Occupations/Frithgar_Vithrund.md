@@ -398,7 +398,7 @@ Frithgár Vithrúnd is a 42-year-old man who stands 6'2" tall and is broad and s
 
 Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Frithgár Vithrúnd came into the world of the huscarl through a combination of circumstance and aptitude.
 
-Frithgár has served as a loyal huscarl for Lord Sigvald for many years. With extensive battle experience, he has seen his share of conflicts and knows how to handle himself in the heat of battle. Frithgár is respected for his tactical knowledge and ability to mentor younger warriors. He aims to pass down his wisdom and ensure the next generation is ready to defend their lord.
+Frithgár has fought with Falkenstein’s war-band for many years. He is respected for his tactical knowledge and for teaching younger warriors to hold the palisade when a raiding party is away. He aims to pass on what he knows so the next generation can defend the village.
 
 Now at 42 years of age, Frithgár Vithrúnd has established himself as a known figure among the huscarls of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
@@ -418,15 +418,13 @@ Experienced strategist, skilled in melee combat, good mentor.
 
 ## Social
 
-Frithgár is affiliated with Lord Sigvald's retinue.
-
-As a Varokhi huscarl, Frithgár occupies a recognized social niche within Vrystwald society.
+Frithgár fights with Falkenstein’s war-band and trains younger warriors there. He owes service to the village’s War Chief in matters of defence and raid, not to a hereditary lord.
 
 ## Companions
 
 ### Patrons
 
-Frithgár's primary patron is Lord Sigvald and his retainers.. This relationship provides both opportunity and obligation.
+Falkenstein’s households and War Chief equip Frithgár for the fighting they ask of him. His standing rests on their continued trust.
 
 ### Enemies
 

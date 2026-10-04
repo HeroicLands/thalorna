@@ -423,15 +423,13 @@ Skilled at forging durable weapons, strong work ethic, reliable.
 
 ## Social
 
-Vithár is affiliated with None; prefers to remain independent..
-
-As a Varokhi weaponcrafter (armorer), Vithár occupies a recognized social niche within Vrystwald society.
+Vithár forges arms for Waldburg’s households and visiting war-bands. His standing comes from the blades that survive use and the bargains he keeps with each buyer.
 
 ## Companions
 
 ### Patrons
 
-Vithár's primary patron is Soldiers, mercenaries, and local guards seeking dependable weapons.. This relationship provides both opportunity and obligation.
+Village warriors and hired fighters bring him damaged arms or commission weapons for the next season’s raids.
 
 ### Enemies
 

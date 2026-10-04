@@ -396,7 +396,7 @@ Theódris Sundrýth is a 29-year-old woman who stands 5'3" tall and is slender. 
 
 Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Theódris Sundrýth came into the world of the beggar through a combination of circumstance and aptitude.
 
-Theódris was left to fend for herself at a young age after her mother passed away. She learned to survive on the streets, using her wits to find food and avoid trouble. Her beautiful singing voice has brought her occasional favor, though she still struggles to escape the cycle of poverty.
+Theódris was left to fend for herself at a young age after her mother passed away. She learned to survive around Grimholt's landing, using her wits to find food and avoid trouble. Her singing voice has brought her occasional favor, though she still struggles to find a household willing to take her in.
 
 Now at 29 years of age, Theódris Sundrýth has established herself as a known figure among the beggars of Vrystwald. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
@@ -416,15 +416,13 @@ Charismatic and a talented singer.
 
 ## Social
 
-Theódris is affiliated with Informal network of street performers..
-
-As a Varokhi beggar, Theódris occupies a recognized social niche within Vrystwald society.
+Theódris survives by song, favors and small gifts at Grimholt’s landing. She has no street circuit or performers’ association to protect her when a household turns her away.
 
 ## Companions
 
 ### Patrons
 
-Theódris's primary patron is Occasionally receives coin for singing from kind strangers.. This relationship provides both opportunity and obligation.
+Boat crews and village households give her food or a coin for a song, a message carried, or a story they have not heard.
 
 ### Enemies
 

@@ -441,6 +441,6 @@ Poachers exploit the land and overhunt.
 
 3. **Echoes of the Past**—A trapline Erthran's father taught him to run is found set again, by someone who knows it as well as he does.
 
-4. **Shifting Winds**—Political change in Vrystwald puts the forest Erthran traps under a new lord, and he can adapt, resist, or leave.
+4. **Shifting Winds**—A neighboring village begins using Erthran's trap ground after a bitter winter, and he can bargain, fight, or move his lines.
 
-5. **The Opportunity**—A lord offers Erthran the wardenship of his forest, and the first duty of it is to trap out the animals Erthran has always spared.
+5. **The Opportunity**—A War Chief asks Erthran to clear a predator from the village paths, but it is one of the animals Erthran has always spared.

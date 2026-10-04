@@ -421,15 +421,13 @@ Agile and quick, skilled in rigging and navigation, good problem solver.
 
 ## Social
 
-Thaldrá is affiliated with None; works as a hired hand..
-
-As a Varokhi common seaman, Thaldrá occupies a recognized social niche within Vrystwald society.
+Thaldrá crews the river-boats that carry Thornhaven’s goods toward Velanthian markets. She chooses a boat by its captain and crew, and is free to leave when the voyage is done.
 
 ## Companions
 
 ### Patrons
 
-Thaldrá's primary patron is Ship captains seeking capable crew members.. This relationship provides both opportunity and obligation.
+Boat crews and village traders hire Thaldrá for difficult passages and pay her a share of the cargo’s return.
 
 ### Enemies
 

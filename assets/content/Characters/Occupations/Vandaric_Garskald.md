@@ -420,15 +420,13 @@ Skilled in animal care, patient, hardworking.
 
 ## Social
 
-Vandaric is affiliated with None; works independently for the inn..
-
-As a Varokhi ostler, Vandaric occupies a recognized social niche within Vrystwald society.
+Vandaric keeps Thornhaven’s stable ready for river traders, visiting scouts and the War Chief’s riders. Its household answers to the village’s bargains, without an association over it.
 
 ## Companions
 
 ### Patrons
 
-Vandaric's primary patron is Travelers and merchants needing stabling for their horses.. This relationship provides both opportunity and obligation.
+Travelers and Thornhaven households pay him for feed, shelter and the care of their mounts.
 
 ### Enemies
 

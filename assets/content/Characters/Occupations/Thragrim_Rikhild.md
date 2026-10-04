@@ -419,13 +419,13 @@ He is skilled in felling trees, experienced in working timber, and physically st
 
 ## Social
 
-Thrágrim belongs to the Timberwrights' Guild.
+Thrágrim chooses and shapes timber near Falkenstein for households that ask for his work. A carpenter may join him on a job, but no timberwrights’ guild owns the forest or judges his craft.
 
 ## Companions
 
 ### Patrons
 
-Thrágrim's patrons are the local builders and carpenters who rely on him for good timber.
+Village builders and boatwrights pay him for sound timber cut at the right season.
 
 ### Enemies
 
@@ -439,6 +439,6 @@ Few, though some villagers find his solitary nature strange.
 
 3. **Echoes of the Past**—Something from Thrágrim's earlier life resurfaces and has to be settled, solitude or no.
 
-4. **Shifting Winds**—Political change in Vrystwald threatens the guild and the trade Thrágrim depends upon, and he can adapt, resist, or leave.
+4. **Shifting Winds**—A feud cuts off the timber paths and threatens the trade Thrágrim depends upon, and he can adapt, resist, or leave.
 
 5. **The Opportunity**—A chance encounter offers Thrágrim work beyond anything the village has paid him, and the price is not named up front.

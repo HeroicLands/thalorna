@@ -395,7 +395,7 @@ Wulfhár Theódwald is a 30-year-old man who stands 6'1" tall and is broad and s
 
 Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Wulfhár Theódwald came into the world of the huscarl through a combination of circumstance and aptitude.
 
-Wulfhár is known for his intimidating presence and fearlessness in battle. He serves Lord Hrothgar and has built a reputation as a reliable and fierce protector. Wulfhár has a strong bond with his fellow huscarls and often trains them in combat techniques. While he thrives in battle, he struggles to express his emotions outside of it.
+Wulfhár is known for his intimidating presence and fearlessness in battle. He guards Thornhaven with its war-band and has built a reputation as a reliable protector. He trains younger fighters beside the people who have fought with him for years. While he thrives in battle, he struggles to express his emotions outside it.
 
 Now at 30 years of age, Wulfhár Theódwald has established himself as a known figure among the huscarls of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
@@ -415,15 +415,13 @@ Physically strong, experienced in hand-to-hand combat, a natural leader.
 
 ## Social
 
-Wulfhár is affiliated with Lord Hrothgar's retinue.
-
-As a Varokhi huscarl, Wulfhár occupies a recognized social niche within Vrystwald society.
+Wulfhár stands with Thornhaven’s war-band and guards its households when danger comes. He follows the War Chief for a muster, not a lord for a lifetime.
 
 ## Companions
 
 ### Patrons
 
-Wulfhár's primary patron is Lord Hrothgar and his family.. This relationship provides both opportunity and obligation.
+Thornhaven’s households provide his food and gear when he serves their defence; the War Chief keeps him close because he has earned the band’s trust.
 
 ### Enemies
 

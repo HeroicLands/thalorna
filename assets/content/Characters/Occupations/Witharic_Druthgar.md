@@ -3,7 +3,7 @@ shortcode: wthrcdrthgr
 name: {full: Wítharic Druthgar, aliases: []}
 type: being
 subType: npc
-tags: [draft, guilded, tradesfolk]
+tags: [draft, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -403,9 +403,9 @@ Wítharic Druthgar is a 42-year-old man who stands 6'0" tall and is broad and so
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a guilded family of Varokhi heritage, Wítharic Druthgar came into the world of the shipwright through a combination of circumstance and aptitude.
+Born at [[place-waldburg|Waldburg]] to a Varokh boatbuilding family, Wítharic Druthgar came into the world of the shipwright through a combination of circumstance and aptitude.
 
-Wítharic hails from a long line of shipwrights and inherited his family's business. He specializes in crafting warships, and his vessels are highly prized for their durability and speed. Wítharic is a hard worker but struggles with the administrative side of the business. His temper can flare when things don't go according to plan, especially with clients who constantly change their requirements.
+Wítharic hails from a long line of shipwrights and inherited his family's business. He builds river-boats prized for carrying people and cargo through the shallow forest channels. Wítharic is a hard worker but struggles with the administrative side of the business. His temper can flare when things don't go according to plan, especially with clients who constantly change their requirements.
 
 Now at 42 years of age, Wítharic Druthgar has established himself as a known figure among the shipwrights of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
@@ -421,29 +421,27 @@ Wítharic is driven by the desire to master his craft and secure a stable future
 
 ### Strengths
 
-Expertise in constructing durable warships, strong work ethic.
+Expertise in constructing durable river-boats, strong work ethic.
 
 ## Social
 
-Wítharic is affiliated with Maritime Shipwrights' Guild.
-
-As a Varokhi shipwright, Wítharic occupies a recognized social niche within Vrystwald society.
+Wítharic builds river-boats at Waldburg with his kin and apprentices. He bargains directly with the households and crews that will use them; no maritime guild assigns his work.
 
 ## Companions
 
 ### Patrons
 
-Wítharic's primary patron is Nobles and military officials seeking warships.. This relationship provides both opportunity and obligation.
+Waldburg traders and village war-bands commission boats that can carry furs, people and captives through the rivers.
 
 ### Enemies
 
-Bureaucrats who clash with his no-nonsense approach.
+Crews who quarrel over a boat's share of the toll before he has finished building it.
 
 ## Plot Hooks
 
 1. **The Shipwright's Dilemma**—Wítharic faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
 
-2. **Old Grudges**—Bureaucrats who clash with his no-nonsense approach. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges**—A boat crew blames Wítharic for a broken hull and refuses to pay, though its captain drove the boat onto the stones.
 
 3. **Echoes of the Past**—Something from Wítharic's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
