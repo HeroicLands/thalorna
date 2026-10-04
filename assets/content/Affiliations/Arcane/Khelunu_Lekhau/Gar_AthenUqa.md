@@ -62,7 +62,7 @@ practitioner's convenience.
 [[lore-athenuqa|Athen'Uqa]]—the Disk in its Heat—is the domain of light, sight, the heat of heaven, kingship, vitality, and the day. It is
 one of the eight into which the [[lore-khelunulekha|Khelunu Lekhau]] partitions the Dýnaris—by
 function in the cosmic order rather than by substance, which is why no portion of it corresponds
-to any single Eídma of the western [[lore-hexhodai|Héx Hodäi]].
+to any single Eídma of the western [[affiliation-hexhodai|Héx Hodäi]].
 
 ### See Also
 

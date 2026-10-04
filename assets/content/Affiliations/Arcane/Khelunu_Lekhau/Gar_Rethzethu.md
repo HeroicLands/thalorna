@@ -65,7 +65,7 @@ is a true name that can be stolen.
 [[lore-rethzethu|Reth'zethu]]—the Name Set Down—is the domain of speech, writing, true names, knowledge, memory, and the mind. It is one
 of the eight into which the [[lore-khelunulekha|Khelunu Lekhau]] partitions the Dýnaris—by
 function in the cosmic order rather than by substance, which is why no portion of it corresponds
-to any single Eídma of the western [[lore-hexhodai|Héx Hodäi]].
+to any single Eídma of the western [[affiliation-hexhodai|Héx Hodäi]].
 
 ### See Also
 

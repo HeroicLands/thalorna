@@ -61,7 +61,7 @@ outlives everyone who witnessed it.
 
 [[lore-qarquzu|Qar'quzu]]—the Truth that Judges—is the domain of law, judgment, binding, wards, oaths, and the weighing of the heart.
 It is one of the eight into which the [[lore-khelunulekha|Khelunu Lekhau]] partitions the Dýnaris—by function in the cosmic order rather than by substance, which is why no portion of it
-corresponds to any single Eídma of the western [[lore-hexhodai|Héx Hodäi]].
+corresponds to any single Eídma of the western [[affiliation-hexhodai|Héx Hodäi]].
 
 ### See Also
 

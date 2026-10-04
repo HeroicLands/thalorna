@@ -55,7 +55,7 @@ This is the path of mages, in every formal magical tradition on Thalorna. The pr
 
 In game terms, this is the basis of all formal arcane skills: Pvarism in HarnMaster, the equivalent skill in Song of Heroic Lands, and any culturally-specific magic skill in any tradition. The skill base is constructed from Aura (the strength of the soul's connection) and Reasoning (the cognitive capacity to hold and execute a framework). Both are required. A genius with weak Aura cannot make magic happen no matter how brilliant their framework-handling; a strong-Aura savant with feeble reasoning can touch the potential but cannot shape the touching into anything coherent. The skill base reflects the cosmology directly.
 
-The framework imposes the structure. Different frameworks impose different structures, and so produce magic with different qualities, vocabularies, taxonomies, and effects. The Ordo's [[lore-hexhodai|Héx Hodäi]] structures the touching into one of six Eídmata—Pyréthos, Hydälis, Zephäris, Physéra, Sidéros, Pneuménos—because that is the grammar the framework provides. The Khelâthi priestly framework structures the touching by reference to divine patronage, producing god-aligned effects. The völvur structure through runes and fate-patterns, producing a magic that emphasizes destiny, weaving, and binding. The druids of Élavendre work with the most permissive framework on the continent, accepting whatever the moment provides and shaping minimally. The Sinalë work with patterns so old and so sophisticated that human comparison is barely meaningful.
+The framework imposes the structure. Different frameworks impose different structures, and so produce magic with different qualities, vocabularies, taxonomies, and effects. The Ordo's [[affiliation-hexhodai|Héx Hodäi]] structures the touching into one of six Eídmata—Pyréthos, Hydälis, Zephäris, Physéra, Sidéros, Pneuménos—because that is the grammar the framework provides. The Khelâthi priestly framework structures the touching by reference to divine patronage, producing god-aligned effects. The völvur structure through runes and fate-patterns, producing a magic that emphasizes destiny, weaving, and binding. The druids of Élavendre work with the most permissive framework on the continent, accepting whatever the moment provides and shaping minimally. The Sinalë work with patterns so old and so sophisticated that human comparison is barely meaningful.
 
 All of these are real. All of them produce real effects. None of them is more _true_ than the others, because there is no truth of the potential's structure to be more or less correct about. The frameworks are tools, and the test of a tool is whether it works.
 
@@ -193,7 +193,7 @@ Several practical implications follow from the metaphysics described above. The 
 
 ## See Also
 
-- [[lore-hexhodai|Héx Hodäi]]—The Ordo's framework, in-world doctrine
+- [[affiliation-hexhodai|Héx Hodäi]]—The Ordo's framework, in-world doctrine
 - [[affiliation-kentra|Kentra]]—The Ordo's mastery rank, and the Vertigo Hodäi affliction
 - [[affiliation-ordoarcanis|Ordo Arcanis]]—The institution
 - [[doc-soulspirts|Souls and Spirits]]—_(GM-only, forthcoming)_ The ontology of souls, the Spirit world, gods, elementals, dragons, necromancy, and summoning

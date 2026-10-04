@@ -20,29 +20,23 @@ data:
         description: >-
           Named against the tradition and cut off from its teaching, its protection and its company; what it taught them is not taken back.
       - level: 1
-        title: Uninitiated
-        description: Outside the tradition entirely—served by it, feared by it, and told nothing.
-      - level: 2
-        title: Aspirant
-        description: Petitioning for admission and being watched to see whether it should be granted.
-      - level: 3
         title: Initiate
         description: >-
           Received into the tradition and bound by its oaths, holding its first mysteries and few of its secrets.
-      - level: 4
+      - level: 2
         title: Adept
         description: Practiced in the tradition's art and trusted to work it unsupervised.
-      - level: 5
+      - level: 3
         title: Master of the Art
         description: Competent to teach the tradition and to answer for what a pupil does with it.
-      - level: 6
+      - level: 4
         title: Keeper of the Tradition
         description: >-
           Holding one of its bodies of knowledge or one of its houses, and answerable for its continuance.
-      - level: 7
+      - level: 5
         title: Elder
         description: Of the small body that decides what the tradition teaches and whom it admits.
-      - level: 8
+      - level: 6
         title: First of the Tradition
         description: >-
           Presiding over the elders and speaking for the whole tradition where it must speak with one voice.
@@ -61,7 +55,7 @@ data:
   population: null
   economy: []
   lore: []
-  parents: []
+  parents: [hexhodai]
   relations: {pneumenos: nemesis, zepharis: aligned, hydalis: aligned}
   packFolder: affiliationshexhodai
 sohl: {system: {commonSkills: []}}
@@ -70,7 +64,7 @@ sohl: {system: {commonSkills: []}}
 #   school: earth
 ---
 
-**Physéra** is the Eídma of stone, growth, endurance, the body, and all that is solid and rooted. It occupies the right vertex of the [[lore-hexhodai|Sigillum]], directly opposite [[affiliation-pneumenos|Pneuménos]]. Where Spirit reaches beyond the material, Earth insists on the primacy of what can be touched, tasted, grown, and built. Eídma Physéra is the largest of the six Sodalitates by membership—a fact its practitioners regard as entirely appropriate, since most of the world is, after all, made of earth.
+**Physéra** is the Eídma of stone, growth, endurance, the body, and all that is solid and rooted. It occupies the right vertex of the [[affiliation-hexhodai|Sigillum]], directly opposite [[affiliation-pneumenos|Pneuménos]]. Where Spirit reaches beyond the material, Earth insists on the primacy of what can be touched, tasted, grown, and built. Eídma Physéra is the largest of the six Sodalitates by membership—a fact its practitioners regard as entirely appropriate, since most of the world is, after all, made of earth.
 
 ## Philosophy
 
@@ -108,7 +102,7 @@ Politically, the Sodalitas Physéra is a stabilizing force within the Ordo. Its 
 
 ## See Also
 
-- [[lore-hexhodai|Héx Hodäi]]—The Héx Hodäi framework
+- [[affiliation-hexhodai|Héx Hodäi]]—The Héx Hodäi framework
 - [[affiliation-pneumenos|Eídma Pneuménos]]—The opposing Eídma
 - [[affiliation-zepharis|Eídma Zephäris]]—Adjacent Eídma (the natural world)
 - [[affiliation-hydalis|Eídma Hydälis]]—Adjacent Eídma (sustenance and growth)

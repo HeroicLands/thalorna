@@ -20,29 +20,23 @@ data:
         description: >-
           Named against the tradition and cut off from its teaching, its protection and its company; what it taught them is not taken back.
       - level: 1
-        title: Uninitiated
-        description: Outside the tradition entirely—served by it, feared by it, and told nothing.
-      - level: 2
-        title: Aspirant
-        description: Petitioning for admission and being watched to see whether it should be granted.
-      - level: 3
         title: Initiate
         description: >-
           Received into the tradition and bound by its oaths, holding its first mysteries and few of its secrets.
-      - level: 4
+      - level: 2
         title: Adept
         description: Practiced in the tradition's art and trusted to work it unsupervised.
-      - level: 5
+      - level: 3
         title: Master of the Art
         description: Competent to teach the tradition and to answer for what a pupil does with it.
-      - level: 6
+      - level: 4
         title: Keeper of the Tradition
         description: >-
           Holding one of its bodies of knowledge or one of its houses, and answerable for its continuance.
-      - level: 7
+      - level: 5
         title: Elder
         description: Of the small body that decides what the tradition teaches and whom it admits.
-      - level: 8
+      - level: 6
         title: First of the Tradition
         description: >-
           Presiding over the elders and speaking for the whole tradition where it must speak with one voice.
@@ -71,11 +65,11 @@ sohl: {system: {commonSkills: []}}
 # opposition: none
 ---
 
-**Kentra** is not a seventh Eídma of the [[lore-hexhodai|Héx Hodäi]] but the _mastery_ of all six. Kentra mages stand at the center of the [[lore-hexhodai|Sigillum]], able to attune to and work magic across all six Eídmata with equal facility. They are the rarest practitioners in the [[affiliation-ordoarcanis|Ordo]], and among the most powerful. Within Ordo cosmology, they represent the pinnacle of arcane achievement: the mage who has mastered every form magic can take.
+**Kentra** is not a seventh Eídma of the [[affiliation-hexhodai|Héx Hodäi]] but the _mastery_ of all six. Kentra mages stand at the center of the [[affiliation-hexhodai|Sigillum]], able to attune to and work magic across all six Eídmata with equal facility. They are the rarest practitioners in the [[affiliation-ordoarcanis|Ordo]], and among the most powerful. Within Ordo cosmology, they represent the pinnacle of arcane achievement: the mage who has mastered every form magic can take.
 
 ## The Nature of Kentra
 
-Every mage in the Ordo begins their training within a single Eídma. The Héx Hodäi is structured this way deliberately: by attuning a student to a single current of the [[lore-hexhodai#dynaris-and-morphis|Dýnaris]], the framework accelerates their mastery of that Eídma's principles and Morphís. A Pyréthos mage learns faster because they are learning _one thing deeply_, not six things shallowly. The trade-off is well understood—the student gains mastery of their Eídma at the cost of increasing alienation from the opposing Eídma—and the Ordo considers this an acceptable bargain. Most mages spend their entire careers within the Eídma that claimed them as Initiati, and most are content to do so.
+Every mage in the Ordo begins their training within a single Eídma. The Héx Hodäi is structured this way deliberately: by attuning a student to a single current of the [[affiliation-hexhodai#dynaris-and-morphis|Dýnaris]], the framework accelerates their mastery of that Eídma's principles and Morphís. A Pyréthos mage learns faster because they are learning _one thing deeply_, not six things shallowly. The trade-off is well understood—the student gains mastery of their Eídma at the cost of increasing alienation from the opposing Eídma—and the Ordo considers this an acceptable bargain. Most mages spend their entire careers within the Eídma that claimed them as Initiati, and most are content to do so.
 
 But a few are not content, and a very few are _capable_ of something more. Over years or decades of practice, certain mages begin to extend their attunement—first to an adjacent Eídma whose current shares qualities with their own, then to a second, then in rare cases to all six. Each extension is the work of years. Each requires the mage to learn a new repertoire of Morphís, to develop sensitivity to a current they have spent their career learning to ignore, and to hold the new attunement without losing the old. Most who attempt the work fail at one or another stage, settling into a partial mastery that the Ordo respects but does not consider Kentra. A very few succeed entirely, achieving fluency across the full Sigillum.
 
@@ -154,7 +148,7 @@ A few have escaped. A very few have found their way to foreign teachers. What be
 
 ## See Also
 
-- [[lore-hexhodai|Héx Hodäi]]—The Héx Hodäi framework
+- [[affiliation-hexhodai|Héx Hodäi]]—The Héx Hodäi framework
 - [[affiliation-pyrethos|Eídma Pyréthos]]—Fire
 - [[affiliation-hydalis|Eídma Hydälis]]—Water
 - [[affiliation-zepharis|Eídma Zephäris]]—Air

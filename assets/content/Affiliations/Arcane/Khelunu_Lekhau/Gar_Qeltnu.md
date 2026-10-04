@@ -65,7 +65,7 @@ other House, which is also its standing security problem.
 [[lore-qeltnu|Qelt'nu]]—the Made Body—is the domain of craft, stone, flesh, shaping, animation, and transformation. It is one
 of the eight into which the [[lore-khelunulekha|Khelunu Lekhau]] partitions the Dýnaris—by
 function in the cosmic order rather than by substance, which is why no portion of it corresponds
-to any single Eídma of the western [[lore-hexhodai|Héx Hodäi]].
+to any single Eídma of the western [[affiliation-hexhodai|Héx Hodäi]].
 
 ### See Also
 

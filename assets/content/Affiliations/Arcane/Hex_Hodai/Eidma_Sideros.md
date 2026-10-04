@@ -20,29 +20,23 @@ data:
         description: >-
           Named against the tradition and cut off from its teaching, its protection and its company; what it taught them is not taken back.
       - level: 1
-        title: Uninitiated
-        description: Outside the tradition entirely—served by it, feared by it, and told nothing.
-      - level: 2
-        title: Aspirant
-        description: Petitioning for admission and being watched to see whether it should be granted.
-      - level: 3
         title: Initiate
         description: >-
           Received into the tradition and bound by its oaths, holding its first mysteries and few of its secrets.
-      - level: 4
+      - level: 2
         title: Adept
         description: Practiced in the tradition's art and trusted to work it unsupervised.
-      - level: 5
+      - level: 3
         title: Master of the Art
         description: Competent to teach the tradition and to answer for what a pupil does with it.
-      - level: 6
+      - level: 4
         title: Keeper of the Tradition
         description: >-
           Holding one of its bodies of knowledge or one of its houses, and answerable for its continuance.
-      - level: 7
+      - level: 5
         title: Elder
         description: Of the small body that decides what the tradition teaches and whom it admits.
-      - level: 8
+      - level: 6
         title: First of the Tradition
         description: >-
           Presiding over the elders and speaking for the whole tradition where it must speak with one voice.
@@ -61,7 +55,7 @@ data:
   population: null
   economy: []
   lore: []
-  parents: []
+  parents: [hexhodai]
   relations: {zepharis: nemesis, hydalis: aligned, pneumenos: aligned}
   packFolder: affiliationshexhodai
 sohl: {system: {commonSkills: []}}
@@ -70,7 +64,7 @@ sohl: {system: {commonSkills: []}}
 #   school: metal
 ---
 
-Eídma **Sidéros** is the Eídma of craft, precision, binding, and the material world made orderly. It occupies the lower-right vertex of the [[lore-hexhodai|Sigillum]], directly opposite [[affiliation-zepharis|Eídma Zephäris]]. Where Air dissolves and obscures, Metal defines and clarifies. Where Air deals in the intangible, Metal deals in the unyielding. Sidéros is the school of the artificer, the ward-maker, the enchanter, and the lawgiver—the mage who believes that the world has a structure and that magic's highest purpose is to discover, reinforce, and perfect it.
+Eídma **Sidéros** is the Eídma of craft, precision, binding, and the material world made orderly. It occupies the lower-right vertex of the [[affiliation-hexhodai|Sigillum]], directly opposite [[affiliation-zepharis|Eídma Zephäris]]. Where Air dissolves and obscures, Metal defines and clarifies. Where Air deals in the intangible, Metal deals in the unyielding. Sidéros is the school of the artificer, the ward-maker, the enchanter, and the lawgiver—the mage who believes that the world has a structure and that magic's highest purpose is to discover, reinforce, and perfect it.
 
 ## Philosophy
 
@@ -106,7 +100,7 @@ Politically, the Sodalitas Sidéros tends toward conservatism—it defends exist
 
 ## See Also
 
-- [[lore-hexhodai|Héx Hodäi]]—The Héx Hodäi framework
+- [[affiliation-hexhodai|Héx Hodäi]]—The Héx Hodäi framework
 - [[affiliation-zepharis|Eídma Zephäris]]—The opposing Eídma
 - [[affiliation-hydalis|Eídma Hydälis]]—Adjacent Eídma (patience)
 - [[affiliation-pneumenos|Eídma Pneuménos]]—Adjacent Eídma (binding)
