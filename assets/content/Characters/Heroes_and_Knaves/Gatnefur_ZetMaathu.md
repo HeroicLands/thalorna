@@ -14,7 +14,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [galezkara]
-  affiliations: {empireakhlth: {rank: 3}}
+  affiliations: {empireakhlth: {rank: 3}, uqaa: {rank: 1}}
   gender: male
   species: humanflk
   born: 685.159
@@ -44,7 +44,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 16}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 13}}
-    - {model: affiliation-uqaa}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 32}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-pfmy, system: {masteryLevelBase: 80}}

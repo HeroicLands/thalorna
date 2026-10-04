@@ -13,7 +13,7 @@ data:
   lore: []
   culture: byzarianclt
   homes: [denizara2]
-  affiliations: {byzarianlg: {rank: 3}}
+  affiliations: {byzarianlg: {rank: 3}, florania: {rank: 1}}
   gender: male
   species: humanflk
   born: 678.39
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 15}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 15}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-florania}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 32}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 13}}

@@ -14,7 +14,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [khelzuret]
-  affiliations: {empireakhlth: {rank: 3}}
+  affiliations: {empireakhlth: {rank: 3}, uznera: {rank: 1}}
   gender: female
   species: humanflk
   born: "692.32"
@@ -44,7 +44,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 10}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 10}}
-    - {model: affiliation-uznera}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 13}}

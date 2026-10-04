@@ -14,7 +14,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [amqelulegez]
-  affiliations: {empireakhlth: {rank: 4}}
+  affiliations: {empireakhlth: {rank: 4}, rethsaar: {rank: 1}}
   gender: male
   species: humanflk
   born: 677.195
@@ -44,7 +44,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 11}}
-    - {model: affiliation-rethsaar}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 32}}
     - {model: sohl-sohl-skill-eng, system: {masteryLevelBase: 16}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 64}}

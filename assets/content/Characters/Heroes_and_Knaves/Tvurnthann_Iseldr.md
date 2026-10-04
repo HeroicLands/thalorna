@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [thrunborg]
-  affiliations: {kngdmvthgrd: {rank: 2}}
+  affiliations: {kngdmvthgrd: {rank: 2}, solrun: {rank: 1}}
   gender: male
   species: humanflk
   born: 666.118
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 10}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 14}}
-    - {model: affiliation-solrun}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 48}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 48}}
     - {model: sohl-sohl-skill-eng, system: {masteryLevelBase: 16}}

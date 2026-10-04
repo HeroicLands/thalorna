@@ -13,7 +13,7 @@ data:
   lore: []
   culture: vedyariclt
   homes: [vyalendra3]
-  affiliations: {vyalendra2: {rank: 2}}
+  affiliations: {vyalendra2: {rank: 2}, varakpnthn: {rank: 1}}
   gender: male
   species: humanflk
   born: 683.101
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 10}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 10}}
-    - {model: affiliation-varakpnthn}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-eng, system: {masteryLevelBase: 22}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 48}}

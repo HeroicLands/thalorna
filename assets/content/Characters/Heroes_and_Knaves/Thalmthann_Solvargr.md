@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [dvarnvik]
-  affiliations: {kngdmvthgrd: {rank: 3}}
+  affiliations: {kngdmvthgrd: {rank: 3}, frodvin: {rank: 1}}
   gender: male
   species: humanflk
   born: 668.248
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 10}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-frodvin}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 13}}

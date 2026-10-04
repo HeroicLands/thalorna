@@ -13,7 +13,7 @@ data:
   lore: []
   culture: vedyariclt
   homes: [dhanurkota]
-  affiliations: {dhnrktjnpd: {rank: 2}}
+  affiliations: {dhnrktjnpd: {rank: 2}, varakpnthn: {rank: 1}}
   gender: male
   species: humanflk
   born: 684.106
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 9}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 10}}
-    - {model: affiliation-varakpnthn}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-skill-eng, system: {masteryLevelBase: 45}}

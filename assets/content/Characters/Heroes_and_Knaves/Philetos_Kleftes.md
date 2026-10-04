@@ -17,7 +17,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [alyssar]
-  affiliations: {provinclys: {rank: 4}}
+  affiliations: {provinclys: {rank: 4}, blackflame: {rank: 1}}
   gender: male
   species: humanflk
   born: "687.110"
@@ -47,7 +47,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 10}}
-    - {model: affiliation-blackflame}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 75}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 42}}

@@ -13,7 +13,7 @@ data:
   lore: []
   culture: dunhariclt
   homes: [dunashir]
-  affiliations: {dunhartrbs: {rank: 5}}
+  affiliations: {dunhartrbs: {rank: 5}, bahramis: {rank: 4}}
   gender: male
   species: humanflk
   born: 658.194
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 13}}
-    - {model: affiliation-bahramis}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 45}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 75}}
     - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 42}}

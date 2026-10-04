@@ -13,7 +13,7 @@ data:
   lore: []
   culture: kaliharanclt
   homes: [qasirah]
-  affiliations: {kalihara: {rank: 3}}
+  affiliations: {kalihara: {rank: 3}, taranon: {rank: 1}}
   gender: female
   species: humanflk
   born: 662.303
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 14}}
-    - {model: affiliation-taranon}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 34}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 48}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 75}}
