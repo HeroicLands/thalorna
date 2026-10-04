@@ -13,6 +13,7 @@ data:
   borders:
     - {to: aureldirgn, bearing: S}
     - {to: vrystwald, bearing: SE}
+    - {to: falkhaven, bearing: S}
     - {to: velanthrgn, bearing: SE}
   population: 2000000
   packFolder: nordlands

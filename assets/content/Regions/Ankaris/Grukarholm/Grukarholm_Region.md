@@ -3,7 +3,7 @@ shortcode: grkrhlmrgn
 name: {full: Grukarholm Region, aliases: [Grukarholm, Grukarhölm]}
 type: place
 subType: region
-description: A landlocked enclave of dense mixed forest, vast marshlands, and slow rivers—the Grukari homeland, wedged into the eastern Nordlands as a hive-martial society wholly distinct from the Nordmal and Varokh peoples who surround it on every side.
+description: A landlocked concentration of Grukar nests amid dense mixed forest, vast marshlands and slow rivers, between the Vrystwald and Velanthian reaches.
 tags: [region]
 data:
   icon: null
@@ -16,17 +16,17 @@ data:
 # terran_analog: "Belarus—a forest-and-marsh enclave at the eastern margin of the Nordlands, distinct in people and polity from its Norse/Germanic neighbors."
 ---
 
-Grukarhölm is a landlocked enclave at the eastern margin of the [[place-nrdlndsrgn|Nordlands]]—a country of dense mixed-and-coniferous forest, vast roadless marshlands, slow brown rivers, and innumerable shallow lakes that is the recognized homeland of the [[skill-grukarlng|Grukar]]. It is wholly surrounded by Nordmal-and-Velanthian neighbors and has no coast of its own; what natural defenses it possesses come not from mountains or seas but from the forest cover and the swamp country itself, which is impassable to organized armies for most of the year. Unlike the neighboring Nordmal kingdoms, Grukarhölm is not a confederation of sovereign kingdoms but a constantly shifting mosaic of tribal war-camps, held in precarious check by the hive-politics of Grukar society and by the brutal logic of a country whose terrain punishes the impatient and the soft.
+Grukarhölm names a landlocked concentration of [[lore-grukarfolk|Grukar]] nests amid dense mixed and coniferous forest, roadless marshland, slow brown rivers, and shallow lakes. [[place-vrystwald|Vrystwald]] and [[place-velanthrgn|Velanthia]] curve around it, while no coast or drawn border fixes its extent. Its forests and swamps impede organized armies for most of the year. The place is a shifting mosaic of Grukar tribal ground, not a confederation or a kingdom.
 
 ## Geography
 
-Grukarhölm occupies a roughly oval territory wedged into the eastern Nordlands, bordered by Nordmal kingdoms to the north, west, and southwest, and by [[place-velanthrgn|Velanthia]] to the east and southeast. The terrain is dominated by three interlocking landscapes:
+Grukarhölm is an area of prevalence rather than a bounded territory. Vrystwald's forest reaches around one side; Velanthia lies north of it and in a pocket to the southeast. The terrain where Grukar are thickest has three interlocking landscapes:
 
 The **deep forest belt** covers most of the region—dense mixed and coniferous woodland (spruce, pine, oak, birch) interspersed with clearings and old fields long since reclaimed by trees. The forest is the principal Grukar habitat: the longhouses, the war-camps, the spawn-chambers of the [[being-grkrahk|Grukar-ahk]], and the hunting-grounds all sit within forest cover. Roads through the forest belt are few, narrow, and easily blocked.
 
 The **marshlands** of the central and southern lowlands are the region's most distinctive geographic feature—a vast complex of swamp, peat-bog, slow water, and seasonal flood that covers perhaps a quarter of the total territory. The marshes are passable on foot only in the depths of winter when they freeze, or in a few weeks of dry summer; the rest of the year they are functionally roadless. The Nordmal call them the **Drowned Country** and have learned not to send armies into them. Grukar settlements within the marshlands are reached by canoe, by cause-walks of sunken logs, or by knowledge of paths invisible to outsiders.
 
-The **river systems**—the slow brown rivers that wind east across the country toward Velanthia—provide what long-distance transport the region has. Grukar war-canoes move warriors and goods along these rivers in summer; in winter the frozen rivers become the highways of overland movement. The rivers are also the principal exterior trade routes, and the Velanthian frontier-towns at the eastern river-mouths are where most Grukar exterior contact happens.
+The **river systems**—the slow brown rivers that wind across the country toward Velanthian reaches—provide what long-distance transport the region has. Grukar war-canoes move warriors and goods along these rivers in summer; in winter the frozen rivers become the highways of overland movement. The rivers are also the principal exterior trade routes, and the Velanthian frontier-towns at the eastern river-mouths are where most Grukar exterior contact happens.
 
 The climate is continental: cold snowy winters, warm humid summers, distinct spring thaw and autumn freeze. It is not the killing extreme of the far-northern taiga—Grukarhölm's winters are survivable, by Grukar standards even comfortable—but the marshlands' summer mosquitoes are legendary, and the spring thaw turns the country into an impassable mire for weeks every year.
 
@@ -90,17 +90,17 @@ The **Kingdom of Grukarhölm** is the most recognizable of these confederations�
 
 ## Trade
 
-What commerce exists is conducted at designated frontier trading-posts along the Nordmal and Velanthian borders, where violence is (theoretically) forbidden by the standing arrangements of local kings on one side and Grukar warlords on the other. The Grukari export furs, amber recovered from the southern peat-bogs, hides, the carved-bone work that Grukar artisans produce in considerable quantity, and the medicinal herbs harvested from deep-forest sites no outsider could find. They import iron, bronze, salt, strong drink, and occasionally textiles. Much of this trade is a thin, fragile veneer over a baseline of perpetual raiding, and the trading-posts exist because both sides find them more profitable than total war.
+What commerce exists is conducted at designated frontier trading-posts on routes toward Nordmal and Velanthian markets, where violence is (theoretically) forbidden by the standing arrangements of local princes and Grukar warlords. The Grukari export furs, amber recovered from the southern peat-bogs, hides, the carved-bone work that Grukar artisans produce in considerable quantity, and the medicinal herbs harvested from deep-forest sites no outsider could find. They import iron, bronze, salt, strong drink, and occasionally textiles. Much of this trade is a thin, fragile veneer over a baseline of perpetual raiding, and the trading-posts exist because both sides find them more profitable than total war.
 
 Captives—human and Grukar alike—are the ugliest of the region's exports, moved through clandestine channels to markets that do not ask where they came from.
 
 ## Relations with Neighboring Regions
 
-To the **north, west, and southwest** lies the [[place-nrdlndsrgn|Nordlands]] in all directions. Grukari raids on Nordmal frontier settlements are a perennial fact, and Nordmal punitive expeditions into Grukari territory are the perennial response. The two peoples share a continental climate and a martial temperament, but their cultures are essentially opaque to one another, and the Nordmal-Grukar frontier is the longest and most chronically violent border on the continent.
+The [[place-nrdlndsrgn|Nordlands]] lie farther west and north, beyond the western Vrystwald reaches. Nordmal accounts remember Grukar raids and punitive expeditions, but no Nordmal kingdom draws a line around the Grukar nests.
 
-To the **east** lies [[place-vrystwald|Vrystwald]]—the great Varokh forest-belt of the eastern interior. Grukar-Varokh relations are uniformly hostile, and the Vrystwaldi forests immediately east of the Grukar marshlands are a permanent low-level war zone. The Varokh consider the Grukari subhuman; the Grukari consider the Varokh perpetually invasive; both have been right too often to drop the grudge.
+[[place-vrystwald|Vrystwald]] curls around this area on its way east. The stretch called [[place-skathwald|Skathwald]] is where Grukar nests become more prevalent within Varokh forest, with no border to cross. Grukar-Varokh relations are uniformly hostile, and villages there endure repeated small incursions rather than a war with a single front.
 
-To the **south** lies [[place-velanthrgn|Velanthia]]. Grukar-Velanthian relations are oddly pragmatic—the Velanthian river-princes have learned that Grukar trade-posts on the southern rivers are workable when handled with patience, and the Grukar in turn recognize that the Velanthians neither covet the marshlands nor (unlike the Nordmal and the Varokh) consider Grukari extermination a religious duty. Velanthian frontier-towns at the southern river-mouths handle most of the region's external commerce that doesn't go through the Nordmal trading-posts to the west.
+[[place-velanthrgn|Velanthia]] lies north of the thickest Grukar country and in the pocket to its southeast. Grukar-Velanthian relations are oddly pragmatic—the Velanthian river-princes have learned that Grukar trade posts can be workable when handled with patience. Velanthian frontier towns handle much of the area's exterior commerce.
 
 ## See Also
 
@@ -108,7 +108,7 @@ To the **south** lies [[place-velanthrgn|Velanthia]]. Grukar-Velanthian relation
 - [[skill-grukarlng|Grukar]]—the folk and their subspecies
 - [[being-grukaruk|Grukar-Uk]], [[being-grkrsh|Grukar-Sha]], [[being-grkrh|Grukar-Hai]]—the three subspecies
 - [[skill-grukarlng|Grukar Language]]—the Grukar tongue
-- [[place-nrdlndsrgn|Nordlands Region]]—western neighbor
-- [[place-vrystwald|Vrystwald]]—eastern hostile frontier
-- [[place-velanthrgn|Velanthia Region]]—southern pragmatic neighbor
+- [[place-nrdlndsrgn|Nordlands Region]]—farther west and north
+- [[place-vrystwald|Vrystwald]]—Varokh forest curving around the area
+- [[place-velanthrgn|Velanthia Region]]—the northern and southeastern reaches around it
 - [[place-ankrscntnnt|Ankaris Continent]]—parent continent

@@ -8,7 +8,7 @@ tags: [stronghold, forest]
 data:
   demonym: null
   lore: [dovettm]
-  parents: [vrystwald]
+  parents: [vrystwldrvrs]
   population: 800
   packFolder: vrystwald
 ---
@@ -26,4 +26,4 @@ Waldburg has no treasury, no standing garrison and no wall around anything but t
 ## See Also
 
 - [[affiliation-vrystwldtrbs|Vrystwald Tribes]]—The villages whose elders sometimes meet here
-- [[place-vrystwald|Vrystwald]]—The forest it stands in
+- [[place-vrystwldrvrs|Vrystwald Rivers]]—The waterways crossed here

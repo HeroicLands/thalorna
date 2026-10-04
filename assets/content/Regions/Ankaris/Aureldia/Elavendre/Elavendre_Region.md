@@ -9,6 +9,7 @@ data:
   lore: [humanflk]
   parents: [aureldirgn]
   population: 2000000
+  borders: [{to: vrystwald, bearing: NE}, {to: edrwald, bearing: N}]
   packFolder: elavendre
 
 # terran_analog: "Northern France and Switzerland—the temperate-and-Alpine northern Aurèldían heartland of forest, river-valley farming, mountain monasteries, and the great Pelwar cultural sphere."
