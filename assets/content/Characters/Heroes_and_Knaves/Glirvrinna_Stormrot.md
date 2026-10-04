@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [braldheim]
-  affiliations: {kingdomlgn: {rank: 3}}
+  affiliations: {kingdomlgn: {rank: 3}, svartbrandr: {rank: 1}}
   gender: female
   species: humanflk
   born: "688.120"
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 13}}
-    - {model: affiliation-svartbrandr}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 13}}

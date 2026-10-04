@@ -81,7 +81,7 @@ data:
     vylarinmpr: unaligned
     okharis: unaligned
   packFolder: regkhpol
-sohl: {system: {commonSkills: [khelthlnglng]}}
+sohl: {system: {commonSkills: [khelathlng]}}
 
 # terran_analog: "Egypt + Sudan (Nile valley civilization)"
 ---
@@ -279,5 +279,5 @@ The Empire of Aû'Khelâthu uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]
 - [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—Primary trade intermediary
 - [[affiliation-mtrrchybth|Matriarchy of Bethûa]]—Western neighbor and proxy
 - [[affiliation-khelathpnthn|Khelâthi Pantheon]]—Pantheon
-- [[skill-khelthlnglng|Khelâthi Language]]—Naming conventions
+- [[skill-khelathlng|Khelâthi Language]]—Naming conventions
 - [[doc-lnggsthlrn|Languages of Thalorna]]—Language reference

@@ -13,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [valdosta]
-  affiliations: {provnchyln: {rank: 3}}
+  affiliations: {provnchyln: {rank: 3}, sacredforge: {rank: 1}}
   gender: male
   species: humanflk
   born: 679.147
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 17}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 16}}
-    - {model: affiliation-sacredforge}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 56}}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 39}}

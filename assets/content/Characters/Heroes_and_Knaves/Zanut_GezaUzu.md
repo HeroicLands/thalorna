@@ -14,7 +14,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [aukhelathrgq]
-  affiliations: {empireakhlth: {rank: 3}}
+  affiliations: {empireakhlth: {rank: 3}, uqaa: {rank: 1}}
   gender: female
   species: humanflk
   born: 685.154
@@ -44,7 +44,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 10}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 14}}
-    - {model: affiliation-uqaa}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 45}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 30}}

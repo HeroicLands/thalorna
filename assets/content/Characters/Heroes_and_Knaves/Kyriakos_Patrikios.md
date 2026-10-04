@@ -13,7 +13,7 @@ data:
   lore: []
   culture: byzarianclt
   homes: [kostaros]
-  affiliations: {byzarianlg: {rank: 3}}
+  affiliations: {byzarianlg: {rank: 3}, venusia: {rank: 1}}
   socialTies: {affiliation-irnwlvscmpny: nemesis}
   gender: male
   species: humanflk
@@ -44,7 +44,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-venusia}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 22}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 52}}

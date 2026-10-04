@@ -107,4 +107,4 @@ ORDER BY sohl.system.levelBase, name.full COLLATE NOCASE
 
 ## See Also
 
-- [[lore-hexhodai|Héx Hodäi]]
+- [[affiliation-hexhodai|Héx Hodäi]]

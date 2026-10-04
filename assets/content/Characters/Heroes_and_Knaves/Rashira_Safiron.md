@@ -17,7 +17,7 @@ data:
   lore: []
   culture: bethuanclt
   homes: [bethura]
-  affiliations: {mtrrchybth: {rank: 3}}
+  affiliations: {mtrrchybth: {rank: 3}, menerva: {rank: 1}}
   gender: female
   species: humanflk
   born: 681.265
@@ -47,7 +47,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-menerva}
     - {model: skill-qalzscrscrpt, system: {masteryLevelBase: 78}}
     - {model: sohl-sohl-skill-runic, system: {masteryLevelBase: 48}}
     - {model: sohl-sohl-skill-common, system: {masteryLevelBase: 70}}

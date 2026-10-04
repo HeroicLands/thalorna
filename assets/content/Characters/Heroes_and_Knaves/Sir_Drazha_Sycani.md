@@ -17,7 +17,7 @@ data:
   lore: []
   culture: byzarianclt
   homes: [karatas2]
-  affiliations: {byzarianlg: {rank: 2}}
+  affiliations: {byzarianlg: {rank: 2}, blackflame: {rank: 1}}
   gender: male
   species: humanflk
   born: "677.200"
@@ -47,7 +47,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 10}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 8}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 6}}
-    - {model: affiliation-blackflame}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 36}}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 11}}

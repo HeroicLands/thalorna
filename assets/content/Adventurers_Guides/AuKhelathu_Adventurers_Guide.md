@@ -184,5 +184,5 @@ Begin with the river, a city, and a claim on the party. Follow the questions tha
 - [[lore-khelathiclt|The culture]] for the doctrine of attestation worked through — the ledgers, the closures, the weighing, and what happens to the widow and the orphan
 - [[affiliation-khelathpnthn|The pantheon]] for the gods, their domains and their temples
 - [[place-zumeleshrvr|The river]], [[place-aukhelathrgq|the region]] and the four classes of province for the geography
-- [[skill-khelthlnglng|The language]] for names, the two hands, and how to coin one that fits
+- [[skill-khelathlng|The language]] for names, the two hands, and how to coin one that fits
 - [[lore-aukhlthcrncy|Money]], [[lore-khelathclndr|the calendar]] and [[lore-khelunulekha|the sacred power]] for the systems a campaign touches most

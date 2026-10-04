@@ -13,7 +13,7 @@ data:
   lore: []
   culture: dunhariclt
   homes: [shamsun]
-  affiliations: {sultntmrdd: {rank: 3}}
+  affiliations: {sultntmrdd: {rank: 3}, zurathra: {rank: 1}}
   gender: male
   species: humanflk
   born: 682.179
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 9}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: affiliation-zurathra}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 13}}

@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [malstead]
-  affiliations: {kingdomlgn: {rank: 3}}
+  affiliations: {kingdomlgn: {rank: 3}, motefnir: {rank: 1}}
   gender: male
   species: humanflk
   born: 673.127
@@ -43,7 +43,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 8}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 11}}
-    - {model: affiliation-motefnir}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-eng, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 24}}
