@@ -397,6 +397,23 @@
             "literal": "Leader of the Order",
             "why": "Dróttstjóri keeps the English phrase as its alias",
             "kinds": []
+        },
+        {
+            "literal": "Member of the Polity",
+            "why": "A generic description of bare polity membership in the reader's tongue, with no stated class, freedom, landholding or authority.",
+            "paths": [
+                "assets/content/Regions/Ankaris/Nordlands/Malagna/Grimvar.md",
+                "assets/content/Regions/Ankaris/Nordlands/Malagna/Hrafnvar.md"
+            ],
+            "kinds": [],
+            "membershipLevel": 1
+        },
+        {
+            "literal": "Devotee",
+            "why": "The spirit cult's generic membership title in the reader's tongue, distinct from a devotional order of the Ten.",
+            "paths": ["assets/content/Regions/Ankaris/Nordlands/Njorvens_Cult.md"],
+            "kinds": [],
+            "membershipLevel": 1
         }
     ],
     "entries": [

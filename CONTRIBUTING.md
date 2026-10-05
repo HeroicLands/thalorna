@@ -70,3 +70,11 @@ Nordmal aliases and the language note's examples retain their normal spelling.
 
 Run `node --test utils/lexicons/*.test.mjs` when changing this guard, and
 `npm run lint:nordmal-concordance` when changing the table.
+
+A generic membership title in the reader's tongue can use a concordance `keep`
+row with its exact `literal`, named affiliation `paths`, integer
+`membershipLevel` and explanation in `why`. Both the lexicon and drift guards
+limit this exception to that affiliation's matching rung title. Other levels,
+body types, offices, prose occurrences and paths retain normal validation. The
+exception does not confer a Nordmal name or a social standing beyond membership.
+Run `node --test utils/nordmal-membership-titles.test.mjs` for this contract.
