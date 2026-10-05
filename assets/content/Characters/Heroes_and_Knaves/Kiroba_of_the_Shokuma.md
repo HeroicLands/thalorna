@@ -12,8 +12,12 @@ data:
   stations: []
   lore: []
   culture: okharinclt
-  homes: []
-  affiliations: {okharis: {rank: 2}, nkaruthar: {rank: 1}, njiayaroho: {rank: 3}}
+  homes: [shokumavlg]
+  affiliations:
+    okharis: {rank: 2}
+    shokumatrb: {rank: 2}
+    nkaruthar: {rank: 1}
+    njiayaroho: {rank: 3}
   gender: male
   species: humanflk
   born: "692.32"

@@ -7,9 +7,9 @@ description: "The Okhárins—their beliefs, their mores, and what they hold a p
 tags: []
 ---
 
-The Okhárins did not build their civilization out of water, and they are quietly proud of it. Their neighbors upriver dug canals and made a world out of a flood; Okháris judged that its own land would never repay the investment and put its wealth into herds instead. Most of the people are semi-nomadic pastoralists moving cattle, sheep, goats and the small sturdy horses of the savannah between seasonal grazings, on cycles so old they carry the weight of religious obligation.
+The Okhárins did not build their civilization out of canals, and they are quietly proud of it. Their neighbors upriver dug channels and made a world out of a flood; in western Okháris the rain does that work unasked, and in the drier east the people put their wealth into herds instead. The village tribes of the wet west farm, fish, tend orchards and work timber from fixed seats. Eastward, toward the savanna of the Bethua border, most of the people are semi-nomadic pastoralists moving cattle, sheep, goats and small sturdy horses between seasonal grazings, on cycles so old they carry the weight of religious obligation.
 
-Between migrations a family works a small plot of sorghum, millet, pulses and tubers—enough to supplement the herds and never enough to replace them, which is exactly what everyone intends.
+Between migrations a herding family works a small plot of sorghum, millet, pulses and tubers—enough to supplement the herds and never enough to replace them, which is exactly what everyone intends.
 
 ## The Three-Flame Settlement
 
@@ -21,7 +21,7 @@ That irritation is the realm's standing political problem. The rural clans often
 
 ## The Flame in Three Aspects
 
-The Okhárins worship Nkaru'thar as the eternal flame of creation, destruction and renewal, and they read its power through the three cities: Zarhánis is the flame of faith and wisdom, Kaljékor the flame of abundance, Vuthráka the flame of war and protection. This is not three gods, and an Okhárin will correct a foreigner on the point with some patience, because foreigners get it wrong constantly. It is one fire seen from three sides, and there are three cities because a people needs all three and cannot get them from one place.
+The Okhárins worship Nkaru'thar as the eternal flame of creation, destruction and renewal, and they read its power through the three cities: Zarhánis is the flame of faith and wisdom, Kaljékor the flame of abundance, Vuthráka the flame of war and protection. This is not three gods, and it is the point foreigners most often get wrong. It is one fire seen from three sides, and there are three cities because a people needs all three and cannot get them from one place.
 
 Beneath the flame stand the demi-gods—of fertility, of storms, of death—who act as intermediaries and whose shrines are scattered across the grazing country. These are what an ordinary Okhárin prays to on an ordinary day. The flame is addressed at festivals, by priests, in cities; a herdsman with a sick calf addresses someone closer to hand.
 
@@ -54,6 +54,6 @@ He does not put the king high on that list and will not pretend otherwise. What 
 ## See Also
 
 - [[affiliation-okharis|Okháris]]—the realm and its three cities
-- [[place-okharisrgn|Okháris Region]]—the savannah and the seasonal rivers
+- [[place-okharisrgn|Okháris Region]]—the rain-fed west and the eastern savanna
 - [[affiliation-nkaruthar|Nkaru'thar]]—the eternal flame and its three aspects
 - [[skill-okharclng|Okháric]]—the tongue of the clans and the cities

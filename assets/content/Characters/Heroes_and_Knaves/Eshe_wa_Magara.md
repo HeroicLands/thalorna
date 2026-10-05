@@ -12,8 +12,12 @@ data:
   stations: []
   lore: []
   culture: okharinclt
-  homes: [zarhanis]
-  affiliations: {okharis: {rank: 2}, nkaruthar: {rank: 1}, njiayaroho: {rank: 1}}
+  homes: [magaravlg, zarhanis]
+  affiliations:
+    okharis: {rank: 2}
+    magaratrb: {rank: 2}
+    nkaruthar: {rank: 1}
+    njiayaroho: {rank: 1}
   gender: female
   species: humanflk
   born: 683.162
