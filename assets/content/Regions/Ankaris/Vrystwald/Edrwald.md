@@ -6,7 +6,7 @@ subType: region
 description: The bay-facing Vrystwald forest, across the water from Elavendre.
 data:
   demonym: null
-  lore: [humanflk]
+  lore: [varokhiclt]
   parents: [vrystwald]
   population: null
   borders: [{to: elavendre, bearing: S}]

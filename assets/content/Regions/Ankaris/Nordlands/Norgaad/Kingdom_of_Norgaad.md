@@ -75,7 +75,7 @@ data:
   domains: [norgaad]
   population: 400000
   economy: [lore-vylrncrncy, lore-bartercnmy, lore-kinhalcrdt]
-  lore: [humanflk]
+  lore: [nordheimnclt]
   parents: []
   relations:
     asguardian: aligned

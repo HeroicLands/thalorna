@@ -6,7 +6,7 @@ subType: region
 description: The eastern Vrystwald forest that meets Velanthia.
 data:
   demonym: null
-  lore: [humanflk]
+  lore: [varokhiclt]
   parents: [vrystwald]
   population: null
   borders: [{to: velanthrgn, bearing: E}]

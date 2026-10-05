@@ -7,7 +7,7 @@ description: "The land of the Kingdom of Norgaad—the central Nordmen kingdom o
 tags: [region]
 data:
   demonym: Norgaadian
-  lore: [humanflk]
+  lore: [nordheimnclt]
   parents: [nrdlndsrgn]
   population: 400000
   packFolder: norgaad

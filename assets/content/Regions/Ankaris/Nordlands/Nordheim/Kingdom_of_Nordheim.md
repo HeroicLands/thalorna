@@ -75,7 +75,7 @@ data:
   domains: [nordheim]
   population: 650000
   economy: [lore-vylrncrncy, lore-bartercnmy, lore-kinhalcrdt]
-  lore: [humanflk]
+  lore: [nordheimnclt]
   parents: []
   relations:
     asguardian: aligned
@@ -120,7 +120,7 @@ Nordheim's relationship with the rest of Ankaris is defined by raiding, trade, a
 
 ## Notable Features
 
-- **The King of All Clans:** A great assembly held every seven years on a sacred island, where all the jarls of Nordheim gather to settle inter-clan disputes and make decisions affecting the entire people.
+- **The King of All Clans:** Every seventh year, the kings of all five Nordlands kingdoms and their principal jarls meet on a sacred island to settle disputes beyond one kingdom's writ and decide matters of war and peace with neighbors. Nordheim's king usually convenes the assembly.
 - **The Longship Fleets:** Nordheim's primary military and economic asset. Fleets range from small raiding parties to massive armadas capable of threatening coastal cities across Ankaris.
 - **The Völvur:** Nordheim's mystic tradition, distinct from the arcane practices of the south, rooted in shamanism and ancestral communion.
 - **The Five Kingdoms:** Nordheim is one of five Nordmal-speaking kingdoms in the frozen north, alongside [[affiliation-kingdomlgn|Malagna]], [[affiliation-kingdmnrgd|Norgaad]], [[affiliation-kingdmtrgd|Targud]], and [[affiliation-kngdmvthgrd|Vithgard]]. All share the Nordmal language, [[affiliation-asguardian|Asguardian Pantheon]] faith, and [[skill-nordmalng|Nordmal naming]], but each has its own jarl-king and traditions.
