@@ -52,8 +52,8 @@ The east bank is a patchwork of named quarters, grown rather than planned and st
 - **Lut-Lemu ("the Place of Craftsmen")**—the artisan quarters: coppersmiths, potters, faience-makers, weavers, and woodworkers, loud and smoky and kept downstream and downwind.
 - **The Wazulet ("the Pure Place")**—a liminal, faintly shunned quarter by the necropolis-ferry, where the working embalmers and coffin-makers cluster and the dead pass through on their way to the western shore.
 - **Pa-Demi ("the Town")**—the sprawling mudbrick laborers' warrens on the low, flood-prone ground, dense and poor, built among and atop old ruins.
-- [[place-garqethar|Gar-Qethar]]—abandoned palace-and-noble precincts of fallen dynasties: half-robbed, squatted, a maze of the past standing inside the living city.
-- [[place-zelnut|The Zelnut]]—the great state and temple granaries, raised behind dikes, where the grain-dole is distributed.
+- [[place-garqethar|Gar-Qethar]]—the sprawling mudbrick laborers' warrens on the low, flood-prone ground, dense and poor, built among and atop old ruins.
+- [[place-zelnut|The Zelnut]]—a quarter built among and atop the tombs of fallen dynasties: half-robbed, squatted, a maze of the dead city standing inside the living one.
 
 ### Gardens, Lakes, and Open Ground
 

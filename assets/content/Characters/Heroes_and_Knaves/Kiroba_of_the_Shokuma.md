@@ -12,7 +12,7 @@ data:
   stations: []
   lore: []
   culture: okharinclt
-  homes: [ithrakor]
+  homes: []
   affiliations: {okharis: {rank: 2}, nkaruthar: {rank: 1}, njiayaroho: {rank: 3}}
   gender: male
   species: humanflk
