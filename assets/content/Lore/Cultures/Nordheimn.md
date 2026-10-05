@@ -87,6 +87,20 @@ Civil and religious offices can meet in one person, but they do different work. 
 
 The five kingdoms hold their own assemblies. Every seventh year their kings and leading jarls meet on the sacred island for the **King of All Clans** assembly. It addresses quarrels beyond one kingdom's writ and matters of war and peace. It has no standing officers, revenue or means of compulsion. Its weight comes from the gathered rulers and the consequences of refusing their judgment.
 
+## Rites under the Ting's Peace
+
+At Sumarmál a frontier bóndi walks the boundary stones with the neighboring householder and a witness for the landvördr. They read each mark aloud and strike its stone so that both households can later say where the boundary lay. A stone found moved becomes a ting matter: the mover, or the mover's kin after death, must answer the claim. Tales say a person whose kin refuse that duty may return carrying the stone, still asking where to set it. The story makes a disputed boundary harder to forget; a ghost's word does not settle title before the ting.
+
+The howe-wake seeks a different kind of answer. At Vetrnaetr or on the ninth night of Jól, a seeker may sit awake on a burial mound or at a crossroads to hear the dead. A völva's leave is customary and seldom given, for the dead may demand a truthful answer to a question of their own. A private revelation cannot be entered as a skald's witnessed record; someone who acts on it must find living evidence. When the wake is worked against a named person, the ting may judge the act a grave wrong and withdraw its peace. Contact with the dead gives the seeker no authority to pronounce that sentence.
+
+## Bonds and Claims at the Hall
+
+Before a raiding season, sworn fighters may become oath-friends by passing beneath a lifted strip of turf, letting blood fall to the earth and promising to avenge whichever companion dies first. The oath binds them beyond a voyage or a captain's contract. Their halls remember it when a killing calls for wergild, and the Sworn Hands treat the death of an oath-friend as a death within kin; two companions later hired on opposite sides still owe the promise they made.
+
+Settlers making a land-taking carry posts from their former hall, set them where the draft animals stop, and walk the claimed bounds with fire before the next sunset. A woman may lead a heifer around land she means to hold. The walk gives witnesses a boundary to remember; it does not silence another household's earlier claim. On the Vrystwald frontier, walking fire around a grove claimed by a Varokhi clan brings two accounts of rightful land before people who may not recognize the same witnesses.
+
+At Vetrnaetr the hall's búvördr seats its honored old by the door and serves them first. Tellers connect the door-seat to the Three Winters and the kin-fell: a place near the way out became a place of honor when people swore they would feed the old. Accounts differ over the alleged oath, while the present custom is plain to every guest. A hall unable to provision its elders must seek help from other kin and halls; the obligation may enter hall credit and diminish a house that leaves it unpaid.
+
 ## The Reckoning after Death
 
 At [[lore-aldarlok|Aldarlok]], the defending gods and their honored dead face the last fire. A Nordman hopes to be remembered as one who stood well when duty called. Honorable deaths include battle, keeping an oath, childbirth and defence of one's craft. The honored gather in [[place-valsal|Valsal]] or [[place-solvangr|Sólvangr]], under Ódvar and Sólrún, to prepare for that final contest.
