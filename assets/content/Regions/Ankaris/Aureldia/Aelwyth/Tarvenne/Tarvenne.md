@@ -11,6 +11,7 @@ data:
   parents: [aelwyth]
   population: 150000
   packFolder: aelwyth
+  government: repblctrvn
 ---
 
 ## Overview

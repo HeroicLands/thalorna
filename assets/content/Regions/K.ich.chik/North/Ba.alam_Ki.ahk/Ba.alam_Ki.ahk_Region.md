@@ -11,6 +11,7 @@ data:
   parents: [nrthrnkchchk]
   population: null
   packFolder: baalamkiahk
+  government: balamkiahk
 
 # terran_analog: Western U.S. to Rockies and up to British Columbia and southern Alaska
 ---

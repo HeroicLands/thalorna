@@ -11,6 +11,7 @@ data:
   parents: [nrdlndsrgn]
   population: 340000
   packFolder: malagna
+  government: kingdomlgn
 ---
 
 ## Overview

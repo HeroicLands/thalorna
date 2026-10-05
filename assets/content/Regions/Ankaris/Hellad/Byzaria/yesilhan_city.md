@@ -5,7 +5,7 @@ type: place
 subType: settlement
 description: "Caravan City"
 tags: [city, caravan]
-data: {demonym: null, lore: [], parents: [byzariargn], population: 40000}
+data: {demonym: null, lore: [], parents: [byzariargn], population: 40000, government: yesilhan}
 ---
 
 ## Overview

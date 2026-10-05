@@ -5,7 +5,7 @@ type: place
 subType: settlement
 description: "Port City"
 tags: [port, city]
-data: {demonym: null, lore: [], parents: [haradregin], population: 200000}
+data: {demonym: null, lore: [], parents: [haradregin], population: 200000, government: azhun}
 ---
 
 ## Overview

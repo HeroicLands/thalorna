@@ -11,6 +11,7 @@ data:
   parents: [graznmntns, sthrnwall]
   population: null
   packFolder: vedyara
+  government: osketguides
 ---
 
 **Shūnyadvāra** stands on the col of [[place-gudesroad|the Guides' Road]]: a free-standing wall about two men high and four across, ribbed in long true curves, pierced by a single smooth oval whose edge runs into the wall with no jamb, no lintel and no threshold. Nothing is built around it. There is nothing on the far side of it but more col.

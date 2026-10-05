@@ -12,6 +12,7 @@ data:
   parents: [klhrcntnnt]
   population: 3000000
   packFolder: kalihara
+  government: kalihara
 ---
 
 ## Overview

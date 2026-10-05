@@ -13,6 +13,7 @@ data:
   market: 4
   routes: [{to: ashvapada, bearing: N, mode: land, days: 5, terrain: [road, desert]}]
   packFolder: vedyara
+  government: bhumipala
 ---
 
 **Sandhyāpur** (12,000, market 4) is the capital of [[affiliation-bhumipala|Bhūmipāla]] and the only town of any size on Vedyara's western shore. It stands behind a sand spit at the mouth of a seasonal river, at the southern end of [[place-marchroad|the march road]]. It is a court, a customs house and a salt town, in that order of dignity and the reverse order of income.

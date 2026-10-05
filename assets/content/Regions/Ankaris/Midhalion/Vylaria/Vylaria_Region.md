@@ -15,6 +15,7 @@ data:
     - {to: vandstein, bearing: NW}
   population: 24000000
   packFolder: vylaria
+  government: vylarinmpr
 ---
 
 ## Overview

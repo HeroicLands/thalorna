@@ -5,7 +5,7 @@ type: place
 subType: settlement
 description: "Naval City"
 tags: [city, naval]
-data: {demonym: null, lore: [], parents: [helionis], population: 40000}
+data: {demonym: null, lore: [], parents: [helionis], population: 40000, government: pelagora}
 ---
 
 ## Overview

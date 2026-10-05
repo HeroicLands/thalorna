@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "The bamboo village of the upper Sarvada, whose groves supply the staves every Dhanurkoti bow is made from."
 tags: [village, river, inland]
-data: {demonym: null, lore: [], parents: [dhanurkotajnpd], population: 890, packFolder: vedyara}
+data:
+  demonym: null
+  lore: []
+  parents: [dhanurkotajnpd]
+  population: 890
+  packFolder: vedyara
+  government: dhnrktjnpd
 ---
 
 Venuvana (890) grows the bamboo the Dhanurkoti bows are made from. Its groves run four miles along the north bank of the Sarvada and are cut on a seven-year rotation, which the village has kept without a break for as long as the academies have taught.

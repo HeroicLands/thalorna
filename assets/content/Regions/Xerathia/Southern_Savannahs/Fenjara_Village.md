@@ -11,6 +11,7 @@ data:
   parents: [sthrnsvnhs]
   population: 250
   packFolder: southernsavannahs
+  government: fenjara
 ---
 
 ## Overview

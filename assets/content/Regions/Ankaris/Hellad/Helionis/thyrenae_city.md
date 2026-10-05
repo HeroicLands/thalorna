@@ -5,7 +5,7 @@ type: place
 subType: settlement
 description: "City-State"
 tags: [city-state, city]
-data: {demonym: null, lore: [], parents: [helionis], population: 60000}
+data: {demonym: null, lore: [], parents: [helionis], population: 60000, government: thyrenae}
 ---
 
 ## Overview

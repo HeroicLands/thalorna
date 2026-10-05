@@ -11,6 +11,7 @@ data:
   parents: [vedyarargn]
   population: 2400000
   packFolder: vedyara
+  government: bhrvdvbhog
 
 # terran_analog: "Central and peninsular Indian forest belt under temple-estate tenure—hardwood, resin, lac and spice country worked by forest-dwelling communities and held as endowed land by temples rather than by village federations"
 ---

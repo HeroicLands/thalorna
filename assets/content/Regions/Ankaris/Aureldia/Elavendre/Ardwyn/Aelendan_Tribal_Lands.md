@@ -12,6 +12,7 @@ data:
   parents: [ardwyn]
   population: null
   packFolder: elavendre
+  government: aelndntrbs
 
 # terran_analog: "Switzerland and the high-Alpine country of eastern France—the highland interior of Élavendre, including the Áelendan-sacred ranges that face Vylaria across the Cervaron Spine."
 ---

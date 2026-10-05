@@ -12,6 +12,7 @@ data:
   population: 40000
   routes: [{to: suryadvara, bearing: N, mode: land, days: 20, terrain: [road, mountains, ice]}]
   packFolder: vedyara
+  government: vindhyalay
 ---
 
 Sūryāgarha (40,000) is the capital of the kingdom of [[affiliation-vindhyalay|Vindhyālaya]] and stands across the throat of [[place-suryadvara|Sūryadvāra]], the greatest of the northern passes. It is built on the road and not beside it. There is no way up onto the wall by that crossing, and no way down off it into Vedyara, that does not go beneath the walls, and the city exists because of that one fact and would not otherwise be where it is.

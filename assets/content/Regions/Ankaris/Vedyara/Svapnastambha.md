@@ -11,6 +11,7 @@ data:
   parents: [bhumipalaland, marukupa]
   population: null
   packFolder: vedyara
+  government: svapnasarisamaja
 ---
 
 **Svapnastambha** (the dream-tower) stands on the rock shelf above the wells of [[place-marukupa|Marukūpa]], and it is the westernmost house of the [[affiliation-svapnasarisamaja|Svapnasāri-samāja]] anywhere. It is a square tower of four stories with a walled court beside it, a cistern under the court, and room for nine of the sect and about thirty guests.

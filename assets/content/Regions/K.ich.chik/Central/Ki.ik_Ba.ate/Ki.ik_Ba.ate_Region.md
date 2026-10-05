@@ -11,6 +11,7 @@ data:
   parents: [cntrlkchchk]
   population: null
   packFolder: kiikbaate
+  government: kiikbaate
 
 # terran_analog: Nicaragua through Colombia
 ---

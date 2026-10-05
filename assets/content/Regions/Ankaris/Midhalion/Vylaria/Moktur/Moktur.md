@@ -11,6 +11,7 @@ data:
   parents: [vylariargn]
   population: 2000000
   packFolder: vylaria
+  government: provncmktr
 ---
 
 ## Overview

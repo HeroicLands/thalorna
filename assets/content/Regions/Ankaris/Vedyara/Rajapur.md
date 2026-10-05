@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "The temple-seat of the Rājapur Janapada, standing in the street-plan of the royal capital the sabhā dissolved."
 tags: [town, river, sacred, market]
-data: {demonym: null, lore: [], parents: [rajapurjnpd], population: 1800, packFolder: vedyara}
+data:
+  demonym: null
+  lore: []
+  parents: [rajapurjnpd]
+  population: 1800
+  packFolder: vedyara
+  government: rajaprjnpd
 ---
 
 Rājapur (1,800) is the capital of the [[affiliation-rajaprjnpd|Rājapur Janapada]] and stands on the ground of the kingdom it replaced. The dynastic city was much the larger place. Eighteen hundred people now live inside a street-plan laid out for several times that many, and the empty ground shows in every quarter.

@@ -11,6 +11,7 @@ data:
   parents: [vylariargn]
   population: 2500000
   packFolder: vylaria
+  government: hlykngdmnrtm
 ---
 
 ## Overview

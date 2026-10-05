@@ -11,6 +11,7 @@ data:
   parents: [nrthrnkchchk]
   population: null
   packFolder: haxaman
+  government: haxaman
 
 # terran_analog: Central US and Plains States East of Rockies
 ---

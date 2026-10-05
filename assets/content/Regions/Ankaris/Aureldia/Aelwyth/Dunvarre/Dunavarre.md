@@ -11,6 +11,7 @@ data:
   parents: [aelwyth]
   population: 75000
   packFolder: aelwyth
+  government: kingdmdnvr
 ---
 
 ## Overview

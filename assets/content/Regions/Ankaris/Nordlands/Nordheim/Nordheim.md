@@ -11,6 +11,7 @@ data:
   parents: [nrdlndsrgn]
   population: 650000
   packFolder: nordheim
+  government: kngdmnrdhm
 ---
 
 ## Overview

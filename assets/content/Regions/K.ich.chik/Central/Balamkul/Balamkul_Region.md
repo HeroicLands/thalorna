@@ -11,6 +11,7 @@ data:
   parents: [cntrlkchchk]
   population: null
   packFolder: balamkul
+  government: balamkul
 
 # terran_analog: Central Mexico
 ---

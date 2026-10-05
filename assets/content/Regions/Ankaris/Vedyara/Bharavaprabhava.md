@@ -11,6 +11,7 @@ data:
   parents: [graznmntns, estrnreach]
   population: null
   packFolder: vedyara
+  government: varakpnthn
 ---
 
 **Bhāravaprabhava** is the source of the [[place-bharavarivr|Bhārava]], under the Vedyari shoulder of [[place-estrnreach|the Eastern Reach]] above the [[place-slvrgorges|Silver Gorges]]. It is the smallest of the four glacier-mouths and the coldest approach, and the pilgrim road took its shape from the source and not the source from the road.

@@ -5,7 +5,7 @@ type: place
 subType: settlement
 description: "Fortress City"
 tags: [fortress, city]
-data: {demonym: null, lore: [], parents: [byzariargn], population: 80000}
+data: {demonym: null, lore: [], parents: [byzariargn], population: 80000, government: altinkale}
 ---
 
 ## Overview

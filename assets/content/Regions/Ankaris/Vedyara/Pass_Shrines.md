@@ -11,6 +11,7 @@ data:
   parents: [graznmntns, sthrnwall]
   population: null
   packFolder: vedyara
+  government: passshrineushtakas
 ---
 
 The **Pass-Shrines** are the temples at the high points of the crossing roads: one at [[place-meghadvara|Meghadvāra]], one at [[place-suryadvara|Sūryadvāra]], one at [[place-tamradvara|Tāmradvāra]], one at [[place-jnanadvara|Jñānadvāra]], one at [[place-sankhadvra|Shankhadvāra]]. There is none on [[place-gudesroad|the Guides' Road]], and there never has been.

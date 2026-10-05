@@ -606,6 +606,13 @@ TBD.
 - **Settlement:** Show arrival, street or village life, livelihoods, authority, services, local tensions, and connections to its hinterland. Interpret yields, market size, and population through what people produce and need.
 - **Site, structure, and feature:** Give a clear location and physical description, purpose or origin, present use, access, and relevant dangers or beliefs. A local custodian or traveler may supply a revealing account.
 
+`data.government` names the governing affiliation by shortcode. A place with a
+positive population must specify it; an explicit `null` means complete anarchy.
+When population is missing or zero, government is optional. Omit the field when
+government is unknown rather than writing `null`. `data.parents` records geographic
+containment and does not identify government. Affiliations’ `data.domains` remain
+holdings records during the migration to explicit place governments.
+
 #### Settlement template
 
 ```
@@ -619,7 +626,7 @@ tags: [draft]
 data:
   demonym: null # specify if able
   lore: []
-  parents: [] # shortcode of polity that this settlement is governed under
+  parents: [] # shortcodes of containing places
   population: 0
   packFolder: ""  # must be specified
 ---

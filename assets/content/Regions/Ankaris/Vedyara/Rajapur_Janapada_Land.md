@@ -11,6 +11,7 @@ data:
   parents: [vedyarargn]
   population: 25000
   packFolder: vedyara
+  government: rajaprjnpd
 
 # terran_analog: "Medieval South Indian temple-republic that emerged from the ruins of a failed kingdom—a Chola-era brahmadeya village federation centered on a temple complex built atop or alongside an abandoned royal capital, governed by an assembly that explicitly preserves the memory of the displaced dynasty"
 ---

@@ -13,6 +13,7 @@ data:
   borders: [{to: aukhelathrgq, bearing: E}]
   population: 3000000
   packFolder: bethua
+  government: mtrrchybth
 ---
 
 ## Overview

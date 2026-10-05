@@ -5,7 +5,13 @@ type: place
 subType: structure
 description: "Sólrún's hall at the head of Sólvangr, where the dead she gathers are seated at her own tables."
 tags: [asguardian]
-data: {demonym: null, lore: [], parents: [solvangr], population: null, packFolder: settinglore}
+data:
+  demonym: null
+  lore: []
+  parents: [solvangr]
+  population: null
+  packFolder: settinglore
+  government: solrun
 ---
 
 Sólrún's hall, standing at the head of her field [[place-solvangr|Sólvangr]]. It is a long house of worked timber rather than a barrack of war gear, hung with the gold Sólrún gives away and lit down its length, and the tellings dwell on the tables rather than on the roof.

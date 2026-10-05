@@ -5,7 +5,7 @@ type: place
 subType: settlement
 description: "Mining City"
 tags: [city, mining]
-data: {demonym: null, lore: [], parents: [byzariargn], population: 45000}
+data: {demonym: null, lore: [], parents: [byzariargn], population: 45000, government: karatas}
 ---
 
 ## Overview

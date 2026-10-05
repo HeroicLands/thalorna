@@ -11,6 +11,7 @@ data:
   parents: [cntrlkchchk]
   population: null
   packFolder: tzikin
+  government: tzikin
 
 # terran_analog: Venezuela, Guyana, Suriname, French Guiana, northern Brazil
 ---
