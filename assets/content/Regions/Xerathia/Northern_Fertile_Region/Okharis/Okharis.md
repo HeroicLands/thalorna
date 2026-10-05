@@ -16,34 +16,23 @@ data:
       Hereditary kingship over three great temple-cities (Zarhánis, Kaljékor, Vuthráka) and surrounding rural tribes.
     ranks:
       - level: 0
-        title: Temple-Cast
-        description: Struck from the temple rolls and denied its rites, its grain and its justice.
+        title: Outcast
+        description: Struck from the temple and village rolls and denied its rites, its grain and its justice.
       - level: 1
-        title: Temple Bondsman
+        title: Bondsman
         description: >-
-          Bound to a temple's estates, owing labor for its granaries and holding nothing of his own.
+          Bound to a temple's estates or villages, owing labor for its granaries and holding nothing of his own.
       - level: 2
-        title: Villager
+        title: Villager/Townsman
         description: >-
-          Of the rural tribes owing tribute and labor to a temple-city, and governed through their own elders.
+          Resident of one of the rural tribes or temple-cities, entitled to protection, markets, and courts of the temple-cities.
       - level: 3
-        title: Townsman
-        description: >-
-          Enrolled in one of the three temple-cities, entitled to its protection, its markets and its courts.
+        title: Honored One
+        description: Low retainer, courtier, or village elder trusted with official duties of the temple or villages.
       - level: 4
-        title: Temple Servant
-        description: In the temple's employ—scribe, artisan, singer, guard—and fed from its stores.
+        title: Exalted One
+        description: A trusted retainer or of the king's house by blood or marriage, with significant control over the operation of the temple-cities.
       - level: 5
-        title: Priest
-        description: Ordained to the rites of a temple, holding authority over its dependents and its lands.
-      - level: 6
-        title: High Priest
-        description: Head of one of the three great temple-cities, ruling it in all but name.
-      - level: 7
-        title: Royal Kin
-        description: >-
-          Of the king's house by blood or marriage, from whom governors and high priests are commonly drawn.
-      - level: 8
         title: King
         description: >-
           Hereditary sovereign over the three temple-cities, holding them by descent and by the gods' sanction alike.
@@ -55,6 +44,7 @@ data:
       Temple Steward: Administrator of a temple's estates, herds and workshops.
       Granary-Keeper: >-
         Warden of the stores on which the cities live between harvests, and the realm's true measure of power.
+      Priest: Ordained to the rites of a temple, holding authority over its dependents and its lands.
       Chief Scribe: Keeper of the temple registers—tribute owed, labor due, land held.
       Captain of the Host: Commander of the king's armed men, drawn from the cities and the tribes together.
       Tribute-Warden: Collector of the rural tribes' dues, traveling with an escort and a scribe.
