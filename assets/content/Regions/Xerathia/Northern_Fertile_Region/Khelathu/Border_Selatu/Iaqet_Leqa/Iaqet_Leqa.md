@@ -12,6 +12,7 @@ data:
   parents: [iaqetleqaslt]
   population: 12000
   packFolder: regkhsett
+  government: selatiaqetlq
 ---
 
 ## Overview

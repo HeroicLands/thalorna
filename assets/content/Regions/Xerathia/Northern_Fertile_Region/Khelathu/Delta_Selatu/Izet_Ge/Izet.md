@@ -12,6 +12,7 @@ data:
   parents: [izetgenome]
   population: 45000
   packFolder: regkhsett
+  government: selatizetge
 ---
 
 ## Overview

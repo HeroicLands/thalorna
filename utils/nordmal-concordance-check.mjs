@@ -78,6 +78,8 @@ import fs from "node:fs";
 import path from "node:path";
 import { execFileSync } from "node:child_process";
 import YAML from "yaml";
+import { lexiconFrom } from "./lexicons/nordmal-lexicon.mjs";
+import { checkStandingCoinages } from "./nordmal-standing-coinages.mjs";
 
 /** The table this guard reads and judges. */
 const TABLE = "utils/nordmal-concordance.json";
@@ -913,6 +915,12 @@ function main() {
         ...checkCollisions(rows, raw),
         ...checkNothingLost(rows, table.keep),
     ];
+    const language = fs.readFileSync(`${CONTENT_DIR}/Skills/Languages/Nordmal.md`, "utf8");
+    out.push(
+        ...checkStandingCoinages(table.standingCoinages, lexiconFrom(language), (file) =>
+            YAML.parse(fs.readFileSync(file, "utf8").split("---")[1]),
+        ).map((error) => finding(TABLE, null, null, "error", error)),
+    );
     const coverage = checkCoverage(table, rows);
     out.push(...coverage.findings);
 

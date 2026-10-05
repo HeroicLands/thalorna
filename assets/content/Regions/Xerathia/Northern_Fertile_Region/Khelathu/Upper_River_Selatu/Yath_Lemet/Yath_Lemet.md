@@ -12,6 +12,7 @@ data:
   parents: [yathlemetslt]
   population: 6000
   packFolder: regkhsett
+  government: selatyathlmt
 ---
 
 ## Overview

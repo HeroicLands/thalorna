@@ -12,6 +12,7 @@ data:
   parents: [garqeztuselt]
   population: 13000
   packFolder: regkhsett
+  government: selatgarqezt
 ---
 
 ## Overview

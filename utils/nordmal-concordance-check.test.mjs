@@ -8,7 +8,9 @@ import { execFileSync } from "node:child_process";
 import test from "node:test";
 import { checkCitations } from "./nordmal-concordance-check.mjs";
 
-const revision = execFileSync("git", ["rev-parse", "HEAD"], { encoding: "utf8" }).trim();
+// Pin the original visible spelling. Later revisions also contain the valid ASCII
+// address `lore-nagengir`, which a whole-line source citation may legitimately find.
+const revision = "f974870e6450b556fbf78c96cb2365c0ad9ccade";
 const file = "assets/content/Affiliations/Divine/Asguardian/Faith_of_Nahild.md";
 const lines = execFileSync("git", ["show", `${revision}:${file}`], {
     encoding: "utf8",

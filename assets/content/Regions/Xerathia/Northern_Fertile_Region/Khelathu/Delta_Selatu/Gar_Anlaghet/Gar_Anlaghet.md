@@ -12,6 +12,7 @@ data:
   parents: [garanlghtslt]
   population: 120000
   packFolder: regkhsett
+  government: selatgrnlght
 ---
 
 ## Overview

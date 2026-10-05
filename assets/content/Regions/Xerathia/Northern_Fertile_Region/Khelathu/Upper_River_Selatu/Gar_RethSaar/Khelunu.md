@@ -12,6 +12,7 @@ data:
   parents: [garrethsaarnome]
   population: 85000
   packFolder: regkhsett
+  government: selatgrrthsr
 ---
 
 ## Overview

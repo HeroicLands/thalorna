@@ -434,11 +434,11 @@ Rather than surrender to the role of priestess-advisor that the conservative eld
 
 ### The Unexpected Succession
 
-When her brother Raeth died mysteriously while hunting at age thirty-eight, the path to leadership became complicated. The elder council, bound by tradition to prefer a male leader, suggested her cousin Harthak should take the War Chief's seat. Athalwa challenged this decision not through overt rebellion but through demonstrated merit. When raiders from the Shadowpine Clan threatened the borders, Athalwa organized a devastating counteroffensive that not only repelled the invasion but expanded Vrystwald territory. The warriors who fought alongside her demanded she be acclaimed War Chief. After months of negotiation and ritual, the elders relented, creating unprecedented conditions: Athalwa could lead, but only under enhanced scrutiny and with certain traditional privileges revoked.
+When her brother Raeth died mysteriously while hunting at age thirty-eight, the path to leadership became complicated. The elder council, bound by tradition to prefer a male leader, suggested her cousin Harthak should take the War Chief's seat. Athalwa challenged this decision not through overt rebellion but through demonstrated merit. When raiders from the Shadowpine Clan threatened the borders, Athalwa organized a devastating counteroffensive that repelled the invasion and secured Eichengrund’s woodland approaches. The warriors who fought alongside her demanded she be acclaimed War Chief. After months of negotiation and ritual, the elders relented, creating unprecedented conditions: Athalwa could lead, but only under enhanced scrutiny and with certain traditional privileges revoked.
 
 ### Present Challenges
 
-Now ten years into her rule, Athalwa has reshaped the Vrystwald Tribes into a more expansionist, strategically aggressive power. She has established trade relationships with Byzarian merchants, initiated diplomatic contact with distant eastern kingdoms, and initiated a program of peaceful incorporation of neighboring minor clans. Many of her people thrive under her rule. But the conservative elders grow increasingly restless, and whispers suggest that some among the clan believe her visions are demonic rather than divine, that she leads them away from ancient truths toward ruin.
+Athalwa directs Eichengrund’s war-band as one of its three coequal elders. She favors aggressive defense and closer ties with neighboring villages, and has cultivated contacts with Byzarian merchants and eastern envoys. Trade agreements belong to the village’s Other Chief, and those contacts give her no authority over another village. Her hope of drawing neighboring clans into lasting allegiance is her own political project. Only imminent danger permits their elders to acclaim a common War Chief, whose wider command ends with the response. Many Eichengrund households welcome her victories and contacts. But the conservative elders grow increasingly restless, and whispers suggest that some among the clan believe her visions are demonic rather than divine, that she leads them away from ancient truths toward ruin.
 
 ## Psyche
 
@@ -450,7 +450,7 @@ Despite her power and status, Athalwa remains somewhat isolated. Her visions and
 
 ### Motivation
 
-Athalwa's primary motivation is the survival and flourishing of the Vrystwald Tribes in a changing world. She perceives that the old ways, while honorable and containing profound wisdom, are insufficient for the challenges ahead. She sees the Byzarian League expanding, the southern kingdoms consolidating power, the world becoming more connected and complex. Her visions show her paths where the Vrystwald remain vibrant and independent, but only if they adapt. She drives forward not from personal ambition but from a conviction born in visions: her people will either evolve under guided leadership, or be swept away by forces they do not understand. Everything she does, however controversial, aims toward this singular goal.
+Athalwa's primary motivation is the survival and flourishing of the Vrystwald Tribes in a changing world. She perceives that the old ways, while honorable and containing profound wisdom, are insufficient for the challenges ahead. She sees the Byzarian League expanding, the southern kingdoms consolidating power, the world becoming more connected and complex. Her visions show her paths where the Vrystwald remain vibrant and independent, but only if they adapt. She drives forward not from personal ambition but from a conviction born in visions: her people will either evolve under guided leadership, or be swept away by forces they do not understand. Everything she does, however controversial, aims toward this singular goal. Her conviction that the villages need continuing guided leadership challenges their custom; her visions confer no common office or right to govern them.
 
 ### Strengths
 
@@ -476,7 +476,7 @@ The War Band of Eichengrund
 : Young warriors and ambitious raiders who benefit from Athalwa's expansionist policies and see in her a leader who can elevate them to genuine power within the broader world.
 
 Merchant Prince Oleander of the Byzarian League
-: A canny trader who has secured exclusive access to Vrystwald furs and amber through his relationship with Athalwa. They maintain a respectful commercial and diplomatic relationship.
+: A canny trader who has secured access to Eichengrund’s furs and amber through village trade agreements and his relationship with Athalwa. They maintain a respectful commercial and diplomatic relationship.
 
 Mótefnir's Oracle, the Völva Astrid
 : An ancient priestess of the Asguardian Pantheon who senses truth in Athalwa's visions and provides mystical counsel and validation.
@@ -494,8 +494,8 @@ Shadow Throne Empire
 
 ### Affiliations
 
-Vrystwald Tribal Council
-: Athalwa serves as War Chief, though her seat remains contested among traditional members.
+Eichengrund’s Three Elders
+: Athalwa serves as the village’s War Chief alongside its Weskár and Other Chief, with one vote among the three. Her seat remains contested within Eichengrund. A council of several villages can give her wider command only for an agreed response to imminent danger; it disperses and that command ends with the response.
 
 [[affiliation-motefnir|Faith of Mótefnir]]
 : A devout practitioner who maintains regular spiritual counsel with the Völva priestesses.

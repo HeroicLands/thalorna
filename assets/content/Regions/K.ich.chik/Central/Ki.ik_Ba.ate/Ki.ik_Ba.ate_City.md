@@ -5,7 +5,7 @@ type: place
 subType: settlement
 description: "City"
 tags: [city, draft]
-data: {demonym: null, lore: [], parents: [kiikbaatergn], population: 70000}
+data: {demonym: null, lore: [], parents: [kiikbaatergn], population: 70000, government: kiikbaate}
 ---
 
 ## Overview

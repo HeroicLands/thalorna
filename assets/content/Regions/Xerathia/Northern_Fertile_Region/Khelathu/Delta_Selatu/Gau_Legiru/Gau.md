@@ -12,6 +12,7 @@ data:
   parents: [gaulegirunome]
   population: 45000
   packFolder: regkhsett
+  government: selatgaulegr
 ---
 
 ## Overview

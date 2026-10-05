@@ -12,6 +12,7 @@ data:
   parents: [khelenetzslt]
   population: 32000
   packFolder: regkhsett
+  government: selatkhelntz
 ---
 
 ## Overview

@@ -12,6 +12,7 @@ data:
   parents: [lutgethazalunome]
   population: 36000
   packFolder: regkhsett
+  government: selatltgthzl
 ---
 
 ## Overview
