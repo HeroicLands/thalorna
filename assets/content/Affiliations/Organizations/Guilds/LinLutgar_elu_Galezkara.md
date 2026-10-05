@@ -10,7 +10,15 @@ data:
   demonym: ""
   epithet: null
   symbol: null
-  governance: {model: "", summary: "", ranks: [], offices: {}}
+  governance:
+    model: ""
+    summary: ""
+    ranks:
+      - level: 1
+        title: "Member"
+        description: >-
+          Participates as an innkeeper in the association sharing knowledge of travelers and defending independent inns.
+    offices: {}
   seat: null
   domains: []
   population: 0

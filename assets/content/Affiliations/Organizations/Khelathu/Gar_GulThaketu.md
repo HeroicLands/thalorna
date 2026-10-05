@@ -10,7 +10,15 @@ data:
   demonym: ""
   epithet: null
   symbol: null
-  governance: {model: "", summary: "", ranks: [], offices: {}}
+  governance:
+    model: ""
+    summary: ""
+    ranks:
+      - level: 1
+        title: "Member"
+        description: >-
+          Belongs to the noble house known for commissioning fine arms and armor and vouching for its smiths' standards.
+    offices: {}
   seat: null
   domains: []
   population: 0

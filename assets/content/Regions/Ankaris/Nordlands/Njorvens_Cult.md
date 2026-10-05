@@ -14,7 +14,11 @@ data:
     model: council
     summary: >-
       The cult that venerates Njörven.
-    ranks: []
+    ranks:
+      - level: 1
+        title: Devotee
+        description: >-
+          Belongs to the cult that venerates Njörven.
     offices: {}
   seat: null
   domains: []

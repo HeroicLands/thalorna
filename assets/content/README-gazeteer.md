@@ -433,6 +433,10 @@ TBD.
 
 **Voice:** An informed account of a living institution, with attributed member and outsider views where they disagree. State its purpose, membership, seat, reach, governance, offices, resources, allies, and opponents. Then show how a person encounters its authority: a hearing, initiation, levy, petition, market bargain, or rite. For polities and governmental bodies, explain who actually decides and enforces; for faith and magical traditions, show practice as well as doctrine; for guilds, lineages, ventures, fellowships, orders, and criminal groups, show what membership asks and gives. Goals, motives, and conflicts make the organization useful for play.
 
+Every affiliation declares an ordinary membership standing at level 1. A single
+standing is enough when offices describe the differences between its members.
+The title and description come from the body's own membership practices.
+
 **A rung states `level`, `title` and `description`, and that is a complete
 statement.** `lore` is the one optional key: it addresses a `subType: law` note
 under `Lore/Ranks/` for a standing that needs more said about it than a rung's

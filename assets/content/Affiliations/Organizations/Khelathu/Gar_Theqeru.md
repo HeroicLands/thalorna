@@ -10,7 +10,15 @@ data:
   demonym: ""
   epithet: null
   symbol: null
-  governance: {model: "", summary: "", ranks: [], offices: {}}
+  governance:
+    model: ""
+    summary: ""
+    ranks:
+      - level: 1
+        title: "Member"
+        description: >-
+          Belongs to the noble house whose women hold influence in their own right and whose patronage supports the healing trades.
+    offices: {}
   seat: null
   domains: []
   population: 0

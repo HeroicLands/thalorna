@@ -10,7 +10,15 @@ data:
   demonym: ""
   epithet: null
   symbol: null
-  governance: {model: "", summary: "", ranks: [], offices: {}}
+  governance:
+    model: ""
+    summary: ""
+    ranks:
+      - level: 1
+        title: "Member"
+        description: >-
+          Trades within the waterfront consortium handling goods unloaded from the river barges at Wal-Igelu.
+    offices: {}
   seat: null
   domains: []
   population: 0

@@ -15,7 +15,11 @@ data:
     model: council
     summary: >-
       An informal, chartered-nowhere alliance of the empire's major trading houses, bound by mutual protection pacts and shared intelligence rather than by any court or roll.
-    ranks: []
+    ranks:
+      - level: 1
+        title: "Member"
+        description: >-
+          Belongs to a trading house participating in the alliance's mutual protection, shared intelligence and collective negotiation.
     offices: {}
   seat: null
   domains: []

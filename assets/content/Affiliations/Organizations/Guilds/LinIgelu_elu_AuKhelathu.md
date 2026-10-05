@@ -10,7 +10,15 @@ data:
   demonym: ""
   epithet: null
   symbol: null
-  governance: {model: "", summary: "", ranks: [], offices: {}}
+  governance:
+    model: ""
+    summary: ""
+    ranks:
+      - level: 1
+        title: "Member"
+        description: >-
+          Belongs to the chartered guild of rivermen and sea-captains and works under its standards of seamanship and cargo safety.
+    offices: {}
   seat: null
   domains: []
   population: 0

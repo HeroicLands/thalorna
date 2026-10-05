@@ -10,7 +10,15 @@ data:
   demonym: ""
   epithet: null
   symbol: null
-  governance: {model: "", summary: "", ranks: [], offices: {}}
+  governance:
+    model: ""
+    summary: ""
+    ranks:
+      - level: 1
+        title: "Member"
+        description: >-
+          Belongs to the loose fellowship of traveling performers and itinerants, extending its courtesy to others on the road.
+    offices: {}
   seat: null
   domains: []
   population: 0

@@ -5,7 +5,14 @@ type: affiliation
 subType: criminal
 description: "A secret society that takes exotic beasts and forces them to fight for spectacle"
 tags: [generated]
-data: {packFolder: regkhaff}
+data:
+  packFolder: regkhaff
+  governance:
+    ranks:
+      - level: 1
+        title: "Member"
+        description: >-
+          Belongs to the oath-bound society that takes exotic beasts for fighting spectacles.
 ---
 
 A secret society that takes exotic beasts and forces them to fight for spectacle. Those who train animals for any other purpose are an obstruction to be removed.

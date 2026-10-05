@@ -10,7 +10,15 @@ data:
   demonym: ""
   epithet: null
   symbol: null
-  governance: {model: "", summary: "", ranks: [], offices: {}}
+  governance:
+    model: ""
+    summary: ""
+    ranks:
+      - level: 1
+        title: "Member"
+        description: >-
+          Works with the Qelt'Lefetu trading company running protected caravans on valuable and dangerous routes.
+    offices: {}
   seat: null
   domains: []
   population: 0

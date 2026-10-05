@@ -10,7 +10,15 @@ data:
   demonym: ""
   epithet: null
   symbol: null
-  governance: {model: "", summary: "", ranks: [], offices: {}}
+  governance:
+    model: ""
+    summary: ""
+    ranks:
+      - level: 1
+        title: "Priest"
+        description: >-
+          Serves in the sworn priesthood of Thubâ'i, keeping flood-records and performing the rites asking for the year's prosperity.
+    offices: {}
   seat: null
   domains: []
   population: 0

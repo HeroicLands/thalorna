@@ -10,7 +10,15 @@ data:
   demonym: ""
   epithet: null
   symbol: null
-  governance: {model: "", summary: "", ranks: [], offices: {}}
+  governance:
+    model: ""
+    summary: ""
+    ranks:
+      - level: 1
+        title: "Performer"
+        description: >-
+          Performs with Galezkara's principal playing company in the productions it stages.
+    offices: {}
   seat: null
   domains: []
   population: 0

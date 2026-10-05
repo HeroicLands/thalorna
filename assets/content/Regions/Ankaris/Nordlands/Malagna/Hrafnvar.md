@@ -14,7 +14,11 @@ data:
     model: council
     summary: >-
       A polity of Malagna, under the crown of Lögnheim.
-    ranks: []
+    ranks:
+      - level: 1
+        title: Member of the Polity
+        description: >-
+          Belongs to Hrafnvar, a polity of Malagna under the crown of Lögnheim.
     offices: {}
   seat: null
   domains: []

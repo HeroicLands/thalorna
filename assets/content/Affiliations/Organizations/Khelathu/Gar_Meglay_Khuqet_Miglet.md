@@ -10,7 +10,15 @@ data:
   demonym: ""
   epithet: null
   symbol: null
-  governance: {model: "", summary: "", ranks: [], offices: {}}
+  governance:
+    model: ""
+    summary: ""
+    ranks:
+      - level: 1
+        title: "Soldier"
+        description: >-
+          Serves in the frontier garrison holding the forts and wells of Khuqet-Miglet on the northern desert road.
+    offices: {}
   seat: null
   domains: []
   population: 0

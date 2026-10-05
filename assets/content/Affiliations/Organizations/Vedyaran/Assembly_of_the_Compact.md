@@ -14,7 +14,11 @@ data:
     model: council
     summary: >-
       Five seats, one for each signatory polity, meeting twice a year under an elected High Speaker, with standing committees carrying the administration between sittings.
-    ranks: []
+    ranks:
+      - level: 1
+        title: Delegate
+        description: >-
+          Represents one of the five signatory polities in the Assembly that renews and amends the Compact.
     offices:
       High Speaker: >-
         Presiding officer of the Assembly and head of the Collective, elected by the kulinas from among themselves for a seven-year term, who puts its questions and rules on its procedure.

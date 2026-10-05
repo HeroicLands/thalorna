@@ -20,7 +20,7 @@ data:
         lore: putfromordrrnk
         description: >-
           Cast out by vote of the Chapter, closing every valley station's hospitality and every sibling order's recognition for good.
-      - level: 3
+      - level: 1
         title: Sworn Guardian
         lore: swrnguardnrnk
         description: >-

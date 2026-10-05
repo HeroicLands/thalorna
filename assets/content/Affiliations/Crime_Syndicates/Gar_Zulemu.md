@@ -5,7 +5,14 @@ type: affiliation
 subType: criminal
 description: "Merchants and port officials who move goods past the weighing and the seal, and who take refusal personally"
 tags: [generated]
-data: {packFolder: regkhaff}
+data:
+  packFolder: regkhaff
+  governance:
+    ranks:
+      - level: 1
+        title: "Member"
+        description: >-
+          Takes part in the smuggling ring that moves goods past the weighing and the seal.
 ---
 
 Merchants and port officials who move goods past the weighing and the seal, and who take refusal personally.

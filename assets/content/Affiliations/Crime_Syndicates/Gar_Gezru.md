@@ -5,7 +5,14 @@ type: affiliation
 subType: criminal
 description: "A network of corrupt officials and merchant-lords who have lost a great deal to honest auditing, and who keep a quiet bounty on those who did the auditing"
 tags: [generated]
-data: {packFolder: regkhaff}
+data:
+  packFolder: regkhaff
+  governance:
+    ranks:
+      - level: 1
+        title: "Member"
+        description: >-
+          Belongs to the network of corrupt officials and merchant-lords whose accounts record what its members are owed.
 ---
 
 A network of corrupt officials and merchant-lords who have lost a great deal to honest auditing, and who keep a quiet bounty on those who did the auditing.

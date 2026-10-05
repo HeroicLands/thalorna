@@ -10,7 +10,15 @@ data:
   demonym: ""
   epithet: null
   symbol: null
-  governance: {model: "", summary: "", ranks: [], offices: {}}
+  governance:
+    model: ""
+    summary: ""
+    ranks:
+      - level: 1
+        title: "Member"
+        description: >-
+          Belongs to the network of temple-estates whose granaries, workshops and tenant-villages support the temples' holdings.
+    offices: {}
   seat: null
   domains: []
   population: 0

@@ -10,7 +10,15 @@ data:
   demonym: ""
   epithet: null
   symbol: null
-  governance: {model: "", summary: "", ranks: [], offices: {}}
+  governance:
+    model: ""
+    summary: ""
+    ranks:
+      - level: 1
+        title: "Priest"
+        description: >-
+          Serves in Uznêra's temple priesthood, tending the rites of fertility and balanced partnership.
+    offices: {}
   seat: null
   domains: []
   population: 0

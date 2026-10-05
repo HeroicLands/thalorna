@@ -10,7 +10,15 @@ data:
   demonym: ""
   epithet: null
   symbol: null
-  governance: {model: "", summary: "", ranks: [], offices: {}}
+  governance:
+    model: ""
+    summary: ""
+    ranks:
+      - level: 1
+        title: "Member"
+        description: >-
+          Participates in the circle of scholars, merchants and teachers supporting study beyond the temple schools' interests.
+    offices: {}
   seat: null
   domains: []
   population: 0

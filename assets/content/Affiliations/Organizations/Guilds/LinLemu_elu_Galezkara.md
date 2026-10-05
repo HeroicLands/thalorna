@@ -10,7 +10,15 @@ data:
   demonym: ""
   epithet: null
   symbol: null
-  governance: {model: "", summary: "", ranks: [], offices: {}}
+  governance:
+    model: ""
+    summary: ""
+    ranks:
+      - level: 1
+        title: "Member"
+        description: >-
+          Participates in the servants' mutual aid society, pooling funds against sickness, dismissal and burial.
+    offices: {}
   seat: null
   domains: []
   population: 0
