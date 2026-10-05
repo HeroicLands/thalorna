@@ -12,8 +12,8 @@ data:
   stations: []
   lore: []
   culture: nordheimnclt
-  homes: [vrystwald]
-  affiliations: {vrystwldtrbs: {rank: 3}, motefnir: {rank: 1}}
+  homes: [nrdlndsrgn]
+  affiliations: {motefnir: {rank: 1}}
   gender: male
   species: humanflk
   born: 668.146
@@ -26,7 +26,7 @@ data:
     skin_color: light
     complexion: freckled
     extra_features: []
-  packFolder: ankarisvrystwald
+  packFolder: ankarisnordlands
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 8}}
