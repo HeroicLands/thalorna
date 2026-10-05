@@ -73,6 +73,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import YAML from "yaml";
+import { keepsMembershipTitle } from "../nordmal-membership-titles.mjs";
 
 /** The note every predicate is derived from. */
 const NOTE = "assets/content/Skills/Languages/Nordmal.md";
@@ -794,7 +795,10 @@ export function corpus(rule, table = null) {
         }
 
         if (front.type === "place" && relative.startsWith(NORDLANDS)) {
-            const kind = front.subType === "region" ? "realm" : "place";
+            const kind =
+                front.subType === "world" ? "compound"
+                : front.subType === "region" ? "realm"
+                : "place";
             add(front.name?.full, kind, file, raw, true);
             for (const alias of front.name?.aliases ?? []) add(alias, kind, file, raw, true);
         }
@@ -810,7 +814,17 @@ export function corpus(rule, table = null) {
 
         const governance = front.data?.governance;
         if (governance && relative.startsWith(NORDLANDS)) {
-            for (const rank of governance.ranks ?? []) add(rank.title, "rank", file, raw);
+            for (const rank of governance.ranks ?? []) {
+                if (
+                    (table?.keep ?? []).some((entry) =>
+                        keepsMembershipTitle(entry, file, front, rank),
+                    )
+                ) {
+                    titles.push(rank.title);
+                    continue;
+                }
+                add(rank.title, "rank", file, raw);
+            }
             for (const office of Object.keys(governance.offices ?? {}))
                 add(office, "rank", file, raw);
         }
@@ -964,7 +978,9 @@ export function checkConcordance(table, rule, tally) {
                 kind:
                     entry.kinds ??
                     (entry.type === "place" ?
-                        "place"
+                        entry.subType === "world" ?
+                            "compound"
+                        :   "place"
                     :   (CONCORDANCE_KIND.get(entry.subType) ?? "compound")),
                 why: "the concordance settles it as new",
             })),

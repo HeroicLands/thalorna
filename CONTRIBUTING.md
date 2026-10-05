@@ -61,12 +61,25 @@ trade dress belonging to a third party.
 
 ## Nordmal names
 
+A generic membership title in the reader's tongue can use a concordance `keep`
+row with its exact `literal`, named affiliation `paths`, integer
+`membershipLevel` and explanation in `why`. Both the lexicon and drift guards
+limit this exception to that affiliation's matching rung title. Other levels,
+body types, offices, prose occurrences and paths retain normal validation. The
+exception does not confer a Nordmal name or a social standing beyond membership.
+Run `node --test utils/nordmal-membership-titles.test.mjs` for this contract.
+
 `npm run lint:nordmal-lexicon` checks northern names against the element tables
 in the Nordmal language note. A deliberate name outside those rules has
 `kinds: []` on its row in `utils/nordmal-concordance.json`, with the reason in
 `note`. For a given-name row, the exemption applies only to the character at
 `newPath` whose full name matches `newName`; the clan name remains checked.
 Nordmal aliases and the language note's examples retain their normal spelling.
+
+A `place/world` name uses the published compound elements: `thurs-` and
+`-guard` form Thursguard, an enclosed world of giants. Both world note names
+and world concordance rows use that class. Earthly settlement names use the
+place generics and their permitted first elements.
 
 Run `node --test utils/lexicons/*.test.mjs` when changing this guard, and
 `npm run lint:nordmal-concordance` when changing the table.
