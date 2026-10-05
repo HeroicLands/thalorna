@@ -18,15 +18,15 @@ data:
       No formal hierarchy and no structured organization: scattered factions, each attached to a different hof and to the wound it keeps, operating independently and united only by faith in the Rime-Giant as substance rather than as a maker. What roles exist are informal, fluid, and claimed rather than conferred.
     ranks:
       - level: 1
-        title: Admirer
+        title: Hrímvin
         lore: admirerrnk
         description: >-
-          Holds Hrímthur's work in awe without joining any of the scattered factions that keep his worship, drawn by no rite because there is none to enter.
+          A friend of the rime, drawn to the giant without joining a faction. Holds Hrímthur's work in awe without joining any of the scattered factions that keep his worship, drawn by no rite because there is none to enter.
       - level: 3
-        title: Adherent
+        title: Hrímmadr
         lore: adherentrnk
         description: >-
-          Attached to one of the scattered factions tied to a hof and the wound it keeps, holding whatever standing that faction claims for what he has made or understood.
+          A man of the rime's station, attached to a faction that keeps the giant's worship. Attached to one of the scattered factions tied to a hof and the wound it keeps, holding whatever standing that faction claims for what he has made or understood.
     offices: {}
   seat: null
   domains: []

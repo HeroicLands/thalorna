@@ -18,15 +18,15 @@ data:
       A master swears an apprentice into the Circle once a Skaldating accepts his drápa; the assembled skalds convict and ring-break one who breaks the truth of the recital, and the Circle acclaims a Stóraldstjóri by peer recognition rather than vote.
     ranks:
       - level: 0
-        title: Ring-Broken
+        title: Skaldavargr
         lore: ringbrokenrnk
         description: >-
-          Convicted of breaking the truth of the recital, the silver arm-ring broken at the next Skaldating—a punishment with no recovery, imposed perhaps seven times in living memory.
+          The skalds' outlaw, deprived of the standing the Circle grants. Convicted of breaking the truth of the recital, the silver arm-ring broken at the next Skaldating—a punishment with no recovery, imposed perhaps seven times in living memory.
       - level: 1
-        title: Apprentice
+        title: Skaldefnir
         lore: skaldapprntrnk
         description: >-
-          A master's pupil for ten to fifteen years, entitled to nothing of the Circle's own until the drápa presented at a Skaldating is accepted.
+          A skald in the making, learning the craft under a master. A master's pupil for ten to fifteen years, entitled to nothing of the Circle's own until the drápa presented at a Skaldating is accepted.
       - level: 3
         title: Skáld
         lore: skaldrnk

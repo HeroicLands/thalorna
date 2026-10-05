@@ -18,25 +18,25 @@ data:
       A candidate stands the receptive test at Thrumufjall before a sponsoring Speaker presents him for examination; the conclave of Storm-Captains also tries and casts out a Speaker for cause, and chooses the Voice of the Hammer from among its own for life.
     ranks:
       - level: 0
-        title: Put from the Order
+        title: Eidvargr
         lore: putfromordrrnk
         description: >-
-          Cast out by conclave of the Storm-Captains, closing Thrumufjall and every chapter hall's hospitality for good.
+          An outlaw of the oath, his sworn vows void. Cast out by conclave of the Storm-Captains, closing Thrumufjall and every chapter hall's hospitality for good.
       - level: 1
-        title: Storm-Aspirant
+        title: Eidefnir
         lore: ordrcandidrnk
         description: >-
-          Trains at Thrumufjall or under a sitting Speaker, tested for weather-sensitivity in a thunderstorm and dismissed regardless of other merit if the test finds nothing in them.
+          One in the making for the oath, serving through the order's candidate trials. Trains at Thrumufjall or under a sitting Speaker, tested for weather-sensitivity in a thunderstorm and dismissed regardless of other merit if the test finds nothing in them.
       - level: 3
         title: Sworn Speaker
         lore: swornspkrrnk
         description: >-
           Acts on the order's behalf and draws its hospitality anywhere in the Nordlands, reading a storm before calling it and answering the standing arrangements a coastal town keeps for its defense.
       - level: 4
-        title: Storm-Captain
+        title: Eidhöfdingi
         lore: ordrseniorrnk
         description: >-
-          Leads tactical actions in the field, instructs Aspirants, and sits in the conclave that chooses the Voice of the Hammer.
+          A senior among the oath-sworn peers who choose the order's chair. Leads tactical actions in the field, instructs Aspirants, and sits in the conclave that chooses the Voice of the Hammer.
     offices:
       Voice of the Hammer: >-
         The order's chair, chosen for life by conclave of the Storm-Captains; one position.
