@@ -11,7 +11,7 @@ The high priest who consecrates a hof and performs the great blót at a season's
 
 ## What This Standing Is
 
-A hofgodi or hofgydja consecrates a hof, ordains the godar who serve under it, and performs the great blót at Jól, Sumarmál, Midsumar, or Vetrnaetr. Nothing religious sits above this standing: no rank of the land reaches inside a faith, and no faith answers to a pontiff.
+A hofgodi or hofgydja consecrates a hof, ordains the godar who serve under it, and performs the great blót at [[lore-jol|Jól]], [[lore-sumarmal|Sumarmál]], [[lore-midsumar|Midsumar]], or [[lore-vetrnaetr|Vetrnaetr]]. Nothing religious sits above this standing: no rank of the land reaches inside a faith, and no faith answers to a pontiff.
 
 ## How the Law Treats a Person Here
 
