@@ -4,7 +4,7 @@ name: {full: Prescience, aliases: []}
 type: mysticalability
 subType: arcanetalent
 description: "Warns of what is about to happen, moments or days before it does."
-tags: []
+tags: [draft]
 data: {icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
 sohl:
   system:
@@ -16,3 +16,5 @@ sohl:
 # hmk:
 #   name: ""
 ---
+
+Prescience warns of what is about to happen, moments or days before it does. It is foreknowledge of events close at hand. It is one of the arcane talents, the inborn gifts that the [[affiliation-ordoarcanis|Ordo Arcanis]] looks for in the children it registers.

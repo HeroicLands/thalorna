@@ -4,3 +4,5 @@ name: {full: "Script"}
 type: folder
 data: {parent: skills, color: "#2F4F4F"}
 ---
+
+This folder gathers the script skills, a subfolder of the skills folder. Each entry is the skill of one writing system, among them Durthrak, Helónika, Vedyákshara and Thurávark Runic.

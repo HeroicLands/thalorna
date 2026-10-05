@@ -4,7 +4,7 @@ name: {full: Vīrasthalī, aliases: []}
 type: place
 subType: settlement
 description: "Warrior-caste lineage village on the hill above the ford, which sends more men to the muster than any other."
-tags: [village, hill, inland]
+tags: [village, hill, inland, draft]
 data:
   demonym: null
   lore: []
@@ -13,3 +13,5 @@ data:
   packFolder: vedyara
   government: dhnrktjnpd
 ---
+
+**Vīrasthalī** is a warrior-caste lineage village on the hill above the ford, in the [[place-dhanurkotajnpd|Dhanurkota Janapada]]. It sends more men to the muster than any other village.
