@@ -39,7 +39,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Hrímthur is the Rime-Giant out of whose body the world was cut. He is one of the **Thursaett**, the giant-kin the Ten fought and beat before the world stood, and the only one of them killed rather than driven into **Thursguard**. He is not a maker and never was one: he is the material every maker works, the stone under the fields and the rime on it, and the faith that keeps his name keeps the memory of what was done to him.
+Hrímthur is the Rime-Giant out of whose body the world was cut. He is one of the [[lore-thursaett|Thursaett]], the giant-kin the Ten fought and beat before the world stood, and the only one of them killed rather than driven into [[place-thursguard|Thursguard]]. He is not a maker and never was one: he is the material every maker works, the stone under the fields and the rime on it, and the faith that keeps his name keeps the memory of what was done to him.
 
 ## Aspects
 
