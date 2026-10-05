@@ -6,7 +6,7 @@ subType: region
 description: The eastern Vrystwald forest where Grukar nests grow more numerous and village life stays on a war footing.
 data:
   demonym: null
-  lore: [humanflk, grukarfolk]
+  lore: [varokhiclt, grukarfolk]
   parents: [vrystwald]
   population: null
   routes:

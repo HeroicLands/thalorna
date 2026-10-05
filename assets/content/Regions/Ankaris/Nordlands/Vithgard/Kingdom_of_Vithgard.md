@@ -75,7 +75,7 @@ data:
   domains: [vithgard]
   population: 300000
   economy: [lore-vylrncrncy, lore-bartercnmy, lore-kinhalcrdt]
-  lore: [humanflk]
+  lore: [nordheimnclt]
   parents: []
   relations:
     asguardian: aligned
@@ -102,5 +102,6 @@ Kingdom of Vithgard uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo
 ## See Also
 
 - [[place-vithgard|Vithgard]]—The land the kingdom holds
+- [[lore-vthgdhstry|Histories and Legends of Vithgard]]—the kingdom's remembered past
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]]—Sister kingdoms
 - [[affiliation-asguardian|Asguardian Pantheon]]—Pantheon
