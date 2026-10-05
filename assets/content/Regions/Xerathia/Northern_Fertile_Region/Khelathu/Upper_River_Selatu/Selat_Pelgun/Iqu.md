@@ -12,6 +12,7 @@ data:
   parents: [selatpelgunnome]
   population: 34000
   packFolder: regkhsett
+  government: selatsltplgn
 ---
 
 ## Overview

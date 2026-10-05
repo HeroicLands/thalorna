@@ -12,6 +12,7 @@ data:
   parents: [galezkaraslt]
   population: 450000
   packFolder: regkhsett
+  government: empireakhlth
 ---
 
 ## Overview

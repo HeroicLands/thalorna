@@ -537,3 +537,26 @@ Althselda, Braldrinna, Brildselda, Bruldthýra, Draskselda, Driskthýra, Druskyn
 ## Clan Names
 
 Althendikh, Braldarukh, Brildendikh, Bruldumakh, Draskendikh, Driskumakh, Druskidrokh, Dvalgendikh, Dvarnarukh, Dvilgumakh, Dvirnendikh, Dvulgidrokh, Dvurnumakh, Anthidrokh, Flarnumakh, Flirnidrokh, Flurnarukh, Glarvidrokh, Glirvarukh, Glurvendikh, Gnaldrarukh, Gnarthidrokh, Gnildrendikh, Gnirtharukh, Gnuldrumakh, Gnurthendikh, Hlartharukh, Hlaskidrokh, Hlirthendikh, Hliskarukh, Hlurthumakh, Hluskendikh, Hnarvarukh, Hnirvendikh, Hnurvumakh, Hrandidrokh, Hrindarukh, Hrundendikh, Hvalgendikh, Hvarnumakh, Hvilgumakh, Hvirnidrokh, Hvulgidrokh, Hvurnarukh, Ilthumakh, Intharukh, Knalthumakh, Knarvendikh, Knilthidrokh, Knirvumakh, Knultharukh, Knurvidrokh, Kraldendikh, Krildumakh, Kruldidrokh, Marvidrokh, Mirvarukh, Murvendikh, Naltharukh, Nilthendikh, Nulthumakh, Ralthumakh, Rilthidrokh, Rultharukh, Skalfidrokh, Skilfarukh, Skraldarukh, Skrildendikh, Skruldumakh, Skulfendikh, Snalthendikh, Snarvumakh, Snilthumakh, Snirvidrokh, Snulthidrokh, Snurvarukh, Svaltharukh, Svilthendikh, Svulthumakh, Thalmumakh, Thilmidrokh, Thraldidrokh, Thraskarukh, Thrildarukh, Thriskendikh, Thruldendikh, Thruskumakh, Thulmarukh, Tvalgumakh, Tvarnidrokh, Tvilgidrokh, Tvirnarukh, Tvulgarukh, Tvurnendikh, Ulthidrokh, Unthendikh, Vraldendikh, Vrathumakh, Vrildumakh, Vrithidrokh, Vruldidrokh, Vrutharukh
+
+## Standing compounds
+
+A standing compound names the claim its body grants. An empty level in a ladder grants no claim of its own. The oath compounds serve the fighting orders where their candidate, senior-peer and expelled standings exist; the Green Wardens admit candidates directly to the sworn standing.
+
+| Compound       | Elements                          | Sense                            |
+| -------------- | --------------------------------- | -------------------------------- |
+| Eidefnir       | `eid-` + `-efnir`                 | One in the making for the oath   |
+| Eidhöfdingi    | `eid-` + `-höfdingi`              | Senior among the sworn peers     |
+| Eidvargr       | `eid-` + `-vargr`                 | Outlaw whose sworn vows are void |
+| Skaldefnir     | `skald-` + `-efnir`               | A skald in the making            |
+| Skaldavargr    | `skalda-` + `-vargr`              | The skalds' outlaw               |
+| Bandalagsmadr  | `bandalag-` + genitive + `-madr`  | Man on the league's roll         |
+| Bandalagsvargr | `bandalag-` + genitive + `-vargr` | The league's outlaw              |
+| Höfudvald      | `höfud-` + `-vald`                | The head who wields authority    |
+| Hrímmadr       | `hrím-` + `-madr`                 | Man of the rime's station        |
+| Hrímvin        | `hrím-` + `-vin`                  | Friend of the rime               |
+| Blótlok        | `blót-` + `-lok`                  | The sacrifice closed to him      |
+| Návargr        | `ná-` + `-vargr`                  | The corpse-goddess's outlaw      |
+| Bjartgengir    | `bjart-` + `-gengir`              | Those who go to the light        |
+| Bjartlok       | `bjart-` + `-lok`                 | The light closed to him          |
+
+`-vargr` names membership revoked from someone received; `-lok` names admission withheld. `-höfdingi` names seniority among peers who choose a chair; `-stjóri` names a master's office. **Lidstjóri**, `lid-` + `-stjóri`, means master of a company and is deliberately unused as a Compact rung: its Signed Captain is a standing before the league, while the league's administrative chair is its Speaker. The Giant's Children's senior standing is not Eidhöfdingi: their Fathers of the Halls choose the chair by virtue of office.

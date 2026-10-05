@@ -27,7 +27,7 @@ He keeps his hof's rites at their proper times, offers for the people who gather
 
 ## Offices Open at This Standing
 
-The godi of a named hof—Thrumufjall, Ódholm, Lögstead, or Hörgrvik among them—the rune-caster, the coast's Sea Warden, the oracle, and the seidr-worker, none of which raises him above this rank.
+The godi of a named hof—[[place-thrumufjall|Thrumufjall]], Ódholm, Lögstead, or Hörgrvik among them—the rune-caster, the coast's Sea Warden, the oracle, and the seidr-worker, none of which raises him above this rank.
 
 ## Where This Standing Is Held
 

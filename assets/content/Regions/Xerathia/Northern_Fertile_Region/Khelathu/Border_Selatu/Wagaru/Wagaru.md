@@ -12,6 +12,7 @@ data:
   parents: [wagaruselat]
   population: 14000
   packFolder: regkhsett
+  government: selatwagaru
 ---
 
 ## Overview

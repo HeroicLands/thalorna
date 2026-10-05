@@ -5,7 +5,7 @@ type: place
 subType: settlement
 description: "City"
 tags: [city, draft]
-data: {demonym: null, lore: [], parents: [kankulrgn], population: 120000}
+data: {demonym: null, lore: [], parents: [kankulrgn], population: 120000, government: kankul}
 ---
 
 ## Overview

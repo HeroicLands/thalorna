@@ -12,6 +12,7 @@ data:
   parents: [zuzeliaqtetnome]
   population: 22000
   packFolder: regkhsett
+  government: selatzuzlqtt
 ---
 
 ## Overview

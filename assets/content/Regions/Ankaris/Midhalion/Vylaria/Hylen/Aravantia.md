@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "Provincial Capital"
 tags: [capital, provincial]
-data: {demonym: null, lore: [], parents: [hylen], population: 28000, packFolder: vylaria}
+data:
+  demonym: null
+  lore: []
+  parents: [hylen]
+  population: 28000
+  packFolder: vylaria
+  government: provnchyln
 ---
 
 ## Overview

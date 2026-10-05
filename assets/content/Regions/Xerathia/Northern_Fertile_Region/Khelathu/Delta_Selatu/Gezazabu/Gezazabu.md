@@ -12,6 +12,7 @@ data:
   parents: [gezazabuselt]
   population: 56000
   packFolder: regkhsett
+  government: selatgezazab
 ---
 
 ## Overview

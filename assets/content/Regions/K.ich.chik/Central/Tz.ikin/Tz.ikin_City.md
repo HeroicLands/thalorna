@@ -5,7 +5,7 @@ type: place
 subType: settlement
 description: "City"
 tags: [city, draft]
-data: {demonym: null, lore: [], parents: [tzikinrgn], population: 60000}
+data: {demonym: null, lore: [], parents: [tzikinrgn], population: 60000, government: tzikin}
 ---
 
 ## Overview

@@ -18,6 +18,6 @@ Eichengrund's tension is the one that follows its War Chief rather than the vill
 
 ## See Also
 
-- [[affiliation-vrystwldtrbs|Vrystwald Tribes]]—The confederation Athalwa leads her clan within
+- [[affiliation-vrystwldtrbs|Vrystwald Tribes]]—The independent villages and their shared customs
 - [[place-vethwald|Véthwald]]—The Deepwood it stands in
 - [[being-athlwvthrnd|Athalwa Eichengrund]]—War Chief of Eichengrund, seated here
