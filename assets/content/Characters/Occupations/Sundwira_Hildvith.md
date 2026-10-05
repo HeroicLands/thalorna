@@ -1,10 +1,6 @@
 ---
 shortcode: sndwrhldvth
-name:
-  full: Sundwíra Eichengrund
-  given: Sundwíra
-  clan: Eichengrund
-  aliases: [Sundwíra Hildvith]
+name: {full: Sundwíra Eichengrund, aliases: [Sundwíra Hildvith]}
 type: being
 subType: npc
 tags: [draft, common-folk]

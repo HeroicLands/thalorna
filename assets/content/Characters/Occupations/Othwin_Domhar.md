@@ -1,6 +1,6 @@
 ---
 shortcode: othwindmhr
-name: {full: Óthwin Eichengrund, given: Óthwin, clan: Eichengrund, aliases: [Óthwin Dómhár]}
+name: {full: Óthwin Eichengrund, aliases: [Óthwin Dómhár]}
 type: being
 subType: npc
 tags: [draft, common-folk]

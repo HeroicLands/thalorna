@@ -1,6 +1,6 @@
 ---
 shortcode: wlfrdhldvth
-name: {full: Wulfrád Eichengrund, given: Wulfrád, clan: Eichengrund, aliases: [Wulfrád Hildvith]}
+name: {full: Wulfrád Eichengrund, aliases: [Wulfrád Hildvith]}
 type: being
 subType: npc
 tags: [draft, soldiery]
