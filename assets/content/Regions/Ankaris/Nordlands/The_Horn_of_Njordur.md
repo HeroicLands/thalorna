@@ -16,10 +16,10 @@ needed for the [[lore-njordurritlbinding|Ritual of Binding]].
 
 The name is a difficulty, and the sagas do not resolve it.
 
-**Njörvar** is not one of the Asguardian Twelve. The name belongs to an older sea-power of the
-Nordlands, largely displaced by the **Ásvinir** and surviving chiefly in place-names, in a few coastal
+**Njörvar** is not one of the Asguardian Ten. The name belongs to an older sea-power of the
+Nordlands, largely displaced by the [[lore-asvinir|Ásvinir]] and surviving chiefly in place-names, in a few coastal
 observances that priests of **Thrúnvald** tolerate without approving, and in this horn. What Njörvar was—a
-god the Ásvinir supplanted, a sea-spirit the clans placated, or something the two later traditions have
+god the [[lore-asvinir|Ásvinir]] supplanted, a sea-spirit the clans placated, or something the two later traditions have
 confused—depends entirely on which skald is asked.
 
 What every version of the story does note is the resemblance between **Njörvar** and **Njörven**. Some
