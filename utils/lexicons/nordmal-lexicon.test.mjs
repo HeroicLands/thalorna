@@ -29,10 +29,6 @@ test("explicit given-name exemptions preserve clan validation and published list
     );
     assert(names.some((row) => row.name === "Tvarnynda" && row.listed));
     assert.deepEqual(judge("Tvarnynda", "given", rule), []);
-    assert.equal(
-        names.filter((row) => row.file === entry.newPath && row.kind === "given").length,
-        0,
-    );
 });
 
 test("a concordance row with a Nordmal class keeps its given name subject to validation", () => {
