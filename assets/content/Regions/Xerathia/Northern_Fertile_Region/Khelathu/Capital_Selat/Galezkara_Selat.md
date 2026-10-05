@@ -48,7 +48,7 @@ The selat's settlement pattern is a single great metropolis ringed by temple-tow
 - [[place-zugezer|Zu-Gezer]] (~40,000)—"the Sacred Land," the necropolis-city on the western bank; the embalmers, tomb-builders, funerary artists, and mortuary priests who serve the royal dead, and the tomb-workers' settlements behind them.
 - [[place-garlegulu|Gar-Legulu]] (~30,000)—a temple-estate town east of the capital; the granaries, workshops, and tenant-villages of one of the great cult-temples, a town that exists to feed and serve its god.
 
-**The hinterland villages:** the dense farm-and-market country around the capital holds scores of villages of 500–3,000—among them Iugu-Leri, Gar-Zekhemu, Zma-Belgen, Khelut-Athen, Yath-Zabes, Gar-Ger, Shelu-Zu, Anlagh-Thawu, Amqel-Agefu, and Lut-Regyt—each rendering grain, beer, and labor to the capital and the temples, and each within a half-day's barge of the great city's markets.
+**The hinterland villages:** the dense farm-and-market country around the capital holds scores of villages, many of 500–3,000 people—among them Iugu-Leri, [[place-garzekhemu|Gar-Zekhemu]] (180), Zma-Belgen, Khelut-Athen, Yath-Zabes, Gar-Ger, Shelu-Zu, Anlagh-Thawu, Amqel-Agefu, and Lut-Regyt—each rendering grain, beer, and labor to the capital and the temples, and each within a half-day's barge of the great city's markets.
 
 ## See Also
 

@@ -41,7 +41,7 @@ Grain is the whole foundation—wheat above all, with barley and millet—grown 
 
 - [[place-anlaghzetun|Anlagh-Zetûn]] (~80,000)—the selat capital; a substantial inland city of granaries, grain-markets, survey-courts, and the seat of the Halzi'a, set among the richest wheatland in the empire.
 - [[place-amqelulegez|Amqelu-Legez]] (~25,000)—the selat's river-port, a busy quayside town where the grain of the basin is gathered, measured, and loaded onto the barges that carry it down to the capital and the delta; the selat's window on the river-traffic and its busiest, most worldly place.
-- **The basin villages:** the dense farm-country holds scores of grain-villages of 500–3,000—among them Gar-Zekhemu, Lut-Mulu, Yath-Thawu, Zma-Relepet, and Gar-Anpuqa—each working its share of the flood-basin and rendering grain up the chain to the granaries and the Halzi'a.
+- **The basin villages:** the dense farm-country holds scores of grain-villages, many of 500–3,000 people—among them [[place-garzekhemu2|Gar-Zekhemu]] (160), Lut-Mulu, Yath-Thawu, Zma-Relepet, and Gar-Anpuqa—each working its share of the flood-basin and rendering grain up the chain to the granaries and the Halzi'a.
 
 ## See Also
 

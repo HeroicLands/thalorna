@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "Trading Port"
 tags: [port, trading]
-data: {demonym: null, lore: [], parents: [okharisrgn], population: 35000, packFolder: citystates}
+data:
+  demonym: null
+  lore: []
+  parents: [okharisrgn]
+  population: 35000
+  packFolder: citystates
+  government: okharis
 ---
 
 **meaning:** _The Golden Flame_

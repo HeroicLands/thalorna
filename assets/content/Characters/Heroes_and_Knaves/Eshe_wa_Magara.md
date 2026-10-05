@@ -12,7 +12,7 @@ data:
   stations: []
   lore: []
   culture: okharinclt
-  homes: [zarhanor]
+  homes: [zarhanis]
   affiliations: {okharis: {rank: 2}, nkaruthar: {rank: 1}, njiayaroho: {rank: 1}}
   gender: female
   species: humanflk

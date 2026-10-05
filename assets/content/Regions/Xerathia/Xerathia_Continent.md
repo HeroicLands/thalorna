@@ -26,7 +26,7 @@ The **Northern Fertile Crescent** is a belt of productive land along the souther
 
 South of the crescent, the land gives way to the **Central Rainforests**—a vast trackless band of equatorial jungle that stretches across the continent. The forests teem with life, much of it dangerous: predators, disease, and creatures unknown elsewhere on Thalorna. Scattered tribes inhabit the rainforests, some maintaining carefully managed trade relationships with the northern civilizations, others wholly isolated. Ankarian cartographers mark the interior in blank stretches of green with a few rivers drawn in by guesswork.
 
-Beyond the rainforests lie the **Southern Savannahs**—vast grasslands populated by nomadic hunter-tribes who follow the great seasonal animal migrations. Ékunda is one of the more settled communities of this region, known to Ankarian travelers as the southernmost reliable outpost of civilization. Beyond the savannahs, the continent trails off into regions that Ankarian cartographers have rarely reached and almost never returned from.
+Beyond the rainforests lie the **Southern Savannahs**—vast grasslands populated by nomadic hunter-tribes who follow the great seasonal animal migrations. [[place-ekundavlg|Ékunda]] is one of the more settled communities of this region, known to Ankarian travelers as the southernmost reliable outpost of civilization. Beyond the savannahs, the continent trails off into regions that Ankarian cartographers have rarely reached and almost never returned from.
 
 ## Regions
 
@@ -71,7 +71,7 @@ Beyond the Vylarian Sea, Xerathia's contact with the rest of Thalorna is thin. T
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—Ancient northern empire
 - [[affiliation-okharis|Okháris]]—The three-flamed kingdom
 - [[affiliation-mtrrchybth|Matriarchy of Bethua]]—Eastern matriarchy
-- Ékunda—Settled community of the southern savannahs
+- [[place-ekundavlg|Ékunda]]—Settled community of the southern savannahs
 - [[affiliation-khelathpnthn|Khelâthi Pantheon]]—Faith of Aû'Khelâthu
 - [[affiliation-nkaruthar|Nkaru'thar]]—The Eternal Flame of Okháris
 - [[place-vylarianse|Vylarian Sea]]—The inland sea shared with Ankaris

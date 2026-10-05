@@ -3,21 +3,24 @@ shortcode: garzekhemu
 name: {full: Gar-Zekhemu, aliases: []}
 type: place
 subType: settlement
-description: "A grain-village worked in two selats at once—the basin country of Anlagh-Zetûn and the market-belt around Galezkara both claim a Gar-Zekhemu—and the confusion of the two is an old joke among scribes who must write out which one a consignment came from"
+description: "A grain-village of 180 people in the farm-and-market country around Galezkara, distinct from the village of the same name in Anlagh-Zetûn Selat"
 tags: [generated, draft]
 data:
   demonym: null
   lore: []
-  parents: [galezkaraslt, anlaghztnslt]
-  population: 0
+  parents: [galezkaraslt]
+  population: 180
   packFolder: regkhsett
   banner: khelathubnr
 ---
 
 ## Overview
 
-Gar-Zekhemu is claimed at once by [[place-galezkaraslt|Galezkara Selat]] and by [[place-anlaghztnslt|Anlagh-Zetûn Selat]], since each selat's farm country holds a village of the same name. It lives as either one does, by grain rendered to its granaries. A scribe entering a consignment has to write which Gar-Zekhemu sent it, and the joke of the two has outlasted several generations of scribes.
+Gar-Zekhemu is a grain-village of 180 people in the farm-and-market country of [[place-galezkaraslt|Galezkara Selat]], within a half-day's barge of [[place-galezkara|Galezkara]]'s markets. Its harvest helps feed the capital and its temples, and its people render grain, beer, and labour to them.
+
+It shares its name with a distinct [[place-garzekhemu2|Gar-Zekhemu in Anlagh-Zetûn Selat]]. A scribe entering a consignment has to write which Gar-Zekhemu sent it, and the joke of the two has outlasted several generations of scribes.
 
 ## See Also
 
-TBD.
+- [[place-galezkaraslt|Galezkara Selat]]—The surrounding farm-and-market country
+- [[place-garzekhemu2|Gar-Zekhemu, Anlagh-Zetûn Selat]]—The other village of the same name

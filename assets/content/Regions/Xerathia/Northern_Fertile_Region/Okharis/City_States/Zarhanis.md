@@ -1,11 +1,17 @@
 ---
-shortcode: zarhanor
-name: {full: Zarhánor, aliases: [The First Flame]}
+shortcode: zarhanis
+name: {full: Zarhánis, aliases: [The First Flame]}
 type: place
 subType: settlement
 description: "Temple City"
 tags: [city, temple]
-data: {demonym: null, lore: [], parents: [okharisrgn], population: 40000, packFolder: citystates}
+data:
+  demonym: null
+  lore: []
+  parents: [okharisrgn]
+  population: 40000
+  packFolder: citystates
+  government: okharis
 ---
 
 **meaning:** _The First Flame_
