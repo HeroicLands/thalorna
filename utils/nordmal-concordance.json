@@ -117,15 +117,14 @@
         },
         {
             "literal": "Royal Kin",
-            "why": "these are ranks of Dunhari, Vedyaran and Okharis polities, not the retired Nordheimn rank Konungsaett",
+            "why": "these are ranks of Dunhari and Vedyaran polities, not the retired Nordheimn rank Konungsaett",
             "paths": [
                 "assets/content/Regions/Ankaris/Dunhara/Amradad/Sultanate_of_Amradad.md",
                 "assets/content/Regions/Ankaris/Vedyara/Bharyastan.md",
                 "assets/content/Regions/Ankaris/Vedyara/Bhumipala.md",
                 "assets/content/Regions/Ankaris/Vedyara/Chandrapur.md",
                 "assets/content/Regions/Ankaris/Vedyara/Gomarga.md",
-                "assets/content/Regions/Ankaris/Vedyara/Vindhyalaya.md",
-                "assets/content/Regions/Xerathia/Northern_Fertile_Region/Okharis/Okharis.md"
+                "assets/content/Regions/Ankaris/Vedyara/Vindhyalaya.md"
             ],
             "kinds": []
         },
