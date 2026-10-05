@@ -13637,5 +13637,188 @@
             ],
             "boldKind": "bare"
         }
-    ]
+    ],
+    "standingCoinages": {
+        "rungs": [
+            {
+                "path": "assets/content/Affiliations/Organizations/Asguardian_Orders/The_Order_of_the_Sworn_Hand.md",
+                "level": 0,
+                "oldTitle": "Put from the Order",
+                "title": "Eidvargr"
+            },
+            {
+                "path": "assets/content/Affiliations/Organizations/Asguardian_Orders/The_Green_Wardens.md",
+                "level": 0,
+                "oldTitle": "Put from the Order",
+                "title": "Eidvargr"
+            },
+            {
+                "path": "assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_Storm_Speakers.md",
+                "level": 0,
+                "oldTitle": "Put from the Order",
+                "title": "Eidvargr"
+            },
+            {
+                "path": "assets/content/Affiliations/Organizations/Asguardian_Orders/The_Giants_Children.md",
+                "level": 0,
+                "oldTitle": "Put from the Order",
+                "title": "Eidvargr"
+            },
+            {
+                "path": "assets/content/Affiliations/Organizations/Asguardian_Orders/The_Order_of_the_Sworn_Hand.md",
+                "level": 1,
+                "oldTitle": "Hand-Squire",
+                "title": "Eidefnir"
+            },
+            {
+                "path": "assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_Storm_Speakers.md",
+                "level": 1,
+                "oldTitle": "Storm-Aspirant",
+                "title": "Eidefnir"
+            },
+            {
+                "path": "assets/content/Affiliations/Organizations/Asguardian_Orders/The_Giants_Children.md",
+                "level": 1,
+                "oldTitle": "The Frost-Touched",
+                "title": "Eidefnir"
+            },
+            {
+                "path": "assets/content/Affiliations/Organizations/Asguardian_Orders/The_Order_of_the_Sworn_Hand.md",
+                "level": 4,
+                "oldTitle": "Elder Hand",
+                "title": "Eidhöfdingi"
+            },
+            {
+                "path": "assets/content/Affiliations/Organizations/Asguardian_Orders/The_Green_Wardens.md",
+                "level": 4,
+                "oldTitle": "Elder Guardian",
+                "title": "Eidhöfdingi"
+            },
+            {
+                "path": "assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_Storm_Speakers.md",
+                "level": 4,
+                "oldTitle": "Storm-Captain",
+                "title": "Eidhöfdingi"
+            },
+            {
+                "path": "assets/content/Affiliations/Organizations/Skalds_Circle.md",
+                "level": 1,
+                "oldTitle": "Apprentice",
+                "title": "Skaldefnir"
+            },
+            {
+                "path": "assets/content/Affiliations/Organizations/Skalds_Circle.md",
+                "level": 0,
+                "oldTitle": "Ring-Broken",
+                "title": "Skaldavargr"
+            },
+            {
+                "path": "assets/content/Affiliations/Organizations/Malalidabandalag.md",
+                "level": 1,
+                "oldTitle": "Sworn of a Signed Company",
+                "title": "Bandalagsmadr"
+            },
+            {
+                "path": "assets/content/Affiliations/Organizations/Malalidabandalag.md",
+                "level": 0,
+                "oldTitle": "Discharged in Disgrace",
+                "title": "Bandalagsvargr"
+            },
+            {
+                "path": "assets/content/Regions/Ankaris/Aureldia/Aelwyth/Stormveld/Jarldom_of_Stormveld.md",
+                "level": 7,
+                "oldTitle": "High Jarl",
+                "title": "Höfudvald"
+            },
+            {
+                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Hrimthur.md",
+                "level": 1,
+                "oldTitle": "Admirer",
+                "title": "Hrímvin"
+            },
+            {
+                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Hrimthur.md",
+                "level": 3,
+                "oldTitle": "Adherent",
+                "title": "Hrímmadr"
+            },
+            {
+                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Frodvin.md",
+                "level": 0,
+                "oldTitle": "Refused the Blót",
+                "title": "Blótlok"
+            },
+            {
+                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Eidgar.md",
+                "level": 0,
+                "oldTitle": "Refused the Blót",
+                "title": "Blótlok"
+            },
+            {
+                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Motefnir.md",
+                "level": 0,
+                "oldTitle": "Refused the Blót",
+                "title": "Blótlok"
+            },
+            {
+                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Svartbrandr.md",
+                "level": 0,
+                "oldTitle": "Refused the Blót",
+                "title": "Blótlok"
+            },
+            {
+                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Solrun.md",
+                "level": 0,
+                "oldTitle": "Refused the Blót",
+                "title": "Blótlok"
+            },
+            {
+                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Velgrimr.md",
+                "level": 0,
+                "oldTitle": "Refused the Blót",
+                "title": "Blótlok"
+            },
+            {
+                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Thrunvald.md",
+                "level": 0,
+                "oldTitle": "Refused the Blót",
+                "title": "Blótlok"
+            },
+            {
+                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Odvar.md",
+                "level": 0,
+                "oldTitle": "Refused the Blót",
+                "title": "Blótlok"
+            },
+            {
+                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Nahild.md",
+                "level": 0,
+                "oldTitle": "The Betrayer",
+                "title": "Návargr"
+            },
+            {
+                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Bjartr.md",
+                "level": 1,
+                "oldTitle": "The Faithful",
+                "title": "Bjartgengir"
+            },
+            {
+                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Bjartr.md",
+                "level": 0,
+                "oldTitle": "Unaccorded",
+                "title": "Bjartlok"
+            }
+        ],
+        "deliberatelyUnused": [
+            {
+                "title": "Lidstjóri",
+                "elements": ["lid-", "-stjóri"],
+                "reason": "Master of a company names an office. The Compact confers Signed Captain standing and elects a Speaker; neither is the one office of a company master."
+            }
+        ],
+        "limits": [
+            "Eidefnir names only existing candidate standings; the Green Wardens admit candidates directly to their sworn standing.",
+            "Eidhöfdingi names senior peers who choose the chair; the Giant's Children entrust that choice to Fathers of the Halls, an office distinct from their senior rung."
+        ]
+    }
 }

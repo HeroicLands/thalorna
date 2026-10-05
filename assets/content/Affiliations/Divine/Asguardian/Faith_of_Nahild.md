@@ -18,10 +18,10 @@ data:
       What this cult confers is taught in secret rather than offered at a public rite: a hidden hof's godi admits an offerer, teaches an initiate the observances known only to Náhild's own, and takes the sacrifices nobody outside the faith may witness. No rank of the land reaches here, and nothing above a hidden hof's godi answers for it, because the pattern the other seven faiths of the Ten share depends on a public blót this cult cannot keep.
     ranks:
       - level: 0
-        title: The Betrayer
+        title: Návargr
         lore: betrayerrnk
         description: >-
-          Named a hidden hof, an initiate or a godi to outsiders and lost the shelter the cult's secrecy owed him; the hof he betrayed owes him nothing further.
+          An outlaw of the corpse-goddess, cast out after betraying the cult that received him. Named a hidden hof, an initiate or a godi to outsiders and lost the shelter the cult's secrecy owed him; the hof he betrayed owes him nothing further.
       - level: 1
         title: Her Offerer
         lore: offererrnk
