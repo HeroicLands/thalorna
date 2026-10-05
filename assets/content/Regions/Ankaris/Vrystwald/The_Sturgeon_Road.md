@@ -8,10 +8,9 @@ tags: [varokhi, epic, oral-tradition]
 data: {packFolder: vrystwald}
 ---
 
-# The Sturgeon Road
-
 _A fireside telling of [[being-vthargrmhlt|Véthar Grimholt]]. The singers of [[place-grimholt|Grimholt]] call this a tale, not a witness account; its details change from hearth to hearth._
 
+:::prose {title="The Sturgeon Road"}
 At Grimholt, where the slow brown river bends,  
 the wharf boards knew more feet than the council floor.  
 Fur went south, grain came north, and bright coins crossed  
@@ -120,3 +119,5 @@ But all the tellers agree on what he brought back:
 not a map of tomorrow, nor a sentence from the dead,  
 but a way to name a wrong before the whole clan  
 and enough courage to let the whole clan set it right.
+:::
+
