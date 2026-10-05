@@ -76,6 +76,10 @@ in the Nordmal language note. A deliberate name outside those rules has
 `newPath` whose full name matches `newName`; the clan name remains checked.
 Nordmal aliases and the language note's examples retain their normal spelling.
 
+Concordance source citations accept capitalization variants of a recorded name.
+Accents and specified columns remain exact; a note’s full name must match its
+concordance row. A live spelling does not belong in the retired alias list.
+
 A `place/world` name uses the published compound elements: `thurs-` and
 `-guard` form Thursguard, an enclosed world of giants. Both world note names
 and world concordance rows use that class. Earthly settlement names use the

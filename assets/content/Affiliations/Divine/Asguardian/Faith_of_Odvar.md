@@ -62,7 +62,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Ódvar is revered as the god of knowledge, wisdom, and the relentless pursuit of understanding. His insatiable quest for knowledge is legendary, marked by his sacrifice of an eye at the well of Minnir in exchange for a drink of its wisdom-bestowing waters. Ódvar's wisdom is not just scholarly but also deeply connected to the mystical and the arcane, encompassing the runes, the secrets of the cosmos, and the mysteries of life and death.
+Ódvar is revered as the god of knowledge, wisdom, and the relentless pursuit of understanding. His insatiable quest for knowledge is legendary, marked by his sacrifice of an eye at the well of [[lore-minnir|Minnir]] in exchange for a drink of its wisdom-bestowing waters. Ódvar's wisdom is not just scholarly but also deeply connected to the mystical and the arcane, encompassing the runes, the secrets of the cosmos, and the mysteries of life and death.
 
 ## Aspects
 
@@ -70,7 +70,7 @@ sohl: {system: {commonSkills: []}}
 
 His influence extends far beyond mere intellectual pursuits; he is also a god of poetry, war, and honorable death, guiding souls to Valsal and inspiring warriors with the courage to fight and the wisdom to know when to wield their power. His complex nature makes him a god of paradoxes—both creator and destroyer, wise and warlike, loving and fearsome.
 
-In artistic depictions, Ódvar is often shown holding a spear, Skjálfgeir, which never misses its mark, symbolizing his precision and authority. He may also be depicted with the severed head of Minnir, from whom he continues to seek counsel.
+In artistic depictions, Ódvar is often shown holding a spear, [[lore-skjalfgeir|Skjálfgeir]], which never misses its mark, symbolizing his precision and authority. He may also be depicted with the severed head of [[lore-minnir|Minnir]], from whom he continues to seek counsel.
 
 ## Sacred Objects
 
@@ -81,7 +81,7 @@ In artistic depictions, Ódvar is often shown holding a spear, Skjálfgeir, whic
 
 ## Relics
 
-- **Skjálfgeir's Echo:** A fragment of Ódvar's legendary spear, Skjálfgeir, believed to grant its bearer unparalleled precision and authority in both combat and leadership.
+- **[[lore-skjalfgeir|Skjálfgeir]]'s Echo:** A fragment of Ódvar's legendary spear, [[lore-skjalfgeir|Skjálfgeir]], believed to grant its bearer unparalleled precision and authority in both combat and leadership.
 - **Wisdom's Eye:** A small, blessed polished stone said to offer the holder enhanced intuition and the ability to see through deception.
 - **Raven's Feather Quill:** A writing instrument made from a feather said to have fallen from [[lore-hugvin|Hugvin]] or [[lore-munvin|Munvin]]. Prized by scribes and seers, this quill is believed to channel Ódvar's wisdom directly into the written word.
 
@@ -111,7 +111,7 @@ In artistic depictions, Ódvar is often shown holding a spear, Skjálfgeir, whic
 
 **High Ceremonies:**
 
-- **The Rite of Minnir's Well:** A sacred ritual where the clergy ritualistically drink from a blessed chalice said to represent Minnir's Well to deepen their connection to Ódvar's wisdom.
+- **The Rite of [[lore-minnir|Minnir]]'s Well:** A sacred ritual where the clergy ritualistically drink from a blessed chalice said to represent [[lore-minnir|Minnir]]'s Well to deepen their connection to Ódvar's wisdom.
 
 **Festivals:**
 
