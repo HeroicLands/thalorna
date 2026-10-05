@@ -12,6 +12,7 @@ data:
   parents: [iuthnetselat]
   population: 42000
   packFolder: regkhsett
+  government: selatiuthnet
 ---
 
 ## Overview

@@ -368,7 +368,7 @@ Skalforv stands 6'3" with a broad, powerfully built frame, weighing about 230 po
 
 Skalforv was born during a ferocious thunderstorm, a sign that Thrúnvald had blessed him from birth. As a child, he displayed an unnatural affinity for storms, often climbing the tallest hills to watch lightning dance across the sky. By the time he was a man, Skalforv had become a warrior of unmatched strength and ferocity, his hammer blows echoing like thunder across the battlefield. He was known for his fearlessness in the face of danger and his unwavering dedication to Thrúnvald, whom he believed guided his every action.
 
-The most famous saga of Skalforv Thunderstrike tells of his battle against the Sea Serpent **Heimsormr**, a creature so large it could encircle the earth. When the serpent threatened to flood the coastal villages with its thrashing, Skalforv took to the sea in a small boat, armed only with his hammer and the blessings of Thrúnvald. For three days and nights, he battled the serpent amid a raging storm, each strike of his hammer sending lightning crashing down. On the fourth day, Skalforv finally landed a blow so powerful that it split the serpent's head in two, sending it sinking back into the depths. Exhausted but victorious, Skalforv returned to the shore, where the people hailed him as Thrúnvald's chosen champion.
+The most famous saga of Skalforv Thunderstrike tells of his battle against the Sea Serpent [[lore-heimsormr|Heimsormr]], a creature so large it could encircle the earth. When the serpent threatened to flood the coastal villages with its thrashing, Skalforv took to the sea in a small boat, armed only with his hammer and the blessings of Thrúnvald. For three days and nights, he battled the serpent amid a raging storm, each strike of his hammer sending lightning crashing down. On the fourth day, Skalforv finally landed a blow so powerful that it split the serpent's head in two, sending it sinking back into the depths. Exhausted but victorious, Skalforv returned to the shore, where the people hailed him as Thrúnvald's chosen champion.
 
 ## Psyche
 
@@ -390,7 +390,7 @@ Skalforv's strength is prodigious, and his skill with a warhammer is unmatched. 
 
 ### Patrons
 
-**The Storm Temple of Thrumufjall**—The priests of Thrúnvald's sacred mountain recognize Skalforv as their god's champion and provide him with blessings, healing, and the finest weapons they can offer.
+**The Storm Temple of [[place-thrumufjall|Thrumufjall]]**—The priests of Thrúnvald's sacred mountain recognize Skalforv as their god's champion and provide him with blessings, healing, and the finest weapons they can offer.
 
 **Widow Astridr of Kystvik**—A wealthy fisherwoman whose village Skalforv saved from sea raiders. She supplies him with provisions, a ship, and crew whenever he needs them.
 
@@ -404,6 +404,6 @@ Skalforv's strength is prodigious, and his skill with a warhammer is unmatched. 
 
 1. **The Serpent's Return**—The sea serpent did not truly die. Fishermen report seeing its shadow beneath the waves, larger than before. Skalforv must prepare for a rematch he may not survive.
 
-2. **Thrumufjall Under Siege**—An army of trolls has laid siege to the sacred mountain. The priests are trapped, and the storm blessing is fading. Skalforv must break the siege before Thrúnvald's power wanes.
+2. **[[place-thrumufjall|Thrumufjall]] Under Siege**—An army of trolls has laid siege to the sacred mountain. The priests are trapped, and the storm blessing is fading. Skalforv must break the siege before Thrúnvald's power wanes.
 
 3. **The Storm Child**—A child born during an unprecedented storm displays powers similar to Skalforv's own. Both the Storm Temple and darker forces seek to claim the child, and Skalforv must decide what is truly best for them.

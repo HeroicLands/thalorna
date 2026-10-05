@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "Aldorath's western fortress, watching the interior and the forest margin—a garrison town whose whole reason is the country beyond it."
 tags: [town, fortified, frontier, inland]
-data: {demonym: null, lore: [], parents: [wyndmarch], population: 2400, packFolder: aelwyth}
+data:
+  demonym: null
+  lore: []
+  parents: [wyndmarch]
+  population: 2400
+  packFolder: aelwyth
+  government: kngdmldrth
 ---
 
 **Caerwynd** stands where Aldorath's settled country runs out and the interior forest begins, and it is a

@@ -22,15 +22,15 @@ data:
       A captain swears his company into the Compact before the Council of the Hall and becomes a Signed Captain outright; the Council also discharges a captain in disgrace by vote, and elects the Speaker of the Compact from among its own for a five-year term.
     ranks:
       - level: 0
-        title: Discharged in Disgrace
+        title: Bandalagsvargr
         lore: dischargedrnk
         description: >-
-          Expelled by Council vote, the bandalagshringr surrendered and the company's contracts dishonored, its hostels closed and its old debts settled by rivals the Compact will not restrain.
+          The league's outlaw, cast out of the Compact that received his company. Expelled by Council vote, the bandalagshringr surrendered and the company's contracts dishonored, its hostels closed and its old debts settled by rivals the Compact will not restrain.
       - level: 1
-        title: Sworn of a Signed Company
+        title: Bandalagsmadr
         lore: companyswornrnk
         description: >-
-          A common warrior testified by his captain rather than sworn directly to the Compact, holding its truce and a legible oath when he crosses from one signed company to another.
+          A man on the league's roll through the oath of his signed company. A common warrior testified by his captain rather than sworn directly to the Compact, holding its truce and a legible oath when he crosses from one signed company to another.
       - level: 3
         title: Signed Captain
         lore: signedcaptnrnk

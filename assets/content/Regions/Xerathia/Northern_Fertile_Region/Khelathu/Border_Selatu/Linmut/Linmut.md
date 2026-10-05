@@ -12,6 +12,7 @@ data:
   parents: [linmutselat]
   population: 11000
   packFolder: regkhsett
+  government: selatlinmut
 ---
 
 ## Overview

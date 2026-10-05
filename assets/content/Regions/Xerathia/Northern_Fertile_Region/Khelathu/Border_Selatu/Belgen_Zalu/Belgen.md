@@ -12,6 +12,7 @@ data:
   parents: [belgenzalunome]
   population: 11000
   packFolder: regkhsett
+  government: selatbelgnzl
 ---
 
 ## Overview

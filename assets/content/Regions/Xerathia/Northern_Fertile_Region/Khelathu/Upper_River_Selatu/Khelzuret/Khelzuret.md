@@ -12,6 +12,7 @@ data:
   parents: [khelzuretslt]
   population: 90000
   packFolder: regkhsett
+  government: selatkhelzrt
 ---
 
 ## Overview

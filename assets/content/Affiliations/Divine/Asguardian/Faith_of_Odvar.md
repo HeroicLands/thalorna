@@ -18,10 +18,10 @@ data:
       What this faith confers is admission to the blót and the keeping of a rune-hall's rites, granted and withheld by that hall's godi alike: the organ that sets the ladder's floor as well as its ceiling, with no rank of the land inside it and nothing above the high priest. The titles are this faith's own; the shape is shared by every faith of the Ten that keeps a public blót.
     ranks:
       - level: 0
-        title: Refused the Blót
+        title: Blótlok
         lore: blotrefusedrnk
         description: >-
-          Declined the mead and the rune-offering at a rune-hall by its own godi, cutting a man from Ódvar's clergy and from the hall's reckoning of him at once.
+          The sacrifice is closed to him: the hof declines his offering and grants him no standing. Declined the mead and the rune-offering at a rune-hall by its own godi, cutting a man from Ódvar's clergy and from the hall's reckoning of him at once.
       - level: 1
         title: Blótmadr
         lore: blotmadrrnk
@@ -98,7 +98,7 @@ In artistic depictions, Ódvar is often shown holding a spear, Skjálfgeir, whic
 ## Divine Servants
 
 - **Valkyries:** Choosers of the slain, they select fallen warriors to bring to Valsal.
-- **Valdrengir:** The honored dead who reside in Valsal, training for the final battle of Aldarlok.
+- [[lore-valdrengir|Valdrengir]]: The honored dead who reside in Valsal, training for the final battle of Aldarlok.
 - [[lore-hugvin|Hugvin]]: One of Ódvar's ravens, representing thought, who flies across the world gathering knowledge and wisdom.
 - [[lore-munvin|Munvin]]: The other of Ódvar's ravens, symbolizing memory, who travels far and wide to bring back insights from all corners of the world.
 
