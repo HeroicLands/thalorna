@@ -12,6 +12,7 @@ data:
   population: 290
   market: 2
   packFolder: vedyara
+  government: hvarnguides
 ---
 
 **Nürvhrn** lies in a sheltered head-valley below the cols of [[place-estrnreach|the Eastern Reach]], and it is where the [[affiliation-hvarnguides|Hvarn]] spend the winter. Two hundred and ninety people live there year-round. Through the closed months there are three times that many, because the hearths come down off the high pastures and the whole people is in one valley until the thaw.

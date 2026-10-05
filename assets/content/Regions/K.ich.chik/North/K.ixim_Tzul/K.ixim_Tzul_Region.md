@@ -11,6 +11,7 @@ data:
   parents: [nrthrnkchchk]
   population: null
   packFolder: kiximtzul
+  government: kiximtzul
 
 # terran_analog: Alberta, Saskatchewan, and Manitoba in Canada
 ---

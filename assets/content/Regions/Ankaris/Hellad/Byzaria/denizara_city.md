@@ -5,7 +5,7 @@ type: place
 subType: settlement
 description: "Port City"
 tags: [port, city]
-data: {demonym: null, lore: [], parents: [byzariargn], population: 70000}
+data: {demonym: null, lore: [], parents: [byzariargn], population: 70000, government: denizara}
 ---
 
 ## Overview

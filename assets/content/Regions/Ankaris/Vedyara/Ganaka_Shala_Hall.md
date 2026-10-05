@@ -5,7 +5,13 @@ type: place
 subType: structure
 description: "The reckoners' college at Chandrapur—an open hall, a courtyard of instruments and a roof of sightlines, where the tides, the eclipses and the civil year are computed."
 tags: [craft]
-data: {demonym: null, lore: [], parents: [chandrapur2], population: null, packFolder: vedyara}
+data:
+  demonym: null
+  lore: []
+  parents: [chandrapur2]
+  population: null
+  packFolder: vedyara
+  government: chandrapur
 ---
 
 The **Ganaka-shala** stands on the high ground behind the ninth quarter of [[place-chandrapur2|Chandrapur]], far enough from the river that the delta haze does not spoil a sighting. It is three things joined: an open hall with a slate floor, a walled courtyard of graduated arcs and gnomons, and a flat roof laid out with sightlines cut into the parapet.

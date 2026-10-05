@@ -11,6 +11,7 @@ data:
   parents: [khzryndsrtrgn]
   population: null
   packFolder: khazryndesert
+  government: tribestrzd
 ---
 
 ## Overview

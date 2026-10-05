@@ -6,7 +6,13 @@ subType: region
 description: >-
   The lands the Kingdom of Aldorath holds—the fertile lowlands and gentle hills surrounding Aelwyth's great central lake, together with the southern forests where the Sinalë keep their enclaves.
 tags: [draft]
-data: {demonym: null, lore: [], parents: [aelwyth], population: null, packFolder: aelwyth}
+data:
+  demonym: null
+  lore: []
+  parents: [aelwyth]
+  population: null
+  packFolder: aelwyth
+  government: kngdmldrth
 ---
 
 > **Draft.** This note exists so that the

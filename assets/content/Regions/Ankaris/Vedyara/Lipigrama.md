@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "The copying village of Rājapur, whose four scriptoria work on an endowment six hundred years old."
 tags: [village, river, inland]
-data: {demonym: null, lore: [], parents: [rajapurjnpd], population: 720, packFolder: vedyara}
+data:
+  demonym: null
+  lore: []
+  parents: [rajapurjnpd]
+  population: 720
+  packFolder: vedyara
+  government: rajaprjnpd
 ---
 
 Lipigrāma (720) copies. Four scriptoria work here besides the temple's own at Rājapur, and about a hundred and thirty men and women of the village earn their bread with a stylus.

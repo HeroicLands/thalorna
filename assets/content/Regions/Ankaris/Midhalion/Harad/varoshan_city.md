@@ -11,6 +11,7 @@ data:
   parents: [haradregin]
   population: 220000
   packFolder: harad
+  government: varoshan
 ---
 
 ## Overview

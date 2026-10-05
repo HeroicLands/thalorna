@@ -11,6 +11,7 @@ data:
   parents: [helionis]
   population: null
   packFolder: helionis
+  government: kostaros2
 ---
 
 ## Overview

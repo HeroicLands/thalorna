@@ -11,6 +11,7 @@ data:
   parents: [vedyarargn]
   population: 8000000
   packFolder: vedyara
+  government: vindhyalay
 ---
 
 ## Overview

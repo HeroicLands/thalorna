@@ -12,6 +12,7 @@ data:
   parents: [heladrgn]
   population: 8000000
   packFolder: byzaria
+  government: byzarianlg
 
 # terran_analog: Classical Anatolia (philosophical city-states and crossroads)
 ---

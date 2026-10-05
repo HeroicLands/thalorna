@@ -11,6 +11,7 @@ data:
   parents: [haradregin]
   population: 400000
   packFolder: harad
+  government: tamavar
 ---
 
 ## Overview

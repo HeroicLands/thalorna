@@ -12,6 +12,7 @@ data:
   parents: [dunharargn]
   population: 2000000
   packFolder: amradad
+  government: sultntmrdd
 ---
 
 ## Overview

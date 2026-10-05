@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "The bridge village on the pilgrim road below the gold mountain, and one of the twenty-three houses of the Bhārava-Devasthāna."
 tags: [village, river, pilgrimage]
-data: {demonym: null, lore: [], parents: [suvarnagirijnpd], population: 720, packFolder: vedyara}
+data:
+  demonym: null
+  lore: []
+  parents: [suvarnagirijnpd]
+  population: 720
+  packFolder: vedyara
+  government: suvrgrjnpd
 ---
 
 Kanakasetu (720) stands at the bridge where the pilgrim road crosses the Bhārava below the mountain. Everything that goes up to Suvarnagiri comes through it. The bridge is stone, of four spans, and is kept by the janapada out of the common share.

@@ -11,6 +11,7 @@ data:
   parents: [sthrnkchchk]
   population: null
   packFolder: baalamtzaku
+  government: balamtzaku
 
 # terran_analog: Equador, Peru, western Brazil
 ---

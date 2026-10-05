@@ -5,7 +5,7 @@ type: place
 subType: settlement
 description: "City-State"
 tags: [city-state, city, draft]
-data: {demonym: null, lore: [], parents: [helionis], population: 40000}
+data: {demonym: null, lore: [], parents: [helionis], population: 40000, government: korinthea}
 ---
 
 ## Overview

@@ -12,6 +12,7 @@ data:
   parents: [aukhelathrgq]
   population: 700000
   packFolder: regkhregn
+  government: selatkhelzrt
 ---
 
 ## Overview

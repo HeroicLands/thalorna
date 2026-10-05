@@ -11,6 +11,7 @@ data:
   parents: [vedyarargn]
   population: 6000000
   packFolder: vedyara
+  government: chandrapur
 ---
 
 ## Overview

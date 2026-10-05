@@ -17,6 +17,7 @@ data:
   routes: [{to: chandrmukha, bearing: NE, mode: ship, days: 30}]
   population: 19000000
   packFolder: regkhregn
+  government: empireakhlth
 ---
 
 ## Overview

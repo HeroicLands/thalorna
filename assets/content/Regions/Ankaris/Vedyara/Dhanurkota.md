@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "The bow-fort town on the upper Sarvada, temple-seat of the Dhanurkota Janapada and home of its four archery academies."
 tags: [town, river, fortified, market]
-data: {demonym: null, lore: [], parents: [dhanurkotajnpd], population: 2000, packFolder: vedyara}
+data:
+  demonym: null
+  lore: []
+  parents: [dhanurkotajnpd]
+  population: 2000
+  packFolder: vedyara
+  government: dhnrktjnpd
 ---
 
 Dhanurkota (2,000) is the capital of the [[affiliation-dhnrktjnpd|Dhanurkota Janapada]] and the bow-fort the janapada is named for. It stands on a low hill where the Sarvada bends west round an outcrop of red rock, at the point the river comes out of the northern hills into the plain.

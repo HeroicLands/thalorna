@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "The temple-seat of the Suvarnagiri Janapada, in three parts on the streams of the gold mountain, holding the weighing-station and the jewelers' quarter."
 tags: [town, mountain, sacred, market]
-data: {demonym: null, lore: [], parents: [suvarnagirijnpd], population: 2400, packFolder: vedyara}
+data:
+  demonym: null
+  lore: []
+  parents: [suvarnagirijnpd]
+  population: 2400
+  packFolder: vedyara
+  government: suvrgrjnpd
 ---
 
 Suvarnagiri (2,400) is the capital of the [[affiliation-suvrgrjnpd|Suvarnagiri Janapada]] and stands in three parts on the lower slopes of the gold mountain. Upper Suvarnagiri is at the junction of the two highest streams, Middle Suvarnagiri in the central valley below the panning grounds, and Lower Suvarnagiri at the foot of the mountain where the Bhārava proper begins. Four miles of steep road join the highest part to the lowest. A Suvarnagiri who says the name means all three.

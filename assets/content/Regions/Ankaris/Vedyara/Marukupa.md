@@ -13,6 +13,7 @@ data:
   market: 3
   routes: [{to: ashvapada, bearing: E, mode: land, days: 3, terrain: [road, hills, desert]}]
   packFolder: vedyara
+  government: bhumipala
 ---
 
 **Marukūpa** (900, market 3) is the last Vedyari water on [[place-marchroad|the march road]]. The name means the desert well, and there are four of them, sunk in a rock shelf where the foothills give out. West of here a caravan is on the sand for two days before it reaches a Dunhari well, and the arithmetic of that gap governs the whole of the traffic.

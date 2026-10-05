@@ -12,6 +12,7 @@ data:
   parents: [ankrscntnnt]
   population: 500000
   packFolder: jurthat
+  government: jurthatempr
 
 # terran_analog: Japanese archipelago (mountainous volcanic islands)
 ---

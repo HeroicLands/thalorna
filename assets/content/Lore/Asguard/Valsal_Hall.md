@@ -5,7 +5,13 @@ type: place
 subType: structure
 description: "Ódvar's hall at the center of Valsal, where the Valdrengir are seated by worth and feasted every night."
 tags: [asguardian]
-data: {demonym: null, lore: [], parents: [valsal], population: null, packFolder: settinglore}
+data:
+  demonym: null
+  lore: []
+  parents: [valsal]
+  population: null
+  packFolder: settinglore
+  government: odvar
 ---
 
 Ódvar's hall, standing at the middle of Ódvar's country [[place-valsal|Valsal]]. The skalds build it out of war gear because that is what a hall of the slain is made from: rafters of spears, a roof of shields, benches the length of the room, and a fire nobody tends and nobody has seen go out. The doors are the detail the sagas are proudest of. There are many of them, each wide enough to pass a company abreast, and they are counted in every telling because the host must get out of the building in one morning.

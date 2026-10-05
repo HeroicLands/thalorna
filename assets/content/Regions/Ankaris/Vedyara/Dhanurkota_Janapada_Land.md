@@ -11,6 +11,7 @@ data:
   parents: [vedyarargn]
   population: 30000
   packFolder: vedyara
+  government: dhnrktjnpd
 
 # terran_analog: "Medieval South Indian temple-republic with a martial-caste specialty—Chola-era brahmadeya village federation centered on a fortified temple complex, distinguished by hereditary archery training traditions"
 ---

@@ -11,6 +11,7 @@ data:
   parents: [nrdlndsrgn]
   population: 300000
   packFolder: vithgard
+  government: kngdmvthgrd
 ---
 
 ## Overview

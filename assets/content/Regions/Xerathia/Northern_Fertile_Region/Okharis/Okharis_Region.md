@@ -12,6 +12,7 @@ data:
   parents: [nrthrnfrtlrgn, xerathia]
   population: 4000000
   packFolder: okharis
+  government: okharis
 ---
 
 ## Overview

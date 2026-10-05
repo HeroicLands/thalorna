@@ -5,7 +5,7 @@ type: place
 subType: settlement
 description: "Naval City"
 tags: [city, naval]
-data: {demonym: null, lore: [], parents: [haradregin], population: 180000}
+data: {demonym: null, lore: [], parents: [haradregin], population: 180000, government: kethara}
 ---
 
 ## Overview

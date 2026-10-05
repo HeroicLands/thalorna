@@ -11,6 +11,7 @@ data:
   parents: [nrthrnkchchk]
   population: null
   packFolder: tzumanotun
+  government: tzumanotun
 
 # terran_analog: Appalachian Region and eastward through the Southeast, south into Florida and Louisiana
 ---

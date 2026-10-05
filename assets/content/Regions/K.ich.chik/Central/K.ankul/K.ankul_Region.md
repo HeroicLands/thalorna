@@ -11,6 +11,7 @@ data:
   parents: [cntrlkchchk]
   population: null
   packFolder: kankul
+  government: kankul
 
 # terran_analog: Yucatan Mexico and southern mexico through Honduras
 ---

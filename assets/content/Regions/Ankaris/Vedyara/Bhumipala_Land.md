@@ -11,6 +11,7 @@ data:
   parents: [vedyarargn]
   population: 2000000
   packFolder: vedyara
+  government: bhumipala
 ---
 
 ## Overview

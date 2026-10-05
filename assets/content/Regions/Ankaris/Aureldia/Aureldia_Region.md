@@ -13,6 +13,7 @@ data:
   borders: [{to: nrdlndsrgn, bearing: N}, {to: vrystwald, bearing: N}]
   population: 11000000
   packFolder: aureldia
+  government: calypsa
 
 # terran_analog: Medieval Western Europe (Western Christendom)
 ---

@@ -18,6 +18,7 @@ data:
     - {to: nilatira, bearing: SW, mode: ship, days: 45, terrain: [open-sea]}
   population: null
   packFolder: tanvur
+  government: tanvurempr
 
 # terran_analog: "China, Korea, and mainland Southeast Asia (Vietnam, Laos, Thailand, Cambodia, Myanmar)—the great eastern imperial sphere of celestial bureaucracy, mountain-fringed river civilizations, and tributary kingdoms."
 ---

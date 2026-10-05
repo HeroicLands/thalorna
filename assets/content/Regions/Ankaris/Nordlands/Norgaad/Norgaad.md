@@ -11,6 +11,7 @@ data:
   parents: [nrdlndsrgn]
   population: 400000
   packFolder: norgaad
+  government: kingdmnrgd
 ---
 
 ## Overview

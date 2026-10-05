@@ -11,6 +11,7 @@ data:
   parents: [vedyarargn]
   population: 1200000
   packFolder: vedyara
+  government: gomarga
 
 # terran_analog: "Semi-arid interior plateau of peninsular India—basalt tableland in the rain-shadow of the coastal ranges, held by transhumant cattle-herding lineages whose wealth is stock and water rights rather than cultivated land"
 ---

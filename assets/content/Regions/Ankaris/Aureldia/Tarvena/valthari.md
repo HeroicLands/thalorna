@@ -5,7 +5,7 @@ type: place
 subType: settlement
 description: "Free City"
 tags: [city, free]
-data: {demonym: null, lore: [], parents: [tarvenirgn], population: 45000}
+data: {demonym: null, lore: [], parents: [tarvenirgn], population: 45000, government: frctyvlthr}
 ---
 
 ## Overview

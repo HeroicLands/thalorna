@@ -11,6 +11,7 @@ data:
   parents: [tarvenirgn]
   population: 1000000
   packFolder: tarvenia
+  government: kngdmglvrn
 ---
 
 ## Overview

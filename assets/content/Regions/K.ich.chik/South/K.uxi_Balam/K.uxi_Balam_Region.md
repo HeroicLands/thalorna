@@ -11,6 +11,7 @@ data:
   parents: [sthrnkchchk]
   population: null
   packFolder: kuxibalam
+  government: kuxibalam
 
 # terran_analog: Bolivia, Southern Central Brazil
 ---

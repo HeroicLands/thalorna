@@ -5,7 +5,7 @@ type: place
 subType: settlement
 description: "City-State"
 tags: [city-state, city, draft]
-data: {demonym: null, lore: [], parents: [helionis], population: 50000}
+data: {demonym: null, lore: [], parents: [helionis], population: 50000, government: theradon}
 ---
 
 ## Overview
