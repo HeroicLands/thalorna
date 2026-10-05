@@ -68,5 +68,10 @@ in the Nordmal language note. A deliberate name outside those rules has
 `newPath` whose full name matches `newName`; the clan name remains checked.
 Nordmal aliases and the language note's examples retain their normal spelling.
 
+A `place/world` name uses the published compound elements: `thurs-` and
+`-guard` form Thursguard, an enclosed world of giants. Both world note names
+and world concordance rows use that class. Earthly settlement names use the
+place generics and their permitted first elements.
+
 Run `node --test utils/lexicons/*.test.mjs` when changing this guard, and
 `npm run lint:nordmal-concordance` when changing the table.

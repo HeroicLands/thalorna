@@ -794,7 +794,10 @@ export function corpus(rule, table = null) {
         }
 
         if (front.type === "place" && relative.startsWith(NORDLANDS)) {
-            const kind = front.subType === "region" ? "realm" : "place";
+            const kind =
+                front.subType === "world" ? "compound"
+                : front.subType === "region" ? "realm"
+                : "place";
             add(front.name?.full, kind, file, raw, true);
             for (const alias of front.name?.aliases ?? []) add(alias, kind, file, raw, true);
         }
@@ -964,7 +967,9 @@ export function checkConcordance(table, rule, tally) {
                 kind:
                     entry.kinds ??
                     (entry.type === "place" ?
-                        "place"
+                        entry.subType === "world" ?
+                            "compound"
+                        :   "place"
                     :   (CONCORDANCE_KIND.get(entry.subType) ?? "compound")),
                 why: "the concordance settles it as new",
             })),
