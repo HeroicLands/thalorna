@@ -12,7 +12,6 @@ data:
   parents: [dunharargn]
   population: 1000000
   packFolder: dunharadesert
-  government: dunhartrbs
 ---
 
 ## Overview

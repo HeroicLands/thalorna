@@ -18,7 +18,6 @@ data:
     - {to: sandhysmdr, bearing: W}
   population: 110000000
   packFolder: vedyara
-  government: janpdsvdyr
 
 # terran_analog: Indian subcontinent
 ---

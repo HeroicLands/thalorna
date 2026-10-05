@@ -11,7 +11,6 @@ data:
   parents: [xerathia]
   population: 2000000
   packFolder: southernsavannahs
-  government: nylbtrblntn
 
 # terran_analog: Southern Africa—Namibia + Botswana + Zimbabwe + South Africa
 ---
