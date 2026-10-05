@@ -10,7 +10,15 @@ data:
   demonym: ""
   epithet: null
   symbol: null
-  governance: {model: "", summary: "", ranks: [], offices: {}}
+  governance:
+    model: ""
+    summary: ""
+    ranks:
+      - level: 1
+        title: "Member"
+        description: >-
+          Practices the guild's craft of making figures and mechanisms, including the funerary figures made for burial.
+    offices: {}
   seat: null
   domains: []
   population: 0

@@ -10,7 +10,15 @@ data:
   demonym: ""
   epithet: null
   symbol: null
-  governance: {model: "", summary: "", ranks: [], offices: {}}
+  governance:
+    model: ""
+    summary: ""
+    ranks:
+      - level: 1
+        title: "Priest"
+        description: >-
+          Serves in the sworn priesthood of Reth'Sa'âr, keeping his archives and the disciplines of the written hand.
+    offices: {}
   seat: null
   domains: []
   population: 0

@@ -5,7 +5,14 @@ type: affiliation
 subType: criminal
 description: "A secretive body of thief-philosophers who hold every lock to be a puzzle rather than a barrier, and who treat the empire's finest locksmith as a standing challenge"
 tags: [generated]
-data: {packFolder: regkhaff}
+data:
+  packFolder: regkhaff
+  governance:
+    ranks:
+      - level: 1
+        title: "Member"
+        description: >-
+          Belongs to the sworn society of thief-philosophers who study locks and hold one another to their terms.
 ---
 
 A secretive body of thief-philosophers who hold every lock to be a puzzle rather than a barrier, and who treat the empire's finest locksmith as a standing challenge.

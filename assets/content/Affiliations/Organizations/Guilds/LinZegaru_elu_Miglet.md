@@ -10,7 +10,15 @@ data:
   demonym: ""
   epithet: null
   symbol: null
-  governance: {model: "", summary: "", ranks: [], offices: {}}
+  governance:
+    model: ""
+    summary: ""
+    ranks:
+      - level: 1
+        title: "Member"
+        description: >-
+          Belongs to a farming household participating in the cooperative's pooled grain shipments and direct bargaining with buyers.
+    offices: {}
   seat: null
   domains: []
   population: 0

@@ -5,7 +5,14 @@ type: affiliation
 subType: criminal
 description: "A band holding the desert around certain sealed temples, and killing those who come looking for what the wards protect"
 tags: [generated]
-data: {packFolder: regkhaff}
+data:
+  packFolder: regkhaff
+  governance:
+    ranks:
+      - level: 1
+        title: "Member"
+        description: >-
+          Belongs to the band guarding the desert ground around sealed temples against those seeking what the wards protect.
 ---
 
 A band holding the desert around certain sealed temples, and killing those who come looking for what the wards protect.

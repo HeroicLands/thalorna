@@ -14,7 +14,11 @@ data:
     model: meritocracy
     summary: >-
       A militant order of the Faith of Jánus, god of order and justice.
-    ranks: []
+    ranks:
+      - level: 1
+        title: Order Member
+        description: >-
+          A member of the militant order of the Faith of Jánus, serving its principles of order and justice.
     offices: {}
   seat: null
   domains: []

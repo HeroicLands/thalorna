@@ -10,7 +10,15 @@ data:
   demonym: ""
   epithet: null
   symbol: null
-  governance: {model: "", summary: "", ranks: [], offices: {}}
+  governance:
+    model: ""
+    summary: ""
+    ranks:
+      - level: 1
+        title: "Member"
+        description: >-
+          Participates as a priest in the faction opposing political entanglement within Qe'âret's temple.
+    offices: {}
   seat: null
   domains: []
   population: 0

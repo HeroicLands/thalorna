@@ -10,7 +10,15 @@ data:
   demonym: ""
   epithet: null
   symbol: null
-  governance: {model: "", summary: "", ranks: [], offices: {}}
+  governance:
+    model: ""
+    summary: ""
+    ranks:
+      - level: 1
+        title: "Member"
+        description: >-
+          Works as a scout or wilderness-hand in the fellowship taking discreet tracking, guiding and path-clearing work.
+    offices: {}
   seat: null
   domains: []
   population: 0

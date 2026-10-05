@@ -10,7 +10,15 @@ data:
   demonym: ""
   epithet: null
   symbol: null
-  governance: {model: "", summary: "", ranks: [], offices: {}}
+  governance:
+    model: ""
+    summary: ""
+    ranks:
+      - level: 1
+        title: "Member"
+        description: >-
+          Participates as a priest in the movement defending the old forms of worship against novelty and local variation.
+    offices: {}
   seat: null
   domains: []
   population: 0

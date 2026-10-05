@@ -14,7 +14,11 @@ data:
     model: council
     summary: >-
       A people of Aelwyth against whom the Kingdom of Dúnavarre prosecuted a crusade of extermination.
-    ranks: []
+    ranks:
+      - level: 1
+        title: Saelvri
+        description: >-
+          One of the Saelvri people of Aelwyth, against whom Dúnavarre prosecuted a crusade of extermination.
     offices: {}
   seat: aelwyth
   domains: []

@@ -10,7 +10,15 @@ data:
   demonym: ""
   epithet: null
   symbol: null
-  governance: {model: "", summary: "", ranks: [], offices: {}}
+  governance:
+    model: ""
+    summary: ""
+    ranks:
+      - level: 1
+        title: "Assessor"
+        description: >-
+          Serves in the imperial exaction service, weighing and taxing goods at sale or transit.
+    offices: {}
   seat: null
   domains: []
   population: 0

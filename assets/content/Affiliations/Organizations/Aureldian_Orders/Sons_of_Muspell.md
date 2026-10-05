@@ -14,7 +14,11 @@ data:
     model: autocracy
     summary: >-
       Military bands of the Black Flame under their Blazewardens; Malekir leads the campaign against the Varokh.
-    ranks: []
+    ranks:
+      - level: 1
+        title: Order Warrior
+        description: >-
+          A warrior of the Sons of Muspell, fighting in a military band of the Black Flame under its Blazewarden.
     offices: {Blazewarden: Commander of an order warband and its campaign.}
   seat: null
   domains: []

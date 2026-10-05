@@ -10,7 +10,15 @@ data:
   demonym: ""
   epithet: null
   symbol: null
-  governance: {model: "", summary: "", ranks: [], offices: {}}
+  governance:
+    model: ""
+    summary: ""
+    ranks:
+      - level: 1
+        title: "Member"
+        description: >-
+          Practices as an advocate within Galezkara's chartered guild, arguing cases before the imperial courts.
+    offices: {}
   seat: null
   domains: []
   population: 0

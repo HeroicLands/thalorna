@@ -5,7 +5,14 @@ type: affiliation
 subType: criminal
 description: "Those who take protected beasts out of the hunting grounds, and who have arrangements with enough officials to keep doing it"
 tags: [generated]
-data: {packFolder: regkhaff}
+data:
+  packFolder: regkhaff
+  governance:
+    ranks:
+      - level: 1
+        title: "Member"
+        description: >-
+          Takes part in the recorded arrangements for taking protected beasts from the hunting grounds.
 ---
 
 Those who take protected beasts out of the hunting grounds, and who have arrangements with enough officials to keep doing it.

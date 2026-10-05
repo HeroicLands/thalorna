@@ -10,7 +10,15 @@ data:
   demonym: ""
   epithet: null
   symbol: null
-  governance: {model: "", summary: "", ranks: [], offices: {}}
+  governance:
+    model: ""
+    summary: ""
+    ranks:
+      - level: 1
+        title: "Member"
+        description: >-
+          Practices as a guild-certified scribe, producing documents in the hands accepted by the imperial administration.
+    offices: {}
   seat: null
   domains: []
   population: 0

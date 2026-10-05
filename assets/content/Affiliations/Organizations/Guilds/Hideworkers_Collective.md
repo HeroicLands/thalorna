@@ -14,7 +14,11 @@ data:
     model: oligarchy
     summary: >-
       A collective of hideworkers—the tanners, curriers and leatherdressers of a trade kept at arm's length from the cities it supplies.
-    ranks: []
+    ranks:
+      - level: 1
+        title: Hideworker
+        description: >-
+          A tanner, currier or leatherdresser belonging to the Hideworkers' Collective.
     offices: {}
   seat: null
   domains: []

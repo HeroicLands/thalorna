@@ -10,7 +10,15 @@ data:
   demonym: ""
   epithet: null
   symbol: null
-  governance: {model: "", summary: "", ranks: [], offices: {}}
+  governance:
+    model: ""
+    summary: ""
+    ranks:
+      - level: 1
+        title: "Member"
+        description: >-
+          Belongs to the imperial household and council through which appointment and favor pass at the Gar-Aû's court.
+    offices: {}
   seat: null
   domains: []
   population: 0

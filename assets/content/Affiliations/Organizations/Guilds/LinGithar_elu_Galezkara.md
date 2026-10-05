@@ -10,7 +10,15 @@ data:
   demonym: ""
   epithet: null
   symbol: null
-  governance: {model: "", summary: "", ranks: [], offices: {}}
+  governance:
+    model: ""
+    summary: ""
+    ranks:
+      - level: 1
+        title: "Member"
+        description: >-
+          Participates as a weaver or dyer in the cooperative pooling textiles for markets beyond Galezkara.
+    offices: {}
   seat: null
   domains: []
   population: 0

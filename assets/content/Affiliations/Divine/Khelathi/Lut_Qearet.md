@@ -10,7 +10,15 @@ data:
   demonym: ""
   epithet: null
   symbol: null
-  governance: {model: "", summary: "", ranks: [], offices: {}}
+  governance:
+    model: ""
+    summary: ""
+    ranks:
+      - level: 1
+        title: "Priest"
+        description: >-
+          Serves in Qe'âret's temple priesthood, reading law as sacred text and giving judgements recognized by the imperial courts.
+    offices: {}
   seat: null
   domains: []
   population: 0

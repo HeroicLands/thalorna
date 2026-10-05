@@ -10,7 +10,15 @@ data:
   demonym: ""
   epithet: null
   symbol: null
-  governance: {model: "", summary: "", ranks: [], offices: {}}
+  governance:
+    model: ""
+    summary: ""
+    ranks:
+      - level: 1
+        title: "Halzi'a"
+        description: >-
+          Participates as a provincial governor in the assembled council, representing a selat's interests.
+    offices: {}
   seat: null
   domains: []
   population: 0

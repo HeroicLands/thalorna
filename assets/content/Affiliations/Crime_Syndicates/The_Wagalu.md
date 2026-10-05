@@ -5,7 +5,14 @@ type: affiliation
 subType: criminal
 description: "A bandit gang that has plagued the southern trade routes for years, holding a blood-grudge against the caravan scouts who have foiled them"
 tags: [generated]
-data: {packFolder: regkhaff}
+data:
+  packFolder: regkhaff
+  governance:
+    ranks:
+      - level: 1
+        title: "Member"
+        description: >-
+          Belongs to the kin-band that raids the southern trade routes and holds a grudge against the caravan scouts.
 ---
 
 A bandit gang that has plagued the southern trade routes for years, holding a blood-grudge against the caravan scouts who have foiled them.

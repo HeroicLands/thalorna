@@ -10,7 +10,15 @@ data:
   demonym: ""
   epithet: null
   symbol: null
-  governance: {model: "", summary: "", ranks: [], offices: {}}
+  governance:
+    model: ""
+    summary: ""
+    ranks:
+      - level: 1
+        title: "Member"
+        description: >-
+          Works as a hunter within the guild licensing the taking of game and the handling of dangerous beasts.
+    offices: {}
   seat: null
   domains: []
   population: 0
