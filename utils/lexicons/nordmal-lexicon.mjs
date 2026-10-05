@@ -694,6 +694,9 @@ export function judge(name, kind, rule) {
         ];
     }
 
+    // Whole vocabulary is published directly rather than built from elements.
+    if (rule.kept.has(lower)) return [];
+
     // A god, an order or anything else the corpus names is a compound.
     if (decompose(lower, rule, rule.compoundEnds)) return shape(name, rule, "compound");
     return ["it is not a compound of published elements", ...shape(name, rule, "compound")];

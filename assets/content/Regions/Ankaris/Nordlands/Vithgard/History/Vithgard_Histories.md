@@ -44,7 +44,7 @@ establish a public path into the fell or prove that every missing child can be c
 
 ## The Ride over Hringstead
 
-At neutral **Hringstead**, on the Nordheim–Vithgard border, people tell of a high ride on Jól's ninth
+At neutral **Hringstead**, on the Nordheim–Vithgard border, people tell of a high ride on [[lore-jol|Jól]]'s ninth
 night. The tale says it once descended after a killing under the Truce and carried off the killer.
 The Truce's living keepers need no supernatural verdict to forbid a murder there. Whether the ride
 passed overhead, or answered that particular breach, remains a matter of belief.

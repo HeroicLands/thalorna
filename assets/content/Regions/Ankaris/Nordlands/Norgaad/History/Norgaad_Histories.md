@@ -39,7 +39,7 @@ without proving it.
 
 Fishers tell of an island that rises without birds, takes a boat down with it and leaves torn nets
 when it dives. Some call it a _hafthur_ and connect it to [[affiliation-njorvencult|Njörven's cult]].
-At **Sumarmál**, another [[place-hvarnvik|Hvarnvík]] telling has one thumb tucked under when the Ten are counted. It recalls
+At [[lore-sumarmal|Sumarmál]], another [[place-hvarnvik|Hvarnvík]] telling has one thumb tucked under when the Ten are counted. It recalls
 an older sea power whom the coast did not wholly forget. Neither tale adds an eleventh Asguardian to
 the Ten. The cult's claim that its old patron will rise is a threat and a belief, not a settled event.
 

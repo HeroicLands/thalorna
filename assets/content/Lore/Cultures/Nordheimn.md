@@ -63,11 +63,11 @@ Wandering völvur offer seidr, dream-reading and contact with spirits outside a 
 
 ## The Year at the Hall
 
-**Jól**, the twelve nights of midwinter, keeps light and fellowship against the dark. Halls open their feasts, the dead are invited to the table, and skalds sing the cycle of hero-sagas. Hearth blessings and marriage rites share the season with vigil and memory.
+[[lore-jol|Jól]], the twelve nights of midwinter, keeps light and fellowship against the dark. Halls open their feasts, the dead are invited to the table, and skalds sing the cycle of hero-sagas. Hearth blessings and marriage rites share the season with vigil and memory.
 
-**Sumarmál** marks return: ships to the water, warriors from winter quarters and cattle to pasture. Offerings seek a good growing and sailing year. It is also the season of great tings, when disputes are heard and public oaths taken.
+[[lore-sumarmal|Sumarmál]] marks return: ships to the water, warriors from winter quarters and cattle to pasture. Offerings seek a good growing and sailing year. It is also the season of great tings, when disputes are heard and public oaths taken.
 
-**Midsumar**, at the summer solstice, celebrates light and community. Coastal bonfires and shared feasts honor [[affiliation-bjartr|Bjartr]]; leaping low flames seeks luck. **Vetrnaetr**, the Winter Nights, prepares the household for scarcity. Livestock that cannot be kept are slaughtered, meat is preserved, and the dead are honored. [[affiliation-solrun|Sólrún]] receives a great portion, while [[affiliation-odvar|Ódvar]] is invoked for the long dark ahead.
+[[lore-midsumar|Midsumar]], at the summer solstice, celebrates light and community. Coastal bonfires and shared feasts honor [[affiliation-bjartr|Bjartr]]; leaping low flames seeks luck. [[lore-vetrnaetr|Vetrnaetr]], the Winter Nights, prepares the household for scarcity. Livestock that cannot be kept are slaughtered, meat is preserved, and the dead are honored. [[affiliation-solrun|Sólrún]] receives a great portion, while [[affiliation-odvar|Ódvar]] is invoked for the long dark ahead.
 
 ## Praise, Restitution and Outlawry
 
@@ -89,9 +89,9 @@ The five kingdoms hold their own assemblies. Every seventh year their kings and 
 
 ## Rites under the Ting's Peace
 
-At Sumarmál a frontier bóndi walks the boundary stones with the neighboring householder and a witness for the landvördr. They read each mark aloud and strike its stone so that both households can later say where the boundary lay. A stone found moved becomes a ting matter: the mover, or the mover's kin after death, must answer the claim. Tales say a person whose kin refuse that duty may return carrying the stone, still asking where to set it. The story makes a disputed boundary harder to forget; a ghost's word does not settle title before the ting.
+At [[lore-sumarmal|Sumarmál]] a frontier bóndi walks the boundary stones with the neighboring householder and a witness for the landvördr. They read each mark aloud and strike its stone so that both households can later say where the boundary lay. A stone found moved becomes a ting matter: the mover, or the mover's kin after death, must answer the claim. Tales say a person whose kin refuse that duty may return carrying the stone, still asking where to set it. The story makes a disputed boundary harder to forget; a ghost's word does not settle title before the ting.
 
-The howe-wake seeks a different kind of answer. At Vetrnaetr or on the ninth night of Jól, a seeker may sit awake on a burial mound or at a crossroads to hear the dead. A völva's leave is customary and seldom given, for the dead may demand a truthful answer to a question of their own. A private revelation cannot be entered as a skald's witnessed record; someone who acts on it must find living evidence. When the wake is worked against a named person, the ting may judge the act a grave wrong and withdraw its peace. Contact with the dead gives the seeker no authority to pronounce that sentence.
+The howe-wake seeks a different kind of answer. At [[lore-vetrnaetr|Vetrnaetr]] or on the ninth night of [[lore-jol|Jól]], a seeker may sit awake on a burial mound or at a crossroads to hear the dead. A völva's leave is customary and seldom given, for the dead may demand a truthful answer to a question of their own. A private revelation cannot be entered as a skald's witnessed record; someone who acts on it must find living evidence. When the wake is worked against a named person, the ting may judge the act a grave wrong and withdraw its peace. Contact with the dead gives the seeker no authority to pronounce that sentence.
 
 ## Bonds and Claims at the Hall
 
@@ -99,7 +99,7 @@ Before a raiding season, sworn fighters may become oath-friends by passing benea
 
 Settlers making a land-taking carry posts from their former hall, set them where the draft animals stop, and walk the claimed bounds with fire before the next sunset. A woman may lead a heifer around land she means to hold. The walk gives witnesses a boundary to remember; it does not silence another household's earlier claim. On the Vrystwald frontier, walking fire around a grove claimed by a Varokhi clan brings two accounts of rightful land before people who may not recognize the same witnesses.
 
-At Vetrnaetr the hall's búvördr seats its honored old by the door and serves them first. Tellers connect the door-seat to the Three Winters and the kin-fell: a place near the way out became a place of honor when people swore they would feed the old. Accounts differ over the alleged oath, while the present custom is plain to every guest. A hall unable to provision its elders must seek help from other kin and halls; the obligation may enter hall credit and diminish a house that leaves it unpaid.
+At [[lore-vetrnaetr|Vetrnaetr]] the hall's búvördr seats its honored old by the door and serves them first. Tellers connect the door-seat to the Three Winters and the kin-fell: a place near the way out became a place of honor when people swore they would feed the old. Accounts differ over the alleged oath, while the present custom is plain to every guest. A hall unable to provision its elders must seek help from other kin and halls; the obligation may enter hall credit and diminish a house that leaves it unpaid.
 
 ## The Reckoning after Death
 
