@@ -90,6 +90,40 @@
             "kinds": []
         },
         {
+            "literal": "Devotee",
+            "why": "the Azuathis rank and the generic vow-bound standing are not the retired Nordheimn devotional-order rank Dróttmadr",
+            "paths": [
+                "assets/content/Affiliations/Divine/Khelathi/Faith_of_Azuathis.md",
+                "assets/content/Lore/Ranks/Vow_Bound_Devotee.md"
+            ],
+            "kinds": []
+        },
+        {
+            "literal": "Wild Hunt",
+            "why": "this is the translated alias of a Varokhi hunting company, not the retired name of the Asguardian Jól-Ride",
+            "paths": ["assets/content/Affiliations/Social/Companies/Wuldjagar_erund_Garskald.md"],
+            "kinds": []
+        },
+        {
+            "literal": "Sons of Muspell",
+            "why": "the complete name of the Black Flame military order is distinct from the retired Asguardian fire-realm name; bare Muspell remains retired",
+            "kinds": []
+        },
+        {
+            "literal": "Royal Kin",
+            "why": "these are ranks of Dunhari, Vedyaran and Okharis polities, not the retired Nordheimn rank Konungsaett",
+            "paths": [
+                "assets/content/Regions/Ankaris/Dunhara/Amradad/Sultanate_of_Amradad.md",
+                "assets/content/Regions/Ankaris/Vedyara/Bharyastan.md",
+                "assets/content/Regions/Ankaris/Vedyara/Bhumipala.md",
+                "assets/content/Regions/Ankaris/Vedyara/Chandrapur.md",
+                "assets/content/Regions/Ankaris/Vedyara/Gomarga.md",
+                "assets/content/Regions/Ankaris/Vedyara/Vindhyalaya.md",
+                "assets/content/Regions/Xerathia/Northern_Fertile_Region/Okharis/Okharis.md"
+            ],
+            "kinds": []
+        },
+        {
             "literal": "Astrid",
             "why": "several distinct, uncatalogued background figures across the corpus share this old name (patrons and an oracle in Torvald_Greenshield, Skuli_Vetrdomr, Snorri_Jarnskel, Sigfuss_Stormrot, Rakhimea_Khalithon and Athalwa_Vithrund); none is Astrid the Forsaken, and #605 does not extend to them",
             "kinds": []

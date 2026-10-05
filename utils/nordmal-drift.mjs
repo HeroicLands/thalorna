@@ -101,6 +101,7 @@
 
 import fs from "node:fs";
 import path from "node:path";
+import { pathToFileURL } from "node:url";
 import YAML from "yaml";
 
 /** Where the authored tree lives. */
@@ -492,7 +493,8 @@ export function romanisationFrom(text, heading) {
  * own `type` and `subType`, so nothing here is held to a second list of words.
  *
  * @param {object[]} pairs - The drift rows.
- * @param {object[]} keep - The keep-list.
+ * @param {object[]} keep - The keep-list. A `paths` list protects a distinct
+ *   use of the same spelling only in those files.
  * @param {Array<{file: string, raw: string}>} files - The files to read.
  * @param {Set<string>} scoped - The paths that are Nordmal or Varokhi material.
  * @param {object} tally - Where counts are collected.
@@ -521,6 +523,7 @@ export function checkDrift(pairs, keep, files, scoped, tally) {
         const overlaps = (from, to) => taken.some(([a, b]) => from < b && to > a);
 
         for (const entry of keepPatterns) {
+            if (entry.paths && !entry.paths.includes(file)) continue;
             entry.rx.lastIndex = 0;
             let match;
             while ((match = entry.rx.exec(text)) !== null) {
@@ -901,4 +904,6 @@ function main() {
     return 1;
 }
 
-process.exit(main());
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
+    process.exitCode = main();
+}
