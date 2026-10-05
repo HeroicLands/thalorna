@@ -4,7 +4,7 @@ name: {full: Nīlakshetra, aliases: []}
 type: place
 subType: settlement
 description: "Rice terraces on the eastern shoulder of the gold mountain, the largest block of watered ground in the janapada."
-tags: [village, mountain, inland]
+tags: [village, mountain, inland, draft]
 data:
   demonym: null
   lore: []
@@ -13,3 +13,5 @@ data:
   packFolder: vedyara
   government: suvrgrjnpd
 ---
+
+**Nīlakshetra** is a village of rice terraces on the eastern shoulder of the gold mountain, in the [[place-suvarnagirijnpd|Suvarnagiri Janapada]]. It is the largest block of watered ground in the janapada.
