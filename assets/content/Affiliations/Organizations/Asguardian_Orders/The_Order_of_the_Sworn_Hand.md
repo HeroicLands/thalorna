@@ -60,7 +60,7 @@ The Order of the Sworn Hand is the militant arm of Eidgar's faith—a sworn brot
 
 The order's existence is the practical answer to the persistent Nordlands problem of corrupted local justice. A ting convened in the hall of the jarl whose interests are at issue is, in practice, not always able to rule against that jarl. The kings of the five kingdoms have, over centuries, found it useful to maintain an institution to which contested matters can be referred—and from which their own subjects can demand referral when their faith in the local ting has run out. The order does not displace local justice; it stands behind it, and steps forward when called.
 
-By tradition the order's knights ride alone or in pairs. They wear the broken-handed sigil of Eidgar (the god who sacrificed his right hand to bind Vetrúlfr) and carry, at the saddle, a heavy white wand of office that is the visible mark of their authority to convene a ting in Eidgar's name.
+By tradition the order's knights ride alone or in pairs. They wear the broken-handed sigil of Eidgar (the god who sacrificed his right hand to bind [[lore-vetrulfr|Vetrúlfr]]) and carry, at the saddle, a heavy white wand of office that is the visible mark of their authority to convene a ting in Eidgar's name.
 
 ## Membership and Structure
 
