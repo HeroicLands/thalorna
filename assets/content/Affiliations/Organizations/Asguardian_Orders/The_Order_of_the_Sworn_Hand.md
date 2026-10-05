@@ -16,25 +16,25 @@ data:
       A sworn devotee serves as Hand-Squire until the Council of Hands examines and admits him a Sworn Hand; the Council also tries and puts a Hand from the order for a broken ruling, and elects the Voice of Lögstead from its Elder Hands for life.
     ranks:
       - level: 0
-        title: Put from the Order
+        title: Eidvargr
         lore: putfromordrrnk
         description: >-
-          Cast out at trial before the Council of Hands for softening a ruling, taking a gift from an interested party, or refusing a hard case, closing every chapter's hospitality for good.
+          An outlaw of the oath, his sworn vows void. Cast out at trial before the Council of Hands for softening a ruling, taking a gift from an interested party, or refusing a hard case, closing every chapter's hospitality for good.
       - level: 1
-        title: Hand-Squire
+        title: Eidefnir
         lore: ordrcandidrnk
         description: >-
-          Serves a senior knight for five to ten years before standing examination, doing the order's work while holding none of its authority to judge.
+          One in the making for the oath, serving through the order's candidate trials. Serves a senior knight for five to ten years before standing examination, doing the order's work while holding none of its authority to judge.
       - level: 3
         title: Sworn Hand
         lore: swornhandrnk
         description: >-
           Rides circuit or takes contracts from the order, convening a ting under Eidgar's white wand to render and enforce a binding ruling.
       - level: 4
-        title: Elder Hand
+        title: Eidhöfdingi
         lore: ordrseniorrnk
         description: >-
-          Takes apprentices, may strip a knight of rank on the spot pending trial, and sits among the twelve on the Council of Hands that elects the Voice of Lögstead.
+          A senior among the oath-sworn peers who choose the order's chair. Takes apprentices, may strip a knight of rank on the spot pending trial, and sits among the twelve on the Council of Hands that elects the Voice of Lögstead.
     offices:
       Voice of Lögstead: >-
         The order's chair, elected from the Council of Hands for life; one position, acting as first among equals rather than as a commander.

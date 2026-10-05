@@ -16,20 +16,20 @@ data:
       A candidate is sponsored and examined before the Chapter and sworn in a Guardian outright; the Chapter also puts a Guardian from the order for breaking its vow, and elects the Speaker of the Green from among the Elder Guardians for a five-year term.
     ranks:
       - level: 0
-        title: Put from the Order
+        title: Eidvargr
         lore: putfromordrrnk
         description: >-
-          Cast out by vote of the Chapter, closing every valley station's hospitality and every sibling order's recognition for good.
+          An outlaw of the oath, his sworn vows void. Cast out by vote of the Chapter, closing every valley station's hospitality and every sibling order's recognition for good.
       - level: 1
         title: Sworn Guardian
         lore: swrnguardnrnk
         description: >-
           Holds a station over a valley or a cluster of farmsteads for years at a time, bound to defend it from outside harm without taking up the household's own quarrels.
       - level: 4
-        title: Elder Guardian
+        title: Eidhöfdingi
         lore: ordrseniorrnk
         description: >-
-          Oversees training, may hold a more important valley's station, and sits on the Chapter that elects the Speaker of the Green.
+          A senior among the oath-sworn peers who choose the order's chair. Oversees training, may hold a more important valley's station, and sits on the Chapter that elects the Speaker of the Green.
     offices:
       Speaker of the Green: >-
         The order's chair, elected by the Chapter for a five-year term; one position, acting as administrative coordinator rather than as a commander.

@@ -50,10 +50,10 @@ data:
         description: >-
           Rules a jarldom in his own right, owing the High Jarl the confederation's nominal allegiance and nothing more.
       - level: 7
-        title: High Jarl
+        title: Höfudvald
         lore: highjarlrnk
         description: >-
-          Elected from among the jarls and holding only the authority they continue to lend him; no provision of the jarldoms' law ties the standing to his children.
+          The head who wields the jarls' lent authority. Elected from among the jarls and holding only the authority they continue to lend him; no provision of the jarldoms' law ties the standing to his children.
     offices:
       Jarl: Ruler of a jarldom in his own right, with his own hall, levy and moot.
       Hersvald: Chieftain of a district, leading its men to the muster.

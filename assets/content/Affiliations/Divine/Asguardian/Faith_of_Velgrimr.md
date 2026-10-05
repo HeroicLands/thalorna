@@ -18,10 +18,10 @@ data:
       What this faith confers is admission to the blót and the keeping of a hidden hof's rites, granted and withheld by that hof's godi alike: the organ that sets the ladder's floor as well as its ceiling, with no rank of the land inside it and nothing above the high priest. The titles are this faith's own; the shape is shared by every faith of the Ten that keeps a public blót.
     ranks:
       - level: 0
-        title: Refused the Blót
+        title: Blótlok
         lore: blotrefusedrnk
         description: >-
-          Declined the offering at one of the hidden hofs tucked into Malagna's ports by its own godi, cutting a man from Vélgrímr's clergy and from the secrecy that protects it.
+          The sacrifice is closed to him: the hof declines his offering and grants him no standing. Declined the offering at one of the hidden hofs tucked into Malagna's ports by its own godi, cutting a man from Vélgrímr's clergy and from the secrecy that protects it.
       - level: 1
         title: Blótmadr
         lore: blotmadrrnk

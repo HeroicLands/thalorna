@@ -20,7 +20,8 @@
             "Lore/Cultures/Jol.md",
             "Lore/Cultures/Sumarmal.md",
             "Lore/Cultures/Midsumar.md",
-            "Lore/Cultures/Vetrnaetr.md"
+            "Lore/Cultures/Vetrnaetr.md",
+            "Lore/Asguard/Thursguard.md"
         ],
         "homes": ["nrdlndsrgn", "vrystwald"]
     },
@@ -735,20 +736,25 @@
             "oldAddress": null,
             "oldImage": null,
             "newName": "Heimsask",
-            "newAliases": null,
-            "newPath": null,
-            "newShortcode": null,
-            "newAddress": null,
+            "newAliases": [],
+            "newPath": "assets/content/Regions/Ankaris/Nordlands/Heimsask.md",
+            "newShortcode": "heimsask",
+            "newAddress": "lore-heimsask",
             "newImage": null,
             "newHome": null,
-            "newTags": null,
-            "type": "namestock",
-            "subType": "mythfurniture",
-            "description": null,
+            "newTags": ["asguardian"],
+            "type": "lore",
+            "subType": "theology",
+            "description": "The world-ash joining Asguard and Mannguard, whose fall closes the age.",
             "note": "_heims_ \"world's\" + _ask_ \"ash\" — the World-Ash",
-            "prose": null,
+            "prose": "Heimsask is the world-ash of Asguardian cosmology, rooted in Asguard and crowned over Mannguard, holding the gods’ world and the living world in one growth. The tradition ties their fate to the tree: while it stands, both worlds stand, and when it burns, both burn with it. The skalds name Aldarlok the Fall of the Ash because its falling closes the age. Details beyond that shared account, including the number of its roots, remain matters on which rune-priests and skalds disagree.",
             "oldRefPaths": [
-                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:65:81"
+                "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:65:81",
+                "f974870e6450b556fbf78c96cb2365c0ad9ccade:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:75:532",
+                "f974870e6450b556fbf78c96cb2365c0ad9ccade:assets/content/Lore/Asguard/Asguard.md:13:17",
+                "f974870e6450b556fbf78c96cb2365c0ad9ccade:assets/content/Lore/Deities/Asguardian/Svartbrandr.md:19:213",
+                "f974870e6450b556fbf78c96cb2365c0ad9ccade:assets/content/Regions/Ankaris/Nordlands/Aldarlok.md:11:318",
+                "f974870e6450b556fbf78c96cb2365c0ad9ccade:assets/content/Skills/Languages/Nordmal.md:269:322"
             ],
             "boldKind": "bare"
         },
@@ -7863,20 +7869,24 @@
             "oldAddress": null,
             "oldImage": null,
             "newName": "Thursaett",
-            "newAliases": null,
-            "newPath": null,
-            "newShortcode": null,
-            "newAddress": null,
+            "newAliases": [],
+            "newPath": "assets/content/Regions/Ankaris/Nordlands/Thursaett.md",
+            "newShortcode": "thursaett",
+            "newAddress": "lore-thursaett",
             "newImage": null,
             "newHome": null,
-            "newTags": null,
-            "type": "namestock",
-            "subType": "mythfurniture",
-            "description": "The giant-kin the ten gods fought before the world stood, beaten and shut into Thursguard.",
-            "prose": "The kindred Hrímthur belonged to. The ten gods fought them and won; all of them but Hrímthur were driven off the field and closed into their own plane, and Hrímthur was killed and cut into the ground the world stands on. No note describes them beyond that, and nothing in the corpus reports the plane's interior.",
+            "newTags": ["asguardian"],
+            "type": "lore",
+            "subType": "theology",
+            "description": "The giant-kin defeated by the Ten, with Hrímthur killed and the rest banished to Thursguard.",
+            "prose": "Thursaett names the giant-kin the Ten fought before the world stood. In the Asguardian account, the gods defeated them and drove the surviving kin into Thursguard, a plane of their own. Hrímthur alone was killed rather than banished, and the Ten cut Mannguard from his body. The tradition gives the giant-kin their place on the defeated side of that founding war without describing their life inside the plane that confines them.",
             "note": "`thurs-` \"a giant\" + `-aett` \"a kin reckoned together\" — built to stand against Ásvinir, the defending kin, which is the same shape: a kin-word for the gods' side wants a kin-word for the side they beat. The English word is \"giant\", which the corpus already writes for Hrímthur and for the Giant's Children; a Greek term for the class would be the same borrowing as Aesir, which this programme retires.",
-            "oldRefPaths": [],
-            "boldKind": "none"
+            "oldRefPaths": [
+                "f974870e6450b556fbf78c96cb2365c0ad9ccade:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:71:111",
+                "f974870e6450b556fbf78c96cb2365c0ad9ccade:assets/content/Affiliations/Divine/Asguardian/Faith_of_Hrimthur.md:42:84",
+                "f974870e6450b556fbf78c96cb2365c0ad9ccade:assets/content/Lore/Spirits/Asguardian/Hrimthur.md:13:557"
+            ],
+            "boldKind": "bare"
         },
         {
             "oldName": null,
@@ -7886,20 +7896,25 @@
             "oldAddress": null,
             "oldImage": null,
             "newName": "Thursguard",
-            "newAliases": null,
-            "newPath": null,
-            "newShortcode": null,
-            "newAddress": null,
+            "newAliases": [],
+            "newPath": "assets/content/Lore/Asguard/Thursguard.md",
+            "newShortcode": "thursguard",
+            "newAddress": "place-thursguard",
             "newImage": null,
             "newHome": null,
-            "newTags": null,
-            "type": "namestock",
-            "subType": "mythfurniture",
-            "description": "The plane the beaten giant-kin are shut into, the third of the enclosed worlds beside Asguard and Mannguard.",
-            "prose": "Named and no more. The corpus says the giant-kin were driven into it and says nothing about what is inside, so it carries no note of its own; the deliberate gap is recorded here so a later pass does not read the silence as an oversight.",
+            "newTags": ["asguardian"],
+            "type": "place",
+            "subType": "world",
+            "description": "The plane that confines the giant-kin defeated by the Ten.",
+            "prose": "Thursguard is the plane into which the Ten drove the defeated Thursaett before the world stood. Hrímthur alone was killed instead, his body cut into Mannguard. The Asguardian teaching distinguishes Thursguard from Mannguard and Asguard, the two worlds joined by Heimsask. No telling describes Thursguard from within; the rune-priests teach only that the giant-kin are confined there and that nothing has come back out.",
             "note": "`thurs-` \"a giant\" + `-guard` \"an enclosed world\" — the third name on the pattern Asguard and Mannguard already set, and built from the same published closing element so a reader who knows those two reads this one on sight.",
-            "oldRefPaths": [],
-            "boldKind": "none"
+            "oldRefPaths": [
+                "f974870e6450b556fbf78c96cb2365c0ad9ccade:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:71:223",
+                "f974870e6450b556fbf78c96cb2365c0ad9ccade:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:75:361",
+                "f974870e6450b556fbf78c96cb2365c0ad9ccade:assets/content/Affiliations/Divine/Asguardian/Faith_of_Hrimthur.md:42:217",
+                "f974870e6450b556fbf78c96cb2365c0ad9ccade:assets/content/Lore/Spirits/Asguardian/Hrimthur.md:15:115"
+            ],
+            "boldKind": "bare"
         },
         {
             "oldName": null,
@@ -13622,5 +13637,188 @@
             ],
             "boldKind": "bare"
         }
-    ]
+    ],
+    "standingCoinages": {
+        "rungs": [
+            {
+                "path": "assets/content/Affiliations/Organizations/Asguardian_Orders/The_Order_of_the_Sworn_Hand.md",
+                "level": 0,
+                "oldTitle": "Put from the Order",
+                "title": "Eidvargr"
+            },
+            {
+                "path": "assets/content/Affiliations/Organizations/Asguardian_Orders/The_Green_Wardens.md",
+                "level": 0,
+                "oldTitle": "Put from the Order",
+                "title": "Eidvargr"
+            },
+            {
+                "path": "assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_Storm_Speakers.md",
+                "level": 0,
+                "oldTitle": "Put from the Order",
+                "title": "Eidvargr"
+            },
+            {
+                "path": "assets/content/Affiliations/Organizations/Asguardian_Orders/The_Giants_Children.md",
+                "level": 0,
+                "oldTitle": "Put from the Order",
+                "title": "Eidvargr"
+            },
+            {
+                "path": "assets/content/Affiliations/Organizations/Asguardian_Orders/The_Order_of_the_Sworn_Hand.md",
+                "level": 1,
+                "oldTitle": "Hand-Squire",
+                "title": "Eidefnir"
+            },
+            {
+                "path": "assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_Storm_Speakers.md",
+                "level": 1,
+                "oldTitle": "Storm-Aspirant",
+                "title": "Eidefnir"
+            },
+            {
+                "path": "assets/content/Affiliations/Organizations/Asguardian_Orders/The_Giants_Children.md",
+                "level": 1,
+                "oldTitle": "The Frost-Touched",
+                "title": "Eidefnir"
+            },
+            {
+                "path": "assets/content/Affiliations/Organizations/Asguardian_Orders/The_Order_of_the_Sworn_Hand.md",
+                "level": 4,
+                "oldTitle": "Elder Hand",
+                "title": "Eidhöfdingi"
+            },
+            {
+                "path": "assets/content/Affiliations/Organizations/Asguardian_Orders/The_Green_Wardens.md",
+                "level": 4,
+                "oldTitle": "Elder Guardian",
+                "title": "Eidhöfdingi"
+            },
+            {
+                "path": "assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_Storm_Speakers.md",
+                "level": 4,
+                "oldTitle": "Storm-Captain",
+                "title": "Eidhöfdingi"
+            },
+            {
+                "path": "assets/content/Affiliations/Organizations/Skalds_Circle.md",
+                "level": 1,
+                "oldTitle": "Apprentice",
+                "title": "Skaldefnir"
+            },
+            {
+                "path": "assets/content/Affiliations/Organizations/Skalds_Circle.md",
+                "level": 0,
+                "oldTitle": "Ring-Broken",
+                "title": "Skaldavargr"
+            },
+            {
+                "path": "assets/content/Affiliations/Organizations/Malalidabandalag.md",
+                "level": 1,
+                "oldTitle": "Sworn of a Signed Company",
+                "title": "Bandalagsmadr"
+            },
+            {
+                "path": "assets/content/Affiliations/Organizations/Malalidabandalag.md",
+                "level": 0,
+                "oldTitle": "Discharged in Disgrace",
+                "title": "Bandalagsvargr"
+            },
+            {
+                "path": "assets/content/Regions/Ankaris/Aureldia/Aelwyth/Stormveld/Jarldom_of_Stormveld.md",
+                "level": 7,
+                "oldTitle": "High Jarl",
+                "title": "Höfudvald"
+            },
+            {
+                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Hrimthur.md",
+                "level": 1,
+                "oldTitle": "Admirer",
+                "title": "Hrímvin"
+            },
+            {
+                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Hrimthur.md",
+                "level": 3,
+                "oldTitle": "Adherent",
+                "title": "Hrímmadr"
+            },
+            {
+                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Frodvin.md",
+                "level": 0,
+                "oldTitle": "Refused the Blót",
+                "title": "Blótlok"
+            },
+            {
+                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Eidgar.md",
+                "level": 0,
+                "oldTitle": "Refused the Blót",
+                "title": "Blótlok"
+            },
+            {
+                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Motefnir.md",
+                "level": 0,
+                "oldTitle": "Refused the Blót",
+                "title": "Blótlok"
+            },
+            {
+                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Svartbrandr.md",
+                "level": 0,
+                "oldTitle": "Refused the Blót",
+                "title": "Blótlok"
+            },
+            {
+                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Solrun.md",
+                "level": 0,
+                "oldTitle": "Refused the Blót",
+                "title": "Blótlok"
+            },
+            {
+                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Velgrimr.md",
+                "level": 0,
+                "oldTitle": "Refused the Blót",
+                "title": "Blótlok"
+            },
+            {
+                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Thrunvald.md",
+                "level": 0,
+                "oldTitle": "Refused the Blót",
+                "title": "Blótlok"
+            },
+            {
+                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Odvar.md",
+                "level": 0,
+                "oldTitle": "Refused the Blót",
+                "title": "Blótlok"
+            },
+            {
+                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Nahild.md",
+                "level": 0,
+                "oldTitle": "The Betrayer",
+                "title": "Návargr"
+            },
+            {
+                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Bjartr.md",
+                "level": 1,
+                "oldTitle": "The Faithful",
+                "title": "Bjartgengir"
+            },
+            {
+                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Bjartr.md",
+                "level": 0,
+                "oldTitle": "Unaccorded",
+                "title": "Bjartlok"
+            }
+        ],
+        "deliberatelyUnused": [
+            {
+                "title": "Lidstjóri",
+                "elements": ["lid-", "-stjóri"],
+                "reason": "Master of a company names an office. The Compact confers Signed Captain standing and elects a Speaker; neither is the one office of a company master."
+            }
+        ],
+        "limits": [
+            "Eidefnir names only existing candidate standings; the Green Wardens admit candidates directly to their sworn standing.",
+            "Eidhöfdingi names senior peers who choose the chair; the Giant's Children entrust that choice to Fathers of the Halls, an office distinct from their senior rung."
+        ]
+    }
 }
