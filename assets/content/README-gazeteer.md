@@ -473,7 +473,7 @@ data:
         lore: "" # optional; omit unless the standing needs its own note
     offices: {}
   seat: null # shortcode of the affiliation's capital settlement; `null` where it has none or none is known, never ""
-  domains: [] # shortcode of the place region where the affiliation holds influence
+  # Record government on each governed place with data.government, not here.
   population: 0 # population of the affiliation
   economy: []
   lore: [humanflk]
@@ -610,8 +610,16 @@ TBD.
 positive population must specify it; an explicit `null` means complete anarchy.
 When population is missing or zero, government is optional. Omit the field when
 government is unknown rather than writing `null`. `data.parents` records geographic
-containment and does not identify government. Affiliations’ `data.domains` remain
-holdings records during the migration to explicit place governments.
+containment and does not identify government. Legacy affiliation `data.domains`
+is accepted temporarily but ignored by the build and omitted from metadata. New
+notes should omit it; preserve ownership and influence facts in prose.
+
+SQL government columns must join each place’s explicit `data.government` to the
+affiliation’s canonical address or its `documentation` journal address. Exclude
+records with `documents` from affiliation joins so their documentation twins do
+not duplicate governments. Region polity lists use the region itself and its
+directly contained places, selected through `data.parents`; they do not inherit
+government through containment. Omitted or null governments do not match.
 
 #### Settlement template
 

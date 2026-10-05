@@ -50,14 +50,20 @@ When friction does occur, it is almost always over the same handful of issues: a
 ## Polities
 
 ```sql
-SELECT address.slug AS _ref,
-       name.full    AS "Polity",
-       description  AS "Overview"
-FROM notes
-WHERE type = 'affiliation'
-  AND subType = 'polity'
-  AND list_contains(data.domains, 'thalorna-note-place-alndntrblnds')
-ORDER BY name.full COLLATE NOCASE
+SELECT p.address.slug AS _ref,
+       p.name.full    AS "Polity",
+       p.description  AS "Overview"
+FROM notes p
+WHERE p.type = 'affiliation'
+  AND p.subType = 'polity'
+  AND EXISTS (
+    SELECT 1
+    FROM notes l
+    WHERE l.type = 'place'
+      AND l.data.government IN (p.address.canonical, p.documentation)
+      AND (l.shortcode = 'alndntrblnds' OR list_contains(l.data.parents, 'thalorna-note-place-alndntrblnds'))
+  )
+ORDER BY p.name.full COLLATE NOCASE
 ```
 
 ## Borders

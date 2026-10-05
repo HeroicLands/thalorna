@@ -33,14 +33,14 @@ SELECT s.address.slug AS _ref,
        s.name.full AS "Name",
        s.data.market || ' ' || m.name AS "Market",
        s.data.population AS "People",
-       (SELECT string_agg(
-                   CASE
-                       WHEN p.address.slug IS NULL THEN p.name.full
-                       ELSE '[[' || p.address.slug || '|' || p.name.full || ']]'
-                   END, ' and ' ORDER BY p.name.full)
+       (SELECT CASE
+                   WHEN p.address.slug IS NULL THEN p.name.full
+                   ELSE '[[' || p.address.slug || '|' || p.name.full || ']]'
+               END
         FROM entries p
         WHERE p.type = 'affiliation'
-          AND list_contains(p.data.domains, concat(s.package, '-note-', s.type, '-', s.shortcode))) AS "Held by",
+          AND p.documents IS NULL
+          AND s.data.government IN (p.address.canonical, p.documentation)) AS "Government",
        -- No field states why a place stands where it does, so "For" projects nothing.
        NULL AS "For"
 FROM entries s

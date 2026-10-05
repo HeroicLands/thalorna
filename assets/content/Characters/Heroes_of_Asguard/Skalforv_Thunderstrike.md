@@ -407,3 +407,7 @@ Skalforv's strength is prodigious, and his skill with a warhammer is unmatched. 
 2. **[[place-thrumufjall|Thrumufjall]] Under Siege**—An army of trolls has laid siege to the sacred mountain. The priests are trapped, and the storm blessing is fading. Skalforv must break the siege before Thrúnvald's power wanes.
 
 3. **The Storm Child**—A child born during an unprecedented storm displays powers similar to Skalforv's own. Both the Storm Temple and darker forces seek to claim the child, and Skalforv must decide what is truly best for them.
+
+## Epic Recital
+
+The [[lore-sagaskalforv|Saga of Skalforv Thunderstrike]] gives an attributed oral telling of this hero's central ordeal. Its verse preserves the legendary account without establishing it as history.
