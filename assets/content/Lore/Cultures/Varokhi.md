@@ -7,62 +7,132 @@ description: "The Varokh—their beliefs, their mores, and what they hold a pers
 tags: []
 ---
 
-The Varokh call Vrystwald their primeval homeland, and the claim is true twice over in two ways that ought to contradict each other and do not. The country was Pelwar first—herders and cultivators who held the forest and the rivers a very long time before anyone disturbed them. Then the Varkhad came out of the further east and took it, and exterminated nobody; over generations they married in, until the two stocks could not be told apart.
+The Varokh call [[place-vrystwald|Vrystwald]] their primeval homeland. The country was **Pelwar** first, held by herders and cultivators before the **Varkhad** came from farther east and took it. The invaders exterminated nobody; over generations the two peoples married until their descendants could no longer be told apart. The Varokh defend the forest as both its earlier inhabitants and its conquerors' children.
 
-A Varokh is therefore descended from the people who were here and from the people who took it off them, and he defends the forest with the ferocity he got from the invading half. He is entirely comfortable with this, and a foreigner who tries to make a paradox of it is told, politely, that it is simply what happened.
+## Keeping Faith
 
-## Three Kinds of Work
+Good conduct means carrying an entrusted duty even when it costs something. A warrior brings companions home; a household mistress preserves the winter stores; a Shaman refuses a dangerous question. Courage includes endurance and cunning in forest combat. A prudent retreat is no disgrace unless it abandons someone the warrior had pledged to protect.
 
-Varokh society divides its labor three ways, and the division explains nearly everything else about them.
+An oath binds before witnesses, including when given to an accepted outsider. Hospitality and promises of safety during ransom bind the person who offered them. Repairing an injury through acknowledged payment earns more respect than letting a feud consume both kindreds. An officeholder must reckon honestly and exercise restraint. Provision for kin comes before personal renown.
 
-The slaves do the labor: stock-tending, hauling, wood, water and fields—the whole grinding base of keeping a village alive. Most villages hold some, and a prosperous one on a good river-landing holds a good many. A captive still being held for ransom is not yet one of them; household standing is decided only when the hope of ransom is gone.
+Breaking an oath, abandoning a dependent, concealing goods owed to the clan or lying in a witnessed settlement brings shame. So does using an office to take from kin. Cowardice means betraying a duty, rather than merely surviving danger.
 
-The men train for war, and not seasonally or as a levy. A Varokh man's occupation _is_ fighting: he practices it, is judged on it, and gives it the working life an Aurèldían peasant gives the plow, because there are slaves to do the plowing. This is the real answer to why the Varokh are fiercer than their northern neighbors, and it is not temperament. A Nordman is a farmer and fisherman who raids in season; a Varokh warrior is a warrior and has been since he was old enough to hold something. The difference is hours.
+## A Name Others Trust
 
-The women do everything else, which is a great deal more than the phrase suggests. The traplines through the winter taiga and the river-boats that carry the furs down to market are one trade seen from two ends, so the most valuable commodity in Vrystwald is taken, prepared, carried and sold by women from beginning to end. They also hold the household: the stores, the stock, the year's provisioning, the reckoning of what is owed to whom, and the slaves, who are bought, worked, fed, watched and disposed of by the mistress of the house. A slave in Vrystwald answers to a woman, every day, about everything.
+Success is a name people trust, backed by deeds they remember. Wealth matters because it equips warriors, feeds households and lets a person meet obligations. A fortune that leaves dependents hungry is evidence against its holder. Failure is losing the trust on which protection, trade and command depend.
 
-Every piece of the division points outward. Freeing a man's whole working life for weapons, and putting the entire fur trade in a woman's hands rather than pulling her husband off training to run it, are not separable choices—they are one economy built around a stranger's arrival rather than around the harvest. Severe contempt for outsiders is not a trait riding alongside this arrangement; it is what the arrangement is for. A boyhood spent training for that arrival leaves barely any room in it for counting the arrival as human, and the Nordmen—the nearest outsiders there are—clear that low measure only barely.
+## Worth Keeping
 
-## What That Makes of Them
+The Varokh value courage, reliable memory, sound craft and a forest their descendants can still use. Woodcarving, leatherwork and ironsmithing are admired. Their weapons are less refined than Vylarian steel but sturdy and effective. Empty boasting, waste for display and power without responsibility earn contempt.
 
-A Varokh man is formidable, proud and disinclined to explain himself. He fights for his war-band before his village and for his village before any other tribe. The loyalty runs in that order without apology.
+That ethic has a boundary its victims know well. The Varkhad invasion took another people's country, and Varokh raids have carried southerners into slavery. The descendants celebrate defending their own forest while taking people from someone else's home. Their promises protect an accepted guest, but their hostility to outsiders makes it easy to deny that protection to others. Thoughtful Varokh can question that distinction; captives bear its cost every day.
 
-A Varokh woman is a merchant with capital, a fortune in furs moving under her name, and the whole domestic economy in her hand. She negotiates with foreign traders directly and is not accompanied, and Vylarian factors who arrive expecting to deal with her husband are corrected once.
+## The Warrior Admired
 
-The villages war among themselves constantly and distrust one another even at a shared market. Only an imminent danger that needs several villages acting together makes their elders agree to a common response and acclaim a War Chief for it. His wider command ends as soon as that response does. The speed with which the Varokh can combine has broken more than one Vylarian legion—and the legions never quite believe it until it happens, because a people that disunited is not supposed to be able to do that.
+[[being-thrnkbldtscbr|Thornak Blodtusc Bar]] embodies the admired male warrior: strong, enduring, skilled at tracking and stubborn in defense of his people. His loyalty and knowledge of the forest give his courage a purpose. His ambition also exposes the danger in the ideal: protecting the clan can become an excuse for advancing oneself.
 
-## The Forest Is the Temple
+Thornak belongs to [[place-eichengrnd|Eichengrund]], whose village, clan and tribe are the same community. Its wesk is the boar. His bond with that spirit gives a particular form to virtues other villages recognize through their own totems.
 
-Each village keeps one _wesk_, its totem, and its **Weskár** (Shaman) keeps the rites and every spiritual need of the village. The _wesketh_ binds a person or village to that spirit; _eldwesk_ names an ancestral spirit addressed through it. A totem belongs to that village, not to a northern or southern pantheon. The Varokh's reverence is for the forest itself: sacred groves are the temples, the oldest trees house powerful spirits and are addressed as such, and the Weskár mediates with them at the turning of the seasons. His authority over the spirits is independent of the War Chief and the Other Chief.
+## The Woman Admired
 
-A god of the Ten takes root in a Varokh only on narrow terms—a captive raised among the Nordmen, a trader long settled at their landings, a wife married across the Falkenstein frontier—and never as a casual borrowing from the people nearest to being counted kin. What never takes root on any terms is a foreign attitude to the forest: that would be a change of substance, not a name.
+[[being-sndwrhldvth|Sundwíra Eichengrund]] shows the quieter success of competent daily work. She cares for horses, notices trouble early and gives travelers sound advice about feeding and care. Villagers and visiting merchants trust her because the animals placed in her charge remain well. Her foresight protects other people's livelihoods without requiring a battlefield deed.
+
+Women hold substantial property and trading authority. A woman may also win a War Chief's seat, though that remains exceptional. The ordinary ideal rests on skill, judgment and provision in her own work.
 
 ## Memory Without Writing
 
-Varokhi is unwritten, long drifted from its Pelwar roots, and carried wholly on breath and memory, so the tradition is oral and it is rich: giant-slayers, spirit-walkers, and heroes whose deeds are recited at length and expected to be recognized.
+Varokhi is unwritten, carried on breath and memory from its Pelwar roots. Giant-slayers, spirit-walkers and heroes fill an oral tradition whose deeds listeners are expected to recognize. There is no written charter or registry to replace a witnessed promise. An oath before a war-band carries the security a written deed provides elsewhere.
 
-This has a consequence a foreigner should note. A Varokh's word is the only instrument he has—there is no contract to fall back on, no registry, no written deed—and an oath spoken before a war-band is the whole of the security. A man who breaks one has not committed a wrong so much as removed himself from the economy of trust the society runs on.
+Each clan's wesk, its sacred grove and its ancestral burial places hold its shared identity. Feud-cords and the Skathár's remembered reckoning preserve blood owed and paid. The oldest trees house powerful spirits. These places and memories make obligations visible without a common temple or a document governing all Varokh.
 
-Craftwork is valued highly: woodcarving, leatherwork and ironsmithing. Varokh weapons are less refined than Vylarian steel and are sturdy, effective, and made by people who expect to use them personally.
+## The Forest Is the Temple
 
-## Slavery, Plainly
+Each village keeps one _wesk_, its totem, and its Weskár, or Shaman, tends its rites and spiritual needs. The _wesketh_ binds a person or village to that spirit; _eldwesk_ names an ancestral spirit addressed through it. Anyone may pray to the ancestors or totem spirits. The Shaman mediates with them and tends the grove at the seasonal turnings.
 
-Slaves are taken in war and bought at the river-landings, and they are the base of the whole arrangement. There is no Varokh discomfort about it and no theology softening it. A slave may be freed, is occasionally married in, and the children of such a marriage are simply Varokh—the line is hard while it lasts and is not hereditary in the way Ankarian bondage often is.
+Some people also have a personal totem suited to their personality. Women tend toward herbivores and men toward predators or carnivores, with exceptions. A personal bond does not replace the clan's wesk. Hunting the clan's totem animal requires the Shaman's approval and a rite the Shaman performs to protect the hunter and appease the spirit. The animal is not untouchable under every circumstance.
 
-Whether a captive is held or absorbed turns on one thing: the chance someone will buy him back. A captive Varokh is ransomed by his own tribe as a matter of course, and is treated well while the asking takes place—Skathár, who records the blood owed and paid between kindreds, keeps the same reckoning for a price owed and paid for a person. A Nordlander's ransom is common enough to count on, and he is treated the better for it, though with the same distrust a Nordman gets at any other time. A southerner's ransom is next to unheard of: a captive off a raided coast has no kin within reach of a river crossing, let alone a longship, so he becomes the arrangement's permanent labor rather than its temporary stock. Ransom is also what lets the tribes war among themselves without ending each other—a feud that trades captives back along with the blood it owes is an exchange a people can run forever, where one that only takes eventually runs out of someone to fight.
+No one takes from a protected grove without the Shaman's consent or disturbs a clan mound and its grave goods. The year's harvest must leave the forest able to replace what was taken. That is practical duty as well as reverence: a clan that strips its country leaves its children none.
 
-A held captive and an absorbed one are not one thing under two names. A man still worth ransoming is kept rather than owned the way the ladder means it: no household has finished buying him, so none yet holds his standing. [[lore-othmundrnk|Óthmund]] and [[lore-edrmundrnk|Edrmund]] are where a captive lands once that question is settled the other way, with no ransom coming and a household's service the only road left—toward being freed, married in, or, in time, simply Varokh.
+The Shaman guides a child's naming and introduction to the clan at three months, participates in adulthood and marriage rites, and guides funerals. At _eth-kethrun_, the passage to adulthood, a significant deed earns a true name. Before that passage, the young learn the work and obligations they will carry; the rite recognizes a claim they must continue to uphold.
 
-A foreigner who moralizes about the arrangement will find the Varokh unmoved and genuinely puzzled, since the alternative he is proposing appears to involve the men doing the hauling, which would leave nobody training.
+A foreign god may enter through captivity, marriage or long residence abroad. That personal devotion gives no foreign pantheon a place beside the village totem and changes no duty to the forest.
+
+## The Year Together
+
+Rites mark each seasonal turning. Two further gatherings renew the relationship between the living, their ancestors and their land. **Weskskald**, the Totem Reciter, is a deep-winter evening of family memory, ancestor recitation and prayer. Remembering the dead requires no dangerous attempt to question them.
+
+**Weskmund**, the Totem Protection, is a late-summer day spent tending sacred ground and renewing the clan's duty to the forest. The work gives that duty a place in the year alongside the words spoken at the grove.
+
+## What Deeds Earn and Wrongs Cost
+
+Reliable service earns renown, gifts, hospitality and greater trust. Proven warriors receive greater charges and shares; good judgment and skill in other work can also win a trusted office. A [[lore-druthmundrnk|Druthmund]] may become [[lore-hrodthulrnk|Hródthúl]], assisting an elder or leading a band. That charge carries responsibility and a stronger voice in its own work, but no vote among the three elders. A [[lore-frodradrnk|Fródrád]] holds one of those seats through its particular succession custom, never by descent alone.
+
+Custom ordinarily moves from a public finding of wrongdoing to restitution or blood settlement. A further breach can cost a particular trust or charge, then an office or a place in the village. Grave betrayal can pass directly to a severe consequence. The final loss is expulsion by one's own kin: when no kindred claims the person, they become [[lore-vrystrithrnk|Vrystrith]], owed neither hospitality nor vengeance.
+
+These consequences remain distinct. Losing an office does not itself erase kinship, and a Shaman's judgment does not automatically make a person kinless. The ancestors' banishment after death is a separate judgment beyond the living courts of custom.
+
+## Three Seats, No Throne
+
+Each village has three coequal elders: the Shaman, the War Chief and the Other Chief. Each has one vote. The Shaman rules on sacred breaches and spirit taboo. The War Chief directs the war-band and maintains peace and physical safety. The Other Chief hears custom, debts, inheritance and blood payment before witnesses. The Skathár keeps the reckoning where blood or ransom is owed and paid. An agreed settlement names what must be paid; the Other Chief handles its reckoning and the War Chief its enforcement where safety is at issue.
+
+A matter crossing those duties goes to the three together. The Shaman may banish a War Chief who acts against the spirits, but acceptance by the other elders and village is a political question. Kindreds can refuse a judgment; the elders' votes alone cannot make a kindred abandon its own. Authority depends on support as well as an office's proper charge.
+
+The Shaman trains and designates an apprentice as successor. Band leaders earn a claim to the War Chief's seat through deeds, with succession contested among them. The people acclaim an Other Chief from assistants who have proved themselves in village work. The village can withdraw support from a holder and settle the seat on someone else.
+
+No common court or lasting council stands above the villages. Disputes between them depend on accepted arbitration, settlement or feud. Only imminent danger brings several villages' elders together to acclaim a common War Chief. His wider command ends with the response. Even the market at [[place-waldburg|Waldburg]] confers no rule over another village, though a killing there is answered immediately by every tribe present.
+
+## With the Wesk After Death
+
+The dead enter the spirit world to be with their clan's wesk. Over generations of descendants, an ancestor gradually merges into the spiritual background of the totem's environment. A remembered person becomes part of the country the clan reveres.
+
+The ancestors judge wrongdoing there. Those they banish from the totem's land wander exposed to rival spirits and evil beings that hunt the weak. The living do not know the grounds of that judgment. They commonly suspect cowardice, murder within the clan and shameful conduct, but cannot promise that a particular act earns a particular fate.
+
+This uncertainty gives honest conduct weight without providing a mortal list of spiritual sentences. It also shapes ordinary choices. A household preserves useful goods for a funeral, settles succession before witnesses and leaves ancestral ground undisturbed. Daughters and sons inherit household wealth on comparable terms. Stores, trade claims, tools and a warrior's equipment can pass separately according to their obligations. Clan custom settles disputed claims without a written deed; funeral goods are part of what a family must provide for the dead.
+
+Most people receive a simple burial in sacred ground with goods believed useful after death. Warriors are often cremated with such goods, including favorite weapons. The most revered may rest in sacred mounds holding several generations of clan dead. The Shaman guides the ceremony and disposition in each case.
+
+## Speaking Across the Boundary
+
+Prayer can address the ancestors and wesk. The Shaman is the primary intermediary: in trance, the Shaman travels to the spirit realm and speaks with totems and, to a limited extent, the dead. Such speech is dangerous. The Shaman may never ask the dead about the future, details of spirit existence beyond generalities, combat or revenge, or anyone banished from the totem's land.
+
+The prohibitions make restraint part of spiritual competence. A warrior cannot demand ancestral advice for vengeance, nor a merchant a dead relative's forecast. The clan gladly feeds and supports the Shaman as one of its three leaders; there is no fee for each rite or journey. The same practical support sustains the War Chief and Other Chief in their duties.
 
 ## What a Person Owes
 
-Ask a Varokh man what a person owes, and he answers: the war-band first, then the tribe, then the grove. Ask a Varokh woman and she answers: the household first, then the kin who trade with her, then the grove.
+A man's first loyalty is to his war-band, then his village. A woman's work centers on the household and the kin who trade with her. Both owe the grove respect and the forest a productive future. Households support the village band and all three elders according to local custom. In return, a full clan member receives protection, a share and a voice: the man's voice at the moot and the woman's authority over household stores and debts express the same Druthmund standing.
 
-Both will say last, and mean it, that a person owes the forest the courtesy of not taking more from it than the year can replace—and that this is arithmetic and not piety, because a tribe that strips its own country has no country.
+The division of work sustains those obligations. Men train for war as their occupation, rather than farming between seasonal raids. Women hold the household economy and carry the fur trade from traplines to river markets. Slaves tend stock, haul wood and water and work the fields. Most villages hold some; prosperous river landings hold many. Craftwork also supports village life, and individual skill gives people useful work beyond the general division.
+
+An [[lore-edrmundrnk|Edrmund]] is free but sheltered by a household outside their blood. The household vouches for them; they owe the service or deference agreed when it took them in. They have no independent moot voice. An [[lore-othmundrnk|Óthmund]] owes labor and obedience to the household mistress and answers through her rather than in their own name. Neither standing carries a free clan member's full reciprocal rights.
+
+## When a Household Falls Short
+
+Care is a duty. Nearest kin provide food, shelter, teaching and protection to children, widows and those who cannot support themselves. Widowhood does not erase membership or property. A destitute person with kin has a claim on them; when kin cannot provide, the clan must find a receiving household.
+
+An Óthmund's owning household owes food, shelter and care through illness or incapacity. The mistress answers to the Other Chief if abandonment burdens the clan. If the household cannot provide, the clan arranges another household and food from emergency stores. That duty does not give an enslaved person a free member's inheritance, share or moot voice.
+
+## Living Beyond Useful Work
+
+Injury, lasting illness and old age do not cancel the duty of care. Kin feed and shelter a person unable to work; the clan supplies what kin cannot. Experience can still serve through teaching and judgment, but care is owed even when no useful work remains.
+
+Elderly Varokh who can no longer work or produce effectively often choose to stop eating. That choice does not release kin or clan from offering care. It is no formal requirement for the old to die. In a failed winter, the three elders apportion scarce stores with the kindreds, and dependent people retain their claim even when provision becomes difficult.
+
+## Shelter, Teaching and Defence
+
+When family support fails, the Other Chief coordinates a receiving household and draws on common stores or pledged contributions. The clan must arrange teaching as well as food and shelter. The Shaman guards the person's rites and standing; the War Chief ensures physical protection. An unsupported child stays within the clan and receives the naming and introduction that other children do.
+
+The obligation reaches beyond a gift made once. A household that receives someone must carry the promised care; scarcity brings the matter back to the kindreds and elders rather than extinguishing the person's belonging.
+
+## Household and Kindred
+
+The extended household and its kindred organize Varokh life. Village, clan and tribe name the same local community; Eichengrund's residents use Eichengrund as their clan name. Its households share the boar wesk, while particular people may also carry a personal totem. A household can contain blood kin, married-in adults, sheltered free dependents and enslaved people without giving all of them the same standing.
+
+A married-in adult may own and trade goods in their own name. An Óthmund may be freed and sometimes married in; the children of that marriage are simply Varokh. Bondage is not hereditary in the way Ankarian bondage often is. A freed person sheltered before marriage-in may hold Edrmund standing. Taking someone under a roof is protection, but it does not by itself make them blood kin.
+
+A captive still worth ransoming is kept rather than absorbed into an owning household. Varokh captives are ransomed by their own tribe as a matter of course and treated well while payment is sought. Nordlanders are commonly ransomed too. A captive from a raided southern coast seldom has kin within reach to pay, and is likely to become permanent household labor. The Skathár reckons ransom alongside blood settlement. Returning captives helps rival villages sustain their feuds without destroying one another, while captives without reachable kin pay for that arrangement with their freedom.
 
 ## See Also
 
-- [[place-vrystwald|Vrystwald Region]]—the taiga, the rivers and the villages
-- [[affiliation-vrystwldtrbs|Vrystwald Tribes]]—the standing shared by the villages and the triads that govern them
+- [[place-vrystwald|Vrystwald Region]]—the taiga, rivers and villages
+- [[affiliation-vrystwldtrbs|Vrystwald Tribes]]—standing and the three seats
 - [[skill-varokhlng|Varokhi]]—the unwritten tongue

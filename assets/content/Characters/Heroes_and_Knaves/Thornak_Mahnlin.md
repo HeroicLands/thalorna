@@ -454,13 +454,13 @@ Thornak holds the standing of [[lore-hrodthulrnk|Hródthúl]], Respected, among 
 
 The Vrystwald tribes have always faced threats from outside their lands, but in recent years, these threats have intensified. Settlers from the southern kingdoms, backed by well-armed militias, have begun encroaching on Vrystwald territory. They cut down sacred trees, hunt in forbidden lands, and build fortifications on ancestral sites. These actions have sparked numerous skirmishes, and the Eichengrund tribe, assisted by Thornak’s leadership, has been at the forefront of the resistance.
 
-However, the greatest threat to the Vrystwalds comes from the Sons of Muspell, a Vúlcanian cult dedicated to fire, destruction, and conquest. The Vúlcanians view the Vrystwalds as savages who must be exterminated or subjugated. Their brutal raids have decimated several Vrystwald villages, and Thornak has sworn vengeance on them. He believes that the Vúlcanians' ultimate goal is to seize control of the entire Peran region and enslave the Vrystwalds, forcing them to labor or to feed Vúlcan’s bloody rituals.
+However, the greatest threat to the Vrystwalds comes from the [[affiliation-sonsmuspell|Sons of Muspell]], a military order of the [[affiliation-blackflame|Black Flame]] dedicated to fire, destruction, and conquest. The Sons have gained ground in [[affiliation-jrldmstrmvld|Stormveld]] and seek a route into the Nordlands by taking Varokhi land. Their brutal raids have devastated several Vrystwald villages, and Thornak has sworn vengeance on them. He believes that they aim to seize control of Vrystwald and enslave its people, forcing them to labor or to feed Vúlcan's bloody rituals.
 
 Within his own tribe, Thornak faces challenges to his authority as well. Sigulf the Crowcaller, the tribal shaman, has begun gathering followers, claiming that the time of the Boar Spirit is over and that Eichengrund should replace its boar wesk with the crow, which he claims represents cunning and adaptability. Sigulf’s growing influence threatens to fracture the unity of the tribe, and Thornak can confront Sigulf directly or attempt to win him over to his side.
 
 ### Current Goal
 
-Thornak’s immediate goal is to defend the Eichengrund tribe from the continued encroachments of southern settlers and the Sons of Muspell. He has been leading raids against southern outposts and ambushing Vúlcanian patrols, but he knows that these efforts are not enough. To truly protect his people, Thornak believes he must seek out the **Forgotten Barrows**, ancient burial sites said to house the spirits of the first Vrystwald ancestors.
+Thornak’s immediate goal is to defend the Eichengrund tribe from the continued encroachments of southern settlers and the [[affiliation-sonsmuspell|Sons of Muspell]]. He has been leading raids against their outposts and ambushing their patrols, but he knows that these efforts are not enough. To truly protect his people, Thornak believes he must seek out the **Forgotten Barrows**, ancient burial sites said to house the spirits of the first Vrystwald ancestors.
 
 Thornak’s plan is to commune with the spirits of these ancient ancestors and unlock the secrets of their power. He believes that by doing so, he will be able to call upon the full might of the Boar Spirit and drive the invaders from Vrystwald lands once and for all. However, the journey to the Forgotten Barrows is perilous, and there are rumors that the barrows are guarded by malevolent spirits that do not take kindly to the living disturbing their rest.
 
@@ -505,15 +505,15 @@ If Thornak can unlock the ancient power of the first Vrystwald ancestors, he hop
 Captain Varlan Keldros
 : A southern military commander who has been leading expeditions into Vrystwald territory. Keldros views the Vrystwalds as backward savages standing in the way of civilization’s progress. His raids have been particularly destructive, and he has gained a reputation for cruelty, often executing captured Vrystwalds to instill fear.
 
-The Sons of Muspell
-: This Vúlcanian cult seeks to cleanse the wildlands of Vrystwald influence, seeing their worship of nature spirits as heretical. The **Blazewarden Malekir** of the Sons has personally sworn to burn the Vrystwald forests to the ground and offer the tribe’s shamans as sacrifices to Vúlcan. Thornak has clashed with Malekir’s forces on several occasions, but the Vúlcanian forces are numerous and well-armed, making them a deadly threat.
+[[affiliation-sonsmuspell|The Sons of Muspell]]
+: This Black Flame military order seeks to seize Varokhi lands in Vrystwald as a route into the Nordlands. Its **Blazewarden Malekir** has personally sworn to burn the Vrystwald forests and offer the villages' Shamans as sacrifices to Vúlcan. Thornak has clashed with Malekir's forces on several occasions, but the Sons are numerous and well armed, making them a deadly threat.
 
 Sigulf the Crowcaller
 : The tribe's shaman who believes that Thornak’s connection to the Boar Spirit is outdated and that Eichengrund must embrace a new path of survival through cunning and deception. Sigulf emphasizes his connection to the spirit world to create awe and fear in the tribespeople. While not an outright enemy yet, Sigulf’s growing power threatens Thornak’s ambition to lead the Eichengrund tribe and ultimately unite all the Vrystwald tribes under his leadership.
 
 ## Plot Hooks
 
-1. **War with the Vúlcanians**: The Sons of Muspell are planning a massive invasion of Vrystwald territory, and Thornak must lead his people in a desperate defense. Players could assist in defending Vrystwald villages, raiding Vúlcanian camps, or confronting the Vúlcanian High Blazewarden Malekir in a climactic battle.
+1. **War with the Sons**: The [[affiliation-sonsmuspell|Sons of Muspell]] plan a larger invasion of Vrystwald, and Thornak must lead his people in a desperate defense. Players could assist the villages, raid the Sons' camps, or confront Blazewarden Malekir in a climactic battle.
 
 2. **Rivalry of the Crow**: As Sigulf gathers power, the rivalry between him and Thornak could erupt into a full-blown conflict that threatens the unity of the Eichengrund tribe. Players may have to choose sides, either supporting Thornak’s vision of strength through the Boar Spirit or aiding Sigulf in his quest for a new path.
 
