@@ -66,7 +66,7 @@ sohl: {system: {commonSkills: []}}
 
 ## Aspects
 
-Ódvar is often depicted as an imposing figure, with a long, flowing beard and a wide-brimmed hat that casts a shadow over his single, all-seeing eye. He is accompanied by his two ravens, Hugvin (thought) and Munvin (memory), who fly across the world each day, gathering knowledge and news to bring back to their master.
+Ódvar is often depicted as an imposing figure, with a long, flowing beard and a wide-brimmed hat that casts a shadow over his single, all-seeing eye. He is accompanied by his two ravens, [[lore-hugvin|Hugvin]] (thought) and [[lore-munvin|Munvin]] (memory), who fly across the world each day, gathering knowledge and news to bring back to their master.
 
 His influence extends far beyond mere intellectual pursuits; he is also a god of poetry, war, and honorable death, guiding souls to Valsal and inspiring warriors with the courage to fight and the wisdom to know when to wield their power. His complex nature makes him a god of paradoxes—both creator and destroyer, wise and warlike, loving and fearsome.
 
@@ -74,7 +74,7 @@ In artistic depictions, Ódvar is often shown holding a spear, Skjálfgeir, whic
 
 ## Sacred Objects
 
-- **Raven Feather:** Represents thought and memory, symbolizing Hugvin and Munvin.
+- **Raven Feather:** Represents thought and memory, symbolizing [[lore-hugvin|Hugvin]] and [[lore-munvin|Munvin]].
 - **Runestone:** Symbolizes the power of knowledge and ancient wisdom.
 - **Well Water:** Taken from sacred wells, it represents the quest for understanding.
 - **Worn Scroll:** A symbol of learning and the preservation of knowledge.
@@ -83,7 +83,7 @@ In artistic depictions, Ódvar is often shown holding a spear, Skjálfgeir, whic
 
 - **Skjálfgeir's Echo:** A fragment of Ódvar's legendary spear, Skjálfgeir, believed to grant its bearer unparalleled precision and authority in both combat and leadership.
 - **Wisdom's Eye:** A small, blessed polished stone said to offer the holder enhanced intuition and the ability to see through deception.
-- **Raven's Feather Quill:** A writing instrument made from a feather said to have fallen from Hugvin or Munvin. Prized by scribes and seers, this quill is believed to channel Ódvar's wisdom directly into the written word.
+- **Raven's Feather Quill:** A writing instrument made from a feather said to have fallen from [[lore-hugvin|Hugvin]] or [[lore-munvin|Munvin]]. Prized by scribes and seers, this quill is believed to channel Ódvar's wisdom directly into the written word.
 
 ## Clergy
 
@@ -99,8 +99,8 @@ In artistic depictions, Ódvar is often shown holding a spear, Skjálfgeir, whic
 
 - **Valkyries:** Choosers of the slain, they select fallen warriors to bring to Valsal.
 - **Valdrengir:** The honored dead who reside in Valsal, training for the final battle of Aldarlok.
-- **Hugvin:** One of Ódvar's ravens, representing thought, who flies across the world gathering knowledge and wisdom.
-- **Munvin:** The other of Ódvar's ravens, symbolizing memory, who travels far and wide to bring back insights from all corners of the world.
+- [[lore-hugvin|Hugvin]]: One of Ódvar's ravens, representing thought, who flies across the world gathering knowledge and wisdom.
+- [[lore-munvin|Munvin]]: The other of Ódvar's ravens, symbolizing memory, who travels far and wide to bring back insights from all corners of the world.
 
 ## Ceremonies and Festivals
 
