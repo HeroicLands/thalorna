@@ -98,7 +98,7 @@ In artistic depictions, Ódvar is often shown holding a spear, Skjálfgeir, whic
 ## Divine Servants
 
 - **Valkyries:** Choosers of the slain, they select fallen warriors to bring to Valsal.
-- **Valdrengir:** The honored dead who reside in Valsal, training for the final battle of Aldarlok.
+- [[lore-valdrengir|Valdrengir]]: The honored dead who reside in Valsal, training for the final battle of Aldarlok.
 - [[lore-hugvin|Hugvin]]: One of Ódvar's ravens, representing thought, who flies across the world gathering knowledge and wisdom.
 - [[lore-munvin|Munvin]]: The other of Ódvar's ravens, symbolizing memory, who travels far and wide to bring back insights from all corners of the world.
 

@@ -66,22 +66,22 @@ Thrúnvald, the thunderous god of war, reavers, and the sea, stands as a formida
 
 ## Aspects
 
-Thrúnvald is most famously depicted wielding his mighty hammer, Thrúnhamarr, a weapon of immense power that can crush mountains and summon thunder and lightning. Thrúnhamarr is not only a symbol of Thrúnvald's might in battle but also a tool of protection, used to bless and sanctify.
+Thrúnvald is most famously depicted wielding his mighty hammer, [[lore-thrunhamarr|Thrúnhamarr]], a weapon of immense power that can crush mountains and summon thunder and lightning. [[lore-thrunhamarr|Thrúnhamarr]] is not only a symbol of Thrúnvald's might in battle but also a tool of protection, used to bless and sanctify.
 
 Thrúnvald's physical appearance is that of a giant among men, muscular and bearded, with a fierce yet protective demeanor. His followers include warriors, seafarers, and those who live by the strength of their arms. Temples dedicated to Thrúnvald are often located near the coast, filled with symbols of war and the sea—shields, swords, anchors, and depictions of fierce sea storms.
 
-In artistic representations, Thrúnvald is often shown driving his chariot pulled by two goats across the sky, creating thunder with each strike of Thrúnhamarr.
+In artistic representations, Thrúnvald is often shown driving his chariot pulled by two goats across the sky, creating thunder with each strike of [[lore-thrunhamarr|Thrúnhamarr]].
 
 ## Sacred Objects
 
-- **Hammer Stone:** Represents strength and protection, symbolizing Thrúnhamarr.
+- **Hammer Stone:** Represents strength and protection, symbolizing [[lore-thrunhamarr|Thrúnhamarr]].
 - **Iron Nail:** Symbolizes the hardiness and resilience of warriors.
 - **Sea Shell:** Represents the god's dominion over the seas.
 - **Stormwater:** Collected during a thunderstorm, it symbolizes Thrúnvald's power over storms.
 
 ## Relics
 
-- **Thrúnhamarr's Fragment:** A shard from Thrúnvald's legendary hammer, imbued with the thunder god's power, crackling with energy and surrounded by a faint aura of lightning. Those who carry it into battle are granted unparalleled might and the power to summon storms.
+- **[[lore-thrunhamarr|Thrúnhamarr]]'s Fragment:** A shard from Thrúnvald's legendary hammer, imbued with the thunder god's power, crackling with energy and surrounded by a faint aura of lightning. Those who carry it into battle are granted unparalleled might and the power to summon storms.
 - **Stormcaller's Amulet:** A pendant crafted from a polished piece of sky iron, worn by Thrúnvald's priests and warriors, said to bolster their strength in battle.
 - **Thunderstruck Ring:** A simple iron band said to be infused with the essence of lightning, forged during a thunderstorm. Provides the wearer with increased speed and reflexes.
 
