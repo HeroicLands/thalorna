@@ -4,7 +4,7 @@ name: {full: Madhuvana, aliases: []}
 type: place
 subType: settlement
 description: "Orchard village on the sheltered southern slope, which grows the temperate fruit the lowland plain will not take."
-tags: [village, mountain, inland]
+tags: [village, mountain, inland, draft]
 data:
   demonym: null
   lore: []
@@ -13,3 +13,5 @@ data:
   packFolder: vedyara
   government: suvrgrjnpd
 ---
+
+**Madhuvana** is an orchard village on the sheltered southern slope of the [[place-suvarnagirijnpd|Suvarnagiri Janapada]]. It grows the temperate fruit that the lowland plain will not take.

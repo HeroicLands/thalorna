@@ -4,7 +4,7 @@ name: {full: Gokshetra, aliases: []}
 type: place
 subType: settlement
 description: "Cattle village on the upland grazing north of the valley."
-tags: [village, hill, inland]
+tags: [village, hill, inland, draft]
 data:
   demonym: null
   lore: []
@@ -13,3 +13,5 @@ data:
   packFolder: vedyara
   government: dhnrktjnpd
 ---
+
+**Gokshetra** is a cattle village on the upland grazing north of the valley, one of the villages of the [[place-dhanurkotajnpd|Dhanurkota Janapada]].
