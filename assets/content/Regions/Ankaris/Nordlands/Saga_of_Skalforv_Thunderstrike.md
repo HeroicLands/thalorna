@@ -8,153 +8,240 @@ tags: [asguardian, nordlands, heroes-of-asguard]
 data: {packFolder: nordlands}
 ---
 
-Among the [[lore-nordheimnclt|Nordmen]], this is one telling of [[being-sklfrvthndrstrk|Skalforv Thunderstrike]] taking a small boat against [[lore-heimsormr|Heimsormr]] under [[lore-thrunvalddty|Thrúnvald]]'s blessing. Whether he walks the coast as a living champion or belongs to its songs, the skalds give him three days and nights of battle and a fourth day's victorious blow. Other tales warn that the serpent survived beneath the waves. Its place in the telling of [[lore-aldarlok|Aldarlok]] remains a separate matter, and the singers leave the depths unmeasured.
+Among the [[lore-nordheimnclt|Nordmen]], this is one telling of [[being-sklfrvthndrstrk|Skalforv Thunderstrike]] taking a small boat against [[lore-heimsormr|Heimsormr]] under [[lore-thrunvalddty|Thrúnvald]]'s blessing. Whether he once walked the coast or belongs to its songs, the skalds give him three days and nights of battle and a fourth day's victorious blow. Other tales warn that the serpent survived beneath the waves. Its place in the telling of [[lore-aldarlok|Aldarlok]] remains a separate matter, and the singers leave the depths unmeasured.
 
 : Saga of Skalforv Thunderstrike {#saga}
 
 ```poetry {form=epic lang=en}
-Strike wood against the bench and wake the rafters;
-let every cup be still until we finish.
-We sing the hammer lifted from a boat,
-the storm that found a mortal standing in it,
-the shore that waited under rising water.
-Skalforv Thunderstrike goes out before us.
-Hold fast the tale as sailors hold their oars.
+Beat wood upon the benches;
+bend ears toward the tale.
+Cups wait for the telling;
+children crowd the fire.
+One boat braved the whale-road;
+one hammer held the storm.
+Skalforv stood against the serpent;
+shore folk waited for him.
 
-His birth was wrapped in thunder, say the singers;
-the sky split wide before his eyes could open.
-The boy climbed hills to watch the lightning blossom,
-and loved the dreadful brightness in the clouds.
-He grew to wield a hammer like the weather,
-its blows resounding over broken battle,
-his faith as plain as iron in his hand.
+Thunder shook his birth night;
+thunder stirred his boyhood.
+Hilltops held his watching;
+heights welcomed his gaze.
+Lightning laced the dark clouds;
+light leapt within his eyes.
+He grew beneath that grandeur,
+glad of the thunder god.
 
-He laughed until the benches shook beneath him;
-he met the children's games with ready hands.
-The scars of fighting never stole that gladness,
-though one ran jagged down his mighty arm.
-But laughter has a place it cannot enter:
-a village reached when saving came too late,
-a silence that went travelling beside him.
+Hammer hard were his battles;
+heavy blows broke foes.
+His scar scored one arm,
+shaped like the lightning's path.
+Laughing, he lifted children;
+loud tales enlivened feasts.
+Strength served the small hands
+that trusted him in play.
 
-It drove him onward when the road grew empty.
-It kept his ear turned outward from the feast.
-What worth has strength that answers after ruin?
-What use the hammer raised above the dead?
-He sought the living underneath their dangers,
-and followed news of terror toward its source.
-Thus hear the sea come knocking at our threshold.
+But silence sat beside him;
+some sorrows shunned his laughter.
+A village once had needed him;
+his coming came too late.
+No hammer could help them;
+no boast could buy them breath.
+That failure followed his footsteps;
+that grief gave him no rest.
 
-The waters rose against the coastal villages.
-The waves came shouldering up the helpless shore.
-Nets tangled where the tide had thrown them inland;
-the doors shook under blows no hand had dealt.
-Below the breakers something vast was moving,
-a length the sailors dared not try to measure,
-a body said to circle all the earth.
+Roads received his roaming;
+rumors drew him onward.
+Who needed strength today?
+Whose shelter shook with fear?
+He went where warnings called him,
+weighing no reward in silver.
+Duty drove the champion;
+darkness drew his answering blows.
 
-Heimsormr: let the name lie heavy on you.
-The world had room enough to fear that name.
-Its thrashing made the coastline seem a toy,
-its heaving shook the water into mountains.
-No wall could stand between that thing and children;
-no village shield could meet the swallowing wave.
-The singer sets one boat against that darkness.
+Water worried the coast;
+waves climbed above their bounds.
+Nets knotted around wreckage;
+no door defied the flood.
+Below the breakers, vast movement
+made mountains of the sea.
+The shore shrank before it;
+small houses held their breath.
 
-Skalforv took the hammer to the water.
-The little boat lay trembling at his feet.
-He carried Thrúnvald's blessing out to battle,
-with no broad deck beneath his planting heels.
-The coast drew back; the faces dwindled landward;
-the storm leaned forward from the open sea.
-His oar found water; water answered iron.
+Heimsormr, said the frightened;
+Heimsormr, sang the skalds.
+Its length lay beyond reckoning;
+land seemed small beside it.
+The earth could be encircled,
+so enormous was its body.
+Its thrashing threatened the villages;
+its turning troubled the deep.
 
-First day: the sky shut down upon the ocean.
-First night: the sea gave back no faithful star.
-The serpent rolled beneath the creaking timbers,
-and water climbed like walls on either side.
-He lifted up the hammer in that hollow;
-its falling called the lightning through the clouds.
-The boat endured beneath the crashing answer.
+A shield could shelter children
+from steel aimed at their heads.
+What shield could stop this water?
+What wall could withstand it?
+Skalforv sought the shoreline;
+salt wind struck his face.
+He carried his great hammer;
+he called for Thrúnvald's blessing.
 
-Tell how he stood when standing seemed impossible.
-Tell how he watched the water for its turning.
-The boldest hand must know when strength is wasted;
-the sailor reads what shouting cannot master.
-He followed every lifting of the serpent,
-awaiting what the storm concealed and offered.
-Then iron met the darkness moving upward.
+Small lay the boat before him;
+small was its share of sea.
+No broad deck bore his footing;
+no warband backed his blows.
+He pushed past the breakers,
+pulling clear of the shore.
+The folk fell far behind him;
+their fear went out aboard.
 
-Second day: the waves forgot their boundaries.
-Second night: the thunder swallowed every cry.
-The coast was out beyond all hope of seeing;
-the small boat held the space his feet required.
-Again the hammer brought the lightning downward,
-again the mighty body stirred below.
-Who counts the blows when counting costs a breath?
+First day, the clouds closed;
+first night, the stars failed.
+Water walls rose around him;
+wind whipped the small boat.
+Below him the body gathered;
+black depths bulged with strength.
+He lifted the lightning caller;
+he let the hammer fall.
 
-We count the nights because the tale remembers.
-We count the days because the shore endured.
-The people waited where the waters threatened,
-with nothing certain carried on the wind.
-His strength went out beyond their watching faces;
-the danger stayed among their crowded doorways.
-They had to live until the boat returned.
+Thunder answered the iron;
+the towering waters whitened.
+Foam flew from the serpent;
+fierce waves shook the boat.
+Still it stayed above water;
+still his feet found purchase.
+He braced before another blow;
+he brought the hammer round.
 
-Third day: his arms grew heavy as the heavens.
-Third night: the storm still had no farthest edge.
-The serpent heaved, and hammer answered serpent;
-the boat climbed darkness, dropped, and climbed again.
-He held the thought of those who could not follow,
-the small hands waiting safely on the shore,
-and made his weary body lift the iron.
+Boldness needed watching;
+breath needed its moment.
+Seamanship steadied the fighting;
+strength served a knowing eye.
+He read the rise of water,
+he reckoned the serpent's turning.
+Each opening asked an answer;
+each answer fell like thunder.
 
-O thunder god, whose blessing rides the water,
-whose hammer guards against the giant darkness,
-keep those behind me sheltered from this sea.
-Let all the force you grant these mortal shoulders
-find where this terror opens to a blow.
-So gives the singer voice to breathless fighting,
-while lightning makes the ocean white around him.
+Second day, no easing;
+second night, no guiding star.
+The storm swallowed distance;
+the shore slipped from thought.
+No hearth held his body;
+no bed bore its weight.
+Yet he watched for the serpent;
+yet he worked the hammer.
 
-Fourth day: the serpent raised its head to meet him.
-Fourth day: the hammer found its dreadful mark.
-The blow split wide the head above the water;
-the brightness fell across the world of waves.
-The body sank beneath the churning surface,
-down where the eye could follow it no further.
-The boat remained upon the breaking foam.
+Salt stung his mouth;
+spray scoured his eyes.
+The boat climbed black ridges,
+then plunged beneath their shoulders.
+Storm breath shook the heavens;
+serpent strength stirred the depths.
+Man, iron, and blessing
+met that might once more.
 
-Exhaustion bent the shoulders thunder strengthened.
-The hammer seemed the weight of all four mornings.
-He turned toward land across the restless water,
-toward those whose fear had called him out to sea.
-The shore grew slowly from a line to houses;
-the houses gave their waiting people faces.
-The boat approached; the watchers found their voices.
+Back on the battered coast,
+breathing people waited.
+They watched waves nearing doorways;
+they wished for his return.
+No eye could follow his fighting;
+no ear could hear his prayer.
+The shore carried its own courage;
+suspense sat beside each hearth.
 
-Thrúnvald's chosen champion, cried the shoreline.
-The name went up beyond the weary boat.
-His feet found earth that did not fall beneath him;
-his hand still bore the hammer from the storm.
-The people gathered close around their defender,
-and warmth returned where terror had been waiting.
-A laugh came rough across his salted lips.
+Third day, his arms ached;
+third night, the storm endured.
+No easy end offered itself;
+no clear sky crowned him.
+Children came to his thinking,
+small hands once held in play.
+He hefted his hammer again;
+he held to their need.
 
-Let rich men keep the silver in their coffers;
-let proud men weigh the glory of a blow.
-Our song lays something humbler in the balance:
-the doorway standing when the tide has fallen,
-the child who has another day for playing,
-the weary guest received beside the fire.
-For these he took the little boat to battle.
+Thrúnvald, thunder keeper,
+take heed upon the sea.
+Hammer lord, hear me;
+hold those behind me safe.
+Give strength to these shoulders;
+guide iron toward its mark.
+The tale lends breath to his asking;
+the tempest takes its sound.
 
-Strike wood once more, and let the tale go outward.
-Carry it over headlands, through the fjords.
-When fearful voices gather by your hearth,
-remember strength that answered while they waited.
-The cups are lifted; children lean to listen.
-Outside, the sea keeps moving.
+Night had no quiet corners;
+nothing welcomed sleep.
+The boat bore the champion;
+the billows bore the boat.
+Deep below, the serpent
+still disturbed the whale-road.
+Skalforv watched and waited;
+weariness weighed his hands.
+
+No riches rode beside him;
+no ring rewarded this labor.
+The living had lent him purpose;
+their lives made his burden worthy.
+
+Fourth day, the head rose;
+fourth day, the hammer fell.
+Lightning lit the water;
+light laid bare the blow.
+The serpent's head split open;
+sea thunder swallowed its fall.
+Down sank the great body;
+darkness hid its sinking.
+
+No farther could eyes follow;
+no foot could sound that depth.
+The singer calls him victorious;
+the shore has need of victory.
+The little boat lay rocking
+where the broken foam drifted.
+Skalforv still held the hammer;
+strength had spent its hoard.
+
+Heavy now were his shoulders;
+heavy the faithful iron.
+Four dawns freighted his body;
+four days filled his bones.
+He turned toward the coastline,
+toward the threatened houses.
+Each pull promised a homeward pace;
+each wave put him to proof.
+
+Land lengthened from a dark line;
+low roofs rose in sight.
+Faces formed along the shore;
+fear gave way to calling.
+Thrúnvald's chosen champion,
+the people cried together.
+The boat came through the breakers;
+boots found steady earth.
+
+Hands helped the weary warrior;
+hospitality held him close.
+His laugh came hoarse with salt;
+his lips had learned exhaustion.
+Children crowded their defender;
+common folk claimed his care.
+The hammer rested beside him;
+his heart still heard their need.
+
+Gold could glitter elsewhere;
+grandeur could grace the proud.
+This wealth was worth his fighting:
+warm doors after danger,
+small hands safe for playing,
+shores where houses still stood.
+He bore no boast before it;
+he belonged beside those people.
+
+Beat wood upon the benches;
+bend ears toward the tale.
+One boat braved the whale-road;
+one hammer held the storm.
+Carry his courage coastward;
+carry care to your neighbor.
+The cups rise round the hearth;
+the sea rolls beyond it.
 ```
 
 ## See Also

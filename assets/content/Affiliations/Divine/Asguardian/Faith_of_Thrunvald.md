@@ -75,69 +75,143 @@ In artistic representations, Thrúnvald is often shown driving his chariot pulle
 : The Hammer Raised
 
 ```poetry {form=epic lang=en}
-Lift up the hammer; the sea has a voice.
-It speaks in the shingle, it shouts on the headland,
-it strikes at the harbor with fists full of foam.
-Thrúnvald stands where the dark water gathers,
-beard wet with storm and the lightning behind him.
-Thrúnhamarr rises, the weight of an answer;
-the pressure that comes against gods and the living
-will find that the Thunderer knows how to strike.
+Lift high the hammer;
+the sea has a voice.
+Shingle gives speech;
+the shore rocks answer.
+Fists full of foam
+fall on the harbor.
+Thrúnvald stands forth
+where dark water gathers.
+Storm wets his beard;
+the sky burns behind him.
+Thrúnhamarr rises,
+the weight of an answer.
+What presses the world
+finds power opposing.
+The Thunderer stands;
+the Thunderer strikes.
 
-The chariot passes; the goat hooves thunder.
-Cloud shoulders crowd where the coast looks upward.
-There is the arm that can shatter a mountain;
-there is the blow that can summon the flame
-that forks through the rain without waiting for sunrise.
-The hammer comes down, and the cliffs give their echo.
-The gulls wheel white through the black of the weather;
-the sea takes the sound to its farthest shore.
+Goat hooves thunder;
+the god's chariot passes.
+Cloud shoulders crowd
+where the coast looks upward.
+Mountain breaker,
+he masters the hammer.
+Lightning leaps forth;
+no dawn need kindle it.
+Thrúnhamarr falls;
+the cliffs cry answer.
+Gulls wheel white
+through the weather's blackness.
+The sea bears the sound
+to the farthest shore.
+Storm follows storm;
+still stands the defender.
 
-But hear how the hammer is named at the harbor,
-where a ship waits low with its cargo aboard.
-The godi lifts stone in the likeness of power;
-the crew bows close to the blessing they sought.
-War and the voyage have one hard threshold:
-a plank underfoot and deep water below.
-The weapon that answers the forces of ruin
-is also the sign laid upon the departing.
+Hear at the harbor
+how the hammer is honored.
+Low lies the ship
+with the lading aboard.
+The godi lifts stone,
+the likeness of strength.
+The crew bows close
+to the blessing they sought.
+War and the voyage
+have one hard threshold:
+a plank underfoot,
+the deep beneath it.
+The ruin breaker
+is raised in blessing.
+The god's great weapon
+hallows the departing.
 
-A blessing is heavy; it weighs on the bearer.
-Let no hand forget what the voyage will ask.
-A sail must be tended; a watch must be kept;
-a frightened companion must find you beside him.
-The storm does not read the name on a hull;
-the faithful still labor when prayers have been spoken.
-Thrúnvald's strength stands in the songs of the hofs;
-the crew's strength stands in the work of the crossing.
+Heavy the blessing;
+it burdens the bearer.
+Sail must be tended;
+the watch must be kept.
+A frightened shipmate
+must find you beside him.
+Storms cannot read
+the name on the hull.
+Hands hold the rope
+when prayers are spoken.
+Thrúnvald's strength
+stands in the hof songs.
+The crew's strength stands
+in the work of crossing.
+Salt stings the faces;
+still keep the watch.
 
-There comes a far day when the water is venom,
-when Heimsormr rises against the last field.
-The World-Wyrm is great in the telling of terror;
-the Thunderer meets it with Thrúnhamarr lifted.
-No mountain is broad enough now for his shadow;
-no harbor is deep enough now for the dying.
-He strikes, and the wyrm goes down under the hammer.
-The victory bites with the teeth of its cost.
+At the Iron Vigil
+rain runs bitter cold.
+One faithful watcher
+faces the night.
+Stone feels the storm;
+the sky takes his warmth.
+He holds the holy place
+while the headland darkens.
+No mountain breaker
+is borne in his fist.
+But watch answers watch,
+and the will stays waking.
+The hammer stone waits
+where his hand can touch it.
+He remembers the god;
+he remains at his keeping.
 
-One step from the blow, and another through poison;
-three, and the ground holds the weight of his foot.
-Four, and the hand has not loosened its purpose;
-five, and the breath of the sea seems far off.
-Six, with the venom still climbing within him;
-seven, beneath the approaching red sky.
-Eight is a step that no singer can lengthen.
-Nine, and the Thunderer falls before ten.
+Far comes the day
+when water is venom.
+Heimsormr rises
+against the last field.
+World-Wyrm, wide terror,
+meets the lifted hammer.
+Mountain has no breadth
+for the Thunderer's shadow.
+Harbor has no depth
+for the doom approaching.
+He strikes; the wyrm
+sinks beneath the blow.
+Victory bites;
+its venom goes with him.
+Thrúnhamarr answers;
+the answer is costly.
 
-Lift up the hammer beside the salt water;
-remember its weight when the daylight grows thin.
-The god knew the doom and went forth to answer.
-The god struck the thing that would otherwise stand.
-Thrúnhamarr speaks in the ship's first blessing,
-in the storm over stone, in the last fatal blow.
-Hold to your labor; keep faith with your fellows.
-The hammer is raised where the world needs defending.
-Its thunder goes out over those who sail onward.
+One step from striking;
+another through poison.
+Three: the ground holds
+the great foot's weight.
+Four: the hand keeps
+its hard held purpose.
+Five: far off
+seems the sea's breathing.
+Six: venom climbs;
+seven: sky reddens.
+Eight: no singer
+can lengthen that footfall.
+Nine: the Thunderer
+falls before ten.
+The stroke has been struck;
+the strength is spent.
+
+Lift high the hammer
+beside the salt water.
+Remember its weight
+when daylight wanes.
+The god knew doom;
+the god went forward.
+He struck the thing
+that else would stand.
+Thrúnhamarr speaks
+in the ship's first blessing,
+in storm over stone,
+in the last fell blow.
+Hold to your labor;
+hold faith with your fellows.
+The hammer is raised
+where the world needs defending.
+Thunder goes forth
+over those sailing onward.
 ```
 
 ## Sacred Objects

@@ -17,123 +17,223 @@ A paired coastal recitation sets Skalforv's sea battle beside the standard accou
 : The Wyrm in Two Tellings
 
 ```poetry {form=epic lang=en}
-Draw close; the sea is abroad in our singing.
-Heimsormr circles the listening hall.
-Earth in the clasp of a body beyond measuring;
-think of the water drawn upward when such a body turns.
-The little coast waits with its doors facing what approaches.
+Draw close, the deep calls;
+dark water enters our singing.
+Heimsormr, hear the huge name;
+hall walls narrow about it.
+Earth wears that endless coil;
+ocean shoulders its dreadful turning.
+Wide is the World-Wyrm's shadow;
+within it the villages wait.
+Sing small boat upon water;
+sing the shore needing shelter.
 
-The serpent thrashes, and the sea lifts its shoulders inland.
-A wave becomes a wall over houses.
-No village spear can reach that hunger;
-the hands that can mend a net cannot bind such a neck.
-Salt comes climbing where the smoke of their hearths should rise.
+The serpent stirs beneath sea;
+salt climbs the frightened coast.
+Waves wake as walls inland;
+water walks among the houses.
+Hearth-smoke should rise above roofs;
+here foam hisses through doorways.
+No net binds that neck;
+no spear can reach it.
+Hands hold the little children;
+hunger heaves beyond their grasp.
 
-Skalforv takes the small boat out into the rising water.
-His hammer is with him; Thrúnvald's blessings go into the storm.
-Behind him the roofs shrink into remembrance.
-Before him a world without shelter.
-One mortal body goes where the great body is turning.
+Skalforv shoulders his great hammer;
+small waits the boat below.
+Thrúnvald's blessing bears his asking;
+the threatened coast stays behind.
+The hull heads into darkness;
+homes dwindle beyond his sight.
+One body bears mortal strength;
+outside it the huge coil turns.
+Sing small boat upon water;
+sing the shore needing shelter.
 
-Small boat, sing storm in its wooden ribs.
-Sing the hammer hand, wet, stubborn, closing again.
-The coil makes a country of darkness beneath the black water;
-the head rises higher than hope would willingly follow.
-Skalforv looks upward; his arm has a blow left to give.
+Wood wears the sea's blows;
+water climbs the boat's ribs.
+Hard holds the hammer-hand fast;
+high heaves the serpent's head.
+The coil clouds the water;
+cliffs of flesh rise seaward.
+Skalforv sees the strength before him;
+still his own arm rises.
+One blow begins the battle;
+one breath buys another striking.
 
-First day: the rain makes a veil between eyes and the serpent.
-First night: the lightning gives shape to what darkness conceals.
-The hammer falls; thunder runs after the track of its striking.
-The boat pitches under the man who must rise with his weapon.
-No shore within reach while villages lie shadowed.
+First day, the falling rain;
+first night, the flashing sky.
+Lightning lays the serpent bare;
+long shadows close behind it.
+Hammer answers heaving hunger;
+hard strikes scatter the darkness.
+The boat bucks beneath him;
+boots must hold its boards.
+Far waits the flooded coast;
+fear shall not turn him.
 
-Second day: white teeth round the gunwale.
-Second night: the cold has the patience of stone in his bones.
-Breath must be won before a shout;
-a footing must hold before strength swings.
-Vast battle, labor counted in moments.
+Second day, the sea's teeth;
+second night, the stone-cold bones.
+The gunwale groans under water;
+grip hardens against wet timber.
+Breath must be won first;
+blows must follow firm footing.
+Great is the writhing body;
+grief waits beneath its shadow.
+Small is the boat bearing;
+strong is the man standing.
 
-Third day: the hammer keeps answering the serpent's great thrashing.
-Third night: each flash lays the sea bare, then buries it deeper.
-The god's name travels from the fighter's mouth.
-The wind tears it thin; still the next breath carries it outward.
-Small boat, sing the world leaning over its side.
+Third day, the thunder's hammer;
+third night, the thick darkness.
+Flash follows his fierce striking;
+foam flies from the hull.
+The god's name goes outward;
+gale tears it from hearing.
+Yet another breath bears it;
+yet the raised arm answers.
+Sing small boat upon water;
+sing the shore needing shelter.
 
-Fourth day: the blow the saga remembers.
-Skalforv gathers his strength into one terrible stroke.
-The serpent's head splits; its vast weight sinks into the depths.
-Water closes above it, folding the wound out of sight.
-The boat rides where the sea opens.
+Fourth day, the final gathering;
+fierce strength fills his shoulders.
+Skalforv swings the saving stroke;
+split falls the serpent's head.
+Deep draws the great body;
+dark folds the wound beneath.
+Waves wash over its sinking;
+water shuts above its going.
+The boat bears exhausted flesh;
+breath returns between the blows.
 
-Exhausted he returns, and the shore is crowded with voices.
-They hail the champion chosen by Thrúnvald for their defense.
-Let their joy have its hour; let the children look up at him.
-The hammer lies by hands too tired for boasting.
-The sea has given them room for their lives to go on.
+Shoreward comes the shattered strength;
+shouts rise from crowded houses.
+Chosen champion, the coast calls;
+children press beside their elders.
+Thrúnvald's name thunders through welcome;
+the tired hand lowers iron.
+Rest receives the heavy hammer;
+roofs keep their people sheltered.
+Joy joins the gathered voices;
+just now their lives continue.
 
-There, dark water covers the monster.
-Lift the cup; lean toward the fire.
-Breathe like a crew after the storm loosens.
-Their own roofs are near, and their own children sleep under timber.
-They hold that ending as closely as hands hold a warm bowl.
+Lift the cup to returning;
+let the low fire answer.
+Dark water covers the monster;
+doorways open to the living.
+A bowl warms weary fingers;
+bread breaks in the hearthlight.
+Outside the ocean keeps moving;
+inside the benches hold neighbors.
+Sing small boat upon water;
+sing the shore keeping shelter.
 
-Now leave a silence. Leave room for another beginning.
-The fire in the hearth makes a small sound after the shouting.
-Heimsormr remains the name at the edge of our hearing,
-but the sea encounter gives way to the doom of the age.
-The hero's return cannot carry the god home from that field.
+Now name the waiting silence;
+now the cup halts again.
+Fire makes its faint speech;
+faces turn to the singer.
+Heimsormr holds the huge name;
+here another telling opens.
+Sea gives way to doom;
+song turns toward the muster.
+The champion's cheer cannot carry
+the god home from falling.
 
-Aldarlok comes in the words kept for the final muster.
-Vígvöll receives the defenders; the great ash waits for the flame.
-The Thunderer faces the World-Wyrm with his hammer lifted.
-The hand that blesses ships has its last enemy before it.
-The guarded world presses close in that moment.
+Aldarlok opens the last field;
+all its defenders gather there.
+Vígvöll waits beneath their feet;
+vast is the approaching fire.
+The ash awaits its burning;
+Asguard stands beneath that doom.
+Thrúnvald faces the great wyrm;
+the hammer rises above him.
+The hand that hallows ships
+holds its last enemy before it.
 
-Here no fourth morning offers the warrior welcome at shore.
-Here the venom lies in the victory as sharp as the fangs.
-Thrúnvald strikes Heimsormr down, and the wyrm's death is terrible.
-The hammer has answered the hunger that rises against him;
-the poison has entered the strength that has given the answer.
+Here comes no harbor welcome;
+here the dark venom waits.
+Heimsormr heaves against the god;
+high hangs the answering hammer.
+Down drops the deadly stroke;
+down falls the World-Wyrm's body.
+Venom visits the victorious strength;
+victory bears its bitter burden.
+The great blow gives death;
+the god carries death within.
 
-One step: let the hall hear the foot falling heavy.
-Two steps: let the breathing be heard beneath thunder.
-Three steps: the distance grows narrow, though courage remains great.
-Four steps: the weapon weighs what the dying hand cannot alter.
-Five steps: the listeners hold their own hands still by the fire.
+One, the old earth hears;
+one foot falls upon Vígvöll.
+Two, the Thunderer walks onward;
+two feet bear his breathing.
+Three, the third step follows;
+threatened strength still holds him.
+Four, the footfall sounds heavy;
+fate follows beside his going.
+Five, the failing body walks;
+five steps have been taken.
 
-Six steps: remember the coast and the ship asking blessing.
-Seven steps: remember the roofs that the storm presses inward.
-Eight steps: remember the arm raised where the world's boundary trembles.
-Nine steps: the god falls, and the venom has finished its work.
-No tenth step belongs to the standard song of the battle.
+Six, the sea-blessing remembered;
+ships wait beneath changing heaven.
+Seven, the sheltered roofs remembered;
+storms shall return upon them.
+Eight, the arm defending remembered;
+earth held against hungry darkness.
+Nine, the last step taken;
+night gathers upon the Thunderer.
+The venom ends his breathing;
+victory stands beside his falling.
 
-There the priesthood keeps victory beside death without flinching.
-The wyrm is struck down; the defender has spent his whole strength.
-No bargain returns him to take the acclaim of a village;
-no hand lifts his cup at the feast.
-The song leaves him fallen, and gives his defiance its weight.
+The tenth lies beyond telling;
+the Thunderer's feet go still.
+The priesthood praises this victory;
+price fills the breath of praise.
+The wyrm lies struck down;
+the wielder spent his strength.
+No welcome waves him homeward;
+no warm cup finds his hand.
+Sing nine steps upon Vígvöll;
+sing the strength spent defending.
 
-Hear both accounts with the names that their singers have given.
-Hear the split head sinking, the champion returning exhausted.
-Hear the god walking nine steps after the last hammer stroke.
-We have no bridge of words to lay over that difference.
-The silence between them must carry what neither has answered.
+Hear the head split seaward;
+hear the hero returning exhausted.
+Hear the hammer held upward;
+hear nine steps after striking.
+Two tellings bear the name;
+two burdens rest in hearing.
+No bridge binds their difference;
+no boast gives them agreement.
+Keep both tellings whole;
+keep the silence between them.
 
-Outside, dark water keeps moving beyond the reach of our fire.
-A fisherman dreams of a net full of ordinary silver;
-a child turns in sleep at a sound that is only the wind.
-The vast coil belongs to the songs; their lives need protecting.
-A defender is praised for the danger faced on their behalf.
+Deep lies the unlit water;
+dark moves beyond our fire.
+A fisherman folds his hands;
+faint silver swims through dreaming.
+A child curls beneath blankets;
+close breath warms the pillow.
+Wind walks beside the doorway;
+weary hearts need no monsters.
+The coast keeps its children;
+courage goes where hunger threatens.
 
-So carry the sea tale whole to the next waiting hearth.
-Carry the last steps whole when the age's close is remembered.
-Keep the joy of return and the grief of the fallen defender.
-Each asks a full hearing; each places a weight in the hand.
-The name of Heimsormr goes with them, deep as the unlit water.
+Carry the champion's tale whole;
+carry its joy of returning.
+Carry the god's steps whole;
+carry the grief of falling.
+Both bear their full weight;
+both ask the gathered hearing.
+Heimsormr, hold the huge name;
+hall walls narrow about it.
+Sing small boat upon water;
+sing nine steps upon Vígvöll.
 
-The cup passes round. Someone rises to tend the low embers.
-The door shudders once, and a neighbor sets wood against it.
-What can be held is held while the dark waits outside.
-Sing small boat. Sing nine steps. Let the listening endure.
-The shore keeps watch, and the fire keeps our faces together.
+Low lies the hearth's light;
+logs settle beneath red embers.
+A neighbor kneels with kindling;
+new flames climb around wood.
+The door drums beneath wind;
+deft hands set it firm.
+What holds shall be held;
+what harms shall be faced.
+The coast keeps watch;
+close fire gathers our faces.
 ```

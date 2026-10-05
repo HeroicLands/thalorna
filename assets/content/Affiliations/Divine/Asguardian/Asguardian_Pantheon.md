@@ -89,136 +89,298 @@ Professional clergy are supplemented by the **volur**—itinerant seeresses, not
 : The Ten and the Last Muster
 
 ```poetry {form=epic lang=en}
-Gather the hall to the song of the Ten.
-Let the cup be passed; let the names be spoken.
-Before there was ground for the feet of a child,
-before there was timber to hold up a roof,
-the gods and the giant-kin came into battle.
-The Thursaett broke, and the beaten were banished;
-Thursguard received them, and no tale goes inward.
-Hrímthur was killed at the close of the fighting.
-The Ten cut Mannguard out of his body.
-The earth underfoot is the wound of that making.
+Gather the hall;
+hear the Ten named.
+Cup follows cup;
+the company listens.
+Before ground bore
+feet of children,
+before timber stood
+against the weather,
+gods and giant-kin
+joined in battle.
+Thursaett broke;
+the beaten were banished.
+Thursguard received them;
+no tale goes inward.
+One giant fell;
+Hrímthur lay slaughtered.
+Victory was won
+before earth was fashioned.
 
-All ten together accomplished that victory.
-Then each went away to the work of his choosing;
-the quarrels and bonds came after the war.
-The world did not settle into perfect agreement.
-Ódvar kept knowledge; Thrúnvald kept thunder;
-Eidgar the oath, and Fródvin the growing.
-Sólrún kept love and the wealth freely given;
-Bjartr the light and the dreams of the elders.
-Mótefnir made, with the making unfinished;
-Vélgrímr bent cunning around every certainty.
+The Ten cut Mannguard
+out of his body.
+Ground underfoot
+is the wound of making.
+All Ten together
+accomplished that victory.
+Then each went forth
+to his own choosing.
+Bonds came after;
+quarrels came after.
+The world stood firm,
+but no peace bound them.
+No singer may smooth
+all strife to silence.
+The founding blood
+is beneath each building.
+The ground remembers
+what the gods accomplished.
 
-Náhild despised what the living hold precious;
-Svartbrandr kept fire and the fury of battle.
-Ten are the names, but no singer should gather
-the names into peace that their deeds have not made.
-The defending kin stand by their common necessity,
-by what they resist when destruction comes near.
-The gods have favorites; the gods can be mistaken.
-A quarrel may echo between their own halls.
-Their worth is the thing they will stand up against,
-and the cost they will pay to remain at that standing.
+Ódvar keeps knowledge;
+Thrúnvald keeps thunder.
+Eidgar keeps oaths;
+Fródvin keeps growing.
+Sólrún keeps love
+and wealth freely given.
+Bjartr keeps light
+and dreams of elders.
+Mótefnir makes;
+his making stays unfinished.
+Vélgrímr bends cunning
+round firm held certainty.
+Náhild despises
+what the living love.
+Svartbrandr keeps fire
+and fierce battle fury.
+Ten are the names;
+no peace joins all Ten.
 
-Heimsask grows through the worlds that we share:
-rooted in Asguard and crowned over Mannguard.
-The gods have their halls in the world of the gods;
-the living build houses on ground they must leave.
-Valsal and Sólvangr gather the worthy;
-Eldheim keeps fire; Nulthey takes the unworthy.
-The great island holds those who dwindle toward nothing;
-Náhild is heedless of all that they lose.
-The tree holds the worlds in the fate of one growth.
-When Heimsask burns, both worlds burn with it.
+Defending kin stand
+by common necessity.
+Against corruption,
+their cause holds them.
+Against destruction,
+their will gives answer.
+Gods have favorites;
+gods make mistakes.
+Hall speaks against hall;
+the quarrel has echoes.
+Náhild opposes
+the breath of living.
+Svartbrandr brings
+what burns the world's making.
+Worth is the thing
+they will stand against.
+Worth is the cost
+they will bear in standing.
 
-Who are the worthy whose names fill the benches?
-Warriors fallen with duty before them;
-oath-keepers dying in keeping their word;
-mothers whose lives end in bringing forth life;
-craftsmen who fall in defense of their making.
-Ódvarshöll gathers beneath shielded rafters;
-Sólrúnshöll shines with its long lighted tables.
-Valdrengir, honored and waiting together,
-are gathered for war at the close of the age.
-They know what is coming; the knowledge stays with them.
+Heimsask grows
+through worlds we share.
+Roots hold Asguard;
+Mannguard has the crown.
+Gods have their halls;
+the living build houses.
+The living have ground
+that all must leave.
+Valsal gathers;
+Sólvangr welcomes.
+Eldheim keeps fire;
+Nulthey takes unworthy.
+The island holds them;
+they dwindle toward nothing.
+Náhild heeds none
+of their slow losses.
+The tree binds worlds;
+its burning burns both.
 
-In Valsal the warriors fight every morning;
-by evening their wounds have released them to feasting.
-They learn for the battle that ends all returning.
-The living pour mead and partake in their feast.
-At hofs and at hearthstones the offerings are shared;
-at tings the sworn word takes the weight of its witness.
-A völva hears questions from high in the hall;
-the rune-staves describe the deep currents of choosing.
-The people have work under all these observances:
-to keep faith with each other while time is still theirs.
+Who claims the bench
+where the worthy are gathered?
+Warriors fallen
+with duty before them.
+Oath-keepers dying
+with words held true.
+Mothers whose lives
+end in bringing life.
+Craftsmen who fall
+defending their making.
+Ódvarshöll opens
+under shielded rafters.
+Sólrúnshöll shines
+with long lighted tables.
+Valdrengir wait;
+the worthy stand ready.
+War at the ending
+awaits their gathering.
 
-At Jól the twelve nights are bright in the hofs;
-the dark leans close to the light at the windows.
-The dead are invited; the hearth receives blessing;
-the song goes from its first war to ashes.
-A spoon rests still in the hand of a listener.
-A child's heel ceases beating the bench.
-The flames lick upward; the names travel onward.
-The feast holds its breath as the age approaches
-that no singer can mark on parchment.
+In Valsal, warriors
+wake to fighting.
+Evening unwinds
+the wounds that held them.
+Feast follows battle;
+they find their benches.
+They train for the day
+that ends all returning.
+The living pour mead;
+feast joins feast.
+At hofs and hearthstones
+the offerings are shared.
+At tings, sworn words
+take weight from witnesses.
+The folk have work
+under each observance:
+to keep faith together
+while time is theirs.
 
-Ódvar has sought what the final age carries,
-and wisdom has given him sight of his death.
-The gods keep their halls with that knowledge among them;
-the honored dead train for a muster that fails.
-The song gives the shape of the end to the hearing:
-Eldheim opens; Svartbrandr comes riding,
-fire-kin behind him and burning before him.
-Vetrúlfr slips free, and the wolf-winter follows.
-The chain cannot hold the last cold from the world.
-The halls of the worthy give back their companies.
+A völva sits high;
+the household asks counsel.
+Questions have weight
+when winter is coming.
+Rune-staves are read;
+the currents have shape.
+They show where choosing
+must meet its measure.
+Mead wets the stone;
+the first pour is offered.
+Bread breaks for sharing;
+the blót brings together
+the gods and the folk,
+the dead and the breathing.
+An oath finds witness
+under the god's attention.
+A word spoken freely
+binds the mouth that made it.
+Break that binding,
+and trust goes broken.
+Keep that binding,
+and the hall holds shelter.
+The tongue has its task;
+the hand has its keeping.
 
-Valsal empties, and Sólvangr empties;
-Vígvöll receives the great muster of honor.
-The dead take their places beside the defending gods.
-The field has no promise to make them of triumph.
-Vélgrímr stands with Svartbrandr against his kin;
-the cunning that served them has turned at the ending.
-Ódvar goes forward to meet the Winter-Wolf.
-The wolf takes the father; the son takes the wolf.
-The two deaths follow as sung in the telling;
-wisdom and fury lie fallen in turn.
+At Jól, twelve nights
+are bright in the hofs.
+Darkness leans close
+to lighted windows.
+The dead are invited;
+the hearth receives blessing.
+The song goes whole
+from first war to ashes.
+A spoon rests still
+in the listener's hand.
+A young child stops beating
+his heel on the bench.
+Flame licks upward;
+the names go onward.
+The feast holds breath;
+the age draws nearer.
+No skald can mark
+the day on parchment.
 
-Thrúnvald strikes Heimsormr, the great World-Wyrm;
-Thrúnhamarr answers the rising of terror.
-The wyrm goes down, but its venom goes with him.
-Nine steps he walks from the stroke of the hammer;
-the tenth never sounds on the earth he defended.
-Eidgar encounters his long-chained adversary;
-their struggle destroys them together at last.
-Fródvin meets Svartbrandr himself in the fighting.
-The Healer falls under the Destroyer's blade.
-Let the hall hear the losses without looking away.
+Ódvar sought knowledge
+of the world's ending.
+Wisdom gave sight
+of his own death.
+Still, gods keep halls;
+still, guests are gathered.
+Still, honored dead
+train for lost battle.
+The song gives shape
+to the last shadow.
+Eldheim opens;
+Svartbrandr rides forth.
+Fire-kin follow;
+burning goes before him.
+Vetrúlfr slips free;
+the wolf-winter follows.
+The chain cannot hold
+the world's last cold.
 
-Svartbrandr burns all the remnant of battle.
-The fire takes the worlds, and the world-ash falls last.
-Mannguard and Asguard go down in its burning;
-the age has its close in the fall of the tree.
-Yet out of the ashes a remnant will rise,
-and a remade world will be kindled from coals.
-Ground and weather, people and gods:
-the first morning comes with the work of a morning.
-The Ten do not stand in the age that comes after.
-Their heirs inherit the world beyond flame.
+Valsal goes forth;
+Sólvangr empties.
+Vígvöll receives
+the muster of honor.
+The dead draw up
+beside defending gods.
+The field promises
+no triumph to them.
+Vélgrímr stands
+with Svartbrandr against kin.
+Cunning has turned
+at the time of ending.
+Ódvar goes forward;
+the Winter-Wolf meets him.
+Wolf takes father;
+son takes wolf.
+Wisdom and fury
+lie fallen in turn.
 
-So runs the great telling the skald gives the hall.
-The rune-priests speak of the branches of wyrd,
-of choices not made in the lives of the living,
-of some part of doom that might yet be shifted.
-They name no reward and make no promise of rescue;
-no listener owns a spared corner by hearing.
-Rise from the bench with the word still upon you.
-Keep what you swore; give the guest his portion.
-The gods know the fire, and the gods still defend.
-The worthy know loss, and the worthy still gather.
+Thrúnvald strikes
+Heimsormr, the World-Wyrm.
+Thrúnhamarr answers
+the rising of terror.
+The wyrm falls down;
+venom goes with him.
+Nine steps he walks
+from the hammer's blow.
+No tenth foot sounds
+on earth he defended.
+Eidgar encounters
+his long-chained adversary.
+Struggle destroys
+both foes together.
+Fródvin meets
+Svartbrandr in battle.
+The Healer falls
+under the Destroyer's blade.
+
+Hear each loss;
+let the hall face sorrow.
+No singer should steal
+what the standing cost them.
+Fire takes all
+that fighting left.
+Svartbrandr burns;
+the world-ash falls last.
+Mannguard and Asguard
+go down together.
+The age has its close
+in the ash tree's falling.
+Ground and roof,
+gold and harvest,
+what hands once held
+has the heat for its master.
+Heimsask falls;
+the hall hears silence.
+
+Yet ashes give way
+to another morning.
+A remnant rises;
+coals kindle the world.
+Ground and weather,
+people and gods:
+the first dawn brings
+the work of dawning.
+The Ten do not stand
+in that coming age.
+Their heirs inherit
+the world beyond flame.
+The dead remain dead;
+the loss is not lightened.
+The gift goes onward;
+its givers are gone.
+What follows the fire
+is the fruit of their making.
+
+So runs the telling;
+the skald has sung.
+Rune-priests hear branches
+in the growth of wyrd.
+Choices still live
+in lives of the living.
+Some doom might shift
+under deeds still unmade.
+No rescue is promised;
+no reward is named.
+No hearer holds
+one spared corner.
+Rise from the bench;
+remember the word.
+Keep what you swore;
+give the guest his portion.
+The gods know fire;
+the gods still defend.
+The worthy know loss;
+the worthy still gather.
 ```
 
 ## Sacrifice, Oath, and Blót

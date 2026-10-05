@@ -13,134 +13,270 @@ Valdrengir names the honored dead gathered into the defending gods’ halls to w
 : The Muster of the Worthy
 
 ```poetry {form=epic lang=en}
-Who comes through the doors when the spear roofs shine?
-Who takes the bench where the great fire waits?
-Ask of the earth with its uncounted graves;
-ask of the sea with its mouths full of names.
-The answer rises through iron and linen,
-through broken shields and the bloodied birthbed.
-A hall may remember the clash of a sword;
-a hall must remember the cost of a cradle.
-Call them together, the worthy departed:
-Valdrengir, gathered against the last morning.
+Who comes to the doors,
+where the spear roofs shine?
+Who sits by the fire,
+where the shields are rafters?
+Ask of the earth,
+of its uncounted endings;
+ask of the sea,
+of its mouths full of names.
+The grave gives answer;
+the good are gathered.
+Iron and linen,
+each has its witness.
+The shield has its slain;
+the cradle its silence.
+Call them, the worthy;
+call them together.
+Valdrengir, waiting,
+watch for the morning.
 
-Here is the warrior carried from battle,
-whose shield held fast when the shield beside failed.
-He remembers the weight of a comrade falling,
-the rain in the rivets, the mud at his knees.
-No skald need brighten the wound that took him;
-he brought his death without borrowing glory.
-Under the rafters of Ódvarshöll
-he sets his hands on the board and listens.
-The cup goes round; the fire burns steadily.
-The door stands wide for the next to enter.
+Here comes the shieldman,
+shouldered from battle.
+His board held fast;
+the board beside broke.
+Rain ran in rivets;
+his knees knew mud.
+He bore his fellow;
+he felt him falling.
+No gold on the wound
+need gild his going.
+He brought his own death;
+he borrowed no glory.
+Ódvarshöll opens;
+the old fire welcomes.
+Hands find the board;
+the hall hears breathing.
+Cup follows cup;
+the company listens.
+The door stands wide
+for the next dead guest.
 
-Here is the keeper who kept the sworn word,
-when a word was dearer than breath in winter.
-No banner flew over the place of that dying;
-no horse bore tidings to stir a king.
-The witnesses lived, and the promise held.
-Those were the things that the dead one defended.
-Let singers reckon a life by its ending;
-let none mistake silence for absence of courage.
-A tongue that could break and chose to be faithful
-has earned its answer among these voices.
+Here comes the sworn one,
+whose speech stayed binding.
+Winter took breath;
+his word outlasted it.
+No banner flew
+above his ending;
+no horse bore news
+for a king to hear.
+But witnesses lived;
+the word stood fast.
+That was his keeping;
+that was his courage.
+Silent his going;
+strong was his promise.
+Let singers reckon
+what silence defended.
+A tongue might break;
+this tongue held true.
+Now voices welcome
+the vow's own keeper.
 
-Here is the mother whose breathing faltered
-while another breath opened its claim on the world.
-Her hands remember the work of living,
-the warm small weight that she cannot carry.
-Do not put steel in her story for honor;
-do not steal blood from the place where it fell.
-The cradle belongs in the song of the muster,
-the childbed belongs in the reckonings here.
-The golden hall has room at its tables;
-Sólrún gathers by her own measure.
+Here comes the mother,
+whose breath met darkness.
+Another breath opened;
+another life answered.
+Her hands knew living;
+her hands knew labor.
+The warm small weight
+is borne by others.
+No sword need shine
+to make her worthy.
+No blood be borrowed
+from fields of battle.
+The cradle has claim
+in the cry of the muster;
+the childbed has claim
+where courage is counted.
+Sólrún gives welcome;
+her gold hall gathers.
+There, by her measure,
+the mother is seated.
 
-Here is the maker who stood by the making,
-who fell where the fire could have taken the work.
-A beam, a boat, a vessel of clay:
-small things to set against death, say the careless.
-Small things that shelter the hands of the living;
-small things that keep out the rain and the hunger.
-The craftsman knew what destruction would cost.
-Let the smooth king's cup remember the potter;
-let the ship under sail remember the adze.
-The worthy are gathered from more than the battlefield.
+Here comes the maker,
+who met destruction.
+He fell by the work
+his fingers fashioned.
+A beam, a boat,
+a vessel of clay:
+small things, say fools,
+to set against death.
+Small things give shelter;
+small things stay hunger.
+Hands of the living
+have need of such making.
+The craftsman counted
+the cost of ruin.
+Let the king's smooth cup
+keep faith with the potter.
+Let the sail borne ship
+sing praise of the adze.
+The worthy are wider
+than ranks of warriors.
 
-In Valsal the morning is bright upon weapons;
-the fighters go forth where the day's blows wait.
-A blade finds flesh, and a shield splits open;
-the field takes the weight of the fallen again.
-By evening the wounds have released their hold,
-and hands that were cold find the cup and the bread.
-They feast beneath shields; they practice the battle;
-they do not mistake their return for a promise.
-One morning will come with no evening to follow.
-They learn for that morning; they learn together.
+In Valsal, morning
+makes bright the weapons.
+Fighters go forth;
+the field awaits them.
+Blade bites flesh;
+the buckler is broken.
+The ground gets weight
+of the fallen again.
+At evening wounds
+unwind their keeping.
+Cold hands claim bread;
+the cup goes round.
+Under shields they feast;
+for shield storm they practice.
+No return is promised
+by this returning.
+One morning must come
+with no evening after.
+They learn for that day;
+they learn together.
 
-Across Sólvangr the tables are lighted;
-worked timber glows under gold freely given.
-There is the seat that the goddess appoints,
-there is the welcome before the question.
-Ódvar keeps worth in the place on his benches;
-Sólrún may move whom she pleases to move.
-Their halls have different ways of receiving;
-the dead have one day toward which they are gathered.
-No singer need smooth every difference between them
-to hear the same darkness beyond both doors.
+On Sólvangr, tables
+stand bright with welcome.
+Worked timber glows;
+the gold is given.
+The goddess appoints
+the guest his seating.
+Her welcome comes first;
+her questions follow.
+Ódvar keeps worth
+in the place on the bench.
+Sólrún moves guests
+as her measure bids.
+Different their halls;
+one darkness approaches.
+The dead have one day
+toward which they gather.
+No singer need smooth
+each strife between them.
+Both doors face darkness;
+both halls have courage.
 
-The living pour mead where the hearthstones are warm.
-The dead are eating; we join in their feast.
-A child hears the names and asks after the faces;
-an old hand points to the place of a grave.
-Tell what was kept when the keeping was costly.
-Tell what was made and defended from ruin.
-Tell of the word that outlasted the speaker.
-Tell of the mother whose child hears the telling.
-Our cups have rims, and our days have endings;
-we drink with those gathered beyond our sight.
+The living pour mead
+where the hearthstones warm.
+The dead are dining;
+we drink beside them.
+A child asks names;
+an elder shows graves.
+Tell of the keeping
+when keeping was costly.
+Tell of the work
+warded from ruin.
+Tell of the word
+that outlasted its speaker.
+Tell of the mother;
+her child hears the telling.
+Our cups have rims;
+our days have endings.
+Still, feast joins feast;
+still, names are spoken.
+We drink with the gathered,
+the guests beyond sight.
 
-Do not call waiting an empty existence.
-The living grow tired of the watch before dawn;
-the dead keep watch through the years of the living.
-Their patience is neither forgetfulness nor sleep.
-Their vigil belongs to tomorrow.
-Beyond every feast is the plain they must enter;
-beyond every practice the wound that stays open.
-They know, and the knowing has not shut the doorway.
-They know, and the welcome still answers each arrival.
+Waiting is work;
+the watch is unbroken.
+The living grow weary
+before the dawn whitens.
+The dead keep watch
+through days of the living.
+Their patience remembers;
+their purpose wakes.
+Behind each feast
+is the field they must enter.
+Beyond each practice,
+the wound that stays open.
+They know, yet the doorway
+knows no barring.
+They know, yet welcome
+meets each arrival.
+Their vigil holds fast;
+their voices answer.
+The night may grow long;
+no name is forgotten.
 
-Then Eldheim opens; then winter comes walking.
-The halls that held voices give back their host.
-The broad doors were built for a morning like this;
-companies pass where the long benches emptied.
-Valsal goes out, and Sólvangr goes out,
-and Vígvöll receives the feet of the worthy.
-The shield and the oath and the cradle remembered,
-the hammer that shaped and the hand that defended:
-all that was honor draws up by the gods.
-All that was honor knows fire is coming.
+They name what they guarded:
+the gate in the rain,
+the word before witnesses,
+the cradle at dawn,
+the clay on the wheel,
+the keel under canvas.
+Names fill the silence;
+the north lives in names.
+One remembers a doorway;
+one remembers a child.
+One feels the old rope
+running rough through his worn fingers.
+One hears the oath spoken
+when speaking was dangerous.
+The feast holds their voices;
+the field will receive them.
 
-Ódvar goes where the Winter-Wolf waits;
-Thrúnvald goes where the World-Wyrm rises.
-Eidgar goes toward his ancient adversary;
-Fródvin faces the blade of Svartbrandr.
-The dead do not ask that the gods stand behind them;
-the gods do not ask that the dead go alone.
-The muster is made where the world has no shelter,
-where knowledge of ruin has gathered no rust
-on the edge of a will that still chooses to answer.
-Call them together; the last field is listening.
+Then Eldheim opens;
+then winter walks.
+The halls give back
+the host they harbored.
+Broad were the doors
+for a dawn like this.
+Companies pass;
+the cups stand empty.
+Valsal goes forth;
+Sólvangr follows.
+Vígvöll welcomes
+the feet of the worthy.
+Shield and sworn word,
+the cradle remembered;
+hammer of making,
+the hand that defended:
+all honor musters
+alongside the gods.
+All honor knows
+that fire is coming.
 
-What wage for the hand that is raised against burning?
-What bargain can honor strike up with the ash?
-The rune-priests speak of the branches of wyrd,
-of choices still living within the last shadow.
-They name no reward for the choosing of courage;
-the singers must not put a price on the dead.
-The remnant will rise when this age has fallen;
-the Ten will not rule in the morning beyond it.
-Here stand the worthy with all they can offer:
-a life that kept faith, and a death that keeps answering.
+Ódvar goes forth
+where the Winter-Wolf waits.
+Thrúnvald goes forth
+where the World-Wyrm rises.
+Eidgar approaches
+his ancient adversary.
+Fródvin faces
+Svartbrandr's fire blade.
+The dead do not bid
+the gods stand behind them.
+The gods do not bid
+the dead go alone.
+The muster is made
+where no shelter remains.
+Knowledge of ruin
+has rusted no will.
+The edge still answers;
+the arm still rises.
+Call them together;
+the last field listens.
+
+What wage for the hand
+raised high against burning?
+What bargain of honor
+is binding on ash?
+Rune-priests hear branches
+in the growth of wyrd.
+Choices still live
+in the last age's shadow.
+No price is promised
+for the proof of courage.
+No singer may sell
+the souls of the dead.
+A remnant will rise
+when the age lies fallen.
+The Ten do not rule
+in the dawn beyond it.
+Here stand the worthy;
+here all is offered:
+a life that kept faith,
+a death still answering.
 ```

@@ -23,128 +23,271 @@ The whole of it gives the faith its gravity and its particular cheerfulness. A p
 : While the Ash Stands
 
 ```poetry {form=epic lang=en}
-Tell of the ash while the ash is standing.
-Tell of the crown over Mannguard's roofs,
-of the root in Asguard, the worlds in one growth,
-of the shade that reaches the living and dead.
-The child at the hearth has a branch in his fingers;
-he turns it and asks where the great tree ends.
-The skald takes breath where the room has grown quiet.
-The answer is larger than any one hearth,
-and small as the coal in the hand of the fire.
-Listen: the age has a close to its name.
+Tell of the ash
+while the ash is standing.
+Tell of the crown
+over Mannguard's roofs.
+Asguard holds roots;
+two worlds share growth.
+Shade reaches living;
+shade shelters dead.
+The child at the hearth
+turns a twig in his fingers.
+“Where ends the tree?”
+The telling grows quiet.
+The skald takes breath;
+the benches listen.
+Wide as the worlds,
+small as a coal,
+the answer approaches:
+this age has a close.
 
-The gods have known what the songs will tell us.
-Ódvar sought wisdom and found his own dying.
-The finding did not leave his high seat empty;
-the halls still gathered, the offerings came.
-The oaths held weight in the mouths of the speakers;
-the gods kept their work with the end in their keeping.
-If knowledge were shelter, their halls would stand always.
-If foresight were armor, no venom would enter.
-But seeing the flame does not spare us the burning;
-the eye that has looked must decide how to answer.
+The gods know doom;
+the gods go onward.
+Ódvar sought wisdom,
+and saw his dying.
+Still stands his high seat;
+still guests are gathered.
+Offerings come;
+the oath keeps weight.
+The gods keep work
+with the end in their keeping.
+Knowledge makes no roof
+against the coming ruin.
+Sight makes no shield
+against the venom's striking.
+The seeing eye
+must answer the burning.
+The hand that knows
+must choose its work.
 
-The seasons turn under the crown of the ash.
-Bread comes from the field, and the child grows taller;
-a ship goes out with the shore at its stern.
-Men swear at the ting, and the witnesses listen;
-a woman gives gold with no count of its worth.
-The present is full of things worthy of doing.
-The end does not empty the cup before drinking;
-the end does not rot every beam of the house.
-The age has a close, and the day has a duty.
-Take up that duty while morning is yours.
+Seasons turn
+under the ash crown.
+Bread leaves the field;
+the child grows tall.
+A ship goes forth;
+the shore falls behind it.
+Words bind at the ting;
+the witnesses listen.
+Gold freely given
+gleams in a palm.
+The present has work
+well worth the doing.
+The end drains no cup
+before the drinking.
+The age has a close;
+the day has a duty.
+Take up that duty
+while morning is yours.
 
-Then Eldheim opens its terrible threshold.
-Svartbrandr rides out with the fire-kin behind him;
-the burning realm sends its host into war.
-Vetrúlfr slips free of the chain that constrained him.
-The Winter-Wolf comes, and the wolf-winter follows;
-cold finds the marrow, and darkness the doors.
-The singers give signs but no date for the reckoning;
-the last season cannot be booked like a voyage.
-It comes in the telling with ruin before it.
-The tree casts a shadow upon the last muster.
+Broken oaths bite
+at the years remaining.
+Trust rots slowly;
+the roof beam weakens.
+Náhild's appetites
+nourish the darkness.
+The cruel fire faithful
+feed ruin's hunger.
+Such deeds shorten
+what the defenders keep.
+The ending is hastened
+where honor is squandered.
+The child hears this
+with the twig held tightly.
+A word can be kept;
+a wrong can be answered.
+Hands that tend hearths
+have work against winter.
+The dry wood gives warmth;
+the word gives shelter.
 
-From Valsal the honored dead go forth together;
-from Sólvangr come those the Golden One gathered.
-The tables stand empty, the benches are silent;
-the cups have no hands when the companies leave.
-Warriors, oath-keepers, mothers and makers,
-the lives that kept honor at cost of their ending,
-draw up on Vígvöll beside the defenders.
-The gods do not hide what awaits on the plain.
-The dead do not turn from the knowledge they carry.
-Their feet make the field into witness of choosing.
+No king can levy
+more days for the gods.
+No hoard can ransom
+the roof from its burning.
+Gold on the table
+will glow and be gone.
+Iron in weapons
+will lose its hard temper.
+Still, hands pass gold;
+still, iron is lifted.
+The gift has its worth
+in the time of giving.
+The blade has its worth
+in the will that bears it.
+The doomed world holds
+what is dear to the living.
+The dear demands care,
+though darkness will claim it.
 
-Ódvar encounters the wolf of the winter.
-Wisdom goes down in the mouth of the beast.
-The son meets Vetrúlfr, and the wolf falls after;
-the singer must give both their deaths to the hearing.
-Thrúnvald lifts Thrúnhamarr against Heimsormr;
-the World-Wyrm falls to the Thunderer's blow.
-He walks from the striking with venom inside him.
-Count nine steps only; the tenth has no footfall.
-No cry from the living can lengthen that measure.
-No praise can turn poison aside from the heart.
+Then Eldheim opens
+its threshold of terror.
+Svartbrandr rides forth;
+fire-kin follow.
+The burning realm
+bears its host to war.
+Vetrúlfr slips free;
+the fetter fails.
+The Winter-Wolf comes;
+the wolf-winter follows.
+Cold claws marrow;
+darkness crowds doors.
+Signs tell the ending;
+no date gives certainty.
+The last season comes
+unbooked by the living.
+The ash casts shadow
+on the last muster.
 
-Eidgar goes out to his long-chained adversary;
-the meeting destroys them together at last.
-Fródvin, whose name is the field's healing promise,
-stands where Svartbrandr comes forward with fire.
-The god of the growing is cut down before him.
-The harvest has no hand to carry it home.
-Speak each loss plainly; give sorrow its portion.
-The singer who makes all the fallen victorious
-has stolen the cost from the courage they offered.
-The fallen are worthy with nothing concealed.
+From Valsal go forth
+the worthy together.
+From Sólvangr come
+those Sólrún gathered.
+Tables stand empty;
+the benches are silent.
+Hands leave cups
+when the host goes onward.
+Warriors, oath-keepers,
+mothers and makers:
+honor held dear
+at the cost of dying.
+Vígvöll waits;
+the defenders draw up.
+The gods hide nothing;
+the dead stand firm.
+Their feet make the field
+a witness of choosing.
 
-Svartbrandr burns what the battles have left him.
-Fire takes the roof and the road to the doorway;
-fire takes the field and the seed of its grasses.
-Both worlds are held in the fate of the ash.
-The crown over Mannguard is crowned now with burning;
-the root in Asguard has no refuge from flame.
-The tree falls last, with the age in its falling.
-The singer falls quiet; the hearth answers softly.
-A branch breaks inward, and sparks rise above it.
-The child holds his branch without asking again.
+Ódvar goes forward;
+the Winter-Wolf meets him.
+Wisdom goes down
+in the wolf's great mouth.
+The son meets Vetrúlfr;
+the wolf falls after.
+Death follows death;
+the hall must hear both.
+Thrúnvald lifts hammer;
+Heimsormr rises.
+The World-Wyrm falls
+to the Thunderer's striking.
+Venom goes with him;
+nine steps he walks.
+No tenth foot falls;
+no cry can lengthen it.
+No praise turns poison
+away from the heart.
 
-Yet coals are more than the death of a bonfire.
-The telling goes onward beyond the world's burning.
-A remnant will rise from the ashes of endings;
-a remade world is kindled out of the coals.
-There will be ground, there will be weather,
-people and gods in the first morning's light.
-The Ten are gone from the age they defended;
-their heirs inherit what follows the fire.
-No song should restore them to make sorrow easy.
-Let morning be morning, and loss remain loss.
+Eidgar goes onward,
+the oath god armed,
+to his long-chained foe;
+both fall together.
+Fródvin goes forth,
+the field's healing promise,
+where Svartbrandr comes
+with the fire blade burning.
+The growing god falls;
+the harvest is handless.
+No hand will bear
+that harvest homeward.
+Speak each loss plainly;
+let sorrow take portion.
+False gold on the fallen
+steals the cost of courage.
+The dead have worth
+with nothing concealed.
 
-The rune-priests listen for branches in wyrd.
-They speak of the choices not yet made by any,
-of currents that living hands still may disturb.
-They say some part of the doom may be shifted;
-they tell us no corner the flame must pass over,
-no name that our virtue can purchase from death.
-The unchosen branch gives no bargain to lean on.
-The unchosen deed is a thing we can do.
-While Heimsask stands, take care of its shadow.
-While Heimsask stands, keep faith under its crown.
+Svartbrandr burns
+what battle has left.
+Roof and road,
+both find the fire.
+Field and seed,
+both share the burning.
+The fate of the ash
+holds fast to both worlds.
+The crown over Mannguard
+is crowned with flame.
+The root in Asguard
+has no refuge remaining.
+Heimsask falls last;
+the age falls with it.
+The hearth answers softly;
+the hall sits silent.
+A branch breaks inward;
+a bright spark rises.
 
-Aldarlok: the close, and the telling is finished.
-The skald lets the silence sit down at the table.
-The child sets his branch on the wood of the hearth;
-the old woman reaches to mend the low fire.
-Outside, the night lays its cold on the doorway.
-Inside, a cup finds the hand of a guest.
-A man speaks a promise; another bears witness.
-The bread passes round, and the feast has its savor.
-We have heard of the end; we return to the living.
-The latch must be lifted for travelers coming.
-The nets must be mended before we depart.
-The word must be kept through the winter remaining.
-Our hands have their answer.
-The ash is still standing. There is work before dawn.
+The child holds his twig;
+he asks no question.
+A coal glows red
+where the branch lies broken.
+Yet coals hold more
+than a bonfire's dying.
+The tale travels onward,
+beyond the world's burning.
+A remnant will rise
+from the ruin of endings.
+A remade world
+is kindled from coals.
+Ground and weather,
+people and gods:
+the first morning comes
+with the work of morning.
+The Ten do not stand
+in the age they defended.
+
+Their heirs inherit
+the world beyond fire.
+No song brings them back
+to make sorrow easy.
+Morning is morning;
+the loss remains loss.
+Rune-priests listen
+for branches of wyrd.
+Unmade choices
+still move in its currents.
+Some doom may shift
+under deeds of the living.
+No priest names corners
+the flame must pass over.
+No virtue buys names
+back from the dying.
+The branch makes no bargain;
+the deed can be done.
+
+Aldarlok: the close;
+the telling is finished.
+Silence sits down
+in the skald's own place.
+The child lays his twig
+on the wood of the hearth.
+An old hand reaches
+to mend the low fire.
+Outside, cold night
+leans close on the doorway.
+Inside, a cup
+finds the guest's waiting hand.
+A man makes promise;
+another bears witness.
+Bread passes round;
+the feast keeps savor.
+We heard of the end;
+we return to the living.
+
+Lift up the latch
+for travelers coming.
+Mend the torn nets
+before ships depart.
+Keep the sworn word
+through the winter remaining.
+Our hands have answer;
+our hearts have keeping.
+While Heimsask stands,
+take care of its shadow.
+While Heimsask stands,
+keep faith with its crown.
+The ash is standing;
+there is work before dawn.
+The roof still shelters;
+the road still welcomes.
+The bread still nourishes;
+the breath still answers.
 ```
