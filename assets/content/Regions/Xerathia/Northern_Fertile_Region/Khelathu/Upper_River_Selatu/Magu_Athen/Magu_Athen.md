@@ -12,6 +12,7 @@ data:
   parents: [maguathenslt]
   population: 22000
   packFolder: regkhsett
+  government: selatmaguthn
 ---
 
 ## Overview

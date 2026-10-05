@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "Provincial Capital (Economic Hub)"
 tags: [capital, provincial]
-data: {demonym: null, lore: [], parents: [vald], population: 50000, packFolder: vylaria}
+data:
+  demonym: null
+  lore: []
+  parents: [vald]
+  population: 50000
+  packFolder: vylaria
+  government: provincvld
 ---
 
 ## Overview

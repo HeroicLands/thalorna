@@ -5,7 +5,13 @@ type: place
 subType: region
 description: "The warm open uplands at the middle of Aelwyth—rising above the coastal fog into the clearest and kindest weather on the island, and the inland half of Tarvenne."
 tags: [region, hill, inland]
-data: {demonym: null, lore: [], parents: [aelwyth], population: 58000, packFolder: aelwyth}
+data:
+  demonym: null
+  lore: []
+  parents: [aelwyth]
+  population: 58000
+  packFolder: aelwyth
+  government: repblctrvn
 ---
 
 The **Central Highlands** occupy the middle of Aelwyth between the western coast and the farmland of

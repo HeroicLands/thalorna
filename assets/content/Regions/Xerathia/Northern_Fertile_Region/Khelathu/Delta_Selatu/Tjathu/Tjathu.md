@@ -12,6 +12,7 @@ data:
   parents: [tjathuselat]
   population: 41000
   packFolder: regkhsett
+  government: selattjathu
 ---
 
 ## Overview

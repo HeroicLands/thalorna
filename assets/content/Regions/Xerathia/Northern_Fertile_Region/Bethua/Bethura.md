@@ -5,5 +5,11 @@ type: place
 subType: settlement
 description: "City"
 tags: [city]
-data: {demonym: null, lore: [], parents: [bethuargn], population: 35000, packFolder: bethua}
+data:
+  demonym: null
+  lore: []
+  parents: [bethuargn]
+  population: 35000
+  packFolder: bethua
+  government: mtrrchybth
 ---

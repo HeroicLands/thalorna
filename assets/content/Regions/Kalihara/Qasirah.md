@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "Port Settlement"
 tags: [port, settlement]
-data: {demonym: null, lore: [], parents: [kaliharargn], population: 18000, packFolder: kalihara}
+data:
+  demonym: null
+  lore: []
+  parents: [kaliharargn]
+  population: 18000
+  packFolder: kalihara
+  government: kalihara
 ---
 
 ## Overview

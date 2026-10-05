@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "Town"
 tags: [town]
-data: {demonym: null, lore: [], parents: [targud], population: 900, packFolder: targud}
+data:
+  demonym: null
+  lore: []
+  parents: [targud]
+  population: 900
+  packFolder: targud
+  government: kingdmtrgd
 ---
 
 ## Overview

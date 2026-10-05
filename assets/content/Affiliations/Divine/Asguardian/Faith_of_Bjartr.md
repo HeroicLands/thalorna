@@ -17,15 +17,15 @@ data:
       Alone among the Asguardian faiths, Bjartr's adherents took the Sinalëan structure rather than the circles—and it is barely a hierarchy at all. There are three standings and no office above them: the faithful who come to its rites, the tindësar it teaches, and the Calathiri who are all equal among themselves, and the Lómëthar that decides anything affecting the faith is an open convocation with no presiding officer, reaching accord by deliberation rather than decree.
     ranks:
       - level: 0
-        title: Unaccorded
+        title: Bjartlok
         lore: unaccordedrnk
         description: >-
-          Refused the Lómëthar's accord by the convocation itself; rare here, and slower and harder to reverse than a single officer's decree would be.
+          The light is closed to him: the convocation withholds the accord that would receive him. Refused the Lómëthar's accord by the convocation itself; rare here, and slower and harder to reverse than a single officer's decree would be.
       - level: 1
-        title: The Faithful
+        title: Bjartgengir
         lore: faithfulrnk
         description: >-
-          Comes to the Blessing of Light or the Night of Dreams and receives the priests' blessing, holding nothing further the faith asks of him.
+          Those who go to the light, coming to its rites for the priests' blessing. Comes to the Blessing of Light or the Night of Dreams and receives the priests' blessing, holding nothing further the faith asks of him.
       - level: 2
         title: Tindësar
         lore: tindesarrnk

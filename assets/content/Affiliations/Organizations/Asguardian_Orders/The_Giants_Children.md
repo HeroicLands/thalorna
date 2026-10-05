@@ -18,15 +18,15 @@ data:
       A sponsor presents a candidate for a year of labor at a chapter hall before the rite of the Born of the Wound admits him outright; the assembled Fathers of the Halls also cast a brother from the order, and choose the Voice from the Wound in conclave.
     ranks:
       - level: 0
-        title: Put from the Order
+        title: Eidvargr
         lore: putfromordrrnk
         description: >-
-          Cast out by the assembled Fathers of the Halls, closing every one of the nine chapter halls' hospitality for good.
+          An outlaw of the oath, his sworn vows void. Cast out by the assembled Fathers of the Halls, closing every one of the nine chapter halls' hospitality for good.
       - level: 1
-        title: The Frost-Touched
+        title: Eidefnir
         lore: ordrcandidrnk
         description: >-
-          Sponsored by a sitting brother and tested through a year of physical labor at a chapter hall; many withdraw or are dismissed before the rite that would admit them further.
+          One in the making for the oath, serving through the order's candidate trials. Sponsored by a sitting brother and tested through a year of physical labor at a chapter hall; many withdraw or are dismissed before the rite that would admit them further.
       - level: 3
         title: The Born of the Wound
         lore: bornofwoundrnk

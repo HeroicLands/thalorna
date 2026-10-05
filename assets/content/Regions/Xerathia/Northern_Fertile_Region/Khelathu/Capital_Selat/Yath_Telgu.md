@@ -12,6 +12,7 @@ data:
   parents: [galezkaraslt]
   population: 4000
   packFolder: regkhsett
+  government: empireakhlth
 ---
 
 ## Yath-Telgu—the Sacred Island

@@ -12,6 +12,7 @@ data:
   parents: [lenenneztslt]
   population: 26000
   packFolder: regkhsett
+  government: selatlennnzt
 ---
 
 ## Overview

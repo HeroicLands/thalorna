@@ -11,4 +11,5 @@ data:
   parents: [kostarosdst]
   population: 4000
   packFolder: helionis
+  government: kostaros2
 ---

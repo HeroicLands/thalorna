@@ -5,7 +5,7 @@ type: place
 subType: settlement
 description: "City"
 tags: [city, draft]
-data: {demonym: null, lore: [], parents: [kawiltzaklrgn], population: 4000}
+data: {demonym: null, lore: [], parents: [kawiltzaklrgn], population: 4000, government: kawiltzakl}
 ---
 
 ## Overview

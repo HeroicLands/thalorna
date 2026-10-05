@@ -12,6 +12,7 @@ data:
   parents: [luttjelskslt]
   population: 38000
   packFolder: regkhsett
+  government: selatlttjlsk
 ---
 
 ## Overview

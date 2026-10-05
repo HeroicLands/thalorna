@@ -5,7 +5,13 @@ type: place
 subType: region
 description: "The great central plain of Stormveld—the thrall-worked farmland that feeds the Jarldom, and where nearly all its people live."
 tags: [region, inland]
-data: {demonym: null, lore: [], parents: [stormveld], population: 112000, packFolder: aelwyth}
+data:
+  demonym: null
+  lore: []
+  parents: [stormveld]
+  population: 112000
+  packFolder: aelwyth
+  government: jrldmstrmvld
 ---
 
 The **Stormplain** is the broad, low, wind-scoured plain that fills the center of

@@ -12,6 +12,7 @@ data:
   parents: [gekhenuselat]
   population: 30000
   packFolder: regkhsett
+  government: selatgekhenu
 ---
 
 ## Overview
