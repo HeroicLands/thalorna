@@ -6,7 +6,7 @@ subType: region
 description: Vrystwald's southern highland edge facing Vylaria.
 data:
   demonym: null
-  lore: [humanflk]
+  lore: [varokhiclt]
   parents: [vrystwald]
   population: null
   borders: [{to: vylariargn, bearing: SE}]

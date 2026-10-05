@@ -7,7 +7,7 @@ description: "The land of the Kingdom of Nordheim—the northwestern coast of An
 tags: [region]
 data:
   demonym: Nordem
-  lore: [humanflk]
+  lore: [nordheimnclt]
   parents: [nrdlndsrgn]
   population: 650000
   packFolder: nordheim

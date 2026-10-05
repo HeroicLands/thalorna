@@ -75,7 +75,7 @@ data:
   domains: [norgaad]
   population: 400000
   economy: [lore-vylrncrncy, lore-bartercnmy, lore-kinhalcrdt]
-  lore: [humanflk]
+  lore: [nordheimnclt]
   parents: []
   relations:
     asguardian: aligned
@@ -106,6 +106,7 @@ Kingdom of Norgaad uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo 
 ## See Also
 
 - [[place-norgaad|Norgaad]]—The land the kingdom holds
+- [[lore-nrgadhstry|Histories and Legends of Norgaad]]—the kingdom's remembered past
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—Sister kingdoms
 - [[affiliation-asguardian|Asguardian Pantheon]]—Pantheon
 - [[place-grkrhlmrgn|Grukarholm Region]]—Eastern threat

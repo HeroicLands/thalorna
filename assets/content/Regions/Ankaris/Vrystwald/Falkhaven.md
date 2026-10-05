@@ -6,7 +6,7 @@ subType: region
 description: The ocean-facing western reach of Vrystwald, where forest landings carry Varokh goods into Nordmal trade.
 data:
   demonym: null
-  lore: [humanflk]
+  lore: [varokhiclt]
   parents: [vrystwald]
   population: null
   borders: [{to: nrdlndsrgn, bearing: N}]

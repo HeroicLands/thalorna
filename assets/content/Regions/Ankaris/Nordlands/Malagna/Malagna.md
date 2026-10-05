@@ -7,7 +7,7 @@ description: "The land of the Kingdom of Malagna, between Nordheim and Targud in
 tags: [region]
 data:
   demonym: Malagnan
-  lore: [humanflk]
+  lore: [nordheimnclt]
   parents: [nrdlndsrgn]
   population: 340000
   packFolder: malagna

@@ -6,7 +6,7 @@ subType: region
 description: "The forest-and-river belt south and east of the Nordlands, north of Aurèldía and west of Velanthia—taiga, mixed woodland and slow rivers held by the Varokh."
 data:
   demonym: null
-  lore: [humanflk]
+  lore: [varokhiclt]
   parents: [ankrscntnnt]
   borders:
     - {to: nrdlndsrgn, bearing: NW}

@@ -66,7 +66,7 @@ data:
   domains: [vrystwald]
   population: 500000
   economy: [affiliation-clgmrgntrrm, lore-bartercnmy, lore-kinhalcrdt, lore-vylrncrncy]
-  lore: [humanflk]
+  lore: [varokhiclt]
   parents: []
   relations: {asguardian: unaligned, kngdmnrdhm: rival, vylarinmpr: nemesis}
   packFolder: vrystwald

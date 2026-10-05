@@ -8,7 +8,7 @@ tags: [region]
 data:
   icon: null
   demonym: Nordmen
-  lore: [humanflk]
+  lore: [nordheimnclt]
   parents: [ankrscntnnt]
   borders:
     - {to: aureldirgn, bearing: S}
@@ -27,14 +27,14 @@ The Nordlands are the frozen north of [[place-ankrscntnnt|Ankaris Continent]]—
 
 The Nordlands occupy northwestern Ankaris, with [[place-aureldirgn|Aurèldía]] to the southwest, [[place-vrystwald|Vrystwald]] and [[place-velanthrgn|Velanthia]] to the south and east, and the open northern ocean beyond their coasts. The region is defined above all by its coastline—a saw-toothed geography of thousands of natural harbors carved by glaciers into granite and basalt. The fjords reach deep inland, each a sheltered road for longship fleets.
 
-Behind the fjords the land rises into mountain ranges of wind-scoured stone and ice, breaking into high interior plateaus where caribou migrate and the most reclusive clans dwell. South and east of the mountains, the terrain settles into boreal forest: endless spruce and pine, pierced by glacier-fed rivers that flow both south toward [[place-midhalnrgn|Mídhalión]] and east toward the frozen interior. Off the northwest coast, a chain of volcanic islands breaks the weather—their hot springs and fertile volcanic soils make them coveted settlements despite their remoteness.
+Behind the fjords the land rises into vast, inhospitable mountain tracts of wind-scoured stone and ice. Few people travel or live there; the most reclusive clans dwell sparsely on high plateaus where caribou migrate. Nordlanders tell of Khazári settlements hidden in the mountains, but these are mostly rumors. South and east of the mountains, the terrain settles into boreal forest: endless spruce and pine, pierced by glacier-fed rivers that flow both south toward [[place-midhalnrgn|Mídhalión]] and east toward the frozen interior. Off the northwest coast, a chain of volcanic islands breaks the weather—their hot springs and fertile volcanic soils make them coveted settlements despite their remoteness.
 
 The climate is brutal by Ankarian standards. Winters last for months and drag a near-total darkness across the far north; summers are short, light-flooded, and violently alive. A Nordmen child learns early that the land does not feed those who cannot read its moods.
 
 ## Population
 
-The Nordlands hold about **two million** people, which is few for so much country and is the single most
-important fact about them.
+The Nordlands hold about **two million** people, concentrated along the coasts and inland rivers. The
+mountain interior is sparsely inhabited, leaving much of the country empty even by northern standards.
 
 Fjord, mountain and ice do not grow food. What arable exists is a scatter of thin fields in sheltered
 valley bottoms—barley and oats, in a summer that is over almost as soon as it starts—and it has never

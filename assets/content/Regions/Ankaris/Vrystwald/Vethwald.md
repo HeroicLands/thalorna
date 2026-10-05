@@ -6,7 +6,7 @@ subType: feature
 description: The ancient, densely canopied Deepwood within Vrystwald's mixed-forest interior.
 data:
   demonym: null
-  lore: [humanflk]
+  lore: [varokhiclt]
   parents: [vrystwald]
   population: null
   packFolder: vrystwald
