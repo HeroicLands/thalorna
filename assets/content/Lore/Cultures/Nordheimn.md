@@ -152,6 +152,7 @@ A hall gathers a lord's close kin and sworn followers under one roof. Oath and a
 ## See Also
 
 - [[place-nrdlndsrgn|Nordlands Region]]—the fjords, the five kingdoms and the ships
+- [[lore-nrdlndsraid|The Raid and the Longship]]—the crew, its share and its levy
 - [[affiliation-asguardian|Asguardian Pantheon]]—the Ten, their rites and the final reckoning
 - [[lore-kinhalcrdt|Kin and Hall Credit]]—public memory as security for an obligation
 - [[affiliation-skaldscrcl|Skalds' Circle]]—the trained keepers of genealogy, judgment and debt

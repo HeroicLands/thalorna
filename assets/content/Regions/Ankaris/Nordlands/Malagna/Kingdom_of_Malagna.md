@@ -107,6 +107,7 @@ Kingdom of Malagna uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo 
 ## See Also
 
 - [[place-malagna|Malagna]]—The land the kingdom holds
+- [[lore-mlgnahstry|Histories and Legends of Malagna]]—the kingdom's remembered past
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]—Sister kingdom, primary rival
 - [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—Sister kingdoms
 - [[place-elavendre|Élavendre]]—Western trading partner

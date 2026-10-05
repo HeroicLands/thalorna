@@ -11,11 +11,11 @@ data: {packFolder: malagna}
 Malagna's two great clans remember the same broken settlement differently. Their stories about
 things beneath the howes and beyond death are less certain, but they shape what people dare to touch.
 
-## The Havamal Wergild
+## The Málstead Wergild
 
-Three generations ago, a Hrafnvar shipwright killed a Grímvar boy in a shipyard quarrel at Skorrborg.
+Three generations ago, a [[affiliation-hrafnvar|Hrafnvar]] shipwright killed a [[affiliation-grimvar|Grímvar]] boy in a shipyard quarrel at [[place-gnarthborg|Gnarthborg]].
 The Hrafnvar offered wergild. The Grímvar refused it and took a life; the Hrafnvar answered with two.
-A priest of [[affiliation-frodvin|Fródvin]] walked between Valdarheim and Havamal to seek peace. Both
+A priest of [[affiliation-frodvin|Fródvin]] walked between [[place-braldheim|Braldheim]] and [[place-malstead|Málstead]] to seek peace. Both
 jarls marked a split oath-stave. The Grímvar jarl's brother then burned his clan's half before the
 priest.
 
@@ -26,7 +26,7 @@ that one half of the stave speaks for both.
 
 ## The Wyrm beneath the Crown
 
-The Grímvar keep [[miscgear-crwnwyrm|the Crown of the Wyrm]] in a howe at Valdarheim. Stories say a
+The Grímvar keep [[miscgear-crwnwyrm|the Crown of the Wyrm]] in a howe at Braldheim. Stories say a
 _landormr_ lies beneath it, warming the chamber, and that one man who descended thought the Crown
 looked back at him. Grímvar tellers treat the guardian as a sign that the Crown is more than a king's
 ornament. Hrafnvar tellers say fear, not piety, keeps their rivals from wearing it. The howe's

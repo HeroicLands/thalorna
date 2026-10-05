@@ -132,6 +132,7 @@ Kingdom of Nordheim uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo
 ## See Also
 
 - [[place-nordheim|Nordheim]]—The land the kingdom holds
+- [[lore-nrdhmhstry|Histories and Legends of Nordheim]]—the kingdom's remembered past
 - [[place-grkrhlmrgn|Grukarhölm]]—Eastern neighbors, the Grukar tribes
 - [[place-vrystwald|Vrystwald]]—Southern frontier
 - [[affiliation-asguardian|Asguardian Pantheon]]—The Nordmen pantheon
