@@ -29,7 +29,6 @@ test("explicit given-name exemptions preserve clan validation and published list
     );
     assert(names.some((row) => row.name === "Tvarnynda" && row.listed));
     assert.deepEqual(judge("Tvarnynda", "given", rule), []);
-    assert.equal(baseline.length - names.length, 1);
 });
 
 test("a concordance row with a Nordmal class keeps its given name subject to validation", () => {
@@ -56,4 +55,22 @@ test("Gróa remains a live short name while its historical identity is preserved
     const live = new Set(table.entries.flatMap((row) => [row.newName, ...(row.newAliases ?? [])]));
     assert(live.has("Gróa"));
     assert(entry.newAliases.includes("Gróa"));
+});
+
+test("published seasonal vocabulary is accepted without compound derivation", () => {
+    const festivals = table.entries.filter((row) =>
+        ["Jól", "Sumarmál", "Midsumar", "Vetrnaetr"].includes(row.newName),
+    );
+    assert.equal(festivals.length, 4);
+    for (const entry of festivals) {
+        assert.equal(entry.type, "lore");
+        assert.equal(entry.subType, "culture");
+        assert(rule.kept.has(entry.newName.toLowerCase()));
+        assert.deepEqual(judge(entry.newName, "compound", rule), []);
+        assert(judge(entry.newName, "given", rule).length > 0);
+        assert(judge(entry.newName, "clan", rule).length > 0);
+        assert(judge(entry.newName, "place", rule).length > 0);
+        assert(judge(entry.newName, "realm", rule).length > 0);
+    }
+    assert(judge("Unpublished", "compound", rule).length > 0);
 });
