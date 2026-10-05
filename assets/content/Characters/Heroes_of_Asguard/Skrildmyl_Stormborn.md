@@ -407,3 +407,7 @@ Skrildmýl is a natural leader whose presence on the battlefield can turn the ti
 2. **The Winter Witch**—The sorceress who claims responsibility for the devastating storms has issued a challenge to Skrildmýl. She offers peace in exchange for something Skrildmýl cannot give—and war if he refuses.
 
 3. **The Lightning Mark**—Skrildmýl's son has been born with a lightning-shaped birthmark, and both the Storm Temple and rival clans interpret this as an omen. Some see it as a sign of divine favor; others as a curse that must be eliminated.
+
+## Epic Recital
+
+The [[lore-sagaskrildmyl|Saga of Skrildmýl Stormborn]] gives an attributed oral telling of this hero's central ordeal. Its verse preserves the legendary account without establishing it as history.

@@ -86,6 +86,141 @@ Temples are called **hofs**, and their form varies. A major hof in a royal seat 
 
 Professional clergy are supplemented by the **volur**—itinerant seeresses, not bound to any particular hof, who travel between settlements offering divination, dream-reading, and contact with the dead. A volva is received with great courtesy wherever she goes: she eats at the jarl's table, sleeps by the hearth, takes whatever hospitality is offered, and in return will sit upon the high seat at the heart of the hall and answer the questions the household needs answered. The volur are revered across the pantheon rather than attached to any one god, though most regard themselves as particular servants of Sólrún and Ódvar, who both hold the craft of seidr in their keeping.
 
+: The Ten and the Last Muster
+
+```poetry {form=epic lang=en}
+Gather the hall to the song of the Ten.
+Let the cup be passed; let the names be spoken.
+Before there was ground for the feet of a child,
+before there was timber to hold up a roof,
+the gods and the giant-kin came into battle.
+The Thursaett broke, and the beaten were banished;
+Thursguard received them, and no tale goes inward.
+Hrímthur was killed at the close of the fighting.
+The Ten cut Mannguard out of his body.
+The earth underfoot is the wound of that making.
+
+All ten together accomplished that victory.
+Then each went away to the work of his choosing;
+the quarrels and bonds came after the war.
+The world did not settle into perfect agreement.
+Ódvar kept knowledge; Thrúnvald kept thunder;
+Eidgar the oath, and Fródvin the growing.
+Sólrún kept love and the wealth freely given;
+Bjartr the light and the dreams of the elders.
+Mótefnir made, with the making unfinished;
+Vélgrímr bent cunning around every certainty.
+
+Náhild despised what the living hold precious;
+Svartbrandr kept fire and the fury of battle.
+Ten are the names, but no singer should gather
+the names into peace that their deeds have not made.
+The defending kin stand by their common necessity,
+by what they resist when destruction comes near.
+The gods have favorites; the gods can be mistaken.
+A quarrel may echo between their own halls.
+Their worth is the thing they will stand up against,
+and the cost they will pay to remain at that standing.
+
+Heimsask grows through the worlds that we share:
+rooted in Asguard and crowned over Mannguard.
+The gods have their halls in the world of the gods;
+the living build houses on ground they must leave.
+Valsal and Sólvangr gather the worthy;
+Eldheim keeps fire; Nulthey takes the unworthy.
+The great island holds those who dwindle toward nothing;
+Náhild is heedless of all that they lose.
+The tree holds the worlds in the fate of one growth.
+When Heimsask burns, both worlds burn with it.
+
+Who are the worthy whose names fill the benches?
+Warriors fallen with duty before them;
+oath-keepers dying in keeping their word;
+mothers whose lives end in bringing forth life;
+craftsmen who fall in defense of their making.
+Ódvarshöll gathers beneath shielded rafters;
+Sólrúnshöll shines with its long lighted tables.
+Valdrengir, honored and waiting together,
+are gathered for war at the close of the age.
+They know what is coming; the knowledge stays with them.
+
+In Valsal the warriors fight every morning;
+by evening their wounds have released them to feasting.
+They learn for the battle that ends all returning.
+The living pour mead and partake in their feast.
+At hofs and at hearthstones the offerings are shared;
+at tings the sworn word takes the weight of its witness.
+A völva hears questions from high in the hall;
+the rune-staves describe the deep currents of choosing.
+The people have work under all these observances:
+to keep faith with each other while time is still theirs.
+
+At Jól the twelve nights are bright in the hofs;
+the dark leans close to the light at the windows.
+The dead are invited; the hearth receives blessing;
+the song goes from its first war to ashes.
+A spoon rests still in the hand of a listener.
+A child's heel ceases beating the bench.
+The flames lick upward; the names travel onward.
+The feast holds its breath as the age approaches
+that no singer can mark on parchment.
+
+Ódvar has sought what the final age carries,
+and wisdom has given him sight of his death.
+The gods keep their halls with that knowledge among them;
+the honored dead train for a muster that fails.
+The song gives the shape of the end to the hearing:
+Eldheim opens; Svartbrandr comes riding,
+fire-kin behind him and burning before him.
+Vetrúlfr slips free, and the wolf-winter follows.
+The chain cannot hold the last cold from the world.
+The halls of the worthy give back their companies.
+
+Valsal empties, and Sólvangr empties;
+Vígvöll receives the great muster of honor.
+The dead take their places beside the defending gods.
+The field has no promise to make them of triumph.
+Vélgrímr stands with Svartbrandr against his kin;
+the cunning that served them has turned at the ending.
+Ódvar goes forward to meet the Winter-Wolf.
+The wolf takes the father; the son takes the wolf.
+The two deaths follow as sung in the telling;
+wisdom and fury lie fallen in turn.
+
+Thrúnvald strikes Heimsormr, the great World-Wyrm;
+Thrúnhamarr answers the rising of terror.
+The wyrm goes down, but its venom goes with him.
+Nine steps he walks from the stroke of the hammer;
+the tenth never sounds on the earth he defended.
+Eidgar encounters his long-chained adversary;
+their struggle destroys them together at last.
+Fródvin meets Svartbrandr himself in the fighting.
+The Healer falls under the Destroyer's blade.
+Let the hall hear the losses without looking away.
+
+Svartbrandr burns all the remnant of battle.
+The fire takes the worlds, and the world-ash falls last.
+Mannguard and Asguard go down in its burning;
+the age has its close in the fall of the tree.
+Yet out of the ashes a remnant will rise,
+and a remade world will be kindled from coals.
+Ground and weather, people and gods:
+the first morning comes with the work of a morning.
+The Ten do not stand in the age that comes after.
+Their heirs inherit the world beyond flame.
+
+So runs the great telling the skald gives the hall.
+The rune-priests speak of the branches of wyrd,
+of choices not made in the lives of the living,
+of some part of doom that might yet be shifted.
+They name no reward and make no promise of rescue;
+no listener owns a spared corner by hearing.
+Rise from the bench with the word still upon you.
+Keep what you swore; give the guest his portion.
+The gods know the fire, and the gods still defend.
+The worthy know loss, and the worthy still gather.
+```
+
 ## Sacrifice, Oath, and Blót
 
 The central ritual act in Asguardian religion is the **blót**—the shared offering and meal by which the community renews its relationship with the gods. A blót may be small, the pouring of mead at a household hörgr; or it may be great, the slaughter of horses and oxen at a royal hof on the turning of the seasons, with the entire assembled warband eating the consecrated meat and drinking the consecrated ale. The distinguishing feature of blót is that what is offered is not destroyed but shared: the gods partake, the people partake, the dead partake, and the offering becomes the means by which the three are momentarily bound together. A blót not attended is a blót not accomplished.

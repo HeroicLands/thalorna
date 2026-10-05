@@ -72,6 +72,74 @@ Thrúnvald's physical appearance is that of a giant among men, muscular and bear
 
 In artistic representations, Thrúnvald is often shown driving his chariot pulled by two goats across the sky, creating thunder with each strike of [[lore-thrunhamarr|Thrúnhamarr]].
 
+: The Hammer Raised
+
+```poetry {form=epic lang=en}
+Lift up the hammer; the sea has a voice.
+It speaks in the shingle, it shouts on the headland,
+it strikes at the harbor with fists full of foam.
+Thrúnvald stands where the dark water gathers,
+beard wet with storm and the lightning behind him.
+Thrúnhamarr rises, the weight of an answer;
+the pressure that comes against gods and the living
+will find that the Thunderer knows how to strike.
+
+The chariot passes; the goat hooves thunder.
+Cloud shoulders crowd where the coast looks upward.
+There is the arm that can shatter a mountain;
+there is the blow that can summon the flame
+that forks through the rain without waiting for sunrise.
+The hammer comes down, and the cliffs give their echo.
+The gulls wheel white through the black of the weather;
+the sea takes the sound to its farthest shore.
+
+But hear how the hammer is named at the harbor,
+where a ship waits low with its cargo aboard.
+The godi lifts stone in the likeness of power;
+the crew bows close to the blessing they sought.
+War and the voyage have one hard threshold:
+a plank underfoot and deep water below.
+The weapon that answers the forces of ruin
+is also the sign laid upon the departing.
+
+A blessing is heavy; it weighs on the bearer.
+Let no hand forget what the voyage will ask.
+A sail must be tended; a watch must be kept;
+a frightened companion must find you beside him.
+The storm does not read the name on a hull;
+the faithful still labor when prayers have been spoken.
+Thrúnvald's strength stands in the songs of the hofs;
+the crew's strength stands in the work of the crossing.
+
+There comes a far day when the water is venom,
+when Heimsormr rises against the last field.
+The World-Wyrm is great in the telling of terror;
+the Thunderer meets it with Thrúnhamarr lifted.
+No mountain is broad enough now for his shadow;
+no harbor is deep enough now for the dying.
+He strikes, and the wyrm goes down under the hammer.
+The victory bites with the teeth of its cost.
+
+One step from the blow, and another through poison;
+three, and the ground holds the weight of his foot.
+Four, and the hand has not loosened its purpose;
+five, and the breath of the sea seems far off.
+Six, with the venom still climbing within him;
+seven, beneath the approaching red sky.
+Eight is a step that no singer can lengthen.
+Nine, and the Thunderer falls before ten.
+
+Lift up the hammer beside the salt water;
+remember its weight when the daylight grows thin.
+The god knew the doom and went forth to answer.
+The god struck the thing that would otherwise stand.
+Thrúnhamarr speaks in the ship's first blessing,
+in the storm over stone, in the last fatal blow.
+Hold to your labor; keep faith with your fellows.
+The hammer is raised where the world needs defending.
+Its thunder goes out over those who sail onward.
+```
+
 ## Sacred Objects
 
 - **Hammer Stone:** Represents strength and protection, symbolizing [[lore-thrunhamarr|Thrúnhamarr]].
