@@ -12,7 +12,6 @@ data:
   population: 1600
   market: 3
   packFolder: vedyara
-  government: janpdsvdyr
 ---
 
 **Naughatta** (1,600, market 3) stands on the south bank at the mouth of the [[place-sarvadarivr|Sarvada]], where the river's small craft meet the coasting ships. It is the outlet of the copying country. Palm-leaf, cotton, sugar and the rice of the middle valley come down two hundred miles of gentle water and go out from here, and the river craft that brought them take back salt, iron and the foreign goods the coast lands.
