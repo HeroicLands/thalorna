@@ -7,7 +7,7 @@ description: "The land of the Kingdom of Targud—the easternmost Nordmen kingdo
 tags: [region]
 data:
   demonym: Targudian
-  lore: [humanflk]
+  lore: [nordheimnclt]
   parents: [nrdlndsrgn]
   population: 300000
   packFolder: targud

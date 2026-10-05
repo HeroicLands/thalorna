@@ -7,7 +7,7 @@ description: "The land of the Kingdom of Vithgard, a small western coastal realm
 tags: [region]
 data:
   demonym: Vithgardian
-  lore: [humanflk]
+  lore: [nordheimnclt]
   parents: [nrdlndsrgn]
   population: 300000
   packFolder: vithgard

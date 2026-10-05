@@ -6,7 +6,7 @@ subType: feature
 description: The slow river network that links Vrystwald's clearings, landings and frontier markets.
 data:
   demonym: null
-  lore: [humanflk]
+  lore: [varokhiclt]
   parents: [vrystwald]
   population: null
   routes:

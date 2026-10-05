@@ -75,7 +75,7 @@ data:
   domains: [targud]
   population: 300000
   economy: [lore-vylrncrncy, lore-bartercnmy, lore-kinhalcrdt]
-  lore: [humanflk]
+  lore: [nordheimnclt]
   parents: []
   relations:
     asguardian: aligned
@@ -106,6 +106,7 @@ Kingdom of Targud uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo /
 ## See Also
 
 - [[place-targud|Targud]]—The land the kingdom holds
+- [[lore-trgdahstry|Histories and Legends of Targud]]—the kingdom's remembered past
 - [[place-grkrhlmrgn|Grukarholm Region]]—Eastern enemy
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—Sister kingdoms
 - [[affiliation-asguardian|Asguardian Pantheon]]—Pantheon
