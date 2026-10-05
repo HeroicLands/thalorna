@@ -70,3 +70,14 @@ Nordmal aliases and the language note's examples retain their normal spelling.
 
 Run `node --test utils/lexicons/*.test.mjs` when changing this guard, and
 `npm run lint:nordmal-concordance` when changing the table.
+
+Standing titles shared by several bodies belong in `standingCoinages`, rather than
+`entries`, whose names identify whole notes. Each `rungs` row carries the authored
+affiliation `path`, integer `level`, `oldTitle` and current `title`. The concordance
+guard requires that exact body and rung, a description, and a compound made from
+the language note's elements and sound rules. A body and level have one mapping.
+`deliberatelyUnused` rows carry `title`, `elements` and `reason`; they cannot also
+be placed. `limits` records where a word's sense excludes a body or office.
+
+Run `node --test utils/nordmal-standing-coinages.test.mjs` for the standing
+contract, including rejected stale mappings and contradictory dispositions.
