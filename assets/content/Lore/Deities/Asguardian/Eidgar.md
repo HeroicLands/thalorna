@@ -10,7 +10,7 @@ data: {packFolder: deitiesasguardian}
 
 _**The Just**—iron scale and oath ring, a law that costs the judge before it costs the judged._
 
-**Eidgar** paid his own hand to chain **Vetrúlfr the Winter-Wolf**, in the age before any ting met to recite the deed, and his [[affiliation-eidgar|Faith of Eidgar]] reads the sacrifice as the whole of its theology in one image: a just binding costs the binder first, or it is not a binding anyone should trust. The **Hofgodi of Lögstead** puts it without ornament. "A man who judges and loses nothing by the judgment has not judged anything," he says. "He has agreed with himself."
+**Eidgar** paid his own hand to chain **[[lore-vetrulfr|Vetrúlfr]] the Winter-Wolf**, in the age before any ting met to recite the deed, and his [[affiliation-eidgar|Faith of Eidgar]] reads the sacrifice as the whole of its theology in one image: a just binding costs the binder first, or it is not a binding anyone should trust. The **Hofgodi of Lögstead** puts it without ornament. "A man who judges and loses nothing by the judgment has not judged anything," he says. "He has agreed with himself."
 
 **Lögstead** is where the kingdom's own ting sits, and the hof's blót is sworn into the same oath the assembly swears over it—the offering and the law bound together at one hearth. A Blótmadr shares that meal and nothing further is asked of him; a Hofsmadr labors at the hof's observances for years before any standing in the priesthood that judges there; a Godi is ordained to keep the hof's rites, swear its oaths, and judge in Eidgar's name, a clan member's equal under the land's own law. The faith's Hofgodi consecrates the hof itself and ordains the godar who serve under him, and nothing of the land or any pontiff reaches above that.
 
