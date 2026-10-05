@@ -8,7 +8,7 @@ tags: [asguardian]
 data: {packFolder: nordlands}
 ---
 
-The close of the age. The word is built plainly—_aldar_, the age's, and _lok_, a close—and the plainness is the point: Aldarlok is the end of this age and not the end of everything, and the north is exact about the distinction in a way its neighbors often are not. The skalds' kenning is the Fall of the Ash, after **Heimsask**, the world-ash rooted in [[place-asguard|Asguard]] and crowned over [[place-worldthlrn|Mannguard]], whose burning takes both worlds down together.
+The close of the age. The word is built plainly—_aldar_, the age's, and _lok_, a close—and the plainness is the point: Aldarlok is the end of this age and not the end of everything, and the north is exact about the distinction in a way its neighbors often are not. The skalds' kenning is the Fall of the Ash, after [[lore-heimsask|Heimsask]], the world-ash rooted in [[place-asguard|Asguard]] and crowned over [[place-worldthlrn|Mannguard]], whose burning takes both worlds down together.
 
 The claim the whole faith rests on is that the gods know. This is not a doom concealed from the Ten and revealed to their priests; it is a thing [[affiliation-odvar|Ódvar]] went to considerable lengths to learn, and what he learned is that he dies. The gods keep their halls, take their blót, hold their oaths and gather the honored dead knowing the muster fails. The Asguardian answer to this is not despair and is not resignation. It is defiance, and the north's highest estimate of a man is reserved for one who fights well in a cause already lost. A Nordman's funeral praise turns on how a man met a thing and not on what he won by it.
 
