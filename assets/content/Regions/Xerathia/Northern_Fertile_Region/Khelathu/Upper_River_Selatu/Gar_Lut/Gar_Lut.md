@@ -12,6 +12,7 @@ data:
   parents: [garlutselat]
   population: 18000
   packFolder: regkhsett
+  government: selatgarlut
 ---
 
 ## Overview

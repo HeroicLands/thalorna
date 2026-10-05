@@ -12,6 +12,7 @@ data:
   parents: [selatleterunome]
   population: 11000
   packFolder: regkhsett
+  government: selatseltltr
 ---
 
 ## Overview

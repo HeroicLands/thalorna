@@ -5,7 +5,7 @@ type: place
 subType: settlement
 description: "Temple Settlement"
 tags: [settlement, temple, draft]
-data: {demonym: null, lore: [], parents: [swoasisbelt], population: 3000}
+data: {demonym: null, lore: [], parents: [swoasisbelt], population: 3000, government: tribestrzd}
 ---
 
 ## Overview
