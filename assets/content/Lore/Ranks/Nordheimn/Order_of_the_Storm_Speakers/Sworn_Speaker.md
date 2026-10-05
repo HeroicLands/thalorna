@@ -11,7 +11,7 @@ The full member of the Order of the Storm-Speakers, acting on the order's behalf
 
 ## What This Standing Is
 
-A Sworn Speaker is permitted to act on the order's behalf and to draw on its hospitality across the Nordlands. He is elevated from a Storm-Aspirant after passing three examinations—martial, devotional, and the receptive test of latent weather-sensitivity conducted at Thrumufjall during a thunderstorm, which dismisses a candidate regardless of other merit if it finds nothing in him.
+A Sworn Speaker is permitted to act on the order's behalf and to draw on its hospitality across the Nordlands. He is elevated from a Storm-Aspirant after passing three examinations—martial, devotional, and the receptive test of latent weather-sensitivity conducted at [[place-thrumufjall|Thrumufjall]] during a thunderstorm, which dismisses a candidate regardless of other merit if it finds nothing in him.
 
 ## How the Law Treats a Person Here
 
