@@ -1,48 +1,78 @@
 ---
-shortcode: tvlgrvrfrgd
-name: {full: Tvilgorv the Reforged, given: Tvilgorv, aliases: [the Reforged]}
+shortcode: wthrnthrnhvn
+name: {full: Wíthrún Thornhaven, given: Wíthrún, clan: Thornhaven, aliases: []}
 type: being
 subType: character
-tags: [demigod, heroes-of-asguard, soldiery]
+tags: [heroes-and-knaves, hero, soldiery]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: [warrior]
-  occupation: Champion
+  archetypes: [warrior, woodsman]
+  occupation: Warrior
   stations: []
-  lore: []
-  culture: nordheimnclt
-  homes: [nrdlndsrgn]
-  gender: male
+  lore: [foxttm, oxttm]
+  culture: varokhiclt
+  homes: [thornhaven]
+  affiliations: {vrystwldtrbs: {rank: 3}}
+  gender: female
   species: humanflk
-  born: 686.344
-  height: 1.76
-  weight: 78
-  frame: medium
+  born: null
+  height: 1.8
+  weight: 83
+  frame: heavy
   appearance:
-    eye_color: amber
-    hair_color: auburn
-    skin_color: fair
-    complexion: scarred
+    eye_color: brown
+    hair_color: black
+    skin_color: pale
+    complexion: null
     extra_features: []
-  packFolder: ankarisnordlands
+  packFolder: ankarisvrystwald
 sohl:
   items:
-    - {model: sohl-sohl-attribute-str, system: {scoreBase: 18}}
-    - {model: sohl-sohl-attribute-end, system: {scoreBase: 19}}
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 16}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 18}}
     - {model: sohl-sohl-attribute-dex, system: {scoreBase: 14}}
-    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 15}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-per, system: {scoreBase: 16}}
-    - {model: sohl-sohl-attribute-cml, system: {scoreBase: 6}}
-    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 15}}
-    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 16}}
-    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 11}}
-    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 9}}
-    - {model: sohl-sohl-attribute-emp, system: {scoreBase: 10}}
-    - {model: sohl-sohl-attribute-elo, system: {scoreBase: 7}}
-    - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
-    - {model: sohl-sohl-attribute-voi, system: {scoreBase: 8}}
-    - {model: affiliation-motefnir}
+    - {model: sohl-sohl-attribute-cml, system: {scoreBase: 11}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 17}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-emp, system: {scoreBase: 15}}
+    - {model: sohl-sohl-attribute-elo, system: {scoreBase: 11}}
+    - {model: sohl-sohl-attribute-mor, system: {scoreBase: 15}}
+    - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
+    - {model: sohl-sohl-skill-melee, system: {masteryLevelBase: 78}}
+    - {model: sohl-sohl-skill-archery, system: {masteryLevelBase: 70}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 68}}
+    - {model: sohl-sohl-skill-srvl, system: {masteryLevelBase: 72}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 75}}
+    - {model: sohl-sohl-skill-trak, system: {masteryLevelBase: 68}}
+    - {model: sohl-sohl-skill-swim, system: {masteryLevelBase: 75}}
+    - {model: sohl-sohl-skill-clmb, system: {masteryLevelBase: 55}}
+    - {model: sohl-sohl-skill-cmd, system: {masteryLevelBase: 48}}
+    - {model: sohl-sohl-skill-mrcn, system: {masteryLevelBase: 55}}
+    - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 55}}
+    - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 60}}
+    - {model: skill-varokhlng, system: {masteryLevelBase: 90}}
+    - {model: sohl-sohl-weapongear-spr}
+    - {model: sohl-sohl-weapongear-kish}
+    - {model: sohl-sohl-weapongear-cbw60}
+    - {model: sohl-sohl-weapongear-baxe}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-armorgear-rhtunic}
+    - {model: sohl-sohl-armorgear-rhbrch}
+    - {model: sohl-sohl-armorgear-rhshoe}
+    - {model: sohl-sohl-armorgear-bvcloak}
+    - {model: sohl-sohl-armorgear-bvcap}
+    - {model: sohl-sohl-miscgear-frtns, system: {quantity: 4}}
+    - {model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
+    - {model: sohl-sohl-containergear-backpk}
+    - {model: sohl-sohl-containergear-wtrskin}
+    - name: Coiled river rope and personal totem token
+      type: miscgear
+      system: {shortcode: riverrope, weight: 2, value: 20, durability: 3}
   system:
     body:
       structure:
@@ -345,65 +375,69 @@ sohl:
             shockValue: 2
             probWeight: 20
             protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
-      weight: {base: null, calc: "(9 * str) + 50"}
+      weight: {base: null, calc: (9 * str) + 50}
       reachBase: 0
       bodyScaleBase: 1
-      personalFatigue: "enc + 5"
+      personalFatigue: enc + 5
     currentMoveMedium: terrestrial
     movementProfiles:
       - medium: terrestrial
         feetPerRound: 50
         leaguesPerWatch: 5
-        encumbrance: "floor(wt/4)"
-        strMod: "-5 * floor((str - 10) / 2)"
+        encumbrance: floor(wt/4)
+        strMod: -5 * floor((str - 10) / 2)
         disabled: false
     defaultCombatGroup: null
 ---
 
 # Appearance {#appearance}
 
-Tvilgorv stands 6'2" with a massive, unnaturally muscled frame, weighing about 260 pounds. His medium-toned skin shifts unsettlingly between human flesh and something harder and darker, particularly along his arms and spine, where strange ridges protrude beneath the surface. His dark brown hair is lank and unkempt, and his amber eyes occasionally flash with an inhuman light that makes others flinch. His features are heavy and brutish—a broad, flat face, a crushed nose, a heavy brow, and a jaw too wide for a normal man—bearing the unmistakable marks of [[lore-motefnirdty|Mótefnir]]'s transformation. His voice carries a resonance that is not entirely human. Tvilgorv wears crude armor of boiled leather and salvaged plate, held together with sinew and iron wire, and carries a massive axe that he wields one-handed. He covers his most inhuman features with a hooded cloak, though the attempt at concealment fools no one up close.
+Wíthrún has a riverboat crew member’s powerful shoulders, close-braided black hair and steady brown eyes. A burn has puckered the skin beside her left ear. She dresses in stout wool and patched leather, with an axe at her belt and a spear within reach. Her small ox token is worn smooth by her thumb. She tests a knot before leaning her weight on it and offers the same patient scrutiny to a stranger’s promise.
 
 # Dossier {#dossier}
 
-Tvilgorv was once a powerful warrior, known for his strength and bravery, but he was mortally wounded in a great battle. On the brink of death, his soul was drawn into one of Mótefnir's laboratories, where the god of creation saw potential in his broken body. Mótefnir, in a rare moment of interest, decided to experiment on Tvilgorv, merging his soul with the essence of several failed Dreadspawn. The process was agonizing, and Tvilgorv's body was twisted and reshaped into a form that was both human and monstrous. When the experiment was complete, Tvilgorv was left discarded, but he emerged with a new purpose.
+## The Rope Across the Water
 
-The saga of Tvilgorv the Reforged tells of his quest to reclaim his lost humanity while embracing the monstrous power that Mótefnir had bestowed upon him. Cast out from his homeland and feared by those who once knew him, Tvilgorv wandered the wilderness, grappling with his new identity. He encountered a village under siege by a powerful Dreadspawn. Tvilgorv confronted the beast, using both his human strength and his monstrous abilities. He emerged victorious, not by destroying the Dreadspawn, but by subduing it and bringing it under his control—an act of dominance over Mótefnir's creation that marked Tvilgorv as one of the god's favored.
+Wíthrún knew the river before she knew the spear. At [[place-thornhaven|Thornhaven]] her family bought furs, carried grain and kept the household reckoning. She could judge a boat's load by the sound it made against the landing. She thought she would grow old there, hearing that sound.
+
+The raiders came before dawn. Their boat approached like a trader's boat, and the household opened to receive it. Fire took the roof. Her parents and brothers died before neighbors could reach them. Wíthrún escaped through smoke with a rope around her waist, pulled from the water by hands she could not see.
+
+Her kin could not provide another roof. The Other Chief arranged one within the clan, and households contributed food and clothing. The Shaman guided her family's funeral. She was fed even on the days she would not speak. Anyone telling this tale must remember the hands that pulled and the household that made room.
+
+She asked to train with the warband. Some said the boats needed her more. A veteran put a spear in her hands and showed her how easily anger could make a strong person fall. She learned. Through rain, mistakes and humiliating practice she learned. The Fox remained Thornhaven's wesk. Her personal bond was with the Ox, whose strength carries a load long after the first rush of anger has gone.
+
+She took escort work and followed reports of the raiders from landing to landing. Every rumor became a weight she tried to carry herself. Companions learned to stop her taking the heaviest pack as well as the longest watch. She thanked them and did it again.
+
+At last she recognized a raider at a narrow reach upriver. He wore the brass fastening her mother had used on a river cloak. Wíthrún followed him along the bank until he leapt into a waiting boat. A little farther ahead a crowded ferry struck submerged timber and turned across the current. Its passengers cried out. The raider's boat was already moving past them.
+
+She could take the near path and gain a bowshot at him. The ferry's rope had parted. She looked once at the brass fastening and then at the faces on the ferry. She cast her own rope.
+
+The first pull dragged her to her knees. She wrapped the rope around a tree, called to her companions and put her shoulder against it. People who had never held a weapon came to pull beside them. They brought the ferry against the bank a hand's breadth at a time. Its passengers climbed ashore. The raider disappeared around the bend.
+
+Wíthrún wept after the last passenger was safe. No one told her the rescue should have made her happy. A child sat beside her until she could stand. She had lost the fastening and the man who wore it; she had kept a boatful of people from becoming another burned household's grief.
+
+Thornhaven's reciters end with the rope drying above her receiving household's door. They say she still asks who ordered the raid and still seeks a witnessed settlement. They also say that when she takes a load now, she leaves a place for another pair of hands.
+
+## Playing Wíthrún
+
+Tellings disagree about the season and the raiders' origin. This sheet portrays her after the ferry rescue, an accomplished defender still seeking evidence of the attack. Her clan survives and continues to support her; the destruction was of her family household. Her training took sustained work. Her grief supplies neither instant skill nor authority over the warband.
 
 ## Psyche
 
-### Personality
+### Personality and Motivation
 
-Tvilgorv is haunted and conflicted, a man trapped between two natures that war constantly within him. He speaks little, and when he does, his voice carries a resonance that is not entirely human. He is prone to dark moods and periods of withdrawal, during which the monstrous aspects of his nature become more pronounced. Despite his inner turmoil, Tvilgorv possesses a stubborn core of humanity that manifests in unexpected acts of kindness and protection, as if proving to himself that the man he was still exists beneath the monster he has become.
+Wíthrún is dependable, patient under hardship and reluctant to admit when a burden is too heavy. Her Ox bond expresses those qualities. She wants other households to receive the protection her family lacked and wants a truthful reckoning of the raid. She is learning to let care reach her as readily as she gives it.
 
-### Motivation
+### Strengths and Limits
 
-Tvilgorv seeks to understand what he has become and whether his humanity can be preserved. He hopes to find a way to stabilize his transformation so that the monstrous aspects of his nature serve him rather than consume him. He also searches for Mótefnir's purpose in remaking him—whether the god saw something special in Tvilgorv or merely used him as raw material for another experiment.
-
-### Strengths
-
-Tvilgorv's reforged body is extraordinarily powerful, combining human martial skill with the raw strength and resilience of Dreadspawn essence. He can command lesser Dreadspawn through force of will, a rare ability that makes him invaluable in the wild territories where these creatures roam. His dual nature makes him resistant to both physical and magical attacks, and his monstrous senses give him the ability to detect threats long before ordinary humans can.
+She is a strong spear fighter, capable river swimmer and alert escort who reads banks and boat traffic well. Household trading experience helps her recognize a suspicious load or inconsistent account. She struggles to delegate, and stolen family goods can draw her away from sound judgment. She respects a hospitality or ransom pledge once given, even when it protects someone she hates.
 
 ## Social
 
-## Companions
-
-### Patrons
-
-**Gnuldrthýra the Forsaken**—A fellow being transformed by Mótefnir who understands Tvilgorv's struggle better than anyone. She offers companionship and the kind of acceptance he cannot find elsewhere.
-
-**Elder Thorbjorn**—The leader of the village Tvilgorv saved, who has declared Tvilgorv a friend of his people despite the warrior's monstrous appearance. He provides shelter and supplies when needed.
-
-### Enemies
-
-**His Former Clan**—The clan Tvilgorv once fought for has declared him dead and his current form an abomination wearing their kinsman's face. They hunt him with the same ferocity they would show any Dreadspawn.
-
-**The Collector**—A mysterious figure who captures and studies Mótefnir's transformed creations. The Collector has been tracking Tvilgorv and intends to add him to their collection, dead or alive.
+Her receiving household and companions are continuing relationships, not a debt canceled by her victories. She serves under the War Chief's military charge; the Other Chief handles provisioning and witnessed claims, while the Shaman guides sacred matters. Frontier traders may hold evidence she needs, even when the village distrusts them. She judges their present promises without forgetting the boat that brought the raiders.
 
 ## Plot Hooks
 
-1. **The Man Within**—Tvilgorv has discovered a ritual that might separate his human essence from the Dreadspawn parts of his nature, but the process could kill him or create two separate beings. He needs help gathering the components and protecting him during the ritual.
-
-2. **The Clan's Reckoning**—Tvilgorv's former clan is being threatened by a force they cannot defeat alone. They need his help but refuse to ask for it. Tvilgorv must decide whether to aid people who tried to kill him.
-
-3. **The Collector's Gallery**—Tvilgorv has found the Collector's hidden lair, where dozens of Mótefnir's transformed creations are imprisoned. He must infiltrate the gallery and free them, but the Collector has defenses that prey on the monstrous nature within each captive.
+1. **The Brass Fastening**—A trader offers a family possession and an account of the raiders. Help establish its provenance before Wíthrún mistakes a stolen object for proof of its current owner's guilt.
+2. **Room in the Boat**—Escort displaced households through a disputed landing. Wíthrún needs companions who can negotiate passage and share the work while she guards the vulnerable.
+3. **A Pledge Already Given**—A suspected raider is held under a ransom pledge. Keep the captive safe, find witnesses and bring a claim to the living chiefs while others urge Wíthrún to break the promise.

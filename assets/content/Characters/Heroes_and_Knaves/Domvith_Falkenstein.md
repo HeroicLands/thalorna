@@ -1,48 +1,78 @@
 ---
-shortcode: tvlgrvrfrgd
-name: {full: Tvilgorv the Reforged, given: Tvilgorv, aliases: [the Reforged]}
+shortcode: dmvthflknstn
+name: {full: Dómvith Falkenstein, given: Dómvith, clan: Falkenstein, aliases: []}
 type: being
 subType: character
-tags: [demigod, heroes-of-asguard, soldiery]
+tags: [heroes-and-knaves, hero, soldiery]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: [warrior]
-  occupation: Champion
+  archetypes: [warrior, woodsman]
+  occupation: Warrior
   stations: []
-  lore: []
-  culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  lore: [falconttm, wolfttm]
+  culture: varokhiclt
+  homes: [falkensten]
+  affiliations: {vrystwldtrbs: {rank: 3}}
   gender: male
   species: humanflk
-  born: 686.344
-  height: 1.76
-  weight: 78
-  frame: medium
+  born: null
+  height: 1.88
+  weight: 91
+  frame: heavy
   appearance:
-    eye_color: amber
-    hair_color: auburn
-    skin_color: fair
-    complexion: scarred
+    eye_color: gray
+    hair_color: brown
+    skin_color: pale
+    complexion: null
     extra_features: []
-  packFolder: ankarisnordlands
+  packFolder: ankarisvrystwald
 sohl:
   items:
-    - {model: sohl-sohl-attribute-str, system: {scoreBase: 18}}
-    - {model: sohl-sohl-attribute-end, system: {scoreBase: 19}}
-    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 14}}
-    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 15}}
-    - {model: sohl-sohl-attribute-per, system: {scoreBase: 16}}
-    - {model: sohl-sohl-attribute-cml, system: {scoreBase: 6}}
-    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 15}}
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 17}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 17}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 15}}
+    - {model: sohl-sohl-attribute-cml, system: {scoreBase: 11}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-wil, system: {scoreBase: 16}}
-    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 11}}
-    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 9}}
-    - {model: sohl-sohl-attribute-emp, system: {scoreBase: 10}}
-    - {model: sohl-sohl-attribute-elo, system: {scoreBase: 7}}
-    - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
-    - {model: sohl-sohl-attribute-voi, system: {scoreBase: 8}}
-    - {model: affiliation-motefnir}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 11}}
+    - {model: sohl-sohl-attribute-emp, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-elo, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
+    - {model: sohl-sohl-skill-melee, system: {masteryLevelBase: 85}}
+    - {model: sohl-sohl-skill-archery, system: {masteryLevelBase: 68}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 75}}
+    - {model: sohl-sohl-skill-cmd, system: {masteryLevelBase: 60}}
+    - {model: sohl-sohl-skill-srvl, system: {masteryLevelBase: 68}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 65}}
+    - {model: sohl-sohl-skill-trak, system: {masteryLevelBase: 60}}
+    - {model: sohl-sohl-skill-swim, system: {masteryLevelBase: 55}}
+    - {model: sohl-sohl-skill-clmb, system: {masteryLevelBase: 55}}
+    - {model: sohl-sohl-skill-dscr, system: {masteryLevelBase: 45}}
+    - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 50}}
+    - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 65}}
+    - {model: skill-varokhlng, system: {masteryLevelBase: 90}}
+    - {model: sohl-sohl-weapongear-spr}
+    - {model: sohl-sohl-weapongear-kish}
+    - {model: sohl-sohl-weapongear-cbw60}
+    - {model: sohl-sohl-weapongear-baxe}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-armorgear-rhtunic}
+    - {model: sohl-sohl-armorgear-rhbrch}
+    - {model: sohl-sohl-armorgear-rhshoe}
+    - {model: sohl-sohl-armorgear-bvcloak}
+    - {model: sohl-sohl-armorgear-bvcap}
+    - {model: sohl-sohl-miscgear-frtns, system: {quantity: 4}}
+    - {model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
+    - {model: sohl-sohl-containergear-backpk}
+    - {model: sohl-sohl-containergear-wtrskin}
+    - name: Coiled river rope and personal totem token
+      type: miscgear
+      system: {shortcode: riverrope, weight: 2, value: 20, durability: 3}
   system:
     body:
       structure:
@@ -345,65 +375,71 @@ sohl:
             shockValue: 2
             probWeight: 20
             protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
-      weight: {base: null, calc: "(9 * str) + 50"}
+      weight: {base: null, calc: (9 * str) + 50}
       reachBase: 0
       bodyScaleBase: 1
-      personalFatigue: "enc + 5"
+      personalFatigue: enc + 5
     currentMoveMedium: terrestrial
     movementProfiles:
       - medium: terrestrial
         feetPerRound: 50
         leaguesPerWatch: 5
-        encumbrance: "floor(wt/4)"
-        strMod: "-5 * floor((str - 10) / 2)"
+        encumbrance: floor(wt/4)
+        strMod: -5 * floor((str - 10) / 2)
         disabled: false
     defaultCombatGroup: null
 ---
 
 # Appearance {#appearance}
 
-Tvilgorv stands 6'2" with a massive, unnaturally muscled frame, weighing about 260 pounds. His medium-toned skin shifts unsettlingly between human flesh and something harder and darker, particularly along his arms and spine, where strange ridges protrude beneath the surface. His dark brown hair is lank and unkempt, and his amber eyes occasionally flash with an inhuman light that makes others flinch. His features are heavy and brutish—a broad, flat face, a crushed nose, a heavy brow, and a jaw too wide for a normal man—bearing the unmistakable marks of [[lore-motefnirdty|Mótefnir]]'s transformation. His voice carries a resonance that is not entirely human. Tvilgorv wears crude armor of boiled leather and salvaged plate, held together with sinew and iron wire, and carries a massive axe that he wields one-handed. He covers his most inhuman features with a hooded cloak, though the attempt at concealment fools no one up close.
+Dómvith is a broad man with graying hair, a flattened nose and a pale scar across one palm. He wears repaired leather over a wool tunic and carries a spear whose shaft has been replaced many times. A wolf token rests beneath his collar. His old command torc is absent; he touches the bare place at his throat when someone addresses him as a leader.
 
 # Dossier {#dossier}
 
-Tvilgorv was once a powerful warrior, known for his strength and bravery, but he was mortally wounded in a great battle. On the brink of death, his soul was drawn into one of Mótefnir's laboratories, where the god of creation saw potential in his broken body. Mótefnir, in a rare moment of interest, decided to experiment on Tvilgorv, merging his soul with the essence of several failed Dreadspawn. The process was agonizing, and Tvilgorv's body was twisted and reshaped into a form that was both human and monstrous. When the experiment was complete, Tvilgorv was left discarded, but he emerged with a new purpose.
+## The Man Who Stayed
 
-The saga of Tvilgorv the Reforged tells of his quest to reclaim his lost humanity while embracing the monstrous power that Mótefnir had bestowed upon him. Cast out from his homeland and feared by those who once knew him, Tvilgorv wandered the wilderness, grappling with his new identity. He encountered a village under siege by a powerful Dreadspawn. Tvilgorv confronted the beast, using both his human strength and his monstrous abilities. He emerged victorious, not by destroying the Dreadspawn, but by subduing it and bringing it under his control—an act of dominance over Mótefnir's creation that marked Tvilgorv as one of the god's favored.
+At [[place-falkensten|Falkenstein]] they tell of Dómvith twice. The first tale is quick, because a young man's triumph takes little breath. The second takes the length of a winter fire.
+
+He won his first renown at the crossing below the crag. His band stood shield to shield while the river rose around their knees. He knew each man's step and each man's fear, and he brought them home together. The Falcon was the village's wesk; the Wolf was the shape he found for himself. He was given charge of the crossing and men who would follow him gladly.
+
+Then came a raid and a retreating enemy with stolen cattle. His companions saw the chance for a greater song. Dómvith had orders to hold the crossing until the households behind it were safe. He listened to the men beside him, and their eagerness sounded like courage. They pursued.
+
+They took back the cattle. Behind them another enemy band reached the unguarded boats. Three defenders died, a household burned, and people who had trusted his charge fled into the reeds. Dómvith came home with horns and hides enough to cover the shame. He said the crossing had already fallen when he left it.
+
+A boatwoman had watched him go. Before the living witnesses she repeated his last words to his companions. He could remember saying them. He could no longer bear hearing them.
+
+The Other Chief heard the losses and the witnesses. The War Chief took back his charge. The Shaman answered for the disturbed burial ground beside the burned house. Where the harms met, the three seats sat together. His kin kept him, and he remained of Falkenstein. He owed restitution and had lost the trust with which the crossing had been placed in his hands.
+
+Do not hurry the years that follow. He gave his raid shares to the harmed households. He hauled timber, escorted those who would not ride beside him, and stood watches under younger men. One widow accepted the grain and would never accept his company. The reciters leave her that choice.
+
+When the crossing was threatened again, he was there as a defender. Across the water he saw the leader of the earlier attack, close enough that a strong swimmer might reach him. Behind Dómvith the last boat had grounded, heavy with children and old people. He had a spear, a rope and the length of one choice.
+
+He drove the spear beneath the boat's side and lifted while others pulled. An arrow pinned his hand to the shaft. He broke the shaft, left the point where it stood and took the rope. The enemy leader escaped. The boat floated.
+
+When relief came, Dómvith could not close his injured hand. The younger captain asked why he had stayed when there had been glory across the river. “There were people behind me,” he said. It was an answer he could have given years before.
+
+The village trusted him with watches again. He did not recover every friendship or his former command. Yet when the crossing must be held, people ask whether Dómvith is there. The tale ends with the rope passing from his sound hand to another's, because even the man who stays must learn to let others carry their part.
+
+## Playing Dómvith
+
+The oral accounts agree on the abandoned charge and the grounded boat, but place them in different generations. This sheet presents him after the rescue, with restored trust as a warrior and no current command office. His hand has healed enough for ordinary weapon use, leaving a visible scar; its temporary incapacity belongs to the tale. Living restitution and trust shape his redemption. No reciter can state how the ancestors will judge him.
 
 ## Psyche
 
-### Personality
+### Personality and Motivation
 
-Tvilgorv is haunted and conflicted, a man trapped between two natures that war constantly within him. He speaks little, and when he does, his voice carries a resonance that is not entirely human. He is prone to dark moods and periods of withdrawal, during which the monstrous aspects of his nature become more pronounced. Despite his inner turmoil, Tvilgorv possesses a stubborn core of humanity that manifests in unexpected acts of kindness and protection, as if proving to himself that the man he was still exists beneath the monster he has become.
+Dómvith's Wolf bond expresses cooperation, careful formation fighting and loyalty. His weakness is letting a group's desire replace his own judgment. He seeks to be reliable to those entrusted to him and to finish the restitution that remains. Praise makes him wary; a clearly stated duty steadies him.
 
-### Motivation
+### Strengths and Limits
 
-Tvilgorv seeks to understand what he has become and whether his humanity can be preserved. He hopes to find a way to stabilize his transformation so that the monstrous aspects of his nature serve him rather than consume him. He also searches for Mótefnir's purpose in remaking him—whether the god saw something special in Tvilgorv or merely used him as raw material for another experiment.
-
-### Strengths
-
-Tvilgorv's reforged body is extraordinarily powerful, combining human martial skill with the raw strength and resilience of Dreadspawn essence. He can command lesser Dreadspawn through force of will, a rare ability that makes him invaluable in the wild territories where these creatures roam. His dual nature makes him resistant to both physical and magical attacks, and his monstrous senses give him the ability to detect threats long before ordinary humans can.
+He is an experienced spear fighter and woodsman who can organize a defense without needing its command. He notices when a band has become excited enough to forget its charge. He is poor at defending himself in argument and sometimes accepts blame that belongs elsewhere. A victory cannot recover lost lives, and the people he harmed owe him no forgiveness.
 
 ## Social
 
-## Companions
-
-### Patrons
-
-**Gnuldrthýra the Forsaken**—A fellow being transformed by Mótefnir who understands Tvilgorv's struggle better than anyone. She offers companionship and the kind of acceptance he cannot find elsewhere.
-
-**Elder Thorbjorn**—The leader of the village Tvilgorv saved, who has declared Tvilgorv a friend of his people despite the warrior's monstrous appearance. He provides shelter and supplies when needed.
-
-### Enemies
-
-**His Former Clan**—The clan Tvilgorv once fought for has declared him dead and his current form an abomination wearing their kinsman's face. They hunt him with the same ferocity they would show any Dreadspawn.
-
-**The Collector**—A mysterious figure who captures and studies Mótefnir's transformed creations. The Collector has been tracking Tvilgorv and intends to add him to their collection, dead or alive.
+His kin retained him when his command was withdrawn. Younger captains give his present orders, and he respects the distinction between their charge and his experience. The harmed households receive his remaining payments through witnessed reckoning. Former companions remember the cattle raid more fondly than he does, making them a continuing temptation.
 
 ## Plot Hooks
 
-1. **The Man Within**—Tvilgorv has discovered a ritual that might separate his human essence from the Dreadspawn parts of his nature, but the process could kill him or create two separate beings. He needs help gathering the components and protecting him during the ritual.
-
-2. **The Clan's Reckoning**—Tvilgorv's former clan is being threatened by a force they cannot defeat alone. They need his help but refuse to ask for it. Tvilgorv must decide whether to aid people who tried to kill him.
-
-3. **The Collector's Gallery**—Tvilgorv has found the Collector's hidden lair, where dozens of Mótefnir's transformed creations are imprisoned. He must infiltrate the gallery and free them, but the Collector has defenses that prey on the monstrous nature within each captive.
+1. **The Last Reckoning**—A surviving witness disputes the remaining restitution. Escort the witness and establish a living account while Dómvith's former companions try to suppress their part in the raid.
+2. **The Profitable Pursuit**—His old band proposes a rich raid during his next defensive watch. Help him keep the crossing while discovering whether the offer conceals an attack on it.
+3. **The Grounded Boat**—Floodwater has trapped households at the crossing. The party must free and escort the boats while Dómvith holds the approach under a young captain whose orders he must trust.
