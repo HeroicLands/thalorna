@@ -10,7 +10,7 @@ data:
   archetypes: [cleric, woodsman]
   occupation: Shaman
   stations: []
-  lore: [sturgeonttm, owlttm]
+  lore: [sturgeonttm, owlttm, sturgeonroad]
   culture: varokhiclt
   homes: [grimholt]
   affiliations: {vrystwldtrbs: {rank: 5}}
@@ -415,6 +415,8 @@ The Other Chief reckoned the theft before living witnesses; the War Chief guarde
 This is how the tale ends: when someone says he saved Grimholt alone, the reciter names the grandmother, the companions and the households. Then the reciter sets an empty bowl beside the fire, so that everyone sees there is room to put something in.
 
 ## Playing Véthar
+
+The longer fireside verse is [[lore-sturgeonroad|The Sturgeon Road]].
 
 The dates and the returning bowl differ between tellings. The sheet portrays Véthar after the first successful journey, while the grove still needs care. His trance journeys are dangerous spiritual mediation, resolved by the gamemaster; they confer no unrestricted power to travel, command spirits or predict events. He need not question the dead. He never seeks future knowledge, detailed spirit-world existence, combat or revenge counsel, or information about the banished. His tale gives no verdict about the fate of any dead person.
 
