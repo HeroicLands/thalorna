@@ -8368,7 +8368,12 @@
             "oldAddress": "being-thrnkbldtscbr",
             "oldImage": "assets/images/beings/characters/thrnkbldtscbr.webp",
             "newName": "Thornak Blodtusc Bar",
-            "newAliases": ["The Boar-Totem Warrior", "Blodtusc Bar", "Thornak Mahnlin"],
+            "newAliases": [
+                "The Boar-Totem Warrior",
+                "Blodtusc Bar",
+                "Thornak Eichengrund",
+                "Thornak Mahnlin"
+            ],
             "newPath": "assets/content/Characters/Heroes_and_Knaves/Thornak_Mahnlin.md",
             "newShortcode": "thrnkbldtscbr",
             "newAddress": "being-thrnkbldtscbr",
@@ -8378,7 +8383,7 @@
             "type": "being",
             "subType": "full",
             "description": null,
-            "note": "neither tongue in the corpus writes a macron, so Blodtūsc Bār is simply Blodtusc Bar struck of a mark; the byname is for his boar totem and its bloody tusks, kept beside the given name and tribe (Mahnlin) that are not renaming candidates",
+            "note": "The byname loses its macrons; Thornak belongs to the Eichengrund clan and shares its boar wesk. Thornak Mahnlin is retained as a historical alias.",
             "prose": null,
             "oldRefPaths": [
                 "7d6ca371c:assets/content/Characters/Heroes_and_Knaves/Thornak_Mahnlin.md:4:9",
@@ -8492,14 +8497,14 @@
             "kinds": []
         },
         {
-            "oldName": null,
-            "oldAliases": null,
-            "oldPath": null,
-            "oldShortcode": null,
-            "oldAddress": null,
-            "oldImage": null,
-            "newName": "Athalwa Vithrúnd",
-            "newAliases": null,
+            "oldName": "Athalwa Vithrúnd",
+            "oldAliases": [],
+            "oldPath": "assets/content/Characters/Heroes_and_Knaves/Athalwa_Vithrund.md",
+            "oldShortcode": "athlwvthrnd",
+            "oldAddress": "being-athlwvthrnd",
+            "oldImage": "assets/images/beings/characters/athlwvthrnd.webp",
+            "newName": "Athalwa Eichengrund",
+            "newAliases": ["Athalwa Vithrúnd"],
             "newPath": "assets/content/Characters/Heroes_and_Knaves/Athalwa_Vithrund.md",
             "newShortcode": "athlwvthrnd",
             "newAddress": "being-athlwvthrnd",
@@ -8509,9 +8514,11 @@
             "type": "being",
             "subType": "full",
             "description": null,
-            "note": "oldName: null — nothing is retired; the note's name.full was never anything else",
-            "prose": "War Chief of the Vithrúnd, holding the Vrystwald Tribes seat by her warband’s acclamation rather than a council’s preference.",
-            "oldRefPaths": [],
+            "note": "The resident uses Eichengrund as the clan name; the former full name remains a historical alias, with stable identity and source path.",
+            "prose": "War Chief of Eichengrund, holding its seat by her warband’s acclamation rather than a council’s preference.",
+            "oldRefPaths": [
+                "e7259c08d:assets/content/Characters/Heroes_and_Knaves/Athalwa_Vithrund.md:3:14"
+            ],
             "boldKind": "none",
             "kinds": []
         },
@@ -8828,14 +8835,14 @@
             "kinds": []
         },
         {
-            "oldName": null,
-            "oldAliases": null,
-            "oldPath": null,
-            "oldShortcode": null,
-            "oldAddress": null,
+            "oldName": "Óthwin Dómhár",
+            "oldAliases": [],
+            "oldPath": "assets/content/Characters/Occupations/Othwin_Domhar.md",
+            "oldShortcode": "othwindmhr",
+            "oldAddress": "being-othwindmhr",
             "oldImage": null,
-            "newName": "Óthwin Dómhár",
-            "newAliases": null,
+            "newName": "Óthwin Eichengrund",
+            "newAliases": ["Óthwin Dómhár"],
             "newPath": "assets/content/Characters/Occupations/Othwin_Domhar.md",
             "newShortcode": "othwindmhr",
             "newAddress": "being-othwindmhr",
@@ -8845,9 +8852,11 @@
             "type": "being",
             "subType": "full",
             "description": null,
-            "note": "oldName: null — nothing is retired; the note's name.full was never anything else",
+            "note": "The resident uses Eichengrund as the clan name; the former full name remains a historical alias, with stable identity and source path.",
             "prose": "A lone trapper of Eichengrund, gruff and self-sufficient.",
-            "oldRefPaths": [],
+            "oldRefPaths": [
+                "e7259c08d:assets/content/Characters/Occupations/Othwin_Domhar.md:3:14"
+            ],
             "boldKind": "none",
             "kinds": []
         },
@@ -8900,14 +8909,14 @@
             "kinds": []
         },
         {
-            "oldName": null,
-            "oldAliases": null,
-            "oldPath": null,
-            "oldShortcode": null,
-            "oldAddress": null,
+            "oldName": "Sundwíra Hildvith",
+            "oldAliases": [],
+            "oldPath": "assets/content/Characters/Occupations/Sundwira_Hildvith.md",
+            "oldShortcode": "sndwrhldvth",
+            "oldAddress": "being-sndwrhldvth",
             "oldImage": null,
-            "newName": "Sundwíra Hildvith",
-            "newAliases": null,
+            "newName": "Sundwíra Eichengrund",
+            "newAliases": ["Sundwíra Hildvith"],
             "newPath": "assets/content/Characters/Occupations/Sundwira_Hildvith.md",
             "newShortcode": "sndwrhldvth",
             "newAddress": "being-sndwrhldvth",
@@ -8917,9 +8926,11 @@
             "type": "being",
             "subType": "full",
             "description": null,
-            "note": "oldName: null — nothing is retired; the note's name.full was never anything else",
+            "note": "The resident uses Eichengrund as the clan name; the former full name remains a historical alias, with stable identity and source path.",
             "prose": "An ostler of Eichengrund, attentive to the horses in her care.",
-            "oldRefPaths": [],
+            "oldRefPaths": [
+                "e7259c08d:assets/content/Characters/Occupations/Sundwira_Hildvith.md:3:14"
+            ],
             "boldKind": "none",
             "kinds": []
         },
@@ -9140,14 +9151,14 @@
             "kinds": []
         },
         {
-            "oldName": null,
-            "oldAliases": null,
-            "oldPath": null,
-            "oldShortcode": null,
-            "oldAddress": null,
+            "oldName": "Wulfrád Hildvith",
+            "oldAliases": [],
+            "oldPath": "assets/content/Characters/Occupations/Wulfrad_Hildvith.md",
+            "oldShortcode": "wlfrdhldvth",
+            "oldAddress": "being-wlfrdhldvth",
             "oldImage": null,
-            "newName": "Wulfrád Hildvith",
-            "newAliases": null,
+            "newName": "Wulfrád Eichengrund",
+            "newAliases": ["Wulfrád Hildvith"],
             "newPath": "assets/content/Characters/Occupations/Wulfrad_Hildvith.md",
             "newShortcode": "wlfrdhldvth",
             "newAddress": "being-wlfrdhldvth",
@@ -9157,9 +9168,11 @@
             "type": "being",
             "subType": "full",
             "description": null,
-            "note": "oldName: null — nothing is retired; the note's name.full was never anything else",
+            "note": "The resident uses Eichengrund as the clan name; the former full name remains a historical alias, with stable identity and source path.",
             "prose": "A sapper of Eichengrund who trains recruits in siege engineering.",
-            "oldRefPaths": [],
+            "oldRefPaths": [
+                "e7259c08d:assets/content/Characters/Occupations/Wulfrad_Hildvith.md:3:14"
+            ],
             "boldKind": "none",
             "kinds": []
         },

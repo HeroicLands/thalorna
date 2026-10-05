@@ -1,6 +1,6 @@
 ---
 shortcode: othwindmhr
-name: {full: Óthwin Dómhár, aliases: []}
+name: {full: Óthwin Eichengrund, aliases: [Óthwin Dómhár]}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -394,11 +394,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Óthwin Dómhár is a 52-year-old man who stands 6'0" tall and is broad and solidly built. He has a diamond face with sharp cheekbones, a wide forehead, and a strong jaw that leads to a square chin. His almond-shaped hazel eyes sit beneath furrowed brows and give him a measured gaze. He has a broad nose and full lips. He has light skin with a weathered complexion. His gray hair is thick and unkempt. Deep lines mark his weathered brow.
+Óthwin Eichengrund is a 52-year-old man who stands 6'0" tall and is broad and solidly built. He has a diamond face with sharp cheekbones, a wide forehead, and a strong jaw that leads to a square chin. His almond-shaped hazel eyes sit beneath furrowed brows and give him a measured gaze. He has a broad nose and full lips. He has light skin with a weathered complexion. His gray hair is thick and unkempt. Deep lines mark his weathered brow.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Óthwin Dómhár is a trapper.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Óthwin Eichengrund is a trapper.
 
 Óthwin has lived in the woods his entire life, learning to trap animals for food and furs from his grandfather. He is a grizzled veteran of the trade, well versed in the habits of forest creatures. His experience lets him find animals that others cannot, and he is often sent for to track dangerous predators. His gruff nature can be intimidating, but he is loyal to those who earn his trust.
 
