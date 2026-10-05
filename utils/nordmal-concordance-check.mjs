@@ -446,11 +446,12 @@ export function checkCitations(rows, raw) {
                 );
                 continue;
             }
+            // Source capitalization varies; accents and the cited position remain exact.
             const forms = namesOf(row);
             if (!forms.length) continue;
             const said = forms.length === 1 ? `"${forms[0]}"` : `any name of "${forms[0]}"`;
             if (column === undefined) {
-                if (!forms.some((form) => body.includes(form)))
+                if (!forms.some((form) => body.toLowerCase().includes(form.toLowerCase())))
                     out.push(
                         finding(
                             TABLE,
@@ -463,7 +464,11 @@ export function checkCitations(rows, raw) {
                 continue;
             }
             const at = Number(column) - 1;
-            if (!forms.some((form) => body.slice(at, at + form.length) === form))
+            if (
+                !forms.some(
+                    (form) => body.slice(at, at + form.length).toLowerCase() === form.toLowerCase(),
+                )
+            )
                 out.push(
                     finding(
                         TABLE,
@@ -936,4 +941,4 @@ function main() {
     return errors ? 1 : 0;
 }
 
-process.exitCode = main();
+if (import.meta.filename === path.resolve(process.argv[1] ?? "")) process.exitCode = main();
