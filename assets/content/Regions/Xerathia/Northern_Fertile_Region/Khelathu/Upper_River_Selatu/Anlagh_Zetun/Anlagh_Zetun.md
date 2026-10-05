@@ -12,6 +12,7 @@ data:
   parents: [anlaghztnslt]
   population: 80000
   packFolder: regkhsett
+  government: selatnlghztn
 ---
 
 ## Overview

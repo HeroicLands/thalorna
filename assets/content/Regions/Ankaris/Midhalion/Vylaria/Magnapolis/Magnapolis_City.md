@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "Capital City of Vylaria"
 tags: [capital, city]
-data: {demonym: null, lore: [], parents: [vylariargn], population: 900000, packFolder: vylaria}
+data:
+  demonym: null
+  lore: []
+  parents: [vylariargn]
+  population: 900000
+  packFolder: vylaria
+  government: curiaurbis
 ---
 
 > _"All roads are the Empire's roads, and every one of them runs home to Magnápolis."_—Vylarian proverb

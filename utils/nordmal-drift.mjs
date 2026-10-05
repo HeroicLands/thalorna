@@ -103,6 +103,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { pathToFileURL } from "node:url";
 import YAML from "yaml";
+import { membershipTitleSpans } from "./nordmal-membership-titles.mjs";
 
 /** Where the authored tree lives. */
 const CONTENT_DIR = "assets/content";
@@ -524,6 +525,12 @@ export function checkDrift(pairs, keep, files, scoped, tally) {
 
         for (const entry of keepPatterns) {
             if (entry.paths && !entry.paths.includes(file)) continue;
+            if (Object.hasOwn(entry, "membershipLevel")) {
+                const spans = membershipTitleSpans(entry, file, raw);
+                taken.push(...spans);
+                tally.kept.set(entry.literal, (tally.kept.get(entry.literal) ?? 0) + spans.length);
+                continue;
+            }
             entry.rx.lastIndex = 0;
             let match;
             while ((match = entry.rx.exec(text)) !== null) {

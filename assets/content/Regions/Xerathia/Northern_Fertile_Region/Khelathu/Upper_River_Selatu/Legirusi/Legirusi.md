@@ -12,6 +12,7 @@ data:
   parents: [legirusiselt]
   population: 38000
   packFolder: regkhsett
+  government: selatlegirus
 ---
 
 ## Overview

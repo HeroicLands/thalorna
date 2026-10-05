@@ -12,6 +12,7 @@ data:
   parents: [iqeruselat]
   population: 33000
   packFolder: regkhsett
+  government: selatiqeru
 ---
 
 ## Overview

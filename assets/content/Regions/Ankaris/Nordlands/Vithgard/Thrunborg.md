@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "Fortified Town / Capital"
 tags: [town, capital, fortified]
-data: {demonym: null, lore: [], parents: [vithgard], population: 700, packFolder: vithgard}
+data:
+  demonym: null
+  lore: []
+  parents: [vithgard]
+  population: 700
+  packFolder: vithgard
+  government: kngdmvthgrd
 ---
 
 ## Overview

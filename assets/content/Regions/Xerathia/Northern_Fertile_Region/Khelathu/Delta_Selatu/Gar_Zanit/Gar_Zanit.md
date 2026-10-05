@@ -12,6 +12,7 @@ data:
   parents: [garzanitselt]
   population: 34000
   packFolder: regkhsett
+  government: selatgarzant
 ---
 
 ## Overview

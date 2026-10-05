@@ -12,6 +12,7 @@ data:
   parents: [khelagaselat]
   population: 26000
   packFolder: regkhsett
+  government: selatkhelaga
 ---
 
 ## Overview

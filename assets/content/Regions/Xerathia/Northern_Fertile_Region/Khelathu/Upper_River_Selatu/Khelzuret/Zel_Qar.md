@@ -12,6 +12,7 @@ data:
   parents: [khelzuretslt]
   population: 6000
   packFolder: regkhsett
+  government: linzemnlzlqr
 ---
 
 ## Overview

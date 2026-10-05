@@ -12,6 +12,7 @@ data:
   parents: [khuqetimntiqnome]
   population: 12000
   packFolder: regkhsett
+  government: seltkhqtmntq
 ---
 
 ## Overview

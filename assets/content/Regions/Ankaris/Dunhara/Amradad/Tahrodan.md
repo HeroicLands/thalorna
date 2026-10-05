@@ -11,6 +11,7 @@ data:
   parents: [amradadrgn]
   population: 30000
   packFolder: amradad
+  government: sultntmrdd
 ---
 
 ## Overview
