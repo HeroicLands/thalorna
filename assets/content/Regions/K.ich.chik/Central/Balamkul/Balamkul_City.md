@@ -5,7 +5,7 @@ type: place
 subType: settlement
 description: "City"
 tags: [city, draft]
-data: {demonym: null, lore: [], parents: [balamkulrgn], population: 150000}
+data: {demonym: null, lore: [], parents: [balamkulrgn], population: 150000, government: balamkul}
 ---
 
 ## Overview

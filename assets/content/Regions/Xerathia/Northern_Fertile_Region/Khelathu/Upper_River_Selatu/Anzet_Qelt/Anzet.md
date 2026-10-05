@@ -12,6 +12,7 @@ data:
   parents: [anzetqeltnome]
   population: 24000
   packFolder: regkhsett
+  government: selatanztqlt
 ---
 
 ## Overview

@@ -5,7 +5,7 @@ type: place
 subType: settlement
 description: "Harbor City"
 tags: [port, city, draft]
-data: {demonym: null, lore: [], parents: [aureldirgn], population: 28000}
+data: {demonym: null, lore: [], parents: [aureldirgn], population: 28000, government: calypsa}
 ---
 
 ## Overview

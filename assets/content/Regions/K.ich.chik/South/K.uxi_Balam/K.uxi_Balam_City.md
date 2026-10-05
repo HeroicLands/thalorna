@@ -5,7 +5,7 @@ type: place
 subType: settlement
 description: "City"
 tags: [city, draft]
-data: {demonym: null, lore: [], parents: [kuxibalamrgn], population: 30000}
+data: {demonym: null, lore: [], parents: [kuxibalamrgn], population: 30000, government: kuxibalam}
 ---
 
 ## Overview

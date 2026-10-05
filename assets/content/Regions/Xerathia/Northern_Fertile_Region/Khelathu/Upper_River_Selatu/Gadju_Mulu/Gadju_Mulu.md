@@ -12,6 +12,7 @@ data:
   parents: [gadjumuluslt]
   population: 27000
   packFolder: regkhsett
+  government: selatgadjuml
 ---
 
 ## Overview

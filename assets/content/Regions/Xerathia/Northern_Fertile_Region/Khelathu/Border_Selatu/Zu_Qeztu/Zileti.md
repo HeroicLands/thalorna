@@ -12,6 +12,7 @@ data:
   parents: [zuqeztunome]
   population: 12000
   packFolder: regkhsett
+  government: selatzuqeztu
 ---
 
 ## Overview

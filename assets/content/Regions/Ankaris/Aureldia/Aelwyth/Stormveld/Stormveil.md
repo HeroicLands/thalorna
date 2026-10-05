@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "The jarl's seat in Nordmen-held Stormveld—a hall on the height, a harbor facing north, and the thrall quarters below."
 tags: [town, port, coastal]
-data: {demonym: null, lore: [], parents: [stormplain], population: 6000, packFolder: aelwyth}
+data:
+  demonym: null
+  lore: []
+  parents: [stormplain]
+  population: 6000
+  packFolder: aelwyth
+  government: jrldmstrmvld
 ---
 
 **Stormveil** is the seat of the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]], on the north-eastern

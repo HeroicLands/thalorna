@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "Fortified Town"
 tags: [town, fortified]
-data: {demonym: null, lore: [], parents: [malagna], population: 1200, packFolder: malagna}
+data:
+  demonym: null
+  lore: []
+  parents: [malagna]
+  population: 1200
+  packFolder: malagna
+  government: kingdomlgn
 ---
 
 ## Overview

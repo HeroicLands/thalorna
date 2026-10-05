@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "Pass Town"
 tags: [town]
-data: {demonym: null, lore: [], parents: [moktur], population: 5000, packFolder: vylaria}
+data:
+  demonym: null
+  lore: []
+  parents: [moktur]
+  population: 5000
+  packFolder: vylaria
+  government: provncmktr
 ---
 
 ## Overview

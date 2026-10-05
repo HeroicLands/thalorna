@@ -5,7 +5,7 @@ type: place
 subType: settlement
 description: "Harbor Town"
 tags: [port, town, draft]
-data: {demonym: null, lore: [], parents: [galvaren], population: 20000}
+data: {demonym: null, lore: [], parents: [galvaren], population: 20000, government: kngdmglvrn}
 ---
 
 ## Overview

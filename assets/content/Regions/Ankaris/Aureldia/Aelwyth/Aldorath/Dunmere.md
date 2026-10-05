@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "The seat of the Kingdom of Aldorath and the only true city in it—a walled market and castle town where the whole business of a feudal realm is transacted."
 tags: [city, inland, fortified]
-data: {demonym: null, lore: [], parents: [aldorvale], population: 20000, packFolder: aelwyth}
+data:
+  demonym: null
+  lore: []
+  parents: [aldorvale]
+  population: 20000
+  packFolder: aelwyth
+  government: kngdmldrth
 ---
 
 **Dunmere** is the seat of the [[affiliation-kngdmldrth|Kingdom of Aldorath]] and, at some twenty
