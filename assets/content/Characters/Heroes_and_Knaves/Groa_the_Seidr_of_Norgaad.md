@@ -458,7 +458,7 @@ This singular event shook Gróa to her core and set her on a journey beyond the 
 
 - [[being-hlrthsldhrngsdtr|Hlirthselda Hringsdóttir]]
 - [[being-vrthmylfrhr|Vrathmýl Firehair]]
-- [[being-tvrnvrwndr|Tvirnvir the Wanderer]]
+- [[being-dagmrskaald|Dagmar the Skaald]]
 
 ### Skills and Abilities
 
