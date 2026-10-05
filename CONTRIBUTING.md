@@ -70,3 +70,7 @@ Nordmal aliases and the language note's examples retain their normal spelling.
 
 Run `node --test utils/lexicons/*.test.mjs` when changing this guard, and
 `npm run lint:nordmal-concordance` when changing the table.
+
+Concordance source citations accept capitalization variants of a recorded name.
+Accents and specified columns remain exact; a note’s full name must match its
+concordance row. A live spelling does not belong in the retired alias list.
