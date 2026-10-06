@@ -74,7 +74,7 @@ Mídhalión operates on the **Common Calendar**—the AF/BF system established b
 - [[place-aelwyth|Aelwyth]]—the Misty Isle
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—dominant southern imperial power
 - [[affiliation-okharis|Okháris]]—southwestern three-flamed kingdom
-- [[affiliation-mtrrchybth|Matriarchy of Bethua]]—southeastern matriarchal kingdom
+- [[affiliation-mtrrchybth|Matriarchy of Bethua]]—matriarchal kingdom of the central southern shore
 - [[affiliation-ordoarcanis|Ordo Arcanis]]—cross-border arcane institution
 - [[skill-valtarlng|Valtári]]—the trade pidgin
 - [[place-ankrscntnnt|Ankaris Continent]]—northern continent

@@ -33,5 +33,6 @@ The frontier reading is gentler and not held to be wrong so much as differently 
 of the western uplands and the hill-dwellers of the east understand him as an aspect of storm,
 earthquake and drought, and work protections accordingly.
 
-TBD—whether the sect that would wake the False Uqa'â regards him as Azu'âthis's instrument, or merely
-as the most useful ruin available.
+:::secret
+**For the GM:** Whether the sect that would wake the False Uqa'â takes Azu'âthis to be behind its work, or regards the sorcerer-king as merely the most useful ruin available, is not settled.
+:::

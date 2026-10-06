@@ -15,3 +15,7 @@ data:
 ---
 
 Melgat is worked in the desert hills of [[place-zuzeliaqtetnome|Zu-Zel-Iaqtet]], its turquoise camps held by a guard-fort against whatever the empty country might send against them. It lives by the stone, and everything the camp drinks is carried in by caravan rather than drawn from any source of its own. The guard-fort's purpose is as much about the caravan's safe arrival as about the turquoise it protects once it is cut.
+
+## See Also
+
+- [[place-zuzeliaqtetnome|Zu-Zel-Iaqtet]]—The selat country that holds it

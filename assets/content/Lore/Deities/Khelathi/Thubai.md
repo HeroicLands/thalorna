@@ -30,5 +30,4 @@ His temples are correspondingly worldly. They hold the wine vaults and the grana
 granaries feed the dole—which makes the cult of pleasure also, quietly, a lever on the peace of
 the capital.
 
-TBD—how the priesthood answers the ascetic faiths' charge that this is indulgence dressed as
-devotion. The argument is clearly old and nobody has recorded the reply.
+The ascetic faiths charge that his worship is indulgence dressed as devotion. The charge is old, and the priesthood's answer to it is not written down.

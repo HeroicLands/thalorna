@@ -8,11 +8,15 @@ tags: [generated]
 data:
   packFolder: regkhaff
   governance:
+    model: council
+    summary: >-
+      An oath-bound society that takes exotic beasts and forces them to fight for spectacle. It keeps no book: what a member owes is sworn before the others and held by them.
     ranks:
       - level: 1
-        title: "Member"
+        title: Sworn
         description: >-
-          Belongs to the oath-bound society that takes exotic beasts for fighting spectacles.
+          Has sworn the society's oath before the others, who hold what is owed under it.
+    offices: {}
 ---
 
 A secret society that takes exotic beasts and forces them to fight for spectacle. Those who train animals for any other purpose are an obstruction to be removed.

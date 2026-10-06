@@ -15,13 +15,15 @@ sohl:
     parentSkillCode: lang
     initSkillMult: 0
   flags: {"thalorna": {lang_family: Helonic}}
+
+# terran_analog: Bethuan stands to Helonic as Spanish to Latin, and the Khelâthi superstrate parallels the Arabic stratum in Spanish.
 ---
 
 Bethuan is a tongue of the Helonic family. Fluency measures the sophistication of expression in Bethuan, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 The tongue of the [[affiliation-mtrrchybth|Matriarchy of Bethua]], spoken by a people who preserved—and transformed—the ancient Helonic heritage in isolation. Bethuan represents a distinct evolutionary path from the common Helonic ancestor, retaining older phonetic features lost elsewhere while developing a unique grammatical feature unknown among the Helonic sisters: a sophisticated system of **gender registers** that reflects and reinforces the matriarchal social order. Formal educated speech in Bethuan employs a distinctly elevated, feminized register; masculine speech carries a markedly different grammatical flavor.
 
-Two forces shaped the language, and the relationship between them mirrors Bethûa's own history. Its bones are **Helonic**—Bethuan stands to mainland [[skill-helonclng|Helonic]] roughly as one Romance tongue stands to its sister, the inheritance of the Helonic colonists who first planted the realm. But laid over that inheritance is a thick stratum of **loanwords from [[skill-khelathlng|Khelâthi Language]]**, the prestige tongue of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] that midwifed Bethûan independence—a borrowed vocabulary concentrated in administration, water-engineering, commerce, the calendar, and luxury, much as Arabic enriched the Spanish of an older world. The deep grammar, the register system, and the core vocabulary remain Helonic to the root; the machinery of the modern state speaks in Khelâthi loanwords. (See [[skill-bethunlng#the-khelathi-superstrate|The Khelâthi Superstrate]].)
+Two forces shaped the language, and the relationship between them mirrors Bethûa's own history. Its bones are **Helonic**—Bethuan stands to mainland [[skill-helonclng|Helonic]] roughly as one sister tongue stands to another, the inheritance of the Helonic colonists who first planted the realm. But laid over that inheritance is a thick stratum of **loanwords from [[skill-khelathlng|Khelâthi Language]]**, the prestige tongue of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] that midwifed Bethûan independence—a borrowed vocabulary concentrated in administration, water-engineering, commerce, the calendar, and luxury. The deep grammar, the register system, and the core vocabulary remain Helonic to the root; the machinery of the modern state speaks in Khelâthi loanwords. (See [[skill-bethunlng#the-khelathi-superstrate|The Khelâthi Superstrate]].)
 
 ## Overview
 
@@ -161,7 +163,7 @@ Bethuan evolved from **Proto-Helonic** along a distinct path, isolated by geogra
 
 ## The Khelâthi Superstrate {#the-khelathi-superstrate}
 
-If the gender registers are what make Bethuan structurally unique, the **Khelâthi superstrate** is what makes it sound unmistakably itself. Bethuan inherited its grammar and its core vocabulary from Helonic, but layered over that inheritance is a dense stratum of loanwords from [[skill-khelathlng|Khelâthi Language]], the unrelated and far older tongue of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]. The parallel is to the Arabic stratum in an older world's Spanish: a prestigious neighbor's vocabulary, entering not by descent but by cultural gravity and patronage, and clustering tightly in particular domains of life.
+If the gender registers are what make Bethuan structurally unique, the **Khelâthi superstrate** is what makes it sound unmistakably itself. Bethuan inherited its grammar and its core vocabulary from Helonic, but layered over that inheritance is a dense stratum of loanwords from [[skill-khelathlng|Khelâthi Language]], the unrelated and far older tongue of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]. It is a prestigious neighbor's vocabulary, entering not by descent but by cultural gravity and patronage, and clustering tightly in particular domains of life.
 
 The borrowing followed the realm's history. When Aû'Khelâthu backed Bethûan independence and the new state rebuilt its institutions on Khelâthi models, it imported the words along with the methods. The result is that the technical, administrative, and commercial life of Bethûa is conducted in a Helonic grammar studded with Khelâthi nouns—while the language of poetry, philosophy, and the temple stays defiantly Helonic.
 

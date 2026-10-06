@@ -8,11 +8,19 @@ tags: [generated]
 data:
   packFolder: regkhaff
   governance:
+    model: council
+    summary: >-
+      A secretive society of thief-philosophers who hold every lock to be a puzzle, taking apprentices, setting terms and holding their people to them as a sworn guild does.
     ranks:
       - level: 1
-        title: "Member"
+        title: Apprentice
         description: >-
-          Belongs to the sworn society of thief-philosophers who study locks and hold one another to their terms.
+          Learning the study of locks under the society's terms.
+      - level: 2
+        title: Sworn
+        description: >-
+          Bound by the society's terms, and holding the others to them.
+    offices: {}
 ---
 
 A secretive body of thief-philosophers who hold every lock to be a puzzle rather than a barrier, and who treat the empire's finest locksmith as a standing challenge.

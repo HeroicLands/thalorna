@@ -20,4 +20,5 @@ Iugu-Leri is one of the scores of villages ringing [[place-galezkara|Galezkara]]
 
 ## See Also
 
-TBD.
+- [[place-galezkaraslt|Galezkara Selat]]—The selat country that holds it
+- [[place-galezkara|Galezkara]]—The imperial city

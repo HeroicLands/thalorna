@@ -8,11 +8,25 @@ tags: [generated]
 data:
   packFolder: regkhaff
   governance:
+    model: oligarchy
+    summary: >-
+      A smuggling ring of merchants and port officials moving goods past the weighing and the seal. Its principals keep the accounts of what it is owed, and keep them reading like an ordinary merchant's.
     ranks:
       - level: 1
-        title: "Member"
+        title: Hand of the Ring
         description: >-
-          Takes part in the smuggling ring that moves goods past the weighing and the seal.
+          Lands, carries or passes the ring's goods without meeting the others who handle them.
+      - level: 2
+        title: Principal
+        description: >-
+          Keeps the ring's accounts and collects on them, knowing what the others do not.
+    offices:
+      Lander: >-
+        Brings the cargo ashore past the weighing.
+      Seller: >-
+        Sells what was landed, without meeting the man who landed it.
+      Middleman: >-
+        Stands between the lander and the seller, the man both must be sure of.
 ---
 
 Merchants and port officials who move goods past the weighing and the seal, and who take refusal personally.

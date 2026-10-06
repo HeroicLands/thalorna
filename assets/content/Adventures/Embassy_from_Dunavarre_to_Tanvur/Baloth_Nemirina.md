@@ -18,10 +18,6 @@ data:
   packFolder: adventures
 ---
 
-# Appearance {#appearance}
-
-TBD
-
 # Dossier {#dossier}
 
 **Role.** He held a seat in the Senate of the [[affiliation-repblctrvn|Tarvennan Republic]] until his death.

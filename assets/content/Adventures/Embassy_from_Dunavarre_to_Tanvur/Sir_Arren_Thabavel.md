@@ -373,10 +373,6 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
-
-TBD
-
 # Dossier {#dossier}
 
 **Role.** Bodyguard to the Ambassador, and gives security counsel.
