@@ -21,4 +21,4 @@ The Nyáluba recognize no supreme god, and would not accept that this is one. Th
 griots say that Mwánga-Kúbwa is where the guides came from, and that it is not the sort of
 thing one talks to.
 
-TBD—the griot cosmogonies, and how the Bombwe and Ngonzi accounts of the Brightness differ.
+The Bombwe and Ngonzi griots give differing accounts of the Brightness.

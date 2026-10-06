@@ -52,33 +52,30 @@ sohl: {system: {commonSkills: [sohl-sohl-skill-folklr, sohl-sohl-skill-sing]}}
 - **Pronunciation:** _SWAP-nah-day-vahs_
 - **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
-The **Svapnadēvas** are a celestial court, a host of spirits who weave dreams, carry omens, and stand between mortal minds and the divine order. The Varnakan tradition holds them divine servants of [[lore-goddreams|The God of Dreams]], the elder deity known under many names elsewhere in [[place-ankrscntnnt|Ankaris Continent]] and beyond.
+"Say it before you eat, and say it to someone. A dream nobody has heard is half a dream." The grandmother of a devout household says it to the grandchild who woke too early and is already reaching for the bread. Then she listens. In households that keep the **Host**, a dream that seems to matter is spoken aloud to another member of the family before the morning meal, so that it is committed to shared memory.
 
-The Varnaka do not name that greater deity directly, and do not venerate it as the organized pantheons of the west venerate theirs. What they revere is the Host, through whom the dream-power of the elder god is felt in the world.
+The [[lore-svapnadevasdty|Svapnadēvas]] are a celestial court, a host of spirits who weave dreams, carry omens and stand between mortal minds and the divine order. The Varnakan tradition holds them divine servants of [[lore-goddreams|The God of Dreams]], the elder deity known under many names elsewhere in [[place-ankrscntnnt|Ankaris Continent]] and beyond. The Varnaka do not name that greater deity directly, and they do not venerate it as the organized pantheons of the west venerate theirs. What they revere is the Host, through whom the dream-power of the elder god is felt in the world. Its devotees are seers, mystics, healers of disturbed minds and all those whose vocation requires them to read beneath the surface of events.
 
-The Svapnadēvas draw the devotion of seers, mystics, healers of disturbed minds, and all those whose vocation requires them to read beneath the surface of events.
+### What You See in Their Rooms
 
-### Aspects
+The Host is pictured as a company of slender, silver-robed figures moving together in a gentle dance, their faces half-lit by moonlight and half-lost in shadow. Iconography favors the Host as a whole over any single figure, and the crescent moon and lotus stand as the collective sign of its presence.
 
-The Svapnadēvas are depicted as a company of slender, silver-robed figures moving together in a gentle dance, their faces half-lit by moonlight and half-lost in shadow. They are rarely depicted individually; iconography favors the Host as a whole, with the crescent moon and lotus as the collective sign of their presence.
+Three objects carry the cult. The dream-stone is a dark moonstone kept beneath the sleeper's pillow, said to steady and clarify the dreams of the faithful. The silver mirror serves the rites of divination, and the seer meditates on its polished surface until the waking mind quiets. The lotus-cord is a braided cord worn about the wrist of someone undertaking a dream-vigil. It is untied when the vigil ends and the dream is spoken aloud.
 
-### Sacred Objects
+### What the Devout Do
 
-- **Dream-stone**—a dark moonstone kept beneath the sleeper's pillow, said to steady and clarify the dreams of the faithful
-- **Silver mirror**—used in rites of divination; the seer meditates upon its polished surface until the waking mind quiets
-- **Lotus-cord**—a braided cord worn about the wrist of those undertaking a dream-vigil; it is untied when the vigil ends and the dream is spoken aloud
+The Host is honored at the edges of the day, at dusk and at dawn, and at no fixed hour. A devout household puts a small dream-stone under each sleeper's pillow and replaces it at the new moon with one newly consecrated at a temple. On waking, the head of the household speaks a brief formula naming the Host and asking that any dream of import be remembered.
 
-### Veneration
-
-The Svapnadēvas are honored at the edges of the day, at dusk and at dawn, and at no fixed hour. Devout households keep a small dream-stone under the pillow of each sleeper and replace it at the new moon with a stone newly consecrated at a temple. On waking, the head of the household speaks a brief formula naming the Host and asking that any dream of import be remembered. Dreams considered meaningful are spoken aloud to another family member before the morning meal, so that the dream is committed to shared memory. Silver mirrors are kept covered except at the moments of divination; to catch one's own waking reflection unprepared in such a mirror is considered a small misfortune.
+Silver mirrors are kept covered except at the moments of divination. Catching your own waking reflection unprepared in one is a small misfortune.
 
 ### Ordeals for Favor
 
-- **The Seven-Night Vigil**—an ordeal of seven consecutive nights of dream-vigil, during which the devotee sleeps lightly in a temple chamber and reports each morning on the night's dreams. Few complete it without the intervention of a senior seer.
-- **The Mirror Year**—a year spent serving in a temple's divination chamber, reading the silver mirror for all petitioners who come, without refusing a reading and without accepting fee.
+- **The Seven-Night Vigil**—seven consecutive nights of dream-vigil, during which the devotee sleeps lightly in a temple chamber and reports each morning on the night's dreams. Few complete it without the intervention of a senior seer.
+- **The Mirror Year**—a year spent serving in a temple's divination chamber, reading the silver mirror for every petitioner who comes, without refusing a reading and without accepting a fee.
 
 ### See Also
 
 - [[affiliation-varakpnthn|Varnaka Pantheon]]
+- [[lore-svapnadevasdty|Svapnadēvas]]—the Host, and the theology of the dreaming court
 - [[affiliation-svapnasarisamaja|Svapnasāri-samāja]]—the mystical assembly devoted to the Dreaming Host
 - [[lore-goddreams|The God of Dreams]]—the elder deity whose dream-power the Host serves

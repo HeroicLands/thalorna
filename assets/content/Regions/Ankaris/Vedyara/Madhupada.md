@@ -14,4 +14,4 @@ data:
   government: dhnrktjnpd
 ---
 
-**Madhupāda** is an orchard and bee-keeping village of the northern hills, in the [[place-dhanurkotajnpd|Dhanurkota Janapada]]. Its wax goes to the fletchers of the janapada for their bindings.
+**Madhupāda** (380) is an orchard and bee-keeping village of the northern hills, in the [[place-dhanurkotajnpd|Dhanurkota Janapada]], and it is the smallest of the villages that feed the bow trade. Its wax goes to the fletchers of the janapada for their bindings, so every arrow shot by an academy graduate carries a little of Madhupāda's hives.

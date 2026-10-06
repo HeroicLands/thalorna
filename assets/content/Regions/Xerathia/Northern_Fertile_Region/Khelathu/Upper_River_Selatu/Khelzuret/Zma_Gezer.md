@@ -16,8 +16,9 @@ data:
 
 ## Overview
 
-Zma-Gezer stands on the road of [[place-khelzuretslt|Khelzuret Selat]] that carries the dead and their mourners toward [[place-khelzuret|Khelzuret]]. It is fed by that road as much as by its own fields, lodging the living who walk it before the village sees them walk home again without the ones they brought. A funeral season here is remembered the way other villages remember a harvest.
+**Zma-Gezer** stands where the road that carries the dead toward [[place-khelzuret|Khelzuret]] passes through [[place-khelzuretslt|Khelzuret Selat]], and its road counts for more than its fields. The living who walk it are lodged here, and the village sees them arrive with their dead and, a few days later, leave without them. A funeral season is remembered in Zma-Gezer the way other villages remember a harvest: by the year, and by who paid.
 
 ## See Also
 
-TBD.
+- [[place-khelzuretslt|Khelzuret Selat]]—The selat country that holds it
+- [[place-khelzuret|Khelzuret]]—The temple city of the selat

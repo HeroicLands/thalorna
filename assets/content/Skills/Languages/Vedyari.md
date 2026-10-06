@@ -38,15 +38,16 @@ Vedyari employs a rich consonantal inventory marked by articulatory precision:
 - Unvoiced: p, t, ṭ (retroflex), k
 - Voiced: b, d, ḍ (retroflex), g
 - Affricates: ch (TS), j (DZH)
+- Aspirated: kh, gh, th, dh, ph, bh—each stop with a breath after it, so that _th_ is the _t_ of English _hothouse_ and never the _th_ of _thin_
 
 **Fricatives:**
 
 - Unvoiced: s, ś (palatal), ṣ (retroflex), h
-- Voiced: z, v (marginal)
+- Voiced: z (marginal)
 
 **Nasals:** m, n, ṇ (retroflex), ñ (palatal)
 
-**Liquids & Approximants:** l, r, ṛ (retroflex); y, w
+**Liquids & Approximants:** l, r, ṛ (retroflex); y, v (written _w_ in a few old names)
 
 **Distinctive Features:**
 
@@ -62,15 +63,17 @@ Vedyari distinguishes five cardinal vowels, each occurring in short and long var
 
 **Diphthongs:** Common sequences include ai, au, which may function as monophthongs in rapid speech
 
+**Vocalic r:** ṛ is a vowel, the r-colored nucleus of a syllable. Names written outside the scholars' texts spell it _r_, and an _r_ standing between two consonants is that vowel: _Prthîmâja_ is four syllables, _Pr-thî-mâ-ja_.
+
 **Vowel Harmony Patterns:** Historically significant; elements that select for front vowels (i, e) or back vowels (a, o, u) tend to cluster within morphemes.
 
 ### Phonotactic Patterns
 
 Analysis of attested names reveals:
 
-- **Consonant Clusters:** Initial clusters are restricted (predominantly to stop + liquid, or fricative + stop: _Dharmapala_ shows /dh/ permissible in classical texts)
+- **Consonant Clusters:** A word opens on a single consonant or on one of a short list of pairs: a consonant before _r_ (_pr_, _tr_, _dr_, _gr_, _vr_, _shr_), a consonant before _y_ or _v_ (_vy_, _shy_, _sv_, _jv_), and the old pairs _ksh_ and _jñ_. Inside a word no more than three consonants stand together, as in _Chandra_ and _Vindhya_. The aspirates _dh_, _bh_ and the rest are single consonants, so _Dharmapala_ opens on one
 - **Syllable Structure:** Predominantly CV or CVC; onset-heavy structure favors initial consonants
-- **Final Consonants:** Limited to nasals (m, n, ṇ, ñ), liquids (r, l), and sibilants (s) in stressed or compound-final position
+- **Final Consonants:** A word closes on a vowel or on _m_, _n_, _r_, _l_ or _s_; the retroflex and palatal nasals close a word in the scholars' texts and are written _n_ in names
 - **Word Length:** Compounds are frequent and protracted; many names exceed three morphemes, yielding words of four to six syllables
 
 ## Grammar Notes
@@ -180,7 +183,7 @@ Vedyari names are cosmologically and philosophically charged. A personal name st
 **Given Names (Female):**
 
 - Similarly compound, often incorporating elements denoting grace, devotion, or cosmic principle
-- Common suffixes: _-ī, -ā, -ika, -ela_ create feminine morphological marking
+- Common endings: _-ī_, _-i_, _-ika_ and _-ā_; _-ī_, _-ika_ and _-ā_ close a woman's name only, while _-a_ and _-i_ close the names of both
 - Deity names and sacred geographical features appear frequently
 - Examples: _Padmâlî_ (lotus bearer), _Chândiritâ_ (touched by moonlight), _Vâriṇíka_ (water-dwelling)
 
@@ -194,6 +197,29 @@ Vedyari names are cosmologically and philosophically charged. A personal name st
 ### Honorifics and Titles
 
 Formal address often includes patronymic constructions (_-sûta_, _-vâya_: "offspring of") and epithetive titles denoting virtue, rank, or accomplishment. These may be appended or prefixed, creating elaborate formal names used in ceremonial and official contexts.
+
+### Calling Names
+
+Beside the formal name, every Vedyari has a _calling name_, a short form of the given name used by kin and friends and offered rather than taken: _Padmāvali_ is _Padmi_ at home. It keeps the first one or two syllables of the given name and closes on _-u_, _-i_ or _-a_, or doubles the first syllable. The lexicon named below gives the rule in full, with the calling names the setting records.
+
+## Lexicon
+
+The words of Vedyari, the rules a word is built by and a register of every Vedyari name the setting uses stand in the [[doc-vedyarilexcn|Vedyari Lexicon]]. The lexicon writes every word in the spelling of names, and the table below gives that spelling for the scholars' letters.
+
+### Spelling in Names
+
+| Written here | Written in names |
+| ------------ | ---------------- |
+| `ś`          | `sh`             |
+| `ṣh`         | `sh`             |
+| `ṣ`          | `sh`             |
+| `ṭ`          | `t`              |
+| `ḍ`          | `d`              |
+| `ṇ`          | `n`              |
+| `ṅ`          | `n`              |
+| `ṃ`          | `m`              |
+| `ḥ`          | `h`              |
+| `ṛ`          | `r`              |
 
 ---
 

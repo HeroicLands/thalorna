@@ -48,8 +48,8 @@ The Khazári who came to Thalorna came as **seven clans**, and the number has ne
 to them. Clan names are patrilineal, the genealogies are kept as carefully as the craft-records, and a
 Khazár can recite a line back to one of the seven without hesitation or notes.
 
-[[lore-khazarturn|Khazártúrn]] was built for all seven together—seven great towers cut from the
-cliff of a mountain valley, one to each clan, and the city held jointly beneath them. It is the only
+[[lore-khazarturn|Khazártúrn]] was built for all seven together—seven spurs the cliff of a mountain
+valley already held, finished as great towers, one to each clan, and the city held jointly beneath them. It is the only
 thing they are known to have made as a single people, and its loss took some part of every line on
 Thalorna at once.
 
@@ -137,6 +137,7 @@ The Khazári do not appear to care that humans possess these remnants. They are 
 
 ## See Also
 
+- [[lore-khazariclt|Khazári]]—The culture: listening to stone, life in the cliff face, mining, teaching and outsiders
 - [[lore-flksinale|Sinalë]]—The first elder race; the Firstborn
 - [[affiliation-tanvurempr|Empire of Tānvür]]—Mountains believed to contain holds; see [[lore-elderraces|Elder Races]]
 - [[place-vrystwald|Vrystwald Region]]—Mountains above the forest likely contain holds

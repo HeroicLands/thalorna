@@ -11,13 +11,18 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: autocracy
+    summary: >-
+      A military house whose master answers for everyone attached to it. Its men rise through the officer ranks and its women are placed at court, each generation's placements chosen to support the other.
     ranks:
       - level: 1
-        title: "Member"
+        title: Of the House
         description: >-
-          Belongs to the military house whose family placements connect command with influence at court.
+          Bears the Sa'Aqutu name: a son raised through the officer ranks, a daughter placed at court, or other kin of the house.
+      - level: 2
+        title: Master of the House
+        description: >-
+          Holds the land and answers at law for the house, and sets the course of its placements.
     offices: {}
   seat: null
   domains: []
@@ -31,20 +36,24 @@ data:
 
 ## Overview
 
-Gar-Sa'Aqutu is a military house of long standing in [[place-aukhelathrgq|Aû'Khelâthu]], its men raised through the officer ranks and its women placed at court to advance the line's interests there. The family treats command and courtly influence as complementary halves of one strategy, with each generation's placements chosen to support the other. Rivals tend to discount the women of this house for holding no military rank of their own, and the house's placements at court are made to profit from exactly that.
+**Gar-Sa'Aqutu** advances on two fronts at once. Its sons are raised through the officer ranks of the army of [[place-aukhelathrgq|Aû'Khelâthu]] and its daughters are placed at court, and the family treats command and courtly influence as complementary halves of one strategy, each generation's placements chosen to support the other. The women hold no rank in the army, and they are no less the house's instruments than the men.
 
 ## Character
 
-TBD.
+A courtier's aunt explains the **Sa'Aqutu** to a niece newly arrived in the capital: "Watch which of them is standing where. The brothers are on the parade ground and the sisters are in the antechamber, and you will find it is one conversation."
+
+The house is strategic and patient. It treats command and court influence as two halves of one design. The master holds the land, answers at law for everyone attached to the house, and sets the course of each generation's placements, deciding which son goes up through the officer ranks and which daughter is placed where she can do the line the most good.
 
 ## Relations
 
-TBD.
+Sons of the house rise through the officer ranks of [[place-aukhelathrgq|Aû'Khelâthu]]'s army, and daughters are placed at court. Neither half works alone. An officer's promotion has a sister's introduction behind it, and a sister's position is steadied by a brother who commands soldiers. Anyone dealing with the house deals with the whole design at once, whichever member happens to be in front of them.
 
-## Commerce and Currency
+## What It Deals In
 
-TBD.
+The house is not a trading house. Its wealth is its land, held by the master, and its advancement runs through placements in the army and at court rather than through trade.
+
+An outsider who wants the house's favor does not offer coin. The currency is a good placement, an introduction, or a promotion that serves a plan the master has already made.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to

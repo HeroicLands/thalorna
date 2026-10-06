@@ -17,26 +17,18 @@ data:
 
 ## Overview
 
-Gar-Zanit Selat is the land of the [[affiliation-selatgarzant|Selat of Gar-Zanit]], one of the [[affiliation-deltaselatu|Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+**Gar-Zanit Selat** is the land of the [[affiliation-selatgarzant|Selat of Gar-Zanit]], one of the [[affiliation-deltaselatu|Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and it lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]]. Its flax fields and linen-weaving towns clothe the empire.
+
+"In the flood season you cannot tell where a field ends," a flax-grower tells a cloth-buyer, wading to the knee along a dike with a bundle of stems under one arm. "In the dry season you cannot tell where the work ends. We pull the plants by hand, ret the stems in the channels, beat the fiber out and carry it to the towns."
 
 ## Character
 
-Flax fields and the linen-weaving towns whose cloth clothes the empire. Beyond the capital the selat is the ordinary Khelâthi landscape of villages, estates and temple lands, worked by farmers who owe a share of the harvest and labor on the canals, and lettered by the scribes who are the one reliable ladder out of the fields.
-
-## Economy
-
-Like every Khelâthi selat it runs on the flood, the harvest and the render—grain to the granaries, labor to the canals and the flood-season works, and a share of everything to the temples and the crown. What it contributes to the empire beyond that is what its character names: flax fields and the linen-weaving towns whose cloth clothes the empire.
-
-## Notable Features
-
-- [[place-garzanit|Gar-Zanit]]—the selat capital and the Halzi'a's seat
-- The chief temple of [[affiliation-psaqaru|Faith of Psaq'âru]] and its estates
-- Flax fields and the linen-weaving towns whose cloth clothes the empire
+Away from the flax, the villages and temple estates grow grain on the usual terms, with a share of the harvest owed to the granaries and labor owed to the canals, and the scribes are the one reliable ladder out of the fields. What the selat gives the empire beyond grain is cloth: the flax is grown on its fields, spun and woven in its towns, and sold up and down the river and out through the delta ports. The chief temple of [[affiliation-psaqaru|Psaq'âru]] and its estates anchor the weaving towns.
 
 ## Settlements
 
 - [[place-garzanit|Gar-Zanit]] (~34,000)—the selat capital and the seat of the Halzi'a.
-- **The villages and estate-towns:** the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
+- The villages and estate-towns: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 

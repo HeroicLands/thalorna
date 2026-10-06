@@ -54,20 +54,18 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-## Gar-Qelt'nu (House of the Body)
+"Form is not decoration," a **Master of the Set Form** tells a stonecutter's apprentice. "A thing perfectly made is the thing it represents. Cut it wrong and it still does something. It simply does not do what you meant."
 
-The House of the Body holds the other half of what a being is, and the same principle extended to
-worked substance: stone, flesh, and the shaping of both. Its doctrine is the one every Khelâthi
-craftsman already lives by—that correct form is not decoration but efficacy, and that a thing
-perfectly made is the thing it represents. It works more closely with ordinary craftsmen than any
-other House, which is also its standing security problem.
+**Gar-Qelt'nu**, the **House of the Body**, holds the other half of what a being is, and the same principle extended to worked substance: stone, flesh, and the shaping of both. Its doctrine is the one every [[lore-khelathiclt|Khelâthi]] craftsman already lives by, that correct form is efficacy and not ornament. It works more closely with ordinary craftsmen than any other House, and that closeness is its standing security problem: the craftsmen who cut the tombs are the most watched community in their selat.
 
-[[lore-qeltnu|Qelt'nu]]—the Made Body—is the domain of craft, stone, flesh, shaping, animation, and transformation. It is one
-of the eight into which the [[lore-khelunulekha|Khelunu Lekhau]] partitions the Dýnaris—by
-function in the cosmic order rather than by substance, which is why no portion of it corresponds
-to any single Eídma of the western [[affiliation-hexhodai|Héx Hodäi]].
+## Three Offices
 
-### See Also
+The Master of the Set Form certifies that a wrought form is exact enough to carry a working, and refuses the ones that are not. The Preserver holds the forms that arrest decay, and works alongside the embalmers of [[lore-hezmuiridty|Hezmuîri]] without being one of them. The Raiser sets the workings that animate a made body: the standing servant, and the zaglu that [[affiliation-garithnetau|Gar-Ithnetáu]] binds.
 
+[[lore-qeltnu|Qelt'nu]] is named for the soul-component the embalmers preserve, the one wrapped in linen. [[affiliation-garrethzethu|Gar-Reth'zethu]] holds its pair, the component the scribes inscribe.
+
+## See Also
+
+- [[lore-qeltnu|Qelt'nu]]—the domain
 - [[lore-khelunulekha|Khelunu Lekhau]]—the philosophy and the other seven domains
 - [[place-khelunu|Khelunu]]—where the Eight are taught

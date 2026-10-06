@@ -17,7 +17,7 @@ The **Mela Ground** is the plain where [[place-mahanadi|the Mahānadi]] takes it
 
 ## The Assembly
 
-The Mahā-Mela runs for forty days. The first thirty are the religious observances and the last ten are the business of the confederation, which is water-rights between janapadas on one river system, trade conventions, the reaffirmation of the great pilgrimage routes, and boundary disputes that have outgrown bilateral settlement. Seats are counted by river-circuit, and a janapada speaks through the delegation of the water it drinks unless it holds a seat in its own right.
+The **Mahā-Mela** runs for forty days. The first thirty are the religious observances and the last ten are the business of the confederation, which is water-rights between janapadas on one river system, trade conventions, the reaffirmation of the great pilgrimage routes, and boundary disputes that have outgrown bilateral settlement. Seats are counted by river-circuit, and a janapada speaks through the delegation of the water it drinks unless it holds a seat in its own right.
 
 A quarter of a million people stand on the ground at the height of it. They come up the river by boat and down the pilgrim roads on foot, and the four circuits camp apart by long custom, each on the reach of the plain nearest its own water.
 
@@ -25,7 +25,7 @@ A quarter of a million people stand on the ground at the height of it. They come
 
 The Mahānadi has changed its course four times within written record, and its behavior in the season before a Mela decides where on the plain the Mela can be held. The lanes, the camping grounds and the bathing places are laid out afresh each time by the temple, working from the previous assembly's survey and from whatever the last flood left.
 
-The work takes the better part of two years and is the standing occupation of the temple between assemblies.
+The work takes the better part of two years and is the standing occupation of the temple between assemblies. "You do not inherit the Mela ground," a priest of Sangama tells a newcomer to the survey; "you measure it again."
 
 ## The Ground Between
 

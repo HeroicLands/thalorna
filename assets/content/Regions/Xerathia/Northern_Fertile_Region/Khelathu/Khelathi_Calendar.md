@@ -32,9 +32,13 @@ data:
   packFolder: regkhcal
 ---
 
-The **Khelâthi calendar** divides the year into three seasons of four thirty-day months each, following the river rather than the sun's angle: [[lore-azletssn|Azlet]] (Inundation), [[lore-geletssn|Gelet]] (Emergence and Growing), and [[lore-sheluessn|Shelu]] (Harvest). Five days outside any month close the year once the twelve are spent, so the count stays whole every year without a leap.
+A [[lore-khelathiclt|Khelâthi]] seldom asks what month it is; he asks what the river is doing. The Khelâthi calendar answers him: three seasons of four thirty-day months each, named for the water, with five days left over at the end that belong to no month.
 
-Khelâthi astronomers are proud of the fit, and say so—the calendar tracks the solar year with a precision they hold unmatched anywhere in western Ankaris. It is not the calendar [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] uses to date a document, though. Everyday business runs on regnal years, counted afresh from Year 1 of each reigning Gar-Aû, and history and theology run on the [[lore-qettelgu|Qet Telgu]], the First Occasion some 2,830 years gone. The month-and-season count here is the working year underneath both: what a farmer, a priest and a tax-scribe all mean when they say a season has turned.
+"Twelve months of thirty make three hundred and sixty, and the year is three hundred and sixty-five," a calendar-keeper at a temple of [[lore-rethsaardty|Reth'Sa'âr]] tells a clerk who has never counted past the tax rolls. "The five that remain are not a month and not a gap. They close the year, so the count stays whole without a leap, and then the water rises and it begins again." Khelâthi astronomers are proud of the fit and say so: the calendar tracks the solar year with a precision they hold unmatched anywhere in western **Ankaris**, and they point out that its seasons are named for what the river does, while the western calendar begins from a senator's coup.
+
+## Three Counts
+
+Three counts run side by side in [[affiliation-empireakhlth|Aû'Khelâthu]], and a document uses one of them. Everyday business runs on regnal years: contracts, tax rolls and lawsuits are dated from Year 1 of the reigning [[lore-garauu|Gar-Aû]], and the count starts again with each reign. History and theology run on the [[lore-qettelgu|Qet Telgu]], the [[lore-firstoccasion|First Occasion]] some 2,830 years gone, so that the present year is about 2,830 ST, or 720 AF in the western calendar. The month-and-season count described here is neither of those. It is the working year underneath both, and it is what a farmer, a priest and a tax-scribe all mean when they say a season has turned. The [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] dates no document by it.
 
 ## The Seasons
 
@@ -42,7 +46,7 @@ Khelâthi astronomers are proud of the fit, and say so—the calendar tracks the
 
 [[lore-geletssn|Gelet]], Emergence and Growing, follows as the water recedes. The silt it leaves behind is planted the moment it can be worked, and this is the season of the year's real agricultural labor.
 
-[[lore-sheluessn|Shelu]], the Harvest, closes the twelve months. Crops come in before the next flood, and the five days that follow belong to no month at all—the year's own reckoning is finished before the new one begins.
+[[lore-sheluessn|Shelu]], the Harvest, closes the twelve months. Crops come in before the next flood, and the five days that follow belong to no month at all: the year's own reckoning is finished before the new one begins.
 
 ## See Also
 

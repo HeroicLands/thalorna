@@ -89,7 +89,7 @@ sohl: {system: {commonSkills: [bethunlng]}}
 
 ## Overview
 
-The Matriarchy of Bethûa is a society in which women hold political, religious, and military authority. Located in the [[place-xerathia|Northern Fertile Region]] of Xerathia, east of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], Bethûa is a prosperous agricultural state organized around a strict gender hierarchy that inverts the patriarchal norms common to most of [[place-ankrscntnnt|Ankaris Continent]]. The realm is governed by the **Two Pillars**—a sacred pillar of priestesses and a secular pillar of clan-matriarchs—joined at the summit by the [[affiliation-mtrrchybth|Mêtríssa]], who is at once Queen and High Priestess. The throne passes not by inheritance but by election within the female royal line. See [[affiliation-mtrrchybth|Bethûan Matriarchy]] for the full structure, titles, and succession.
+The Matriarchy of Bethûa is a society in which women hold political, religious, and military authority. Located in the [[place-xerathia|Northern Fertile Region]] of Xerathia, west of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], Bethûa is a prosperous agricultural state organized around a strict gender hierarchy that inverts the patriarchal norms common to most of [[place-ankrscntnnt|Ankaris Continent]]. The realm is governed by the **Two Pillars**—a sacred pillar of priestesses and a secular pillar of clan-matriarchs—joined at the summit by the [[affiliation-mtrrchybth|Mêtríssa]], who is at once Queen and High Priestess. The throne passes not by inheritance but by election within the female royal line. See [[affiliation-mtrrchybth|Bethûan Matriarchy]] for the full structure, titles, and succession.
 
 ## Geography
 
@@ -119,7 +119,7 @@ Matriarchy of Bethûa uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]]—te
 
 ### Aû'Khelâthu—the patron
 
-Bethûa's defining foreign relationship is with the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], the great empire to the west that midwifed its independence. To the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] court, Bethûa is a **useful proxy**—a free, prosperous, Khelâthi-aligned power planted on the southern shore of the [[place-midhalnrgn|Vylarian Sea]], whose existence keeps Helonic and especially **Vylarian** ambitions in [[place-midhalnrgn|Mídhalión Region]] perpetually off balance. A strong Bethûa divides Vylarian attention, contests Vylarian trade, and gives Galezkara a forward partner on the sea without the empire having to project naval power of its own—much as [[affiliation-cnfdrtnhrdnstts|Harad]] serves Khelâthi interests in the eastern sea. The Khelâthi cultivate the relationship accordingly: the loan-built treasury and water-engineering corps, the [[affiliation-garhalzi|Gár-Hálzi]] correspondent accounts that underwrite the [[affiliation-bthntrdhss|Trade-Houses]], and a steady current of quiet subsidy and diplomatic cover all flow from this calculation. The Bethûans, for their part, understand the arithmetic perfectly well and accept it as the price of a freedom they could not otherwise hold—a proud people who know the difference between a patron and a master, and intend to keep it.
+Bethûa's defining foreign relationship is with the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], the great empire to the east that midwifed its independence. To the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] court, Bethûa is a **useful proxy**—a free, prosperous, Khelâthi-aligned power planted on the southern shore of the [[place-midhalnrgn|Vylarian Sea]], whose existence keeps Helonic and especially **Vylarian** ambitions in [[place-midhalnrgn|Mídhalión Region]] perpetually off balance. A strong Bethûa divides Vylarian attention, contests Vylarian trade, and gives Galezkara a forward partner on the sea without the empire having to project naval power of its own—much as [[affiliation-cnfdrtnhrdnstts|Harad]] serves Khelâthi interests in the eastern sea. The Khelâthi cultivate the relationship accordingly: the loan-built treasury and water-engineering corps, the [[affiliation-garhalzi|Gár-Hálzi]] correspondent accounts that underwrite the [[affiliation-bthntrdhss|Trade-Houses]], and a steady current of quiet subsidy and diplomatic cover all flow from this calculation. The Bethûans, for their part, understand the arithmetic perfectly well and accept it as the price of a freedom they could not otherwise hold—a proud people who know the difference between a patron and a master, and intend to keep it.
 
 ### The ports and the foreign trader
 
@@ -145,7 +145,7 @@ The sacred pillar is the **temple**—but a specific part of it. Bethûans vener
 - **The Order of [[affiliation-arldnpnthn|Aethería]]** (dreams, the unseen)—the **oracular order**, keepers of divination, dream-incubation, and the reading of omens that legitimize elections and ratify great decisions of state. It is here that Khelâthi religious influence shows most: Aethérían practice has absorbed Khelâthi techniques of divination and judgment, and Bethûan oracles speak of the "weighing" of a candidate's worth in language a [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] priest would recognize. The faith remains wholly Aurèldían; the method has traveled.
 - **The Order of [[affiliation-arldnpnthn|Vénusia]]** (prosperity, pleasure)—the order of fertility, festival, marriage, and the **blessing of commerce**. Its temples consecrate the contracts and voyages of the [[affiliation-bthntrdhss|Trade-Houses]], and its clergy are the most worldly and the best-endowed of the three.
 
-The governing body of the pillar is the **Sacred College** (Bethûan: _the Hieróssa_)—the assembled high priestesses of the three orders and of the great temples, sitting in council at the capital, Bethûra. The College is the realm's spiritual authority, its highest religious court, and—decisively—its **electoral body**: it is the College that elects each new Mêtríssa.
+The governing body of the pillar is the **Sacred College** (Bethûan: _the Hieróssa_)—the assembled high priestesses of the three orders and of the great temples, sitting in council at the capital, [[place-bethura|Bethûra]]. The College is the realm's spiritual authority, its highest religious court, and—decisively—its **electoral body**: it is the College that elects each new Mêtríssa.
 
 ### Title-ladder of the sacred pillar
 
@@ -255,7 +255,7 @@ The genius and the fragility of the Bethûan constitution is that **neither pill
 
 - [[affiliation-mtrrchybth|Bethûan Matriarchy]]—The Two Pillars: full government structure, titles, and succession
 - [[affiliation-bethuanflt|The Bethûan Fleet]]—The navy and the privateer war on Vylarian shipping
-- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—Western neighbor and patron
+- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—Eastern neighbor and patron
 - [[place-helionis|Heliónis]]—Distant cultural cousin (shared Helonic linguistic roots)
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—Pantheon (matriarchal emphasis)
 - [[affiliation-mtrrchybth|Matriarchy of Bethûa]]—the realm
@@ -265,4 +265,4 @@ The genius and the fragility of the Bethûan constitution is that **neither pill
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the faith of the sacred pillar
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—the patron-neighbor whose institutions shaped the liberation-era state
 - [[affiliation-garhalzi|Gár-Hálzi]]—the Khelâthi temple-treasury on which Bethûa's fisc is modeled
-- Bethûra—the capital, seat of both councils
+- [[place-bethura|Bethûra]]—the capital, seat of both councils
