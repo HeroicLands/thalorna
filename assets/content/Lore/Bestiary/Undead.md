@@ -38,7 +38,7 @@ In Aû'Khelâthu itself the words keep their temple spelling, _terebu_ and _damu
 Every region has its own words for the dead that walk, and a scholar sets the learned term beside them rather than replacing them.
 
 - **The [[place-nrdlndsrgn|Nordlands]]** and the [[affiliation-asguardian|Asguardian]] faiths: _Helspawn_ for the undead as a class, from the goddess [[affiliation-nahild|Náhild]]; _nightwight_ for the tereb and _hélthrall_ for the damut. The Faith of Náhild's own liturgy calls its favored terebu [[lore-nagengir|nágengir]] and its damutu [[lore-haugverdir|haugverdir]], a word the folk also give to the dead said to keep their own mounds.
-- [[place-kchchkcntnnt|K'ich'chik]]: the _Threshold-Held_, the terebu whose souls [[affiliation-pikultzumaq|Pik'ul Tz'umaq]] holds at the boundary of Xibalba.
+- [[place-kchchkcntnnt|K'ich'chik]]: the _Threshold-Held_, the terebu whose souls [[affiliation-pikultzumaq|Pik'ul Tz'umaq]] holds at the boundary of Ch'al Tz'umaq.
 
 ## The Undead Hierarchy
 

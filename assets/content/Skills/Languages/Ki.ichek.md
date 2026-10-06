@@ -527,6 +527,8 @@ The concept of zero, critical in K’ich'chik mathematics, is expressed as **Tz�
 
 19. **Tz’amik** - Plateau
 
+20. **Ha’tz’ik** - Island (_ha’_ water + _tz’ik_ above: what stands above the water)
+
 ### Flora
 
 1.  **Paqum** - Sun Blossom
@@ -571,6 +573,8 @@ The concept of zero, critical in K’ich'chik mathematics, is expressed as **Tz�
 
 10. **No’balam** - Lion
 
+11. **Tz’ilil** - Swallow
+
 ### Celestial and Spiritual Concepts
 
 1.  **K’inix** - Sunlight
@@ -592,6 +596,10 @@ The concept of zero, critical in K’ich'chik mathematics, is expressed as **Tz�
 9.  **K’aycha** - Lightning
 
 10. **Tz’umaq** - Night Sky
+
+11. **K’inix’ilan** - The bright star seen only at the edges of the day, before sunrise or after sunset (_k’inix_ sunlight + _ix’ilan_ star)
+
+12. **Ch’al Tz’umaq** - The underworld (_ch’al_ beneath + _tz’umaq_ night sky)
 
 ### Sacred Concepts
 

@@ -81,7 +81,7 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-K'ankul holds the land of [[place-kankulrgn|K'ankul Region]]. Where Balamkul is the militant heart and the seat of spiritual authority, K'ankul is the realm of knowledge and precision. Here, the Tq'an'ik (priestly initiates) labor for decades to perfect the astronomical tables carved into stone, calculating with near-perfect accuracy the cycles of Venus, the precession of the equinoxes, and the great wheel of the Long Count calendar that encompasses 5,125 years of cosmic time.
+K'ankul holds the land of [[place-kankulrgn|K'ankul Region]]. Where Balamkul is the militant heart and the seat of spiritual authority, K'ankul is the realm of knowledge and precision. Here, the Tq'an'ik (priestly initiates) labor for decades to perfect the astronomical tables carved into stone, calculating with near-perfect accuracy the cycles of K'inix'ilan, the star of dawn and dusk, the precession of the equinoxes, and the great wheel of the Long Count calendar that encompasses 5,125 years of cosmic time.
 
 K'ankul's political independence from Balamkul is carefully balanced. While the K'ul Tq'an and the [[affiliation-itzanpnthn|Itzáni]] priesthood maintain ultimate religious authority, K'ankul's greatest city-states have cultivated sufficient wealth and cultural prestige that they are treated as partners in the management of the faith rather than as mere tributaries. K'ankul's merchants control crucial sea routes along both coasts, and their mathematical and astronomical expertise is essential to the priestly calendar-keepers.
 
