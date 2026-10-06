@@ -32,24 +32,14 @@ data:
 
 ## Overview
 
-The Qethar'lemu are priests of the stricter observances across [[place-aukhelathrgq|Aû'Khelâthu]] who hold that the old forms of worship are the only valid forms, with no room for local variation. They treat any accommodation of scholarship or novelty in ritual as an injury to the gods themselves, not merely a departure from custom. A temple council that entertains a scholarly reinterpretation of its rites invites the Qethar'lemu's organized objection before the revision ever reaches ordinary worshippers.
-
-## Character
-
 A temple council clerk, preparing the agenda for a session that includes a scholar's proposal, folds the page twice and says the clerk's version of a prayer: "Please let the Qethar'lemu be unavailable."
 
-The Qethar'lemu are strict. They hold the old forms of worship to be the only valid forms, with no room for local variation, and count any accommodation of novelty as an injury to the gods. Each of their members is an ordained **Lem'Nelgir** ("Servant of the God") who has taken the old forms as the whole of his duty.
+**The Qethar'lemu** are priests of the stricter observances across [[place-aukhelathrgq|Aû'Khelâthu]] who hold that the old forms of worship are the only valid forms, with no room for local variation. Each is an ordained **Lem'Nelgir** ("Servant of the God") who has taken the old forms as the whole of his duty, and they count any accommodation of scholarship or novelty in ritual as an injury to the gods themselves, not merely a departure from custom. A temple council that entertains a scholarly reinterpretation of its rites meets their organized objection before the revision reaches ordinary worshippers, with members from several temples speaking in step. A scholar with a new reading faces a body that treats the proposal as an offense and not an argument.
 
-## Relations
-
-The Qethar'lemu are priests of the stricter observances across [[place-aukhelathrgq|Aû'Khelâthu]]. They object together to a temple council that entertains a scholarly reinterpretation of its rites, and the objection is organized, with members from several temples speaking in step. A scholar with a new reading faces a body that treats the proposal as an offense and not an argument.
-
-## Commerce and Currency
-
-No trade figures in the account of the Qethar'lemu. Their objection falls on revisions to ritual before they reach ordinary worshippers.
+## Putting a New Reading Before Them
 
 A scholar who wants a reinterpretation heard should expect the objection and prepare for it: bring the oldest text that supports the reading, and have it read in the form the Qethar'lemu would call original.
 
 ## See Also
 
-- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—the region it belongs to

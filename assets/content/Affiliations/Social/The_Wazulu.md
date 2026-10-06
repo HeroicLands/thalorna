@@ -32,25 +32,15 @@ data:
 
 ## Overview
 
-The Wazulu are a movement within the priesthood of the sterner gods of [[place-aukhelathrgq|Aû'Khelâthu]], holding that public performance corrupts both performer and audience alike. They press actively for the empire's players to be put down rather than merely regulated or taxed, a position well to the stricter side of ordinary temple conservatism. A playing company like [[affiliation-linshlnglzkr|the Theatre Company of Galezkara]] treats the Wazulu's influence at a given temple as a standing hazard to its license to perform at all.
-
-## Character
-
 "Before you set up your stage in a temple town," an old player says to a young one, "find out which god's priests have the ear of the council. Then ask whether they are Wazulu."
 
-The Wazulu are severe and active. They hold that public performance corrupts performer and audience alike, and they press for the players to be put down rather than regulated or taxed. Each of them is a **Lem'Nelgir** ("Servant of the God") of one of the sterner gods, and the priesthood is their platform.
+**The Wazulu** are a severe and active movement within the priesthood of the sterner gods of [[place-aukhelathrgq|Aû'Khelâthu]]. They hold that public performance corrupts performer and audience alike, and they press for the empire's players to be put down rather than regulated or taxed, a position well to the stricter side of ordinary temple conservatism. Each of them is a **Lem'Nelgir** ("Servant of the God") of one of the sterner gods, and the priesthood is their platform. Their influence at a given temple is a standing hazard to the license of a company such as [[affiliation-linshlnglzkr|the Theatre Company of Galezkara]]. A player's license is the ground a company stands on, and the Wazulu seek to remove it.
 
-## Relations
-
-The Wazulu are a movement within the priesthood of the sterner gods of [[place-aukhelathrgq|Aû'Khelâthu]]. Their influence at a given temple is a standing hazard to the license of a company such as [[affiliation-linshlnglzkr|the Theatre Company of Galezkara]]. A player's license is the ground the company stands on, and the Wazulu seek to remove it.
-
-## Commerce and Currency
-
-A playing company's license to perform is the matter the Wazulu contest, since they seek its removal and not merely its taxation. A company that performs under license has something to lose, and the Wazulu know exactly what.
+## Keeping a License
 
 Keep your license where a priest can read it, and keep your plays inoffensive to the temple that holds it. The temple is the one place a license can be questioned.
 
 ## See Also
 
-- [[affiliation-linshlnglzkr|Lin'Shelun elu Galezkara]]—The company whose license they threaten
-- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to
+- [[affiliation-linshlnglzkr|Lin'Shelun elu Galezkara]]—the company whose license they threaten
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—the region it belongs to
