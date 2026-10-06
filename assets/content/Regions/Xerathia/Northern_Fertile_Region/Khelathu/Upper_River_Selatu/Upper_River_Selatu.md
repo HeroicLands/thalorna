@@ -80,29 +80,33 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Upstream of the delta, the great river runs for hundreds of leagues through a narrow, fabulously fertile valley walled by upland on either side—the agricultural heartland of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]. The eighteen [[affiliation-upperrivrslt|Upper River Selatu]] are the most numerous of the four selat-classes and hold the empire's grain. Each year the flood drowns and renews their fields; each harvest fills the granaries that feed the cities and the army. This is the oldest-settled, most thickly templed, most stubbornly traditional country in the realm, and its Halzi'a are the conscience and the dead weight of the empire in equal measure.
+Above the delta the Zumélesh runs for hundreds of leagues through a narrow, fertile valley walled by dry upland on either side, and the eighteen Upper River Selatu hold it. They are the most numerous of the four classes of selat and the agricultural heartland of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: every year the flood drowns and renews their fields, and every harvest fills the granaries that feed the cities and the army. This is the oldest-settled, most thickly templed and most stubbornly traditional country in the realm, and its Halzi'a are the conscience of the empire and its dead weight in equal measure.
+
+"Count the granaries before you count the gold," a temple steward at [[place-anlaghzetun|Anlagh-Zetûn]] tells a young scribe on his first posting upriver. "Down in the Delta a man is worth his ships. Here he is worth his fields and the god whose estate is next to them, and the god's estate is usually bigger."
 
 ## Character
 
-If the [[affiliation-deltaselatu|Delta Selatu]] is the empire's purse, the upper river is its backbone—and its anchor. The Upper River Halzi'a are conservative landowners, hereditary to the bone, who measure wealth in fields and granaries rather than ships and margins, and who guard their traditional privileges against the capital and the delta alike. They resist innovation as a matter of principle, fund the great temples as a matter of piety, and regard the cosmopolitan delta with the suspicion of men who have never needed a foreigner for anything. When a dynasty weakens, it is often an upper-river coalition of Halzi'a and temple-priesthoods that decides who sits the throne next.
+If the [[affiliation-deltaselatu|Delta Selatu]] are the empire's purse, the upper river is its backbone and its anchor. Its Halzi'a are conservative landowners, hereditary to the bone, who measure wealth in fields and granaries rather than ships and margins and who guard their traditional privileges against the capital and the Delta alike. They resist innovation on principle, fund the great temples out of piety, and regard the cosmopolitan Delta with the suspicion of men who have never needed a foreigner for anything. When a dynasty weakens, a coalition of upper-river Halzi'a and temple priesthoods often decides who sits the throne next.
 
-The valley is dense with temple-cities—cult-centers whose gods are older than the dynasties and whose Thâz'Lekhau command estates rivaling the Halzi'a'. Here are the great necropoli, the embalming towns, the scribal schools, and the oldest shrines of the [[affiliation-khelathpnthn|Khelâthi Pantheon]]. Daily life follows the flood: the Season of Inundation when the fields drown and the construction-gangs go to work on the monuments, the Season of Emergence when the valley is planted, and the Season of Harvest when the granaries fill.
+The valley is dense with **temple-cities**, cult centers whose gods are older than the dynasties and whose high priests command estates to rival a Halzi'a's. Here are the great necropolises, the embalming towns, the scribal schools and the oldest shrines of the [[affiliation-khelathpnthn|Khelâthi Pantheon]].
+
+Daily life follows the flood. In the Season of Inundation the fields drown and the work-gangs go to the monuments; in the Season of Emergence the valley is planted; in the Season of Harvest the granaries fill. A village knows which month it is by looking at the river.
 
 ## Economy
 
-Grain—wheat, barley, and millet—is the foundation, grown on flood-silt and on irrigated land drawn from the river by the empire's vast canal-and-cistern network. The surplus feeds the capital, the army, and the delta ports, and underwrites the whole imperial economy. Beyond grain, the valley raises flax for linen, cattle and sheep on the margins, and the small sturdy horses of the chariot corps; it quarries fine building stone from the flanking uplands; and its temple-cities run the empire's mortuary industry—embalming, tomb-building, funerary art, and the grave-goods trade—which employs a startling share of the population. The upper river is not rich in coin but rich in bread, stone, and the labor of monument-building.
+Grain is the foundation: wheat, barley and millet, grown on flood-silt and on land watered from the river through the empire's canals and cisterns. The surplus feeds the capital, the army and the delta ports, and underwrites the whole imperial economy. Beyond grain the valley grows flax for linen; it grazes cattle and sheep on its margins and breeds the small, sturdy horses of the chariot corps; it quarries fine building stone from the flanking uplands; and its temple-cities run the empire's mortuary industry—embalming, tomb-building, funerary art and the grave-goods trade—which employs a startling share of the population. The upper river is poor in coin and rich in bread, stone, and the labor of building monuments.
 
 ## Notable Features
 
-- The flood-fed grain fields—the empire's bread, and the engine of its whole economy
-- The great canal, aqueduct, qanat, and cistern network that waters the irrigated land
-- The temple-cities and their cult-estates—older than the dynasties, richer than the Halzi'a
-- The western-bank necropoli and embalming towns—the heart of the mortuary industry
-- The quarries of the flanking uplands, source of the empire's monumental stone
+- The flood-fed grain fields—the empire's bread, and the engine of its economy
+- The canals, aqueducts, qanats and cisterns that water the irrigated land
+- The temple-cities and their cult estates, older than the dynasties and richer than the Halzi'a
+- The necropolises and embalming towns of the western bank, the heart of the mortuary industry
+- The quarries of the flanking uplands, which supply the empire's monumental stone
 
 ## The Selatu
 
-Eighteen selatu make up the upper-river class, each under its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]]. Each is treated in its own note; the table below is the roster.
+Eighteen selatu make up the upper-river class, each under its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor). Each has its own note; the table is the roster.
 
 | Selat                                                     | Seat                                | Patron                                                      | Population | Character                                                                                                                                   |
 | --------------------------------------------------------- | ----------------------------------- | ----------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -125,18 +129,22 @@ Eighteen selatu make up the upper-river class, each under its hereditary [[affil
 | [[affiliation-selatgarlut\|The Selat of Gar-Lût]]         | [[place-garlut\|Gar-Lût]]           | [[lore-uzneradty\|Uznêra]]                                  | ~240,000   | A small, devout selat of healing-shrines and herb-gardens                                                                                   |
 | [[affiliation-selatyathlmt\|The Selat of Yath-Lemet]]     | [[place-yathlemet\|Yath-Lemet]]     | [[affiliation-tjelsuk\|Faith of Tjelsuk]] (crocodile-god)   | ~80,000    | The smallest upper selat; a narrow gorge-stretch where the valley pinches to almost nothing                                                 |
 
-Upper-river subtotal: **~8,000,000**.
+Upper-river total: **about 8,000,000**.
 
 ## For the Worldbuilder
 
-The upper river is the empire's deep, conservative interior—temple-bound, hereditary, and slow to change. Run it as a country of granaries and gods, where the real powers are the landowning Halzi'a and the Thâz'Lekhau of the great cult-temples, and where the capital's writ runs only as far as the Halzi'a allow. Adventure here is older and stranger than in the delta: tomb-robbery and the curses that guard against it, temple politics and cult rivalries, succession-intrigue among hereditary houses, the embalmers' guilds and their secrets, flood-failure and famine, banditry in the desert-edge tombs, and the slow grinding feud between river-traditionalists and the Gar-Aû's reformers. What is abundant here is grain, stone, linen, and faith; what is scarce is coin, foreign news, and any appetite for novelty.
+Run the upper river as the empire's deep, conservative interior—temple-bound, hereditary and slow to change, a country of granaries and gods. The real powers are the landowning Halzi'a and the high priests of the great cult-temples, and the capital's writ runs only as far as the Halzi'a allow.
+
+Adventure here is older and stranger than in the Delta: tomb robbery and the curses that guard against it, temple politics and cult rivalries, succession intrigue among hereditary houses, the embalmers' guilds and their secrets, flood failure and famine, banditry among the desert-edge tombs, and the slow, grinding feud between the river traditionalists and the Gar-Aû's reformers. Grain, stone, linen and faith are abundant. Coin, foreign news and any appetite for novelty are scarce.
 
 ## Commerce and Currency
 
-The Upper River Selatu use the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], but much of the valley economy runs on grain-render and temple-account rather than struck weight-metal; the [[affiliation-garhalzi|Gár-Hálzi]] temple-treasuries hold tax-grain as readily as silver, and a Halzi'a's wealth is reckoned in granaries as much as in gezan. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+The Upper River Selatu use the [[lore-aukhlthcrncy|Aû'Khelâthu currency]], but much of the valley's economy runs on grain-render and temple account rather than weighed metal. The [[affiliation-garhalzi|Gár-Hálzi]] treasuries hold tax-grain as readily as silver, and a Halzi'a's wealth is reckoned in granaries as much as in gezan. A tenant pays his share in sacks, and the scribe who receives it enters the sacks.
 
 ## See Also
 
-- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—Parent empire
-- [[affiliation-deltaselatu|The Delta Selatu]], [[affiliation-borderselatu|The Border Selatu]], [[affiliation-capitalselat|The Capital Selat]]—Sister selat-classes
-- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—Pantheon · [[skill-khelathlng|Khelâthi Language]]—Naming
+- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—the empire
+- [[affiliation-deltaselatu|The Delta Selatu]], [[affiliation-borderselatu|The Border Selatu]], [[affiliation-capitalselat|The Capital Selat]]—the other classes of selat
+- [[place-zumeleshrvr|The Zumélesh]]—the river that floods these fields
+- [[place-zelgeru|The Zelgeru]]—the great temple-estates
+- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—the gods · [[skill-khelathlng|Khelâthi Language]]—naming
