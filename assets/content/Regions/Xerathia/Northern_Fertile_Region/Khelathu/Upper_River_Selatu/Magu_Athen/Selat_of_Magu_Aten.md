@@ -77,15 +77,17 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Magu-Athen is one of the upper-river selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: A planned temple-city of one zealous dynasty, half-abandoned, still inhabited. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-uqaa|Faith of Uqa'â]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-maguathenslt|Magu-Athen Selat]].
+"The streets were laid for more people than we are, so we use the half that has roofs," a Legha'lutu whose estate runs up to the edge of the empty quarter tells a visitor from the capital.
+
+The Selat of Magu-Athen is one of the eighteen [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and about 300,000 people live on its land, [[place-maguathenslt|Magu-Athen Selat]]. It is a planned temple-city of one zealous dynasty, half-abandoned and still inhabited. The patron is [[affiliation-uqaa|Faith of Uqa'â]], the god of the sun, and the cult's chief temple and estates anchor the selat's religious life.
 
 ## Character
 
-Its seat is [[place-maguathen|Magu-Athen]], where the Halzi'a keeps his court and the selat's chief temple of Uqa'â stands.
+The estates are the working part of the selat. The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] governs through the Legha'lutu who rule them, each answerable to him for the manor, the fields and the village that belong to it, and in Magu-Athen those estates carry the weight the empty city cannot. The seat is [[place-maguathen|Magu-Athen]], where the Halzi'a keeps his court and the chief temple of Uqa'â stands.
 
 ## Commerce and Currency
 
-Magu-Athen uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], with the local chapter of [[affiliation-garhalzi|Gár-Hálzi]] attached to its chief temple attesting the weight-pieces and holding the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+Magu-Athen uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], and the [[affiliation-garhalzi|Gár-Hálzi]] chapter at the chief temple attests the weight-pieces and holds the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
 
 ## See Also
 

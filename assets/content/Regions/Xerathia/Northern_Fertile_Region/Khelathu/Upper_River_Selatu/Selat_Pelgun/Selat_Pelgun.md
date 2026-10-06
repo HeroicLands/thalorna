@@ -17,21 +17,23 @@ data:
 
 ## Overview
 
+"Look at that," a caravan driver says to the boy beside him on the last descent from the eastern hills, as the green strip of Selat-Pelgun comes into sight below. "Days of sand, and then this. The animals smell the water before we do."
+
 Selat-Pelgun is the land of the [[affiliation-selatsltplgn|Selat of Selat-Pelgun]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 
-Caravan-head for the eastern desert roads; harvest-festivals and virility cults. Beyond the capital the selat is the ordinary Khelâthi landscape of villages, estates and temple lands, worked by farmers who owe a share of the harvest and labor on the canals, and lettered by the scribes who are the one reliable ladder out of the fields.
+The land lies where the eastern desert meets the river. To the east the ground rises into rugged, mineral-rich hills and runs out into the semi-desert beyond, and the roads come down out of it to the green strip of flood-silt fields, canals and villages along the water. Estates and temple lands share the strip with the villages, and at harvest the festivals of Pelgun fill them.
 
 ## Economy
 
-Like every Khelâthi selat it runs on the flood, the harvest and the render—grain to the granaries, labor to the canals and the flood-season works, and a share of everything to the temples and the crown. What it contributes to the empire beyond that is what its character names: caravan-head for the eastern desert roads; harvest-festivals and virility cults.
+The selat feeds its granaries from the flood like every Khelâthi selat, owing labor to the canals and a share of everything to the temples and the crown. What it adds is the caravan trade: it is the head of the eastern desert roads, where loads come down from the hills and are sold on into the valley.
 
 ## Notable Features
 
 - [[place-iqu|Iqu]]—the selat capital and the Halzi'a's seat
 - The chief temple of [[affiliation-pelgun|Faith of Pelgun]] and its estates
-- Caravan-head for the eastern desert roads; harvest-festivals and virility cults
+- The caravan-roads from the eastern desert and the harvest-festivals of Pelgun
 
 ## Settlements
 

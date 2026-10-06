@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Gar-Zekri lies strung along the east bank of [[place-khelzuretslt|Khelzuret Selat]], on the road every pilgrim to the necropolis city of [[place-khelzuret|Khelzuret]] must walk. It lodges mourners, farms the river-margin, and lives off the endless traffic of the dead. A house on the pilgrim-road keeps a spare bed the way a farm keeps a spare field, because both kinds of harvest come in their own season.
+Gar-Zekri lies on the east bank of [[place-khelzuretslt|Khelzuret Selat]], on the pilgrim-road that every mourner bound for [[place-khelzuret|Khelzuret]] must walk. Funeral parties reach it with a litter or a cart and ask for the same three things: a room, fodder for the oxen and the way to the temple. The villagers farm the river margin when the flood allows and lodge the road's traffic the rest of the year.
 
 ## See Also
 

@@ -17,21 +17,23 @@ data:
 
 ## Overview
 
+"Watch the banks, not the water," a river pilot tells a passenger entering the gorge of Yath-Lemet. "The cliffs come in until you could throw a stone across. The farms are on that thin strip under them, and so are the beasts."
+
 Yath-Lemet Selat is the land of the [[affiliation-selatyathlmt|Selat of Yath-Lemet]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 
-The smallest upper selat; a narrow gorge-stretch where the valley pinches to almost nothing. Beyond the capital the selat is the ordinary Khelâthi landscape of villages, estates and temple lands, worked by farmers who owe a share of the harvest and labor on the canals, and lettered by the scribes who are the one reliable ladder out of the fields.
+The land is a gorge-stretch of the upper river, the narrowest part of the valley, where the green strip shrinks to almost nothing between the cliffs and the water. Fields are small and villages are few. The river is warm enough for crocodiles and hippopotami, and in so narrow a valley they live on the same banks the farmers use.
 
 ## Economy
 
-Like every Khelâthi selat it runs on the flood, the harvest and the render—grain to the granaries, labor to the canals and the flood-season works, and a share of everything to the temples and the crown. What it contributes to the empire beyond that is what its character names: the smallest upper selat; a narrow gorge-stretch where the valley pinches to almost nothing.
+Yath-Lemet runs on the flood and the harvest on a smaller scale than any other upper selat, and its grain, labor and render go to the granaries, the canals and the temples as elsewhere. What it adds is its place on the river and its god.
 
 ## Notable Features
 
 - [[place-yathlemet|Yath-Lemet]]—the selat capital and the Halzi'a's seat
 - The chief temple of [[affiliation-tjelsuk|Faith of Tjelsuk]] and its estates
-- The smallest upper selat; a narrow gorge-stretch where the valley pinches to almost nothing
+- The narrow gorge where the valley pinches to almost nothing
 
 ## Settlements
 
