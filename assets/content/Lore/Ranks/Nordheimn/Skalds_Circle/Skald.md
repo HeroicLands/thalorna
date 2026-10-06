@@ -11,7 +11,7 @@ Sworn keeper of a hall's record, entitled to food, shelter and safe passage at a
 
 ## What This Standing Is
 
-A skáld is sworn into the Circle by his own master once his drápa is accepted at a Skaldating, and wears the silver arm-ring, the skaldhringr, forged at his swearing and bearing the marks of his master and his master's master. He is the trained, sworn keeper of his hall's record, his kingdom's history, and the impartial witness the Asguardian courts summon when a dispute turns on what was said or owed.
+A skald is sworn into the Circle by his own master once his gyldra is accepted at a Skaldating, and wears the silver arm-ring, the skaldhringr, forged at his swearing and bearing the marks of his master and his master's master. He is the trained, sworn keeper of his hall's record, his kingdom's history, and the impartial witness the Asguardian courts summon when a dispute turns on what was said or owed.
 
 ## How the Law Treats a Person Here
 

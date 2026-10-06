@@ -9,7 +9,7 @@ data:
   icon: bjartr
   templatePriority: null
   demonym: null
-  epithet: null
+  epithet: The Radiant One
   symbol: null
   governance:
     model: council
@@ -56,7 +56,7 @@ sohl: {system: {commonSkills: []}}
 #   symbol: Sunstone and silver leaf
 ---
 
-"Bjartr" is the Asguardian name for [[lore-goddreams|The God of Dreams]]—a deity far older than any human pantheon, worshipped by the [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] since before humanity existed. The Aurèldían peoples know the same deity as [[affiliation-aetheria|Aethería]].
+"[[lore-bjartrdty|Bjartr]]" is the Asguardian name for [[lore-goddreams|The God of Dreams]]—a deity far older than any human pantheon, worshipped by the [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] since before humanity existed. The Aurèldían peoples know the same deity as [[affiliation-aetheria|Aethería]].
 
 Among northern humans, the Faith of Bjartr draws worshippers primarily through the deity's dream aspect—the power to guide, inspire, and foretell through the landscapes of sleep. This makes the faith unusual in the Asguardian tradition: where most northern faiths are dominated by warriors, jarls, and seafarers, Bjartr's human followers tend to be seers, healers, and those who seek wisdom through vision rather than the sword.
 

@@ -39,7 +39,7 @@ mountain interior is sparsely inhabited, leaving much of the country empty even 
 Fjord, mountain and ice do not grow food. What arable exists is a scatter of thin fields in sheltered
 valley bottoms—barley and oats, in a summer that is over almost as soon as it starts—and it has never
 been enough. The region lives on the **sea**: sealing, fishing, whale ivory, furs, amber, and the ships
-that carry all of it. The ships are the economy, and always have been.
+that carry all of it. [[lore-nrdlndswhal|The Whale Strand]] and [[lore-nrdlndsseal|The Ice-Edge and the Rookery]] follow the whale and the seal from the hunt to the lamp. The ships are the economy, and always have been.
 
 | Kingdom                               | People   |
 | ------------------------------------- | -------- |
@@ -70,7 +70,7 @@ there has ever done.
 
 The Nordmen are overwhelmingly human, fiercely independent, and organized into **clans** led by _jarls_ who rule through a combination of strength, generosity, and the reputation earned by their ancestors. Clans cluster into the five kinship-kingdoms—[[affiliation-kngdmnrdhm|Nordheim]], [[affiliation-kingdomlgn|Malagna]], [[affiliation-kingdmnrgd|Norgaad]], [[affiliation-kingdmtrgd|Targud]], and [[affiliation-kngdmvthgrd|Vithgard]]—each with its own king-jarl and regional traditions. What they share far outweighs what separates them: all speak [[skill-nordmalng|Nordmal]], all worship the Ten of the [[affiliation-asguardian|Asguardian Pantheon]], and all recognize the authority of the _ting_, the open assembly where disputes are settled, laws proclaimed, and alliances forged.
 
-The _ting_ tradition is the closest thing the Nordlands have to a continental institution. Every seventh year the **King of All Clans** is convened on a sacred island at the heart of the region, where the five kings and their principal jarls gather to settle inter-kingdom quarrels, proclaim judgments that reach beyond any one kingdom's writ, and decide matters of war and peace with neighbors.
+The _ting_ tradition is the closest thing the Nordlands have to a continental institution. Every seventh year the **King of All Clans** is convened on [[place-domsey|Dómsey]], the sacred island at the heart of the region, where the five kings and their principal jarls gather to settle inter-kingdom quarrels, proclaim judgments that reach beyond any one kingdom's writ, and decide matters of war and peace with neighbors.
 
 Personal honor is paramount. A Nordmen's reputation is their most valuable possession, and insults or betrayals can spawn blood feuds that span generations. The same culture that venerates honor also permits real social mobility: a clever or brave commoner who earns a jarl's notice can rise; a weak jarl's grown children can find themselves ruled by a cousin who proved more capable. Women hold more autonomy than in most Ankarian cultures—they manage estates during voyages, own property in their own right, initiate divorce, and occasionally take up arms as shield-maidens whose skill earns the same respect any warrior's does.
 
@@ -78,7 +78,7 @@ Nordmen excellence in shipbuilding is legendary. Their longships are shallow-dra
 
 ## Religion
 
-The [[affiliation-asguardian|Asguardian Pantheon]] is the living faith of the Nordlands. Its gods—[[affiliation-odvar|Ódvar]] the Allfather, [[affiliation-thrunvald|Thrúnvald]] the storm-wielder, [[affiliation-bjartr|Bjartr]] of light and dreams, [[affiliation-frodvin|Fródvin]] and [[affiliation-solrun|Sólrún]] of fertility and love, [[affiliation-eidgar|Eidgar]] of oath and combat, dread [[affiliation-nahild|Náhild]] of the underworld, and the rest—are not distant cosmic abstractions but near, jealous, and demanding neighbors who walk the edges of the Nordmal imagination. Every Nordmen expects a reckoning at Aldarlok; every Nordmen hopes to be remembered as one who stood well when it came.
+The [[affiliation-asguardian|Asguardian Pantheon]] is the living faith of the Nordlands. Its gods—[[affiliation-odvar|Ódvar]] the Allfather, [[affiliation-thrunvald|Thrúnvald]] the storm-wielder, [[affiliation-bjartr|Bjartr]] of light and dreams, [[affiliation-frodvin|Fródvin]] and [[affiliation-solrun|Sólrún]] of fertility and love, [[affiliation-eidgar|Eidgar]] of oath and combat, dread [[affiliation-nahild|Náhild]] of the underworld, and the rest—are not distant cosmic abstractions but near, jealous, and demanding neighbors who walk the edges of the Nordmal imagination. Every Nordmen knows the world was cut from a giant's body and expects a reckoning at [[lore-aldarlok|Aldarlok]], the close of an age in a [[lore-aldarhringr|ring of ages]]; every Nordmen hopes to be remembered as one who stood well when it came.
 
 Worship is decentralized. There is no pontifical authority, no single temple primacy, no Ordo. Instead the faith is organized around **hofs** (communal halls), **godar** and **gydjur** (local priests and priestesses who double as civic leaders), and the _blót_—the seasonal sacrifice and shared feast that knits a clan to its gods and to one another. Four great festivals mark the ritual year: [[lore-jol|Jól]] at midwinter, [[lore-sumarmal|Sumarmál]] at spring, [[lore-midsumar|Midsumar]] at the summer solstice, and [[lore-vetrnaetr|Vetrnaetr]] as winter returns.
 
@@ -104,6 +104,10 @@ Far to the south, Mídhalión is the great market. Nordmen traders and mercenari
 
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—the five Nordmal kingdoms
 - [[affiliation-asguardian|Asguardian Pantheon]]—the Ten of the north
+- [[lore-aldarhringr|Aldarhringr]]—the ring of ages, the making of the world and the gods' heirs
+- [[place-domsey|Dómsey]]—the ting island of the King of All Clans
+- [[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]—the north's funeral rites
+- [[lore-nrdlndswhal|The Whale Strand]], [[lore-nrdlndsseal|The Ice-Edge and the Rookery]]—the whale and seal economy
 - [[skill-nordmalng|Nordmal Language]]—the shared tongue
 - [[place-grkrhlmrgn|Grukarhölm]]—eastern neighbor
 - [[place-vrystwald|Vrystwald]]—southern frontier

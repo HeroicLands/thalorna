@@ -9,7 +9,7 @@ sohl: {system: {weightBase: 5, valueBase: 0, durabilityBase: 15}}
 ---
 
 One of the **three regalia** required to seal away [[being-njorven|Njörven]], with the
-[[miscgear-crwnwyrm|Crown of the Wyrm]] and the [[miscgear-hornnjordur|Horn of Njörvar]].
+[[miscgear-crwnwyrm|Crown of the Wyrm]] and the [[miscgear-hornnjordur|Horn of Hafvald]].
 
 The Spear is hidden within an **ancient shrine**, guarded by a powerful **spirit guardian**, and it is
 the regalia whose recovery is most explicitly _not_ a fight.
@@ -29,7 +29,7 @@ before the party has invested in the wrong approach: Njörven is not a problem t
 
 ## Sigrid
 
-An ancestral figure of the Nordlands whose name survives on the spear and very little else. The
+An ancestral figure of the [[place-nrdlndsrgn|Nordlands]] whose name survives on the spear and very little else. The
 sagas that mention her do not agree on when she lived or what she did with it, and the shrine is not
 hers—it merely holds the weapon.
 

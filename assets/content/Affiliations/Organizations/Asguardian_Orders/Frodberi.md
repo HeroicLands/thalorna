@@ -41,4 +41,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Fródberi, the Heralds of Peace, mediate disputes in [[affiliation-frodvin|Fródvin]]'s name, working to keep harmony within a household and between neighboring ones before a quarrel reaches the ting. A member is sought out by both sides of a dispute precisely because Fródvin's peace is understood to serve neither party over the other.
+Fródberi, the Heralds of Peace, mediate disputes in [[affiliation-frodvin|Fródvin]]'s name, working to keep harmony within a household and between neighboring ones before a quarrel reaches the ting. A member is sought out by both sides of a dispute precisely because [[lore-frodvindty|Fródvin]]'s peace is understood to serve neither party over the other.

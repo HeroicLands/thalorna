@@ -25,7 +25,7 @@
  * else is restated, because a second copy of a rule drifts from the first the
  * moment either is edited, and the note is where a phonology is settled.
  *
- * Three checks.
+ * Four checks.
  *
  * **The corpus.** Names are read from frontmatter and from the note's own
  * lists, never from prose: a name in frontmatter is a name, while a capitalized
@@ -37,7 +37,13 @@
  * any name showing it: an element that opens a compound stands first in the
  * name, so its own spelling has to open on a cluster the onset inventory
  * carries. Both tables are read off the note, so the check holds the
- * specification to itself rather than to a copy of it.
+ * specification to itself rather than to a copy of it. The published name
+ * lists are samples of what the rules build, so a list is held to the rules
+ * and to naming nothing twice, and never to a count.
+ *
+ * **The vocabulary.** Every ordinary word § _Vocabulary_ publishes keeps the
+ * tongue's letters, openings and diphthongs and is built from the element
+ * lexicon, so a word nothing in the lexicon accounts for is reported.
  *
  * **The concordance.** `utils/nordmal-concordance.json` settles which names are
  * old and which are new. A name it settles as new, or keeps as standing, that
@@ -632,6 +638,14 @@ export function judge(name, kind, rule) {
         ];
     }
 
+    // A seeress's name is granted at her first high seat rather than bestowed
+    // at a naming, so it is built the way an earned clan name is: a compound
+    // of elements, closing as a compound closes.
+    if (kind === "seeress") {
+        if (decompose(lower, rule, rule.compoundEnds)) return shape(name, rule, "compound");
+        return ["it is not a compound of published elements", ...shape(name, rule, "compound")];
+    }
+
     if (kind === "place") {
         // A place name inflects on its generic, so the genitive of a place name
         // is the same first element under the generic's own genitive form. Both
@@ -883,18 +897,22 @@ export function checkElements(rule) {
 /**
  * The note's lists, checked against the tables they are built from.
  *
+ * **The lists are samples, not a pool.** Each shows names the rule builds, and
+ * any stem in any grade under any ending of the right class is as lawful as a
+ * listed name. So a list is never held to a count or to one name per stem: a
+ * name off the list is judged by the rule alone, wherever it stands. What a
+ * list may not do is name one name twice, and every name on it answers to the
+ * rule, which `judge` checks with the rest of the corpus.
+ *
  * @param {object[]} names - The corpus rows drawn from the note.
- * @param {object} rule - The derived lexicon.
  * @returns {string[]} Findings.
  */
-export function checkLists(names, rule) {
+export function checkLists(names) {
     const out = [];
     const listed = names.filter((row) => row.listed);
     for (const heading of new Set(listed.map((row) => row.listed))) {
-        const inList = listed.filter((row) => row.listed === heading);
         const seen = new Set();
-        const stemsUsed = new Set();
-        for (const row of inList) {
+        for (const row of listed.filter((entry) => entry.listed === heading)) {
             if (seen.has(row.name))
                 out.push(
                     finding(
@@ -906,34 +924,73 @@ export function checkLists(names, rule) {
                     ),
                 );
             seen.add(row.name);
-            const endings = row.kind === "given" ? [...rule.bestowal.keys()] : [...rule.ting];
-            for (const [stem] of rule.stems) {
-                for (const ending of endings) {
-                    if (bind(stem, ending) === row.name.toLowerCase()) stemsUsed.add(stem);
-                }
-            }
         }
-        const missing = [...rule.stems.keys()].filter((stem) => !stemsUsed.has(stem));
-        if (missing.length)
-            out.push(
-                finding(
-                    NOTE,
-                    null,
-                    null,
-                    "error",
-                    `${heading} names no name from ${missing.length} of the ${rule.stems.size} stem-forms: ${missing.join(", ")}`,
-                ),
-            );
-        if (inList.length !== rule.stems.size)
-            out.push(
-                finding(
-                    NOTE,
-                    null,
-                    null,
-                    "error",
-                    `${heading} holds ${inList.length} name(s) against ${rule.stems.size} stem-forms; the list carries one for each`,
-                ),
-            );
+    }
+    return out;
+}
+
+/** The section holding the tongue's ordinary words. */
+const VOCABULARY = "## Vocabulary";
+
+/**
+ * Every ordinary word the note's vocabulary tables publish.
+ *
+ * The first column of every table under § _Vocabulary_ ticks the word, so the
+ * rows are read the way every other table here is read.
+ *
+ * @param {string} text - The note.
+ * @returns {{word: string, line: number|null, column: number|null}[]} The words.
+ */
+export function vocabularyFrom(text) {
+    if (!text.includes(`\n${VOCABULARY}\n`)) return [];
+    const body = section(text, VOCABULARY);
+    const from = text.indexOf(`\n${VOCABULARY}\n`);
+    const out = [];
+    for (const cells of rows(body)) {
+        const word = ticked(cells[0] ?? "")[0];
+        if (!word) continue;
+        out.push({ word, ...positionOf(text, `\`${word}\``, from) });
+    }
+    return out;
+}
+
+/**
+ * The vocabulary, checked against the sounds and the elements.
+ *
+ * An ordinary word keeps a name's letters, openings and diphthongs and takes a
+ * wider range of closings, so the closing and the consonant band are not asked
+ * of it. It is built from the element lexicon like a compound: a word is one
+ * published element, an element in the strong `-r`, or a compound of elements.
+ * A name-stem in one of its three grades is never a word, because those grades
+ * belong to names alone.
+ *
+ * @param {string} text - The note.
+ * @param {object} rule - The derived lexicon.
+ * @returns {string[]} Findings.
+ */
+export function checkVocabulary(text, rule) {
+    const out = [];
+    const seen = new Set();
+    for (const { word, line, column } of vocabularyFrom(text)) {
+        const lower = word.toLowerCase();
+        const say = (message) => out.push(finding(NOTE, line, column, "error", message));
+        if (seen.has(lower)) say(`the vocabulary lists "${word}" twice`);
+        seen.add(lower);
+        const broken = shape(word, rule, "compound").filter(
+            (reason) => !/^it closes on|consonants to the vowel/.test(reason),
+        );
+        for (const reason of broken) say(`"${word}" breaks the sounds of the tongue: ${reason}`);
+        if (rule.stems.has(lower)) {
+            say(`"${word}" is a name-stem, and a name-stem's three grades are for names alone`);
+            continue;
+        }
+        const built =
+            rule.opening.has(lower) ||
+            rule.closing.has(lower) ||
+            (lower.endsWith("r") && rule.opening.has(lower.slice(0, -1))) ||
+            decompose(lower, rule, rule.compoundEnds);
+        if (!built)
+            say(`"${word}" is neither a published element nor a compound of published elements`);
     }
     return out;
 }
@@ -1068,7 +1125,8 @@ function main() {
         );
     }
     out.push(...checkElements(rule));
-    out.push(...checkLists(names, rule));
+    out.push(...checkLists(names));
+    out.push(...checkVocabulary(note, rule));
 
     const disagreements = new Map();
     if (hasConcordance) out.push(...checkConcordance(table, rule, disagreements));

@@ -41,4 +41,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Hugaett, the Order of the All-Seeing Eye, preserves [[affiliation-odvar|Ódvar]]'s pursuit of knowledge, wisdom and learning for its own sake. Its members, called Hugfadir and Hugmódir, are reckoned the most learned among Ódvar's faithful, and the order keeps the vast libraries and archives housed at its temples, open to any devotee willing to study there.
+Hugaett, the Order of the All-Seeing Eye, preserves [[affiliation-odvar|Ódvar]]'s pursuit of knowledge, wisdom and learning for its own sake. Its members, called Hugfadir and Hugmódir, are reckoned the most learned among [[lore-odvardty|Ódvar]]'s faithful, and the order keeps the vast libraries and archives housed at its temples, open to any devotee willing to study there.

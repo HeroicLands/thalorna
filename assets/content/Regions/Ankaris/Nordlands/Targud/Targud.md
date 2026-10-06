@@ -18,7 +18,7 @@ data:
 
 Targud is the land of the [[affiliation-kingdmtrgd|Kingdom of Targud]], the eastern edge of the [[place-nrdlndsrgn|Nordlands]] against the [[place-grkrhlmrgn|Grukar]].
 
-Targud is the easternmost Nordmen kingdom, bordering the territories of the [[place-grkrhlmrgn|Grukar]] tribes.
+Targud is the easternmost [[lore-nordheimnclt|Nordmen]] kingdom, bordering the territories of the [[place-grkrhlmrgn|Grukar]] tribes.
 
 ## Character
 
@@ -28,4 +28,4 @@ The kingdom's eastern border is a contested no-man's-land of burned farmsteads, 
 
 - [[affiliation-kingdmtrgd|Kingdom of Targud]]—The kingdom that holds this land
 - [[place-nrdlndsrgn|Nordlands Region]]—The enclosing region
-- Tvalgard—The seat
+- [[place-tvalgard|Tvalgard]]—The seat

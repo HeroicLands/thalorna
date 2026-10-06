@@ -390,22 +390,22 @@ Hnirvmýl's runic mastery is unmatched in the northern lands; he can read omens 
 
 ### Patrons
 
-**Jarl Ulfric of Stormsfjord**—A cautious ruler who relies on Hnirvmýl's counsel before making any major decision. Ulfric provides Hnirvmýl with shelter, resources, and access to his court in exchange for guidance on matters of war and diplomacy.
+**Jarl Hvurnmýl of Snarvfjord**—A cautious ruler who relies on Hnirvmýl's counsel before making any major decision. Hvurnmýl provides Hnirvmýl with shelter, resources, and access to his court in exchange for guidance on matters of war and diplomacy.
 
 **The Raven Circle**—A secretive fellowship of runemasters and seers scattered across the northern realms who share forbidden knowledge through coded messages carved into waymarker stones.
 
 ### Enemies
 
-**Grimvald Iron-Eye**—A rival seer who claims Hnirvmýl is a fraud and that his prophecies are fabrications designed to manipulate jarls. Grimvald has placed bounties on Hnirvmýl's head among mercenary bands.
+**Gnildrmýl Iron-Eye**—A rival seer who claims Hnirvmýl is a fraud and that his prophecies are fabrications designed to manipulate jarls. Gnildrmýl has placed bounties on Hnirvmýl's head among mercenary bands.
 
 **The Quaesitorium Arcanum**—The Ordo Arcanis enforcement arm has taken an interest in Hnirvmýl's runic practices, viewing his unsanctioned magic as a potential threat to their monopoly on arcane knowledge.
 
 ## Plot Hooks
 
-1. **The Shattered Rune**—Hnirvmýl has discovered fragments of an ancient rune that, when assembled, could reveal the location of Ódvar's lost eye. Rival factions—including Grimvald Iron-Eye and agents of the Ordo Arcanis—are also hunting the fragments. The party must help Hnirvmýl recover the pieces before they fall into the wrong hands.
+1. **The Shattered Rune**—Hnirvmýl has discovered fragments of an ancient rune that, when assembled, could reveal the location of Ódvar's lost eye. Rival factions—including Gnildrmýl Iron-Eye and agents of the Ordo Arcanis—are also hunting the fragments. The party must help Hnirvmýl recover the pieces before they fall into the wrong hands.
 
 2. **The Silent Ravens**—[[lore-hugvin|Hugvin]] and [[lore-munvin|Munvin]] have gone silent. Hnirvmýl can no longer hear their whispers and fears something terrible has happened in the spirit realm. He needs companions to journey to the World Tree's roots and investigate what has disrupted the ravens' flight.
 
-3. **The Jarl's Dilemma**—Jarl Ulfric's son has been accused of murder, and the evidence is damning. Ulfric begs Hnirvmýl to use his sight to uncover the truth, but what Hnirvmýl sees in the runes implicates someone far more dangerous than anyone suspected.
+3. **The Jarl's Dilemma**—Jarl Hvurnmýl's son has been accused of murder, and the evidence is damning. Hvurnmýl begs Hnirvmýl to use his sight to uncover the truth, but what Hnirvmýl sees in the runes implicates someone far more dangerous than anyone suspected.
 
 4. **The Apprentice's Betrayal**—A former student of Hnirvmýl has begun using corrupted runes to enslave the minds of villagers. Hnirvmýl must confront his own failure as a teacher while stopping the apprentice before the corruption spreads.

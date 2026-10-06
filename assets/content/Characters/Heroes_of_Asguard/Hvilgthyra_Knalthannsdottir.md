@@ -371,7 +371,7 @@ Hvilgthýra stands 5'7" with an athletic, well-muscled frame, weighing about 160
 
 Hvilgthýra Knalthannsdóttir was the daughter of a mighty warrior, raised in the traditions of battle and the wisdom of the runes. From a young age, she was taught to balance the blade with the mind, learning the art of combat alongside the deeper mysteries of Ódvar's teachings. Known for her fierce spirit and sharp intellect, Hvilgthýra became a shieldmaiden feared by her enemies and respected by her allies. She carries a shield inscribed with powerful runes, which she believes to be a gift from Ódvar himself, guiding her through the chaos of battle.
 
-The saga of Hvilgthýra Knalthannsdóttir tells of her confrontation with the dread warlock Jarnvidr, who had enslaved a village with dark magic. The warlock's power was said to be unassailable, his knowledge of the dark arts unmatched. Hvilgthýra, however, knew that brute strength alone would not defeat such an opponent. She spent seven days and nights in meditation, seeking Ódvar's guidance, until she received a vision of the runes that could shatter Jarnvidr's spell. Armed with this knowledge, Hvilgthýra faced the warlock, using her shield to deflect his sorcery and her runes to break his hold over the village. In the end, it was her wisdom and faith in Ódvar's guidance that won the day, freeing the villagers and banishing Jarnvidr to the shadowy depths.
+The saga of Hvilgthýra Knalthannsdóttir tells of her confrontation with the dread warlock **Svulthorv**, who had enslaved a village with dark magic. The warlock's power was said to be unassailable, his knowledge of the dark arts unmatched. Hvilgthýra, however, knew that brute strength alone would not defeat such an opponent. She spent seven days and nights in meditation, seeking Ódvar's guidance, until she received a vision of the runes that could shatter Svulthorv's spell. Armed with this knowledge, Hvilgthýra faced the warlock, using her shield to deflect his sorcery and her runes to break his hold over the village. In the end, it was her wisdom and faith in Ódvar's guidance that won the day, freeing the villagers and banishing Svulthorv to the shadowy depths.
 
 ## Psyche
 
@@ -381,11 +381,11 @@ Hvilgthýra is disciplined and composed, a woman who speaks with the quiet autho
 
 ### Motivation
 
-Hvilgthýra seeks to prove that wisdom and martial prowess are not opposing paths but complementary ones. She carries the weight of her father Knalthann's legacy and strives to surpass it—not through greater feats of arms, but through the deeper understanding of the runes that her father never achieved. She hunts the remnants of Jarnvidr's dark influence, suspecting the warlock was merely a servant of a greater evil.
+Hvilgthýra seeks to prove that wisdom and martial prowess are not opposing paths but complementary ones. She carries the weight of the legacy of her father, **Knalthann the Gray**, and strives to surpass it—not through greater feats of arms, but through the deeper understanding of the runes that her father never achieved. She hunts the remnants of Svulthorv's dark influence, suspecting the warlock was merely a servant of a greater evil.
 
 ### Strengths
 
-Hvilgthýra is a formidable warrior whose runic shield provides both physical and magical protection. Her combination of martial skill and mystical knowledge makes her uniquely effective against sorcerous enemies. She is an expert tracker and can survive in the wilderness for weeks on end. Her reputation as the woman who broke Jarnvidr's spell earns her respect and hospitality in villages throughout the north.
+Hvilgthýra is a formidable warrior whose runic shield provides both physical and magical protection. Her combination of martial skill and mystical knowledge makes her uniquely effective against sorcerous enemies. She is an expert tracker and can survive in the wilderness for weeks on end. Her reputation as the woman who broke Svulthorv's spell earns her respect and hospitality in villages throughout the north.
 
 ## Social
 
@@ -395,18 +395,18 @@ Hvilgthýra is a formidable warrior whose runic shield provides both physical an
 
 **Knalthann the Gray**—Her father, now retired from active combat but still influential among the northern clans. He provides counsel and connections, though their relationship is complicated by his disappointment that she chose the path of the runes over pure warriorship.
 
-**The Shrine of Ódvar at Ravenspeak**—The high priestess of this sacred site has taken a personal interest in Hvilgthýra's runic abilities and provides her with access to ancient texts and ritual spaces.
+**The Shrine of Ódvar at Ódfell**—The high priestess of this sacred site has taken a personal interest in Hvilgthýra's runic abilities and provides her with access to ancient texts and ritual spaces.
 
 ### Enemies
 
-**Remnants of Jarnvidr's Coven**—The warlock's apprentices and allies have sworn vengeance against Hvilgthýra for their master's defeat. They operate in secret, placing curses and sending assassins.
+**Remnants of Svulthorv's Coven**—The warlock's apprentices and allies have sworn vengeance against Hvilgthýra for their master's defeat. They operate in secret, placing curses and sending assassins.
 
-**Thane Brosi Ketilsson**—A powerful northern lord who believes women should not bear arms or practice the runes. He has publicly declared Hvilgthýra an abomination and has forbidden her from entering his lands.
+**Hersvald Gnurthmýl Gnirthvirsen**—A powerful northern lord who believes women should not bear arms or practice the runes. He has publicly declared Hvilgthýra an abomination and has forbidden her from entering his lands.
 
 ## Plot Hooks
 
-1. **The Warlock's Return**—Strange signs suggest that Jarnvidr's banishment may not have been permanent. Villagers near the site of his defeat report hearing whispers in the dark and seeing shadows that move against the wind. Hvilgthýra needs allies to investigate before the warlock can rebuild his power.
+1. **The Warlock's Return**—Strange signs suggest that Svulthorv's banishment may not have been permanent. Villagers near the site of his defeat report hearing whispers in the dark and seeing shadows that move against the wind. Hvilgthýra needs allies to investigate before the warlock can rebuild his power.
 
 2. **The Shield's Secret**—The runes on Hvilgthýra's shield have begun to glow with an unfamiliar light, and new symbols are appearing that she cannot read. An ancient text suggests the shield may be one of several artifacts that, when united, could open a gate to Ódvar's hall.
 
-3. **Blood Feud**—Thane Brosi has kidnapped a young girl who showed talent for the runes, intending to "correct" her. Hvilgthýra must rescue the girl while navigating the political complications of defying a powerful thane.
+3. **Blood Feud**—Hersvald Gnurthmýl has kidnapped a young girl who showed talent for the runes, intending to "correct" her. Hvilgthýra must rescue the girl while navigating the political complications of defying a powerful hersvald.

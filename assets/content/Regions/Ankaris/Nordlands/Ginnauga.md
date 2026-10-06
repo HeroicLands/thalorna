@@ -14,7 +14,7 @@ Náhild wears the Eye of the Void at her neck, and her depictions show it there.
 
 ## In Náhild's Faith
 
-The [[affiliation-nahild|Faith of Náhild]] takes an obsidian shard and the Eye of the Void together as its symbol. It venerates the Eye in every one of its hidden hofs and holds that the relic amplifies the powers of death and chaos. In the **Rite of Eternal Darkness**, a secret ceremony of the clergy, the cult beseeches power from the Eye to deepen its bond with Náhild. [[affiliation-nalok|Nálok]], the Order of the Void, works in secret to widen the Eye's influence over whatever ground its members can reach.
+The [[affiliation-nahild|Faith of Náhild]] takes an obsidian shard and the Eye of the Void together as its symbol. It venerates the Eye in every one of its hidden hofs and holds that the relic amplifies the powers of death and chaos. In the [[affiliation-nahild|Rite of Eternal Darkness]], a secret ceremony of the clergy, the cult beseeches power from the Eye to deepen its bond with Náhild. [[affiliation-nalok|Nálok]], the Order of the Void, works in secret to widen the Eye's influence over whatever ground its members can reach.
 
 The [[affiliation-asguardian|pantheon]]'s own account names the Eye as the source of Náhild's power, a primordial artefact of raw corruption. Ginnauga takes its name from _ginn-_, the yawning void beyond creation, and _-auga_, an eye.
 
