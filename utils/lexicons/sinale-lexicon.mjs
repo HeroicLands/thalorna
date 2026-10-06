@@ -167,9 +167,10 @@ export function rows(text, offset = 0) {
         if (line.trim().startsWith("|")) lines.push({ line, at });
         at += line.length + 1;
     }
+    // A pipe escaped inside a cell, as a wikilink in a table writes it, does not split it.
     const cells = lines.map(({ line }) =>
         line
-            .split("|")
+            .split(/(?<!\\)\|/)
             .slice(1, -1)
             .map((cell) => cell.trim()),
     );
@@ -431,7 +432,7 @@ export function lexiconFrom(lex) {
     out.register = rows(names.body, names.at).map(({ cells, at }) => ({
         name: (cells[0] ?? "").replace(/\*\*/g, "").trim(),
         note: (cells[1] ?? "").trim(),
-        address: (cells[1] ?? "").match(/\[\[([^|\]]+)/)?.[1] ?? null,
+        address: (cells[1] ?? "").match(/\[\[([^|\]\\]+)/)?.[1] ?? null,
         tongue: ticked(cells[2] ?? "")[0] ?? (cells[2] ?? "").trim(),
         built: (cells[3] ?? "").trim(),
         at,

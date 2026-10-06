@@ -164,14 +164,20 @@ test("an attested name the register does not hold is an error", () => {
 
 test("a register row in an undeclared tongue, on a missing note or misbuilt is an error", () => {
     const { rule } = ruleFrom(note, lexicon);
-    const built = rule.register.find((entry) => entry.tongue === "sinale" && entry.built !== "—");
-    assert(built, "the register holds a Sinalë name built from the lexicon");
-    const line = lexicon.split("\n").find((text) => text.startsWith(`| **${built.name}**`));
-    const tongue = edited(line, line.replace("`sinale`", "`nonesuch`"), lexicon);
+    const stem = [...rule.lexicon.values()].find(
+        (row) => row.class === "n" && /[aou]/.test(row.form) && !/m[aou]+$/.test(row.form),
+    );
+    const name = `${stem.written[0].toUpperCase()}${stem.written.slice(1)}mo`;
+    const address = rule.register[0].address;
+    const line = `| **${name}** | [[${address}\\|x]] | \`sinale\` | \`${stem.written}\` + \`-mo\` |`;
+    const last = lexicon.trimEnd().split("\n").at(-1);
+    const withRow = edited(last, `${last}\n${line}`, lexicon);
+    assert.deepEqual(lexErrorsOf(withRow), []);
+    const tongue = edited(line, line.replace("`sinale`", "`nonesuch`"), withRow);
     assert(lexErrorsOf(tongue).some((text) => text.includes('the tongue "nonesuch"')));
-    const address = edited(line, line.replace(`[[${built.address}`, "[[lore-nonesuch"), lexicon);
-    assert(lexErrorsOf(address).some((text) => text.includes("which no note has")));
-    const wrong = edited(line, line.replace(`**${built.name}**`, `**${built.name}a**`), lexicon);
+    const missing = edited(line, line.replace(`[[${address}`, "[[lore-nonesuch"), withRow);
+    assert(lexErrorsOf(missing).some((text) => text.includes("which no note has")));
+    const wrong = edited(line, line.replace(`**${name}**`, `**${name}a**`), withRow);
     assert(lexErrorsOf(wrong).some((text) => text.includes("is not what its parts give")));
 });
 
