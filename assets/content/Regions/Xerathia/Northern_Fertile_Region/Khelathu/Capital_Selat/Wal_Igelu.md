@@ -3,7 +3,7 @@ shortcode: waligelu
 name: {full: Wal-Igelu, aliases: []}
 type: place
 subType: site
-description: "A quarter of Galezkara on ground the flood takes back more often than its people would like, and named for what the river does to it"
+description: "The Drowned Way: a silted, long-dead channel of the river that the noble houses have made into a chain of pleasure gardens and lotus pools through the High City of Galezkara"
 tags: [generated, draft]
 data:
   demonym: null
@@ -14,8 +14,11 @@ data:
   banner: khelathubnr
 ---
 
-Wal-Igelu is a quarter of [[place-galezkara|Galezkara]] on ground the flood takes back more often than its people would like, and its name records exactly that fact rather than flattering the place. It lives, when the water allows, by the same city trades as its neighbours, rebuilt each time the river recedes. A house here is understood by everyone who lives in it to be a temporary arrangement with the river, renewed every year the flood permits.
+"You are walking in the river's old bed," a steward of one of the noble houses tells a guest on the garden path. "Mind the lotus pools."
+
+**Wal-Igelu**, the **Drowned Way**, is an old channel of the river, silted up and long dead, that runs through the **High City** of [[place-zuleri|Zu-Leri]]. The noble houses have made it into a chain of pleasure gardens and lotus pools, so that a vanished arm of the river has become the capital's most prized and exclusive walk. The name records what the channel was: a way the water once took.
 
 ## See Also
 
 - [[place-galezkara|Galezkara]]—The imperial city
+- [[place-zuleri|Zu-Leri]]—The High City it runs through

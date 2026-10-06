@@ -77,15 +77,17 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Tjathu is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: the sea-margin; salt-pans, natron flats, and the curing of the lesser villages' catch. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-wethur|Faith of Wethûr]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-tjathuselat|Tjathu Selat]].
+[[place-tjathu|Tjathu]] is the delta's sea-margin, and the salt in it is the reason every embalmer in the empire knows the name. The selat is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], a country of salt-pans, natron flats and the curing of the lesser villages' catch. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the [[lore-garauu|Gar-Aû]] at a distance that varies with the strength of the throne. The patron is [[affiliation-wethur|Wethûr]], and the selat's religious life runs through his temples and their estates. The land it holds is [[place-tjathuselat|Tjathu Selat]].
+
+"Salt is the easiest thing in the empire to weigh and the hardest to weigh honestly," says the Halzi'a's steward of revenue, tapping a ledger. "Every pan swears its heap is lighter than my scales say, and every pan is wrong in the same direction."
 
 ## Character
 
-Its seat is [[place-tjathu|Tjathu]], where the Halzi'a keeps his court and the selat's chief temple of Wethûr stands.
+The seat is [[place-tjathu|Tjathu]], where the Halzi'a keeps court and the selat's chief temple of Wethûr stands. Wethûr is the god who guides souls through the underworld and keeps the tombs, and a selat whose natron dries the dead has a natural claim on him.
 
 ## Commerce and Currency
 
-Tjathu uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], with the local chapter of [[affiliation-garhalzi|Gár-Hálzi]] attached to its chief temple attesting the weight-pieces and holding the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+Tjathu uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]]. The local chapter of [[affiliation-garhalzi|Gár-Hálzi]] attached to the chief temple attests the weight-pieces and holds the granary accounts, and in a selat that sells salt and natron by weight, the chapter's scales settle most disputes. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
 
 ## See Also
 

@@ -36,7 +36,7 @@ data:
 
 ## Overview
 
-Gar-Qelti is a wealthy merchant house with trading interests spread across [[place-aukhelathrgq|Aû'Khelâthu]], built on generations of patronage extended to timber-merchants and craftspeople who needed capital the guilds could not supply. The house is quick to lend its name to any venture it expects to profit by, a practice that has made its backing both sought after and, to a cautious partner, slightly suspect. A venture that carries House Qelti's name attracts investors readily, but a partner who looks closely finds the house's own profit written into the terms before anyone else's.
+When the timber-merchants and craftspeople of [[place-aukhelathrgq|Aû'Khelâthu]] needed capital the guilds could not supply, they went to **House Qelti**, and generations of that patronage built a wealthy merchant house with trading interests across the empire. The house lends its name quickly to any venture it expects to profit by, which makes its backing sought after and, to a cautious partner, slightly suspect: a partner who looks closely finds the house's own profit written into the terms before anyone else's.
 
 ## Character
 
