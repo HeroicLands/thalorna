@@ -41,7 +41,3 @@ imperfect check on the worst abuses of power in a civilization otherwise steeply
 
 She judges; [[lore-wethurdty|Wethûr]] does not. By the time a soul reaches his realm it has already
 been weighed.
-
-TBD—whether the deceased may speak when his accounts are read, and in which register: whether he
-attests the written, petitions the unwritten, or stands silent while the gods read both. And what
-Álgit is: whether a god, a beast, or an office.

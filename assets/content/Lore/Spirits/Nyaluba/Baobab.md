@@ -26,6 +26,3 @@ guide invoked when the clans want a matter settled slowly and well.
 Its withdrawal is unambiguous and final. When a town's baobab dies, the pact with that ground has
 ended: the Bombwe do not replant, and the town disperses. Twice in remembered history this has
 happened, and both dispersals are named in the memory-songs.
-
-TBD—whether the guide is one being present in many trees or many beings of one kind, on which
-the Bombwe griots are said to disagree with each other.

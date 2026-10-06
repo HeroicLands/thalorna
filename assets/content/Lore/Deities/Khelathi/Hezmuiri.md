@@ -29,6 +29,3 @@ holds the soul's journey and the tomb's sanctity.
 He is honored more universally than almost any other god for a plain reason: essentially every
 human being will eventually require his services. That universality is also an industry, and it made
 his priesthood among the largest and most powerful in the empire.
-
-TBD—whether Hezmuîri is held to attend the embalming himself, or only to have taught it once and
-left the technique to the families that keep it.

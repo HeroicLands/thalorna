@@ -17,7 +17,3 @@ Where Linhur's scrutiny falls on the **hunter**, Linqur's falls on the **killing
 be done with the speed and efficiency the beast's nature permits. The division gives the pairing its
 point: one god watches the man, the other watches the act, and a hunter answerable to both cannot
 satisfy either by intention alone.
-
-TBD—everything beyond the hunt. The record establishes his function within
-[[affiliation-garnuw|Gar'Nuw]]'s practice and gives him no myth, no cosmic role, and no relation to
-[[affiliation-khelathpnthn|Khelâthi Pantheon]].

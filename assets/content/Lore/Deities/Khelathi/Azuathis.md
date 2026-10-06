@@ -32,6 +32,3 @@ realm for catastrophe.
 The frontier reading is gentler and not held to be wrong so much as differently framed: the herders
 of the western uplands and the hill-dwellers of the east understand him as an aspect of storm,
 earthquake and drought, and work protections accordingly.
-
-TBD—whether the sect that would wake the False Uqa'â regards him as Azu'âthis's instrument, or merely
-as the most useful ruin available.

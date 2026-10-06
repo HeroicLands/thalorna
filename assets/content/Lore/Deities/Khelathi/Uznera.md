@@ -30,6 +30,3 @@ Against the more ascetic faiths she is a deliberate counterweight. Where they de
 Uznêra's priestesses hold that the body is sacred, that its legitimate needs are the goddess's gift,
 and that to deny them is to deny her. This is not license—it is the claim that life's generative
 and healing forces are as divine as its abstract principles of order and truth.
-
-TBD—how the Flood Festival's rites differ between the delta and the upper river, where the same
-flood arrives months apart.

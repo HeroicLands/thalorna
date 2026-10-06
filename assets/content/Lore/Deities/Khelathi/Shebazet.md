@@ -17,6 +17,3 @@ on**.
 She stands outside [[affiliation-khelathpnthn|Khelâthi Pantheon]], and the disproportion is striking: a local
 marsh cult with no imperial standing supplies the physical basis of
 [[lore-rethsaardty|Reth'Sa'âr]]'s whole domain.
-
-TBD—what the cobra has to do with the reed-beds. The connection is treated as obvious in the delta
-and is explained nowhere.

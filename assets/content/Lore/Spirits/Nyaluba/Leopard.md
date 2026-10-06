@@ -26,6 +26,3 @@ being acknowledged. It is the only guide the tradition holds may be addressed si
 
 Prohibitions it enforces upon the Sengala: not to hunt leopards, not to break a bargain struck
 under its notice, and not to reveal the route by which a party came.
-
-TBD—what the rainforest peoples make of it, and whether they have a name for it of their
-own.
