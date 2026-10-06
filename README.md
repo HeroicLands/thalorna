@@ -6,13 +6,19 @@ This module provides the necessary items, actors, and assets needed to play in t
 
 ```sh
 npm ci
-npm run build                # the whole module, from a clean install
+npm run build                # the whole module, from a clean install and an empty build/stage/
+npm run build:stage-reset    # empty build/stage/; build/cache/ is kept
 npm run build:content-index  # assets/content/ → build/content-index/
 npm run build:calendars      # the content index → build/calendars/
 npm run build:compiledb      # assets/content/ → build/stage/packs/{items,journals,actors}
 npm run build:site-content   # assets/content/ → build/hugo/content/
 npm run build:site           # the above, then Hugo → build/site/thalorna/
 ```
+
+`npm run build` empties `build/stage/` before anything writes to it, so the
+assembled package holds only what current sources produce; a renamed or deleted
+asset leaves nothing behind. The individual `build:*` commands write into the
+stage as it stands.
 
 A plain checkout is all that is needed. There is no sibling repository to clone
 and no `HEROICLANDS_VAULT` to set — this repository owns its content outright,

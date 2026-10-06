@@ -26,6 +26,6 @@ TBD
 
 **Role.** Ensures accurate record-keeping and correspondence.
 
-**Background.** Trusted for meticulous work and reliability in the court records.
+**Background.** Trusted for meticulous work and reliability in the Synod's records.
 
 **Intrigue.** In a secret relationship with [[being-loristaravel|Loris Taravel]], against the moral teaching of [[affiliation-janus|Jánus]]. Deeply in love and unaware of Loris's true motives; fears exposure would ruin them both, which makes him blackmail material.

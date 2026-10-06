@@ -19,6 +19,12 @@ data:
 
 Midstream in the great river, between the living city on the east bank and the necropolis on the west, rises [[place-yathtelgu|Yath-Telgu]]—the First Mound, the holiest ground in all of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]. The Khelâthi hold it to be the very mound that first lifted from the waters of creation at the [[affiliation-empireakhlth#the-khelathi-calendar-and-dating|Qet Telgu]], the place where the world began; and upon it stand the two poles of imperial power—the **Great Temple of [[lore-uqaadty|Uqa'â]]** and the **palace of the Gar-Aû**—the god and the god-king moored together in the middle of the waters. It is the one part of [[place-galezkara|Galezkara]] ringed by a true fortified wall, white-plastered limestone visible for leagues and blinding at noon, and the one part whose gates are watched and whose ground is forbidden to the common crowd. Priests, courtiers, scribes of the inner bureaus, the royal guard, and those summoned before the throne pass its gates; the rest of the half-million city know it only as a white-walled vision across the water, and as the place from which the sun-god and the Gar-Aû together rule their days.
 
+[[lore-firstoccasion|The First Occasion]] tells how the mound rose:
+
+: The Mound
+
+> Then the mound lifted from the waters. It is the mound in the middle of the river at Galezkara, Yath-Telgu, the First Mound, and it is the first ground; the world begins on it. The fire of Uqa'â rose over it, and the first light fell on the first ground.
+
 ### The Great Temple of Uqa'â
 
 The Great Temple of Uqa'â is the oldest and grandest sanctuary in the empire and the seat of its official doctrine—the temple against which every other measures itself. It is less a building than an accreted city of stone: court behind court, pylon behind pylon, each dynasty having raised its own gate, hall, or forest of painted columns before the last, so that to walk inward from the river quay is to walk backward through three thousand years toward the small, dark, ancient sanctuary at the heart, where the god's image dwells and only the Thâz'Lekhau and the Gar-Aû may go. Obelisks tipped with electrum catch the first and last light; a vast rectangular **sacred lake** mirrors the pylons, its level rising and falling with the flood. The temple owns estates across the Capital Selat and beyond, employs thousands, schools the empire's finest priests, and keeps—in the adjoining precinct of [[lore-rethsaardty|Reth'Sa'âr]]—master copies of the king-lists and the calendar.

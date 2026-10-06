@@ -15,59 +15,29 @@ data:
   governance:
     model: council
     summary: >-
-      A chapter of professed brethren under an elected Grand Master, all of them bound by the rule he enforces.
+      Cells of Sworn Brothers under Elders of the Ash, whose Council chooses the Voice of the Ash for life.
     ranks:
       - level: 0
-        title: Expelled
+        title: Apostate
         description: >-
-          Put out of the order, the habit taken back and the vows declared void; no house of it will receive them again.
+          Renounced the vow, which permits no retirement; the order pursues an apostate with greater fervor than any external target.
       - level: 1
-        title: Servant
+        title: Candidate
         description: >-
-          Attached to a house for its labor—its stables, its kitchens, its fields—and not of the order.
+          Sponsored by a Sworn Brother and given a year of preparation at a chapter site—instruction in the Black Flame doctrine and martial training—before the rite of the Ashen Vow.
       - level: 2
-        title: Postulant
-        description: Petitioning for admission and living under the rule on trial, bound by nothing yet.
+        title: Sworn Brother
+        description: >-
+          Branded at the inside of the right forearm and sworn for life to the purifying flame; the working knight of a cell.
       - level: 3
-        title: Novice
-        lore: catechumenrnk
+        title: Elder of the Ash
         description: >-
-          Received for a term of formation, under the rule and under a master of novices, and free to leave until profession.
-      - level: 4
-        title: Professed
-        description: >-
-          Vowed to the order for life, holding no property of their own and owing obedience to its officers.
-      - level: 5
-        title: Officer
-        description: Holding a charge of a house—its arms, its stores, its almsgiving, its chapel.
-      - level: 6
-        title: Commander
-        description: >-
-          Holding a house of the order, its brethren and its lands, and answerable for both to the chapter.
-      - level: 7
-        title: Preceptor
-        description: >-
-          Holding a province of the order—several houses—and sitting in the chapter that elects its head.
-      - level: 8
-        title: Grand Master
-        description: >-
-          Head of the order, elected by the chapter, bound by the rule he enforces and removable under it.
+          A senior brother who commands a cell or coordinates between cells in a region, and is eligible for the Council of the Ashen Vow.
     offices:
-      Grand Master: Head of the order, elected by the chapter and himself bound by the rule.
-      Preceptor: Holder of a province of the order, and an elector in the chapter.
-      Commander: Holder of a single house, its brethren and its lands.
-      Marshal: Master of the order's arms, horses and discipline in the field.
-      Seneschal: >-
-        Second to the Grand Master, holding the order's administration and standing for him in his absence.
-      Draper: >-
-        Keeper of the habit and equipment, whose issue marks a brother's standing as plainly as any rank.
-      Almoner: >-
-        Administrator of the order's charity, which is commonly the reason it was chartered at all.
-      Chaplain: >-
-        Keeper of the order's rites and of its brethren's souls, and not under the Marshal's discipline.
-      Master of Novices: Charged with formation, and with judging who may profess.
-      Treasurer: Keeper of the order's revenue, its endowments and its debts.
-      Standard-Bearer: Carrier of the order's banner, a charge given to a professed brother of proven service.
+      Voice of the Ash: >-
+        The order's chair, chosen by the Council for life and known only to the Elders and a few trusted sponsors; only the Voice releases a brother from the vow, and only for incapacity.
+      Cell Commander: An Elder in command of a cell of four to eight Sworn Brothers.
+      Councillor of the Ashen Vow: An Elder sitting in the Council that chooses the Voice of the Ash.
   seat: null
   domains: []
   population: null
@@ -96,7 +66,7 @@ The Sacred Forge orthodoxy regards the Order of the Ashen Vow as among the most 
 
 A candidate is identified by a sponsoring Sworn Brother, typically among the angry, the disillusioned, or those whose personal histories have included encounters with corruption that the orthodox institutions failed to address. Candidacy is a year of preparation in a chapter site, focused on theological instruction in the Black Flame doctrine, martial training, and a deepening commitment to the order's working ethos. Initiation is by the rite of the Ashen Vow itself—a private ceremony at a chapter site in which the candidate's forearm is branded with the order's mark (a small open flame, in ash, that scars in a recognizable pattern) and the vow is sworn before sitting brothers.
 
-There are three working ranks:
+There are two working ranks, and an office above them:
 
 - **Sworn Brother of the Ashen Vow** (_Frater Cinereus_)—the working knight; assigned to a chapter cell.
 - **Elder of the Ash** (_Senior Cineris_)—senior brother; commands a chapter cell or coordinates between cells in a region; eligible for the Council of the Ashen Vow.
