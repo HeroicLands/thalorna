@@ -919,6 +919,15 @@ which are still waiting for a note, and the inventories that find missing notes
 read the bold spans. So a name that has a note is wikilinked, never bolded, and
 every new proper name an author coins is bolded until it gets a note of its own.
 
+**A person is named in full at the first occurrence in a note.** The full name
+takes the mark the rule above gives it—linked if the person has a note, bolded
+if not. After that first occurrence, a short name may stand in for it: the
+calling name, nickname or other short form the person's culture uses, wherever
+it reads naturally. The full name returns where formality fits—a record, a
+court, a title—and the short name never appears before the full one in a note.
+Each culture forms its short names its own way; the rules for a culture are
+with its other naming rules, in its lexicon or language note.
+
 A naming phrase counts, not only a bare name. A named rite, ordeal, festival,
 relic, hall, ship, road, feud, vow or principle is a name—`Eye of the Void`,
 `Oathkeeper's Challenge`, `Rite of Minnir's Well`, `Walk to Holafell`. So is an

@@ -414,6 +414,46 @@ is a sentence.
 A given name carries no seam and no hiatus whatever the standing. What rises with
 standing is what comes after it.
 
+### The Near Name
+
+**A given name of four syllables or more has a near name**: the given name broken
+off after its second vowel, with that vowel held long. A syllable is a vowel or a
+run of vowels, so `Gezehutyu` has four and `Lersaîs` has two. Nothing is added and
+nothing replaced; the near name is the opening of the given name, and the long
+vowel is the voice holding the place where the rest of it would be. A vowel already
+long stays as it is, so `Imhûgepu` is `Imhû`.
+
+| Near name | Given name       |
+| --------- | ---------------- |
+| `Anlâ`    | `Anlagherhafu`   |
+| `Zâbê`    | `Zâbeglegezu`    |
+| `Amqê`    | `Amqelet-Zelemu` |
+| `Gezê`    | `Gezehutyu`      |
+| `Khelâ`   | `Khelassetepu`   |
+| `Imhû`    | `Imhûgepu`       |
+| `Uqê`     | `Uqetiraku`      |
+| `Rêqê`    | `Rêqesehu`       |
+| `Legî`    | `Legirigulu`     |
+| `Gulmê`   | `Gulmenwati`     |
+
+Names that open alike share a near name: `Amqelitâna`, `Amqelitamun` and
+`Amqelitefu` are each `Amqê` to their own people. A name of three syllables or
+fewer has no near name, because breaking it off at the second vowel leaves almost
+all of it.
+
+**The near name is never written.** Neither hand records vowels, and a reader
+supplies them out of the word he already knows. A name broken off short is no word
+he knows, so its consonants read back as some other name, or as none. A scribe
+enters the given name, the temple account is kept under it, and
+[[lore-readingweigh|the Reading at the Weighing]] reads it out. A contract made out
+to a near name names nobody the archive holds.
+
+**It belongs to the people a tie binds**—kin, the household, neighbors, a master
+and the apprentice who lives under his roof. They are the people whose promises go
+unentered, and the near name goes unentered for the same reason. Between strangers
+it claims a tie that does not exist. A title always takes the given name:
+`Thâz'Lekhau Anlagherhafu`, never the near name after the title.
+
 ### Naming Patterns
 
 **Given Names (Male):**

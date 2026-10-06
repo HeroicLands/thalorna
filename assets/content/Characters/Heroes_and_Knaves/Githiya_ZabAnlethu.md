@@ -486,7 +486,7 @@ Master Lenti of Gar-Zekhemulu
 
 ### Enemies
 
-Young Servant Amqelitefu
+Young Servant [[being-amqelitefu2|Amqelitefu]]
 : A charming but lazy kitchen worker whose sloppiness Githiya has repeatedly corrected, creating mutual contempt. Amqelitefu spreads rumors that Githiya is cruel and joyless.
 
 The Competing Steward Akhoqu

@@ -94,7 +94,7 @@ Visiting scholars are met at the gate of the [[place-rajavalilib|Rājavalī Libr
 
 ## The Fall of the Kingdom
 
-Rājapur was the capital of the **Kingdom of Mahānadi**, a middling Vedyari kingdom of the early classical period. Its ruling dynasty traced its descent from a heroic ancestor of legendary virtue, as Vedyari dynasties generally do. The chronicles give it perhaps four centuries of flourishing, in which it dominated the upper Mahānadi valley, fielded a respectable army, kept extensive temple-patronage, and produced several monarchs the classical chronicles recount as exemplary.
+Rājapur was the capital of the [[lore-mhndkngdm|Kingdom of Mahānadi]], a middling Vedyari kingdom of the early classical period. Its ruling dynasty traced its descent from a heroic ancestor of legendary virtue, as Vedyari dynasties generally do. The chronicles give it some two and a half centuries of flourishing, from the founding of its capital in the generation of [[lore-stndrdmdhv|the standardization at Mādhavendra]], in which it dominated the upper Mahānadi valley, fielded a respectable army, kept extensive temple-patronage, and produced several monarchs the classical chronicles recount as exemplary.
 
 It collapsed from within, in the standard Vedyari narrative of kingly decline. The Memory-Keepers recite the last six monarchs as a procession of progressively worse rulers: a dilettante, a cruel man, an incompetent, a paranoiac, a child-tyrant, and a drunkard who let his own household guards loot the granaries while a famine ran in the villages around him. Tradition holds that the last king was poisoned by his own cook, who could no longer endure the suffering of his neighbors.
 
@@ -107,7 +107,7 @@ The sabhā met for forty days. It declared the kingdom dissolved and the dynasti
 - The royal army was disbanded, and its men were given parcels of land and taken into the cultivating and artisan households of the new janapada.
 - The council-chamber was kept, and the record in it was kept whole.
 
-The classical chronicles put this at −240 AF in the [[affiliation-vylarinmpr#the-common-calendar|Common Calendar]], M 240 in the [[lore-mdhvndrcnt|Mādhavendra count]], some nine hundred and sixty years ago. Rājapur has governed itself by the same arrangement ever since, with adjustments at the margins.
+The classical chronicles put this at M 240 in the [[lore-mdhvndrcnt|Mādhavendra count]], 241 BF in the [[affiliation-vylarinmpr#the-common-calendar|Common Calendar]], some nine hundred and sixty years ago. Rājapur has governed itself by the same arrangement ever since, with adjustments at the margins.
 
 [[lore-fortydays|The Forty Days]] records the sabhā's answer:
 
@@ -177,7 +177,7 @@ The janapada has not been seriously threatened in living memory. The last armed 
 
 - **Karunāmaya Padma-Hasta**: senior priest of the Vyālendra temple and convenor of the sabhā, about sixty, the third woman to hold the office in nine centuries.
 - **Rāmavāhana Smrti-Bhāra**: the Memory-Keeper, in his late fifties, author of the standard modern commentary on the dissolution.
-- [[being-anrjhrdvmbjkr|Anuraja Harsadevambujakar]]: a Rājapuri-born scholar resident in [[affiliation-chandrapur|Chandrapur]], who corresponds with several of the major Vedyari kingdoms on the merits of further dissolutions on the Rājapuri model. He is controversial and well received in some janapadas. The kingdoms call him a dangerous radical and have asked Chandrapur to expel him; Chandrapur has declined.
+- [[being-anrjhrdvmbjkr|Anûraja Harshadēvāmbujakar]]: a Rājapuri-born scholar resident in [[affiliation-chandrapur|Chandrapur]], who corresponds with several of the major Vedyari kingdoms on the merits of further dissolutions on the Rājapuri model. He is controversial and well received in some janapadas. The kingdoms call him a dangerous radical and have asked Chandrapur to expel him; Chandrapur has declined.
 
 ## Commerce and Currency
 
@@ -186,6 +186,7 @@ Rājapur holds one of the five seats in the [[affiliation-assmblycmpct|Assembly 
 ## See Also
 
 - [[place-rajapurjnpd|Rājapur Janapada]]—the land the janapada holds
+- [[lore-mhndkngdm|The Kingdom of Mahānadi]]—the kingdom and its dissolution, dated
 - [[place-rajapur|Rājapur]]—the temple-seat, on the ground of the royal capital
 - [[place-rajavalilib|The Rājavalī Library]]—the Memory-Keeper's archive
 - [[lore-fortydays|The Forty Days]] and [[lore-rcitkngsmhnd|Recitation of the Kings of Mahānadi]]—the dissolution as the chronicle and the recitation keep it

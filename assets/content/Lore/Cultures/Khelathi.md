@@ -54,6 +54,8 @@ The distinction is legal, not decorative. A house name asserts a claim—to land
 
 Names are sacred utterances and a priest bestows them. A second name, known to the bearer and the priesthood alone, is held to confer protection, and striking a name from the records is the heaviest sentence short of death—every temple and every selat keeps the rank of Name Struck for exactly that purpose.
 
+A long given name also has a shorter one, and you should wait to be offered it. The _near name_ is the given name broken off after its second vowel, the voice holding that vowel where the rest would be, so the high priest [[being-anlagherhafu|Anlagherhafu]] is Anlâ to his own household. It belongs to the people a tie already binds—kin, the household, neighbors, the master an apprentice lives beside—who are exactly the people whose promises to one another go unwritten, and it goes unwritten too: neither hand can carry a word that stops short, so no tablet holds a near name and no [[lore-readingweigh|Reading]] speaks one. A stranger who uses it is claiming a tie he does not have. Until you are given it, say the whole name, and after a title always the whole name—Thâz'Lekhau Anlagherhafu, never Thâz'Lekhau Anlâ.
+
 ## Two Ledgers
 
 A Khelâthi keeps two accounts, and only one of them can be written.
@@ -134,7 +136,7 @@ _"He died open"_ means he died leaving undertakings that nobody can now resolve.
 
 Anyone may refuse. A neighbor, a rival, a woman who was slighted twenty years ago may stand at a Reading, be asked, and say no. It costs them nothing, it is entirely lawful, and it condemns the man. That power sits in the hands of every ordinary person in the valley, and it is used. It is the most frightening thing about living among the Khelâthi, and it is the doctrine working as it is meant to.
 
-One kind of promise death completes rather than breaks. A man who undertook never to tell, never to retaliate, never to claim, has kept it to the end, and the entry closes with him unbreached. The Khelâthi find that consoling in a way foreigners do not expect: a poor man with one long-kept silence has discharged the hardest undertaking there is.
+One kind of promise death completes rather than breaks. A man who undertook never to tell, never to retaliate, never to claim, has kept it to the end, and the entry closes with him unbreached. The Khelâthi find that consoling: a poor man with one long-kept silence has discharged the hardest undertaking there is.
 
 Refusing is also not free, which is why it is so common. Being owed is an asset a person carries into the Zulaten, and a release writes it off. So a household will offer payment for one and nobody thinks that shabby, and the people who give a release for nothing are remembered for it by name.
 
@@ -171,7 +173,7 @@ A finding is also the most abused instrument in the valley. It strips a living m
 
 ## What the Estate Answers, and What the Heir Chooses
 
-The property of a dead man closes his open entries before anything passes to anybody. An heir takes the residue and never the gross, and a Khelâthi asked what he was left will name the residue, because the gross is not a real number.
+The property of a dead man closes his open entries before anything passes to anybody. An heir takes the residue and never the gross. Khelâthi heirs name what they were left by the residue alone, because the gross is not a real number.
 
 Where the estate falls short, the heir is asked—in public, at the Reading, with the creditor present—whether he will assume the remainder. If he assumes, the entry closes in the dead man's account and opens in his: his father goes in clean and he is poorer. If he declines, his father goes in short on that entry, and the creditor must take a release to close his own side and eat the loss.
 

@@ -1,6 +1,6 @@
 ---
 shortcode: zetmeryukhe2
-name: {full: Zetmeryu-Khelâ, aliases: []}
+name: {full: Zetmeryu-Khelâ, aliases: [Zetmê]}
 type: being
 subType: npc
 description: "Chief officer of the Gár-Hálzi, who holds the temple account-houses together across the empire"

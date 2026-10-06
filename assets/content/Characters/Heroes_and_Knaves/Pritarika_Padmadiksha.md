@@ -1,6 +1,6 @@
 ---
 shortcode: prtrkpdmdksh
-name: {full: Pritàrika Padmadîksha, given: Pritàrika, clan: Padmadîksha, aliases: []}
+name: {full: Pritàrika Padmadîksha, given: Pritàrika, clan: Padmadîksha, aliases: [Priti]}
 type: being
 subType: character
 tags: [heroes-and-knaves, administration]
@@ -429,7 +429,7 @@ Pritàrika stands 5'6" tall with a medium build. She has rich brown skin, very d
 
 Pritàrika was born into the great house of Padmadîksha, one of the most ancient and respected lineages of the City-States of Vedyara. Her childhood in the sprawling family estates was one of unusual enlightenment for the era—her father, Lord Jayendra, believed that women of noble blood should receive education equal to their male counterparts in law, rhetoric, natural philosophy, and martial studies. Her mother, the learned Lady Amrita, was herself a scholar of considerable renown and passed to Pritàrika a love of knowledge and an unusually compassionate worldview.
 
-The realm's traditional nobility resisted this broad education, but Lord Jayendra was powerful enough to defend his daughter's unusual preparation. When she came of age, these diverse skills made her indispensable in court politics. At twenty-three, she made an advantageous marriage to Lord Devànûra of a neighboring manor, uniting two significant landholdings and merging their political interests. The marriage, though arranged, proved compatible—Devànûra respected her intellect and supported her gradually expanding influence in regional governance.
+The realm's traditional nobility resisted this broad education, but Lord Jayendra was powerful enough to defend his daughter's unusual preparation. When she came of age, these diverse skills made her indispensable in court politics. At twenty-three, she made an advantageous marriage to Lord Devànûra of a neighboring manor, uniting two significant landholdings and merging their political interests. The marriage, though arranged, proved compatible—Devànûra respected her intellect, called her Priti when they were alone, and supported her gradually expanding influence in regional governance.
 
 When Devànûra was killed in a hunting accident at age fifty-five—an incident Pritàrika suspects was not accidental—she inherited full control of both estates. Rather than remarry as tradition dictated, she declared herself steward of her late husband's house while maintaining full governance of her birth family's holdings. This unprecedented move sparked outrage among traditionalists but was ultimately accepted due to the economic prosperity her management brought to both estates.
 

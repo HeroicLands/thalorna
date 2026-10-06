@@ -120,6 +120,7 @@ The Bhārava-Devabhoga uses the [[lore-vdyrnbnkng|Vedyaran banking system]], adm
 
 ## See Also
 
+- [[lore-hghlndfndn|The Highland Foundations]]—the first forest gift, dated
 - [[place-bharavavana|Bhāravavana]]—the forest the estates hold
 - [[place-bharavarivr|The Bhārava]]—the river, the timber road and the pilgrim road
 - [[affiliation-suvrgrjnpd|Suvarnagiri Janapada]]—the gold highlands above, and the hostels' other endowment

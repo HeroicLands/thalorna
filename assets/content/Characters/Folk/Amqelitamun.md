@@ -1,6 +1,6 @@
 ---
 shortcode: amqelitamun2
-name: {full: Amqelitamun, aliases: []}
+name: {full: Amqelitamun, aliases: [Amqê]}
 type: being
 subType: npc
 description: "A Zabet and a distant cousin of the high priestess, placed to advance the family's interests at court"

@@ -1,6 +1,6 @@
 ---
 shortcode: madhurvrdr
-name: {full: Màdhurava Rudrata, given: Màdhurava, clan: Rudrata, aliases: []}
+name: {full: Màdhurava Rudrata, given: Màdhurava, clan: Rudrata, aliases: [Madhu]}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, administration]

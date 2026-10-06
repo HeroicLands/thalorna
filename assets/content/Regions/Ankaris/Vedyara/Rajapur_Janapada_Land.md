@@ -3,7 +3,7 @@ shortcode: rajapurjnpd
 name: {full: Rājapur Janapada, aliases: []}
 type: place
 subType: region
-description: "The land of the Rājapur Janapada—villages on a fertile floodplain forty miles along the upper Mahānadi, around the temple raised on the ruins of the old royal capital."
+description: "The land of the Rājapur Janapada—villages on a fertile floodplain forty miles along the central Mahānadi, around the temple raised on the ruins of the old royal capital."
 tags: [region, endowed]
 data:
   demonym: Rājapuri
@@ -16,7 +16,7 @@ data:
 # terran_analog: "Medieval South Indian temple-republic that emerged from the ruins of a failed kingdom—a Chola-era brahmadeya village federation centered on a temple complex built atop or alongside an abandoned royal capital, governed by an assembly that explicitly preserves the memory of the displaced dynasty"
 ---
 
-The land of [[affiliation-rajaprjnpd|Rājapur Janapada]] runs forty miles along the upper [[place-mahanadi|Mahānadi]], from [[place-khandapura|Khandāpura]] at the head of the irrigation works to [[place-mukteshvara|Mukteshvara]] at the burning-ground, and a boatman working upstream with a load of sugar names it by those two ends. Between them live twenty-five thousand people on a fertile floodplain in the central plain of [[place-vedyarargn|Vedyara]].
+The land of [[affiliation-rajaprjnpd|Rājapur Janapada]] runs forty miles along the central [[place-mahanadi|Mahānadi]], from [[place-khandapura|Khandāpura]] at the head of the irrigation works to [[place-mukteshvara|Mukteshvara]] at the burning-ground, and a boatman working upstream with a load of sugar names it by those two ends. Between them live twenty-five thousand people on a fertile floodplain in the central plain of [[place-vedyarargn|Vedyara]].
 
 What a stranger notices first is how far the houses stand from the river. The Mahānadi moves, and the villages keep a mile back from it, on old levees and raised mounds, with the fields between. [[place-nadipada|Nadīpāda]], the fishing village, is the one that lives on the bank.
 

@@ -4,7 +4,7 @@ name:
   full: Vishvambhārākhila Ratnāngadēvadāsa
   given: Vishvambhārākhila
   clan: Ratnāngadēvadāsa
-  aliases: []
+  aliases: [Vishvu]
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

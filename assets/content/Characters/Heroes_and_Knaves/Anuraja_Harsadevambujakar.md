@@ -1,6 +1,6 @@
 ---
 shortcode: anrjhrdvmbjkr
-name: {full: Anûraja Harshadēvāmbujakar, given: Anûraja, clan: Harshadēvāmbujakar, aliases: []}
+name: {full: Anûraja Harshadēvāmbujakar, given: Anûraja, clan: Harshadēvāmbujakar, aliases: [Anu]}
 type: being
 subType: character
 tags: [heroes-and-knaves, underworld]

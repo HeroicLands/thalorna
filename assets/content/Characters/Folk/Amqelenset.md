@@ -1,6 +1,6 @@
 ---
 shortcode: amqelenset2
-name: {full: Amqelenset, aliases: []}
+name: {full: Amqelenset, aliases: [Amqê]}
 type: being
 subType: npc
 description: "A powerful nobleman and architect, whose commissions shape the capital and whose favour is not lightly given"

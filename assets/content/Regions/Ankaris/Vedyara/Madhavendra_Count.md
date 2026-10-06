@@ -46,7 +46,7 @@ The **Mādhavendra count** is [[place-vedyarargn|Vedyara]]'s own year-count, kep
 
 ## The Epoch
 
-The count begins with the standardization of Classical Vedyari, "roughly 1,200 years before the present," under the philosopher-kings of Mādhavendra, whose capital gave the era its name. That reign produced the great philosophical commentaries, legal codes and epic narratives that are still the prestige texts of the civilization. Vedyaran reckoning takes its zero from that reign, and from no Vylarian, Khelâthi or Tānvüri event. M 1 falls in 480 BF. A date given in M converts to the [[lore-commoncal|Common Calendar]] by the rule AF year = M year − 480. A result at or below zero is read as a BF date instead, counting back from AF 1.
+The count begins with [[lore-stndrdmdhv|the standardization of Classical Vedyari]], "roughly 1,200 years before the present," under the philosopher-kings of Mādhavendra, whose capital gave the era its name. That reign produced the great philosophical commentaries, legal codes and epic narratives that are still the prestige texts of the civilization. Vedyaran reckoning takes its zero from that reign, and from no Vylarian, Khelâthi or Tānvüri event. M 1 falls in 480 BF. A date given in M converts to the [[lore-commoncal|Common Calendar]] by the rule AF year = M year − 480. A result at or below zero is read as a BF date instead, counting back from AF 1.
 
 ## The Year and Its Months
 

@@ -179,6 +179,17 @@ Titles are appended to names, not fused:
 - _Ha'nalmah_—"Landholder" (chief of a district)
 - _Tz'aqalil_—"One Who Belongs" (full citizen)
 
+### House Names
+
+A name of three or more elements is too long for the household, and the K'ich'chik shorten it by taking its _first element whole_. The first element is the first name-word of the compound, spoken exactly as it stands in the full name, glottal stops included: it is never clipped to a syllable, never given an ending, and never replaced by a pet name, because each element is already a word with its own meaning. That short form is the _house name_.
+
+- _Ch'akul Witz Ba'alam Tzul_ is _Ch'akul_ at home.
+- _Ix'balam Tz'aqalil K'inix_ is _Ix'balam_. A connector such as _Tz'aqalil_ is never the house name, even where it stands second.
+- _Xak'nal Mah'alil Xilan_ is _Xak'nal_. _Mah'alil_ is a rank word, and no title or rank word is ever the house name.
+- _Ha' Ixkul_ and _Tzul Ki'ik_ have no house name. A two-element name is short already and is spoken whole by everyone.
+
+The house name follows rank. Kin, the household and people of equal standing use it, and so does anyone of higher standing speaking to someone below. Someone of lower standing never does: a farmer addresses a lord by the full name, a priest of lesser grade addresses a hierarch by the full name, and a title is always appended to the full name and never to the house name. The full name is also the only name in the record. The Tz'ib'al census cords and the Ch'alix Ts'ib glyphs carry the full compound, and a house name is never knotted or written.
+
 ## Name Lists
 
 ### Male Names
@@ -195,8 +206,7 @@ Ch'akul Witz Ba'alam Xaman K'uxi Ki'ik Ha' Tz'alam Ix Tz'ikin Noj Witzal Tz'ikin
 
 The sections below are the full reference—the phonetic and naming rules, the
 complete inflectional paradigms summarized under Grammar Notes above, and the
-working vocabulary. They were a separate note until they were folded in here,
-since a language and the skill of speaking it are one subject.
+working vocabulary.
 
 ## Phonetic Rules
 
@@ -225,8 +235,8 @@ since a language and the skill of speaking it are one subject.
     - **Male Names**: Predatory animals, quick motion, violence, great things (e.g., mountains, storms).
     - **Female Names**: Prey animals, flowers, stillness, peace, gentle natural features.
 
-3.  **Common Names**:
-    - Formal names are long phrases but are shortened to 1-2 syllables for informal use, often derived from the first or dominant syllable of the formal name.
+3.  **House Names**:
+    - A formal name of three or more elements is shortened for informal use to its first element, whole, as set out under House Names above; a two-element name is not shortened.
 
 4.  **Titles**:
     - Titles are appended to names to denote rank or role, e.g., _K’uk’almah_ (Overlord), _Ha’nalmah_ (Landholder).
