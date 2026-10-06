@@ -5,6 +5,8 @@ type: lore
 subType: culture
 description: "The Hvarn—their beliefs, their mores, and what they hold a person owes."
 tags: []
+
+# terran_analog: "The Himalaya, Karakoram, Pamir and Tian Shan wall (the Grazian Mountains analogue): drover peoples who guide caravans over the cols. Carries over: pack-beast herding, high summer pastures, a winter spent indoors together. Departs: crossings are assigned by yearly rotation among hearth-heads, the whole people shares one turf long-house, and no authority stands above the hearth."
 ---
 
 The [[affiliation-hvarnguides|Hvarn]] are drovers who hold the two crossings of [[place-estrnreach|the Eastern Reach]] and spend half the year scattered and half of it in one building. There are nine thousand of them. They are the poorer of the two guide-peoples by a wide margin, and they are the only people on the wall who deal with lowland institutions as a matter of routine.

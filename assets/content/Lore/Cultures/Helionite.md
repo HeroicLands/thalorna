@@ -5,6 +5,8 @@ type: lore
 subType: culture
 description: "The Helionites—their beliefs, their mores, and what they hold a person owes."
 tags: []
+
+# terran_analog: "Greece, Bulgaria, North Macedonia and Albania (the Aegean and southern Balkan sphere of philosopher city-states and merchant confederations). Carries over: rival cities that unite for shared festivals and defense, agora debate, public athletics and theater, educated female companions (hetairai). Departs: three cities only, one a democratic naval power, with an academy at Kalydria that trains the companions as political agents across the region."
 ---
 
 Heliónis is three cities that agree about the gods, cooperate on defense, and compete about absolutely everything else. A Helionite's loyalty is to his city first and to the idea of Heliónis a distant second, and the idea is mostly invoked when someone from outside needs reminding that all three are civilized and he is not. What a Helionite is measured by is excellence, demonstrated in public, in front of people competent to judge it. That is the whole of the culture and everything else is detail.

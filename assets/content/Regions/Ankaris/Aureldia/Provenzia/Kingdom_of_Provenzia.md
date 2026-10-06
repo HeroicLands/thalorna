@@ -113,7 +113,7 @@ data:
   packFolder: provenzia
 sohl: {system: {commonSkills: [provnzlng]}}
 
-# terran_analog: "Southwestern France, Atlantic Spain, and all of Portugal—the kingdom of vineyards, river-mouth ports, and the great Provenzan illuminated-manuscript and glassworking traditions that flow along the Atlantic seaboard from north to south."
+# terran_analog: "Southwestern France, Atlantic Spain, and all of Portugal—the kingdom of vineyards and river-mouth ports along the Atlantic seaboard."
 ---
 
 ## Overview

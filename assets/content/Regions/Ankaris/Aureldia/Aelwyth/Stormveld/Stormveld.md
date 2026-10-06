@@ -13,7 +13,7 @@ data:
   packFolder: aelwyth
   government: jrldmstrmvld
 
-# terran_analog: "Northeastern Scotland—the fjord-cut Highland coast (Caithness, Sutherland, Orkney-and-Shetland-analog islands), heavily Norse-settled and culturally tied to its kindred kingdom across the cold sea. The northeastern tip of the eastern arm of the inverted-V Aelwythan island."
+# terran_analog: "Northeastern Scotland—the fjord-cut Highland coast (Caithness, Sutherland, Orkney-and-Shetland-analog islands). The northeastern tip of the eastern arm of the inverted-V Aelwythan island."
 ---
 
 ## Overview

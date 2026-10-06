@@ -5,6 +5,8 @@ type: lore
 subType: culture
 description: "The Okhárins—their beliefs, their mores, and what they hold a person owes."
 tags: []
+
+# terran_analog: "A rain-fed North Africa in the west and the Sahel in the east (pastoral savanna with temple-city trading centers). Carries over: nomadic grazing clans and fixed temple-cities that depend on each other, metal-craft and entrepôt trade, arranged marriage as an alliance of grazing rights. Departs: a three-flame faith served from three temple-cities, with a pyramid and pilgrimage tradition."
 ---
 
 The Okhárins did not build their civilization out of canals, and they are quietly proud of it. Their neighbors upriver dug channels and made a world out of a flood; in western Okháris the rain does that work unasked, and in the drier east the people put their wealth into herds instead. The village tribes of the wet west farm, fish, tend orchards and work timber from fixed seats. Eastward, toward the savanna of the Bethua border, most of the people are semi-nomadic pastoralists moving cattle, sheep, goats and small sturdy horses between seasonal grazings, on cycles so old they carry the weight of religious obligation.

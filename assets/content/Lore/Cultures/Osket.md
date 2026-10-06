@@ -5,6 +5,8 @@ type: lore
 subType: culture
 description: "The Ösket—their beliefs, their mores, and what they hold a person owes."
 tags: []
+
+# terran_analog: "The Himalaya, Karakoram, Pamir and Tian Shan wall (the Grazian Mountains analogue): hereditary holders of mountain crossings. Carries over: yak and horse herding, tolls on caravans at the cols, the hearth as the only unit of authority. Departs: a crossing is held by descent and standing comes from the road, selling a road is the one capital offense, and a personal name is one word taken from weather, ground, beast or condition."
 ---
 
 The [[affiliation-osketguides|Ösket]] hold the western and central crossings of [[place-graznmntns|the Grazian wall]] by descent, and the rest of what they are follows from that. A hearth is a house, a herd, a high pasture and one road. The road is what gives it standing. Nothing above the hearth binds it, and no body exists that could.

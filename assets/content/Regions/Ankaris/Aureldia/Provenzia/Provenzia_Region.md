@@ -12,7 +12,7 @@ data:
   packFolder: provenzia
   government: kngdmprvnz
 
-# terran_analog: "Southwestern France, the Atlantic coast of Spain, and all of Portugal—the southwestern Aurèldían sphere of vineyards, river-mouth ports, illuminated-manuscript scriptoria, and the great glass-and-art cultural tradition that runs along the Atlantic seaboard."
+# terran_analog: "Southwestern France, the Atlantic coast of Spain, and all of Portugal—the southwestern Aurèldían sphere of vineyards and river-mouth ports along the Atlantic seaboard."
 ---
 
 ## Overview

@@ -5,6 +5,8 @@ type: lore
 subType: culture
 description: "The Haradians—their beliefs, their mores, and what they hold a person owes."
 tags: []
+
+# terran_analog: "Israel and Lebanon with their island coasts (a Phoenician-and-Levantine maritime confederation: trader city-states, naval power, merchant oligarchs), with archaic-speaking inland tribes. Carries over: trading houses as family firms, independent ship captains, banking and shipping combined. Departs: the confederation won independence from the Vylarian Empire by force of arms, women captain ships and hold partnerships, and the Auric Compact banking cartel holds its treasury."
 ---
 
 Haradian culture is mercantile to the bone and does not pretend otherwise. Wealth, reputation, and the ability to strike a profitable bargain are the virtues, named in that order, and a man good at all three is the nearest thing this coast has to an aristocrat.
