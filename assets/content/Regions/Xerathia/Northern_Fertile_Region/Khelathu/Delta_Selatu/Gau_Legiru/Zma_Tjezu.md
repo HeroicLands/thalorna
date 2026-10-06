@@ -20,4 +20,4 @@ Zma-Tjezu is one of the orchard villages of the [[place-gaulegirunome|Gau-Legiru
 
 ## See Also
 
-TBD.
+- [[place-gaulegirunome|Gau-Legiru]]—The selat country that holds it

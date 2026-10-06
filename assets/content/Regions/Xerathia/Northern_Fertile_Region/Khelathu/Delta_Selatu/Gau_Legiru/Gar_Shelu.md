@@ -20,4 +20,4 @@ Gar-Shelu is one of the orchard communities of the [[place-gaulegirunome|Gau-Leg
 
 ## See Also
 
-TBD.
+- [[place-gaulegirunome|Gau-Legiru]]—The selat country that holds it

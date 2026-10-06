@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      A cooperative of the farming households of the northern selats, pooling harvests into shipments large enough to bargain with buyers directly.
     ranks:
       - level: 1
-        title: "Member"
+        title: Member Household
         description: >-
-          Belongs to a farming household participating in the cooperative's pooled grain shipments and direct bargaining with buyers.
+          A farming household whose harvest goes into the cooperative's pooled shipments.
     offices: {}
   seat: null
   domains: []
@@ -35,16 +36,20 @@ Lin'Zegaru elu Miglet is a cooperative of farming households across the northern
 
 ## Character
 
-TBD.
+At the delta landings the factor's boat ties up and waits, and the grain stays on the bank. The Farmers' Cooperative of the Lower Delta is a body of the farming households of the northern selats, formed to bring grain to market on its own terms and not on a factor's. Each **Member Household** puts its harvest into a pooled shipment large enough to bargain with the buyers directly.
+
+The cooperative is collective and independent. Nobody speaks for it except the households together, and they have cut the factor out of the sale entirely. Small holdings that would have sold singly, at whatever the factor named, now stand behind a shipment whose size is its leverage. The households that remain outside sell at the factor's price, which is reason enough that most of the delta's smaller farms have come in.
+
+If you farm a small holding in the northern selats, the choice is simple. Pool your grain, or take the price you are offered.
 
 ## Relations
 
-TBD.
+The factors are the cooperative's rivals, cut out of the sale of its grain. The buyers are its counterparts, who bargain directly with the cooperative over its pooled shipments. A buyer sits across from a delegation of farmers where a factor would otherwise stand between them.
 
 ## Commerce and Currency
 
-TBD.
+Say forty households bring their harvest to the delta landing after the season of the harvest. The grain is weighed and entered under each household's name, and the whole is loaded as one shipment. A buyer from the capital bargains for the lot with the households' spokesman, and the price is set once, for everyone. The cooperative pools harvests into shipments large enough to bargain with buyers directly, and a household that stays outside sells at the factor's price.
 
 ## See Also
 
-TBD.
+- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms

@@ -11,13 +11,18 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: autocracy
+    summary: >-
+      A noble house whose women carry influence in their own right, and whose patronage reaches into the healing trades. Its master answers for the house and grants or withdraws that patronage.
     ranks:
       - level: 1
-        title: "Member"
+        title: Of the House
         description: >-
-          Belongs to the noble house whose women hold influence in their own right and whose patronage supports the healing trades.
+          Bears the Theqeru name, and the influence it carries in a woman's own right.
+      - level: 2
+        title: Master of the House
+        description: >-
+          Answers at law for the house and holds its patronage of physicians and remedies.
     offices: {}
   seat: null
   domains: []
@@ -35,16 +40,18 @@ Gar-Theqeru is a noble house of [[place-aukhelathrgq|Aû'Khelâthu]] whose women
 
 ## Character
 
-TBD.
+"Ask who is paying for the remedy before you ask what it is," a physician tells her new assistant, and the answer is often House Theqeru. The women of the house carry influence in their own right, which is old news to anyone who knows the Khelâthi, whose law allows a woman to own property, plead, and practice medicine. The house is generous toward the healing trades, and its master grants or withdraws that patronage.
 
 ## Relations
 
-TBD.
+The house patronizes physicians and the makers of remedies in [[place-aukhelathrgq|Aû'Khelâthu]], work a less generous house would leave to the temples alone. A healer under its patronage has more than funds: the standing comes with the name on the door. The house's women are the visible face of that standing, since their influence is their own and not a husband's.
 
 ## Commerce and Currency
 
-TBD.
+The house funds physicians and the preparation of remedies. A healer's standing under the house lasts as long as the master's patronage does, which is a fact every physician in the house's circle keeps in the back of her mind when a case goes badly.
+
+If you are a healer looking for backing, bring a record of cases the house can read. The house funds work it can see.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to
