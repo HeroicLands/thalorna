@@ -11,14 +11,17 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      A faction within an established guild, acting through its parent's meetings and votes to change what the old guard holds settled, and led publicly by one of its senior members.
     ranks:
       - level: 1
-        title: "Member"
+        title: Of the Lethunu
         description: >-
-          Participates in the faction pressing for changes within its parent guild's meetings and votes.
-    offices: {}
+          Presses within the guild for change to its apprenticeship, its recruitment or its accounts.
+    offices:
+      Public Leader: >-
+        Speaks for the faction in the guild, first among its members.
   seat: null
   domains: []
   population: 0

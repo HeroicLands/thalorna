@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      A consortium of wealthy traders across the empire who deal in goods that must arrive alive, hiring beast-trainers and assessing stock on the imperial routes.
     ranks:
       - level: 1
-        title: "Member"
+        title: Consortium Trader
         description: >-
-          Trades within the consortium dealing in living cargo and advising on its safe transport.
+          Deals in livestock and living cargo under the consortium's counsel on their carriage.
     offices: {}
   seat: null
   domains: []

@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: democracy
+    summary: >-
+      A loose company of traveling performers and itinerants with no fixed seat, whose membership is a courtesy rather than an obligation and whose gatherings are attended when they suit.
     ranks:
       - level: 1
-        title: "Member"
+        title: Wanderer
         description: >-
-          Belongs to the loose fellowship of traveling performers and itinerants, extending its courtesy to others on the road.
+          A traveling performer or itinerant who extends the fellowship's courtesy on the road.
     offices: {}
   seat: null
   domains: []

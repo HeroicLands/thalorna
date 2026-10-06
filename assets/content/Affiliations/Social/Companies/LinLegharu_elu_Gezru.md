@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      A loose association of merchants who take rare plants out of the red land around Gezru for quick profit, and treat conservation as a threat to the trade.
     ranks:
       - level: 1
-        title: "Member"
+        title: Partner
         description: >-
-          Trades in the consortium harvesting rare plants from the red land for quick sale.
+          Harvests and sells what moves fastest, sharing in the consortium's trade.
     offices: {}
   seat: null
   domains: []

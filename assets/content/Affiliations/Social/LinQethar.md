@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      A loose alliance of older masters and guild conservatives who hold that a craft's sanctity lies in its established methods, and organize within their guilds against change.
     ranks:
       - level: 1
-        title: "Member"
+        title: Traditionalist
         description: >-
-          Participates as a craft master or guild conservative in the consortium resisting departures from established methods.
+          A master or guild conservative who organizes against departures from established methods.
     offices: {}
   seat: null
   domains: []

@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      An informal circle of the capital's wealthy who pool their money for the arts and crafts, and expect to be consulted on what it produces.
     ranks:
       - level: 1
-        title: "Member"
+        title: Patron
         description: >-
-          Participates as a patron in the fellowship pooling wealth to fund the capital's arts and crafts.
+          Pools wealth with the circle toward commissions larger than one patron would back.
     offices: {}
   seat: null
   domains: []

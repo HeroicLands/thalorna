@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      The traders of the waterfront at Wal-Igelu, who handle what comes off the river barges first and set much of what it costs by the time it reaches the markets.
     ranks:
       - level: 1
-        title: "Member"
+        title: Dock Trader
         description: >-
-          Trades within the waterfront consortium handling goods unloaded from the river barges at Wal-Igelu.
+          Handles the goods landed from the barges at Wal-Igelu.
     offices: {}
   seat: null
   domains: []

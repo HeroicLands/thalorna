@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      A discreet society of courtesans, companions and women of influence who trade in what people would rather not have known, keep standards for their profession and keep their own names out of the ledgers they compile.
     ranks:
       - level: 1
-        title: "Member"
+        title: Of the Veil
         description: >-
-          Participates in the discreet society collecting sensitive information for its members while concealing their names.
+          Gathers and trades what the circle's ledgers hold, and is named in none of them.
     offices: {}
   seat: null
   domains: []
