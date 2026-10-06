@@ -12,7 +12,7 @@ _Haugverdir_, the howe-wardens, is a northern word for [[lore-undead|undead]] pu
 
 ## Náhild's Raised Dead
 
-The [[affiliation-nahild|Faith of Náhild]] calls its mindless reanimated corpses haugverdir: [[being-damut|damutu]] raised by Náhild's dark magic, chiefly from the bodies of the weak, of cowards and of the dishonored. They serve as servants and soldiers in her legions, under the command of her favored [[lore-nagengir|nágengir]]. Náhild draws the power that raises them from [[lore-ginnauga|Ginnauga]], the Eye of the Void, a powerful source of the Shadow.
+The [[affiliation-nahild|Faith of Náhild]] calls its mindless reanimated corpses haugverdir: [[being-damut|damutu]] raised by [[lore-nahilddty|Náhild]]'s dark magic, chiefly from the bodies of the weak, of cowards and of the dishonored. They serve as servants and soldiers in her legions, under the command of her favored [[lore-nagengir|nágengir]]. Náhild draws the power that raises them from [[lore-ginnauga|Ginnauga]], the Eye of the Void, a powerful source of the Shadow.
 
 ## The Dead in Their Mounds
 

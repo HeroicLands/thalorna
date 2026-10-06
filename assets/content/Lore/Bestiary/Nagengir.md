@@ -8,9 +8,9 @@ tags: []
 data: {banner: creaturebnr}
 ---
 
-_Nágengir_ is the [[affiliation-nahild|Faith of Náhild]]'s name for its favored [[being-tereb|terebu]]: powerful, self-directed dead bound back into their bodies by necrotic force. The faith raises them through Náhild's dark magic and prizes them as warriors and sorcerers. They guard her temples and lead her undead armies, the mindless [[lore-haugverdir|haugverdir]] among them. Like every undead, they carry [[lore-theshadow|the Shadow]], and Náhild draws on it through [[lore-ginnauga|Ginnauga]], the Eye of the Void.
+_Nágengir_ is the [[affiliation-nahild|Faith of Náhild]]'s name for its favored [[being-tereb|terebu]]: powerful, self-directed dead bound back into their bodies by necrotic force. The faith raises them through [[lore-nahilddty|Náhild]]'s dark magic and prizes them as warriors and sorcerers. They guard her temples and lead her undead armies, the mindless [[lore-haugverdir|haugverdir]] among them. Like every undead, they carry [[lore-theshadow|the Shadow]], and Náhild draws on it through [[lore-ginnauga|Ginnauga]], the Eye of the Void.
 
-This name marks a particular kind of [[lore-undead|undead]], not every dead presence feared in the Nordlands. A spirit that remains near a place is not thereby a nágengir. The broader bestiary explains the difference between an immaterial haunting and a body made to walk after death.
+This name marks a particular kind of [[lore-undead|undead]], not every dead presence feared in the [[place-nrdlndsrgn|Nordlands]]. A spirit that remains near a place is not thereby a nágengir. The broader bestiary explains the difference between an immaterial haunting and a body made to walk after death.
 
 ## See Also
 

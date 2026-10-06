@@ -12,7 +12,7 @@ Skjálfgeir is the legendary spear of [[lore-odvardty|Ódvar]]. The [[affiliatio
 
 ## The Mark and the Knowing
 
-A rune-hall recitation praises Skjálfgeir as the All-Father's sign of precision and authority, then carries that praise into the shadow of Aldarlok. The power attributed to Skjálfgeir's Echo remains a belief of the faithful.
+A rune-hall recitation praises Skjálfgeir as the All-Father's sign of precision and authority, then carries that praise into the shadow of [[lore-aldarlok|Aldarlok]]. The power attributed to Skjálfgeir's Echo remains a belief of the faithful.
 
 : The Mark and the Knowing
 
