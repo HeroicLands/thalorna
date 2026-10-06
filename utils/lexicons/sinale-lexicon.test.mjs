@@ -6,16 +6,29 @@
 import assert from "node:assert/strict";
 import fs from "node:fs";
 import test from "node:test";
-import { KHAZARI, NOTE, analyse, cognates, computedFront, ruleFrom } from "./sinale-lexicon.mjs";
+import {
+    KHAZARI,
+    LEXICON,
+    NOTE,
+    analyse,
+    attestedNames,
+    builtForm,
+    cognates,
+    computedFront,
+    ruleFrom,
+} from "./sinale-lexicon.mjs";
 
 const note = fs.readFileSync(NOTE, "utf8");
 const khazari = fs.existsSync(KHAZARI) ? fs.readFileSync(KHAZARI, "utf8") : null;
-const errorsOf = (text, other = khazari) =>
-    analyse(text, other).findings.filter((line) => line.includes(": error: "));
+const lexicon = fs.existsSync(LEXICON) ? fs.readFileSync(LEXICON, "utf8") : null;
+const tree = attestedNames();
+const errorsOf = (text, other = khazari, lex = lexicon, names = tree) =>
+    analyse(text, other, lex, names).findings.filter((line) => line.includes(": error: "));
+const lexErrorsOf = (lex) => errorsOf(note, khazari, lex);
 
-/** The note with one literal replaced, failing loudly when the literal is absent. */
+/** The text with one literal replaced, failing loudly when the literal is absent. */
 function edited(from, to, text = note) {
-    assert(text.includes(from), `the note no longer holds "${from}"`);
+    assert(text.includes(from), `the text no longer holds "${from}"`);
     return text.replace(from, to);
 }
 
@@ -29,12 +42,14 @@ test("the Sinalë page obeys its own rules", () => {
     assert.deepEqual(errorsOf(note), []);
 });
 
-test("every rule table the guard reads is present", () => {
-    assert.deepEqual(ruleFrom(note).problems, []);
+test("every rule table and lexicon section the guard reads is present", () => {
+    const { problems, lexiconProblems } = ruleFrom(note, lexicon);
+    assert.deepEqual(problems, []);
+    assert.deepEqual(lexiconProblems, []);
 });
 
 test("a front form the vowel table does not give is an error", () => {
-    const { rule } = ruleFrom(note);
+    const { rule } = ruleFrom(note, lexicon);
     assert.equal(computedFront("-tos", rule), "-tës");
     assert.equal(computedFront("li-", rule), "li-");
     assert.equal(computedFront("ha-", rule), "hë-");
@@ -44,7 +59,7 @@ test("a front form the vowel table does not give is an error", () => {
 
 test("a given name ending on the stem's own last consonant is an error", () => {
     const name = firstListed("### Male Given Names");
-    const { rule } = ruleFrom(note);
+    const { rule } = ruleFrom(note, lexicon);
     const vStem = [...rule.lexicon.values()].find(
         (row) => row.class.startsWith("n") && /v[aeiouyë]+$/.test(row.form),
     );
@@ -57,7 +72,7 @@ test("a given name ending on the stem's own last consonant is an error", () => {
 });
 
 test("a lineage name on an unworn stem is an error", () => {
-    const { rule } = ruleFrom(note);
+    const { rule } = ruleFrom(note, lexicon);
     const stem = [...rule.lexicon.values()].find(
         (row) => /^[ptk]/.test(row.form) && row.class === "n",
     );
@@ -102,12 +117,70 @@ test("only what the older table lists is exempt", () => {
     assert(errorsOf(noLayer).some((line) => line.includes('the layer "Lost"')));
 });
 
-test("a stem standing twice is an error", () => {
-    const { rule } = ruleFrom(note);
+test("a word standing twice is an error", () => {
+    const { rule } = ruleFrom(note, lexicon);
     const row = rule.lexiconRows[0];
-    const line = note.split("\n").find((text) => text.startsWith(`| \`${row.written}\``));
-    const broken = edited(line, `${line}\n${line}`);
-    assert(errorsOf(broken).some((text) => text.includes("stands twice")));
+    const line = lexicon.split("\n").find((text) => text.startsWith(`| \`${row.written}\``));
+    const broken = edited(line, `${line}\n${line}`, lexicon);
+    assert(lexErrorsOf(broken).some((text) => text.includes("stands twice")));
+});
+
+test("a built form its parts do not give is an error", () => {
+    const { rule } = ruleFrom(note, lexicon);
+    const row = rule.lexiconRows.find((one) => one.built.includes("+"));
+    assert(row, "the lexicon holds a built word");
+    const built = builtForm(row.built, rule);
+    assert.equal(built.form, row.form);
+    const line = lexicon.split("\n").find((text) => text.startsWith(`| \`${row.written}\``));
+    const broken = edited(line, line.replace(`\`${row.written}\``, `\`${row.written}a\``), lexicon);
+    assert(lexErrorsOf(broken).some((text) => text.includes("is not what its parts give")));
+    const unknown = edited(line, line.replace(row.built, "`nonesuch` + `-sa`"), lexicon);
+    assert(lexErrorsOf(unknown).some((text) => text.includes("is not a row of the lexicon")));
+});
+
+test("a root word that breaks harmony, a field or a class the lexicon does not declare are errors", () => {
+    const { rule } = ruleFrom(note, lexicon);
+    const row = rule.lexiconRows.find((one) => one.built === "—" && /^[ptkvshmnlr]/.test(one.form));
+    const line = lexicon.split("\n").find((text) => text.startsWith(`| \`${row.written}\``));
+    const mixed = edited(line, line.replace(`\`${row.written}\``, "`kaly`"), lexicon);
+    assert(lexErrorsOf(mixed).some((text) => text.includes("holds a back and a front vowel")));
+    const heading = `\n### ${rule.fields[0]}\n`;
+    const field = edited(heading, "\n### Nowhere in particular\n", lexicon);
+    assert(lexErrorsOf(field).some((text) => text.includes("is not in the field list")));
+    const cls = edited(line, line.replace(` ${row.class} `, " noun "), lexicon);
+    assert(lexErrorsOf(cls).some((text) => text.includes('the class "noun"')));
+});
+
+test("an attested name the register does not hold is an error", () => {
+    const one = tree.names[0];
+    assert(one, "the tree attests at least one name");
+    const { rule } = ruleFrom(note, lexicon);
+    const row = rule.register.find(
+        (entry) => entry.name === one.name && entry.address === one.address,
+    );
+    assert(row, `the register holds "${one.name}"`);
+    const line = lexicon.split("\n").find((text) => text.startsWith(`| **${one.name}**`));
+    const broken = edited(`${line}\n`, "", lexicon);
+    assert(lexErrorsOf(broken).some((text) => text.includes("does not register it")));
+});
+
+test("a register row in an undeclared tongue, on a missing note or misbuilt is an error", () => {
+    const { rule } = ruleFrom(note, lexicon);
+    const stem = [...rule.lexicon.values()].find(
+        (row) => row.class === "n" && /[aou]/.test(row.form) && !/m[aou]+$/.test(row.form),
+    );
+    const name = `${stem.written[0].toUpperCase()}${stem.written.slice(1)}mo`;
+    const address = rule.register[0].address;
+    const line = `| **${name}** | [[${address}\\|x]] | \`sinale\` | \`${stem.written}\` + \`-mo\` |`;
+    const last = lexicon.trimEnd().split("\n").at(-1);
+    const withRow = edited(last, `${last}\n${line}`, lexicon);
+    assert.deepEqual(lexErrorsOf(withRow), []);
+    const tongue = edited(line, line.replace("`sinale`", "`nonesuch`"), withRow);
+    assert(lexErrorsOf(tongue).some((text) => text.includes('the tongue "nonesuch"')));
+    const missing = edited(line, line.replace(`[[${address}`, "[[lore-nonesuch"), withRow);
+    assert(lexErrorsOf(missing).some((text) => text.includes("which no note has")));
+    const wrong = edited(line, line.replace(`**${name}**`, `**${name}a**`), withRow);
+    assert(lexErrorsOf(wrong).some((text) => text.includes("is not what its parts give")));
 });
 
 test("the cognate table must agree with the Khazári copy and with the case table", () => {
@@ -125,7 +198,7 @@ test("the cognate table must agree with the Khazári copy and with the case tabl
     assert.deepEqual(errorsOf(note, agreeing), []);
     const disagreeing = agreeing.replace("`-um`", "`-om`");
     assert(errorsOf(note, disagreeing).some((line) => line.includes("differs from the copy")));
-    const absent = analyse(note, "# Khazári\n").findings;
+    const absent = analyse(note, "# Khazári\n", lexicon, tree).findings;
     assert(absent.some((line) => line.includes(": warning: ")));
     assert(!absent.some((line) => line.includes(": error: ")));
     const caseDrift = edited("| `-ho`/`-hë`   |", "| `-hu`/`-hy`   |");
