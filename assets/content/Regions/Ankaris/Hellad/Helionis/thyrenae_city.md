@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [helionis], population: 60000, governme
 
 ## Overview
 
-_To be written._ Thyrenae is the capital and principal settlement of [[affiliation-thyrenae|Thyrenae]].
+Thyrenae is the capital and principal settlement of [[affiliation-thyrenae|Thyrenae]].
 
 ## Character
 

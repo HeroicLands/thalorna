@@ -10,4 +10,4 @@ data: {demonym: null, lore: [], parents: [helionis], population: 45000, governme
 
 ## Overview
 
-_To be written._ Kalydria is the capital and principal settlement of [[affiliation-kalydria|Kalydria]].
+Kalydria is the capital and principal settlement of [[affiliation-kalydria|Kalydria]].

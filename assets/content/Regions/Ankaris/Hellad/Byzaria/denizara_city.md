@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [byzariargn], population: 70000, govern
 
 ## Overview
 
-_To be written._ Denizara is the capital and principal settlement of [[affiliation-denizara|Denizara]].
+Denizara is the capital and principal settlement of [[affiliation-denizara|Denizara]].
 
 It sits at the point where maritime and overland trade routes converge, making it the gateway through which goods flow between the sea-trading powers of the west and the caravan routes of the east. Its harbor is one of the busiest in the eastern Vylarian Sea.
 

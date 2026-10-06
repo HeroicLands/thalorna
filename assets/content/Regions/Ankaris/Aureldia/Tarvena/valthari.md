@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [tarvenirgn], population: 45000, govern
 
 ## Overview
 
-_To be written._ Valthari is the capital and principal settlement of [[affiliation-frctyvlthr|Free City of Valthári]].
+Valthari is the capital and principal settlement of [[affiliation-frctyvlthr|Free City of Valthári]].
 
 ## Character
 

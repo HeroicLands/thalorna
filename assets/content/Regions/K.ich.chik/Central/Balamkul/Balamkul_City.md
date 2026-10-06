@@ -10,4 +10,4 @@ data: {demonym: null, lore: [], parents: [balamkulrgn], population: 150000, gove
 
 ## Overview
 
-_To be written._ Balamkul is the central city and seat of the [[affiliation-balamkul|Balamkul]] city-state.
+Balamkul is the central city and seat of the [[affiliation-balamkul|Balamkul]] city-state.

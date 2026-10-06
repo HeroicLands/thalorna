@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [byzariargn], population: 40000, govern
 
 ## Overview
 
-_To be written._ Yeşilhan is the capital and principal settlement of [[affiliation-yesilhan|Yeşilhan]].
+Yeşilhan is the capital and principal settlement of [[affiliation-yesilhan|Yeşilhan]].
 
 Yeşilhan—the Green Caravanserai—is an inland city positioned at the junction of the great caravan routes leading east toward the [[place-khzryndsrtrgn|Khazryn Desert Region]] and south toward [[place-dunharargn|Dunhara Region]]. It is here that eastern goods—spices, silk, incense, gemstones—first pass into [[affiliation-byzarianlg|League]] hands before being distributed to the other city-states and onward to [[place-midhalnrgn|Mídhalión Region]].
 

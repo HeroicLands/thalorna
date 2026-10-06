@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [haradregin], population: 180000, gover
 
 ## Overview
 
-_To be written._ Kethara is the capital and principal settlement of [[affiliation-kethara|Kethara]].
+Kethara is the capital and principal settlement of [[affiliation-kethara|Kethara]].
 
 ## Notable Features
 

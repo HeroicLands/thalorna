@@ -10,4 +10,4 @@ data: {demonym: null, lore: [], parents: [aureldirgn], population: 28000, govern
 
 ## Overview
 
-_To be written._ Calypsa is the capital and principal settlement of [[affiliation-calypsa|Calypsa]].
+Calypsa is the capital and principal settlement of [[affiliation-calypsa|Calypsa]].

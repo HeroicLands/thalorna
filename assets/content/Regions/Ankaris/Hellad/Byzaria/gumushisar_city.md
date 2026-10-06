@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [byzariargn], population: 35000, govern
 
 ## Overview
 
-_To be written._ Gümüşhisar is the capital and principal settlement of [[affiliation-gumushisar|Gümüşhisar]].
+Gümüşhisar is the capital and principal settlement of [[affiliation-gumushisar|Gümüşhisar]].
 
 ## Character
 

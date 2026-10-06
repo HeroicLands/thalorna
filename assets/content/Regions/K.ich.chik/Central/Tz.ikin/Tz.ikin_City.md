@@ -10,4 +10,4 @@ data: {demonym: null, lore: [], parents: [tzikinrgn], population: 60000, governm
 
 ## Overview
 
-_To be written._ Tz'ikin is the central city and seat of the [[affiliation-tzikin|Tz'ikin]] city-state.
+Tz'ikin is the central city and seat of the [[affiliation-tzikin|Tz'ikin]] city-state.

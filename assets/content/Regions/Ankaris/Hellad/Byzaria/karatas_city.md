@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [byzariargn], population: 45000, govern
 
 ## Overview
 
-_To be written._ Karataş is the capital and principal settlement of [[affiliation-karatas|Karataş]].
+Karataş is the capital and principal settlement of [[affiliation-karatas|Karataş]].
 
 Built on rich deposits of iron, copper, and semi-precious stones in the mountainous interior of [[place-byzariargn|Byzaría Region]], Karataş produces the arms, armor, metalwork, and finished goods that the other city-states trade across [[place-ankrscntnnt|Ankaris Continent]].
 

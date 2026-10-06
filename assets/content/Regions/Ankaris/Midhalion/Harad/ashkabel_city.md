@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [haradregin], population: 150000, gover
 
 ## Overview
 
-_To be written._ Ashkabel is the capital and principal settlement of [[affiliation-ashkabel|Ashkabel]].
+Ashkabel is the capital and principal settlement of [[affiliation-ashkabel|Ashkabel]].
 
 ## Notable Features
 

@@ -10,4 +10,4 @@ data: {demonym: null, lore: [], parents: [helionis], population: 50000, governme
 
 ## Overview
 
-_To be written._ Therádon is the capital and principal settlement of [[affiliation-theradon|Therádon]].
+Therádon is the capital and principal settlement of [[affiliation-theradon|Therádon]].

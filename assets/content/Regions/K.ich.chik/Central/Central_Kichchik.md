@@ -3,7 +3,7 @@ shortcode: cntrlkchchk
 name: {full: Central K'ich'chik, aliases: []}
 type: place
 subType: region
-description: "The centralern reach of the K'ich'chik continent and its city-states."
+description: "The central reach of the K'ich'chik continent and its city-states."
 tags: [region, draft]
 data:
   icon: null
@@ -16,4 +16,4 @@ data:
 
 ## Overview
 
-_To be written._ The centralern subdivision of the [[place-kchchkcntnnt|K'ich'chik]] continent, encompassing the city-states of Balamkul, K'ankul, Ki'ik Ba'ate, Tz'ikin.
+The central subdivision of the [[place-kchchkcntnnt|K'ich'chik]] continent, encompassing the city-states of Balamkul, K'ankul, Ki'ik Ba'ate, Tz'ikin.

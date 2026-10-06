@@ -10,4 +10,4 @@ data: {demonym: null, lore: [], parents: [kiikbaatergn], population: 70000, gove
 
 ## Overview
 
-_To be written._ Ki'ik Ba'ate is the central city and seat of the [[affiliation-kiikbaate|Ki'ik Ba'ate]] city-state.
+Ki'ik Ba'ate is the central city and seat of the [[affiliation-kiikbaate|Ki'ik Ba'ate]] city-state.

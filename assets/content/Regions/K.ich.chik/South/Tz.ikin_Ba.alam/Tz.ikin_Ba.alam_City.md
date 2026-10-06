@@ -10,4 +10,4 @@ data: {demonym: null, lore: [], parents: [tzikinbalmrgn], population: null}
 
 ## Overview
 
-_To be written._ Tz'ikin Ba'alam is the central settlement of [[place-tzikinbalmrgn|Tz'ikin Ba'alam Region]].
+Tz'ikin Ba'alam is the central settlement of [[place-tzikinbalmrgn|Tz'ikin Ba'alam Region]].

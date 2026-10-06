@@ -10,4 +10,4 @@ data: {demonym: null, lore: [], parents: [haxamanrgn], population: 1500}
 
 ## Overview
 
-_To be written._ Ha' Xaman is the central city and seat of the [[affiliation-haxaman|Ha' Xaman]] city-state.
+Ha' Xaman is the central city and seat of the [[affiliation-haxaman|Ha' Xaman]] city-state.

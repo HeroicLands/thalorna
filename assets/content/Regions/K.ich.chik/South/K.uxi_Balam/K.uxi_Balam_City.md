@@ -10,4 +10,4 @@ data: {demonym: null, lore: [], parents: [kuxibalamrgn], population: 30000, gove
 
 ## Overview
 
-_To be written._ K'uxi Balam is the central city and seat of the [[affiliation-kuxibalam|K'uxi Balam]] city-state.
+K'uxi Balam is the central city and seat of the [[affiliation-kuxibalam|K'uxi Balam]] city-state.

@@ -10,4 +10,4 @@ data: {demonym: null, lore: [], parents: [helionis], population: 55000, governme
 
 ## Overview
 
-_To be written._ Athenikos is the capital and principal settlement of [[affiliation-athenikos|Athenikos]].
+Athenikos is the capital and principal settlement of [[affiliation-athenikos|Athenikos]].

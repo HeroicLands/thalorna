@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [helionis], population: 40000, governme
 
 ## Overview
 
-_To be written._ Pelagora is the capital and principal settlement of [[affiliation-pelagora|Pelagora]].
+Pelagora is the capital and principal settlement of [[affiliation-pelagora|Pelagora]].
 
 ## Character
 

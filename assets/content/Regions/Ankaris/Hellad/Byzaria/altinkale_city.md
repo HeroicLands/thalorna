@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [byzariargn], population: 80000, govern
 
 ## Overview
 
-_To be written._ Altinkale is the capital and principal settlement of [[affiliation-altinkale|Altinkale]].
+Altinkale is the capital and principal settlement of [[affiliation-altinkale|Altinkale]].
 
 The city's banking houses finance commerce across half of [[place-ankrscntnnt|Ankaris Continent]], and its gold-domed counting houses are famous throughout [[place-midhalnrgn|Mídhalión Region]].
 

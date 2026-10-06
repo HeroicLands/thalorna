@@ -10,4 +10,4 @@ data: {demonym: null, lore: [], parents: [kankulrgn], population: 120000, govern
 
 ## Overview
 
-_To be written._ K'ankul is the central city and seat of the [[affiliation-kankul|K'ankul]] city-state.
+K'ankul is the central city and seat of the [[affiliation-kankul|K'ankul]] city-state.

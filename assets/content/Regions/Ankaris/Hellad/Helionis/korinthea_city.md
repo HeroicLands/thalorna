@@ -10,4 +10,4 @@ data: {demonym: null, lore: [], parents: [helionis], population: 40000, governme
 
 ## Overview
 
-_To be written._ Korinthea is the capital and principal settlement of [[affiliation-korinthea|Korinthea]].
+Korinthea is the capital and principal settlement of [[affiliation-korinthea|Korinthea]].
