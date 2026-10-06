@@ -13986,6 +13986,61 @@
             "boldKind": "none"
         },
         {
+            "oldName": "Renpet",
+            "oldAliases": ["renpet"],
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Selqur",
+            "newAliases": ["selqur", "selkûr"],
+            "newPath": null,
+            "newShortcode": null,
+            "newAddress": null,
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "calendar",
+            "description": null,
+            "note": "Khelâthi word from the Khelâthi lexicon: `selqur`, a year of the count from the Qet Telgu, in the era formula Selqur Qet Telgu (ST); Bethûan borrows it as selkûr; the earlier Renpet form is retired",
+            "prose": null,
+            "oldRefPaths": [
+                "9e67f789de14997932b1fd4f23ddd03e2b46fdea:assets/content/Regions/Xerathia/Northern_Fertile_Region/Khelathu/Khelathu.md:228:43",
+                "9e67f789de14997932b1fd4f23ddd03e2b46fdea:assets/content/Lore/History/The_Qet_Telgu.md:12:43",
+                "9e67f789de14997932b1fd4f23ddd03e2b46fdea:assets/content/Lore/History/The_Qet_Telgu.md:58:43",
+                "9e67f789de14997932b1fd4f23ddd03e2b46fdea:assets/content/Skills/Languages/Bethuan.md:185:101",
+                "9e67f789de14997932b1fd4f23ddd03e2b46fdea:assets/content/Skills/Languages/Bethuan.md:185:29"
+            ],
+            "boldKind": "none"
+        },
+        {
+            "oldName": "Forty-Two Negative Confessions",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Halzunet",
+            "newAliases": null,
+            "newPath": null,
+            "newShortcode": null,
+            "newAddress": null,
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "lore",
+            "subType": "custom",
+            "description": null,
+            "note": "Khelâthi word from the Khelâthi lexicon: `Halzunet`, the noon denials of the Faith of Qe'âret, built on `halzi` (heart, account) and recited in two halves, one for each ledger; the earlier Forty-Two Negative Confessions form is retired",
+            "prose": null,
+            "oldRefPaths": [
+                "9e67f789de14997932b1fd4f23ddd03e2b46fdea:assets/content/Affiliations/Divine/Khelathi/Faith_of_Qearet.md:82:361",
+                "9e67f789de14997932b1fd4f23ddd03e2b46fdea:assets/content/Affiliations/Divine/Khelathi/Lut_Qearet.md:57:106"
+            ],
+            "boldKind": "phrase"
+        },
+        {
             "oldName": "Kael",
             "oldAliases": null,
             "oldPath": "assets/content/Characters/Heroes_and_Knaves/Hliskthann_Vetrdomr.md",
@@ -14090,7 +14145,7 @@
             "oldShortcode": null,
             "oldAddress": null,
             "oldImage": null,
-            "newName": "Dvalgmýl",
+            "newName": "Draskmýl",
             "newAliases": null,
             "newPath": null,
             "newShortcode": null,
@@ -14101,7 +14156,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "oldName: null — a listed Nordmal given name for an unlinked background figure named in Gnaldrthann Solvargr (the regional lord commander), in place of Aldric, a given name another bearer elsewhere keeps, so nothing is retired",
+            "note": "oldName: null — _drask-_ + `-mýl`, a listed Nordmal given name for an unlinked background figure named in Gnaldrthann Solvargr (the regional lord commander), in place of Aldric, a given name another bearer elsewhere keeps, so nothing is retired",
             "prose": null,
             "oldRefPaths": [],
             "boldKind": "none"
@@ -14228,7 +14283,7 @@
             "oldShortcode": null,
             "oldAddress": null,
             "oldImage": null,
-            "newName": "Hlaskynda",
+            "newName": "Driskthýra",
             "newAliases": null,
             "newPath": null,
             "newShortcode": null,
@@ -14239,7 +14294,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "oldName: null — a listed Nordmal given name for an unlinked background figure named in Ralthyra Drekanott (a magistrate), in place of Keira, a given name another bearer elsewhere keeps, so nothing is retired",
+            "note": "oldName: null — _drisk-_ + `-thýra`, a listed Nordmal given name for an unlinked background figure named in Ralthyra Drekanott (a magistrate), in place of Keira, a given name another bearer elsewhere keeps, so nothing is retired",
             "prose": null,
             "oldRefPaths": [],
             "boldKind": "none"
@@ -14295,13 +14350,13 @@
         {
             "oldName": "Eirik",
             "oldAliases": null,
-            "oldPath": "assets/content/Characters/Heroes_of_Asguard/Dvulgynda_Shadow_Walker.md",
+            "oldPath": null,
             "oldShortcode": null,
             "oldAddress": null,
             "oldImage": null,
-            "newName": "Gnurthmýl",
+            "newName": "Gnarthvir",
             "newAliases": null,
-            "newPath": "assets/content/Characters/Heroes_of_Asguard/Dvulgynda_Shadow_Walker.md",
+            "newPath": null,
             "newShortcode": null,
             "newAddress": null,
             "newImage": null,
@@ -14310,12 +14365,12 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_gnurth-_ + `-mýl` — an unlinked background figure named in this note (the jarl whose crown Dvulgynda stole), given a listed Nordmal name in place of a given name no culture writes",
+            "note": "_gnarth-_ (hard grade) — the set of a jaw that will not open — + `-vir` (a man): Jarl Gnarthvir the Vengeful. a name-stem in a bestowal ending under the given-name rule; replaces an Earth Norse name in a Heroes of Asguard dossier.",
             "prose": null,
+            "boldKind": "none",
             "oldRefPaths": [
-                "9e67f789d:assets/content/Characters/Heroes_of_Asguard/Dvulgynda_Shadow_Walker.md:399:8"
-            ],
-            "boldKind": "none"
+                "05a1d15aa7a754b26d3139e7bb37dee2303e3ad4:assets/content/Characters/Heroes_of_Asguard/Dvulgynda_Shadow_Walker.md:399:8"
+            ]
         }
     ],
     "standingCoinages": {

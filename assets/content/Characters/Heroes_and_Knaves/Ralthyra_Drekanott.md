@@ -467,7 +467,7 @@ Ralthýra seeks not fortune nor fame, but redemption—both her own and that of 
 Brother Aldrin
 : A sympathetic former monk from her monastery who occasionally slips her coin and information, though he himself risks punishment for maintaining the connection.
 
-Magistrate Hlaskynda Stonehearst
+Magistrate Driskthýra Stonehearst
 : A widow who fell in love with Ralthýra's voice years ago and has quietly ensured she survives each harsh winter, though few know of their association.
 
 The Wayfarers' Council

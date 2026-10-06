@@ -34,7 +34,7 @@ data:
 
 ## Overview
 
-**Gar-Zin'el'Rêlu** stood barely a century, and no wall in [[place-aukhelathrgq|Aû'Khelâthu]] carries its name. Its last [[lore-garauu|Gar-Aû]] was struck from every wall in the empire for sealing the living into a tomb, and the official records name him only [[being-falseuqaa|the False Uqa'â]], erasing the name he reigned under along with his image, though the oldest servants of the necropolis still whisper what he was called. A historian working from the public record alone cannot reconstruct the dynasty's end and has to look among the people the erasure never reached.
+**Gar-Zin'el'Rêlu** stood barely a century, from 171 to 268 AF, and no wall in [[place-aukhelathrgq|Aû'Khelâthu]] carries its name. Its last [[lore-garauu|Gar-Aû]] was struck from every wall in the empire for sealing the living into a tomb, and the official records name him only [[being-falseuqaa|the False Uqa'â]], erasing the name he reigned under along with his image, though the oldest servants of the necropolis still whisper what he was called. A historian working from the public record alone cannot reconstruct the dynasty's end and has to look among the people the erasure never reached.
 
 ## Character
 

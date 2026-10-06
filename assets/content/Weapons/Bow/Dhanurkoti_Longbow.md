@@ -4,7 +4,7 @@ name: {full: Dhanurkoti Longbow, aliases: []}
 type: weapongear
 description: "Heavy self-bow of the High Draw academy; a warbow drawn to full war weight for infantry-support archery."
 tags: []
-data: {icon: icon-bow, templatePriority: null, packFolder: weapons}
+data: {icon: sohl-none-icon-longbow, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: bow
   weaponType: Bow
