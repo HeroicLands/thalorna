@@ -136,7 +136,7 @@ The janapadas hold the overwhelming mass of Vedyara's people: on the order of **
 
 ## Commerce and Currency
 
-A janapada strikes no coin. Its traders carry whichever city's or kingdom's coin they deal in, and the [[affiliation-mrchntclctvvdyr|Merchant Collective]] clears it through the [[lore-vdyrnbnkng|Vedyaran banking system]]. Two janapadas, [[affiliation-rajaprjnpd|Rājapur]] and [[affiliation-dhnrktjnpd|Dhanurkota]], hold seats of their own in the [[affiliation-assmblycmpct|Assembly of the Compact]] that governs the system; [[affiliation-suvrgrjnpd|Suvarnagiri]] keeps its gold outside it by its own constitution. Foreign coin and weighed metal are exchanged at the frontier moneylenders at Collective rates.
+A janapada strikes only copper: its treasury issues its own [[miscgear-tamra|tāmra]], good at face within the janapada and redeemed there. For anything larger its traders carry the gold and silver of Chandrapur, and the [[affiliation-mrchntclctvvdyr|Merchant Collective]] clears that coin through the [[lore-vdyrnbnkng|Vedyaran banking system]]. Two janapadas, [[affiliation-rajaprjnpd|Rājapur]] and [[affiliation-dhnrktjnpd|Dhanurkota]], hold seats of their own in the [[affiliation-assmblycmpct|Assembly of the Compact]] that governs the system; [[affiliation-suvrgrjnpd|Suvarnagiri]] keeps its gold outside it by its own constitution. Foreign coin and weighed metal are exchanged at the frontier moneylenders at Collective rates.
 
 ## See Also
 

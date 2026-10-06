@@ -2,18 +2,18 @@
 shortcode: candra
 name: {full: Vedyaran Chandra, aliases: ["Chandra"]}
 type: miscgear
-description: "Silver coin struck by the Moon House at Chandrapur; the mid-value coin of Vedyaran trade, reckoned at eight tāmra."
+description: "Silver coin struck by the Moon House at Chandrapur; the mid-value coin of Vedyaran trade, reckoned at eight tāmra and worth its silver anywhere."
 tags: [jewelry_cash]
 data: {icon: icon-coinsbdg, templatePriority: 0, packFolder: cash}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: cash
-  system: {weightBase: 0.0035, valueBase: 8, qualityBase: 0, durabilityBase: 3}
+  system: {weightBase: 0.02, valueBase: 8, qualityBase: 0, durabilityBase: 3}
 ---
 
-The **candra** is silver, struck at [[affiliation-chandrapur|Chandrapur]] under the Moon House's seal, and reckoned at eight [[miscgear-tamra|tāmra]]. It is the coin of ordinary formal commerce: a craftsman's contract, a caravan's toll, a season's rent. A purse of copper would be too heavy to carry for any of them, and a suvarna too large to make change for.
+The **chandra** is silver, struck at [[affiliation-chandrapur|Chandrapur]] under the Moon House's seal, and reckoned at eight [[miscgear-tamra|tāmra]]. It is the coin of ordinary formal commerce: a craftsman's contract, a caravan's toll, a season's rent. A purse of copper would be too heavy to carry for any of them, and a suvarna too large to make change for.
 
-Only the Moon House strikes it, and its mint mark is trusted well past Chandrapur's own borders; a candra is weighed rather than refused where the mark is unfamiliar, but it is rarely refused outright.
+Only the Moon House strikes it, and it carries its silver: abroad a chandra is assayed and exchanged for its metal, which comes to its face. Its mint mark is trusted well past Chandrapur's own borders, and where the mark is unfamiliar the coin is weighed rather than refused.
 
 ## See Also
 

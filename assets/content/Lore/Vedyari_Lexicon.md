@@ -140,21 +140,21 @@ Where the first word of a compound closes on a vowel and the second opens on one
 
 | Suffix | Stem                       | Makes                                          | Example                      |
 | ------ | -------------------------- | ---------------------------------------------- | ---------------------------- |
-| `-ja`  | lengthens its last vowel   | one born to it: the names of the four stations | _karma_ → _karmāja_          |
-| `-aka` | added to a verb stem       | one who does it                                | _gan-_ → _ganaka_            |
-| `-ana` | added to a verb stem       | the doing of it                                | _dah-_ → _dahana_            |
-| `-ita` | added to a verb stem       | one to whom it is done                         | _pat-_ → _patita_            |
-| `-ta`  | added to a verb stem       | done, finished                                 | _muk-_ → _mukta_             |
-| `-in`  | replaces a closing short a | one who has or keeps it                        | _vrata_ → _vratin_           |
-| `-ina` | replaces a closing short a | one of the kind, of good standing in it        | _kula_ → _kulina_            |
-| `-ī`   | replaces a closing short a | a woman's form of a word; one who deals in it  | _sundara_ → _sundarī_        |
+| `-ja`  | lengthens its last vowel   | one born to it: the names of the four stations | _karma_ > _karmāja_          |
+| `-aka` | added to a verb stem       | one who does it                                | _gan-_ > _ganaka_            |
+| `-ana` | added to a verb stem       | the doing of it                                | _dah-_ > _dahana_            |
+| `-ita` | added to a verb stem       | one to whom it is done                         | _pat-_ > _patita_            |
+| `-ta`  | added to a verb stem       | done, finished                                 | _muk-_ > _mukta_             |
+| `-in`  | replaces a closing short a | one who has or keeps it                        | _vrata_ > _vratin_           |
+| `-ina` | replaces a closing short a | one of the kind, of good standing in it        | _kula_ > _kulina_            |
+| `-ī`   | replaces a closing short a | a woman's form of a word; one who deals in it  | _sundara_ > _sundarī_        |
 | `-ika` | replaces a closing short a | a woman's name                                 | —                            |
-| `-i`   | replaces a closing short a | one from it, said of a place or a land         | _vedyara_ → _vedyari_        |
-| `-an`  | replaces a closing short a | belonging to it: a god's, a land's             | _vedyara_ → _vedyaran_       |
-| `-ka`  | added                      | one who works it, or a thing of it             | _lipi_ → _lipika_            |
-| `-nī`  | added                      | the leader of it                               | _senā_ → _senānī_            |
-| `-da`  | added                      | that gives it                                  | _sarva_ → _sarvada_          |
-| `-s`   | added                      | more than one, as these pages write the plural | _svapnadeva_ → _svapnadevas_ |
+| `-i`   | replaces a closing short a | one from it, said of a place or a land         | _vedyara_ > _vedyari_        |
+| `-an`  | replaces a closing short a | belonging to it: a god's, a land's             | _vedyara_ > _vedyaran_       |
+| `-ka`  | added                      | one who works it, or a thing of it             | _lipi_ > _lipika_            |
+| `-nī`  | added                      | the leader of it                               | _senā_ > _senānī_            |
+| `-da`  | added                      | that gives it                                  | _sarva_ > _sarvada_          |
+| `-s`   | added                      | more than one, as these pages write the plural | _svapnadeva_ > _svapnadevas_ |
 
 ## Words
 
@@ -1328,3 +1328,4 @@ Some names are kept out of the setting: the gods, persons, places and terms of E
 | `Aqendra`             | `Akendra`          | `q` is not a letter of Vedyari                  |
 | `Sabhāsad`            | `Sabhāsadaka`      | closes on `d`, which no word closes on          |
 | `Vyāndran`            | `Vyālendran`       | not the adjective the suffixes make of the name |
+| `Candra`              | `Chandra`          | `c` is the scholars' letter for `ch`            |
