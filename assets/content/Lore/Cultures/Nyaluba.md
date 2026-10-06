@@ -5,6 +5,8 @@ type: lore
 subType: culture
 description: "The Nyálubans—their beliefs, their mores, and what they hold a person owes."
 tags: []
+
+# terran_analog: "Iroquois Confederacy (Haudenosaunee), Sotho-Tswana morafe and Shona heirs of Great Zimbabwe: five clan-nations bound by an ancient pact, cattle-pastoral, with a stone-ruin heritage. Carries over: a league of distinct nations under a shared covenant renewed in person, council by consensus, cattle wealth, totem clans. Departs: the five clans keep lion, crocodile, eagle, leopard and baobab totems and differ in dress, dialect and marriage custom."
 ---
 
 There is no Nyáluba people in the way a foreigner means it. There are five nations that share a language, a faith and a pact, and that differ in dress, dialect, ritual, marriage custom and self-conception far enough that a Mvuzi cattle-herder and a Kambezi reed-fisher would never mistake each other for the same kind of person. What both would say at once is that they are heirs of the Long Pact. The Pact is the culture; everything else is clan.

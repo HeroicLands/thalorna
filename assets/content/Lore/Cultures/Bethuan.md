@@ -5,6 +5,8 @@ type: lore
 subType: culture
 description: "The Bethûan—their beliefs, their mores, and what they hold a person owes."
 tags: []
+
+# terran_analog: "Maghreb and Carthage (Mediterranean coast shading into the Saharan interior): a naval, mercantile coast state. Carries over: seafaring, fleets and privateering, a patron relationship with the Nile-valley empire. Departs: a matriarchy in which men are property, with sworn eunuch-warriors (Spádai) as the one armed exception and a women's open-hand martial art; no real-world counterpart for that order."
 ---
 
 Bethûa is a matriarchy, and not the gentle kind a foreigner imagines on hearing the word. Property, title and authority pass from mother to daughter; men hold no political, religious or military standing; and—uniquely among the realms of the region—men hold no standing as free persons either. A Bethûan explains this without embarrassment, because to her it is not a policy but the order of things, sanctioned by goddesses, and the arrangements she sees in foreign ports strike her as both unnatural and badly run.

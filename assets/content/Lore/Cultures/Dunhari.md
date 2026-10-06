@@ -5,6 +5,8 @@ type: lore
 subType: culture
 description: "The Dunhari—their beliefs, their mores, and what they hold a person owes."
 tags: []
+
+# terran_analog: "The Persian-and-Arabian world, specifically the Bedouin tribal desert (sheikhs, salt hospitality, poet-genealogists, codified blood-feud and its settlement) with a fire-and-light faith on the Persianate side. Carries over: lineage and seasonal-circuit organization, law and genealogy kept in verse. Departs: an oath sworn at a fire is a single legal and religious instrument, and disputed histories are judged by poets of a third tribe."
 ---
 
 The Dunhari are a confederation of tribal peoples organized around lineage, household and the seasonal migration circuit, and everything that matters about them traces to one fact: in a desert, a person's word and a person's welcome are the only securities there are.

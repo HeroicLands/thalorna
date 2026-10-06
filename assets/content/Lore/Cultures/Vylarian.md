@@ -5,6 +5,8 @@ type: lore
 subType: culture
 description: "The Vylarians—their beliefs, their mores, and what they hold a person owes."
 tags: []
+
+# terran_analog: "The Roman empire (Italy, Croatia, Bosnia, Serbia, Hungary and Austria): a Senate, senatorial and equestrian orders, plebeian citizens, slaves, patron and client, codified appealable law, aqueducts and forums. Carries over: precedence-worked manners, patronage, legal remedy as the civilized reflex. Departs: the Ordo Arcanis operates as a licensed arm of the administration, the Aurèldían pantheon is the imperial cult, and Vylarian Steel is a guild-guarded alloy."
 ---
 
 A Vylarian lives inside a memory. The empire still spans half of Ankaris on the maps, the Senate still debates, the aqueducts still run in the older quarters—and every educated Vylarian knows, without ever putting it plainly, that the best of it is behind him. This produces a people who are sophisticated, proud, formidable, and difficult to sit with for long. A Vylarian does not boast about the empire; he assumes it, which is worse.

@@ -5,6 +5,8 @@ type: lore
 subType: culture
 description: "The Vedyari—their beliefs, their mores, and what they hold a person owes."
 tags: []
+
+# terran_analog: "The Indian subcontinent, especially medieval South Indian temple-republics (Chola-era sabha and ur village federations governed by temple-anchored assemblies). Carries over: appearance, dress and naming follow an Indian palette, a hereditary system of orders and lineages that settles profession, marriage and standing, pilgrimage networks. Departs: order and lineage are cut as two signs inside the left wrist at naming, and a wrapped wrist hides a station."
 ---
 
 The Vedyari are one people across a map that has never been one state. A scholar from a southern harbour who lands at a northern pass-kingdom finds the temple, the assembly, the stations and the classical curriculum all intelligible on the first day, and the coinage and the king strange. What holds across [[place-vedyarargn|Vedyara]] is the station a person is born to, the household that station sits in, and the rites that mark both. What varies is who collects the tax.

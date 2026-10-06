@@ -5,6 +5,8 @@ type: lore
 subType: culture
 description: "The Élavendri—their beliefs, their mores, and what they hold a person owes."
 tags: []
+
+# terran_analog: "Northern France and Switzerland (the Pelwar courtly sphere with its bardic colleges and an Alpine highland interior). Carries over: courtly aristocratic houses, bards, mountain monasteries and highland kin peoples. Departs: the Élavendri live openly beside the Elder Races, and the ancestor tribes (Áelendan) hold the ranges as pact-bound keepers of the old ways."
 ---
 
 The Élavendri are the only human people in Ankaris who live beside the Elder Races openly and as equals, and it has marked them more deeply than they usually admit. A culture that has spent centuries in the company of things older and stranger than itself acquires a particular manner: courteous, allusive, patient, and quietly certain that the obvious explanation is rarely the whole one. Their cities are built to be beautiful—towers of pale stone, bridges woven through with living vines, gardens where the line between cultivated and wild has been deliberately blurred—and the blurring is the point and not an effect.

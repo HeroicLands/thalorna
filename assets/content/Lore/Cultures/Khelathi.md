@@ -6,6 +6,8 @@ subType: culture
 description: "The Khelâthi—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data: {packFolder: regkhcult}
+
+# terran_analog: "Egypt and Sudan (Nile valley civilization): a river-set year, a scribal and archival culture, titles that precede the personal name, weighing and burial customs for the dead. Appearance, dress and naming follow an Egyptian palette. Departs: twelve canonical gods with some forty local patron gods, magic taught as a learned profession by the Khelunu Lekhau, and ledgers of written and unwritten obligation at the center of ethics."
 ---
 
 The Khelâthi hold that theirs is the oldest civilization in the world, and the temple king-lists count 2,830 years back to the first Gar-Aû in unbroken sequence. Three facts shape a life in the valley: the river comes and goes on a schedule a farmer can name to the day, the house holds the land and answers at law for everyone attached to it, and the heart is weighed at the end before a court no one has ever bribed.
