@@ -33,6 +33,10 @@ jobs:
         steps:
             - name: Checkout
               uses: actions/checkout@v7
+              with:
+                  # The utility tests below read pinned revisions with
+                  # `git show`, which a shallow checkout does not have.
+                  fetch-depth: 0
 
             - name: Setup Node.js
               uses: actions/setup-node@v7
