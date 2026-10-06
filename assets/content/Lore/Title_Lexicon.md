@@ -26,14 +26,22 @@ what its holder does.
 
 ## Standing among the peoples
 
-Every rung on every ladder in the setting is reckoned against one of the
-standings under [[doc-lore|Lore]], and each of those has its own note. They are
-the headings here. Under each is every people that has a word for it.
+Every polity states its ladder as a run of rungs, and each rung carries a level,
+a title and a description. The tables here set out those ladders people by
+people, lowest rung first, with level 0 — the man set outside the law — at the
+head of each. A rung that has a note of its own under
+[[doc-lore|Lore]] links to it from its title, and a rung several polities state in
+the same words is one row naming them all.
 
-Where a people is absent from a heading, its ladder does not reach that far or
-does not divide there. An absence is not always a silence: the Khelâthi run their
-selatu without a treasurer and read no omens at court, and both are facts about
-Aû'Khelâthu rather than gaps in the account of it.
+A level is a place on its own people's ladder and nothing more. Level 4 in one
+polity and level 4 in another are not the same standing, so the rows are never
+read across peoples by number; the title and the description say what each rung
+is.
+
+Where a people is absent, none of its polities states a ladder. An absence is not
+always a silence: the Khelâthi run their selatu without a treasurer and read no
+omens at court, and both are facts about Aû'Khelâthu rather than gaps in the
+account of it.
 
 ```sql {section-level=3}
 WITH peoples AS (
@@ -64,24 +72,30 @@ WITH peoples AS (
   FROM notes n
   WHERE n.type = 'affiliation' AND n.subType = 'polity'
 )
-SELECT lr.name.full || ' — ' || lr.description AS _section,
-       p.people                                AS "People",
-       string_agg(DISTINCT r.title, ' · ')     AS "What they call it",
-       min(min(r.level)) OVER (PARTITION BY lr.shortcode) AS _rung,
-       lr.name.full                            AS _function
+SELECT min(lr.address.slug)                   AS _ref,
+       p.people                                AS _section,
+       r.title                                 AS "Title",
+       r.level                                 AS "Level",
+       string_agg(DISTINCT p.name.full, ' · ') AS "Polities",
+       coalesce(
+           nullif(regexp_extract(r.description, '^(.*?[.!?])(\s|$)', 1), ''),
+           r.description
+       )                                       AS "What it is"
 FROM peoples p, unnest(p.data.governance.ranks) AS t(r)
-JOIN notes lr ON concat(lr.package, '-note-', lr.type, '-', lr.shortcode) = r.lore AND lr.file.folder = 'Lore/Ranks'
+LEFT JOIN notes lr ON concat(lr.package, '-note-', lr.type, '-', lr.shortcode) = r.lore
 WHERE p.people IS NOT NULL
-GROUP BY lr.shortcode, lr.name.full, lr.description, p.people
-ORDER BY _rung, _function, p.people
+GROUP BY p.people, r.level, r.title, "What it is"
+ORDER BY p.people, r.level, r.title COLLATE NOCASE, "Polities"
 ```
 
 ## Standing in the faiths and the traditions
 
-A temple, an order and a school of magic each rank their people, and they do it
-on the same reckoning the polities use — which is what lets a priest's ladder be
-set beside a king's without either being bent to fit. The words are entirely
-their own.
+A temple, an order and a school of magic each rank their people on a ladder of
+the same shape the polities use: a level, a title and a description for every
+rung. The tables are grouped by tradition, lowest rung
+first, and the words are entirely their own. A rung that has a note of its own
+under [[doc-lore|Lore]] links to it from its title, and a rung several bodies state
+in the same words is one row naming them all.
 
 ```sql {section-level=3}
 WITH traditions AS (
@@ -94,16 +108,20 @@ WITH traditions AS (
   WHERE n.type = 'affiliation'
     AND (n.file.folder LIKE 'Affiliations/Divine/%' OR n.file.folder LIKE 'Affiliations/Arcane/%')
 )
-SELECT lr.name.full || ' — ' || lr.description AS _section,
-       t.tradition                             AS "Tradition",
-       string_agg(DISTINCT r.title, ' · ')     AS "What they call it",
-       min(min(r.level)) OVER (PARTITION BY lr.shortcode) AS _rung,
-       lr.name.full                            AS _function
+SELECT min(lr.address.slug)                   AS _ref,
+       t.tradition                             AS _section,
+       r.title                                 AS "Title",
+       r.level                                 AS "Level",
+       string_agg(DISTINCT t.name.full, ' · ') AS "Bodies",
+       coalesce(
+           nullif(regexp_extract(r.description, '^(.*?[.!?])(\s|$)', 1), ''),
+           r.description
+       )                                       AS "What it is"
 FROM traditions t, unnest(t.data.governance.ranks) AS u(r)
-JOIN notes lr ON concat(lr.package, '-note-', lr.type, '-', lr.shortcode) = r.lore AND lr.file.folder = 'Lore/Ranks'
+LEFT JOIN notes lr ON concat(lr.package, '-note-', lr.type, '-', lr.shortcode) = r.lore
 WHERE t.tradition IS NOT NULL AND t.tradition <> ''
-GROUP BY lr.shortcode, lr.name.full, lr.description, t.tradition
-ORDER BY _rung, _function, t.tradition
+GROUP BY t.tradition, r.level, r.title, "What it is"
+ORDER BY t.tradition, r.level, r.title COLLATE NOCASE, "Bodies"
 ```
 
 ## Offices, people by people
