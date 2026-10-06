@@ -25,7 +25,7 @@ data:
 
 ## Overview
 
-South and east of the [[place-nrdlndsrgn|Nordlands]] proper lies the roadless interior of Vrystwald—the Varokh homeland of taiga, mixed forest, slow brown rivers, and lake systems. [[place-aureldirgn|Aurèldía]] lies to its south and [[place-velanthrgn|Velanthia]] to its east. The Varokh, descendants of the Pelwar nomads who once migrated across Ankaris, live in independent villages across the region: northern taiga clans whose lifeways are closer to the Nordmal than to their southern kindred; central forest-river villages that fish, farm in clearings, and trade along the rivers; and eastern frontier villages that deal with Velanthian grain-belt princes on terms ranging from cautious commerce to open raid. Vrystwald is filled with dark pine and birch forests, fog-covered river valleys, and ancient ruins.
+South and east of the [[place-nrdlndsrgn|Nordlands]] proper lies the roadless interior of Vrystwald—the [[lore-varokhiclt|Varokh]] homeland of taiga, mixed forest, slow brown rivers, and lake systems. [[place-aureldirgn|Aurèldía]] lies to its south and [[place-velanthrgn|Velanthia]] to its east. The Varokh, descendants of the Pelwar nomads who once migrated across Ankaris, live in independent villages across the region: northern taiga clans whose lifeways are closer to the Nordmal than to their southern kindred; central forest-river villages that fish, farm in clearings, and trade along the rivers; and eastern frontier villages that deal with Velanthian grain-belt princes on terms ranging from cautious commerce to open raid. Vrystwald is filled with dark pine and birch forests, fog-covered river valleys, and ancient ruins.
 
 ## Geography
 
@@ -45,7 +45,7 @@ The climate is harsh-continental: long bitter winters with deep snow, brief warm
 The Varokh call Vrystwald their **primeval homeland** and defend it as one, and the claim is true—but
 it is true twice over, in two ways that ought to contradict each other and do not.
 
-The country was **Pelwar** first. Those were peaceful people: herders and cultivators, tribal but not
+The country was [[lore-pelwarpepl|Pelwar]] first. Those were peaceful people: herders and cultivators, tribal but not
 organized for conquest, and they had the forest and the rivers for a very long time before anyone
 disturbed them.
 
@@ -65,7 +65,7 @@ who conquered their other ancestors—which is the sort of observation an outsid
 Varokh hall, and does not make twice.
 
 It also explains a thing that puzzles Aurèldían scholars: how the Varokh can be simultaneously the people
-who **drove the Pelwar Migration**—the great displacement that scattered Pelwar peoples across half a
+who **drove the [[lore-pelwarmigr|Pelwar Migration]]**—the great displacement that scattered Pelwar peoples across half a
 continent and eventually onto [[place-aelwyth|Aelwyth]]—and themselves _be_ Pelwar. Both are correct.
 The Varokh drove out their own cousins, and did not think of them as cousins at the time, and by the time
 anyone could have said so the question had stopped meaning anything.
@@ -84,9 +84,9 @@ Varokh are not numerous. They have never been numerous.
 
 It is also, man for man, the most dangerous population in the north—and the people best placed to
 judge that say so themselves. The [[place-nrdlndsrgn|Nordmen]] are feared along every coast within
-reach of a longship, and the Nordmen regard the Varokh as **worse**: harder, less reachable, and less
+reach of a longship, and the [[lore-nordheimnclt|Nordmen]] regard the Varokh as **worse**: harder, less reachable, and less
 inclined to stop. That is not a concession Nordmen make about anybody, and they make it about these
-neighbors without argument. It is the Varkhad half talking, two thousand years on.
+neighbors without argument. It is the [[lore-varkhadcnq|Varkhad]] half talking, two thousand years on.
 
 And the numbers have never made the slightest difference, because numbers are not what has beaten every
 army sent in here. **There is nothing to capture.** No capital, no heartland, no field the Varokh have to hold and
@@ -211,7 +211,7 @@ seldom aware of where the goods entered the system.
 The Aurèldían kingdoms deplore this and buy the furs, which travel the same rivers in the same boats.
 
 There is an irony in it that nobody in Vrystwald has ever been in a position to appreciate. The Varokh
-exist because the **Varkhad** conquered the Pelwar and drove the survivors west and south in the
+exist because the [[lore-varkhadcnq|Varkhad]] conquered the Pelwar and drove the survivors west and south in the
 Migration. Two thousand years on, their descendants make a living moving displaced people down the same
 rivers.
 
@@ -274,7 +274,7 @@ between them is not courage. It is **how much of themselves they can bring to on
 - The [[lore-grukarfolk|Grukar]] of [[place-grkrhlmrgn|Grukarholm]] cannot concentrate at all. Ahks do
   not cooperate, so fifty thousand of them are fifty thousand in scores of tribes that will never combine.
   Permanently terrifying at a frontier; permanently incapable of taking anything.
-- The **Varokh** concentrate as far as tribes and war-bands allow, and no further. They can put a
+- The [[lore-varokhiclt|Varokh]] concentrate as far as tribes and war-bands allow, and no further. They can put a
   frightening number of extremely dangerous people into a forest, and they cannot put an army into a field
   and keep it there for a season. So they are unconquerable and not expansionist—a people nobody can
   beat and who cannot, in the ordinary sense, win.
