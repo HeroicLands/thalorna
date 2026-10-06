@@ -12,59 +12,18 @@ data:
   governance:
     model: council
     summary: >-
-      A chapter of professed brethren under an elected Grand Master, all of them bound by the rule he enforces.
+      The Wardens of each tribal territory under its most experienced, recognized by their peers rather than appointed, with seasonal councils and runners carrying coordination between territories.
     ranks:
-      - level: 0
-        title: Expelled
-        description: >-
-          Put out of the order, the habit taken back and the vows declared void; no house of it will receive them again.
       - level: 1
-        title: Servant
+        title: Warden
         description: >-
-          Attached to a house for its labor—its stables, its kitchens, its fields—and not of the order.
+          Drawn from an Áelendan tribal community by family line or tribal selection, trained from youth, and charged with the sacred sites of a patrol territory.
       - level: 2
-        title: Postulant
-        description: Petitioning for admission and living under the rule on trial, bound by nothing yet.
-      - level: 3
-        title: Novice
-        lore: catechumenrnk
+        title: Elder Warden
         description: >-
-          Received for a term of formation, under the rule and under a master of novices, and free to leave until profession.
-      - level: 4
-        title: Professed
-        description: >-
-          Vowed to the order for life, holding no property of their own and owing obedience to its officers.
-      - level: 5
-        title: Officer
-        description: Holding a charge of a house—its arms, its stores, its almsgiving, its chapel.
-      - level: 6
-        title: Commander
-        description: >-
-          Holding a house of the order, its brethren and its lands, and answerable for both to the chapter.
-      - level: 7
-        title: Preceptor
-        description: >-
-          Holding a province of the order—several houses—and sitting in the chapter that elects its head.
-      - level: 8
-        title: Grand Master
-        description: >-
-          Head of the order, elected by the chapter, bound by the rule he enforces and removable under it.
+          Among the most experienced Wardens of a territory, on whom its leadership falls by the recognition of their peers rather than by appointment.
     offices:
-      Grand Master: Head of the order, elected by the chapter and himself bound by the rule.
-      Preceptor: Holder of a province of the order, and an elector in the chapter.
-      Commander: Holder of a single house, its brethren and its lands.
-      Marshal: Master of the order's arms, horses and discipline in the field.
-      Seneschal: >-
-        Second to the Grand Master, holding the order's administration and standing for him in his absence.
-      Draper: >-
-        Keeper of the habit and equipment, whose issue marks a brother's standing as plainly as any rank.
-      Almoner: >-
-        Administrator of the order's charity, which is commonly the reason it was chartered at all.
-      Chaplain: >-
-        Keeper of the order's rites and of its brethren's souls, and not under the Marshal's discipline.
-      Master of Novices: Charged with formation, and with judging who may profess.
-      Treasurer: Keeper of the order's revenue, its endowments and its debts.
-      Standard-Bearer: Carrier of the order's banner, a charge given to a professed brother of proven service.
+      Runner: Carrier of messages between territories, through whom coordination across tribal boundaries passes.
   seat: null
   domains: []
   population: null
