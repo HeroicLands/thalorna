@@ -17,8 +17,8 @@ data:
   gender: female
   species: humanflk
   born: 693.93
-  height: 1.78
-  weight: 70.3
+  height: 5' 10"
+  weight: 155 lbs
   frame: light
   appearance:
     eye_color: green
