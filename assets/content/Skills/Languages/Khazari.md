@@ -41,7 +41,7 @@ The inventory is laid out in clean series, and Khazári grammarians teach it as 
 | Liquids    | `r` `l`                                 | `r` heavily rolled                                                                      |
 | Glottal    | `'`                                     | Only between two vowels, to hold them apart                                             |
 
-The four digraphs—_th_, _dh_, _kh_, _gh_—are single sounds and count as single consonants everywhere in the grammar below. There is no _sh_: the hushing sound does not exist in Khazári, and a Khazári saying a foreign name that has one says _s_. **Consonant clusters are common**, which is unusual on Thalorna: _thamr_, _vanth_, _zamd_ and _khaln_ are ordinary words, and the density is the point. More meaning travels per syllable than any human tongue manages.
+The four digraphs—_th_, _dh_, _kh_, _gh_—are single sounds and count as single consonants everywhere in the grammar below. There is no `sh`: the hushing sound does not exist in Khazári, and a Khazári saying a foreign name that has one says `s`. **Consonant clusters are common**, which is unusual on Thalorna: _thamr_, _vanth_, _zamd_ and _khaln_ are ordinary words, and the density is the point. More meaning travels per syllable than any human tongue manages.
 
 ### Vowels
 
@@ -59,7 +59,7 @@ Khazári has no diphthongs. Two vowels never stand together: where a suffix that
 
 ### Stress
 
-**Stress falls on the syllable carrying the acute. A word with no acute is stressed on its first syllable.** There are no exceptions and no secondary stresses, so any Khazári word can be said correctly on sight: _dalk_ (DALK), _Kharvan_ (KHAR-van), _dalkathumár_ (dal-ka-thu-MÁR).
+**Stress falls on the syllable carrying the acute. A word with no acute is stressed on its first syllable.** There are no exceptions and no secondary stresses, so any Khazári word can be said correctly on sight: _dalk_ (DALK), _Khalvan_ (KHAL-van), _dalkathumár_ (dal-ka-thu-MÁR).
 
 ### Clusters
 
@@ -80,14 +80,14 @@ Meaning in Khazári lives in a **skeleton**—a _marg_, literally a bone—of ex
 
 | Skeleton | Sense                    |
 | -------- | ------------------------ |
-| `k-l-d`  | to lay a course of stone |
+| `r-m-k`  | to lay a course of stone |
 | `d-l-k`  | stone; to cut stone      |
 | `th-m-r` | to strike                |
-| `kh-r-v` | unlit, without light     |
+| `kh-l-v` | unlit, without light     |
 | `k-v-l`  | to shape                 |
 | `v-l-d`  | to bind                  |
 | `v-r-n`  | a true line              |
-| `th-r-n` | the fall of a hammer     |
+| `dh-n-k` | the fall of a hammer     |
 | `z-m-d`  | to assay                 |
 | `s-m-d`  | to raise                 |
 | `v-n-th` | an oath; to swear        |
@@ -96,32 +96,32 @@ Meaning in Khazári lives in a **skeleton**—a _marg_, literally a bone—of ex
 | `g-l-d`  | fire                     |
 | `h-l-b`  | silver                   |
 | `l-k-m`  | a lamp                   |
-| `b-r-z`  | a gate                   |
+| `t-n-v`  | a gate                   |
 | `g-r-z`  | to guard                 |
-| `n-r-v`  | cold                     |
+| `n-l-p`  | cold                     |
 | `z-v-k`  | to be, to stand          |
 
 ### Frames
 
-The frames are taught on the model skeleton **k-l-d**, "to lay a course of stone". In the shape column, _K1_, _K2_ and _K3_ stand for the skeleton's three consonants, and _V_ for the vowel a given name chooses:
+The frames are taught on the model skeleton **r-m-k**, "to lay a course of stone". In the shape column, `K1`, `K2` and `K3` stand for the skeleton's three consonants, and `V` for the vowel a given name chooses:
 
-| Frame                 | Shape                 | Class | What it makes                     | On k-l-d  | On d-l-k  | On th-m-r  |
+| Frame                 | Shape                 | Class | What it makes                     | On r-m-k  | On d-l-k  | On th-m-r  |
 | --------------------- | --------------------- | ----- | --------------------------------- | --------- | --------- | ---------- |
-| **bare**              | `K1aK2K3`             | n     | the thing itself                  | _kald_    | _dalk_    | _thamr_    |
-| **adjective**         | `K1aK2íK3`            | adj   | of the kind that it is            | _kalíd_   | _dalík_   | _thamír_   |
-| **worker**            | `K1aK2K3ir`           | n     | one who does it                   | _kaldir_  | _dalkir_  | _thamrir_  |
-| **deed**              | `K1uK2áK3`            | v, n  | the doing of it                   | _kulád_   | _dulák_   | _thumár_   |
-| **mastery**           | `K1uK2K2áK3`          | v, n  | the doing of it as a master       | _kullád_  | _dullák_  | _thummár_  |
-| **reflexive**         | `K1atuK2áK3`          | v     | doing it to oneself or each other | _katulád_ | _datulák_ | _thatumár_ |
-| **place**             | `huK1aK2K3`           | n     | where it is done                  | _hukald_  | _hudalk_  | _huthamr_  |
-| **done thing**        | `K1iK2K3ath`          | n     | what has been made                | _kildath_ | _dilkath_ | _thimrath_ |
-| **given name, man**   | `K1VK2K3Vn`           | name  | a man's name (below)              | _Kaldan_  | _Dalkan_  | _Thamran_  |
-| **given name, woman** | `K1VK2K3V`            | name  | a woman's name (below)            | _Kalda_   | _Dalka_   | _Thimri_   |
+| **bare**              | `K1aK2K3`             | n     | the thing itself                  | _ramk_    | _dalk_    | _thamr_    |
+| **adjective**         | `K1aK2íK3`            | adj   | of the kind that it is            | _ramík_   | _dalík_   | _thamír_   |
+| **worker**            | `K1aK2K3ir`           | n     | one who does it                   | _ramkir_  | _dalkir_  | _thamrir_  |
+| **deed**              | `K1uK2áK3`            | v, n  | the doing of it                   | _rumák_   | _dulák_   | _thumár_   |
+| **mastery**           | `K1uK2K2áK3`          | v, n  | the doing of it as a master       | _rummák_  | _dullák_  | _thummár_  |
+| **reflexive**         | `K1atuK2áK3`          | v     | doing it to oneself or each other | _ratumák_ | _datulák_ | _thatumár_ |
+| **place**             | `huK1aK2K3`           | n     | where it is done                  | _huramk_  | _hudalk_  | _huthamr_  |
+| **done thing**        | `K1iK2K3ath`          | n     | what has been made                | _rimkath_ | _dilkath_ | _thimrath_ |
+| **given name, man**   | `K1VK2K3Vn`           | name  | a man's name (below)              | _Ramkan_  | _Dalkan_  | _Thamran_  |
+| **given name, woman** | `K1VK2K3V`            | name  | a woman's name (below)            | _Ramka_   | _Dalka_   | _Thimri_   |
 | **compound**          | `bare` + `a` + `deed` | n     | two skeletons in one word         | —         | —         | —          |
 
 So from **d-l-k** alone: _dalk_ "stone", _dalkir_ "mason", _dulák_ "the cutting of stone", _hudalk_ "quarry", _dilkath_ "a dressed block". A Khazári hearing _dalkir_ for the first time does not learn a word; he recognises a skeleton in a frame he already knows.
 
-The adjective frame makes a word distinct from the bare noun on the same skeleton, so _kharv_ is "the unlit", a thing, and _kharív_ is "unlit", a quality. The mastery frame doubles the middle consonant: _thummár_ is to strike as a master strikes, and the craft-records use it of work no apprentice could have done. The reflexive frame sets a _t_ after the first consonant, parted from it by _a_ because no word opens on two consonants: _thatumár_ is to strike oneself, or to strike one another.
+The adjective frame makes a word distinct from the bare noun on the same skeleton, so _khalv_ is "the unlit", a thing, and _khalív_ is "unlit", a quality. The mastery frame doubles the middle consonant: _thummár_ is to strike as a master strikes, and the craft-records use it of work no apprentice could have done. The reflexive frame sets a _t_ after the first consonant, parted from it by _a_ because no word opens on two consonants: _thatumár_ is to strike oneself, or to strike one another.
 
 The frames are a closed set. A speaker who needs a word Khazári has not got does not borrow one—he takes the nearest skeleton and pours a frame through it, and every other speaker understands the result at once. This is why the language has absorbed so little from its neighbours, and why the Khazári regard borrowing as an admission of poverty rather than a courtesy.
 
@@ -152,7 +152,7 @@ A few words are older than the frames and keep shapes the frames no longer make.
 
 Khazári is **Subject-Verb-Object**, and the order does not move:
 
-- _Dalkir thumár-ak kald_—"The mason strikes the course"
+- _Dalkir thumár-ak ramkam_—"The mason strikes the course"
 
 The actor, the act and the thing acted upon, in that sequence. Khazári rhetoric treats any other order as evasion. Inscriptions are the one exception: an inscription may set the verb last, an archaic order kept for carved stone and never spoken.
 
@@ -190,7 +190,7 @@ A verb carries a tense suffix, an aspect prefix, or both. An aspect prefix with 
 
 #### Being
 
-Khazári says "is" by saying nothing: _Ol dalkir_ is "He is a mason". The past and the future take the verb _zuvák_, "to be, to stand": _Ol zuvák-ag dalkir_, "He was a mason".
+Khazári says "is" by saying nothing: _Vog dalkir_ is "He is a mason". The past and the future take the verb _zuvák_, "to be, to stand": _Vog zuvák-ag dalkir_, "He was a mason".
 
 ### Nouns
 
@@ -236,10 +236,10 @@ The six cases are the same six Sinalë keeps, which is the strongest single piec
 
 An adjective is a skeleton in the adjective frame. It stands before its noun and agrees with it in gender, number and case, taking the same suffixes in the same order:
 
-- _kharív dalk_—"unlit stone"
-- _kharívev lakamev_—"an unlit lamp"
-- _kharívez dalkez_—"unlit stones"
-- _kharívith dalkith vanth_—"the oath of the unlit stone"
+- _khalív dalk_—"unlit stone"
+- _khalívev lakamev_—"an unlit lamp"
+- _khalívez dalkez_—"unlit stones"
+- _khalívith dalkith vanth_—"the oath of the unlit stone"
 
 Poetic inversion is permitted and is immediately recognisable as poetry.
 
@@ -247,12 +247,12 @@ Poetic inversion is permitted and is immediately recognisable as poetry.
 
 | Form   | Class | Sense                                           |
 | ------ | ----- | ----------------------------------------------- |
-| `ak`   | pron  | I                                               |
-| `dur`  | pron  | you                                             |
-| `ol`   | pron  | he, she, it                                     |
-| `akhn` | pron  | we                                              |
-| `durn` | pron  | you (many)                                      |
-| `oln`  | pron  | they                                            |
+| `gaz`  | pron  | I                                               |
+| `ves`  | pron  | you                                             |
+| `vog`  | pron  | he, she, it                                     |
+| `gazn` | pron  | we                                              |
+| `vesn` | pron  | you (many)                                      |
+| `vogn` | pron  | they                                            |
 | `kez`  | dem   | this, these                                     |
 | `koz`  | dem   | that, those                                     |
 | `thov` | part  | not; stands before the verb                     |
@@ -260,13 +260,13 @@ Poetic inversion is permitted and is immediately recognisable as poetry.
 | `bek`  | conj  | and                                             |
 | `zi`   | rel   | who, which, that; opens a clause after its noun |
 
-A pronoun takes case like a noun. The pronoun _ak_ "I" and the present suffix _-ak_ sound alike and are never confused, because a pronoun stands before its verb and the suffix after it. The demonstratives take no suffix and stand before the noun and any adjective.
+A pronoun takes case like a noun. The demonstratives take no suffix and stand before the noun and any adjective.
 
-- _Dalkir thov thumár-ak kaldam_—"The mason does not strike the course"
-- _Dalkir thumár-ak kaldam zef_—"Does the mason strike the course?"
-- _dalkir zi thumár-ak kaldam_—"the mason who strikes the course"
-- _koz kharív dalk_—"that unlit stone"
-- _dalkir bek kaldir_—"the mason and the layer of courses"
+- _Dalkir thov thumár-ak ramkam_—"The mason does not strike the course"
+- _Dalkir thumár-ak ramkam zef_—"Does the mason strike the course?"
+- _dalkir zi thumár-ak ramkam_—"the mason who strikes the course"
+- _koz khalív dalk_—"that unlit stone"
+- _dalkir bek ramkir_—"the mason and the layer of courses"
 
 ### Numbers
 
@@ -294,7 +294,7 @@ Khazári compounds two skeletons by setting the first in the bare frame, the sec
 
 - _dalk_ and _thumár_ give _dalkathumár_, "the striking of stone"
 - _gald_ and _vulád_ give _galdavulád_, "the binding of fire"—the tempering of a blade
-- _barz_ and _guráz_ give _barzaguráz_, "the guarding of the gate"
+- _tanv_ and _guráz_ give _tanvaguráz_, "the guarding of the gate"
 
 The compound is one word, stressed on its acute, and it means exactly what its two skeletons mean in that order. The same device makes house names, which is why a Khazári house name is a sentence about a craft and not a description of a person.
 
@@ -339,15 +339,15 @@ Inter-stronghold communication is maintained through formal written records and 
 
 ## Sample Phrases
 
-- _Ol dalkir, ol kr-kulád hukaldum_—"He is a mason; he has laid the course in the workhall" (an introduction, and a claim to competence)
-- _Thamr-ol tharn, vald-ol varn_—"From the blow, the hammer-fall; from the binding, the true line" (a proverb: results follow method)
-- _Ak gl-thumár, dur gl-zumád_—"I strike as a trade, you assay as a trade" (a division of work, and by extension an acknowledgment of another's mastery)
-- _Kald kr-sumád, kald thumár-aktor_—"The course has been raised; the course will be struck again" (said over a finished work, and at funerals)
-- _Vanthith dalk, vanthith marg_—"Oath of stone, oath of bone" (the strongest form of undertaking)
+- _Vog dalkir, vog kr-rumák ramkam huramkum_—"He is a mason; he has laid the course in the workhall" (an introduction, and a claim to competence)
+- _Thamrol dhank, valdol varn_—"From the blow, the hammer-fall; from the binding, the true line" (a proverb: results follow method)
+- _Gaz gl-thumár, ves gl-zumád_—"I strike as a trade, you assay as a trade" (a division of work, and by extension an acknowledgment of another's mastery)
+- _Ramk kr-na-sumád, ramk na-thumár-aktor_—"The course has been raised; the course will be struck" (said over a finished work, and at funerals)
+- _Dalkith vanth, margith vanth_—"Oath of stone, oath of bone" (the strongest form of undertaking)
 
 ## Related Languages
 
-Khazári is one of the **two surviving Elder Tongues**, descended from a **common Elder ancestor** shared with Sinalë. The kinship is not audible. Sinalë runs on open syllables, long vowels and a soft inventory; Khazári runs on clusters, short vowels and back fricatives, and a speaker of either needs to be told the two are related before he will believe it.
+Khazári is one of the **two surviving Elder Tongues**, descended from a **common Elder ancestor** shared with Sinalë. The kinship is not audible. Sinalë runs on open syllables, long vowels and a soft inventory; Khazári runs on clusters, short vowels and back fricatives, and nothing in the sound of either suggests the other.
 
 What the two share is a habit no human tongue on Thalorna has: **both make a new word by altering the body of an old one rather than by hanging a piece on its end.** Khazári pours a different vowel frame through a fixed skeleton; Sinalë changes the consonant a word begins with according to the work the word is doing. Case is suffixed in both, but that is the shallow layer—the deep one is inside the word.
 
@@ -375,7 +375,7 @@ Each daughter shows its own sound changes. Sinalë turned a final _m_ into _n_ a
 
 A Khazári carries a **given name** and a **house name**, and the two are built by different frames, so no Khazári has ever mistaken one for the other:
 
-1. A **given name** is a single skeleton in a **given-name frame**. It is short—two or three syllables—it never carries an acute, and it always ends in a vowel or in that vowel followed by _-n_.
+1. A **given name** is a single skeleton in a **given-name frame**. It is short—two or three syllables—it never carries an acute, and it always ends in a vowel or in that vowel followed by _n_.
 2. A **house name** is **two skeletons compounded**, exactly as any other Khazári compound is built. It is four or five syllables, it always carries the acute of the deed frame, and it always ends in a consonant.
 
 Length, the acute and the final sound therefore separate the two on sight, which matters in a culture that carves both onto the same lintel.
@@ -422,41 +422,41 @@ House names have no gendered form at all. A woman of Dalkathumár is of Dalkathu
 
 ### Male Given Names
 
-Kaldan, Kildin, Kuldun, Dalkan, Delken, Dolkon, Thamran, Thimrin, Thumrun, Kevalen, Kivalin, Sekaren, Sikarin, Sokaron, Narvan, Nirvin, Nurvun, Gelden, Gildin, Guldun, Kherden, Khirdin, Khordon, Vezaden, Vuzadun, Varthan, Virthin, Vorthon, Melthen, Milthin, Tergen, Tirgin, Zamdan, Zimdin, Falnan, Filnin, Fulnun, Kharvan, Khirvin, Ganvan, Gunvun, Palthan, Pilthin, Vanthan, Vinthin, Derkhen, Dorkhon, Mirgin, Murgun, Thernen, Thornon, Thurnun, Valdan, Voldon, Gamzan, Gimzin, Helben, Holbon, Garfan, Girfin, Balgan, Bulgun, Samdan, Simdin, Tevaren, Tovaron, Zerken, Zorkon, Ferden, Furdun, Khalnan, Khilnin, Revaden, Rovadon, Demgen, Domgon, Thalgan, Thilgin, Vernen, Vornon, Berzen, Borzon, Lekamen, Lokamon, Hanthan, Hinthin, Ranthan, Rinthin, Salthan, Silthin, Gerzen, Gorzon, Tamkan, Timkin, Khevanen, Khivanin, Sakalan, Sikalin
+Ramkan, Rimkin, Rumkun, Dalkan, Delken, Dolkon, Thamran, Thimrin, Thumrun, Kevalen, Kivalin, Sekaren, Sikarin, Sokaron, Nalpan, Nilpin, Nulpun, Gelden, Goldon, Guldun, Kherden, Khirdin, Khardan, Vetamen, Vutamun, Varthan, Virthin, Vorthon, Molthon, Milthin, Pernen, Pirnin, Zamdan, Zimdin, Famgan, Fimgin, Fumgun, Khalvan, Khilvin, Ganvan, Gunvun, Palzan, Pilzin, Vanthan, Vinthin, Derkhen, Dorkhon, Mirgin, Murgun, Dhenken, Dhonkon, Dhunkun, Valdan, Voldon, Gasvan, Gisvin, Helben, Holbon, Garfan, Girfin, Balgan, Bulgun, Samdan, Simdin, Tevaren, Tovaron, Zenthen, Zonthon, Ferden, Furdun, Khalnan, Khilnin, Revaden, Rovadon, Hemken, Homkon, Thalgan, Thilgin, Vernen, Vornon, Tenven, Tonvon, Lekamen, Lokamon, Hanthan, Hinthin, Ranthan, Rinthin, Salthan, Silthin, Gerzen, Gorzon, Tamkan, Timkin, Khevanen, Khivanin, Sakalan, Sikalin
 
 ### Female Given Names
 
-Kalda, Kildi, Kuldu, Dalka, Delke, Dolko, Thimri, Thumru, Kevale, Kivali, Sekare, Sokaro, Nirvi, Nurvu, Gelde, Gildi, Kherde, Khirdi, Vezade, Vuzadu, Vartha, Virthi, Melthe, Milthi, Terge, Tirgi, Zamda, Zimdi, Falna, Filni, Kharva, Khirvi, Ganva, Gunvu, Paltha, Pilthi, Vantha, Vinthi, Derkhe, Dorkho, Mirgi, Murgu, Therne, Thorno, Velde, Voldo, Gamza, Gimzi, Helbe, Holbo, Garfa, Girfi, Balga, Bulgu, Samda, Simdi, Tevare, Tovaro, Zerke, Zorko, Ferde, Furdu, Khalna, Khilni, Revade, Rovado, Demge, Domgo, Thalga, Thilgi, Verne, Vorno, Berze, Borzo, Lekame, Lokamo, Hantha, Hinthi, Rantha, Rinthi, Saltha, Silthi, Gerze, Gorzo, Tamka, Timki, Khevane, Sakala, Sikali
+Ramka, Rimki, Rumku, Dalka, Delke, Dolko, Thimri, Themre, Kevale, Kivali, Sekare, Sokaro, Nilpi, Nulpu, Gelde, Goldo, Kherde, Khirdi, Vetame, Vutamu, Verthe, Vortho, Moltho, Milthi, Perne, Pirni, Zamda, Zimdi, Famga, Fimgi, Kholvo, Khilvi, Ganva, Genve, Palza, Pilzi, Vontho, Vunthu, Derkhe, Dorkho, Mirgi, Murgu, Dhenke, Dhonko, Velde, Voldo, Gasva, Gisvi, Helbe, Holbo, Garfa, Girfi, Balga, Bulgu, Samda, Simdi, Tevare, Tovaro, Zenthe, Zontho, Ferde, Furdu, Khelne, Khilni, Revade, Rovado, Hemke, Homko, Thalga, Thilgi, Verne, Vorno, Tenve, Tonvo, Lekame, Lokamo, Henthe, Hontho, Renthe, Rinthi, Selthe, Sulthu, Gerze, Gorzo, Tamka, Timki, Khevane, Sakala, Sekale
 
 ### House Names (Patrilineal)
 
 | House          | Gloss                         |
 | -------------- | ----------------------------- |
 | `Dalkathumár`  | the striking of stone         |
-| `Sakarapuláth` | the folding of iron           |
+| `Sakarapuláz`  | the folding of iron           |
 | `Galdavulád`   | the binding of fire           |
-| `Kharvagunáv`  | the delving of the unlit      |
-| `Barzaguráz`   | the guarding of the gate      |
+| `Khalvagunáv`  | the delving of the unlit      |
+| `Tanvaguráz`   | the guarding of the gate      |
 | `Tavarasuláth` | the pouring of the deep water |
 | `Margavuráth`  | the bearing of the bone       |
 | `Halbazumád`   | the assay of silver           |
 | `Thalgahunáth` | the spanning of the snow      |
 | `Ravadarunáth` | the reckoning of the vein     |
-| `Kaldasumád`   | the raising of the course     |
+| `Ramkasumád`   | the raising of the course     |
 | `Vanthakhuván` | the chanting of the oath      |
-| `Narvafurád`   | the enduring of the cold      |
-| `Zarkaguráf`   | the whetting to brightness    |
-| `Falnadurákh`  | the holding of the deep       |
+| `Nalpafurád`   | the enduring of the cold      |
+| `Zanthaguráf`  | the whetting to brightness    |
+| `Famgadurákh`  | the holding of the deep       |
 | `Lakamakhulán` | the lamp in the silence       |
 | `Balgatumák`   | the trust of copper           |
-| `Malthaturág`  | the root of salt              |
-| `Targasumád`   | the raising from deep ground  |
-| `Vazadakulád`  | the course that endures       |
+| `Malthapurán`  | the root of salt              |
+| `Parnasumád`   | the raising from deep ground  |
+| `Vatamarumák`  | the course that endures       |
 | `Khardavurán`  | the hold set true             |
-| `Damgathurán`  | the note of the hammer-fall   |
-| `Ganvadumág`   | the note of the delving       |
+| `Hamkadhunák`  | the note of the hammer-fall   |
+| `Ganvahumák`   | the note of the delving       |
 | `Valdasukár`   | the binding of iron           |
-| `Kavalazurák`  | the shaping to brightness     |
+| `Kavalazunáth` | the shaping to brightness     |
 
 ## External References
 
