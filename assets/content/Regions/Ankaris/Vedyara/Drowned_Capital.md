@@ -16,7 +16,7 @@ The Mahānadi has changed its course four times within written record, each time
 
 The kingdom-period chronicle in [[place-rajavalilib|the Rājavalī Library]] names the place and gives the year of the move, and the Memory-Keeper's recitation carries both. What the chronicle does not carry is a plan of the town, so the extent of what is down there is guessed from where the nets catch.
 
-Nothing has been raised from it. The water is deep, the current is fast in the wet season, and the fishermen regard the site as a hazard rather than an opportunity.
+A fisherman of the reach gives a newcomer one rule for these waters: do not set a net twice in the same place. Nothing has been raised from it. The water is deep, the current is fast in the wet season, and the fishermen regard the site as a hazard rather than an opportunity.
 
 ## The Drowning
 

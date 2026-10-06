@@ -26,7 +26,7 @@ Palm-leaf does not last in a wet country. The library recopies on a thirty-year 
 
 ## Who Comes
 
-Historians come from across the region and are admitted. The Rājapuri answer to anyone who asks why a dissolved dynasty is archived in this detail is that the dissolution was a judgment, and that a judgment is only as good as the record behind it.
+Historians come from across the region and are admitted. The question they ask at the desk is why a dissolved dynasty is kept in this detail, and the answer they are given is the commentary's own: the dissolution was a judgment, and a judgment is only as good as the record behind it.
 
 What a visiting scholar is not shown without the Memory-Keeper's word is the correspondence shelf in [[place-shitakoshtha|Shitakoshtha]], which holds letters to and from janapadas and kingdoms about the dissolution and about whether it should be repeated elsewhere. Some of that correspondence is sixty years old and some of it arrived this year.
 

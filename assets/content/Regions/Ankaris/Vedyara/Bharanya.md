@@ -20,7 +20,7 @@ The town belongs to a janapada of the Mahānadi circuit and holds no seat of its
 
 ## The Mounds
 
-Nothing here is built on the flood-plain proper. Bharanya sits on four artificial mounds raised over generations, joined by causeways that stand about a man's height above the wet-season water, and the temple sits on the largest and oldest of them. In a bad year the causeways go under and the town becomes four islands for a month, which the townspeople treat as weather rather than as disaster.
+Nothing here is built on the flood-plain proper. Bharanya sits on four artificial mounds raised over generations, joined by causeways that stand about a man's height above the wet-season water, and the temple sits on the largest and oldest of them. In a bad year the causeways go under and the town becomes four islands for a month, which the townspeople treat as weather rather than as disaster. A pilgrim-guide of the town tells you to come after the fall of the water, when the causeways are dry and the flood-rites are done.
 
 The river has come at the mounds twice within written record and taken neither. It has taken the landing four times, and the landing has been rebuilt four times, twice in a different place.
 
