@@ -7,7 +7,9 @@ description: "The Vedyari—their beliefs, their mores, and what they hold a per
 tags: []
 ---
 
-The Vedyari are one people across a map that has never been one state. A scholar from a southern harbour who lands at a northern pass-kingdom finds the temple, the assembly, the stations and the classical curriculum all intelligible on the first day, and the coinage and the king strange. What holds across [[place-vedyarargn|Vedyara]] is the station a person is born to, the household that station sits in, and the rites that mark both. What varies is who collects the tax.
+The Vedyari are one people across a map that has never been one state. A scholar from a southern harbor who lands at a northern pass-kingdom finds the temple, the assembly, the stations and the classical curriculum all intelligible on the first day, and the coinage and the king strange. What holds across [[place-vedyarargn|Vedyara]] is the station a person is born to, the household that station sits in, and the rites that mark both. What varies is who collects the tax.
+
+A Ritūja who keeps the school at a janapada temple, asked by a foreign student where to begin, begins at the wrist. "Before you learn our gods or our grammar, learn where to look when someone gives you their hand. Everyone you meet here has already read yours, and found nothing there, and decided what that means."
 
 ## The Wrist-Line
 
@@ -15,7 +17,9 @@ A Vedyari is named eight days after birth, and the naming leaves a mark: two sig
 
 The mark is the document. A temple gate asks to see the wrist, and so does a sabhā before it seats a speaker, a court before it hears a party, and a bride's household before it agrees to anything. None of them asks for a word about it; they read it themselves.
 
-Hiding a station means wrapping the wrist. It is not a rare thing and it is not, in itself, an offense. A ship's master does not ask. Neither does a pass-guide, and the guide-peoples of the wall carry no mark of their own to compare it with. The [[affiliation-twilighths|Twilight House]] teaches the wrap as a fashion, which is exactly why a wrapped wrist in a city means less than it would in a village.
+A foreigner's bare wrist is read as well. It carries no station, so it says nothing about where its owner may draw water or sit, and the safe course for a traveler is to wait to be shown: to the well, to a seat, to the dish. Asking is no discourtesy here; guessing wrong is.
+
+Hiding a station means wrapping the wrist. It is common, and it is no offense in itself. A ship's master does not ask. Neither does a pass-guide, and the guide-peoples of the wall carry no mark of their own to compare it with. The [[affiliation-twilighths|Twilight House]] teaches the wrap as a fashion, which is exactly why a wrapped wrist in a city means less than it would in a village.
 
 ## The Stations
 
@@ -31,7 +35,7 @@ The order runs from outside it upward, and every station is a station a person c
 | Ritūja                              | for the temple, never for pay                                                                                         | through the temple                              | all three, and holds the court | convenes it                   | on a sanctioned ordeal, or as an ascetic             |
 | Sāmanta, Kulina, Sabhāsad and above | yes                                                                                                                   | yes                                             | all three                      | yes                           | by leave of court, council or sabhā                  |
 
-A Ritūja who takes pay for arms is Patita—fallen—and the ordination ends with the payment. That is the sharpest of the station rules and the one a Vedyari will quote first.
+A Ritūja who takes pay for arms is Patita—fallen—and the ordination ends with the payment. It is the sharpest of the station rules, and the first one a temple school teaches.
 
 ## Leaving a Station, Losing It, Hiding It
 

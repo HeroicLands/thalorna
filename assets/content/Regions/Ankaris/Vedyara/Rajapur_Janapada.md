@@ -86,21 +86,28 @@ sohl: {system: {commonSkills: [vedyarlng]}}
 # terran_analog: "Medieval South Indian temple-republic that emerged from the ruins of a failed kingdom—a Chola-era brahmadeya village federation centered on a temple complex built atop or alongside an abandoned royal capital, governed by an assembly that explicitly preserves the memory of the displaced dynasty"
 ---
 
-The **Rājapur Janapada** is the federation of the villages of the central Mahānadi plain, and it took its name and its temple-seat from the ruins of an ancient royal capital. It is one of the larger and wealthier janapadas of the [[affiliation-janpdsvdyr|Mahā-Sangha]]. Every Vedyari political-philosophy curriculum recites it as the classical case of a janapada that **replaced** a kingdom where the others grew up beside one. The janapada holds the land of [[place-rajapurjnpd|Rājapur Janapada]].
+The **Rājapur Janapada** dissolved its own kingdom, and it has opened every session of its assembly since by reciting the kings it ended. It is the federation of the villages of the Mahānadi floodplain in the central plains, one of the larger and wealthier janapadas of the [[affiliation-janpdsvdyr|Mahā-Sangha]], and it took its name and its temple-seat from the ruins of a royal capital. Every Vedyari course in political philosophy teaches it as the classical case of a janapada that **replaced** a kingdom where the others grew up beside one. The janapada holds the land of [[place-rajapurjnpd|Rājapur Janapada]].
 
-The "King's-Town" of the name is a memory. There is no longer a king. There has not been one for nine hundred years.
+The "King's-Town" of the name is a memory. There has been no king here for nine hundred years and more.
+
+Visiting scholars are met at the gate of the [[place-rajavalilib|Rājavalī Library]] by one of the Memory-Keeper's junior scribes, and the first thing the scribe tells them is a warning. "If you have come for the Day of the Dissolution, you will get nothing done on it. Nobody sells, nobody works, nobody opens a book but the one being read aloud. Come the day after, and the whole town will want to tell you why."
 
 ## The Fall of the Kingdom
 
-Rājapur was the capital of the **Kingdom of Mahānadi**, a middling Vedyari kingdom of the early classical period. Its ruling dynasty traced its descent from a heroic ancestor of legendary virtue, as Vedyari dynasties generally do. The kingdom flourished for perhaps four centuries. It dominated the upper Mahānadi valley, fielded a respectable army, kept extensive temple-patronage, and produced several monarchs the classical chronicles recount as exemplary.
+Rājapur was the capital of the **Kingdom of Mahānadi**, a middling Vedyari kingdom of the early classical period. Its ruling dynasty traced its descent from a heroic ancestor of legendary virtue, as Vedyari dynasties generally do. The chronicles give it perhaps four centuries of flourishing, in which it dominated the upper Mahānadi valley, fielded a respectable army, kept extensive temple-patronage, and produced several monarchs the classical chronicles recount as exemplary.
 
-It collapsed from within, in the standard Vedyari narrative of kingly decline. The Memory-Keepers recite the last six monarchs as a procession of progressively worse rulers: a dilettante, a cruel man, an incompetent, a paranoiac, a child-tyrant, and a drunkard who let his own household guards loot the granaries while a famine ran in the villages around him. The last king was poisoned, by tradition, by his own cook, who could no longer endure the suffering of his neighbors.
+It collapsed from within, in the standard Vedyari narrative of kingly decline. The Memory-Keepers recite the last six monarchs as a procession of progressively worse rulers: a dilettante, a cruel man, an incompetent, a paranoiac, a child-tyrant, and a drunkard who let his own household guards loot the granaries while a famine ran in the villages around him. Tradition holds that the last king was poisoned by his own cook, who could no longer endure the suffering of his neighbors.
 
-The populace sought no other king. They went to the senior priest of the great Vyālendra temple, which still stood beside the royal palace on centuries of dynastic patronage, and asked him to convene a sabhā.
+The people sought no other king. They went to the senior priest of the great Vyālendra temple, which stood beside the royal palace on centuries of dynastic patronage, and asked him to convene a sabhā.
 
-The sabhā was convened. It met for forty days. It declared the kingdom dissolved and the dynastic line ended, with full honors and ceremonial acknowledgment of what the line had done in its better generations. It reorganized the territory of the former kingdom as a federation of villages governed jointly through the temple. The royal palace was demolished and its stones went to enlarge the temple. The royal granaries became common stores. The royal army was disbanded, and its men were given parcels of land and absorbed into the cultivator and artisan castes of the new janapada.
+The sabhā met for forty days. It declared the kingdom dissolved and the dynastic line ended, with full honors and ceremonial acknowledgment of what the line had done in its better generations, and it reorganized the former kingdom as a federation of villages governed jointly through the temple. Every clause of the decree decided what to keep and what to unmake:
 
-The classical chronicles put this at **−240 AF** in the [[affiliation-vylarinmpr#the-common-calendar|Common Calendar]], about nine hundred and sixty years ago. Rājapur has governed itself by the same arrangement ever since, with adjustments at the margins.
+- **The palace** was demolished, and its stones went to enlarge the temple. Its cellars lie open at the north end of the town as [[place-palacecellar|the Palace Cellars]].
+- **The royal granaries** became common stores.
+- **The royal army** was disbanded, and its men were given parcels of land and taken into the cultivating and artisan households of the new janapada.
+- **The council-chamber** was kept, and the record in it was kept whole.
+
+The classical chronicles put this at **−240 AF** in the [[affiliation-vylarinmpr#the-common-calendar|Common Calendar]], M 240 in the [[lore-mdhvndrcnt|Mādhavendra count]], some nine hundred and sixty years ago. Rājapur has governed itself by the same arrangement ever since, with adjustments at the margins.
 
 [[lore-fortydays|The Forty Days]] records the sabhā's answer:
 
@@ -112,12 +119,12 @@ The classical chronicles put this at **−240 AF** in the [[affiliation-vylarinm
 
 ## The Memory-Keeper
 
-Rājapur's governance carries one office no other janapada has, the **Memory-Keeper**. A single family has held it in continuous succession since the dissolution. The Memory-Keeper's responsibilities are:
+Rājapur's government carries one office no other janapada has, the **Memory-Keeper** (Smrtibhāra). A single family has held it in continuous succession since the dissolution, and its duties are four:
 
-- To keep the complete genealogy of the displaced royal line, before the dissolution and notionally after it. The line ended with the last king, who left no surviving descendants. The Memory-Keeper keeps a genealogy of who would have inherited had it continued, and each generation a new "what would have been" name is recorded.
-- To recite the dynastic history at the opening of every formal sabhā session—in full, from the founding ancestor through the dissolution, and concluding with the formal acknowledgment that the kingdom is no more and the janapada governs in its place.
-- To advise the sabhā on questions where the precedents of the old kingdom might bear on present decisions. The Memory-Keeper does not vote and does not have policy authority; the role is consultative and ceremonial.
-- To keep the **Rājavalī Library**—the archive of every chronicle, treaty, and legal text from the kingdom-period, plus the continuous archive of every sabhā session since the dissolution. The library is housed in what was once the royal council-chamber, now an annex of the temple complex.
+- **The genealogy.** The Memory-Keeper keeps the complete genealogy of the displaced royal line, before the dissolution and notionally after it. The last king left no surviving descendants, so the genealogy records who would have inherited had the line continued, and each generation a new "what would have been" name is entered.
+- **The recitation.** At the opening of every formal session of the sabhā, the Memory-Keeper recites the dynastic history in full, from the founding ancestor through the dissolution, and concludes with the formal acknowledgment that the kingdom is no more and the janapada governs in its place.
+- **The precedents.** The Memory-Keeper advises the sabhā where the precedents of the old kingdom bear on a present decision. The office has no vote and no authority over policy; it is consultative and ceremonial.
+- **The library.** The Memory-Keeper keeps [[place-rajavalilib|the Rājavalī Library]], the archive of every chronicle, treaty and legal text of the kingdom-period and of every sabhā session since the dissolution. It is housed in the old royal council-chamber, now an annex of the temple complex.
 
 Each session's [[lore-rcitkngsmhnd|Recitation of the Kings of Mahānadi]] closes on the janapada itself:
 
@@ -130,60 +137,60 @@ The janapada governs in its place,
   and does so by your leave.
 ```
 
-The Memory-Keepers are now one of the most respected scholarly families in inland Vedyara. Historians from across the region consult their library. Their authority on questions of Vedyari political history is unmatched, and their ceremonial role in the sabhā is taken with great seriousness. The current Memory-Keeper, **Rāmavāhana Smrti-Bhāra**, is a man in his late fifties, quiet and scholarly, and the author of the most respected modern commentary on the dissolution.
+The Memory-Keepers are one of the most respected scholarly families in inland Vedyara. Historians from across the region consult their library, their authority on Vedyari political history has no rival, and their ceremonial role in the sabhā is taken with great seriousness. The present Memory-Keeper, **Rāmavāhana Smrti-Bhāra**, is a quiet scholar in his late fifties and the author of the most respected modern commentary on the dissolution.
 
-Visiting scholars ask why a dynasty that cannot return is kept in memory at all. The Rājapuri answer is that the dissolution was a _judgment_, that the kingdom failed because it deserved to fail, and that the recitation is the standing reminder of why kingship is dangerous. The sabhā governs by consent of the constituent villages, and it is to remember that any government, its own included, can fail and be dissolved by the process that ended the Kingdom of Mahānadi.
+Visiting scholars ask why a dynasty that cannot return is kept in memory at all. The Rājapuri answer is that the dissolution was a _judgment_: the kingdom failed because it deserved to fail, and the recitation is the standing reminder of why kingship is dangerous. The sabhā governs by consent of the constituent villages, and the recitation reminds it that any government, its own included, can fail and be dissolved by the process that ended the Kingdom of Mahānadi.
 
-## The Vyālendra Temple
+## The Sabhā and the Temple
 
-The great **Vyālendra temple** at Rājapur is the religious and political heart of the janapada. Vyālendra is the creator-deity of the [[affiliation-varakpnthn|Varnaka pantheon]], the world's first light, the shaper from whom all forms emerge. The temple's main hall holds the original altar of Vyālendra, a sandstone block of remarkable craftsmanship cut at the founding of the dynastic capital twelve centuries ago, and the great hall in which the sabhā meets. The outer courts hold the four-storied granary-building, still working as the community granary, the Rājavalī Library, the school open to the children of every constituent village, and the great pilgrim hostel that takes the Vyālendra-pilgrims who come from across central Vedyara at the spring festival.
+The sabhā has thirty-six members, convened by the senior priest of the great Vyālendra temple. Each constituent village sends its representatives, and the principal artisan, merchant and scholar guilds of the central town hold seats. The Memory-Keeper sits with it by long tradition and opens every formal session.
 
-The senior priest of the Vyālendra temple is, by long custom, the convenor of the sabhā. **Karunāmaya Padma-Hasta** holds both offices. She is a woman of perhaps sixty, the third woman to hold the position in the janapada's history, and a respected theologian of the Vyālendra tradition. She has presided over the sabhā for fourteen years, and with the Memory-Keeper she is the senior ceremonial figure of the polity.
+The great **Vyālendra temple** at [[place-rajapur|Rājapur]] is the religious and political heart of the janapada. Vyālendra is the creator of the [[affiliation-varakpnthn|Varnaka pantheon]], the world's first light, the shaper from whom all forms emerge. The temple's main hall holds [[place-sandstonealtr|the original altar of Vyālendra]], a sandstone block cut at the founding of the dynastic capital twelve centuries ago, and the great hall in which the sabhā meets. The outer courts hold the four-story granary, still the community store; the Rājavalī Library; the school open to the children of every constituent village; and the great hostel that lodges the pilgrims who come from across central Vedyara at the spring festival.
+
+By long custom the senior priest of the temple convenes the sabhā. **Karunāmaya Padma-Hasta** holds both offices. She is a woman of about sixty, the third woman to hold the position in nine centuries, and a respected theologian of the Vyālendra tradition. She has presided over the sabhā for fourteen years, and with the Memory-Keeper she is the senior ceremonial figure of the polity.
 
 ## Society
 
-Rājapur's society is the standard Vedyari caste structure with one Rājapuri specialty, an unusually large and influential **scholar-caste**. It descends in part from the educated court-functionaries of the old kingdom, absorbed into the new order at the dissolution. The scholars live in and around the temple complex and staff the school, the library and the sabhā's secretariat. Rājapur's share of Vedyari classical scholarship is out of all proportion to its size.
+Rājapur keeps the ordinary Vedyari order of stations with one Rājapuri specialty: an unusually large and influential body of **scholar families**, descended in part from the educated court functionaries of the old kingdom and absorbed into the new order at the dissolution. They live in and around the temple complex and staff the school, the library and the sabhā's secretariat, and Rājapur's share of Vedyari classical scholarship is out of all proportion to its size.
 
-The merchant caste handles river-trade up and down the Mahānadi, the considerable manuscript trade out of the temple library included. The warrior caste is small and has largely merged with the artisan caste over the centuries. Rājapur has kept no military tradition since the dissolution and has needed none.
+The Dhanāja households handle the river trade up and down the Mahānadi, the considerable manuscript trade out of the temple library included. The Senāja households are few and over the centuries have largely merged into the artisan households. Rājapur has kept no military tradition since the dissolution and has needed none.
 
-## Religion
+## Religion and the Day of the Dissolution
 
-Beyond the great Vyālendra temple at the center, Rājapur maintains shrines to the other Varnaka deities throughout the constituent villages—most prominently the **Mahájaya** shrine at the upstream village of [[place-khandapura|Khandāpura]] (where farmers go to bless the irrigation works at planting season) and the **Rásikara** cremation-ground shrine at the downstream village of [[place-mukteshvara|Mukteshvara]] (where the dead of every constituent village are received). The standard Vedyari religious calendar is observed with full Rājapuri ceremonial elaboration; the Spring Festival of Vyālendra is the great annual event, drawing perhaps fifteen thousand visitors from neighboring janapadas and city-states.
+Beyond the great Vyālendra temple, Rājapur keeps shrines to the other Varnaka gods throughout its villages. The two that matter most are the **Mahájaya** shrine at the upstream village of [[place-khandapura|Khandāpura]], where farmers bless the irrigation works at planting, and the **Rásikara** cremation-ground at the downstream village of [[place-mukteshvara|Mukteshvara]], which receives the dead of every constituent village. The standard Vedyari religious calendar is kept with full Rājapuri ceremony. The great event of the year is the **Spring Festival of Vyālendra**, which draws perhaps fifteen thousand visitors from neighboring janapadas and city-states.
 
-A distinctive Rājapuri religious observance is the **Day of the Dissolution**, held annually on the anniversary of the sabhā's dissolution decree. On this day no business is conducted, no labor performed, and the entire population gathers in the temple precincts to hear the Memory-Keeper recite the full dynastic history and the dissolution decree from beginning to end. The recitation takes most of the day. At its conclusion every adult Rājapuri drinks a cup of Mahānadi water blessed by the senior priest, and renews the janapada's compact by it. Children attend the recitation and do not drink the cup until their fifteenth year, when they are formally enrolled as citizens.
-
-The Day of the Dissolution is Rājapur's alone. Other janapadas keep their own founding-festivals, and none of them carries the weight of this one.
+The **Day of the Dissolution** falls each year on the anniversary of the decree, and it is Rājapur's alone. No business is done and no labor performed. The whole population gathers in the temple precincts to hear the Memory-Keeper recite the full dynastic history and the decree from beginning to end, which takes most of the day. At its close every adult Rājapuri drinks a cup of Mahānadi water blessed by the senior priest and renews the janapada's compact by it. Children attend and do not drink until their fifteenth year, when they are formally enrolled as citizens. Other janapadas keep founding festivals of their own, and none carries the weight of this one.
 
 ## Economy
 
-Rājapur is moderately wealthy by janapada standards. The temple holds a great deal, and holds it as community wealth in the ordinary janapada way. The senior priest lives no better than an ordinary Rājapuri scholar-caste household.
+Rājapur is moderately wealthy by janapada standards. The temple holds a great deal and holds it as community wealth in the ordinary janapada way, and its senior priest lives no better than any scholar household in the town. A modest endowment of common funds, built from centuries of pilgrim donations and managed by the temple, pays for famine relief, irrigation works, the school and the occasional substantial contribution to the Mahā-Mela.
 
-The janapada keeps a modest endowment of common funds, managed by the temple and drawn from centuries of pilgrim donations. It pays for famine relief, irrigation works, the school, and the occasional substantial contribution to the Mahā-Mela.
+The manuscript trade is the town's steadiest income, and the sugar the janapada is known for is cut and boiled at [[place-gudagrama|Gudagrāma]] and shipped from the town.
 
 ## Defense
 
-Rājapur has had no army since the dissolution. The villages can muster perhaps a thousand fighting men of the cultivator and artisan castes at need. The janapada's answer to a military threat is three other things. It appeals to its patron city-state, [[affiliation-chandrapur|Chandrapur]], under a formal protection arrangement kept for nearly two centuries. It appeals to the Mahā-Sangha for the threat of inter-janapada disapproval against the aggressor. And it trusts the Mahānadi floodplain, which is hard ground for a sustained campaign in the wet season.
+Rājapur has had no army since the dissolution. Its villages can muster perhaps a thousand fighting men at need, cultivators and artisans. Its answer to a military threat is threefold: an appeal to its patron city-state, [[affiliation-chandrapur|Chandrapur]], under a formal protection arrangement nearly two centuries old; an appeal to the Mahā-Sangha for inter-janapada disapproval of the aggressor; and the Mahānadi floodplain itself, which is hard ground for a sustained campaign in the wet season.
 
-The janapada has not been seriously threatened in living memory. The last armed conflict on Rājapuri territory was a bandit-clearing carried out jointly with two neighboring janapadas eighty-three years ago.
+The janapada has not been seriously threatened in living memory. The last armed conflict on Rājapuri ground was a bandit-clearing carried out jointly with two neighboring janapadas eighty-three years ago.
 
 ## Famous Figures
 
-**Karunāmaya Padma-Hasta**, current senior priest of the Vyālendra temple and convenor of the sabhā. Sixty years old, woman, third woman to hold the office in nine centuries.
-
-**Rāmavāhana Smrti-Bhāra**, current Memory-Keeper. Late fifties, scholar, author of the standard modern commentary on the dissolution.
-
-**Anuraja Harsadevambujakar** of Chandrapur, a Rājapuri-born scholar resident in [[affiliation-chandrapur|Chandrapur]]. Corresponds with several major Vedyari kingdoms on the merits of further dissolutions on the Rājapuri model. Controversial, and well received in some janapadas. The kingdoms call him a dangerous radical and have asked Chandrapur to expel him. Chandrapur has declined.
+- **Karunāmaya Padma-Hasta**: senior priest of the Vyālendra temple and convenor of the sabhā, about sixty, the third woman to hold the office in nine centuries.
+- **Rāmavāhana Smrti-Bhāra**: the Memory-Keeper, in his late fifties, author of the standard modern commentary on the dissolution.
+- [[being-anrjhrdvmbjkr|Anuraja Harsadevambujakar]]: a Rājapuri-born scholar resident in [[affiliation-chandrapur|Chandrapur]], who corresponds with several of the major Vedyari kingdoms on the merits of further dissolutions on the Rājapuri model. He is controversial and well received in some janapadas. The kingdoms call him a dangerous radical and have asked Chandrapur to expel him; Chandrapur has declined.
 
 ## Commerce and Currency
 
-Rājapur Janapada uses the [[lore-vdyrnbnkng|Vedyaran banking system]], administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. Foreign coin, weighed Khazryn metal and the Khelâthi gezan pieces, is exchangeable at frontier moneylenders at Collective-controlled rates. The Vedyaran system is the dominant medium of internal commerce. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
+Rājapur holds one of the five seats in the [[affiliation-assmblycmpct|Assembly of the Compact]], so its sabhā has a voice in the [[lore-vdyrnbnkng|Vedyaran banking system]] that the [[affiliation-mrchntclctvvdyr|Merchant Collective]] runs. Like every janapada it strikes no coin of its own; its river traders deal in the silver candra the Moon House strikes at Chandrapur and in whatever copper comes up the river. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
 
 ## See Also
 
 - [[place-rajapurjnpd|Rājapur Janapada]]—the land the janapada holds
-- [[affiliation-janpdsvdyr|Janapadas of Vedyara]]—parent confederation
-- [[place-vedyarargn|Vedyara]]—parent region
 - [[place-rajapur|Rājapur]]—the temple-seat, on the ground of the royal capital
+- [[place-rajavalilib|The Rājavalī Library]]—the Memory-Keeper's archive
+- [[lore-fortydays|The Forty Days]] and [[lore-rcitkngsmhnd|Recitation of the Kings of Mahānadi]]—the dissolution as the chronicle and the recitation keep it
+- [[affiliation-janpdsvdyr|Janapadas of Vedyara]]—parent confederation
 - [[affiliation-chandrapur|Chandrapur]]—patron city-state
 - [[affiliation-varakpnthn|Varnaka Pantheon]]—religious tradition
+- [[place-vedyarargn|Vedyara]]—parent region
 - [[skill-vedyarlng|Vedyari]]—language

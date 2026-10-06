@@ -94,74 +94,91 @@ sohl: {system: {commonSkills: [vedyarlng]}}
 # terran_analog: "Medieval South Indian temple-republic with mineral-resource wealth—Chola-era brahmadeya village federation centered on a gold-bearing mountain, governed by an unusually elaborate constitutional structure designed to prevent the concentration of mineral wealth in any one lineage or temple"
 ---
 
-The **Suvarnagiri Janapada** is the federation of the villages of the Bhārava highlands, governed jointly through three great temples of **Mahájaya** that ring the slopes of the gold-bearing mountain it is named for, _Suvarna_ (gold) _giri_ (mountain). Its population is thirty-five thousand. It is one of the wealthier and more elaborately governed janapadas of the [[affiliation-janpdsvdyr|Mahā-Sangha]]. Every Vedyari political-economy treatise takes it as the case-study in how a temple-republic holds mineral wealth without failing and without turning itself into a kingdom. The janapada holds the land of [[place-suvarnagirijnpd|Suvarnagiri Janapada]].
+The **Suvarnagiri Janapada** sits on a mountain of gold and has made nobody rich from it in fifteen centuries. It is the federation of the villages of the Bhārava highlands, thirty-five thousand people governed jointly through three great temples of **Mahájaya** that ring the slopes of the gold-bearing mountain the janapada is named for: _suvarna_ (gold), _giri_ (mountain). It is one of the wealthier and more elaborately governed janapadas of the [[affiliation-janpdsvdyr|Mahā-Sangha]], and every Vedyari treatise on political economy takes it as the case-study in how a temple-republic holds mineral wealth without failing and without turning itself into a kingdom. The janapada holds the land of [[place-suvarnagirijnpd|Suvarnagiri Janapada]], and it is known beyond its borders for its gold, its jewelers and its constitution, in that order.
 
-That it has not failed in fifteen centuries, and has not transformed itself into a kingdom in fifteen centuries, is the central political fact of Suvarnagiri.
+That it has neither failed nor become a kingdom in fifteen centuries is the central political fact of Suvarnagiri.
 
-## The Mountain
+The place to understand it is the rail of the [[place-weighingstn|weighing-station]] at Middle Suvarnagiri on the night of a new moon, when the clerk reads the month's gold aloud. A clerk who has done it for twenty years will tell a stranger at the rail what the ceremony is for. "Everything that came out of the mountain this month is on that table. You will hear the weight, and so will every household in the valleys by tomorrow. That is the whole of our law: nobody gets rich here in the dark."
 
-The gold sustains more than it enriches. Across the centuries the income has gone to the building and upkeep of the three great temples, to the temple schools and the training of priests, to the irrigation works that let the villages farm difficult upland ground, and to the famine reserves. The rest goes to the **Bhārava-Devasthāna**, an endowed network of free hostels for traveling priests and ascetics, kept at twenty-three sites along the major Vedyari pilgrimage routes. Very little gold has gone into private hands, and the constitution is what keeps it out.
+## The Mountain and Where the Gold Goes
+
+The [[place-goldmountain|Gold Mountain]] stands at the head of the [[place-bharavarivr|Bhārava]]. Its gold is alluvial, won from the wash of its streams by panning, and nobody digs into the mountain.
+
+The gold sustains more than it enriches. Across the centuries the income has built and kept the three great temples, paid for the temple schools and the training of priests, built the irrigation works that let the villages farm difficult upland ground, and filled the famine reserves. The rest goes to the **Bhārava-Devasthāna**, the [[place-bhrvdvsthna|endowed network of free hostels]] for traveling priests and ascetics, kept at twenty-three sites along the great pilgrimage routes. Very little gold has gone into private hands, and the constitution is what keeps it out.
 
 ## The Three Temples
 
-The three great Mahájaya temples stand at the three principal stream-confluences on the lower slopes of the mountain. **Upper Suvarnagiri** is at the junction of the two highest streams, **Middle Suvarnagiri** in the central valley below the principal panning grounds, and **Lower Suvarnagiri** at the foot of the mountain where the Bhārava river proper begins. The three are of a size, were built within a century of each other, and house Mahájaya altars of comparable craftsmanship. No one temple controls the janapada and no one priesthood controls the gold, and the convening of the sabhā rotates annually among the three senior priests.
+The three great Mahájaya temples stand at the three principal stream-confluences on the lower slopes:
 
-The rotation is what keeps power from gathering in one place. By long custom the sabhā cannot meet in one temple in two successive years, and the convening priest changes each year. The three priesthoods consult each other on every major question. Any priestly decision on the gold that fails to carry two of the three goes to the sabhā for review. The constitution is built to make a priestly faction hard to form and a rich priest impossible.
+- [[place-uppersuvtmpl|Upper Suvarnagiri]], at the junction of the two highest streams.
+- [[place-middlesuvtmpl|Middle Suvarnagiri]], in the central valley below the principal panning grounds, beside the weighing-station and the common treasury.
+- [[place-lowersuvtmpl|Lower Suvarnagiri]], at the foot of the mountain where the Bhārava proper begins, with the jewelers' quarter at its gate.
 
-Three senior priests hold the temples. **Suryamāhā Hiranya-Pāda** of Upper Suvarnagiri is in his seventies, the senior of the three by age, and a respected theologian. **Padmashrī Kanaka-Hasta** of Middle Suvarnagiri is a woman in her fifties, and is reckoned the most politically able of the three. **Vajranatha Tāmra-Mukha** of Lower Suvarnagiri is in his early forties, the youngest, recently elevated and still establishing his independent voice. The convening priest, by the rotation, is Padmashrī.
+The three are of a size, were built within a century of each other, and house Mahájaya altars of comparable craftsmanship. No one temple controls the janapada and no one priesthood controls the gold. The convening of the sabhā rotates each year among the three senior priests, and by long custom the sabhā cannot meet in the same temple in two successive years. The three priesthoods consult each other on every major question, and any priestly decision on the gold that fails to carry two of the three goes to the sabhā for review. The constitution is built to make a priestly faction hard to form and a rich priest impossible.
 
-## Society and the Gold Constitution
+Three senior priests hold the temples:
 
-Suvarnagiri's social structure is the standard Vedyari caste arrangement with one Suvarnagiri specialty, a body of law codified across many generations that governs how the gold is got, divided and spent. The main provisions of what is locally called the **Gold Constitution** are these:
+- **Suryamāhā Hiranya-Pāda** of Upper Suvarnagiri, in his seventies, the senior of the three by age and the senior theologian of the Suvarnagiri Mahájaya tradition.
+- **Padmashrī Kanaka-Hasta** of Middle Suvarnagiri, a woman in her fifties, reckoned the most politically able of the three. By the rotation she is the present convening priest.
+- **Vajranatha Tāmra-Mukha** of Lower Suvarnagiri, in his early forties, the youngest, recently elevated and still establishing his own voice.
 
-- **Hereditary panning rights** are vested in twenty-eight specific families across the villages. The number is fixed, and a new panning-family cannot be added without sabhā approval and the unanimous concurrence of the existing families. The panning families are not enriched by the work. They take a fixed wage from the sabhā and turn the gold they win over to the central temple weighing-station.
-- **Temple share** is one-half of all extracted gold, distributed in equal thirds among the three temples for the maintenance of their physical fabric, the support of their staff, and the funding of the schools and pilgrimage hostels.
-- **Common share** is one-quarter of all extracted gold, deposited in the **common treasury** at Middle Suvarnagiri and used for famine reserves, irrigation works, and emergency expenditures authorized by the sabhā.
-- **Distribution share** is one-quarter of all extracted gold, paid out yearly to every Suvarnagiri household. The payment is by household and not by head, so a household of two takes what a household of ten takes and the gold does not gather again in the larger families.
-- **Personal accumulation** is constitutionally limited. No Suvarnagiri household may hold more than a specified weight of gold (currently about twelve ounces) in any form. Excess holdings must be deposited in the common treasury, where they receive a small annual return and remain available to the household on request.
+## The Sabhā
 
-The provisions came in one at a time across the fifteen centuries, each sabhā amendment following some near-failure of the arrangement before it. The cap on personal holdings is six centuries old. A wealthy family tried to buy an amendment to the panning-family rolls in its own favor. The attempt was discovered, the family stripped of all its gold and exiled, and the cap codified.
+The sabhā has forty-eight members. Each constituent village sends two representatives, the artisan and merchant guilds together send twelve, and each of the three temples sends two. Decisions on gold (its extraction, its taxation and the allocation of the temple share) require a three-quarters majority, a deliberate brake against the concentration of mineral wealth.
+
+## The Gold Constitution
+
+Suvarnagiri keeps the ordinary Vedyari order of stations with one Suvarnagiri specialty: a body of law codified across many generations that governs how the gold is got, divided and spent. Locally it is called the **Gold Constitution**, and a newcomer needs its five provisions before anything else:
+
+- **Hereditary panning rights** are vested in twenty-eight named families across the villages. The number is fixed, and a new panning family cannot be added without the sabhā's approval and the unanimous agreement of the existing families. The families are not enriched by the work. They take a fixed wage from the sabhā and turn the gold they win over to the weighing-station.
+- **The temple share** is one half of all gold extracted, divided in equal thirds among the three temples for their fabric, their staff, their schools and the pilgrim hostels.
+- **The common share** is one quarter, deposited in the **common treasury** at Middle Suvarnagiri for famine reserves, irrigation works and emergency spending the sabhā authorizes.
+- **The distribution share** is the last quarter, paid out yearly to every Suvarnagiri household. The payment is by household and not by head, so a household of two takes what a household of ten takes, and the gold does not gather again in the larger families.
+- **Personal accumulation** is capped. No household may hold more than a set weight of gold in any form, at present about twelve ounces. A household's excess is deposited in the common treasury, where it earns a small yearly return and remains the household's to draw on request.
+
+The provisions came in one at a time across fifteen centuries, each sabhā amendment following some near-failure of the arrangement before it. The cap on personal holdings is six centuries old: a wealthy family tried to buy an amendment to the panning rolls in its own favor, the attempt was discovered, the family was stripped of all its gold and exiled, and the cap was written into law.
+
+A foreign buyer should understand what the cap means for him. No household holds more than twelve ounces, so there is no private hoard inside the territory to buy, and a man who goes looking for one is looking for a household that is breaking the law.
 
 ## Religion
 
-Suvarnagiri is a **Mahájaya janapada through and through**. The preserver-goddess of the [[affiliation-varakpnthn|Varnaka pantheon]] holds all three great temples, and the gold income serves her dharma. The Suvarnagiri tradition reads her as the **balancer**, the force that holds the cosmic order steady against Rásikara's chaos and against Vyālendra's unchecked making. The Gold Constitution is that balance kept in the world.
+Suvarnagiri is a Mahájaya janapada through and through. The preserver-goddess of the [[affiliation-varakpnthn|Varnaka pantheon]] holds all three great temples, and the gold serves her dharma. The Suvarnagiri tradition reads her as the **balancer**, the force that holds the cosmic order steady against Rásikara's chaos and against Vyālendra's unchecked making, and it reads the Gold Constitution as that balance kept in the world.
 
-Shrines to Vyālendra and Rásikara stand throughout the constituent villages. The Rásikara shrine sits on the back slope of the mountain, at the head of a small stream that yields no gold. Panning is forbidden in that stream by Suvarnagiri tradition. Not all of the mountain's wealth belongs to Mahájaya's order, and Rásikara is allowed his own portion.
+Shrines to Vyālendra and Rásikara stand throughout the villages. The Rásikara shrine sits on the back slope of the mountain at the head of [[place-rasikarastrm|a small stream that yields no gold]], and panning in that stream is forbidden by tradition. Not all of the mountain's wealth belongs to Mahájaya's order, and Rásikara is allowed his own portion.
 
-A distinctive Suvarnagiri religious practice is the **Weighing**, conducted at each new moon at the central temple weighing-station, when the previous moon's gold extraction is publicly weighed in the presence of the sabhā representatives. The weighing is open to public attendance, and any Suvarnagiri may attend and watch the weights recorded. The whole mechanism rests on this. The gold is _visible_. Nobody accumulates quietly, and the community knows every month how much gold has come out of the mountain and where it has gone.
+The **Weighing** is Suvarnagiri's own rite. At each new moon, at the weighing-station, the previous moon's gold is weighed in public before the sabhā's representatives and the weights are recorded. Any Suvarnagiri may attend and watch. The whole mechanism rests on it: the gold is _visible_, nobody accumulates quietly, and the community knows every month how much gold has come out of the mountain and where it has gone.
 
 ## Defense
 
-Suvarnagiri's gold makes it a better target than most janapadas, and it is defended more seriously than most. The janapada keeps a permanent body of three hundred trained guards, drawn from the warrior caste and paid from the common share. It keeps observation posts on the mountain's higher slopes. The three temples are fortified well enough to hold any plausible raiding force until help arrives.
+The gold makes Suvarnagiri a better target than most janapadas, and it is defended more seriously than most. It keeps a permanent body of three hundred trained guards, drawn from its Senāja households and paid from the common share, and observation posts on the mountain's higher slopes. The three temples are fortified well enough to hold any likely raiding force until help arrives.
 
-The help is the more important defense. Suvarnagiri keeps formal patron-client relations with two neighboring kingdoms and informal cooperation arrangements with several nearby janapadas. The small mountain kingdom of Bharyastān is bound by standing treaty to send military assistance in exchange for an annual gold tribute. The combination has been adequate. Suvarnagiri has not lost gold to a raid in eight hundred years and has not been seriously attacked in three centuries.
-
-## Famous Figures
-
-**Padmashrī Kanaka-Hasta**, current convening senior priest of Middle Suvarnagiri. Fifties, considered politically the most able of the three current temple-priests; expected to be a major voice at the next Mahā-Mela.
-
-**Suryamāhā Hiranya-Pāda**, senior priest of Upper Suvarnagiri, the seniormost theologian of the Suvarnagiri Mahájaya tradition. Seventies, has produced major scholarly commentaries on the Gold Constitution.
-
-**The Twenty-Eight**, the heads of the twenty-eight hereditary panning-families. They meet quarterly to coordinate their work, settle disputes between families, and put one view to the sabhā on any question touching the panning. They are no constitutional body. They have a recognized voice in any sabhā discussion of the panning, and their joint pronouncements carry weight.
-
-**Padmavali Dhanurvedakirtiraja**, the most prominent Suvarnagiri-born scholar of the wider Vedyari classical tradition. Teaches at one of the great academies of [[affiliation-chandrapur|Chandrapur]]. Her commentary on the Suvarnagiri Gold Constitution is a major contribution to Vedyari political philosophy.
+The help is the more important defense. Two neighboring kingdoms stand as Suvarnagiri's formal patrons, and several nearby janapadas help it by informal arrangement. The small mountain kingdom of [[affiliation-bharyastan|Bharyastān]] is bound by standing treaty to send military assistance in exchange for an annual gold tribute. Suvarnagiri has not lost gold to a raid in eight hundred years and has not been seriously attacked in three centuries.
 
 ## Outside the Compact
 
-Suvarnagiri is the one polity of consequence in inland Vedyara that holds no seat in the **Assembly of the Compact**, the standing agreement through which [[affiliation-chandrapur|Chandrapur]], [[affiliation-vyalendra2|Vyālendra]], [[affiliation-vindhyalay|Vindhyālaya]], [[affiliation-rajaprjnpd|Rājapur]] and [[affiliation-dhnrktjnpd|Dhanurkota]] hold the Vedyaran banking system in common. It is outside by its own constitution and not by anyone's exclusion. A seat obliges its holder to let the [[affiliation-mrchntclctvvdyr|Merchant Collective]]'s factors weigh, assay and lend against the metal passing through its territory. The Gold Constitution vests the weighing in the temple station and the lending in the common treasury, where no outside house may reach either.
+Suvarnagiri is the one polity of consequence in inland Vedyara that holds no seat in the [[affiliation-assmblycmpct|Assembly of the Compact]], the standing agreement through which [[affiliation-chandrapur|Chandrapur]], [[affiliation-vyalendra2|Vyālendra]], [[affiliation-vindhyalay|Vindhyālaya]], [[affiliation-rajaprjnpd|Rājapur]] and [[affiliation-dhnrktjnpd|Dhanurkota]] hold the Vedyaran banking system in common. It stays out by its own constitution, and nobody excluded it. A seat obliges its holder to let the [[affiliation-mrchntclctvvdyr|Merchant Collective]]'s factors weigh, assay and lend against the metal passing through its territory. The Gold Constitution vests the weighing in the temple station and the lending in the common treasury, where no outside house may reach either, and the Collective's factors may not set foot in the weighing yard.
 
 The arrangement suits Suvarnagiri and irritates everybody else. The Assembly would like a sixth seat and the gold behind it. The Twenty-Eight would like the cap kept exactly where it is. The sabhā has to be seen to want both, since the janapada's gold reaches the coast anyway, through buyers who pay in coin at the edge of the territory and ask no questions inside it.
 
+## Famous Figures
+
+- **Padmashrī Kanaka-Hasta**: the present convening priest, of Middle Suvarnagiri, in her fifties, and expected to be a major voice at the next Mahā-Mela.
+- **Suryamāhā Hiranya-Pāda**: senior priest of Upper Suvarnagiri, in his seventies, author of the major scholarly commentaries on the Gold Constitution.
+- **The Twenty-Eight**: the heads of the twenty-eight hereditary panning families. They meet quarterly to coordinate the work, settle disputes between families and put one view to the sabhā on any question touching the panning. They are no constitutional body, but they have a recognized voice in any sabhā discussion of the panning, and their joint pronouncements carry weight.
+- [[being-pdmvldhnrvdkrtrj|Padmavali Dhanurvedakirtiraja]]: the most prominent Suvarnagiri-born scholar of the wider Vedyari classical tradition, who teaches at one of the great academies of Chandrapur. Her commentary on the Gold Constitution is a major contribution to Vedyari political philosophy.
+
 ## Commerce and Currency
 
-Suvarnagiri Janapada uses the [[lore-vdyrnbnkng|Vedyaran banking system]], administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. Foreign coin, weighed Khazryn metal and the Khelâthi gezan pieces, is exchangeable at frontier moneylenders at Collective-controlled rates. The Vedyaran system is the dominant medium of internal commerce. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
+Suvarnagiri's gold leaves the territory as the tribute weighed out to Bharyastān and as metal sold at the edge of the territory to buyers who pay in coin, and Chandrapur strikes its gold [[miscgear-suvarna|suvarna]] from it. Inside the janapada, ordinary trade runs on the Vedyaran coin the [[affiliation-mrchntclctvvdyr|Merchant Collective]] clears, and the common treasury does the lending a Collective house would do elsewhere. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system.
 
 ## See Also
 
 - [[place-suvarnagirijnpd|Suvarnagiri Janapada]]—the land the janapada holds
-- [[affiliation-janpdsvdyr|Janapadas of Vedyara]]—parent confederation
-- [[place-vedyarargn|Vedyara]]—parent region
 - [[place-suvarnagiri|Suvarnagiri]]—the temple-seat, in its three parts
+- [[place-goldmountain|The Gold Mountain]] and [[place-weighingstn|the weighing-station]]—the gold and the shed it is weighed in
+- [[affiliation-bharyastan|Bharyastān]]—the treaty kingdom
+- [[affiliation-janpdsvdyr|Janapadas of Vedyara]]—parent confederation
 - [[affiliation-chandrapur|Chandrapur]]—major trading partner
 - [[affiliation-varakpnthn|Varnaka Pantheon]]—religious tradition
+- [[place-vedyarargn|Vedyara]]—parent region
 - [[skill-vedyarlng|Vedyari]]—language
