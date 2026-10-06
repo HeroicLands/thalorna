@@ -13,7 +13,7 @@ that a name met in play can be placed, and a name needed in play can be found.
 
 ## Standing and office are two different things
 
-**Standing** is where a person stands — what the law and the neighbours reckon
+**Standing** is where a person stands—what the law and the neighbors reckon
 them, whether or not they hold any post. **Office** is the job: a charge held,
 exercised, and one day handed on. They move independently. Three of the Nine
 Houses of Chandrapur share a standing and hold no office at all between them,
@@ -30,7 +30,7 @@ does.
 
 Every polity states its ladder as a run of rungs, and each rung carries a level,
 a title and a description. The tables here set out those ladders people by
-people, lowest rung first, with level 0 — the man set outside the law — at the
+people, lowest rung first, with level 0—the man set outside the law—at the
 head of each. A rung that has a note of its own under
 [[doc-lore|Lore]] links to it from its title, and a rung several polities state in
 the same words is one row naming them all.
@@ -182,14 +182,14 @@ ORDER BY p.people, e.key COLLATE NOCASE
 ## Reading the tables
 
 **A word standing under many peoples is not a translation.** Where the same
-English word appears in a dozen rows — `Bondservant`, `Chieftain`, `Elder`,
-`Greater Nobility` — it is the reckoning showing through rather than a word any
+English word appears in a dozen rows—`Bondservant`, `Chieftain`, `Elder`,
+`Greater Nobility`—it is the reckoning showing through rather than a word any
 of those peoples uses at home. Read those rows as a statement about the account,
 not about the people.
 
 **A word standing alone is worth attention.** `Níding`, `Atimos`, `Nützōk` and
 `Severed` all name the man set outside the law, and each carries its people's
-particular idea of what that means — thrown out of the kindred, struck from the
+particular idea of what that means—thrown out of the kindred, struck from the
 citizen roll, unnamed, or cut away. The word is the argument.
 
 **The same word can mean two things in two places.** `Mōbad` is the chief priest
