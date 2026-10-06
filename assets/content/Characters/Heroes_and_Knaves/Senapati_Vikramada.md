@@ -1,6 +1,6 @@
 ---
 shortcode: senptvkrmd
-name: {full: Sénapati Vikramâda, given: Sénapati, clan: Vikramâda, aliases: []}
+name: {full: Sénapati Vikramâda, given: Sénapati, clan: Vikramâda, aliases: [Senu]}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

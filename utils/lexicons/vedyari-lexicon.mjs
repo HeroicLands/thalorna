@@ -12,8 +12,8 @@
  * the letters, the clusters that may open a word and the consonants that may
  * close one, the longest run of consonants, the spellings the pages do not use,
  * the joining of two words at a seam, the suffixes, the endings a given name
- * reserves for a woman, the classes and fields, one table of words per field,
- * and the register of attested names. `Skills/Languages/Vedyari.md` adds the
+ * reserves for a woman, the cutting of a calling name, the classes and fields,
+ * one table of words per field, and the register of attested names. `Skills/Languages/Vedyari.md` adds the
  * one table the lexicon cannot carry, the scholars' spelling of the retroflex
  * and palatal letters, together with the name lists. This guard reads every one
  * of those at run time and asks whether the names the setting uses obey the
@@ -61,6 +61,13 @@
  *    once per list.
  * 5. **The beings.** A man's given name that closes on a woman's ending is a
  *    warning on the being's note.
+ * 6. **Calling names.** A register row in the `calling` tongue is a calling
+ *    name: every note it names is a being with a given name, its "built from"
+ *    cell gives that given name, and the name is one the calling-name rule cuts
+ *    from it. Breaking any of these, or a sound rule, is an error; a closing the
+ *    lexicon gives to the other gender is a warning. A being in scope whose given
+ *    name runs to the stated number of syllables and carries no calling name is
+ *    an error on the being's note.
  *
  * A guard proves the pages agree with their own rules, never that the rules are
  * good. Whether a coined root sounds Vedyari is a judgement made by reading it
@@ -107,6 +114,9 @@ const OWN_NAME = /Vedyar/u;
 
 /** The name lists of the language page. */
 const LISTS = ["### Male Given Names", "### Female Given Names", "### Clan Names"];
+
+/** The register tongue that marks a calling name. */
+export const CALLING = "calling";
 
 /** The list whose names are given to men. */
 const MALE_LIST = "### Male Given Names";
@@ -309,6 +319,28 @@ export function ruleFrom(note, lex) {
             womanEndings.push(...ticked(cells[0]).map((one) => plain(one).replace(/^-/, "")));
     }
 
+    // The calling name: its closings, the doubled syllable and the length that requires one.
+    const calling = { endings: [], doubled: null, threshold: null };
+    for (const { cells } of rows(lexSection("### Calling names").body)) {
+        const label = cells[0] ?? "";
+        const usual = (cells[1] ?? "").toLowerCase();
+        const who =
+            /\bwoman\b/.test(usual) ? "woman"
+            : /\bman\b/.test(usual) ? "man"
+            : "either";
+        const count = Number.parseInt(cells[1] ?? "", 10);
+        if (/fewest syllables/i.test(label) && Number.isFinite(count)) calling.threshold = count;
+        else if (/doubl/i.test(label)) calling.doubled = who;
+        else
+            for (const ending of ticked(label).map(plain))
+                if (ending.startsWith("-"))
+                    calling.endings.push({ form: ending.slice(1), usual: who });
+    }
+    if (lex !== null && !calling.endings.length)
+        problems.push('the lexicon\'s "### Calling names" states no closing');
+    if (lex !== null && calling.threshold === null)
+        problems.push('the lexicon\'s "### Calling names" states no fewest syllables');
+
     // Classes and fields.
     const classes = new Set(
         rows(lexSection("### Classes").body).flatMap(({ cells }) => ticked(cells[0])),
@@ -375,6 +407,7 @@ export function ruleFrom(note, lex) {
             joins,
             suffixes,
             womanEndings,
+            calling,
             classes,
             fields,
             words,
@@ -643,6 +676,49 @@ export function stressReadings(name, rule) {
     return readings.map((reading) => respell(reading, rule.folds).form);
 }
 
+/** How many syllables a name holds: one for each vowel, diphthong and vowel r. */
+export function syllables(name, rule) {
+    return sounds(respell(name, rule.folds).form, rule).filter((one) => one.kind === "V").length;
+}
+
+/**
+ * Every calling name the rule cuts from a given name, with whom its closing is
+ * usual for. The given name is cut before its second or third vowel and takes a
+ * closing, or its first syllable is written twice where that syllable opens on
+ * a consonant. A vowel carrying a stress mark is read short and long, and a
+ * vowel r is spoken and written `ri`.
+ *
+ * @param {string} given - The given name as written.
+ * @param {object} rule - From `ruleFrom`.
+ * @returns {Map<string, string>} Each calling name, plain, to "man", "woman" or "either".
+ */
+export function callingNames(given, rule) {
+    const out = new Map();
+    for (const reading of stressReadings(given, rule)) {
+        const cut = sounds(reading, rule);
+        const vowels = cut.flatMap((one, at) => (one.kind === "V" ? [at] : []));
+        const spell = (to) =>
+            cut
+                .slice(0, to)
+                .map((one) =>
+                    one.kind === "V" && rule.syllabic.has(one.sound) ? `${one.sound}i` : one.sound,
+                )
+                .join("");
+        for (const nth of [1, 2]) {
+            if (vowels.length <= nth) continue;
+            for (const ending of rule.calling.endings) {
+                const form = spell(vowels[nth]) + ending.form;
+                if (!out.has(form)) out.set(form, ending.usual);
+            }
+        }
+        if (rule.calling.doubled && vowels.length && cut[0].kind === "C") {
+            const first = spell(vowels[0] + 1);
+            if (!out.has(first + first)) out.set(first + first, rule.calling.doubled);
+        }
+    }
+    return out;
+}
+
 /**
  * Every markdown file beneath a directory.
  *
@@ -662,7 +738,8 @@ function markdownFiles(dir) {
  * Every note's frontmatter, keyed by address, and the names in scope.
  *
  * @param {string} [root] - The content tree.
- * @returns {{notes: Map<string, {file: string, text: string, names: Set<string>}>,
+ * @returns {{notes: Map<string, {file: string, text: string, names: Set<string>, type: string,
+ *   given: string|null, gender: string|null}>,
  *   names: Array<{name: string, kind: string, address: string, file: string, text: string, gender: string|null}>}}
  */
 export function attestedNames(root = CONTENT) {
@@ -713,9 +790,18 @@ export function attestedNames(root = CONTENT) {
             }
         };
         walk(front.data);
-        notes.set(address, { file, text, names: new Set(mine.map((one) => keyOf(one.name))) });
-
         const data = front.data ?? {};
+        const gender = typeof data.gender === "string" ? data.gender.toLowerCase() : null;
+        notes.set(address, {
+            file,
+            text,
+            names: new Set(mine.map((one) => keyOf(one.name))),
+            type: front.type,
+            given:
+                front.type === "being" && typeof own.given === "string" ? own.given.trim() : null,
+            gender,
+        });
+
         const lore = [].concat(data.lore ?? []);
         const tags = [].concat(front.tags ?? []);
         const ownNames = [own.full, ...(own.aliases ?? [])].filter((n) => typeof n === "string");
@@ -728,7 +814,6 @@ export function attestedNames(root = CONTENT) {
                 tags.includes(TAG) ||
                 ownNames.some((n) => OWN_NAME.test(n)));
         if (!inScope) continue;
-        const gender = typeof data.gender === "string" ? data.gender.toLowerCase() : null;
         for (const one of mine) names.push({ ...one, address, file, text, gender });
     }
     return { notes, names };
@@ -994,6 +1079,72 @@ export function analyse(note, lex, tree) {
         );
     }
 
+    // 6. Calling names.
+    const called = new Set();
+    let callingCount = 0;
+    for (const row of rule.register) {
+        if (row.tongue !== CALLING) continue;
+        callingCount += 1;
+        const { form } = respell(row.name, rule.folds);
+        for (const problem of soundProblems(form, rule))
+            lexFinding(row.at, "error", `**${row.name}** ${problem}`);
+        const [from] = ticked(row.built);
+        for (const address of row.addresses) {
+            const target = tree.notes.get(address);
+            if (!target) continue;
+            if (!target.given) {
+                lexFinding(
+                    row.at,
+                    "error",
+                    `**${row.name}** is a calling name, and [[${address}]] has no given name`,
+                );
+                continue;
+            }
+            called.add(address);
+            if (!from || keyOf(from) !== keyOf(target.given))
+                lexFinding(
+                    row.at,
+                    "error",
+                    `**${row.name}** is cut from "${from ?? ""}", and the given name of [[${address}]] is ${target.given}`,
+                );
+            const ways = callingNames(target.given, rule);
+            if (!ways.has(form)) {
+                lexFinding(
+                    row.at,
+                    "error",
+                    `**${row.name}** is not a calling name the rule cuts from ${target.given}`,
+                );
+                continue;
+            }
+            const usual = ways.get(form);
+            const other = { man: "female", woman: "male" }[usual];
+            if (other && target.gender === other)
+                lexFinding(
+                    row.at,
+                    "warning",
+                    `**${row.name}** closes as a ${usual}'s calling name, and [[${address}]] is ${target.gender}`,
+                );
+        }
+    }
+    const required = new Set();
+    for (const one of tree.names) {
+        if (one.kind !== "given" || called.has(one.address) || required.has(one.address)) continue;
+        const count = syllables(one.name, rule);
+        if (count < (rule.calling.threshold ?? Number.POSITIVE_INFINITY)) continue;
+        required.add(one.address);
+        const { line, column } = lineColumn(one.text, locate(one.text, one.name));
+        const file = path.relative(process.cwd(), one.file) || one.file;
+        findings.push(
+            finding(
+                file,
+                line,
+                column,
+                "error",
+                `${one.name} runs to ${count} syllables, and [[${one.address}]] carries no calling name`,
+            ),
+        );
+    }
+
     return {
         findings,
         rule,
@@ -1004,6 +1155,7 @@ export function analyse(note, lex, tree) {
             built,
             underived,
             listNames,
+            calling: callingCount,
         },
     };
 }
@@ -1019,7 +1171,8 @@ function main() {
     console.log(
         `Vedyari lexicon: ${counts.words ?? 0} words, ${counts.register ?? 0} registered names ` +
             `(${counts.vedyari ?? 0} Vedyari, ${counts.built ?? 0} built from the lexicon, ` +
-            `${counts.underived ?? 0} not yet reached), ${counts.listNames ?? 0} listed names; ` +
+            `${counts.underived ?? 0} not yet reached, ${counts.calling ?? 0} calling names), ` +
+            `${counts.listNames ?? 0} listed names; ` +
             `${errors} error(s), ${warnings} warning(s).`,
     );
     if (errors) process.exitCode = 1;
