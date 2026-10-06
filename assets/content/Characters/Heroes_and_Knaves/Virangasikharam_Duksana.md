@@ -1,6 +1,6 @@
 ---
 shortcode: vrgskhrmdkn
-name: {full: Vīrāngashikharam Dukshana, given: Vīrāngashikharam, clan: Dukshana, aliases: []}
+name: {full: Vīrāngashikharam Dukshana, given: Vīrāngashikharam, clan: Dukshana, aliases: [Vīru]}
 type: being
 subType: character
 tags: [heroes-and-knaves, administration]

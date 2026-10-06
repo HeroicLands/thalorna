@@ -1,6 +1,6 @@
 ---
 shortcode: suvrtkrtns
-name: {full: Suvaratika Ratnisena, given: Suvaratika, clan: Ratnisena, aliases: []}
+name: {full: Suvaratika Ratnisena, given: Suvaratika, clan: Ratnisena, aliases: [Suvi]}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -432,7 +432,7 @@ Suvaratika stands 5'6" tall with a light build. She has warm bronze skin, deep b
 
 ### The Child of the Craftsmith Quarter
 
-Suvaratika was born in the Craftsmith Quarter of [[place-vedyarargn|Vedyara]]'s largest city-state to parents both devoted to artisanship—her father a woodworker and her mother a textile artist. From earliest childhood, she was surrounded by the sounds and smells of creation: wood shavings, paint solvents, the crackle of dying fabric dyes. Rather than view this as constraint, she embraced it as the natural order of existence. By age six, she was sketching designs. By twelve, she was creating toys under her father's guidance.
+Suvaratika was born in the Craftsmith Quarter of [[place-vedyarargn|Vedyara]]'s largest city-state to parents both devoted to artisanship—her father a woodworker and her mother a textile artist. From earliest childhood, she was surrounded by the sounds and smells of creation: wood shavings, paint solvents, the crackle of dying fabric dyes. Rather than view this as constraint, she embraced it as the natural order of existence. By age six, she was sketching designs. By twelve, she was creating toys under her father's guidance, and the whole workshop called her Suvi.
 
 ### The Tragedy and Transformation
 

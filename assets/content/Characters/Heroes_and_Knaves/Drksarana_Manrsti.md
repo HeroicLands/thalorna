@@ -1,6 +1,6 @@
 ---
 shortcode: drkaranamn
-name: {full: Drkshàrana Manrshti, given: Drkshàrana, clan: Manrshti, aliases: []}
+name: {full: Drkshàrana Manrshti, given: Drkshàrana, clan: Manrshti, aliases: [Drkshu]}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -423,7 +423,7 @@ Drkshàrana stands 5'7" tall with a light build. He has warm honey skin, dark br
 
 # Dossier {#dossier}
 
-Born in the merchant quarters of a great city-state in [[place-vedyarargn|Vedyara]], Drkshàrana was the youngest of seven children to a textile weaver's family. His childhood was marked by modest comfort and the constant hum of looms, his mother's lullabies layered beneath the rhythmic clacking of threads. At fourteen, he was apprenticed to the household of Lord **Vedásthira**, a rising administrator in the city's merchant council, where his natural grace and keen observational abilities quickly earned him a position as personal attendant. It was during these formative years that he received the waterfall tattoo—a spiritual marker from a wandering priest of Rásikara who saw in the young Drkshàrana the fluidity and adaptability that would define his path.
+Born in the merchant quarters of a great city-state in [[place-vedyarargn|Vedyara]], Drkshàrana was the youngest of seven children to a textile weaver's family. His childhood was marked by modest comfort and the constant hum of looms, his mother's lullabies for her youngest, whom she called Drkshu, layered beneath the rhythmic clacking of threads. At fourteen, he was apprenticed to the household of Lord **Vedásthira**, a rising administrator in the city's merchant council, where his natural grace and keen observational abilities quickly earned him a position as personal attendant. It was during these formative years that he received the waterfall tattoo—a spiritual marker from a wandering priest of Rásikara who saw in the young Drkshàrana the fluidity and adaptability that would define his path.
 
 For the past decade, Drkshàrana has served his current employer with meticulous dedication, managing the intricate social choreography that accompanies life in a noble household. His duties range from ceremonial service at grand feasts to the subtle work of anticipating his master's needs before they are voiced. He has become indispensable to the household's smooth operation, yet he remains largely invisible—the way a truly skilled servant becomes part of the architecture of privilege itself.
 

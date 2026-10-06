@@ -1,6 +1,6 @@
 ---
 shortcode: dhrmplvmkt
-name: {full: Dharmàpala Vimuktana, given: Dharmàpala, clan: Vimuktana, aliases: []}
+name: {full: Dharmàpala Vimuktana, given: Dharmàpala, clan: Vimuktana, aliases: [Dharmu]}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]
@@ -463,7 +463,7 @@ Lord Kavindra the Banker
 : An elderly financier who values Dharmàpala's discretion and tactical thinking as much as his combat abilities, and has kept him on quasi-retainer for sensitive commissions.
 
 Master Surgeon Devak
-: A healer of some renown who once treated Dharmàpala for a near-fatal wound and has since become one of the few individuals he considers a friend.
+: A healer of some renown who once treated Dharmàpala for a near-fatal wound and has since become one of the few individuals he considers a friend, and one of the fewer still who call him Dharmu.
 
 ### Enemies
 

@@ -198,6 +198,10 @@ Vedyari names are cosmologically and philosophically charged. A personal name st
 
 Formal address often includes patronymic constructions (_-sûta_, _-vâya_: "offspring of") and epithetive titles denoting virtue, rank, or accomplishment. These may be appended or prefixed, creating elaborate formal names used in ceremonial and official contexts.
 
+### Calling Names
+
+Beside the formal name, every Vedyari has a _calling name_, a short form of the given name used by kin and friends and offered rather than taken: _Padmāvali_ is _Padmi_ at home. It keeps the first one or two syllables of the given name and closes on _-u_, _-i_ or _-a_, or doubles the first syllable. The lexicon named below gives the rule in full, with the calling names the setting records.
+
 ## Lexicon
 
 The words of Vedyari, the rules a word is built by and a register of every Vedyari name the setting uses stand in the [[doc-vedyarilexcn|Vedyari Lexicon]]. The lexicon writes every word in the spelling of names, and the table below gives that spelling for the scholars' letters.
