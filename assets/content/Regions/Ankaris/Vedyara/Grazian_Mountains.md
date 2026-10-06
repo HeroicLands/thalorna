@@ -40,7 +40,7 @@ The range forms a great curving arc. It begins in the high northern country east
 
 Scholars in Vedyara and in the Khazryn country name three sub-ranges:
 
-- [[place-sthrnwall|The Southern Wall]]—the long, almost continuous escarpment that forms the northern border of Vedyara. Its peaks are the highest of the entire system, and the rivers draining south from them are the great river systems of the Vedyari subcontinent: the [[place-chandrmahi|Chandramahī]], the [[place-sarvadarivr|Sarvada]], the [[place-mahanadi|Mahānadi]], the [[place-bharavarivr|Bhārava]] and others. Vedyari pilgrimage tradition makes particular Southern Wall peaks the dwelling-places of [[affiliation-varakpnthn|Varnaka]] deities, and certain glacier-springs the literal cosmic sources from which their rivers flowed at the beginning of time.
+- [[place-sthrnwall|The Southern Wall]]—the long, almost continuous escarpment that forms the northern border of Vedyara. Its peaks are the highest of the entire system, and the rivers draining south from them are the great river systems of the Vedyari subcontinent: the [[place-chandrmahi|Chandramahī]], the [[place-sarvadarivr|Sarvada]], the [[place-mahanadi|Mahānadī]], the [[place-bharavarivr|Bhārava]] and others. Vedyari pilgrimage tradition makes particular Southern Wall peaks the dwelling-places of [[affiliation-varakpnthn|Varnaka]] deities, and certain glacier-springs the literal cosmic sources from which their rivers flowed at the beginning of time.
 
 - [[place-estrnreach|The Eastern Reach]]—the sub-range that arcs eastward toward Tānvür's western frontier. It is less massive than the Southern Wall and still formidable, and it is the principal overland barrier between the Vedyari and Tānvüri civilizations.
 
@@ -70,7 +70,7 @@ The trans-Grazian trade is what the range means economically to the lowland civi
 
 The guides take roughly half the value as their fee. The caravan organizers take the other half, and are usually Vedyari merchant houses based in [[affiliation-chandrapur|Chandrapur]] or one of the foothill janapadas.
 
-On the Vedyari side the trade is governed as well as taxed. The kingdom of [[affiliation-vindhyalay|Vindhyālaya]] holds the greatest of the passes at its throat from the fortress-city of [[place-suryagarha|Sūryāgarha]], where every bale is weighed on entry and again on exit. The [[place-pssshrines|Pass-Shrines]] are a chain of Varnaka temples kept year-round at the summits by a hereditary line of **Ritūja** ushtakas, who live at altitudes that would kill an unaccustomed lowlander in a week. They bless the caravans and keep the only written record of who crossed and when. Between the customs-house and the shrines, a merchant knows the price of a crossing before he sets out.
+On the Vedyari side the trade is governed as well as taxed. The kingdom of [[affiliation-vindhyalay|Shikharālaya]] holds the greatest of the passes at its throat from the fortress-city of [[place-suryagarha|Sūryagarha]], where every bale is weighed on entry and again on exit. The [[place-pssshrines|Pass-Shrines]] are a chain of Varnaka temples kept year-round at the summits by a hereditary line of **Ritūja** ushtakas, who live at altitudes that would kill an unaccustomed lowlander in a week. They bless the caravans and keep the only written record of who crossed and when. Between the customs-house and the shrines, a merchant knows the price of a crossing before he sets out.
 
 ## The Drenavar Confusion
 
@@ -83,8 +83,8 @@ Vedyari and Khazri folk-tradition sometimes confuses the Grazian Mountains with 
 - [[place-dunharargn|Dunhara]]—Western desert, where the range runs out
 - [[affiliation-khzrncnfdrtn|Khazryn Confederation]]—Indigenous Khazryn peoples whose origin is traced to the Western Descent
 - [[affiliation-tanvurempr|Empire of Tānvür]]—Eastern empire across the Eastern Reach
-- [[affiliation-vindhyalay|Vindhyālaya]]—The kingdom holding the greatest of the passes
-- [[place-suryagarha|Sūryāgarha]]—The fortress-city across its throat
+- [[affiliation-vindhyalay|Shikharālaya]]—The kingdom holding the greatest of the passes
+- [[place-suryagarha|Sūryagarha]]—The fortress-city across its throat
 - [[place-pssshrines|The Pass-Shrines]]—The temples at the summits of the crossing roads
 - [[affiliation-osketguides|The Ösket]] · [[affiliation-hvarnguides|The Hvarn]]—The guide-peoples of the wall
 - [[place-slvrgorges|The Silver Gorges]]—The lapis and silver valleys of the Eastern Reach

@@ -3,7 +3,7 @@ shortcode: drwnngseat
 name: {full: The Drowning of the Royal Seat, aliases: []}
 type: lore
 subType: history
-description: "About six hundred years ago the Mahānadi moved its channel below Rājapur and drowned a town that had been a royal seat of the dissolved kingdom, the one of the river's four recorded moves everybody names."
+description: "About six hundred years ago the Mahānadī moved its channel below Rājapur and drowned a town that had been a royal seat of the dissolved kingdom, the one of the river's four recorded moves everybody names."
 tags: [history, vedyara]
 data:
   packFolder: vedyara
@@ -14,7 +14,7 @@ data:
       depth: region
       sources: [place-drownedcptl, place-mahanadi, place-rajavalilib]
       summary: >-
-        The Mahānadi changes its channel in the reach below Rājapur, by miles, and drowns a town that was a royal seat of the Kingdom of Mahānadi and has been governed by a sabhā since the dissolution. It is one of four moves of the river within written record, and the one everybody names.
+        The Mahānadī changes its channel in the reach below Rājapur, by miles, and drowns a town that was a royal seat of the Kingdom of Mahānadī and has been governed by a sabhā since the dissolution. It is one of four moves of the river within written record, and the one everybody names.
       standing: single-source
       where:
         locus: [place-drownedcptl]
@@ -44,9 +44,9 @@ data:
         - the extent of the town, which no plan records and which is guessed from where the nets catch
 ---
 
-The fishermen of the reach below [[place-rajapur|Rājapur]] give a newcomer one rule before anything else: never set a net twice in the same place. Under the [[place-mahanadi|Mahānadi]] there is a town, and its masonry has been tearing nets for six hundred years.
+The fishermen of the reach below [[place-rajapur|Rājapur]] give a newcomer one rule before anything else: never set a net twice in the same place. Under the [[place-mahanadi|Mahānadī]] there is a town, and its masonry has been tearing nets for six hundred years.
 
-The **Drowning of the Royal Seat** is the one of the river's moves everybody names. The Mahānadi has changed its course four times within written record, each time by miles, leaving towns high and dry and drowning others that were nowhere near it the year before. About six hundred years ago, around 120 AF, it moved through the reach below Rājapur and took a town that had been a royal seat of [[lore-mhndkngdm|the Kingdom of Mahānadi]].
+The **Drowning of the Royal Seat** is the one of the river's moves everybody names. The Mahānadī has changed its course four times within written record, each time by miles, leaving towns high and dry and drowning others that were nowhere near it the year before. About six hundred years ago, around 120 AF, it moved through the reach below Rājapur and took a town that had been a royal seat of [[lore-mhndkngdm|the Kingdom of Mahānadī]].
 
 By then the kingdom had been gone for three and a half centuries, and the town the river drowned was governed by a sabhā like every other place in [[affiliation-rajaprjnpd|the Rājapur Janapada]]. The kingly name stuck anyway. The buildings that make the hazard are the royal ones, and a drowned palace is a better story than a drowned market, so the place is [[place-drownedcptl|the Drowned Capital]] to everyone on the river.
 
@@ -57,5 +57,5 @@ What the river taught the plain is visible all along it. Nobody builds on the fl
 ## See Also
 
 - [[place-drownedcptl|The Drowned Capital]]—the site under the river
-- [[place-mahanadi|The Mahānadi]]—the river that moved
-- [[lore-mhndkngdm|The Kingdom of Mahānadi]]—the kingdom whose seat it was
+- [[place-mahanadi|The Mahānadī]]—the river that moved
+- [[lore-mhndkngdm|The Kingdom of Mahānadī]]—the kingdom whose seat it was

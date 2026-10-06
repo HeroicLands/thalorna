@@ -14,10 +14,10 @@ Peñalthár is a fortress-city perched on a near-inaccessible plateau in the cen
 
 ## The Seat of the High King
 
-Astúrath is the heartland of Tarvénan independence, the mountain kingdom that Vylaria never conquered, and Peñalthár is the place where that pride sits enthroned. The High King's seat is traditionally here, while the kingdom names [[place-kavrenath|Kávrenath]] as its seat, and no invader has ever held the plateau. The Astúrathi know every goat path in the ranges around it, and a hostile army that reaches the foot of the plateau has already paid for every mile.
+Astúrath is the heartland of Tarvénan independence, the mountain kingdom that Vylaria never conquered, and Peñalthár is the place where that pride sits enthroned. The High King's seat is traditionally here, and no invader has ever held the plateau. The Astúrathi know every goat path in the ranges around it, and a hostile army that reaches the foot of the plateau has already paid for every mile.
 
 ## See Also
 
 - [[place-asturath|Astúrath]]—the mountain land the city crowns
 - [[affiliation-kngdmstrth|Kingdom of Astúrath]]—the kingdom that holds it
-- [[place-kavrenath|Kávrenath]]—the kingdom's seat
+- [[place-kavrenath|Kávrenath]]—a frontier town of the same kingdom

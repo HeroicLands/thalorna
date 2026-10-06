@@ -5,6 +5,8 @@ type: lore
 subType: culture
 description: "The Kaliharans—their beliefs, their mores, and what they hold a person owes."
 tags: []
+
+# terran_analog: "Atlantis as Plato describes it in the Timaeus and Critias, not the modern legend."
 ---
 
 There are two kinds of Kaliharan and they are not much alike. The Kaliharan of the interior is heir to eighty centuries of continuous custodianship, has probably never met a foreigner, and does not expect to. The Kaliharan of the ports has met a great many, speaks three trade tongues, and has more in common with a factor in Heliónis than with a custodian in a highland sanctuary. Both understand the division and neither resents it: it is, in the Kaliharan view, the cost of keeping an interface with the outside world without letting that world come any further in than it should.

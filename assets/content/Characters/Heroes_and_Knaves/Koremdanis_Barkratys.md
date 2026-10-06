@@ -490,7 +490,7 @@ Swordmaster Lysandor the Undefeated
 The Iron Circle
 : A shadowy assassin's guild views Korêmdânis as a threat to their operations, as her students often become bodyguards and protectors. They have made subtle attempts to undermine her reputation.
 
-Her Own Ambition
+Her own ambition, an inner enemy
 : In a sense, her greatest enemy is her perfectionist drive, which drives her forward endlessly but allows her no rest or satisfaction.
 
 ### Affiliations

@@ -11,7 +11,7 @@ data: {packFolder: settinglore}
 ---
 
 - **Common Names:** The Elder Folk, the Firstborn, the Star-Kindled, the Twilight People
-- **Self-Name:** Sinalë (adjective: _Sinalëan_)
+- **Self-Name:** Sinalë (singular: _Sinalo_; adjective: _Sinalëan_)
 - **Origins:** Unknown; arrived on Thalorna from an undisclosed prior realm roughly eight millennia ago (≈7500 BF, approximate)
 - **Population:** Vanishingly rare (<0.01% of world population). Most humans have never seen one.
 - **Enclaves:** Scattered throughout Thalorna, invariably in deep forests, hidden valleys, or island sanctuaries far from human settlement

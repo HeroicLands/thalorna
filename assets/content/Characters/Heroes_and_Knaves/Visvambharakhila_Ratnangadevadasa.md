@@ -1,9 +1,9 @@
 ---
 shortcode: vsvmbhrkhlrtngdvds
 name:
-  full: Vishvambhārākhila Ratnāngadēvadāsa
+  full: Vishvambhārākhila Ratnāngadevadāsa
   given: Vishvambhārākhila
-  clan: Ratnāngadēvadāsa
+  clan: Ratnāngadevadāsa
   aliases: [Vishvu]
 type: being
 subType: character
@@ -418,7 +418,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[vsvmbhrkhlrtngdvds|Vishvambhārākhila Ratnāngadēvadāsa]]{float=top-left}
+![[vsvmbhrkhlrtngdvds|Vishvambhārākhila Ratnāngadevadāsa]]{float=top-left}
 
 Vishvambhārākhila stands 5'10" tall with a medium build. He has deep brown skin, dark brown hair, and warm brown eyes. His features include a full face, a narrow nose, a small chin, full lips, deep brows.
 

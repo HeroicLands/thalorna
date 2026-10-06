@@ -1,8 +1,8 @@
 ---
 shortcode: vndhnswd
-name: {full: Vindhyan Steel Sword, aliases: []}
+name: {full: Shikharālayan Steel Sword, aliases: []}
 type: weapongear
-description: "Plain straight blade of Vindhyan mountain steel; serviceable, cheap, and bought by the wagonload."
+description: "Plain straight blade of Shikharālayan mountain steel; serviceable, cheap, and bought by the wagonload."
 tags: []
 data: {icon: icon-sword, templatePriority: null, packFolder: weapons}
 sohl:
@@ -124,6 +124,6 @@ sohl:
         defense: {blockMod: 0, counterstrikeMod: 0}
 ---
 
-Straight, single-fullered and undecorated, the Vindhyan steel sword is what the mountain kingdom's own mines and hereditary smithing clans turn out in quantity: copper, tin and iron worked to arms rather than ornament. Against Vylarian or even Chandrapuri steel it is not celebrated, and nobody who carries one claims otherwise. It is serviceable, cheap and reliably supplied, and those are the virtues that matter to the mercenary companies of the western Vedyari kingdoms, who buy it by the wagonload rather than the blade.
+Straight, single-fullered and undecorated, the Shikharālayan steel sword is what the mountain kingdom's own mines and hereditary smithing clans turn out in quantity: copper, tin and iron worked to arms rather than ornament. Against Vylarian or even Chandrapuri steel it is not celebrated, and nobody who carries one claims otherwise. It is serviceable, cheap and reliably supplied, and those are the virtues that matter to the mercenary companies of the western Vedyari kingdoms, who buy it by the wagonload rather than the blade.
 
 The temper is workmanlike rather than fine, and a company armorer expects to grind out a nick or reset an edge after a season's use in a way he would not on better steel. What it does not do is run out: the Gorges' clans supply it faster than any company can wear it out, at a price that lets a captain arm every man in the ranks rather than a favored few.

@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-The **Sūrya-samudra** is the warm ocean east of [[place-vedyarargn|Vedyara]], and the name means the sea the sun rises from. It takes the eastern coast of [[place-vedyarargn|Vedyara]] from the forest country in the north down to the turn of the land in the south, and it carries the greater part of the subcontinent's sea trade. Three of the four great rivers come down to it. The [[place-mahanadi|Mahānadi]], the [[place-sarvadarivr|Sarvada]] and the [[place-bharavarivr|Bhārava]] each reach the sea on this coast, and the ports stand at their mouths and nowhere else.
+The **Sūrya-samudra** is the warm ocean east of [[place-vedyarargn|Vedyara]], and the name means the sea the sun rises from. It takes the eastern coast of [[place-vedyarargn|Vedyara]] from the forest country in the north down to the turn of the land in the south, and it carries the greater part of the subcontinent's sea trade. Three of the four great rivers come down to it. The [[place-mahanadi|Mahānadī]], the [[place-sarvadarivr|Sarvada]] and the [[place-bharavarivr|Bhārava]] each reach the sea on this coast, and the ports stand at their mouths and nowhere else.
 
 It is a shallow sea close inshore and a deep one a day out. The bars at the river mouths shift with every monsoon, and a master who has not worked a mouth within the year takes a local pilot over it or waits for one.
 

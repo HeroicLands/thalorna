@@ -81,7 +81,7 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-K'uxi Balam holds the land of [[place-kuxibalamrgn|K'uxi Balam Region]]. The Ch'um Ix'lan relay network thins here as well; Ch'umbal way-stations are spaced further apart, runners are harder to recruit for the harsh southern routes, and messages from [[affiliation-balamkul|Balamkul]] that arrive in two days at [[affiliation-kankul|K'ankul]] take five or six to reach K'uxi Balam's outpost cities. Beyond K'uxi Balam, the Speaking Road falls silent entirely—the last tz'ib'al cord to arrive is decoded at [[place-kawilulkik|K'awi'il'ul Ki'ik]], and what lies further south relies on the courage of individual messengers. Those who venture south from K'uxi Balam do so with offerings and prayers heavy on their lips.
+K'uxi Balam holds the land of [[place-kuxibalamrgn|K'uxi Balam Region]]. The Ch'um Ix'lan relay network thins here as well; Ch'umbal way-stations are spaced further apart, runners are harder to recruit for the harsh southern routes, and messages from [[affiliation-balamkul|Ix'ilankul]] that arrive in two days at [[affiliation-kankul|K'ankul]] take five or six to reach K'uxi Balam's outpost cities. Beyond K'uxi Balam, the Speaking Road falls silent entirely—the last tz'ib'al cord to arrive is decoded at [[place-kawilulkik|K'awi'il'ul Ki'ik]], and what lies further south relies on the courage of individual messengers. Those who venture south from K'uxi Balam do so with offerings and prayers heavy on their lips.
 
 ## Maritime Powers
 

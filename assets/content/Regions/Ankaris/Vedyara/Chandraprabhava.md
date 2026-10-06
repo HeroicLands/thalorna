@@ -31,4 +31,4 @@ Two winters ago the spring iced over and stayed iced for nine days, which had ne
 ## See Also
 
 - [[place-chandrmahi|The Chandramahī]] · [[place-suryashkhr|Sūryashikhara]] · [[place-himashila|Himashilā]]
-- [[place-suryadvara|Sūryadvāra]] · [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]]
+- [[place-suryadvara|Sūryadvāra]] · [[affiliation-trimurtisampradaya|Triyanga-sampradāya]]

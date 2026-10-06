@@ -16,11 +16,11 @@ data:
 
 Four priests stay on the shelf through the closed months so that someone is there to see the sun clear the peak on the morning the year turns. The **Sūrya temple** stands on the rock shelf beside the outflow at [[place-chandrprbh|Chandraprabhava]], where the [[place-chandrmahi|Chandramahī]] comes out of the ice under [[place-suryashkhr|Sūryashikhara]]. It is small, and everything about it is built for two purposes: to survive a winter at that altitude, and to see the sun come over the peak.
 
-The building is a single stone cell with a walled forecourt and a sighting terrace above it, cut back into the slope so that the forecourt's eastern parapet carries the marks a sighting is read against. Twelve priests of the [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]] keep it, four of them through the closed months, in quarters dug into the hill behind.
+The building is a single stone cell with a walled forecourt and a sighting terrace above it, cut back into the slope so that the forecourt's eastern parapet carries the marks a sighting is read against. Twelve priests of the [[affiliation-trimurtisampradaya|Triyanga-sampradāya]] keep it, four of them through the closed months, in quarters dug into the hill behind.
 
 ## The Year
 
-The orthodox civil year of [[place-vedyarargn|Vedyara]] is declared from this terrace. The high priests sight the turn against the parapet marks and announce it to every court and temple that keeps the [[lore-mdhvndrcnt|Mādhavendra count]], and the announcement is what fixes a Mela, a Weighing and a coronation. The shrine is older than its dated record: the temple's dedications on the rock shelf begin four centuries ago, when the Trimūrti-sampradāya took the sighting of the year here.
+The orthodox civil year of [[place-vedyarargn|Vedyara]] is declared from this terrace. The high priests sight the turn against the parapet marks and announce it to every court and temple that keeps the [[lore-mdhvndrcnt|Madhusthāna count]], and the announcement is what fixes a Mela, a Weighing and a coronation. The shrine is older than its dated record: the temple's dedications on the rock shelf begin four centuries ago, when the Triyanga-sampradāya took the sighting of the year here.
 
 The [[place-ganakahall|reckoners at Chandrapur]] compute the same turn and get a different day. They have got a different day for as long as anyone has checked. The temple does not argue the point in public and has never had to: the sighting is the one that is announced, and the computation is the one every treasurer keeps beside it.
 
@@ -38,11 +38,11 @@ The spring beneath the slab had never frozen in the temple's record until two wi
 
 ## The Second Seat
 
-The temple's senior priest is one of the three who sit as the **Council of Three**, with the priests of the Mela temple and the great [[affiliation-mahajaya|Mahájaya]] temple in the south. A joint pronouncement of the three carries nearly everywhere in the [[affiliation-janpdsvdyr|Mahā-Sangha]]. It works as an executive committee, and the priests deny that it is one.
+The temple's senior priest is one of the three who sit as the **Council of Three**, with the priests of the Mela temple and the great [[affiliation-mahajaya|Mahājaya]] temple in the south. A joint pronouncement of the three carries nearly everywhere in the [[affiliation-janpdsvdyr|Mahā-Sangha]]. It works as an executive committee, and the priests deny that it is one.
 
 ## See Also
 
 - [[place-chandrprbh|Chandraprabhava]]—the spring the temple stands beside
 - [[place-suryashkhr|Sūryashikhara]]—the peak above it
-- [[lore-mdhvndrcnt|The Mādhavendra count]]—the year it declares
-- [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]]—the sect that keeps it
+- [[lore-mdhvndrcnt|The Madhusthāna count]]—the year it declares
+- [[affiliation-trimurtisampradaya|Triyanga-sampradāya]]—the sect that keeps it

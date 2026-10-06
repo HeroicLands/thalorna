@@ -46,19 +46,6 @@ name:
    - **Minor Trait:** Assertive.
    - **Major Disorder:** Oppositional Defiant Disorder (ODD), due to chronic stubbornness and defiance.
 
-Animal Ideal: Sturgeons are sizable fish with an elongated body and bony plates, known for their slow-moving, bottom-dwelling behavior and remarkable resiliency and steadfastness in diverse environments.
-
-Description: A resilient and steadfast individual, this person is characterized by a composed and methodical approach to life, often preferring to operate behind the scenes with consistent reliability.
-
-**Sturgeon: Resilient and Steadfast**
-
-- **Animal Ideal:** Resilient and steadfast, sturgeons thrive in diverse environments, moving slowly but purposefully, and enduring through various challenges with their strength and persistence.
-- **Description:** This person exhibits a composed and methodical approach to life, showing remarkable resilience and consistent reliability, often providing stability and wisdom in both personal and professional settings.
-- **Positive:** Reliable, composed, and insightful.
-- **Negative:** Aloof, resistant to change, and overly cautious.
-- **Minor Trait:** Patient.
-- **Major Disorder:** Avoidant Personality Disorder, due to social inhibition and a strong resistance to change.
-
 6. **Bobcat: Secretive and Cautious**
    - **Animal Ideal:** Secretive and cautious, bobcats are elusive hunters, using their stealth and patience to silently stalk and ambush their prey.
    - **Description:** Elusive and careful, this individual is always cautious about their surroundings. They prefer to remain out of the spotlight and use their keen observation to make informed decisions.
@@ -361,7 +348,16 @@ Description: A resilient and steadfast individual, this person is characterized 
 - **Minor Trait:** Confident.
 - **Major Disorder:** Narcissistic Personality Disorder (NPD), characterized by excessive pride and vigilance toward threats to self-esteem.
 
-40. **Trout: Swift and Wary**
+40. **Sturgeon: Resilient and Steadfast**
+
+- **Animal Ideal:** Resilient and steadfast, sturgeons thrive in diverse environments, moving slowly but purposefully, and enduring through various challenges with their strength and persistence.
+- **Description:** This person exhibits a composed and methodical approach to life, showing remarkable resilience and consistent reliability, often providing stability and wisdom in both personal and professional settings.
+- **Positive:** Reliable, composed, and insightful.
+- **Negative:** Aloof, resistant to change, and overly cautious.
+- **Minor Trait:** Patient.
+- **Major Disorder:** Avoidant Personality Disorder, due to social inhibition and a strong resistance to change.
+
+41. **Trout: Swift and Wary**
 
 - **Animal Ideal:** Swift and wary, trout are agile fish that remain constantly alert, using their speed and awareness to evade predators in freshwater streams.
 - **Description:** This individual is quick and cautious, constantly on the lookout for potential dangers. They rely on their speed and awareness to navigate through life efficiently.
@@ -370,7 +366,7 @@ Description: A resilient and steadfast individual, this person is characterized 
 - **Minor Trait:** Perceptive.
 - **Major Disorder:** Generalized Anxiety Disorder (GAD), due to constant vigilance and wariness.
 
-41. **Tuna: Driven and Enduring**
+42. **Tuna: Driven and Enduring**
 
 - **Animal Ideal:** Driven and enduring, tuna are powerful swimmers that migrate vast distances across oceans, relentlessly pursuing schools of prey in their path.
 - **Description:** Highly motivated and resilient, this person embarks on long-term pursuits with unwavering determination. They are powerful and persistent in achieving their objectives.
@@ -379,7 +375,7 @@ Description: A resilient and steadfast individual, this person is characterized 
 - **Minor Trait:** Driven.
 - **Major Disorder:** Obsessive-Compulsive Personality Disorder (OCPD), linked to obsessive drive and persistence.
 
-42. **Turkey: Proud and Cautious**
+43. **Turkey: Proud and Cautious**
 
 - **Animal Ideal:** Proud and cautious, turkeys are ground-dwelling birds that display elaborate courtship rituals while remaining vigilant against predators.
 - **Description:** This individual balances pride with vigilance, displaying confidence while remaining alert to threats. They engage in social displays but are always mindful of their safety.
@@ -388,7 +384,7 @@ Description: A resilient and steadfast individual, this person is characterized 
 - **Minor Trait:** Vigilant.
 - **Major Disorder:** Paranoid Personality Disorder (PPD), characterized by cautious and overly proud behavior.
 
-43. **Whale: Majestic and Communicative**
+44. **Whale: Majestic and Communicative**
 
 - **Animal Ideal:** Majestic and communicative, whales are highly social marine mammals that travel in pods, using complex vocalizations to coordinate and express themselves.
 - **Description:** Highly social and expressive, this person enjoys deep connections and uses communication to foster relationships. They navigate social settings with grace and clarity.
@@ -397,7 +393,7 @@ Description: A resilient and steadfast individual, this person is characterized 
 - **Minor Trait:** Sensitive.
 - **Major Disorder:** Avoidant Personality Disorder, due to heightened sensitivity to social dynamics and potential rejection.
 
-44. **Wolf: Cooperative and Strategic**
+45. **Wolf: Cooperative and Strategic**
 
 - **Animal Ideal:** Cooperative and strategic, wolves are pack animals that rely on teamwork and careful planning to hunt and protect their territory.
 - **Description:** Strongly valuing teamwork and planning, this individual operates effectively within a group. They rely on strategy and collaboration to achieve shared goals.
@@ -410,174 +406,179 @@ Description: A resilient and steadfast individual, this person is characterized 
    - **Physical:** Strong, stocky build; possibly sharper, more penetrating gaze.
    - **Behavioral:** Highly determined, fiercely independent, unwilling to let go of tasks.
 
-2. **Bear:**
+2. **Bass:**
+   - **Physical:** Sleek, muscular body; still, patient posture.
+   - **Behavioral:** Stealthy, waits for the right moment and strikes with precision.
+
+3. **Bear:**
    - **Physical:** Large, robust frame; capable of producing an intimidating presence.
    - **Behavioral:** Prefers solitude, generally calm demeanor but potentially explosive when provoked.
 
-3. **Bison:**
+4. **Bison:**
    - **Physical:** Sturdy, muscular build; a grounded and imposing presence.
    - **Behavioral:** Stoic in face of adversity, protective of loved ones and territory.
 
-4. **Boar:**
+5. **Boar:**
    - **Physical:** Strong, solid body; possibly more facial hair or hirsute.
    - **Behavioral:** Willful, confrontational, takes a headstrong approach to challenges.
 
-5. **Bobcat:**
+6. **Bobcat:**
    - **Physical:** Lean, agile physique; sharp, penetrating eyes.
    - **Behavioral:** Extremely cautious, prefers to stay under the radar, secretive.
 
-6. **Bull:**
+7. **Bull:**
    - **Physical:** Thick, muscular neck and broad shoulders; imposing stance.
    - **Behavioral:** Potentially volatile and destructive, unpredictable in reactions.
 
-7. **Catfish:**
+8. **Catfish:**
    - **Physical:** Smooth skin with a slight sheen; sinuous movements.
    - **Behavioral:** Active at night, takes advantage of situations and opportunities.
 
-8. **Chicken:**
+9. **Chicken:**
    - **Physical:** Smaller, less imposing frame; possibly quick, jittery movements.
    - **Behavioral:** Timid and easily startled, wary of risks and changes.
 
-9. **Cow:**
-   - **Physical:** Robust, steady frame; calm, reflective countenance.
-   - **Behavioral:** Gentle, prefers routines, calm demeanor.
+10. **Cow:**
 
-10. **Crow:**
+- **Physical:** Robust, steady frame; calm, reflective countenance.
+- **Behavioral:** Gentle, prefers routines, calm demeanor.
+
+11. **Crow:**
     - **Physical:** Keen, observant eyes; lean and agile.
     - **Behavioral:** Highly curious, resourceful in problem-solving and tool use.
 
-11. **Deer:**
+12. **Deer:**
     - **Physical:** Lean, light build; graceful and delicate movements.
     - **Behavioral:** Always alert, evasive and elusive, often avoiding confrontation.
 
-12. **Donkey:**
+13. **Donkey:**
     - **Physical:** Compact, sturdy build; strong legs and back.
     - **Behavioral:** Extremely patient, often stubborn and resistant to change.
 
-13. **Dove:**
+14. **Dove:**
     - **Physical:** Soft, gentle features; calm and serene appearance.
     - **Behavioral:** Companionable, seeks peace and harmony in social settings.
 
-14. **Duck:**
+15. **Duck:**
     - **Physical:** Agile, adept at both land and water movement; webbed feet.
     - **Behavioral:** Highly adaptable, enjoys social interaction, quick to adjust to surroundings.
 
-15. **Eagle:**
+16. **Eagle:**
     - **Physical:** Sharp vision; strong, prominent features, especially the nose and brow.
     - **Behavioral:** Focused to the point of being ruthless, relentless in pursuits.
 
-16. **Falcon:**
+17. **Falcon:**
     - **Physical:** Streamlined, athletic build; intense, unwavering gaze.
     - **Behavioral:** Precise in actions, relentless in efforts and pursuits.
 
-17. **Fox:**
+18. **Fox:**
     - **Physical:** Lean, quick; alert, watchful eyes.
     - **Behavioral:** Smart, resourceful, able to outwit and maneuver through challenges.
 
-18. **Goat:**
+19. **Goat:**
     - **Physical:** Lean, muscular legs; agile and sure-footed.
     - **Behavioral:** Inquisitive and determined, won't shy away from obstacles.
 
-19. **Goose:**
+20. **Goose:**
     - **Physical:** Broad, strong shoulders; sharp eyes.
     - **Behavioral:** Highly territorial, can be surprisingly aggressive in defense.
 
-20. **Hamster:**
+21. **Hamster:**
     - **Physical:** Small, compact frame; nimble, capable of quick movements.
     - **Behavioral:** Cautious and highly protective of personal space and possessions.
 
-21. **Hawk:**
+22. **Hawk:**
     - **Physical:** Piercing eyes; quick, agile movements.
     - **Behavioral:** Observant, takes swift and decisive actions.
 
-22. **Hedgehog:**
+23. **Hedgehog:**
     - **Physical:** Small, round build; defensive body language.
     - **Behavioral:** Prefers solitude, defensive and wary of threats.
 
-23. **Horse:**
+24. **Horse:**
     - **Physical:** Strong, lean build; fluid and graceful in movements.
     - **Behavioral:** Free-spirited, values independence, often rebellious.
 
-24. **Jaguar:**
+25. **Jaguar:**
     - **Physical:** Muscular and agile; quiet but powerful movements.
     - **Behavioral:** Stealthy, capable of intense bursts of power and action.
 
-25. **Leopard:**
+26. **Leopard:**
     - **Physical:** Lean and muscular; quiet and agile.
     - **Behavioral:** Prefers solitude and secrecy, rarely seen but highly capable.
 
-26. **Lion:**
+27. **Lion:**
     - **Physical:** Strong, dominant presence; regal and authoritative appearance.
     - **Behavioral:** Dominant, strategic in leadership and social engagements.
 
-27. **Lynx:**
+28. **Lynx:**
     - **Physical:** Sharp features; keen, watchful eyes, agile.
     - **Behavioral:** Highly elusive, prefers night-time activity, secretive.
 
-28. **Otter:**
+29. **Otter:**
     - **Physical:** Sleek, smooth build; playful and energetic movements.
     - **Behavioral:** Highly curious, playful, enjoys exploring new environments.
 
-29. **Owl:**
+30. **Owl:**
     - **Physical:** Large, wide eyes; silent, smooth movements.
     - **Behavioral:** Patient, mysterious, often working silently behind the scenes.
 
-30. **Ox:**
+31. **Ox:**
     - **Physical:** Extremely strong, robust frame; steady and solid stance.
     - **Behavioral:** Dependable, reliable under pressure, does not tire easily.
 
-31. **Parrot:**
+32. **Parrot:**
     - **Physical:** Bright, expressive appearance; social body language.
     - **Behavioral:** Highly social, vocal and communicative, enjoys interaction.
 
-32. **Pigeon:**
+33. **Pigeon:**
     - **Physical:** Compact, agile physique; soft and gentle demeanor.
     - **Behavioral:** Loyal, prefers routine and familiar environments.
 
-33. **Rabbit:**
+34. **Rabbit:**
     - **Physical:** Small, quick, agile; alert and reactive.
     - **Behavioral:** Nervous, extremely quick responses, always on alert.
 
-34. **Sea Bass:**
+35. **Sea Bass:**
     - **Physical:** Streamlined, smooth body; fluid and silent movements.
     - **Behavioral:** Stealthy, takes full advantage of opportunities that arise.
 
-35. **Shark:**
+36. **Shark:**
     - **Physical:** Strong, sleek build; intense, penetrating gaze.
     - **Behavioral:** Relentless, driven by strong instincts, effective in pursuit.
 
-36. **Sheep:**
+37. **Sheep:**
     - **Physical:** Soft appearance; docile body language.
     - **Behavioral:** Extremely social, follows group dynamics, generally docile.
 
-37. **Snake:**
+38. **Snake:**
     - **Physical:** Sinuous, fluid movements; steady gaze.
     - **Behavioral:** Silent, patient, strategic in timing and actions.
 
-38. **Stag:**
+39. **Stag:**
     - **Physical:** Strong, proud stance; alert and watchful eyes.
     - **Behavioral:** Proud, vigilant, always aware of surroundings.
 
-39. **Sturgeon:**
+40. **Sturgeon:**
     - **Physical:** Strong build; steady and fluid in movement.
     - **Behavioral:** Steadfast, reserved, can endure a lot without complaint.
 
-40. **Trout:**
+41. **Trout:**
     - **Physical:** Sleek, smooth build; quick, darting movements.
     - **Behavioral:** Swift, wary, quick to react to threats.
 
-41. **Tuna:**
+42. **Tuna:**
     - **Physical:** Robust, powerful build; exceptional stamina.
     - **Behavioral:** Highly driven, endures through long challenges and pursuits.
 
-42. **Turkey:**
+43. **Turkey:**
     - **Physical:** Large, rounded physique; keen, observant eyes.
     - **Behavioral:** Proud, cautious, always on the lookout for danger.
 
-43. **Whale:**
+44. **Whale:**
     - **Physical:** Large, commanding presence; graceful in movement.
     - **Behavioral:** Majestic, highly communicative, cooperative in social structures.
 
-44. **Wolf:**
+45. **Wolf:**
     - **Physical:** Lean, strong build; sharp, alert movements.
     - **Behavioral:** Highly cooperative, skilled in social strategies and teamwork.

@@ -31,13 +31,13 @@ data:
       - level: 3
         title: Ordained of a Sampradāya
         description: >-
-          Ordained into one of the four schools—Agnī-panthā, Svapnasāri Samāja, Trimūrti Sampradāya, Vyālendravāda—each of which carries its own ladder. Priesthood in Varnaka belongs to the school, never to the god.
+          Ordained into one of the four schools—Agnī-panthā, Svapnasāri Samāja, Triyanga Sampradāya, Vyālendravāda—each of which carries its own ladder. Priesthood in Varnaka belongs to the school, never to the god.
     offices:
       Householder: >-
         Keeps the household shrine and its observances, which is what devotion to a Varnakan god ordinarily consists of.
       Vrata-Holder: >-
         Under, or having completed, a named Ordeal for Favor of a particular god.
-      Ácārya: >-
+      Āchārya: >-
         The working priest of a sampradāya, whose ordination is to the school and whose service is to whichever gods its doctrine requires.
   seat: null
   domains: [pssshrines, mahaprbhva, bhrvprbhav]
@@ -50,7 +50,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Asked which of the ten gods is the chief one, the keeper of a [[place-bhrvdvsthna|Bhārava-Devasthāna]] hostel gives the same answer to every foreign pilgrim who puts the question. "None of them. You will not meet a priest of [[affiliation-mahajaya|Mahájaya]], only a priest of a school who serves Mahájaya when his school's teaching calls for her. Learn the school first and the gods will sort themselves out."
+Asked which of the ten gods is the chief one, the keeper of a [[place-bhrvdvsthna|Bhārava-Devasthāna]] hostel gives the same answer to every foreign pilgrim who puts the question. "None of them. You will not meet a priest of [[affiliation-mahajaya|Mahājaya]], only a priest of a school who serves Mahājaya when his school's teaching calls for her. Learn the school first and the gods will sort themselves out."
 
 The **Varnaka** is a single faith with a plural pantheon. Ten deities and spirit-courts are honored across the tradition, and none of them is a religion of its own. None has a priesthood of its own either: a priest is ordained into one of the faith's schools, which then serve whichever gods their doctrine requires.
 
@@ -64,7 +64,7 @@ Four standings run through the faith.
 
 - **Upāsaka** is the lay devotee, who keeps the household observances of whichever gods the household honors. Most devotion to a god consists of this: a Householder keeps the shrine and its observances.
 - [[lore-vowdevoteernk|Vratin]] ("one under vow") has completed one of the gods' **Ordeals for Favor**, the only standing that devotion to a god confers, and holds it for life. [[lore-vowdevoteernk|Vow-Bound Devotee]] sets out what the vow asks and what a household owes the person who holds it. A Vrata-Holder is someone under, or having completed, a named ordeal of a particular god.
-- **Ordained of a Sampradāya** is a priest of one of four schools: [[affiliation-agnipantha|Agnī-panthā]], [[affiliation-svapnasarisamaja|Svapnasāri-samāja]], [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]] or [[affiliation-vyalendravada|Vyālendravāda]]. Each carries its own ladder, and priesthood belongs to the school and never to the god. The working priest of a school is its **Ácārya**.
+- **Ordained of a Sampradāya** is a priest of one of four schools: [[affiliation-agnipantha|Agnī-panthā]], [[affiliation-svapnasarisamaja|Svapnasāri-samāja]], [[affiliation-trimurtisampradaya|Triyanga-sampradāya]] or [[affiliation-vyalendravada|Vyālendravāda]]. Each carries its own ladder, and priesthood belongs to the school and never to the god. The working priest of a school is its **Āchārya**.
 - **Patita** ("fallen") is a person put out of Varnakan observance, marked by a brand on the face that every house and school recognizes. The sentence can be forgiven, and the forgiven person carries proof of the forgiveness for life.
 
 ## Principal Gods
@@ -78,7 +78,7 @@ Four standings run through the faith.
 - **Spirits:** The **Shilpa-Kalas** (crafting spirits) assist mortals in art, architecture and innovation.
 - **Local Worship:** Revered in cities for their founding and prosperity.
 
-### Mahájaya (_The Eternal Preserver_)
+### Mahājaya (_The Eternal Preserver_)
 
 - **Aspect:** Order and Prosperity
 - **Role:** Goddess of preservation, harmony and abundance, who governs the cycles of growth, trade and the well-being of a society.
@@ -87,7 +87,7 @@ Four standings run through the faith.
 - **Spirits:** The **Nivara-Kshetras** (spirits of the fields) ensure bountiful harvests and economic balance.
 - **Local Worship:** Central in rural regions for agricultural blessings.
 
-### Rásikara (_The Flame of Renewal_)
+### Rāsikara (_The Flame of Renewal_)
 
 - **Aspect:** Fire, Transformation and Chaos
 - **Role:** God of fire, destruction and change, who transforms through both destruction and rebirth, purging corruption and igniting growth.
@@ -142,7 +142,7 @@ Four standings run through the faith.
 
 ## Spiritual Courts
 
-### Svapnadēvas (_The Dreaming Host_)
+### Svapnadevas (_The Dreaming Host_)
 
 - **Aspect:** Dreams
 - **Role:** Celestial spirits who weave dreams, omens and visions and act as intermediaries between mortals and the divine. They are divine servants of [[lore-goddreams|The God of Dreams]], though the Varnaka do not name or directly worship that elder deity. They revere the [[affiliation-svapnadevas|Host]] itself.
@@ -163,8 +163,8 @@ Four standings run through the faith.
 **Deities, principal gods:**
 
 - [[affiliation-vyalendra|Vyālendra]]—creation and the shaping power
-- [[affiliation-mahajaya|Mahájaya]]—order, preservation, prosperity
-- [[affiliation-rasikara|Rásikara]]—fire, transformation, renewal
+- [[affiliation-mahajaya|Mahājaya]]—order, preservation, prosperity
+- [[affiliation-rasikara|Rāsikara]]—fire, transformation, renewal
 
 **Deities, lesser gods:**
 
@@ -176,14 +176,14 @@ Four standings run through the faith.
 
 **Deities, spiritual courts:**
 
-- [[affiliation-svapnadevas|Svapnadēvas]]—the Dreaming Host
+- [[affiliation-svapnadevas|Svapnadevas]]—the Dreaming Host
 - [[affiliation-pavanajitras|Pavanajitras]]—the Wandering Wind
 
 **Sample schools:**
 
-- [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]]—the Tradition of the Three Forms: orthodox civic religion and balanced veneration of the cosmic triad
+- [[affiliation-trimurtisampradaya|Triyanga-sampradāya]]—the Tradition of the Three Forms: orthodox civic religion and balanced veneration of the cosmic triad
 - [[affiliation-vyalendravada|Vyālendravāda]]—the Doctrine of Vyālendra: monistic and scholarly, tied to the great academies and the building trades
-- [[affiliation-agnipantha|Agnī-panthā]]—the Path of the Flame: ascetic, reformist and mendicant, centered on Rásikara's purification
+- [[affiliation-agnipantha|Agnī-panthā]]—the Path of the Flame: ascetic, reformist and mendicant, centered on Rāsikara's purification
 - [[affiliation-svapnasarisamaja|Svapnasāri-samāja]]—the Assembly of the Dream-Followers: mystical and contemplative, oneiromancers and visionary counselors
 
 **Regions:** [[place-vedyarargn|Vedyara Region]]

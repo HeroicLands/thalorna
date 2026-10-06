@@ -32,9 +32,9 @@ The dyers work outside the walls on the upstream water, where the indigo compoun
 
 ## The Temples
 
-The temples stand between the halls and not apart from them, and the sanctuary of [[affiliation-mahajaya|Mahájaya]] is first among them. She is the serene matriarch and the patron of honest measure, and every bolt that leaves a hall leaves under her. The **Triyācārya** of her temple sanctions the Council's acts as a priest sanctions a sabhā's inland. A decision the temples will not sanction does not take effect, and the Council has learned to ask beforehand.
+The temples stand between the halls and not apart from them, and the sanctuary of [[affiliation-mahajaya|Mahājaya]] is first among them. She is the serene matriarch and the patron of honest measure, and every bolt that leaves a hall leaves under her. The **Triyāchārya** of her temple sanctions the Council's acts as a priest sanctions a sabhā's inland. A decision the temples will not sanction does not take effect, and the Council has learned to ask beforehand.
 
-The [[affiliation-vyalendravada|Vyālendravāda]] keeps the mother-house of the **Academy of the Shining Pattern** here, which is why the city's public works are better built than its politics would suggest. Its **Ácāryas** designed the water-gate, the four bridges and the clerestories of the great halls, and they are consulted on any hall a guild proposes to raise.
+The [[affiliation-vyalendravada|Vyālendravāda]] keeps the mother-house of the **Academy of the Shining Pattern** here, which is why the city's public works are better built than its politics would suggest. Its **Āchāryas** designed the water-gate, the four bridges and the clerestories of the great halls, and they are consulted on any hall a guild proposes to raise.
 
 ## The Watch
 

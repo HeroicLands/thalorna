@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [balamkulrgn], population: 0, packFolde
 
 ## Overview
 
-Tz'aqal K'ul, the Sacred Foundation, is the holiest site in all of [[place-kchchkcntnnt|K'ich'chik]] and the supreme destination of its pilgrims. It is a precinct at the heart of Kul'taq'an in [[affiliation-balamkul|Balamkul]], built around an ancient volcanic vent from which warm, mineral-laden vapors still rise. The priesthood teaches that the vapor is the living breath of [[lore-piqalkulqatdty|P'iqal Kul'qat]], the creator, who first breathed the world into existence here at the dawn of the First Age.
+Tz'aqal K'ul, the Sacred Foundation, is the holiest site in all of [[place-kchchkcntnnt|K'ich'chik]] and the supreme destination of its pilgrims. It is a precinct at the heart of Kul'taq'an in [[affiliation-balamkul|Ix'ilankul]], built around an ancient volcanic vent from which warm, mineral-laden vapors still rise. The priesthood teaches that the vapor is the living breath of [[lore-piqalkulqatdty|P'iqal Kul'qat]], the creator, who first breathed the world into existence here at the dawn of the First Age.
 
 ## The Witz K'ul
 
@@ -22,5 +22,5 @@ Every K'ich'chik person, from the highest K'inmah to the lowest bound laborer, i
 
 ## See Also
 
-- [[affiliation-balamkul|Balamkul]]—the city-state that holds the precinct
+- [[affiliation-balamkul|Ix'ilankul]]—the city-state that holds the precinct
 - [[affiliation-piqalkulqat|Faith of P'iqal Kul'qat]]—the creator's faith

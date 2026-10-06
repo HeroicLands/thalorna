@@ -16,9 +16,9 @@ data:
 # terran_analog: "Semi-arid interior plateau of peninsular India—basalt tableland in the rain-shadow of the coastal ranges, held by transhumant cattle-herding lineages whose wealth is stock and water rights rather than cultivated land"
 ---
 
-**Vandhyabhūmi** is the high dry interior of [[place-vedyarargn|Vedyara]], the block of tableland the four great rivers run past and do not water. It stands a thousand feet or so above the plains that surround it, it is bounded on the east by the [[place-mahanadi|Mahānadi]]'s western tributaries and on the west by the escarpment that falls to the arid western coast, and it is the one large country of the subcontinent that no river valley organizes.
+**Vandhyabhūmi** is the high dry interior of [[place-vedyarargn|Vedyara]], the block of tableland the four great rivers run past and do not water. It stands a thousand feet or so above the plains that surround it, it is bounded on the east by the [[place-mahanadi|Mahānadī]]'s western tributaries and on the west by the escarpment that falls to the arid western coast, and it is the one large country of the subcontinent that no river valley organizes.
 
-The name is the lowlands'. _Vandhya_ means barren, and a Vedyari of the [[place-mahanadi|Mahānadi]] plain glosses it as ground that will not take a plow. The people on the plateau use the name and do not accept the judgment in it. The country carries more cattle to the acre than any floodplain in Vedyara, and the floodplains plow with bullocks bred on it.
+The name is the lowlands'. _Vandhya_ means barren, and a Vedyari of the [[place-mahanadi|Mahānadī]] plain glosses it as ground that will not take a plow. The people on the plateau use the name and do not accept the judgment in it. The country carries more cattle to the acre than any floodplain in Vedyara, and the floodplains plow with bullocks bred on it.
 
 ## The Water
 
@@ -36,19 +36,19 @@ The plateau sells bullocks, hides, horn, ghee, coarse wool and the draft animals
 
 The plateau plants nothing that matters and its year does not turn on a flood. It turns on the day the herds move, and that day is fixed by a priest reading the season, not by a river. Where a river janapada and a coastal port keep two different calendars and argue about the **Mela**, the plateau keeps a third and is not consulted.
 
-It is also where the count began. The temples here follow the [[lore-mdhvndrcnt|Mādhavendra count]] as the [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]] sights it and hold the computed year to be an impertinence, and they say so more loudly than temples with more at stake, because the epoch is theirs.
+It is also where the count began. The temples here follow the [[lore-mdhvndrcnt|Madhusthāna count]] as the [[affiliation-trimurtisampradaya|Triyanga-sampradāya]] sights it and hold the computed year to be an impertinence, and they say so more loudly than temples with more at stake, because the epoch is theirs.
 
-## Mādhavendra
+## Madhusthāna
 
 The capital of the philosopher-kings stands on open pasture in the center of the plateau, roofless and unquarried. Its walls are standing to the height of a man over most of their circuit, its street grid is legible from the ridge above it, and drovers water stock at its tanks, which still hold. The dry air has kept it. Nothing on the plateau has been built at that scale since, and nothing needs to be.
 
-The reign that raised it standardized Classical Vedyari and produced the commentaries, the legal codes and the epics every educated Vedyari still studies, and the whole civilization numbers its years from it. A quarter of a million people gather at the [[affiliation-janpdsvdyr|Mahā-Sangha]]'s assembly on the Mahānadi to do business in a calendar that begins at a ruin nobody governs and few of them have seen.
+The reign that raised it standardized Classical Vedyari and produced the commentaries, the legal codes and the epics every educated Vedyari still studies, and the whole civilization numbers its years from it. A quarter of a million people gather at the [[affiliation-janpdsvdyr|Mahā-Sangha]]'s assembly on the Mahānadī to do business in a calendar that begins at a ruin nobody governs and few of them have seen.
 
 ## Who Holds It
 
 [[affiliation-gomarga|Gomārga]] holds the plateau: a small kingdom whose crown holds the wells and the droveways and makes no claim on the ground between them. Away from a well there is nothing to hold, so the distinction costs the crown nothing and is defended anyway, because the lineages that cut the wells insist on it.
 
-Janapadas sit where the tanks are largest, in the north and east where the soil deepens toward the Mahānadi's tributaries. They are few, they are small, and their sabhās meet in the dry season when the herds are furthest away.
+Janapadas sit where the tanks are largest, in the north and east where the soil deepens toward the Mahānadī's tributaries. They are few, they are small, and their sabhās meet in the dry season when the herds are furthest away.
 
 ## Settlements
 
@@ -81,6 +81,6 @@ The query names the settlements of the plateau. A herd walks between wells for m
 
 - [[place-vedyarargn|Vedyara Region]]—parent region
 - [[affiliation-gomarga|Gomārga]]—the kingdom of the wells and the droveways
-- [[lore-mdhvndrcnt|The Mādhavendra Count]]—the year-count dated from the capital on the plateau
-- [[place-mahanadi|The Mahānadi]] · [[place-sarvadarivr|The Sarvada]]—the valleys the plateau stands between
+- [[lore-mdhvndrcnt|The Madhusthāna Count]]—the year-count dated from the capital on the plateau
+- [[place-mahanadi|The Mahānadī]] · [[place-sarvadarivr|The Sarvada]]—the valleys the plateau stands between
 - [[affiliation-janpdsvdyr|Janapadas of Vedyara]]—the confederation the plateau's few sabhās sit in

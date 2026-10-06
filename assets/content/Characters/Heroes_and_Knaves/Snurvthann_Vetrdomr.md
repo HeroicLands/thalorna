@@ -488,7 +488,7 @@ Master Thatcher Bergur
 The Merchant Synod of Progress
 : A loose organization of traders and merchants pushing for faster and cheaper building. They view traditional craftspeople like Snurvthann as slow and costly and are paying for attempts to make roofing that can be turned out in quantity.
 
-His Own Aging
+His own aging, an inner enemy
 : While not a personified enemy, Snurvthann's body increasingly feels like an opponent, rebelling against demands he could once meet without thought. His true enemy is time and physical decline.
 
 ### Affiliations

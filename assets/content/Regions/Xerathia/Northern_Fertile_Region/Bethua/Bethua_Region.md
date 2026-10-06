@@ -30,8 +30,8 @@ northern shore that faces most directly across the
 The **coastal strip** is the region's foundation, and it is here at its widest
 and most reliable anywhere along the northern shore: sea-tempered winters and
 moderate summers carrying citrus, grape, olive, fig, date-palm and
-pomegranate. The coastal cities are among the oldest and most cosmopolitan in
-Xerathia, and have been the continent's principal point of contact with the
+pomegranate. The coastal cities, the capital [[place-bethura|Bethûra]] on its
+bay among them, are among the oldest and most cosmopolitan in Xerathia, and have been the continent's principal point of contact with the
 north for as long as the two continents have known one another.
 
 **Inland**, rainfall falls away sharply and the interior is semi-arid

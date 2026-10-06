@@ -1,9 +1,9 @@
 ---
 shortcode: khandapura
-name: {full: Khandāpura, aliases: []}
+name: {full: Khandapura, aliases: []}
 type: place
 subType: settlement
-description: "The upstream village of Rājapur, at the head-gate of the irrigation works and the Mahájaya shrine where the year's water is divided."
+description: "The upstream village of Rājapur, at the head-gate of the irrigation works and the Mahājaya shrine where the year's water is divided."
 tags: [village, river, sacred]
 data:
   demonym: null
@@ -14,7 +14,7 @@ data:
   government: rajaprjnpd
 ---
 
-**Khandāpura** (940) is the upstream village of the janapada and stands at the head of the irrigation works. Its [[affiliation-mahajaya|Mahájaya]] shrine is the one every cultivator in [[affiliation-rajaprjnpd|Rājapur]] comes to at planting, when the channels are blessed and the year's water is divided between the villages below.
+**Khandapura** (940) is the upstream village of the janapada and stands at the head of the irrigation works. Its [[affiliation-mahajaya|Mahājaya]] shrine is the one every cultivator in [[affiliation-rajaprjnpd|Rājapur]] comes to at planting, when the channels are blessed and the year's water is divided between the villages below.
 
 The division is made at the shrine and recorded there. Nine tenths of it is the same every year. The tenth that is not is what the sabhā's reckoner and the shrine's priest argue over for three days, with the downstream headmen sitting in and saying a great deal.
 

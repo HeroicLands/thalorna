@@ -54,7 +54,7 @@ sohl: {system: {commonSkills: [vyahrati, sohl-sohl-skill-agri]}}
 
 "Not the whole garland. Just what has faded." A woman who keeps the alcove beside a louder god's temple says it to the child sent to empty the household's flowers into her bowl, and shows her where the faded ones begin. [[lore-vyahratidty|Vyāhrati]]'s veneration is small and quiet. Her shrines are modest alcoves beside the larger temples of other Varnakan gods, her formal priesthood is few, and her rites are kept in every household. She is venerated for her necessity.
 
-Vyāhrati is the goddess of endings and of the quiet change by which what has reached its term gives itself back to the world. Without decay there is no soil, and without endings there are no beginnings. A house, a garden and a soul all turn stale when what must be released is not released. [[affiliation-rasikara|Rásikara]] breaks what will not yield, and Vyāhrati receives what yields of itself.
+Vyāhrati is the goddess of endings and of the quiet change by which what has reached its term gives itself back to the world. Without decay there is no soil, and without endings there are no beginnings. A house, a garden and a soul all turn stale when what must be released is not released. [[affiliation-rasikara|Rāsikara]] breaks what will not yield, and Vyāhrati receives what yields of itself.
 
 ### What You See at Her Alcoves
 

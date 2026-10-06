@@ -3,7 +3,7 @@ shortcode: sanghafort
 name: {full: The Sangha-fort, aliases: []}
 type: place
 subType: structure
-description: "The Mahā-Sangha's one standing garrison—a stone work on the col of the conch-door, held for four centuries because of a single invasion, and read by Vindhyālaya as a rival's outpost."
+description: "The Mahā-Sangha's one standing garrison—a stone work on the col of the conch-door, held for four centuries because of a single invasion, and read by Shikharālaya as a rival's outpost."
 tags: [fortress, military, inland]
 data:
   demonym: null
@@ -24,7 +24,7 @@ They have never raised another. They keep the fort instead, garrisoned, provisio
 
 ## The Quarrel
 
-[[affiliation-vindhyalay|Vindhyālaya]] considers the whole northern frontier its own to watch and the fort an intrusion into it by a body that has no business holding ground. The kingdom raises this at every gathering, has never done more than raise it, and would be seriously embarrassed if the janapadas ever offered to hand the place over.
+[[affiliation-vindhyalay|Shikharālaya]] considers the whole northern frontier its own to watch and the fort an intrusion into it by a body that has no business holding ground. The kingdom raises this at every gathering, has never done more than raise it, and would be seriously embarrassed if the janapadas ever offered to hand the place over.
 
 ## The Garrison
 

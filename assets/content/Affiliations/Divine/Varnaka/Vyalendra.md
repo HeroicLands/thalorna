@@ -58,7 +58,7 @@ sohl:
 
 Vyālendra is the architect of existence. He gave shape to the earth, the skies and all living things, and he gives shape to every new work of human making. Varnakan theology holds that every founded city, every raised temple, every dedicated bridge and irrigation channel repeats the original act of cosmic shaping in miniature. To build well is to serve him, and to build poorly is to mar the pattern the world itself was made from.
 
-His worship is strongest in the cities of [[place-vedyarargn|Vedyara Region]], where he is invoked at the founding of settlements, the laying of foundations and the consecration of public works. Master architects, temple-builders and the guilds of masons and engineers all maintain household shrines to him. At [[affiliation-rajaprjnpd|Rājapur]] the great Vyālendra temple is the heart of the janapada, and its senior priest convenes the sabhā. [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]] reads him as one form of three, and [[affiliation-vyalendravada|Vyālendravāda]] holds him supreme.
+His worship is strongest in the cities of [[place-vedyarargn|Vedyara Region]], where he is invoked at the founding of settlements, the laying of foundations and the consecration of public works. Master architects, temple-builders and the guilds of masons and engineers all maintain household shrines to him. At [[affiliation-rajaprjnpd|Rājapur]] the great Vyālendra temple is the heart of the janapada, and its senior priest convenes the sabhā. [[affiliation-trimurtisampradaya|Triyanga-sampradāya]] reads him as one form of three, and [[affiliation-vyalendravada|Vyālendravāda]] holds him supreme.
 
 ### What You See at His Temples
 
@@ -81,5 +81,5 @@ A small lotus-medallion hangs above the threshold of a Vyālendran household, an
 
 - [[affiliation-varakpnthn|Varnaka Pantheon]]
 - [[lore-vyalendradty|Vyālendra]]—the god, and where his source-temple stands
-- [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]]—the orthodox tri-form tradition, which venerates Vyālendra as the shaper alongside Mahájaya and Rásikara
+- [[affiliation-trimurtisampradaya|Triyanga-sampradāya]]—the orthodox tri-form tradition, which venerates Vyālendra as the shaper alongside Mahājaya and Rāsikara
 - [[affiliation-vyalendravada|Vyālendravāda]]—the monistic sect that holds Vyālendra as the supreme deity from whom all others emanate
