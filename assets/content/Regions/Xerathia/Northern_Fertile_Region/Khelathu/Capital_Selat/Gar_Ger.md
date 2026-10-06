@@ -20,4 +20,5 @@ Gar-Ger lies in the farm country of [[place-galezkaraslt|Galezkara Selat]], clos
 
 ## See Also
 
-TBD.
+- [[place-galezkaraslt|Galezkara Selat]]—The selat country that holds it
+- [[place-galezkara|Galezkara]]—The imperial city

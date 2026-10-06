@@ -8,11 +8,23 @@ tags: [generated]
 data:
   packFolder: regkhaff
   governance:
+    model: oligarchy
+    summary: >-
+      An organized poaching ring with resources and a military-style structure, whose arrangements—taker, carrier, buyer and the official who looks elsewhere—are recorded so that each can trust the next, and whose trail leads to powerful figures in government and nobility.
     ranks:
       - level: 1
-        title: "Member"
+        title: Party to the Arrangements
         description: >-
-          Takes part in the recorded arrangements for taking protected beasts from the hunting grounds.
+          Holds a recorded part in the chain that takes protected beasts from the hunting grounds.
+    offices:
+      Taker: >-
+        Takes the protected beasts out of the hunting grounds.
+      Carrier: >-
+        Moves them to the buyer without meeting either end.
+      Buyer: >-
+        Takes the beasts off the carrier's hands.
+      Official Who Looks Elsewhere: >-
+        Holds the office that should stop the trade, and does not.
 ---
 
 Those who take protected beasts out of the hunting grounds, and who have arrangements with enough officials to keep doing it.

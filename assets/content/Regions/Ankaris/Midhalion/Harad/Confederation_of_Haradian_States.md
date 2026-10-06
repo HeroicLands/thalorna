@@ -235,6 +235,7 @@ Relations with [[place-dunharargn|Dunhara Region]]'s nomadic tribes are complex�
 - [[affiliation-kethara|Kethara]]—The naval stronghold controlling the strait to the archipelago. Home of the [[affiliation-corsairleg|Corsair League]] and the war veterans.
 - [[affiliation-varoshan|Varoshan]]—The eastern gateway where sea trade meets the overland caravan routes. Most cosmopolitan city; dominant [[affiliation-ashanpnthn|Āsháian]] faith.
 - [[affiliation-ashkabel|Ashkabel]]—The cultural heart. Famous for ship design, academies, and a more balanced political culture.
+- [[affiliation-azhun|Azhûn]]—The river-mouth port on the Alz, conduit between the Dunhari desert and the western sea routes; ruled by its merchant guilds from the House of Factors.
 
 ## Commerce and Currency
 

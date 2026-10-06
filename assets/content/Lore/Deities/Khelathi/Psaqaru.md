@@ -31,6 +31,3 @@ One strand of theology holds that **Psaq'âru made Uqa'â**—that the universe 
 Psaq'âru's creative will and that [[lore-uqaadty|Uqa'â]] is the animating principle moving through his
 creation. It has never caused conflict; the priesthoods treat the aspects of creation as
 complementary rather than ranked.
-
-TBD—whether the Psaq'âru-made-Uqa'â position is ever actually pressed in the temple schools, or only
-conceded and left alone.

@@ -20,4 +20,4 @@ Gar-Iuget stands in the garden strip of [[place-gaulegirunome|Gau-Legiru]], a ri
 
 ## See Also
 
-TBD.
+- [[place-gaulegirunome|Gau-Legiru]]—The selat country that holds it

@@ -8,11 +8,17 @@ tags: [generated]
 data:
   packFolder: regkhaff
   governance:
+    model: oligarchy
+    summary: >-
+      Corrupt officials and merchant-lords who are kept strangers to one another by design and introduced through paid go-betweens. What each is owed is written in a book and enforced.
     ranks:
       - level: 1
-        title: "Member"
+        title: Named in the Book
         description: >-
-          Belongs to the network of corrupt officials and merchant-lords whose accounts record what its members are owed.
+          An official or merchant-lord whose account in the network's book records what is owed and to whom.
+    offices:
+      Go-Between: >-
+        Introduces one member to another, and is paid to forget it.
 ---
 
 A network of corrupt officials and merchant-lords who have lost a great deal to honest auditing, and who keep a quiet bounty on those who did the auditing.

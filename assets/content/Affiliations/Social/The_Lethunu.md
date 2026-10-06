@@ -11,14 +11,17 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      A faction within an established guild, acting through its parent's meetings and votes to change what the old guard holds settled, and led publicly by one of its senior members.
     ranks:
       - level: 1
-        title: "Member"
+        title: Of the Lethunu
         description: >-
-          Participates in the faction pressing for changes within its parent guild's meetings and votes.
-    offices: {}
+          Presses within the guild for change to its apprenticeship, its recruitment or its accounts.
+    offices:
+      Public Leader: >-
+        Speaks for the faction in the guild, first among its members.
   seat: null
   domains: []
   population: 0
@@ -35,16 +38,20 @@ The Lethunu is a fellowship formed within an established guild by members pressi
 
 ## Character
 
-TBD.
+A journeyman smith of [[affiliation-garmelnu|Gar'Melnu]], speaking quietly to a new apprentice in the forge, makes the warning plain: "There are two sides in the guild now. If you say you are on neither, both will count you against."
+
+The Lethunu are reformers inside a guild that holds its arrangements settled. Their politics are contentious, and a senior member speaks for them publicly as their **Public Leader**. They have no charter, and they act in the guild's own meetings and votes.
 
 ## Relations
 
-TBD.
+The Lethunu are an informal faction within Gar'Melnu, in opposition to the old guard, and they work through the guild's regular business: its meetings, its votes, its accounts. A member of the guild finds the quarrel at every meeting, since every item of business carries a question about which side it favors. The guild's old guard and the Lethunu are, between them, the most contentious internal politics the guild has had in a generation.
 
 ## Commerce and Currency
 
-TBD.
+Its members wish to shorten the apprenticeship, broaden recruitment beyond the traditional smithing families, and modernize the guild's accounting. An apprenticeship is an entry like any other, a master's undertaking to teach a craft to a named child, so the proposal to shorten it is a proposal to change what a scribe writes.
+
+An apprentice's first practical question is whose term he is serving: the old one or the one the Lethunu want.
 
 ## See Also
 
-TBD.
+- [[affiliation-garmelnu|Gar'Melnu]]—The guild it works within

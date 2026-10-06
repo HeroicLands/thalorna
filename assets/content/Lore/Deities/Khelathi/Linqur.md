@@ -18,6 +18,4 @@ be done with the speed and efficiency the beast's nature permits. The division g
 point: one god watches the man, the other watches the act, and a hunter answerable to both cannot
 satisfy either by intention alone.
 
-TBD—everything beyond the hunt. The record establishes his function within
-[[affiliation-garnuw|Gar'Nuw]]'s practice and gives him no myth, no cosmic role, and no relation to
-[[affiliation-khelathpnthn|Khelâthi Pantheon]].
+Why the hunt needs both Linqur and [[lore-linhurdty|Linhur]] is left open: kin, rivals and two aspects of one thing all fit what the rites show. Beyond the hunt Linqur has no myth, no cosmic role and no place in [[affiliation-khelathpnthn|Khelâthi Pantheon]].
