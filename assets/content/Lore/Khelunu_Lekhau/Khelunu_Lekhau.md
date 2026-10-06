@@ -11,8 +11,10 @@ data: {packFolder: regkharc}
 
 ## Khelunu Lekhau (The Eight Powers)
 
+"A working is an address," a lekhau master tells a novice in the first week at [[place-khelunu|Khelunu]]. "Get the name wrong and it goes somewhere else. Get the form wrong and it does not fail; it does what you actually wrote." The rest of the tradition is the consequence of that sentence.
+
 The [[lore-khelunulekha|Khelunu Lekhau]]—the Eight Powers—is the arcane philosophy of
-the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and the oldest continuously taught account of
+the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], which the Khelâthi hold to be the oldest continuously taught account of
 magical practice in the known world. It holds that the arcane divides into eight **domains**, each a
 region of the cosmic order over which a correctly known name has authority. Its practitioners are the
 **lekhau**, those who hold sacred power; the title of every high priest in the empire—**Thâz'Lekhau**, "Great of Sacred Power"—names the greatest of them.
@@ -35,8 +37,8 @@ at every moment, and that the Six exhaust the arcane.
 The Khelâthi partition the same ocean by **function in the cosmic order**—not by what a portion of
 reality is made of, but by what it is _for_. Their eight domains are theological before they are
 arcane, and the tradition makes no apology for that: in Aû'Khelâthu the distinction between priest and
-mage barely exists, and the philosophy is taught to priests as part of ordinary temple education
-rather than to a separate class of mage.
+mage barely exists. The philosophy is taught to priests as part of ordinary temple education, and
+the power it gives is licensed by temple authority, not held by a separate class of mage.
 
 **The two partitions cut across one another.** There is no table of equivalences and there cannot be
 one, because neither set of lines is a subdivision of the other. A working in the Zulaten draws on what a
@@ -97,7 +99,7 @@ of the ways in which order is maintained against the alternative.
 
 This is the hardest thing in the tradition to explain to outsiders, and the temples make no attempt.
 
-Zelgút is a genuine domain of the philosophy and is taught in full. It has to be. **You cannot ward
+Zelgút is a domain of the philosophy like the other seven, and it is taught in full. It has to be. **You cannot ward
 what you cannot describe**, and Aû'Khelâthu is a civilization whose most valuable magic is protective:
 the seals on the tombs, the curses at the thresholds, the wards worked into the glyphs, and above all
 the binding that holds the cursed Way at [[place-zugezer|Zu-Gezer]] shut. Every one of those is a
@@ -150,7 +152,7 @@ names struck from every wall.
 The two traditions therefore train in opposite directions, and both know it.
 
 The Ordo channels students into a single Eídma early and accepts the cost: its mages are brilliant
-within their Eídma and increasingly limited outside it, the opposing Eídma becoming genuinely alien.
+within their Eídma and increasingly limited outside it, the opposing Eídma becoming alien.
 This is efficient, and it is also what makes an Initiatus easy to examine and to regulate—which the
 Héx Hodäi's own history concedes was among the reasons the six-fold model won out in the west.
 
@@ -194,7 +196,7 @@ selat, where the Eight are taught in their fullest form and where the deepest ar
 kept. The city's name is the number: it is the place of the Eight, and has been for as long as the
 king-lists run.
 
-That a philosophy of magic should be seated in an archive rather than a sanctum is not incidental. In
+A philosophy of magic seated in an archive rather than a sanctum follows from its premise: in
 a tradition where power is correct address, the library _is_ the armory.
 
 ### See Also

@@ -56,19 +56,20 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-## Gar-Ithnetáu (House of the Westward Road)
+"Nobody checks your work once the door is sealed," a **Binder of the Chamber** tells an apprentice at the mouth of a tomb, "and nobody can. Get it right now."
 
-The House of the Zulaten holds the night half of the same circuit, and by common agreement the most
-powerful workings in the tradition: the spells that protect the dead, guide the soul, and ward the
-tomb. It is also the House whose errors are the least recoverable, since a working set in a sealed
-chamber cannot be inspected without breaking the seal that is the point of it.
+**Gar-Ithnetáu**, the House of the Westward Road, holds the night half of the circuit and, by common agreement, the most powerful workings in the tradition: the spells that protect the dead, guide the soul and ward the tomb. It is also the House whose errors are the least recoverable. A working set in a sealed chamber cannot be inspected without breaking the seal that is the point of it.
 
-[[lore-ithnetau|Ithnetáu]]—the Westward Road—is the domain of the dead, passage, gates, resurrection, and the night. It is one of the
-eight into which the [[lore-khelunulekha|Khelunu Lekhau]] partitions the Dýnaris—by function in
-the cosmic order rather than by substance, which is why no portion of it corresponds to any single
-Eídma of the western [[affiliation-hexhodai|Héx Hodäi]].
+## Three Offices
 
-### See Also
+The **Keeper of the Twelve Hours** holds the litany by which a soul is guided through the night, and answers for its exactness at every hour. The Binder of the Chamber sets the workings in the deepest chambers: the zaglu-warriors, the ḍumaṭu that wake at a broken seal, and the revenant-wardens, ṭerebu set to walk the dark with their wits about them.
 
+The **Reader of the Sealed Work** is the only office permitted to open a sealed chamber to correct a failed binding, and must reseal it the same night.
+
+The House is the second half of the circuit [[affiliation-garathenuqa|Gar-Athen'Uqa]] begins. [[lore-ithnetau|Ithnetáu]] is the dead, passage, gates, resurrection and the night, and the tradition holds the two as a single road.
+
+## See Also
+
+- [[lore-ithnetau|Ithnetáu]]—the domain
 - [[lore-khelunulekha|Khelunu Lekhau]]—the philosophy and the other seven domains
 - [[place-khelunu|Khelunu]]—where the Eight are taught
