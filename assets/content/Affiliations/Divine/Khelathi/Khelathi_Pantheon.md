@@ -103,7 +103,7 @@ So the gods are present at the moments that bind people. They witness promises, 
 
 ## Temple Hierarchy
 
-Every major temple in **Aû'Khelâthu** keeps the same three ranks, a structure so ancient that the Khelâthi hold it divinely ordained. The Gar-Aû stands above all three as nominal supreme priest of every god, and all temple authority is claimed to flow down from that office.
+Every major temple in [[affiliation-empireakhlth|Aû'Khelâthu]] keeps the same three ranks, a structure so ancient that the Khelâthi hold it divinely ordained. The Gar-Aû stands above all three as nominal supreme priest of every god, and all temple authority is claimed to flow down from that office.
 
 - Thâz'Lekhau ("Great of Sacred Power")—the High Priest or High Priestess of a major temple and the supreme religious authority of one cult. Each major temple has one, who manages its holdings, speaks with the voice of the god and conducts the great seasonal rites. The title carries great political weight, and in the great temples only the Thâz'Lekhau and the Gar-Aû may enter the innermost sanctuary where the god's image dwells.
 - Lem'Nelgir ("Servant of the God")—the ordained priesthood and the working body of the temple. Lem'Nelgir conduct the daily rites, manage temple lands and finances, teach in the temple schools, perform divinations, and carry out the temple's part in local government.

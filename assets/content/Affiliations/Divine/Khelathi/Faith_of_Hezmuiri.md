@@ -93,7 +93,7 @@ His worship also reaches into daily life through amulets against decay and corru
 
 ## Organization
 
-Essentially every person needs these priests one day, and the preparation of tombs and burial goods creates enormous economic activity, so the priesthood of Hezmuîri is among the largest and most powerful in **Aû'Khelâthu**. The Thâz'Lekhau (High Priest) of Hezmuîri typically holds influence second only to the [[lore-garauu|Gar-Aû]]'s and can at times rival it, depending on the political alignments of the day and the strength of the individual priesthoods.
+Essentially every person needs these priests one day, and the preparation of tombs and burial goods creates enormous economic activity, so the priesthood of Hezmuîri is among the largest and most powerful in [[affiliation-empireakhlth|Aû'Khelâthu]]. The Thâz'Lekhau (High Priest) of Hezmuîri typically holds influence second only to the [[lore-garauu|Gar-Aû]]'s and can at times rival it, depending on the political alignments of the day and the strength of the individual priesthoods.
 
 Beneath the High Priest an extensive hierarchy of Lem'Nelgir (ordained priests) manages the specialties of the domain. Some are scholars and ritualists who chant the required prayers and supervise the complex ceremonies. Some are master embalmers who have spent decades perfecting the technical knowledge to preserve bodies perfectly. Some run the vast facilities themselves: the drying beds where bodies lie in natron, the workshops where linen is prepared, the chambers where aromatic oils and ointments are made.
 

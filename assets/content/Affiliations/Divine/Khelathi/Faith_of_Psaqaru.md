@@ -81,7 +81,7 @@ At home a craftsperson keeps a personal shrine where the tools of the trade sit 
 
 ## Organization
 
-The priesthood is relatively small beside other temples, because the god is worshiped in workshops, building sites and quarries throughout **Aû'Khelâthu** as much as in sanctuaries. His major temples are still centers of architectural knowledge and training. The Thâz'Lekhau (High Priest) is typically chosen from among the greatest architects of the generation and often stays involved in major construction after taking religious office, so the priesthood keeps current with every innovation in the building arts.
+The priesthood is relatively small beside other temples, because the god is worshiped in workshops, building sites and quarries throughout [[affiliation-empireakhlth|Aû'Khelâthu]] as much as in sanctuaries. His major temples are still centers of architectural knowledge and training. The Thâz'Lekhau (High Priest) is typically chosen from among the greatest architects of the generation and often stays involved in major construction after taking religious office, so the priesthood keeps current with every innovation in the building arts.
 
 The Lem'Nelgir (ordained priests) specialize in aspects of the craft tradition: one oversees a school for stonemasons, another the training of sculptors, another the preservation of architectural knowledge and the keeping of plans and records. The Wazu (acolytes) are usually gifted young craftspeople whom master artisans identify and bring to the temple for spiritual training and advanced technical education. Many leave the priesthood later to become master craftspeople, spreading the god's influence as they set up their own workshops and train the next generation.
 

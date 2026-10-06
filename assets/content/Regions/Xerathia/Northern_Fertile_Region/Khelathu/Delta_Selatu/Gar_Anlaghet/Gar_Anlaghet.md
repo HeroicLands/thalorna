@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-**Gar-Anlaghet** is where **Aû'Khelâthu** meets the sea, and the sea has learned to expect it. The city stands on the westernmost and deepest mouth of the river, where the channel runs broad enough to take the largest ships, and it is the empire's principal sea-gate: a crowded sprawl of quays, bonded warehouses, counting-houses and foreign quarters, home to about 120,000 people. After the capital it is the richest and most cosmopolitan city in the realm, and the wealth of the whole empire is loaded out here while the goods of the wider world are brought in.
+**Gar-Anlaghet** is where [[affiliation-empireakhlth|Aû'Khelâthu]] meets the sea, and the sea has learned to expect it. The city stands on the westernmost and deepest mouth of the river, where the channel runs broad enough to take the largest ships, and it is the empire's principal sea-gate: a crowded sprawl of quays, bonded warehouses, counting-houses and foreign quarters, home to about 120,000 people. After the capital it is the richest and most cosmopolitan city in the realm, and the wealth of the whole empire is loaded out here while the goods of the wider world are brought in.
 
 The harbor never sleeps. Grain, papyrus, linen, gold and exquisite artisan work go down to the ships; timber, metals, spices, wine and the luxuries of [[place-midhalnrgn|Mídhalión Region]] come up the quays. Every cargo is taxed at the [[lore-garauu|Gar-Aû]]'s customs-house, and every fortune made on one is banked through the [[affiliation-garhalzi|Gár-Hálzi]] houses of the waterfront. A factor who pays in foreign coin finds it weighed and discounted against the gezan standard at a money-changer's table on the quay before it buys anything, so carry the empire's own weight-pieces if you can.
 

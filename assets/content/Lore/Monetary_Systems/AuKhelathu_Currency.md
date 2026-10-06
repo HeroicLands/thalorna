@@ -8,7 +8,7 @@ tags: [reference, currency, khelathu, xerathia, economy]
 data: {packFolder: regkhecon}
 ---
 
-**Aû'Khelâthu** strikes no round coin, and every price in it is a weight. "A piece you know passes at its face," an assayer of the [[affiliation-garhalzi|Gár-Hálzi]] tells the apprentice who has just been given a balance of his own. "A piece you do not know goes on the scale, and you take what the scale says, whatever the seller tells you." The rest of the money follows from that rule: sealed weight-pieces that pass without a second look, and a temple-treasury behind them that will weigh anything else.
+[[affiliation-empireakhlth|Aû'Khelâthu]] strikes no round coin, and every price in it is a weight. "A piece you know passes at its face," an assayer of the [[affiliation-garhalzi|Gár-Hálzi]] tells the apprentice who has just been given a balance of his own. "A piece you do not know goes on the scale, and you take what the scale says, whatever the seller tells you." The rest of the money follows from that rule: sealed weight-pieces that pass without a second look, and a temple-treasury behind them that will weigh anything else.
 
 The Aû'Khelâthu currency is the standard currency of the **Northern Fertile Region of Xerathia**—the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] itself, the [[affiliation-mtrrchybth|Matriarchy of Bethûa]], and the kingdom of [[affiliation-okharis|Okháris]]. Outside the [[place-nrthrnfrtlrgn|Northern Fertile Region]] it is exchangeable as foreign currency, principally against the [[lore-vylrncrncy|Vylarian system]] through moneylenders at the trading ports of the [[place-vylarianse|Vylarian Sea]].
 

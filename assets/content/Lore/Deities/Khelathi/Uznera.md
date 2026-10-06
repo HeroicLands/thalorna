@@ -11,7 +11,7 @@ data: {packFolder: regkhdeit}
 
 _Mother of New Beginnings—a blooming lotus intertwined with a serpent._
 
-"You will want the garden first," a priestess of **Uznêra** tells a visitor to her temple, "because the goddess is easier to meet there than in any prayer." Uznêra is the great mother goddess of **Aû'Khelâthu**: fertility, renewal and healing, the principle that sustains all life. She is the river that floods each year and lays rich black silt across the valley, the womb from which creation springs, and the healer who mends what is broken and returns the wounded to wholeness.
+"You will want the garden first," a priestess of **Uznêra** tells a visitor to her temple, "because the goddess is easier to meet there than in any prayer." Uznêra is the great mother goddess of [[affiliation-empireakhlth|Aû'Khelâthu]]: fertility, renewal and healing, the principle that sustains all life. She is the river that floods each year and lays rich black silt across the valley, the womb from which creation springs, and the healer who mends what is broken and returns the wounded to wholeness.
 
 Her symbol carries the whole theology. The lotus is renewal and beauty, rising pristine each dawn from the mud of the igelu. The serpent is transformation and the shedding of old forms. Together they say that healing and fertility both require a willingness to let the old go, and that nothing is restored without something being given up.
 

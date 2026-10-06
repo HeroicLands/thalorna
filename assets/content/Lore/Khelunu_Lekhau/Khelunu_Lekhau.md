@@ -36,7 +36,7 @@ at every moment, and that the Six exhaust the arcane.
 
 The Khelâthi partition the same ocean by _function in the cosmic order_—not by what a portion of
 reality is made of, but by what it is _for_. Their eight domains are theological before they are
-arcane, and the tradition makes no apology for that: in **Aû'Khelâthu** the distinction between priest and
+arcane, and the tradition makes no apology for that: in [[affiliation-empireakhlth|Aû'Khelâthu]] the distinction between priest and
 mage barely exists. The philosophy is taught to priests as part of ordinary temple education, and
 the power it gives is licensed by temple authority, not held by a separate class of mage.
 

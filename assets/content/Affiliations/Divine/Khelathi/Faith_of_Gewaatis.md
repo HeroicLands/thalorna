@@ -63,7 +63,7 @@ The falcon is among the most perfect fliers: it sees from a great height, steers
 
 ## Where He Is Prayed To
 
-In **Aû'Khelâthu** travel is the country's business. The igelu, the great river, is its lifeblood and its highway, running north to the delta and the sea, with cities and temples along its banks and the water itself the main route of commerce. Gewaâtis watches over every boat on it, from the merchant's modest skiff to the [[lore-garauu|Gar-Aû]]'s ceremonial barge. Past the river lie the harder journeys: the wide western grazing country that shades into the far frontiers, mountain passes where ancient trails wind through treacherous ground, and distant seas where ships sail in search of trade.
+In [[affiliation-empireakhlth|Aû'Khelâthu]] travel is the country's business. The igelu, the great river, is its lifeblood and its highway, running north to the delta and the sea, with cities and temples along its banks and the water itself the main route of commerce. Gewaâtis watches over every boat on it, from the merchant's modest skiff to the [[lore-garauu|Gar-Aû]]'s ceremonial barge. Past the river lie the harder journeys: the wide western grazing country that shades into the far frontiers, mountain passes where ancient trails wind through treacherous ground, and distant seas where ships sail in search of trade.
 
 The delta ports are his most devoted cities, above all the great harbors that face the lands across the sea. Merchants and explorers gather there, tales of distant lands change hands as freely as spices and gold, and Gewaâtis's temples stand most prominently, with high towers and bright banners meant to guide ships into harbor as the falcon guides itself through the air.
 

@@ -205,7 +205,7 @@ None of it is generous and all of it works. A Khelâthi does not starve for bein
 
 ## The Burial
 
-Death and burial in **Aû'Khelâthu** is a graded industry: the rich take months of preparation, the prosperous weeks, and the poor must scrape by for the best they can. The first grade runs seventy days and uses natron, costly resins, fine linen and an amulet at every joint; the second is a shorter course with cheaper oils; the third is a wash, a wrapping and a prayer.
+Death and burial in [[affiliation-empireakhlth|Aû'Khelâthu]] is a graded industry: the rich take months of preparation, the prosperous weeks, and the poor must scrape by for the best they can. The first grade runs seventy days and uses natron, costly resins, fine linen and an amulet at every joint; the second is a shorter course with cheaper oils; the third is a wash, a wrapping and a prayer.
 
 Tombs grade the same way. The Gar-Aûu and their kin lie in the rock-cut Ways of the royal necropolis, the great nobles raise mastabas in the cemeteries that flank them, and the scribes and merchants buy niches in shared galleries further out. The poor go into pit-graves in the open desert—which, being hot and dry, mummifies a pauper for free, and often better than a cheap embalming would.
 

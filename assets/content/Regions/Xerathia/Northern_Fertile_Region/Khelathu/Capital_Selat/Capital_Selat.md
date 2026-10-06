@@ -86,7 +86,7 @@ The **Capital Selat** is a single province, and an enormous one: the selat aroun
 
 ## Character
 
-The Capital Selat is **Aû'Khelâthu** at full concentration. Here the fiction of divine kingship is performed at its most elaborate: the Gar-Aû enters and leaves through sacred gates, eats ritually prepared food and conducts affairs of state as religious ceremony, attended by legions of priests and the assembled aristocracy of the realm. Here too is the machinery behind the ceremony—the scribal bureaus that run the empire, the schools of [[affiliation-linzethrthsr|Lin'Zethu elu Reth'Sa'âr]] that staff them, the treasuries, the courts, and the granaries that feed a city of well over four hundred thousand.
+The Capital Selat is [[affiliation-empireakhlth|Aû'Khelâthu]] at full concentration. Here the fiction of divine kingship is performed at its most elaborate: the Gar-Aû enters and leaves through sacred gates, eats ritually prepared food and conducts affairs of state as religious ceremony, attended by legions of priests and the assembled aristocracy of the realm. Here too is the machinery behind the ceremony—the scribal bureaus that run the empire, the schools of [[affiliation-linzethrthsr|Lin'Zethu elu Reth'Sa'âr]] that staff them, the treasuries, the courts, and the granaries that feed a city of well over four hundred thousand.
 
 It is the most cosmopolitan place in the interior, because every selat sends its tribute, its delegations and its ambitious sons here, and it remains deeply [[lore-khelathiclt|Khelâthi]], the center of the oldest civilization in the world. To be summoned to Galezkara is to arrive at the center of everything. To be exiled from it is the cruelest fate a courtier can imagine.
 

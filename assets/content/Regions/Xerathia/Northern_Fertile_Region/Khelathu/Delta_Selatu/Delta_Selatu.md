@@ -86,7 +86,7 @@ Where the [[place-zumeleshrvr|Zumélesh]] reaches the [[place-vylarianse|Vylaria
 
 ## Character
 
-The Delta is where **Aû'Khelâthu** meets the wider world, and it shows. The port cities are crowded and polyglot: [[affiliation-cnfdrtnhrdnstts|Haradian]] trading factors keep permanent quarters along the docks, merchants from [[place-midhalnrgn|Mídhalión]] haggle in the markets, and the houses of the [[affiliation-zebequzut|Zebequ'Zut]] do their quiet business at delta banquets.
+The Delta is where [[affiliation-empireakhlth|Aû'Khelâthu]] meets the wider world, and it shows. The port cities are crowded and polyglot: [[affiliation-cnfdrtnhrdnstts|Haradian]] trading factors keep permanent quarters along the docks, merchants from [[place-midhalnrgn|Mídhalión]] haggle in the markets, and the houses of the [[affiliation-zebequzut|Zebequ'Zut]] do their quiet business at delta banquets.
 
 The conservative landowners of the [[affiliation-upperrivrslt|Upper River Selatu]] think delta-folk cosmopolitan, sharp-tongued and faintly suspect, and they regard an easy familiarity with foreigners as one short step from disloyalty. The delta Halzi'a return the contempt with interest. That rivalry, between river conservatives and delta cosmopolitans, is one of the steady tensions of [[lore-khelathiclt|Khelâthi]] politics.
 

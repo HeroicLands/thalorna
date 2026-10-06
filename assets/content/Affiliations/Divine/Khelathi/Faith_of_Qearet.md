@@ -87,7 +87,7 @@ Each month the Wazu of her temples perform the **ritual of the Scales**. They in
 
 ## Organization
 
-At the head stands the Thâz'Lekhau, the High Priest or High Priestess, among the most powerful positions in **Aû'Khelâthu** because the holder is the final arbiter of divine law and justice. Below stand the Lem'Nelgir, the ordained priests who serve as judges, keepers of law and interpreters of Qe'âret's will. They are chosen for wisdom, impartiality and unwavering commitment to truth, and many train in law, rhetoric and theology for decades before ordination.
+At the head stands the Thâz'Lekhau, the High Priest or High Priestess, among the most powerful positions in [[affiliation-empireakhlth|Aû'Khelâthu]] because the holder is the final arbiter of divine law and justice. Below stand the Lem'Nelgir, the ordained priests who serve as judges, keepers of law and interpreters of Qe'âret's will. They are chosen for wisdom, impartiality and unwavering commitment to truth, and many train in law, rhetoric and theology for decades before ordination.
 
 The third tier is the Wazu, young men and women who serve the temples in preparation for possible ordination. They study the legal codes, learn to read and write the sacred scripts, and serve as scribes and administrators within the temple complex. A Wazu must show absolute fidelity to Qe'âret's principles before advancement is even considered.
 

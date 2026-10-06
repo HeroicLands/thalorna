@@ -90,7 +90,7 @@ Gar-Reth'Sa'âr is the empire's memory and its schoolroom. Its temper is bookish
 
 Two powers divide the selat. The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] governs the land and the grain from [[place-khelunu|Khelunu]]; the Thâz'Lekhau of Reth'Sa'âr governs the word and the number. The priesthood is the dominant power. It is less wealthy than the great mortuary or solar cults and more influential than its purse, for it controls the archives, certifies the scribes, computes the calendar, and is trusted to keep the king-lists that legitimize every dynasty. In a civilization that runs on records, that is no small thing.
 
-The selat draws ambitious youths from every corner of the empire to its schools and sends them back out as the scribes, accountants and learned men who actually run **Aû'Khelâthu**.
+The selat draws ambitious youths from every corner of the empire to its schools and sends them back out as the scribes, accountants and learned men who actually run [[affiliation-empireakhlth|Aû'Khelâthu]].
 
 ## Notable Features
 
