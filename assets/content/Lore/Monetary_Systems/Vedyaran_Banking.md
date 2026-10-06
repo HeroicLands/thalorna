@@ -44,5 +44,5 @@ The clerk's last rule is the shortest: outside the five seats, the metal is the 
 ## See Also
 
 - [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]]—the chartering institution; full institutional description
-- [[lore-mdhvndrcnt|The Madhuvindra Count]]—the calendar the Collective's own accounts run on
+- [[lore-mdhvndrcnt|The Madhusthāna Count]]—the calendar the Collective's own accounts run on
 - [[lore-aukhlthcrncy|Aû'Khelâthu Currency]]—the weight-attested system Vedyaran coin exchanges against at the sea

@@ -58,7 +58,7 @@ Four great rivers leave the ice at four glacier-springs, and the [[affiliation-v
 
 The valleys hold wide fertile floodplains, and the Chandramahī delta carries two rice crops a year. The Mahānadī has changed its channel four times within written record and [[lore-drwnngseat|drowned a royal seat]] doing it, so the villages of the central plain sit on old levees and on mounds raised over generations.
 
-Between the rivers lie forests and the high, semi-arid tableland of [[place-vandhyabhumi|Vandhyabhūmi]], where wells are property and the ground is not, and where the ruined capital of [[place-madhavendra|Madhuvindra]] stands on open pasture. The lower Bhārava runs through [[place-bharavavana|Bhāravavana]], six hundred miles of tropical forest held in temple estates. Below the Eastern Reach lies [[place-forestnoroad|the Forest of No Road]], which no janapada has ever sent an assembly into.
+Between the rivers lie forests and the high, semi-arid tableland of [[place-vandhyabhumi|Vandhyabhūmi]], where wells are property and the ground is not, and where the ruined capital of [[place-madhavendra|Madhusthāna]] stands on open pasture. The lower Bhārava runs through [[place-bharavavana|Bhāravavana]], six hundred miles of tropical forest held in temple estates. Below the Eastern Reach lies [[place-forestnoroad|the Forest of No Road]], which no janapada has ever sent an assembly into.
 
 ## Three Coasts
 
@@ -107,6 +107,6 @@ The [[being-vdyrnrhn|Vedyaran rhinoceros]] keeps to the marshes and tall grass o
 - [[place-bharavavana|Bhāravavana]]—the lower Bhārava forest
 - [[place-suryasamdra|Sūrya-samudra]], [[place-meghsamdra|Megha-samudra]] and [[place-sandhysmdr|Sandhyā-samudra]]—the three surrounding seas
 - [[lore-vedyariclt|Vedyari]]—the culture of the subcontinent
-- [[lore-mdhvndrcnt|The Madhuvindra Count]]—the year Vedyara keeps
-- [[lore-stndrdmdhv|The Standardization at Madhuvindra]]—the reign the count begins from
+- [[lore-mdhvndrcnt|The Madhusthāna Count]]—the year Vedyara keeps
+- [[lore-stndrdmdhv|The Standardization at Madhusthāna]]—the reign the count begins from
 - [[lore-hndrdbnnrs|The Storm of the Hundred Banners]], [[lore-conchdoor|The Conch-Door Incursion]] and [[lore-thirdcmpct|The Third Compact]]—the crisis generation of four centuries ago

@@ -115,7 +115,7 @@ Vedyari's roots lie in an isolate family with no clear external relations, on th
 
 ### Classical Period (Age of Kingdoms)
 
-The standardization of Classical Vedyari occurred roughly 1,200 years before the present, during the reign of the philosopher-kings of Madhuvindra. This period saw the composition of the great philosophical commentaries, legal codes, and epic narratives that remain the prestige texts of the civilization.
+The standardization of Classical Vedyari occurred roughly 1,200 years before the present, during the reign of the philosopher-kings of Madhusthāna. This period saw the composition of the great philosophical commentaries, legal codes, and epic narratives that remain the prestige texts of the civilization.
 
 ### Modern Era
 
@@ -296,7 +296,6 @@ The words of Vedyari, the rules a word is built by and a register of every Vedya
 - Rājāvāra
 - Rājāvarta
 - Rājāyetra
-- Ramājita
 - Rāmānava
 - Rānīśva
 - Rājamitravāhana
@@ -349,7 +348,6 @@ The words of Vedyari, the rules a word is built by and a register of every Vedya
 - Amrutika
 - Amritapadmagarba
 - Anandi
-- Anantāśrīvallabhā
 - Arāti
 - Arpetika
 - Āsvari
@@ -398,7 +396,6 @@ The words of Vedyari, the rules a word is built by and a register of every Vedya
 - Nāndari
 - Narthika
 - Padmālī
-- Padmāvatichandrikā
 - Pallāvi
 - Pirnashri
 - Piyari
@@ -512,7 +509,6 @@ The words of Vedyari, the rules a word is built by and a register of every Vedya
 - Manṛṣṭi
 - Māridiya
 - Nandivara
-- Nandivarmāndhānīka
 - Niranjara
 - Padmadīksha
 - Padmavṛksha

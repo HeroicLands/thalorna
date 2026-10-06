@@ -73,7 +73,7 @@ data:
       unresolved: ["which temple received the first gift, and from whom"]
 ---
 
-A priest of [[place-uppersuvtmpl|the Upper Temple]] at Suvarnagiri, walking a newcomer down the pilgrim road, counts the highlands' age on his fingers: the temples, the bow, the forest. All three are fifteen centuries old, about 780 BF by the western count, which puts them three centuries before [[lore-stndrdmdhv|the standardization at Madhuvindra]] and its count of years. Nobody in the highlands dates them closer than the century, and the **Highland Foundations** are the three institutions the upper country of [[place-vedyarargn|Vedyara]] has lived by ever since.
+A priest of [[place-uppersuvtmpl|the Upper Temple]] at Suvarnagiri, walking a newcomer down the pilgrim road, counts the highlands' age on his fingers: the temples, the bow, the forest. All three are fifteen centuries old, about 780 BF by the western count, which puts them three centuries before [[lore-stndrdmdhv|the standardization at Madhusthāna]] and its count of years. Nobody in the highlands dates them closer than the century, and the **Highland Foundations** are the three institutions the upper country of [[place-vedyarargn|Vedyara]] has lived by ever since.
 
 ## The Gold Temples
 

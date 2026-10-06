@@ -1,16 +1,16 @@
 ---
 shortcode: madhavendra
-name: {full: Madhuvindra, aliases: [The Capital of the Philosopher-Kings]}
+name: {full: Madhusthāna, aliases: [The Capital of the Philosopher-Kings]}
 type: place
 subType: site
 description: "The capital of the philosopher-kings, roofless and unquarried on open pasture in the middle of the plateau—the place a civilization counts its years from and almost nobody has seen."
 tags: [ruin, inland]
 data: {demonym: null, lore: [], parents: [vandhyabhumi], population: null, packFolder: vedyara}
 
-# terran_analog: a classical Indian royal capital; the name keeps clear of Mādhava, an epithet of Krishna, and is built from madhu, sweetness, and indra, a chief
+# terran_analog: a classical Indian royal capital; the name keeps clear of Mādhava, an epithet of Krishna, and is built from madhu, sweetness, and sthāna, a seat
 ---
 
-**Madhuvindra** stands on open pasture in the center of [[place-vandhyabhumi|Vandhyabhūmi]], twelve centuries after the reign that raised it and the better part of nine since anyone lived in it. It is roofless. It has never been quarried. Its walls stand to the height of a man over most of their circuit, its street grid is legible from the ridge above it, and the dry air that makes the plateau poor ground for a plow has made it very good ground for a ruin.
+**Madhusthāna** stands on open pasture in the center of [[place-vandhyabhumi|Vandhyabhūmi]], twelve centuries after the reign that raised it and the better part of nine since anyone lived in it. It is roofless. It has never been quarried. Its walls stand to the height of a man over most of their circuit, its street grid is legible from the ridge above it, and the dry air that makes the plateau poor ground for a plow has made it very good ground for a ruin.
 
 Nothing on the plateau has been built at that scale since, and nothing on the plateau needs to be.
 
@@ -18,7 +18,7 @@ Nothing on the plateau has been built at that scale since, and nothing on the pl
 
 There is no road to it and no reason for one. It sits between droveways rather than on one, four days from the nearest sabhā town and a great deal further from anywhere that would think of it as an object of interest. Nobody keeps it, nobody charges for it and nobody prevents anything. A visitor who wants to see it hires a drover and rides. "Find the tanks and you have found the city," the drover says, "because the walls only stand between them."
 
-That is why the [[lore-mdhvndrcnt|Madhuvindra count]] has the quality it has. A quarter of a million people gather on the [[place-mahanadi|Mahānadī]] in a year numbered from this place, and the overwhelming majority of them will never stand in it, could not say what direction it lies in, and have never met anyone who has.
+That is why the [[lore-mdhvndrcnt|Madhusthāna count]] has the quality it has. A quarter of a million people gather on the [[place-mahanadi|Mahānadī]] in a year numbered from this place, and the overwhelming majority of them will never stand in it, could not say what direction it lies in, and have never met anyone who has.
 
 ## The Tanks
 
@@ -28,13 +28,13 @@ Under the plateau's law a well is heritable, divisible and pledgeable, and the g
 
 ## Why It Is Still Here
 
-Stone is not scarce on the plateau and timber is, so there was never anything in Madhuvindra worth carting away that a man could not cut closer to home. The city was abandoned rather than sacked, over a long enough period that nothing about the abandonment is remembered as an event. What is remembered is the reign.
+Stone is not scarce on the plateau and timber is, so there was never anything in Madhusthāna worth carting away that a man could not cut closer to home. The city was abandoned rather than sacked, over a long enough period that nothing about the abandonment is remembered as an event. What is remembered is the reign.
 
 That reign standardized Classical Vedyari and produced the commentaries, the legal codes and the epics an educated Vedyari still studies, and every court and temple from the passes to the southern sea dates its year from it. The inscriptions in the ruin are in the standardized hand, which is what a scholar goes there to see: the language every literate person in the region writes, cut at the moment it stopped changing, on a wall with a cow tied to it.
 
 ## See Also
 
 - [[place-vandhyabhumi|Vandhyabhūmi]]—the plateau it stands on
-- [[lore-mdhvndrcnt|The Madhuvindra Count]]—the year-count dated from the reign
+- [[lore-mdhvndrcnt|The Madhusthāna Count]]—the year-count dated from the reign
 - [[affiliation-gomarga|Gomārga]]—the kingdom whose crown holds the plateau's wells
 - [[skill-vedyarlng|Vedyari]]—the language the reign standardized

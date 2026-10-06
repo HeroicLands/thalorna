@@ -1,9 +1,9 @@
 ---
 shortcode: mdhvndrcnt
-name: {full: The Madhuvindra Count, aliases: [Madhuvindra Count, M-reckoning]}
+name: {full: The Madhusthāna Count, aliases: [Madhusthāna Count, M-reckoning]}
 type: lore
 subType: calendar
-description: "Vedyara's own reckoning: twelve solar months paired into six seasons and a week of seven gods' days, counted from the standardization of Classical Vedyari under the philosopher-kings of Madhuvindra, with the moon kept beside it in a temple almanac."
+description: "Vedyara's own reckoning: twelve solar months paired into six seasons and a week of seven gods' days, counted from the standardization of Classical Vedyari under the philosopher-kings of Madhusthāna, with the moon kept beside it in a temple almanac."
 tags: [reference, calendar, vedyara]
 data:
   epoch: "-480.1"
@@ -36,19 +36,19 @@ data:
     - {name: Shitaritu, abbreviation: Shi, start: 245}
     - {name: Tāmraritu, abbreviation: Tam, start: 305}
   eras:
-    - {shortcode: bmc, name: Before the Madhuvindra Count, abbreviation: BMC, start: null}
-    - {shortcode: madhavendra, name: The Madhuvindra Count, abbreviation: M, start: 1}
+    - {shortcode: bmc, name: Before the Madhusthāna Count, abbreviation: BMC, start: null}
+    - {shortcode: madhavendra, name: The Madhusthāna Count, abbreviation: M, start: 1}
   formats: {std: "D MMMM GGG Y"}
   packFolder: vedyara
 
-# terran_analog: an Indian regnal era such as the Vikrama Samvat, counted from a capital; the name keeps clear of Mādhava, an epithet of Krishna, and is built from madhu, sweetness, and indra, a chief
+# terran_analog: an Indian regnal era such as the Vikrama Samvat, counted from a capital; the name keeps clear of Mādhava, an epithet of Krishna, and is built from madhu, sweetness, and sthāna, a seat
 ---
 
-The **Madhuvindra count** is [[place-vedyarargn|Vedyara]]'s own year-count, kept alongside—and never converted from—the BF/AF reckoning the western kingdoms date from the founding of the [[affiliation-vylarinmpr|Vylarian]] state. A Vedyaran date is written M followed by the year number; the present year is M 1200. It is a solar calendar: twelve months of fixed length paired into six seasons, a week of seven days running through them, and the moon kept separately, in a temple almanac, for everything the rites require it for.
+The **Madhusthāna count** is [[place-vedyarargn|Vedyara]]'s own year-count, kept alongside—and never converted from—the BF/AF reckoning the western kingdoms date from the founding of the [[affiliation-vylarinmpr|Vylarian]] state. A Vedyaran date is written M followed by the year number; the present year is M 1200. It is a solar calendar: twelve months of fixed length paired into six seasons, a week of seven days running through them, and the moon kept separately, in a temple almanac, for everything the rites require it for.
 
 ## The Epoch
 
-The count begins with [[lore-stndrdmdhv|the standardization of Classical Vedyari]], "roughly 1,200 years before the present," under the philosopher-kings of Madhuvindra, whose capital gave the era its name. That reign produced the great philosophical commentaries, legal codes and epic narratives that are still the prestige texts of the civilization. Vedyaran reckoning takes its zero from that reign, and from no Vylarian, Khelâthi or Tānvüri event. M 1 falls in 480 BF. A date given in M converts to the [[lore-commoncal|Common Calendar]] by the rule AF year = M year − 480. A result at or below zero is read as a BF date instead, counting back from AF 1.
+The count begins with [[lore-stndrdmdhv|the standardization of Classical Vedyari]], "roughly 1,200 years before the present," under the philosopher-kings of Madhusthāna, whose capital gave the era its name. That reign produced the great philosophical commentaries, legal codes and epic narratives that are still the prestige texts of the civilization. Vedyaran reckoning takes its zero from that reign, and from no Vylarian, Khelâthi or Tānvüri event. M 1 falls in 480 BF. A date given in M converts to the [[lore-commoncal|Common Calendar]] by the rule AF year = M year − 480. A result at or below zero is read as a BF date instead, counting back from AF 1.
 
 ## The Year and Its Months
 
@@ -102,13 +102,13 @@ The work is easier here than a foreigner expects it to be. [[place-vaelith|Vaeli
 
 ## Who Keeps It
 
-The [[affiliation-trimurtisampradaya|Triyanga-sampradāya]], the largest and most orthodox of the Varnakan sects, sets the public year. Its high priests sight it at the [[place-suryatempl|Sūrya temple]], the pilgrim shrine at [[place-chandrprbh|Chandraprabhava]] where the Chandramahī comes out of the ice. The sighting is announced from there to every court and temple that keeps the Madhuvindra count.
+The [[affiliation-trimurtisampradaya|Triyanga-sampradāya]], the largest and most orthodox of the Varnakan sects, sets the public year. Its high priests sight it at the [[place-suryatempl|Sūrya temple]], the pilgrim shrine at [[place-chandrprbh|Chandraprabhava]] where the Chandramahī comes out of the ice. The sighting is announced from there to every court and temple that keeps the Madhusthāna count.
 
 The reckoners of the Ganaka-shala compute the same year instead of sighting it, and the two methods do not always agree. A single day between the sighted year and the computed one is enough to move the date of a Mela, a Weighing or a coronation. Neither method is dropped for the other. A court states which one it follows.
 
 ## Elsewhere
 
-Vedyara's neighbors keep their own counts and not the Madhuvindra one. [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] dates from the [[lore-qettelgu|Qet Telgu]] and the [[affiliation-tanvurempr|Empire of Tānvür]] from the **Celestial Calendar**'s [[lore-greatcnvrg|Great Convergence]]. None of the three converts to either of the others in ordinary use. A trader or an envoy crossing between them carries both dates and translates neither.
+Vedyara's neighbors keep their own counts and not the Madhusthāna one. [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] dates from the [[lore-qettelgu|Qet Telgu]] and the [[affiliation-tanvurempr|Empire of Tānvür]] from the **Celestial Calendar**'s [[lore-greatcnvrg|Great Convergence]]. None of the three converts to either of the others in ordinary use. A trader or an envoy crossing between them carries both dates and translates neither.
 
 ## See Also
 

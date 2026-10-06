@@ -33,7 +33,7 @@ Ask a janapada's **Dūta** (envoy) how old his republic is, and he will give you
 
 The **Janapada Form** is that claim. A cluster of villages owns its land collectively through a temple. The temple keeps the irrigation works, the boundary stones, the granary, the genealogies and the codes, and the householders of the villages sit as a sabhā in its great hall. The janapadas hold that the form has run unbroken from its beginning to the present, through temples burned and villages emptied by drought and kingdoms that took smaller polities in and let them go again, and that a village-cluster today is governed much as one was when the [[affiliation-vylarinmpr|Vylarian Empire]] was founded.
 
-That is the janapadas speaking of themselves, and it is a claim no record bears out or refutes. The subcontinent's year-count, [[lore-mdhvndrcnt|the Madhuvindra count]], begins in 480 BF; the oldest institutions with an age attached, [[lore-hghlndfndn|the Highland Foundations]], are reckoned fifteen centuries old by their own temples; and nothing written reaches back the further fifteen centuries to the first sabhā. Nobody can say where the first janapada stood.
+That is the janapadas speaking of themselves, and it is a claim no record bears out or refutes. The subcontinent's year-count, [[lore-mdhvndrcnt|the Madhusthāna count]], begins in 480 BF; the oldest institutions with an age attached, [[lore-hghlndfndn|the Highland Foundations]], are reckoned fifteen centuries old by their own temples; and nothing written reaches back the further fifteen centuries to the first sabhā. Nobody can say where the first janapada stood.
 
 ## See Also
 

@@ -124,6 +124,6 @@ Gomārga uses the [[lore-vdyrnbnkng|Vedyaran banking system]], administered thro
 
 - [[place-vandhyabhumi|Vandhyabhūmi]]—the plateau the kingdom holds
 - [[place-vedyarargn|Vedyara Region]]—parent region
-- [[lore-mdhvndrcnt|The Madhuvindra Count]]—the year-count dated from the ruined capital on the plateau
+- [[lore-mdhvndrcnt|The Madhusthāna Count]]—the year-count dated from the ruined capital on the plateau
 - [[affiliation-varakpnthn|Varnaka Pantheon]]—religious tradition
 - [[skill-vedyarlng|Vedyari]]—language and naming conventions

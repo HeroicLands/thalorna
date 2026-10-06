@@ -94,7 +94,7 @@ Visiting scholars are met at the gate of the [[place-rajavalilib|Rājavalī Libr
 
 ## The Fall of the Kingdom
 
-Rājapur was the capital of the [[lore-mhndkngdm|Kingdom of Mahānadī]], a middling Vedyari kingdom of the early classical period. Its ruling dynasty traced its descent from a heroic ancestor of legendary virtue, as Vedyari dynasties generally do. The chronicles give it some two and a half centuries of flourishing, from the founding of its capital in the generation of [[lore-stndrdmdhv|the standardization at Madhuvindra]], in which it dominated the upper Mahānadī valley, fielded a respectable army, kept extensive temple-patronage, and produced several monarchs the classical chronicles recount as exemplary.
+Rājapur was the capital of the [[lore-mhndkngdm|Kingdom of Mahānadī]], a middling Vedyari kingdom of the early classical period. Its ruling dynasty traced its descent from a heroic ancestor of legendary virtue, as Vedyari dynasties generally do. The chronicles give it some two and a half centuries of flourishing, from the founding of its capital in the generation of [[lore-stndrdmdhv|the standardization at Madhusthāna]], in which it dominated the upper Mahānadī valley, fielded a respectable army, kept extensive temple-patronage, and produced several monarchs the classical chronicles recount as exemplary.
 
 It collapsed from within, in the standard Vedyari narrative of kingly decline. The Memory-Keepers recite the last six monarchs as a procession of progressively worse rulers: a dilettante, a cruel man, an incompetent, a paranoiac, a child-tyrant, and a drunkard who let his own household guards loot the granaries while a famine ran in the villages around him. Tradition holds that the last king was poisoned by his own cook, who could no longer endure the suffering of his neighbors.
 
@@ -107,7 +107,7 @@ The sabhā met for forty days. It declared the kingdom dissolved and the dynasti
 - The royal army was disbanded, and its men were given parcels of land and taken into the cultivating and artisan households of the new janapada.
 - The council-chamber was kept, and the record in it was kept whole.
 
-The classical chronicles put this at M 240 in the [[lore-mdhvndrcnt|Madhuvindra count]], 241 BF in the [[affiliation-vylarinmpr#the-common-calendar|Common Calendar]], some nine hundred and sixty years ago. Rājapur has governed itself by the same arrangement ever since, with adjustments at the margins.
+The classical chronicles put this at M 240 in the [[lore-mdhvndrcnt|Madhusthāna count]], 241 BF in the [[affiliation-vylarinmpr#the-common-calendar|Common Calendar]], some nine hundred and sixty years ago. Rājapur has governed itself by the same arrangement ever since, with adjustments at the margins.
 
 [[lore-fortydays|The Forty Days]] records the sabhā's answer:
 

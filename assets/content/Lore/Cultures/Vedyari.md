@@ -67,7 +67,7 @@ None of this is held to be cruelty by the people who keep it. It is held to be t
 
 ## The Year
 
-Vedyara keeps the [[lore-mdhvndrcnt|Madhuvindra count]]. The public year is sighted by the [[affiliation-trimurtisampradaya|Triyanga-sampradāya]] at the [[place-suryatempl|Sūrya temple]] where the [[place-chandrmahi|Chandramahī]] comes out of the ice, and computed, separately, by the reckoners at [[place-chandrapur2|Chandrapur]]. The two figures differ by a day often enough that a court states which one it follows before it fixes a coronation, a Weighing or a festival, and a household that has traveled for the wrong one has no recourse.
+Vedyara keeps the [[lore-mdhvndrcnt|Madhusthāna count]]. The public year is sighted by the [[affiliation-trimurtisampradaya|Triyanga-sampradāya]] at the [[place-suryatempl|Sūrya temple]] where the [[place-chandrmahi|Chandramahī]] comes out of the ice, and computed, separately, by the reckoners at [[place-chandrapur2|Chandrapur]]. The two figures differ by a day often enough that a court states which one it follows before it fixes a coronation, a Weighing or a festival, and a household that has traveled for the wrong one has no recourse.
 
 The ritual year and the agricultural year are the same year. The monsoon sets both, [[affiliation-meghanatha|Meghanātha]] is petitioned at its onset by every household that grows anything, and the great pilgrim assembly falls in the dry season because that is when the roads carry.
 

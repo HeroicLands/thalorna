@@ -14,7 +14,7 @@ data:
       depth: region
       sources: [place-sandstonealtr, lore-rcitkngsmhnd, affiliation-rajaprjnpd]
       summary: >-
-        The Mahānadī dynasty founds its capital at Rājapur and cuts the sandstone altar of Vyālendra in the temple beside the palace. Every king of the line is consecrated at that altar, the last included. The founding falls in the generation of the standardization at Madhuvindra, and the kingdom's chronicle counts its years from M 1.
+        The Mahānadī dynasty founds its capital at Rājapur and cuts the sandstone altar of Vyālendra in the temple beside the palace. Every king of the line is consecrated at that altar, the last included. The founding falls in the generation of the standardization at Madhusthāna, and the kingdom's chronicle counts its years from M 1.
       standing: single-source
       where:
         locus: [place-rajapur]
@@ -99,7 +99,7 @@ The junior scribe who meets you at the gate of [[place-rajavalilib|the Rājaval�
 
 ## The Kingdom
 
-The line was founded at [[place-rajapur|Rājapur]] in the generation of [[lore-stndrdmdhv|the standardization at Madhuvindra]], about 480 BF, and its chronicle counts its years from M 1. The founders cut [[place-sandstonealtr|the sandstone altar]] of [[affiliation-vyalendra|Vyālendra]] in the temple beside the palace, and every king of the line, the last included, was consecrated at it. The dynasty traced itself to a heroic ancestor of legendary virtue, as Vedyari dynasties do, and the Memory-Keeper's recitation hedges that ancestor as legend.
+The line was founded at [[place-rajapur|Rājapur]] in the generation of [[lore-stndrdmdhv|the standardization at Madhusthāna]], about 480 BF, and its chronicle counts its years from M 1. The founders cut [[place-sandstonealtr|the sandstone altar]] of [[affiliation-vyalendra|Vyālendra]] in the temple beside the palace, and every king of the line, the last included, was consecrated at it. The dynasty traced itself to a heroic ancestor of legendary virtue, as Vedyari dynasties do, and the Memory-Keeper's recitation hedges that ancestor as legend.
 
 From Rājapur the kings held the upper [[place-mahanadi|Mahānadī]] and its fields. It was a middling kingdom of the early classical period: a respectable army, a great deal of temple patronage, and several monarchs the chronicles hold up as exemplary. The [[lore-rcitkngsmhnd|Recitation of the Kings of Mahānadi]] names those just kings at their places before it reaches the six who end the line—a dilettante, a cruel man, an incompetent, a paranoiac, a child-tyrant and a drunkard.
 
@@ -129,4 +129,4 @@ The dissolution did not stay in Rājapur. Every Vedyari course in political phil
 - [[place-sandstonealtr|The sandstone altar]]—where every king was consecrated
 - [[place-rajavalilib|The Rājavalī Library]]—the kingdom's record, kept whole
 - [[lore-drwnngseat|The Drowning of the Royal Seat]]—the kingdom's town the river took long after
-- [[lore-stndrdmdhv|The Standardization at Madhuvindra]]—the reign the kingdom's count begins from
+- [[lore-stndrdmdhv|The Standardization at Madhusthāna]]—the reign the kingdom's count begins from

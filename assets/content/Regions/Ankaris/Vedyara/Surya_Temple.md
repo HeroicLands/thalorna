@@ -20,7 +20,7 @@ The building is a single stone cell with a walled forecourt and a sighting terra
 
 ## The Year
 
-The orthodox civil year of [[place-vedyarargn|Vedyara]] is declared from this terrace. The high priests sight the turn against the parapet marks and announce it to every court and temple that keeps the [[lore-mdhvndrcnt|Madhuvindra count]], and the announcement is what fixes a Mela, a Weighing and a coronation. The shrine is older than its dated record: the temple's dedications on the rock shelf begin four centuries ago, when the Triyanga-sampradāya took the sighting of the year here.
+The orthodox civil year of [[place-vedyarargn|Vedyara]] is declared from this terrace. The high priests sight the turn against the parapet marks and announce it to every court and temple that keeps the [[lore-mdhvndrcnt|Madhusthāna count]], and the announcement is what fixes a Mela, a Weighing and a coronation. The shrine is older than its dated record: the temple's dedications on the rock shelf begin four centuries ago, when the Triyanga-sampradāya took the sighting of the year here.
 
 The [[place-ganakahall|reckoners at Chandrapur]] compute the same turn and get a different day. They have got a different day for as long as anyone has checked. The temple does not argue the point in public and has never had to: the sighting is the one that is announced, and the computation is the one every treasurer keeps beside it.
 
@@ -44,5 +44,5 @@ The temple's senior priest is one of the three who sit as the **Council of Three
 
 - [[place-chandrprbh|Chandraprabhava]]—the spring the temple stands beside
 - [[place-suryashkhr|Sūryashikhara]]—the peak above it
-- [[lore-mdhvndrcnt|The Madhuvindra count]]—the year it declares
+- [[lore-mdhvndrcnt|The Madhusthāna count]]—the year it declares
 - [[affiliation-trimurtisampradaya|Triyanga-sampradāya]]—the sect that keeps it

@@ -36,9 +36,9 @@ The plateau sells bullocks, hides, horn, ghee, coarse wool and the draft animals
 
 The plateau plants nothing that matters and its year does not turn on a flood. It turns on the day the herds move, and that day is fixed by a priest reading the season, not by a river. Where a river janapada and a coastal port keep two different calendars and argue about the **Mela**, the plateau keeps a third and is not consulted.
 
-It is also where the count began. The temples here follow the [[lore-mdhvndrcnt|Madhuvindra count]] as the [[affiliation-trimurtisampradaya|Triyanga-sampradāya]] sights it and hold the computed year to be an impertinence, and they say so more loudly than temples with more at stake, because the epoch is theirs.
+It is also where the count began. The temples here follow the [[lore-mdhvndrcnt|Madhusthāna count]] as the [[affiliation-trimurtisampradaya|Triyanga-sampradāya]] sights it and hold the computed year to be an impertinence, and they say so more loudly than temples with more at stake, because the epoch is theirs.
 
-## Madhuvindra
+## Madhusthāna
 
 The capital of the philosopher-kings stands on open pasture in the center of the plateau, roofless and unquarried. Its walls are standing to the height of a man over most of their circuit, its street grid is legible from the ridge above it, and drovers water stock at its tanks, which still hold. The dry air has kept it. Nothing on the plateau has been built at that scale since, and nothing needs to be.
 
@@ -81,6 +81,6 @@ The query names the settlements of the plateau. A herd walks between wells for m
 
 - [[place-vedyarargn|Vedyara Region]]—parent region
 - [[affiliation-gomarga|Gomārga]]—the kingdom of the wells and the droveways
-- [[lore-mdhvndrcnt|The Madhuvindra Count]]—the year-count dated from the capital on the plateau
+- [[lore-mdhvndrcnt|The Madhusthāna Count]]—the year-count dated from the capital on the plateau
 - [[place-mahanadi|The Mahānadī]] · [[place-sarvadarivr|The Sarvada]]—the valleys the plateau stands between
 - [[affiliation-janpdsvdyr|Janapadas of Vedyara]]—the confederation the plateau's few sabhās sit in
