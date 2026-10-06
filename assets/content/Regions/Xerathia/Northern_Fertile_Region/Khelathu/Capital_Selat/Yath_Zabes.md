@@ -20,4 +20,5 @@ Yath-Zabes is one of the farm-and-market villages of [[place-galezkaraslt|Galezk
 
 ## See Also
 
-TBD.
+- [[place-galezkaraslt|Galezkara Selat]]—The selat country that holds it
+- [[place-galezkara|Galezkara]]—The imperial city

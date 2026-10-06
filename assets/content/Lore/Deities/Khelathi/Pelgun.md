@@ -17,5 +17,4 @@ He stands outside [[affiliation-khelathpnthn|Khelâthi Pantheon]] and overlaps i
 [[lore-uzneradty|Uznêra]], whose fertility is the river's and the womb's; Pelgun's appears to be the drier
 and more masculine kind, belonging to the desert edge rather than the floodplain.
 
-TBD—how the two halves are reconciled, and whether the road-patronage grew out of the fertility
-cult or was simply attached to it because the caravans happened to start there.
+How the fertility cult and the road-patronage fit together is unresolved: the caravan patronage may have grown out of the fertility cult, or been attached to it because the caravans happened to start there.

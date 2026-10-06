@@ -3,7 +3,7 @@ shortcode: karatas
 name: {full: Karataş, aliases: []}
 type: affiliation
 subType: polity
-description: "City-state of the Byzarian League—fortress-city controlling critical sea routes between east and west, trading its strategic position for wealth and naval prestige."
+description: "City-state of the Byzarian League—the League's forge city in the mountain interior, built on its mines, basalt walls and guild masters."
 data:
   templatePriority: null
   demonym: Karataşi
