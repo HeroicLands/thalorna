@@ -46,6 +46,10 @@ It was not a buried hold. It was cut into the **cliff face of a mountain valley*
 rock, with the valley open in front of it, which is why its halls could take daylight at all and why
 anyone thought to try. And standing out from that cliff were **seven great towers**.
 
+The towers were not built up from the valley floor. They were **spurs the cliff already held**, seven
+ribs of rock standing out from the face, and the Khazári finished them until they could not be told from
+the rock they had always been. The cliff offered the seven; the clans made them towers.
+
 There were seven because there were **seven clans**—the seven that came to Thalorna together around
 5300 BF—and each tower was that clan's, and the city was theirs jointly and severally in a way the
 Khazári have never bothered to explain to anyone else.
@@ -59,9 +63,9 @@ It was not concealment. The Khazári were not hiding Khazártúrn from anyone; t
 from in 5123 BF, and they have never behaved as though they thought there was.
 
 It is **their aesthetic**, and it is consistent across everything they make. A Khazári work is finished
-to belong to the ground it stands in. The towers were not screened or camouflaged; they were _cut and
-finished as rock_—bedded, weathered, faulted, jointed, stained, carrying the same strata as the cliff
-they stand out from—because that is what a well-made thing looks like from outside. The exterior is
+to belong to the ground it stands in. The towers were not screened or camouflaged; they were spurs of the
+cliff _finished as rock_—bedded, weathered, faulted, jointed, stained, carrying the same strata as the
+cliff they stand out from—because that is what a well-made thing looks like from outside. The exterior is
 not a surface for display. It is the mountain, and it should look like the mountain.
 
 Everything they have to say is said **inside**.
@@ -76,7 +80,7 @@ Humans, who build to be seen, read this as hiding and cannot easily be talked ou
 
 The relevant consequence for the present day is real all the same, whatever the intention behind it. When
 the Khazári sealed the city they dressed the granite to the rock and left no seam—and they were not
-inventing that technique for the occasion. **They were doing what they had done from the first course.**
+inventing that technique for the occasion. **They were doing what they had done from the first spur they finished.**
 The valley today looks exactly as it has always looked.
 
 Seven stone spires and a cliff. Somebody has probably camped there.
@@ -109,6 +113,17 @@ the birds are the proof they achieved it.
 The Deep Folk are not, by reputation, a people given to display. Khazártúrn is the exception and was always
 understood to be. It was the thing they made when they were doing their best.
 
+It is the exception in a stricter sense as well. Every other Khazári work follows what the stone offers:
+a hold keeps its daylight on the face and its depths for what is serious, takes its light through the
+rock's own fractures, leads its water along the courses water already runs, and cuts as little as it
+can. Khazártúrn is **the one work in which what the Khazári wanted led over what the stone offered**.
+They cut down through the mountain to bring daylight into the depths, so that the deep places stopped
+being deep. They made water run in the thoroughfares because they could. They ran colonnades straight
+along the great ways, and stood seven towers out from the cliff. And they fed it from a hinterland that
+reshaped the country around it for twenty-seven centuries. Seven clans, in a world where nobody else
+was building, made one thing together for joy at the height of their skill, and every Khazár
+knows it as the finest thing their people ever made and as the thing no hold has made since.
+
 ## The Judgment
 
 Around **3000 BF** the [[lore-grukarfolk|Grukar]] appeared—new in the world, and the Khazári were the
@@ -131,7 +146,15 @@ been possible, **driven by a renegade of the [[lore-flksinale|Sinalë]]** who ha
 directly.
 
 It was not a war and it was not a siege. It was **a single act of genocide**, carried out on a city that
-had been built against every threat anyone had ever imagined, and it killed **everyone**. Thirty
+had been built against every threat anyone had ever imagined, and it killed **everyone**.
+
+Khazártúrn **had a refuge**, as every hold has, deep in the rock and provisioned to hold out for a long
+time. It was built for an enemy that tires and breaks, as Grukar always do. The compelled horde did neither.
+
+The renegade's quarrel was with the hinterland: a city that could not feed itself, reshaping the living
+world to keep itself fed (see [[miscgear-secondvoice|The Second Voice]]). That is the whole of the link
+between what Khazártúrn was and how it ended. The fall was not a judgment on the city, and the Khazári
+account does not treat it as one. Thirty
 thousand, or near enough that the difference is a few hundred names the record could not confirm: the
 whole population, the craftsmen and the archivists and the young, the entire seat of a people's
 knowledge, in one act.
@@ -174,6 +197,10 @@ did for Khazártúrn was to make certain it would keep.
 
 The **birds went out with the light**. They were put out first, before the last of the work, which the
 account records in one line and does not enlarge upon.
+
+The closing gave the mountain back to itself. The light that had been cut down into it is gone, the deep
+places are dark as the deep places of every other hold are dark, and the city has become the deepest
+and most serious kind of space the Khazári keep: a tomb.
 
 ## What Is In There Now
 
