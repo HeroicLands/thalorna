@@ -16,7 +16,7 @@ That is the whole of the tale as it travels. Nobody has confirmed any part of it
 
 No Khazári will speak of Valdúm, whether the legend is true or not. A question about it is turned aside, and none of them hint at where the city lies.
 
-This note places Valdúm nowhere. The legend names no direction beyond the far north and no range or coast, and every account that names one is a guess.
+The legend names no direction beyond the far north and no range or coast, and every account that names one is a guess.
 
 ## The Fragment
 
@@ -34,4 +34,4 @@ This note places Valdúm nowhere. The legend names no direction beyond the far n
 […] ash […] and water […] the rest […]
 ```
 
-Fire took the first leaves and water took the margins; each lacuna is marked `[…]`. The fourth line is the only one legible from end to end. The fragment gives no distances and no landmark that can be identified, and the single direction it offers is north.
+Fire took the first leaves and water took the margins. The fourth line is the only one legible from end to end. The fragment gives no distances and no landmark that can be identified, and the single direction it offers is north.
