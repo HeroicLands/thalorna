@@ -23,9 +23,9 @@ Khazári is a tongue of the Elder family. Fluency measures the sophistication of
 
 Khazári is the language of the **Khazári** (known in human legends as "dwarves"), the second of the Elder Races and one of the oldest peoples on Thalorna. The Khazári are vanishingly rare—fewer than one in ten thousand inhabitants of Thalorna—and their language is nearly as rare, spoken only in isolated mountain strongholds and passed down within closely-guarded family traditions.
 
-To the human ear, Khazári sounds hard and percussive: short, consonant-heavy words that crack and resound like hammer-blows on stone. There are few long vowels and few flowing transitions. The language runs on sharp stops, rolled liquids and back fricatives that carry in cavernous spaces. A Khazári speaker sounds strong and commanding even when speaking softly.
+To the human ear, Khazári sounds hard and percussive: short, consonant-heavy words that crack and resound like hammer-blows on stone. There are few long vowels and few flowing transitions. The language runs on sharp stops, rolled liquids and back fricatives that carry along a passage. A Khazári speaker sounds strong and commanding even when speaking softly.
 
-What makes the language strange to a human ear is not its sound but its build. A Khazári word is not a stem with endings glued on. It is a **skeleton of three consonants**, carrying the meaning, into which a **frame of vowels** is poured, carrying the grammar. The same three consonants yield the stone, the mason, the quarrying and the quarry, and a listener who knows the skeleton can follow a word he has never heard. Where a human tongue makes a new word by hanging a piece on the end of an old one, Khazári makes it by pouring a different frame through the same skeleton.
+What makes the language strange to a human ear is not its sound but its build. A Khazári word is not a stem with endings glued on. It is a **skeleton of three consonants**, carrying the meaning, into which a **frame of vowels** is poured, carrying the grammar. The same three consonants yield the stone, the mason, the quarrying and the quarry, and a word never heard before is still readable from its skeleton. Where a human tongue makes a new word by hanging a piece on the end of an old one, Khazári makes it by pouring a different frame through the same skeleton.
 
 ## Phonology
 
@@ -304,24 +304,30 @@ The compound is one word, stressed on its acute, and it means exactly what its t
 
 ## Script and Literacy
 
-Khazári is written in [[skill-drthrkscrpt|Pirzath]], an **angular, geometric script** that resembles runes carved into stone—or rather, the runes of the Pelwar peoples resemble it, being in all likelihood a reduced work-row taught to the Proto-Pelwar tribes when those tribes were Khazári subjects, and simplified twice over since. Letters are angular and blocky, designed to be carved efficiently into rock or metal. The script is written left-to-right, top-to-bottom, but letters do not connect—each is distinct.
+Khazári is written in [[skill-drthrkscrpt|Pirzath]], which has **two forms**. The carved form resembles runes cut into stone—or rather, the runes of the Pelwar peoples resemble it, being in all likelihood a reduced work-row taught to the Proto-Pelwar tribes when those tribes were Khazári subjects, and simplified twice over since. The hand form is the everyday writing. Both read left to right and top to bottom.
 
-Key features:
+Key features of **carved Pirzath**:
 
-- **Letter forms**: Straight lines, right angles, sharp vertices
-- **Inscription tradition**: Designed for carving into stone, metal, or wood
+- **Letter forms**: Short angled strokes cut across the grain of the stone, never along it, because along the grain the stone splits; each letter is angular, and the same letter is cut differently in slate and in granite
+- **The line of text**: Follows a seam, a bedding line or a natural edge of the stone, never a ruled baseline, so no inscription runs straight; reading carved Pirzath well means reading the stone
+- **Inscription tradition**: Used for what must last—oaths, laws, tombs and the founding of a hold—cut into stone, metal, or wood
 - **Diacritical marks**: Notches, dots, and lines indicate the acute and the skeleton boundaries
 - **Formality variants**: More elaborate, decorative versions for monuments or sacred texts
 
-Pirzath writes the three consonants of a skeleton larger than the vowels of the frame, so a carved word shows its own grammar: the bone is cut deep and the binding is scored between. A Khazári reader takes in the skeleton first and the frame second, which is how a worn inscription can still be read when half the vowel-scoring has weathered away.
+Key features of **the hand form of Pirzath**:
 
-The runic rows of the Nordlands, where anyone there writes at all, are near enough to Pirzath that a Khazári can pick out most of the staves. What they do not share is that depth of cut. A Nordman's staves all stand equal, because Nordmal has no skeleton to pick out; Khazári grades its own, and a stroke that carries grammar in one hand carries nothing in the other. Khazári who have compared the two rows say the northern one looks like a tool being held by the wrong end.
+- **Letter forms**: Flowing and curved, and joined within a word
+- **Media**: Ink or a stylus on slate and chalk (teaching, tallies, notes), wax tablets (drafts and accounts), hide or parchment (letters and books), and thin sheets of lead or copper cut with a stylus (records meant to last without being monumental)
+
+Carved Pirzath writes the three consonants of a skeleton larger than the vowels of the frame, so a carved word shows its own grammar: the bone is cut deep and the binding is scored between. A Khazári reader takes in the skeleton first and the frame second, which is how a worn inscription can still be read when half the vowel-scoring has weathered away. The hand form marks the skeleton with a heavier stroke.
+
+The runic rows of the Nordlands, where anyone there writes at all, are near enough to Pirzath that a Khazári can pick out most of the staves. What they do not share is that depth of cut in the carved form. A Nordman's staves all stand equal, because Nordmal has no skeleton to pick out; Khazári grades its own, and a stroke that carries grammar in one hand carries nothing in the other. Khazári who have compared the two rows say the northern one looks like a tool being held by the wrong end.
 
 Literacy in Khazári is **nearly universal among the Khazári**—writing is fundamental to their culture of craftsmanship, record-keeping, and genealogy. However, human literacy in Khazári is **very rare**. Only dedicated scholars or those with Khazári kinship learn to read or write the language.
 
 ## Historical Development
 
-Khazári is one of the **two surviving Elder Tongues**, sharing a common ancestor with Sinalë but diverging sharply in development. The language emerged from the **deep stone halls** where the Khazári built their civilization, and it reflects that origin: compact, resonant, designed for communication in cavernous spaces.
+Khazári is one of the **two surviving Elder Tongues**, sharing a common ancestor with Sinalë but diverging sharply in development. The language emerged among a people who live in the faces of mountains and talk along passages in the rock, and it reflects that origin: compact, resonant, built to carry along a passage.
 
 Historical layers in Khazári:
 
@@ -337,7 +343,7 @@ Khazári is fragmented geographically, with scattered strongholds and communitie
 
 - **Northern stronghold dialect** (high mountains): The prestige form, slowest and most formal
 - **Southern hall dialects** (foothills and lower regions): Slightly faster, some vowel shifts, minor vocabulary variations
-- **Far-distant isolate dialects** (legendary hidden strongholds): Archaic frames, unique skeletons, extremely different from the modern standard
+- **Far-distant isolate dialects** (remote holds): Archaic frames, unique skeletons, extremely different from the modern standard
 
 Inter-stronghold communication is maintained through formal written records and periodic gatherings, limiting dialect divergence. However, a Khazári from the northern peaks will sound notably different from one of the southern halls.
 
