@@ -13,6 +13,5 @@ officer dismissed from a charge.
 hereditary exclusion reads as one, a hired practitioner is not a vowed
 religious, and an elder who teaches is told apart from an elder who votes.
 
-**Pages a standing has** — Lay Faithful, Catechumen, Professed, Elder and
-Kinsman say what the standing is, how the law treats a person holding it, and
+**Pages a standing has** — Lay Faithful, Professed, Elder and Kinsman say what the standing is, how the law treats a person holding it, and
 what it costs and wins.

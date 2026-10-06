@@ -29,7 +29,8 @@
         "distclean": "package-build clean --distclean",
         "build": "npm ci && npm run build:noci",
         "build:local": "npm i && npm run build:noci",
-        "build:noci": "run-s build:deps lint build:db build:module",
+        "build:noci": "run-s build:deps lint build:stage-reset build:db build:module",
+        "build:stage-reset": "package-build stage reset",
         "build:deps": "package-build deps fetch",
         "build:db": "run-s build:deps build:content-index build:calendars build:assets build:compiledb",
         "build:assets": "package-build assets",
@@ -68,12 +69,14 @@
         "lint:reference-people": "node utils/reference-people.mjs",
         "lint:labels": "package-build labels check",
         "build:module": "package-build manifest",
+        "lint:khazari-lexicon": "node utils/lexicons/khazari-lexicon.mjs",
         "lint:khelathi-lexicon": "node utils/lexicons/khelathi-lexicon.mjs",
         "lint:drift": "node utils/nordmal-drift.mjs",
         "lint:nordmal-lexicon": "node utils/lexicons/nordmal-lexicon.mjs",
         "lint:nordmal-concordance": "node utils/nordmal-concordance-check.mjs",
         "lint:sinale-lexicon": "node utils/lexicons/sinale-lexicon.mjs",
-        "lint:varokhi-lexicon": "node utils/lexicons/varokhi-lexicon.mjs"
+        "lint:varokhi-lexicon": "node utils/lexicons/varokhi-lexicon.mjs",
+        "lint:collision": "node utils/lexicons/collision-check.mjs"
     },
     "devDependencies": {
         "@changesets/cli": "^3.0.3",
