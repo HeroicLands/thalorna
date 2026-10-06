@@ -3,7 +3,7 @@ shortcode: gargulthaket
 name: {full: Gar-Gul'Thakétu, aliases: [The House of Gul'Thakétu]}
 type: affiliation
 subType: lineage
-description: A noble house that commissions arms and armour from the finest smiths and vouches for their standards to impatient peers
+description: A noble house that commissions arms and armor from the finest smiths and vouches for their standards to impatient peers
 tags: [generated, draft]
 data:
   templatePriority: null
@@ -36,7 +36,7 @@ data:
 
 ## Overview
 
-Gar-Gul'Thakétu is a noble house of [[place-aukhelathrgq|Aû'Khelâthu]] known for commissioning arms and armor from the empire's finest smiths rather than maintaining armories of its own make. The house vouches for those smiths' standards to peers too impatient to test a new maker's work themselves, lending its own name as a guarantee. A smith who satisfies this house's commission gains a reputation that opens doors across the nobility, while one who disappoints it rarely gets a second commission from anyone the house has spoken to.
+Among the nobility of [[place-aukhelathrgq|Aû'Khelâthu]], a smith's best reference is the name of **Gar-Gul'Thakétu** beside his own. The house commissions arms and armor from the empire's finest smiths rather than keeping armories of its own make, and it vouches for those smiths' standards to peers too impatient to test a new maker's work themselves, lending its own name as the guarantee. A smith who satisfies this house gains a reputation that opens doors across the nobility; one who disappoints it rarely gets a second commission from anyone the house has spoken to.
 
 ## Character
 

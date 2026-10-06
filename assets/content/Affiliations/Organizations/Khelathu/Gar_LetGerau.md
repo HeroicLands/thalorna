@@ -36,7 +36,7 @@ data:
 
 ## Overview
 
-Gar-Let'Gerau is a hereditary line of craftsmen whose family name carries weight in the guild halls of [[place-aukhelathrgq|Aû'Khelâthu]] independent of whatever guild any one member happens to belong to. Members are expected to hold to standards of workmanship the wider trade often finds inconvenient, treating the family name as a standard above the guild's own minimum. A buyer willing to pay for that name expects work that a guild-certified piece alone does not promise, and the lineage's members know it.
+A guild's certificate says a piece meets the trade's minimum; the name of **Gar-Let'Gerau** promises more. The Let'Gerau are a hereditary line of craftsmen whose family name carries weight in the guild halls of [[place-aukhelathrgq|Aû'Khelâthu]] whatever guild any one member belongs to, and members are expected to hold to standards of workmanship the wider trade often finds inconvenient. A buyer willing to pay for the name expects work that a guild-certified piece alone does not promise, and the lineage's members know it.
 
 ## Character
 

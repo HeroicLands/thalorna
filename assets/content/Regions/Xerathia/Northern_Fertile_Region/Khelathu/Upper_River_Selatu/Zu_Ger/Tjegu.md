@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-Tjegu is the capital of the [[affiliation-selatzuger|Selat of Zu-Ger]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]]. It holds the selat's chief temple of [[affiliation-hezmuiri|Faith of Hezmuîri]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's: "The Great Land"—an ancient royal selat and old burial-ground of the first dynasties.
+**Tjegu** is the capital of an ancient royal selat. It is the seat of the [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of the [[affiliation-selatzuger|Selat of Zu-Ger]], "the **Great Land**," and about 39,000 people live here, among the Halzi'a's court and granaries, the chief temple of [[affiliation-hezmuiri|Faith of Hezmuîri]], the scribal bureau that keeps the tax rolls and the markets that serve the surrounding villages. The old burial-ground of the first dynasties lies beyond the cultivated land.
 
 ## See Also
 

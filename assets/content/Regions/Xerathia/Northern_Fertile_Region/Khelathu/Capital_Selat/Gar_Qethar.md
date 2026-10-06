@@ -14,7 +14,9 @@ data:
   banner: khelathubnr
 ---
 
-Gar-Qethar occupies the low, flood-prone ground of [[place-galezkara|Galezkara]], built dense and poor among and atop the ruins of older building. It lives on whatever labour the rest of the city needs done and will not do for itself. The ground floods often enough that nobody here builds anything they are not prepared to lose.
+"Nobody here builds anything he is not ready to lose," a porter of the granary quays says, shouldering his pole. He has lived in **Gar-Qethar** all his life.
+
+The warrens occupy the low, flood-prone ground of [[place-galezkara|Galezkara]], dense and poor, built of mudbrick among and atop the ruins of older building. The people who live here do the labor the rest of the city needs done and will not do for itself. Each year when the flood rises they move out to kin, into the temple precincts or into reed shelters on the high tells, and when the water falls they come back and rebuild.
 
 ## See Also
 

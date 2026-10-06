@@ -16,9 +16,9 @@ data:
 
 ## Overview
 
-Lut-Mulu works its share of the inundated land in the basin of [[place-anlaghztnslt|Anlagh-Zetûn Selat]]. It sends its harvest up the chain to the granaries and to the [[affiliation-genzethalzia|Genzet'Halzi'a]] that accounts for them. A grain-village this far up the chain rarely sees the record its own harvest becomes, only the tally-man who comes to take it.
+**Lut-Mulu** works its share of the inundated land in the basin of [[place-anlaghztnslt|Anlagh-Zetûn Selat]]. Its harvest goes up the chain to the granaries and to the [[affiliation-genzethalzia|Genzet'Halzi'a]], which accounts for them. The people who grow that grain rarely see the record it becomes: what reaches Lut-Mulu is the tally-man who comes at harvest to take the measure, and nothing of the ledger he carries it into.
 
 ## See Also
 
-- [[place-anlaghztnslt|Anlagh-Zetûn Selat]]—The selat country that holds it
-- [[affiliation-genzethalzia|Genzet'Halzi'a]]—The assembly of the selats
+- [[place-anlaghztnslt|Anlagh-Zetûn Selat]]—the selat country that holds it
+- [[affiliation-genzethalzia|Genzet'Halzi'a]]—the assembly of the selats

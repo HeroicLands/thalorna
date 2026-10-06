@@ -3,7 +3,7 @@ shortcode: yathkhelenet
 name: {full: Yath-Khelenet, aliases: []}
 type: place
 subType: settlement
-description: "A farm-and-press village of Gau-Legiru, tending vines and olives and sending the year's oil and wine to the harbour"
+description: "A farm-and-press village of Gau-Legiru, tending vines and olives and sending the year's oil and wine to the harbor"
 tags: [generated, draft]
 data:
   demonym: null
@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Yath-Khelenet tends vines and olives in the garden country of [[place-gaulegirunome|Gau-Legiru]]. It lives by the press, sending the year's oil and wine down to the harbour once the crush is done. The harbour pays by the jar, so a family here measures a good year the same way a buyer does.
+**Yath-Khelenet** tends vines and olives in the garden country of [[place-gaulegirunome|Gau-Legiru]]. Once the crush is done, the village sends the year's oil and wine down to the harbor, where the buyer pays by the jar. A family here measures a good year the same way the buyer does.
 
 ## See Also
 

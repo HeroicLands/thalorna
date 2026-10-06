@@ -80,35 +80,45 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Where the great river meets the [[place-vylarianse|Vylarian Sea]], it breaks apart into a fan of channels, marshes, and silt-islands hundreds of leagues wide—the Delta, the richest and most worldly land in the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]. The ten [[affiliation-deltaselatu|Delta Selatu]] are the empire's face to the sea and its purse: they hold the international ports, the garden-strip that grows the empire's luxury crops, and the densest farmland in the known world. The delta's Halzi'a are merchants and diplomats as much as governors, and their estates and counting-houses make them, collectively, the wealthiest aristocracy in the empire.
+Where the [[place-zumeleshrvr|Zumélesh]] reaches the [[place-vylarianse|Vylarian Sea]] it breaks into a fan of channels, marshes and silt-islands, and that fan is the Delta: the richest and most worldly land in the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]. The ten **Delta Selatu** are the empire's face to the sea and its purse. They hold the international ports, the garden strip that grows the empire's luxury crops, and the densest farmland in the known world, and their Halzi'a are merchants and diplomats as much as governors. Their estates and counting-houses make them, together, the wealthiest aristocracy in the empire.
+
+"Everything that comes into this empire by water comes past my table first," a customs scribe on the quays of [[place-garanlaghet|Gar-Anlaghet]] tells a ship's factor fresh off a [[lore-haradianclt|Haradian]] hull. "Upriver they will tell you the Delta is half foreign. It is. That is what it is for."
 
 ## Character
 
-The delta is where Aû'Khelâthu meets the wider world, and it shows. The port cities are polyglot and crowded; [[affiliation-cnfdrtnhrdnstts|Haradian]] trading factors keep permanent quarters along the docks, [[place-midhalnrgn|Mídhalión Region]] merchants haggle in the markets, and the [[affiliation-zebequzut|Zebequ'Zut]] merchant houses conduct their quiet business at delta banquets. Delta-folk are reckoned cosmopolitan, sharp-tongued, and faintly suspect by the conservative landowners of the [[affiliation-upperrivrslt|Upper River Selatu]], who regard their easy familiarity with foreigners as one short step from disloyalty. The delta Halzi'a return the contempt with interest, and the rivalry between river-conservatives and delta-cosmopolitans is one of the steady tensions of Khelâthi politics.
+The Delta is where [[affiliation-empireakhlth|Aû'Khelâthu]] meets the wider world, and it shows. The port cities are crowded and polyglot: [[affiliation-cnfdrtnhrdnstts|Haradian]] trading factors keep permanent quarters along the docks, merchants from [[place-midhalnrgn|Mídhalión]] haggle in the markets, and the houses of the [[affiliation-zebequzut|Zebequ'Zut]] do their quiet business at delta banquets.
 
-The land itself shapes the people. The **coastal garden strip**—citrus, olive, grape, fig, and date—is tended by smallholders and the villa-estates of the merchant-princes; the **marshes** breed fowlers, fishers, papyrus-cutters, and reed-boat crews; and the **port cities** breed factors, scribes, customs men, and the largest concentration of free artisans in the empire. The delta worships [[lore-thubaidty|Thubâ'i]]—prosperity, abundance, and pleasure—with a fervor that scandalizes nobody, for the delta is rich and intends to enjoy it.
+The conservative landowners of the [[affiliation-upperrivrslt|Upper River Selatu]] think delta-folk cosmopolitan, sharp-tongued and faintly suspect, and they regard an easy familiarity with foreigners as one short step from disloyalty. The delta Halzi'a return the contempt with interest. That rivalry, between river conservatives and delta cosmopolitans, is one of the steady tensions of [[lore-khelathiclt|Khelâthi]] politics.
+
+The land shapes the people who work it:
+
+- The coastal garden strip of citrus, olive, grape, fig and date is tended by smallholders and by the villa-estates of the merchant-princes.
+- The marshes breed fowlers, fishers, papyrus-cutters and reed-boat crews.
+- The port cities breed factors, scribes and customs men, and hold the largest concentration of free artisans in the empire.
+
+The Delta worships [[lore-thubaidty|Thubâ'i]], god of prosperity, abundance and pleasure, with a fervor that scandalizes nobody. The Delta is rich and intends to enjoy it.
 
 ## Economy
 
-Trade and garden-agriculture drive the delta. The ports handle the empire's entire seaborne commerce: papyrus, linen, gold, grain, and artisan work outward; timber, metals, spices, and luxury goods inward. The garden strip supplies the high tables of the empire and the export markets of Mídhalión with wine, oil, citrus, and dates that the drier interior cannot grow. The marshes yield fish, fowl, salt, natron, and papyrus—the last a near-monopoly that has made delta paper an article of trade across half the world. Where the upper river grows the empire's bread, the delta grows its wealth.
+Trade and garden farming drive the Delta. Its ports handle the whole of the empire's seaborne commerce: papyrus, linen, gold, grain and artisan work go out, and timber, metals, spices and luxuries come in. The garden strip supplies the empire's high tables, and the export markets of Mídhalión, with wine, oil, citrus and dates the drier interior cannot grow. The marshes yield fish, fowl, salt, natron and papyrus, and papyrus is close to a monopoly: delta paper is traded across half the world. The upper river grows the empire's bread, and the Delta grows its wealth.
 
 ## Notable Features
 
-- The river's mouths and the silt-islands between them—the most intricate waterscape in Xerathia
-- The cosmopolitan ports, with their foreign merchant quarters and Haradian factories
-- The coastal garden strip—citrus, olive, vine, fig, and date
-- The papyrus marshes—source of the empire's paper monopoly
+- The river's mouths and the silt-islands between them—the most intricate waterscape in [[place-xerathia|Xerathia]]
+- The cosmopolitan ports of [[place-amqelmiglet|Amqel-Miglet]], with their foreign merchant quarters and Haradian factories
+- The coastal garden strip of citrus, olive, vine, fig and date
+- The papyrus marshes that give the empire its paper monopoly
 - The salt-pans and natron flats that supply the embalmers of the whole empire
 
 ## The Selatu
 
-Ten selatu make up the delta class, each under its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]]. Each is treated in its own note; the table below is the roster.
+Ten selatu make up the delta class, each under its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor). Each has its own note; the table is the roster.
 
 | Selat                                                   | Seat                                | Patron                                                      | Population | Character                                                                                                                      |
 | ------------------------------------------------------- | ----------------------------------- | ----------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | [[affiliation-selatgrnlght\|The Selat of Gar-Anlaghet]] | [[place-garanlaghet\|Gar-Anlaghet]] | [[lore-thubaidty\|Thubâ'i]]                                 | ~1,100,000 | The chief delta port and the empire's window on the sea; Haradian factories, polyglot quays, the richest Halzi'a in the empire |
 | [[affiliation-selatgaulegr\|The Selat of Gau-Legiru]]   | [[place-gau\|Gau]]                  | [[lore-uzneradty\|Uznêra]]                                  | ~900,000   | The garden coast—citrus, olive, vine, and the villa-estates of the merchant-princes                                            |
-| [[affiliation-selatgezazab\|The Selat of Gezazabu]]     | [[place-gezazabu\|Gezazabu]]        | [[lore-thubaidty\|Thubâ'i]]                                 | ~750,000   | Eastern delta port; salt-fish, curing-houses, and the trade road to [[affiliation-mtrrchybth\|Bethua]]                         |
+| [[affiliation-selatgezazab\|The Selat of Gezazabu]]     | [[place-gezazabu\|Gezazabu]]        | [[lore-thubaidty\|Thubâ'i]]                                 | ~750,000   | Eastern delta port; salt-fish, curing-houses, and the trade road to [[affiliation-mtrrchybth\|Bethûa]]                         |
 | [[affiliation-selatgrshbzt\|The Selat of Gar-Shebazet]] | [[place-garshebazet\|Gar-Shebazet]] | [[affiliation-shebazet\|Faith of Shebazet]] (cobra-goddess) | ~650,000   | Papyrus marshes; fowling, reed-craft, and the empire's paper-cutting                                                           |
 | [[affiliation-selatizetge\|The Selat of Izet-Ge]]       | [[place-izet\|Izet]]                | [[lore-thubaidty\|Thubâ'i]]                                 | ~600,000   | Date-palm plantations and the sweet delta wines                                                                                |
 | [[affiliation-selattjathu\|The Selat of Tjathu]]        | [[place-tjathu\|Tjathu]]            | [[lore-wethurdty\|Wethûr]]                                  | ~550,000   | The sea-margin; salt-pans, natron flats, and the curing of the lesser villages' catch                                          |
@@ -117,20 +127,23 @@ Ten selatu make up the delta class, each under its hereditary [[affiliation-empi
 | [[affiliation-selatkhelaga\|The Selat of Khelaga]]      | [[place-khelaga\|Khelaga]]          | [[lore-uqaadty\|Uqa'â]]                                     | ~350,000   | The delta apex, where the river first divides; old shrines and customs-stations                                                |
 | [[affiliation-selatseltltr\|The Selat of Selat-Leteru]] | [[place-yathleteru\|Yath-Leteru]]   | [[lore-uzneradty\|Uznêra]]                                  | ~150,000   | The shrine-islands; a quiet pilgrimage selat of marsh-temples and few people                                                   |
 
-Delta subtotal: **~6,000,000**.
+Delta total: about 6,000,000.
 
 ## For the Worldbuilder
 
-The delta is the empire's seafront and its money—run it as a place of trade, customs, smuggling, and foreign intrigue, closer in temper to a Vylarian port province like [[affiliation-provincvld|Vald]] than to the temple-bound interior. Power is split between the merchant houses, the temple-treasuries of [[affiliation-garhalzi|Gár-Hálzi]] that bank their gold, and the Gar-Aû's customs men who tax it all; all three are wealthy, jealous, and watchful. Adventure here is mercantile and maritime: shipping intrigue and insurance fraud, customs-running through the marsh-channels, foreign agents working the cosmopolitan quays, Haradian and Vylarian factors playing both ends, papyrus and salt monopolies worth killing over, and the constant low friction between the delta's outward-facing Halzi'a and the suspicious river-lords upstream. What is abundant here is fish, fowl, salt, paper, wine, and foreign news; what is scarce is grain (drawn upriver) and any love for the tax-farmer.
+Run the Delta as the empire's seafront and its money: a country of trade, customs, smuggling and foreign intrigue, closer in temper to a [[lore-vylarianclt|Vylarian]] port province such as [[affiliation-provincvld|Vald]] than to the temple-bound interior. Three powers share it, and all three are wealthy, jealous and watchful: the merchant houses, the [[affiliation-garhalzi|Gár-Hálzi]] temple-treasuries that bank their gold, and the [[lore-garauu|Gar-Aû]]'s customs men who tax it all.
+
+Adventure here is mercantile and maritime—shipping intrigue and insurance fraud, customs-running through the marsh channels, foreign agents working the quays, Haradian and Vylarian factors playing both ends, papyrus and salt monopolies worth killing over, and the constant low friction between the delta's outward-facing Halzi'a and the suspicious river-lords upstream. Fish, fowl, salt, paper, wine and foreign news are abundant. Grain is scarce, because it comes from upriver, and so is any love for the tax-farmer.
 
 ## Commerce and Currency
 
-The Delta Selatu use the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]]—temple-attested weight-pieces of copper, silver, and gold in gezan and qelu units—but the delta ports are also where foreign coin circulates most freely, and where the [[affiliation-garhalzi|Gár-Hálzi]] temple-treasuries do their heaviest banking and letter-of-credit business with foreign houses. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+The Delta Selatu use the [[lore-aukhlthcrncy|Aû'Khelâthu currency]] of temple-attested weight-pieces in copper, silver and gold, reckoned in gezan and qelu. The delta ports are also where foreign coin circulates most freely, and where the [[affiliation-garhalzi|Gár-Hálzi]] treasuries do their heaviest banking and letter-of-credit business with foreign houses. A factor paying in Vylarian coin has it weighed and discounted at the quay before it buys anything.
 
 ## See Also
 
-- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—Parent empire
-- [[affiliation-upperrivrslt|The Upper River Selatu]], [[affiliation-borderselatu|The Border Selatu]], [[affiliation-capitalselat|The Capital Selat]]—Sister selat-classes
-- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—Chief trading partner
-- [[place-vylarianse|Vylarian Sea]]—The delta's sea
-- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—Pantheon · [[skill-khelathlng|Khelâthi Language]]—Naming
+- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—the empire
+- [[affiliation-upperrivrslt|The Upper River Selatu]], [[affiliation-borderselatu|The Border Selatu]], [[affiliation-capitalselat|The Capital Selat]]—the other classes of selat
+- [[place-zumeleshrvr|The Zumélesh]]—the river whose mouths these are
+- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—chief trading partner
+- [[place-vylarianse|Vylarian Sea]]—the delta's sea
+- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—the gods · [[skill-khelathlng|Khelâthi Language]]—naming

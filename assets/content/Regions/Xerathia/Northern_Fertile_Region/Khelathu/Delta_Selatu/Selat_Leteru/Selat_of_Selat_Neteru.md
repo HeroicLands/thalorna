@@ -77,15 +77,17 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Selat-Leteru is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: the shrine-islands; a quiet pilgrimage selat of marsh-temples and few people. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-uznera|Faith of Uznêra]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-selatleterunome|Selat-Leteru]].
+[[place-selatleterunome|Selat-Leteru]] is the quietest of the [[affiliation-deltaselatu|Delta Selatu]]: few people, many shrines. It is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], a pilgrimage selat of shrine-islands and marsh-temples with few people. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the [[lore-garauu|Gar-Aû]] at a distance that varies with the strength of the throne. The patron is [[affiliation-uznera|Uznêra]], and the selat's religious life runs through her temples and their estates. The land it holds is [[place-selatleterunome|Selat-Leteru]].
+
+The selat holds about 150,000 people, the smallest population of the ten, and most of its business is the business of pilgrims: boats, lodging, offerings, and the temple estates that feed them.
 
 ## Character
 
-Its seat is [[place-yathleteru|Yath-Leteru]], where the Halzi'a keeps his court and the selat's chief temple of Uznêra stands.
+The seat is [[place-yathleteru|Yath-Leteru]], where the Halzi'a keeps court and the selat's chief temple of Uznêra stands. Uznêra is the goddess of fertility, renewal and healing, and a pilgrim comes to her marsh-temples for one of the three.
 
 ## Commerce and Currency
 
-Selat-Leteru uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], with the local chapter of [[affiliation-garhalzi|Gár-Hálzi]] attached to its chief temple attesting the weight-pieces and holding the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+Selat-Leteru uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]]. The local chapter of [[affiliation-garhalzi|Gár-Hálzi]] attached to the chief temple attests the weight-pieces and holds the granary accounts, and a pilgrim who pays a boatman in copper pays in a piece the chapter has attested. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
 
 ## See Also
 

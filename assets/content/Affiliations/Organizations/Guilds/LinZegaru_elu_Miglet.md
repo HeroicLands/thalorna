@@ -32,11 +32,11 @@ data:
 
 ## Overview
 
-Lin'Zegaru elu Miglet is a cooperative of farming households across the northern selats of the Lower Delta, formed so that its members could bring grain to market on their own terms rather than a factor's. The cooperative pools harvests from many small holdings into shipments large enough to bargain with buyers directly, cutting the factor out of the transaction entirely. A household that stays outside the cooperative sells at the factor's price, which is reason enough for most of the delta's smaller farms to have joined.
+**Lin'Zegaru elu Miglet** is the cooperative of the farming households of the northern selats of the **Lower Delta**, formed to bring grain to market on their own terms and not a factor's. It pools the harvests of many small holdings into shipments large enough to bargain with buyers directly, which cuts the factor out of the sale. A household that stays outside sells at the factor's price.
 
 ## Character
 
-At the delta landings the factor's boat ties up and waits, and the grain stays on the bank. The Farmers' Cooperative of the Lower Delta is a body of the farming households of the northern selats, formed to bring grain to market on its own terms and not on a factor's. Each **Member Household** puts its harvest into a pooled shipment large enough to bargain with the buyers directly.
+At the delta landings the factor's boat ties up and waits, and the grain stays on the bank. The **Farmers' Cooperative of the Lower Delta** is a body of the farming households of the northern selats, formed to bring grain to market on its own terms and not on a factor's. Each Member Household puts its harvest into a pooled shipment large enough to bargain with the buyers directly.
 
 The cooperative is collective and independent. Nobody speaks for it except the households together, and they have cut the factor out of the sale entirely. Small holdings that would have sold singly, at whatever the factor named, now stand behind a shipment whose size is its leverage. The households that remain outside sell at the factor's price, which is reason enough that most of the delta's smaller farms have come in.
 
@@ -48,7 +48,7 @@ The factors are the cooperative's rivals, cut out of the sale of its grain. The 
 
 ## Commerce and Currency
 
-Say forty households bring their harvest to the delta landing after the season of the harvest. The grain is weighed and entered under each household's name, and the whole is loaded as one shipment. A buyer from the capital bargains for the lot with the households' spokesman, and the price is set once, for everyone. The cooperative pools harvests into shipments large enough to bargain with buyers directly, and a household that stays outside sells at the factor's price.
+Say forty households bring their harvest to the delta landing after the harvest. The grain is weighed and entered under each household's name, and the whole is loaded as one shipment. A buyer from the capital bargains for the lot with the households' spokesman, and the price is set once, for everyone.
 
 ## See Also
 
