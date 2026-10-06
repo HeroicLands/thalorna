@@ -368,7 +368,7 @@ Skulfmýl stands 5'10" with a medium, energetic frame, weighing about 175 pounds
 
 Skulfmýl was born with a gift for words, a natural storyteller and orator whose speeches could rally the disheartened and inspire the downtrodden. But his talent for persuasion came with a darker side—he was just as adept at stirring up trouble and inciting chaos with his words. Skulfmýl quickly realized that he could use his gift to manipulate those around him, turning friends against one another and causing unrest wherever he went. Under Vélgrímr's guidance, Skulfmýl embraced his role as a provocateur, using his fiery words to disrupt order and bring about change through chaos.
 
-The saga of Skulfmýl Fire-Tongue tells of how he brought the city of Skogholt to its knees with nothing but his voice. Skogholt was known for its strict laws and rigid social order. Skulfmýl entered the city disguised as a traveling bard and began telling stories that questioned the city's laws, mocking the rulers and encouraging the people to think for themselves. As his influence grew, the people began to rebel, and soon the city was engulfed in riots. When the rulers realized what had happened, it was too late—Skulfmýl had already moved on, leaving the city in ruins.
+The saga of Skulfmýl Fire-Tongue tells of how he brought the city of [[place-knulthgard|Knulthgard]] to its knees with nothing but his voice. Knulthgard was known for its strict laws and rigid social order. Skulfmýl entered the city disguised as a traveling bard and began telling stories that questioned the city's laws, mocking the rulers and encouraging the people to think for themselves. As his influence grew, the people began to rebel, and soon the city was engulfed in riots. When the rulers realized what had happened, it was too late—Skulfmýl had already moved on, leaving the city in ruins.
 
 ## Psyche
 
@@ -396,7 +396,7 @@ Skulfmýl's oratory is supernaturally persuasive; his words can stir emotions, c
 
 ### Enemies
 
-**The Rulers of Skogholt**—The city's governing council has placed the largest bounty in northern history on Skulfmýl's head, dead or alive.
+**The Rulers of Knulthgard**—The city's governing council has placed the largest bounty in northern history on Skulfmýl's head, dead or alive.
 
 **The Order of Stability**—A secretive organization dedicated to maintaining the existing social order. They view Skulfmýl as one of the most dangerous individuals in the north and employ agents specifically tasked with silencing him.
 

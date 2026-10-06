@@ -390,7 +390,7 @@ Vraldorv's left-handed fighting style is unorthodox and catches many opponents o
 
 ### Patrons
 
-**The Court of Justice at Vidarrholt**—The oldest seat of law in the northern territories, where Vraldorv has been granted permanent standing as an itinerant judge with authority across clan boundaries.
+**The Court of Justice at [[place-malthul|Málthul]]**—The oldest seat of law in the northern territories, where Vraldorv has been granted permanent standing as an itinerant judge with authority across clan boundaries.
 
 **Knalthann Lawgiver**—A fellow devotee of Eidgar who works alongside Vraldorv, providing legal expertise to complement Vraldorv's martial authority.
 

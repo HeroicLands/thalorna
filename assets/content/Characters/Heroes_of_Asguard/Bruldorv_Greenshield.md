@@ -392,7 +392,7 @@ Bruldorv's connection to the earth gives him an intuitive understanding of agric
 
 **The Grove-Keepers of Fródvin**—A network of priests and druids who tend sacred groves throughout the northern lands. They recognize Bruldorv's special connection to Fródvin and provide him with knowledge, supplies, and ritual support.
 
-**Jarl Astrid of Greenhollow**—A wise ruler who values Bruldorv's counsel on agricultural matters and has given him authority over the management of her lands' harvests.
+**Jarl Astrid of [[place-hlirthdal|Hlirthdal]]**—A wise ruler who values Bruldorv's counsel on agricultural matters and has given him authority over the management of her lands' harvests.
 
 ### Enemies
 

@@ -485,7 +485,7 @@ Alderman Bórrin
 
 ### Enemies
 
-Lin'Zuwaret elu Aû'Khelâthu of Ironholm
+[[affiliation-linzwrtkhlth|Lin'Zuwaret elu Aû'Khelâthu]] of [[place-vrithholm|Vrithholm]]
 : These ambitious merchants view Kraldmýl's independent operations as an obstacle to their plans for industrial-scale timber harvesting and have attempted repeatedly to purchase his operation or absorb him into their company—attempts he has always refused.
 
 Warden Kale

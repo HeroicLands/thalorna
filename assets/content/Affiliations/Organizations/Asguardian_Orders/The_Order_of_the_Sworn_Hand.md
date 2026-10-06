@@ -38,7 +38,7 @@ data:
     offices:
       Voice of Lögstead: >-
         The order's chair, elected from the Council of Hands for life; one position, acting as first among equals rather than as a commander.
-  seat: null
+  seat: logstead
   domains: []
   population: null
   economy: []
@@ -52,7 +52,7 @@ _Nordmal: Eidhönd—"the Oath-Hand"_
 
 - **Type:** Fighting religious order
 - **Patron:** [[affiliation-eidgar|Eidgar]]—Asguardian god of law, oath, and just war
-- **Region:** [[place-nrdlndsrgn|The Nordlands]]—chapter halls in each of the five kingdoms, with the order's mother-hall at Lögstead in Vithgard
+- **Region:** [[place-nrdlndsrgn|The Nordlands]]—chapter halls in each of the five kingdoms, with the order's mother-hall at [[place-logstead|Lögstead]] in Vithgard
 
 ## Overview
 

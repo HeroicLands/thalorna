@@ -102,7 +102,7 @@ Day-to-day, the order's brothers serve as chapter staff, as armed presence at re
 
 ## Relations
 
-- **The Asguardian Pantheon's Priesthood**—religious foundation; the order's senior initiations include rites at Holafell, the hof cut into the rock.
+- **The Asguardian Pantheon's Priesthood**—religious foundation; the order's senior initiations include rites at [[place-holafell|Holafell]], the hof cut into the rock.
 - **The five Nordland Crowns**—careful tolerance. The kings respect the order, depend on its occasional interventions, and would prefer not to be in its way. No crown levies brothers of the order.
 - **The [[affiliation-eidhond|Order of the Sworn Hand]]**—peer; mutual respect across theological distance.
 - **The [[affiliation-gronverdir|Green Wardens]]**—the order most theologically opposite, since the Wardens revere cultivation and the Children revere founding violence. The two orders' members deal with one another correctly and seldom voluntarily.

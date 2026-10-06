@@ -390,7 +390,7 @@ Hnirvmýl's runic mastery is unmatched in the northern lands; he can read omens 
 
 ### Patrons
 
-**Jarl Ulfric of Stormsfjord**—A cautious ruler who relies on Hnirvmýl's counsel before making any major decision. Ulfric provides Hnirvmýl with shelter, resources, and access to his court in exchange for guidance on matters of war and diplomacy.
+**Jarl Ulfric of [[place-snarvfjord|Snarvfjord]]**—A cautious ruler who relies on Hnirvmýl's counsel before making any major decision. Ulfric provides Hnirvmýl with shelter, resources, and access to his court in exchange for guidance on matters of war and diplomacy.
 
 **The Raven Circle**—A secretive fellowship of runemasters and seers scattered across the northern realms who share forbidden knowledge through coded messages carved into waymarker stones.
 

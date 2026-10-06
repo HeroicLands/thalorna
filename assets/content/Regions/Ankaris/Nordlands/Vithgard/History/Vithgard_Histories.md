@@ -3,7 +3,7 @@ shortcode: vthgdhstry
 name: {full: Histories and Legends of Vithgard, aliases: []}
 type: lore
 subType: history
-description: "The Askholm judgment and empty Ísdal, with Vithgard's winter tales of the fell and the dead."
+description: "The Brildholm judgment and empty Hluskdal, with Vithgard's winter tales of the fell and the dead."
 tags: []
 data: {packFolder: vithgard}
 ---
@@ -11,11 +11,11 @@ data: {packFolder: vithgard}
 Vithgard keeps long winter memories in its courts and in the work of its seers. A ruling can outlive
 the witnesses who first heard it; a tale can change while the place it names remains.
 
-## The Burning at Askholm
+## The Burning at Brildholm
 
 Forty-one years ago, after a winter of failed whaling, a ting at [[place-dvarnvik|Dvarnvík]] accused eleven people of
 working the winds. Seven women, two plateau men who had sold wind-knots and two Dvarnvík men accused
-of _ergi_ were burned on the skerry called **Askholm**. **Völva Aldrhildr** was accused but not tried. A
+of _ergi_ were burned on the skerry called [[place-brildholm|Brildholm]]. **Völva Aldrhildr** was accused but not tried. A
 Sworn Hand ruled that foretelling alone was no working against a named person.
 
 The ruling survives as a precedent, while the deaths remain a grievance. Some plateau clans avoid
@@ -23,9 +23,9 @@ Dvarnvík. Descendants of the accused keep their own accounts of who spoke again
 Hand's judgment protects a seer's prophecy from being treated as proof of sorcery; it does not
 vindicate the burning of those who were tried.
 
-## The Emptying of Ísdal
+## The Emptying of Hluskdal
 
-Ninety years ago, sickness went up **Ísdal** in the polar dark. One child survived, remembered as the
+Ninety years ago, sickness went up [[place-hluskdal|Hluskdal]] in the polar dark. One child survived, remembered as the
 **Loft-Girl**. The [[place-hrandstead|Hrandstead]] ting held the empty farms for the dead on a Sworn Hand's word until their
 last owner was laid. The ruling remains a claim against descendants who want to reclaim the dale.
 The dead have not all been laid, and its farms stand empty.
@@ -44,7 +44,7 @@ establish a public path into the fell or prove that every missing child can be c
 
 ## The Ride over Hringstead
 
-At neutral **Hringstead**, on the Nordheim–Vithgard border, people tell of a high ride on [[lore-jol|Jól]]'s ninth
+At neutral [[place-hringstead|Hringstead]], on the Nordheim–Vithgard border, people tell of a high ride on [[lore-jol|Jól]]'s ninth
 night. The tale says it once descended after a killing under the Truce and carried off the killer.
 The Truce's living keepers need no supernatural verdict to forbid a murder there. Whether the ride
 passed overhead, or answered that particular breach, remains a matter of belief.

@@ -366,7 +366,7 @@ Knirvthýra stands 5'8" with a medium, curvaceous frame, weighing about 150 poun
 
 # Dossier {#dossier}
 
-Knirvthýra was born into poverty, her family struggling to make ends meet in a small, barren village. Despite her humble beginnings, Knirvthýra possessed a radiant beauty that turned heads wherever she went. Her fortunes seemed to change when a wealthy merchant promised her a life of comfort and abundance, but his true intentions were far darker. Instead of luxury, Knirvthýra found herself sold to a brothel in the city of Skarnholme. Refusing to be broken, Knirvthýra saw this as a twisted opportunity to reshape her destiny. With determination and **Sólrún**'s blessing, she rose within the establishment, eventually taking control and transforming the Gilded Cage from a brothel into a luxurious salon where the city's most influential figures came for both pleasure and guidance.
+Knirvthýra was born into poverty, her family struggling to make ends meet in a small, barren village. Despite her humble beginnings, Knirvthýra possessed a radiant beauty that turned heads wherever she went. Her fortunes seemed to change when a wealthy merchant promised her a life of comfort and abundance, but his true intentions were far darker. Instead of luxury, Knirvthýra found herself sold to a brothel in the city of [[place-gnirthhavn|Gnirthhavn]]. Refusing to be broken, Knirvthýra saw this as a twisted opportunity to reshape her destiny. With determination and **Sólrún**'s blessing, she rose within the establishment, eventually taking control and transforming the Gilded Cage from a brothel into a luxurious salon where the city's most influential figures came for both pleasure and guidance.
 
 The saga of Knirvthýra Goldenhair is one of resilience, transformation, and triumph. She learned the art of persuasion and business from Yrsa the Silver-Tongued, the brothel's madam, and used her beauty and intelligence to captivate the city's elite. Her most famous achievement came when she orchestrated the downfall of Rurik, the very merchant who had sold her. Using her network of clients, she uncovered his illicit dealings and ensured his disgrace. When the destitute merchant came to the brothel seeking solace, Knirvthýra offered him a place—not as a lover, but as a servant, a living testament to her rise from the ashes of her past. Under her guidance, powerful men like Lord Ingvar Blackwood and Viggo Ironfist prospered, while she accumulated wealth and influence that rivaled any noble house.
 
@@ -382,7 +382,7 @@ Knirvthýra seeks to build an empire of influence that will protect her and thos
 
 ### Strengths
 
-Knirvthýra's network of informants and clients spans the highest levels of Skarnholme society, giving her access to secrets that can make or break fortunes. Her salon, the Gilded Cage, is the most exclusive gathering place in the city, and an invitation is worth more than gold. She is a master of reading people and situations, and her business acumen has turned her establishment into one of the most profitable enterprises in the north. Her personal guard, drawn from women she has rescued from exploitation, is fiercely loyal and surprisingly well-trained.
+Knirvthýra's network of informants and clients spans the highest levels of Gnirthhavn society, giving her access to secrets that can make or break fortunes. Her salon, the Gilded Cage, is the most exclusive gathering place in the city, and an invitation is worth more than gold. She is a master of reading people and situations, and her business acumen has turned her establishment into one of the most profitable enterprises in the north. Her personal guard, drawn from women she has rescued from exploitation, is fiercely loyal and surprisingly well-trained.
 
 ## Social
 
@@ -398,7 +398,7 @@ Knirvthýra's network of informants and clients spans the highest levels of Skar
 
 **Rurik's Surviving Allies**—The slave trader's former associates who fear Knirvthýra's growing power and the exposure of their own crimes.
 
-**The Morality Council of Skarnholme**—A group of religious conservatives who view Knirvthýra's establishment as a den of sin and her influence as a corruption of the city's values. They seek to shut down the Gilded Cage and exile Knirvthýra.
+**The Morality Council of Gnirthhavn**—A group of religious conservatives who view Knirvthýra's establishment as a den of sin and her influence as a corruption of the city's values. They seek to shut down the Gilded Cage and exile Knirvthýra.
 
 ## Plot Hooks
 

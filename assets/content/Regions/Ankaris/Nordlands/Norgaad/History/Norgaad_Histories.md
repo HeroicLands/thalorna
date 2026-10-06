@@ -53,7 +53,7 @@ living claimant's testimony.
 
 ## Holafell's Wound
 
-The [[affiliation-thursborn|Giant's Children]] at **Holafell** tell the Three Winters differently from the halls below. In their
+The [[affiliation-thursborn|Giant's Children]] at [[place-holafell|Holafell]] tell the Three Winters differently from the halls below. In their
 account, a predecessor failed to keep open the world's wound and winter did not end until the next
 elder did so. It is their explanation of the famine, not an attested cause of it. Others remember
 failed harvests, deaths and disputed acts at the kin-fell without accepting the Children’s claim.

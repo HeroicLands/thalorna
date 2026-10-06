@@ -390,7 +390,7 @@ Dvirnmýl is a master of disguise, forgery, and social engineering. He can talk 
 
 ### Patrons
 
-**The Underworld Guild of Skarnholme**—An organized crime network that uses Dvirnmýl's talents for high-profile heists and cons in exchange for a share of the profits and protection from the law.
+**The Underworld Guild of [[place-gnirthhavn|Gnirthhavn]]**—An organized crime network that uses Dvirnmýl's talents for high-profile heists and cons in exchange for a share of the profits and protection from the law.
 
 **Vélgrímr's Whisper**—The god himself takes an intermittent interest in Dvirnmýl, providing subtle guidance and occasional divine luck when the trickster is in particularly entertaining trouble.
 

@@ -58,7 +58,7 @@ The Wuldjagár exists because the Gárskald cannot survive without it. The clan 
 
 ## Backstory
 
-The Gárskald have hunted the central Vrystwald for as long as anyone can remember. Their territory—bounded by the Moldún River to the south and Blackthorn Ridge to the north—is rich hunting ground: dense stands of oak and pine sheltering elk, boar, bear, and the smaller game that keeps the clan fed between the great hunts. The Gárskald's skill as hunters has always been their identity and their pride. Other clans are warriors or smiths or farmers. The Gárskald are hunters. It is who they are.
+The Gárskald have hunted the central Vrystwald for as long as anyone can remember. Their territory—bounded by the [[place-moldunriver|Moldún River]] to the south and [[place-blackthornrdg|Blackthorn Ridge]] to the north—is rich hunting ground: dense stands of oak and pine sheltering elk, boar, bear, and the smaller game that keeps the clan fed between the great hunts. The Gárskald's skill as hunters has always been their identity and their pride. Other clans are warriors or smiths or farmers. The Gárskald are hunters. It is who they are.
 
 But the forest is changing, and the Gárskald are struggling to understand why.
 

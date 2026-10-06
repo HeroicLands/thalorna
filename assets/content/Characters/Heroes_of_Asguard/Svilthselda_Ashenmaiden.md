@@ -392,7 +392,7 @@ Svilthselda's ability to absorb and redirect fire is extraordinary, making her n
 
 **The Ember Sisterhood**—A secretive order of Svartbrandr's priestesses who recognized Svilthselda's gifts and trained her in the deeper mysteries of fire magic. They provide her with sacred knowledge and ritual support.
 
-**High Priest Asmund of Ashenmount**—The ranking priest at Svartbrandr's primary temple, who views Svilthselda as a potential successor and protects her from political enemies within the faith.
+**High Priest Asmund of [[place-svartfjall|Svartfjall]]**—The ranking priest at Svartbrandr's primary temple, who views Svilthselda as a potential successor and protects her from political enemies within the faith.
 
 ### Enemies
 

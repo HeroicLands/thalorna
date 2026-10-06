@@ -41,7 +41,7 @@ data:
         Elected by the Council of the Hall for a five-year term; one position, holding the Compact's day-to-day administration.
       Council of the Hall: >-
         Nine seats: three held by the longest-standing signed companies, three rotating and elected from junior signed companies, and three reserved for the grá-káppar, retired captains of particular standing.
-  seat: null
+  seat: hringstead
   domains: []
   population: null
   economy: []
@@ -55,7 +55,7 @@ _Nordmal: "Pay-Troop Compact"—the league of mercenary companies_
 
 - **Type:** Mercenary compact / regulatory body
 - **Region:** [[place-nrdlndsrgn|The Nordlands]]—the five kingdoms of [[affiliation-kngdmnrdhm|Nordheim]], [[affiliation-kingdmnrgd|Norgaad]], [[affiliation-kngdmvthgrd|Vithgard]], [[affiliation-kingdmtrgd|Targud]], and [[affiliation-kingdomlgn|Malagna]]
-- **Seat:** The Compact-Hall at Hringstead, on the border of Nordheim and Vithgard—a neutral ground guaranteed by all five kingdoms
+- **Seat:** The Compact-Hall at [[place-hringstead|Hringstead]], on the border of Nordheim and Vithgard—a neutral ground guaranteed by all five kingdoms
 
 ## Overview
 

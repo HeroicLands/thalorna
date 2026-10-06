@@ -390,7 +390,7 @@ Vrithorv's resistance to heat and fire borders on the supernatural, allowing him
 
 ### Patrons
 
-**The Flame Temple of Ashenmount**—The high priests of Svartbrandr's most sacred temple recognize Vrithorv as blessed by the god and provide him with arms, provisions, and spiritual guidance.
+**The Flame Temple of [[place-svartfjall|Svartfjall]]**—The high priests of Svartbrandr's most sacred temple recognize Vrithorv as blessed by the god and provide him with arms, provisions, and spiritual guidance.
 
 **Jarl Thorvald Embersteel**—A warlike jarl who keeps Vrithorv close as both champion and bodyguard, knowing that the warrior's reputation alone deters many would-be challengers.
 
