@@ -511,3 +511,11 @@ The attributes below represent a fully degraded damut—the shambling dead. Rece
 - **Perception:** 4-7 (1d4+3)
 
 - **Shadow:** 8-13 (1d6+7)
+
+## See Also
+
+- [[lore-undead|Undead]]—The undead as a class, the learned terms and the folk names, and the Spirits-versus-undead distinction
+
+- [[being-tereb|Tereb]]—The cloaked one: the sentient undead
+
+- [[lore-theshadow|The Shadow]]—The corrupting force from outside creation that every undead carries

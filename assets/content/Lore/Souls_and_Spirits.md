@@ -376,6 +376,7 @@ The key cosmological points to keep in mind when reading other documents:
 
 - **No mortal can make themselves undead.** The transformation always requires action by an external agent on a soul that has died or is dying. Self-application is structurally impossible.
 - **All the undead have creators**, who typically retain some degree of control over them.
+- **All the undead carry [[lore-theshadow|the Shadow]].** The necrotic force that binds a soul back into a body is the Shadow's corruption working on that soul, and it relates every undead to every other across every belief and culture.
 - **Damutu are produced by necromantic animation**—the binding of a soul, or fragments of one, to a corpse. The result varies enormously in quality depending on the necromancer's skill and the soul's state.
 - **Terebu are produced by elaborate ritual during life**, ending in the candidate's death and a delayed arising. The ritual does not require the original performer to be present at the moment of arising.
 - **All the undead degrade over time**, though terebu degrade much more slowly than damutu.
