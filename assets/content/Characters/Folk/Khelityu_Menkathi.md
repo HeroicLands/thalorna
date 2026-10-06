@@ -13,7 +13,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [galezkara]
-  affiliations: {}
+  affiliations: {zeghetnelgu: {rank: 6, office: Steersman of the Sacred Waters}}
   gender: "male"
   species: humanflk
   born: "680.246"
