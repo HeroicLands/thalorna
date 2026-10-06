@@ -29,7 +29,7 @@ The orbit's circularity keeps the tides regular—no month runs a stronger tide 
 
 Twelve lunations of thirty days come to 360 days. The solar year is 365. The five days left over are precisely the five days the [[lore-khzrnclndr|Khazryn]], the [[lore-khelathclndr|Khelâthi Calendar]] and the Itzani each keep outside their twelve months—three peoples, three unrelated calendars, and one astronomical fact observed three times rather than three coincidences.
 
-The same five-day remainder, carried across years instead of months, gives Thalorna a six-year lunar cycle. The moon's phase on any calendar date advances five days each year and returns to where it started after six. A new moon opens year 720; three years later, at the cycle's midpoint, the first day of spring falls under a full moon; three years after that, the cycle closes on a new moon again, on the first day of spring once more. Nobody had to design this. It falls out of a thirty-day moon turning against a 365-day year, and any people who watch the sky for six years running would notice it.
+The same five-day remainder, carried across years instead of months, gives Thalorna a six-year lunar cycle. The moon's phase on any calendar date advances five days each year and returns to where it started after six. A new moon opens year 720; three years later, at the cycle's midpoint, the first day of spring falls under a full moon; three years after that, the cycle closes on a new moon again, on the first day of spring once more. Nobody had to design this. It falls out of a thirty-day moon turning against a 365-day year.
 
 ## What Each People Calls It
 

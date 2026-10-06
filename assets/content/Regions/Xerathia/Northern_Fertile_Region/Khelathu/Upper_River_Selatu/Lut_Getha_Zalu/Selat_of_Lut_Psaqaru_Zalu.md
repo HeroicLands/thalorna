@@ -77,15 +77,17 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Lut-Getha-Zalu is one of the upper-river selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: smith-towns and craft-temples; bronze, gold, and the ceremonial arms of the nobility. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-psaqaru|Faith of Psaq'âru]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-lutgethazalunome|Lut-Getha-Zalu]].
+"Every piece in this valley meets a pan sooner or later," an assayer of the [[affiliation-garhalzi|Gár-Hálzi]] chapter at [[place-lutgethazalunome|Lut-Getha-Zalu]] tells a young smith who has brought his first bronze to be weighed. "Put it down. I don't care how it shines. I care what it weighs."
+
+The **Selat of Lut-Getha-Zalu** is one of the eighteen [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and about 480,000 people live on its land, [[place-lutgethazalunome|Lut-Getha-Zalu]]. It is the selat of the smith-towns and the craft-temples, working bronze and gold and the ceremonial arms of the nobility. The patron is [[affiliation-psaqaru|Faith of Psaq'âru]], the **Shaper of the Eternal World**, whose craft-temples and estates give the smiths their standing.
 
 ## Character
 
-Its seat is [[place-lutgetha|Lut-Getha]], where the Halzi'a keeps his court and the selat's chief temple of Psaq'âru stands.
+A [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] appears at court with a ceremonial khopesh of bronze and gold, a gold-headed mace of command and a gold pectoral collar of rank, and the smith-towns of Lut-Getha-Zalu are where that kind of gear is made. The Halzi'a of the selat governs the people who forge the regalia of his peers, and the quality of the work is a matter of local pride. The seat is [[place-lutgetha|Lut-Getha]], where the Halzi'a keeps his court and the chief temple of [[lore-psaqarudty|Psaq'âru]] stands.
 
 ## Commerce and Currency
 
-Lut-Getha-Zalu uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], with the local chapter of [[affiliation-garhalzi|Gár-Hálzi]] attached to its chief temple attesting the weight-pieces and holding the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+Lut-Getha-Zalu uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]]. The chapter of [[affiliation-garhalzi|Gár-Hálzi]] at the chief temple attests the weight-pieces and holds the granary accounts, and the selat's gold and bronze pass through its pans. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
 
 ## See Also
 

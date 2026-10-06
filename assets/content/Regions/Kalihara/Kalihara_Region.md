@@ -13,6 +13,8 @@ data:
   population: 3000000
   packFolder: kalihara
   government: kalihara
+
+# terran_analog: "Atlantis as Plato describes it in the Timaeus and Critias, not the modern legend."
 ---
 
 ## Overview

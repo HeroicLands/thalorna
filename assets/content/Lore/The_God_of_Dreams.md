@@ -1,6 +1,6 @@
 ---
 shortcode: goddreams
-name: {full: The God of Dreams, aliases: [Lúminarë, Luváth, Bjartr, Aethería]}
+name: {full: The God of Dreams, aliases: [Aulveira, Luváth, Bjartr, Aethería]}
 type: lore
 subType: deity
 tags: [deity, elder-races, sinalë, khazári, dreams, light]
@@ -15,7 +15,7 @@ The Sinalë and Khazári do not acknowledge the human faiths as legitimate expre
 
 | Culture                                         | Name                                       | Gender                  | Aspect Emphasized                                                                                |
 | ----------------------------------------------- | ------------------------------------------ | ----------------------- | ------------------------------------------------------------------------------------------------ |
-| [[lore-flksinale\|Sinalë]]                      | **Lúminarë**                               | Neither / beyond gender | Light, dreams, the living world                                                                  |
+| [[lore-flksinale\|Sinalë]]                      | **Aulveira**                               | Neither / beyond gender | Light, dreams, the living world                                                                  |
 | [[lore-flkkhazar\|Khazári]]                     | **Luváth**                                 | Neither / beyond gender | Deep light, craft-wisdom, enduring stone                                                         |
 | [[affiliation-asguardian\|Asguardian Pantheon]] | [[affiliation-bjartr\|Bjartr]]             | Male                    | Elder races, dreams, light                                                                       |
 | [[affiliation-arldnpnthn\|Aurèldían]]           | [[affiliation-aetheria\|Aethería]]         | Female                  | Dreams, celestial visions                                                                        |
@@ -23,22 +23,22 @@ The Sinalë and Khazári do not acknowledge the human faiths as legitimate expre
 | Khelâthi                                        | Nehle'ât                                   | Female                  | Dreams, sleep, protective visions                                                                |
 | [[affiliation-tngvkvnlei\|Tëngvōk Vān Lëi]]     | Mëi Sëi                                    | —                       | Dreams, visions, omens                                                                           |
 | [[affiliation-ashanpnthn\|Āsháian]]             | Zárványä                                   | Female                  | Dreams, celestial visions, omens                                                                 |
-| [[affiliation-varakpnthn\|Varnaka]]             | _(unnamed)_                                | —                       | Worshipped indirectly through the Svapnadēvas (the Dreaming Host), divine servants of this deity |
+| [[affiliation-varakpnthn\|Varnaka]]             | _(unnamed)_                                | —                       | Worshipped indirectly through the Svapnadevas (the Dreaming Host), divine servants of this deity |
 
-The Sinalë and Khazári both regard the deity as beyond mortal categories of gender—the human tendency to assign male or female identity is seen as a limitation of younger minds. The Sinalë name, **Lúminarë**, evokes radiance and the living dream; the Khazári name, **Luváth**, speaks of the light that endures in deep places and the wisdom found in patient craft. These are not translations of each other—they reflect genuinely different relationships with the same divine presence.
+The Sinalë and Khazári both regard the deity as beyond mortal categories of gender—the human tendency to assign male or female identity is seen as a limitation of younger minds. The Sinalë name, **Aulveira**, evokes radiance and the living dream; the Khazári name, **Luváth**, speaks of the light that endures in deep places and the wisdom found in patient craft. These are not translations of each other—they reflect genuinely different relationships with the same divine presence.
 
 ## The Sinalëan Tradition
 
-The Sinalë do not "worship" Lúminarë in any way a human would recognize. There are no temples, no liturgy, no scripture. The relationship is intimate and unmediated—closer to a conversation between old friends than the prostration of a mortal before a god. The Sinalë sing to Lúminarë, tend the sacred groves in the deity's name, and read the dreams that flow from the divine presence. In return, Lúminarë's light suffuses their enclaves and guards the boundaries between the waking world and the spirit realm.
+The Sinalë do not "worship" Aulveira in any way a human would recognize. There are no temples, no liturgy, no scripture. The relationship is intimate and unmediated—closer to a conversation between old friends than the prostration of a mortal before a god. The Sinalë sing to Aulveira, tend the sacred groves in the deity's name, and read the dreams that flow from the divine presence. In return, Aulveira's light suffuses their enclaves and guards the boundaries between the waking world and the spirit realm.
 
 ### Clergy
 
 The Sinalëan tradition has no hierarchy. Its structure is flat, unhurried, and governed by consensus rather than authority. There are only two roles.
 
-- **Tindësar** ("star-seeker")—Acolyte. Those newly called to Lúminarë's service, learning the arts of dream-reading, healing, and the tending of sacred groves. A Tindësar serves under the guidance of a Calathir, though the relationship is closer to apprentice and mentor than subordinate and superior.
-- **Calathir** ("light-watcher")—Priest. Entrusted with the rites, the care of the faithful, and the stewardship of sacred places. All Calathiri are equal in standing.
+- **Ilthorinno** ("seer")—Acolyte. Those newly called to Aulveira's service, learning the arts of dream-reading, healing, and the tending of sacred groves. A Ilthorinno serves under the guidance of a Ansorunno, though the relationship is closer to apprentice and mentor than subordinate and superior.
+- **Ansorunno** ("long-watcher")—Priest. Entrusted with the rites, the care of the faithful, and the stewardship of sacred places. All Ansorunno are equal in standing.
 
-When matters arise that affect the faith as a whole, the Calathiri gather in a **Lómëthar** ("council of radiance"), an open convocation where decisions are reached by deliberation, not decree. A Lómëthar may be called by any Calathir and has no presiding officer; the gathering speaks until it reaches accord.
+When matters arise that affect the faith as a whole, the Ansorunno gather in a **Aulirarno** ("council of radiance"), an open convocation where decisions are reached by deliberation, not decree. A Aulirarno may be called by any Ansorunno and has no presiding officer; the gathering speaks until it reaches accord.
 
 ## The Khazári Tradition
 
@@ -46,7 +46,7 @@ Almost nothing is known of how the Khazári worship Luváth. The Deep Folk share
 
 ## The Old Compact
 
-Before the sundering of the [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]], both elder races worshipped this deity together—or at least in parallel, under the terms of the Old Compact. Whatever shattered the Compact shattered this shared worship as well. The Sinalë and the Khazári have not spoken to each other in thousands of years, and their traditions have diverged completely. Whether Lúminarë and Luváth would even recognize each other's rites is an open question—one that neither race has any interest in answering.
+Before the sundering of the [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]], both elder races worshipped this deity together—or at least in parallel, under the terms of the Old Compact. Whatever shattered the Compact shattered this shared worship as well. The Sinalë and the Khazári have not spoken to each other in thousands of years, and their traditions have diverged completely. Whether Aulveira and Luváth would even recognize each other's rites is an open question—one that neither race has any interest in answering.
 
 ## Human Adoption
 
@@ -58,4 +58,4 @@ The notable exception is the [[affiliation-ordoarcanis|Ordo Arcanis]]. Practitio
 
 Regardless of origin, the human faiths are genuine expressions of a real divine connection—the deity does answer human prayers and send dreams to human worshippers. The relationship is simply younger, shallower, and filtered through cultural assumptions that the elder races find alternately amusing and baffling.
 
-For details on the human traditions, see [[affiliation-bjartr|Faith of Bjartr]] (Asguardian), [[affiliation-aetheria|Faith of Aethería]] (Aurèldían), [[affiliation-itzanpnthn|Nal'ik Tz'uqal]] (Itzáni), Nehle'ât (Khelâthi), Mëi Sëi (Tānvüri), Zárványä (Āsháian), and the Svapnadēvas (Varnaka—who revere the deity's servants rather than the deity itself).
+For details on the human traditions, see [[affiliation-bjartr|Faith of Bjartr]] (Asguardian), [[affiliation-aetheria|Faith of Aethería]] (Aurèldían), [[affiliation-itzanpnthn|Nal'ik Tz'uqal]] (Itzáni), Nehle'ât (Khelâthi), Mëi Sëi (Tānvüri), Zárványä (Āsháian), and the Svapnadevas (Varnaka—who revere the deity's servants rather than the deity itself).

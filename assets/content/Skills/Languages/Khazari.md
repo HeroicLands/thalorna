@@ -78,28 +78,30 @@ One rule governs every frame. **The second and third consonants of a skeleton st
 
 Meaning in Khazári lives in a **skeleton**—a _marg_, literally a bone—of exactly three consonants, written with hyphens between them. A skeleton is never spoken on its own. To say it, a speaker pours a **frame**—a _vald_, a binding—of vowels through it, and the frame says what kind of word comes out. The skeletons the examples on this page are built from:
 
-| Skeleton | Sense                    |
-| -------- | ------------------------ |
-| `r-m-k`  | to lay a course of stone |
-| `d-l-k`  | stone; to cut stone      |
-| `th-m-r` | to strike                |
-| `kh-l-v` | unlit, without light     |
-| `k-v-l`  | to shape                 |
-| `v-l-d`  | to bind                  |
-| `v-r-n`  | a true line              |
-| `dh-n-k` | the fall of a hammer     |
-| `z-m-d`  | to assay                 |
-| `s-m-d`  | to raise                 |
-| `v-n-th` | an oath; to swear        |
-| `m-r-g`  | bone                     |
-| `kh-l-n` | silence                  |
-| `g-l-d`  | fire                     |
-| `h-l-b`  | silver                   |
-| `l-k-m`  | a lamp                   |
-| `t-n-v`  | a gate                   |
-| `g-r-z`  | to guard                 |
-| `n-l-p`  | cold                     |
-| `z-v-k`  | to be, to stand          |
+| Skeleton | Sense                                 |
+| -------- | ------------------------------------- |
+| `r-m-k`  | to lay a course of stone              |
+| `d-l-k`  | stone; to cut stone                   |
+| `th-m-r` | to strike                             |
+| `kh-l-v` | unlit, without light                  |
+| `k-v-l`  | to shape                              |
+| `v-l-d`  | to bind                               |
+| `v-r-n`  | the true line: the line the rock runs |
+| `dh-n-k` | the fall of a hammer                  |
+| `z-m-d`  | to assay                              |
+| `s-m-d`  | to raise                              |
+| `v-n-th` | an oath; to swear                     |
+| `m-r-g`  | bone                                  |
+| `kh-l-n` | silence                               |
+| `g-l-d`  | fire                                  |
+| `h-l-b`  | silver                                |
+| `l-k-m`  | a lamp                                |
+| `t-n-v`  | a gate                                |
+| `g-r-z`  | to guard                              |
+| `n-l-p`  | cold                                  |
+| `z-v-k`  | to be, to stand                       |
+| `s-m-gh` | to listen to stone; listening         |
+| `kh-s-p` | restraint, the little cut             |
 
 Every skeleton the language is known to use, with the words its frames make, is set out in the [[doc-khazarilex|Khazári Lexicon]].
 
@@ -349,6 +351,7 @@ Inter-stronghold communication is maintained through formal written records and 
 
 - _Vog dalkir, vog kr-rumák ramkam huramkum_—"He is a mason; he has laid the course in the workhall" (an introduction, and a claim to competence)
 - _Thamrol dhank, valdol varn_—"From the blow, the hammer-fall; from the binding, the true line" (a proverb: results follow method)
+- _Dalkir sumágh-ak dalkam, dalkir khusáp-ak_—"The mason listens to the stone; the mason cuts little" (a proverb: restraint is what listening leaves)
 - _Gaz gl-thumár, ves gl-zumád_—"I strike as a trade, you assay as a trade" (a division of work, and by extension an acknowledgment of another's mastery)
 - _Ramk kr-na-sumád, ramk na-thumár-aktor_—"The course has been raised; the course will be struck" (said over a finished work, and at funerals)
 - _Dalkith vanth, margith vanth_—"Oath of stone, oath of bone" (the strongest form of undertaking)
@@ -438,33 +441,33 @@ Ramka, Rimki, Rumku, Dalka, Delke, Dolko, Thimri, Themre, Kevale, Kivali, Sekare
 
 ### House Names (Patrilineal)
 
-| House          | Gloss                         |
-| -------------- | ----------------------------- |
-| `Dalkathumár`  | the striking of stone         |
-| `Sakarapuláz`  | the folding of iron           |
-| `Galdavulád`   | the binding of fire           |
-| `Khalvagunáv`  | the delving of the unlit      |
-| `Tanvaguráz`   | the guarding of the gate      |
-| `Tavarasuláth` | the pouring of the deep water |
-| `Margavuráth`  | the bearing of the bone       |
-| `Halbazumád`   | the assay of silver           |
-| `Thalgahunáth` | the spanning of the snow      |
-| `Ravadarunáth` | the reckoning of the vein     |
-| `Ramkasumád`   | the raising of the course     |
-| `Vanthakhuván` | the chanting of the oath      |
-| `Nalpafurád`   | the enduring of the cold      |
-| `Zanthaguráf`  | the whetting to brightness    |
-| `Famgadurákh`  | the holding of the deep       |
-| `Lakamakhulán` | the lamp in the silence       |
-| `Balgatumák`   | the trust of copper           |
-| `Malthapurán`  | the root of salt              |
-| `Parnasumád`   | the raising from deep ground  |
-| `Vatamarumák`  | the course that endures       |
-| `Khardavurán`  | the hold set true             |
-| `Hamkadhunák`  | the note of the hammer-fall   |
-| `Ganvahumák`   | the note of the delving       |
-| `Valdasukár`   | the binding of iron           |
-| `Kavalazunáth` | the shaping to brightness     |
+| House          | Gloss                           |
+| -------------- | ------------------------------- |
+| `Dalkathumár`  | the striking of stone           |
+| `Sakarapuláz`  | the folding of iron             |
+| `Galdavulád`   | the binding of fire             |
+| `Khalvagunáv`  | the delving of the unlit        |
+| `Tanvaguráz`   | the guarding of the gate        |
+| `Tavarasuláth` | the pouring of the deep water   |
+| `Margavuráth`  | the bearing of the bone         |
+| `Halbazumád`   | the assay of silver             |
+| `Thalgahunáth` | the spanning of the snow        |
+| `Ravadarunáth` | the reckoning of the vein       |
+| `Ramkasumád`   | the raising of the course       |
+| `Vanthakhuván` | the chanting of the oath        |
+| `Nalpafurád`   | the enduring of the cold        |
+| `Zanthaguráf`  | the whetting to brightness      |
+| `Famgadurákh`  | the holding of the deep         |
+| `Lakamakhulán` | the lamp in the silence         |
+| `Balgatumák`   | the trust of copper             |
+| `Malthapurán`  | the root of salt                |
+| `Parnasumád`   | the raising from deep ground    |
+| `Vatamarumák`  | the course that endures         |
+| `Khardavurán`  | the hold set to the rock's line |
+| `Hamkadhunák`  | the note of the hammer-fall     |
+| `Ganvahumák`   | the note of the delving         |
+| `Valdasukár`   | the binding of iron             |
+| `Kavalazunáth` | the shaping to brightness       |
 
 ## External References
 

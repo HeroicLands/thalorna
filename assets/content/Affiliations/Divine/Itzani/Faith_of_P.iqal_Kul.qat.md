@@ -20,7 +20,7 @@ data:
       - level: 0
         title: Blood-Denied
         description: >-
-          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Xibalba's trials unguided, which the Ki'ichek reckon the one sentence that outlives the body.
+          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Ch'al Tz'umaq's trials unguided, which the Ki'ichek reckon the one sentence that outlives the body.
       - level: 1
         title: Water-Marked
         lore: childfaithrnk
@@ -108,7 +108,7 @@ Between great works the branch hires out. Builder-priests raise the reservoirs a
 
 ## Relations
 
-With [[affiliation-ixilanchalix|Ix'ilan Ch'alix]] the branch is on the easiest terms it keeps with anyone. Both advance by demonstrated competence, both are staffed largely from ordinary families, and the setting of a new sighting-stone is a joint rite. Astronomers lay the lines and builders raise the structure, and the two have between them made the sacbeob run straight for hundreds of miles.
+With [[affiliation-ixilanchalix|Ix'ilan Ch'alix]] the branch is on the easiest terms it keeps with anyone. Both advance by demonstrated competence, both are staffed largely from ordinary families, and the setting of a new sighting-stone is a joint rite. Astronomers lay the lines and builders raise the structure, and the two have between them made the white roads run straight for hundreds of miles.
 
 Toward [[affiliation-kinultqan|K'in'ul Tq'an]] the branch is politely unimpressed. It builds the solar pyramids and is well paid for it, but its own doctrine holds that every one of them will fall, and its Warden of the Ruins keeps the evidence. The solar priesthood has never found a way to object to this that does not sound like an objection to the goddess herself.
 

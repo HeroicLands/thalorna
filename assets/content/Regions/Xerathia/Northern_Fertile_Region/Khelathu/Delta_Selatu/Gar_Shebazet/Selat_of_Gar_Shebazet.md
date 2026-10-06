@@ -77,15 +77,17 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Gar-Shebazet is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: papyrus marshes; fowling, reed-craft, and the empire's paper-cutting. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-shebazet|Faith of Shebazet]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-garshebztslt|Gar-Shebazet Selat]].
+[[place-garshebazet|Gar-Shebazet]] is the delta selat that makes the empire's paper. Its marshes grow the papyrus, its people cut the reed and fowl the water, and its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) answers to the [[lore-garauu|Gar-Aû]] for all of it: the Halzi'a commands the levies, collects the taxes and dispenses the justice, at a distance from the throne that shrinks and grows with the strength of whoever wears the crown. The patron is [[affiliation-shebazet|Shebazet]], the cobra-goddess, and the selat's religious life runs through her temples and their estates. The land it holds is [[place-garshebztslt|Gar-Shebazet Selat]].
+
+"Every roll in the empire begins as one of our stems," a clerk of the tax-roll bureau tells a visiting scribe, squaring a sheaf of blank sheets against the table. "Then it goes upriver and somebody writes a debt on it. We write ours first, and ours are the only ones that nobody argues with."
 
 ## Character
 
-Its seat is [[place-garshebazet|Gar-Shebazet]], where the Halzi'a keeps his court and the selat's chief temple of Shebazet stands.
+The seat is [[place-garshebazet|Gar-Shebazet]], where the Halzi'a keeps court and the selat's chief temple of Shebazet stands. Shebazet is a local marsh cult with no standing in the Twelve, and yet a civilization that runs on tax rolls, contracts and king-lists writes all of them on reeds her priests bless. The selat's quiet weight in the empire rests on that.
 
 ## Commerce and Currency
 
-Gar-Shebazet uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], with the local chapter of [[affiliation-garhalzi|Gár-Hálzi]] attached to its chief temple attesting the weight-pieces and holding the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+Gar-Shebazet uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]]. The local chapter of [[affiliation-garhalzi|Gár-Hálzi]] attached to the chief temple attests the weight-pieces and holds the granary accounts, so a papyrus-cutter paid for a season's stems is paid in pieces the temple has already vouched for. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
 
 ## See Also
 

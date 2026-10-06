@@ -17,8 +17,8 @@ data:
   gender: female
   species: humanflk
   born: "691.15"
-  height: 1.91
-  weight: 86.2
+  height: 6' 3"
+  weight: 190 lbs
   frame: medium
   appearance:
     eye_color: green
@@ -483,7 +483,7 @@ The Red Syndicate
 Lord Petyr the Cruel
 : A nobleman whose cruelty toward servants and dependents violated every principle Ídrisè holds. When she discovered he was considering hiring her services, she refused and then discovered evidence of his crimes. She has become a quiet enemy, gathering information against him while keeping her distance.
 
-Her Own Past
+Her own past, an inner enemy
 : In her younger years as a mercenary, before she developed her current moral code, Ídrisè took contracts whose purposes she now regrets. She wonders if any of her former victims or their families will one day come seeking revenge.
 
 ### Affiliations

@@ -15,6 +15,8 @@ sohl:
     parentSkillCode: lang
     initSkillMult: 0
   flags: {"thalorna": {lang_family: Vedyari (isolate)}}
+
+# terran_analog: the infinitival accusative shift parallels the move away from older Proto-Indo-European case patterns
 ---
 
 Vedyari is a tongue of the Vedyari (isolate) family. Fluency measures the sophistication of expression in Vedyari, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
@@ -36,15 +38,16 @@ Vedyari employs a rich consonantal inventory marked by articulatory precision:
 - Unvoiced: p, t, ṭ (retroflex), k
 - Voiced: b, d, ḍ (retroflex), g
 - Affricates: ch (TS), j (DZH)
+- Aspirated: kh, gh, th, dh, ph, bh—each stop with a breath after it, so that _th_ is the _t_ of English _hothouse_ and never the _th_ of _thin_
 
 **Fricatives:**
 
 - Unvoiced: s, ś (palatal), ṣ (retroflex), h
-- Voiced: z, v (marginal)
+- Voiced: z (marginal)
 
 **Nasals:** m, n, ṇ (retroflex), ñ (palatal)
 
-**Liquids & Approximants:** l, r, ṛ (retroflex); y, w
+**Liquids & Approximants:** l, r, ṛ (retroflex); y, v
 
 **Distinctive Features:**
 
@@ -60,15 +63,17 @@ Vedyari distinguishes five cardinal vowels, each occurring in short and long var
 
 **Diphthongs:** Common sequences include ai, au, which may function as monophthongs in rapid speech
 
+**Vocalic r:** ṛ is a vowel, the r-colored nucleus of a syllable. Names written outside the scholars' texts spell it _r_, and an _r_ standing between two consonants is that vowel: _Prthīmāja_ is four syllables, _Pr-thī-mā-ja_.
+
 **Vowel Harmony Patterns:** Historically significant; elements that select for front vowels (i, e) or back vowels (a, o, u) tend to cluster within morphemes.
 
 ### Phonotactic Patterns
 
 Analysis of attested names reveals:
 
-- **Consonant Clusters:** Initial clusters are restricted (predominantly to stop + liquid, or fricative + stop: _Dharmapala_ shows /dh/ permissible in classical texts)
+- **Consonant Clusters:** A word opens on a single consonant or on one of a short list of pairs: a consonant before _r_ (_pr_, _tr_, _dr_, _gr_, _vr_, _shr_), a consonant before _y_ or _v_ (_vy_, _shy_, _sv_, _jv_), and the old pairs _ksh_ and _jñ_. Inside a word no more than three consonants stand together, as in _Chandra_ and _Sandhyā_. The aspirates _dh_, _bh_ and the rest are single consonants, so _Dharmapāla_ opens on one
 - **Syllable Structure:** Predominantly CV or CVC; onset-heavy structure favors initial consonants
-- **Final Consonants:** Limited to nasals (m, n, ṇ, ñ), liquids (r, l), and sibilants (s) in stressed or compound-final position
+- **Final Consonants:** A word closes on a vowel or on _m_, _n_, _r_, _l_ or _s_; the retroflex and palatal nasals close a word in the scholars' texts and are written _n_ in names
 - **Word Length:** Compounds are frequent and protracted; many names exceed three morphemes, yielding words of four to six syllables
 
 ## Grammar Notes
@@ -92,11 +97,11 @@ Classical Vedyari follows a **Subject-Object-Verb (SOV)** order in main clauses,
 ### Participles and Infinitives
 
 - Participial forms are common as attributive modifiers and in periphrastic constructions
-- Infinitival forms often govern accusative objects rather than datives, marking a shift from older PIE patterns
+- Infinitival forms often govern accusative objects rather than datives, marking a shift from older patterns
 
 ## Script & Literacy
 
-**Classical Script:** Vedyari employs the [[skill-vdykshrscrpt|Vedyákshara]], a syllabic script of approximately 48 distinct characters, each representing a CV syllable. Consonant clusters and final consonants are marked through diacritical modification of the base glyph. The script evolved from an older abjadic writing system (now preserved only in sacred contexts) and shows clear influence from neighboring systems.
+**Classical Script:** Vedyari employs the [[skill-vdykshrscrpt|Vedyākshara]], a syllabic script of approximately 48 distinct characters, each representing a CV syllable. Consonant clusters and final consonants are marked through diacritical modification of the base glyph. The script evolved from an older abjadic writing system (now preserved only in sacred contexts) and shows clear influence from neighboring systems.
 
 **Common Cursive:** A more flowing, connected variant has developed for administrative and mercantile use, reducing the syllabic inventory to roughly 36 core forms with additional ligatures.
 
@@ -110,7 +115,7 @@ Vedyari's roots lie in an isolate family with no clear external relations, on th
 
 ### Classical Period (Age of Kingdoms)
 
-The standardization of Classical Vedyari occurred roughly 1,200 years before the present, during the reign of the philosopher-kings of Mādhavendra. This period saw the composition of the great philosophical commentaries, legal codes, and epic narratives that remain the prestige texts of the civilization.
+The standardization of Classical Vedyari occurred roughly 1,200 years before the present, during the reign of the philosopher-kings of Madhusthāna. This period saw the composition of the great philosophical commentaries, legal codes, and epic narratives that remain the prestige texts of the civilization.
 
 ### Modern Era
 
@@ -146,11 +151,11 @@ Classical Vedyari remains largely frozen in literature and formal address, but v
 
 ## Sample Phrases
 
-1. **Àgaraṇa dhûlîpati, vandîkaṇa**—_Reverential greeting; "Honored elder, I show respect"_
-2. **Vedyaram ṭîvayu, tharâjîsûm**—_Formal statement of origin; "I dwell in Vedyaram, by birthright"_
-3. **Bhaktiṛ ushṭâmi dûlîthara**—_Expression of devotion; "I hold devotion as my highest path"_
-4. **Vastuṇa karmâṭa vânîsâ?**—_Mercantile inquiry; "May the transaction bring prosperity?"_
-5. **Ritûṭa samârvâṇa ushṭî**—_Ritual formula; "The observance is offered to the sacred order"_
+1. **Āgaraṇa dhūlīpati, vandīkaṇa**—_Reverential greeting; "Honored elder, I show respect"_
+2. **Vedyaram ṭīvayu, tharājīsūm**—_Formal statement of origin; "I dwell in Vedyaram, by birthright"_
+3. **Bhaktiṛ ushṭāmi dūlīthara**—_Expression of devotion; "I hold devotion as my highest path"_
+4. **Vastuṇa karmāṭa vānīsā?**—_Mercantile inquiry; "May the transaction bring prosperity?"_
+5. **Ritūṭa samārvāṇa ushṭī**—_Ritual formula; "The observance is offered to the sacred order"_
 
 ## Related Languages
 
@@ -170,28 +175,51 @@ Vedyari names are cosmologically and philosophically charged. A personal name st
 
 **Given Names (Male):**
 
-- Often compound formations joining a descriptor or deity name with a suffix denoting virtue, kingship, or cosmic principle
-- Frequent elements: _-ânitha_ (joy, elation), _-vârata_ (grace, gift), _-pâthi_ (lord, ruler), _-dhéva_ (sacred, celestial), _-vîkrîtha_ (prowess, valor)
+- Often compounds of two or three words, joining a virtue, a god's favor or a quality of the sun or the moon to a word for what the bearer is to be
+- Frequent elements: _pāla_ (keeper), _pati_ (lord), _rāja_ (king), _deva_ (god), _vīra_ (hero), _vikrama_ (valor), _ānanda_ (joy), _kīrti_ (fame)
 - Preferred vowel harmony creates euphonious, rhythmic quality
-- Examples: _Jayavîkrîtha_ (victorious prowess), _Sundarânitha_ (beautiful joy), _Bhûmipâthi_ (master of earth)
+- Examples: _Dharmapāla_ (keeper of the law), _Senāpati_ (lord of the host), _Shilāvīra_ (hero of the stone), _Madhurava_ (sweet voice)
 
 **Given Names (Female):**
 
 - Similarly compound, often incorporating elements denoting grace, devotion, or cosmic principle
-- Common suffixes: _-ī, -ā, -ika, -ela_ create feminine morphological marking
+- Common endings: _-ī_, _-i_, _-ika_ and _-ā_; _-ī_, _-ika_ and _-ā_ close a woman's name only, while _-a_ and _-i_ close the names of both
 - Deity names and sacred geographical features appear frequently
-- Examples: _Padmâlî_ (lotus bearer), _Chândiritâ_ (touched by moonlight), _Vâriṇíka_ (water-dwelling)
+- Examples: _Padmāvali_ (a row of lotuses), _Chandrakīrtisundarī_ (moon-fame, the beautiful), _Vanika_ (of the grove)
 
 **Clan Names:**
 
 - Typically longer, more elaborate compounds
 - Often feature ancient founder names or mythological ancestral figures
 - May include locative or occupational elements
-- Examples: _Bhûmipâthi-dhéva_ (master of the earthly realm), _Dhanûrvîkrîtha-kîrti_ (renowned for mastery of arms)
+- Examples: _Dhanurvedakīrtirāja_ (bow-lore, fame and king), _Vidyāsāgaramandala_ (the circle of the ocean of learning), _Sūryatejamahānanda_ (the sun's brilliance and great joy)
 
 ### Honorifics and Titles
 
-Formal address often includes patronymic constructions (_-sûta_, _-vâya_: "offspring of") and epithetive titles denoting virtue, rank, or accomplishment. These may be appended or prefixed, creating elaborate formal names used in ceremonial and official contexts.
+Formal address often includes patronymic constructions (_-sūta_, _-vāya_: "offspring of") and epithetive titles denoting virtue, rank, or accomplishment. These may be appended or prefixed, creating elaborate formal names used in ceremonial and official contexts.
+
+### Calling Names
+
+Beside the formal name, every Vedyari has a _calling name_, a short form of the given name used by kin and friends and offered rather than taken: _Padmāvali_ is _Padmi_ at home. It keeps the first one or two syllables of the given name and closes on _-u_, _-i_ or _-a_, or doubles the first syllable. The lexicon named below gives the rule in full, with the calling names the setting records.
+
+## Lexicon
+
+The words of Vedyari, the rules a word is built by and a register of every Vedyari name the setting uses stand in the [[doc-vedyarilexcn|Vedyari Lexicon]]. The lexicon writes every word in the spelling of names, and the table below gives that spelling for the scholars' letters.
+
+### Spelling in Names
+
+| Written here | Written in names |
+| ------------ | ---------------- |
+| `ś`          | `sh`             |
+| `ṣh`         | `sh`             |
+| `ṣ`          | `sh`             |
+| `ṭ`          | `t`              |
+| `ḍ`          | `d`              |
+| `ṇ`          | `n`              |
+| `ṅ`          | `n`              |
+| `ṃ`          | `m`              |
+| `ḥ`          | `h`              |
+| `ṛ`          | `r`              |
 
 ---
 
@@ -199,369 +227,337 @@ Formal address often includes patronymic constructions (_-sûta_, _-vâya_: "off
 
 ### Male Given Names
 
-- Àgaraṇa
-- Àmariṇa
-- Amarjîta
-- Anûraja
-- Arinàsha
+- Āgaraṇa
+- Āmariṇa
+- Amarjīta
+- Anurāja
+- Arināsha
 - Arindamabhuvana
-- Bàlàkhandîra
-- Balarînàja
-- Bàlàsina
-- Balàvaṭa
-- Bàlavira
-- Bhàlananda
-- Bhànusha
-- Bhàśvàra
-- Bhrjívàra
-- Càndrathar
-- Chàndarśa
-- Chàndira
-- Chandradēvavardhana
-- Chàndraka
-- Devàksha
-- Devànûra
-- Devânithavikram
-- Dhàrmâja
-- Dhûrmàthala
-- Dhisamâya
-- Dhûlaka
-- Dhurànâya
-- Dípànava
-- Drkṣàrana
-- Drtapâja
-- Dṛtapâlavikrânta
-- Garúnya
-- Harivîkrâmajîva
-- Haríśva
-- Hrṣavàrman
-- Hṛṣâdityavarmân
-- Indràshena
-- Indràṭa
-- Jàgasvara
-- Jayàdhuma
+- Bālākhandīra
+- Balarīnāja
+- Bālāsina
+- Balāvaṭa
+- Bālavira
+- Bhālananda
+- Bhānusha
+- Bhāśvāra
+- Bhrjīvāra
+- Chandrathar
+- Chāndarśa
+- Chandradevavardhana
+- Chāndraka
+- Devāksha
+- Devānūra
+- Devānithavikram
+- Dhārmāja
+- Dhūrmāthala
+- Dhisamāya
+- Dhūlaka
+- Dhurānāya
+- Dīpānava
+- Drkṣārana
+- Drtapāja
+- Dṛtapālavikrānta
+- Garūnya
+- Harīśva
+- Hrṣavārman
+- Hṛṣādityavarmān
+- Jāgasvara
+- Jayādhuma
 - Jayarśa
-- Jayavîkrîthânitha
-- Jayasûryateja
-- Kàndhara
-- Kàrasha
-- Kaṅkàmara
-- Kaṅkâṇṭhavikram
-- Krtàrana
-- Krthiràya
+- Jayavīkrīthānitha
+- Jayasūryateja
+- Kāndhara
+- Kārasha
+- Kaṅkāmara
+- Kaṅkāṇṭhavikram
+- Krtārana
+- Krthirāya
 - Krvalaya
-- Kûmàrala
-- Kṣemànâya
-- Kṣēmaśaraṇapāla
-- Lòharśa
-- Mâdhavîndhra
-- Madhavēndrānanda
-- Màdhurava
-- Mahânanda
-- Mahâtaya
-- Mànâda
-- Nàgarîtha
-- Nárava
-- Nàràyaka
-- Pàllivaṭa
-- Prtàṇaka
-- Prthîmâja
-- Prthîvita
-- Prthùrâja
-- Prṣavàna
-- Prthûrâjavallabh
-- Pûrnàpûta
-- Ràjàvâra
-- Ràjàvarta
-- Ràjàyétra
-- Ramàjit
-- Ràmânava
-- Ràníśva
-- Râvana
-- Râjamitravâhana
-- Râmânujaśêkhara
-- Sahârsha
-- Sàhàrshi
-- Sâkṣya
-- Samîṭa
-- Samudrakîrthipâthi
-- Samûrat
-- Sàmṛsya
-- Satyàdarśa
-- Sénapati
-- Sénatha
-- Shêtaràṇa
-- Siddhàrvan
-- Siddhântadhévendra
-- Somàvira
-- Sunârsha
-- Sundàrka
-- Sûrakírti
-- Sûryàpati
+- Kūmārala
+- Kṣemānāya
+- Kṣemaśaraṇapāla
+- Loharśa
+- Madhurava
+- Mahānanda
+- Mahātaya
+- Mānāda
+- Nāgarītha
+- Nārava
+- Nārāyaka
+- Pāllivaṭa
+- Prtāṇaka
+- Prthīmāja
+- Prthīvita
+- Prthūrāja
+- Prṣavāna
+- Prthūrājavallabha
+- Pūrnāpūta
+- Rājāvāra
+- Rājāvarta
+- Rājāyetra
+- Rāmānava
+- Rānīśva
+- Rājamitravāhana
+- Sahārsha
+- Sāhārshi
+- Sākṣya
+- Samīṭa
+- Samudrakīrthipāthi
+- Samūrata
+- Sāmṛsya
+- Satyādarśa
+- Senāpati
+- Senatha
+- Shetarāṇa
+- Siddhārvan
+- Siddhāntadhevendra
+- Somāvira
+- Sunārsha
+- Sundārka
+- Sūrakīrti
+- Sūryāpati
 - Sūranandapāla
-- Tamûra
-- Tànàvarna
-- Vachàrâṭa
-- Vajrârana
-- Vàllama
-- Vârmàdhya
-- Varsànanda
-- Vaṭésa
-- Vidjéndra
-- Vijésa
-- Vijìtaka
-- Vikrântya
-- Vikrāmavirājitā
-- Vírasha
-- Vishnusha
-- Viśvambhârâkhil
-- Viśvàra
-- Vrṣpàti
+- Tamūra
+- Tānāvarna
+- Vachārāṭa
+- Vajrārana
+- Vāllama
+- Vārmādhya
+- Varsānanda
+- Vaṭesa
+- Vidjendra
+- Vijesa
+- Vijītaka
+- Vikrāntya
+- Vikramavirājita
+- Vīrasha
+- Shilāvīra
+- Viśvambhārākhil
+- Viśvāra
+- Vrṣpāti
 - Vīrāṅgaśikharam
-- Śùrana
+- Śūrana
 
 ### Female Given Names
 
 - Adari
-- Àdarsha
-- Agnivàri
-- Amrtésa
+- Ādarsha
+- Agnivāri
+- Amrtesa
 - Amrutika
 - Amritapadmagarba
 - Anandi
-- Anantâśrîvallabh
-- Aráti
-- Arpètika
-- Âshalakshmî
-- Àsvari
-- Bhàgini
-- Bhànumekha
-- Bhànuri
-- Bhàratì
-- Bhùlata
-- Bhānupriyārēkhā
-- Bhâratiyaśomat
-- Chàndika
-- Chàndira
-- Chandìta
-- Chândrakîrthisundarî
-- Dàrmina
-- Devakî
-- Devàtika
-- Devikshâ
-- Devìsha
-- Dharanî
-- Dipalà
-- Diptìka
-- Gamíni
-- Ìravati
-- Ìshani
-- Isvéta
+- Arāti
+- Arpetika
+- Āsvari
+- Bhāgini
+- Bhānumekha
+- Bhānuri
+- Bhāratī
+- Bhūlata
+- Bhānupriyārekhā
+- Chāndika
+- Chāndira
+- Chandīta
+- Chāndrakīrthisundarī
+- Dārmina
+- Devātika
+- Devikshā
+- Devīsha
+- Dharanī
+- Dipalā
+- Diptīka
+- Gamīni
+- Īshani
+- Isveta
 - Jasili
-- Jàyanavi
+- Jāyanavi
 - Jayathi
-- Jvalàrika
-- Jvalârâdhikâmbik
-- Kalyànika
-- Kalyânîprabhâvat
-- Karunári
-- Kîrtidhéva
-- Kumàrini
-- Kumùdika
+- Jvalārika
+- Kalyānika
+- Kalyānīprabhāvatī
+- Karunāri
+- Kīrtideva
+- Kumārini
+- Kumūdika
 - Kusavari
 - Lokesha
-- Lòkita
-- Lôkadharmâvat
+- Lokita
+- Lokadharmāvatī
 - Manavika
 - Mandaksha
-- Màndali
-- Mandākinirājīva
-- Mánršika
-- Mànuja
-- Mèkṣira
-- Minàka
-- Mânasâdarîndran
-- Nándari
+- Māndali
+- Mānrshika
+- Mānuja
+- Mekṣira
+- Mināka
+- Mānasādarīndran
+- Nāndari
 - Narthika
-- Padmâlî
-- Padmâvaticandrîk
-- Pallàvi
+- Padmālī
+- Pallāvi
 - Pirnashri
 - Piyari
-- Prabhâsundarîman
-- Pritàrika
-- Priyártha
-- Pûrani
-- Pûrnashila
-- Purnìka
-- Puspàla
-- Ràjani
-- Ràjànya
+- Prabhāsundarīman
+- Pritārika
+- Priyārtha
+- Pūrani
+- Pūrnashila
+- Purnīka
+- Puspāla
+- Rājani
+- Rājānya
 - Ramika
 - Rohinika
-- Rùmini
-- Sàgari
-- Samrudì
-- Vâriṇâbhâminî
-- Sarûni
-- Sarvāṅgadēvīyashas
+- Rūmini
+- Sāgari
+- Samrudī
+- Vāriṇābhāminī
+- Sarūni
+- Sarvāṅgadevīyashas
 - Satika
-- Satyàvati
 - Shaktini
-- Shàshmira
+- Shāshmira
 - Shilara
 - Shirvi
 - Shraddhāsuvastikā
-- Shrìmáthi
-- Shrìtika
-- Shyamàla
-- Sunáti
-- Suprabhâpadmîn
-- Suráni
+- Shrīmāthi
+- Shrītika
+- Shyamāla
+- Sunāti
+- Suprabhāpadmīn
+- Surāni
 - Suratika
-- Sûrika
+- Sūrika
 - Suvaratika
 - Tamira
-- Tanumadhuranîl
-- Tanùmrśya
-- Tarìka
-- Tarùni
-- Umàrti
+- Tanumadhuranīl
+- Tanūmrśya
+- Tarīka
+- Tarūni
+- Umārti
 - Vairini
-- Vàmiksha
-- Vàmila
-- Vànika
-- Vàrúnika
+- Vāmiksha
+- Vāmila
+- Vanika
 - Vashani
-- Vásunila
-- Vidùliya
-- Vidurâlakṣmînith
+- Vāsunila
+- Vidūliya
 - Vimalamadhurīkā
-- Vìruti
+- Vīruti
 - Vishali
 - Vrnnati
 - Yavati
-- Ânitîkâlindî
 
 ### Clan Names
 
-- Adhiswara
-- Adhîṣṭha
+- Adhisvara
+- Adhīṣṭha
 - Adityarsha
-- Ajârâṇa
+- Ajārāṇa
 - Amṛṣṭaṇa
 - Antarasena
-- Avîrana
-- Bâlarṇaya
-- Bhadrakāliyāgadhipa
+- Avīrana
+- Bālarṇaya
 - Bhamaka
 - Bhasura
-- Bhîmârṇa
-- Bhûmipâla
-- Bhûsharani
-- Bhûmipâthi-dhévana
-- Chandipâla
-- Chandrakṣêtrabhâṣvar
-- Chandrâtra
-- Daivajyâra
+- Bhīmārṇa
+- Bhūmipāla
+- Bhūsharani
+- Bhūmipāthi-dhevana
+- Chandipāla
+- Chandrakṣetrabhāṣvar
+- Chandrātra
+- Daivajyāra
 - Dariṭhaṇa
-- Devârani
+- Devārani
 - Dhanarshṭa
 - Dhanasura
-- Dhanûrvîkrîtha-kîrtiraj
-- Dharanîra
-- Dhârîka
-- Dharmapîṭha
+- Dhanūrvīkrītha-kīrtirāja
+- Dharanīra
+- Dhārīka
+- Dharmapīṭha
 - Dharmapālarājadīpa
-- Dîptakṣaṇa
-- Drâviksha
+- Dīptakṣaṇa
+- Drāviksha
 - Dukṣana
-- Gajavîra
+- Gajavīra
 - Harshana
-- Harṣadhévâmbujâka
-- Indrakaṇtha
+- Harṣadhevāmbujāka
 - Jambuksana
-- Javâloka
-- Jayakâra
-- Jayakṣatravikramân
+- Javāloka
+- Jayakāra
+- Jayakṣatravikramān
 - Jayavalli
-- Jwâlâyana
-- Kâlanâtha
-- Kalâtira
+- Jvālāyana
+- Kālanātha
+- Kalātira
 - Kalvira
-- Karunâseṇa
+- Karunāseṇa
 - Karyana
-- Kashîpari
 - Kashtika
-- Kâyadara
-- Kshemânî
+- Kāyadara
+- Kshemānī
 - Kulaṇaya
-- Lakṣhîṭhana
-- Lakṣmî-dhévendra
-- Madhîvada
-- Mahâdhéva
-- Mahadîka
-- Mahâpara
-- Mahâdhévavikramapâl
-- Manadâsa
-- Mânîṇya
+- Lakṣhīṭhana
+- Madhīvada
+- Mahadīka
+- Mahāpara
+- Manadāsa
+- Mānīṇya
 - Manṛṣṭi
-- Mâridiya
+- Māridiya
 - Nandivara
-- Nandivarmândhânîk
 - Niranjara
-- Padmadîksha
+- Padmadīksha
 - Padmavṛksha
 - Padmisha
 - Parikṣhana
-- Prabhâtârambhikâr
-- Prithûrshṭa
+- Prabhātārambhikār
+- Prithūrshṭa
 - Prthanaseṇa
-- Prthâsya
-- Prthî-râjavâlî
+- Prthāsya
+- Prthī-rājavālī
 - Purnaka
-- Pûrvâdîtya-kîrthisûri
-- Râjapâli-yogîdhéva
+- Pūrvādītya-kīrthisūri
+- Rājapāli-yogīdheva
 - Rajaseṇa
-- Ratâṇaya
-- Rathamâra
-- Ratnâdhi
+- Ratāṇaya
+- Rathamāra
+- Ratnādhi
 - Ratniseṇa
-- Ratnāṅgadēvadāsa
-- Rudraṭa
-- Samudrâya
-- Sangîraṇa
-- Sârathiṇa
+- Ratnāṅgadevadāsa
+- Samudrāya
+- Sangīraṇa
+- Sārathiṇa
 - Shambaraṇa
-- Shemâraja
-- Shraddhâna
-- Shûradîva
-- Shuravâna
+- Shemāraja
+- Shraddhāna
+- Shūradīva
+- Shuravāna
 - Sitikṣana
-- Sukhîshṭha
-- Sumithîya
+- Sukhīshṭha
+- Sumithīya
 - Sṛnaraka
-- Sûryatejamahânita
-- Tamrâkṣa
-- Tarayâra
-- Vâkṣetra
+- Sūryatejamahānita
+- Tamrākṣa
+- Tarayāra
+- Vākṣetra
 - Valaka
-- Vâlîrajî
-- Varîdhara
+- Vālīrajī
+- Varīdhara
 - Varmika
-- Vasavêṣa
-- Vâsukina
-- Vâtârya
-- Vidyâ-sâgaramaṇḍal
-- Vikramâda
+- Vasaveṣa
+- Vātārya
+- Vidyā-sāgaramaṇḍal
+- Vikramada
 - Vimuktaṇa
-- Virajyâra
-- Vîrakânta
-- Vîranatha
-- Vîraraja
-- Vishnutara
-- Vrtraṭa
-- Yajamâna
-- Âchâryamukhyêdhéva
-- Ânithavallabhendra
-- Âyodhyârâjavardhan
+- Virajyāra
+- Vīrakānta
+- Vīranatha
+- Vīraraja
+- Yajamāna
+- Āchāryamukhyedheva
+- Ānithavallabhendra
+- Jayarājavardhana

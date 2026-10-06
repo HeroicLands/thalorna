@@ -17,8 +17,8 @@ data:
   gender: male
   species: humanflk
   born: 647.89
-  height: 1.84
-  weight: 91
+  height: 6'
+  weight: 201 lbs
   frame: heavy
   appearance:
     eye_color: dark_brown
@@ -369,7 +369,7 @@ Hluskmýl stands 5'9" with a withered, skeletal frame. His pale skin has the wax
 
 Hluskmýl Svartrúnar was a feared and loathsome sorcerer, infamous for his dark rituals and vile practices. His heart was as black as the runes he carved into the flesh of his victims, and his insatiable hunger for power led him to delve into the most forbidden secrets of necromancy. His deeds were so wicked that even the darkest beings shunned him. Eventually, his quest for power drew the attention of Náhild, who transformed him into a Nightwight—a [[being-tereb|tereb]], in the learned word—a powerful Helspawn sorcerer with mastery over death.
 
-The most notorious saga of Hluskmýl Svartrúnar involves his desecration of [[place-haulonna|Haulonna]], a hidden Sinalë enclave nestled deep in the forested mountains of northern Nordheim. For centuries the Sinalë had maintained Haulonna as a sanctuary where their ancient magic intertwined with the living forest, concealed from human knowledge by wards older than the Vylarian Empire. Náhild tasked Hluskmýl with its destruction. Under cover of night, Hluskmýl pierced the enclave's wards and entered the sanctuary, carving black runes into the earth that corrupted the natural energies binding the place together. The Sinalë, led by Calenlass Vardamir, fought valiantly to defend their haven, but Hluskmýl's dark magic was overwhelming. In a desperate final stand, Calenlass confronted Hluskmýl directly, but the sorcerer drew upon Náhild's full power and shattered the Sinalo's star-staff. The once-lush sanctuary became a necropolis, the spirits of the fallen Sinalë trapped in eternal torment. Among the Sinalë, the name Hluskmýl Svartrúnar is still spoken with a grief and fury that has not dimmed in decades—a rare thing, for a people who measure time in centuries.
+The most notorious saga of Hluskmýl Svartrúnar involves his desecration of [[place-haulonna|Haulonna]], a hidden Sinalë enclave nestled deep in the forested mountains of northern Nordheim. For centuries the Sinalë had maintained Haulonna as a sanctuary where their ancient magic intertwined with the living forest, concealed from human knowledge by wards older than the Vylarian Empire. Náhild tasked Hluskmýl with its destruction. Under cover of night, Hluskmýl pierced the enclave's wards and entered the sanctuary, carving black runes into the earth that corrupted the natural energies binding the place together. The Sinalë, led by Ansorudhe Lonvunto, fought valiantly to defend their haven, but Hluskmýl's dark magic was overwhelming. In a desperate final stand, Ansorudhe confronted Hluskmýl directly, but the sorcerer drew upon Náhild's full power and shattered the Sinalo's star-staff. The once-lush sanctuary became a necropolis, the spirits of the fallen Sinalë trapped in eternal torment. Among the Sinalë, the name Hluskmýl Svartrúnar is still spoken with a grief and fury that has not dimmed in decades—a rare thing, for a people who measure time in centuries.
 
 ## Psyche
 
@@ -379,7 +379,7 @@ Hluskmýl is vile and sadistic, taking pleasure in corruption and defilement. Wh
 
 ### Motivation
 
-Hluskmýl seeks to corrupt and defile every place of beauty and life he can find, believing that in doing so he proves the supremacy of death over life. His ultimate ambition is to corrupt one of the Sinalë enclaves themselves, which would be the greatest triumph of Náhild's power over the living world. He also seeks to break the spirit of Calenlass Vardamir, whose soul remains defiant even in captivity.
+Hluskmýl seeks to corrupt and defile every place of beauty and life he can find, believing that in doing so he proves the supremacy of death over life. His ultimate ambition is to corrupt one of the Sinalë enclaves themselves, which would be the greatest triumph of Náhild's power over the living world. He also seeks to break the spirit of Ansorudhe Lonvunto, whose soul remains defiant even in captivity.
 
 ### Strengths
 
@@ -399,7 +399,7 @@ Hluskmýl's runic magic is devastatingly effective at corrupting natural and div
 
 **The Sinalë**—The Firstborn consider Hluskmýl among the most hated names in their long memory. Their agents search tirelessly for a way to destroy him and free the spirits of [[place-haulonna|Haulonna]].
 
-**Calenlass Vardamir's Spirit**—The bound spirit of the Sinalo guardian resists Hluskmýl's control and works to undermine him from within the corrupted enclave.
+**Ansorudhe Lonvunto's Spirit**—The bound spirit of the Sinalo guardian resists Hluskmýl's control and works to undermine him from within the corrupted enclave.
 
 **Hnirvmýl the Wise**—The seer has foreseen that Hluskmýl's corruption will eventually threaten the entire northern land if left unchecked and has made the necromancer's destruction a personal mission.
 
@@ -409,4 +409,4 @@ Hluskmýl's runic magic is devastatingly effective at corrupting natural and div
 
 2. **The Black Rune Plague**—Hluskmýl's runes have begun appearing in new locations, spreading corruption to farmland and water sources. Someone is helping him, and the trail leads to an unexpected source.
 
-3. **Calenlass's Hope**—The spirit of the fallen Sinalo guardian has managed to send a message beyond the corrupted enclave: he has found a weakness in Hluskmýl's defenses, but he needs help from the outside to exploit it before the necromancer discovers what he's done.
+3. **Ansorudhe's Hope**—The spirit of the fallen Sinalo guardian has managed to send a message beyond the corrupted enclave: he has found a weakness in Hluskmýl's defenses, but he needs help from the outside to exploit it before the necromancer discovers what he's done.

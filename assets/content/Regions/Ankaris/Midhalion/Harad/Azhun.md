@@ -78,7 +78,7 @@ sohl: {system: {commonSkills: [haradilng]}}
 
 ## Overview
 
-The city-state holds [[place-azhun2|Azhûn]] itself. As one of the three great city-states of the Haradian Confederation, Azhûn serves as the conduit through which goods flow between the Dunhari desert, the inland city-states, and the maritime routes that connect Harad to the western realms.
+The city-state holds [[place-azhun2|Azhûn]] itself. One of the five coastal city-states of the Haradian Confederation, Azhûn is the conduit through which goods flow between the Dunhari desert, the caravan towns of the interior, and the maritime routes that connect Harad to the western realms.
 
 The city's merchant guilds hold absolute power here, and their councils meet in the towering House of Factors that overlooks the harbor. Competition between guilds is fierce but disciplined; they maintain an elaborate system of tariffs, trading monopolies, and agreements that regulate commerce with surgical precision. A ship's captain who violates guild protocol finds no harbor master willing to accept her vessel, no crew willing to work for her. The guilds have learned that stability, however rigidly maintained, yields greater wealth than chaos.
 

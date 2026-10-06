@@ -15,7 +15,7 @@ data:
   government: osketguides
 ---
 
-**Öskhelt** stands on a south-facing slope above the upper stages of [[place-suryadvara|Sūryadvāra]], four days' climb from [[place-suryagarha|Sūryāgarha]] and well above anything that will grow grain. It is the largest settlement of the [[affiliation-osketguides|Ösket]] and the one place on the wall where a lowlander arranges a crossing instead of being granted one.
+**Öskhelt** is the one place on the wall where a lowlander arranges a crossing instead of being granted one. It stands on a south-facing slope above the upper stages of [[place-suryadvara|Sūryadvāra]], four days' climb from [[place-suryagarha|Sūryagarha]] and well above anything that will grow grain, and it is the largest settlement of the [[affiliation-osketguides|Ösket]].
 
 The houses are stacked stone, built into the slope with the beast-floor beneath and the living-floor above, roofed in slate and turf and sharing walls wherever the ground allows. Six hundred and forty people winter here. In the open season the figure doubles and more.
 
@@ -27,9 +27,9 @@ For the other ten months there is no market at all, the smiths are shoeing beast
 
 ## The Hospitality
 
-Anyone who reaches the door is fed and housed, without exception and without payment, and that includes people the village would much rather not have. It is the one Ösket custom that lowlanders find entirely legible, and the one they most often abuse.
+Anyone who reaches a door in Öskhelt is fed and housed from the common store, and that includes people the village would much rather not have. The hearth-warden whose house it is asks for no payment and makes no exception; the rule is the same one the Ösket keep on every col.
 
 ## See Also
 
 - [[place-suryadvara|Sūryadvāra]] · [[affiliation-osketguides|The Ösket]] · [[place-tsokhar|Tsökhar]]
-- [[place-graznmntns|The Grazian Mountains]] · [[place-suryagarha|Sūryāgarha]]
+- [[place-graznmntns|The Grazian Mountains]] · [[place-suryagarha|Sūryagarha]]

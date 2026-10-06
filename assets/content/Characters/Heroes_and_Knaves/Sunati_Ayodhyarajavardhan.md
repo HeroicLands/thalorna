@@ -1,6 +1,6 @@
 ---
 shortcode: sntydhyrjvrdhn
-name: {full: Sunáti Āyodhyārājavardhan, given: Sunáti, clan: Āyodhyārājavardhan, aliases: []}
+name: {full: Sunāti Jayarājavardhana, given: Sunāti, clan: Jayarājavardhana, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, administration]
@@ -17,8 +17,8 @@ data:
   gender: female
   species: humanflk
   born: 692.288
-  height: 1.7
-  weight: 60.3
+  height: 5' 7"
+  weight: 133 lbs
   frame: medium
   appearance:
     eye_color: amber
@@ -413,45 +413,45 @@ sohl:
 
 # Appearance {#appearance}
 
-![[sntydhyrjvrdhn|Sunáti Āyodhyārājavardhan]]{float=top-left}
+![[sntydhyrjvrdhn|Sunāti Jayarājavardhana]]{float=top-left}
 
-Sunáti stands 5'7" tall with a medium build. She has rich brown skin, black hair, and honey brown eyes. Her features include a soft-featured face, a rounded chin, elegantly curved brows, rounded cheeks.
+Sunāti stands 5'7" tall with a medium build. She has rich brown skin, black hair, and honey brown eyes. Her features include a soft-featured face, a rounded chin, elegantly curved brows, rounded cheeks.
 
 # Dossier {#dossier}
 
 ## Background
 
-### The House of Āyodhyārājavardhan
+### The House of Jayarājavardhana
 
-Sunáti was born into the House of Āyodhyārājavardhan, one of the city-states of [[affiliation-janpdsvdyr|Vedyara]]'s most prestigious courtier families. Her family has produced celebrated courtesans for four generations, each woman refined through intensive training in the arts of music, dance, conversation, and courtship. Rather than viewing this legacy as constraining, Sunáti embraced it as her path to freedom—the courtier's trade being one of the few avenues through which women of Vedyara could accumulate genuine wealth and independence.
+Sunāti was born into the **House of Jayarājavardhana**, one of the city-states of [[affiliation-janpdsvdyr|Vedyara]]'s most prestigious courtier families. Her family has produced celebrated courtesans for four generations, each woman refined through intensive training in the arts of music, dance, conversation, and courtship. Rather than viewing this legacy as constraining, Sunāti embraced it as her path to freedom—the courtier's trade being one of the few avenues through which women of Vedyara could accumulate genuine wealth and independence.
 
 ### The Education
 
-From childhood, Sunáti studied. She learned the twelve classical dance forms before her twelfth year, mastered musical instruments under the tutelage of renowned masters, and studied languages, poetry, and the arts of conversation. Her training was grueling and exacting, designed not merely to make her beautiful, but to make her invaluable—a woman whose company elevated those who sought her. She learned to read emotion like a master reader interprets sacred texts, to guide conversations with invisible subtlety, and to create an experience of connection that made wealthy patrons feel seen and understood.
+From childhood, Sunāti studied. She learned the twelve classical dance forms before her twelfth year, mastered musical instruments under the tutelage of renowned masters, and studied languages, poetry, and the arts of conversation. Her training was grueling and exacting, designed not merely to make her beautiful, but to make her invaluable—a woman whose company elevated those who sought her. She learned to read emotion like a master reader interprets sacred texts, to guide conversations with invisible subtlety, and to create an experience of connection that made wealthy patrons feel seen and understood.
 
-At eighteen, Sunáti formally entered the courtesan's world, establishing herself in the courts of Vedyara's merchant princes and minor nobles. Her reputation grew swiftly; she was sought after not merely for her beauty but for the sense that time spent with her was time spent with someone genuinely remarkable.
+At eighteen, Sunāti formally entered the courtesan's world, establishing herself in the courts of Vedyara's merchant princes and minor nobles. Her reputation grew swiftly; she was sought after not merely for her beauty but for the sense that time spent with her was time spent with someone genuinely remarkable.
 
 ### Present Mastery
 
-Now, at twenty-eight, Sunáti has moved beyond simply accepting patronage to controlling it entirely. She has accumulated considerable wealth through careful management, has cultivated a network of powerful allies, and has positioned herself as one of the most selective and celebrated courtesans in Vedyara's upper circles. Yet beneath the elegant exterior lies a woman increasingly aware of the transience of her power—beauty fades, charm dulls, and the courtier's world is brutal to those who slip into obsolescence.
+Now, at twenty-eight, Sunāti has moved beyond simply accepting patronage to controlling it entirely. She has accumulated considerable wealth through careful management, has cultivated a network of powerful allies, and has positioned herself as one of the most selective and celebrated courtesans in Vedyara's upper circles. Yet beneath the elegant exterior lies a woman increasingly aware of the transience of her power—beauty fades, charm dulls, and the courtier's world is brutal to those who slip into obsolescence.
 
 ## Psyche
 
 ### Personality
 
-Sunáti is a paradox: deeply known and profoundly hidden. She possesses genuine warmth and affection for those in her circle, yet maintains absolute control over which aspects of herself she reveals. Her conversation is luminous with intelligence, humor, and insight—she is never merely decorative but always a presence that elevates any gathering. Yet this very excellence creates distance; most of those who encounter her are aware that what they are experiencing is, in some sense, a performance—exquisitely crafted, but performance nonetheless.
+Sunāti is a paradox: deeply known and profoundly hidden. She possesses genuine warmth and affection for those in her circle, yet maintains absolute control over which aspects of herself she reveals. Her conversation is luminous with intelligence, humor, and insight—she is never merely decorative but always a presence that elevates any gathering. Yet this very excellence creates distance; most of those who encounter her are aware that what they are experiencing is, in some sense, a performance—exquisitely crafted, but performance nonetheless.
 
 She is introspective and melancholic when alone, prone to philosophical reflection on the nature of connection and authenticity. She practices the worship of Vyālendra, the creation-goddess, and views her work as a form of creation—the creation of beauty, meaning, and transcendent experiences in the lives of those who seek her company. She is neither cynical nor naive about her work; she understands fully both its value and its limitations.
 
 ### Motivation
 
-Sunáti is driven by a complex mixture of desires: the pursuit of genuine security and independence in a world that constantly threatens to render women powerless; the creation of beauty and meaning as an end in itself; and the search for authentic connection in a life necessarily built on performance and controlled revelation. She seeks to build something beyond her current life—perhaps a legacy that extends beyond her years as a celebrated courtesan, perhaps a circle of equals with whom she can lower her carefully maintained guard.
+Sunāti is driven by a complex mixture of desires: the pursuit of genuine security and independence in a world that constantly threatens to render women powerless; the creation of beauty and meaning as an end in itself; and the search for authentic connection in a life necessarily built on performance and controlled revelation. She seeks to build something beyond her current life—perhaps a legacy that extends beyond her years as a celebrated courtesan, perhaps a circle of equals with whom she can lower her carefully maintained guard.
 
 ### Strengths
 
-- **Emotional Mastery and Perception**: Sunáti can read emotions with surgical precision. She understands what people need emotionally before they do, and creates experiences that fulfill those needs perfectly. Few can manipulate social situations as effectively as she does.
+- **Emotional Mastery and Perception**: Sunāti can read emotions with surgical precision. She understands what people need emotionally before they do, and creates experiences that fulfill those needs perfectly. Few can manipulate social situations as effectively as she does.
 - **Masterful Performance**: Her skill in dance, music, poetry, and conversation is unparalleled in her circles. She is capable of creating moments of transcendent beauty that patrons remember for years.
-- **Strategic Networking**: Sunáti has carefully cultivated relationships with the most powerful figures in Vedyara's political and commercial landscape. She understands patronage networks and can navigate them with expert precision.
+- **Strategic Networking**: Sunāti has carefully cultivated relationships with the most powerful figures in Vedyara's political and commercial landscape. She understands patronage networks and can navigate them with expert precision.
 - **Unarmed Combat and Concealed Weapons**: Beneath her elegance lies dangerous training in moving silently, fighting lethally with her concealed dagger, and self-defense. She is far more dangerous than her appearance suggests.
 
 ### Weaknesses
@@ -465,36 +465,36 @@ Sunáti is driven by a complex mixture of desires: the pursuit of genuine securi
 
 ### Patrons
 
-Merchant-Prince Chandipâla Vyāvahārika
-: A powerful trader in textiles and spices who has maintained a consistent patronage of Sunáti for the past four years. Though he is married, his relationship with Sunáti is explicitly financial and social rather than romantic. He values her counsel on matters of business and politics.
+Merchant-Prince Chandipāla Vyāvahārika
+: A powerful trader in textiles and spices who has maintained a consistent patronage of Sunāti for the past four years. Though he is married, his relationship with Sunāti is explicitly financial and social rather than romantic. He values her counsel on matters of business and politics.
 
 The Council of Merchant Princes
-: Collectively, Sunáti has served as an informal consultant and companion to multiple members of Vedyara's ruling merchant council, making her privy to significant political and commercial secrets.
+: Collectively, Sunāti has served as an informal consultant and companion to multiple members of Vedyara's ruling merchant council, making her privy to significant political and commercial secrets.
 
 ### Enemies
 
 Sharvī Kalāñjanasundarī
-: A rival courtesan of equal talent who views Sunáti as having stolen patrons and prestige that should rightfully be hers. Their competition is professional but genuinely bitter, and Sharvī has attempted various forms of sabotage and social exclusion.
+: A rival courtesan of equal talent who views Sunāti as having stolen patrons and prestige that should rightfully be hers. Their competition is professional but genuinely bitter, and Sharvī has attempted various forms of sabotage and social exclusion.
 
 The Traditionalist Faction
-: A coalition of religious conservatives in Vedyara who view courtesans as corrupting influences and have begun advocating for restrictions on their freedoms. Sunáti has become their symbolic target.
+: A coalition of religious conservatives in Vedyara who view courtesans as corrupting influences and have begun advocating for restrictions on their freedoms. Sunāti has become their symbolic target.
 
 ### Affiliations
 
 The Circle of Free Courtesans
-: An informal association of independent courtesans (as opposed to those bound to houses) who provide mutual support, share information about patrons, and collectively maintain standards. Sunáti holds considerable influence within this circle.
+: An informal association of independent courtesans (as opposed to those bound to houses) who provide mutual support, share information about patrons, and collectively maintain standards. Sunāti holds considerable influence within this circle.
 
 Worshippers of Vyālendra
-: While not formally organized, Sunáti maintains connections with other devotees of the creation-goddess, viewing her work as a sacred practice of creation and meaning-making.
+: While not formally organized, Sunāti maintains connections with other devotees of the creation-goddess, viewing her work as a sacred practice of creation and meaning-making.
 
 ## Plot Hooks
 
-1. **The Dangerous Secret**: A powerful noble client confesses to Sunáti that he is planning to betray the merchant council in a trade agreement, with implications that could destabilize the entire city-state. He believes that his emotional intimacy with Sunáti ensures her silence, but she is now caught between her loyalty to her patron system and knowledge of a conspiracy that could harm the city. Whom does she expose, and at what cost?
+1. **The Dangerous Secret**: A powerful noble client confesses to Sunāti that he is planning to betray the merchant council in a trade agreement, with implications that could destabilize the entire city-state. He believes that his emotional intimacy with Sunāti ensures her silence, but she is now caught between her loyalty to her patron system and knowledge of a conspiracy that could harm the city. Whom does she expose, and at what cost?
 
-2. **The Authentic Connection**: A scholar and philosopher, **Lord Kamasvāmin Acharya**, begins visiting Sunáti with no interest in the typical courtier-patron dynamic. Instead, he seeks genuine conversation and intellectual companionship. For the first time in her life, Sunáti encounters someone who seems interested in her authentic self rather than her performed self. This threatens everything she has built—because it forces her to confront what authenticity even means for someone whose life is fundamentally built on controlled performance.
+2. **The Authentic Connection**: A scholar and philosopher, **Lord Kamasvāmin Acharya**, begins visiting Sunāti with no interest in the typical courtier-patron dynamic. Instead, he seeks genuine conversation and intellectual companionship. For the first time in her life, Sunāti encounters someone who seems interested in her authentic self rather than her performed self. This threatens everything she has built—because it forces her to confront what authenticity even means for someone whose life is fundamentally built on controlled performance.
 
-3. **The Rescue Unwanted**: A young woman, barely twenty, is being groomed to enter the courtesan profession by coercive means rather than choice. She reaches out to Sunáti, begging for help escaping her family's control. Saving her would expose Sunáti to legal liability and could damage her reputation with the very clients whose patronage sustains her. Does she help, and if so, at what cost?
+3. **The Rescue Unwanted**: A young woman, barely twenty, is being groomed to enter the courtesan profession by coercive means rather than choice. She reaches out to Sunāti, begging for help escaping her family's control. Saving her would expose Sunāti to legal liability and could damage her reputation with the very clients whose patronage sustains her. Does she help, and if so, at what cost?
 
-4. **The Fading Beauty**: A debilitating illness strikes Sunáti—nothing immediately life-threatening, but something that will gradually diminish her physical capabilities and perhaps leave visible marks. She must confront the reality that the asset upon which she has built her entire life is becoming compromised. Her response—whether to retire gracefully, fight to remain relevant, or seek a different path—will define the next phase of her life.
+4. **The Fading Beauty**: A debilitating illness strikes Sunāti—nothing immediately life-threatening, but something that will gradually diminish her physical capabilities and perhaps leave visible marks. She must confront the reality that the asset upon which she has built her entire life is becoming compromised. Her response—whether to retire gracefully, fight to remain relevant, or seek a different path—will define the next phase of her life.
 
-5. **The Request for Betrayal**: The merchant council approaches Sunáti with an explicit request: use her intimate access to rival traders to gather intelligence on their plans. The payment is substantial, the advantage to the council is enormous, but the request crosses a line from personal patronage into active espionage. Accepting would compromise her carefully maintained neutrality and make her a tool of political power. Refusing would anger the very people whose patronage sustains her independence.
+5. **The Request for Betrayal**: The merchant council approaches Sunāti with an explicit request: use her intimate access to rival traders to gather intelligence on their plans. The payment is substantial, the advantage to the council is enormous, but the request crosses a line from personal patronage into active espionage. Accepting would compromise her carefully maintained neutrality and make her a tool of political power. Refusing would anger the very people whose patronage sustains her independence.

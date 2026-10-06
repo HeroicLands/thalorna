@@ -65,7 +65,7 @@ sohl: {system: {commonSkills: [okharclng]}}
 
 ## Overview
 
-Okháris occupies the southern edge of the [[place-xerathia|Northern Fertile Region]]—a position that makes its membership in the region nominal rather than geographic. South of the [[affiliation-mtrrchybth|Matriarchy of Bethua]], southwest of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and bounded on the south by the impassable [[place-cntrlrnfrsts|Central Rainforests]], Okháris is a hot kingdom of rain-fed forest, river valleys and grassland in the west, drying eastward to savanna, held by three great temple-cities. Where its northern neighbors built civilization on aqueducts and irrigation, Okháris built it on rain-fed land and the herds.
+Okháris occupies the southern edge of the [[place-xerathia|Northern Fertile Region]]—a position that makes its membership in the region nominal rather than geographic. West of the [[affiliation-mtrrchybth|Matriarchy of Bethua]], southwest of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and bounded on the south by the impassable [[place-cntrlrnfrsts|Central Rainforests]], Okháris is a hot kingdom of rain-fed forest, river valleys and grassland in the west, drying eastward to savanna, held by three great temple-cities. Where its northern neighbors built civilization on aqueducts and irrigation, Okháris built it on rain-fed land and the herds.
 
 ## Geography
 

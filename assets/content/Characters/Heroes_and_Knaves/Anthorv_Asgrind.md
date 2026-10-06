@@ -18,8 +18,8 @@ data:
   gender: male
   species: humanflk
   born: 670.292
-  height: 1.83
-  weight: 74.8
+  height: 6'
+  weight: 165 lbs
   frame: medium
   appearance:
     eye_color: brown
@@ -493,7 +493,7 @@ Lord Castor Thorne, Duke of the Southern Marches
 [[affiliation-wazulu|The Wazulu]]
 : Religious conservatives who believe jesters are agents of demoralization and have lobbied the church to declare his performances blasphemous. While they lack the power to end his position, they make his life difficult.
 
-His Own Reflection
+His own reflection, an inner enemy
 : The tragic figure Anthorv most opposes is himself—his cynicism, his fear of closeness, and his slowly weakening ability to maintain the performance that defines him.
 
 ### Affiliations

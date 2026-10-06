@@ -54,27 +54,23 @@ sohl:
 - **Pronunciation:** _VYAH-len-drah_
 - **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
-Vyālendra is the architect of existence. He gave shape to the earth, the skies and all living things, and he gives shape to every new work of human making. Varnakan theology holds that every founded city, every raised temple, every dedicated bridge and irrigation channel repeats the original act of cosmic shaping in miniature. To build well is to serve Vyālendra; to build poorly is to mar the pattern the world itself was made from.
+"Mark the cord before you stretch it. Every knot is a promise about where the wall will stand." A temple foreman says it to the apprentice holding the far end of the measuring cord at a foundation-laying, and waits until the boy has found the first knot before he lets the work begin. [[lore-vyalendradty|Vyālendra]]'s cult is the cult of beginnings made with care. No major work of construction is begun without the rites appropriate to the god.
 
-Worship of Vyālendra is strongest in the cities of [[place-vedyarargn|Vedyara Region]], where he is invoked at the founding of settlements, the laying of foundations, and the consecration of public works. Master architects, temple-builders, and the guilds of masons and engineers all maintain household shrines to Vyālendra, and no major work of construction is begun without the rites appropriate to the god.
+Vyālendra is the architect of existence. He gave shape to the earth, the skies and all living things, and he gives shape to every new work of human making. Varnakan theology holds that every founded city, every raised temple, every dedicated bridge and irrigation channel repeats the original act of cosmic shaping in miniature. To build well is to serve him, and to build poorly is to mar the pattern the world itself was made from.
 
-### Aspects
+His worship is strongest in the cities of [[place-vedyarargn|Vedyara Region]], where he is invoked at the founding of settlements, the laying of foundations and the consecration of public works. Master architects, temple-builders and the guilds of masons and engineers all maintain household shrines to him. At [[affiliation-rajaprjnpd|Rājapur]] the great Vyālendra temple is the heart of the janapada, and its senior priest convenes the sabhā. [[affiliation-trimurtisampradaya|Triyanga-sampradāya]] reads him as one form of three, and [[affiliation-vyalendravada|Vyālendravāda]] holds him supreme.
 
-Vyālendra is depicted as a figure of serene focus, often four-armed, holding the tools of creation: the compass of proportion, the measuring cord, the chisel, and the lotus of perfected form. The golden lotus is the moment in which the formless takes form, pattern opening out of possibility.
+### What You See at His Temples
 
-### Sacred Objects
+He is pictured as a figure of serene focus, often four-armed, holding the tools of creation: the compass of proportion, the measuring cord, the chisel, and the lotus of perfected form. The golden lotus is the moment in which the formless takes form, pattern opening out of possibility.
 
-- **Golden lotus medallion**—worn by master craftsmen and senior clergy as a sign of their vocation
-- **Measuring cord**—a knotted ritual cord used in the consecration of new foundations
-- **Carved foundation-stone**—the first stone of any major construction, incised with a Vyāndran invocation
+Three objects carry the cult. The golden lotus medallion is worn by master craftsmen and senior clergy as a sign of their vocation. The measuring cord is a knotted ritual cord used in the consecration of new foundations. The carved foundation-stone is the first stone of any major construction, incised with an invocation to the god, and the priesthood lays it in the **Rite of the First Stone**.
 
-### Divine Servants
+The **Shilpa-Kalas**, his crafting spirits, are minor celestial kin who inspire mortals in art, architecture and innovation. Artisans report their presence as a quiet clarity of mind at moments of breakthrough.
 
-- **Shilpa-Kalas**—the crafting spirits, minor celestial kin who inspire mortals in art, architecture, and innovation. Artisans report their presence as a quiet clarity of mind at moments of breakthrough.
+### What the Devout Do
 
-### Veneration
-
-In Vyāndran households a small lotus-medallion hangs above the threshold, and the tools of the household's trade are blessed at the start of each working day. Artisans and builders offer a pinch of powdered gold or saffron at the household shrine before a new commission. At the founding of a family home the head of the household buries a small incised stone beneath the first pillar, as the priesthood lays the first stone of a public work in the Rite of the First Stone.
+A small lotus-medallion hangs above the threshold of a Vyālendran household, and the tools of the household's trade are blessed at the start of each working day. Artisans and builders offer a pinch of powdered gold or saffron at the household shrine before a new commission. At the founding of a family home the head of the household buries a small incised stone beneath the first pillar, as the priesthood lays the first stone of a public work.
 
 ### Ordeals for Favor
 
@@ -84,5 +80,6 @@ In Vyāndran households a small lotus-medallion hangs above the threshold, and t
 ### See Also
 
 - [[affiliation-varakpnthn|Varnaka Pantheon]]
-- [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]]—the orthodox tri-form tradition, which venerates Vyālendra as the shaper alongside Mahájaya and Rásikara
+- [[lore-vyalendradty|Vyālendra]]—the god, and where his source-temple stands
+- [[affiliation-trimurtisampradaya|Triyanga-sampradāya]]—the orthodox tri-form tradition, which venerates Vyālendra as the shaper alongside Mahājaya and Rāsikara
 - [[affiliation-vyalendravada|Vyālendravāda]]—the monistic sect that holds Vyālendra as the supreme deity from whom all others emanate

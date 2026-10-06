@@ -16,8 +16,9 @@ data:
 
 ## Overview
 
-Tjautha-Megit lies among the channels of [[place-garanlghtslt|Gar-Anlaghet Selat]], within reach of the great port of [[place-garanlaghet|Gar-Anlaghet]]. It lives by its boats and its nets, and by the custom a port of that size always throws off to the villages around it. A poor catch here is made up by a good one at the port's own quays, and a family works both without thinking of them as different trades.
+**Tjautha-Megit** lies among the channels of [[place-garanlghtslt|Gar-Anlaghet Selat]], within reach of the great port of [[place-garanlaghet|Gar-Anlaghet]]. Its families live by their boats and nets, and by the custom a port of that size throws off to the villages around it. A poor catch is made up with a good sale at the port's own quays, so a family here works both and thinks of them as one trade.
 
 ## See Also
 
-TBD.
+- [[place-garanlghtslt|Gar-Anlaghet Selat]]—The selat country that holds it
+- [[place-garanlaghet|Gar-Anlaghet]]—The port city of the selat

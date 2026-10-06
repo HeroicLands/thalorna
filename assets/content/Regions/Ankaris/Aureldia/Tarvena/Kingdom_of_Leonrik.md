@@ -103,7 +103,7 @@ data:
         Holder of a specific service owed to a lord or the crown, or a lesser command within a company.
       Manorial Officer: >-
         Any office serving a single manor rather than the realm, held of the manor's lord and answerable to him rather than to the crown.
-  seat: montana
+  seat: null
   domains: [leonrik]
   population: 1000000
   economy: [lore-vylrncrncy, affiliation-clgmrgntrrm, affiliation-magnumclgm]

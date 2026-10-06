@@ -52,7 +52,19 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-An upper-river cult of harvest-festivals and virility rites, seated at the caravan-head for the eastern desert roads—so the same god is asked for the increase of the fields and for the safe return of the caravans, and his festivals mark both.
+"You will want two blessings from the temple at [[place-iqu|Iqu]]," a **Blesser of the Caravans** tells a driver about to lead his first string of donkeys out onto the eastern desert roads. "One for what the fields give, and one for the road. People think they are separate prayers. With [[lore-pelgundty|Pelgun]] they are the same prayer."
 
-See [[affiliation-khelathpnthn|Khelâthi Pantheon]] for the temple hierarchy every
-Khelâthi cult shares.
+Pelgun is the god of the [[place-selatpelgunnome|Selat-Pelgun]], an upper-river selat that serves as the caravan-head for the eastern desert roads. His cult is one of harvest-festivals and virility rites, and the selat's chief temple of Pelgun stands in [[place-iqu|Iqu]], where the [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] keeps his court. The same god is asked for the increase of the fields and for the safe return of the caravans, and his festivals mark both.
+
+## Two Offices, One Calendar
+
+The cult has two working offices, and the selat's year turns between them. The **Keeper of the Harvest-Festivals** runs the festival calendar. The Blesser of the Caravans sends the caravans out onto the desert roads and receives them home again, the selat being their head.
+
+The ladder below them is the shared one: lay faithful who keep the observances and bring offerings, Wazu in the long temple education, Lem'Nelgir who run the temple, and a Thâz'Lekhau whose weight is real inside the selat and slight outside it.
+
+## See Also
+
+- [[lore-pelgundty|Pelgun]]—the god
+- [[affiliation-selatsltplgn|The Selat of Selat-Pelgun]]—the selat whose patron he is
+- [[affiliation-upperrivrslt|The Upper River Selatu]]—the selatu he belongs to
+- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—the temple hierarchy every [[lore-khelathiclt|Khelâthi]] cult shares

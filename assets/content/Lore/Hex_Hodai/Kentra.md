@@ -134,7 +134,7 @@ Among the diagnosed mages themselves—and rarely, in whispers, among the few co
 
 Somewhere in the Ordo's deepest archives—the kind of archives a Praelatus might access once in a long career—are case files on every diagnosed Vertigo Hodäi mage going back centuries. Each file contains the testimony of the afflicted: their reports of currents beyond the Six, their fragmented attempts to describe what they perceived, their final lucid letters before the Ordo's care became their permanent residence.
 
-A reader who went through these files in sequence, looking for patterns, would notice that the "delusions" are not random. They cluster. They describe similar things. They reach, again and again, for the same not-quite-articulated conclusion. The Ordo has accumulated, over centuries, a vast and unintentional record of what lies beyond the Héx Hodäi—written in the broken testimony of the very mages it dismissed as mad.
+The "delusions" in these files are not random. They cluster. They describe similar things. They reach, again and again, for the same not-quite-articulated conclusion. The Ordo has accumulated, over centuries, a vast and unintentional record of what lies beyond the Héx Hodäi—written in the broken testimony of the very mages it dismissed as mad.
 
 No one has ever read the files in sequence. The Ordo's archival system is not designed to make such patterns visible.
 

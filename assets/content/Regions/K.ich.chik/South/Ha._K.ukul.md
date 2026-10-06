@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [balamtzakurgn], population: 18000, pac
 
 ## Overview
 
-Ha’ K’ukul, the "Water House of the Quetzal," stands at the critical junction where the highland rivers flowing from the mountain passes meet the larger river systems descending into the jungle lowlands. The city is the beating heart of trade and communication for the southern territories of [[place-kchchkcntnnt|K’ich’chik]], a cosmopolitan hub where merchants from [[affiliation-balamtzaku|Ba’alam Tza’ku]]’s highlands, jungle dwellers, and traders from distant [[affiliation-balamkul|Balamkul]] meet and negotiate. The riverside setting gives Ha’ K’ukul a unique character—constantly alive with the sound of water, the cries of boatmen, and the bustle of commercial enterprise.
+Ha’ K’ukul, the "Water House of the Quetzal," stands at the critical junction where the highland rivers flowing from the mountain passes meet the larger river systems descending into the jungle lowlands. The city is the beating heart of trade and communication for the southern territories of [[place-kchchkcntnnt|K’ich’chik]], a cosmopolitan hub where merchants from [[affiliation-balamtzaku|Ba’alam Tza’ku]]’s highlands, jungle dwellers, and traders from distant [[affiliation-balamkul|Ix'ilankul]] meet and negotiate. The riverside setting gives Ha’ K’ukul a unique character—constantly alive with the sound of water, the cries of boatmen, and the bustle of commercial enterprise.
 
 ## Location and Geography
 
