@@ -15,3 +15,8 @@ data:
 ---
 
 Gar-Medjatozo is the bureau district of [[place-galezkara|Galezkara]] — the treasuries, the [[affiliation-genzetpalu|Genzet'Palu]] council-hall, the great scribal schools, and the archives where the empire's paperwork lives. It exists because an empire this old generates more record than any single office can hold, and someone has to be able to find a given sheet again. A dispute anywhere in Aû'Khelâthu is eventually settled by whichever clerk here can produce the right document first.
+
+## See Also
+
+- [[place-galezkara|Galezkara]]—The imperial city
+- [[affiliation-genzetpalu|Genzet'Palu]]—The council of the nobles

@@ -15,3 +15,7 @@ data:
 ---
 
 Meqet-Garu is a small village within [[place-aukhelathrgq|Aû'Khelâthu Region]], unremarkable in every way the empire usually measures a settlement. It lives as any such village does, by whatever its own fields and trades provide, and would otherwise draw no notice at all. It is remembered chiefly for one night a celebrated performer played there and has spent every year since wishing the story would finally be allowed to end.
+
+## See Also
+
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The enclosing region

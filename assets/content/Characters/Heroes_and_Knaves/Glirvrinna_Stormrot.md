@@ -17,8 +17,8 @@ data:
   gender: female
   species: humanflk
   born: "688.120"
-  height: 1.7
-  weight: 64.9
+  height: 5' 7"
+  weight: 143 lbs
   frame: light
   appearance:
     eye_color: green
@@ -484,8 +484,8 @@ Master Craftsman Thorvald the Practical
 Draskselda the Copyist
 : A jealous rival artisan who specializes in producing close imitations of Glirvrinna's original designs at lower cost. Draskselda's plagiarism has cost Glirvrinna several clients, though legal action has proven difficult given the custom nature of textile work.
 
-Her Own Father
-: Vigram Stormrót, though retired and no longer a direct business threat, occasionally makes critical comments about Glirvrinna's prioritization of artistry over durability, implying she is abandoning family traditions.
+Her Father, Vigram Stormrót
+: Retired and no longer a direct business threat, Vigram occasionally makes critical comments about Glirvrinna's prioritization of artistry over durability, implying she is abandoning family traditions.
 
 ### Affiliations
 

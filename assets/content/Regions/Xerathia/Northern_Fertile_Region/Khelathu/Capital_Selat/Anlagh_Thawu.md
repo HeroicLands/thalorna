@@ -20,4 +20,5 @@ Anlagh-Thawu stands in the ring of farmland that feeds [[place-galezkara|Galezka
 
 ## See Also
 
-TBD.
+- [[place-galezkaraslt|Galezkara Selat]]—The selat country that holds it
+- [[place-galezkara|Galezkara]]—The imperial city

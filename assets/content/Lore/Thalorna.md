@@ -19,9 +19,11 @@ data:
 #     build:
 #       render: never
 #       list: never
+
+# terran_analog: Thalorna is patterned loosely after an alternate Earth; its continents and civilizations echo Terran geography and history.
 ---
 
-Thalorna is a diverse and ancient world, home to a rich tapestry of cultures, peoples, and lands. Patterned loosely after an alternate Earth, its continents and civilizations echo Terran geography and history while remaining wholly their own. From lush subtropical regions to vast deserts and icy wastes, each continent holds unique histories and societies shaped by millennia of human and otherworldly influence.
+Thalorna is a diverse and ancient world, home to a rich tapestry of cultures, peoples, and lands. From lush subtropical regions to vast deserts and icy wastes, each continent holds unique histories and societies shaped by millennia of human and otherworldly influence.
 
 For pantheon-to-region mapping, see [[lore-pnthnrgnlmp|Pantheon Regional Map]].
 

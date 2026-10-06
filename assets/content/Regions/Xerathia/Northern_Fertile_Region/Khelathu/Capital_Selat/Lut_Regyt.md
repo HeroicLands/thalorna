@@ -20,4 +20,5 @@ Lut-Regyt farms the country around [[place-galezkara|Galezkara]], within [[place
 
 ## See Also
 
-TBD.
+- [[place-galezkaraslt|Galezkara Selat]]—The selat country that holds it
+- [[place-galezkara|Galezkara]]—The imperial city

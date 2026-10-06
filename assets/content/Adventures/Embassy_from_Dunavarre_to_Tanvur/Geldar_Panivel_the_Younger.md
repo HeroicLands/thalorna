@@ -373,10 +373,6 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
-
-TBD
-
 # Dossier {#dossier}
 
 **Role.** Ensures the embassy is fed, and its morale with it.

@@ -18,8 +18,8 @@ data:
   gender: female
   species: humanflk
   born: 682.55
-  height: 1.83
-  weight: 73
+  height: 6'
+  weight: 161 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -492,8 +492,8 @@ Young Servant Amqelitefu
 The Competing Steward Akhoqu
 : Another highly competent household manager working for a rival noble family, with whom Githiya competed years ago. Akhoqu beat her for a prestigious position, and Githiya has never forgotten or forgiven.
 
-Her Own Resentment
-: In some ways, Master Lenti himself has become an enemy—not through malice, but through his casual assumption that her excellence is simply her nature, not something worthy of acknowledgment or reward.
+Master Lenti, Her Employer
+: Lenti has become an enemy in some ways—not through malice, but through his casual assumption that her excellence is simply her nature, not something worthy of acknowledgment or reward.
 
 ### Affiliations
 
