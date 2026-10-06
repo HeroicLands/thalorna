@@ -8,7 +8,7 @@ tags: []
 data: {packFolder: deitiesasguardian}
 ---
 
-_**The Despiser of Life**—obsidian shard and the **Eye of the Void**, spoken of nowhere she can overhear it praised._
+_**The Despiser of Life**—obsidian shard and the [[lore-ginnauga|Eye of the Void]], spoken of nowhere she can overhear it praised._
 
 Every Asguardian kingdom proscribes **Náhild**'s clergy, and the nine other faiths of the **Ten** agree on almost nothing about her except that the ban is deserved. What follows is her own Godi's account, given on the understanding that his hof's location stays with him and dies with him if it must. "She is said to hate life," he says, "and that much the other nine have right. What goes unsaid, because the pantheon's own doctrine will not permit it, is that her hatred is the honest half of a bargain the other faiths only pretend to have settled."
 

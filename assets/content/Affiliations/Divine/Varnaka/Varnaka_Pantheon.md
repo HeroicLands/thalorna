@@ -18,7 +18,7 @@ data:
       - level: 0
         title: Patita
         description: >-
-          "Fallen"—put out of Varnakan observance, and received again by no house and no sampradāya.
+          "Fallen"—put out of Varnakan observance, and marked by a brand on the face that every house and sampradāya recognizes. The sentence can be forgiven; the forgiven person carries proof of the forgiveness for life.
       - level: 1
         title: Upāsaka
         description: >-
