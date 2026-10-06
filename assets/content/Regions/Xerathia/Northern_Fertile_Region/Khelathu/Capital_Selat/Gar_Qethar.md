@@ -15,3 +15,7 @@ data:
 ---
 
 Gar-Qethar occupies the low, flood-prone ground of [[place-galezkara|Galezkara]], built dense and poor among and atop the ruins of older building. It lives on whatever labour the rest of the city needs done and will not do for itself. The ground floods often enough that nobody here builds anything they are not prepared to lose.
+
+## See Also
+
+- [[place-galezkara|Galezkara]]—The imperial city

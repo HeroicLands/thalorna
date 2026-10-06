@@ -24,4 +24,5 @@ The Zelgeru holds no single tract of ground: its estates lie wherever the empire
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The enclosing region
+- [[lore-garauu|Gar-Aûu]]—The line of divine sovereigns

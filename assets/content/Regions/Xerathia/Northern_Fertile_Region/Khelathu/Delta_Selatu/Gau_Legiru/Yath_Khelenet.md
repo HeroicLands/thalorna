@@ -20,4 +20,4 @@ Yath-Khelenet tends vines and olives in the garden country of [[place-gaulegirun
 
 ## See Also
 
-TBD.
+- [[place-gaulegirunome|Gau-Legiru]]—The selat country that holds it
