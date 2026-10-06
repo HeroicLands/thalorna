@@ -17,34 +17,34 @@ data:
 
 ## Overview
 
-Anlagh-Zetûn Selat is the land of the [[affiliation-selatnlghztn|Selat of Anlagh-Zetûn]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+"Stand on the dike at the height of the flood and try to find a field," a survey scribe tells a clerk on his first spring in the basin. "You cannot. The water has taken every boundary stone in the selat, and when it falls you and I will walk every line again, cord in hand, and enter each one as if it had never been in doubt."
 
-Anlagh-Zetûn is the great granary of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—the most productive agricultural selat in the empire and the fullest of its storehouses. Where the river-valley broadens into one of its widest flood-basins, the annual inundation lays down silt across leagues of wheatland, and the selat's deep granaries hold the surplus that feeds the capital, the army, and the delta ports in years of failure elsewhere. The selat's name, "the living storehouse," is no boast but a plain description: when men in the capital speak of where the empire's bread comes from, they mean Anlagh-Zetûn.
+**Anlagh-Zetûn Selat** is the land of the [[affiliation-selatnlghztn|Selat of Anlagh-Zetûn]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]]. It is the empire's great granary. The name means "the living storehouse," and it is a plain description rather than a boast: when anyone in the capital asks where the empire's bread comes from, the answer is this country. The river-valley broadens here into one of its widest flood-basins, the annual inundation lays silt across leagues of wheatland, and the deep granaries hold the surplus that feeds the capital, the army and the delta ports in years of failure elsewhere. Beyond the reach of the water the land is high desert and chaparral, and the line where the black soil stops is the selat's whole map.
 
 ## Character
 
-Anlagh-Zetûn is the heartland's heartland—broad, fertile, settled, and stubbornly traditional. Daily life follows the flood with unusual exactness, for here more than anywhere the surveyor's cord and the scribe's tally rule the year: the fields drowned, re-measured, planted, harvested, and rendered, season upon season, generation upon generation. It is not an exciting selat, and it would take that as a compliment.
+The survey scribe's year has five verbs, and Anlagh-Zetûn runs on them: the fields are drowned, re-measured, planted, harvested and rendered, season upon season and generation upon generation. Here more than anywhere the surveyor's cord and the scribe's tally rule the calendar. This is the heartland's heartland, broad, fertile, settled and stubbornly traditional. It is not an exciting selat, and it would take that as a compliment.
 
 ## Economy
 
-Grain is the whole foundation—wheat above all, with barley and millet—grown on flood-silt and on the irrigated margins drawn from the river. The surplus is the point: Anlagh-Zetûn produces far more than it eats, and the difference, stored in its great granaries and barged downriver, underwrites the imperial economy. Around the grain runs everything grain requires: the surveyors and tally-scribes who measure and assess it, the canal-and-dike gangs who manage the flood, the granary-keepers and the river-port that ships the harvest, and the cattle and flax of the basin margins. The river-town of [[place-amqelulegez|Amqelu-Legez]] is the selat's throat, where the grain-barges load. Wealth here is reckoned in granaries and field-rents, not in coin, and the Halzi'a's power is the power of the man who controls the bread.
+Grain is the whole foundation: wheat above all, then barley and millet, grown on flood-silt and on the irrigated margins drawn from the river. The surplus is the point. Anlagh-Zetûn grows far more than it eats, and the difference, stored in its granaries and barged downriver, underwrites the imperial economy. Around the grain stand the people it requires: the surveyors and tally-scribes who measure and assess it, the canal-and-dike gangs who manage the flood, the granary-keepers who hold it, and the river-port of [[place-amqelulegez|Amqelu-Legez]] that ships it, with cattle and flax on the basin margins. Wealth is reckoned in granaries and field-rents rather than in coin, and the Halzi'a's power is the power of the man who controls the bread.
 
 ## Notable Features
 
-- The great flood-basin wheatlands—the broadest and most productive in the empire
+- The flood-basin wheatlands, the broadest and most productive in the empire
 - The deep imperial and temple granaries that store the empire's reserve against famine
-- The river-port of [[place-amqelulegez|Amqelu-Legez]], where the grain-harvest is loaded for the capital
+- The river-port of [[place-amqelulegez|Amqelu-Legez]], where the harvest is loaded for the capital
 - The temple of [[lore-qearetdty|Qe'âret]] and the survey-and-assize courts that measure the land
-- The canal, dike, and basin-irrigation works that govern the flood
+- The canal, dike and basin-irrigation works that govern the flood
 
 ## Settlements
 
-- [[place-anlaghzetun|Anlagh-Zetûn]] (~80,000)—the selat capital; a substantial inland city of granaries, grain-markets, survey-courts, and the seat of the Halzi'a, set among the richest wheatland in the empire.
-- [[place-amqelulegez|Amqelu-Legez]] (~25,000)—the selat's river-port, a busy quayside town where the grain of the basin is gathered, measured, and loaded onto the barges that carry it down to the capital and the delta; the selat's window on the river-traffic and its busiest, most worldly place.
-- **The basin villages:** the dense farm-country holds scores of grain-villages, many of 500–3,000 people—among them [[place-garzekhemu2|Gar-Zekhemu]] (160), Lut-Mulu, Yath-Thawu, Zma-Relepet, and Gar-Anpuqa—each working its share of the flood-basin and rendering grain up the chain to the granaries and the Halzi'a.
+- [[place-anlaghzetun|Anlagh-Zetûn]] (~80,000)—the selat capital and seat of the Halzi'a: an inland city of granaries, grain-markets and survey-courts, set among the richest wheatland in the empire.
+- [[place-amqelulegez|Amqelu-Legez]] (~25,000)—the river-port, where the grain of the basin is gathered, measured and loaded onto the barges for the capital and the delta; the selat's window on the river traffic.
+- **The basin villages:** the dense farm-country holds scores of grain-villages, many of 500 to 3,000 people, each working its share of the flood-basin and rendering grain up the chain to the granaries and the Halzi'a. Among them are [[place-garzekhemu2|Gar-Zekhemu]] (160), [[place-lutmulu|Lut-Mulu]], [[place-yaththawu|Yath-Thawu]], [[place-zmarelepet|Zma-Relepet]] and [[place-garanpuqa|Gar-Anpuqa]].
 
 ## See Also
 
-- [[affiliation-selatnlghztn|The Selat of Anlagh-Zetûn]]—The selat that holds this land
-- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The enclosing region
-- [[place-anlaghzetun|Anlagh-Zetûn]]—Selat capital
+- [[affiliation-selatnlghztn|The Selat of Anlagh-Zetûn]]—the selat that holds this land
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—the enclosing region
+- [[place-anlaghzetun|Anlagh-Zetûn]]—selat capital

@@ -77,21 +77,23 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Iqeru is one of the upper-river selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: sun-temples and wide irrigated wheatland. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-uqaa|Faith of Uqa'â]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-iqeruselat|Iqeru Selat]].
+"Read the roll aloud," the senior scribe of the tax bureau in Iqeru tells a new hand, "and then tell me whose land each line stands on: the Halzi'a's, an estate's or the sun-temple's. Every line has an owner, and every owner has a share to render."
+
+The **Selat of Iqeru** is one of the upper-river selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], a selat of sun-temples and wide irrigated wheatland with about 440,000 people. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], who commands its levies, collects its taxes and dispenses its justice, and who answers to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-uqaa|Faith of Uqa'â]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-iqeruselat|Iqeru Selat]].
 
 ## Character
 
-Its seat is [[place-iqeru|Iqeru]], where the Halzi'a keeps his court and the selat's chief temple of Uqa'â stands.
+The seat is [[place-iqeru|Iqeru]], where the Halzi'a keeps his court and the chief temple of [[lore-uqaadty|Uqa'â]] stands. The temples of a solar god own land, and a selat of sun-temples and wheatland is one where the Halzi'a's tax rolls and the temples' estates run side by side. The priesthood of Uqa'â is among the most powerful in the empire, and the high priest of the solar god has deposed or raised more Gar-Aûu than any army.
 
 ## Commerce and Currency
 
-Iqeru uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], with the local chapter of [[affiliation-garhalzi|Gár-Hálzi]] attached to its chief temple attesting the weight-pieces and holding the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+Iqeru uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]]. The local chapter of [[affiliation-garhalzi|Gár-Hálzi]], attached to the chief temple, attests the weight-pieces and holds the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
 
 ## See Also
 
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—Imperial overview
-- [[place-iqeru|Iqeru]]—Selat capital
-- [[affiliation-uqaa|Faith of Uqa'â]]—Patron cult
-- [[affiliation-garhalzi|Gár-Hálzi]]—Temple-treasuries
-- [[place-iqeruselat|Iqeru Selat]]—The land the selat holds
+- [[affiliation-upperrivrslt|The Upper River Selatu]]—parent selat class
+- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—imperial overview
+- [[place-iqeru|Iqeru]]—selat capital
+- [[affiliation-uqaa|Faith of Uqa'â]]—patron cult
+- [[affiliation-garhalzi|Gár-Hálzi]]—temple-treasuries
+- [[place-iqeruselat|Iqeru Selat]]—the land the selat holds
