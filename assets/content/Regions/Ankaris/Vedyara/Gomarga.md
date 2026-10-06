@@ -114,7 +114,7 @@ Orthodox opinion in the river kingdoms finds the arrangement improper. Plateau u
 
 Gomārga sells into the river valleys and the coast and buys grain, cloth and iron back. The [[affiliation-mrchntclctvvdyr|Merchant Collective]] has wanted a factor at the winter wells for a century and has not been given one: the crown's revenue is counted in stock and in watering dues, neither of which a letter of credit values well, and a Collective factor who could lend against a herd would be lending against the kingdom's only security. The Collective's houses buy plateau cattle at the edge of the plateau instead, from brokers who are usually the crown's own envoys.
 
-The [[affiliation-janpdsvdyr|Mahā-Sangha]]'s roll carries the few plateau janapadas and not the kingdom, which is ordinary; a rājya is not a janapada. What is not ordinary is that Gomārga sends nobody to the **Mela** at all in most cycles. The assembly meets on the [[place-mahanadi|Mahānadi]] in the season the herds move, and the crown is on its circuit.
+The [[affiliation-janpdsvdyr|Mahā-Sangha]]'s roll carries the few plateau janapadas and not the kingdom, which is ordinary; a rājya is not a janapada. What is not ordinary is that Gomārga sends nobody to the **Mela** at all in most cycles. The assembly meets on the [[place-mahanadi|Mahānadī]] in the season the herds move, and the crown is on its circuit.
 
 ## Commerce and Currency
 
@@ -124,6 +124,6 @@ Gomārga uses the [[lore-vdyrnbnkng|Vedyaran banking system]], administered thro
 
 - [[place-vandhyabhumi|Vandhyabhūmi]]—the plateau the kingdom holds
 - [[place-vedyarargn|Vedyara Region]]—parent region
-- [[lore-mdhvndrcnt|The Mādhavendra Count]]—the year-count dated from the ruined capital on the plateau
+- [[lore-mdhvndrcnt|The Madhusthāna Count]]—the year-count dated from the ruined capital on the plateau
 - [[affiliation-varakpnthn|Varnaka Pantheon]]—religious tradition
 - [[skill-vedyarlng|Vedyari]]—language and naming conventions

@@ -3,14 +3,14 @@ shortcode: drownedcptl
 name: {full: The Drowned Capital, aliases: []}
 type: place
 subType: site
-description: "The river-capital the Mahānadi took when it changed its channel—masonry the fishermen of the reach still foul their nets on, six hundred years under water."
+description: "The river-capital the Mahānadī took when it changed its channel—masonry the fishermen of the reach still foul their nets on, six hundred years under water."
 tags: [ruin, river, inland]
 data: {demonym: null, lore: [], parents: [rajapurjnpd], population: null, packFolder: vedyara}
 ---
 
-The **Drowned Capital** lies under the [[place-mahanadi|Mahānadi]] in the reach below [[place-rajapur|Rājapur]]. It was a royal seat of the [[lore-mhndkngdm|Kingdom of Mahānadi]], and the river took it when the channel moved.
+The **Drowned Capital** lies under the [[place-mahanadi|Mahānadī]] in the reach below [[place-rajapur|Rājapur]]. It was a royal seat of the [[lore-mhndkngdm|Kingdom of Mahānadī]], and the river took it when the channel moved.
 
-The Mahānadi has changed its course four times within written record, each time by miles, and each time it has left towns standing on dry ground and drowned others that were nowhere near it the year before. This is the one everybody names. The fishermen of the reach still foul their nets on masonry that has not been above water in six hundred years.
+The Mahānadī has changed its course four times within written record, each time by miles, and each time it has left towns standing on dry ground and drowned others that were nowhere near it the year before. This is the one everybody names. The fishermen of the reach still foul their nets on masonry that has not been above water in six hundred years.
 
 ## What Is Known of It
 
@@ -24,6 +24,6 @@ The move that took it came a long time after the dissolution, so the town the ri
 
 ## See Also
 
-- [[place-mahanadi|The Mahānadi]]—the river that moved
+- [[place-mahanadi|The Mahānadī]]—the river that moved
 - [[lore-drwnngseat|The Drowning of the Royal Seat]]—the move, dated
 - [[place-rajapur|Rājapur]] · [[place-rajapurjnpd|Rājapur Janapada]]

@@ -100,6 +100,6 @@ What the vow fears is not a court. It is the gap between the conch and the pyre:
 ### See Also
 
 - [[affiliation-svapnasarisamaja|Svapnasāri-samāja]]—the assembly the vow lapsed from
-- [[affiliation-svapnadevas|Svapnadēvas]]—the Dreaming Host, whose reach the vow turns outward
+- [[affiliation-svapnadevas|Svapnadevas]]—the Dreaming Host, whose reach the vow turns outward
 - [[affiliation-thresholdkeepers|The Threshold-keepers]]—the one question a line cannot misdirect
-- [[affiliation-trimurtisampradaya|Council of the Triyācāryas]]—which holds an unlicensed working in a god's name to be Patita
+- [[affiliation-trimurtisampradaya|Council of the Triyāchāryas]]—which holds an unlicensed working in a god's name to be Patita

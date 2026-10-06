@@ -20,11 +20,11 @@ The copying has consequences nobody planned. The valley speaks a regional dialec
 
 ## The Water
 
-The Sarvada is the gentlest of the four. It rises slowly, spreads where the others cut, and leaves silt instead of taking fields. The villages sit on the flood-plain itself and not back from it, which is a thing no one does on the [[place-mahanadi|Mahānadi]] and lives.
+The Sarvada is the gentlest of the four. It rises slowly, spreads where the others cut, and leaves silt instead of taking fields. The villages sit on the flood-plain itself and not back from it, which is a thing no one does on the [[place-mahanadi|Mahānadī]] and lives.
 
 Boats work it for nine hundred miles. Its river trade is small craft and short hops, where the other three carry long haulage.
 
 ## See Also
 
 - [[place-sarvaprbhv|Sarvaprabhava]] · [[place-sthrnwall|The Southern Wall]] · [[place-vedyarargn|Vedyara Region]]
-- [[place-chandrmahi|The Chandramahī]] · [[place-mahanadi|The Mahānadi]] · [[place-bharavarivr|The Bhārava]]
+- [[place-chandrmahi|The Chandramahī]] · [[place-mahanadi|The Mahānadī]] · [[place-bharavarivr|The Bhārava]]

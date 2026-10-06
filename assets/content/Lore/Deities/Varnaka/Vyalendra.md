@@ -14,7 +14,7 @@ _[[affiliation-vyalendra|The Shaper of Worlds]]—a four-armed figure of serene 
 
 Vedyari theology holds that every founded city, every raised temple, every bridge and irrigation channel repeats the original act of cosmic shaping in miniature. To build well is to serve him. To build poorly is to mar the pattern the world was made from.
 
-[[affiliation-vyalendravada|Vyālendravāda]] carries the doctrine furthest and holds him the one deity from whom all the others emanate. The [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]] reads him as one face of a triad with [[affiliation-mahajaya|Mahájaya]] and [[affiliation-rasikara|Rásikara]]. Both agree that no city stands without his shaping and no builder works without invoking him.
+[[affiliation-vyalendravada|Vyālendravāda]] carries the doctrine furthest and holds him the one deity from whom all the others emanate. The [[affiliation-trimurtisampradaya|Triyanga-sampradāya]] reads him as one face of a triad with [[affiliation-mahajaya|Mahājaya]] and [[affiliation-rasikara|Rāsikara]]. Both agree that no city stands without his shaping and no builder works without invoking him.
 
 A golden lotus medallion is worn by master craftsmen and senior clergy as a mark of vocation. A knotted measuring cord consecrates the foundation of every major work. A carved foundation-stone incised with his invocation is the first stone laid in any building of consequence, and a household founding its own home buries a smaller one beneath the first pillar.
 
@@ -24,4 +24,4 @@ Artisans bless the tools of their trade each morning. Before a new commission th
 
 The villages downstream keep a pilgrimage to it for those hoping for a child. The god of foundations is the god of beginnings of every kind.
 
-On the [[place-mahanadi|Mahānadi]] plain, [[place-rajapur|Rājapur]] keeps its own great Vyālendra temple at the janapada's center, beside the old royal palace. Its altar is a sandstone block cut when the dynastic capital was founded, and its **Spring Festival** is the year's great pilgrimage draw.
+On the [[place-mahanadi|Mahānadī]] plain, [[place-rajapur|Rājapur]] keeps its own great Vyālendra temple at the janapada's center, beside the old royal palace. Its altar is a sandstone block cut when the dynastic capital was founded, and its **Spring Festival** is the year's great pilgrimage draw.

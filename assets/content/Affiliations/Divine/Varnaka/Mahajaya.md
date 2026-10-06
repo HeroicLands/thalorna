@@ -1,6 +1,6 @@
 ---
 shortcode: mahajaya
-name: {full: Mahájaya, aliases: [The Eternal Preserver]}
+name: {full: Mahājaya, aliases: [The Eternal Preserver]}
 type: affiliation
 subType: faithtradition
 description: "Religion of the goddess of preservation, order, harmony and abundance."
@@ -45,20 +45,20 @@ data:
 sohl: {system: {commonSkills: [mahajaya, sohl-sohl-skill-agri, sohl-sohl-skill-mrcn]}}
 ---
 
-## Mahájaya—The Eternal Preserver
+## Mahājaya—The Eternal Preserver
 
 - **Domain:** Order, prosperity, harvest, trade, the cycles of growth and abundance
 - **Symbol:** A balanced scale encircled by wheat
 - **Pronunciation:** _MAH-ha-jah-yah_
 - **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
-"Weigh it again," the priest of a village shrine tells the farmhand who has just poured the first sack of the harvest into the shrine's brass scale and taken the number on trust. "She is not watching the grain. She is watching you." The farmhand weighs it again. This is the cult of [[lore-mahajayadty|Mahájaya]] in small: preservation, harmony and abundance, kept by people who measure fairly and say so aloud.
+"Weigh it again," the priest of a village shrine tells the farmhand who has just poured the first sack of the harvest into the shrine's brass scale and taken the number on trust. "She is not watching the grain. She is watching you." The farmhand weighs it again. This is the cult of [[lore-mahajayadty|Mahājaya]] in small: preservation, harmony and abundance, kept by people who measure fairly and say so aloud.
 
-Mahájaya is most visible in the countryside of [[place-vedyarargn|Vedyara Region]], where village shrines anchor the agricultural calendar and the communal storehouses. In the great cities she is the patron of merchants, of bankers, and of the civic officers who answer for granaries, water rights and the conduct of trade. She is invoked at sowing and harvest, at the weighing of grain, at the sealing of contracts, and at every exchange that holds a society's order together. At [[affiliation-vyalendra2|Vyālendra]] the sanctuary of Mahájaya is first among the temples beside the weaving halls, because honest measure touches every bolt of cloth.
+Mahājaya is most visible in the countryside of [[place-vedyarargn|Vedyara Region]], where village shrines anchor the agricultural calendar and the communal storehouses. In the great cities she is the patron of merchants, of bankers, and of the civic officers who answer for granaries, water rights and the conduct of trade. She is invoked at sowing and harvest, at the weighing of grain, at the sealing of contracts, and at every exchange that holds a society's order together. At [[affiliation-vyalendra2|Vyālendra]] the sanctuary of Mahājaya is first among the temples beside the weaving halls, because honest measure touches every bolt of cloth.
 
 ### How the Inland Janapadas Read Her
 
-Some of her temples govern. At [[affiliation-dhnrktjnpd|Dhanurkota]] her temple hall is where the janapada meets, and its senior priest convenes the sabhā. At [[affiliation-suvrgrjnpd|Suvarnagiri]] three great temples of equal size ring the gold-bearing mountain, so that no one priesthood can claim its gold. The Suvarnagiri tradition reads her as the balancer, the force that holds the cosmic order steady against [[affiliation-rasikara|Rásikara]]'s chaos and against [[affiliation-vyalendra|Vyālendra]]'s unchecked making, and it reads its **Gold Constitution** as that balance kept in the world.
+Some of her temples govern. At [[affiliation-dhnrktjnpd|Dhanurkota]] her temple hall is where the janapada meets, and its senior priest convenes the sabhā. At [[affiliation-suvrgrjnpd|Suvarnagiri]] three great temples of equal size ring the gold-bearing mountain, so that no one priesthood can claim its gold. The Suvarnagiri tradition reads her as the balancer, the force that holds the cosmic order steady against [[affiliation-rasikara|Rāsikara]]'s chaos and against [[affiliation-vyalendra|Vyālendra]]'s unchecked making, and it reads its **Gold Constitution** as that balance kept in the world.
 
 ### What You See at Her Shrines
 
@@ -78,5 +78,5 @@ A small brass scale sits on the household shrine beside the sheaf of the current
 ### See Also
 
 - [[affiliation-varakpnthn|Varnaka Pantheon]]
-- [[lore-mahajayadty|Mahájaya]]—the goddess, and the theology of preservation
-- [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]]—the orthodox tri-form tradition, which venerates Mahájaya as preserver alongside Vyālendra and Rásikara
+- [[lore-mahajayadty|Mahājaya]]—the goddess, and the theology of preservation
+- [[affiliation-trimurtisampradaya|Triyanga-sampradāya]]—the orthodox tri-form tradition, which venerates Mahājaya as preserver alongside Vyālendra and Rāsikara

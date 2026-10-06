@@ -20,7 +20,7 @@ data:
 
 # Dossier {#dossier}
 
-**Role.** Royal Loremaster of Élavendre and leader of the Panepistemium. At the party given in Sir Aran's honor at [[place-beravel|Béravel]] she proposes sending a party into the [[lore-aralwen|Arálwen]] to retrieve the [[miscgear-heartofdhirikri|Heart of Dhiríkri]], and the ambassador offers members of his mission.
+**Role.** Royal Loremaster of Élavendre and leader of the Panepistemium. At the party given in Aran's honor at [[place-beravel|Béravel]] she proposes sending a party into the [[lore-aralwen|Arálwen]] to retrieve the [[miscgear-heartofdhirikri|Heart of Dhiríkri]], and the ambassador offers members of his mission.
 
 **Background.** A Mistress of the [[affiliation-ordoarcanis|Ordo Arcanis]] and a wealthy commoner of Béravel. She holds a recently discovered ancient scroll that places the Heart in Úqua-Arálwen; the scroll is in poor condition and much of it cannot be read, but it implies that music or sound has something to do with the artifact.
 

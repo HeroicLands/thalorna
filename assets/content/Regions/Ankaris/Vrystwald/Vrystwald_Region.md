@@ -20,7 +20,7 @@ data:
     - {to: vandstein, bearing: SE, mode: land, days: 90, terrain: [forest, mountains]}
   packFolder: vrystwald
 
-# terran_analog: "A forest-and-river frontier between the northwestern kingdoms and the eastern grain belt."
+# terran_analog: "A forest-and-river frontier between the northwestern kingdoms and the eastern grain belt. The Visigoths."
 ---
 
 ## Overview

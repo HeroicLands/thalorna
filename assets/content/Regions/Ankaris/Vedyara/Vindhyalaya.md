@@ -1,13 +1,13 @@
 ---
 shortcode: vindhyalay
-name: {full: Vindhyālaya, aliases: []}
+name: {full: Shikharālaya, aliases: []}
 type: affiliation
 subType: polity
 description: Highland kingdom of the northern Vedyari passes—austere, martial, and jealous of the caravan routes that carry Vedyara over the wall to the steppe and the east.
 tags: []
 data:
   templatePriority: null
-  demonym: Vindhyan
+  demonym: Shikharālayan
   epithet: null
   symbol: null
   governance:
@@ -80,29 +80,31 @@ data:
     bhumipala: aligned
   packFolder: vedyara
 sohl: {system: {commonSkills: [vedyarlng]}}
+
+# terran_analog: the Vindhya range of central India and its hill kingdoms; the name keeps clear of Vindhya and is built from shikhara, a peak, and ālaya, an abode
 ---
 
 ## Overview
 
-**Vindhyālaya** ("the abode of the Vindhya") holds the door in [[place-vedyarargn|Vedyara]]'s northern wall, and what it sells at that door is time. It is the principal kingdom of the northern highlands of [[place-vedyarargn|Vedyara]] and commands the great passes that carry the subcontinent's trade over the [[place-graznmntns|Grazian]] wall. Beyond the throat of the greatest of them the road forks: north to the southern edge-towns of the [[place-khzryndsrtrgn|Khazryn]] and the **Celestial Road** beyond, and northeast by the longer branch to the western frontier of [[place-tanvuregin|Tānvür]]. Its wealth is the wealth of the toll-road and the customs-house, and its politics are the politics of the march. The kingdom holds the land of [[place-vindhyalayaland|Vindhyālaya]], eight million people, and is seated at [[place-suryagarha|Sūryāgarha]], the fortress-capital built across the throat of [[place-suryadvara|Sūryadvāra]].
+**Shikharālaya** ("the abode of the peaks") holds the door in [[place-vedyarargn|Vedyara]]'s northern wall, and what it sells at that door is time. It is the principal kingdom of the northern highlands of [[place-vedyarargn|Vedyara]] and commands the great passes that carry the subcontinent's trade over the [[place-graznmntns|Grazian]] wall. Beyond the throat of the greatest of them the road forks: north to the southern edge-towns of the [[place-khzryndsrtrgn|Khazryn]] and the **Celestial Road** beyond, and northeast by the longer branch to the western frontier of [[place-tanvuregin|Tānvür]]. Its wealth is the wealth of the toll-road and the customs-house, and its politics are the politics of the march. The kingdom holds the land of [[place-vindhyalayaland|Shikharālaya]], eight million people, and is seated at [[place-suryagarha|Sūryagarha]], the fortress-capital built across the throat of [[place-suryadvara|Sūryadvāra]].
 
-A clerk at the Sūryāgarha customs-house, writing out a pass-token for a caravan master new to the road, explains the trade in a sentence. "The token costs you almost nothing. The date I write on it is what you are paying for, and you will pay for it whether or not you put a coin on this counter."
+A clerk at the Sūryagarha customs-house, writing out a pass-token for a caravan master new to the road, explains the trade in a sentence. "The token costs you almost nothing. The date I write on it is what you are paying for, and you will pay for it whether or not you put a coin on this counter."
 
 ## Character
 
-Vindhyan culture is austere by Vedyari standards. The kingdom sits at the edge of settled country, and the highland has made a people quieter, harder and more martial than their southern cousins. The **Senāja** households are unusually numerous and unusually respected. In the southern kingdoms the warrior nobility yields precedence to the **Ritūja** in nearly every social setting; in Vindhyālaya the two stations share rank, and a clan-chieftain who has held a pass against a winter raid is received at court with the honor due a senior ushtaka of the temples.
+Shikharālayan culture is austere by Vedyari standards. The kingdom sits at the edge of settled country, and the highland has made a people quieter, harder and more martial than their southern cousins. The **Senāja** households are unusually numerous and unusually respected. In the southern kingdoms the warrior nobility yields precedence to the **Ritūja** in nearly every social setting; in Shikharālaya the two stations share rank, and a clan-chieftain who has held a pass against a winter raid is received at court with the honor due a senior ushtaka of the temples.
 
-Hospitality is the first thing a traveler should know about. A traveler who reaches a Vindhyan village before sundown is owed food, a fire and a safe night under the clan's roof-tree, and the obligation holds even between feuding clans. A family that turns a traveler away is still remembered for it three generations later.
+Hospitality is the first thing a traveler should know about. A traveler who reaches a Shikharālayan village before sundown is owed food, a fire and a safe night under the clan's roof-tree, and the obligation holds even between feuding clans. A family that turns a traveler away is still remembered for it three generations later.
 
-The order of stations holds here and sits differently. In the highlands the distance between a clan-chieftain and a cultivator is smaller than on the plains, and station fixes less of a person's daily life than it does in [[affiliation-vyalendra2|Vyālendra]] or [[affiliation-chandrapur|Chandrapur]]. Vindhyan ushtakas are respected and are expected to be useful. An ornamental priest is faintly ridiculous.
+The order of stations holds here and sits differently. In the highlands the distance between a clan-chieftain and a cultivator is smaller than on the plains, and station fixes less of a person's daily life than it does in [[affiliation-vyalendra2|Vyālendra]] or [[affiliation-chandrapur|Chandrapur]]. Shikharālayan ushtakas are respected and are expected to be useful. An ornamental priest is faintly ridiculous.
 
 ## Government
 
-The Mahārāja rules from Sūryāgarha, a stone citadel across the throat of the greatest of the northern passes. The crown's direct power reaches the pass-roads, the customs-houses and the terrace road down to the lowland market towns, and little further. Hereditary clan-chieftains govern the highlands proper as **Sāmantas**, and their loyalty is real and negotiated. Each keeps a warband sized to his clan's standing and must provide it, on demand, for the defense of the passes or for a royal campaign.
+The Mahārāja rules from Sūryagarha, a stone citadel across the throat of the greatest of the northern passes. The crown's direct power reaches the pass-roads, the customs-houses and the terrace road down to the lowland market towns, and little further. Hereditary clan-chieftains govern the highlands proper as **Sāmantas**, and their loyalty is real and negotiated. Each keeps a warband sized to his clan's standing and must provide it, on demand, for the defense of the passes or for a royal campaign.
 
 Two councils advise the crown:
 
-- **The Martial Council** of senior chieftains advises on war, frontier defense and disputes between clans. It meets in the larger hall at Sūryāgarha, on benches set by clan seniority.
+- **The Martial Council** of senior chieftains advises on war, frontier defense and disputes between clans. It meets in the larger hall at Sūryagarha, on benches set by clan seniority.
 - **The Priestly Court** of ushtakas, drawn from the largest temple-complexes, advises on ritual, succession and the law. It meets in the smaller hall, forty paces away.
 
 When the two councils agree, the Mahārāja rules. When they disagree, the reign becomes interesting.
@@ -115,38 +117,38 @@ The rest of the crown's household is the ordinary one of a Vedyari kingdom: the 
 
 ## Above the Shrines
 
-The crown does not govern above the last [[place-pssshrines|Pass-Shrine]]. The cols belong to the [[affiliation-osketguides|Ösket]] and, on the eastern crossings, to the [[affiliation-hvarnguides|Hvarn]]. The guide-lineages hold their roads by descent, take roughly half the value of everything that crosses, and answer to no Vindhyan warden on a question of weather. The clan-wardens of Sūryadvāra hold the warden-right by inheritance and answer to the Mahārāja in theory. In practice a warden who overrules a guide-mother does it exactly once.
+The crown does not govern above the last [[place-pssshrines|Pass-Shrine]]. The cols belong to the [[affiliation-osketguides|Ösket]] and, on the eastern crossings, to the [[affiliation-hvarnguides|Hvarn]]. The guide-lineages hold their roads by descent, take roughly half the value of everything that crosses, and answer to no Shikharālayan warden on a question of weather. The clan-wardens of Sūryadvāra hold the warden-right by inheritance and answer to the Mahārāja in theory. In practice a warden who overrules a guide-mother does it exactly once.
 
 The shrines keep their own crossing-register at the summit, and it does not always agree with the customs-house's tally. A clerk whose ledger has been set beside a shrine's register and found short does not get a second posting.
 
 ## Economy
 
-Vindhyālaya taxes every bale on entry and again on exit. The customs revenue keeps the royal coffers full and the peasantry unsqueezed, and the southern kingdoms regard that stability with envy and with suspicion.
+Shikharālaya taxes every bale on entry and again on exit. The customs revenue keeps the royal coffers full and the peasantry unsqueezed, and the southern kingdoms regard that stability with envy and with suspicion.
 
-What the customs-house at Sūryāgarha actually sells is the season. The pass is open for weeks and shut for months, everything that crosses in a year crosses in the same few weeks, and the token a caravan needs is cheap while the date written on it is at the crown's discretion. Early in the season is a profit and late in the season is a year's wait, and the kingdom's revenue is smaller than the value of that decision.
+What the customs-house at Sūryagarha actually sells is the season. The pass is open for weeks and shut for months, everything that crosses in a year crosses in the same few weeks, and the token a caravan needs is cheap while the date written on it is at the crown's discretion. Early in the season is a profit and late in the season is a year's wait, and the kingdom's revenue is smaller than the value of that decision.
 
 The rock is another matter. Silver and lapis out of [[place-slvrgorges|the Silver Gorges]] go out under leases the hereditary smithing clans make directly with [[affiliation-mrchntclctvvdyr|the Merchant Collective]], on prerogatives the clans hold to be older than the royal charter. The crown's position is that the ore is the crown's and the arrangement a courtesy; the clans' position is that the crown was given the road on the understanding that the rock on either side of it was not part of the gift. Neither position has been tested, because a test would cost whichever side lost more than the quarrel is worth. So the crown collects on the road and not on the rock, and has for four generations.
 
 ## Relations
 
-To the south, Vindhyālaya's dealings with the river-valley kingdoms are long-standing and mostly cordial. Trade bonds are strong, marriages between Vindhyan princesses and southern courts are a regular feature of Vedyari diplomacy, and southern merchants treat the kingdom as an indispensable partner. Border friction flares from time to time over grazing rights and customs rates, and outright war is rare.
+To the south, Shikharālaya's dealings with the river-valley kingdoms are long-standing and mostly cordial. Trade bonds are strong, marriages between Shikharālayan princesses and southern courts are a regular feature of Vedyari diplomacy, and southern merchants treat the kingdom as an indispensable partner. Border friction flares from time to time over grazing rights and customs rates, and outright war is rare.
 
-To the north, beyond the wall, lie the southern edge-towns of the Khazryn and the confederations that hold them. Neither the [[affiliation-khzrncnfdrtn|Khazryn Confederation]] nor the [[affiliation-tribestrzd|Ātárzád]] can reach Vindhyālaya in force, and no horde has ever forced a Grazian pass; the one armed force to come over the wall came by the conch-door, which the kingdom does not hold. The relationship is commercial, conducted through the edge-town markets and renegotiated season by season as tolls, escort fees and the quality of the year's horses require. The kingdom keeps no garrison beyond the summits and none stands against it.
+To the north, beyond the wall, lie the southern edge-towns of the Khazryn and the confederations that hold them. Neither the [[affiliation-khzrncnfdrtn|Khazryn Confederation]] nor the [[affiliation-tribestrzd|Ātárzád]] can reach Shikharālaya in force, and no horde has ever forced a Grazian pass; the one armed force to come over the wall came by the conch-door, which the kingdom does not hold. The relationship is commercial, conducted through the edge-town markets and renegotiated season by season as tolls, escort fees and the quality of the year's horses require. The kingdom keeps no garrison beyond the summits and none stands against it.
 
-To the **northeast**, by the eastern branch of the pass-roads, lie the western marches of [[affiliation-tanvurempr|Tānvür]]. The branch is longer, higher and lightly traveled. Tānvüri scholarly envoys appear at the Vindhyan court every few decades, and a Tānvüri community has lived in Sūryāgarha for centuries.
+To the **northeast**, by the eastern branch of the pass-roads, lie the western marches of [[affiliation-tanvurempr|Tānvür]]. The branch is longer, higher and lightly traveled. Tānvüri scholarly envoys appear at the Shikharālayan court every few decades, and a Tānvüri community has lived in Sūryagarha for centuries.
 
-To the east, along [[place-estrnreach|the Eastern Reach]], the kingdom holds that the whole northern frontier is its own to watch. The [[affiliation-janpdsvdyr|Janapadas of Vedyara]] keep a garrison on the col of the conch-door, [[place-sanghafort|the Sangha-fort]], raised four centuries ago when [[lore-conchdoor|an adventurer with Tānvüri backing]] came through into the eastern janapadas, and Vindhyālaya reads it as ground held by a body with no business holding any. The kingdom raises this at every gathering and has never done more than raise it, which suits both sides: the temple-republics are not going to surrender a precedent, and the crown would be seriously embarrassed to be handed sixty men and a supply line through country it does not control.
+To the east, along [[place-estrnreach|the Eastern Reach]], the kingdom holds that the whole northern frontier is its own to watch. The [[affiliation-janpdsvdyr|Janapadas of Vedyara]] keep a garrison on the col of the conch-door, [[place-sanghafort|the Sangha-fort]], raised four centuries ago when [[lore-conchdoor|an adventurer with Tānvüri backing]] came through into the eastern janapadas, and Shikharālaya reads it as ground held by a body with no business holding any. The kingdom raises this at every gathering and has never done more than raise it, which suits both sides: the temple-republics are not going to surrender a precedent, and the crown would be seriously embarrassed to be handed sixty men and a supply line through country it does not control.
 
-The kingdom has no frontier with [[place-dunharargn|Dunhara]] at all. The desert lies west of where the wall runs out, and the road to it belongs to [[affiliation-bhumipala|Bhūmipāla]]. The two kingdoms hold the north between them without sharing a border; Vindhyan steel goes down to the march companies and march horses come up to the pass-roads.
+The kingdom has no frontier with [[place-dunharargn|Dunhara]] at all. The desert lies west of where the wall runs out, and the road to it belongs to [[affiliation-bhumipala|Bhūmipāla]]. The two kingdoms hold the north between them without sharing a border; Shikharālayan steel goes down to the march companies and march horses come up to the pass-roads.
 
 ## Commerce and Currency
 
-Vindhyālaya holds a seat in the [[affiliation-assmblycmpct|Assembly of the Compact]] through its capital, and strikes its own copper [[miscgear-tamra|tāmra]]. North of Sūryadvāra, Vedyaran coin is weighed and not counted, so a caravan that settles beyond the wall settles by the metal in it. The present **High Speaker** of the [[affiliation-mrchntclctvvdyr|Merchant Collective]] is a Sūryāgarha silver merchant. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
+Shikharālaya holds a seat in the [[affiliation-assmblycmpct|Assembly of the Compact]] through its capital, and strikes its own copper [[miscgear-tamra|tāmra]]. North of Sūryadvāra, Vedyaran coin is weighed and not counted, so a caravan that settles beyond the wall settles by the metal in it. The present **High Speaker** of the [[affiliation-mrchntclctvvdyr|Merchant Collective]] is a Sūryagarha silver merchant. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
 
 ## See Also
 
-- [[place-vindhyalayaland|Vindhyālaya]]—the land the kingdom holds
-- [[place-suryagarha|Sūryāgarha]]—the fortress-capital and its customs-house
+- [[place-vindhyalayaland|Shikharālaya]]—the land the kingdom holds
+- [[place-suryagarha|Sūryagarha]]—the fortress-capital and its customs-house
 - [[place-suryadvara|Sūryadvāra]]—the pass the capital stands across
 - [[place-graznmntns|The Grazian Mountains]]—the wall the kingdom's passes cross
 - [[affiliation-osketguides|The Ösket]] and [[affiliation-hvarnguides|the Hvarn]]—the guide-peoples above the shrines

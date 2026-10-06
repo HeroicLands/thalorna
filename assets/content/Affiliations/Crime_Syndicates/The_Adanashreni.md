@@ -26,13 +26,13 @@ data:
       - level: 2
         title: Antevāsin
         description: >-
-          One who dwells near. Apprenticed to a craft-line by birth, and not permitted to take anything unsupervised until the Ácārya presents them to the Sabhā.
+          One who dwells near. Apprenticed to a craft-line by birth, and not permitted to take anything unsupervised until the Āchārya presents them to the Sabhā.
       - level: 3
         title: Ādānika
         description: >-
           A taker in their own right, entered in the guild register, bound by the taboos and entitled to the guild's advocate before a crown's or a council's magistrate.
       - level: 4
-        title: Ácārya
+        title: Āchārya
         description: >-
           Master of a craft-line, who teaches it, vouches for its members and answers to the Sabhā for every taking they perform.
       - level: 5
@@ -81,7 +81,7 @@ The guild has a theology, which it takes seriously and most priests do not. _**�
 
 Nothing, the guild teaches, is owned. Wealth is held for a term, as a body is held for a term, and karma sets the term and not the holder. Everything in a strongbox is already in transit, and the guild is the hand it passes through. In this reading the taker performs a service. He takes on the karmic weight of the taking, and the owner is relieved of an attachment he would otherwise have carried into the next life.
 
-The [[affiliation-trimurtisampradaya|Trimūrti]] tradition condemns this as self-serving nonsense of the most transparent kind, and says so at length. The clergy of [[affiliation-vyahrati|Vyāhrati]] (Decay) are markedly less hostile, since dispossession and dissolution are their doctrine too, and a few of their temples accept guild endowments. Every taker makes an offering to [[affiliation-pavanajitras|Pavanajitras]] before going out on the roads, which means that the guild and the caravan it is about to rob have prayed to the same god that morning.
+The [[affiliation-trimurtisampradaya|Triyanga]] tradition condemns this as self-serving nonsense of the most transparent kind, and says so at length. The clergy of [[affiliation-vyahrati|Vyāhrati]] (Decay) are markedly less hostile, since dispossession and dissolution are their doctrine too, and a few of their temples accept guild endowments. Every taker makes an offering to [[affiliation-pavanajitras|Pavanajitras]] before going out on the roads, which means that the guild and the caravan it is about to rob have prayed to the same god that morning.
 
 ## Structure
 

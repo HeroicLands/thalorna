@@ -59,7 +59,7 @@ Beyond the gold the land grows the standard Vedyari upland mix: millet at [[plac
 
 Its smiths are better than the country around them. The iron-smelting at [[place-tamravana|Tāmravana]], fed by what the gold has taught, is some of the best in inland Vedyara, and the jewelers' quarter at **Lower Suvarnagiri** works the local gold with gemstones imported from [[affiliation-chandrapur|Chandrapur]]. Its reputation across the continent is second only to Chandrapur's own.
 
-The janapada sells gold, iron and ironwork, fine jewelry, mountain produce, and the considerable manuscripts of the Suvarnagiri Mahájaya tradition. About half the year's gold is sold or traded into the wider Vedyari economy, and that is the cash the common-share expenditures are met from. It buys textiles, books, gemstones, salt, and the luxuries its households can afford within the cap.
+The janapada sells gold, iron and ironwork, fine jewelry, mountain produce, and the considerable manuscripts of the Suvarnagiri Mahājaya tradition. About half the year's gold is sold or traded into the wider Vedyari economy, and that is the cash the common-share expenditures are met from. It buys textiles, books, gemstones, salt, and the luxuries its households can afford within the cap.
 
 ## See Also
 

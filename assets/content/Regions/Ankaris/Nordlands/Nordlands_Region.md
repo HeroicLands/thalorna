@@ -49,7 +49,7 @@ that carry all of it. [[lore-nrdlndswhal|The Whale Strand]] and [[lore-nrdlndsse
 | [[affiliation-kingdmtrgd\|Targud]]    | ~300,000 |
 | [[affiliation-kngdmvthgrd\|Vithgard]] | ~300,000 |
 
-**Nordheim is pre-eminent** and is larger than any two of its neighbors together, which is the shape of
+**Nordheim is pre-eminent** and is more than half again as populous as the next kingdom, which is the shape of
 northern politics in one line.
 
 ## Why They Raid

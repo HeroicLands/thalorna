@@ -42,7 +42,7 @@ data:
         description: >-
           Born to the priestly tharana, keeper of rite and learning, without whose sanction no act of the sabhā is complete.
       - level: 6
-        title: Sabhāsad
+        title: Sabhāsadaka
         description: >-
           A seated member of the sabhā, sent by a constituent village at its turn or by a guild holding a reserved seat, and answerable to those who sent him.
       - level: 7
@@ -69,7 +69,7 @@ sohl: {system: {commonSkills: [vedyarlng]}}
 # terran_analog: "Medieval South Indian sabhā/ur temple-republics—Chola-era brahmadeya village federations governed by temple-anchored assemblies, loosely confederated through pilgrimage networks and shared classical tradition rather than through any centralized political authority"
 ---
 
-The **Janapadas of Vedyara** are some six thousand small temple-republics, each a handful of villages governing itself from the hall of one temple, and the **Mahā-Sangha** (Great Council) is what they have instead of a state. It convenes once in twelve years, on a plain that is empty the rest of the time, and does not govern. The janapadas hold most of [[place-vedyarargn|Vedyara]]'s people and most of its political life, alongside the great city-states of the coast and the river and the pass-kingdom of [[affiliation-vindhyalay|Vindhyālaya]]. The name belongs to the whole class and to no one polity in it.
+The **Janapadas of Vedyara** are some six thousand small temple-republics, each a handful of villages governing itself from the hall of one temple, and the **Mahā-Sangha** (Great Council) is what they have instead of a state. It convenes once in twelve years, on a plain that is empty the rest of the time, and does not govern. The janapadas hold most of [[place-vedyarargn|Vedyara]]'s people and most of its political life, alongside the great city-states of the coast and the river and the pass-kingdom of [[affiliation-vindhyalay|Shikharālaya]]. The name belongs to the whole class and to no one polity in it.
 
 A traveling merchant from [[place-provenzrgn|Provènzia Region]] passing through Vedyara meets a man who calls himself a citizen of the [[affiliation-suvrgrjnpd|Suvarnagiri Janapada]], another who calls himself a citizen of the [[affiliation-dhnrktjnpd|Dhanurkota Janapada]], and a third who calls himself simply a [[lore-vedyariclt|Vedyari]]. All three are correct. The Mahā-Sangha is what lets the third answer mean something while the first two are in dispute over a water-channel.
 
@@ -93,9 +93,9 @@ It is also durable. Temples burn, droughts empty villages, and kingdoms absorb s
 
 The Mahā-Sangha is the coordination between janapadas, and it is not a government. It does not legislate, does not tax, and keeps no standing institution between gatherings. What it does is convene.
 
-It convenes at the great pilgrimage festivals, at the seasonal markets that draw delegations from many janapadas, and above all at the **Mahā-Mela**, the twelve-yearly festival held on [[place-melaground|the Mela Ground]], where the [[place-mahanadi|Mahānadi]] takes its greatest tributary in central Vedyara. The Mela draws a quarter of a million pilgrims, with the senior priests and elders of every janapada that can spare a delegation. It runs for forty days: the first thirty are the religious observances, and the last ten are the business of the confederation.
+It convenes at the great pilgrimage festivals, at the seasonal markets that draw delegations from many janapadas, and above all at the **Mahā-Mela**, the twelve-yearly festival held on [[place-melaground|the Mela Ground]], where the [[place-mahanadi|Mahānadī]] takes its greatest tributary in central Vedyara. The Mela draws a quarter of a million pilgrims, with the senior priests and elders of every janapada that can spare a delegation. It runs for forty days: the first thirty are the religious observances, and the last ten are the business of the confederation.
 
-Seats at the Mela are counted by **river-circuit**. Every janapada belongs to the circuit of the water it drinks: the [[place-chandrmahi|Chandramahī]], the [[place-sarvadarivr|Sarvada]], the Mahānadi, the [[place-bharavarivr|Bhārava]], or the coast for those that drink from none of the four. A circuit speaks through its **Circuit-Speaker**, chosen for the gathering, so a janapada's neighbors on the roll are the ones upstream and downstream of it and not the ones over the ridge. The kingdoms and city-states that hold a seat hold it in their own right and belong to no circuit.
+Seats at the Mela are counted by **river-circuit**. Every janapada belongs to the circuit of the water it drinks: the [[place-chandrmahi|Chandramahī]], the [[place-sarvadarivr|Sarvada]], the Mahānadī, the [[place-bharavarivr|Bhārava]], or the coast for those that drink from none of the four. A circuit speaks through its **Circuit-Speaker**, chosen for the gathering, so a janapada's neighbors on the roll are the ones upstream and downstream of it and not the ones over the ridge. The kingdoms and city-states that hold a seat hold it in their own right and belong to no circuit.
 
 Those ten days settle the next twelve years, in open consultation between delegations:
 
@@ -111,7 +111,7 @@ The Dūta's warning to a foreigner with business at a Mela is about the calendar
 
 ## The City-States and the Kingdoms
 
-The great city-states of Vedyara are not janapadas, and neither are the kingdoms. [[affiliation-chandrapur|Chandrapur]], [[affiliation-vyalendra2|Vyālendra]] and the others stand on the coast and the river; [[affiliation-vindhyalay|Vindhyālaya]] in the passes is the nearest kingdom at hand. A city-state governs through a council of merchant houses and temple patrons, with or without a king at the head of it. A kingdom governs through a Mahārāja, a martial council of clan-chieftains and a priestly court. Both keep their own foreign policies, their own standing forces and their own seats at the Mela. They are the senior political units of Vedyara, and each is larger and more powerful than any individual janapada.
+The great city-states of Vedyara are not janapadas, and neither are the kingdoms. [[affiliation-chandrapur|Chandrapur]], [[affiliation-vyalendra2|Vyālendra]] and the others stand on the coast and the river; [[affiliation-vindhyalay|Shikharālaya]] in the passes is the nearest kingdom at hand. A city-state governs through a council of merchant houses and temple patrons, with or without a king at the head of it. A kingdom governs through a Mahārāja, a martial council of clan-chieftains and a priestly court. Both keep their own foreign policies, their own standing forces and their own seats at the Mela. They are the senior political units of Vedyara, and each is larger and more powerful than any individual janapada.
 
 The janapadas outnumber them by hundreds to one, and the two live together on terms of mutual need. The city-states need the janapadas for their hinterlands, their grain, their pilgrimage networks and their skilled artisans. The janapadas need the city-states for their markets, their trade with the wider world and their occasional military protection. Conflict is rare, and when it comes it comes over water, a mineral or a particular stretch of fertile field.
 
@@ -123,7 +123,7 @@ The Janapadas of Vedyara keep no central army. Each janapada raises its own mili
 
 The answer to a serious threat is the patron-client relationship with a nearby city-state, or inland with a regional kingdom. The janapada sends grain, labor and sometimes auxiliary troops; the patron sends the protection of its standing forces.
 
-The Mahā-Sangha has raised something like a confederation army three times in recorded Vedyari history. The most recent was four hundred years ago, in the generation [[lore-hndrdbnnrs|a steppe host]] overran the western march, against an adventurer with Tānvüri backing who brought a few hundred men through the conch-door into the eastern janapadas, subjugated a series of them and threatened more. That was [[lore-conchdoor|the Conch-Door Incursion]]. The senior priests of the region called on every janapada within reach to send its militia, and the army put him back out through the door he had come in by. It dissolved as soon as the threat ended. What stayed behind is [[place-sanghafort|the Sangha-fort]] on the col of [[place-sankhadvra|Shankhadvāra]], the only standing garrison the confederation keeps anywhere, manned in rotation by the janapadas of the Bhārava circuit. The priests are jealous of that precedent and invoke it rarely, and Vindhyālaya reads the fort as ground held by a body with no business holding any.
+The Mahā-Sangha has raised something like a confederation army three times in recorded Vedyari history. The most recent was four hundred years ago, in the generation [[lore-hndrdbnnrs|a steppe host]] overran the western march, against an adventurer with Tānvüri backing who brought a few hundred men through the conch-door into the eastern janapadas, subjugated a series of them and threatened more. That was [[lore-conchdoor|the Conch-Door Incursion]]. The senior priests of the region called on every janapada within reach to send its militia, and the army put him back out through the door he had come in by. It dissolved as soon as the threat ended. What stayed behind is [[place-sanghafort|the Sangha-fort]] on the col of [[place-sankhadvra|Shankhadvāra]], the only standing garrison the confederation keeps anywhere, manned in rotation by the janapadas of the Bhārava circuit. The priests are jealous of that precedent and invoke it rarely, and Shikharālaya reads the fort as ground held by a body with no business holding any.
 
 ## Population and Geography
 
@@ -132,7 +132,7 @@ The janapadas hold the overwhelming mass of Vedyara's people: on the order of **
 ## Famous Figures
 
 - **Mahāprasāda of the Sarvada**: Sabhāpati of the Mela and senior priest of Sangama, about seventy. He presided over the most recent Mahā-Mela four years ago and is reckoned the most respected priestly authority in inland Vedyara. The next Mela is his last as convening priest, and the succession is already under negotiation.
-- **The Council of Three**: the informal consultation of the senior priests of the three largest pilgrim-temples of central Vedyara, which are Sangama, the [[place-suryatempl|Sūrya temple]] at the source of the Chandramahī, and the [[place-bhrnytemple|great Mahájaya temple]] at [[place-bharanya|Bharanya]]. A joint pronouncement of the three on a matter before the Mahā-Sangha carries near-universal weight. It works as an executive committee, and the priests deny that it is one.
+- **The Council of Three**: the informal consultation of the senior priests of the three largest pilgrim-temples of central Vedyara, which are Sangama, the [[place-suryatempl|Sūrya temple]] at the source of the Chandramahī, and the [[place-bhrnytemple|great Mahājaya temple]] at [[place-bharanya|Bharanya]]. A joint pronouncement of the three on a matter before the Mahā-Sangha carries near-universal weight. It works as an executive committee, and the priests deny that it is one.
 
 ## Commerce and Currency
 
@@ -145,7 +145,7 @@ A janapada strikes no coin. Its traders carry whichever city's or kingdom's coin
 - [[place-sanghafort|The Sangha-fort]]—the confederation's one garrison
 - [[lore-janpdform|The Janapada Form]] · [[lore-conchdoor|The Conch-Door Incursion]] · [[lore-thirdcmpct|The Third Compact]]—the confederation's history
 - [[affiliation-varakpnthn|Varnaka Pantheon]]—the religious tradition that holds the janapadas together
-- [[affiliation-chandrapur|Chandrapur]], [[affiliation-vyalendra2|Vyālendra]], [[affiliation-vindhyalay|Vindhyālaya]]—the great city-states and the pass-kingdom
+- [[affiliation-chandrapur|Chandrapur]], [[affiliation-vyalendra2|Vyālendra]], [[affiliation-vindhyalay|Shikharālaya]]—the great city-states and the pass-kingdom
 - [[affiliation-dhnrktjnpd|Dhanurkota Janapada]], [[affiliation-rajaprjnpd|Rājapur Janapada]], [[affiliation-suvrgrjnpd|Suvarnagiri Janapada]]—three particular janapadas
 - [[lore-vedyariclt|Vedyari]]—the culture and its stations
 - [[skill-vedyarlng|Vedyari]]—the shared language
