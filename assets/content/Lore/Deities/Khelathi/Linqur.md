@@ -17,3 +17,5 @@ Where Linhur's scrutiny falls on the **hunter**, Linqur's falls on the **killing
 be done with the speed and efficiency the beast's nature permits. The division gives the pairing its
 point: one god watches the man, the other watches the act, and a hunter answerable to both cannot
 satisfy either by intention alone.
+
+Why the hunt needs both Linqur and [[lore-linhurdty|Linhur]] is left open: kin, rivals and two aspects of one thing all fit what the rites show. Beyond the hunt Linqur has no myth, no cosmic role and no place in [[affiliation-khelathpnthn|Khelâthi Pantheon]].

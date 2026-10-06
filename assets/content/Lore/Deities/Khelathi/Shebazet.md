@@ -17,3 +17,5 @@ on**.
 She stands outside [[affiliation-khelathpnthn|Khelâthi Pantheon]], and the disproportion is striking: a local
 marsh cult with no imperial standing supplies the physical basis of
 [[lore-rethsaardty|Reth'Sa'âr]]'s whole domain.
+
+The delta treats the bond between the cobra and the reed-beds as too obvious to explain. Ask a fowler why the goddess is a cobra and the reeds are hers, and the answer is a gesture at the marsh; no priest has put it into words for an outsider.

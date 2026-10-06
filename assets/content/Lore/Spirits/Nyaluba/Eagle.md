@@ -26,3 +26,5 @@ What complicates the eagle is the company it keeps. The stone-builder dead are n
 spirits, are not party to the Long Pact, and are not certainly ancestors of anyone now living.
 The eagle deals with them anyway. Whether it does so on the Ngonzi's behalf or on theirs is a
 question the clan does not answer to outsiders.
+
+The Bombwe griots maintain that the eagle-guide predates the Ngonzi presence in the highlands, a point the Ngonzi do not discuss with outsiders.

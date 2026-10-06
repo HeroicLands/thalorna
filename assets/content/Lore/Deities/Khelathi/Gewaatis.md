@@ -29,3 +29,5 @@ His cult is unusual among the Khelâthi in standing close to ordinary practical 
 concentrating in great temples it distributes itself through shrine-stations along the major travel
 routes, and its priests travel constantly, so the knowledge of conditions and dangers stays current
 and worth having.
+
+What the god owes a traveler who is lost through no fault of their own is unsettled, since he promises sight rather than protection.

@@ -18,3 +18,5 @@ What distinguishes his patronage is that it does not end at the kill. The god's 
 understood to extend to **the conduct of the hunter**, which is the religious weight behind the
 guild's standing principle that the beast is a creature of the Gar-Aû's lands and that wantonness in
 its killing offends the gods as much as the imperial order.
+
+That the rites need both Linhur and [[lore-linqurdty|Linqur]] is not in dispute. Why they are always invoked together is: the hunters keep it open whether the two are kin, rivals or two aspects of one thing.

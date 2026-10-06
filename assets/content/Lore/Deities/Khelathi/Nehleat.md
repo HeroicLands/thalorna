@@ -27,3 +27,5 @@ His is deliberately a small cult. The knowledge it holds cannot simply be taught
 natural aptitude as well as years of disciplined study—so the priesthood stays smaller and more
 specialized than the great valley cults, and its work is done in shrines and nightlong vigils rather
 than in vast temple estates.
+
+Whether the Nehle'ât priesthood recognizes the Asguardian and Aurèldían cults of the god as the same practice, or only as the same god, is in question, as is how much of its knowledge the other cults share.

@@ -25,3 +25,5 @@ fail it. The withdrawal is the sanction—there is no lion-guide that strikes it
 Prohibitions it is understood to enforce upon the Mvuzi: not to hunt lions, not to eat their
 flesh, not to take by ambush what could be taken by open challenge, and not to abandon a herd
 under threat.
+
+The Mvuzi and Bombwe griots tell differently what the lion-guide witnessed at the Pact-baobab.

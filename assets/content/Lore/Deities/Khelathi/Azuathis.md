@@ -32,3 +32,7 @@ realm for catastrophe.
 The frontier reading is gentler and not held to be wrong so much as differently framed: the herders
 of the western uplands and the hill-dwellers of the east understand him as an aspect of storm,
 earthquake and drought, and work protections accordingly.
+
+:::secret
+**For the GM:** Whether the sect that would wake the False Uqa'â takes Azu'âthis to be behind its work, or regards the sorcerer-king as merely the most useful ruin available, is not settled.
+:::

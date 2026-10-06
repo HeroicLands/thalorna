@@ -29,3 +29,5 @@ music and dance sit at the center of religious and secular life alike.
 His temples are correspondingly worldly. They hold the wine vaults and the granaries, and the
 granaries feed the dole—which makes the cult of pleasure also, quietly, a lever on the peace of
 the capital.
+
+The ascetic faiths charge that his worship is indulgence dressed as devotion. The charge is old, and the priesthood's answer to it is not written down.

@@ -27,3 +27,5 @@ To worship him is to acknowledge that not all divine power flows through gentle 
 tempests are a reminder that nature runs on its own logic rather than on human convenience. His
 worship is conducted with solemn formality and constant awareness of invoking a dangerous power, and
 his temples are set on high ground where lightning is likeliest to fall.
+
+The priesthoods of Tjaq'ûr and [[lore-qearetdty|Qe'âret]] are on tense terms. Whether the quarrel is doctrinal, order against weather, or merely old is not settled.

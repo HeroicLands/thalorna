@@ -22,3 +22,5 @@ dangerous water and dangerous ground alike, rather than to crocodiles narrowly.
 The working out of that tension is visible in [[affiliation-zeghetnelgu|Zeghet'Nelgu]], whose
 sacred hunt culls the river-beasts under temple dispensation and commends every kill to the river
 god for judgment.
+
+The priests of Tjelsuk do not agree whether the crocodile is the god or the god's creature, and the answer decides whether a cull is a sacrilege that needs a dispensation or a service that needs only a rite.

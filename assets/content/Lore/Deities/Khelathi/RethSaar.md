@@ -31,3 +31,5 @@ magical knowledge and the strategic insight that sustain the cosmic order.
 With [[lore-psaqarudty|Psaq'âru]] he is a complement rather than a rival: creation without knowledge is
 chaotic, knowledge without creation sterile, and the temple legends show the two in constant
 productive argument.
+
+What the Eternal Library is held to contain that the temple archives at Khelunu do not is not stated.

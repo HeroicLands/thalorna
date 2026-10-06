@@ -32,3 +32,5 @@ actually lies.
 
 Grave-robbery is, in his theology, not theft but **cosmic blasphemy**: it breaks the order he
 maintains and threatens the rest of the dead.
+
+What Wethûr does for a soul the scale condemns, once Álgit has had it, is not said.

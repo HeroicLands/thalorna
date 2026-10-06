@@ -22,3 +22,5 @@ commended to him for judgment, and the god's share is taken from the kill before
 That arrangement puts a river god's authority inside a noble family's charter rather than inside a
 priesthood, which is a genuinely unusual shape for a Khelâthi cult and makes his reader a political
 figure as much as a religious one.
+
+Whether Igel'Nâru is a god in his own right or [[lore-tjelsukdty|Tjelsuk]] under a river-name is open. The two share the water, the river-beasts and the problem of the cull, and the hunting companies who would know do not explain themselves.

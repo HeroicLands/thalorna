@@ -31,3 +31,5 @@ Unlike the Aurèldían [[affiliation-arldnpnthn|Vúlcani]], whose god split into
 black flame, Uqa'â has no schism. His nature is singular: fire as purification and illumination, never
 as destruction or domination. Foreign observers find the unity suspicious and suspect hidden
 mysteries; the Khelâthi answer that the unity is itself one of the god's gifts.
+
+The priesthood trains only its most promising acolytes in the god's nightly battle and the hidden names of power, and keeps its treatises on the chaos serpent from everyone else. What those treatises hold is known only inside the temple.
