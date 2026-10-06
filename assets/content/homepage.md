@@ -19,7 +19,7 @@ type: homepage
 description: >-
   A world of feuding realms, old faiths, and older powers—its peoples, places, creatures, and the lore that binds them.
 tags: [draft]
-data: {banner: tapestryofdreamsbnr}
+data: {banner: thalornabnr}
 ---
 
 Welcome to Thalorna, a diverse and ancient world of many cultures, peoples and lands, patterned loosely after an alternate Earth. Its continents and civilizations echo Terran geography and history while remaining wholly their own, from lush subtropical regions to vast deserts and icy wastes. Two older peoples, the Sinalë and the Khazári, were here long before humanity, and the empires, republics, tribes and faiths of today stand on millennia of human and otherworldly influence. The setting's present is the year 720. Begin with [The World of Thalorna](place-worldthlrn/) for the shape of the world, then follow the continents and regions to the places and peoples within them.

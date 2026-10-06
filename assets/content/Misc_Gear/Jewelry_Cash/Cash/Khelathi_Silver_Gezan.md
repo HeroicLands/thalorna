@@ -8,7 +8,7 @@ data: {icon: icon-coinsbdg, templatePriority: 0, packFolder: regkhposs}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: cash
-  system: {weightBase: 0.2, valueBase: 80, qualityBase: 0, durabilityBase: 3}
+  system: {weightBase: 0.05, valueBase: 20, qualityBase: 0, durabilityBase: 3}
 ---
 
 A silver piece at the full gezan weight, sealed by the attesting temple. Silver at this mass is the ordinary instrument of serious commerce—a consignment of cloth, a draft animal, a craftsman's contract for a season.
