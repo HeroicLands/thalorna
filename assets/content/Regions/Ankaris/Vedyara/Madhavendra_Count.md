@@ -42,17 +42,17 @@ data:
   packFolder: vedyara
 ---
 
-The **Mādhavendra count** is Vedyara's own year-count, kept alongside—and never converted from—the BF/AF reckoning the western kingdoms date from the founding of the [[affiliation-vylarinmpr|Vylarian]] state. A Vedyaran date is written **M** followed by the year number; the present year is **M 1200**. It is a solar calendar: twelve months of fixed length paired into six seasons, a week of seven days running through them, and the moon kept separately, in a temple almanac, for everything the rites require it for.
+The **Mādhavendra count** is [[place-vedyarargn|Vedyara]]'s own year-count, kept alongside—and never converted from—the BF/AF reckoning the western kingdoms date from the founding of the [[affiliation-vylarinmpr|Vylarian]] state. A Vedyaran date is written M followed by the year number; the present year is M 1200. It is a solar calendar: twelve months of fixed length paired into six seasons, a week of seven days running through them, and the moon kept separately, in a temple almanac, for everything the rites require it for.
 
 ## The Epoch
 
-The count begins with the standardization of Classical Vedyari, "roughly 1,200 years before the present," under the philosopher-kings of Mādhavendra, whose capital gave the era its name. That reign produced the great philosophical commentaries, legal codes and epic narratives that are still the prestige texts of the civilization. Vedyaran reckoning takes its zero from that reign, and from no Vylarian, Khelâthi or Tānvüri event. **M 1** falls in **480 BF**. A date given in M converts to the Common Calendar by the rule **AF year = M year − 480**. A result at or below zero is read as a BF date instead, counting back from AF 1.
+The count begins with the standardization of Classical Vedyari, "roughly 1,200 years before the present," under the philosopher-kings of Mādhavendra, whose capital gave the era its name. That reign produced the great philosophical commentaries, legal codes and epic narratives that are still the prestige texts of the civilization. Vedyaran reckoning takes its zero from that reign, and from no Vylarian, Khelâthi or Tānvüri event. M 1 falls in 480 BF. A date given in M converts to the [[lore-commoncal|Common Calendar]] by the rule AF year = M year − 480. A result at or below zero is read as a BF date instead, counting back from AF 1.
 
 ## The Year and Its Months
 
 The count divides the sun's year and not the moon's. Twelve months carry it, seven of thirty days and five of thirty-one, and the twelve together fill the whole of the year. Nothing stands outside a month and nothing is added at either end to close the count.
 
-The year opens at the vernal equinox, on the first day of Prabhavakāla, and each of the world's four fixed days opens a month: the summer solstice opens Purnakāla, the autumnal equinox Dhanyakāla, and the winter solstice Koshthakāla. A reckoner will point at that and say it is the whole argument for the calendar—a month that began on any other day would wander off the sun within a lifetime, and not one of these does.
+The year opens at the vernal equinox, on the first day of Prabhavakāla, and each of the world's four fixed days opens a month: the summer solstice opens Purnakāla, the autumnal equinox Dhanyakāla, and the winter solstice Koshthakāla. The reckoners of the [[affiliation-ganakashala|Ganaka-shala]] call this the whole argument for the calendar: a month that began on any other day would wander off the sun within a lifetime, and not one of these does.
 
 1. **Prabhavakāla** (30 days), the month of the sources—the glacier-springs open above [[place-sthrnwall|the Southern Wall]], the rivers rise on snowmelt, and the pilgrim roads to the four heads go up. The year opens on its first day.
 2. **Pushpakāla** (31 days), the flowering—the plateau and the forest country come into flower, and the garland trade that serves the great temples runs at its height.
@@ -69,7 +69,7 @@ The year opens at the vernal equinox, on the first day of Prabhavakāla, and eac
 
 ## The Six Seasons
 
-The months run in pairs, and a pair is a season. Six of them frame the year, and they are what a Vedyaran actually plans by: a contract for a season, a posting for a season, a debt due at a season's turn. Four seasons run sixty-one days and one sixty-one again; only the cold one is shorter, at sixty.
+The months run in pairs, and a pair is a season. Six of them frame the year, and they are what a Vedyaran actually plans by: a contract for a season, a posting for a season, a debt due at a season's turn. Five of the seasons run sixty-one days; only the cold one is shorter, at sixty.
 
 - **Haritaritu**, the green season—Prabhavakāla and Pushpakāla, sixty-one days. Snowmelt water and flower, and the season a long pilgrimage is begun in.
 - **Diptaritu**, the blazing season—Jvalakāla and Meghamukhakāla, sixty-one days. The heat, broken at the very end of it by the first rain.
@@ -94,7 +94,7 @@ Seven days run on through the months without a break, so a weekday belongs to no
 
 Vedyara keeps the sun for its civil year and the moon for its rites, and makes no attempt to have one serve the other. The twelve months are solar throughout: fixed lengths on a fixed year, and not one of them is a turn of the moon. The moon is counted separately, and the almanac that every temple of any standing publishes sets the two against each other, day by day, for the year ahead.
 
-Everything in the ritual year hangs off that document. A [[place-weighingstn|Weighing]] at [[affiliation-suvrgrjnpd|Suvarnagiri]] falls at a new moon; the janapadas of the middle [[place-chandrmahi|Chandramahī]] plant by their almanac and not by the water, because the water has fooled them; a Mela, a marriage and a coronation are all taken from it. A court with no almanac is a court that cannot say when anything is.
+Everything in the ritual year hangs off that document. A [[place-weighingstn|Weighing]] at [[affiliation-suvrgrjnpd|Suvarnagiri]] falls at a new moon; the janapadas of the middle [[place-chandrmahi|Chandramahī]] plant by their almanac and not by the water, because the water has fooled them; a **Mela**, a marriage and a coronation are all taken from it. A court with no almanac is a court that cannot say when anything is.
 
 The work is easier here than a foreigner expects it to be. [[place-vaelith|Vaelith]] turns new to new in exactly thirty days, so a lunar day is a day—the two counts never slip against each other, and neither is ever dropped or written twice to bring them level. A fortnight is fifteen days and is fifteen every time. The almanac is therefore not a repair but an arrangement: it states which day of the sun carries which day of the moon, which god's day it falls on, and what is consequently owed on it. Vedyari reckoners are proud of the instrument, and an almanac a reader can find an error in is a house's embarrassment for a generation.
 
@@ -106,7 +106,7 @@ The reckoners of the Ganaka-shala compute the same year instead of sighting it, 
 
 ## Elsewhere
 
-Vedyara's neighbors keep their own counts and not the Mādhavendra one. [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] dates from the Qet Telgu and the [[affiliation-tanvurempr|Empire of Tānvür]] from the Celestial Calendar's Great Convergence. None of the three converts to either of the others in ordinary use. A trader or an envoy crossing between them carries both dates and translates neither.
+Vedyara's neighbors keep their own counts and not the Mādhavendra one. [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] dates from the [[lore-qettelgu|Qet Telgu]] and the [[affiliation-tanvurempr|Empire of Tānvür]] from the **Celestial Calendar**'s [[lore-greatcnvrg|Great Convergence]]. None of the three converts to either of the others in ordinary use. A trader or an envoy crossing between them carries both dates and translates neither.
 
 ## See Also
 

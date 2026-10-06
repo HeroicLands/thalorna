@@ -14,7 +14,7 @@ data:
   government: janpdsvdyr
 ---
 
-The **Sangha-fort** stands on the Vedyari col of [[place-sankhadvra|Shankhadvāra]], under the black face of [[place-kalashkhra|Kālashikhara]]. It is a squat stone work with a cistern, a granary, a signal-tower and quarters for sixty men, and it is the only standing garrison the [[affiliation-janpdsvdyr|Mahā-Sangha]] maintains anywhere in Vedyara.
+The **Sangha-fort** stands on the Vedyari col of [[place-sankhadvra|Shankhadvāra]], under the black face of [[place-kalashkhra|Kālashikhara]]. It is a squat stone work with a cistern, a granary, a signal-tower and quarters for sixty men, and it is the only standing garrison the [[affiliation-janpdsvdyr|Mahā-Sangha]] maintains anywhere in [[place-vedyarargn|Vedyara]].
 
 ## Why It Is There
 
@@ -28,7 +28,7 @@ They have never raised another. They keep the fort instead, garrisoned, provisio
 
 ## The Garrison
 
-Sixty men, a commander who serves three years, a shrine-ushtaka seconded from the [[place-pssshrines|Pass-Shrine]] above, and a supply line that runs on [[affiliation-hvarnguides|Hvarn]] pack-trains through country the janapadas have no authority in whatever. Everyone involved understands the arrangement; nobody involved has written it down.
+Sixty men, a commander who serves three years, a shrine-ushtaka seconded from the [[place-pssshrines|Pass-Shrine]] above, and a supply line that runs on [[affiliation-hvarnguides|Hvarn]] pack-trains through country the janapadas have no authority in whatever. Everyone involved understands the arrangement; nobody involved has written it down. A commander, asked by a visiting janapada priest what the fort is for, answers in four words: "To be here, standing."
 
 ## See Also
 

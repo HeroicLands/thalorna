@@ -14,7 +14,7 @@ data:
   government: vyalendra2
 ---
 
-Vyālendra (80,000) is the capital of the city-state of [[affiliation-vyalendra2|Vyālendra]] and the only place in the subcontinent where the finest brocades are made. It stands in the middle of its own valleys, on the Nilacharī where the river first carries a laden boat, with the cotton land on both banks and the dye-villages upstream of the water-gate. The streets are narrow, shaded by old banyans, and the looms are audible in all of them from first light until dark.
+**Vyālendra** (80,000) is the capital of the city-state of [[affiliation-vyalendra2|Vyālendra]] and the only place in the subcontinent where the finest brocades are made. It stands in the middle of its own valleys, on the **Nilacharī** where the river first carries a laden boat, with the cotton land on both banks and the dye-villages upstream of the water-gate. The streets are narrow, shaded by old banyans, and the looms are audible in all of them from first light until dark.
 
 Eleven thousand looms are chartered within the walls. The count is kept by the guilds, has stood within a few hundred either way for six generations, and is the number every argument in the city is eventually conducted in.
 
@@ -22,7 +22,7 @@ Eleven thousand looms are chartered within the walls. The count is kept by the g
 
 The [[affiliation-vyalendra2|Loom-Council]] sits in the audience hall of the kings, in the palace quarter at the top of the city, and has done since the eleventh and last Mahārāja's line ended. The hall was built for a throne and holds sixty-one seats instead, one to each chartered guild, set in a ring on the floor where the dais was. The dais was taken out. The step it stood on was not, and a Speaker addresses the Council from beside it and never on it.
 
-The rest of the palace quarter is the Council's offices, the treasury, the cloth-court and the guild archives, and the private houses of the loom-castes are built into and against it. A visitor from a kingdom finds the arrangement disorderly and says so. A Vyālendri finds a court disorderly, on the grounds that a court's business is conducted where nobody can hear it.
+The rest of the palace quarter is the Council's offices, the treasury, the cloth-court and the guild archives, and the private houses of the loom households are built into and against it. A visitor from a kingdom finds the arrangement disorderly and says so. A Vyālendri finds a court disorderly, on the grounds that a court's business is conducted where nobody can hear it.
 
 ## The Great Halls
 
@@ -32,13 +32,13 @@ The dyers work outside the walls on the upstream water, where the indigo compoun
 
 ## The Temples
 
-The temples stand between the halls and not apart from them, and the sanctuary of [[affiliation-mahajaya|Mahájaya]] is first among them. She is the serene matriarch and the patron of honest measure, and every bolt that leaves a hall leaves under her. The Triyācārya of her temple sanctions the Council's acts as a priest sanctions a sabhā's inland. A decision the temples will not sanction does not take effect, and the Council has learned to ask beforehand.
+The temples stand between the halls and not apart from them, and the sanctuary of [[affiliation-mahajaya|Mahájaya]] is first among them. She is the serene matriarch and the patron of honest measure, and every bolt that leaves a hall leaves under her. The **Triyācārya** of her temple sanctions the Council's acts as a priest sanctions a sabhā's inland. A decision the temples will not sanction does not take effect, and the Council has learned to ask beforehand.
 
-The [[affiliation-vyalendravada|Vyālendravāda]] keeps the mother-house of the Academy of the Shining Pattern here, which is why the city's public works are better built than its politics would suggest. Its Ácāryas designed the water-gate, the four bridges and the clerestories of the great halls, and they are consulted on any hall a guild proposes to raise.
+The [[affiliation-vyalendravada|Vyālendravāda]] keeps the mother-house of the **Academy of the Shining Pattern** here, which is why the city's public works are better built than its politics would suggest. Its **Ácāryas** designed the water-gate, the four bridges and the clerestories of the great halls, and they are consulted on any hall a guild proposes to raise.
 
 ## The Watch
 
-The watch is two thousand men and is commanded by a graduate of the [[affiliation-dhnrktjnpd|Dhanurkota]] academies who is never a Vyālendri. The custom is old and nobody remembers the beginning of it. It has a consequence the city lives with: a Dhanurkoti commission is granted without regard to birth, so the man who holds the gates and the treasury is as often of the serving tharana as not, and he outranks Senājas of the loom-castes, born to arms, who will not salute him. The Council has twice been asked to end the custom and has twice declined, on the ground that a commander with no kin in the city is the point of him.
+The watch is two thousand men and is commanded by a graduate of the [[affiliation-dhnrktjnpd|Dhanurkota]] academies who is never a Vyālendri. The custom is old and nobody remembers the beginning of it. It has a consequence the city lives with: a Dhanurkoti commission is granted without regard to birth, so the man who holds the gates and the treasury is as often of the serving tharana as not, and he outranks **Senājas** of the loom households, born to arms, who will not salute him. The Council has twice been asked to end the custom and has twice declined, on the ground that a commander with no kin in the city is the point of him.
 
 ## The Long Evening
 
