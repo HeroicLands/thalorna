@@ -18,10 +18,6 @@ data:
   packFolder: adventures
 ---
 
-# Appearance {#appearance}
-
-TBD
-
 # Dossier {#dossier}
 
 **Role.** Cares for the horses and other animals.

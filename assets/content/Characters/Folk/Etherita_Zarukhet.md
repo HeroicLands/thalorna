@@ -18,8 +18,8 @@ data:
   species: humanflk
   born: "664.200"
   died: null
-  height: 1.71
-  weight: 70
+  height: 5' 7"
+  weight: 154 lbs
   frame: medium
   appearance:
     eye_color: brown
