@@ -15,7 +15,7 @@ The faithful are those who come to the Blessing of Light, a ceremony held prefer
 
 ## How the Law Treats a Person Here
 
-He is counted among the faith's people once he has received the Blessing of Light or joined the Night of Dreams, and is reckoned so until the Lómëthar withholds its accord from him and leaves him [[lore-unaccordedrnk|Unaccorded]] instead.
+He is counted among the faith's people once he has received the Blessing of Light or joined the Night of Dreams, and is reckoned so until the Aulirarno withholds its accord from him and leaves him [[lore-unaccordedrnk|Unaccorded]] instead.
 
 ## Privileges
 
@@ -23,7 +23,7 @@ He may attend the Blessing of Light and the Night of Dreams, and receive the pri
 
 ## Obligations
 
-None beyond attending the rites he takes part in; the faith asks nothing further of the faithful short of a call to the deeper service a Tindësar takes up.
+None beyond attending the rites he takes part in; the faith asks nothing further of the faithful short of a call to the deeper service a Ilthorinno takes up.
 
 ## Offices Open at This Standing
 

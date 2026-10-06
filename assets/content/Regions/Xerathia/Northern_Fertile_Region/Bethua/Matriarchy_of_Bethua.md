@@ -265,4 +265,4 @@ The genius and the fragility of the Bethûan constitution is that **neither pill
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the faith of the sacred pillar
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—the patron-neighbor whose institutions shaped the liberation-era state
 - [[affiliation-garhalzi|Gár-Hálzi]]—the Khelâthi temple-treasury on which Bethûa's fisc is modeled
-- [[place-bethura|Bethûra]]—the capital, seat of both councils
+- [[place-bethura|Bethûra]]—the capital, a harbor city on a bay of the Vylarian Sea and seat of both councils

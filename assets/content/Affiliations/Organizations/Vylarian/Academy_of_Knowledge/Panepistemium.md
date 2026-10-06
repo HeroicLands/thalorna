@@ -130,7 +130,7 @@ The creation of the [[affiliation-ordoarcanis|Ordo Arcanis]] was, in institution
 
 #### The Long Decline
 
-In the seven centuries since the founding of the Ordo, the balance of power within the Epistemium has shifted irreversibly. The Ordo commands more wealth than all other colleges combined. It has the ear of the Vylarian Senate. It has enforcement powers—the [[affiliation-ordoarcanis|Quaesitorium Arcanum]]—that no other college possesses. And it has used the Epistemium umbrella to extend its influence into domains that are not, strictly speaking, arcane.
+In the nearly eight centuries since the founding of the Ordo, the balance of power within the Epistemium has shifted irreversibly. The Ordo commands more wealth than all other colleges combined. It has the ear of the Vylarian Senate. It has enforcement powers—the [[affiliation-ordoarcanis|Quaesitorium Arcanum]]—that no other college possesses. And it has used the Epistemium umbrella to extend its influence into domains that are not, strictly speaking, arcane.
 
 The College of Mind is the most visible casualty. The Ordo has repeatedly claimed that research into consciousness, mental states, and the relationship between mind and body falls within the arcane domain—since magic can affect all of these things. Mind scholars who stray too close to arcane territory find themselves "invited" to collaborate with the Ordo, which in practice means their work is absorbed and their independence ends.
 
