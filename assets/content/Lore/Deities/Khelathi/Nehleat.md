@@ -28,6 +28,4 @@ natural aptitude as well as years of disciplined study—so the priesthood stays
 specialized than the great valley cults, and its work is done in shrines and nightlong vigils rather
 than in vast temple estates.
 
-TBD—how much of that specialized knowledge is shared across the god's other names, and whether the
-Nehle'ât priesthood recognizes the Asguardian and Aurèldían cults as the same practice or merely the same
-god.
+Whether the Nehle'ât priesthood recognizes the Asguardian and Aurèldían cults of the god as the same practice, or only as the same god, is in question, as is how much of its knowledge the other cults share.

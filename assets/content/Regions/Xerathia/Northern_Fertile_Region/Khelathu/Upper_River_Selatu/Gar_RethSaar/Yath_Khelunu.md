@@ -20,4 +20,5 @@ Yath-Khelunu farms the land of [[place-garrethsaarnome|Gar-Reth'Sa'âr]] within 
 
 ## See Also
 
-TBD.
+- [[place-garrethsaarnome|Gar-Reth'Sa'âr]]—The selat country that holds it
+- [[place-khelunu|Khelunu]]—The temple city of the selat

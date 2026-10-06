@@ -20,4 +20,4 @@ Yath-Thawu stands in the dense farm-country of [[place-anlaghztnslt|Anlagh-Zetû
 
 ## See Also
 
-TBD.
+- [[place-anlaghztnslt|Anlagh-Zetûn Selat]]—The selat country that holds it

@@ -8,11 +8,17 @@ tags: [generated]
 data:
   packFolder: regkhaff
   governance:
+    model: council
+    summary: >-
+      A kin-band of bandits raiding the southern trade routes. Nothing they take is written and nothing they owe each other is entered, and a leader among them carries the band's grudges.
     ranks:
       - level: 1
-        title: "Member"
+        title: Kin of the Wagalu
         description: >-
-          Belongs to the kin-band that raids the southern trade routes and holds a grudge against the caravan scouts.
+          A brother of the band, owed nothing in writing and owing nothing against a brother.
+    offices:
+      Leader of the Band: >-
+        Leads the raids and swears the band's blood-grudges.
 ---
 
 A bandit gang that has plagued the southern trade routes for years, holding a blood-grudge against the caravan scouts who have foiled them.

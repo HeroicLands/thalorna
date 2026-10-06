@@ -17,7 +17,3 @@ A single vast tree standing alone in a clearing of the Silver Forests that nothi
 It is older than any Áelendan tribe and older, the shamen say, than the tribes' arrival in the
 land. The tree and the spirit are not distinguished: [[lore-ataanspr|the At'aan Wyrd]] is what
 stands there, and what is spoken to is the tree.
-
-## Notable Features
-
-_To be written._

@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      The governing council of the temple of Uznêra, drawn from its senior priestesses and the few men raised high enough to sit beside them. It administers the temple's holdings and sets the calendar of observances.
     ranks:
       - level: 1
-        title: "Member"
+        title: Councillor
         description: >-
-          Sits on Uznêra's governing council as a senior member of the temple priesthood.
+          A senior priestess, or one of the few men raised high enough, seated in the council.
     offices: {}
   seat: null
   domains: []
@@ -35,16 +36,20 @@ Genzet'Uznêra is the governing council of [[affiliation-lutuznera|the temple of
 
 ## Character
 
-TBD.
+A senior priestess of Uznêra, asked by a young couple when they may be married, answers with a date on the temple's calendar. She does not pick it. The council does.
+
+The council is led by priestesses, with the few men raised high enough in the priesthood seated beside them. It holds the temple's calendar to be the measure of what counts as the temple's own rite. A ceremony performed on the wrong day, by the wrong hand, is a family gathering and nothing more.
 
 ## Relations
 
-TBD.
+The council governs [[affiliation-lutuznera|the temple of Uznêra]], the temple a petitioner approaches for marriage, birth and inheritance. A local priest may perform a rite privately at any time, but a rite performed outside the calendar the council sets is not recognized as the temple's own. In a valley where a marriage is an entry and a birth opens an obligation, the difference matters to anyone who wants the rite on the record.
 
 ## Commerce and Currency
 
-TBD.
+The council administers the temple's holdings and sets the calendar of observances that mark fertility, marriage and birth. Those observances are the council's work and its authority.
+
+Plan a wedding, a naming or an inheritance with the calendar in hand. The temple's date is the one that closes the entry.
 
 ## See Also
 
-TBD.
+- [[affiliation-lutuznera|Lut-Uznêra]]—The temple it governs
