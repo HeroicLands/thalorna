@@ -1,16 +1,16 @@
 ---
 shortcode: bhrnytemple
-name: {full: The Mahájaya Temple at Bharanya, aliases: []}
+name: {full: The Mahājaya Temple at Bharanya, aliases: []}
 type: place
 subType: structure
-description: "The great Mahájaya temple of the lower Mahānadi, whose senior priest holds the third voice on the Council of Three."
+description: "The great Mahājaya temple of the lower Mahānadī, whose senior priest holds the third voice on the Council of Three."
 tags: [sacred, river, pilgrimage, inland]
 data: {demonym: null, lore: [], parents: [bharanya], population: null, packFolder: vedyara}
 ---
 
-The great **Mahájaya temple** at [[place-bharanya|Bharanya]] stands on the oldest of the town's mounds, above the highest water of the lower [[place-mahanadi|Mahānadi]]. It is one of the three largest pilgrim-temples of inland [[place-vedyarargn|Vedyara]] and the largest establishment of [[affiliation-mahajaya|Mahájaya]] outside [[affiliation-suvrgrjnpd|Suvarnagiri]].
+The great **Mahājaya temple** at [[place-bharanya|Bharanya]] stands on the oldest of the town's mounds, above the highest water of the lower [[place-mahanadi|Mahānadī]]. It is one of the three largest pilgrim-temples of inland [[place-vedyarargn|Vedyara]] and the largest establishment of [[affiliation-mahajaya|Mahājaya]] outside [[affiliation-suvrgrjnpd|Suvarnagiri]].
 
-Mahájaya is the preserver-goddess of the [[affiliation-varakpnthn|Varnaka pantheon]], mistress of order, of prosperity and of the keeping of dharma. A river that moves its bed and drowns towns is exactly the condition her observance addresses, and the lower Mahānadi is the most devoted stretch of water in the subcontinent.
+Mahājaya is the preserver-goddess of the [[affiliation-varakpnthn|Varnaka pantheon]], mistress of order, of prosperity and of the keeping of dharma. A river that moves its bed and drowns towns is exactly the condition her observance addresses, and the lower Mahānadī is the most devoted stretch of water in the subcontinent.
 
 ## The Council of Three
 
@@ -20,12 +20,12 @@ Bharanya's is the voice on that council with no assembly behind it. Sangama conv
 
 ## The Observance
 
-The temple keeps the standard Mahájaya devotional cycle and adds the flood-rites, which are kept twice: once when the river begins to rise and once when it has gone down and the reach can be walked again. The second is the greater of the two. The priests read out what the water took, village by village, and the reading is a legal record as well as a rite.
+The temple keeps the standard Mahājaya devotional cycle and adds the flood-rites, which are kept twice: once when the river begins to rise and once when it has gone down and the reach can be walked again. The second is the greater of the two. The priests read out what the water took, village by village, and the reading is a legal record as well as a rite.
 
 Pilgrims come the year round and in their thousands after the fall of the water. The temple feeds them from its own granary for three days apiece, which is the outer limit of its charity and is enforced by men at the gate with a tally.
 
 ## See Also
 
 - [[place-bharanya|Bharanya]]—the town on the mounds
-- [[affiliation-mahajaya|Mahájaya]]—the preserver-goddess
+- [[affiliation-mahajaya|Mahājaya]]—the preserver-goddess
 - [[place-sangama|Sangama]]—the Mela ground's temple

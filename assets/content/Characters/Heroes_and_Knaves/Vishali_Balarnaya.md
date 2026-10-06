@@ -1,6 +1,6 @@
 ---
 shortcode: vishalblry
-name: {full: Vishali Bâlarnaya, given: Vishali, clan: Bâlarnaya, aliases: []}
+name: {full: Vishali Bālarnaya, given: Vishali, clan: Bālarnaya, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -411,7 +411,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[vishalblry|Vishali Bâlarnaya]]{float=top-left}
+![[vishalblry|Vishali Bālarnaya]]{float=top-left}
 
 Vishali stands 5'8" tall with a light build. She has rich brown skin, dark black hair, and warm brown eyes. Her features include a round face, a slightly arched nose, a gentle jawline, generous lips, and rich brows. She has a scar on her right elbow.
 
@@ -465,7 +465,7 @@ Vishali is driven by a contradictory pair of impulses: a desire for freedom so a
 
 ### Patrons
 
-Lord Jayakâra of House Deshani
+Lord Jayakāra of House Deshani
 : A broad-minded noble of one of the Vedyara city-states who has hired Vishali multiple times for court performances. He appreciates her boundary-pushing humor and has developed a real, if platonic, fondness for her. His support provides her with regular employment and credibility.
 
 Traveling Fair Circuit

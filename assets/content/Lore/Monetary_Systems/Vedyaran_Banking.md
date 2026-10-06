@@ -14,7 +14,7 @@ A counting-house clerk of the [[affiliation-mrchntclctvvdyr|Merchant Collective]
 The Vedyaran banking system is the money and credit the Collective runs across the five seats of the [[affiliation-assmblycmpct|Assembly of the Compact]]. It stands apart from the Vylarian [[affiliation-aerarimmpr|Aerarium Imperii]] and the Khelâthi [[affiliation-garhalzi|Gár-Hálzi]] alike. Both have asked the Collective for formal correspondent recognition, the Collective has declined them for generations, and it keeps its own system self-contained.
 
 - **Paper.** The Collective is the principal banking institution of Vedyaran commerce as well as the federation of its great hereditary trading families, the _kulinas_. Its letter of credit sits above the coined system: a house that trusts another house's paper moves value between janapadas and city-states without moving coin at all.
-- **The five seats.** [[affiliation-chandrapur|Chandrapur]], [[affiliation-vyalendra2|Vyālendra]], [[affiliation-vindhyalay|Vindhyālaya]] through its capital, [[affiliation-rajaprjnpd|Rājapur]] and [[affiliation-dhnrktjnpd|Dhanurkota]] share the system, and the Collective's standing above any one realm gives the banking infrastructure the whole subcontinent for its range. [[affiliation-suvrgrjnpd|Suvarnagiri]] keeps its own weighing and its own treasury and holds no seat.
+- **The five seats.** [[affiliation-chandrapur|Chandrapur]], [[affiliation-vyalendra2|Vyālendra]], [[affiliation-vindhyalay|Shikharālaya]] through its capital, [[affiliation-rajaprjnpd|Rājapur]] and [[affiliation-dhnrktjnpd|Dhanurkota]] share the system, and the Collective's standing above any one realm gives the banking infrastructure the whole subcontinent for its range. [[affiliation-suvrgrjnpd|Suvarnagiri]] keeps its own weighing and its own treasury and holds no seat.
 - **Who strikes coin.** Kingdoms and city-states strike coin and the janapadas do not. A janapada's commerce runs on whichever city's or kingdom's coin its traders carry, cleared through the Collective and not minted locally.
 
 ## The Three Coins
@@ -24,7 +24,7 @@ The clerk draws the table on a slate and has the factor copy it before saying an
 | Coin                          | Metal  | Struck by                                                                                                               | Common use                                                 | Conversion |
 | ----------------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
 | [[miscgear-suvarna\|Suvarna]] | Gold   | [[affiliation-chandrapur\|Chandrapur]], from Suvarnagiri gold bought at the **Weighing**                                | Land, dowries, tribute, the largest commercial settlements | 16 candra  |
-| [[miscgear-candra\|Candra]]   | Silver | The [[place-moonhouse                                                                    \| Moon House]], at Chandrapur | Ordinary formal commerce—contracts, tolls, rents           | 8 tāmra    |
+| [[miscgear-candra\|Chandra]]  | Silver | The [[place-moonhouse                                                                    \| Moon House]], at Chandrapur | Ordinary formal commerce—contracts, tolls, rents           | 8 tāmra    |
 | [[miscgear-tamra\|Tāmra]]     | Copper | Every kingdom and city-state, independently                                                                             | Everyday trade—bread, wages, market change                 | 1 tāmra    |
 
 A suvarna is therefore worth 128 tāmra. The tāmra is the only coin whose mint varies by court, and its weight follows the mint only approximately. Ordinary trade does not tell a Chandrapur tāmra from a Dhanurkota one, and only a large settlement is weighed and not counted.
@@ -44,5 +44,5 @@ The clerk's last rule is the shortest: outside the five seats, the metal is the 
 ## See Also
 
 - [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]]—the chartering institution; full institutional description
-- [[lore-mdhvndrcnt|The Mādhavendra Count]]—the calendar the Collective's own accounts run on
+- [[lore-mdhvndrcnt|The Madhuvindra Count]]—the calendar the Collective's own accounts run on
 - [[lore-aukhlthcrncy|Aû'Khelâthu Currency]]—the weight-attested system Vedyaran coin exchanges against at the sea

@@ -1,6 +1,6 @@
 ---
 shortcode: trimurtisampradaya
-name: {full: Trimūrti-sampradāya, aliases: [Tradition of the Three Forms, Trimūrti Tradition]}
+name: {full: Triyanga-sampradāya, aliases: [Tradition of the Three Forms, Triyanga Tradition]}
 type: affiliation
 subType: faithtradition
 description: "Orthodox, foundational religion of most Vedyaran city-states, balanced veneration of the cosmic triad."
@@ -14,7 +14,7 @@ data:
   governance:
     model: theocracy
     summary: >-
-      Ordination is to one of the three forms, but every priest must keep the rites of the other two; a temple of middling size seats three Ácāryas, one per form, and only a rare cleric is ordained to serve all three at once.
+      Ordination is to one of the three forms, but every priest must keep the rites of the other two; a temple of middling size seats three Āchāryas, one per form, and only a rare cleric is ordained to serve all three at once.
     ranks:
       - level: 0
         title: Patita
@@ -29,21 +29,21 @@ data:
         description: >-
           "Servant"—acolytes and assistants, who train at least five years in all three forms before requesting ordination to one.
       - level: 3
-        title: Ácārya
+        title: Āchārya
         description: >-
           The working priesthood, ordained to one of the three forms but required to keep the rites of the other two.
       - level: 4
-        title: Triyācārya
+        title: Triyāchārya
         description: >-
           "Master of the Three"—senior priest of a temple, ordained to serve all three forms at once. The rank is difficult to attain; most priests specialize in one and serve the others.
     offices:
-      Triyācārya: >-
+      Triyāchārya: >-
         "Master of the Three"—senior priest of a temple, ordained to serve all three forms at once. The rank is difficult to attain; most priests specialize in one and serve the others.
-      Ácārya: >-
+      Āchārya: >-
         The working priesthood, ordained to one of the three forms but required to keep the rites of the other two.
       Sevaka: >-
         "Servant"—acolytes and assistants, who train at least five years in all three forms before requesting ordination to one.
-      Ácārya of a Form: >-
+      Āchārya of a Form: >-
         A working priest ordained to one of the three, who nonetheless keeps the rites of the other two.
       Keeper of the Three Rites: >-
         Charged with the temple's observance of all three forms in their proper proportion, which is what the Sampradāya exists to maintain.
@@ -73,23 +73,25 @@ sohl:
       - sohl-sohl-skill-law
       - sohl-sohl-skill-dscr
       - sohl-sohl-skill-sing
+
+# terran_analog: the Hindu Trimūrti of Brahmā, Vishnu and Shiva; the name keeps clear of trimūrti and is built from tri, three, and anga, a body
 ---
 
-## Trimūrti-sampradāya—The Tradition of the Three Forms
+## Triyanga-sampradāya—The Tradition of the Three Forms
 
-- **Tradition:** **Trimūrti-sampradāya**—_Tradition of the Three Forms_
-- **Deities Venerated:** [[affiliation-vyalendra|Vyālendra]], [[affiliation-mahajaya|Mahájaya]], [[affiliation-rasikara|Rásikara]]—as three faces of a single cosmic truth; lesser gods observed as occasion requires
+- **Tradition:** **Triyanga-sampradāya**—_Tradition of the Three Forms_
+- **Deities Venerated:** [[affiliation-vyalendra|Vyālendra]], [[affiliation-mahajaya|Mahājaya]], [[affiliation-rasikara|Rāsikara]]—as three faces of a single cosmic truth; lesser gods observed as occasion requires
 - **Emphasis:** Orthodox, balanced veneration of the cosmic triad; civic religion; the foundational tradition of most Vedyaran city-states
 - **Pronunciation:** _Tri-MOOR-tee sum-pra-DAH-yah_
 - **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
-"Before you ask the council for anything, come and ask us," an **Ácārya** tells the guild clerk who has come to the temple with a plan for a new water-gate. "We do not decide your gate. We tell you which chamber to bring it to, and whether it will be blessed when the shovels go in." The clerk had come for a signature and has been given a lesson in how the city works. In [[affiliation-vyalendra2|Vyālendra]] the senior priest of the Trimūrti temple sanctions the Council's acts, and a decision the temples will not sanction does not take effect, so the Council has learned to ask beforehand.
+"Before you ask the council for anything, come and ask us," an **Āchārya** tells the guild clerk who has come to the temple with a plan for a new water-gate. "We do not decide your gate. We tell you which chamber to bring it to, and whether it will be blessed when the shovels go in." The clerk had come for a signature and has been given a lesson in how the city works. In [[affiliation-vyalendra2|Vyālendra]] the senior priest of the Triyanga temple sanctions the Council's acts, and a decision the temples will not sanction does not take effect, so the Council has learned to ask beforehand.
 
-It is the largest and most orthodox of the Varnakan schools. For most Vedyarans the word "Varnaka" and the word "Trimūrti" are almost interchangeable. It is the tradition of the great city-temples and the royal courts. Its calendar sets the public year, its high priests advise the city councils, and its rites are invoked at every civic occasion of consequence.
+It is the largest and most orthodox of the Varnakan schools. For most Vedyarans the word "Varnaka" and the word "Triyanga" are almost interchangeable. It is the tradition of the great city-temples and the royal courts. Its calendar sets the public year, its high priests advise the city councils, and its rites are invoked at every civic occasion of consequence.
 
 ### The Doctrine of Three Forms
 
-The doctrine is the **trimūrti** itself. [[affiliation-vyalendra|Vyālendra]]'s shaping, [[affiliation-mahajaya|Mahájaya]]'s preserving and [[affiliation-rasikara|Rásikara]]'s transforming are three aspects of one divine work. No aspect is lesser, and none is complete without the other two. Devotion to any one of the three carries the others in observance.
+The doctrine is the _triyanga_ itself, the three bodies of one divine work. [[affiliation-vyalendra|Vyālendra]]'s shaping, [[affiliation-mahajaya|Mahājaya]]'s preserving and [[affiliation-rasikara|Rāsikara]]'s transforming are three aspects of one divine work. No aspect is lesser, and none is complete without the other two. Devotion to any one of the three carries the others in observance.
 
 The lesser gods are honored as occasion calls. Nobody neglects [[affiliation-kalavrata|Kālavrata]] at a death or [[affiliation-meghanatha|Meghanātha]] at the onset of the monsoon, and the backbone of practice is the triad.
 
@@ -97,17 +99,17 @@ Its temples are large three-chambered complexes, each chamber given over to one 
 
 ### Clergy
 
-A **Sevaka** ("Servant") is an acolyte or assistant, who trains at least five years in all three forms before requesting ordination to one. An **Ácārya** is the working priesthood, ordained to one of the three forms but required to keep the rites of the other two, and a temple of middling size may have three, one for each form. A **Triyācārya** ("Master of the Three") is the senior priest of a temple, a single cleric ordained to serve all three forms. The rank is difficult to attain, and most priests specialize in one form and serve under the Triyācārya.
+A **Sevaka** ("Servant") is an acolyte or assistant, who trains at least five years in all three forms before requesting ordination to one. An **Āchārya** is the working priesthood, ordained to one of the three forms but required to keep the rites of the other two, and a temple of middling size may have three, one for each form. A **Triyāchārya** ("Master of the Three") is the senior priest of a temple, a single cleric ordained to serve all three forms. The rank is difficult to attain, and most priests specialize in one form and serve under the Triyāchārya.
 
 **Key Skills:** Engineering, Agriculture, Mercantilism, Survival, Mathematics, Folklore, Law, Discourse, Singing
 
 ### Rites and Festivals
 
-The **Morning of the Three** is the daily opening rite at a temple: each chamber is opened in turn, its form is greeted in the proper formula, and the day's first offering is shared among the three. The **Triple Blessing** is performed at every civic opening, groundbreaking and seasonal transition, when the three Ácāryas (or their deputies) speak the formulas of shaping, preserving and transforming in sequence.
+The **Morning of the Three** is the daily opening rite at a temple: each chamber is opened in turn, its form is greeted in the proper formula, and the day's first offering is shared among the three. The **Triple Blessing** is performed at every civic opening, groundbreaking and seasonal transition, when the three Āchāryas (or their deputies) speak the formulas of shaping, preserving and transforming in sequence.
 
-The **Sealing of the Triad** is an annual rite at each temple in which the three forms are ceremonially reconciled after the year's observances, and the Triyācārya resolves any friction between their partisans. The **Consecration of a City** is performed at the founding of a new settlement or the rebuilding of one destroyed, and a temple of the three forms is dedicated in a single rite that may last a full season.
+The **Sealing of the Triad** is an annual rite at each temple in which the three forms are ceremonially reconciled after the year's observances, and the Triyāchārya resolves any friction between their partisans. The **Consecration of a City** is performed at the founding of a new settlement or the rebuilding of one destroyed, and a temple of the three forms is dedicated in a single rite that may last a full season.
 
-The **Procession of the Three** is a week-long festival at midsummer in every Vedyaran city where a Trimūrti temple stands. A procession of each form moves through the streets, and all converge at the central temple for a combined dedication. The **Reconciliation of the Year** falls at the winter solstice: community disputes left unresolved are brought before the Triyācārya, who mediates with the three forms as witnesses.
+The **Procession of the Three** is a week-long festival at midsummer in every Vedyaran city where a Triyanga temple stands. A procession of each form moves through the streets, and all converge at the central temple for a combined dedication. The **Reconciliation of the Year** falls at the winter solstice: community disputes left unresolved are brought before the Triyāchārya, who mediates with the three forms as witnesses.
 
 ### Ordeals for Favor
 
@@ -116,9 +118,9 @@ The **Procession of the Three** is a week-long festival at midsummer in every Ve
 
 ### Orders
 
-The **Order of the Balanced Temple** is the senior administrative order of the sect, which adjudicates disputes between temples and sets the liturgical calendar. The **Council of the Triyācāryas** is its ruling council, made up of the senior Triyācārya of each great Vedyaran city.
+The **Order of the Balanced Temple** is the senior administrative order of the sect, which adjudicates disputes between temples and sets the liturgical calendar. The **Council of the Triyāchāryas** is its ruling council, made up of the senior Triyāchārya of each great Vedyaran city.
 
-### The Council of the Triyācāryas
+### The Council of the Triyāchāryas
 
 The Council decides which practices may be worked in the open, in a god's name, before people who did not ask to be present. It teaches no practice of its own. It is also, by an authority nobody granted it and nobody has successfully contested, the licensing authority for public working throughout [[place-vedyarargn|Vedyara]].
 
@@ -134,4 +136,4 @@ That single rule is why Vedyara looks, to an outsider, as though its priests hol
 
 ### Geographic Presence
 
-The Trimūrti-sampradāya is the dominant school throughout the city-states of [[place-vedyarargn|Vedyara Region]] and along the major river-valleys. It is less influential in the uplands and in the more remote villages, where older folk traditions and minor sects persist. Its greatest temples stand at the capitals of the large city-states, where the school is inseparable from civic authority.
+The Triyanga-sampradāya is the dominant school throughout the city-states of [[place-vedyarargn|Vedyara Region]] and along the major river-valleys. It is less influential in the uplands and in the more remote villages, where older folk traditions and minor sects persist. Its greatest temples stand at the capitals of the large city-states, where the school is inseparable from civic authority.

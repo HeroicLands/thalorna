@@ -123,7 +123,7 @@ A galley's crew works outside the order of stations, as every crew on this coast
 
 ## Relations
 
-Chandrapur is patron to the [[affiliation-rajaprjnpd|Rājapur Janapada]] under a formal protection arrangement nearly two centuries old, and it has declined the kingdoms' requests to expel the Rājapuri scholar who argues for more dissolutions. It buys the gold of [[affiliation-suvrgrjnpd|Suvarnagiri]] and the bows of [[affiliation-dhnrktjnpd|Dhanurkota]], and stands on good terms with [[affiliation-vindhyalay|Vindhyālaya]]. Its standing rival is Vyālendra, whose cloth its galleys carry under a hire neither city has ever made last more than a year. The [[affiliation-ordoarcanis|Ordo Arcanis]] is licensed to stand at Chandramukha and nowhere else in Vedyara.
+Chandrapur is patron to the [[affiliation-rajaprjnpd|Rājapur Janapada]] under a formal protection arrangement nearly two centuries old, and it has declined the kingdoms' requests to expel the Rājapuri scholar who argues for more dissolutions. It buys the gold of [[affiliation-suvrgrjnpd|Suvarnagiri]] and the bows of [[affiliation-dhnrktjnpd|Dhanurkota]], and stands on good terms with [[affiliation-vindhyalay|Shikharālaya]]. Its standing rival is Vyālendra, whose cloth its galleys carry under a hire neither city has ever made last more than a year. The [[affiliation-ordoarcanis|Ordo Arcanis]] is licensed to stand at Chandramukha and nowhere else in Vedyara.
 
 ## Commerce and Currency
 

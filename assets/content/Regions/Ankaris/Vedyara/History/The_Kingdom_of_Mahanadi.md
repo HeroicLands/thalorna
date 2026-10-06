@@ -1,9 +1,9 @@
 ---
 shortcode: mhndkngdm
-name: {full: The Kingdom of Mahānadi, aliases: [Kingdom of Mahānadi, The Dissolution of Mahānadi]}
+name: {full: The Kingdom of Mahānadī, aliases: [Kingdom of Mahānadī, The Dissolution of Mahānadī]}
 type: lore
 subType: history
-description: "The kingdom that held the upper Mahānadi from its capital at Rājapur for some two and a half centuries, from its founding in the generation of M 1 to the forty-day sabhā that dissolved it in M 240."
+description: "The kingdom that held the upper Mahānadī from its capital at Rājapur for some two and a half centuries, from its founding in the generation of M 1 to the forty-day sabhā that dissolved it in M 240."
 tags: [history, vedyara]
 data:
   packFolder: vedyara
@@ -14,7 +14,7 @@ data:
       depth: region
       sources: [place-sandstonealtr, lore-rcitkngsmhnd, affiliation-rajaprjnpd]
       summary: >-
-        The Mahānadi dynasty founds its capital at Rājapur and cuts the sandstone altar of Vyālendra in the temple beside the palace. Every king of the line is consecrated at that altar, the last included. The founding falls in the generation of the standardization at Mādhavendra, and the kingdom's chronicle counts its years from M 1.
+        The Mahānadī dynasty founds its capital at Rājapur and cuts the sandstone altar of Vyālendra in the temple beside the palace. Every king of the line is consecrated at that altar, the last included. The founding falls in the generation of the standardization at Madhuvindra, and the kingdom's chronicle counts its years from M 1.
       standing: single-source
       where:
         locus: [place-rajapur]
@@ -47,7 +47,7 @@ data:
         - place-rajavalilib
         - place-shitakoshtha
       summary: >-
-        In a famine the last king of Mahānadi dies in his palace without an heir, after his household guard has opened the royal granaries and taken from them. The villages ask the senior priest of the Vyālendra temple to convene a sabhā, and ask for no king. The sabhā sits forty days, dissolves the kingdom with full honors to the line, and joins its villages as one janapada governed through the temple: the palace is taken down for the temple's stone, the granaries become common stores, the army is given land, and the council-chamber and its record are kept whole.
+        In a famine the last king of Mahānadī dies in his palace without an heir, after his household guard has opened the royal granaries and taken from them. The villages ask the senior priest of the Vyālendra temple to convene a sabhā, and ask for no king. The sabhā sits forty days, dissolves the kingdom with full honors to the line, and joins its villages as one janapada governed through the temple: the palace is taken down for the temple's stone, the granaries become common stores, the army is given land, and the council-chamber and its record are kept whole.
       standing: attested
       names:
         - name: the Forty Days
@@ -95,13 +95,13 @@ data:
         - how the last king died; the chronicle enters the death and not its manner, and the poisoning by his cook is tradition
 ---
 
-The junior scribe who meets you at the gate of [[place-rajavalilib|the Rājavalī Library]] will tell you the shape of the **Kingdom of Mahānadi** before you have asked for it: two and a half centuries of kings, forty days of sabhā, and nine centuries since in which [[affiliation-rajaprjnpd|Rājapur]] has had no king and has never wanted one. Everything else in the library is detail.
+The junior scribe who meets you at the gate of [[place-rajavalilib|the Rājavalī Library]] will tell you the shape of the **Kingdom of Mahānadī** before you have asked for it: two and a half centuries of kings, forty days of sabhā, and nine centuries since in which [[affiliation-rajaprjnpd|Rājapur]] has had no king and has never wanted one. Everything else in the library is detail.
 
 ## The Kingdom
 
-The line was founded at [[place-rajapur|Rājapur]] in the generation of [[lore-stndrdmdhv|the standardization at Mādhavendra]], about 480 BF, and its chronicle counts its years from M 1. The founders cut [[place-sandstonealtr|the sandstone altar]] of [[affiliation-vyalendra|Vyālendra]] in the temple beside the palace, and every king of the line, the last included, was consecrated at it. The dynasty traced itself to a heroic ancestor of legendary virtue, as Vedyari dynasties do, and the Memory-Keeper's recitation hedges that ancestor as legend.
+The line was founded at [[place-rajapur|Rājapur]] in the generation of [[lore-stndrdmdhv|the standardization at Madhuvindra]], about 480 BF, and its chronicle counts its years from M 1. The founders cut [[place-sandstonealtr|the sandstone altar]] of [[affiliation-vyalendra|Vyālendra]] in the temple beside the palace, and every king of the line, the last included, was consecrated at it. The dynasty traced itself to a heroic ancestor of legendary virtue, as Vedyari dynasties do, and the Memory-Keeper's recitation hedges that ancestor as legend.
 
-From Rājapur the kings held the upper [[place-mahanadi|Mahānadi]] and its fields. It was a middling kingdom of the early classical period: a respectable army, a great deal of temple patronage, and several monarchs the chronicles hold up as exemplary. The [[lore-rcitkngsmhnd|Recitation of the Kings of Mahānadi]] names those just kings at their places before it reaches the six who end the line—a dilettante, a cruel man, an incompetent, a paranoiac, a child-tyrant and a drunkard.
+From Rājapur the kings held the upper [[place-mahanadi|Mahānadī]] and its fields. It was a middling kingdom of the early classical period: a respectable army, a great deal of temple patronage, and several monarchs the chronicles hold up as exemplary. The [[lore-rcitkngsmhnd|Recitation of the Kings of Mahānadi]] names those just kings at their places before it reaches the six who end the line—a dilettante, a cruel man, an incompetent, a paranoiac, a child-tyrant and a drunkard.
 
 ## The Forty Days
 
@@ -120,7 +120,7 @@ The people of the villages went to the senior priest of the Vyālendra temple an
 
 The villages became the Rājapur Janapada, and one family has kept the Memory-Keeper's office since the decree. Its holder opens every session of the sabhā by reciting the kings, and on the **Day of the Dissolution** each year the whole town hears the history and the decree read through and renews its compact with a cup of river water. Rājapur has kept no soldiers since.
 
-The dissolution did not stay in Rājapur. Every Vedyari course in political philosophy teaches it as the classical case of a janapada that replaced a kingdom, and the library's correspondence shelf holds sixty years of letters about whether it should be done again. The Rājapuri scholar [[being-anrjhrdvmbjkr|Anûraja Harshadēvāmbujakar]] writes to the kingdoms urging that it should, from [[affiliation-chandrapur|Chandrapur]], and the kingdoms have asked Chandrapur to expel him. Chandrapur has declined.
+The dissolution did not stay in Rājapur. Every Vedyari course in political philosophy teaches it as the classical case of a janapada that replaced a kingdom, and the library's correspondence shelf holds sixty years of letters about whether it should be done again. The Rājapuri scholar [[being-anrjhrdvmbjkr|Anurāja Harshadevāmbujakar]] writes to the kingdoms urging that it should, from [[affiliation-chandrapur|Chandrapur]], and the kingdoms have asked Chandrapur to expel him. Chandrapur has declined.
 
 ## See Also
 
@@ -129,4 +129,4 @@ The dissolution did not stay in Rājapur. Every Vedyari course in political phil
 - [[place-sandstonealtr|The sandstone altar]]—where every king was consecrated
 - [[place-rajavalilib|The Rājavalī Library]]—the kingdom's record, kept whole
 - [[lore-drwnngseat|The Drowning of the Royal Seat]]—the kingdom's town the river took long after
-- [[lore-stndrdmdhv|The Standardization at Mādhavendra]]—the reign the kingdom's count begins from
+- [[lore-stndrdmdhv|The Standardization at Madhuvindra]]—the reign the kingdom's count begins from

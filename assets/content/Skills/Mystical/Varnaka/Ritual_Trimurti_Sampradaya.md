@@ -1,12 +1,12 @@
 ---
 shortcode: trimurtisampradaya
 name:
-  full: "Ritual: Trimūrti-sampradāya"
+  full: "Ritual: Triyanga-sampradāya"
   aliases:
-    - Trimūrti-sampradāya
-    - Trimurti Sampradaya
+    - Triyanga-sampradāya
+    - Triyanga Sampradaya
     - Tradition of the Three Forms
-    - Trimūrti Tradition
+    - Triyanga Tradition
 type: skill
 subType: mystical
 tags: [varnaka, faith-skill]
@@ -19,15 +19,17 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
+
+# terran_analog: the Hindu Trimūrti of Brahmā, Vishnu and Shiva; the name keeps clear of trimūrti and is built from tri, three, and anga, a body
 ---
 
-## Ritual: Trimūrti-sampradāya
+## Ritual: Triyanga-sampradāya
 
-- **Rite:** The Triple Blessing. The three Ácāryas or their deputies speak the formulas of shaping, preserving and transforming in sequence. It is the sect's one civic instrument, performed at every groundbreaking and seasonal turn, at a coronation, at the sighting of the year at the Sūrya temple, and over the mountain's gold at a Weighing when a court asks the orthodox hierarchy to set the date in the Ganaka-shala's place
-- **Cost:** Nothing from the petitioner beyond standing to witness. From the Ácāryas, the work of bringing three offices together, [[affiliation-vyalendra|Vyālendra]]'s, [[affiliation-mahajaya|Mahájaya]]'s and [[affiliation-rasikara|Rásikara]]'s, none of whom the sect will let a civic occasion honor alone
-- **Performed by:** The three Ácāryas of a temple, one to each form, or a single Triyācārya ("Master of the Three") ordained to serve all three at once. Few priests reach that rank. Most keep to one form and serve under a Triyācārya's direction
-- **Licensed by:** The [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]] alone, the largest and most orthodox of the Varnakan sects, whose calendar sets the public year. Its Council of the Triyācāryas, the senior Triyācārya of every great Vedyari city, settles any dispute the rite raises
+- **Rite:** The Triple Blessing. The three Āchāryas or their deputies speak the formulas of shaping, preserving and transforming in sequence. It is the sect's one civic instrument, performed at every groundbreaking and seasonal turn, at a coronation, at the sighting of the year at the Sūrya temple, and over the mountain's gold at a Weighing when a court asks the orthodox hierarchy to set the date in the Ganaka-shala's place
+- **Cost:** Nothing from the petitioner beyond standing to witness. From the Āchāryas, the work of bringing three offices together, [[affiliation-vyalendra|Vyālendra]]'s, [[affiliation-mahajaya|Mahājaya]]'s and [[affiliation-rasikara|Rāsikara]]'s, none of whom the sect will let a civic occasion honor alone
+- **Performed by:** The three Āchāryas of a temple, one to each form, or a single Triyāchārya ("Master of the Three") ordained to serve all three at once. Few priests reach that rank. Most keep to one form and serve under a Triyāchārya's direction
+- **Licensed by:** The [[affiliation-trimurtisampradaya|Triyanga-sampradāya]] alone, the largest and most orthodox of the Varnakan sects, whose calendar sets the public year. Its Council of the Triyāchāryas, the senior Triyāchārya of every great Vedyari city, settles any dispute the rite raises
 
 The path to the office runs through one of two ordeals. **The Triple Year** is three successive years of service, one kept in each form's chamber to the full liturgical calendar. **The Architect's Ordeal** has the aspirant design and help build a small three-chambered shrine where none stood before, unassisted and unpaid.
 
-See [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]].
+See [[affiliation-trimurtisampradaya|Triyanga-sampradāya]].

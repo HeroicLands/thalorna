@@ -81,7 +81,7 @@ The system exists because the eastern trade cannot support the western arrangeme
 
 [[place-sanghafort|The Sangha-fort]] on the conch-door col is fed by Hvarn pack-trains. The contract is old, is renewed every third year with the eastern janapadas, and is the single largest piece of Hvarn income. The **Fort-carrier** who negotiates it is the one member of the people who speaks fluent lowland Vedyari, and the one the garrison's officers know by name.
 
-It also makes the Hvarn the confederation's eyes on a frontier the confederation has no other way of watching, a fact [[affiliation-vindhyalay|Vindhyālaya]] resents and the Hvarn decline to discuss.
+It also makes the Hvarn the confederation's eyes on a frontier the confederation has no other way of watching, a fact [[affiliation-vindhyalay|Shikharālaya]] resents and the Hvarn decline to discuss.
 
 ## The Dead
 

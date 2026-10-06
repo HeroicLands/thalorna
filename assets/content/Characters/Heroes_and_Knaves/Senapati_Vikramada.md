@@ -1,6 +1,6 @@
 ---
 shortcode: senptvkrmd
-name: {full: Sénapati Vikramâda, given: Sénapati, clan: Vikramâda, aliases: [Senu]}
+name: {full: Senāpati Vikramada, given: Senāpati, clan: Vikramada, aliases: [Senu]}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -438,25 +438,25 @@ sohl:
 
 # Appearance {#appearance}
 
-![[senptvkrmd|Sénapati Vikramâda]]{float=top-left}
+![[senptvkrmd|Senāpati Vikramada]]{float=top-left}
 
-Sénapati stands 6'0" tall with a heavy build. He has medium brown skin, graying dark brown hair, and deep brown eyes. His features include a full face, a straight nose, a narrow chin, full lips, and medium brows. He has a tattoo of a crescent moon on his neck.
+Senāpati stands 6'0" tall with a heavy build. He has medium brown skin, graying dark brown hair, and deep brown eyes. His features include a full face, a straight nose, a narrow chin, full lips, and medium brows. He has a tattoo of a crescent moon on his neck.
 
 # Dossier {#dossier}
 
-Sénapati Vikramâda was born in the port cities of [[place-vedyarargn|Vedyara]] to a family of sailors and shipwrights. His father was a bosun before him, and his grandfather before that—a legacy stretching back generations into the merchant fleets and war galleys that built the City-States' prosperity. Sénapati learned his trade not from books or schools but from the deck itself, rising through competence and an almost instinctive understanding of what a crew needed to hold together under pressure.
+Senāpati Vikramada was born in the port cities of [[place-vedyarargn|Vedyara]] to a family of sailors and shipwrights. His father was a bosun before him, and his grandfather before that—a legacy stretching back generations into the merchant fleets and war galleys that built the City-States' prosperity. Senāpati learned his trade not from books or schools but from the deck itself, rising through competence and an almost instinctive understanding of what a crew needed to hold together under pressure.
 
-He served for fifteen years in the war-fleet of [[affiliation-chandrapur|Chandrapur]], where he rose to senior bosun and eventually served aboard the great war galley **Rásikara's Wrath**, the fleet's flagship. Those years taught him that leadership is earned rather than delegated from above, by showing again and again that one knows the difference between rules and wisdom, between discipline and tyranny. When Chandrapur's fleet was reduced after a period of peace, Sénapati chose to leave military service and now works as a contract bosun, hiring himself out to merchant captains who recognize that his presence aboard their vessels means better organized, better run, more loyal crews.
+He served for fifteen years in the war-fleet of [[affiliation-chandrapur|Chandrapur]], where he rose to senior bosun and eventually served aboard the great war galley **Rāsikara's Wrath**, the fleet's flagship. Those years taught him that leadership is earned rather than delegated from above, by showing again and again that one knows the difference between rules and wisdom, between discipline and tyranny. When Chandrapur's fleet was reduced after a period of peace, Senāpati chose to leave military service and now works as a contract bosun, hiring himself out to merchant captains who recognize that his presence aboard their vessels means better organized, better run, more loyal crews.
 
 For the past decade, he has become something of a legend in the maritime communities of Vedyara and beyond: the senior bosun who can take a chaotic, demoralized crew and forge them into a working crew within weeks. Captains compete for his services, often paying well above the usual rate to secure him for crucial voyages. He has grown wealthy by the standards of the working sailor class, though he lives with the modest means of a man for whom material comfort remains secondary to the work itself.
 
-His faith in Rásikara is practical devotion rather than escape: the fire-aspect deity stands for transformation, the burning away of weakness and the forging of strength from raw material. This philosophy guides his handling of a crew, though some have questioned whether his methods border on cruel.
+His faith in Rāsikara is practical devotion rather than escape: the fire-aspect deity stands for transformation, the burning away of weakness and the forging of strength from raw material. This philosophy guides his handling of a crew, though some have questioned whether his methods border on cruel.
 
 ## Psyche
 
 ### Personality
 
-Sénapati is a man of few unnecessary words, his manner of speech molded by years of giving orders in noisy, wind-filled environments where clarity and brevity are survival. When he speaks, people listen, not from volume but from the certainty that his words carry weight and intention. His humor, when it emerges, is dark and situational—appropriate to the grim realities of seafaring life. He can find grim comedy in disaster and maintains philosophical acceptance of dangers that would terrify landlubbers.
+Senāpati is a man of few unnecessary words, his manner of speech molded by years of giving orders in noisy, wind-filled environments where clarity and brevity are survival. When he speaks, people listen, not from volume but from the certainty that his words carry weight and intention. His humor, when it emerges, is dark and situational—appropriate to the grim realities of seafaring life. He can find grim comedy in disaster and maintains philosophical acceptance of dangers that would terrify landlubbers.
 
 His authoritarian manner covers a real care for the sailors under his command, expressed not through coddling but through a steady commitment to their safety and the highest standards of training. He sees discipline not as punishment but as the foundation of safety—a strict routine and clear hierarchies keep people alive when storms come and crises strike. He has been known to advocate fiercely for crew members deserving promotion or compensation, and crews who serve under him generally respect him despite his exacting standards.
 
@@ -464,7 +464,7 @@ His wariness of new devices is earned skepticism rather than stubbornness: he ha
 
 ### Motivation
 
-Sénapati's fundamental drive is the pursuit of excellence in maritime endeavor. He believes that the sea demands mastery, that incompetence on deck is a kind of sin against those whose lives depend on collective competence. He works toward a vision of a maritime world where standards are universal, where every sailor is trained to the highest level, where the gap between competent and incompetent is vast enough to be truly meaningful.
+Senāpati's fundamental drive is the pursuit of excellence in maritime endeavor. He believes that the sea demands mastery, that incompetence on deck is a kind of sin against those whose lives depend on collective competence. He works toward a vision of a maritime world where standards are universal, where every sailor is trained to the highest level, where the gap between competent and incompetent is vast enough to be truly meaningful.
 
 More personally, he seeks to leave a legacy of trained sailors and officers who will carry forward the traditions and standards he has worked to establish. He has accepted that he will not command ships himself—his temperament and interests lie in making others' commands possible—but he can see that a generation of sailors carries forward his principles.
 
@@ -489,24 +489,24 @@ More personally, he seeks to leave a legacy of trained sailors and officers who 
 ### Patrons
 
 Captain-Merchant Taramandal
-: A successful merchant captain who employs Sénapati regularly and considers him the foundation of his trading success. Taramandal has offered Sénapati a permanent position with significant authority, which Sénapati has declined.
+: A successful merchant captain who employs Senāpati regularly and considers him the foundation of his trading success. Taramandal has offered Senāpati a permanent position with significant authority, which Senāpati has declined.
 
 The Shipwrights' Guild of Vedyara
 : Maintains good relationships with the guild, occasionally consulting on matters of crew management and vessel design from the standpoint of practical seamanship.
 
-Temple of Rásikara
+Temple of Rāsikara
 : Devoted practitioner and occasional volunteer in temple activities, though his faith is expressed through work rather than elaborate ceremony.
 
 ### Enemies
 
 Captain Dharen of the Crimson Sail
-: A merchant captain whom Sénapati once refused to serve because of what he perceived as grossly inadequate safety standards and crew abuse. Dharen has since built his own reputation for speed and profit, and he views Sénapati as a rival whose standards are "outdated" and "cost-prohibitive."
+: A merchant captain whom Senāpati once refused to serve because of what he perceived as grossly inadequate safety standards and crew abuse. Dharen has since built his own reputation for speed and profit, and he views Senāpati as a rival whose standards are "outdated" and "cost-prohibitive."
 
 Modernist Faction
-: A loose coalition of younger seafarers who view Sénapati's traditional methods as obstacles to progress, particularly the adoption of new rigs and instruments.
+: A loose coalition of younger seafarers who view Senāpati's traditional methods as obstacles to progress, particularly the adoption of new rigs and instruments.
 
 The Black Tides Syndicate
-: A maritime criminal organization that has attempted to recruit Sénapati, offering enormous payments for his assistance in crew management for their operations. His refusals have made him a target of their resentment.
+: A maritime criminal organization that has attempted to recruit Senāpati, offering enormous payments for his assistance in crew management for their operations. His refusals have made him a target of their resentment.
 
 ### Affiliations
 
@@ -514,16 +514,16 @@ Vedyaran Maritime Tradition
 : Though he works on contract rather than as an official representative, he is deeply connected to and considered an exemplar of Vedyaran maritime culture and values.
 
 The Order of Mariners
-: An informal association of senior sailors and officers who maintain standards and traditions, and who respect Sénapati as one of their most honored members.
+: An informal association of senior sailors and officers who maintain standards and traditions, and who respect Senāpati as one of their most honored members.
 
 ## Plot Hooks
 
-1. **The Failed Innovation**: Sénapati is hired for a voyage aboard a vessel equipped with a novel rigging design meant to increase speed and reduce the hands needed. The captain is enthusiastic, the crew is eager, and the promised payment is generous. However, Sénapati quickly identifies critical flaws in the design that he believes make the ship dangerous, particularly in rough seas. The captain dismisses his concerns, insisting that the designer's calculations are sound and Sénapati is merely afraid of anything new. Sénapati can resign on principle, accept the risk and try to manage it, or force changes to the design that might make him appear an obstructionist while saving lives.
+1. **The Failed Innovation**: Senāpati is hired for a voyage aboard a vessel equipped with a novel rigging design meant to increase speed and reduce the hands needed. The captain is enthusiastic, the crew is eager, and the promised payment is generous. However, Senāpati quickly identifies critical flaws in the design that he believes make the ship dangerous, particularly in rough seas. The captain dismisses his concerns, insisting that the designer's calculations are sound and Senāpati is merely afraid of anything new. Senāpati can resign on principle, accept the risk and try to manage it, or force changes to the design that might make him appear an obstructionist while saving lives.
 
-2. **The Captaincy Offer**: A wealthy merchant approaches Sénapati with an unprecedented offer: command of his own vessel, with full authority over crew and operations, backed by substantial resources. This is the dream Sénapati has supposedly held throughout his working life—autonomy, authority, and the ability to carry out his vision of maritime excellence in full. However, accepting means leaving the mentoring role he has come to cherish and assuming administrative responsibilities that do not suit his temperament. The choice is between what he thought he wanted and what he has discovered he actually needs.
+2. **The Captaincy Offer**: A wealthy merchant approaches Senāpati with an unprecedented offer: command of his own vessel, with full authority over crew and operations, backed by substantial resources. This is the dream Senāpati has supposedly held throughout his working life—autonomy, authority, and the ability to carry out his vision of maritime excellence in full. However, accepting means leaving the mentoring role he has come to cherish and assuming administrative responsibilities that do not suit his temperament. The choice is between what he thought he wanted and what he has discovered he actually needs.
 
-3. **The Corrupt Captain's Loyalty**: Sénapati is hired as bosun aboard a merchant vessel and gradually discovers that the captain is involved in piracy and trafficking, using merchant voyages as cover for his crimes. Several crew members under Sénapati's care are being exploited or coerced into participation. Sénapati is trapped between his loyalty to crew members (including some he has trained in previous years) and his fundamental principles against lawlessness. He can report the captain and break up the operation, try to protect and extract the exploited crew members, or let the exploitation continue.
+3. **The Corrupt Captain's Loyalty**: Senāpati is hired as bosun aboard a merchant vessel and gradually discovers that the captain is involved in piracy and trafficking, using merchant voyages as cover for his crimes. Several crew members under Senāpati's care are being exploited or coerced into participation. Senāpati is trapped between his loyalty to crew members (including some he has trained in previous years) and his fundamental principles against lawlessness. He can report the captain and break up the operation, try to protect and extract the exploited crew members, or let the exploitation continue.
 
-4. **The Generational Clash**: A young, brilliant sailor—perhaps the most talented Sénapati has trained in years—comes to him with a revolutionary idea for restructuring the crew's chain of command and how decisions are made in ways that Sénapati believes would undermine discipline. However, the sailor presents evidence that the new approach could improve both the work and the crew's morale by listening to what they know. Sénapati faces the possibility that his absolute standards are obstacles rather than advantages, and that excellence might look different from the way he has always practiced it.
+4. **The Generational Clash**: A young, brilliant sailor—perhaps the most talented Senāpati has trained in years—comes to him with a revolutionary idea for restructuring the crew's chain of command and how decisions are made in ways that Senāpati believes would undermine discipline. However, the sailor presents evidence that the new approach could improve both the work and the crew's morale by listening to what they know. Senāpati faces the possibility that his absolute standards are obstacles rather than advantages, and that excellence might look different from the way he has always practiced it.
 
-5. **The Rescue Refusal**: Sénapati's ship encounters another vessel in distress—likely sinking, crew in mortal danger. However, assisting would involve significant risk to Sénapati's own ship and crew, and the vessel in distress appears to belong to Captain Dharen, Sénapati's old enemy. The captain gives Sénapati the option: attempt a dangerous rescue or proceed safely onward. Sénapati has to weigh the brotherhood of the sea against his personal enmities.
+5. **The Rescue Refusal**: Senāpati's ship encounters another vessel in distress—likely sinking, crew in mortal danger. However, assisting would involve significant risk to Senāpati's own ship and crew, and the vessel in distress appears to belong to Captain Dharen, Senāpati's old enemy. The captain gives Senāpati the option: attempt a dangerous rescue or proceed safely onward. Senāpati has to weigh the brotherhood of the sea against his personal enmities.

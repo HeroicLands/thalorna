@@ -28,7 +28,7 @@ There is nothing written on it. Not an inscription, not a mark, not a sign of an
 
 The spring beneath it does not freeze. That is the whole of it: no rite touches it, no procedure affects it, and nobody has ever produced an account of how a slab of anything keeps water running under a glacier.
 
-The [[affiliation-trimurtisampradaya|Trimūrti]] priests hold it the god's footstool and wash it at the turn of every season. The [[affiliation-osketguides|Ösket]] hold it the mountain's own and step round it without touching. Neither has ever offered an explanation of the water, and neither has ever been asked for one by anybody who mattered.
+The [[affiliation-trimurtisampradaya|Triyanga]] priests hold it the god's footstool and wash it at the turn of every season. The [[affiliation-osketguides|Ösket]] hold it the mountain's own and step round it without touching. Neither has ever offered an explanation of the water, and neither has ever been asked for one by anybody who mattered.
 
 ## The Nine Days
 
@@ -39,4 +39,4 @@ The slab was unchanged throughout—gray, warm, giving—and is unchanged now. T
 ## See Also
 
 - [[place-chandrprbh|Chandraprabhava]] · [[place-suryashkhr|Sūryashikhara]] · [[place-chandrmahi|The Chandramahī]]
-- [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]] · [[affiliation-osketguides|The Ösket]]
+- [[affiliation-trimurtisampradaya|Triyanga-sampradāya]] · [[affiliation-osketguides|The Ösket]]

@@ -26,4 +26,4 @@ The [[place-chandrprbh|Chandraprabhava]] rises under the peak's southern glacier
 ## See Also
 
 - [[place-sthrnwall|The Southern Wall]] · [[place-chandrprbh|Chandraprabhava]] · [[place-himashila|Himashilā]]
-- [[place-suryadvara|Sūryadvāra]] · [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]]
+- [[place-suryadvara|Sūryadvāra]] · [[affiliation-trimurtisampradaya|Triyanga-sampradāya]]

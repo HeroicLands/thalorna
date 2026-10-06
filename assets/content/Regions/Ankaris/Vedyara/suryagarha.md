@@ -1,9 +1,9 @@
 ---
 shortcode: suryagarha
-name: {full: Sūryāgarha, aliases: []}
+name: {full: Sūryagarha, aliases: []}
 type: place
 subType: settlement
-description: "The fortress-capital of Vindhyālaya, built across the throat of Sūryadvāra—citadel, customs-house and caravanserai, full for two months of the year and garrisoned for twelve."
+description: "The fortress-capital of Shikharālaya, built across the throat of Sūryadvāra—citadel, customs-house and caravanserai, full for two months of the year and garrisoned for twelve."
 tags: [city, fortress, caravan, market, mountain]
 data:
   demonym: null
@@ -15,7 +15,7 @@ data:
   government: vindhyalay
 ---
 
-**Sūryāgarha** (40,000) is built on the road and not beside it. It is the capital of the kingdom of [[affiliation-vindhyalay|Vindhyālaya]] and stands across the throat of [[place-suryadvara|Sūryadvāra]], the greatest of the northern passes, so that there is no way up onto the wall by that crossing, and no way down off it into [[place-vedyarargn|Vedyara]], that does not go beneath the walls. The city exists because of that one fact and would not otherwise be where it is.
+**Sūryagarha** (40,000) is built on the road and not beside it. It is the capital of the kingdom of [[affiliation-vindhyalay|Shikharālaya]] and stands across the throat of [[place-suryadvara|Sūryadvāra]], the greatest of the northern passes, so that there is no way up onto the wall by that crossing, and no way down off it into [[place-vedyarargn|Vedyara]], that does not go beneath the walls. The city exists because of that one fact and would not otherwise be where it is.
 
 The site is a shelf of rock where the gorge narrows to something a wall can be thrown across, with the terraced valleys falling away south behind it and twenty days of ice above it to the fork. Everything the city eats comes up the terrace road. Everything it is rich from comes down the pass.
 
@@ -47,20 +47,20 @@ The city's own population does not change as much as the yards do. Forty thousan
 
 ## The Tānvüri Quarter
 
-A [[place-tanvuregin|Tānvüri]] community has lived in Sūryāgarha for centuries, come down by the north-eastern branch of the pass. It is a quarter of merchants and clerks with a way-station's establishment behind it, and it keeps its own script, its own account-books and its own year, which the customs-house has long since given up trying to make agree with anyone else's.
+A [[place-tanvuregin|Tānvüri]] community has lived in Sūryagarha for centuries, come down by the north-eastern branch of the pass. It is a quarter of merchants and clerks with a way-station's establishment behind it, and it keeps its own script, its own account-books and its own year, which the customs-house has long since given up trying to make agree with anyone else's.
 
-Every few decades an imperial envoy arrives, is received with great courtesy, and goes away again. Neither side has ever seriously tried to rule the other, and both are proud of it. What the quarter is actually worth to the kingdom is the standing correspondence: Sūryāgarha hears what has happened on the far side of the wall months before anyone in the south does, and sells the knowing of it.
+Every few decades an imperial envoy arrives, is received with great courtesy, and goes away again. Neither side has ever seriously tried to rule the other, and both are proud of it. What the quarter is actually worth to the kingdom is the standing correspondence: Sūryagarha hears what has happened on the far side of the wall months before anyone in the south does, and sells the knowing of it.
 
 ## The Terrace Road
 
 South of the city the road drops through the terraced valleys that feed it—rice and barley on the lower steps, sheep and goats and small mountain cattle above—and goes on down to the lowland market towns where the kingdom's grain, its cheap steel and its dried milk-curds change hands.
 
-It is an easy road and a well-kept one, and it is the reason Sūryāgarha is a city rather than a fort. The crown's writ runs along it and along the pass-road above, and not much beyond either. Out in the side valleys the clan-chieftains govern, and a **Sāmanta** who has held a crossing against a winter raid comes to the city when it suits him and is received at the citadel with the honor due a senior ushtaka of the temples.
+It is an easy road and a well-kept one, and it is the reason Sūryagarha is a city rather than a fort. The crown's writ runs along it and along the pass-road above, and not much beyond either. Out in the side valleys the clan-chieftains govern, and a **Sāmanta** who has held a crossing against a winter raid comes to the city when it suits him and is received at the citadel with the honor due a senior ushtaka of the temples.
 
 ## See Also
 
-- [[affiliation-vindhyalay|Vindhyālaya]]—the kingdom seated here
-- [[place-vindhyalayaland|Vindhyālaya]]—the land
+- [[affiliation-vindhyalay|Shikharālaya]]—the kingdom seated here
+- [[place-vindhyalayaland|Shikharālaya]]—the land
 - [[place-suryadvara|Sūryadvāra]]—the pass the city stands across
 - [[place-pssshrines|The Pass-Shrines]] · [[affiliation-osketguides|The Ösket]] · [[place-slvrgorges|The Silver Gorges]]
 - [[place-oskhelt|Öskhelt]]—the Ösket village four days above the city
