@@ -2,7 +2,7 @@
 shortcode: sagaskrildmyl
 name: {full: Saga of Skrildmýl Stormborn, aliases: []}
 type: lore
-subType: theology
+subType: literature
 description: "An attributed Nordmen hero saga of the winter journey to Thrumufjall and the clearing of the storms."
 tags: [asguardian, nordlands, heroes-of-asguard]
 data: {packFolder: nordlands}

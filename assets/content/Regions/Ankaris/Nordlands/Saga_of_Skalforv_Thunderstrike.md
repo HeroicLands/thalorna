@@ -2,7 +2,7 @@
 shortcode: sagaskalforv
 name: {full: Saga of Skalforv Thunderstrike, aliases: []}
 type: lore
-subType: theology
+subType: literature
 description: "An attributed Nordmen hero saga of Skalforv’s four-day battle with Heimsormr and return to the threatened coast."
 tags: [asguardian, nordlands, heroes-of-asguard]
 data: {packFolder: nordlands}
