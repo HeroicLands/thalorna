@@ -446,7 +446,7 @@ His readings indicated that this event was tied to the fate of the **Court of th
 
 ### The Gar-Aû’s Response
 
-Amqelet-Zelemu presented his findings to [[being-garaumeqesxv|Gar-Aû Meqes XVI]], who ruled the empire from the capital city of [[place-galezkara|Galezkara]]. The Gar-Aû was a practical man, but he had learned to trust the warnings of astrologers. Yet, the ambiguity of Amqelet-Zelemu’s predictions frustrated the court. While some powerful lords demanded immediate action, others dismissed it as a misreading of the stars.
+Amqelet-Zelemu presented his findings to [[being-garaumeqesxv|Gar-Aû Meqes XVI]], who ruled the empire from the capital city of [[place-galezkara|Galezkara]]. The Gar-Aû was a practical woman, but she had learned to trust the warnings of astrologers. Yet, the ambiguity of Amqelet-Zelemu’s predictions frustrated the court. While some powerful lords demanded immediate action, others dismissed it as a misreading of the stars.
 
 Faced with skepticism from the court and the increasing pressure of the imperial council, Amqelet-Zelemu decided he could no longer wait for the empire’s leaders to act. His readings indicated that the truth behind the Convergence could only be found by traveling to key sacred sites scattered throughout the empire, where ancient celestial knowledge was hidden.
 

@@ -182,7 +182,7 @@ The loans are overwhelmingly **concrete nouns**, and they pile up exactly where 
 |                        | _zethu_                     | an official document, the writ    | Khelâthi _sš_, "scribe/writing"                                                                   |
 | Commerce & the sea     | _en-meret_                  | quay, the harbor-front            | Khelâthi _mryt_, "quay"                                                                           |
 |                        | _makhzen_                   | bonded warehouse, store           | cf. the same root behind _almacén_                                                                |
-| Calendar & measure     | _renpet_                    | year (in era-reckoning)           | as in _Renpet Qet Telgu_                                                                          |
+| Calendar & measure     | _selkûr_                    | year (in era-reckoning)           | Khelâthi _selqur_, as in _Selqur Qet Telgu_                                                       |
 |                        | _Azlet, Gelet, Shelu_       | the three seasons                 | the Khelâthi agricultural year                                                                    |
 | Faith & divination     | _makhat_                    | the scales; the oracular weighing | Khelâthi _mḫat_, "balance"; tied to the [[affiliation-arldnpnthn\|Aethérían]] oracle's "weighing" |
 | Luxury & material      | _shemen_                    | fragrant oil, unguent             | a trade-good loan                                                                                 |

@@ -49,7 +49,7 @@ data:
       Keeper of the Inner Sanctuary: >-
         Only the Thâz'Lekhau of Uqa'â and the Gar-Aû may enter the small, dark, ancient sanctuary at the heart of the Great Temple, where the god's image dwells.
       Warden of the Binding: >-
-        Maintains the wards the priesthood set on the cursed Way of the False Uqa'â, whose death-magic was sealed into the tomb with him. The order is unchanged in six centuries and has never been relaxed: any soul seen seeking the cursed road is killed where they stand.
+        Maintains the wards the priesthood set on the cursed Way of the False Uqa'â, whose death-magic was sealed into the tomb with him. The order is unchanged in four and a half centuries and has never been relaxed: any soul seen seeking the cursed road is killed where they stand.
       Bearer of the God's Image: >-
         On the high festivals the image of Uqa'â is borne in procession down the Sun's Road—the monumental avenue lined with sphinxes and ram-statues—and across the water to the island on its stone causeways.
       Keeper of the Solstice Rites: >-
