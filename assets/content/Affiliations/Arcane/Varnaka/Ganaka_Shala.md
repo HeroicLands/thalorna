@@ -51,7 +51,7 @@ data:
       Reckoner of the Weighing: >-
         Attends the gold-weighing at Suvarnagiri, checks the beam and the weights against the college's constants, and signs the assay.
       Tide-reader: >-
-        Publishes the harbour tables the coastal polities' pilots work from, revised each season.
+        Publishes the harbor tables the coastal polities' pilots work from, revised each season.
   seat: chandrapur2
   domains: []
   population: null
@@ -83,9 +83,11 @@ sohl:
 - **Pronunciation:** _GAH-nah-kah SHAH-lah_
 - **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
+"State your method before you state your figure," the examiner tells the candidate at the slate in the open hall at [[place-chandrapur2|Chandrapur]]. "The college stands behind a figure for as long as it names the method that produced it, and not a day longer."
+
 The **Ganaka-shala** is the college the Vedyari mathematicians and astronomers come out of. Every court between the wall and the southern sea keeps a **Ganaka** to fix its auspicious hours, and almost every one of them was examined in the hall at [[place-chandrapur2|Chandrapur]] before he was hired.
 
-What the college does is compute rather than observe. It holds the tables, and the tables are the point: an ephemeris carried forward by calculation, tide-tables for every harbour of consequence, and the assay constants the gold-weighing at [[place-suvarnagiri|Suvarnagiri]] is checked against. A figure the college has published is a figure a court can be held to, and a court that has been held to one has generally paid for it.
+What the college does is compute rather than observe. It holds the tables, and the tables are the point: an ephemeris carried forward by calculation, tide-tables for every harbor of consequence, and the assay constants the gold-weighing at [[place-suvarnagiri|Suvarnagiri]] is checked against. A figure the college has published is a figure a court can be held to, and a court that has been held to one has generally paid for it.
 
 The work is written in the mathematical and astronomical notation that is taught beside the [[skill-vdykshrscrpt|Vedyákshara]] and is unreadable without it. That is not secrecy and the college does not pretend it is. It is simply that a page of the tables conveys nothing whatever to a literate person who never learned the notation, which is most literate people, and the college has never felt any pressure to fix this.
 
@@ -97,7 +99,7 @@ A single day is enough to move a Weighing, a coronation or a festival, and neith
 
 ### Who Is Admitted
 
-The college examines in open hall and publishes the question with the answer. It takes a candidate on what he computes and not on his wrist-line, and it has held to that for long enough that the practice is no longer argued about—only worked around. A Karmāja who passes the boards is a Ganaka, and a court that will not seat a man of the serving order hires him through a Dhanāja merchant instead and pays both.
+The college examines in open hall and publishes the question with the answer. It takes a candidate on what he computes and not on his wrist-line, and it has held to that for long enough that the practice is no longer argued about—only worked around. A Karmāja who passes the boards is a Ganaka, and a court that will not seat a Karmāja hires him through a Dhanāja merchant instead and pays both.
 
 ### What It Will Not Do
 

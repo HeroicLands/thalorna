@@ -16,7 +16,7 @@ He is patron of the scholar bent over a manuscript and of the soldier who must t
 
 His sun is the interior one, the steady light by which a page can be read at any hour. It neither ripens [[affiliation-mahajaya|Mahájaya]]'s grain nor drives [[affiliation-meghanatha|Meghanātha]]'s storms off the peaks.
 
-A household that keeps him leaves the open book on its reading-stand from dawn to dusk. Every scholar and every soldier wears a sun-medallion, a small golden disc. It is touched before an examination and before a battle alike, because both are hours when clear thought outweighs strength.
+A household that keeps him leaves the open book on its reading-stand from dawn to dusk. Scholars and teachers wear a sun-medallion, a small golden disc. Students touch it before an examination and warriors before a battle, because both are hours when clear thought outweighs strength.
 
 [[place-suryashkhr|Sūryashikhara]] is the peak the dawn strikes first along the whole of the Southern Wall, and the older mountain reckoning gives it to him. The herders who keep that reckoning say the summit lit while the valley still stands in shadow is his shape written on the land.
 

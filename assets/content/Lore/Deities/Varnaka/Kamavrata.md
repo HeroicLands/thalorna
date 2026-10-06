@@ -18,4 +18,4 @@ A floral garland hangs on his households' doorposts, fresh through spring and su
 
 His clergy carry the sugarcane bow and the flower-arrow at festival, and neither is a weapon. The theology notes that desire, like an arrow, still lands somewhere.
 
-He is the most widely loved of the ten and the one whose temples ask least. His shrines cluster at gardens and rivers, his festivals are the year's most popular, and his clergy are famous for turning no one away. Many Vedyarans who would not call themselves Kāmavratan keep one of his festivals anyway. A god who asks so little, they say, should not be refused the little he asks.
+He is the most widely loved of the ten and the one whose temples ask least. His shrines cluster at gardens and rivers, his festivals are the year's most popular, and his clergy are known for turning no one away. Many Vedyarans who would not call themselves Kāmavratan keep one of his festivals anyway. A god who asks so little, they say, should not be refused the little he asks.

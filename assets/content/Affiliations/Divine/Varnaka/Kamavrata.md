@@ -52,31 +52,26 @@ sohl: {system: {commonSkills: [kamavrata, sohl-sohl-skill-sing, sohl-sohl-skill-
 - **Pronunciation:** _KAH-mah-vrah-tah_
 - **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
-Kāmavrata is the god of desire and of the creative joy that issues from it. He is the patron of lovers, of the newly married and of those hoping for a child. He is patron also of poetry, music, dance, sculpture, the preparation of scented oils and the keeping of gardens, the arts by which the beauty of the world is brought out and celebrated.
+"Sit down. Nobody here will ask you what you believe." The gardener-priest of a Kāmavratan temple says this to the nervous young groom who has come to buy the garlands for his wedding, and puts a clipping from the lotus pond in his hand before he can answer. It is a fair introduction to the cult. Kāmavrata is the most widely loved god in [[place-vedyarargn|Vedyara Region]], his shrines stand near gardens and rivers, and his festivals are among the most popular of the year. The clergy are famous for their welcome, and many people who would not call themselves Kāmavratan keep one of his festivals anyway.
 
-The pantheon's theology makes his work the counterpart of [[affiliation-vyalendra|Vyālendra]]'s. Vyālendra gives the world its form and Kāmavrata gives it its delight.
+He is the patron of lovers, the newly married and those hoping for a child, and also of poetry, music, dance, sculpture, the preparation of scented oils and the keeping of gardens. Where [[affiliation-vyalendra|Vyālendra]] gives the world its form, Kāmavrata gives it its delight.
 
-The Kāmavratan tradition is widely loved throughout [[place-vedyarargn|Vedyara Region]]. His shrines stand near gardens and rivers, and his festivals are among the most popular of the year. The clergy are famously welcoming, and many who would not call themselves Varnakan keep one of his festivals anyway.
+### What You See at His Temples
 
-### Aspects
+The image is a youthful figure of great beauty, garlanded with flowers, holding a lotus and playing a stringed instrument. His bow is a bow of sugarcane, and his arrows are the five arrows of desire, each fletched with a different flower. His colors are the rose of dawn and the deep green of the flowering garden.
 
-Kāmavrata is depicted as a youthful figure of great beauty, garlanded with flowers, holding a lotus and playing a stringed instrument. His bow is a bow of sugarcane, and his arrows are the five arrows of desire, each fletched with a different flower. His color is the rose of dawn and the deep green of the flowering garden.
+Three objects carry the cult. The **floral garland** is worn by the clergy, offered to images of the god, and placed on the shoulders of newly married couples. **Scented oil** is consecrated in the temple and used in the rites of marriage and of prayer for conception. The **sugarcane bow and flower-arrow** are a ceremonial instrument, carried at festivals.
 
-### Sacred Objects
+### What the Devout Do
 
-- **Floral garland**—worn by clergy, offered to images of the god, and placed on the shoulders of newly-married couples
-- **Scented oil**—consecrated in the temple and used in the rites of marriage and of prayer for conception
-- **Sugarcane bow and flower-arrow**—a ceremonial instrument used in festivals
-
-### Veneration
-
-Kāmavratan households hang fresh garlands on the doorpost each morning through spring and summer, and dried flowers in the dry season. Newly-weds anoint one another with a drop of consecrated oil on the wedding night and on each anniversary after. Couples hoping for a child walk a temple garden together at dusk for seven evenings, the woman carrying a single lotus blossom. The household shrine carries whatever small beauties the house can afford, a painted tile, a polished river-stone, a scrap of embroidered silk. Any care taken for the beautiful honors the god.
+Households hang fresh garlands on the doorpost each morning through spring and summer, and dried flowers in the dry season. Newlyweds anoint one another with a drop of consecrated oil on the wedding night and on each anniversary after. A couple hoping for a child walks a temple garden together at dusk for seven evenings, the woman carrying a single lotus blossom. The household shrine holds whatever small beauties the house can afford: a painted tile, a polished river-stone, a scrap of embroidered silk. Any care taken for the beautiful honors the god.
 
 ### Ordeals for Favor
 
-- **The Garden Year**—a year spent tending a temple garden from first planting to final harvest; undertaken by devotees seeking deeper mysteries.
-- **The Silent Flute**—an ordeal in which the devotee lives a year by playing their instrument for whoever requests it, accepting only what food and shelter the listeners freely give.
+- **The Garden Year**—a year spent tending a temple garden from first planting to final harvest, undertaken by devotees seeking deeper mysteries.
+- **The Silent Flute**—a year lived by playing an instrument for whoever requests it, accepting only the food and shelter the listeners freely give.
 
 ### See Also
 
 - [[affiliation-varakpnthn|Varnaka Pantheon]]
+- [[lore-kamavratadty|Kāmavrata]]—the god, and the theology of desire and delight

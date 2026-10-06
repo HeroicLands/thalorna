@@ -79,49 +79,41 @@ sohl:
 - **Pronunciation:** _SWAP-nah-SAH-ree sa-MAH-jah_
 - **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
-The **Svapnasāri-samāja** is a small, respected mystical sect centered on the [[affiliation-svapnadevas|Svapnadēvas]], the Dreaming Host. Through the Host, the sect holds, the dream-power of [[lore-goddreams|The God of Dreams]] reaches the world, and the greater deity is never named directly in its rites. Its members are the oneiromancers and the keepers of the dream-registers. Vedyaran rulers, generals and merchants turn to them when a question has passed beyond what ordinary counsel can settle.
+"You will sleep here tonight, in the long room with the others, and in the morning you tell a Darshaka what you saw. Tell it exactly. Do not tidy it." A **Nidrāpāla** (Keeper of Sleep) says this to a petitioner at the monastery door, an hour before dusk, while the shutters of the dream-chamber are drawn against the last of the light. He will sit up through the night with the sleepers.
 
-The Samāja's temples stand at a remove from civic life: a monastery in the uplands, a tower at the edge of the desert, a walled compound in the quietest quarter of a city. Its priests keep their own hours and often their own silence, and it is a small body beside the Trimūrti-sampradāya. Its counsel carries weight all the same, and few Vedyaran courts lack a Dream-reader trained at a Samāja monastery.
+The **Svapnasāri-samāja** is a small, respected mystical sect centered on the [[affiliation-svapnadevas|Svapnadēvas]], the Dreaming Host. Through the Host, the sect holds, the dream-power of [[lore-goddreams|The God of Dreams]] reaches the world, and the greater deity is never named directly in its rites. Its members are the oneiromancers and the keepers of the dream-registers. Vedyaran rulers, generals and merchants turn to them when a question has passed beyond what ordinary counsel can settle, and few Vedyaran courts lack a Dream-reader trained at a Samāja monastery.
 
-The sect's relationship with the orthodox Trimūrti-sampradāya is cautious but cooperative. The orthodox hierarchy does not contest the Samāja's expertise on dreams, and the Samāja does not contest the orthodox hierarchy's authority over public religion. Both traditions recognize that the other has work they could not do themselves.
+### Where You Find It
+
+The Samāja's temples stand at a remove from civic life: a monastery in the uplands, a tower at the edge of the desert, a walled compound in the quietest quarter of a city. The priests keep their own hours and often their own silence. The sect is small beside the Trimūrti-sampradāya, and its counsel carries weight all the same.
+
+Its relationship with the orthodox [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]] is cautious but cooperative. The orthodox hierarchy does not contest the Samāja's expertise on dreams, and the Samāja does not contest the orthodox hierarchy's authority over public religion. Each tradition has work the other could not do.
 
 ### Clergy
 
-- **Svapna-Ácārya** ("Master of Dreams")—the senior priest of a Samāja monastery or temple; almost always a proven oneiromancer of many years' standing.
-- **Darshaka** ("Seer")—the working priesthood; trained in dream-reading, meditation, and the careful recording of the dreams brought by the faithful.
-- **Nidrāpāla** ("Keeper of Sleep")—acolytes who attend the dream-chambers of the monastery and keep watch over sleeping petitioners.
+A **Nidrāpāla** is an acolyte who attends the dream-chambers of the monastery and keeps watch over sleeping petitioners. A **Darshaka** ("Seer") is the working priesthood, trained in dream-reading, meditation and the careful recording of the dreams brought by the faithful. A **Svapna-Ácārya** ("Master of Dreams") is the senior priest of a Samāja monastery or temple, almost always a proven oneiromancer of many years' standing.
 
 **Key Skills:** Trance, Astrology, Folklore, Herblore, Physician, Empathy, Singing
 
-### Ceremonies and Festivals
+### Rites and Festivals
 
-**Low Ceremonies:**
+The **Dawn Recitation** is a daily rite in which dreamers who slept at the monastery tell their dreams to a Darshaka, who records the substance and offers an initial reading. The **Dream-Stone Blessing** is performed for petitioners who wish to take a consecrated dream-stone home.
 
-- **The Dawn Recitation**—a daily rite in which dreamers who have slept at the monastery recount their dreams to a Darshaka, who records the substance and offers an initial reading.
-- **The Dream-Stone Blessing**—performed for petitioners who wish to take a consecrated dream-stone home with them.
+The **Great Vigil** is a formal dream-vigil of three nights, undertaken by a petitioner or by a council seeking prophetic guidance on a great question. The Svapna-Ácārya attends, and the dreams of everyone present are pooled and read together. The **Interpretation of Omens** follows a vigil, sometimes days or weeks later: the accumulated dreams are interpreted as a coherent body, and a formal statement is issued to the petitioner.
 
-**High Ceremonies:**
-
-- **The Great Vigil**—a formal dream-vigil of three nights, undertaken by a petitioner or by a council seeking prophetic guidance on a great question. The Svapna-Ácārya attends, and the dreams of all present are pooled and read together.
-- **The Interpretation of Omens**—performed after a dream-vigil, sometimes days or weeks later; the accumulated dreams are interpreted as a coherent body, and a formal statement is issued to the petitioner.
-
-**Festivals:**
-
-- **The Night of Silver**—observed at the full moon nearest the autumn equinox; dreamers gather at the monastery to keep a communal vigil under the moon.
-- **The Festival of the Quiet Mind**—a minor summer festival; the monastery's meditation gardens are opened to the public, and instruction in the stilling arts is offered without fee.
+The **Night of Silver** falls at the full moon nearest the autumn equinox, when dreamers gather at the monastery to keep a communal vigil under the moon. The **Festival of the Quiet Mind** is a minor summer festival, when the monastery's meditation gardens are opened to the public and instruction in the stilling arts is offered without fee.
 
 ### Ordeals for Favor
 
 - **The Seven-Night Vigil**—seven consecutive nights of dream-vigil, during which the aspirant sleeps lightly in the monastery chamber and reports each morning on the night's dreams. Few aspirants complete it without the intervention of a Darshaka.
-- **The Mirror Year**—a year spent serving in a monastery's divination chamber, reading the silver mirror for all petitioners who come, without refusing a reading and without accepting fee.
+- **The Mirror Year**—a year spent serving in a monastery's divination chamber, reading the silver mirror for every petitioner who comes, without refusing a reading and without accepting a fee.
 
 ### Orders
 
-- **Order of the Crescent**—an itinerant order of Darshakas who travel the Vedyaran cities, offering dream-readings and prophetic counsel to those who cannot afford the monastery's fees.
-- **Council of the Dream**—a senior council of oneiromancers who adjudicate disputed readings, maintain the great dream-registers of the tradition, and advise on matters that pass from dream into consequential civic decision.
+The **Order of the Crescent** is an itinerant order of Darshakas who travel the Vedyaran cities, offering dream-readings and prophetic counsel to those who cannot afford the monastery's fees. The **Council of the Dream** is a senior council of oneiromancers who adjudicate disputed readings, maintain the great dream-registers of the tradition, and advise on matters that pass from dream into consequential civic decision. It is the council that condemned the [[affiliation-chayavrata|Chaya-vrata]], the dream-line that turned the Host's reach on people who never asked for it.
 
 ### Geographic Presence
 
-Established Samāja monasteries are found in the northwest of [[place-vedyarargn|Vedyara Region]], where the [[place-graznmntns|Grazian]] wall runs down into the desert-margin of the [[place-dunharargn|Dunhara]]: in the broken uplands there, at a handful of edge-towns along the march road, and one at a Pass-Shrine on the westernmost of the crossings. The rest stand in the quiet quarters of the oldest cities. Every major city has at least one Samāja-trained Darshaka in civic residence, often attached to a royal or noble household.
+Established Samāja monasteries sit in the northwest of [[place-vedyarargn|Vedyara Region]], where the [[place-graznmntns|Grazian]] wall runs down into the desert margin of the [[place-dunharargn|Dunhara]]: in the broken uplands there, at a handful of edge-towns along the march road, and at one Pass-Shrine on the westernmost of the crossings. The rest stand in the quiet quarters of the oldest cities. Every major city has at least one Samāja-trained Darshaka in civic residence, often attached to a royal or noble household.
 
-The march suits the sect. It is the one part of the subcontinent where the orthodox hierarchy's public religion sits lightly, the traffic is caravan traffic that comes and goes, and a monastery can keep its own hours without anyone in a capital taking an interest.
+The march suits the sect. It is the one part of the subcontinent where the orthodox hierarchy's public religion sits lightly and the traffic is caravan traffic that comes and goes, so a monastery can keep its own hours without anyone in a capital taking an interest.
