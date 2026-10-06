@@ -185,8 +185,8 @@ with the Order of the Burning Brand.
 Provènzia is [[affiliation-arldnpnthn|Aurèldían]], and Zûravlen's devotion falls naturally to two of
 the Twelve: [[affiliation-venusia|Vénusia]], the Bountiful One, whose symbol is a tree hung with
 golden fruit and who is honored at harvest with the first-picked basket of every orchard; and
-[[affiliation-florania|Flórania]], the Nurturer, who owns the blossom and the vigil. A Zûravlen
-will tell you the two goddesses divide the year between them, and that Vénusia gets the credit for what
+[[affiliation-florania|Flórania]], the Nurturer, who owns the blossom and the vigil. The Zûravlen
+hold that the two goddesses divide the year between them, and that Vénusia gets the credit for what
 Flórania saved.
 
 Portvent keeps its own observances, which are for the weather and the sea and are not much discussed

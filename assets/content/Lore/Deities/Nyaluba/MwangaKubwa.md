@@ -17,8 +17,8 @@ tradition gives to the ultimate horizon of being, and not a party to any pact. A
 life is directed at the spirit guides beneath it—see [[lore-nyalbsprts|Nyáluba Spirits]] and
 [[affiliation-nyalbpnthn|the Nyáluba Way]].
 
-The Nyáluba recognize no supreme god, and would not accept that this is one. Asked directly, a
-griot will say that Mwánga-Kúbwa is where the guides came from, and that it is not the sort of
+The Nyáluba recognize no supreme god, and would not accept that this is one. The
+griots say that Mwánga-Kúbwa is where the guides came from, and that it is not the sort of
 thing one talks to.
 
 TBD—the griot cosmogonies, and how the Bombwe and Ngonzi accounts of the Brightness differ.

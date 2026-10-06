@@ -68,7 +68,7 @@ The Vúlcani Schism is the faith's great fracture. Five centuries ago the clergy
 
 ## Politics and Power
 
-Aurèldía has no emperor, no paramount king, no unified church-state. What it has is an intricate web of sovereign polities bound by shared faith, dynastic intermarriage, common legal traditions descended loosely from old Vylarian law, and the constant low-level friction of competing ambitions. A Tarvénan knight, a Provenzian merchant, and an Aelwythan bard would recognize each other instantly as fellow Aurèldíans—and might still go to war the following season.
+Aurèldía has no emperor, no paramount king, no unified church-state. What it has is an intricate web of sovereign polities bound by shared faith, dynastic intermarriage, common legal traditions descended loosely from old Vylarian law, and the constant low-level friction of competing ambitions. A Tarvénan knight, a Provenzian merchant, and an Aelwythan bard are instantly recognizable to one another as fellow Aurèldíans—and might still go to war the following season.
 
 The major powers of the region are:
 
