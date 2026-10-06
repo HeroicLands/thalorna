@@ -3,7 +3,7 @@ shortcode: melaground
 name: {full: The Mela Ground, aliases: [The Mela ground]}
 type: place
 subType: site
-description: "The plain at the Mahānadi's great confluence, empty for eleven years in twelve and holding a quarter of a million people in the twelfth."
+description: "The plain at the Mahānadī's great confluence, empty for eleven years in twelve and holding a quarter of a million people in the twelfth."
 tags: [sacred, river, pilgrimage, inland]
 data:
   demonym: null
@@ -13,7 +13,7 @@ data:
   packFolder: vedyara
 ---
 
-The **Mela Ground** is the plain where [[place-mahanadi|the Mahānadi]] takes its greatest tributary, and it is where the [[affiliation-janpdsvdyr|janapadas of Vedyara]] hold their twelve-yearly assembly. The ground is flat, broad and dry for eleven months of the year. Nobody lives on it. Between assemblies it carries one temple, [[place-sangama|Sangama]], a landing, and a great deal of grass.
+The **Mela Ground** is the plain where [[place-mahanadi|the Mahānadī]] takes its greatest tributary, and it is where the [[affiliation-janpdsvdyr|janapadas of Vedyara]] hold their twelve-yearly assembly. The ground is flat, broad and dry for eleven months of the year. Nobody lives on it. Between assemblies it carries one temple, [[place-sangama|Sangama]], a landing, and a great deal of grass.
 
 ## The Assembly
 
@@ -23,7 +23,7 @@ A quarter of a million people stand on the ground at the height of it. They come
 
 ## The River Decides
 
-The Mahānadi has changed its course four times within written record, and its behavior in the season before a Mela decides where on the plain the Mela can be held. The lanes, the camping grounds and the bathing places are laid out afresh each time by the temple, working from the previous assembly's survey and from whatever the last flood left.
+The Mahānadī has changed its course four times within written record, and its behavior in the season before a Mela decides where on the plain the Mela can be held. The lanes, the camping grounds and the bathing places are laid out afresh each time by the temple, working from the previous assembly's survey and from whatever the last flood left.
 
 The work takes the better part of two years and is the standing occupation of the temple between assemblies. "You do not inherit the Mela ground," a priest of Sangama tells a newcomer to the survey; "you measure it again."
 
@@ -33,6 +33,6 @@ Pilgrims come in the eleven intervening years as well, in ones and twenties rath
 
 ## See Also
 
-- [[place-mahanadi|The Mahānadi]] · [[place-vedyarargn|Vedyara Region]]
+- [[place-mahanadi|The Mahānadī]] · [[place-vedyarargn|Vedyara Region]]
 - [[place-sangama|Sangama]]—the temple on the ground
 - [[affiliation-janpdsvdyr|Janapadas of Vedyara]]—the confederation that meets here

@@ -95,7 +95,7 @@ What Tānvür did afterward is a matter of record. Its frontier officers have re
 
 ## The Quarrel It Left
 
-[[affiliation-vindhyalay|Vindhyālaya]] holds that the whole northern frontier is the kingdom's to watch, and reads the fort as ground held inside it by a body with no business holding any. The kingdom raises the point at every Mela and has never done more than raise it. The one armed force ever to come over the wall came by the conch-door, which the kingdom does not hold.
+[[affiliation-vindhyalay|Shikharālaya]] holds that the whole northern frontier is the kingdom's to watch, and reads the fort as ground held inside it by a body with no business holding any. The kingdom raises the point at every Mela and has never done more than raise it. The one armed force ever to come over the wall came by the conch-door, which the kingdom does not hold.
 
 ## See Also
 

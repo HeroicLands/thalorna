@@ -39,11 +39,11 @@ data:
         description: >-
           "Seer"—the working priesthood, trained in dream-reading, meditation, and the careful recording of the dreams brought by the faithful.
       - level: 4
-        title: Svapna-Ácārya
+        title: Svapna-Āchārya
         description: >-
           "Master of Dreams"—senior priest of a monastery or temple; almost always a proven oneiromancer of many years' standing.
     offices:
-      Svapna-Ácārya: >-
+      Svapna-Āchārya: >-
         "Master of Dreams"—senior priest of a monastery or temple; almost always a proven oneiromancer of many years' standing.
       Darshaka: >-
         "Seer"—the working priesthood, trained in dream-reading, meditation, and the careful recording of the dreams brought by the faithful.
@@ -74,24 +74,24 @@ sohl:
 ## Svapnasāri-samāja—The Assembly of the Dream-Followers
 
 - **Tradition:** **Svapnasāri-samāja**—_The Assembly of the Dream-Followers_
-- **Deities Venerated:** [[affiliation-svapnadevas|Svapnadēvas]] (the [[affiliation-svapnadevas|Dreaming Host]]) as primary; through them, the elder [[lore-goddreams|The God of Dreams]] is revered but not named; [[affiliation-kalavrata|Kālavrata]] honored as a companion presence, since the dead and the dream share the threshold
+- **Deities Venerated:** [[affiliation-svapnadevas|Svapnadevas]] (the [[affiliation-svapnadevas|Dreaming Host]]) as primary; through them, the elder [[lore-goddreams|The God of Dreams]] is revered but not named; [[affiliation-kalavrata|Kālavrata]] honored as a companion presence, since the dead and the dream share the threshold
 - **Emphasis:** Mystical, contemplative, minority sect; oneiromancy, visionary counsel, healing of disturbed minds
 - **Pronunciation:** _SWAP-nah-SAH-ree sa-MAH-jah_
 - **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
 "You will sleep here tonight, in the long room with the others, and in the morning you tell a **Darshaka** what you saw. Tell it exactly. Do not tidy it." A **Nidrāpāla** (Keeper of Sleep) says this to a petitioner at the monastery door, an hour before dusk, while the shutters of the dream-chamber are drawn against the last of the light. He will sit up through the night with the sleepers.
 
-The Svapnasāri-samāja is a small, respected mystical sect centered on the [[affiliation-svapnadevas|Svapnadēvas]], the Dreaming Host. Through the Host, the sect holds, the dream-power of [[lore-goddreams|The God of Dreams]] reaches the world, and the greater deity is never named directly in its rites. Its members are the oneiromancers and the keepers of the dream-registers. Vedyaran rulers, generals and merchants turn to them when a question has passed beyond what ordinary counsel can settle, and few Vedyaran courts lack a Dream-reader trained at a Samāja monastery.
+The Svapnasāri-samāja is a small, respected mystical sect centered on the [[affiliation-svapnadevas|Svapnadevas]], the Dreaming Host. Through the Host, the sect holds, the dream-power of [[lore-goddreams|The God of Dreams]] reaches the world, and the greater deity is never named directly in its rites. Its members are the oneiromancers and the keepers of the dream-registers. Vedyaran rulers, generals and merchants turn to them when a question has passed beyond what ordinary counsel can settle, and few Vedyaran courts lack a Dream-reader trained at a Samāja monastery.
 
 ### Where You Find It
 
-The Samāja's temples stand at a remove from civic life: a monastery in the uplands, a tower at the edge of the desert, a walled compound in the quietest quarter of a city. The priests keep their own hours and often their own silence. The sect is small beside the [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]], and its counsel carries weight all the same.
+The Samāja's temples stand at a remove from civic life: a monastery in the uplands, a tower at the edge of the desert, a walled compound in the quietest quarter of a city. The priests keep their own hours and often their own silence. The sect is small beside the [[affiliation-trimurtisampradaya|Triyanga-sampradāya]], and its counsel carries weight all the same.
 
-Its relationship with the orthodox [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]] is cautious but cooperative. The orthodox hierarchy does not contest the Samāja's expertise on dreams, and the Samāja does not contest the orthodox hierarchy's authority over public religion. Each tradition has work the other could not do.
+Its relationship with the orthodox [[affiliation-trimurtisampradaya|Triyanga-sampradāya]] is cautious but cooperative. The orthodox hierarchy does not contest the Samāja's expertise on dreams, and the Samāja does not contest the orthodox hierarchy's authority over public religion. Each tradition has work the other could not do.
 
 ### Clergy
 
-A Nidrāpāla is an acolyte who attends the dream-chambers of the monastery and keeps watch over sleeping petitioners. A Darshaka ("Seer") is the working priesthood, trained in dream-reading, meditation and the careful recording of the dreams brought by the faithful. A **Svapna-Ácārya** ("Master of Dreams") is the senior priest of a Samāja monastery or temple, almost always a proven oneiromancer of many years' standing.
+A Nidrāpāla is an acolyte who attends the dream-chambers of the monastery and keeps watch over sleeping petitioners. A Darshaka ("Seer") is the working priesthood, trained in dream-reading, meditation and the careful recording of the dreams brought by the faithful. A **Svapna-Āchārya** ("Master of Dreams") is the senior priest of a Samāja monastery or temple, almost always a proven oneiromancer of many years' standing.
 
 **Key Skills:** Trance, Astrology, Folklore, Herblore, Physician, Empathy, Singing
 
@@ -99,7 +99,7 @@ A Nidrāpāla is an acolyte who attends the dream-chambers of the monastery and 
 
 The **Dawn Recitation** is a daily rite in which dreamers who slept at the monastery tell their dreams to a Darshaka, who records the substance and offers an initial reading. The **Dream-Stone Blessing** is performed for petitioners who wish to take a consecrated dream-stone home.
 
-The **Great Vigil** is a formal dream-vigil of three nights, undertaken by a petitioner or by a council seeking prophetic guidance on a great question. The Svapna-Ácārya attends, and the dreams of everyone present are pooled and read together. The **Interpretation of Omens** follows a vigil, sometimes days or weeks later: the accumulated dreams are interpreted as a coherent body, and a formal statement is issued to the petitioner.
+The **Great Vigil** is a formal dream-vigil of three nights, undertaken by a petitioner or by a council seeking prophetic guidance on a great question. The Svapna-Āchārya attends, and the dreams of everyone present are pooled and read together. The **Interpretation of Omens** follows a vigil, sometimes days or weeks later: the accumulated dreams are interpreted as a coherent body, and a formal statement is issued to the petitioner.
 
 The **Night of Silver** falls at the full moon nearest the autumn equinox, when dreamers gather at the monastery to keep a communal vigil under the moon. The **Festival of the Quiet Mind** is a minor summer festival, when the monastery's meditation gardens are opened to the public and instruction in the stilling arts is offered without fee.
 

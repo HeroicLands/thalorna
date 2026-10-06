@@ -22,7 +22,7 @@ Nothing else about the room is unusual. It is cold, which a stone cellar is; it 
 
 The kingdom-period originals: the dynastic chronicle in the hand it was first written in, the treaties with polities that no longer exist, and the dissolution decree itself, which is read out once a year at the Day of the Dissolution and returned to the room the same evening.
 
-It also holds the correspondence shelf, which is where [[being-anrjhrdvmbjkr|Anûraja Harshadēvāmbujakar]]'s letters about further dissolutions are kept, because the room is the driest in the complex and for no other reason.
+It also holds the correspondence shelf, which is where [[being-anrjhrdvmbjkr|Anurāja Harshadevāmbujakar]]'s letters about further dissolutions are kept, because the room is the driest in the complex and for no other reason.
 
 The keeper who knows the room's virtue to a day has never had occasion to think about the wall. It is the north wall, it is cold, and the leaves last. Visiting scholars are told which room the originals are in and are not told why.
 

@@ -13,7 +13,7 @@ data:
   packFolder: vedyara
 ---
 
-**Sangama** (confluence) is the temple on [[place-melaground|the Mela Ground]], and the only building of any consequence on it. It stands above the highest water the Mahānadi has reached in written record, on a mound raised higher still, and it is the one thing on the plain that does not have to be laid out again after a flood.
+**Sangama** (confluence) is the temple on [[place-melaground|the Mela Ground]], and the only building of any consequence on it. It stands above the highest water the Mahānadī has reached in written record, on a mound raised higher still, and it is the one thing on the plain that does not have to be laid out again after a flood.
 
 ## The Sabhāpati
 
@@ -29,10 +29,10 @@ The roll is also the standing argument. Which circuit a border janapada belongs 
 
 ## The Council of Three
 
-Sangama's senior priest is one of the three whose informal consultations are called the Council of Three, with the senior priests of the Sūrya temple at the source of [[place-chandrmahi|the Chandramahī]] and of the great Mahájaya temple at [[place-bharanya|Bharanya]]. A joint pronouncement of the three on a matter before the confederation carries near-universal weight. It works as an executive committee, and the priests deny that it is one.
+Sangama's senior priest is one of the three whose informal consultations are called the Council of Three, with the senior priests of the Sūrya temple at the source of [[place-chandrmahi|the Chandramahī]] and of the great Mahājaya temple at [[place-bharanya|Bharanya]]. A joint pronouncement of the three on a matter before the confederation carries near-universal weight. It works as an executive committee, and the priests deny that it is one.
 
 ## See Also
 
-- [[place-melaground|The Mela Ground]] · [[place-mahanadi|The Mahānadi]]
+- [[place-melaground|The Mela Ground]] · [[place-mahanadi|The Mahānadī]]
 - [[affiliation-janpdsvdyr|Janapadas of Vedyara]]—the confederation it convenes
-- [[place-bharanya|Bharanya]]—the Mahájaya temple of the Council of Three
+- [[place-bharanya|Bharanya]]—the Mahājaya temple of the Council of Three

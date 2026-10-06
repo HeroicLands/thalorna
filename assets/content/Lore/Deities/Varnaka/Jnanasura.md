@@ -14,12 +14,12 @@ _[[affiliation-jnanasura|The Radiant Sage]]—an open book blazing with the ligh
 
 He is patron of the scholar bent over a manuscript and of the soldier who must think clearly in the half-second before a blow lands. His worshippers count the two moments of clarity as one.
 
-His sun is the interior one, the steady light by which a page can be read at any hour. It neither ripens [[affiliation-mahajaya|Mahájaya]]'s grain nor drives [[affiliation-meghanatha|Meghanātha]]'s storms off the peaks.
+His sun is the interior one, the steady light by which a page can be read at any hour. It neither ripens [[affiliation-mahajaya|Mahājaya]]'s grain nor drives [[affiliation-meghanatha|Meghanātha]]'s storms off the peaks.
 
 A household that keeps him leaves the open book on its reading-stand from dawn to dusk. Scholars and teachers wear a sun-medallion, a small golden disc. Students touch it before an examination and warriors before a battle, because both are hours when clear thought outweighs strength.
 
 [[place-suryashkhr|Sūryashikhara]] is the peak the dawn strikes first along the whole of the [[place-sthrnwall|Southern Wall]], and the older mountain reckoning gives it to him. The herders who keep that reckoning say the summit lit while the valley still stands in shadow is his shape written on the land.
 
-The [[place-suryatempl|Sūrya temple]] below it and [[place-himashila|Himashilā]] beside its outflow are kept in practice by the [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]]. They sight the civil year there and call the slab a footstool without saying whose. The older attribution and the temple's silence have never been made to meet, and neither contradicts the other.
+The [[place-suryatempl|Sūrya temple]] below it and [[place-himashila|Himashilā]] beside its outflow are kept in practice by the [[affiliation-trimurtisampradaya|Triyanga-sampradāya]]. They sight the civil year there and call the slab a footstool without saying whose. The older attribution and the temple's silence have never been made to meet, and neither contradicts the other.
 
 Jñānasūra keeps no priesthood of his own. Devotion to him is the household observance. A devotee who wants more takes one of his **Ordeals for Favor**, undertaken alone and answerable to no school.

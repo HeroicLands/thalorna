@@ -26,7 +26,7 @@ Their orthodoxy is exact and their ritual is not. A great deal of what is done a
 
 ## The Register
 
-Every shrine keeps the crossing-register: who came over, with how many beasts, in whose employ, and on what day. It is the only written record of traffic on the wall that is not a customs document, and the difference between a shrine's tally and the tally at [[place-suryagarha|Sūryāgarha]]'s customs-house is a question that has ended at least two Vindhyan careers.
+Every shrine keeps the crossing-register: who came over, with how many beasts, in whose employ, and on what day. It is the only written record of traffic on the wall that is not a customs document, and the difference between a shrine's tally and the tally at [[place-suryagarha|Sūryagarha]]'s customs-house is a question that has ended at least two Shikharālayan careers.
 
 A register-writer will turn the book round for anyone who asks and can read it. He will not copy a page, he will not send one down, and he will not say what is in the older volumes, which are kept and not shown.
 

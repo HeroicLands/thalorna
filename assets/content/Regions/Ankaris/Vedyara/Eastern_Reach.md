@@ -14,7 +14,7 @@ The Reach is lower than [[place-sthrnwall|the Southern Wall]] and narrower, whic
 
 ## The Gorges and the Forest
 
-On the Vedyari flank the Reach breaks into the [[place-slvrgorges|Silver Gorges]], deep-cut valleys whose lapis and silver have been dug since before the kingdom of [[affiliation-vindhyalay|Vindhyālaya]] was chartered. Their smithing clans hold the workings by prerogatives older than the charter that supposedly grants them.
+On the Vedyari flank the Reach breaks into the [[place-slvrgorges|Silver Gorges]], deep-cut valleys whose lapis and silver have been dug since before the kingdom of [[affiliation-vindhyalay|Shikharālaya]] was chartered. Their smithing clans hold the workings by prerogatives older than the charter that supposedly grants them.
 
 Below the Gorges the ground falls into forest that no janapada has ever sent an assembly into. Enclaves of [[lore-flksinale|Sinalë]] are rumored there, and Khazári halls above the tree line. The rumors are old, consistent and entirely unconfirmed, which is the condition in which such rumors are most useful to the people who repeat them.
 

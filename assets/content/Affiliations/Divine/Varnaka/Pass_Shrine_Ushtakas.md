@@ -94,7 +94,7 @@ The shrines also refuse to bless certain days that no almanac marks, and they wi
 
 ### Orthodoxy, and What Is Done Anyway
 
-Their orthodoxy is exact and their practice is not. A great deal of what is done at a Pass-Shrine has no warrant in any text a lowland academy would accept—the fire-watch through the closed months, the count of the dead kept by name on the cistern wall, the refusals. The [[affiliation-trimurtisampradaya|Council of the Triyācāryas]] has never pressed the point, and the reason is the reason it always is: these are the only priests willing to do the job.
+Their orthodoxy is exact and their practice is not. A great deal of what is done at a Pass-Shrine has no warrant in any text a lowland academy would accept—the fire-watch through the closed months, the count of the dead kept by name on the cistern wall, the refusals. The [[affiliation-trimurtisampradaya|Council of the Triyāchāryas]] has never pressed the point, and the reason is the reason it always is: these are the only priests willing to do the job.
 
 ### See Also
 

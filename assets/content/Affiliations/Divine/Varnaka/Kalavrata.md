@@ -56,7 +56,7 @@ sohl: {system: {commonSkills: [kalavrata, sohl-sohl-skill-pysn, sohl-sohl-skill-
 
 "Do not bring him an offering, and do not ask him for anything," says the keeper of a village shrine to the young wife who has married into a house that has not yet seen a death in her time there. "Light the lamp when the illness turns. Keep your voice down while it burns. The rest is his." The instruction is close to the whole of the cult. [[lore-kalavratadty|Kālavrata]] is revered throughout [[place-vedyarargn|Vedyara Region]], and the reverence is austere: he grants no personal favor, answers no petition for long life or safe passage, and guides every soul from one body to the next without partiality. The faithful hold him high for exactly that.
 
-[[affiliation-rasikara|Rásikara]] is the god of the fire that unmakes the body. Kālavrata is the god of what comes after, and his conch calls the soul onward when the cremation-fires end.
+[[affiliation-rasikara|Rāsikara]] is the god of the fire that unmakes the body. Kālavrata is the god of what comes after, and his conch calls the soul onward when the cremation-fires end.
 
 ### What You See at His Shrines
 
