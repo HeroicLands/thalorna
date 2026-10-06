@@ -32,7 +32,7 @@ data:
 
 ## Overview
 
-Lin'Legharu elu Wazu is an alliance of alchemists working out of [[place-wazulet|the Wazulet]] who hold no patron among the great houses, bound together for want of one. The alliance exists to defend the standing of a patronless alchemist against houses that would rather deal only with their own retained practitioners. A member who later wins a patron's favor is expected to keep faith with the alliance rather than cut it loose, and most do, since today's patron is no guarantee against tomorrow's.
+**Lin'Legharu elu Wazu** is the alliance of alchemists of [[place-wazulet|the Wazulet]] who hold no patron among the great houses, bound together for want of one. It defends the standing of a patronless alchemist against houses that would rather deal only with their own retained practitioners. A member who later wins a patron's favor is expected to keep faith with the alliance, and most do.
 
 ## Character
 
@@ -48,7 +48,7 @@ The alliance's quarrel is with the great houses, which prefer to deal with their
 
 ## Commerce and Currency
 
-Say a house needs a compound prepared at short notice and its own alchemist is away. The steward sends to the Wazulet for a patronless alchemist, takes the work, and pays. The house would never admit the arrangement, but the alchemist's standing grows with every commission that shows up in the house's accounts. Members work without a great house's patronage and defend the standing of patronless alchemists against houses that deal only with their own practitioners; the alliance is the hand that steadies them when a house withholds a commission.
+Say a house needs a compound prepared at short notice and its own alchemist is away. The steward sends to the Wazulet for a patronless alchemist, takes the work, and pays. The house would never admit the arrangement, but the alchemist's standing grows with every commission that shows up in the house's accounts. When a house withholds a commission, the alliance is what steadies the member who lost it.
 
 ## See Also
 

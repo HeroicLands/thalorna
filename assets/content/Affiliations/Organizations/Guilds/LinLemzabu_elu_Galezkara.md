@@ -32,7 +32,7 @@ data:
 
 ## Overview
 
-Lin'Lemzabu elu Galezkara is an association of the stewards who run the great houses of [[place-galezkara|Galezkara]], meeting away from their employers to compare notes. Members trade information on reliable suppliers, fair wages for household staff, and the particular skill of managing a master who cannot be told anything. A newly appointed steward who joins quickly inherits years of this accumulated practice rather than learning each lesson the hard way.
+**Lin'Lemzabu elu Galezkara** is the association of the stewards who run the great houses of [[place-galezkara|Galezkara]]. They meet away from their employers to trade what the work has taught them: reliable suppliers, fair wages for household staff, and the management of a master who cannot be told anything. A newly appointed steward who joins inherits years of that practice at once.
 
 ## Character
 
@@ -48,7 +48,7 @@ The stewards' relation to the great houses is employment, and their meetings are
 
 ## Commerce and Currency
 
-Say a steward of a house on the Drowned Way hears from a colleague that a certain spice-factor has raised his price twice since the New Year. He changes factors. A second steward, new to the post, learns what to pay a house cook, and pays it. Members compare suppliers and wages for household staff, so the prices the great houses of [[place-galezkara|Galezkara]] pay are known to the people who arrange them, and the factors who overcharge find their custom thinning without understanding why.
+Say a steward of a house on the Drowned Way hears from a colleague that a certain spice-factor has raised his price twice since the New Year. He changes factors. A second steward, new to the post, learns what to pay a house cook, and pays it. The prices the great houses pay are known to the people who arrange them, and the factors who overcharge find their custom thinning without understanding why.
 
 ## See Also
 

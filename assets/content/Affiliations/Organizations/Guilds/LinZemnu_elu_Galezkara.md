@@ -36,7 +36,7 @@ data:
 
 ## Overview
 
-Lin'Zemnu elu Galezkara, the Craftsmasters' Consortium, gathers the masters of [[place-galezkara|Galezkara]]'s various crafts into a single body with authority over all of them. The consortium alone decides what may be called master-work, a designation that sets the price a piece can command far above ordinary craft output. Its members resent public criticism of their methods, and a critic who presses the point in public finds the consortium's doors closed rather than its arguments answered.
+**Lin'Zemnu elu Galezkara**, the Craftsmasters' Consortium, gathers the masters of the crafts of [[place-galezkara|Galezkara]] into one body and holds sole authority over what may be called master-work, a designation that lifts a piece's price far above ordinary craft output. Its members resent public criticism of their methods. A critic who presses the point in public finds the consortium's doors closed rather than its arguments answered.
 
 ## Character
 
@@ -52,7 +52,7 @@ The crafts of [[place-galezkara|Galezkara]] fall under the consortium's authorit
 
 ## Commerce and Currency
 
-Say a lacquer-worker finishes a cabinet and hopes it will be called master-work. The consortium's council inspects the piece and rules on it. If it passes, the cabinet may be sold as master-work, at a price far above ordinary craft output. If it does not, it is a good cabinet and sells as one. The consortium alone decides what may be sold as master-work, and that decision is the whole of its commerce.
+Say a lacquer-worker finishes a cabinet and hopes it will be called master-work. The consortium's council inspects the piece and rules on it. If it passes, the cabinet may be sold as master-work, at a price far above ordinary craft output. If it does not, it is a good cabinet and sells as one. That decision is the whole of its commerce.
 
 ## See Also
 

@@ -38,7 +38,7 @@ data:
 
 ## Overview
 
-Lin'Zaglu elu Aû'Khelâthu is the chartered guild of the makers of figures and mechanisms across [[place-aukhelathrgq|Aû'Khelâthu]], training members in carving, jointing and the small clockwork that animates a figure's limbs. The guild's craft-word piece — the work every apprentice must produce to be raised to full membership — is the funerary figure, the small attendant carved for burial with the dead. The trade is thought slightly unlucky on that account, and a toymaker who wants a customer's full confidence generally keeps the funerary side of the craft out of the shopfront display.
+**Lin'Zaglu elu Aû'Khelâthu** is the chartered guild of the makers of figures and mechanisms across [[place-aukhelathrgq|Aû'Khelâthu]], who train in carving, jointing and the small clockwork that animates a figure's limbs. Every apprentice is raised to full membership on one piece, the funerary figure: the small attendant carved to be buried with the dead. The trade is thought slightly unlucky for it, and a toymaker who wants a customer's full confidence keeps the funerary side of the craft out of the shopfront display.
 
 ## Character
 
@@ -54,7 +54,7 @@ The guild's quiet relations are with its customers. They link the trade's funera
 
 ## Commerce and Currency
 
-The funerary figure is the trade's craft-word piece, and the guild's standards committee sets the quality the guild's work must meet. Say a family orders a toy for a child's naming-day, and a different family, in the same week, orders a funerary figure for a grandfather's tomb. The shop makes both at the same bench with the same tools, and charges for the second what a tomb-servant costs. The toy goes out the front door, wrapped, and the figure goes out the back.
+Say a family orders a toy for a child's naming-day, and a different family, in the same week, orders a funerary figure for a grandfather's tomb. The shop makes both at the same bench with the same tools, and charges for the second what a tomb-servant costs. The toy goes out the front door, wrapped, and the figure goes out the back.
 
 ## See Also
 

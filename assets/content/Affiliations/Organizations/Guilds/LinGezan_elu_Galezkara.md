@@ -32,7 +32,7 @@ data:
 
 ## Overview
 
-Lin'Gezan elu Galezkara is the chartered guild of debt collectors operating in [[place-galezkara|Galezkara]], holding the exclusive right to enforce what a creditor's ledger says is owed. Its members pursue debts the courts have already confirmed but have no machinery of their own to collect, standing in for the state's own enforcement. The guild is disliked in exact proportion to its usefulness, and a debtor who satisfies it quickly fares better than one who waits for its collectors to return.
+**Lin'Gezan elu Galezkara** is the guild of debt collectors, and no one else in [[place-galezkara|Galezkara]] may collect what a creditor's ledger says is owed. It acts only on a debt the courts have confirmed, in the place of an enforcement the state has no machinery to provide. Creditors cannot do without it and debtors cannot forgive it, and the guild is disliked in exact proportion to its usefulness.
 
 ## Character
 
@@ -48,7 +48,7 @@ The guild's relations are the two ends of a transaction. The courts confirm the 
 
 ## Commerce and Currency
 
-Say a landlord in the Lut-Lemu quarter is owed rent by a potter, and the Genzet has confirmed the sum. He hands the confirmed record to the guild. A Collector calls at the workshop, states the amount owed and the date, and returns on the date. The guild's members collect what a creditor's ledger says is owed once the courts have confirmed it, and no one else holds that right in [[place-galezkara|Galezkara]]. The potter who pays at the first call pays the sum. The potter who waits pays it again in embarrassment.
+Say a landlord in the Lut-Lemu quarter is owed rent by a potter, and the Genzet has confirmed the sum. He hands the confirmed record to the guild. A Collector calls at the workshop, states the amount owed and the date, and returns on the date. The potter who pays at the first call pays the sum. The potter who waits pays it again in embarrassment.
 
 ## See Also
 

@@ -32,7 +32,7 @@ data:
 
 ## Overview
 
-Lin'Rethu elu Galezkara, the Scholars' Circle, gathers the learned of [[place-galezkara|Galezkara]] — open-minded scholars, liberal merchants and teachers who find the temple schools too narrow for their interests. The circle commissions its own lectures and seminars, funding study the temples do not recognize as worth pursuing. A thinker whose work the temple schools dismiss can still find an audience and a stipend here, provided the circle judges the work has value.
+**Lin'Rethu elu Galezkara**, the Scholars' Circle, gathers the learned of [[place-galezkara|Galezkara]]: open-minded scholars, liberal merchants and teachers who find the temple schools too narrow. The circle commissions its own lectures and seminars and funds study the temples do not recognize as worth pursuing. A thinker whose work the temple schools dismiss can find an audience and a stipend here if the circle judges the work has value.
 
 ## Character
 
@@ -48,7 +48,7 @@ The circle's quarrel is with the temple schools, which dismiss the work it funds
 
 ## Commerce and Currency
 
-Say a young scholar with a theory of the river's silt has been turned away from the schools of Reth'Sa'âr. She brings her case to the circle. A merchant who has watched his barges ground in the delta offers a stipend for a season's study, a teacher offers a room, and a lecture is announced. The circle's funding pays for the lectures, seminars and stipends it commissions, directed at work the temples do not recognize, and the sum is paid in silver, as wages are.
+Say a young scholar with a theory of the river's silt has been turned away from the schools of Reth'Sa'âr. She brings her case to the circle. A merchant who has watched his barges ground in the delta offers a stipend for a season's study, a teacher offers a room, and a lecture is announced. The stipend is paid in silver, as wages are.
 
 ## See Also
 
