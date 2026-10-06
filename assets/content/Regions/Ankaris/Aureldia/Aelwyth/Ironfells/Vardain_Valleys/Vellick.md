@@ -14,7 +14,7 @@ data:
 ---
 
 **Vellick** sits where the beck drops enough to drive hammers, and it is where the
-[[lore-vardain|Vardain]] work metal. Five hundred and forty people, most of them in the trade or
+[[lore-vardain|Vardain]] work metal. Seven hundred people, most of them in the trade or
 married into it.
 
 Vellick's smiths are the best human smiths in Aelwyth by a distance nobody bothers to dispute, and the
