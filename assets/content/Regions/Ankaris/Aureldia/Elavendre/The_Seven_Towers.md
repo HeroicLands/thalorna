@@ -38,8 +38,8 @@ were ours, and the voices of the ones your people learned to call the fae.
   What comes down to you as a story came to us as an evening.
 We were there. We are here still. We remember it as it was.
 Then the makers came, and set their hands against the cliff,
-  and we watched the first course laid, and the course above it,
-and when the last was laid we could not tell the work from the wall.
+  and we watched the first face dressed, and the face above it,
+and when the last was dressed we could not tell the work from the wall.
   Fault and weathering and stain, the strata running true:
 seven stood out from the rock, and they were the rock.
   We walked beneath them many seasons before we understood
