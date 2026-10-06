@@ -40,11 +40,11 @@ data:
 
 ## Overview
 
-Gar-Meglay Khuqet-Miglet is the frontier command holding the forts and wells of [[place-khuqetmiglet|Khuqet-Miglet]] on the northern desert road, garrisoned by soldiers posted away from the comforts of the capital. The command's task is to keep the road and its water open against the desert tribes, a task that rests as much on holding the wells as on holding any fort. Its officers keep a nominal peace with the [[lore-dunhariclt|Dunhari]] and break it about as often as they keep it, so a caravan master on this road checks the state of that peace before relying on it.
+On the northern desert road, the wells matter more than the forts, and the garrison of [[place-khuqetmiglet|Khuqet-Miglet]] holds both. **Gar-Meglay Khuqet-Miglet** is the frontier command that keeps the road and its water open against the desert tribes, manned by soldiers posted far from the comforts of the capital. Its officers keep a nominal peace with the [[lore-dunhariclt|Dunhari]] and break it about as often as they keep it, so a caravan master on this road checks the state of that peace before relying on it.
 
 ## Character
 
-"Check the peace before you trust it," a caravan master tells a new driver at the last Khelâthi well. "The commander wants the road open, the officers want their postings to end quietly, and the Dunhari want what they have always wanted from a caravan. Between those three the peace is whatever suits the morning."
+"Check the peace before you trust it," a caravan master tells a new driver at the last [[lore-khelathiclt|Khelâthi]] well. "The commander wants the road open, the officers want their postings to end quietly, and the Dunhari want what they have always wanted from a caravan. Between those three the peace is whatever suits the morning."
 
 The command is a body of soldiers posted far from the comforts of the capital, held to the forts and wells of a hard road. Its officers keep a nominal peace with the [[lore-dunhariclt|Dunhari]] and break it as it suits them. A soldier here learns to read a tribe's mood by the state of its wells.
 

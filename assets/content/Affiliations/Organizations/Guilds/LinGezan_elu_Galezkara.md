@@ -32,13 +32,13 @@ data:
 
 ## Overview
 
-Lin'Gezan elu Galezkara is the chartered guild of debt collectors operating in [[place-galezkara|Galezkara]], holding the exclusive right to enforce what a creditor's ledger says is owed. Its members pursue debts the courts have already confirmed but have no machinery of their own to collect, standing in for the state's own enforcement. The guild is disliked in exact proportion to its usefulness, and a debtor who satisfies it quickly fares better than one who waits for its collectors to return.
+**Lin'Gezan elu Galezkara** is the guild of debt collectors, and no one else in [[place-galezkara|Galezkara]] may collect what a creditor's ledger says is owed. It acts only on a debt the courts have confirmed, in the place of an enforcement the state has no machinery to provide. Creditors cannot do without it and debtors cannot forgive it, and the guild is disliked in exact proportion to its usefulness.
 
 ## Character
 
-"I did not make the debt," the senior Collector says, and it is the sentence she has said most often in her working life. "The court made it final, and I am what happens next." The Debt Collectors' Guild is the chartered body of those who enforce what a creditor's ledger says is owed. It acts only after the courts have confirmed the debt, and in the capital it alone holds the right to collect.
+"I did not make the debt," the senior Collector says, and it is the sentence she has said most often in her working life. "The court made it final, and I am what happens next." The **Debt Collectors' Guild** is the chartered body of those who enforce what a creditor's ledger says is owed. It acts only after the courts have confirmed the debt, and in the capital it alone holds the right to collect.
 
-The work is as thankless as it is necessary. A **Collector** takes on the debts the courts have confirmed and pursues them in the place of the state's own enforcement, which has no machinery for the task. Creditors cannot do without the guild, and debtors cannot forgive it; its usefulness and its unpopularity rise together, and the Collectors do not pretend otherwise. They are trained to be courteous at the door and unmovable at the table.
+The work is as thankless as it is necessary. A Collector takes on the debts the courts have confirmed and pursues them in the place of the state's own enforcement, which has no machinery for the task. Creditors cannot do without the guild, and debtors cannot forgive it; its usefulness and its unpopularity rise together, and the Collectors do not pretend otherwise. They are trained to be courteous at the door and unmovable at the table.
 
 What a debtor should know is simple. A man who satisfies the guild quickly fares far better than one who waits for the collectors to come back. They always come back.
 
@@ -48,7 +48,7 @@ The guild's relations are the two ends of a transaction. The courts confirm the 
 
 ## Commerce and Currency
 
-Say a landlord in the Lut-Lemu quarter is owed rent by a potter, and the Genzet has confirmed the sum. He hands the confirmed record to the guild. A Collector calls at the workshop, states the amount owed and the date, and returns on the date. The guild's members collect what a creditor's ledger says is owed once the courts have confirmed it, and no one else holds that right in [[place-galezkara|Galezkara]]. The potter who pays at the first call pays the sum. The potter who waits pays it again in embarrassment.
+Say a landlord in the [[place-lutlemu|Lut-Lemu]] quarter is owed rent by a potter, and the Genzet has confirmed the sum. He hands the confirmed record to the guild. A Collector calls at the workshop, states the amount owed and the date, and returns on the date. The potter who pays at the first call pays the sum. The potter who waits pays it again in embarrassment.
 
 ## See Also
 

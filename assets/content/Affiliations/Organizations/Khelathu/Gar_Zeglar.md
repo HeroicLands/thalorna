@@ -19,7 +19,9 @@ data:
         title: Minister
         description: >-
           Holds a portion of the realm's records, to file, retrieve or lose.
-    offices: {}
+    offices:
+      Zeglar: >-
+        Chief minister and supreme judge, who heads the ministry and runs the civil administration of the empire.
   seat: null
   domains: []
   population: 0
@@ -32,7 +34,7 @@ data:
 
 ## Overview
 
-Gar-Zeglar is the empire's administrative ministry, the arm of [[affiliation-empireakhlth|Aû'Khelâthu]]'s government that holds the paperwork of the realm—tax rolls, land grants, appointments and the countless records a state this old accumulates. Its ministers file, retrieve and occasionally lose what that paperwork says, and losing a particular record is sometimes as useful to a minister as keeping it. The ministry dislikes anyone who exposes what its files actually contain, and a petitioner who goes looking for an inconvenient record usually finds the search taking far longer than it should.
+The **Zeglar**, chief minister and supreme judge, runs the civil administration of [[affiliation-empireakhlth|Aû'Khelâthu]] through **Gar-Zeglar**, the ministry whose bureaus in [[place-garmedjatozo|Gar-Medjatozo]] hold the paperwork of the realm: tax rolls, land grants, appointments and the countless records a state this old accumulates. Its ministers file, retrieve and occasionally lose what that paperwork says, and losing a particular record is sometimes as useful to a minister as keeping it. The ministry dislikes anyone who exposes what its files actually contain, and a petitioner who goes looking for an inconvenient record finds the search taking far longer than it should.
 
 ## Character
 

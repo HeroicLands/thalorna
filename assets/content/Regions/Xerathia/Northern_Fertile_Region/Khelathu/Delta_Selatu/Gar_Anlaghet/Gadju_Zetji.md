@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Gadju-Zetji sits among the marsh-channels of [[place-garanlghtslt|Gar-Anlaghet Selat]], threaded by the same waterways that lead into the delta port of [[place-garanlaghet|Gar-Anlaghet]]. It lives by net and by ferry, carrying both fish and passengers between channels the harbour itself has no time for. A household here keeps a boat the way a farm-village keeps a plough — nothing moves without one.
+**Gadju-Zetji** sits among the marsh-channels of [[place-garanlghtslt|Gar-Anlaghet Selat]], on the same waterways that lead into the delta port of [[place-garanlaghet|Gar-Anlaghet]]. The village lives by net and by ferry, carrying fish and passengers between channels that the harbor itself has no time for. A household here keeps a boat the way a farm village keeps a plow: nothing moves without one, and a family that loses its boat has lost its trade before it has lost anything else.
 
 ## See Also
 

@@ -32,11 +32,11 @@ data:
 
 ## Overview
 
-Lin'Zuwaret elu Galezkara, the Merchants' Circle, is an informal association of independent traders working in [[place-galezkara|Galezkara]] who meet outside any guild hall to compare notes. Members share information on prices, routes and buyers, and coordinate when a larger commercial house threatens to undercut or absorb one of their number. A trader who stays outside the circle negotiates alone against houses that can outlast a single bad season, which is why most independents join as soon as they can afford the time it costs.
+**Lin'Zuwaret elu Galezkara**, the **Merchants' Circle**, is the informal association of the independent traders of [[place-galezkara|Galezkara]], who meet outside any guild hall to share prices, routes and buyers. When a larger commercial house threatens to undercut or absorb one of them, the others act together. A trader outside the circle bargains alone against houses that can outlast a bad season.
 
 ## Character
 
-"Have you had water?" Litaris says, and it is the first thing she says to everyone she means to trust. She is a trader of the Merchants' Circle, which is an informal association of the capital's independent traders. Its members meet outside any guild hall to share prices, routes and buyers, and an **Independent Trader** is one who trades on his own account and stands with the circle against the larger houses.
+"Have you had water?" Litaris says, and it is the first thing she says to everyone she means to trust. She is a trader of the Merchants' Circle, which is an informal association of the capital's independent traders. Its members meet outside any guild hall to share prices, routes and buyers, and an Independent Trader is one who trades on his own account and stands with the circle against the larger houses.
 
 The circle is informal and mutual. It has no hall and no charter, and its authority is that its members keep their word to one another. When a larger commercial house threatens to undercut or absorb one of them, the others coordinate: a price held in one market, a buyer found in another, a loan arranged between friends. A trader outside the circle negotiates alone against houses that can outlast a bad season, and the circle's members know what that costs.
 
@@ -48,7 +48,7 @@ The circle's opponent is the larger commercial houses, the party it coordinates 
 
 ## Commerce and Currency
 
-Members share information on prices, routes and buyers, and act together when a larger house threatens to undercut or absorb one of their number. Say a house in the Great Quay begins selling cloth below the independents' cost. Litaris hears of it at the circle's evening meeting, and by the next morning three members have shifted their stock to markets where the house is not present and a fourth has agreed to buy at her price. The house's discount reaches nobody it was meant to ruin.
+Say a house in the **Great Quay** begins selling cloth below the independents' cost. Litaris hears of it at the circle's evening meeting, and by the next morning three members have shifted their stock to markets where the house is not present and a fourth has agreed to buy at her price. The house's discount reaches nobody it was meant to ruin.
 
 ## See Also
 

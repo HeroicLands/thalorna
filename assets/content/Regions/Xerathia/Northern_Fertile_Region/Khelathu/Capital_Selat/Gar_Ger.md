@@ -16,7 +16,9 @@ data:
 
 ## Overview
 
-Gar-Ger lies in the farm country of [[place-galezkaraslt|Galezkara Selat]], close enough to [[place-galezkara|Galezkara]] that a half-day's barge reaches the capital's markets. It lives by grain, sending its surplus upriver and its people with it whenever there is something worth selling. The city is near enough that a bad harvest here is felt the same season in Galezkara's own markets.
+"Half a day to the city markets if the load is light and the pole-men are sober," says the barge-master tying up at **Gar-Ger**, "and I have never been sure which of the two matters more."
+
+Gar-Ger lies in the farm country of [[place-galezkaraslt|Galezkara Selat]], close enough to [[place-galezkara|Galezkara]] that a half-day's barge reaches the capital's markets. It lives by grain, and it sends its surplus to the city, and its people with it, whenever there is something worth selling. The city is near enough that a bad harvest here is felt the same season in Galezkara's own markets.
 
 ## See Also
 

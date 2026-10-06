@@ -910,14 +910,14 @@ TBD.
 
 ## Mark every name
 
-**A name is bolded on its first use in a note, unless it is a wikilink—a
-wikilink needs no bolding. Only the first use needs it, not the uses after.**
+**At a name's first use in a note, link it if a note exists for it, and bold it
+if none does. Only the first use is marked, not the uses after.**
 
-This is how the corpus marks a name as significant, and it is what makes a name
-findable: a name nobody can locate cannot be checked, linked, renamed or
-translated, and the inventories that do that work read bold spans. A wikilink is
-exempt because the link already marks the name; a name is one or the other,
-never both.
+Bold is the mark of a name that would be a link if its note existed. That makes
+the two marks one system: a reader sees at once which names lead somewhere and
+which are still waiting for a note, and the inventories that find missing notes
+read the bold spans. So a name that has a note is wikilinked, never bolded, and
+every new proper name an author coins is bolded until it gets a note of its own.
 
 A naming phrase counts, not only a bare name. A named rite, ordeal, festival,
 relic, hall, ship, road, feud, vow or principle is a name—`Eye of the Void`,
@@ -933,9 +933,9 @@ Three things are not names, and none of them takes bold:
   keeps a hall, the hersvald who comes up from the valley. Such a word is a
   name only where the phrase names one specific post, the way
   `the Hersvald of the coastal district` names a seat.
-- **Emphasis on a sentence or a clause.** Bold on a whole statement is
-  emphasis, and a reader cannot tell it from a name. Where a sentence needs
-  weight, give it the weight with its own words.
+- **Emphasis on a word, a sentence or a clause.** Emphasis is set in italics,
+  never bold: bold on a statement reads as a name, and a reader cannot tell the
+  two apart. Italics are the right mark wherever a word or phrase needs stress.
 
 ## Spelling and punctuation
 

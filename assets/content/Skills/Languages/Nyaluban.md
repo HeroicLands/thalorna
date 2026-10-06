@@ -151,7 +151,7 @@ The language readily incorporates objects and modifiers directly into verbal and
 
 ### Proto-Nyáluban
 
-Nyáluban is an isolate language with no widely-accepted external relatives. Proposals of distant connections to other tongues remain speculative.
+Nyáluban has no known sister language. Its neighbors share some of its sounds through contact, not through descent, so a scholar tracing its words backward finds the trail ending with the language itself.
 
 ### Continuity of Oral Tradition
 

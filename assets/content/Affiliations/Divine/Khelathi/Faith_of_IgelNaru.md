@@ -50,7 +50,20 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-A river god rather than a selat god: Igel'Nâru holds the Zumélesh itself, and the sacred waters of its southern reach belong to him spiritually where they belong to the Halzi'a in law. His cult has no great temple and no Thâz'Lekhau of its own—it is carried by the hunting companies that work the river, above all the Zeghet'Nelgu, whose Wazu of the Hunt reads his will before any expedition launches and without whose word it does not. Every beast taken from the water is commended to him for judgment.
+"Before you push off, ask whose water you are on," a **Warden of the Sacred Stones** tells a boatman new to the southern reach. "The Halzi'a hold it in law. [[lore-igelnarudty|Igel'Nâru]] holds it in spirit, and the boundary shrines and stones mark where his water begins. Hunt or fish inside them without leave and the penalty is death."
 
-See [[affiliation-zeghetnelgu|Zeghet'Nelgu]], the sacred hunt that carries this cult, and
-[[affiliation-khelathpnthn|Khelâthi Pantheon]] for the temple hierarchy the valley cults share.
+Igel'Nâru is a river god, not a selat's god. He holds the [[place-zumeleshrvr|Zumélesh]] itself, so his cult has no great temple and no Thâz'Lekhau of its own. The hunting companies that work the river carry it, above all the [[affiliation-zeghetnelgu|Zeghet'Nelgu]], and the faith lives inside the hunt rather than beside it. Even its acolyte rank, Wazu of the Hunt, is the temple's own title borrowed into a hunting company.
+
+## What the River Asks
+
+Every expedition waits on one office. The **Reader of the Water** reads the god's will in offerings, in the flight of birds and in the patterns of the current, and pronounces whether the boats may go. An unfavorable reading stops the hunt, which gives the Reader real power over a company whose charter depends on hunting well.
+
+The rest of the faith follows from the kill. The god's due comes off the animal before any other share. The **Butcher of the Offering** then divides the rest: prime cuts to the temples and the Halzi'a, secondary cuts to the farming villages, bones and hides to the craftspeople. The animal's spirit is honored and commended to Igel'Nâru for judgment.
+
+The villages along the banks, the lay faithful, keep the river's observances and pay for the hunt with a share of what it takes. Those sworn to the water may strike at the quarry. Anyone refused the river-rites is refused the river: no boat launches with them aboard, and no hunt goes out in their company.
+
+## See Also
+
+- [[lore-igelnarudty|Igel'Nâru]]—the god
+- [[affiliation-zeghetnelgu|Zeghet'Nelgu]]—the sacred hunt that carries this cult
+- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—the temple hierarchy the valley cults share

@@ -40,11 +40,11 @@ data:
 
 ## Overview
 
-Lin'Melnu elu Aû'Khelâthu is the chartered guild of metalworkers across [[place-aukhelathrgq|Aû'Khelâthu]], the acknowledged heir to forge-companies whose practice predates the guild's own charter. The guild trains smiths in that inherited practice and certifies work against it before a piece can be sold as guild-standard. Members are jealous of what they inherited, and a smith who departs from the old methods without the guild's sanction risks losing the certification that makes the work sellable at all.
+**Lin'Melnu elu Aû'Khelâthu** is the chartered guild of the metalworkers of [[place-aukhelathrgq|Aû'Khelâthu]] and the acknowledged heir of forge-companies whose practice is older than its charter. It trains smiths in that inherited practice and certifies work against it before a piece may be sold as guild-standard. A smith who departs from the old methods without the guild's sanction risks the certification that makes his work sellable at all.
 
 ## Character
 
-Before you touch the hammer, the old smith shows you the stamp. "That is not mine," he says. "That is theirs, and it was theirs before it was the guild's." The Metalworkers' Guild is the chartered guild of the empire's smiths and the acknowledged heir of the forge-companies whose practice is older than the charter. Its authority is the inherited method. An **Apprentice** learns it under the guild's training; a **Certified Smith** is registered, pays dues, and has work certified as guild-standard.
+Before you touch the hammer, the old smith shows you the stamp. "That is not mine," he says. "That is theirs, and it was theirs before it was the guild's." The **Metalworkers' Guild** is the chartered guild of the empire's smiths and the acknowledged heir of the forge-companies whose practice is older than the charter. Its authority is the inherited method. An Apprentice learns it under the guild's training; a Certified Smith is registered, pays dues, and has work certified as guild-standard.
 
 The guild is conservative and jealous. It certifies a piece against the old practice before the piece can be sold as guild-standard, and a smith who departs from the methods without the guild's sanction risks losing the certification that makes the work sellable at all. Struck from the roll, a smith is a Name Struck, and the certification goes with him.
 

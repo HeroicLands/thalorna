@@ -34,11 +34,11 @@ data:
 
 ## Overview
 
-Gar-Gezanu is the imperial service responsible for collecting dues and enforcing the law of trade across [[place-aukhelathrgq|Aû'Khelâthu]], staffed by assessors empowered to weigh and tax goods at the point of sale or transit. The service treats the taking of anything it has not weighed as theft, regardless of the taker's reasons, which makes its weighmasters a fixture at every market and ford worth taxing. A merchant who moves goods around Gar-Gezanu's assessors rather than through them is, by the service's own definition, already a thief.
+Anything taken unweighed is stolen. That is the whole law of **Gar-Gezanu**, the imperial service that collects the [[lore-garauu|Gar-Aû]]'s dues and enforces the law of trade across [[place-aukhelathrgq|Aû'Khelâthu]], and its assessors apply it at the point of sale or transit, with no regard for the taker's reasons. A weighmaster is therefore a fixture at every market and ford worth taxing, and a merchant who moves goods around the assessors rather than through them is, by the service's own definition, already a thief.
 
 ## Character
 
-"Weigh it first" is the whole creed of the Exaction Service, and a weighmaster says it to every carter who drives down to the water with a loaded cart. The service is exacting and literal. Anything taken unweighed counts as stolen, and the rule hears no reasons: not haste, not a hungry mule, not ignorance of how this ford does its business. Its assessors therefore act as enforcers as readily as clerks, and the man holding the scale is the man who decides whether you are a merchant or a thief.
+"Weigh it first" is the whole creed of the **Exaction Service**, and a weighmaster says it to every carter who drives down to the water with a loaded cart. The service is exacting and literal. Anything taken unweighed counts as stolen, and the rule hears no reasons: not haste, not a hungry mule, not ignorance of how this ford does its business. Its assessors therefore act as enforcers as readily as clerks, and the man holding the scale is the man who decides whether you are a merchant or a thief.
 
 Treat the scale as a gate. Goods go through it, never around it.
 

@@ -16,7 +16,9 @@ data:
 
 ## Overview
 
-Shelu-Zu sits in the market-belt that rings [[place-galezkara|Galezkara]], part of [[place-galezkaraslt|Galezkara Selat]]. It renders its share of grain, beer and labour to the capital, and lives by little else but the city's nearness. A season in which Galezkara's markets are glutted is felt here as surely as a season of drought.
+"When the city is buying I cannot cut fast enough, and when it is not I cannot give the leeks away," a produce-dealer from **Shelu-Zu** tells the stall-holder beside her.
+
+Shelu-Zu sits in the market-belt that rings [[place-galezkara|Galezkara]], part of [[place-galezkaraslt|Galezkara Selat]]. It renders its share of grain, beer and labor to the capital, and lives by little else but the city's nearness. A season in which Galezkara's markets are glutted is felt here as surely as a season of drought.
 
 ## See Also
 

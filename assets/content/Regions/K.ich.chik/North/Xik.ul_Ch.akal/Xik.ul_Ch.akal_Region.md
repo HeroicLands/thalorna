@@ -13,7 +13,7 @@ data:
   packFolder: xikulchakal
   government: xikulchakl
 
-# terran_analog: Ontario, Quebec in Canada—Eastern Great Lakes and boreal forest
+# terran_analog: Ontario, Quebec in Canada—Eastern Great Lakes and boreal forest; the largest lakes of the eastern boundary are the Great Lakes
 ---
 
 ## Overview
@@ -24,7 +24,7 @@ Xik'ul Ch'akal—"Water Path" in K'ich'chik—encompasses a vast network of inte
 
 ## Geography
 
-Xik'ul Ch'akal is dominated by water in all its forms: a labyrinth of lakes ranging from vast inland seas hundreds of miles across to small pools hidden in the forest depths. The Great Lakes themselves form the eastern boundary, their waters so vast they seem almost oceanic. Connecting these lakes are rivers—some gently flowing, others wild and broken with rapids that can swallow canoes whole. The portage routes connecting different lake systems form a network of trails that the Ha'ik know intimately; a skilled canoeist can traverse the entire region by following these waterways, moving from any lake to any other with careful planning and weeks of travel.
+Xik'ul Ch'akal is dominated by water in all its forms: a labyrinth of lakes ranging from vast inland seas hundreds of miles across to small pools hidden in the forest depths. The largest lakes of all form the eastern boundary, their waters so vast they seem almost oceanic. Connecting these lakes are rivers—some gently flowing, others wild and broken with rapids that can swallow canoes whole. The portage routes connecting different lake systems form a network of trails that the Ha'ik know intimately; a skilled canoeist can traverse the entire region by following these waterways, moving from any lake to any other with careful planning and weeks of travel.
 
 The forests surrounding the waterways are mixed boreal and hardwood: spruce and pine provide shelter and materials, while maple, birch, and oak offer resources for tools, fuel, and food. The sugar maples of the southern portions of Ha'ik territory produce sap in spring, and the Ha'ik have developed elaborate syrup production and maple sugar crafting traditions that are traded throughout the northern frontier. The forests are productive in other ways as well; the Ha'ik gather roots, berries, nuts, and medicinal plants with systematic precision, and this botanical knowledge has developed into a sophisticated herbal medicine tradition that makes Ha'ik healers sought-after even by distant peoples.
 
