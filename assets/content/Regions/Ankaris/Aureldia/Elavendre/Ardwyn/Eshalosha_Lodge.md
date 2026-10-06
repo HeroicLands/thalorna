@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "Áelendan settlement and ceremonial center"
 tags: [settlement]
-data: {demonym: null, lore: [], parents: [alndntrblnds], population: 1500, packFolder: elavendre}
+data:
+  demonym: null
+  lore: []
+  parents: [alndntrblnds]
+  population: 1500
+  packFolder: elavendre
+  government: aelndntrbs
 ---
 
 **Controlled by:** [[lore-aelendnppl|Áelendan]]
