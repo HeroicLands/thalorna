@@ -9,7 +9,12 @@ data:
   packFolder: regkhcult
   culture: khelathiclt
   form: ledger-litany
-  subjects: [qearetdty, qearet, khelathiclt, zulaten, garhalzi]
+  subjects:
+    - lore-qearetdty
+    - affiliation-qearet
+    - lore-khelathiclt
+    - place-zulaten
+    - affiliation-garhalzi
   language: khelathlng
 ---
 

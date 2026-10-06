@@ -10,7 +10,7 @@ data:
   culture: nordheimnclt
   form: saga
   language: nordmalng
-  subjects: [skrldmylstrmbrn, thrumufjall, thrunvalddty]
+  subjects: [being-skrldmylstrmbrn, place-thrumufjall, lore-thrunvalddty]
 ---
 
 Among the [[lore-nordheimnclt|Nordmen]], this is one telling of [[being-skrldmylstrmbrn|Skrildmýl Stormborn]] leading his people through winter storms to [[place-thrumufjall|Thrumufjall]]. Whether he once walked the north or belongs to its songs, the skalds praise his endurance and the clearing they attribute to [[lore-thrunvalddty|Thrúnvald]]. The Winter Witch claims the storms as her own work; her claim travels beside the tale, unanswered.
