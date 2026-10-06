@@ -33,7 +33,8 @@
  * Findings: a form matching a list entry exactly after normalization, or within
  * one edit of an entry when the form has five or more letters. A skeleton (three
  * consonants joined by hyphens, or any first-column form under `--skeleton`)
- * collides when it equals a list entry or the consonants of a list entry.
+ * collides when it equals a list entry after normalization, so a list of
+ * consonantal roots is matched root for root.
  * Findings are `file:line:column: warning: …`, naming the list and never the
  * matching word. Exit status is 1 when there is a finding, else 0.
  */
@@ -43,7 +44,6 @@ import path from "node:path";
 
 const DEFAULT_DIR = "nogit/wordlists";
 const MIN_EDIT_LENGTH = 5;
-const VOWELS = new Set("aeiouy");
 
 /**
  * Reduce a form to its comparison shape.
@@ -60,15 +60,6 @@ export function normalize(form) {
     s = s.replace(/ph/g, "f").replace(/th/g, "t").replace(/dh/g, "d");
     s = s.replace(/kh/g, "k").replace(/gh/g, "g");
     return s.replace(/(\p{L})\1+/gu, "$1");
-}
-
-/**
- * The consonants of a normalized form.
- * @param {string} norm
- * @returns {string}
- */
-export function consonants(norm) {
-    return [...norm].filter((c) => !VOWELS.has(c)).join("");
 }
 
 /**
@@ -115,7 +106,7 @@ export function extractForms(text, forceSkeleton = false) {
 /**
  * Read every `<language>.txt` in a directory, normalized and deduplicated.
  * @param {string} dir
- * @returns {Map<string, { norm: Set<string>, skeletons: Set<string> }>}
+ * @returns {Map<string, Set<string>>}
  */
 export function loadLists(dir) {
     const lists = new Map();
@@ -123,14 +114,12 @@ export function loadLists(dir) {
     for (const name of fs.readdirSync(dir).sort()) {
         if (!name.endsWith(".txt")) continue;
         const norm = new Set();
-        const skeletons = new Set();
         for (const line of fs.readFileSync(path.join(dir, name), "utf8").split("\n")) {
             const n = normalize(line);
             if (!n) continue;
             norm.add(n);
-            skeletons.add(consonants(n));
         }
-        if (norm.size > 0) lists.set(name.slice(0, -4), { norm, skeletons });
+        if (norm.size > 0) lists.set(name.slice(0, -4), norm);
     }
     return lists;
 }
@@ -138,16 +127,16 @@ export function loadLists(dir) {
 /**
  * Compare one form with every list.
  * @param {{ form: string, skeleton: boolean }} row
- * @param {Map<string, { norm: Set<string>, skeletons: Set<string> }>} lists
+ * @param {Map<string, Set<string>>} lists
  * @returns {{ list: string, kind: string }[]}
  */
 export function compare(row, lists) {
     const hits = [];
     const norm = normalize(row.form);
     if (!norm) return hits;
-    for (const [list, { norm: entries, skeletons }] of lists) {
+    for (const [list, entries] of lists) {
         if (row.skeleton) {
-            if (entries.has(norm) || skeletons.has(norm)) hits.push({ list, kind: "skeleton" });
+            if (entries.has(norm)) hits.push({ list, kind: "skeleton" });
         } else if (entries.has(norm)) {
             hits.push({ list, kind: "exact" });
         } else if (norm.length >= MIN_EDIT_LENGTH) {
