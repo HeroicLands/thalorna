@@ -22,7 +22,7 @@ Ask the ferryman at [[place-taranaghatta|Taranaghatta]] what the valley is for a
 
 ## The Bow-Fort
 
-The town of Dhanurkota stands on a low fortified hill where the Sarvada bends west around an outcrop of red rock. The fort is older than the janapada, older than the Mahā-Sangha and older than the temples, and perhaps older than the Vedyari language. Its lowest courses are megalithic, in a style no living mason can reproduce; the upper walls have been rebuilt many times in successive Vedyari styles. Inside are the **Mahájaya temple**, the four academy halls, the sabhā chamber and the granary, and the town spreads down the slope below the walls and along the riverbank. [[place-bowfort|The Bow-Fort]] has its own note.
+The town of Dhanurkota stands on a low fortified hill where the Sarvada bends west around an outcrop of red rock. The fort is older than the janapada, older than the Mahā-Sangha and older than the temples, and perhaps older than the Vedyari language. Its lowest courses are megalithic, in a style no living mason can reproduce; the upper walls have been rebuilt many times in successive Vedyari styles. Inside are the **Mahājaya temple**, the four academy halls, the sabhā chamber and the granary, and the town spreads down the slope below the walls and along the riverbank. [[place-bowfort|The Bow-Fort]] has its own note.
 
 The fort's name has always been Dhanurkota, and what the word means is disputed. Some scholars derive _dhanur_ from the bow that has been the janapada's emblem since before recorded history. Others derive it from a much older root meaning a bend in a river, which is the likelier account: the bow came to the name after the academies were founded, and nothing will get it out again.
 
@@ -68,7 +68,7 @@ The cultivator villages along the Sarvada produce rice, sugarcane, sesame and th
 
 Dhanurkota's economy rests on three things. The first is agriculture, the standard Vedyari rice, cotton and sugarcane mix, which feeds the janapada and leaves a modest export surplus. The second is the making of bows and arrows by hereditary bowyer and fletcher families, whose work is sold across Vedyara. The third is the academies and their retainers.
 
-The academies bring in the least direct revenue of the three and the most of everything else: the pilgrim traffic of aspirants and their families, the steady payments from patron kingdoms for graduate services, and the donations to the Mahájaya temple.
+The academies bring in the least direct revenue of the three and the most of everything else: the pilgrim traffic of aspirants and their families, the steady payments from patron kingdoms for graduate services, and the donations to the Mahājaya temple.
 
 ## See Also
 

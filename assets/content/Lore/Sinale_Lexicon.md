@@ -32,7 +32,7 @@ Each word table has five columns:
 | `num`    | a number or a word of quantity                |
 | `part`   | a particle, or a word saying where or why     |
 
-A collective noun names the many, and the suffix _-nu_ or _-ny_ picks out one: _ruoso_ is rain and _ruosonu_ a raindrop. A noun met singly takes _vuuhe_ "many" after it to make a plural.
+A collective noun names the many, and the suffix _-nu_ or _-ny_ picks out one: _rhavalo_ is rain and _rhavalonu_ a raindrop. A noun met singly takes _vennas_ "many" after it to make a plural.
 
 ### Fields
 
@@ -57,13 +57,13 @@ A collective noun names the many, and the suffix _-nu_ or _-ny_ picks out one: _
 
 Three moves make every built word in this lexicon, and a new word made the same way is as good a Sinalë word as any here.
 
-**A suffix.** A word takes one of the derivational suffixes the language page lists, in the form its vowels call for. _Pohvu_ "woven cloth" holds back vowels and takes _-ttu_ to give _pohvuttu_ "a weaver"; _ëmmy_ "heal" holds front vowels and takes _-tty_ to give _ëmmytty_ "a healer". A case suffix can follow, so _pohvuttumen_ is "to the weaver".
+**A suffix.** A word takes one of the derivational suffixes the language page lists, in the form its vowels call for. _Lorrami_ "woven cloth" holds back and neutral vowels and takes _-nno_ to give _lorraminno_ "a weaver"; _symmë_ "the art" holds front vowels and takes _-nnë_ to give _symmënnë_ "one who works the art". A case suffix can follow, so _lorramimen_ is "to the woven cloth" and _lorraminnomen_ "to the weaver".
 
-**A compound.** Two words make one: the first describes the second and wears, the second keeps its own shape. _Kyrsi_ "the sun" and _lyhmi_ "light" give _hyrsilyhmi_ "sunlight", the _k_ of the first worn to _h_. _Nuuva_ "starlight" and _lauhko_ "an age" give _nuuvalauhko_ "the Age of Stars"; _nuuva_ opens on _n_, which is worn already, and does not change.
+**A compound.** Two words make one: the first describes the second and wears, the second keeps its own shape. _Kalvi_ "pale wood" and _lonvu_ "the deep wood" give _halvilonvu_ "a birch stand within the forest", the _k_ of the first worn to _h_. _Nuuva_ "starlight" and _talvaro_ "an age" give _nuuvatalvaro_ "the Age of Stars"; _nuuva_ opens on _n_, which is worn already, and does not change.
 
-**A name.** A given name is a word in its plain form with a naming ending; a lineage name is the same word worn, with the hearth ending. _Tyëvi_ "a vision" gives the given names _Tyëvimë_ and _Tyëvilë_ and the lineage name _Syëvintë_, "the hearth of the vision". The ending _-vë_ is not used on _tyëvi_, which already ends on _v_.
+**A name.** A given name is a word in its plain form with a naming ending; a lineage name is the same word worn, with the hearth ending. _Tirvali_ "the long road" gives the given names _Tirvalidhe_ and _Tirvalira_ and the lineage name _Sirvalinto_, "the hearth of the long road". The ending _-la_ is not used on _tirvali_, which already ends on _l_.
 
-**No short name.** A given name has no short form. Taking the ending off leaves only the word for the thing—_Tyëvimë_ without _-më_ is _tyëvi_, a vision and not a person—so a Sinalë is called by the whole name, worn in address, and the language page's naming section sets out why.
+**No short name.** A given name has no short form. Taking the ending off leaves only the word for the thing—_Ilthoridhe_ without _-dhe_ is _ilthori_, a vision and not a person—so a Sinalë is called by the whole name, worn in address, and the language page's naming section sets out why.
 
 A new root word—one made from nothing in this lexicon—is a larger thing than a built one. It must keep every rule of sound and harmony, and it belongs in the table of its field with `—` in its Built from column.
 
@@ -71,631 +71,636 @@ A new root word—one made from nothing in this lexicon—is a larger thing than
 
 ### Light, stars, sky and the hours
 
-| Form          | Class  | Gloss                             | Built from         | Attested                             |
-| ------------- | ------ | --------------------------------- | ------------------ | ------------------------------------ |
-| `nuuva`       | n-coll | starlight                         | —                  | [[skill-sinalelng\|Sinalë Language]] |
-| `puolma`      | n      | the long dusk                     | —                  | [[skill-sinalelng\|Sinalë Language]] |
-| `pëlvy`       | n      | the wide sky                      | —                  | [[skill-sinalelng\|Sinalë Language]] |
-| `myne`        | n      | the seam of light                 | —                  | [[skill-sinalelng\|Sinalë Language]] |
-| `hyrvi`       | n      | the evening star                  | —                  | [[skill-sinalelng\|Sinalë Language]] |
-| `sëlvi`       | n      | the woven light                   | —                  | [[skill-sinalelng\|Sinalë Language]] |
-| `lyhmi`       | n      | light                             | —                  | —                                    |
-| `kyrsi`       | n      | the sun                           | —                  | —                                    |
-| `ouvunu`      | n      | the moon                          | —                  | —                                    |
-| `tëhvy`       | n      | dawn                              | —                  | —                                    |
-| `syyvi`       | n      | morning                           | —                  | —                                    |
-| `hyëntë`      | n      | noon, the full day                | —                  | —                                    |
-| `tuohka`      | n      | daylight                          | —                  | —                                    |
-| `ëhry`        | n      | evening                           | —                  | —                                    |
-| `nuohku`      | n      | night                             | —                  | —                                    |
-| `oussu`       | n      | the deep of night                 | —                  | —                                    |
-| `ruhmo`       | n      | the dark                          | —                  | —                                    |
-| `sauhvi`      | n      | a cast shadow                     | —                  | —                                    |
-| `hilsy`       | n      | a gleam                           | —                  | —                                    |
-| `lousu`       | v      | glow                              | —                  | —                                    |
-| `sëëvy`       | v      | shine                             | —                  | —                                    |
-| `sirry`       | v      | shimmer                           | —                  | —                                    |
-| `hëlsy`       | adj    | bright                            | —                  | —                                    |
-| `pouhu`       | adj    | dim                               | —                  | —                                    |
-| `vaahlu`      | adj    | pale                              | —                  | —                                    |
-| `hilvy`       | adj    | silver                            | —                  | —                                    |
-| `kauhvo`      | adj    | gold, sun-coloured                | —                  | —                                    |
-| `vëëly`       | adj    | white                             | —                  | —                                    |
-| `huoso`       | adj    | grey                              | —                  | —                                    |
-| `hëësky`      | adj    | blue, the colour of the high sky  | —                  | —                                    |
-| `ylpë`        | n      | the high air                      | —                  | —                                    |
-| `hëëvy`       | n      | a high cloud                      | —                  | —                                    |
-| `ruovi`       | n      | the rainbow                       | —                  | —                                    |
-| `tylsi`       | n      | the hour                          | —                  | —                                    |
-| `ruohto`      | n      | the north                         | —                  | —                                    |
-| `syyly`       | n      | the south                         | —                  | —                                    |
-| `rëëny`       | n      | the horizon                       | —                  | —                                    |
-| `nuuvanu`     | n      | a single star                     | `nuuva` + `-nu`    | [[skill-sinalelng\|Sinalë Language]] |
-| `nuuvasto`    | n      | a place of starlight              | `nuuva` + `-sto`   | [[skill-sinalelng\|Sinalë Language]] |
-| `nuuvasa`     | adj    | starlit                           | `nuuva` + `-sa`    | [[skill-sinalelng\|Sinalë Language]] |
-| `lyhminy`     | n      | a ray of light                    | `lyhmi` + `-ny`    | —                                    |
-| `lyhmily`     | n      | a glimmer                         | `lyhmi` + `-ly`    | —                                    |
-| `hyrsilyhmi`  | n      | sunlight                          | `kyrsi` + `lyhmi`  | —                                    |
-| `ouvunulyhmi` | n      | moonlight                         | `ouvunu` + `lyhmi` | —                                    |
-| `tëhvystë`    | n      | the east, where the dawn is       | `tëhvy` + `-stë`   | —                                    |
-| `puolmasto`   | n      | the west, where the dusk is       | `puolma` + `-sto`  | —                                    |
-| `tëhvyhtë`    | v      | dawn                              | `tëhvy` + `-htë`   | —                                    |
-| `ruhmohta`    | v      | darken                            | `ruhmo` + `-hta`   | —                                    |
-| `nuuvakko`    | n      | a cluster of stars                | `nuuva` + `-kko`   | —                                    |
-| `sëëvysë`     | adj    | shining                           | `sëëvy` + `-së`    | —                                    |
-| `hëlsyrsë`    | n      | brightness                        | `hëlsy` + `-rsë`   | —                                    |
-| `ruhmorsa`    | n      | darkness, the quality of the dark | `ruhmo` + `-rsa`   | —                                    |
+| Form           | Class  | Gloss                             | Built from          | Attested                             |
+| -------------- | ------ | --------------------------------- | ------------------- | ------------------------------------ |
+| `nuuva`        | n-coll | starlight                         | —                   | [[skill-sinalelng\|Sinalë Language]] |
+| `olvessa`      | n      | the long dusk                     | —                   | [[skill-sinalelng\|Sinalë Language]] |
+| `eilava`       | n      | the wide sky                      | —                   | [[skill-sinalelng\|Sinalë Language]] |
+| `thilvai`      | n      | the seam of light                 | —                   | [[skill-sinalelng\|Sinalë Language]] |
+| `ëlvyri`       | n      | the evening star                  | —                   | [[skill-sinalelng\|Sinalë Language]] |
+| `sëlvi`        | n      | the woven light                   | —                   | [[skill-sinalelng\|Sinalë Language]] |
+| `aulira`       | n      | light                             | —                   | —                                    |
+| `hirvel`       | n      | the sun                           | —                   | —                                    |
+| `sorel`        | n      | the moon                          | —                   | —                                    |
+| `irvalo`       | n      | dawn                              | —                   | —                                    |
+| `rhosel`       | n      | morning                           | —                   | —                                    |
+| `seiranda`     | n      | noon, the full day                | —                   | —                                    |
+| `theilan`      | n      | daylight                          | —                   | —                                    |
+| `olvarne`      | n      | evening                           | —                   | —                                    |
+| `ossenda`      | n      | night                             | —                   | —                                    |
+| `ulvessen`     | n      | the deep of night                 | —                   | —                                    |
+| `naldu`        | n      | the dark                          | —                   | —                                    |
+| `olthe`        | n      | a cast shadow                     | —                   | —                                    |
+| `ilthy`        | n      | a gleam                           | —                   | —                                    |
+| `sirva`        | v      | glow                              | —                   | —                                    |
+| `sëëlis`       | v      | shine                             | —                   | —                                    |
+| `thirrel`      | v      | shimmer                           | —                   | —                                    |
+| `ëllyvë`       | adj    | bright                            | —                   | —                                    |
+| `olvas`        | adj    | dim                               | —                   | —                                    |
+| `sielle`       | adj    | pale                              | —                   | —                                    |
+| `selthis`      | adj    | silver                            | —                   | —                                    |
+| `hirsa`        | adj    | gold, sun-coloured                | —                   | —                                    |
+| `hëlvi`        | adj    | white                             | —                   | —                                    |
+| `olsel`        | adj    | grey                              | —                   | —                                    |
+| `ivessa`       | adj    | blue, the colour of the high sky  | —                   | —                                    |
+| `ylvë`         | n      | the high air                      | —                   | —                                    |
+| `seivë`        | n      | a high cloud                      | —                   | —                                    |
+| `irilla`       | n      | the rainbow                       | —                   | —                                    |
+| `ilthavi`      | n      | the hour                          | —                   | —                                    |
+| `vithel`       | n      | the north                         | —                   | —                                    |
+| `malesse`      | n      | the south                         | —                   | —                                    |
+| `ëlthis`       | n      | the horizon                       | —                   | —                                    |
+| `nuuvanu`      | n      | a single star                     | `nuuva` + `-nu`     | [[skill-sinalelng\|Sinalë Language]] |
+| `nuuvasto`     | n      | a place of starlight              | `nuuva` + `-sto`    | [[skill-sinalelng\|Sinalë Language]] |
+| `nuuvasa`      | adj    | starlit                           | `nuuva` + `-sa`     | [[skill-sinalelng\|Sinalë Language]] |
+| `auliranu`     | n      | a ray of light                    | `aulira` + `-nu`    | —                                    |
+| `auliralu`     | n      | a glimmer                         | `aulira` + `-lu`    | —                                    |
+| `hirvelaulira` | n      | sunlight                          | `hirvel` + `aulira` | —                                    |
+| `sorelaulira`  | n      | moonlight                         | `sorel` + `aulira`  | —                                    |
+| `irvalosto`    | n      | the east, where the dawn is       | `irvalo` + `-sto`   | —                                    |
+| `olvessasto`   | n      | the west, where the dusk is       | `olvessa` + `-sto`  | —                                    |
+| `irvalolta`    | v      | dawn                              | `irvalo` + `-lta`   | —                                    |
+| `naldulta`     | v      | darken                            | `naldu` + `-lta`    | —                                    |
+| `nuuvarno`     | n      | a cluster of stars                | `nuuva` + `-rno`    | —                                    |
+| `sëëlissë`     | adj    | shining                           | `sëëlis` + `-së`    | —                                    |
+| `ëllyvërsë`    | n      | brightness                        | `ëllyvë` + `-rsë`   | —                                    |
+| `naldursa`     | n      | darkness, the quality of the dark | `naldu` + `-rsa`    | —                                    |
 
 ### Water, weather and the seasons
 
-| Form        | Class  | Gloss                       | Built from        | Attested                             |
-| ----------- | ------ | --------------------------- | ----------------- | ------------------------------------ |
-| `mollu`     | n      | deep pool                   | —                 | [[skill-sinalelng\|Sinalë Language]] |
-| `molu`      | n      | the colour of a deep pool   | —                 | [[skill-sinalelng\|Sinalë Language]] |
-| `unturo`    | n      | winter                      | —                 | [[skill-sinalelng\|Sinalë Language]] |
-| `uhto`      | n      | the still surface           | —                 | [[skill-sinalelng\|Sinalë Language]] |
-| `lavuri`    | n      | running water               | —                 | [[skill-sinalelng\|Sinalë Language]] |
-| `vuunu`     | n      | the slow river              | —                 | [[skill-sinalelng\|Sinalë Language]] |
-| `kehtu`     | n      | the cold spring             | —                 | [[skill-sinalelng\|Sinalë Language]] |
-| `solpu`     | n      | the smell of rain           | —                 | [[skill-sinalelng\|Sinalë Language]] |
-| `tahvu`     | n      | the low fog                 | —                 | [[skill-sinalelng\|Sinalë Language]] |
-| `hullo`     | n      | white frost                 | —                 | [[skill-sinalelng\|Sinalë Language]] |
-| `hinvy`     | n      | thin ice                    | —                 | [[skill-sinalelng\|Sinalë Language]] |
-| `nelly`     | n      | the first frost             | —                 | [[skill-sinalelng\|Sinalë Language]] |
-| `pyvë`      | n      | the low cloud               | —                 | [[skill-sinalelng\|Sinalë Language]] |
-| `hirsy`     | n      | the first thaw              | —                 | [[skill-sinalelng\|Sinalë Language]] |
-| `epyri`     | n      | still water                 | —                 | [[skill-sinalelng\|Sinalë Language]] |
-| `tëlly`     | n      | the falling drop            | —                 | [[skill-sinalelng\|Sinalë Language]] |
-| `lohvu`     | n      | water                       | —                 | —                                    |
-| `ruoso`     | n-coll | rain                        | —                 | —                                    |
-| `vyëly`     | n-coll | snow                        | —                 | —                                    |
-| `ruohu`     | n      | ice                         | —                 | —                                    |
-| `vouhto`    | n      | wind                        | —                 | —                                    |
-| `rauhku`    | n      | storm                       | —                 | —                                    |
-| `sëmmy`     | n      | mist                        | —                 | —                                    |
-| `hyëpy`     | n-coll | dew                         | —                 | —                                    |
-| `uolvu`     | n      | a river                     | —                 | —                                    |
-| `lyrri`     | n      | a brook                     | —                 | —                                    |
-| `homu`      | n      | a well, a source            | —                 | —                                    |
-| `ouma`      | n      | a lake                      | —                 | —                                    |
-| `urvo`      | n      | the sea                     | —                 | —                                    |
-| `vaulku`    | n      | a wave                      | —                 | —                                    |
-| `vyykky`    | n      | a waterfall                 | —                 | —                                    |
-| `sauhlo`    | n-coll | foam                        | —                 | —                                    |
-| `rouhmu`    | n      | thunder                     | —                 | —                                    |
-| `kirry`     | n      | lightning                   | —                 | —                                    |
-| `pyhky`     | n-coll | hail                        | —                 | —                                    |
-| `luhvi`     | n      | spring, the season          | —                 | —                                    |
-| `uumpa`     | n      | summer                      | —                 | —                                    |
-| `vehry`     | n      | autumn                      | —                 | —                                    |
-| `ymmi`      | adj    | warm                        | —                 | —                                    |
-| `pyëmmy`    | adj    | cold                        | —                 | —                                    |
-| `nossu`     | adj    | wet                         | —                 | —                                    |
-| `kelsy`     | adj    | dry                         | —                 | —                                    |
-| `uuvu`      | v      | flow                        | —                 | —                                    |
-| `tyrpi`     | n      | weather                     | —                 | —                                    |
-| `soivu`     | n      | a stone (in water, rounded) | —                 | —                                    |
-| `mollursa`  | n      | depth                       | `mollu` + `-rsa`  | [[skill-sinalelng\|Sinalë Language]] |
-| `pyvëly`    | n      | a wisp of cloud             | `pyvë` + `-ly`    | [[skill-sinalelng\|Sinalë Language]] |
-| `tahvuhta`  | v      | fog over                    | `tahvu` + `-hta`  | [[skill-sinalelng\|Sinalë Language]] |
-| `ruosonu`   | n      | a raindrop                  | `ruoso` + `-nu`   | —                                    |
-| `vyëlyny`   | n      | a snowflake                 | `vyëly` + `-ny`   | —                                    |
-| `hyëpyny`   | n      | a dewdrop                   | `hyëpy` + `-ny`   | —                                    |
-| `ruosohta`  | v      | rain                        | `ruoso` + `-hta`  | —                                    |
-| `vyëlyhtë`  | v      | snow                        | `vyëly` + `-htë`  | —                                    |
-| `ruohuhta`  | v      | freeze                      | `ruohu` + `-hta`  | —                                    |
-| `mollulu`   | n      | a little pool               | `mollu` + `-lu`   | —                                    |
-| `uolvulu`   | n      | a stream, a little river    | `uolvu` + `-lu`   | —                                    |
-| `ruososa`   | adj    | rainy                       | `ruoso` + `-sa`   | —                                    |
-| `vouhtosto` | n      | a windy place               | `vouhto` + `-sto` | —                                    |
-| `unturosa`  | adj    | wintry                      | `unturo` + `-sa`  | —                                    |
-| `lohvusa`   | adj    | watery                      | `lohvu` + `-sa`   | —                                    |
+| Form         | Class  | Gloss                       | Built from         | Attested                             |
+| ------------ | ------ | --------------------------- | ------------------ | ------------------------------------ |
+| `mollu`      | n      | deep pool                   | —                  | [[skill-sinalelng\|Sinalë Language]] |
+| `molu`       | n      | the colour of a deep pool   | —                  | [[skill-sinalelng\|Sinalë Language]] |
+| `unturo`     | n      | winter                      | —                  | [[skill-sinalelng\|Sinalë Language]] |
+| `esseli`     | n      | the still surface           | —                  | [[skill-sinalelng\|Sinalë Language]] |
+| `lavuri`     | n      | running water               | —                  | [[skill-sinalelng\|Sinalë Language]] |
+| `lanthavo`   | n      | the slow river              | —                  | [[skill-sinalelng\|Sinalë Language]] |
+| `kelvasi`    | n      | the cold spring             | —                  | [[skill-sinalelng\|Sinalë Language]] |
+| `solmeri`    | n      | the smell of rain           | —                  | [[skill-sinalelng\|Sinalë Language]] |
+| `thalve`     | n      | the low fog                 | —                  | [[skill-sinalelng\|Sinalë Language]] |
+| `hallesi`    | n      | white frost                 | —                  | [[skill-sinalelng\|Sinalë Language]] |
+| `ilvy`       | n      | thin ice                    | —                  | [[skill-sinalelng\|Sinalë Language]] |
+| `nelyvë`     | n      | the first frost             | —                  | [[skill-sinalelng\|Sinalë Language]] |
+| `pelvai`     | n      | the low cloud               | —                  | [[skill-sinalelng\|Sinalë Language]] |
+| `sulme`      | n      | the first thaw              | —                  | [[skill-sinalelng\|Sinalë Language]] |
+| `liseri`     | n      | still water                 | —                  | [[skill-sinalelng\|Sinalë Language]] |
+| `tëlvi`      | n      | the falling drop            | —                  | [[skill-sinalelng\|Sinalë Language]] |
+| `melve`      | n      | water                       | —                  | —                                    |
+| `rhavalo`    | n-coll | rain                        | —                  | —                                    |
+| `nyvë`       | n-coll | snow                        | —                  | —                                    |
+| `iskeli`     | n      | ice                         | —                  | —                                    |
+| `wilvai`     | n      | wind                        | —                  | —                                    |
+| `rhaskel`    | n      | storm                       | —                  | —                                    |
+| `sëlmis`     | n      | mist                        | —                  | —                                    |
+| `ëëvi`       | n-coll | dew                         | —                  | —                                    |
+| `lanthevi`   | n      | a river                     | —                  | —                                    |
+| `rinnel`     | n      | a brook                     | —                  | —                                    |
+| `uvenda`     | n      | a well, a source            | —                  | —                                    |
+| `wainessa`   | n      | a lake                      | —                  | —                                    |
+| `ulvanne`    | n      | the sea                     | —                  | —                                    |
+| `rhulla`     | n      | a wave                      | —                  | —                                    |
+| `salenda`    | n      | a waterfall                 | —                  | —                                    |
+| `seiva`      | n-coll | foam                        | —                  | —                                    |
+| `rhumma`     | n      | thunder                     | —                  | —                                    |
+| `rhiskalo`   | n      | lightning                   | —                  | —                                    |
+| `kestel`     | n-coll | hail                        | —                  | —                                    |
+| `leiren`     | n      | spring, the season          | —                  | —                                    |
+| `auremel`    | n      | summer                      | —                  | —                                    |
+| `verranel`   | n      | autumn                      | —                  | —                                    |
+| `emmara`     | adj    | warm                        | —                  | —                                    |
+| `hilsy`      | adj    | cold                        | —                  | —                                    |
+| `melis`      | adj    | wet                         | —                  | —                                    |
+| `harsel`     | adj    | dry                         | —                  | —                                    |
+| `irva`       | v      | flow                        | —                  | —                                    |
+| `elvane`     | n      | weather                     | —                  | —                                    |
+| `valmi`      | n      | a stone (in water, rounded) | —                  | —                                    |
+| `mollursa`   | n      | depth                       | `mollu` + `-rsa`   | [[skill-sinalelng\|Sinalë Language]] |
+| `pelvailu`   | n      | a wisp of cloud             | `pelvai` + `-lu`   | [[skill-sinalelng\|Sinalë Language]] |
+| `thalvelta`  | v      | fog over                    | `thalve` + `-lta`  | [[skill-sinalelng\|Sinalë Language]] |
+| `rhavalonu`  | n      | a raindrop                  | `rhavalo` + `-nu`  | —                                    |
+| `nyvëny`     | n      | a snowflake                 | `nyvë` + `-ny`     | —                                    |
+| `ëëviny`     | n      | a dewdrop                   | `ëëvi` + `-ny`     | —                                    |
+| `rhavalolta` | v      | rain                        | `rhavalo` + `-lta` | —                                    |
+| `nyvëltë`    | v      | snow                        | `nyvë` + `-ltë`    | —                                    |
+| `iskelilta`  | v      | freeze                      | `iskeli` + `-lta`  | —                                    |
+| `mollulu`    | n      | a little pool               | `mollu` + `-lu`    | —                                    |
+| `lanthevilu` | n      | a stream, a little river    | `lanthevi` + `-lu` | —                                    |
+| `rhavalosa`  | adj    | rainy                       | `rhavalo` + `-sa`  | —                                    |
+| `wilvaisto`  | n      | a windy place               | `wilvai` + `-sto`  | —                                    |
+| `unturosa`   | adj    | wintry                      | `unturo` + `-sa`   | —                                    |
+| `melvesa`    | adj    | watery                      | `melve` + `-sa`    | —                                    |
 
 ### Trees, plants and the living wood
 
-| Form          | Class  | Gloss                           | Built from         | Attested                             |
-| ------------- | ------ | ------------------------------- | ------------------ | ------------------------------------ |
-| `kouvi`       | n      | pale wood                       | —                  | [[skill-sinalelng\|Sinalë Language]] |
-| `rohku`       | n-coll | moss on stone                   | —                  | [[skill-sinalelng\|Sinalë Language]] |
-| `pouri`       | n      | the split log                   | —                  | [[skill-sinalelng\|Sinalë Language]] |
-| `lonvu`       | n      | the deep wood                   | —                  | [[skill-sinalelng\|Sinalë Language]] |
-| `rivy`        | n-coll | the turning leaf                | —                  | [[skill-sinalelng\|Sinalë Language]] |
-| `vylnë`       | n-coll | the tall grass                  | —                  | [[skill-sinalelng\|Sinalë Language]] |
-| `nylvi`       | n      | the deep root                   | —                  | [[skill-sinalelng\|Sinalë Language]] |
-| `kinsy`       | n      | the new shoot                   | —                  | [[skill-sinalelng\|Sinalë Language]] |
-| `pyrine`      | n      | the heartwood                   | —                  | [[skill-sinalelng\|Sinalë Language]] |
-| `salvu`       | n      | a tree                          | —                  | —                                    |
-| `suolvo`      | n      | the living wood                 | —                  | —                                    |
-| `vyssy`       | n-coll | leaves                          | —                  | —                                    |
-| `pauhka`      | n      | a branch                        | —                  | —                                    |
-| `nuopu`       | n      | bark                            | —                  | —                                    |
-| `hyki`        | n-coll | seed                            | —                  | —                                    |
-| `hëmmy`       | n      | a flower                        | —                  | —                                    |
-| `laihu`       | n-coll | turf, short grass               | —                  | —                                    |
-| `syrny`       | n-coll | fern                            | —                  | —                                    |
-| `soho`        | n      | a reed                          | —                  | —                                    |
-| `kyhty`       | n      | a thorn                         | —                  | —                                    |
-| `rëppy`       | n-coll | berries                         | —                  | —                                    |
-| `toumo`       | n      | an oak                          | —                  | —                                    |
-| `kyrny`       | n      | a pine                          | —                  | —                                    |
-| `uohma`       | n      | a yew                           | —                  | —                                    |
-| `vyhly`       | n      | a willow                        | —                  | —                                    |
-| `rësky`       | n      | a rowan                         | —                  | —                                    |
-| `tëssy`       | n      | an ash tree                     | —                  | —                                    |
-| `pousku`      | n      | a hazel                         | —                  | —                                    |
-| `ouppi`       | n      | an apple                        | —                  | —                                    |
-| `ruppu`       | n      | a mushroom                      | —                  | —                                    |
-| `lyynny`      | n      | a vine                          | —                  | —                                    |
-| `pëhly`       | n      | sap                             | —                  | —                                    |
-| `vuuhpa`      | v      | grow                            | —                  | —                                    |
-| `tyrvy`       | adj    | green                           | —                  | —                                    |
-| `kouvikko`    | n      | a stand of birch                | `kouvi` + `-kko`   | [[skill-sinalelng\|Sinalë Language]] |
-| `houvilonvu`  | n      | a birch stand within the forest | `kouvi` + `lonvu`  | [[skill-sinalelng\|Sinalë Language]] |
-| `salvukko`    | n      | a grove                         | `salvu` + `-kko`   | —                                    |
-| `salvulu`     | n      | a sapling                       | `salvu` + `-lu`    | —                                    |
-| `vyssyny`     | n      | a single leaf                   | `vyssy` + `-ny`    | —                                    |
-| `rivyny`      | n      | a single turning leaf           | `rivy` + `-ny`     | —                                    |
-| `hykiny`      | n      | a single seed                   | `hyki` + `-ny`     | —                                    |
-| `hëmmyhtë`    | v      | bloom                           | `hëmmy` + `-htë`   | —                                    |
-| `lonvusa`     | adj    | of the deep wood                | `lonvu` + `-sa`    | —                                    |
-| `vyssysë`     | adj    | leafy                           | `vyssy` + `-së`    | —                                    |
-| `lonvupyrine` | n      | the heart of the deep wood      | `lonvu` + `pyrine` | —                                    |
-| `tyrvyrsë`    | n      | greenness                       | `tyrvy` + `-rsë`   | —                                    |
+| Form           | Class  | Gloss                           | Built from          | Attested                             |
+| -------------- | ------ | ------------------------------- | ------------------- | ------------------------------------ |
+| `kalvi`        | n      | pale wood                       | —                   | [[skill-sinalelng\|Sinalë Language]] |
+| `olmasi`       | n-coll | moss on stone                   | —                   | [[skill-sinalelng\|Sinalë Language]] |
+| `porvi`        | n      | the split log                   | —                   | [[skill-sinalelng\|Sinalë Language]] |
+| `lonvu`        | n      | the deep wood                   | —                   | [[skill-sinalelng\|Sinalë Language]] |
+| `rivy`         | n-coll | the turning leaf                | —                   | [[skill-sinalelng\|Sinalë Language]] |
+| `lenthi`       | n-coll | the tall grass                  | —                   | [[skill-sinalelng\|Sinalë Language]] |
+| `nylvi`        | n      | the deep root                   | —                   | [[skill-sinalelng\|Sinalë Language]] |
+| `kinsa`        | n      | the new shoot                   | —                   | [[skill-sinalelng\|Sinalë Language]] |
+| `olmarna`      | n      | the heartwood                   | —                   | [[skill-sinalelng\|Sinalë Language]] |
+| `salvu`        | n      | a tree                          | —                   | —                                    |
+| `orvalla`      | n      | the living wood                 | —                   | —                                    |
+| `lauvi`        | n-coll | leaves                          | —                   | —                                    |
+| `varrel`       | n      | a branch                        | —                   | —                                    |
+| `ruskel`       | n      | bark                            | —                   | —                                    |
+| `aimeli`       | n-coll | seed                            | —                   | —                                    |
+| `sairi`        | n      | a flower                        | —                   | —                                    |
+| `levas`        | n-coll | turf, short grass               | —                   | —                                    |
+| `syrne`        | n-coll | fern                            | —                   | —                                    |
+| `ossel`        | n      | a reed                          | —                   | —                                    |
+| `kyskë`        | n      | a thorn                         | —                   | —                                    |
+| `morvel`       | n-coll | berries                         | —                   | —                                    |
+| `torvel`       | n      | an oak                          | —                   | —                                    |
+| `hersel`       | n      | a pine                          | —                   | —                                    |
+| `eiva`         | n      | a yew                           | —                   | —                                    |
+| `welise`       | n      | a willow                        | —                   | —                                    |
+| `ryssë`        | n      | a rowan                         | —                   | —                                    |
+| `elthes`       | n      | an ash tree                     | —                   | —                                    |
+| `hanvel`       | n      | a hazel                         | —                   | —                                    |
+| `lamaine`      | n      | an apple                        | —                   | —                                    |
+| `ormel`        | n      | a mushroom                      | —                   | —                                    |
+| `lirnë`        | n      | a vine                          | —                   | —                                    |
+| `alves`        | n      | sap                             | —                   | —                                    |
+| `lirva`        | v      | grow                            | —                   | —                                    |
+| `valsai`       | adj    | green                           | —                   | —                                    |
+| `kalvirno`     | n      | a stand of birch                | `kalvi` + `-rno`    | [[skill-sinalelng\|Sinalë Language]] |
+| `halvilonvu`   | n      | a birch stand within the forest | `kalvi` + `lonvu`   | [[skill-sinalelng\|Sinalë Language]] |
+| `salvurno`     | n      | a grove                         | `salvu` + `-rno`    | —                                    |
+| `salvulu`      | n      | a sapling                       | `salvu` + `-lu`     | —                                    |
+| `lauvinu`      | n      | a single leaf                   | `lauvi` + `-nu`     | —                                    |
+| `rivyny`       | n      | a single turning leaf           | `rivy` + `-ny`      | —                                    |
+| `aimelinu`     | n      | a single seed                   | `aimeli` + `-nu`    | —                                    |
+| `sairilta`     | v      | bloom                           | `sairi` + `-lta`    | —                                    |
+| `lonvusa`      | adj    | of the deep wood                | `lonvu` + `-sa`     | —                                    |
+| `lauvisa`      | adj    | leafy                           | `lauvi` + `-sa`     | —                                    |
+| `lonvuolmarna` | n      | the heart of the deep wood      | `lonvu` + `olmarna` | —                                    |
+| `valsairsa`    | n      | greenness                       | `valsai` + `-rsa`   | —                                    |
 
 ### Beasts and birds
 
 | Form         | Class  | Gloss         | Built from        | Attested |
 | ------------ | ------ | ------------- | ----------------- | -------- |
-| `vuhku`      | n      | a wild beast  | —                 | —        |
-| `vyrri`      | n-coll | birds         | —                 | —        |
-| `uohpa`      | n      | a deer        | —                 | —        |
-| `tauhko`     | n      | a stag        | —                 | —        |
-| `ryhky`      | n      | a fox         | —                 | —        |
-| `vuohku`     | n      | a wolf        | —                 | —        |
-| `urmo`       | n      | a bear        | —                 | —        |
-| `pyssi`      | n      | a hare        | —                 | —        |
+| `urthaven`   | n      | a wild beast  | —                 | —        |
+| `syrrë`      | n-coll | birds         | —                 | —        |
+| `ilsevi`     | n      | a deer        | —                 | —        |
+| `talmes`     | n      | a stag        | —                 | —        |
+| `rhennas`    | n      | a fox         | —                 | —        |
+| `vorsa`      | n      | a wolf        | —                 | —        |
+| `urnel`      | n      | a bear        | —                 | —        |
+| `lessan`     | n      | a hare        | —                 | —        |
 | `rissy`      | n      | a squirrel    | —                 | —        |
-| `vuuho`      | n      | an owl        | —                 | —        |
-| `rouhka`     | n      | a raven       | —                 | —        |
-| `vëëssy`     | n      | a swan        | —                 | —        |
-| `tihvy`      | n      | a hawk        | —                 | —        |
-| `pauhva`     | n      | an eagle      | —                 | —        |
+| `huvela`     | n      | an owl        | —                 | —        |
+| `kaurel`     | n      | a raven       | —                 | —        |
+| `sylvë`      | n      | a swan        | —                 | —        |
+| `tihvel`     | n      | a hawk        | —                 | —        |
+| `rhaumel`    | n      | an eagle      | —                 | —        |
 | `lirsy`      | n      | a songbird    | —                 | —        |
-| `vuoso`      | n-coll | fish          | —                 | —        |
-| `kouhpu`     | n      | a salmon      | —                 | —        |
-| `sihly`      | n      | a snake       | —                 | —        |
-| `rouha`      | n      | a horse       | —                 | —        |
+| `hulma`      | n-coll | fish          | —                 | —        |
+| `eralde`     | n      | a salmon      | —                 | —        |
+| `sylthë`     | n      | a snake       | —                 | —        |
+| `harnel`     | n      | a horse       | —                 | —        |
 | `rennu`      | n      | a dog         | —                 | —        |
 | `mëëry`      | n-coll | sheep         | —                 | —        |
-| `pyhly`      | n      | a moth        | —                 | —        |
-| `vyyhy`      | n-coll | bees          | —                 | —        |
-| `sëhly`      | n      | a feather     | —                 | —        |
-| `sëppy`      | n      | a wing        | —                 | —        |
-| `muohku`     | n      | a nest        | —                 | —        |
-| `kuhvu`      | n      | an antler     | —                 | —        |
-| `suohtu`     | v      | hunt          | —                 | —        |
-| `vyyhi`      | v      | fly           | —                 | —        |
-| `vyrriny`    | n      | a single bird | `vyrri` + `-ny`   | —        |
-| `vyrrikkë`   | n      | a flock       | `vyrri` + `-kkë`  | —        |
-| `vyrriluuro` | n      | birdsong      | `vyrri` + `luuro` | —        |
-| `vuohkukko`  | n      | a wolf pack   | `vuohku` + `-kko` | —        |
-| `uohpalu`    | n      | a fawn        | `uohpa` + `-lu`   | —        |
+| `hylvë`      | n      | a moth        | —                 | —        |
+| `vyrni`      | n-coll | bees          | —                 | —        |
+| `hialle`     | n      | a feather     | —                 | —        |
+| `vailen`     | n      | a wing        | —                 | —        |
+| `maulve`     | n      | a nest        | —                 | —        |
+| `kirvas`     | n      | an antler     | —                 | —        |
+| `suldi`      | v      | hunt          | —                 | —        |
+| `sauvel`     | v      | fly           | —                 | —        |
+| `syrrëny`    | n      | a single bird | `syrrë` + `-ny`   | —        |
+| `syrrërnë`   | n      | a flock       | `syrrë` + `-rnë`  | —        |
+| `syrrëluuro` | n      | birdsong      | `syrrë` + `luuro` | —        |
+| `vorsarno`   | n      | a wolf pack   | `vorsa` + `-rno`  | —        |
+| `ilsevilu`   | n      | a fawn        | `ilsevi` + `-lu`  | —        |
 | `mëëryly`    | n      | a lamb        | `mëëry` + `-ly`   | —        |
-| `vuosonu`    | n      | a single fish | `vuoso` + `-nu`   | —        |
-| `vyyhyny`    | n      | a single bee  | `vyyhy` + `-ny`   | —        |
-| `suohtuttu`  | n      | a hunter      | `suohtu` + `-ttu` | —        |
+| `hulmanu`    | n      | a single fish | `hulma` + `-nu`   | —        |
+| `vyrniny`    | n      | a single bee  | `vyrni` + `-ny`   | —        |
+| `suldinno`   | n      | a hunter      | `suldi` + `-nno`  | —        |
 
 ### The land: ground, hill, valley, shore and stone
 
-| Form        | Class  | Gloss                     | Built from        | Attested                             |
-| ----------- | ------ | ------------------------- | ----------------- | ------------------------------------ |
-| `tuhli`     | n      | the long road             | —                 | [[skill-sinalelng\|Sinalë Language]] |
-| `masseri`   | n      | the deep ground           | —                 | [[skill-sinalelng\|Sinalë Language]] |
-| `ruhvo`     | n      | the lifted stone          | —                 | [[skill-sinalelng\|Sinalë Language]] |
-| `loova`     | n      | the far bank              | —                 | [[skill-sinalelng\|Sinalë Language]] |
-| `tehy`      | n      | the clear place           | —                 | [[skill-sinalelng\|Sinalë Language]] |
-| `uhva`      | n      | earth, soil               | —                 | —                                    |
-| `uhpu`      | n      | a crag                    | —                 | —                                    |
-| `nouho`     | n      | a hill                    | —                 | —                                    |
-| `sormu`     | n      | a mountain                | —                 | —                                    |
-| `rousu`     | n      | a valley                  | —                 | —                                    |
-| `lirvy`     | n      | a shore                   | —                 | —                                    |
-| `sëëty`     | n      | an island                 | —                 | —                                    |
-| `pyrsy`     | n      | a cliff                   | —                 | —                                    |
-| `hohvo`     | n      | a cave                    | —                 | —                                    |
-| `lëësy`     | n      | a path                    | —                 | —                                    |
-| `rëësy`     | n      | a mountain pass           | —                 | —                                    |
-| `syëlmi`    | n      | a meadow                  | —                 | —                                    |
-| `hyëmmy`    | n      | a marsh                   | —                 | —                                    |
-| `lehry`     | n      | a slope                   | —                 | —                                    |
-| `kounu`     | n      | a ridge                   | —                 | —                                    |
-| `vyrky`     | n      | a peak                    | —                 | —                                    |
-| `syhky`     | n-coll | sand                      | —                 | —                                    |
-| `nuoko`     | n      | clay                      | —                 | —                                    |
-| `pysky`     | n-coll | dust                      | —                 | —                                    |
-| `kuohvo`    | adj    | far                       | —                 | —                                    |
-| `hëpy`      | adj    | near                      | —                 | —                                    |
-| `kyyhy`     | adj    | high                      | —                 | —                                    |
-| `oumpu`     | adj    | low                       | —                 | —                                    |
-| `ohvu`      | adj    | deep                      | —                 | —                                    |
-| `roumi`     | adj    | wide                      | —                 | —                                    |
-| `pouho`     | n      | the ground underfoot      | —                 | —                                    |
-| `soivulu`   | n      | a pebble                  | `soivu` + `-lu`   | —                                    |
-| `soivukko`  | n      | a ring of standing stones | `soivu` + `-kko`  | —                                    |
-| `nouholu`   | n      | a hillock                 | `nouho` + `-lu`   | —                                    |
-| `soivusa`   | adj    | stony                     | `soivu` + `-sa`   | —                                    |
-| `sormusa`   | adj    | mountainous               | `sormu` + `-sa`   | —                                    |
-| `hëpyrsë`   | n      | nearness                  | `hëpy` + `-rsë`   | —                                    |
-| `kuohvorsa` | n      | distance                  | `kuohvo` + `-rsa` | —                                    |
+| Form         | Class  | Gloss                     | Built from         | Attested                             |
+| ------------ | ------ | ------------------------- | ------------------ | ------------------------------------ |
+| `tirvali`    | n      | the long road             | —                  | [[skill-sinalelng\|Sinalë Language]] |
+| `masseri`    | n      | the deep ground           | —                  | [[skill-sinalelng\|Sinalë Language]] |
+| `rhoveli`    | n      | the lifted stone          | —                  | [[skill-sinalelng\|Sinalë Language]] |
+| `loova`      | n      | the far bank              | —                  | [[skill-sinalelng\|Sinalë Language]] |
+| `ileva`      | n      | the clear place           | —                  | [[skill-sinalelng\|Sinalë Language]] |
+| `maldes`     | n      | earth, soil               | —                  | —                                    |
+| `harkel`     | n      | a crag                    | —                  | —                                    |
+| `auldi`      | n      | a hill                    | —                  | —                                    |
+| `sorvanda`   | n      | a mountain                | —                  | —                                    |
+| `aunelle`    | n      | a valley                  | —                  | —                                    |
+| `lirvy`      | n      | a shore                   | —                  | —                                    |
+| `sennel`     | n      | an island                 | —                  | —                                    |
+| `kaldis`     | n      | a cliff                   | —                  | —                                    |
+| `haumen`     | n      | a cave                    | —                  | —                                    |
+| `lëësy`      | n      | a path                    | —                  | —                                    |
+| `aldesse`    | n      | a mountain pass           | —                  | —                                    |
+| `saulen`     | n      | a meadow                  | —                  | —                                    |
+| `hemmira`    | n      | a marsh                   | —                  | —                                    |
+| `lenvas`     | n      | a slope                   | —                  | —                                    |
+| `ardas`      | n      | a ridge                   | —                  | —                                    |
+| `vyrkë`      | n      | a peak                    | —                  | —                                    |
+| `sallen`     | n-coll | sand                      | —                  | —                                    |
+| `ammas`      | n      | clay                      | —                  | —                                    |
+| `lyssel`     | n-coll | dust                      | —                  | —                                    |
+| `evanne`     | adj    | far                       | —                  | —                                    |
+| `hëpy`       | adj    | near                      | —                  | —                                    |
+| `aldis`      | adj    | high                      | —                  | —                                    |
+| `ulsa`       | adj    | low                       | —                  | —                                    |
+| `ulvas`      | adj    | deep                      | —                  | —                                    |
+| `rhavan`     | adj    | wide                      | —                  | —                                    |
+| `polme`      | n      | the ground underfoot      | —                  | —                                    |
+| `valmilu`    | n      | a pebble                  | `valmi` + `-lu`    | —                                    |
+| `valmirno`   | n      | a ring of standing stones | `valmi` + `-rno`   | —                                    |
+| `auldilu`    | n      | a hillock                 | `auldi` + `-lu`    | —                                    |
+| `valmisa`    | adj    | stony                     | `valmi` + `-sa`    | —                                    |
+| `sorvandasa` | adj    | mountainous               | `sorvanda` + `-sa` | —                                    |
+| `hëpyrsë`    | n      | nearness                  | `hëpy` + `-rsë`    | —                                    |
+| `evannersa`  | n      | distance                  | `evanne` + `-rsa`  | —                                    |
 
 ### Song, speech, memory and the telling
 
-| Form        | Class | Gloss                            | Built from        | Attested                             |
-| ----------- | ----- | -------------------------------- | ----------------- | ------------------------------------ |
-| `tymë`      | n     | the small bell                   | —                 | [[skill-sinalelng\|Sinalë Language]] |
-| `kyllë`     | n     | the far call                     | —                 | [[skill-sinalelng\|Sinalë Language]] |
-| `syllë`     | n     | the rising note                  | —                 | [[skill-sinalelng\|Sinalë Language]] |
-| `hoivu`     | n     | wearing                          | —                 | [[skill-sinalelng\|Sinalë Language]] |
-| `luuro`     | v     | sing                             | —                 | [[skill-sinalelng\|Sinalë Language]] |
-| `myrpy`     | n     | a song                           | —                 | —                                    |
-| `tyhnë`     | n     | a line of verse                  | —                 | —                                    |
-| `pëhny`     | n     | a word                           | —                 | —                                    |
-| `syëny`     | n     | a name                           | —                 | —                                    |
-| `kuohva`    | n     | speech, a tongue                 | —                 | —                                    |
-| `vyëlly`    | n     | a voice                          | —                 | —                                    |
-| `nuhvo`     | v     | speak                            | —                 | —                                    |
-| `kyëssi`    | v     | hear                             | —                 | —                                    |
-| `rëhmy`     | v     | answer                           | —                 | —                                    |
-| `vouho`     | v     | ask                              | —                 | —                                    |
-| `ëëhti`     | n     | silence                          | —                 | —                                    |
-| `myrvi`     | n     | memory                           | —                 | —                                    |
-| `hëëpy`     | v     | forget                           | —                 | —                                    |
-| `tuohvo`    | n     | a tale                           | —                 | —                                    |
-| `kyhly`     | n     | a harp                           | —                 | —                                    |
-| `houmpu`    | n     | a drum                           | —                 | —                                    |
-| `sëvy`      | n     | a note in music                  | —                 | —                                    |
-| `syrvy`     | n     | a lay, a long song               | —                 | —                                    |
-| `kihly`     | n     | laughter                         | —                 | —                                    |
-| `syhpy`     | v     | whisper                          | —                 | —                                    |
-| `vyrsy`     | n     | writing, the written hand        | —                 | —                                    |
-| `tëëky`     | n     | a written sign                   | —                 | —                                    |
-| `hëëssi`    | adj   | true                             | —                 | —                                    |
-| `këppy`     | n     | a lie                            | —                 | —                                    |
-| `huumo`     | n     | meaning                          | —                 | —                                    |
-| `souhko`    | v     | teach                            | —                 | —                                    |
-| `ruomi`     | v     | learn                            | —                 | —                                    |
-| `pëëly`     | n     | a tune                           | —                 | —                                    |
-| `luurottu`  | n     | a singer                         | `luuro` + `-ttu`  | [[skill-sinalelng\|Sinalë Language]] |
-| `luuropi`   | n     | a pipe                           | `luuro` + `-pi`   | [[skill-sinalelng\|Sinalë Language]] |
-| `myrpyly`   | n     | a little song                    | `myrpy` + `-ly`   | —                                    |
-| `tuohvottu` | n     | a teller of tales                | `tuohvo` + `-ttu` | —                                    |
-| `pëhnykkë`  | n     | a hoard of words, a speech       | `pëhny` + `-kkë`  | —                                    |
-| `myrvihtë`  | v     | remember                         | `myrvi` + `-htë`  | —                                    |
-| `myrvikkë`  | n     | lore, what memory holds together | `myrvi` + `-kkë`  | —                                    |
-| `vyrsyhtë`  | v     | write                            | `vyrsy` + `-htë`  | —                                    |
-| `vyrsytty`  | n     | a scribe                         | `vyrsy` + `-tty`  | —                                    |
-| `kyllëly`   | n     | an echo                          | `kyllë` + `-ly`   | —                                    |
-| `kyllëhtë`  | v     | call                             | `kyllë` + `-htë`  | —                                    |
-| `syënyhtë`  | v     | name                             | `syëny` + `-htë`  | —                                    |
-| `hëëssirsë` | n     | truth                            | `hëëssi` + `-rsë` | —                                    |
-| `luurosa`   | adj   | singing                          | `luuro` + `-sa`   | —                                    |
-| `nuhvottu`  | n     | a speaker                        | `nuhvo` + `-ttu`  | —                                    |
+| Form         | Class | Gloss                                | Built from         | Attested                               |
+| ------------ | ----- | ------------------------------------ | ------------------ | -------------------------------------- |
+| `tellavi`    | n     | the small bell                       | —                  | [[skill-sinalelng\|Sinalë Language]]   |
+| `kilvë`      | n     | the far call                         | —                  | [[skill-sinalelng\|Sinalë Language]]   |
+| `syllë`      | n     | the rising note                      | —                  | [[skill-sinalelng\|Sinalë Language]]   |
+| `olvenne`    | n     | wearing                              | —                  | [[skill-sinalelng\|Sinalë Language]]   |
+| `luuro`      | v     | sing                                 | —                  | [[skill-sinalelng\|Sinalë Language]]   |
+| `olnaro`     | n     | a song                               | —                  | —                                      |
+| `tylnë`      | n     | a line of verse                      | —                  | —                                      |
+| `evesi`      | n     | a word                               | —                  | —                                      |
+| `sirne`      | n     | a name                               | —                  | —                                      |
+| `evalla`     | n     | speech, a tongue                     | —                  | —                                      |
+| `evelle`     | n     | a voice                              | —                  | —                                      |
+| `evathe`     | v     | speak                                | —                  | —                                      |
+| `kelsa`      | v     | hear                                 | —                  | —                                      |
+| `wandel`     | v     | answer                               | —                  | —                                      |
+| `kessave`    | v     | ask                                  | —                  | —                                      |
+| `hissel`     | n     | silence                              | —                  | —                                      |
+| `serdalo`    | n     | memory                               | —                  | —                                      |
+| `olvathe`    | v     | forget                               | —                  | —                                      |
+| `ennedhi`    | n     | a tale                               | —                  | —                                      |
+| `kanthal`    | n     | a harp                               | —                  | —                                      |
+| `hommas`     | n     | a drum                               | —                  | —                                      |
+| `sëvis`      | n     | a note in music                      | —                  | —                                      |
+| `ellanthe`   | n     | a lay, a long song                   | —                  | —                                      |
+| `kilthë`     | n     | laughter                             | —                  | —                                      |
+| `hylsë`      | v     | whisper                              | —                  | —                                      |
+| `veldi`      | n     | writing, the written hand            | —                  | —                                      |
+| `tellirë`    | n     | a written sign                       | —                  | —                                      |
+| `thennai`    | adj   | true                                 | —                  | —                                      |
+| `kippel`     | n     | a lie                                | —                  | —                                      |
+| `olmis`      | n     | meaning                              | —                  | —                                      |
+| `saumel`     | v     | teach                                | —                  | —                                      |
+| `ruvas`      | v     | learn                                | —                  | —                                      |
+| `ellinë`     | n     | a tune                               | —                  | —                                      |
+| `luuronno`   | n     | a singer                             | `luuro` + `-nno`   | [[skill-sinalelng\|Sinalë Language]]   |
+| `luuropi`    | n     | a pipe                               | `luuro` + `-pi`    | [[skill-sinalelng\|Sinalë Language]]   |
+| `olnarolu`   | n     | a little song                        | `olnaro` + `-lu`   | —                                      |
+| `ennedhinno` | n     | a teller of tales                    | `ennedhi` + `-nno` | —                                      |
+| `evesirno`   | n     | a hoard of words, a speech           | `evesi` + `-rno`   | —                                      |
+| `serdalolta` | v     | remember                             | `serdalo` + `-lta` | —                                      |
+| `serdalorno` | n     | lore, what memory holds together     | `serdalo` + `-rno` | —                                      |
+| `veldilta`   | v     | write                                | `veldi` + `-lta`   | —                                      |
+| `veldinno`   | n     | a scribe                             | `veldi` + `-nno`   | —                                      |
+| `veldirno`   | n     | the gathered hand; the Sinalë script | `veldi` + `-rno`   | [[skill-clthndscrpt\|Veldirno Script]] |
+| `kilvëly`    | n     | an echo                              | `kilvë` + `-ly`    | —                                      |
+| `kilvëltë`   | v     | call                                 | `kilvë` + `-ltë`   | —                                      |
+| `sirnelta`   | v     | name                                 | `sirne` + `-lta`   | —                                      |
+| `thennairsa` | n     | truth                                | `thennai` + `-rsa` | —                                      |
+| `luurosa`    | adj   | singing                              | `luuro` + `-sa`    | —                                      |
+| `evathenno`  | n     | a speaker                            | `evathe` + `-nno`  | —                                      |
 
 ### Craft: weaving, wood-shaping, healing and the hand
 
-| Form       | Class  | Gloss                  | Built from       | Attested                             |
-| ---------- | ------ | ---------------------- | ---------------- | ------------------------------------ |
-| `ohkuri`   | n      | the cupped hand        | —                | [[skill-sinalelng\|Sinalë Language]] |
-| `pohvu`    | n      | woven cloth            | —                | [[skill-sinalelng\|Sinalë Language]] |
-| `ressi`    | n      | the plaited mat        | —                | [[skill-sinalelng\|Sinalë Language]] |
-| `oumo`     | n      | a hand                 | —                | —                                    |
-| `sylpi`    | n      | a finger               | —                | —                                    |
-| `nyëhti`   | n      | a thread               | —                | —                                    |
-| `syhpi`    | n      | a needle               | —                | —                                    |
-| `tëhpy`    | n      | a knife                | —                | —                                    |
-| `hyrkë`    | n      | an axe                 | —                | —                                    |
-| `husku`    | v      | carve                  | —                | —                                    |
-| `rëkky`    | n      | a bow                  | —                | —                                    |
-| `kyhtë`    | n      | an arrow               | —                | —                                    |
-| `sauhki`   | n      | a spear                | —                | —                                    |
-| `ëmmy`     | v      | heal                   | —                | —                                    |
-| `mëhvy`    | n-coll | herbs                  | —                | —                                    |
-| `voussu`   | n      | a salve                | —                | —                                    |
-| `ëhky`     | n      | fire                   | —                | —                                    |
-| `kyhny`    | n      | an ember               | —                | —                                    |
-| `ouppo`    | n      | a cup                  | —                | —                                    |
-| `tonku`    | n      | a jar                  | —                | —                                    |
-| `nyhvi`    | n      | a cord                 | —                | —                                    |
-| `pëkky`    | n      | a knot                 | —                | —                                    |
-| `oivu`     | v      | make                   | —                | —                                    |
-| `pyëlky`   | v      | mend                   | —                | —                                    |
-| `louha`    | n      | leather                | —                | —                                    |
-| `vuuhmo`   | n-coll | wool                   | —                | —                                    |
-| `sëhmy`    | n      | colour                 | —                | —                                    |
-| `tëmmy`    | n      | bread                  | —                | —                                    |
-| `pohvuhta` | v      | weave                  | `pohvu` + `-hta` | —                                    |
-| `pohvuttu` | n      | a weaver               | `pohvu` + `-ttu` | —                                    |
-| `pohvupi`  | n      | a loom                 | `pohvu` + `-pi`  | —                                    |
-| `ëmmytty`  | n      | a healer               | `ëmmy` + `-tty`  | —                                    |
-| `huskuttu` | n      | a carver               | `husku` + `-ttu` | —                                    |
-| `oivursa`  | n      | craft, skill in making | `oivu` + `-rsa`  | —                                    |
-| `oivuttu`  | n      | a maker                | `oivu` + `-ttu`  | —                                    |
-| `oivupi`   | n      | a tool                 | `oivu` + `-pi`   | —                                    |
-| `oivusa`   | adj    | skilled                | `oivu` + `-sa`   | —                                    |
-| `tëmmyny`  | n      | a loaf                 | `tëmmy` + `-ny`  | —                                    |
-| `tëmmyhtë` | v      | bake                   | `tëmmy` + `-htë` | —                                    |
-| `ëhkystë`  | n      | a fire-pit             | `ëhky` + `-stë`  | —                                    |
-| `sëhmyhtë` | v      | dye                    | `sëhmy` + `-htë` | —                                    |
+| Form         | Class  | Gloss                  | Built from         | Attested                             |
+| ------------ | ------ | ---------------------- | ------------------ | ------------------------------------ |
+| `almari`     | n      | the cupped hand        | —                  | [[skill-sinalelng\|Sinalë Language]] |
+| `lorrami`    | n      | woven cloth            | —                  | [[skill-sinalelng\|Sinalë Language]] |
+| `ressi`      | n      | the plaited mat        | —                  | [[skill-sinalelng\|Sinalë Language]] |
+| `almen`      | n      | a hand                 | —                  | —                                    |
+| `thirel`     | n      | a finger               | —                  | —                                    |
+| `virnis`     | n      | a thread               | —                  | —                                    |
+| `tiskë`      | n      | a needle               | —                  | —                                    |
+| `terka`      | n      | a knife                | —                  | —                                    |
+| `hyrkë`      | n      | an axe                 | —                  | —                                    |
+| `halthe`     | v      | carve                  | —                  | —                                    |
+| `kaives`     | n      | a bow                  | —                  | —                                    |
+| `kiste`      | n      | an arrow               | —                  | —                                    |
+| `kelmas`     | n      | a spear                | —                  | —                                    |
+| `maureli`    | v      | heal                   | —                  | —                                    |
+| `nelme`      | n-coll | herbs                  | —                  | —                                    |
+| `mellis`     | n      | a salve                | —                  | —                                    |
+| `hyrrë`      | n      | fire                   | —                  | —                                    |
+| `seltha`     | n      | an ember               | —                  | —                                    |
+| `kalven`     | n      | a cup                  | —                  | —                                    |
+| `tolva`      | n      | a jar                  | —                  | —                                    |
+| `rassil`     | n      | a cord                 | —                  | —                                    |
+| `sarnoli`    | n      | a knot                 | —                  | —                                    |
+| `irna`       | v      | make                   | —                  | —                                    |
+| `pelke`      | v      | mend                   | —                  | —                                    |
+| `louha`      | n      | leather                | —                  | —                                    |
+| `vuulla`     | n-coll | wool                   | —                  | —                                    |
+| `selmai`     | n      | colour                 | —                  | —                                    |
+| `tarnevi`    | n      | bread                  | —                  | —                                    |
+| `lorramilta` | v      | weave                  | `lorrami` + `-lta` | —                                    |
+| `lorraminno` | n      | a weaver               | `lorrami` + `-nno` | —                                    |
+| `lorramipi`  | n      | a loom                 | `lorrami` + `-pi`  | —                                    |
+| `maurelinno` | n      | a healer               | `maureli` + `-nno` | —                                    |
+| `halthenno`  | n      | a carver               | `halthe` + `-nno`  | —                                    |
+| `irnarsa`    | n      | craft, skill in making | `irna` + `-rsa`    | —                                    |
+| `irnanno`    | n      | a maker                | `irna` + `-nno`    | —                                    |
+| `irnapi`     | n      | a tool                 | `irna` + `-pi`     | —                                    |
+| `irnasa`     | adj    | skilled                | `irna` + `-sa`     | —                                    |
+| `tarnevinu`  | n      | a loaf                 | `tarnevi` + `-nu`  | —                                    |
+| `tarnevilta` | v      | bake                   | `tarnevi` + `-lta` | —                                    |
+| `hyrrëstë`   | n      | a fire-pit             | `hyrrë` + `-stë`   | —                                    |
+| `selmailta`  | v      | dye                    | `selmai` + `-lta`  | —                                    |
 
 ### Kin, hearth, the person and the body
 
-| Form       | Class  | Gloss                                 | Built from       | Attested                             |
-| ---------- | ------ | ------------------------------------- | ---------------- | ------------------------------------ |
-| `huoma`    | n      | the first warmth                      | —                | [[skill-sinalelng\|Sinalë Language]] |
-| `hyssë`    | n      | the held breath                       | —                | [[skill-sinalelng\|Sinalë Language]] |
-| `ouru`     | n      | a hearth                              | —                | —                                    |
-| `vëmmy`    | n      | a home                                | —                | —                                    |
-| `lohmo`    | n      | a house                               | —                | —                                    |
-| `ëmpi`     | n      | a mother                              | —                | —                                    |
-| `ouho`     | n      | a father                              | —                | —                                    |
-| `pyëly`    | n      | a child                               | —                | —                                    |
-| `syrri`    | n      | a sibling                             | —                | —                                    |
-| `tohvo`    | n-coll | kin                                   | —                | —                                    |
-| `ëhpy`     | n      | a friend                              | —                | —                                    |
-| `louvi`    | n      | a guest                               | —                | —                                    |
-| `kaurmu`   | n      | a stranger                            | —                | —                                    |
-| `vyymi`    | n      | a person                              | —                | —                                    |
-| `tauhmo`   | n-coll | the folk                              | —                | —                                    |
-| `vuoltu`   | n      | an elder                              | —                | —                                    |
-| `pyëny`    | adj    | young                                 | —                | —                                    |
-| `voonu`    | adj    | old                                   | —                | —                                    |
-| `ruuppu`   | n      | a body                                | —                | —                                    |
-| `paupo`    | n      | a head                                | —                | —                                    |
-| `tyëmy`    | n      | an eye                                | —                | —                                    |
-| `nymmi`    | n      | an ear                                | —                | —                                    |
-| `vauho`    | n      | a mouth                               | —                | —                                    |
-| `lyspy`    | n      | a tongue                              | —                | —                                    |
-| `lyëmy`    | n      | a heart                               | —                | —                                    |
-| `uurso`    | n-coll | blood                                 | —                | —                                    |
-| `sorpu`    | n      | a bone                                | —                | —                                    |
-| `rëssy`    | n      | skin                                  | —                | —                                    |
-| `mylpy`    | n-coll | hair                                  | —                | —                                    |
-| `ëhny`     | n      | breath                                | —                | —                                    |
-| `nëhvy`    | n      | a face                                | —                | —                                    |
-| `pyrkë`    | n      | a foot                                | —                | —                                    |
-| `nyëmy`    | v      | sleep                                 | —                | —                                    |
-| `mampu`    | v      | eat                                   | —                | —                                    |
-| `lyëpy`    | v      | drink                                 | —                | —                                    |
-| `nëëry`    | v      | love                                  | —                | —                                    |
-| `pyëlyly`  | n      | a little one, a babe                  | `pyëly` + `-ly`  | —                                    |
-| `tohvosa`  | adj    | related, of one kin                   | `tohvo` + `-sa`  | —                                    |
-| `ëhpyrsë`  | n      | friendship                            | `ëhpy` + `-rsë`  | —                                    |
-| `louvirsa` | n      | guest-right, the welcome owed a guest | `louvi` + `-rsa` | —                                    |
-| `nëëryrsë` | n      | fondness                              | `nëëry` + `-rsë` | —                                    |
-| `nyëmystë` | n      | a bed, a sleeping place               | `nyëmy` + `-stë` | —                                    |
-| `voonursa` | n      | oldness                               | `voonu` + `-rsa` | —                                    |
-| `pyënyrsë` | n      | youth                                 | `pyëny` + `-rsë` | —                                    |
+| Form        | Class  | Gloss                                 | Built from        | Attested                             |
+| ----------- | ------ | ------------------------------------- | ----------------- | ------------------------------------ |
+| `huoma`     | n      | the first warmth                      | —                 | [[skill-sinalelng\|Sinalë Language]] |
+| `hyssë`     | n      | the held breath                       | —                 | [[skill-sinalelng\|Sinalë Language]] |
+| `aulessa`   | n      | a hearth                              | —                 | —                                    |
+| `vëlmis`    | n      | a home                                | —                 | —                                    |
+| `ninthe`    | n      | a house                               | —                 | —                                    |
+| `ennave`    | n      | a mother                              | —                 | —                                    |
+| `hauvel`    | n      | a father                              | —                 | —                                    |
+| `nyssë`     | n      | a child                               | —                 | —                                    |
+| `maldira`   | n      | a sibling                             | —                 | —                                    |
+| `ernavi`    | n-coll | kin                                   | —                 | —                                    |
+| `ansevi`    | n      | a friend                              | —                 | —                                    |
+| `ellevi`    | n      | a guest                               | —                 | —                                    |
+| `ulkas`     | n      | a stranger                            | —                 | —                                    |
+| `lirne`     | n      | a person                              | —                 | —                                    |
+| `sinalo`    | n      | one of the Sinalë                     | —                 | [[lore-flksinale\|Sinalë Folk]]      |
+| `thaumel`   | n-coll | the folk                              | —                 | —                                    |
+| `voldan`    | n      | an elder                              | —                 | —                                    |
+| `yëmi`      | adj    | young                                 | —                 | —                                    |
+| `voonu`     | adj    | old                                   | —                 | —                                    |
+| `rhamme`    | n      | a body                                | —                 | —                                    |
+| `pauves`    | n      | a head                                | —                 | —                                    |
+| `tylvë`     | n      | an eye                                | —                 | —                                    |
+| `lenvase`   | n      | an ear                                | —                 | —                                    |
+| `aumel`     | n      | a mouth                               | —                 | —                                    |
+| `lalve`     | n      | a tongue                              | —                 | —                                    |
+| `inthis`    | n      | a heart                               | —                 | —                                    |
+| `haurre`    | n-coll | blood                                 | —                 | —                                    |
+| `sorpe`     | n      | a bone                                | —                 | —                                    |
+| `vessira`   | n      | skin                                  | —                 | —                                    |
+| `lirsa`     | n-coll | hair                                  | —                 | —                                    |
+| `hëëvë`     | n      | breath                                | —                 | —                                    |
+| `nërvë`     | n      | a face                                | —                 | —                                    |
+| `pauren`    | n      | a foot                                | —                 | —                                    |
+| `nauli`     | v      | sleep                                 | —                 | —                                    |
+| `mairel`    | v      | eat                                   | —                 | —                                    |
+| `leval`     | v      | drink                                 | —                 | —                                    |
+| `nëërë`     | v      | love                                  | —                 | —                                    |
+| `nyssëly`   | n      | a little one, a babe                  | `nyssë` + `-ly`   | —                                    |
+| `ernavisa`  | adj    | related, of one kin                   | `ernavi` + `-sa`  | —                                    |
+| `ansevirsa` | n      | friendship                            | `ansevi` + `-rsa` | —                                    |
+| `ellevirsa` | n      | guest-right, the welcome owed a guest | `ellevi` + `-rsa` | —                                    |
+| `nëërërsë`  | n      | fondness                              | `nëërë` + `-rsë`  | —                                    |
+| `naulisto`  | n      | a bed, a sleeping place               | `nauli` + `-sto`  | —                                    |
+| `voonursa`  | n      | oldness                               | `voonu` + `-rsa`  | —                                    |
+| `yëmirsë`   | n      | youth                                 | `yëmi` + `-rsë`   | —                                    |
 
 ### Time: age, season, waiting and the long view
 
-| Form          | Class | Gloss            | Built from         | Attested                             |
-| ------------- | ----- | ---------------- | ------------------ | ------------------------------------ |
-| `toiru`       | n     | the turning year | —                  | [[skill-sinalelng\|Sinalë Language]] |
-| `ansoru`      | n     | the long watch   | —                  | [[skill-sinalelng\|Sinalë Language]] |
-| `nuomi`       | n     | the still hour   | —                  | [[skill-sinalelng\|Sinalë Language]] |
-| `ouno`        | n     | time             | —                  | —                                    |
-| `lauhko`      | n     | an age           | —                  | —                                    |
-| `kuohma`      | n     | a month          | —                  | —                                    |
-| `hyërsy`      | v     | wait             | —                  | —                                    |
-| `kousto`      | v     | endure           | —                  | —                                    |
-| `ouhvu`       | adj   | long             | —                  | —                                    |
-| `kyppë`       | adj   | brief            | —                  | —                                    |
-| `hëëny`       | adj   | new              | —                  | —                                    |
-| `uohko`       | n     | the beginning    | —                  | —                                    |
-| `luohpo`      | n     | the end          | —                  | —                                    |
-| `pouvo`       | n     | a season         | —                  | —                                    |
-| `pyhti`       | n     | a moment         | —                  | —                                    |
-| `tylmi`       | n     | a human lifetime | —                  | —                                    |
-| `vuurnu`      | adj   | slow             | —                  | —                                    |
-| `vëssy`       | adj   | quick            | —                  | —                                    |
-| `toirunu`     | n     | a single year    | `toiru` + `-nu`    | —                                    |
-| `tuohkanu`    | n     | a day            | `tuohka` + `-nu`   | —                                    |
-| `hyërsyrsë`   | n     | patience         | `hyërsy` + `-rsë`  | —                                    |
-| `nuuvalauhko` | n     | the Age of Stars | `nuuva` + `lauhko` | —                                    |
-| `koustorsa`   | n     | endurance        | `kousto` + `-rsa`  | —                                    |
+| Form           | Class | Gloss            | Built from          | Attested                             |
+| -------------- | ----- | ---------------- | ------------------- | ------------------------------------ |
+| `toiru`        | n     | the turning year | —                   | [[skill-sinalelng\|Sinalë Language]] |
+| `ansoru`       | n     | the long watch   | —                   | [[skill-sinalelng\|Sinalë Language]] |
+| `nuomi`        | n     | the still hour   | —                   | [[skill-sinalelng\|Sinalë Language]] |
+| `sennave`      | n     | time             | —                   | —                                    |
+| `talvaro`      | n     | an age           | —                   | —                                    |
+| `kalmen`       | n     | a month          | —                   | —                                    |
+| `sennevi`      | v     | wait             | —                   | —                                    |
+| `kousto`       | v     | endure           | —                   | —                                    |
+| `aulven`       | adj   | long             | —                   | —                                    |
+| `kyppë`        | adj   | brief            | —                   | —                                    |
+| `nisyl`        | adj   | new              | —                   | —                                    |
+| `eirandi`      | n     | the beginning    | —                   | —                                    |
+| `olvandi`      | n     | the end          | —                   | —                                    |
+| `varinne`      | n     | a season         | —                   | —                                    |
+| `lyssë`        | n     | a moment         | —                   | —                                    |
+| `sylmë`        | n     | a human lifetime | —                   | —                                    |
+| `ullen`        | adj   | slow             | —                   | —                                    |
+| `kiltas`       | adj   | quick            | —                   | —                                    |
+| `toirunu`      | n     | a single year    | `toiru` + `-nu`     | —                                    |
+| `theilannu`    | n     | a day            | `theilan` + `-nu`   | —                                    |
+| `sennevirsa`   | n     | patience         | `sennevi` + `-rsa`  | —                                    |
+| `nuuvatalvaro` | n     | the Age of Stars | `nuuva` + `talvaro` | —                                    |
+| `koustorsa`    | n     | endurance        | `kousto` + `-rsa`   | —                                    |
 
 ### The fae, the thin places, dream and the god
 
-| Form             | Class  | Gloss                                   | Built from            | Attested |
-| ---------------- | ------ | --------------------------------------- | --------------------- | -------- |
-| `yëly`           | n      | a dream                                 | —                     | —        |
-| `vyëssy`         | adj    | sacred                                  | —                     | —        |
-| `hyëhvi`         | n      | the veil between worlds                 | —                     | —        |
-| `pëësy`          | adj    | thin, worn thin                         | —                     | —        |
-| `ylkë`           | v      | cross over                              | —                     | —        |
-| `ouhu`           | n      | the far side, beyond                    | —                     | —        |
-| `syrmy`          | n-coll | the fae                                 | —                     | —        |
-| `uohvo`          | n      | a spirit                                | —                     | —        |
-| `symmë`          | n      | the art, what humans call magic         | —                     | —        |
-| `vyhky`          | n      | a ward                                  | —                     | —        |
-| `kiehy`          | n      | a charm                                 | —                     | —        |
-| `tyëvi`          | n      | a vision                                | —                     | —        |
-| `rëëpy`          | n      | an omen                                 | —                     | —        |
-| `uhvo`           | adj    | hidden                                  | —                     | —        |
-| `vëlpy`          | n      | a pact                                  | —                     | —        |
-| `hyppi`          | n      | a gift                                  | —                     | —        |
-| `lohvi`          | n      | a rite                                  | —                     | —        |
-| `hëësy`          | v      | wake                                    | —                     | —        |
-| `yëlyhtë`        | v      | dream                                   | `yëly` + `-htë`       | —        |
-| `yëlytty`        | n      | a dreamer                               | `yëly` + `-tty`       | —        |
-| `pëësystë`       | n      | a thin place, where the veil wears thin | `pëësy` + `-stë`      | —        |
-| `pëësyhtë`       | v      | wear thin                               | `pëësy` + `-htë`      | —        |
-| `syrmyny`        | n      | one of the fae                          | `syrmy` + `-ny`       | —        |
-| `uohvosto`       | n      | the spirit realm                        | `uohvo` + `-sto`      | —        |
-| `vyhkytty`       | n      | a warden                                | `vyhky` + `-tty`      | —        |
-| `vyhkyhtë`       | v      | ward                                    | `vyhky` + `-htë`      | —        |
-| `uhvohta`        | v      | hide                                    | `uhvo` + `-hta`       | —        |
-| `vyëssysalvukko` | n      | a sacred grove                          | `vyëssy` + `salvukko` | —        |
-| `tyëvitty`       | n      | a seer                                  | `tyëvi` + `-tty`      | —        |
-| `lohvisto`       | n      | a place of rites                        | `lohvi` + `-sto`      | —        |
-| `symmëtty`       | n      | one who works the art                   | `symmë` + `-tty`      | —        |
+| Form            | Class  | Gloss                                                        | Built from           | Attested                              |
+| --------------- | ------ | ------------------------------------------------------------ | -------------------- | ------------------------------------- |
+| `olveira`       | n      | a dream                                                      | —                    | —                                     |
+| `seira`         | adj    | sacred                                                       | —                    | —                                     |
+| `audhi`         | n      | the veil between worlds                                      | —                    | —                                     |
+| `sirna`         | adj    | thin, worn thin                                              | —                    | —                                     |
+| `ylkë`          | v      | cross over                                                   | —                    | —                                     |
+| `aldevan`       | n      | the far side, beyond                                         | —                    | —                                     |
+| `venalla`       | n-coll | the fae                                                      | —                    | —                                     |
+| `aithevi`       | n      | a spirit                                                     | —                    | —                                     |
+| `symmë`         | n      | the art, what humans call magic                              | —                    | —                                     |
+| `orthi`         | n      | a ward                                                       | —                    | —                                     |
+| `kielle`        | n      | a charm                                                      | —                    | —                                     |
+| `ilthori`       | n      | a vision                                                     | —                    | —                                     |
+| `rëëvë`         | n      | an omen                                                      | —                    | —                                     |
+| `haunde`        | adj    | hidden                                                       | —                    | —                                     |
+| `veltha`        | n      | a pact                                                       | —                    | —                                     |
+| `hallevi`       | n      | a gift                                                       | —                    | —                                     |
+| `lonthe`        | n      | a rite                                                       | —                    | —                                     |
+| `hëssë`         | v      | wake                                                         | —                    | —                                     |
+| `aulveira`      | n      | light and dream as one; the Sinalë name of the God of Dreams | —                    | [[lore-goddreams\|The God of Dreams]] |
+| `olveiralta`    | v      | dream                                                        | `olveira` + `-lta`   | —                                     |
+| `olveiranno`    | n      | a dreamer                                                    | `olveira` + `-nno`   | —                                     |
+| `sirnasto`      | n      | a thin place, where the veil wears thin                      | `sirna` + `-sto`     | —                                     |
+| `sirnalta`      | v      | wear thin                                                    | `sirna` + `-lta`     | —                                     |
+| `venallanu`     | n      | one of the fae                                               | `venalla` + `-nu`    | —                                     |
+| `aithevisto`    | n      | the spirit realm                                             | `aithevi` + `-sto`   | —                                     |
+| `orthinno`      | n      | a warden                                                     | `orthi` + `-nno`     | —                                     |
+| `orthilta`      | v      | ward                                                         | `orthi` + `-lta`     | —                                     |
+| `haundelta`     | v      | hide                                                         | `haunde` + `-lta`    | —                                     |
+| `seirasalvurno` | n      | a sacred grove                                               | `seira` + `salvurno` | —                                     |
+| `ilthorinno`    | n      | a seer                                                       | `ilthori` + `-nno`   | [[lore-tindesarrnk\|Ilthorinno]]      |
+| `aulirarno`     | n      | the gathering of light; the open convocation of the faith    | `aulira` + `-rno`    | [[lore-goddreams\|The God of Dreams]] |
+| `ansorunno`     | n      | one who keeps the long watch                                 | `ansoru` + `-nno`    | [[lore-calathirrnk\|Ansorunno]]       |
+| `lonthesto`     | n      | a place of rites                                             | `lonthe` + `-sto`    | —                                     |
+| `symmënnë`      | n      | one who works the art                                        | `symmë` + `-nnë`     | —                                     |
 
 ### Death, loss, grief and the Shadow
 
-| Form        | Class  | Gloss                | Built from        | Attested |
-| ----------- | ------ | -------------------- | ----------------- | -------- |
-| `uuhmo`     | n      | death                | —                 | —        |
-| `vyrmy`     | n      | grief                | —                 | —        |
-| `ryyvy`     | n-coll | tears                | —                 | —        |
-| `nyëhy`     | n      | a lament             | —                 | —        |
-| `myëhty`    | n      | loss                 | —                 | —        |
-| `tauhpo`    | n      | a wound              | —                 | —        |
-| `rëhpi`     | n      | a scar               | —                 | —        |
-| `murvo`     | n      | the Shadow           | —                 | —        |
-| `aahvo`     | n      | the void             | —                 | —        |
-| `muohpa`    | n      | rot, corruption      | —                 | —        |
-| `sohpu`     | n      | a grave              | —                 | —        |
-| `hylpy`     | n-coll | ashes                | —                 | —        |
-| `hëkky`     | n      | fear                 | —                 | —        |
-| `tohku`     | v      | break                | —                 | —        |
-| `vierku`    | n      | an outlaw            | —                 | —        |
-| `nuohvo`    | v      | bind                 | —                 | —        |
-| `vuohvo`    | n      | a farewell           | —                 | —        |
-| `uuhmohta`  | v      | die                  | `uuhmo` + `-hta`  | —        |
-| `uuhmosa`   | adj    | dead                 | `uuhmo` + `-sa`   | —        |
-| `vyrmyhtë`  | v      | mourn                | `vyrmy` + `-htë`  | —        |
-| `ryyvyny`   | n      | a single tear        | `ryyvy` + `-ny`   | —        |
-| `murvosa`   | adj    | of the Shadow        | `murvo` + `-sa`   | —        |
-| `hëkkyrsë`  | n      | dread                | `hëkky` + `-rsë`  | —        |
-| `nuohvottu` | n      | a binder of the dead | `nuohvo` + `-ttu` | —        |
-| `sohpusto`  | n      | a burial ground      | `sohpu` + `-sto`  | —        |
-| `tauhpohta` | v      | wound                | `tauhpo` + `-hta` | —        |
-| `aahvosa`   | adj    | empty                | `aahvo` + `-sa`   | —        |
+| Form         | Class  | Gloss                | Built from         | Attested |
+| ------------ | ------ | -------------------- | ------------------ | -------- |
+| `selvoro`    | n      | death                | —                  | —        |
+| `ilvaro`     | n      | grief                | —                  | —        |
+| `rhyvë`      | n-coll | tears                | —                  | —        |
+| `nelthava`   | n      | a lament             | —                  | —        |
+| `mylthë`     | n      | loss                 | —                  | —        |
+| `talkevi`    | n      | a wound              | —                  | —        |
+| `rëhtë`      | n      | a scar               | —                  | —        |
+| `ulthara`    | n      | the Shadow           | —                  | —        |
+| `aamas`      | n      | the void             | —                  | —        |
+| `rhendalo`   | n      | rot, corruption      | —                  | —        |
+| `sauldi`     | n      | a grave              | —                  | —        |
+| `hylsin`     | n-coll | ashes                | —                  | —        |
+| `hëkky`      | n      | fear                 | —                  | —        |
+| `tahke`      | v      | break                | —                  | —        |
+| `vierka`     | n      | an outlaw            | —                  | —        |
+| `nauldi`     | v      | bind                 | —                  | —        |
+| `vailis`     | n      | a farewell           | —                  | —        |
+| `selvorolta` | v      | die                  | `selvoro` + `-lta` | —        |
+| `selvorosa`  | adj    | dead                 | `selvoro` + `-sa`  | —        |
+| `ilvarolta`  | v      | mourn                | `ilvaro` + `-lta`  | —        |
+| `rhyvëny`    | n      | a single tear        | `rhyvë` + `-ny`    | —        |
+| `ultharasa`  | adj    | of the Shadow        | `ulthara` + `-sa`  | —        |
+| `hëkkyrsë`   | n      | dread                | `hëkky` + `-rsë`   | —        |
+| `nauldinno`  | n      | a binder of the dead | `nauldi` + `-nno`  | —        |
+| `sauldisto`  | n      | a burial ground      | `sauldi` + `-sto`  | —        |
+| `talkevilta` | v      | wound                | `talkevi` + `-lta` | —        |
+| `aamassa`    | adj    | empty                | `aamas` + `-sa`    | —        |
 
 ### Other peoples
 
 | Form        | Class  | Gloss                              | Built from        | Attested |
 | ----------- | ------ | ---------------------------------- | ----------------- | -------- |
 | `muuvu`     | n-coll | humans                             | —                 | —        |
-| `kouhra`    | n-coll | the Khazári, named obliquely       | —                 | —        |
-| `ruhpu`     | n-coll | the Grukar                         | —                 | —        |
-| `taurmo`    | n      | a city                             | —                 | —        |
-| `kouhvo`    | n      | a hall                             | —                 | —        |
-| `vyhty`     | n      | a tower                            | —                 | —        |
-| `kauhtu`    | n      | war                                | —                 | —        |
-| `kyhvy`     | n      | an enemy                           | —                 | —        |
+| `kaulde`    | n-coll | the Khazári, named obliquely       | —                 | —        |
+| `rhukka`    | n-coll | the Grukar                         | —                 | —        |
+| `tormal`    | n      | a city                             | —                 | —        |
+| `koldi`     | n      | a hall                             | —                 | —        |
+| `vystë`     | n      | a tower                            | —                 | —        |
+| `kastai`    | n      | war                                | —                 | —        |
+| `kirsë`     | n      | an enemy                           | —                 | —        |
 | `muuvunu`   | n      | a single human                     | `muuvu` + `-nu`   | —        |
 | `hëpymuuvu` | n-coll | the near humans, the Áelendan      | `hëpy` + `muuvu`  | —        |
-| `kyhvyrsë`  | n      | enmity                             | `kyhvy` + `-rsë`  | —        |
-| `kauhtuttu` | n      | a warrior                          | `kauhtu` + `-ttu` | —        |
-| `kouhvokko` | n      | a hold, halls gathered under stone | `kouhvo` + `-kko` | —        |
-| `vyhtykkë`  | n      | a group of towers                  | `vyhty` + `-kkë`  | —        |
+| `kirsërsë`  | n      | enmity                             | `kirsë` + `-rsë`  | —        |
+| `kastainno` | n      | a warrior                          | `kastai` + `-nno` | —        |
+| `koldirno`  | n      | a hold, halls gathered under stone | `koldi` + `-rno`  | —        |
+| `vystërnë`  | n      | a group of towers                  | `vystë` + `-rnë`  | —        |
 
 ### Motion, rest and being
 
-| Form        | Class | Gloss           | Built from        | Attested                             |
-| ----------- | ----- | --------------- | ----------------- | ------------------------------------ |
-| `sëly`      | v     | stand           | —                 | [[skill-sinalelng\|Sinalë Language]] |
-| `tuve`      | v     | hold            | —                 | [[skill-sinalelng\|Sinalë Language]] |
-| `pehe`      | v     | give            | —                 | [[skill-sinalelng\|Sinalë Language]] |
-| `vauli`     | adj   | tall            | —                 | [[skill-sinalelng\|Sinalë Language]] |
-| `eho`       | v     | be, exist       | —                 | [[skill-sinalelng\|Sinalë Language]] |
-| `suuho`     | v     | walk            | —                 | —                                    |
-| `tyëhty`    | v     | come            | —                 | —                                    |
-| `vouko`     | v     | go              | —                 | —                                    |
-| `ryhpy`     | v     | run             | —                 | —                                    |
-| `lëhpy`     | v     | sit             | —                 | —                                    |
-| `louhvo`    | v     | rest            | —                 | —                                    |
-| `pyëlly`    | v     | fall            | —                 | —                                    |
-| `nyhti`     | v     | rise            | —                 | —                                    |
-| `kuohto`    | v     | turn            | —                 | —                                    |
-| `sëëtty`    | v     | stay            | —                 | —                                    |
-| `kouppu`    | v     | carry           | —                 | —                                    |
-| `pyëty`     | v     | bring           | —                 | —                                    |
-| `ruohpa`    | v     | take            | —                 | —                                    |
-| `uohpo`     | v     | leave, depart   | —                 | —                                    |
-| `pouhvu`    | v     | return          | —                 | —                                    |
-| `rëhpy`     | v     | follow          | —                 | —                                    |
-| `lëmmy`     | v     | find            | —                 | —                                    |
-| `mëhpy`     | v     | seek            | —                 | —                                    |
-| `ëhmy`      | v     | see             | —                 | —                                    |
-| `myëvy`     | v     | know            | —                 | —                                    |
-| `kaumpu`    | v     | become          | —                 | —                                    |
-| `ëëvy`      | v     | live            | —                 | —                                    |
-| `rauvu`     | v     | move            | —                 | —                                    |
-| `nëëmy`     | adj   | still, unmoving | —                 | —                                    |
-| `pyëvy`     | v     | open            | —                 | —                                    |
-| `kuhpu`     | v     | shut            | —                 | —                                    |
-| `uomi`      | v     | enter           | —                 | —                                    |
-| `vuomu`     | v     | dwell           | —                 | —                                    |
-| `suuhottu`  | n     | a wanderer      | `suuho` + `-ttu`  | —                                    |
-| `mëhpytty`  | n     | a seeker        | `mëhpy` + `-tty`  | —                                    |
-| `ansoruhta` | v     | keep watch      | `ansoru` + `-hta` | —                                    |
-| `ëëvysë`    | adj   | alive, living   | `ëëvy` + `-së`    | —                                    |
-| `lëhpystë`  | n     | a seat          | `lëhpy` + `-stë`  | —                                    |
-| `louhvosto` | n     | a resting place | `louhvo` + `-sto` | —                                    |
-| `ëhmyrsë`   | n     | sight           | `ëhmy` + `-rsë`   | —                                    |
-| `myëvyrsë`  | n     | knowledge       | `myëvy` + `-rsë`  | —                                    |
-| `rauvusa`   | adj   | restless        | `rauvu` + `-sa`   | —                                    |
+| Form          | Class | Gloss           | Built from          | Attested                             |
+| ------------- | ----- | --------------- | ------------------- | ------------------------------------ |
+| `sëly`        | v     | stand           | —                   | [[skill-sinalelng\|Sinalë Language]] |
+| `tuve`        | v     | hold            | —                   | [[skill-sinalelng\|Sinalë Language]] |
+| `pehe`        | v     | give            | —                   | [[skill-sinalelng\|Sinalë Language]] |
+| `vauli`       | adj   | tall            | —                   | [[skill-sinalelng\|Sinalë Language]] |
+| `eho`         | v     | be, exist       | —                   | [[skill-sinalelng\|Sinalë Language]] |
+| `sarrai`      | v     | walk            | —                   | —                                    |
+| `tenvas`      | v     | come            | —                   | —                                    |
+| `vaula`       | v     | go              | —                   | —                                    |
+| `rhessa`      | v     | run             | —                   | —                                    |
+| `lëëvi`       | v     | sit             | —                   | —                                    |
+| `lauvessa`    | v     | rest            | —                   | —                                    |
+| `pelve`       | v     | fall            | —                   | —                                    |
+| `irthal`      | v     | rise            | —                   | —                                    |
+| `korve`       | v     | turn            | —                   | —                                    |
+| `sendevi`     | v     | stay            | —                   | —                                    |
+| `erdavi`      | v     | carry           | —                   | —                                    |
+| `pelan`       | v     | bring           | —                   | —                                    |
+| `rhalle`      | v     | take            | —                   | —                                    |
+| `olvai`       | v     | leave, depart   | —                   | —                                    |
+| `pallen`      | v     | return          | —                   | —                                    |
+| `rhëmis`      | v     | follow          | —                   | —                                    |
+| `lemmes`      | v     | find            | —                   | —                                    |
+| `mëëvë`       | v     | seek            | —                   | —                                    |
+| `yinsë`       | v     | see             | —                   | —                                    |
+| `erni`        | v     | know            | —                   | —                                    |
+| `kauve`       | v     | become          | —                   | —                                    |
+| `ylvi`        | v     | live            | —                   | —                                    |
+| `rauvu`       | v     | move            | —                   | —                                    |
+| `nëlvis`      | adj   | still, unmoving | —                   | —                                    |
+| `paval`       | v     | open            | —                   | —                                    |
+| `kalpe`       | v     | shut            | —                   | —                                    |
+| `ulves`       | v     | enter           | —                   | —                                    |
+| `ovanne`      | v     | dwell           | —                   | —                                    |
+| `sarrainno`   | n     | a wanderer      | `sarrai` + `-nno`   | —                                    |
+| `mëëvënnë`    | n     | a seeker        | `mëëvë` + `-nnë`    | —                                    |
+| `ansorulta`   | v     | keep watch      | `ansoru` + `-lta`   | —                                    |
+| `ylvisë`      | adj   | alive, living   | `ylvi` + `-së`      | —                                    |
+| `lëëvistë`    | n     | a seat          | `lëëvi` + `-stë`    | —                                    |
+| `lauvessasto` | n     | a resting place | `lauvessa` + `-sto` | —                                    |
+| `yinsërsë`    | n     | sight           | `yinsë` + `-rsë`    | —                                    |
+| `ernirsa`     | n     | knowledge       | `erni` + `-rsa`     | —                                    |
+| `rauvusa`     | adj   | restless        | `rauvu` + `-sa`     | —                                    |
 
 ### Grammar words: pronouns, particles, numbers and pointing words
 
-| Form       | Class | Gloss                          | Built from       | Attested                             |
-| ---------- | ----- | ------------------------------ | ---------------- | ------------------------------------ |
-| `ëhi`      | pron  | I                              | —                | [[skill-sinalelng\|Sinalë Language]] |
-| `ëhii`     | pron  | we                             | —                | [[skill-sinalelng\|Sinalë Language]] |
-| `ovu`      | pron  | thou, one person spoken to     | —                | [[skill-sinalelng\|Sinalë Language]] |
-| `ovuu`     | pron  | you, more than one spoken to   | —                | [[skill-sinalelng\|Sinalë Language]] |
-| `ytë`      | pron  | he, she, it                    | —                | [[skill-sinalelng\|Sinalë Language]] |
-| `ytëë`     | pron  | they                           | —                | [[skill-sinalelng\|Sinalë Language]] |
-| `ihy`      | pron  | this, here by me               | —                | [[skill-sinalelng\|Sinalë Language]] |
-| `ëhy`      | pron  | that, there by you             | —                | [[skill-sinalelng\|Sinalë Language]] |
-| `ohu`      | pron  | that yonder                    | —                | [[skill-sinalelng\|Sinalë Language]] |
-| `ahi`      | part  | not                            | —                | [[skill-sinalelng\|Sinalë Language]] |
-| `uvi`      | part  | the mark of a written question | —                | [[skill-sinalelng\|Sinalë Language]] |
-| `ivo`      | part  | and                            | —                | [[skill-sinalelng\|Sinalë Language]] |
-| `oso`      | part  | that, which, who               | —                | [[skill-sinalelng\|Sinalë Language]] |
-| `vuuhe`    | num   | many                           | —                | [[skill-sinalelng\|Sinalë Language]] |
-| `ahvo`     | num   | one                            | —                | [[skill-sinalelng\|Sinalë Language]] |
-| `sëhy`     | num   | two                            | —                | [[skill-sinalelng\|Sinalë Language]] |
-| `kuuho`    | num   | three                          | —                | [[skill-sinalelng\|Sinalë Language]] |
-| `pëmi`     | num   | four                           | —                | [[skill-sinalelng\|Sinalë Language]] |
-| `vymi`     | num   | five                           | —                | [[skill-sinalelng\|Sinalë Language]] |
-| `louti`    | num   | six                            | —                | [[skill-sinalelng\|Sinalë Language]] |
-| `ilpe`     | num   | seven                          | —                | [[skill-sinalelng\|Sinalë Language]] |
-| `lerre`    | num   | eight                          | —                | [[skill-sinalelng\|Sinalë Language]] |
-| `myrsi`    | num   | nine                           | —                | [[skill-sinalelng\|Sinalë Language]] |
-| `tootu`    | num   | ten                            | —                | [[skill-sinalelng\|Sinalë Language]] |
-| `ilvo`     | num   | fifteen                        | —                | [[skill-sinalelng\|Sinalë Language]] |
-| `elkë`     | num   | twenty                         | —                | [[skill-sinalelng\|Sinalë Language]] |
-| `myhë`     | pron  | who                            | —                | —                                    |
-| `muhvu`    | pron  | what                           | —                | —                                    |
-| `iitty`    | part  | but                            | —                | —                                    |
-| `hëvy`     | part  | or                             | —                | —                                    |
-| `ësky`     | part  | if                             | —                | —                                    |
-| `ëmpë`     | part  | also                           | —                | —                                    |
-| `paaho`    | part  | very                           | —                | —                                    |
-| `ummo`     | pron  | all                            | —                | —                                    |
-| `ëlpy`     | pron  | nothing                        | —                | —                                    |
-| `ëssy`     | pron  | some                           | —                | —                                    |
-| `ytti`     | pron  | another                        | —                | —                                    |
-| `ëëtty`    | pron  | self                           | —                | —                                    |
-| `ësty`     | part  | now                            | —                | —                                    |
-| `touho`    | part  | then, at that time             | —                | —                                    |
-| `uuso`     | part  | again                          | —                | —                                    |
-| `tuhvi`    | part  | always                         | —                | —                                    |
-| `kytë`     | part  | with                           | —                | —                                    |
-| `ëëpi`     | num   | few                            | —                | —                                    |
-| `ympy`     | num   | more                           | —                | —                                    |
-| `hyyntë`   | num   | four hundred                   | —                | —                                    |
-| `ihyhë`    | part  | here                           | `ihy` + `-hë`    | —                                    |
-| `ëhyhë`    | part  | there, by you                  | `ëhy` + `-hë`    | —                                    |
-| `ohuho`    | part  | yonder, over there             | `ohu` + `-ho`    | —                                    |
-| `muhvuho`  | part  | where                          | `muhvu` + `-ho`  | —                                    |
-| `muhvutos` | part  | why                            | `muhvu` + `-tos` | —                                    |
-| `muhvusa`  | pron  | of what kind, how              | `muhvu` + `-sa`  | —                                    |
-| `osotos`   | part  | because                        | `oso` + `-tos`   | —                                    |
-| `ahvolu`   | part  | only, the one alone            | `ahvo` + `-lu`   | —                                    |
+| Form       | Class | Gloss                          | Built from      | Attested                             |
+| ---------- | ----- | ------------------------------ | --------------- | ------------------------------------ |
+| `ehi`      | pron  | I                              | —               | [[skill-sinalelng\|Sinalë Language]] |
+| `ehii`     | pron  | we                             | —               | [[skill-sinalelng\|Sinalë Language]] |
+| `ovu`      | pron  | thou, one person spoken to     | —               | [[skill-sinalelng\|Sinalë Language]] |
+| `ovuu`     | pron  | you, more than one spoken to   | —               | [[skill-sinalelng\|Sinalë Language]] |
+| `onsa`     | pron  | he, she, it                    | —               | [[skill-sinalelng\|Sinalë Language]] |
+| `onsaa`    | pron  | they                           | —               | [[skill-sinalelng\|Sinalë Language]] |
+| `iha`      | pron  | this, here by me               | —               | [[skill-sinalelng\|Sinalë Language]] |
+| `eso`      | pron  | that, there by you             | —               | [[skill-sinalelng\|Sinalë Language]] |
+| `olu`      | pron  | that yonder                    | —               | [[skill-sinalelng\|Sinalë Language]] |
+| `ahi`      | part  | not                            | —               | [[skill-sinalelng\|Sinalë Language]] |
+| `uvi`      | part  | the mark of a written question | —               | [[skill-sinalelng\|Sinalë Language]] |
+| `evi`      | part  | and                            | —               | [[skill-sinalelng\|Sinalë Language]] |
+| `oso`      | part  | that, which, who               | —               | [[skill-sinalelng\|Sinalë Language]] |
+| `vennas`   | num   | many                           | —               | [[skill-sinalelng\|Sinalë Language]] |
+| `ilte`     | num   | one                            | —               | [[skill-sinalelng\|Sinalë Language]] |
+| `sives`    | num   | two                            | —               | [[skill-sinalelng\|Sinalë Language]] |
+| `kevu`     | num   | three                          | —               | [[skill-sinalelng\|Sinalë Language]] |
+| `pemi`     | num   | four                           | —               | [[skill-sinalelng\|Sinalë Language]] |
+| `lella`    | num   | five                           | —               | [[skill-sinalelng\|Sinalë Language]] |
+| `louti`    | num   | six                            | —               | [[skill-sinalelng\|Sinalë Language]] |
+| `ilpe`     | num   | seven                          | —               | [[skill-sinalelng\|Sinalë Language]] |
+| `lerre`    | num   | eight                          | —               | [[skill-sinalelng\|Sinalë Language]] |
+| `thuni`    | num   | nine                           | —               | [[skill-sinalelng\|Sinalë Language]] |
+| `tova`     | num   | ten                            | —               | [[skill-sinalelng\|Sinalë Language]] |
+| `ilvo`     | num   | fifteen                        | —               | [[skill-sinalelng\|Sinalë Language]] |
+| `elmi`     | num   | twenty                         | —               | [[skill-sinalelng\|Sinalë Language]] |
+| `movi`     | pron  | who                            | —               | —                                    |
+| `mavi`     | pron  | what                           | —               | —                                    |
+| `alte`     | part  | but                            | —               | —                                    |
+| `oha`      | part  | or                             | —               | —                                    |
+| `entel`    | part  | if                             | —               | —                                    |
+| `erme`     | part  | also                           | —               | —                                    |
+| `pama`     | part  | very                           | —               | —                                    |
+| `ummes`    | pron  | all                            | —               | —                                    |
+| `aume`     | pron  | nothing                        | —               | —                                    |
+| `eltes`    | pron  | some                           | —               | —                                    |
+| `uthes`    | pron  | another                        | —               | —                                    |
+| `aiva`     | pron  | self                           | —               | —                                    |
+| `insu`     | part  | now                            | —               | —                                    |
+| `tunes`    | part  | then, at that time             | —               | —                                    |
+| `ulsen`    | part  | again                          | —               | —                                    |
+| `aurannos` | part  | always                         | —               | —                                    |
+| `kuse`     | part  | with                           | —               | —                                    |
+| `peve`     | num   | few                            | —               | —                                    |
+| `ervu`     | num   | more                           | —               | —                                    |
+| `aulanda`  | num   | four hundred                   | —               | —                                    |
+| `ihaho`    | part  | here                           | `iha` + `-ho`   | —                                    |
+| `esoho`    | part  | there, by you                  | `eso` + `-ho`   | —                                    |
+| `oluho`    | part  | yonder, over there             | `olu` + `-ho`   | —                                    |
+| `maviho`   | part  | where                          | `mavi` + `-ho`  | —                                    |
+| `mavitos`  | part  | why                            | `mavi` + `-tos` | —                                    |
+| `mavisa`   | pron  | of what kind, how              | `mavi` + `-sa`  | —                                    |
+| `osotos`   | part  | because                        | `oso` + `-tos`  | —                                    |
+| `iltelu`   | part  | only, the one alone            | `ilte` + `-lu`  | —                                    |
 
 ## Attested names
 
@@ -713,35 +718,35 @@ Every name the setting gives a Sinalë person, place, rite or thing, and every n
 
 ### Names
 
-| Name                      | Note                                        | Tongue           | Built from |
-| ------------------------- | ------------------------------------------- | ---------------- | ---------- |
-| **Sinalë**                | [[lore-flksinale\|Sinalë Folk]]             | `older`          | —          |
-| **Sinalëan**              | [[lore-flksinale\|Sinalë Folk]]             | `translation`    | —          |
-| **Haulonna**              | [[place-haulonna\|Haulonna]]                | `older`          | —          |
-| **Thalmdal**              | [[place-haulonna\|Haulonna]]                | `exonym:nordmal` | —          |
-| **Calenlass Vardamir**    | [[place-haulonna\|Haulonna]]                | `sinale`         | —          |
-| **Calathindë**            | [[skill-clthndscrpt\|Calathindë Script]]    | `sinale`         | —          |
-| **The God of Dreams**     | [[lore-goddreams\|The God of Dreams]]       | `translation`    | —          |
-| **Lúminarë**              | [[lore-goddreams\|The God of Dreams]]       | `sinale`         | —          |
-| **Lómëthar**              | [[lore-goddreams\|The God of Dreams]]       | `sinale`         | —          |
-| **Calathiri**             | [[lore-goddreams\|The God of Dreams]]       | `sinale`         | —          |
-| **Luváth**                | [[lore-goddreams\|The God of Dreams]]       | `exonym:khazari` | —          |
-| **Bjartr**                | [[lore-goddreams\|The God of Dreams]]       | `exonym:nordmal` | —          |
-| **Aethería**              | [[lore-goddreams\|The God of Dreams]]       | `exonym`         | —          |
-| **Calathir**              | [[lore-calathirrnk\|Calathir]]              | `sinale`         | —          |
-| **Light-Watcher**         | [[lore-calathirrnk\|Calathir]]              | `translation`    | —          |
-| **Tindësar**              | [[lore-tindesarrnk\|Tindësar]]              | `sinale`         | —          |
-| **Star-Seeker**           | [[lore-tindesarrnk\|Tindësar]]              | `translation`    | —          |
-| **The Faithful**          | [[lore-faithfulrnk\|The Faithful]]          | `translation`    | —          |
-| **Unaccorded**            | [[lore-unaccordedrnk\|Unaccorded]]          | `translation`    | —          |
-| **Aelirossë**             | [[place-aelirosse\|Aelirossë]]              | `exonym`         | —          |
-| **Ethalossë**             | [[place-ethalosse\|Ethalossë]]              | `exonym`         | —          |
-| **Serenthalë**            | [[place-serenthale\|Serenthalë]]            | `exonym`         | —          |
-| **Ankaris Continent**     | [[place-ankrscntnnt\|Ankaris Continent]]    | `exonym`         | —          |
-| **Aurèldía Region**       | [[place-aureldirgn\|Aurèldía Region]]       | `exonym`         | —          |
-| **Mídhalión Region**      | [[place-midhalnrgn\|Mídhalión Region]]      | `exonym`         | —          |
-| **Mídhalión**             | [[place-midhalnrgn\|Mídhalión Region]]      | `exonym`         | —          |
-| **Xerathia**              | [[place-xerathia\|Xerathia]]                | `exonym`         | —          |
-| **Central Rainforests**   | [[place-cntrlrnfrsts\|Central Rainforests]] | `translation`    | —          |
-| **Xerathian Rainforests** | [[place-cntrlrnfrsts\|Central Rainforests]] | `translation`    | —          |
-| **Green Interior**        | [[place-cntrlrnfrsts\|Central Rainforests]] | `translation`    | —          |
+| Name                      | Note                                        | Tongue             | Built from                           |
+| ------------------------- | ------------------------------------------- | ------------------ | ------------------------------------ |
+| **Sinalë**                | [[lore-flksinale\|Sinalë Folk]]             | `older`            | —                                    |
+| **Sinalëan**              | [[lore-flksinale\|Sinalë Folk]]             | `translation`      | —                                    |
+| **Sinalo**                | [[lore-flksinale\|Sinalë Folk]]             | `sinale`           | `sinalo`                             |
+| **Haulonna**              | [[place-haulonna\|Haulonna]]                | `older`            | —                                    |
+| **Thalmdal**              | [[place-haulonna\|Haulonna]]                | `exonym:nordmal`   | —                                    |
+| **Ansorudhe Lonvunto**    | [[place-haulonna\|Haulonna]]                | `sinale`           | `ansoru` + `-dhe` · `lonvu` + `-nto` |
+| **Veldirno**              | [[skill-clthndscrpt\|Veldirno Script]]      | `sinale`           | `veldi` + `-rno`                     |
+| **The God of Dreams**     | [[lore-goddreams\|The God of Dreams]]       | `translation`      | —                                    |
+| **Aulveira**              | [[lore-goddreams\|The God of Dreams]]       | `sinale`           | `aulveira`                           |
+| **Aulirarno**             | [[lore-goddreams\|The God of Dreams]]       | `sinale`           | `aulira` + `-rno`                    |
+| **Luváth**                | [[lore-goddreams\|The God of Dreams]]       | `exonym:khazari`   | —                                    |
+| **Bjartr**                | [[lore-goddreams\|The God of Dreams]]       | `exonym:nordmal`   | —                                    |
+| **Aethería**              | [[lore-goddreams\|The God of Dreams]]       | `exonym`           | —                                    |
+| **Ansorunno**             | [[lore-calathirrnk\|Ansorunno]]             | `sinale`           | `ansoru` + `-nno`                    |
+| **Long-Watcher**          | [[lore-calathirrnk\|Ansorunno]]             | `translation`      | —                                    |
+| **Ilthorinno**            | [[lore-tindesarrnk\|Ilthorinno]]            | `sinale`           | `ilthori` + `-nno`                   |
+| **Seer**                  | [[lore-tindesarrnk\|Ilthorinno]]            | `translation`      | —                                    |
+| **The Faithful**          | [[lore-faithfulrnk\|The Faithful]]          | `translation`      | —                                    |
+| **Unaccorded**            | [[lore-unaccordedrnk\|Unaccorded]]          | `translation`      | —                                    |
+| **Aelirossë**             | [[place-aelirosse\|Aelirossë]]              | `exonym:elavendri` | —                                    |
+| **Ethalossë**             | [[place-ethalosse\|Ethalossë]]              | `exonym:elavendri` | —                                    |
+| **Serenthalë**            | [[place-serenthale\|Serenthalë]]            | `exonym:elavendri` | —                                    |
+| **Ankaris Continent**     | [[place-ankrscntnnt\|Ankaris Continent]]    | `exonym`           | —                                    |
+| **Aurèldía Region**       | [[place-aureldirgn\|Aurèldía Region]]       | `exonym`           | —                                    |
+| **Mídhalión Region**      | [[place-midhalnrgn\|Mídhalión Region]]      | `exonym`           | —                                    |
+| **Mídhalión**             | [[place-midhalnrgn\|Mídhalión Region]]      | `exonym`           | —                                    |
+| **Xerathia**              | [[place-xerathia\|Xerathia]]                | `exonym`           | —                                    |
+| **Central Rainforests**   | [[place-cntrlrnfrsts\|Central Rainforests]] | `translation`      | —                                    |
+| **Xerathian Rainforests** | [[place-cntrlrnfrsts\|Central Rainforests]] | `translation`      | —                                    |
+| **Green Interior**        | [[place-cntrlrnfrsts\|Central Rainforests]] | `translation`      | —                                    |

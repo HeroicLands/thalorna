@@ -14,7 +14,7 @@ data:
       depth: region
       sources: [affiliation-suvrgrjnpd, place-goldmountain, place-bhrvdvsthna]
       summary: >-
-        The villages of the Bhārava highlands raise three great temples of Mahájaya around the gold-bearing mountain, within a century of each other, and begin the constitution that keeps the gold from making any one priesthood or family rich. Half of the mountain's yield goes to the temples, and out of that share they keep the pilgrim hostels of the Bhārava road.
+        The villages of the Bhārava highlands raise three great temples of Mahājaya around the gold-bearing mountain, within a century of each other, and begin the constitution that keeps the gold from making any one priesthood or family rich. Half of the mountain's yield goes to the temples, and out of that share they keep the pilgrim hostels of the Bhārava road.
       standing: single-source
       where:
         locus: [place-suvarnagirijnpd]
@@ -73,11 +73,11 @@ data:
       unresolved: ["which temple received the first gift, and from whom"]
 ---
 
-A priest of [[place-uppersuvtmpl|the Upper Temple]] at Suvarnagiri, walking a newcomer down the pilgrim road, counts the highlands' age on his fingers: the temples, the bow, the forest. All three are fifteen centuries old, about 780 BF by the western count, which puts them three centuries before [[lore-stndrdmdhv|the standardization at Mādhavendra]] and its count of years. Nobody in the highlands dates them closer than the century, and the **Highland Foundations** are the three institutions the upper country of [[place-vedyarargn|Vedyara]] has lived by ever since.
+A priest of [[place-uppersuvtmpl|the Upper Temple]] at Suvarnagiri, walking a newcomer down the pilgrim road, counts the highlands' age on his fingers: the temples, the bow, the forest. All three are fifteen centuries old, about 780 BF by the western count, which puts them three centuries before [[lore-stndrdmdhv|the standardization at Madhusthāna]] and its count of years. Nobody in the highlands dates them closer than the century, and the **Highland Foundations** are the three institutions the upper country of [[place-vedyarargn|Vedyara]] has lived by ever since.
 
 ## The Gold Temples
 
-The villages of the [[place-bharavarivr|Bhārava]] highlands raised three great temples of [[affiliation-mahajaya|Mahájaya]] around [[place-goldmountain|the Gold Mountain]], within a century of one another and of a size, and no one of them controls the gold. Those temples are the beginning of [[affiliation-suvrgrjnpd|Suvarnagiri]]'s constitution. Its provisions came in one at a time across the fifteen centuries since, each written after a near-failure of the arrangement before it, and the janapada has neither failed nor become a kingdom in all that time.
+The villages of the [[place-bharavarivr|Bhārava]] highlands raised three great temples of [[affiliation-mahajaya|Mahājaya]] around [[place-goldmountain|the Gold Mountain]], within a century of one another and of a size, and no one of them controls the gold. Those temples are the beginning of [[affiliation-suvrgrjnpd|Suvarnagiri]]'s constitution. Its provisions came in one at a time across the fifteen centuries since, each written after a near-failure of the arrangement before it, and the janapada has neither failed nor become a kingdom in all that time.
 
 Half of what the mountain yields belongs to the temples. Out of that half they keep their fabric, their schools and [[place-bhrvdvsthna|the pilgrim hostels]] of the Bhārava road, an arrangement that is fifteen centuries old and has never been put to a vote of the sabhā. The panning families have been refining their technique for fifty generations.
 

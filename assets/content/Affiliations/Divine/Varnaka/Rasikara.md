@@ -1,6 +1,6 @@
 ---
 shortcode: rasikara
-name: {full: Rásikara, aliases: [The Flame of Renewal]}
+name: {full: Rāsikara, aliases: [The Flame of Renewal]}
 type: affiliation
 subType: faithtradition
 description: "Religion of the god of fire and of the change fire compels."
@@ -47,16 +47,16 @@ data:
 sohl: {system: {commonSkills: [rasikara, sohl-sohl-skill-srvl]}}
 ---
 
-## Rásikara—The Flame of Renewal
+## Rāsikara—The Flame of Renewal
 
 - **Domain:** Fire, transformation, purging destruction, the rebirth that follows ruin
 - **Symbol:** A flame rising from a broken circle
 - **Pronunciation:** _RAH-see-kah-rah_
 - **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
-"Carry the ember in with both hands and do not stop on the way. It came off your hearth, and it has one place to go." The keeper of a cremation ground says this to a young man about to light his father's pyre, and says it flatly, as a man tells a newcomer where to put his feet. [[lore-rasikaradty|Rásikara]]'s cult is not comfortable, and its keepers do not pretend it is. Its shrines stand at a city's edge and at its cremation grounds, and its devotees are ascetics, warriors, healers of wasting diseases and the keepers of the cremation-fires.
+"Carry the ember in with both hands and do not stop on the way. It came off your hearth, and it has one place to go." The keeper of a cremation ground says this to a young man about to light his father's pyre, and says it flatly, as a man tells a newcomer where to put his feet. [[lore-rasikaradty|Rāsikara]]'s cult is not comfortable, and its keepers do not pretend it is. Its shrines stand at a city's edge and at its cremation grounds, and its devotees are ascetics, warriors, healers of wasting diseases and the keepers of the cremation-fires.
 
-Rásikara is the god of fire and of the change fire compels, the burning that strips away corruption and the kindling that starts new growth. [[affiliation-mahajaya|Mahájaya]] preserves and [[affiliation-vyalendra|Vyālendra]] shapes; Rásikara breaks. The Varnakan faith holds the breaking sacred, and he is venerated for courage: the courage to meet what must be destroyed with the fire proper to the task. The [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]] keeps him in balance with the other two forms, and the [[affiliation-agnipantha|Agnī-panthā]] carries his purification onto the road.
+Rāsikara is the god of fire and of the change fire compels, the burning that strips away corruption and the kindling that starts new growth. [[affiliation-mahajaya|Mahājaya]] preserves and [[affiliation-vyalendra|Vyālendra]] shapes; Rāsikara breaks. The Varnakan faith holds the breaking sacred, and he is venerated for courage: the courage to meet what must be destroyed with the fire proper to the task. The [[affiliation-trimurtisampradaya|Triyanga-sampradāya]] keeps him in balance with the other two forms, and the [[affiliation-agnipantha|Agnī-panthā]] carries his purification onto the road.
 
 ### What You See at His Shrines
 
@@ -68,7 +68,7 @@ The **Agni-Pralayas**, his spirits of purging fire, come in wildfire, in volcani
 
 ### What the Devout Do
 
-Rásikaran households keep an unbroken hearth-flame, carried forward from parent to child at each marriage, and letting the family fire go out is a grave omen. Before any work that destroys what came before, the devout trace an ash-mark on the brow and speak the formula of purging. The work might be the razing of a condemned house, the felling of a diseased tree or the cutting of a blighted harvest. At the death of a family member an ember from the hearth is carried to the cremation ground to light the pyre.
+Rāsikaran households keep an unbroken hearth-flame, carried forward from parent to child at each marriage, and letting the family fire go out is a grave omen. Before any work that destroys what came before, the devout trace an ash-mark on the brow and speak the formula of purging. The work might be the razing of a condemned house, the felling of a diseased tree or the cutting of a blighted harvest. At the death of a family member an ember from the hearth is carried to the cremation ground to light the pyre.
 
 ### Ordeals for Favor
 
@@ -79,6 +79,6 @@ Rásikaran households keep an unbroken hearth-flame, carried forward from parent
 ### See Also
 
 - [[affiliation-varakpnthn|Varnaka Pantheon]]
-- [[lore-rasikaradty|Rásikara]]—the god, and the theology of the sacred breaking
-- [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]]—the orthodox tri-form tradition, which venerates Rásikara as destroyer-renewer alongside Vyālendra and Mahájaya
-- [[affiliation-agnipantha|Agnī-panthā]]—the ascetic Rásikara-focused reformist path
+- [[lore-rasikaradty|Rāsikara]]—the god, and the theology of the sacred breaking
+- [[affiliation-trimurtisampradaya|Triyanga-sampradāya]]—the orthodox tri-form tradition, which venerates Rāsikara as destroyer-renewer alongside Vyālendra and Mahājaya
+- [[affiliation-agnipantha|Agnī-panthā]]—the ascetic Rāsikara-focused reformist path

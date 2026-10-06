@@ -17,7 +17,7 @@ data:
 
 There are six crossings of the wall. Five are blessed, tolled, recorded and argued over. The sixth is **the Guides' Road**, which lies somewhere between [[place-meghadvara|Meghadvāra]] and [[place-suryadvara|Sūryadvāra]], and about which those four verbs are all false.
 
-No fortress stands on it. No toll is taken. No [[place-pssshrines|Pass-Shrine]] blesses it, and none ever has. It is on no register at [[place-suryagarha|Sūryāgarha]], and no customs-house has ever weighed a bale that went over it. The [[affiliation-vindhyalay|Vindhyan]] crown's formal position is that the road does not exist. The crown has held that position without amendment through three reigns, and its own wardens have known perfectly well that the road is there.
+No fortress stands on it. No toll is taken. No [[place-pssshrines|Pass-Shrine]] blesses it, and none ever has. It is on no register at [[place-suryagarha|Sūryagarha]], and no customs-house has ever weighed a bale that went over it. The [[affiliation-vindhyalay|Shikharālayan]] crown's formal position is that the road does not exist. The crown has held that position without amendment through three reigns, and its own wardens have known perfectly well that the road is there.
 
 ## Who Goes Over It
 

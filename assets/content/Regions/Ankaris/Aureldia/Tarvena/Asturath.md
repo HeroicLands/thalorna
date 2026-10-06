@@ -28,4 +28,4 @@ The High King's seat is traditionally at **Peñalthár**, a fortress-city perche
 
 - [[affiliation-kngdmstrth|Kingdom of Astúrath]]—The kingdom that holds this land
 - [[place-tarvenirgn|Tarvénia Region]]—The enclosing region
-- Kávrenath—The seat
+- [[place-kavrenath|Kávrenath]]—A frontier town of the kingdom

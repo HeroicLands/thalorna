@@ -496,8 +496,8 @@ Landowner Nikêphoros Vaspas
 The Competitive Herders Collective
 : Younger herders in the region, frustrated with what they see as outdated practices and conservative thinking, have begun ostracizing Samarína and spreading rumors about the inferior quality of her animals, despite evidence to the contrary.
 
-Her Own Doubts
-: More dangerous than any external foe, Samarína's constant uncertainty about whether her traditional approaches are becoming obsolete, whether she is clinging to the past at the expense of her future.
+Her own doubts, an inner enemy
+: More dangerous than any external foe is Samarína's constant uncertainty about whether her traditional approaches are becoming obsolete, whether she is clinging to the past at the expense of her future.
 
 ### Affiliations
 

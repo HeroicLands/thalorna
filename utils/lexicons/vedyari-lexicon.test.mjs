@@ -14,6 +14,7 @@ import {
     builtForm,
     callingNames,
     join,
+    retiredIn,
     ruleFrom,
     soundProblems,
     suffixed,
@@ -201,7 +202,15 @@ test("a spelling the pages do not use and a stress mark are warnings, not errors
     assert.deepEqual(errorsOf(marked), []);
     assert(warningsOf(marked).some((text) => text.includes('**Marukûpa** writes "û"')));
     // The acute is a stress mark, so the long vowel beneath it is read either way.
-    assert(!warningsOf().some((text) => text.includes("**Mahájaya** differs in a vowel's length")));
+    const stressed = edited(
+        registerLine("Mahājaya"),
+        registerLine("Mahājaya").replace("**Mahājaya**", "**Mahájaya**"),
+    );
+    assert(
+        !warningsOf(stressed).some((text) =>
+            text.includes("**Mahájaya** differs in a vowel's length"),
+        ),
+    );
 });
 
 test("a man's name closing on a woman's ending is a warning on the list", () => {
@@ -223,26 +232,31 @@ test("the scholars' spelling is read before the rules apply", () => {
 });
 
 test("a syllable is counted by its vowel, a vowel r included", () => {
-    assert.equal(syllables("Padmàvali", rule), 4);
-    assert.equal(syllables("Prthîmâja", rule), 4);
+    assert.equal(syllables("Padmāvali", rule), 4);
+    assert.equal(syllables("Prthīmāja", rule), 4);
     assert.equal(syllables("Chandrakīrtisundarī", rule), 7);
-    assert.equal(syllables("Nárava", rule), 3);
+    assert.equal(syllables("Nārava", rule), 3);
+    // A stress mark changes no count.
+    assert.equal(syllables("Padmàvali", rule), 4);
 });
 
 test("a calling name is cut before the second or third vowel, or doubles the first syllable", () => {
-    const ways = callingNames("Rāmachandra", rule);
-    assert.equal(ways.get("rāmu"), "man");
-    assert.equal(ways.get("rāmachi"), "woman");
-    assert(ways.has("rārā"));
-    assert.equal(callingNames("Padmàvali", rule).get("padmi"), "woman");
+    const ways = callingNames("Dharmapāla", rule);
+    assert.equal(ways.get("dharmu"), "man");
+    assert.equal(ways.get("dharmapi"), "woman");
+    assert(ways.has("dhadha"));
+    assert.equal(callingNames("Padmāvali", rule).get("padmi"), "woman");
     // A vowel r is spoken ri in a calling name.
-    assert(callingNames("Drkshàrana", rule).has("driksha"));
-    assert(!callingNames("Drkshàrana", rule).has("drksha"));
-    assert(callingNames("Prthîmâja", rule).has("prithu"));
+    assert(callingNames("Drkshārana", rule).has("driksha"));
+    assert(!callingNames("Drkshārana", rule).has("drksha"));
+    assert(callingNames("Prthīmāja", rule).has("prithu"));
     assert(callingNames("Suvaratika", rule).has("susu"));
+    // A vowel under a stress mark may be read short or long.
+    assert(callingNames("Màdhurava", rule).has("madhu"));
+    assert(callingNames("Màdhurava", rule).has("mādhu"));
     // A name that opens on a vowel has no doubled form.
-    assert(![...callingNames("Anûraja", rule).keys()].includes("aa"));
-    assert(!callingNames("Padmàvali", rule).has("padu"));
+    assert(![...callingNames("Anurāja", rule).keys()].includes("aa"));
+    assert(!callingNames("Padmāvali", rule).has("padu"));
 });
 
 test("a calling name the rule does not cut from the given name is an error", () => {
@@ -250,7 +264,7 @@ test("a calling name the rule does not cut from the given name is an error", () 
     const broken = edited(line, line.replace("**Padmi**", "**Padu**"));
     assert(
         errorsOf(broken).some((text) =>
-            text.includes("**Padu** is not a calling name the rule cuts from Padmàvali"),
+            text.includes("**Padu** is not a calling name the rule cuts from Padmāvali"),
         ),
     );
 });
@@ -258,8 +272,8 @@ test("a calling name the rule does not cut from the given name is an error", () 
 test("a calling name whose cell names another given name, or on a note with none, is an error", () => {
     const line = registerLine("Padmi");
     assert(
-        errorsOf(edited(line, line.replace("`Padmàvali`", "`Pallàvi`"))).some((text) =>
-            text.includes('**Padmi** is cut from "Pallàvi"'),
+        errorsOf(edited(line, line.replace("`Padmāvali`", "`Pallāvi`"))).some((text) =>
+            text.includes('**Padmi** is cut from "Pallāvi"'),
         ),
     );
     assert(
@@ -294,4 +308,56 @@ test("a calling name closing as the other gender's is a warning", () => {
 test("the calling-name rule must be stated", () => {
     const { problems } = ruleFrom(note, edited("### Calling names", "### Short names"));
     assert(problems.some((text) => text.includes('"### Calling names"')));
+});
+
+test("a register finding names the register's own line", () => {
+    const line = registerLine("Marukūpa");
+    const broken = edited(line, line.replace("`vedyari`", "`nonesuch`"));
+    const at = broken.split("\n").findIndex((text) => text.startsWith("| **Marukūpa**")) + 1;
+    assert(errorsOf(broken).some((text) => text.startsWith(`${LEXICON}:${at}:`)));
+});
+
+test("every retired name is read from the lexicon with what is written instead", () => {
+    const vindhya = rule.retired.find((one) => one.name === "Vindhyālaya");
+    assert.equal(vindhya?.instead, "Shikharālaya");
+    assert.equal(rule.retired.find((one) => one.name === "Rāvana")?.instead, null);
+});
+
+test("a retired name is found however it is accented, and never in an address, a poem or a terran_analog comment", () => {
+    const retired = [{ name: "Vindhyālaya", instead: "Shikharālaya" }];
+    const text = [
+        "The road to Vindhyalaya and to Vindhyâlaya, and [[affiliation-vindhyalay|the kingdom]].",
+        "```poetry {form=epic lang=en}",
+        "Vindhyālaya under snow",
+        "```",
+        "# terran_analog: Vindhyālaya",
+    ].join("\n");
+    const hits = retiredIn(text, retired);
+    assert.deepEqual(
+        hits.map((hit) => hit.written),
+        ["Vindhyalaya", "Vindhyâlaya"],
+    );
+    assert.deepEqual(retiredIn("Vindhyālayan", retired), []);
+});
+
+test("a retired name written in a note is an error at the place it is written", () => {
+    const line = registerLine("Shikharālaya");
+    const broken = edited(line, line.replace("**Shikharālaya**", "**Shikharālaya** Vindhyālaya"));
+    assert(
+        errorsOf(broken).some(
+            (text) =>
+                text.startsWith(LEXICON) &&
+                text.includes('"Vindhyālaya" is a retired name; the setting writes Shikharālaya'),
+        ),
+    );
+});
+
+test("a retired name standing twice is an error", () => {
+    const line = lexicon.split("\n").find((text) => text.startsWith("| `Rāvana`"));
+    assert(line, "the retired names hold `Rāvana`");
+    assert(
+        errorsOf(edited(line, `${line}\n${line.replace("`Rāvana`", "`Ravana`")}`)).some((text) =>
+            text.includes("stands twice in the retired names"),
+        ),
+    );
 });

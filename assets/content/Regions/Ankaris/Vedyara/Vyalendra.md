@@ -51,8 +51,8 @@ data:
         The master who puts the Council's questions and declares what it has agreed, for a term and never for life.
       Loom-Master: >-
         A master of one of the chartered weaving guilds, holding his craft-line's seat on the Council and the dye-books and pattern-books of his line.
-      Triyācārya: >-
-        Senior priest of the city's Trimūrti temple, who keeps the rites of all three forms and whose sanction the Council's acts require.
+      Triyāchārya: >-
+        Senior priest of the city's Triyanga temple, who keeps the rites of all three forms and whose sanction the Council's acts require.
       Koshādhyaksha: >-
         Superintendent of the city treasury, answerable for the cloth-tax, the warehouse dues and the Council's reserve.
       Dūta: >-
@@ -89,9 +89,9 @@ The difficult patterns are woven in the great halls inside the walls and the pla
 
 The **Loom-Council** governs, and every chartered weaving guild holds a seat on it through its Loom-Master, who keeps the dye-books and pattern-books of his line. The Council raises one of its masters as **Speaker** for a term and sends him back to his loom at the end of it. It licenses the guilds, sets the cloth-tax and the warehouse dues, judges between craft-lines, and keeps the watch. It sits in the old audience hall of the kings, and the Speaker addresses it from beside the step where the throne once stood, never on it.
 
-Above the city's own affairs stand the temples. The senior priest of the Trimūrti temple, the city's **Triyācārya**, sanctions the Council's acts as a priest sanctions a sabhā's inland, and a Council decision the temples will not sanction does not take effect. The Council has learned to ask beforehand.
+Above the city's own affairs stand the temples. The senior priest of the Triyanga temple, the city's **Triyāchārya**, sanctions the Council's acts as a priest sanctions a sabhā's inland, and a Council decision the temples will not sanction does not take effect. The Council has learned to ask beforehand.
 
-The temples stand beside the great weaving halls, and the sanctuary of [[affiliation-mahajaya|Mahájaya]] is first among them. She is the serene matriarch and the patron of honest measure, and so of every bolt that leaves a hall. The weavers hold their work to be a spiritual thing, and the siting of the temples says so. The city is quieter and less cosmopolitan than [[affiliation-chandrapur|Chandrapur]], and the slow rhythms of the textile craft have shaped its whole character.
+The temples stand beside the great weaving halls, and the sanctuary of [[affiliation-mahajaya|Mahājaya]] is first among them. She is the serene matriarch and the patron of honest measure, and so of every bolt that leaves a hall. The weavers hold their work to be a spiritual thing, and the siting of the temples says so. The city is quieter and less cosmopolitan than [[affiliation-chandrapur|Chandrapur]], and the slow rhythms of the textile craft have shaped its whole character.
 
 The **Koshādhyaksha** answers for the city treasury: the cloth-tax, the warehouse dues and the Council's reserve. The **Dūta** carries the Council's word to a foreign court or a neighboring council.
 

@@ -18,6 +18,6 @@ No face is carved for him. The tradition holds that no living soul may look on i
 
 His black conch sounds at every threshold a Vedyari household keeps, at birth, at coming-of-age and at the final breath. A black conch shell hangs above most doorposts for that reason. A threshold lamp burns through the night a family member is dying and is kept alight until the passage is complete. A [[miscgear-coinpassage|Coin of Passage]] is set in the hand of the dead at cremation, and the priests call it a reminder to the soul of what it brings to the gate.
 
-[[affiliation-rasikara|Rásikara]]'s fire unmakes the body. Kālavrata takes what is left when the cremation-fires end, and his conch calls the soul on.
+[[affiliation-rasikara|Rāsikara]]'s fire unmakes the body. Kālavrata takes what is left when the cremation-fires end, and his conch calls the soul on.
 
 [[place-kalashkhra|Kālashikhara]] is his mountain, the one great summit of the [[place-estrnreach|Eastern Reach]] the [[place-pssshrines|Pass-Shrines]] have never built on. Its upper faces are bare, and snow will not hold on them. No shrine stands there, and none is thought needed. The older explanation, that the peak is already his and wants no house built on it, is younger than the silence it explains, and nobody has offered a better one.

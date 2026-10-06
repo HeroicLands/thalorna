@@ -68,26 +68,30 @@ A Senate that had just lost control of its own generals discovered it had also l
 could tell it whether [[lore-recensio|Alyssa]] would happen again. The survivors drafted their own
 terms and the Senate took them.
 
-**The bargain is the Ordo's politics for the next seven centuries.** It accepts the duties—the
+**The bargain is the Ordo's politics for the nearly eight centuries since.** It accepts the duties—the
 monopoly and its enforcement, mandatory registration of every talent, war service on demand—and in
 exchange holds its own property, elects its own head, tries its own members in its own court, and
 answers to the state as a body and never as men. That is not a creature of empire. It is a
 corporation chartered by a Republic that no longer exists, and every Augustar since has inherited a
 privilege he did not grant and cannot withdraw.
 
-**Why it went out of the Panepistemium at all.** The philosophers would not take the work: the Lex
-Arcana requires registration, seizure and, in its fifth clause, killing, and the colleges of Ethics
-and Law would not put a federation's seal on it. And a conquered Helionite federation cannot hold an
-imperial police power—the Senate would not license a body seated in a province it had sacked. So the
-arcane college went out and the rest stayed, with relief on both sides that neither has ever admitted
-to.
+**Why it is still a college of the Panepistemium.** The Lex Arcana chartered the Ordo inside the
+Panepistemium, not beside it: on paper the Ordo Arcanis is the College of Arcane Philosophy within the Epistemium to this
+day, and the sign over every chapter-house door is the Epistemium's because the legal right to the
+door is. What the Lex took out of the Panepistemium's hands was the work. The philosophers would not
+take it: the Lex Arcana requires registration, seizure and, in its fifth clause, killing, and the
+colleges of Ethics and Law would not put a federation's seal on it. And a conquered Helionite
+federation cannot hold an imperial police power—the Senate would not license a body seated in a
+province it had sacked. So the police power went to the college directly from the Senate, and the
+federation kept the college on its rolls with no say in what it does, with relief on both sides
+that neither has ever admitted to.
 
 **Why a college has an inquisition.** It does not. The inquisition has a college. The Quaesitorium is
 constituted a clause earlier, and its commission is not the suppression of unsanctioned magic—that
 is its second clause. Its first is to establish what happened at Alyssa and who did it, and it has
 never been closed. The enforcement remit is the inquiry's corollary: the founding working theory is
 that the release was set by a hand not on the register, so every hand not on the register is
-doctrinally a party to a seven-century-old crime.
+doctrinally a party to a crime nearly eight centuries old.
 
 **Why the Sodalitates are six and are by element.** The corpus had burned, and what could be recovered
 was what living masters could write back down. A master reliably reconstructs only the work of the

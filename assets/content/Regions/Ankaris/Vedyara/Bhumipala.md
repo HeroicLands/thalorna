@@ -99,11 +99,11 @@ The Mahārāja rules from Sandhyāpur. The crown's writ runs on the road, at the
 - **The Martial Council** is the Sāmantas of the road's forts and the captains of the hired companies. It meets before each caravan season and after it.
 - **The Priestly Court** is small, drawn from the town temples, and its business is succession, the calendar and the law.
 
-Succession is hereditary and is confirmed by the Martial Council, as it is in [[affiliation-vindhyalay|Vindhyālaya]]. A Mahārāja of the march who cannot pay the companies is not deposed. He is simply not obeyed at the wells, which comes to the same thing within a season. The rest of the court holds the ordinary offices of a Vedyari crown, from the **Rājñī** and the **Yuvarāja** to the **Koshādhyaksha** and the **Ganaka**.
+Succession is hereditary and is confirmed by the Martial Council, as it is in [[affiliation-vindhyalay|Shikharālaya]]. A Mahārāja of the march who cannot pay the companies is not deposed. He is simply not obeyed at the wells, which comes to the same thing within a season. The rest of the court holds the ordinary offices of a Vedyari crown, from the **Rājñī** and the **Yuvarāja** to the **Koshādhyaksha** and the **Ganaka**.
 
 ## The Companies
 
-Bhūmipāla keeps no standing host. It keeps five companies of horse and foot under captains who contract by the season, and it pays them out of the escort money. The companies are Vedyari, Dunhari and mixed, and they recruit from both sides of the sand. They buy their arms by the wagonload out of the Vindhyan valleys, where steel is cheap and reliably supplied.
+Bhūmipāla keeps no standing host. It keeps five companies of horse and foot under captains who contract by the season, and it pays them out of the escort money. The companies are Vedyari, Dunhari and mixed, and they recruit from both sides of the sand. They buy their arms by the wagonload out of the Shikharālayan valleys, where steel is cheap and reliably supplied.
 
 A company that is paid keeps the road. A company that is not paid keeps the road anyway and collects what it is owed from the traffic, and the difference between that and banditry is a season's arrears. The crown's chief domestic business is making sure the difference is never tested.
 
@@ -125,7 +125,7 @@ The crown does not tax the road by the bale. It sells escort, by the wagon and b
 
 To the west and northwest lie the tribes and the Sultanate, and the whole of the kingdom's foreign policy is the road. Relations with the tribes are seasonal and conducted sheikh by sheikh; relations with the Sultanate are formal, cool and old.
 
-To the north and east, across the broken end of the wall, lies Vindhyālaya. The two kingdoms hold the north between them without sharing a border, and neither wants what the other has. Vindhyan steel comes down to the march companies and march horses go up to the pass-roads.
+To the north and east, across the broken end of the wall, lies Shikharālaya. The two kingdoms hold the north between them without sharing a border, and neither wants what the other has. Shikharālayan steel comes down to the march companies and march horses go up to the pass-roads.
 
 Across the Sandhyā-samudra to the west lies the eastern coast of [[place-xerathia|Xerathia]]. The kingdom has no dealings with it. Its own coast trades north and east by the road and south by the coasting passage, and the far shore is a fact of the sea and not a market.
 

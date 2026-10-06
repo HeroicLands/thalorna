@@ -23,4 +23,4 @@ The pilgrim road runs the whole length of the river, sea to ice, and the hostels
 ## See Also
 
 - [[place-bhrvprbhav|Bhāravaprabhava]] · [[place-estrnreach|The Eastern Reach]] · [[place-vedyarargn|Vedyara Region]]
-- [[place-chandrmahi|The Chandramahī]] · [[place-sarvadarivr|The Sarvada]] · [[place-mahanadi|The Mahānadi]]
+- [[place-chandrmahi|The Chandramahī]] · [[place-sarvadarivr|The Sarvada]] · [[place-mahanadi|The Mahānadī]]

@@ -18,7 +18,7 @@ The upper slopes carry the janapada's observation posts and nothing else. The gr
 
 ## The Streams That Yield and the One That Does Not
 
-Every stream off the mountain is panned but one. The [[place-rasikarastrm|Rásikara stream]] on the back slope yields no gold, panning in it is forbidden by tradition, and the shrine at its head is the acknowledgment that not all of the mountain belongs to the goddess who holds the rest of it.
+Every stream off the mountain is panned but one. The [[place-rasikarastrm|Rāsikara stream]] on the back slope yields no gold, panning in it is forbidden by tradition, and the shrine at its head is the acknowledgment that not all of the mountain belongs to the goddess who holds the rest of it.
 
 Three great temples ring the lower slopes at the three principal stream-confluences, one at each, and the weighing-station stands beside the treasury in the middle of the three.
 
@@ -26,4 +26,4 @@ Three great temples ring the lower slopes at the three principal stream-confluen
 
 - [[place-bharavarivr|The Bhārava]] · [[place-suvarnagiri|Suvarnagiri]]
 - [[affiliation-suvrgrjnpd|Suvarnagiri Janapada]]—the temple-republic the gold pays for
-- [[place-weighingstn|The Weighing-Station]] · [[place-rasikarastrm|The Rásikara Stream]]
+- [[place-weighingstn|The Weighing-Station]] · [[place-rasikarastrm|The Rāsikara Stream]]

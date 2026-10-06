@@ -3,7 +3,7 @@ shortcode: dhnrktjnpd
 name: {full: Dhanurkota Janapada, aliases: [Dhanurkota, The Janapada of the Bow-Fort]}
 type: affiliation
 subType: polity
-description: The temple-republic of Dhanurkota—the villages of the upper Sarvada valley federated around the ancient bow-fort and its great temple of Mahájaya, governed by a sabhā with an unusually strong Senāja presence and famed across Vedyara for its archery academies.
+description: The temple-republic of Dhanurkota—the villages of the upper Sarvada valley federated around the ancient bow-fort and its great temple of Mahājaya, governed by a sabhā with an unusually strong Senāja presence and famed across Vedyara for its archery academies.
 tags: []
 data:
   templatePriority: null
@@ -13,7 +13,7 @@ data:
   governance:
     model: council
     summary: >-
-      Sabhā of forty-two members convened by the senior priest of the Mahájaya temple, with proportional representation from the constituent villages and reserved seats for the masters of the four great archery academies. The sabhā meets monthly during the campaign season and bi-monthly during the rest of the year; major decisions require a two-thirds concurrence.
+      Sabhā of forty-two members convened by the senior priest of the Mahājaya temple, with proportional representation from the constituent villages and reserved seats for the masters of the four great archery academies. The sabhā meets monthly during the campaign season and bi-monthly during the rest of the year; major decisions require a two-thirds concurrence.
     ranks:
       - level: 0
         title: Outcaste
@@ -40,7 +40,7 @@ data:
         description: >-
           Born to the priestly tharana, keeper of rite and learning, without whose sanction no act of the sabhā is complete.
       - level: 6
-        title: Sabhāsad
+        title: Sabhāsadaka
         description: >-
           A seated member of the sabhā, sent by a constituent village at its turn or by a guild holding a reserved seat, and answerable to those who sent him.
       - level: 7
@@ -60,7 +60,7 @@ data:
         The envoy who carries the sabhā's word to a neighboring janapada, to a patron court and to the Mela.
       Senānī: >-
         Captain of the militia, raised from the villages at the sabhā's call and dismissed when the need ends.
-      Dhanurācārya: >-
+      Dhanurāchārya: >-
         Master of one of the four archery academies, holding its reserved seat on the sabhā. The four are seated together and answer together on any question of war.
   seat: dhanurkota
   domains:
@@ -91,7 +91,7 @@ sohl: {system: {commonSkills: [vedyarlng]}}
 # terran_analog: "Medieval South Indian temple-republic with a martial-caste specialty—Chola-era brahmadeya village federation centered on a fortified temple complex, distinguished by hereditary archery training traditions"
 ---
 
-The **Dhanurkota Janapada** trains the archers of every kingdom in [[place-vedyarargn|Vedyara]], and it will train a student of any station, the lowest included. It is the federation of the villages of the upper [[place-sarvadarivr|Sarvada]] valley, governed jointly through the great hall of the **Mahájaya temple** inside the [[place-bowfort|bow-fort]] at [[place-dhanurkota|Dhanurkota]], the "Bow-Fort" the janapada takes its name from. The janapada holds the land of [[place-dhanurkotajnpd|Dhanurkota Janapada]].
+The **Dhanurkota Janapada** trains the archers of every kingdom in [[place-vedyarargn|Vedyara]], and it will train a student of any station, the lowest included. It is the federation of the villages of the upper [[place-sarvadarivr|Sarvada]] valley, governed jointly through the great hall of the **Mahājaya temple** inside the [[place-bowfort|bow-fort]] at [[place-dhanurkota|Dhanurkota]], the "Bow-Fort" the janapada takes its name from. The janapada holds the land of [[place-dhanurkotajnpd|Dhanurkota Janapada]].
 
 By any measure but one, Dhanurkota is ordinary. It is one of perhaps eighty janapadas of the upper Sarvada, in a **Sarvada circuit** of more than a thousand, which is the reckoning that matters at the **Mela**, where a janapada is counted with the others that drink the same river and not with the whole of the [[affiliation-janpdsvdyr|Mahā-Sangha]]. It is neither large nor wealthy by Vedyari standards. What it has, and what it is known for across the region, is the **Bow**: four ancient archery academies whose graduates have staffed the elite missile companies of every major Vedyari kingdom for fifteen centuries.
 
@@ -112,11 +112,11 @@ The academies cooperate loosely within the janapada and compete fiercely for stu
 
 ## The Sabhā
 
-The sabhā has forty-two members, convened by the senior priest of the Mahájaya temple. The constituent villages are represented in proportion to their size, and the masters of the four academies hold reserved seats as **Dhanurācāryas**. The sabhā meets monthly in the campaign season and every second month for the rest of the year, and a major decision needs two-thirds of it. By long convention the four masters sit together at every formal session and answer together on any question of war, and their joint word settles the janapada's foreign policy.
+The sabhā has forty-two members, convened by the senior priest of the Mahājaya temple. The constituent villages are represented in proportion to their size, and the masters of the four academies hold reserved seats as **Dhanurāchāryas**. The sabhā meets monthly in the campaign season and every second month for the rest of the year, and a major decision needs two-thirds of it. By long convention the four masters sit together at every formal session and answer together on any question of war, and their joint word settles the janapada's foreign policy.
 
 ## Society
 
-Dhanurkota keeps the ordinary Vedyari order of stations, with the Senāja households, who bear arms by right and owe service in the host, unusually numerous and unusually wealthy for a janapada. About one Dhanurkoti in eight is Senāja, against perhaps one in twenty in an ordinary janapada. Their money comes from three places: the fees aspiring archers bring from across Vedyara, the standing retainers paid by patron kingdoms whose officers come out of the academies, and the donations that men the academies trained make to the Mahájaya temple.
+Dhanurkota keeps the ordinary Vedyari order of stations, with the Senāja households, who bear arms by right and owe service in the host, unusually numerous and unusually wealthy for a janapada. About one Dhanurkoti in eight is Senāja, against perhaps one in twenty in an ordinary janapada. Their money comes from three places: the fees aspiring archers bring from across Vedyara, the standing retainers paid by patron kingdoms whose officers come out of the academies, and the donations that men the academies trained make to the Mahājaya temple.
 
 The other stations stand in ordinary proportions. The **Dhanāja** households handle the considerable trade in arms, since Dhanurkoti bows and arrows are sold across Vedyara, together with the provisioning, lodging and equipment-keeping the academies need. The **Ritūja** households sit in and around the temple, and the senior priest convenes the sabhā. The villages supply the bow itself: bamboo staves from [[place-venuvana|Venuvana]], horn and sinew from [[place-vishanagrama|Vishānagrāma]], reed shafts from [[place-sharavana|Sharavana]], wax for the bindings from [[place-madhupada|Madhupada]].
 
@@ -124,15 +124,15 @@ Dhanurkota allows more social mobility than most Vedyari polities. The academies
 
 ## Religion
 
-The Mahájaya temple at Dhanurkota is the religious heart of the janapada and one of the major Mahájaya temples of inland Vedyara. Mahájaya is the preserver-goddess of the [[affiliation-varakpnthn|Varnaka pantheon]], mistress of order, of prosperity and of the keeping of dharma, and she suits a janapada whose identity is disciplined martial training in the service of legitimate authority.
+The Mahājaya temple at Dhanurkota is the religious heart of the janapada and one of the major Mahājaya temples of inland Vedyara. Mahājaya is the preserver-goddess of the [[affiliation-varakpnthn|Varnaka pantheon]], mistress of order, of prosperity and of the keeping of dharma, and she suits a janapada whose identity is disciplined martial training in the service of legitimate authority.
 
-The temple keeps the standard Mahájaya cycle of daily, weekly, seasonal and annual rites and adds three observances of its own:
+The temple keeps the standard Mahājaya cycle of daily, weekly, seasonal and annual rites and adds three observances of its own:
 
 - The Festival of the Drawn Bow, at the spring equinox, when each year's incoming students present themselves at the temple for blessing.
 - **The Festival of the Returning**, in autumn, when graduates back from service abroad ritually re-enter the janapada and are welcomed home.
 - **The Watch of the Bow-String**, the night before any major engagement involving Dhanurkoti graduates anywhere in Vedyara, when the temple's bowmen-priests keep vigil for their own.
 
-Shrines to the other Varnaka gods stand throughout the villages. [[place-vyalsrctmp|The temple of Vyālendra]] at the Sarvada source-spring is a popular pilgrimage for those seeking children, and the [[affiliation-rasikara|Rásikara]] shrine in the cremation-ground outside the town receives the dead.
+Shrines to the other Varnaka gods stand throughout the villages. [[place-vyalsrctmp|The temple of Vyālendra]] at the Sarvada source-spring is a popular pilgrimage for those seeking children, and the [[affiliation-rasikara|Rāsikara]] shrine in the cremation-ground outside the town receives the dead.
 
 ## Economy
 
@@ -148,7 +148,7 @@ Dhanurkota has not been seriously threatened in three centuries. Its reputation 
 
 Dhanurkota keeps formal patron-client relations with three neighboring kingdoms, small mountain kingdoms whose names change as their dynasties rise and fall. It keeps informal supplier relations with most of the major Vedyari city-states, [[affiliation-chandrapur|Chandrapur]] and the inland branches of the great coastal merchant houses among them. Its closest tie is to [[affiliation-vyalendra2|Vyālendra]], which has taken a Dhanurkoti graduate as commander of its city watch for as long as anyone can remember; the two keep up a continuous correspondence on military and commercial matters.
 
-Within the [[affiliation-janpdsvdyr|Mahā-Sangha]], Dhanurkota's standing is high. The senior priest of the Mahájaya temple is one of the senior voices at every Mahā-Mela, and the four academy masters are routinely consulted on military questions between janapadas.
+Within the [[affiliation-janpdsvdyr|Mahā-Sangha]], Dhanurkota's standing is high. The senior priest of the Mahājaya temple is one of the senior voices at every Mahā-Mela, and the four academy masters are routinely consulted on military questions between janapadas.
 
 ## Commerce and Currency
 
@@ -159,7 +159,7 @@ Dhanurkota holds one of the five seats in the [[affiliation-assmblycmpct|Assembl
 - [[lore-hghlndfndn|The Highland Foundations]]—the founding of the four academies, dated
 - [[place-dhanurkotajnpd|Dhanurkota Janapada]]—the land the janapada holds
 - [[place-dhanurkota|Dhanurkota]]—the bow-fort town itself
-- [[place-bowfort|The Bow-Fort]] and [[place-dhnrktemple|its Mahájaya temple]]
+- [[place-bowfort|The Bow-Fort]] and [[place-dhnrktemple|its Mahājaya temple]]
 - [[affiliation-janpdsvdyr|Janapadas of Vedyara]]—parent confederation
 - [[affiliation-vyalendra2|Vyālendra]]—the city whose watch Dhanurkota commands
 - [[affiliation-varakpnthn|Varnaka Pantheon]]—religious tradition

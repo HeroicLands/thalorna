@@ -1,16 +1,16 @@
 ---
 shortcode: rasikarastrm
-name: {full: The Rásikara Stream, aliases: []}
+name: {full: The Rāsikara Stream, aliases: []}
 type: place
 subType: feature
-description: "The one stream off the gold mountain that yields no gold, where panning is forbidden and the Rásikara shrine stands at the head."
+description: "The one stream off the gold mountain that yields no gold, where panning is forbidden and the Rāsikara shrine stands at the head."
 tags: [river, sacred, inland]
 data: {demonym: null, lore: [], parents: [suvarnagirijnpd], population: null, packFolder: vedyara}
 ---
 
-The **Rásikara stream** rises on the back slope of [[place-goldmountain|the Gold Mountain]] and yields no gold. Panning is forbidden in it by Suvarnagiri tradition, which is a prohibition on a thing nobody has a reason to do, and that is the point of it.
+The **Rāsikara stream** rises on the back slope of [[place-goldmountain|the Gold Mountain]] and yields no gold. Panning is forbidden in it by Suvarnagiri tradition, which is a prohibition on a thing nobody has a reason to do, and that is the point of it.
 
-The shrine of [[affiliation-rasikara|Rásikara]] stands at its head. Rásikara is the god of fire and of the change fire compels, the burning that strips away corruption; the janapada below is Mahájaya's through and through, and Mahájaya preserves. Not all of the mountain's water belongs to the preserver, and the stream is where that is admitted.
+The shrine of [[affiliation-rasikara|Rāsikara]] stands at its head. Rāsikara is the god of fire and of the change fire compels, the burning that strips away corruption; the janapada below is Mahājaya's through and through, and Mahājaya preserves. Not all of the mountain's water belongs to the preserver, and the stream is where that is admitted.
 
 ## The Ash-Mark
 
@@ -23,4 +23,4 @@ The stream's water is used for nothing else. It runs off the back slope into bro
 ## See Also
 
 - [[place-goldmountain|The Gold Mountain]] · [[affiliation-suvrgrjnpd|Suvarnagiri Janapada]]
-- [[affiliation-rasikara|Rásikara]]—the god of the burning
+- [[affiliation-rasikara|Rāsikara]]—the god of the burning

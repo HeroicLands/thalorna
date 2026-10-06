@@ -42,7 +42,7 @@ The plateau itself is bordered to the north by [[affiliation-balamtzaku|Ba'alam 
 
 Trade in K'uxi Balam flows primarily north and south along the sacred roads, though the volume is far less than in the wealthier regions to the north. The pastoralist peoples herd llama and alpaca, producing fine wool that is woven into textiles and exported northward. The high grasslands produce hardy grain analogs, freeze-dried tubers, and medicinal plants said to cure altitude sickness and sharpen the mind.
 
-The main trade goods flowing through K'uxi Balam are provisions for travelers heading to and from the far south—dried meats, cold-weather cloaks, strong cords, and the dried coca-analog that helps climbers and those at altitude breathe more easily. The great fortress-city of [[place-kawilulkik|K'awi'il'ul Ki'ik]] stands as the primary staging point for expeditions into the wastes, and merchants there profit enormously from outfitting southern-bound adventurers, priests, and warriors.
+The main trade goods flowing through K'uxi Balam are provisions for travelers heading to and from the far south—dried meats, cold-weather cloaks, strong cords, and the dried leaf that climbers and travelers at altitude chew to breathe more easily. The great fortress-city of [[place-kawilulkik|K'awi'il'ul Ki'ik]] stands as the primary staging point for expeditions into the wastes, and merchants there profit enormously from outfitting southern-bound adventurers, priests, and warriors.
 
 ## See Also
 

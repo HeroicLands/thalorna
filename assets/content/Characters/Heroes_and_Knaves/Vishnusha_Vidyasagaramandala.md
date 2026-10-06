@@ -1,6 +1,10 @@
 ---
 shortcode: vshnshvdysgrml
-name: {full: Vishnusha Vidyāsāgaramandala, given: Vishnusha, clan: Vidyāsāgaramandala, aliases: []}
+name:
+  full: Shilāvīra Vidyāsāgaramandala
+  given: Shilāvīra
+  clan: Vidyāsāgaramandala
+  aliases: [Shilu]
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -417,9 +421,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[vshnshvdysgrml|Vishnusha Vidyāsāgaramandala]]{float=top-left}
+![[vshnshvdysgrml|Shilāvīra Vidyāsāgaramandala]]{float=top-left}
 
-Vishnusha stands 6'3" tall with a heavy build. He has warm honey skin, black hair, and brown eyes. His features include a full face, a slightly arched nose, a soft jawline, generous lips, and expressive brows.
+Shilāvīra stands 6'3" tall with a heavy build. He has warm honey skin, black hair, and brown eyes. His features include a full face, a slightly arched nose, a soft jawline, generous lips, and expressive brows.
 
 # Dossier {#dossier}
 
@@ -427,80 +431,80 @@ Vishnusha stands 6'3" tall with a heavy build. He has warm honey skin, black hai
 
 ### From Surface Laborer to Craftsman
 
-Vishnusha was born to the miners of the [[place-vedyarargn|Vedyara]] city-states, the son of a man named **Rásikesh** who had worked the deep mines for forty years before a collapse took his life when Vishnusha was merely nine years old. His mother, **Devani**, took in washing and mending to survive, but Vishnusha knew early that his destiny lay in the mines—not as a means of perpetuating family tradition, but as a way of understanding and honoring the circumstances that had shaped his life. At twelve, he began as a water-carrier and ore-hauler, working in the copper and silver mines of the **Merchant Collective's** extensive operations.
+Shilāvīra was born to the miners of the [[place-vedyarargn|Vedyara]] city-states, the son of a man named **Rāsikesh** who had worked the deep mines for forty years before a collapse took his life when Shilāvīra was merely nine years old. His mother, **Devani**, took in washing and mending to survive, but Shilāvīra knew early that his destiny lay in the mines—not as a means of perpetuating family tradition, but as a way of understanding and honoring the circumstances that had shaped his life. At twelve, he began as a water-carrier and ore-hauler, working in the copper and silver mines of the **Merchant Collective's** extensive operations.
 
-By his late teens, having demonstrated unusual strength, reliability, and a natural aptitude for understanding the stone itself, Vishnusha apprenticed under **Master Koshna**, an elderly miner known for his ability to read seams of ore and predict collapses with uncanny accuracy. Over more than a decade of training, Vishnusha learned the mechanics of mining—the pickaxe techniques, the use of levers and pulleys, the reading of rock formation—and something deeper: a kind of communion with the earth, an ability to sense where the most precious metals lay hidden and how to extract them with minimal loss.
+By his late teens, having demonstrated unusual strength, reliability, and a natural aptitude for understanding the stone itself, Shilāvīra apprenticed under **Master Koshna**, an elderly miner known for his ability to read seams of ore and predict collapses with uncanny accuracy. Over more than a decade of training, Shilāvīra learned the mechanics of mining—the pickaxe techniques, the use of levers and pulleys, the reading of rock formation—and something deeper: a kind of communion with the earth, an ability to sense where the most precious metals lay hidden and how to extract them with minimal loss.
 
 ### The Middle Years
 
-At twenty-five, Vishnusha became a master himself and began taking on oversight of entire mining operations. He was known among the miners for his fairness, his absolute commitment to safe working, and his willingness to enter the most dangerous sections of mines alongside his workers rather than directing from above. Both the Merchant Collective's overseers and the ordinary miners who worked under him came to respect him, a rare achievement that speaks to his integrity. His life became the mines—their rhythms, their dangers, their slow revelation of hidden treasures.
+At twenty-five, Shilāvīra became a master himself and began taking on oversight of entire mining operations. He was known among the miners for his fairness, his absolute commitment to safe working, and his willingness to enter the most dangerous sections of mines alongside his workers rather than directing from above. Both the Merchant Collective's overseers and the ordinary miners who worked under him came to respect him, a rare achievement that speaks to his integrity. His life became the mines—their rhythms, their dangers, their slow revelation of hidden treasures.
 
 ### Current Circumstances
 
-Now at thirty-six, Vishnusha occupies a complex position. He is a senior foreman for the Merchant Collective but maintains his membership in the Miners' Union, understanding the importance of solidarity with ordinary workers. He oversees one of the most productive mines in the Vedyara territories and has trained numerous younger miners in his methods. He lives modestly despite the reasonable income his position provides, contributing much of his earnings to a fund that supports miners who have been injured or displaced by accidents or hard times. Yet recent changes in the mining trade—the introduction of new, more dangerous extraction techniques and pressure from the Merchant Collective to put profit before safety—have troubled him deeply.
+Now at thirty-six, Shilāvīra occupies a complex position. He is a senior foreman for the Merchant Collective but maintains his membership in the Miners' Union, understanding the importance of solidarity with ordinary workers. He oversees one of the most productive mines in the Vedyara territories and has trained numerous younger miners in his methods. He lives modestly despite the reasonable income his position provides, contributing much of his earnings to a fund that supports miners who have been injured or displaced by accidents or hard times. Yet recent changes in the mining trade—the introduction of new, more dangerous extraction techniques and pressure from the Merchant Collective to put profit before safety—have troubled him deeply.
 
 ## Psyche
 
 ### Personality
 
-Vishnusha is a man of few words but steady conviction. He speaks deliberately, choosing his words with care, and prefers action to rhetoric. His loyalty is absolute to those he considers his people—the miners, the workers, those struggling against the weight of circumstance. He does not resent those of higher station, but neither does he defer to them excessively. He possesses a dry, understated humor that often catches people by surprise, and he laughs easily at a good jest.
+Shilāvīra is a man of few words but steady conviction. He speaks deliberately, choosing his words with care, and prefers action to rhetoric. His loyalty is absolute to those he considers his people—the miners, the workers, those struggling against the weight of circumstance. He does not resent those of higher station, but neither does he defer to them excessively. He possesses a dry, understated humor that often catches people by surprise, and he laughs easily at a good jest.
 
-His caution—which some perceive as timidity—stems not from fear but from respect for danger. Having seen too many men dead or maimed by carelessness, Vishnusha approaches every task with methodical deliberation. This has earned him a reputation for being overly cautious, but it has also resulted in an outstanding safety record under his supervision. He is a man who thinks deeply about ethical problems and is troubled by moral compromise, qualities that have made him something of an outsider despite his popularity among workers.
+His caution—which some perceive as timidity—stems not from fear but from respect for danger. Having seen too many men dead or maimed by carelessness, Shilāvīra approaches every task with methodical deliberation. This has earned him a reputation for being overly cautious, but it has also resulted in an outstanding safety record under his supervision. He is a man who thinks deeply about ethical problems and is troubled by moral compromise, qualities that have made him something of an outsider despite his popularity among workers.
 
 ### Motivation
 
-Vishnusha seeks to create a legacy that extends beyond extracted ore and profit. He wants to prove that mining—brutal and dangerous though it is—can be conducted with real concern for the workers and the land. He harbors a secret ambition to establish a cooperative mining operation, owned and run by the miners themselves rather than by distant merchant overlords. He also wishes to develop and document new mining techniques that are both quicker and safer, knowledge that could be shared among mining communities. Under these conscious motivations is a deeper desire to honor his father's memory by being the kind of master Rásikesh never had—one who cares for his workers' wellbeing.
+Shilāvīra seeks to create a legacy that extends beyond extracted ore and profit. He wants to prove that mining—brutal and dangerous though it is—can be conducted with real concern for the workers and the land. He harbors a secret ambition to establish a cooperative mining operation, owned and run by the miners themselves rather than by distant merchant overlords. He also wishes to develop and document new mining techniques that are both quicker and safer, knowledge that could be shared among mining communities. Under these conscious motivations is a deeper desire to honor his father's memory by being the kind of master Rāsikesh never had—one who cares for his workers' wellbeing.
 
 ### Strengths
 
-- **Extraordinary Physical Strength**: Vishnusha possesses tremendous raw power, capable of wielding massive tools and hauling loads that would exhaust ordinary men. His strength is famous among the mining communities.
+- **Extraordinary Physical Strength**: Shilāvīra possesses tremendous raw power, capable of wielding massive tools and hauling loads that would exhaust ordinary men. His strength is famous among the mining communities.
 - **Expert Mining Craft**: His knowledge of mining techniques, ore identification, seam reading, and extraction is encyclopedic. He can assess a mining site and determine the best way to work it with great accuracy.
-- **Safety Consciousness**: Vishnusha's commitment to mining safety is absolute. Under his oversight, accident rates drop significantly, and he has personally prevented innumerable deaths through his careful rules of work.
-- **Leadership and Mentorship**: Despite his quiet demeanor, Vishnusha is a fine leader. Workers follow him not from fear but from trust. He is a patient teacher who has trained numerous younger miners.
-- **Practical Craftsmanship**: Beyond mining, Vishnusha is skilled in metalcraft, woodworking, and engineering. He can repair equipment, construct tools, and solve practical problems with ingenuity.
+- **Safety Consciousness**: Shilāvīra's commitment to mining safety is absolute. Under his oversight, accident rates drop significantly, and he has personally prevented innumerable deaths through his careful rules of work.
+- **Leadership and Mentorship**: Despite his quiet demeanor, Shilāvīra is a fine leader. Workers follow him not from fear but from trust. He is a patient teacher who has trained numerous younger miners.
+- **Practical Craftsmanship**: Beyond mining, Shilāvīra is skilled in metalcraft, woodworking, and engineering. He can repair equipment, construct tools, and solve practical problems with ingenuity.
 
 ### Weaknesses
 
-- **Technological Limitations**: While excellent with traditional mining techniques, Vishnusha struggles with newer, more complex mechanical equipment and novel engineering. He sometimes resists change even when it would prove beneficial.
-- **Limited Formal Education**: Vishnusha's education was practical rather than theoretical. He cannot read complex technical texts or engage in mathematical analysis, limiting his ability to understand written regulations or theoretical mining science.
+- **Technological Limitations**: While excellent with traditional mining techniques, Shilāvīra struggles with newer, more complex mechanical equipment and novel engineering. He sometimes resists change even when it would prove beneficial.
+- **Limited Formal Education**: Shilāvīra's education was practical rather than theoretical. He cannot read complex technical texts or engage in mathematical analysis, limiting his ability to understand written regulations or theoretical mining science.
 - **Emotional Reserve**: His difficulty expressing emotions or articulating feelings means he often comes across as distant or unmoved, even when experiencing deep feeling. This can damage relationships and limit his ability to persuade through emotional appeal.
-- **Physical Limitations in Combat**: While extraordinarily strong, Vishnusha has received no formal martial training and would be outmatched by a skilled warrior. His strength, great as it is, cannot compensate for technique and experience.
-- **Moral Rigidity**: Vishnusha's strong ethical convictions sometimes prevent pragmatic compromise. He can be stubborn when he believes an action violates his principles, even when flexibility might achieve better outcomes.
+- **Physical Limitations in Combat**: While extraordinarily strong, Shilāvīra has received no formal martial training and would be outmatched by a skilled warrior. His strength, great as it is, cannot compensate for technique and experience.
+- **Moral Rigidity**: Shilāvīra's strong ethical convictions sometimes prevent pragmatic compromise. He can be stubborn when he believes an action violates his principles, even when flexibility might achieve better outcomes.
 
 ## Social
 
 ### Patrons
 
 The Merchant Collective
-: The primary commercial organization that contracts Vishnusha's skill and employs him as a senior foreman. This relationship is increasingly strained as the Collective pushes for higher profits at the expense of safety.
+: The primary commercial organization that contracts Shilāvīra's skill and employs him as a senior foreman. This relationship is increasingly strained as the Collective pushes for higher profits at the expense of safety.
 
 The Miners' Union Leadership
-: Several prominent members of the union's leadership council rely on Vishnusha's counsel and support. He acts as an informal mediator between the union and the Merchant Collective.
+: Several prominent members of the union's leadership council rely on Shilāvīra's counsel and support. He acts as an informal mediator between the union and the Merchant Collective.
 
 ### Enemies
 
-Overseer Thálim
-: A ruthless administrator dispatched by the Merchant Collective to increase profits. Thálim views safety measures as unnecessary expense and has repeatedly overridden Vishnusha's safety recommendations, creating dangerous conditions and tension between them.
+Overseer Thālim
+: A ruthless administrator dispatched by the Merchant Collective to increase profits. Thālim views safety measures as unnecessary expense and has repeatedly overridden Shilāvīra's safety recommendations, creating dangerous conditions and tension between them.
 
 The Industrial Consortium
-: A rival merchant organization that seeks to undercut the Collective's mining operations. They have attempted to poach Vishnusha's workers and techniques, and have even offered him substantial sums to switch his allegiance.
+: A rival merchant organization that seeks to undercut the Collective's mining operations. They have attempted to poach Shilāvīra's workers and techniques, and have even offered him substantial sums to switch his allegiance.
 
 ### Affiliations
 
 The Miners' Union
-: Vishnusha maintains full membership and serves in an unofficial capacity as a bridge between the union and the Merchant Collective's overseers. The union views him as one of their most reliable members.
+: Shilāvīra maintains full membership and serves in an unofficial capacity as a bridge between the union and the Merchant Collective's overseers. The union views him as one of their most reliable members.
 
 The Merchant Collective
 : His primary employer, though this relationship is becoming increasingly complicated by ethical disagreements.
 
 ## Plot Hooks
 
-1. **The Collapse That Changes Everything**: A catastrophic mine collapse occurs in a section of the deep mines that Vishnusha had deemed unsafe and had recommended abandonment of. The Merchant Collective overruled his recommendation, and thirty-seven workers perish. Vishnusha can publicly expose the Collective's negligence, potentially destroying his livelihood but potentially preventing future tragedies, or remain silent to protect his own position and his ability to continue advocating for safer practices from within.
+1. **The Collapse That Changes Everything**: A catastrophic mine collapse occurs in a section of the deep mines that Shilāvīra had deemed unsafe and had recommended abandonment of. The Merchant Collective overruled his recommendation, and thirty-seven workers perish. Shilāvīra can publicly expose the Collective's negligence, potentially destroying his livelihood but potentially preventing future tragedies, or remain silent to protect his own position and his ability to continue advocating for safer practices from within.
 
-2. **The Forbidden Depths**: During excavation of a new mine shaft, workers discover ancient structures far deeper than previously thought possible—ruins suggesting a vast underground civilization of unknown origin. The Merchant Collective orders the discovery concealed and mining continued, but Vishnusha becomes convinced that digging further risks awakening something dangerous. He must either obey orders, pursue the mystery in secret, or defy the Collective entirely to prevent what may be catastrophic.
+2. **The Forbidden Depths**: During excavation of a new mine shaft, workers discover ancient structures far deeper than previously thought possible—ruins suggesting a vast underground civilization of unknown origin. The Merchant Collective orders the discovery concealed and mining continued, but Shilāvīra becomes convinced that digging further risks awakening something dangerous. He must either obey orders, pursue the mystery in secret, or defy the Collective entirely to prevent what may be catastrophic.
 
-3. **The Cooperative Dream**: A visionary named **Saranda** approaches Vishnusha with a proposal: lead a cooperative effort to establish a miner-owned mine, breaking the Collective's monopoly. This would require Vishnusha to openly defy his current employers, risk his security, and stake everything on an untested model of organization. Success would change the mining trade; failure would leave him ruined.
+3. **The Cooperative Dream**: A visionary named **Saranda** approaches Shilāvīra with a proposal: lead a cooperative effort to establish a miner-owned mine, breaking the Collective's monopoly. This would require Shilāvīra to openly defy his current employers, risk his security, and stake everything on an untested model of organization. Success would change the mining trade; failure would leave him ruined.
 
-4. **Darkness Rising**: Strange phenomena begin occurring in the mines—equipment mysteriously breaks, workers report shadowy figures in the deep shafts, and several miners go missing in sections of mines that were previously considered safe. Vishnusha must investigate these mysteries, which seem to point toward either supernatural forces or a saboteur working within his operation. The investigation threatens to expose secrets that powerful people wish to keep hidden.
+4. **Darkness Rising**: Strange phenomena begin occurring in the mines—equipment mysteriously breaks, workers report shadowy figures in the deep shafts, and several miners go missing in sections of mines that were previously considered safe. Shilāvīra must investigate these mysteries, which seem to point toward either supernatural forces or a saboteur working within his operation. The investigation threatens to expose secrets that powerful people wish to keep hidden.
 
-5. **The Whistleblower's Dilemma**: Vishnusha discovers evidence that the Merchant Collective is knowingly dumping mining waste into the water sources that supply the city's poorest neighborhoods, causing widespread illness. Making this public would damage the Collective, potentially destroy his livelihood, and might even make him a target for retaliation. Yet remaining silent violates everything he believes in. A writer of public broadsheets approaches him offering protection in exchange for documentation of the dumping, leading to a dangerous dance between justice and survival.
+5. **The Whistleblower's Dilemma**: Shilāvīra discovers evidence that the Merchant Collective is knowingly dumping mining waste into the water sources that supply the city's poorest neighborhoods, causing widespread illness. Making this public would damage the Collective, potentially destroy his livelihood, and might even make him a target for retaliation. Yet remaining silent violates everything he believes in. A writer of public broadsheets approaches him offering protection in exchange for documentation of the dumping, leading to a dangerous dance between justice and survival.

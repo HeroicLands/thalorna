@@ -485,7 +485,7 @@ Merchant Hakkim ibn Sahar
 The Abusive Stablehands
 : Several individuals employed by other facilities have felt her judgment and intervention when she discovers them mistreating animals, and they harbor resentment for her interference and moral lectures.
 
-Her Own Pain
+Her own pain, an inner enemy
 : The chronic pain from her burn mark occasionally resurfaces, both physically and emotionally, reminding her of vulnerability and occasionally bringing on dark spells where she doubts her ability to prevent suffering.
 
 ### Affiliations

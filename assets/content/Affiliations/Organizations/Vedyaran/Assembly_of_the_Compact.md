@@ -50,7 +50,7 @@ sohl: {system: {commonSkills: []}}
 _Vedyaran: Sangha-Sabhā—"the Assembly of the [[lore-thirdcmpct|Compact]]"_
 
 - **Type:** Standing assembly of signatory polities
-- **Seats:** Five—[[affiliation-chandrapur|Chandrapur]], [[affiliation-vyalendra2|Vyālendra]], [[affiliation-vindhyalay|Vindhyālaya]], [[affiliation-rajaprjnpd|Rājapur]] and [[affiliation-dhnrktjnpd|Dhanurkota]]
+- **Seats:** Five—[[affiliation-chandrapur|Chandrapur]], [[affiliation-vyalendra2|Vyālendra]], [[affiliation-vindhyalay|Shikharālaya]], [[affiliation-rajaprjnpd|Rājapur]] and [[affiliation-dhnrktjnpd|Dhanurkota]]
 - **Sittings:** Twice yearly—spring at Chandrapur, autumn at Vyālendra
 - **Founded:** With the Compact itself, which tradition dates to the [[lore-thirdcmpct|Third Janapada Compact]], sworn at the **Mahā-Mela** of 320 AF
 
@@ -66,15 +66,15 @@ What the five hold in common is the [[lore-vdyrnbnkng|Vedyaran banking system]]�
 
 _The Assembly holds no land._ It has no domain, no capital and no seat of its own; the two cities it sits in lend it a hall and nothing more. Every acre the Compact reaches is held by the polity that signed for it, under that polity's own model and not under the Assembly's:
 
-| Seat                                    | What it is             | How its land is held                      |
-| --------------------------------------- | ---------------------- | ----------------------------------------- |
-| [[affiliation-chandrapur\|Chandrapur]]  | Gem-working city-state | Held—the Mahārāja and the **Nine Houses** |
-| [[affiliation-vyalendra2\|Vyālendra]]   | Weaving city-state     | Held—the city and its guild council       |
-| [[affiliation-vindhyalay\|Vindhyālaya]] | Highland pass-kingdom  | Held—the Mahārāja and his clan-chieftains |
-| [[affiliation-rajaprjnpd\|Rājapur]]     | Temple-republic        | Endowed—the temple and its sabhā          |
-| [[affiliation-dhnrktjnpd\|Dhanurkota]]  | Temple-republic        | Endowed—the temple and its sabhā          |
+| Seat                                     | What it is             | How its land is held                      |
+| ---------------------------------------- | ---------------------- | ----------------------------------------- |
+| [[affiliation-chandrapur\|Chandrapur]]   | Gem-working city-state | Held—the Mahārāja and the **Nine Houses** |
+| [[affiliation-vyalendra2\|Vyālendra]]    | Weaving city-state     | Held—the city and its guild council       |
+| [[affiliation-vindhyalay\|Shikharālaya]] | Highland pass-kingdom  | Held—the Mahārāja and his clan-chieftains |
+| [[affiliation-rajaprjnpd\|Rājapur]]      | Temple-republic        | Endowed—the temple and its sabhā          |
+| [[affiliation-dhnrktjnpd\|Dhanurkota]]   | Temple-republic        | Endowed—the temple and its sabhā          |
 
-The landlessness is deliberate. A body that held ground would be a polity, and a polity is what the five seats will not constitute between them. Two of them are held under a man, the Mahārāja of Chandrapur with his Nine Houses and the Mahārāja of Vindhyālaya with his clan-chieftains; one is held by a guild council; two are temple-republics whose land answers to a rite. No seat would accept the way another holds its ground. The Assembly governs an agreement and not a territory, and the agreement survives quarrels that would break a state.
+The landlessness is deliberate. A body that held ground would be a polity, and a polity is what the five seats will not constitute between them. Two of them are held under a man, the Mahārāja of Chandrapur with his Nine Houses and the Mahārāja of Shikharālaya with his clan-chieftains; one is held by a guild council; two are temple-republics whose land answers to a rite. No seat would accept the way another holds its ground. The Assembly governs an agreement and not a territory, and the agreement survives quarrels that would break a state.
 
 ## The Standing Committees
 

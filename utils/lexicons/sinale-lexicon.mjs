@@ -31,9 +31,12 @@
  * 2. **Onsets, medial clusters and finals.** A word begins on a vowel or on a
  *    sound the onset row allows, holds no consonant run longer than two, holds
  *    only the two-consonant runs the cluster table lists, and ends on a vowel or
- *    a sound the final row allows.
+ *    a sound the final row allows. A sound the cluster section says "stands
+ *    only after" certain others stands nowhere else. A digraph of the
+ *    consonant table counts as one consonant.
  * 3. **Harmony.** No stem or word holds a back and a front vowel; a suffix or
- *    prefix takes the form the word it attaches to calls for; each stem of a
+ *    prefix takes the form the word it attaches to calls for, a word of neutral
+ *    vowels alone calling for the set the vowel section names; each stem of a
  *    compound keeps its own harmony.
  * 4. **Diphthongs.** Two different vowels side by side form a listed pair.
  * 5. **Wearing.** A worn form is recomputed from the wearing table. A lineage
@@ -248,6 +251,21 @@ export function ruleFrom(text, lex = null) {
     const diphthongs = listedIn("### Diphthongs", 1);
     const clusters = listedIn("### Medial clusters", 1);
 
+    // The harmony a word of neutral vowels alone takes.
+    const neutralRule = need("### Vowels").body.match(
+        /a word built only of neutral vowels counts as (back|front)/,
+    );
+    if (!neutralRule)
+        problems.push("the note states no harmony for a word of neutral vowels alone");
+    const neutralAs = neutralRule ? neutralRule[1] : "front";
+
+    // Sounds that stand only after certain others: each maps to what may precede it.
+    const bound = new Map();
+    for (const match of need("### Medial clusters").body.matchAll(
+        /\*\*_(\p{L}+)_ stands only after ([^*]+)\*\*/gu,
+    ))
+        bound.set(plain(match[1]), new Set(firstItalic(match[2])));
+
     // The edges of a word.
     const onsets = new Set();
     const finals = new Set();
@@ -338,6 +356,8 @@ export function ruleFrom(text, lex = null) {
             vowels,
             diphthongs,
             clusters,
+            neutralAs,
+            bound,
             onsets,
             finals,
             vowelOnset,
@@ -612,7 +632,8 @@ function isVowel(sound, rule) {
  *
  * @param {string} word - The word, plain.
  * @param {object} rule - The rule.
- * @returns {"back"|"front"|"mixed"} A word of neutral vowels alone counts as front.
+ * @returns {"back"|"front"|"mixed"} A word of neutral vowels alone takes the
+ *   harmony the vowel section states for it.
  */
 export function harmonyOf(word, rule) {
     let back = false;
@@ -623,7 +644,8 @@ export function harmonyOf(word, rule) {
         if (set === "front") front = true;
     }
     if (back && front) return "mixed";
-    return back ? "back" : "front";
+    if (back) return "back";
+    return front ? "front" : (rule.neutralAs ?? "front");
 }
 
 /**
@@ -660,6 +682,13 @@ export function shape(written, rule) {
         out.push(`"${written}" ends on "${last}"`);
     if (cut.length > 1 && !isVowel(last, rule) && !isVowel(cut[cut.length - 2], rule))
         out.push(`"${written}" ends on a cluster`);
+    for (let i = 0; i < cut.length; i += 1) {
+        const after = rule.bound?.get(cut[i]);
+        if (after && !(i > 0 && after.has(cut[i - 1])))
+            out.push(
+                `"${written}" holds "${cut[i]}" ${i > 0 ? `after "${cut[i - 1]}"` : "at its head"}, where it stands only after ${[...after].join(", ")}`,
+            );
+    }
 
     // Medial runs: everything between the first and the last vowel.
     let run = [];
@@ -690,14 +719,17 @@ export function shape(written, rule) {
 
 /** A form worn by the wearing table; a form not opening on a radical is returned as it is. */
 export function worn(form, rule) {
-    for (const [radical, soft] of rule.wearing)
-        if (form.startsWith(radical)) return soft + form.slice(radical.length);
-    return form;
+    const [first] = sounds(form, rule);
+    const soft = rule.wearing.get(first);
+    return soft === undefined ? form : soft + form.slice(first.length);
 }
 
-/** Whether a word opens on a radical the wearing table moves. */
+/**
+ * Whether a word opens on a radical the wearing table moves. The opening sound
+ * is read with digraphs whole, so a word opening on _th_ does not open on _t_.
+ */
 export function opensOnRadical(word, rule) {
-    return [...rule.wearing.keys()].some((radical) => word.startsWith(radical));
+    return rule.wearing.has(sounds(word, rule)[0]);
 }
 
 /** An affix's form for a harmony, and the form it would wrongly take. */

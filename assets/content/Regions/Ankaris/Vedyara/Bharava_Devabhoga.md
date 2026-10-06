@@ -56,7 +56,7 @@ data:
         The warden who walks an estate's bounds, marks the trees that may be felled and turns back anyone gathering without a license.
       Koshapāla: >-
         Keeper of an estate's stores and its takings, and the man a buyer deals with when the keeper is at the temple.
-      Smritibhāra: >-
+      Smrtibhāra: >-
         The Memory-Keeper, who holds the bounds of the estates and the terms of each endowment and recites them when two keepers disagree, there being no sabhā to ask.
       Ganaka: >-
         The reckoner, who fixes the felling season, the tapping rounds and the day the rafts go down on the flood.
@@ -90,7 +90,7 @@ The person a traveler meets first is a **Vanapāla**, the warden who walks an es
 
 An estate is a bounded piece of forest endowed to a named temple. The temple does not work it. It appoints a **Kshetrapāla**, an ordained keeper, who holds the estate for his term, opens and closes its felling and tapping seasons, issues the licenses under which anyone may gather in it, takes the tribute and renders it to the temple that endowed him.
 
-Above the keeper there is the **Devapati** of his mother-temple and nothing else. There is no roll, no convening priest and no assembly of keepers. Two keepers who disagree about a boundary send for the **Smritibhāra** and accept what he recites, because the alternative is a suit before a court neither of their temples recognizes.
+Above the keeper there is the **Devapati** of his mother-temple and nothing else. There is no roll, no convening priest and no assembly of keepers. Two keepers who disagree about a boundary send for the **Smrtibhāra** and accept what he recites, because the alternative is a suit before a court neither of their temples recognizes.
 
 The mother-temples consult each other, and they do it about price. When lac moves on the coast the keepers hear the same instruction within a month along three hundred miles of river, which is faster than any janapada federation has ever agreed anything, and it is the only question on which they act as one body.
 

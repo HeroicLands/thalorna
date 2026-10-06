@@ -39,11 +39,11 @@ This campaign is composed of a series of adventures. Players will be members of 
 
 ### Ambassador
 
-**Name:** [[being-arancelavren|Sir Aran Célavren]]
+**Name:** [[being-arancelavren|Aran Célavren]]
 
-- **Role:** High-ranking knight and noble.
+- **Role:** High-ranking mage of the [[affiliation-ordoarcanis|Ordo Arcanis]] and noble.
 - **Background:** An experienced diplomat and trusted advisor in the service of the Synod of Dúnavarre.
-- \***\*Intrigue:\*\*** Recently promoted to his position, and some in the Synod's service believe he owes his rapid ascent to secret dealings or favoritism. Sir Aran is driven by a need to prove his worth constantly, leading to strained relations within the party.
+- \***\*Intrigue:\*\*** Recently promoted to his position, and some in the Synod's service believe he owes his rapid ascent to secret dealings or favoritism. Aran is driven by a need to prove his worth constantly, leading to strained relations within the party.
 
 ### Chamberlain
 
@@ -51,7 +51,7 @@ This campaign is composed of a series of adventures. Players will be members of 
 
 - **Role:** Responsible for managing the household and logistics.
 - **Background:** Known for his organizational skills and loyalty to Dúnavarre and its Synod.
-- **Intrigue:** Baridan secretly resents Sir Aran's authority. He believes he deserved a higher position in the Synod's service due to his loyalty and hard work; making him susceptible to accepting bribes or conspiring against Sir Aran.
+- **Intrigue:** Baridan secretly resents Aran's authority. He believes he deserved a higher position in the Synod's service due to his loyalty and hard work; making him susceptible to accepting bribes or conspiring against Aran.
 
 ### Scribe/Clerk
 
@@ -95,7 +95,7 @@ This campaign is composed of a series of adventures. Players will be members of 
 
 - **Role:** Security and training of guards, gathering intelligence.
   - **Known Role:** Most of the retinue knows him as the Sergeant-at-Arms.
-  - **Secret Role:** Spymaster, known only to Sir Aran. Marric’s information is vital but underestimates the subtlety needed for espionage.
+  - **Secret Role:** Spymaster, known only to Aran. Marric’s information is vital but underestimates the subtlety needed for espionage.
 - **Background:** Known for his leadership skills in military settings.
 - **Intrigue:** Marric is unaware that Loris knows his secret role. Loris considers Marric’s intelligence efforts amateurish and subtly undermines him by feeding false information, creating potential for disastrous missteps.
 
@@ -169,7 +169,7 @@ Players may either take on one of the above roles, replace one of the above role
 
 For instance:
 
-- The senior nights, Sir Arran and Dame Toradh, may have other junior knights on their staff assisting in representing the embassy. These knights would lead politically important missions.
+- The senior knight, Dame Toradh, may have junior knights on her staff assisting in representing the embassy. These knights would lead politically important missions.
 - Marric, the Sergent at Arms, will definitely have a staff of warriors whose job is security for the retinue. Players could be members of the staff. In his role as Spymaster, he will probably have other staff, hidden among the staff of other groups, who assist him in areas of intrigue.
 
 Similarly for all of the other positions, players could choose to be members of the staff. This may be ideal, since they would have much greater latitude for independent actions than the senior members of the party.
@@ -193,7 +193,7 @@ The Vylarian Empire currently serves as the sole intermediary for diplomatic rel
 
 ## Adventure 1: The [[miscgear-heartofdhirikri|Heart of Dhiríkri]]
 
-Central Plot: The mission arrives at [[place-beravel|Béravel]], capital of Élavendre. At a party in Sir Aran’s honor, the Royal Loremaster of Élavendre, [[being-aelithraenewyn|Aelithra Enéwyn]], expresses interest in sending a party to the [[lore-aralwen|Arálwen]] to retrieve an artifact. Sir Aran suggests members of his mission would be happy to assist. This undertaking will involve dealing with the [[affiliation-alndnwrdns|Áelendan Wardens]], who are likely to oppose such movements.
+Central Plot: The mission arrives at [[place-beravel|Béravel]], capital of Élavendre. At a party in Aran’s honor, the Royal Loremaster of Élavendre, [[being-aelithraenewyn|Aelithra Enéwyn]], expresses interest in sending a party to the [[lore-aralwen|Arálwen]] to retrieve an artifact. Aran suggests members of his mission would be happy to assist. This undertaking will involve dealing with the [[affiliation-alndnwrdns|Áelendan Wardens]], who are likely to oppose such movements.
 
 ### The Leader of Panepistemium:
 
