@@ -44,6 +44,24 @@ The speaker is **an option, not a template** for every note. Maps, rosters, meas
 
 An in-world speaker has limits. They may be mistaken, partisan, or unaware of a secret. Signal whose account the reader is hearing, and distinguish belief, rumor, and contested memory from established setting facts. The manual points out that legends often preserve what people believe rather than what happened. That difference can enrich a note, provided the reader can tell which claim is which.
 
+## Keep the reference boundary
+
+Player-facing text describes Thalorna in its own terms: its geography, its
+peoples and its language families. A note never explains a place, a people or a
+tongue by pointing at Earth, and never names an Earth place, river, language or
+source culture as though it were part of the setting.
+
+A real-world comparison that helps a later author belongs in a `# terran_analog:`
+comment in the note's frontmatter. It is a comment, never a field, and never
+visible prose, so it does not reach the content index or the built pages.
+
+Two cases sit outside the rule. A pronunciation aid may cite a real language
+("front-rounded, as in German _schön_"), because it tells a reader how a sound
+is made and says nothing about the setting. An in-world name that derives from a
+real place is the owner's to approve; where a note has no approved name, it
+refers to the place by its role ("the island trading port off the coast") and
+leaves the Earth name in the comment.
+
 ## Explain through concrete moments
 
 The manual recommends anecdotes, tales, quotations, and character voices to make history and social change easier to grasp. Use them when they add information or perspective that a bare entry does not. A succession dispute becomes clearer when a local recalls which household refused the new ruler. A law becomes more revealing when the note shows who enforces it and who can evade it. A festival can show the calendar, a faith, the year's work, and a community's fears in one scene.

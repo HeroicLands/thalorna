@@ -13,7 +13,7 @@ data:
   packFolder: kankul
   government: kankul
 
-# terran_analog: Yucatan Mexico and southern mexico through Honduras; the limestone platform is the Yucatan Peninsula, and the Usumacinta is one of its rivers
+# terran_analog: the Walled City is Tulum and the Island of Swallows is Cozumel; Yucatan Mexico and southern mexico through Honduras; the limestone platform is the Yucatan Peninsula, and the Usumacinta is one of its rivers
 ---
 
 ## Overview
@@ -34,13 +34,13 @@ The jungle that blankets K'ankul was not always primary forest; centuries of del
 
 ## City-States and Realms
 
-The greatest include Chaac'tun (the "Great Water Seat"), whose pyramids overlook a vast cenote field and whose astronomers are reputed to have refined the calculation of the Venus cycle to an accuracy of within two days per hundred years; Tulum (the "Walled City"), a coastal fortress that controls both sea trade and the overland routes to the interior; and Uxmal (the "Thrice-Built"), a sprawling complex of inter-connected pyramid groups built atop an artificial platform to maximize astronomical sightlines.
+The greatest include Chaac'tun (the "Great Water Seat"), whose pyramids overlook a vast cenote field and whose astronomers are reputed to have refined the calculation of the Venus cycle to an accuracy of within two days per hundred years; the "Walled City", a coastal fortress that controls both sea trade and the overland routes to the interior; and Uxmal (the "Thrice-Built"), a sprawling complex of inter-connected pyramid groups built atop an artificial platform to maximize astronomical sightlines.
 
 The great market plazas of K'ankul, while less frenetic than those of Balamkul, are renowned for the quality of their merchant stalls and the rarity of goods available—feathered headdresses, precious woods, medicinal herbs, and above all, books. K'ankul is the center of the scribal arts; texts written and illuminated in K'ankul are prized throughout the known world.
 
 ## Trade
 
-K'ankul's control of sea routes and its monopoly on certain luxuries—particularly rare books, astronomical instruments, and the finest carved jade—makes it a trading power second only to Balamkul. K'ankul merchants have established trading posts and alliances along the coasts as far south as [[affiliation-tzikin|Tz'ikin]] and northward to the great Gulf trading networks. The great ports of Tulum and Cozumel handle an enormous volume of cargo, with merchant vessels arriving bearing salt fish, bird feathers, exotic woods, and luxury resins from throughout the K'ich'chik world.
+K'ankul's control of sea routes and its monopoly on certain luxuries—particularly rare books, astronomical instruments, and the finest carved jade—makes it a trading power second only to Balamkul. K'ankul merchants have established trading posts and alliances along the coasts as far south as [[affiliation-tzikin|Tz'ikin]] and northward to the great Gulf trading networks. The great ports of the Walled City and the Island of Swallows handle an enormous volume of cargo, with merchant vessels arriving bearing salt fish, bird feathers, exotic woods, and luxury resins from throughout the K'ich'chik world.
 
 Salt is a crucial K'ankul export—produced by evaporation in coastal salt pans, it is exchanged for the grain surpluses of Balamkul and the highland luxury goods. Honey, harvested from stingless bees, flows northward and southward to distant markets. Most valuable of all are the astronomical texts and the services of trained astronomers and mathematicians, who travel to the great temples of Balamkul and beyond to conduct observations and maintain the sacred calendar. A K'ankul scribe or mathematician can command extraordinary compensation, for their knowledge is literally worth its weight in jade.
 
