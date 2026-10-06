@@ -36,16 +36,17 @@ Lin'Lemu elu Galezkara is a mutual aid society of the serving class of [[place-g
 
 ## Character
 
-TBD.
+The society is thrifty and loyal. Its members put aside what they can spare against the three hazards a servant's wages rarely cover, and it pays out when a member is dismissed without warning. It is open to any household servant willing to pay in.
 
 ## Relations
 
-TBD.
+- The households that employ its members—The society's fund exists to cover the hazards of dismissal and sickness that service brings.
 
 ## Commerce and Currency
 
-TBD.
+The common fund is the whole of the society's purpose: members pay into it and draw on it for sickness, dismissal or a burial.
 
 ## See Also
 
-TBD.
+- [[place-galezkara|Galezkara]]—The city whose household servants make up its membership
+- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms

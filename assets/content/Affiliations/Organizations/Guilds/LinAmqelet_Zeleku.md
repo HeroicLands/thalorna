@@ -40,16 +40,16 @@ Lin'Amqelet-Zeleku is a company gathered around a celebrated astrologer, its mem
 
 ## Character
 
-TBD.
+The company holds together by loyalty to its founder rather than by commerce. Its members stay for the counsel she gave and the prophecy she read, keep that prophecy inside the company's walls, and guard her reputation closely.
 
 ## Relations
 
-TBD.
+- The founder—An astrologer whose reading of the stars binds the company, and whose reputation it protects.
 
 ## Commerce and Currency
 
-TBD.
+The company conducts an ordinary trade, but membership confers no commercial advantage; the prophecy, not the trade, is what members hold in common.
 
 ## See Also
 
-TBD.
+- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms

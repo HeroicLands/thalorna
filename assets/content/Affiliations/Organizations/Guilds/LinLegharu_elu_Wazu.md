@@ -36,16 +36,17 @@ Lin'Legharu elu Wazu is an alliance of alchemists working out of [[place-wazulet
 
 ## Character
 
-TBD.
+The alliance is a mutual defense of the unpatronized. It exists because its members have no great house behind them, and it asks them to keep faith with it even after a patron's favor is won. Its members know that a patron is no guarantee, and they stay.
 
 ## Relations
 
-TBD.
+- The great houses—Prefer to deal with their own retained practitioners, which is why the alliance exists.
 
 ## Commerce and Currency
 
-TBD.
+Members work without a great house's patronage and defend the standing of patronless alchemists against houses that deal only with their own practitioners.
 
 ## See Also
 
-TBD.
+- [[place-wazulet|The Wazulet]]—Where the alliance's alchemists work
+- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms

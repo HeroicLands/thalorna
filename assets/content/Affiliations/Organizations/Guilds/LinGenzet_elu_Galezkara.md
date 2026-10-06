@@ -40,16 +40,17 @@ Lin'Genzet elu Galezkara is the chartered guild of advocates practicing in [[pla
 
 ## Character
 
-TBD.
+The guild is formal and gatekeeping. It examines every candidate before admission, and the license to argue in the capital's courts runs through its roster rather than through the courts themselves. It vouches only for its own advocates.
 
 ## Relations
 
-TBD.
+- The imperial courts—Where the guild's advocates argue, under a license the guild controls.
 
 ## Commerce and Currency
 
-TBD.
+The guild's roster is the license to argue in [[place-galezkara|Galezkara]]: a litigant pays an advocate on the roster for a standing the guild itself vouches for.
 
 ## See Also
 
-TBD.
+- [[place-galezkara|Galezkara]]—The city whose courts its advocates serve
+- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms

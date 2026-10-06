@@ -36,16 +36,17 @@ Lin'Lagaru elu Aû'Khelâthu, known as the Quantity Merchants, is a guild of dea
 
 ## Character
 
-TBD.
+The dealers are driven by turnover. They prize a supplier who ships quickly over one who ships well, and they read any refusal to send inferior stock as an affront to profit. The coalition is loose, and its members are held together by a shared reckoning of what a good deal is.
 
 ## Relations
 
-TBD.
+- Suppliers—Valued for speed of shipment over quality, and resented when they hold stock back.
 
 ## Commerce and Currency
 
-TBD.
+Members buy and sell in bulk and trade margin for turnover, so the volume moved matters to them more than the worth of any single lot.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu]]—Where the dealers trade
+- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms

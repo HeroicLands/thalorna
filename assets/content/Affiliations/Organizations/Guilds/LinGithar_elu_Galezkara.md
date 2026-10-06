@@ -36,16 +36,17 @@ Lin'Githar elu Galezkara is the cooperative of textile producers working in [[pl
 
 ## Character
 
-TBD.
+The cooperative is practical and outspoken about what it needs. Its weavers and dyers pool their cloth and choose their carriage together, and they say plainly in public when a carrier serves them well. Goodwill from it is earned by keeping goods moving on schedule.
 
 ## Relations
 
-TBD.
+- Caravan carriers—Move the cooperative's cloth to distant markets under contracts the members choose together.
 
 ## Commerce and Currency
 
-TBD.
+Members pool their cloth into shared consignments bound for markets beyond [[place-galezkara|Galezkara]], carried on contracts they choose together.
 
 ## See Also
 
-TBD.
+- [[place-galezkara|Galezkara]]—The city its weavers and dyers work in
+- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms

@@ -36,16 +36,17 @@ Lin'Legharu elu Galezkara, the Society of Botanical Scholars, gathers those in [
 
 ## Character
 
-TBD.
+The society is scholarly and defensive. Its members compare findings on cultivation, preparation and effect at regular meetings, and they spend as much effort defending the study as a discipline as they spend on it. Standing within the society follows which side of the discipline-or-trade argument a member is seen to serve.
 
 ## Relations
 
-TBD.
+- Physicians' apprentices and independent researchers—Make up the society's membership.
 
 ## Commerce and Currency
 
-TBD.
+The society defends the study of plants as a discipline against the charge that it is merely trade.
 
 ## See Also
 
-TBD.
+- [[place-galezkara|Galezkara]]—Where the society meets
+- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms

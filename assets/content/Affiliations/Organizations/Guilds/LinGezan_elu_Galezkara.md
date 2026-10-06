@@ -36,16 +36,18 @@ Lin'Gezan elu Galezkara is the chartered guild of debt collectors operating in [
 
 ## Character
 
-TBD.
+The guild is relentless and unloved. It holds the exclusive right to enforce what a creditor's ledger says is owed, and it acts only on debts the courts have confirmed. Its usefulness to creditors and its unpopularity with debtors rise together.
 
 ## Relations
 
-TBD.
+- The courts—Confirm the debts the guild's collectors then pursue.
+- Creditors—Rely on the guild in place of enforcement of their own.
 
 ## Commerce and Currency
 
-TBD.
+Its members collect what a creditor's ledger says is owed once the courts have confirmed it, and no one else holds that right in [[place-galezkara|Galezkara]].
 
 ## See Also
 
-TBD.
+- [[place-galezkara|Galezkara]]—The city the guild serves
+- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms

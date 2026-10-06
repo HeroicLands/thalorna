@@ -36,16 +36,17 @@ Lin'Lagun elu Aû'Khelâthu is the chartered guild of the timber trade across [[
 
 ## Character
 
-TBD.
+The guild is chartered and quarrelsome. It unites loggers, haulers and timber-merchants, and its members are at odds over what the standard for first-quality timber means in practice. The dispute is part of how the guild works rather than a lapse in it.
 
 ## Relations
 
-TBD.
+- Buyers of timber—Meet a grading procedure the guild's own members contest.
 
 ## Commerce and Currency
 
-TBD.
+The guild sets the standard a shipment must meet to be sold as first quality, and the contest over that standard reaches every sale made under it.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu]]—The empire whose construction the trade supplies
+- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms

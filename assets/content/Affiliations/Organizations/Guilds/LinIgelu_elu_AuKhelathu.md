@@ -36,16 +36,18 @@ Lin'Igelu elu Aû'Khelâthu is the chartered guild of the rivermen and sea-capta
 
 ## Character
 
-TBD.
+The guild is professional and protective of its members. It admits any master who meets its standard of seamanship, insists on the safety a cargo must meet, and speaks for its captains against the merchant houses that hire them.
 
 ## Relations
 
-TBD.
+- The merchant houses—Hire the guild's members, and are the party the guild argues against in a dispute.
+- Cargo-owners—Look to the guild's charter for recourse when goods are lost.
 
 ## Commerce and Currency
 
-TBD.
+The guild sets the safety requirements cargo must meet before a vessel carries it, and its charter is what a cargo-owner relies on when goods are lost.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu]]—The empire whose rivers and seas its members work
+- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms
