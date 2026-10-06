@@ -3,7 +3,7 @@ shortcode: zuqeztunome
 name: {full: Zu-Qeztu, aliases: []}
 type: place
 subType: region
-description: "The western steppe-edge; horse-pasture and the watch against nomad raiders—the land of the Selat of Zu-Qeztu, one of the border selatu of Aû'Khelâthu."
+description: "The western grazing margin; horse-pasture and the watch against raiders—the land of the Selat of Zu-Qeztu, one of the border selatu of Aû'Khelâthu."
 tags: [region]
 data:
   banner: khelathubnr
@@ -17,26 +17,16 @@ data:
 
 ## Overview
 
-Zu-Qeztu is the land of the [[affiliation-selatzuqeztu|Selat of Zu-Qeztu]], one of the [[affiliation-borderselatu|Border Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+**Zu-Qeztu** is the western grazing country at the edge of the empire's fields, and the land of the [[affiliation-selatzuqeztu|Selat of Zu-Qeztu]], one of the [[affiliation-borderselatu|Border Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 
-The western steppe-edge; horse-pasture and the watch against nomad raiders. Beyond the capital the selat is the ordinary Khelâthi landscape of villages, estates and temple lands, worked by farmers who owe a share of the harvest and labor on the canals, and lettered by the scribes who are the one reliable ladder out of the fields.
-
-## Economy
-
-Like every Khelâthi selat it runs on the flood, the harvest and the render—grain to the granaries, labor to the canals and the flood-season works, and a share of everything to the temples and the crown. What it contributes to the empire beyond that is what its character names: the western steppe-edge; horse-pasture and the watch against nomad raiders.
-
-## Notable Features
-
-- [[place-zileti|Zileti]]—the selat capital and the Halzi'a's seat
-- The chief temple of [[affiliation-uqaa|Faith of Uqa'â]] and its estates
-- The western steppe-edge; horse-pasture and the watch against nomad raiders
+West of the last canal the farmland gives way to dry pasture, and Zu-Qeztu is the selat that lives on that line. The country is chaparral and grass, where horses, cattle and sheep graze the margin; the villages, estates and temple lands sit where the water reaches, and their farmers owe a share of the harvest and labor on the canals. Past the pastures live the herding clans, who come to trade and sometimes to raid, and the patrols ride the line between the two.
 
 ## Settlements
 
-- [[place-zileti|Zileti]] (~12,000)—the selat capital and the seat of the Halzi'a.
-- **The villages and estate-towns:** the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
+- [[place-zileti|Zileti]] (~12,000)—the selat capital and the seat of the Halzi'a, with the chief temple of [[lore-uqaadty|Uqa'â]].
+- The villages and estate-towns: a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 

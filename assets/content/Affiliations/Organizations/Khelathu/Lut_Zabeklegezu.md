@@ -36,7 +36,7 @@ data:
 
 ## Overview
 
-Lut-Zâbeklegezu is a noble household of long standing in [[place-aukhelathrgq|Aû'Khelâthu]], run by a master who has kept the same servants for decades rather than replacing them as fashion or convenience suggested. That continuity means the household's business runs on trust built over years rather than on any written procedure, which is exactly why a missing seal-ring here is a matter of real consequence. A servant suspected of losing or misusing the master's seal faces a reckoning sharper than the object's value alone would explain, because what is actually at stake is the trust the whole household depends on.
+In **Lut-Zâbeklegezu**, a noble household of long standing in [[place-aukhelathrgq|Aû'Khelâthu]], the most closely guarded object is the master's seal-ring, and a missing one is a matter of real consequence. The master has kept the same servants for decades rather than replacing them as fashion or convenience suggested, so the household's business runs on trust built over years and not on written procedure. A servant suspected of losing or misusing the seal faces a reckoning sharper than the object's value explains, because what is at stake is the trust the whole household depends on.
 
 ## Character
 

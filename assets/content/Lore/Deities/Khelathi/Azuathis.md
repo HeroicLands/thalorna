@@ -11,28 +11,14 @@ data: {packFolder: regkhdeit}
 
 _The Devouring Shadow—a coiled serpent encircling a shattered star._
 
-Azu'âthis is that which opposes the divine order: the primordial chaos that existed before creation
-and that strives eternally to reclaim the cosmos. He is **not worshipped or loved but feared,
-propitiated and warded against**—a presence so antithetical to civilization that his name is
-avoided in polite speech. He is shown as an enormous serpent of impossible length, scales darker
-than the deepest night, eyes lit with malevolent intelligence.
+"We do not say it at the table," a Lem'Nelgir of [[lore-uqaadty|Uqa'â]] tells a child, and the answer is the whole god. **Azu'âthis** is that which opposes the divine order: the primordial chaos that existed before creation and strives eternally to reclaim the cosmos. Nobody worships or loves him. The [[lore-khelathiclt|Khelâthi]] _fear, propitiate and ward against him_, and his name is avoided in polite speech because a presence so hostile to civilization is better not summoned by accident. The temples show him as an enormous serpent of impossible length, scales darker than the deepest night, eyes lit with malevolent intelligence.
 
-His place in the cosmology is a single unending act. Each night, as [[lore-uqaadty|Uqa'â]] travels
-through the underworld, the serpent meets him and attempts to swallow the sun whole and plunge the
-cosmos into permanent darkness. Each night he is thrown down and driven back into the abyss. But
-Azu'âthis is eternal and **cannot be destroyed, only conquered**, so the battle is fought again the
-next night, and every night, forever. Sunrise is not a fact of nature in Aû'Khelâthu. It is a
-victory.
+His place in the cosmology is a single unending act. Each night, as [[lore-uqaadty|Uqa'â]] travels through the underworld, the serpent meets him and tries to swallow the sun whole and plunge the cosmos into permanent darkness. Each night he is thrown down and driven back into the abyss. Azu'âthis is eternal and _can be conquered but never destroyed_, so the battle is fought again the next night and every night. Sunrise in [[affiliation-empireakhlth|Aû'Khelâthu]] is not a fact of nature. It is a victory.
 
-He therefore has no priesthood, and could not have one; what worship exists takes the form of
-propitiation, and the formal knowledge of him is kept in the higher echelons of Uqa'â's and
-[[lore-rethsaardty|Reth'Sa'âr]]'s temples so that the priesthood can counsel the throne and prepare the
-realm for catastrophe.
+For that reason he has no priesthood and could have none. What worship exists is propitiation, and the formal knowledge of him sits in the higher ranks of Uqa'â's and [[lore-rethsaardty|Reth'Sa'âr]]'s temples, where the priests use it to counsel the throne and to prepare the realm for catastrophe.
 
-The frontier reading is gentler and not held to be wrong so much as differently framed: the herders
-of the western uplands and the hill-dwellers of the east understand him as an aspect of storm,
-earthquake and drought, and work protections accordingly.
+The frontier reads him more gently, and the temples hold that reading differently framed rather than wrong. The herders of the western grazing country and the hill-dwellers of the east take him for an aspect of storm, earthquake and drought, and work protections accordingly.
 
 :::secret
-**For the GM:** Whether the sect that would wake the False Uqa'â takes Azu'âthis to be behind its work, or regards the sorcerer-king as merely the most useful ruin available, is not settled.
+For the GM: The sect that would wake the [[being-falseuqaa|False Uqa'â]] may take Azu'âthis to be behind its work, or may regard the sorcerer-king as merely the most useful ruin available. Which of the two it believes is the GM's to decide, and the choice changes what the sect will sacrifice and what it fears.
 :::

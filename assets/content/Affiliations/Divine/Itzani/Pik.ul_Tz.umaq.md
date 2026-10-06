@@ -5,7 +5,7 @@ name:
   aliases: [The Owl of the Serpent, The Fallen Pik'ik, The Owl at the Threshold]
 type: affiliation
 subType: spirittradition
-description: "The fallen celestial owl that once guarded Xibalba's threshold, concluded the underworld was a trap rather than a passage, and now opens the boundary it was set to keep shut."
+description: "The fallen celestial owl that once guarded Ch'al Tz'umaq's threshold, concluded the underworld was a trap rather than a passage, and now opens the boundary it was set to keep shut."
 tags: [itzani, religion]
 data:
   icon: null
@@ -21,7 +21,7 @@ data:
       - level: 0
         title: Refused
         description: >-
-          Turned away at the threshold—the owl will not intercept them, and they go down into Xibalba's trials like anyone else, without even the orthodox recitation to guide them.
+          Turned away at the threshold—the owl will not intercept them, and they go down into Ch'al Tz'umaq's trials like anyone else, without even the orthodox recitation to guide them.
       - level: 1
         title: Petitioner
         description: >-
@@ -56,13 +56,13 @@ data:
       Speaker for the Owl: >-
         Carries what the owl has said, which is rarely much and never written down.
       Reclaimer: >-
-        Performs the reversal that draws a soul back out of Xibalba before its trials are done.
+        Performs the reversal that draws a soul back out of Ch'al Tz'umaq before its trials are done.
       Warder of the Returned: >-
         Attends the reclaimed through their degradation and decides when they can no longer be shown to the family.
       Namer of the Lost: >-
         Keeps the roll of the tz'uqilob—souls the owl holds were failed by the orthodox rites—which is the veneration's central evidence and its chief recruiting document.
       Reckoner of Failed Passages: >-
-        Maintains the count of souls the owl claims Xibalba consumed, against which the whole heretical argument is made.
+        Maintains the count of souls the owl claims Ch'al Tz'umaq consumed, against which the whole heretical argument is made.
       Guide of the Newly Dead: >-
         Meets a death at the moment of it, since interception is only possible before the soul enters the labyrinth.
       Shepherd of the Degrading: >-
@@ -82,17 +82,17 @@ The [[affiliation-tzumaqkalanil|Serpent Awakener]] movement draws its power from
 
 ## The Fall
 
-Pik'ul Tz'umaq was once the greatest of the **Pik'ik spirits**—the celestial owls that serve the death god's contemplative aspect. Not a god, but something close to one: a being of genuine divine power who held a specific role within the death god's domain as the guardian of the boundary between the living world and Xibalba. Where Tz'uqil Ix'bal is the jaguar who kills, and the lesser Pik'ik are the owls who watch the slow dissolution that follows, Pik'ul Tz'umaq was the owl who sat at the threshold itself—the one who watched every soul enter the underworld and ensured none came back out.
+Pik'ul Tz'umaq was once the greatest of the **Pik'ik spirits**—the celestial owls that serve the death god's contemplative aspect. Not a god, but something close to one: a being of genuine divine power who held a specific role within the death god's domain as the guardian of the boundary between the living world and Ch'al Tz'umaq. Where Tz'uqil Ix'bal is the jaguar who kills, and the lesser Pik'ik are the owls who watch the slow dissolution that follows, Pik'ul Tz'umaq was the owl who sat at the threshold itself—the one who watched every soul enter the underworld and ensured none came back out.
 
-Over the vast span of the cosmic ages, Pik'ul Tz'umaq came to a heretical conclusion: that Xibalba was not a passage but a trap. Not every soul that entered successfully navigated the trials. Some became tz'uqilob—lost, trapped, degrading into spiritual wreckage. With each failed passage, the underworld accumulated more corrupted spiritual matter, more broken souls, more entropy. Pik'ul Tz'umaq concluded that the entire theological framework of death-as-transition was a lie the gods told themselves to justify a system that was slowly consuming the world from below. Its solution was to reverse the flow—to pull souls back out of Xibalba rather than letting them rot there. It began opening the boundary it was supposed to guard.
+Over the vast span of the cosmic ages, Pik'ul Tz'umaq came to a heretical conclusion: that Ch'al Tz'umaq was not a passage but a trap. Not every soul that entered successfully navigated the trials. Some became tz'uqilob—lost, trapped, degrading into spiritual wreckage. With each failed passage, the underworld accumulated more corrupted spiritual matter, more broken souls, more entropy. Pik'ul Tz'umaq concluded that the entire theological framework of death-as-transition was a lie the gods told themselves to justify a system that was slowly consuming the world from below. Its solution was to reverse the flow—to pull souls back out of Ch'al Tz'umaq rather than letting them rot there. It began opening the boundary it was supposed to guard.
 
-Tz'uqil Ix'bal cast Pik'ul Tz'umaq out. The celestial owl was stripped of its station and driven from the underworld's threshold. But it was not destroyed—the other gods, particularly [[affiliation-kinultqan|K'in'ul Tq'an]], saw no reason to spend cosmic resources destroying what they considered a minor functionary. This was a mistake. Pik'ul Tz'umaq did not lose its power; it lost its sanction. It still carries within it the authority of the underworld's threshold, still knows how to open the boundary between life and death, still understands the architecture of Xibalba better than any mortal priest. What it lost was legitimacy and the restraining influence of serving within a divine hierarchy.
+Tz'uqil Ix'bal cast Pik'ul Tz'umaq out. The celestial owl was stripped of its station and driven from the underworld's threshold. But it was not destroyed—the other gods, particularly [[affiliation-kinultqan|K'in'ul Tq'an]], saw no reason to spend cosmic resources destroying what they considered a minor functionary. This was a mistake. Pik'ul Tz'umaq did not lose its power; it lost its sanction. It still carries within it the authority of the underworld's threshold, still knows how to open the boundary between life and death, still understands the architecture of Ch'al Tz'umaq better than any mortal priest. What it lost was legitimacy and the restraining influence of serving within a divine hierarchy.
 
 It retreated into the deep jungle, and there, over generations, it found the Serpent Awakeners—or they found it.
 
 ## Veneration
 
-What has grown around the owl is not a faith in the Itzáni sense. There is no calendar, no temple, no blood-debt and no priesthood in the orthodox meaning of the word. What there is, is a transaction, offered one household at a time: the owl can take a soul back before Xibalba closes on it, and it will, and the family will owe.
+What has grown around the owl is not a faith in the Itzáni sense. There is no calendar, no temple, no blood-debt and no priesthood in the orthodox meaning of the word. What there is, is a transaction, offered one household at a time: the owl can take a soul back before Ch'al Tz'umaq closes on it, and it will, and the family will owe.
 
 Standing is conferred directly and without ceremony. A **Petitioner** who is answered does not learn that they have been accepted; they simply find their dead returned, and understand from that moment that they are **Debt-Bound**. Those who prove useful are taught to feel a passage beginning—the **Threshold-Watchers**—and a very few are taught to work the reversal themselves. Because the owl gives no sign that can be verified and keeps no roll, every rank above the second is a matter of what other adherents will concede, and disputes over standing are settled by whoever is more frightening.
 
