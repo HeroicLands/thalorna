@@ -1,6 +1,6 @@
 ---
 shortcode: amqltzlmlglq
-name: {full: Amqelet-Zelemu Legulu’aqun, given: Amqelet-Zelemu, clan: Legulu’aqun, aliases: []}
+name: {full: Amqelet-Zelemu Legulu’aqun, given: Amqelet-Zelemu, clan: Legulu’aqun, aliases: [Amqê]}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, mages]
@@ -18,8 +18,8 @@ data:
   gender: male
   species: humanflk
   born: 677.195
-  height: 1.75
-  weight: 72.6
+  height: 5' 9"
+  weight: 160 lbs
   frame: medium
   appearance:
     eye_color: brown

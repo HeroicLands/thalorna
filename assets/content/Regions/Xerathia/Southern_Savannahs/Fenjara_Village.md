@@ -25,10 +25,6 @@ Because the tribe hunts and tracks rather than herds, the village empties and re
 season, and a stranger arriving in the dry months may find fewer than a third of its people at
 home.
 
-## Notable Features
-
-_To be written._
-
 ## Notable Figures
 
 - [[being-gahijwfnjr|Gahiji wa Fénjara]]—the Spirit Tracker.

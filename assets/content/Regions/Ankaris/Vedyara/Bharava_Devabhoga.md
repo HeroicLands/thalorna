@@ -18,11 +18,11 @@ data:
       - level: 0
         title: Outcaste
         description: >-
-          Placed outside the tharana by transgression or by birth, and barred from the estate's temple, its stores and its licences.
+          Placed outside the tharana by transgression or by birth, and barred from the estate's temple, its stores and its licenses.
       - level: 1
         title: Bonded Servant
         description: >-
-          Bound by debt or birth to an estate's household, owing labour at the felling and the hauling and holding nothing of the season's take.
+          Bound by debt or birth to an estate's household, owing labor at the felling and the hauling and holding nothing of the season's take.
       - level: 2
         title: Karmāja
         description: >-
@@ -42,7 +42,7 @@ data:
       - level: 6
         title: Kshetrapāla
         description: >-
-          The ordained holder of one estate—its forest, its licences, its season and its tribute to the temple that endowed it.
+          The ordained holder of one estate—its forest, its licenses, its season and its tribute to the temple that endowed it.
       - level: 7
         title: Devapati
         description: >-
@@ -51,12 +51,12 @@ data:
       Devapati: >-
         Senior priest of a mother-temple on the river, holding the endowment itself and confirming the keeper of every estate cut out of it.
       Kshetrapāla: >-
-        The keeper of one estate, who opens and closes its season, issues its gathering licences and renders its tribute.
+        The keeper of one estate, who opens and closes its season, issues its gathering licenses and renders its tribute.
       Vanapāla: >-
-        The warden who walks an estate's bounds, marks the trees that may be felled and turns back anyone gathering without a licence.
+        The warden who walks an estate's bounds, marks the trees that may be felled and turns back anyone gathering without a license.
       Koshapāla: >-
         Keeper of an estate's stores and its takings, and the man a buyer deals with when the keeper is at the temple.
-      Smritibhāra: >-
+      Smrtibhāra: >-
         The Memory-Keeper, who holds the bounds of the estates and the terms of each endowment and recites them when two keepers disagree, there being no sabhā to ask.
       Ganaka: >-
         The reckoner, who fixes the felling season, the tapping rounds and the day the rafts go down on the flood.
@@ -77,28 +77,30 @@ data:
   packFolder: vedyara
 sohl: {system: {commonSkills: [vedyarlng]}}
 
-# terran_analog: "Temple-estate tenure of the medieval Indian forest belt—devadana holdings under ordained managers, worked by forest-dwelling communities under licence and yielding resin, lac, hardwood and spice instead of land revenue"
+# terran_analog: "Temple-estate tenure of the medieval Indian forest belt—devadana holdings under ordained managers, worked by forest-dwelling communities under license and yielding resin, lac, hardwood and spice instead of land revenue"
 ---
 
 The **Bhārava-Devabhoga** is the government of [[place-bharavavana|Bhāravavana]], the forest country of the lower [[place-bharavarivr|Bhārava]]. _Devabhoga_ is the god's portion: land given to a temple in perpetuity, out of which the temple is fed. Here the land given was forest, the gift was made many times over across fifteen centuries, and what accumulated is the only country in [[place-vedyarargn|Vedyara]] where no assembly sits and no sabhā meets.
 
 It is counted among the polities of Vedyara because it governs. It fits none of the three forms, and every Vedyari treatise that reaches it says so and moves on.
 
+The person a traveler meets first is a **Vanapāla**, the warden who walks an estate's bounds, and the meeting usually happens when the traveler has picked something up. "Put it down. Nothing in this forest leaves it without a license, and the license is the keeper's to give, not mine and not yours. Walk the pilgrim road and you are the god's guest, fed by the hostels. Step off it to gather and you need the keeper's leave, and I am the one who asks to see it."
+
 ## How It Is Held
 
-An estate is a bounded piece of forest endowed to a named temple. The temple does not work it. It appoints a **Kshetrapāla**, an ordained keeper, who holds the estate for his term, opens and closes its felling and tapping seasons, issues the licences under which anyone may gather in it, takes the tribute and renders it to the temple that endowed him.
+An estate is a bounded piece of forest endowed to a named temple. The temple does not work it. It appoints a **Kshetrapāla**, an ordained keeper, who holds the estate for his term, opens and closes its felling and tapping seasons, issues the licenses under which anyone may gather in it, takes the tribute and renders it to the temple that endowed him.
 
-Above the keeper there is the **Devapati** of his mother-temple and nothing else. There is no roll, no convening priest and no assembly of keepers. Two keepers who disagree about a boundary send for the **Smritibhāra** and accept what he recites, because the alternative is a suit before a court neither of their temples recognizes.
+Above the keeper there is the **Devapati** of his mother-temple and nothing else. There is no roll, no convening priest and no assembly of keepers. Two keepers who disagree about a boundary send for the **Smrtibhāra** and accept what he recites, because the alternative is a suit before a court neither of their temples recognizes.
 
 The mother-temples consult each other, and they do it about price. When lac moves on the coast the keepers hear the same instruction within a month along three hundred miles of river, which is faster than any janapada federation has ever agreed anything, and it is the only question on which they act as one body.
 
-## The Licence
+## The License
 
-Nothing in the forest may be taken without a licence, and the licences are the whole instrument of government. A season's gathering in a marked tract; a right to tap a stand of resin trees; a permission to fell named hardwoods and float them out. Each is issued by a keeper, each is for one season, and each lapses.
+Nothing in the forest may be taken without a license, and the licenses are the whole instrument of government. A season's gathering in a marked tract; a right to tap a stand of resin trees; a permission to fell named hardwoods and float them out. Each is issued by a keeper, each is for one season, and each lapses.
 
-The people who hold them are the gathering peoples of the interior, who are not the estates' subjects in any sense a lowland court would recognize and are not free of the estates either. They take the licence, they turn the season's gathering in at the margin, they are paid, and they go back in. No estate has ever tried to settle them and no keeper has ever been asked to count them.
+The people who hold them are the gathering peoples of the interior, who are not the estates' subjects in any sense a lowland court would recognize and are not free of the estates either. They take the license, they turn the season's gathering in at the margin, they are paid, and they go back in. No estate has ever tried to settle them and no keeper has ever been asked to count them.
 
-The arrangement is stable and nobody defends it in writing. A keeper asked to justify it says the forest is the god's and the licence is the god's leave, which answers the question that was not asked.
+The arrangement is stable and nobody defends it in writing. A keeper asked to justify it says the forest is the god's and the license is the god's leave, which answers the question that was not asked.
 
 ## What It Pays For
 
@@ -108,7 +110,7 @@ What is left goes down the river as timber on the flood and out through the coas
 
 ## The Standing Quarrel
 
-The orthodox temples of the plains hold that a country without a sabhā is a country without law, and that an arrangement which leaves a whole people unmarked, uncounted and outside the tharana is not a lapse but a policy. They are right about the policy.
+The orthodox temples of the plains hold that a country without a sabhā is a country without law, and that an arrangement which leaves a whole people unmarked, uncounted and outside the tharana is not a lapse but a policy.
 
 The Devabhoga's reply is that the forest was given to the gods before the [[affiliation-janpdsvdyr|Mahā-Sangha]] kept a roll at all, that an endowment cannot be revoked by a body the endowment predates, and that the plains are welcome to send a sabhā into the forest and see how far it gets. Nobody has sent one.
 
@@ -118,6 +120,7 @@ The Bhārava-Devabhoga uses the [[lore-vdyrnbnkng|Vedyaran banking system]], adm
 
 ## See Also
 
+- [[lore-hghlndfndn|The Highland Foundations]]—the first forest gift, dated
 - [[place-bharavavana|Bhāravavana]]—the forest the estates hold
 - [[place-bharavarivr|The Bhārava]]—the river, the timber road and the pilgrim road
 - [[affiliation-suvrgrjnpd|Suvarnagiri Janapada]]—the gold highlands above, and the hostels' other endowment

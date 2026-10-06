@@ -50,7 +50,7 @@ This makes the Tānvüri unusually concrete about morality. A man does not ask w
 
 A name in Tānvür is a privilege attached to classification and not a possession. The eighth caste may not hold one in the ordinary way, and a person whose caste is stripped loses the name with it.
 
-The practical effect is that a Tānvüri's name is a piece of public documentation: it states his caste, his lineage and often his generation, and any literate official can read it at a glance. Foreigners who ask a Tānvüri his name and receive a long formal answer have not been given a courtesy. They have been handed a record.
+The practical effect is that a Tānvüri's name is a piece of public documentation: it states his caste, his lineage and often his generation. Foreigners who ask a Tānvüri his name and receive a long formal answer have not been given a courtesy. They have been handed a record.
 
 ## Manner
 

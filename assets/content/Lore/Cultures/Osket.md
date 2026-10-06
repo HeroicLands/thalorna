@@ -9,15 +9,15 @@ tags: []
 # terran_analog: "The Himalaya, Karakoram, Pamir and Tian Shan wall (the Grazian Mountains analogue): hereditary holders of mountain crossings. Carries over: yak and horse herding, tolls on caravans at the cols, the hearth as the only unit of authority. Departs: a crossing is held by descent and standing comes from the road, selling a road is the one capital offense, and a personal name is one word taken from weather, ground, beast or condition."
 ---
 
-The Ösket hold the western and central crossings of [[place-graznmntns|the Grazian wall]] by descent, and the rest of what they are follows from that. A hearth is a house, a herd, a high pasture and one road. The road is what gives it standing. Nothing above the hearth binds it and no body exists that could, and the word the Ösket use for themselves means, as near as anyone has got, "the people of the way."
+The [[affiliation-osketguides|Ösket]] hold the western and central crossings of [[place-graznmntns|the Grazian wall]] by descent, and the rest of what they are follows from that. A hearth is a house, a herd, a high pasture and one road. The road is what gives it standing. Nothing above the hearth binds it, and no body exists that could.
 
 ## The Road Is the Property
 
-Herds are wealth and a crossing is standing, and the two are not traded for one another. A hearth that holds [[place-suryadvara|Sūryadvāra]] takes roughly half the value of everything that goes over it, paid at the far end, and lends at interest to caravan-masters who have miscalculated. A hearth at [[place-tsokhar|Tsökhar]] takes two caravans in a good season and lives off its yaks and its horses. Both are heard at the cols on the same terms, because both hold a road.
+Herds are wealth and a crossing is standing, and the two are not traded for one another. A hearth that holds [[place-suryadvara|Sūryadvāra]] is rich and lends at interest to caravan-masters who have misjudged the season. A hearth at [[place-tsokhar|Tsökhar]] takes two caravans in a good season and lives off its yaks and its horses. Both are heard at the cols on the same terms, because both hold a road.
 
 A hearth with beasts and no road is fed and is not consulted. The Ösket state this without apology and see nothing in it to explain.
 
-Selling a road is the one capital offense. The man who does it is Roadless: out of every hearth, fed by none of them, and taken over the wall by nobody. A people who feed any stranger who reaches a door have made exactly that one exception. The two occasions on which a hearth sold [[place-gudesroad|the Guides' Road]] are remembered by the Ösket in detail and by everyone else as rumor.
+Selling a road is the one capital offense. The man who does it is **Roadless**: out of every hearth, fed by none of them, and taken over the wall by nobody. A people who feed any stranger who reaches a door have made exactly that one exception. What the Ösket say about the two sales of [[place-gudesroad|the Guides' Road]] they say among themselves, and everyone else has the rumor.
 
 ## The Guide-mother
 
@@ -33,7 +33,7 @@ It is the one Ösket custom lowlanders find entirely legible, and the one they m
 
 ## Outside the Order
 
-Above the last [[place-pssshrines|Pass-Shrine]] the [[lore-vedyariclt|Vedyari]] order of stations does not reach. The Ösket are not outcaste, which is a position within that order; they are not addressed by it at all, cannot be placed in it, and have never asked to be. A shrine-ushtaka, priest of the summit temple, will eat in an Ösket house on the col and would not do so in the valley. Vedyari jurists have written around the position for eight centuries, and no court has once been asked to settle it.
+The [[lore-vedyariclt|Vedyari]] order of stations stops at the last [[place-pssshrines|Pass-Shrine]]. A shrine-ushtaka, priest of the summit temple, will eat in an Ösket house on the col and would not do so in the valley, and no court has once been asked to settle what that means.
 
 The Ösket carry no wrist-line and read nobody else's. A traveler's station is not asked for on the wall, and a wrapped wrist means nothing there at all.
 

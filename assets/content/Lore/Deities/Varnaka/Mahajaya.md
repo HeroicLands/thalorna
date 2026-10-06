@@ -1,6 +1,6 @@
 ---
 shortcode: mahajayadty
-name: {full: Mahájaya, aliases: []}
+name: {full: Mahājaya, aliases: []}
 type: lore
 subType: deity
 description: "The Eternal Preserver of the Varnaka pantheon, holding order and the grain a settled order rests on."
@@ -10,9 +10,9 @@ data: {packFolder: deitiesvarnaka}
 
 _The Eternal Preserver—a serene matriarch crowned with wheat, holding a balanced scale._
 
-Mahájaya is preservation, harmony and abundance. A sown field ripens under her, a market keeps its word, and the year turns in its ordered round.
+Mahājaya is preservation, harmony and abundance. A sown field ripens under her, a market keeps its word, and the year turns in its ordered round.
 
-[[affiliation-vyalendra|Vyālendra]] gives the world its shape and [[affiliation-rasikara|Rásikara]] breaks what has gone rigid. Mahájaya holds the shape intact between the two. The [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]] reads all three as one cosmic work seen from three sides, and builds a temple of three chambers in which she stands level with her brothers.
+[[affiliation-vyalendra|Vyālendra]] gives the world its shape and [[affiliation-rasikara|Rāsikara]] breaks what has gone rigid. Mahājaya holds the shape intact between the two. The [[affiliation-trimurtisampradaya|Triyanga-sampradāya]] reads all three as one cosmic work seen from three sides, and builds a temple of three chambers in which she stands level with her brothers.
 
 Her scale weighs measure and not judgment. It stands for the honest weighing that keeps an exchange fair and a portion whole.
 

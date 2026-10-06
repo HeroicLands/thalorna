@@ -60,6 +60,11 @@ jobs:
         steps:
             - name: Checkout code
               uses: actions/checkout@v7
+              with:
+                  # The utility tests read pinned revisions with `git show`
+                  # (the concordance test cites a file at a fixed commit), so
+                  # the job needs the history a shallow checkout leaves out.
+                  fetch-depth: 0
 
             - name: Setup Node
               uses: actions/setup-node@v7
@@ -123,6 +128,14 @@ jobs:
             - name: Check label registry
               if: ${{ !cancelled() }}
               run: npm run lint:labels
+
+            # The tree's own guards: the lexicons and their name registers, the
+            # concordance, the deployment headers. They read the content, so
+            # two pull requests that pass alone can fail together; running them
+            # here catches that before merge rather than in the deploy.
+            - name: Run the utility tests
+              if: ${{ !cancelled() }}
+              run: node --test 'utils/**/*.test.mjs'
 
     build:
         name: Content pack compile

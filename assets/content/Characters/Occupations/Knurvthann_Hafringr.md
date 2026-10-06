@@ -17,8 +17,8 @@ data:
   gender: male
   species: humanflk
   born: 679.246
-  height: 1.83
-  weight: 81
+  height: 6'
+  weight: 179 lbs
   frame: heavy
   appearance:
     eye_color: blue
@@ -394,7 +394,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Knurvthann Hafringr is a 45-year-old man who stands 6'0" tall and is broad and solidly built. He has a broad face with broad cheekbones, a broad forehead, and a broad jaw that leads to a cleft chin. His large blue eyes sit beneath prominent brows, lending him an expressive gaze. A strong nose and full lips complete his features. He has fair skin with a ruddy complexion. His auburn hair is pulled back in a warrior's knot.
+Knurvthann Hafringr is a 40-year-old man who stands 6'0" tall and is broad and solidly built. He has a broad face with broad cheekbones, a broad forehead, and a broad jaw that leads to a cleft chin. His large blue eyes sit beneath prominent brows, lending him an expressive gaze. A strong nose and full lips complete his features. He has fair skin with a ruddy complexion. His auburn hair is pulled back in a warrior's knot.
 
 # Dossier {#dossier}
 
@@ -402,7 +402,7 @@ Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn 
 
 Knurvthann is a veteran longshoreman with over twenty years of experience on the docks. He has seen the industry evolve and is known for his knowledge of shipping practices and safety protocols. Knurvthann takes pride in mentoring younger workers and is often called upon to resolve disputes or oversee complex loading operations. He values hard work and camaraderie, making him a respected figure among his peers.
 
-Now at 45 years of age, Knurvthann Hafringr has established himself as a known figure among the longshoremans of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 40 years of age, Knurvthann Hafringr has established himself as a known figure among the longshoremans of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
 
 ## Psyche
 

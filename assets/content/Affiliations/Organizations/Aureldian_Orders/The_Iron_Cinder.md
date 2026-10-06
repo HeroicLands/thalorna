@@ -95,7 +95,7 @@ The order has, by its own discipline, neither confirmed nor denied involvement i
 
 ## Identifying Marks
 
-A Cinder Hand bears the Ashen Vow brand at his right forearm (the marker of his Ashen Vow induction, which preceded his Cinder selection) and a second, smaller mark at the inside of the left wrist: a single iron-black dot, given at Cinder induction. The second mark is the Cinder's own; its presence alongside the Ashen Vow brand is the certain identifier to anyone who knows what to look for.
+A Cinder Hand bears the Ashen Vow brand at his right forearm (the marker of his Ashen Vow induction, which preceded his Cinder selection) and a second, smaller mark at the inside of the left wrist: a single iron-black dot, given at Cinder induction. The second mark is the Cinder's own; its presence alongside the Ashen Vow brand is the certain identifier.
 
 Outside operations, Cinders wear nothing identifiable and maintain ordinary public identities. Operatives have been known to maintain such identities for decades.
 

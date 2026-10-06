@@ -1,6 +1,6 @@
 ---
 shortcode: vanikartns
-name: {full: Vànika Ratnisena, given: Vànika, clan: Ratnisena, aliases: []}
+name: {full: Vanika Ratnisena, given: Vanika, clan: Ratnisena, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -17,8 +17,8 @@ data:
   gender: female
   species: humanflk
   born: 679.57
-  height: 1.78
-  weight: 73
+  height: 5' 10"
+  weight: 161 lbs
   frame: medium
   appearance:
     eye_color: amber
@@ -415,9 +415,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[vanikartns|Vànika Ratnisena]]{float=top-left}
+![[vanikartns|Vanika Ratnisena]]{float=top-left}
 
-Vànika stands 5'10" tall with a medium build. She has warm wheat skin, deep black hair, and dark amber eyes. Her features include a heart-shaped face, a broad nose, a small chin, a wide mouth, heavy brows, and full cheeks.
+Vanika stands 5'10" tall with a medium build. She has warm wheat skin, deep black hair, and dark amber eyes. Her features include a heart-shaped face, a broad nose, a small chin, a wide mouth, heavy brows, and full cheeks.
 
 # Dossier {#dossier}
 
@@ -425,27 +425,27 @@ Vànika stands 5'10" tall with a medium build. She has warm wheat skin, deep bla
 
 ### The Kitchen Born
 
-Born in 679 in one of [[place-vedyarargn|Vedyara]]'s prosperous merchant cities, Vànika grew up in a household where food was the primary language of hospitality and cultural expression as well as sustenance. Her family operated a modest but respected inn, and from earliest childhood she was surrounded by cooking fires, the aromas of spices and roasting meats, and the constant flow of travelers for whom her family's meals became the memorable center of their visits. She apprenticed formally under her mother and later under a succession of respected master cooks, learning recipes and, beyond them, the underlying principles of flavor, texture, and cultural nutrition that make food memorable.
+Born in 679 in one of [[place-vedyarargn|Vedyara]]'s prosperous merchant cities, Vanika grew up in a household where food was the primary language of hospitality and cultural expression as well as sustenance. Her family operated a modest but respected inn, and from earliest childhood she was surrounded by cooking fires, the aromas of spices and roasting meats, and the constant flow of travelers for whom her family's meals became the memorable center of their visits. She apprenticed formally under her mother and later under a succession of respected master cooks, learning recipes and, beyond them, the underlying principles of flavor, texture, and cultural nutrition that make food memorable.
 
 ### The Master of the Craft
 
-By her early twenties, Vànika had established a reputation as a superb cook—not a novel one, but a master of fundamentals who could produce extraordinary meals from whatever ingredients were available. She worked in a succession of wealthy households before taking up position as head cook at the Ratnisena House inn operated by her extended family. For nearly two decades, she has maintained the inn's reputation as one of Vedyara's finest establishments, her cooking drawing recognition and loyal patronage from merchants, nobility, and common travelers alike. Her reputation rests not on fashionable novelty but on absolute reliability, on the capacity to transform simple ingredients into meals of real excellence, on the understanding that food is ultimately about sustenance, comfort, and human connection.
+By her early twenties, Vanika had established a reputation as a superb cook—not a novel one, but a master of fundamentals who could produce extraordinary meals from whatever ingredients were available. She worked in a succession of wealthy households before taking up position as head cook at the Ratnisena House inn operated by her extended family. For nearly two decades, she has maintained the inn's reputation as one of Vedyara's finest establishments, her cooking drawing recognition and loyal patronage from merchants, nobility, and common travelers alike. Her reputation rests not on fashionable novelty but on absolute reliability, on the capacity to transform simple ingredients into meals of real excellence, on the understanding that food is ultimately about sustenance, comfort, and human connection.
 
 ### The Aging Masterwork
 
-Now in her early forties, Vànika has begun to feel the cumulative toll of her trade—her joints ache after long hours on her feet, her hands occasionally stiffen in cold weather, and she no longer possesses the stamina for the extended cooking marathons that once felt natural. Yet her work has reached new peaks of mastery; her accumulated knowledge and experience allow her to move with seemingly effortless grace through complex preparations that would daunt younger cooks. She has begun training younger cooks and taking on increasingly consultative roles, though she remains fundamentally committed to hands-on work. She has also begun to question whether her steadfast commitment to "honest cooking" has perhaps limited her recognition or prevented her from achieving greater prominence in more fashionable circles.
+Now in her early forties, Vanika has begun to feel the cumulative toll of her trade—her joints ache after long hours on her feet, her hands occasionally stiffen in cold weather, and she no longer possesses the stamina for the extended cooking marathons that once felt natural. Yet her work has reached new peaks of mastery; her accumulated knowledge and experience allow her to move with seemingly effortless grace through complex preparations that would daunt younger cooks. She has begun training younger cooks and taking on increasingly consultative roles, though she remains fundamentally committed to hands-on work. She has also begun to question whether her steadfast commitment to "honest cooking" has perhaps limited her recognition or prevented her from achieving greater prominence in more fashionable circles.
 
 ## Psyche
 
 ### Personality
 
-Vànika is a woman of unpretentious directness and warmth, confident in her particular domain and straightforward in her judgments. In her kitchen, she is absolute authority—her word is law, her standards non-negotiable, her decisions final. Yet this same authority dissolves somewhat when she moves beyond cooking; she becomes less certain, more deferential to those of higher social status, occasionally defensive about her station. She is prone to blunt speech, saying what she believes with little concern for diplomatic softness, which can seem harsh to those unaccustomed to her manner. Yet those who know her well understand that her directness emerges from care—she speaks truthfully because she respects her audience.
+Vanika is a woman of unpretentious directness and warmth, confident in her particular domain and straightforward in her judgments. In her kitchen, she is absolute authority—her word is law, her standards non-negotiable, her decisions final. Yet this same authority dissolves somewhat when she moves beyond cooking; she becomes less certain, more deferential to those of higher social status, occasionally defensive about her station. She is prone to blunt speech, saying what she believes with little concern for diplomatic softness, which can seem harsh to those unaccustomed to her manner. Yet those who know her well understand that her directness emerges from care—she speaks truthfully because she respects her audience.
 
-Her faith in Rásikara, goddess of fire and transformation, is expressed through her cooking; she sees in the transformation of raw ingredients through heat a sacred process, a manifestation of divine principle. She approaches her work with reverence and ritual care, and she believes that food prepared with intention and mastery carries spiritual dimension beyond mere nutrition. She is practical and unsentimental about most matters, yet capable of surprising gentleness when engaged with the young, the suffering, or the truly lost. She forms few deep personal relationships but those she does form are characterized by uncommon loyalty and protective fierceness. She possesses a dry humor, often deployed to deflect seriousness or to communicate affection to those with whom she shares particular bonds.
+Her faith in Rāsikara, goddess of fire and transformation, is expressed through her cooking; she sees in the transformation of raw ingredients through heat a sacred process, a manifestation of divine principle. She approaches her work with reverence and ritual care, and she believes that food prepared with intention and mastery carries spiritual dimension beyond mere nutrition. She is practical and unsentimental about most matters, yet capable of surprising gentleness when engaged with the young, the suffering, or the truly lost. She forms few deep personal relationships but those she does form are characterized by uncommon loyalty and protective fierceness. She possesses a dry humor, often deployed to deflect seriousness or to communicate affection to those with whom she shares particular bonds.
 
 ### Motivation
 
-Vànika is driven by a fundamental commitment to excellence—the conviction that work, no matter how humble, deserves to be done with mastery and integrity. She wants to feed people well, to contribute to their wellbeing and comfort, and to maintain standards of craft in an increasingly careless world. She is also motivated by a desire to be recognized and valued, to have her skill acknowledged by those who might otherwise dismiss her as a mere inn cook. Increasingly, she is motivated by anxiety about aging and relevance—a fear that her knowledge will become outdated, that younger cooks with fashionable ideas will supplant her, that she will find herself dismissed as quaint or obsolete. She is also motivated by love, though she rarely acknowledges this—a real care for the people she feeds and a commitment to their wellbeing expressed through the medium of nourishment.
+Vanika is driven by a fundamental commitment to excellence—the conviction that work, no matter how humble, deserves to be done with mastery and integrity. She wants to feed people well, to contribute to their wellbeing and comfort, and to maintain standards of craft in an increasingly careless world. She is also motivated by a desire to be recognized and valued, to have her skill acknowledged by those who might otherwise dismiss her as a mere inn cook. Increasingly, she is motivated by anxiety about aging and relevance—a fear that her knowledge will become outdated, that younger cooks with fashionable ideas will supplant her, that she will find herself dismissed as quaint or obsolete. She is also motivated by love, though she rarely acknowledges this—a real care for the people she feeds and a commitment to their wellbeing expressed through the medium of nourishment.
 
 ### Strengths
 
@@ -480,45 +480,45 @@ Vànika is driven by a fundamental commitment to excellence—the conviction tha
 ### Patrons
 
 Merchant Lord Kaliprasad
-: One of Vedyara's most prominent merchants and a devoted admirer of Vànika's cooking; he regularly hosts dinners at his residence and specifically requests that Vànika be hired to prepare meals, paying premium fees for her services.
+: One of Vedyara's most prominent merchants and a devoted admirer of Vanika's cooking; he regularly hosts dinners at his residence and specifically requests that Vanika be hired to prepare meals, paying premium fees for her services.
 
 Priestess Malini
-: High priestess of Rásikara's temple and a fellow devotee of the fire goddess; she has commissioned Vànika to prepare ritual meals and has become something of spiritual companion and advocate.
+: High priestess of Rāsikara's temple and a fellow devotee of the fire goddess; she has commissioned Vanika to prepare ritual meals and has become something of spiritual companion and advocate.
 
 The Ratnisena Family
 : Her extended family, for whom she continues to work as head cook; they have given her unusual autonomy and have supported her work despite its demands.
 
 Master Musicianist Devendra
-: A celebrated musician and composer who frequents the inn and has become one of Vànika's few close personal friends; he appreciates her cooking and advocates for her value and importance.
+: A celebrated musician and composer who frequents the inn and has become one of Vanika's few close personal friends; he appreciates her cooking and advocates for her value and importance.
 
 ### Enemies
 
-Chef [[being-aqendra2|Aqendra]]
-: A celebrated and fashionable chef who specializes in exotic and novel cuisine; she views Vànika as representative of outdated culinary traditions and has publicly dismissed her work as pedestrian and artistically limited.
+Chef [[being-aqendra2|Akendra]]
+: A celebrated and fashionable chef who specializes in exotic and novel cuisine; she views Vanika as representative of outdated culinary traditions and has publicly dismissed her work as pedestrian and artistically limited.
 
 The Culinary Progressives
-: A movement among younger, ambitious cooks toward fashionable novelty and new techniques; they view Vànika's traditional approach as backward and resistant to the evolution of the culinary arts.
+: A movement among younger, ambitious cooks toward fashionable novelty and new techniques; they view Vanika's traditional approach as backward and resistant to the evolution of the culinary arts.
 
 Innkeeper Bhavesh
-: A rival inn proprietor who employs Chef Aqendra and views Vànika's reputation as directly threatening his business; he has attempted to poach her staff and has spread rumors undermining her standing.
+: A rival inn proprietor who employs Chef Akendra and views Vanika's reputation as directly threatening his business; he has attempted to poach her staff and has spread rumors undermining her standing.
 
 ### Affiliations
 
 City Cooks' Guild
 : A senior member whose counsel is sought on matters of traditional practice and culinary standards; she serves informally as voice for traditional approaches within an organization increasingly given to novelty.
 
-The Fellowship of Rásikara
-: A lay devotional group honoring the fire goddess; Vànika participates in ritual observances and has begun to develop deeper theological engagement through this community.
+The Fellowship of Rāsikara
+: A lay devotional group honoring the fire goddess; Vanika participates in ritual observances and has begun to develop deeper theological engagement through this community.
 
 The Ratnisena House Inn
 : Her primary workplace and family enterprise where she maintains full creative authority over all culinary operations.
 
 ## Plot Hooks
 
-1. **The Culinary Competition and the Poisoned Dish**: Vànika is approached by Guild leadership to represent traditional cooking in a prestigious culinary competition—a showcase of the greatest chefs in Vedyara competing before noble judges. The competition promises significant prestige and financial reward for the victor, yet it will require Vànika to showcase her work beside the fashionable cooks she has previously dismissed. As preparation begins, her competitors and rivals intensify, and she begins to discover that someone is subtly sabotaging her preparations—tainting ingredients, damaging her kitchen tools, spreading false rumors about her reliability. The competition becomes a battle of integrity and reputation as much as of culinary skill.
+1. **The Culinary Competition and the Poisoned Dish**: Vanika is approached by Guild leadership to represent traditional cooking in a prestigious culinary competition—a showcase of the greatest chefs in Vedyara competing before noble judges. The competition promises significant prestige and financial reward for the victor, yet it will require Vanika to showcase her work beside the fashionable cooks she has previously dismissed. As preparation begins, her competitors and rivals intensify, and she begins to discover that someone is subtly sabotaging her preparations—tainting ingredients, damaging her kitchen tools, spreading false rumors about her reliability. The competition becomes a battle of integrity and reputation as much as of culinary skill.
 
-2. **The Mysterious Illness and the Culinary Cure**: A plague or mysterious illness begins afflicting the residents of Vedyara—people become chronically debilitated, weak, unable to gain nutrition from normal food. The temple healers and physicians are baffled. In desperation, someone approaches Vànika with a peculiar request: could her mastery of nutrition and food preparation perhaps address the medical crisis in ways that physicians cannot? This unusual commission forces her into an unfamiliar role as healer and inventor, requiring her to develop new approaches, research unusual ingredients, and collaborate with priestesses and physicians. Success would bring her extraordinary recognition and validate her knowledge in new ways, but failure would be publicly humiliating and potentially dangerous if her efforts are blamed for worsening the crisis.
+2. **The Mysterious Illness and the Culinary Cure**: A plague or mysterious illness begins afflicting the residents of Vedyara—people become chronically debilitated, weak, unable to gain nutrition from normal food. The temple healers and physicians are baffled. In desperation, someone approaches Vanika with a peculiar request: could her mastery of nutrition and food preparation perhaps address the medical crisis in ways that physicians cannot? This unusual commission forces her into an unfamiliar role as healer and inventor, requiring her to develop new approaches, research unusual ingredients, and collaborate with priestesses and physicians. Success would bring her extraordinary recognition and validate her knowledge in new ways, but failure would be publicly humiliating and potentially dangerous if her efforts are blamed for worsening the crisis.
 
-3. **The Family Secret and the Ancestral Recipe**: An elderly relative dies and leaves Vànika a collection of handwritten recipes in an archaic dialect—recipes from generations of women in their family who were apparently cooks to nobility or perhaps even royalty in ancient times. The recipes describe dishes of extraordinary complexity and sophistication, suggesting that her family possesses culinary heritage far more distinguished than she realized. Yet some recipes include ingredients she cannot identify, techniques she does not understand, and apparent references to spiritual or magical properties of food. She can pursue mastery of these ancestral recipes (which could dramatically elevate her standing) and risk being changed by this previously unknown family history, or set the recipes aside as impractical nostalgia.
+3. **The Family Secret and the Ancestral Recipe**: An elderly relative dies and leaves Vanika a collection of handwritten recipes in an archaic dialect—recipes from generations of women in their family who were apparently cooks to nobility or perhaps even royalty in ancient times. The recipes describe dishes of extraordinary complexity and sophistication, suggesting that her family possesses culinary heritage far more distinguished than she realized. Yet some recipes include ingredients she cannot identify, techniques she does not understand, and apparent references to spiritual or magical properties of food. She can pursue mastery of these ancestral recipes (which could dramatically elevate her standing) and risk being changed by this previously unknown family history, or set the recipes aside as impractical nostalgia.
 
-4. **The Invitation to Excellence**: Chef Aqendra, her great rival, mysteriously falls ill and, in what appears to be a deathbed reconciliation, requests that Vànika take over her prestigious position at the court of a major regional lord—a position of extraordinary prestige, wealth, and influence. The invitation is both a validation of her skill and a tremendous opportunity, yet it requires leaving her established position, her family's inn, her community, and everything she has built. There are also hints that Aqendra's illness may not be entirely natural, and accepting the position might place Vànika in dangerous political circumstances. The opportunity is everything she has never quite achieved, yet accepting it requires abandoning her roots.
+4. **The Invitation to Excellence**: Chef Akendra, her great rival, mysteriously falls ill and, in what appears to be a deathbed reconciliation, requests that Vanika take over her prestigious position at the court of a major regional lord—a position of extraordinary prestige, wealth, and influence. The invitation is both a validation of her skill and a tremendous opportunity, yet it requires leaving her established position, her family's inn, her community, and everything she has built. There are also hints that Akendra's illness may not be entirely natural, and accepting the position might place Vanika in dangerous political circumstances. The opportunity is everything she has never quite achieved, yet accepting it requires abandoning her roots.

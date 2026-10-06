@@ -75,17 +75,17 @@ The **Hvarn** hold [[place-jnanadvara|Jñānadvāra]] and [[place-sankhadvra|Sha
 
 Where the [[affiliation-osketguides|Ösket]] hold a road by descent, the Hvarn share theirs out. Each winter the hearth-heads sit at [[place-nurvhrn|Nürvhrn]] and assign the coming season's crossings between them, settle what the last season's assignments left owing, and disperse. A hearth that drew the conch-door two years running is owed something; a hearth that lost a party is not given a road until the council says so.
 
-The system exists because the eastern trade cannot support the western arrangement. Two crossings, one of them almost unused, will not keep six lineages in the manner a single Sūryadvāra lineage keeps itself, so the Hvarn pool the work and the debt and argue about it once a year in one room.
+The system exists because the eastern trade cannot support the western arrangement. Two crossings, one of them almost unused, will not keep six lineages in the manner a single [[place-suryadvara|Sūryadvāra]] lineage keeps itself, so the Hvarn pool the work and the debt and argue about it once a year in one room.
 
 ## The Fort
 
-[[place-sanghafort|The Sangha-fort]] on the conch-door col is fed by Hvarn pack-trains. The contract is old, is renewed every third year with the eastern janapadas, and is the single largest piece of Hvarn income. The Fort-carrier who negotiates it is the one member of the people who speaks fluent lowland Vedyari, and the one the garrison's officers know by name.
+[[place-sanghafort|The Sangha-fort]] on the conch-door col is fed by Hvarn pack-trains. The contract is old, is renewed every third year with the eastern janapadas, and is the single largest piece of Hvarn income. The **Fort-carrier** who negotiates it is the one member of the people who speaks fluent lowland Vedyari, and the one the garrison's officers know by name.
 
-It also makes the Hvarn the confederation's eyes on a frontier the confederation has no other way of watching, a fact [[affiliation-vindhyalay|Vindhyālaya]] resents and the Hvarn decline to discuss.
+It also makes the Hvarn the confederation's eyes on a frontier the confederation has no other way of watching, a fact [[affiliation-vindhyalay|Shikharālaya]] resents and the Hvarn decline to discuss.
 
 ## The Dead
 
-The Hvarn go down for their dead. A body in the eastern gorges is recovered wherever recovery is possible at all, brought up, and the place it was found recorded and kept. The Bone-bringer's account is the longest continuous record the people keep and the only one they will show an outsider. It is also the best warning anyone has about where the ground fails.
+The **Bone-bringer** is the Hvarn office with the longest memory. He recovers the dead from the eastern gorges wherever recovery is possible at all, and he keeps where each was found. The account is the longest continuous record the people hold, and the one they will show an outsider.
 
 ## See Also
 

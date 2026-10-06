@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      The Court of the Nine Moons, a body of the imperial court that conducts its business out of the Gar-Aû's hearing and trades influence, information and favor among its members.
     ranks:
       - level: 1
-        title: "Member"
+        title: Of the Nine Moons
         description: >-
-          Participates in the Court of the Nine Moons, exchanging influence, information and favor outside the Gar-Aû's hearing.
+          Seated in the court's hidden body, trading influence and favor out of the Gar-Aû's hearing.
     offices: {}
   seat: null
   domains: []
@@ -31,20 +32,24 @@ data:
 
 ## Overview
 
-Genzet'Yalgu, called the Court of the Nine Moons, is a body of the imperial court whose business is deliberately conducted out of the Gar-Aû's own hearing. Its members trade influence, information and favor among themselves, and its intrigues reach well beyond [[place-galezkara|Galezkara]] into the provinces and the temples alike. A newcomer to the court who mistakes this body for a minor faction learns otherwise only once its reach has already closed around some interest of their own.
+**Genzet'Yalgu**, the **Court of the Nine Moons**, does its business out of the [[lore-garauu|Gar-Aû]]'s hearing on purpose. It is a body of the imperial court whose members trade influence, information and favor among themselves, and its intrigues reach well beyond [[place-galezkara|Galezkara]] into the provinces and the temples alike.
 
 ## Character
 
-TBD.
+"I can tell you what is said about it," an old palace scribe tells a visitor, lowering his voice, "and I cannot tell you what is true. That is how it prefers to be known."
+
+The Court of the Nine Moons is secretive by design. It conducts its business out of the Gar-Aû's hearing and values influence, information and favor above open rank. Whoever sits in it is seated there for reasons that do not appear in the ranks of the court.
 
 ## Relations
 
-TBD.
+The court is a body within the imperial court at [[place-galezkara|Galezkara]]. Its intrigues reach into the provinces and the temples, so an outcome in a governor's seat or a high priest's renewal may owe something to a decision that was never announced. The body does not claim credit and does not answer questions about itself.
 
-## Commerce and Currency
+## What It Deals In
 
-TBD.
+Its members trade in influence, information and favor, and nothing else changes hands: no goods and no coin. Each favor is carried by memory, and a favor remembered is a debt held.
+
+A newcomer who wants to know whether the court has taken an interest should watch for a favor that arrives before it was asked for. A favor that arrives unasked is worth asking about.
 
 ## See Also
 
-TBD.
+- [[place-galezkara|Galezkara]]—The capital where it sits

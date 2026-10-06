@@ -1,6 +1,6 @@
 ---
 shortcode: candra
-name: {full: Vedyaran Candra, aliases: ["Candra", "Chandra"]}
+name: {full: Vedyaran Chandra, aliases: ["Chandra"]}
 type: miscgear
 description: "Silver coin struck by the Moon House at Chandrapur; the mid-value coin of Vedyaran trade, reckoned at eight tāmra."
 tags: [jewelry_cash]

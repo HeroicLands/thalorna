@@ -1,6 +1,6 @@
 ---
 shortcode: zekenarezkmt
-name: {full: Zekenare Zekmetâ, aliases: []}
+name: {full: Zekenare Zekmetâ, aliases: [Zekê]}
 type: being
 subType: npc
 description: "Father to a smith, of a house that has worked the forge for three generations and expects a fourth"
@@ -18,8 +18,8 @@ data:
   species: humanflk
   born: "671.318"
   died: null
-  height: 1.68
-  weight: 65
+  height: 5' 6"
+  weight: 143 lbs
   frame: light
   appearance:
     eye_color: brown

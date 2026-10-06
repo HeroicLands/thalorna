@@ -18,8 +18,8 @@ data:
   gender: female
   species: humanflk
   born: 691.253
-  height: 1.63
-  weight: 55.3
+  height: 5' 4"
+  weight: 122 lbs
   frame: light
   appearance:
     eye_color: brown
@@ -478,7 +478,7 @@ Thirye is driven by an insatiable hunger to create beauty and truthfulness in ar
 
 ### Patrons
 
-Lord Architect Amqelenset
+Lord Architect [[being-amqelenset2|Amqelenset]]
 : A powerful nobleman and principal patron of the City Theater Company who is captivated by Thirye's artistry; he has commissioned private performances and provided financial support for experimental theatrical productions she wishes to develop.
 
 Master Playwright Qelti

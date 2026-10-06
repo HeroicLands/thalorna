@@ -12,7 +12,7 @@ data:
       precision: millennium
       kind: arrival
       depth: world
-      sources: [lore-theithari]
+      sources: [lore-theithari, place-himashila, place-shitakoshtha, place-shunydvara]
       summary: >-
         The Ithári reach Thalorna from an origin no record names, settle Kalihara, and take in the scattered human bands living there. Across the rest of the world they raise works of a single substance found nowhere else, found nothing, teach nobody, and leave no word behind.
       standing: single-source
@@ -20,7 +20,13 @@ data:
         - name: Ithári
           by: affiliation-kalihara
           gloss: Those Who Came Before, and the only name anyone has for them
-      where: {locus: [place-klhrcntnnt]}
+      where:
+        locus: [place-klhrcntnnt]
+        reach:
+          - place: place-vedyarargn
+            how: >-
+              three bodies of the one unmarkable substance stand on the subcontinent—a warm slab at a river's source, the north wall of a library vault, and a shape on a road the shrines will not bless—and each is a local marvel with a local name
+            knowledge: unlinked
       who: [{ref: lore-theithari, role: actor}]
       accounts:
         - by: affiliation-kalihara

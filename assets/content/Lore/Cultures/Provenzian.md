@@ -9,7 +9,7 @@ tags: []
 # terran_analog: "Southwestern France, the Atlantic coast of Spain and Portugal (vineyards, river-mouth ports, illuminated-manuscript scriptoria and glass work), with cities of marble and aqueduct inherited from the Roman-analog empire. Carries over: city-first loyalty, independent city governments (noble, council or guild), dress and table as the public record of a family's standing. Departs: regional feeling arises only against a Vylarian or a Nordman."
 ---
 
-Provènzia is rich, clever, and entirely convinced that being both is a moral achievement. Its cities are marble and aqueduct and amphitheater, half of it inherited from the Vylarian Empire and half built since out of trade money, and a Provenzian will say the second half is the better part. What holds a Provenzian life together is not a realm, since there is no single realm, but three things: the city he belongs to, the patron above him and the clients below, and the exhausting and genuinely serious business of being seen to have taste.
+Provènzia is rich, clever, and entirely convinced that being both is a moral achievement. Its cities are marble and aqueduct and amphitheater, half of it inherited from the Vylarian Empire and half built since out of trade money. What holds a Provenzian life together is not a realm, since there is no single realm, but three things: the city he belongs to, the patron above him and the clients below, and the exhausting and genuinely serious business of being seen to have taste.
 
 ## The City Is the Country
 

@@ -17,26 +17,16 @@ data:
 
 ## Overview
 
-Iaqet-Leqa Selat is the land of the [[affiliation-selatiaqetlq|Selat of Iaqet-Leqa]], one of the [[affiliation-borderselatu|Border Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+**Iaqet-Leqa Selat** is the land of the [[affiliation-selatiaqetlq|Selat of Iaqet-Leqa]], one of the [[affiliation-borderselatu|Border Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 
-Eastern desert wells and quarry-roads; a dry, sun-burned garrison selat. Beyond the capital the selat is the ordinary Khelâthi landscape of villages, estates and temple lands, worked by farmers who owe a share of the harvest and labor on the canals, and lettered by the scribes who are the one reliable ladder out of the fields.
-
-## Economy
-
-Like every Khelâthi selat it runs on the flood, the harvest and the render—grain to the granaries, labor to the canals and the flood-season works, and a share of everything to the temples and the crown. What it contributes to the empire beyond that is what its character names: eastern desert wells and quarry-roads; a dry, sun-burned garrison selat.
-
-## Notable Features
-
-- [[place-iaqetleqa|Iaqet-Leqa]]—the selat capital and the Halzi'a's seat
-- The chief temple of [[affiliation-tjelsuk|Faith of Tjelsuk]] and its estates
-- Eastern desert wells and quarry-roads; a dry, sun-burned garrison selat
+The way to plan a journey through this selat is by its wells. The quarries lie only a few days' ride behind the desert march of [[place-khuqetmiglet|Khuqet-Miglet]], and the quarry-roads and the well-lines run between them across sun-burned stone. Where a well or a canal reaches, there are villages, estates and temple lands, and the farmers there owe their share of the harvest and labor on the water-works like any in the empire; between them the country is stone and sky, and a garrison keeps the road.
 
 ## Settlements
 
-- [[place-iaqetleqa|Iaqet-Leqa]] (~12,000)—the selat capital and the seat of the Halzi'a.
-- **The villages and estate-towns:** the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
+- [[place-iaqetleqa|Iaqet-Leqa]] (~12,000)—the selat capital and the seat of the Halzi'a, with the chief temple of [[lore-tjelsukdty|Tjelsuk]].
+- The villages and estate-towns: a few hundred to a few thousand people each, clustered on the ground the water reaches and on the temple estates.
 
 ## See Also
 

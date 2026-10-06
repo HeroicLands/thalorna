@@ -1,6 +1,6 @@
 ---
 shortcode: suvhermitage
-name: {full: Aráti's Hermitage, aliases: []}
+name: {full: Arāti's Hermitage, aliases: []}
 type: place
 subType: structure
 description: "The hermitage high on the gold mountain where a holy woman of indeterminate age receives the few who know to come to her."
@@ -8,9 +8,9 @@ tags: [sacred, mountain, inland]
 data: {demonym: null, lore: [], parents: [suvarnagirijnpd], population: null, packFolder: vedyara}
 ---
 
-**Aráti's hermitage** is a cell and a walled yard high on [[place-goldmountain|the Gold Mountain]], above the panning grounds and off the path to the observation posts. **Aráti the Wise** lives in it. She is a holy woman of indeterminate age and a considerable reputation, and the reputation travels further than her address does.
+**Arāti's hermitage** is a cell and a walled yard high on [[place-goldmountain|the Gold Mountain]], above the panning grounds and off the path to the observation posts. **Arāti the Wise** lives in it. She is a holy woman of indeterminate age and a considerable reputation, and the reputation travels further than her address does.
 
-Ascetic traditions are respected across Vedyara and the devout keep those who follow them. Aráti is kept by the villages below, who leave what they bring at the gate of the yard and do not come in unless they are asked.
+Ascetic traditions are respected across Vedyara and the devout keep those who follow them. Arāti is kept by the villages below, who leave what they bring at the gate of the yard and do not come in unless they are asked.
 
 ## Who Comes
 

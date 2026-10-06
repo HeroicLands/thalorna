@@ -56,36 +56,29 @@ sohl:
 - **Pronunciation:** _GYAH-nah-soo-rah_
 - **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
-Jñānasūra is the god of wisdom and of the work of the mind. The theology holds knowledge to be the sun of the inner life. Without it the soul is in darkness, and no virtue takes its proper form.
+"Touch the medallion before you sit down, not after, and read one line aloud from the stand by the door." The keeper of a school's shrine says it to a first-year on the evening before the examination. The line is whichever one the book lies open to, and nobody is excused it, scholar or soldier.
 
-He is the patron of scholars and of the great schools of [[place-vedyarargn|Vedyara Region]]. He is also the patron of warriors, for whom clarity of thought before the blow counts as much as strength of arm.
+[[lore-jnanasuradty|Jñānasūra]] is the god of wisdom and of the work of the mind, and his cult is the most widely housed in [[place-vedyarargn|Vedyara]]. Every major Vedyaran school, library and academy keeps a shrine to him. Those who serve there are among the most learned people in the world, trained as deeply in the sciences and the poetic arts as in theology, and they teach and advise at royal courts, in temple hierarchies and on guild councils. He is also the patron of warriors, because clarity of thought before the blow counts as much as strength of arm.
 
-Every major Vedyaran school, library and academy keeps a shrine to Jñānasūra. Those who serve him are among the most learned in the world, trained as deeply in the sciences and the poetic arts as in theology. They teach and advise at royal courts, in temple hierarchies and on guild councils.
+### The Shrine
 
-### Aspects
+The image at a school shrine is a serene figure seated in the posture of teaching, one hand raised in the gesture of instruction and the other holding the open book. A golden sun blazes behind him, and the whole image is the gold of morning light. Stand before it and you feel a quiet radiance, the steady light by which a page can be read, with none of the heat of [[affiliation-rasikara|Rāsikara]]'s fire.
 
-Jñānasūra is depicted as a serene figure seated in the posture of teaching, one hand raised in the gesture of instruction and the other holding the open book of wisdom. Behind him blazes the golden sun of understanding. His color is the gold of morning light. His presence is a quiet radiance, the steady light by which a page can be read, and it carries none of the heat of [[affiliation-rasikara|Rásikara]]'s fire.
+Three objects furnish the shrine. The **Open Book** is its central relic, and households and temples compete to produce the finest illuminated and bound sacred texts. The **Sun-medallion** is a small golden disc incised with the opening lines of a chosen sutra, worn by scholars and teachers. The **Reading-stand** is a carved wooden lectern, often a work of art in its own right, on which the day's sacred text is placed.
 
-### Sacred Objects
+The **Vidyā-Karanas**, the scribes of divine knowledge, are the celestial spirits who inspire mortals in moments of intellectual breakthrough. A scholar thanks them when a difficult passage suddenly yields its sense.
 
-- **The Open Book**—the central relic of a Jñānasūran shrine; households and temples compete to produce the finest illuminated and bound sacred texts
-- **Sun-medallion**—a small golden disc incised with the opening lines of a chosen sutra, worn by scholars and teachers
-- **Reading-stand**—a carved wooden lectern, often a work of art in its own right, on which the day's sacred text is placed
+### What the Devout Do
 
-### Divine Servants
-
-- **Vidyā-Karanas**—the scribes of divine knowledge, celestial spirits who inspire mortals in moments of intellectual breakthrough. Scholars offer thanks to them when a difficult passage suddenly yields its sense.
-
-### Veneration
-
-A Jñānasūran household keeps a reading-stand in its main room, and a book lies open on it from dawn until sunset. Any member of the house who pauses beside it reads a line aloud. Students touch the sun-medallion before sitting an examination; warriors touch it before taking the field. Before a hard decision, a lawsuit, a marriage settlement or a large commercial venture, the devout read three passages chosen at random from a sacred text and meditate on the thread between them.
+A Jñānasūran household keeps a reading-stand in its main room, with a book lying open on it from dawn until sunset. Anyone in the house who pauses beside it reads a line aloud. Students touch the sun-medallion before sitting an examination, and warriors touch it before taking the field. Before a hard decision, a lawsuit, a marriage settlement or a large commercial venture, the devout read three passages chosen at random from a sacred text and meditate on the thread between them.
 
 ### Ordeals for Favor
 
-- **The Examination Beyond the Veil**—an ordeal in which the devotee is examined on subjects they were not told to prepare, over a period of seven days, by a council that includes at least one member of every scholarly specialization.
-- **The Silent Year of Reading**—a year of study spent in a temple library, speaking to no one, consuming only what the library provides.
-- **The Contest of Open Questions**—a public ordeal in which the devotee must answer any question posed by any member of the community for a full day, from dawn to sunset.
+- **The Examination Beyond the Veil**—seven days of examination on subjects the devotee was not told to prepare, before a council that includes at least one member of every scholarly specialization.
+- **The Silent Year of Reading**—a year of study in a temple library, speaking to no one and consuming only what the library provides.
+- **The Contest of Open Questions**—a public ordeal in which the devotee answers any question put by any member of the community, for a full day from dawn to sunset.
 
 ### See Also
 
 - [[affiliation-varakpnthn|Varnaka Pantheon]]
+- [[lore-jnanasuradty|Jñānasūra]]—the god, and the theology of knowledge arriving

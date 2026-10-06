@@ -36,7 +36,7 @@ The classification system recognizes three fundamental categories of living thin
 
 The key distinction: a Zhëk Zōk is a _solved project_. The Bureau of Creation designed the species template, it reproduces on its own according to that template, and it occupies a fixed position in the cosmic taxonomy. In bureaucratic terms, it is a closed file—a completed work order that requires only routine maintenance.
 
-**Zāt Vōr Zhëk** ("Sacred-Creation Life")—[[lore-dreadspawn|Dreadspawn]]. Creatures of deliberate divine manufacture that do not reproduce. Each one is a unique project from the Zāt Sëi's ongoing creative output—what the [[lore-tanthei|Tānthëi]] understand as the Bureau of Creation's research and development work. Unlike Zhëk Zōk, each Dreadspawn is cataloged individually rather than as an instance of a species template. In bureaucratic terms, these are _open files_—active projects, not completed work orders.
+**Zāt Vōr Zhëk** ("Sacred-Creation Life")—[[lore-dreadspawncrtr|Dreadspawn]]. Creatures of deliberate divine manufacture that do not reproduce. Each one is a unique project from the Zāt Sëi's ongoing creative output—what the [[lore-tanthei|Tānthëi]] understand as the Bureau of Creation's research and development work. Unlike Zhëk Zōk, each Dreadspawn is cataloged individually rather than as an instance of a species template. In bureaucratic terms, these are _open files_—active projects, not completed work orders.
 
 #### Elemental Affinities and Practical Application
 
@@ -113,7 +113,7 @@ This makes dissent in Tānvür fundamentally different from dissent in Western s
 - [[lore-phlsphylvr|Philosophy of Lëivōr]]—The framework of Lëi that underlies medicine, magic, and governance
 - [[lore-clndrstrlgy|Calendar and Astrology]]—The calendar system tied to celestial administrative cycles
 - [[lore-numerology|Numerology]]—Auspicious numbers rooted in classification theory
-- [[lore-dreadspawn|Dreadspawn]]—Sacred-Creation Life: individually manufactured creatures classified as Zāt Vōr Zhëk
+- [[lore-dreadspawncrtr|Dreadspawn]]—Sacred-Creation Life: individually manufactured creatures classified as Zāt Vōr Zhëk
 - [[lore-castelaws|Foreigners and the Unclassified]]—How the classification system handles those outside the cosmic order
 - [[lore-castelaws|The Elder Races]]—How the Sinalë and Khazári fit within the classification system
 - [[affiliation-tanvurempr|Empire of Tānvür]]—The empire whose governance mirrors the celestial hierarchy

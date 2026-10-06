@@ -1,6 +1,6 @@
 ---
 shortcode: balenermshg2
-name: {full: Balenerî Mesheget, aliases: []}
+name: {full: Balenerî Mesheget, aliases: [Balê]}
 type: being
 subType: npc
 description: "A noble of considerable wealth, whose patronage is sought and whose conditions are onerous"
@@ -18,8 +18,8 @@ data:
   species: humanflk
   born: "687.260"
   died: null
-  height: 1.74
-  weight: 69
+  height: 5' 9"
+  weight: 152 lbs
   frame: medium
   appearance:
     eye_color: dark_brown

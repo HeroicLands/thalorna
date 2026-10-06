@@ -70,7 +70,7 @@ months of season and frost possible in any of them, an unaided human community w
 a decade.
 
 It works because the [[lore-flkkhazar|Khazári]] have **engineered the valley**, and the scale of what
-they have done is not easily conveyed to anyone who has only seen human works.
+they have done has no match among human works.
 
 ### The Water
 
