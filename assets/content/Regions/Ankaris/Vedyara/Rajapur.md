@@ -20,7 +20,7 @@ The palace is gone. Its stones went into the enlargement of the great Vyālendra
 
 ## The Temple and its Courts
 
-The temple is the town. Its outer courts hold the four-story granary that still serves as the common store, the Rājavalī Library, the school that takes the children of every constituent village, and the pilgrim hostel. The sabhā meets in the great hall. The Memory-Keeper's house stands against the south wall of the precinct, and the genealogies are kept in it.
+The temple is the town. Its outer courts hold the four-story granary that is still the common store, the Rājavalī Library, the school that takes the children of every constituent village, and the pilgrim hostel. The sabhā meets in the great hall. Do not plan to arrive on the Day of the Dissolution, the anniversary of the decree: no business is done and no labor performed, and the whole town is in the precinct hearing the decree read. The Memory-Keeper's house stands against the south wall of the precinct, and the genealogies are kept in it.
 
 At the spring festival of Vyālendra the town takes perhaps fifteen thousand visitors, eight times its own number. They are lodged in the hostel, in the courts, in the granary yard and in the fields beyond, and the janapada spends a tenth of the year's surplus feeding them.
 

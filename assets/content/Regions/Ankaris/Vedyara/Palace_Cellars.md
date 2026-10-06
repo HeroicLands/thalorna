@@ -16,7 +16,7 @@ The cellars stand open to the sky. Children play in them, and nobody builds on t
 
 The demolition was deliberate and it was ceremonial. The sabhā had declared the line ended with full honors, and the classical account is that the stones went into the temple so that the kingdom's work would go on holding something up.
 
-Nothing was hidden and nothing was buried. The granaries became common stores, the army was disbanded into the cultivating and artisan castes, and the palace became building material. The one thing the janapada kept whole was the record, which is in [[place-rajavalilib|the Rājavalī Library]] a quarter-mile away.
+Nothing was hidden and nothing was buried. The granaries became common stores, the army was disbanded into the cultivating and artisan households, and the palace became building material. The one thing the janapada kept whole was the record, which is in [[place-rajavalilib|the Rājavalī Library]] a quarter-mile away.
 
 ## The Ground Now
 

@@ -25,7 +25,7 @@ A quarter of a million people stand on the ground at the height of it. They come
 
 The Mahānadi has changed its course four times within written record, and its behavior in the season before a Mela decides where on the plain the Mela can be held. The lanes, the camping grounds and the bathing places are laid out afresh each time by the temple, working from the previous assembly's survey and from whatever the last flood left.
 
-The work takes the better part of two years and is the standing occupation of the temple between assemblies.
+The work takes the better part of two years and is the standing occupation of the temple between assemblies. "You do not inherit the Mela ground," a priest of Sangama tells a newcomer to the survey; "you measure it again."
 
 ## The Ground Between
 
