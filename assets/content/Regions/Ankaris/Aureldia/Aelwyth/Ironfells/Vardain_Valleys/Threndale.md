@@ -27,7 +27,7 @@ out of the plain during the conquest, and since then the refugees who reached th
 live long after, and now their children.
 
 The Vardain call it the **new ground**, and its existence is the plainest statement in the valleys of
-what happened to [[place-stormplain|Vardanreach]]—plainer than anything anybody says aloud. It is
+what happened to [[place-vardanreach|Vardanreach]]—plainer than anything anybody says aloud. It is
 also, pointedly, still being added to, because people still come over the mountains—and a good many
 of those buried in the new ground are the ones who very nearly did. It is a climb of nearly six
 thousand feet from the plain, possible for four months of the year, and the Vardain who go out to meet

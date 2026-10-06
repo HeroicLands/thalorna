@@ -78,7 +78,7 @@ The southern forests shelter ancient communities of [[lore-flksinale|Sinalë]] (
 
 ### Minor Polities
 
-Scattered between the major realms are smaller kingdoms, free cities, and independent lordships. The free city of Veldareth, on the southern coast between Dúnavarre and Tarvenne, is a neutral center of learning whose [[affiliation-panepistmm|Panepistemium]] chapterhouse is among the most respected on the island.
+Scattered between the major realms are smaller kingdoms, free cities, and independent lordships. The free city of [[place-veldareth|Veldareth]], on the southern coast between Dúnavarre and Tarvenne, is a neutral center of learning whose [[affiliation-panepistmm|Panepistemium]] chapterhouse is among the most respected on the island.
 
 ## Religion
 
@@ -258,7 +258,7 @@ warlike than the northern tribes, and the settled realms treat the forest margin
 than border.
 
 The **Vardain** are something else entirely, and lumping them with the tribes is the commonest error
-outsiders make about Aelwyth. They are the free remnant of **Vardanreach**, the nation that held the
+outsiders make about Aelwyth. They are the free remnant of [[place-vardanreach|Vardanreach]], the nation that held the
 whole north-east until the Nordmen took it sixty years ago—a settled, literate, farming people whose
 kin make up the hundred and twenty thousand thralls of [[affiliation-jrldmstrmvld|Stormveld]]. Eight
 thousand five hundred of them live in the [[place-vardainvalleys|high valleys]] of the

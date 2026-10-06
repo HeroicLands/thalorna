@@ -17,7 +17,7 @@ data:
 
 ## Teaser
 
-The secrets of Céravel Vale lead to its most perilous chapter yet. Deep within the ominous Blood Hills lies a place shrouded in legend, rumored to conceal a powerful artifact capable of altering the balance of power in the region. The adventurers must race against time to uncover its secrets before it falls into the wrong hands. Along the way, they will face treacherous terrain, shadowed ruins, and unknown challenges that will test their mettle at every turn. Harrowing choices await—choices that will not only define their legacy but determine the fate of the Vale itself.
+The secrets of [[place-ceravelvale|Céravel Vale]] lead to its most perilous chapter yet. Deep within the ominous Blood Hills lies a place shrouded in legend, rumored to conceal a powerful artifact capable of altering the balance of power in the region. The adventurers must race against time to uncover its secrets before it falls into the wrong hands. Along the way, they will face treacherous terrain, shadowed ruins, and unknown challenges that will test their mettle at every turn. Harrowing choices await—choices that will not only define their legacy but determine the fate of the Vale itself.
 
 ## Overview
 

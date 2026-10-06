@@ -17,11 +17,11 @@ data:
 
 ## Teaser
 
-With the brigands scattered and their leader defeated, the Vale should be at peace—but the shadows of Céravel conceal deeper threats. Evidence points to a cunning noble manipulating the chaos for his own gain, stoking unrest to weaken his rivals and further his ambitions. As the adventurers unravel the threads of deception, they must navigate political intrigue, confront dangerous allies of their new enemy, and uncover a secret alliance that threatens to plunge the region into greater peril. Can they expose the puppet master pulling the Vale's strings, or will they fall victim to his carefully laid plans? The stakes rise, and the lines between friend and foe blur in this tale of betrayal and ambition.
+With the brigands scattered and their leader defeated, the Vale should be at peace—but the shadows of [[place-ceravelvale|Céravel]] conceal deeper threats. Evidence points to a cunning noble manipulating the chaos for his own gain, stoking unrest to weaken his rivals and further his ambitions. As the adventurers unravel the threads of deception, they must navigate political intrigue, confront dangerous allies of their new enemy, and uncover a secret alliance that threatens to plunge the region into greater peril. Can they expose the puppet master pulling the Vale's strings, or will they fall victim to his carefully laid plans? The stakes rise, and the lines between friend and foe blur in this tale of betrayal and ambition.
 
 ## Background
 
-In this part, the adventurers track down Kílan's true motives and confront him. They realize that Kílan's actions are not just a power grab but also involve his devotion to the Black Flame and secret alliance with Kâldin al Lénavel nâ Léravren in the Zûravlen barony (a fierce Black Flame), with Kílan intending to use the power of an ancient Black Flame artifact hidden in the Blood Hills east of Bélsaren.
+In this part, the adventurers track down Kílan's true motives and confront him. They realize that Kílan's actions are not just a power grab but also involve his devotion to the Black Flame and secret alliance with Kâldin al Lénavel nâ [[place-leravren|Léravren]] of the Zûravel clan (a fierce Black Flame), with Kílan intending to use the power of an ancient Black Flame artifact hidden in the Blood Hills east of [[place-belsaren|Bélsaren]].
 
 ## Adventure Structure
 
@@ -30,7 +30,7 @@ In this part, the adventurers track down Kílan's true motives and confront him.
 ## Key Players
 
 - **Darisen al Olrûn**: An erudite and seemingly benign individual with deep knowledge of Black Flame history. Darisen offers assistance in understanding Kílan, his motives, deciphering the cryptic clues, and tracking the shrine's location. Unbeknownst to everyone, Darisen is actually a Thanatine with his own designs to acquire the artifact for Thánatos.
-- **Kílan alrí Ilóvrel nâ Ilóvren**: Lord of Ilóvren
+- **Kílan alrí Ilóvrel nâ Ilóvren**: Lord of [[place-ilovren|Ilóvren]]
 - **Kâldin al Lénavel nâ Léravren**: Lord of Léravren, and member of the Zûravel clan of the Black Flame.
 
 ## Key Events

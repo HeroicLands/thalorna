@@ -17,7 +17,7 @@ data:
 
 ### Teaser
 
-The roads of Céravel Vale have grown treacherous, with bold bandits striking caravans and travelers without mercy. These outlaws, once scattered and disorganized, now act with alarming precision, united under a mysterious leader who seems to know every weakness in the Vale’s defenses. Târlas Pélanvri, Lord of Bélsaren, has called upon skilled adventurers to root out the bandit menace, uncover their hidden lair, and restore order to the countryside. Yet the task is anything but straightforward—peasants whisper of secret alliances, while the bandits’ tactics grow ever more ruthless. Who truly pulls the strings behind the bandit threat? And what dangers lie in wait for those who dare to confront them? The answers lie in the shadows of Céravel Vale.
+The roads of [[place-ceravelvale|Céravel Vale]] have grown treacherous, with bold bandits striking caravans and travelers without mercy. These outlaws, once scattered and disorganized, now act with alarming precision, united under a mysterious leader who seems to know every weakness in the Vale’s defenses. Târlas Pélanvri, Lord of [[place-belsaren|Bélsaren]], has called upon skilled adventurers to root out the bandit menace, uncover their hidden lair, and restore order to the countryside. Yet the task is anything but straightforward—peasants whisper of secret alliances, while the bandits’ tactics grow ever more ruthless. Who truly pulls the strings behind the bandit threat? And what dangers lie in wait for those who dare to confront them? The answers lie in the shadows of Céravel Vale.
 
 ### Background
 
@@ -27,9 +27,9 @@ The Vale of Céravel is a rugged, isolated region in Provènzia plagued by bandi
 
 - **Thárion al Dracáen**: Thárion, whose family originally held Bélsaren, seeks revenge for his wrongful deposition by Târlas and has become a charismatic leader of the Thânevar peasants, promising to restore justice. However, as his situation becomes more desperate, Thárion resorts to increasingly violent tactics, ultimately sealing his fate.
 
-- **Élgâr Târlas al Pélanvri nâ Bélsaren**: Târlas, who now rules Bélsaren, wants the bandit threat extinguished to secure his position and avoid scrutiny from his liege Khiráta Jârvel al Pélanvri nâ Caêr Céravel. Târlas is a harsh ruler, and his oppressive treatment of the Thânevar peasants has driven many to support Thárion.
+- **Élgâr Târlas al Pélanvri nâ Bélsaren**: Târlas, who now rules Bélsaren, wants the bandit threat extinguished to secure his position and avoid scrutiny from his liege Khiráta Jârvel al Pélanvri nâ [[place-caerceravel|Caêr Céravel]]. Târlas is a harsh ruler, and his oppressive treatment of the Thânevar peasants has driven many to support Thárion.
 
-- **Nâlor Kílan alrí Ilóvrel nâ Ilóvren**: Although Kílan plays no overt role in Part 1, his hidden hand is at work. He has been manipulating the conflict between Thárion and Târlas, subtly supporting the chaos to weaken Târlas’ control Bélsaren and further his own agenda. However, this connection remains unknown to all, including Thárion, until after the bandit leader’s defeat.
+- **Nâlor Kílan alrí Ilóvrel nâ [[place-ilovren|Ilóvren]]**: Although Kílan plays no overt role in Part 1, his hidden hand is at work. He has been manipulating the conflict between Thárion and Târlas, subtly supporting the chaos to weaken Târlas’ control Bélsaren and further his own agenda. However, this connection remains unknown to all, including Thárion, until after the bandit leader’s defeat.
 
 - **Thânevar and Provenzian Peasants of Bélsaren**: The peasants of Bélsaren are divided. While all of the peasants are openly supportive of Târlas, the Thânevar majority secretly supports Thárion, while the Provenzian minority remains loyal to Târlas. This division complicates the adventurers’ task, as the Thânevar villagers may resist their efforts, while the Provenzian peasants offer information and assistance.
 

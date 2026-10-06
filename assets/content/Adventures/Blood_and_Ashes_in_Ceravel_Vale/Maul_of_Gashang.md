@@ -27,7 +27,7 @@ Legends suggest that the maul was forged in the heart of a volcano by Black Flam
 
 ### **The Last Battle in the Blood Lands**
 
-The **Maul of Gashang** was last wielded in a brutal conflict known as the **Battle of Céravel’s Blood Hills**, fought in the highlands near Céravel. This battle was a climactic confrontation between the forces of the Black Flame, led by the Cohorts of Gashang, and the Knights of the Sacred Forge. The site became infamous for its sheer brutality, as the followers of the Black Flame reveled in slaughter and pain, while the Forge faithful sought to stem the tide of chaos.
+The **Maul of Gashang** was last wielded in a brutal conflict known as the **Battle of Céravel’s Blood Hills**, fought in the highlands near [[place-ceravelvale|Céravel]]. This battle was a climactic confrontation between the forces of the Black Flame, led by the Cohorts of Gashang, and the Knights of the Sacred Forge. The site became infamous for its sheer brutality, as the followers of the Black Flame reveled in slaughter and pain, while the Forge faithful sought to stem the tide of chaos.
 
 The **Maul of Gashang** was wielded by a Black Flame warlord named **Hazarak Bloodhand**, known for his cruelty and mastery of war. Hazarak led the charge against the Sacred Forge forces, and it is said that he wielded the maul with such ferocity that even the most devout Sacred Forge knights faltered in his wake. The weapon’s unholy aura terrified even the most battle-hardened soldiers, while its flames set the battlefield alight, turning the hillside into a scene of unrelenting carnage.
 

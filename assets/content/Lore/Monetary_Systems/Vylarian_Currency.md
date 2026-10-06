@@ -47,7 +47,7 @@ The Bit is the small-denomination coin of everyday life—a loaf of bread, a tan
 
 ## Sample Prices
 
-These prices align with the canonical _Song of Heroic Lands_ gear data, which uses the Argo as its unit of value. Prices are typical for the imperial core (Vylaria and Heliónis) and for the post-imperial commonwealth member territories where the Vylarian system is the standard currency; provincial backwaters trend a little lower, frontier postings substantially higher, and the largest commercial cities (Magnápolis, Vénustria, Byzaría) higher still for premium goods.
+These prices align with the canonical _Song of Heroic Lands_ gear data, which uses the Argo as its unit of value. Prices are typical for the imperial core (Vylaria and Heliónis) and for the post-imperial commonwealth member territories where the Vylarian system is the standard currency; provincial backwaters trend a little lower, frontier postings substantially higher, and the largest commercial cities (Magnápolis, [[place-venustria|Vénustria]], Byzaría) higher still for premium goods.
 
 ### Food, Drink, Lodging
 

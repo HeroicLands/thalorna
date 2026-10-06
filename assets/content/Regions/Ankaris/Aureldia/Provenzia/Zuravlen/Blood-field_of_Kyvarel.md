@@ -8,7 +8,7 @@ tags: [valley, inland]
 data: {demonym: null, lore: [], parents: [zuravlenrgn], population: null, packFolder: provenzia}
 ---
 
-In the western valleys, in the barony of Kývarel—held with [[place-zuravlenrgn|Zûravlen]] by Álegar
+In the western valleys, in the barony of [[place-kyvarel|Kývarel]]—held with [[place-zuravlenrgn|Zûravlen]] by Álegar
 alrí Zûravel—lies a **quickening**: a [[lore-bloodfields|blood-field]] where the ground grows too
 well.
 

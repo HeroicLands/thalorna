@@ -32,7 +32,7 @@ worth making.
 ## The Old Country
 
 The plain's people are [[lore-vardain|Vardain]], and they were a nation before the Nordmen came.
-This country was **Vardanreach**, which kept the friendship of the [[lore-flkkhazar|Khazári]] of
+This country was [[place-vardanreach|Vardanreach]], which kept the friendship of the [[lore-flkkhazar|Khazári]] of
 [[place-vorgald|Vorgald]] for thousands of years and is now called Stormveld by the men who took it.
 Their free kin are alive—some eight thousand five hundred of them, in the
 [[place-vardainvalleys|high valleys]] of the [[place-ironfells|Ironfells]] beyond the southern

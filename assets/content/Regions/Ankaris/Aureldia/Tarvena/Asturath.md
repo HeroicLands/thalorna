@@ -22,10 +22,10 @@ Astúrath is the land of [[affiliation-kngdmstrth|The Kingdom of Astúrath]], th
 
 The kingdom's geography is its greatest defense. The mountain passes are narrow and easily blocked, the terrain favors defenders absolutely, and the Astúrathi know every goat path and hidden valley in their ranges.
 
-The High King's seat is traditionally at **Peñalthár**, a fortress-city perched on a near-inaccessible plateau in the central mountains.
+The High King's seat is traditionally at [[place-penalthar|Peñalthár]], a fortress-city perched on a near-inaccessible plateau in the central mountains.
 
 ## See Also
 
 - [[affiliation-kngdmstrth|Kingdom of Astúrath]]—The kingdom that holds this land
 - [[place-tarvenirgn|Tarvénia Region]]—The enclosing region
-- Kávrenath—The seat
+- [[place-kavrenath|Kávrenath]]—The seat

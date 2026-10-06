@@ -1,6 +1,6 @@
 ---
 shortcode: kingdmtrvn
-name: {full: Kingdom of Tarvénia, aliases: []}
+name: {full: Kingdom of Tarvénia, aliases: [Tarvena]}
 type: affiliation
 subType: polity
 description: "Loose confederation of fiercely independent petty kingdoms, city-states, and frontier territories held together by shared language and warrior culture—a political idea more than a unified state."
