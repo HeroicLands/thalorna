@@ -496,8 +496,8 @@ Gar-Qelti's Trading Interests
 
 ### Enemies
 
-Captain Zezabu of the Kestrel
-: A rival pilot whose ship was damaged in an incident where Zekhemet claims foul play occurred. Zezabu blames Zekhemet directly, creating a blood feud in the merchant community.
+Captain Magari of the Kestrel
+: A rival pilot whose ship was damaged in an incident where Zekhemet claims foul play occurred. Magari blames Zekhemet directly, creating a blood feud in the merchant community.
 
 [[affiliation-garzulemu|Gar-Zulemu]]
 : Certain merchants and port officials have attempted repeatedly to involve Zekhemet in smuggling or bribery schemes. Her refusals have made her a target of resentment from those accustomed to moral flexibility.

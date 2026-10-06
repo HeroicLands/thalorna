@@ -480,7 +480,7 @@ House Nordthorne
 Harvin's Fur Trading Company
 : The primary commercial outlet for Svulthýra's work, run by an aging merchant named **Harvin Hvarnumakh** who has worked with her for over a decade and views her as indispensable
 
-Priest Aldwin of the Fródvin's Temple
+Priest Glurvmýl of the Fródvin's Temple
 : A spiritual authority who has taken interest in Svulthýra's deepening moral philosophy and occasionally contracts her for wilderness-based spiritual retreats and teachings
 
 ### Enemies

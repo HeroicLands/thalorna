@@ -145,13 +145,13 @@ The Emperor's authority rests on a combination of tradition, military loyalty, a
 
 ## Religion
 
-The [[affiliation-arldnpnthn|Aurèldían Pantheon]] is the official state religion, and [[affiliation-arldnpnthn|Jánus]] (order, justice, and honorable struggle) nominally holds the highest position as patron of the empire. But the reality of Vylarian religious life is far more dynamic and chaotic than the official picture suggests.
+The [[affiliation-arldnpnthn|Aurèldían Pantheon]] is the official state religion, and [[affiliation-arldnpnthn|Árdavon]] (order, justice, and honorable struggle) nominally holds the highest position as patron of the empire. But the reality of Vylarian religious life is far more dynamic and chaotic than the official picture suggests.
 
 Vylaria is remarkably tolerant of different faiths—and remarkably fickle about them. The empire has always absorbed the religions of its conquered peoples, and the capital is a bazaar of competing cults, temples, and spiritual movements. All the major pantheons are represented: [[affiliation-arldnpnthn|Aurèldían]] temples dominate the old city, but [[affiliation-ashanpnthn|Āsháian Pantheon]] fire-shrines draw fashionable devotees, [[affiliation-asguardian|Asguardian Pantheon]] warrior-cults attract military officers, and mystery traditions from [[place-helionis|Heliónis]] offer initiation rites to the curious aristocracy. New religious movements arrive with each passing season, enjoy a burst of court patronage, and either take root or fade. The Senate and the great families use religious patronage as a political tool—backing a particular temple is a way to signal allegiance, build networks, and undermine rivals.
 
 The Imperial Cult—veneration of deceased emperors as divine or semi-divine figures—is the one institution that cuts across this religious chaos. Temples to deified emperors dot the cities, and participation in the cult is both a religious act and a declaration of political loyalty. It is the empire's civic religion, binding subjects of all faiths to a common ritual of imperial allegiance.
 
-This religious fluidity gives Vylaria an unusual cosmopolitan character. A Vylarian senator might worship Jánus publicly, consult an Āsháian fire-priest privately, and attend a Helionite mystery initiation for the social connections. The [[affiliation-ordoarcanis|Ordo Arcanis]], meanwhile, observes this spiritual marketplace with deep unease—religious diversity creates openings for magical traditions the Ordo cannot control.
+This religious fluidity gives Vylaria an unusual cosmopolitan character. A Vylarian senator might worship Árdavon publicly, consult an Āsháian fire-priest privately, and attend a Helionite mystery initiation for the social connections. The [[affiliation-ordoarcanis|Ordo Arcanis]], meanwhile, observes this spiritual marketplace with deep unease—religious diversity creates openings for magical traditions the Ordo cannot control.
 
 ## The Ordo Arcanis
 

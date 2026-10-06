@@ -11,7 +11,8 @@ data:
   symbol: null
   governance:
     model: monarchy
-    summary: Hereditary sultan ruling through a vizier and court bureaucracy.
+    summary: >-
+      Hereditary sultan ruling through a vizier and court bureaucracy. Every standing in the realm is the Sultan's grant and his to revoke, so his kinsmen hold none by blood: a prince stands where an appointment or a governorship places him, and the Sultana's place is an office.
     ranks:
       - level: 0
         title: Outcast
@@ -39,10 +40,6 @@ data:
         title: Emir
         description: >-
           A great officer commanding armies or provinces, whose position rests on the Sultan's favor rather than on descent.
-      - level: 7
-        title: Royal Kin
-        description: >-
-          Of the Sultan's house by blood or marriage, standing above the emirs in precedence and in claim.
       - level: 8
         title: Sultan
         description: >-
