@@ -9,7 +9,7 @@
  * Collision check for the elder-tongue lexicons.
  *
  * Usage: `node utils/lexicons/collision-check.mjs [--wordlists <dir>]
- * [--skeleton] <lexicon-note.md>...`
+ * [--skeleton] [--skeleton-lists <name,...>] <lexicon-note.md>...`
  *
  * Every form in the first column of a lexicon table (a form in a code span) is
  * compared with word lists the person running the check keeps locally. The
@@ -30,11 +30,24 @@
  * become `t` and `d`, `kh` and `gh` become `k` and `g`, doubled letters
  * collapse, anything that is not a letter is dropped.
  *
+ * Only first-column cells that are words are compared: a form needs at least
+ * three letters after normalization, so single letters, digraphs in phonology
+ * tables, suffix stubs, punctuation and numbers are skipped. A skeleton is
+ * exempt from the length floor because its radicals are the letters.
+ *
  * Findings: a form matching a list entry exactly after normalization, or within
  * one edit of an entry when the form has five or more letters. A skeleton (three
- * consonants joined by hyphens, or any first-column form under `--skeleton`)
- * collides when it equals a list entry after normalization, so a list of
- * consonantal roots is matched root for root.
+ * radicals joined by hyphens, each radical one letter or one of the consonant
+ * digraphs th, kh, gh, sh, zh, dh, ch, ph; or any first-column form under
+ * `--skeleton`) collides when it equals a list entry after normalization, so a
+ * list of consonantal roots is matched root for root.
+ *
+ * Skeleton comparison uses only the lists in `--skeleton-lists`, default
+ * `khuzdul,akkadian`: those hold roots or forms whose consonants carry meaning.
+ * An unvocalized whole-word list (Hebrew, for one) holds nearly every
+ * three-consonant combination, so matching skeletons against it flags almost
+ * every root; name it in `--skeleton-lists` to opt it in. Whole-word comparison
+ * always uses every list.
  * Findings are `file:line:column: warning: …`, naming the list and never the
  * matching word. Exit status is 1 when there is a finding, else 0.
  */
@@ -78,7 +91,10 @@ export function withinOneEdit(a, b) {
     return short.slice(i) === long.slice(i + 1);
 }
 
-const SKELETON_SHAPE = /^\p{L}(?:-\p{L}){2}$/u;
+const MIN_FORM_LENGTH = 3;
+const DEFAULT_SKELETON_LISTS = ["khuzdul", "akkadian"];
+const RADICAL = "(?:th|kh|gh|sh|zh|dh|ch|ph|\\p{L})";
+const SKELETON_SHAPE = new RegExp(`^${RADICAL}(?:-${RADICAL}){2}$`, "iu");
 
 /**
  * Forms in the first column of every markdown table row of a note.
@@ -92,12 +108,15 @@ export function extractForms(text, forceSkeleton = false) {
         const match = /^\s*\|\s*`([^`]+)`/.exec(raw);
         if (!match) return;
         const form = match[1];
+        const skeleton = forceSkeleton || SKELETON_SHAPE.test(form);
+        const length = normalize(form).length;
+        if (length === 0 || (!skeleton && length < MIN_FORM_LENGTH)) return;
         const column = match.index + match[0].length - form.length;
         rows.push({
             line: index + 1,
             column,
             form,
-            skeleton: forceSkeleton || SKELETON_SHAPE.test(form),
+            skeleton,
         });
     });
     return rows;
@@ -128,15 +147,17 @@ export function loadLists(dir) {
  * Compare one form with every list.
  * @param {{ form: string, skeleton: boolean }} row
  * @param {Map<string, Set<string>>} lists
+ * @param {string[]} skeletonLists Names of the lists a skeleton is compared with.
  * @returns {{ list: string, kind: string }[]}
  */
-export function compare(row, lists) {
+export function compare(row, lists, skeletonLists = DEFAULT_SKELETON_LISTS) {
     const hits = [];
     const norm = normalize(row.form);
     if (!norm) return hits;
     for (const [list, entries] of lists) {
         if (row.skeleton) {
-            if (entries.has(norm)) hits.push({ list, kind: "skeleton" });
+            if (skeletonLists.includes(list) && entries.has(norm))
+                hits.push({ list, kind: "skeleton" });
         } else if (entries.has(norm)) {
             hits.push({ list, kind: "exact" });
         } else if (norm.length >= MIN_EDIT_LENGTH) {
@@ -152,6 +173,17 @@ export function compare(row, lists) {
 }
 
 /**
+ * @param {string | undefined} value Comma-separated list names.
+ * @returns {string[]}
+ */
+function splitNames(value = "") {
+    return value
+        .split(",")
+        .map((n) => n.trim())
+        .filter(Boolean);
+}
+
+/**
  * Run the check.
  * @param {string[]} argv Arguments after the script name.
  * @param {Record<string, string | undefined>} env
@@ -162,9 +194,13 @@ export function main(argv, env = process.env, io = { out: console.log, err: cons
     const files = [];
     let dir = env.COLLISION_WORDLISTS || DEFAULT_DIR;
     let skeleton = false;
+    let skeletonLists = DEFAULT_SKELETON_LISTS;
     for (let i = 0; i < argv.length; i++) {
         if (argv[i] === "--wordlists") dir = argv[++i];
         else if (argv[i].startsWith("--wordlists=")) dir = argv[i].slice("--wordlists=".length);
+        else if (argv[i] === "--skeleton-lists") skeletonLists = splitNames(argv[++i]);
+        else if (argv[i].startsWith("--skeleton-lists="))
+            skeletonLists = splitNames(argv[i].slice("--skeleton-lists=".length));
         else if (argv[i] === "--skeleton") skeleton = true;
         else files.push(argv[i]);
     }
@@ -179,7 +215,7 @@ export function main(argv, env = process.env, io = { out: console.log, err: cons
         const rel = path.relative(process.cwd(), file) || file;
         for (const row of extractForms(fs.readFileSync(file, "utf8"), skeleton)) {
             forms++;
-            for (const hit of compare(row, lists)) {
+            for (const hit of compare(row, lists, skeletonLists)) {
                 findings++;
                 io.err(
                     `${rel}:${row.line}:${row.column}: warning: ${hit.kind} collision with the ${hit.list} list`,

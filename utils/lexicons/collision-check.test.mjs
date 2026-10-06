@@ -15,7 +15,8 @@ import { main } from "./collision-check.mjs";
 const dir = fs.mkdtempSync(path.join(os.tmpdir(), "collision-check-"));
 const lists = path.join(dir, "lists");
 fs.mkdirSync(lists);
-fs.writeFileSync(path.join(lists, "fixa.txt"), "zorvakin\nbelmo\ndlk\n");
+fs.writeFileSync(path.join(lists, "fixa.txt"), "zorvakin\nbelmo\ndlk\ntmr\nabc\n");
+fs.writeFileSync(path.join(lists, "khuzdul.txt"), "klv\n");
 fs.writeFileSync(path.join(lists, "fixb.txt"), "plumeta\n");
 const note = path.join(dir, "lexicon.md");
 fs.writeFileSync(
@@ -31,6 +32,13 @@ fs.writeFileSync(
         "| `quiet` | n | no match |",
         "| `d-l-k` | stone |",
         "| `d-l-t` | no root |",
+        "| `th-m-r` | digraph radical |",
+        "| `kh-l-v` | digraph radical, default list |",
+        "| `a` | single letter |",
+        "| `th` | digraph |",
+        "| `ab` | two letters |",
+        "| `abc` | three letters |",
+        "| `42` | number |",
         "",
     ].join("\n"),
 );
@@ -61,10 +69,30 @@ test("a one-edit near miss is reported at five letters and not at four", () => {
 });
 
 test("skeleton mode matches a skeleton against a root", () => {
-    const { err } = run(["--wordlists", lists, note]);
+    const { err } = run(["--wordlists", lists, "--skeleton-lists", "fixa", note]);
     const text = err.join("\n");
     assert(/:9:4: warning: skeleton collision with the fixa list/.test(text));
     assert(!/:10:4:/.test(text));
+});
+
+test("a skeleton with digraph radicals is compared as a skeleton", () => {
+    const text = run(["--wordlists", lists, "--skeleton-lists", "fixa", note]).err.join("\n");
+    assert(/:11:4: warning: skeleton collision with the fixa list/.test(text));
+});
+
+test("cells that are not words of three letters are skipped", () => {
+    const { err, out } = run(["--wordlists", lists, "--skeleton-lists", "fixa", note]);
+    const text = err.join("\n");
+    for (const line of [13, 14, 15, 17]) assert(!new RegExp(`:${line}:4:`).test(text));
+    assert(/:16:4: warning: exact collision with the fixa list/.test(text));
+    assert(/\b11 forms compared/.test(out.join("\n")));
+});
+
+test("skeletons are compared with khuzdul and akkadian lists by default", () => {
+    const text = run(["--wordlists", lists, note]).err.join("\n");
+    assert(/:12:4: warning: skeleton collision with the khuzdul list/.test(text));
+    assert(!/:9:4:.*skeleton/.test(text));
+    assert(!/:11:4:.*skeleton/.test(text));
 });
 
 test("the environment variable names the directory", () => {
