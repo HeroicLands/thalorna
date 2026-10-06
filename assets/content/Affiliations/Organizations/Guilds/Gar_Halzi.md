@@ -136,7 +136,7 @@ Foreign hack-metal, meaning pieces of unattested origin, is taken at a larger di
 
 ### Notable Officers
 
-- **Ilmy'Zâ** [[being-halzztmrykhl|Halzi Zetmeryu-Khelâ]], the current chief officer and high priest of Galezkara, is widely regarded as the most consequential non-political figure in the Northern Fertile Region's commerce.
+- **Ilmy'Zâ** [[being-zetmeryukhe2|Zetmeryu-Khelâ]], the current chief officer and high priest of Galezkara, is widely regarded as the most consequential non-political figure in the Northern Fertile Region's commerce.
 - The Council of the High Priests holds eight seats and meets quarterly at the imperial capital.
 - The various Lem-Halzi are chapter-treasury administrators, each a senior priest of real local standing.
 
