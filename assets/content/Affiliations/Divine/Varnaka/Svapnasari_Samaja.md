@@ -25,7 +25,7 @@ data:
       - level: 0
         title: Patita
         description: >-
-          "Fallen"—put out of the tradition, denied its rites and its teaching, and not received again by any of its houses.
+          "Fallen"—put out of the tradition and denied its rites and its teaching, and marked by a brand on the face that every house and sampradāya recognizes. The sentence can be forgiven; the forgiven person carries proof of the forgiveness for life.
       - level: 1
         title: Upāsaka
         description: >-

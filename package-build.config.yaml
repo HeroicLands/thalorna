@@ -150,12 +150,12 @@ packageBuild:
                   - actors
         media:
             - type: setup
-              url: systems/sohl/assets/ui/sohl-setup.webp
-              thumbnail: systems/sohl/assets/ui/sohl-setup-thumb.webp
+              url: modules/thalorna/assets/images/media/thalornasetup.webp
+              thumbnail: modules/thalorna/assets/images/media/thalornasetupthumb.webp
             - type: logo
-              url: systems/sohl/assets/ui/sohl-logo.webp
+              url: modules/thalorna/assets/images/media/thalornalogo.webp
             - type: icon
-              url: systems/sohl/assets/ui/sohl-icon.webp
+              url: modules/thalorna/assets/images/media/thalornaicon.webp
             - type: banner
-              url: systems/sohl/assets/ui/sohl-banner.webp
+              url: modules/thalorna/assets/images/media/thalornabanner.webp
         socket: true
