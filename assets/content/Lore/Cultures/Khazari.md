@@ -9,15 +9,15 @@ tags: []
 # terran_analog: "No human people. The governing attitude is the Sakuteiki's (11th-century Japanese garden manual): set each stone as the stone asks. The Khazári extend it to architecture, mining, craft and ethics."
 ---
 
-A traveller who climbs toward a Khazári hold sees cliffs: weathered rock, ledges, a few dark hollows, the stain where water runs down the face. Then a hollow turns out to be a window, a ledge a sill, and the stain a flue's dispersed smoke, and the whole face resolves into a city. The moment is a quiet one. Nothing was hidden; the city was finished to belong to its mountain, and it took the traveller that long to see it.
+A traveler who climbs toward a Khazári hold sees cliffs: weathered rock, ledges, a few dark hollows, the stain where water runs down the face. Then a hollow turns out to be a window, a ledge a sill, and the stain a flue's dispersed smoke, and the whole face resolves into a city. The moment is a quiet one. Nothing was hidden; the city was finished to belong to its mountain, and it took the traveler that long to see it.
 
-That is the [[lore-flkkhazar|Khazári]] in one view. They do not shape stone into what they want. They look for what the stone wants to be and help it become that, and the same discipline governs their homes, their mines, their craft, their law and their worship. A mountain is not raw material to them. It has a grain, a history and something close to a will, and a good life is lived in agreement with it.
+That is the [[lore-flkkhazar|Khazári]] in one view. They look for what the stone wants to be and help it become that, and the same discipline governs their homes, their mines, their craft, their law and their worship. To a Khazár a mountain has a grain, a history and something close to a will, and a good life is lived in agreement with it.
 
 ## What the Stone Wants
 
-Good is accord with the mountain: work that follows the grain, opens what the rock already almost holds, and leaves the stone sounder than it found it. Evil is forcing. Cutting against the grain, cutting where no cut was needed, and driving a line the rock never offered are failures of respect for the mountain, and the Khazári treat them as moral failures rather than poor workmanship.
+Good is accord with the mountain: work that follows the grain, opens what the rock already almost holds, and leaves the stone sounder than it found it. Evil is forcing. Cutting against the grain, cutting where no cut was needed, and driving a line the rock never offered are failures of respect for the mountain, and the Khazári judge them as moral failures.
 
-Listening is not passivity. Knowing what a face of limestone will bear, where a granite will part cleanly and where a slate will flake takes deep knowledge, long patience and real skill, and a Khazár who waits without understanding is no better than one who strikes without understanding. The word for patience, _pazal_, is a word of the workshop before it is a word of temperament.
+Listening is hard work. Knowing what a face of limestone will bear, where a granite will part cleanly and where a slate will flake takes deep knowledge, long patience and real skill, and a Khazár who waits without understanding is no better than one who strikes without understanding. The word for patience, _pazal_, is a word of the workshop before it is a word of temperament.
 
 A clumsy cut, a _gharp_, is therefore a serious matter. It is entered in the record of the work, it is answered by the person who made it, and it stays in the stone after everyone who saw it made is dead.
 
@@ -37,7 +37,7 @@ They hold display, haste and waste in contempt. A thing made to be looked at fro
 
 A hold is found before it is made. Where a mountain holds caves, the Khazári take them and adapt them in their own way, and a settlement takes the form of the caves its mountain already has. Large karst caverns in limestone become halls, shrines, cisterns and storehouses. Digging is the exception, and what they do cut is the least that joins, levels or opens what the rock already almost holds. Founding a hold means finding its cave, and a _fakar_, a cave newly found, is the first thing any hold has.
 
-The Khazári disdain a straight line. Tunnels wind because they follow the rock's contours along joints, bedding planes, faults and overhangs, and a straight cut reads to them as proof that the stone was forced. The true line, _varn_, is the line the rock runs. Their curves are not the exact, deliberate curves of the [[lore-theithari|Ithári]]. A Khazári curve is irregular, because it is the rock's line and not the maker's.
+The Khazári disdain a straight line. Tunnels wind because they follow the rock's contours along joints, bedding planes, faults and overhangs, and a straight cut reads to them as proof that the stone was forced. The true line, _varn_, is the line the rock runs. The [[lore-theithari|Ithári]] draw exact, deliberate curves; a Khazári curve is irregular, because it is the rock's line and the maker only follows it.
 
 No two holds are alike, because no two mountains are, and none is laid out on a grid. Most homes are shallow, set into the cliff face rather than deep in the mountain, and nearly every one has an outer face with openings for air and daylight, shaped to follow the rock's natural lines so that they never jar the eye. Passages run inside the rock, linking homes, workshops and common rooms, so no road or worn path scars the face.
 
@@ -45,7 +45,7 @@ The one work in which what the Khazári wanted led what the stone offered is [[l
 
 ## Light, Smoke and Water
 
-The aim is harmony, not invisibility, and a hold makes no extreme effort to hide that people live in it. The same ethic that shapes a home shapes how it handles its necessities.
+A hold aims at harmony with its mountain and makes no great effort to hide that people live in it. The same ethic that shapes a home shapes how it handles its necessities.
 
 - **Light and air.** Homes take daylight and fresh air through their faces. The deeper rooms rely on shafts that follow the rock's own fractures.
 - **Smoke.** Flues follow natural fissures and let smoke disperse along the face, so a hold does not sit under a plume.
@@ -57,7 +57,7 @@ The aim is harmony, not invisibility, and a hold makes no extreme effort to hide
 
 Depth carries weight. The deeper a space lies, the older, holier or more serious its purpose: shrines, tombs, mine workings, the _hukhard_ that is a hold's inmost hall, and the refuge all lie deep, and they are used less in daily life than the rooms near the light.
 
-Every hold keeps a **refuge**, a _famgadurákh_, deep in the rock, where the whole population can be gathered and sealed off from an attacker. It is provisioned with stored food and with shafts and channels for light and air, so the hold can hold out for a long time. Defence is always a consideration, and a hold's founding is not complete until its refuge is found and readied.
+Every hold keeps a **refuge**, a _famgadurákh_, deep in the rock, where the whole population can be gathered and sealed off from an attacker. It is provisioned with stored food and with shafts and channels for light and air, so the hold can hold out for a long time. Defense is always a consideration, and a hold's founding is not complete until its refuge is found and readied.
 
 Ordinary life happens near the light, in the shallow homes and the courts between them. People go down into the mountain for funerals, festivals, oaths and worship, and in times of war or catastrophe. A Khazár who is asked to come down is being told that something serious is about to happen.
 
@@ -69,13 +69,13 @@ Before any cut, a worker listens. She taps the stone and hears how it rings, loo
 
 ## Freeing the Ore
 
-Mining is central to Khazári life and is not in tension with the listening ethic. Ore and minerals are necessary and desirable, and freeing them from the stone is honourable work. It is done in an old and almost ritual manner, by techniques that do the stone as little harm as they can.
+Mining is central to Khazári life. Ore and minerals are necessary and desirable, and freeing them from the stone is honorable work. It is done in an old and almost ritual manner, by techniques that do the stone as little harm as they can.
 
 Tunnels follow the rock's own lines, so the stone provides its own buttressing. That lets the Khazári drive long tunnels without timber or masonry supports, and a _narvavutám_, a long tunnel that needs no prop, is the miner's masterpiece. A mine that needs propping shows that the miners did not listen, and a prop, a _sakap_, is a mark of shame on the working and on the name in its record. The mines Khazári engineers lay out for [[affiliation-tanvurempr|Tānvür]] follow the rock in the same way and need no timber.
 
 ## Years of Listening
 
-Apprenticeship begins with listening, _samgh_. An apprentice, a _nabaf_, spends years learning to read stone (its kinds, its flaws, its stresses and its moods) before being trusted to strike it. The first years are spent sounding stone, following seams, watching masters decide where not to cut, and writing down what the stone did. An apprentice who asks too early for a hammer is told to listen another year, and taught the proverb _Dalkir sumágh-ak dalkam, dalkir khusáp-ak_: "the mason listens to the stone; the mason cuts little".
+Apprenticeship begins with listening, _samgh_. An apprentice, a _nabaf_, spends years learning to read stone (its kinds, its flaws, its stresses and its moods) before being trusted to strike it. The first years are spent sounding stone, following seams, watching masters decide where not to cut, and writing down what the stone did. An apprentice who asks too early for a hammer is told to listen another year, and taught the proverb _Dalkir sumágh-ak dalkam, dalkir khusáp-ak_: "the mason listens to the stone; the mason cuts little."
 
 The ladder of a life follows the same order:
 
@@ -83,20 +83,20 @@ The ladder of a life follows the same order:
 - **Apprentices** listen, read and record, and strike nothing that matters.
 - **Workers** strike under a master's eye, enter their own cuts in the record, and swear their first oaths in the deep.
 - **Masters** strike as a master does, _thummár_, and are trusted with the first cut of a passage, the reading of a new cave and the teaching of apprentices.
-- **The old**, whose hands fail before their ears do, teach listening and keep the records, and their judgement on a doubtful face is often asked for before a master's.
+- **The old**, whose hands fail before their ears do, teach listening and keep the records, and their judgment on a doubtful face is often asked for before a master's.
 - **The dying** set their work in order: what is finished is warranted, what is unfinished is given to someone who undertakes to take it up.
 
 ## The Master Admired
 
 The admired Khazár man is a master miner or mason whose finest work cannot easily be found. He drives a long tunnel without one prop, leaves a hall standing on the pillars the rock offered, and opens a stair with three cuts where a lesser hand would have made thirty. He listens longer than anyone else in the workshop and talks less. His craft-record is short, clean and full of the mastery frame, and nobody in it ever had to carry his rubble away.
 
-What makes him admired rather than merely skilled is restraint under pressure. When a passage is needed quickly, when a house wants a larger hall, when a hold's elders want a working opened sooner, he says what the rock will give and refuses the rest.
+He is admired for restraint under pressure. When a passage is needed quickly, when a house wants a larger hall, when a hold's elders want a working opened sooner, he says what the rock will give and refuses the rest.
 
 ## The Finder Admired
 
-The admired Khazári woman is a finder, a _fakarir_: the one who reads a mountain from outside and says where its caves run, where its water moves and which face will take a home. A hold's founding is the finding of its cave, so a finder's judgement is what every later generation lives inside. She knows limestone and its hollows, granite and its joints, where a spring will come through and where a cliff will shed in frost.
+The admired Khazári woman is a finder, a _fakarir_: the one who reads a mountain from outside and says where its caves run, where its water moves and which face will take a home. A hold's founding is the finding of its cave, so a finder’s judgment is what every later generation lives inside. She knows limestone and its hollows, granite and its joints, where a spring will come through and where a cliff will shed in frost.
 
-Her standing does not borrow from anyone else's. Khazári women carry beards as men do, hold the same crafts, and are named from the same skeletons, and the senior craft of a hold descends through sisters as readily as through brothers. A finder is honoured because a hold is only as sound as the cave it was given.
+Her standing is her own. Khazári women carry beards as men do, hold the same crafts, and are named from the same skeletons, and the senior craft of a hold descends through sisters as readily as through brothers. A finder is honored because a hold is only as sound as the cave it was given.
 
 ## Words for Stone, Two Forms of Letters
 
@@ -123,7 +123,7 @@ Formal worship is done below. Each hold keeps its shrines, _huzafal_, and its de
 The Khazári year is marked by the occasions on which the whole hold goes down.
 
 - **The turning of the year.** The hold goes down to its deepest hall for a night, lamps are lit there, and the year's craft-records are read. The rite renews the hold's accord with its mountain, and the [[lore-vardain|Vardain]] beneath [[place-vorgald|Vorgald]] mark it in their own calendar.
-- **The finding.** On the day its cave was found, a hold remembers its finder and reads its founding inscription. The feast exists to remind the hold that it was given, not made.
+- **The finding.** On the day its cave was found, a hold remembers its finder and reads its founding inscription. The feast reminds the hold that its cave was given to it.
 - **The reading of the account.** At its appointed intervals the account of Khazártúrn's fall is read aloud below. It is the hold's reminder of what it must prevent.
 - **Oath-days.** Undertakings that bind a house or a hold, the admission of an apprentice to strike, and the swearing of a worker to a house's craft are made below, and the oath is cut where it was spoken.
 
@@ -133,59 +133,69 @@ Joy is ordinary and lives near the light. Marriages, namings and the finishing o
 
 Rewards rise in a plain order: a mark of mastery beside a name in the craft-record; the first cut of a new passage; the work of a founding or a refuge; a place among those who keep the hold's rites below; and, rarest of all, a **new house name**, compounded for the occasion by the elders of several holds together for an accomplishment no existing house can account for. That last happens perhaps twice in a century, and it founds a line.
 
-Punishments run the other way. A clumsy cut is entered against its maker's name. Graver or repeated forcing obliges the maker to repair it, at his own labour, under another house's eye. Beyond that a worker's tools are set aside and he is returned to listening, which is a public demotion to the apprentice's rung. A person who breaks an oath sworn below is barred from going down: no festival, no oath, no shrine. The gravest sentence is **exile** from the hold. An exile has no house, no hold and no refuge, and some exiles live by selling to humans what a hold would not have sold.
+Penalties run the other way, and an apprentice learns them in the order he is likely to meet them. Your first clumsy cut goes into the record against your name, and it stays there. Force a cut again, or force a graver one, and you repair it yourself, at your own labor, with a master of another house watching you work. Go on forcing and your tools are set aside: you are returned to listening, on the apprentice's rung, in front of everyone who saw you leave it. Break an oath you swore below and you may not go down again—no festival, no oath, no shrine. Past all of that lies **exile** from the hold. An exile has no house, no hold and no refuge, and some exiles live by selling to humans what a hold would not have sold.
 
 ## The Elders of the Houses
 
-Civil and religious authority are one institution wearing both hats. A hold is governed by the elders of its houses together, and the same elders lead the rites below. Humans who deal with a hold speak of a lord of the mountain; inside, there is the council of the elders.
+Humans who deal with a hold speak of a lord of the mountain. Inside the rock you answer to the council of the elders: a hold is governed by the elders of its houses sitting together, and the same elders lead the rites below. The faces that judge your quarrel in the deep hall are the faces you see by lamplight at the turning of the year.
 
-The elders try a case in the deep hall, with the craft-records read. The hold's archive keeps every record, and its keepers read them aloud in judgement. Each house contributes labour, a share of its work and a share of what comes up from the gate to the hold's common stores, including the caches of the refuge. A dispute within a house belongs to its elders, a dispute between houses to the council of the hold, and a matter that crosses holds to the elders of several holds together. Where a record and an elder disagree, the record stands, and the elder who misremembered answers for it.
+Which elders hear you depends on whom you quarrel with. A dispute inside your own house goes to its elders; a dispute with another house goes to the council of the hold; a matter that crosses holds goes to the elders of several holds together.
+
+Say your house and a neighbor's both claim the credit for a passage, or both deny the blame for one. The case is tried in the deep hall. The hold's archive keeps every craft-record, and its keepers bring up the ones that bear on the case and read them aloud, and the elders judge from what is read. Where a record and an elder's memory disagree, the record stands, and the elder who misremembered answers for it. When you are called to speak, speak to what is written.
+
+Your house also pays into the hold's common stores: labor, a share of its work and a share of what comes up from the gate. Part of what it pays goes down to the refuge and waits there in the caches.
 
 ## The Cut Outlasts the Cutter
 
 The Khazári hold that the dead go down into the mountain's keeping, to the light that endures in deep places. What a person leaves behind is the work: every cut stays in the stone, and every cut stands to its maker's account for as long as the stone stands. A dead Khazár is answerable for a clumsy passage as long as the passage is walked.
 
-That belief makes the ordinary week. It is why every finished piece is signed and warranted, why a worker would rather leave a job undone than do it badly, why old work is repaired before new work is begun, and why the craft-records are kept with a care no human archive matches. It reaches inheritance: a house inherits its dead's tools as memorial objects and their unfinished work as an obligation. It reaches burial: the dead are laid deep, in tombs the hold prepares, with their names cut in carved Pirzath. And it reaches spending: what a Khazár puts effort into is not a tomb's furnishing but keeping the dead's work sound.
+That belief makes the ordinary week. It is why every finished piece is signed and warranted, why a worker would rather leave a job undone than do it badly, why old work is repaired before new work is begun, and why the craft-records are kept with a care no human archive matches. It reaches inheritance: a house inherits its dead's tools as memorial objects and their unfinished work as an obligation. It reaches burial: the dead are laid deep, in tombs the hold prepares, with their names cut in carved Pirzath. And it reaches spending: a house spends its effort on keeping the dead's work sound and little on furnishing a tomb.
 
-At a funeral the hold goes down and keeps silence over the dead, _khullán_. The silence is broken only by the words also said over finished work: _Ramk kr-na-sumád, ramk na-thumár-aktor_, "the course has been raised; the course will be struck".
+At a funeral the hold goes down and keeps silence over the dead, _khullán_. The silence is broken only by the words also said over finished work: _Ramk kr-na-sumád, ramk na-thumár-aktor_, "the course has been raised; the course will be struck."
 
 ## Keeping the Work of the Dead
 
 The living can mend a dead person's account, and they do it with their hands. A descendant who repairs a forebear's flawed cut, or finishes work the dead person left undone, sets the forebear's record right. That is what a child named with the _i_ vowel is for: the given name lays on that child the work of a named forebear, taken up again.
 
-The dead reach the living the same way. A forebear's sound work shelters a house for generations; a forebear's forced passage is a fault the house must answer for until it is mended. No intermediary stands between, and nobody charges a fee. The house that holds the work does the work, and the archive records that it was done.
+The dead reach the living the same way. A forebear's sound work shelters a house for generations; a forebear's forced passage is a fault the house must answer for until it is mended. The house that holds the work does the work with its own hands, and the archive records that it was done.
 
 ## What a Person Owes
 
-A Khazár owes the mountain a light hand, the house his work, the hold a share of its stores and its defence, the dead the keeping of their work, and his teachers his patience. He owes an oath sworn below its keeping and the refuge his place in it when the hold is sealed.
+Count your debts the way an elder counts them for a new apprentice, from the rock inward. You owe the mountain a light hand, because every cut you make, it keeps. You owe your house your work, and the hold a share of its stores and your part in its defense. You owe the dead the keeping of their work: when a forebear's stair cracks, the mending is yours. You owe your teachers patience, which in your first years means another year of sounding stone when you are sure you are ready for the hammer. You owe an oath sworn below its keeping, and when the hold is sealed, you owe the refuge your place in it.
 
-In return he is owed a house and a place inside the rock, a teacher who will not let him strike too soon, a share of the hold's food and a place in its refuge, and when he dies a tomb in the deep and a descendant to take up his unfinished work.
+Then turn the hand over. The hold owes you a house and a place inside the rock, a teacher who will not let you strike too soon, a share of its food and a place in its refuge. When you die, it owes you a tomb in the deep and a descendant to take up whatever you left unfinished.
 
 ## No One Outside the Rock
 
-Inside a hold no one is homeless. Every Khazár belongs to a house, and every house has its rooms on the face. Orphans are raised by their father's house, with their mother's house beside it; a widow remains of her own house and keeps her place there, and the house of her children shares her keep. This is duty, not kindness, because a house that fails its own is entered in the record as surely as a clumsy cut.
+No Khazár sleeps in a doorway. Every Khazár belongs to a house, and every house has its rooms on the face.
 
-The only Khazár without a roof is an exile, and that is the punishment's whole force.
+Say a mason of your house dies in the workings and leaves a widow and two small children. The children are raised by their father's house—your house—with their mother's house beside it, so they grow up at home in both. Their mother remains of the house she was born to and keeps her place there, and your house shares her keep because her children are yours. The record holds your house to all of it: a house that fails its own is entered there as surely as for a clumsy cut.
+
+The only Khazár without a roof is an exile. That is the whole force of the sentence: no house takes him in, no hold feeds him, and when the hold is sealed he has no place in the refuge.
 
 ## The One Who Cannot Strike
 
-A Khazár injured past working goes on listening. Ears and judgement outlast hands, and a worker who can no longer strike becomes a teacher of apprentices, a reader of faces for the finders, or a keeper of records. His house feeds him; the hold's stores feed his house when it cannot.
+If your hands fail you—a wrist crushed in the workings, a hand burned at the forge, fingers that stiffen with age while your ears stay sharp—you go on listening. Ears and judgment outlast hands. A worker who can no longer strike teaches apprentices, reads faces for the finders, or keeps the records. Your house feeds you, and when it cannot, the hold's stores feed your house.
 
-A hold that eats only what its farmers send up is never far from a hungry year. When the harvest at the gate fails, the elders open the refuge caches and apportion them by need, and the caches are replenished first when the harvest comes back.
+A hold grows nothing of its own and eats what its farmers send up to the gate, so it is never far from a hungry year. When the harvest fails, the elders open the refuge caches and apportion them by need: a household with four mouths and one pair of working hands draws more than the household beside it. When the harvest comes back, the caches are filled again before anything else.
 
 ## House, Hold, Refuge
 
-When a family cannot provide, the house does; when the house cannot, the hold does. Teaching beyond a house's own craft comes from the masters of other houses, who take apprentices in exchange for what the record shows of them later. Defence is the whole hold's charge: the watch on the approaches, the refuge and its stores, and the hold's war against [[lore-grukarfolk|Grukar]], whom the Khazári kill on sight everywhere because they are the weapon that destroyed Khazártúrn.
+Help comes from the nearest ring first. A family short of bread in a lean month turns to its house, and only when the house's own share runs thin does the hold's common store make up the rest.
+
+Teaching works the same way. Say your house holds a forge, and you have the ear for reading a cave. Your own masters cannot teach what their craft does not hold, so a master of another house takes you as apprentice, and the payment is what the craft-record shows of you in the years after.
+
+Defense is the whole hold's charge: the watch on the approaches, the refuge and its stores, and the war against the [[lore-grukarfolk|Grukar]]. Kill a Grukar on sight, wherever you meet one, inside your own valleys or far beyond them. The Grukar are the weapon that destroyed Khazártúrn, and you have heard the account of that fall read aloud in the deep.
 
 ## Clan, House and Line
 
-The Khazári came to Thalorna as seven clans, and every Khazár can recite a line back to one of the seven. A **house** is a line within a clan, named for the craft it holds, and the house, not the couple, is the unit of family. A house name descends from father to child and never changes. Marriage joins two houses without moving either spouse out of the house of their birth, so a woman of one house remains of it all her life and her children carry their father's. Membership is by birth into a house, and loss of it comes only by exile.
+The Khazári came to Thalorna as seven clans, and every Khazár can recite a line back to one of the seven. A **house** is a line within a clan, named for the craft it holds, and the house is the unit of family. A house name descends from father to child and never changes. Marriage joins two houses without moving either spouse out of the house of their birth, so a woman of one house remains of it all her life and her children carry their father's. Membership is by birth into a house, and loss of it comes only by exile.
 
 A given name is chosen by the elders of the house, who answer for the choice, because a name is a charge laid on the child.
 
 ## Seen From the Face
 
-A Khazári hold is not secret, but its inner life runs through the inner passages. Visitors see the face; being brought inside is an act of trust, _tamk_, and it is rarely extended. An outsider, a _vagaz_, who comes too close is turned away or ignored.
+A hold hides nothing on its face, and its inner life runs through passages a visitor never walks. Visitors see the face; being brought inside is an act of trust, _tamk_, and it is rarely extended. An outsider, a _vagaz_, who comes too close is turned away or ignored.
 
 The Vardain show the rule at the scale of a people. They have farmed for Vorgald for thousands of years and see its engineers at work in their valleys every day, and they are not invited in. When the plain fell, the Khazári admitted the refugees to the valleys beneath the hold; that admission, and the protection that goes with it, is the largest thing the Khazári have done for humans.
 
