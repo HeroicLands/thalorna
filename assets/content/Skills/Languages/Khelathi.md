@@ -353,21 +353,23 @@ What a commoner's byname names when it names a trade rather than a place.
 
 ### Temple, arcane and cosmology
 
-| Word        | Sense                               |
-| ----------- | ----------------------------------- |
-| `lekhau`    | sacred power                        |
-| `zethu`     | writing                             |
-| `nelgir`    | god                                 |
-| `halzi`     | heart, account                      |
-| `igelu`     | the river                           |
-| `Zulaten`   | the realm of the dead               |
-| `Gethunu`   | the arcane order                    |
-| `Álgit`     | the Devourer of the Dead            |
-| `Qet Telgu` | the first occasion                  |
-| `zaglu`     | a figure that answers for its owner |
-| `Azlet`     | the season of flood                 |
-| `Gelet`     | the season of growing               |
-| `Shelu`     | the season of low water             |
+| Word        | Sense                                                |
+| ----------- | ---------------------------------------------------- |
+| `lekhau`    | sacred power                                         |
+| `zethu`     | writing                                              |
+| `nelgir`    | god                                                  |
+| `halzi`     | heart, account                                       |
+| `igelu`     | the river                                            |
+| `Zulaten`   | the realm of the dead                                |
+| `Gethunu`   | the arcane order                                     |
+| `Álgit`     | the Devourer of the Dead                             |
+| `Qet Telgu` | the first occasion                                   |
+| `selqur`    | a year of the count from the Qet Telgu               |
+| `Halzunet`  | the noon denials, the heart's account declared aloud |
+| `zaglu`     | a figure that answers for its owner                  |
+| `Azlet`     | the season of flood                                  |
+| `Gelet`     | the season of growing                                |
+| `Shelu`     | the season of low water                              |
 
 Weights and measures: `gezan`, `qelu` and its formal form `qezelet`, and `lagar`.
 
@@ -483,6 +485,32 @@ it claims a tie that does not exist. A title always takes the given name:
 ### Titles and Epithets
 
 Formal address involves extensive titulature; individuals of rank may have five to ten titles reflecting their position, accomplishments, and piety. These are often written before the personal name and may be abbreviated in daily speech but elaborated in formal or religious contexts.
+
+### Throne Names
+
+A Gar-Aû is crowned on Yath-Telgu under a throne name, and the throne name dates
+every contract, tax roll and temple record of the reign. **A throne name joins a
+name element to a god's house-form across the seam**, and the seam is what marks
+it: a given name never carries one, and a throne name always does. Before a
+house-form that opens on a vowel the seam stands alone; before one that opens on a
+consonant it takes the linking `el`, as a house name does.
+
+| Throne name      | Built from               | Sense                   |
+| ---------------- | ------------------------ | ----------------------- |
+| `Amqel'Uqa`      | `amqel` + `Uqa`          | beloved of the sun-lord |
+| `Zab'Uzner`      | `zab` + `Uzner`          | lord of the healer      |
+| `Anlagh'Uqa`     | `anlagh` + `Uqa`         | life of the sun-lord    |
+| `Gez'el'Qar`     | `gez` + `el` + `Qar`     | enduring in order       |
+| `Legir'el'Retha` | `legir` + `el` + `Retha` | fair in knowledge       |
+| `Quz'el'Psaqa`   | `quz` + `el` + `Psaqa`   | strong in the making    |
+
+**A throne name is used again, and the king-lists number its bearers across the
+whole list rather than within one house.** `Zab'Uzner` II reigned nearly two
+thousand years after the first `Zab'Uzner`, in a house that had no tie to his.
+
+A founder may keep his own given name as his throne name, seamless as it was, and
+the house after him keeps it in his honor. Every Gar-Aû of the reigning house has
+been crowned `Meqes`, which is why the reigning Gar-Aû is Meqes XVI.
 
 ### Institutional Names
 
