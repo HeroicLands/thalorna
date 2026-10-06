@@ -11,61 +11,23 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: council
+    model: autocracy
     summary: >-
-      A chapter of professed brethren under an elected Grand Master, all of them bound by the rule he enforces.
+      Cinder Hands under Senior Cinders, every one of them selected and assigned by the First Cinder, whom the surviving Senior Cinders choose.
     ranks:
-      - level: 0
-        title: Expelled
-        description: >-
-          Put out of the order, the habit taken back and the vows declared void; no house of it will receive them again.
       - level: 1
-        title: Servant
+        title: Cinder Hand
         description: >-
-          Attached to a house for its labor—its stables, its kitchens, its fields—and not of the order.
+          Selected from among the Ashen Vow's brothers and detached from its cells for good; the working operative, sent alone or in a small team.
       - level: 2
-        title: Postulant
-        description: Petitioning for admission and living under the rule on trial, bound by nothing yet.
+        title: Senior Cinder
+        description: >-
+          Coordinating the order's operations in a region and reporting directly to the First Cinder; four to six hold the rank at any time.
       - level: 3
-        title: Novice
-        lore: catechumenrnk
+        title: First Cinder
         description: >-
-          Received for a term of formation, under the rule and under a master of novices, and free to leave until profession.
-      - level: 4
-        title: Professed
-        description: >-
-          Vowed to the order for life, holding no property of their own and owing obedience to its officers.
-      - level: 5
-        title: Officer
-        description: Holding a charge of a house—its arms, its stores, its almsgiving, its chapel.
-      - level: 6
-        title: Commander
-        description: >-
-          Holding a house of the order, its brethren and its lands, and answerable for both to the chapter.
-      - level: 7
-        title: Preceptor
-        description: >-
-          Holding a province of the order—several houses—and sitting in the chapter that elects its head.
-      - level: 8
-        title: Grand Master
-        description: >-
-          Head of the order, elected by the chapter, bound by the rule he enforces and removable under it.
-    offices:
-      Grand Master: Head of the order, elected by the chapter and himself bound by the rule.
-      Preceptor: Holder of a province of the order, and an elector in the chapter.
-      Commander: Holder of a single house, its brethren and its lands.
-      Marshal: Master of the order's arms, horses and discipline in the field.
-      Seneschal: >-
-        Second to the Grand Master, holding the order's administration and standing for him in his absence.
-      Draper: >-
-        Keeper of the habit and equipment, whose issue marks a brother's standing as plainly as any rank.
-      Almoner: >-
-        Administrator of the order's charity, which is commonly the reason it was chartered at all.
-      Chaplain: >-
-        Keeper of the order's rites and of its brethren's souls, and not under the Marshal's discipline.
-      Master of Novices: Charged with formation, and with judging who may profess.
-      Treasurer: Keeper of the order's revenue, its endowments and its debts.
-      Standard-Bearer: Carrier of the order's banner, a charge given to a professed brother of proven service.
+          Head of the order, who selects every member and assigns its operations; chosen by the surviving Senior Cinders on the death or incapacity of the last.
+    offices: {}
   seat: null
   domains: []
   population: null
@@ -96,7 +58,7 @@ Members are not recruited; they are selected. The selection is made by the **Fir
 
 Refusal is rare. Acceptance is permanent.
 
-There are two ranks:
+There are two ranks beneath the First Cinder:
 
 - **Cinder Hand** (_Manus Cineris_)—the working operative; assigned to operations by the First Cinder or by a Senior Cinder; operates alone or in small teams.
 - **Senior Cinder** (_Senior Cineris_)—coordinates regional operations; reports directly to the First Cinder; perhaps four to six at any time.

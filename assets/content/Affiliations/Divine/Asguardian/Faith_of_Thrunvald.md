@@ -251,6 +251,7 @@ over those sailing onward.
 ### High Ceremonies
 
 - **The Hammer's Vigil:** A ceremony where high priests stand guard over sacred relics, calling upon Thrúnvald's protection through the night.
+- **The Reaver's Thanksgiving:** The high rite of Thrúnvald's own calendar, kept between the four great seasonal blóts of the Asguardian year.
 
 ### Festivals
 

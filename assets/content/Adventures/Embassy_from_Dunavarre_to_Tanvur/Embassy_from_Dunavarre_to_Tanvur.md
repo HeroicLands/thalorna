@@ -20,6 +20,7 @@ data:
     - ilaraluavel
     - nhelynvelthravel
     - alanoreneavel
+    - aelithraenewyn
     - geldarpanivel
     - lheteklarnavel
     - rickarluavel
@@ -32,7 +33,7 @@ data:
 
 This campaign is composed of a series of adventures. Players will be members of the mission, either taking over current characters, replacing them with their own, or as staff for the main mission members.
 
-**Central Mission:** The objective is for the [[affiliation-kingdmdnvr|Kingdom of Dunavarre]] to develop independent diplomatic relations with the [[affiliation-tanvurempr|Empire of Tānvür]], located in Eastern Ankaris. Current diplomatic relations with the court in Tānvür are reliant on the [[affiliation-vylarinmpr|Vylarian Empire]] as an intermediary, and the king is concerned that this dynamic might not be to Dúnavarre's advantage. Internal and external threats create a web of intrigue, rivalries, and opportunities for manipulation.
+**Central Mission:** The objective is for the [[affiliation-kingdmdnvr|Kingdom of Dunavarre]] to develop independent diplomatic relations with the [[affiliation-tanvurempr|Empire of Tānvür]], located in Eastern Ankaris. Current diplomatic relations with the court in Tānvür are reliant on the [[affiliation-vylarinmpr|Vylarian Empire]] as an intermediary, and the [[affiliation-kingdmdnvr|Synod]], which commissions the embassy, is concerned that this dynamic might not be to Dúnavarre's advantage. Internal and external threats create a web of intrigue, rivalries, and opportunities for manipulation.
 
 ## Ambassador’s Party Members
 
@@ -41,23 +42,23 @@ This campaign is composed of a series of adventures. Players will be members of 
 **Name:** [[being-arancelavren|Sir Aran Célavren]]
 
 - **Role:** High-ranking knight and noble.
-- **Background:** An experienced diplomat and trusted advisor from the court of Dúnavarre.
-- \***\*Intrigue:\*\*** Recently promoted to his position, and some members of the court believe he owes his rapid ascent to secret dealings or favoritism. Sir Aran is driven by a need to prove his worth constantly, leading to strained relations within the party.
+- **Background:** An experienced diplomat and trusted advisor in the service of the Synod of Dúnavarre.
+- \***\*Intrigue:\*\*** Recently promoted to his position, and some in the Synod's service believe he owes his rapid ascent to secret dealings or favoritism. Sir Aran is driven by a need to prove his worth constantly, leading to strained relations within the party.
 
 ### Chamberlain
 
 **Name:** [[being-baridanalendavel|Baridan Aléndavel]]
 
 - **Role:** Responsible for managing the household and logistics.
-- **Background:** Known for his organizational skills and loyalty to Dúnavarre's nobility.
-- **Intrigue:** Baridan secretly resents Sir Aran's authority. He believes he deserved a higher position in the court due to his loyalty and hard work; making him susceptible to accepting bribes or conspiring against Sir Aran.
+- **Background:** Known for his organizational skills and loyalty to Dúnavarre and its Synod.
+- **Intrigue:** Baridan secretly resents Sir Aran's authority. He believes he deserved a higher position in the Synod's service due to his loyalty and hard work; making him susceptible to accepting bribes or conspiring against Sir Aran.
 
 ### Scribe/Clerk
 
 **Name:** [[being-elowyrnimavren|Elowyr Nimávren]]
 
 - **Role:** Ensures accurate record-keeping and correspondence.
-- **Background:** Trusted for his meticulous work and reliability in court records.
+- **Background:** Trusted for his meticulous work and reliability in the Synod's records.
 - \***\*Intrigue:\*\*** Engaged in a secret homosexual relationship with Loris of Taravel, which is against the moral teachings of Jánus. Deeply in love with Loris, he is unaware of Loris's true motives. Elowyr fears exposure could ruin both reputations and be leveraged for blackmail.
 
 ### Diplomatic Aides
@@ -192,15 +193,15 @@ The Vylarian Empire currently serves as the sole intermediary for diplomatic rel
 
 ## Adventure 1: The [[miscgear-heartofdhirikri|Heart of Dhiríkri]]
 
-Central Plot: The mission arrives at [[place-beravel|Béravel]], capital of Élavendre. At a party in Sir Aran’s honor, the Royal Loremaster of Élavendre, Alananor Enéwyn, expresses interest in sending a party to the [[lore-aralwen|Arálwen]] to retrieve an artifact. Sir Aran suggests members of his mission would be happy to assist. This undertaking will involve dealing with the [[affiliation-alndnwrdns|Áelendan Wardens]], who are likely to oppose such movements.
+Central Plot: The mission arrives at [[place-beravel|Béravel]], capital of Élavendre. At a party in Sir Aran’s honor, the Royal Loremaster of Élavendre, [[being-aelithraenewyn|Aelithra Enéwyn]], expresses interest in sending a party to the [[lore-aralwen|Arálwen]] to retrieve an artifact. Sir Aran suggests members of his mission would be happy to assist. This undertaking will involve dealing with the [[affiliation-alndnwrdns|Áelendan Wardens]], who are likely to oppose such movements.
 
 ### The Leader of Panepistemium:
 
-- Name: Alananor Enéwyn
+- Name: [[being-aelithraenewyn|Aelithra Enéwyn]]
 - Title: Royal Loremaster of Élavendre
-- Background: Alananor is a Mistress of the [[affiliation-ordoarcanis|Ordo Arcanis]] and a wealthy commoner from Béravel.
-- Ancient Scroll: Alananor possesses a recently discovered ancient scroll that mentions the Heart of Dhiríkri currently located within [[lore-aralwen|Úqua-Arálwen]]. Although the scroll is in poor condition and much of it is unreadable, it implies that music or sound has something to do with the artifact.
-- Time Navigational Device: Alananor provides the party with a device known as the Temporal Compass. This magical instrument helps navigate the time distortions within Úqua-Arálwen, allowing the party to move through the zone without losing weeks or months in the process. The Temporal Compass is an ornate, enchanted object that glows when pointed in the safest direction. It vibrates when getting closer to the Heart of Dhiríkri and stabilizes time distortions around the bearer by creating a slight field of temporal consistency.
+- Background: Aelithra is a Mistress of the [[affiliation-ordoarcanis|Ordo Arcanis]] and a wealthy commoner from Béravel.
+- Ancient Scroll: Aelithra possesses a recently discovered ancient scroll that mentions the Heart of Dhiríkri currently located within [[lore-aralwen|Úqua-Arálwen]]. Although the scroll is in poor condition and much of it is unreadable, it implies that music or sound has something to do with the artifact.
+- Time Navigational Device: Aelithra provides the party with a device known as the Temporal Compass. This magical instrument helps navigate the time distortions within Úqua-Arálwen, allowing the party to move through the zone without losing weeks or months in the process. The Temporal Compass is an ornate, enchanted object that glows when pointed in the safest direction. It vibrates when getting closer to the Heart of Dhiríkri and stabilizes time distortions around the bearer by creating a slight field of temporal consistency.
 
 ### Úqua-Arálwen
 

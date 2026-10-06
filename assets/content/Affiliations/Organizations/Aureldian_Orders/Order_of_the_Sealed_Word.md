@@ -15,59 +15,29 @@ data:
   governance:
     model: council
     summary: >-
-      A chapter of professed brethren under an elected Grand Master, all of them bound by the rule he enforces.
+      Sworn Brothers in chapter houses across the five kingdoms, with Senior Brothers on the Council of the Seal and a First Magister chosen by the Magisters of the houses.
     ranks:
       - level: 0
         title: Expelled
         description: >-
-          Put out of the order, the habit taken back and the vows declared void; no house of it will receive them again.
+          Put out of the order and the vows declared void; no chapter house of it will receive them again.
       - level: 1
-        title: Servant
+        title: Candidate
         description: >-
-          Attached to a house for its labor—its stables, its kitchens, its fields—and not of the order.
+          A sworn devotee of Jánus in the order's candidacy, commonly three years with substantial attrition, examined in arms, the law of binding oaths, trial-by-combat and the conduct of an oath-hearing.
       - level: 2
-        title: Postulant
-        description: Petitioning for admission and living under the rule on trial, bound by nothing yet.
+        title: Sworn Brother of the Seal
+        description: The working knight, riding a circuit or answering the petitions the chapter assigns.
       - level: 3
-        title: Novice
-        lore: catechumenrnk
+        title: Senior Brother
         description: >-
-          Received for a term of formation, under the rule and under a master of novices, and free to leave until profession.
-      - level: 4
-        title: Professed
-        description: >-
-          Vowed to the order for life, holding no property of their own and owing obedience to its officers.
-      - level: 5
-        title: Officer
-        description: Holding a charge of a house—its arms, its stores, its almsgiving, its chapel.
-      - level: 6
-        title: Commander
-        description: >-
-          Holding a house of the order, its brethren and its lands, and answerable for both to the chapter.
-      - level: 7
-        title: Preceptor
-        description: >-
-          Holding a province of the order—several houses—and sitting in the chapter that elects its head.
-      - level: 8
-        title: Grand Master
-        description: >-
-          Head of the order, elected by the chapter, bound by the rule he enforces and removable under it.
+          Elevated by chapter vote; may take wards, convene a formal oath-hearing independently, and sit on the Council of the Seal.
     offices:
-      Grand Master: Head of the order, elected by the chapter and himself bound by the rule.
-      Preceptor: Holder of a province of the order, and an elector in the chapter.
-      Commander: Holder of a single house, its brethren and its lands.
-      Marshal: Master of the order's arms, horses and discipline in the field.
-      Seneschal: >-
-        Second to the Grand Master, holding the order's administration and standing for him in his absence.
-      Draper: >-
-        Keeper of the habit and equipment, whose issue marks a brother's standing as plainly as any rank.
-      Almoner: >-
-        Administrator of the order's charity, which is commonly the reason it was chartered at all.
-      Chaplain: >-
-        Keeper of the order's rites and of its brethren's souls, and not under the Marshal's discipline.
-      Master of Novices: Charged with formation, and with judging who may profess.
-      Treasurer: Keeper of the order's revenue, its endowments and its debts.
-      Standard-Bearer: Carrier of the order's banner, a charge given to a professed brother of proven service.
+      First Magister: The order's chair, chosen by conclave of the Magisters for a fifteen-year term.
+      Magister of the Order: >-
+        Leader of a chapter house, presiding over its affairs and representing it before the Council of the Seal.
+      Councillor of the Seal: >-
+        One of the twelve Senior Brothers, drawn from the five kingdoms, who sit on the Council of the Seal and meet quarterly at Vénustria.
   seat: null
   domains: []
   population: null
@@ -94,7 +64,7 @@ The order is, in effect, a knightly enforcement arm for Jánus's covenant. Its s
 
 A candidate for the order must be a sworn devotee of Jánus, must be of sound character (an examination the order takes seriously, including discreet inquiry into the candidate's prior dealings), and must pass the order's examinations: martial competence, the law of binding oaths in Aurèldían tradition, the recognized procedures for trial-by-combat, the rhetorical conduct of an oath-hearing, and a personal interview before the **Council of the Seal**. The candidacy process typically takes three years, with substantial attrition.
 
-There are four working ranks:
+There are two working ranks above the candidacy, and two offices drawn from them:
 
 - **Sworn Brother of the Seal** (_Frater Signati_)—the working knight; rides his circuit or answers petitions assigned by his chapter.
 - **Senior Brother** (_Frater Senior_)—elevated by chapter vote; permitted to take wards (apprentices), to convene formal oath-hearings independently, and to sit on the Council of the Seal.
