@@ -35,6 +35,15 @@ many centuries to work out how.
 some of their own. The songs the [[affiliation-bardicolgs|Bardic Colleges]] treasure as Sinalëan gifts
 were, most of them, first heard here and carried out by Áelendan who had been given them freely.
 
+: From [[lore-seventowers|The Seven Towers]]
+
+```poetry {form=elegy lang=en}
+We do not build. We have never wished to; the forest builds itself,
+  and what we make we sing, and what we sing does not fall down.
+But we stood a long while in those ways and said nothing,
+  and among us there is no higher praise than that.
+```
+
 Whether the [[place-silvain|Silvain]] villagers a half-day west understand what they live beside is a
 matter on which the Sinalë have never been asked and the Áelendan decline to speculate.
 

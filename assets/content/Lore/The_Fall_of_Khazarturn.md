@@ -255,6 +255,18 @@ fountains, the birds—in snippets, in asides, in songs whose subject is not ann
 not build have carried the memory of the finest thing anyone ever built for three thousand
 years, and it comes out as elegy.
 
+: From [[lore-seventowers|The Seven Towers]]
+
+```poetry {form=elegy lang=en}
+And there were birds.
+  They came in at the shafts of light, and some of them stayed.
+They nested in the high galleries, on the ledges of the vaults,
+  and sang there in the mornings, and nobody drove them out;
+  the makers stepped around their feathers on the stairs.
+A hall that a bird will live in is not a room.
+  We said so to the makers once. They said they knew.
+```
+
 **That it was destroyed by a horde of Grukar compelled by a renegade.** They say this much plainly, and
 it is where every human account of the fall originates.
 
