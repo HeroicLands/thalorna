@@ -52,18 +52,18 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-## Gar-Qar'quzu (House of the Balance)
+"Before you certify a seal, know what you are answering for," a **Warden of Seals** tells a novice of the House. "If anyone ever finds that seal was bluff, the one who certified it answers. That is why we certify slowly."
 
-The House of the Balance holds the domain by which anything is made to stay as it was set: the
-oath that binds, the ward that stands, the seal that is not opened. Its work is the most
-conservative in the tradition and the most consequential, because an Order working done correctly
-outlives everyone who witnessed it.
+**Gar-Qar'quzu**, the House of the Balance, holds the domain by which anything is made to stay as it was set: the oath that binds, the ward that stands, the seal that is not opened. [[lore-qarquzu|Qar'quzu]] is the truth that judges, the order [[lore-qearetdty|Qe'âret]] imposed on the primordial dark, and the other domains work inside it. The House's work is the most conservative in the tradition and the most consequential, because a working in this domain, done correctly, outlives everyone who witnessed it.
 
-[[lore-qarquzu|Qar'quzu]]—the Truth that Judges—is the domain of law, judgment, binding, wards, oaths, and the weighing of the heart.
-It is one of the eight into which the [[lore-khelunulekha|Khelunu Lekhau]] partitions the Dýnaris—by function in the cosmic order rather than by substance, which is why no portion of it
-corresponds to any single Eídma of the western [[affiliation-hexhodai|Héx Hodäi]].
+## Two Offices
 
-### See Also
+The **Keeper of the Standing Forms** holds the House's authoritative copies of the binding formulae, and any inscription in dispute is checked against them. The Warden of Seals sets and certifies the seals on tombs, treasuries and archives. A certified seal carries the House's word, and a seal found to be bluff falls on the warden who answered for it.
 
+The House keeps the ladder all seven entered Houses share: a Wazu of the House who learns the forms and may not set them down, a Lekhau who may speak and inscribe them, and above them the lector and the chief lector.
+
+## See Also
+
+- [[lore-qarquzu|Qar'quzu]]—the domain
 - [[lore-khelunulekha|Khelunu Lekhau]]—the philosophy and the other seven domains
 - [[place-khelunu|Khelunu]]—where the Eight are taught

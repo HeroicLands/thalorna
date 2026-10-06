@@ -52,19 +52,18 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-## Gar-Athen'Uqa (House of the Disk)
+"Be in the courtyard before the disk clears the wall," a **Reader of the Hours** tells a novice at dawn. "The formula does not care that you slept badly."
 
-The House of the Disk holds the day half of the circuit: light and the seeing it permits, the heat
-that purifies, and the vitality and authority that flow from both. Its practitioners work in the
-open and at fixed hours, and its formulae are timed to the sun's position rather than to the
-practitioner's convenience.
+**Gar-Athen'Uqa**, the House of the Disk, holds the day half of the circuit: light and the seeing it permits, the heat that purifies, and the vitality and authority that flow from both. [[lore-athenuqa|Athen'Uqa]] covers kingship as well as the sun. Its practitioners work in the open and at fixed hours, and its formulae are timed to the sun's position, not to the practitioner's convenience.
 
-[[lore-athenuqa|Athen'Uqa]]—the Disk in its Heat—is the domain of light, sight, the heat of heaven, kingship, vitality, and the day. It is
-one of the eight into which the [[lore-khelunulekha|Khelunu Lekhau]] partitions the Dýnaris—by
-function in the cosmic order rather than by substance, which is why no portion of it corresponds
-to any single Eídma of the western [[affiliation-hexhodai|Héx Hodäi]].
+## Two Offices
 
-### See Also
+The Reader of the Hours fixes the exact moment a formula must be spoken, since the House's workings are bound to the sun's position and not to the practitioner's readiness. The **Purifier** conducts the cleansing of those spiritually stained: warriors who have killed, and any practitioner who has been seconded to [[affiliation-garzelgut|Gar-Zelgút]].
 
+The House is half a circuit. [[lore-ithnetau|Ithnetáu]], the night, completes it, and a lekhau who holds the day without the night can work only until sundown. [[affiliation-garithnetau|Gar-Ithnetáu]] holds the other half.
+
+## See Also
+
+- [[lore-athenuqa|Athen'Uqa]]—the domain
 - [[lore-khelunulekha|Khelunu Lekhau]]—the philosophy and the other seven domains
 - [[place-khelunu|Khelunu]]—where the Eight are taught

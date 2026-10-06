@@ -52,7 +52,17 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The second of Aû'Khelâthu's two hunt-patrons, paired with Linhur in every rite that matters. Gar'Nuw's senior elevations are conducted at both temples in tandem, and the god's patronage is understood to cover not merely the hunt's success but the manner of the killing.
+[[affiliation-linhur|Linhur]] watches the hunter, and **Linqur** watches the killing. The second of the two hunt-patrons of Aû'Khelâthu, Linqur is paired with Linhur in every rite that matters, and his patronage covers not only the hunt's success but the manner of the death.
 
-See [[affiliation-khelathpnthn|Khelâthi Pantheon]] for the temple hierarchy every
-Khelâthi cult shares.
+The **Scrutineer of the Kill** holds that scrutiny. A beast is to die with the speed and efficiency its nature permits, because wantonness in the killing offends the gods as much as the imperial order. A culler of [[affiliation-garnuw|Gar'Nuw]] who removes a crocodile from a village's water is answerable to this god for how quickly it was done.
+
+The pairing gives the two cults their shape. One god watches the man and the other the act, and a hunter answerable to both cannot satisfy either by intention alone. Gar'Nuw's senior elevations are conducted at both temples in tandem, and the **Witness of the Elevation** conducts the Linqur half of the rite. The elevation does not count until the Linhur half has been done too.
+
+The cult keeps the same temple ladder as every other selat god's.
+
+## See Also
+
+- [[lore-linqurdty|Linqur]]—the god
+- [[affiliation-linhur|Faith of Linhur]]—the paired cult
+- [[affiliation-garnuw|Gar'Nuw]]—the hunters' guild this cult and Linhur's found
+- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—the temple hierarchy every Khelâthi cult shares
