@@ -23,7 +23,7 @@ The fall of Haulonna is the most notorious deed of [[being-hlskmylsvrtrnr|Hluskm
 
 Under cover of night, Hluskmýl pierced the enclave's ancient wards—a feat that should have been impossible for a mortal, even a Helspawn one, and which suggests Náhild's direct intercession. Once inside, he carved black runes into the earth itself, corrupting the natural energies that bound the sanctuary together. The corruption spread like a sickness, twisting the ancient trees, poisoning the waters, and turning the wards that once protected the enclave into a cage that trapped its inhabitants.
 
-The Sinalë fought. Led by **Calenlass Vardamir**, a guardian of great age and power, they rallied to defend their home. But Hluskmýl's runic magic was specifically devastating to the natural and divine forces the Sinalë drew upon—their own magic turned against them, corrupted and weaponized. In a final confrontation, Calenlass faced Hluskmýl directly. The sorcerer, drawing upon the full power of Náhild, shattered the Sinalo's star-staff—a blow that broke both the guardian and the last of the enclave's defenses.
+The Sinalë fought. Led by **Ansorudhe Lonvunto**, a guardian of great age and power, they rallied to defend their home. But Hluskmýl's runic magic was specifically devastating to the natural and divine forces the Sinalë drew upon—their own magic turned against them, corrupted and weaponized. In a final confrontation, Ansorudhe faced Hluskmýl directly. The sorcerer, drawing upon the full power of Náhild, shattered the Sinalo's star-staff—a blow that broke both the guardian and the last of the enclave's defenses.
 
 Haulonna died that night. The ancient trees blackened and twisted. The clear waters turned dark. The spirits of the fallen Sinalë—scores of the Firstborn—were trapped in eternal torment, bound to the corrupted land by Hluskmýl's runes.
 
@@ -39,7 +39,7 @@ Among the Sinalë, the fall of Haulonna is a wound that has not closed. The dest
 
 Sinalëan agents—solitary, patient, and implacable—have been searching for a way to destroy Hluskmýl and free the trapped spirits of Haulonna. This is complicated by the nature of the corruption: Hluskmýl's runes have so thoroughly perverted the enclave's own magic that a direct assault risks destroying the imprisoned spirits rather than freeing them. The Sinalë are not a people who act in haste, but neither are they a people who forget.
 
-The spirit of Calenlass Vardamir is believed to endure within the necropolis, resisting Hluskmýl's control and working to undermine the sorcerer from within. If the reports are true, the fallen guardian may hold the key to unraveling the corruption—but reaching him would require entering the heart of Hluskmýl's domain.
+The spirit of Ansorudhe Lonvunto is believed to endure within the necropolis, resisting Hluskmýl's control and working to undermine the sorcerer from within. If the reports are true, the fallen guardian may hold the key to unraveling the corruption—but reaching him would require entering the heart of Hluskmýl's domain.
 
 ## Significance
 

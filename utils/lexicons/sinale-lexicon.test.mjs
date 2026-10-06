@@ -15,7 +15,11 @@ import {
     builtForm,
     cognates,
     computedFront,
+    harmonyOf,
+    opensOnRadical,
     ruleFrom,
+    shape,
+    worn,
 } from "./sinale-lexicon.mjs";
 
 const note = fs.readFileSync(NOTE, "utf8");
@@ -63,7 +67,7 @@ test("a given name ending on the stem's own last consonant is an error", () => {
     const vStem = [...rule.lexicon.values()].find(
         (row) => row.class.startsWith("n") && /v[aeiouyë]+$/.test(row.form),
     );
-    const ending = /[aou]/.test(vStem.form) ? "vo" : "vë";
+    const ending = harmonyOf(vStem.form, rule) === "back" ? "vo" : "vë";
     const forced = edited(
         `${name},`,
         `${vStem.written[0].toUpperCase()}${vStem.written.slice(1)}${ending},`,
@@ -74,9 +78,9 @@ test("a given name ending on the stem's own last consonant is an error", () => {
 test("a lineage name on an unworn stem is an error", () => {
     const { rule } = ruleFrom(note, lexicon);
     const stem = [...rule.lexicon.values()].find(
-        (row) => /^[ptk]/.test(row.form) && row.class === "n",
+        (row) => opensOnRadical(row.form, rule) && /[aeiouyë]$/.test(row.form) && row.class === "n",
     );
-    const hearth = /[aou]/.test(stem.form) ? "nto" : "ntë";
+    const hearth = harmonyOf(stem.form, rule) === "back" ? "nto" : "ntë";
     const lineage = `${stem.written[0].toUpperCase()}${stem.written.slice(1)}${hearth}—"${stem.gloss}"`;
     const heading = "### Lineage Names (Inherited Matrilineally)\n\n";
     const broken = edited(heading, `${heading}${lineage} `);
@@ -86,11 +90,11 @@ test("a lineage name on an unworn stem is an error", () => {
 test("a wrong-harmony prefix, a letter outside the inventory and an unlisted cluster are errors", () => {
     const broken = edited(
         "## Sample Phrases\n",
-        "## Sample Phrases\n\n- _hë-tuve_ and _tuvedo_ and _tuvenstra_\n",
+        "## Sample Phrases\n\n- _hë-tuve_ and _tuvebo_ and _tuvenstra_\n",
     );
     const lines = errorsOf(broken);
     assert(lines.some((line) => line.includes('the prefix "hë-"')));
-    assert(lines.some((line) => line.includes('holds "d"')));
+    assert(lines.some((line) => line.includes('holds "b"')));
     assert(lines.some((line) => /stacks [3-9] consonants/.test(line)));
 });
 
@@ -159,7 +163,11 @@ test("an attested name the register does not hold is an error", () => {
         (entry) => entry.name === one.name && entry.address === one.address,
     );
     assert(row, `the register holds "${one.name}"`);
-    const line = lexicon.split("\n").find((text) => text.startsWith(`| **${one.name}**`));
+    const line = lexicon
+        .split("\n")
+        .find(
+            (text) => text.startsWith(`| **${one.name}**`) && text.includes(`[[${one.address}\\|`),
+        );
     const broken = edited(`${line}\n`, "", lexicon);
     assert(lexErrorsOf(broken).some((text) => text.includes("does not register it")));
 });
@@ -167,11 +175,15 @@ test("an attested name the register does not hold is an error", () => {
 test("a register row in an undeclared tongue, on a missing note or misbuilt is an error", () => {
     const { rule } = ruleFrom(note, lexicon);
     const stem = [...rule.lexicon.values()].find(
-        (row) => row.class === "n" && /[aou]/.test(row.form) && !/m[aou]+$/.test(row.form),
+        (row) =>
+            row.class === "n" &&
+            harmonyOf(row.form, rule) === "back" &&
+            /[aeiou]$/.test(row.form) &&
+            !/d[aeiou]+$/.test(row.form),
     );
-    const name = `${stem.written[0].toUpperCase()}${stem.written.slice(1)}mo`;
+    const name = `${stem.written[0].toUpperCase()}${stem.written.slice(1)}dhe`;
     const address = rule.register[0].address;
-    const line = `| **${name}** | [[${address}\\|x]] | \`sinale\` | \`${stem.written}\` + \`-mo\` |`;
+    const line = `| **${name}** | [[${address}\\|x]] | \`sinale\` | \`${stem.written}\` + \`-dhe\` |`;
     const last = lexicon.trimEnd().split("\n").at(-1);
     const withRow = edited(last, `${last}\n${line}`, lexicon);
     assert.deepEqual(lexErrorsOf(withRow), []);
@@ -203,4 +215,40 @@ test("the cognate table must agree with the Khazári copy and with the case tabl
     assert(!absent.some((line) => line.includes(": error: ")));
     const caseDrift = edited("| `-ho`/`-hë`   |", "| `-hu`/`-hy`   |");
     assert(errorsOf(caseDrift, agreeing).some((line) => line.includes("the case table gives")));
+});
+
+test("a word of neutral vowels alone takes the harmony the vowel section names", () => {
+    const { rule } = ruleFrom(note, lexicon);
+    assert.equal(rule.neutralAs, "back");
+    assert.equal(harmonyOf("ressi", rule), "back");
+    assert.equal(harmonyOf("epyri", rule), "front");
+    const flipped = ruleFrom(
+        edited("neutral vowels counts as back", "neutral vowels counts as front"),
+        lexicon,
+    ).rule;
+    assert.equal(harmonyOf("ressi", flipped), "front");
+    const silent = edited("a word built only of neutral vowels counts as back", "it varies");
+    assert(ruleFrom(silent, lexicon).problems.some((text) => text.includes("neutral vowels")));
+});
+
+test("a sound that stands only after certain others stands nowhere else", () => {
+    const { rule } = ruleFrom(note, lexicon);
+    assert.deepEqual([...rule.bound.get("d")].sort(), ["l", "n", "r"]);
+    assert.deepEqual(shape("tuvendo", rule), []);
+    assert(shape("tuvedo", rule).some((text) => text.includes('holds "d" after "e"')));
+    assert(shape("tuvemdo", rule).length > 0);
+});
+
+test("a word opening on a digraph does not wear as the stop it starts with", () => {
+    const { rule } = ruleFrom(note, lexicon);
+    assert.equal(worn("thalve", rule), "thalve");
+    assert.equal(worn("tirvali", rule), "sirvali");
+    assert.equal(opensOnRadical("thalve", rule), false);
+    assert.equal(opensOnRadical("kalvi", rule), true);
+});
+
+test("a consonant digraph counts as one consonant in a cluster", () => {
+    const { rule } = ruleFrom(note, lexicon);
+    assert.deepEqual(shape("tuvelthe", rule), []);
+    assert(shape("tuvelthre", rule).some((text) => /stacks 3 consonants/.test(text)));
 });

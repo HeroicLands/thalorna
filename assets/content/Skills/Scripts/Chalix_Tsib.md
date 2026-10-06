@@ -33,7 +33,7 @@ Most of what is written is calendrical. The K'in of 365 days, the 260-day Tq'an,
 
 ## Who has it
 
-The **Ah Ts'ib**—scribe and painter, keeper of the glyphs and of the monuments that assert the genealogies—and the **Ah K'in**, priest of the sun and keeper of the count of days. Both rank with the high nobility of a city-state such as [[affiliation-balamkul|Balamkul]], and the office is hereditary in practice. Commoners know a few dozen glyphs: numerals, calendar markers, the titles of the men who own them. Nobody else reads at all, and this is enforced rather than merely customary.
+The **Ah Ts'ib**—scribe and painter, keeper of the glyphs and of the monuments that assert the genealogies—and the **Ah K'in**, priest of the sun and keeper of the count of days. Both rank with the high nobility of a city-state such as [[affiliation-balamkul|Ix'ilankul]], and the office is hereditary in practice. Commoners know a few dozen glyphs: numerals, calendar markers, the titles of the men who own them. Nobody else reads at all, and this is enforced rather than merely customary.
 
 ## In play
 

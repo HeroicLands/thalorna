@@ -18,7 +18,7 @@ The cities of the plateau are garrison-like. The priesthood claims large portion
 
 ## The Edge of the Road
 
-Messages from [[affiliation-balamkul|Balamkul]] that reach K'ankul in two days take five or six to reach K'uxi Balam's outpost cities, and beyond the realm the Speaking Road falls silent. Those who go south from here do so with offerings and prayers heavy on their lips. The sacred lake of [[place-ixkulkul|Ixkul K'ul]], said to be the eye of the world, is the realm's spiritual heart: the priesthood controls its waters entirely, and only those properly blessed may venture onto it.
+Messages from [[affiliation-balamkul|Ix'ilankul]] that reach K'ankul in two days take five or six to reach K'uxi Balam's outpost cities, and beyond the realm the Speaking Road falls silent. Those who go south from here do so with offerings and prayers heavy on their lips. The sacred lake of [[place-ixkulkul|Ixkul K'ul]], said to be the eye of the world, is the realm's spiritual heart: the priesthood controls its waters entirely, and only those properly blessed may venture onto it.
 
 ## See Also
 

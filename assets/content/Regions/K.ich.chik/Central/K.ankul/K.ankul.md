@@ -81,11 +81,11 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-K'ankul holds the land of [[place-kankulrgn|K'ankul Region]]. Where Balamkul is the militant heart and the seat of spiritual authority, K'ankul is the realm of knowledge and precision. Here, the Tq'an'ik (priestly initiates) labor for decades to perfect the astronomical tables carved into stone, calculating with near-perfect accuracy the cycles of K'inix'ilan, the star of dawn and dusk, the precession of the equinoxes, and the great wheel of the Long Count calendar that encompasses 5,125 years of cosmic time.
+K'ankul holds the land of [[place-kankulrgn|K'ankul Region]]. Where Ix'ilankul is the militant heart and the seat of spiritual authority, K'ankul is the realm of knowledge and precision. Here, the Tq'an'ik (priestly initiates) labor for decades to perfect the astronomical tables carved into stone, calculating with near-perfect accuracy the cycles of K'inix'ilan, the star of dawn and dusk, the precession of the equinoxes, and the great wheel of days that turns once in 5,125 years of cosmic time.
 
-K'ankul's political independence from Balamkul is carefully balanced. While the K'ul Tq'an and the [[affiliation-itzanpnthn|Itzáni]] priesthood maintain ultimate religious authority, K'ankul's greatest city-states have cultivated sufficient wealth and cultural prestige that they are treated as partners in the management of the faith rather than as mere tributaries. K'ankul's merchants control crucial sea routes along both coasts, and their mathematical and astronomical expertise is essential to the priestly calendar-keepers.
+K'ankul's political independence from Ix'ilankul is carefully balanced. While the K'ul Tq'an and the [[affiliation-itzanpnthn|Itzáni]] priesthood maintain ultimate religious authority, K'ankul's greatest city-states have cultivated sufficient wealth and cultural prestige that they are treated as partners in the management of the faith rather than as mere tributaries. K'ankul's merchants control crucial sea routes along both coasts, and their mathematical and astronomical expertise is essential to the priestly calendar-keepers.
 
-The Ch'um Ix'lan relay network connects K'ankul's major city-states to [[affiliation-balamkul|Balamkul]] within two days, and the priesthood-controlled coastal sacbe allows messages to circulate between K'ankul's own cities in a day or two. The Ch'umbal way-stations here are well-maintained and generously staffed—K'ankul's scribal tradition means that the priestly decoding of tz'ib'al is exceptionally swift, and K'ankul's astronomers frequently use the Speaking Road to transmit time-sensitive observational data to the central dispatch at Kul'taq'an.
+The Ch'um Ix'lan relay network connects K'ankul's major city-states to [[affiliation-balamkul|Ix'ilankul]] within two days, and the priesthood-controlled coastal white road allows messages to circulate between K'ankul's own cities in a day or two. The Ch'umbal way-stations here are well-maintained and generously staffed—K'ankul's scribal tradition means that the priestly decoding of tz'ib'al is exceptionally swift, and K'ankul's astronomers frequently use the Speaking Road to transmit time-sensitive observational data to the central dispatch at Kul'taq'an.
 
 ## City-States and Realms
 
@@ -97,7 +97,7 @@ The cenote-focused spirituality of K'ankul has produced a distinct tradition wit
 
 ## See Also
 
-- [[affiliation-balamkul|Balamkul]]—The highland plateau realm, supreme in religious authority and military might
+- [[affiliation-balamkul|Ix'ilankul]]—The highland plateau realm, supreme in religious authority and military might
 - [[affiliation-kiikbaate|Ki'ik Ba'ate]]—The isthmus gateway to the south, connected by K'ankul maritime routes
 - [[affiliation-tzikin|Tz'ikin]]—The eastern frontier accessible via K'ankul's coastal trading networks
 - [[affiliation-itzanpnthn|Itzáni Pantheon]]—The sacred framework that K'ankul scholars continue to refine and systematize
