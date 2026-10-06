@@ -3,7 +3,7 @@ shortcode: lowersuvtmpl
 name: {full: The Temple of Lower Suvarnagiri, aliases: []}
 type: place
 subType: structure
-description: "The Mahájaya temple at the foot of the mountain where the Bhārava proper begins, with the jewelers' quarter at its gate and the youngest of the three priests in its house."
+description: "The Mahājaya temple at the foot of the mountain where the Bhārava proper begins, with the jewelers' quarter at its gate and the youngest of the three priests in its house."
 tags: [sacred, temple, mountain, inland]
 data: {demonym: null, lore: [], parents: [suvarnagirijnpd], population: null, packFolder: vedyara}
 ---

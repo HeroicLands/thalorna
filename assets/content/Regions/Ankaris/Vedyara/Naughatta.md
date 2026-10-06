@@ -18,4 +18,4 @@ For eight months of the year **Naughatta** (1,600, market 3) is a town, and for 
 
 The port works for eight months and closes for four. When the rains come the bar is unworkable, the coasting ships are gone or are up the river, and what is left is a fishing village with an empty warehouse street. The warehouse-keepers stay through it. The stevedores are cultivators from the villages behind the dunes and go home to their fields.
 
-The landing is held by the temple of [[affiliation-mahajaya|Mahájaya]] at the town and by the sabhā of the janapada the town sits in, and the anchorage dues are the sabhā's largest single revenue. A master pays them on arrival and argues about them afterward, which is the custom of the place and is not resented.
+The landing is held by the temple of [[affiliation-mahajaya|Mahājaya]] at the town and by the sabhā of the janapada the town sits in, and the anchorage dues are the sabhā's largest single revenue. A master pays them on arrival and argues about them afterward, which is the custom of the place and is not resented.

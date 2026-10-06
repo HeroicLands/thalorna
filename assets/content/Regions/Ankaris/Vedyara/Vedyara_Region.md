@@ -36,7 +36,7 @@ Only six crossings are recognized along the entire range, and the routes and saf
 
 - [[place-meghadvara|Meghadvāra]], the storm-door, the westernmost crossing, shut from below by the monsoon.
 - [[place-gudesroad|The Guides' Road]], between the two western doors, with no fortress, toll, shrine or blessing.
-- [[place-suryadvara|Sūryadvāra]], the greatest of the passes, under the fortress-capital of [[place-suryagarha|Sūryāgarha]], forking beyond the throat for the Khazryn and for Tānvür.
+- [[place-suryadvara|Sūryadvāra]], the greatest of the passes, under the fortress-capital of [[place-suryagarha|Sūryagarha]], forking beyond the throat for the Khazryn and for Tānvür.
 - [[place-tamradvara|Tāmradvāra]], the copper-door, up [[place-slvrgorges|the Silver Gorges]] to the Khazryn's eastern marches.
 - [[place-jnanadvara|Jñānadvāra]], the scholars' door, the long crossing of the Eastern Reach to Tānvür's western frontier.
 - [[place-sankhadvra|Shankhadvāra]], the conch-door, the easternmost and worst, watched from [[place-sanghafort|the Sangha-fort]].
@@ -53,12 +53,12 @@ Four great rivers leave the ice at four glacier-springs, and the [[affiliation-v
 | --------------------------------- | ------------------------------------- | -------------------- | ------------------------------------------------------------------------------------------------ |
 | [[place-chandrmahi\|Chandramahī]] | [[place-chandrprbh\|Chandraprabhava]] | A delta on the south | The gem-road, and the city-state of [[place-chandrapur2             \| Chandrapur]] at its mouth |
 | [[place-sarvadarivr\|Sarvada]]    | [[place-sarvaprbhv\|Sarvaprabhava]]   | The east coast       | The bow-fort janapada upstream and the copyist towns below                                       |
-| [[place-mahanadi\|Mahānadi]]      | [[place-mahaprbhva\|Mahāprabhava]]    | The east coast       | The longest and most populous river, and the twelve-yearly **Mela**                              |
+| [[place-mahanadi\|Mahānadī]]      | [[place-mahaprbhva\|Mahāprabhava]]    | The east coast       | The longest and most populous river, and the twelve-yearly **Mela**                              |
 | [[place-bharavarivr\|Bhārava]]    | [[place-bhrvprbhav\|Bhāravaprabhava]] | The east coast       | The gold highlands, the temple forests and the pilgrim road                                      |
 
-The valleys hold wide fertile floodplains, and the Chandramahī delta carries two rice crops a year. The Mahānadi has changed its channel four times within written record and [[lore-drwnngseat|drowned a royal seat]] doing it, so the villages of the central plain sit on old levees and on mounds raised over generations.
+The valleys hold wide fertile floodplains, and the Chandramahī delta carries two rice crops a year. The Mahānadī has changed its channel four times within written record and [[lore-drwnngseat|drowned a royal seat]] doing it, so the villages of the central plain sit on old levees and on mounds raised over generations.
 
-Between the rivers lie forests and the high, semi-arid tableland of [[place-vandhyabhumi|Vandhyabhūmi]], where wells are property and the ground is not, and where the ruined capital of [[place-madhavendra|Mādhavendra]] stands on open pasture. The lower Bhārava runs through [[place-bharavavana|Bhāravavana]], six hundred miles of tropical forest held in temple estates. Below the Eastern Reach lies [[place-forestnoroad|the Forest of No Road]], which no janapada has ever sent an assembly into.
+Between the rivers lie forests and the high, semi-arid tableland of [[place-vandhyabhumi|Vandhyabhūmi]], where wells are property and the ground is not, and where the ruined capital of [[place-madhavendra|Madhusthāna]] stands on open pasture. The lower Bhārava runs through [[place-bharavavana|Bhāravavana]], six hundred miles of tropical forest held in temple estates. Below the Eastern Reach lies [[place-forestnoroad|the Forest of No Road]], which no janapada has ever sent an assembly into.
 
 ## Three Coasts
 
@@ -79,7 +79,7 @@ No ruler speaks for Vedyara. Most of its people live in janapadas, small temple-
 | Polity                                           | Form                              | People     | Holds                                                |
 | ------------------------------------------------ | --------------------------------- | ---------- | ---------------------------------------------------- |
 | [[affiliation-janpdsvdyr\|Janapadas of Vedyara]] | Confederation of temple-republics | 84,250,000 | Most of the river valleys, uplands and inland forest |
-| [[affiliation-vindhyalay\|Vindhyālaya]]          | Kingdom                           | 8,000,000  | The northern highlands and the great passes          |
+| [[affiliation-vindhyalay\|Shikharālaya]]         | Kingdom                           | 8,000,000  | The northern highlands and the great passes          |
 | [[affiliation-chandrapur\|Chandrapur]]           | City-state under a Mahārāja       | 6,000,000  | The lower Chandramahī and its delta                  |
 | [[affiliation-vyalendra2\|Vyālendra]]            | City-state under a guild council  | 6,000,000  | The cotton and indigo valleys of the south           |
 | [[affiliation-bhrvdvbhog\|Bhārava-Devabhoga]]    | Temple estates                    | 2,400,000  | The forest of the lower Bhārava                      |
@@ -107,6 +107,6 @@ The [[being-vdyrnrhn|Vedyaran rhinoceros]] keeps to the marshes and tall grass o
 - [[place-bharavavana|Bhāravavana]]—the lower Bhārava forest
 - [[place-suryasamdra|Sūrya-samudra]], [[place-meghsamdra|Megha-samudra]] and [[place-sandhysmdr|Sandhyā-samudra]]—the three surrounding seas
 - [[lore-vedyariclt|Vedyari]]—the culture of the subcontinent
-- [[lore-mdhvndrcnt|The Mādhavendra Count]]—the year Vedyara keeps
-- [[lore-stndrdmdhv|The Standardization at Mādhavendra]]—the reign the count begins from
+- [[lore-mdhvndrcnt|The Madhusthāna Count]]—the year Vedyara keeps
+- [[lore-stndrdmdhv|The Standardization at Madhusthāna]]—the reign the count begins from
 - [[lore-hndrdbnnrs|The Storm of the Hundred Banners]], [[lore-conchdoor|The Conch-Door Incursion]] and [[lore-thirdcmpct|The Third Compact]]—the crisis generation of four centuries ago

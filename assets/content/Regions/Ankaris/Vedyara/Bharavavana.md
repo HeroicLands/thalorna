@@ -22,7 +22,7 @@ The [[place-vedyarargn|region's]] own reckoning counts it as the southern tropic
 
 ## The Bounds
 
-The forest begins where the Bhārava leaves [[place-suvarnagirijnpd|Suvarnagiri]]'s panning grounds and slows, and it ends where the last of the canopy gives out among the rice ground of the coastal plain. It is bounded north and east by the shoulder of the [[place-graznmntns|Grazian]] foothills and west by the drier scrub of the [[place-mahanadi|Mahānadi]]'s eastern watershed, where the trees thin out over about thirty miles and the janapadas begin again.
+The forest begins where the Bhārava leaves [[place-suvarnagirijnpd|Suvarnagiri]]'s panning grounds and slows, and it ends where the last of the canopy gives out among the rice ground of the coastal plain. It is bounded north and east by the shoulder of the [[place-graznmntns|Grazian]] foothills and west by the drier scrub of the [[place-mahanadi|Mahānadī]]'s eastern watershed, where the trees thin out over about thirty miles and the janapadas begin again.
 
 Above the highlands the river runs out of the mountain through country of a different kind. That upper forest, [[place-forestnoroad|the Forest of No Road]] below [[place-estrnreach|the Eastern Reach]], is not endowed to anybody. No estate has ever been cut there, no temple has claimed it, and the boundary between the two forests is exactly the boundary of the last estate on the upper river.
 

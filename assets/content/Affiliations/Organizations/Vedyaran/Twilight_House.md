@@ -95,7 +95,7 @@ The curriculum is famously rigorous. A graduate recites classical Vedyaran poetr
 
 ## Notable Affiliates
 
-- [[being-chndrkrtsndrjyvl|Chandrakîrtisundarî Jayavallî]]: a Companion of growing prominence, recruited into the [[affiliation-adanasreni|Ādānashrenī]] through Twilight House connections. She walks an increasingly precarious line between three masters, her clients, the House and the Guild.
+- [[being-chndrkrtsndrjyvl|Chandrakīrtisundarī Jayavalli]]: a Companion of growing prominence, recruited into the [[affiliation-adanasreni|Ādānashrenī]] through Twilight House connections. She walks an increasingly precarious line between three masters, her clients, the House and the Guild.
 - The Mistress of the Long Evening: the present holder is unnamed in public records. She is widely believed to be a former courtesan once celebrated as the most accomplished of her generation, withdrawn from clients twenty years ago.
 
 ## Intelligence Operations

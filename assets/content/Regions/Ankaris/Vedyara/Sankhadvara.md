@@ -22,7 +22,7 @@ Commerce does not use it. Two or three parties a year go over, and in a bad year
 
 Four centuries ago a Tānvüri-backed adventurer came through this door with a few hundred men behind him, in [[lore-conchdoor|the Conch-Door Incursion]], and the [[affiliation-janpdsvdyr|Mahā-Sangha]] raised the last army the temple-republics have ever raised to put him back out of it. What the janapadas took from the affair was not a victory but a precedent, and they have been jealous of it ever since: [[place-sanghafort|the Sangha-fort]] on the col is the only standing garrison the confederation maintains, it has never been withdrawn, and the question of who may raise armed men in the name of the whole is settled by the fact that this one exists.
 
-[[affiliation-vindhyalay|Vindhyālaya]] reads the fort as a rival's outpost inside a frontier the kingdom considers its own to watch, and says so at every Mela.
+[[affiliation-vindhyalay|Shikharālaya]] reads the fort as a rival's outpost inside a frontier the kingdom considers its own to watch, and says so at every Mela.
 
 ## The Crossing Itself
 

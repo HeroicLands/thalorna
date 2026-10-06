@@ -1,6 +1,6 @@
 ---
 shortcode: svapnadevas
-name: {full: Svapnadēvas, aliases: [The Dreaming Host, The Celestial Host of Dreams]}
+name: {full: Svapnadevas, aliases: [The Dreaming Host, The Celestial Host of Dreams]}
 type: affiliation
 subType: faithtradition
 description: "The celestial court, a host of spirits who weave dreams, carry omens, and stand between mortal minds and the divine order."
@@ -45,7 +45,7 @@ data:
 sohl: {system: {commonSkills: [sohl-sohl-skill-folklr, sohl-sohl-skill-sing]}}
 ---
 
-## Svapnadēvas—The Dreaming Host
+## Svapnadevas—The Dreaming Host
 
 - **Domain:** visions, omens, prophecy, the inner life of sleep
 - **Symbol:** A crescent moon cradling a lotus stem
@@ -54,7 +54,7 @@ sohl: {system: {commonSkills: [sohl-sohl-skill-folklr, sohl-sohl-skill-sing]}}
 
 "Say it before you eat, and say it to someone. A dream nobody has heard is half a dream." The grandmother of a devout household says it to the grandchild who woke too early and is already reaching for the bread. Then she listens. In households that keep the **Host**, a dream that seems to matter is spoken aloud to another member of the family before the morning meal, so that it is committed to shared memory.
 
-The [[lore-svapnadevasdty|Svapnadēvas]] are a celestial court, a host of spirits who weave dreams, carry omens and stand between mortal minds and the divine order. The Varnakan tradition holds them divine servants of [[lore-goddreams|The God of Dreams]], the elder deity known under many names elsewhere in [[place-ankrscntnnt|Ankaris Continent]] and beyond. The Varnaka do not name that greater deity directly, and they do not venerate it as the organized pantheons of the west venerate theirs. What they revere is the Host, through whom the dream-power of the elder god is felt in the world. Its devotees are seers, mystics, healers of disturbed minds and all those whose vocation requires them to read beneath the surface of events.
+The [[lore-svapnadevasdty|Svapnadevas]] are a celestial court, a host of spirits who weave dreams, carry omens and stand between mortal minds and the divine order. The Varnakan tradition holds them divine servants of [[lore-goddreams|The God of Dreams]], the elder deity known under many names elsewhere in [[place-ankrscntnnt|Ankaris Continent]] and beyond. The Varnaka do not name that greater deity directly, and they do not venerate it as the organized pantheons of the west venerate theirs. What they revere is the Host, through whom the dream-power of the elder god is felt in the world. Its devotees are seers, mystics, healers of disturbed minds and all those whose vocation requires them to read beneath the surface of events.
 
 ### What You See in Their Rooms
 
@@ -76,6 +76,6 @@ Silver mirrors are kept covered except at the moments of divination. Catching yo
 ### See Also
 
 - [[affiliation-varakpnthn|Varnaka Pantheon]]
-- [[lore-svapnadevasdty|Svapnadēvas]]—the Host, and the theology of the dreaming court
+- [[lore-svapnadevasdty|Svapnadevas]]—the Host, and the theology of the dreaming court
 - [[affiliation-svapnasarisamaja|Svapnasāri-samāja]]—the mystical assembly devoted to the Dreaming Host
 - [[lore-goddreams|The God of Dreams]]—the elder deity whose dream-power the Host serves

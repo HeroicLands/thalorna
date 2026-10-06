@@ -1,6 +1,6 @@
 ---
 shortcode: aqendra2
-name: {full: Aqendra, aliases: []}
+name: {full: Akendra, aliases: []}
 type: being
 subType: npc
 description: "A celebrated chef whose fashionable cooking is admired in the capital and dismissed by the traditionalists as novelty dressed up"
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Aqendra is a 44-year-old man who stands 5'10" tall with a heavy build. He has ebony skin, black hair, and amber eyes.
+Akendra is a 44-year-old man who stands 5'10" tall with a heavy build. He has ebony skin, black hair, and amber eyes.
 
 # Dossier {#dossier}
 
-Aqendra cooks out of [[place-rajapur|Rājapur]], and the fashionable style travels from the kitchen to the capital's tables faster than the traditionalists can dismiss it. The traditionalists call it novelty dressed up; the capital keeps ordering it regardless. Anyone serving a formal table in the capital now reckons with Aqendra's reputation, admired or not.
+Akendra cooks out of [[place-rajapur|Rājapur]], and the fashionable style travels from the kitchen to the capital's tables faster than the traditionalists can dismiss it. The traditionalists call it novelty dressed up; the capital keeps ordering it regardless. Anyone serving a formal table in the capital now reckons with Akendra's reputation, admired or not.

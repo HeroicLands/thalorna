@@ -15,7 +15,7 @@ data:
   governance:
     model: theocracy
     summary: >-
-      Two documents make a keeper, and neither is sufficient alone: an ordination and a further license from the Council of the Triyācāryas, and a standing warrant from the polity in whose courts the answers are to be used. A polity may decline to issue warrants at all, and several do.
+      Two documents make a keeper, and neither is sufficient alone: an ordination and a further license from the Council of the Triyāchāryas, and a standing warrant from the polity in whose courts the answers are to be used. A polity may decline to issue warrants at all, and several do.
     ranks:
       - level: 0
         title: License Withdrawn
@@ -114,5 +114,5 @@ The gap belongs to the household, not to the court. A family that will not have 
 
 - [[affiliation-kalavrata|Kālavrata]]—the Gatekeeper, who is not petitioned
 - [[affiliation-varakpnthn|Varnaka Pantheon]]—the cycle-gods
-- [[affiliation-trimurtisampradaya|Council of the Triyācāryas]]—which licenses the practice
+- [[affiliation-trimurtisampradaya|Council of the Triyāchāryas]]—which licenses the practice
 - [[affiliation-chayavrata|The Chaya-vrata]]—whose work the question is the likeliest thing to undo

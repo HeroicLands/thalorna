@@ -17,7 +17,7 @@ data:
 
 **Bharyastān** (3,000, market 3) is the capital of [[affiliation-bharyastan|the kingdom of Bharyastān]] and the only town in it. It stands on a shelf of level ground where the tracks out of the eight valleys come together, two days above the plain and a day and a half from the gold mountain of [[affiliation-suvrgrjnpd|Suvarnagiri]].
 
-The town is the palace, the horse-ground below it, a temple of Mahájaya, and four streets of people who supply the first three. The palace is old, is built of the local gray stone, and is fortified in a way that would have been serious three centuries ago.
+The town is the palace, the horse-ground below it, a temple of Mahājaya, and four streets of people who supply the first three. The palace is old, is built of the local gray stone, and is fortified in a way that would have been serious three centuries ago.
 
 ## The Horse-Ground
 

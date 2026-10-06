@@ -36,7 +36,7 @@ Across the continent's guild traditions, the guild generally performs some or al
 - **Arbitration.** Adjudicates disputes between members, between members and clients, and (in some regions) between members and the broader public.
 - **Representation.** Speaks for the trade in dealings with the municipal authorities, the regional lord or council, and (in matters of trade policy) the realm-level government.
 - **Mutual aid.** Provides for members in distress—injury, age, the deaths of practitioners leaving dependents—through a common fund maintained by member dues.
-- **Ritual life.** Most guilds have associated religious observances, often tied to a patron deity (the smiths to Vúlcan or Psaq'âru; the scribes to Jánus or Reth'Sa'âr; the brewers to Florania or Mahájaya; etc.). The ritual life is rarely the guild's primary function but is often the matrix in which the more practical functions are conducted.
+- **Ritual life.** Most guilds have associated religious observances, often tied to a patron deity (the smiths to Vúlcan or Psaq'âru; the scribes to Jánus or Reth'Sa'âr; the brewers to Florania or Mahājaya; etc.). The ritual life is rarely the guild's primary function but is often the matrix in which the more practical functions are conducted.
 
 ## The Magnum Collegium and Its Sphere
 

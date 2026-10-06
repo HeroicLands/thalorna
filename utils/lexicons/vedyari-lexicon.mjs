@@ -13,7 +13,8 @@
  * close one, the longest run of consonants, the spellings the pages do not use,
  * the joining of two words at a seam, the suffixes, the endings a given name
  * reserves for a woman, the cutting of a calling name, the classes and fields,
- * one table of words per field, and the register of attested names. `Skills/Languages/Vedyari.md` adds the
+ * one table of words per field, the register of attested names and the names
+ * retired from the setting. `Skills/Languages/Vedyari.md` adds the
  * one table the lexicon cannot carry, the scholars' spelling of the retroflex
  * and palatal letters, together with the name lists. This guard reads every one
  * of those at run time and asks whether the names the setting uses obey the
@@ -68,6 +69,12 @@
  *    lexicon gives to the other gender is a warning. A being in scope whose given
  *    name runs to the stated number of syllables and carries no calling name is
  *    an error on the being's note.
+ * 7. **Retired names.** A name the lexicon's retired table lists, written in any
+ *    note of the content tree, is an error at the place it is written. Marks are
+ *    ignored and case is kept, so a retired name is caught however it is accented
+ *    and an address, which is lower case, never matches. A literature note, a
+ *    poetry fence, a `terran_analog` comment and the retired table itself are
+ *    not read.
  *
  * A guard proves the pages agree with their own rules, never that the rules are
  * good. Whether a coined root sounds Vedyari is a judgement made by reading it
@@ -383,13 +390,24 @@ export function ruleFrom(note, lex) {
     const tongues = new Set(
         rows(lexSection("### Tongues").body).flatMap(({ cells }) => ticked(cells[0])),
     );
-    const register = rows(lexSection("### Names").body).map(({ cells, at }) => ({
+    const names = lexSection("### Names");
+    const register = rows(names.body, names.at).map(({ cells, at }) => ({
         name: (cells[0] ?? "").replace(/\*\*/g, "").trim(),
         addresses: addressesOf(cells[1]),
         tongue: ticked(cells[2])[0] ?? (cells[2] ?? "").trim(),
         built: (cells[3] ?? "").trim(),
         at,
     }));
+
+    // The names retired from the setting, and what is written for each.
+    const retiredSection = lexSection("### Retired names");
+    const retired = rows(retiredSection.body, retiredSection.at)
+        .map(({ cells, at }) => ({
+            name: ticked(cells[0])[0] ?? "",
+            instead: ticked(cells[1])[0] ?? null,
+            at,
+        }))
+        .filter((one) => one.name);
 
     return {
         rule: {
@@ -414,6 +432,11 @@ export function ruleFrom(note, lex) {
             strayFields,
             tongues,
             register,
+            retired,
+            retiredAt:
+                retiredSection.body ?
+                    { from: retiredSection.at, to: retiredSection.at + retiredSection.body.length }
+                :   null,
         },
         problems,
     };
@@ -740,11 +763,13 @@ function markdownFiles(dir) {
  * @param {string} [root] - The content tree.
  * @returns {{notes: Map<string, {file: string, text: string, names: Set<string>, type: string,
  *   given: string|null, gender: string|null}>,
- *   names: Array<{name: string, kind: string, address: string, file: string, text: string, gender: string|null}>}}
+ *   names: Array<{name: string, kind: string, address: string, file: string, text: string, gender: string|null}>,
+ *   texts: Array<{file: string, text: string, literature: boolean}>}}
  */
 export function attestedNames(root = CONTENT) {
     const notes = new Map();
     const names = [];
+    const texts = [];
     for (const file of markdownFiles(root)) {
         const text = fs.readFileSync(file, "utf8");
         const head = text.match(/^---\n([\s\S]*?)\n---/);
@@ -755,6 +780,11 @@ export function attestedNames(root = CONTENT) {
         } catch {
             continue;
         }
+        texts.push({
+            file,
+            text,
+            literature: front?.type === "lore" && front?.subType === "literature",
+        });
         if (!front?.shortcode || !front?.type) continue;
         const address = `${front.type}-${front.shortcode}`;
         const rel = path.relative(root, file).split(path.sep).join("/");
@@ -816,13 +846,72 @@ export function attestedNames(root = CONTENT) {
         if (!inScope) continue;
         for (const one of mine) names.push({ ...one, address, file, text, gender });
     }
-    return { notes, names };
+    return { notes, names, texts };
 }
 
 /** Where a literal sits in a text, or null. */
 function locate(text, literal, from = 0) {
     const at = text.indexOf(literal, from);
     return at === -1 ? null : at;
+}
+
+/** Texts already stripped of their marks, since the whole tree is read on every run. */
+const unmarkedCache = new Map();
+
+/** A text with every mark stripped and its case kept, one character for one. */
+function unmarked(text) {
+    const known = unmarkedCache.get(text);
+    if (known !== undefined) return known;
+    // Plain ASCII carries no mark.
+    const bare =
+        /^[\x00-\x7f]*$/.test(text) ? text : (
+            text.replace(/[^\x00-\x7f]/g, (char) => {
+                const stripped = char.normalize("NFD").replace(/\p{M}/gu, "");
+                return stripped.length === char.length ? stripped : char;
+            })
+        );
+    unmarkedCache.set(text, bare);
+    return bare;
+}
+
+/**
+ * Where a text writes a retired name. The spans in `skip`, and every poetry
+ * fence and `terran_analog` comment, are not read.
+ *
+ * @param {string} text - The note.
+ * @param {Array<{name: string, instead: string|null}>} retired - The retired table.
+ * @param {Array<{from: number, to: number}>} [skip] - Spans of the text left unread.
+ * @returns {Array<{at: number, name: string, instead: string|null, written: string}>}
+ */
+export function retiredIn(text, retired, skip = []) {
+    if (!retired.length) return [];
+    const spans = [...skip];
+    for (const match of text.matchAll(/^```poetry[^\n]*\n[\s\S]*?^```$/gm))
+        spans.push({ from: match.index, to: match.index + match[0].length });
+    for (const match of text.matchAll(/^[ \t]*# terran_analog:.*$/gm))
+        spans.push({ from: match.index, to: match.index + match[0].length });
+    const bare = unmarked(text.normalize("NFC"));
+    const byForm = new Map(retired.map((one) => [unmarked(one.name.normalize("NFC")), one]));
+    const escape = (form) => form.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    const pattern = new RegExp(
+        `(?<![\\p{L}\\p{M}])(${[...byForm.keys()]
+            .sort((a, b) => b.length - a.length)
+            .map(escape)
+            .join("|")})(?![\\p{L}\\p{M}])`,
+        "gu",
+    );
+    const out = [];
+    for (const match of bare.matchAll(pattern)) {
+        if (spans.some((span) => match.index >= span.from && match.index < span.to)) continue;
+        const one = byForm.get(match[1]);
+        out.push({
+            at: match.index,
+            name: one.name,
+            instead: one.instead,
+            written: text.normalize("NFC").slice(match.index, match.index + match[1].length),
+        });
+    }
+    return out;
 }
 
 /** The given name of a being closes on a woman's ending. */
@@ -1145,6 +1234,37 @@ export function analyse(note, lex, tree) {
         );
     }
 
+    // 7. Retired names.
+    const retiredSeen = new Set();
+    for (const one of rule.retired) {
+        const form = unmarked(one.name.normalize("NFC"));
+        if (retiredSeen.has(form))
+            lexFinding(one.at, "error", `\`${one.name}\` stands twice in the retired names`);
+        retiredSeen.add(form);
+    }
+    for (const { file, text, literature } of tree.texts ?? []) {
+        if (literature) continue;
+        const rel = path.relative(process.cwd(), file) || file;
+        const own = path.resolve(file) === path.resolve(LEXICON);
+        // The lexicon is read as given, so the table it holds is skipped in that text.
+        const body = own ? lex : text;
+        const skip = own && rule.retiredAt ? [rule.retiredAt] : [];
+        for (const hit of retiredIn(body, rule.retired, skip)) {
+            const { line, column } = lineColumn(body, hit.at);
+            findings.push(
+                finding(
+                    rel,
+                    line,
+                    column,
+                    "error",
+                    hit.instead ?
+                        `"${hit.written}" is a retired name; the setting writes ${hit.instead}`
+                    :   `"${hit.written}" is a retired name, and the setting writes none in its place`,
+                ),
+            );
+        }
+    }
+
     return {
         findings,
         rule,
@@ -1156,6 +1276,7 @@ export function analyse(note, lex, tree) {
             underived,
             listNames,
             calling: callingCount,
+            retired: rule.retired.length,
         },
     };
 }
@@ -1172,7 +1293,7 @@ function main() {
         `Vedyari lexicon: ${counts.words ?? 0} words, ${counts.register ?? 0} registered names ` +
             `(${counts.vedyari ?? 0} Vedyari, ${counts.built ?? 0} built from the lexicon, ` +
             `${counts.underived ?? 0} not yet reached, ${counts.calling ?? 0} calling names), ` +
-            `${counts.listNames ?? 0} listed names; ` +
+            `${counts.listNames ?? 0} listed names, ${counts.retired ?? 0} retired names; ` +
             `${errors} error(s), ${warnings} warning(s).`,
     );
     if (errors) process.exitCode = 1;

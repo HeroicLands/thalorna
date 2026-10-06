@@ -62,7 +62,7 @@ sohl:
 
 ### The Shrine
 
-The image at a school shrine is a serene figure seated in the posture of teaching, one hand raised in the gesture of instruction and the other holding the open book. A golden sun blazes behind him, and the whole image is the gold of morning light. Stand before it and you feel a quiet radiance, the steady light by which a page can be read, with none of the heat of [[affiliation-rasikara|Rásikara]]'s fire.
+The image at a school shrine is a serene figure seated in the posture of teaching, one hand raised in the gesture of instruction and the other holding the open book. A golden sun blazes behind him, and the whole image is the gold of morning light. Stand before it and you feel a quiet radiance, the steady light by which a page can be read, with none of the heat of [[affiliation-rasikara|Rāsikara]]'s fire.
 
 Three objects furnish the shrine. The **Open Book** is its central relic, and households and temples compete to produce the finest illuminated and bound sacred texts. The **Sun-medallion** is a small golden disc incised with the opening lines of a chosen sutra, worn by scholars and teachers. The **Reading-stand** is a carved wooden lectern, often a work of art in its own right, on which the day's sacred text is placed.
 

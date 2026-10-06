@@ -24,6 +24,6 @@ sohl:
 - **Performed by:** A Jvālita ("Kindled One"), one of the sect's ordinary itinerant priests, each carrying an ember-vessel of their own. The rare extraordinary form, the Scouring of the Temple, is undertaken by a company of Jvālita under a Dahana-Mūla's direction against a community judged corrupt
 - **Licensed by:** The [[affiliation-agnipantha|Agnī-panthā]] alone. Ordination to Jvālita requires the Firebrand's Year already completed. The Walk of Coals is performed in this sect's form, with coals drawn from the aspirant's own vessel and not from a temple's consecrated fire
 
-**The Walk of Coals**, **the Firebrand's Year** and **the Vigil at the Threshold** are this sect's path to ordination. The Vigil is a three-day fast held at the door of a community that has refused the priest, seated in silent witness until the refusal is reconsidered or the period elapses. The three are in substance the wider Rásikaran devotion, sat here as a condition of the priesthood.
+**The Walk of Coals**, **the Firebrand's Year** and **the Vigil at the Threshold** are this sect's path to ordination. The Vigil is a three-day fast held at the door of a community that has refused the priest, seated in silent witness until the refusal is reconsidered or the period elapses. The three are in substance the wider Rāsikaran devotion, sat here as a condition of the priesthood.
 
 See [[affiliation-agnipantha|Agnī-panthā]].

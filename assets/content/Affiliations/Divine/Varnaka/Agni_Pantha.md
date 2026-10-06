@@ -3,7 +3,7 @@ shortcode: agnipantha
 name: {full: Agnī-panthā, aliases: [The Path of the Flame, Flame Path]}
 type: affiliation
 subType: faithtradition
-description: "The ascetic, reformist sect centered on Rásikara's purging fire that brings purification."
+description: "The ascetic, reformist sect centered on Rāsikara's purging fire that brings purification."
 tags: [varnaka, faith, sect, ascetic, reformist]
 data:
   banner: faithbnr
@@ -70,14 +70,14 @@ sohl:
 ## Agnī-panthā—The Path of the Flame
 
 - **Tradition:** **Agnī-panthā**—_The Path of the Flame_
-- **Deities Venerated:** [[affiliation-rasikara|Rásikara]] as primary focus; [[affiliation-vyahrati|Vyāhrati]] honored as the gentle complement of the purging fire
+- **Deities Venerated:** [[affiliation-rasikara|Rāsikara]] as primary focus; [[affiliation-vyahrati|Vyāhrati]] honored as the gentle complement of the purging fire
 - **Emphasis:** Ascetic, reformist, mendicant; personal and communal purification through the fire proper to each task
 - **Pronunciation:** _AHG-nee PAN-thah_
 - **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
 "Sit before the vessel and tell me what has settled in your house." A **Jvālita** (Kindled One) says it at the door of whatever household has called him, with a clay vessel in the crook of his arm and the ember inside it still alive. He has come on foot, because somebody sent for him. Most of the Agnī-panthā meets its public this way: one priest, sometimes two, at a door.
 
-The Agnī-panthā is an ascetic, reformist sect centered on [[affiliation-rasikara|Rásikara]]'s purging fire. Its priests hold that a city, a household or a soul in decline wants the discipline of the flame. They hold that the orthodox tradition, which keeps Rásikara in balance with the other forms, is too comfortable to confront the lesser sins of Vedyaran civic life. Their hosts call them uncomfortable guests and indispensable ones.
+The Agnī-panthā is an ascetic, reformist sect centered on [[affiliation-rasikara|Rāsikara]]'s purging fire. Its priests hold that a city, a household or a soul in decline wants the discipline of the flame. They hold that the orthodox tradition, which keeps Rāsikara in balance with the other forms, is too comfortable to confront the lesser sins of Vedyaran civic life. Their hosts call them uncomfortable guests and indispensable ones.
 
 The sect has raised several celebrated reforms and has broken with the orthodox hierarchy at least three times. Its priests have been praised as saints, banned from city limits, and put up in statuary by the councils that banned them. The Agnī-panthā takes the uneven reception as proof that it is needed.
 
@@ -109,7 +109,7 @@ The **Night of the Kindled Road** falls at the autumn equinox. Priests gather at
 
 ### Ordeals for Favor
 
-- **The Walk of Coals**—shared with the wider Rásikaran tradition; in the Agnī-panthā form, the coals are drawn from the aspirant's own carried ember-vessel.
+- **The Walk of Coals**—shared with the wider Rāsikaran tradition; in the Agnī-panthā form, the coals are drawn from the aspirant's own carried ember-vessel.
 - The Firebrand's Year—a year spent traveling, carrying a lit torch from settlement to settlement and kindling purgation-fires wherever the priest is asked.
 - **The Vigil at the Threshold**—a three-day fast at the threshold of a community that has refused to receive the priest, seated in silent witness until the community's decision is reconsidered or the period elapses.
 
