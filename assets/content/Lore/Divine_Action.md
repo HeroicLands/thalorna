@@ -5,6 +5,8 @@ type: doc
 subType: settingguide
 tags: [religion, theology, metaphysics, gm]
 data: {packFolder: settinglore}
+
+# terran_analog: demi-divine figures are comparable to Beowulf or Gilgamesh in real-world myth; transitional campaigns match the shape of many great fantasy stories in real-world literature.
 ---
 
 > **GM-only document.** This file describes how the gods of Thalorna engage with the material world—through what mechanisms, under what constraints, with what limitations—given the non-intervention principle established in [[doc-godsrelign|Gods and Religion]]. Where that document focuses on what religions are and how they function, this document focuses on the divine layer itself: the politics, agents, and structural constraints that shape what the gods can and cannot do. The document assumes familiarity with [[doc-magictruth|Magic Truth]] and [[doc-godsrelign|Gods and Religion]]; the cosmology established there is presupposed throughout.
@@ -77,7 +79,7 @@ The category includes:
 
 **Ancient beings of accumulated divine character.** Beings who, over millennia of association with a particular god—perhaps as the god's chosen servant, perhaps as the priest of a long line, perhaps as the guardian of a particular place—have accumulated something of the god's character within themselves. They are not the god, but they have become god-touched in a way that ordinary mortals are not.
 
-Demi-divine entities operate visibly in the world, often at the center of major historical events. Heroic ages are largely the work of demi-divine entities: figures like Beowulf or Gilgamesh in real-world myth, or the foundational heroes of Thalorna's various cultural traditions. They are powerful enough to shape kingdoms, fight monsters that ordinary humans cannot fight, accomplish quests that ordinary humans cannot accomplish—but their power is not so overwhelming that their actions feel like direct divine intervention. They are still recognisably persons, with names and stories and ends.
+Demi-divine entities operate visibly in the world, often at the center of major historical events. Heroic ages are largely the work of demi-divine entities: the foundational heroes of Thalorna's various cultural traditions. They are powerful enough to shape kingdoms, fight monsters that ordinary humans cannot fight, accomplish quests that ordinary humans cannot accomplish—but their power is not so overwhelming that their actions feel like direct divine intervention. They are still recognisably persons, with names and stories and ends.
 
 ### Mortal Agents
 
@@ -173,7 +175,7 @@ A **Quiet Age campaign** is a campaign in which divine action is felt mostly thr
 
 A **Heroic Age campaign** is a campaign in which divine action is more prominent and the players' characters may themselves be agents—chosen heroes, prophets, champions of particular gods—whose actions matter at the cosmic level. The cosmology is foreground. The players' characters routinely encounter spirit-agents (allied and opposed), interact with demi-divine entities, and operate within the larger pattern of agent-level engagement. This mode is more demanding for the GM but produces a particular kind of mythic-flavor campaign.
 
-A **transitional campaign**—set during the destabilization of a Quiet Age into a Heroic Age, or during the consolidation of a Heroic Age back into a Quiet one—has the texture of cosmic stakes emerging in a previously stable world, or of cosmic stakes resolving into peace. These are particularly rich narrative spaces, because the players' characters may witness the change directly: the first signs that something is shifting, the rising tide of agent-activity, the dramatic peak, the long settling. Many of the great fantasy stories in real-world literature are transitional in this sense.
+A **transitional campaign**—set during the destabilization of a Quiet Age into a Heroic Age, or during the consolidation of a Heroic Age back into a Quiet one—has the texture of cosmic stakes emerging in a previously stable world, or of cosmic stakes resolving into peace. These are particularly rich narrative spaces, because the players' characters may witness the change directly: the first signs that something is shifting, the rising tide of agent-activity, the dramatic peak, the long settling.
 
 ## What This All Means for Running Campaigns
 

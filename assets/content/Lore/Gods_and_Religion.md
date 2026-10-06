@@ -286,7 +286,7 @@ The cumulative effect is a measurable improvement in the farmer's actual skill e
 
 ### Why the Blessing Fades
 
-Because inspiration is not magic, it must work the way real-world inspiration works: it decays without renewal. A month after the last service, the practical knowledge is still there—that part is permanent learning, not blessing. But the _fervor_ has cooled. The sense that milking on time matters cosmically has faded. The neighbors' attention is no longer in the farmer's foreground awareness. The conviction has weakened. The farmer still knows how to milk well; he is just less reliably inclined to apply that knowledge with full attention. The +2 or +3 ML reverts to baseline.
+Because inspiration is not magic, it must work the way ordinary inspiration works: it decays without renewal. A month after the last service, the practical knowledge is still there—that part is permanent learning, not blessing. But the _fervor_ has cooled. The sense that milking on time matters cosmically has faded. The neighbors' attention is no longer in the farmer's foreground awareness. The conviction has weakened. The farmer still knows how to milk well; he is just less reliably inclined to apply that knowledge with full attention. The +2 or +3 ML reverts to baseline.
 
 If he returns to a service, the fervor renews. The same human mechanisms reactivate. He hears the priest, feels the community, recommits to the practice. The bonus comes back. The cycle continues.
 

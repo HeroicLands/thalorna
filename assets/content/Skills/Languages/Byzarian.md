@@ -15,6 +15,8 @@ sohl:
     parentSkillCode: lang
     initSkillMult: 0
   flags: {"thalorna": {lang_family: Helonic}}
+
+# terran_analog: the eastern roots are Persian or Turkic.
 ---
 
 Byzarian is a tongue of the Helonic family. Fluency measures the sophistication of expression in Byzarian, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
@@ -164,7 +166,7 @@ Byzarian naming reflects the culture's hybrid heritage and mercantile values. A 
 
 The final sound therefore separates the two on hearing alone, which matters in a tongue whose bonds are read out before they are sealed.
 
-The operation that makes a name Byzarian rather than borrowed is **an inherited root with a coined ending**. The root may be Helonic, Persian or Turkic; the ending belongs to Byzarian and to no other tongue. _Theodar-_ takes `-ash` and gives **Theodarash**, _Basil-_ takes `-kâr` and gives **Basilkâr**, _Nikó-_ takes `-marzân`, _Maxent-_ takes `-áhr`, _Glykeri-_ takes `-ásh`, _Sofroni-_ takes `-áze`. What a Byzarian will not do is wear an eastern name bare: an eastern root always takes a Helonic or a Byzarian ending—_arslan_ gives **Arslanikos**, _shahr_ gives **Shahrikos** and **Shahrinaz**, _gohar_ gives **Gohárikos** and **Goharéna**—and a name that arrives unadapted marks its bearer as a visitor rather than a citizen.
+The operation that makes a name Byzarian rather than borrowed is **an inherited root with a coined ending**. The root may be Helonic or eastern; the ending belongs to Byzarian and to no other tongue. _Theodar-_ takes `-ash` and gives **Theodarash**, _Basil-_ takes `-kâr` and gives **Basilkâr**, _Nikó-_ takes `-marzân`, _Maxent-_ takes `-áhr`, _Glykeri-_ takes `-ásh`, _Sofroni-_ takes `-áze`. What a Byzarian will not do is wear an eastern name bare: an eastern root always takes a Helonic or a Byzarian ending—_arslan_ gives **Arslanikos**, _shahr_ gives **Shahrikos** and **Shahrinaz**, _gohar_ gives **Gohárikos** and **Goharéna**—and a name that arrives unadapted marks its bearer as a visitor rather than a citizen.
 
 ### Given Names
 

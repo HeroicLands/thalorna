@@ -13,7 +13,7 @@ data:
   packFolder: kankul
   government: kankul
 
-# terran_analog: Yucatan Mexico and southern mexico through Honduras
+# terran_analog: Yucatan Mexico and southern mexico through Honduras; the limestone platform is the Yucatan Peninsula, and the Usumacinta is one of its rivers
 ---
 
 ## Overview
@@ -26,9 +26,9 @@ The cenotes—those sacred sinkholes where the limestone bedrock collapses to re
 
 ## Geography
 
-K'ankul comprises the great limestone platform that underlies the Yucatan Peninsula and extends southward through Honduras and into the river valleys of the interior. The topography is deceptive—from the surface, the land appears to be low and flat, rarely rising more than 200 meters above sea level. But beneath the surface lies a hidden world: vast networks of underground rivers, chambers, and cenotes carved by millennia of water percolating through soluble limestone. These underground waterways, and the cenotes that provide access to them, are the lifeblood of K'ankul, sustaining agriculture and settlement patterns in ways that outsiders from Balamkul's well-watered highlands often struggle to understand.
+K'ankul comprises the great limestone platform that forms the eastern lowlands and extends southward into the river valleys of the interior. The topography is deceptive—from the surface, the land appears to be low and flat, rarely rising more than 200 meters above sea level. But beneath the surface lies a hidden world: vast networks of underground rivers, chambers, and cenotes carved by millennia of water percolating through soluble limestone. These underground waterways, and the cenotes that provide access to them, are the lifeblood of K'ankul, sustaining agriculture and settlement patterns in ways that outsiders from Balamkul's well-watered highlands often struggle to understand.
 
-The visible landscape is dominated by dense tropical jungle, thorny scrubland in the drier regions, and coastal mangrove swamps. The major rivers—the Ch'ol, the Usumacinta, and numerous smaller tributaries—flow either northward to the great bays or southward into the interior basins. The climate is hot and humid year-round, with a pronounced dry season (the second through fifth months) when the cenotes become crucial and even more sacred. Coastal K'ankul boasts hundreds of protected harbors and anchorages suitable for the great canoes and coastal trading vessels that K'ankul merchants have mastered; the coast is a highway connecting K'ankul to [[affiliation-kiikbaate|Ki'ik Ba'ate]] in the south and to the distant western coasts where other great civilizations have begun to rise.
+The visible landscape is dominated by dense tropical jungle, thorny scrubland in the drier regions, and coastal mangrove swamps. The major rivers—the Ch'ol and numerous smaller tributaries—flow either northward to the great bays or southward into the interior basins. The climate is hot and humid year-round, with a pronounced dry season (the second through fifth months) when the cenotes become crucial and even more sacred. Coastal K'ankul boasts hundreds of protected harbors and anchorages suitable for the great canoes and coastal trading vessels that K'ankul merchants have mastered; the coast is a highway connecting K'ankul to [[affiliation-kiikbaate|Ki'ik Ba'ate]] in the south and to the distant western coasts where other great civilizations have begun to rise.
 
 The jungle that blankets K'ankul was not always primary forest; centuries of deliberate landscape management have transformed it into a mosaic of productive and sacred zones. The greatest cities are surrounded by carefully maintained agricultural zones where milpas (slash-and-burn maize fields) rotate in a 7-year cycle with regenerating forest. Beyond these zones lie wilderness areas reserved for hunting and the gathering of specialty woods, rubber, and medicinal plants. The K'ankul people have learned to read the jungle as the priests read the stars—as a complex, ordered system governed by sacred principles and celestial cycles.
 

@@ -15,11 +15,13 @@ sohl:
     parentSkillCode: script
     initSkillMult: 0
   flags: {"thalorna": {script_family: Abjad}}
+
+# terran_analog: the writing of the settled courts is Persian-flavored.
 ---
 
 The Dûnshâk is the desert's writing: a consonantal abjad set down **right to left**, in the ancient Ankarian direction that the coastal scripts abandoned and the interior never did. Vowels are marked only where precision matters—in verse, in liturgy, and in the recitation texts from which a student learns—and are otherwise left for the reader to supply.
 
-It is a script and not a tongue. It carries [[skill-dunharlng|Dunhari]] first, the related speech of the Ātárzád tribes, and the administrative and theological Persian-flavored writing of the settled courts; a character needs **both** it and the relevant [[sohl-none-docskill-lang|Language]] to read anything.
+It is a script and not a tongue. It carries [[skill-dunharlng|Dunhari]] first, the related speech of the Ātárzád tribes, and the administrative and theological writing of the settled courts; a character needs **both** it and the relevant [[sohl-none-docskill-lang|Language]] to read anything.
 
 ## Pointing and the poem
 
