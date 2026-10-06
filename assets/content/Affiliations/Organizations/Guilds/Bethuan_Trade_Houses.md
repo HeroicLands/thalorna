@@ -79,7 +79,7 @@ The smallest tier—recently-formed houses, regional specialty merchants, and th
 
 ## Governance
 
-The Houses' formal federation is governed by the **Council of Matriarchs**—the assembled matriarchs of the Great Houses, meeting twice a year at the federation's principal hall at the capital city of Bethûra. The Council sets the standing protocols by which the Houses recognize each other's letters of credit, adjudicates inter-House commercial disputes, coordinates federation-wide diplomatic positions, and admits or expels member houses.
+The Houses' formal federation is governed by the **Council of Matriarchs**—the assembled matriarchs of the Great Houses, meeting twice a year at the federation's principal hall at the capital city of [[place-bethura|Bethûra]]. The Council sets the standing protocols by which the Houses recognize each other's letters of credit, adjudicates inter-House commercial disputes, coordinates federation-wide diplomatic positions, and admits or expels member houses.
 
 The Council does not have a single chief officer—the matriarchal political culture resists single-figure authority—but selects a **Speaker of the Council** for each session, chosen by consensus from among the present matriarchs. The Speaker presides over the session, frames the questions, and announces the rulings; the role rotates among the Great Houses' matriarchs and carries prestige but not standing executive authority.
 

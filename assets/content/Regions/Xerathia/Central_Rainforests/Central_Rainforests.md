@@ -71,6 +71,6 @@ To the **east and west** the forests fade gradually into coastal terrain that ha
 - [[place-xerathia|Xerathia Continent]]—parent continent
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—northern empire, cautious trade partner
 - [[affiliation-okharis|Okháris]]—three-flamed kingdom of the northern crescent
-- [[affiliation-mtrrchybth|Matriarchy of Bethua]]—eastern northern neighbor
+- [[affiliation-mtrrchybth|Matriarchy of Bethua]]—western northern neighbor
 - [[place-ekundavlg|Ékunda]]—southern savannah outpost
 - [[lore-flksinale|Sinalë]]—rumored deep-forest enclaves

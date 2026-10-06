@@ -41,6 +41,9 @@ whose engineering corps is one of the most prestigious institutions of the
 realm. Wheat, barley, millet and legumes grow inside the irrigated strips;
 between them, open grassland pastures sheep, cattle and horses.
 
+The interior is semi-arid savanna in the west and grows more arid eastward,
+to chaparral at the border with Aû'Khelâthu.
+
 ## Peoples and Culture
 
 The region is Bethûan, and its ruling class, priesthood and engineering corps

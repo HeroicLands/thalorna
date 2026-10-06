@@ -70,7 +70,7 @@ Beyond the Vylarian Sea, Xerathia's contact with the rest of Thalorna is thin. T
 - [[place-worldthlrn|The World of Thalorna]]—World overview
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—Ancient northern empire
 - [[affiliation-okharis|Okháris]]—The three-flamed kingdom
-- [[affiliation-mtrrchybth|Matriarchy of Bethua]]—Eastern matriarchy
+- [[affiliation-mtrrchybth|Matriarchy of Bethua]]—Western matriarchy
 - [[place-ekundavlg|Ékunda]]—Settled community of the southern savannahs
 - [[affiliation-khelathpnthn|Khelâthi Pantheon]]—Faith of Aû'Khelâthu
 - [[affiliation-nkaruthar|Nkaru'thar]]—The Eternal Flame of Okháris
