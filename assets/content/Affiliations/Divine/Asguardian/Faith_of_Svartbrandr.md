@@ -110,6 +110,7 @@ Followers of Svartbrandr are warriors who embrace the chaos and brutality of bat
 
 **Festivals:**
 
+- **The Fire-Weeks:** The faith's defining ordeal, kept at a forge-hof and led at a season's turning by its Hofgodi or Hofgydja; the full account is [[lore-fireweeks|The Fire-Weeks]].
 - **The Pyre's Awakening:** An annual celebration of fire and destruction, where great bonfires are lit, and the faithful gather for spectacles of gladiatorial battles and ritual combat, sometimes involving wild beasts or captured slaves. Enemies are often burned alive at these festivals.
 - **The Forge's Fury:** A festival dedicated to the creation of weapons and armor, with competitions to see who can forge the finest items under Svartbrandr's guidance.
 

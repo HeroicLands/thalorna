@@ -37,7 +37,7 @@ A Ritūja who takes pay for arms is Patita—fallen—and the ordination ends wi
 
 A station is not chosen and is rarely changed, and the ways out of one are few enough to name.
 
-**It is lost.** A court or a sabhā puts a Karmāja or a Dhanāja out of the order for a judgment it names. A Senāja loses his by refusing the host's call or by one of the dishonors the military manuals set out at length. A Ritūja loses his to Patita, which is not appealable and is read at every temple gate for the rest of his life.
+**It is lost.** A court or a sabhā puts a Karmāja or a Dhanāja out of the order for a judgment it names. A Senāja loses his by refusing the host's call or by one of the dishonors the military manuals set out at length. A Ritūja loses his to Patita, which brands the face, a mark every temple and house recognizes. It is read at every temple gate, and a forgiven Patita carries proof of the forgiveness for the rest of his life.
 
 **It is left.** A Ritūja walks out as an ascetic, and loses the office and not the tharana; he is received with reverence wherever he goes and kept by the devout. Nobody else has this door.
 
