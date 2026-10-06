@@ -52,7 +52,7 @@ Aurèldía's people are overwhelmingly human, but they are far from homogeneous.
 
 The **Aelwythan** of the Misty Isle are marked in their culture by deep legend, druidic survival, and the thin veil between the mortal world and the numinous. The **Élavendri** and **Áelendan** of Élavendre share a common Pelwar ancestry—the Élavendri cultivated and courtly, the Áelendan tribal and forest-dwelling—and both are unusually magically attuned. The **Tarvénan** peoples of the southern peninsula live in a patchwork of feudal kingdoms—[[affiliation-kingdmtrvn|Tarvena]], [[affiliation-kingdmlnrk|Leonrik]], [[affiliation-kngdmglvrn|Galvaren]], and [[affiliation-kngdmstrth|Asturath]]—with [[affiliation-frctyvlthr|Free City of Valthári]] and [[affiliation-frtrtryskrth|Free Territory of Eskárath]] as independent merchant enclaves between them. The **Provenzians** of the southern coast are artists, poets, vintners, and philosophers, their city-culture more southern-coastal than ocean-facing. And the **Calypsi** of Calypsa are merchant-oligarchs whose seafaring houses carry Aurèldían goods across most of Thalorna's known waters.
 
-Minority peoples include isolated [[lore-grukarfolk|Grukar]] nests in the highlands, with no trade or parley between those nests and their neighbors, and—vanishingly rare, but not entirely absent—the elder races: [[lore-flksinale|Sinalë]] who sometimes walk through Élavendre's oldest forests, and [[lore-flkkhazar|Khazári]] whose scattered halls endure in the deepest reaches of the mountains.
+Minority peoples include isolated [[lore-grukarfolk|Grukar]] nests in the highlands, with no trade or parley between those nests and their neighbors, and—vanishingly rare, but not entirely absent—the elder races: [[lore-flksinale|Sinalë]] who sometimes walk through Élavendre's oldest forests, and [[lore-flkkhazar|Khazári]] whose scattered halls endure in the high faces of the remotest ranges.
 
 Despite the diversity, Aurèldían high culture shares certain hallmarks: chivalric and courtly ideals; a tradition of bardic and scholastic learning epitomized by Élavendre's [[affiliation-bardicolgs|The Bardic Colleges]]; reverence for the land as a living participant in human affairs; and a deep preference for sovereignty at the polity level. No emperor has ever ruled Aurèldía. No Aurèldían expects one to.
 
@@ -68,7 +68,7 @@ The Vúlcani Schism is the faith's great fracture. Five centuries ago the clergy
 
 ## Politics and Power
 
-Aurèldía has no emperor, no paramount king, no unified church-state. What it has is an intricate web of sovereign polities bound by shared faith, dynastic intermarriage, common legal traditions descended loosely from old Vylarian law, and the constant low-level friction of competing ambitions. A Tarvénan knight, a Provenzian merchant, and an Aelwythan bard would recognize each other instantly as fellow Aurèldíans—and might still go to war the following season.
+Aurèldía has no emperor, no paramount king, no unified church-state. What it has is an intricate web of sovereign polities bound by shared faith, dynastic intermarriage, common legal traditions descended loosely from old Vylarian law, and the constant low-level friction of competing ambitions. A Tarvénan knight, a Provenzian merchant, and an Aelwythan bard know one another at sight for fellow Aurèldíans—and may still go to war the following season.
 
 The major powers of the region are:
 

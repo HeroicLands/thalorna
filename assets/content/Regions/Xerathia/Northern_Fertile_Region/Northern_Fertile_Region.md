@@ -15,7 +15,7 @@ data:
 # terran_analog: North Africa—Morocco + Algeria + Tunisia + Libya + Egypt + Sudan + Niger + Mali + Chad
 ---
 
-The Northern Fertile Region is the productive belt stretching along the southern shore of the [[place-vylarianse|Vylarian Sea]]—the face that [[place-xerathia|Xerathia]] shows to [[place-ankrscntnnt|Ankaris]]. Here lie three of the oldest and most sophisticated civilizations on Thalorna: the [[affiliation-mtrrchybth|Matriarchy of Bethua]] to the west, [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] anchored along its great river, and [[affiliation-okharis|Okháris]] to the south where the irrigated country gives way to savanna.
+The Northern Fertile Region is the productive belt stretching along the southern shore of the [[place-vylarianse|Vylarian Sea]]—the face that [[place-xerathia|Xerathia]] shows to [[place-ankrscntnnt|Ankaris]]. Here lie three of the oldest and most sophisticated civilizations on Thalorna: the [[affiliation-mtrrchybth|Matriarchy of Bethua]] in the middle of the shore, [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] to its east, anchored along its great river, and [[affiliation-okharis|Okháris]] to its west, reaching south to where the irrigated country gives way to savanna.
 
 "Fertile" is an outsider's label, and it requires qualification. Only the coastal strip and the Khelâthi river valley are naturally productive; the rest of the region is semi-arid and depends on some combination of hydraulic engineering, pastoral adaptation, or both. What the three civilizations share is not effortless abundance but an extraordinary competence at extracting that abundance from terrain that would, without their labor, support only sparse populations. This shared civilizational project—different in technique in each of the three polities, but common in ambition—is what makes the region a coherent subject of study rather than three unrelated states.
 
@@ -37,7 +37,7 @@ The three constituent polities are culturally distinct, united more by shared ge
 
 [[lore-khelathiclt|Khelâthi]]—the river-valley civilization, organized around the [[affiliation-khelathpnthn|Khelâthi Pantheon]] and the divine office of the Gar-Aû. Urban, literate, hierarchical, pleasure-loving, obsessed with death-as-renewal, governed by a vast scribal bureaucracy beneath a theocratic crown. The Khelâthi see themselves as the eldest and central people of the region, and their cultural gravity has shaped their neighbors for millennia.
 
-**Bethuan**—the matriarchal society of the western coast and its engineered interior, culturally connected across the Vylarian Sea to [[place-helionis|Heliónis]] through ancient Pelwar-linked linguistic roots. Bethua's ruling class is female; its priesthood is female; its engineering corps is female; its coastal aristocracy is old and self-consciously aristocratic. Bethuans worship the [[affiliation-arldnpnthn|Aurèldían Pantheon]] with matriarchal emphasis rather than any home-grown religion, which is one reason their cultural gravity pulls more toward western Ankaris than toward their immediate neighbors.
+**Bethuan**—the matriarchal society of the central coast and its engineered interior, culturally connected across the Vylarian Sea to [[place-helionis|Heliónis]] through ancient Pelwar-linked linguistic roots. Bethua's ruling class is female; its priesthood is female; its engineering corps is female; its coastal aristocracy is old and self-consciously aristocratic. Bethuans worship the [[affiliation-arldnpnthn|Aurèldían Pantheon]] with matriarchal emphasis rather than any home-grown religion, which is one reason their cultural gravity pulls more toward western Ankaris than toward their immediate neighbors.
 
 **Okháric**—the pastoral-nomadic peoples of the southern savanna, organized around the three-flame cosmology of [[affiliation-nkaruthar|Nkaru'thar]] and the urban-rural compact of the Three-Flame Settlement. Where the Khelâthi and Bethuans built around water, the Okhárics built around the herds. Their three temple-cities—Zarhánis, Kaljékor, and Vuthráka—are religious, trade, and diplomatic anchors in a country whose ordinary population is on the move with their cattle for most of the year.
 
@@ -58,7 +58,7 @@ The three traditions interact cautiously. Khelâthi priests have long studied Nk
 Each of the three polities guards its independence carefully. There has never been a unified Northern Fertile Region; the closest thing to an imperial project was a short-lived Khelâthi attempt, centuries ago, to bring the western temple-cities of Okháris into tributary relationship, which collapsed within a generation. The region's interstate politics have been characterized instead by:
 
 - **Occasional border friction** between Bethua and Aû'Khelâthu over the poorly-defined eastern frontier.
-- **Pastoral-nomadic tribute relationships** along the southern margins of Bethua (where Okháric frontier clans pay tribute to Bethuan authorities in exchange for grazing rights) and along the western fringes of Aû'Khelâthu (where steppe peoples maintain similar arrangements with Khelâthi Halzi'a).
+- **Pastoral-nomadic tribute relationships** along the western margins of Bethua (where Okháric frontier clans pay tribute to Bethuan authorities in exchange for grazing rights) and along the western fringes of Aû'Khelâthu (where steppe peoples maintain similar arrangements with Khelâthi Halzi'a).
 - **Diplomatic coordination** on threats from outside the region—the occasional sea-raid from the north, the longer-term question of the Central Rainforest tribes' claims on their northern borderlands.
 
 The three states trade extensively, intermarry at the elite level selectively, and acknowledge one another as peers. None seeks to conquer the others and none would likely succeed if it tried.
@@ -80,7 +80,7 @@ Far to the **south**—beyond the Central Rainforests, across an expanse none of
 ## See Also
 
 - [[place-xerathia|Xerathia Continent]]—parent continent
-- [[affiliation-mtrrchybth|Matriarchy of Bethua]]—western polity
+- [[affiliation-mtrrchybth|Matriarchy of Bethua]]—central polity, between Okháris and Aû'Khelâthu
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—central empire
 - [[affiliation-okharis|Okháris]]—southern pastoral kingdom
 - [[place-cntrlrnfrsts|Central Rainforests]]—southern boundary

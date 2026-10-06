@@ -18,7 +18,7 @@ What makes the Thātlüng particularly dangerous is their resilience. Only the f
 
 ### The Aftermath of the Earthquake
 
-The earthquake, which has come to be known as the **Kōtjür Tūrhürn** ("The Millennial Earthshatter"), has devastated the northwest territories. Khazárian strongholds have collapsed, and large stretches of Sinalëan forest have been uprooted. In the midst of this chaos, the Thātlüng emerged from deep within the earth, as if awakened by the tremors.
+The earthquake, which has come to be known as the **Kōtjür Tūrhürn** ("The Millennial Earthshatter"), has devastated the northwest territories. cliffs that held Khazári cities have come down, and large stretches of Sinalëan forest have been uprooted. In the midst of this chaos, the Thātlüng emerged from deep within the earth, as if awakened by the tremors.
 
 ### The Threat Beyond the Mountains
 
@@ -32,7 +32,7 @@ The imperial government is in a difficult position. While there is sympathy for 
 
 ### See Also
 
-- [[lore-dreadspawn|Dreadspawn]]—Another supernatural threat facing the empire
+- [[lore-dreadspawncrtr|Dreadspawn]]—Another supernatural threat facing the empire
 - [[lore-flksinale|Sinalë]]—The elder race bearing the brunt of this threat
 - [[lore-flkkhazar|Khazári]]—The deep folk fighting to contain the creatures
 - [[affiliation-tanvurempr|Empire of Tānvür]]—The empire's response to the crisis

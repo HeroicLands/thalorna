@@ -1,6 +1,6 @@
 ---
 shortcode: zetmeryukhe2
-name: {full: Zetmeryu-Khelâ, aliases: []}
+name: {full: Zetmeryu-Khelâ, aliases: [Zetmê]}
 type: being
 subType: npc
 description: "Chief officer of the Gár-Hálzi, who holds the temple account-houses together across the empire"
@@ -18,8 +18,8 @@ data:
   species: humanflk
   born: "678.181"
   died: null
-  height: 1.82
-  weight: 89
+  height: 6'
+  weight: 196 lbs
   frame: heavy
   appearance:
     eye_color: hazel

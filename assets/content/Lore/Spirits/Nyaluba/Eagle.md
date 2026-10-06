@@ -27,5 +27,4 @@ spirits, are not party to the Long Pact, and are not certainly ancestors of anyo
 The eagle deals with them anyway. Whether it does so on the Ngonzi's behalf or on theirs is a
 question the clan does not answer to outsiders.
 
-TBD—whether the guide predates the Ngonzi presence in the highlands, as the Bombwe griots
-maintain.
+The Bombwe griots maintain that the eagle-guide predates the Ngonzi presence in the highlands, a point the Ngonzi do not discuss with outsiders.

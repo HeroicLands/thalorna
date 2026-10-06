@@ -70,7 +70,7 @@ hands.
 It reached further than craft. Both peoples worshipped [[lore-goddreams|the god of dreams]] together, or at least in
 parallel, under the accord's terms—and when the accord shattered, the shared worship shattered with
 it. The two traditions have diverged so completely since that whether the Sinalë's
-Lúminarë and the Khazári's Luváth would recognize each other's rites is an
+Aulveira and the Khazári's Luváth would recognize each other's rites is an
 open question, and one neither race has any interest in answering.
 
 The end is not gradual. It is [[lore-fallkhazturn|the Fall of Khazártúrn]], and the two events are

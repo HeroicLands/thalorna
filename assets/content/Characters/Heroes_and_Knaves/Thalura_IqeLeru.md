@@ -18,8 +18,8 @@ data:
   gender: female
   species: humanflk
   born: 680.276
-  height: 1.7
-  weight: 63.5
+  height: 5' 7"
+  weight: 140 lbs
   frame: light
   appearance:
     eye_color: hazel
@@ -516,12 +516,12 @@ The Thâz'Lekhau of [[lore-uqaadty|Uqa'â]]
 : The most powerful religious figure in the empire views Qe'âret's growing political influence with alarm. Thalura's prominence at court threatens the traditional primacy of the solar cult, and he has begun quietly undermining her judicial pronouncements by commissioning competing auguries from his own seers—a direct challenge to Qe'âret's monopoly on truth-speaking.
 
 Zabet [[being-amqelitamun2|Amqelitamun]]
-: Thalura's own distant cousin and nominal ally, who harbors deep resentment that Thalura inherited the bulk of the Iqe'Lêru wealth while she was forced into a minor provincial marriage. Amqelitamun knows things about the Iqe'Lêru family that Thalura would prefer to remain buried.
+: Thalura's own distant cousin and nominal ally, who harbors deep resentment that Thalura inherited the bulk of the Iqe'Lêru wealth while she was forced into a minor provincial marriage. Amqê knows things about the Iqe'Lêru family that Thalura would prefer to remain buried.
 
 [[affiliation-qethalu|The Qethalu]]
 : Conservative priests within Qe'âret's own order who view Thalura's political entanglements as a corruption of the goddess's purpose. They believe a Thâz'Lekhau should serve the divine, not the Genzet'Palu, and they have the ear of several provincial temple leaders who share their distaste.
 
-Thâz'Lekhau Anlagherhafu of [[place-khelunu|Khelunu]]
+Thâz'Lekhau [[being-anlagherhafu|Anlagherhafu]] of [[place-khelunu|Khelunu]]
 : Distant, and the Thâz'Lekhau of Qe'âret at Khelunu, technically subordinate to Thalura's authority, whose handling of the [[being-legezaqu|Legez Aqu]] heresy case has raised questions she has not yet chosen to investigate. Anlagherhafu is careful to maintain the appearance of deference while operating with considerable independence, and Thalura suspects—without yet being able to prove—that his judicial pronouncements serve local political interests rather than the goddess's truth. Their relationship is outwardly correct and quietly poisonous.
 
 ### Affiliations

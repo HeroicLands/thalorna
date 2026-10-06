@@ -1,6 +1,6 @@
 ---
 shortcode: khelamose
-name: {full: Khelamose, aliases: []}
+name: {full: Khelamose, aliases: [Khelâ]}
 type: being
 subType: npc
 description: "A master smith and rival, who has taken on an apprentice he should not have and is teaching what he should not teach"
@@ -18,8 +18,8 @@ data:
   species: humanflk
   born: "689.331"
   died: null
-  height: 1.89
-  weight: 89
+  height: 6' 2"
+  weight: 196 lbs
   frame: heavy
   appearance:
     eye_color: dark_brown

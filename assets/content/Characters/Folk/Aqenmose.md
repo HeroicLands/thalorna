@@ -1,6 +1,6 @@
 ---
 shortcode: aqenmose2
-name: {full: Aqenmose, aliases: []}
+name: {full: Aqenmose, aliases: [Aqê]}
 type: being
 subType: npc
 description: "A cleric of middling rank in the house of Psaq'âru, competent and unremarkable, and content to be both"
@@ -18,8 +18,8 @@ data:
   species: humanflk
   born: "683.029"
   died: null
-  height: 1.78
-  weight: 67
+  height: 5' 10"
+  weight: 148 lbs
   frame: medium
   appearance:
     eye_color: brown

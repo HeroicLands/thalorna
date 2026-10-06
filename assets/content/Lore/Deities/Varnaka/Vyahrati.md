@@ -14,7 +14,7 @@ Vyāhrati is endings, and the quiet change by which what has reached its term gi
 
 Without decay, the theology holds, there is no soil, and without an ending no beginning. A house, a garden and a soul all turn stale in the keeping when what must be released is not released.
 
-[[affiliation-rasikara|Rásikara]] breaks what will not yield; Vyāhrati receives what yields of itself. Her worshippers count that gentleness her particular strength.
+[[affiliation-rasikara|Rāsikara]] breaks what will not yield; Vyāhrati receives what yields of itself. Her worshippers count that gentleness her particular strength.
 
 The petal bowl on the kitchen windowsill is the one shrine every household in Vedyara keeps, whatever its chief devotion. The day's faded garland goes into it, and a fallen leaf tracked in on a sandal, and a spent seed-head. Each month the bowl is emptied onto the compost with the formula of release.
 

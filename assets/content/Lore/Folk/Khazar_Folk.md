@@ -5,7 +5,7 @@ name:
   aliases: [Khazar, The Deep Folk, The Stone-Wrights, The Under-Kin, The Forge-Born]
 type: lore
 subType: folk
-description: "The Deep Folk: ancient stone-wrights of mountain and forge, vanishingly rare and withdrawn into hidden holds beneath the world's high places."
+description: "The Deep Folk: ancient stone-wrights of mountain and forge, vanishingly rare, living in the cliff faces of the world's high places in cities that read as weathered rock."
 tags: [lore, lineage]
 data: {packFolder: settinglore}
 ---
@@ -14,11 +14,11 @@ data: {packFolder: settinglore}
 - **Self-Name:** Khazári (singular: _Khazár_; adjective: _Khazárian_)
 - **Origins:** Unknown; arrived on Thalorna from an undisclosed prior realm roughly six millennia ago (~5300 BF), about two thousand years after the [[lore-flksinale|Sinalë]]—in a period when most human populations were still hunter-gatherers
 - **Population:** Vanishingly rare (<0.01% of world population). Most humans have never seen one.
-- **Enclaves:** Scattered throughout Thalorna, invariably in mountain fastnesses, deep cavern systems, and subterranean halls far from human settlement
+- **Enclaves:** Scattered throughout Thalorna, invariably in mountain fastnesses, in the cliff faces and the cave systems behind them, far from human settlement
 
-The **Khazári** are the second of the elder races—younger than the [[lore-flksinale|Sinalë]], but ancient beyond any human reckoning. If the Sinalë are creatures of forest and starlight, the Khazári are creatures of stone and fire, of the deep places of the earth where rock bears the weight of mountains and the heat of the world's core rises through cracks in the bedrock. They were old when humanity was young, and they have watched the rise and fall of every human civilization with the patient indifference of the mountains they inhabit.
+The **Khazári** are the second of the elder races—younger than the [[lore-flksinale|Sinalë]], but ancient beyond any human reckoning. If the Sinalë are creatures of forest and starlight, the Khazári are creatures of stone and fire, a people of rock and mountain whose ordinary life is lived near the light in the faces of the high places, and who go down into the deep places of the earth, where rock bears the weight of mountains, for whatever is serious. They were old when humanity was young, and they have watched the rise and fall of every human civilization with the patient indifference of the mountains they inhabit.
 
-Like the Sinalë, the Khazári are a rumor to most humans. Miners and mountain folk tell stories of strange lights in deep caves, of tunnels that seem too regular to be natural, of hammer-sounds echoing from places where no one should be working. Merchants in mountain passes occasionally report encountering short, broad, heavily bearded figures who watched them from a distance and vanished before they could approach. These stories are dismissed as superstition by educated city-dwellers, which suits the Khazári perfectly.
+Like the Sinalë, the Khazári are a rumor to most humans. Miners and mountain folk tell stories of strange lights in deep caves, of tunnels that seem too natural to be made, winding the way water would, of hammer-sounds echoing from places where no one should be working. Merchants in mountain passes occasionally report encountering short, broad, heavily bearded figures who watched them from a distance and vanished before they could approach. The names the Deep Folk, the Under-Kin and the Forge-Born are human names, drawn from what humans saw of mines, tunnels and forges. These stories are dismissed as superstition by educated city-dwellers, which suits the Khazári perfectly.
 
 ## Nature
 
@@ -38,7 +38,7 @@ The fragments that survive describe a golden age of collaboration. The Sinalë, 
 
 The Compact broke. The Khazári will say nothing about why, except that the breach was final, and that the fault was not theirs alone. The Sinalë will say nothing at all. The two peoples separated entirely, and the separation has held for millennia uncounted. They do not speak. They do not trade. They do not enter each other's territories. The bitterness—if that is the right word for an estrangement measured in thousands of years—has not diminished. It has calcified into something harder than bitterness: a silence so complete that it has become part of the structure of the world.
 
-By the time humans began to build, the Khazári were already retreating. Their numbers were diminishing—slowly, imperceptibly by human standards, but steadily. Their great halls in the deepest mountains were being sealed. Their works were being hidden. The age of the elder races was ending, and the age of humanity was beginning, and the Khazári met this transition not with resistance but with withdrawal. They did not fight humanity for territory. They simply moved deeper, higher, farther—into places humans could not easily follow.
+By the time humans began to build, the Khazári were already retreating. Their numbers were diminishing—slowly, imperceptibly by human standards, but steadily. Holds were being closed. The age of the elder races was ending, and the age of humanity was beginning, and the Khazári met this transition not with resistance but with withdrawal. They did not fight humanity for territory. They simply moved higher and farther—into places humans could not easily follow.
 
 They did not withdraw cleanly. Before the retreat there were centuries in which human tribes lived and worked in Khazári service, and what those tribes took away with them—a reduced runic work-row, and rather more of the craft they had been permitted to watch—became the foundation of human metallurgy, stonework and writing alike. The Khazári maintain that nothing was given that mattered. See [[lore-longnhrtnc|The Long Inheritance]].
 
@@ -48,8 +48,8 @@ The Khazári who came to Thalorna came as **seven clans**, and the number has ne
 to them. Clan names are patrilineal, the genealogies are kept as carefully as the craft-records, and a
 Khazár can recite a line back to one of the seven without hesitation or notes.
 
-[[lore-khazarturn|Khazártúrn]] was built for all seven together—seven great towers cut from the
-cliff of a mountain valley, one to each clan, and the city held jointly beneath them. It is the only
+[[lore-khazarturn|Khazártúrn]] was built for all seven together—seven spurs the cliff of a mountain
+valley already held, finished as great towers, one to each clan, and the city held jointly beneath them. It is the only
 thing they are known to have made as a single people, and its loss took some part of every line on
 Thalorna at once.
 
@@ -81,13 +81,17 @@ It is also why they have not spoken to the Sinalë since.
 
 ## The Holds
 
-The Khazári live in mountain holds—underground complexes carved into living rock with a skill that no human engineer has ever matched. These holds are not crude caves; they are architectural marvels, with halls supported by pillars of shaped stone, ventilation systems that draw fresh air from miles away, forges heated by geothermal vents, and defensive works that make them virtually impregnable.
+The Khazári live in mountain holds, and a hold is found before it is made. Where a mountain holds caves, the Khazári take them and adapt them, and a settlement takes the form of the caves its mountain already has. Digging is the exception, and what they do cut is the least that joins, levels or opens what the rock already almost holds. A hold's founding is the finding of its cave.
 
-Like the Sinalëan enclaves, the holds are hidden—not by magical misdirection but by physical inaccessibility and deliberate concealment. The entrances are in places humans do not go: behind waterfalls in trackless mountain gorges, at the bottom of crevasses, in cave systems so deep and complex that no human explorer has reached their end. The Khazári maintain watch over the approaches and will turn away (or simply ignore) any human who comes too close. They do not need to be hostile; the mountains themselves are defense enough.
+Most homes are shallow, set into the cliff face, and nearly every one has an outer face with openings for air and daylight, shaped to follow the rock's natural lines. Passages run inside the rock, linking homes, workshops and common rooms, so no path or road scars the face. They follow joints, bedding planes and faults, and they curve, because the Khazári disdain a straight line and read one as a sign that the stone has been forced. No two holds are alike, and none is laid out on a grid. Where a hall has a pillar, the rock left it standing. Light and air reach the deeper rooms through shafts that follow the rock's own fractures; flues follow natural fissures and let smoke disperse along the face, so a hold does not sit under a plume; water comes from seeps and cisterns inside the mountain, fed by channels along existing watercourses; and the forges burn where the mountain already holds heat. They cut little, and what they remove is reused or carried away, never dumped as a scar.
 
-Human scholars believe there are holds in the mountains of every major continent—the ranges above [[place-vrystwald|Vrystwald Region]], the peaks of [[place-tarvenirgn|Tarvénia]], the great mountains of [[affiliation-tanvurempr|Tānvür]]'s western border, and ranges in [[place-xerathia|Xerathia Continent]] and beyond. The Khazári do not confirm or deny any of this. A Khazár who encounters a human asking about the location of holds will simply stop talking.
+Depth carries weight. The deeper a space, the older, holier or more serious its purpose: refuges, temples, tombs and mine workings lie deep, and people go down for funerals, festivals, oaths, worship, and in times of war or catastrophe. Every hold keeps a refuge deep in the rock, sealed and provisioned with food, light and air, where the whole population can be gathered and hold out for a long time.
 
-The westernmost of them is [[place-vorgald|Vorgald]], in the mountains of [[place-aelwyth|Aelwyth]], cut around **3100 BF** in the late centuries of [[lore-khazarturn|Khazártúrn]]—the farthest the Deep Folk ever carried a hold, and the only one that had to be reached across open sea. Because a hold feeds itself from its own gate or not at all, the making of it began with the making of farmers, and those farmers are the [[lore-vardain|Vardain]].
+Like the Sinalëan enclaves, the holds are remote, and the remoteness is the mountains': the approaches are high, steep and trackless, and few humans look closely at a cliff. The Khazári watch the approaches and will turn away (or simply ignore) any human who comes too close. They do not need to be hostile; the mountains themselves are defense enough. A hold is not concealed. Seen from a distance it is cliff, and the moment a traveller understands that the cliff is inhabited is a quiet one.
+
+Human scholars believe there are holds in the mountains of every major continent—the ranges above [[place-vrystwald|Vrystwald Region]], the peaks of [[place-tarvenirgn|Tarvénia]], the great mountains of [[affiliation-tanvurempr|Tānvür]]'s western border, and ranges in [[place-xerathia|Xerathia Continent]] and beyond. The Khazári do not confirm or deny any of this, and a Khazár asked about the inner passages of a hold will simply stop talking. The one location kept as a guarded secret is [[lore-khazarturn|Khazártúrn]].
+
+The westernmost of them is [[place-vorgald|Vorgald]], in the mountains of [[place-aelwyth|Aelwyth]], founded around **3100 BF** in the late centuries of [[lore-khazarturn|Khazártúrn]]—the farthest the Deep Folk ever carried a hold, and the only one that had to be reached across open sea. Because a hold feeds itself from its own gate or not at all, the making of it began with the making of farmers, and those farmers are the [[lore-vardain|Vardain]].
 
 ## Relations with Humanity
 
@@ -95,7 +99,7 @@ The Khazári's relationship with humanity is even more limited than the Sinalë'
 
 Very rarely—perhaps a handful of times in a human generation—a Khazár will appear in a human settlement. A solitary figure, heavily cloaked, who buys specific materials (certain ores, certain chemicals, occasionally food supplies that the holds cannot produce), pays in gold of extraordinary purity, says nothing beyond what the transaction requires, and leaves. These encounters are so rare that they are remembered for decades in the communities where they occur.
 
-No human _realm_ has a sustained relationship with them, no human scholar has been invited into a hold, and no crown on Thalorna has ever received an embassy from one. Whatever the Khazári think of humanity—if they think of humanity at all—they keep it behind walls of stone and silence.
+No human _realm_ except Tānvür has a sustained relationship with them, no human scholar has been invited into a hold, and no crown on Thalorna has ever received an embassy from one. Whatever the Khazári think of humanity—if they think of humanity at all—they keep it behind walls of stone and silence.
 
 There is exactly one exception, and it is not a realm. The [[lore-vardain|Vardain]] of Aelwyth have lived beneath [[place-vorgald|Vorgald]] for millennia: they farm for the hold, factor for it in human markets, and are protected by it, and Khazári engineers work openly in their valleys. It is a closer and older relationship than Élavendre's with the Sinalë, and almost nobody outside those valleys knows it exists.
 
@@ -119,9 +123,7 @@ but finished to belong to the ground they stand in, carrying its strata and its 
 exterior reads as rock because the exterior _is_ meant to be rock. A Khazári builder does not regard the
 outside of a thing as a surface for display. It is the mountain. It should look like the mountain.
 
-What that leaves is an interior, and the interiors are where the whole of the argument goes. The greatest
-of them—the halls of [[lore-khazarturn|Khazártúrn]], raised hundreds of feet and lit through the rock
-and roofed with painted sky—could not be guessed at from a hundred paces outside the door.
+What that leaves is an inner life that runs through the rock, in passages, courts and the deep rooms, while the homes look out on the light. Visitors see the face; being brought inside is an act of trust. The one work where the interior was made to outrun the exterior is [[lore-khazarturn|Khazártúrn]]: its halls, raised hundreds of feet and lit through the rock and roofed with painted sky, could not be guessed at from a hundred paces outside the door.
 
 Humans, who build to be seen, almost universally read this as concealment, and cannot easily be talked
 out of it. It has made the Deep Folk seem far more secretive than they are, and they have never thought
@@ -129,12 +131,13 @@ the misunderstanding worth correcting.
 
 ## Khazárian Craft
 
-Though the Khazári themselves are invisible, their works are not—or at least, their _ancient_ works are not. Scattered across Thalorna are structures, artifacts, and ruins that human scholars attribute to the Khazári: bridges of a single stone span that should not be able to support their own weight, tunnel systems of impossible precision, and very occasionally a weapon or tool of such extraordinary quality that it can only be Khazárian make. These artifacts are invariably ancient—dating to the period before the Khazári withdrew—and they are priceless. A confirmed Khazárian blade would be worth more than a castle.
+Though the Khazári themselves are invisible, their works are not—or at least, their _ancient_ works are not. Scattered across Thalorna are structures, artifacts, and ruins that human scholars attribute to the Khazári: bridges of a single stone span that should not be able to support their own weight, tunnel systems that follow the rock so closely they read as caves, and very occasionally a weapon or tool of such extraordinary quality that it can only be Khazárian make. These artifacts are invariably ancient—dating to the period before the Khazári withdrew—and they are priceless. A confirmed Khazárian blade would be worth more than a castle.
 
 The Khazári do not appear to care that humans possess these remnants. They are relics of an age that is over, and the Khazári are not sentimental about the past—or if they are, their sentimentality does not extend to reclaiming objects that humans have stumbled across. Let the younger race play with the toys. The Khazári have moved on to other work.
 
 ## See Also
 
+- [[lore-khazariclt|Khazári]]—The culture: listening to stone, life in the cliff face, mining, teaching and outsiders
 - [[lore-flksinale|Sinalë]]—The first elder race; the Firstborn
 - [[affiliation-tanvurempr|Empire of Tānvür]]—Mountains believed to contain holds; see [[lore-elderraces|Elder Races]]
 - [[place-vrystwald|Vrystwald Region]]—Mountains above the forest likely contain holds

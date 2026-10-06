@@ -1,6 +1,6 @@
 ---
 shortcode: reqesehu
-name: {full: Rêqesehu, aliases: []}
+name: {full: Rêqesehu, aliases: [Rêqê]}
 type: being
 subType: npc
 description: "A scribe whose estate, when it fell in, proved to contain rather more than anyone had expected, and rather more than one party wanted found"
@@ -18,8 +18,8 @@ data:
   species: humanflk
   born: "673.124"
   died: null
-  height: 1.74
-  weight: 65
+  height: 5' 9"
+  weight: 143 lbs
   frame: light
   appearance:
     eye_color: dark_brown

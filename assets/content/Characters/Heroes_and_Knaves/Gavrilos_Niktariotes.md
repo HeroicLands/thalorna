@@ -17,8 +17,8 @@ data:
   gender: male
   species: humanflk
   born: "675.80"
-  height: 1.85
-  weight: 82.1
+  height: 6' 1"
+  weight: 181 lbs
   frame: medium
   appearance:
     eye_color: green
@@ -485,7 +485,7 @@ Swordmaster Theodarash the Younger
 The Merchants' Syndicate Faction
 : A group of mercantile powers who resent Gávrilos's alliance with noble houses and have begun recruiting alternative weapons masters, seeking to dilute his monopoly on quality training.
 
-His Own Reputation
+His own reputation, an inner enemy
 : Perhaps his greatest enemy is the impossibly high standard he has created through forty years of undefeated excellence. Every student now expects perfection; every new pupil hopes to be trained by an immortal legend rather than an aging master. This burden grows heavier with each passing year.
 
 ### Affiliations

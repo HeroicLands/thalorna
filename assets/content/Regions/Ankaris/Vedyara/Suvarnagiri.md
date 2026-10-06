@@ -14,9 +14,9 @@ data:
   government: suvrgrjnpd
 ---
 
-Suvarnagiri (2,400) is the capital of the [[affiliation-suvrgrjnpd|Suvarnagiri Janapada]] and stands in three parts on the lower slopes of the gold mountain. Upper Suvarnagiri is at the junction of the two highest streams, Middle Suvarnagiri in the central valley below the panning grounds, and Lower Suvarnagiri at the foot of the mountain where the Bhārava proper begins. Four miles of steep road join the highest part to the lowest. A Suvarnagiri who says the name means all three.
+**Suvarnagiri** (2,400) is the capital of the [[affiliation-suvrgrjnpd|Suvarnagiri Janapada]] and stands in three parts on the lower slopes of the gold mountain. **Upper Suvarnagiri** is at the junction of the two highest streams, **Middle Suvarnagiri** in the central valley below the panning grounds, and **Lower Suvarnagiri** at the foot of the mountain where the [[place-bharavarivr|Bhārava]] proper begins. Name the part you want when you ask the way: four miles of steep road join the highest to the lowest, and a Suvarnagiri who says the name means all three.
 
-Each part is built round one of the three great temples of Mahájaya, and each has its own market, its own tank and its own quarter of priests' houses. The sabhā meets in whichever temple the year's rotation gives it, so the seat of government moves from part to part and back again in three years.
+Each part is built round one of the three great temples of [[affiliation-mahajaya|Mahājaya]], and each has its own market, its own tank and its own quarter of priests' houses. The sabhā meets in whichever temple the year's rotation gives it, so the seat of government moves from part to part and back again in three years.
 
 ## The Weighing-Station
 

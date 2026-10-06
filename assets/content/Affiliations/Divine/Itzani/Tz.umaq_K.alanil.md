@@ -3,7 +3,7 @@ shortcode: tzumaqkalanil
 name: {full: "Tz'umaq K'alanil", aliases: [The Serpent Awakeners, Serpent Awakeners]}
 type: affiliation
 subType: faithtradition
-description: "Hunted jungle sects who teach that the Fifth Age is beyond saving and that waking the storm-serpent would be a mercy—and who can, demonstrably, pull the dead back out of Xibalba."
+description: "Hunted jungle sects who teach that the Fifth Age is beyond saving and that waking the storm-serpent would be a mercy—and who can, demonstrably, pull the dead back out of Ch'al Tz'umaq."
 tags: [itzani, religion]
 data:
   banner: faithbnr
@@ -57,7 +57,7 @@ data:
       Cell-Master: >-
         Holds one cell and everything in it, and is the only authority the movement recognizes as binding.
       Keeper of the Ritual: >-
-        Conducts the Tz'uqil Ch'ul—the willing torture, killing and reanimation by which a soul is intercepted before it enters Xibalba.
+        Conducts the Tz'uqil Ch'ul—the willing torture, killing and reanimation by which a soul is intercepted before it enters Ch'al Tz'umaq.
       Reclaimer: >-
         Draws a recently dead soul back out of the labyrinth, which is the movement's chief recruiting instrument and its chief cruelty.
       Warder of the Returned: >-
@@ -65,7 +65,7 @@ data:
       Comforter: >-
         Approaches the newly bereaved, usually at a funeral the orthodox rites have just failed to make convincing.
       Reckoner of the Failed: >-
-        Holds the count of souls the movement says Xibalba has consumed, and the argument built on it.
+        Holds the count of souls the movement says Ch'al Tz'umaq has consumed, and the argument built on it.
       Shepherd of the Damut: >-
         Takes charge of the returned once nothing recognisable remains, and directs what they are turned loose upon.
       Watcher: >-
@@ -90,15 +90,15 @@ The **Tz'umaq K'alanil** ("Serpent Awakeners") are heterodox factions found in t
 
 ## Doctrine
 
-What [[affiliation-pikultzumaq|Pik'ul Tz'umaq]] gave them was not merely theological validation but an _explanation_. The underworld is broken. The cosmic cycle does not work. The souls the priesthood promises to guide safely through Xibalba are being consumed. The blood sacrifices that sustain [[affiliation-kinultqan|K'in'ul Tq'an]] are feeding a machine that is already failing. The only honest response is to accelerate the dissolution and hope the Sixth Age begins with a repaired underworld. And in the meantime, the dead who have been failed by the system can be reclaimed—pulled back from the broken labyrinth and given a form of existence, however diminished, that is better than spiritual annihilation in Xibalba's depths.
+What [[affiliation-pikultzumaq|Pik'ul Tz'umaq]] gave them was not merely theological validation but an _explanation_. The underworld is broken. The cosmic cycle does not work. The souls the priesthood promises to guide safely through Ch'al Tz'umaq are being consumed. The blood sacrifices that sustain [[affiliation-kinultqan|K'in'ul Tq'an]] are feeding a machine that is already failing. The only honest response is to accelerate the dissolution and hope the Sixth Age begins with a repaired underworld. And in the meantime, the dead who have been failed by the system can be reclaimed—pulled back from the broken labyrinth and given a form of existence, however diminished, that is better than spiritual annihilation in Ch'al Tz'umaq's depths.
 
-This is what makes the Serpent Awakeners genuinely dangerous rather than merely frightening. Their theology is internally coherent. A thinking person who examines their arguments—especially one who has lost someone and been told their soul is safely navigating the underworld—might find them disturbingly persuasive. The orthodox priesthood cannot simply dismiss the arguments; they must actively suppress them.
+This is what makes the Serpent Awakeners genuinely dangerous rather than merely frightening. Their theology is internally coherent. Their arguments can be disturbingly persuasive on examination—especially to someone who has lost someone and been told their soul is safely navigating the underworld. The orthodox priesthood cannot simply dismiss the arguments; they must actively suppress them.
 
-In some formulations, the Awakeners teach that individuals can prepare spiritually to survive the dissolution and enter the Sixth Age unchanged, becoming the seed of new creation. In others, they argue that voluntary extinction is preferable to corrupted eternity. The most devoted adherents undergo the **Tz'uqil Ch'ul** ritual—submitting willingly to ritualized torture, killing, and immediate reanimation, their souls intercepted at the threshold by Pik'ul Tz'umaq's power before entering Xibalba. If the individual is sufficiently powerful and devoted, the result is a K'ich'chik [[being-tereb|tereb]]—intelligent, purposeful, retaining identity and gaining real power through undeath. If the individual proves insufficient, the result is a particularly powerful [[being-damut|damut]] that will inevitably degrade.
+In some formulations, the Awakeners teach that individuals can prepare spiritually to survive the dissolution and enter the Sixth Age unchanged, becoming the seed of new creation. In others, they argue that voluntary extinction is preferable to corrupted eternity. The most devoted adherents undergo the **Tz'uqil Ch'ul** ritual—submitting willingly to ritualized torture, killing, and immediate reanimation, their souls intercepted at the threshold by Pik'ul Tz'umaq's power before entering Ch'al Tz'umaq. If the individual is sufficiently powerful and devoted, the result is a K'ich'chik [[being-tereb|tereb]]—intelligent, purposeful, retaining identity and gaining real power through undeath. If the individual proves insufficient, the result is a particularly powerful [[being-damut|damut]] that will inevitably degrade.
 
 ## Recruitment
 
-The Serpent Awakeners' most insidious recruitment tool is the promise of reunion. Their priests offer to pull recently dead loved ones back from Xibalba—and they can. The first days may seem miraculous. But a soul that has entered Xibalba and been reversed comes back damaged, and the damage is irreversible. Over weeks and months, the returned loved one degrades—speech failing, memory fragmenting, the hunger for living flesh growing uncontrollable—until nothing remains but a shambling damut. Worse, a soul pulled back from Xibalba can never re-enter the labyrinth. When the body finally collapses, the soul fragments simply dissipate. No afterlife. No rebirth. No continuation. A fate the orthodox priesthood considers worse than any the underworld could inflict.
+The Serpent Awakeners' most insidious recruitment tool is the promise of reunion. Their priests offer to pull recently dead loved ones back from Ch'al Tz'umaq—and they can. The first days may seem miraculous. But a soul that has entered Ch'al Tz'umaq and been reversed comes back damaged, and the damage is irreversible. Over weeks and months, the returned loved one degrades—speech failing, memory fragmenting, the hunger for living flesh growing uncontrollable—until nothing remains but a shambling damut. Worse, a soul pulled back from Ch'al Tz'umaq can never re-enter the labyrinth. When the body finally collapses, the soul fragments simply dissipate. No afterlife. No rebirth. No continuation. A fate the orthodox priesthood considers worse than any the underworld could inflict.
 
 The approach is made by a **Comforter**, and it is made at the worst hour a household will ever have. Ki'ichek funerary practice is a paid service—a family that could not afford a full recitation was told plainly what it had bought—and the Comforter's opening question is simply whether they are certain the abbreviated rite was enough. It usually is not answered, because it cannot be. Nothing in the orthodox tradition provides a means of checking where a soul went.
 

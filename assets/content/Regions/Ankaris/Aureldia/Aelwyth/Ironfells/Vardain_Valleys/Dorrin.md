@@ -14,7 +14,7 @@ data:
 ---
 
 **Dorrin** is the highest inhabited place in the valleys, on the shoulder where the ground falls away
-east toward the sea cliffs. Two hundred and eighty people, and the view.
+east toward the sea cliffs. Four hundred people, and the view.
 
 That view is the village's function. From Dorrin one can see the eastern approaches, the coast below,
 and a long stretch of water—and the Vardain have watched from here for as long as they have been in

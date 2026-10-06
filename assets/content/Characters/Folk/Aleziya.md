@@ -1,6 +1,6 @@
 ---
 shortcode: aleziya2
-name: {full: Aleziya, aliases: []}
+name: {full: Aleziya, aliases: [Alê]}
 type: being
 subType: npc
 description: "A merchant's daughter whose sponsorship launched a performer's career, and who has never entirely let the performer forget it"
@@ -18,8 +18,8 @@ data:
   species: humanflk
   born: "666.246"
   died: null
-  height: 1.68
-  weight: 68
+  height: 5' 6"
+  weight: 150 lbs
   frame: medium
   appearance:
     eye_color: dark_brown

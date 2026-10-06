@@ -56,30 +56,29 @@ sohl:
 - **Pronunciation:** _MEG-ha-nah-tha_
 - **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
-Meghanātha is the god of storms and of the rain the monsoon brings. He is revered throughout [[place-vedyarargn|Vedyara Region]], and most of all along the coasts and the river-valleys. His anger can destroy a village in a night and his favor can keep a region prosperous for a generation. He protects those who live at the mercy of the sky: the farmer waiting on the rains, the fisherman on the sea, and the traveler whose road the great storms cut.
+"When you hear the first drum, you grab the biggest pot you own and a spoon, and you hit it as hard as you can." The priest who keeps the drum at a coastal village temple says it to the new schoolmaster's family in the last dry week, with a grin that tells them he means it. He is also telling them something about the god. [[lore-meghanathadty|Meghanātha]] is not gentle, and his rites are the frank bargaining of a people whose prosperity rides on the weather. The drums are loud, the festivals are raucous, and the clergy are forthright to a degree that more decorous traditions find uncomfortable.
 
-Meghanātha is not a gentle god. His gifts arrive with violence, and his rites are the frank bargaining of a people whose prosperity rides on the weather. The drums sounded in his honor are loud, his festivals are raucous, and his clergy are known for a forthrightness more decorous traditions find uncomfortable.
+He is revered throughout [[place-vedyarargn|Vedyara Region]], most of all along the coasts and in the river-valleys, and he protects those who live at the mercy of the sky: the farmer waiting on the rains, the fisherman at sea, and the traveler whose road the great storms cut. His anger can destroy a village in a night, and his favor can keep a region prosperous for a generation.
 
-### Aspects
+### What You See at His Temples
 
-Meghanātha is depicted as a powerful, dark-skinned figure with wild hair streaming like storm-cloud, a great drum under his arm and the lightning-spear in his raised hand. His color is the deep gray of monsoon sky and the white of the bolt. His drums are heard, in the tradition, as the thunder of the approaching storm.
+The image is a powerful, dark-skinned figure with wild hair streaming like storm-cloud, a great drum under one arm and the lightning-spear in his raised hand. His colors are the deep gray of the monsoon sky and the white of the bolt. The tradition hears his drums as the thunder of the approaching storm.
 
-### Sacred Objects
+Three objects carry the cult. The temple drum is beaten at the opening of the monsoon and at the climax of every major rite. The lightning amulet is a stylized bolt of silver worn by sailors and farmers as a sign of his protection. The rain bowl is a consecrated bowl left outside at the onset of the monsoon, and the first rain that falls into it is blessed water for the year.
 
-- **Temple drum**—the great drum, beaten at the opening of the monsoon and at the climax of every major rite
-- **Lightning amulet**—a stylized bolt of silver worn by sailors and farmers as a sign of the god's protection
-- **Rain bowl**—a consecrated bowl left outside at the onset of the monsoon; the first rain that falls into it is blessed water for the year
+### What the Devout Do
 
-### Veneration
+Coastal and riverine households hang a lightning amulet above the door and set a small rain bowl on the roof at the first sign of the monsoon. The first drum-stroke of the season carries from the village temple, and every household answers it with a wooden spoon beaten against a pot. The custom is old, and it greets the god's arrival.
 
-Coastal and riverine households hang a lightning amulet above the door and set a small rain bowl on the roof at the first sign of the monsoon. The first drum-stroke of the season carries from the village temple, and every household answers it with a wooden spoon beaten against a pot. The custom is old, and it greets the god's arrival. Sailors and caravan-masters bless their craft and their beasts with a palmful of water from the season's first rain. An object struck by lightning near a household is taken to the village shrine and dedicated, and to put it afterward to any profane use is poor form.
+Sailors and caravan-masters bless their craft and their beasts with a palmful of water from the season's first rain. An object struck by lightning near a household is taken to the village shrine and dedicated, and putting it to any profane use afterward is poor form.
 
 ### Ordeals for Favor
 
 - **The Storm Watch**—the devotee stands atop a high place during the passage of a named storm, sounding a hand-drum through the worst of the rain and wind.
-- **The Fisher's Voyage**—a voyage undertaken in the first days of the monsoon, on a fishing boat that the devotee has helped to build.
-- **The Silent Year of Thunder**—a year in which the devotee speaks only the chants of the temple, and only when the drum is sounding.
+- **The Fisher's Voyage**—a voyage undertaken in the first days of the monsoon, on a fishing boat the devotee has helped to build.
+- **The Silent Year of Thunder**—a year in which the devotee speaks only the chants of the temple, and only while the drum is sounding.
 
 ### See Also
 
 - [[affiliation-varakpnthn|Varnaka Pantheon]]
+- [[lore-meghanathadty|Meghanātha]]—the god, and the monsoon he is held to be

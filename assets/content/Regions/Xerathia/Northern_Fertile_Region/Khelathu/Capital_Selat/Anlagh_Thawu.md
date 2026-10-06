@@ -16,8 +16,11 @@ data:
 
 ## Overview
 
-Anlagh-Thawu stands in the ring of farmland that feeds [[place-galezkara|Galezkara]], within [[place-galezkaraslt|Galezkara Selat]]. It lives by grain, and the temples that hold the capital's great estates claim a measure of every field before the village sees the rest. A bad flood here is first a temple's shortfall and only after that a farmer's.
+"A good flood fills the temple's granary first," a farmer of **Anlagh-Thawu** says, standing at the edge of her barley. "Ours is the second filling."
+
+The village stands in the ring of farmland that feeds [[place-galezkara|Galezkara]], within [[place-galezkaraslt|Galezkara Selat]], and it lives by grain. The temples that hold the capital's great estates claim a measure of every field before the village sees the rest. A bad flood here is a temple's shortfall first and a farmer's only after that.
 
 ## See Also
 
-TBD.
+- [[place-galezkaraslt|Galezkara Selat]]—The selat country that holds it
+- [[place-galezkara|Galezkara]]—The imperial city

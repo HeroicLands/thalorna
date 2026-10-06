@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      The children of the retired master locksmith Zokhothu, passed over for his succession, who campaign together against the man it went to.
     ranks:
       - level: 1
-        title: "Member"
+        title: Child of Zokhothu
         description: >-
-          Belongs to the locksmith's family fellowship campaigning against the successor chosen in place of his children.
+          One of the retired master's children, holding that the craft should have passed to them.
     offices: {}
   seat: null
   domains: []
@@ -31,20 +32,14 @@ data:
 
 ## Overview
 
-Lin'Zokhothu is a fellowship formed by the children of a retired master locksmith who hold that both the craft and its reputation should have passed down to them directly. Passed over in favor of another successor, they spend what influence they have spreading word against the man the inheritance went to instead. A client weighing which locksmith to trust in [[place-galezkara|Galezkara]] now has to sort a genuine reputation from this fellowship's running campaign against it.
+A client choosing a locksmith in [[place-galezkara|Galezkara]] is told two stories, depending on whom she asks. A neighbor's version: the retired master's children are grieved and wronged. The successor's customers' version: the children are bitter and loud. Both versions are partisan, and neither is the whole account.
 
-## Character
+**Lin'Zokhothu** is a fellowship formed by the children of [[being-zokhothu2|Zokhothu]], a retired master locksmith. Passed over in favor of another successor, they hold that both the craft and its reputation should have passed to them directly, and they spend what influence they have campaigning together against the man the inheritance went to. The campaign reaches every household in Galezkara that needs a lock repaired, so most clients have heard some part of it. The fellowship is aggrieved and persistent, and a client weighing which locksmith to trust has to sort a real reputation from the running campaign against it.
 
-TBD.
+## Choosing a Locksmith
 
-## Relations
-
-TBD.
-
-## Commerce and Currency
-
-TBD.
+Judge the locks, not the quarrel. Ask to see the work, and ask the person who made it whom they were taught by. Reputation is the thing both sides are fighting over, so the work is the part nobody can argue.
 
 ## See Also
 
-TBD.
+- [[place-galezkara|Galezkara]]—the city whose locksmiths it contests

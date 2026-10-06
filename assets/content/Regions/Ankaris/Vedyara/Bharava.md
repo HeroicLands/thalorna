@@ -12,7 +12,7 @@ The **Bhārava** rises at [[place-bhrvprbhav|Bhāravaprabhava]] under [[place-es
 
 ## The Highlands
 
-The upper Bhārava is the alluvial gold country. The wash out of the mountain has funded the temples of the highland janapadas for fifteen centuries. The janapada that sits on the richest of it is wealthy by any standard and philosophically embarrassed about it, which outsiders find admirable or exasperating by how much they wanted to buy.
+The upper Bhārava is the alluvial gold country. The wash out of the mountain has funded the temples of the highland janapadas for fifteen centuries. The janapada that sits on the richest of it is wealthy by any standard and philosophically embarrassed about it. Buyers who come up for the gold find that embarrassment admirable or exasperating, according to how much they came to buy.
 
 ## The Forest
 
@@ -23,4 +23,4 @@ The pilgrim road runs the whole length of the river, sea to ice, and the hostels
 ## See Also
 
 - [[place-bhrvprbhav|Bhāravaprabhava]] · [[place-estrnreach|The Eastern Reach]] · [[place-vedyarargn|Vedyara Region]]
-- [[place-chandrmahi|The Chandramahī]] · [[place-sarvadarivr|The Sarvada]] · [[place-mahanadi|The Mahānadi]]
+- [[place-chandrmahi|The Chandramahī]] · [[place-sarvadarivr|The Sarvada]] · [[place-mahanadi|The Mahānadī]]

@@ -1,6 +1,6 @@
 ---
 shortcode: uqetirakugz2
-name: {full: Uqetiraku Gazemu, aliases: []}
+name: {full: Uqetiraku Gazemu, aliases: [Uqê]}
 type: being
 subType: npc
 description: "A wealthy master of many works, whose commissions employ half a trade and whose standards keep the other half out"
@@ -18,8 +18,8 @@ data:
   species: humanflk
   born: "669.165"
   died: null
-  height: 1.69
-  weight: 73
+  height: 5' 7"
+  weight: 161 lbs
   frame: medium
   appearance:
     eye_color: brown

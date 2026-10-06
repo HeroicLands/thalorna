@@ -19,9 +19,11 @@ data:
 #     build:
 #       render: never
 #       list: never
+
+# terran_analog: Thalorna is patterned loosely after an alternate Earth; its continents and civilizations echo Terran geography and history.
 ---
 
-Thalorna is a diverse and ancient world, home to a rich tapestry of cultures, peoples, and lands. Patterned loosely after an alternate Earth, its continents and civilizations echo Terran geography and history while remaining wholly their own. From lush subtropical regions to vast deserts and icy wastes, each continent holds unique histories and societies shaped by millennia of human and otherworldly influence.
+Four days of the Thalornan year never move. The equinoxes and solstices fall on the same dates in every year that has ever been counted, and every people counts them from a different calendar, so one morning carries several names depending on whose priest or astronomer is speaking. Beyond that shared sky the world spreads from lush subtropical regions through vast deserts to icy wastes, and each continent keeps histories and societies shaped by millennia of human and otherworldly influence.
 
 For pantheon-to-region mapping, see [[lore-pnthnrgnlmp|Pantheon Regional Map]].
 
@@ -57,7 +59,7 @@ The [[lore-flksinale|Sinalë]]. The Firstborn. The Star-Kindled. A tall, gracefu
 
 #### Khazári
 
-The [[lore-flkkhazar|Khazári]]. The Deep Folk. The Stone-Wrights. A shorter, broader, immensely strong people who inhabit mountain holds carved into living rock with engineering skill no human can match. Like the Sinalë, they are vanishingly rare, deeply insular, and uninterested in human politics. Their craft—metalwork, stonework, engineering—is legendary, though most humans encounter it only in ancient ruins and priceless artifacts from an age before humanity.
+The [[lore-flkkhazar|Khazári]]. The Deep Folk. The Stone-Wrights. A shorter, broader, immensely strong people who inhabit mountain holds in the cliff faces and the caves behind them, worked with engineering skill no human can match. Like the Sinalë, they are vanishingly rare, deeply insular, and uninterested in human politics. Their craft—metalwork, stonework, engineering—is legendary, though most humans encounter it only in ancient ruins and priceless artifacts from an age before humanity.
 
 #### The Old Compact
 

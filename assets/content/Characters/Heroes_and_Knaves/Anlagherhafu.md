@@ -1,6 +1,6 @@
 ---
 shortcode: anlagherhafu
-name: {full: Anlagherhafu, given: Anlagherhafu, aliases: []}
+name: {full: Anlagherhafu, given: Anlagherhafu, aliases: [Anlâ]}
 type: being
 subType: character
 description: "High priest of Qe'âret at Khelunu, whose judgement carries into the courts and whose enemies find it difficult to reach him"
@@ -18,8 +18,8 @@ data:
   species: humanflk
   born: "675.360"
   died: null
-  height: 1.89
-  weight: 86
+  height: 6' 2"
+  weight: 190 lbs
   frame: heavy
   appearance:
     eye_color: brown

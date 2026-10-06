@@ -70,18 +70,18 @@ months of season and frost possible in any of them, an unaided human community w
 a decade.
 
 It works because the [[lore-flkkhazar|Khazári]] have **engineered the valley**, and the scale of what
-they have done is not easily conveyed to anyone who has only seen human works.
+they have done has no match among human works.
 
 ### The Water
 
-High above the inhabited ground, snowmelt is caught behind cut dams in a series of reservoirs, and
-released—on a schedule, through gates—into **buried conduits** that run for miles under the frost
-line and do not ice. Those feed a distribution system that reaches every terrace and every field in the
+High above the inhabited ground, snowmelt is held in the basins the valley already has, in a series of reservoirs, and
+released—on a schedule, through gates—into **conduits** laid along the existing watercourses, running for miles under the frost
+line where they do not ice. Those feed a distribution system that reaches every terrace and every field in the
 basin by gravity alone, calibrated so precisely that a Vardain farmer's water arrives at an appointed
 hour on an appointed day and has done for centuries.
 
 The same system takes water _away_. The basin floor was bog; it is now the best arable in the district,
-drained by cut channels laid to gradients no human surveyor on Aelwyth could reproduce.
+drained by the valley's own falls, led off along gradients no human surveyor on Aelwyth could reproduce.
 
 ### The Heat
 
@@ -97,7 +97,7 @@ deep workings** and carried under them in flues—which is why the upper terrace
 
 ### The Granaries
 
-Four months of growing must feed twelve, four of them snowbound. Every village has a Khazári-cut
+Four months of growing must feed twelve, four of them snowbound. Every village has a Khazári-adapted
 **granary**: sealed chambers in the rock, dry, vermin-proof, and held at an even temperature by
 ventilation shafts that are still open and still working after an unrecorded number of centuries.
 

@@ -26,7 +26,7 @@ The [[affiliation-tanvurempr|Empire of Tānvür]] faces multiple serious threats
 
 ### Supernatural Threats
 
-- [[lore-dreadspawn|Dreadspawn]]—Terrifying creatures of unknown origin that have appeared within the empire
+- [[lore-dreadspawncrtr|Dreadspawn]]—made creatures, each unknown to the soldiers who meet it, appearing within the empire
 - [[lore-thatlung|Thātlüng]]—Fearsome reptilian pack-hunters unearthed by a devastating earthquake in the northwest
 
 ### See Also

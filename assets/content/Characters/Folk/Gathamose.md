@@ -1,6 +1,6 @@
 ---
 shortcode: gathamose2
-name: {full: Gathamose, aliases: []}
+name: {full: Gathamose, aliases: [Gathâ]}
 type: being
 subType: npc
 description: "An influential critic of the theatre, whose notices can make or unmake a season and who knows it"
@@ -18,8 +18,8 @@ data:
   species: humanflk
   born: "685.163"
   died: null
-  height: 1.81
-  weight: 71
+  height: 5' 11"
+  weight: 157 lbs
   frame: medium
   appearance:
     eye_color: dark_brown
