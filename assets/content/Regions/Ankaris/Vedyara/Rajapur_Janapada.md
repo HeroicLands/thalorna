@@ -177,7 +177,7 @@ The janapada has not been seriously threatened in living memory. The last armed 
 
 - **Karunāmaya Padma-Hasta**: senior priest of the Vyālendra temple and convenor of the sabhā, about sixty, the third woman to hold the office in nine centuries.
 - **Rāmavāhana Smrti-Bhāra**: the Memory-Keeper, in his late fifties, author of the standard modern commentary on the dissolution.
-- [[being-anrjhrdvmbjkr|Anuraja Harsadevambujakar]]: a Rājapuri-born scholar resident in [[affiliation-chandrapur|Chandrapur]], who corresponds with several of the major Vedyari kingdoms on the merits of further dissolutions on the Rājapuri model. He is controversial and well received in some janapadas. The kingdoms call him a dangerous radical and have asked Chandrapur to expel him; Chandrapur has declined.
+- [[being-anrjhrdvmbjkr|Anûraja Harshadēvāmbujakar]]: a Rājapuri-born scholar resident in [[affiliation-chandrapur|Chandrapur]], who corresponds with several of the major Vedyari kingdoms on the merits of further dissolutions on the Rājapuri model. He is controversial and well received in some janapadas. The kingdoms call him a dangerous radical and have asked Chandrapur to expel him; Chandrapur has declined.
 
 ## Commerce and Currency
 

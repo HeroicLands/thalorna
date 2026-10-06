@@ -124,6 +124,14 @@ jobs:
               if: ${{ !cancelled() }}
               run: npm run lint:labels
 
+            # The tree's own guards: the lexicons and their name registers, the
+            # concordance, the deployment headers. They read the content, so
+            # two pull requests that pass alone can fail together; running them
+            # here catches that before merge rather than in the deploy.
+            - name: Run the utility tests
+              if: ${{ !cancelled() }}
+              run: node --test 'utils/**/*.test.mjs'
+
     build:
         name: Content pack compile
         runs-on: ubuntu-latest

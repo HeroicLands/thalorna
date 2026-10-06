@@ -55,6 +55,10 @@ The household, not the person, is what the order is built out of. It holds the l
 
 Marriage is within the kula, arranged between households and settled by the elders of both. The bride's household shows the wrist-line and the groom's household shows the ledger. A marriage across tharana is not impossible and is not survivable in a village; the cities make room for it, and the children carry the lower of the two marks.
 
+## Two Names
+
+The same Ritūja teaches names next, and as a warning. "You will learn two names for everyone here, and you will be given the second one late, if at all. The formal name—the given name and the clan, [[being-pdmvldhnrvdkrtrj|Padmàvali Dhanurvedakīrtirāja]] in full—is what the temple writes in its rolls and what a court reads out, and it is what you say to anyone you have not been asked to call otherwise. The short one is the _calling name_, cut from the given name, and it belongs to kin and friends: her mother calls her Padmi. It is offered, never taken. Use a calling name nobody gave you and you have claimed a closeness you were not granted, and that is a presumption the household will remember." The rule a calling name is cut by stands in the [[doc-vedyarilexcn|Vedyari Lexicon]].
+
 ## Water, Food and the Touched Thing
 
 The village well is the plainest reading of the order. Who may draw, who may draw only after, and who may not approach are all settled and all known, and a stranger who gets it wrong is corrected once and watched afterward. Cooked food passes downward in the order freely and upward not at all; uncooked grain passes either way. An Outcaste's touch on a vessel ends the vessel.
