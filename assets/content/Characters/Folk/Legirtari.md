@@ -1,6 +1,6 @@
 ---
 shortcode: legirtari
-name: {full: Legirtari, aliases: []}
+name: {full: Legirtari, aliases: [Legî]}
 type: being
 subType: npc
 description: "A high priestess and patron, whose relationship with the artisan she funds is the subject of rumours neither of them troubles to deny"

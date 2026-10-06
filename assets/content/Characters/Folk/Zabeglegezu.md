@@ -1,6 +1,6 @@
 ---
 shortcode: zabeglegezu2
-name: {full: Zâbeglegezu, aliases: []}
+name: {full: Zâbeglegezu, aliases: [Zâbê]}
 type: being
 subType: npc
 description: "A lord who has employed the same household for over a decade and grants stable, respectful service in return for exacting standards"

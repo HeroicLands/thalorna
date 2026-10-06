@@ -1,6 +1,6 @@
 ---
 shortcode: balenermshg2
-name: {full: Balenerî Mesheget, aliases: []}
+name: {full: Balenerî Mesheget, aliases: [Balê]}
 type: being
 subType: npc
 description: "A noble of considerable wealth, whose patronage is sought and whose conditions are onerous"

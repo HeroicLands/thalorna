@@ -1,6 +1,6 @@
 ---
 shortcode: gathamose2
-name: {full: Gathamose, aliases: []}
+name: {full: Gathamose, aliases: [Gathâ]}
 type: being
 subType: npc
 description: "An influential critic of the theatre, whose notices can make or unmake a season and who knows it"

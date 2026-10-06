@@ -1,6 +1,6 @@
 ---
 shortcode: amqelitana2
-name: {full: Amqelitâna, aliases: []}
+name: {full: Amqelitâna, aliases: [Amqê]}
 type: being
 subType: npc
 description: "High priestess of Reth'Sa'âr's temple, who holds the archives and decides what may be read from them"
