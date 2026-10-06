@@ -15,7 +15,9 @@ import {
     builtForm,
     cognates,
     computedFront,
+    harmonyOf,
     ruleFrom,
+    shape,
 } from "./sinale-lexicon.mjs";
 
 const note = fs.readFileSync(NOTE, "utf8");
@@ -86,11 +88,11 @@ test("a lineage name on an unworn stem is an error", () => {
 test("a wrong-harmony prefix, a letter outside the inventory and an unlisted cluster are errors", () => {
     const broken = edited(
         "## Sample Phrases\n",
-        "## Sample Phrases\n\n- _hë-tuve_ and _tuvedo_ and _tuvenstra_\n",
+        "## Sample Phrases\n\n- _hë-tuve_ and _tuvebo_ and _tuvenstra_\n",
     );
     const lines = errorsOf(broken);
     assert(lines.some((line) => line.includes('the prefix "hë-"')));
-    assert(lines.some((line) => line.includes('holds "d"')));
+    assert(lines.some((line) => line.includes('holds "b"')));
     assert(lines.some((line) => /stacks [3-9] consonants/.test(line)));
 });
 
@@ -203,4 +205,32 @@ test("the cognate table must agree with the Khazári copy and with the case tabl
     assert(!absent.some((line) => line.includes(": error: ")));
     const caseDrift = edited("| `-ho`/`-hë`   |", "| `-hu`/`-hy`   |");
     assert(errorsOf(caseDrift, agreeing).some((line) => line.includes("the case table gives")));
+});
+
+test("a word of neutral vowels alone takes the harmony the vowel section names", () => {
+    const { rule } = ruleFrom(note, lexicon);
+    assert.equal(rule.neutralAs, "back");
+    assert.equal(harmonyOf("ressi", rule), "back");
+    assert.equal(harmonyOf("epyri", rule), "front");
+    const flipped = ruleFrom(
+        edited("neutral vowels counts as back", "neutral vowels counts as front"),
+        lexicon,
+    ).rule;
+    assert.equal(harmonyOf("ressi", flipped), "front");
+    const silent = edited("a word built only of neutral vowels counts as back", "it varies");
+    assert(ruleFrom(silent, lexicon).problems.some((text) => text.includes("neutral vowels")));
+});
+
+test("a sound that stands only after certain others stands nowhere else", () => {
+    const { rule } = ruleFrom(note, lexicon);
+    assert.deepEqual([...rule.bound.get("d")].sort(), ["l", "n", "r"]);
+    assert.deepEqual(shape("tuvendo", rule), []);
+    assert(shape("tuvedo", rule).some((text) => text.includes('holds "d" after "e"')));
+    assert(shape("tuvemdo", rule).length > 0);
+});
+
+test("a consonant digraph counts as one consonant in a cluster", () => {
+    const { rule } = ruleFrom(note, lexicon);
+    assert.deepEqual(shape("tuvelthe", rule), []);
+    assert(shape("tuvelthre", rule).some((text) => /stacks 3 consonants/.test(text)));
 });
