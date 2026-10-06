@@ -3,7 +3,7 @@ shortcode: selatzuqeztu
 name: {full: The Selat of Zu-Qeztu, aliases: []}
 type: affiliation
 subType: polity
-description: "The western steppe-edge; horse-pasture and the watch against nomad raiders—one of the border selatu of Aû'Khelâthu."
+description: "The western grazing margin; horse-pasture and the watch against raiders—one of the border selatu of Aû'Khelâthu."
 data:
   banner: khelathubnr
   templatePriority: null
@@ -77,15 +77,15 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Zu-Qeztu is one of the border selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: the western steppe-edge; horse-pasture and the watch against nomad raiders. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-uqaa|Faith of Uqa'â]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-zuqeztunome|Zu-Qeztu]].
+The **Selat of Zu-Qeztu** holds the western grazing margin, the horse-pasture where the empire's irrigated fields give out and the herders' country begins, and it keeps the watch against raiders. Its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] commands the levies, collects the selat's taxes and dispenses its justice, and answers to the [[lore-garauu|Gar-Aû]] at a distance that varies with the strength of the throne. The name carries the war-god's, but the patron is the sun-god [[affiliation-uqaa|Uqa'â]], and the selat's religious life runs through that cult's temples and their estates. The land he holds is [[place-zuqeztunome|Zu-Qeztu]].
 
 ## Character
 
-Its seat is [[place-zileti|Zileti]], where the Halzi'a keeps his court and the selat's chief temple of Uqa'â stands.
+"The raiders carry [[affiliation-cnfdrtnhrdnstts|Haradian]] arms," a patrol-leader says to the new troopers at [[place-zileti|Zileti]], "and I will not explain it to you, because nobody has explained it to me." The Halzi'a's work is to keep the pastures and the watch: the horses graze the margin, the levies ride its edge, and the herding clans beyond it are traded with warily and watched always. His seat is [[place-zileti|Zileti]], where his court sits and the selat's chief temple of Uqa'â stands.
 
 ## Commerce and Currency
 
-Zu-Qeztu uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], with the local chapter of [[affiliation-garhalzi|Gár-Hálzi]] attached to its chief temple attesting the weight-pieces and holding the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+Zu-Qeztu uses the [[lore-aukhlthcrncy|Aû'Khelâthu currency]]. The [[affiliation-garhalzi|Gár-Hálzi]] chapter attached to the chief temple attests the weight-pieces and keeps the granary accounts. See the currency note for the full system.
 
 ## See Also
 

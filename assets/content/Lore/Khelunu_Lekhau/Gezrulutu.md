@@ -8,8 +8,12 @@ tags: [generated, draft]
 data: {packFolder: regkharc}
 ---
 
-The red waste holds fire, drought, storm, endurance, plague, and the wandering — the desert half of [[lore-khelunulekha|Khelunu Lekhau]]'s accounting of the world, set against the river's fertile half. It governs what the river's blessing does not: the empire's gold, its building-stone and its roads all come out of the Red rather than out of the flood-plain the river feeds. A lekhau who commands only the river's half of the tradition has nothing to say about a caravan, a mine, or a plague, which is exactly the gap Gezru'lutu's half is kept to fill.
+The empire's gold, its building-stone and its roads all come out of the Red. **Gezru'lutu**, the red waste, holds fire, drought, storm, endurance, plague and the wandering. It is the desert half of the [[lore-khelunulekha|Khelunu Lekhau]]'s account of the world, set against the river's fertile half, and it governs what the river's blessing does not.
+
+A lekhau who commands only the river's half has nothing to say about a caravan, a mine or a plague. The Red half is kept to fill exactly that gap.
 
 ## See Also
 
-- [[lore-khelunulekha|Khelunu Lekhau]]—The tradition whose half this is
+- [[affiliation-gargezrulutu|Gar-Gezru'lutu]]—the House that holds the domain
+- [[lore-anlaghkhlth|Anlagh'Khelâthu]]—the river's fertile half
+- [[lore-khelunulekha|Khelunu Lekhau]]—the tradition whose half this is

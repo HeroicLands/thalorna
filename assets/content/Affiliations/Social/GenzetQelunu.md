@@ -32,24 +32,20 @@ data:
 
 ## Overview
 
-Genzet'Qelunu, the Circle of the Veil, is a discreet society whose members trade in information people would rather not have known about themselves or their rivals. The circle compiles that information into ledgers kept for its members' use, while keeping its own members' names carefully out of those same ledgers. A patron who buys from the circle gains leverage over someone else, and never learns who within the circle actually gathered it.
+Nobody introduces you to the **Circle of the Veil**. A friend of a friend mentions that a certain lady might know something, and the conversation ends there.
 
-## Character
-
-Nobody introduces you to the Circle of the Veil. A friend of a friend mentions that a certain lady might know something, and the conversation ends there.
-
-The circle is discreet. It is made up of courtesans, companions and women of influence who keep standards for their profession, and whose ledgers hold everyone's name but their own. A patron who values the information must also value what is withheld, since the member who gathered it is the one name the ledger never carries.
+**Genzet'Qelunu** (the Circle of the Veil) is a discreet society of courtesans, companions and women of influence who trade in information people would rather not have known about themselves or their rivals. They keep standards for their profession, and they compile what they gather into ledgers for the members' use while keeping their own names carefully out of those same ledgers. A patron who buys from the circle gains leverage over someone else and never learns which member gathered it, since that member is the one name the ledger never carries.
 
 ## Relations
 
-A patron who buys from the circle gains leverage over someone else and does not learn which member gathered the information. The circle's members move through [[place-galezkara|Galezkara]]'s rooms as guests, and each has her own standing there. Anyone dealing with them knows them by courtesy and never by an entry in a book.
+The circle's members move through [[place-galezkara|Galezkara]]'s rooms as guests, and each has her own standing there. Anyone dealing with them knows them by courtesy and never by an entry in a book.
 
-## Commerce and Currency
+## What the Circle Sells
 
-The circle's trade is information that people would rather not have known, compiled into ledgers for its members' use. In a land where a name in a record binds the person it names, the circle keeps its own names out of its records and enters everyone else's.
+In a land where a name in a record binds the person it names, the circle keeps its own names out of its records and enters everyone else's.
 
 If you are offered a ledger, ask what is in it and not who wrote it. The second question ends the sale.
 
 ## See Also
 
-- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—the region it belongs to

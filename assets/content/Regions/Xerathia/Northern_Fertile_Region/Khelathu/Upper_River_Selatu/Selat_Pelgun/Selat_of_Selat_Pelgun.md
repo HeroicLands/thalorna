@@ -77,15 +77,17 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Selat-Pelgun is one of the upper-river selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: caravan-head for the eastern desert roads; harvest-festivals and virility cults. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-pelgun|Faith of Pelgun]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-selatpelgunnome|Selat-Pelgun]].
+"At harvest the whole selat comes in to thank the god, and nobody is shy about it," a priest of [[affiliation-pelgun|Pelgun]] tells a newcomer to the temple at [[place-iqu|Iqu]]. "Pelgun keeps the fields and the desert roads, and his cult keeps the household too. Ask me about the rites before you ask the neighbors."
+
+The **Selat of Selat-Pelgun** is one of the eighteen [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and about 460,000 people live on its land, [[place-selatpelgunnome|Selat-Pelgun]]. It is the caravan-head for the eastern desert roads, with harvest-festivals and the virility cults of its god. The patron is [[affiliation-pelgun|Faith of Pelgun]], and the cult's chief temple and estates anchor the selat's religious life.
 
 ## Character
 
-Its seat is [[place-iqu|Iqu]], where the Halzi'a keeps his court and the selat's chief temple of Pelgun stands.
+The caravans come down from the eastern roads and the harvest comes in from the fields, and the [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] has both to govern. His seat is [[place-iqu|Iqu]], where he keeps his court and where the chief temple of Pelgun stands, and the selat's year runs between the arrival of the loads and the festivals that thank the god for the grain.
 
 ## Commerce and Currency
 
-Selat-Pelgun uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], with the local chapter of [[affiliation-garhalzi|Gár-Hálzi]] attached to its chief temple attesting the weight-pieces and holding the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+Selat-Pelgun uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], and the [[affiliation-garhalzi|Gár-Hálzi]] chapter at the chief temple attests the weight-pieces and holds the granary accounts, so the caravans from the desert roads settle their business in the same weights as the farmers. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
 
 ## See Also
 

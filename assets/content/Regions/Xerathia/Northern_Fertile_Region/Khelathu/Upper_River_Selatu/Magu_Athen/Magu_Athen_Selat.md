@@ -17,26 +17,28 @@ data:
 
 ## Overview
 
-Magu-Athen Selat is the land of the [[affiliation-selatmaguthn|Selat of Magu-Athen]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+"The water doesn't care whose dynasty built the road," a farmer of [[place-maguathen|Magu-Athen]] says, leaning on his hoe at the edge of a canal that runs straight for a mile beside an empty avenue.
+
+**Magu-Athen Selat** is the land of the [[affiliation-selatmaguthn|Selat of Magu-Athen]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 
-A planned temple-city of one zealous dynasty, half-abandoned, still inhabited. Beyond the capital the selat is the ordinary Khelâthi landscape of villages, estates and temple lands, worked by farmers who owe a share of the harvest and labor on the canals, and lettered by the scribes who are the one reliable ladder out of the fields.
+The land is ordinary valley country with an extraordinary town at its center. Flood-silt fields, canals and villages fill the strip between the river and the dry uplands, with high desert and chaparral beyond, and over it all stands a planned temple-city, built by one zealous dynasty and left half-abandoned. The farmers work their fields and keep the estates running while the city stands half empty.
 
 ## Economy
 
-Like every Khelâthi selat it runs on the flood, the harvest and the render—grain to the granaries, labor to the canals and the flood-season works, and a share of everything to the temples and the crown. What it contributes to the empire beyond that is what its character names: A planned temple-city of one zealous dynasty, half-abandoned, still inhabited.
+The selat runs on the flood, the harvest and the render like every [[lore-khelathiclt|Khelâthi]] selat: grain to the granaries, labor to the canals and the works of the flood season, and a share of everything to the temples and the crown. The temple-city is still inhabited, and its chief temple of [[lore-uqaadty|Uqa'â]] still holds its estates.
 
 ## Notable Features
 
 - [[place-maguathen|Magu-Athen]]—the selat capital and the Halzi'a's seat
 - The chief temple of [[affiliation-uqaa|Faith of Uqa'â]] and its estates
-- A planned temple-city of one zealous dynasty, half-abandoned, still inhabited
+- The planned temple-city, half-abandoned and still inhabited
 
 ## Settlements
 
 - [[place-maguathen|Magu-Athen]] (~22,000)—the selat capital and the seat of the Halzi'a.
-- **The villages and estate-towns:** the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
+- The villages and estate-towns: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 
