@@ -64,6 +64,17 @@ The lion is **venerated**, in the first of the tradition's three postures: honor
 
 The guide holds a seniority the other four acknowledge without resenting, because the Long Pact was sworn in Mvuzi country, under a baobab, by Mwána-Mvuzi—and the lion was witness to it. That witness is why the Mvuzi paramount convenes the Great Indaba and speaks last when consensus is sought.
 
+The cult's memory-song, [[lore-swearbaobab|The Swearing Under the Baobab]], holds the witness to a single word:
+
+: The Witness {#swearing-witness}
+
+```poetry {form=praise lang=en}
+And who watched?
+  _The lion watched._
+The song says witness. It says no more than witness.
+  _No more than witness._
+```
+
 ## Veneration
 
 Mvuzi men take a single lion-tooth at adulthood, and the taking is the ordeal by which they enter the tradition. Offerings are made where the herds cross the guide's ground; a beast lost to lions on that ground is not a loss but a rendering, and is entered in the tally as such. A Mvuzi who hunts a lion has not committed a crime against the clan—he has committed one against his own ancestry, and the griot will not speak his name in a genealogy afterward.

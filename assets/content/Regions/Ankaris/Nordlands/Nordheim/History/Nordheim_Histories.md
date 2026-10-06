@@ -40,7 +40,7 @@ Nordmen's rite is part of the dispute, not proof that the land was theirs to tak
 At [[place-thraldfjord|Thraldfjord]], a ship-grave is said to hold a captain of Nordheim's founding age. A family story says
 one descendant entered by the sea at low tide, took the dead man's sword and fought him in the dark.
 The family keeps a sword it will not draw. The tale warns against disturbing a howe and taking what
-was laid with the dead. Some call the captain a _haugverdir_, a warden of his mound; the descent and
+was laid with the dead. Some call the captain a _[[lore-haugverdir|haugverdir]]_, a warden of his mound; the descent and
 the fight belong to the family's telling.
 
 ## Voices on the Nalthmark Road

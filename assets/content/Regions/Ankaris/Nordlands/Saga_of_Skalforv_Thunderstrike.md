@@ -2,10 +2,15 @@
 shortcode: sagaskalforv
 name: {full: Saga of Skalforv Thunderstrike, aliases: []}
 type: lore
-subType: theology
+subType: literature
 description: "An attributed Nordmen hero saga of Skalforv’s four-day battle with Heimsormr and return to the threatened coast."
 tags: [asguardian, nordlands, heroes-of-asguard]
-data: {packFolder: nordlands}
+data:
+  packFolder: nordlands
+  culture: nordheimnclt
+  form: saga
+  language: nordmalng
+  subjects: [being-sklfrvthndrstrk, lore-heimsormr, lore-thrunvalddty]
 ---
 
 Among the [[lore-nordheimnclt|Nordmen]], this is one telling of [[being-sklfrvthndrstrk|Skalforv Thunderstrike]] taking a small boat against [[lore-heimsormr|Heimsormr]] under [[lore-thrunvalddty|Thrúnvald]]'s blessing. Whether he once walked the coast or belongs to its songs, the skalds give him three days and nights of battle and a fourth day's victorious blow. Other tales warn that the serpent survived beneath the waves. Its place in the telling of [[lore-aldarlok|Aldarlok]] remains a separate matter, and the singers leave the depths unmeasured.

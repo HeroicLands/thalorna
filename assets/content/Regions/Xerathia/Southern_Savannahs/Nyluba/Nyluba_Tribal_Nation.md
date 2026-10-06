@@ -126,6 +126,20 @@ What the Pact does _not_ do is also significant. It does not impose a common law
 
 The simplicity is by design. Mwána-Mvuzi is reported to have said, when pressed by allies who wanted a more elaborate constitution: _"We are not building a kingdom. We are agreeing not to destroy each other. The rest is for our daughters to decide for themselves."_ The griots quote her on this point at every Indaba.
 
+The lion cult's memory-song, [[lore-swearbaobab|The Swearing Under the Baobab]], counts the terms on one hand, the griot calling and the gathered answering:
+
+: The Terms on One Hand {#swearing-hand}
+
+```poetry {form=praise lang=en}
+Now the terms. Count them on one hand.
+  _One hand, five fingers._
+First: the five do not lift a weapon against the five,
+and the old cattle-feuds are put down and not picked up.
+  _Put down, and not picked up._
+Second: a spear against one is a spear against five.
+  _Against one, against five._
+```
+
 ## The Great Indaba
 
 The **Great Indaba** is the working institution of the Nyáluba. It convenes every fourth dry season at **Indala-Bomba**, an ancient stone enclosure in the southeastern highlands—one of the great Old Kraals—that the Ngonzi maintain as the Indaba ground. It lasts roughly six weeks, during which delegations from each of the five clans camp in apportioned grounds outside the enclosure and conduct their business in formal session within.
@@ -189,6 +203,14 @@ To the **south and southeast**, beyond the Kambezi wetlands and the Ngonzi highl
 **Bonzimbe of the Bombwe**, senior griot of the Long Pact. The official memory-bearer of the Pact's terms, the genealogies of all five paramounts, and the recorded judgments of the previous twenty-three Indabas. Approximately seventy years old, blind, and considered by all five clans to be the closest living thing to a neutral arbiter the Nyáluba possess.
 
 **Mvura wa Kambezi**, senior _mwalimu wa roho_ of the Kambezi, said to have walked into a particular Old Kraal during her initiation and emerged speaking the Stone Tongue—the language no living Nyáluban understands but which the Ngonzi elders say was the speech of the lost stone-builders. The Ngonzi confirm the report; the Bombwe griots have entered it into the Indaba record. What the Stone Tongue is for, no one will say.
+
+The griots' recital of the record, set beside a fireside telling in [[lore-stonetongue|The Stone Tongue]], keeps the entry short:
+
+: As the Griots Recite It {#stone-tongue-recital}
+
+> In her initiation she walked into an Old Kraal, and she came out of it speaking the Stone Tongue.
+>
+> What the Stone Tongue is for is not entered.
 
 **The Drum-Master of Sengala**, an unnamed (or rather, name-suppressed) figure who maintains the central relay station of the northern drum-network. By long custom, the holder of this post has no public identity; only the other drum-masters know who occupies it at any given time. The arrangement is a security measure that has held for nine generations.
 

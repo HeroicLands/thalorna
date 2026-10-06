@@ -66,6 +66,12 @@ They do not call those places ruins. They call them the **Old Kraals**, and they
 
 Each Old Kraal has its own Guardian and its own protocols, and entry is refused to outsiders without exception—including to Nyáluba of the other four clans. The Ngonzi relationship to these sites is lineal, intimate, and largely opaque even inside the confederation; what is known outside the clan is what the Ngonzi have chosen to say, which is little.
 
+The story told at the fire in [[lore-stonetongue|The Stone Tongue]] begins from that refusal:
+
+: As It Is Told at the Fire {#stone-tongue-fire}
+
+> You know the Old Kraals. No, you don't. None of us do, unless we are Ngonzi, and the Ngonzi don't let anyone in. Not a Mvuzi, not a Sengala, not a Bombwe with every clan's fathers in his mouth. Each Kraal has its guardian, and the guardian says no.
+
 ## See Also
 
 - [[lore-eaglengonzispr|Eagle Spirit]]—the guide as a being, apart from the practices of its cult
