@@ -81,7 +81,7 @@ A **Loom-Master** taking on an apprentice begins with the pattern-book, and with
 
 ## The Guilds
 
-The weavers of Vyālendra work within an intricate order of craft-lines that the chartered guilds maintain. Master weavers hold the highest places and control both the production and the trade networks that carry the cloth as far as **Harad** and [[place-helionis|Heliónis]]. The city guards its standing jealously.
+The weavers of Vyālendra work within an intricate order of craft-lines that the chartered guilds maintain. Master weavers hold the highest places and control both the production and the trade networks that carry the cloth as far as [[place-haradregin|Harad]] and [[place-helionis|Heliónis]]. The city guards its standing jealously.
 
 The difficult patterns are woven in the great halls inside the walls and the plain goods in the villages of the valleys, and each village's carding, spinning, dyeing or weaving is counted with the guild whose craft-line holds it. A Vyālendri village has no turn in any sabhā; what it has is a master, and what the master has is a seat. The dyers work upstream of the city, where the indigo compounds stain the air, and no dye-house may stand above another's intake.
 
