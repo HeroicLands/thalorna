@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-Lenen-Nezut is the capital of the [[affiliation-selatlennnzt|Selat of Lenen-Nezut]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]]. It holds the selat's chief temple of [[affiliation-uqaa|Faith of Uqa'â]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's: an old capital of a former dynasty, proud and faded; ram-cult and horse-pasture.
+Lenen-Nezut is built on a capital's scale and holds about 26,000 people. It is the capital of the [[affiliation-selatlennnzt|Selat of Lenen-Nezut]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], who keeps his court and granaries beside the chief temple of [[affiliation-uqaa|Faith of Uqa'â]] and its ram-cult, the scribal bureau that keeps the tax rolls, and the markets that serve the villages and estate-towns. The horse-breeders of the pasture country bring their strings in to sell, and the old dynasty's town carries its past the way a retired officer carries his bearing.
 
 ## See Also
 

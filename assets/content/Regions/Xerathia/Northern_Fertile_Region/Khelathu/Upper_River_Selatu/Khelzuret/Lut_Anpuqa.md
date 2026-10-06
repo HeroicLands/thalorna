@@ -14,7 +14,9 @@ data:
   banner: khelathubnr
 ---
 
-Lut-Anpuqa stands on the pilgrim-road of [[place-khelzuretslt|Khelzuret Selat]], farming the river-margin it has been left. It lodges those who come to bury their dead at [[place-khelzuret|Khelzuret]] and those who come after, in later years, to visit them. A family here keeps a room ready the way another keeps a field fallow, because the road's traffic is as reliable as any season.
+## Overview
+
+Lut-Anpuqa stands on the pilgrim-road of [[place-khelzuretslt|Khelzuret Selat]] and farms the river margin the flood leaves it. It lodges two kinds of guest. The first come to bury a father or a wife at [[place-khelzuret|Khelzuret]]. The second come back in later years for the annual rites, which are payment against a balance the dead go on drawing. A family that lets them lapse is in arrears to someone who cannot chase it. A lodging-keeper here tells the two apart at the door: the first arrive carrying their dead, and the second arrive carrying oil and bread for the offering.
 
 ## See Also
 

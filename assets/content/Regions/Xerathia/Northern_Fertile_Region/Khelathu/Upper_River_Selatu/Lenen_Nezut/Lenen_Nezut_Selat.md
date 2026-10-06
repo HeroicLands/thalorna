@@ -17,21 +17,23 @@ data:
 
 ## Overview
 
+"They are small. Everyone says so, and nobody who has driven one up a dyke in flood says it twice," a horse-breeder of Lenen-Nezut tells a buyer who has come to look over a string of colts at the edge of the pasture.
+
 Lenen-Nezut Selat is the land of the [[affiliation-selatlennnzt|Selat of Lenen-Nezut]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 
-An old capital of a former dynasty, proud and faded; ram-cult and horse-pasture. Beyond the capital the selat is the ordinary Khelâthi landscape of villages, estates and temple lands, worked by farmers who owe a share of the harvest and labor on the canals, and lettered by the scribes who are the one reliable ladder out of the fields.
+The land is the valley at its margins. Flood-fed fields lie along the river, and the pasture begins where the irrigated ground gives out and the high desert and chaparral take over, with herds grazing on whatever the canals and cisterns can carry water to. The farms and estates are the ordinary Khelâthi mix of villages, temple lands and canals. What a traveler remembers is the horses, the rams and the old capital's air of having seen better days.
 
 ## Economy
 
-Like every Khelâthi selat it runs on the flood, the harvest and the render—grain to the granaries, labor to the canals and the flood-season works, and a share of everything to the temples and the crown. What it contributes to the empire beyond that is what its character names: an old capital of a former dynasty, proud and faded; ram-cult and horse-pasture.
+Grain goes to the granaries, labor to the canals and a share of everything to the temples and the crown, as everywhere in the valley. What the selat adds is its pasture: the small, sturdy horses of the chariot corps are bred on margins like these, and the ram-cult of Uqa'â is the selat's other distinction.
 
 ## Notable Features
 
 - [[place-lenennezut|Lenen-Nezut]]—the selat capital and the Halzi'a's seat
 - The chief temple of [[affiliation-uqaa|Faith of Uqa'â]] and its estates
-- An old capital of a former dynasty, proud and faded; ram-cult and horse-pasture
+- The ram-cult of Uqa'â and the horse-pastures of the margins
 
 ## Settlements
 

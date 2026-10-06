@@ -77,15 +77,19 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Lenen-Nezut is one of the upper-river selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: an old capital of a former dynasty, proud and faded; ram-cult and horse-pasture. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-uqaa|Faith of Uqa'â]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-lenenneztslt|Lenen-Nezut Selat]].
+The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of Lenen-Nezut rules from a town that once held a throne, and the town remembers it.
+
+"We keep the ram, we keep the horses and we keep our manners," a priest of [[lore-uqaadty|Uqa'â]] tells a visitor from the capital, "which is what an old capital has to keep."
+
+The Selat of Lenen-Nezut is one of the eighteen [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and about 340,000 people live on its land, [[place-lenenneztslt|Lenen-Nezut Selat]]. It is an old capital of a former dynasty, proud and faded, with a ram-cult and horse-pasture to its name. The patron is [[affiliation-uqaa|Faith of Uqa'â]], the god of the sun, and the cult's chief temple and estates anchor the selat's religious life.
 
 ## Character
 
-Its seat is [[place-lenennezut|Lenen-Nezut]], where the Halzi'a keeps his court and the selat's chief temple of Uqa'â stands.
+The authority of the Halzi'a here has an older pedigree than his office. The dynasty that ruled from Lenen-Nezut is gone, and the pride of having been the center stays with the Halzi'a, the temple and the town. The seat is [[place-lenennezut|Lenen-Nezut]], where the Halzi'a keeps his court and the chief temple of Uqa'â stands.
 
 ## Commerce and Currency
 
-Lenen-Nezut uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], with the local chapter of [[affiliation-garhalzi|Gár-Hálzi]] attached to its chief temple attesting the weight-pieces and holding the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+Lenen-Nezut uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], and the [[affiliation-garhalzi|Gár-Hálzi]] chapter at its chief temple attests the weight-pieces and holds the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
 
 ## See Also
 

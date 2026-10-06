@@ -77,15 +77,17 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Yath-Lemet is one of the upper-river selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: the smallest upper selat; a narrow gorge-stretch where the valley pinches to almost nothing. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-tjelsuk|Faith of Tjelsuk]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-yathlemetslt|Yath-Lemet Selat]].
+"Do not wash at the low steps after dusk," a priest of [[affiliation-tjelsuk|Tjelsuk]] tells a newcomer to Yath-Lemet on the first evening, "and do not let a child go down to the water alone. The crocodile is the god's, and the crocodile is also what takes them. We keep both facts in the same head."
+
+The Selat of Yath-Lemet is one of the eighteen [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and about 80,000 people live on its land, [[place-yathlemetslt|Yath-Lemet Selat]]. It is the smallest of the upper selatu, a narrow gorge-stretch where the valley pinches to almost nothing. The patron is [[affiliation-tjelsuk|Faith of Tjelsuk]], the crocodile-god, and the cult's chief temple and estates anchor the selat's religious life.
 
 ## Character
 
-Its seat is [[place-yathlemet|Yath-Lemet]], where the Halzi'a keeps his court and the selat's chief temple of Tjelsuk stands.
+The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of Yath-Lemet governs fewer people than anyone else on the upper river, in a valley so narrow that farmers, villages and river-beasts share the same banks. His seat is [[place-yathlemet|Yath-Lemet]], where he keeps his court and the chief temple of Tjelsuk stands.
 
 ## Commerce and Currency
 
-Yath-Lemet uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], with the local chapter of [[affiliation-garhalzi|Gár-Hálzi]] attached to its chief temple attesting the weight-pieces and holding the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+Yath-Lemet uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], and the [[affiliation-garhalzi|Gár-Hálzi]] chapter at the chief temple attests the weight-pieces and holds the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
 
 ## See Also
 

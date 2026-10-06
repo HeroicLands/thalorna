@@ -77,15 +77,17 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Zebt-Relepet is one of the upper-river selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: cavern-tombs and natron; a workmanlike mortuary selat. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-wethur|Faith of Wethûr]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-zebtrelptslt|Zebt-Relepet Selat]].
+"We are not Khelzuret," a Lem'Nelgir of [[lore-wethurdty|Wethûr]] at Zebt-Relepet tells a family that has come to arrange a burial. "Nobody makes a pilgrimage here, and I will not pretend otherwise. The tomb is cut, the body is dried and the words are said, and it is done properly."
+
+The Selat of Zebt-Relepet is one of the eighteen [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and about 380,000 people live on its land, [[place-zebtrelptslt|Zebt-Relepet Selat]]. It is a workmanlike mortuary selat of cavern-tombs and natron. The patron is [[affiliation-wethur|Faith of Wethûr]], the Lord of Silent Passage, and the cult's chief temple and estates anchor the selat's religious life.
 
 ## Character
 
-Its seat is [[place-zebtrelepet|Zebt-Relepet]], where the Halzi'a keeps his court and the selat's chief temple of Wethûr stands.
+This is a mortuary trade without a pilgrimage, and the [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] and the temple run it as steady work. The seat is [[place-zebtrelepet|Zebt-Relepet]], where the Halzi'a keeps his court and the chief temple of Wethûr stands.
 
 ## Commerce and Currency
 
-Zebt-Relepet uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], with the local chapter of [[affiliation-garhalzi|Gár-Hálzi]] attached to its chief temple attesting the weight-pieces and holding the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+Zebt-Relepet uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]]. The [[affiliation-garhalzi|Gár-Hálzi]] chapter at the chief temple attests the weight-pieces and holds the granary accounts, and the natron that dries the dead is sold by weight like anything else. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
 
 ## See Also
 
