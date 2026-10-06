@@ -54,43 +54,54 @@ test("an exact hit is reported at its row and column, naming the list", () => {
     const { status, err } = run(["--wordlists", lists, note]);
     assert.equal(status, 1);
     const rel = path.relative(process.cwd(), note);
-    assert(err.includes(`${rel}:3:4: warning: exact collision with the fixa list`));
+    assert(err.includes(`${rel}:3:4: error: exact collision with the fixa list`));
     assert(!err.join("\n").includes("zorvakin"));
 });
 
-test("a one-edit near miss is reported at five letters and not at four", () => {
+test("a one-edit near match is a review note at five letters and not at four", () => {
     const { err } = run(["--wordlists", lists, note]);
     const text = err.join("\n");
-    assert(/:4:4: warning: one edit collision with the fixa list/.test(text));
-    assert(/:5:4: warning: one edit collision with the fixb list/.test(text));
-    assert(/:6:4: warning: one edit collision with the fixa list/.test(text));
+    assert(/:4:4: note: one edit from an entry in the fixa list/.test(text));
+    assert(/:5:4: note: one edit from an entry in the fixb list/.test(text));
+    assert(/:6:4: note: one edit from an entry in the fixa list/.test(text));
     assert(!/:7:4:/.test(text));
     assert(!/:8:4:/.test(text));
+    assert(!/belmo|plumeta/.test(text));
+});
+
+test("near matches alone leave the exit status at 0", () => {
+    const near = path.join(dir, "near.md");
+    fs.writeFileSync(near, "| `zorvakan` | n |\n| `belma` | n |\n| `quiet` | n |\n");
+    const { status, err, out } = run(["--wordlists", lists, near]);
+    assert.equal(status, 0);
+    assert.equal(err.length, 2);
+    assert(err.every((line) => /: note: /.test(line)));
+    assert(/0 findings, 2 near matches for review/.test(out.join("\n")));
 });
 
 test("skeleton mode matches a skeleton against a root", () => {
     const { err } = run(["--wordlists", lists, "--skeleton-lists", "fixa", note]);
     const text = err.join("\n");
-    assert(/:9:4: warning: skeleton collision with the fixa list/.test(text));
+    assert(/:9:4: error: skeleton collision with the fixa list/.test(text));
     assert(!/:10:4:/.test(text));
 });
 
 test("a skeleton with digraph radicals is compared as a skeleton", () => {
     const text = run(["--wordlists", lists, "--skeleton-lists", "fixa", note]).err.join("\n");
-    assert(/:11:4: warning: skeleton collision with the fixa list/.test(text));
+    assert(/:11:4: error: skeleton collision with the fixa list/.test(text));
 });
 
 test("cells that are not words of three letters are skipped", () => {
     const { err, out } = run(["--wordlists", lists, "--skeleton-lists", "fixa", note]);
     const text = err.join("\n");
     for (const line of [13, 14, 15, 17]) assert(!new RegExp(`:${line}:4:`).test(text));
-    assert(/:16:4: warning: exact collision with the fixa list/.test(text));
+    assert(/:16:4: error: exact collision with the fixa list/.test(text));
     assert(/\b11 forms compared/.test(out.join("\n")));
 });
 
 test("skeletons are compared with khuzdul and akkadian lists by default", () => {
     const text = run(["--wordlists", lists, note]).err.join("\n");
-    assert(/:12:4: warning: skeleton collision with the khuzdul list/.test(text));
+    assert(/:12:4: error: skeleton collision with the khuzdul list/.test(text));
     assert(!/:9:4:.*skeleton/.test(text));
     assert(!/:11:4:.*skeleton/.test(text));
 });

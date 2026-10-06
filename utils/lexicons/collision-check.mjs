@@ -35,12 +35,11 @@
  * tables, suffix stubs, punctuation and numbers are skipped. A skeleton is
  * exempt from the length floor because its radicals are the letters.
  *
- * Findings: a form matching a list entry exactly after normalization, or within
- * one edit of an entry when the form has five or more letters. A skeleton (three
- * radicals joined by hyphens, each radical one letter or one of the consonant
- * digraphs th, kh, gh, sh, zh, dh, ch, ph; or any first-column form under
- * `--skeleton`) collides when it equals a list entry after normalization, so a
- * list of consonantal roots is matched root for root.
+ * Findings: a form matching a list entry exactly after normalization. A
+ * skeleton (three radicals joined by hyphens, each radical one letter or one of
+ * the consonant digraphs th, kh, gh, sh, zh, dh, ch, ph; or any first-column
+ * form under `--skeleton`) collides when it equals a list entry after
+ * normalization, so a list of consonantal roots is matched root for root.
  *
  * Skeleton comparison uses only the lists in `--skeleton-lists`, default
  * `khuzdul,akkadian`: those hold roots or forms whose consonants carry meaning.
@@ -48,8 +47,15 @@
  * three-consonant combination, so matching skeletons against it flags almost
  * every root; name it in `--skeleton-lists` to opt it in. Whole-word comparison
  * always uses every list.
- * Findings are `file:line:column: warning: …`, naming the list and never the
- * matching word. Exit status is 1 when there is a finding, else 0.
+ *
+ * Review notes: a form of five or more letters within one edit of a list entry
+ * is a near match. It is printed for review by ear and is not a finding; a near
+ * match is judged by how the word sounds beside its neighbour, which no edit
+ * distance decides.
+ *
+ * Findings are `file:line:column: error: …` and notes are
+ * `file:line:column: note: …`, each naming the list and never the matching
+ * word. Exit status is 1 when there is a finding, else 0; notes never change it.
  */
 
 import fs from "node:fs";
@@ -210,21 +216,29 @@ export function main(argv, env = process.env, io = { out: console.log, err: cons
         return 0;
     }
     let findings = 0;
+    let notes = 0;
     let forms = 0;
     for (const file of files) {
         const rel = path.relative(process.cwd(), file) || file;
         for (const row of extractForms(fs.readFileSync(file, "utf8"), skeleton)) {
             forms++;
             for (const hit of compare(row, lists, skeletonLists)) {
-                findings++;
-                io.err(
-                    `${rel}:${row.line}:${row.column}: warning: ${hit.kind} collision with the ${hit.list} list`,
-                );
+                if (hit.kind === "one edit") {
+                    notes++;
+                    io.err(
+                        `${rel}:${row.line}:${row.column}: note: one edit from an entry in the ${hit.list} list`,
+                    );
+                } else {
+                    findings++;
+                    io.err(
+                        `${rel}:${row.line}:${row.column}: error: ${hit.kind} collision with the ${hit.list} list`,
+                    );
+                }
             }
         }
     }
     io.out(
-        `collision-check: ${forms} forms compared with ${lists.size} lists (${[...lists.keys()].join(", ")}), ${findings} findings`,
+        `collision-check: ${forms} forms compared with ${lists.size} lists (${[...lists.keys()].join(", ")}), ${findings} findings, ${notes} near matches for review`,
     );
     return findings > 0 ? 1 : 0;
 }
