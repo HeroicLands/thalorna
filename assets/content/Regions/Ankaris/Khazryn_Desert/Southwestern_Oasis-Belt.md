@@ -22,7 +22,7 @@ The Southwestern Oasis-Belt is the irrigated corner of the [[place-khzryndsrtrgn
 
 The principal exports of the Ātárzád lands are dates, palm-sugar, leather, fine wool, salt (from pans on the western fringe), and the great **Khazryn horses**—the long-legged desert breed, prized across Ankaris for endurance, that the Ātárzád raise on the open pasturelands between the oases. Imports are metals, fine cloth, glass, books, and the exotica of the wider world; the Ardashír merchant-houses run caravans to Amradad, to the Haradian ports, and (during the better-relations decades) into the Sultanate proper.
 
-In the still-Khazryn oases—Mehrnāgord, Ushtra-bēr, the small Vahúrdash settlement—the economy is the traditional oasis economy: dates, palm-sugar, garden produce, salt (in Mehrnāgord's case), and trade with passing caravans. These are small economies; the populations are not large, the surpluses are modest, and the wealth of the still-Khazryn lands is reckoned in continuity rather than in volume.
+In the still-Khazryn oases—[[place-mehrnagord|Mehrnāgord]], [[place-ushtraber|Ushtra-bēr]], the small [[place-vahurdash|Vahúrdash]] settlement—the economy is the traditional oasis economy: dates, palm-sugar, garden produce, salt (in Mehrnāgord's case), and trade with passing caravans. These are small economies; the populations are not large, the surpluses are modest, and the wealth of the still-Khazryn lands is reckoned in continuity rather than in volume.
 
 ## See Also
 

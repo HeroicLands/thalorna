@@ -460,7 +460,7 @@ Chrysántos is driven by the endless accumulation of wealth, influence, and pres
 
 ### Patrons
 
-Lord Daemon Voss, Master of the Byzarian League's Eastern Territory
+Lord Daemon Voss, Master of the [[affiliation-byzarianlg|Byzarian League]]'s [[place-eastrnmrch|Eastern March]]
 : A powerful noble with whom Chrysántos maintains a complex relationship of mutual benefit. Voss provides official protection and access to certain restricted items; Chrysántos sees that Voss's acquisitions remain discreet and his valuable contacts remain available exclusively.
 
 The Collector of Reliquaries

@@ -135,7 +135,7 @@ What saved the rebellion on the water was the sea itself. The Vylarian legions w
 
 The war at sea was fought not by a navy but by a flotilla—everything the Haradians could press into service. Warships from the merchant fleets, armed trading vessels, fishing boats fitted with rams and boarding planks, even harbor craft loaded with archers. Against the Vylarian navy's heavy warships, these lighter vessels were individually outmatched. But they were fast, they were numerous, and their captains knew every rock and current in the eastern sea. They fought a war of attrition—raiding, retreating, drawing the Vylarian squadrons into unfamiliar waters, refusing the decisive fleet engagement that the empire wanted.
 
-The turning point came at the **Battle of Tamzîr Shoals**.
+The turning point came at the Battle of [[place-tamzirshoals|Tamzîr Shoals]].
 
 A Vylarian naval squadron—the largest force the empire had assembled in the eastern sea—moved to break the Haradian blockade of the strait between the mainland and the outer islands. If the squadron succeeded, the empire could resupply its garrisons, land reinforcements, and strangle the rebellion. The Haradian captains understood that this was the moment: if the squadron passed, the war was lost.
 
@@ -235,7 +235,7 @@ Relations with [[place-dunharargn|Dunhara Region]]'s nomadic tribes are complex�
 - [[affiliation-kethara|Kethara]]—The naval stronghold controlling the strait to the archipelago. Home of the [[affiliation-corsairleg|Corsair League]] and the war veterans.
 - [[affiliation-varoshan|Varoshan]]—The eastern gateway where sea trade meets the overland caravan routes. Most cosmopolitan city; dominant [[affiliation-ashanpnthn|Āsháian]] faith.
 - [[affiliation-ashkabel|Ashkabel]]—The cultural heart. Famous for ship design, academies, and a more balanced political culture.
-- [[affiliation-azhun|Azhûn]]—The river-mouth port on the Alz, conduit between the Dunhari desert and the western sea routes; ruled by its merchant guilds from the House of Factors.
+- [[affiliation-azhun|Azhûn]]—The river-mouth port on the [[place-alzriver|Alz]], conduit between the Dunhari desert and the western sea routes; ruled by its merchant guilds from the House of Factors.
 
 ## Commerce and Currency
 

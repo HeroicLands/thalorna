@@ -29,7 +29,7 @@ Tamavar's harbor is the finest on the [[place-vylarianse|Vylarian Sea]]—a deep
 - The Grand Harbor—largest and most protected port on the Vylarian Sea
 - The Guild Quarter—headquarters of the major merchant guilds
 - The Grand Council Hall—meeting place of the Confederation's governing body
-- The Tamzîr Monument—a captured Vylarian warship, preserved in dry-dock as a memorial to the Battle of Tamzîr Shoals
+- The Tamzîr Monument—a captured Vylarian warship, preserved in dry-dock as a memorial to the Battle of [[place-tamzirshoals|Tamzîr Shoals]]
 
 ## See Also
 
