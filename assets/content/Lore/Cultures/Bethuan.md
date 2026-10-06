@@ -37,9 +37,9 @@ Above the army stands the fleet, which is what Bethûa is actually famous for: t
 
 ## The Goddesses on the Bench
 
-Bethûans keep the Aurèldían pantheon, the same gods venerated across much of the world, and they venerate both sexes freely—a warrior prays to Jánus, a smith to the Sacred Forge, a sailor to Táranon. What is distinctively Bethûan is the state cult.
+Bethûans keep the Aurèldían pantheon, the same gods venerated across much of the world, and they venerate both sexes freely—a warrior prays to Árdavon, a smith to the Sacred Forge, a sailor to Táranon. What is distinctively Bethûan is the state cult.
 
-Sacred authority descends through goddesses: Lúsinía of creation and beauty, who is the sovereign's own patron; Aethería of dreams and the unseen; Vénusia of prosperity and pleasure. Those three orders anchor the realm's sacred government, and the Mêtríssa rules as a high priestess of a goddess. The gods men favor are honored in their temples and have no place on that bench, and no Bethûan finds this any stranger than that a fisherman does not sit in the Council of Houses.
+Sacred authority descends through goddesses: Lúsinía of creation and beauty, who is the sovereign's own patron; Aethería of dreams and the unseen; Ólvenía of prosperity and pleasure. Those three orders anchor the realm's sacred government, and the Mêtríssa rules as a high priestess of a goddess. The gods men favor are honored in their temples and have no place on that bench, and no Bethûan finds this any stranger than that a fisherman does not sit in the Council of Houses.
 
 ## Learning and the Foreign Eye
 

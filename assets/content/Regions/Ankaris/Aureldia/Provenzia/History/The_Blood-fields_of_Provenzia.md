@@ -76,11 +76,11 @@ _worked on_ are another matter.
 
 Very little, and deliberately.
 
-The clergy of [[affiliation-thanatos|Thánatos]], the Silent Judge, hold the competent authority.
+The clergy of [[affiliation-thanatos|Sélmoros]], the Silent Judge, hold the competent authority.
 Their rite over a blood-field is one of settlement rather than cleansing—an acknowledgement that the
 dead were not judged in order, and a formal placing of them in the god's keeping. It is performed
 where a field is troublesome, it is expensive, and it works perhaps half the time. Priests of
-Thánatos are candid about the proportion, which does not endear them to the districts that pay.
+Sélmoros are candid about the proportion, which does not endear them to the districts that pay.
 
 The [[affiliation-ordoarcanis|Ordo Arcanis]] would very much like to study them systematically and has
 never been permitted to, chiefly because every proposal has involved opening one.
@@ -110,4 +110,4 @@ not need a name to be a blood-field.
 ## See Also
 
 - [[place-provenzrgn|Provènzia Region]] · [[lore-aralwen|Arálwen]]
-- [[affiliation-thanatos|Faith of Thánatos]] · [[affiliation-blackflame|The Black Flame]]
+- [[affiliation-thanatos|Faith of Sélmoros]] · [[affiliation-blackflame|The Black Flame]]

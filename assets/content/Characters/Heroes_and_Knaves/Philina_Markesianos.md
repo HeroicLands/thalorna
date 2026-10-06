@@ -489,7 +489,7 @@ Lady Theodora Kallisthenes
 The Merchant Queens' Collective
 : An informal network of successful female merchants and business owners who have collectively commissioned several pieces from Philína and who actively promote her work within their circles.
 
-High Priestess Irene of Vénusia
+High Priestess Irene of Ólvenía
 : A priestess of the goddess of prosperity who has commissioned ceremonial leather garments and artifacts from Philína for use in ritual contexts.
 
 ### Enemies

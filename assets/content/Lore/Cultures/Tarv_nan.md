@@ -39,7 +39,7 @@ Marriage is arranged but not dictated, and a Tarvénan who forced a daughter int
 
 ## Faith Without an Establishment
 
-The Aurèldían pantheon is kept honestly and without much clerical supervision. Tarvénans favor Jánus of gates and oaths, Karnavos of the wild, and the Sacred Forge, and they are cooler than their neighbors toward the grand temple establishments—the same objection as to the Ordo, applied to priests.
+The Aurèldían pantheon is kept honestly and without much clerical supervision. Tarvénans favor Árdavon of gates and oaths, Karnavos of the wild, and the Sacred Forge, and they are cooler than their neighbors toward the grand temple establishments—the same objection as to the Ordo, applied to priests.
 
 A village keeps its shrine, its own priest who is usually a local man, and its own festival calendar, and it resists any attempt to regularize any of the three.
 

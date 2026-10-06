@@ -486,7 +486,7 @@ Kharon the Fist
 Demetría Sulfúra
 : A merchant woman of rival house who has accused Phótianos of spreading false rumors about her trading practices, damaging her reputation and business. The two families maintain cold antagonism, though the rift may not be irreparable.
 
-The Orthodox Temple of Jánus
+The Orthodox Temple of Árdavon
 : Certain temple authorities believe Phótianos's inn has become "too permissive" regarding who is served and what discussions are tolerated. They have sermonized against the inn and encouraged the faithful to boycott it, viewing him as spiritually corrupted by worldliness.
 
 ### Affiliations

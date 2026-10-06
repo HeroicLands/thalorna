@@ -502,7 +502,7 @@ Theron the Beast Master
 Urban Animal Trainers' Guild
 : - Her guild, where she sits on the committee that sets standards of care for trained animals
 
-The Sanctuary of Vénusia
+The Sanctuary of Ólvenía
 : - A spiritual fellowship devoted to the goddess of prosperity and natural harmony, which sponsors rehabilitation work with injured and mistreated animals
 
 ## Plot Hooks

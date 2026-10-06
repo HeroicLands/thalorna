@@ -1,9 +1,9 @@
 ---
 shortcode: vulcanschsm
-name: {full: The Vúlcani Schism, aliases: [The Splitting of the Forge-Lord]}
+name: {full: The Ústaran Schism, aliases: [The Splitting of the Forge-Lord]}
 type: lore
 subType: history
-description: "Roughly five hundred years ago a faction within the Vúlcani clergy declared that the god's true nature was destruction—and the Aurèldían faith of the Forge-Lord split into the Sacred Forge and the Black Flame."
+description: "Roughly five hundred years ago a faction within the Ústaran clergy declared that the god's true nature was destruction—and the Aurèldían faith of the Forge-Lord split into the Sacred Forge and the Black Flame."
 tags: [history, spine]
 data:
   packFolder: settinglore
@@ -15,7 +15,7 @@ data:
       depth: world
       sources: [lore-vulcanischism, affiliation-blackflame]
       summary: >-
-        A faction within the Vúlcani clergy declares that the god's duality is an evasion: that Vúlcan's true nature is destruction, purification through fire and the dominance of the strong, and that the forge is merely destruction put to temporary use. The claim cannot be accommodated, because it is a claim about which half of the god is real. Two bitterly opposed faiths result, each holding the other heretical.
+        A faction within the Ústaran clergy declares that the god's duality is an evasion: that Ústaron's true nature is destruction, purification through fire and the dominance of the strong, and that the forge is merely destruction put to temporary use. The claim cannot be accommodated, because it is a claim about which half of the god is real. Two bitterly opposed faiths result, each holding the other heretical.
       standing: attested
       names:
         - name: The Sacred Forge
@@ -56,7 +56,7 @@ data:
       unresolved: []
 ---
 
-**Vúlcan** the Forge-Lord holds both aspects of flame at once—the forge that shapes and the inferno
+**Ústaron** the Forge-Lord holds both aspects of flame at once—the forge that shapes and the inferno
 that consumes—and for most of the [[affiliation-arldnpnthn|Aurèldían Pantheon]]'s history that
 duality was carried without difficulty. A god of fire was understood to be a god of both what fire
 makes and what it takes.
@@ -69,4 +69,4 @@ Neither position leaves room for the other to be merely mistaken, and both are a
 same god rather than about different ones—which is what makes the enmity theological rather than
 merely political, and why five centuries have not worn it down.
 
-The full account is [[lore-vulcanischism|The Vúlcani Schism]].
+The full account is [[lore-vulcanischism|The Ústaran Schism]].

@@ -39,7 +39,7 @@ Education is valued and the valuing is sincere. The academies at the great citie
 
 The result is a society where a merchant quotes philosophy at dinner and means it, and where a man's ability to speak well is a legible asset. Rhetoric is the skill the culture actually rewards most: a Provenzian will admire a well-made argument he disagrees with, and remember it longer than the conclusion.
 
-Ménérva of knowledge and Vénusia of prosperity and pleasure are the best-loved gods here, which is a fair summary of Provenzian priorities. The Sacred Forge is honored by the region's very considerable population of skilled craftsmen, who are better paid and better regarded than their equivalents anywhere west of them.
+Ménérva of knowledge and Ólvenía of prosperity and pleasure are the best-loved gods here, which is a fair summary of Provenzian priorities. The Sacred Forge is honored by the region's very considerable population of skilled craftsmen, who are better paid and better regarded than their equivalents anywhere west of them.
 
 ## Manners
 

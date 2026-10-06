@@ -59,7 +59,7 @@ This campaign is composed of a series of adventures. Players will be members of 
 
 - **Role:** Ensures accurate record-keeping and correspondence.
 - **Background:** Trusted for his meticulous work and reliability in the Synod's records.
-- \***\*Intrigue:\*\*** Engaged in a secret homosexual relationship with Loris of Taravel, which is against the moral teachings of Jánus. Deeply in love with Loris, he is unaware of Loris's true motives. Elowyr fears exposure could ruin both reputations and be leveraged for blackmail.
+- \***\*Intrigue:\*\*** Engaged in a secret homosexual relationship with Loris of Taravel, which is against the moral teachings of Árdavon. Deeply in love with Loris, he is unaware of Loris's true motives. Elowyr fears exposure could ruin both reputations and be leveraged for blackmail.
 
 ### Diplomatic Aides
 
@@ -86,8 +86,8 @@ This campaign is composed of a series of adventures. Players will be members of 
 1. **Name:** [[being-toradhtaravren|Dame Toradh Taravren]]
 
 - **Role:** Captain of the _Order of the Just Blade_ and provides military counsel.
-- **Background:** A Knight-Captain of the [[affiliation-justbladeordr|Order of the Just Blade]] (a militant order of the [[affiliation-janus|Faith of Janus]], god of order and justice), Dame Toradh is a decorated warrior with experience in various military campaigns, including the genocidal crusade against the [[affiliation-saelvri|Saelvri]]. Her accolades are a source of tension with Sir Arren who feels overshadowed by her real battle experience.
-- **Intrigue:** Though she has fought in the crusade, Dame Toradh secretly despises it, considering it contrary to the true principles of the Order and the faith of Jánus. Her disdain for the crusade could be a morally charged narrative, possibly leading her to take actions that align more with her true beliefs than the official stance of the Order.
+- **Background:** A Knight-Captain of the [[affiliation-justbladeordr|Order of the Just Blade]] (a militant order of the [[affiliation-janus|Faith of Árdavon]], god of order and justice), Dame Toradh is a decorated warrior with experience in various military campaigns, including the genocidal crusade against the [[affiliation-saelvri|Saelvri]]. Her accolades are a source of tension with Sir Arren who feels overshadowed by her real battle experience.
+- **Intrigue:** Though she has fought in the crusade, Dame Toradh secretly despises it, considering it contrary to the true principles of the Order and the faith of Árdavon. Her disdain for the crusade could be a morally charged narrative, possibly leading her to take actions that align more with her true beliefs than the official stance of the Order.
 
 ### Sergeant-at-Arms and Spymaster
 
@@ -154,7 +154,7 @@ Name: Vacant
 Name: [[being-lheteklarnavel|Lhetek Larnavel]]
 
 - **Role:** Provides spiritual guidance.
-- **Background:** Lhetek is a High Priest of Jánus known for his dedication and steadfastness in maintaining the spiritual health and moral compass of the party. He conducts religious ceremonies, offers counsel, and ensures the mission adheres to Jánus's principles of order and justice.
+- **Background:** Lhetek is a High Priest of Árdavon known for his dedication and steadfastness in maintaining the spiritual health and moral compass of the party. He conducts religious ceremonies, offers counsel, and ensures the mission adheres to Árdavon's principles of order and justice.
 - **Intrigue:** Despite his high standing and respect within the party, Lhetek struggles with alcoholism. He hides his addiction, afraid that exposure would undermine his authority and influence. This personal struggle can be exploited, creating vulnerabilities that might affect the mission.
 
 ### Stable Master

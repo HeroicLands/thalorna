@@ -493,7 +493,7 @@ His Own Reputation
 Byzarian Swordmasters' Guild
 : A prestigious organization to which only masters of proven excellence are admitted. Gávrilos sits on the Council of Masters that adjudicates disputes and sets standards.
 
-The Scholars of Vénusia
+The Scholars of Ólvenía
 : A philosophical circle devoted to the goddess of prosperity and martial excellence. Gávrilos attends their quarterly meetings, where swordmasters debate technique and history.
 
 ## Plot Hooks

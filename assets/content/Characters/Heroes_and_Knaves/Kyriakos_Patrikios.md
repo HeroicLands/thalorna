@@ -446,7 +446,7 @@ Over the past five years, the village has begun to recognize Kyriákos's rare ma
 
 Kyriákos is a man of deep silence and restraint. He speaks sparingly, choosing words with the care of someone who knows that words, carelessly deployed, can wound as deeply as blades. He is gruff with most people, not out of hostility but out of a conviction that he does not deserve their friendship or warmth. Yet he is committed to those under his protection. He will stand against overwhelming odds for people he barely knows, driven by a compulsion to atone that he will never fully accomplish. He is capable of dark humor—a habit from his mercenary years—but it surfaces rarely.
 
-His faith in **Vénusia**, goddess of prosperity and abundance, was rekindled late in life through an unexpected source. He came to understand that Vénusia stands for the abundance of a life lived with purpose and integrity as well as for material wealth, and that his journey from violence to attempted redemption was itself a form of prayer to that goddess. He does not attend temple regularly, but he makes small offerings and performs his duties as a teacher and protector with the reverence of spiritual practice.
+His faith in **Ólvenía**, goddess of prosperity and abundance, was rekindled late in life through an unexpected source. He came to understand that Ólvenía stands for the abundance of a life lived with purpose and integrity as well as for material wealth, and that his journey from violence to attempted redemption was itself a form of prayer to that goddess. He does not attend temple regularly, but he makes small offerings and performs his duties as a teacher and protector with the reverence of spiritual practice.
 
 ### Motivation
 

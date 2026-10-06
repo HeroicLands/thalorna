@@ -496,7 +496,7 @@ Miners' Union of Élavendre
 Craftspeople's Guild
 : Membership in multiple specialized circles including Jewelcrafters and Metallurgists.
 
-The Order of Jánus (Order Aspect)
+The Order of Árdavon (Order Aspect)
 : A devout follower who attends ceremonies regularly, finding spiritual meaning in the order inherent in mineral formations.
 
 ## Plot Hooks

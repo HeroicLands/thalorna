@@ -474,7 +474,7 @@ Master Physician Bryâkos
 Master Alchemist Theron
 : The guild-master of Nartûm's Alchemist Guild views Dómrithâs as a corruption of their craft and has spent years gathering evidence of his unethical practices with intent to expose him and have him expelled or worse.
 
-Priestess Morvanna of Jánus's Temple
+Priestess Morvanna of Árdavon's Temple
 : The keeper of the order-god's temple views Dómrithâs's work as corruption of natural order and has declared his pursuit of immortality heretical. She actively works to discredit him and protect innocents from his experiments.
 
 The Widow Selene

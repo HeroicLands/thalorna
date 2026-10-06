@@ -57,7 +57,7 @@ Education is highly valued. Provènzia is home to several renowned academies and
 
 ## Religion
 
-The [[affiliation-arldnpnthn|Aurèldían Pantheon]] is the dominant faith. [[affiliation-arldnpnthn|Ménérva]] (knowledge) and [[affiliation-arldnpnthn|Vénusia]] (prosperity and seduction) are especially popular, reflecting Provenzian priorities of learning and sensual appreciation of life. [[affiliation-arldnpnthn|The Sacred Forge]] (fire and the forge) is honored by the region's many skilled craftsmen.
+The [[affiliation-arldnpnthn|Aurèldían Pantheon]] is the dominant faith. [[affiliation-arldnpnthn|Ménérva]] (knowledge) and [[affiliation-arldnpnthn|Ólvenía]] (prosperity and seduction) are especially popular, reflecting Provenzian priorities of learning and sensual appreciation of life. [[affiliation-arldnpnthn|The Sacred Forge]] (fire and the forge) is honored by the region's many skilled craftsmen.
 
 Temples in Provènzia tend toward the grand and beautiful, doubling as galleries, concert halls, and centers of community life. Religious festivals are elaborate affairs combining solemn ritual with carnival-like celebration.
 

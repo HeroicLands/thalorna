@@ -5,7 +5,7 @@ name:
   aliases: [Ordo Bifrons, The Order of Two Faces, The Gate-Wardens]
 type: affiliation
 subType: order
-description: "Knightly guardians of thresholds—city gates, treaty borders, sacred boundaries—bearing the paired blades that symbolize Jánus's two faces, one for what was sworn and one for what comes after the breach."
+description: "Knightly guardians of thresholds—city gates, treaty borders, sacred boundaries—bearing the paired blades that symbolize Árdavon's two faces, one for what was sworn and one for what comes after the breach."
 tags: [organization, aureldia, fighting-order, janus, thresholds]
 data:
   templatePriority: null
@@ -24,7 +24,7 @@ data:
       - level: 1
         title: Candidate
         description: >-
-          A sworn devotee of Jánus in the order's candidacy of two to four years, examined in arms, the protocols of threshold-guarding, the conduct of challenge and parley, and the temperament to hold a station for weeks.
+          A sworn devotee of Árdavon in the order's candidacy of two to four years, examined in arms, the protocols of threshold-guarding, the conduct of challenge and parley, and the temperament to hold a station for weeks.
       - level: 2
         title: Sworn Twinblade
         description: >-
@@ -50,12 +50,12 @@ sohl: {system: {commonSkills: []}}
 _Aurèldían: Ordo Bifrons—"The Order of Two Faces"_
 
 - **Type:** Fighting religious order
-- **Patron:** [[affiliation-janus|Jánus]]—Aurèldían god of oaths, gates, beginnings, and the dualities that separate one state from another
-- **Region:** [[place-aureldirgn|Aurèldía]]—chapter houses at the most consequential gates, borders, and threshold-sites across the five kingdoms; mother-house at the Twin Gate of Vénustria
+- **Patron:** [[affiliation-janus|Árdavon]]—Aurèldían god of oaths, gates, beginnings, and the dualities that separate one state from another
+- **Region:** [[place-aureldirgn|Aurèldía]]—chapter houses at the most consequential gates, borders, and threshold-sites across the five kingdoms; mother-house at the Twin Gate of Ólvestria
 
 ## Overview
 
-If the [[affiliation-ordrsldwrd|Order of the Sealed Word]] is Jánus's juridical arm—riding to where oaths have been broken to render judgment—the Twinblade Order is his territorial one. The Twinblades guard _thresholds_: the great city gates of the Aurèldían capitals, the contested borders between kingdoms, the sacred boundaries around fae-touched groves and ancient battlefields, the formal frontier-stones marking where one polity ends and another begins. Their working principle is that thresholds are the places where one order gives way to another, that these places are sacred to Jánus by their nature, and that they require armed presence to hold their sanctity against the casual transgression that would otherwise erode them.
+If the [[affiliation-ordrsldwrd|Order of the Sealed Word]] is Árdavon's juridical arm—riding to where oaths have been broken to render judgment—the Twinblade Order is his territorial one. The Twinblades guard _thresholds_: the great city gates of the Aurèldían capitals, the contested borders between kingdoms, the sacred boundaries around fae-touched groves and ancient battlefields, the formal frontier-stones marking where one polity ends and another begins. Their working principle is that thresholds are the places where one order gives way to another, that these places are sacred to Árdavon by their nature, and that they require armed presence to hold their sanctity against the casual transgression that would otherwise erode them.
 
 A Twinblade is not, primarily, a frontier guard in the conventional military sense. The kingdoms maintain their own border forces. What a Twinblade is, is the _ritual_ presence at the threshold—the figure whose acknowledged authority confers on the gate or boundary the recognition of a binding limit. When a noble's retinue approaches a city gate that has been formally closed to him, the kingdom's gate-guards may attempt to refuse him entry; the Twinblade present is who refuses him with the authority that the noble's blood and rank cannot override. When a treaty-line is contested by competing claimants, the Twinblade stationed at the line is who confirms which side of the line a given act has fallen on. When a sacred boundary has been violated, the Twinblade is who pursues the violator and brings him to account.
 
@@ -63,7 +63,7 @@ The order's emblem is the paired blade: the Twinblades wear two swords, one carr
 
 ## Membership and Structure
 
-Candidates are sworn devotees of Jánus, examined for martial competence, knowledge of the protocols of threshold-guarding, the rhetorical conduct of formal challenge and parley, and the personal temperament the order requires (a Twinblade who cannot hold a station for weeks at a time without lapsing into restlessness is, by the order's reckoning, unfit). Candidacy takes two to four years.
+Candidates are sworn devotees of Árdavon, examined for martial competence, knowledge of the protocols of threshold-guarding, the rhetorical conduct of formal challenge and parley, and the personal temperament the order requires (a Twinblade who cannot hold a station for weeks at a time without lapsing into restlessness is, by the order's reckoning, unfit). Candidacy takes two to four years.
 
 There are two working ranks above the candidacy, and two offices drawn from them:
 
@@ -72,11 +72,11 @@ There are two working ranks above the candidacy, and two offices drawn from them
 - **Magister of the Gate** (_Magister Portae_)—chapter leader; one per chapter house; presides over chapter affairs.
 - **Voice of the Twin Gate** (_Mál Portae Geminae_)—the order's chair; one position; chosen by the assembled Magisters; serves for life or until resignation.
 
-The order has chapter houses at each of the most consequential thresholds in Aurèldía: the great gates of Vénustria, Béravel, Aelissium, Karatos, and Liranel; the principal treaty-borders between Tarvénia and Provènzia, Provènzia and Élavendre, and Élavendre and Aelwyth; the more important fae-touched groves with [[affiliation-groveconcl|The Grove Council]] recognition; and a small number of historical battlefields whose threshold-status the order maintains.
+The order has chapter houses at each of the most consequential thresholds in Aurèldía: the great gates of Ólvestria, Béravel, Aelissium, Karatos, and Liranel; the principal treaty-borders between Tarvénia and Provènzia, Provènzia and Élavendre, and Élavendre and Aelwyth; the more important fae-touched groves with [[affiliation-groveconcl|The Grove Council]] recognition; and a small number of historical battlefields whose threshold-status the order maintains.
 
 ## Notable Members
 
-- **Voice Veronica Aldorina**—current Voice of the Twin Gate; a woman in her early sixties whose distinguished career as Magister of the Vénustrian Twin Gate preceded her elevation.
+- **Voice Veronica Aldorina**—current Voice of the Twin Gate; a woman in her early sixties whose distinguished career as Magister of the Ólvestrian Twin Gate preceded her elevation.
 - The Magisters of the major chapter houses—each presiding over a station of substantial diplomatic importance.
 
 ## Doctrine and Practice
@@ -94,13 +94,13 @@ The combat doctrine is paired-weapon focused, though in practice most Twinblades
 - **Gate-guard.** Permanent stations at major city gates; the Twinblade is not the primary guard but the figure who confirms the legitimacy of contested admissions and refusals.
 - **Border patrol.** Rotating circuits along treaty-borders; the Twinblade's presence confirms the line's legitimacy in disputed crossings.
 - **Sacred-boundary patrol.** Stations at fae-touched groves (in coordination with the [[affiliation-alndnwrdns|Áelendan Wardens]]) and at battlefield-sites; the Twinblade's role is ritual as much as practical.
-- **Ceremonial duty.** Major Aurèldían ceremonies—coronations, treaty-signings, formal embassies—require the presence of a Twinblade of the appropriate rank. The order maintains a ceremonial cadre at Vénustria for this duty.
+- **Ceremonial duty.** Major Aurèldían ceremonies—coronations, treaty-signings, formal embassies—require the presence of a Twinblade of the appropriate rank. The order maintains a ceremonial cadre at Ólvestria for this duty.
 
 ## Relations
 
-- **The Aurèldían Pantheon's Priesthood**—religious foundation; the order's senior elevations are conducted in temple rite at the Twin Gate temple at Vénustria.
+- **The Aurèldían Pantheon's Priesthood**—religious foundation; the order's senior elevations are conducted in temple rite at the Twin Gate temple at Ólvestria.
 - **The five Aurèldían Crowns**—the order operates under royal license in each kingdom; the licenses are generally renewed without difficulty since the order's services are valuable to the crowns themselves.
-- **The [[affiliation-ordrsldwrd|Order of the Sealed Word]]**—sister Jánus order; constant coordination. The Sealed Word convenes oath-hearings; the Twinblade Order provides the threshold-presence at formal proceedings and supplies combatants for trial-by-combat when the matter is one of threshold-violation.
+- **The [[affiliation-ordrsldwrd|Order of the Sealed Word]]**—sister Árdavon order; constant coordination. The Sealed Word convenes oath-hearings; the Twinblade Order provides the threshold-presence at formal proceedings and supplies combatants for trial-by-combat when the matter is one of threshold-violation.
 - **The [[affiliation-groveconcl|Grove Council]] and [[affiliation-alndnwrdns|Áelendan Wardens]]**—formal cooperation on sacred-boundary work in Élavendre. The relationship is cordial and procedural.
 - **The [[affiliation-ordershnvw|Order of the Ashen Vow]] and [[affiliation-ironcinder|Iron Cinder]]**—Black Flame orders; mutually hostile. Black Flame operatives attempting to cross thresholds the Twinblades guard are refused; the refusal is sometimes contested by combat.
 - **Foreign jurisdictions**—limited formal relations. The order does not maintain stations beyond Aurèldían territory. Foreign embassies passing through Aurèldían gates are received with full ceremony.
@@ -114,4 +114,4 @@ A Sworn Twinblade wears the order's surcoat—pale gray with the Bifrons emblem 
 - **The Contested Crossing.** A noble retinue has presented itself at a kingdom-border station, claiming diplomatic right of passage that the host kingdom denies. The Twinblade at the station must rule on the contested crossing in real time, knowing that ruling either way will create a diplomatic incident.
 - **The Sacred-Boundary Violation.** A Grove Council representative has petitioned the order to pursue a violator who has crossed a fae-touched grove's boundary and fled. The doctrine of the Combat at the Gate forbids pursuit beyond the threshold; the chapter must determine whether the boundary's authority extends to the pursuit or whether the Wardens must take the matter from this point forward.
 - **The Lost Blade.** A Senior Twinblade's off-hand blade—heirloomed from his predecessor at a major station—has been stolen. He is in formal mourning until it is recovered or replaced; the chapter is investigating the theft, which appears to have been deliberate rather than opportunistic. The blade's symbolic value to the station makes the theft a deliberate provocation by some party not yet identified.
-- **The Ceremonial Sabotage.** The Twinblade cadre assigned to a major coronation has been quietly approached by an agent acting for one of the rival claimants to the throne; the agent has offered the cadre's commander a substantial inducement to allow a specific protocol violation during the ceremony—a violation that would invalidate the coronation under Jánus's strictest reading. The commander has refused but the agent has not withdrawn the offer, and the date of the coronation approaches.
+- **The Ceremonial Sabotage.** The Twinblade cadre assigned to a major coronation has been quietly approached by an agent acting for one of the rival claimants to the throne; the agent has offered the cadre's commander a substantial inducement to allow a specific protocol violation during the ceremony—a violation that would invalidate the coronation under Árdavon's strictest reading. The commander has refused but the agent has not withdrawn the offer, and the date of the coronation approaches.

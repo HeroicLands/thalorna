@@ -4,7 +4,7 @@ name:
   full: Father Iztéban Alkássar
   given: Iztéban
   clan: Alkássar
-  aliases: [The Jánusian Priest]
+  aliases: [The Árdavonian Priest]
 type: being
 subType: character
 tags: [heroes-and-knaves, todo, hero, clergy]
@@ -82,7 +82,7 @@ sohl:
     - name: Ceremonial priestly robes (white with silver embroidery)
       type: miscgear
       system: {shortcode: ceremonialpriestly, weight: 1, value: 100, durability: 3}
-    - name: Jánusian holy symbol (staff-topped amulet)
+    - name: Árdavonian holy symbol (staff-topped amulet)
       type: miscgear
       system: {shortcode: janusianholysymbol, weight: 1, value: 100, durability: 3}
     - name: Holy scripture and theological texts
@@ -424,25 +424,25 @@ sohl:
 
 ![[frztbnlksr|Father Iztéban Alkássar]]{float=top-left}
 
-Standing at 5'11", Father Iztéban has a medium build, weighing around 170 pounds, with a tanned complexion that speaks to his Mèridiane heritage. His hair is dark and wavy, cut short, and his beard is neatly trimmed. His dark brown eyes are calm and observant, reflecting his deep sense of justice and his role as a Jánusian priest. His nose is straight, and his face is marked by a serene, almost paternal expression. Father Iztéban wears the traditional garb of the Jánusian clergy—a long, white robe embroidered with silver, and a red sash symbolizing his status as priest. He carries a ceremonial staff topped with the symbol of Jánus, though a short sword hangs at his waist as a reminder of his chivalric duties.
+Standing at 5'11", Father Iztéban has a medium build, weighing around 170 pounds, with a tanned complexion that speaks to his Mèridiane heritage. His hair is dark and wavy, cut short, and his beard is neatly trimmed. His dark brown eyes are calm and observant, reflecting his deep sense of justice and his role as a Árdavonian priest. His nose is straight, and his face is marked by a serene, almost paternal expression. Father Iztéban wears the traditional garb of the Árdavonian clergy—a long, white robe embroidered with silver, and a red sash symbolizing his status as priest. He carries a ceremonial staff topped with the symbol of Árdavon, though a short sword hangs at his waist as a reminder of his chivalric duties.
 
 # Dossier {#dossier}
 
-Iztéban Alkássar was born into a modest but respected noble family in the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]], a land known for its strong traditions of chivalry, honor, and justice. His father, **Álvaro Alkássar**, served as a knight in the royal guard, while his mother, **Tesera**, was the daughter of a well-known scholar. From an early age, Iztéban was taught the principles of the **Jánusian** faith, which holds sacred the ideals of protection, honor, and the defense of the weak.
+Iztéban Alkássar was born into a modest but respected noble family in the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]], a land known for its strong traditions of chivalry, honor, and justice. His father, **Álvaro Alkássar**, served as a knight in the royal guard, while his mother, **Tesera**, was the daughter of a well-known scholar. From an early age, Iztéban was taught the principles of the **Árdavonian** faith, which holds sacred the ideals of protection, honor, and the defense of the weak.
 
-Although Iztéban’s family hoped he would follow in his father’s footsteps as a knight, Iztéban felt a strong calling to the clergy. He was particularly inspired by the goddess **Jánus**, the embodiment of justice and honor, who teaches her followers to defend the helpless and stand against oppression. By the age of 12, Iztéban expressed his desire to join the **Order of the Sword of Jánus**, the priesthood dedicated to serving both the spiritual and martial aspects of the Jánusian faith.
+Although Iztéban’s family hoped he would follow in his father’s footsteps as a knight, Iztéban felt a strong calling to the clergy. He was particularly inspired by the goddess **Árdavon**, the embodiment of justice and honor, who teaches her followers to defend the helpless and stand against oppression. By the age of 12, Iztéban expressed his desire to join the **Order of the Sword of Árdavon**, the priesthood dedicated to serving both the spiritual and martial aspects of the Árdavonian faith.
 
 ## Background
 
-### Joining the Jánusian Church
+### Joining the Árdavonian Church
 
-Iztéban was sent to the **Great Temple of Jánus** in the capital city of **Valderas**, where he began his formal training as an acolyte. His studies included theology, law, and combat training, as the Jánusian faith expects its priests to be both protectors and spiritual guides. Iztéban excelled in all aspects of his training, particularly in the philosophical and legal teachings of the faith, as well as in swordsmanship.
+Iztéban was sent to the **Great Temple of Árdavon** in the capital city of **Valderas**, where he began his formal training as an acolyte. His studies included theology, law, and combat training, as the Árdavonian faith expects its priests to be both protectors and spiritual guides. Iztéban excelled in all aspects of his training, particularly in the philosophical and legal teachings of the faith, as well as in swordsmanship.
 
-At the age of 20, Iztéban took his vows and was ordained as a priest dedicated to serving Jánus’ cause on the battlefield and in the courts. He became known for his dedication to justice, traveling throughout the kingdom to mediate disputes, bring corrupt officials to justice, and uphold the ideals of the Jánusian church.
+At the age of 20, Iztéban took his vows and was ordained as a priest dedicated to serving Árdavon’ cause on the battlefield and in the courts. He became known for his dedication to justice, traveling throughout the kingdom to mediate disputes, bring corrupt officials to justice, and uphold the ideals of the Árdavonian church.
 
 ### The Rising Threat of Injustice
 
-In recent years, the Kingdom of Tarvénia has faced increasing political unrest, with corruption spreading among the nobility. Several powerful lords have begun to use their influence to exploit the common people, disregarding the chivalric code and the teachings of Jánus. As a priest, Iztéban has become a central figure in the church’s efforts to combat this rising tide of injustice. He is often called upon to investigate claims of corruption and arbitrate disputes, ensuring that the kingdom’s laws of honor and protection are upheld.
+In recent years, the Kingdom of Tarvénia has faced increasing political unrest, with corruption spreading among the nobility. Several powerful lords have begun to use their influence to exploit the common people, disregarding the chivalric code and the teachings of Árdavon. As a priest, Iztéban has become a central figure in the church’s efforts to combat this rising tide of injustice. He is often called upon to investigate claims of corruption and arbitrate disputes, ensuring that the kingdom’s laws of honor and protection are upheld.
 
 One of Iztéban’s most recent assignments involves investigating **Lord Goran Virador**, a noble accused of abusing his power and oppressing the local peasantry. Goran has seized land unlawfully and has shown a blatant disregard for the kingdom’s laws, presenting Iztéban with one of his most difficult challenges yet. As Iztéban delves deeper into the investigation, he uncovers a web of corruption that extends beyond Lord Goran, threatening the very foundations of Tarvénia’s chivalric code.
 
@@ -460,14 +460,14 @@ One of Iztéban’s most recent assignments involves investigating **Lord Goran 
 - **Creativity**: His creativity lies in interpreting religious texts and adapting them to new situations.
 - **Empathy**: He is deeply attuned to the needs and feelings of others, making him an effective priest.
 - **Eloquence**: His sermons and words of wisdom are delivered with clarity and conviction.
-- **Morality**: Iztéban, as a Jánusian priest, adheres strictly to his religion’s standards of chivalry, honor, and protecting the weak, making principled decisions even at personal cost.
+- **Morality**: Iztéban, as a Árdavonian priest, adheres strictly to his religion’s standards of chivalry, honor, and protecting the weak, making principled decisions even at personal cost.
 - **Voice**: As a priest, Iztéban often leads chants and religious hymns. His voice is clear and strong, resonating with reverence and devotion.
 
 ## Psyche
 
 ## Personality and Motivations
 
-Father Iztéban is a man of deep faith, driven by his devotion to Jánus and the ideals of justice and honor. He believes that those who possess power must wield it responsibly, using their strength to protect the weak and uphold the law. He is both a scholar and a warrior, combining his knowledge of the law with his martial prowess to serve as a beacon of justice in a world increasingly marred by corruption.
+Father Iztéban is a man of deep faith, driven by his devotion to Árdavon and the ideals of justice and honor. He believes that those who possess power must wield it responsibly, using their strength to protect the weak and uphold the law. He is both a scholar and a warrior, combining his knowledge of the law with his martial prowess to serve as a beacon of justice in a world increasingly marred by corruption.
 
 Despite his unwavering commitment to his faith, Father Iztéban is pragmatic enough to recognize that the world is not black and white. He knows that achieving justice often requires navigating the complexities of politics and power, and he is willing to compromise when necessary, though never at the expense of his core values.
 
@@ -481,10 +481,10 @@ Despite his unwavering commitment to his faith, Father Iztéban is pragmatic eno
 ### Patrons
 
 Sir [[being-srndrslrcknghtwstrnmrchs|Andrés]] Lorca
-: A loyal knight and Iztéban’s close friend, Sir [[being-srndrslrcknghtwstrnmrchs|Andrés]] has served as Iztéban’s protector and companion on many dangerous missions. Together, they have fought bandits, quelled rebellions, and brought corrupt nobles to justice. Sir [[being-srndrslrcknghtwstrnmrchs|Andrés]] embodies the ideals of Jánusian chivalry and is unwavering in his support of Iztéban’s quest for justice.
+: A loyal knight and Iztéban’s close friend, Sir [[being-srndrslrcknghtwstrnmrchs|Andrés]] has served as Iztéban’s protector and companion on many dangerous missions. Together, they have fought bandits, quelled rebellions, and brought corrupt nobles to justice. Sir [[being-srndrslrcknghtwstrnmrchs|Andrés]] embodies the ideals of Árdavonian chivalry and is unwavering in his support of Iztéban’s quest for justice.
 
 Archbishop Valerio Córdava
-: The Jánusian prelate at Valderas, who confirms Iztéban’s arbitrations under seal and so meets him on the register four times a year. The commissions into noble corruption carry that seal, and so does the protection from the complaints they draw—protection Iztéban knows is conditional on the matter never reaching the royal court. Córdava is also **Tesera**’s brother. Neither of them says so, and nobody counts a scholar’s daughter who married into the royal guard as kin to an archbishop.
+: The Árdavonian prelate at Valderas, who confirms Iztéban’s arbitrations under seal and so meets him on the register four times a year. The commissions into noble corruption carry that seal, and so does the protection from the complaints they draw—protection Iztéban knows is conditional on the matter never reaching the royal court. Córdava is also **Tesera**’s brother. Neither of them says so, and nobody counts a scholar’s daughter who married into the royal guard as kin to an archbishop.
 
 ### Enemies
 
@@ -492,7 +492,7 @@ Lord Goran de Virador
 : A corrupt noble who has been exploiting his people and ignoring the laws of the kingdom, Lord Goran sees Iztéban’s investigation as a direct threat to his power. Lord Goran will use every means at his disposal—bribery, manipulation, and even violence—to stop Iztéban from uncovering the full extent of his crimes.
 
 Lady Isolda de Varas
-: A shrewd noblewoman who plays a dangerous political game, Lady Isolda publicly supports the Jánusian faith but has secretly allied herself with the corrupt elements within the kingdom. She views Iztéban as an obstacle to her ambitions and has begun to quietly work against him, spreading rumors and using her influence in the royal court to undermine his reputation.
+: A shrewd noblewoman who plays a dangerous political game, Lady Isolda publicly supports the Árdavonian faith but has secretly allied herself with the corrupt elements within the kingdom. She views Iztéban as an obstacle to her ambitions and has begun to quietly work against him, spreading rumors and using her influence in the royal court to undermine his reputation.
 
 ### Affiliations
 

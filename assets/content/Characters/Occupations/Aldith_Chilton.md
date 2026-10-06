@@ -402,11 +402,11 @@ Aldith Chilton is a striking vision of carefully cultivated beauty that seems al
 
 # Dossier {#dossier}
 
-Aldith Chilton was born into the minor nobility of Aelwyth thirty years ago, a fourth-daughter in a family more concerned with accumulating wealth than molding heirs. Her beauty became apparent early—almost unsettlingly so—and from adolescence, she understood that it opened doors that birth alone could not. She chose the priesthood of Vénusia not from genuine spiritual calling but from pragmatic recognition: within Vénusia's temples, her gifts would be celebrated as divine rather than merely cosmetic, and she could operate with the authority and autonomy that marriage to some minor noble would have denied her.
+Aldith Chilton was born into the minor nobility of Aelwyth thirty years ago, a fourth-daughter in a family more concerned with accumulating wealth than molding heirs. Her beauty became apparent early—almost unsettlingly so—and from adolescence, she understood that it opened doors that birth alone could not. She chose the priesthood of Ólvenía not from genuine spiritual calling but from pragmatic recognition: within Ólvenía's temples, her gifts would be celebrated as divine rather than merely cosmetic, and she could operate with the authority and autonomy that marriage to some minor noble would have denied her.
 
 Her rise within the temple hierarchy was meteoric. She studied the rituals of seduction and attraction—not as mere performance but as a priestess studies sacred mysteries. Her exceptional creativity and charm gave her an intuitive grasp of the elaborate psychology that underpins desire: how to read a room, how to make each patron feel uniquely chosen, how to weave flattery and genuine compliment so skillfully that they become indistinguishable. She learned to cultivate an air of mystery, to retreat into inscrutability at precisely the moment a patron craves her most. At 30, she hosts the most sought-after salons in [[place-ashford|Ashford]], intimate gatherings where wealthy merchants, minor nobility, and ambitious magistrates come seeking guidance—and seeking her.
 
-Yet success has a peculiar hollowness to it. Those who know her well enough to see beneath the carefully maintained façade note a certain emptiness at her core. Her low reasoning and middling will suggest someone driven more by impulse than conviction, by the intoxicating thrill of being desired than by any genuine connection to Vénusia's philosophy. She believes pleasure is sacred because her life has taught her that pleasure is the only reliable source of power and validation. Whether this constitutes genuine faith or merely convenient rationalization remains an open question—even to herself.
+Yet success has a peculiar hollowness to it. Those who know her well enough to see beneath the carefully maintained façade note a certain emptiness at her core. Her low reasoning and middling will suggest someone driven more by impulse than conviction, by the intoxicating thrill of being desired than by any genuine connection to Ólvenía's philosophy. She believes pleasure is sacred because her life has taught her that pleasure is the only reliable source of power and validation. Whether this constitutes genuine faith or merely convenient rationalization remains an open question—even to herself.
 
 ## Psyche
 
@@ -418,7 +418,7 @@ Her greatest strength is her supernatural ability to make others feel special, d
 
 ## Social
 
-Aldith is not merely affiliated with the Temple of Vénusia in Ashford—she essentially is the Temple's public face, at least among the wealthy elite who fund its operations. The high priestess tolerates her because Aldith generates substantial coin through her salons and because her obvious piety (however self-interested) brings prestige to the order. Aldith's authority is considerable but brittle; it rests entirely on her continued beauty and charisma. Among the temple's minor priests and acolytes, she is viewed with a mixture of awe, resentment, and fear. She does not mentor; she competes.
+Aldith is not merely affiliated with the Temple of Ólvenía in Ashford—she essentially is the Temple's public face, at least among the wealthy elite who fund its operations. The high priestess tolerates her because Aldith generates substantial coin through her salons and because her obvious piety (however self-interested) brings prestige to the order. Aldith's authority is considerable but brittle; it rests entirely on her continued beauty and charisma. Among the temple's minor priests and acolytes, she is viewed with a mixture of awe, resentment, and fear. She does not mentor; she competes.
 
 Within Ashford's upper circles, she moves with ease and recognition. Merchants' wives seek her blessing for fertility. Ambitious magistrates visit her salons to be seen among the elite. Younger noblewomen ask her for advice on matters of love and seduction, and she gives it with the smugness of someone who has never experienced genuine romantic rejection. Yet there is a brittleness to her social standing. She has made enemies through her indifference and through her casual willingness to favor some patrons over others based on whim. Some of the families whose daughters she has humiliated, whose sons she has rejected, harbor quiet resentments that, given the right circumstance, could turn into genuine danger.
 
@@ -431,14 +431,14 @@ Within Ashford's upper circles, she moves with ease and recognition. Merchants' 
 
 **Enemies:**
 
-- **Father Sérismond**, high priestess of the Temple of Vénusia, who views Aldith as a useful asset but no more than that. Their relationship is cordial but tense; Sérismond's spiritual authority stands in implicit competition with Aldith's charismatic power.
+- **Father Sérismond**, high priestess of the Temple of Ólvenía, who views Aldith as a useful asset but no more than that. Their relationship is cordial but tense; Sérismond's spiritual authority stands in implicit competition with Aldith's charismatic power.
 - **Theron Blackweir**, a merchant's son whom Aldith humiliated publicly at a salon five years ago by publicly preferring another patron. He smiles when their paths cross in Ashford society, but his smile does not reach his eyes.
 
 ## Plot Hooks
 
 1. **The Priestess's Prophecy**—A traveling oracle arrives in Ashford and attends one of Aldith's salons. She pulls Aldith aside and whispers that the goddess has shown her a vision of Aldith's beauty failing within the year—a curse, perhaps, or merely a warning of advancing age. Aldith, terrified, begins searching for ways to stave off this fate, drawing the oracle deeper into her world and potentially into conflict with the temple authorities.
 
-2. **A Rival's Rise**—A younger priestess of Vénusia, nearly as beautiful as Aldith but with genuine spiritual conviction, begins establishing herself in Ashford and attracting Aldith's patrons with teachings of authentic connection rather than performative seduction. Aldith moves to discredit her rival, but the younger priestess's genuine faith makes her difficult to undermine.
+2. **A Rival's Rise**—A younger priestess of Ólvenía, nearly as beautiful as Aldith but with genuine spiritual conviction, begins establishing herself in Ashford and attracting Aldith's patrons with teachings of authentic connection rather than performative seduction. Aldith moves to discredit her rival, but the younger priestess's genuine faith makes her difficult to undermine.
 
 3. **The Stolen Heart**—Aldith genuinely falls in love with someone for the first time—a wealthy merchant, a military officer, perhaps another priestess—only to discover they were playing the seduction game as skillfully as she was. The realization that she has been used as she uses others threatens her carefully constructed worldview.
 
