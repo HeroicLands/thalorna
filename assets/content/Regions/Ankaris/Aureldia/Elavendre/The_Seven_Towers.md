@@ -8,7 +8,7 @@ tags: [draft]
 data:
   packFolder: elavendre
   form: elegy
-  subjects: [khazarturn, khazturnrsd, flkkhazar, grukarfolk]
+  subjects: [lore-khazarturn, lore-khazturnrsd, lore-flkkhazar, lore-grukarfolk]
   language: sinalelng
 ---
 

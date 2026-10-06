@@ -10,15 +10,15 @@ data:
   culture: khelathiclt
   form: chronicle
   subjects:
-    - qettelgu
-    - yathtelgu
-    - garauu
-    - qearetdty
-    - psaqarudty
-    - rethsaardty
-    - uzneradty
-    - uqaadty
-    - azuathisdty
+    - lore-qettelgu
+    - place-yathtelgu
+    - lore-garauu
+    - lore-qearetdty
+    - lore-psaqarudty
+    - lore-rethsaardty
+    - lore-uzneradty
+    - lore-uqaadty
+    - lore-azuathisdty
   language: khelathlng
 ---
 
