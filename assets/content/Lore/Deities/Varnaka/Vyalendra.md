@@ -22,6 +22,6 @@ Artisans bless the tools of their trade each morning. Before a new commission th
 
 [[place-sarvaprbhv|Sarvaprabhava]] is his, the source-temple at the head of the Sarvada in Dhanurkota's own upper valley. The temple's record has it rebuilt on the same footing eleven times, each rebuilding finished within a single open season. Its masons read that as a fact about the mountain and not about their predecessors' workmanship.
 
-The villages downstream keep a pilgrimage to it for those hoping for a child. The god of foundations serves as the god of beginnings of every kind.
+The villages downstream keep a pilgrimage to it for those hoping for a child. The god of foundations is the god of beginnings of every kind.
 
-On the Mahānadi plain, Rājapur keeps its own great Vyālendra temple at the janapada's center, raised on the ruins of the kingdom that once stood there. Its Spring Festival is the year's great pilgrimage draw.
+On the Mahānadi plain, Rājapur keeps its own great Vyālendra temple at the janapada's center, beside the old royal palace. Its altar is a sandstone block cut when the dynastic capital was founded, and its Spring Festival is the year's great pilgrimage draw.

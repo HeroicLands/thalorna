@@ -16,7 +16,7 @@ Three Ordeals are undertaken in his name. The Vigil of Final Breath is kept at a
 
 No face is carved for him. The tradition holds that no living soul may look on it before the hour of its own passage.
 
-His black conch sounds at every threshold a Vedyari household keeps, at birth, at coming-of-age and at the final breath. A black conch shell hangs above most doorposts for that reason. A threshold lamp burns through the night a family member is dying and is kept alight until the passage is complete. A coin of Passage is set in the hand of the dead at cremation, and the priests call it a reminder to the soul of what it brings to the gate.
+His black conch sounds at every threshold a Vedyari household keeps, at birth, at coming-of-age and at the final breath. A black conch shell hangs above most doorposts for that reason. A threshold lamp burns through the night a family member is dying and is kept alight until the passage is complete. A Coin of Passage is set in the hand of the dead at cremation, and the priests call it a reminder to the soul of what it brings to the gate.
 
 [[affiliation-rasikara|Rásikara]]'s fire unmakes the body. Kālavrata takes what is left when the cremation-fires end, and his conch calls the soul on.
 

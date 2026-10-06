@@ -54,38 +54,31 @@ sohl: {system: {commonSkills: [rasikara, sohl-sohl-skill-srvl]}}
 - **Pronunciation:** _RAH-see-kah-rah_
 - **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
-Rásikara is the god of fire and of the change fire compels. He is the burning that strips away corruption and the kindling that starts new growth. [[affiliation-mahajaya|Mahájaya]] preserves and [[affiliation-vyalendra|Vyālendra]] shapes; Rásikara breaks.
+"Carry the ember in with both hands and do not stop on the way. It came off your hearth, and it has one place to go." The keeper of a cremation ground says this to a young man about to light his father's pyre, and says it flatly, as a man tells a newcomer where to put his feet. Rásikara's cult is not comfortable, and its keepers do not pretend it is. Its shrines stand at a city's edge and at its cremation grounds, and its devotees are ascetics, warriors, healers of wasting diseases and the keepers of the cremation-fires.
 
-The Varnakan faith holds the breaking sacred. Without the forest-fire there is no green flush of new shoots; without the fever no end to sickness; without the cremation no release of the soul from what it has been. Rásikara is venerated for courage, the courage to meet what must be destroyed with the fire proper to the task.
+Rásikara is the god of fire and of the change fire compels, the burning that strips away corruption and the kindling that starts new growth. [[affiliation-mahajaya|Mahájaya]] preserves and [[affiliation-vyalendra|Vyālendra]] shapes; Rásikara breaks. The Varnakan faith holds the breaking sacred, and he is venerated for courage: the courage to meet what must be destroyed with the fire proper to the task. The [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]] keeps him in balance with the other two forms, and the [[affiliation-agnipantha|Agnī-panthā]] carries his purification onto the road.
 
-Rásikara's shrines are often kept at the edge of cities and at the cremation grounds. His devotees include ascetics, warriors, healers of wasting diseases, and the keepers of the cremation-fires.
+### What You See at His Shrines
 
-### Aspects
+The image is a lean, burning figure standing within a ring of broken chains or fractured stone, sometimes many-armed and sometimes a single column of flame. The broken circle of his symbol stands for a world that seizes up into rigidity and for the god's willingness to break it open. His flame is bright and not cruel, and the theology insists he does not burn what has not earned burning.
 
-Rásikara is depicted as a lean, burning figure standing within a ring of broken chains or fractured stone, sometimes many-armed and sometimes a single column of flame. The broken circle of his symbol stands for a world that seizes up into rigidity and for the god's willingness to break it open. His flame is bright and not cruel, and the theology insists he does not burn what has not earned burning.
+Three objects carry the cult. The **fire-brand** is a torch of consecrated wood, used in rites of purgation. The **Fragment of the Ring** is a broken metal circle worn at the neck, signifying the worshipper's willingness to be broken and remade. The **ash-mark** is a smear of consecrated ash applied to the brow in rites of purging.
 
-### Sacred Objects
+The **Agni-Pralayas**, his spirits of purging fire, come in wildfire, in volcanic eruption and in fever-epidemic, and in the renewal-fires the devout kindle on purpose. The faithful regard them with awe and with dread.
 
-- **Fire-brand**—a torch of consecrated wood, used in rites of purgation
-- **Fragment of the Ring**—a broken metal circle worn at the neck, signifying the worshipper's willingness to be broken and remade
-- **Ash-mark**—a smear of consecrated ash applied to the brow in rites of purging
+### What the Devout Do
 
-### Divine Servants
-
-- **Agni-Pralayas**—the spirits of purging fire. They come in wildfire, in volcanic eruption and in fever-epidemic, and in the renewal-fires the devout kindle on purpose. The faithful regard them with awe and with dread.
-
-### Veneration
-
-Rásikaran households keep an unbroken hearth-flame carried forward from parent to child at each marriage, and to let the family fire go out is a grave omen. Before any work that destroys what came before, the razing of a condemned house, the felling of a diseased tree, the cutting of a blighted harvest, the devout trace an ash-mark on the brow and speak the formula of purging. At the death of a family member an ember from the hearth is carried to the cremation-ground to light the pyre.
+Rásikaran households keep an unbroken hearth-flame, carried forward from parent to child at each marriage, and letting the family fire go out is a grave omen. Before any work that destroys what came before, the devout trace an ash-mark on the brow and speak the formula of purging. The work might be the razing of a condemned house, the felling of a diseased tree or the cutting of a blighted harvest. At the death of a family member an ember from the hearth is carried to the cremation ground to light the pyre.
 
 ### Ordeals for Favor
 
-- **The Walk of Coals**—the devotee walks barefoot across a bed of coals drawn from a consecrated fire. An inch of uninjured skin is a sign of the god's favor; a burn is a sign of the work yet to be done.
+- **The Walk of Coals**—the devotee walks barefoot across a bed of coals drawn from a consecrated fire. An inch of uninjured skin is a sign of the god's favor, and a burn is a sign of the work yet to be done.
 - **The Vigil in Ashes**—a three-day fast beside the cooling ashes of a cremation, meditating on the transformation the fire has performed.
-- **The Firebrand's Year**—a year spent in itinerant service, carrying a lit torch from settlement to settlement, kindling purgation-fires wherever asked.
+- **The Firebrand's Year**—a year spent in itinerant service, carrying a lit torch from settlement to settlement and kindling purgation-fires wherever asked.
 
 ### See Also
 
 - [[affiliation-varakpnthn|Varnaka Pantheon]]
+- [[lore-rasikaradty|Rásikara]]—the god, and the theology of the sacred breaking
 - [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]]—the orthodox tri-form tradition, which venerates Rásikara as destroyer-renewer alongside Vyālendra and Mahájaya
 - [[affiliation-agnipantha|Agnī-panthā]]—the ascetic Rásikara-focused reformist path

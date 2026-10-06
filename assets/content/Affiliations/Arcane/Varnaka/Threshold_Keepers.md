@@ -76,7 +76,9 @@ sohl:
 - **Warranted for:** Inheritance and unwitnessed killing
 - **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
-The **Threshold-keepers** are what Vedyara has instead of necromancers, and the distinction is one the Vedyari will argue at any length asked of them.
+"Two Witnesses, always two," a Keeper of the Register tells the court clerk who has come to ask what a consultation is worth. "One is worth nothing in any court."
+
+The **Threshold-keepers** are what Vedyara has instead of necromancers. They put one question to the newly dead and compel nothing, and that difference is the whole defense of the practice.
 
 [[affiliation-kalavrata|Kālavrata]] guides the soul from one body to the next and grants nothing to anyone for asking. He is not petitioned here and is not held to have any part in the answer. What the keepers work is the gap—the space between the sounding of the conch and the lighting of the pyre, while the household's threshold lamp still burns and the way the soul has just gone is still, in the tradition's own words, open behind it.
 
@@ -90,7 +92,7 @@ Outsiders who have heard of it call it necromancy. The word means coercion every
 
 ### What It Is Warranted For
 
-Two things, and the list has not grown.
+Two things, and no third.
 
 **Inheritance.** Where a household's succession turns on what a person meant and the person is the only one who knew, a court may warrant the question. The answer is evidence and is not proof; it is weighed against the documents, and where it contradicts a sealed will the will stands.
 

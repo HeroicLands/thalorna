@@ -12,7 +12,7 @@ _The Wandering Wind—a loose company of gauze-robed figures running barefoot, s
 
 The Pavanajitras are a company of minor wind-spirits. They guide travelers, fill a merchant-ship's sail with a favorable gale, and whisper the road's omens to anyone who has learned to listen.
 
-Vedyari theology places them below the ten proper deities and above the ordinary local spirit. They are not celestial in the full sense, and they are not bound to one place as a river-spirit or a field-spirit is bound. They are prayed to, as the greater gods are. No one names them individually, as no one names the lesser spirits, and the iconography favors the company over any figure within it.
+Vedyari theology places them below the pantheon's gods and above the ordinary local spirit. They are not celestial in the full sense, and they are not bound to one place as a river-spirit or a field-spirit is bound. They are prayed to, as the greater gods are. No one names them individually, as no one names the lesser spirits, and the iconography favors the company over any figure within it.
 
 Their devotion is the simplest in the pantheon and the most widely kept, since almost everyone travels sooner or later. A wind-medallion engraved with their sail is carried on any long journey and touched at every crossroads and every waterway on the way.
 
