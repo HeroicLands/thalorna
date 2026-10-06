@@ -69,6 +69,7 @@
         "lint:reference-people": "node utils/reference-people.mjs",
         "lint:labels": "package-build labels check",
         "build:module": "package-build manifest",
+        "lint:khazari-lexicon": "node utils/lexicons/khazari-lexicon.mjs",
         "lint:khelathi-lexicon": "node utils/lexicons/khelathi-lexicon.mjs",
         "lint:drift": "node utils/nordmal-drift.mjs",
         "lint:nordmal-lexicon": "node utils/lexicons/nordmal-lexicon.mjs",
