@@ -158,15 +158,30 @@ tags:
   - draft
 ```
 
-The tag gates nothing. No build reads `tags`, so a note carrying it compiles
-into its pack, appears in the link manifest, publishes to the site, and may be
-linked to exactly as any other note does. It says the note is not finished, to
-the person reading the tree — and to a generated content table, which can select
-on it (`FROM #draft`).
+A draft note is published like any other: it compiles into its pack, appears in
+the link manifest, publishes to the site and may be linked to. The tag adds
+notices and does not hide anything.
 
-**The `draft:` _field_ is retired.** Authoring one is a hard build error —
+- **The note states it is unfinished.** A website page opens with a draft
+  notice above its infobox and prose; a compiled journal opens with the same
+  notice on its first page; an Actor carries it at the head of the prose the
+  sheet draws; the book sets it between the entry's plate and its body.
+- **A link into the note is marked.** A wikilink to a draft note, and a page
+  list or generated table row that links to one, carries a visible draft cue on
+  the site and in journals, and reads `(draft)` after the label in the book.
+- **A content table can select it** with `FROM #draft`, and every note carries a
+  computed `state` column of `full`, `draft` or `stub`.
+
+Every note needs a nonempty body, a draft included. An empty or
+whitespace-only body is an error whatever the description or tags say, and a
+note in that state publishes no page and no journal. A body of fewer than 25
+prose words warns unless the note is tagged `draft`, so a short beginning is
+written down and tagged. A `folder` note is held only to the nonempty rule: any
+body passes, with or without the tag, and a folder note carries no `draft` tag.
+
+**The `draft:` _field_ is not accepted.** Authoring one is a hard build error,
 `draft: false` included, since it reads as "publish this note", which is what
-happens either way.
+happens either way. Use the tag.
 
 ## Being classifications
 

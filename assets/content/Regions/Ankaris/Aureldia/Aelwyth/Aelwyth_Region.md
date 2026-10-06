@@ -74,7 +74,7 @@ ORDER BY p.name.full COLLATE NOCASE
 
 ### Elder Race Enclaves
 
-The southern forests shelter ancient communities of [[lore-flksinale|Sinalë]] (elves), who maintain a distant but real relationship with the crown of [[affiliation-kngdmldrth|Aldorath]]. The mountains northeast of Aldorath—the range separating the central lowlands from the [[affiliation-jrldmstrmvld|Stormveld]] coast—contain hidden holds of the [[lore-flkkhazar|Khazári]] (dwarves), among the most reclusive of their kind anywhere in [[place-ankrscntnnt|Ankaris Continent]].
+The southern forests shelter ancient communities of [[lore-flksinale|Sinalë]] (elves), who maintain a distant but real relationship with the crown of [[affiliation-kngdmldrth|Aldorath]]. The mountains northeast of Aldorath—the range separating the central lowlands from the [[affiliation-jrldmstrmvld|Stormveld]] coast—contain holds of the [[lore-flkkhazar|Khazári]] (dwarves), which few humans have seen and which are among the most reclusive of their kind anywhere in [[place-ankrscntnnt|Ankaris Continent]].
 
 ### Minor Polities
 

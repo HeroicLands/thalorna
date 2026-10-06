@@ -92,7 +92,7 @@ and no other repository is in the path between these pages and their readers.
 
 ```sh
 npm run build:site   # assets/content/ → build/hugo/content/ → build/site/thalorna/
-npm run serve:site   # the same, then `hugo server` for a local preview
+npm run serve:site   # the same content step, then `hugo server` for a local preview
 ```
 
 `build/hugo/` is the generated Hugo project: `package-build site` writes its
@@ -100,11 +100,15 @@ configuration and the content mount there, and the home page is rendered by
 the theme's landing layout from `assets/content/homepage.md`. The shared theme
 ships inside `@heroiclands/package-build`, which arrives through `npm ci`.
 Nothing under `build/hugo/` is committed.
-`.github/workflows/deploy-site.yml` builds the site on every push that touches
-the content or the build deriving it, and deploys it to this package's own
-Cloudflare Pages project. That project and the routing that puts it at
-`www.heroiclands.org/thalorna` are #1468; until its credentials are set here the
-workflow builds and verifies the site, and skips the upload.
+
+The `deploy-site.yml` workflow runs on every push to `main` and on manual
+dispatch, with no path filter. It runs the tests under `utils/`, builds the
+site, and checks that the 404 page, the deployment root's `_headers` and a
+complete page tree were produced. When both `CLOUDFLARE_API_TOKEN` and
+`CLOUDFLARE_ACCOUNT_ID` are set as repository secrets, it then creates the
+`sohl-thalorna` Cloudflare Pages project if it does not exist and uploads the
+build there. When either secret is missing, the workflow builds and verifies the
+site and skips the upload.
 
 ### The address is written down once
 
@@ -112,24 +116,14 @@ workflow builds and verifies the site, and skips the upload.
 `contentPackage` in
 [`package-build.config.yaml`](package-build.config.yaml) is where the site build
 is: a page publishes at `/<contentPackage>/<type>-<shortcode>/`, and `site.base`
-overrides that if the package ever moves. Pointing both at another prefix — or
-at an origin of this package's own — moves the whole site.
-
-That is what the arrangement is for. A successor inheriting this repository and
-nothing else can publish Thalorna wherever they like, without inheriting the rest
-of the project to do it.
+overrides that prefix. Pointing both at another prefix — or at an origin of this
+package's own — moves the whole site.
 
 ### The emitter is the toolchain's, entirely
 
-`npm run build:site-content` is `package-build site`, and there is no local site
-code at all — no walk, no filter, no page writer, no wikilink resolver, and no
-seam for one (#85). This repository used to carry its own emitter, a 907-line
-copy of the engine's plus a 281-line copy of its wikilink resolver, and that copy
-missed four upstream fixes in as many months: one emitted a site with zero pages,
-one left generated tables empty, one broke every breadcrumb, and one silently
-stripped `foundryPackage` and all 2,585 `uuid`s out of the published link
-manifest whenever the site built after it. A gap here is now fixed in
-`@heroiclands/package-build`, where every package gets the fix — never here.
+`npm run build:site-content` is `package-build site`. This repository holds no
+site code: the walk, the filter, the page writer and the wikilink resolver all
+live in `@heroiclands/package-build`, and a fix to any of them is made there.
 
 What the build does to a note:
 
@@ -141,8 +135,6 @@ What the build does to a note:
 - **Resolves** its wikilinks to site-local hrefs — the same authored links the
   pack compiler turns into Foundry `@UUID` enrichers.
 
-This build emits **no redirects**. It used to carry a record of the addresses
-each page had published at before, and turn them into Hugo `aliases`; that record
-is gone and the old addresses no longer answer. A note's own `aliases` was never
-published either — the key means alternative _names_ in Obsidian and _URL
-redirects_ in Hugo, and only one of those is a page.
+The build emits **no redirects**. A note's alternative names live in
+`name.aliases`, and they are names only: they publish no URL alias. A top-level
+`aliases:` key is refused by the frontmatter check.
