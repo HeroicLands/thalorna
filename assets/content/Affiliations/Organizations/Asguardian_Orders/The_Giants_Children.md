@@ -70,8 +70,8 @@ The order is exclusively male in present practice. The historical record include
 
 Initiation is in stages, modeled on the order's understanding of the cosmogony. The order holds four ranks:
 
-- **Put from the Order**—cast out by the assembled Fathers of the Halls, closing every one of the nine chapter halls' hospitality for good.
-- **The Frost-Touched** (_Hrímskírdr_)—the candidate stage; a young man (typically sixteen to twenty) sponsored by a sitting brother and tested through a year of physical labor at one of the chapter halls. Many candidates withdraw or are dismissed.
+- **Put from the Order** (_Eidvargr_)—cast out by the assembled Fathers of the Halls, closing every one of the nine chapter halls' hospitality for good.
+- **The Frost-Touched** (_Eidefnir_)—the candidate stage, whose brothers-to-be are called _Hrímblenn_, the rime-cleansed; a young man (typically sixteen to twenty) sponsored by a sitting brother and tested through a year of physical labor at one of the chapter halls. Many candidates withdraw or are dismissed.
 - **The Born of the Wound** (_Sárborinn_)—admitted after a formal rite that involves both severe physical ordeal and theological examination. The Born of the Wound wear the order's mark and are full members.
 - **The Hand of the Host** (_Hershönd_)—senior brother; advanced rite of initiation; permitted to lead the order's gathered brothers in the field and to instruct candidates.
 
@@ -91,8 +91,8 @@ The order's combat doctrine emphasizes individual prowess, heavy axe and hammer 
 
 ## Notable Members
 
-- **Voice Hrungnir Steinhand**—current Voice from the Wound; an austere man in his late fifties, regarded by his brothers as the most theologically rigorous Voice in a generation.
-- The nine Fathers of the Halls—each presiding over a chapter; the most prominent is **Father Sveinn Eldskari** at the Northern Hall in [[place-targud|Targud]], who commands the order's largest standing chapter.
+- **Voice Hrundthann Steinhönd**—current Voice from the Wound; an austere man in his late fifties, regarded by his brothers as the most theologically rigorous Voice in a generation.
+- The nine Fathers of the Halls—each presiding over a chapter; the most prominent is **Father Svilthvir Eldskari** at the Northern Hall in [[place-targud|Targud]], who commands the order's largest standing chapter.
 
 ## Field Practice
 

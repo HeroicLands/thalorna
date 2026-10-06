@@ -9,7 +9,7 @@ sohl: {system: {weightBase: 3, valueBase: 0, durabilityBase: 15}}
 ---
 
 One of the **three regalia** that [[being-grosdrnrgd|Gróa]]'s visions name as necessary to seal away
-[[being-njorven|Njörven]], alongside the [[miscgear-hornnjordur|Horn of Njörvar]] and the
+[[being-njorven|Njörven]], alongside the [[miscgear-hornnjordur|Horn of Hafvald]] and the
 [[miscgear-sprsigrid|Spear of Sigrid]]. None of the three is sufficient alone, and the
 [[lore-njordurritlbinding|Ritual of Binding]] cannot be worked without all of them.
 
@@ -31,4 +31,4 @@ whatever the carrier intends by it.
 ## See Also
 
 - [[scenario-groascmpgn|Gróa's Campaign]] · [[lore-njordurritlbinding|The Ritual of Binding]]
-- [[miscgear-hornnjordur|The Horn of Njörvar]] · [[miscgear-sprsigrid|The Spear of Sigrid]]
+- [[miscgear-hornnjordur|The Horn of Hafvald]] · [[miscgear-sprsigrid|The Spear of Sigrid]]

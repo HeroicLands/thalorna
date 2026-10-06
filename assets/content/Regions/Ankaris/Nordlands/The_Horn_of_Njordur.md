@@ -1,6 +1,6 @@
 ---
 shortcode: hornnjordur
-name: {full: The Horn of Njörvar, aliases: []}
+name: {full: The Horn of Hafvald, aliases: []}
 type: miscgear
 description: "One of the three regalia of Gróa's quest—the horn of an older sea-power, whose name unsettlingly resembles that of the wraith it is needed to bind."
 tags: [artifact, regalia, nordlands]
@@ -12,17 +12,17 @@ One of the **three regalia** required to seal away [[being-njorven|Njörven]], w
 [[miscgear-crwnwyrm|Crown of the Wyrm]] and the [[miscgear-sprsigrid|Spear of Sigrid]]. All three are
 needed for the [[lore-njordurritlbinding|Ritual of Binding]].
 
-## Njörvar
+## Hafvald
 
 The name is a difficulty, and the sagas do not resolve it.
 
-**Njörvar** is not one of the Asguardian Ten. The name belongs to an older sea-power of the
+**Hafvald** is not one of the Asguardian Ten. The name belongs to an older sea-power of the
 [[place-nrdlndsrgn|Nordlands]], largely displaced by the [[lore-asvinir|Ásvinir]] and surviving chiefly in place-names, in a few coastal
-observances that priests of [[lore-thrunvalddty|Thrúnvald]] tolerate without approving, and in this horn. What Njörvar was—a
+observances that priests of [[lore-thrunvalddty|Thrúnvald]] tolerate without approving, and in this horn. What Hafvald was—a
 god the [[lore-asvinir|Ásvinir]] supplanted, a sea-spirit the clans placated, or something the two later traditions have
 confused—depends entirely on which skald is asked.
 
-What every version of the story does note is the resemblance between **Njörvar** and [[being-njorven|Njörven]]. Some
+What every version of the story does note is the resemblance between **Hafvald** and [[being-njorven|Njörven]]. Some
 tellings make them enemies of old, the horn being the instrument by which the elder power bound the
 younger the first time. Some make them kin. A few, told quietly and not in halls, make them the same
 thing under two names, which would raise an obvious and unwelcome question about what the Ritual of

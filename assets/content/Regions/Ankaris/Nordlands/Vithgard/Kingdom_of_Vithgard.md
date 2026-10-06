@@ -105,3 +105,6 @@ Kingdom of Vithgard uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo
 - [[lore-vthgdhstry|Histories and Legends of Vithgard]]—the kingdom's remembered past
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]]—Sister kingdoms
 - [[affiliation-asguardian|Asguardian Pantheon]]—Pantheon
+- [[lore-nrdlndswhal|The Whale Strand]]—the whale hunt the kingdom lives by, and the law of the stranded whale
+- [[lore-nrdlndsseal|The Ice-Edge and the Rookery]]—the seal hunt
+- [[place-domsey|Dómsey]]—the ting island, where Vithgard's king and three jarls hold seats

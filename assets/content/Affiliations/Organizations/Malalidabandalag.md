@@ -87,9 +87,9 @@ The Compact's standing rules are simple and short. A captain who breaks any of t
 
 ## Notable Signed Companies
 
-- **The Hringstead Long-Ship Fellowship**—largest signed company; semi-permanent garrison of the Compact-Hall itself; commanded by Captain Brynhildr Eldskari.
+- **The Hringstead Long-Ship Fellowship**—largest signed company; semi-permanent garrison of the Compact-Hall itself; commanded by Captain Vrildselda Eldskari.
 - **The Wolves of Vithgard**—long-standing inland heavy infantry; specialty is sieges.
-- **Skjöldungar of [[place-norgaad|Norgaad]]**—coastal raiders turned legitimate naval contractors; primary employer is the merchant kings of [[place-aelwyth|Aelwyth]].
+- **Threskaett of [[place-norgaad|Norgaad]]**—coastal raiders turned legitimate naval contractors; primary employer is the merchant kings of [[place-aelwyth|Aelwyth]].
 - **The Iron-Beard Company**—smaller, elite, expensive; the only signed company that operates routinely outside the Nordlands. They have taken contracts as far south as [[place-helionis|Heliónis]].
 
 Unsigned and notable: **The [[affiliation-blckpnwlvs|Blackpine Wolves]]** of Vrystwald (refused by the Compact for repeated oath-breaking under their previous captain).

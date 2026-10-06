@@ -61,9 +61,9 @@ A candidate for the order is sponsored by a sitting Guardian and presented at th
 
 The order holds three ranks. It admits nobody below its sworn rank: a candidate is sponsored and examined before he is anything.
 
-- **Put from the Order**—cast out by vote of the Chapter, closing every valley station's hospitality and every sibling order's recognition for good.
+- **Put from the Order** (_Eidvargr_)—cast out by vote of the Chapter, closing every valley station's hospitality and every sibling order's recognition for good.
 - **Sworn Guardian** (_Grönvördr_)—the working warden; assigned to a station or, occasionally, riding as a circuit relief.
-- **Elder Guardian** (_Eldri Grönvördr_)—senior member; may serve as station-warden for a more important valley, may oversee training, sits on the order's Chapter.
+- **Elder Guardian** (_Eidhöfdingi_)—senior member, called _Eldri Grönvördr_ among the Wardens themselves; may serve as station-warden for a more important valley, may oversee training, sits on the order's Chapter.
 
 The order's chair, the **Speaker of the Green** (_Grönmál_), is elected by the Chapter for a five-year term—one position, acting as administrative coordinator rather than as a commander.
 
@@ -81,7 +81,7 @@ The order's training emphasizes the kinds of combat the Defended Hearth requires
 
 ## Notable Members
 
-- **Speaker Thorbjörg Grönmál**—current Speaker of the Green; a former station-warden of a contested [[place-vrystwald|Vrystwald]] valley; widely regarded as the moral conscience of the contemporary order.
+- **Speaker Thulmrinna Grönmál**—current Speaker of the Green; a former station-warden of a contested [[place-vrystwald|Vrystwald]] valley; widely regarded as the moral conscience of the contemporary order.
 - The standing Chapter—perhaps sixty Elder Guardians across the five kingdoms; meets in annual rotation.
 
 ## Relations

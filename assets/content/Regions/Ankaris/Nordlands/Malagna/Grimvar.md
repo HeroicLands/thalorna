@@ -3,7 +3,7 @@ shortcode: grimvar
 name: {full: Grímvar, aliases: []}
 type: affiliation
 subType: polity
-description: "A polity of [[place-malagna|Malagna]], under the crown at Gnarthborg."
+description: "A polity of Malagna, under the crown at Gnarthborg."
 tags: [draft]
 data:
   templatePriority: null
@@ -31,4 +31,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-A polity of Malagna, under the crown at [[place-gnarthborg|Gnarthborg]].
+A polity of [[place-malagna|Malagna]], under the crown at [[place-gnarthborg|Gnarthborg]].

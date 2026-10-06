@@ -38,6 +38,8 @@ data:
         description: >-
           A senior among the oath-sworn peers who choose the order's chair. Leads tactical actions in the field, instructs Aspirants, and sits in the conclave that chooses the Voice of the Hammer.
     offices:
+      Stormhöfdingi: >-
+        An Eidhöfdingi who leads the storm-speech in an engagement, reading the weather and deciding whether it is called; held for the engagement, not for life.
       Voice of the Hammer: >-
         The order's chair, chosen for life by conclave of the Storm-Captains; one position.
   seat: null
@@ -70,10 +72,10 @@ Candidates are presented to the order by a sponsoring Speaker, typically between
 
 The order holds four ranks:
 
-- **Put from the Order**—cast out by conclave of the Storm-Captains, closing [[place-thrumufjall|Thrumufjall]] and every chapter hall's hospitality for good.
-- **Storm-Aspirant** (_Stormefnir_)—candidate in training; serves at [[place-thrumufjall|Thrumufjall]] or under a sitting Speaker.
+- **Put from the Order** (_Eidvargr_)—cast out by conclave of the Storm-Captains, closing [[place-thrumufjall|Thrumufjall]] and every chapter hall's hospitality for good.
+- **Storm-Aspirant** (_Eidefnir_)—candidate in training; serves at [[place-thrumufjall|Thrumufjall]] or under a sitting Speaker.
 - **Sworn Speaker** (_Stormmaelir_)—full member; permitted to act on the order's behalf and to draw on its hospitality across the Nordlands.
-- **Storm-Captain** (_Stormhöfdingi_)—senior member; leads tactical actions in the field and instructs Aspirants.
+- **Storm-Captain** (_Eidhöfdingi_)—senior member; leads tactical actions in the field and instructs Aspirants. An Eidhöfdingi who leads the storm-speech—the reading and calling of the weather in an engagement—is called the _Stormhöfdingi_ for as long as he holds that charge.
 
 The order's chair, the **Voice of the Hammer** (_Hamarsmál_), is chosen for life by conclave of the Storm-Captains—one position.
 
@@ -91,8 +93,8 @@ The combat doctrine is heavy-weapon focused—the two-handed hammer, the short a
 
 ## Notable Members
 
-- **Voice Thorgrímr Hamarsmál**—current Voice of the Hammer; a Storm-Captain of substantial reputation before his elevation; presiding through a generation in which the order's coastal services have been in particularly high demand.
-- The standing Storm-Captains—twenty-three at present; the most prominent is **Captain Sigrún Eldhrund**, who commands the [[place-thrumufjall|Thrumufjall]] chapter and is widely regarded as the finest active practitioner of the order's weather-craft.
+- **Voice Thrildmýl Hamarsmál**—current Voice of the Hammer; a Storm-Captain of substantial reputation before his elevation; presiding through a generation in which the order's coastal services have been in particularly high demand.
+- The standing Storm-Captains—twenty-three at present; the most prominent is **Captain Skilfrinna Eldhrund**, who commands the [[place-thrumufjall|Thrumufjall]] chapter and is widely regarded as the finest active practitioner of the order's weather-craft.
 
 ## Operations
 

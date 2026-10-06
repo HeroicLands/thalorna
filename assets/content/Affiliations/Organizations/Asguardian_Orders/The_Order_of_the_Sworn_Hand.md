@@ -68,10 +68,10 @@ Membership is open to any sworn devotee of Eidgar who can pass the order's exami
 
 The order holds four ranks:
 
-- **Put from the Order**—cast out at trial before the Council of Hands, for softening a ruling, taking a gift from an interested party, or refusing a hard case; every chapter's hospitality is closed to them for good.
-- **Hand-Squire** (_Höndskjöldr_)—the admitted candidate; serves a senior knight for five to ten years before standing for examination, doing the order's work while holding none of its authority to judge.
+- **Put from the Order** (_Eidvargr_)—cast out at trial before the Council of Hands, for softening a ruling, taking a gift from an interested party, or refusing a hard case; every chapter's hospitality is closed to them for good.
+- **Hand-Squire** (_Eidefnir_)—the admitted candidate, whom the knights call a _Höndskjöldr_, a hand's shield; serves a senior knight for five to ten years before standing for examination, doing the order's work while holding none of its authority to judge.
 - **Sworn Hand** (_Eidhönd_)—the working knight; takes contracts from the order or rides his own circuit by elder permission, convening a ting under the white wand to render and enforce a ruling.
-- **Elder Hand** (_Eldri Eidhönd_)—senior member, recognized for many years of service or for notable rulings; permitted to take apprentices, to strip a knight of rank on the spot pending trial, and to sit on the Council of Hands.
+- **Elder Hand** (_Eidhöfdingi_)—senior member, called _Eldri Eidhönd_ among the knights themselves, recognized for many years of service or for notable rulings; permitted to take apprentices, to strip a knight of rank on the spot pending trial, and to sit on the Council of Hands.
 
 The order's chair, the **Voice of Lögstead** (_Lögstadar Mál_), is elected from the Council of Hands for life—one position, acting as first among equals rather than as a commander.
 
@@ -87,7 +87,7 @@ Procedurally, the order observes three working forms:
 
 ## Notable Members
 
-- **Voice Hróaldr Lögstadar**—current Voice of Lögstead; a man in his late sixties, regarded as the finest pure judicial mind the order has produced in two generations.
+- **Voice Knilthvir Lögstadar**—current Voice of Lögstead; a man in his late sixties, regarded as the finest pure judicial mind the order has produced in two generations.
 - The Council of Hands—twelve Elder Hands, drawn from the five kingdoms; meets quarterly at Lögstead.
 
 ## Relations

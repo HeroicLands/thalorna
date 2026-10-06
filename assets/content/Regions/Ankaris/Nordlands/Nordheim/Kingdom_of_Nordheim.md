@@ -133,6 +133,8 @@ Kingdom of Nordheim uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo
 
 - [[place-nordheim|Nordheim]]—The land the kingdom holds
 - [[lore-nrdhmhstry|Histories and Legends of Nordheim]]—the kingdom's remembered past
+- [[place-domsey|Dómsey]]—The ting island the kingdom holds, where the King of All Clans sits
+- [[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]—How the Nordmen bury their dead
 - [[place-grkrhlmrgn|Grukarhölm]]—Eastern neighbors, the Grukar tribes
 - [[place-vrystwald|Vrystwald]]—Southern frontier
 - [[affiliation-asguardian|Asguardian Pantheon]]—The Nordmen pantheon
