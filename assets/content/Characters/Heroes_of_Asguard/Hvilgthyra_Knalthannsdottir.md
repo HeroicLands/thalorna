@@ -381,7 +381,7 @@ Hvilgthýra is disciplined and composed, a woman who speaks with the quiet autho
 
 ### Motivation
 
-Hvilgthýra seeks to prove that wisdom and martial prowess are not opposing paths but complementary ones. She carries the weight of her father Eirik's legacy and strives to surpass it—not through greater feats of arms, but through the deeper understanding of the runes that her father never achieved. She hunts the remnants of Jarnvidr's dark influence, suspecting the warlock was merely a servant of a greater evil.
+Hvilgthýra seeks to prove that wisdom and martial prowess are not opposing paths but complementary ones. She carries the weight of her father Knalthann's legacy and strives to surpass it—not through greater feats of arms, but through the deeper understanding of the runes that her father never achieved. She hunts the remnants of Jarnvidr's dark influence, suspecting the warlock was merely a servant of a greater evil.
 
 ### Strengths
 
@@ -393,7 +393,7 @@ Hvilgthýra is a formidable warrior whose runic shield provides both physical an
 
 ### Patrons
 
-**Eirik the Gray**—Her father, now retired from active combat but still influential among the northern clans. He provides counsel and connections, though their relationship is complicated by his disappointment that she chose the path of the runes over pure warriorship.
+**Knalthann the Gray**—Her father, now retired from active combat but still influential among the northern clans. He provides counsel and connections, though their relationship is complicated by his disappointment that she chose the path of the runes over pure warriorship.
 
 **The Shrine of Ódvar at Ravenspeak**—The high priestess of this sacred site has taken a personal interest in Hvilgthýra's runic abilities and provides her with access to ancient texts and ritual spaces.
 
