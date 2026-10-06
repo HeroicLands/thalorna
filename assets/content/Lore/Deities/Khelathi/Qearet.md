@@ -23,7 +23,9 @@ entry closed or short, and beside it the account the gods kept themselves, which
 and no tablet holds. A soul short on either is taken by **Álgit, the Devourer of the Dead**. A soul
 whose entries close passes onward into the blessed [[place-zulaten|Zulaten]].
 
-: From [[lore-readingweigh|The Reading at the Weighing]]
+[[lore-readingweigh|The Reading at the Weighing]] sets the two accounts side by side:
+
+: The Weighing
 
 ```poetry {form=litany lang=en}
 Before the assembled gods both accounts are opened.

@@ -66,6 +66,8 @@ river, is held to be the very mound that first lifted from the waters of creatio
 Two Elder Races reached Thalorna five millennia before it. Nothing in the Khelâthi account addresses
 that, and nothing outside it disputes the claim either.
 
-: From [[lore-firstoccasion|The First Occasion]]
+[[lore-firstoccasion|The First Occasion]] begins where the count begins:
+
+: Before This Year
 
 > Before this year nothing is entered, because there was no year to enter it in. There was the dark, and in the dark the serpent whose name is not written at the head of a chronicle, and there was water without a bank. Nothing in it stood, so nothing in it could be counted, and what cannot be counted is not history.

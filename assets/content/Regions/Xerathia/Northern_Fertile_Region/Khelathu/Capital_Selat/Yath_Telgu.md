@@ -19,7 +19,9 @@ data:
 
 Midstream in the great river, between the living city on the east bank and the necropolis on the west, rises [[place-yathtelgu|Yath-Telgu]]—the First Mound, the holiest ground in all of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]. The Khelâthi hold it to be the very mound that first lifted from the waters of creation at the [[affiliation-empireakhlth#the-khelathi-calendar-and-dating|Qet Telgu]], the place where the world began; and upon it stand the two poles of imperial power—the **Great Temple of [[lore-uqaadty|Uqa'â]]** and the **palace of the Gar-Aû**—the god and the god-king moored together in the middle of the waters. It is the one part of [[place-galezkara|Galezkara]] ringed by a true fortified wall, white-plastered limestone visible for leagues and blinding at noon, and the one part whose gates are watched and whose ground is forbidden to the common crowd. Priests, courtiers, scribes of the inner bureaus, the royal guard, and those summoned before the throne pass its gates; the rest of the half-million city know it only as a white-walled vision across the water, and as the place from which the sun-god and the Gar-Aû together rule their days.
 
-: From [[lore-firstoccasion|The First Occasion]]
+[[lore-firstoccasion|The First Occasion]] tells how the mound rose:
+
+: The Mound
 
 > Then the mound lifted from the waters. It is the mound in the middle of the river at Galezkara, Yath-Telgu, the First Mound, and it is the first ground; the world begins on it. The fire of Uqa'â rose over it, and the first light fell on the first ground.
 

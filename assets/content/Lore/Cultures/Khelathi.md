@@ -140,7 +140,9 @@ Refusing is also not free, which is why it is so common. Being owed is an asset 
 
 Two decisions are made aloud at a Closing and the household hears both. The dying man says **what he calls in and what he leaves open**: what he calls in passes to his heirs, and what he leaves open goes with him. A generous man calls in little and leaves his children much; a grasping one calls in everything, arrives wealthy, and leaves a house with nothing to start on. Then the heir is asked **whether he will assume** what the estate could not cover. Both are lawful, both happen, and both are watched by everyone who will live with the answer.
 
-: From [[lore-readingweigh|The Reading at the Weighing]]
+[[lore-readingweigh|The Reading at the Weighing]] puts the question to the creditors:
+
+: The Asking
 
 ```poetry {form=litany lang=en}
 You to whom the dead owes: stand, and be asked.
