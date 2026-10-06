@@ -32,7 +32,7 @@ data:
 
 ## Overview
 
-Genzet'Uznêra is the governing council of [[affiliation-lutuznera|the temple of Uznêra]], drawn from the temple's senior priestesses and the few men raised high enough in its priesthood to sit beside them. The council administers the temple's holdings and sets the calendar of observances that mark fertility, marriage and birth across the god's following. A rite performed outside the calendar this council sets is not recognized as the temple's own, whatever a local priest privately performs.
+Fertility, marriage and birth are observed on the calendar of [[affiliation-lutuznera|the temple of Uznêra]], and **Genzet'Uznêra** is the council that sets it. The council governs the temple, drawn from its senior priestesses and the few men raised high enough in the priesthood to sit beside them, and it administers the temple's holdings. A rite performed outside the calendar the council sets is not recognized as the temple's own, whatever a local priest privately performs.
 
 ## Character
 

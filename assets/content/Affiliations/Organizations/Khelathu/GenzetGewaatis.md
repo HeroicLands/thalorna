@@ -32,7 +32,7 @@ data:
 
 ## Overview
 
-Genzet'Gewaâtis is the governing council of [[affiliation-lutgewaatis|the temple of Gewaâtis]], drawn from the temple's senior priests and the captains whose voyages the god protects. The council administers the temple's holdings and authorizes the voyages that claim Gewaâtis's protection, a formal blessing that insurers and investors look for before backing a venture. A voyage undertaken without the council's sanction sails without that protection, whatever its captain privately believes about the god's favor.
+Insurers and investors look for the council's blessing before they back a voyage. **Genzet'Gewaâtis** is the governing council of [[affiliation-lutgewaatis|the temple of Gewaâtis]], drawn from the temple's senior priests and the captains whose voyages the god protects, and it administers the temple's holdings and authorizes the voyages that claim his protection. A voyage undertaken without its sanction sails without that protection, whatever its captain privately believes about the god's favor.
 
 ## Character
 

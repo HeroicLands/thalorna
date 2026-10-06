@@ -3,7 +3,7 @@ shortcode: genzetgarau
 name: {full: Genzet'Gar-Aû, aliases: [The Gar-Aû's Court]}
 type: affiliation
 subType: governmental
-description: The household and council of the Gar-Aû, where appointment is made, favour is distributed, and the empire's factions contend in person
+description: The household and council of the Gar-Aû, where appointment is made, favor is distributed, and the empire's factions contend in person
 tags: [generated, draft]
 data:
   templatePriority: null
@@ -50,7 +50,7 @@ data:
 
 ## Overview
 
-Genzet'Gar-Aû is the household and council that surrounds the Gar-Aû, the body through which imperial appointment is made and favor distributed across [[place-aukhelathrgq|Aû'Khelâthu]]. Every faction with an interest in the empire's direction keeps a presence here, since a decision made elsewhere still has to survive this court before it becomes policy. A petitioner's request moves at the pace of whichever faction currently has the Gar-Aû's ear, which is rarely the petitioner's own.
+A decision made anywhere else in [[place-aukhelathrgq|Aû'Khelâthu]] still has to survive the Gar-Aû's court before it becomes policy. **Genzet'Gar-Aû** is the household and council that surrounds the Gar-Aû, the body through which imperial appointment is made and favor distributed, and every faction with an interest in the empire's direction keeps a presence in it. A petitioner's request moves at the pace of whichever faction currently has the Gar-Aû's ear, which is rarely the petitioner's own.
 
 ## Character
 
@@ -64,7 +64,7 @@ Genzet'Gar-Aû is the household and council around the Gar-Aû, through which ap
 
 The Judicial and Religious Advisor attends the court to advise on law and the gods, and has a residence in the palace complex, so law and the gods are consulted at the court itself.
 
-## Commerce and Currency
+## What It Deals In
 
 The court deals in appointment and favor rather than goods. Its coin is access: who stands near the Gar-Aû, who is named to an office, whose petition is read aloud.
 

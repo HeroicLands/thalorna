@@ -32,7 +32,7 @@ data:
 
 ## Overview
 
-Genzet'Yalgu, called the Court of the Nine Moons, is a body of the imperial court whose business is deliberately conducted out of the Gar-Aû's own hearing. Its members trade influence, information and favor among themselves, and its intrigues reach well beyond [[place-galezkara|Galezkara]] into the provinces and the temples alike. A newcomer to the court who mistakes this body for a minor faction learns otherwise only once its reach has already closed around some interest of their own.
+**Genzet'Yalgu**, the **Court of the Nine Moons**, does its business out of the Gar-Aû's hearing on purpose. It is a body of the imperial court whose members trade influence, information and favor among themselves, and its intrigues reach well beyond [[place-galezkara|Galezkara]] into the provinces and the temples alike.
 
 ## Character
 
@@ -44,9 +44,9 @@ The Court of the Nine Moons is secretive by design. It conducts its business out
 
 The court is a body within the imperial court at [[place-galezkara|Galezkara]]. Its intrigues reach into the provinces and the temples, so an outcome in a governor's seat or a high priest's renewal may owe something to a decision that was never announced. The body does not claim credit and does not answer questions about itself.
 
-## Commerce and Currency
+## What It Deals In
 
-Its members trade influence, information and favor among themselves, and no goods or coin figure in the account of its business. Each favor is carried by memory, and a favor remembered is a debt held.
+Its members trade in influence, information and favor, and nothing else changes hands: no goods and no coin. Each favor is carried by memory, and a favor remembered is a debt held.
 
 A newcomer who wants to know whether the court has taken an interest should watch for a favor that arrives before it was asked for. A favor that arrives unasked is worth asking about.
 

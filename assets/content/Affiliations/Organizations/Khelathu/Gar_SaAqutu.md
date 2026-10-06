@@ -36,7 +36,7 @@ data:
 
 ## Overview
 
-Gar-Sa'Aqutu is a military house of long standing in [[place-aukhelathrgq|Aû'Khelâthu]], its men raised through the officer ranks and its women placed at court to advance the line's interests there. The family treats command and courtly influence as complementary halves of one strategy, with each generation's placements chosen to support the other. A rival who underestimates the women of this house for lacking a military rank of their own typically discovers the omission too late to matter.
+**Gar-Sa'Aqutu** advances on two fronts at once. Its sons are raised through the officer ranks of the army of [[place-aukhelathrgq|Aû'Khelâthu]] and its daughters are placed at court, and the family treats command and courtly influence as complementary halves of one strategy, each generation's placements chosen to support the other. The women hold no rank in the army, and they are no less the house's instruments than the men.
 
 ## Character
 
@@ -48,7 +48,7 @@ The house is strategic and patient. It treats command and court influence as two
 
 Sons of the house rise through the officer ranks of [[place-aukhelathrgq|Aû'Khelâthu]]'s army, and daughters are placed at court. Neither half works alone. An officer's promotion has a sister's introduction behind it, and a sister's position is steadied by a brother who commands soldiers. Anyone dealing with the house deals with the whole design at once, whichever member happens to be in front of them.
 
-## Commerce and Currency
+## What It Deals In
 
 The house is not a trading house. Its wealth is its land, held by the master, and its advancement runs through placements in the army and at court rather than through trade.
 
