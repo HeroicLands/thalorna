@@ -42,16 +42,18 @@ Lem'Reth'Sa'âr is the sworn priesthood of [[lore-rethsaardty|Reth'Sa'âr]], god
 
 ## Character
 
-TBD.
+The order is exacting about the written word. It treats the discipline of the hand as part of the god's service and holds every scribal text to the standard its Keeper of the Disciplines sets. Where it refuses to recognize a document, that document carries no standing before any court or temple.
 
 ## Relations
 
-TBD.
+- [[affiliation-lutrethsaar|Lut-Reth'Sa'âr]]—The temple of the same god, whose archives the order keeps.
+- The scribal guild halls—The order's priests are drawn from scribes who pass beyond them into the god's direct service.
 
 ## Commerce and Currency
 
-TBD.
+The order deals in recognition rather than coin: a text it accepts can be presented before any court or temple, and a text it refuses cannot.
 
 ## See Also
 
-TBD.
+- [[lore-rethsaardty|Reth'Sa'âr]]—The god the order serves
+- [[affiliation-lutrethsaar|Lut-Reth'Sa'âr]]—The temple, its archives and its schools

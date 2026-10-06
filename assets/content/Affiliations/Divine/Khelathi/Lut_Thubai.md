@@ -52,16 +52,20 @@ Lut-Thubâ'i is the temple of [[lore-thubaidty|Thubâ'i]], god of the flood and 
 
 ## Character
 
-TBD.
+The temple is watchful, and its readings carry weight. It reads the river's rise each year and answers for the rites that follow, and its granaries stand behind the year's account. A bad reading is felt downstream in the price of grain as much as in the rites performed to avert worse.
 
 ## Relations
 
-TBD.
+- The state—Draws on the temple's granaries when the ordinary harvest falls short.
+- [[affiliation-lemthubai|Lem'Thubâ'i]]—The priesthood of the same god, which keeps the flood-records.
+- [[affiliation-linshelunthb|Lin'Shelun elu Thubâ'i]]—The performers and artists whose work the temple funds.
 
 ## Commerce and Currency
 
-TBD.
+The temple's granaries are the state's reserve in a short harvest, and the High Priest's reading of the flood is the figure the granaries and the tax rolls are set against.
 
 ## See Also
 
-TBD.
+- [[lore-thubaidty|Thubâ'i]]—The god of the flood the temple serves
+- [[affiliation-lemthubai|Lem'Thubâ'i]]—The priesthood that keeps the flood-records
+- [[affiliation-linshelunthb|Lin'Shelun elu Thubâ'i]]—The temple's collective of performers and artists

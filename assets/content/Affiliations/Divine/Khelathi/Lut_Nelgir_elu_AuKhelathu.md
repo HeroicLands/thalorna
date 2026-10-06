@@ -38,16 +38,18 @@ Lut-Nelgir elu Aû'Khelâthu names the great temple-estates of [[place-aukhelath
 
 ## Character
 
-TBD.
+The estates act as proprietors. Each temple's council answers for its own share of the common holdings, so the estates behave as a confederation rather than as one will. Their tenants are dependents of the temple as much as workers on its land, and the estates treat a dispute over temple land as a political matter as much as a sacred one.
 
 ## Relations
 
-TBD.
+- [[affiliation-genzetgarau|Genzet'Gar-Aû]]—The Gar-Aû's court, whose palace the estates rival in resources, labor and land.
+- Each temple's own council—Answers for that temple's share of the common holdings.
 
 ## Commerce and Currency
 
-TBD.
+Stewards run the holdings from the estate-towns, gathering the grain, labor and livestock of the tenant-villages into the temples' stores, alongside the estates' granaries and workshops.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu]]—The land the estates occupy
+- [[affiliation-genzetgarau|Genzet'Gar-Aû]]—The palace court the estates rival

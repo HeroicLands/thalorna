@@ -52,16 +52,19 @@ Lut-Qe'âret is the temple of [[lore-qearetdty|Qe'âret]], whose order is held t
 
 ## Character
 
-TBD.
+The temple is austere and exacting. It reads law as sacred text and expects its priests to be beyond purchase, removing from office, with the authority that came with it, any priest found otherwise. Its own conservatives can organize against the High Priest's appointment at renewal, so the temple holds its leadership to account as well as its judges.
 
 ## Relations
 
-TBD.
+- The imperial courts—Defer to the rulings of the temple's ordained judges.
+- The court and the aristocracy—The Thâz'Lekhau answers to both for the temple.
+- The provincial temples of Qe'âret—Nominally supervised by the Thâz'Lekhau of the great temple.
 
 ## Commerce and Currency
 
-TBD.
+A ruling from the temple is not for sale: a priest found open to purchase loses the office and the authority with it.
 
 ## See Also
 
-TBD.
+- [[lore-qearetdty|Qe'âret]]—The goddess whose order the temple keeps
+- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—The state whose courts defer to the temple

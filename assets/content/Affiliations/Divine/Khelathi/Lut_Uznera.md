@@ -48,16 +48,17 @@ Lut-Uznêra is the temple of [[lore-uzneradty|Uznêra]], goddess of fertility an
 
 ## Character
 
-TBD.
+The temple is a house of balance. Women hold its central rites and its highest standing, while men are admitted to its priesthood and rarely to its heights, a reflection of the partnership the goddess stands for. The empire's other temples leave marriage, birth and inheritance to it, so petitioners come to it with the most ordinary and most consequential business of a household.
 
 ## Relations
 
-TBD.
+- [[affiliation-genzetuznera|Genzet'Uznêra]]—The council that governs the temple's holdings and its calendar.
 
 ## Commerce and Currency
 
-TBD.
+Genzet'Uznêra governs the holdings and the calendar the temple's rites run on, and the petitions of marriage, birth and inheritance that other temples refer here arrive through them.
 
 ## See Also
 
-TBD.
+- [[lore-uzneradty|Uznêra]]—The goddess of fertility the temple serves
+- [[affiliation-genzetuznera|Genzet'Uznêra]]—The council over the temple's holdings

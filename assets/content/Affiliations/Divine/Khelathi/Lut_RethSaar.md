@@ -54,16 +54,19 @@ Lut-Reth'Sa'âr is the temple of [[lore-rethsaardty|Reth'Sa'âr]], god of knowle
 
 ## Character
 
-TBD.
+The temple is meticulous and acquisitive of knowledge. Its priests treat the catalogue as the measure of what the empire knows, and what the temple has not catalogued is, for most purposes, lost. Its schools bring the empire's scribes up in the sacred hand among the archives, so the temple shapes the people who staff the administration as well as the records they keep.
 
 ## Relations
 
-TBD.
+- [[affiliation-lemrethsaar|Lem'Reth'Sa'âr]]—The priesthood of the same god, which keeps the archives and the disciplines of the written hand.
+- [[affiliation-linrethrthsr|Lin'Rethu elu Reth'Sa'âr]]—The scholars attached to the temple, who hold its deeper texts apart from the general archive.
+- [[affiliation-linzethrthsr|Lin'Zethu elu Reth'Sa'âr]]—The scribal schools under the temple's patronage.
 
 ## Commerce and Currency
 
-TBD.
+The temple's holdings are its records: the archives, the observatory's reckonings that the administration's calendar runs on, and the scribes its schools supply to the state.
 
 ## See Also
 
-TBD.
+- [[lore-rethsaardty|Reth'Sa'âr]]—The god of knowledge the temple serves
+- [[affiliation-lutzethu|Lut-Zethu]]—The Imperial Library

@@ -42,16 +42,18 @@ Lem'Thubâ'i is the sworn priesthood of [[lore-thubaidty|Thubâ'i]], god of the 
 
 ## Character
 
-TBD.
+The order works to the rhythm of the river and the calendar. It is answerable for its forecast, since the planting season, the granary stores and the tax assessments are all set against its flood-records. Its rites ask for the year's prosperity in the form its priests keep.
 
 ## Relations
 
-TBD.
+- [[affiliation-lutthubai|Lut-Thubâ'i]]—The temple of the same god, whose priests read the river's rise.
+- The granaries and the tax assessments—Both are set against the order's forecast.
 
 ## Commerce and Currency
 
-TBD.
+The order's flood-records set the planting season, and the granary stores and tax assessments are set against them, so a poor reading unsettles both.
 
 ## See Also
 
-TBD.
+- [[lore-thubaidty|Thubâ'i]]—The god the order serves
+- [[affiliation-lutthubai|Lut-Thubâ'i]]—The temple, its river-readers and its granaries

@@ -50,16 +50,17 @@ Lut-Gewaâtis is the temple of [[lore-gewaatisdty|Gewaâtis]], patron of voyages
 
 ## Character
 
-TBD.
+The temple is guarded and unhurried. Its vaults are built to be opened by very few, and it opens them on its own schedule whatever the hurry of the person at the door. Toward the pilgrims who pass through before a journey it is a resident, serving house.
 
 ## Relations
 
-TBD.
+- [[affiliation-genzetgewats|Genzet'Gewaâtis]]—The council that governs the temple's holdings and the voyages that claim the god's protection.
 
 ## Commerce and Currency
 
-TBD.
+The vaults hold offerings and documents too valuable for an ordinary strongroom, and a traveler seeking what is stored there waits on the temple's schedule.
 
 ## See Also
 
-TBD.
+- [[lore-gewaatisdty|Gewaâtis]]—The patron of voyages the temple serves
+- [[affiliation-genzetgewats|Genzet'Gewaâtis]]—The council over the temple's holdings
