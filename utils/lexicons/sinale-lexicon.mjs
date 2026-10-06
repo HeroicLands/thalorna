@@ -783,7 +783,7 @@ export function cognates(text) {
     const lines = text.split("\n");
     let at = 0;
     for (let i = 0; i < lines.length; i += 1) {
-        if (lines[i].trim().startsWith("|") && /Proto-Elder/.test(lines[i])) {
+        if (lines[i].trim().startsWith("|") && /\|\s*Proto/.test(lines[i])) {
             let end = i;
             while (end < lines.length && lines[end].trim().startsWith("|")) end += 1;
             const table = lines.slice(i, end).join("\n");

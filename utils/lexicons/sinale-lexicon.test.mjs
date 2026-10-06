@@ -117,7 +117,7 @@ test("the cognate table must agree with the Khazári copy and with the case tabl
         .split("\n")
         .filter((line) => line.startsWith("|"))
         .filter((line, i, all) => {
-            const start = all.findIndex((text) => /Proto-Elder/.test(text));
+            const start = all.findIndex((text) => /\|\s*Proto/.test(text));
             return i >= start && i < start + 5;
         })
         .join("\n");

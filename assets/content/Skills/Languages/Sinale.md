@@ -40,7 +40,7 @@ The inventory is small, tidy, and arranged in three places of articulation with 
 | **nasal**             | _m_  | _n_        | _ng_ |
 | **liquid** (tip only) |      | _l_, _r_   |      |
 
-That is the whole of it. There are no voiced stops, no affricates and no back scrape—nothing a human would call harsh. Every consonant but _v_, _h_ and _ng_ also has a **long** form, written doubled, and the length is meaningful: _mallo_ is a deep pool and _malo_ is the colour of it.
+That is the whole of it. There are no voiced stops, no affricates and no back scrape—nothing a human would call harsh. Every consonant but _v_, _h_ and _ng_ also has a **long** form, written doubled, and the length is meaningful: _mollu_ is a deep pool and _molu_ is the colour of it.
 
 ### Vowels
 
@@ -100,17 +100,17 @@ The back nasal _ng_ stands only between vowels, and no word opens on it.
 
 ### Stress
 
-**Stress falls on the first syllable of every word, without exception.** Length is written and never guessed, so a Sinalë word of any length can be said correctly on sight: _NAL-va_, _IL-me-ri_, _SEL-ven-të_. Pitch does the work stress does in human tongues—rising for a question, falling to close a thought, held level through a list—and formal speech exaggerates it until it approaches singing. To speak Sinalë in a monotone is not to speak it badly but to say something else.
+**Stress falls on the first syllable of every word, without exception.** Length is written and never guessed, so a Sinalë word of any length can be said correctly on sight: _NUU-va_, _E-py-ri_, _SËL-vin-të_. Pitch does the work stress does in human tongues—rising for a question, falling to close a thought, held level through a list—and formal speech exaggerates it until it approaches singing. To speak Sinalë in a monotone is not to speak it badly but to say something else.
 
 ### Wearing
 
-The device that carries Sinalë's grammar is **wearing**, _luutu_—the softening of the consonant a word begins with when that word leans on another. A stop wears to the fricative made in the same place, and nothing else moves:
+The device that carries Sinalë's grammar is **wearing**, _hoivu_—the softening of the consonant a word begins with when that word leans on another. A stop wears to the fricative made in the same place, and nothing else moves:
 
 | Radical | Worn | Example                           |
 | ------- | ---- | --------------------------------- |
 | _p_     | _v_  | _pyvë_ "low cloud" > _vyvë_       |
-| _t_     | _s_  | _tuola_ "the long road" > _suola_ |
-| _k_     | _h_  | _kuove_ "pale wood" > _huove_     |
+| _t_     | _s_  | _tuhli_ "the long road" > _suhli_ |
+| _k_     | _h_  | _kouvi_ "pale wood" > _houvi_     |
 
 Every other beginning—_v_, _s_, _h_, _m_, _n_, _l_, _r_ and the vowels—is worn already and does not change. There is one grade of wearing and no other: a worn consonant never wears further.
 
@@ -120,12 +120,12 @@ A word wears in these places, and it does not wear when it is the thing being sp
 
 | Where                                           | Example                                          |
 | ----------------------------------------------- | ------------------------------------------------ |
-| a modifier standing before what it modifies     | _kuove_ before _lanvo_ gives _huove lanvo_       |
-| a possessor, which is a modifier like any other | _kuove_ gives _huoveren_ "of the pale wood"      |
-| the first stem of a compound                    | _kuove_ and _lanvo_ give _huovelanvo_            |
-| a lineage name                                  | _kuove_ gives _Huovento_                         |
+| a modifier standing before what it modifies     | _kouvi_ before _lonvu_ gives _houvi lonvu_       |
+| a possessor, which is a modifier like any other | _kouvi_ gives _houviren_ "of the pale wood"      |
+| the first stem of a compound                    | _kouvi_ and _lonvu_ give _houvilonvu_            |
+| a lineage name                                  | _kouvi_ gives _Houvinto_                         |
 | an epithet                                      | an epithet stands worn after the name it follows |
-| a name or a noun in direct address              | _Kuovemo_, called, is _Huovemo_                  |
+| a name or a noun in direct address              | _Kouvimo_, called, is _Houvimo_                  |
 | a verb after the negative particle              | _tuve_ "holds" gives _ahi suve_ "does not hold"  |
 | a number multiplying the one after it           | _kuuho_ "three" gives _huuho elkë_ "sixty"       |
 
@@ -139,7 +139,7 @@ A verb's object does not wear; the accusative suffix marks it.
 
 Sinalë is **Verb-Subject-Object**:
 
-- _Kanne nalva ilmerin_—"Sings starlight the still water" (starlight sings the still water)
+- _Luuro nuuva epyrin_—"Sings starlight the still water" (starlight sings the still water)
 
 The act comes first. Sinalë rhetoric holds that naming the actor before the act is a way of taking credit, and formal speech avoids it.
 
@@ -149,10 +149,10 @@ Verbs do not mark person or tense. Time comes from context or from a word that s
 
 | Marks                            | Back   | Front  | Example                               |
 | -------------------------------- | ------ | ------ | ------------------------------------- |
-| perfective (the act complete)    | _ha-_  | _hë-_  | _hë-kanne_ "has sung"                 |
-| habitual (the act as a practice) | _li-_  | _li-_  | _li-kanne_ "sings, as it always does" |
-| subjunctive                      | _-isi_ | _-isë_ | _kanneisi_ "would sing"               |
-| imperative                       | _-ka_  | _-kë_  | _kannekë_ "sing"                      |
+| perfective (the act complete)    | _ha-_  | _hë-_  | _ha-luuro_ "has sung"                 |
+| habitual (the act as a practice) | _li-_  | _li-_  | _li-luuro_ "sings, as it always does" |
+| subjunctive                      | _-isi_ | _-isë_ | _luuroisi_ "would sing"               |
+| imperative                       | _-ka_  | _-kë_  | _luuroka_ "sing"                      |
 
 A Sinalë poem about events ten thousand years past may carry no temporal marker at all. The listener takes the time from the telling, which is considered the courteous way to do it.
 
@@ -160,20 +160,20 @@ A Sinalë poem about events ten thousand years past may carry no temporal marker
 
 Nouns take six cases by suffix, each with its back and front form:
 
-| Case       | Back   | Front  | Example (_nalva_) | Sense                   |
+| Case       | Back   | Front  | Example (_nuuva_) | Sense                   |
 | ---------- | ------ | ------ | ----------------- | ----------------------- |
-| nominative | —      | —      | _nalva_           | starlight (subject)     |
-| accusative | _-n_   | _-n_   | _nalvan_          | starlight (object)      |
-| genitive   | _-ren_ | _-rën_ | _nalvaren_        | of starlight            |
-| dative     | _-men_ | _-mën_ | _nalvamen_        | to starlight            |
-| ablative   | _-tos_ | _-tës_ | _nalvatos_        | from starlight          |
-| locative   | _-ho_  | _-hë_  | _nalvaho_         | in, on, among starlight |
+| nominative | —      | —      | _nuuva_           | starlight (subject)     |
+| accusative | _-n_   | _-n_   | _nuuvan_          | starlight (object)      |
+| genitive   | _-ren_ | _-rën_ | _nuuvaren_        | of starlight            |
+| dative     | _-men_ | _-mën_ | _nuuvamen_        | to starlight            |
+| ablative   | _-tos_ | _-tës_ | _nuuvatos_        | from starlight          |
+| locative   | _-ho_  | _-hë_  | _nuuvaho_         | in, on, among starlight |
 
-A front word takes the front form: _revy_ "the turning leaf" gives _revyrën_, _revyhë_. Gender is not marked: it lives in the meaning of a word or nowhere.
+A front word takes the front form: _rivy_ "the turning leaf" gives _rivyrën_, _rivyhë_. Gender is not marked: it lives in the meaning of a word or nowhere.
 
 ### Number
 
-Sinalë counts the world the way it meets it. A noun for something met in quantity—leaves, stars, rain, grass, birds—is **collective** in its plain form, and a suffix picks out one of them: _nalva_ is starlight and _nalvanu_ a single star. A noun for a thing met singly—a person, a particular tree, a stone—is singular in its plain form, and the word _vuuhe_ "many" standing after it gives the plural: _mallo vuuhe_ "many deep pools". No suffix makes a plural.
+Sinalë counts the world the way it meets it. A noun for something met in quantity—leaves, stars, rain, grass, birds—is **collective** in its plain form, and a suffix picks out one of them: _nuuva_ is starlight and _nuuvanu_ a single star. A noun for a thing met singly—a person, a particular tree, a stone—is singular in its plain form, and the word _vuuhe_ "many" standing after it gives the plural: _mollu vuuhe_ "many deep pools". No suffix makes a plural.
 
 ### Derivational suffixes
 
@@ -181,19 +181,19 @@ A closed set of suffixes makes new words from old ones. Each takes the back or f
 
 | Makes                      | Back   | Front  | Example                                     |
 | -------------------------- | ------ | ------ | ------------------------------------------- |
-| one of a collective        | _-nu_  | _-ny_  | _nalva_ > _nalvanu_ "a single star"         |
-| the one who does it        | _-ttu_ | _-tty_ | _kanne_ > _kannettu_ "singer"               |
-| the place of it            | _-sto_ | _-stë_ | _nalva_ > _nalvasto_ "a place of starlight" |
-| the quality of it          | _-rsa_ | _-rsë_ | _mallo_ > _mallorsa_ "depth"                |
-| the thing to do it with    | _-pi_  | _-pë_  | _kanne_ > _kannepi_ "a pipe"                |
-| a small one                | _-lu_  | _-ly_  | _mallo_ > _mallolu_ "a small pool"          |
-| a stand or gathering of it | _-kko_ | _-kkë_ | _kuove_ > _kuovekko_ "a stand of birch"     |
-| a word describing by it    | _-sa_  | _-së_  | _nalva_ > _nalvasa_ "starlit"               |
-| a verb from a noun         | _-hta_ | _-htë_ | _torma_ > _tormahta_ "to fog over"          |
+| one of a collective        | _-nu_  | _-ny_  | _nuuva_ > _nuuvanu_ "a single star"         |
+| the one who does it        | _-ttu_ | _-tty_ | _luuro_ > _luurottu_ "singer"               |
+| the place of it            | _-sto_ | _-stë_ | _nuuva_ > _nuuvasto_ "a place of starlight" |
+| the quality of it          | _-rsa_ | _-rsë_ | _mollu_ > _mollursa_ "depth"                |
+| the thing to do it with    | _-pi_  | _-pë_  | _luuro_ > _luuropi_ "a pipe"                |
+| a small one                | _-lu_  | _-ly_  | _pyvë_ > _pyvëly_ "a wisp of cloud"         |
+| a stand or gathering of it | _-kko_ | _-kkë_ | _kouvi_ > _kouvikko_ "a stand of birch"     |
+| a word describing by it    | _-sa_  | _-së_  | _nuuva_ > _nuuvasa_ "starlit"               |
+| a verb from a noun         | _-hta_ | _-htë_ | _tahvu_ > _tahvuhta_ "to fog over"          |
 
 ### Compounds
 
-Two stems make one word: the first is the modifier and wears, the second is the head, and the case suffix goes on the end. _Kuove_ "pale wood" and _lanvo_ "the deep wood" give _huovelanvo_, a birch stand within the forest. Each stem keeps its own harmony, so a compound may join a back stem to a front one, and the suffix follows the last.
+Two stems make one word: the first is the modifier and wears, the second is the head, and the case suffix goes on the end. _Kouvi_ "pale wood" and _lonvu_ "the deep wood" give _houvilonvu_, a birch stand within the forest. Each stem keeps its own harmony, so a compound may join a back stem to a front one, and the suffix follows the last.
 
 A **place name** is a compound of this kind, or a single stem with the place suffix. An enclave's own name is Sinalë; the names human neighbours give enclaves are words in the neighbours' tongues.
 
@@ -201,8 +201,8 @@ A **place name** is a compound of this kind, or a single stem with the place suf
 
 A modifier stands before what it modifies and **wears**:
 
-- _kuove_ "pale wood" and _lanvo_ "the deep wood" give _huove lanvo_—"the pale-wood deep-wood", a stand of birch within the forest
-- _tuora_ "the turning year" and _ilmeri_ "still water" give _suora ilmeri_—"the year-turning water", a pool that freezes
+- _kouvi_ "pale wood" and _lonvu_ "the deep wood" give _houvi lonvu_—"the pale-wood deep-wood", a stand of birch within the forest
+- _toiru_ "the turning year" and _epyri_ "still water" give _soiru epyri_—"the year-turning water", a pool that freezes
 
 Poetry inverts the order, and the wearing goes with the word rather than the position, so an inverted line is still unambiguous.
 
@@ -210,11 +210,11 @@ Poetry inverts the order, and the wearing goes with the word rather than the pos
 
 Possession is the genitive, and the possessor wears:
 
-- _Selvennë_ and _kyme_ "the wide sky" give _Selvennërën hyme_—"the wide sky of Selvennë"
+- _kouvi_ "pale wood" and _pëlvy_ "the wide sky" give _houviren pëlvy_—"the wide sky of the pale wood"
 
 ### Address
 
-A name or a noun spoken to someone wears, so that a call can never be mistaken for a statement about its bearer: _Kuovemo_ is the man spoken of, _Huovemo_ the man called.
+A name or a noun spoken to someone wears, so that a call can never be mistaken for a statement about its bearer: _Kouvimo_ is the man spoken of, _Houvimo_ the man called.
 
 ### Pronouns
 
@@ -230,7 +230,7 @@ _Ëhin_ is "me", _ovuren_ "of thee", _ytëëmën_ "to them".
 
 ### Being
 
-There is no "is" in the present. Two words side by side, the one said of the other standing first as a verb would, make a statement: _lanvo ëhi_ "I am of the deep wood". The verb _eho_ says that a thing exists—_eho mallo_ "there is a deep pool"—and carries the aspects when being must be marked as complete or habitual.
+There is no "is" in the present. Two words side by side, the one said of the other standing first as a verb would, make a statement: _lonvu ëhi_ "I am of the deep wood". The verb _eho_ says that a thing exists—_eho mollu_ "there is a deep pool"—and carries the aspects when being must be marked as complete or habitual.
 
 ### Negation
 
@@ -242,7 +242,7 @@ A question rises in pitch. Writing loses the pitch, so a written question opens 
 
 ### Joining words
 
-_Ivo_ "and" joins words and clauses alike. _Oso_ opens a relative clause and stands at its head, whatever the clause says of its noun: _mallo oso tuve_ "the pool that holds".
+_Ivo_ "and" joins words and clauses alike. _Oso_ opens a relative clause and stands at its head, whatever the clause says of its noun: _mollu oso tuve_ "the pool that holds".
 
 ### Demonstratives
 
@@ -275,11 +275,11 @@ Sinalë counts in twenties, with ten and fifteen as resting points along the way
 | 15    | _ilvo_  |
 | 20    | _elkë_  |
 
-Eleven to fourteen are a unit on ten, in the locative: _ahvo tootuho_ "one on ten" is eleven. Sixteen to nineteen are a unit on fifteen, _ahvo ilvoho_, except eighteen, which is _sëhy myrsi_ "two nines". Twenties are counted by a multiplier standing before _elkë_ and wearing as any modifier does: _sëhy elkë_ is forty, _huuho elkë_ sixty, and _tootu elkëhë_ "ten on twenty" is thirty. A count follows the thing counted and does not wear: _mallo kuuho_ "three deep pools", _nalvanu sëhy_ "two stars".
+Eleven to fourteen are a unit on ten, in the locative: _ahvo tootuho_ "one on ten" is eleven. Sixteen to nineteen are a unit on fifteen, _ahvo ilvoho_, except eighteen, which is _sëhy myrsi_ "two nines". Twenties are counted by a multiplier standing before _elkë_ and wearing as any modifier does: _sëhy elkë_ is forty, _huuho elkë_ sixty, and _tootu elkëhë_ "ten on twenty" is thirty. A count follows the thing counted and does not wear: _mollu kuuho_ "three deep pools", _nuuvanu sëhy_ "two stars".
 
 ### Comparison
 
-The ablative compares: what something exceeds is the place it stands out from. _Vauli kuovetos_ is "taller than the birch", tall from the pale wood.
+The ablative compares: what something exceeds is the place it stands out from. _Vauli kouvitos_ is "taller than the birch", tall from the pale wood.
 
 ## Script and Literacy
 
@@ -302,7 +302,7 @@ Every Sinalë word on these pages is a romanization, written in Latin letters fo
 
 **The consonants are the visible line.** One sign to each cell of the inventory in the table above, arranged in the three families the table sets out, so that the stop, the fricative and the nasal of one family are the same shape at three grades. _l_ and _r_ stand outside the families and have signs of their own. Because wearing only ever moves a stop to the fricative of its own family, a worn word is the same shape one grade along—which is where the romanization is at its clumsiest, writing _t_ and _s_ as two unrelated letters for what the hand shows as one letter lowered. The back nasal has a sign like the rest, but no word opens on it and so it is never the first thing on a line.
 
-**A doubled consonant is one sign and a bar.** The romanization writes a long consonant twice—_mallo_, and the _tt_, _ss_ and _rr_ of the phonology—while the Calathindë writes the sign once and sets a bar beneath it. _Mallo_ and _malo_ therefore differ in the hand by a single stroke, and a damaged page that has lost its bars has lost the difference between a deep pool and the colour of it.
+**A doubled consonant is one sign and a bar.** The romanization writes a long consonant twice—_mollu_, and the _tt_, _ss_ and _rr_ of the phonology—while the Calathindë writes the sign once and sets a bar beneath it. _Mollu_ and _molu_ therefore differ in the hand by a single stroke, and a damaged page that has lost its bars has lost the difference between a deep pool and the colour of it.
 
 **The vowels ride above.** Seven marks, one each for _a_, _e_, _i_, _o_, _u_, _y_ and _ë_, set over the consonant they follow. A word that begins with a vowel carries its mark on a bare carrier stroke, the one sign in the script that stands for no sound of its own. A doubled vowel in the romanization—_aa_, _ëë_—is a single mark drawn long rather than two marks; a diphthong is two marks over one carrier, in the order they are said.
 
@@ -337,31 +337,31 @@ A handful of the oldest words keep shapes the regular language no longer makes: 
 
 Sinalë is fragmented geographically, with scattered communities speaking distinct—though mutually intelligible—dialects, each named for the country it is spoken in:
 
-- **Lanvo** (the deep wood): The most conservative and archaic form, closest to ancient Sinalë, and the slowest
-- **Kyme** (the wide sky, the high valleys): Slightly more rapid speech, some flattening of pitch, subtly different vowel lengths
-- **Raumo** (the far bank, the old coastal settlements): Long isolated; some unique vocabulary and archaic constructions
+- **Lonvu** (the deep wood): The most conservative and archaic form, closest to ancient Sinalë, and the slowest
+- **Pëlvy** (the wide sky, the high valleys): Slightly more rapid speech, some flattening of pitch, subtly different vowel lengths
+- **Loova** (the far bank, the old coastal settlements): Long isolated; some unique vocabulary and archaic constructions
 
 Deep-wood speech sounds archaic and formal beside the speech of the high valleys. The differences are subtle but noticeable to native speakers.
 
 ## Sample Phrases
 
-- _Kanne nalva ilmerissë_—"Starlight sings on still water" (a greeting between friends, and the commonest one)
-- _Li-sile vyrnë tormassa_—"The tall grass stands in the low fog, as it always does" (patience under a difficulty that will pass)
-- _Hë-tuve myne sylmën_—"The seam of light has held the breath" (said when something long awaited has arrived)
-- _Pehekë huoma, pehekë nirve_—"Give warmth, give root" (a blessing on a new house)
-- _Kanne tehy, kanne revy_—"The clear place sings, the turning leaf sings" (of a season and a place agreeing, and by extension of a thing done at the right moment)
+- _Luuro nuuva epyrihë_—"Starlight sings on still water" (a greeting between friends, and the commonest one)
+- _Li-sëly vylnë tahvuho_—"The tall grass stands in the low fog, as it always does" (patience under a difficulty that will pass)
+- _Ha-tuve myne hyssën_—"The seam of light has held the breath" (said when something long awaited has arrived)
+- _Pehekë huoman, pehekë nylvin_—"Give warmth, give root" (a blessing on a new house)
+- _Luuro tehy, luuro rivy_—"The clear place sings, the turning leaf sings" (of a season and a place agreeing, and by extension of a thing done at the right moment)
 
 ## Related Languages
 
 Sinalë is one of the **two surviving Elder Tongues**, the other being Khazári. Both descend from a **common Elder language** spoken before the Elder Races diverged. That ancestor is extinct and no text preserves it.
 
-The kinship is not audible. Sinalë runs on open syllables, long vowels and a soft inventory; Khazári runs on clusters, short vowels and back fricatives, and a speaker of either needs to be told the two are related before he will believe it.
+The kinship is not audible. Sinalë runs on open syllables, long vowels and a soft inventory; Khazári runs on clusters, short vowels and back fricatives. Nothing in the sound of either suggests the other.
 
 What the two share is a habit no human tongue on Thalorna has: **both make a new word by altering the body of an old one rather than by hanging a piece on its end.** Sinalë changes the consonant a word begins with according to the work the word is doing; Khazári pours a different vowel frame through a fixed skeleton of consonants. Case and number are suffixed in both, but that is the shallow layer—the deep one is inside the word.
 
 Beyond that instinct the two agree on:
 
-- **The same six cases**, marked by suffix in both, and three of the six suffixes are close enough that no one argues about them
+- **The same six cases**, marked by suffix in both, three of whose suffixes descend from one ancestral form each—the accusative, the dative and the locative, set out below
 - **The same division of aspect** into the completed and the habitual, marked in both by a prefix
 - **A closed inventory of derivational shapes** rather than an open one, so neither language borrows readily
 
@@ -371,11 +371,11 @@ Scholars debate whether the Elder Races deliberately drove their languages apart
 
 Three of the case suffixes descend from one ancestral form each:
 
-| Case       | Proto-Elder (reconstructed by scholars in-world) | Sinalë        | Khazári |
-| ---------- | ------------------------------------------------ | ------------- | ------- |
-| accusative | `*-am`                                           | `-n`          | `-am`   |
-| dative     | `*-man`                                          | `-men`/`-mën` | `-an`   |
-| locative   | `*-khom`                                         | `-ho`/`-hë`   | `-um`   |
+| Case       | Proto-Elder | Sinalë        | Khazári |
+| ---------- | ----------- | ------------- | ------- |
+| accusative | `*-am`      | `-n`          | `-am`   |
+| dative     | `*-man`     | `-men`/`-mën` | `-an`   |
+| locative   | `*-khom`    | `-ho`/`-hë`   | `-um`   |
 
 The sound changes are the ones each tongue shows elsewhere. Sinalë has no back scrape, so the ancestral _kh_ became _h_, and it closes no word on _m_, so a final _m_ became _n_ or fell away. Khazári dropped an initial _m_ and _kh_ before the vowel of a suffix.
 
@@ -409,17 +409,17 @@ Sinalë hold that a name carries spiritual weight and shapes what the bearer bec
 
 ### Given Names
 
-A stem is drawn from the world rather than from virtue: light, water, wood, weather, stone, the hours and the seasons. _Nalva_ is starlight, _ilmeri_ still water, _revy_ the turning leaf, _sylmë_ the held breath, _myne_ the seam of light where a cloud parts. The name is that thing, with an ending that says who carries it:
+A stem is drawn from the world rather than from virtue: light, water, wood, weather, stone, the hours and the seasons. _Nuuva_ is starlight, _epyri_ still water, _rivy_ the turning leaf, _hyssë_ the held breath, _myne_ the seam of light where a cloud parts. The name is that thing, with an ending that says who carries it:
 
-- _Nalvamo_ "starlight" (a man), _Nalvala_ and _Nalvara_ (women)
-- _Revymë_, _Revylë_, _Revyrë_—"the turning leaf"
-- _Ilmerimë_, _Ilmerivë_, _Ilmerilë_—"still water"
+- _Nuuvamo_ "starlight" (a man), _Nuuvala_ and _Nuuvara_ (women)
+- _Rivymë_, _Rivylë_, _Rivyrë_—"the turning leaf"
+- _Epyrimë_, _Epyrivë_, _Epyrilë_—"still water"
 
-Two endings are available to each, and the choice is the namer's ear rather than a rule, so one household names a daughter _Selverë_ and another names a daughter _Selvelë_ from the same stem.
+Two endings are available to each, and the choice is the namer's ear rather than a rule, so one household names a daughter _Sëlvirë_ and another names a daughter _Sëlvilë_ from the same stem.
 
 ### Lineage Names
 
-A lineage is a **hearth**, and its name is the thing the hearth keeps, worn and closed with _-nto_ or _-ntë_. _Kuove_ "pale wood" gives **Huovento**; _tuola_ "the long road" gives **Suolanto**; _pyvë_ "the low cloud" gives **Vyvëntë**. The stem that is already worn passes through unchanged: _nalva_ gives **Nalvanto**, _selve_ gives **Selventë**.
+A lineage is a **hearth**, and its name is the thing the hearth keeps, worn and closed with _-nto_ or _-ntë_. _Kouvi_ "pale wood" gives **Houvinto**; _tuhli_ "the long road" gives **Suhlinto**; _pyvë_ "the low cloud" gives **Vyvëntë**. The stem that is already worn passes through unchanged: _nuuva_ gives **Nuuvanto**, _sëlvi_ gives **Sëlvintë**.
 
 Lineage names descend through the **maternal line**. They are not chosen and not changed. A Sinalë whose deeds no existing hearth can account for may found one, which happens perhaps once in an age and is the most consequential thing a Sinalë can do.
 
@@ -435,15 +435,15 @@ Lineage names have no gendered form.
 
 ### Male Given Names
 
-Nalvamo, Kuovemo, Mallomo, Mallovo, Tuoramo, Tuoravo, Pelmavo, Ronsamo, Ronsavo, Unturomo, Unturovo, Kalvomo, Tuolamo, Tuolavo, Ohmaramo, Ohmaravo, Lavurimo, Lavurivo, Masserimo, Masserivo, Rohvamo, Panvamo, Ansaramo, Ansaravo, Huomavo, Vaanumo, Vaanuvo, Puurimo, Puurivo, Koltumo, Koltuvo, Sarmovo, Tormavo, Nuomivo, Raumovo, Hallumo, Halluvo, Lanvomo, Sylmëvë, Hylmëvë, Tymëvë, Kymevë, Revymë, Nellymë, Nellyvë, Pyvëmë, Mynemë, Mynevë, Elvymë, Tehymë, Tehyvë, Vyrnëmë, Vyrnëvë, Kyllëmë, Kyllëvë, Selvemë, Nirvemë, Helvemë, Ilmerimë, Ilmerivë, Kennemë, Kennevë, Tillemë, Tillevë, Perinemë, Perinevë, Ressimë, Ressivë
+Nuuvamo, Kouvimo, Mollumo, Molluvo, Toirumo, Toiruvo, Puolmavo, Rohkumo, Rohkuvo, Unturomo, Unturovo, Uhtomo, Tuhlimo, Tuhlivo, Ohkurimo, Ohkurivo, Lavurimo, Lavurivo, Masserimo, Masserivo, Ruhvomo, Pohvumo, Ansorumo, Ansoruvo, Huomavo, Vuunumo, Vuunuvo, Pourimo, Pourivo, Kehtumo, Kehtuvo, Solpuvo, Tahvumo, Nuomivo, Loovamo, Hullomo, Hullovo, Lonvumo, Hyssëvë, Hinvymë, Tymëvë, Pëlvymë, Rivymë, Nellymë, Nellyvë, Pyvëmë, Mynemë, Mynevë, Hyrvimë, Tehymë, Tehyvë, Vylnëmë, Vylnëvë, Kyllëmë, Kyllëvë, Sëlvimë, Nylvimë, Hirsymë, Epyrimë, Epyrivë, Kinsymë, Kinsyvë, Tëllymë, Tëllyvë, Pyrinemë, Pyrinevë, Ressimë, Ressivë
 
 ### Female Given Names
 
-Nalvala, Nalvara, Kuovela, Kuovera, Mallora, Tuorala, Pelmala, Pelmara, Ronsala, Ronsara, Unturola, Kalvola, Kalvora, Tuolara, Ohmarala, Lavurila, Masserila, Rohvala, Rohvara, Panvala, Panvara, Ansarala, Huomala, Huomara, Vaanula, Vaanura, Puurila, Koltula, Koltura, Sarmola, Sarmora, Tormala, Tormara, Nuomila, Nuomira, Raumola, Raumora, Hallura, Lanvola, Lanvora, Sylmëlë, Sylmërë, Hylmëlë, Hylmërë, Tymëlë, Tymërë, Kymelë, Kymerë, Revylë, Revyrë, Nellyrë, Pyvëlë, Pyvërë, Mynelë, Mynerë, Elvylë, Elvyrë, Tehylë, Tehyrë, Vyrnëlë, Vyrnërë, Kyllërë, Selvelë, Selverë, Nirvelë, Nirverë, Helvelë, Helverë, Ilmerilë, Kennelë, Kennerë, Tillerë, Perinelë, Perinerë, Ressilë, Ressirë
+Nuuvala, Nuuvara, Kouvila, Kouvira, Mollura, Toirula, Puolmala, Puolmara, Rohkula, Rohkura, Unturola, Uhtola, Uhtora, Tuhlira, Ohkurila, Lavurila, Masserila, Ruhvola, Ruhvora, Pohvula, Pohvura, Ansorula, Huomala, Huomara, Vuunula, Vuunura, Pourila, Kehtula, Kehtura, Solpula, Solpura, Tahvula, Tahvura, Nuomila, Nuomira, Loovala, Loovara, Hullora, Lonvula, Lonvura, Hyssëlë, Hyssërë, Hinvylë, Hinvyrë, Tymëlë, Tymërë, Pëlvylë, Pëlvyrë, Rivylë, Rivyrë, Nellyrë, Pyvëlë, Pyvërë, Mynelë, Mynerë, Hyrvilë, Hyrvirë, Tehylë, Tehyrë, Vylnëlë, Vylnërë, Kyllërë, Sëlvilë, Sëlvirë, Nylvilë, Nylvirë, Hirsylë, Hirsyrë, Epyrilë, Kinsylë, Kinsyrë, Tëllyrë, Pyrinelë, Pyrinerë, Ressilë, Ressirë
 
 ### Lineage Names (Inherited Matrilineally)
 
-Nalvanna—"starlight" Huovenna—"pale wood" Mallonna—"deep pool" Suoranna—"the turning year" Velmanna—"the long dusk" Ronsanna—"moss on stone" Unturonna—"winter" Halvonna—"the still surface" Suolanna—"the long road" Ohmaranna—"the cupped hand" Lavurinna—"running water" Masserinna—"the deep ground" Rohvanna—"the lifted stone" Vanvanna—"woven cloth" Ansaranna—"the long watch" Huomanna—"the first warmth" Vuurinna—"the split log" Holtunna—"the cold spring" Sarmonna—"the smell of rain" Sormanna—"the low fog" Nuominna—"the still hour" Raumonna—"the far bank" Hallunna—"white frost" Lanvonna—"the deep wood" Sylmënnë—"the held breath" Hylmënnë—"thin ice" Symënnë—"the small bell" Hymennë—"the wide sky" Revynnë—"the turning leaf" Nellynnë—"the first frost" Vyvënnë—"the low cloud" Elvynnë—"the evening star" Sehynnë—"the clear place" Hyllënnë—"the far call" Selvennë—"the woven light" Nirvennë—"the deep root" Helvennë—"the first thaw" Ilmerinnë—"still water" Sillennë—"the rising note" Ressinnë—"the plaited mat"
+Nuuvanto—"starlight" Houvinto—"pale wood" Mollunto—"deep pool" Soirunto—"the turning year" Vuolmanto—"the long dusk" Rohkunto—"moss on stone" Unturonto—"winter" Uhtonto—"the still surface" Suhlinto—"the long road" Ohkurinto—"the cupped hand" Lavurinto—"running water" Masserinto—"the deep ground" Ruhvonto—"the lifted stone" Vohvunto—"woven cloth" Ansorunto—"the long watch" Huomanto—"the first warmth" Vourinto—"the split log" Hehtunto—"the cold spring" Solpunto—"the smell of rain" Sahvunto—"the low fog" Nuominto—"the still hour" Loovanto—"the far bank" Hullonto—"white frost" Lonvunto—"the deep wood" Hyssëntë—"the held breath" Hinvyntë—"thin ice" Symëntë—"the small bell" Vëlvyntë—"the wide sky" Rivyntë—"the turning leaf" Nellyntë—"the first frost" Vyvëntë—"the low cloud" Hyrvintë—"the evening star" Sehyntë—"the clear place" Hyllëntë—"the far call" Sëlvintë—"the woven light" Nylvintë—"the deep root" Hirsyntë—"the first thaw" Epyrintë—"still water" Syllëntë—"the rising note" Ressintë—"the plaited mat"
 
 ## Stems and Words
 
@@ -453,56 +453,56 @@ Every stem and word this page uses, with its class: `n` a noun, `n-coll` a colle
 
 | Form      | Class  | Gloss                     |
 | --------- | ------ | ------------------------- |
-| `nalva`   | n-coll | starlight                 |
-| `kuove`   | n      | pale wood                 |
-| `mallo`   | n      | deep pool                 |
-| `malo`    | n      | the colour of a deep pool |
-| `tuora`   | n      | the turning year          |
-| `pelma`   | n      | the long dusk             |
-| `ronsa`   | n-coll | moss on stone             |
+| `nuuva`   | n-coll | starlight                 |
+| `kouvi`   | n      | pale wood                 |
+| `mollu`   | n      | deep pool                 |
+| `molu`    | n      | the colour of a deep pool |
+| `toiru`   | n      | the turning year          |
+| `puolma`  | n      | the long dusk             |
+| `rohku`   | n-coll | moss on stone             |
 | `unturo`  | n      | winter                    |
-| `kalvo`   | n      | the still surface         |
-| `tuola`   | n      | the long road             |
-| `ohmara`  | n      | the cupped hand           |
+| `uhto`    | n      | the still surface         |
+| `tuhli`   | n      | the long road             |
+| `ohkuri`  | n      | the cupped hand           |
 | `lavuri`  | n      | running water             |
 | `masseri` | n      | the deep ground           |
-| `rohva`   | n      | the lifted stone          |
-| `panva`   | n      | woven cloth               |
-| `ansara`  | n      | the long watch            |
+| `ruhvo`   | n      | the lifted stone          |
+| `pohvu`   | n      | woven cloth               |
+| `ansoru`  | n      | the long watch            |
 | `huoma`   | n      | the first warmth          |
-| `vaanu`   | n      | the slow river            |
-| `puuri`   | n      | the split log             |
-| `koltu`   | n      | the cold spring           |
-| `sarmo`   | n      | the smell of rain         |
-| `torma`   | n      | the low fog               |
+| `vuunu`   | n      | the slow river            |
+| `pouri`   | n      | the split log             |
+| `kehtu`   | n      | the cold spring           |
+| `solpu`   | n      | the smell of rain         |
+| `tahvu`   | n      | the low fog               |
 | `nuomi`   | n      | the still hour            |
-| `raumo`   | n      | the far bank              |
-| `hallu`   | n      | white frost               |
-| `lanvo`   | n      | the deep wood             |
-| `sylmë`   | n      | the held breath           |
-| `hylmë`   | n      | thin ice                  |
+| `loova`   | n      | the far bank              |
+| `hullo`   | n      | white frost               |
+| `lonvu`   | n      | the deep wood             |
+| `hyssë`   | n      | the held breath           |
+| `hinvy`   | n      | thin ice                  |
 | `tymë`    | n      | the small bell            |
-| `kyme`    | n      | the wide sky              |
-| `revy`    | n-coll | the turning leaf          |
+| `pëlvy`   | n      | the wide sky              |
+| `rivy`    | n-coll | the turning leaf          |
 | `nelly`   | n      | the first frost           |
 | `pyvë`    | n      | the low cloud             |
 | `myne`    | n      | the seam of light         |
-| `elvy`    | n      | the evening star          |
+| `hyrvi`   | n      | the evening star          |
 | `tehy`    | n      | the clear place           |
-| `vyrnë`   | n-coll | the tall grass            |
+| `vylnë`   | n-coll | the tall grass            |
 | `kyllë`   | n      | the far call              |
-| `selve`   | n      | the woven light           |
-| `nirve`   | n      | the deep root             |
-| `helve`   | n      | the first thaw            |
-| `ilmeri`  | n      | still water               |
-| `kenne`   | n      | the new shoot             |
-| `tille`   | n      | the falling drop          |
-| `perine`  | n      | the heartwood             |
+| `sëlvi`   | n      | the woven light           |
+| `nylvi`   | n      | the deep root             |
+| `hirsy`   | n      | the first thaw            |
+| `epyri`   | n      | still water               |
+| `kinsy`   | n      | the new shoot             |
+| `tëlly`   | n      | the falling drop          |
+| `pyrine`  | n      | the heartwood             |
 | `ressi`   | n      | the plaited mat           |
-| `sille`   | n      | the rising note           |
-| `luutu`   | n      | wearing                   |
-| `kanne`   | v      | sing                      |
-| `sile`    | v      | stand                     |
+| `syllë`   | n      | the rising note           |
+| `hoivu`   | n      | wearing                   |
+| `luuro`   | v      | sing                      |
+| `sëly`    | v      | stand                     |
 | `tuve`    | v      | hold                      |
 | `pehe`    | v      | give                      |
 | `vauli`   | adj    | tall                      |
