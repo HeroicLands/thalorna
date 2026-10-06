@@ -31,7 +31,7 @@ data:
 
 ## Overview
 
-Lin'Shelun elu Thubâ'i is a collective of performers and artists working under the patronage of [[lore-thubaidty|Thubâ'i]], whose temple funds their work in exchange for a share of whatever acclaim it earns. Membership draws from musicians, actors and visual artists willing to accept the temple's funding and its claim on their reputation alongside it. Membership is itself a mark of standing among the capital's players, and standing outside the collective is taken to mean lacking either the talent or the connections to have been asked.
+Lin'Shelun elu Thubâ'i is a collective of performers and artists working under the patronage of [[lore-thubaidty|Thubâ'i]], whose temple funds their work in exchange for a share of whatever acclaim it earns. Membership draws from musicians, actors and visual artists willing to accept the temple's funding and its claim on their reputation alongside it. Membership is itself a mark of standing among the capital's players, and an artist outside the collective is assumed to lack either the talent or the connections to have been asked.
 
 ## Character
 

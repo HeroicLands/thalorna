@@ -76,8 +76,8 @@ has written the Okhárics up. It does not concern the people it is addressed to 
 
 The widow does not think she has a problem. She had the temple rite and she had the Bone-Reader,
 her husband is where the Flame takes him and also what the bones say of him, and the visitor
-pressing her on the point is being obscurely rude. A shaman agrees cheerfully that
-the accounts do not match and sees no consequence in it. A Mtaalamu wa Moto says the
+pressing her on the point is being obscurely rude. Ask a shaman and he will agree cheerfully that
+the accounts do not match and see no consequence in it. Ask a Mtaalamu wa Moto and she will say the
 zohira are the Flame's own emissaries and that what a Bone-Reader does is therefore not a rival
 rite, which does not actually answer the contradiction and is not offered as though it did.
 

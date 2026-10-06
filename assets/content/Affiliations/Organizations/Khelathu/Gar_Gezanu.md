@@ -31,7 +31,7 @@ data:
 
 ## Overview
 
-Gar-Gezanu is the imperial service responsible for collecting dues and enforcing the law of trade across [[place-aukhelathrgq|Aû'Khelâthu]], staffed by assessors empowered to weigh and tax goods at the point of sale or transit. The service treats the taking of anything it has not weighed as theft, regardless of the taker's reasons, which makes its weighmasters a fixture at every market and ford worth taxing. By the service's own definition, moving goods around Gar-Gezanu's assessors rather than through them is already theft.
+Gar-Gezanu is the imperial service responsible for collecting dues and enforcing the law of trade across [[place-aukhelathrgq|Aû'Khelâthu]], staffed by assessors empowered to weigh and tax goods at the point of sale or transit. The service treats the taking of anything it has not weighed as theft, regardless of the taker's reasons, which makes its weighmasters a fixture at every market and ford worth taxing. A merchant who moves goods around Gar-Gezanu's assessors rather than through them is, by the service's own definition, already a thief.
 
 ## Character
 

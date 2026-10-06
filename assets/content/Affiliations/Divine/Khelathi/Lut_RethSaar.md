@@ -31,7 +31,7 @@ data:
 
 ## Overview
 
-Lut-Reth'Sa'âr is the temple of [[lore-rethsaardty|Reth'Sa'âr]], god of knowledge and of the written hand, and the physical seat of the archives, the observatory and the scribal schools that feed them. Its priests catalogue what the empire knows, track the stars for the calendar the whole administration runs on, and train the scribes who staff it. A search for a lost record starts here before anywhere else, because what the temple has not catalogued is, for most purposes, lost for good.
+Lut-Reth'Sa'âr is the temple of [[lore-rethsaardty|Reth'Sa'âr]], god of knowledge and of the written hand, and the physical seat of the archives, the observatory and the scribal schools that feed them. Its priests catalogue what the empire knows, track the stars for the calendar the whole administration runs on, and train the scribes who staff it. A scholar seeking a lost record starts here before anywhere else, because what the temple has not catalogued is, for most purposes, lost for good.
 
 ## Character
 

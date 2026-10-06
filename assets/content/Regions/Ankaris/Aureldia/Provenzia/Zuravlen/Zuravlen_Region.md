@@ -92,7 +92,7 @@ The trees are grafted, not grown from stone. Zûravlen stock is worked onto **al
 tolerates the dry stony ground of the upper terraces where peach root will not thrive, and the grafting
 is done in winter by men whose families have done nothing else for generations. A tree comes into
 bearing in its fourth year and is finished by its twentieth, so a third of the barony's orchards are
-always young, and an orchard is described first by its age.
+always young, and the Zûravlen describe an orchard by its age before anything else.
 
 **Fresh fruit does not travel**—overland. A peach picked at Vergéval is worth a fortune in Válaren
 and worthless four days later, which for most of the barony's history meant the fresh trade was a

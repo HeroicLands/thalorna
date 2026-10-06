@@ -171,7 +171,7 @@ A finding is also the most abused instrument in the valley. It strips a living m
 
 ## What the Estate Answers, and What the Heir Chooses
 
-The property of a dead man closes his open entries before anything passes to anybody. An heir takes the residue and never the gross, so an inheritance is named as the residue, because the gross is not a real number.
+The property of a dead man closes his open entries before anything passes to anybody. An heir takes the residue and never the gross. Khelâthi heirs name what they were left by the residue alone, because the gross is not a real number.
 
 Where the estate falls short, the heir is asked—in public, at the Reading, with the creditor present—whether he will assume the remainder. If he assumes, the entry closes in the dead man's account and opens in his: his father goes in clean and he is poorer. If he declines, his father goes in short on that entry, and the creditor must take a release to close his own side and eat the loss.
 

@@ -31,7 +31,7 @@ data:
 
 ## Overview
 
-Lin'Rethu elu Galezkara, the Scholars' Circle, gathers the learned of [[place-galezkara|Galezkara]] — open-minded scholars, liberal merchants and teachers who find the temple schools too narrow for their interests. The circle commissions its own lectures and seminars, funding study the temples do not recognize as worth pursuing. Work the temple schools dismiss can still find an audience and a stipend here, provided the circle judges the work has value.
+Lin'Rethu elu Galezkara, the Scholars' Circle, gathers the learned of [[place-galezkara|Galezkara]] — open-minded scholars, liberal merchants and teachers who find the temple schools too narrow for their interests. The circle commissions its own lectures and seminars, funding study the temples do not recognize as worth pursuing. A thinker whose work the temple schools dismiss can still find an audience and a stipend here, provided the circle judges the work has value.
 
 ## Character
 

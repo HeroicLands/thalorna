@@ -31,7 +31,7 @@ data:
 
 ## Overview
 
-Lin'Zemnu elu Galezkara, the Craftsmasters' Consortium, gathers the masters of [[place-galezkara|Galezkara]]'s various crafts into a single body with authority over all of them. The consortium alone decides what may be called master-work, a designation that sets the price a piece can command far above ordinary craft output. Its members resent public criticism of their methods, and pressing the point in public meets closed doors rather than answered arguments.
+Lin'Zemnu elu Galezkara, the Craftsmasters' Consortium, gathers the masters of [[place-galezkara|Galezkara]]'s various crafts into a single body with authority over all of them. The consortium alone decides what may be called master-work, a designation that sets the price a piece can command far above ordinary craft output. Its members resent public criticism of their methods, and a critic who presses the point in public finds the consortium's doors closed rather than its arguments answered.
 
 ## Character
 

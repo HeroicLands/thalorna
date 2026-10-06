@@ -47,7 +47,7 @@ So the coast is scrupulous about debt in a way that surprises people who expect 
 
 The Aurèldían pantheon is kept, with the prosperity and voyage gods drawing the real devotion and a great deal of sincere private prayer before a sailing. Temples are endowed by houses, and the endowments are publicized.
 
-Haradians are not much interested in doctrine and are extremely interested in omens, luck and the specific patronage of the god who governs their particular sea route. The ports are polite and inattentive toward theology and generous toward a reputation for effective blessings.
+Haradians are not much interested in doctrine and are extremely interested in omens, luck and the specific patronage of the god who governs their particular sea route. A foreign priest arriving with theology finds the ports polite and inattentive; one arriving with a reputation for effective blessings finds them generous.
 
 ## What a Person Owes
 

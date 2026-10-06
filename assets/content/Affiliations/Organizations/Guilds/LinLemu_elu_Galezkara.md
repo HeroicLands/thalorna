@@ -31,7 +31,7 @@ data:
 
 ## Overview
 
-Lin'Lemu elu Galezkara is a mutual aid society of the serving class of [[place-galezkara|Galezkara]], open to any household servant willing to pay into its common fund. Members pool what they can spare against sickness, dismissal and burial, the three hazards a servant's own wages rarely cover. The fund pays out immediately on a dismissal without warning, which is the single reason most join before they ever need it.
+Lin'Lemu elu Galezkara is a mutual aid society of the serving class of [[place-galezkara|Galezkara]], open to any household servant willing to pay into its common fund. Members pool what they can spare against sickness, dismissal and burial, the three hazards a servant's own wages rarely cover. A member dismissed without warning draws on the fund immediately, which is the single reason most join before they ever need to.
 
 ## Character
 

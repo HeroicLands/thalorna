@@ -61,7 +61,8 @@ not from anywhere, because the request is refused before it is made.
 The ruler is left **shunned by the advisors he covets**, in full view of neighbors who still have
 theirs. For most, that is the end of the matter; the arithmetic is not difficult.
 
-Preventing an advisor's departure is a different proposition when the advisor is a mage: detaining a mage is not detaining a man, and the Synod's courtesy has been a choice.
+A ruler who attempts to prevent his advisor's departure discovers that detaining a mage is a different
+proposition from detaining a man, and that the Synod's courtesy has been a choice.
 
 **If shunning does not produce compliance**, the misfortunes begin. A harvest fails where it had every
 reason not to. A sickness moves through the stock, or the children, that no local physician recognizes.

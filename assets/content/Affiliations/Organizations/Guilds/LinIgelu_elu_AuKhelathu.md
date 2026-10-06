@@ -31,7 +31,7 @@ data:
 
 ## Overview
 
-Lin'Igelu elu Aû'Khelâthu is the chartered guild of the rivermen and sea-captains of [[place-aukhelathrgq|Aû'Khelâthu]], open to any master who meets its standard of seamanship. The guild sets that standard and the safety requirements cargo must meet before a vessel carries it, and it speaks for its members in disputes with the merchant houses that hire them. A captain without its charter can still find work, but recourse when goods are lost generally goes with a captain who holds it.
+Lin'Igelu elu Aû'Khelâthu is the chartered guild of the rivermen and sea-captains of [[place-aukhelathrgq|Aû'Khelâthu]], open to any master who meets its standard of seamanship. The guild sets that standard and the safety requirements cargo must meet before a vessel carries it, and it speaks for its members in disputes with the merchant houses that hire them. A captain without its charter can still find work, but a cargo-owner who wants recourse when goods are lost generally insists on one who holds it.
 
 ## Character
 

@@ -12,7 +12,7 @@ The **Bow-Fort** stands on the low hill where the Sarvada bends west round an ou
 
 ## The Foundations
 
-The lower courses are megalithic. The blocks are larger than anything the janapada has moved since, they are fitted without mortar, and how the work was done, and by whom, is unknown. The walls raised on top of them are ordinary Vedyari fortification of the last four centuries and are patched like anything else.
+The lower courses are megalithic. The blocks are larger than anything the janapada has moved since, they are fitted without mortar, and nobody living knows how the work was done or who did it. The walls raised on top of them are ordinary Vedyari fortification of the last four centuries and are patched like anything else.
 
 Nobody claims the foundations. The temple does not say they were laid by the goddess, the academies do not say they were laid by an ancestor, and the classical chronicles that would cheerfully assign them to a dynasty are silent. The Dhanurkoti position is that the stones were here first.
 

@@ -31,7 +31,7 @@ data:
 
 ## Overview
 
-Lin'Zuwaret elu Qelt'Lefetu is the trading house of the **Qelt'Lefetu**, running caravans on the high-value and dangerous routes that less well-funded traders avoid. The company hires its own armed protection for those caravans rather than trusting the road's ordinary safety to hold, a cost its margins on dangerous-route goods can absorb. Competing on the same routes without that protection means pricing in a risk this company has already paid to remove.
+Lin'Zuwaret elu Qelt'Lefetu is the trading house of the **Qelt'Lefetu**, running caravans on the high-value and dangerous routes that less well-funded traders avoid. The company hires its own armed protection for those caravans rather than trusting the road's ordinary safety to hold, a cost its margins on dangerous-route goods can absorb. A trader without that protection who tries to compete on the same routes is pricing in a risk this company has already paid to remove.
 
 ## Character
 

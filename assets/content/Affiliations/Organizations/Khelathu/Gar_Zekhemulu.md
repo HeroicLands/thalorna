@@ -31,7 +31,7 @@ data:
 
 ## Overview
 
-Gar-Zekhemulu is a noble household of [[place-galezkara|Galezkara]], large enough that its affairs require a dedicated steward rather than a family member managing them directly. The household is old enough to expect that steward to be of real quality, and a mediocre appointment reflects on the family's own judgment as much as on the servant's competence. Good service in this household builds a reputation among the other great houses of the capital, and a poor steward is replaced before the damage spreads.
+Gar-Zekhemulu is a noble household of [[place-galezkara|Galezkara]], large enough that its affairs require a dedicated steward rather than a family member managing them directly. The household is old enough to expect that steward to be of real quality, and a mediocre appointment reflects on the family's own judgment as much as on the servant's competence. A steward who serves this household well builds a reputation that other great houses of the capital notice, and a poor one is replaced before the damage spreads.
 
 ## Character
 

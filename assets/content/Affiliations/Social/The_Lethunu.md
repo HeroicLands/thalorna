@@ -31,7 +31,7 @@ data:
 
 ## Overview
 
-The Lethunu is a fellowship formed within an established guild by members pressing to change what the old guard there considers settled beyond argument. The fellowship has no charter of its own, acting instead as an organized faction inside its parent guild's regular meetings and votes. It presides over the most contentious internal politics the guild has seen in a generation, and staying neutral between the Lethunu and the old guard is an increasingly hard position to hold.
+The Lethunu is a fellowship formed within an established guild by members pressing to change what the old guard there considers settled beyond argument. The fellowship has no charter of its own, acting instead as an organized faction inside its parent guild's regular meetings and votes. It presides over the most contentious internal politics the guild has seen in a generation, and a member who tries to stay neutral between the Lethunu and the old guard finds that position increasingly hard to hold.
 
 ## Character
 

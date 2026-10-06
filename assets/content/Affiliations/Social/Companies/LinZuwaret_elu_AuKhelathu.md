@@ -31,7 +31,7 @@ data:
 
 ## Overview
 
-Lin'Zuwaret elu Aû'Khelâthu is a consortium of wealthy traders across [[place-aukhelathrgq|Aû'Khelâthu]] who deal specifically in goods that have to arrive alive rather than merely intact. The consortium hires beast-trainers, assesses stock moving on the imperial routes, and advises on the transport of anything a bad journey would kill outright. Moving livestock or exotic beasts without consulting this consortium first gambles with a cargo that cannot simply be repacked if it survives the trip in poor condition.
+Lin'Zuwaret elu Aû'Khelâthu is a consortium of wealthy traders across [[place-aukhelathrgq|Aû'Khelâthu]] who deal specifically in goods that have to arrive alive rather than merely intact. The consortium hires beast-trainers, assesses stock moving on the imperial routes, and advises on the transport of anything a bad journey would kill outright. A trader moving livestock or exotic beasts without consulting this consortium first is gambling with a cargo that cannot simply be repacked if it survives the trip in poor condition.
 
 ## Character
 

@@ -31,7 +31,7 @@ data:
 
 ## Overview
 
-The Qethar'palu are a faction seated on various councils across [[place-aukhelathrgq|Aû'Khelâthu]] who hold that the old arrangements governing their bodies need no revision at all. They have the numbers, wherever they sit, to make any proposed revision slow even when they cannot block it outright. A vote count before a proposal comes forward starts with the Qethar'palu's numbers, since the timeline for any change runs through them.
+The Qethar'palu are a faction seated on various councils across [[place-aukhelathrgq|Aû'Khelâthu]] who hold that the old arrangements governing their bodies need no revision at all. They have the numbers, wherever they sit, to make any proposed revision slow even when they cannot block it outright. A reformer who counts votes before bringing a proposal forward learns to count the Qethar'palu's numbers first, since the timeline for any change runs through them.
 
 ## Character
 

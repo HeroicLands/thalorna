@@ -31,7 +31,7 @@ data:
 
 ## Overview
 
-Lin'Qeztu elu Aû'Khelâthu is the chartered body that regulates paid soldiering across [[place-aukhelathrgq|Aû'Khelâthu]], open to any fighter willing to submit to its terms of hire. The guild places members with employers who need soldiers on contract rather than levied troops, and it vouches for a member's standing and conduct to whoever is hiring. Hiring outside the guild means taking a soldier on trust alone, which is exactly the risk the guild's charter exists to remove.
+Lin'Qeztu elu Aû'Khelâthu is the chartered body that regulates paid soldiering across [[place-aukhelathrgq|Aû'Khelâthu]], open to any fighter willing to submit to its terms of hire. The guild places members with employers who need soldiers on contract rather than levied troops, and it vouches for a member's standing and conduct to whoever is hiring. An employer who hires outside the guild takes a soldier on trust alone, which is exactly the risk the guild's charter exists to remove.
 
 ## Character
 

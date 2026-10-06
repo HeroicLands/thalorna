@@ -31,7 +31,7 @@ data:
 
 ## Overview
 
-Lin'Zokhothu is a fellowship formed by the children of a retired master locksmith who hold that both the craft and its reputation should have passed down to them directly. Passed over in favor of another successor, they spend what influence they have spreading word against the man the inheritance went to instead. In [[place-galezkara|Galezkara]], a locksmith's genuine reputation now has to be sorted from this fellowship's running campaign against it.
+Lin'Zokhothu is a fellowship formed by the children of a retired master locksmith who hold that both the craft and its reputation should have passed down to them directly. Passed over in favor of another successor, they spend what influence they have spreading word against the man the inheritance went to instead. A client weighing which locksmith to trust in [[place-galezkara|Galezkara]] now has to sort a genuine reputation from this fellowship's running campaign against it.
 
 ## Character
 

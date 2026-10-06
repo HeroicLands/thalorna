@@ -132,8 +132,8 @@ his own ground is as good as anyone's anywhere.
 What they cannot do is **fix any of it**, and what they do not have is any real idea of **why it works**.
 
 The principles were never given them. They were given the operation—this gate, that hour, this depth,
-that season—and the operation is all they hold. A Vardain knows exactly what to do with a
-conduit and does not know why the conduit runs where it does, why it is that depth, or what would
+that season—and the operation is all they hold. A Vardain can tell you exactly what to do with a
+conduit and cannot tell you why the conduit runs where it does, why it is that depth, or what would
 happen if it did not. When something breaks they do not attempt it: they report it up the mountain through
 [[place-barakth|Hudhakal]] and wait, and an engineer comes down in a day or a week and it is dealt with.
 

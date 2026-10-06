@@ -12,7 +12,7 @@ The **Bhārava** rises at [[place-bhrvprbhav|Bhāravaprabhava]] under [[place-es
 
 ## The Highlands
 
-The upper Bhārava is the alluvial gold country. The wash out of the mountain has funded the temples of the highland janapadas for fifteen centuries. The janapada that sits on the richest of it is wealthy by any standard and philosophically embarrassed about it.
+The upper Bhārava is the alluvial gold country. The wash out of the mountain has funded the temples of the highland janapadas for fifteen centuries. The janapada that sits on the richest of it is wealthy by any standard and philosophically embarrassed about it. Buyers who come up for the gold find that embarrassment admirable or exasperating, according to how much they came to buy.
 
 ## The Forest
 

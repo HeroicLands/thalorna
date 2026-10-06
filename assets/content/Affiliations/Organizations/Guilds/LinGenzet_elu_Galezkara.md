@@ -31,7 +31,7 @@ data:
 
 ## Overview
 
-Lin'Genzet elu Galezkara is the chartered guild of advocates practicing in [[place-galezkara|Galezkara]], drawing its membership from those who argue cases before the imperial courts. The guild examines every candidate before admission, so a license to argue a case in the capital's courts runs through this body rather than the courts themselves. Hiring an advocate outside the guild's roster is a risk the guild itself will not vouch for.
+Lin'Genzet elu Galezkara is the chartered guild of advocates practicing in [[place-galezkara|Galezkara]], drawing its membership from those who argue cases before the imperial courts. The guild examines every candidate before admission, so a license to argue a case in the capital's courts runs through this body rather than the courts themselves. A litigant who hires an advocate outside the guild's roster is taking a risk the guild itself will not vouch for.
 
 ## Character
 

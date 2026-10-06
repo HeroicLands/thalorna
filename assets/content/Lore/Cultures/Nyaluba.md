@@ -58,13 +58,13 @@ The faith is a layered system of clan totems, land-spirits, water-spirits, hunt-
 
 Each clan keeps its primary totem—lion, crocodile, eagle, leopard, baobab—along with its subordinate totems, ancestor-shrines and land-spirit relationships. Crucially, the clans recognize each other's totems as kin to their own, and inter-clan ceremonies name all five together. That mutual recognition is what makes the Pact a religious fact instead of a treaty, and it is why breaking it would be a far worse thing than breaking a treaty.
 
-Whether he believes in the spirits is a strange question to a Nyáluban. The spirits are not a proposition; they are neighbors, and the three postures are how a person behaves toward neighbors of that kind.
+To a Nyáluban, the question of whether he believes in the spirits is a strange one. The spirits are not a proposition; they are neighbors, and the three postures are how a person behaves toward neighbors of that kind.
 
 ## Cattle, Consensus and the Slow Word
 
 Wealth is cattle among the Mvuzi, gold among the Ngonzi, trade among the Sengala, grain among the Bombwe and the river among the Kambezi, and each clan quietly believes its own kind is the real kind.
 
-Decision is by consensus, and consensus here is a technique and not a sentiment. A council does not vote: it talks until the objections stop, in an order fixed by custom, with the senior speaker last. The Mvuzi paramount and the Bombwe griot therefore hold the same instrument—the right to speak into a silence everyone else has already filled—and the slowness is not indecision but the most sophisticated thing in Nyáluban public life.
+Decision is by consensus, and consensus here is a technique and not a sentiment. A council does not vote: it talks until the objections stop, in an order fixed by custom, with the senior speaker last. The Mvuzi paramount and the Bombwe griot therefore hold the same instrument—the right to speak into a silence everyone else has already filled—and the slowness foreigners take for indecision is the most sophisticated thing in Nyáluban public life.
 
 Feuds between clans are forsworn. Feuds within a clan are not, and elders settle them in cattle.
 

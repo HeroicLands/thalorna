@@ -43,8 +43,8 @@ many died at once that the boundary with the spirit world was torn rather than w
 close afterward. Most replay the battle harmlessly; some grow too well; one is killing the country
 around it.
 
-Characteristically, Provènzia names the ground rather than the battle. A field is known as a
-blood-field long before anyone can say which war made it, and for many of them nobody
+Characteristically, Provènzia names the ground rather than the battle. Provenzians call a field a
+blood-field long before they can say which war made it, and for many of them nobody
 can.
 
 ## Culture and Society

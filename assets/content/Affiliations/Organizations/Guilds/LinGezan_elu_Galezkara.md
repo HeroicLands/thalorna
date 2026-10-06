@@ -31,7 +31,7 @@ data:
 
 ## Overview
 
-Lin'Gezan elu Galezkara is the chartered guild of debt collectors operating in [[place-galezkara|Galezkara]], holding the exclusive right to enforce what a creditor's ledger says is owed. Its members pursue debts the courts have already confirmed but have no machinery of their own to collect, standing in for the state's own enforcement. The guild is disliked in exact proportion to its usefulness, and a debt settled quickly fares better than one left until its collectors return.
+Lin'Gezan elu Galezkara is the chartered guild of debt collectors operating in [[place-galezkara|Galezkara]], holding the exclusive right to enforce what a creditor's ledger says is owed. Its members pursue debts the courts have already confirmed but have no machinery of their own to collect, standing in for the state's own enforcement. The guild is disliked in exact proportion to its usefulness, and a debtor who satisfies it quickly fares better than one who waits for its collectors to return.
 
 ## Character
 

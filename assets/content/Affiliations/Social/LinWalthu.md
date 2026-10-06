@@ -31,7 +31,7 @@ data:
 
 ## Overview
 
-Lin'Walthu, the Wanderers' Fellowship, is a loose company of traveling performers and itinerants moving through [[place-aukhelathrgq|Aû'Khelâthu]] without a fixed seat of their own. Members keep membership more as a courtesy extended to others on the road than as any binding obligation, and attend the fellowship's gatherings when it suits their own itinerary. Booking one of these performers often means waiting on the fellowship's own loose schedule rather than the performer's individual availability.
+Lin'Walthu, the Wanderers' Fellowship, is a loose company of traveling performers and itinerants moving through [[place-aukhelathrgq|Aû'Khelâthu]] without a fixed seat of their own. Members keep membership more as a courtesy extended to others on the road than as any binding obligation, and attend the fellowship's gatherings when it suits their own itinerary. A settlement that wants to book one of these performers often has to wait on the fellowship's own loose schedule rather than the performer's individual availability.
 
 ## Character
 
