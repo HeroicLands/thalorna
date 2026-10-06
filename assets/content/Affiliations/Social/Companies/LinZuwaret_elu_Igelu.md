@@ -36,16 +36,17 @@ Lin'Zuwaret elu Igelu is the consortium of traders working the waterfront at [[p
 
 ## Character
 
-TBD.
+The consortium is hands-on and territorial. Its traders are the first to handle what comes off the barges and hold the dock as their own ground.
 
 ## Relations
 
-TBD.
+The consortium works the waterfront at [[place-waligelu|Wal-Igelu]], the flood-prone quarter of [[place-galezkara|Galezkara]] where the river barges unload.
 
 ## Commerce and Currency
 
-TBD.
+Its traders handle the goods landed from the barges and set much of what they cost by the time they reach the city's markets.
 
 ## See Also
 
-TBD.
+- [[place-waligelu|Wal-Igelu]]—The waterfront quarter it works
+- [[place-galezkara|Galezkara]]—The city it supplies

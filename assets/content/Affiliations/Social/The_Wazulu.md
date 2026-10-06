@@ -36,16 +36,17 @@ The Wazulu are a movement within the priesthood of the sterner gods of [[place-a
 
 ## Character
 
-TBD.
+The Wazulu are severe and active. They hold that public performance corrupts performer and audience alike, and they press for the players to be put down rather than regulated or taxed.
 
 ## Relations
 
-TBD.
+The Wazulu are a movement within the priesthood of the sterner gods of [[place-aukhelathrgq|Aû'Khelâthu]]. Their influence at a given temple is a standing hazard to the license of a company such as [[affiliation-linshlnglzkr|the Theatre Company of Galezkara]].
 
 ## Commerce and Currency
 
-TBD.
+A playing company's license to perform is the matter the Wazulu contest, since they seek its removal and not merely its taxation.
 
 ## See Also
 
-TBD.
+- [[affiliation-linshlnglzkr|Lin'Shelun elu Galezkara]]—The company whose license they threaten
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to

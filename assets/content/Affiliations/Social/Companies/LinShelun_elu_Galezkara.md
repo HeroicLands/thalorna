@@ -44,16 +44,17 @@ Lin'Shelun elu Galezkara is the principal playing company of [[place-galezkara|G
 
 ## Character
 
-TBD.
+The company is proud and competitive. Its internal politics are as involved as any court's, and a performer's standing can shift with a single poorly received season.
 
 ## Relations
 
-TBD.
+The company is the principal playing company of [[place-galezkara|Galezkara]], its leading performers known across [[place-aukhelathrgq|Aû'Khelâthu]]. [[affiliation-wazulu|The Wazulu]] press for players to be put down and so threaten its license to perform.
 
 ## Commerce and Currency
 
-TBD.
+The company stages the productions that set the standard for every other troupe in the empire. A playwright writes its productions and a director directs them on its stage.
 
 ## See Also
 
-TBD.
+- [[place-galezkara|Galezkara]]—The city it plays in
+- [[affiliation-wazulu|The Wazulu]]—The movement that presses against players

@@ -42,16 +42,16 @@ Gar-Zekhemulu is a noble household of [[place-galezkara|Galezkara]], large enoug
 
 ## Character
 
-TBD.
+The household is old and orderly, and it expects quality of those who run it. The master answers at law for the house, and a steward whose work falls short is replaced.
 
 ## Relations
 
-TBD.
+Gar-Zekhemulu is a noble household of [[place-galezkara|Galezkara]]. Its steward's reputation is noticed by the other great houses of the capital.
 
 ## Commerce and Currency
 
-TBD.
+The household is large enough to need a dedicated steward, who manages its affairs on the master's behalf.
 
 ## See Also
 
-TBD.
+- [[place-galezkara|Galezkara]]—The city it belongs to

@@ -36,16 +36,16 @@ Genzet'Zabu is a district-level council of titled families, convened wherever en
 
 ## Character
 
-TBD.
+The council is conservative. The families most willing to attend are the ones least interested in changing how things are done, so traditionalist and military thinking generally carries the room.
 
 ## Relations
 
-TBD.
+The council gathers the titled families of a district, wherever enough noble households sit close enough together to meet regularly.
 
 ## Commerce and Currency
 
-TBD.
+No trade or coin figures in the account of the council. What it holds is the weight its families carry in the room.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to

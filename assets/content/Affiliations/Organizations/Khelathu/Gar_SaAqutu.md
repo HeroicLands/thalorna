@@ -40,16 +40,16 @@ Gar-Sa'Aqutu is a military house of long standing in [[place-aukhelathrgq|Aû'Kh
 
 ## Character
 
-TBD.
+The house is strategic and patient. It treats command and court influence as two halves of one design, and the master sets the course of each generation's placements.
 
 ## Relations
 
-TBD.
+Sons of the house rise through the officer ranks of [[place-aukhelathrgq|Aû'Khelâthu]] and daughters are placed at court. The master answers at law for everyone attached to the house.
 
 ## Commerce and Currency
 
-TBD.
+The house's wealth is its land, held by the master, and its advancement runs through placements in the army and at court rather than through trade.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to

@@ -40,16 +40,16 @@ Lut-Zâbeklegezu is a noble household of long standing in [[place-aukhelathrgq|A
 
 ## Character
 
-TBD.
+The household runs on loyalty and long habit. Its master keeps the same servants for decades, and the trust built over those years does the work that written procedure does elsewhere.
 
 ## Relations
 
-TBD.
+Lut-Zâbeklegezu is a noble household of [[place-aukhelathrgq|Aû'Khelâthu]], bound together by the master and the servants he has kept.
 
 ## Commerce and Currency
 
-TBD.
+The household's business rests on trust rather than written procedure, and the master's seal is a matter of real consequence to it.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to

@@ -36,16 +36,16 @@ Genzet'Qelunu, the Circle of the Veil, is a discreet society whose members trade
 
 ## Character
 
-TBD.
+The circle is discreet. Its members keep their own names out of the ledgers they compile and keep standards for their profession.
 
 ## Relations
 
-TBD.
+The circle is made up of courtesans, companions and women of influence. A patron who buys from it gains leverage over someone else and does not learn which member gathered the information.
 
 ## Commerce and Currency
 
-TBD.
+The circle's trade is information that people would rather not have known, compiled into ledgers for its members' use.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to

@@ -44,16 +44,18 @@ Gar-Meglay Khuqet-Miglet is the frontier command holding the forts and wells of 
 
 ## Character
 
-TBD.
+The command is a body of soldiers posted far from the comforts of the capital, held to the forts and wells of a hard road. Its officers treat the peace with the Dunhari as a matter of convenience, keeping it and breaking it as it suits them.
 
 ## Relations
 
-TBD.
+The command holds [[place-khuqetmiglet|Khuqet-Miglet]] against the desert tribes and keeps a nominal peace with the [[lore-dunhariclt|Dunhari]]. A commander answers for the road and for the forts and wells along it.
 
 ## Commerce and Currency
 
-TBD.
+The command keeps the northern desert road and its water open, and holding the wells matters as much as holding any fort. Caravans on the road depend on those wells and on the state of the peace.
 
 ## See Also
 
-TBD.
+- [[place-khuqetmiglet|Khuqet-Miglet]]—The desert-march it holds
+- [[lore-dunhariclt|Dunhari]]—The tribes it keeps a nominal peace with
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to

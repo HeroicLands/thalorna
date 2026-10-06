@@ -40,16 +40,16 @@ Lin'Zuwaret elu Qelt'Lefetu is the trading house of the **Qelt'Lefetu**, running
 
 ## Character
 
-TBD.
+The company is well-funded and cautious in its own way: it pays to remove the road's risk rather than accept it. The merchant prince directs the house and its trade network.
 
 ## Relations
 
-TBD.
+The company is the trading house of the Qelt'Lefetu. It hires its own armed protection for its caravans.
 
 ## Commerce and Currency
 
-TBD.
+It runs caravans on the high-value and dangerous routes that less well-funded traders avoid, and its margins on those goods absorb the cost of the protection.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to

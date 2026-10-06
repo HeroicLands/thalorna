@@ -36,16 +36,16 @@ Lin'Walgir, the Gray Ranger Fellowship, is a loose fellowship of scouts and wild
 
 ## Character
 
-TBD.
+The rangers are reserved and practical. They keep to their own company on the road and take work that pays well because it is not spoken of.
 
 ## Relations
 
-TBD.
+The fellowship is a loose gathering of scouts and wilderness-hands across [[place-aukhelathrgq|Aû'Khelâthu]], working in coordination without formal hierarchy. Caravan masters hire its members and keep the fact quiet.
 
 ## Commerce and Currency
 
-TBD.
+Its members track, guide and clear a path through country the ordinary road crews leave alone, and are paid well for it.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to

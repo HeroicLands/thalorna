@@ -40,16 +40,17 @@ Lin'Zethu elu Reth'Sa'âr is the network of scribal schools maintained under [[l
 
 ## Character
 
-TBD.
+The schools are merit-minded and exacting. They admit pupils on ability rather than birth, and priests of Reth'Sa'âr serve as the teachers.
 
 ## Relations
 
-TBD.
+The schools work under the patronage of [[lore-rethsaardty|Reth'Sa'âr]] and draw pupils from across [[place-aukhelathrgq|Aû'Khelâthu]]. A pupil who completes the course enters the bureaucracy regardless of family standing.
 
 ## Commerce and Currency
 
-TBD.
+The schools produce the administrators the imperial state runs on. Their course is the route into the administration for a pupil of any family.
 
 ## See Also
 
-TBD.
+- [[lore-rethsaardty|Reth'Sa'âr]]—The patron god of the schools
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to

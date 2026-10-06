@@ -36,16 +36,17 @@ Gar-Zeglar is the empire's administrative ministry, the arm of [[affiliation-emp
 
 ## Character
 
-TBD.
+The ministry is secretive and slow. Its ministers decide what of the realm's records is found, and it dislikes anyone who exposes what its files contain.
 
 ## Relations
 
-TBD.
+Gar-Zeglar is the administrative arm of [[affiliation-empireakhlth|Aû'Khelâthu]]'s government. Its ministers each hold a portion of the realm's records.
 
 ## Commerce and Currency
 
-TBD.
+The ministry keeps the tax rolls and land grants, the records on which the empire's dues and holdings rest.
 
 ## See Also
 
-TBD.
+- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—The government it administers
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to

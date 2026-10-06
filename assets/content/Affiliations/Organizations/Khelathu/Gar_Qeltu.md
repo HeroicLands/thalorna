@@ -40,16 +40,17 @@ Gar-Qeltu was the pearl-divers' house, a lineage whose charter once governed the
 
 ## Character
 
-TBD.
+What the account records of the house is its end: it held a charter and lost the house when the charter lapsed. Guild masters cite it as the example of what a lapsed charter costs.
 
 ## Relations
 
-TBD.
+The house answered for itself and its charter to the Gar-Aû, whose word dissolved it. It is the last major dissolution anyone in [[place-aukhelathrgq|Aû'Khelâthu]] can name.
 
 ## Commerce and Currency
 
-TBD.
+The house's charter governed the pearl trade of the empire, and the dissolution took that trade out of the house's hands.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to
+- [[lore-garauu|Gar-Aûu]]—The sovereigns whose word dissolved it

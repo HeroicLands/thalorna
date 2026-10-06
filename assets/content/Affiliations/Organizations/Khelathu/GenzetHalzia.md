@@ -36,16 +36,16 @@ Genzet'Halzi'a is the assembled Halzi'a — the provincial governors — of the 
 
 ## Character
 
-TBD.
+The council is transactional. Each governor speaks for a single province, and bargaining is the business of the session.
 
 ## Relations
 
-TBD.
+The Halzi'a of the selats of [[place-aukhelathrgq|Aû'Khelâthu]] meet here, each representing a province before the imperial centre and before neighboring provinces.
 
 ## Commerce and Currency
 
-TBD.
+Taxation and levies are bargained between the provinces and the centre. Water, roads and boundary disputes are bargained between neighbors.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to

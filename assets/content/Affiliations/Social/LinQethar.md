@@ -36,16 +36,16 @@ Lin'Qethar, the Traditionalist Consortium, gathers older masters and guild conse
 
 ## Character
 
-TBD.
+The consortium is conservative and defensive. Its members hold that a craft's sanctity lies in its established methods and treat departures from them as attacks on the order of things.
 
 ## Relations
 
-TBD.
+The consortium gathers older masters and guild conservatives across [[place-aukhelathrgq|Aû'Khelâthu]], who organize within their own guilds.
 
 ## Commerce and Currency
 
-TBD.
+Its members resist changes to technique, training or admission within their guilds, and a proposed innovation is judged against what their own masters taught.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to

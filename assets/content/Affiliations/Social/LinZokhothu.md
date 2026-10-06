@@ -36,16 +36,16 @@ Lin'Zokhothu is a fellowship formed by the children of a retired master locksmit
 
 ## Character
 
-TBD.
+The fellowship is aggrieved and persistent. Its members hold that the craft and its reputation should have passed to them, and they campaign together against the man it went to.
 
 ## Relations
 
-TBD.
+The fellowship is made up of the children of the retired master locksmith Zokhothu, passed over for his succession. Its campaign reaches the clients of [[place-galezkara|Galezkara]] who choose a locksmith.
 
 ## Commerce and Currency
 
-TBD.
+The trade in question is the locksmith's craft and its reputation, which the fellowship contests with its running campaign against the successor.
 
 ## See Also
 
-TBD.
+- [[place-galezkara|Galezkara]]—The city whose locksmiths it contests

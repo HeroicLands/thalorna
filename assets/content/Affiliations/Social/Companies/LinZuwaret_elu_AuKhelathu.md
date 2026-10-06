@@ -36,16 +36,16 @@ Lin'Zuwaret elu Aû'Khelâthu is a consortium of wealthy traders across [[place-
 
 ## Character
 
-TBD.
+The consortium is careful and specialized. Its traders deal in goods that must arrive alive, so the carriage of a cargo matters as much as its price.
 
 ## Relations
 
-TBD.
+The consortium is made up of wealthy traders across [[place-aukhelathrgq|Aû'Khelâthu]]. It hires beast-trainers and assesses stock moving on the imperial routes.
 
 ## Commerce and Currency
 
-TBD.
+Its trade is livestock and living cargo, and it advises on the transport of anything a bad journey would kill outright.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to

@@ -40,16 +40,16 @@ Gar-Qelti is a wealthy merchant house with trading interests spread across [[pla
 
 ## Character
 
-TBD.
+The house is acquisitive and quick to lend its name to a venture it expects to profit by, which makes its backing sought after and, to a cautious partner, slightly suspect. Its master decides which ventures carry the name.
 
 ## Relations
 
-TBD.
+House Qelti is patron to timber-merchants and craftspeople who needed capital the guilds could not supply. Its trading interests reach across [[place-aukhelathrgq|Aû'Khelâthu]].
 
 ## Commerce and Currency
 
-TBD.
+The house is wealthy from trade across the empire and from the capital it extends to timber-merchants and craftspeople. Its own profit is written into the terms of a backed venture before anyone else's.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to

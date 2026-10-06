@@ -36,16 +36,16 @@ Genzet'Gewaâtis is the governing council of [[affiliation-lutgewaatis|the templ
 
 ## Character
 
-TBD.
+The council is practical and commercial in its piety. Its senior priests and captains sit together, and a voyage that lacks its sanction sails without the god's protection.
 
 ## Relations
 
-TBD.
+The council governs [[affiliation-lutgewaatis|the temple of Gewaâtis]] and answers for the voyages made under the god's protection.
 
 ## Commerce and Currency
 
-TBD.
+The council administers the temple's holdings and sanctions voyages. Insurers and investors look for its blessing before backing a venture.
 
 ## See Also
 
-TBD.
+- [[affiliation-lutgewaatis|Lut-Gewaâtis]]—The temple it governs

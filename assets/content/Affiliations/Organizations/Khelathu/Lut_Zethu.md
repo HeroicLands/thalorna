@@ -38,16 +38,16 @@ Lut-Zethu, the Imperial Library, is the empire's collection of texts, held under
 
 ## Character
 
-TBD.
+The library is guarded and gated. Access runs through the scribes' permission rather than any general right of scholarship, and the texts on the spirit-realm sit behind a further door.
 
 ## Relations
 
-TBD.
+The library is held under the hand of [[affiliation-linzethkhlth|the scribes' guild]], which grants every reader's permission. A Keeper of the Further Door holds the door to the texts on the spirit-realm.
 
 ## Commerce and Currency
 
-TBD.
+The library holds the empire's texts and sells nothing the account records. Entry is by the guild's permission, and the spirit-realm texts are open to fewer readers than the rest.
 
 ## See Also
 
-TBD.
+- [[affiliation-linzethkhlth|Lin'Zethu elu Aû'Khelâthu]]—The scribes' guild that holds it

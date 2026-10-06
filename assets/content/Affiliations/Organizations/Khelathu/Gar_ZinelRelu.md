@@ -38,16 +38,18 @@ Gar-Zin'el'Rêlu is a fallen dynasty of [[place-aukhelathrgq|Aû'Khelâthu]], wh
 
 ## Character
 
-TBD.
+The dynasty is remembered through its erasure. It stood barely a century, and its last Gar-Aû was thrown down for sealing the living into a tomb.
 
 ## Relations
 
-TBD.
+The last sovereign of the house appears in the official records only as [[being-falseuqaa|the False Uqa'â]]. The oldest servants of the necropolis still remember the name he reigned under.
 
 ## Commerce and Currency
 
-TBD.
+Nothing of the house's wealth or trade is recorded. Its name, image and house were struck from every wall, and what remains is the throne it held while the dynasty stood.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to
+- [[being-falseuqaa|False Uqa'â]]—The last sovereign of the house
+- [[lore-garauu|Gar-Aûu]]—The line of sovereigns it belonged to

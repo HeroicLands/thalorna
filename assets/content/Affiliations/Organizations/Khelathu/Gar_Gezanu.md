@@ -38,16 +38,18 @@ Gar-Gezanu is the imperial service responsible for collecting dues and enforcing
 
 ## Character
 
-TBD.
+The service is exacting and literal. Its rule is that anything taken unweighed is stolen, and it applies the rule without regard to the taker's reasons, so its assessors act as enforcers as readily as clerks.
 
 ## Relations
 
-TBD.
+Gar-Gezanu is the imperial service that collects the Gar-Aû's dues across [[place-aukhelathrgq|Aû'Khelâthu]]. Its weighmasters keep the service's weights at every market and ford worth taxing.
 
 ## Commerce and Currency
 
-TBD.
+Its business is weighing and taxing goods at the point of sale or transit, and goods that move without passing its weights count as stolen.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to
+- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—The empire it collects for
+- [[lore-garauu|Gar-Aûu]]—The sovereigns whose dues it collects

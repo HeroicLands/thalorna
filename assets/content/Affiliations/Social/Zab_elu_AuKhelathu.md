@@ -48,16 +48,17 @@ Zab elu Aû'Khelâthu is the fellowship of titled families across [[place-aukhel
 
 ## Character
 
-TBD.
+The titled families are hereditary and exclusive. They close ranks against outsiders with unusual speed.
 
 ## Relations
 
-TBD.
+The fellowship holds most of the land, office and access to the court of [[place-aukhelathrgq|Aû'Khelâthu]] between its houses. Its influence runs through marriage alliances and inherited appointment, and its Halzi'a sit in [[affiliation-genzethalzia|the council of the selats]].
 
 ## Commerce and Currency
 
-TBD.
+The families hold between them most of the empire's land and its offices. Membership is hereditary rather than earned, and a single marriage into one house does not carry across the rest.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to
+- [[affiliation-genzethalzia|Genzet'Halzi'a]]—The council where their governors sit

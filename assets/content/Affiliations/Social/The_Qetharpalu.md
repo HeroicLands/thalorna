@@ -36,16 +36,16 @@ The Qethar'palu are a faction seated on various councils across [[place-aukhelat
 
 ## Character
 
-TBD.
+The Qethar'palu are obstructive by weight of numbers. They hold that the old arrangements of their bodies need no revision, and they can make any revision slow even when they cannot block it.
 
 ## Relations
 
-TBD.
+The faction holds seats on various councils across [[place-aukhelathrgq|Aû'Khelâthu]] and votes together against revision.
 
 ## Commerce and Currency
 
-TBD.
+No trade figures in the account of the Qethar'palu. Their strength is the number of seats they hold, which sets the timeline of any proposed change.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to

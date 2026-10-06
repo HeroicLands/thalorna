@@ -36,16 +36,16 @@ Zeghet'Anlethu, the Relic Hunters, is a loose fellowship of those who go after w
 
 ## Character
 
-TBD.
+The relic hunters are competitive and divided in motive. Some go after a publishable find and some after a sellable one, and the fellowship imposes no rule about which wins.
 
 ## Relations
 
-TBD.
+The fellowship draws scholars and dealers alike, with no formal line between the two. Its members race one another into the old tombs of [[place-aukhelathrgq|Aû'Khelâthu]].
 
 ## Commerce and Currency
 
-TBD.
+What the necropoli still hold is either published for scholarship or sold, and the fellowship does not choose between the two.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to

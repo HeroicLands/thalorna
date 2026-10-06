@@ -36,16 +36,16 @@ The Qethar'lemu are priests of the stricter observances across [[place-aukhelath
 
 ## Character
 
-TBD.
+The Qethar'lemu are strict. They hold the old forms of worship to be the only valid forms, with no room for local variation, and count any accommodation of novelty as an injury to the gods.
 
 ## Relations
 
-TBD.
+The Qethar'lemu are priests of the stricter observances across [[place-aukhelathrgq|Aû'Khelâthu]]. They object together to a temple council that entertains a scholarly reinterpretation of its rites.
 
 ## Commerce and Currency
 
-TBD.
+No trade figures in the account of the Qethar'lemu. Their objection falls on revisions to ritual before they reach ordinary worshippers.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to

@@ -40,16 +40,16 @@ Gar-Gul'Thakétu is a noble house of [[place-aukhelathrgq|Aû'Khelâthu]] known 
 
 ## Character
 
-TBD.
+The house is exacting about the quality of the arms it backs and guards its name, which it lends only as a guarantee. Its master answers at law for the house and for every smith it vouches for.
 
 ## Relations
 
-TBD.
+The house stands between the finest smiths of [[place-aukhelathrgq|Aû'Khelâthu]] and the peers who commission from them. It vouches for a smith's standards to those peers in place of their testing the work themselves.
 
 ## Commerce and Currency
 
-TBD.
+The house commissions arms and armor from the empire's finest smiths rather than keeping armories of its own make. Its name serves as the guarantee that opens the nobility to a new maker's work.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to

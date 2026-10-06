@@ -36,16 +36,16 @@ Genzet'Uznêra is the governing council of [[affiliation-lutuznera|the temple of
 
 ## Character
 
-TBD.
+The council is led by priestesses, with the few men raised high enough in the priesthood seated beside them. It holds the temple's calendar to be the measure of what counts as the temple's own rite.
 
 ## Relations
 
-TBD.
+The council governs [[affiliation-lutuznera|the temple of Uznêra]]. A rite performed outside the calendar it sets is not recognized as the temple's own.
 
 ## Commerce and Currency
 
-TBD.
+The council administers the temple's holdings and sets the calendar of observances that mark fertility, marriage and birth.
 
 ## See Also
 
-TBD.
+- [[affiliation-lutuznera|Lut-Uznêra]]—The temple it governs

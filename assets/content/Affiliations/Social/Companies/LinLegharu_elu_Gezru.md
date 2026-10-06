@@ -36,16 +36,16 @@ Lin'Legharu elu Gezru, the Desert Consortium, is a company of merchants who take
 
 ## Character
 
-TBD.
+The members are short-sighted traders who harvest what sells fastest and move on. They treat conservation as a threat to the trade.
 
 ## Relations
 
-TBD.
+The consortium is a loose association of merchants working the red land around Gezru. It gives no quarter to anyone conserving the plants it takes.
 
 ## Commerce and Currency
 
-TBD.
+Its trade is rare plants taken out of the red land for quick profit, with no stake in the land's capacity to keep producing.
 
 ## See Also
 
-TBD.
+- [[lore-gezrulutu|Gezru'lutu]]—The red waste

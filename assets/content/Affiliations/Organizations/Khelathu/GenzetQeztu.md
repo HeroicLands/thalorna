@@ -36,16 +36,16 @@ Genzet'Qeztu is the council of the empire's senior commanders meeting in session
 
 ## Character
 
-TBD.
+The council defers to experience. A retired general's counsel carries weight with the officers he trained, and standing in the council runs on reputation as much as on current rank.
 
 ## Relations
 
-TBD.
+The council seats the empire's senior commanders, retired officers among them. A field commander who ignores its advice finds promotion and support harder to come by from officers who remember being overruled.
 
 ## Commerce and Currency
 
-TBD.
+The council deals in counsel and standing rather than coin. Its currency is reputation among officers.
 
 ## See Also
 
-TBD.
+- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—The empire it serves

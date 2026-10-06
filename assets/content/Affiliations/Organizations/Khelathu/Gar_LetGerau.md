@@ -40,16 +40,16 @@ Gar-Let'Gerau is a hereditary line of craftsmen whose family name carries weight
 
 ## Character
 
-TBD.
+Members hold to a standard above the guild's minimum, and the family name stands for that standard. The master keeps the line's techniques and answers for work done under the name.
 
 ## Relations
 
-TBD.
+The name carries weight in the guild halls of [[place-aukhelathrgq|Aû'Khelâthu]] whatever guild a member belongs to. Members remain within their own guilds while holding to the line's standard.
 
 ## Commerce and Currency
 
-TBD.
+Work done under the Let'Gerau name is expected to exceed what a guild certificate promises, and buyers who pay for the name expect that.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to

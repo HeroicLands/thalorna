@@ -36,16 +36,16 @@ The Zab'quzu, the Dishonorable Order, are former soldiers of [[place-aukhelathrg
 
 ## Character
 
-TBD.
+The order keeps its own company out of shared disgrace rather than shared purpose. Its members were stripped of standing for conduct the military could not overlook.
 
 ## Relations
 
-TBD.
+The Zab'quzu are former soldiers of [[place-aukhelathrgq|Aû'Khelâthu]]. The order's name tells a commander only that the reason for the stripping was serious.
 
 ## Commerce and Currency
 
-TBD.
+A Zab'quzu veteran seeks work on the strength of his skill, which a commander weighs against the reason for the stripping.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to
