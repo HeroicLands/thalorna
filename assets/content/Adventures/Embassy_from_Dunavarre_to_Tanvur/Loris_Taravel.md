@@ -375,10 +375,6 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
-
-TBD
-
 # Dossier {#dossier}
 
 **Role.** Handles negotiations and translates documents.

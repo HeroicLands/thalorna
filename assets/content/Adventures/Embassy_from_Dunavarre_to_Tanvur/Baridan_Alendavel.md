@@ -18,10 +18,6 @@ data:
   packFolder: adventures
 ---
 
-# Appearance {#appearance}
-
-TBD
-
 # Dossier {#dossier}
 
 **Role.** Manages the household and logistics of the embassy.

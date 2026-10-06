@@ -375,10 +375,6 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
-
-TBD
-
 # Dossier {#dossier}
 
 **Role.** Captain of the [[affiliation-justbladeordr|Order of the Just Blade]], and gives military counsel.

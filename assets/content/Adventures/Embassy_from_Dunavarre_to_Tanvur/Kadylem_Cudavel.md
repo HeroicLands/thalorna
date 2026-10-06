@@ -18,10 +18,6 @@ data:
   packFolder: adventures
 ---
 
-# Appearance {#appearance}
-
-TBD
-
 # Dossier {#dossier}
 
 **Role.** Announces the Ambassador's arrival and status.
