@@ -20,29 +20,30 @@ the skeletons and what has been built on them.
 The skeletons fall into the fields below. A field is where a skeleton belongs by its sense, and every
 word built on that skeleton stands in that field's table.
 
-| Name                            | Field     | Covers                                                                                      |
-| ------------------------------- | --------- | ------------------------------------------------------------------------------------------- |
-| Stone and metal                 | `stone`   | stone, ore, metal, gem                                                                      |
-| Craft and the forge             | `craft`   | craft, tool, forge, fire                                                                    |
-| The deep                        | `deep`    | delving, the deep places and what is kept there                                             |
-| The grain of the rock           | `rock`    | grain, joint, bedding, fault, fissure, flaw, stress, the stone's temper and will            |
-| Caves and their finding         | `cave`    | cave kinds, karst forms, passages, chambers, dripstone, finding and opening                 |
-| The face and the light          | `face`    | cliff, face, opening, daylight, court, flue and smoke, the home on the face                 |
-| Listening and the cut           | `listen`  | listening, reading, sounding, restraint, apprenticeship, the clumsy and the straight cut    |
-| The hold                        | `hold`    | hold, hall, tower, gate, pillar, stair, road                                                |
-| Kin and the house               | `kin`     | clan, house, line, elder, child, the name                                                   |
-| Oath, law and measure           | `law`     | oath, law, record, reckoning, measure, tally                                                |
-| Letters and writing             | `letter`  | the carved and hand forms of Pirzath, ink, chalk, wax, stylus, the letter, the line of text |
-| Time and the mountain's seasons | `time`    | generation, age, season, cold and thaw                                                      |
-| Body and person                 | `body`    | the body, its strength, its voice                                                           |
-| War and the guarding            | `war`     | war, the Grukar, guarding, sealing, arms                                                    |
-| Death and memory                | `death`   | death, the tomb, mourning, remembrance                                                      |
-| The god and devotion            | `god`     | the god, devotion as craft, dream                                                           |
-| The Shadow and what rises       | `shadow`  | the void, corruption, the breach, what comes up from below                                  |
-| Khazártúrn                      | `city`    | the city of the seven towers: its streets, fountains, markets and painted sky               |
-| Other peoples and the larder    | `peoples` | humans, the elder folk of the forest, farming for the hold, the sea                         |
-| Motion and holding              | `motion`  | going, coming, climbing, carrying, holding fast                                             |
-| Grammar words                   | `grammar` | pronouns, particles, numerals, quantity                                                     |
+| Name                            | Field     | Covers                                                                                                            |
+| ------------------------------- | --------- | ----------------------------------------------------------------------------------------------------------------- |
+| Stone and metal                 | `stone`   | stone, ore, metal, gem                                                                                            |
+| Craft and the forge             | `craft`   | craft, tool, forge, fire                                                                                          |
+| The deep                        | `deep`    | delving, the deep places and what is kept there                                                                   |
+| The grain of the rock           | `rock`    | grain, joint, bedding, fault, fissure, flaw, stress, the mountain whole, its shudder, the stone's temper and will |
+| Caves and their finding         | `cave`    | cave kinds, karst forms, passages, chambers, dripstone, finding and opening                                       |
+| The face and the light          | `face`    | cliff, face, opening, daylight, court, flue and smoke, wind, sky and star, the home on the face                   |
+| Listening and the cut           | `listen`  | listening, reading, sounding, restraint, apprenticeship, the clumsy and the straight cut                          |
+| The hold                        | `hold`    | hold, hall, tower, gate, pillar, stair, road                                                                      |
+| Kin and the house               | `kin`     | clan, house, line, elder, child, the name, the shared meal, exile from the house                                  |
+| Oath, law and measure           | `law`     | oath, law, record, reckoning, measure, tally, council, gift, shame and wrong                                      |
+| Letters and writing             | `letter`  | the carved and hand forms of Pirzath, ink, chalk, wax, stylus, the letter, the line of text                       |
+| Song and telling                | `tell`    | song, lament, the telling and the account, charm, foretelling, riddle, saying, praise, the word                   |
+| Time and the mountain's seasons | `time`    | generation, age, season, cold and thaw                                                                            |
+| Body and person                 | `body`    | the body, its strength, its voice                                                                                 |
+| War and the guarding            | `war`     | war, the Grukar, guarding, sealing, arms                                                                          |
+| Death and memory                | `death`   | death, the tomb, mourning, remembrance                                                                            |
+| The god and devotion            | `god`     | the god, devotion as craft, dream                                                                                 |
+| The Shadow and what rises       | `shadow`  | the void, corruption, the breach, what comes up from below                                                        |
+| Khazártúrn                      | `city`    | the city of the seven towers: its streets, fountains, markets and painted sky                                     |
+| Other peoples and the larder    | `peoples` | humans, the elder folk of the forest, crowns, farming for the hold, hunger, ale, rivers, the sea                  |
+| Motion and holding              | `motion`  | going, coming, climbing, carrying, holding fast                                                                   |
+| Grammar words                   | `grammar` | pronouns, particles, numerals, quantity                                                                           |
 
 ## Classes
 
@@ -132,6 +133,7 @@ skeleton carries needs a new skeleton, which belongs in this note before it is u
 | `z-m-d`   | to assay                                              | `craft`   |
 | `z-n-th`  | bright; to burnish                                    | `craft`   |
 | `z-v-l`   | to smelt                                              | `craft`   |
+| `m-n-dh`  | to mend; a mending                                    | `craft`   |
 | `b-s-r`   | a spring, water rising                                | `deep`    |
 | `d-r-p`   | a drip; to drip                                       | `deep`    |
 | `dh-m-v`  | darkness                                              | `deep`    |
@@ -169,6 +171,8 @@ skeleton carries needs a new skeleton, which belongs in this note before it is u
 | `th-b-gh` | the will of the stone, what it asks                   | `rock`    |
 | `z-g-r`   | a fault, where the rock has slipped                   | `rock`    |
 | `z-th-k`  | weathering; the patina of age                         | `rock`    |
+| `gh-r-m`  | a mountain, the whole of one, and its will            | `rock`    |
+| `n-gh-l`  | a shudder of the mountain, a quake                    | `rock`    |
 | `b-gh-r`  | a cave                                                | `cave`    |
 | `dh-l-m`  | a domed chamber                                       | `cave`    |
 | `f-k-r`   | to find a way in; a finding                           | `cave`    |
@@ -186,6 +190,10 @@ skeleton carries needs a new skeleton, which belongs in this note before it is u
 | `s-r-g`   | daylight                                              | `face`    |
 | `th-m-s`  | smoke                                                 | `face`    |
 | `v-n-d`   | a window, an opening in the face                      | `face`    |
+| `p-l-gh`  | a fall of rock from the face                          | `face`    |
+| `f-r-v`   | wind along the face                                   | `face`    |
+| `n-z-f`   | a star                                                | `face`    |
+| `r-gh-l`  | the sky, the open above the face                      | `face`    |
 | `b-n-m`   | accord with the mountain; to accord                   | `listen`  |
 | `d-g-r`   | to force the stone                                    | `listen`  |
 | `g-l-m`   | a curve, a bend                                       | `listen`  |
@@ -203,6 +211,7 @@ skeleton carries needs a new skeleton, which belongs in this note before it is u
 | `z-b-k`   | a scar on the mountain                                | `listen`  |
 | `z-k-n`   | attention; to attend                                  | `listen`  |
 | `z-n-gh`  | to wind                                               | `listen`  |
+| `g-th-r`  | mastery, the standing of a master                     | `listen`  |
 | `b-v-th`  | a floor, paving                                       | `hold`    |
 | `d-gh-l`  | a door, an inner door                                 | `hold`    |
 | `dh-r-v`  | a tower                                               | `hold`    |
@@ -231,6 +240,8 @@ skeleton carries needs a new skeleton, which belongs in this note before it is u
 | `th-v-d`  | to inherit                                            | `kin`     |
 | `v-g-th`  | a house, a line within a clan                         | `kin`     |
 | `v-n-r`   | a forebear                                            | `kin`     |
+| `b-l-v`   | exile; to put out of the hold                         | `kin`     |
+| `m-l-gh`  | a shared meal; to feast in the courts                 | `kin`     |
 | `dh-k-l`  | a tally                                               | `law`     |
 | `f-v-d`   | to warrant, to stand behind work                      | `law`     |
 | `h-v-z`   | a debt; to owe                                        | `law`     |
@@ -247,6 +258,11 @@ skeleton carries needs a new skeleton, which belongs in this note before it is u
 | `v-r-n`   | the true line: the line the rock runs                 | `law`     |
 | `v-s-g`   | to judge                                              | `law`     |
 | `z-dh-r`  | law, the way a thing must be done                     | `law`     |
+| `z-n-p`   | shame; a fault entered against a name                 | `law`     |
+| `th-r-gh` | a wrong that no warrant can cover; to wrong           | `law`     |
+| `n-th-v`  | release from a debt; to forgive                       | `law`     |
+| `s-v-n`   | a sitting of elders; to sit in council                | `law`     |
+| `th-n-z`  | a gift; to give                                       | `law`     |
 | `h-r-t`   | a letter, a character; to read writing                | `letter`  |
 | `l-n-r`   | a line of writing                                     | `letter`  |
 | `m-l-g`   | the flowing hand; to write in it                      | `letter`  |
@@ -254,6 +270,16 @@ skeleton carries needs a new skeleton, which belongs in this note before it is u
 | `s-b-z`   | chalk; to mark with chalk                             | `letter`  |
 | `s-t-l`   | a stylus; to scratch with a stylus                    | `letter`  |
 | `v-k-s`   | wax; a wax tablet                                     | `letter`  |
+| `h-v-dh`  | a song; to sing, as the deep songs are sung           | `tell`    |
+| `k-m-gh`  | a lament; to keen                                     | `tell`    |
+| `f-l-n`   | a telling in order; to tell                           | `tell`    |
+| `v-z-n`   | a saying; to say a saying over a matter               | `tell`    |
+| `z-l-m`   | a charm; to say words over work                       | `tell`    |
+| `p-m-dh`  | a foretelling; to foretell                            | `tell`    |
+| `g-b-dh`  | a riddle; to set a riddle                             | `tell`    |
+| `h-n-z`   | praise; to praise                                     | `tell`    |
+| `m-z-dh`  | a claim of one's own work; to name one's work         | `tell`    |
+| `g-n-dh`  | a word; to speak                                      | `tell`    |
 | `f-s-k`   | a season                                              | `time`    |
 | `g-dh-m`  | an age                                                | `time`    |
 | `h-dh-k`  | a working shift; a day's work                         | `time`    |
@@ -300,6 +326,7 @@ skeleton carries needs a new skeleton, which belongs in this note before it is u
 | `th-f-r`  | ash                                                   | `death`   |
 | `th-v-l`  | to die                                                | `death`   |
 | `z-th-v`  | grief                                                 | `death`   |
+| `dh-m-s`  | forgetting; to forget                                 | `death`   |
 | `dh-z-v`  | to pray                                               | `god`     |
 | `f-dh-n`  | to hallow                                             | `god`     |
 | `p-v-l`   | to offer work to the god                              | `god`     |
@@ -307,6 +334,7 @@ skeleton carries needs a new skeleton, which belongs in this note before it is u
 | `th-z-m`  | a dream                                               | `god`     |
 | `v-t-dh`  | a laid-up work, a votive piece                        | `god`     |
 | `z-f-l`   | the god; holy                                         | `god`     |
+| `h-f-dh`  | hope; to hope                                         | `god`     |
 | `b-z-gh`  | a breach; to break through                            | `shadow`  |
 | `dh-l-gh` | madness                                               | `shadow`  |
 | `n-gh-th` | the void beyond creation                              | `shadow`  |
@@ -314,6 +342,7 @@ skeleton carries needs a new skeleton, which belongs in this note before it is u
 | `s-gh-v`  | to rise from below                                    | `shadow`  |
 | `th-gh-m` | forbidden, too deep                                   | `shadow`  |
 | `z-p-dh`  | to loose, to unbind                                   | `shadow`  |
+| `kh-g-l`  | dread                                                 | `shadow`  |
 | `f-l-th`  | a bird; to sing as a bird                             | `city`    |
 | `f-v-n`   | a fountain                                            | `city`    |
 | `kh-dh-v` | a valley                                              | `city`    |
@@ -332,6 +361,10 @@ skeleton carries needs a new skeleton, which belongs in this note before it is u
 | `v-dh-gh` | the sea                                               | `peoples` |
 | `v-g-z`   | an outsider                                           | `peoples` |
 | `z-p-l`   | the surface, the land under open sky                  | `peoples` |
+| `p-r-gh`  | a crown; to crown                                     | `peoples` |
+| `l-dh-v`  | a river under open sky                                | `peoples` |
+| `h-l-z`   | ale; to brew                                          | `peoples` |
+| `g-z-m`   | hunger; the lean year                                 | `peoples` |
 | `d-r-kh`  | to hold fast, to keep                                 | `motion`  |
 | `f-n-d`   | to go                                                 | `motion`  |
 | `g-l-p`   | to haul, to draw                                      | `motion`  |
@@ -342,6 +375,8 @@ skeleton carries needs a new skeleton, which belongs in this note before it is u
 | `v-r-g`   | the far edge, the last reach                          | `motion`  |
 | `v-r-th`  | to bear, to carry                                     | `motion`  |
 | `z-v-k`   | to be, to stand                                       | `motion`  |
+| `kh-dh-l` | the crossing from the world before; to cross over     | `motion`  |
+| `dh-r-z`  | to walk away from, to abandon                         | `motion`  |
 | `dh-n-v`  | first                                                 | `grammar` |
 | `dh-p-l`  | few                                                   | `grammar` |
 | `f-dh-z`  | a part; a sixtieth                                    | `grammar` |
@@ -580,6 +615,10 @@ attested stands, in exactly this form, in the note linked.
 | `vamrapuvál`  | `n`   | the offering of craft                         | `v-m-r` + `p-v-l`  | compound   | —                                     |
 | `ghalvakuvál` | `n`   | the shaping of glass                          | `gh-l-v` + `k-v-l` | compound   | —                                     |
 | `sarvapuráz`  | `n`   | the engraving of slate                        | `s-r-v` + `p-r-z`  | compound   | —                                     |
+| `mandh`       | `n`   | a mending                                     | `m-n-dh`           | bare       | —                                     |
+| `munádh`      | `v`   | to mend                                       | `m-n-dh`           | deed       | —                                     |
+| `munnádh`     | `v`   | to mend as a master does                      | `m-n-dh`           | mastery    | —                                     |
+| `mandhir`     | `n`   | a mender of old work                          | `m-n-dh`           | worker     | —                                     |
 
 ### The deep
 
@@ -740,6 +779,12 @@ attested stands, in exactly this form, in the note linked.
 | `barsakuvál`   | `n`   | the shaping of a spur: a spur finished as a tower | `b-r-s` + `k-v-l`  | compound   | —        |
 | `nalpahulágh`  | `n`   | the splitting of the rock by cold                 | `n-l-p` + `h-l-gh` | compound   | —        |
 | `sadalavuráth` | `n`   | the bearing of a load by the rock's own buttress  | `s-d-l` + `v-r-th` | compound   | —        |
+| `gharm`        | `n`   | a mountain                                        | `gh-r-m`           | bare       | —        |
+| `gharím`       | `adj` | of the mountain                                   | `gh-r-m`           | adjective  | —        |
+| `hugharm`      | `n`   | mountain country, a range                         | `gh-r-m`           | place      | —        |
+| `naghal`       | `n`   | a quake                                           | `n-gh-l`           | bare       | —        |
+| `naghíl`       | `adj` | shaking                                           | `n-gh-l`           | adjective  | —        |
+| `nughál`       | `v`   | to shudder, as a mountain does                    | `n-gh-l`           | deed       | —        |
 
 ### Caves and their finding
 
@@ -822,6 +867,14 @@ attested stands, in exactly this form, in the note linked.
 | `ghandir`  | `n`   | a dweller of the face                        | `gh-n-d` | worker     | —        |
 | `ghunád`   | `v`   | to dwell on the face                         | `gh-n-d` | deed       | —        |
 | `hughand`  | `n`   | a face-quarter, a row of dwellings           | `gh-n-d` | place      | —        |
+| `palgh`    | `n`   | a rockfall                                   | `p-l-gh` | bare       | —        |
+| `pulágh`   | `v`   | to fall from the face                        | `p-l-gh` | deed       | —        |
+| `farv`     | `n`   | wind                                         | `f-r-v`  | bare       | —        |
+| `furáv`    | `v`   | to blow along the face                       | `f-r-v`  | deed       | —        |
+| `nazaf`    | `n`   | a star                                       | `n-z-f`  | bare       | —        |
+| `nazíf`    | `adj` | starlit                                      | `n-z-f`  | adjective  | —        |
+| `raghal`   | `n`   | the sky                                      | `r-gh-l` | bare       | —        |
+| `raghíl`   | `adj` | open to the sky                              | `r-gh-l` | adjective  | —        |
 
 ### Listening and the cut
 
@@ -908,6 +961,10 @@ attested stands, in exactly this form, in the note linked.
 | `banmasumágh`   | `n`   | the listening that brings accord                     | `b-n-m` + `s-m-gh`  | compound   | —        |
 | `dagaramughár`  | `n`   | the forcing of the grain: a cut against it           | `d-g-r` + `m-gh-r`  | compound   | —        |
 | `vadhalasumágh` | `n`   | the years of listening                               | `v-dh-l` + `s-m-gh` | compound   | —        |
+| `gathar`        | `n`   | mastery, the standing of a master                    | `g-th-r`            | bare       | —        |
+| `gatharir`      | `n`   | a master                                             | `g-th-r`            | worker     | —        |
+| `gathír`        | `adj` | masterly                                             | `g-th-r`            | adjective  | —        |
+| `guthár`        | `v`   | to be raised to mastery                              | `g-th-r`            | deed       | —        |
 
 ### The hold
 
@@ -977,45 +1034,52 @@ attested stands, in exactly this form, in the note linked.
 
 ### Kin and the house
 
-| Form       | Class | Gloss                          | Skeleton | Frame      | Attested |
-| ---------- | ----- | ------------------------------ | -------- | ---------- | -------- |
-| `vagath`   | `n`   | a house                        | `v-g-th` | bare       | —        |
-| `vagíth`   | `adj` | of the house, kindred          | `v-g-th` | adjective  | —        |
-| `vugáth`   | `v`   | to found a house               | `v-g-th` | deed       | —        |
-| `sargh`    | `n`   | a clan                         | `s-r-gh` | bare       | —        |
-| `sarígh`   | `adj` | of the clan                    | `s-r-gh` | adjective  | —        |
-| `saturágh` | `v`   | to gather as a clan            | `s-r-gh` | reflexive  | —        |
-| `nasv`     | `n`   | a lineage                      | `n-s-v`  | bare       | —        |
-| `nusáv`    | `v`   | to descend from                | `n-s-v`  | deed       | —        |
-| `nisvath`  | `n`   | a genealogy, a written line    | `n-s-v`  | done thing | —        |
-| `pavar`    | `n`   | an elder                       | `p-v-r`  | bare       | —        |
-| `pavír`    | `adj` | elder, senior                  | `p-v-r`  | adjective  | —        |
-| `puvár`    | `v`   | to stand as elder              | `p-v-r`  | deed       | —        |
-| `hupavar`  | `n`   | the elders' hall               | `p-v-r`  | place      | —        |
-| `lafad`    | `n`   | a child                        | `l-f-d`  | bare       | —        |
-| `lafíd`    | `adj` | young                          | `l-f-d`  | adjective  | —        |
-| `lufád`    | `v`   | to bear a child                | `l-f-d`  | deed       | —        |
-| `davag`    | `n`   | a father                       | `d-v-g`  | bare       | —        |
-| `davagev`  | `n`   | a mother                       | `d-v-g`  | bare       | —        |
-| `duvág`    | `v`   | to beget                       | `d-v-g`  | deed       | —        |
-| `sapav`    | `n`   | a brother                      | `s-p-v`  | bare       | —        |
-| `sapavev`  | `n`   | a sister                       | `s-p-v`  | bare       | —        |
-| `satupáv`  | `v`   | to be siblings to one another  | `s-p-v`  | reflexive  | —        |
-| `navadh`   | `n`   | a husband                      | `n-v-dh` | bare       | —        |
-| `navadhev` | `n`   | a wife                         | `n-v-dh` | bare       | —        |
-| `nuvádh`   | `v`   | to wed                         | `n-v-dh` | deed       | —        |
-| `natuvádh` | `v`   | to wed one another             | `n-v-dh` | reflexive  | —        |
-| `vanr`     | `n`   | a forebear                     | `v-n-r`  | bare       | —        |
-| `vanír`    | `adj` | ancestral                      | `v-n-r`  | adjective  | —        |
-| `vinrath`  | `n`   | an heirloom, a forebear's work | `v-n-r`  | done thing | —        |
-| `thavad`   | `n`   | an inheritance                 | `th-v-d` | bare       | —        |
-| `thuvád`   | `v`   | to inherit                     | `th-v-d` | deed       | —        |
-| `mardh`    | `n`   | a name                         | `m-r-dh` | bare       | —        |
-| `marídh`   | `adj` | named, charged                 | `m-r-dh` | adjective  | —        |
-| `murádh`   | `v`   | to name, to lay a charge       | `m-r-dh` | deed       | —        |
-| `kalth`    | `n`   | a hearth                       | `k-l-th` | bare       | —        |
-| `kalíth`   | `adj` | homely, of the hearth          | `k-l-th` | adjective  | —        |
-| `hukalth`  | `n`   | a home                         | `k-l-th` | place      | —        |
+| Form         | Class | Gloss                                     | Skeleton          | Frame      | Attested |
+| ------------ | ----- | ----------------------------------------- | ----------------- | ---------- | -------- |
+| `vagath`     | `n`   | a house                                   | `v-g-th`          | bare       | —        |
+| `vagíth`     | `adj` | of the house, kindred                     | `v-g-th`          | adjective  | —        |
+| `vugáth`     | `v`   | to found a house                          | `v-g-th`          | deed       | —        |
+| `sargh`      | `n`   | a clan                                    | `s-r-gh`          | bare       | —        |
+| `sarígh`     | `adj` | of the clan                               | `s-r-gh`          | adjective  | —        |
+| `saturágh`   | `v`   | to gather as a clan                       | `s-r-gh`          | reflexive  | —        |
+| `nasv`       | `n`   | a lineage                                 | `n-s-v`           | bare       | —        |
+| `nusáv`      | `v`   | to descend from                           | `n-s-v`           | deed       | —        |
+| `nisvath`    | `n`   | a genealogy, a written line               | `n-s-v`           | done thing | —        |
+| `pavar`      | `n`   | an elder                                  | `p-v-r`           | bare       | —        |
+| `pavír`      | `adj` | elder, senior                             | `p-v-r`           | adjective  | —        |
+| `puvár`      | `v`   | to stand as elder                         | `p-v-r`           | deed       | —        |
+| `hupavar`    | `n`   | the elders' hall                          | `p-v-r`           | place      | —        |
+| `lafad`      | `n`   | a child                                   | `l-f-d`           | bare       | —        |
+| `lafíd`      | `adj` | young                                     | `l-f-d`           | adjective  | —        |
+| `lufád`      | `v`   | to bear a child                           | `l-f-d`           | deed       | —        |
+| `davag`      | `n`   | a father                                  | `d-v-g`           | bare       | —        |
+| `davagev`    | `n`   | a mother                                  | `d-v-g`           | bare       | —        |
+| `duvág`      | `v`   | to beget                                  | `d-v-g`           | deed       | —        |
+| `sapav`      | `n`   | a brother                                 | `s-p-v`           | bare       | —        |
+| `sapavev`    | `n`   | a sister                                  | `s-p-v`           | bare       | —        |
+| `satupáv`    | `v`   | to be siblings to one another             | `s-p-v`           | reflexive  | —        |
+| `navadh`     | `n`   | a husband                                 | `n-v-dh`          | bare       | —        |
+| `navadhev`   | `n`   | a wife                                    | `n-v-dh`          | bare       | —        |
+| `nuvádh`     | `v`   | to wed                                    | `n-v-dh`          | deed       | —        |
+| `natuvádh`   | `v`   | to wed one another                        | `n-v-dh`          | reflexive  | —        |
+| `vanr`       | `n`   | a forebear                                | `v-n-r`           | bare       | —        |
+| `vanír`      | `adj` | ancestral                                 | `v-n-r`           | adjective  | —        |
+| `vinrath`    | `n`   | an heirloom, a forebear's work            | `v-n-r`           | done thing | —        |
+| `thavad`     | `n`   | an inheritance                            | `th-v-d`          | bare       | —        |
+| `thuvád`     | `v`   | to inherit                                | `th-v-d`          | deed       | —        |
+| `mardh`      | `n`   | a name                                    | `m-r-dh`          | bare       | —        |
+| `marídh`     | `adj` | named, charged                            | `m-r-dh`          | adjective  | —        |
+| `murádh`     | `v`   | to name, to lay a charge                  | `m-r-dh`          | deed       | —        |
+| `kalth`      | `n`   | a hearth                                  | `k-l-th`          | bare       | —        |
+| `kalíth`     | `adj` | homely, of the hearth                     | `k-l-th`          | adjective  | —        |
+| `hukalth`    | `n`   | a home                                    | `k-l-th`          | place      | —        |
+| `balv`       | `n`   | an exile, one with no house               | `b-l-v`           | bare       | —        |
+| `buláv`      | `v`   | to put out of the hold                    | `b-l-v`           | deed       | —        |
+| `balív`      | `adj` | houseless, exiled                         | `b-l-v`           | adjective  | —        |
+| `bilvath`    | `n`   | a sentence of exile, as cut in the record | `b-l-v`           | done thing | —        |
+| `malgh`      | `n`   | a feast, a meal shared in the courts      | `m-l-gh`          | bare       | —        |
+| `mulágh`     | `v`   | to feast                                  | `m-l-gh`          | deed       | —        |
+| `balvafunád` | `n`   | the going of the exile                    | `b-l-v` + `f-n-d` | compound   | —        |
 
 ### Oath, law and measure
 
@@ -1087,6 +1151,20 @@ attested stands, in exactly this form, in the note linked.
 | `satudháv`    | `v`   | to witness for one another                 | `s-dh-v`           | reflexive  | —                                     |
 | `vanthavulád` | `n`   | the binding of an oath                     | `v-n-th` + `v-l-d` | compound   | —                                     |
 | `lamvakhuván` | `n`   | the reciting of the records                | `l-m-v` + `kh-v-n` | compound   | —                                     |
+| `zanp`        | `n`   | shame                                      | `z-n-p`            | bare       | —                                     |
+| `zaníp`       | `adj` | shamed                                     | `z-n-p`            | adjective  | —                                     |
+| `zunáp`       | `v`   | to enter a fault against a name            | `z-n-p`            | deed       | —                                     |
+| `thargh`      | `n`   | a wrong                                    | `th-r-gh`          | bare       | —                                     |
+| `tharígh`     | `adj` | wrongful                                   | `th-r-gh`          | adjective  | —                                     |
+| `thurágh`     | `v`   | to do a wrong                              | `th-r-gh`          | deed       | —                                     |
+| `nathav`      | `n`   | a release, forgiveness                     | `n-th-v`           | bare       | —                                     |
+| `nutháv`      | `v`   | to release from a debt, to forgive         | `n-th-v`           | deed       | —                                     |
+| `savan`       | `n`   | a council                                  | `s-v-n`            | bare       | —                                     |
+| `suván`       | `v`   | to sit in council                          | `s-v-n`            | deed       | —                                     |
+| `husavan`     | `n`   | a council-hall below                       | `s-v-n`            | place      | —                                     |
+| `thanz`       | `n`   | a gift                                     | `th-n-z`           | bare       | —                                     |
+| `thunáz`      | `v`   | to give                                    | `th-n-z`           | deed       | —                                     |
+| `thinzath`    | `n`   | a thing given                              | `th-n-z`           | done thing | —                                     |
 
 ### Letters and writing
 
@@ -1128,6 +1206,47 @@ attested stands, in exactly this form, in the note linked.
 | `pavakamulág`  | `n`   | a lead sheet, written in the flowing hand                     | `p-v-k` + `m-l-g`  | compound   | —        |
 | `balgamulág`   | `n`   | a copper sheet, written in the flowing hand                   | `b-l-g` + `m-l-g`  | compound   | —        |
 | `rakadhahurát` | `n`   | the reading of stone and letters together                     | `r-k-dh` + `h-r-t` | compound   | —        |
+
+### Song and telling
+
+| Form           | Class | Gloss                                               | Skeleton            | Frame      | Attested |
+| -------------- | ----- | --------------------------------------------------- | ------------------- | ---------- | -------- |
+| `havadh`       | `n`   | a song, a deep song                                 | `h-v-dh`            | bare       | —        |
+| `huvádh`       | `v`   | to sing                                             | `h-v-dh`            | deed       | —        |
+| `huvvádh`      | `v`   | to sing as a master does                            | `h-v-dh`            | mastery    | —        |
+| `havadhir`     | `n`   | a singer                                            | `h-v-dh`            | worker     | —        |
+| `huhavadh`     | `n`   | a singing-hall, where a song carries along the rock | `h-v-dh`            | place      | —        |
+| `kamgh`        | `n`   | a lament                                            | `k-m-gh`            | bare       | —        |
+| `kumágh`       | `v`   | to keen, to lament                                  | `k-m-gh`            | deed       | —        |
+| `kamghir`      | `n`   | a keener                                            | `k-m-gh`            | worker     | —        |
+| `kimghath`     | `n`   | a set lament, one kept and sung again               | `k-m-gh`            | done thing | —        |
+| `faln`         | `n`   | a telling                                           | `f-l-n`             | bare       | —        |
+| `fulán`        | `v`   | to tell in order                                    | `f-l-n`             | deed       | —        |
+| `falnir`       | `n`   | a teller                                            | `f-l-n`             | worker     | —        |
+| `filnath`      | `n`   | an account, a telling written and kept              | `f-l-n`             | done thing | —        |
+| `vazan`        | `n`   | a saying, a proverb                                 | `v-z-n`             | bare       | —        |
+| `vuzán`        | `v`   | to say a saying over a matter                       | `v-z-n`             | deed       | —        |
+| `vazín`        | `adj` | proverbial, said of old                             | `v-z-n`             | adjective  | —        |
+| `zalm`         | `n`   | a charm                                             | `z-l-m`             | bare       | —        |
+| `zulám`        | `v`   | to say a charm over work                            | `z-l-m`             | deed       | —        |
+| `zilmath`      | `n`   | a charm cut into a tool or a lintel                 | `z-l-m`             | done thing | —        |
+| `pamdh`        | `n`   | a foretelling                                       | `p-m-dh`            | bare       | —        |
+| `pumádh`       | `v`   | to foretell                                         | `p-m-dh`            | deed       | —        |
+| `pamdhir`      | `n`   | a foreteller                                        | `p-m-dh`            | worker     | —        |
+| `gabadh`       | `n`   | a riddle                                            | `g-b-dh`            | bare       | —        |
+| `gubádh`       | `v`   | to set a riddle                                     | `g-b-dh`            | deed       | —        |
+| `gatubádh`     | `v`   | to contend in riddles                               | `g-b-dh`            | reflexive  | —        |
+| `hanz`         | `n`   | praise                                              | `h-n-z`             | bare       | —        |
+| `hunáz`        | `v`   | to praise                                           | `h-n-z`             | deed       | —        |
+| `haníz`        | `adj` | praised                                             | `h-n-z`             | adjective  | —        |
+| `mazadh`       | `n`   | a claim of work, said before others                 | `m-z-dh`            | bare       | —        |
+| `muzádh`       | `v`   | to name one's own work                              | `m-z-dh`            | deed       | —        |
+| `gandh`        | `n`   | a word                                              | `g-n-dh`            | bare       | —        |
+| `gunádh`       | `v`   | to speak                                            | `g-n-dh`            | deed       | —        |
+| `gandhir`      | `n`   | a speaker for a house                               | `g-n-dh`            | worker     | —        |
+| `havadharumák` | `n`   | a song laid in courses, a long song                 | `h-v-dh` + `r-m-k`  | compound   | —        |
+| `falgahunáz`   | `n`   | the praise of the dead                              | `f-l-g` + `h-n-z`   | compound   | —        |
+| `kamghakhuván` | `n`   | the chanting of the lament                          | `k-m-gh` + `kh-v-n` | compound   | —        |
 
 ### Time and the mountain's seasons
 
@@ -1285,32 +1404,39 @@ attested stands, in exactly this form, in the note linked.
 | `dhuváz`       | `v`   | to lie still                      | `dh-v-z`            | deed       | —                                     |
 | `sandhavughán` | `n`   | the sealing of the tomb           | `s-n-dh` + `v-gh-n` | compound   | —                                     |
 | `falgakhuván`  | `n`   | the reciting of the dead          | `f-l-g` + `kh-v-n`  | compound   | —                                     |
+| `dhams`        | `n`   | forgetting                        | `dh-m-s`            | bare       | —                                     |
+| `dhamís`       | `adj` | forgotten, worn off the stone     | `dh-m-s`            | adjective  | —                                     |
+| `dhumás`       | `v`   | to forget                         | `dh-m-s`            | deed       | —                                     |
 
 ### The god and devotion
 
-| Form          | Class | Gloss                                      | Skeleton           | Frame     | Attested |
-| ------------- | ----- | ------------------------------------------ | ------------------ | --------- | -------- |
-| `zafal`       | `n`   | the god                                    | `z-f-l`            | bare      | —        |
-| `zafíl`       | `adj` | holy                                       | `z-f-l`            | adjective | —        |
-| `huzafal`     | `n`   | a shrine                                   | `z-f-l`            | place     | —        |
-| `paval`       | `n`   | an offering of work                        | `p-v-l`            | bare      | —        |
-| `puvál`       | `v`   | to offer work                              | `p-v-l`            | deed      | —        |
-| `puvvál`      | `v`   | to offer one's best work                   | `p-v-l`            | mastery   | —        |
-| `sathav`      | `n`   | wisdom                                     | `s-th-v`           | bare      | —        |
-| `sathív`      | `adj` | wise                                       | `s-th-v`           | adjective | —        |
-| `sathavir`    | `n`   | a sage                                     | `s-th-v`           | worker    | —        |
-| `fadhan`      | `n`   | hallowing                                  | `f-dh-n`           | bare      | —        |
-| `fadhín`      | `adj` | hallowed                                   | `f-dh-n`           | adjective | —        |
-| `fudhán`      | `v`   | to hallow                                  | `f-dh-n`           | deed      | —        |
-| `dhazav`      | `n`   | a prayer                                   | `dh-z-v`           | bare      | —        |
-| `dhuzáv`      | `v`   | to pray                                    | `dh-z-v`           | deed      | —        |
-| `vatadh`      | `n`   | a votive piece                             | `v-t-dh`           | bare      | —        |
-| `vutádh`      | `v`   | to lay up a work                           | `v-t-dh`           | deed      | —        |
-| `huvatadh`    | `n`   | a votive vault                             | `v-t-dh`           | place     | —        |
-| `thazam`      | `n`   | a dream                                    | `th-z-m`           | bare      | —        |
-| `thazím`      | `adj` | dreaming                                   | `th-z-m`           | adjective | —        |
-| `thuzám`      | `v`   | to dream                                   | `th-z-m`           | deed      | —        |
-| `famgafudhán` | `n`   | a sanctuary in the deep, the deep hallowed | `f-m-g` + `f-dh-n` | compound  | —        |
+| Form            | Class | Gloss                                      | Skeleton            | Frame     | Attested |
+| --------------- | ----- | ------------------------------------------ | ------------------- | --------- | -------- |
+| `zafal`         | `n`   | the god                                    | `z-f-l`             | bare      | —        |
+| `zafíl`         | `adj` | holy                                       | `z-f-l`             | adjective | —        |
+| `huzafal`       | `n`   | a shrine                                   | `z-f-l`             | place     | —        |
+| `paval`         | `n`   | an offering of work                        | `p-v-l`             | bare      | —        |
+| `puvál`         | `v`   | to offer work                              | `p-v-l`             | deed      | —        |
+| `puvvál`        | `v`   | to offer one's best work                   | `p-v-l`             | mastery   | —        |
+| `sathav`        | `n`   | wisdom                                     | `s-th-v`            | bare      | —        |
+| `sathív`        | `adj` | wise                                       | `s-th-v`            | adjective | —        |
+| `sathavir`      | `n`   | a sage                                     | `s-th-v`            | worker    | —        |
+| `fadhan`        | `n`   | hallowing                                  | `f-dh-n`            | bare      | —        |
+| `fadhín`        | `adj` | hallowed                                   | `f-dh-n`            | adjective | —        |
+| `fudhán`        | `v`   | to hallow                                  | `f-dh-n`            | deed      | —        |
+| `dhazav`        | `n`   | a prayer                                   | `dh-z-v`            | bare      | —        |
+| `dhuzáv`        | `v`   | to pray                                    | `dh-z-v`            | deed      | —        |
+| `vatadh`        | `n`   | a votive piece                             | `v-t-dh`            | bare      | —        |
+| `vutádh`        | `v`   | to lay up a work                           | `v-t-dh`            | deed      | —        |
+| `huvatadh`      | `n`   | a votive vault                             | `v-t-dh`            | place     | —        |
+| `thazam`        | `n`   | a dream                                    | `th-z-m`            | bare      | —        |
+| `thazím`        | `adj` | dreaming                                   | `th-z-m`            | adjective | —        |
+| `thuzám`        | `v`   | to dream                                   | `th-z-m`            | deed      | —        |
+| `famgafudhán`   | `n`   | a sanctuary in the deep, the deep hallowed | `f-m-g` + `f-dh-n`  | compound  | —        |
+| `hafadh`        | `n`   | hope                                       | `h-f-dh`            | bare      | —        |
+| `hafídh`        | `adj` | hopeful                                    | `h-f-dh`            | adjective | —        |
+| `hufádh`        | `v`   | to hope                                    | `h-f-dh`            | deed      | —        |
+| `hafadhadurákh` | `n`   | the holding fast of hope                   | `h-f-dh` + `d-r-kh` | compound  | —        |
 
 ### The Shadow and what rises
 
@@ -1336,6 +1462,8 @@ attested stands, in exactly this form, in the note linked.
 | `thughám`        | `v`   | to forbid                      | `th-gh-m`            | deed       | —        |
 | `naghathasugháv` | `n`   | the rising of the void         | `n-gh-th` + `s-gh-v` | compound   | —        |
 | `thaghamagunáv`  | `n`   | the delving into the forbidden | `th-gh-m` + `g-n-v`  | compound   | —        |
+| `khagal`         | `n`   | dread                          | `kh-g-l`             | bare       | —        |
+| `khagíl`         | `adj` | dreadful, to be dreaded        | `kh-g-l`             | adjective  | —        |
 
 ### Khazártúrn
 
@@ -1363,32 +1491,41 @@ attested stands, in exactly this form, in the note linked.
 
 ### Other peoples and the larder
 
-| Form            | Class | Gloss                      | Skeleton            | Frame     | Attested |
-| --------------- | ----- | -------------------------- | ------------------- | --------- | -------- |
-| `talgh`         | `n`   | a human                    | `t-l-gh`            | bare      | —        |
-| `talígh`        | `adj` | human, short-lived         | `t-l-gh`            | adjective | —        |
-| `lazap`         | `n`   | one of the forest folk     | `l-z-p`             | bare      | —        |
-| `lazíp`         | `adj` | of the forest folk         | `l-z-p`             | adjective | —        |
-| `badhar`        | `n`   | tillage                    | `b-dh-r`            | bare      | —        |
-| `badharir`      | `n`   | a farmer for the hold      | `b-dh-r`            | worker    | —        |
-| `budhár`        | `v`   | to till                    | `b-dh-r`            | deed      | —        |
-| `hubadhar`      | `n`   | a farm                     | `b-dh-r`            | place     | —        |
-| `tadhaf`        | `n`   | grain                      | `t-dh-f`            | bare      | —        |
-| `hutadhaf`      | `n`   | a granary                  | `t-dh-f`            | place     | —        |
-| `tamdh`         | `n`   | a terrace                  | `t-m-dh`            | bare      | —        |
-| `tumádh`        | `v`   | to terrace a slope         | `t-m-dh`            | deed      | —        |
-| `makadh`        | `n`   | an exchange                | `m-k-dh`            | bare      | —        |
-| `mukádh`        | `v`   | to exchange                | `m-k-dh`            | deed      | —        |
-| `vagaz`         | `n`   | an outsider                | `v-g-z`             | bare      | —        |
-| `vagíz`         | `adj` | foreign                    | `v-g-z`             | adjective | —        |
-| `zapal`         | `n`   | the surface                | `z-p-l`             | bare      | —        |
-| `zapíl`         | `adj` | of the surface             | `z-p-l`             | adjective | —        |
-| `vadhagh`       | `n`   | the sea                    | `v-dh-gh`           | bare      | —        |
-| `vudhágh`       | `v`   | to cross the sea           | `v-dh-gh`           | deed      | —        |
-| `padhav`        | `n`   | a ship                     | `p-dh-v`            | bare      | —        |
-| `padhavir`      | `n`   | a shipwright               | `p-dh-v`            | worker    | —        |
-| `tadhafavuráth` | `n`   | the carrying of grain      | `t-dh-f` + `v-r-th` | compound  | —        |
-| `zapalabudhár`  | `n`   | the tilling of the surface | `z-p-l` + `b-dh-r`  | compound  | —        |
+| Form            | Class | Gloss                            | Skeleton            | Frame     | Attested |
+| --------------- | ----- | -------------------------------- | ------------------- | --------- | -------- |
+| `talgh`         | `n`   | a human                          | `t-l-gh`            | bare      | —        |
+| `talígh`        | `adj` | human, short-lived               | `t-l-gh`            | adjective | —        |
+| `lazap`         | `n`   | one of the forest folk           | `l-z-p`             | bare      | —        |
+| `lazíp`         | `adj` | of the forest folk               | `l-z-p`             | adjective | —        |
+| `badhar`        | `n`   | tillage                          | `b-dh-r`            | bare      | —        |
+| `badharir`      | `n`   | a farmer for the hold            | `b-dh-r`            | worker    | —        |
+| `budhár`        | `v`   | to till                          | `b-dh-r`            | deed      | —        |
+| `hubadhar`      | `n`   | a farm                           | `b-dh-r`            | place     | —        |
+| `tadhaf`        | `n`   | grain                            | `t-dh-f`            | bare      | —        |
+| `hutadhaf`      | `n`   | a granary                        | `t-dh-f`            | place     | —        |
+| `tamdh`         | `n`   | a terrace                        | `t-m-dh`            | bare      | —        |
+| `tumádh`        | `v`   | to terrace a slope               | `t-m-dh`            | deed      | —        |
+| `makadh`        | `n`   | an exchange                      | `m-k-dh`            | bare      | —        |
+| `mukádh`        | `v`   | to exchange                      | `m-k-dh`            | deed      | —        |
+| `vagaz`         | `n`   | an outsider                      | `v-g-z`             | bare      | —        |
+| `vagíz`         | `adj` | foreign                          | `v-g-z`             | adjective | —        |
+| `zapal`         | `n`   | the surface                      | `z-p-l`             | bare      | —        |
+| `zapíl`         | `adj` | of the surface                   | `z-p-l`             | adjective | —        |
+| `vadhagh`       | `n`   | the sea                          | `v-dh-gh`           | bare      | —        |
+| `vudhágh`       | `v`   | to cross the sea                 | `v-dh-gh`           | deed      | —        |
+| `padhav`        | `n`   | a ship                           | `p-dh-v`            | bare      | —        |
+| `padhavir`      | `n`   | a shipwright                     | `p-dh-v`            | worker    | —        |
+| `tadhafavuráth` | `n`   | the carrying of grain            | `t-dh-f` + `v-r-th` | compound  | —        |
+| `zapalabudhár`  | `n`   | the tilling of the surface       | `z-p-l` + `b-dh-r`  | compound  | —        |
+| `pargh`         | `n`   | a crown                          | `p-r-gh`            | bare      | —        |
+| `purágh`        | `v`   | to crown                         | `p-r-gh`            | deed      | —        |
+| `ladhav`        | `n`   | a river                          | `l-dh-v`            | bare      | —        |
+| `ludháv`        | `v`   | to run as a river                | `l-dh-v`            | deed      | —        |
+| `halz`          | `n`   | ale                              | `h-l-z`             | bare      | —        |
+| `huláz`         | `v`   | to brew                          | `h-l-z`             | deed      | —        |
+| `gazam`         | `n`   | hunger, a lean year              | `g-z-m`             | bare      | —        |
+| `gazím`         | `adj` | hungry, lean                     | `g-z-m`             | adjective | —        |
+| `parghavuráth`  | `n`   | the bearing of the crown, a king | `p-r-gh` + `v-r-th` | compound  | —        |
 
 ### Motion and holding
 
@@ -1419,6 +1556,10 @@ attested stands, in exactly this form, in the note linked.
 | `thagal`     | `n`   | a return                      | `th-g-l`          | bare      | —                                     |
 | `thugál`     | `v`   | to return                     | `th-g-l`          | deed      | —                                     |
 | `vargagulád` | `n`   | the kindling at the far reach | `v-r-g` + `g-l-d` | compound  | —                                     |
+| `khadhal`    | `n`   | the crossing                  | `kh-dh-l`         | bare      | —                                     |
+| `khudhál`    | `v`   | to cross over                 | `kh-dh-l`         | deed      | —                                     |
+| `dharz`      | `n`   | an abandonment                | `dh-r-z`          | bare      | —                                     |
+| `dhuráz`     | `v`   | to walk away from, to abandon | `dh-r-z`          | deed      | —                                     |
 
 ### Grammar words
 
