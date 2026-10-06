@@ -77,15 +77,15 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Iaqet-Leqa is one of the border selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: eastern desert wells and quarry-roads; a dry, sun-burned garrison selat. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-tjelsuk|Faith of Tjelsuk]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-iaqetleqaslt|Iaqet-Leqa Selat]].
+The **Selat of Iaqet-Leqa** is the dry, sun-burned garrison selat that lies behind the desert march of [[place-khuqetmiglet|Khuqet-Miglet]], a country of wells and quarry-roads in the eastern desert. Its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] commands the garrison, collects the selat's taxes and dispenses its justice, and answers to the Gar-Aû at a distance that varies with the strength of the throne. His patron is the crocodile-god [[affiliation-tjelsuk|Tjelsuk]], whose worship reaches from the eastern marsh to these desert wells, and the selat's religious life runs through that cult's temples and their estates. The land he holds is [[place-iaqetleqaslt|Iaqet-Leqa Selat]].
 
 ## Character
 
-Its seat is [[place-iaqetleqa|Iaqet-Leqa]], where the Halzi'a keeps his court and the selat's chief temple of Tjelsuk stands.
+"Count your water, not your days," a sergeant of a quarry-road escort tells a recruit who has asked how long the stage to the next fort will take. The Halzi'a's first duty is the wells, because the quarry-roads that carry cut stone out of the hills run from one to the next and a gang that misses a well does not reach the following one. He is a garrison commander whose most important stores are water. His seat is [[place-iaqetleqa|Iaqet-Leqa]], where his court sits and the selat's chief temple of Tjelsuk stands.
 
 ## Commerce and Currency
 
-Iaqet-Leqa uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], with the local chapter of [[affiliation-garhalzi|Gár-Hálzi]] attached to its chief temple attesting the weight-pieces and holding the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+Iaqet-Leqa uses the [[lore-aukhlthcrncy|Aû'Khelâthu currency]]. The [[affiliation-garhalzi|Gár-Hálzi]] chapter attached to the chief temple attests the weight-pieces and keeps the granary accounts. See the currency note for the full system.
 
 ## See Also
 

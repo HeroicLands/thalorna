@@ -17,26 +17,16 @@ data:
 
 ## Overview
 
-Wagaru Selat is the land of the [[affiliation-selatwagaru|Selat of Wagaru]], one of the [[affiliation-borderselatu|Border Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+**Wagaru Selat** is the land of the [[affiliation-selatwagaru|Selat of Wagaru]], one of the [[affiliation-borderselatu|Border Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 
-The southern gold-road; mines, caravan-stations, and tribute-collection. Beyond the capital the selat is the ordinary Khelâthi landscape of villages, estates and temple lands, worked by farmers who owe a share of the harvest and labor on the canals, and lettered by the scribes who are the one reliable ladder out of the fields.
-
-## Economy
-
-Like every Khelâthi selat it runs on the flood, the harvest and the render—grain to the granaries, labor to the canals and the flood-season works, and a share of everything to the temples and the crown. What it contributes to the empire beyond that is what its character names: the southern gold-road; mines, caravan-stations, and tribute-collection.
-
-## Notable Features
-
-- [[place-wagaru|Wagaru]]—the selat capital and the Halzi'a's seat
-- The chief temple of [[affiliation-psaqaru|Faith of Psaq'âru]] and its estates
-- The southern gold-road; mines, caravan-stations, and tribute-collection
+This is the country of the southern gold-road, and everything on it is arranged around the road. The mines feed it, the caravan-stations are strung along it, and the tribute-collectors work from it. Beside it the ordinary Khelâthi villages, estates and temple lands raise what the road's traffic eats, and the farmers owe their share of the harvest and labor on the canals as they do anywhere in the empire; the difference is that here the nearest customer is a caravan.
 
 ## Settlements
 
-- [[place-wagaru|Wagaru]] (~14,000)—the selat capital and the seat of the Halzi'a.
-- **The villages and estate-towns:** the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
+- [[place-wagaru|Wagaru]] (~14,000)—the selat capital and the seat of the Halzi'a, with the chief temple of Psaq'âru.
+- **The villages and estate-towns:** a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 

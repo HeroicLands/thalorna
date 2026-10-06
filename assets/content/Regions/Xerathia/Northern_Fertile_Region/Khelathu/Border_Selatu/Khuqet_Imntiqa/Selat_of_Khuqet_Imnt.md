@@ -77,15 +77,15 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Khuqet-Imntiqa is one of the border selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: the far western desert march; oasis-forts and the watch over the trade-tracks. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-uqaa|Faith of Uqa'â]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-khuqetimntiqnome|Khuqet-Imntiqa]].
+The **Selat of Khuqet-Imntiqa** is the far western desert march of the empire, a country of oasis-forts that watches the trade-tracks across the sand. Do not confuse it with [[place-khuqetmiglet|Khuqet-Miglet]], the garrisoned road in the northeast: that country has no [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], no temple and no render, and this one has all three. Its hereditary Halzi'a commands the selat's levies, collects its taxes and dispenses its justice, and answers to the Gar-Aû at a distance that varies with the strength of the throne. His patron is the sun-god [[affiliation-uqaa|Uqa'â]], and the selat's religious life runs through that cult's temples and their estates. The land he holds is [[place-khuqetimntiqnome|Khuqet-Imntiqa]].
 
 ## Character
 
-Its seat is [[place-khuqet|Khuqet]], where the Halzi'a keeps his court and the selat's chief temple of Uqa'â stands.
+A steward who comes out from the valley expects a selat to be a harvest, and learns in the first season that this one is a line of forts. The Halzi'a's work is the watch: the oasis-forts hold the wells, and the trade-tracks that cross the desert pass under their walls. His seat is [[place-khuqet|Khuqet]], where his court sits and the selat's chief temple of Uqa'â stands.
 
 ## Commerce and Currency
 
-Khuqet-Imntiqa uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], with the local chapter of [[affiliation-garhalzi|Gár-Hálzi]] attached to its chief temple attesting the weight-pieces and holding the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+Khuqet-Imntiqa uses the [[lore-aukhlthcrncy|Aû'Khelâthu currency]]. The [[affiliation-garhalzi|Gár-Hálzi]] chapter attached to the chief temple attests the weight-pieces and keeps the granary accounts. See the currency note for the full system.
 
 ## See Also
 

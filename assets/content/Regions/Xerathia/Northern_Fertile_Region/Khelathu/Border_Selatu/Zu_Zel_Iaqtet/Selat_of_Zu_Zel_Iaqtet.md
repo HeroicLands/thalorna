@@ -80,23 +80,35 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-The Selat of Zu-Zel-Iaqtet holds the land of [[place-zuzeliaqtetnome|Zu-Zel-Iaqtet]]. It is a [[affiliation-borderselatu|Border Selatu]] in the fullest sense—thinly peopled, harsh, and held by a soldier-[[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who is as much a military governor as a lord, charged with guarding the mines, the smelter-towns, and the long desert quarry-roads against the raiders of the eastern wastes. Its patron is [[lore-psaqarudty|Psaq'âru]], god of craft and the working of metal and stone, worshipped here by miners and smiths with a directness the soft valley cults lack.
+The **Selat of Zu-Zel-Iaqtet** holds the land of [[place-zuzeliaqtetnome|Zu-Zel-Iaqtet]], the empire's strongbox and its anvil. It is a [[affiliation-borderselatu|Border Selatu]] in the fullest sense: thinly peopled, harsh and held by a soldier-[[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who is as much a military governor as a lord. His charge is the mines, the smelter-towns and the long desert quarry-roads, and he guards them against the raiders of the eastern wastes.
+
+Its patron is [[lore-psaqarudty|Psaq'âru]], god of craft and the working of metal and stone, whom the miners and smiths worship with a directness the soft valley cults lack.
 
 ## Character
 
-Its population is a rough mix of miners and quarrymen—some free wage-gangs, some convict-labor sent east as punishment, some seasonal levies—overseen by mine-captains, engineers, and the garrison troops who keep order and watch the desert. There is little of the temple-bound gentility of the valley here; status is measured in the output of a diggings and the strength of a fort. The cult of Psaq'âru the craftsman dominates, with the war-god Qeztu close behind among the soldiers, and the festival-life is the rougher, harder-drinking kind of a frontier where men do dangerous work far from home.
+A mine-captain describes his workforce to a new engineer in three groups: "Wage-gangs who chose it, convicts who did not, and levies who come for a season and count the days." The selat's people are a rough mix of miners and quarrymen, free wage-gangs, convict-labor sent east as punishment and seasonal levies, overseen by mine-captains, engineers and the garrison troops who keep order and watch the desert.
+
+There is little of the temple-bound gentility of the valley here. Status is measured in the output of a diggings and the strength of a fort. Psaq'âru the craftsman is the dominant cult, with the war-god Qeztu close behind among the soldiers, and the festivals are the rougher, harder-drinking kind of a frontier where men do dangerous work far from home.
 
 ## Economy
 
-The work is dangerous, capital-intensive, and tightly controlled—the richest mines are crown or temple monopolies, run by appointed captains under garrison guard, and the gold especially is escorted under arms all the way to the treasuries of the capital.
+The work is dangerous, capital-intensive and tightly controlled. The richest mines are crown or temple monopolies, run by appointed captains under garrison guard, and the gold in particular is escorted under arms all the way to the treasuries of the capital.
 
 ## For the Worldbuilder
 
-Zu-Zel-Iaqtet is the empire's strongbox and its anvil—run it as a hard frontier where wealth comes out of the rock under guard and danger is the daily weather. The conflicts are those of a mining march: gold-theft and smuggling, the brutal politics of convict-labor and wage-gangs, the corruption of mine-captains skimming the crown's output, the constant raiding of the desert tribes against isolated camps and gold-convoys, and the engineering struggle to keep water and grain flowing to settlements that grow nothing. The Halzi'a sits on a fortune and a powder-keg, trusted with the empire's gold and tempted by it. Adventure here is the roughest kind: convoy-guarding and convoy-robbing, a mine flooded or sabotaged, a turquoise strike worth murdering over, a desert fort gone silent, a convict-gang in revolt, smuggled gold and the people who chase it. What is abundant here is gold, stone, and hardship; what is scarce is water, grain, comfort, and any soft thing at all.
+Run Zu-Zel-Iaqtet as a hard frontier where wealth comes out of the rock under guard and danger is the daily weather. The Halzi'a sits on a fortune and a powder-keg, trusted with the empire's gold and tempted by it. The conflicts are those of a mining march:
+
+- gold-theft and smuggling;
+- the brutal politics of convict-labor and wage-gangs;
+- mine-captains skimming the crown's output;
+- the constant raiding of desert tribes against isolated camps and gold-convoys;
+- the engineering struggle to keep water and grain flowing to settlements that grow nothing.
+
+Adventure here is the roughest kind: convoy-guarding and convoy-robbing, a mine flooded or sabotaged, a turquoise strike worth murdering over, a desert fort gone silent, a convict-gang in revolt, smuggled gold and the people who chase it. Gold, stone and hardship are abundant. Water, grain, comfort and any soft thing at all are scarce.
 
 ## Commerce and Currency
 
-Zu-Zel-Iaqtet uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], and as the source of much of the empire's gold and copper it sits at the very head of the coined economy—yet its own daily life runs on garrison-pay and rationed supply rather than open markets. The assay-house at [[place-balqu|Balqu]] weighs and seals the crown's metal, and [[affiliation-garhalzi|Gár-Hálzi]] agents travel with the gold-convoys. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+Zu-Zel-Iaqtet uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], and as the source of much of the empire's gold and copper it sits at the head of the coined economy, though its own daily life runs on garrison pay and rationed supply rather than open markets. The assay-house at [[place-balqu|Balqu]] weighs and seals the crown's metal, and [[affiliation-garhalzi|Gár-Hálzi]] agents travel with the gold-convoys. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
 
 ## See Also
 
