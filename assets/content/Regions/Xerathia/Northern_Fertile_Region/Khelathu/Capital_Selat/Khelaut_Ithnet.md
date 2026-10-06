@@ -12,19 +12,22 @@ data:
   parents: [galezkaraslt]
   population: 800
   packFolder: regkhsett
+  government: capitalselat
 ---
 
-## Khelaut-Ithnet—the Tombs of the West
+## Overview
 
-Khelaut-Ithnet—"the Tombs of the West"—is the burial-ground of [[place-galezkara|Galezkara]]: not the royal necropolis of [[place-zugezer|Zu-Gezer]], which holds the Gar-Aûu alone, but the far larger and humbler landscape of the dead that stretches across the desert shelf to either side of it, where everyone else in the capital is laid to rest. From the gold-rich mastaba-fields of the nobility hard against the royal ground, out through the tomb-galleries of the merchants and scribes, to the open sand-fields where the poor are buried by the thousand, Khelaut-Ithnet is a city of the dead many times larger than the city of the living across the water. It is worked, not lived in: the embalmers, masons, and mortuary-priests who serve it cross from the [[place-galezkara#the-people|Wabet]] quarter and from [[place-zugezer|Zu-Gezer]] by day, and by night it is left to the guards, the curses, and the things set to walk among the tombs.
+"Walk your dead to the grave by daylight and be back on the ferry before dusk," a necropolis guard tells a family crossing for a burial. "After that the western fields belong to us, and to what we keep there."
 
-### The Gradient of the Dead
+**Khelaut-Ithnet**, "the Tombs of the West," is the burial-ground of [[place-galezkara|Galezkara]]: not the royal necropolis of [[place-zugezer|Zu-Gezer]], which holds the Gar-Aûu alone, but the far larger and humbler landscape of the dead that stretches across the desert shelf to either side of it, where everyone else in the capital is laid to rest. From the gold-rich mastaba-fields of the nobility hard against the royal ground, out through the tomb-galleries of the merchants and scribes, to the open sand-fields where the poor are buried by the thousand, Khelaut-Ithnet is a city of the dead many times larger than the city of the living across the water. It is worked, not lived in: the embalmers, masons, and mortuary-priests who serve it cross from the [[place-wazulet|Wazulet]] quarter and from [[place-zugezer|Zu-Gezer]] by day, and by night it is left to the guards, the curses, and the things set to walk among the tombs.
+
+## The Gradient of the Dead
 
 Where a Khelâthi lies in Khelaut-Ithnet is set, near enough to the cubit, by what they could pay. Nearest the royal ground crowd the **mastaba-tombs and rock-cut chapels of the great nobles, high priests, and officials**—for the old hunger is to lie close to one's Gar-Aû in death as in life, and a plot in the shadow of the royal Ways is among the most coveted in the empire. Each is a tomb in two parts: an offering-chapel above, painted with the dead's life and titles, where an endowed cult-priest lays bread and beer and says the rites; and the sealed burial-chamber below, stocked with the goods and gold the dead will need in the West.
 
 Beyond the nobles spread the lesser fields—the shared galleries and modest tombs of the **merchant and scribal classes**, who buy a niche, a chamber, or a share in a syndicate tomb—and beyond those again, out on the open desert, the endless **sand-fields of the common dead**: simple pit-graves with a pot and an amulet, the temples' paupers' fields, and the plots of the burial-clubs, where the hot dry sand does for nothing what the embalmers charge a fortune to do. The whole makes a map of the city's living order, copied faithfully into the ground.
 
-### The War of Tombs and Robbers
+## The War of Tombs and Robbers
 
 Because robbery is not a risk but a certainty, the tombs of Khelaut-Ithnet are built to be robbed—that is, built to defeat the robbing for as long as they can, in **layer upon layer of defense**. The principle is depth: no single trick is trusted, and a well-made tomb meets the intruder with one barrier after another, each buying time and blood.
 
@@ -34,11 +37,11 @@ And at the last, the deepest tombs are **guarded**. Above ground the richest end
 
 Against all of it stands the robbers' one unanswerable weapon: **knowledge**. Every wall and ward in Khelaut-Ithnet was raised by a guild—masons, draftsmen, embalmers, and the priests who set the bindings—and a guild can be bought. A bribed builder's map, a corrupt priest who knows which glyph is live and which is bluff, a craftsman who never forgot a hidden door: this is the master-key, and the grim joke of the necropolis is that the same hands that build the defenses sell the way past them. So the war never ends and neither side ever wins—the architects invent, the robbers learn, every clever new tomb is opened within a lifetime or two, and a tomb that stays unbroken passes into legend. The necropolis-guard patrol what miles they can and hang the robbers they catch, but they cannot watch a whole city of the dead, and they know it.
 
-### For the Worldbuilder
+## For the Worldbuilder
 
 Khelaut-Ithnet is the capital's dungeon, sitting in plain sight at the edge of the holy ground—a near-endless supply of trapped, warded, guarded tombs and the desperate, expert, and damned who break into them. Run it for exactly that: a tomb-crack as a layered delve (concealment, barriers, traps, curses, and the waking dead at the bottom); a robbing-ring to join or to hunt; a corrupt tomb-architect selling maps; a noble house hiring the party to robber-proof a new tomb—or to quietly rob a rival's; a stolen heirloom or relic to recover from a fence in the [[place-galezkara#markets-and-commerce|markets]]; the necropolis-guard's bounty on tomb-breakers; or a delve gone wrong when something set to guard the dead is loosed among the living. It also frames the line the empire will not cross: the guarded royal Ways of [[place-zugezer|Zu-Gezer]] are hard game and harshly punished, and the cursed road of the [[being-falseuqaa|False Uqa'â]] is death on sight—Khelaut-Ithnet is where the robbing trade lives instead.
 
-### See Also
+## See Also
 
 - [[place-zugezer|Zu-Gezer]]—The royal necropolis it surrounds
 - [[place-galezkara|Galezkara]]—The living city across the water

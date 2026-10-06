@@ -16,7 +16,7 @@ Boats work the whole navigable length, from the delta up to the first cataract, 
 
 It rises once a year, drowns the fields for four months, and goes down leaving a hand's depth of black silt on them. That is the whole agricultural economy, and the [[lore-khelathclndr|calendar]] is built on it: three seasons of four months, named for what the water is doing.
 
-The flood also erases every boundary stone in the valley. Each spring the surveyors walk the fields again, village by village, re-establishing lines settled the year before and the year before that, and entering what they find. A valley that re-litigates its own property annually needs an enormous class of men who can write, which is most of the explanation for why [[skill-qalzscrscrpt|the people's hand]] exists and why a scribe outranks his birth.
+The flood also erases every boundary stone in the valley. Each spring the surveyors walk the fields again, village by village, re-establishing lines settled the year before and the year before that, and entering what they find. A valley that re-litigates its own property annually needs a large class of men who can write, which is most of the explanation for why [[skill-qalzscrscrpt|the people's hand]] exists and why a scribe outranks his birth.
 
 A high flood takes villages. A low one is worse. The [[affiliation-empireakhlth|granaries and the tax remissions]] are the state's answer to a bad rise, and a Gar-Aû who handles one badly is a Gar-Aû whose divinity is suddenly a matter of discussion.
 
@@ -24,7 +24,7 @@ A high flood takes villages. A low one is worse. The [[affiliation-empireakhlth|
 
 Four gods have a claim, and the temples have never fully settled it. [[lore-igelnarudty|Igel'Nâru]] holds the Zumélesh itself and is a river god rather than a province's god, which makes his cult unusual: it travels with the water instead of sitting on a patch of ground. [[lore-thubaidty|Thubâ'i]] is worshipped as the golden waters running in flood. [[lore-uzneradty|Uznêra]]'s fertility is the river's and the womb's together. [[lore-qeztudty|Qeztu]] commands the first cataract, where the water stops being a road.
 
-The sacred southern reach belongs to the Halzi'a in law and to Igel'Nâru in spirit, and the difference is enforced rather than admired: boundary shrines and sacred stones mark the god's water, and unauthorized hunting or fishing inside them is punishable by death.
+The sacred southern reach belongs to the Halzi'a in law and to Igel'Nâru in spirit, and the difference is enforced: boundary shrines and sacred stones mark the god's water, and unauthorized hunting or fishing inside them is punishable by death.
 
 ## The River-Beasts
 
