@@ -1,6 +1,6 @@
 ---
 shortcode: gezhtymnkhz2
-name: {full: Gezehutyu Menkhezerre, aliases: []}
+name: {full: Gezehutyu Menkhezerre, aliases: [Gezê]}
 type: being
 subType: npc
 description: "A noble administrator of the middle rank, diligent, and unlikely ever to be promoted past the point where diligence is enough"
@@ -18,8 +18,8 @@ data:
   species: humanflk
   born: "690.140"
   died: null
-  height: 1.69
-  weight: 60
+  height: 5' 7"
+  weight: 132 lbs
   frame: light
   appearance:
     eye_color: brown

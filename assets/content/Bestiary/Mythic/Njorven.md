@@ -18,8 +18,6 @@ data:
   species: null
   age: null
   born: "unknown"
-  height: null
-  weight: null
   frame: null
   appearance:
     eye_color: null
@@ -60,7 +58,7 @@ Njörven is not seen. What is seen is the weather.
 
 A coast under its attention gets storms out of season and out of shape: a flat calm that holds for a week while the glass falls, then a sea that rises without wind behind it. Nets come up empty, then come up full of things nobody can name. The old people on the strand stop going out and will not say why, and the ones who do go out come back changed in ways their families notice before they do.
 
-Those who claim to have looked on it directly do not agree on much. A shape under the water larger than the hull above it. A drowned hall lit from within. A face in the trough of a wave that was gone at the crest. The cult's own tellings are the most confident and the least consistent, and a skald who has heard three of them will tell you that the only thing every account shares is the cold.
+Those who claim to have looked on it directly do not agree on much. A shape under the water larger than the hull above it. A drowned hall lit from within. A face in the trough of a wave that was gone at the crest. The cult's own tellings are the most confident and the least consistent. The skalds who gather them say that every telling disagrees with the last on everything but one thing, and that thing is the cold.
 
 # Dossier {#dossier}
 

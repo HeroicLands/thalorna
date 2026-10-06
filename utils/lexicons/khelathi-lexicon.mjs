@@ -20,7 +20,7 @@
  * specification are one document, and a rule the note stops stating is a rule the
  * guard stops enforcing.
  *
- * Five predicates:
+ * Six predicates:
  *
  * 1. **A word ends in a vowel or in `n`, `t`, `s`, `r`.** A prefix ending in `-`
  *    and a suffix opening with one are bound morphemes and close no word, so
@@ -34,11 +34,23 @@
  *    makes a house name a house name.
  * 5. **No name is listed twice**, within a list or across them, and every house-form
  *    names a god the note lists.
+ * 6. **A given name as long as the note's threshold has a near name**: the name
+ *    broken off after its second vowel, that vowel held long. Every row of the
+ *    note's worked table is that form of its given name, and every Khelâthi being
+ *    whose given name reaches the threshold carries it among its aliases.
  */
 
 import fs from "node:fs";
+import path from "node:path";
+import YAML from "yaml";
 
-const NOTE = "assets/content/Skills/Languages/Khelathi.md";
+export const NOTE = "assets/content/Skills/Languages/Khelathi.md";
+
+/** The content tree the beings are read from. */
+export const CONTENT = "assets/content";
+
+/** The culture a being names to be held to the near-name rule. */
+const CULTURE = "khelathiclt";
 
 /** The letters a coined element must carry at least one of. */
 const MARKERS = ["th", "l", "g", "z", "q"];
@@ -161,99 +173,248 @@ export function lexiconFrom(text) {
     return { elements, gods, houseForms, places, bound, words, lists };
 }
 
-const text = fs.readFileSync(NOTE, "utf8");
-const lex = lexiconFrom(text);
-const out = [];
-const report = (literal, severity, message) =>
-    out.push(finding(NOTE, lineOf(text, literal), severity, message));
+/** A vowel run: one syllable, however many letters spell it. */
+const VOWEL_RUN = /[aeiouâêîôûáéíóúäëïöüāīē]+/giu;
 
-// 1. A word ends in a vowel or in n, t, s, r.
-//
-// Rule 4 governs a word. A name element and a place morpheme never stand alone —
-// `Gar-` opens a compound and `zab` sits inside one — and the word they build
-// does comply, so holding a morpheme to a word's rule would refuse the note's own
-// vocabulary. The gods, the trades, the temple words and the realm's own names
-// are words, and they are held to it.
-for (const form of [...lex.gods, ...lex.words]) {
-    if (form.startsWith("-") || form.endsWith("-") || form.endsWith("'")) continue;
-    if (!FINAL.test(form)) {
-        report(form, "error", `\`${form}\` ends in none of a vowel, n, t, s or r`);
-    }
+/** The long form of each plain vowel, which a near name ends on. */
+const LONG = { a: "â", e: "ê", i: "î", o: "ô", u: "û" };
+
+/** The note's spelled-out numbers, for the threshold it states in words. */
+const NUMBERS = { two: 2, three: 3, four: 4, five: 5, six: 6 };
+
+/**
+ * How many syllables a name has: one per run of vowels, so `Gezehutyu` has four
+ * and `Lersaîs` two.
+ *
+ * @param {string} name - A given name.
+ * @returns {number} The syllable count.
+ */
+export function syllables(name) {
+    return [...name.matchAll(VOWEL_RUN)].length;
 }
 
-// 2. Every element carries a marker, and no marker carries more than its share.
-//
-// An element carrying two markers counts under both: what the share measures is
-// how far the inventory leans on one letter, not which letter was found first.
-const carried = new Map(MARKERS.map((m) => [m, 0]));
-for (const form of lex.elements) {
-    const low = form.toLowerCase();
-    const has = MARKERS.filter((m) => low.includes(m));
-    if (has.length === 0) {
-        report(form, "error", `\`${form}\` carries none of ${MARKERS.join(", ")}`);
-        continue;
-    }
-    for (const m of has) carried.set(m, carried.get(m) + 1);
-}
-for (const [marker, n] of carried) {
-    if (lex.elements.length && n / lex.elements.length > CAP) {
-        out.push(
-            finding(
-                NOTE,
-                lineOf(text, "### Name elements"),
-                "error",
-                `\`${marker}\` is in ${n} of ${lex.elements.length} elements, past the share any one may hold`,
-            ),
-        );
-    }
+/**
+ * The near name a given name yields: the name broken off after its second vowel,
+ * and that vowel held long.
+ *
+ * @param {string} given - A given name.
+ * @returns {string|undefined} The near name, or undefined for a name of one syllable.
+ */
+export function nearName(given) {
+    const runs = [...given.matchAll(VOWEL_RUN)];
+    if (runs.length < 2) return undefined;
+    const end = runs[1].index + runs[1][0].length;
+    const stem = given.slice(0, end);
+    const last = stem.at(-1);
+    const plain = last.normalize("NFD")[0].toLowerCase();
+    return stem.slice(0, -1) + (LONG[plain] ?? last);
 }
 
-// 3 and 4. The register: a given name is smooth, a house name is seamed and collective.
-for (const [listName, names] of lex.lists) {
-    const isHouse = /clan|house|tribe/i.test(listName);
-    for (const name of names) {
-        if (!isHouse && /['’]/.test(name)) {
-            report(name, "error", `\`${name}\` is a given name and carries a seam`);
+/**
+ * The near-name rule as the note states it: the threshold, read off the bold
+ * sentence that states it, and the worked table beneath.
+ *
+ * @param {string} text - The note.
+ * @returns {{threshold: number, examples: {near: string, given: string}[]}} The rule.
+ */
+export function nearRuleFrom(text) {
+    const body = section(text, "### The Near Name");
+    const stated = body.match(/\*\*A given name of (\w+) syllables or more\b/);
+    if (!stated || !(stated[1] in NUMBERS)) {
+        throw new Error(`${NOTE} states no near-name threshold under "### The Near Name"`);
+    }
+    const examples = rows(body).map((cells) => ({
+        near: ticked(cells[0])[0] ?? cells[0],
+        given: ticked(cells[1] ?? "")[0] ?? cells[1],
+    }));
+    return { threshold: NUMBERS[stated[1]], examples };
+}
+
+/** Every Markdown file under a directory. */
+function markdownFiles(dir) {
+    const out = [];
+    for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+        const full = path.join(dir, entry.name);
+        if (entry.isDirectory()) out.push(...markdownFiles(full));
+        else if (entry.name.endsWith(".md")) out.push(full);
+    }
+    return out;
+}
+
+/**
+ * Every Khelâthi being: its file, its given name and its aliases.
+ *
+ * A being with no `given` key is named by the first word of its full name.
+ *
+ * @param {string} [root] - The content tree.
+ * @returns {{file: string, line: number, given: string, aliases: string[]}[]} The beings.
+ */
+export function khelathiBeings(root = CONTENT) {
+    const out = [];
+    for (const file of markdownFiles(root)) {
+        const text = fs.readFileSync(file, "utf8");
+        const head = text.match(/^---\n([\s\S]*?)\n---/);
+        if (!head) continue;
+        let front;
+        try {
+            front = YAML.parse(head[1]);
+        } catch {
+            continue;
         }
-        if (isHouse && !/['’]/.test(name)) {
-            report(name, "error", `\`${name}\` is a house name and carries no seam`);
-        }
-        if (isHouse && !/[uû]$/.test(name)) {
-            report(name, "error", `\`${name}\` is a house name and does not end in \`-u\``);
-        }
+        if (front?.type !== "being" || front?.data?.culture !== CULTURE) continue;
+        const name = front.name ?? {};
+        const given = String(name.given ?? String(name.full ?? "").split(/\s+/)[0]).trim();
+        out.push({
+            file: path.relative(process.cwd(), file).split(path.sep).join("/"),
+            line: lineOf(text, "\nname:") + 1,
+            given,
+            aliases: (name.aliases ?? []).map(String),
+        });
     }
+    return out;
 }
 
-// 5. No name twice, and every house-form names a god the note lists.
-const seen = new Map();
-for (const [listName, names] of lex.lists) {
-    for (const name of names) {
-        if (seen.has(name)) {
-            report(
-                name,
-                "error",
-                `\`${name}\` is listed under both ${seen.get(name)} and ${listName}`,
+/**
+ * Every finding over the note and the beings that speak it.
+ *
+ * @param {string} text - The language note.
+ * @param {{file: string, line: number, given: string, aliases: string[]}[]} beings - The beings.
+ * @returns {string[]} One finding per line.
+ */
+export function analyse(text, beings) {
+    const lex = lexiconFrom(text);
+    const out = [];
+    const report = (literal, severity, message) =>
+        out.push(finding(NOTE, lineOf(text, literal), severity, message));
+
+    // 1. A word ends in a vowel or in n, t, s, r.
+    //
+    // Rule 4 governs a word. A name element and a place morpheme never stand alone —
+    // `Gar-` opens a compound and `zab` sits inside one — and the word they build
+    // does comply, so holding a morpheme to a word's rule would refuse the note's own
+    // vocabulary. The gods, the trades, the temple words and the realm's own names
+    // are words, and they are held to it.
+    for (const form of [...lex.gods, ...lex.words]) {
+        if (form.startsWith("-") || form.endsWith("-") || form.endsWith("'")) continue;
+        if (!FINAL.test(form)) {
+            report(form, "error", `\`${form}\` ends in none of a vowel, n, t, s or r`);
+        }
+    }
+
+    // 2. Every element carries a marker, and no marker carries more than its share.
+    //
+    // An element carrying two markers counts under both: what the share measures is
+    // how far the inventory leans on one letter, not which letter was found first.
+    const carried = new Map(MARKERS.map((m) => [m, 0]));
+    for (const form of lex.elements) {
+        const low = form.toLowerCase();
+        const has = MARKERS.filter((m) => low.includes(m));
+        if (has.length === 0) {
+            report(form, "error", `\`${form}\` carries none of ${MARKERS.join(", ")}`);
+            continue;
+        }
+        for (const m of has) carried.set(m, carried.get(m) + 1);
+    }
+    for (const [marker, n] of carried) {
+        if (lex.elements.length && n / lex.elements.length > CAP) {
+            out.push(
+                finding(
+                    NOTE,
+                    lineOf(text, "### Name elements"),
+                    "error",
+                    `\`${marker}\` is in ${n} of ${lex.elements.length} elements, past the share any one may hold`,
+                ),
             );
-        } else seen.set(name, listName);
+        }
     }
+
+    // 3 and 4. The register: a given name is smooth, a house name is seamed and collective.
+    for (const [listName, names] of lex.lists) {
+        const isHouse = /clan|house|tribe/i.test(listName);
+        for (const name of names) {
+            if (!isHouse && /['’]/.test(name)) {
+                report(name, "error", `\`${name}\` is a given name and carries a seam`);
+            }
+            if (isHouse && !/['’]/.test(name)) {
+                report(name, "error", `\`${name}\` is a house name and carries no seam`);
+            }
+            if (isHouse && !/[uû]$/.test(name)) {
+                report(name, "error", `\`${name}\` is a house name and does not end in \`-u\``);
+            }
+        }
+    }
+
+    // 5. No name twice, and every house-form names a god the note lists.
+    const seen = new Map();
+    for (const [listName, names] of lex.lists) {
+        for (const name of names) {
+            if (seen.has(name)) {
+                report(
+                    name,
+                    "error",
+                    `\`${name}\` is listed under both ${seen.get(name)} and ${listName}`,
+                );
+            } else seen.set(name, listName);
+        }
+    }
+    for (const { god, form } of lex.houseForms) {
+        if (!lex.gods.includes(god)) {
+            report(
+                god,
+                "error",
+                `\`${form}\` is the house-form of \`${god}\`, which the note does not list`,
+            );
+        }
+    }
+
+    // 6. A long given name has its near name, formed by the rule, and a being carries it.
+    const { threshold, examples } = nearRuleFrom(text);
+    for (const { near, given } of examples) {
+        if (syllables(given) < threshold) {
+            report(
+                `\`${near}\``,
+                "error",
+                `\`${given}\` has ${syllables(given)} syllables, fewer than a near name needs`,
+            );
+        } else if (nearName(given) !== near) {
+            report(
+                `\`${near}\``,
+                "error",
+                `\`${near}\` is not the near name of \`${given}\`, which is \`${nearName(given)}\``,
+            );
+        }
+    }
+    for (const being of beings) {
+        if (syllables(being.given) < threshold) continue;
+        const near = nearName(being.given);
+        if (!being.aliases.includes(near)) {
+            out.push(
+                finding(
+                    being.file,
+                    being.line,
+                    "error",
+                    `\`${being.given}\` has ${syllables(being.given)} syllables and carries no alias \`${near}\``,
+                ),
+            );
+        }
+    }
+    return out;
 }
-for (const { god, form } of lex.houseForms) {
-    if (!lex.gods.includes(god)) {
-        report(
-            god,
-            "error",
-            `\`${form}\` is the house-form of \`${god}\`, which the note does not list`,
+
+function main() {
+    const text = fs.readFileSync(NOTE, "utf8");
+    const out = analyse(text, khelathiBeings());
+    for (const line of out) console.error(line);
+    if (out.length) {
+        console.error(`${out.length} Khelâthi lexicon finding(s).`);
+        process.exitCode = 1;
+    } else {
+        const lex = lexiconFrom(text);
+        console.log(
+            `The note publishes ${lex.elements.length} element form(s), ${lex.gods.length} gods, ` +
+                `${lex.places.length} place morphemes and ${[...lex.lists.values()].flat().length} names.`,
         );
     }
 }
 
-for (const line of out) console.error(line);
-if (out.length) {
-    console.error(`${out.length} Khelâthi lexicon finding(s).`);
-    process.exitCode = 1;
-} else {
-    console.log(
-        `The note publishes ${lex.elements.length} element form(s), ${lex.gods.length} gods, ` +
-            `${lex.places.length} place morphemes and ${[...lex.lists.values()].flat().length} names.`,
-    );
-}
+if (import.meta.filename === path.resolve(process.argv[1] ?? "")) main();

@@ -17,7 +17,9 @@ data:
 
 ## Overview
 
-Khelaga is the capital of the [[affiliation-selatkhelaga|Selat of Khelaga]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]]. It holds the selat's chief temple of [[affiliation-uqaa|Faith of Uqa'â]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's: the delta apex, where the river first divides; old shrines and customs-stations.
+"Begin at the water-stair," a priest of [[affiliation-uqaa|Uqa'â]] tells a pilgrim fresh off a river-barge, "and look east at the hour the sun clears the reeds. That is the god arriving where his river divides." **Khelaga** is the capital of the [[affiliation-selatkhelaga|Selat of Khelaga]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], a town of about 26,000 at the delta apex.
+
+It holds the selat's chief temple of Uqa'â, the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's: old shrines and customs-stations where the river first divides.
 
 ## See Also
 

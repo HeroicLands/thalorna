@@ -1,6 +1,6 @@
 ---
 shortcode: madhurvrdr
-name: {full: Màdhurava Rudrata, given: Màdhurava, clan: Rudrata, aliases: []}
+name: {full: Màdhurava Rudrata, given: Màdhurava, clan: Rudrata, aliases: [Madhu]}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, administration]
@@ -17,8 +17,8 @@ data:
   gender: male
   species: humanflk
   born: 670.313
-  height: 1.78
-  weight: 76.2
+  height: 5' 10"
+  weight: 168 lbs
   frame: medium
   appearance:
     eye_color: amber

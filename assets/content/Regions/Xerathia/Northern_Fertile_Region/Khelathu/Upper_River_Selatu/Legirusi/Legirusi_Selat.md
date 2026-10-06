@@ -17,26 +17,30 @@ data:
 
 ## Overview
 
-Legirusi Selat is the land of the [[affiliation-selatlegirus|Selat of Legirusi]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+The stone leaves Legirusi on the flood.
+
+"Mind the lines," a barge pilot tells a passenger at a quarry landing in the **Season of Inundation**, while a gang walks a block down the ramp. "Any other month the river is a mile from this cliff. Now it laps the ramp, and a barge loaded by noon can float right up to the desert edge of the tomb or temple the block is cut for."
+
+**Legirusi Selat** is the land of the [[affiliation-selatlegirus|Selat of Legirusi]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 
-Stone-quarries and master masons; the temple-workshops that carve the monuments. Beyond the capital the selat is the ordinary Khelâthi landscape of villages, estates and temple lands, worked by farmers who owe a share of the harvest and labor on the canals, and lettered by the scribes who are the one reliable ladder out of the fields.
+The land is the river strip with the cliffs at its back. Flood-silt fields and villages lie below, and above them rise the flanking uplands where the empire's fine building stone is cut, with high desert and chaparral beyond the rim. The flood sets the calendar: while the fields are drowned and no farm work is possible, the farmers become quarry gangs and bargemen, and the blocks they cut go down to the temples and tombs that need them.
 
 ## Economy
 
-Like every Khelâthi selat it runs on the flood, the harvest and the render—grain to the granaries, labor to the canals and the flood-season works, and a share of everything to the temples and the crown. What it contributes to the empire beyond that is what its character names: stone-quarries and master masons; the temple-workshops that carve the monuments.
+Legirusi grows grain for its granaries and owes labor to the canals and a share of everything to the temples and the crown, like every [[lore-khelathiclt|Khelâthi]] selat. What it adds for the empire is stone and the hands that shape it: quarrymen on the cliffs, master masons in the villages and the temple-workshops that carve the monuments.
 
 ## Notable Features
 
 - [[place-legirusi|Legirusi]]—the selat capital and the Halzi'a's seat
 - The chief temple of [[affiliation-psaqaru|Faith of Psaq'âru]] and its estates
-- Stone-quarries and master masons; the temple-workshops that carve the monuments
+- The quarry cliffs and the temple-workshops that finish what they yield
 
 ## Settlements
 
 - [[place-legirusi|Legirusi]] (~38,000)—the selat capital and the seat of the Halzi'a.
-- **The villages and estate-towns:** the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
+- The villages and estate-towns: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 

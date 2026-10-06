@@ -1,6 +1,6 @@
 ---
 shortcode: gajeguluqztr
-name: {full: Gajegulu Quztar, aliases: []}
+name: {full: Gajegulu Quztar, aliases: [Gajê]}
 type: being
 subType: npc
 description: "Harpooner of the Zeghet'Nelgu and the deadliest man on the water, whose reputation rests on a precision nobody in the company disputes"
@@ -18,8 +18,8 @@ data:
   species: humanflk
   born: "679.218"
   died: null
-  height: 1.81
-  weight: 72
+  height: 5' 11"
+  weight: 159 lbs
   frame: medium
   appearance:
     eye_color: hazel

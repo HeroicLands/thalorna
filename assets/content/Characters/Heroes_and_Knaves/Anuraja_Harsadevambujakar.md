@@ -1,6 +1,6 @@
 ---
 shortcode: anrjhrdvmbjkr
-name: {full: Anûraja Harshadēvāmbujakar, given: Anûraja, clan: Harshadēvāmbujakar, aliases: []}
+name: {full: Anûraja Harshadēvāmbujakar, given: Anûraja, clan: Harshadēvāmbujakar, aliases: [Anu]}
 type: being
 subType: character
 tags: [heroes-and-knaves, underworld]
@@ -17,8 +17,8 @@ data:
   gender: male
   species: humanflk
   born: 689.304
-  height: 1.83
-  weight: 74.8
+  height: 6'
+  weight: 165 lbs
   frame: medium
   appearance:
     eye_color: dark_brown

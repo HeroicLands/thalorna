@@ -17,26 +17,16 @@ data:
 
 ## Overview
 
-Gar-Qeztu Selat is the land of the [[affiliation-selatgarqezt|Selat of Gar-Qeztu]], one of the [[affiliation-borderselatu|Border Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+**Gar-Qeztu Selat** is garrison country, and the land of the [[affiliation-selatgarqezt|Selat of Gar-Qeztu]], one of the [[affiliation-borderselatu|Border Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 
-A garrison heartland; the chariot-corps drill-grounds and officer schools. Beyond the capital the selat is the ordinary Khelâthi landscape of villages, estates and temple lands, worked by farmers who owe a share of the harvest and labor on the canals, and lettered by the scribes who are the one reliable ladder out of the fields.
-
-## Economy
-
-Like every Khelâthi selat it runs on the flood, the harvest and the render—grain to the granaries, labor to the canals and the flood-season works, and a share of everything to the temples and the crown. What it contributes to the empire beyond that is what its character names: A garrison heartland; the chariot-corps drill-grounds and officer schools.
-
-## Notable Features
-
-- [[place-garqeztu|Gar-Qeztu]]—the selat capital and the Halzi'a's seat
-- The chief temple of [[affiliation-qeztu|Faith of Qeztu]] and its estates
-- A garrison heartland; the chariot-corps drill-grounds and officer schools
+A cadet sent to the officer schools sees the selat's purpose in a morning: carts of grain going in toward the drill-grounds, chariots coming back out of them, and the schools on the ground between. Behind that stands the ordinary [[lore-khelathiclt|Khelâthi]] country of villages, estates and temple lands, where farmers owe a share of the harvest and labor on the canals and the scribes are the one reliable ladder out of the fields. Here the grain they owe has an obvious customer.
 
 ## Settlements
 
-- [[place-garqeztu|Gar-Qeztu]] (~13,000)—the selat capital and the seat of the Halzi'a.
-- **The villages and estate-towns:** the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
+- [[place-garqeztu|Gar-Qeztu]] (~13,000)—the selat capital and the seat of the Halzi'a, with the chief temple of [[lore-qeztudty|Qeztu]].
+- The villages and estate-towns: a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 

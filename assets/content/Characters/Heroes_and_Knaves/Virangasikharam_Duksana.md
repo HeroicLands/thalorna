@@ -1,6 +1,6 @@
 ---
 shortcode: vrgskhrmdkn
-name: {full: Vīrāngashikharam Dukshana, given: Vīrāngashikharam, clan: Dukshana, aliases: []}
+name: {full: Vīrāngashikharam Dukshana, given: Vīrāngashikharam, clan: Dukshana, aliases: [Vīru]}
 type: being
 subType: character
 tags: [heroes-and-knaves, administration]
@@ -17,8 +17,8 @@ data:
   gender: male
   species: humanflk
   born: "687.34"
-  height: 1.83
-  weight: 73.9
+  height: 6'
+  weight: 163 lbs
   frame: medium
   appearance:
     eye_color: hazel

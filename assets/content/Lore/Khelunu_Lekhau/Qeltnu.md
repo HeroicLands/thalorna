@@ -8,4 +8,12 @@ tags: [generated]
 data: {packFolder: regkharc}
 ---
 
-The made body — craft, stone, flesh, shaping, animation, transformation. Qelt'nu is named for the component the embalmers preserve, as Reth'zethu is named for the one the scribes do. The pairing was not invented for the philosophy; the philosophy noticed what the funerary rites had always done, which is to preserve the dead twice over and to hold that losing either loss is total.
+Watch an embalmer at work and you are watching the _qelt_ kept. **Qelt'nu**, the made body, holds craft, stone, flesh, shaping, animation and transformation, and it is named for the soul-component the embalmers preserve, as [[lore-rethzethu|Reth'zethu]] is named for the one the scribes inscribe.
+
+The pairing was not invented for the philosophy. The philosophy noticed what the funerary rites had always done: preserve the dead twice over, and hold that losing either is total.
+
+## See Also
+
+- [[affiliation-garqeltnu|Gar-Qelt'nu]]—the House that holds the domain
+- [[lore-rethzethu|Reth'zethu]]—the pair
+- [[lore-khelunulekha|Khelunu Lekhau]]—the philosophy and the other seven domains

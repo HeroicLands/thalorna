@@ -1,6 +1,6 @@
 ---
 shortcode: gezebari2
-name: {full: Gezebari, aliases: []}
+name: {full: Gezebari, aliases: [Gezê]}
 type: being
 subType: npc
 description: "A merchant-prince dealing in fine goods, whose caravans move what the capital's houses want and cannot get elsewhere"
@@ -18,8 +18,8 @@ data:
   species: humanflk
   born: "678.032"
   died: null
-  height: 1.61
-  weight: 45
+  height: 5' 3"
+  weight: 99 lbs
   frame: scant
   appearance:
     eye_color: brown

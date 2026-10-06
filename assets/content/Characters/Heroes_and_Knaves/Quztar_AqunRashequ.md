@@ -18,8 +18,8 @@ data:
   gender: male
   species: humanflk
   born: "662.32"
-  height: 1.75
-  weight: 69.9
+  height: 5' 9"
+  weight: 154 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -480,7 +480,7 @@ Quztar's primary motivation is the preservation of craft excellence in an age in
 
 ### Patrons
 
-The Lut-Uznêra, High Priestess Amqelitâna
+The Lut-Uznêra, High Priestess **Amqelitâna**
 : The great temple dedicated to the deity of fertility and renewal has commissioned Quztar for all major thatching work for the past three decades. Amqelitâna views Quztar's work as a reflection of divine craftsmanship and insists that none other touch the temple's iconic roof.
 
 [[affiliation-linzegarmglt|Lin'Zegaru elu Miglet]]
@@ -491,7 +491,7 @@ Lord [[being-gezhtymnkhz2|Gezehutyu Menkhezerre]]
 
 ### Enemies
 
-Khelosuefu the Innovator
+[[being-khelosuefu|Khelosuefu]] the Innovator
 : A former student of Quztar's who broke away to establish his own practice using hybrid techniques combining traditional and newer methods. Khelosuefu's work is adequate and his prices significantly lower, earning him the contracts Quztar once would have assumed were his by right. Though no open conflict exists, Quztar views Khelosuefu's success as a betrayal of the principles he taught, and Khelosuefu himself feels stung by Quztar's public criticism of his methods.
 
 ### Affiliations

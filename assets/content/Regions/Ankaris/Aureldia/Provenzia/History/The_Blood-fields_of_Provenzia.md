@@ -18,8 +18,8 @@ Provenzians do not, on the whole, name their battles. They name the **ground**.
 
 Elsewhere a great engagement is remembered as the Battle of somewhere; in Provènzia the name attaches
 to the place rather than to the fighting, and what survives in common speech is not who won but where
-it happened and what the place is like now. A Provenzian will tell you a field is a blood-field long
-before they can tell you which war made it, and for a good many of them nobody can—the resonance
+it happened and what the place is like now. Provenzians call a field a blood-field long
+before they can say which war made it, and for a good many of them nobody can—the resonance
 outlasted the record.
 
 This is the kingdom's characteristic way of remembering, and it is not sentimental. It is practical.

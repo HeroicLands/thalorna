@@ -18,8 +18,8 @@ data:
   gender: female
   species: humanflk
   born: 684.261
-  height: 1.6
-  weight: 55.8
+  height: 5' 3"
+  weight: 123 lbs
   frame: light
   appearance:
     eye_color: dark_brown
@@ -509,4 +509,4 @@ Merchant Rival Selena Moros
 
 4. **The Encrypted Archive**: While researching a potential new patron's background, Thamiyra discovers references to a secret archive hidden within the imperial archives—a collection of forbidden documents, love letters, and political intelligence gathered over centuries. Multiple factions are searching for it, and they believe she has knowledge of its location because her father worked in the archives. She must pick her way between those who would kill for the information and those who would pay kingdoms to suppress it.
 
-5. **The Scribe's Redemption**: An elderly scribe named Thalegezu, who once worked alongside Thamiyra's father, approaches her with a deathbed confession. He claims that the scandal that nearly destroyed her was not orchestrated by enemies but by her own mother, as part of a larger scheme to protect Thamiyra from something worse. He cannot fully explain before he dies, but leaves her with a cryptic journal that suggests a dark truth about her early life, her family's loyalties, and her connection to something the imperial court would kill to keep secret.
+5. **The Scribe's Redemption**: An elderly scribe named [[being-thalegezu2|Thalegezu]], who once worked alongside Thamiyra's father, approaches her with a deathbed confession. He claims that the scandal that nearly destroyed her was not orchestrated by enemies but by her own mother, as part of a larger scheme to protect Thamiyra from something worse. He cannot fully explain before he dies, but leaves her with a cryptic journal that suggests a dark truth about her early life, her family's loyalties, and her connection to something the imperial court would kill to keep secret.

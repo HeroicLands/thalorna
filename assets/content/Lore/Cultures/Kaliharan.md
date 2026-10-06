@@ -39,6 +39,10 @@ The Kaliharan temperament is unhurried to a degree that foreign merchants find m
 
 A Kaliharan of the interior is courteous, watchful and extremely difficult to hurry into a commitment. He answers a direct question accurately and volunteers nothing, and he is not being evasive: he regards unsolicited explanation as a form of presumption, and assumes that anyone who needed to know would already have been told. Reticence about the interior is not policy handed down from a council—it is manners, held so consistently that it functions as policy.
 
+## The Name the House Uses
+
+You will hear a Kaliharan woman called _Koaluethei_ in the market and _Luethei_ in her own doorway, and the second name is not yours to use. A long Kalihári given name has a short **household name**, the end of the name from its stressed syllable on, formed by the same rule in every house on the island. Kin say it, and so does anyone raised under that roof. Nobody else does: the full name is the one written in her [[affiliation-tharivaan|sílhari manuals]] and her lineage's records, and the one every council and custodian uses. Use one you overheard and she does not correct you: she gives you her full name back, evenly, and from then on the conversation is very formal. A name of three syllables or fewer has no household name, and you may say it as freely as anyone. The [[skill-kalihrlng|Kalihári]] language note sets out how the short name is formed.
+
 ## The Ports
 
 Qasirah and the smaller settlements at Vashurán, Korinthel and Telvári are where the two worlds touch. Centuries of contact with Ankarian, Haradian and Vedyaran merchants have left them genuinely cosmopolitan: mixed populations, mixed marriages, and well-kept Aurèldían temples serving foreign traders, long-settled immigrant families, and Kaliharans who have chosen the cosmopolitan zone over the interior.

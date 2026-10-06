@@ -20,7 +20,7 @@ It carries the goods a caravan can afford to move slowly and the people nobody e
 
 ## The Way-Station
 
-Beyond the throat, on the Tānvüri side, stands a frontier way-station of the celestial administration. It feeds travelers, houses them for as long as the weather requires, and records each of them in a register that has been kept without a gap for four hundred years. Vedyari visitors are treated with unfailing courtesy and are never, under any circumstances, permitted to see the register.
+Beyond the throat, on the Tānvüri side, stands a frontier way-station of the celestial administration. It feeds travelers, houses them for as long as the weather requires, and records each of them in a register that has been kept without a gap for four hundred years. Vedyari visitors are treated with courtesy and are never permitted to see the register.
 
 The [[affiliation-tanvurempr|Empire]]'s official position is that the Vedyari shrenis are a tributary trade of no administrative consequence. Its frontier officers keep a register, send escorts, and stand under orders to meet a Vedyari party at the col and not before. That is the practice of a frontier that is watched.
 
