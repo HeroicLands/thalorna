@@ -20,4 +20,5 @@ Amqel-Agefu sits in [[place-galezkaraslt|Galezkara Selat]], a morning's passage 
 
 ## See Also
 
-TBD.
+- [[place-galezkaraslt|Galezkara Selat]]—The selat country that holds it
+- [[place-galezkara|Galezkara]]—The imperial city

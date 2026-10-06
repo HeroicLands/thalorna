@@ -26,6 +26,3 @@ oneself upon a kinsman for being what it is.
 The guide is understood to keep exact accounts. What it requires at one reach it does not require
 at the next, and it does not accept a substitution offered in good faith. Spirit-Speakers say it
 is not that the crocodile is unforgiving, but that it does not recognize the category.
-
-TBD—the naming-lineages of the great crocodiles of the eastern reaches, and how a name passes
-when one dies.

@@ -30,5 +30,4 @@ concentrating in great temples it distributes itself through shrine-stations alo
 routes, and its priests travel constantly, so the knowledge of conditions and dangers stays current
 and worth having.
 
-TBD—what the god is held to owe a traveler who is lost through no fault of their own, given that
-he promises sight rather than protection.
+What the god owes a traveler who is lost through no fault of their own is unsettled, since he promises sight rather than protection.

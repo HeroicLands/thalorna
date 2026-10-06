@@ -20,4 +20,5 @@ Gadju-Zetji sits among the marsh-channels of [[place-garanlghtslt|Gar-Anlaghet S
 
 ## See Also
 
-TBD.
+- [[place-garanlghtslt|Gar-Anlaghet Selat]]—The selat country that holds it
+- [[place-garanlaghet|Gar-Anlaghet]]—The port city of the selat

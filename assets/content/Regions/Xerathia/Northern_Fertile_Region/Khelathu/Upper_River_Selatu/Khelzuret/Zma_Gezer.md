@@ -20,4 +20,5 @@ Zma-Gezer stands on the road of [[place-khelzuretslt|Khelzuret Selat]] that carr
 
 ## See Also
 
-TBD.
+- [[place-khelzuretslt|Khelzuret Selat]]—The selat country that holds it
+- [[place-khelzuret|Khelzuret]]—The temple city of the selat

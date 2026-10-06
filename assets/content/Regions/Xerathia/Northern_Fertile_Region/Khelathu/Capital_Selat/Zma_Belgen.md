@@ -20,4 +20,5 @@ Zma-Belgen farms the hinterland of [[place-galezkaraslt|Galezkara Selat]], and s
 
 ## See Also
 
-TBD.
+- [[place-galezkaraslt|Galezkara Selat]]—The selat country that holds it
+- [[place-garanlghtslt|Gar-Anlaghet Selat]]—The selat of its namesake village

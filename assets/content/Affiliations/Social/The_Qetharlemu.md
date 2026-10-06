@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      Priests of the stricter observances who hold that the old forms of worship are the only valid forms, and object together before any reinterpretation of a rite reaches the worshippers.
     ranks:
       - level: 1
-        title: "Member"
+        title: Lem'Nelgir
         description: >-
-          Participates as a priest in the movement defending the old forms of worship against novelty and local variation.
+          "Servant of the God"—an ordained priest who holds with the Qethar'lemu against novelty in ritual.
     offices: {}
   seat: null
   domains: []
@@ -35,16 +36,20 @@ The Qethar'lemu are priests of the stricter observances across [[place-aukhelath
 
 ## Character
 
-TBD.
+A temple council clerk, preparing the agenda for a session that includes a scholar's proposal, folds the page twice and says the clerk's version of a prayer: "Please let the Qethar'lemu be unavailable."
+
+The Qethar'lemu are strict. They hold the old forms of worship to be the only valid forms, with no room for local variation, and count any accommodation of novelty as an injury to the gods. Each of their members is an ordained **Lem'Nelgir** ("Servant of the God") who has taken the old forms as the whole of his duty.
 
 ## Relations
 
-TBD.
+The Qethar'lemu are priests of the stricter observances across [[place-aukhelathrgq|Aû'Khelâthu]]. They object together to a temple council that entertains a scholarly reinterpretation of its rites, and the objection is organized, with members from several temples speaking in step. A scholar with a new reading faces a body that treats the proposal as an offense and not an argument.
 
 ## Commerce and Currency
 
-TBD.
+No trade figures in the account of the Qethar'lemu. Their objection falls on revisions to ritual before they reach ordinary worshippers.
+
+A scholar who wants a reinterpretation heard should expect the objection and prepare for it: bring the oldest text that supports the reading, and have it read in the form the Qethar'lemu would call original.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to

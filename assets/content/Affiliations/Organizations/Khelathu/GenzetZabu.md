@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      A district council of titled families, convened wherever enough noble households sit close enough to meet. Traditionalist and military thinking generally carries the room.
     ranks:
       - level: 1
-        title: "Member"
+        title: Seated House
         description: >-
-          Participates as a member of a titled family in the district council of noble households.
+          Of a titled family that sits in the district's council.
     offices: {}
   seat: null
   domains: []
@@ -35,16 +36,20 @@ Genzet'Zabu is a district-level council of titled families, convened wherever en
 
 ## Character
 
-TBD.
+A district nobleman, asked by a visitor how decisions are made, laughs and says that the council decides by who comes. The families most willing to attend are the ones least interested in changing how things are done, so the room leans one way before anyone speaks.
+
+The council is conservative. Traditionalist and military thinking generally carries the room. A new idea is put to families that have never needed one.
 
 ## Relations
 
-TBD.
+The council gathers the titled families of a district, wherever enough noble households sit close enough together to meet regularly. Distance decides it: a district with scattered estates has no council worth the name, and a district with neighbors has a standing body that sets the tone for the area. Its members are neighbors first, councillors second, and the order shows in how they vote.
 
 ## Commerce and Currency
 
-TBD.
+No trade or coin figures in the account of the council. What it holds is the weight its families carry in the room, which is counted in generations of land and service.
+
+A reformer who brings a proposal should take a long view. A hearing here is long and an answer is short, and the answer is shaped before the proposal is read.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to
