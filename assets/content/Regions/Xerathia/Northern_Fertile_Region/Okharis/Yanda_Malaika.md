@@ -20,7 +20,3 @@ is not interested in it.
 
 The [[lore-orclbonesspr|Oracle of Bones]] is seated somewhere within it. Its location is not
 agreed, and the accounts of shamans who claim to have reached it do not match one another.
-
-## Notable Features
-
-_To be written._

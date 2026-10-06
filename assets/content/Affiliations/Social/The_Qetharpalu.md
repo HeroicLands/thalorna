@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      A faction seated on councils across the empire who hold that the old arrangements need no revision, and who have the numbers to make any revision slow.
     ranks:
       - level: 1
-        title: "Member"
+        title: Seated Traditionalist
         description: >-
-          Participates in the council faction resisting revision of its bodies' existing arrangements.
+          Holds a seat on a council and votes with the faction against revision.
     offices: {}
   seat: null
   domains: []
@@ -35,16 +36,20 @@ The Qethar'palu are a faction seated on various councils across [[place-aukhelat
 
 ## Character
 
-TBD.
+"Count first," a council secretary tells a reformer. "Then draft."
+
+The Qethar'palu are obstructive by weight of numbers. They hold that the old arrangements of their bodies need no revision, and they can make any revision slow even when they cannot block it outright. Each member holds a seat on a council and votes with the faction against revision.
 
 ## Relations
 
-TBD.
+The faction holds seats on various councils across [[place-aukhelathrgq|Aû'Khelâthu]] and votes together against revision. A reform that touches a council where the faction sits has to be counted in their seats before it is written in a motion. They are the one voting block that every reformer in the empire has learned to measure.
 
 ## Commerce and Currency
 
-TBD.
+No trade figures in the account of the Qethar'palu. Their strength is the number of seats they hold, which sets the timeline of any proposed change.
+
+The usual advice has three parts. Learn how many seats the faction holds on the council you are petitioning. Learn which of them might be persuaded. Plan the change for the time it takes, not the time you would like it to take.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to

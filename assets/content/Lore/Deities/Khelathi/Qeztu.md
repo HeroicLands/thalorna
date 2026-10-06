@@ -19,7 +19,3 @@ His great house is the war-temple at [[place-balehen|Balehen]], the double-walle
 commanding the river at the first cataract. He stands outside [[affiliation-khelathpnthn|Khelâthi Pantheon]]
 without standing outside the religion—one of several selat gods with real temples and real
 priesthoods whom the canonical theology simply does not list.
-
-TBD—his myths. The record establishes where Qeztu is worshipped and by whom, and says nothing
-whatever about who he is: no cosmic role, no relations with the Twelve, no account of what a
-war-god's demand on a soldier's life amounts to at the weighing.

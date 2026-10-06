@@ -32,4 +32,4 @@ With [[lore-psaqarudty|Psaq'âru]] he is a complement rather than a rival: creat
 chaotic, knowledge without creation sterile, and the temple legends show the two in constant
 productive argument.
 
-TBD—what the Eternal Library is held to contain that the temple archives at Khelunu do not.
+What the Eternal Library is held to contain that the temple archives at Khelunu do not is not stated.
