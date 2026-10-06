@@ -464,13 +464,13 @@ Raiaqu Zekmetâ drives himself forward by a singular obsession: to create the pe
 
 ### Patrons
 
-Lord Commander Qelti
+Lord Commander Ankethet
 : The military's chief weapons officer who commissions custom arms for elite guard units and prestigious officer candidates. He trusts Raiaqu implicitly and often vouches for the smith's uncompromising standards to impatient nobles.
 
 The Gar-Gul'Thakétu
 : A noble family known for their warrior traditions; Raiaqu has forged the ancestral blades of this house for thirty years, creating works that are as much heirloom as weapon.
 
-Master Architect Zezabu
+Master Architect Mathaku
 : A celebrated builder and engineer who has learned to commission weapons of precise specifications that align with his exacting vision; he respects Raiaqu as a peer in the pursuit of structural perfection.
 
 Captain [[being-thema2|Thema]]

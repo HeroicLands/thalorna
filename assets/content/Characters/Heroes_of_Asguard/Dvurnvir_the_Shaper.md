@@ -392,7 +392,7 @@ Dvurnvir's understanding of the Dreadspawn is unparalleled; he can predict their
 
 **The Wanderers of Mótefnir**—The scattered followers of the Maker who abandons his work, who see Dvurnvir as the most promising practitioner of Mótefnir's creative arts and supply him with rare materials and forbidden texts.
 
-**Aldric of the Panepistemium**—A Panepistemium scholar who secretly funds Dvurnvir's research, fascinated by the practical applications of his work with the Dreadspawn despite the ethical concerns.
+**Arkálís of the Panepistemium**—A Panepistemium scholar who secretly funds Dvurnvir's research, fascinated by the practical applications of his work with the Dreadspawn despite the ethical concerns.
 
 ### Enemies
 

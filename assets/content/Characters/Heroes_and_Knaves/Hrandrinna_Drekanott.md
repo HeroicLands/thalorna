@@ -429,7 +429,7 @@ Despite the demands of her craft, Hrandrinna carries herself with an easy grace 
 
 ### The Wild Child
 
-Hrandrinna Drekanótt was born into a family of thatchers in the northern reaches of the [[affiliation-kingdomlgn|Kingdom of Malagna]], where the climate is harsh, the winters are long, and every roof is a battleground between human ingenuity and the relentless forces of nature. Her father, Hjalmar Drekanótt, was a skilled thatcher of considerable reputation, and her mother, Keira, was the daughter of a timber merchant with a shrewd business sense. From her earliest years, Hrandrinna showed an unusual combination of traits for her gender and station: she possessed her father's natural skill with materials and structural concepts, combined with her mother's eye for a better method and for money.
+Hrandrinna Drekanótt was born into a family of thatchers in the northern reaches of the [[affiliation-kingdomlgn|Kingdom of Malagna]], where the climate is harsh, the winters are long, and every roof is a battleground between human ingenuity and the relentless forces of nature. Her father, Hjalmar Drekanótt, was a skilled thatcher of considerable reputation, and her mother, Glarvynda, was the daughter of a timber merchant with a shrewd business sense. From her earliest years, Hrandrinna showed an unusual combination of traits for her gender and station: she possessed her father's natural skill with materials and structural concepts, combined with her mother's eye for a better method and for money.
 
 Rather than being confined to the domestic tasks expected of a girl, Hrandrinna was permitted—and encouraged—by her father to work alongside him on roofs. By age twelve, she was already assisting on full contracts. By sixteen, she was working on significant projects largely independently, with her father supervising and providing guidance rather than doing the work himself. Her unusual path raised eyebrows in conservative communities, but her competence was undeniable, and in a trade where quality work was more valued than social convention, she gradually earned acceptance.
 
@@ -502,8 +502,8 @@ Bishop Rúnhildr of the Thrúnvald Temple
 
 ### Enemies
 
-Aldwin the Conventional
-: A neighboring thatcher of considerable age and conservative methods, Aldwin views Hrandrinna's new methods as dangerous shortcuts that compromise quality. He has publicly criticized her work and attempted to persuade clients away from her, viewing her success as a threat to the traditional understanding of the craft. Their disagreement over the craft has become tinged with personal dislike.
+Dvilgthann the Conventional
+: A neighboring thatcher of considerable age and conservative methods, Dvilgthann views Hrandrinna's new methods as dangerous shortcuts that compromise quality. He has publicly criticized her work and attempted to persuade clients away from her, viewing her success as a threat to the traditional understanding of the craft. Their disagreement over the craft has become tinged with personal dislike.
 
 ### Affiliations
 
@@ -514,7 +514,7 @@ The Craftspeople's Collective of Malagna
 
 1. **The Commission from Across the Realm**: An emissary from a distant region, hearing of Hrandrinna's reputation for new methods, arrives with an unusual commission: to design and oversee the construction of a roof for a structure with architectural specifications completely outside her previous experience—perhaps a tower, a dome, or a structure designed for a climate dramatically different from her native region. The challenge excites her as a craftsperson, but accepting means leaving her established base and risking her reputation on unfamiliar ground.
 
-2. **The Injured Competitor**: Aldwin the Conventional suffers a serious injury that incapacitates him, and his family approaches Hrandrinna requesting assistance. Accepting would require her to temporarily take on his contracts and potentially even apply her own methods to his existing projects—which might be perceived as opportunistic or as the final blow against him. Refusing seems callous, but accepting means becoming entangled in a complex situation with real social consequences.
+2. **The Injured Competitor**: Dvilgthann the Conventional suffers a serious injury that incapacitates him, and his family approaches Hrandrinna requesting assistance. Accepting would require her to temporarily take on his contracts and potentially even apply her own methods to his existing projects—which might be perceived as opportunistic or as the final blow against him. Refusing seems callous, but accepting means becoming entangled in a complex situation with real social consequences.
 
 3. **The Structural Secret**: While working on the roof of an ancient building, Hrandrinna discovers evidence that the structure's thatch is part of an elaborate system designed to collect water, channel it through hidden pipes, or even (she suspects) contain some form of magical property or hidden chamber. Investigating further could expose her to danger or unwanted attention from whoever created the original system.
 

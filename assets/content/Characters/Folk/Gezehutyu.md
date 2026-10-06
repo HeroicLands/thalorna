@@ -1,6 +1,6 @@
 ---
 shortcode: gezehutyu2
-name: {full: Gezehutyu, aliases: [Gezê]}
+name: {full: Balinta, aliases: []}
 type: being
 subType: npc
 description: "A wealthy advocate whose successes owe more to the arrangement of witnesses than to the law, and who is very hard to prove anything against"
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Gezehutyu is a 46-year-old woman who stands 5'11" tall with a heavy build. She has golden skin, graying black hair, and brown eyes.
+Balinta is a 46-year-old woman who stands 5'11" tall with a heavy build. She has golden skin, graying black hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Gezehutyu practices as a wealthy advocate out of [[place-galezkara|Galezkara]], and the courtroom record shows more wins than the law alone explains. Witnesses tend to arrange themselves conveniently before this advocate's cases are heard. Proving exactly how has defeated everyone who has tried.
+Balinta practices as a wealthy advocate out of [[place-galezkara|Galezkara]], and the courtroom record shows more wins than the law alone explains. Witnesses tend to arrange themselves conveniently before this advocate's cases are heard. Proving exactly how has defeated everyone who has tried.
