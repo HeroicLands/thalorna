@@ -72,6 +72,7 @@
         "lint:drift": "node utils/nordmal-drift.mjs",
         "lint:nordmal-lexicon": "node utils/lexicons/nordmal-lexicon.mjs",
         "lint:nordmal-concordance": "node utils/nordmal-concordance-check.mjs",
+        "lint:sinale-lexicon": "node utils/lexicons/sinale-lexicon.mjs",
         "lint:varokhi-lexicon": "node utils/lexicons/varokhi-lexicon.mjs"
     },
     "devDependencies": {
