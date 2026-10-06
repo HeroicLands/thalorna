@@ -41,3 +41,9 @@ jobs:
         uses: HeroicLands/.github/.github/workflows/release-foundry-package.yml@main
         with:
             package-kind: module
+        # The release app opens the Version Packages pull request, so its
+        # checks run (HeroicLands/.github README, "The release app"). Absent
+        # secrets fall back to GITHUB_TOKEN.
+        secrets:
+            RELEASE_APP_ID: ${{ secrets.RELEASE_APP_ID }}
+            RELEASE_APP_PRIVATE_KEY: ${{ secrets.RELEASE_APP_PRIVATE_KEY }}
