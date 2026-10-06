@@ -2,7 +2,7 @@
 
 Thalorna's supporting notes form a **complete reference**. The Adventurer's Guides offer an introduction to a culture and routes into that reference. The notes beyond them carry the depth: regions, settlements, ruins, maps, leaders and government, institutions, livelihoods, crop yields, weather patterns, people, creatures, and lore. A reader can follow an interesting subject from a guide into as much detail as the setting holds.
 
-**These notes exist to be a pleasure to read.** Their reader is a player or a GM, and the purpose of the whole corpus is to make Thalorna approachable, readable and interesting to them. It is not an encyclopedia that sets out the facts and stops. A note earns its reader's attention the way a good teacher does: it opens on something worth knowing, it comes from someone who knows the subject, and it carries the reader from that first hook into the detail.
+**These notes exist to be a pleasure to read.** Their reader is a player or a GM, and the purpose of the whole corpus is to make Thalorna approachable, readable and interesting to them. It is not an encyclopedia that sets out the facts and stops. A note earns its reader's attention the way a good teacher does: it opens on something worth knowing, it comes from someone who knows the subject, and it carries the reader from that first hook into the detail. Writing its writer enjoyed is usually writing its reader enjoys.
 
 Completeness and readability belong together. A settlement's population, harvest, ruler, and defenses may be essential facts, but a string of figures alone rarely helps a player imagine being there or a GM bring the place to life. Explain what those facts mean to the people who live with them. Keep precise information easy to find; give it context that makes it memorable and useful.
 
@@ -10,7 +10,7 @@ This document draws on Deborah Teramis Christian and Bruce A. Heard's _The Gazet
 
 ## The central distinction
 
-The authors distinguish the **master reference** from a shorter guide that selects and reshapes material for newcomers. Thalorna has both forms. Its corpus holds the full account; each Adventurer's Guide is a welcoming entrance to one culture. This distinction governs **scope**, not whether the detailed notes can be engaging.
+The authors distinguish the **master reference** from a shorter guide that selects and reshapes material for newcomers. Thalorna has both forms. Its corpus holds the full account; each Adventurer's Guide is a welcoming entrance to one culture, and [Writing an Adventurer's Guide](Adventurers_Guides/README.md) sets out how one is made. This distinction governs **scope**, not whether the detailed notes can be engaging.
 
 The supporting notes must work as reference: a reader should be able to find the name of a leader, the location of a ruin, or a normal rainfall pattern. They can also offer a traveler's or inhabitant's view of those facts. A factual account and a vivid account serve the same subject, and often belong together in one note.
 
@@ -23,11 +23,11 @@ Cover the detail appropriate to the subject. Use a table, field, map, or concise
 The manual offers a broad checklist for developing and checking the setting. Different notes give these subjects the space they need:
 
 - **History:** origins, turning points, recent events, timelines, and the myths people tell about them. History explains present customs and conflicts; recent events give people something to argue about and adventurers something to do.
-- **Place:** landforms, climate, seasons, ecology, resources, waterways, routes, settlements, and maps. Geography should shape where people live, trade, travel, and build defenses. If magic changes the expected pattern, show its consequences.
+- **Place:** landforms, climate, seasons, ecology, resources, waterways, routes, settlements, and maps. Geography should shape where people live, trade, travel, and build defenses. If magic changes the expected pattern, show its consequences. Where a feature defies the land around it—a desert between forest and sea—give the reason, even in a sentence.
 - **Livelihood:** population, rural and urban life, resources, production, trade, wealth, currency, and the practical effects of technology or magic.
-- **Society:** how locals see themselves and how outsiders see them; law, faith, family life, festivals, language, names, symbols, art, and attitudes toward death and ancestors.
-- **Power:** rulers, courts, diplomacy, military forces, institutions, and organizations. Give groups goals, motives, allies, opponents, and meaningful points of friction.
-- **People, places, and creatures:** select figures and sites that reveal how the setting works. Give characters more than offices or titles; give creatures a place in the environment and culture rather than treating them as interchangeable encounters.
+- **Society:** how locals see themselves and how outsiders see them; law, faith, family life, festivals, language, names, symbols, art, and attitudes toward death and ancestors. For law, ask where a shopkeeper goes after a night burglary: most order rests on custom and the pressure of neighbors, force escalates only when those fail, and an armed patrol is rarely the first answer.
+- **Power:** rulers, courts, diplomacy, military forces, institutions, and organizations. Give groups goals, motives, allies, opponents, and meaningful points of friction. Name what kind of body a group is and make it behave as one, since a guild, an order, a brotherhood and a criminal ring work differently; say how a person joins, what the rite of entry asks, whether there is an inner circle, and what happens to a member who betrays it.
+- **People, places, and creatures:** select figures and sites that reveal how the setting works. Give characters more than offices or titles; give creatures a place in the environment and culture rather than treating them as interchangeable encounters. Ground a people's traits in their own culture and nature, never in a genre's stock version of them: a people who work stone or keep old woods are not therefore the familiar dwarves or elves. The most convincing creatures exploit their habitat better than anything else in it, often out of sight.
 - **Story potential:** connect current tensions, competing aims, unusual places, and local beliefs to situations that players or writers can act on.
 
 The authors stress cause and effect. A resource changes trade; trade changes roads and ports; roads and ports change political power. Likewise, common magic or a distinctive climate should have visible effects on ordinary life. Show these connections in the relevant notes, so readers understand a living system rather than a collection of unrelated facts. Research into real places can supply believable detail, provided the resulting setting has its own logic and identity.
@@ -36,9 +36,13 @@ The authors stress cause and effect. A resource changes trade; trade changes roa
 
 The book presents two ways to find what is distinctive about a setting. A **hook-first** approach chooses a compelling idea and develops a world that supports it. A **history-first** approach lets the setting's geography, institutions, and events develop, then identifies what has become most interesting. The manual's practical chapters mostly use the first approach, while Christian favors the internal consistency that can emerge from the second. For an established corpus, the useful question is what is already distinctive about this place, and how its history, geography, and institutions explain that distinction. Do not force every note toward a single dramatic hook.
 
+One test serves every region and polity overview: it says in a sentence what this place is about. Pair that sentence with the specialty an outsider remembers the place for—its swords, its wine, its archives, its flood—and the overview has its hook.
+
 ## Choose a voice that suits the subject
 
 **The natural voice is someone who knows the subject teaching it to someone new.** A god and that god's festival are best explained by one of the god's priests—a high priest, or a low priest with the patience for a newcomer—speaking to a person who has just arrived at the temple. A region is described by someone who has lived and worked in it, talking to a traveler who has not. A guild is explained by a member bringing on an apprentice, a law by the person who enforces it, a road by the carter who drives it. The speaker knows what a newcomer needs first, what a newcomer gets wrong, and which story makes the point stick. That teaching stance is what makes a note approachable, and it is the default for every subject a person in the setting could teach. The speaker addresses the newcomer directly, so second person is the ordinary form of these passages.
+
+A teacher orders the lesson. Begin with **common knowledge**—what a local grows up knowing and a newcomer has to be told—and move from what any child knows to what an informed adult knows: who rules, then on what terms, then who opposes them this year. A warning is one of the strongest teaching devices: what gets a newcomer into trouble carries a rule and the attitude behind it in one sentence, and it is often the first thing a priest or a local says.
 
 The manual suggests describing society **from within** through the voices of people who occupy different places in it: a farmer, noble, soldier, ruler, or person outside the law. It also suggests **outside views** from travelers, merchants, pilgrims, diplomats, and others. These perspectives reveal living conditions, motives, assumptions, and conflicts that a neutral description can miss. They should not all sound alike or claim to speak for an entire culture.
 
@@ -47,6 +51,8 @@ A sage, guide, priest, steward, farmer, merchant, or other knowledgeable local c
 The speaker is **an option, not a template** for every note. Maps, rosters, measurements, and procedures often need a direct reference voice. Even in a narrated note, the reader must be able to locate the facts without extracting them from a long monologue. A voice can frame a section or provide an occasional quotation while the surrounding prose explains the subject plainly. An attributed speaker may use first person; the note's explanatory prose need not adopt that voice.
 
 An in-world speaker has limits. They may be mistaken, partisan, or unaware of a secret. Signal whose account the reader is hearing, and distinguish belief, rumor, and contested memory from established setting facts. The manual points out that legends often preserve what people believe rather than what happened. That difference can enrich a note, provided the reader can tell which claim is which.
+
+The speaker's allegiance colors the whole lesson, not only its disputed points. A temple scribe's pride in the old kingdom, condescension toward its neighbors, or a veiled warning about what the authorities tolerate can show between the lines without the note ever stating it. Point of view also limits what is told: an official leaves out what discredits those in power, an exile has little good to say of them, and a hill shepherd has nothing to report from court. Choose the speaker whose knowledge fits what the note must teach, and let the reference prose carry what that speaker would not say.
 
 ## Keep the reference boundary
 

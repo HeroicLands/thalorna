@@ -6,11 +6,24 @@ The _Sword Coast Adventurer's Guide_ is a model for the job: welcome a traveler,
 
 ## Voice
 
-Write with the warmth and confidence of someone who knows the country and wants to show it to a newcomer. Start with a journey, an encounter, or a choice a character can picture. Put a temple hall, a toll gate, a workshop, or a flood crossing in view before explaining the institution behind it. Address the reader directly when it helps them choose a place or a role. Let each culture sound like itself.
+Write with the warmth and confidence of someone who knows the country and wants to show it to a newcomer. Start with a journey, an encounter, or a choice a character can picture. Put a temple hall, a toll gate, a workshop, or a flood crossing in view before explaining the institution behind it. The guide teaches a newcomer, so it addresses the reader directly as **you**; second person is its ordinary form, not an occasional device. Let each culture sound like itself.
+
+[Writing Thalorna's gazetteer notes](../README-gazeteer.md) governs a guide's prose as it does every other note's: its teaching voice, the sentence rules, the reference boundary, name marking, American spelling, and Chicago dashes all apply here. This document adds what is particular to a guide.
 
 Give the reader reasons to be curious. A useful paragraph says what makes a place distinctive **and** what a party might do there. Tension can be a disputed claim, a journey that needs a guide, a festival that gathers rivals, or an obligation someone cannot settle. Wonder and ordinary life matter too: food, craft, worship, learning, hospitality, and the rhythms of the year give characters something to care about.
 
 Keep claims grounded in the corpus. A guide can suggest a possible adventure without declaring an unwritten event to be established fact. Describe a culture's beliefs as its people's beliefs where the wider world does not establish them as fact. Make room for local variation and for characters who disagree with their neighbors.
+
+## Frame, speaker and level
+
+A guide is **rewritten, not abridged**. Cutting the reference notes down to their first paragraphs produces a list of summaries. Decide what the guide is for, choose what a newcomer needs from the whole corpus, put it in the order a newcomer needs it, and write it fresh. Drafting one usually exposes something the reference does not say yet; that fact belongs in a reference note as well as in the guide.
+
+Settle four things before drafting:
+
+- **The reader's role.** Give the reader a situation: a traveler arriving upriver, a hired hand, a pilgrim, a new recruit. A role lets the guide speak to the reader's circumstances and filters what belongs in it.
+- **Who is speaking, and why.** A trader meeting a hired hand on the quay, a temple scribe briefing a petitioner, and a border warden warning a caravan each deliver different material in a different tone.
+- **What the speaker can know.** An official leaves out what discredits the regime; an exile has little good to say of it; a hill shepherd has nothing to report from court. The speaker's allegiance can also show between the lines—pride in the old kingdom, condescension toward its neighbors, a veiled warning—without the guide stating it. Choose the speaker whose limits suit the guide, and let the linked notes carry what that speaker would not say.
+- **The level of information.** Common knowledge is what a local grows up knowing and a foreigner has to be told. Move from what any child knows to what an informed adult knows—who rules, then on what terms, then who opposes them this year—and stop before the guide tries to be complete. A guide sets the tone, answers the first questions, and leaves the reader wanting the rest.
 
 ## How the prose works
 
@@ -42,10 +55,12 @@ If it makes sense, you may continue using the character from the story throughou
 - **A map of choices.** Name the lands, settlements, roads, seasons, and borders that give parties different places to begin. Explain what changes from one to another.
 - **People and institutions.** Show who holds authority, who offers work or shelter, and what a character owes to a household, guild, temple, ruler, or other community.
 - **Culture in use.** Explain the customs, faith, language, money, and magic that affect an ordinary encounter or a character's decisions. Link to the full account for detail.
+- **The one thing to understand first.** State early and plainly the idea the rest of the guide depends on, as the Aû'Khelâthu guide does with the written promise.
+- **What gets a newcomer into trouble.** Give the laws, taboos, and courtesies a stranger can break without knowing it as the speaker's warnings. A warning carries the rule and the culture's attitude toward it at once.
 - **Ways into play.** Offer several grounded character ties and campaign starts. Give the GM a place, a claim on the party, and people with reasons to act. Put information meant only for the GM in a secret passage.
 - **Paths onward.** Give major regions, polities, religions, institutions, and lineages clear routes from the guide. Include people and creatures where they belong in the setting, using a query for a complete list when the corpus has a reliable field to select them.
 
-The guide should be enough to begin play. About 2,000 words is a useful target for the guide as a whole, with room to describe the journey, explain the choices, and show how people live. Let the needs of the culture and the reader determine the final length. Detailed rosters, histories, procedures, and taxonomies belong in their own notes; the guide explains why a reader might want to follow them.
+The guide should be enough to begin play. About 2,000 words is a useful target for the guide as a whole, with room to describe the journey, explain the choices, and show how people live. Let the needs of the culture and the reader determine the final length. Detailed rosters, histories, procedures, and taxonomies belong in their own notes; the guide explains why a reader might want to follow them. Keep history to what the reader needs to make sense of the present, and when more is needed, give it its own treatment—a told story or an attributed account—rather than a run of dates.
 
 ## The path through the corpus
 
