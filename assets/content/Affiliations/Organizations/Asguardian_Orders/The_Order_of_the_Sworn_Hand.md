@@ -82,7 +82,7 @@ The order's central principle is **the unblunted ruling**—that judgment must b
 Procedurally, the order observes three working forms:
 
 - **The Riding**—a knight on circuit hears cases brought to him at successive halls along his route; rulings are delivered orally and recorded by a present skald (or, in skald absence, by the knight's own hand on a sealed parchment delivered to the nearest chapter hall).
-- **The Convened Ting**—for matters too weighty for a riding ruling, a knight convenes a formal ting under the order's wand of office, with local witnesses, the contesting parties, and (where available) a Lögskald for procedural recitation.
+- **The Convened Ting**—for matters too weighty for a riding ruling, a knight convenes a formal ting under the order's wand of office, with local witnesses, the contesting parties, and (where available) a Lögskáld for procedural recitation.
 - **The Judgment by Combat**—where the law of the kingdom in question permits and the parties demand, a knight will arbitrate or personally undertake trial by combat. The order's knights are competent in combat by design; a party demanding judgment by combat against a Sworn Hand is choosing to fight a trained warrior, and that prospect is itself a settling influence on the more frivolous demands.
 
 ## Notable Members

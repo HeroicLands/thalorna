@@ -101,7 +101,8 @@
             "why": "the Azuathis rank and the generic vow-bound standing are not the retired Nordheimn devotional-order rank Dróttmadr",
             "paths": [
                 "assets/content/Affiliations/Divine/Khelathi/Faith_of_Azuathis.md",
-                "assets/content/Lore/Ranks/Vow_Bound_Devotee.md"
+                "assets/content/Lore/Ranks/Vow_Bound_Devotee.md",
+                "assets/content/Affiliations/Divine/Varnaka/Varnaka_Pantheon.md"
             ],
             "kinds": []
         },
@@ -125,7 +126,8 @@
                 "assets/content/Regions/Ankaris/Vedyara/Bhumipala.md",
                 "assets/content/Regions/Ankaris/Vedyara/Chandrapur.md",
                 "assets/content/Regions/Ankaris/Vedyara/Gomarga.md",
-                "assets/content/Regions/Ankaris/Vedyara/Vindhyalaya.md"
+                "assets/content/Regions/Ankaris/Vedyara/Vindhyalaya.md",
+                "assets/content/Lore/Vedyari_Lexicon.md"
             ],
             "kinds": []
         },
@@ -1387,12 +1389,12 @@
         },
         {
             "oldName": "Haugbúar",
-            "oldAliases": ["haugbúar", "Haugbúi"],
+            "oldAliases": ["haugbúar", "Haugbúi", "Haugverdir", "haugverdir"],
             "oldPath": null,
             "oldShortcode": null,
             "oldAddress": null,
             "oldImage": null,
-            "newName": "Haugverdir",
+            "newName": "Hrúmverdir",
             "newAliases": [],
             "newPath": "assets/content/Lore/Bestiary/Haugverdir.md",
             "newShortcode": "haugverdir",
@@ -1403,12 +1405,14 @@
             "type": "lore",
             "subType": "bestiary",
             "description": "The north's howe-wardens: Náhild's mindless raised dead, and the dead said to keep their own mounds.",
-            "note": "howe-wardens, a common noun. Other forms: _haugbúar_ — lower-case form; _Haugbúi_ — singular of Haugbúar, live on main beside it in the same sentence; written out rather than matched through an inflection.",
-            "prose": "Haugverdir, the howe-wardens, is a northern word for undead put to two uses. Both name a body that moves after death, and both name something touched by the Shadow, which binds every undead to every other across every belief and culture. The two uses keep their own meanings, and the word does not make one of the other.",
+            "note": "howe-wardens, a common noun: _hrúm-_ \"a howe\" + `-verdir` \"wardens\". Other forms: _haugbúar_ — lower-case form; _Haugbúi_ — singular of Haugbúar, written out rather than matched through an inflection; _Haugverdir_ and _haugverdir_ — built on _haug-_, the Old Norse word for a howe, which the Norse review recoined as _hrúm-_.",
+            "prose": "Hrúmverdir, the howe-wardens, is a northern word for undead put to two uses. Both name a body that moves after death, and both name something touched by the Shadow, which binds every undead to every other across every belief and culture. The two uses keep their own meanings, and the word does not make one of the other.",
             "oldRefPaths": [
                 "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Faith_of_Hel.md:73:5",
                 "754a84b67:assets/content/Lore/Bestiary/Undead.md:36:319",
-                "6e137b8c0:assets/content/Affiliations/Divine/Asguardian/Faith_of_Hel.md:98:75"
+                "6e137b8c0:assets/content/Affiliations/Divine/Asguardian/Faith_of_Hel.md:98:75",
+                "c94d79e1074901c1a13ce87a9a670a2e15f60ff8:assets/content/Lore/Bestiary/Haugverdir.md:3:14",
+                "c94d79e1074901c1a13ce87a9a670a2e15f60ff8:assets/content/Lore/Bestiary/Haugverdir.md:15:82"
             ],
             "boldKind": "phrase"
         },
@@ -2466,7 +2470,7 @@
         },
         {
             "oldName": "Skorrborg",
-            "oldAliases": null,
+            "oldAliases": ["Lögnheim"],
             "oldPath": "assets/content/Regions/Ankaris/Nordlands/Malagna/Skorrborg.md",
             "oldShortcode": "skorrborg",
             "oldAddress": "place-skorrborg",
@@ -2482,10 +2486,11 @@
             "type": "place",
             "subType": "settlement",
             "description": null,
-            "note": "_gnarth-_ \"the set of a jaw that will not open\" (hard grade) + _-borg_ (unchanged) — the note gives only \"Fortified Town\"; the stem's unyielding sense matches a defended stronghold where no further detail is given",
+            "note": "_gnarth-_ \"the set of a jaw that will not open\" (hard grade) + _-borg_ (unchanged) — the note gives only \"Fortified Town\"; the stem's unyielding sense matches a defended stronghold where no further detail is given; Lögnheim, the crown two Malagnan polities were written as sitting under, names nothing the notes describe but the kingdom's seat, so it is folded into this row and the polities sit under the crown at Gnarthborg",
             "prose": null,
             "oldRefPaths": [
-                "b71855eb9:assets/content/Regions/Ankaris/Nordlands/Malagna/Skorrborg.md:3:14"
+                "b71855eb9:assets/content/Regions/Ankaris/Nordlands/Malagna/Skorrborg.md:3:14",
+                "8f18005fcbb4abb47f472f6c83f84ca4e1b6c4f2:assets/content/Regions/Ankaris/Nordlands/Malagna/Grimvar.md:34:41"
             ],
             "boldKind": "none"
         },
@@ -6814,9 +6819,9 @@
             "newTags": null,
             "type": "lore",
             "subType": "rank",
-            "description": "A master's pupil for ten to fifteen years, entitled to present a drápa, in the Skalds' Circle.",
+            "description": "A master's pupil for ten to fifteen years, entitled to present a gyldra, in the Skalds' Circle.",
             "note": "the reader's tongue: the standing is a pupillage of ten to fifteen years, and the Circle names it plainly",
-            "prose": "Level 1 of the Skalds' Circle: a master's pupil for ten to fifteen years, entitled to present a drápa.",
+            "prose": "Level 1 of the Skalds' Circle: a master's pupil for ten to fifteen years, entitled to present a gyldra.",
             "oldRefPaths": [],
             "boldKind": "none",
             "kinds": []
@@ -13991,13 +13996,13 @@
             "boldKind": "none"
         },
         {
-            "oldName": null,
+            "oldName": "Nýstead",
             "oldAliases": null,
             "oldPath": null,
             "oldShortcode": null,
             "oldAddress": null,
             "oldImage": null,
-            "newName": "Nýstead",
+            "newName": "Hrindstead",
             "newAliases": null,
             "newPath": null,
             "newShortcode": null,
@@ -14007,8 +14012,8 @@
             "newTags": null,
             "type": "place",
             "subType": "settlement",
-            "description": "The Nalthmark settlement planted on old hall-posts in a grove the Thragvel claim.",
-            "note": "_ný-_ \"new\" + the generic `-stead` \"a farmstead\". _ný-_ is no element of the lexicon and names nothing a place may be held from, so the place rule rejects the name; renaming or admitting it is the owner's call. `oldName: null` — nothing is retired; the name stands in canon as written",
+            "description": "The Nalthmark settlement planted on old hall-posts in a grove the Eichthúl claim.",
+            "note": "_hrind-_ \"a thing set down that will not be moved\" (middle grade) + the generic `-stead` \"a farmstead\": the settlers' old hall-posts, planted in the grove and built on again after the first stockade burned. Nýstead carried _ný-_ \"new\", which is no element of the lexicon and names nothing a place may be held from.",
             "prose": null,
             "oldRefPaths": [
                 "8f18005fcbb4abb47f472f6c83f84ca4e1b6c4f2:assets/content/Regions/Ankaris/Nordlands/Nordheim/History/Nordheim_Histories.md:33:11"
@@ -14016,13 +14021,13 @@
             "boldKind": "none"
         },
         {
-            "oldName": null,
+            "oldName": "Saltberg",
             "oldAliases": null,
             "oldPath": null,
             "oldShortcode": null,
             "oldAddress": null,
             "oldImage": null,
-            "newName": "Saltberg",
+            "newName": "Skulfheim",
             "newAliases": null,
             "newPath": null,
             "newShortcode": null,
@@ -14033,7 +14038,7 @@
             "type": "place",
             "subType": "settlement",
             "description": "A Norgaad place near whose galleries miners knock on their timber before going in.",
-            "note": "_salt-_ + _berg-_ \"a crag\". Neither _salt-_ nor a closing `-berg` is in the lexicon, so the place rule rejects the name; renaming or admitting it is the owner's call. `oldName: null` — nothing is retired; the name stands in canon as written",
+            "note": "_skulf-_ \"the shudder in ice before it gives\" (deep grade) + the generic `-heim` \"a settled place\": the mining place whose miners knock and listen for the mountain's warning before they enter a gallery. Saltberg carried _salt-_ and a closing _berg_, neither an element the place rule admits.",
             "prose": null,
             "oldRefPaths": [
                 "8f18005fcbb4abb47f472f6c83f84ca4e1b6c4f2:assets/content/Regions/Ankaris/Nordlands/Norgaad/History/Norgaad_Histories.md:32:15"
@@ -14041,13 +14046,13 @@
             "boldKind": "none"
         },
         {
-            "oldName": null,
+            "oldName": "Hörgrvik",
             "oldAliases": null,
             "oldPath": null,
             "oldShortcode": null,
             "oldAddress": null,
             "oldImage": null,
-            "newName": "Hörgrvik",
+            "newName": "Hörgsvík",
             "newAliases": null,
             "newPath": null,
             "newShortcode": null,
@@ -14058,7 +14063,7 @@
             "type": "place",
             "subType": "settlement",
             "description": "A named hof whose godi the faith counts among its notable offices.",
-            "note": "_hörgr_ \"an open stone altar\" + _vik_. The rule's form is `hörgs-` with the generic `-vík`, so the name as written breaks both halves; the lawful spelling would be Hörgsvík, which is the owner's call. `oldName: null` — nothing is retired; the name stands in canon as written",
+            "note": "`hörgs-`, a sanctuary cut into the rock, + the generic `-vík` \"an inlet\": the lawful form of the hof's name. Hörgrvik wrote the bare _hörgr_ at the seam and an unaccented _vik_, breaking both halves of the place rule.",
             "prose": null,
             "oldRefPaths": [
                 "8f18005fcbb4abb47f472f6c83f84ca4e1b6c4f2:assets/content/Lore/Ranks/Nordheimn/Faiths_of_the_Ten/Godi.md:30:81"
@@ -14066,13 +14071,13 @@
             "boldKind": "none"
         },
         {
-            "oldName": null,
+            "oldName": "Skarnethra",
             "oldAliases": null,
             "oldPath": null,
             "oldShortcode": null,
             "oldAddress": null,
             "oldImage": null,
-            "newName": "Skarnethra",
+            "newName": "Kruldheim",
             "newAliases": null,
             "newPath": null,
             "newShortcode": null,
@@ -14083,7 +14088,7 @@
             "type": "place",
             "subType": "settlement",
             "description": "Where the Nordmen buy thralls.",
-            "note": "No generic and no element the lexicon publishes; the notes do not say whether the market is a Nordmal place or a foreign one, so the name is recorded and its tongue left to the owner. `oldName: null` — nothing is retired; the name stands in canon as written",
+            "note": "_kruld-_ \"a load a beast carries without complaint\" (deep grade) + the generic `-heim` \"a settled place\": the market where the Nordmen buy thralls. Skarnethra carried no generic and no element of the lexicon.",
             "prose": null,
             "oldRefPaths": [
                 "8f18005fcbb4abb47f472f6c83f84ca4e1b6c4f2:assets/content/Lore/Ranks/Nordheimn/Kinship_Kingdoms/Thrall.md:14:100"
@@ -14091,13 +14096,13 @@
             "boldKind": "none"
         },
         {
-            "oldName": null,
+            "oldName": "Kjaldar",
             "oldAliases": null,
             "oldPath": null,
             "oldShortcode": null,
             "oldAddress": null,
             "oldImage": null,
-            "newName": "Kjaldar",
+            "newName": "Flarnfjall",
             "newAliases": null,
             "newPath": null,
             "newShortcode": null,
@@ -14108,7 +14113,7 @@
             "type": "place",
             "subType": "feature",
             "description": "The mountains of central Norgaad above Tvarnmark and the Shattered Peaks.",
-            "note": "Opens on `kj`, which no Nordmal name opens on, and carries no generic; recorded as written, its form an owner question. `oldName: null` — nothing is retired; the name stands in canon as written",
+            "note": "_flarn-_ \"a flake of stone split off by frost\" (hard grade) + the generic `-fjall` \"a mountain\": the range of central Norgaad whose dark stone frost splits into the Shattered Peaks. Kjaldar opened on `kj`, which no Nordmal name opens on, and carried no generic.",
             "prose": null,
             "oldRefPaths": [
                 "8f18005fcbb4abb47f472f6c83f84ca4e1b6c4f2:assets/content/Regions/Ankaris/Nordlands/Norgaad/Tvarnmark.md:13:45"
@@ -14116,38 +14121,13 @@
             "boldKind": "none"
         },
         {
-            "oldName": null,
+            "oldName": "Thragvel",
             "oldAliases": null,
             "oldPath": null,
             "oldShortcode": null,
             "oldAddress": null,
             "oldImage": null,
-            "newName": "Lögnheim",
-            "newAliases": null,
-            "newPath": null,
-            "newShortcode": null,
-            "newAddress": null,
-            "newImage": null,
-            "newHome": null,
-            "newTags": null,
-            "type": "place",
-            "subType": "settlement",
-            "description": "The crown Malagna's polities are said to sit under; the notes give it no account of its own.",
-            "note": "_lögn_ + the generic `-heim`. _lögn_ is not `lög-`, the law as recited, and names nothing a place may be held from, so the place rule rejects it; what the name refers to is itself unsettled. `oldName: null` — nothing is retired; the name stands in canon as written",
-            "prose": null,
-            "oldRefPaths": [
-                "8f18005fcbb4abb47f472f6c83f84ca4e1b6c4f2:assets/content/Regions/Ankaris/Nordlands/Malagna/Grimvar.md:34:41"
-            ],
-            "boldKind": "none"
-        },
-        {
-            "oldName": null,
-            "oldAliases": null,
-            "oldPath": null,
-            "oldShortcode": null,
-            "oldAddress": null,
-            "oldImage": null,
-            "newName": "Thragvel",
+            "newName": "Eichthúl",
             "newAliases": null,
             "newPath": null,
             "newShortcode": null,
@@ -14157,8 +14137,8 @@
             "newTags": null,
             "type": "affiliation",
             "subType": "people",
-            "description": "The people whose grove the Nalthmark settlers took at Nýstead.",
-            "note": "The neighboring people of the Nalthmark grove. The notes do not say which tongue names them, so the row claims no Nordmal form and the lexicon does not judge it. `oldName: null` — nothing is retired; the name stands in canon as written",
+            "description": "The Varokhi clan whose grove the Nalthmark settlers took at Hrindstead.",
+            "note": "Varokhi _eich-_ \"an oak\" + `-thúl` \"one who endures and bears a charge\": the Oak Wardens, a Varokhi clan of the grove's oaks. A Varokhi name, so the Nordmal rules do not judge it.",
             "prose": null,
             "oldRefPaths": [
                 "8f18005fcbb4abb47f472f6c83f84ca4e1b6c4f2:assets/content/Regions/Ankaris/Nordlands/Nordheim/History/Nordheim_Histories.md:33:49"
@@ -14167,13 +14147,13 @@
             "kinds": []
         },
         {
-            "oldName": null,
+            "oldName": "Drékhar",
             "oldAliases": null,
             "oldPath": null,
             "oldShortcode": null,
             "oldAddress": null,
             "oldImage": null,
-            "newName": "Drékhar",
+            "newName": "Vrellbrandr",
             "newAliases": null,
             "newPath": null,
             "newShortcode": null,
@@ -14183,8 +14163,8 @@
             "newTags": null,
             "type": "miscgear",
             "subType": "weapon",
-            "description": "The sword named Thirst said to be bound behind the king's seat at Tvalgard.",
-            "note": "Carries `kh` outside a clan name and decomposes into no published elements, so the compound rule rejects it; renaming or admitting it is the owner's call. `oldName: null` — nothing is retired; the name stands in canon as written",
+            "description": "The sword its tellers call Thirst, said to be bound behind the king's seat at Tvalgard.",
+            "note": "_vrell-_ \"blood\" + `-brandr` \"a brand, either a firebrand or a blade\": the blood-brand, the sword that must drink when it is drawn, which its tellers call Thirst. Drékhar carried `kh` outside a clan name and decomposed into no published elements.",
             "prose": null,
             "oldRefPaths": [
                 "8f18005fcbb4abb47f472f6c83f84ca4e1b6c4f2:assets/content/Regions/Ankaris/Nordlands/Targud/History/Targud_Histories.md:18:56"
@@ -14317,7 +14297,7 @@
             "boldKind": "none"
         },
         {
-            "oldName": null,
+            "oldName": "hirdskaldar",
             "oldAliases": null,
             "oldPath": null,
             "oldShortcode": null,
@@ -14334,16 +14314,17 @@
             "type": "namestock",
             "subType": "rank",
             "description": "A court skald in formal service to a jarl or king.",
-            "note": "_hird-_ \"a king's household troop\" + _skáld_. The lexicon's closing element is `-skald` without the acute while the Circle's rank is Skáld, so neither the office rule nor the compound rule admits the form; which spelling stands is the owner's call. `oldName: null` — nothing is retired; the name stands in canon as written",
+            "note": "_hird-_ \"a king's household troop\" + `-skáld`, the office suffix for a sworn skald holding a charge. The Circle's rank and the offices built on it carry the accent, plural Hirdskáldar; the unaccented hirdskaldar is retired.",
             "prose": null,
             "oldRefPaths": [
-                "8f18005fcbb4abb47f472f6c83f84ca4e1b6c4f2:assets/content/Affiliations/Organizations/Skalds_Circle.md:82:72"
+                "8f18005fcbb4abb47f472f6c83f84ca4e1b6c4f2:assets/content/Affiliations/Organizations/Skalds_Circle.md:82:72",
+                "c94d79e1074901c1a13ce87a9a670a2e15f60ff8:assets/content/Affiliations/Organizations/Skalds_Circle.md:94:11"
             ],
             "boldKind": "none"
         },
         {
-            "oldName": null,
-            "oldAliases": null,
+            "oldName": "Lögskald",
+            "oldAliases": ["Lögskaldar"],
             "oldPath": null,
             "oldShortcode": null,
             "oldAddress": null,
@@ -14359,10 +14340,12 @@
             "type": "namestock",
             "subType": "rank",
             "description": "A law-skald, who recites legal precedent.",
-            "note": "_lög-_ \"the law as it is recited\" + _skáld_; the same spelling question as Hirdskáld. The Sworn Hand note and the Circle's own succession passage also write it Lögskald and Lögskaldar. `oldName: null` — nothing is retired; the name stands in canon as written",
+            "note": "_lög-_ \"the law as it is recited\" + `-skáld`, the office suffix for a sworn skald holding a charge; plural Lögskáldar. The unaccented Lögskald and Lögskaldar are retired.",
             "prose": null,
             "oldRefPaths": [
-                "8f18005fcbb4abb47f472f6c83f84ca4e1b6c4f2:assets/content/Affiliations/Organizations/Skalds_Circle.md:82:200"
+                "8f18005fcbb4abb47f472f6c83f84ca4e1b6c4f2:assets/content/Affiliations/Organizations/Skalds_Circle.md:82:200",
+                "c94d79e1074901c1a13ce87a9a670a2e15f60ff8:assets/content/Affiliations/Organizations/Asguardian_Orders/The_Order_of_the_Sworn_Hand.md:85:206",
+                "c94d79e1074901c1a13ce87a9a670a2e15f60ff8:assets/content/Affiliations/Organizations/Skalds_Circle.md:114:280"
             ],
             "boldKind": "none"
         },
@@ -14392,13 +14375,13 @@
             "boldKind": "none"
         },
         {
-            "oldName": null,
+            "oldName": "aettarfall",
             "oldAliases": null,
             "oldPath": null,
             "oldShortcode": null,
             "oldAddress": null,
             "oldImage": null,
-            "newName": "aettarfall",
+            "newName": "svelthfell",
             "newAliases": null,
             "newPath": null,
             "newShortcode": null,
@@ -14408,8 +14391,8 @@
             "newTags": null,
             "type": "namestock",
             "subType": "mythfurniture",
-            "description": "The kin-fell above Marvstead.",
-            "note": "_aettar_, a kin's, + _fall_: the kin-fell. Neither piece is a published element (`-aett` closes a compound only), so the compound rule rejects it; the owner's call. `oldName: null` — nothing is retired; the name stands in canon as written",
+            "description": "The death-fell above Marvstead.",
+            "note": "_svelth-_ \"death\", the fourth-grade word, + `-fell` \"a bare hill\": the death-fell, an ordinary word for the cliff the old are said to have gone over in the Three Winters rather than a name. aettarfall carried _aettar_ and _fall_, neither a published element.",
             "prose": null,
             "oldRefPaths": [
                 "8f18005fcbb4abb47f472f6c83f84ca4e1b6c4f2:assets/content/Regions/Ankaris/Nordlands/Nordheim/History/Nordheim_Histories.md:20:2"
@@ -14467,13 +14450,13 @@
             "boldKind": "none"
         },
         {
-            "oldName": null,
+            "oldName": "haugmaedr",
             "oldAliases": null,
             "oldPath": null,
             "oldShortcode": null,
             "oldAddress": null,
             "oldImage": null,
-            "newName": "haugmaedr",
+            "newName": "hrúmsmódir",
             "newAliases": null,
             "newPath": null,
             "newShortcode": null,
@@ -14484,7 +14467,7 @@
             "type": "namestock",
             "subType": "mythfurniture",
             "description": "The mothers of the older clans laid beneath the stones at Hörgsvangr.",
-            "note": "_haug-_ \"a howe\" + _maedr_, mothers. _maedr_ is no published element, so the compound rule rejects it; the owner's call. `oldName: null` — nothing is retired; the name stands in canon as written",
+            "note": "_hrúm-_ \"a howe\" with a genitive `-s` + `-módir` \"a mother\": the howe's mothers. haugmaedr carried _haug-_, recoined as _hrúm-_ because it was the Old Norse word for a howe, and _maedr_, which is no published element.",
             "prose": null,
             "oldRefPaths": [
                 "8f18005fcbb4abb47f472f6c83f84ca4e1b6c4f2:assets/content/Regions/Ankaris/Nordlands/Nordheim/History/Nordheim_Histories.md:64:57"
@@ -14540,6 +14523,33 @@
                 "8f18005fcbb4abb47f472f6c83f84ca4e1b6c4f2:assets/content/Regions/Ankaris/Nordlands/Norgaad/History/Norgaad_Histories.md:41:32"
             ],
             "boldKind": "none"
+        },
+        {
+            "oldName": "drápa",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "gyldra",
+            "newAliases": null,
+            "newPath": null,
+            "newShortcode": null,
+            "newAddress": null,
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "namestock",
+            "subType": "mythfurniture",
+            "description": "The praise-poem a skald's apprentice presents at a Skaldating to be sworn into the Circle.",
+            "note": "_gyldr-_ \"a praise-poem\", a root of its own, in the vocabulary's own form _gyldra_. drápa is the Old Norse word for the same thing, so the owner retired it. An ordinary word rather than a name, so the name rules do not judge it.",
+            "prose": null,
+            "oldRefPaths": [
+                "c94d79e1074901c1a13ce87a9a670a2e15f60ff8:assets/content/Affiliations/Organizations/Skalds_Circle.md:18:83",
+                "c94d79e1074901c1a13ce87a9a670a2e15f60ff8:assets/content/Lore/Ranks/Nordheimn/Skalds_Circle/Skald.md:14:61"
+            ],
+            "boldKind": "none",
+            "kinds": []
         }
     ],
     "standingCoinages": {

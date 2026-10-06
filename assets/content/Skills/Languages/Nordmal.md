@@ -176,18 +176,18 @@ A skald teaching you the tongue starts with the words a hall cannot do without: 
 
 A skald's craft has a word for every kind of thing he makes, and a hall judges him partly by whether he knows which one he has made. A _gyldra_ is paid for with a ring; a _hnúra_ is never paid for at all. A piece is called by its kind before anything else, so a lament for a ship's crew is a _skiphnúra_ and needs no other title. The saga itself is _stórald_, one of the words the tongue keeps whole.
 
-| word        | what it names                                        | how it is built                                                              |
-| ----------- | ---------------------------------------------------- | ---------------------------------------------------------------------------- |
-| `gyldra`    | a praise-poem, made for a lord and paid with a ring  | a root of its own; `gyldr-` in front of a seam                               |
-| `hnerv`     | a refrain, the line that returns between stanzas     | _hnarv_, the notch cut to count off a year, in the fourth grade              |
-| `hulma`     | a kenning, a thing named in other words              | a root of its own; `hulm-` in front of a seam                                |
-| `hnúra`     | a lament                                             | a root of its own; `hnúr-` in front of a seam                                |
-| `skreld`    | a flyting, an exchange of insults in verse           | _skrald_, a cry the wind carries further than it should, in the fourth grade |
-| `snerv`     | a prophecy, a seeress's foretelling                  | _snarv_, the hour before weather arrives, in the fourth grade                |
-| `knelth`    | a charm, a binding sung and never written down       | _knalth_, an oath that binds without being written, in the fourth grade      |
-| `relth`     | a telling, a tale short of a saga, given at a hearth | _ralth_, how far a voice carries over water, in the fourth grade             |
-| `dyrma`     | a lay, a poem that tells a story                     | a root of its own                                                            |
-| `haugminni` | the grave-ale, the cup drunk to the dead at the howe | `haug-`, a howe, and `-minni`, a cup drunk to a memory                       |
+| word         | what it names                                        | how it is built                                                              |
+| ------------ | ---------------------------------------------------- | ---------------------------------------------------------------------------- |
+| `gyldra`     | a praise-poem, made for a lord and paid with a ring  | a root of its own; `gyldr-` in front of a seam                               |
+| `hnerv`      | a refrain, the line that returns between stanzas     | _hnarv_, the notch cut to count off a year, in the fourth grade              |
+| `hulma`      | a kenning, a thing named in other words              | a root of its own; `hulm-` in front of a seam                                |
+| `hnúra`      | a lament                                             | a root of its own; `hnúr-` in front of a seam                                |
+| `skreld`     | a flyting, an exchange of insults in verse           | _skrald_, a cry the wind carries further than it should, in the fourth grade |
+| `snerv`      | a prophecy, a seeress's foretelling                  | _snarv_, the hour before weather arrives, in the fourth grade                |
+| `knelth`     | a charm, a binding sung and never written down       | _knalth_, an oath that binds without being written, in the fourth grade      |
+| `relth`      | a telling, a tale short of a saga, given at a hearth | _ralth_, how far a voice carries over water, in the fourth grade             |
+| `dyrma`      | a lay, a poem that tells a story                     | a root of its own                                                            |
+| `hrúmsminni` | the grave-ale, the cup drunk to the dead at the howe | `hrúm-`, a howe, and `-minni`, a cup drunk to a memory, with a genitive `-s` |
 
 ### The hearth and the hall
 
@@ -229,7 +229,7 @@ A coast that misses its whales goes hungry before midwinter, so the hunt has its
 
 ### The body and the grave
 
-The tongue speaks of the dead plainly and of death slant. A grave is a grave, and a pyre is a fire's grave and a ship-burial a ship's, while death itself is the cold that comes off open water. A howe is _haug_, the barrow raised over a grave, and it stands in the element lexicon.
+The tongue speaks of the dead plainly and of death slant. A grave is a grave, and a pyre is a fire's grave and a ship-burial a ship's, while death itself is the cold that comes off open water. A howe is _hrúm_, the barrow raised over a grave, and it stands in the element lexicon.
 
 | word        | what it names | how it is built                                                      |
 | ----------- | ------------- | -------------------------------------------------------------------- |
@@ -374,13 +374,12 @@ the closing row carries whatever the strong `-r` or the doubled letter adds.
 | `ald-`, `aldr-`, `aldar-` | an age, and the age's                     |
 | `ás-`, `as-`              | a god of the defending kin                |
 | `bandalag-`               | a league of sworn companies               |
-| `berg-`, `bjarg-`         | a crag                                    |
 | `bjarn-`                  | a bear                                    |
 | `bjart-`                  | bright                                    |
 | `blót-`                   | a sacrifice made at a hof                 |
+| `blym-`                   | a victory won                             |
 | `breld-`                  | a coal, an ember kept alive               |
 | `bú-`                     | an estate worked for a lord               |
-| `dag-`                    | a day                                     |
 | `dreka-`                  | a dragon                                  |
 | `dresk-`                  | a beacon                                  |
 | `drótt-`                  | a war-band sworn to one man               |
@@ -392,24 +391,25 @@ the closing row carries whatever the strong `-r` or the doubled letter adds.
 | `flöm-`                   | blubber                                   |
 | `fölm-`                   | sickness                                  |
 | `fösk-`                   | ash, what a fire leaves                   |
-| `frjáls-`                 | free, and sworn to no lord                |
-| `frost-`                  | frost                                     |
 | `fród-`                   | the peace that wisdom buys                |
+| `frost-`                  | frost                                     |
+| `fryld-`                  | free, and sworn to no lord                |
 | `ginn-`                   | the yawning void beyond creation          |
 | `glerv-`                  | oil rendered for a lamp                   |
+| `glúd-`                   | a day                                     |
 | `gnúm-`                   | a clay pot                                |
 | `grím-`                   | a mask                                    |
 | `grön-`                   | green, and growing                        |
-| `grá-`                    | gray                                      |
 | `gull-`                   | gold                                      |
 | `gyldr-`                  | a praise-poem                             |
 | `haf-`                    | the open sea                              |
 | `hallar-`                 | a great hall's                            |
 | `hamar-`                  | a hammer                                  |
-| `haug-`                   | a howe, a barrow                          |
 | `heims-`                  | the world's                               |
 | `hers-`                   | a host under arms                         |
 | `hird-`                   | a king's household troop                  |
+| `hlöm-`                   | gray                                      |
+| `hnell-`                  | steel                                     |
 | `hnerv-`                  | a refrain                                 |
 | `hnoll-`                  | a skull                                   |
 | `hnúr-`                   | a lament                                  |
@@ -420,6 +420,7 @@ the closing row carries whatever the strong `-r` or the doubled letter adds.
 | `hrend-`                  | a boundary marker                         |
 | `hrím-`                   | rime                                      |
 | `hring-`                  | a ring given at a hall                    |
+| `hrúm-`                   | a howe, a barrow                          |
 | `hug-`                    | thought                                   |
 | `hulm-`                   | a kenning                                 |
 | `hvelm-`                  | a whale                                   |
@@ -448,17 +449,17 @@ the closing row carries whatever the strong `-r` or the doubled letter adds.
 | `relth-`                  | a telling                                 |
 | `rún-`                    | a rune                                    |
 | `sár-`                    | a wound                                   |
-| `sigr-`                   | a victory won                             |
 | `skald-`, `skalda-`       | a skald, and the skalds'                  |
 | `skelf-`                  | the ice-edge                              |
 | `skip-`                   | a ship                                    |
 | `skjálf-`                 | a shaking                                 |
 | `skreld-`                 | a flyting                                 |
+| `skrom-`                  | a crag                                    |
 | `ský-`                    | cloud                                     |
 | `smid-`                   | a craftsman                               |
 | `snerv-`                  | a prophecy                                |
+| `snýr-`                   | wind                                      |
 | `sól-`                    | the sun                                   |
-| `stál-`                   | steel                                     |
 | `stein-`                  | stone                                     |
 | `stórald-`                | a saga                                    |
 | `storm-`                  | a storm                                   |
@@ -477,84 +478,83 @@ the closing row carries whatever the strong `-r` or the doubled letter adds.
 | `vél-`                    | a wile                                    |
 | `vetr-`                   | winter                                    |
 | `víg-`                    | a battle joined                           |
-| `vind-`                   | wind                                      |
 | `vörn-`                   | a defense held                            |
 | `vrell-`                  | blood                                     |
 | `vyld-`                   | grain                                     |
 
 **Elements that close a compound.**
 
-| element                     | what it names                            |
-| --------------------------- | ---------------------------------------- |
-| `-aett`                     | a kin reckoned together                  |
-| `-aldr`                     | an age                                   |
-| `-ask`                      | an ash-tree                              |
-| `-auga`                     | an eye                                   |
-| `-bandalag`                 | a league of sworn companies              |
-| `-beri`                     | one who bears a thing                    |
-| `-blót`                     | a sacrifice                              |
-| `-borinn`                   | one born of a thing                      |
-| `-börn`                     | children                                 |
-| `-brandr`                   | a brand, either a firebrand or a blade   |
-| `-brunnr`                   | a well                                   |
-| `-dómr`                     | a judgment given                         |
-| `-drengir`                  | warriors                                 |
-| `-dulm`                     | a grave                                  |
-| `-dyrma`                    | a lay                                    |
-| `-efnir`                    | one in the making                        |
-| `-eldr`                     | fire                                     |
-| `-fadir`, `-módir`          | the father or mother of a hof            |
-| `-gar`, `-geir`             | a spear                                  |
-| `-gengir`                   | ones that go                             |
-| `-godi`                     | a priest-chieftain                       |
-| `-grímr`                    | a mask                                   |
-| `-grind`                    | a gate                                   |
-| `-guard`                    | an enclosed world                        |
-| `-gyldra`                   | a praise-poem                            |
-| `-hamarr`                   | a hammer                                 |
-| `-heim`                     | a home                                   |
-| `-hild`                     | a battle                                 |
-| `-hnerv`                    | a refrain                                |
-| `-hnúra`                    | a lament                                 |
-| `-höfdingi`                 | a chieftain                              |
-| `-höll`                     | a great hall                             |
-| `-hönd`                     | a hand                                   |
-| `-hringr`, `-ringr`         | a ring, and a circle of sworn men        |
-| `-hulma`                    | a kenning                                |
-| `-káppar`                   | champions                                |
-| `-lid`                      | a company in the field                   |
-| `-lok`                      | a close, an end                          |
-| `-madr`                     | a man holding a station                  |
-| `-maelir`, `-maelendir`     | one that speaks, and ones that speak     |
-| `-mál`                      | speech, and the voice a body speaks with |
-| `-minni`                    | a cup drunk to a memory                  |
-| `-nár`                      | a corpse, and the dead that linger       |
-| `-nótt`                     | night                                    |
-| `-ormr`                     | a wyrm                                   |
-| `-reid`                     | a ride                                   |
-| `-rót`                      | a root                                   |
-| `-rún`                      | a rune                                   |
-| `-sal`                      | a hall raised for a god                  |
-| `-skald`                    | a poet whose verse is a realm's memory   |
-| `-skari`                    | a troop                                  |
-| `-skel`                     | a shell, and a plate of iron             |
-| `-skírdr`                   | one made clean                           |
-| `-skjöldr`                  | a shield                                 |
-| `-skreld`                   | a flyting                                |
-| `-snerv`                    | a prophecy                               |
-| `-stjóri`                   | the master of a thing                    |
-| `-sveld`                    | a seat                                   |
-| `-systur`                   | sisters                                  |
-| `-thur`                     | a giant                                  |
-| `-ting`                     | the lawful assembly                      |
-| `-úlfr`                     | a wolf                                   |
-| `-vald`                     | one who wields                           |
-| `-vangr`                    | a field                                  |
-| `-var`, `-vördr`, `-verdir` | a ward, a keeper                         |
-| `-vargr`                    | an outlaw, a wolf in the law's eye       |
-| `-ven`                      | one who dwells in a place                |
-| `-vin`, `-vinir`            | a friend                                 |
-| `-völl`                     | the field a battle is fought on          |
+| element                     | what it names                               |
+| --------------------------- | ------------------------------------------- |
+| `-aett`                     | a kin reckoned together                     |
+| `-aldr`                     | an age                                      |
+| `-ask`                      | an ash-tree                                 |
+| `-auga`                     | an eye                                      |
+| `-bandalag`                 | a league of sworn companies                 |
+| `-beri`                     | one who bears a thing                       |
+| `-blenn`                    | one made clean                              |
+| `-blót`                     | a sacrifice                                 |
+| `-borinn`                   | one born of a thing                         |
+| `-börn`                     | children                                    |
+| `-brandr`                   | a brand, either a firebrand or a blade      |
+| `-dómr`                     | a judgment given                            |
+| `-drengir`                  | warriors                                    |
+| `-dulm`                     | a grave                                     |
+| `-dyrma`                    | a lay                                       |
+| `-efnir`                    | one in the making                           |
+| `-eldr`                     | fire                                        |
+| `-fadir`, `-módir`          | a father or a mother, and the head of a hof |
+| `-gar`, `-geir`             | a spear                                     |
+| `-gengir`                   | ones that go                                |
+| `-godi`                     | a priest-chieftain                          |
+| `-grímr`                    | a mask                                      |
+| `-grind`                    | a gate                                      |
+| `-guard`                    | an enclosed world                           |
+| `-gyldra`                   | a praise-poem                               |
+| `-hamarr`                   | a hammer                                    |
+| `-heim`                     | a home                                      |
+| `-hild`                     | a battle                                    |
+| `-hnerv`                    | a refrain                                   |
+| `-hnúra`                    | a lament                                    |
+| `-höfdingi`                 | a chieftain                                 |
+| `-höll`                     | a great hall                                |
+| `-hönd`                     | a hand                                      |
+| `-hringr`, `-ringr`         | a ring, and a circle of sworn men           |
+| `-hrúd`                     | a well                                      |
+| `-hulma`                    | a kenning                                   |
+| `-káppar`                   | champions                                   |
+| `-lid`                      | a company in the field                      |
+| `-lok`                      | a close, an end                             |
+| `-madr`                     | a man holding a station                     |
+| `-maelir`, `-maelendir`     | one that speaks, and ones that speak        |
+| `-mál`                      | speech, and the voice a body speaks with    |
+| `-minni`                    | a cup drunk to a memory                     |
+| `-nár`                      | a corpse, and the dead that linger          |
+| `-nótt`                     | night                                       |
+| `-ormr`                     | a wyrm                                      |
+| `-reid`                     | a ride                                      |
+| `-rót`                      | a root                                      |
+| `-rún`                      | a rune                                      |
+| `-sal`                      | a hall raised for a god                     |
+| `-skald`                    | a poet whose verse is a realm's memory      |
+| `-skari`                    | a troop                                     |
+| `-skel`                     | a shell, and a plate of iron                |
+| `-skjöldr`                  | a shield                                    |
+| `-skreld`                   | a flyting                                   |
+| `-snerv`                    | a prophecy                                  |
+| `-stjóri`                   | the master of a thing                       |
+| `-sveld`                    | a seat                                      |
+| `-systur`                   | sisters                                     |
+| `-thur`                     | a giant                                     |
+| `-ting`                     | the lawful assembly                         |
+| `-úlfr`                     | a wolf                                      |
+| `-vald`                     | one who wields                              |
+| `-vangr`                    | a field                                     |
+| `-var`, `-vördr`, `-verdir` | a ward, a keeper                            |
+| `-vargr`                    | an outlaw, a wolf in the law's eye          |
+| `-ven`                      | one who dwells in a place                   |
+| `-vin`, `-vinir`            | a friend                                    |
+| `-völl`                     | the field a battle is fought on             |
 
 ### Place names
 
@@ -608,19 +608,22 @@ A place name is an element and a generic, and the generic says what kind of plac
 
 An office is an element and one of the office suffixes, and the suffix says what kind of authority it is. An order takes the same shape, with a plural suffix where the order is its members rather than its head.
 
-| suffix              | what it makes                 |
-| ------------------- | ----------------------------- |
-| `-aett`             | a kin taken as a body         |
-| `-beri`             | the bearer of a thing         |
-| `-fadir`, `-módir`  | the head of a hof             |
-| `-godi`             | a priest-chieftain            |
-| `-madr`             | a man of a station            |
-| `-mál`              | the voice a body speaks with  |
-| `-stjóri`           | the master of a thing         |
-| `-vald`             | one who wields an authority   |
-| `-vördr`, `-verdir` | the ward or keeper of a thing |
+| suffix              | what it makes                  |
+| ------------------- | ------------------------------ |
+| `-aett`             | a kin taken as a body          |
+| `-beri`             | the bearer of a thing          |
+| `-fadir`, `-módir`  | the head of a hof              |
+| `-godi`             | a priest-chieftain             |
+| `-madr`             | a man of a station             |
+| `-mál`              | the voice a body speaks with   |
+| `-stjóri`           | the master of a thing          |
+| `-vald`             | one who wields an authority    |
+| `-vördr`, `-verdir` | the ward or keeper of a thing  |
+| `-skáld`            | a sworn skald holding a charge |
 
-**An office suffix answers for something—a hof, a kin, a station, an authority, a thing kept or wielded—rather than naming what a member has become.** A closing element that marks a stage climbed in a ladder of trust, a trial survived, or a deed done is not an office suffix, however senior the standing it carries: `-höfdingi` names a chieftain's seniority among peers and stays in the general lexicon, while `-stjóri` names the one office of a muster's or a household's master and stands in the table above. `-mál` makes the chair an order elects to speak for it, so the chair of [[affiliation-thursborn|the Giant's Children]] is the **Sármál**, that of [[affiliation-gronverdir|the Green Wardens]] the **Grönmál** and that of [[affiliation-ordrstrmspkrs|the Storm-Speakers]] the **Hamarsmál**, and [[affiliation-malldbndlg|the Compact]] names its Speaker the **Bandalagstalsmadr**, a man of the league's speech. The nine suffixes are closing elements like any other, so a compound that takes one is judged the same way every compound is; what sets an office apart from a rank is never the element alone but what it is asked to answer for.
+**An office suffix answers for something—a hof, a kin, a station, an authority, a thing kept or wielded—rather than naming what a member has become.** A closing element that marks a stage climbed in a ladder of trust, a trial survived, or a deed done is not an office suffix, however senior the standing it carries: `-höfdingi` names a chieftain's seniority among peers and stays in the general lexicon, while `-stjóri` names the one office of a muster's or a household's master and stands in the table above. `-mál` makes the chair an order elects to speak for it, so the chair of [[affiliation-thursborn|the Giant's Children]] is the **Sármál**, that of [[affiliation-gronverdir|the Green Wardens]] the **Grönmál** and that of [[affiliation-ordrstrmspkrs|the Storm-Speakers]] the **Hamarsmál**, and [[affiliation-malldbndlg|the Compact]] names its Speaker the **Bandalagstalsmadr**, a man of the league's speech. The ten suffixes are closing elements like any other, so a compound that takes one is judged the same way every compound is; what sets an office apart from a rank is never the element alone but what it is asked to answer for.
+
+**The rank is Skáld.** The [[affiliation-skaldscrcl|Skalds' Circle]] writes its sworn rank, [[lore-skaldrnk|Skáld]], with the acute, and so are the offices built on it: the **Hirdskáld** and the **Lögskáld**, and in the plural the Hirdskáldar and the Lögskáldar. Every other use carries no accent—the kept word _skald_, the `-skald` element, and a skald spoken of as the ordinary noun—so the mark tells a reader when the Circle's standing is meant.
 
 **The words the tongue keeps.** These are words and not names, given whole rather than formed, and a reader meets them as the north's own vocabulary.
 
