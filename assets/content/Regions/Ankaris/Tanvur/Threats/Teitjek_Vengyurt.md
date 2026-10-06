@@ -32,10 +32,6 @@ data:
   packFolder: threats
 ---
 
-# Appearance {#appearance}
-
-TBD
-
 # Dossier {#dossier}
 
 **"Iron Spear Piercing the Clouds"**
