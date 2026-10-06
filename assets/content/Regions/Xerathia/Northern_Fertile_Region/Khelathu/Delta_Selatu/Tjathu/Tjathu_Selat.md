@@ -17,21 +17,13 @@ data:
 
 ## Overview
 
-Tjathu Selat is the land of the [[affiliation-selattjathu|Selat of Tjathu]], one of the [[affiliation-deltaselatu|Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+**Tjathu Selat** is the land of the [[affiliation-selattjathu|Selat of Tjathu]], one of the [[affiliation-deltaselatu|Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and it lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]]. It is the sea-margin of the delta: salt-pans, natron flats, and the curing of the lesser villages' catch.
+
+"Walk on the crust and it holds you, walk where it is wet and it eats your sandal," a salt-raker tells a boy new to the pans, dragging a wooden rake across a bed of white. "The sun does the work. We only get in its way."
 
 ## Character
 
-The sea-margin; salt-pans, natron flats, and the curing of the lesser villages' catch. Beyond the capital the selat is the ordinary Khelâthi landscape of villages, estates and temple lands, worked by farmers who owe a share of the harvest and labor on the canals, and lettered by the scribes who are the one reliable ladder out of the fields.
-
-## Economy
-
-Like every Khelâthi selat it runs on the flood, the harvest and the render—grain to the granaries, labor to the canals and the flood-season works, and a share of everything to the temples and the crown. What it contributes to the empire beyond that is what its character names: the sea-margin; salt-pans, natron flats, and the curing of the lesser villages' catch.
-
-## Notable Features
-
-- [[place-tjathu|Tjathu]]—the selat capital and the Halzi'a's seat
-- The chief temple of [[affiliation-wethur|Faith of Wethûr]] and its estates
-- The sea-margin; salt-pans, natron flats, and the curing of the lesser villages' catch
+The selat is flat, bright and salt, a margin where the sea comes in and the pans fill with brine. The natron flats supply the embalmers of the whole empire. Inland the villages and temple estates grow grain on the usual terms, with a share of the harvest owed to the granaries and labor owed to the canals, and the scribes are the one reliable ladder out of the fields. The chief temple of [[affiliation-wethur|Wethûr]] and its estates hold much of the shore.
 
 ## Settlements
 

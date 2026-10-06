@@ -80,27 +80,23 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Gar-Anlaghet is the first selat of the [[affiliation-deltaselatu|Delta Selatu]] and the richest province in the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—the empire's chief port, its window on the [[place-vylarianse|Vylarian Sea]], and the place where the wealth of forty selatu meets the wealth of the wider world. Its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] is reckoned the wealthiest noble in the realm outside the royal house, and rules less like a provincial governor than like a merchant-prince and diplomat, with the [[affiliation-cnfdrtnhrdnstts|Haradian]] factors, the [[affiliation-zebequzut|Zebequ'Zut]] houses, and the Gar-Aû's customs men all dancing to the rhythm of his harbor. The land it holds is [[place-garanlghtslt|Gar-Anlaghet Selat]].
+The **Selat of Gar-Anlaghet** is the first of the [[affiliation-deltaselatu|Delta Selatu]] and the richest province in the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: the chief port, its window on the [[place-vylarianse|Vylarian Sea]], and the place where the wealth of the whole empire meets the wealth of the wider world. Its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) is reckoned the wealthiest noble in the realm outside the royal house, and governs less like a provincial lord than like a merchant-prince and diplomat. The [[affiliation-cnfdrtnhrdnstts|Haradian]] factors, the [[affiliation-zebequzut|Zebequ'Zut]] houses and the Gar-Aû's customs men all keep time to the rhythm of that harbor. The land the selat holds is [[place-garanlghtslt|Gar-Anlaghet Selat]].
+
+"Four hands are in every purse on this quay," a [[affiliation-garhalzi|Gár-Hálzi]] factor tells a junior of a Bethûan trade-house on her first morning at the waterfront. "The selat takes a fee on the harbor, the customs-house takes the duty, my treasury takes the exchange, and the factors take what is left. Learn which of them you are speaking to before you name a price."
 
 ## Character
 
-Its patron is [[lore-thubaidty|Thubâ'i]], lord of abundance and pleasure, and the selat worships him with the easy confidence of the very rich. The Gar-Anlaghet aristocracy made its money in shipping and trade and thinks in cargoes and margins; it intermarries with foreign merchant houses, keeps villas along the garden coast, and regards the dour landowners of the [[affiliation-upperrivrslt|Upper River Selatu]] as provincial fossils. The river-lords return the favor, muttering that Gar-Anlaghet would sell the Gar-Aû's crown for a good freight-rate—and they are not entirely wrong.
+The selat's patron is [[lore-thubaidty|Thubâ'i]], lord of abundance and pleasure, and its people worship him with the easy confidence of the very rich. The aristocracy made its money in shipping and thinks in cargoes and margins. It intermarries with foreign merchant houses, keeps villas along the garden coast, and regards the dour landowners of the [[affiliation-upperrivrslt|Upper River Selatu]] as provincial fossils. The river-lords return the compliment by muttering that Gar-Anlaghet would sell the Gar-Aû's crown for a good freight-rate, and they are not entirely wrong.
 
-## Economy
-
-The selat takes its cut of all of it—harbor-fees, customs, warehousing, brokerage, and the banking that the [[affiliation-garhalzi|Gár-Hálzi]] treasuries run from its docks.
-
-## Notable Features
-
-- The Gar-Aû's chief customs-station, where the empire taxes its seaborne trade
+The selat takes its cut of everything that passes: harbor-fees, customs, warehousing, brokerage, and the banking that the Gár-Hálzi treasuries run from its docks. The Gar-Aû's chief customs-station stands here, and it is where the empire taxes its seaborne trade.
 
 ## For the Worldbuilder
 
-Gar-Anlaghet is the empire's commercial nerve, and it plays like a great trading port anywhere: customs and smuggling, brokerage and fraud, foreign agents and merchant feuds, the constant friction between Khelâthi customs men and Haradian factors who both want the trade on their own terms. The Halzi'a is a merchant-prince balancing his profit against the Gar-Aû's suspicion that the delta is one bad harvest from selling out the empire. Adventure here is mercantile intrigue, dock-side crime, insurance and cargo swindles, the theft and recovery of bonded goods, foreign espionage in the cosmopolitan quarters, and the dangerous business of who really controls the harbor-fees. What is abundant here is money, foreign goods, and information; what is scarce is grain, loyalty, and any transaction without a cut taken somewhere.
+Gar-Anlaghet is the empire's commercial nerve, and it plays like a great trading port anywhere: customs and smuggling, brokerage and fraud, foreign agents and merchant feuds, and constant friction between Khelâthi customs men and Haradian factors who both want the trade on their own terms. The Halzi'a balances profit against the Gar-Aû's suspicion that the delta is one bad harvest from selling out the empire. Adventures here are mercantile intrigue, dockside crime, insurance and cargo swindles, the theft and recovery of bonded goods, foreign espionage in the cosmopolitan quarters, and the dangerous question of who really controls the harbor-fees. Money, foreign goods and information are abundant. Grain, loyalty and any transaction without a cut taken somewhere are scarce.
 
 ## Commerce and Currency
 
-Gar-Anlaghet uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], but its harbor is the one place in the empire where foreign coin circulates freely and openly, weighed and discounted against the gezan standard by the [[affiliation-garhalzi|Gár-Hálzi]] money-changers of the waterfront. The selat's banking-houses do the empire's heaviest letter-of-credit and foreign-exchange business. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+Gar-Anlaghet uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], but its harbor is the one place in the empire where foreign coin circulates freely and openly, weighed and discounted against the gezan standard by the Gár-Hálzi money-changers of the waterfront. The selat's banking-houses do the empire's heaviest letter-of-credit and foreign-exchange business. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
 
 ## See Also
 

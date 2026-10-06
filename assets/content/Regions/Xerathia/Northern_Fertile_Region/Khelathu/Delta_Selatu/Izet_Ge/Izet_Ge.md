@@ -17,21 +17,13 @@ data:
 
 ## Overview
 
-Izet-Ge is the land of the [[affiliation-selatizetge|Selat of Izet-Ge]], one of the [[affiliation-deltaselatu|Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+**Izet-Ge** is the land of the [[affiliation-selatizetge|Selat of Izet-Ge]], one of the [[affiliation-deltaselatu|Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and it lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]]. Its date-palm plantations and the sweet delta wines are what the empire knows it for.
+
+"A good palm is a long climb and a bad rope," says a man pulling himself up a trunk on a loop of rope, a knife at his belt and a basket on his back. The palms carry dates in heavy clusters under the crown, and the harvest is work for the climbers; the sweet wine follows from the fruit.
 
 ## Character
 
-Date-palm plantations and the sweet delta wines. Beyond the capital the selat is the ordinary Khelâthi landscape of villages, estates and temple lands, worked by farmers who owe a share of the harvest and labor on the canals, and lettered by the scribes who are the one reliable ladder out of the fields.
-
-## Economy
-
-Like every Khelâthi selat it runs on the flood, the harvest and the render—grain to the granaries, labor to the canals and the flood-season works, and a share of everything to the temples and the crown. What it contributes to the empire beyond that is what its character names: date-palm plantations and the sweet delta wines.
-
-## Notable Features
-
-- [[place-izet|Izet]]—the selat capital and the Halzi'a's seat
-- The chief temple of [[affiliation-thubai|Faith of Thubâ'i]] and its estates
-- Date-palm plantations and the sweet delta wines
+Away from the palms, the villages and temple estates grow grain on the usual terms, with a share of the harvest owed to the granaries and labor owed to the canals, and the scribes are the one reliable ladder out of the fields. The chief temple of [[affiliation-thubai|Thubâ'i]] and its estates hold much of the palm country.
 
 ## Settlements
 

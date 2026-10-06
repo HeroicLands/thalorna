@@ -17,21 +17,13 @@ data:
 
 ## Overview
 
-Gar-Shebazet Selat is the land of the [[affiliation-selatgrshbzt|Selat of Gar-Shebazet]], one of the [[affiliation-deltaselatu|Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+"Ask me why the goddess is a cobra and the reeds are hers, and I will point at the marsh," a fowler says to a visitor, setting his throw-stick across his knees in the bow of a reed boat. "That is the whole answer, and nobody here has wanted a longer one." **Gar-Shebazet Selat** is the land of the [[affiliation-selatgrshbzt|Selat of Gar-Shebazet]], one of the [[affiliation-deltaselatu|Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and it lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 
-Papyrus marshes; fowling, reed-craft, and the empire's paper-cutting. Beyond the capital the selat is the ordinary Khelâthi landscape of villages, estates and temple lands, worked by farmers who owe a share of the harvest and labor on the canals, and lettered by the scribes who are the one reliable ladder out of the fields.
+The selat is papyrus marsh. Its people fowl the open water, build reed boats and cut the stems that become the empire's paper, and the cutting and the paper-making are the selat's trade. Inland of the marshes the villages and temple estates grow grain on the usual terms, with a share of the harvest owed to the granaries and labor owed to the canals, and the scribes are the one reliable ladder out of the fields.
 
-## Economy
-
-Like every Khelâthi selat it runs on the flood, the harvest and the render—grain to the granaries, labor to the canals and the flood-season works, and a share of everything to the temples and the crown. What it contributes to the empire beyond that is what its character names: papyrus marshes; fowling, reed-craft, and the empire's paper-cutting.
-
-## Notable Features
-
-- [[place-garshebazet|Gar-Shebazet]]—the selat capital and the Halzi'a's seat
-- The chief temple of [[affiliation-shebazet|Faith of Shebazet]] and its estates
-- Papyrus marshes; fowling, reed-craft, and the empire's paper-cutting
+The chief temple of [[affiliation-shebazet|Shebazet]] and its estates hold much of the marsh. No priest has put the bond between the goddess and the reed-beds into words for an outsider; the delta treats it as too obvious to explain.
 
 ## Settlements
 

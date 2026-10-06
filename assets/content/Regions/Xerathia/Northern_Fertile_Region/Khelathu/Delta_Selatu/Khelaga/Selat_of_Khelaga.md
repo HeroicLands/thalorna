@@ -77,15 +77,17 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Khelaga is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: the delta apex, where the river first divides; old shrines and customs-stations. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-uqaa|Faith of Uqa'â]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-khelagaselat|Khelaga Selat]].
+**Khelaga** sits where the river first divides, and the empire has put a toll on the division. The selat is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], a country of old shrines and customs-stations at the delta apex. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the Gar-Aû at a distance that varies with the strength of the throne. The patron is [[affiliation-uqaa|Uqa'â]], and the selat's religious life runs through his temples and their estates. The land it holds is [[place-khelagaselat|Khelaga Selat]].
+
+"Every boat that goes down to the sea passes my station first," says a customs-station clerk, running a thumb down a column of tallies without looking up. "Most would rather not stop. I have learned to tell the ones that mean to cheat me by how neatly they tie up."
 
 ## Character
 
-Its seat is [[place-khelaga|Khelaga]], where the Halzi'a keeps his court and the selat's chief temple of Uqa'â stands.
+The seat is [[place-khelaga|Khelaga]], where the Halzi'a keeps court and the selat's chief temple of Uqa'â stands. Uqa'â, the sun, is the patron here, and the selat's old shrines and customs-stations stand at the point where the river first divides.
 
 ## Commerce and Currency
 
-Khelaga uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], with the local chapter of [[affiliation-garhalzi|Gár-Hálzi]] attached to its chief temple attesting the weight-pieces and holding the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+Khelaga uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]]. The local chapter of [[affiliation-garhalzi|Gár-Hálzi]] attached to the chief temple attests the weight-pieces and holds the granary accounts, so the customs-stations and the temple measure with the same attested weights. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
 
 ## See Also
 

@@ -77,15 +77,17 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Izet-Ge is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: date-palm plantations and the sweet delta wines. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-thubai|Faith of Thubâ'i]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-izetgenome|Izet-Ge]].
+**Izet-Ge** is the delta selat of date palms and sweet wines, and one of the Delta Selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the Gar-Aû at a distance that varies with the strength of the throne. The patron is [[affiliation-thubai|Thubâ'i]], and the selat's religious life runs through his temples and their estates. The land it holds is [[place-izetgenome|Izet-Ge]].
+
+"Our god has no quarrel with a full cup," a Lem'Nelgir (priest) of Thubâ'i tells a pilgrim in the forecourt of the chief temple, "and neither has our Halzi'a. The vaults hold the wine, the granaries hold the grain, and the grain feeds the people who would otherwise grumble about the wine. Take a cup, then come and be shown the vaults."
 
 ## Character
 
-Its seat is [[place-izet|Izet]], where the Halzi'a keeps his court and the selat's chief temple of Thubâ'i stands.
+The seat is [[place-izet|Izet]], where the Halzi'a keeps court and the selat's chief temple of Thubâ'i stands. Temples of Thubâ'i hold wine vaults and granaries, and in a selat of date plantations and sweet wine the vaults are a working part of the economy and not a symbol of it.
 
 ## Commerce and Currency
 
-Izet-Ge uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], with the local chapter of [[affiliation-garhalzi|Gár-Hálzi]] attached to its chief temple attesting the weight-pieces and holding the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+Izet-Ge uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]]. The local chapter of [[affiliation-garhalzi|Gár-Hálzi]] attached to the chief temple attests the weight-pieces and holds the granary accounts, so the temple that stores the vintage is also the one that vouches for the price. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
 
 ## See Also
 

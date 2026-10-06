@@ -3,7 +3,7 @@ shortcode: selatgezazab
 name: {full: The Selat of Gezazabu, aliases: []}
 type: affiliation
 subType: polity
-description: "Eastern delta port; salt-fish, curing-houses, and the trade road to Bethua—one of the delta selatu of Aû'Khelâthu."
+description: "Eastern delta port; salt-fish, curing-houses, and the trade road to Bethûa—one of the delta selatu of Aû'Khelâthu."
 data:
   banner: khelathubnr
   templatePriority: null
@@ -77,15 +77,15 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Gezazabu is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: eastern delta port; salt-fish, curing-houses, and the trade road to Bethua. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-thubai|Faith of Thubâ'i]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-gezazabuselt|Gezazabu Selat]].
+"Hold it to the light," says a [[affiliation-garhalzi|Gár-Hálzi]] assayer, turning a weight-piece between finger and thumb for a newly arrived carter. "Every selat on this coast tells you what it is by what it sells. **Gezazabu** sells salt-fish, and the whole selat smells of it." The selat is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], an eastern delta port of salt-fish and curing-houses, with the trade road to Bethûa. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the Gar-Aû at a distance that varies with the strength of the throne. The patron is [[affiliation-thubai|Thubâ'i]], and the selat's religious life runs through his temples and their estates. The land it holds is [[place-gezazabuselt|Gezazabu Selat]].
 
 ## Character
 
-Its seat is [[place-gezazabu|Gezazabu]], where the Halzi'a keeps his court and the selat's chief temple of Thubâ'i stands.
+The seat is [[place-gezazabu|Gezazabu]], where the Halzi'a keeps court and the selat's chief temple of Thubâ'i stands. Thubâ'i is the god of abundance and plenty, and a port that lives by the catch and the carrying trade keeps his festivals with a will.
 
 ## Commerce and Currency
 
-Gezazabu uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], with the local chapter of [[affiliation-garhalzi|Gár-Hálzi]] attached to its chief temple attesting the weight-pieces and holding the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+Gezazabu uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]]. The local chapter of [[affiliation-garhalzi|Gár-Hálzi]] attached to the chief temple attests the weight-pieces and holds the granary accounts, and a curing-house that sells a cargo of salt-fish by the barrel is paid in pieces that chapter has weighed. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
 
 ## See Also
 

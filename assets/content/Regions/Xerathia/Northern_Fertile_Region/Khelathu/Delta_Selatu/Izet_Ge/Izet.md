@@ -17,7 +17,9 @@ data:
 
 ## Overview
 
-Izet is the capital of the [[affiliation-selatizetge|Selat of Izet-Ge]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]]. It holds the selat's chief temple of [[affiliation-thubai|Faith of Thubâ'i]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's: date-palm plantations and the sweet delta wines.
+**Izet** is the town where the delta's dates and wine are sold. At a stall near the temple gate, a wine-seller ladles a dark, sweet pour into a clay cup for a passing carter and names the plantation it came from. "Drink it slowly," she says. "It was made slowly." The town is the capital of the [[affiliation-selatizetge|Selat of Izet-Ge]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], with about 45,000 people.
+
+It holds the selat's chief temple of [[affiliation-thubai|Thubâ'i]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its trade is the selat's: date-palm plantations and the sweet delta wines.
 
 ## See Also
 
