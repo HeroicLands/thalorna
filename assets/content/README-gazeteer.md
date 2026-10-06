@@ -2,6 +2,8 @@
 
 Thalorna's supporting notes form a **complete reference**. The Adventurer's Guides offer an introduction to a culture and routes into that reference. The notes beyond them carry the depth: regions, settlements, ruins, maps, leaders and government, institutions, livelihoods, crop yields, weather patterns, people, creatures, and lore. A reader can follow an interesting subject from a guide into as much detail as the setting holds.
 
+**These notes exist to be a pleasure to read.** Their reader is a player or a GM, and the purpose of the whole corpus is to make Thalorna approachable, readable and interesting to them. It is not an encyclopedia that sets out the facts and stops. A note earns its reader's attention the way a good teacher does: it opens on something worth knowing, it comes from someone who knows the subject, and it carries the reader from that first hook into the detail.
+
 Completeness and readability belong together. A settlement's population, harvest, ruler, and defenses may be essential facts, but a string of figures alone rarely helps a player imagine being there or a GM bring the place to life. Explain what those facts mean to the people who live with them. Keep precise information easy to find; give it context that makes it memorable and useful.
 
 This document draws on Deborah Teramis Christian and Bruce A. Heard's _The Gazetteer Writer's Manual: Creating Travel Guides to Fictional Worlds_ to guide the **supporting corpus**. The manual's most useful principle here is that a detailed reference can also offer a tour of a place. Its accounts of history, land, society, and power should help readers understand how the place works and why its details matter.
@@ -35,6 +37,8 @@ The authors stress cause and effect. A resource changes trade; trade changes roa
 The book presents two ways to find what is distinctive about a setting. A **hook-first** approach chooses a compelling idea and develops a world that supports it. A **history-first** approach lets the setting's geography, institutions, and events develop, then identifies what has become most interesting. The manual's practical chapters mostly use the first approach, while Christian favors the internal consistency that can emerge from the second. For an established corpus, the useful question is what is already distinctive about this place, and how its history, geography, and institutions explain that distinction. Do not force every note toward a single dramatic hook.
 
 ## Choose a voice that suits the subject
+
+**The natural voice is someone who knows the subject teaching it to someone new.** A god and that god's festival are best explained by one of the god's priests—a high priest, or a low priest with the patience for a newcomer—speaking to a person who has just arrived at the temple. A region is described by someone who has lived and worked in it, talking to a traveler who has not. A guild is explained by a member bringing on an apprentice, a law by the person who enforces it, a road by the carter who drives it. The speaker knows what a newcomer needs first, what a newcomer gets wrong, and which story makes the point stick. That teaching stance is what makes a note approachable, and it is the default for every subject a person in the setting could teach.
 
 The manual suggests describing society **from within** through the voices of people who occupy different places in it: a farmer, noble, soldier, ruler, or person outside the law. It also suggests **outside views** from travelers, merchants, pilgrims, diplomats, and others. These perspectives reveal living conditions, motives, assumptions, and conflicts that a neutral description can miss. They should not all sound alike or claim to speak for an entire culture.
 
@@ -80,14 +84,7 @@ unresolved. Every pronoun has a named referent, every abstraction is cashed out 
 the sentence that raises it, and the shape of a long sentence comes from
 parallelism rather than from stacked clauses.
 
-When no speaker frames a passage, the explaining voice is a professional describing
-a district to colleagues who will use the account: someone who has walked the
-ground or talked at length to people who have, states what is there, puts the
-figure in the sentence, names the tenant rather than the agricultural sector, and
-says plainly that a road is bad or a place is poor. That voice never tells the
-reader what to feel about a people, never admires its own arrangement of the
-material, and never raises itself. Attributed speakers, anecdotes and concrete
-moments work inside that voice, as the sections above describe.
+When a passage is not framed in a speaker's words, it keeps the teacher's stance in the narrator's own voice: it explains to a newcomer what someone who knows the place or the faith would explain, in the order a newcomer needs it. It states what is there, puts the figure in the sentence, names the tenant rather than the agricultural sector, and says plainly that a road is bad or a place is poor. It does not admire its own arrangement of the material, and it does not hold the reader at arm's length with neutral catalogue prose. Attributed speakers, anecdotes and concrete moments work inside that voice, as the sections above describe.
 
 ### Two failures, and they are opposites
 
