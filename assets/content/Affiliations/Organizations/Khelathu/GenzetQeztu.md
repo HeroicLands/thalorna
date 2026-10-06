@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      The empire's senior commanders in session, retired officers among them. Standing in the council runs on reputation as much as current rank.
     ranks:
       - level: 1
-        title: "Member"
+        title: Seated Commander
         description: >-
-          Participates as a senior or retired commander in the council of the empire's military officers.
+          A senior or retired commander whose counsel the officers he trained still seek.
     offices: {}
   seat: null
   domains: []

@@ -11,13 +11,22 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: stratocracy
+    summary: >-
+      The frontier command holding the forts and wells of Khuqet-Miglet against the desert tribes, its officers keeping the peace with the Dunhari as it suits them, under a commander who answers for the road.
     ranks:
       - level: 1
-        title: "Soldier"
+        title: Soldier
         description: >-
-          Serves in the frontier garrison holding the forts and wells of Khuqet-Miglet on the northern desert road.
+          Posted to the forts and wells of the northern desert road, far from the capital.
+      - level: 2
+        title: Officer
+        description: >-
+          Commands a fort or a well, and keeps or breaks the peace with the Dunhari.
+      - level: 3
+        title: Commander
+        description: >-
+          Answers for the frontier command and the road it holds open.
     offices: {}
   seat: null
   domains: []

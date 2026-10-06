@@ -11,13 +11,18 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: meritocracy
+    summary: >-
+      The scribal schools under Reth'Sa'âr's patronage, taking pupils on ability rather than birth and producing the administrators the imperial state runs on.
     ranks:
       - level: 1
-        title: "Pupil"
+        title: Pupil
         description: >-
-          Studies in the scribal schools maintained under Reth'Sa'âr's patronage, training for the imperial administration.
+          Admitted on ability, studying for the course that leads into the administration.
+      - level: 2
+        title: Teacher
+        description: >-
+          A priest of Reth'Sa'âr training the pupils in the schools.
     offices: {}
   seat: null
   domains: []

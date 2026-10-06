@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      The governing council of the temple of Uznêra, drawn from its senior priestesses and the few men raised high enough to sit beside them. It administers the temple's holdings and sets the calendar of observances.
     ranks:
       - level: 1
-        title: "Member"
+        title: Councillor
         description: >-
-          Sits on Uznêra's governing council as a senior member of the temple priesthood.
+          A senior priestess, or one of the few men raised high enough, seated in the council.
     offices: {}
   seat: null
   domains: []

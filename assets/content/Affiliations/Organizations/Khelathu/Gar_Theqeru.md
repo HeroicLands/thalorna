@@ -11,13 +11,18 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: autocracy
+    summary: >-
+      A noble house whose women carry influence in their own right, and whose patronage reaches into the healing trades. Its master answers for the house and grants or withdraws that patronage.
     ranks:
       - level: 1
-        title: "Member"
+        title: Of the House
         description: >-
-          Belongs to the noble house whose women hold influence in their own right and whose patronage supports the healing trades.
+          Bears the Theqeru name, and the influence it carries in a woman's own right.
+      - level: 2
+        title: Master of the House
+        description: >-
+          Answers at law for the house and holds its patronage of physicians and remedies.
     offices: {}
   seat: null
   domains: []

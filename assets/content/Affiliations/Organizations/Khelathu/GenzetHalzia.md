@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      The Halzi'a of the selats in session, where each province bargains with the imperial centre over taxation and levies and with its neighbors over water, roads and boundaries.
     ranks:
       - level: 1
-        title: "Halzi'a"
+        title: Halzi'a
         description: >-
-          Participates as a provincial governor in the assembled council, representing a selat's interests.
+          Governor of a selat, speaking in session for the province.
     offices: {}
   seat: null
   domains: []

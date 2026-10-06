@@ -11,13 +11,18 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: autocracy
+    summary: >-
+      The pearl-divers' house, whose charter governed the pearl trade until the Gar-Aû dissolved it when the charter lapsed. Its fate is the example every guild master is reminded of.
     ranks:
       - level: 1
-        title: "Member"
+        title: Of the House
         description: >-
-          Belonged to the pearl-divers' house when its charter governed the pearl trade, before the Gar-Aû dissolved it.
+          Belonged to the pearl-divers' house while its charter governed the pearl trade.
+      - level: 2
+        title: Master of the House
+        description: >-
+          Answered for the house and its charter to the Gar-Aû.
     offices: {}
   seat: null
   domains: []

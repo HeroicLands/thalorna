@@ -11,14 +11,17 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: monarchy
+    summary: >-
+      A dynasty of the throne, standing barely a century, whose last Gar-Aû was thrown down and whose name and house were struck from every wall.
     ranks:
       - level: 1
-        title: "Member"
+        title: Of the Dynasty
         description: >-
-          Belonged to the fallen dynasty whose last sovereign was erased from the imperial records for sealing the living into a tomb.
-    offices: {}
+          Belonged to the fallen house, its name struck from every wall with its last sovereign's.
+    offices:
+      Gar-Aû: >-
+        The throne, held by the house's head while the dynasty stood.
   seat: null
   domains: []
   population: 0

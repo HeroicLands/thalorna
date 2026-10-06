@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      The Court of the Nine Moons, a body of the imperial court that conducts its business out of the Gar-Aû's hearing and trades influence, information and favor among its members.
     ranks:
       - level: 1
-        title: "Member"
+        title: Of the Nine Moons
         description: >-
-          Participates in the Court of the Nine Moons, exchanging influence, information and favor outside the Gar-Aû's hearing.
+          Seated in the court's hidden body, trading influence and favor out of the Gar-Aû's hearing.
     offices: {}
   seat: null
   domains: []

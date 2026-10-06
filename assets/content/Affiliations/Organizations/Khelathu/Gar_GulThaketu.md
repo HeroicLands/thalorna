@@ -11,13 +11,18 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: autocracy
+    summary: >-
+      A noble house that commissions arms and armor from the finest smiths and lends its name as a guarantee of their standards to its peers. Its master answers for the house and for the name it lends.
     ranks:
       - level: 1
-        title: "Member"
+        title: Of the House
         description: >-
-          Belongs to the noble house known for commissioning fine arms and armor and vouching for its smiths' standards.
+          Bears the Gul'Thakétu name, and the guarantee the house lends with it.
+      - level: 2
+        title: Master of the House
+        description: >-
+          Answers at law for the house, and for every smith it vouches for.
     offices: {}
   seat: null
   domains: []
