@@ -70,6 +70,158 @@ Vary the scale of explanation. Begin with a concrete sight, sound, smell, action
 
 The manual's treatment of organizations is particularly useful: name what a group does, what it wants, why it wants it, who helps it, and who stands in its way. Give important people the same depth. For creatures, explain their place in the environment and their relationship with neighboring communities. These connections make the notes useful for play without requiring every entry to contain an explicit adventure hook.
 
+## Write sentences a reader understands on the first pass
+
+The prose of these notes is adult reference writing. Sentences run long—twenty to
+forty words is normal—and they use the whole of the punctuation: colons that
+introduce a list, semicolons that join parallel statements, em-dash pairs that
+gloss a term in place. What they never do is leave the reader holding something
+unresolved. Every pronoun has a named referent, every abstraction is cashed out in
+the sentence that raises it, and the shape of a long sentence comes from
+parallelism rather than from stacked clauses.
+
+When no speaker frames a passage, the explaining voice is a professional describing
+a district to colleagues who will use the account: someone who has walked the
+ground or talked at length to people who have, states what is there, puts the
+figure in the sentence, names the tenant rather than the agricultural sector, and
+says plainly that a road is bad or a place is poor. That voice never tells the
+reader what to feel about a people, never admires its own arrangement of the
+material, and never raises itself. Attributed speakers, anecdotes and concrete
+moments work inside that voice, as the sections above describe.
+
+### Two failures, and they are opposites
+
+The first is **opacity**. The writer names a category and never shows an instance,
+leaves _this_ and _it_ pointing at nothing in particular, inverts the sentence so
+the point lands last, and trails a qualification off a dash instead of finishing.
+The reader reaches the full stop holding three unresolved things. This is the
+failure that costs a reader most, and the one a hurried writer produces by default.
+
+The second is **the primer**. Told to be clear, the writer chops every natural
+sentence into fragments, swaps _astronomers_ for _star-watchers_, and writes
+ninety sentences of nine words each. Nothing is hard, and nothing is worth reading.
+A very high readability score is a symptom of this failure, not a sign of success.
+
+Aim between them:
+
+| Test                                           | Target       | The primer failure | The opacity failure |
+| ---------------------------------------------- | ------------ | ------------------ | ------------------- |
+| Words per sentence, mean                       | 22 to 27     | under 12           | over 27             |
+| Longest sentence in a section                  | 35 to 45     | under 20           | over 45             |
+| Flesch reading ease                            | 50 to 72     | over 80            | under 45            |
+| Syllables per word                             | 1.45 to 1.60 | under 1.30         | over 1.65           |
+| Sentences with two or more subordinate clauses | few          | none               | many                |
+
+A low score is not by itself a defect, and neither is a long sentence. A sentence
+carried on a parallel list may run past the cap and still be right, because a colon
+introducing three members reads at speed however long it is. What decides clarity
+is the three rules below.
+
+### Name the referent
+
+A pronoun may not carry an idea the reader has to reconstruct. Where _this_, _it_
+or _that_ points at a whole preceding argument, gloss it in place with an em-dash
+pair, so the reader never has to look back.
+
+### Cash out the abstraction in the sentence that raises it
+
+Never name a category and leave the instance for a later sentence. A colon does
+this work.
+
+> **Opaque.** Two decisions are made at a Closing, and the household hears both.
+>
+> **Clear.** Two decisions are made aloud at a Closing and the household hears
+> both: what the dying man calls in and what he leaves open, and whether his heir
+> will assume what the estate could not cover.
+
+### Carry length on parallelism, not on stacked clauses
+
+A forty-word sentence built from three parallel members reads at speed. A
+twenty-five-word sentence built from _which_, _while_ and _although_ does not.
+
+> **Good length.** The grazing clans supply the herds that feed the realm, the
+> wool and leather that clothe it, and the warriors who defend it.
+>
+> **Bad length.** The pastoral economy of the clans, which varies considerably by
+> region and which has developed over many centuries, reflects an interdependence
+> that is visible throughout Okháric society.
+
+The first names one group doing three things. The second names nobody, and
+_reflects_ adds no fact.
+
+### What still counts as a fault
+
+- **Arguing with an unstated alternative.** _Rather than_, _not merely_, _not
+  simply_, _not just_, _not X but Y_, _which is why_ and _what makes X Y_ argue
+  with a position the reader never took. The summarizing verbs—_reflects_,
+  _embodies_, _represents_, _underpins_, _exemplifies_—add no fact; they restate
+  the sentence before at a higher altitude.
+- **The abstraction with no people in it.** _The construction and maintenance of
+  mounds represents significant labor investment_ holds five abstract nouns and
+  no person. Make the person, the building or the payment the subject: _The
+  mounds take years to raise and constant work to keep._
+- **Evidence stacked in front of the claim.** State the observed facts as facts in
+  their own sentence, then attribute the inference in the next one, in four or
+  five words.
+- **Three subordinate clauses in one sentence.** Two is the working limit, and two
+  is comfortable when they are parallel. Three means the sentence carries an
+  argument it should split.
+- **The invented observer.** A fact followed by a hypothetical person who notices,
+  judges or corrects it—_…, and a Nordman will tell you…_, _…, and anyone who…_,
+  _…, and you will find…_—is filler. Stop at the fact, or make the consequence the
+  subject. A named or specified speaker whose account the note attributes is a
+  different thing, and is welcome.
+- **Talking to the reader in explanatory prose.** No rhetorical questions, no
+  exclamations, no contractions. Second-person address belongs where a note type
+  calls for it—a creature's first-encounter Appearance, a scenario's read-aloud
+  text—and in an attributed speaker's own words.
+
+## State the facts plainly
+
+1. **Assert present institutional fact.** Who rules, how many people live there,
+   which faiths are proscribed, what the muster is: all stated flat.
+2. **Hedge only three things:** the deep past, the supernatural, and what a people
+   claims about itself. Use one hedge, put it early, and let the rest of the
+   sentence stand.
+3. **Qualify a kind of thing; assert a named thing.** _Most manors have a mill_,
+   against _the temple at the ford is closed_.
+4. **Name the person who does the thing.** Not _agricultural labor_ but _the
+   tenant who owes two days' work_; not _the fiscal apparatus_ but _the
+   customs-house_.
+5. **Put the number in the sentence.** _Twenty-four counties._ _A fleet of
+   thirty-seven vessels._ Do not defer to a table what fits in a clause.
+6. **Open a paragraph on its subject or on a concrete moment that leads straight
+   to it.** Never signpost: nothing opens _It is important to note_ or _One of the
+   most interesting features_.
+7. **Write a gap as a fact about the world,** not as a shortfall in the document:
+   _no one has counted them_, never _further work is needed_.
+8. **Report both sides of a quarrel in the same voice.** Never _of course, in
+   reality_.
+9. **Gloss a native term in parentheses at first use,** in one or two English
+   words: _Wazu (acolyte)_. Later uses stand alone.
+10. **Prefer the active voice,** chiefly because rewriting a passive usually finds
+    the person rule 4 wants. Where the actor is unknown or does not matter, the
+    passive is the honest form.
+
+## Set the register by the note's job
+
+One voice works at five settings. The note's job decides which.
+
+| Mode                           | Mean words | Paragraph              | Qualification                   | Used for                                  |
+| ------------------------------ | ---------: | ---------------------- | ------------------------------- | ----------------------------------------- |
+| **A** Thematic essay           |   22 to 26 | about 60 words         | heavy: _most_, _in some places_ | culture, custom, and lore across a region |
+| **B** Gazetteer entry          |   20 to 25 | about 50 words         | light; asserts                  | region, polity, settlement, site          |
+| **C** Register line            |   11 to 14 | about 25 words         | almost none                     | rosters, name lists, See Also glosses     |
+| **D** Narrative history        |   22 to 26 | about 110 words        | moderate                        | history notes and accounts of events      |
+| **E** Apparatus and tool prose |   12 to 16 | two to three sentences | scope, caveat, unit             | rules, items, macros, documentation       |
+
+A culture note describes a kind of institution across many places, so it says
+_most_ and _nearly all_. A settlement note describes this place, so it asserts. A
+history may use a first person plural and allow itself one dry observation in a
+stretch, aimed at a pretension and never at a people. One folklore passage in a
+note—what neighbors say about each other, repeated with visible amusement—is the
+place the compiler's voice relaxes; use it once in a note, or not at all.
+
 ## Guidance by note type
 
 The note types below are those in `package-build/docs/reference/note-types.md`. The reference covers their data fields; this section addresses the body text. The book offers principles for setting description, perspective, and presentation, while the choices for rules and package records are an application of those principles to Thalorna. Choose a voice for the subject and the reader's task. Narration is most valuable when it explains a culture or place; lookup and mechanical entries need direct language first.
@@ -116,7 +268,7 @@ data:
     hair_color: ""
     skin_color: ""
     complexion: ""
-    extra_features: [] # free text — scars, tattoos, bearing, anything else a stranger notices
+    extra_features: [] # free text: scars, tattoos, bearing, anything else a stranger notices
   packFolder: "" # The compendium folder shortcode where the being should be placed. Usually under the "<culture>/Characters/Folk" for NPCs, "<culture>/Characters/Heroes and Knaves" for characters, and Beastiary for creatures.
 ---
 
@@ -179,8 +331,8 @@ TBD.
 **Archetypes** describe characters in broad terms and help match them to an adventure. The list is:
 
 - warrior: Can hold a line and win a fight.
-- skirmisher: Fights light — ambush, missile, mobility.
-- infiltrator: Gets in unseen — locks, stealth, disguise.
+- skirmisher: Fights light—ambush, missile, mobility.
+- infiltrator: Gets in unseen—locks, stealth, disguise.
 - mage: Commands arcane practice.
 - cleric: Commands religious practice and standing.
 - healer: Treats wounds and illness.
@@ -196,7 +348,7 @@ TBD.
 
 Note that archetypes are descriptive, not proscriptive, and a character may be described by multiple archetypes at once.
 `commoner` stands alone: a being with another fitting archetype does not also carry `commoner`.
-It fits labourers, animal trainers, ostlers, and teamsters whose notes establish no more specific role. Use `guildsperson` when education, professional standing, or useful connections matter to the character's part in an adventure; guild membership by itself does not require it.
+It fits laborers, animal trainers, ostlers, and teamsters whose notes establish no more specific role. Use `guildsperson` when education, professional standing, or useful connections matter to the character's part in an adventure; guild membership by itself does not require it.
 
 `socialTies` describes the relationship this being has with other people or affiliations. The possible relationships are:
 
@@ -218,7 +370,7 @@ data:
     being-kaldas: rival
 ```
 
-**Gender, frame and the appearance colours each hold one value from a closed list.** They belong to `character` and `npc` beings; a `creature` states none of them. The English column is the words a reader meets, and the third column is what the value means, because several of these are words people use loosely.
+**Gender, frame and the appearance colors each hold one value from a closed list.** They belong to `character` and `npc` beings; a `creature` states none of them. The English column is the words a reader meets, and the third column is what the value means, because several of these are words people use loosely.
 
 #### `data.gender`
 
@@ -244,32 +396,32 @@ data:
 
 | Value        | English    | What it means                                                                                  |
 | ------------ | ---------- | ---------------------------------------------------------------------------------------------- |
-| `amber`      | Amber      | Golden or coppery, with no grey or green in it; the honey-toned eye.                           |
+| `amber`      | Amber      | Golden or coppery, with no gray or green in it; the honey-toned eye.                           |
 | `blue`       | Blue       | Unmixed blue, from pale ice to deep sea.                                                       |
 | `brown`      | Brown      | Mid-brown, the iris pattern still legible in ordinary light.                                   |
 | `dark_brown` | Dark Brown | Brown so deep the iris barely separates from the pupil. Ordinary description calls this black. |
-| `gray`       | Gray       | Grey or grey-blue, cool and without green.                                                     |
+| `gray`       | Gray       | Gray or gray-blue, cool and without green.                                                     |
 | `green`      | Green      | Green dominant, with no brown ring worth naming.                                               |
 | `hazel`      | Hazel      | Brown and green together, often shifting with the light; the commonest mixed eye.              |
 | `violet`     | Violet     | The pink-violet of an iris carrying no pigment.                                                |
 
 #### `data.appearance.hair_color`
 
-| Value           | English       | What it means                                                             |
-| --------------- | ------------- | ------------------------------------------------------------------------- |
-| `auburn`        | Auburn        | Red-brown with the red dominant.                                          |
-| `black`         | Black         | True black, with no brown cast in sunlight.                               |
-| `blonde`        | Blonde        | Light yellow, from near-white to wheat.                                   |
-| `brown`         | Brown         | Mid-brown, neither dark nor reddish.                                      |
-| `chestnut`      | Chestnut      | Mid-brown with a red cast, the brown dominant — between brown and auburn. |
-| `dark_blonde`   | Dark Blonde   | Blonde darkened towards light brown.                                      |
-| `dark_brown`    | Dark Brown    | Brown approaching black, still brown in sunlight.                         |
-| `gray`          | Gray          | Grey throughout, the original colour no longer legible.                   |
-| `graying_black` | Graying Black | Black still dominant, grey coming in.                                     |
-| `graying_brown` | Graying Brown | Brown still dominant, grey coming in.                                     |
-| `red`           | Red           | Ginger or copper, the red unmixed with brown.                             |
-| `silver`        | Silver        | Grey with a bright metallic sheen rather than a dull cast.                |
-| `white`         | White         | Wholly white, whether from age or from carrying no pigment.               |
+| Value           | English       | What it means                                                           |
+| --------------- | ------------- | ----------------------------------------------------------------------- |
+| `auburn`        | Auburn        | Red-brown with the red dominant.                                        |
+| `black`         | Black         | True black, with no brown cast in sunlight.                             |
+| `blonde`        | Blonde        | Light yellow, from near-white to wheat.                                 |
+| `brown`         | Brown         | Mid-brown, neither dark nor reddish.                                    |
+| `chestnut`      | Chestnut      | Mid-brown with a red cast, the brown dominant—between brown and auburn. |
+| `dark_blonde`   | Dark Blonde   | Blonde darkened toward light brown.                                     |
+| `dark_brown`    | Dark Brown    | Brown approaching black, still brown in sunlight.                       |
+| `gray`          | Gray          | Gray throughout, the original color no longer legible.                  |
+| `graying_black` | Graying Black | Black still dominant, gray coming in.                                   |
+| `graying_brown` | Graying Brown | Brown still dominant, gray coming in.                                   |
+| `red`           | Red           | Ginger or copper, the red unmixed with brown.                           |
+| `silver`        | Silver        | Gray with a bright metallic sheen rather than a dull cast.              |
+| `white`         | White         | Wholly white, whether from age or from carrying no pigment.             |
 
 #### `data.appearance.skin_color`
 
@@ -279,7 +431,7 @@ data:
 | `fair`       | Fair       | Light with a pink cast, burning before it browns.                                 |
 | `light`      | Light      | Light and neutral, browning without burning readily.                              |
 | `medium`     | Medium     | Neither light nor dark, with no strong cast either way.                           |
-| `olive`      | Olive      | Medium with a green-grey cast.                                                    |
+| `olive`      | Olive      | Medium with a green-gray cast.                                                    |
 | `tawny`      | Tawny      | Light brown, warm rather than olive.                                              |
 | `golden`     | Golden     | Light to medium with a yellow cast.                                               |
 | `tanned`     | Tanned     | Medium, darkened by sun rather than by birth.                                     |
@@ -289,45 +441,45 @@ data:
 
 #### `data.appearance.complexion`
 
-| Value         | English     | What it means                                                                                                                                       |
-| ------------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `ashen`       | Ashen       | Grey and drained; the skin of serious illness, shock or terror.                                                                                     |
-| `blotchy`     | Blotchy     | Uneven in colour, patched red or pale.                                                                                                              |
-| `chapped`     | Chapped     | Reddened and cracked by cold and wind.                                                                                                              |
-| `clear`       | Clear       | Free of blemish, mark or broken vessel.                                                                                                             |
-| `freckled`    | Freckled    | Freckled, in patches or across the whole face.                                                                                                      |
-| `jaundiced`   | Jaundiced   | Yellowed, the colour a failing liver gives.                                                                                                         |
-| `leathery`    | Leathery    | Thickened and toughened by years of exposure.                                                                                                       |
-| `oily`        | Oily        | Carrying a greasy sheen.                                                                                                                            |
-| `pasty`       | Pasty       | Pale and doughy; the skin of indoor work and poor feeding.                                                                                          |
-| `pimpled`     | Pimpled     | Presently broken out, with pimples at brow, cheek or jaw.                                                                                           |
-| `pockmarked`  | Pockmarked  | Pitted by pox, or by deep pimples long since healed.                                                                                                |
-| `rough`       | Rough       | Coarse in texture, without the wear of outdoor work.                                                                                                |
-| `ruddy`       | Ruddy       | High colour at cheek and nose, from weather, drink or constitution.                                                                                 |
-| `sallow`      | Sallow      | Yellowish and bloodless.                                                                                                                            |
-| `scabrous`    | Scabrous    | Rough and scaling, the skin of a lasting complaint such as eczema.                                                                                  |
-| `scarred`     | Scarred     | Marked by healed wounds. `extra_features` says where and from what.                                                                                 |
-| `smooth`      | Smooth      | Even in texture, whatever marks it carries.                                                                                                         |
-| `sun_kissed`  | Sun-Kissed  | Browned by sun on skin not naturally that dark.                                                                                                     |
-| `sunburnt`    | Sunburnt    | Presently burned, red and peeling.                                                                                                                  |
-| `translucent` | Translucent | So pale the vessels show through.                                                                                                                   |
-| `vitiligo`    | Vitiligo    | Patched with white where the skin has lost its colour, most often at face, hands and mouth. The tone it has lost is still what `skin_color` states. |
-| `wan`         | Wan         | Pale and drained; the skin of exhaustion or convalescence.                                                                                          |
-| `weathered`   | Weathered   | Worn and lined by sun and wind; the skin of outdoor work.                                                                                           |
-| `wrinkled`    | Wrinkled    | Deeply lined by age.                                                                                                                                |
+| Value         | English     | What it means                                                                                                                                      |
+| ------------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `ashen`       | Ashen       | Gray and drained; the skin of serious illness, shock or terror.                                                                                    |
+| `blotchy`     | Blotchy     | Uneven in color, patched red or pale.                                                                                                              |
+| `chapped`     | Chapped     | Reddened and cracked by cold and wind.                                                                                                             |
+| `clear`       | Clear       | Free of blemish, mark or broken vessel.                                                                                                            |
+| `freckled`    | Freckled    | Freckled, in patches or across the whole face.                                                                                                     |
+| `jaundiced`   | Jaundiced   | Yellowed, the color a failing liver gives.                                                                                                         |
+| `leathery`    | Leathery    | Thickened and toughened by years of exposure.                                                                                                      |
+| `oily`        | Oily        | Carrying a greasy sheen.                                                                                                                           |
+| `pasty`       | Pasty       | Pale and doughy; the skin of indoor work and poor feeding.                                                                                         |
+| `pimpled`     | Pimpled     | Presently broken out, with pimples at brow, cheek or jaw.                                                                                          |
+| `pockmarked`  | Pockmarked  | Pitted by pox, or by deep pimples long since healed.                                                                                               |
+| `rough`       | Rough       | Coarse in texture, without the wear of outdoor work.                                                                                               |
+| `ruddy`       | Ruddy       | High color at cheek and nose, from weather, drink or constitution.                                                                                 |
+| `sallow`      | Sallow      | Yellowish and bloodless.                                                                                                                           |
+| `scabrous`    | Scabrous    | Rough and scaling, the skin of a lasting complaint such as eczema.                                                                                 |
+| `scarred`     | Scarred     | Marked by healed wounds. `extra_features` says where and from what.                                                                                |
+| `smooth`      | Smooth      | Even in texture, whatever marks it carries.                                                                                                        |
+| `sun_kissed`  | Sun-Kissed  | Browned by sun on skin not naturally that dark.                                                                                                    |
+| `sunburnt`    | Sunburnt    | Presently burned, red and peeling.                                                                                                                 |
+| `translucent` | Translucent | So pale the vessels show through.                                                                                                                  |
+| `vitiligo`    | Vitiligo    | Patched with white where the skin has lost its color, most often at face, hands and mouth. The tone it has lost is still what `skin_color` states. |
+| `wan`         | Wan         | Pale and drained; the skin of exhaustion or convalescence.                                                                                         |
+| `weathered`   | Weathered   | Worn and lined by sun and wind; the skin of outdoor work.                                                                                          |
+| `wrinkled`    | Wrinkled    | Deeply lined by age.                                                                                                                               |
 
-**`gender` is required**, and `npm run lint` fails on a `character` or `npc` that states none. Every other field may be left unset — absent, `null` or `""` — which says the detail is unrecorded: a being whose hair nobody wrote down leaves `hair_color` null rather than guessing at it.
+**`gender` is required**, and `npm run lint` fails on a `character` or `npc` that states none. Every other field may be left unset—absent, `null` or `""`—which says the detail is unrecorded: a being whose hair nobody wrote down leaves `hair_color` null rather than guessing at it.
 
-`skin_color` is the tone the being was born with, or acquired from the sun in the case of `tanned`. **`complexion` is the skin's condition and never its colour** — what health, weather, work and age have made of it. That division is what makes the two readable separately: a question about colour is answered by `skin_color` alone.
+`skin_color` is the tone the being was born with, or acquired from the sun in the case of `tanned`. **`complexion` is the skin's condition and never its color**—what health, weather, work and age have made of it. That division is what makes the two readable separately: a question about color is answered by `skin_color` alone.
 
-**A complexion may hold several values.** A face carries more than one condition at once — weathered and ruddy, pockmarked and leathery — so `complexion` takes either one value or a list of them, and one value means a list of one. Every entry comes from the table, and no entry is repeated. `clear` says the skin carries no mark, so it does not stand beside `blotchy`, `freckled`, `pimpled`, `pockmarked`, `scabrous` or `scarred`.
+**A complexion may hold several values.** A face carries more than one condition at once—weathered and ruddy, pockmarked and leathery—so `complexion` takes either one value or a list of them, and one value means a list of one. Every entry comes from the table, and no entry is repeated. `clear` says the skin carries no mark, so it does not stand beside `blotchy`, `freckled`, `pimpled`, `pockmarked`, `scabrous` or `scarred`.
 
 ```yaml
 complexion: weathered
 complexion: [weathered, ruddy, scarred]
 ```
 
-Albinism is four values together: `white` hair, `violet` eyes, `pale` skin and a `translucent` complexion. Vitiligo is one: a `complexion` of `vitiligo` beside whatever tone `skin_color` states, because the patches sit on a skin that still has its colour.
+Albinism is four values together: `white` hair, `violet` eyes, `pale` skin and a `translucent` complexion. Vitiligo is one: a `complexion` of `vitiligo` beside whatever tone `skin_color` states, because the patches sit on a skin that still has its color.
 
 `data.appearance.extra_features` is free text and carries everything the closed fields cannot: a bald head, a scar and where it runs, a tattoo and what it shows, a limp, a missing finger, the way someone holds themselves.
 
@@ -345,9 +497,9 @@ The anchors are part of the content format: the build sends `Appearance` to the 
 
 **Appearance is outward facing.** Write what someone experiences on first encountering the person or creature: visible features, clothing or surface, movement, voice or other sounds, smell, bearing, and the immediate impression these details create. Describe only what an observer can perceive at that moment. Do not reveal private motives, history, hidden nature, or tactical intentions there. **Dossier is for the person running the being.** Put the deeper account there: background, personality, motives, relationships, behavior, capabilities, secrets, and ways to bring the being into play. It can explain what the first impression conceals or gets wrong. Treat this as an information boundary when writing, regardless of how much detail either section needs.
 
-**`character` — a playable individual.** [Alýkos Sampsiôn](../assets/content/Characters/Heroes_and_Knaves/Alykos_Sampsion.md) illustrates the depth. Let `Appearance` give a visitor's first impression; use `Dossier` for the life that brought this singular person to their present position and the information needed to play them. Within `Dossier`, use `Psyche` with `Personality`, `Motivation`, `Strengths`, and `Weaknesses`; use `Social` with `Patrons`, `Enemies`, and `Affiliations`; close with `Plot Hooks`. Include **1–3 patrons and 1–3 enemies**, each with a reason for the relationship, and **3–5 plot hooks** involving the character. Develop enough history, habits, relationships, and conflicting commitments to support decisions beyond one encounter. Describe strengths and weaknesses through choices and consequences, rather than adding another set of statistics in prose. Each hook should arise from the character's established aims and relationships.
+**`character`—a playable individual.** [Alýkos Sampsiôn](../assets/content/Characters/Heroes_and_Knaves/Alykos_Sampsion.md) illustrates the depth. Let `Appearance` give a visitor's first impression; use `Dossier` for the life that brought this singular person to their present position and the information needed to play them. Within `Dossier`, use `Psyche` with `Personality`, `Motivation`, `Strengths`, and `Weaknesses`; use `Social` with `Patrons`, `Enemies`, and `Affiliations`; close with `Plot Hooks`. Include **1–3 patrons and 1–3 enemies**, each with a reason for the relationship, and **3–5 plot hooks** involving the character. Develop enough history, habits, relationships, and conflicting commitments to support decisions beyond one encounter. Describe strengths and weaknesses through choices and consequences, rather than adding another set of statistics in prose. Each hook should arise from the character's established aims and relationships.
 
-**`npc` — an individual or encounter template.** [Arévyn Llydar](../assets/content/Characters/Heroes_and_Knaves/Arevyn_Llydar.md) illustrates an individual NPC. Keep `Appearance` and `Dossier`, and give the dossier an explicit `Background` before `Psyche`, `Social`, and `Plot Hooks`. Under `Background`, use meaningful stages of the person's life to explain their current role; Arévyn's account moves through his early years, mastery, and present circumstances. Use `Personality`, `Motivation`, `Strengths`, and `Weaknesses` to guide portrayal. Under `Social`, include affiliations and any patrons or enemies that actually matter to this NPC; patrons and enemies are **optional**. Give an individual NPC **3–5 plot hooks** grounded in their circumstances. Scale the other detail to the NPC's role, but let the GM see how to portray them, what they want, and how they can enter a story.
+**`npc`—an individual or encounter template.** [Arévyn Llydar](../assets/content/Characters/Heroes_and_Knaves/Arevyn_Llydar.md) illustrates an individual NPC. Keep `Appearance` and `Dossier`, and give the dossier an explicit `Background` before `Psyche`, `Social`, and `Plot Hooks`. Under `Background`, use meaningful stages of the person's life to explain their current role; Arévyn's account moves through his early years, mastery, and present circumstances. Use `Personality`, `Motivation`, `Strengths`, and `Weaknesses` to guide portrayal. Under `Social`, include affiliations and any patrons or enemies that actually matter to this NPC; patrons and enemies are **optional**. Give an individual NPC **3–5 plot hooks** grounded in their circumstances. Scale the other detail to the NPC's role, but let the GM see how to portray them, what they want, and how they can enter a story.
 
 For a reusable NPC template, describe the role rather than inventing one person's biography. `Appearance` gives what a party commonly encounters, with room for variation. In `Dossier`, `Background` explains the role's training and place in society; `Psyche` gives typical priorities and possible variation; `Social` identifies the authorities and communities connected to the role; `Plot Hooks` gives **3–5 encounter situations** in which such an NPC matters. Individual patrons, enemies, or life events belong in a specific person's note when relevant. Keep the main section headings so the template is navigable, and omit personal relationship subsections that do not apply.
 
@@ -366,7 +518,7 @@ else. A title or epithet belongs inside it where that is how the person is
 named. A name written as a wikilink needs no bold, as _Mark every name_ sets
 out, and takes the colon after the link.
 
-**`creature` — a being outside the other two roles.** [Abyssal Silt](../assets/content/Bestiary/Dreadspawn/Abyssal_Silt.md) illustrates a predatory creature. Use `Appearance` to make the first encounter sensory and recognizable without revealing what the creature intends or can secretly do. Use `Dossier` for the runner's account, with `Presentation`, `Key Behaviors`, `Combat Strategy`, `Attack Methods`, `Special Abilities`, and `Attributes`.
+**`creature`—a being outside the other two roles.** [Abyssal Silt](../assets/content/Bestiary/Dreadspawn/Abyssal_Silt.md) illustrates a predatory creature. Use `Appearance` to make the first encounter sensory and recognizable without revealing what the creature intends or can secretly do. Use `Dossier` for the runner's account, with `Presentation`, `Key Behaviors`, `Combat Strategy`, `Attack Methods`, `Special Abilities`, and `Attributes`.
 
 **Presentation tells the GM how the creature presents in play.** It can describe its manner, movement, sounds, and apparent intentions, then explain what lies beneath that first impression and when a closer look or interaction reveals it. A creature may appear to be a warm, playful animal with soft fur and expressive eyes. Its `Appearance` can give players that honest first impression; `Presentation` can tell the GM that the fur secretes acid and the mouth hides razor-sharp teeth, along with observable clues and ways those traits come into view. This lets the GM portray a discovery rather than announce hidden facts at first sight. Keep the information about how to stage the creature here; put its actual attacks and special effects under `Attack Methods` and `Special Abilities`.
 
@@ -458,7 +610,7 @@ The title and description come from the body's own membership practices.
 **A rung states `level`, `title` and `description`, and that is a complete
 statement.** `lore` is the one optional key: it addresses a `subType: law` note
 under `Lore/Ranks/` for a standing that needs more said about it than a rung's
-`description` can hold — a long account of obligations, privileges and how the
+`description` can hold—a long account of obligations, privileges and how the
 standing is gained and lost. Omit it otherwise. Most standings need no note, and
 a note whose only content restates its rung or lists the bodies that confer it
 should not exist.
@@ -585,8 +737,8 @@ TBD.
 #### Lore template
 
 A lore note carries almost no data: what it is lives in its prose. The sections differ
-by subtype — a rank states what the standing is and what it asks, a bestiary note
-states habitat and use, a culture note states how its people live — so take the
+by subtype—a rank states what the standing is and what it asks, a bestiary note
+states habitat and use, a culture note states how its people live—so take the
 sections the subject needs rather than a fixed list, and close on `## See Also`.
 
 ```
@@ -702,7 +854,7 @@ TBD.
 A site, a structure and a feature carry the same frontmatter and differ only in what
 they are: a site is a place something happened or is done, a structure is a built
 thing, a feature is a thing of the land. The body takes whatever sections the subject
-needs — these notes have no fixed shape beyond closing on `## See Also`.
+needs—these notes have no fixed shape beyond closing on `## See Also`.
 
 ```
 ---
@@ -751,7 +903,7 @@ TBD.
 
 ## Mark every name
 
-**A name is bolded on its first use in a note, unless it is a wikilink — a
+**A name is bolded on its first use in a note, unless it is a wikilink—a
 wikilink needs no bolding. Only the first use needs it, not the uses after.**
 
 This is how the corpus marks a name as significant, and it is what makes a name
@@ -761,7 +913,7 @@ exempt because the link already marks the name; a name is one or the other,
 never both.
 
 A naming phrase counts, not only a bare name. A named rite, ordeal, festival,
-relic, hall, ship, road, feud, vow or principle is a name — `Eye of the Void`,
+relic, hall, ship, road, feud, vow or principle is a name—`Eye of the Void`,
 `Oathkeeper's Challenge`, `Rite of Minnir's Well`, `Walk to Holafell`. So is an
 epithet that stands for a person or a god, such as `The All-Father` or
 `Dagmar the Skaald`, and so is a name carrying a possessive or a regnal
@@ -770,13 +922,54 @@ number.
 Three things are not names, and none of them takes bold:
 
 - **A common noun**, however important the thing is.
-- **A rank, office or title used as the common word for it** — the godi who
+- **A rank, office or title used as the common word for it**—the godi who
   keeps a hall, the hersvald who comes up from the valley. Such a word is a
   name only where the phrase names one specific post, the way
   `the Hersvald of the coastal district` names a seat.
 - **Emphasis on a sentence or a clause.** Bold on a whole statement is
   emphasis, and a reader cannot tell it from a name. Where a sentence needs
   weight, give it the weight with its own words.
+
+## Spelling and punctuation
+
+Notes are written in **American English**. The common traps:
+
+| Write this                                                                | Not this                                                                        |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| `-ize`, `-ization`: _organized_, _recognized_, _centralization_           | `-ise`, `-isation`                                                              |
+| _color, honor, labor, neighbor, harbor, favor, armor, behavior, rumor_    | _colour, honour, labour, neighbour, harbour, favour, armour, behaviour, rumour_ |
+| _defense, offense, center, fiber, gray, plow, draft, judgment, skeptical_ | _defence, offence, centre, fibre, grey, plough, draught, judgement, sceptical_  |
+| _license_ and _practice_ as both noun and verb                            | _licence_ as the noun, _practise_ as the verb                                   |
+| _traveled, traveler, jewelry, woolen_                                     | _travelled, traveller, jewellery, woollen_                                      |
+| _while, among, amid, toward, afterward_                                   | _whilst, amongst, amidst, towards, afterwards_                                  |
+| _learned, burned, spelled_                                                | _learnt, burnt, spelt_                                                          |
+| _skillful, fulfill, installment; story_ of a building                     | _skilful, fulfil, instalment; storey_                                           |
+| Double quotation marks first, single inside them                          | single quotation marks first                                                    |
+| Commas and periods **inside** the closing quotation mark                  | outside it                                                                      |
+
+Some conventions hold in either dialect and stay as they are: _percent_ as one
+word, with `%` in tables and spelled out in running prose; digits with thousands
+separators (1,962,870); vulgar fractions in prices (½, ¼, ¾); collective nouns as
+singular; era-prefixed dates; and titles lowercase when generic and capitalized when
+attached to a name (_the king_, against _King Hlurthann III_).
+
+### Dashes and hyphens
+
+Dashes and hyphens follow the **Chicago Manual of Style**. Three marks do three jobs:
+
+| Mark          | Job                                                                                   | Written                                                               |
+| ------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| **Em-dash**—  | An abrupt break, an amplifying element, or an appositive that already contains commas | **Closed**, `word—word`, never spaced; at most one pair in a sentence |
+| **En-dash** – | A range of numbers or dates, and a compound where one element is itself open          | `1400–1100 BF`, `pages 12–18`, `post–First Occasion`                  |
+| **Hyphen** -  | A compound modifier before its noun, and a prefix that needs it for reading           | `temple-treasury network`, `river-beast hunters`, `re-measure`        |
+
+- **A spaced em-dash is always wrong,** whether spaced with the em (`—`) or with an
+  en-dash standing in for it (`–`). Close it, or split the sentence.
+- **An en-dash never stands in for an em-dash** and never joins clauses. If the mark
+  is not between two numbers or inside an open compound, it is the wrong mark.
+- **A hyphen is not a dash.** The compound modifier is `temple-treasury`, never
+  `temple - treasury` or `temple—treasury`.
+- **A See Also gloss uses a closed em-dash:** `[[place-x|Name]]—what it is`.
 
 ## Keep the reference usable
 
