@@ -27,11 +27,11 @@ The institutional infrastructure of the Haradian currency—the Bayt al-Khazîna
 
 For game purposes, Haradian coin converts to Vylarian and Khelâthi currencies as follows:
 
-| Haradian          | Vylarian (effective)                                   | Khelâthi (effective)             |
-| ----------------- | ------------------------------------------------------ | -------------------------------- |
-| 1 Haradian Aurion | 0.93 Vylarian Aurion (~149 Argo, due to gold discount) | ~¾ gold gezan (~7½ silver gezan) |
-| 1 Haradian Argo   | 1 Vylarian Argo                                        | ½ silver qelu (5 copper qelu)    |
-| 1 Haradian Bit    | 1 Vylarian Bit                                         | 1/16 silver qelu (⅝ copper qelu) |
+| Haradian          | Vylarian (effective)                                   | Khelâthi (effective)               |
+| ----------------- | ------------------------------------------------------ | ---------------------------------- |
+| 1 Haradian Aurion | 0.93 Vylarian Aurion (~149 Argo, due to gold discount) | ~¾ gold gezan (~7½ silver gezan)   |
+| 1 Haradian Argo   | 1 Vylarian Argo                                        | ½ silver qelu (5 copper qelu)      |
+| 1 Haradian Bit    | 1 Vylarian Bit                                         | 1/16 silver qelu (5/8 copper qelu) |
 
 In casual commerce within Haradian territory the underweight Aurion passes at full nominal value; the discount only emerges in cross-border transactions where Vylarian or Khelâthi moneylenders assay the gold content.
 
