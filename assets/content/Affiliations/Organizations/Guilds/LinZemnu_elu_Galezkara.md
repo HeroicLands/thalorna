@@ -40,16 +40,21 @@ Lin'Zemnu elu Galezkara, the Craftsmasters' Consortium, gathers the masters of [
 
 ## Character
 
-TBD.
+Nobody at the Craftsmasters' Consortium says "no." They say, "The council has not yet found it to be master-work." The consortium is the body of masters of the capital's crafts, and it holds sole authority over what may be called master-work. A **Craftsmaster** is a master of one of the crafts admitted to the consortium; an **Elder** sits on the council that arbitrates disputes and keeps the trade's standards.
+
+The consortium is proud and sensitive to criticism. A master-work designation sets a piece's price far above ordinary output, so every master has a stake in how the designation is kept. Members resent public criticism of their methods, and a critic who presses the point in public finds the consortium's doors closed. The arguments go unanswered; the doors do not open.
+
+If you would like a piece certified, bring it, say nothing about the method, and wait. If you would like to criticize the method, do it among friends.
 
 ## Relations
 
-TBD.
+The crafts of [[place-galezkara|Galezkara]] fall under the consortium's authority, each through its master. A craft with a master on the roll has a voice in the council; a craft without one has to ask someone else to speak for it.
 
 ## Commerce and Currency
 
-TBD.
+Say a lacquer-worker finishes a cabinet and hopes it will be called master-work. The consortium's council inspects the piece and rules on it. If it passes, the cabinet may be sold as master-work, at a price far above ordinary craft output. If it does not, it is a good cabinet and sells as one. The consortium alone decides what may be sold as master-work, and that decision is the whole of its commerce.
 
 ## See Also
 
-TBD.
+- [[place-galezkara|Galezkara]]—The city whose crafts it governs
+- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms
