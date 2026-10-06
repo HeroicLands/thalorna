@@ -36,15 +36,19 @@ Genzet'Zabu is a district-level council of titled families, convened wherever en
 
 ## Character
 
-The council is conservative. The families most willing to attend are the ones least interested in changing how things are done, so traditionalist and military thinking generally carries the room.
+A district nobleman, asked by a visitor how decisions are made, laughs and says that the council decides by who comes. The families most willing to attend are the ones least interested in changing how things are done, so the room leans one way before anyone speaks.
+
+The council is conservative. Traditionalist and military thinking generally carries the room. A new idea is put to families that have never needed one.
 
 ## Relations
 
-The council gathers the titled families of a district, wherever enough noble households sit close enough together to meet regularly.
+The council gathers the titled families of a district, wherever enough noble households sit close enough together to meet regularly. Distance decides it: a district with scattered estates has no council worth the name, and a district with neighbors has a standing body that sets the tone for the area. Its members are neighbors first, councillors second, and the order shows in how they vote.
 
 ## Commerce and Currency
 
-No trade or coin figures in the account of the council. What it holds is the weight its families carry in the room.
+No trade or coin figures in the account of the council. What it holds is the weight its families carry in the room, which is counted in generations of land and service.
+
+A reformer who brings a proposal should take a long view. A hearing here is long and an answer is short, and the answer is shaped before the proposal is read.
 
 ## See Also
 

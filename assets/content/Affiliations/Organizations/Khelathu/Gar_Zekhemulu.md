@@ -42,15 +42,19 @@ Gar-Zekhemulu is a noble household of [[place-galezkara|Galezkara]], large enoug
 
 ## Character
 
-The household is old and orderly, and it expects quality of those who run it. The master answers at law for the house, and a steward whose work falls short is replaced.
+"The first thing you learn in the capital," a steward tells the clerk he is training, "is that a great house does not run on its master. It runs on whoever the master has stopped worrying about."
+
+Gar-Zekhemulu is old and orderly, and it expects quality of those who run it. The household is large enough that a steward manages its affairs, and the master answers at law for the house. A steward whose work falls short is replaced, which is a fate that comes with the position and not an insult to the man.
 
 ## Relations
 
-Gar-Zekhemulu is a noble household of [[place-galezkara|Galezkara]]. Its steward's reputation is noticed by the other great houses of the capital.
+Gar-Zekhemulu is a noble household of [[place-galezkara|Galezkara]], and it does not live alone. The other great houses of the capital notice what its steward is worth. A steward who does well is known across the city by reputation, and one who does badly is replaced before the house loses its good name.
 
 ## Commerce and Currency
 
-The household is large enough to need a dedicated steward, who manages its affairs on the master's behalf.
+The household is large enough to need a dedicated steward, who manages its affairs on the master's behalf. The household's money moves through the steward's hands, and his ledgers are the household's memory.
+
+If you are hired into such a house, remember whose name is on the entries you write. They are the master's, and the steward keeps them.
 
 ## See Also
 

@@ -36,15 +36,19 @@ Genzet'Uznêra is the governing council of [[affiliation-lutuznera|the temple of
 
 ## Character
 
-The council is led by priestesses, with the few men raised high enough in the priesthood seated beside them. It holds the temple's calendar to be the measure of what counts as the temple's own rite.
+A senior priestess of Uznêra, asked by a young couple when they may be married, answers with a date on the temple's calendar. She does not pick it. The council does.
+
+The council is led by priestesses, with the few men raised high enough in the priesthood seated beside them. It holds the temple's calendar to be the measure of what counts as the temple's own rite. A ceremony performed on the wrong day, by the wrong hand, is a family gathering and nothing more.
 
 ## Relations
 
-The council governs [[affiliation-lutuznera|the temple of Uznêra]]. A rite performed outside the calendar it sets is not recognized as the temple's own.
+The council governs [[affiliation-lutuznera|the temple of Uznêra]], the temple a petitioner approaches for marriage, birth and inheritance. A local priest may perform a rite privately at any time, but a rite performed outside the calendar the council sets is not recognized as the temple's own. In a valley where a marriage is an entry and a birth opens an obligation, the difference matters to anyone who wants the rite on the record.
 
 ## Commerce and Currency
 
-The council administers the temple's holdings and sets the calendar of observances that mark fertility, marriage and birth.
+The council administers the temple's holdings and sets the calendar of observances that mark fertility, marriage and birth. Those observances are the council's work and its authority.
+
+Plan a wedding, a naming or an inheritance with the calendar in hand. The temple's date is the one that closes the entry.
 
 ## See Also
 

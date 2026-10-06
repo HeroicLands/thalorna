@@ -40,15 +40,19 @@ Gar-Sa'Aqutu is a military house of long standing in [[place-aukhelathrgq|Aû'Kh
 
 ## Character
 
-The house is strategic and patient. It treats command and court influence as two halves of one design, and the master sets the course of each generation's placements.
+A courtier's aunt explains the Sa'Aqutu to a niece newly arrived in the capital: "Watch which of them is standing where. The brothers are on the parade ground and the sisters are in the antechamber, and you will find it is one conversation."
+
+The house is strategic and patient. It treats command and court influence as two halves of one design. The master holds the land, answers at law for everyone attached to the house, and sets the course of each generation's placements, deciding which son goes up through the officer ranks and which daughter is placed where she can do the line the most good.
 
 ## Relations
 
-Sons of the house rise through the officer ranks of [[place-aukhelathrgq|Aû'Khelâthu]] and daughters are placed at court. The master answers at law for everyone attached to the house.
+Sons of the house rise through the officer ranks of [[place-aukhelathrgq|Aû'Khelâthu]]'s army, and daughters are placed at court. Neither half works alone. An officer's promotion has a sister's introduction behind it, and a sister's position is steadied by a brother who commands soldiers. Anyone dealing with the house deals with the whole design at once, whichever member happens to be in front of them.
 
 ## Commerce and Currency
 
-The house's wealth is its land, held by the master, and its advancement runs through placements in the army and at court rather than through trade.
+The house is not a trading house. Its wealth is its land, held by the master, and its advancement runs through placements in the army and at court rather than through trade.
+
+An outsider who wants the house's favor does not offer coin. The currency is a good placement, an introduction, or a promotion that serves a plan the master has already made.
 
 ## See Also
 

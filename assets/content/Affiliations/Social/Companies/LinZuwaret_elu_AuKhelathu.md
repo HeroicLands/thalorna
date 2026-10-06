@@ -36,15 +36,19 @@ Lin'Zuwaret elu Aû'Khelâthu is a consortium of wealthy traders across [[place-
 
 ## Character
 
-The consortium is careful and specialized. Its traders deal in goods that must arrive alive, so the carriage of a cargo matters as much as its price.
+A consortium factor, hiring a beast-trainer for a long haul, lays out the arithmetic before the wage: "A sack of barley that arrives late is a sack of barley. A camel that arrives late is a debt."
+
+The consortium is careful and specialized. Its traders deal in goods that must arrive alive, so the carriage of a cargo matters as much as its price. It hires beast-trainers and assesses stock moving on the imperial routes, and its counsel on how an animal should travel is the thing other traders buy.
 
 ## Relations
 
-The consortium is made up of wealthy traders across [[place-aukhelathrgq|Aû'Khelâthu]]. It hires beast-trainers and assesses stock moving on the imperial routes.
+The consortium is made up of wealthy traders across [[place-aukhelathrgq|Aû'Khelâthu]]. It hires beast-trainers and assesses stock moving on the imperial routes, which puts its factors in contact with every drover and stable-hand who handles a beast of value. A trader outside the consortium who moves livestock without asking its counsel is gambling with a cargo that cannot be repacked.
 
 ## Commerce and Currency
 
-Its trade is livestock and living cargo, and it advises on the transport of anything a bad journey would kill outright.
+Its trade is livestock and living cargo, and it advises on the transport of anything a bad journey would kill outright. The profit is in the arrival, and every stage of the journey is priced against it.
+
+If you are hired as a trainer, expect the factor to ask about feeding, watering and rest before he asks about speed. The ones who ask about speed first lose cargo.
 
 ## See Also
 

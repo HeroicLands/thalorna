@@ -40,15 +40,19 @@ Gar-Qeltu was the pearl-divers' house, a lineage whose charter once governed the
 
 ## Character
 
-What the account records of the house is its end: it held a charter and lost the house when the charter lapsed. Guild masters cite it as the example of what a lapsed charter costs.
+Every guild master in the empire knows the story of the pearl-divers' house, and most of them first heard it from a clerk on the day of their own charter. Gar-Qeltu held a charter that governed the pearl trade, and it lost the house when the charter lapsed. What the account records of the house is its end, and the end is the lesson.
+
+Nothing in the telling blames the divers or praises them. The point is a date in a register, and what happens on the far side of it.
 
 ## Relations
 
-The house answered for itself and its charter to the Gar-Aû, whose word dissolved it. It is the last major dissolution anyone in [[place-aukhelathrgq|Aû'Khelâthu]] can name.
+The house answered for itself and for its charter to the Gar-Aû, and the Gar-Aû's word dissolved it. It is the last major dissolution anyone in [[place-aukhelathrgq|Aû'Khelâthu]] can name, so the house stands as the example against which every chartered body measures its own standing with the throne. A guild master who mentions Gar-Qeltu in a meeting is reminding the room that a charter is granted by one person and can end the same way.
 
 ## Commerce and Currency
 
-The house's charter governed the pearl trade of the empire, and the dissolution took that trade out of the house's hands.
+The charter governed the pearl trade of the empire, and the dissolution took that trade out of the house's hands. What a charter is worth is what it governs, and the house's divers could not carry a single pearl to market under the old terms once the word was given.
+
+A prudent master renews a charter well before its term runs out, and has the renewal entered where a scribe can read it back.
 
 ## See Also
 

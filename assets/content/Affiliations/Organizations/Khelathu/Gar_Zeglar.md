@@ -36,15 +36,19 @@ Gar-Zeglar is the empire's administrative ministry, the arm of [[affiliation-emp
 
 ## Character
 
-The ministry is secretive and slow. Its ministers decide what of the realm's records is found, and it dislikes anyone who exposes what its files contain.
+A temple scribe who has spent a morning at the Ministry's counter will tell you the secret of dealing with it: bring a copy of what you are asking for, and expect the original to be somewhere else.
+
+Gar-Zeglar is secretive and slow, and it is the institution that holds the realm's paper. Its ministers decide what of the records is found, and they dislike anyone who exposes what the files contain. Ask for a land grant and you get a clerk; ask why the grant reads two ways and you get a longer wait.
 
 ## Relations
 
-Gar-Zeglar is the administrative arm of [[affiliation-empireakhlth|Aû'Khelâthu]]'s government. Its ministers each hold a portion of the realm's records.
+Gar-Zeglar is the administrative arm of [[affiliation-empireakhlth|Aû'Khelâthu]]'s government, and each of its ministers holds a portion of the realm's records. The temples keep archives of their own, and a petitioner with a choice of books asks which one the judge will read.
 
 ## Commerce and Currency
 
-The ministry keeps the tax rolls and land grants, the records on which the empire's dues and holdings rest.
+The ministry keeps the tax rolls and land grants, the records on which the empire's dues and holdings rest. Whoever holds the roll holds the answer to who owes what and who owns what, so a minister's office is worth more than its salary.
+
+A record entered at a temple archive can be read back for a fee. A record in the ministry has no such guarantee, which is reason enough to ask for both.
 
 ## See Also
 

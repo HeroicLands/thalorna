@@ -38,15 +38,19 @@ Gar-Zin'el'Rêlu is a fallen dynasty of [[place-aukhelathrgq|Aû'Khelâthu]], wh
 
 ## Character
 
-The dynasty is remembered through its erasure. It stood barely a century, and its last Gar-Aû was thrown down for sealing the living into a tomb.
+A watch-priest of the necropolis, asked about the last dynasty of the throne, speaks quietly and gives the answer the records give: nothing. The Zin'el'Rêlu stood barely a century, and the last Gar-Aû was thrown down for sealing the living into a tomb. Then the dynasty was struck out, name, image and house, from every wall in the empire.
+
+The Khelâthi count the striking of a name from the records among the heaviest punishments they know, and a whole dynasty received it. The silence is the sentence at work.
 
 ## Relations
 
-The last sovereign of the house appears in the official records only as [[being-falseuqaa|the False Uqa'â]]. The oldest servants of the necropolis still remember the name he reigned under.
+The last sovereign of the house appears in the official records only as [[being-falseuqaa|the False Uqa'â]], with the name he reigned under erased along with his image. The oldest servants of the necropolis remember that name and do not say it aloud to strangers. A scholar who wants it must find the people the erasure never reached, and approach them with patience, because they know exactly what the knowledge cost.
 
 ## Commerce and Currency
 
-Nothing of the house's wealth or trade is recorded. Its name, image and house were struck from every wall, and what remains is the throne it held while the dynasty stood.
+Nothing of the house's wealth or trade is recorded. The name, the image and the house were struck from every wall, and what remains is the throne it held while the dynasty stood.
+
+A treasure-seeker who wants to follow the dynasty's trail should know what the account omits. The road to the last sovereign's tomb is death on sight, and no one's record says otherwise.
 
 ## See Also
 

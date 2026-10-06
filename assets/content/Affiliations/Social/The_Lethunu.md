@@ -38,15 +38,19 @@ The Lethunu is a fellowship formed within an established guild by members pressi
 
 ## Character
 
-The Lethunu are reformers inside a guild that holds its arrangements settled. Their politics are contentious, and a senior member speaks for them publicly.
+A journeyman smith of [[affiliation-garmelnu|Gar'Melnu]], speaking quietly to a new apprentice in the forge, makes the warning plain: "There are two sides in the guild now. If you say you are on neither, both will count you against."
+
+The Lethunu are reformers inside a guild that holds its arrangements settled. Their politics are contentious, and a senior member speaks for them publicly as their **Public Leader**. They have no charter, and they act in the guild's own meetings and votes.
 
 ## Relations
 
-The Lethunu are an informal faction within [[affiliation-garmelnu|Gar'Melnu]], with no charter of their own, acting in the guild's meetings and votes in opposition to the old guard.
+The Lethunu are an informal faction within Gar'Melnu, in opposition to the old guard, and they work through the guild's regular business: its meetings, its votes, its accounts. A member of the guild finds the quarrel at every meeting, since every item of business carries a question about which side it favors. The guild's old guard and the Lethunu are, between them, the most contentious internal politics the guild has had in a generation.
 
 ## Commerce and Currency
 
-Its members wish to shorten the apprenticeship, broaden recruitment beyond the traditional smithing families, and modernize the guild's accounting.
+Its members wish to shorten the apprenticeship, broaden recruitment beyond the traditional smithing families, and modernize the guild's accounting. An apprenticeship is an entry like any other, a master's undertaking to teach a craft to a named child, so the proposal to shorten it is a proposal to change what a scribe writes.
+
+An apprentice's first practical question is whose term he is serving: the old one or the one the Lethunu want.
 
 ## See Also
 

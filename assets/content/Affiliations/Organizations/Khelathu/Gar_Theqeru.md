@@ -40,15 +40,17 @@ Gar-Theqeru is a noble house of [[place-aukhelathrgq|Aû'Khelâthu]] whose women
 
 ## Character
 
-The women of the house carry influence in their own right, and the house is generous toward the healing trades. Its master grants or withdraws that patronage.
+"Ask who is paying for the remedy before you ask what it is," a physician tells her new assistant, and the answer is often House Theqeru. The women of the house carry influence in their own right, which is old news to anyone who knows the Khelâthi, whose law allows a woman to own property, plead, and practice medicine. The house is generous toward the healing trades, and its master grants or withdraws that patronage.
 
 ## Relations
 
-The house patronizes physicians and the makers of remedies in [[place-aukhelathrgq|Aû'Khelâthu]], work a less generous house would leave to the temples alone.
+The house patronizes physicians and the makers of remedies in [[place-aukhelathrgq|Aû'Khelâthu]], work a less generous house would leave to the temples alone. A healer under its patronage has more than funds: the standing comes with the name on the door. The house's women are the visible face of that standing, since their influence is their own and not a husband's.
 
 ## Commerce and Currency
 
-The house funds physicians and the preparation of remedies. A healer's standing under the house lasts as long as the master's patronage does.
+The house funds physicians and the preparation of remedies. A healer's standing under the house lasts as long as the master's patronage does, which is a fact every physician in the house's circle keeps in the back of her mind when a case goes badly.
+
+If you are a healer looking for backing, bring a record of cases the house can read. The house funds work it can see.
 
 ## See Also
 
