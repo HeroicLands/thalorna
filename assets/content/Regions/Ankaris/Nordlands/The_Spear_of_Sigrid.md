@@ -29,7 +29,7 @@ before the party has invested in the wrong approach: Njörven is not a problem t
 
 ## Sigrid
 
-An ancestral figure of the Nordlands whose name survives on the spear and very little else. The
+An ancestral figure of the [[place-nrdlndsrgn|Nordlands]] whose name survives on the spear and very little else. The
 sagas that mention her do not agree on when she lived or what she did with it, and the shrine is not
 hers—it merely holds the weapon.
 

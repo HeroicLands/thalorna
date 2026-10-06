@@ -92,7 +92,7 @@ sohl: {system: {commonSkills: [nordmalng]}}
 
 ## Overview
 
-The Kingdom of Nordheim holds the land of [[place-nordheim|Nordheim]]. The Nordmen are fierce, independent, and known for their seafaring and raiding cultures. They are hardy and adaptable, living in a harsh environment where only the strongest survive. Their warriors are respected and feared across Ankaris, and their longships sail the seas in search of plunder, trade, and glory.
+The Kingdom of Nordheim holds the land of [[place-nordheim|Nordheim]]. The [[lore-nordheimnclt|Nordmen]] are fierce, independent, and known for their seafaring and raiding cultures. They are hardy and adaptable, living in a harsh environment where only the strongest survive. Their warriors are respected and feared across Ankaris, and their longships sail the seas in search of plunder, trade, and glory.
 
 ## Culture and Society
 
@@ -110,17 +110,17 @@ Worship is practical and personal. Nordmen make offerings at standing stones, sa
 
 ## Magic
 
-Magic in Nordheim takes two primary forms. _Seidr_ is a shamanistic tradition practiced by the _völvur_, involving trance states, spirit journeys, and divination. It is powerful but socially complex—while respected in women, it is considered _ergi_ (unmanly) when practiced by men, though some male practitioners defy this taboo. _Rúnagaldr_ is the craft of inscribing runes with magical intent, practiced by specialists called _rúnameistari_. This tradition is more widely accepted across genders and is closely tied to the worship of Ódvar, who is said to have sacrificed himself to gain the knowledge of the runes.
+Magic in Nordheim takes two primary forms. _Seidr_ is a shamanistic tradition practiced by the _völvur_, involving trance states, spirit journeys, and divination. It is powerful but socially complex—while respected in women, it is considered _ergi_ (unmanly) when practiced by men, though some male practitioners defy this taboo. _Rúnagaldr_ is the craft of inscribing runes with magical intent, practiced by specialists called _rúnameistari_. This tradition is more widely accepted across genders and is closely tied to the worship of [[lore-odvardty|Ódvar]], who is said to have sacrificed himself to gain the knowledge of the runes.
 
 The [[affiliation-ordoarcanis|Ordo Arcanis]] has virtually no presence in Nordheim. The Nordmen distrust foreign institutions and have their own magical traditions that predate the Ordo by centuries.
 
 ## Relations
 
-Nordheim's relationship with the rest of Ankaris is defined by raiding, trade, and migration. Nordmen longships have struck as far south as the [[place-vylarianse|Vylarian Sea]], and Nordmen mercenaries serve in armies across the continent. The Nordmen have a complex relationship with their eastern neighbors in [[place-grkrhlmrgn|Grukarholm Region]]—the two peoples share the harsh northern climate but are culturally distinct and often hostile. To the south, the forests of [[place-vrystwald|Vrystwald]] represent a contested frontier where Nordmen settlers and Varokh tribespeople compete for territory.
+Nordheim's relationship with the rest of Ankaris is defined by raiding, trade, and migration. Nordmen longships have struck as far south as the [[place-vylarianse|Vylarian Sea]], and Nordmen mercenaries serve in armies across the continent. The Nordmen have a complex relationship with their eastern neighbors in [[place-grkrhlmrgn|Grukarholm Region]]—the two peoples share the harsh northern climate but are culturally distinct and often hostile. To the south, the forests of [[place-vrystwald|Vrystwald]] represent a contested frontier where Nordmen settlers and [[lore-varokhiclt|Varokh]] tribespeople compete for territory.
 
 ## Notable Features
 
-- **The King of All Clans:** Every seventh year, the kings of all five Nordlands kingdoms and their principal jarls meet on a sacred island to settle disputes beyond one kingdom's writ and decide matters of war and peace with neighbors. Nordheim's king usually convenes the assembly.
+- **The King of All Clans:** Every seventh year, the kings of all five [[place-nrdlndsrgn|Nordlands]] kingdoms and their principal jarls meet on a sacred island to settle disputes beyond one kingdom's writ and decide matters of war and peace with neighbors. Nordheim's king usually convenes the assembly.
 - **The Longship Fleets:** Nordheim's primary military and economic asset. Fleets range from small raiding parties to massive armadas capable of threatening coastal cities across Ankaris.
 - **The Völvur:** Nordheim's mystic tradition, distinct from the arcane practices of the south, rooted in shamanism and ancestral communion.
 - **The Five Kingdoms:** Nordheim is one of five Nordmal-speaking kingdoms in the frozen north, alongside [[affiliation-kingdomlgn|Malagna]], [[affiliation-kingdmnrgd|Norgaad]], [[affiliation-kingdmtrgd|Targud]], and [[affiliation-kngdmvthgrd|Vithgard]]. All share the Nordmal language, [[affiliation-asguardian|Asguardian Pantheon]] faith, and [[skill-nordmalng|Nordmal naming]], but each has its own jarl-king and traditions.

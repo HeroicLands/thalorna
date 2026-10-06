@@ -31,4 +31,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-A polity of Malagna, under the crown of Lögnheim.
+A polity of [[place-malagna|Malagna]], under the crown of Lögnheim.
