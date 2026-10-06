@@ -65,84 +65,89 @@ sohl:
   system: {commonSkills: [ritualigelnr, sohl-sohl-skill-srvl, sohl-sohl-skill-melee, khelathlng]}
 ---
 
-## Zeghet'Nelgu—The Sacred Hunt of the Khetai
+## Overview
 
-_Khelâthi: "The Mighty Ones of the Field"_ _Khelâthi Hunting Party_
+"Don't call it sport," a Bearer at the Summer Lodge tells a newly hired hand who has asked what the company is for. "Sport is for people who can go home afterward. We feed the temples, we settle the river god's account, and we keep the hippopotami out of the barley. Survival in sacred robes, that is the hunt."
 
-Along the great southern reaches of the Zumélesh River, where crocodiles bask on muddy banks and hippopotami bellow in the marshes, operates the Zeghet'Nelgu—the Sacred Hunt of the Khetai family. These are not commoners with spears. They are nobles, warriors, and ritualists bound by sacred obligation to maintain the balance between civilization and the wild. The Khetai are a minor noble clan of the Meglay caste—the hereditary hunter-wardens who have patrolled the upper river since before the current dynasty—and the Zeghet'Nelgu is their most sacred duty: the ritual hunt that feeds the temples, appeases the river god Igel'Nâru, and keeps the great beasts from destroying the farming villages that line the banks.
+The **Zeghet'Nelgu** (Khelâthi: "the Mighty Ones of the Field"), also called the Sacred Hunt of the Khetai, works the great southern reaches of the Zumélesh, where crocodiles bask on the mud banks and hippopotami bellow in the marshes. Its members are nobles, warriors and ritualists bound by sacred obligation to hold the balance between civilization and the wild, and none of them is a commoner with a spear. The **Khetai** are a minor noble clan of the **Meglay** caste, the hereditary hunter-wardens who have patrolled the upper river since before the current dynasty, and the Zeghet'Nelgu is their most sacred duty: the ritual hunt that feeds the temples, appeases the river god [[lore-igelnarudty|Igel'Nâru]], and keeps the great beasts from destroying the farming villages along the banks.
 
-The hunt is ceremonial, political, and dangerous. Success brings honor to the Khetai and meat for the temples. Failure brings shame—and famine, because the upper river selatu depend on the hunt to control the hippopotami that destroy crops and capsize fishing boats. Death in the service of the hunt brings eternal favor with the gods. The Zeghet'Nelgu is not sport. It is survival dressed in sacred robes.
+The hunt is ceremonial, political and dangerous. Success brings honor to the Khetai and meat for the temples. Failure brings shame and famine, because the upper river selatu depend on the hunt to thin the hippopotami that wreck crops and capsize fishing boats. A member who dies in the hunt's service earns the gods' favor for good.
 
-## Backstory
+## The Trouble on the River
 
-The Khetai family has held the Steersman's charter—the Gar-Aû's grant of hunting authority over this stretch of the Zumélesh—for seven generations. In those seven generations, the river has been kind more often than not: the flood cycle predictable, the herds manageable, the temples well-fed with sacrificial meat and riverine bounty. But in the last three years, something has changed.
+The Khetai have held the Steersman's charter, the Gar-Aû's grant of hunting authority over this stretch of the Zumélesh, for seven generations. For most of that time the river has been kind: the flood cycle predictable, the herds manageable, the temples supplied with sacrificial meat. Over the last three years that has changed.
 
-The hippopotamus herds have swollen beyond any living memory. Animals that once stayed in the deep marshes have pushed upriver into the farming settlements, destroying irrigation works, capsizing boats, and killing three farmers in the last season alone. The crocodile population has surged alongside them, drawn by the easy prey of livestock drinking at the water's edge. The Halzi'a of the upper river selat—Halzi'a Gerra Anlaghe'Rêlu—has demanded that the Zeghet'Nelgu solve the problem or forfeit their charter. The temples are pressuring for larger offerings. And the farming villages are on the edge of revolt, convinced that the gods are punishing them for some unknown transgression.
+The hippopotamus herds have swollen beyond living memory. Animals that once stayed in the deep marshes have pushed upriver into the farming settlements, destroying irrigation works, capsizing boats, and killing three farmers in the last season alone. The crocodiles have multiplied with them, drawn by livestock drinking at the water's edge. **Halzi'a** (governor of a selat) **Gerra Anlaghe'Rêlu** of the upper river selat has told the company to solve the problem or forfeit its charter. The temples want larger offerings, and the villages are close to revolt, convinced the gods are punishing them for a transgression nobody can name.
 
-Azûnmat Khelâfirahu, the current Steersman, believes the cause is natural—a shift in the flood cycle has created new breeding grounds in the southern marshes, and the herds are simply expanding into available territory. But the temple priesthood, led by Lem'Nelgir Zebenra Zu'Zekenu (a political rival of the Khetai family), has been preaching that the surge is divine punishment, and that the Zeghet'Nelgu has grown corrupt and unworthy. If the next great hunt fails, the Khetai could lose everything—their charter, their lands, and their standing among the Meglay caste.
+The company's own people read the cause differently from the temple. Steersman [[being-azunmtkhlfrh|Azûnmat Khelâfirahu]] holds that the cause is natural: a shift in the flood cycle has opened new breeding grounds in the southern marshes, and the herds are expanding into them. The priesthood, led by [[being-zebenrazuzkn|Zebenra Zu'Zekenu]], a **Lem'Nelgir** (Servant of the God) and a political rival of the Khetai, preaches that the surge is divine punishment and that the Zeghet'Nelgu has grown corrupt and unworthy. If the next great hunt fails, the Khetai could lose their charter, their lands and their standing among the Meglay.
 
-The stakes are existential. Azûnmat has called the full Zeghet'Nelgu together for the most ambitious hunt in a generation: a systematic cull of the southern marshes, working upriver over the course of a full lunar month, to thin the herds and prove to the Halzi'a that the Khetai can still do what they were born to do.
+So Azûnmat has called the full company together for the most ambitious hunt in a generation: a systematic cull of the southern marshes, working upriver over a full lunar month, to thin the herds and show the Halzi'a that the Khetai can still do what they were born to do.
 
 ## Organization
 
-The hunt is led by [[being-azunmtkhlfrh|Azûnmat Khelâfirahu]], a noble lord of the Meglay caste and holder of the ancient title of Steersman of the Sacred Waters. He is in his early forties, lean and scarred from a hippopotamus attack fifteen years ago that nearly took his left eye. He rules with formal authority, supported by the weight of religious custom and the backing of the provincial governors. His word is law—but his authority has never been more fragile.
+The hunt answers to [[being-azunmtkhlfrh|Azûnmat Khelâfirahu]], a noble of the Meglay caste who holds the ancient title of **Steersman of the Sacred Waters**. Azûnmat is in the early forties, lean, and carries the scar of a hippopotamus attack fifteen years ago that nearly took the left eye. The Steersman rules with formal authority, backed by religious custom and by the provincial governors. The word is law, and the authority behind it has never been more fragile.
 
-The current roster stands at eight:
+The roster stands at eight:
 
-- [[being-azunmtkhlfrh|Azûnmat Khelâfirahu]]—Steersman. Ritualist and warrior, keeper of the old rites. His authority is absolute but under siege.
-- [[being-imhugepuzebr|Imhûgepu Zeber]]—Wazu of the Hunt. Interprets the will of the river gods before each expedition; elderly, wise, but his pronouncements have become difficult to parse—some suspect he is going blind.
-- [[being-khelitymnkth|Khelîtyu Menkâthi]]—Master Harpoonist. Scarred and confident, handles the sacred harpoons with lethal precision. The deadliest man on the water.
-- [[being-gajeguluqztr|Gajegulu Quztar]]—Boatmaster. Controls the reed boats with supernatural grace; has never lost a boat to the currents. His family has served the Khetai for four generations.
-- [[being-zephrthmlshg|Zephrethu Malu'Shegatu]]—Shield-bearer and second-in-command. Young noble of a rival Meglay family, ambitious, and slightly too confident in his own skill. Azûnmat suspects he is reporting to the Halzi'a.
-- [[being-akhrethuazar|Akhrethu Azâri]]—Archer and scout. Smallest member of the party, but deadliest at range; watches the shoreline for threats. She is not Meglay—she is a commoner from the delta, and the others never let her forget it.
-- [[being-ganomublhfrd|Ganomu Balehfardu]]—Net-master and gamesman. Handles the ceremonial nets used to capture rather than kill; enjoys the pageantry more than the danger. His father was Steersman before Azûnmat.
-- [[being-thaiyalenurt|Thaiya Lenuret]]—Apprentice healer and record-keeper. Youngest member, observing her first full hunting season. The Khetai are watching to see if she has the stomach for the work—and the talent for the temple politics that come with it.
+- [[being-azunmtkhlfrh|Azûnmat Khelâfirahu]]—Steersman. Ritualist and warrior, keeper of the old rites. Absolute in authority and under siege.
+- [[being-imhugepuzebr|Imhûgepu Zeber]]—**Wazu** (acolyte) of the Hunt. Reads the river gods' will before each expedition. Elderly and wise, though the pronouncements have become hard to follow, and some suspect failing sight.
+- [[being-khelitymnkth|Khelîtyu Menkâthi]]—Master Harpoonist. Scarred and confident, and the deadliest hand on the water with the sacred harpoons.
+- [[being-gajeguluqztr|Gajegulu Quztar]]—Boatmaster. Handles the reed boats so well that none has ever been lost to the currents. The family has served the Khetai for four generations.
+- [[being-zephrthmlshg|Zephrethu Malu'Shegatu]]—Shield-bearer and second-in-command. A young noble of a rival Meglay family, ambitious and a little too sure of their own skill. Azûnmat suspects Zephrethu of reporting to the Halzi'a.
+- [[being-akhrethuazar|Akhrethu Azâri]]—Archer and scout. The smallest member of the party and the deadliest at range, watching the shoreline for threats. A commoner from the delta and not Meglay, which the others never let Akhrethu forget.
+- [[being-ganomublhfrd|Ganomu Balehfardu]]—Net-master and gamesman. Handles the ceremonial nets that capture rather than kill, and enjoys the pageantry more than the danger. Ganomu's father was Steersman before Azûnmat.
+- [[being-thaiyalenurt|Thaiya Lenuret]]—Apprentice healer and record-keeper. The youngest member, in a first full hunting season. The Khetai are watching whether Thaiya has the stomach for the work and the talent for the temple politics that come with it.
 
 ## Territory
 
-The Zeghet'Nelgu operates along approximately eighty miles of the Zumélesh River, from the Shattered Delta in the north to the Twin Rock narrows in the south. The river is sacred territory, belonging nominally to the Halzi'a but spiritually to Igel'Nâru, the river god. Two primary camps—the Summer Lodge at the Shattered Delta and the Winter Fort at Twin Rock—serve as bases. The party moves between them following the migration of hippopotami, crocodiles, and the great river cats.
+The company works about eighty miles of the Zumélesh, from the **Shattered Delta** in the north to the **Twin Rock** narrows in the south. The river is sacred ground, belonging to the Halzi'a in law and to Igel'Nâru in spirit, and sacred stones and boundary shrines mark it. Unauthorized hunting or fishing inside them is punishable by death, a law the Zeghet'Nelgu enforces with the seriousness it brings to the hunt. Two camps serve as bases, the **Summer Lodge** at the Shattered Delta and the **Winter Fort** at Twin Rock, and the party moves between them following the hippopotami, the crocodiles and the great river cats.
 
-The river is marked by sacred stones and boundary shrines. Unauthorized hunting or fishing on these waters is punishable by death—a law that the Zeghet'Nelgu enforces with the same seriousness they bring to the hunt itself.
-
-The southern marshes—the focus of the current crisis—are a labyrinth of reed beds, mud islands, and channels that shift with every flood. Even the Khetai do not know them perfectly, and the marshes are reputed to shelter not just hippos and crocodiles but something older: ruins half-submerged in the muck, stone markers in scripts that predate the current dynasty, and stories among the marsh-dwelling fishermen of lights that move beneath the water at night.
+The southern marshes, where the current crisis centers, are a labyrinth of reed beds, mud islands and channels that shift with every flood. Even the Khetai do not know them perfectly. The marsh-dwelling fishermen tell of more than hippopotami and crocodiles out there: half-submerged ruins in the muck, stone markers in scripts older than the current dynasty, and lights that move beneath the water at night.
 
 ## Methods
 
-A hunt of the Zeghet'Nelgu is an elaborate ceremonial affair. Each expedition begins with three days of religious preparation: Imhûgepu makes offerings, reads auguries in bird flight and water patterns, and pronounces whether the hunt should proceed. If the gods are favorable, the party departs.
+Every expedition begins with three days of religious preparation. Imhûgepu makes the offerings, reads auguries in bird flight and water patterns, and pronounces whether the hunt should proceed. If the gods are favorable, the party departs.
 
-The actual hunt uses specialized equipment: sacred harpoons tipped with barbed bone, ceremonial nets woven from papyrus fiber, reed boats that are themselves works of art, and bows strung with sacred twine. Kills are made from the boats, with Khelîtyu positioned for the harpoon strike while the rowers—Gajegulu's crew—keep position on the unpredictable currents. Hippopotami are hunted only during specific moons when their territorial aggression peaks. Crocodiles are tracked by night, when their eyes glow like embers in torchlight.
+The equipment is made for the work: sacred harpoons tipped with barbed bone, ceremonial nets woven from papyrus fiber, reed boats that are works of art in themselves, and bows strung with sacred twine. Kills are made from the boats, with Khelîtyu in the bow for the harpoon strike while Gajegulu's crew holds position on the unpredictable currents. Hippopotami are hunted only in the specific moons when their territorial aggression peaks, and crocodiles are tracked by night, when their eyes glow like embers in torchlight.
 
-When a major kill is made, the entire party participates in the ritual butchering, which takes nearly a full day. The meat is distributed according to ancient custom: prime cuts to the temple and the Halzi'a, secondary cuts to the farming villages, bones and hides to the craftspeople. Songs are sung; the animal's spirit is honored and commended to Igel'Nâru for judgment.
+After a major kill the whole party joins the ritual butchering, which takes nearly a full day. Custom divides the meat: prime cuts go to the temple and the Halzi'a, secondary cuts to the farming villages, bones and hides to the craftspeople. The party sings, and the animal's spirit is honored and commended to Igel'Nâru for judgment.
 
-The current crisis has forced the Zeghet'Nelgu to depart from tradition. The scale of the cull requires killing more animals than ritual normally permits, and Azûnmat has had to seek a special dispensation from the temple—which Lem'Nelgir Zebenra granted only grudgingly, and with conditions that amount to political surveillance of the hunt.
+The scale of the present cull breaks with tradition, because it requires killing more animals than ritual normally permits. Azûnmat had to seek a special dispensation from the temple, which Zebenra granted grudgingly and with conditions that amount to political surveillance of the hunt.
 
 ## Internal Dynamics
 
-The party maintains formal cohesion through ritual and hierarchy, but the crisis has sharpened every tension:
+Ritual and rank hold the party together in form, and the crisis has sharpened every tension inside it:
 
-- **Zephrethu's ambition** is barely concealed. He is of equal or higher social rank than Azûnmat and has been hinting that the Steersman position should rotate among the Meglay families—specifically, to his family. Azûnmat is aware and watching carefully. If the great hunt fails, Zephrethu will make his move.
-- **Imhûgepu's growing infirmity** is the party's most dangerous secret. His pronouncements are becoming harder to understand, and Azûnmat suspects he is making political judgments disguised as divine will—pronouncements timed to protect the Khetai rather than to serve the gods. If this were discovered, the temple could use it to invalidate the entire charter.
-- **Akhrethu's isolation** is self-imposed and deliberate. She is not Meglay and maintains no social relationships with the party outside of duty. There are whispers about her loyalties—specifically, that the Halzi'a placed her in the Zeghet'Nelgu as an informant years ago, and that she reports on the hunt's failures.
-- **Ganomu's resentment** simmers quietly. His father held the Steersman's title, and the Balehfardu family believes the position was stolen when Azûnmat's branch of the Khetai maneuvered the succession. Ganomu obeys orders, but his enthusiasm for the hunt—and for Azûnmat's leadership—has visibly cooled.
-- **Thaiya's presence** is contentious. Some members believe she is too young and untested for the most dangerous hunt in a generation. Others see her as the future—but Azûnmat has not yet decided where he stands, and her performance on this hunt will determine whether she is inducted into the Meglay or sent home.
+- **Zephrethu's ambition** is barely concealed. Zephrethu is of equal or higher social rank than Azûnmat and has been hinting that the Steersman's post should rotate among the Meglay families, starting with Zephrethu's own. Azûnmat knows this and watches carefully. If the great hunt fails, Zephrethu will make a move.
+- **Imhûgepu's growing infirmity** is the party's most dangerous secret. Azûnmat suspects the harder-to-follow pronouncements are political judgments passed off as divine will, timed to protect the Khetai rather than to serve the gods. If that were proved, the temple could use it to invalidate the whole charter.
+- **Akhrethu's isolation** is self-imposed and deliberate. Akhrethu keeps no friendships in the party beyond duty. The whispers are about loyalty: that the Halzi'a placed Akhrethu in the company years ago as an informant, to report on the hunt's failures.
+- **Ganomu's resentment** simmers quietly. Ganomu's father held the Steersman's title, and the Balehfardu family believes it was stolen when Azûnmat's branch of the Khetai maneuvered the succession. Ganomu obeys orders, but the enthusiasm for the hunt and for Azûnmat's leadership has visibly cooled.
+- **Thaiya's presence** is contested. Some members think Thaiya too young and untested for the most dangerous hunt in a generation, and others see the future. Azûnmat has not decided, and how Thaiya performs on this hunt settles whether the Meglay take Thaiya in or send Thaiya home.
 
 ## Plot Hooks
 
-- **The Cull.** The Zeghet'Nelgu is preparing for its most dangerous operation in living memory—a month-long sweep of the southern marshes to thin the hippopotamus herds. They need additional hands: experienced fighters, healers, or anyone who can handle a boat in treacherous water. Payment is in honor, temple favor, and a share of the meat. The work is brutal and the marshes are lethal.
-- **The Drowned Ruins.** During a preliminary scouting run, Gajegulu spotted something in the deep marshes: stone walls beneath the waterline, carved with symbols that are not Khelâthi. He told Azûnmat, who told him to forget about it—the hunt comes first. But Thaiya overheard, and she is burning with curiosity. The ruins predate the current dynasty, and whatever is down there might explain why the hippo herds have shifted south—or it might be something far more dangerous.
-- **The Temple's Knife.** Lem'Nelgir Zebenra Zu'Zekenu has attached a temple observer to the great hunt—a young Wazu named Anlaghi Gar'Râqu, ostensibly to assist Imhûgepu with rituals but obviously to report back on the Zeghet'Nelgu's failures. Azûnmat cannot refuse without appearing to defy the temple. The observer is earnest, devout, and completely out of his depth on the river—which makes him both a liability and a potential asset, depending on whose side he ends up taking.
-- **The Succession Crisis.** Zephrethu Malu'Shegatu has been meeting privately with Halzi'a Gerra Anlaghe'Rêlu, and Akhrethu—whose loyalties remain unclear—has been seen carrying messages between the Halzi'a's estate and the Summer Lodge. If Azûnmat falls or fails, the Steersman's charter could pass to a rival family, ending seven generations of Khetai stewardship. The political maneuvering is as dangerous as the hippos.
-- **The Marsh Fisher's Warning.** The fishermen who live in the southern marshes—poor, superstitious, and largely ignored by the Meglay—have been warning anyone who will listen that the hippo surge is not natural. They say the animals are being driven north by something in the deep marsh—something that moves at night, something that smells of rot and old stone. Azûnmat dismisses this as peasant superstition. Isgard is not so sure.
+- **The Cull.** The company needs more hands for the month-long sweep of the southern marshes: experienced fighters, healers, anyone who can handle a boat in treacherous water. Payment is honor, temple favor and a share of the meat. The work is brutal and the marshes are lethal.
+- **The Drowned Ruins.** On a preliminary scouting run, Gajegulu spotted stone walls beneath the waterline, carved with symbols that are not Khelâthi. Gajegulu told Azûnmat, who said to forget it, because the hunt comes first. Thaiya overheard and is burning with curiosity. The ruins predate the current dynasty, and whatever lies in them might explain why the herds have shifted south, or might be something far more dangerous.
+- **The Temple's Knife.** Zebenra has attached a temple observer to the great hunt: a young Wazu named [[being-anlaghigarr2|Anlaghi Gar'Râqu]], ostensibly there to help Imhûgepu with the rituals and plainly there to report on the company's failures. Azûnmat cannot refuse without seeming to defy the temple. The observer is earnest, devout and out of his depth on the river, which makes him a liability and a possible asset, depending on whose side he ends up taking.
+- **The Succession Crisis.** Zephrethu has been meeting privately with Halzi'a Gerra, and Akhrethu, whose loyalties are unclear, has been seen carrying messages between the Halzi'a's estate and the Summer Lodge. If Azûnmat falls or fails, the charter could pass to a rival family and end seven generations of Khetai stewardship. The maneuvering is as dangerous as the hippopotami.
+- **The Marsh Fisher's Warning.** The fishermen of the southern marshes, poor, superstitious and ignored by the Meglay, tell anyone who will listen that the surge is not natural. They say something in the deep marsh, something that moves at night and smells of rot and old stone, is driving the animals north. Azûnmat dismisses it as peasant superstition. Thaiya is not so sure.
 
-## Using the Zeghet'Nelgu
+## Running the Zeghet'Nelgu
 
-The company works well as:
+The company serves a game master in several ways:
 
-- A formal diplomatic encounter for characters meeting with provincial authority in the riverlands
-- A source of tension over water rights, fishing access, or sacred site violations
-- An organized obstacle to travel along the Zumélesh River
-- A moral dilemma regarding hunting of endangered animals or sacred waters
-- A potential alliance if the party's political situation allows for external alliances
-- A source of rich cultural detail about Khelâthi civilization, religion, and social structure
-- A gateway to a dungeon-crawl in the drowned ruins of the southern marshes
-- A window into the deadly intersection of tribal honor, temple politics, and survival
+- A formal encounter with provincial authority in the riverlands, where the party deals with the Steersman and, through the Steersman, with the Halzi'a.
+- A source of friction over water rights, fishing access or violations of sacred ground, since the company enforces the death penalty on the river.
+- An organized obstacle to travel along the Zumélesh.
+- A moral problem for characters who care about the beasts or the sacred water, since the cull is exactly the scale of killing ritual normally forbids.
+- A possible ally, if the party's own politics allow one.
+- A way into Khelâthi religion, caste and temple politics through one concrete job.
+- A route to a dungeon crawl in the drowned ruins of the southern marshes.
+
+## See Also
+
+- [[place-zumeleshrvr|The Zumélesh]]—the river whose southern reach the company holds
+- [[affiliation-igelnaru|Faith of Igel'Nâru]]—the river god the hunt appeases
+- [[affiliation-tjelsuk|Faith of Tjelsuk]]—the crocodile cult, aligned with the hunt
+- [[affiliation-garnuw|Gar'Nuw]]—the guild that licenses the river's professional cullers
+- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—the gods

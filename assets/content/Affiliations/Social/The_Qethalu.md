@@ -32,24 +32,14 @@ data:
 
 ## Overview
 
-The Qethalu are conservative priests within [[affiliation-lutqearet|Qe'âret's own temple]] who hold that political entanglement corrupts the goddess's purpose and compromises those who serve her. They argue that her high priest should be a judge and a servant of her order rather than a courtier moving through imperial politics. A high priest who leans too visibly toward the court finds the Qethalu organizing against the appointment's renewal from within the temple's own ranks.
-
-## Character
-
 A senior priest of [[affiliation-lutqearet|Qe'âret's temple]], instructing a young **Lem'Nelgir** ("Servant of the God"), tells him which part of his oath is most often tested: "You will be asked to be useful to the court. The goddess did not ask it of you."
 
-The Qethalu are austere. They hold that political entanglement corrupts the goddess's purpose and that her high priest should be a judge and servant of the order rather than a courtier. Their charge is the temple's reputation as beyond purchase.
+**The Qethalu** are austere, conservative priests within Qe'âret's own temple who hold that political entanglement corrupts the goddess's purpose and compromises those who serve her. They argue that her high priest should be a judge and a servant of her order rather than a courtier moving through imperial politics, and their charge is the temple's reputation as beyond purchase. The temple's judgments carry into the imperial courts, so the stakes of the appointment run well beyond its walls. A high priest who leans visibly toward the court finds the Qethalu organizing from inside the temple's own ranks against the renewal of the appointment. A priest who holds with them opposes a particular renewal and does not leave the order.
 
-## Relations
+## What a Young Priest Takes On
 
-The Qethalu are priests within Qe'âret's temple, and they organize from inside its ranks against the renewal of a high priest who leans toward the court. The temple's judgments carry into the imperial courts, so the stakes of the high priest's appointment run well beyond the temple's own walls. A priest who holds with the Qethalu opposes a particular renewal and does not leave the order.
-
-## Commerce and Currency
-
-No trade figures in the account of the Qethalu. Their contest is over who holds the high priest's office and whether it is renewed.
-
-A young priest who joins them takes on no business and no fortune. He takes on a cause: that the one who judges for the goddess should not owe anything to a throne.
+A young priest who joins the Qethalu takes on no business and no fortune. He takes on a cause: that the one who judges for the goddess should not owe anything to a throne.
 
 ## See Also
 
-- [[affiliation-lutqearet|Lut-Qe'âret]]—The temple they serve
+- [[affiliation-lutqearet|Lut-Qe'âret]]—the temple they serve

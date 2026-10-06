@@ -23,6 +23,13 @@ data:
     offices: {}
 ---
 
-A secretive body of thief-philosophers who hold every lock to be a puzzle rather than a barrier, and who treat the empire's finest locksmith as a standing challenge.
+## Overview
 
-The name is the boldest thing about them. _Lin'_ is the head-word of a sworn guild, and a guild holds its members' obligations to one another—so the Lin'Qelzu announce in their own name that they do what a temple does. They take apprentices, set terms and hold their people to them, and a priest who hears the name hears a rival body rather than a gang of thieves.
+The **Lin'Qelzu** (the Lockpick Society) are thief-philosophers who hold every lock to be a puzzle rather than a barrier. The empire's finest locksmith is, to them, a standing challenge, and a masterwork lock is an invitation.
+
+A temple clerk learning to recognize bodies by their names is told to read this one twice. _Lin'_ is the head-word of a sworn guild, and a guild holds its members' obligations to one another, so the Lin'Qelzu announce in their own name that they do what a temple does. They take apprentices, set terms and hold their people to them, and a priest who hears the name hears a rival body rather than a gang of thieves.
+
+## See Also
+
+- [[lore-khelathiclt|Khelâthi]]—who may hold a stranger's word
+- [[place-galezkara|Galezkara]]—the capital and its underworld

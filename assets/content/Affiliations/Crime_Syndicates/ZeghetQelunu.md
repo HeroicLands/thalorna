@@ -27,6 +27,13 @@ data:
         Holds the office that should stop the trade, and does not.
 ---
 
-Those who take protected beasts out of the hunting grounds, and who have arrangements with enough officials to keep doing it.
+## Overview
 
-Poaching at scale needs arrangements: a taker, a carrier, a buyer, and an official who looks elsewhere, none of whom need meet. Those arrangements are recorded, because nobody in that chain would otherwise trust the next. It is the recording rather than the poaching that brings priests into the matter.
+A hunter of the [[affiliation-zeghetnelgu|Zeghet'Nelgu]], asked about the **Zeghet'Qelunu** (the Poaching Ring), talks about the officials before the animals. The ring takes protected beasts out of the hunting grounds, and it has arrangements with enough officials to keep doing it. The trail leads to powerful figures in government and the nobility.
+
+Poaching at scale needs arrangements: a Taker, a Carrier, a Buyer, and an Official Who Looks Elsewhere, none of whom need meet. The ring is organized along military lines and has resources to match. Those arrangements are recorded, because nobody in that chain would otherwise trust the next. It is the recording rather than the poaching that brings priests into the matter.
+
+## See Also
+
+- [[affiliation-zeghetnelgu|Zeghet'Nelgu]]—the hunt that keeps the river's beasts
+- [[lore-khelathiclt|Khelâthi]]—who may hold a stranger's word
