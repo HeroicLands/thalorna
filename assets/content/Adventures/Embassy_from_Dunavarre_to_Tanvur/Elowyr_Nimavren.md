@@ -18,10 +18,6 @@ data:
   packFolder: adventures
 ---
 
-# Appearance {#appearance}
-
-TBD
-
 # Dossier {#dossier}
 
 **Role.** Ensures accurate record-keeping and correspondence.
