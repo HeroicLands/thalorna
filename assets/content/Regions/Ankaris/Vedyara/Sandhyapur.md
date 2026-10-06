@@ -36,7 +36,7 @@ Everything else moves up the road. Dried fish, salt and the coast's own coarse c
 
 ## Who Is Here
 
-The [[affiliation-mrchntclctvvdyr|Merchant Collective]] keeps a house on the road quarter's one paved street, and it is the westernmost house the Collective has. Its factor lends against a caravan, weighs foreign metal and issues the letters of credit the western trade runs on.
+The [[affiliation-mrchntclctvvdyr|Merchant Collective]] keeps a house on the road quarter's one paved street, and it is the westernmost house the Collective has. Its factor lends against a caravan, weighs foreign metal and issues the letters of credit the western trade runs on. He tells a stranger who lays foreign silver on the scale the one rule that matters: "Whatever it was stamped as where you got it, here it is metal, and I pay for the metal."
 
 A Dunhari factor lives on the same street and is the only man of the sand in the town with a house of his own. He buys for the oases and sells for them, he is dealt with at the palace on terms no Vedyari merchant is offered, and both facts are resented in about equal measure.
 

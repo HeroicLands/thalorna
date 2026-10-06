@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [graznmntns], population: null, packFol
 
 The **Western Descent** is where the [[place-graznmntns|Grazian Mountains]] stop being a wall. The ridges drop, the glaciers give out, and the range breaks into a belt of brown foothills between the oasis-belt to the north and [[place-vedyarargn|Vedyara]]'s north-western marches to the south before running out altogether in the desert-margin of [[place-dunharargn|Dunhara]].
 
-There is no pass here, because none is needed. The march road goes round the range's end through broken hill country. A caravan crosses it with a drover who has been that way before, and with no guide at all. It is the only ground on which the subcontinent has ever been entered from outside, and everything that has ever come in has come in this way.
+There is no pass here, because none is needed. The march road goes round the range's end through broken hill country. A caravan crosses it with a drover who has been that way before and needs no guide. It is the one way into Vedyara that crosses no pass, and it is the way a steppe host came down.
 
 ## The Road
 

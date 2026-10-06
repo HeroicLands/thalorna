@@ -85,7 +85,7 @@ It also makes the Hvarn the confederation's eyes on a frontier the confederation
 
 ## The Dead
 
-The Hvarn go down for their dead. A body in the eastern gorges is recovered wherever recovery is possible at all, brought up, and the place it was found recorded and kept. The Bone-bringer's account is the longest continuous record the people keep and the only one they will show an outsider. It is also the best warning anyone has about where the ground fails.
+The Bone-bringer is the Hvarn office with the longest memory. He recovers the dead from the eastern gorges wherever recovery is possible at all, and he keeps where each was found. The account is the longest continuous record the people hold, and the one they will show an outsider.
 
 ## See Also
 

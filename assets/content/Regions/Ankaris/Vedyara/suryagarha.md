@@ -15,7 +15,7 @@ data:
   government: vindhyalay
 ---
 
-Sūryāgarha (40,000) is the capital of the kingdom of [[affiliation-vindhyalay|Vindhyālaya]] and stands across the throat of [[place-suryadvara|Sūryadvāra]], the greatest of the northern passes. It is built on the road and not beside it. There is no way up onto the wall by that crossing, and no way down off it into Vedyara, that does not go beneath the walls, and the city exists because of that one fact and would not otherwise be where it is.
+Sūryāgarha (40,000) is built on the road and not beside it. It is the capital of the kingdom of [[affiliation-vindhyalay|Vindhyālaya]] and stands across the throat of [[place-suryadvara|Sūryadvāra]], the greatest of the northern passes, so that there is no way up onto the wall by that crossing, and no way down off it into Vedyara, that does not go beneath the walls. The city exists because of that one fact and would not otherwise be where it is.
 
 The site is a shelf of rock where the gorge narrows to something a wall can be thrown across, with the terraced valleys falling away south behind it and twenty days of ice above it to the fork. Everything the city eats comes up the terrace road. Everything it is rich from comes down the pass.
 
@@ -31,11 +31,11 @@ The councils are sitting at the same time only in the open season, because the s
 
 The customs-house is the largest building in the city and the only one with a paved yard big enough to break a caravan down in. Every bale that crosses the wall by this road is weighed here on entry and again on exit, and the difference between the two weighings is the kingdom's single largest source of revenue and its single largest source of litigation.
 
-What is actually sold at the counter is not the duty. It is the pass-token, which is cheap, and the date on it, which is not. The inspection takes as long as it takes; the delay between applying for a token and receiving one is at the clerk's discretion; and on a road that shuts for ten months the difference between crossing early in the season and crossing late is the difference between a profit and a year's wait. Every merchant in the city understands this arrangement and none of them has ever found a way to put it in writing.
+What is actually sold at the counter is not the duty. It is the pass-token, which is cheap, and the date on it, which is not. The inspection takes as long as it takes; the delay between applying for a token and receiving one is at the clerk's discretion; and on a road that shuts for ten months the difference between crossing early in the season and crossing late is the difference between a profit and a year's wait. Every merchant in the city understands this arrangement and none of them has ever found a way to put it in writing. A yard-master in the caravanserai gives every new caravan master the same advice on the first morning: "Apply the day you arrive, and do not argue with the date."
 
 The house keeps its own tally of who crossed and when. So do [[place-pssshrines|the Pass-Shrines]] at the summit, whose register is not a customs document and is not sent down, and the two figures do not always agree. A clerk whose ledger has been set beside a shrine's register and found short does not get a second posting.
 
-The one thing the house does not weigh is the ore. Silver and lapis from [[place-slvrgorges|the Silver Gorges]] go out under leases the smithing clans make directly with [[affiliation-mrchntclctvvdyr|the Merchant Collective]], and the customs-house sees the prices afterward, in the Collective's own returns, at a point where nothing can be done about them. The crown collects on the road and not on the rock, and the treasury upstairs has been careful for four generations not to ask what the difference is worth.
+The one thing the house does not weigh is the ore. Silver and lapis from [[place-slvrgorges|the Silver Gorges]] go out under leases the smithing clans make directly with [[affiliation-mrchntclctvvdyr|the Merchant Collective]], and the customs-house sees the prices afterward, in the Collective's own returns, at a point where nothing can be done about them. The crown collects on the road and not on the rock.
 
 ## The Caravanserai
 
@@ -49,7 +49,7 @@ The city's own population does not change as much as the yards do. Forty thousan
 
 A [[place-tanvuregin|Tānvüri]] community has lived in Sūryāgarha for centuries, come down by the north-eastern branch of the pass. It is a quarter of merchants and clerks with a way-station's establishment behind it, and it keeps its own script, its own account-books and its own year, which the customs-house has long since given up trying to make agree with anyone else's.
 
-Every few decades an imperial envoy arrives, is received with great courtesy, and goes away again. Neither side has ever seriously tried to rule the other, and both quote that fact rather more often than a fact requires quoting. What the quarter is actually worth to the kingdom is the standing correspondence: Sūryāgarha hears what has happened on the far side of the wall months before anyone in the south does, and sells the knowing of it.
+Every few decades an imperial envoy arrives, is received with great courtesy, and goes away again. Neither side has ever seriously tried to rule the other, and both are proud of it. What the quarter is actually worth to the kingdom is the standing correspondence: Sūryāgarha hears what has happened on the far side of the wall months before anyone in the south does, and sells the knowing of it.
 
 ## The Terrace Road
 

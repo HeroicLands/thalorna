@@ -29,7 +29,7 @@ A crossing needs a pass-token from the customs-house. The token is cheap, the in
 
 ## Who Actually Takes You Over
 
-The [[affiliation-osketguides|Ösket]] do, as everywhere on the wall, but on this road they do it under Vindhyan clan-wardens who hold the warden-right by inheritance and who are answerable, in theory, to the Mahārāja. In practice the warden names a fee and the Ösket lineage names a season, and a warden who overrules a lineage on a question of weather does it exactly once.
+The [[affiliation-osketguides|Ösket]] do, as everywhere on the wall, but on this road they do it under Vindhyan clan-wardens who hold the warden-right by inheritance and who are answerable, in theory, to the Mahārāja. A warden of Sūryadvāra, asked by a caravan master which of them decides, divides the answer in two: "I name the fee. The lineage names the season. You pay one of us and wait for the other." A warden who overrules a lineage on a question of weather does it exactly once.
 
 ## The Tānvüri Branch
 

@@ -18,7 +18,7 @@ data:
 
 **Vandhyabhūmi** is the high dry interior of [[place-vedyarargn|Vedyara]], the block of tableland the four great rivers run past and do not water. It stands a thousand feet or so above the plains that surround it, it is bounded on the east by the Mahānadi's western tributaries and on the west by the escarpment that falls to the arid western coast, and it is the one large country of the subcontinent that no river valley organizes.
 
-The name is the lowlands'. _Vandhya_ is barren, and a Vedyari of the [[place-mahanadi|Mahānadi]] plain who says it means ground that will not take a plough. The people on the plateau use the name and do not accept the judgment in it. The country carries more cattle to the acre than any floodplain in Vedyara, and the floodplains plough with bullocks bred on it.
+The name is the lowlands'. _Vandhya_ means barren, and a Vedyari of the [[place-mahanadi|Mahānadi]] plain glosses it as ground that will not take a plow. The people on the plateau use the name and do not accept the judgment in it. The country carries more cattle to the acre than any floodplain in Vedyara, and the floodplains plow with bullocks bred on it.
 
 ## The Water
 
@@ -28,9 +28,9 @@ So the plateau is a country of held water. Every generation's surplus goes into 
 
 ## The Grass
 
-The herds move three times a year and the plateau moves with them. Cattle on the deeper soils in the north and east, sheep and goats on the stony southern ground, and the whole of it walking between wells on droveways whose width and watering rights are older than any charter written on the plateau. A drove is a month of work, and the men who do it are away from their households for most of the year.
+The herds move three times a year and the plateau moves with them. Cattle on the deeper soils in the north and east, sheep and goats on the stony southern ground, and the whole of it walking between wells on droveways whose width and watering rights are older than any charter written on the plateau. A drove is a month of work, and the men who do it are away from their households for most of the year. A drover watering stock at a tank puts the plateau's bargain in a sentence: "Graze where the grass is. Pay where the water is."
 
-The plateau sells bullocks, hides, horn, ghee, coarse wool and the draught animals the river kingdoms plough and haul with, and buys grain, cloth and iron. In a bad year it sells breeding stock, which is the beginning of a worse one.
+The plateau sells bullocks, hides, horn, ghee, coarse wool and the draft animals the river kingdoms plow and haul with, and buys grain, cloth and iron. In a bad year it sells breeding stock, which is the beginning of a worse one.
 
 ## The Calendar Question
 
@@ -40,7 +40,7 @@ It is also where the count began. The temples here follow the [[lore-mdhvndrcnt|
 
 ## Mādhavendra
 
-The capital of the philosopher-kings stands on open pasture in the centre of the plateau, roofless and unquarried. Its walls are standing to the height of a man over most of their circuit, its street grid is legible from the ridge above it, and drovers water stock at its tanks, which still hold. The dry air has kept it. Nothing on the plateau has been built at that scale since, and nothing needs to be.
+The capital of the philosopher-kings stands on open pasture in the center of the plateau, roofless and unquarried. Its walls are standing to the height of a man over most of their circuit, its street grid is legible from the ridge above it, and drovers water stock at its tanks, which still hold. The dry air has kept it. Nothing on the plateau has been built at that scale since, and nothing needs to be.
 
 The reign that raised it standardized Classical Vedyari and produced the commentaries, the legal codes and the epics every educated Vedyari still studies, and the whole civilization numbers its years from it. A quarter of a million people gather at the [[affiliation-janpdsvdyr|Mahā-Sangha]]'s assembly on the Mahānadi to do business in a calendar that begins at a ruin nobody governs and few of them have seen.
 

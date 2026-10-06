@@ -17,11 +17,11 @@ Very little of a Hvarn winter is private. A quarrel carried down off the pasture
 
 ## The Rotation
 
-The [[affiliation-osketguides|Ösket]] hold a road by descent. The Hvarn share theirs out. The hearth-heads sit in the middle of the long house in the weeks after midwinter, assign the coming season's crossings between them, settle what the last season's assignments left owing, and disperse. A hearth that drew the conch-door two years running is owed something. A hearth that lost a party is not given a road until the council says so.
+The [[affiliation-osketguides|Ösket]] hold a road by descent, and the Hvarn share theirs out. In the weeks after midwinter the hearth-heads take the middle of the long house and say aloud, in front of everyone, who will walk which crossing and what each hearth still owes another.
 
 The council has no power to compel and has never needed one, because nobody who ignored it would be given a road. That is the whole of Hvarn public order, and it is made again from nothing every winter.
 
-The arrangement follows the trade. Two crossings, one of them almost unused, will not keep six hearths in the manner a single [[place-suryadvara|Sūryadvāra]] lineage keeps itself, so the Hvarn pool the work and the debt and argue about it once a year in one room.
+The rotation is what a small trade can afford. A single [[place-suryadvara|Sūryadvāra]] lineage lives better than six Hvarn hearths could on two crossings, so the Hvarn pool the work and the debt and argue about it once a year in one room.
 
 ## The Party
 
@@ -39,15 +39,13 @@ A child is named for a person in the roll, and the naming carries the obligation
 
 ## The Contract
 
-[[place-sanghafort|The fort]] on the conch-door col is fed by Hvarn pack-trains. The contract is old, is renewed every third year with the eastern janapadas, and is the single largest piece of Hvarn income. The Fort-carrier who negotiates it speaks fluent lowland [[skill-vedyarlng|Vedyari]] and is the one member of the people the garrison's officers know by name.
+The Hvarn pack-trains that feed [[place-sanghafort|the fort]] on the conch-door col run on an old contract. The Fort-carrier who keeps it speaks fluent lowland [[skill-vedyarlng|Vedyari]] and is the one member of the people the garrison's officers know by name.
 
-Lowland factors walk up to Nürvhrn for the renewal and for nothing else. The Hvarn regard the traffic as a nuisance they are paid for, and have kept it up for four centuries without once inviting anyone to stay the winter. The seal of [[affiliation-janpdsvdyr|the janapadas]] is one of two objects in the long house kept in a box.
+Lowland factors walk up to Nürvhrn for the renewal and for nothing else, and the Hvarn have kept up the visits for four centuries without once inviting anyone to stay the winter. The seal of [[affiliation-janpdsvdyr|the janapadas]] is one of two objects in the long house kept in a box.
 
 ## Poor, and Better Connected
 
 Nine thousand people with two crossings and no store of their own are poor by any measure a lowlander uses. The Hvarn are also the best connected people on the wall. The fort contract puts them in a room with lowland officers every third year, the envoys and scholars who use [[place-jnanadvara|Jñānadvāra]] pass through their hands, and about forty lowlanders speak the language, which is forty more than speak [[skill-osketlng|Ösket]].
-
-The same traffic makes the Hvarn the confederation's eyes on a frontier the confederation has no other way of watching. [[affiliation-vindhyalay|Vindhyālaya]] resents the arrangement. The Hvarn decline to discuss it.
 
 ## Names and the Tongue
 

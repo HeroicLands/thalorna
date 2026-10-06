@@ -16,9 +16,9 @@ data:
 
 ## Overview
 
-Bhūmipāla is the land of the march kingdom of [[affiliation-bhumipala|Bhūmipāla]], the northwestern corner of [[place-vedyarargn|Vedyara]]. It runs from the broken foothills of [[place-wstrndscnt|the Western Descent]] south and west to the shore of the [[place-sandhysmdr|Sandhyā-samudra]], and it is the driest country in the subcontinent that anybody farms.
+The land of Bhūmipāla is empty between the wells and crowded at them, and that one fact explains its roads, its forts and its kings. It is the land of the march kingdom of [[affiliation-bhumipala|Bhūmipāla]], the northwestern corner of [[place-vedyarargn|Vedyara]]. It runs from the broken foothills of [[place-wstrndscnt|the Western Descent]] south and west to the shore of the [[place-sandhysmdr|Sandhyā-samudra]], and it is the driest country in the subcontinent that anybody farms.
 
-Two million people live here. That is a thin population for a Vedyari land, and it is thin in a particular way: the country is empty between the wells and crowded at them.
+Two million people live here, which is thin for a Vedyari land.
 
 ## The Three Grounds
 

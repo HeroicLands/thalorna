@@ -3,7 +3,7 @@ shortcode: pssshrines
 name: {full: The Pass-Shrines, aliases: []}
 type: place
 subType: site
-description: "The chain of Varnaka temples at the summits of the crossing roads, kept year-round by a priestly sub-caste of ushtakas who live where a lowlander would die, and holding the only written record of who crossed the wall and when."
+description: "The chain of Varnaka temples at the summits of the crossing roads, kept year-round by a hereditary line of Ritūja ushtakas who live where a lowlander would die, and holding the only written record of who crossed the wall and when."
 tags: [temple, sacred, inland]
 data:
   demonym: null
@@ -16,11 +16,11 @@ data:
 
 The **Pass-Shrines** are the temples at the high points of the crossing roads: one at [[place-meghadvara|Meghadvāra]], one at [[place-suryadvara|Sūryadvāra]], one at [[place-tamradvara|Tāmradvāra]], one at [[place-jnanadvara|Jñānadvāra]], one at [[place-sankhadvra|Shankhadvāra]]. There is none on [[place-gudesroad|the Guides' Road]], and there never has been.
 
-They are not large. A shrine is a walled court, a hall, a store of fuel and grain, a cistern and quarters for eight to twenty people, built low into the rock on the lee side of the col. What makes them remarkable is that they are occupied in winter.
+They are not large. A shrine is a walled court, a hall, a store of fuel and grain, a cistern and quarters for eight to twenty people, built low into the rock on the lee side of the col. What sets them apart is that they are occupied in winter.
 
 ## The Altitude Ushtakas
 
-A [[affiliation-varakpnthn|Varnaka]] ushtaka sub-caste keeps the shrines. They are born to the work and live year-round at heights that would kill an unaccustomed lowlander inside a week. They marry within the sub-caste, their children are raised on the cols, and a shrine-ushtaka who comes down to the plains at forty is an old man there and is treated as one.
+A hereditary line of [[affiliation-varakpnthn|Varnaka]] ushtakas, Ritūja by station, keeps the shrines. They are born to the work and live year-round at heights that would kill an unaccustomed lowlander inside a week. They marry within the line, their children are raised on the cols, and a shrine-ushtaka who comes down to the plains at forty is an old man there and is treated as one.
 
 Their orthodoxy is exact and their ritual is not. A great deal of what is done at a Pass-Shrine has no warrant in any text a lowland academy would accept: the fire-watch through the closed months, the count of the dead kept by name on the cistern wall, the refusal to bless certain days that no almanac marks. The lowland hierarchy has never pressed the point. These are the only priests willing to do the job.
 
@@ -28,7 +28,7 @@ Their orthodoxy is exact and their ritual is not. A great deal of what is done a
 
 Every shrine keeps the crossing-register: who came over, with how many beasts, in whose employ, and on what day. It is the only written record of traffic on the wall that is not a customs document, and the difference between a shrine's tally and the tally at [[place-suryagarha|Sūryāgarha]]'s customs-house is a question that has ended at least two Vindhyan careers.
 
-The shrines will show a register to anyone who asks and can read it. They will not copy one, they will not send one down, and they will not say what is in the older volumes, which are kept and not shown.
+A register-writer will turn the book round for anyone who asks and can read it. He will not copy a page, he will not send one down, and he will not say what is in the older volumes, which are kept and not shown.
 
 ## The Blessing, and the Refusal
 

@@ -21,7 +21,7 @@ No fortress stands on it. No toll is taken. No [[place-pssshrines|Pass-Shrine]] 
 
 ## Who Goes Over It
 
-The [[affiliation-osketguides|Ösket]], whenever they please; it is open when the western doors are shut and shut when nothing else is, and only they can say which. A lowlander goes over it hooded, on foot, holding a cord, and arrives on the far side a month and a half later without the faintest idea of where he has been.
+The [[affiliation-osketguides|Ösket]], whenever they please; it is open when the western doors are shut and shut when nothing else is, and only they can say which. A lowlander goes over it hooded, on foot, holding a cord, and arrives on the far side a month and a half later with no idea of where he has been.
 
 That is the whole commerce of the road: not goods but passage, for people and packets that cannot be seen to cross. It is worth more per pound than anything that goes by Sūryadvāra, it is paid for in advance and in gold, and neither end of it is written down.
 
