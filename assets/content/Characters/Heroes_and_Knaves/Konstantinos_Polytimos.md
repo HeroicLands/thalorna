@@ -470,7 +470,7 @@ Konstántinos is driven by the conviction that food is one of humanity's greates
 ### Patrons
 
 The Proprietor of the Copper Kettle
-: His employer, **Merchant-Master Theron**, trusts him completely and defers to his judgment on all kitchen matters. Theron has invested significantly in the kitchen and treats Konstántinos almost as a partner.
+: His employer, **Merchant-Master Basilíon**, trusts him completely and defers to his judgment on all kitchen matters. Basilíon has invested significantly in the kitchen and treats Konstántinos almost as a partner.
 
 Wealthy Merchant Families
 : Several prominent merchant houses in the city specifically patronize the Copper Kettle to enjoy Konstántinos's cooking and have requested private catering for their events.

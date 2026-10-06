@@ -45,6 +45,42 @@ export const RETIRED = [
         replacement: "Ólvenía",
         scope: "corpus",
     },
+    { retired: ["Kael"], replacement: "the host culture's given names", scope: "corpus" },
+    {
+        retired: ["Theron"],
+        replacement: "the host culture's given names",
+        scope: [
+            "assets/content/Characters/Heroes_and_Knaves/Samarina_Oreinikot.md",
+            "assets/content/Characters/Heroes_and_Knaves/Zenais_Kepikot.md",
+            "assets/content/Characters/Heroes_and_Knaves/Philina_Markesianos.md",
+            "assets/content/Characters/Heroes_and_Knaves/Angelides_Thymiakit.md",
+            "assets/content/Characters/Heroes_and_Knaves/Konstantinos_Polytimos.md",
+            "assets/content/Characters/Heroes_and_Knaves/Helenaia_Mystakes.md",
+            "assets/content/Characters/Heroes_and_Knaves/Gavrilos_Niktariotes.md",
+            "assets/content/Characters/Heroes_and_Knaves/Domrithas_Vishardas.md",
+            "assets/content/Characters/Heroes_and_Knaves/Myrine_Kalypsos.md",
+            "assets/content/Characters/Heroes_and_Knaves/Arevyn_Llydar.md",
+            "assets/content/Characters/Heroes_and_Knaves/Kayvonad_Zarid.md",
+            "assets/content/Characters/Heroes_and_Knaves/Visvambharakhila_Ratnangadevadasa.md",
+            "assets/content/Characters/Occupations/Aldith_Chilton.md",
+            "assets/content/Characters/Occupations/Audrey_Harding.md",
+        ],
+    },
+    {
+        retired: [
+            "Malachar Venn",
+            "Dustrunner",
+            "Casix",
+            "Colonel Estáril Dómivar",
+            "Colonel Dómivar",
+        ],
+        replacement: "names and offices of the bearer's culture",
+        scope: [
+            "assets/content/Characters/Heroes_and_Knaves/Afzandah_Parnazar.md",
+            "assets/content/Characters/Heroes_and_Knaves/Kayvonad_Zarid.md",
+            "assets/content/Characters/Occupations/Tarsia_Torvaleth.md",
+        ],
+    },
 ];
 
 const LETTER = "\\p{L}\\p{M}";

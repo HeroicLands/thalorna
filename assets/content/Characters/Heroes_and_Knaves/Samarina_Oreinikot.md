@@ -490,8 +490,8 @@ The Veterinary Herbalist Zenoníkash
 
 ### Enemies
 
-Landowner Theron Vaspas
-: A wealthy landowner whose territories border Samarína's grazing lands, Theron has repeatedly attempted to purchase her land or pressure her into heavier grazing that ruins the land. Her refusal has earned his enmity.
+Landowner Nikêphoros Vaspas
+: A wealthy landowner whose territories border Samarína's grazing lands, Nikêphoros has repeatedly attempted to purchase her land or pressure her into heavier grazing that ruins the land. Her refusal has earned his enmity.
 
 The Competitive Herders Collective
 : Younger herders in the region, frustrated with what they see as outdated practices and conservative thinking, have begun ostracizing Samarína and spreading rumors about the inferior quality of her animals, despite evidence to the contrary.
@@ -506,7 +506,7 @@ None formal
 
 ## Plot Hooks
 
-1. **The Sanctuary Under Threat:** Samarína discovers that Landowner Theron Vaspas has begun systematically purchasing lands that will encircle her grazing territories, effectively trapping her and forcing her to either abandon her herd or sell her land at depressed prices. She recruits adventurers to help her through the courts, discover evidence of Vaspas's unethical practices, and potentially locate alternative grazing lands. This forces her to learn political skill while testing whether she will compromise her values to survive.
+1. **The Sanctuary Under Threat:** Samarína discovers that Landowner Nikêphoros Vaspas has begun systematically purchasing lands that will encircle her grazing territories, effectively trapping her and forcing her to either abandon her herd or sell her land at depressed prices. She recruits adventurers to help her through the courts, discover evidence of Vaspas's unethical practices, and potentially locate alternative grazing lands. This forces her to learn political skill while testing whether she will compromise her values to survive.
 
 2. **The Plague in the Flocks:** A mysterious disease begins spreading through herds across the Byzarian League, devastating animals and threatening the pastoral economy. Samarína's keen observation suggests the disease is not natural but deliberately introduced. She must work with adventurers to investigate the source (whether environmental, magical, or deliberate), find a cure or treatment, and prevent her herd from being destroyed. This makes her an unexpected authority and possible savior.
 

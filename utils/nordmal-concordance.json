@@ -13876,6 +13876,81 @@
                 "d98958a75c8f1e7331bc4520fe412f24918caadc:assets/content/Regions/Ankaris/Aureldia/Aelwyth/Ironfells/Vardain_Valleys/Barakth.md:3:14"
             ],
             "boldKind": "none"
+        },
+        {
+            "oldName": "Kael",
+            "oldAliases": null,
+            "oldPath": "assets/content/Characters/Heroes_and_Knaves/Hliskthann_Vetrdomr.md",
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Dvulgorv",
+            "newAliases": null,
+            "newPath": "assets/content/Characters/Heroes_and_Knaves/Hliskthann_Vetrdomr.md",
+            "newShortcode": null,
+            "newAddress": null,
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "being",
+            "subType": "given",
+            "description": null,
+            "note": "_dvulg-_ + `-orv` (a man) — an unlinked background figure named in this note (a younger rival thatcher), given a listed Nordmal name in place of a given name no culture writes; his byname Swiftthatch stands as the note has it",
+            "prose": null,
+            "oldRefPaths": [
+                "9e67f789d:assets/content/Characters/Heroes_and_Knaves/Hliskthann_Vetrdomr.md:475:25"
+            ],
+            "boldKind": "none"
+        },
+        {
+            "oldName": "Kael",
+            "oldAliases": null,
+            "oldPath": "assets/content/Characters/Heroes_and_Knaves/Thraldorv_Vornheim.md",
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Glirvir",
+            "newAliases": null,
+            "newPath": "assets/content/Characters/Heroes_and_Knaves/Thraldorv_Vornheim.md",
+            "newShortcode": null,
+            "newAddress": null,
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "being",
+            "subType": "given",
+            "description": null,
+            "note": "_glirv-_ + `-ir` — an unlinked background figure named in this note (the sword-master of Greystones), given a listed Nordmal name in place of a given name no culture writes, beside the clan name Marvarukh the note leaves alone",
+            "prose": null,
+            "oldRefPaths": [
+                "9e67f789d:assets/content/Characters/Heroes_and_Knaves/Thraldorv_Vornheim.md:425:408"
+            ],
+            "boldKind": "none"
+        },
+        {
+            "oldName": "Kael",
+            "oldAliases": null,
+            "oldPath": "assets/content/Characters/Heroes_and_Knaves/Skraldthann_Hrafnsvald.md",
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Althmýl",
+            "newAliases": null,
+            "newPath": "assets/content/Characters/Heroes_and_Knaves/Skraldthann_Hrafnsvald.md",
+            "newShortcode": null,
+            "newAddress": null,
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "being",
+            "subType": "given",
+            "description": null,
+            "note": "_althm-_ + `-ýl` — an unlinked background figure named in this note (an apprentice), given a listed Nordmal name in place of a given name no culture writes, beside the clan name Skrildendikh the note leaves alone",
+            "prose": null,
+            "oldRefPaths": [
+                "9e67f789d:assets/content/Characters/Heroes_and_Knaves/Skraldthann_Hrafnsvald.md:506:65"
+            ],
+            "boldKind": "none"
         }
     ],
     "standingCoinages": {

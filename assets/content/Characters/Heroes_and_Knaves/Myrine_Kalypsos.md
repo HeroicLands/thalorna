@@ -538,8 +538,8 @@ Her relationship with Kallistratos is both her greatest work and her greatest vu
 Aralôna Melikhron
 : Senior priestess at the Temple of the Black Flame in Velysâra, Myrine's teacher in fire divination and her primary sponsor within the faith's hierarchy. Aralôna recognized Myrine's gift and invested years in training her. Now in her late fifties, Aralôna views Myrine as both her greatest student and a source of concern—the girl's talent is undeniable, but her certainty about the Kallistratos prophecy unsettles a woman who has spent decades learning how easily fire readings can deceive. She supports Myrine's mendicant work but monitors her reports carefully.
 
-Theron Kalypsos
-: Myrine's eldest brother, who has taken over the family's grain trading operations in Belekos. Theron did not convert to the Black Flame, but he respects his sister's success and finds her philosophy commercially useful. He provides Myrine with occasional financial support and, more importantly, with the merchant-class contacts that give her access to the minor nobility and the emerging commercial elite where the Black Flame's doctrine resonates most powerfully. Their relationship is affectionate and pragmatic—the Kalypsos family does not disown its own, and a priestess with connections is an asset regardless of the faith she serves.
+Aralén Kalypsos
+: Myrine's eldest brother, who has taken over the family's grain trading operations in Belekos. Aralén did not convert to the Black Flame, but he respects his sister's success and finds her philosophy commercially useful. He provides Myrine with occasional financial support and, more importantly, with the merchant-class contacts that give her access to the minor nobility and the emerging commercial elite where the Black Flame's doctrine resonates most powerfully. Their relationship is affectionate and pragmatic—the Kalypsos family does not disown its own, and a priestess with connections is an asset regardless of the faith she serves.
 
 ### Enemies
 

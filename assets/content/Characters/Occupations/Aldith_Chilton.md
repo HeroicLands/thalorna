@@ -432,7 +432,7 @@ Within Ashford's upper circles, she moves with ease and recognition. Merchants' 
 **Enemies:**
 
 - **Father Sérismond**, high priestess of the Temple of Ólvenía, who views Aldith as a useful asset but no more than that. Their relationship is cordial but tense; Sérismond's spiritual authority stands in implicit competition with Aldith's charismatic power.
-- **Theron Blackweir**, a merchant's son whom Aldith humiliated publicly at a salon five years ago by publicly preferring another patron. He smiles when their paths cross in Ashford society, but his smile does not reach his eyes.
+- **Cynric Blackweir**, a merchant's son whom Aldith humiliated publicly at a salon five years ago by publicly preferring another patron. He smiles when their paths cross in Ashford society, but his smile does not reach his eyes.
 
 ## Plot Hooks
 

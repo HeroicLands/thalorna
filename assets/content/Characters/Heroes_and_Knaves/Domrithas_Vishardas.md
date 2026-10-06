@@ -471,7 +471,7 @@ Master Physician Bryâkos
 
 ### Enemies
 
-Master Alchemist Theron
+Master Alchemist Akéthrynas
 : The guild-master of Nartûm's Alchemist Guild views Dómrithâs as a corruption of their craft and has spent years gathering evidence of his unethical practices with intent to expose him and have him expelled or worse.
 
 Priestess Morvanna of Árdavon's Temple
@@ -496,6 +496,6 @@ The Hidden Cabal
 
 3. **The Plague's Cure and Curse**: A plague outbreak threatens to devastate the region, and in desperation, the authorities turn to Dómrithâs for a cure. He produces something that seems to work—those infected are healed and recover completely. But within months, survivors begin manifesting strange symptoms: sudden, violent changes in personality, aggressive behavior, and apparent transformation toward something inhuman. Dómrithâs realizes his cure did not eliminate the plague—it transformed it into something worse, something that spreads through personality and behavior rather than infection. He must find a true cure before the kingdom descends into chaos.
 
-4. **The Exposed Experiments**: **Master Alchemist Theron** finally succeeds in publicly exposing Dómrithâs's experiments, revealing evidence of the unwilling subjects he has used, the deaths resulting from his work, and the moral bankruptcy of his research. The revelation triggers a formal guild investigation and criminal proceedings. Dómrithâs can flee (losing his laboratories and resources), attempt to defend himself (nearly impossible given the evidence), or accelerate his work in hopes of producing a breakthrough significant enough to justify his methods or powerful enough to protect him from consequences.
+4. **The Exposed Experiments**: **Master Alchemist Akéthrynas** finally succeeds in publicly exposing Dómrithâs's experiments, revealing evidence of the unwilling subjects he has used, the deaths resulting from his work, and the moral bankruptcy of his research. The revelation triggers a formal guild investigation and criminal proceedings. Dómrithâs can flee (losing his laboratories and resources), attempt to defend himself (nearly impossible given the evidence), or accelerate his work in hopes of producing a breakthrough significant enough to justify his methods or powerful enough to protect him from consequences.
 
 5. **The Patron's Demand**: **Baron Euthélôs**, now ancient and terrified, demands that Dómrithâs accelerate the immortality research and provide him with a completed transformation within a specific timeframe—or face the loss of all support and protection. The timeframe is impossibly short, forcing Dómrithâs to make choices about which corners to cut, which safety measures to abandon, and which ethical lines to finally cross. The completion of this forced deadline will almost certainly result in catastrophic failure or in Euthélôs's transformation into something uncontrollable.

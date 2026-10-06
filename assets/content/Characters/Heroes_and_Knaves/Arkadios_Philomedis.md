@@ -476,8 +476,8 @@ Duke Stávron Pylíkot
 
 ### Enemies
 
-Kael the Dirge, Captain of the Crimson Wolves
-: A rival mercenary company leader whose contract was chosen over his own by a major client. Kael harbors deep resentment and seeks opportunities to undermine Arkádios's reputation.
+Nishánikos the Dirge, Captain of the Crimson Wolves
+: A rival mercenary company leader whose contract was chosen over his own by a major client. Nishánikos harbors deep resentment and seeks opportunities to undermine Arkádios's reputation.
 
 The Shadow Syndicate
 : A criminal organization whose operations Arkádios destroyed on behalf of a client five years ago. Several high-ranking members survive and hunger for vengeance.

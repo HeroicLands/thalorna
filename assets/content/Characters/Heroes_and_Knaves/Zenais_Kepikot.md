@@ -494,7 +494,7 @@ Arslanikos the Cruel
 The Feathered Syndicate
 : A mysterious criminal organization involved in smuggling rare and exotic birds for black market operations; they view Zênais's knowledge as either an asset to control or a liability to eliminate
 
-Theron the Beast Master
+Gohárikos the Beast Master
 : A rival trainer whose brutal methods stand in direct opposition to Zênais's philosophy; he views her success as evidence that his approach is inferior and has challenged her reputation publicly
 
 ### Affiliations
