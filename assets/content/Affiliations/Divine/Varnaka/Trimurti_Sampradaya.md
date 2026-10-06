@@ -19,7 +19,7 @@ data:
       - level: 0
         title: Patita
         description: >-
-          "Fallen"—put out of the tradition, denied its rites and its teaching, and not received again by any of its houses.
+          "Fallen"—put out of the tradition and denied its rites and its teaching, and marked by a brand on the face that every house and sampradāya recognizes. The sentence can be forgiven; the forgiven person carries proof of the forgiveness for life.
       - level: 1
         title: Upāsaka
         description: >-
@@ -130,7 +130,7 @@ Temples of the Trimūrti-sampradāya are large three-chambered complexes, each c
 
 The Council is the sect's ruling body and, by an authority nobody granted it and nobody has successfully contested, the licensing authority for public working throughout Vedyara. It does not teach a practice of its own. What it does is decide which practices may be worked in the open, in a god's name, before people who did not ask to be present.
 
-**The rule it enforces is the school rule.** A Varnakan ordains into a sampradāya and never to a god. A working done inside a school is the school's business and the Council's only if the school asks. A working done outside every school is folk magic—the village charm, the herb-woman, the knot against a fever—and the Council tolerates it completely, on the understanding that it claims nothing. A working done outside every school **in a god's name** is neither, and the answer to it is Patita: the working is stopped, the worker is put out of Varnakan observance altogether, and no house and no sampradāya receives them again.
+**The rule it enforces is the school rule.** A Varnakan ordains into a sampradāya and never to a god. A working done inside a school is the school's business and the Council's only if the school asks. A working done outside every school is folk magic—the village charm, the herb-woman, the knot against a fever—and the Council tolerates it completely, on the understanding that it claims nothing. A working done outside every school **in a god's name** is neither, and the answer to it is Patita: the working is stopped, the worker is put out of Varnakan observance and the face is branded. Every house and sampradāya recognizes the brand. The sentence can be forgiven, and the forgiven person carries proof of the forgiveness for the rest of their life.
 
 That single rule is why Vedyara looks, to an outsider, as though its priests hold a monopoly on power they have never actually claimed. They hold a monopoly on speaking for a god, which is a smaller thing and a much more defensible one.
 

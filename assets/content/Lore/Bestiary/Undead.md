@@ -16,6 +16,8 @@ The undead are the dead made animate through the power of gods, celestial agents
 
 Every undead is, at root, a vessel imbued with necrotic spiritual force. Details are unclear, but it seems clear that this necrotic force is associated with the destruction or perversion of the living spirit, or soul, that previously inhabited the body. This conversion of the spirit seems to always involve coercion or arrangement: once spirits leave their deceased bodies they do not naturally return. Something—a necromancer, a ritual, a creator among the undead, a divine agent—must act as a catalyst to the binding.
 
+That necrotic force is [[lore-theshadow|the Shadow]] at work on the spirit: chaos from outside creation, neither arcane, spiritual nor divine, which corrupts whatever it touches. The undead are largely its result, and every undead is related to every other through its connection to the Shadow, across every belief and culture. Each tradition's own account of why its dead walk stands as that tradition tells it, and the Shadow is the thread common to all of them.
+
 The undead are one of three classes of made creature, and the distinction is in the material and the maker. A [[lore-dreadspawncrtr|dreadspawn]] is alive, made so by a celestial hand out of nothing that lived before, and cannot breed. A [[lore-golemcrtr|construct]] is matter that has no life of its own—clay, stone, iron, or dead flesh—moved by a mage's working. An undead is a body its own spirit has already left, bound back into motion by necrotic force, and it belongs to the death gods and to the necromancers who hold that authority from them.
 
 One important distinction is between the undead and Spirits. The spirits of dead beings may from time to time remain connected to places in the material realm; ghosts and similar beings. But those creatures are not undead; those are immaterial spirits from the spirit realm that persist usually near where they died.
@@ -35,7 +37,7 @@ In Aû'Khelâthu itself the words keep their temple spelling, _terebu_ and _damu
 
 Every region has its own words for the dead that walk, and a scholar sets the learned term beside them rather than replacing them.
 
-- **The [[place-nrdlndsrgn|Nordlands]]** and the [[affiliation-asguardian|Asguardian]] faiths: _Helspawn_ for the undead as a class, from the goddess [[affiliation-nahild|Náhild]]; _nightwight_ for the tereb and _hélthrall_ for the damut. The Faith of Náhild's own liturgy calls its favored terebu [[lore-nagengir|nágengir]] and its damutu _haugverdir_.
+- **The [[place-nrdlndsrgn|Nordlands]]** and the [[affiliation-asguardian|Asguardian]] faiths: _Helspawn_ for the undead as a class, from the goddess [[affiliation-nahild|Náhild]]; _nightwight_ for the tereb and _hélthrall_ for the damut. The Faith of Náhild's own liturgy calls its favored terebu [[lore-nagengir|nágengir]] and its damutu [[lore-haugverdir|haugverdir]], a word the folk also give to the dead said to keep their own mounds.
 - [[place-kchchkcntnnt|K'ich'chik]]: the _Threshold-Held_, the terebu whose souls [[affiliation-pikultzumaq|Pik'ul Tz'umaq]] holds at the boundary of Xibalba.
 
 ## The Undead Hierarchy
