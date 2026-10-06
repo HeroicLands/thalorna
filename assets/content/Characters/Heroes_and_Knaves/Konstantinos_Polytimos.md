@@ -442,7 +442,7 @@ At the **Copper Kettle**, Konstántinos has transformed a decent tavern kitchen 
 
 Konstántinos is a man of passionate, contained intensity. In the kitchen, he is fully present—every movement precise, every decision made with certainty, every ingredient treated with respect. Outside the kitchen, he is quieter, more reserved, as if the intensity required in his work has consumed the portion of himself available for broad socializing. He is not unfriendly, but neither is he particularly outgoing. He speaks in measured tones, often pausing mid-sentence to consider his words, and he has a tendency to become distracted when discussing subjects other than food. With those who understand cooking, however, he opens up considerably, and conversations about technique, ingredients, or the philosophy of flavor can draw him into hours of passionate discourse.
 
-His relationship with the god **Vúlcan** is not one of formal piety but of genuine kinship. He sees in Vúlcan's domain—fire, forge, transformation—a perfect mirror of his own work. Each meal is a kind of alchemy, raw ingredients transformed through heat and knowledge into sustenance that nourishes both body and spirit. He approaches his work as a form of prayer, a daily dedication to excellence and care.
+His relationship with the god **Ústaron** is not one of formal piety but of genuine kinship. He sees in Ústaron's domain—fire, forge, transformation—a perfect mirror of his own work. Each meal is a kind of alchemy, raw ingredients transformed through heat and knowledge into sustenance that nourishes both body and spirit. He approaches his work as a form of prayer, a daily dedication to excellence and care.
 
 ### Motivation
 
@@ -470,7 +470,7 @@ Konstántinos is driven by the conviction that food is one of humanity's greates
 ### Patrons
 
 The Proprietor of the Copper Kettle
-: His employer, **Merchant-Master Theron**, trusts him completely and defers to his judgment on all kitchen matters. Theron has invested significantly in the kitchen and treats Konstántinos almost as a partner.
+: His employer, **Merchant-Master Basilíon**, trusts him completely and defers to his judgment on all kitchen matters. Basilíon has invested significantly in the kitchen and treats Konstántinos almost as a partner.
 
 Wealthy Merchant Families
 : Several prominent merchant houses in the city specifically patronize the Copper Kettle to enjoy Konstántinos's cooking and have requested private catering for their events.

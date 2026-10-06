@@ -440,7 +440,7 @@ Now in his twilight years, Timothéon remains active but increasingly conscious 
 
 ### Personality
 
-Timothéon possesses the weathered wisdom of someone who has solved a thousand problems and learned to anticipate a thousand more. He is measured in speech, preferring to listen and observe before offering his thoughts, yet when he speaks it is with the authority of long experience. His humor runs dry and practical, seasoned with the kind of hard-won irony that comes from decades of weathering misfortune and triumph alike. Despite his advancing age, he maintains a sharp eye for human nature and an almost paternal patience with younger folk, though he has little tolerance for foolishness or dishonesty. His deep faith in Jánus, god of order and boundaries, manifests in his careful organization and his belief in doing things in their proper order—be they the maintenance schedules for wagon wheels or the proper hierarchy of respect among traveling companions.
+Timothéon possesses the weathered wisdom of someone who has solved a thousand problems and learned to anticipate a thousand more. He is measured in speech, preferring to listen and observe before offering his thoughts, yet when he speaks it is with the authority of long experience. His humor runs dry and practical, seasoned with the kind of hard-won irony that comes from decades of weathering misfortune and triumph alike. Despite his advancing age, he maintains a sharp eye for human nature and an almost paternal patience with younger folk, though he has little tolerance for foolishness or dishonesty. His deep faith in Árdavon, god of order and boundaries, manifests in his careful organization and his belief in doing things in their proper order—be they the maintenance schedules for wagon wheels or the proper hierarchy of respect among traveling companions.
 
 He is a creature of ritual and habit, finding comfort in routine and excellence, yet paradoxically adapts with impressive flexibility when circumstances demand improvisation. Those who know him well understand that beneath his gruff exterior beats a kind heart; he has quietly arranged aid for struggling teamsters and their families, and his regular patronage of the Cooks Guild has made him a beloved figure among those who provision the traveling merchants.
 
@@ -503,7 +503,7 @@ Merchant Castellan Thorne
 Teamsters' Guild
 : A senior member whose counsel is regularly sought on matters of standards, training, and guild governance; he maintains a small workshop where junior teamsters are trained in proper maintenance and care of draft animals.
 
-The Order of Jánus
+The Order of Árdavon
 : A lay organization devoted to maintaining proper order and boundaries in commerce; Timothéon is a regular participant in their ritual observances and has served on their advisory council.
 
 ## Plot Hooks

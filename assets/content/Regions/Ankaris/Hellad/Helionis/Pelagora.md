@@ -81,7 +81,7 @@ data:
 sohl: {system: {commonSkills: [helonclng]}}
 ---
 
-- **Patron Deity:** [[affiliation-arldnpnthn|Jánus]] (order and justice)
+- **Patron Deity:** [[affiliation-arldnpnthn|Árdavon]] (order and justice)
 - **Government:** Democratic assembly of free citizens
 
 ## Overview

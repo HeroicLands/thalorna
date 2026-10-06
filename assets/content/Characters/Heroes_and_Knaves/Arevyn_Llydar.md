@@ -496,7 +496,7 @@ Miners' Union of Élavendre
 Craftspeople's Guild
 : Membership in multiple specialized circles including Jewelcrafters and Metallurgists.
 
-The Order of Jánus (Order Aspect)
+The Order of Árdavon (Order Aspect)
 : A devout follower who attends ceremonies regularly, finding spiritual meaning in the order inherent in mineral formations.
 
 ## Plot Hooks
@@ -509,4 +509,4 @@ The Order of Jánus (Order Aspect)
 
 4. **The Forbidden Depths**: Arévyn discovers references in old mining records to a legendary chamber deep beneath the known mines—a place deliberately sealed off and forgotten by his predecessors. The cryptic warnings suggest catastrophe if the seals were ever breached. When strange geological disturbances suggest the seals may be failing, Arévyn faces a terrible choice: risk descending to inspect the seals, or remain silent and hope the danger passes.
 
-5. **The Apprentice's Betrayal**: Arévyn's most gifted apprentice, **Theron Greymeet**, begins secretly selling Arévyn's prospecting charts to the Byzarian League, seeking personal wealth and advancement. When Arévyn discovers the betrayal, he must decide between crushing an ambitious young man or understanding the desperation that drives him—a choice that forces him to confront how his own inflexibility may have pushed a promising student toward corruption.
+5. **The Apprentice's Betrayal**: Arévyn's most gifted apprentice, **Kénrel Elárven**, begins secretly selling Arévyn's prospecting charts to the Byzarian League, seeking personal wealth and advancement. When Arévyn discovers the betrayal, he must decide between crushing an ambitious young man or understanding the desperation that drives him—a choice that forces him to confront how his own inflexibility may have pushed a promising student toward corruption.

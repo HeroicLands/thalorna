@@ -485,7 +485,7 @@ Keth Vetrdómr
 Thane Hrandarukh
 : A warlord of the northern territories who views the Serpent's Hearth as a den of spies and resistance, and has made veiled threats about bringing Hvalgvir and his establishment to heel.
 
-The Poison Cult of Vúlcan
+The Poison Cult of Ústaron
 : A heretical sect has begun to target Hvalgvir, viewing his worship of Eidgar and his work in promoting order as direct opposition to their chaotic spiritual vision. They have begun poisoning patrons who drink from his taproom.
 
 ### Affiliations

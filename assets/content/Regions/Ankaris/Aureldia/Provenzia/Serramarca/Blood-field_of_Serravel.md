@@ -26,7 +26,7 @@ merely a reliable one, since the weather that carries the sound is the weather t
 
 The frontier is fought over every year the passes are open, and men die at Serravel with some
 regularity because it is where the road is. Whether the new dead join the recurrence is a matter of
-genuine dispute: the old say the sounds have grown, the priests of [[affiliation-thanatos|Thánatos]]
+genuine dispute: the old say the sounds have grown, the priests of [[affiliation-thanatos|Sélmoros]]
 say the field was made once and is not being remade, and nobody can settle it because no one can count
 a noise.
 

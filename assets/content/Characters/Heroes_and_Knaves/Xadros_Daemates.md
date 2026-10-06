@@ -469,7 +469,7 @@ Xadrôs is motivated fundamentally by the creative impulse and the desire to cre
 
 ### Patrons
 
-The Temple of Vénusia
+The Temple of Ólvenía
 : The local religious order regularly commissions altar adornments, decorative panels, and ceremonial objects from Xadrôs, valuing both his skill and his personal piety.
 
 Merchant Peldan the Prosperous

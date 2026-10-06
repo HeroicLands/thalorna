@@ -472,9 +472,9 @@ The Covenant of Malagna Farmers
 
 ### Enemies
 
-No true enemies, though Kael Swiftthatch, an ambitious younger craftsman, has begun undercutting Hliskthann's prices.
+No true enemies, though **Dvulgorv Swiftthatch**, an ambitious younger craftsman, has begun undercutting Hliskthann's prices.
 
-Kael Swiftthatch
+Dvulgorv Swiftthatch
 : An ambitious younger craftsman who has begun undercutting Hliskthann's prices by taking jobs Hliskthann has declined or delayed due to age. The two maintain a craftsman's courtesy but represent opposing philosophies.
 
 The New Methods Coalition
@@ -496,6 +496,6 @@ Mótefnir's rural faithful
 
 3. **The Apprentice Problem**: A talented young woman, **Signy Stormborn**, repeatedly seeks Hliskthann out, begging to be his apprentice. She claims that her family will lose their farm if she cannot learn a trade that pays better than farming. Hliskthann's resistance softens as he realizes she represents the future—but teaching her will require adapting his solitary methods and confronting his own mortality.
 
-4. **The Rival's Sabotage**: Mysteriously, roofs Hliskthann thatched begin failing prematurely—developing leaks and structural weaknesses far before their time. The failures damage his reputation among rural communities. Hliskthann must investigate whether Kael Swiftthatch is deliberately sabotaging his work to take his custom, or whether something worse is at work.
+4. **The Rival's Sabotage**: Mysteriously, roofs Hliskthann thatched begin failing prematurely—developing leaks and structural weaknesses far before their time. The failures damage his reputation among rural communities. Hliskthann must investigate whether Dvulgorv Swiftthatch is deliberately sabotaging his work to take his custom, or whether something worse is at work.
 
 5. **The Storm's Aftermath**: A catastrophic and unprecedented storm strikes the region, destroying or severely damaging dozens of structures. Hliskthann is approached by Jarl Thorstein and the farmers' covenant to lead reconstruction efforts, requiring him to coordinate multiple craftspeople, manage resources, and work at an intense pace despite his aging body. Success would cement his legacy; failure would leave the region vulnerable heading into winter. The work becomes a race against time, injury, and winter's onset.

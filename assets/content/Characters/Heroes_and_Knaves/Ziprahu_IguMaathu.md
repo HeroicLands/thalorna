@@ -476,8 +476,8 @@ Master [[affiliation-linzwrtglzk3|Lin'Zuwaret elu Galezkara]]
 
 ### Enemies
 
-Merchant Qelti the Bold
-: A thief of considerable skill who has attempted multiple times to break Ziprahu's locks and steal from his clients. Each attempt has failed, and Qelti harbors a deep hatred for the locksmith, viewing him as a personal nemesis and obstacle to his art.
+Merchant Luyat the Bold
+: A thief of considerable skill who has attempted multiple times to break Ziprahu's locks and steal from his clients. Each attempt has failed, and Luyat harbors a deep hatred for the locksmith, viewing him as a personal nemesis and obstacle to his art.
 
 Master [[affiliation-linzokhothu|Lin'Zokhothu]]
 : The retired master's three children blame Ziprahu for outpacing their inheritance and belief that one of them should have succeeded Zokhothu. They spread rumors that Ziprahu's success owes to theft of their father's designs, a claim without foundation but which causes periodic gossip.

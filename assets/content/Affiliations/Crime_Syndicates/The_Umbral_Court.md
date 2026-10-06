@@ -167,10 +167,10 @@ position that it does not exist is the least embarrassing one available.
 - **The Synod.** Existential and asymmetric. The Synod could destroy the Court if it could find it,
   and each has spent generations ensuring the other cannot prove what it knows.
 - **The [[affiliation-justbladeordr|Order of the Just Blade]].** The Court's greatest hope and its
-  greatest danger. The Order is Jánusian, sworn to order and justice, answerable to the Synod, and
+  greatest danger. The Order is Árdavonian, sworn to order and justice, answerable to the Synod, and
   commands enormous respect in its own right—and a knight sworn to _justice_ serving a state where
   the governed have no voice is a man with a private difficulty. The Court has sympathizers among the
-  Knight-Captains. It also has enemies there who regard it as everything Jánus abhors, and who are
+  Knight-Captains. It also has enemies there who regard it as everything Árdavon abhors, and who are
   correct.
 - **[[affiliation-kngdmldrth|Aldorath]] and [[affiliation-repblctrvn|Tarvenne]].** Foreign money.
   Aldorath's feudal lords find the restoration of a Dúnavarran monarchy an agreeable idea and fund it
@@ -183,12 +183,12 @@ position that it does not exist is the least embarrassing one available.
 
 ## The Second Face
 
-Dúnavarre is devoutly [[affiliation-arldnpnthn|Aurèldían]] and honors **Jánus** above the rest—Keeper of the Gates, whose symbol is a mask with two faces, one serene and one stern. The Court has
+Dúnavarre is devoutly [[affiliation-arldnpnthn|Aurèldían]] and honors **Árdavon** above the rest—Keeper of the Gates, whose symbol is a mask with two faces, one serene and one stern. The Court has
 taken this for its own with some relish. It calls itself the **Second Face**: the argument being that
-Jánus's stern aspect looks upon a kingdom whose rulers were never granted their office, and that the
+Árdavon's stern aspect looks upon a kingdom whose rulers were never granted their office, and that the
 Court is what order looks like when the lawful form of it has been set aside.
 
-Every priest of Jánus in Dúnavarre has denounced this. Not all of them have denounced it convincingly.
+Every priest of Árdavon in Dúnavarre has denounced this. Not all of them have denounced it convincingly.
 
 ## The Embassy to Tānvür
 
@@ -216,7 +216,7 @@ wrecked is a question its own officers disagree about, and Laradh has not been t
 - **The unmasking.** A Herald's register surfaces that bears on who the Veiled Crown is. Every possible
   answer is catastrophic for somebody.
 - **A Knight-Captain's conscience.** An officer of the Just Blade has begun passing word to the Court.
-  He believes he is serving Jánus. He may be right, and it will get him killed either way.
+  He believes he is serving Árdavon. He may be right, and it will get him killed either way.
 
 ## See Also
 
