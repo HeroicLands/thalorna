@@ -3,7 +3,7 @@ shortcode: xilanixlan
 name: {full: "Faith of Xilan Ix'lan", aliases: [The Walker of Paths, "Xilan Ix'lan"]}
 type: affiliation
 subType: faithtradition
-description: "Travel, trade and communication—the god of the sacbeob, whose road shrines are the nerves of the continent and whose priesthood is mobile by design."
+description: "Travel, trade and communication—the god of the white roads, whose road shrines are the nerves of the continent and whose priesthood is mobile by design."
 tags: [itzani, religion]
 data:
   banner: faithbnr
@@ -57,7 +57,7 @@ data:
     offices:
       K'ul Ix'lan: >-
         Keeper of the paths—head of the branch in a city-state, and the priest who answers for a causeway that has been allowed to fail.
-      Warden of the Sacbeob: >-
+      Warden of the White Roads: >-
         Holds a named stretch of causeway, its surface, its drainage and the shrines along it, and reports its condition each season.
       Road Shrine Keeper: >-
         Resident priest of a single shrine: records travelers, gives refreshment, watches the road, and is a living node of the message network.
@@ -84,7 +84,7 @@ sohl: {system: {commonSkills: [xilanixlan]}}
 
 **Domain:** Travel, Trade, Journeys, Messengers, Commerce, Communication
 
-The K'ich'chik continent is not gentle land—impenetrable jungle, jagged mountains, unpredictable rivers—yet across this formidable geography the city-states maintain intricate networks of trade and communication. This feat is the domain of Xilan Ix'lan, god of travelers and the pathways they walk. The great causeway roads—sacbeob, the sacred white stone paths—that connect major city-states are understood as literal manifestations of his presence. These engineering marvels are raised above the landscape to prevent flooding, perfectly straight for hundreds of miles, their white stone surfaces reflecting moonlight for nighttime travel. To walk a sacbé is to walk in the god's own footsteps.
+The K'ich'chik continent is not gentle land—impenetrable jungle, jagged mountains, unpredictable rivers—yet across this formidable geography the city-states maintain intricate networks of trade and communication. This feat is the domain of Xilan Ix'lan, god of travelers and the pathways they walk. The great causeway roads—the _ix'lan ch'upul_ (white roads), the sacred white stone paths—that connect major city-states are understood as literal manifestations of his presence. These engineering marvels are raised above the landscape to prevent flooding, perfectly straight for hundreds of miles, their white stone surfaces reflecting moonlight for nighttime travel. To walk a sacbé is to walk in the god's own footsteps.
 
 ## Worship
 
@@ -98,13 +98,13 @@ Blood is given lightly and often—a thumb at a shrine, a few drops at a crossro
 
 ## Organization
 
-The priesthood is unique in being partially distributed and mobile. Road shrines dot the sacbeob, each maintaining a resident priest who records travelers, provides refreshment, monitors the road for damage, and serves as a living node in the information network. A **Road Shrine Keeper** may go a season without seeing another priest of his own branch, and the office is given to men of settled temperament; conversely, the runners and caravan chaplains are almost never in one place, and the branch's internal life is conducted largely by message.
+The priesthood is unique in being partially distributed and mobile. Road shrines dot the white roads, each maintaining a resident priest who records travelers, provides refreshment, monitors the road for damage, and serves as a living node in the information network. A **Road Shrine Keeper** may go a season without seeing another priest of his own branch, and the office is given to men of settled temperament; conversely, the runners and caravan chaplains are almost never in one place, and the branch's internal life is conducted largely by message.
 
 That message network is the branch's real asset. Reports move from shrine to shrine by relay and are consolidated by the **Keeper of the Traveller Rolls**, so that the priesthood in any large city knows, within days, which roads are cut, which cities are mustering and what is moving on the causeways. Kings pay for portions of this and never for all of it. The branch's standing rule is that the roads belong to the god and the information belongs to the roads, which is understood on all sides to mean it sells to everyone.
 
 Because their priests cross borders continually, the road priests are the tradition's habitual mediators. A dispute between two city-states is commonly opened by a K'ul Ix'lan, since he can be received in both without either conceding precedence, and the branch has grown practiced at carrying terms it has no authority to set.
 
-Recruitment is unlike any other branch's: it takes runners, porters, caravan guards and merchants' sons, people already at home on the road, and teaches them the calendar afterward. The scribes consider its priests barely literate. The branch replies that a codex has never yet walked from Balamkul to the coast.
+Recruitment is unlike any other branch's: it takes runners, porters, caravan guards and merchants' sons, people already at home on the road, and teaches them the calendar afterward. The scribes consider its priests barely literate. The branch replies that a codex has never yet walked from Ix'ilankul to the coast.
 
 ## Relations
 

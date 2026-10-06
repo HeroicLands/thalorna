@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Southern K'ich'chik is where the ordered K'ich'chik world runs out. The realms of [[affiliation-balamtzaku|Ba'alam Tza'ku]] and [[affiliation-kuxibalam|K'uxi Balam]] are fully part of K'ich'chik civilization, with cities, agricultural estates and the priesthood's sacbe roads; beyond [[affiliation-kawiltzakl|K'awiil Tza'kul]], the road ends at the wastes of [[place-tzikinbalmrgn|Tz'ikin Ba'alam]]. About 3,500,000 people live in the south.
+Southern K'ich'chik is where the ordered K'ich'chik world runs out. The realms of [[affiliation-balamtzaku|Ba'alam Tza'ku]] and [[affiliation-kuxibalam|K'uxi Balam]] are fully part of K'ich'chik civilization, with cities, agricultural estates and the priesthood's _ix'lan ch'upul_ (white roads); beyond [[affiliation-kawiltzakl|K'awiil Tza'kul]], the road ends at the wastes of [[place-tzikinbalmrgn|Tz'ikin Ba'alam]]. About 3,500,000 people live in the south.
 
 ## Character
 

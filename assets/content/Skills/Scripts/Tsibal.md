@@ -23,7 +23,7 @@ It is a genuine script and is learned as one, but it is not read aloud in [[skil
 
 ## How it moves
 
-Along the sacbe—the raised causeways—in the hands of the **Ch'umbal** relay runners, and into the priestly scribal houses at the great centers, where bundles are decoded, copied into fresh cord, and archived. A cord bundle is compact, weatherproof, unreadable to an illiterate interceptor, and cannot be skimmed: an enemy who takes one has taken a knot of string.
+Along the _ix'lan ch'upul_—the white roads, raised causeways of packed limestone—in the hands of the **Ch'umbal** relay runners, and into the priestly scribal houses at the great centers, where bundles are decoded, copied into fresh cord, and archived. A cord bundle is compact, weatherproof, unreadable to an illiterate interceptor, and cannot be skimmed: an enemy who takes one has taken a knot of string.
 
 ## Who has it
 
