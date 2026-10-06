@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      A consortium of the capital's scribes working outside the temple schools, taking private commissions and guarding the trade in confidential copying.
     ranks:
       - level: 1
-        title: "Member"
+        title: Zethu
         description: >-
-          Works as a scribe in the consortium taking private commissions and guarding the confidentiality of copying.
+          A scribe of the consortium, taking private commissions and paid for discretion as much as for the hand.
     offices: {}
   seat: null
   domains: []

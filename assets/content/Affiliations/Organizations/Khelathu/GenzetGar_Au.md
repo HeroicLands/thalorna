@@ -11,14 +11,33 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: autocracy
+    summary: >-
+      The household and council around the Gar-Aû, through which imperial appointment is made and favor distributed. Every faction keeps a presence, and a decision made elsewhere has to survive this court to become policy.
     ranks:
       - level: 1
-        title: "Member"
+        title: Courtier
         description: >-
-          Belongs to the imperial household and council through which appointment and favor pass at the Gar-Aû's court.
-    offices: {}
+          Of the Gar-Aû's household or council, present when the court sits.
+      - level: 2
+        title: Zemelu
+        description: >-
+          A companion of the Gar-Aû, holding favor and access rather than territory.
+      - level: 3
+        title: Zabet
+        description: >-
+          A woman of rank at court.
+      - level: 4
+        title: Iru'palu
+        description: >-
+          Of the royal family or one of the handful of exalted houses, immediately below the throne.
+      - level: 5
+        title: Gar-Aû
+        description: >-
+          The divine sovereign, whose ear the factions of the court contend for.
+    offices:
+      Judicial and Religious Advisor: >-
+        Attends the court to advise on law and the gods, with a residence in the palace complex.
   seat: null
   domains: []
   population: 0

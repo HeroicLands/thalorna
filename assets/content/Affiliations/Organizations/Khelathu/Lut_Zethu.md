@@ -11,14 +11,17 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      The Imperial Library, held under the hand of the scribes' guild, which grants every reader's permission. What it holds on the spirit-realm is kept behind a further door.
     ranks:
       - level: 1
-        title: "Member"
+        title: Zethu of the Library
         description: >-
-          Works within the Imperial Library's custody of texts under the hand of the scribes' guild.
-    offices: {}
+          A scribe of the guild keeping the library's texts.
+    offices:
+      Keeper of the Further Door: >-
+        Holds the door to the library's texts on the spirit-realm, open to fewer readers than the rest.
   seat: null
   domains: []
   population: 0

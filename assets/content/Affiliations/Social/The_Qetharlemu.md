@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      Priests of the stricter observances who hold that the old forms of worship are the only valid forms, and object together before any reinterpretation of a rite reaches the worshippers.
     ranks:
       - level: 1
-        title: "Member"
+        title: Lem'Nelgir
         description: >-
-          Participates as a priest in the movement defending the old forms of worship against novelty and local variation.
+          "Servant of the God"—an ordained priest who holds with the Qethar'lemu against novelty in ritual.
     offices: {}
   seat: null
   domains: []

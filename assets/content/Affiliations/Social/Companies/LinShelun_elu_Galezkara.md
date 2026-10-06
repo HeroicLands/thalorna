@@ -11,14 +11,23 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      The principal playing company of the capital, whose leading performers are known across the empire and whose internal politics are as involved as any court's.
     ranks:
       - level: 1
-        title: "Performer"
+        title: Performer
         description: >-
-          Performs with Galezkara's principal playing company in the productions it stages.
-    offices: {}
+          Plays in the company's productions, with a standing that can shift in a single season.
+      - level: 2
+        title: Leading Performer
+        description: >-
+          Known by name across the empire, a standing a poorly received season can take away.
+    offices:
+      Playwright: >-
+        Writes the productions the company stages.
+      Director: >-
+        Directs a production on the company's stage.
   seat: null
   domains: []
   population: 0

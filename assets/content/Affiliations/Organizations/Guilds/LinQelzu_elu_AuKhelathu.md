@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      The chartered guild of the empire's locksmiths, which sets the standard a lock must meet before it is sold as guild-work.
     ranks:
       - level: 1
-        title: "Member"
+        title: Locksmith
         description: >-
-          Practices locksmithing within the guild certifying the makers of vaults, strongboxes and door-locks.
+          A maker of vaults, strongboxes and door-locks certified by the guild.
     offices: {}
   seat: null
   domains: []

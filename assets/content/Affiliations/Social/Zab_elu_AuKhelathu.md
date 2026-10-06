@@ -11,13 +11,26 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: oligarchy
+    summary: >-
+      The titled families of the empire, holding most of its land, office and access to the court between them through marriage alliance and inherited appointment, and closing ranks against outsiders.
     ranks:
       - level: 1
-        title: "Member"
+        title: Of a Titled House
         description: >-
-          Belongs by hereditary standing to one of the titled families participating in the imperial fellowship.
+          Born or married into one of the titled families.
+      - level: 2
+        title: Legha'lutu or Zabet'lutu
+        description: >-
+          Master or mistress of an estate, holding a manor, its lands and its attached village.
+      - level: 3
+        title: Halzi'a
+        description: >-
+          Governs a selat, commanding its levies, collecting its taxes and dispensing its justice.
+      - level: 4
+        title: Iru'palu
+        description: >-
+          Of the royal family or one of the handful of exalted houses, immediately below the throne.
     offices: {}
   seat: null
   domains: []

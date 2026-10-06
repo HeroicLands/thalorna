@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: democracy
+    summary: >-
+      A loose fellowship of scouts and wilderness-hands who take the work a caravan master would rather not advertise, working in coordination without formal hierarchy.
     ranks:
       - level: 1
-        title: "Member"
+        title: Gray Ranger
         description: >-
-          Works as a scout or wilderness-hand in the fellowship taking discreet tracking, guiding and path-clearing work.
+          Tracks, guides and clears a path through country the road crews leave alone.
     offices: {}
   seat: null
   domains: []

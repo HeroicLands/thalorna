@@ -11,13 +11,18 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: autocracy
+    summary: >-
+      A hereditary line of craftsmen whose name carries weight in the guild halls whatever guild a member belongs to. Its master keeps the family's techniques and the standard the name stands for.
     ranks:
       - level: 1
-        title: "Member"
+        title: Of the House
         description: >-
-          Belongs to the hereditary craftsmen's line and upholds the workmanship associated with its family name.
+          Bears the Let'Gerau name and holds to its standard above the guild's minimum.
+      - level: 2
+        title: Master of the House
+        description: >-
+          Keeps the line's techniques and answers for the work done under its name.
     offices: {}
   seat: null
   domains: []

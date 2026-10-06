@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      The children of the retired master locksmith Zokhothu, passed over for his succession, who campaign together against the man it went to.
     ranks:
       - level: 1
-        title: "Member"
+        title: Child of Zokhothu
         description: >-
-          Belongs to the locksmith's family fellowship campaigning against the successor chosen in place of his children.
+          One of the retired master's children, holding that the craft should have passed to them.
     offices: {}
   seat: null
   domains: []

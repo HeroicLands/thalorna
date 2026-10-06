@@ -11,14 +11,17 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: bureaucracy
+    summary: >-
+      The imperial service that collects the Gar-Aû's dues and enforces the law of trade, its assessors weighing and taxing goods at the point of sale or transit. It treats the taking of anything unweighed as theft.
     ranks:
       - level: 1
-        title: "Assessor"
+        title: Assessor
         description: >-
-          Serves in the imperial exaction service, weighing and taxing goods at sale or transit.
-    offices: {}
+          Empowered to weigh and tax goods at a market or a ford.
+    offices:
+      Weighmaster: >-
+        Keeps the service's weights at a market or ford worth taxing.
   seat: null
   domains: []
   population: 0

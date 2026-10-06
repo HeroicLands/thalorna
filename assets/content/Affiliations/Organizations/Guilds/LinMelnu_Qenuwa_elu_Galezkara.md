@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      The goldsmiths of the capital, admitting only those whose work is judged fit for temple and tomb, and following a temple's failed inspection with scrutiny of their own.
     ranks:
       - level: 1
-        title: "Member"
+        title: Goldsmith
         description: >-
-          Works as a goldsmith in the consortium supplying gilded fittings and funerary gold for Galezkara's temples and tombs.
+          Supplies gilded fittings and funerary gold, admitted on work judged fit for temple and tomb.
     offices: {}
   seat: null
   domains: []

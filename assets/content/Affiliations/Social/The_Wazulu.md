@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      A movement within the priesthood of the sterner gods holding that public performance corrupts performer and audience alike, and pressing for the players to be put down.
     ranks:
       - level: 1
-        title: "Member"
+        title: Lem'Nelgir
         description: >-
-          Participates as a priest in the movement opposing public performance as corrupting both players and audiences.
+          "Servant of the God"—an ordained priest of one of the sterner gods who presses the movement's cause.
     offices: {}
   seat: null
   domains: []

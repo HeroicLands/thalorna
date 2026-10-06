@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      The chartered body that regulates paid soldiering in the empire, placing its members with employers and vouching for their standing and conduct.
     ranks:
       - level: 1
-        title: "Member"
+        title: Mercenary
         description: >-
-          Takes paid soldiering contracts through the guild under its terms of hire.
+          A fighter who submits to the guild's terms of hire and is vouched for by it.
     offices: {}
   seat: null
   domains: []

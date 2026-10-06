@@ -11,13 +11,18 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: autocracy
+    summary: >-
+      A military house whose master answers for everyone attached to it. Its men rise through the officer ranks and its women are placed at court, each generation's placements chosen to support the other.
     ranks:
       - level: 1
-        title: "Member"
+        title: Of the House
         description: >-
-          Belongs to the military house whose family placements connect command with influence at court.
+          Bears the Sa'Aqutu name: a son raised through the officer ranks, a daughter placed at court, or other kin of the house.
+      - level: 2
+        title: Master of the House
+        description: >-
+          Holds the land and answers at law for the house, and sets the course of its placements.
     offices: {}
   seat: null
   domains: []

@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      The chartered debt collectors of the capital, holding the exclusive right to enforce what a creditor's ledger says is owed once the courts have confirmed it.
     ranks:
       - level: 1
-        title: "Member"
+        title: Collector
         description: >-
-          Works within Galezkara's guild of debt collectors, pursuing debts confirmed by the courts.
+          Pursues the debts the courts have confirmed, in place of the state's own enforcement.
     offices: {}
   seat: null
   domains: []

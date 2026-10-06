@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      An informal association of the capital's independent traders, meeting outside any guild hall to share prices, routes and buyers and to coordinate against the larger commercial houses.
     ranks:
       - level: 1
-        title: "Member"
+        title: Independent Trader
         description: >-
-          Participates as an independent trader in the circle sharing commercial information and coordinating against larger houses.
+          Trades independently and stands with the circle against the larger houses.
     offices: {}
   seat: null
   domains: []

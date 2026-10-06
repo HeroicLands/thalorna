@@ -11,14 +11,21 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: theocracy
+    summary: >-
+      The ordained priesthood of Reth'Sa'âr, drawn from scribes who pass beyond the guild halls into the god's direct service. It keeps his archives and sets the disciplines of the written hand, and a document it refuses to recognize carries no standing before any court or temple.
     ranks:
       - level: 1
-        title: "Priest"
+        title: Lem'Nelgir
         description: >-
-          Serves in the sworn priesthood of Reth'Sa'âr, keeping his archives and the disciplines of the written hand.
-    offices: {}
+          "Servant of the God"—an ordained priest of Reth'Sa'âr, sworn to his archives and his hand.
+      - level: 2
+        title: Thâz'Lekhau
+        description: >-
+          "Great of Sacred Power"—the High Priest of Reth'Sa'âr, at the head of the priesthood.
+    offices:
+      Keeper of the Disciplines: >-
+        Sets the disciplines of the written hand that every scribal text is measured against.
   seat: null
   domains: []
   population: 0

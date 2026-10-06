@@ -11,13 +11,18 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: autocracy
+    summary: >-
+      A wealthy merchant house with trading interests across the empire, patron to timber-merchants and craftspeople. Its master decides which ventures carry the house's name.
     ranks:
       - level: 1
-        title: "Member"
+        title: Of the House
         description: >-
-          Belongs to the merchant house whose trading interests and patronage extend across the empire.
+          Bears the Qelti name and trades under the house's interests.
+      - level: 2
+        title: Master of the House
+        description: >-
+          Holds mastery of the house and lends its name to the ventures it expects to profit by.
     offices: {}
   seat: null
   domains: []

@@ -11,14 +11,21 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: autocracy
+    summary: >-
+      A noble household of the capital, large enough that a dedicated steward runs its affairs and old enough to expect one of quality. Its master answers for the house; the steward keeps it.
     ranks:
       - level: 1
-        title: "Member"
+        title: Of the House
         description: >-
-          Belongs to the noble household of Galezkara whose affairs are managed by a dedicated steward.
-    offices: {}
+          Of the Zekhemulu household, kin or one of those attached to it.
+      - level: 2
+        title: Master of the House
+        description: >-
+          Holds mastery of the household and answers at law for it.
+    offices:
+      Steward: >-
+        Manages the household's affairs on the master's behalf, and is replaced when the work falls short.
   seat: null
   domains: []
   population: 0

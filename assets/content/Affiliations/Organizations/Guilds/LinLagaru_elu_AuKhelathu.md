@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      A loose coalition of dealers who buy and sell on volume alone, prizing turnover over the quality of any lot.
     ranks:
       - level: 1
-        title: "Member"
+        title: Quantity Merchant
         description: >-
-          Trades in bulk within the guild of dealers who prize volume and turnover over the quality of individual lots.
+          Deals in bulk, trading margin for turnover.
     offices: {}
   seat: null
   domains: []

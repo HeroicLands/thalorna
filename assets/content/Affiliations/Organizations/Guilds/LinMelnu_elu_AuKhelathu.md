@@ -11,13 +11,22 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      The chartered guild of the empire's metalworkers, heir to the forge-companies older than its charter. It trains smiths in that inherited practice, certifies work against it, and withdraws the certification from a smith who departs from it.
     ranks:
-      - level: 1
-        title: "Member"
+      - level: 0
+        title: Name Struck
         description: >-
-          Practices metalworking within the chartered guild and its inherited forge-company traditions.
+          Struck from the guild's roll, and with it the certification that makes a smith's work sellable.
+      - level: 1
+        title: Apprentice
+        description: >-
+          Learning the inherited practice of the forge under the guild's training.
+      - level: 2
+        title: Certified Smith
+        description: >-
+          Registered with the guild and paying its dues, with work certified as guild-standard.
     offices: {}
   seat: null
   domains: []

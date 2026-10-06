@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      The innkeepers of the capital, sharing what they learn of travelers and standing together against the merchant houses that would buy the inns outright.
     ranks:
       - level: 1
-        title: "Member"
+        title: Innkeeper
         description: >-
-          Participates as an innkeeper in the association sharing knowledge of travelers and defending independent inns.
+          Keeps a house that takes in travelers for pay, and refuses to sell it to the merchant houses.
     offices: {}
   seat: null
   domains: []

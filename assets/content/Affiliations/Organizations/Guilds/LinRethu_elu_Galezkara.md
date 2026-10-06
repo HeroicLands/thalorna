@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      A circle of the capital's learned—scholars, liberal merchants and teachers—who meet regularly, commission lectures and seminars, and fund the study the temple schools pass over.
     ranks:
       - level: 1
-        title: "Member"
+        title: Of the Circle
         description: >-
-          Participates in the circle of scholars, merchants and teachers supporting study beyond the temple schools' interests.
+          A scholar, merchant or teacher who meets with the circle and judges what its funding goes to.
     offices: {}
   seat: null
   domains: []

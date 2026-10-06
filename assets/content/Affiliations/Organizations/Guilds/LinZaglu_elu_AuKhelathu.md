@@ -11,14 +11,21 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      The chartered guild of the makers of figures and mechanisms, which raises an apprentice to full membership on the funerary figure and keeps a standards committee over the work.
     ranks:
       - level: 1
-        title: "Member"
+        title: Apprentice
         description: >-
-          Practices the guild's craft of making figures and mechanisms, including the funerary figures made for burial.
-    offices: {}
+          Learning carving, jointing and the small clockwork that moves a figure's limbs.
+      - level: 2
+        title: Maker of Figures
+        description: >-
+          Raised to full membership on the funerary figure every apprentice must produce.
+    offices:
+      Standards Committee: >-
+        Sits on the committee that sets the quality the guild's work must meet.
   seat: null
   domains: []
   population: 0

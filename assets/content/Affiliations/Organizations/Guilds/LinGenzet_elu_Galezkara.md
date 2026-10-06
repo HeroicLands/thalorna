@@ -11,14 +11,19 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      The chartered guild of the capital's advocates, which examines every candidate before admission and through which the license to argue in the capital's courts runs.
     ranks:
       - level: 1
-        title: "Member"
+        title: Advocate
         description: >-
-          Practices as an advocate within Galezkara's chartered guild, arguing cases before the imperial courts.
-    offices: {}
+          Examined and admitted to the guild's roster, licensed to argue before the courts of the capital.
+    offices:
+      Examiner: >-
+        Examines the candidates who seek admission to the roster.
+      Adviser: >-
+        An advocate the guild retains to advise it rather than to argue cases.
   seat: null
   domains: []
   population: 0

@@ -11,14 +11,29 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: theocracy
+    summary: >-
+      The temple of Gewaâtis, kept by a resident priesthood of the three Khelâthi ranks for the pilgrims who pass through before a journey. Its holdings and the voyages that claim the god's protection are governed by Genzet'Gewaâtis.
     ranks:
-      - level: 1
-        title: "Member"
+      - level: 0
+        title: Name Struck
         description: >-
-          Belongs to the temple community maintained by Gewaâtis's resident priesthood and visiting pilgrims.
-    offices: {}
+          Struck from the record of the temple of Gewaâtis, the heaviest sentence a temple passes short of death.
+      - level: 1
+        title: Wazu
+        description: >-
+          "Purified One"—an acolyte in the temple's education, serving the pilgrims who come before a journey.
+      - level: 2
+        title: Lem'Nelgir
+        description: >-
+          "Servant of the God"—an ordained priest of the patron of voyages, resident at the temple.
+      - level: 3
+        title: Thâz'Lekhau
+        description: >-
+          "Great of Sacred Power"—the High Priest of Gewaâtis, at the head of the temple and its vaults.
+    offices:
+      Keyholder of the Vaults: >-
+        One of the very few who hold the keys to the sacred vaults, which open on the temple's schedule and not the road's.
   seat: null
   domains: []
   population: 0

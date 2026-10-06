@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      Conservative priests within the temple of Qe'âret who hold that political entanglement corrupts the goddess's purpose, and who organize against a high priest's renewal when the high priest leans toward the court.
     ranks:
       - level: 1
-        title: "Member"
+        title: Lem'Nelgir
         description: >-
-          Participates as a priest in the faction opposing political entanglement within Qe'âret's temple.
+          "Servant of the God"—an ordained priest of Qe'âret who holds with the Qethalu.
     offices: {}
   seat: null
   domains: []

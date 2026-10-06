@@ -11,13 +11,18 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: autocracy
+    summary: >-
+      A noble household of long standing whose master has kept the same servants for decades, so that its business runs on trust rather than written procedure, and the master's seal is a matter of real consequence.
     ranks:
       - level: 1
-        title: "Member"
+        title: Of the Household
         description: >-
-          Belongs to the noble household whose longstanding servants sustain its affairs through accumulated trust.
+          Serves or belongs to the household, held to it by trust built over years.
+      - level: 2
+        title: Master of the Household
+        description: >-
+          Holds the estate and its seal, and keeps the servants who keep it.
     offices: {}
   seat: null
   domains: []

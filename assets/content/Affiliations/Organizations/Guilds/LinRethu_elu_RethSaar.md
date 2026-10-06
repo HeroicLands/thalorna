@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      The scholars the temple of Reth'Sa'âr has certified to handle its deeper texts, holding those texts apart from the general archive and deciding together who may read them.
     ranks:
       - level: 1
-        title: "Member"
+        title: Certified Scholar
         description: >-
-          Belongs to the collective of temple-certified scholars entrusted with Reth'Sa'âr's deeper texts.
+          Certified by the temple to handle its deeper texts, and party to the collective's decisions on access.
     offices: {}
   seat: null
   domains: []

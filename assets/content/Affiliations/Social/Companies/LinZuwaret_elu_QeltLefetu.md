@@ -11,13 +11,18 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: autocracy
+    summary: >-
+      The trading house of the Qelt'Lefetu, running caravans on the high-value and dangerous routes under its own hired protection, at the direction of the house's merchant prince.
     ranks:
       - level: 1
-        title: "Member"
+        title: Of the Company
         description: >-
-          Works with the Qelt'Lefetu trading company running protected caravans on valuable and dangerous routes.
+          Works the company's caravans, its supply or its protection.
+      - level: 2
+        title: Merchant Prince
+        description: >-
+          Head of the Qelt'Lefetu and of the trade network the company runs.
     offices: {}
   seat: null
   domains: []

@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: bureaucracy
+    summary: >-
+      The empire's administrative ministry, whose ministers hold the paperwork of the realm—tax rolls, land grants and appointments—and decide what of it is found.
     ranks:
       - level: 1
-        title: "Member"
+        title: Minister
         description: >-
-          Serves in the administrative ministry that keeps the empire's tax rolls, land grants, appointments and other records.
+          Holds a portion of the realm's records, to file, retrieve or lose.
     offices: {}
   seat: null
   domains: []

@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      A cooperative of the capital's weavers and dyers, pooling their cloth to reach markets beyond the city on carriage they choose together.
     ranks:
       - level: 1
-        title: "Member"
+        title: Pooling Weaver
         description: >-
-          Participates as a weaver or dyer in the cooperative pooling textiles for markets beyond Galezkara.
+          A weaver or dyer whose cloth goes into the cooperative's shared consignments.
     offices: {}
   seat: null
   domains: []

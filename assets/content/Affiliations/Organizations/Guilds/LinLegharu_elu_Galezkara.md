@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      An informal society of those in the capital who study the properties of plants, meeting regularly to compare findings and defending the study as a discipline rather than a trade.
     ranks:
       - level: 1
-        title: "Member"
+        title: Scholar of Plants
         description: >-
-          Studies the properties of plants and shares findings on cultivation, preparation and effect with the society.
+          Studies cultivation, preparation and effect, and brings findings to the society's meetings.
     offices: {}
   seat: null
   domains: []

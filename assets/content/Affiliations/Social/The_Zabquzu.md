@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: democracy
+    summary: >-
+      Former soldiers stripped of standing for conduct the military could not overlook, keeping their own company out of shared disgrace rather than shared purpose.
     ranks:
       - level: 1
-        title: "Member"
+        title: Stripped of Standing
         description: >-
-          Belongs to the informal fellowship of former soldiers stripped of military standing for misconduct.
+          A former soldier put out of the military for serious conduct, whatever the prior record.
     offices: {}
   seat: null
   domains: []

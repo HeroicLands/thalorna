@@ -11,13 +11,18 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      The chartered guild of the empire's musicians and singers, open to any performer who pays its dues. Its members invoke it constantly and attend it sporadically, and its masters' recommendations carry across the empire.
     ranks:
       - level: 1
-        title: "Member"
+        title: Minstrel
         description: >-
-          Belongs to the dues-paying guild of musicians and singers and can invoke its membership as a credential.
+          A performer on the guild's roll, paying its dues and claiming it as a credential.
+      - level: 2
+        title: Master
+        description: >-
+          Holds mastery in the guild, and a recommendation from one carries across the whole empire.
     offices: {}
   seat: null
   domains: []

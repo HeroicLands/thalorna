@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      A loose alliance of alchemists of the Wazulet who have no patron among the great houses, bound together to defend the standing of those who work without one.
     ranks:
       - level: 1
-        title: "Member"
+        title: Patronless Alchemist
         description: >-
-          Belongs to the alliance defending the standing of alchemists working without a great house's patronage.
+          Practices without a great house's patronage, and keeps faith with the alliance after winning one.
     offices: {}
   seat: null
   domains: []

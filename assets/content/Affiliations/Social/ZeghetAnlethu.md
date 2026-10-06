@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: democracy
+    summary: >-
+      A loose fellowship of scholars and dealers who go after what the old tombs hold, imposing no rule on whether a find is published or sold.
     ranks:
       - level: 1
-        title: "Member"
+        title: Relic Hunter
         description: >-
-          Participates as a scholar or dealer in the loose fellowship seeking relics in the empire's old tombs.
+          Goes into the necropoli after what they still hold, for scholarship or for sale.
     offices: {}
   seat: null
   domains: []

@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      A district council of titled families, convened wherever enough noble households sit close enough to meet. Traditionalist and military thinking generally carries the room.
     ranks:
       - level: 1
-        title: "Member"
+        title: Seated House
         description: >-
-          Participates as a member of a titled family in the district council of noble households.
+          Of a titled family that sits in the district's council.
     offices: {}
   seat: null
   domains: []

@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      The chartered guild of the empire's rivermen and sea-captains, open to any master who meets its standard of seamanship. It sets that standard and the safety a cargo must meet, and speaks for its members against the merchant houses.
     ranks:
       - level: 1
-        title: "Member"
+        title: Igelar
         description: >-
-          Belongs to the chartered guild of rivermen and sea-captains and works under its standards of seamanship and cargo safety.
+          A riverman or sea-captain who meets the guild's standard of seamanship and holds its charter.
     offices: {}
   seat: null
   domains: []

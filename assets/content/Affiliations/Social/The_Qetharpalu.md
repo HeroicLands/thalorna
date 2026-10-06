@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      A faction seated on councils across the empire who hold that the old arrangements need no revision, and who have the numbers to make any revision slow.
     ranks:
       - level: 1
-        title: "Member"
+        title: Seated Traditionalist
         description: >-
-          Participates in the council faction resisting revision of its bodies' existing arrangements.
+          Holds a seat on a council and votes with the faction against revision.
     offices: {}
   seat: null
   domains: []
