@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-Zel-Qar, "the Place of Truth," is the walled company-village on the western bank where the craftsmen who cut and decorate the Khelzuret necropolis live apart, close to their work. About 6,000 people live here, in the [[affiliation-selatkhelzrt|Selat of Khelzuret]]: stonecutters, draftsmen, sculptors and painters.
+**Zel-Qar**, "the **Place of Truth**," is the walled company-village on the western bank where the craftsmen who cut and decorate the [[place-khelzuret|Khelzuret]] necropolis live apart, close to their work. About 6,000 people live here, in the [[affiliation-selatkhelzrt|Selat of Khelzuret]]: stonecutters, draftsmen, sculptors and painters.
 
 "You are village-born, so you start with an uncle at the stone," a master of Zel-Qar tells a boy on the day he is taken into a craft. "You will learn how a tomb is cut and where it lies, and from today those are one lesson. Outside this wall you say neither."
 

@@ -80,21 +80,21 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Where the Zumélesh reaches the [[place-vylarianse|Vylarian Sea]] it breaks into a fan of channels, marshes and silt-islands, and that fan is the Delta: the richest and most worldly land in the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]. The ten Delta Selatu are the empire's face to the sea and its purse. They hold the international ports, the garden strip that grows the empire's luxury crops, and the densest farmland in the known world, and their Halzi'a are merchants and diplomats as much as governors. Their estates and counting-houses make them, together, the wealthiest aristocracy in the empire.
+Where the [[place-zumeleshrvr|Zumélesh]] reaches the [[place-vylarianse|Vylarian Sea]] it breaks into a fan of channels, marshes and silt-islands, and that fan is the Delta: the richest and most worldly land in the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]. The ten **Delta Selatu** are the empire's face to the sea and its purse. They hold the international ports, the garden strip that grows the empire's luxury crops, and the densest farmland in the known world, and their Halzi'a are merchants and diplomats as much as governors. Their estates and counting-houses make them, together, the wealthiest aristocracy in the empire.
 
-"Everything that comes into this empire by water comes past my table first," a customs scribe on the quays of [[place-garanlaghet|Gar-Anlaghet]] tells a ship's factor fresh off a Haradian hull. "Upriver they will tell you the Delta is half foreign. It is. That is what it is for."
+"Everything that comes into this empire by water comes past my table first," a customs scribe on the quays of [[place-garanlaghet|Gar-Anlaghet]] tells a ship's factor fresh off a [[lore-haradianclt|Haradian]] hull. "Upriver they will tell you the Delta is half foreign. It is. That is what it is for."
 
 ## Character
 
-The Delta is where Aû'Khelâthu meets the wider world, and it shows. The port cities are crowded and polyglot: [[affiliation-cnfdrtnhrdnstts|Haradian]] trading factors keep permanent quarters along the docks, merchants from [[place-midhalnrgn|Mídhalión]] haggle in the markets, and the houses of the [[affiliation-zebequzut|Zebequ'Zut]] do their quiet business at delta banquets.
+The Delta is where **Aû'Khelâthu** meets the wider world, and it shows. The port cities are crowded and polyglot: [[affiliation-cnfdrtnhrdnstts|Haradian]] trading factors keep permanent quarters along the docks, merchants from [[place-midhalnrgn|Mídhalión]] haggle in the markets, and the houses of the [[affiliation-zebequzut|Zebequ'Zut]] do their quiet business at delta banquets.
 
-The conservative landowners of the [[affiliation-upperrivrslt|Upper River Selatu]] think delta-folk cosmopolitan, sharp-tongued and faintly suspect, and they regard an easy familiarity with foreigners as one short step from disloyalty. The delta Halzi'a return the contempt with interest. That rivalry, between river conservatives and delta cosmopolitans, is one of the steady tensions of Khelâthi politics.
+The conservative landowners of the [[affiliation-upperrivrslt|Upper River Selatu]] think delta-folk cosmopolitan, sharp-tongued and faintly suspect, and they regard an easy familiarity with foreigners as one short step from disloyalty. The delta Halzi'a return the contempt with interest. That rivalry, between river conservatives and delta cosmopolitans, is one of the steady tensions of [[lore-khelathiclt|Khelâthi]] politics.
 
 The land shapes the people who work it:
 
-- **The coastal garden strip** of citrus, olive, grape, fig and date is tended by smallholders and by the villa-estates of the merchant-princes.
-- **The marshes** breed fowlers, fishers, papyrus-cutters and reed-boat crews.
-- **The port cities** breed factors, scribes and customs men, and hold the largest concentration of free artisans in the empire.
+- The coastal garden strip of citrus, olive, grape, fig and date is tended by smallholders and by the villa-estates of the merchant-princes.
+- The marshes breed fowlers, fishers, papyrus-cutters and reed-boat crews.
+- The port cities breed factors, scribes and customs men, and hold the largest concentration of free artisans in the empire.
 
 The Delta worships [[lore-thubaidty|Thubâ'i]], god of prosperity, abundance and pleasure, with a fervor that scandalizes nobody. The Delta is rich and intends to enjoy it.
 
@@ -104,7 +104,7 @@ Trade and garden farming drive the Delta. Its ports handle the whole of the empi
 
 ## Notable Features
 
-- The river's mouths and the silt-islands between them—the most intricate waterscape in Xerathia
+- The river's mouths and the silt-islands between them—the most intricate waterscape in [[place-xerathia|Xerathia]]
 - The cosmopolitan ports of [[place-amqelmiglet|Amqel-Miglet]], with their foreign merchant quarters and Haradian factories
 - The coastal garden strip of citrus, olive, vine, fig and date
 - The papyrus marshes that give the empire its paper monopoly
@@ -127,11 +127,11 @@ Ten selatu make up the delta class, each under its hereditary [[affiliation-empi
 | [[affiliation-selatkhelaga\|The Selat of Khelaga]]      | [[place-khelaga\|Khelaga]]          | [[lore-uqaadty\|Uqa'â]]                                     | ~350,000   | The delta apex, where the river first divides; old shrines and customs-stations                                                |
 | [[affiliation-selatseltltr\|The Selat of Selat-Leteru]] | [[place-yathleteru\|Yath-Leteru]]   | [[lore-uzneradty\|Uznêra]]                                  | ~150,000   | The shrine-islands; a quiet pilgrimage selat of marsh-temples and few people                                                   |
 
-Delta total: **about 6,000,000**.
+Delta total: about 6,000,000.
 
 ## For the Worldbuilder
 
-Run the Delta as the empire's seafront and its money: a country of trade, customs, smuggling and foreign intrigue, closer in temper to a Vylarian port province such as [[affiliation-provincvld|Vald]] than to the temple-bound interior. Three powers share it, and all three are wealthy, jealous and watchful: the merchant houses, the [[affiliation-garhalzi|Gár-Hálzi]] temple-treasuries that bank their gold, and the Gar-Aû's customs men who tax it all.
+Run the Delta as the empire's seafront and its money: a country of trade, customs, smuggling and foreign intrigue, closer in temper to a [[lore-vylarianclt|Vylarian]] port province such as [[affiliation-provincvld|Vald]] than to the temple-bound interior. Three powers share it, and all three are wealthy, jealous and watchful: the merchant houses, the [[affiliation-garhalzi|Gár-Hálzi]] temple-treasuries that bank their gold, and the [[lore-garauu|Gar-Aû]]'s customs men who tax it all.
 
 Adventure here is mercantile and maritime—shipping intrigue and insurance fraud, customs-running through the marsh channels, foreign agents working the quays, Haradian and Vylarian factors playing both ends, papyrus and salt monopolies worth killing over, and the constant low friction between the delta's outward-facing Halzi'a and the suspicious river-lords upstream. Fish, fowl, salt, paper, wine and foreign news are abundant. Grain is scarce, because it comes from upriver, and so is any love for the tax-farmer.
 

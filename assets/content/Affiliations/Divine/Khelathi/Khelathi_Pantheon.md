@@ -68,48 +68,48 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-**Pronunciation**: _kheh-LAH-thee_, the _kh_ as in Scottish _loch_
+Pronunciation: _kheh-LAH-thee_, the _kh_ as in Scottish _loch_
 
 "Leave the contract at the archive," a priest tells a merchant who has come to the temple forecourt to pray about a debt. "The scribe will read it back to you for a fee, and nothing I say changes a word of it. Come in here when you want to ask whether you have been a good son. That one only the gods are keeping."
 
-The Khelâthi Pantheon is the faith of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], the oldest continuously existing civilization in [[place-worldthlrn|Thalorna]], and that priest's advice is the shortest way into it. A Khelâthi keeps two accounts. The temple holds the written one—contracts, leases, debts, everything a witness saw and a scribe entered—and the gods keep the unwritten one: what a person owes a parent, a teacher, the dead and the house that raised them. **Attest the written and petition the unwritten**, the priests teach, and the error they correct most often is confusing the two. Asking a god to set aside a contract is impiety. Asking a god whether you have failed your father is the whole of religion. The [[lore-khelathiclt|culture note]] follows the doctrine through a life and a death.
+The **Khelâthi Pantheon** is the faith of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], the oldest continuously existing civilization in [[place-worldthlrn|Thalorna]], and that priest's advice is the shortest way into it. A [[lore-khelathiclt|Khelâthi]] keeps two accounts. The temple holds the written one—contracts, leases, debts, everything a witness saw and a scribe entered—and the gods keep the unwritten one: what a person owes a parent, a teacher, the dead and the house that raised them. _Attest the written and petition the unwritten_, the priests teach, and the error they correct most often is confusing the two. Asking a god to set aside a contract is impiety. Asking a god whether you have failed your father is the whole of religion. The [[lore-khelathiclt|culture note]] follows the doctrine through a life and a death.
 
-The pantheon has twelve great gods, each governing a fundamental part of existence. They hold the same twelve domains as the [[affiliation-arldnpnthn|Aurèldían Pantheon]] of western [[place-ankrscntnnt|Ankaris]], and the Khelâthi observe, with characteristic equanimity, that their gods were ancient before the Aurèldían names were spoken.
+The pantheon has twelve great gods, each governing a fundamental part of existence. They hold the same twelve domains as the [[affiliation-arldnpnthn|Aurèldían Pantheon]] of western [[place-ankrscntnnt|Ankaris]], and the Khelâthi observe, with characteristic equanimity, that their gods were ancient before the **Aurèldían** names were spoken.
 
-The faith cannot be separated from the civilization it serves. Government, law, farming, war, trade, art and above all the vast mortuary industry that prepares the dead for eternal life are all organized around principles the temples maintain. The great temples are places of worship, landlords, employers, schools and courts at once, and they rival the Gar-Aû's palace in wealth and influence. One three-rank priesthood—**Thâz'Lekhau, Lem'Nelgir and Wazu**—shapes religious life from the capital to the remotest village.
+The faith cannot be separated from the civilization it serves. Government, law, farming, war, trade, art and above all the vast mortuary industry that prepares the dead for eternal life are all organized around principles the temples maintain. The great temples are places of worship, landlords, employers, schools and courts at once, and they rival the [[lore-garauu|Gar-Aû]]'s palace in wealth and influence. One three-rank priesthood—Thâz'Lekhau, Lem'Nelgir and Wazu—shapes religious life from the capital to the remotest village.
 
 ## The Weighing
 
-The central doctrine of the end is **the Weighing**. After death both of a person's accounts are opened before the assembled gods: the temple account a scribe took, and the account [[affiliation-qearet|Qe'âret]] kept where no scribe was present. A soul short on either is taken by **Álgit**, the Devourer of the Dead; a soul whose entries close passes into the blessed [[place-zulaten|Zulaten]]. The doctrine shapes daily life. Even the powerful fear the verdict, and the knowledge that wealth cannot buy a favorable one is a check, however imperfect, on the worst abuses of power.
+The central doctrine of the end is **the Weighing**. After death both of a person's accounts are opened before the assembled gods: the temple account a scribe took, and the account [[affiliation-qearet|Qe'âret]] kept where no scribe was present. A soul short on either is taken by **Álgit**, the **Devourer of the Dead**; a soul whose entries close passes into the blessed [[place-zulaten|Zulaten]]. The doctrine shapes daily life. Even the powerful fear the verdict, and the knowledge that wealth cannot buy a favorable one is a check, however imperfect, on the worst abuses of power.
 
 So the gods are present at the moments that bind people. They witness promises, and no offering erases an entry left open; when an entry closes, a god is asked to be present at the closing. Between those moments the faith is visible everywhere: in household offerings at the family shrine, in the crowded festivals of the year, and in the temple schools that train the scribes and physicians a town needs as often as it needs a priest.
 
 ## The Twelve
 
-| Domain              | Deity                            | Epithet                       | Symbol                                       | Faith                                         |
-| ------------------- | -------------------------------- | ----------------------------- | -------------------------------------------- | --------------------------------------------- |
-| Dreams              | [[lore-nehleatdty\|Nehle'ât]]    | Guardian of Night Visions     | {{< glyph slug="nehleat" frame="tablet" >}}  | [[affiliation-nehleat\|Faith of Nehle'ât]]    |
-| Death               | [[lore-wethurdty\|Wethûr]]       | Lord of Silent Passage        | {{< glyph slug="wethur" frame="tablet" >}}   | [[affiliation-wethur\|Faith of Wethûr]]       |
-| Storms              | [[lore-tjaqurdty\|Tjaq'ûr]]      | Bringer of Tempests           | {{< glyph slug="tjaqur" frame="tablet" >}}   | [[affiliation-tjaqur\|Faith of Tjaq'ûr]]      |
-| Order               | [[lore-qearetdty\|Qe'âret]]      | Keeper of Truth and Harmony   | {{< glyph slug="qearet" frame="tablet" >}}   | [[affiliation-qearet\|Faith of Qe'âret]]      |
-| Knowledge           | [[lore-rethsaardty\|Reth'Sa'âr]] | Scribe of the Eternal Library | {{< glyph slug="rethsaar" frame="tablet" >}} | [[affiliation-rethsaar\|Faith of Reth'Sa'âr]] |
-| Prosperity          | [[lore-thubaidty\|Thubâ'i]]      | The Golden Reveler            | {{< glyph slug="thubai" frame="tablet" >}}   | [[affiliation-thubai\|Faith of Thubâ'i]]      |
-| Fertility & Healing | [[lore-uzneradty\|Uznêra]]       | Mother of New Beginnings      | {{< glyph slug="uznera" frame="tablet" >}}   | [[affiliation-uznera\|Faith of Uznêra]]       |
-| Fire                | [[lore-uqaadty\|Uqa'â]]          | The Solar Flame               | {{< glyph slug="uqaa" frame="tablet" >}}     | [[affiliation-uqaa\|Faith of Uqa'â]]          |
-| Creation            | [[lore-psaqarudty\|Psaq'âru]]    | Shaper of the Eternal World   | {{< glyph slug="psaqaru" frame="tablet" >}}  | [[affiliation-psaqaru\|Faith of Psaq'âru]]    |
-| Chaos               | [[lore-azuathisdty\|Azu'âthis]]  | The Devouring Shadow          | {{< glyph slug="azuathis" frame="tablet" >}} | [[affiliation-azuathis\|Faith of Azu'âthis]]  |
-| Voyages             | [[lore-gewaatisdty\|Gewaâtis]]   | The Guiding Falcon            | {{< glyph slug="gewaatis" frame="tablet" >}} | [[affiliation-gewaatis\|Faith of Gewaâtis]]   |
-| Decay               | [[lore-hezmuiridty\|Hezmuîri]]   | The Keeper of Transitions     | {{< glyph slug="hezmuiri" frame="tablet" >}} | [[affiliation-hezmuiri\|Faith of Hezmuîri]]   |
+| Domain              | Deity                            | Epithet                                                 | Symbol                                       | Faith                                         |
+| ------------------- | -------------------------------- | ------------------------------------------------------- | -------------------------------------------- | --------------------------------------------- |
+| Dreams              | [[lore-nehleatdty\|Nehle'ât]]    | [[affiliation-nehleat\|Guardian of Night Visions]]      | {{< glyph slug="nehleat" frame="tablet" >}}  | [[affiliation-nehleat\|Faith of Nehle'ât]]    |
+| Death               | [[lore-wethurdty\|Wethûr]]       | [[affiliation-wethur\|Lord of Silent Passage]]          | {{< glyph slug="wethur" frame="tablet" >}}   | [[affiliation-wethur\|Faith of Wethûr]]       |
+| Storms              | [[lore-tjaqurdty\|Tjaq'ûr]]      | [[affiliation-tjaqur\|Bringer of Tempests]]             | {{< glyph slug="tjaqur" frame="tablet" >}}   | [[affiliation-tjaqur\|Faith of Tjaq'ûr]]      |
+| Order               | [[lore-qearetdty\|Qe'âret]]      | **Keeper of Truth and Harmony**                         | {{< glyph slug="qearet" frame="tablet" >}}   | [[affiliation-qearet\|Faith of Qe'âret]]      |
+| Knowledge           | [[lore-rethsaardty\|Reth'Sa'âr]] | [[affiliation-rethsaar\|Scribe of the Eternal Library]] | {{< glyph slug="rethsaar" frame="tablet" >}} | [[affiliation-rethsaar\|Faith of Reth'Sa'âr]] |
+| Prosperity          | [[lore-thubaidty\|Thubâ'i]]      | The [[affiliation-thubai\|Golden Reveler]]              | {{< glyph slug="thubai" frame="tablet" >}}   | [[affiliation-thubai\|Faith of Thubâ'i]]      |
+| Fertility & Healing | [[lore-uzneradty\|Uznêra]]       | [[affiliation-uznera\|Mother of New Beginnings]]        | {{< glyph slug="uznera" frame="tablet" >}}   | [[affiliation-uznera\|Faith of Uznêra]]       |
+| Fire                | [[lore-uqaadty\|Uqa'â]]          | The [[affiliation-uqaa\|Solar Flame]]                   | {{< glyph slug="uqaa" frame="tablet" >}}     | [[affiliation-uqaa\|Faith of Uqa'â]]          |
+| Creation            | [[lore-psaqarudty\|Psaq'âru]]    | **Shaper of the Eternal World**                         | {{< glyph slug="psaqaru" frame="tablet" >}}  | [[affiliation-psaqaru\|Faith of Psaq'âru]]    |
+| Chaos               | [[lore-azuathisdty\|Azu'âthis]]  | The **Devouring Shadow**                                | {{< glyph slug="azuathis" frame="tablet" >}} | [[affiliation-azuathis\|Faith of Azu'âthis]]  |
+| Voyages             | [[lore-gewaatisdty\|Gewaâtis]]   | The [[affiliation-gewaatis\|Guiding Falcon]]            | {{< glyph slug="gewaatis" frame="tablet" >}} | [[affiliation-gewaatis\|Faith of Gewaâtis]]   |
+| Decay               | [[lore-hezmuiridty\|Hezmuîri]]   | The [[affiliation-hezmuiri\|Keeper of Transitions]]     | {{< glyph slug="hezmuiri" frame="tablet" >}} | [[affiliation-hezmuiri\|Faith of Hezmuîri]]   |
 
 ## Temple Hierarchy
 
-Every major temple in Aû'Khelâthu keeps the same three ranks, a structure so ancient that the Khelâthi hold it divinely ordained. The Gar-Aû stands above all three as nominal supreme priest of every god, and all temple authority is claimed to flow down from that office.
+Every major temple in **Aû'Khelâthu** keeps the same three ranks, a structure so ancient that the Khelâthi hold it divinely ordained. The Gar-Aû stands above all three as nominal supreme priest of every god, and all temple authority is claimed to flow down from that office.
 
-- **Thâz'Lekhau** ("Great of Sacred Power")—the High Priest or High Priestess of a major temple and the supreme religious authority of one cult. Each major temple has one, who manages its holdings, speaks with the voice of the god and conducts the great seasonal rites. The title carries great political weight, and in the great temples only the Thâz'Lekhau and the Gar-Aû may enter the innermost sanctuary where the god's image dwells.
-- **Lem'Nelgir** ("Servant of the God")—the ordained priesthood and the working body of the temple. Lem'Nelgir conduct the daily rites, manage temple lands and finances, teach in the temple schools, perform divinations, and carry out the temple's part in local government.
-- **Wazu** ("Purified One")—the acolytes of the long temple education. A Wazu enters the temple school as a child or youth and studies sacred texts, ritual, history, mathematics, medicine and the reading of omens for years before ordination.
+- Thâz'Lekhau ("Great of Sacred Power")—the High Priest or High Priestess of a major temple and the supreme religious authority of one cult. Each major temple has one, who manages its holdings, speaks with the voice of the god and conducts the great seasonal rites. The title carries great political weight, and in the great temples only the Thâz'Lekhau and the Gar-Aû may enter the innermost sanctuary where the god's image dwells.
+- Lem'Nelgir ("Servant of the God")—the ordained priesthood and the working body of the temple. Lem'Nelgir conduct the daily rites, manage temple lands and finances, teach in the temple schools, perform divinations, and carry out the temple's part in local government.
+- Wazu ("Purified One")—the acolytes of the long temple education. A Wazu enters the temple school as a child or youth and studies sacred texts, ritual, history, mathematics, medicine and the reading of omens for years before ordination.
 
-The cults are separate and often rivals. The one body where their high priests sit together is the **Sêdjet Halzi**, the Council of the High Priests, which governs the [[affiliation-garhalzi|Gár-Hálzi]] temple-treasuries.
+The cults are separate and often rivals. The one body where their high priests sit together is the **Sêdjet Halzi**, the **Council of the High Priests**, which governs the [[affiliation-garhalzi|Gár-Hálzi]] temple-treasuries.
 
 ## The Selat Gods
 
@@ -117,21 +117,21 @@ The Twelve are the theology, and they are not the whole of the religion. Every s
 
 An ordinary person keeps every layer at once: the Twelve at the great festivals, the selat's patron at the local temple, the ancestors at the household shrine, and the god of a trade wherever that god is served.
 
-| God                                          | Domain                         | Where                                                                             |
-| -------------------------------------------- | ------------------------------ | --------------------------------------------------------------------------------- |
-| [[affiliation-igelnaru\|Faith of Igel'Nâru]] | The river                      | The [[place-zumeleshrvr\|Zumélesh]] itself; the cult travels with the water       |
-| [[affiliation-qeztu\|Faith of Qeztu]]        | War                            | Patron of four border selatu; the war-temple at [[place-balehen\|Balehen]]        |
-| [[affiliation-tjelsuk\|Faith of Tjelsuk]]    | River-beasts                   | The eastern marsh, the desert wells, and the narrow gorge of the upper river      |
-| [[affiliation-shebazet\|Faith of Shebazet]]  | The marsh                      | The delta papyrus selat, whose reed-beds are the empire's paper                   |
-| [[affiliation-pelgun\|Faith of Pelgun]]      | Fertility and the desert roads | The caravan-head of the eastern routes; harvest-festivals and virility cults      |
-| [[affiliation-linhur\|Faith of Linhur]]      | The hunt                       | Paired with Linqur as the religious foundation of [[affiliation-garnuw\|Gar'Nuw]] |
-| [[affiliation-linqur\|Faith of Linqur]]      | The hunt                       | Paired with Linhur; neither temple's rite counts without the other                |
+| God                                          | Domain                         | Where                                                                                                 |
+| -------------------------------------------- | ------------------------------ | ----------------------------------------------------------------------------------------------------- |
+| [[affiliation-igelnaru\|Faith of Igel'Nâru]] | The river                      | The [[place-zumeleshrvr\|Zumélesh]] itself; the cult travels with the water                           |
+| [[affiliation-qeztu\|Faith of Qeztu]]        | War                            | Patron of four border selatu; the war-temple at [[place-balehen\|Balehen]]                            |
+| [[affiliation-tjelsuk\|Faith of Tjelsuk]]    | River-beasts                   | The eastern marsh, the desert wells, and the narrow gorge of the upper river                          |
+| [[affiliation-shebazet\|Faith of Shebazet]]  | The marsh                      | The delta papyrus selat, whose reed-beds are the empire's paper                                       |
+| [[affiliation-pelgun\|Faith of Pelgun]]      | Fertility and the desert roads | The caravan-head of the eastern routes; harvest-festivals and virility cults                          |
+| [[affiliation-linhur\|Faith of Linhur]]      | The hunt                       | Paired with [[lore-linqurdty\|Linqur]] as the religious foundation of [[affiliation-garnuw\|Gar'Nuw]] |
+| [[affiliation-linqur\|Faith of Linqur]]      | The hunt                       | Paired with [[lore-linhurdty\|Linhur]]; neither temple's rite counts without the other                |
 
-Three of these show how the local cults work. **Qeztu**'s strength is geographic rather than doctrinal: the war-god is patron of four of the ten border selatu and rare in the gentler valley, and his worship is strongest exactly where the empire's writ is thinnest. **Tjelsuk** carries the sharpest tension, because the crocodile is sacred to the god and is also the beast that takes farmers and children along the river, so the cull is a religious act before it is a commercial one. **Igel'Nâru** holds the river and no province, so his cult has no patch of ground to sit on and travels with the water instead.
+Three of these show how the local cults work. [[lore-qeztudty|Qeztu]]'s strength is geographic rather than doctrinal: the war-god is patron of four of the ten border selatu and rare in the gentler valley, and his worship is strongest exactly where the empire's writ is thinnest. [[lore-tjelsukdty|Tjelsuk]] carries the sharpest tension, because the crocodile is sacred to the god and is also the beast that takes farmers and children along the river, so the cull is a religious act before it is a commercial one. [[lore-igelnarudty|Igel'Nâru]] holds the river and no province, so his cult has no patch of ground to sit on and travels with the water instead.
 
 ## The Cosmic Order
 
-The pantheon turns on one opposition, **order against chaos**. [[affiliation-qearet|Qe'âret]] is cosmic order, the principle that holds reality together. [[affiliation-azuathis|Azu'âthis]] is primordial chaos, the dissolution that came before creation and constantly threatens to reclaim it. Every other god has a place in that frame:
+The pantheon turns on one opposition, _order against chaos_. [[affiliation-qearet|Qe'âret]] is cosmic order, the principle that holds reality together. [[affiliation-azuathis|Azu'âthis]] is primordial chaos, the dissolution that came before creation and constantly threatens to reclaim it. Every other god has a place in that frame:
 
 - [[affiliation-uqaa|Uqa'â]] battles Azu'âthis every night so that the sun rises;
 - [[affiliation-wethur|Wethûr]] and [[affiliation-hezmuiri|Hezmuîri]] keep the passage from life to death orderly;
@@ -146,5 +146,5 @@ The coherence of the scheme impressed the [[place-helionis|Helionite]] philosoph
 - [[lore-khelathiclt|Khelâthi]]—the two ledgers, the Weighing and the dead
 - [[lore-khelunulekha|Khelunu Lekhau]]—the sacred power the temple schools teach
 - [[affiliation-garhalzi|Gár-Hálzi]]—the temple-treasuries the high priests govern
-- [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the western Ankarian counterpart
+- [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the western **Ankarian** counterpart
 - [[skill-khelathlng|Khelâthi Language]]—naming conventions

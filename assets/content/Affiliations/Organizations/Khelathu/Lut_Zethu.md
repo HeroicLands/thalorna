@@ -34,7 +34,7 @@ data:
 
 ## Overview
 
-**Lut-Zethu**, the Imperial Library, is the empire's collection of texts, held under the hand of [[affiliation-linzethkhlth|the scribes' guild]] and closed to most who would read there. Access runs through the guild's own permission rather than any general right of scholarship, so a reader's standing with the scribes matters as much as the subject under study. The library's texts on the spirit-realm sit behind a further door, open to fewer readers than the rest of the collection.
+**Lut-Zethu**, the **Imperial Library**, is the empire's collection of texts, held under the hand of [[affiliation-linzethkhlth|the scribes' guild]] and closed to most who would read there. Access runs through the guild's own permission rather than any general right of scholarship, so a reader's standing with the scribes matters as much as the subject under study. The library's texts on the spirit-realm sit behind a further door, open to fewer readers than the rest of the collection.
 
 ## Character
 

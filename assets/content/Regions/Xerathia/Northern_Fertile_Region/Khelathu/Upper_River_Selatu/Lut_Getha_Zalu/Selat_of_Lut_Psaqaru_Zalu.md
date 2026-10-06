@@ -77,13 +77,13 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-"Every piece in this valley meets a pan sooner or later," an assayer of the [[affiliation-garhalzi|Gár-Hálzi]] chapter at Lut-Getha-Zalu tells a young smith who has brought his first bronze to be weighed. "Put it down. I don't care how it shines. I care what it weighs."
+"Every piece in this valley meets a pan sooner or later," an assayer of the [[affiliation-garhalzi|Gár-Hálzi]] chapter at [[place-lutgethazalunome|Lut-Getha-Zalu]] tells a young smith who has brought his first bronze to be weighed. "Put it down. I don't care how it shines. I care what it weighs."
 
-The Selat of Lut-Getha-Zalu is one of the eighteen [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and about 480,000 people live on its land, [[place-lutgethazalunome|Lut-Getha-Zalu]]. It is the selat of the smith-towns and the craft-temples, working bronze and gold and the ceremonial arms of the nobility. The patron is [[affiliation-psaqaru|Faith of Psaq'âru]], the Shaper of the Eternal World, whose craft-temples and estates give the smiths their standing.
+The **Selat of Lut-Getha-Zalu** is one of the eighteen [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and about 480,000 people live on its land, [[place-lutgethazalunome|Lut-Getha-Zalu]]. It is the selat of the smith-towns and the craft-temples, working bronze and gold and the ceremonial arms of the nobility. The patron is [[affiliation-psaqaru|Faith of Psaq'âru]], the **Shaper of the Eternal World**, whose craft-temples and estates give the smiths their standing.
 
 ## Character
 
-A [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] appears at court with a ceremonial khopesh of bronze and gold, a gold-headed mace of command and a gold pectoral collar of rank, and the smith-towns of Lut-Getha-Zalu are where that kind of gear is made. The Halzi'a of the selat governs the people who forge the regalia of his peers, and the quality of the work is a matter of local pride. The seat is [[place-lutgetha|Lut-Getha]], where the Halzi'a keeps his court and the chief temple of Psaq'âru stands.
+A [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] appears at court with a ceremonial khopesh of bronze and gold, a gold-headed mace of command and a gold pectoral collar of rank, and the smith-towns of Lut-Getha-Zalu are where that kind of gear is made. The Halzi'a of the selat governs the people who forge the regalia of his peers, and the quality of the work is a matter of local pride. The seat is [[place-lutgetha|Lut-Getha]], where the Halzi'a keeps his court and the chief temple of [[lore-psaqarudty|Psaq'âru]] stands.
 
 ## Commerce and Currency
 

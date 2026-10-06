@@ -36,7 +36,7 @@ data:
 
 ## Character
 
-The old captain does not say "welcome aboard." He says, "Show me your charter," and then he reads it, front and back, with the patience of a man who has been sued. The Mariners' Guild is the chartered body of the empire's rivermen and sea-captains, and it admits any master who meets its standard of seamanship. An **Igelar**, as its members are called, is someone who holds that charter, and it travels with him wherever the cargo goes.
+The old captain does not say "welcome aboard." He says, "Show me your charter," and then he reads it, front and back, with the patience of a man who has been sued. The **Mariners' Guild** is the chartered body of the empire's rivermen and sea-captains, and it admits any master who meets its standard of seamanship. An Igelar, as its members are called, is someone who holds that charter, and it travels with him wherever the cargo goes.
 
 The guild is professional and protective. It sets the standard of seamanship and the safety a cargo must meet before a vessel carries it, and it speaks for its captains when the merchant houses that hire them dispute a loss. A young rower learns early that the charter is both a license and a shield: it tells a cargo-owner that the master has been examined, and it gives the master a body to argue for him against the house.
 

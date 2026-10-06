@@ -21,12 +21,12 @@ data:
 
 ## Character
 
-This is the country of the southern gold-road, and everything on it is arranged around the road. The mines feed it, the caravan-stations are strung along it, and the tribute-collectors work from it. Beside it the ordinary Khelâthi villages, estates and temple lands raise what the road's traffic eats, and the farmers owe their share of the harvest and labor on the canals as they do anywhere in the empire; the difference is that here the nearest customer is a caravan.
+This is the country of the southern gold-road, and everything on it is arranged around the road. The mines feed it, the caravan-stations are strung along it, and the tribute-collectors work from it. Beside it the ordinary [[lore-khelathiclt|Khelâthi]] villages, estates and temple lands raise what the road's traffic eats, and the farmers owe their share of the harvest and labor on the canals as they do anywhere in the empire; the difference is that here the nearest customer is a caravan.
 
 ## Settlements
 
-- [[place-wagaru|Wagaru]] (~14,000)—the selat capital and the seat of the Halzi'a, with the chief temple of Psaq'âru.
-- **The villages and estate-towns:** a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
+- [[place-wagaru|Wagaru]] (~14,000)—the selat capital and the seat of the Halzi'a, with the chief temple of [[lore-psaqarudty|Psaq'âru]].
+- The villages and estate-towns: a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 

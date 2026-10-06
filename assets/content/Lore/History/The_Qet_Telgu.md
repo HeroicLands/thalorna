@@ -51,15 +51,15 @@ data:
         - whether the earliest centuries of the king-lists are accurate, the lists themselves being real
 ---
 
-Ask a Khelâthi chronicler when history began and the answer is a date, not a story: the **Qet Telgu**, the First Occasion, when the first [[lore-garauu|Gar-Aû]] united the river valley under a single crown. Everything the temples can date is dated from it, and what came before is chaos, which they seldom bother to date at all.
+Ask a [[lore-khelathiclt|Khelâthi]] chronicler when history began and the answer is a date, not a story: the **Qet Telgu**, the **First Occasion**, when the first [[lore-garauu|Gar-Aû]] united the river valley under a single crown. Everything the temples can date is dated from it, and what came before is chaos, which they seldom bother to date at all.
 
 "Count forward from the Occasion and never back before it," a temple chronicler at [[place-khelunu|Khelunu]] tells a novice copying the king-lists. "The count is unbroken. Every dynasty and every Gar-Aû stands in its place, entry after entry, to the first. Let foreigners ask whether the first entries are true. The entries are there."
 
-Years from the Qet Telgu are written **ST**, "Renpet Qet Telgu," and the present year is about 2,830 ST, which is 720 AF in the western calendar. [[affiliation-okharis|Okháris]] numbers its years from the same point as a matter of course. Bethûa keeps its own reckoning, which shows the Khelâthi system throughout.
+Years from the Qet Telgu are written ST, "Renpet Qet Telgu," and the present year is about 2,830 ST, which is 720 AF in the western calendar. [[affiliation-okharis|Okháris]] numbers its years from the same point as a matter of course. **Bethûa** keeps its own reckoning, which shows the Khelâthi system throughout.
 
 It is one occurrence with two descriptions. Seen from outside the reckoning it began, it is the founding of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] on its river. Seen from inside, it is the moment civilization was established and the beginning of everything that can be dated. The temple chronologies at Khelunu and elsewhere are meticulous, unbroken and real, and whether they are accurate for the earliest centuries is another matter. The first dynasties hold reigns of improbable length, one Gar-Aû being said to have ruled 110 years, and physical evidence for them is sparse and contradictory. The priesthood of [[lore-rethsaardty|Reth'Sa'âr]] compiled the lists, and for the Khelâthi that settles it.
 
-The Khelâthi claim more than a founding. The mound of [[place-yathtelgu|Yath-Telgu]], midstream in the great river, is held to be the very mound that first lifted from the waters of creation at the Qet Telgu, which makes the First Occasion the creation of the world and the founding of Khelâthi kingship at once. Two Elder Races reached Thalorna five millennia before it. The Khelâthi account does not address that, and nothing outside it disputes the claim.
+The Khelâthi claim more than a founding. The mound of [[place-yathtelgu|Yath-Telgu]], midstream in the great river, is held to be the very mound that first lifted from the waters of creation at the Qet Telgu, which makes the First Occasion the creation of the world and the founding of Khelâthi kingship at once. Two Elder Races reached [[place-worldthlrn|Thalorna]] five millennia before it. The Khelâthi account does not address that, and nothing outside it disputes the claim.
 
 [[lore-firstoccasion|The First Occasion]] begins where the count begins:
 

@@ -36,7 +36,7 @@ data:
 
 ## Character
 
-"Show me the license, and then show me the territory," the guide at the edge of the reed-beds says. The Hunters' Guild is the chartered guild of the empire's hunters, licensing both the ordinary taking of game and the handling of beasts dangerous enough to need a specialist. A **Licensed Hunter** holds the guild's license and works a territory under its terms and codes.
+"Show me the license, and then show me the territory," the guide at the edge of the reed-beds says. The **Hunters' Guild** is the chartered guild of the empire's hunters, licensing both the ordinary taking of game and the handling of beasts dangerous enough to need a specialist. A Licensed Hunter holds the guild's license and works a territory under its terms and codes.
 
 The guild is regulatory and territorial. It sets the terms under which a hunter may work a given stretch of country, so two hunters are rarely chasing the same ground under conflicting claims. A license is as much an assurance as a permission: a hunter who holds one has answered to someone for the methods he used, and the guild can name him.
 

@@ -77,7 +77,7 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-The **Selat of Linmut** is a river-island fortress at the second cataract, and it is both the gateway to the south and its toll-gate. Its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] commands the fortress and the levies, collects the toll along with the selat's other taxes, dispenses its justice, and answers to the Gar-Aû at a distance that varies with the strength of the throne. His patron is [[affiliation-wethur|Wethûr]], Lord of Silent Passage, and the selat's religious life runs through that cult's temples and their estates. The land he holds is [[place-linmutselat|Linmut Selat]].
+The **Selat of Linmut** is a river-island fortress at the second cataract, and it is both the gateway to the south and its toll-gate. Its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] commands the fortress and the levies, collects the toll along with the selat's other taxes, dispenses its justice, and answers to the [[lore-garauu|Gar-Aû]] at a distance that varies with the strength of the throne. His patron is [[affiliation-wethur|Wethûr]], [[affiliation-wethur|Lord of Silent Passage]], and the selat's religious life runs through that cult's temples and their estates. The land he holds is [[place-linmutselat|Linmut Selat]].
 
 ## Character
 

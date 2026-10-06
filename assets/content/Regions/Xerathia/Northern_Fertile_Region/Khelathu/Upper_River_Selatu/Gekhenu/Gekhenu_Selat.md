@@ -23,14 +23,14 @@ data:
 
 ## Character
 
-The calendar of the valley is built on the river's three seasons, and in Gekhenu the people who keep the count are priests of [[lore-rethsaardty|Reth'Sa'âr]], the scribe of the gods, whose domain includes the moon's cycles and the reckoning of time. Their library-temples hold the records, and their astronomers watch the sky from the roofs. The farmers below plant and render by the count the astronomers keep.
+The calendar of the valley is built on the river's three seasons, and in [[place-gekhenu|Gekhenu]] the people who keep the count are priests of [[lore-rethsaardty|Reth'Sa'âr]], the scribe of the gods, whose domain includes the moon's cycles and the reckoning of time. Their library-temples hold the records, and their astronomers watch the sky from the roofs. The farmers below plant and render by the count the astronomers keep.
 
-The rest of the selat is ordinary Khelâthi country: villages and estate-towns of a few hundred to a few thousand people, clustered on the cultivable ground and the temple estates. The farmers owe a share of the harvest and labor on the canals, and the scribes among them are the one reliable ladder out of the fields. Past the water the land is high desert and chaparral.
+The rest of the selat is ordinary [[lore-khelathiclt|Khelâthi]] country: villages and estate-towns of a few hundred to a few thousand people, clustered on the cultivable ground and the temple estates. The farmers owe a share of the harvest and labor on the canals, and the scribes among them are the one reliable ladder out of the fields. Past the water the land is high desert and chaparral.
 
 ## Settlements
 
 - [[place-gekhenu|Gekhenu]] (~30,000)—the selat capital and the seat of the Halzi'a, home of the chief temple of [[affiliation-rethsaar|Faith of Reth'Sa'âr]] and its estates.
-- **The villages and estate-towns:** the ordinary settlements of the selat, from a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
+- The villages and estate-towns: the ordinary settlements of the selat, from a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 

@@ -32,7 +32,7 @@ data:
 
 ## Overview
 
-A watch-priest above an endowed tomb, asked what he thinks of the Relic Hunters, answers carefully: "I think a tomb is somebody's account, and I think they read it for the wrong reasons."
+A watch-priest above an endowed tomb, asked what he thinks of the **Relic Hunters**, answers carefully: "I think a tomb is somebody's account, and I think they read it for the wrong reasons."
 
 He is partisan, and his account should be heard as one. **Zeghet'Anlethu** (the Relic Hunters) is a loose fellowship of those who go after what the old tombs of [[place-aukhelathrgq|Aû'Khelâthu]] still hold, drawn from scholars and dealers alike with no formal line dividing the two. Members race one another into the same necropoli, some after a publishable find and some after a sellable one, and the fellowship imposes no rule about which motive wins. A scholar and a dealer share a banner and nothing else. A tomb opened by one of its members is picked clean fast enough that a rival arriving even a season later generally finds nothing left worth the risk of the opening.
 

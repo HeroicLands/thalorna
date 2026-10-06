@@ -77,9 +77,9 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-"Learn which book you are writing in," the Halzi'a's steward tells a young clerk on his first morning in Gadju-Mûlu. "The temple of Thubâ'i, the Halzi'a's granary and the tax bureau all keep ledgers, and they do not keep the same ones."
+"Learn which book you are writing in," the Halzi'a's steward tells a young clerk on his first morning in [[place-gadjumulu|Gadju-Mûlu]]. "The temple of [[lore-thubaidty|Thubâ'i]], the Halzi'a's granary and the tax bureau all keep ledgers, and they do not keep the same ones."
 
-The **Selat of Gadju-Mûlu** is one of the upper-river selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], the "Green Waters" selat of marshy flood-basin, flax and waterfowl, the wettest of the upper selatu, with about 360,000 people. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], who commands its levies, collects its taxes and dispenses its justice, and who answers to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-thubai|Faith of Thubâ'i]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-gadjumuluslt|Gadju-Mûlu Selat]].
+The **Selat of Gadju-Mûlu** is one of the upper-river selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], the "**Green Waters**" selat of marshy flood-basin, flax and waterfowl, the wettest of the upper selatu, with about 360,000 people. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], who commands its levies, collects its taxes and dispenses its justice, and who answers to the [[lore-garauu|Gar-Aû]] at a distance that varies with the strength of the throne. Its patron is [[affiliation-thubai|Faith of Thubâ'i]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-gadjumuluslt|Gadju-Mûlu Selat]].
 
 ## Character
 

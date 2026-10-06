@@ -8,7 +8,7 @@ tags: [generated]
 data: {packFolder: regkhcult}
 ---
 
-**Gelet** is the Emergence, the second season: four months from the day the water pulls back off the fields to the day the crop stands. The silt it leaves, a hand deep and black, is planted as soon as a man can walk on it, and most of the year's labor falls here.
+**Gelet** is the **Emergence**, the second season: four months from the day the water pulls back off the fields to the day the crop stands. The silt it leaves, a hand deep and black, is planted as soon as a man can walk on it, and most of the year's labor falls here.
 
 So do most of the year's quarrels. The flood takes every boundary stone in the valley, and Gelet is when the surveyors walk the fields again, village by village, to put the lines back.
 

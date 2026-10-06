@@ -77,11 +77,11 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-The **Selat of Gar-Qeztu** is where the empire trains the officers who will command its armies. Its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] holds the chariot-corps drill-grounds and the officer schools, commands the selat's levies, collects its taxes and dispenses its justice, and answers to the Gar-Aû at a distance that varies with the strength of the throne. His patron is the war-god [[affiliation-qeztu|Qeztu]], and the selat's religious life runs through that cult's temples and their estates. The land he holds is [[place-garqeztuselt|Gar-Qeztu Selat]].
+The **Selat of Gar-Qeztu** is where the empire trains the officers who will command its armies. Its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] holds the chariot-corps drill-grounds and the officer schools, commands the selat's levies, collects its taxes and dispenses its justice, and answers to the [[lore-garauu|Gar-Aû]] at a distance that varies with the strength of the throne. His patron is the war-god [[affiliation-qeztu|Qeztu]], and the selat's religious life runs through that cult's temples and their estates. The land he holds is [[place-garqeztuselt|Gar-Qeztu Selat]].
 
 ## Character
 
-"Every officer the empire sends to command a garrison learns the work on the frontier first, and this is where the frontier teaches it," a clerk of the Halzi'a's household tells a visitor who asks why so many soldiers cross the courtyard. The chariot corps drills here in earnest, and the Halzi'a is a soldier before he is a noble, so the corps and its schools are what the selat is known for across the empire. His seat is [[place-garqeztu|Gar-Qeztu]], where the chief temple of Qeztu stands with its Priest of the Chariot-Corps, and his court sits beside it.
+"Every officer the empire sends to command a garrison learns the work on the frontier first, and this is where the frontier teaches it," a clerk of the Halzi'a's household tells a visitor who asks why so many soldiers cross the courtyard. The chariot corps drills here in earnest, and the Halzi'a is a soldier before he is a noble, so the corps and its schools are what the selat is known for across the empire. His seat is [[place-garqeztu|Gar-Qeztu]], where the chief temple of Qeztu stands with its **Priest of the Chariot-Corps**, and his court sits beside it.
 
 ## Commerce and Currency
 

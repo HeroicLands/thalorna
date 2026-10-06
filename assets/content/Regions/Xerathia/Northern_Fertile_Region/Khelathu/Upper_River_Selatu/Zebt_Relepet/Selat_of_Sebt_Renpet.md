@@ -77,9 +77,9 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-"We are not Khelzuret," a Lem'Nelgir of [[lore-wethurdty|Wethûr]] at Zebt-Relepet tells a family that has come to arrange a burial. "Nobody makes a pilgrimage here, and I will not pretend otherwise. The tomb is cut, the body is dried and the words are said, and it is done properly."
+"We are not [[place-khelzuret|Khelzuret]]," a Lem'Nelgir of [[lore-wethurdty|Wethûr]] at [[place-zebtrelepet|Zebt-Relepet]] tells a family that has come to arrange a burial. "Nobody makes a pilgrimage here, and I will not pretend otherwise. The tomb is cut, the body is dried and the words are said, and it is done properly."
 
-The Selat of Zebt-Relepet is one of the eighteen [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and about 380,000 people live on its land, [[place-zebtrelptslt|Zebt-Relepet Selat]]. It is a workmanlike mortuary selat of cavern-tombs and natron. The patron is [[affiliation-wethur|Faith of Wethûr]], the Lord of Silent Passage, and the cult's chief temple and estates anchor the selat's religious life.
+The **Selat of Zebt-Relepet** is one of the eighteen [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and about 380,000 people live on its land, [[place-zebtrelptslt|Zebt-Relepet Selat]]. It is a workmanlike mortuary selat of cavern-tombs and natron. The patron is [[affiliation-wethur|Faith of Wethûr]], the [[affiliation-wethur|Lord of Silent Passage]], and the cult's chief temple and estates anchor the selat's religious life.
 
 ## Character
 

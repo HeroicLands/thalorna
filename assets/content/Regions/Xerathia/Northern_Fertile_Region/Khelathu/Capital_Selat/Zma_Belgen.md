@@ -16,9 +16,9 @@ data:
 
 ## Overview
 
-"Which Zma-Belgen?" the boatman says, and waits. "Name me the water, friend, or I will point you to the wrong one."
+"Which **Zma-Belgen**?" the boatman says, and waits. "Name me the water, friend, or I will point you to the wrong one."
 
-**Zma-Belgen** farms the hinterland of [[place-galezkaraslt|Galezkara Selat]], and it shares its name with an unrelated village among the marsh-channels of [[place-garanlghtslt|Gar-Anlaghet Selat]]. It lives as any grain-village of the capital's hinterland does, rendering its measure up the chain.
+Zma-Belgen farms the hinterland of [[place-galezkaraslt|Galezkara Selat]], and it shares its name with an unrelated village among the marsh-channels of [[place-garanlghtslt|Gar-Anlaghet Selat]]. It lives as any grain-village of the capital's hinterland does, rendering its measure up the chain.
 
 ## See Also
 

@@ -29,7 +29,7 @@ data:
 
 ## Overview
 
-A hunter of the [[affiliation-zeghetnelgu|Zeghet'Nelgu]], asked about the **Zeghet'Qelunu** (the Poaching Ring), talks about the officials before the animals. The ring takes protected beasts out of the hunting grounds, and it has arrangements with enough officials to keep doing it. The trail leads to powerful figures in government and the nobility.
+A hunter of the [[affiliation-zeghetnelgu|Zeghet'Nelgu]], asked about the **Zeghet'Qelunu** (the **Poaching Ring**), talks about the officials before the animals. The ring takes protected beasts out of the hunting grounds, and it has arrangements with enough officials to keep doing it. The trail leads to powerful figures in government and the nobility.
 
 Poaching at scale needs arrangements: a Taker, a Carrier, a Buyer, and an Official Who Looks Elsewhere, none of whom need meet. The ring is organized along military lines and has resources to match. Those arrangements are recorded, because nobody in that chain would otherwise trust the next. It is the recording rather than the poaching that brings priests into the matter.
 

@@ -77,11 +77,11 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of Lenen-Nezut rules from a town that once held a throne, and the town remembers it.
+The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of [[place-lenennezut|Lenen-Nezut]] rules from a town that once held a throne, and the town remembers it.
 
 "We keep the ram, we keep the horses and we keep our manners," a priest of [[lore-uqaadty|Uqa'â]] tells a visitor from the capital, "which is what an old capital has to keep."
 
-The Selat of Lenen-Nezut is one of the eighteen [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and about 340,000 people live on its land, [[place-lenenneztslt|Lenen-Nezut Selat]]. It is an old capital of a former dynasty, proud and faded, with a ram-cult and horse-pasture to its name. The patron is [[affiliation-uqaa|Faith of Uqa'â]], the god of the sun, and the cult's chief temple and estates anchor the selat's religious life.
+The **Selat of Lenen-Nezut** is one of the eighteen [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and about 340,000 people live on its land, [[place-lenenneztslt|Lenen-Nezut Selat]]. It is an old capital of a former dynasty, proud and faded, with a ram-cult and horse-pasture to its name. The patron is [[affiliation-uqaa|Faith of Uqa'â]], the god of the sun, and the cult's chief temple and estates anchor the selat's religious life.
 
 ## Character
 

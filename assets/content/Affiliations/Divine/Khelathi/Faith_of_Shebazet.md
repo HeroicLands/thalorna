@@ -52,9 +52,9 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-"Every tax roll in the empire started in a bed like this one," a fowler tells a passenger poling through the reeds of the delta, and he lifts a hand toward the green wall on either side. "The scribes forget it. **Shebazet** does not."
+"Every tax roll in the empire started in a bed like this one," a fowler tells a passenger poling through the reeds of the delta, and he lifts a hand toward the green wall on either side. "The scribes forget it. [[lore-shebazetdty|Shebazet]] does not."
 
-Shebazet, the cobra-goddess, is the goddess of the papyrus marshes. Her cult belongs to the [[affiliation-selatgrshbzt|Selat of Gar-Shebazet]], a delta selat that lives by fowling, reed-craft and the empire's paper-cutting, whose capital is [[place-garshebazet|Gar-Shebazet]]. Her reach is quiet and very long. In a civilization that runs on records, the reed-beds her priests bless supply the paper for every tax roll, contract and temple record in Aû'Khelâthu.
+Shebazet, the cobra-goddess, is the goddess of the papyrus marshes. Her cult belongs to the [[affiliation-selatgrshbzt|Selat of Gar-Shebazet]], a delta selat that lives by fowling, reed-craft and the empire's paper-cutting, whose capital is [[place-garshebazet|Gar-Shebazet]]. Her reach is quiet and very long. In a civilization that runs on records, the reed-beds her priests bless supply the paper for every tax roll, contract and temple record in **Aû'Khelâthu**.
 
 ## Two Offices of the Marsh
 
@@ -67,4 +67,4 @@ The ladder above and below them is the shared one: lay faithful who keep the obs
 - [[lore-shebazetdty|Shebazet]]—the goddess
 - [[affiliation-selatgrshbzt|The Selat of Gar-Shebazet]]—her selat
 - [[affiliation-deltaselatu|The Delta Selatu]]—the selatu she belongs to
-- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—the temple hierarchy every Khelâthi cult shares
+- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—the temple hierarchy every [[lore-khelathiclt|Khelâthi]] cult shares

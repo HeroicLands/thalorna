@@ -44,7 +44,7 @@ data:
 
 ## Character
 
-Before you touch the hammer, the old smith shows you the stamp. "That is not mine," he says. "That is theirs, and it was theirs before it was the guild's." The Metalworkers' Guild is the chartered guild of the empire's smiths and the acknowledged heir of the forge-companies whose practice is older than the charter. Its authority is the inherited method. An **Apprentice** learns it under the guild's training; a **Certified Smith** is registered, pays dues, and has work certified as guild-standard.
+Before you touch the hammer, the old smith shows you the stamp. "That is not mine," he says. "That is theirs, and it was theirs before it was the guild's." The **Metalworkers' Guild** is the chartered guild of the empire's smiths and the acknowledged heir of the forge-companies whose practice is older than the charter. Its authority is the inherited method. An Apprentice learns it under the guild's training; a Certified Smith is registered, pays dues, and has work certified as guild-standard.
 
 The guild is conservative and jealous. It certifies a piece against the old practice before the piece can be sold as guild-standard, and a smith who departs from the methods without the guild's sanction risks losing the certification that makes the work sellable at all. Struck from the roll, a smith is a Name Struck, and the certification goes with him.
 

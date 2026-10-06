@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Yath-Mulu works the narrow strip of land the river leaves it between floods, and the pilgrim-road to [[place-khelzuret|Khelzuret]] runs close enough that the field edge doubles as a camping ground for passing funerals. In [[place-khelzuretslt|Khelzuret Selat]] a thin harvest is made up by a heavy season of mourners, and the reverse, so no household in Yath-Mulu counts on either alone.
+**Yath-Mulu** works the narrow strip of land the river leaves it between floods, and the pilgrim-road to [[place-khelzuret|Khelzuret]] runs close enough that the field edge doubles as a camping ground for passing funerals. In [[place-khelzuretslt|Khelzuret Selat]] a thin harvest is made up by a heavy season of mourners, and the reverse, so no household in Yath-Mulu counts on either alone.
 
 ## See Also
 

@@ -42,7 +42,7 @@ data:
 
 The door is opened by whichever companion is nearest, and the first thing you are told is a rule: what the founder read in the stars stays in this house. Lin'Amqelet-Zeleku is a small company, and it exists because a celebrated astrologer once gave counsel to people who then chose not to leave. They went on with an ordinary trade, but the trade is the least of what they share. The company is held together by the prophecy the founder read, and by loyalty to her.
 
-A **Companion** is someone who came for counsel and stayed. Nobody joins by paying, and nobody joins for custom: the company confers no advantage in the market, and the companions know it. They keep the prophecy within the walls because repeating it outside costs the founder's reputation, and her reputation is the one thing the company guards without compromise.
+A Companion is someone who came for counsel and stayed. Nobody joins by paying, and nobody joins for custom: the company confers no advantage in the market, and the companions know it. They keep the prophecy within the walls because repeating it outside costs the founder's reputation, and her reputation is the one thing the company guards without compromise.
 
 If you are asked to dine, accept, and do not ask what the stars said. A companion will tell you about the weather, the trade and the founder's patience with fools. About the reading itself you will get a courteous silence, and the courtesy is the lesson.
 

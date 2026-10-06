@@ -40,7 +40,7 @@ data:
 
 ## Character
 
-"State the charge, state the law, state the remedy," the Examiner says, "in that order, and do not look at me while you do it." The candidate before him is a clerk who has argued small matters in the market courts for six years and has come at last to the guild's examination. The Litigants' Guild is the chartered body of the advocates of the capital, and it examines every candidate before it will put his name on the roster. An **Advocate** is someone who has passed and is licensed to argue before the courts of Galezkara.
+"State the charge, state the law, state the remedy," the Examiner says, "in that order, and do not look at me while you do it." The candidate before him is a clerk who has argued small matters in the market courts for six years and has come at last to the guild's examination. The **Litigants' Guild** is the chartered body of the advocates of the capital, and it examines every candidate before it will put his name on the roster. An Advocate is someone who has passed and is licensed to argue before the courts of Galezkara.
 
 The guild is formal and a gatekeeper by temperament. Its license is the only route into the capital's courts, and it is a stern one; the Examiner gives no hints and the guild does not lend advocates to causes it has not examined. It also keeps an Adviser, an advocate it retains to counsel the guild itself, and the Adviser is the person a baffled senior member goes to when a case turns strange.
 

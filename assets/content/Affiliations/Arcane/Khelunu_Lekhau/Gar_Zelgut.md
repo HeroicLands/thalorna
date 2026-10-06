@@ -56,13 +56,13 @@ sohl: {system: {commonSkills: []}}
 
 "You will read everything we hold on him and work none of it," a **Warden of the Treatises** tells a lekhau newly seconded to the college. "Both halves are the post. The second half is a capital matter."
 
-**Gar-Zelgút**, the House of the Unmaking, is the House nobody joins. It is the warded college seated inside the temples of [[lore-uqaadty|Uqa'â]] and [[lore-rethsaardty|Reth'Sa'âr]] that holds the treatises on the chaos god [[lore-azuathisdty|Azu'âthis]], and its members are seconded to it from the other Houses rather than admitted.
+**Gar-Zelgút**, the **House of the Unmaking**, is the House nobody joins. It is the warded college seated inside the temples of [[lore-uqaadty|Uqa'â]] and [[lore-rethsaardty|Reth'Sa'âr]] that holds the treatises on the chaos god [[lore-azuathisdty|Azu'âthis]], and its members are seconded to it from the other Houses rather than admitted.
 
 The House exists because you cannot ward what you cannot describe. Every seal, threshold-curse and tomb-binding in the empire is a [[lore-qarquzu|Qar'quzu]] working built around an exact account of what it is built against, and this college keeps the account. To study the chaos god is lawful and closely watched. To work [[lore-zelgut|Zelgút]] is capital.
 
 ## Three Offices
 
-The **Warden of the Treatises** holds the sealed accounts of Azu'âthis—his nature, his manifestations, his methods of attack—and decides who may read them. The **Reader of Broken Work** is called to a working that has failed or been tampered with, to determine which of its forms is live, which is bluff and which has been turned. The **Second of the Watch** is a practitioner seconded from another House for a term, who returns to it afterward and is thereafter watched for life.
+The Warden of the Treatises holds the sealed accounts of Azu'âthis—his nature, his manifestations, his methods of attack—and decides who may read them. The **Reader of Broken Work** is called to a working that has failed or been tampered with, to determine which of its forms is live, which is bluff and which has been turned. The **Second of the Watch** is a practitioner seconded from another House for a term, who returns to it afterward and is thereafter watched for life.
 
 A seconded practitioner is also counted stained. The Purifier of [[affiliation-garathenuqa|Gar-Athen'Uqa]] conducts the cleansing.
 

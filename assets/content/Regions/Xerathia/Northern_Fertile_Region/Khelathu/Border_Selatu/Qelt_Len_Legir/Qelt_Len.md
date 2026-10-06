@@ -19,7 +19,7 @@ data:
 
 **Qelt-Len** (about 15,000 people) is the capital of the [[affiliation-seltqltlnlgr|Selat of Qelt-Len-Legir]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]]. It is the capital of the forward forts, and a posting to it is a posting to the hardest corner of the southern march.
 
-The chief temple of Qeztu is the first building a new arrival is taken to see. The Halzi'a's court and granaries are near it, the scribal bureau keeps the tax rolls, and the markets serve the surrounding villages and estate-towns. The town's character is the selat's: forward southern forts beyond the first cataract.
+The chief temple of [[lore-qeztudty|Qeztu]] is the first building a new arrival is taken to see. The Halzi'a's court and granaries are near it, the scribal bureau keeps the tax rolls, and the markets serve the surrounding villages and estate-towns. The town's character is the selat's: forward southern forts beyond the first cataract.
 
 ## See Also
 

@@ -10,7 +10,7 @@ data: {packFolder: regkhsett}
 
 "I carry them across, and they carry the dead down to me," says the ferryman at the necropolis landing, nodding at the lanes behind him. "Both of us are paid for it, and neither of us is invited to dinner."
 
-The **Wazulet** (the Pure Place) is a liminal quarter of [[place-galezkara|Galezkara]] by the necropolis ferry, named for what is done in it and shunned for the same reason. The embalmers, the linen-wrappers, the coffin-makers and the carriers of the dead keep their houses here, downwind of the living city, and the rents are low for reasons nobody has to explain twice. The dead pass through the quarter on their way to the western shore.
+The **Wazulet** (the **Pure Place**) is a liminal quarter of [[place-galezkara|Galezkara]] by the necropolis ferry, named for what is done in it and shunned for the same reason. The embalmers, the linen-wrappers, the coffin-makers and the carriers of the dead keep their houses here, downwind of the living city, and the rents are low for reasons nobody has to explain twice. The dead pass through the quarter on their way to the western shore.
 
 ## See Also
 

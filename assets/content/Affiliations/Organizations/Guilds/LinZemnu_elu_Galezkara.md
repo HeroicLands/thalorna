@@ -36,11 +36,11 @@ data:
 
 ## Overview
 
-**Lin'Zemnu elu Galezkara**, the Craftsmasters' Consortium, gathers the masters of the crafts of [[place-galezkara|Galezkara]] into one body and holds sole authority over what may be called master-work, a designation that lifts a piece's price far above ordinary craft output. Its members resent public criticism of their methods. A critic who presses the point in public finds the consortium's doors closed rather than its arguments answered.
+**Lin'Zemnu elu Galezkara**, the **Craftsmasters' Consortium**, gathers the masters of the crafts of [[place-galezkara|Galezkara]] into one body and holds sole authority over what may be called master-work, a designation that lifts a piece's price far above ordinary craft output. Its members resent public criticism of their methods. A critic who presses the point in public finds the consortium's doors closed rather than its arguments answered.
 
 ## Character
 
-Nobody at the Craftsmasters' Consortium says "no." They say, "The council has not yet found it to be master-work." The consortium is the body of masters of the capital's crafts, and it holds sole authority over what may be called master-work. A **Craftsmaster** is a master of one of the crafts admitted to the consortium; an **Elder** sits on the council that arbitrates disputes and keeps the trade's standards.
+Nobody at the Craftsmasters' Consortium says "no." They say, "The council has not yet found it to be master-work." The consortium is the body of masters of the capital's crafts, and it holds sole authority over what may be called master-work. A Craftsmaster is a master of one of the crafts admitted to the consortium; an Elder sits on the council that arbitrates disputes and keeps the trade's standards.
 
 The consortium is proud and sensitive to criticism. A master-work designation sets a piece's price far above ordinary output, so every master has a stake in how the designation is kept. Members resent public criticism of their methods, and a critic who presses the point in public finds the consortium's doors closed. The arguments go unanswered; the doors do not open.
 

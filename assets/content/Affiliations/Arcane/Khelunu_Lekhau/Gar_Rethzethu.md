@@ -56,11 +56,11 @@ sohl: {system: {commonSkills: []}}
 
 "You will ask me for the catalog," a **Keeper of the Closed Shelf** tells a novice on the first day. "There isn't one. A catalog of true names is itself a true name."
 
-**Gar-Reth'zethu**, the House of the Name, holds what the whole tradition rests on. If power is correct address, then the true name is the address, and this House finds, holds and guards them. It is seated at [[place-khelunu|Khelunu]] beside the archive. It is the House the other seven come to when a form will not work, and its restricted material is kept most closely, since a true name written down is a true name that can be stolen.
+**Gar-Reth'zethu**, the **House of the Name**, holds what the whole tradition rests on. If power is correct address, then the true name is the address, and this House finds, holds and guards them. It is seated at [[place-khelunu|Khelunu]] beside the archive. It is the House the other seven come to when a form will not work, and its restricted material is kept most closely, since a true name written down is a true name that can be stolen.
 
 ## Three Offices
 
-The **Finder of Names** establishes the true name of a thing. The work is slow and uncertain, and it is the most valuable service the House performs. The Keeper of the Closed Shelf holds the recorded true names on a shelf that is not cataloged. The **Corrector** is called by another House when a form fails, to determine whether the fault lies in the name or in the execution.
+The **Finder of Names** establishes the true name of a thing. The work is slow and uncertain, and it is the most valuable service the House performs. The Keeper of the Closed Shelf holds the recorded true names on a shelf that is not cataloged. The Corrector is called by another House when a form fails, to determine whether the fault lies in the name or in the execution.
 
 [[lore-rethzethu|Reth'zethu]] is named for the soul-component the funerary rites inscribe on every available surface, and with [[lore-qeltnu|Qelt'nu]] it makes the pair on which the whole tradition turns.
 

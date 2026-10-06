@@ -36,7 +36,7 @@ data:
 
 ## Character
 
-"Nobody asked you to read it," the senior scribe says, and the junior copyist, who has just read the first line aloud, lowers her eyes. The Scribal Consortium is a body of the capital's scribes working outside the temple schools. Its members take private commissions the schools will not touch, and its clients pay for discretion as much as for the hand. A **Zethu** of the consortium is a scribe paid for both.
+"Nobody asked you to read it," the senior scribe says, and the junior copyist, who has just read the first line aloud, lowers her eyes. The **Scribal Consortium** is a body of the capital's scribes working outside the temple schools. Its members take private commissions the schools will not touch, and its clients pay for discretion as much as for the hand. A Zethu of the consortium is a scribe paid for both.
 
 The consortium is discreet and independent. A letter between two houses, a will not yet read, a contract between partners who do not trust each other: these arrive in the consortium's room by the back stair, and what is copied there stays there. The consortium guards the trade in confidential copying closely, and a scribe who breaks a confidence once is unlikely to be commissioned again by those clients, who talk among themselves more than the consortium would like.
 

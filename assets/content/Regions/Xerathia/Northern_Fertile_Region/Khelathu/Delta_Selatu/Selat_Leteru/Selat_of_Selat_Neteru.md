@@ -77,7 +77,7 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-**Selat-Leteru** is the quietest of the Delta Selatu: few people, many shrines. It is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], a pilgrimage selat of shrine-islands and marsh-temples with few people. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the Gar-Aû at a distance that varies with the strength of the throne. The patron is [[affiliation-uznera|Uznêra]], and the selat's religious life runs through her temples and their estates. The land it holds is [[place-selatleterunome|Selat-Leteru]].
+[[place-selatleterunome|Selat-Leteru]] is the quietest of the [[affiliation-deltaselatu|Delta Selatu]]: few people, many shrines. It is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], a pilgrimage selat of shrine-islands and marsh-temples with few people. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the [[lore-garauu|Gar-Aû]] at a distance that varies with the strength of the throne. The patron is [[affiliation-uznera|Uznêra]], and the selat's religious life runs through her temples and their estates. The land it holds is [[place-selatleterunome|Selat-Leteru]].
 
 The selat holds about 150,000 people, the smallest population of the ten, and most of its business is the business of pilgrims: boats, lodging, offerings, and the temple estates that feed them.
 

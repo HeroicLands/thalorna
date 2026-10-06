@@ -32,7 +32,7 @@ data:
 
 ## Overview
 
-Nobody introduces you to the Circle of the Veil. A friend of a friend mentions that a certain lady might know something, and the conversation ends there.
+Nobody introduces you to the **Circle of the Veil**. A friend of a friend mentions that a certain lady might know something, and the conversation ends there.
 
 **Genzet'Qelunu** (the Circle of the Veil) is a discreet society of courtesans, companions and women of influence who trade in information people would rather not have known about themselves or their rivals. They keep standards for their profession, and they compile what they gather into ledgers for the members' use while keeping their own names carefully out of those same ledgers. A patron who buys from the circle gains leverage over someone else and never learns which member gathered it, since that member is the one name the ledger never carries.
 

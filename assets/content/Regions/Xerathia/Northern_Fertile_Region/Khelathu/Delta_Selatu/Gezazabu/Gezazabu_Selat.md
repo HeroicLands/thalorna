@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-**Gezazabu Selat** is the land of the [[affiliation-selatgezazab|Selat of Gezazabu]], one of the [[affiliation-deltaselatu|Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and it lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]]. It is an eastern delta port and its hinterland: the selat's trade is salt-fish and the curing-houses that make it, and the trade road to Bethûa runs out of it.
+**Gezazabu Selat** is the land of the [[affiliation-selatgezazab|Selat of Gezazabu]], one of the [[affiliation-deltaselatu|Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and it lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]]. It is an eastern delta port and its hinterland: the selat's trade is salt-fish and the curing-houses that make it, and the trade road to **Bethûa** runs out of it.
 
 "Boats go out at night and come back with the dawn tide," says a curing-house hand, rinsing a scaled blade in a trough as the first baskets are hauled up the ramp. "By noon the fish is split and under salt. By the time the barrels are on a cart, they are already somebody's dinner."
 
@@ -28,7 +28,7 @@ Inland of the port the villages and temple estates grow grain on the usual terms
 ## Settlements
 
 - [[place-gezazabu|Gezazabu]] (~56,000)—the selat capital and the seat of the Halzi'a.
-- **The villages and estate-towns:** the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
+- The villages and estate-towns: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 

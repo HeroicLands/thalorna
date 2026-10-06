@@ -36,7 +36,7 @@ data:
 
 ## Character
 
-The master at the Artisans' Guild's long table has a plaque on the wall with the names of the members whose work is known across the empire. "We are very proud of them," he says. "We would prefer that you did not ask how they earn it." The guild is the chartered body of the empire's artisans, spanning every craft that has no guild of its own. An **Artisan** is someone who practices such a craft and holds the guild's good standing.
+The master at the **Artisans' Guild**'s long table has a plaque on the wall with the names of the members whose work is known across the empire. "We are very proud of them," he says. "We would prefer that you did not ask how they earn it." The guild is the chartered body of the empire's artisans, spanning every craft that has no guild of its own. An Artisan is someone who practices such a craft and holds the guild's good standing.
 
 The guild is broad and ambivalent. It takes its prestige from its finest members' reputations and disapproves of most of the methods that earned them. It wants the acclaim and does not want the risk, and an ambitious artisan learns quickly what that means in practice. The sensible course is to plan the risky commission and complete it, and to ask the guild for its recognition afterward.
 

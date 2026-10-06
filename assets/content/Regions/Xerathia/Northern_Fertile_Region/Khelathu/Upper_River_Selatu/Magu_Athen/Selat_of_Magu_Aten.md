@@ -79,11 +79,11 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 "The streets were laid for more people than we are, so we use the half that has roofs," a Legha'lutu whose estate runs up to the edge of the empty quarter tells a visitor from the capital.
 
-The Selat of Magu-Athen is one of the eighteen [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and about 300,000 people live on its land, [[place-maguathenslt|Magu-Athen Selat]]. It is a planned temple-city of one zealous dynasty, half-abandoned and still inhabited. The patron is [[affiliation-uqaa|Faith of Uqa'â]], the god of the sun, and the cult's chief temple and estates anchor the selat's religious life.
+The **Selat of Magu-Athen** is one of the eighteen [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and about 300,000 people live on its land, [[place-maguathenslt|Magu-Athen Selat]]. It is a planned temple-city of one zealous dynasty, half-abandoned and still inhabited. The patron is [[affiliation-uqaa|Faith of Uqa'â]], the god of the sun, and the cult's chief temple and estates anchor the selat's religious life.
 
 ## Character
 
-The estates are the working part of the selat. The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] governs through the Legha'lutu who rule them, each answerable to him for the manor, the fields and the village that belong to it, and in Magu-Athen those estates carry the weight the empty city cannot. The seat is [[place-maguathen|Magu-Athen]], where the Halzi'a keeps his court and the chief temple of Uqa'â stands.
+The estates are the working part of the selat. The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] governs through the Legha'lutu who rule them, each answerable to him for the manor, the fields and the village that belong to it, and in [[place-maguathen|Magu-Athen]] those estates carry the weight the empty city cannot. The seat is [[place-maguathen|Magu-Athen]], where the Halzi'a keeps his court and the chief temple of [[lore-uqaadty|Uqa'â]] stands.
 
 ## Commerce and Currency
 

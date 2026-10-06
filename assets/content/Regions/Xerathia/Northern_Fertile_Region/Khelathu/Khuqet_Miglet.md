@@ -28,7 +28,7 @@ render is levied from it, and the
 to the east and north runs across it and because whoever else held it would be
 a day's ride from the mines. Its name answers that of
 the [[affiliation-seltkhqtmntq|Selat of Khuqet-Imntiqa]], the western desert-march, but the
-likeness ends at the name: Khuqet-Imntiqa is a selat with a Halzi'a and a temple,
+likeness ends at the name: [[place-khuqetimntiqnome|Khuqet-Imntiqa]] is a selat with a Halzi'a and a temple,
 and Khuqet-Miglet is a garrison holding a road.
 
 ## Geography
@@ -36,8 +36,8 @@ and Khuqet-Miglet is a garrison holding a road.
 The march begins where the quarry-roads of
 the [[affiliation-selatzuzlqtt|Selat of Zu-Zel-Iaqtet]] and the well-lines of
 the [[affiliation-selatiaqetlq|Selat of Iaqet-Leqa]] give out, and runs northeast across
-stony plateau, gravel plain and low broken hills until the Dunhari sand seas
-begin. It is **semi-desert**: a thin winter rain greens the wadis for a few
+stony plateau, gravel plain and low broken hills until the [[lore-dunhariclt|Dunhari]] sand seas
+begin. It is semi-desert: a thin winter rain greens the wadis for a few
 weeks and raises a short grass on the northern flats, and the rest of the year
 the country is gray stone and dust under a white sky. Nothing is sown here
 that a canal does not reach, and no canal reaches it. Thorn, tamarisk and
@@ -45,8 +45,8 @@ saltbush grow along the dry streambeds; date-palms stand only where a well has
 been dug and walled; goats, camels and the small hard horses of the frontier
 graze the wadis, and sheep only after the rains.
 
-**Water** is the march. A chain of wells and rock-cisterns follows the line of
-the wadis from the last Khelâthi villages to the first Dunhari oases, most of
+Water is the march. A chain of wells and rock-cisterns follows the line of
+the wadis from the last [[lore-khelathiclt|Khelâthi]] villages to the first Dunhari oases, most of
 them dug or deepened by the garrisons and every one of them named, walled and
 garrisoned or claimed by a clan. Between the wells there is nothing, and a
 party that misses one does not reach the next. "Learn the name of the next
@@ -55,7 +55,7 @@ on his first crossing, "and learn who owns it."
 
 ## The Road
 
-One thing gives the march its worth: the **caravan road** that leaves the
+One thing gives the march its worth: the caravan road that leaves the
 river valley through the eastern hills, threads the wells of Khuqet-Miglet,
 and climbs into the Dunhara and on toward the oasis-belt of the
 [[place-khzryndsrtrgn|Khazryn Desert]]. It is the empire's land-road to the
@@ -66,8 +66,8 @@ markets. Khelâthi merchants and the desert caravans meet at the wells; Dunhari
 guides carry a caravan from the last fort to the first oasis, and no Khelâthi
 caravan-master dispenses with one.
 
-The road is also the empire's depth. The gold of Zu-Zel-Iaqtet and the
-quarries of Iaqet-Leqa lie a few days' ride behind the march, and a raid that
+The road is also the empire's depth. The gold of [[place-zuzeliaqtetnome|Zu-Zel-Iaqtet]] and the
+quarries of [[place-iaqetleqa|Iaqet-Leqa]] lie a few days' ride behind the march, and a raid that
 crossed the desert unopposed would reach them. Holding the wells holds the
 road, and holding the road keeps the mines a garrisoned country rather than a
 frontier.
@@ -78,7 +78,7 @@ The empire has never made Khuqet-Miglet a selat, and does not want to. A selat
 runs on the flood, the harvest and the render, and the march has none of
 them: nothing grows to be taxed, no estates can be granted, no temple can be
 endowed from land that yields nothing. A Halzi'a here would be a governor of
-wells. So the march is held instead as a **military command**—a crown
+wells. So the march is held instead as a military command—a crown
 appointment, not a hereditary seat—and its garrisons are paid, fed and armed
 from the heartland, as the border selatu are, with even less to show for it in
 return. The court regards it as a cost of the road and of the mines, and
@@ -86,12 +86,12 @@ grumbles at the cost every year.
 
 ## The Garrisons
 
-The march is held from a line of **forts on the road**, each built on a well:
+The march is held from a line of forts on the road, each built on a well:
 mud-brick walls, a cistern, a watch-tower, a chariot-yard, and a company of
 infantry and archers with a few chariots for the patrols. The largest, at the
 wells where the road turns toward the Dunhara, is the seat of the **Imperial
 Garrison** and of its commander, the **Overseer of the March**, who answers
-to the Gar-Aû's military officers at the capital and to no Halzi'a. The
+to the [[lore-garauu|Gar-Aû]]'s military officers at the capital and to no Halzi'a. The
 garrison's whole duty is the road: to patrol the wells, escort the caravans,
 collect the road-toll, and keep the peace with the clans on the other side
 of it.
@@ -103,7 +103,7 @@ valley. Recent commanders have been soldiers of the ordinary Khelâthi kind who
 see a desert people as a nuisance to be managed rather than a neighbor to be
 dealt with: wells closed to clan herds, tolls raised on Dunhari caravans,
 hostages taken after a raid and not returned. Each such act has cost a
-skirmish, and each skirmish a negotiation that failed. The cult of Qeztu is
+skirmish, and each skirmish a negotiation that failed. The cult of [[lore-qeztudty|Qeztu]] is
 strong in the forts, as it is on every Khelâthi frontier, and its priests
 preach no patience with nomads.
 
@@ -113,9 +113,9 @@ The clans who contest the march are the western Dunhari, whose migration
 circuits and oases of right run up against the Khelâthi wells. The sheikhs
 regard the wells as theirs by the Laws of the Well—water is never one
 people's property—and the forts as squatters upon them. Chief
-among the clans that water here are the Shiradar, whose sheikh
+among the clans that water here are the **Shiradar**, whose sheikh
 [[being-mthrnshrdr|Mithran Shiradar]] counts the Imperial Garrison among his
-enemies, and their Valdun neighbors, whose raids the Shiradar are as often
+enemies, and their **Valdun** neighbors, whose raids the Shiradar are as often
 blamed for as their own.
 
 The two sides meet at the [[place-zuletqar|Zulet'Qar]]—the largest wells on the road,

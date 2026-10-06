@@ -77,7 +77,7 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-The **Selat of Belgen-Zalu** is the last province of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] before the tribal frontier, and the empire's writ reaches only as far as its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] can send a patrol and bring it home. He holds the deepest fort on the southern march, commands its levies, collects its taxes and hears its cases, and he answers to the Gar-Aû at a distance that is greater here than anywhere in the empire, and greater still when the throne is weak. His patron is the war-god [[affiliation-qeztu|Qeztu]], and the selat's religious life runs through that cult's temples and their estates. The land he holds is [[place-belgenzalunome|Belgen-Zalu]].
+The **Selat of Belgen-Zalu** is the last province of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] before the tribal frontier, and the empire's writ reaches only as far as its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] can send a patrol and bring it home. He holds the deepest fort on the southern march, commands its levies, collects its taxes and hears its cases, and he answers to the [[lore-garauu|Gar-Aû]] at a distance that is greater here than anywhere in the empire, and greater still when the throne is weak. His patron is the war-god [[affiliation-qeztu|Qeztu]], and the selat's religious life runs through that cult's temples and their estates. The land he holds is [[place-belgenzalunome|Belgen-Zalu]].
 
 ## Character
 

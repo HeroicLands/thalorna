@@ -17,9 +17,9 @@ data:
 
 ## Overview
 
-"The water doesn't care whose dynasty built the road," a farmer of Magu-Athen says, leaning on his hoe at the edge of a canal that runs straight for a mile beside an empty avenue.
+"The water doesn't care whose dynasty built the road," a farmer of [[place-maguathen|Magu-Athen]] says, leaning on his hoe at the edge of a canal that runs straight for a mile beside an empty avenue.
 
-Magu-Athen Selat is the land of the [[affiliation-selatmaguthn|Selat of Magu-Athen]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+**Magu-Athen Selat** is the land of the [[affiliation-selatmaguthn|Selat of Magu-Athen]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 
@@ -27,7 +27,7 @@ The land is ordinary valley country with an extraordinary town at its center. Fl
 
 ## Economy
 
-The selat runs on the flood, the harvest and the render like every Khelâthi selat: grain to the granaries, labor to the canals and the works of the flood season, and a share of everything to the temples and the crown. The temple-city is still inhabited, and its chief temple of Uqa'â still holds its estates.
+The selat runs on the flood, the harvest and the render like every [[lore-khelathiclt|Khelâthi]] selat: grain to the granaries, labor to the canals and the works of the flood season, and a share of everything to the temples and the crown. The temple-city is still inhabited, and its chief temple of [[lore-uqaadty|Uqa'â]] still holds its estates.
 
 ## Notable Features
 
@@ -38,7 +38,7 @@ The selat runs on the flood, the harvest and the render like every Khelâthi sel
 ## Settlements
 
 - [[place-maguathen|Magu-Athen]] (~22,000)—the selat capital and the seat of the Halzi'a.
-- **The villages and estate-towns:** the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
+- The villages and estate-towns: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 

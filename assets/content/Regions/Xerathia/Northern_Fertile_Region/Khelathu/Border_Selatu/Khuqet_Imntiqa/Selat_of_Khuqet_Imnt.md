@@ -77,7 +77,7 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-The **Selat of Khuqet-Imntiqa** is the far western desert march of the empire, a country of oasis-forts that watches the trade-tracks across the sand. Do not confuse it with [[place-khuqetmiglet|Khuqet-Miglet]], the garrisoned road in the northeast: that country has no [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], no temple and no render, and this one has all three. Its hereditary Halzi'a commands the selat's levies, collects its taxes and dispenses its justice, and answers to the Gar-Aû at a distance that varies with the strength of the throne. His patron is the sun-god [[affiliation-uqaa|Uqa'â]], and the selat's religious life runs through that cult's temples and their estates. The land he holds is [[place-khuqetimntiqnome|Khuqet-Imntiqa]].
+The **Selat of Khuqet-Imntiqa** is the far western desert march of the empire, a country of oasis-forts that watches the trade-tracks across the sand. Do not confuse it with [[place-khuqetmiglet|Khuqet-Miglet]], the garrisoned road in the northeast: that country has no [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], no temple and no render, and this one has all three. Its hereditary Halzi'a commands the selat's levies, collects its taxes and dispenses its justice, and answers to the [[lore-garauu|Gar-Aû]] at a distance that varies with the strength of the throne. His patron is the sun-god [[affiliation-uqaa|Uqa'â]], and the selat's religious life runs through that cult's temples and their estates. The land he holds is [[place-khuqetimntiqnome|Khuqet-Imntiqa]].
 
 ## Character
 

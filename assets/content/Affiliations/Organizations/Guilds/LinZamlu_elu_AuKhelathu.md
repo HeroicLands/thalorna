@@ -40,7 +40,7 @@ data:
 
 ## Character
 
-"Oh, I'm Guild," the lute-player says at the door of the patron's house, and the steward lets him in. He has not attended a meeting in two years. The Minstrels' Guild is the chartered guild of the empire's musicians and singers, open to any performer who pays its dues, and its members invoke it constantly and attend it sporadically. A **Minstrel** is a performer on the roll, who claims the guild as a credential. A **Master** holds mastery in the guild, and a recommendation from one carries across the whole empire.
+"Oh, I'm Guild," the lute-player says at the door of the patron's house, and the steward lets him in. He has not attended a meeting in two years. The **Minstrels' Guild** is the chartered guild of the empire's musicians and singers, open to any performer who pays its dues, and its members invoke it constantly and attend it sporadically. A Minstrel is a performer on the roll, who claims the guild as a credential. A Master holds mastery in the guild, and a recommendation from one carries across the whole empire.
 
 The guild is open and loosely held. Nobody is examined for belonging, nobody is struck off for absence, and the roll is a list of people who paid. The guild is nonetheless real, because the credential it gives is real. When a patron asks for proof, the roll confirms the claim more often than attendance would suggest.
 

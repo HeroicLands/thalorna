@@ -21,12 +21,12 @@ data:
 
 ## Character
 
-The forts stand beyond the first cataract and the fortress of [[place-balehen|Balehen]], and an officer sent here has been sent as far from the heartland as the empire reaches. Among them lie the ordinary Khelâthi villages, estates and temple lands, worked by farmers who owe a share of the harvest and labor on the canals; they are the people the forts exist to cover.
+The forts stand beyond the first cataract and the fortress of [[place-balehen|Balehen]], and an officer sent here has been sent as far from the heartland as the empire reaches. Among them lie the ordinary [[lore-khelathiclt|Khelâthi]] villages, estates and temple lands, worked by farmers who owe a share of the harvest and labor on the canals; they are the people the forts exist to cover.
 
 ## Settlements
 
-- [[place-qeltlen|Qelt-Len]] (~15,000)—the selat capital and the seat of the Halzi'a, with the chief temple of Qeztu.
-- **The villages and estate-towns:** a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
+- [[place-qeltlen|Qelt-Len]] (~15,000)—the selat capital and the seat of the Halzi'a, with the chief temple of [[lore-qeztudty|Qeztu]].
+- The villages and estate-towns: a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 

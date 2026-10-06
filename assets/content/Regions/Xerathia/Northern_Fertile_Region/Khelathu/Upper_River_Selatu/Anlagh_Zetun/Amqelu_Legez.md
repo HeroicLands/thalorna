@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-Come to **Amqelu-Legez** in the Season of Shelu and the first thing you meet is the counting. Along the long grain-wharves the porters call each sack aloud as it goes aboard, a tally-scribe repeats the number to his board, and no barge pushes off until its load has been weighed and sealed. "If it is not sealed, it did not sail," a wharf-scribe tells a new boatman, and the rule holds from the first barge of the harvest to the last.
+Come to **Amqelu-Legez** in the **Season of Shelu** and the first thing you meet is the counting. Along the long grain-wharves the porters call each sack aloud as it goes aboard, a tally-scribe repeats the number to his board, and no barge pushes off until its load has been weighed and sealed. "If it is not sealed, it did not sail," a wharf-scribe tells a new boatman, and the rule holds from the first barge of the harvest to the last.
 
 Amqelu-Legez is the river-port of the [[affiliation-selatnlghztn|Selat of Anlagh-Zetûn]], a town of about 25,000 boatmen, porters, measurers and traders. It is the throat through which the wheat of the great flood-basin reaches the capital and the delta. [[place-anlaghzetun|Anlagh-Zetûn]] grows the harvest, and Amqelu-Legez gathers, measures and ships it, while the granary-keepers and the grain-factors haggle on the docks beside the barges.
 

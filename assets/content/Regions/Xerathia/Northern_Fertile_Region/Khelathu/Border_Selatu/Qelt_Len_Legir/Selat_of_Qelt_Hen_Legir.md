@@ -77,7 +77,7 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-The **Selat of Qelt-Len-Legir** holds the forward forts beyond the first cataract, the hardest postings in the empire. Its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] commands the levies of those forts, collects the selat's taxes and dispenses its justice, and answers to the Gar-Aû at a distance that varies with the strength of the throne. His patron is the war-god [[affiliation-qeztu|Qeztu]], and the selat's religious life runs through that cult's temples and their estates. The land he holds is [[place-qeltlenlegirnome|Qelt-Len-Legir]].
+The **Selat of Qelt-Len-Legir** holds the forward forts beyond the first cataract, the hardest postings in the empire. Its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] commands the levies of those forts, collects the selat's taxes and dispenses its justice, and answers to the [[lore-garauu|Gar-Aû]] at a distance that varies with the strength of the throne. His patron is the war-god [[affiliation-qeztu|Qeztu]], and the selat's religious life runs through that cult's temples and their estates. The land he holds is [[place-qeltlenlegirnome|Qelt-Len-Legir]].
 
 ## Character
 

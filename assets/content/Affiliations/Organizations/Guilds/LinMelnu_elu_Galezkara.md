@@ -40,7 +40,7 @@ data:
 
 ## Character
 
-"The imperial guild can keep its stamp," says the master of the shop on the Lut-Lemu side, wiping his hands. "We answer to our own masters and to the magistrates, and between those two we have never lacked for work." The Blacksmiths' Guild of Galezkara is a local guild with its own authority, distinct from the empire-wide metalworkers' guild. A **Smith** takes the ordinary smithing of the capital: tools, fittings and ironwork for building. A **Master** is one of the masters the city's smiths answer to.
+"The imperial guild can keep its stamp," says the master of the shop on the [[place-lutlemu|Lut-Lemu]] side, wiping his hands. "We answer to our own masters and to the magistrates, and between those two we have never lacked for work." The **Blacksmiths' Guild of Galezkara** is a local guild with its own authority, distinct from the empire-wide metalworkers' guild. A Smith takes the ordinary smithing of the capital: tools, fittings and ironwork for building. A Master is one of the masters the city's smiths answer to.
 
 The guild is local and self-governing, and proud of the arrangement. The city needs hinges, nails, tools and grilles in quantity, and the guild supplies them without the certification the imperial guild's masterwork carries. Its members answer to the city's magistrates where the imperial guild's charter does not reach.
 

@@ -19,7 +19,7 @@ data:
 
 **Zu-Zel-Iaqtet** is the land of the [[affiliation-selatzuzlqtt|Selat of Zu-Zel-Iaqtet]], one of the [[affiliation-borderselatu|Border Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
-Zu-Zel-Iaqtet, "the Land of the Eastern Hills," is where the empire digs its wealth out of the ground. The river-valley gives way here to the mineral-rich uplands east of the water, and out of them come gold and copper from the hill-mines, turquoise and other fine stones from the desert diggings, and the hard building-stone from which the monuments of the whole realm are raised.
+Zu-Zel-Iaqtet, "the **Land of the Eastern Hills**," is where the empire digs its wealth out of the ground. The river-valley gives way here to the mineral-rich uplands east of the water, and out of them come gold and copper from the hill-mines, turquoise and other fine stones from the desert diggings, and the hard building-stone from which the monuments of the whole realm are raised.
 
 ## Character
 
@@ -40,7 +40,7 @@ Mining and quarrying are the whole of it. The gold and copper feed the empire's 
 ## Settlements
 
 - [[place-balqu|Balqu]] (~22,000)—the selat capital, a fortified hill-town at the mouth of the chief mining district: the seat of the soldier-Halzi'a, the assay-house and treasury where the gold is weighed and sealed for the capital, the garrison barracks, and the great temple of Psaq'âru the smith.
-- **The mine-and-quarry camps:** mining settlements, smelter-towns and quarry-camps of 500–4,000 people lie scattered through the hills and desert, each clustered around its diggings and its guard-fort and supplied by water-caravan from the river. Among them are [[place-baliazalu|Balia-Zalu]] (the copper diggings), [[place-melgat|Melgat]] (the turquoise camps), [[place-inululedju|Inulu-Ledju]] (the white-stone quarry) and the convict-station of **Kheset**.
+- The mine-and-quarry camps: mining settlements, smelter-towns and quarry-camps of 500–4,000 people lie scattered through the hills and desert, each clustered around its diggings and its guard-fort and supplied by water-caravan from the river. Among them are [[place-baliazalu|Balia-Zalu]] (the copper diggings), [[place-melgat|Melgat]] (the turquoise camps), [[place-inululedju|Inulu-Ledju]] (the white-stone quarry) and the convict-station of **Kheset**.
 
 ## See Also
 

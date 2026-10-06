@@ -21,7 +21,7 @@ A family comes to **Anzet** with its dead, and the first thing the temple asks i
 
 Anzet is the capital of the [[affiliation-selatanztqlt|Selat of Anzet-Qelt]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], a town of about 24,000. It holds the selat's chief temple of [[affiliation-hezmuiri|Faith of Hezmuîri]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's own: jackal-cult and desert-edge tombs, embalmers and tomb-guards.
 
-Hezmuîri is honored more universally than almost any other god for a plain reason, which is that nearly every human being will eventually need his priests. In Anzet the reason has a temple.
+[[lore-hezmuiridty|Hezmuîri]] is honored more universally than almost any other god for a plain reason, which is that nearly every human being will eventually need his priests. In Anzet the reason has a temple.
 
 ## See Also
 

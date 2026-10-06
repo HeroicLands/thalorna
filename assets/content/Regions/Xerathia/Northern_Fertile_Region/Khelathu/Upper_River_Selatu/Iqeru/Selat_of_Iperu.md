@@ -77,9 +77,9 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-"Read the roll aloud," the senior scribe of the tax bureau in Iqeru tells a new hand, "and then tell me whose land each line stands on: the Halzi'a's, an estate's or the sun-temple's. Every line has an owner, and every owner has a share to render."
+"Read the roll aloud," the senior scribe of the tax bureau in [[place-iqeru|Iqeru]] tells a new hand, "and then tell me whose land each line stands on: the Halzi'a's, an estate's or the sun-temple's. Every line has an owner, and every owner has a share to render."
 
-The **Selat of Iqeru** is one of the upper-river selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], a selat of sun-temples and wide irrigated wheatland with about 440,000 people. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], who commands its levies, collects its taxes and dispenses its justice, and who answers to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-uqaa|Faith of Uqa'â]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-iqeruselat|Iqeru Selat]].
+The **Selat of Iqeru** is one of the upper-river selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], a selat of sun-temples and wide irrigated wheatland with about 440,000 people. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], who commands its levies, collects its taxes and dispenses its justice, and who answers to the [[lore-garauu|Gar-Aû]] at a distance that varies with the strength of the throne. Its patron is [[affiliation-uqaa|Faith of Uqa'â]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-iqeruselat|Iqeru Selat]].
 
 ## Character
 

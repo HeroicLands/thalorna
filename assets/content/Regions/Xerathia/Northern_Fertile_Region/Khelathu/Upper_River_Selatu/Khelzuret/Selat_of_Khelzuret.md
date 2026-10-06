@@ -80,13 +80,13 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-"Learn the two sets of keys first," the [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]]'s steward at Khelzuret tells a clerk newly posted from the capital. "The Halzi'a holds the keys to the granaries and the Thâz'Lekhau hold the keys to the tombs, and nothing in this selat that matters opens with only one set."
+"Learn the two sets of keys first," the [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]]'s steward at [[place-khelzuret|Khelzuret]] tells a clerk newly posted from the capital. "The Halzi'a holds the keys to the granaries and the Thâz'Lekhau hold the keys to the tombs, and nothing in this selat that matters opens with only one set."
 
-Khelzuret is the great mortuary selat of the [[affiliation-upperrivrslt|Upper River Selatu]], the place where the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] tends its dead, and the empire's largest pilgrimage flows here. Pilgrims believe that burial in the sacred ground, or the journey and an offering alone, counts for them when the Weighing comes. "They are free to believe it," the steward says. "The temple takes the offering and enters it, and promises nothing, because at the Weighing a man's accounts are opened and read and wealth buys no verdict." The selat is not large or rich in the worldly sense, but in the economy of the afterlife it is the capital of the world. Its patrons are [[lore-wethurdty|Wethûr]] and [[lore-hezmuiridty|Hezmuîri]], and the land it holds is [[place-khelzuretslt|Khelzuret Selat]].
+Khelzuret is the great mortuary selat of the [[affiliation-upperrivrslt|Upper River Selatu]], the place where the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] tends its dead, and the empire's largest pilgrimage flows here. Pilgrims believe that burial in the sacred ground, or the journey and an offering alone, counts for them when the **Weighing** comes. "They are free to believe it," the steward says. "The temple takes the offering and enters it, and promises nothing, because at the Weighing a man's accounts are opened and read and wealth buys no verdict." The selat is not large or rich in the worldly sense, but in the economy of the afterlife it is the capital of the world. Its patrons are [[lore-wethurdty|Wethûr]] and [[lore-hezmuiridty|Hezmuîri]], and the land it holds is [[place-khelzuretslt|Khelzuret Selat]].
 
 ## Character
 
-Khelzuret is solemn, ancient and given over to death, though not morbidly, because the Khelâthi see death as renewal. The whole life of the selat organizes around the dead: the embalmers in their workshops on the west bank, the tomb-builders and quarrymen cutting and raising the houses of eternity, the funerary artists painting the walls that _are_ the afterlife made real, the coffin-makers and amulet-carvers, and the keepers of the great rolls of mortuary spells. Above them all stand the Thâz'Lekhau (high priests) of the mortuary temples, who command estates and labor-gangs to rival the Halzi'a's own, and the central political fact of the selat is the wary sharing of power between the hereditary Halzi'a and the priesthoods of the dead. Pilgrims throng the temple-city all year, the festival calendar is dense with rites for the departed, and the whole place lives, paradoxically, very well off dying well.
+Khelzuret is solemn, ancient and given over to death, though not morbidly, because the [[lore-khelathiclt|Khelâthi]] see death as renewal. The whole life of the selat organizes around the dead: the embalmers in their workshops on the west bank, the tomb-builders and quarrymen cutting and raising the houses of eternity, the funerary artists painting the walls that _are_ the afterlife made real, the coffin-makers and amulet-carvers, and the keepers of the great rolls of mortuary spells. Above them all stand the Thâz'Lekhau (high priests) of the mortuary temples, who command estates and labor-gangs to rival the Halzi'a's own, and the central political fact of the selat is the wary sharing of power between the hereditary Halzi'a and the priesthoods of the dead. Pilgrims throng the temple-city all year, the festival calendar is dense with rites for the departed, and the whole place lives, paradoxically, very well off dying well.
 
 ## For the Worldbuilder
 
@@ -101,6 +101,6 @@ Khelzuret uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]]. Much of its wea
 - [[affiliation-upperrivrslt|The Upper River Selatu]]—Parent selat-class
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—Imperial overview
 - [[place-khelzuret|Khelzuret]]—Selat capital and temple-city
-- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—Pantheon (Wethûr, Hezmuîri, Qe'âret)
+- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—Pantheon (Wethûr, Hezmuîri, [[lore-qearetdty|Qe'âret]])
 - [[affiliation-garhalzi|Gár-Hálzi]]—Temple-treasuries
 - [[place-khelzuretslt|Khelzuret Selat]]—The land the selat holds

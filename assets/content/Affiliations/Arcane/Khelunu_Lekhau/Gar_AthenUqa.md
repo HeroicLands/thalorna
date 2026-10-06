@@ -54,11 +54,11 @@ sohl: {system: {commonSkills: []}}
 
 "Be in the courtyard before the disk clears the wall," a **Reader of the Hours** tells a novice at dawn. "The formula does not care that you slept badly."
 
-**Gar-Athen'Uqa**, the House of the Disk, holds the day half of the circuit: light and the seeing it permits, the heat that purifies, and the vitality and authority that flow from both. [[lore-athenuqa|Athen'Uqa]] covers kingship as well as the sun. Its practitioners work in the open and at fixed hours, and its formulae are timed to the sun's position, not to the practitioner's convenience.
+**Gar-Athen'Uqa**, the **House of the Disk**, holds the day half of the circuit: light and the seeing it permits, the heat that purifies, and the vitality and authority that flow from both. [[lore-athenuqa|Athen'Uqa]] covers kingship as well as the sun. Its practitioners work in the open and at fixed hours, and its formulae are timed to the sun's position, not to the practitioner's convenience.
 
 ## Two Offices
 
-The Reader of the Hours fixes the exact moment a formula must be spoken, since the House's workings are bound to the sun's position and not to the practitioner's readiness. The **Purifier** conducts the cleansing of those spiritually stained: warriors who have killed, and any practitioner who has been seconded to [[affiliation-garzelgut|Gar-Zelgút]].
+The Reader of the Hours fixes the exact moment a formula must be spoken, since the House's workings are bound to the sun's position and not to the practitioner's readiness. The Purifier conducts the cleansing of those spiritually stained: warriors who have killed, and any practitioner who has been seconded to [[affiliation-garzelgut|Gar-Zelgút]].
 
 The House is half a circuit. [[lore-ithnetau|Ithnetáu]], the night, completes it, and a lekhau who holds the day without the night can work only until sundown. [[affiliation-garithnetau|Gar-Ithnetáu]] holds the other half.
 

@@ -8,7 +8,7 @@ tags: [draft]
 data: {packFolder: regkhlaw}
 ---
 
-**Gar-Aû** is the title of the divine sovereign of [[affiliation-empireakhlth|Aû'Khelâthu]], and **Gar-Aûu**, its collective plural, names the whole line of them taken together, from the first to the one who sits now. The throne is the first thing a scribe learns to write, because everything else is dated by it.
+**Gar-Aû** is the title of the divine sovereign of [[affiliation-empireakhlth|Aû'Khelâthu]], and Gar-Aûu, its collective plural, names the whole line of them taken together, from the first to the one who sits now. The throne is the first thing a scribe learns to write, because everything else is dated by it.
 
 "Head the page with the year of the reign, and the reign is the name," a clerk in the bureaus tells a boy on his first morning at the desk. "Year 12 of Gar-Aû **Meqes XVI**. When he dies the next sheet reads Year 1 of whoever follows, and the old sheets stay as they were. Write it plainly and do not argue about who is a god while you are writing it."
 
@@ -23,5 +23,5 @@ The temple king-lists, compiled by the priesthood of [[lore-rethsaardty|Reth'Sa'
 ## See Also
 
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—the state the throne heads
-- [[lore-khelathclndr|The Khelâthi Calendar]]—regnal years beside the count from the First Occasion
+- [[lore-khelathclndr|The Khelâthi Calendar]]—regnal years beside the count from the [[lore-firstoccasion|First Occasion]]
 - [[lore-qettelgu|The Qet Telgu]]—where the king-lists begin

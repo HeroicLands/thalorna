@@ -40,7 +40,7 @@ The women of **Gar-Theqeru** carry influence in their own right, and not only th
 
 ## Character
 
-"Ask who is paying for the remedy before you ask what it is," a physician tells her new assistant, and the answer is often House Theqeru. The women of the house carry influence in their own right, which is old news to anyone who knows the Khelâthi, whose law allows a woman to own property, plead, and practice medicine. The house is generous toward the healing trades, and its master grants or withdraws that patronage.
+"Ask who is paying for the remedy before you ask what it is," a physician tells her new assistant, and the answer is often **House Theqeru**. The women of the house carry influence in their own right, which is old news to anyone who knows the [[lore-khelathiclt|Khelâthi]], whose law allows a woman to own property, plead, and practice medicine. The house is generous toward the healing trades, and its master grants or withdraws that patronage.
 
 ## Relations
 

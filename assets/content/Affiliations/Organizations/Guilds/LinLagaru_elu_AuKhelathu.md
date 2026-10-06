@@ -32,11 +32,11 @@ data:
 
 ## Overview
 
-**Lin'Lagaru elu Aû'Khelâthu**, the Quantity Merchants, are dealers across [[place-aukhelathrgq|Aû'Khelâthu]] who buy and sell by volume and care little about the quality of any single lot. They trade margin for turnover and prize a supplier who ships quickly over one who ships well. A supplier who refuses to send inferior stock to fill an order commits, in the guild's own reckoning, an affront to profit.
+**Lin'Lagaru elu Aû'Khelâthu**, the **Quantity Merchants**, are dealers across [[place-aukhelathrgq|Aû'Khelâthu]] who buy and sell by volume and care little about the quality of any single lot. They trade margin for turnover and prize a supplier who ships quickly over one who ships well. A supplier who refuses to send inferior stock to fill an order commits, in the guild's own reckoning, an affront to profit.
 
 ## Character
 
-"They will buy everything you have and thank you for it," says a supplier of dyed linen who stopped selling to them years ago, "and they will never once ask whether it is any good." The Quantity Merchants are a loose coalition of dealers across the empire who buy and sell on volume alone. A **Quantity Merchant** is someone who deals in bulk and trades margin for turnover. Nobody has to come to a meeting to belong, and nobody does.
+"They will buy everything you have and thank you for it," says a supplier of dyed linen who stopped selling to them years ago, "and they will never once ask whether it is any good." The Quantity Merchants are a loose coalition of dealers across the empire who buy and sell on volume alone. A Quantity Merchant is someone who deals in bulk and trades margin for turnover. Nobody has to come to a meeting to belong, and nobody does.
 
 What holds them together is a shared reckoning of what a good deal looks like. To a Quantity Merchant, speed of shipment is the virtue and a full warehouse is a debt unpaid. They resent a supplier who holds back inferior stock to protect his reputation, and they regard the holding back as an affront to profit. A supplier who learns this early has two choices: ship what is asked, or find other buyers.
 

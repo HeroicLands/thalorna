@@ -36,13 +36,13 @@ data:
 
 ## Overview
 
-**Lin'Zethu elu Aû'Khelâthu** is the chartered guild of the scribes of [[place-aukhelathrgq|Aû'Khelâthu]], and no court or ministry treats a document as the original record unless a certified member made it. The guild sets the hands a document must be written in and examines every pupil before certifying her. It also holds the Imperial Library, through a Keeper who grants or refuses a reader's permission.
+**Lin'Zethu elu Aû'Khelâthu** is the chartered guild of the scribes of [[place-aukhelathrgq|Aû'Khelâthu]], and no court or ministry treats a document as the original record unless a certified member made it. The guild sets the hands a document must be written in and examines every pupil before certifying her. It also holds the [[affiliation-lutzethu|Imperial Library]], through a Keeper who grants or refuses a reader's permission.
 
 ## Character
 
-"Your hand is not your own until we have examined it," the Examiner says, and the pupil in front of him, who has copied texts since she was seven, sits down. The Scribes' Guild is the chartered body of the empire's scribes. It sets the hands a document must be written in and examines every pupil before certifying her. A **Zethu** is a scribe examined and certified by the guild, whose documents a court or ministry treats as the original record.
+"Your hand is not your own until we have examined it," the Examiner says, and the pupil in front of him, who has copied texts since she was seven, sits down. The **Scribes' Guild** is the chartered body of the empire's scribes. It sets the hands a document must be written in and examines every pupil before certifying her. A Zethu is a scribe examined and certified by the guild, whose documents a court or ministry treats as the original record.
 
-The guild is rigorous and guards its standing. The whole imperial administration rests on the documents its members alone are trusted to produce, and the guild treats that trust as the one asset it cannot lose. It holds the Imperial Library under its hand: a Keeper of Lut-Zethu grants or refuses a reader's permission, and the Keeper's word is not hurried.
+The guild is rigorous and guards its standing. The whole imperial administration rests on the documents its members alone are trusted to produce, and the guild treats that trust as the one asset it cannot lose. It holds the Imperial Library under its hand: a Keeper of [[affiliation-lutzethu|Lut-Zethu]] grants or refuses a reader's permission, and the Keeper's word is not hurried.
 
 A clerk without the certificate can copy a text. He cannot make one that a court will treat as the original. The guild's examination is hard because that line is the whole of its authority.
 

@@ -77,7 +77,7 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-**Khelaga** sits where the river first divides, and the empire has put a toll on the division. The selat is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], a country of old shrines and customs-stations at the delta apex. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the Gar-Aû at a distance that varies with the strength of the throne. The patron is [[affiliation-uqaa|Uqa'â]], and the selat's religious life runs through his temples and their estates. The land it holds is [[place-khelagaselat|Khelaga Selat]].
+[[place-khelaga|Khelaga]] sits where the river first divides, and the empire has put a toll on the division. The selat is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], a country of old shrines and customs-stations at the delta apex. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the [[lore-garauu|Gar-Aû]] at a distance that varies with the strength of the throne. The patron is [[affiliation-uqaa|Uqa'â]], and the selat's religious life runs through his temples and their estates. The land it holds is [[place-khelagaselat|Khelaga Selat]].
 
 "Every boat that goes down to the sea passes my station first," says a customs-station clerk, running a thumb down a column of tallies without looking up. "Most would rather not stop. I have learned to tell the ones that mean to cheat me by how neatly they tie up."
 

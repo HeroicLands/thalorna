@@ -17,13 +17,13 @@ data:
 
 ## Overview
 
-"Cut it from the left," a natron-cutter at Zebt-Relepet tells the new hand beside him, as the crust on the flat breaks into gray plates under their picks. "The embalmers will have it by evening, and the first thing they will ask is whether it is dry."
+"Cut it from the left," a natron-cutter at [[place-zebtrelepet|Zebt-Relepet]] tells the new hand beside him, as the crust on the flat breaks into gray plates under their picks. "The embalmers will have it by evening, and the first thing they will ask is whether it is dry."
 
-Zebt-Relepet Selat is the land of the [[affiliation-selatzbtrlpt|Selat of Zebt-Relepet]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+**Zebt-Relepet Selat** is the land of the [[affiliation-selatzbtrlpt|Selat of Zebt-Relepet]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 
-The land is the river strip with a desert edge that does the mortuary trade's work. Fields and villages lie along the water, and where the flood stops the high desert and chaparral begin, with the natron flats and the cliffs that hold the cavern-tombs. The farms are ordinary Khelâthi farms, and the dead are the selat's other crop.
+The land is the river strip with a desert edge that does the mortuary trade's work. Fields and villages lie along the water, and where the flood stops the high desert and chaparral begin, with the natron flats and the cliffs that hold the cavern-tombs. The farms are ordinary [[lore-khelathiclt|Khelâthi]] farms, and the dead are the selat's other crop.
 
 ## Economy
 
@@ -38,7 +38,7 @@ The selat runs on the flood, the harvest and the render like every Khelâthi sel
 ## Settlements
 
 - [[place-zebtrelepet|Zebt-Relepet]] (~28,000)—the selat capital and the seat of the Halzi'a.
-- **The villages and estate-towns:** the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
+- The villages and estate-towns: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 

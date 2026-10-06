@@ -77,11 +77,11 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-A man comes up from a river village with a quarrel over a boundary stone, and the first thing a lawyer-priest of [[lore-qearetdty|Qe'âret]] asks him at Khelenet-Zu is whether the line was ever entered.
+A man comes up from a river village with a quarrel over a boundary stone, and the first thing a lawyer-priest of [[lore-qearetdty|Qe'âret]] asks him at [[place-khelenetzu|Khelenet-Zu]] is whether the line was ever entered.
 
 "If it was entered, I read it to you and we are done by noon," the lawyer-priest tells him. "If it was only agreed over beer, the court will hear you out with every courtesy and then tell you what a beer agreement is worth, which is the beer. What you owe your neighbor in your heart, take to the god. What the roll says, bring to me."
 
-The Selat of Khelenet-Zu is one of the eighteen [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and about 420,000 people live on its land, [[place-khelenetzslt|Khelenet-Zu Selat]]. It is known for old assize-courts, for its lawyer-priests, and for the land-survey scribes who re-establish every boundary the flood erases. Its patron is [[affiliation-qearet|Faith of Qe'âret]], the god of order, who keeps the account no scribe attends, and the cult's chief temple and estates shape the religious life of the selat.
+The **Selat of Khelenet-Zu** is one of the eighteen [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and about 420,000 people live on its land, [[place-khelenetzslt|Khelenet-Zu Selat]]. It is known for old assize-courts, for its lawyer-priests, and for the land-survey scribes who re-establish every boundary the flood erases. Its patron is [[affiliation-qearet|Faith of Qe'âret]], the god of order, who keeps the account no scribe attends, and the cult's chief temple and estates shape the religious life of the selat.
 
 ## Character
 

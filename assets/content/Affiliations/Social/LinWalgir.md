@@ -34,7 +34,7 @@ data:
 
 "We were not here," says the ranger, and she returns to her meal. That is the whole of the interview.
 
-**Lin'Walgir** (the Gray Ranger Fellowship) is a loose fellowship of scouts and wilderness-hands across [[place-aukhelathrgq|Aû'Khelâthu]], working in coordination without formal hierarchy. Members track, guide and clear a path through country the ordinary road crews leave alone. It is the work a caravan master would rather not advertise having hired out, and it pays well precisely because it is not spoken of. The rangers are reserved and practical, and they keep to their own company on the road rather than mix with a caravan's regular hands. A caravan master who hires a Gray Ranger does not mention it at the next inn, and the ranger does not mention it either. There is no master to petition and no hall to visit; you find a Gray Ranger by asking a caravan master who does not wish to say where he found one.
+**Lin'Walgir** (the **Gray Ranger Fellowship**) is a loose fellowship of scouts and wilderness-hands across [[place-aukhelathrgq|Aû'Khelâthu]], working in coordination without formal hierarchy. Members track, guide and clear a path through country the ordinary road crews leave alone. It is the work a caravan master would rather not advertise having hired out, and it pays well precisely because it is not spoken of. The rangers are reserved and practical, and they keep to their own company on the road rather than mix with a caravan's regular hands. A caravan master who hires a Gray Ranger does not mention it at the next inn, and the ranger does not mention it either. There is no master to petition and no hall to visit; you find a Gray Ranger by asking a caravan master who does not wish to say where he found one.
 
 ## Hiring a Ranger
 

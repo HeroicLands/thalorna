@@ -19,9 +19,9 @@ data:
 
 The stone leaves Legirusi on the flood.
 
-"Mind the lines," a barge pilot tells a passenger at a quarry landing in the Season of Inundation, while a gang walks a block down the ramp. "Any other month the river is a mile from this cliff. Now it laps the ramp, and a barge loaded by noon can float right up to the desert edge of the tomb or temple the block is cut for."
+"Mind the lines," a barge pilot tells a passenger at a quarry landing in the **Season of Inundation**, while a gang walks a block down the ramp. "Any other month the river is a mile from this cliff. Now it laps the ramp, and a barge loaded by noon can float right up to the desert edge of the tomb or temple the block is cut for."
 
-Legirusi Selat is the land of the [[affiliation-selatlegirus|Selat of Legirusi]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+**Legirusi Selat** is the land of the [[affiliation-selatlegirus|Selat of Legirusi]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 
@@ -29,7 +29,7 @@ The land is the river strip with the cliffs at its back. Flood-silt fields and v
 
 ## Economy
 
-Legirusi grows grain for its granaries and owes labor to the canals and a share of everything to the temples and the crown, like every Khelâthi selat. What it adds for the empire is stone and the hands that shape it: quarrymen on the cliffs, master masons in the villages and the temple-workshops that carve the monuments.
+Legirusi grows grain for its granaries and owes labor to the canals and a share of everything to the temples and the crown, like every [[lore-khelathiclt|Khelâthi]] selat. What it adds for the empire is stone and the hands that shape it: quarrymen on the cliffs, master masons in the villages and the temple-workshops that carve the monuments.
 
 ## Notable Features
 
@@ -40,7 +40,7 @@ Legirusi grows grain for its granaries and owes labor to the canals and a share 
 ## Settlements
 
 - [[place-legirusi|Legirusi]] (~38,000)—the selat capital and the seat of the Halzi'a.
-- **The villages and estate-towns:** the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
+- The villages and estate-towns: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 

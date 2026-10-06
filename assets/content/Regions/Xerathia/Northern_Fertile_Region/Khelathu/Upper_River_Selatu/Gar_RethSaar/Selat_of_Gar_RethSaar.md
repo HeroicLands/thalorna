@@ -80,9 +80,9 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-"You are welcome in our libraries, which is more than most foreigners are told," an archivist of Reth'Sa'âr says to a [[place-helionis|Helionite]] scholar who has come upriver to read. "Be welcome in the right order. The king-lists first, because they are what everything else is dated by, and then whatever you came for."
+"You are welcome in our libraries, which is more than most foreigners are told," an archivist of [[lore-rethsaardty|Reth'Sa'âr]] says to a [[place-helionis|Helionite]] scholar who has come upriver to read. "Be welcome in the right order. The king-lists first, because they are what everything else is dated by, and then whatever you came for."
 
-Gar-Reth'Sa'âr, "the House of Reth'Sa'âr," is the learned selat of the [[affiliation-upperrivrslt|Upper River Selatu]], the empire's seat of writing, reckoning and recorded knowledge. Its schools are the finest in the empire, its astronomers keep the empire's calendar, and its archivists, lawyers, mathematicians and physicians begin their training under the god's wing. About 700,000 people live under it, and the land it holds is [[place-garrethsaarnome|Gar-Reth'Sa'âr]].
+[[place-garrethsaarnome|Gar-Reth'Sa'âr]], "the **House of Reth'Sa'âr**," is the learned selat of the [[affiliation-upperrivrslt|Upper River Selatu]], the empire's seat of writing, reckoning and recorded knowledge. Its schools are the finest in the empire, its astronomers keep the empire's calendar, and its archivists, lawyers, mathematicians and physicians begin their training under the god's wing. About 700,000 people live under it, and the land it holds is [[place-garrethsaarnome|Gar-Reth'Sa'âr]].
 
 ## Character
 
@@ -90,19 +90,19 @@ Gar-Reth'Sa'âr is the empire's memory and its schoolroom. Its temper is bookish
 
 Two powers divide the selat. The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] governs the land and the grain from [[place-khelunu|Khelunu]]; the Thâz'Lekhau of Reth'Sa'âr governs the word and the number. The priesthood is the dominant power. It is less wealthy than the great mortuary or solar cults and more influential than its purse, for it controls the archives, certifies the scribes, computes the calendar, and is trusted to keep the king-lists that legitimize every dynasty. In a civilization that runs on records, that is no small thing.
 
-The selat draws ambitious youths from every corner of the empire to its schools and sends them back out as the scribes, accountants and learned men who actually run Aû'Khelâthu.
+The selat draws ambitious youths from every corner of the empire to its schools and sends them back out as the scribes, accountants and learned men who actually run **Aû'Khelâthu**.
 
 ## Notable Features
 
 - The scribal schools, the empire's finest and the gold standard of literate training
-- The priestly archives and the unbroken king-lists since the Qet Telgu
+- The priestly archives and the unbroken king-lists since the [[lore-qettelgu|Qet Telgu]]
 - The scriptoria and the medical, legal and mathematical learning of the temple
 
 ## For the Worldbuilder
 
 Gar-Reth'Sa'âr is the empire's archive and academy, and it plays best as a place of knowledge: sought, hoarded, forged and stolen. The king-lists kept here legitimize dynasties, which makes them worth altering. The archives hold records that powerful people would pay or kill to find or to bury. The scribal certification is a chokepoint on every administrative career, and the temple's astronomers and physicians command learning that shades, at its edges, into the magical.
 
-Run adventure here as the intrigue of the written word: a forged genealogy that would change a succession, a lost or suppressed record, a scholar who has read too much, the theft of a unique text, the rivalry of schools and the politics of the archive. Helionite scholars, among the few foreigners welcomed into Khelâthi temple libraries, pass through here, and where scholars meet, so do their secrets. Learning, records and trained men are abundant. Forgetfulness is scarce, and so is any document that cannot be made to say something dangerous.
+Run adventure here as the intrigue of the written word: a forged genealogy that would change a succession, a lost or suppressed record, a scholar who has read too much, the theft of a unique text, the rivalry of schools and the politics of the archive. Helionite scholars, among the few foreigners welcomed into [[lore-khelathiclt|Khelâthi]] temple libraries, pass through here, and where scholars meet, so do their secrets. Learning, records and trained men are abundant. Forgetfulness is scarce, and so is any document that cannot be made to say something dangerous.
 
 ## Commerce and Currency
 

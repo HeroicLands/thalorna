@@ -50,9 +50,9 @@ A steward of a titled house, instructing a commoner who has just married in, say
 
 ## The Ladder
 
-Titles come before the personal name in address: the steward says Halzi'a Lersaîs, never Lersaîs Halzi'a.
+Titles come before the personal name in address: the steward says Halzi'a **Lersaîs**, never Lersaîs Halzi'a.
 
-The ladder runs in four rungs. **Of a Titled House** names anyone born or married into a family. A **Legha'lutu** or **Zabet'lutu** is master or mistress of an estate, holding a manor, its lands and its attached village. A **Halzi'a** governs a selat, commanding its levies, collecting its taxes and dispensing its justice. The **Iru'palu** is of the royal family or one of the handful of exalted houses, immediately below the throne.
+The ladder runs in four rungs. Of a Titled House names anyone born or married into a family. A Legha'lutu or Zabet'lutu is master or mistress of an estate, holding a manor, its lands and its attached village. A Halzi'a governs a selat, commanding its levies, collecting its taxes and dispensing its justice. The Iru'palu is of the royal family or one of the handful of exalted houses, immediately below the throne.
 
 ## Which House Speaks for You
 

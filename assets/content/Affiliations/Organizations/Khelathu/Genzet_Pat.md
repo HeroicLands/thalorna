@@ -35,7 +35,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The Gar-Aû's word is law, and the **Genzet'Palu** (Council of the Nobles) cannot pass a single one. It has no legislative authority, and no Gar-Aû governs well without it. The council is a formal assembly of the empire's most powerful aristocratic families, convened in the capital, in the council hall at [[place-garmedjatozo|Gar-Medjatozo]], to advise the Gar-Aû on internal policy, succession disputes and quarrels between selatu.
+The [[lore-garauu|Gar-Aû]]'s word is law, and the **Genzet'Palu** (**Council of the Nobles**) cannot pass a single one. It has no legislative authority, and no Gar-Aû governs well without it. The council is a formal assembly of the empire's most powerful aristocratic families, convened in the capital, in the council hall at [[place-garmedjatozo|Gar-Medjatozo]], to advise the Gar-Aû on internal policy, succession disputes and quarrels between selatu.
 
 ## Character
 

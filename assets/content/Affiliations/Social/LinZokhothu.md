@@ -34,7 +34,7 @@ data:
 
 A client choosing a locksmith in [[place-galezkara|Galezkara]] is told two stories, depending on whom she asks. A neighbor's version: the retired master's children are grieved and wronged. The successor's customers' version: the children are bitter and loud. Both versions are partisan, and neither is the whole account.
 
-**Lin'Zokhothu** is a fellowship formed by the children of Zokhothu, a retired master locksmith. Passed over in favor of another successor, they hold that both the craft and its reputation should have passed to them directly, and they spend what influence they have campaigning together against the man the inheritance went to. The campaign reaches every household in Galezkara that needs a lock repaired, so most clients have heard some part of it. The fellowship is aggrieved and persistent, and a client weighing which locksmith to trust has to sort a real reputation from the running campaign against it.
+**Lin'Zokhothu** is a fellowship formed by the children of [[being-zokhothu2|Zokhothu]], a retired master locksmith. Passed over in favor of another successor, they hold that both the craft and its reputation should have passed to them directly, and they spend what influence they have campaigning together against the man the inheritance went to. The campaign reaches every household in Galezkara that needs a lock repaired, so most clients have heard some part of it. The fellowship is aggrieved and persistent, and a client weighing which locksmith to trust has to sort a real reputation from the running campaign against it.
 
 ## Choosing a Locksmith
 

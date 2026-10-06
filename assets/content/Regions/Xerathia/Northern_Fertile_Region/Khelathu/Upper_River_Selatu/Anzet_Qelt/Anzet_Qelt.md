@@ -25,12 +25,12 @@ data:
 
 The selat takes its character from [[lore-hezmuiridty|Hezmuîri]], the jackal-headed god of embalming and transformation, and from the desert edge where the dead are laid. Its tombs stand on the margin of the cultivated ground, and its trades follow them: embalmers who prepare the dead, and tomb-guards who watch the graves afterward. Tomb robbery is old and organized, so the wealthy build against it in layers, concealing the tomb, then barring, trapping and cursing it, and at last, for those who can pay, setting a guard on it.
 
-Behind the tombs lies ordinary Khelâthi country. Villages and estate-towns of a few hundred to a few thousand people cluster on the cultivable ground and on the temple estates. The farmers owe a share of the harvest and labor on the canals, the grain goes to the granaries, and the temples and the crown take their portion of everything. The scribes among them are the one reliable ladder out of the fields. Past the reach of the water the land is high desert and chaparral.
+Behind the tombs lies ordinary [[lore-khelathiclt|Khelâthi]] country. Villages and estate-towns of a few hundred to a few thousand people cluster on the cultivable ground and on the temple estates. The farmers owe a share of the harvest and labor on the canals, the grain goes to the granaries, and the temples and the crown take their portion of everything. The scribes among them are the one reliable ladder out of the fields. Past the reach of the water the land is high desert and chaparral.
 
 ## Settlements
 
 - [[place-anzet|Anzet]] (~24,000)—the selat capital and the seat of the Halzi'a, home of the chief temple of [[affiliation-hezmuiri|Faith of Hezmuîri]] and its estates.
-- **The villages and estate-towns:** the ordinary settlements of the selat, from a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
+- The villages and estate-towns: the ordinary settlements of the selat, from a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 

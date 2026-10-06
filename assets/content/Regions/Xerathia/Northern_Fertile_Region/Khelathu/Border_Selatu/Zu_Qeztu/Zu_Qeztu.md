@@ -25,8 +25,8 @@ West of the last canal the farmland gives way to dry pasture, and Zu-Qeztu is th
 
 ## Settlements
 
-- [[place-zileti|Zileti]] (~12,000)—the selat capital and the seat of the Halzi'a, with the chief temple of Uqa'â.
-- **The villages and estate-towns:** a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
+- [[place-zileti|Zileti]] (~12,000)—the selat capital and the seat of the Halzi'a, with the chief temple of [[lore-uqaadty|Uqa'â]].
+- The villages and estate-towns: a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 

@@ -19,7 +19,7 @@ data:
 
 **Zileti** (about 12,000 people) is the capital of the [[affiliation-selatzuqeztu|Selat of Zu-Qeztu]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], the town of the western horse-country.
 
-Despite the selat's name, the chief temple at Zileti belongs to Uqa'â, the sun-god, and not to the war-god. The Halzi'a's court and granaries stand near it, the scribal bureau keeps the tax rolls, and the markets serve the surrounding villages and estate-towns and the pasture-country beyond. The town's character is the selat's: the western grazing margin, horse-pasture and the watch against raiders.
+Despite the selat's name, the chief temple at Zileti belongs to [[lore-uqaadty|Uqa'â]], the sun-god, and not to the war-god. The Halzi'a's court and granaries stand near it, the scribal bureau keeps the tax rolls, and the markets serve the surrounding villages and estate-towns and the pasture-country beyond. The town's character is the selat's: the western grazing margin, horse-pasture and the watch against raiders.
 
 ## See Also
 

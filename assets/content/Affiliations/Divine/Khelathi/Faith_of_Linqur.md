@@ -52,7 +52,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-[[affiliation-linhur|Linhur]] watches the hunter, and **Linqur** watches the killing. The second of the two hunt-patrons of Aû'Khelâthu, Linqur is paired with Linhur in every rite that matters, and his patronage covers not only the hunt's success but the manner of the death.
+[[affiliation-linhur|Linhur]] watches the hunter, and [[lore-linqurdty|Linqur]] watches the killing. The second of the two hunt-patrons of **Aû'Khelâthu**, Linqur is paired with Linhur in every rite that matters, and his patronage covers not only the hunt's success but the manner of the death.
 
 The **Scrutineer of the Kill** holds that scrutiny. A beast is to die with the speed and efficiency its nature permits, because wantonness in the killing offends the gods as much as the imperial order. A culler of [[affiliation-garnuw|Gar'Nuw]] who removes a crocodile from a village's water is answerable to this god for how quickly it was done.
 
@@ -65,4 +65,4 @@ The cult keeps the same temple ladder as every other selat god's.
 - [[lore-linqurdty|Linqur]]—the god
 - [[affiliation-linhur|Faith of Linhur]]—the paired cult
 - [[affiliation-garnuw|Gar'Nuw]]—the hunters' guild this cult and Linhur's found
-- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—the temple hierarchy every Khelâthi cult shares
+- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—the temple hierarchy every [[lore-khelathiclt|Khelâthi]] cult shares

@@ -17,7 +17,7 @@ _The River-God._
 
 The hunting companies that work the river carry his cult, above all the [[affiliation-zeghetnelgu|Zeghet'Nelgu]], whose Wazu of the Hunt reads his will before any expedition launches and without whose word it does not. Every beast taken from the water is commended to him for judgment, and the god's share comes off the kill before any other.
 
-The cult therefore sits inside a noble family's charter rather than inside a priesthood, an unusual shape for a Khelâthi cult. His reader is a political figure as much as a religious one, since an unfavorable reading stops the hunt and the charter depends on hunting well.
+The cult therefore sits inside a noble family's charter rather than inside a priesthood, an unusual shape for a [[lore-khelathiclt|Khelâthi]] cult. His reader is a political figure as much as a religious one, since an unfavorable reading stops the hunt and the charter depends on hunting well.
 
 ## The Question the Hunters Leave Open
 

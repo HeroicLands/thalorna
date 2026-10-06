@@ -52,7 +52,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-"Here is what a mother in a village on the water wants to know," a priest of **Tjelsuk** says to a pilgrim in the temple at [[place-luttjelsuk|Lut-Tjelsuk]]. "May we kill the beast that took her child? The temple keeps an office whose whole work is answering that."
+"Here is what a mother in a village on the water wants to know," a priest of [[lore-tjelsukdty|Tjelsuk]] says to a pilgrim in the temple at [[place-luttjelsuk|Lut-Tjelsuk]]. "May we kill the beast that took her child? The temple keeps an office whose whole work is answering that."
 
 Tjelsuk, the crocodile-god, keeps the great crocodile cult, seated in the eastern marsh at Lut-Tjelsuk among the river-beast hunters. The beast sacred to him is also the beast that takes farmers and children along the river, and it must sometimes be killed. That is the faith's central difficulty, and its offices exist to carry it.
 
@@ -73,4 +73,4 @@ The cult keeps the shared temple ladder; a selat god's Thâz'Lekhau carries real
 - [[lore-tjelsukdty|Tjelsuk]]—the god
 - [[affiliation-garnuw|Gar'Nuw]]—the cullers who answer when the beasts take people
 - [[affiliation-zeghetnelgu|Zeghet'Nelgu]]—the sacred hunt that culls under temple dispensation
-- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—the temple hierarchy every Khelâthi cult shares
+- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—the temple hierarchy every [[lore-khelathiclt|Khelâthi]] cult shares

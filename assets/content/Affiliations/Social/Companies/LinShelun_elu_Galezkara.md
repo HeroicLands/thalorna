@@ -42,7 +42,7 @@ data:
 
 "Every season is an audition," says the company's playwright to a young performer who has just been given a speaking part. "The audience writes the cast list, and it writes it again at the next play."
 
-**Lin'Shelun elu Galezkara** is the principal playing company of [[place-galezkara|Galezkara]], and its leading performers are known by name across [[place-aukhelathrgq|Aû'Khelâthu]], not only in the capital. Its productions set the standard every other troupe in the empire is measured against. The company is proud and competitive, and its internal politics are as involved as any court's: a performer's standing can shift with a single poorly received season, whatever the talent. A **Leading Performer** is known across the empire; a plain **Performer** plays in the company's productions, and the difference between them is a season's reception.
+**Lin'Shelun elu Galezkara** is the principal playing company of [[place-galezkara|Galezkara]], and its leading performers are known by name across [[place-aukhelathrgq|Aû'Khelâthu]], not only in the capital. Its productions set the standard every other troupe in the empire is measured against. The company is proud and competitive, and its internal politics are as involved as any court's: a performer's standing can shift with a single poorly received season, whatever the talent. A Leading Performer is known across the empire; a plain Performer plays in the company's productions, and the difference between them is a season's reception.
 
 ## Relations
 

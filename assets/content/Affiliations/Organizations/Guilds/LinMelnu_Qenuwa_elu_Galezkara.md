@@ -36,7 +36,7 @@ data:
 
 ## Character
 
-"Hold it to the light," the master says, and puts the funerary collar in your hand. "Where would you look first?" The Gilded Smiths' Consortium is the body of the goldsmiths of the capital, and its work goes into temples and tombs. A **Goldsmith** is a smith admitted on work judged fit for both, and a piece's fitness is tested in the one place there is no appeal: a priest's inspection.
+"Hold it to the light," the master says, and puts the funerary collar in your hand. "Where would you look first?" The **Gilded Smiths' Consortium** is the body of the goldsmiths of the capital, and its work goes into temples and tombs. A Goldsmith is a smith admitted on work judged fit for both, and a piece's fitness is tested in the one place there is no appeal: a priest's inspection.
 
 The consortium is exacting. Members supply the gilded fittings for the temples and the funerary gold the necropolis consumes, and neither buyer accepts a careless hand. A fitting that fails inspection costs a smith more than a reprimand: the consortium follows a failed temple inspection with scrutiny of its own, and a smith who is found wanting loses the room to be careless a second time.
 

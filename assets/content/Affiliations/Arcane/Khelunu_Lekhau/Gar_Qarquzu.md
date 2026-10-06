@@ -54,7 +54,7 @@ sohl: {system: {commonSkills: []}}
 
 "Before you certify a seal, know what you are answering for," a **Warden of Seals** tells a novice of the House. "If anyone ever finds that seal was bluff, the one who certified it answers. That is why we certify slowly."
 
-**Gar-Qar'quzu**, the House of the Balance, holds the domain by which anything is made to stay as it was set: the oath that binds, the ward that stands, the seal that is not opened. [[lore-qarquzu|Qar'quzu]] is the truth that judges, the order [[lore-qearetdty|Qe'âret]] imposed on the primordial dark, and the other domains work inside it. The House's work is the most conservative in the tradition and the most consequential, because a working in this domain, done correctly, outlives everyone who witnessed it.
+**Gar-Qar'quzu**, the **House of the Balance**, holds the domain by which anything is made to stay as it was set: the oath that binds, the ward that stands, the seal that is not opened. [[lore-qarquzu|Qar'quzu]] is the truth that judges, the order [[lore-qearetdty|Qe'âret]] imposed on the primordial dark, and the other domains work inside it. The House's work is the most conservative in the tradition and the most consequential, because a working in this domain, done correctly, outlives everyone who witnessed it.
 
 ## Two Offices
 

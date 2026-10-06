@@ -36,9 +36,9 @@ data:
 
 ## Overview
 
-A caravan guard describes the first day with the Qelt'Lefetu to a friend who has just been hired: "They pay for the road before it is a problem. By the time you are in the desert, the trouble has already been priced."
+A caravan guard describes the first day with the **Qelt'Lefetu** to a friend who has just been hired: "They pay for the road before it is a problem. By the time you are in the desert, the trouble has already been priced."
 
-**Lin'Zuwaret elu Qelt'Lefetu** is the trading house of the **Qelt'Lefetu**, running caravans on the high-value and dangerous routes that less well-funded traders avoid. It is well-funded and cautious in its own way: it hires its own armed protection rather than trust the road's ordinary safety, a cost its margins on dangerous-route goods can absorb, so a Qelt'Lefetu caravan needs neither the road's ordinary safety nor another trader's escort. The **Merchant Prince** heads the house and the trade network it runs. Guards, drivers and suppliers work under him and for him, and the caravan is the house's own. A rank-and-file member works its caravans, its supply or its protection.
+**Lin'Zuwaret elu Qelt'Lefetu** is the trading house of the Qelt'Lefetu, running caravans on the high-value and dangerous routes that less well-funded traders avoid. It is well-funded and cautious in its own way: it hires its own armed protection rather than trust the road's ordinary safety, a cost its margins on dangerous-route goods can absorb, so a Qelt'Lefetu caravan needs neither the road's ordinary safety nor another trader's escort. The Merchant Prince heads the house and the trade network it runs. Guards, drivers and suppliers work under him and for him, and the caravan is the house's own. A rank-and-file member works its caravans, its supply or its protection.
 
 ## Commerce and Currency
 

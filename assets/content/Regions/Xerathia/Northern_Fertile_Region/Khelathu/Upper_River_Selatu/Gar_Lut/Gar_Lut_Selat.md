@@ -23,12 +23,12 @@ data:
 
 ## Character
 
-The shrines belong to [[lore-uzneradty|Uznêra]], the mother goddess of fertility, renewal and healing, and their gardens keep the plants that the healers use. Away from the shrines the selat is ordinary Khelâthi country: villages and estate-towns of a few hundred to a few thousand people on the cultivable ground and the temple estates, worked by farmers who owe a share of the harvest and labor on the canals. Grain goes to the granaries, a share of everything goes to the temples and the crown, and the scribes among the villagers are the one reliable ladder out of the fields. Past the reach of the water the land is high desert and chaparral.
+The shrines belong to [[lore-uzneradty|Uznêra]], the mother goddess of fertility, renewal and healing, and their gardens keep the plants that the healers use. Away from the shrines the selat is ordinary [[lore-khelathiclt|Khelâthi]] country: villages and estate-towns of a few hundred to a few thousand people on the cultivable ground and the temple estates, worked by farmers who owe a share of the harvest and labor on the canals. Grain goes to the granaries, a share of everything goes to the temples and the crown, and the scribes among the villagers are the one reliable ladder out of the fields. Past the reach of the water the land is high desert and chaparral.
 
 ## Settlements
 
 - [[place-garlut|Gar-Lût]] (~18,000)—the selat capital and the seat of the Halzi'a, home of the chief temple of [[affiliation-uznera|Faith of Uznêra]] and its estates.
-- **The villages and estate-towns:** the ordinary settlements of the selat, from a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
+- The villages and estate-towns: the ordinary settlements of the selat, from a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 

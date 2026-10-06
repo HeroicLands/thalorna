@@ -23,7 +23,7 @@ data:
 
 ## Overview
 
-Ask a magistrate who the **Gar-Gezru** (the Crimson Syndicate) are and the answer begins with the auditors. Honest auditing has cost a number of corrupt officials and merchant-lords a great deal, and they keep a quiet bounty on the people who did it. Anyone sent to go through a selat's accounts should know the bounty exists before opening the first ledger.
+Ask a magistrate who the **Gar-Gezru** (the **Crimson Syndicate**) are and the answer begins with the auditors. Honest auditing has cost a number of corrupt officials and merchant-lords a great deal, and they keep a quiet bounty on the people who did it. Anyone sent to go through a selat's accounts should know the bounty exists before opening the first ledger.
 
 The network runs on a book, because a network must. Its members are strangers to one another by design—an official in one selat, a merchant-lord in another, introduced by a go-between who is paid to forget it—and what each is owed is written down and enforced. That is the temple's office performed by somebody else, and the priesthood pursues the Gar-Gezru as a heresy while the magistrates pursue it as embezzlement. The two investigations do not cooperate.
 

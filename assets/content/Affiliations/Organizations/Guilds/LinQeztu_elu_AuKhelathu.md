@@ -36,7 +36,7 @@ data:
 
 ## Character
 
-"Read the terms of hire," the recruiter says, "and then read them again, because when the fighting starts the guild will read them to you." The Mercenaries' Guild is the chartered body that regulates paid soldiering in the empire. It is open to any fighter willing to submit to its terms, and a **Mercenary** is a fighter who accepts them and is vouched for by the guild.
+"Read the terms of hire," the recruiter says, "and then read them again, because when the fighting starts the guild will read them to you." The **Mercenaries' Guild** is the chartered body that regulates paid soldiering in the empire. It is open to any fighter willing to submit to its terms, and a Mercenary is a fighter who accepts them and is vouched for by the guild.
 
 The guild is businesslike and accountable. It places its members with employers who need soldiers on contract in place of levied troops, and it vouches for their standing and conduct to whoever is hiring. Its charter exists to remove the risk of taking a soldier on trust alone. The fighters of the guild are paid, regulated and traceable, and a mercenary who breaks the terms answers to a body that can name him to every future employer.
 

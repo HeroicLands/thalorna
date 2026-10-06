@@ -16,7 +16,7 @@ data:
 
 "Every layer beneath your feet was somebody's street," says a Wazu of [[lore-psaqarudty|Psaq'âru]], leading a pilgrim up the ramp. "We are walking on the roofs of the city that came before."
 
-**Zu-Leri** (the High City) is the oldest and highest tell of [[place-galezkara|Galezkara]], crowned by the Temple of Psaq'âru, craft-god and patron of the capital, and ringed by the walled mansions of the priestly and noble houses. It stands above the rest of the city because the rest of the city was built on top of what came before it, layer upon layer, with Zu-Leri rising highest of all. The deepest excavation into its ground reaches further into the capital's past than any document in the archives of [[place-garmedjatozo|Gar-Medjatozo]]. [[place-waligelu|Wal-Igelu]], the Drowned Way, runs through it as a chain of gardens.
+**Zu-Leri** (the **High City**) is the oldest and highest tell of [[place-galezkara|Galezkara]], crowned by the **Temple of Psaq'âru**, craft-god and patron of the capital, and ringed by the walled mansions of the priestly and noble houses. It stands above the rest of the city because the rest of the city was built on top of what came before it, layer upon layer, with Zu-Leri rising highest of all. The deepest excavation into its ground reaches further into the capital's past than any document in the archives of [[place-garmedjatozo|Gar-Medjatozo]]. [[place-waligelu|Wal-Igelu]], the **Drowned Way**, runs through it as a chain of gardens.
 
 ## See Also
 

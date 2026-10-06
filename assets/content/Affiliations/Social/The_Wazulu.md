@@ -32,9 +32,9 @@ data:
 
 ## Overview
 
-"Before you set up your stage in a temple town," an old player says to a young one, "find out which god's priests have the ear of the council. Then ask whether they are Wazulu."
+"Before you set up your stage in a temple town," an old player says to a young one, "find out which god's priests have the ear of the council. Then ask whether they are **Wazulu**."
 
-**The Wazulu** are a severe and active movement within the priesthood of the sterner gods of [[place-aukhelathrgq|Aû'Khelâthu]]. They hold that public performance corrupts performer and audience alike, and they press for the empire's players to be put down rather than regulated or taxed, a position well to the stricter side of ordinary temple conservatism. Each of them is a **Lem'Nelgir** ("Servant of the God") of one of the sterner gods, and the priesthood is their platform. Their influence at a given temple is a standing hazard to the license of a company such as [[affiliation-linshlnglzkr|the Theatre Company of Galezkara]]. A player's license is the ground a company stands on, and the Wazulu seek to remove it.
+The Wazulu are a severe and active movement within the priesthood of the sterner gods of [[place-aukhelathrgq|Aû'Khelâthu]]. They hold that public performance corrupts performer and audience alike, and they press for the empire's players to be put down rather than regulated or taxed, a position well to the stricter side of ordinary temple conservatism. Each of them is a Lem'Nelgir ("Servant of the God") of one of the sterner gods, and the priesthood is their platform. Their influence at a given temple is a standing hazard to the license of a company such as [[affiliation-linshlnglzkr|the Theatre Company of Galezkara]]. A player's license is the ground a company stands on, and the Wazulu seek to remove it.
 
 ## Keeping a License
 

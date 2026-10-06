@@ -40,7 +40,7 @@ data:
 
 ## Character
 
-A courtier's aunt explains the Sa'Aqutu to a niece newly arrived in the capital: "Watch which of them is standing where. The brothers are on the parade ground and the sisters are in the antechamber, and you will find it is one conversation."
+A courtier's aunt explains the **Sa'Aqutu** to a niece newly arrived in the capital: "Watch which of them is standing where. The brothers are on the parade ground and the sisters are in the antechamber, and you will find it is one conversation."
 
 The house is strategic and patient. It treats command and court influence as two halves of one design. The master holds the land, answers at law for everyone attached to the house, and sets the course of each generation's placements, deciding which son goes up through the officer ranks and which daughter is placed where she can do the line the most good.
 

@@ -36,9 +36,9 @@ data:
 
 ## Character
 
-"Nobody owes you a hearing," the alchemist at the long table says, filling your cup, "so we owe each other one." The Independent Alchemists Alliance is a loose alliance of alchemists working out of the Wazulet who have no patron among the great houses. It exists for want of one. Its members stand together to defend the standing of those who work without a house's backing, against houses that would rather deal only with their own retained practitioners.
+"Nobody owes you a hearing," the alchemist at the long table says, filling your cup, "so we owe each other one." The **Independent Alchemists Alliance** is a loose alliance of alchemists working out of the Wazulet who have no patron among the great houses. It exists for want of one. Its members stand together to defend the standing of those who work without a house's backing, against houses that would rather deal only with their own retained practitioners.
 
-A **Patronless Alchemist** is someone who practices without a house's patronage, and the alliance asks one thing of such a person: to keep faith with it after winning a patron's favor. Most do. Alchemists know that a house's favor can end with the season, and an alchemist who cut the alliance loose on the way up would come back to it, with no standing, on the way down.
+A Patronless Alchemist is someone who practices without a house's patronage, and the alliance asks one thing of such a person: to keep faith with it after winning a patron's favor. Most do. Alchemists know that a house's favor can end with the season, and an alchemist who cut the alliance loose on the way up would come back to it, with no standing, on the way down.
 
 The quarter shapes the temper of the place. The Wazulet is the faintly shunned corner of the capital by the necropolis-ferry, and its alchemists have learned to work where others would rather not look.
 

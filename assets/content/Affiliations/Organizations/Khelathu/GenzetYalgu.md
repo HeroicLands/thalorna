@@ -32,7 +32,7 @@ data:
 
 ## Overview
 
-**Genzet'Yalgu**, the **Court of the Nine Moons**, does its business out of the Gar-Aû's hearing on purpose. It is a body of the imperial court whose members trade influence, information and favor among themselves, and its intrigues reach well beyond [[place-galezkara|Galezkara]] into the provinces and the temples alike.
+**Genzet'Yalgu**, the **Court of the Nine Moons**, does its business out of the [[lore-garauu|Gar-Aû]]'s hearing on purpose. It is a body of the imperial court whose members trade influence, information and favor among themselves, and its intrigues reach well beyond [[place-galezkara|Galezkara]] into the provinces and the temples alike.
 
 ## Character
 

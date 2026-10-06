@@ -34,13 +34,13 @@ data:
 
 ## Overview
 
-**Gar-Zin'el'Rêlu** stood barely a century, and no wall in [[place-aukhelathrgq|Aû'Khelâthu]] carries its name. Its last Gar-Aû was struck from every wall in the empire for sealing the living into a tomb, and the official records name him only [[being-falseuqaa|the False Uqa'â]], erasing the name he reigned under along with his image, though the oldest servants of the necropolis still whisper what he was called. A historian working from the public record alone cannot reconstruct the dynasty's end and has to look among the people the erasure never reached.
+**Gar-Zin'el'Rêlu** stood barely a century, and no wall in [[place-aukhelathrgq|Aû'Khelâthu]] carries its name. Its last [[lore-garauu|Gar-Aû]] was struck from every wall in the empire for sealing the living into a tomb, and the official records name him only [[being-falseuqaa|the False Uqa'â]], erasing the name he reigned under along with his image, though the oldest servants of the necropolis still whisper what he was called. A historian working from the public record alone cannot reconstruct the dynasty's end and has to look among the people the erasure never reached.
 
 ## Character
 
-A watch-priest of the necropolis, asked about the last dynasty of the throne, speaks quietly and gives the answer the records give: nothing. The Zin'el'Rêlu stood barely a century, and the last Gar-Aû was thrown down for sealing the living into a tomb. Then the dynasty was struck out, name, image and house, from every wall in the empire.
+A watch-priest of the necropolis, asked about the last dynasty of the throne, speaks quietly and gives the answer the records give: nothing. The **Zin'el'Rêlu** stood barely a century, and the last Gar-Aû was thrown down for sealing the living into a tomb. Then the dynasty was struck out, name, image and house, from every wall in the empire.
 
-The Khelâthi count the striking of a name from the records among the heaviest punishments they know, and a whole dynasty received it. The silence is the sentence at work.
+The [[lore-khelathiclt|Khelâthi]] count the striking of a name from the records among the heaviest punishments they know, and a whole dynasty received it. The silence is the sentence at work.
 
 ## Relations
 

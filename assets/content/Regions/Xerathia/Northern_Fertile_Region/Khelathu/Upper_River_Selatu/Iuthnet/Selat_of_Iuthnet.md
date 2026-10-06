@@ -77,9 +77,9 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-"My husband's name is on the ledger, and mine is on the land," a Zabet'lutu of an Iuthnet estate tells a newcomer who has asked who rules the selat. "The Halzi'a holds the selat. The estates answer to him. The temple answers to the goddess. Learn those three and you will be understood."
+"My husband's name is on the ledger, and mine is on the land," a Zabet'lutu of an [[place-iuthnet|Iuthnet]] estate tells a newcomer who has asked who rules the selat. "The Halzi'a holds the selat. The estates answer to him. The temple answers to the goddess. Learn those three and you will be understood."
 
-The **Selat of Iuthnet** is one of the upper-river selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], a selat of healing-temples and birth-shrines and the great cult of the mother-goddess, with about 560,000 people. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], who commands its levies, collects its taxes and dispenses its justice, and who answers to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-uznera|Faith of Uznêra]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-iuthnetselat|Iuthnet Selat]].
+The **Selat of Iuthnet** is one of the upper-river selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], a selat of healing-temples and birth-shrines and the great cult of the mother-goddess, with about 560,000 people. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], who commands its levies, collects its taxes and dispenses its justice, and who answers to the [[lore-garauu|Gar-Aû]] at a distance that varies with the strength of the throne. Its patron is [[affiliation-uznera|Faith of Uznêra]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-iuthnetselat|Iuthnet Selat]].
 
 ## Character
 

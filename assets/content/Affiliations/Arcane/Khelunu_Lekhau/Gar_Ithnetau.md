@@ -58,7 +58,7 @@ sohl: {system: {commonSkills: []}}
 
 "Nobody checks your work once the door is sealed," a **Binder of the Chamber** tells an apprentice at the mouth of a tomb, "and nobody can. Get it right now."
 
-**Gar-Ithnetáu**, the House of the Westward Road, holds the night half of the circuit and, by common agreement, the most powerful workings in the tradition: the spells that protect the dead, guide the soul and ward the tomb. It is also the House whose errors are the least recoverable. A working set in a sealed chamber cannot be inspected without breaking the seal that is the point of it.
+**Gar-Ithnetáu**, the **House of the Westward Road**, holds the night half of the circuit and, by common agreement, the most powerful workings in the tradition: the spells that protect the dead, guide the soul and ward the tomb. It is also the House whose errors are the least recoverable. A working set in a sealed chamber cannot be inspected without breaking the seal that is the point of it.
 
 ## Three Offices
 

@@ -88,7 +88,7 @@ Its patron is [[lore-psaqarudty|Psaq'âru]], god of craft and the working of met
 
 A mine-captain describes his workforce to a new engineer in three groups: "Wage-gangs who chose it, convicts who did not, and levies who come for a season and count the days." The selat's people are a rough mix of miners and quarrymen, free wage-gangs, convict-labor sent east as punishment and seasonal levies, overseen by mine-captains, engineers and the garrison troops who keep order and watch the desert.
 
-There is little of the temple-bound gentility of the valley here. Status is measured in the output of a diggings and the strength of a fort. Psaq'âru the craftsman is the dominant cult, with the war-god Qeztu close behind among the soldiers, and the festivals are the rougher, harder-drinking kind of a frontier where men do dangerous work far from home.
+There is little of the temple-bound gentility of the valley here. Status is measured in the output of a diggings and the strength of a fort. Psaq'âru the craftsman is the dominant cult, with the war-god [[lore-qeztudty|Qeztu]] close behind among the soldiers, and the festivals are the rougher, harder-drinking kind of a frontier where men do dangerous work far from home.
 
 ## Economy
 

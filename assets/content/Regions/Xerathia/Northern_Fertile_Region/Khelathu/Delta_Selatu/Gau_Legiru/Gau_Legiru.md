@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-"Learn the olive first," an orchard-keeper tells a traveler who has stopped at a wall to look at the view. "The vine tells you what a year was. The olive tells you what ten years were." **Gau-Legiru**, "the fair land of Gau," is the garden coast of the [[affiliation-deltaselatu|Delta Selatu]] and the land of the [[affiliation-selatgaulegr|Selat of Gau-Legiru]], one of the delta's ten selatu in the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+"Learn the olive first," an orchard-keeper tells a traveler who has stopped at a wall to look at the view. "The vine tells you what a year was. The olive tells you what ten years were." **Gau-Legiru**, "the fair land of [[place-gau|Gau]]," is the garden coast of the [[affiliation-deltaselatu|Delta Selatu]] and the land of the [[affiliation-selatgaulegr|Selat of Gau-Legiru]], one of the delta's ten selatu in the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 It is a wet, mild strip running west along the [[place-vylarianse|Vylarian Sea]] shore, where sea air and winter rains grow what the river valley cannot. This is the empire's orchard: citrus and olive, vine and fig, and the date-palm plantations that supply the high tables of the empire and the export markets of [[place-midhalnrgn|Mídhalión Region]].
 
@@ -30,8 +30,8 @@ Luxury agriculture is the whole of its economy. The selat grows and processes th
 ## Settlements
 
 - [[place-gau|Gau]] (~45,000)—the selat capital, an old, prosperous market-and-temple town set back a little from the coast; the great temple of Uznêra, the produce-markets where the orchard harvest is bought and shipped, and the administrative seat of the Halzi'a.
-- [[place-tjezu|Tjezu]] (~12,000)—a coastal wine-town among the western vineyards; its presses and cellars produce the most prized vintages in the empire, and its little harbor ships them straight to Gar-Anlaghet and beyond.
-- **The orchard villages:** dozens of small farm-and-press communities of 500–2,500 dot the garden strip, among them Gar-Iuget, Lut-Legiru, Zma-Tjezu, Yath-Khelenet and Gar-Shelu, each tending its groves and vines and sending oil, wine and fruit to the market-towns.
+- [[place-tjezu|Tjezu]] (~12,000)—a coastal wine-town among the western vineyards; its presses and cellars produce the most prized vintages in the empire, and its little harbor ships them straight to [[place-garanlaghet|Gar-Anlaghet]] and beyond.
+- The orchard villages: dozens of small farm-and-press communities of 500–2,500 dot the garden strip, among them [[place-gariuget|Gar-Iuget]], [[place-lutlegiru|Lut-Legiru]], [[place-zmatjezu|Zma-Tjezu]], [[place-yathkhelenet|Yath-Khelenet]] and [[place-garshelu|Gar-Shelu]], each tending its groves and vines and sending oil, wine and fruit to the market-towns.
 
 ## See Also
 

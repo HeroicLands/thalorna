@@ -18,7 +18,7 @@ It rises once a year, drowns the fields for four months, and goes down leaving a
 
 The flood also erases every boundary stone in the valley. Each spring the surveyors walk the fields again, village by village, re-establishing lines settled the year before and the year before that, and entering what they find. A valley that re-litigates its own property annually needs a large class of men who can write, which is most of the explanation for why [[skill-qalzscrscrpt|the people's hand]] exists and why a scribe outranks his birth.
 
-A high flood takes villages. A low one is worse. The [[affiliation-empireakhlth|granaries and the tax remissions]] are the state's answer to a bad rise, and a Gar-Aû who handles one badly is a Gar-Aû whose divinity is suddenly a matter of discussion.
+A high flood takes villages. A low one is worse. The [[affiliation-empireakhlth|granaries and the tax remissions]] are the state's answer to a bad rise, and a [[lore-garauu|Gar-Aû]] who handles one badly is a Gar-Aû whose divinity is suddenly a matter of discussion.
 
 ## Whose River It Is
 
@@ -28,7 +28,7 @@ The sacred southern reach belongs to the Halzi'a in law and to Igel'Nâru in spi
 
 ## The River-Beasts
 
-Crocodiles bask on the mud banks and hippopotami bellow in the marshes, and both kill farmers every year. Two bodies answer for that, on terms they have worked out between themselves. [[affiliation-zeghetnelgu|Zeghet'Nelgu]] holds the Gar-Aû's Steersman's charter over some eighty miles of the southern water, a grant the Khetai family has kept for seven generations and which covers ritual hunting as much as control. [[affiliation-garnuw|Gar'Nuw]] licenses the professional cullers who answer when a village is losing people, and keeps chapter halls the length of the river.
+Crocodiles bask on the mud banks and hippopotami bellow in the marshes, and both kill farmers every year. Two bodies answer for that, on terms they have worked out between themselves. [[affiliation-zeghetnelgu|Zeghet'Nelgu]] holds the Gar-Aû's Steersman's charter over some eighty miles of the southern water, a grant the **Khetai** family has kept for seven generations and which covers ritual hunting as much as control. [[affiliation-garnuw|Gar'Nuw]] licenses the professional cullers who answer when a village is losing people, and keeps chapter halls the length of the river.
 
 The doctrine both hold is that wantonness in the killing offends the gods as much as it offends the guild, and that a hunt is a religious act performed at need. What neither will discuss with an outsider is what happens when the beasts are thriving, the priesthood is asking questions about the cull, and the charter-holder's tenure depends on the answer.
 

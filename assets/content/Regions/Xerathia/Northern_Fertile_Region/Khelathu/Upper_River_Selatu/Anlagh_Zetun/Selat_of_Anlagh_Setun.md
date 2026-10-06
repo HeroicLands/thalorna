@@ -80,7 +80,7 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-"Qe'âret keeps the scale," a priest of her temple in [[place-anlaghzetun|Anlagh-Zetûn]] tells a petitioner who has come to dispute a boundary, "and everything in this selat is measured on it: the field, the harvest and the store. Take your cord-marks to the survey-court and your tally of the grain to the Halzi'a's steward, and do not expect either to hear the other's case."
+"[[lore-qearetdty|Qe'âret]] keeps the scale," a priest of her temple in [[place-anlaghzetun|Anlagh-Zetûn]] tells a petitioner who has come to dispute a boundary, "and everything in this selat is measured on it: the field, the harvest and the store. Take your cord-marks to the survey-court and your tally of the grain to the Halzi'a's steward, and do not expect either to hear the other's case."
 
 The **Selat of Anlagh-Zetûn** holds the land of [[place-anlaghztnslt|Anlagh-Zetûn Selat]], and about 800,000 people live under it. Its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] is the very type of the [[affiliation-upperrivrslt|Upper River Selatu]] noble: conservative, hereditary, land-proud, and powerful precisely because the empire cannot do without his grain. He commands the selat's levies, collects its taxes and dispenses its justice from Anlagh-Zetûn, and two of the offices beneath him show where the daily work lies. The Halzi'a's Steward administers the revenue, the granaries and the corvée; the Canal-Warden keeps the irrigation works on which the harvest and the tax depend.
 

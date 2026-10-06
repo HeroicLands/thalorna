@@ -23,12 +23,12 @@ data:
 
 ## Character
 
-The goddess is [[lore-uzneradty|Uznêra]], the principle that sustains all life: the river that floods each year, the womb from which creation springs, and the healer who mends what is broken. Her temples are places where the sick are treated and where children are born, and her lotus and her serpent, renewal and the shedding of old forms, are her symbols. The rest of the selat is ordinary Khelâthi country: villages and estate-towns of a few hundred to a few thousand people on the cultivable ground and the temple estates. The farmers owe a share of the harvest and labor on the canals, and the scribes among them are the one reliable ladder out of the fields. Past the water lies high desert and chaparral.
+The goddess is [[lore-uzneradty|Uznêra]], the principle that sustains all life: the river that floods each year, the womb from which creation springs, and the healer who mends what is broken. Her temples are places where the sick are treated and where children are born, and her lotus and her serpent, renewal and the shedding of old forms, are her symbols. The rest of the selat is ordinary [[lore-khelathiclt|Khelâthi]] country: villages and estate-towns of a few hundred to a few thousand people on the cultivable ground and the temple estates. The farmers owe a share of the harvest and labor on the canals, and the scribes among them are the one reliable ladder out of the fields. Past the water lies high desert and chaparral.
 
 ## Settlements
 
 - [[place-iuthnet|Iuthnet]] (~42,000)—the selat capital and the seat of the Halzi'a, home of the chief temple of [[affiliation-uznera|Faith of Uznêra]] and its estates.
-- **The villages and estate-towns:** the ordinary settlements of the selat, from a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
+- The villages and estate-towns: the ordinary settlements of the selat, from a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 

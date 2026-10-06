@@ -36,9 +36,9 @@ data:
 
 ## Character
 
-Your first week in service, the housekeeper's cook takes you aside and says, "Put a copper in the box on the first of the month, every month. I do not care how small." She is talking about the Servants' Mutual Aid Society. It is a body of the serving class of the capital, open to any household servant willing to pay into its common fund, and it exists to cover the three hazards a servant's wages rarely do: sickness, dismissal and burial.
+Your first week in service, the housekeeper's cook takes you aside and says, "Put a copper in the box on the first of the month, every month. I do not care how small." She is talking about the **Servants' Mutual Aid Society**. It is a body of the serving class of the capital, open to any household servant willing to pay into its common fund, and it exists to cover the three hazards a servant's wages rarely do: sickness, dismissal and burial.
 
-The society is thrifty and loyal. A **Contributor** is anyone who pays into the common fund and draws on it when the trouble comes. Most servants join before they need it, because a man dismissed without warning at midday is out on the street by evening and is paid out the same day. The society has no other ambition. It asks nothing of a member beyond the contribution and the discretion to keep a master's business out of the society's.
+The society is thrifty and loyal. A Contributor is anyone who pays into the common fund and draws on it when the trouble comes. Most servants join before they need it, because a man dismissed without warning at midday is out on the street by evening and is paid out the same day. The society has no other ambition. It asks nothing of a member beyond the contribution and the discretion to keep a master's business out of the society's.
 
 Remember who runs it: servants, for servants. A servant's best friend in the city is the one who knows what the next dismissal will cost.
 

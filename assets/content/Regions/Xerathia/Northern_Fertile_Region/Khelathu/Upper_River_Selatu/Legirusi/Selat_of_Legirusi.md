@@ -77,15 +77,15 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-In the Season of Inundation the fields of Legirusi are under water and nobody is idle.
+In the **Season of Inundation** the fields of Legirusi are under water and nobody is idle.
 
 "The river does the plowing and we do the stone," the [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]]'s steward tells a clerk sent up to learn the corvée rolls. "From the day the water rises until it goes down, every man who owes the selat his labor is on the cliffs or on the barges. Learn the rolls before you learn the quarries, because the rolls are what the Halzi'a answers for."
 
-The Selat of Legirusi is one of the eighteen [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and about 500,000 people live on its land, [[place-legirusiselt|Legirusi Selat]]. It is the stone country of the valley, with quarries, master masons and the temple-workshops that carve the monuments. The selat's patron is [[affiliation-psaqaru|Faith of Psaq'âru]], the Shaper of the Eternal World, and the cult's chief temple and estates give the workshops their standing.
+The **Selat of Legirusi** is one of the eighteen [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and about 500,000 people live on its land, [[place-legirusiselt|Legirusi Selat]]. It is the stone country of the valley, with quarries, master masons and the temple-workshops that carve the monuments. The selat's patron is [[affiliation-psaqaru|Faith of Psaq'âru]], the **Shaper of the Eternal World**, and the cult's chief temple and estates give the workshops their standing.
 
 ## Character
 
-The Halzi'a's authority in Legirusi is mostly labor. His steward administers the selat's revenue, its granaries and its corvée, and in this selat the corvée is stone: the flood-season gangs that cut and haul it are his. The best workmen belong to the temple-workshops of Psaq'âru, and like every major temple this one holds estates to rival the Halzi'a's own, so the selat is shared between a landlord and a god. The seat is [[place-legirusi|Legirusi]], where the Halzi'a keeps his court and the chief temple stands.
+The Halzi'a's authority in Legirusi is mostly labor. His steward administers the selat's revenue, its granaries and its corvée, and in this selat the corvée is stone: the flood-season gangs that cut and haul it are his. The best workmen belong to the temple-workshops of [[lore-psaqarudty|Psaq'âru]], and like every major temple this one holds estates to rival the Halzi'a's own, so the selat is shared between a landlord and a god. The seat is [[place-legirusi|Legirusi]], where the Halzi'a keeps his court and the chief temple stands.
 
 ## Commerce and Currency
 

@@ -52,9 +52,9 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-"Taking the beast cleanly is half of it," a master hunter of **Gar'Nuw** tells a journeyman who is about to be raised. "The other half is who you were while you did it, and **Linhur** is the god who asks."
+"Taking the beast cleanly is half of it," a master hunter of [[affiliation-garnuw|Gar'Nuw]] tells a journeyman who is about to be raised. "The other half is who you were while you did it, and [[lore-linhurdty|Linhur]] is the god who asks."
 
-Linhur is one of the two hunt-patrons of Aû'Khelâthu, and nobody invokes him alone. His patronage does not end at the kill. The god's concern is understood to reach the conduct of the hunter, which is the religious weight behind the guild's Hunter's Respect: the beast belongs to the Gar-Aû's lands, and wantonness in killing it offends the gods as much as the imperial order. The **Scrutineer of the Hunt** holds that scrutiny as an office.
+Linhur is one of the two hunt-patrons of **Aû'Khelâthu**, and nobody invokes him alone. His patronage does not end at the kill. The god's concern is understood to reach the conduct of the hunter, which is the religious weight behind the guild's **Hunter's Respect**: the beast belongs to the [[lore-garauu|Gar-Aû]]'s lands, and wantonness in killing it offends the gods as much as the imperial order. The **Scrutineer of the Hunt** holds that scrutiny as an office.
 
 ## The Elevation
 
@@ -67,4 +67,4 @@ Like every selat god's cult, this one keeps the shared temple ladder of Wazu, Le
 - [[lore-linhurdty|Linhur]]—the god
 - [[affiliation-linqur|Faith of Linqur]]—the paired cult
 - [[affiliation-garnuw|Gar'Nuw]]—the guild whose elevations the two temples conduct
-- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—the temple hierarchy every Khelâthi cult shares
+- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—the temple hierarchy every [[lore-khelathiclt|Khelâthi]] cult shares

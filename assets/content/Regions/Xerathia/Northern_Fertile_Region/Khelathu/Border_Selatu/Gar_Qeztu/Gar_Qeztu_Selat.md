@@ -21,12 +21,12 @@ data:
 
 ## Character
 
-A cadet sent to the officer schools sees the selat's purpose in a morning: carts of grain going in toward the drill-grounds, chariots coming back out of them, and the schools on the ground between. Behind that stands the ordinary Khelâthi country of villages, estates and temple lands, where farmers owe a share of the harvest and labor on the canals and the scribes are the one reliable ladder out of the fields. Here the grain they owe has an obvious customer.
+A cadet sent to the officer schools sees the selat's purpose in a morning: carts of grain going in toward the drill-grounds, chariots coming back out of them, and the schools on the ground between. Behind that stands the ordinary [[lore-khelathiclt|Khelâthi]] country of villages, estates and temple lands, where farmers owe a share of the harvest and labor on the canals and the scribes are the one reliable ladder out of the fields. Here the grain they owe has an obvious customer.
 
 ## Settlements
 
-- [[place-garqeztu|Gar-Qeztu]] (~13,000)—the selat capital and the seat of the Halzi'a, with the chief temple of Qeztu.
-- **The villages and estate-towns:** a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
+- [[place-garqeztu|Gar-Qeztu]] (~13,000)—the selat capital and the seat of the Halzi'a, with the chief temple of [[lore-qeztudty|Qeztu]].
+- The villages and estate-towns: a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 

@@ -28,7 +28,7 @@ The selat is islands and channels, and the temples own much of the dry ground. T
 ## Settlements
 
 - [[place-yathleteru|Yath-Leteru]] (~11,000)—the selat capital and the seat of the Halzi'a.
-- **The villages and estate-towns:** the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
+- The villages and estate-towns: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 

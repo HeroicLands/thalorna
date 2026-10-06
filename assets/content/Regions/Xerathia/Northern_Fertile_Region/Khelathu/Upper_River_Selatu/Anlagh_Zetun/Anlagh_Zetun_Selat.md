@@ -23,7 +23,7 @@ data:
 
 ## Character
 
-The survey scribe's year has five verbs, and Anlagh-Zetûn runs on them: the fields are drowned, re-measured, planted, harvested and rendered, season upon season and generation upon generation. Here more than anywhere the surveyor's cord and the scribe's tally rule the calendar. This is the heartland's heartland, broad, fertile, settled and stubbornly traditional. It is not an exciting selat, and it would take that as a compliment.
+The survey scribe's year has five verbs, and [[place-anlaghzetun|Anlagh-Zetûn]] runs on them: the fields are drowned, re-measured, planted, harvested and rendered, season upon season and generation upon generation. Here more than anywhere the surveyor's cord and the scribe's tally rule the calendar. This is the heartland's heartland, broad, fertile, settled and stubbornly traditional. It is not an exciting selat, and it would take that as a compliment.
 
 ## Economy
 
@@ -41,7 +41,7 @@ Grain is the whole foundation: wheat above all, then barley and millet, grown on
 
 - [[place-anlaghzetun|Anlagh-Zetûn]] (~80,000)—the selat capital and seat of the Halzi'a: an inland city of granaries, grain-markets and survey-courts, set among the richest wheatland in the empire.
 - [[place-amqelulegez|Amqelu-Legez]] (~25,000)—the river-port, where the grain of the basin is gathered, measured and loaded onto the barges for the capital and the delta; the selat's window on the river traffic.
-- **The basin villages:** the dense farm-country holds scores of grain-villages, many of 500 to 3,000 people, each working its share of the flood-basin and rendering grain up the chain to the granaries and the Halzi'a. Among them are [[place-garzekhemu2|Gar-Zekhemu]] (160), [[place-lutmulu|Lut-Mulu]], [[place-yaththawu|Yath-Thawu]], [[place-zmarelepet|Zma-Relepet]] and [[place-garanpuqa|Gar-Anpuqa]].
+- The basin villages: the dense farm-country holds scores of grain-villages, many of 500 to 3,000 people, each working its share of the flood-basin and rendering grain up the chain to the granaries and the Halzi'a. Among them are [[place-garzekhemu2|Gar-Zekhemu]] (160), [[place-lutmulu|Lut-Mulu]], [[place-yaththawu|Yath-Thawu]], [[place-zmarelepet|Zma-Relepet]] and [[place-garanpuqa|Gar-Anpuqa]].
 
 ## See Also
 

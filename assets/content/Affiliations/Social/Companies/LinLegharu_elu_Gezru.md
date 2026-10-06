@@ -34,7 +34,7 @@ data:
 
 A temple herbalist, asked about the rare plants of the red land, shuts her ledger before she answers. Whatever she says next is a complaint.
 
-**Lin'Legharu elu Gezru** (the Desert Consortium) is a company of merchants who take rare plants out of the red land around **Gezru** for quick profit rather than for any longer-term stake in the trade. Members harvest what sells fastest and move on, treating the land's capacity to keep producing as someone else's problem. The consortium has no master and no seat, only a shared interest in the harvest, and it regards anyone conserving those plants as a threat to the trade itself. A conservation-minded harvester gets no quarter from its members, let alone its competitors, and one who tries to leave a stand to regrow finds the other members already working it.
+**Lin'Legharu elu Gezru** (the **Desert Consortium**) is a company of merchants who take rare plants out of the red land around **Gezru** for quick profit rather than for any longer-term stake in the trade. Members harvest what sells fastest and move on, treating the land's capacity to keep producing as someone else's problem. The consortium has no master and no seat, only a shared interest in the harvest, and it regards anyone conserving those plants as a threat to the trade itself. A conservation-minded harvester gets no quarter from its members, let alone its competitors, and one who tries to leave a stand to regrow finds the other members already working it.
 
 The herbalist speaks for the plants, so weigh her account accordingly; the traders' account would be about prices.
 

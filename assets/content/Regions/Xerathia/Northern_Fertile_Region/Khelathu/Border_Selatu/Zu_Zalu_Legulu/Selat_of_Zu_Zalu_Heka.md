@@ -80,13 +80,13 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Zu-Zalu-Legulu, "the Southern Land of Rule," is the great southern march of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], the selat where the empire ends and the tribal lands begin. Its soldier-[[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] is the warden of the southern frontier: he commands the cataract forts, taxes and escorts the gold, ivory, ebony and slaves that come up the river-road from the deep south, and watches the southern tribes, whose loyalty runs from grudging vassalage to open war.
+[[place-zuzalulegulunome|Zu-Zalu-Legulu]], "the **Southern Land of Rule**," is the great southern march of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], the selat where the empire ends and the tribal lands begin. Its soldier-[[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] is the warden of the southern frontier: he commands the cataract forts, taxes and escorts the gold, ivory, ebony and slaves that come up the river-road from the deep south, and watches the southern tribes, whose loyalty runs from grudging vassalage to open war.
 
 His patron is [[lore-qeztudty|Qeztu]], the war-god, whose cult is stronger on this frontier than anywhere in the empire. The land he holds is [[place-zuzalulegulunome|Zu-Zalu-Legulu]].
 
 ## Character
 
-A quartermaster of the cataract forts, asked by a new officer what the selat is like, answers in one sentence: "It is a border war that never quite ends and never quite begins." That is the temper of the country. Its people are a frontier mix—Khelâthi soldiers and settlers, the families of the garrisons, traders working the southern road, and a large population of half-assimilated southerners who farm, serve, soldier and trade on the empire's terms.
+A quartermaster of the cataract forts, asked by a new officer what the selat is like, answers in one sentence: "It is a border war that never quite ends and never quite begins." That is the temper of the country. Its people are a frontier mix—[[lore-khelathiclt|Khelâthi]] soldiers and settlers, the families of the garrisons, traders working the southern road, and a large population of half-assimilated southerners who farm, serve, soldier and trade on the empire's terms.
 
 Society is military to the bone. Rank is measured in command, the Halzi'a rules by the troops at his back, and the great event of a year is as likely to be a raid, a relief-column or a tribal embassy as a harvest. The country breeds the empire's most experienced fighting men and its most independent-minded border lords.
 

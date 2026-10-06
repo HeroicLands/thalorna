@@ -36,9 +36,9 @@ data:
 
 ## Character
 
-The caravan master tells it plainly: "They are the easiest clients on the river and the hardest to keep. Be late once and you will hear about it in the market." She means the Weavers' Cooperative, whose weavers and dyers pool their cloth into shared consignments and send it to markets beyond the city. Every member depends on carriage that arrives, and every member says so aloud when it does.
+The caravan master tells it plainly: "They are the easiest clients on the river and the hardest to keep. Be late once and you will hear about it in the market." She means the **Weavers' Cooperative**, whose weavers and dyers pool their cloth into shared consignments and send it to markets beyond the city. Every member depends on carriage that arrives, and every member says so aloud when it does.
 
-For the weaver it is a practical arrangement. A **Pooling Weaver** sends cloth into the common consignment and chooses, with the others, the carrier who will take it. The cooperative is outspoken on what it needs: a carrier who keeps goods moving on schedule is praised in public, and the praise is worth more than a bonus, because the next contract follows it. Outspokenness cuts both ways, and the cooperative is as ready to name a carrier who failed.
+For the weaver it is a practical arrangement. A Pooling Weaver sends cloth into the common consignment and chooses, with the others, the carrier who will take it. The cooperative is outspoken on what it needs: a carrier who keeps goods moving on schedule is praised in public, and the praise is worth more than a bonus, because the next contract follows it. Outspokenness cuts both ways, and the cooperative is as ready to name a carrier who failed.
 
 If you want steady work from the weavers, keep to the date on the contract. Goodwill from them is earned in no other way.
 

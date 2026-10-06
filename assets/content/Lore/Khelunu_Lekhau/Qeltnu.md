@@ -8,7 +8,7 @@ tags: [generated]
 data: {packFolder: regkharc}
 ---
 
-Watch an embalmer at work and you are watching the **qelt** kept. **Qelt'nu**, the made body, holds craft, stone, flesh, shaping, animation and transformation, and it is named for the soul-component the embalmers preserve, as [[lore-rethzethu|Reth'zethu]] is named for the one the scribes inscribe.
+Watch an embalmer at work and you are watching the _qelt_ kept. **Qelt'nu**, the made body, holds craft, stone, flesh, shaping, animation and transformation, and it is named for the soul-component the embalmers preserve, as [[lore-rethzethu|Reth'zethu]] is named for the one the scribes inscribe.
 
 The pairing was not invented for the philosophy. The philosophy noticed what the funerary rites had always done: preserve the dead twice over, and hold that losing either is total.
 

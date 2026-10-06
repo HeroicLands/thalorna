@@ -56,14 +56,14 @@ sohl: {system: {commonSkills: []}}
 
 _Khelâthi: "The House of Hunters"—the guild of professional hunters of Aû'Khelâthu_
 
-- **Type:** Imperial chartered guild
-- **Region:** [[place-aukhelathrgq|Aû'Khelâthu Region]]—central guildhouse at the capital, with regional chapter halls along the Zumélesh and at the desert edge
-- **Charter:** Granted by the seventh Gar-Aû of the present dynasty; renewed regularly since
-- **Magnum Collegium status:** Not a member; independent Khelâthi institution. It has no standing credential equivalence with the [[affiliation-magnumclgm|Magnum Collegium]], and a foreign hunter operating in Aû'Khelâthu needs a license granted case by case. The Haradian [[affiliation-sodnaqirin|Sôd-Naqîrîn]] has approached Gar'Nuw with a proposal for an equivalence agreement covering desert and frontier work; the talks are at an early stage.
+- Type: Imperial chartered guild
+- Region: [[place-aukhelathrgq|Aû'Khelâthu Region]]—central guildhouse at the capital, with regional chapter halls along the [[place-zumeleshrvr|Zumélesh]] and at the desert edge
+- Charter: Granted by the seventh [[lore-garauu|Gar-Aû]] of the present dynasty; renewed regularly since
+- Magnum Collegium status: Not a member; independent [[lore-khelathiclt|Khelâthi]] institution. It has no standing credential equivalence with the [[affiliation-magnumclgm|Magnum Collegium]], and a foreign hunter operating in Aû'Khelâthu needs a license granted case by case. The [[lore-haradianclt|Haradian]] [[affiliation-sodnaqirin|Sôd-Naqîrîn]] has approached **Gar'Nuw** with a proposal for an equivalence agreement covering desert and frontier work; the talks are at an early stage.
 
 ## Overview
 
-A village on the Zumélesh whose goats keep vanishing at the river's edge does not send for a soldier. It sends for **Gar'Nuw**, which answers with a licensed culler, a bronze token at his belt and a report to file afterward. The guild licenses the empire's professional hunters, and that is the whole of its claim.
+A village on the Zumélesh whose goats keep vanishing at the river's edge does not send for a soldier. It sends for Gar'Nuw, which answers with a licensed culler, a bronze token at his belt and a report to file afterward. The guild licenses the empire's professional hunters, and that is the whole of its claim.
 
 Most Khelâthi game-taking is amateur: the household's livestock, the village's snares, the noble's pleasure hunt. The guild has no claim on amateurs. By imperial charter it licenses those who hunt for pay:
 
@@ -81,7 +81,7 @@ Two bodies hunt in the empire without a Gar'Nuw license, and the guild has made 
 
 The **Meglay** are the hereditary hunter-warden caste, whose noble families hold ancient charters of their own. Their authority is older than the guild, so Gar'Nuw's license does not bind them. By long-standing practice the Meglay families pay the guild informal courtesy dues, and the guild treats Meglay-conducted hunts as exempt from its examinations. The arrangement keeps both sides out of a jurisdictional fight that neither wants.
 
-The [[affiliation-zeghetnelgu|Zeghet'Nelgu]], the Khetai family's sacred hunt, are harder to place. Its members are nobles of the Meglay caste and exempt from the license, but their charter covers only their own stretch of the Zumélesh. Outside it they are technically hunting as Meglay nobles and not as Zeghet'Nelgu, and jurisdictional incidents occasionally break out at the border. They are settled by diplomacy, not litigation.
+The [[affiliation-zeghetnelgu|Zeghet'Nelgu]], the **Khetai** family's sacred hunt, are harder to place. Its members are nobles of the Meglay caste and exempt from the license, but their charter covers only their own stretch of the Zumélesh. Outside it they are technically hunting as Meglay nobles and not as Zeghet'Nelgu, and jurisdictional incidents occasionally break out at the border. They are settled by diplomacy, not litigation.
 
 ## Joining and Rising
 
@@ -89,20 +89,20 @@ A senior hunter would tell a new apprentice: "Your sponsor vouched for you. That
 
 The guild recognizes four working ranks.
 
-- **Apprentice** (_sba-nuw_)—admitted between fourteen and eighteen, usually introduced by a sponsoring journeyman or master, and trained for three to five years. The apprenticeship is an entered undertaking like any other in the empire: a master who works an apprentice as a laborer without teaching him has an open entry against him.
-- **Journeyman** (_nuw_)—qualified by examination and permitted to take paid commissions under a master's seal. This is the working rank of most members.
-- **Master Hunter** (_lem-nuw_)—promoted by senior vote after presenting a documented record of significant work. A master may seal independently, take apprentices and sit on chapter councils.
-- **Great Hunter** (_wer-nuw_)—the most senior masters, who convene as the **Council of the Long Spear** at the central guildhouse, advise the imperial administration and adjudicate the highest guild disputes.
+- Apprentice (_sba-nuw_)—admitted between fourteen and eighteen, usually introduced by a sponsoring journeyman or master, and trained for three to five years. The apprenticeship is an entered undertaking like any other in the empire: a master who works an apprentice as a laborer without teaching him has an open entry against him.
+- Journeyman (_nuw_)—qualified by examination and permitted to take paid commissions under a master's seal. This is the working rank of most members.
+- Master Hunter (_lem-nuw_)—promoted by senior vote after presenting a documented record of significant work. A master may seal independently, take apprentices and sit on chapter councils.
+- Great Hunter (_wer-nuw_)—the most senior masters, who convene as the **Council of the Long Spear** at the central guildhouse, advise the imperial administration and adjudicate the highest guild disputes.
 
 A member who falsifies game counts, returns or pricing is subject to revocation.
 
 Licensing runs by specialty. A journeyman is licensed in one specialty at elevation, and each further specialty needs a further examination. The specialty divisions follow the range of Khelâthi game:
 
-- **River-hunters:** crocodile, hippopotamus, ibis and other riverine fauna.
-- **Marsh-hunters:** waterfowl and the rarer marsh-mammals.
-- **Desert-hunters:** falcons, gazelle, oryx and the desert serpent specialists.
-- **Forest-hunters:** the southern forest fringe, with lion, leopard and the great forest birds.
-- **Specialists:** raptor-trainers, hound-handlers and exotic animal procurers.
+- River-hunters: crocodile, hippopotamus, ibis and other riverine fauna.
+- Marsh-hunters: waterfowl and the rarer marsh-mammals.
+- Desert-hunters: falcons, gazelle, oryx and the desert serpent specialists.
+- Forest-hunters: the southern forest fringe, with lion, leopard and the great forest birds.
+- Specialists: raptor-trainers, hound-handlers and exotic animal procurers.
 
 ### Who Leads
 
@@ -124,16 +124,16 @@ A member carries a stamped bronze token, the _nuw-mudra_, bearing his license nu
 
 ## What the Guild Does
 
-- **Market supply.** Routine professional hunting for the urban meat markets, the largest single volume of guild work.
-- **Beast control.** Cullings of crocodiles and hippopotami that threaten farming villages along the Zumélesh, lion suppressions on the southern frontier, and serpent specialists for the desert routes.
-- **Imperial menagerie procurement.** The Gar-Aû's mews and beast-courts are stocked by guild specialists, with standing arrangements for raptors, hounds and exotic procurements.
-- **Temple supply.** Ritual hunts for temple offerings. Certain temples hold standing commissions with named masters.
-- **Research and training.** The guildhouse keeps records of game movement, breeding seasons, beast behavior and territory, and apprentices study the archives as part of their training.
+- Market supply. Routine professional hunting for the urban meat markets, the largest single volume of guild work.
+- Beast control. Cullings of crocodiles and hippopotami that threaten farming villages along the Zumélesh, lion suppressions on the southern frontier, and serpent specialists for the desert routes.
+- Imperial menagerie procurement. The Gar-Aû's mews and beast-courts are stocked by guild specialists, with standing arrangements for raptors, hounds and exotic procurements.
+- Temple supply. Ritual hunts for temple offerings. Certain temples hold standing commissions with named masters.
+- Research and training. The guildhouse keeps records of game movement, breeding seasons, beast behavior and territory, and apprentices study the archives as part of their training.
 
 ## Relations
 
 - [[affiliation-genzetgarau|Genzet'Gar-Aû]] is patron. The guild's charter and the court's standing favor reinforce each other.
-- The **Meglay** caste coexists with the guild formally, with mutual non-interference backed by informal payments and courtesies.
+- The Meglay caste coexists with the guild formally, with mutual non-interference backed by informal payments and courtesies.
 - The [[affiliation-zeghetnelgu|Zeghet'Nelgu]] are a peer Khelâthi hunting institution, with a jurisdictional accommodation along the Zumélesh.
 - [[affiliation-garmelnu|Gar'Melnu]] is a sibling imperial chartered guild. The two cooperate, and they buy certain materials jointly: the hunters need blades and traps, and the smiths' suppliers need hides.
 - The temples of [[affiliation-linhur|Faith of Linhur]] and [[affiliation-linqur|Faith of Linqur]] are the religious foundation, and senior elevations are conducted in temple rite.
@@ -145,7 +145,7 @@ Foreign hunters stand outside all of this. The guild licenses them case by case 
 - **The Falsified Cull.** A village on the Zumélesh has reported, and been paid for, a crocodile cull that a later inspection suggests was heavily exaggerated. The Master Hunter who sealed the report has produced documentation, and the headman swears it is false. The chapter council must investigate, and the master's seal is at stake either way.
 - **The Legendary Beast.** Master Latari, near death, has summoned [[being-akhrelrthllr|Akhrelu Reth'el'Lêru]] to hand on knowledge of a creature he has never taught anyone: a beast of immense rarity that Latari has hunted, declined to kill and concealed for forty years. Once passed on, the knowledge will leak to powerful interests who will commission a hunt that the guild can neither openly support nor refuse.
 - **The Meglay Provocation.** A Meglay noble has begun running commercial-scale hunts under cover of his hereditary exemption, undercutting guild prices in the meat markets. The Council of the Long Spear's answer will test the accommodation that has kept the two bodies at peace for centuries.
-- **The Foreign Specialist.** A Vylarian beast-master claims an Ordo Arcanis license to procure rare fauna for arcane study and has begun working in Khelâthi territory without a Gar'Nuw license. The court has declined to intervene. The guild must decide whether to obstruct him, accommodate him or petition the Gar-Aû to refuse Ordo procurement permits.
+- **The Foreign Specialist.** A [[lore-vylarianclt|Vylarian]] beast-master claims an [[affiliation-ordoarcanis|Ordo Arcanis]] license to procure rare fauna for arcane study and has begun working in Khelâthi territory without a Gar'Nuw license. The court has declined to intervene. The guild must decide whether to obstruct him, accommodate him or petition the Gar-Aû to refuse **Ordo** procurement permits.
 
 ## See Also
 

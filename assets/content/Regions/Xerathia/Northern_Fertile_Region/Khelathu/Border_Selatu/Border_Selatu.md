@@ -80,7 +80,7 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Beyond the green ribbon of the valley the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] shades into harder country, and the ten Border Selatu hold it: the southern **cataracts**, where the river breaks into rapids and the tribal lands begin; the rugged, mineral-rich **eastern hills**; and the dry **western grazing country**, where Khelâthi irrigation gives out and the herders' pastures begin. They are the empire's thinnest-peopled and roughest provinces. Their Halzi'a govern less as landlords than as military governors, and the frontier's chief export is hardened soldiers.
+Beyond the green ribbon of the valley the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] shades into harder country, and the ten **Border Selatu** hold it: the southern cataracts, where the river breaks into rapids and the tribal lands begin; the rugged, mineral-rich eastern hills; and the dry western grazing country, where [[lore-khelathiclt|Khelâthi]] irrigation gives out and the herders' pastures begin. They are the empire's thinnest-peopled and roughest provinces. Their Halzi'a govern less as landlords than as military governors, and the frontier's chief export is hardened soldiers.
 
 "Nobody in the valley asks to be posted here, and nobody who has served here is sorry," a chariot officer at the drill-grounds of [[place-garqeztu|Gar-Qeztu]] tells a new lieutenant. "You will learn more about the empire in one season of raids than in ten years at court, and the men above you will know it."
 
@@ -94,9 +94,9 @@ The border is also the empire's mine. The eastern hills give gold, copper, turqu
 
 Mining, herding, garrison supply and the caravan trade drive the border economy:
 
-- **The eastern selatu** work the gold and copper mines and the turquoise and stone quarries that supply the whole empire's metal and monument-stone.
-- **The southern selatu** tax and escort the gold-and-ivory road from the lands beyond the cataracts.
-- **The western selatu** raise horses, cattle and sheep on the dry grazing margins and trade, warily, with the herding clans.
+- The eastern selatu work the gold and copper mines and the turquoise and stone quarries that supply the whole empire's metal and monument-stone.
+- The southern selatu tax and escort the gold-and-ivory road from the lands beyond the cataracts.
+- The western selatu raise horses, cattle and sheep on the dry grazing margins and trade, warily, with the herding clans.
 
 The largest economic fact across all of them is the garrison. Feeding, arming and paying the frontier troops draws grain, metal and silver up from the heartland, and makes the border a net consumer of the empire's wealth, a cost the empire pays for the security it buys.
 
@@ -125,7 +125,7 @@ Ten selatu make up the border class, each under its hereditary [[affiliation-emp
 | [[affiliation-selatlinmut\|The Selat of Linmut]]          | [[place-linmut\|Linmut]]        | [[lore-wethurdty\|Wethûr]]                                | ~200,000   | A river-island fortress-selat at the second cataract; gateway and toll-gate                     |
 | [[affiliation-selatbelgnzl\|The Selat of Belgen-Zalu]]    | [[place-belgen\|Belgen]]        | [[affiliation-qeztu\|Faith of Qeztu]]                     | ~200,000   | The deepest southern fort; the empire's last writ before the tribal frontier                    |
 
-Border total: **about 2,500,000**.
+Border total: about 2,500,000.
 
 ## For the Worldbuilder
 

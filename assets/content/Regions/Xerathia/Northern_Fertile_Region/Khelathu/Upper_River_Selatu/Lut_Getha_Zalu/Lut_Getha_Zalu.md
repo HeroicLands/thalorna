@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-You smell the smith-towns of Lut-Getha-Zalu before you see them: charcoal smoke lies along the bank for a mile, and on a still evening the hammering carries across the water.
+You smell the smith-towns of **Lut-Getha-Zalu** before you see them: charcoal smoke lies along the bank for a mile, and on a still evening the hammering carries across the water.
 
 Lut-Getha-Zalu is the land of the [[affiliation-selatltgthzl|Selat of Lut-Getha-Zalu]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
@@ -38,7 +38,7 @@ The selat feeds its granaries from the flood like the rest of the valley. Its pa
 ## Settlements
 
 - [[place-lutgetha|Lut-Getha]] (~36,000)—the selat capital and the seat of the Halzi'a.
-- **The villages and estate-towns:** the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
+- The villages and estate-towns: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 

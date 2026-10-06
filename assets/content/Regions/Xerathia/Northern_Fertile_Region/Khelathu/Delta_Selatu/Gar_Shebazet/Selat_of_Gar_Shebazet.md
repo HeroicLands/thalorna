@@ -77,7 +77,7 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-**Gar-Shebazet** is the delta selat that makes the empire's paper. Its marshes grow the papyrus, its people cut the reed and fowl the water, and its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) answers to the Gar-Aû for all of it: the Halzi'a commands the levies, collects the taxes and dispenses the justice, at a distance from the throne that shrinks and grows with the strength of whoever wears the crown. The patron is [[affiliation-shebazet|Shebazet]], the cobra-goddess, and the selat's religious life runs through her temples and their estates. The land it holds is [[place-garshebztslt|Gar-Shebazet Selat]].
+[[place-garshebazet|Gar-Shebazet]] is the delta selat that makes the empire's paper. Its marshes grow the papyrus, its people cut the reed and fowl the water, and its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) answers to the [[lore-garauu|Gar-Aû]] for all of it: the Halzi'a commands the levies, collects the taxes and dispenses the justice, at a distance from the throne that shrinks and grows with the strength of whoever wears the crown. The patron is [[affiliation-shebazet|Shebazet]], the cobra-goddess, and the selat's religious life runs through her temples and their estates. The land it holds is [[place-garshebztslt|Gar-Shebazet Selat]].
 
 "Every roll in the empire begins as one of our stems," a clerk of the tax-roll bureau tells a visiting scribe, squaring a sheaf of blank sheets against the table. "Then it goes upriver and somebody writes a debt on it. We write ours first, and ours are the only ones that nobody argues with."
 

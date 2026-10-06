@@ -32,7 +32,7 @@ data:
 
 ## Overview
 
-**Lin'Legharu elu Galezkara**, the Society of Botanical Scholars, gathers the people of [[place-galezkara|Galezkara]] who study the properties of plants, from physicians' apprentices to independent researchers. Members meet to compare findings on cultivation, preparation and effect and treat the study as a discipline in its own right. The society spends nearly as much effort defending that claim against the charge that its work is merely trade as it spends on the research.
+**Lin'Legharu elu Galezkara**, the **Society of Botanical Scholars**, gathers the people of [[place-galezkara|Galezkara]] who study the properties of plants, from physicians' apprentices to independent researchers. Members meet to compare findings on cultivation, preparation and effect and treat the study as a discipline in its own right. The society spends nearly as much effort defending that claim against the charge that its work is merely trade as it spends on the research.
 
 ## Character
 

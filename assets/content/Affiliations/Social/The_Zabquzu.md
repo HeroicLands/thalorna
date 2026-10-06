@@ -32,9 +32,9 @@ data:
 
 ## Overview
 
-A recruiting sergeant, glancing over a petitioner's papers, asks only one thing: "Which order?" If the answer is the Zab'quzu, the interview changes.
+A recruiting sergeant, glancing over a petitioner's papers, asks only one thing: "Which order?" If the answer is the **Zab'quzu**, the interview changes.
 
-**The Zab'quzu** (the Dishonorable Order) are former soldiers of [[place-aukhelathrgq|Aû'Khelâthu]] stripped of standing for conduct the military could not overlook, whatever their prior service record. The Khelâthi count the striking of a name from the records among their heaviest punishments, and a soldier so stripped has been put out of the one body that gave him a place. The order keeps its own company out of shared disgrace rather than shared purpose, because no other order will have them. The rank of **Stripped of Standing** says that it happened and says nothing of the conduct, so the name tells a commander only that the reason was serious.
+The Zab'quzu (the **Dishonorable Order**) are former soldiers of [[place-aukhelathrgq|Aû'Khelâthu]] stripped of standing for conduct the military could not overlook, whatever their prior service record. The [[lore-khelathiclt|Khelâthi]] count the striking of a name from the records among their heaviest punishments, and a soldier so stripped has been put out of the one body that gave him a place. The order keeps its own company out of shared disgrace rather than shared purpose, because no other order will have them. The rank of **Stripped of Standing** says that it happened and says nothing of the conduct, so the name tells a commander only that the reason was serious.
 
 ## Seeking Work
 

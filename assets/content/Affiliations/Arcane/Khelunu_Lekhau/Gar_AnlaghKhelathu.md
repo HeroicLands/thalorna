@@ -54,13 +54,13 @@ sohl: {system: {commonSkills: []}}
 
 "If the bank holds this year nobody will think of us," a **Canal-Reader** tells a novice at a canal-head. "That is how you know the House has done its work."
 
-**Gar-Anlagh'Khelâthu**, the House of the Black Land, holds the domain of the flood and what the flood makes possible: water, growth, the mending of bodies and abundance. [[lore-anlaghkhlth|Anlagh'Khelâthu]] is the most publicly useful of the eight and the least prestigious. Its practitioners are found at canal-heads and birth-beds, not in sealed chambers, and its formulae are the ones most often taught in simplified form to people who are not lekhau at all.
+**Gar-Anlagh'Khelâthu**, the **House of the Black Land**, holds the domain of the flood and what the flood makes possible: water, growth, the mending of bodies and abundance. [[lore-anlaghkhlth|Anlagh'Khelâthu]] is the most publicly useful of the eight and the least prestigious. Its practitioners are found at canal-heads and birth-beds, not in sealed chambers, and its formulae are the ones most often taught in simplified form to people who are not lekhau at all.
 
 ## Two Offices
 
-The Canal-Reader works the formulae that hold a bank, clear a channel or read the water, and is the House's most ordinary and most frequently summoned practitioner. The **Mender** holds the healing forms, which the House shares, carefully and in reduced versions, with the temples of [[lore-uzneradty|Uznêra]].
+The Canal-Reader works the formulae that hold a bank, clear a channel or read the water, and is the House's most ordinary and most frequently summoned practitioner. The Mender holds the healing forms, which the House shares, carefully and in reduced versions, with the temples of [[lore-uzneradty|Uznêra]].
 
-The Black Land has a partner in the tradition: [[affiliation-gargezrulutu|Gar-Gezru'lutu]] holds the Red, and the flood that makes the one is measured against the other every year.
+The **Black Land** has a partner in the tradition: [[affiliation-gargezrulutu|Gar-Gezru'lutu]] holds the Red, and the flood that makes the one is measured against the other every year.
 
 ## See Also
 

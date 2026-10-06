@@ -19,7 +19,7 @@ data:
 
 "Keep to the path and touch nothing," the watch-priest of an endowed tomb tells a party of pilgrims at the western landing. "The ground above a tomb is mine to keep, and most of what I keep it from is hunger."
 
-Khelzuret Selat is the land of the [[affiliation-selatkhelzrt|Selat of Khelzuret]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]]. It is built around the temple-city of [[place-khelzuret|Khelzuret]] on the river's east bank and the vast necropolis that faces it across the water on the west, and it holds the empire's funerary civilization: its embalmers, its tomb-builders, its funerary artists, and the priesthoods of [[lore-wethurdty|Wethûr]] and [[lore-hezmuiridty|Hezmuîri]], lords of the passage into death.
+**Khelzuret Selat** is the land of the [[affiliation-selatkhelzrt|Selat of Khelzuret]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]]. It is built around the temple-city of [[place-khelzuret|Khelzuret]] on the river's east bank and the vast necropolis that faces it across the water on the west, and it holds the empire's funerary civilization: its embalmers, its tomb-builders, its funerary artists, and the priesthoods of [[lore-wethurdty|Wethûr]] and [[lore-hezmuiridty|Hezmuîri]], lords of the passage into death.
 
 ## Character
 
@@ -42,8 +42,8 @@ The mortuary industry is the economy. Embalming, tomb construction and decoratio
 ## Settlements
 
 - [[place-khelzuret|Khelzuret]] (~90,000)—the selat capital and the empire's great temple-city of the dead: the mortuary temples, the pilgrim-markets, the embalmers' and coffin-makers' quarters, and the seat of the Halzi'a in uneasy proximity to the Thâz'Lekhau.
-- [[place-zelqar|Zel-Qar]] (~6,000)—"the Place of Truth," the walled tomb-workers' settlement on the west bank: a closed company-town of master-craftsmen, draftsmen and stonecutters who cut and paint the great tombs, hereditary in their trades and proud of their secrets.
-- **The pilgrim and farm villages:** small communities of 500–2,500 line the east bank and the pilgrim-road, among them [[place-garzekri|Gar-Zekri]], [[place-lutanpuqa|Lut-Anpuqa]], [[place-yathmulu|Yath-Mulu]] and [[place-zmagezer|Zma-Gezer]]. They lodge pilgrims, farm the river margin and serve the endless traffic of the dead and their mourners.
+- [[place-zelqar|Zel-Qar]] (~6,000)—"the **Place of Truth**," the walled tomb-workers' settlement on the west bank: a closed company-town of master-craftsmen, draftsmen and stonecutters who cut and paint the great tombs, hereditary in their trades and proud of their secrets.
+- The pilgrim and farm villages: small communities of 500–2,500 line the east bank and the pilgrim-road, among them [[place-garzekri|Gar-Zekri]], [[place-lutanpuqa|Lut-Anpuqa]], [[place-yathmulu|Yath-Mulu]] and [[place-zmagezer|Zma-Gezer]]. They lodge pilgrims, farm the river margin and serve the endless traffic of the dead and their mourners.
 
 ## See Also
 

@@ -44,7 +44,7 @@ On the northern desert road, the wells matter more than the forts, and the garri
 
 ## Character
 
-"Check the peace before you trust it," a caravan master tells a new driver at the last Khelâthi well. "The commander wants the road open, the officers want their postings to end quietly, and the Dunhari want what they have always wanted from a caravan. Between those three the peace is whatever suits the morning."
+"Check the peace before you trust it," a caravan master tells a new driver at the last [[lore-khelathiclt|Khelâthi]] well. "The commander wants the road open, the officers want their postings to end quietly, and the Dunhari want what they have always wanted from a caravan. Between those three the peace is whatever suits the morning."
 
 The command is a body of soldiers posted far from the comforts of the capital, held to the forts and wells of a hard road. Its officers keep a nominal peace with the [[lore-dunhariclt|Dunhari]] and break it as it suits them. A soldier here learns to read a tribe's mood by the state of its wells.
 

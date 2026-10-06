@@ -28,7 +28,7 @@ Away from the palms, the villages and temple estates grow grain on the usual ter
 ## Settlements
 
 - [[place-izet|Izet]] (~45,000)—the selat capital and the seat of the Halzi'a.
-- **The villages and estate-towns:** the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
+- The villages and estate-towns: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 

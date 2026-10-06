@@ -77,7 +77,7 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-**Izet-Ge** is the delta selat of date palms and sweet wines, and one of the Delta Selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the Gar-Aû at a distance that varies with the strength of the throne. The patron is [[affiliation-thubai|Thubâ'i]], and the selat's religious life runs through his temples and their estates. The land it holds is [[place-izetgenome|Izet-Ge]].
+[[place-izetgenome|Izet-Ge]] is the delta selat of date palms and sweet wines, and one of the [[affiliation-deltaselatu|Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the [[lore-garauu|Gar-Aû]] at a distance that varies with the strength of the throne. The patron is [[affiliation-thubai|Thubâ'i]], and the selat's religious life runs through his temples and their estates. The land it holds is [[place-izetgenome|Izet-Ge]].
 
 "Our god has no quarrel with a full cup," a Lem'Nelgir (priest) of Thubâ'i tells a pilgrim in the forecourt of the chief temple, "and neither has our Halzi'a. The vaults hold the wine, the granaries hold the grain, and the grain feeds the people who would otherwise grumble about the wine. Take a cup, then come and be shown the vaults."
 

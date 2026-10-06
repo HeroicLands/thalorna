@@ -36,7 +36,7 @@ Standing in **Genzet'Qeztu** runs on reputation as much as on current rank. The 
 
 ## Character
 
-A retired colonel visits his old regiment, and a young captain asks for advice. The colonel gives it carefully, knowing that every officer in the room will remember what he said. That is the Military Council in miniature.
+A retired colonel visits his old regiment, and a young captain asks for advice. The colonel gives it carefully, knowing that every officer in the room will remember what he said. That is the **Military Council** in miniature.
 
 The council defers to experience. A retired general's counsel carries weight with the officers he trained, and standing in the council runs on reputation as much as on current rank. A man who commanded the frontier thirty years ago can outweigh a serving commander who has never been tested.
 

@@ -32,11 +32,11 @@ data:
 
 ## Overview
 
-**Lin'Zegaru elu Miglet** is the cooperative of the farming households of the northern selats of the Lower Delta, formed to bring grain to market on their own terms and not a factor's. It pools the harvests of many small holdings into shipments large enough to bargain with buyers directly, which cuts the factor out of the sale. A household that stays outside sells at the factor's price.
+**Lin'Zegaru elu Miglet** is the cooperative of the farming households of the northern selats of the **Lower Delta**, formed to bring grain to market on their own terms and not a factor's. It pools the harvests of many small holdings into shipments large enough to bargain with buyers directly, which cuts the factor out of the sale. A household that stays outside sells at the factor's price.
 
 ## Character
 
-At the delta landings the factor's boat ties up and waits, and the grain stays on the bank. The Farmers' Cooperative of the Lower Delta is a body of the farming households of the northern selats, formed to bring grain to market on its own terms and not on a factor's. Each **Member Household** puts its harvest into a pooled shipment large enough to bargain with the buyers directly.
+At the delta landings the factor's boat ties up and waits, and the grain stays on the bank. The **Farmers' Cooperative of the Lower Delta** is a body of the farming households of the northern selats, formed to bring grain to market on its own terms and not on a factor's. Each Member Household puts its harvest into a pooled shipment large enough to bargain with the buyers directly.
 
 The cooperative is collective and independent. Nobody speaks for it except the households together, and they have cut the factor out of the sale entirely. Small holdings that would have sold singly, at whatever the factor named, now stand behind a shipment whose size is its leverage. The households that remain outside sell at the factor's price, which is reason enough that most of the delta's smaller farms have come in.
 

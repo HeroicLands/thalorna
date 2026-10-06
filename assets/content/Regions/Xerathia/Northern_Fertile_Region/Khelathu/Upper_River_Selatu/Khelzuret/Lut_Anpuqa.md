@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Lut-Anpuqa stands on the pilgrim-road of [[place-khelzuretslt|Khelzuret Selat]] and farms the river margin the flood leaves it. It lodges two kinds of guest. The first come to bury a father or a wife at [[place-khelzuret|Khelzuret]]. The second come back in later years for the annual rites, which are payment against a balance the dead go on drawing. A family that lets them lapse is in arrears to someone who cannot chase it. A lodging-keeper here tells the two apart at the door: the first arrive carrying their dead, and the second arrive carrying oil and bread for the offering.
+**Lut-Anpuqa** stands on the pilgrim-road of [[place-khelzuretslt|Khelzuret Selat]] and farms the river margin the flood leaves it. It lodges two kinds of guest. The first come to bury a father or a wife at [[place-khelzuret|Khelzuret]]. The second come back in later years for the annual rites, which are payment against a balance the dead go on drawing. A family that lets them lapse is in arrears to someone who cannot chase it. A lodging-keeper here tells the two apart at the door: the first arrive carrying their dead, and the second arrive carrying oil and bread for the offering.
 
 ## See Also
 

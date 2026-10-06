@@ -11,9 +11,9 @@ data: {packFolder: regkhdeit}
 
 _The Golden Reveler—a golden amphora overflowing with wheat and coins._
 
-Ask a Khelâthi what Thubâ'i wants of you and the answer comes with a cup in it: "Enjoy it, and share it." **Thubâ'i** is abundance, the fertility of the fields, the prosperity of traders and the joy of those who know how to celebrate. He is a god of **exuberant plenty and no ascetic**: the laughter at a feast, the swell of passion, the glint of gold in lamplight. He is shown as a corpulent figure crowned with cornucopiae, or as the golden waters of the river itself running with treasure.
+Ask a [[lore-khelathiclt|Khelâthi]] what **Thubâ'i** wants of you and the answer comes with a cup in it: "Enjoy it, and share it." Thubâ'i is abundance, the fertility of the fields, the prosperity of traders and the joy of those who know how to celebrate. He is a god of _exuberant plenty and no ascetic_: the laughter at a feast, the swell of passion, the glint of gold in lamplight. He is shown as a corpulent figure crowned with cornucopiae, or as the golden waters of the river itself running with treasure.
 
-His worship carries a real philosophical claim, one the Khelâthi take seriously: that pursuing comfort, sensual pleasure and worldly delight is **an expression of spirituality and no distraction from it**. To refuse his gifts is to refuse the divine bounty. Good harvests, successful voyages and abundant wine are glimpses of the generosity underlying existence.
+His worship carries a real philosophical claim, one the Khelâthi take seriously: that pursuing comfort, sensual pleasure and worldly delight is _an expression of spirituality and no distraction from it_. To refuse his gifts is to refuse the divine bounty. Good harvests, successful voyages and abundant wine are glimpses of the generosity underlying existence.
 
 That makes him one of the most popular gods in the empire, and it is why Khelâthi culture sees no contradiction between devotion and enjoyment. The calendar is dense with festivals, and beer, wine, music and dance sit at the center of religious and secular life alike.
 

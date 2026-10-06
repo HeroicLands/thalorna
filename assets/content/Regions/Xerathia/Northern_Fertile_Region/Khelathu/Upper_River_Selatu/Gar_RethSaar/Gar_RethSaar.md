@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-"We grow two crops here," a lodging-house keeper tells a traveler on the road to [[place-khelunu|Khelunu]]. "The wheat comes up in Gelet like everyone's wheat. The other crop walks in at seven years old, holding its mother's hand and a reed pen it has never used."
+"We grow two crops here," a lodging-house keeper tells a traveler on the road to [[place-khelunu|Khelunu]]. "The wheat comes up in [[lore-geletssn|Gelet]] like everyone's wheat. The other crop walks in at seven years old, holding its mother's hand and a reed pen it has never used."
 
 **Gar-Reth'Sa'âr** is the land of the [[affiliation-selatgrrthsr|Selat of Gar-Reth'Sa'âr]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]]. At its center stands Khelunu, the foremost temple-city of [[lore-rethsaardty|Reth'Sa'âr]], keeper of sacred wisdom. Its library-temple holds the deepest archive in the empire, and its priest-scribes maintain the meticulous king-lists that run back, unbroken, to the [[affiliation-empireakhlth#the-khelathi-calendar-and-dating|Qet Telgu]]. The selat's worldly produce is ordinary upper-river grain. Its real export is literate, numerate, learned men, and the records by which the empire knows itself.
 
@@ -33,7 +33,7 @@ The selat farms its share of upper-river grain like any other, but its distincti
 ## Settlements
 
 - [[place-khelunu|Khelunu]] (~85,000)—the selat capital and the empire's great temple-city of learning: the library-temple of Reth'Sa'âr, the scribal schools, the observatory, the archives and the pupil-and-scholar quarters that surround them, beside the seat of the Halzi'a.
-- **The school-and-farm villages:** the grain-country holds the usual scatter of villages of 500 to 2,500 people. Among them are [[place-gargezehuti|Gar-Gezehuti]], [[place-lutzethu2|Lut-Zethu]], [[place-yathkhelunu|Yath-Khelunu]] and [[place-zmathothu|Zma-Thothu]], several of them grown prosperous as lodging-towns for the families of pupils and for the lesser temple-schools that feed the great one at Khelunu.
+- The school-and-farm villages: the grain-country holds the usual scatter of villages of 500 to 2,500 people. Among them are [[place-gargezehuti|Gar-Gezehuti]], [[place-lutzethu2|Lut-Zethu]], [[place-yathkhelunu|Yath-Khelunu]] and [[place-zmathothu|Zma-Thothu]], several of them grown prosperous as lodging-towns for the families of pupils and for the lesser temple-schools that feed the great one at Khelunu.
 
 ## See Also
 

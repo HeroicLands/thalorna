@@ -77,7 +77,7 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-The **Selat of Iaqet-Leqa** is the dry, sun-burned garrison selat that lies behind the desert march of [[place-khuqetmiglet|Khuqet-Miglet]], a country of wells and quarry-roads in the eastern desert. Its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] commands the garrison, collects the selat's taxes and dispenses its justice, and answers to the Gar-Aû at a distance that varies with the strength of the throne. His patron is the crocodile-god [[affiliation-tjelsuk|Tjelsuk]], whose worship reaches from the eastern marsh to these desert wells, and the selat's religious life runs through that cult's temples and their estates. The land he holds is [[place-iaqetleqaslt|Iaqet-Leqa Selat]].
+The **Selat of Iaqet-Leqa** is the dry, sun-burned garrison selat that lies behind the desert march of [[place-khuqetmiglet|Khuqet-Miglet]], a country of wells and quarry-roads in the eastern desert. Its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] commands the garrison, collects the selat's taxes and dispenses its justice, and answers to the [[lore-garauu|Gar-Aû]] at a distance that varies with the strength of the throne. His patron is the crocodile-god [[affiliation-tjelsuk|Tjelsuk]], whose worship reaches from the eastern marsh to these desert wells, and the selat's religious life runs through that cult's temples and their estates. The land he holds is [[place-iaqetleqaslt|Iaqet-Leqa Selat]].
 
 ## Character
 

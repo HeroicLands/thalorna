@@ -19,7 +19,7 @@ data:
 
 "Come hungry, and leave your arguments at the gate," a flax-weaver tells a stranger on the morning of a feast at the temple of [[lore-thubaidty|Thubâ'i]] in **Gadju-Mûlu**. "The god takes it as an insult if you refuse his gifts, and the cooks take it worse."
 
-Gadju-Mûlu is the capital of the [[affiliation-selatgadjuml|Selat of Gadju-Mûlu]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], a town of about 27,000 in the marshy flood-basin the selat is named for. It holds the selat's chief temple of [[affiliation-thubai|Faith of Thubâ'i]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Thubâ'i's temples keep wine vaults and granaries, and the granaries feed the dole, so the god of pleasure keeps grain as well as wine. The character of the town is the selat's: "Green Waters," a wet country of flax and waterfowl.
+Gadju-Mûlu is the capital of the [[affiliation-selatgadjuml|Selat of Gadju-Mûlu]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], a town of about 27,000 in the marshy flood-basin the selat is named for. It holds the selat's chief temple of [[affiliation-thubai|Faith of Thubâ'i]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Thubâ'i's temples keep wine vaults and granaries, and the granaries feed the dole, so the god of pleasure keeps grain as well as wine. The character of the town is the selat's: "**Green Waters**," a wet country of flax and waterfowl.
 
 ## See Also
 
