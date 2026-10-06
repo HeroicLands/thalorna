@@ -65,3 +65,9 @@ The Khelâthi go one step further than a founding. The mound of [[place-yathtelg
 river, is held to be the very mound that first lifted from the waters of creation at the Qet Telgu—which makes the First Occasion the creation of the world and the founding of Khelâthi kingship at once.
 Two Elder Races reached Thalorna five millennia before it. Nothing in the Khelâthi account addresses
 that, and nothing outside it disputes the claim either.
+
+[[lore-firstoccasion|The First Occasion]] begins where the count begins:
+
+: Before This Year
+
+> Before this year nothing is entered, because there was no year to enter it in. There was the dark, and in the dark the serpent whose name is not written at the head of a chronicle, and there was water without a bank. Nothing in it stood, so nothing in it could be counted, and what cannot be counted is not history.
