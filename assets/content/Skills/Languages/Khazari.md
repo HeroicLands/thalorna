@@ -101,6 +101,8 @@ Meaning in Khazári lives in a **skeleton**—a _marg_, literally a bone—of ex
 | `n-l-p`  | cold                     |
 | `z-v-k`  | to be, to stand          |
 
+Every skeleton the language is known to use, with the words its frames make, is set out in the [[doc-khazarilex|Khazári Lexicon]].
+
 ### Frames
 
 The frames are taught on the model skeleton **r-m-k**, "to lay a course of stone". In the shape column, `K1`, `K2` and `K3` stand for the skeleton's three consonants, and `V` for the vowel a given name chooses:
@@ -460,6 +462,7 @@ Ramka, Rimki, Rumku, Dalka, Delke, Dolko, Thimri, Themre, Kevale, Kivali, Sekare
 
 ## External References
 
+- [[doc-khazarilex|Khazári Lexicon]] (skeletons, words and attested names)
 - Khazári Names (given names and house names)
 - Elder Tongue comparative linguistics
 - Khazári genealogies and craft records

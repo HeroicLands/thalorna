@@ -106,7 +106,7 @@ test("the Khazári lexicon obeys the note and registers every name in scope", ()
 test("a lexicon word that is not its skeleton through its frame is refused", () => {
     const lex = lexiconFrom(lexText);
     const word = lex.words.find((w) => w.skeletons.length === 1 && w.frame === "bare");
-    const broken = lexText.replace(`| \`${word.form}\` |`, `| \`${word.form}u\` |`);
+    const broken = lexText.replace(new RegExp(`^\\| \`${word.form}\``, "m"), `| \`${word.form}u\``);
     assert(lexErrors(broken).some((f) => f.message.startsWith(`\`${word.form}u\` is not`)));
 });
 

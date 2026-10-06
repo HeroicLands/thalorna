@@ -927,7 +927,7 @@ export function lexiconFrom(text) {
         offset,
     }));
     const languages = tableOf(text, "### Language tags").rows.map(
-        ({ cells }) => ticked(cells[0])[0],
+        ({ cells }) => ticked(cells[0])[0] ?? plain(cells[0]),
     );
 
     return { fields, classes, skeletons, words, register, languages };
@@ -1227,7 +1227,7 @@ export function checkLexicon(lexText, noteText, notes) {
     const tags = lex.languages;
     const declared = (tag) =>
         tags.some((t) =>
-            t.endsWith(":") || t.includes(":<") ? tag.startsWith(t.split(":")[0] + ":") : t === tag,
+            t.endsWith(":") ? tag.startsWith(t) && tag.length > t.length : t === tag,
         );
     const registered = new Set();
     for (const r of lex.register) {
