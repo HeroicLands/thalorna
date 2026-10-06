@@ -8,7 +8,7 @@ tags: [ruin, river, inland]
 data: {demonym: null, lore: [], parents: [rajapurjnpd], population: null, packFolder: vedyara}
 ---
 
-The **Palace Cellars** are what is left of the royal palace of the Kingdom of Mahānadi, at the north end of [[place-rajapur|Rājapur]]. The sabhā that dissolved the kingdom demolished the building and gave its stones to the enlargement of the great Vyālendra temple. Nothing was left standing above the foundation courses.
+The **Palace Cellars** are what is left of the royal palace of the **Kingdom of Mahānadi**, at the north end of [[place-rajapur|Rājapur]]. The sabhā that dissolved the kingdom demolished the building and gave its stones to the enlargement of the great Vyālendra temple. Nothing was left standing above the foundation courses.
 
 The cellars stand open to the sky. Children play in them, and nobody builds on the ground, which in a town living inside a street-plan laid out for several times its number is not a scarcity anybody feels.
 
@@ -20,7 +20,7 @@ Nothing was hidden and nothing was buried. The granaries became common stores, t
 
 ## The Ground Now
 
-The outline is legible. A visitor can walk the plan of the audience hall, the kitchens and the guard barrack in an afternoon, and the Memory-Keeper's recitation names rooms that a listener can then go and stand in.
+The outline is legible. A visitor can walk the plan of the audience hall, the kitchens and the guard barrack in an afternoon, and the **Memory-Keeper**'s recitation names rooms that a listener can then go and stand in.
 
 The [[lore-rcitkngsmhnd|Recitation of the Kings of Mahānadi]] sets the last reign's undoing in these rooms:
 
@@ -35,7 +35,7 @@ So the tradition runs: the kitchen's cup
   was the last the king drank.
 ```
 
-Once a year, at the Day of the Dissolution, the recitation is given in the temple precinct and not here. The Rājapuri position is that the cellars are not a monument and are not to be treated as one.
+Once a year, at the **Day of the Dissolution**, the recitation is given in the temple precinct and not here. The Rājapuri position is that the cellars are not a monument and are not to be treated as one.
 
 ## See Also
 

@@ -22,7 +22,7 @@ Nothing is charged and nothing is asked. A house feeds whoever presents himself 
 
 ## The Road Along the River
 
-The pilgrim road that runs the whole length of [[place-bharavarivr|the Bhārava]], sea to ice, carries more of this traffic than any other in Vedyara. The houses along its lower reaches are endowed by the temple-domains of the forest country out of the forest products that pay for everything there, and the Suvarnagiri houses begin above the highlands.
+The pilgrim road that runs the whole length of [[place-bharavarivr|the Bhārava]], sea to ice, carries more of this traffic than any other in [[place-vedyarargn|Vedyara]]. The houses along its lower reaches are endowed by the temple-domains of the forest country out of the forest products that pay for everything there, and the Suvarnagiri houses begin above the highlands.
 
 Many who walk it could never have paid for the journey out of their own devotion. The hostels feed them, and the observance counts that charity as part of the walk.
 

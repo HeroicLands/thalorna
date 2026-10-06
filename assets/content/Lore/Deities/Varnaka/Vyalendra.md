@@ -8,9 +8,9 @@ tags: []
 data: {packFolder: deitiesvarnaka}
 ---
 
-_The Shaper of Worlds—a four-armed figure of serene focus, holding a compass, a measuring cord, a chisel and a golden lotus._
+_[[affiliation-vyalendra|The Shaper of Worlds]]—a four-armed figure of serene focus, holding a compass, a measuring cord, a chisel and a golden lotus._
 
-Vyālendra is the architect of existence. He gave shape to earth, sky and every living thing, and he shapes every new work of human making.
+[[affiliation-vyalendra|Vyālendra]] is the architect of existence. He gave shape to earth, sky and every living thing, and he shapes every new work of human making.
 
 Vedyari theology holds that every founded city, every raised temple, every bridge and irrigation channel repeats the original act of cosmic shaping in miniature. To build well is to serve him. To build poorly is to mar the pattern the world was made from.
 
@@ -20,8 +20,8 @@ A golden lotus medallion is worn by master craftsmen and senior clergy as a mark
 
 Artisans bless the tools of their trade each morning. Before a new commission they offer a pinch of powdered gold or saffron.
 
-[[place-sarvaprbhv|Sarvaprabhava]] is his, the source-temple at the head of the Sarvada in Dhanurkota's own upper valley. The temple's record has it rebuilt on the same footing eleven times, each rebuilding finished within a single open season. Its masons read that as a fact about the mountain and not about their predecessors' workmanship.
+[[place-sarvaprbhv|Sarvaprabhava]] is his, the source-temple at the head of the [[place-sarvadarivr|Sarvada]] in [[affiliation-dhnrktjnpd|Dhanurkota]]'s own upper valley. The temple's record has it rebuilt on the same footing eleven times, each rebuilding finished within a single open season. Its masons read that as a fact about the mountain and not about their predecessors' workmanship.
 
 The villages downstream keep a pilgrimage to it for those hoping for a child. The god of foundations is the god of beginnings of every kind.
 
-On the Mahānadi plain, Rājapur keeps its own great Vyālendra temple at the janapada's center, beside the old royal palace. Its altar is a sandstone block cut when the dynastic capital was founded, and its Spring Festival is the year's great pilgrimage draw.
+On the [[place-mahanadi|Mahānadi]] plain, [[place-rajapur|Rājapur]] keeps its own great Vyālendra temple at the janapada's center, beside the old royal palace. Its altar is a sandstone block cut when the dynastic capital was founded, and its **Spring Festival** is the year's great pilgrimage draw.

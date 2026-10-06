@@ -54,7 +54,7 @@ sohl: {system: {commonSkills: [rasikara, sohl-sohl-skill-srvl]}}
 - **Pronunciation:** _RAH-see-kah-rah_
 - **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
-"Carry the ember in with both hands and do not stop on the way. It came off your hearth, and it has one place to go." The keeper of a cremation ground says this to a young man about to light his father's pyre, and says it flatly, as a man tells a newcomer where to put his feet. Rásikara's cult is not comfortable, and its keepers do not pretend it is. Its shrines stand at a city's edge and at its cremation grounds, and its devotees are ascetics, warriors, healers of wasting diseases and the keepers of the cremation-fires.
+"Carry the ember in with both hands and do not stop on the way. It came off your hearth, and it has one place to go." The keeper of a cremation ground says this to a young man about to light his father's pyre, and says it flatly, as a man tells a newcomer where to put his feet. [[lore-rasikaradty|Rásikara]]'s cult is not comfortable, and its keepers do not pretend it is. Its shrines stand at a city's edge and at its cremation grounds, and its devotees are ascetics, warriors, healers of wasting diseases and the keepers of the cremation-fires.
 
 Rásikara is the god of fire and of the change fire compels, the burning that strips away corruption and the kindling that starts new growth. [[affiliation-mahajaya|Mahájaya]] preserves and [[affiliation-vyalendra|Vyālendra]] shapes; Rásikara breaks. The Varnakan faith holds the breaking sacred, and he is venerated for courage: the courage to meet what must be destroyed with the fire proper to the task. The [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]] keeps him in balance with the other two forms, and the [[affiliation-agnipantha|Agnī-panthā]] carries his purification onto the road.
 
@@ -62,7 +62,7 @@ Rásikara is the god of fire and of the change fire compels, the burning that st
 
 The image is a lean, burning figure standing within a ring of broken chains or fractured stone, sometimes many-armed and sometimes a single column of flame. The broken circle of his symbol stands for a world that seizes up into rigidity and for the god's willingness to break it open. His flame is bright and not cruel, and the theology insists he does not burn what has not earned burning.
 
-Three objects carry the cult. The **fire-brand** is a torch of consecrated wood, used in rites of purgation. The **Fragment of the Ring** is a broken metal circle worn at the neck, signifying the worshipper's willingness to be broken and remade. The **ash-mark** is a smear of consecrated ash applied to the brow in rites of purging.
+Three objects carry the cult. The fire-brand is a torch of consecrated wood, used in rites of purgation. The **Fragment of the Ring** is a broken metal circle worn at the neck, signifying the worshipper's willingness to be broken and remade. The ash-mark is a smear of consecrated ash applied to the brow in rites of purging.
 
 The **Agni-Pralayas**, his spirits of purging fire, come in wildfire, in volcanic eruption and in fever-epidemic, and in the renewal-fires the devout kindle on purpose. The faithful regard them with awe and with dread.
 

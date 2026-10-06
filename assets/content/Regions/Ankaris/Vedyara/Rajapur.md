@@ -14,13 +14,13 @@ data:
   government: rajaprjnpd
 ---
 
-Rājapur (1,800) is the capital of the [[affiliation-rajaprjnpd|Rājapur Janapada]] and stands on the ground of the kingdom it replaced. The dynastic city was much the larger place. Eighteen hundred people now live inside a street-plan laid out for several times that many, and the empty ground shows in every quarter.
+**Rājapur** (1,800) is the capital of the [[affiliation-rajaprjnpd|Rājapur Janapada]] and stands on the ground of the kingdom it replaced. The dynastic city was much the larger place. Eighteen hundred people now live inside a street-plan laid out for several times that many, and the empty ground shows in every quarter.
 
 The palace is gone. Its stones went into the enlargement of the great Vyālendra temple, and its cellars stand open to the sky at the north end of the town, where children play and nobody builds.
 
 ## The Temple and its Courts
 
-The temple is the town. Its outer courts hold the four-story granary that is still the common store, the Rājavalī Library, the school that takes the children of every constituent village, and the pilgrim hostel. The sabhā meets in the great hall. Do not plan to arrive on the Day of the Dissolution, the anniversary of the decree: no business is done and no labor performed, and the whole town is in the precinct hearing the decree read. The Memory-Keeper's house stands against the south wall of the precinct, and the genealogies are kept in it.
+The temple is the town. Its outer courts hold the four-story granary that is still the common store, the [[place-rajavalilib|Rājavalī Library]], the school that takes the children of every constituent village, and the pilgrim hostel. The sabhā meets in the great hall. Do not plan to arrive on the **Day of the Dissolution**, the anniversary of the decree: no business is done and no labor performed, and the whole town is in the precinct hearing the decree read. The **Memory-Keeper**'s house stands against the south wall of the precinct, and the genealogies are kept in it.
 
 At the spring festival of Vyālendra the town takes perhaps fifteen thousand visitors, eight times its own number. They are lodged in the hostel, in the courts, in the granary yard and in the fields beyond, and the janapada spends a tenth of the year's surplus feeding them.
 

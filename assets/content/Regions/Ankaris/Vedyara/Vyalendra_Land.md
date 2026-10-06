@@ -16,11 +16,11 @@ data:
 
 ## Overview
 
-The indigo announces Vyālendra Land well before the first village does: a stain on the air and the water that tells a traveler the dyers are working upstream. The land is the country the city-state of [[affiliation-vyalendra2|Vyālendra]] holds, the Nilacharī valleys of southern [[place-vedyarargn|Vedyara]] where cotton fields run to the foot of the hills on both sides, together with the river road that carries the finished cloth down to the sea. The city sits in the middle of it, and the land is a single manufacture spread across a hundred villages—carders in one, spinners in the next, dyers wherever the water is right, and weavers everywhere.
+The indigo announces **Vyālendra Land** well before the first village does: a stain on the air and the water that tells a traveler the dyers are working upstream. The land is the country the city-state of [[affiliation-vyalendra2|Vyālendra]] holds, the **Nilacharī** valleys of southern [[place-vedyarargn|Vedyara]] where cotton fields run to the foot of the hills on both sides, together with the river road that carries the finished cloth down to the sea. The city sits in the middle of it, and the land is a single manufacture spread across a hundred villages—carders in one, spinners in the next, dyers wherever the water is right, and weavers everywhere.
 
 ## How the land is held
 
-The land is **held**, and it is held by the loom. A village belongs to the house of the **Loom-Master** whose guild has carded, spun or dyed there since anyone can name, and the holding passes down the craft-line with the dye-books and the pattern-books. There is no king above them and there has not been for a long age. The Council the masters sit on is the only body that can take a holding away. It does so about as often as a guild expels a master, which is to say almost never, and then very publicly.
+The land is _held_, and it is held by the loom. A village belongs to the house of the **Loom-Master** whose guild has carded, spun or dyed there since anyone can name, and the holding passes down the craft-line with the dye-books and the pattern-books. There is no king above them and there has not been for a long age. The Council the masters sit on is the only body that can take a holding away. It does so about as often as a guild expels a master, which is to say almost never, and then very publicly.
 
 The arrangement is not an assembly-republic and should not be mistaken for one. A Vyālendri village has no turn in any sabhā and no voice of its own; what it has is a master, and what the master has is a seat. The cultivators of the cotton land hold use-rights and nothing more, exactly as they would in a janapada, and the difference they feel is whose door they go to.
 

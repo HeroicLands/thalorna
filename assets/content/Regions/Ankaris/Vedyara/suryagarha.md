@@ -15,7 +15,7 @@ data:
   government: vindhyalay
 ---
 
-Sūryāgarha (40,000) is built on the road and not beside it. It is the capital of the kingdom of [[affiliation-vindhyalay|Vindhyālaya]] and stands across the throat of [[place-suryadvara|Sūryadvāra]], the greatest of the northern passes, so that there is no way up onto the wall by that crossing, and no way down off it into Vedyara, that does not go beneath the walls. The city exists because of that one fact and would not otherwise be where it is.
+**Sūryāgarha** (40,000) is built on the road and not beside it. It is the capital of the kingdom of [[affiliation-vindhyalay|Vindhyālaya]] and stands across the throat of [[place-suryadvara|Sūryadvāra]], the greatest of the northern passes, so that there is no way up onto the wall by that crossing, and no way down off it into [[place-vedyarargn|Vedyara]], that does not go beneath the walls. The city exists because of that one fact and would not otherwise be where it is.
 
 The site is a shelf of rock where the gorge narrows to something a wall can be thrown across, with the terraced valleys falling away south behind it and twenty days of ice above it to the fork. Everything the city eats comes up the terrace road. Everything it is rich from comes down the pass.
 
@@ -23,7 +23,7 @@ The site is a shelf of rock where the gorge narrows to something a wall can be t
 
 The citadel is the oldest part and the smallest. It holds the Mahārāja's household, the treasury, the armory and the well, and a garrison that does not stand down when the pass shuts, because a pass that is shut to caravans is not shut to everyone.
 
-Below it, inside the second wall, stand the two halls. The Martial Council meets in the larger, which is a hall in the highland manner—one room, a long fire-trench down the middle, and benches by clan seniority that have not been re-ordered in living memory and are argued about constantly. The Priestly Court meets in the smaller, which is a temple court with a hall attached and was built two centuries after the other. The distance between the two doors is about forty paces, and a great deal of the kingdom's business is done walking it.
+Below it, inside the second wall, stand the two halls. The **Martial Council** meets in the larger, which is a hall in the highland manner—one room, a long fire-trench down the middle, and benches by clan seniority that have not been re-ordered in living memory and are argued about constantly. The **Priestly Court** meets in the smaller, which is a temple court with a hall attached and was built two centuries after the other. The distance between the two doors is about forty paces, and a great deal of the kingdom's business is done walking it.
 
 The councils are sitting at the same time only in the open season, because the senior chieftains of the far valleys cannot reach the city in winter. What that means in practice is that questions the Priestly Court would rather settle alone get raised in the months when it can, and that a Mahārāja who wants a thing done without the chieftains has a window for it. Both councils know this. The present disagreement about who is to be acclaimed next has been running long enough that each side now schedules around the other.
 
@@ -55,7 +55,7 @@ Every few decades an imperial envoy arrives, is received with great courtesy, an
 
 South of the city the road drops through the terraced valleys that feed it—rice and barley on the lower steps, sheep and goats and small mountain cattle above—and goes on down to the lowland market towns where the kingdom's grain, its cheap steel and its dried milk-curds change hands.
 
-It is an easy road and a well-kept one, and it is the reason Sūryāgarha is a city rather than a fort. The crown's writ runs along it and along the pass-road above, and not much beyond either. Out in the side valleys the clan-chieftains govern, and a Sāmanta who has held a crossing against a winter raid comes to the city when it suits him and is received at the citadel with the honor due a senior ushtaka of the temples.
+It is an easy road and a well-kept one, and it is the reason Sūryāgarha is a city rather than a fort. The crown's writ runs along it and along the pass-road above, and not much beyond either. Out in the side valleys the clan-chieftains govern, and a **Sāmanta** who has held a crossing against a winter raid comes to the city when it suits him and is received at the citadel with the honor due a senior ushtaka of the temples.
 
 ## See Also
 

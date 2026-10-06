@@ -94,7 +94,7 @@ sohl: {system: {commonSkills: [vedyarlng]}}
 # terran_analog: "Medieval South Indian temple-republic with mineral-resource wealth—Chola-era brahmadeya village federation centered on a gold-bearing mountain, governed by an unusually elaborate constitutional structure designed to prevent the concentration of mineral wealth in any one lineage or temple"
 ---
 
-The **Suvarnagiri Janapada** sits on a mountain of gold and has made nobody rich from it in fifteen centuries. It is the federation of the villages of the Bhārava highlands, thirty-five thousand people governed jointly through three great temples of **Mahájaya** that ring the slopes of the gold-bearing mountain the janapada is named for: _suvarna_ (gold), _giri_ (mountain). It is one of the wealthier and more elaborately governed janapadas of the [[affiliation-janpdsvdyr|Mahā-Sangha]], and every Vedyari treatise on political economy takes it as the case-study in how a temple-republic holds mineral wealth without failing and without turning itself into a kingdom. The janapada holds the land of [[place-suvarnagirijnpd|Suvarnagiri Janapada]], and it is known beyond its borders for its gold, its jewelers and its constitution, in that order.
+The **Suvarnagiri Janapada** sits on a mountain of gold and has made nobody rich from it in fifteen centuries. It is the federation of the villages of the [[place-bharavarivr|Bhārava]] highlands, thirty-five thousand people governed jointly through three great temples of [[affiliation-mahajaya|Mahájaya]] that ring the slopes of the gold-bearing mountain the janapada is named for: _suvarna_ (gold), _giri_ (mountain). It is one of the wealthier and more elaborately governed janapadas of the [[affiliation-janpdsvdyr|Mahā-Sangha]], and every Vedyari treatise on political economy takes it as the case-study in how a temple-republic holds mineral wealth without failing and without turning itself into a kingdom. The janapada holds the land of [[place-suvarnagirijnpd|Suvarnagiri Janapada]], and it is known beyond its borders for its gold, its jewelers and its constitution, in that order.
 
 That it has neither failed nor become a kingdom in fifteen centuries is the central political fact of Suvarnagiri.
 
@@ -104,7 +104,7 @@ The place to understand it is the rail of the [[place-weighingstn|weighing-stati
 
 The [[place-goldmountain|Gold Mountain]] stands at the head of the [[place-bharavarivr|Bhārava]]. Its gold is alluvial, won from the wash of its streams by panning, and nobody digs into the mountain.
 
-The gold sustains more than it enriches. Across the centuries the income has built and kept the three great temples, paid for the temple schools and the training of priests, built the irrigation works that let the villages farm difficult upland ground, and filled the famine reserves. The rest goes to the **Bhārava-Devasthāna**, the [[place-bhrvdvsthna|endowed network of free hostels]] for traveling priests and ascetics, kept at twenty-three sites along the great pilgrimage routes. Very little gold has gone into private hands, and the constitution is what keeps it out.
+The gold sustains more than it enriches. Across the centuries the income has built and kept the three great temples, paid for the temple schools and the training of priests, built the irrigation works that let the villages farm difficult upland ground, and filled the famine reserves. The rest goes to the [[place-bhrvdvsthna|Bhārava-Devasthāna]], the [[place-bhrvdvsthna|endowed network of free hostels]] for traveling priests and ascetics, kept at twenty-three sites along the great pilgrimage routes. Very little gold has gone into private hands, and the constitution is what keeps it out.
 
 ## The Three Temples
 
@@ -142,7 +142,7 @@ A foreign buyer should understand what the cap means for him. No household holds
 
 ## Religion
 
-Suvarnagiri is a Mahájaya janapada through and through. The preserver-goddess of the [[affiliation-varakpnthn|Varnaka pantheon]] holds all three great temples, and the gold serves her dharma. The Suvarnagiri tradition reads her as the **balancer**, the force that holds the cosmic order steady against Rásikara's chaos and against Vyālendra's unchecked making, and it reads the Gold Constitution as that balance kept in the world.
+Suvarnagiri is a Mahájaya janapada through and through. The preserver-goddess of the [[affiliation-varakpnthn|Varnaka pantheon]] holds all three great temples, and the gold serves her dharma. The Suvarnagiri tradition reads her as the **balancer**, the force that holds the cosmic order steady against [[affiliation-rasikara|Rásikara]]'s chaos and against [[lore-vyalendradty|Vyālendra]]'s unchecked making, and it reads the Gold Constitution as that balance kept in the world.
 
 Shrines to Vyālendra and Rásikara stand throughout the villages. The Rásikara shrine sits on the back slope of the mountain at the head of [[place-rasikarastrm|a small stream that yields no gold]], and panning in that stream is forbidden by tradition. Not all of the mountain's wealth belongs to Mahájaya's order, and Rásikara is allowed his own portion.
 
@@ -150,19 +150,19 @@ The **Weighing** is Suvarnagiri's own rite. At each new moon, at the weighing-st
 
 ## Defense
 
-The gold makes Suvarnagiri a better target than most janapadas, and it is defended more seriously than most. It keeps a permanent body of three hundred trained guards, drawn from its Senāja households and paid from the common share, and observation posts on the mountain's higher slopes. The three temples are fortified well enough to hold any likely raiding force until help arrives.
+The gold makes Suvarnagiri a better target than most janapadas, and it is defended more seriously than most. It keeps a permanent body of three hundred trained guards, drawn from its **Senāja** households and paid from the common share, and observation posts on the mountain's higher slopes. The three temples are fortified well enough to hold any likely raiding force until help arrives.
 
 The help is the more important defense. Two neighboring kingdoms stand as Suvarnagiri's formal patrons, and several nearby janapadas help it by informal arrangement. The small mountain kingdom of [[affiliation-bharyastan|Bharyastān]] is bound by standing treaty to send military assistance in exchange for an annual gold tribute. Suvarnagiri has not lost gold to a raid in eight hundred years and has not been seriously attacked in three centuries.
 
 ## Outside the Compact
 
-Suvarnagiri is the one polity of consequence in inland Vedyara that holds no seat in the [[affiliation-assmblycmpct|Assembly of the Compact]], the standing agreement through which [[affiliation-chandrapur|Chandrapur]], [[affiliation-vyalendra2|Vyālendra]], [[affiliation-vindhyalay|Vindhyālaya]], [[affiliation-rajaprjnpd|Rājapur]] and [[affiliation-dhnrktjnpd|Dhanurkota]] hold the Vedyaran banking system in common. It stays out by its own constitution, and nobody excluded it. A seat obliges its holder to let the [[affiliation-mrchntclctvvdyr|Merchant Collective]]'s factors weigh, assay and lend against the metal passing through its territory. The Gold Constitution vests the weighing in the temple station and the lending in the common treasury, where no outside house may reach either, and the Collective's factors may not set foot in the weighing yard.
+Suvarnagiri is the one polity of consequence in inland [[place-vedyarargn|Vedyara]] that holds no seat in the [[affiliation-assmblycmpct|Assembly of the Compact]], the standing agreement through which [[affiliation-chandrapur|Chandrapur]], [[affiliation-vyalendra2|Vyālendra]], [[affiliation-vindhyalay|Vindhyālaya]], [[affiliation-rajaprjnpd|Rājapur]] and [[affiliation-dhnrktjnpd|Dhanurkota]] hold the Vedyaran banking system in common. It stays out by its own constitution, and nobody excluded it. A seat obliges its holder to let the [[affiliation-mrchntclctvvdyr|Merchant Collective]]'s factors weigh, assay and lend against the metal passing through its territory. The Gold Constitution vests the weighing in the temple station and the lending in the common treasury, where no outside house may reach either, and the Collective's factors may not set foot in the weighing yard.
 
 The arrangement suits Suvarnagiri and irritates everybody else. The Assembly would like a sixth seat and the gold behind it. The Twenty-Eight would like the cap kept exactly where it is. The sabhā has to be seen to want both, since the janapada's gold reaches the coast anyway, through buyers who pay in coin at the edge of the territory and ask no questions inside it.
 
 ## Famous Figures
 
-- **Padmashrī Kanaka-Hasta**: the present convening priest, of Middle Suvarnagiri, in her fifties, and expected to be a major voice at the next Mahā-Mela.
+- **Padmashrī Kanaka-Hasta**: the present convening priest, of Middle Suvarnagiri, in her fifties, and expected to be a major voice at the next **Mahā-Mela**.
 - **Suryamāhā Hiranya-Pāda**: senior priest of Upper Suvarnagiri, in his seventies, author of the major scholarly commentaries on the Gold Constitution.
 - **The Twenty-Eight**: the heads of the twenty-eight hereditary panning families. They meet quarterly to coordinate the work, settle disputes between families and put one view to the sabhā on any question touching the panning. They are no constitutional body, but they have a recognized voice in any sabhā discussion of the panning, and their joint pronouncements carry weight.
 - [[being-pdmvldhnrvdkrtrj|Padmavali Dhanurvedakirtiraja]]: the most prominent Suvarnagiri-born scholar of the wider Vedyari classical tradition, who teaches at one of the great academies of Chandrapur. Her commentary on the Gold Constitution is a major contribution to Vedyari political philosophy.

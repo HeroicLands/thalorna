@@ -18,7 +18,7 @@ data:
 
 A carter on the terrace road, setting a first-time passenger down at the foot of the climb, gives him the lay of the land in the order he will need it. "Rice and barley on the steps below you, sheep and goats above, snow-water in every ditch, and a stone fortress where the road narrows. Everything you buy in the north came up this way, and everything the north sells goes down it."
 
-Vindhyālaya is the land of the highland kingdom of [[affiliation-vindhyalay|Vindhyālaya]], the northern passes of [[place-vedyarargn|Vedyara]] through the [[place-graznmntns|Grazian Mountains]]. The southern Vedyari kingdoms are river valleys, tropical ports and the slow rhythms of farming and craft. Vindhyālaya is pine-clad ridges, snow-fed rivers, and stone fortresses built into the passes themselves.
+[[affiliation-vindhyalay|Vindhyālaya]] is the land of the highland kingdom of [[affiliation-vindhyalay|Vindhyālaya]], the northern passes of [[place-vedyarargn|Vedyara]] through the [[place-graznmntns|Grazian Mountains]]. The southern Vedyari kingdoms are river valleys, tropical ports and the slow rhythms of farming and craft. Vindhyālaya is pine-clad ridges, snow-fed rivers, and stone fortresses built into the passes themselves.
 
 ## Settlements
 
@@ -58,7 +58,7 @@ The terrain limits highland farming. The great terraced fields of the lower vall
 ## Notable Features
 
 - [[place-suryagarha|Sūryāgarha]]—the stone capital, a fortress-city of forty thousand built across the throat of [[place-suryadvara|Sūryadvāra]], the greatest northern pass. Every caravan entering or leaving Vedyara by that pass goes beneath its walls, and beyond the throat the road forks north for the Khazryn and northeast for Tānvür. Below the city the terrace road drops through the rice and barley steps to the lowland market towns, and it is the only way anything reaches the capital from inside the kingdom.
-- [[place-pssshrines|The Pass-Shrines]]—a chain of Varnaka temples built at the high points of the caravan roads, where travelers stop to leave offerings before attempting the descent. The shrines are kept by a hereditary line of ushtakas who live year-round at altitudes that would kill an unaccustomed lowlander within a week.
+- [[place-pssshrines|The Pass-Shrines]]—a chain of [[affiliation-varakpnthn|Varnaka]] temples built at the high points of the caravan roads, where travelers stop to leave offerings before attempting the descent. The shrines are kept by a hereditary line of ushtakas who live year-round at altitudes that would kill an unaccustomed lowlander within a week.
 - [[place-slvrgorges|The Silver Gorges]]—steep valleys in the eastern mountains, worked for lapis and silver since before the founding of the kingdom, and carrying [[place-tamradvara|Tāmradvāra]] up to the marches beyond. The mines are held by hereditary smithing clans whose prerogatives predate the Mahārāja's own charter.
 
 ## See Also

@@ -71,13 +71,13 @@ sohl: {system: {commonSkills: [vedyarlng]}}
 
 The **Janapadas of Vedyara** are some six or seven thousand small temple-republics, each a handful of villages governing itself from the hall of one temple, and the **Mahā-Sangha** (Great Council) is what they have instead of a state. It convenes once in twelve years, on a plain that is empty the rest of the time, and does not govern. The janapadas hold most of [[place-vedyarargn|Vedyara]]'s people and most of its political life, alongside the great city-states of the coast and the river and the pass-kingdom of [[affiliation-vindhyalay|Vindhyālaya]]. The name belongs to the whole class and to no one polity in it.
 
-A traveling merchant from [[place-provenzrgn|Provènzia Region]] passing through Vedyara meets a man who calls himself a citizen of the **Suvarnagiri Janapada**, another who calls himself a citizen of the **Dhanurkota Janapada**, and a third who calls himself simply a **Vedyari**. All three are correct. The Mahā-Sangha is what lets the third answer mean something while the first two are in dispute over a water-channel.
+A traveling merchant from [[place-provenzrgn|Provènzia Region]] passing through Vedyara meets a man who calls himself a citizen of the [[affiliation-suvrgrjnpd|Suvarnagiri Janapada]], another who calls himself a citizen of the [[affiliation-dhnrktjnpd|Dhanurkota Janapada]], and a third who calls himself simply a [[lore-vedyariclt|Vedyari]]. All three are correct. The Mahā-Sangha is what lets the third answer mean something while the first two are in dispute over a water-channel.
 
-A janapada's **Dūta** (envoy), the man its sabhā sends to a neighbor's hall, to a patron court and to the Mela, is the person who explains this to a foreigner most often, and he starts with the temple. "You are looking for the palace. There is none. Find the biggest temple in the valley and go in by the granary door; the people you need are all inside, and none of them is in charge."
+A janapada's **Dūta** (envoy), the man its sabhā sends to a neighbor's hall, to a patron court and to the **Mela**, is the person who explains this to a foreigner most often, and he starts with the temple. "You are looking for the palace. There is none. Find the biggest temple in the valley and go in by the granary door; the people you need are all inside, and none of them is in charge."
 
 ## What a Janapada Is
 
-A janapada is a federated cluster of villages governed through a **sabhā** (assembly) that meets in the great hall of the central temple. The word means roughly "the footprint of a people." The temple is the political center, the legal record office, the school, the granary insurance pool and, in the larger janapadas, the bank.
+A janapada is a federated cluster of villages governed through a sabhā (assembly) that meets in the great hall of the central temple. The word means roughly "the footprint of a people." The temple is the political center, the legal record office, the school, the granary insurance pool and, in the larger janapadas, the bank.
 
 The senior priest of the central temple usually convenes the sabhā. Its members are the householder representatives of each constituent village, the heads of the principal artisan and merchant guilds, and certain hereditary lineage-elders whose families have long been attached to the temple's foundation.
 
@@ -93,9 +93,9 @@ It is also durable. Temples burn, droughts empty villages, and kingdoms absorb s
 
 The Mahā-Sangha is the coordination between janapadas, and it is not a government. It does not legislate, does not tax, and keeps no standing institution between gatherings. What it does is convene.
 
-It convenes at the great pilgrimage festivals, at the seasonal markets that draw delegations from many janapadas, and above all at the **Mahā-Mela**, the twelve-yearly festival held on [[place-melaground|the Mela Ground]], where the Mahānadi takes its greatest tributary in central Vedyara. The Mela draws a quarter of a million pilgrims, with the senior priests and elders of every janapada that can spare a delegation. It runs for forty days: the first thirty are the religious observances, and the last ten are the business of the confederation.
+It convenes at the great pilgrimage festivals, at the seasonal markets that draw delegations from many janapadas, and above all at the **Mahā-Mela**, the twelve-yearly festival held on [[place-melaground|the Mela Ground]], where the [[place-mahanadi|Mahānadi]] takes its greatest tributary in central Vedyara. The Mela draws a quarter of a million pilgrims, with the senior priests and elders of every janapada that can spare a delegation. It runs for forty days: the first thirty are the religious observances, and the last ten are the business of the confederation.
 
-Seats at the Mela are counted by **river-circuit**. Every janapada belongs to the circuit of the water it drinks: the Chandramahī, the Sarvada, the Mahānadi, the Bhārava, or the coast for those that drink from none of the four. A circuit speaks through its **Circuit-Speaker**, chosen for the gathering, so a janapada's neighbors on the roll are the ones upstream and downstream of it and not the ones over the ridge. The kingdoms and city-states that hold a seat hold it in their own right and belong to no circuit.
+Seats at the Mela are counted by **river-circuit**. Every janapada belongs to the circuit of the water it drinks: the [[place-chandrmahi|Chandramahī]], the [[place-sarvadarivr|Sarvada]], the Mahānadi, the [[place-bharavarivr|Bhārava]], or the coast for those that drink from none of the four. A circuit speaks through its **Circuit-Speaker**, chosen for the gathering, so a janapada's neighbors on the roll are the ones upstream and downstream of it and not the ones over the ridge. The kingdoms and city-states that hold a seat hold it in their own right and belong to no circuit.
 
 Those ten days settle the next twelve years, in open consultation between delegations:
 
@@ -119,7 +119,7 @@ A city-state often keeps informal patron-client relations with a number of nearb
 
 ## Defense
 
-The Janapadas of Vedyara keep no central army. Each janapada raises its own militia from its villages at need, the Senāja households providing a core of trained fighters and the Karmāja households the numbers. Most janapadas field a few hundred men on short notice and a few thousand on a longer call-up. That is enough for banditry, for a raid out of a neighboring kingdom in dispute, and for keeping order at home. It is not enough for a campaign or a major invasion.
+The Janapadas of Vedyara keep no central army. Each janapada raises its own militia from its villages at need, the **Senāja** households providing a core of trained fighters and the **Karmāja** households the numbers. Most janapadas field a few hundred men on short notice and a few thousand on a longer call-up. That is enough for banditry, for a raid out of a neighboring kingdom in dispute, and for keeping order at home. It is not enough for a campaign or a major invasion.
 
 The answer to a serious threat is the patron-client relationship with a nearby city-state, or inland with a regional kingdom. The janapada sends grain, labor and sometimes auxiliary troops; the patron sends the protection of its standing forces.
 

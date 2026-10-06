@@ -8,9 +8,9 @@ tags: [sacred, temple, inland]
 data: {demonym: null, lore: [], parents: [dhanurkotajnpd], population: null, packFolder: vedyara}
 ---
 
-The Mahájaya temple keeps a vigil for men who are not there. On the night before any major engagement involving Dhanurkoti graduates, anywhere in Vedyara, its bowmen-priests stay awake for them.
+The **Mahájaya temple** keeps a vigil for men who are not there. On the night before any major engagement involving Dhanurkoti graduates, anywhere in [[place-vedyarargn|Vedyara]], its bowmen-priests stay awake for them.
 
-The **Mahájaya temple** inside [[place-bowfort|the Bow-Fort]] is the religious and political heart of the [[affiliation-dhnrktjnpd|Dhanurkota Janapada]], and one of the major establishments of the goddess in inland Vedyara. Its great hall is where the sabhā meets, and its senior priest convenes it.
+The Mahájaya temple inside [[place-bowfort|the Bow-Fort]] is the religious and political heart of the [[affiliation-dhnrktjnpd|Dhanurkota Janapada]], and one of the major establishments of the goddess in inland Vedyara. Its great hall is where the sabhā meets, and its senior priest convenes it.
 
 Mahájaya is the preserver-goddess of the [[affiliation-varakpnthn|Varnaka pantheon]], mistress of order, of prosperity and of the keeping of dharma. She suits a janapada whose whole identity is disciplined martial training in the service of legitimate authority, and every Dhanurkoti sermon on the subject says so.
 
@@ -26,7 +26,7 @@ The Watch is the one that costs. A janapada of thirty thousand people has gradua
 
 ## The Priesthood
 
-The Ritūja households of the janapada sit in and around the temple, and the donations of academy graduates have made them wealthy by janapada standards. The senior priest is one of the senior voices at every Mahā-Mela, and the four academy masters sit with him at every formal session of the sabhā.
+The **Ritūja** households of the janapada sit in and around the temple, and the donations of academy graduates have made them wealthy by janapada standards. The senior priest is one of the senior voices at every **Mahā-Mela**, and the four academy masters sit with him at every formal session of the sabhā.
 
 The temple deals with the cremation-ground priests outside the walls at arm's length, and has done so for a very long time.
 

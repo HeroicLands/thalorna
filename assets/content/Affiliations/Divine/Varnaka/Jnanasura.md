@@ -58,7 +58,7 @@ sohl:
 
 "Touch the medallion before you sit down, not after, and read one line aloud from the stand by the door." The keeper of a school's shrine says it to a first-year on the evening before the examination. The line is whichever one the book lies open to, and nobody is excused it, scholar or soldier.
 
-Jñānasūra is the god of wisdom and of the work of the mind, and his cult is the most widely housed in Vedyara. Every major Vedyaran school, library and academy keeps a shrine to him. Those who serve there are among the most learned people in the world, trained as deeply in the sciences and the poetic arts as in theology, and they teach and advise at royal courts, in temple hierarchies and on guild councils. He is also the patron of warriors, because clarity of thought before the blow counts as much as strength of arm.
+[[lore-jnanasuradty|Jñānasūra]] is the god of wisdom and of the work of the mind, and his cult is the most widely housed in [[place-vedyarargn|Vedyara]]. Every major Vedyaran school, library and academy keeps a shrine to him. Those who serve there are among the most learned people in the world, trained as deeply in the sciences and the poetic arts as in theology, and they teach and advise at royal courts, in temple hierarchies and on guild councils. He is also the patron of warriors, because clarity of thought before the blow counts as much as strength of arm.
 
 ### The Shrine
 

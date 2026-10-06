@@ -83,7 +83,7 @@ data:
 sohl: {system: {commonSkills: [vedyarlng]}}
 ---
 
-**Chandrapur**, the "Moon City," cuts the gems of a whole subcontinent and keeps the only standing war-fleet in Vedyara. Its jewelers' work commands prices across all the known realms; royal courts from Provènzia to Tānvür commission pieces from its master craftspeople, and its merchant families have gathered wealth over generations. The city-state holds [[place-chandrapurland|Chandrapur Land]], the lower Chandramahī and its delta, and [[place-chandrapur2|Chandrapur]] at the head of the delta is its seat.
+**Chandrapur**, the "Moon City," cuts the gems of a whole subcontinent and keeps the only standing war-fleet in [[place-vedyarargn|Vedyara]]. Its jewelers' work commands prices across all the known realms; royal courts from Provènzia to Tānvür commission pieces from its master craftspeople, and its merchant families have gathered wealth over generations. The city-state holds [[place-chandrapurland|Chandrapur Land]], the lower [[place-chandrmahi|Chandramahī]] and its delta, and [[place-chandrapur2|Chandrapur]] at the head of the delta is its seat.
 
 Its government is a bargain between two parties who cannot do without each other. The crown cannot cut a stone, and the nine great houses that cut them cannot clear a cargo.
 
@@ -93,7 +93,7 @@ A newcomer with stone to sell learns this first from the crown's assayers at the
 
 The guildhalls keep a strict rule. An artisan apprentices for years before he earns the right to a workshop of his own, and Chandrapur's name for excellence has never been spoiled. The trade runs as a sequence of stages: a stone is assayed in one street, sawn in another, cut in a third, polished in a fourth and set in a fifth, and a house that holds a stage has held it for generations.
 
-Wealth has made Chandrapur cosmopolitan. Traders and craftspeople from across the realms have settled here, and the markets speak a dozen languages. A foreign factor with no house and no charter may buy on the Bazaar floor exactly as a Kulina may, which is unusual in Vedyara and is the largest single reason the foreign trade comes here.
+Wealth has made Chandrapur cosmopolitan. Traders and craftspeople from across the realms have settled here, and the markets speak a dozen languages. A foreign factor with no house and no charter may buy on the Bazaar floor exactly as a **Kulina** may, which is unusual in Vedyara and is the largest single reason the foreign trade comes here.
 
 The temples of the [[affiliation-varakpnthn|Varnaka]] are the older seat of power. Their priests mediate disputes between the merchant families and bless the jewelcrafters' work before it begins, and a cutter who begins a stone without the blessing is not employed again. The city's prosperity, its people hold, flows from divine favor.
 
@@ -101,13 +101,13 @@ The temples of the [[affiliation-varakpnthn|Varnaka]] are the older seat of powe
 
 Chandrapur keeps a king, which among the great cities of the coast is the uncommon arrangement. The **Mahārāja of the Moon House** rules by descent, and the temples confirm the rule: the rites the Varnaka ushtakas perform at an accession are what make the man king, and no claimant they would not crown has ever reigned.
 
-The Mahārāja rules with a court, and the court is the **Nine Houses**. Their heads sit as **Kulina**. Each holds one of the nine seats, the charters of his own trade, and the quarter of the city his house has always kept, and a dispute between two men of one quarter goes to its Kulina. The seats descend within the houses; the crown confirms each succession and has twice refused one.
+The Mahārāja rules with a court, and the court is the **Nine Houses**. Their heads sit as Kulina. Each holds one of the nine seats, the charters of his own trade, and the quarter of the city his house has always kept, and a dispute between two men of one quarter goes to its Kulina. The seats descend within the houses; the crown confirms each succession and has twice refused one.
 
-A Kulina is not a Sāmanta and holds no land of the king's grant. His standing is his house's charter, and a house that loses its trade loses its seat within a generation. That is the difference between this court and a kingdom's.
+A Kulina is not a **Sāmanta** and holds no land of the king's grant. His standing is his house's charter, and a house that loses its trade loses its seat within a generation. That is the difference between this court and a kingdom's.
 
 The court sits in [[place-moonhouse|the Moon House]] above the river stair, on nine seats of one height. The crown's own revenue comes from the tenth district, the waterfront and market ground that belongs to no house: the Great Bazaar, the assay, the customs and the mint are the crown's. A crown that could not tax the quarters taxes what passes between them, and everything passes between them there.
 
-The rest of the court fills out the ordinary offices of a Vedyari crown. The **Rājñī** holds her own revenues, household and voice; the **Yuvarāja** is commonly given the customs of the river mouth to govern as his apprenticeship; the **Purohita** performs the rites the king's legitimacy rests on; the **Koshādhyaksha** answers for the revenue, the gem-assay and the mint; and the **Ganaka** fixes the auspicious hour for sailings, marriages and coronations. The reckoners of the [[place-ganakahall|Ganaka-shala]] compute the civil year here, and a court that follows them may find itself a day apart from a court that follows the year sighted at the Sūrya temple.
+The rest of the court fills out the ordinary offices of a Vedyari crown. The **Rājñī** holds her own revenues, household and voice; the **Yuvarāja** is commonly given the customs of the river mouth to govern as his apprenticeship; the **Purohita** performs the rites the king's legitimacy rests on; the **Koshādhyaksha** answers for the revenue, the gem-assay and the mint; and the **Ganaka** fixes the auspicious hour for sailings, marriages and coronations. The reckoners of the [[place-ganakahall|Ganaka-shala]] compute the civil year here, and a court that follows them may find itself a day apart from a court that follows the year sighted at the [[place-suryatempl|Sūrya temple]].
 
 ## The Fleet
 
@@ -127,7 +127,7 @@ Chandrapur is patron to the [[affiliation-rajaprjnpd|Rājapur Janapada]] under a
 
 ## Commerce and Currency
 
-Chandrapur strikes Vedyara's silver and gold. The **Moon House** strikes the silver [[miscgear-candra|candra]] of ordinary formal commerce, and the gold [[miscgear-suvarna|suvarna]] is struck here from Suvarnagiri gold; the copper [[miscgear-tamra|tāmra]] is struck here as at every court. The city holds a seat in the [[affiliation-assmblycmpct|Assembly of the Compact]], which sits here each spring, and the [[affiliation-mrchntclctvvdyr|Merchant Collective]]'s letters of credit settle the larger trades. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
+Chandrapur strikes Vedyara's silver and gold. The Moon House strikes the silver [[miscgear-candra|candra]] of ordinary formal commerce, and the gold [[miscgear-suvarna|suvarna]] is struck here from Suvarnagiri gold; the copper [[miscgear-tamra|tāmra]] is struck here as at every court. The city holds a seat in the [[affiliation-assmblycmpct|Assembly of the Compact]], which sits here each spring, and the [[affiliation-mrchntclctvvdyr|Merchant Collective]]'s letters of credit settle the larger trades. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
 
 ## See Also
 

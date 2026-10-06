@@ -14,7 +14,7 @@ data:
   government: suvrgrjnpd
 ---
 
-**Vanapāda** is a charcoal village at the forest edge, in the [[place-suvarnagirijnpd|Suvarnagiri Janapada]]. Its burners cut the slope wood for the jewelers of Lower Suvarnagiri, which is the wood the smelters of [[place-tamravana|Tāmravana]] also want. That makes Vanapāda the jewelers' supplier in the long quarrel over the cutting-rotation, a quarrel the sabhā takes up about once in five years.
+**Vanapāda** is a charcoal village at the forest edge, in the [[place-suvarnagirijnpd|Suvarnagiri Janapada]]. Its burners cut the slope wood for the jewelers of **Lower Suvarnagiri**, which is the wood the smelters of [[place-tamravana|Tāmravana]] also want. That makes Vanapāda the jewelers' supplier in the long quarrel over the cutting-rotation, a quarrel the sabhā takes up about once in five years.
 
 ## See Also
 

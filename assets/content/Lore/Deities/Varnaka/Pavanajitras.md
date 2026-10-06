@@ -8,9 +8,9 @@ tags: []
 data: {packFolder: deitiesvarnaka}
 ---
 
-_The Wandering Wind—a loose company of gauze-robed figures running barefoot, scarves streaming._
+_[[affiliation-pavanajitras|The Wandering Wind]]—a loose company of gauze-robed figures running barefoot, scarves streaming._
 
-The Pavanajitras are a company of minor wind-spirits. They guide travelers, fill a merchant-ship's sail with a favorable gale, and whisper the road's omens to anyone who has learned to listen.
+The [[affiliation-pavanajitras|Pavanajitras]] are a company of minor wind-spirits. They guide travelers, fill a merchant-ship's sail with a favorable gale, and whisper the road's omens to anyone who has learned to listen.
 
 Vedyari theology places them below the pantheon's gods and above the ordinary local spirit. They are not celestial in the full sense, and they are not bound to one place as a river-spirit or a field-spirit is bound. They are prayed to, as the greater gods are. No one names them individually, as no one names the lesser spirits, and the iconography favors the company over any figure within it.
 

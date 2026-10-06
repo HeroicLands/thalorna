@@ -93,13 +93,13 @@ The work is written in the mathematical and astronomical notation that is taught
 
 ### The Year, and the Day the Two Methods Differ
 
-The public year of the [[lore-mdhvndrcnt|Mādhavendra count]] is sighted—by the [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]], at the Sūrya temple above [[place-chandrprbh|Chandraprabhava]], where the Chandramahī comes out of the ice. The college computes the same year instead, and the two figures are not always the same figure.
+The public year of the [[lore-mdhvndrcnt|Mādhavendra count]] is sighted—by the [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]], at the [[place-suryatempl|Sūrya temple]] above [[place-chandrprbh|Chandraprabhava]], where the [[place-chandrmahi|Chandramahī]] comes out of the ice. The college computes the same year instead, and the two figures are not always the same figure.
 
 A single day is enough to move a Weighing, a coronation or a festival, and neither method is dropped for the other. A court declares which it follows and lives with the consequence, and the declaration is a political act disguised as an administrative one: to follow the computation is to say the temple's sighting is a ceremony, and to follow the sighting is to say the college is a trade.
 
 ### Who Is Admitted
 
-The college examines in open hall and publishes the question with the answer. It takes a candidate on what he computes and not on his wrist-line, and it has held to that for long enough that the practice is no longer argued about—only worked around. A Karmāja who passes the boards is a Ganaka, and a court that will not seat a Karmāja hires him through a Dhanāja merchant instead and pays both.
+The college examines in open hall and publishes the question with the answer. It takes a candidate on what he computes and not on his wrist-line, and it has held to that for long enough that the practice is no longer argued about—only worked around. A **Karmāja** who passes the boards is a Ganaka, and a court that will not seat a Karmāja hires him through a **Dhanāja** merchant instead and pays both.
 
 ### What It Will Not Do
 

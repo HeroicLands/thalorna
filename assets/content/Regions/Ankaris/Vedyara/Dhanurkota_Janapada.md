@@ -91,11 +91,11 @@ sohl: {system: {commonSkills: [vedyarlng]}}
 # terran_analog: "Medieval South Indian temple-republic with a martial-caste specialty—Chola-era brahmadeya village federation centered on a fortified temple complex, distinguished by hereditary archery training traditions"
 ---
 
-The **Dhanurkota Janapada** trains the archers of every kingdom in Vedyara, and it will train a student of any station, the lowest included. It is the federation of the villages of the upper Sarvada valley, governed jointly through the great hall of the **Mahájaya temple** inside the [[place-bowfort|bow-fort]] at [[place-dhanurkota|Dhanurkota]], the "Bow-Fort" the janapada takes its name from. The janapada holds the land of [[place-dhanurkotajnpd|Dhanurkota Janapada]].
+The **Dhanurkota Janapada** trains the archers of every kingdom in [[place-vedyarargn|Vedyara]], and it will train a student of any station, the lowest included. It is the federation of the villages of the upper [[place-sarvadarivr|Sarvada]] valley, governed jointly through the great hall of the **Mahájaya temple** inside the [[place-bowfort|bow-fort]] at [[place-dhanurkota|Dhanurkota]], the "Bow-Fort" the janapada takes its name from. The janapada holds the land of [[place-dhanurkotajnpd|Dhanurkota Janapada]].
 
-By any measure but one, Dhanurkota is ordinary. It is one of perhaps eighty janapadas of the **Sarvada circuit**, which is the reckoning that matters at the Mela, where a janapada is counted with the others that drink the same river and not with the whole of the [[affiliation-janpdsvdyr|Mahā-Sangha]]. It is neither large nor wealthy by Vedyari standards. What it has, and what it is known for across the region, is the **Bow**: four ancient archery academies whose graduates have staffed the elite missile companies of every major Vedyari kingdom for fifteen centuries.
+By any measure but one, Dhanurkota is ordinary. It is one of perhaps eighty janapadas of the **Sarvada circuit**, which is the reckoning that matters at the **Mela**, where a janapada is counted with the others that drink the same river and not with the whole of the [[affiliation-janpdsvdyr|Mahā-Sangha]]. It is neither large nor wealthy by Vedyari standards. What it has, and what it is known for across the region, is the **Bow**: four ancient archery academies whose graduates have staffed the elite missile companies of every major Vedyari kingdom for fifteen centuries.
 
-At the **Festival of the Drawn Bow** each spring, an instructor of the High Draw lines up the year's new students in the temple court and gives them the first lesson before anyone touches a stave. "Look at the man beside you. He may be a Senāja's son and he may be a cultivator's, and inside these walls it changes nothing about how either of you is taught. Outside them, the people who hire you will care a great deal. Learn to shoot first. The rest you will learn on the road."
+At the **Festival of the Drawn Bow** each spring, an instructor of the [[place-highdraw|High Draw]] lines up the year's new students in the temple court and gives them the first lesson before anyone touches a stave. "Look at the man beside you. He may be a **Senāja**'s son and he may be a cultivator's, and inside these walls it changes nothing about how either of you is taught. Outside them, the people who hire you will care a great deal. Learn to shoot first. The rest you will learn on the road."
 
 ## The Four Academies
 
@@ -118,7 +118,7 @@ The sabhā has forty-two members, convened by the senior priest of the Mahájaya
 
 Dhanurkota keeps the ordinary Vedyari order of stations, with the Senāja households, who bear arms by right and owe service in the host, unusually numerous and unusually wealthy for a janapada. About one Dhanurkoti in eight is Senāja, against perhaps one in twenty in an ordinary janapada. Their money comes from three places: the fees aspiring archers bring from across Vedyara, the standing retainers paid by patron kingdoms whose officers come out of the academies, and the donations that men the academies trained make to the Mahájaya temple.
 
-The other stations stand in ordinary proportions. The Dhanāja households handle the considerable trade in arms, since Dhanurkoti bows and arrows are sold across Vedyara, together with the provisioning, lodging and equipment-keeping the academies need. The Ritūja households sit in and around the temple, and the senior priest convenes the sabhā. The villages supply the bow itself: bamboo staves from [[place-venuvana|Venuvana]], horn and sinew from [[place-vishanagrama|Vishānagrāma]], reed shafts from [[place-sharavana|Sharavana]], wax for the bindings from [[place-madhupada|Madhupada]].
+The other stations stand in ordinary proportions. The **Dhanāja** households handle the considerable trade in arms, since Dhanurkoti bows and arrows are sold across Vedyara, together with the provisioning, lodging and equipment-keeping the academies need. The **Ritūja** households sit in and around the temple, and the senior priest convenes the sabhā. The villages supply the bow itself: bamboo staves from [[place-venuvana|Venuvana]], horn and sinew from [[place-vishanagrama|Vishānagrāma]], reed shafts from [[place-sharavana|Sharavana]], wax for the bindings from [[place-madhupada|Madhupada]].
 
 Dhanurkota allows more social mobility than most Vedyari polities. The academies accept students of any station, the lowest included, and within the janapada a graduate takes certain Senāja prerogatives whatever his birth: the right to bear arms, the right to hold land in his own name, and the right to speak in the sabhā on military matters. Orthodox opinion finds the custom scandalous. The sabhā holds that the academies would not be what they are without it.
 
@@ -128,11 +128,11 @@ The Mahájaya temple at Dhanurkota is the religious heart of the janapada and on
 
 The temple keeps the standard Mahájaya cycle of daily, weekly, seasonal and annual rites and adds three observances of its own:
 
-- **The Festival of the Drawn Bow**, at the spring equinox, when each year's incoming students present themselves at the temple for blessing.
+- The Festival of the Drawn Bow, at the spring equinox, when each year's incoming students present themselves at the temple for blessing.
 - **The Festival of the Returning**, in autumn, when graduates back from service abroad ritually re-enter the janapada and are welcomed home.
 - **The Watch of the Bow-String**, the night before any major engagement involving Dhanurkoti graduates anywhere in Vedyara, when the temple's bowmen-priests keep vigil for their own.
 
-Shrines to the other Varnaka gods stand throughout the villages. [[place-vyalsrctmp|The temple of Vyālendra]] at the Sarvada source-spring is a popular pilgrimage for those seeking children, and the **Rásikara** shrine in the cremation-ground outside the town receives the dead.
+Shrines to the other Varnaka gods stand throughout the villages. [[place-vyalsrctmp|The temple of Vyālendra]] at the Sarvada source-spring is a popular pilgrimage for those seeking children, and the [[affiliation-rasikara|Rásikara]] shrine in the cremation-ground outside the town receives the dead.
 
 ## Economy
 

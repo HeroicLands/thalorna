@@ -14,7 +14,7 @@ data:
   government: suvrgrjnpd
 ---
 
-Hiranyadhārā (980) lies two miles above Middle Suvarnagiri on the richest of the mountain's streams, and is where most of the gold is won. Nine of the twenty-eight hereditary panning families live here, which is more than any other village holds.
+**Hiranyadhārā** (980) lies two miles above **Middle Suvarnagiri** on the richest of the mountain's streams, and is where most of the gold is won. Nine of the twenty-eight hereditary panning families live here, which is more than any other village holds.
 
 The panning ground is a half-mile of gravel bar and pool. It is worked from the first clear water after the rains until the stream drops in the spring, and a family takes perhaps forty ounces out of it in a good year. Every family's take goes down to the weighing-station the same day and is held there for the new-moon weighing. The village keeps no gold of its own and has no strong-room in it.
 

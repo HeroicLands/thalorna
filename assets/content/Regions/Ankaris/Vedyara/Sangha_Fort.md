@@ -14,7 +14,7 @@ data:
   government: janpdsvdyr
 ---
 
-The **Sangha-fort** stands on the Vedyari col of [[place-sankhadvra|Shankhadvāra]], under the black face of [[place-kalashkhra|Kālashikhara]]. It is a squat stone work with a cistern, a granary, a signal-tower and quarters for sixty men, and it is the only standing garrison the [[affiliation-janpdsvdyr|Mahā-Sangha]] maintains anywhere in Vedyara.
+The **Sangha-fort** stands on the Vedyari col of [[place-sankhadvra|Shankhadvāra]], under the black face of [[place-kalashkhra|Kālashikhara]]. It is a squat stone work with a cistern, a granary, a signal-tower and quarters for sixty men, and it is the only standing garrison the [[affiliation-janpdsvdyr|Mahā-Sangha]] maintains anywhere in [[place-vedyarargn|Vedyara]].
 
 ## Why It Is There
 

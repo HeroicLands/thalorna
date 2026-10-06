@@ -67,9 +67,9 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-A Loom-Master's steward, sending his master's nephew off to his first season in Vyālendra, gives him one rule about the **Twilight House**: "You will be invited, because everyone of standing is. Go. Enjoy it. Say nothing in those rooms you would not say to a creditor, because everything said there is written up before the lamps are out."
+A Loom-Master's steward, sending his master's nephew off to his first season in [[place-vyalendra3|Vyālendra]], gives him one rule about the **Twilight House**: "You will be invited, because everyone of standing is. Go. Enjoy it. Say nothing in those rooms you would not say to a creditor, because everything said there is written up before the lamps are out."
 
-The Twilight House (the House of the Long Evening, after its principal house, [[place-sandhyagrha|Sandhyāgriha]]) is a courtesan establishment and an intelligence network, and the two are one business. Its principal house stands in [[place-vyalendra3|Vyālendra]] and it keeps satellite houses in each major city of [[place-vedyarargn|Vedyara]]. Tradition dates it to the reign of the eleventh and last Mahārāja of Vyālendra, though the date is uncertain. The court is gone and the House is not, which is the fact everything else about it rests on.
+The Twilight House (the [[place-sandhyagrha|House of the Long Evening]], after its principal house, [[place-sandhyagrha|Sandhyāgriha]]) is a courtesan establishment and an intelligence network, and the two are one business. Its principal house stands in [[place-vyalendra3|Vyālendra]] and it keeps satellite houses in each major city of [[place-vedyarargn|Vedyara]]. Tradition dates it to the reign of the eleventh and last Mahārāja of Vyālendra, though the date is uncertain. The court is gone and the House is not, which is the fact everything else about it rests on.
 
 ## Overview
 
@@ -89,14 +89,14 @@ The House is a hierarchical guild of women under the **Mistress of the Long Even
 
 The servants who run the establishment, in its kitchens, its linens and its doors, stand outside these ranks and are taught nothing of the curriculum.
 
-The **handlers** form a second structure beside the first. Every Companion has a handler, usually a former Companion herself, who debriefs her after each engagement, transcribes whatever was overheard or directly extracted, and routes the intelligence to its eventual purchaser. Handlers report not to the Mistress but to the **Council of the Veil**, whose members are not known even to the House's own working women.
+The handlers form a second structure beside the first. Every Companion has a handler, usually a former Companion herself, who debriefs her after each engagement, transcribes whatever was overheard or directly extracted, and routes the intelligence to its eventual purchaser. Handlers report not to the Mistress but to the **Council of the Veil**, whose members are not known even to the House's own working women.
 
 The curriculum is famously rigorous. A graduate recites classical Vedyaran poetry from memory in three court dialects, plays four instruments competently and at least one with mastery, converses on theology, mathematics, mercantile law and military doctrine, and reads a room for influence in the time it takes to be introduced. If required she can also deliver a slow-acting poison, recognize the symptoms of seven cult initiations from a brief social exchange, and pick most locks with a hairpin.
 
 ## Notable Affiliates
 
 - [[being-chndrkrtsndrjyvl|Chandrakîrtisundarî Jayavallî]]: a Companion of growing prominence, recruited into the [[affiliation-adanasreni|Ādānashrenī]] through Twilight House connections. She walks an increasingly precarious line between three masters, her clients, the House and the Guild.
-- **The Mistress of the Long Evening**: the present holder is unnamed in public records. She is widely believed to be a former courtesan once celebrated as the most accomplished of her generation, withdrawn from clients twenty years ago.
+- The Mistress of the Long Evening: the present holder is unnamed in public records. She is widely believed to be a former courtesan once celebrated as the most accomplished of her generation, withdrawn from clients twenty years ago.
 
 ## Intelligence Operations
 
@@ -110,10 +110,10 @@ A standing arrangement joins the House to the Ādānashrenī. The Guild recruits
 
 ## Relations
 
-- **Ādānashrenī**: formal partnership for intelligence sharing and recruitment. Tension arises when the Guild's interests conflict with a high-paying client's.
-- **The [[affiliation-vyalendra2|Loom-Council]] and the [[affiliation-mrchntclctvvdyr|Merchant Collective]]**: clients and unwilling tributaries. Both buy from the House, and both have learned not to discuss matters of consequence in its rooms, a discipline that in practice breaks down across enough evenings and enough wine.
-- **The [[affiliation-velvethand|Velvet Hand]]**: the counterpart in the west. The two organizations keep an uneasy mutual respect and a non-aggression arrangement formalized through intermediaries, and each has standing orders to refuse contracts that target the other directly.
-- **The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]] more broadly**: clients on tier two. The House sells to them, they pay handsomely, and the House refuses to be controlled by any one of them.
+- Ādānashrenī: formal partnership for intelligence sharing and recruitment. Tension arises when the Guild's interests conflict with a high-paying client's.
+- The [[affiliation-vyalendra2|Loom-Council]] and the [[affiliation-mrchntclctvvdyr|Merchant Collective]]: clients and unwilling tributaries. Both buy from the House, and both have learned not to discuss matters of consequence in its rooms, a discipline that in practice breaks down across enough evenings and enough wine.
+- The [[affiliation-velvethand|Velvet Hand]]: the counterpart in the west. The two organizations keep an uneasy mutual respect and a non-aggression arrangement formalized through intermediaries, and each has standing orders to refuse contracts that target the other directly.
+- The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]] more broadly: clients on tier two. The House sells to them, they pay handsomely, and the House refuses to be controlled by any one of them.
 
 ## Identifying Marks
 

@@ -16,17 +16,17 @@ data:
 
 ## Overview
 
-The land of Bhūmipāla is empty between the wells and crowded at them, and that one fact explains its roads, its forts and its kings. It is the land of the march kingdom of [[affiliation-bhumipala|Bhūmipāla]], the northwestern corner of [[place-vedyarargn|Vedyara]]. It runs from the broken foothills of [[place-wstrndscnt|the Western Descent]] south and west to the shore of the [[place-sandhysmdr|Sandhyā-samudra]], and it is the driest country in the subcontinent that anybody farms.
+The land of [[affiliation-bhumipala|Bhūmipāla]] is empty between the wells and crowded at them, and that one fact explains its roads, its forts and its kings. It is the land of the march kingdom of [[affiliation-bhumipala|Bhūmipāla]], the northwestern corner of [[place-vedyarargn|Vedyara]]. It runs from the broken foothills of [[place-wstrndscnt|the Western Descent]] south and west to the shore of the [[place-sandhysmdr|Sandhyā-samudra]], and it is the driest country in the subcontinent that anybody farms.
 
 Two million people live here, which is thin for a Vedyari land.
 
 ## The Three Grounds
 
-The **foothills** are the north, under the end of the wall. They are brown, broken and cold at night, and they carry sheep, goats and the horse-pastures the companies buy from. The [[affiliation-svapnasarisamaja|Svapnasāri-samāja]] keeps its monasteries up here, high enough for the cold and dry enough for the quiet.
+The foothills are the north, under the end of the wall. They are brown, broken and cold at night, and they carry sheep, goats and the horse-pastures the companies buy from. The [[affiliation-svapnasarisamaja|Svapnasāri-samāja]] keeps its monasteries up here, high enough for the cold and dry enough for the quiet.
 
-The **desert-margin** is the west, where the foothills run out into the sand of the [[place-dunharargn|Dunhara]]. Nobody holds it and everybody crosses it. The line between the last Vedyari well and the first Dunhari one is a two-day ride and is not marked on the ground.
+The desert-margin is the west, where the foothills run out into the sand of the [[place-dunharargn|Dunhara]]. Nobody holds it and everybody crosses it. The line between the last Vedyari well and the first Dunhari one is a two-day ride and is not marked on the ground.
 
-The **coast** is the south, a strip of arid shore two hundred miles long behind sand spits and salt flats. Herding country runs to within a few miles of the beach and the cultivation is what the wells will carry. There is no deep natural harbor on any of it. Due west across the water is the eastern coast of [[place-xerathia|Xerathia]], which nothing sailing out of this land has ever made.
+The coast is the south, a strip of arid shore two hundred miles long behind sand spits and salt flats. Herding country runs to within a few miles of the beach and the cultivation is what the wells will carry. There is no deep natural harbor on any of it. Due west across the water is the eastern coast of [[place-xerathia|Xerathia]], which nothing sailing out of this land has ever made.
 
 ## The Road
 
@@ -63,7 +63,7 @@ WHERE s.type = 'place'
 ORDER BY s.name.full COLLATE NOCASE
 ```
 
-The three towns of the road hold most of what is not herding. The rest of the land lives at the wells, in hamlets of a few families that answer to the Sāmanta whose fort the well stands under.
+The three towns of the road hold most of what is not herding. The rest of the land lives at the wells, in hamlets of a few families that answer to the **Sāmanta** whose fort the well stands under.
 
 ## See Also
 

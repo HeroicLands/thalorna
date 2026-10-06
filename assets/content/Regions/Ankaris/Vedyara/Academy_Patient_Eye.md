@@ -8,11 +8,11 @@ tags: [hall, military, inland]
 data: {demonym: null, lore: [], parents: [dhanurkotajnpd], population: null, packFolder: vedyara}
 ---
 
-At the Patient Eye you get one arrow. A student stands at a distance the master names, shoots once, and is passed or is not; a student who is not may stand the examination again in a year.
+At the **Patient Eye** you get one arrow. A student stands at a distance the master names, shoots once, and is passed or is not; a student who is not may stand the examination again in a year.
 
-The **Academy of the Patient Eye** teaches accuracy at extreme range. Its graduates serve as scouts, as hunters and as fortress sharpshooters, and a good many end as the personal bowmen of Vedyari nobility, which is the most comfortable place an archer of common birth can reach.
+The Academy of the Patient Eye teaches accuracy at extreme range. Its graduates serve as scouts, as hunters and as fortress sharpshooters, and a good many end as the personal bowmen of Vedyari nobility, which is the most comfortable place an archer of common birth can reach.
 
-Its hall is the smallest of the four and its range is the longest: a cleared lane of six hundred paces running downstream along the Sarvada bank, with the marks set at every hundred and the far butt against a cut in the terrace.
+Its hall is the smallest of the four and its range is the longest: a cleared lane of six hundred paces running downstream along the [[place-sarvadarivr|Sarvada]] bank, with the marks set at every hundred and the far butt against a cut in the terrace.
 
 ## The Teaching
 

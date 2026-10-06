@@ -17,7 +17,7 @@ data:
   packFolder: vedyara
 ---
 
-**Sūryadvāra** is the greatest of the northern passes and the only one whose season is long enough to be called a season. It leaves the terraces beneath the walls of [[place-suryagarha|Sūryāgarha]], climbs the western flank of [[place-suryashkhr|Sūryashikhara]], and twenty days above the fortress reaches the fork where the road divides: north for the southern edge-towns of the [[place-khzryndsrtrgn|Khazryn]] and the Celestial Road beyond, north-east by the longer branch for the western frontier of [[place-tanvuregin|Tānvür]]. From the fork it is thirty days to either end.
+**Sūryadvāra** is the greatest of the northern passes and the only one whose season is long enough to be called a season. It leaves the terraces beneath the walls of [[place-suryagarha|Sūryāgarha]], climbs the western flank of [[place-suryashkhr|Sūryashikhara]], and twenty days above the fortress reaches the fork where the road divides: north for the southern edge-towns of the [[place-khzryndsrtrgn|Khazryn]] and the **Celestial Road** beyond, north-east by the longer branch for the western frontier of [[place-tanvuregin|Tānvür]]. From the fork it is thirty days to either end.
 
 Three caravans in four that cross the wall in any year cross here.
 

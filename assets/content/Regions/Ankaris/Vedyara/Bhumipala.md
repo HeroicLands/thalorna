@@ -81,7 +81,7 @@ sohl: {system: {commonSkills: [vedyarlng]}}
 
 ## Overview
 
-**Bhūmipāla** ("earth-protector") is a kingdom that exists for one road. It holds Vedyara's northwestern march: the dry foothills where the [[place-graznmntns|Grazian]] wall comes apart into [[place-wstrndscnt|the Western Descent]], the road that goes round the range's end into [[place-dunharargn|Dunhara]], and the arid shore of the [[place-sandhysmdr|Sandhyā-samudra]] south of them. The name is the ruling clan's before it is the kingdom's. Two million people live in it, nearly all of them within a day's walk of water. The Mahārāja keeps his court at [[place-sandhyapur|Sandhyāpur]] on the coast, and the kingdom holds the land of [[place-bhumipalaland|Bhūmipāla]].
+**Bhūmipāla** ("earth-protector") is a kingdom that exists for one road. It holds [[place-vedyarargn|Vedyara]]'s northwestern march: the dry foothills where the [[place-graznmntns|Grazian]] wall comes apart into [[place-wstrndscnt|the Western Descent]], the road that goes round the range's end into [[place-dunharargn|Dunhara]], and the arid shore of the [[place-sandhysmdr|Sandhyā-samudra]] south of them. The name is the ruling clan's before it is the kingdom's. Two million people live in it, nearly all of them within a day's walk of water. The Mahārāja keeps his court at [[place-sandhyapur|Sandhyāpur]] on the coast, and the kingdom holds the land of [[place-bhumipalaland|Bhūmipāla]].
 
 [[place-marchroad|The march road]] is the one frontier of the subcontinent a loaded camel crosses without climbing, and the one by which a steppe host has come down into Vedyara. The court, the companies, the customs and the treaty all stand on that.
 
@@ -102,7 +102,7 @@ The Mahārāja rules from Sandhyāpur. The crown's writ runs on the road, at the
 - **The Martial Council** is the Sāmantas of the road's forts and the captains of the hired companies. It meets before each caravan season and after it.
 - **The Priestly Court** is small, drawn from the town temples, and its business is succession, the calendar and the law.
 
-Succession is hereditary and is confirmed by the Martial Council, as it is in [[affiliation-vindhyalay|Vindhyālaya]]. A Mahārāja of the march who cannot pay the companies is not deposed. He is simply not obeyed at the wells, which comes to the same thing within a season. The rest of the court holds the ordinary offices of a Vedyari crown, from the Rājñī and the Yuvarāja to the Koshādhyaksha and the Ganaka.
+Succession is hereditary and is confirmed by the Martial Council, as it is in [[affiliation-vindhyalay|Vindhyālaya]]. A Mahārāja of the march who cannot pay the companies is not deposed. He is simply not obeyed at the wells, which comes to the same thing within a season. The rest of the court holds the ordinary offices of a Vedyari crown, from the **Rājñī** and the **Yuvarāja** to the **Koshādhyaksha** and the **Ganaka**.
 
 ## The Companies
 
@@ -126,17 +126,17 @@ The crown does not tax the road by the bale. It sells escort, by the wagon and b
 
 ## Relations
 
-To the **west and northwest** lie the tribes and the Sultanate, and the whole of the kingdom's foreign policy is the road. Relations with the tribes are seasonal and conducted sheikh by sheikh; relations with the Sultanate are formal, cool and old.
+To the west and northwest lie the tribes and the Sultanate, and the whole of the kingdom's foreign policy is the road. Relations with the tribes are seasonal and conducted sheikh by sheikh; relations with the Sultanate are formal, cool and old.
 
-To the **north and east**, across the broken end of the wall, lies Vindhyālaya. The two kingdoms hold the north between them without sharing a border, and neither wants what the other has. Vindhyan steel comes down to the march companies and march horses go up to the pass-roads.
+To the north and east, across the broken end of the wall, lies Vindhyālaya. The two kingdoms hold the north between them without sharing a border, and neither wants what the other has. Vindhyan steel comes down to the march companies and march horses go up to the pass-roads.
 
-Across the Sandhyā-samudra to the **west** lies the eastern coast of [[place-xerathia|Xerathia]]. The kingdom has no dealings with it. Its own coast trades north and east by the road and south by the coasting passage, and the far shore is a fact of the sea and not a market.
+Across the Sandhyā-samudra to the west lies the eastern coast of [[place-xerathia|Xerathia]]. The kingdom has no dealings with it. Its own coast trades north and east by the road and south by the coasting passage, and the far shore is a fact of the sea and not a market.
 
-To the **south and southeast** lie the river janapadas and the coastal cities. Bhūmipāla holds a seat at the [[affiliation-janpdsvdyr|great pilgrimage assembly]] in its own right and sends a small delegation, which the river country receives politely and does not consult. Its dealings with [[affiliation-chandrapur|Chandrapur]] are the dealings of a road with a market at the end of it.
+To the south and southeast lie the river janapadas and the coastal cities. Bhūmipāla holds a seat at the [[affiliation-janpdsvdyr|great pilgrimage assembly]] in its own right and sends a small delegation, which the river country receives politely and does not consult. Its dealings with [[affiliation-chandrapur|Chandrapur]] are the dealings of a road with a market at the end of it.
 
 ## Commerce and Currency
 
-Bhūmipāla holds no seat in the Assembly of the Compact, and it uses the [[lore-vdyrnbnkng|Vedyaran banking system]] all the same. The [[affiliation-mrchntclctvvdyr|Merchant Collective]] keeps its westernmost house at Sandhyāpur and a factor at Ashvapada, and between them they finance most of what moves on the road.
+Bhūmipāla holds no seat in the [[affiliation-assmblycmpct|Assembly of the Compact]], and it uses the [[lore-vdyrnbnkng|Vedyaran banking system]] all the same. The [[affiliation-mrchntclctvvdyr|Merchant Collective]] keeps its westernmost house at Sandhyāpur and a factor at Ashvapada, and between them they finance most of what moves on the road.
 
 The Dunhari side of the trade runs on barter and clan credit, and a caravan settles in goods, in animals and in silver taken by weight. A Dunhari who holds a Collective letter of credit is rare enough that the men at the exchange know his name. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
 

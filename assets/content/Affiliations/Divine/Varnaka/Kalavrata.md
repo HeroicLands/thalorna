@@ -54,7 +54,7 @@ sohl: {system: {commonSkills: [kalavrata, sohl-sohl-skill-pysn, sohl-sohl-skill-
 - **Pronunciation:** _KAH-lah-vrah-tah_
 - **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
-"Do not bring him an offering, and do not ask him for anything," says the keeper of a village shrine to the young wife who has married into a house that has not yet seen a death in her time there. "Light the lamp when the illness turns. Keep your voice down while it burns. The rest is his." The instruction is close to the whole of the cult. Kālavrata is revered throughout [[place-vedyarargn|Vedyara Region]], and the reverence is austere: he grants no personal favor, answers no petition for long life or safe passage, and guides every soul from one body to the next without partiality. The faithful hold him high for exactly that.
+"Do not bring him an offering, and do not ask him for anything," says the keeper of a village shrine to the young wife who has married into a house that has not yet seen a death in her time there. "Light the lamp when the illness turns. Keep your voice down while it burns. The rest is his." The instruction is close to the whole of the cult. [[lore-kalavratadty|Kālavrata]] is revered throughout [[place-vedyarargn|Vedyara Region]], and the reverence is austere: he grants no personal favor, answers no petition for long life or safe passage, and guides every soul from one body to the next without partiality. The faithful hold him high for exactly that.
 
 [[affiliation-rasikara|Rásikara]] is the god of the fire that unmakes the body. Kālavrata is the god of what comes after, and his conch calls the soul onward when the cremation-fires end.
 
@@ -64,7 +64,7 @@ Kālavratan households keep no elaborate shrine, because the threshold itself is
 
 Where the god is pictured, he is a tall, shrouded figure standing at a bridge or a threshold with a dark conch at his lips. The face is left blank. No living soul may look on it before the hour of its own passage, and so the painter does not try. His color is the indigo-black of deepest night, and the figure is still, cool and absolute.
 
-Three objects carry the cult. The **black conch** is the god's signature relic, and temple conches are sounded at the threshold-moments of life: birth, coming-of-age and the final breath. The **threshold lamp** is a small oil lamp kept burning through the night in which a family member is dying, and it signifies the household's readiness to release the soul. The **Coin of Passage** is a small copper disc placed in the hand of the deceased at cremation. It is no offering to the god. It reminds the dead that every soul stands at the threshold with only what it has made of its life.
+Three objects carry the cult. The black conch is the god's signature relic, and temple conches are sounded at the threshold-moments of life: birth, coming-of-age and the final breath. The threshold lamp is a small oil lamp kept burning through the night in which a family member is dying, and it signifies the household's readiness to release the soul. The [[miscgear-coinpassage|Coin of Passage]] is a small copper disc placed in the hand of the deceased at cremation. It is no offering to the god. It reminds the dead that every soul stands at the threshold with only what it has made of its life.
 
 The **Mārgapālas** are the guiding spirits who lead souls along the paths of the afterlife until they reach the gate of rebirth. They have no names, and the faithful pray to them as a kind and never to a particular guide.
 

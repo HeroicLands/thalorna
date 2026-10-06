@@ -8,7 +8,7 @@ tags: [hall, military, inland]
 data: {demonym: null, lore: [], parents: [dhanurkotajnpd], population: null, packFolder: vedyara}
 ---
 
-A recruiting officer for one of the patron kingdoms, briefing the junior who will carry his offer to Dhanurkota, puts it this way: "Write the contract as though the master were reading over your shoulder, because he will. He alone decides what is dishonorable, and nobody can overrule him, not the sabhā and not the other three masters."
+A recruiting officer for one of the patron kingdoms, briefing the junior who will carry his offer to [[affiliation-dhnrktjnpd|Dhanurkota]], puts it this way: "Write the contract as though the master were reading over your shoulder, because he will. He alone decides what is dishonorable, and nobody can overrule him, not the sabhā and not the other three masters."
 
 The **Academy of the Hidden String** teaches ambush and concealment archery. Its graduates serve as scouts and on the operations a kingdom does not name in its dispatches, and it is the hardest of the four halls to get into and the hardest to recruit out of.
 

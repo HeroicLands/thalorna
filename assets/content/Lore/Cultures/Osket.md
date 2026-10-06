@@ -7,7 +7,7 @@ description: "The Ösket—their beliefs, their mores, and what they hold a pers
 tags: []
 ---
 
-The Ösket hold the western and central crossings of [[place-graznmntns|the Grazian wall]] by descent, and the rest of what they are follows from that. A hearth is a house, a herd, a high pasture and one road. The road is what gives it standing. Nothing above the hearth binds it, and no body exists that could.
+The [[affiliation-osketguides|Ösket]] hold the western and central crossings of [[place-graznmntns|the Grazian wall]] by descent, and the rest of what they are follows from that. A hearth is a house, a herd, a high pasture and one road. The road is what gives it standing. Nothing above the hearth binds it, and no body exists that could.
 
 ## The Road Is the Property
 
@@ -15,7 +15,7 @@ Herds are wealth and a crossing is standing, and the two are not traded for one 
 
 A hearth with beasts and no road is fed and is not consulted. The Ösket state this without apology and see nothing in it to explain.
 
-Selling a road is the one capital offense. The man who does it is Roadless: out of every hearth, fed by none of them, and taken over the wall by nobody. A people who feed any stranger who reaches a door have made exactly that one exception. What the Ösket say about the two sales of [[place-gudesroad|the Guides' Road]] they say among themselves, and everyone else has the rumor.
+Selling a road is the one capital offense. The man who does it is **Roadless**: out of every hearth, fed by none of them, and taken over the wall by nobody. A people who feed any stranger who reaches a door have made exactly that one exception. What the Ösket say about the two sales of [[place-gudesroad|the Guides' Road]] they say among themselves, and everyone else has the rumor.
 
 ## The Guide-mother
 

@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-The **Sūrya-samudra** is the warm ocean east of Vedyara, and the name means the sea the sun rises from. It takes the eastern coast of [[place-vedyarargn|Vedyara]] from the forest country in the north down to the turn of the land in the south, and it carries the greater part of the subcontinent's sea trade. Three of the four great rivers come down to it. The [[place-mahanadi|Mahānadi]], the [[place-sarvadarivr|Sarvada]] and the [[place-bharavarivr|Bhārava]] each reach the sea on this coast, and the ports stand at their mouths and nowhere else.
+The **Sūrya-samudra** is the warm ocean east of [[place-vedyarargn|Vedyara]], and the name means the sea the sun rises from. It takes the eastern coast of [[place-vedyarargn|Vedyara]] from the forest country in the north down to the turn of the land in the south, and it carries the greater part of the subcontinent's sea trade. Three of the four great rivers come down to it. The [[place-mahanadi|Mahānadi]], the [[place-sarvadarivr|Sarvada]] and the [[place-bharavarivr|Bhārava]] each reach the sea on this coast, and the ports stand at their mouths and nowhere else.
 
 It is a shallow sea close inshore and a deep one a day out. The bars at the river mouths shift with every monsoon, and a master who has not worked a mouth within the year takes a local pilot over it or waits for one.
 
@@ -30,7 +30,7 @@ The coast plants when the rain starts and sails when it stops, and the interior 
 
 Tānvüri junks work down from the southern ports of [[place-tanvuregin|Tānvür]] and have reached this coast for as long as either side has kept a record. Jürthāti hulls come from further east and come less often, and their captains are reckoned the finest seamen anybody here has dealt with. Vedyari shipping is the bulk of the traffic and the shortest-legged of it. A Vedyaran coasting ship works from mouth to mouth in sight of land, and the long eastern passage is left to the men who live at the other end of it.
 
-Three kinds of hull are built on this coast. The **river-boat** is flat-bottomed, works the four rivers and the mouths, and never goes outside the bar. The **coasting ship** carries the trade, runs the shore in the open season, and is the hull a Vedyari means when he says ship. The **war-galley** is oared, is built at one city only, and does not carry cargo.
+Three kinds of hull are built on this coast. The river-boat is flat-bottomed, works the four rivers and the mouths, and never goes outside the bar. The coasting ship carries the trade, runs the shore in the open season, and is the hull a Vedyari means when he says ship. The war-galley is oared, is built at one city only, and does not carry cargo.
 
 The harbors speak a simplified trade pidgin of their own, and a captain who has the [[skill-vedyarlng|Vedyari]] of the northern dialect finds the southern waterfronts hard going. Out in the islands the speech has gone further still.
 

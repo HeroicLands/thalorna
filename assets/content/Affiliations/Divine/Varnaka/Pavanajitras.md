@@ -52,7 +52,7 @@ sohl: {system: {commonSkills: [pavanajitras, sohl-sohl-skill-srvl, sohl-sohl-ski
 - **Pronunciation:** _PAH-vah-nah-jee-trahs_
 - **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
-"A coin if you have one, a pinch of millet if you do not, and a scrap of cloth on the tree if you have neither." The keeper of a crossroads shrine says it to a carter who has pulled up only to ask the way. The **Pavanajitras** are the Wandering Wind, a company of minor wind-spirits who guide travelers, carry merchant-ships before favorable gales and whisper the road's omens to those who have learned to listen.
+"A coin if you have one, a pinch of millet if you do not, and a scrap of cloth on the tree if you have neither." The keeper of a crossroads shrine says it to a carter who has pulled up only to ask the way. The [[lore-pvnjtrsdty|Pavanajitras]] are the **Wandering Wind**, a company of minor wind-spirits who guide travelers, carry merchant-ships before favorable gales and whisper the road's omens to those who have learned to listen.
 
 They are not gods in the full sense. They stand between the celestial deities of the Varnaka and the local spirits of the land, and the Varnaka revere them as exactly that. Their cult is wherever travelers meet: the crossroads shrine, the caravanserai altar, and the small chapels at harbor-mouths and at the passes of the high roads. The devotion is simple, widely observed and enormously popular. Few Vedyarans undertake a long journey without leaving a coin or a pinch of millet at a Pavanajitran shrine, and fewer still arrive safely without leaving one at the other end.
 
@@ -60,7 +60,7 @@ They are not gods in the full sense. They stand between the celestial deities of
 
 The company is pictured as slender, gauze-robed figures running barefoot over hills, their scarves streaming behind them in the wind. Individual members are rarely named, and the iconography favors the group. Their colors are the pale blue of a clear-weather sky and the dusty gold of the road.
 
-Three objects carry the cult. The **wind-medallion** is a small disc engraved with the wind-filled sail, carried by travelers and merchants. The **traveler's cord** is a knotted cord tied about the waist before a long journey, and each knot is a pledge to leave an offering at a named shrine along the route. The **harbor-bell** is a small bronze bell sounded in the harbor-shrines when a ship of the faithful sets forth.
+Three objects carry the cult. The wind-medallion is a small disc engraved with the wind-filled sail, carried by travelers and merchants. The traveler's cord is a knotted cord tied about the waist before a long journey, and each knot is a pledge to leave an offering at a named shrine along the route. The harbor-bell is a small bronze bell sounded in the harbor-shrines when a ship of the faithful sets forth.
 
 ### What the Devout Do
 

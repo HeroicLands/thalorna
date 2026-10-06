@@ -71,13 +71,13 @@ sohl: {system: {commonSkills: [vedyarlng]}}
 
 A surety-agent of the **Ādānashrenī** explains the arrangement to a caravan-master buying cover for the first time, and he starts with the charter and not with the theft. "You have read our charter. Everyone has; it is a public document, and it calls us a guild of receivers, whose work is the recovery, appraisal and restoration of goods gone astray. That is not entirely a lie. Pay the standing fee and your cargo is under our guarantee, and if it goes astray we recover it or we pay."
 
-The Ādānashrenī is the guild of thieves of [[place-vedyarargn|Vedyara Region]] and the largest criminal body in Thalorna, and it is not a syndicate. That distinction is the whole of its character. The [[affiliation-crmsyndctsthlrn|syndicates]] of the Vylarian basin are enterprises: they hold territory, they answer to a boss, and they can be broken by taking the territory or killing the boss. The Ādānashrenī is a **craft guild**, hereditary in its lines, chartered by law in some forty polities. These are the forty that hold a seat at the great pilgrimage assembly in their own right, kingdoms and city-states together, which is the count a Vedyari means by _the kingdoms_. It keeps a court of its own and a treasury of its own, and its craft-lines pass from parent to child.
+The Ādānashrenī is the guild of thieves of [[place-vedyarargn|Vedyara Region]] and the largest criminal body in [[place-worldthlrn|Thalorna]], and it is not a syndicate. That distinction is the whole of its character. The [[affiliation-crmsyndctsthlrn|syndicates]] of the Vylarian basin are enterprises: they hold territory, they answer to a boss, and they can be broken by taking the territory or killing the boss. The Ādānashrenī is a craft guild, hereditary in its lines, chartered by law in some forty polities. These are the forty that hold a seat at the great pilgrimage assembly in their own right, kingdoms and city-states together, which is the count a Vedyari means by _the kingdoms_. It keeps a court of its own and a treasury of its own, and its craft-lines pass from parent to child.
 
 No king has ever destroyed it, because there is nothing to destroy that is not also the social order itself. Dynasties fall and the weavers' guild persists, and so does this one. Its name means _the guild of taking_.
 
 ## The Doctrine of Ādāna
 
-The guild has a theology, which it takes seriously and most priests do not. _Ādāna_ means both **receiving** and **seizing**, and the guild has built its self-understanding on that ambiguity.
+The guild has a theology, which it takes seriously and most priests do not. _**Ādāna**_ means both receiving and seizing, and the guild has built its self-understanding on that ambiguity.
 
 Nothing, the guild teaches, is owned. Wealth is held for a term, as a body is held for a term, and karma sets the term and not the holder. Everything in a strongbox is already in transit, and the guild is the hand it passes through. In this reading the taker performs a service. He takes on the karmic weight of the taking, and the owner is relieved of an attachment he would otherwise have carried into the next life.
 
@@ -90,17 +90,17 @@ The guild's form is entirely conventional, and only its craft is not.
 - **The charter.** Each of the forty charters the guild separately, as it charters weavers or goldsmiths: a crown grants it where there is a crown, and a council or a sabhā where there is not. Each charter is negotiated, paid for and renewed. A charter fixes what the guild may take, from whom, and what share the granting body receives. It is the guild's most valuable possession, and every other rule serves to protect it.
 - **The Sabhā.** A guild court of elders judges disputes between craft-lines, rules on whether a taking was proper, and orders restoration when it was not. The courts of the forty recognize its judgments, which saves them an enormous volume of work.
 - **The craft-lines.** These are hereditary specialisms, exactly like the weavers' craft-lines: housebreakers, road-takers, cutpurses, appraisers, seal-makers, and the line that handles temple property under restrictions the others regard as terrifying. Marriage across craft-lines is negotiated as any marriage between hereditary lines is negotiated.
-- **The register.** Every member above Antevāsin is written down. This is not carelessness. A registered thief is a thief the guild can produce, disown or defend, and the register is what makes the charter enforceable.
+- **The register.** Every member above **Antevāsin** is written down. This is not carelessness. A registered thief is a thief the guild can produce, disown or defend, and the register is what makes the charter enforceable.
 
 There is no head of the Ādānashrenī. There are forty **Shreshthins**, who acknowledge one another's law, settle their disputes at a triennial assembly, and cooperate readily because their charters do not compete.
 
 ## What It Actually Does
 
-**Most of the guild's income is not theft.** The larger half is **surety**. A merchant house, a temple or a caravan pays the guild a standing fee and the guild guarantees the goods. Nothing chartered touches them, and if an unchartered thief takes them the guild recovers the goods or pays out of the surety pool. This is why the [[affiliation-mrchntclctvvdyr|Merchant Collective]] has houses in arrangements it does not discuss, and why [[lore-vdyrnbnkng|Vedyaran banking]] and the guild are difficult to disentangle: a body that can move value across forty polities without legal exposure performs a banking function whether it means to or not.
+_Most of the guild's income is not theft._ The larger half is surety. A merchant house, a temple or a caravan pays the guild a standing fee and the guild guarantees the goods. Nothing chartered touches them, and if an unchartered thief takes them the guild recovers the goods or pays out of the surety pool. This is why the [[affiliation-mrchntclctvvdyr|Merchant Collective]] has houses in arrangements it does not discuss, and why [[lore-vdyrnbnkng|Vedyaran banking]] and the guild are difficult to disentangle: a body that can move value across forty polities without legal exposure performs a banking function whether it means to or not.
 
-The rest is craft. The guild breaks into houses, takes on licensed stretches of road, receives and appraises, forges seals and letters, enforces debts for lenders who prefer not to be seen doing it, and trades in information, much of it with the [[affiliation-twilighths|Twilight House]], whose Factor to the Guild exists for exactly this.
+The rest is craft. The guild breaks into houses, takes on licensed stretches of road, receives and appraises, forges seals and letters, enforces debts for lenders who prefer not to be seen doing it, and trades in information, much of it with the [[affiliation-twilighths|Twilight House]], whose **Factor to the Guild** exists for exactly this.
 
-And it hunts. **The guild's most implacable enemy is the unchartered thief**, who steals its trade, voids its sureties and endangers its charter. Unchartered thieves are found and handed to the magistrates of whichever polity granted the line its charter, and this service is what makes a charter worth granting.
+And it hunts. _The guild's most implacable enemy is the unchartered thief_, who steals its trade, voids its sureties and endangers its charter. Unchartered thieves are found and handed to the magistrates of whichever polity granted the line its charter, and this service is what makes a charter worth granting.
 
 ## The Taboos
 
@@ -111,7 +111,7 @@ The guild's prohibitions read like piety and are almost entirely pragmatic. Each
 - **Nothing from a house in mourning, and nothing from a wedding.** Both would cost the guild the public tolerance it lives on.
 - **Restore on demand.** If the Sabhā rules a taking improper, the goods go back, whatever the taker has already done with them.
 
-Outsiders get the first of these wrong. The guild does not forbid killing. It forbids killing **during a taking**, because that is what converts its business into the chartering power's. A commission carried out cleanly, by a hand that cannot be traced to a charter, breaks no written rule. The persistent, credible and furiously denied accusation against the Ādānashrenī is that certain Shreshthins accept exactly such commissions and route them through people who are not quite members. The guild has been arguing this with itself for two generations, and it is what the schism below was about.
+Outsiders get the first of these wrong. The guild does not forbid killing. It forbids killing _during a taking_, because that is what converts its business into the chartering power's. A commission carried out cleanly, by a hand that cannot be traced to a charter, breaks no written rule. The persistent, credible and furiously denied accusation against the Ādānashrenī is that certain Shreshthins accept exactly such commissions and route them through people who are not quite members. The guild has been arguing this with itself for two generations, and it is what the schism below was about.
 
 ## The Rest of Vedyaran Crime
 
@@ -120,7 +120,7 @@ Vedyara is a subcontinent, and the Ādānashrenī is dominant without being sole
 - **The port syndicates.** The coastal city-states support outward-facing organizations that deal in what the charters do not cover: trafficking, contraband, and business with the [[affiliation-graytide|Gray Tide]], the [[affiliation-theashroad|Ash Road]] and the shippers of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]. The guild regards them as unchartered and beneath contempt, and does business with them constantly.
 - **Local gangs.** As everywhere in Thalorna, every town has its own petty operators, who subcontract to the guild and are the first casualties of any dispute.
 - **The Chinnasūtra.** A schism, perhaps two generations old, of craft-lines that rejected the taboos, chiefly the prohibition on killing, and were cut off. They are the only rivals the guild treats as an existential matter, because crowns and councils read a Chinnasūtra killing during a taking as a guild killing, and charters have been suspended over it. The guild pays outsiders very well to deal with them, precisely because it cannot be seen to.
-- **The hill and forest raiders** stand outside any charter, any polity and any conversation.
+- The hill and forest raiders stand outside any charter, any polity and any conversation.
 
 ## Adventure Hooks
 

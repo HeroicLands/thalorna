@@ -7,7 +7,7 @@ description: "The Hvarn—their beliefs, their mores, and what they hold a perso
 tags: []
 ---
 
-The Hvarn are drovers who hold the two crossings of [[place-estrnreach|the Eastern Reach]] and spend half the year scattered and half of it in one building. There are nine thousand of them. They are the poorer of the two guide-peoples by a wide margin, and they are the only people on the wall who deal with lowland institutions as a matter of routine.
+The [[affiliation-hvarnguides|Hvarn]] are drovers who hold the two crossings of [[place-estrnreach|the Eastern Reach]] and spend half the year scattered and half of it in one building. There are nine thousand of them. They are the poorer of the two guide-peoples by a wide margin, and they are the only people on the wall who deal with lowland institutions as a matter of routine.
 
 ## The Two Halves of the Year
 
@@ -25,13 +25,13 @@ The rotation is what a small trade can afford. A single [[place-suryadvara|Sūry
 
 ## The Party
 
-Hvarn work is roped work, and the [[skill-hvarnlng|language]] carries the distinction in its verbs: paired forms separate what a man has done himself from what he has done as one of a party. A Reach-guide answers to the council for whoever does not come back. A Drover who kept the beasts on the lower stages is not held to have made the crossing at all.
+Hvarn work is roped work, and the [[skill-hvarnlng|language]] carries the distinction in its verbs: paired forms separate what a man has done himself from what he has done as one of a party. A **Reach-guide** answers to the council for whoever does not come back. A **Drover** who kept the beasts on the lower stages is not held to have made the crossing at all.
 
-Earnings run the same way. A season's fee comes to the hearth and the debts it leaves are between hearths, so a Roadwalker learning the weather under another's charge is owed his place at a fire and nothing else.
+Earnings run the same way. A season's fee comes to the hearth and the debts it leaves are between hearths, so a **Roadwalker** learning the weather under another's charge is owed his place at a fire and nothing else.
 
 ## The Roll
 
-The Hvarn go down for their dead. A body in the eastern gorges is recovered wherever recovery is possible at all, brought up, and the place it was found recorded and kept. The record is the Bone-bringer's, he recites it at the winter council each year, and a fault in the recitation is corrected from the floor by anyone who catches it.
+The Hvarn go down for their dead. A body in the eastern gorges is recovered wherever recovery is possible at all, brought up, and the place it was found recorded and kept. The record is the **Bone-bringer**'s, he recites it at the winter council each year, and a fault in the recitation is corrected from the floor by anyone who catches it.
 
 It is the longest continuous thing the people keep and the only one they will show an outsider. It is also the best warning anyone has about where the ground fails.
 
@@ -39,7 +39,7 @@ A child is named for a person in the roll, and the naming carries the obligation
 
 ## The Contract
 
-The Hvarn pack-trains that feed [[place-sanghafort|the fort]] on the conch-door col run on an old contract. The Fort-carrier who keeps it speaks fluent lowland [[skill-vedyarlng|Vedyari]] and is the one member of the people the garrison's officers know by name.
+The Hvarn pack-trains that feed [[place-sanghafort|the fort]] on the conch-door col run on an old contract. The **Fort-carrier** who keeps it speaks fluent lowland [[skill-vedyarlng|Vedyari]] and is the one member of the people the garrison's officers know by name.
 
 Lowland factors walk up to Nürvhrn for the renewal and for nothing else, and the Hvarn have kept up the visits for four centuries without once inviting anyone to stay the winter. The seal of [[affiliation-janpdsvdyr|the janapadas]] is one of two objects in the long house kept in a box.
 

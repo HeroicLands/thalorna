@@ -16,13 +16,13 @@ data:
 # terran_analog: "Central and peninsular Indian forest belt under temple-estate tenure—hardwood, resin, lac and spice country worked by forest-dwelling communities and held as endowed land by temples rather than by village federations"
 ---
 
-**Bhāravavana** is the forest country of the lower [[place-bharavarivr|Bhārava]]: six hundred miles of closed canopy between the foot of the gold-bearing highlands and the coastal farmland, and the largest single stretch of Vedyara that no janapada has ever federated.
+**Bhāravavana** is the forest country of the lower [[place-bharavarivr|Bhārava]]: six hundred miles of closed canopy between the foot of the gold-bearing highlands and the coastal farmland, and the largest single stretch of [[place-vedyarargn|Vedyara]] that no janapada has ever federated.
 
 The [[place-vedyarargn|region's]] own reckoning counts it as the southern tropical interior, a third country beside the river valleys and the coast, and it runs on a tenure the rest of the subcontinent does not use. The forest is held in estates endowed to temples. No sabhā meets in it, no assembly sits in it, and the roll the [[affiliation-janpdsvdyr|Mahā-Sangha]] keeps has no entry for any part of it.
 
 ## The Bounds
 
-The forest begins where the Bhārava leaves [[place-suvarnagirijnpd|Suvarnagiri]]'s panning grounds and slows, and it ends where the last of the canopy gives out among the rice ground of the coastal plain. It is bounded north and east by the shoulder of the [[place-graznmntns|Grazian]] foothills and west by the drier scrub of the Mahānadi's eastern watershed, where the trees thin out over about thirty miles and the janapadas begin again.
+The forest begins where the Bhārava leaves [[place-suvarnagirijnpd|Suvarnagiri]]'s panning grounds and slows, and it ends where the last of the canopy gives out among the rice ground of the coastal plain. It is bounded north and east by the shoulder of the [[place-graznmntns|Grazian]] foothills and west by the drier scrub of the [[place-mahanadi|Mahānadi]]'s eastern watershed, where the trees thin out over about thirty miles and the janapadas begin again.
 
 Above the highlands the river runs out of the mountain through country of a different kind. That upper forest, [[place-forestnoroad|the Forest of No Road]] below [[place-estrnreach|the Eastern Reach]], is not endowed to anybody. No estate has ever been cut there, no temple has claimed it, and the boundary between the two forests is exactly the boundary of the last estate on the upper river.
 
@@ -36,7 +36,7 @@ The yield is reckoned by estate and not by village, and it is the only wealth in
 
 The people who do the gathering are not the people who hold the forest. They live in the interior in small mobile groups, they take the estates' licenses and turn their season's gathering in at the margin, and the lowland records name them collectively and individually not at all.
 
-They are outside the tharana rather than at the bottom of it, which the estates find convenient and the orthodox temples of the plains find scandalous when it is put to them. In practice a gatherer at a forest margin is received, paid and not asked to show a wrist, and a gatherer who walks out to a plains town is an Outcaste the moment somebody does ask.
+They are outside the tharana rather than at the bottom of it, which the estates find convenient and the orthodox temples of the plains find scandalous when it is put to them. In practice a gatherer at a forest margin is received, paid and not asked to show a wrist, and a gatherer who walks out to a plains town is an **Outcaste** the moment somebody does ask.
 
 ## The Road
 

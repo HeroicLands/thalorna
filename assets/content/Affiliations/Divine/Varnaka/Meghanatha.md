@@ -56,7 +56,7 @@ sohl:
 - **Pronunciation:** _MEG-ha-nah-tha_
 - **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
-"When you hear the first drum, you grab the biggest pot you own and a spoon, and you hit it as hard as you can." The priest who keeps the drum at a coastal village temple says it to the new schoolmaster's family in the last dry week, with a grin that tells them he means it. He is also telling them something about the god. Meghanātha is not gentle, and his rites are the frank bargaining of a people whose prosperity rides on the weather. The drums are loud, the festivals are raucous, and the clergy are forthright to a degree that more decorous traditions find uncomfortable.
+"When you hear the first drum, you grab the biggest pot you own and a spoon, and you hit it as hard as you can." The priest who keeps the drum at a coastal village temple says it to the new schoolmaster's family in the last dry week, with a grin that tells them he means it. He is also telling them something about the god. [[lore-meghanathadty|Meghanātha]] is not gentle, and his rites are the frank bargaining of a people whose prosperity rides on the weather. The drums are loud, the festivals are raucous, and the clergy are forthright to a degree that more decorous traditions find uncomfortable.
 
 He is revered throughout [[place-vedyarargn|Vedyara Region]], most of all along the coasts and in the river-valleys, and he protects those who live at the mercy of the sky: the farmer waiting on the rains, the fisherman at sea, and the traveler whose road the great storms cut. His anger can destroy a village in a night, and his favor can keep a region prosperous for a generation.
 
@@ -64,7 +64,7 @@ He is revered throughout [[place-vedyarargn|Vedyara Region]], most of all along 
 
 The image is a powerful, dark-skinned figure with wild hair streaming like storm-cloud, a great drum under one arm and the lightning-spear in his raised hand. His colors are the deep gray of the monsoon sky and the white of the bolt. The tradition hears his drums as the thunder of the approaching storm.
 
-Three objects carry the cult. The **temple drum** is beaten at the opening of the monsoon and at the climax of every major rite. The **lightning amulet** is a stylized bolt of silver worn by sailors and farmers as a sign of his protection. The **rain bowl** is a consecrated bowl left outside at the onset of the monsoon, and the first rain that falls into it is blessed water for the year.
+Three objects carry the cult. The temple drum is beaten at the opening of the monsoon and at the climax of every major rite. The lightning amulet is a stylized bolt of silver worn by sailors and farmers as a sign of his protection. The rain bowl is a consecrated bowl left outside at the onset of the monsoon, and the first rain that falls into it is blessed water for the year.
 
 ### What the Devout Do
 

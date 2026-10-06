@@ -96,7 +96,7 @@ Gomārga holds the wells and the droveways and does not hold the grazing. The di
 
 It adjudicates everything else, because everything else happens at a well. A herd that does not drink does not move, and a herd that does not move is dead by the end of the dry season, so a crown that sets what a herd pays to drink sets the terms of every journey on the plateau without ever claiming an acre. Neighboring kingdoms that measure a realm in plowland read Gomārga as a small power and are corrected the first time they try to move cattle across it.
 
-The wells themselves are not the crown's. Each was cut by a named lineage, is heritable and divisible among that lineage's households, and is kept by a **Kūpapāla** the lineage names and the crown confirms. The crown takes a share of what the well earns and guarantees the lineage against anyone who tries to take the well. Both halves of that bargain have been broken, and the kingdom's worst century followed the second time.
+The wells themselves are not the crown's. Each was cut by a named lineage, is heritable and divisible among that lineage's households, and is kept by a Kūpapāla the lineage names and the crown confirms. The crown takes a share of what the well earns and guarantees the lineage against anyone who tries to take the well. Both halves of that bargain have been broken, and the kingdom's worst century followed the second time.
 
 ## The Moving Court
 
@@ -114,7 +114,7 @@ Orthodox opinion in the river kingdoms finds the arrangement improper. Plateau u
 
 Gomārga sells into the river valleys and the coast and buys grain, cloth and iron back. The [[affiliation-mrchntclctvvdyr|Merchant Collective]] has wanted a factor at the winter wells for a century and has not been given one: the crown's revenue is counted in stock and in watering dues, neither of which a letter of credit values well, and a Collective factor who could lend against a herd would be lending against the kingdom's only security. The Collective's houses buy plateau cattle at the edge of the plateau instead, from brokers who are usually the crown's own envoys.
 
-The [[affiliation-janpdsvdyr|Mahā-Sangha]]'s roll carries the few plateau janapadas and not the kingdom, which is ordinary; a rājya is not a janapada. What is not ordinary is that Gomārga sends nobody to the Mela at all in most cycles. The assembly meets on the Mahānadi in the season the herds move, and the crown is on its circuit.
+The [[affiliation-janpdsvdyr|Mahā-Sangha]]'s roll carries the few plateau janapadas and not the kingdom, which is ordinary; a rājya is not a janapada. What is not ordinary is that Gomārga sends nobody to the **Mela** at all in most cycles. The assembly meets on the [[place-mahanadi|Mahānadi]] in the season the herds move, and the crown is on its circuit.
 
 ## Commerce and Currency
 

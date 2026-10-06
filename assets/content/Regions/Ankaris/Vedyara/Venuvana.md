@@ -14,7 +14,7 @@ data:
   government: dhnrktjnpd
 ---
 
-Venuvana (890) holds three years of its own product in its drying sheds at any time, which is why it is the wealthiest of the cultivator villages and the most anxious. It grows the bamboo the Dhanurkoti bows are made from. Its groves run four miles along the north bank of the Sarvada and are cut on a seven-year rotation, which the village has kept without a break for as long as the academies have taught.
+**Venuvana** (890) holds three years of its own product in its drying sheds at any time, which is why it is the wealthiest of the cultivator villages and the most anxious. It grows the bamboo the Dhanurkoti bows are made from. Its groves run four miles along the north bank of the [[place-sarvadarivr|Sarvada]] and are cut on a seven-year rotation, which the village has kept without a break for as long as the academies have taught.
 
 A stave is cut in the cold season, split, and seasoned three years under cover before a bowyer will look at it.
 

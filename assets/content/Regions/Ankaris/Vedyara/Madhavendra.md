@@ -16,7 +16,7 @@ Nothing on the plateau has been built at that scale since, and nothing on the pl
 
 There is no road to it and no reason for one. It sits between droveways rather than on one, four days from the nearest sabhā town and a great deal further from anywhere that would think of it as an object of interest. Nobody keeps it, nobody charges for it and nobody prevents anything. A visitor who wants to see it hires a drover and rides. "Find the tanks and you have found the city," the drover says, "because the walls only stand between them."
 
-That is why the [[lore-mdhvndrcnt|Mādhavendra count]] has the quality it has. A quarter of a million people gather on the Mahānadi in a year numbered from this place, and the overwhelming majority of them will never stand in it, could not say what direction it lies in, and have never met anyone who has.
+That is why the [[lore-mdhvndrcnt|Mādhavendra count]] has the quality it has. A quarter of a million people gather on the [[place-mahanadi|Mahānadi]] in a year numbered from this place, and the overwhelming majority of them will never stand in it, could not say what direction it lies in, and have never met anyone who has.
 
 ## The Tanks
 

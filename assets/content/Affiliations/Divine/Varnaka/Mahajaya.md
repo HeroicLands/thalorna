@@ -52,19 +52,19 @@ sohl: {system: {commonSkills: [mahajaya, sohl-sohl-skill-agri, sohl-sohl-skill-m
 - **Pronunciation:** _MAH-ha-jah-yah_
 - **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
-"Weigh it again," the priest of a village shrine tells the farmhand who has just poured the first sack of the harvest into the shrine's brass scale and taken the number on trust. "She is not watching the grain. She is watching you." The farmhand weighs it again. This is the cult of Mahájaya in small: preservation, harmony and abundance, kept by people who measure fairly and say so aloud.
+"Weigh it again," the priest of a village shrine tells the farmhand who has just poured the first sack of the harvest into the shrine's brass scale and taken the number on trust. "She is not watching the grain. She is watching you." The farmhand weighs it again. This is the cult of [[lore-mahajayadty|Mahájaya]] in small: preservation, harmony and abundance, kept by people who measure fairly and say so aloud.
 
 Mahájaya is most visible in the countryside of [[place-vedyarargn|Vedyara Region]], where village shrines anchor the agricultural calendar and the communal storehouses. In the great cities she is the patron of merchants, of bankers, and of the civic officers who answer for granaries, water rights and the conduct of trade. She is invoked at sowing and harvest, at the weighing of grain, at the sealing of contracts, and at every exchange that holds a society's order together. At [[affiliation-vyalendra2|Vyālendra]] the sanctuary of Mahájaya is first among the temples beside the weaving halls, because honest measure touches every bolt of cloth.
 
 ### How the Inland Janapadas Read Her
 
-Some of her temples govern. At [[affiliation-dhnrktjnpd|Dhanurkota]] her temple hall is where the janapada meets, and its senior priest convenes the sabhā. At [[affiliation-suvrgrjnpd|Suvarnagiri]] three great temples of equal size ring the gold-bearing mountain, so that no one priesthood can claim its gold. The Suvarnagiri tradition reads her as the **balancer**, the force that holds the cosmic order steady against [[affiliation-rasikara|Rásikara]]'s chaos and against [[affiliation-vyalendra|Vyālendra]]'s unchecked making, and it reads its Gold Constitution as that balance kept in the world.
+Some of her temples govern. At [[affiliation-dhnrktjnpd|Dhanurkota]] her temple hall is where the janapada meets, and its senior priest convenes the sabhā. At [[affiliation-suvrgrjnpd|Suvarnagiri]] three great temples of equal size ring the gold-bearing mountain, so that no one priesthood can claim its gold. The Suvarnagiri tradition reads her as the balancer, the force that holds the cosmic order steady against [[affiliation-rasikara|Rásikara]]'s chaos and against [[affiliation-vyalendra|Vyālendra]]'s unchecked making, and it reads its **Gold Constitution** as that balance kept in the world.
 
 ### What You See at Her Shrines
 
 She is pictured as a serene matriarch, crowned with sheaves of wheat and holding a balanced scale. The scale is the scale of measure, the careful weighing that keeps an exchange honest, a portion fair, and giving and receiving in balance. Her color is the gold of ripe grain, and her seasons are the seasons of cultivation.
 
-Three objects carry the cult. The **brass weighing scale** is kept in village shrines and temples and used in ceremonial weighings at festivals. The **sheaf of wheat** is carried in procession, and a stalk of it is laid on the household shrine at the beginning of each harvest. The **bowl of mixed grains** is a sign of the wholeness that arises when many parts are kept in proper relation. Her servants are the **Nivara-Kshetras**, the spirits of the fields, who guard the sown ground, guide the rains and keep the ripening grain from blight.
+Three objects carry the cult. The brass weighing scale is kept in village shrines and temples and used in ceremonial weighings at festivals. The sheaf of wheat is carried in procession, and a stalk of it is laid on the household shrine at the beginning of each harvest. The bowl of mixed grains is a sign of the wholeness that arises when many parts are kept in proper relation. Her servants are the **Nivara-Kshetras**, the spirits of the fields, who guard the sown ground, guide the rains and keep the ripening grain from blight.
 
 ### What the Devout Do
 

@@ -8,9 +8,9 @@ tags: [hall, military, inland]
 data: {demonym: null, lore: [], parents: [dhanurkotajnpd], population: null, packFolder: vedyara}
 ---
 
-The first question the Swift Hand asks an aspirant is about his horse.
+The first question the **Swift Hand** asks an aspirant is about his horse.
 
-The **Academy of the Swift Hand** teaches the mounted bow, and it is the hall every Vedyari kingdom that fields cavalry sends to. Its hall stands against the east wall of [[place-bowfort|the Bow-Fort]] and its ground is outside the walls, because a riding school cannot be fitted inside them.
+The Academy of the Swift Hand teaches the mounted bow, and it is the hall every Vedyari kingdom that fields cavalry sends to. Its hall stands against the east wall of [[place-bowfort|the Bow-Fort]] and its ground is outside the walls, because a riding school cannot be fitted inside them.
 
 The bow is short and recurved, made to be drawn and loosed from the saddle at a gallop, and it is a different weapon from the longbow of [[place-highdraw|the High Draw]] in everything but name.
 
@@ -22,7 +22,7 @@ The academy knows the contradiction. Its answer is that it has asked the sabhā 
 
 ## Abroad
 
-Swift Hand graduates serve in the horse of the western kingdoms and on the desert frontier. The Dunhara tribes there ride better than anybody the academy trains, and the academy says so in its own teaching.
+Swift Hand graduates serve in the horse of the western kingdoms and on the desert frontier. The [[place-dunharargn|Dunhara]] tribes there ride better than anybody the academy trains, and the academy says so in its own teaching.
 
 ## See Also
 

@@ -16,7 +16,7 @@ data:
 # terran_analog: "Medieval South Indian temple-republic with a martial-caste specialty—Chola-era brahmadeya village federation centered on a fortified temple complex, distinguished by hereditary archery training traditions"
 ---
 
-**Dhanurkota Janapada** is the upper Sarvada valley of [[place-vedyarargn|Vedyara]], thirty thousand people along a long defensible curve of the river where it comes out of the northern hill country into the inland plain. It is the land of the temple-republic of [[affiliation-dhnrktjnpd|Dhanurkota Janapada]]; that note explains how the sabhā governs it, and this one describes the ground and what the villages on it do.
+[[affiliation-dhnrktjnpd|Dhanurkota Janapada]] is the upper [[place-sarvadarivr|Sarvada]] valley of [[place-vedyarargn|Vedyara]], thirty thousand people along a long defensible curve of the river where it comes out of the northern hill country into the inland plain. It is the land of the temple-republic of [[affiliation-dhnrktjnpd|Dhanurkota Janapada]]; that note explains how the sabhā governs it, and this one describes the ground and what the villages on it do.
 
 Ask the ferryman at [[place-taranaghatta|Taranaghatta]] what the valley is for and he answers by listing it: "Bamboo for the bows, reed for the arrows, horn for the backings, wax for the bindings. The rest of us grow dinner." Almost every village in the janapada supplies something the bowyers, the fletchers or the academies need, and the rest feed and clothe the people who work them.
 
@@ -56,7 +56,7 @@ The table names the constituent villages and the bow-fort town. The rest of the 
 What each village is for:
 
 - **The bow:** [[place-venuvana|Venuvana]] grows the bamboo staves, [[place-vishanagrama|Vishānagrāma]] supplies horn and sinew for facings and backings, [[place-sharavana|Sharavana]] cuts the reed for shafts and fletches them, and [[place-madhupada|Madhupāda]] sends wax for the bindings.
-- **The halls and the horses:** [[place-vanasthali|Vanasthalī]] cuts the timber of the academy halls and the fort, and [[place-ashvatira|Ashvatīra]] keeps the horses of the Swift Hand.
+- **The halls and the horses:** [[place-vanasthali|Vanasthalī]] cuts the timber of the academy halls and the fort, and [[place-ashvatira|Ashvatīra]] keeps the horses of the [[place-swifthand|Swift Hand]].
 - **The table and the loom:** [[place-shaligrama|Shāligrāma]] grows rice, [[place-ikshukshetra|Ikshukshetra]] sugarcane, [[place-tilavana|Tilavana]] sesame and [[place-gokshetra|Gokshetra]] cattle; [[place-karpasagrama|Kārpāsagrāma]] weaves cotton and [[place-nilavana|Nīlavana]] dyes it.
 - **The road and the muster:** [[place-taranaghatta|Taranaghatta]] holds the crossing and its toll, and [[place-virasthali|Vīrasthalī]] sends more men to the muster than any other village.
 

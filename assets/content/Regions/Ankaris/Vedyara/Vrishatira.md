@@ -14,7 +14,7 @@ data:
   government: suvrgrjnpd
 ---
 
-**Vrishatīra** is a cattle village on the upper Bhārava, in the [[place-suvarnagirijnpd|Suvarnagiri Janapada]]. It keeps the draft oxen that the terraces and the smelters both depend on, so a plowing season on the slopes and a charcoal haul to the furnaces start from the same herds.
+**Vrishatīra** is a cattle village on the upper [[place-bharavarivr|Bhārava]], in the [[place-suvarnagirijnpd|Suvarnagiri Janapada]]. It keeps the draft oxen that the terraces and the smelters both depend on, so a plowing season on the slopes and a charcoal haul to the furnaces start from the same herds.
 
 ## See Also
 

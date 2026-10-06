@@ -30,7 +30,7 @@ A factor of the [[affiliation-mrchntclctvvdyr|Merchant Collective]] who has work
 
 ## The Wall and the Six Crossings
 
-The [[place-graznmntns|Grazian Mountains]] run the whole northern edge of Vedyara, and no realm claims them. Their southern face is [[place-sthrnwall|the Southern Wall]], an escarpment of some fifteen hundred miles that holds the highest peaks in Thalorna, [[place-suryashkhr|Sūryashikhara]] first among them. North of the range's central and western reaches lies the [[place-khzryndsrtrgn|Khazryn]]; north of [[place-estrnreach|the Eastern Reach]], where the range turns east, lies [[place-tanvuregin|Tānvür]].
+The [[place-graznmntns|Grazian Mountains]] run the whole northern edge of Vedyara, and no realm claims them. Their southern face is [[place-sthrnwall|the Southern Wall]], an escarpment of some fifteen hundred miles that holds the highest peaks in [[place-worldthlrn|Thalorna]], [[place-suryashkhr|Sūryashikhara]] first among them. North of the range's central and western reaches lies the [[place-khzryndsrtrgn|Khazryn]]; north of [[place-estrnreach|the Eastern Reach]], where the range turns east, lies [[place-tanvuregin|Tānvür]].
 
 Only six crossings are recognized along the entire range, and the routes and safe seasons of each are known only to the mountain guides:
 
@@ -47,14 +47,14 @@ At the western end the wall comes apart into the dry foothills of [[place-wstrnd
 
 ## Rivers, Plateau and Forest
 
-Four great rivers leave the ice at four glacier-springs, and the Varnaka faith holds each spring to be the literal source its river flowed from at the beginning of time. The springs are pilgrimages in their own right, and half the subcontinent drinks off this face of the range.
+Four great rivers leave the ice at four glacier-springs, and the [[affiliation-varakpnthn|Varnaka]] faith holds each spring to be the literal source its river flowed from at the beginning of time. The springs are pilgrimages in their own right, and half the subcontinent drinks off this face of the range.
 
-| River                             | Source                                | Reaches the sea      | Known for                                                       |
-| --------------------------------- | ------------------------------------- | -------------------- | --------------------------------------------------------------- |
-| [[place-chandrmahi\|Chandramahī]] | [[place-chandrprbh\|Chandraprabhava]] | A delta on the south | The gem-road, and the city-state of Chandrapur at its mouth     |
-| [[place-sarvadarivr\|Sarvada]]    | [[place-sarvaprbhv\|Sarvaprabhava]]   | The east coast       | The bow-fort janapada upstream and the copyist towns below      |
-| [[place-mahanadi\|Mahānadi]]      | [[place-mahaprbhva\|Mahāprabhava]]    | The east coast       | The longest and most populous river, and the twelve-yearly Mela |
-| [[place-bharavarivr\|Bhārava]]    | [[place-bhrvprbhav\|Bhāravaprabhava]] | The east coast       | The gold highlands, the temple forests and the pilgrim road     |
+| River                             | Source                                | Reaches the sea      | Known for                                                                                        |
+| --------------------------------- | ------------------------------------- | -------------------- | ------------------------------------------------------------------------------------------------ |
+| [[place-chandrmahi\|Chandramahī]] | [[place-chandrprbh\|Chandraprabhava]] | A delta on the south | The gem-road, and the city-state of [[place-chandrapur2             \| Chandrapur]] at its mouth |
+| [[place-sarvadarivr\|Sarvada]]    | [[place-sarvaprbhv\|Sarvaprabhava]]   | The east coast       | The bow-fort janapada upstream and the copyist towns below                                       |
+| [[place-mahanadi\|Mahānadi]]      | [[place-mahaprbhva\|Mahāprabhava]]    | The east coast       | The longest and most populous river, and the twelve-yearly **Mela**                              |
+| [[place-bharavarivr\|Bhārava]]    | [[place-bhrvprbhav\|Bhāravaprabhava]] | The east coast       | The gold highlands, the temple forests and the pilgrim road                                      |
 
 The valleys hold wide fertile floodplains, and the Chandramahī delta carries two rice crops a year. The Mahānadi has changed its channel four times within written record and drowned a royal capital doing it, so the villages of the central plain sit on old levees and on mounds raised over generations.
 
@@ -93,7 +93,7 @@ Three janapadas set the pattern for the rest: [[affiliation-rajaprjnpd|Rājapur]
 
 ## Peoples and Beasts
 
-Vedyara is overwhelmingly human, and nearly all of it is [[lore-vedyariclt|Vedyari]]: one language, one classical learning, one faith in the [[affiliation-varakpnthn|Varnaka]] gods, and one order of stations read from a mark on the wrist. The guide-peoples above the Pass-Shrines stand outside that order entirely. The gathering peoples of the Bhārava forest work under temple licence and are counted by nobody. Enclaves of [[lore-flksinale|Sinalë]] are rumored in the Forest of No Road and have never been confirmed.
+Vedyara is overwhelmingly human, and nearly all of it is [[lore-vedyariclt|Vedyari]]: one language, one classical learning, one faith in the [[affiliation-varakpnthn|Varnaka]] gods, and one order of stations read from a mark on the wrist. The guide-peoples above the [[place-pssshrines|Pass-Shrines]] stand outside that order entirely. The gathering peoples of the Bhārava forest work under temple licence and are counted by nobody. Enclaves of [[lore-flksinale|Sinalë]] are rumored in the Forest of No Road and have never been confirmed.
 
 The [[being-vdyrnrhn|Vedyaran rhinoceros]] keeps to the marshes and tall grass of the floodplains. [[being-vdyrnelphnt|Vedyaran elephants]] serve as temple mounts and war beasts.
 

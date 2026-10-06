@@ -75,29 +75,29 @@ data:
 sohl: {system: {commonSkills: [vedyarlng]}}
 ---
 
-**Vyālendra**, "the City of Ten Thousand Looms," is governed by its weavers. It keeps no king and no fleet, and for generations it has been the textile capital of southern Vedyara: its silk and cotton cloth carries patterns and dyes made nowhere else, the result of centuries of refinement and techniques passed from master weavers to their apprentices and to nobody else. Vyālendri cloth has dressed the courts of emperors and the robes of high priests, and no rival city matches its output or its artistry. The city-state holds [[place-vyalendraland|Vyālendra Land]], the cotton and indigo valleys of the Nilacharī, and [[place-vyalendra3|Vyālendra]] is its seat.
+**Vyālendra**, "the City of Ten Thousand Looms," is governed by its weavers. It keeps no king and no fleet, and for generations it has been the textile capital of southern [[place-vedyarargn|Vedyara]]: its silk and cotton cloth carries patterns and dyes made nowhere else, the result of centuries of refinement and techniques passed from master weavers to their apprentices and to nobody else. Vyālendri cloth has dressed the courts of emperors and the robes of high priests, and no rival city matches its output or its artistry. The city-state holds [[place-vyalendraland|Vyālendra Land]], the cotton and indigo valleys of the **Nilacharī**, and [[place-vyalendra3|Vyālendra]] is its seat.
 
-A Loom-Master taking on an apprentice begins with the pattern-book, and with a warning. "What is drawn for this hall is not drawn anywhere else while I live. Learn it here, weave it here, and keep it here. That rule is older than the Council, and it is the reason a bolt from this hall is worth what it is."
+A **Loom-Master** taking on an apprentice begins with the pattern-book, and with a warning. "What is drawn for this hall is not drawn anywhere else while I live. Learn it here, weave it here, and keep it here. That rule is older than the Council, and it is the reason a bolt from this hall is worth what it is."
 
 ## The Guilds
 
-The weavers of Vyālendra work within an intricate order of craft-lines that the chartered guilds maintain. Master weavers hold the highest places and control both the production and the trade networks that carry the cloth as far as Harad and Heliónis. The city guards its standing jealously.
+The weavers of Vyālendra work within an intricate order of craft-lines that the chartered guilds maintain. Master weavers hold the highest places and control both the production and the trade networks that carry the cloth as far as **Harad** and [[place-helionis|Heliónis]]. The city guards its standing jealously.
 
 The difficult patterns are woven in the great halls inside the walls and the plain goods in the villages of the valleys, and each village's carding, spinning, dyeing or weaving is counted with the guild whose craft-line holds it. A Vyālendri village has no turn in any sabhā; what it has is a master, and what the master has is a seat. The dyers work upstream of the city, where the indigo compounds stain the air, and no dye-house may stand above another's intake.
 
 ## The Loom-Council
 
-The **Loom-Council** governs, and every chartered weaving guild holds a seat on it through its **Loom-Master**, who keeps the dye-books and pattern-books of his line. The Council raises one of its masters as **Speaker** for a term and sends him back to his loom at the end of it. It licenses the guilds, sets the cloth-tax and the warehouse dues, judges between craft-lines, and keeps the watch. It sits in the old audience hall of the kings, and the Speaker addresses it from beside the step where the throne once stood, never on it.
+The **Loom-Council** governs, and every chartered weaving guild holds a seat on it through its Loom-Master, who keeps the dye-books and pattern-books of his line. The Council raises one of its masters as **Speaker** for a term and sends him back to his loom at the end of it. It licenses the guilds, sets the cloth-tax and the warehouse dues, judges between craft-lines, and keeps the watch. It sits in the old audience hall of the kings, and the Speaker addresses it from beside the step where the throne once stood, never on it.
 
 Above the city's own affairs stand the temples. The senior priest of the Trimūrti temple, the city's **Triyācārya**, sanctions the Council's acts as a priest sanctions a sabhā's inland, and a Council decision the temples will not sanction does not take effect. The Council has learned to ask beforehand.
 
-The temples stand beside the great weaving halls, and the sanctuary of [[affiliation-mahajaya|Mahájaya]] is first among them. She is the serene matriarch and the patron of honest measure, and so of every bolt that leaves a hall. The weavers hold their work to be a spiritual thing, and the siting of the temples says so. The city is quieter and less cosmopolitan than Chandrapur, and the slow rhythms of the textile craft have shaped its whole character.
+The temples stand beside the great weaving halls, and the sanctuary of [[affiliation-mahajaya|Mahájaya]] is first among them. She is the serene matriarch and the patron of honest measure, and so of every bolt that leaves a hall. The weavers hold their work to be a spiritual thing, and the siting of the temples says so. The city is quieter and less cosmopolitan than [[affiliation-chandrapur|Chandrapur]], and the slow rhythms of the textile craft have shaped its whole character.
 
 The **Koshādhyaksha** answers for the city treasury: the cloth-tax, the warehouse dues and the Council's reserve. The **Dūta** carries the Council's word to a foreign court or a neighboring council.
 
 ## The Watch
 
-The **Commander of the Watch** is a graduate of the [[affiliation-dhnrktjnpd|Dhanurkota]] academies and never a Vyālendri, by a custom nobody remembers the beginning of. The Council values him for having no kin in the city to favor. Because the academies take students of any station, the man who holds the gates and the treasury is as often born to the serving station as not, and Senāja of the loom households, born to arms, refuse him the salute. The Council has twice been asked to end the custom and has twice declined.
+The **Commander of the Watch** is a graduate of the [[affiliation-dhnrktjnpd|Dhanurkota]] academies and never a Vyālendri, by a custom nobody remembers the beginning of. The Council values him for having no kin in the city to favor. Because the academies take students of any station, the man who holds the gates and the treasury is as often born to the serving station as not, and **Senāja** of the loom households, born to arms, refuse him the salute. The Council has twice been asked to end the custom and has twice declined.
 
 ## The Port and the Fleet
 

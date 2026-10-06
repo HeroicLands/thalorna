@@ -50,11 +50,11 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Asked which of the ten gods is the chief one, the keeper of a [[place-bhrvdvsthna|Bhārava-Devasthāna]] hostel gives the same answer to every foreign pilgrim who puts the question. "None of them. You will not meet a priest of Mahájaya, only a priest of a school who serves Mahájaya when his school's teaching calls for her. Learn the school first and the gods will sort themselves out."
+Asked which of the ten gods is the chief one, the keeper of a [[place-bhrvdvsthna|Bhārava-Devasthāna]] hostel gives the same answer to every foreign pilgrim who puts the question. "None of them. You will not meet a priest of [[affiliation-mahajaya|Mahájaya]], only a priest of a school who serves Mahájaya when his school's teaching calls for her. Learn the school first and the gods will sort themselves out."
 
 The **Varnaka** is a single faith with a plural pantheon. Ten deities and spirit-courts are honored across the tradition, and none of them is a religion of its own. None has a priesthood of its own either: a priest is ordained into one of the faith's schools, which then serve whichever gods their doctrine requires.
 
-The schools are called **sampradāyas**, **vādas**, **panthās** and **samājas**, and there are dozens of them in most regions and hundreds in some. Each has its own theological emphasis, its own temple style and its own favored rites. A school may venerate one god, a small group of them, or the whole pantheon read in one key, and a single god may be the focus of several schools that read him differently. Most temples belong to one school. The lay faithful move between schools and temples easily and attend whichever shrine suits the occasion.
+The schools are called sampradāyas, vādas, panthās and samājas, and there are dozens of them in most regions and hundreds in some. Each has its own theological emphasis, its own temple style and its own favored rites. A school may venerate one god, a small group of them, or the whole pantheon read in one key, and a single god may be the focus of several schools that read him differently. Most temples belong to one school. The lay faithful move between schools and temples easily and attend whichever shrine suits the occasion.
 
 These notes describe the gods, their symbols, their images, their sacred objects and how their worshippers keep them, beside a sample of the schools that carry the faith's institutional life. The whole of Varnakan tradition would fill a library.
 
@@ -63,8 +63,8 @@ These notes describe the gods, their symbols, their images, their sacred objects
 Four standings run through the faith.
 
 - **Upāsaka** is the lay devotee, who keeps the household observances of whichever gods the household honors. Most devotion to a god consists of this: a Householder keeps the shrine and its observances.
-- **Vratin** ("one under vow") has completed one of the gods' **Ordeals for Favor**, the only standing that devotion to a god confers, and holds it for life. [[lore-vowdevoteernk|Vow-Bound Devotee]] sets out what the vow asks and what a household owes the person who holds it. A Vrata-Holder is someone under, or having completed, a named ordeal of a particular god.
-- **Ordained of a Sampradāya** is a priest of one of four schools: [[affiliation-agnipantha|Agnī-panthā]], [[affiliation-svapnasarisamaja|Svapnasāri-samāja]], [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]] or [[affiliation-vyalendravada|Vyālendravāda]]. Each carries its own ladder, and priesthood belongs to the school and never to the god. The working priest of a school is its Ácārya.
+- [[lore-vowdevoteernk|Vratin]] ("one under vow") has completed one of the gods' **Ordeals for Favor**, the only standing that devotion to a god confers, and holds it for life. [[lore-vowdevoteernk|Vow-Bound Devotee]] sets out what the vow asks and what a household owes the person who holds it. A Vrata-Holder is someone under, or having completed, a named ordeal of a particular god.
+- **Ordained of a Sampradāya** is a priest of one of four schools: [[affiliation-agnipantha|Agnī-panthā]], [[affiliation-svapnasarisamaja|Svapnasāri-samāja]], [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]] or [[affiliation-vyalendravada|Vyālendravāda]]. Each carries its own ladder, and priesthood belongs to the school and never to the god. The working priest of a school is its **Ácārya**.
 - **Patita** ("fallen") is a person put out of Varnakan observance, marked by a brand on the face that every house and school recognizes. The sentence can be forgiven, and the forgiven person carries proof of the forgiveness for life.
 
 ## Principal Gods
@@ -145,7 +145,7 @@ Four standings run through the faith.
 ### Svapnadēvas (_The Dreaming Host_)
 
 - **Aspect:** Dreams
-- **Role:** Celestial spirits who weave dreams, omens and visions and act as intermediaries between mortals and the divine. They are divine servants of [[lore-goddreams|The God of Dreams]], though the Varnaka do not name or directly worship that elder deity. They revere the Host itself.
+- **Role:** Celestial spirits who weave dreams, omens and visions and act as intermediaries between mortals and the divine. They are divine servants of [[lore-goddreams|The God of Dreams]], though the Varnaka do not name or directly worship that elder deity. They revere the [[affiliation-svapnadevas|Host]] itself.
 - **Symbol:** A crescent moon with a lotus stem.
 - **Pronunciation:** _SWAP-nah-day-vahs_
 - **Local Worship:** Seers and mystics invoke them in rites of prophecy.

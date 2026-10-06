@@ -52,7 +52,7 @@ sohl: {system: {commonSkills: [vyahrati, sohl-sohl-skill-agri]}}
 - **Pronunciation:** _VYAH-hrah-tee_
 - **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
-"Not the whole garland. Just what has faded." A woman who keeps the alcove beside a louder god's temple says it to the child sent to empty the household's flowers into her bowl, and shows her where the faded ones begin. Vyāhrati's veneration is small and quiet. Her shrines are modest alcoves beside the larger temples of other Varnakan gods, her formal priesthood is few, and her rites are kept in every household. She is venerated for her necessity.
+"Not the whole garland. Just what has faded." A woman who keeps the alcove beside a louder god's temple says it to the child sent to empty the household's flowers into her bowl, and shows her where the faded ones begin. [[lore-vyahratidty|Vyāhrati]]'s veneration is small and quiet. Her shrines are modest alcoves beside the larger temples of other Varnakan gods, her formal priesthood is few, and her rites are kept in every household. She is venerated for her necessity.
 
 Vyāhrati is the goddess of endings and of the quiet change by which what has reached its term gives itself back to the world. Without decay there is no soil, and without endings there are no beginnings. A house, a garden and a soul all turn stale when what must be released is not released. [[affiliation-rasikara|Rásikara]] breaks what will not yield, and Vyāhrati receives what yields of itself.
 
@@ -60,7 +60,7 @@ Vyāhrati is the goddess of endings and of the quiet change by which what has re
 
 She is pictured as a serene older woman crowned with wilting blossoms and not fresh ones, holding a shallow bowl into which petals and dew are gathered. Her presence is quiet and unhurried. Her colors are the bronze of autumn and the soft violet of deep twilight.
 
-Three objects carry the cult. **The Petal Bowl** is a small shallow bowl kept in every Vyāhratan household shrine, and the faded flowers of each day are placed in it. **The Dew-Phial** is a small glass phial of dew-water, gathered at the autumn equinox and used in the **Rite of Releasing**. The **withered garland** is deliberately wilted and worn at the rites of decay, as a sign of willing acceptance.
+Three objects carry the cult. **The Petal Bowl** is a small shallow bowl kept in every Vyāhratan household shrine, and the faded flowers of each day are placed in it. **The Dew-Phial** is a small glass phial of dew-water, gathered at the autumn equinox and used in the **Rite of Releasing**. The withered garland is deliberately wilted and worn at the rites of decay, as a sign of willing acceptance.
 
 ### What the Devout Do
 

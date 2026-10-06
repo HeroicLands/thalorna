@@ -52,7 +52,7 @@ sohl: {system: {commonSkills: [kamavrata, sohl-sohl-skill-sing, sohl-sohl-skill-
 - **Pronunciation:** _KAH-mah-vrah-tah_
 - **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
-"Sit down. Nobody here will ask you what you believe." The gardener-priest of a Kāmavratan temple says this to the nervous young groom who has come to buy the garlands for his wedding, and puts a clipping from the lotus pond in his hand before he can answer. It is a fair introduction to the cult. Kāmavrata is the most widely loved god in [[place-vedyarargn|Vedyara Region]], his shrines stand near gardens and rivers, and his festivals are among the most popular of the year. The clergy are famous for their welcome, and many people who would not call themselves Kāmavratan keep one of his festivals anyway.
+"Sit down. Nobody here will ask you what you believe." The gardener-priest of a Kāmavratan temple says this to the nervous young groom who has come to buy the garlands for his wedding, and puts a clipping from the lotus pond in his hand before he can answer. It is a fair introduction to the cult. [[lore-kamavratadty|Kāmavrata]] is the most widely loved god in [[place-vedyarargn|Vedyara Region]], his shrines stand near gardens and rivers, and his festivals are among the most popular of the year. The clergy are famous for their welcome, and many people who would not call themselves Kāmavratan keep one of his festivals anyway.
 
 He is the patron of lovers, the newly married and those hoping for a child, and also of poetry, music, dance, sculpture, the preparation of scented oils and the keeping of gardens. Where [[affiliation-vyalendra|Vyālendra]] gives the world its form, Kāmavrata gives it its delight.
 
@@ -60,7 +60,7 @@ He is the patron of lovers, the newly married and those hoping for a child, and 
 
 The image is a youthful figure of great beauty, garlanded with flowers, holding a lotus and playing a stringed instrument. His bow is a bow of sugarcane, and his arrows are the five arrows of desire, each fletched with a different flower. His colors are the rose of dawn and the deep green of the flowering garden.
 
-Three objects carry the cult. The **floral garland** is worn by the clergy, offered to images of the god, and placed on the shoulders of newly married couples. **Scented oil** is consecrated in the temple and used in the rites of marriage and of prayer for conception. The **sugarcane bow and flower-arrow** are a ceremonial instrument, carried at festivals.
+Three objects carry the cult. The floral garland is worn by the clergy, offered to images of the god, and placed on the shoulders of newly married couples. Scented oil is consecrated in the temple and used in the rites of marriage and of prayer for conception. The sugarcane bow and flower-arrow are a ceremonial instrument, carried at festivals.
 
 ### What the Devout Do
 

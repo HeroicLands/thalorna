@@ -28,7 +28,7 @@ Several lines will have nothing to do with the brotherhoods and hold that the tr
 
 ## What the City Thinks
 
-Nothing, mostly. The Kulina of the quarter has the charter in his records. The crown's assay has no interest in a building that neither cuts nor sells. Two of the Nine Houses use the place regularly and would be surprised and offended to be told what else is in it, and one of them is right to be and one is not.
+Nothing, mostly. The Kulina of the quarter has the charter in his records. The crown's assay has no interest in a building that neither cuts nor sells. Two of the **Nine Houses** use the place regularly and would be surprised and offended to be told what else is in it, and one of them is right to be and one is not.
 
 The house's difficulty is not the court. It is the gap between the conch and the pyre. A [[affiliation-thresholdkeepers|Threshold-keeper]] with a warrant and one well-framed question reaches past everything the vow can do, and the warrants are licensed for inheritance and for murder and refused for trade—which is the arrangement a merchant house of this city is presently trying to have read the other way, in a matter that the men on the ground floor of the Waiting House already know more about than the petitioner does.
 

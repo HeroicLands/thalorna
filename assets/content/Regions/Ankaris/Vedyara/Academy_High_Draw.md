@@ -8,9 +8,9 @@ tags: [hall, military, inland]
 data: {demonym: null, lore: [], parents: [dhanurkotajnpd], population: null, packFolder: vedyara}
 ---
 
-In your first year at the High Draw you are handed a bow you cannot yet pull, and you are expected to keep pulling it.
+In your first year at the **High Draw** you are handed a bow you cannot yet pull, and you are expected to keep pulling it.
 
-The **Academy of the High Draw** is the oldest of the four halls inside [[place-bowfort|the Bow-Fort]] and teaches the great longbow. Its foundation is placed in the dim past by its own account and is not dated by anybody else's. Its graduates serve in infantry-support roles, standing behind a line and shooting over it, which is the oldest use a Vedyari army has for an archer.
+The Academy of the High Draw is the oldest of the four halls inside [[place-bowfort|the Bow-Fort]] and teaches the great longbow. Its foundation is placed in the dim past by its own account and is not dated by anybody else's. Its graduates serve in infantry-support roles, standing behind a line and shooting over it, which is the oldest use a Vedyari army has for an archer.
 
 The hall is a long stone shed open down one side, with the shooting ground beyond it running two hundred paces to the butts under the north wall. It is the only one of the four whose ground is inside the fort.
 

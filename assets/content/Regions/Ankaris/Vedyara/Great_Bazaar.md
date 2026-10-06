@@ -26,7 +26,7 @@ That is the arrangement, and the arrangement is why there is still a Mahārāja 
 
 ## The Open Floor
 
-The Bazaar's second rule is that a trade done under the roof is done in the open, in the hearing of anyone standing there. Prices are cried. Weights are the crown's and are checked in public at the turn of every season. A foreign factor with no house, no quarter and no charter may buy on the floor exactly as a Kulina may, which is unusual in Vedyara and is the largest single reason the foreign trade comes to this city rather than to some other.
+The Bazaar's second rule is that a trade done under the roof is done in the open, in the hearing of anyone standing there. Prices are cried. Weights are the crown's and are checked in public at the turn of every season. A foreign factor with no house, no quarter and no charter may buy on the floor exactly as a Kulina may, which is unusual in [[place-vedyarargn|Vedyara]] and is the largest single reason the foreign trade comes to this city rather than to some other.
 
 The open floor also makes the Bazaar the best place in southern Vedyara to hear something. Every Kulina keeps a man there who buys nothing.
 

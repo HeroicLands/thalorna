@@ -16,7 +16,7 @@ data:
 # terran_analog: "Semi-arid interior plateau of peninsular India—basalt tableland in the rain-shadow of the coastal ranges, held by transhumant cattle-herding lineages whose wealth is stock and water rights rather than cultivated land"
 ---
 
-**Vandhyabhūmi** is the high dry interior of [[place-vedyarargn|Vedyara]], the block of tableland the four great rivers run past and do not water. It stands a thousand feet or so above the plains that surround it, it is bounded on the east by the Mahānadi's western tributaries and on the west by the escarpment that falls to the arid western coast, and it is the one large country of the subcontinent that no river valley organizes.
+**Vandhyabhūmi** is the high dry interior of [[place-vedyarargn|Vedyara]], the block of tableland the four great rivers run past and do not water. It stands a thousand feet or so above the plains that surround it, it is bounded on the east by the [[place-mahanadi|Mahānadi]]'s western tributaries and on the west by the escarpment that falls to the arid western coast, and it is the one large country of the subcontinent that no river valley organizes.
 
 The name is the lowlands'. _Vandhya_ means barren, and a Vedyari of the [[place-mahanadi|Mahānadi]] plain glosses it as ground that will not take a plow. The people on the plateau use the name and do not accept the judgment in it. The country carries more cattle to the acre than any floodplain in Vedyara, and the floodplains plow with bullocks bred on it.
 
@@ -34,7 +34,7 @@ The plateau sells bullocks, hides, horn, ghee, coarse wool and the draft animals
 
 ## The Calendar Question
 
-The plateau plants nothing that matters and its year does not turn on a flood. It turns on the day the herds move, and that day is fixed by a priest reading the season, not by a river. Where a river janapada and a coastal port keep two different calendars and argue about the Mela, the plateau keeps a third and is not consulted.
+The plateau plants nothing that matters and its year does not turn on a flood. It turns on the day the herds move, and that day is fixed by a priest reading the season, not by a river. Where a river janapada and a coastal port keep two different calendars and argue about the **Mela**, the plateau keeps a third and is not consulted.
 
 It is also where the count began. The temples here follow the [[lore-mdhvndrcnt|Mādhavendra count]] as the [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]] sights it and hold the computed year to be an impertinence, and they say so more loudly than temples with more at stake, because the epoch is theirs.
 

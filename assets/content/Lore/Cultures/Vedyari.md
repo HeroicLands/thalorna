@@ -7,13 +7,13 @@ description: "The Vedyari—their beliefs, their mores, and what they hold a per
 tags: []
 ---
 
-The Vedyari are one people across a map that has never been one state. A scholar from a southern harbor who lands at a northern pass-kingdom finds the temple, the assembly, the stations and the classical curriculum all intelligible on the first day, and the coinage and the king strange. What holds across [[place-vedyarargn|Vedyara]] is the station a person is born to, the household that station sits in, and the rites that mark both. What varies is who collects the tax.
+The **Vedyari** are one people across a map that has never been one state. A scholar from a southern harbor who lands at a northern pass-kingdom finds the temple, the assembly, the stations and the classical curriculum all intelligible on the first day, and the coinage and the king strange. What holds across [[place-vedyarargn|Vedyara]] is the station a person is born to, the household that station sits in, and the rites that mark both. What varies is who collects the tax.
 
-A Ritūja who keeps the school at a janapada temple, asked by a foreign student where to begin, begins at the wrist. "Before you learn our gods or our grammar, learn where to look when someone gives you their hand. Everyone you meet here has already read yours, and found nothing there, and decided what that means."
+A **Ritūja** who keeps the school at a janapada temple, asked by a foreign student where to begin, begins at the wrist. "Before you learn our gods or our grammar, learn where to look when someone gives you their hand. Everyone you meet here has already read yours, and found nothing there, and decided what that means."
 
 ## The Wrist-Line
 
-A Vedyari is named eight days after birth, and the naming leaves a mark: two signs in the old abjad, cut small inside the left wrist. The first names the tharana, the order a person is born to; the second the kula, the lineage within it. An Outcaste's is struck through with a single stroke, and a child born outside the order is marked so at the same age as any other.
+A Vedyari is named eight days after birth, and the naming leaves a mark: two signs in the old abjad, cut small inside the left wrist. The first names the tharana, the order a person is born to; the second the kula, the lineage within it. An **Outcaste**'s is struck through with a single stroke, and a child born outside the order is marked so at the same age as any other.
 
 The mark is the document. A temple gate asks to see the wrist, and so does a sabhā before it seats a speaker, a court before it hears a party, and a bride's household before it agrees to anything. None of them asks for a word about it; they read it themselves.
 
@@ -25,17 +25,17 @@ Hiding a station means wrapping the wrist. It is common, and it is no offense in
 
 The order runs from outside it upward, and every station is a station a person can be born into and live a whole life in.
 
-| Station                             | Bears arms                                                                                                            | Holds land                                      | Temple, well, court            | Speaks in a sabhā             | Travels                                              |
-| ----------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------ | ----------------------------- | ---------------------------------------------------- |
-| Outcaste                            | not in orthodox country, and is killed for it; freely in the pass-kingdoms, on a deck, and above the last Pass-Shrine | no                                              | none of the three              | no                            | anywhere nobody asks                                 |
-| Bonded Servant                      | as the household's man, carrying its token                                                                            | no                                              | the household's, never his own | no                            | only with the bond-token; without it he is a runaway |
-| Karmāja                             | as a levy, or by an academy's grant                                                                                   | use-rights in a janapada, never in his own name | all three                      | when his village's turn comes | on his sabhā's leave, or his master's                |
-| Dhanāja                             | by right, and is answered as a gentleman                                                                              | yes                                             | all three                      | yes                           | freely, on a Collective letter                       |
-| Senāja                              | by right, and owes service in the host                                                                                | yes                                             | all three                      | yes, on war                   | freely                                               |
-| Ritūja                              | for the temple, never for pay                                                                                         | through the temple                              | all three, and holds the court | convenes it                   | on a sanctioned ordeal, or as an ascetic             |
-| Sāmanta, Kulina, Sabhāsad and above | yes                                                                                                                   | yes                                             | all three                      | yes                           | by leave of court, council or sabhā                  |
+| Station                                         | Bears arms                                                                                                            | Holds land                                      | Temple, well, court            | Speaks in a sabhā             | Travels                                              |
+| ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------ | ----------------------------- | ---------------------------------------------------- |
+| Outcaste                                        | not in orthodox country, and is killed for it; freely in the pass-kingdoms, on a deck, and above the last Pass-Shrine | no                                              | none of the three              | no                            | anywhere nobody asks                                 |
+| **Bonded Servant**                              | as the household's man, carrying its token                                                                            | no                                              | the household's, never his own | no                            | only with the bond-token; without it he is a runaway |
+| **Karmāja**                                     | as a levy, or by an academy's grant                                                                                   | use-rights in a janapada, never in his own name | all three                      | when his village's turn comes | on his sabhā's leave, or his master's                |
+| **Dhanāja**                                     | by right, and is answered as a gentleman                                                                              | yes                                             | all three                      | yes                           | freely, on a Collective letter                       |
+| **Senāja**                                      | by right, and owes service in the host                                                                                | yes                                             | all three                      | yes, on war                   | freely                                               |
+| Ritūja                                          | for the temple, never for pay                                                                                         | through the temple                              | all three, and holds the court | convenes it                   | on a sanctioned ordeal, or as an ascetic             |
+| **Sāmanta**, **Kulina**, **Sabhāsad** and above | yes                                                                                                                   | yes                                             | all three                      | yes                           | by leave of court, council or sabhā                  |
 
-A Ritūja who takes pay for arms is Patita—fallen—and the ordination ends with the payment. It is the sharpest of the station rules, and the first one a temple school teaches.
+A Ritūja who takes pay for arms is **Patita**—fallen—and the ordination ends with the payment. It is the sharpest of the station rules, and the first one a temple school teaches.
 
 ## Leaving a Station, Losing It, Hiding It
 
@@ -47,7 +47,7 @@ A station is not chosen and is rarely changed, and the ways out of one are few e
 
 **It is bought out.** A Bonded Servant's debt is paid—at the great pilgrim assembly, where the bond-holders come to be paid, or by a letter of credit from the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. A runaway who reaches the sea or the pass-kingdoms is not returned, and both know it.
 
-**It is hidden.** The wrist is wrapped and the person goes where the wrap is not read: the deck, the road under the traveler's cord, the high country. An [[affiliation-agnipantha|Agnī-panthā]] Purgation readmits an Outcaste to the order, and the orthodox hierarchy does not recognize the readmission, so a person so purged is inside the order in one half of the subcontinent and outside it in the other.
+**It is hidden.** The wrist is wrapped and the person goes where the wrap is not read: the deck, the road under the traveler's cord, the high country. An [[affiliation-agnipantha|Agnī-panthā]] **Purgation** readmits an Outcaste to the order, and the orthodox hierarchy does not recognize the readmission, so a person so purged is inside the order in one half of the subcontinent and outside it in the other.
 
 ## The Household
 
@@ -63,7 +63,7 @@ None of this is held to be cruelty by the people who keep it. It is held to be t
 
 ## The Year
 
-Vedyara keeps the [[lore-mdhvndrcnt|Mādhavendra count]]. The public year is sighted by the [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]] at the Sūrya temple where the Chandramahī comes out of the ice, and computed, separately, by the reckoners at Chandrapur. The two figures differ by a day often enough that a court states which one it follows before it fixes a coronation, a Weighing or a festival, and a household that has traveled for the wrong one has no recourse.
+Vedyara keeps the [[lore-mdhvndrcnt|Mādhavendra count]]. The public year is sighted by the [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]] at the [[place-suryatempl|Sūrya temple]] where the [[place-chandrmahi|Chandramahī]] comes out of the ice, and computed, separately, by the reckoners at [[place-chandrapur2|Chandrapur]]. The two figures differ by a day often enough that a court states which one it follows before it fixes a coronation, a Weighing or a festival, and a household that has traveled for the wrong one has no recourse.
 
 The ritual year and the agricultural year are the same year. The monsoon sets both, [[affiliation-meghanatha|Meghanātha]] is petitioned at its onset by every household that grows anything, and the great pilgrim assembly falls in the dry season because that is when the roads carry.
 
@@ -79,7 +79,7 @@ Devotion in Vedyara most often takes the form of making something. Dance, music,
 
 ## The Threshold
 
-A Vedyari household expects to be told when a death is coming, and to have time. The threshold lamp is lit at the onset of a final illness and tended until the passage is finished; nobody in the house quarrels or speaks loudly while it burns. [[affiliation-kalavrata|Kālavrata]]'s conch is sounded at the last breath, the Coin of Passage is put in the hand, and no part of what follows may be hurried.
+A Vedyari household expects to be told when a death is coming, and to have time. The threshold lamp is lit at the onset of a final illness and tended until the passage is finished; nobody in the house quarrels or speaks loudly while it burns. [[affiliation-kalavrata|Kālavrata]]'s conch is sounded at the last breath, the [[miscgear-coinpassage|Coin of Passage]] is put in the hand, and no part of what follows may be hurried.
 
 The pyre follows within the day. Between the conch and the pyre there is a gap, and in the polities that license it a [[affiliation-thresholdkeepers|Threshold-keeper]] may be called into that gap to put one question. Most households never see it done. Every household knows the gap is there, and a family that declines the question when a court asks for it is understood to be declining for a reason.
 

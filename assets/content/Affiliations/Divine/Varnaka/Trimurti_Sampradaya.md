@@ -77,7 +77,7 @@ sohl:
 
 ## Trimūrti-sampradāya—The Tradition of the Three Forms
 
-- **Tradition:** Trimūrti-sampradāya—_Tradition of the Three Forms_
+- **Tradition:** **Trimūrti-sampradāya**—_Tradition of the Three Forms_
 - **Deities Venerated:** [[affiliation-vyalendra|Vyālendra]], [[affiliation-mahajaya|Mahájaya]], [[affiliation-rasikara|Rásikara]]—as three faces of a single cosmic truth; lesser gods observed as occasion requires
 - **Emphasis:** Orthodox, balanced veneration of the cosmic triad; civic religion; the foundational tradition of most Vedyaran city-states
 - **Pronunciation:** _Tri-MOOR-tee sum-pra-DAH-yah_
@@ -120,9 +120,9 @@ The **Order of the Balanced Temple** is the senior administrative order of the s
 
 ### The Council of the Triyācāryas
 
-The Council decides which practices may be worked in the open, in a god's name, before people who did not ask to be present. It teaches no practice of its own. It is also, by an authority nobody granted it and nobody has successfully contested, the licensing authority for public working throughout Vedyara.
+The Council decides which practices may be worked in the open, in a god's name, before people who did not ask to be present. It teaches no practice of its own. It is also, by an authority nobody granted it and nobody has successfully contested, the licensing authority for public working throughout [[place-vedyarargn|Vedyara]].
 
-**The rule it enforces is the school rule.** A Varnakan ordains into a school and never to a god. A working done inside a school is the school's business, and the Council's only if the school asks. A working done outside every school is folk magic: the village charm, the herb-woman, the knot against a fever. The Council tolerates it completely, on the understanding that it claims nothing. A working done outside every school **in a god's name** is neither, and the answer to it is Patita. The working is stopped, the worker is put out of Varnakan observance, and the face is branded. Every house and school recognizes the brand. The sentence can be forgiven, and the forgiven person carries proof of the forgiveness for the rest of their life.
+_The rule it enforces is the school rule._ A Varnakan ordains into a school and never to a god. A working done inside a school is the school's business, and the Council's only if the school asks. A working done outside every school is folk magic: the village charm, the herb-woman, the knot against a fever. The Council tolerates it completely, on the understanding that it claims nothing. A working done outside every school _in a god's name_ is neither, and the answer to it is **Patita**. The working is stopped, the worker is put out of Varnakan observance, and the face is branded. Every house and school recognizes the brand. The sentence can be forgiven, and the forgiven person carries proof of the forgiveness for the rest of their life.
 
 That single rule is why Vedyara looks, to an outsider, as though its priests hold a monopoly on power they have never actually claimed. What they hold is a monopoly on speaking for a god, which is a smaller thing and a much more defensible one.
 
@@ -130,7 +130,7 @@ That single rule is why Vedyara looks, to an outsider, as though its priests hol
 
 **What it condemns without pursuing.** The [[affiliation-chayavrata|Chaya-vrata]] works outside the schools and in no god's name at all, which is exactly what makes the sanction unusable: the vow claims nothing, so there is nothing to strike at. The Council states the condemnation and leaves the pursuit to courts that cannot find anyone to try.
 
-**What it has no reach over.** The [[affiliation-ganakashala|Ganaka-shala]] computes and does not work, and the Council has no ground to license a calculation. The two bodies disagree about the year instead, and the disagreement is durable because authority cannot resolve it. The Council sights the year at the Sūrya temple, the college computes it, the figures differ by a day often enough to matter, and each court declares which it follows.
+**What it has no reach over.** The [[affiliation-ganakashala|Ganaka-shala]] computes and does not work, and the Council has no ground to license a calculation. The two bodies disagree about the year instead, and the disagreement is durable because authority cannot resolve it. The Council sights the year at the [[place-suryatempl|Sūrya temple]], the college computes it, the figures differ by a day often enough to matter, and each court declares which it follows.
 
 ### Geographic Presence
 

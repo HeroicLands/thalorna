@@ -14,4 +14,4 @@ data:
   government: dhnrktjnpd
 ---
 
-**Vīrasthalī** (680) is the lineage village of Senāja households on the hill above the ford, in the [[place-dhanurkotajnpd|Dhanurkota Janapada]]. Born to arms, its men owe service in the host, and when the sabhā calls the muster they come down off the hill in greater numbers than any other village sends.
+**Vīrasthalī** (680) is the lineage village of **Senāja** households on the hill above the ford, in the [[place-dhanurkotajnpd|Dhanurkota Janapada]]. Born to arms, its men owe service in the host, and when the sabhā calls the muster they come down off the hill in greater numbers than any other village sends.

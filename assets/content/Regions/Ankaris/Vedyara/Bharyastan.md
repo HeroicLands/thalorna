@@ -78,9 +78,9 @@ sohl: {system: {commonSkills: [vedyarlng]}}
 
 ## Overview
 
-Bharyastān is a small mountain kingdom of the Bhārava highlands, in the upland country east of the gold mountain of [[affiliation-suvrgrjnpd|Suvarnagiri]]. It holds eight valleys and a hundred and twenty thousand people, and the Mahārāja keeps his court at [[place-bharyastan2|Bharyastān]], the one town of the eight.
+[[place-bharyastan2|Bharyastān]] is a small mountain kingdom of the [[place-bharavarivr|Bhārava]] highlands, in the upland country east of the gold mountain of [[affiliation-suvrgrjnpd|Suvarnagiri]]. It holds eight valleys and a hundred and twenty thousand people, and the Mahārāja keeps his court at [[place-bharyastan2|Bharyastān]], the one town of the eight.
 
-It is one of the hundred small kingdoms of Vedyara in the exact sense the phrase carries: a single upland district, a fort above each valley, and a court of perhaps forty people. A traveler notices it for what it is paid.
+It is one of the hundred small kingdoms of [[place-vedyarargn|Vedyara]] in the exact sense the phrase carries: a single upland district, a fort above each valley, and a court of perhaps forty people. A traveler notices it for what it is paid.
 
 ## The Gold Treaty
 
@@ -88,11 +88,11 @@ Bharyastān is bound by standing treaty to send military assistance to Suvarnagi
 
 The arrangement suits both. Suvarnagiri keeps three hundred guards of its own and would rather not keep three thousand. Bharyastān keeps four hundred horse it could not otherwise afford, in a district that grows barley and walnuts and exports neither in quantity. The tribute is weighed at the janapada's own station and carried up in one party each spring, under an escort both parties provide and neither commands.
 
-The gold reaches nobody else on the way. It leaves the Gold Constitution's reach as tribute and not as trade, and the [[affiliation-mrchntclctvvdyr|Merchant Collective]]'s factors have no standing to weigh it at either end. The Assembly of the Compact has been known to raise the point, and has never yet raised it twice in the same decade.
+The gold reaches nobody else on the way. It leaves the **Gold Constitution**'s reach as tribute and not as trade, and the [[affiliation-mrchntclctvvdyr|Merchant Collective]]'s factors have no standing to weigh it at either end. The [[affiliation-assmblycmpct|Assembly of the Compact]] has been known to raise the point, and has never yet raised it twice in the same decade.
 
 ## Government
 
-The Mahārāja rules with a martial council of the eight valley Sāmantas and a small priestly court drawn from the temples of the upper valleys. The Sāmantas are the kingdom's real weight. Several of them hold estates down on the plain below the janapada's wedge of upland, outside Suvarnagiri's territory and outside its constitution. A Sāmanta with land in both countries is the man both courts send for when something needs settling quietly.
+The Mahārāja rules with a martial council of the eight valley **Sāmantas** and a small priestly court drawn from the temples of the upper valleys. The Sāmantas are the kingdom's real weight. Several of them hold estates down on the plain below the janapada's wedge of upland, outside Suvarnagiri's territory and outside its constitution. A Sāmanta with land in both countries is the man both courts send for when something needs settling quietly.
 
 Succession is hereditary and is confirmed by the council, as it is in the larger kingdoms. The kingdom has changed hands by acclamation twice in four hundred years and by inheritance every other time.
 

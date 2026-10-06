@@ -16,13 +16,13 @@ data:
 # terran_analog: "Medieval South Indian temple-republic with mineral-resource wealth—Chola-era brahmadeya village federation centered on a gold-bearing mountain, governed by an unusually elaborate constitutional structure designed to prevent the concentration of mineral wealth in any one lineage or temple"
 ---
 
-The Suvarnagiri country is a triangular wedge of upland at the headwaters of the Bhārava, in the foothills where the central Vedyari plain rises into the [[place-graznmntns|Grazian Mountains]]. It is the land of the temple-republic of [[affiliation-suvrgrjnpd|Suvarnagiri Janapada]], in the Bhārava highlands of [[place-vedyarargn|Vedyara]], and thirty-five thousand people live on it. Strangers know it for one fact about its mountain: nobody has ever dug into it.
+The Suvarnagiri country is a triangular wedge of upland at the headwaters of the [[place-bharavarivr|Bhārava]], in the foothills where the central Vedyari plain rises into the [[place-graznmntns|Grazian Mountains]]. It is the land of the temple-republic of [[affiliation-suvrgrjnpd|Suvarnagiri Janapada]], in the Bhārava highlands of [[place-vedyarargn|Vedyara]], and thirty-five thousand people live on it. Strangers know it for one fact about its mountain: nobody has ever dug into it.
 
 ## The Mountain
 
 A panning head from the upper terraces puts it to a newcomer in a sentence. "You are looking at three thousand feet of old rock with gold in it. We have never cut a vein. The rain takes the gold out of the stone, the streams carry it down, and we meet it in the gravel."
 
-The mountain is a moderately sized peak, perhaps three thousand feet above the surrounding country, of weathered metamorphic rock with thin veins of native gold running through it. The gold taken at Suvarnagiri is **alluvial**: the seasonal rains wash it out of the veins, it gathers in the streams and small rivers that drain the slopes, and hereditary panning-families pan it out by techniques fifty generations have refined. The streams give perhaps six to eight hundred ounces in a typical year, somewhat more in a wet one and somewhat less in a drought. That is no fortune by the standards of the great Vedyari kingdoms. For a janapada of thirty-five thousand people it is a significant and sustained income.
+The mountain is a moderately sized peak, perhaps three thousand feet above the surrounding country, of weathered metamorphic rock with thin veins of native gold running through it. The gold taken at Suvarnagiri is alluvial: the seasonal rains wash it out of the veins, it gathers in the streams and small rivers that drain the slopes, and hereditary panning-families pan it out by techniques fifty generations have refined. The streams give perhaps six to eight hundred ounces in a typical year, somewhat more in a wet one and somewhat less in a drought. That is no fortune by the standards of the great Vedyari kingdoms. For a janapada of thirty-five thousand people it is a significant and sustained income.
 
 Where the ounces go is the business of the [[affiliation-suvrgrjnpd|Gold Constitution]]: half to the three temples, a quarter to the common treasury, a quarter paid out to the households, and no household allowed to keep more than about twelve ounces of its own.
 
@@ -57,7 +57,7 @@ The table lists the constituent villages the sabhā seats and the temple-town it
 
 Beyond the gold the land grows the standard Vedyari upland mix: millet at [[place-dhanyagrama|Dhānyagrāma]], mountain rice at [[place-nilakshetra|Nīlakshetra]], pulses, and the temperate fruit of [[place-madhuvana|Madhuvana]] that will not grow on the lowland plain.
 
-Its smiths are better than the country around them. The iron-smelting at [[place-tamravana|Tāmravana]], fed by what the gold has taught, is some of the best in inland Vedyara, and the jewelers' quarter at Lower Suvarnagiri works the local gold with gemstones imported from [[affiliation-chandrapur|Chandrapur]]. Its reputation across the continent is second only to Chandrapur's own.
+Its smiths are better than the country around them. The iron-smelting at [[place-tamravana|Tāmravana]], fed by what the gold has taught, is some of the best in inland Vedyara, and the jewelers' quarter at **Lower Suvarnagiri** works the local gold with gemstones imported from [[affiliation-chandrapur|Chandrapur]]. Its reputation across the continent is second only to Chandrapur's own.
 
 The janapada sells gold, iron and ironwork, fine jewelry, mountain produce, and the considerable manuscripts of the Suvarnagiri Mahájaya tradition. About half the year's gold is sold or traded into the wider Vedyari economy, and that is the cash the common-share expenditures are met from. It buys textiles, books, gemstones, salt, and the luxuries its households can afford within the cap.
 

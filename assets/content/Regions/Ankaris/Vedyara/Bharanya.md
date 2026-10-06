@@ -14,9 +14,9 @@ data:
   packFolder: vedyara
 ---
 
-Bharanya (5,400) stands on the lower [[place-mahanadi|Mahānadi]], and it is there for the temple. The great Mahájaya temple of Bharanya is one of the three largest pilgrim-temples in central Vedyara, and its senior priest is one of the three of the Council of Three.
+**Bharanya** (5,400) stands on the lower [[place-mahanadi|Mahānadi]], and it is there for the temple. The great [[affiliation-mahajaya|Mahájaya]] temple of Bharanya is one of the three largest pilgrim-temples in central [[place-vedyarargn|Vedyara]], and its senior priest is one of the three of the **Council of Three**.
 
-The town belongs to a janapada of the Mahānadi circuit and holds no seat of its own at the Mela. What it has instead is the temple's standing, which is greater than the janapada's and older.
+The town belongs to a janapada of the Mahānadi circuit and holds no seat of its own at the **Mela**. What it has instead is the temple's standing, which is greater than the janapada's and older.
 
 ## The Mounds
 

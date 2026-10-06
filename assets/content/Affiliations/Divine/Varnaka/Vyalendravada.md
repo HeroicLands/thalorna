@@ -71,7 +71,7 @@ sohl:
 
 ## Vyālendravāda—The Doctrine of Vyālendra
 
-- **Tradition:** Vyālendravāda—_The Doctrine of Vyālendra_
+- **Tradition:** **Vyālendravāda**—_The Doctrine of Vyālendra_
 - **Deities Venerated:** [[affiliation-vyalendra|Vyālendra]] as supreme; all other Varnakan deities treated as emanations or aspects of the shaping power
 - **Emphasis:** Monistic; scholarly; tied to the building trades and the great academies
 - **Pronunciation:** _VYAH-len-drah-VAH-dah_
@@ -79,17 +79,17 @@ sohl:
 
 "Twenty years you laid courses of stone and never asked why the joints were staggered. Here you will be asked to say why, and then to say it to a council." An **Antevāsin** ("One who dwells near") of some seasons' standing says this to the newly arrived mason of mature age who has traded the yard for the academy. The new acolyte is typical of the order: many Antevāsins come from the building trades and the academies, and they arrive with their hands already trained.
 
-The **Vyālendravāda** is a monistic sect and one of the oldest philosophical schools in the Varnakan tradition. It holds [[affiliation-vyalendra|Vyālendra]] to be the single supreme deity from whom the whole pantheon emanates, and it reads the other gods as particular expressions of his shaping work. [[affiliation-mahajaya|Mahájaya]] is the shape sustained, [[affiliation-rasikara|Rásikara]] the shape broken for reshaping, and [[affiliation-kalavrata|Kālavrata]] the shape released at its term. To worship the pantheon honestly, in this doctrine, is to worship Vyālendra through whichever aspect the occasion asks for.
+The Vyālendravāda is a monistic sect and one of the oldest philosophical schools in the Varnakan tradition. It holds [[affiliation-vyalendra|Vyālendra]] to be the single supreme deity from whom the whole pantheon emanates, and it reads the other gods as particular expressions of his shaping work. [[affiliation-mahajaya|Mahájaya]] is the shape sustained, [[affiliation-rasikara|Rásikara]] the shape broken for reshaping, and [[affiliation-kalavrata|Kālavrata]] the shape released at its term. To worship the pantheon honestly, in this doctrine, is to worship Vyālendra through whichever aspect the occasion asks for.
 
 ### The Sect and Its Neighbors
 
-The sect is strongest among the building trades, the great guilds of masons and architects, and the philosophical academies of [[place-vedyarargn|Vedyara Region]]. Its temples are fewer than the Trimūrti-sampradāya's, and they are magnificent buildings. A well-proportioned temple, the sect holds, is the fullest argument the doctrine has. Its priests are often trained as deeply in geometry and engineering as in theology, and several of the great public works of the Vedyaran cities are the sect's.
+The sect is strongest among the building trades, the great guilds of masons and architects, and the philosophical academies of [[place-vedyarargn|Vedyara Region]]. Its temples are fewer than the [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]]'s, and they are magnificent buildings. A well-proportioned temple, the sect holds, is the fullest argument the doctrine has. Its priests are often trained as deeply in geometry and engineering as in theology, and several of the great public works of the Vedyaran cities are the sect's.
 
 Relations with the orthodox [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]] are cordial and not without friction. Orthodox priests call the Vyālendravāda's reading of the lesser gods reductive. Its scholars call the orthodox triad a teaching convenience mistaken for the deepest truth. Most Vedyarans move freely between the temples of both.
 
 ### Clergy
 
-An **Antevāsin** is an acolyte, often of mature age, drawn from the building trades and the academies. An **Ácārya** is the working priesthood: scholar-priests trained in architecture, mathematics and theological argument as well as in liturgy. A **Parama-Ácārya** ("Supreme Master") is the senior priest of a temple. The rank is granted only after a rigorous philosophical examination, and a Parama-Ácārya is expected to have published at least one original treatise on the doctrine.
+An Antevāsin is an acolyte, often of mature age, drawn from the building trades and the academies. An **Ácārya** is the working priesthood: scholar-priests trained in architecture, mathematics and theological argument as well as in liturgy. A **Parama-Ácārya** ("Supreme Master") is the senior priest of a temple. The rank is granted only after a rigorous philosophical examination, and a Parama-Ácārya is expected to have published at least one original treatise on the doctrine.
 
 **Key Skills:** Engineering, Masonry, Mathematics, Drawing, Woodworking, Astrology, Law, Discourse, Folklore
 

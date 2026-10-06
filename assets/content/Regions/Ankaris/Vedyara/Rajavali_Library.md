@@ -8,13 +8,13 @@ tags: [sacred, river, inland]
 data: {demonym: null, lore: [], parents: [rajapurjnpd], population: null, packFolder: vedyara}
 ---
 
-The **Rājavalī Library** stands in the outer courts of the great Vyālendra temple at [[place-rajapur|Rājapur]], in what was once the royal council-chamber of the Kingdom of Mahānadi. The building outlived the kingdom because the sabhā that dissolved the kingdom decided it should, and it has been an annex of the temple for nine hundred years.
+The **Rājavalī Library** stands in the outer courts of the great Vyālendra temple at [[place-rajapur|Rājapur]], in what was once the royal council-chamber of the **Kingdom of Mahānadi**. The building outlived the kingdom because the sabhā that dissolved the kingdom decided it should, and it has been an annex of the temple for nine hundred years.
 
-It holds every chronicle, treaty and legal text of the kingdom-period, and the continuous archive of every sabhā session since the dissolution. No other archive in inland Vedyara is both that old and unbroken.
+It holds every chronicle, treaty and legal text of the kingdom-period, and the continuous archive of every sabhā session since the dissolution. No other archive in inland [[place-vedyarargn|Vedyara]] is both that old and unbroken.
 
 ## The Keeping
 
-The Memory-Keeper keeps it, as one of the four duties his family has held in unbroken succession since the dissolution. The office is consultative and ceremonial and carries no vote, and the library is the part of it that outsiders care about.
+The **Memory-Keeper** keeps it, as one of the four duties his family has held in unbroken succession since the dissolution. The office is consultative and ceremonial and carries no vote, and the library is the part of it that outsiders care about.
 
 Palm-leaf does not last in a wet country. The library recopies on a thirty-year cycle, hand for hand, and a page is checked against the page it came from by two readers before the old leaf is burned. The scriptoria of the temple do the work, and the manuscript trade the town lives on is the same men selling their spare capacity.
 
