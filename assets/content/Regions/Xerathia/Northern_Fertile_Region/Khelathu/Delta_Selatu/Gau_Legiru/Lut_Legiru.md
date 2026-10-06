@@ -20,4 +20,4 @@ Lut-Legiru is a small, prosperous farm-and-press village of [[place-gaulegirunom
 
 ## See Also
 
-TBD.
+- [[place-gaulegirunome|Gau-Legiru]]—The selat country that holds it

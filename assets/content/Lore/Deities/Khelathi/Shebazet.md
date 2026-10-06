@@ -18,5 +18,4 @@ She stands outside [[affiliation-khelathpnthn|Khelâthi Pantheon]], and the disp
 marsh cult with no imperial standing supplies the physical basis of
 [[lore-rethsaardty|Reth'Sa'âr]]'s whole domain.
 
-TBD—what the cobra has to do with the reed-beds. The connection is treated as obvious in the delta
-and is explained nowhere.
+The delta treats the bond between the cobra and the reed-beds as too obvious to explain. Ask a fowler why the goddess is a cobra and the reeds are hers, and the answer is a gesture at the marsh; no priest has put it into words for an outsider.

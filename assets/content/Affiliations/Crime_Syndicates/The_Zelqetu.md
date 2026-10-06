@@ -8,11 +8,15 @@ tags: [generated]
 data:
   packFolder: regkhaff
   governance:
+    model: stratocracy
+    summary: >-
+      A warband of desert nomads holding the ground around certain sealed temples and killing those who come for what the wards protect. It holds ground rather than agreements.
     ranks:
       - level: 1
-        title: "Member"
+        title: Warrior of the Zelqetu
         description: >-
-          Belongs to the band guarding the desert ground around sealed temples against those seeking what the wards protect.
+          Holds the desert around the sealed temples against trespassers.
+    offices: {}
 ---
 
 A band holding the desert around certain sealed temples, and killing those who come looking for what the wards protect.

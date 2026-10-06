@@ -20,4 +20,5 @@ Gar-Zekri lies strung along the east bank of [[place-khelzuretslt|Khelzuret Sela
 
 ## See Also
 
-TBD.
+- [[place-khelzuretslt|Khelzuret Selat]]—The selat country that holds it
+- [[place-khelzuret|Khelzuret]]—The temple city of the selat

@@ -3,7 +3,7 @@ shortcode: thyrenae
 name: {full: Thyrenae, aliases: []}
 type: affiliation
 subType: polity
-description: "City-state of Helionis with a long maritime tradition—island polity that has built wealth and reputation through centuries of sea trade and naval rivalry."
+description: "Inland city-state of Helionis, the oldest and most prestigious, seat of the great academies, the Library of Thyrenae and the first home of the Panepistemium."
 data:
   templatePriority: null
   demonym: Thyrenean

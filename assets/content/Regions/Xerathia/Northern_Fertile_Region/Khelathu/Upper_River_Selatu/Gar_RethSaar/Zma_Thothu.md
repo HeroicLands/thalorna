@@ -20,4 +20,5 @@ Zma-Thothu stands among the fields of [[place-garrethsaarnome|Gar-Reth'Sa'âr]] 
 
 ## See Also
 
-TBD.
+- [[place-garrethsaarnome|Gar-Reth'Sa'âr]]—The selat country that holds it
+- [[place-khelunu|Khelunu]]—The temple city of the selat
