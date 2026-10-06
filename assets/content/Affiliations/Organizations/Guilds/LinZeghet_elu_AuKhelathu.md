@@ -32,7 +32,7 @@ data:
 
 ## Overview
 
-Lin'Zeghet elu Aû'Khelâthu is the chartered guild of hunters across [[place-aukhelathrgq|Aû'Khelâthu]], licensing both the ordinary taking of game and the handling of beasts dangerous enough to need a specialist. The guild issues those licenses and sets the terms under which a hunter may work a given territory, so two hunters are rarely chasing the same ground under conflicting claims. Anyone who hires a hunter for a dangerous beast checks the guild's license first, since an unlicensed hunter has answered to no one for the methods used.
+**Lin'Zeghet elu Aû'Khelâthu** is the chartered guild of the hunters of [[place-aukhelathrgq|Aû'Khelâthu]]. It licenses both the ordinary taking of game and the handling of beasts dangerous enough to need a specialist, and it sets the terms on which a hunter may work a given territory, so two hunters are rarely chasing the same ground under conflicting claims. Anyone hiring for a dangerous beast checks the license first, since an unlicensed hunter has answered to no one for his methods.
 
 ## Character
 
@@ -48,7 +48,7 @@ The guild's chief counterparty is anyone who hires a hunter for a dangerous beas
 
 ## Commerce and Currency
 
-Licensing is the guild's trade. Say a village on the desert edge hires a hunter to deal with a beast that has been taking its herds. The village elder asks for the guild's license before anything else, and reads the territory the hunter is licensed to work. The hunter agrees a fee, does the work, and answers to the guild for the methods. A hunter works a territory on the guild's license and terms, and a client hiring for a dangerous beast checks it first.
+Licensing is the guild's trade. Say a village on the desert edge hires a hunter to deal with a beast that has been taking its herds. The village elder asks for the guild's license before anything else, and reads the territory the hunter is licensed to work. The hunter agrees a fee, does the work, and answers to the guild for the methods.
 
 ## See Also
 

@@ -36,7 +36,7 @@ data:
 
 ## Overview
 
-Lin'Amqelet-Zeleku is a company gathered around a celebrated astrologer, its membership drawn from those who sought her counsel and stayed on after she gave it. The company conducts an ordinary trade, but what holds it together is the prophecy its founder read in the stars rather than any commercial advantage membership confers. A member who repeats that prophecy outside the company's own walls does so at the cost of the founder's reputation, which the company still guards closely.
+**Lin'Amqelet-Zeleku** is a small company with an ordinary trade and one closely kept secret: a prophecy that its founder, a celebrated astrologer, read in the stars. Its companions are the people who came to her for counsel and stayed. They keep the reading inside the house because repeating it outside costs her reputation, and the company is remembered less for what it sells than for what it will not say.
 
 ## Character
 
@@ -52,7 +52,7 @@ The company has one relationship that matters, and it is with the founder. She i
 
 ## Commerce and Currency
 
-The trade is ordinary, and a customer would not know the house from any other. Say a merchant comes in with a modest order and leaves with it filled at the usual price. He gets no discount for knowing the founder's name and no premium for a prophecy he has never heard of. Membership confers no commercial advantage; the prophecy, not the trade, is what the companions hold in common. A Companion who leaves is not fined, and the one who repeats the reading outside the walls pays in the company's trust instead of its coin.
+The trade is ordinary, and a customer would not know the house from any other. Say a merchant comes in with a modest order and leaves with it filled at the usual price. He gets no discount for knowing the founder's name and no premium for a prophecy he has never heard of. A Companion who leaves is not fined, and the one who repeats the reading outside the walls pays in the company's trust instead of its coin.
 
 ## See Also
 

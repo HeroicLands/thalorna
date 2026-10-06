@@ -60,12 +60,23 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-A walled company-village on the western bank of the Khelzuret necropolis, whose people are the stonecutters, draftsmen, sculptors and painters who cut and decorate the great tombs. An elite of hereditary craftsmen, their trades and their secrets passed father to son, set above the ordinary labor-gangs and proud of it. Behind its walls the village keeps itself: its own headmen, its own little courts, its own shrines, and a closed brotherhood that guards both the mysteries of its craft and the locations of what it builds.
+## Overview
 
-The tombs they raise are meant never to be opened again, and the men of Zel-Qar know
-better than anyone where the dead and their treasures lie—knowledge that makes the
-village at once the most trusted and the most watched community in the selat, and that
-makes a bribed craftsman the tomb-robbers' surest master-key (see
-[[place-khelautithnt|Khelaut-Ithnet]]).
+The **Brotherhood of Zel-Qar** is the closed company of stonecutters, draftsmen, sculptors and painters who cut and decorate the great tombs of the Khelzuret necropolis. It lives in [[place-zelqar|Zel-Qar]], the walled village on the western bank, apart from the ordinary labor-gangs and proud of the distinction. The trades and their secrets pass from father to son, so birth inside the walls is the ordinary door in and very nearly the only one.
 
-See also [[place-zelqar|Zel-Qar]], the village itself.
+## Character
+
+A master of the village would sit a boy of the walls down at the end of his first season and tell him: "Your uncle is teaching you the chisel, or the brush, or the line. That is the half of it you can say aloud. The other half is where the work lies, and you learn it beside the first and keep it beside the first."
+
+The brotherhood guards two secrets together: how a tomb is made and where it is. The tombs are meant never to be opened again, and the men of Zel-Qar know better than anyone where the dead and their treasures lie. That knowledge makes the village the most trusted community in the selat and also the most watched. A bribed craftsman is the tomb-robbers' surest master-key (see [[place-khelautithnt|Khelaut-Ithnet]]).
+
+Behind the walls the village governs itself. Its **headmen** keep its own little courts and speak for the brotherhood to the mortuary priesthoods and the Halzi'a. A **Warden of the Shrines** keeps the village's shrines apart from the great temples it works for, and the brotherhood stays aligned with the faiths of [[affiliation-psaqaru|Psaq'âru]], [[affiliation-wethur|Wethûr]] and [[affiliation-hezmuiri|Hezmuîri]]. A **Keeper of the Locations** holds the brotherhood's real secret.
+
+The **Master Draughtsman** sets out the work that the cutters and painters follow, and the draughtsman's rule is fidelity. Khelâthi art is held to be a magical act and not a depiction: a properly executed tomb painting is the afterlife, made real through correct form. Departing from the established form is a religious fault, not a matter of taste.
+
+A man who is cast out loses the village and the trade together, since the trade is the village. He still knows where the tombs are and no longer answers to the brotherhood, and he is watched for the rest of his life.
+
+## See Also
+
+- [[place-zelqar|Zel-Qar]]—The village itself
+- [[place-khelautithnt|Khelaut-Ithnet]]—The Tombs of the West, where bribed craftsmen unlock what they built

@@ -36,7 +36,7 @@ data:
 
 ## Overview
 
-Lin'Zethu elu Aû'Khelâthu is the chartered guild of scribes across [[place-aukhelathrgq|Aû'Khelâthu]], setting the hands a document must be written in to be accepted as properly made. The guild examines every pupil before certifying them to practice, since the whole imperial administration rests on documents its members alone are trusted to produce. A clerk without this guild's certification can copy a text, but cannot make one that a court or a ministry will treat as the original record.
+**Lin'Zethu elu Aû'Khelâthu** is the chartered guild of the scribes of [[place-aukhelathrgq|Aû'Khelâthu]], and no court or ministry treats a document as the original record unless a certified member made it. The guild sets the hands a document must be written in and examines every pupil before certifying her. It also holds the Imperial Library, through a Keeper who grants or refuses a reader's permission.
 
 ## Character
 

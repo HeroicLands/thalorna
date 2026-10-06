@@ -32,7 +32,7 @@ data:
 
 ## Overview
 
-Lin'Lagun elu Aû'Khelâthu is the chartered guild of the timber trade across [[place-aukhelathrgq|Aû'Khelâthu]], uniting the loggers, haulers and timber-merchants who supply the empire's construction. The guild sets the standard a shipment must meet before it is sold as first quality, but its own members are at odds over what that standard should mean in practice. A buyer who wants certainty rather than argument pays for grading done outside the guild's own disputed procedure.
+**Lin'Lagun elu Aû'Khelâthu** is the guild of the timber trade across [[place-aukhelathrgq|Aû'Khelâthu]]: the loggers, the haulers and the timber-merchants who supply the empire's construction. It sets the standard a shipment must meet before it is sold as first quality, and its members have never agreed on what that standard means in practice. A buyer who wants certainty rather than argument pays for grading done outside the guild's own disputed procedure.
 
 ## Character
 
@@ -48,7 +48,7 @@ The guild's main counterparty is the buyers of timber, who meet a grading proced
 
 ## Commerce and Currency
 
-Say a builder in the capital orders timber for a pylon's scaffolding and has it graded first quality at the landing. The seller's grade and the buyer's differ by a rank. The contest over the standard reaches every sale made under it, and the usual outcome is a price in the middle and a grumble from both. A buyer who wants certainty pays for grading done outside the guild's own disputed procedure, and the fee is, in effect, the price of ending the argument.
+Say a builder in the capital orders timber for a pylon's scaffolding and has it graded first quality at the landing. The seller's grade and the buyer's differ by a rank. The usual outcome is a price in the middle and a grumble from both. A buyer who wants certainty pays for grading done outside the guild's own disputed procedure, and the fee is, in effect, the price of ending the argument.
 
 ## See Also
 

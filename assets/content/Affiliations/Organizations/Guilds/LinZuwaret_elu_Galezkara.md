@@ -32,7 +32,7 @@ data:
 
 ## Overview
 
-Lin'Zuwaret elu Galezkara, the Merchants' Circle, is an informal association of independent traders working in [[place-galezkara|Galezkara]] who meet outside any guild hall to compare notes. Members share information on prices, routes and buyers, and coordinate when a larger commercial house threatens to undercut or absorb one of their number. A trader who stays outside the circle negotiates alone against houses that can outlast a single bad season, which is why most independents join as soon as they can afford the time it costs.
+**Lin'Zuwaret elu Galezkara**, the Merchants' Circle, is the informal association of the independent traders of [[place-galezkara|Galezkara]], who meet outside any guild hall to share prices, routes and buyers. When a larger commercial house threatens to undercut or absorb one of them, the others act together. A trader outside the circle bargains alone against houses that can outlast a bad season.
 
 ## Character
 
@@ -48,7 +48,7 @@ The circle's opponent is the larger commercial houses, the party it coordinates 
 
 ## Commerce and Currency
 
-Members share information on prices, routes and buyers, and act together when a larger house threatens to undercut or absorb one of their number. Say a house in the Great Quay begins selling cloth below the independents' cost. Litaris hears of it at the circle's evening meeting, and by the next morning three members have shifted their stock to markets where the house is not present and a fourth has agreed to buy at her price. The house's discount reaches nobody it was meant to ruin.
+Say a house in the Great Quay begins selling cloth below the independents' cost. Litaris hears of it at the circle's evening meeting, and by the next morning three members have shifted their stock to markets where the house is not present and a fourth has agreed to buy at her price. The house's discount reaches nobody it was meant to ruin.
 
 ## See Also
 
