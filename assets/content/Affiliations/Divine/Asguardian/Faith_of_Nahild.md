@@ -55,13 +55,13 @@ Náhild, the goddess of the underworld, harbors a profound disdain for life itse
 
 ## The Eye of the Void
 
-Náhild draws upon the twisted power and madness of the **Eye of the Void**, a primordial artifact of raw, unbridled corruption, from which emanates **The Shadow**, an abyssal force of incomparable evil. Her insatiable need to gaze into this dreadful relic drives her further into insanity, making her one of the most feared beings in the pantheon. The Eye of the Void's influence corrupts everything in its vicinity, releasing a caustic shadow of dread and hopelessness that seeps into the mortal world.
+Náhild draws upon the twisted power and madness of the [[lore-ginnauga|Eye of the Void]], Ginnauga, a primordial artifact of raw, unbridled corruption, from which emanates [[lore-theshadow|the Shadow]], chaos from outside creation that corrupts whatever it touches, mortal or divine. Her insatiable need to gaze into this dreadful relic drives her further into insanity, making her one of the most feared beings in the pantheon. The Eye of the Void's influence corrupts everything in its vicinity, releasing a caustic shadow of dread and hopelessness that seeps into the mortal world.
 
 ## Worship
 
 Náhild's followers are fanatically devoted to the propagation of death and chaos. Her priests perform ritual human sacrifices, believing these offerings increase chaos and Náhild's power and hasten the end of all life. Through these grim ceremonies, they seek her favor and seek to be granted dominion in the ruined world she envisions.
 
-Náhild commands an army of the undead—[[lore-nagengir|nágengir]] (the favored and terrible) and haugverdir (corpses of the weak and dishonored)—reanimated by her dark magic to serve as her relentless minions.
+Náhild commands an army of the undead—[[lore-nagengir|nágengir]] (the favored and terrible) and [[lore-haugverdir|haugverdir]] (corpses of the weak and dishonored)—reanimated by her dark magic to serve as her relentless minions.
 
 She is often depicted as a ghastly figure, her eyes burning with a baleful light, and a morbid grin permanently etched on her face. Around her neck hangs the Eye of the Void, a source of her unholy strength and the symbol of her eternal hatred for all living things.
 
@@ -88,7 +88,7 @@ She is often depicted as a ghastly figure, her eyes burning with a baleful light
 ## Divine Servants
 
 - [[lore-nagengir|nágengir]]: Elite undead warriors and sorcerers, favored by Náhild, who serve as guardians of her temples and leaders of her undead armies.
-- **haugverdir:** Reanimated mindless corpses (esp. of the weak, cowards, or dishonored) used as servants and soldiers in Náhild's legions.
+- [[lore-haugverdir|haugverdir]]: Reanimated mindless corpses (esp. of the weak, cowards, or dishonored) used as servants and soldiers in Náhild's legions.
 
 ## Ceremonies and Festivals
 

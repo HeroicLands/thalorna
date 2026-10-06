@@ -13,7 +13,7 @@ tags: [reference, currency, harad, economy]
 
 The Haradian currency is the post-secession monetary system of the [[affiliation-sodnaqirin|Confederation of Haradian States]]. It uses the same denomination structure as the [[lore-vylrncrncy|Vylarian currency]]—Aurion (gold), Argentus (Argo, silver), Octus (Bit, 1/8 of an Argo)—at the same nominal conversion ratios (1 Aurion = 160 Argo = 1,280 Bits), but the coins are _Haradian-struck_ and the supporting banking infrastructure is the Confederation's own **Bayt al-Khazînah** ("House of the Treasury"), not the Vylarian [[affiliation-aerarimmpr|The Aerarium Imperii]].
 
-The Haradian Aurion is, by standard Vylarian assay, **slightly underweight**—about 7% below the Vylarian gold content. The discount is acknowledged in cross-border transactions but not advertised; in inter-Haradian commerce the coin passes at face value. Haradian Argo are struck to the full Vylarian standard weight (~27 g of high-purity silver) and pass at full value in all systems where silver is silver.
+The Haradian Aurion is, by standard Vylarian assay, **slightly underweight**—about 7% below the Vylarian gold content. The discount is acknowledged in cross-border transactions but not advertised; in inter-Haradian commerce the coin passes at face value. Haradian Argo are struck to the full Vylarian standard (about 1.5 g, three parts silver to one of alloy) and pass at full value in all systems where silver is silver.
 
 The Bayt al-Khazînah issues script (the Haradian equivalent of Vylarian traveler's notes and master notes) honored at any Bayt-affiliated moneylender house across the Confederation. The script is _not_ honored at any Vylarian [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] chapter; cross-border travel between Haradian and Vylarian territory requires conversion to physical coin at a changer's office (typically Heliónite intermediaries who maintain accounts at both institutions).
 
@@ -29,9 +29,9 @@ For game purposes, Haradian coin converts to Vylarian and Khelâthi currencies a
 
 | Haradian          | Vylarian (effective)                                   | Khelâthi (effective)             |
 | ----------------- | ------------------------------------------------------ | -------------------------------- |
-| 1 Haradian Aurion | 0.93 Vylarian Aurion (~149 Argo, due to gold discount) | ~75 silver gezan                 |
-| 1 Haradian Argo   | 1 Vylarian Argo                                        | 5 silver qelu (= ½ silver gezan) |
-| 1 Haradian Bit    | 1 Vylarian Bit                                         | 0.625 silver qelu                |
+| 1 Haradian Aurion | 0.93 Vylarian Aurion (~149 Argo, due to gold discount) | ~¾ gold gezan (~7½ silver gezan) |
+| 1 Haradian Argo   | 1 Vylarian Argo                                        | ½ silver qelu (5 copper qelu)    |
+| 1 Haradian Bit    | 1 Vylarian Bit                                         | 1/16 silver qelu (⅝ copper qelu) |
 
 In casual commerce within Haradian territory the underweight Aurion passes at full nominal value; the discount only emerges in cross-border transactions where Vylarian or Khelâthi moneylenders assay the gold content.
 

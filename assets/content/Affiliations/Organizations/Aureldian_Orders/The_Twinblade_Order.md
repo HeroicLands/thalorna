@@ -15,59 +15,28 @@ data:
   governance:
     model: council
     summary: >-
-      A chapter of professed brethren under an elected Grand Master, all of them bound by the rule he enforces.
+      Sworn Twinblades holding stations from chapter houses, each house under its Magister of the Gate; the assembled Magisters choose the Voice of the Twin Gate.
     ranks:
       - level: 0
         title: Expelled
         description: >-
-          Put out of the order, the habit taken back and the vows declared void; no house of it will receive them again.
+          Put out of the order and the vows declared void; no chapter house of it will receive them again.
       - level: 1
-        title: Servant
+        title: Candidate
         description: >-
-          Attached to a house for its labor—its stables, its kitchens, its fields—and not of the order.
+          A sworn devotee of Jánus in the order's candidacy of two to four years, examined in arms, the protocols of threshold-guarding, the conduct of challenge and parley, and the temperament to hold a station for weeks.
       - level: 2
-        title: Postulant
-        description: Petitioning for admission and living under the rule on trial, bound by nothing yet.
+        title: Sworn Twinblade
+        description: >-
+          The working knight, serving a station or riding a circuit of stations, and leaving it only by chapter order.
       - level: 3
-        title: Novice
-        lore: catechumenrnk
+        title: Senior Twinblade
         description: >-
-          Received for a term of formation, under the rule and under a master of novices, and free to leave until profession.
-      - level: 4
-        title: Professed
-        description: >-
-          Vowed to the order for life, holding no property of their own and owing obedience to its officers.
-      - level: 5
-        title: Officer
-        description: Holding a charge of a house—its arms, its stores, its almsgiving, its chapel.
-      - level: 6
-        title: Commander
-        description: >-
-          Holding a house of the order, its brethren and its lands, and answerable for both to the chapter.
-      - level: 7
-        title: Preceptor
-        description: >-
-          Holding a province of the order—several houses—and sitting in the chapter that elects its head.
-      - level: 8
-        title: Grand Master
-        description: >-
-          Head of the order, elected by the chapter, bound by the rule he enforces and removable under it.
+          Elevated by chapter vote; fit to command a station of importance or a short circuit of stations, and may take wards.
     offices:
-      Grand Master: Head of the order, elected by the chapter and himself bound by the rule.
-      Preceptor: Holder of a province of the order, and an elector in the chapter.
-      Commander: Holder of a single house, its brethren and its lands.
-      Marshal: Master of the order's arms, horses and discipline in the field.
-      Seneschal: >-
-        Second to the Grand Master, holding the order's administration and standing for him in his absence.
-      Draper: >-
-        Keeper of the habit and equipment, whose issue marks a brother's standing as plainly as any rank.
-      Almoner: >-
-        Administrator of the order's charity, which is commonly the reason it was chartered at all.
-      Chaplain: >-
-        Keeper of the order's rites and of its brethren's souls, and not under the Marshal's discipline.
-      Master of Novices: Charged with formation, and with judging who may profess.
-      Treasurer: Keeper of the order's revenue, its endowments and its debts.
-      Standard-Bearer: Carrier of the order's banner, a charge given to a professed brother of proven service.
+      Voice of the Twin Gate: The order's chair, chosen by the assembled Magisters and serving for life or until resignation.
+      Magister of the Gate: Leader of a chapter house, presiding over its affairs and its stations.
+      Station Commander: A Senior Twinblade in command of a station of importance or a short circuit of stations.
   seat: null
   domains: []
   population: null
@@ -96,7 +65,7 @@ The order's emblem is the paired blade: the Twinblades wear two swords, one carr
 
 Candidates are sworn devotees of Jánus, examined for martial competence, knowledge of the protocols of threshold-guarding, the rhetorical conduct of formal challenge and parley, and the personal temperament the order requires (a Twinblade who cannot hold a station for weeks at a time without lapsing into restlessness is, by the order's reckoning, unfit). Candidacy takes two to four years.
 
-There are four working ranks:
+There are two working ranks above the candidacy, and two offices drawn from them:
 
 - **Sworn Twinblade** (_Frater Bifrons_)—the working knight; serves a station or rides a circuit of stations.
 - **Senior Twinblade** (_Frater Senior_)—elevated by chapter vote; commands a station of importance or a short circuit of stations; may take wards.
