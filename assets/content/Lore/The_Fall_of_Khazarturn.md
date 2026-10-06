@@ -255,7 +255,9 @@ fountains, the birds—in snippets, in asides, in songs whose subject is not ann
 not build have carried the memory of the finest thing anyone ever built for three thousand
 years, and it comes out as elegy.
 
-: From [[lore-seventowers|The Seven Towers]]
+[[lore-seventowers|The Seven Towers]] keeps the birds that nested in the galleries:
+
+: The Birds
 
 ```poetry {form=elegy lang=en}
 And there were birds.

@@ -35,7 +35,9 @@ many centuries to work out how.
 some of their own. The songs the [[affiliation-bardicolgs|Bardic Colleges]] treasure as Sinalëan gifts
 were, most of them, first heard here and carried out by Áelendan who had been given them freely.
 
-: From [[lore-seventowers|The Seven Towers]]
+One of them, [[lore-seventowers|The Seven Towers]], stands in the makers' halls and says what the Sinalë make instead:
+
+: We Do Not Build
 
 ```poetry {form=elegy lang=en}
 We do not build. We have never wished to; the forest builds itself,

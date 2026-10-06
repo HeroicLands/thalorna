@@ -72,7 +72,9 @@ The most notable exception to the Sinalë's isolation is [[place-elavendre|Élav
 
 The Élavendren fae traditions—the sacred groves, the nature spirits, the thin veil between worlds—are not mere superstition. They reflect genuine contact with the Sinalë and with the other fae beings that inhabit the forests of Élavendre. The Élavendren bardic colleges preserve songs and stories that the Sinalë have shared with them, and Élavendren druids practice forms of magic that bear a distant, diluted resemblance to Sinalëan arts. The Sinalë tolerate this—perhaps even encourage it—in a way they do not elsewhere.
 
-: From [[lore-seventowers|The Seven Towers]]
+One such song, [[lore-seventowers|The Seven Towers]], opens on a valley at evening:
+
+: The Valley at Evening
 
 ```poetry {form=elegy lang=en}
 The evening comes early to that valley, for its walls are high.
