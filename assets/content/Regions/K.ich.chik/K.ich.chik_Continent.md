@@ -64,6 +64,8 @@ Each city-state is ruled by a K'inmah (Sun Lord) who serves as political soverei
 
 Society is stratified into nobles, warriors, artisans and merchants, free farmers, bound laborers, and slaves. Warfare between city-states is ritualized but real, driven by the need for captives for sacrificial rites and by competition for trade routes and agricultural land. The blood sacrifice that sustains the cosmic cycle is central to K'ich'chik religious life, though its scale and frequency vary between city-states and across the ages of the Celestial Recurrence.
 
+Names follow rank as closely as dress does, and the first thing a newcomer must learn is which name to use. A noble or a priest carries a long compound name of three or more elements, and at home goes by its first element alone: _Ch'akul Witz Ba'alam Tzul_ is _Ch'akul_ to the household, to kin and to equals. That house name travels downward and sideways and never upward. If you stand below the person, you say the whole name, with the title after it, every time, and the first element alone from your mouth is an insult to the person and to the rank. A commoner's two-element name is spoken whole by everyone. Only the full name is knotted into the census cords or cut in glyphs, so a Sun Lord's house name is common knowledge in the palace and absent from every record of the reign.
+
 The K'ich'chik are accomplished astronomers, mathematicians, and architects. Their vigesimal number system, their precise celestial calendar, and their monumental pyramid-temples are among the great achievements of Thalorna. They are also skilled agriculturalists, cultivating terraced fields and raised garden beds to support dense urban populations in tropical environments.
 
 ## The Ch'um Ix'lan (The Speaking Road)
