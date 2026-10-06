@@ -14,4 +14,4 @@ data:
   government: dhnrktjnpd
 ---
 
-**Vishānagrāma** is a horn and sinew village below the fort, in the [[place-dhanurkotajnpd|Dhanurkota Janapada]]. It supplies the bowyers their facings and backings.
+**Vishānagrāma** (720) is the horn and sinew village below the fort, in the [[place-dhanurkotajnpd|Dhanurkota Janapada]], and the soaking-pits make it a village to approach with the wind in your favor. It supplies the bowyers their facings and backings, the horn and sinew that give a Dhanurkoti bow its strength.

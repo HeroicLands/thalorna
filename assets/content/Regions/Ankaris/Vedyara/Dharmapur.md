@@ -8,7 +8,7 @@ tags: [town, river, market]
 data: {demonym: null, lore: [], parents: [vedyarargn], population: 4200, packFolder: vedyara}
 ---
 
-Dharmapur (4,200) stands on the middle [[place-sarvadarivr|Sarvada]], ninety miles below the bow-country, and is the largest of the copying towns of that reach. About one adult in five here can read. No other place in Vedyara outside a city comes near it.
+Bring a commission to a Dharmapur copyist and the first figure you hear is the guild's rate for a finished page; she has no other to quote. Dharmapur (4,200) stands on the middle [[place-sarvadarivr|Sarvada]], ninety miles below the bow-country, and is the largest of the copying towns of that reach. About one adult in five here can read, and no other place in Vedyara outside a city comes near it.
 
 The town belongs to a janapada of the Sarvada circuit and holds no seat of its own at the Mela. Its temple is [[affiliation-vyalendra|Vyālendra]]'s, and the endowment that pays the copyists is nine hundred years old.
 
