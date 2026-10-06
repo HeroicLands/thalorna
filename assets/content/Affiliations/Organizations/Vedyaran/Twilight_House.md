@@ -20,35 +20,22 @@ data:
         description: >-
           Put out of the House, her training disowned and her name given to every satellite house and to the Guild—no door in Vedyara opens to her again.
       - level: 1
-        title: Servant of the House
+        title: Apprentice
         description: >-
-          Kept for the running of the establishment—its kitchens, its linens, its doors—and taught nothing of the curriculum.
+          A girl under instruction in the curriculum toward her formal debut: the poetry in three court dialects, the four instruments, the reckoning and the reading of a room.
       - level: 2
-        title: Novice
-        lore: catechumenrnk
-        description: >-
-          Under instruction in the curriculum: the poetry in three court dialects, the four instruments, the reckoning and the reading of a room.
-      - level: 3
         title: Companion
         description: >-
           Graduated and receiving clients, and debriefed after every engagement by the handler assigned to her.
-      - level: 4
+      - level: 3
         title: Senior Companion
         description: >-
           Trusted with the clients whose evenings are worth the most and whose talk is worth more, and consulted on whom to recruit.
-      - level: 5
-        title: Handler
-        description: >-
-          Commonly a former Companion, who debriefs, transcribes, and decides what a night's talk is worth and to whom.
-      - level: 6
-        title: Mistress of a Satellite House
-        description: >-
-          Holding one of the houses in the other Vedyaran cities, answerable for its Companions and its product.
-      - level: 7
+      - level: 4
         title: Elder of the House
         description: >-
           Retired from clients and of the small body that sets the curriculum, the tiers and the terms.
-      - level: 8
+      - level: 5
         title: Mistress of the Long Evening
         description: >-
           The Sandhyā-mātā: an elder courtesan withdrawn from clients who governs the House, its instruction and everything it sells.
@@ -94,7 +81,7 @@ The House does not advertise this dual function. It does not need to. Every powe
 
 ## Structure
 
-The House operates as a hierarchical guild of women, governed by the **Mistress of the Long Evening** (the _Sandhyā-mātā_), an elder courtesan who has retired from clients and now manages the establishment. Beneath her sit the **Senior Companions** (long-tenured women who command the highest fees, vet new clients, and train the younger ranks); the **Companions** (the working body, typically aged eighteen to thirty, each assigned to a stable of regular patrons); and the **Apprentices** (girls in training, generally aged thirteen to seventeen, learning the curriculum that culminates in the formal debut).
+The House operates as a hierarchical guild of women, governed by the **Mistress of the Long Evening** (the _Sandhyā-mātā_), an elder courtesan who has retired from clients and now manages the establishment. Beneath her sit the **Senior Companions** (long-tenured women who command the highest fees, vet new clients, and train the younger ranks); the **Companions** (the working body, typically aged eighteen to thirty, each assigned to a stable of regular patrons); and the **Apprentices** (girls in training, generally aged thirteen to seventeen, learning the curriculum that culminates in the formal debut). The servants kept for the running of the establishment—its kitchens, its linens, its doors—stand outside these ranks and are taught nothing of the curriculum.
 
 The **handlers** form a parallel structure. Every Companion is assigned a handler—a woman, usually a former Companion herself, who debriefs after each engagement, transcribes whatever was overheard or directly extracted, and routes the intelligence to its eventual purchaser. The handlers report not to the Mistress but to a separate body, the **Council of the Veil**, whose composition is not known even to the House's own working women.
 

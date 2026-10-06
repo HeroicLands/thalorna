@@ -86,6 +86,8 @@ The Gár-Hálzi's discipline arm; senior priests trained in metallurgy and assay
 
 The Gár-Hálzi's core economic function is the **attestation of weight-pieces**—the certification that a given piece of copper, silver, or gold meets the canonical standard for its denomination. The attesting temple stamps its seal into the piece during the production process at a [[affiliation-garmelnu|Gar'Melnu]] smithy; the piece then circulates as authenticated currency.
 
+The gold and silver pieces are worth the metal in them. The copper pieces are tokens, struck in bronze worth little more than a twentieth of their face, and the Gár-Hálzi alone issues and redeems them: it gives copper only in exchange for silver at face, holds that silver at the issuing chapter against the copper outstanding, and redeems copper for silver at the same face at any chapter on demand. Copper without a seal is bought by weight at the price of the metal, so no quantity of imported copper becomes face value.
+
 The Gár-Hálzi maintains reference weights (the "true weights of the gods," kept in the most sacred area of the central temple complex) against which any disputed piece can be verified. Pieces that prove substandard on assay are destroyed and the responsible smithy investigated; pieces that prove acceptable receive a fresh attestation if needed.
 
 ### The Granaries and Grain-Credit Ledgers
