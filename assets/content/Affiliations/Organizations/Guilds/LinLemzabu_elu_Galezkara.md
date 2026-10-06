@@ -31,7 +31,7 @@ data:
 
 ## Overview
 
-Lin'Lemzabu elu Galezkara is an association of the stewards who run the great houses of [[place-galezkara|Galezkara]], meeting away from their employers to compare notes. Members trade information on reliable suppliers, fair wages for household staff, and the particular skill of managing a master who cannot be told anything. A newly appointed steward who joins quickly inherits years of this accumulated practice rather than learning each lesson the hard way.
+Lin'Lemzabu elu Galezkara is an association of the stewards who run the great houses of [[place-galezkara|Galezkara]], meeting away from their employers to compare notes. Members trade information on reliable suppliers, fair wages for household staff, and the particular skill of managing a master who cannot be told anything. Joining quickly passes on years of this accumulated practice, sparing a newly appointed steward from learning each lesson the hard way.
 
 ## Character
 

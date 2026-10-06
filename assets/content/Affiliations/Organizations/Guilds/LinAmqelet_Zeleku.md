@@ -31,7 +31,7 @@ data:
 
 ## Overview
 
-Lin'Amqelet-Zeleku is a company gathered around a celebrated astrologer, its membership drawn from those who sought her counsel and stayed on after she gave it. The company conducts an ordinary trade, but what holds it together is the prophecy its founder read in the stars rather than any commercial advantage membership confers. A member who repeats that prophecy outside the company's own walls does so at the cost of the founder's reputation, which the company still guards closely.
+Lin'Amqelet-Zeleku is a company gathered around a celebrated astrologer, its membership drawn from those who sought her counsel and stayed on after she gave it. The company conducts an ordinary trade, but what holds it together is the prophecy its founder read in the stars rather than any commercial advantage membership confers. Repeating that prophecy outside the company's own walls costs the founder's reputation, which the company still guards closely.
 
 ## Character
 

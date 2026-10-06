@@ -31,7 +31,7 @@ data:
 
 ## Overview
 
-Lin'Zemnu elu Aû'Khelâthu is the chartered guild of artisans across [[place-aukhelathrgq|Aû'Khelâthu]], a broad membership spanning every craft that does not have a guild of its own. The guild's prestige rests on its finest members' reputations, work the guild is glad to claim credit for while disapproving of most of the methods that produced it. An ambitious artisan learns quickly that the guild wants the acclaim without the risk, and plans accordingly rather than ask its leave first.
+Lin'Zemnu elu Aû'Khelâthu is the chartered guild of artisans across [[place-aukhelathrgq|Aû'Khelâthu]], a broad membership spanning every craft that does not have a guild of its own. The guild's prestige rests on its finest members' reputations, work the guild is glad to claim credit for while disapproving of most of the methods that produced it. The guild wants the acclaim without the risk, so ambitious artisans plan accordingly rather than ask its leave first.
 
 ## Character
 

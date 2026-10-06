@@ -31,7 +31,7 @@ data:
 
 ## Overview
 
-Gar-Sa'Aqutu is a military house of long standing in [[place-aukhelathrgq|Aû'Khelâthu]], its men raised through the officer ranks and its women placed at court to advance the line's interests there. The family treats command and courtly influence as complementary halves of one strategy, with each generation's placements chosen to support the other. A rival who underestimates the women of this house for lacking a military rank of their own typically discovers the omission too late to matter.
+Gar-Sa'Aqutu is a military house of long standing in [[place-aukhelathrgq|Aû'Khelâthu]], its men raised through the officer ranks and its women placed at court to advance the line's interests there. The family treats command and courtly influence as complementary halves of one strategy, with each generation's placements chosen to support the other. Underestimating the women of this house for lacking a military rank of their own is an error typically discovered too late to matter.
 
 ## Character
 

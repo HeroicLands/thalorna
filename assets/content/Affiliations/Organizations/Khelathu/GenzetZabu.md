@@ -31,7 +31,7 @@ data:
 
 ## Overview
 
-Genzet'Zabu is a district-level council of titled families, convened wherever enough noble households sit close enough together to meet regularly. Traditionalist and military thinking generally carries the room, since the families most willing to attend are usually the ones least interested in changing how things are done. A reformer who brings a proposal to this council should expect a long hearing and a short answer, regardless of the proposal's merits.
+Genzet'Zabu is a district-level council of titled families, convened wherever enough noble households sit close enough together to meet regularly. Traditionalist and military thinking generally carries the room, since the families most willing to attend are usually the ones least interested in changing how things are done. A proposal brought to this council gets a long hearing and a short answer, regardless of its merits.
 
 ## Character
 

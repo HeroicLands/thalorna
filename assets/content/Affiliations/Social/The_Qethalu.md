@@ -31,7 +31,7 @@ data:
 
 ## Overview
 
-The Qethalu are conservative priests within [[affiliation-lutqearet|Qe'âret's own temple]] who hold that political entanglement corrupts the goddess's purpose and compromises those who serve her. They argue that her high priest should be a judge and a servant of her order rather than a courtier moving through imperial politics. A high priest who leans too visibly toward the court finds the Qethalu organizing against the appointment's renewal from within the temple's own ranks.
+The Qethalu are conservative priests within [[affiliation-lutqearet|Qe'âret's own temple]] who hold that political entanglement corrupts the goddess's purpose and compromises those who serve her. They argue that her high priest should be a judge and a servant of her order rather than a courtier moving through imperial politics. A high priest's visible lean toward the court brings the Qethalu organizing against the appointment's renewal from within the temple's own ranks.
 
 ## Character
 

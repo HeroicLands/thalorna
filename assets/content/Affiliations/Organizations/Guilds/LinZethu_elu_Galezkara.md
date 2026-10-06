@@ -31,7 +31,7 @@ data:
 
 ## Overview
 
-Lin'Zethu elu Galezkara is a consortium of scribes working in [[place-galezkara|Galezkara]] outside the temple schools, taking private commissions the schools themselves will not touch. Members guard the trade in confidential copying closely, since a client paying for private work is usually paying for discretion as much as for the hand that does it. A scribe who breaks that confidence once rarely gets a second commission from this consortium's clients, who talk to each other more than the consortium would like.
+Lin'Zethu elu Galezkara is a consortium of scribes working in [[place-galezkara|Galezkara]] outside the temple schools, taking private commissions the schools themselves will not touch. Members guard the trade in confidential copying closely, since a client paying for private work is usually paying for discretion as much as for the hand that does it. Breaking that confidence once rarely earns a second commission from this consortium's clients, who talk to each other more than the consortium would like.
 
 ## Character
 

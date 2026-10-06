@@ -31,7 +31,7 @@ data:
 
 ## Overview
 
-Lin'Qethar, the Traditionalist Consortium, gathers older masters and guild conservatives across [[place-aukhelathrgq|Aû'Khelâthu]] who hold that a craft's sanctity lies entirely in its established methods. Members organize within their own guilds to resist changes to technique, training or admission that would depart from what their own masters taught them. An innovator who brings a new method before a guild where this consortium has influence should expect the proposal treated as an attack on the order of things rather than judged on its results.
+Lin'Qethar, the Traditionalist Consortium, gathers older masters and guild conservatives across [[place-aukhelathrgq|Aû'Khelâthu]] who hold that a craft's sanctity lies entirely in its established methods. Members organize within their own guilds to resist changes to technique, training or admission that would depart from what their own masters taught them. A new method brought before a guild where this consortium has influence is treated as an attack on the order of things rather than judged on its results.
 
 ## Character
 

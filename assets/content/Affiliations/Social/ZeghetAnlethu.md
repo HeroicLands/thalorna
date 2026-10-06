@@ -31,7 +31,7 @@ data:
 
 ## Overview
 
-Zeghet'Anlethu, the Relic Hunters, is a loose fellowship of those who go after what the old tombs of [[place-aukhelathrgq|Aû'Khelâthu]] still hold, drawn from scholars and dealers alike with no formal line dividing the two. Members race one another into the same necropoli, some after a publishable find and some after a sellable one, and the fellowship imposes no rule about which motive wins. A tomb opened by one of its members is picked clean fast enough that a rival arriving even a season later generally finds nothing left worth the risk of the opening.
+Zeghet'Anlethu, the Relic Hunters, is a loose fellowship of those who go after what the old tombs of [[place-aukhelathrgq|Aû'Khelâthu]] still hold, drawn from scholars and dealers alike with no formal line dividing the two. Members race one another into the same necropoli, some after a publishable find and some after a sellable one, and the fellowship imposes no rule about which motive wins. A tomb opened by one of its members is picked clean fast enough that nothing worth the risk of the opening generally remains a season later.
 
 ## Character
 

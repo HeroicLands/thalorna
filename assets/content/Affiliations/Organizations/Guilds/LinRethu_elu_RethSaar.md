@@ -31,7 +31,7 @@ data:
 
 ## Overview
 
-Lin'Rethu elu Reth'Sa'âr is the collective of scholars attached to [[affiliation-lutrethsaar|the temple of Reth'Sa'âr]], drawn from those the temple itself has certified to handle its deeper texts. The collective holds those texts apart from the temple's general archive and decides, case by case, who may read them. A scholar refused access by this collective has no other route to the material, since the temple defers to the collective's own judgment on the question.
+Lin'Rethu elu Reth'Sa'âr is the collective of scholars attached to [[affiliation-lutrethsaar|the temple of Reth'Sa'âr]], drawn from those the temple itself has certified to handle its deeper texts. The collective holds those texts apart from the temple's general archive and decides, case by case, who may read them. Refusal by this collective leaves no other route to the material, since the temple defers to the collective's own judgment on the question.
 
 ## Character
 

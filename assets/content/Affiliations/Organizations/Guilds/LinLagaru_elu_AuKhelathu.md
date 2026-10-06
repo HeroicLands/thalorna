@@ -31,7 +31,7 @@ data:
 
 ## Overview
 
-Lin'Lagaru elu Aû'Khelâthu, known as the Quantity Merchants, is a guild of dealers across [[place-aukhelathrgq|Aû'Khelâthu]] who buy and sell on volume alone rather than on the quality of any single lot. Its members move goods in bulk, trading margin for turnover, and prize a supplier who ships quickly over one who ships well. A supplier who refuses to send inferior stock to fill an order is, in this guild's own reckoning, committing an affront to profit rather than keeping faith with quality.
+Lin'Lagaru elu Aû'Khelâthu, known as the Quantity Merchants, is a guild of dealers across [[place-aukhelathrgq|Aû'Khelâthu]] who buy and sell on volume alone rather than on the quality of any single lot. Its members move goods in bulk, trading margin for turnover, and prize a supplier who ships quickly over one who ships well. In this guild's own reckoning, refusing to send inferior stock to fill an order is an affront to profit rather than keeping faith with quality.
 
 ## Character
 

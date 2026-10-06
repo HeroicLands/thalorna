@@ -31,7 +31,7 @@ data:
 
 ## Overview
 
-The Zab'quzu, the Dishonorable Order, are former soldiers of [[place-aukhelathrgq|Aû'Khelâthu]] stripped of standing for conduct the military could not overlook, whatever their prior service record. They keep their own company because no other order will have them, forming an informal fellowship out of shared disgrace rather than shared purpose. A commander who encounters a Zab'quzu veteran seeking work weighs the skill against the reason for the stripping, since the order's name tells him only that the reason was serious.
+The Zab'quzu, the Dishonorable Order, are former soldiers of [[place-aukhelathrgq|Aû'Khelâthu]] stripped of standing for conduct the military could not overlook, whatever their prior service record. They keep their own company because no other order will have them, forming an informal fellowship out of shared disgrace rather than shared purpose. A Zab'quzu veteran seeking work is weighed on skill against the reason for the stripping, since the order's name says only that the reason was serious.
 
 ## Character
 

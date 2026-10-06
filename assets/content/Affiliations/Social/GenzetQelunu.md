@@ -31,7 +31,7 @@ data:
 
 ## Overview
 
-Genzet'Qelunu, the Circle of the Veil, is a discreet society whose members trade in information people would rather not have known about themselves or their rivals. The circle compiles that information into ledgers kept for its members' use, while keeping its own members' names carefully out of those same ledgers. A patron who buys from the circle gains leverage over someone else, and never learns who within the circle actually gathered it.
+Genzet'Qelunu, the Circle of the Veil, is a discreet society whose members trade in information people would rather not have known about themselves or their rivals. The circle compiles that information into ledgers kept for its members' use, while keeping its own members' names carefully out of those same ledgers. Buying from the circle gains a patron leverage over someone else, and never reveals who within the circle actually gathered it.
 
 ## Character
 

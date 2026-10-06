@@ -31,7 +31,7 @@ data:
 
 ## Overview
 
-Zab elu Aû'Khelâthu is the fellowship of titled families across [[place-aukhelathrgq|Aû'Khelâthu]], holding between them most of the empire's land, office and access to the court's ear. Membership is hereditary rather than earned, and the fellowship's influence runs through marriage alliances and inherited appointment as much as through any formal structure. The families close ranks against outsiders with unusual speed, and an ambitious commoner who marries into one titled house quickly discovers how little that single connection buys among the rest.
+Zab elu Aû'Khelâthu is the fellowship of titled families across [[place-aukhelathrgq|Aû'Khelâthu]], holding between them most of the empire's land, office and access to the court's ear. Membership is hereditary rather than earned, and the fellowship's influence runs through marriage alliances and inherited appointment as much as through any formal structure. The families close ranks against outsiders with unusual speed, and marrying into one titled house buys an ambitious commoner very little among the rest.
 
 ## Character
 

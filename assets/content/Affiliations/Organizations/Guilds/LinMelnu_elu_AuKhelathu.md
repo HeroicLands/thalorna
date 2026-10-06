@@ -31,7 +31,7 @@ data:
 
 ## Overview
 
-Lin'Melnu elu Aû'Khelâthu is the chartered guild of metalworkers across [[place-aukhelathrgq|Aû'Khelâthu]], the acknowledged heir to forge-companies whose practice predates the guild's own charter. The guild trains smiths in that inherited practice and certifies work against it before a piece can be sold as guild-standard. Members are jealous of what they inherited, and a smith who departs from the old methods without the guild's sanction risks losing the certification that makes the work sellable at all.
+Lin'Melnu elu Aû'Khelâthu is the chartered guild of metalworkers across [[place-aukhelathrgq|Aû'Khelâthu]], the acknowledged heir to forge-companies whose practice predates the guild's own charter. The guild trains smiths in that inherited practice and certifies work against it before a piece can be sold as guild-standard. Members are jealous of what they inherited, and departing from the old methods without the guild's sanction risks the certification that makes the work sellable at all.
 
 ## Character
 

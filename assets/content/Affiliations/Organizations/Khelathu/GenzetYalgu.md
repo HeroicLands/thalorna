@@ -31,7 +31,7 @@ data:
 
 ## Overview
 
-Genzet'Yalgu, called the Court of the Nine Moons, is a body of the imperial court whose business is deliberately conducted out of the Gar-Aû's own hearing. Its members trade influence, information and favor among themselves, and its intrigues reach well beyond [[place-galezkara|Galezkara]] into the provinces and the temples alike. A newcomer to the court who mistakes this body for a minor faction learns otherwise only once its reach has already closed around some interest of their own.
+Genzet'Yalgu, called the Court of the Nine Moons, is a body of the imperial court whose business is deliberately conducted out of the Gar-Aû's own hearing. Its members trade influence, information and favor among themselves, and its intrigues reach well beyond [[place-galezkara|Galezkara]] into the provinces and the temples alike. The body passes for a minor faction until its reach has already closed around some interest of a newcomer's own.
 
 ## Character
 

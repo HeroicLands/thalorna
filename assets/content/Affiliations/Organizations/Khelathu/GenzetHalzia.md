@@ -31,7 +31,7 @@ data:
 
 ## Overview
 
-Genzet'Halzi'a is the assembled Halzi'a — the provincial governors — of the selats of [[place-aukhelathrgq|Aû'Khelâthu]] meeting in session, each representing their own province's interests before the others. The council is where a province bargains directly with the imperial centre over taxation and levies, and with its neighbors over water, roads and boundary disputes the centre would rather not adjudicate. A governor who arrives at session without allies already secured generally leaves having traded away more than one who came prepared.
+Genzet'Halzi'a is the assembled Halzi'a — the provincial governors — of the selats of [[place-aukhelathrgq|Aû'Khelâthu]] meeting in session, each representing their own province's interests before the others. The council is where a province bargains directly with the imperial centre over taxation and levies, and with its neighbors over water, roads and boundary disputes the centre would rather not adjudicate. Arriving at session without allies already secured generally means trading away more than arriving prepared.
 
 ## Character
 

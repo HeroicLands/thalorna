@@ -31,7 +31,7 @@ data:
 
 ## Overview
 
-Gar-Theqeru is a noble house of [[place-aukhelathrgq|Aû'Khelâthu]] whose women have carried influence in their own right rather than only through the men they married into the family. The house extends patronage into the healing trades, funding physicians and the preparation of remedies that a less generous house would leave to the temples alone. A healer who gains this house's patronage gains the standing that comes with it, and loses it just as visibly if the house withdraws support.
+Gar-Theqeru is a noble house of [[place-aukhelathrgq|Aû'Khelâthu]] whose women have carried influence in their own right rather than only through the men they married into the family. The house extends patronage into the healing trades, funding physicians and the preparation of remedies that a less generous house would leave to the temples alone. This house's patronage brings a healer the standing that comes with it, and withdrawing support takes the standing away just as visibly.
 
 ## Character
 

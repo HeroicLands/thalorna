@@ -31,7 +31,7 @@ data:
 
 ## Overview
 
-Lin'Lagun elu Aû'Khelâthu is the chartered guild of the timber trade across [[place-aukhelathrgq|Aû'Khelâthu]], uniting the loggers, haulers and timber-merchants who supply the empire's construction. The guild sets the standard a shipment must meet before it is sold as first quality, but its own members are at odds over what that standard should mean in practice. A buyer who wants certainty rather than argument pays for grading done outside the guild's own disputed procedure.
+Lin'Lagun elu Aû'Khelâthu is the chartered guild of the timber trade across [[place-aukhelathrgq|Aû'Khelâthu]], uniting the loggers, haulers and timber-merchants who supply the empire's construction. The guild sets the standard a shipment must meet before it is sold as first quality, but its own members are at odds over what that standard should mean in practice. Certainty rather than argument comes from grading done outside the guild's own disputed procedure, and buyers pay for it.
 
 ## Character
 
