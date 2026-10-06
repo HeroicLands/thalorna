@@ -32,6 +32,4 @@ black flame, Uqa'â has no schism. His nature is singular: fire as purification 
 as destruction or domination. Foreign observers find the unity suspicious and suspect hidden
 mysteries; the Khelâthi answer that the unity is itself one of the god's gifts.
 
-TBD—what the hidden mysteries actually hold. The priesthood trains only its most promising
-acolytes in the god's nightly battle and the hidden names of power, and keeps the treatises on the
-chaos serpent from everyone else.
+The priesthood trains only its most promising acolytes in the god's nightly battle and the hidden names of power, and keeps its treatises on the chaos serpent from everyone else. What those treatises hold is known only inside the temple.
