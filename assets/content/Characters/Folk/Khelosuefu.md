@@ -36,4 +36,4 @@ Khelosuefu is a 53-year-old man who stands 6'0" tall with a heavy build. He has 
 
 # Dossier {#dossier}
 
-Khelosuefu feels every public criticism aimed his way, home in [[place-galezkara|Galezkara]], and returns each one where it does the most damage. A rival who attacks him in public can expect the reply to land somewhere that actually hurts. He is patient about where he aims it, which is what makes the returns effective.
+Khelosuefu feels every public criticism aimed his way, home in [[place-galezkara|Galezkara]], and returns each one where it does the most damage. A public attack on him draws a reply that lands somewhere that actually hurts. He is patient about where he aims it, which is what makes the returns effective.

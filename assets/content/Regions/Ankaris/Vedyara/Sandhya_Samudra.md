@@ -25,7 +25,7 @@ There is no deep natural harbor on the whole of this coast. The anchorages are o
 
 ## The Coast
 
-The western rains are thin and late. The monsoon that drowns the southern coast arrives here spent, and the difference is the first thing a traveler down from the passes notices. Herding country runs to within a few miles of the beach, and the cultivation is what the wells will carry.
+The western rains are thin and late. The monsoon that drowns the southern coast arrives here spent. Herding country runs to within a few miles of the beach, and the cultivation is what the wells will carry.
 
 Two trades keep the coast working. Salt is raked from pans along the whole shore and goes inland by the march road. Dried fish goes the same way, and in a year when the desert caravans are moving, the coast sells more of both than its own people eat.
 

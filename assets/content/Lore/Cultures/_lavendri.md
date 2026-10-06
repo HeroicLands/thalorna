@@ -33,7 +33,7 @@ An Élavendri therefore listens to form as well as content. A thing said well is
 
 Magic is ordinary here in a way it is nowhere else in Ankaris. It is studied, practiced, discussed at table, and expected of the well-bred, and a noble who cannot at least follow a technical conversation about it is embarrassing in the way a Provenzian who cannot follow an argument is embarrassing.
 
-The consequence is that the Élavendri are unimpressed by displays. Power casually shown is vulgar; power precisely applied is admired. A visiting mage who arrives intending to overawe a court will find it attentive, appreciative, and entirely unmoved.
+The consequence is that the Élavendri are unimpressed by displays. Power casually shown is vulgar; power precisely applied is admired. A visiting mage's attempt to overawe a court meets attention and appreciation, and no awe.
 
 Because the Sinalë walk openly among them, the Élavendri also have a settled sense of proportion about their own arts. They know what a truly old practitioner looks like, and the knowledge prevents a certain kind of human vanity.
 

@@ -58,7 +58,7 @@ The faith is a layered system of clan totems, land-spirits, water-spirits, hunt-
 
 Each clan keeps its primary totem—lion, crocodile, eagle, leopard, baobab—along with its subordinate totems, ancestor-shrines and land-spirit relationships. Crucially, the clans recognize each other's totems as kin to their own, and inter-clan ceremonies name all five together. That mutual recognition is what makes the Pact a religious fact instead of a treaty, and it is why breaking it would be a far worse thing than breaking a treaty.
 
-A Nyáluban asked whether he believes in the spirits finds the question strange. The spirits are not a proposition; they are neighbors, and the three postures are how a person behaves toward neighbors of that kind.
+Whether he believes in the spirits is a strange question to a Nyáluban. The spirits are not a proposition; they are neighbors, and the three postures are how a person behaves toward neighbors of that kind.
 
 ## Cattle, Consensus and the Slow Word
 

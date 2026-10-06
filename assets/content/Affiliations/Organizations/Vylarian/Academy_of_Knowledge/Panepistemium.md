@@ -118,7 +118,7 @@ The working university—the vast majority of the campus—lies beyond the Inner
 
 ### History
 
-The Epistemium was born in the intellectual ferment of the Helionite city-states around 400 BF, when the leading philosophical schools of the various poleis agreed to a common federation. Each city-state had its own scholarly traditions—some emphasizing natural philosophy, others ethics, others the arcane—and the Epistemium was an attempt to unite these traditions under a shared framework of standards and mutual recognition. A scholar credentialed by the Epistemium could expect to be received and respected in any Helionite city.
+The Epistemium was born in the intellectual ferment of the Helionite city-states around 400 BF, when the leading philosophical schools of the various poleis agreed to a common federation. Each city-state had its own scholarly traditions—some emphasizing natural philosophy, others ethics, others the arcane—and the Epistemium was an attempt to unite these traditions under a shared framework of standards and mutual recognition. A credential from the Epistemium secured reception and respect in any Helionite city.
 
 For roughly a century, this arrangement flourished. The Epistemium became the crown jewel of Helionite civilization—a monument to the idea that all forms of knowledge were worthy of pursuit and that truth was best found through open inquiry and rigorous debate. The colleges attracted scholars from across western Ankaris, and the Epistemium's standards of evidence and argumentation set the bar for intellectual life in the region.
 

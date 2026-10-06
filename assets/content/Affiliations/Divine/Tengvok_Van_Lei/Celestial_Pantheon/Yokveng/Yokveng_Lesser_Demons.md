@@ -128,7 +128,7 @@ Demons of passage and misdirection, affiliated with the Demon Lord [[affiliation
 
 ### Mortal Engagement
 
-The vast majority of mortal encounters with the Yokveng occur through lesser demons rather than Demon Lords. A mortal who seeks to contact the Infernal Realms—whether through accident, desperation, or deliberate ritual—will most likely find a lesser demon.
+The vast majority of mortal encounters with the Yokveng occur through lesser demons rather than Demon Lords. Contact with the Infernal Realms—whether through accident, desperation, or deliberate ritual—most likely reaches a lesser demon.
 
 Direct bargains with lesser demons are possible but risky. A demon will agree to a bargain if the terms offer advantage—typically the mortal provides something the demon desires (access to records, a valuable host, contact with a person of influence) in exchange for the demon providing something the mortal needs (knowledge, power, aid in a criminal or transgressive act). The contract is typically unwritten and unenforceable by any power except the demon itself, which means the terms are whatever the demon claims they are. Mortals who bargain with lesser demons frequently discover that they have agreed to far more onerous terms than they understood, and repayment is extracted over years or even across generations of a family line.
 

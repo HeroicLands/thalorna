@@ -434,7 +434,7 @@ Sárena's feeling for others is her strongest quality: an almost preternatural a
 
 Her self-sacrificing nature is unsustainable. She is already showing signs of the exhaustion that claims many young healers—the disturbed sleep, the inability to set aside the work, the creeping sense that she is personally responsible for every death on her circuit. If she does not learn to pace herself, she will either collapse or become so emotionally depleted that her effectiveness suffers. Her physical stamina, while adequate, is no more than that, and she pushes herself harder than her body can support.
 
-She is also naive about power in ways that could endanger her. She trusts people who show her kindness, assumes good faith in those who seek her help, and does not think about her own position. A person or faction that wished to use her—her reputation, her access to households, her knowledge of the communities—would find her easy to manipulate, because it would not occur to her that someone offering to help her work might have ulterior motives.
+She is also naive about power in ways that could endanger her. She trusts people who show her kindness, assumes good faith in those who seek her help, and does not think about her own position. She is easy to use—her reputation, her access to households, her knowledge of the communities—because it does not occur to her that someone offering to help her work might have ulterior motives.
 
 ## Social
 

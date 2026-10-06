@@ -134,7 +134,7 @@ The physician's first duty is to say plainly and early that a man is dying, and 
 
 Anyone may refuse. A neighbor, a rival, a woman who was slighted twenty years ago may stand at a Reading, be asked, and say no. It costs them nothing, it is entirely lawful, and it condemns the man. That power sits in the hands of every ordinary person in the valley, and it is used. It is the most frightening thing about living among the Khelâthi, and it is not a flaw in the doctrine but the doctrine working.
 
-One kind of promise death completes rather than breaks. A man who undertook never to tell, never to retaliate, never to claim, has kept it to the end, and the entry closes with him unbreached. The Khelâthi find that consoling in a way foreigners do not expect: a poor man with one long-kept silence has discharged the hardest undertaking there is.
+One kind of promise death completes rather than breaks. A man who undertook never to tell, never to retaliate, never to claim, has kept it to the end, and the entry closes with him unbreached. The Khelâthi find that consoling: a poor man with one long-kept silence has discharged the hardest undertaking there is.
 
 Refusing is also not free, which is why it is so common. Being owed is an asset a person carries into the Zulaten, and a release writes it off. So a household will offer payment for one and nobody thinks that shabby, and the people who give a release for nothing are remembered for it by name.
 
