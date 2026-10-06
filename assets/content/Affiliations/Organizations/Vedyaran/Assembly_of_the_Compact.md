@@ -74,11 +74,11 @@ What the five hold in common is the [[lore-vdyrnbnkng|Vedyaran banking system]]�
 | [[affiliation-rajaprjnpd\|Rājapur]]     | Temple-republic        | Endowed—the temple and its sabhā          |
 | [[affiliation-dhnrktjnpd\|Dhanurkota]]  | Temple-republic        | Endowed—the temple and its sabhā          |
 
-This is not a technicality the Assembly would like to overcome. A body that held ground would be a polity, and a polity is what the five seats will not constitute between them. Two are kingdoms whose land answers to a man. Two are temple-republics whose land answers to a rite. None of the four would accept the arrangement of any other. The Assembly governs an agreement and not a territory, and the agreement survives quarrels that would break a state.
+The landlessness is deliberate. A body that held ground would be a polity, and a polity is what the five seats will not constitute between them. Two of them are held under a man, the Mahārāja of Chandrapur with his Nine Houses and the Mahārāja of Vindhyālaya with his clan-chieftains; one is held by a guild council; two are temple-republics whose land answers to a rite. No seat would accept the way another holds its ground. The Assembly governs an agreement and not a territory, and the agreement survives quarrels that would break a state.
 
 ## The Standing Committees
 
-The Assembly sits for a few weeks a year. The **standing committees** sit continuously, and between them they are what a merchant actually meets:
+The Assembly sits for a few weeks a year. The **standing committees** sit continuously, and between them they are what a merchant actually meets. A Standards clerk at Chandrapur gives every new factor the same order of study: "Learn the committees before you learn the Speaker. The Speaker decides what is voted on; the committees decide what is true."
 
 - The **Roads Committee** keeps the caravan infrastructure—the roads themselves, the caravanserai, the watch posts—and adjudicates the road-tax disputes that arise wherever one seat's toll meets another's road.
 - The **Standards Committee** sets the weights, the measures, the currency standards and the quality grades. A Collective grade-mark on a bolt of silk or a refined ingot carries across every seat because this committee says what it means.

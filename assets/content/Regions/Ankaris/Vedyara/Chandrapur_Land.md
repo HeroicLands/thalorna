@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Chandrapur Land is the country the city-state of [[affiliation-chandrapur|Chandrapur]] holds: the lower **Chandramahī** from the last of the rapids down to the sea, the delta the river builds there, and the roadstead outside the bar where deep-water hulls wait out the monsoon. The city stands at the head of the delta, and everything in the land is arranged with reference to it—the gem-road that climbs the valley to the cutting-villages, the rice and cotton of the floodplain, the salt-pans and the fishing beaches along the shore.
+Go up the **Chandramahī** from the sea and the country changes three times before you reach the rapids: a shore of salt-pans and fishing beaches, a floodplain of rice and cotton, and above the city a valley of workshops. All three belong to the city-state of [[affiliation-chandrapur|Chandrapur]], which holds the lower river from the last of the rapids down to the sea, the delta the river builds there, and the roadstead outside the bar where deep-water hulls wait out the monsoon. The city stands at the head of the delta, and everything in the land is arranged with reference to it, from the gem-road that climbs the valley to the cutting-villages to the boat-timber the shore sends down to the yards.
 
 ## How the land is held
 

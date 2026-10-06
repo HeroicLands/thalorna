@@ -22,7 +22,7 @@ Eleven thousand looms are chartered within the walls. The count is kept by the g
 
 The [[affiliation-vyalendra2|Loom-Council]] sits in the audience hall of the kings, in the palace quarter at the top of the city, and has done since the eleventh and last Mahārāja's line ended. The hall was built for a throne and holds sixty-one seats instead, one to each chartered guild, set in a ring on the floor where the dais was. The dais was taken out. The step it stood on was not, and a Speaker addresses the Council from beside it and never on it.
 
-The rest of the palace quarter is the Council's offices, the treasury, the cloth-court and the guild archives, and the private houses of the loom-castes are built into and against it. A visitor from a kingdom finds the arrangement disorderly and says so. A Vyālendri finds a court disorderly, on the grounds that a court's business is conducted where nobody can hear it.
+The rest of the palace quarter is the Council's offices, the treasury, the cloth-court and the guild archives, and the private houses of the loom households are built into and against it. A visitor from a kingdom finds the arrangement disorderly and says so. A Vyālendri finds a court disorderly, on the grounds that a court's business is conducted where nobody can hear it.
 
 ## The Great Halls
 
@@ -38,7 +38,7 @@ The [[affiliation-vyalendravada|Vyālendravāda]] keeps the mother-house of the 
 
 ## The Watch
 
-The watch is two thousand men and is commanded by a graduate of the [[affiliation-dhnrktjnpd|Dhanurkota]] academies who is never a Vyālendri. The custom is old and nobody remembers the beginning of it. It has a consequence the city lives with: a Dhanurkoti commission is granted without regard to birth, so the man who holds the gates and the treasury is as often of the serving tharana as not, and he outranks Senājas of the loom-castes, born to arms, who will not salute him. The Council has twice been asked to end the custom and has twice declined, on the ground that a commander with no kin in the city is the point of him.
+The watch is two thousand men and is commanded by a graduate of the [[affiliation-dhnrktjnpd|Dhanurkota]] academies who is never a Vyālendri. The custom is old and nobody remembers the beginning of it. It has a consequence the city lives with: a Dhanurkoti commission is granted without regard to birth, so the man who holds the gates and the treasury is as often of the serving tharana as not, and he outranks Senājas of the loom households, born to arms, who will not salute him. The Council has twice been asked to end the custom and has twice declined, on the ground that a commander with no kin in the city is the point of him.
 
 ## The Long Evening
 
