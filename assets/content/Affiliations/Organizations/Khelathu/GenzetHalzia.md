@@ -3,7 +3,7 @@ shortcode: genzethalzia
 name: {full: Genzet'Halzi'a, aliases: [The Provincial Governors' Council]}
 type: affiliation
 subType: governmental
-description: The Halzi'a of the selats in session, where the provinces bargain with the centre and with each other
+description: The Halzi'a of the selats in session, where the provinces bargain with the center and with each other
 tags: [generated, draft]
 data:
   templatePriority: null
@@ -13,7 +13,7 @@ data:
   governance:
     model: council
     summary: >-
-      The Halzi'a of the selats in session, where each province bargains with the imperial centre over taxation and levies and with its neighbors over water, roads and boundaries.
+      The Halzi'a of the selats in session, where each province bargains with the imperial center over taxation and levies and with its neighbors over water, roads and boundaries.
     ranks:
       - level: 1
         title: Halzi'a
@@ -32,7 +32,7 @@ data:
 
 ## Overview
 
-Genzet'Halzi'a is the assembled Halzi'a—the provincial governors—of the selats of [[place-aukhelathrgq|Aû'Khelâthu]] meeting in session, each representing their own province's interests before the others. The council is where a province bargains directly with the imperial centre over taxation and levies, and with its neighbors over water, roads and boundary disputes the centre would rather not adjudicate. A governor who arrives at session without allies already secured generally leaves having traded away more than one who came prepared.
+**Genzet'Halzi'a** is where the provinces of [[place-aukhelathrgq|Aû'Khelâthu]] bargain. The Halzi'a of the selats meet in session, each speaking for his own province, and settle taxation and levies with the imperial center and water, roads and boundary disputes with one another, the last being matters the center would rather not adjudicate. A governor who arrives at session without allies already secured generally leaves having traded away more than one who came prepared.
 
 ## Character
 
@@ -42,11 +42,11 @@ The council is transactional. Each governor speaks for a single province, and ba
 
 ## Relations
 
-The Halzi'a of the selats of [[place-aukhelathrgq|Aû'Khelâthu]] meet here, each representing a province before the imperial centre and before neighboring provinces. A Halzi'a commands the levies of his selat, collects its taxes and dispenses its justice, so what he agrees in session is what his province then does.
+The Halzi'a of the selats of [[place-aukhelathrgq|Aû'Khelâthu]] meet here, each representing a province before the imperial center and before neighboring provinces. A Halzi'a commands the levies of his selat, collects its taxes and dispenses its justice, so what he agrees in session is what his province then does.
 
 ## Commerce and Currency
 
-Two bargains run at once. Taxation and levies are bargained between the provinces and the centre; water, roads and boundary disputes are bargained between neighbors. The flood takes the boundary stones every year, so surveyors re-walk the fields each spring and the boundary dispute is a regular item, never a rare one.
+Two bargains run at once. Taxation and levies are bargained between the provinces and the center; water, roads and boundary disputes are bargained between neighbors. The flood takes the boundary stones every year, so surveyors re-walk the fields each spring and the boundary dispute is a regular item, never a rare one.
 
 A governor who arrives with allies already secured leaves with what he came for. One who arrives alone has to pay for each vote in something he wanted to keep.
 

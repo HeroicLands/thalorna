@@ -32,7 +32,7 @@ data:
 
 ## Overview
 
-Genzet'Qeztu is the council of the empire's senior commanders meeting in session, a body that includes officers long retired from active command. A retired general's counsel still carries weight here with the officers he trained, so seniority in this council runs on reputation as much as on current rank. A field commander who ignores the council's advice risks little immediately, but finds promotion and support harder to come by from officers who remember being overruled.
+Standing in **Genzet'Qeztu** runs on reputation as much as on current rank. The council is the empire's senior commanders in session, and it includes officers long retired from active command, whose counsel still carries weight with the officers they trained. A field commander who ignores the council's advice risks little immediately, but finds promotion and support harder to come by from officers who remember being overruled.
 
 ## Character
 
@@ -46,7 +46,7 @@ The council seats the empire's senior commanders, retired officers among them. I
 
 The ties run through training: a general counsels the officers he trained, and those officers carry the counsel into the next campaign.
 
-## Commerce and Currency
+## What It Deals In
 
 The council deals in counsel and standing rather than coin. Its currency is reputation among officers, and reputation is earned over decades and lost in a season.
 

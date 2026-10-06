@@ -36,7 +36,7 @@ data:
 
 ## Overview
 
-Lin'Zethu elu Reth'Sa'âr is the network of scribal schools maintained under [[lore-rethsaardty|Reth'Sa'âr]]'s patronage, taking in pupils from across [[place-aukhelathrgq|Aû'Khelâthu]] on ability rather than birth. The schools train the administrators the imperial state runs on, so a pupil who completes the course has a guaranteed route into the bureaucracy regardless of family standing. The schools are, in effect, the empire's meritocratic engine, and a noble house that cannot place a son here increasingly finds itself outcompeted by families that can.
+**Lin'Zethu elu Reth'Sa'âr** is the network of scribal schools maintained under [[lore-rethsaardty|Reth'Sa'âr]]'s patronage, taking in pupils from across [[place-aukhelathrgq|Aû'Khelâthu]] on ability rather than birth. The schools train the administrators the imperial state runs on, so a pupil who completes the course has a route into the bureaucracy regardless of family standing. They are the empire's meritocratic engine, and a noble house that cannot place a son in them increasingly finds itself outcompeted by families that can.
 
 ## Character
 

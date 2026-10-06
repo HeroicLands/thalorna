@@ -34,7 +34,7 @@ data:
 
 ## Overview
 
-Gar-Zin'el'Rêlu is a fallen dynasty of [[place-aukhelathrgq|Aû'Khelâthu]], whose last Gar-Aû was struck from every wall in the empire for sealing the living into a tomb. The official records name him only [[being-falseuqaa|the False Uqa'â]], erasing the name he actually reigned under along with his image, though the oldest servants of the necropolis still whisper what he was called. A historian working from the public record alone cannot reconstruct this dynasty's true end, and has to go looking among the people the erasure never reached.
+**Gar-Zin'el'Rêlu** stood barely a century, and no wall in [[place-aukhelathrgq|Aû'Khelâthu]] carries its name. Its last Gar-Aû was struck from every wall in the empire for sealing the living into a tomb, and the official records name him only [[being-falseuqaa|the False Uqa'â]], erasing the name he reigned under along with his image, though the oldest servants of the necropolis still whisper what he was called. A historian working from the public record alone cannot reconstruct the dynasty's end and has to look among the people the erasure never reached.
 
 ## Character
 
@@ -46,11 +46,11 @@ The Khelâthi count the striking of a name from the records among the heaviest p
 
 The last sovereign of the house appears in the official records only as [[being-falseuqaa|the False Uqa'â]], with the name he reigned under erased along with his image. The oldest servants of the necropolis remember that name and do not say it aloud to strangers. A scholar who wants it must find the people the erasure never reached, and approach them with patience, because they know exactly what the knowledge cost.
 
-## Commerce and Currency
+## What Remains
 
-Nothing of the house's wealth or trade is recorded. The name, the image and the house were struck from every wall, and what remains is the throne it held while the dynasty stood.
+The house has no wealth or trade to account for. Its name, its image and its house were struck from every wall, and what remains is the throne it held while the dynasty stood.
 
-A treasure-seeker who wants to follow the dynasty's trail should know what the account omits. The road to the last sovereign's tomb is death on sight, and no one's record says otherwise.
+A treasure-seeker who wants to follow the dynasty's trail should know what the account omits. The road to the last sovereign's tomb is death on sight.
 
 ## See Also
 
