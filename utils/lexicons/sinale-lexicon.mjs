@@ -13,14 +13,15 @@
  * partner each takes in a suffix, the diphthongs, the medial clusters, the
  * sounds a word may begin and end on, wearing, the case, verb and derivational
  * suffixes, the name endings and the hearth ending, the words older than the
- * rules, the shared-ancestor cognates, and the stems and function words the
- * page uses. This guard reads every one of those at run time and asks whether
- * the page obeys itself.
+ * rules and the shared-ancestor cognates. `Lore/Sinale_Lexicon.md` holds the
+ * words: its classes and fields, one table of words per field, and the
+ * register of attested names. This guard reads every one of those at run time
+ * and asks whether the two pages obey the rules the first one states.
  *
- * **The note is the single source.** No letter, suffix, cluster or ending is
- * restated here. A rule the note stops stating is a rule this guard stops
- * enforcing, and a table the note renames is reported as missing rather than
- * silently skipped.
+ * **The notes are the single source.** No letter, suffix, cluster, ending,
+ * class, field or tongue is restated here. A rule the notes stop stating is a
+ * rule this guard stops enforcing, and a table a note renames is reported as
+ * missing rather than silently skipped.
  *
  * The checks:
  *
@@ -46,9 +47,23 @@
  * 7. **The note against itself.** Every italic word in Phonology, Grammar Notes
  *    and Sample Phrases is a stem or a function word, worn or radical, with the
  *    declared affixes, or a compound of stems.
- * 8. **The lexicon.** Every stem and function-word row passes checks 1–4, its
- *    class is one the note declares, it carries a gloss, and no form stands
- *    twice.
+ * 8. **The lexicon.** Every row passes checks 1–4, stands under a field the
+ *    lexicon declares, has a class the lexicon declares, carries a gloss and an
+ *    attested cell, and no form stands twice. A row's "built from" cell is `—`
+ *    for a root word, which must keep harmony, or forms in code spans joined by
+ *    `+`: stems that are rows of the lexicon, then suffixes the language
+ *    declares, with `, worn` to wear the whole. Every stem of a compound but
+ *    the last wears, a suffix takes the form the last stem calls for, and the
+ *    result must be the row's form letter for letter.
+ * 9. **The register.** Every name and alias of a note whose `data.lore` names
+ *    the Sinalë folk, of a rank note of the Faith of Bjartr, and of the God of
+ *    Dreams, and every bold term in a clause where the Sinalë call, name or have
+ *    a word for something, stands in the register under that note's address.
+ *    Each register row names a note that exists and a tongue the register
+ *    declares; an `older` row is in the older-than-the-rules table; a `sinale`
+ *    row whose "built from" cell gives parts must recompute to the name, and
+ *    one that gives none is a warning, since it is a name the rules do not yet
+ *    reach.
  * 10. **Words older than the rules.** Only what that table lists is exempt from
  *     the checks above; each row carries a gloss and a layer the note's
  *     historical layers name; every exemption applied is printed.
@@ -70,9 +85,25 @@
 
 import fs from "node:fs";
 import path from "node:path";
+import YAML from "yaml";
 
 /** The note every predicate is derived from. */
 export const NOTE = "assets/content/Skills/Languages/Sinale.md";
+
+/** The note holding the words and the register of attested names. */
+export const LEXICON = "assets/content/Lore/Sinale_Lexicon.md";
+
+/** The content tree the register's scope is derived from. */
+export const CONTENT = "assets/content";
+
+/** The folk note whose naming in `data.lore` puts a note in the register's scope. */
+const FOLK = "flksinale";
+
+/** Folders and notes in the register's scope whatever their `data.lore` says. */
+const SCOPE_PATHS = ["Lore/Ranks/Nordheimn/Faith_of_Bjartr/", "Lore/The_God_of_Dreams.md"];
+
+/** A clause saying what the Sinalë call something; bold terms after it are names. */
+const NAMING = /Sinal[eë](?:\]\])?\s+(?:call|calls|called|name|names|named|word|words)\b/gu;
 
 /** The note holding the other copy of the shared-ancestor table. */
 export const KHAZARI = "assets/content/Skills/Languages/Khazari.md";
@@ -178,10 +209,12 @@ function marksOf(word) {
  * The whole rule, read off the note.
  *
  * @param {string} text - The note.
- * @returns {{rule: object, problems: string[]}} The derived inventories, and a
- *   message for every table the note fails to state.
+ * @param {string|null} [lex] - The lexicon note, or null when absent.
+ * @returns {{rule: object, problems: string[], lexiconProblems: string[]}} The
+ *   derived inventories with the lexicon's words, a message for every table the
+ *   note fails to state, and one for every section the lexicon fails to state.
  */
-export function ruleFrom(text) {
+export function ruleFrom(text, lex = null) {
     const problems = [];
     const need = (heading) => {
         const found = section(text, heading);
@@ -261,28 +294,10 @@ export function ruleFrom(text) {
     }));
     const hearths = affixes("### The hearth ending", "hearth");
 
-    // The lexicon the page carries: stems and function words.
+    // The words, read off the lexicon note.
+    const words = lexiconFrom(lex);
     const lexicon = new Map();
-    const lexiconRows = [];
-    const wordsSection = need("## Stems and Words");
-    const classes = new Set(ticked(wordsSection.body.split("\n### ")[0]));
-    for (const heading of ["### Stems", "### Function words"]) {
-        const found = need(heading);
-        for (const { cells, at } of rows(found.body, found.at)) {
-            const [form] = ticked(cells[0] ?? "");
-            if (!form) continue;
-            const row = {
-                form: plain(form),
-                written: form,
-                class: (cells[1] ?? "").trim(),
-                gloss: (cells[2] ?? "").trim(),
-                at: at + (text.slice(at).indexOf(form) ?? 0),
-                table: heading,
-            };
-            lexiconRows.push(row);
-            if (!lexicon.has(row.form)) lexicon.set(row.form, row);
-        }
-    }
+    for (const row of words.rows) if (!lexicon.has(row.form)) lexicon.set(row.form, row);
 
     // The words older than the rules, and the layers the note names.
     const layers = new Set(
@@ -334,8 +349,11 @@ export function ruleFrom(text) {
             endings,
             hearths,
             lexicon,
-            lexiconRows,
-            classes,
+            lexiconRows: words.rows,
+            classes: words.classes,
+            fields: words.fields,
+            tongues: words.tongues,
+            register: words.register,
             older,
             layers,
             syllables,
@@ -346,7 +364,213 @@ export function ruleFrom(text) {
             ),
         },
         problems,
+        lexiconProblems: words.problems,
     };
+}
+
+/**
+ * The lexicon note read into its parts.
+ *
+ * @param {string|null} lex - The lexicon note, or null when absent.
+ * @returns {{classes: Set<string>, fields: string[], rows: object[], tongues: Set<string>,
+ *   register: object[], problems: string[]}} The declared lists, every word row
+ *   with its field, every register row, and a message for every missing section.
+ */
+export function lexiconFrom(lex) {
+    const problems = [];
+    const out = {
+        classes: new Set(),
+        fields: [],
+        rows: [],
+        tongues: new Set(),
+        register: [],
+        problems,
+    };
+    if (lex === null || lex === undefined) {
+        problems.push(`${LEXICON} is absent, and every word is read from it`);
+        return out;
+    }
+    const need = (heading) => {
+        const found = section(lex, heading);
+        if (!found) problems.push(`the lexicon states no section "${heading}"`);
+        return found ?? { body: "", at: 0 };
+    };
+    for (const { cells } of rows(need("### Classes").body))
+        for (const name of ticked(cells[0] ?? "")) out.classes.add(name);
+    out.fields = rows(need("### Fields").body)
+        .map(({ cells }) => (cells[0] ?? "").trim())
+        .filter(Boolean);
+
+    const words = need("## Words");
+    const headings = [...words.body.matchAll(/^### (.+)$/gm)];
+    for (let i = 0; i < headings.length; i += 1) {
+        const start = headings[i].index;
+        const end = i + 1 < headings.length ? headings[i + 1].index : words.body.length;
+        const field = headings[i][1].trim();
+        const fieldAt = words.at + start + 4;
+        for (const { cells, at } of rows(words.body.slice(start, end), words.at + start)) {
+            const [form] = ticked(cells[0] ?? "");
+            if (!form) continue;
+            out.rows.push({
+                form: plain(form),
+                written: form,
+                class: (cells[1] ?? "").replace(/`/g, "").trim(),
+                gloss: (cells[2] ?? "").trim(),
+                built: (cells[3] ?? "").trim(),
+                attested: (cells[4] ?? "").trim(),
+                field,
+                fieldAt,
+                at: at + lex.slice(at).indexOf(form),
+            });
+        }
+    }
+
+    for (const { cells } of rows(need("### Tongues").body))
+        for (const name of ticked(cells[0] ?? "")) out.tongues.add(name);
+    const names = need("### Names");
+    out.register = rows(names.body, names.at).map(({ cells, at }) => ({
+        name: (cells[0] ?? "").replace(/\*\*/g, "").trim(),
+        note: (cells[1] ?? "").trim(),
+        address: (cells[1] ?? "").match(/\[\[([^|\]]+)/)?.[1] ?? null,
+        tongue: ticked(cells[2] ?? "")[0] ?? (cells[2] ?? "").trim(),
+        built: (cells[3] ?? "").trim(),
+        at,
+    }));
+    return out;
+}
+
+/**
+ * Recompute a form from a "built from" cell.
+ *
+ * @param {string} cell - The cell: `—`, or forms in code spans joined by `+`,
+ *   optionally closed by `, worn`.
+ * @param {object} rule - The rule, its lexicon included.
+ * @param {boolean} [allowNames] - Whether name endings and the hearth ending count.
+ * @returns {{root: true}|{error: string}|{form: string, stems: string[]}} A root
+ *   word, a reason the cell cannot be read, or the form its parts give.
+ */
+export function builtForm(cell, rule, allowNames = false) {
+    if (!cell || cell === "—") return { root: true };
+    let rest = cell.trim();
+    let wornAll = false;
+    const tail = rest.match(/,\s*worn$/);
+    if (tail) {
+        wornAll = true;
+        rest = rest.slice(0, tail.index);
+    }
+    const parts = rest.split(/\s*\+\s*/).map((part) => {
+        const match = part.match(/^`([^`]+)`$/);
+        return match ? plain(match[1]) : null;
+    });
+    if (parts.some((part) => part === null))
+        return { error: `"${cell}" is not forms in code spans joined by "+"` };
+    const stems = [];
+    const suffixes = [];
+    for (const part of parts) {
+        if (part.startsWith("-")) suffixes.push(part);
+        else if (suffixes.length) return { error: `the stem "${part}" follows a suffix` };
+        else stems.push(part);
+    }
+    if (!stems.length) return { error: `"${cell}" names no stem` };
+    for (const stem of stems)
+        if (!rule.lexicon.has(stem)) return { error: `"${stem}" is not a row of the lexicon` };
+    let form = stems.map((stem, i) => (i < stems.length - 1 ? worn(stem, rule) : stem)).join("");
+    const last = stems[stems.length - 1];
+    const harmony = harmonyOf(last, rule);
+    const declared = [
+        ...rule.derivations,
+        ...rule.cases,
+        ...(allowNames ? [...rule.endings, ...rule.hearths] : []),
+    ];
+    let hearth = false;
+    for (const suffix of suffixes) {
+        const row = declared.find(
+            (one) => plain(one.back) === suffix || plain(one.front ?? "") === suffix,
+        );
+        if (!row) return { error: `"${suffix}" is not a suffix the language declares` };
+        const { right } = formFor(row, harmony);
+        if (`-${right}` !== suffix)
+            return {
+                error: `"${suffix}" is the ${harmony === "back" ? "front" : "back"} form of "${row.back}", after the ${harmony} stem "${last}"`,
+            };
+        if (row.kind === "hearth") hearth = true;
+        form += right;
+    }
+    if (wornAll || hearth) form = worn(form, rule);
+    return { form, stems };
+}
+
+/** A note's frontmatter, parsed, or null when it has none or it does not parse. */
+function frontmatter(text) {
+    const match = text.match(/^---\n([\s\S]*?)\n---/);
+    if (!match) return null;
+    try {
+        return YAML.parse(match[1]);
+    } catch {
+        return null;
+    }
+}
+
+/**
+ * Every note address in the tree, and every name the register must hold.
+ *
+ * @param {string} [root] - The content tree.
+ * @returns {{addresses: Set<string>, names: Array<{name: string, address: string,
+ *   file: string, line: number|null, column: number|null}>}} The addresses, and
+ *   each attested name with the note it belongs to and where it is written.
+ */
+export function attestedNames(root = CONTENT) {
+    const files = [];
+    const walk = (dir) => {
+        for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+            const full = path.join(dir, entry.name);
+            if (entry.isDirectory()) walk(full);
+            else if (entry.name.endsWith(".md")) files.push(full);
+        }
+    };
+    walk(root);
+    const addresses = new Set();
+    const names = [];
+    const seen = new Set();
+    const add = (name, address, file, text, at) => {
+        const key = `${name}\u0000${address}`;
+        if (seen.has(key)) return;
+        seen.add(key);
+        const { line, column } = lineColumn(text, at);
+        names.push({ name, address, file, line, column });
+    };
+    for (const file of files.sort()) {
+        const text = fs.readFileSync(file, "utf8");
+        const front = frontmatter(text);
+        if (!front?.type || !front?.shortcode) continue;
+        const address = `${front.type}-${front.shortcode}`;
+        addresses.add(address);
+        const inside = path.relative(root, file).split(path.sep).join("/");
+        const lore = Array.isArray(front.data?.lore) ? front.data.lore : [];
+        const inScope =
+            lore.includes(FOLK) ||
+            SCOPE_PATHS.some((scope) => inside === scope || inside.startsWith(scope));
+        if (inScope) {
+            const name = front.name;
+            const all = [
+                typeof name === "string" ? name : name?.full,
+                ...(Array.isArray(name?.aliases) ? name.aliases : []),
+            ].filter((one) => typeof one === "string" && one.trim());
+            for (const one of all) add(one.trim(), address, file, text, text.indexOf(one));
+        }
+        const relative = path.relative(".", file).split(path.sep).join("/");
+        if (relative === NOTE || relative === LEXICON) continue;
+        for (const match of text.matchAll(NAMING)) {
+            const from = match.index + match[0].length;
+            const stops = [";", ". ", ".\n", "\n"]
+                .map((stop) => text.indexOf(stop, from))
+                .filter((at) => at !== -1);
+            const to = stops.length ? Math.min(...stops) : text.length;
+            for (const bold of text.slice(from, to).matchAll(/\*\*([^*]+)\*\*/g))
+                add(bold[1].trim(), address, file, text, from + bold.index + 2);
+        }
+    }
+    return { addresses, names };
 }
 
 /** The consonant digraphs: inventory entries of two letters that are not a doubled letter. */
@@ -801,13 +1025,16 @@ export function cognates(text) {
 }
 
 /**
- * Run every check over the note.
+ * Run every check over the note and the lexicon.
  *
  * @param {string} text - The Sinalë note.
  * @param {string|null} khazari - The Khazári note, or null when absent.
+ * @param {string|null} lex - The lexicon note, or null when absent.
+ * @param {ReturnType<typeof attestedNames>|null} [tree] - The addresses and
+ *   attested names of the content tree; null skips the register's completeness.
  * @returns {{findings: string[], summary: string[]}} Findings and a summary.
  */
-export function analyse(text, khazari) {
+export function analyse(text, khazari, lex, tree = null) {
     const findings = [];
     const summary = [];
     const at = (offset) => lineColumn(text, offset);
@@ -815,9 +1042,15 @@ export function analyse(text, khazari) {
         const { line, column } = offset === null ? { line: null, column: null } : at(offset);
         findings.push({ check, line: finding(NOTE, line, column, severity, message) });
     };
+    const reportLex = (offset, severity, message, check) => {
+        const { line, column } =
+            offset === null || lex == null ? { line: null, column: null } : lineColumn(lex, offset);
+        findings.push({ check, line: finding(LEXICON, line, column, severity, message) });
+    };
 
-    const { rule, problems } = ruleFrom(text);
+    const { rule, problems, lexiconProblems } = ruleFrom(text, lex);
     for (const problem of problems) report(null, "error", problem, "rules");
+    for (const problem of lexiconProblems) reportLex(null, "error", problem, "rules");
     const exempt = new Set(rule.older.map((row) => row.form).filter(Boolean));
     const exemptMet = new Set();
 
@@ -876,26 +1109,147 @@ export function analyse(text, khazari) {
 
     // Check 8: the lexicon.
     const seen = new Map();
+    const fields = new Set(rule.fields);
+    const fieldCounts = new Map(rule.fields.map((field) => [field, 0]));
+    const badFields = new Set();
+    let roots = 0;
     for (const row of rule.lexiconRows) {
         if (exempt.has(row.form)) {
             exemptMet.add(row.form);
             continue;
         }
-        for (const message of shape(row.written, rule)) report(row.at, "error", message, 8);
-        if (harmonyOf(row.form, rule) === "mixed")
-            report(row.at, "error", `"${row.written}" holds a back and a front vowel`, 8);
-        if (!rule.classes.has(row.class))
-            report(
-                row.at,
+        if (!fields.has(row.field) && !badFields.has(row.field)) {
+            badFields.add(row.field);
+            reportLex(
+                row.fieldAt,
                 "error",
-                `"${row.written}" has the class "${row.class}", which the page does not declare`,
+                `the words stand under "${row.field}", which is not in the field list`,
                 8,
             );
-        if (!row.gloss) report(row.at, "error", `"${row.written}" carries no gloss`, 8);
+        }
+        fieldCounts.set(row.field, (fieldCounts.get(row.field) ?? 0) + 1);
+        for (const message of shape(row.written, rule)) reportLex(row.at, "error", message, 8);
+        if (!rule.classes.has(row.class))
+            reportLex(
+                row.at,
+                "error",
+                `"${row.written}" has the class "${row.class}", which the lexicon does not declare`,
+                8,
+            );
+        if (!row.gloss) reportLex(row.at, "error", `"${row.written}" carries no gloss`, 8);
+        if (!row.attested)
+            reportLex(row.at, "error", `"${row.written}" carries no attested cell`, 8);
         if (seen.has(row.form))
-            report(row.at, "error", `"${row.written}" stands twice in the page's word tables`, 8);
+            reportLex(row.at, "error", `"${row.written}" stands twice in the lexicon`, 8);
         seen.set(row.form, row);
+        const built = builtForm(row.built, rule);
+        if (built.root) {
+            roots += 1;
+            if (harmonyOf(row.form, rule) === "mixed")
+                reportLex(row.at, "error", `"${row.written}" holds a back and a front vowel`, 8);
+        } else if (built.error)
+            reportLex(row.at, "error", `"${row.written}" is built from ${built.error}`, 8);
+        else if (built.form !== row.form)
+            reportLex(
+                row.at,
+                "error",
+                `"${row.written}" is not what its parts give, which is "${built.form}"`,
+                8,
+            );
     }
+
+    // Check 9: the register.
+    const registered = new Set();
+    const tongueDeclared = (tongue) =>
+        rule.tongues.has(tongue) ||
+        [...rule.tongues].some((declared) => {
+            const colon = declared.indexOf(":");
+            return (
+                colon > 0 &&
+                declared.endsWith(">") &&
+                tongue.startsWith(declared.slice(0, colon + 1)) &&
+                /^[a-z]+$/.test(tongue.slice(colon + 1))
+            );
+        });
+    let unbuilt = 0;
+    for (const row of rule.register) {
+        const key = `${row.name}\u0000${row.address}`;
+        if (!row.name) reportLex(row.at, "error", "a register row names nothing", 9);
+        if (registered.has(key))
+            reportLex(row.at, "error", `"${row.name}" stands twice in the register`, 9);
+        registered.add(key);
+        if (!tongueDeclared(row.tongue))
+            reportLex(
+                row.at,
+                "error",
+                `"${row.name}" is in the tongue "${row.tongue}", which the register does not declare`,
+                9,
+            );
+        if (!row.address)
+            reportLex(row.at, "error", `"${row.name}" names no note it is attested in`, 9);
+        else if (tree && !tree.addresses.has(row.address))
+            reportLex(row.at, "error", `"${row.name}" names "${row.address}", which no note has`, 9);
+        if (row.tongue === "older" && !exempt.has(plain(row.name)))
+            reportLex(
+                row.at,
+                "error",
+                `"${row.name}" is registered as older than the rules, which that table does not list`,
+                9,
+            );
+        if (row.tongue !== "sinale") continue;
+        if (!row.built || row.built === "—") {
+            unbuilt += 1;
+            reportLex(
+                row.at,
+                "warning",
+                `"${row.name}" is attested as Sinalë and is not built from the lexicon`,
+                9,
+            );
+            continue;
+        }
+        const words = row.name.split(/\s+/);
+        const cells = row.built.split(/\s*·\s*/);
+        if (words.length !== cells.length) {
+            reportLex(
+                row.at,
+                "error",
+                `"${row.name}" has ${words.length} word(s) and ${cells.length} derivation(s)`,
+                9,
+            );
+            continue;
+        }
+        words.forEach((word, i) => {
+            for (const message of shape(word, rule)) reportLex(row.at, "error", message, 9);
+            const built = builtForm(cells[i], rule, true);
+            if (built.error || built.root)
+                reportLex(
+                    row.at,
+                    "error",
+                    `"${word}" is built from ${built.error ?? "nothing the lexicon holds"}`,
+                    9,
+                );
+            else if (built.form !== plain(word))
+                reportLex(
+                    row.at,
+                    "error",
+                    `"${word}" is not what its parts give, which is "${built.form}"`,
+                    9,
+                );
+        });
+    }
+    if (tree)
+        for (const one of tree.names)
+            if (!registered.has(`${one.name}\u0000${one.address}`))
+                findings.push({
+                    check: 9,
+                    line: finding(
+                        path.relative(".", one.file).split(path.sep).join("/"),
+                        one.line,
+                        one.column,
+                        "error",
+                        `"${one.name}" is attested here and ${LEXICON} does not register it under "${one.address}"`,
+                    ),
+                });
 
     // Check 6: the name lists.
     const counts = {};
@@ -1021,7 +1375,17 @@ export function analyse(text, khazari) {
             `${rule.wearing.size} wearing pairs, ${rule.cases.length} cases, ` +
             `${rule.prefixes.length + rule.moods.length} verb affixes, ${rule.derivations.length} derivational suffixes, ` +
             `${rule.endings.length} name endings, ${rule.hearths.length} hearth ending(s), ` +
-            `${rule.lexicon.size} stems and words.`,
+            `${rule.lexicon.size} words in ${LEXICON}.`,
+    );
+    summary.push(
+        `The lexicon: ${rule.lexiconRows.length} rows, ${roots} root words and ` +
+            `${rule.lexiconRows.length - roots} built. By field: ` +
+            [...fieldCounts.entries()].map(([field, n]) => `${field} ${n}`).join("; ") +
+            ".",
+    );
+    summary.push(
+        `The register: ${rule.register.length} rows, ${unbuilt} Sinalë name(s) not built from the lexicon` +
+            (tree ? `; ${tree.names.length} attested names derived from the tree.` : "; the tree was not read."),
     );
     summary.push(
         `Read: ${counts.male ?? 0} male given names, ${counts.female ?? 0} female given names, ` +
@@ -1047,7 +1411,8 @@ function main() {
     }
     const text = fs.readFileSync(NOTE, "utf8");
     const khazari = fs.existsSync(KHAZARI) ? fs.readFileSync(KHAZARI, "utf8") : null;
-    const { findings, summary } = analyse(text, khazari);
+    const lex = fs.existsSync(LEXICON) ? fs.readFileSync(LEXICON, "utf8") : null;
+    const { findings, summary } = analyse(text, khazari, lex, attestedNames());
     for (const line of findings) console.error(line);
     for (const line of summary) process.stdout.write(`${line}\n`);
     const errors = findings.filter((line) => line.includes(": error: ")).length;
