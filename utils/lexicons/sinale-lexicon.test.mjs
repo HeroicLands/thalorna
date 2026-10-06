@@ -155,7 +155,9 @@ test("an attested name the register does not hold is an error", () => {
     const one = tree.names[0];
     assert(one, "the tree attests at least one name");
     const { rule } = ruleFrom(note, lexicon);
-    const row = rule.register.find((entry) => entry.name === one.name && entry.address === one.address);
+    const row = rule.register.find(
+        (entry) => entry.name === one.name && entry.address === one.address,
+    );
     assert(row, `the register holds "${one.name}"`);
     const line = lexicon.split("\n").find((text) => text.startsWith(`| **${one.name}**`));
     const broken = edited(`${line}\n`, "", lexicon);

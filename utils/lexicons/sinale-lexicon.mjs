@@ -1189,7 +1189,12 @@ export function analyse(text, khazari, lex, tree = null) {
         if (!row.address)
             reportLex(row.at, "error", `"${row.name}" names no note it is attested in`, 9);
         else if (tree && !tree.addresses.has(row.address))
-            reportLex(row.at, "error", `"${row.name}" names "${row.address}", which no note has`, 9);
+            reportLex(
+                row.at,
+                "error",
+                `"${row.name}" names "${row.address}", which no note has`,
+                9,
+            );
         if (row.tongue === "older" && !exempt.has(plain(row.name)))
             reportLex(
                 row.at,
@@ -1386,7 +1391,9 @@ export function analyse(text, khazari, lex, tree = null) {
     );
     summary.push(
         `The register: ${rule.register.length} rows, ${unbuilt} Sinalë name(s) not built from the lexicon` +
-            (tree ? `; ${tree.names.length} attested names derived from the tree.` : "; the tree was not read."),
+            (tree ?
+                `; ${tree.names.length} attested names derived from the tree.`
+            :   "; the tree was not read."),
     );
     summary.push(
         `Read: ${counts.male ?? 0} male given names, ${counts.female ?? 0} female given names, ` +
