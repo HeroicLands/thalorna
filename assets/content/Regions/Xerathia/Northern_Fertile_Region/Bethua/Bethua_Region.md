@@ -3,14 +3,14 @@ shortcode: bethuargn
 name: {full: Bethûa Region, aliases: []}
 type: place
 subType: region
-description: The western coast of Xerathia's northern shore and the engineered interior behind it—the widest and most reliable of the fertile littoral, held by the Matriarchy of Bethûa.
+description: The central coast of Xerathia's northern shore, between Okháris and Aû'Khelâthu, and the engineered interior behind it—the widest and most reliable of the fertile littoral, held by the Matriarchy of Bethûa.
 tags: [region]
 data:
   icon: null
   demonym: Bethûan
   lore: [humanflk]
   parents: [nrthrnfrtlrgn, xerathia]
-  borders: [{to: aukhelathrgq, bearing: E}]
+  borders: [{to: aukhelathrgq, bearing: E}, {to: okharisrgn, bearing: W}]
   population: 3000000
   packFolder: bethua
   government: mtrrchybth
@@ -18,8 +18,9 @@ data:
 
 ## Overview
 
-The Bethûa Region is the western end of the
-[[place-nrthrnfrtlrgn|Northern Fertile Region]]—the coast and hinterland held
+The Bethûa Region is the middle of the
+[[place-nrthrnfrtlrgn|Northern Fertile Region]], between Okháris to the west and
+Aû'Khelâthu to the east—the coast and hinterland held
 by the [[affiliation-mtrrchybth|Matriarchy of Bethûa]], and the part of Xerathia's
 northern shore that faces most directly across the
 [[place-vylarianse|Vylarian Sea]] toward Ankaris.
@@ -56,7 +57,7 @@ than any home-grown tradition.
 ## Politics and Power
 
 The region is the territory of the [[affiliation-mtrrchybth|Matriarchy of Bethûa]].
-Along its southern margins, Okháric frontier clans pay tribute to Bethûan
+Along its western margins, Okháric frontier clans pay tribute to Bethûan
 authorities in exchange for grazing rights; its eastern frontier with
 [[place-aukhelathrgq|Aû'Khelâthu Region]] is poorly defined and a recurring source of
 friction.
@@ -66,4 +67,4 @@ friction.
 - [[place-nrthrnfrtlrgn|Northern Fertile Region]]—the parent region
 - [[affiliation-mtrrchybth|Matriarchy of Bethûa]]—the realm that holds this region
 - [[place-aukhelathrgq|Aû'Khelâthu Region]]—neighbor to the east
-- [[place-okharisrgn|Okháris Region]]—neighbor to the south
+- [[place-okharisrgn|Okháris Region]]—neighbor to the west
