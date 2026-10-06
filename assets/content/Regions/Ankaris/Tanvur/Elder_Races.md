@@ -36,7 +36,7 @@ The empire classifies the [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazá
 
 **Sinalëan Scholars:** Sinalëan scholars, known for their deep knowledge of ancient lore, astronomy, and natural sciences, are often granted the status of Tānthëi. These Sinalë are advisors to the human elite, offering insights into the natural world, history, and philosophy. However, their counsel is sometimes met with suspicion, as humans are aware that the Sinalë wisdom comes from centuries of observation, far surpassing human experience.
 
-**Khazárian Scholars:** Khazárian scholars, especially those versed in engineering, geology, and metallurgy, are also classified as Tānthëi. They contribute to the empire's infrastructure, designing fortifications and mining operations. While their practical skills are valued, their more esoteric knowledge of the earth and minerals is often viewed with a mixture of awe and mistrust.
+**Khazárian Scholars:** Khazárian scholars, especially those versed in engineering, geology, and metallurgy, are also classified as Tānthëi. They contribute to the empire's infrastructure, designing fortifications and mining operations; the mines they lay out follow the rock and need no timber. While their practical skills are valued, their more esoteric knowledge of the earth and minerals is often viewed with a mixture of awe and mistrust.
 
 #### Vüshōk (Warriors and Military Officers)
 
@@ -62,7 +62,7 @@ The empire acknowledges the ancestral lands of the Sinalë and Khazári, which a
 
 #### Khazárian Strongholds
 
-**Description:** The Khazárian territories are primarily mountainous strongholds, built deep within the earth. These fortresses are nearly impregnable and serve as centers of mining, metallurgy, and smithing. The Khazári guard their secrets fiercely, sharing only a fraction of their knowledge with the humans.
+**Description:** The Khazárian territories are primarily mountain cities in the cliff faces, with refuges deep in the rock. These strongholds are nearly impregnable and serve as centers of mining, metallurgy, and smithing. The Khazári keep their inner life to themselves, sharing only a fraction of their knowledge with the humans.
 
 **Imperial Relations:** The empire relies on Khazárian craftsmanship for weapons, armor, and fortifications. In exchange, the Khazári are left to manage their strongholds with minimal interference, though they are expected to contribute to the defense of the empire in times of war.
 

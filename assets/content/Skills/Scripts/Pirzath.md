@@ -3,7 +3,7 @@ shortcode: drthrkscrpt
 name: {full: Pirzath Script, aliases: [Pirzath]}
 type: skill
 subType: script
-description: "The cut letters of the Khazári—angular, unjoined characters made for chisel and graver, and a people who write down nearly everything."
+description: "The letters of the Khazári—angular carved characters that follow the stone, a flowing hand for everyday use, and a people who write down nearly everything."
 tags: []
 data: {icon: icon-speaking, templatePriority: null, packFolder: script}
 sohl:
@@ -17,7 +17,9 @@ sohl:
   flags: {"thalorna": {script_family: Angular}}
 ---
 
-Pirzath—"the cut letters"—is the writing of the [[skill-khazarlng|Khazári]]: forty-one characters of straight lines, right angles and sharp vertices, which **never join**, each standing separate and square in its own space. It reads left to right and top to bottom. Diacritics are notches, drilled dots and short scored lines, because those are what a graver makes cleanly on metal and what survives on rock. Monumental and sacred work uses an elaborated variant with deeper relief and inlaid metal, but the underlying characters are identical—the Khazári do not have a separate ceremonial alphabet, and would consider one an admission that the ordinary letters were inadequate.
+Pirzath—"the cut letters"—is the writing of the [[skill-khazarlng|Khazári]]: forty-one characters with **two forms**. **Carved Pirzath** is angular: short strokes cut across the grain of the stone, never along it, each letter standing separate and never joining its neighbour. The line of text follows a seam, a bedding line or a natural edge of the stone rather than a ruled baseline, so no inscription is a straight line, and the same letter is cut differently in slate and in granite. Carved Pirzath is for what must last—oaths, laws, tombs, the founding of a hold—in stone, metal or wood. Diacritics are notches, drilled dots and short scored lines, because those are what a graver makes cleanly on metal and what survives on rock. Monumental and sacred work uses an elaborated variant with deeper relief and inlaid metal, but the underlying characters are identical—the Khazári do not have a separate ceremonial alphabet, and would consider one an admission that the ordinary letters were inadequate.
+
+**The hand form of Pirzath** is the everyday writing: flowing, curved and joined, in ink or scratched with a stylus. It is written on slate and chalk for teaching, tallies and notes; on wax tablets for drafts and accounts; in ink on hide or parchment for letters and books; and with a stylus on thin sheets of lead or copper for records meant to last without being monumental. It reads left to right and top to bottom, as the carved form does, and marks the skeleton of a word with a heavier stroke. Reading carved Pirzath well means reading the stone.
 
 It resembles the [[sohl-none-docskill-runic|Runic]] traditions of the Pelwar peoples because it is their **parent**. Pirzath is the elder script by some thousands of years, and the staves of Nordmal [[skill-thuravarkscript|Thurávark]] correspond to a subset of the Pirzath characters closely enough—same angles, same notch-and-drill diacritics, broadly the same sound values wherever the two languages allow the comparison—that the relationship is not seriously disputed by anyone outside the Nordlands.
 
@@ -33,7 +35,7 @@ Teaching writing to a subject people sits awkwardly beside the Elder Races' long
 
 ## A literate people
 
-Literacy is **near-universal among the Khazári**, which is true of no human culture on Thalorna. Writing is not a scholar's specialization there but a component of craft: a piece of work is signed, dated, specified and warranted in Pirzath on the object itself, and a hold's genealogies, craft records, tolerances and assay results are kept as a matter of course. A Khazári smith who could not write would be unable to practice. The consequence is an archive of extraordinary depth, in stone and metal, in strongholds where no human scholar has been invited.
+Literacy is **near-universal among the Khazári**, which is true of no human culture on Thalorna. Writing is not a scholar's specialization there but a component of craft: a piece of work is signed, dated, specified and warranted in carved Pirzath on the object itself, and a hold's genealogies, craft records, tolerances and assay results are kept as a matter of course in the hand form, on slate, wax, hide and soft metal. A Khazári smith who could not write would be unable to practice. The consequence is an archive of extraordinary depth, in stone, metal and sheet lead, in strongholds where no human scholar has been invited.
 
 ## Who has it, among humans
 
@@ -41,4 +43,4 @@ Almost nobody. Dedicated scholars, and those with Khazári kinship or long foste
 
 ## In play
 
-The script is genuinely easy to _recognize_ and hard to _read_: a party finds Pirzath on a bridge keystone, a tunnel lintel, a blade tang, a bracket in a mine, and can tell at once what it is, and can do nothing with it. What is written there is usually technical—a load rating, a date, an assay, a maker's warrant—and technical Khazári is a register with vocabulary that a conversational speaker simply does not have. Age is less of an obstacle here than elsewhere: Khazári orthography has barely moved in three thousand years, so a very old inscription is likely to be legible to anyone who can read a new one.
+The script is genuinely easy to _recognize_ and hard to _read_: a party finds carved Pirzath on a bridge keystone, a tunnel lintel, a blade tang, a marker in a mine, and can tell at once what it is, and can do nothing with it. A lead sheet or a wax tablet found in a hold is the hand form, legible only to someone who learned it. What is written there is usually technical—a load rating, a date, an assay, a maker's warrant—and technical Khazári is a register with vocabulary that a conversational speaker simply does not have. Age is less of an obstacle here than elsewhere: Khazári orthography has barely moved in three thousand years, so a very old inscription is likely to be legible to anyone who can read a new one.

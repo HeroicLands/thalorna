@@ -57,7 +57,7 @@ The [[lore-flksinale|Sinalë]]. The Firstborn. The Star-Kindled. A tall, gracefu
 
 #### Khazári
 
-The [[lore-flkkhazar|Khazári]]. The Deep Folk. The Stone-Wrights. A shorter, broader, immensely strong people who inhabit mountain holds carved into living rock with engineering skill no human can match. Like the Sinalë, they are vanishingly rare, deeply insular, and uninterested in human politics. Their craft—metalwork, stonework, engineering—is legendary, though most humans encounter it only in ancient ruins and priceless artifacts from an age before humanity.
+The [[lore-flkkhazar|Khazári]]. The Deep Folk. The Stone-Wrights. A shorter, broader, immensely strong people who inhabit mountain holds in the cliff faces and the caves behind them, worked with engineering skill no human can match. Like the Sinalë, they are vanishingly rare, deeply insular, and uninterested in human politics. Their craft—metalwork, stonework, engineering—is legendary, though most humans encounter it only in ancient ruins and priceless artifacts from an age before humanity.
 
 #### The Old Compact
 
