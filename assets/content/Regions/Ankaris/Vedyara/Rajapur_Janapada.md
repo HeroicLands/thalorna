@@ -102,7 +102,9 @@ The sabhā was convened. It met for forty days. It declared the kingdom dissolve
 
 The classical chronicles put this at **−240 AF** in the [[affiliation-vylarinmpr#the-common-calendar|Common Calendar]], about nine hundred and sixty years ago. Rājapur has governed itself by the same arrangement ever since, with adjustments at the margins.
 
-: From [[lore-fortydays|The Forty Days]] {#forty-days-excerpt}
+[[lore-fortydays|The Forty Days]] records the sabhā's answer:
+
+: They Asked for No King {#forty-days-excerpt}
 
 > They asked for no king.
 >
@@ -117,7 +119,9 @@ Rājapur's governance carries one office no other janapada has, the **Memory-Kee
 - To advise the sabhā on questions where the precedents of the old kingdom might bear on present decisions. The Memory-Keeper does not vote and does not have policy authority; the role is consultative and ceremonial.
 - To keep the **Rājavalī Library**—the archive of every chronicle, treaty, and legal text from the kingdom-period, plus the continuous archive of every sabhā session since the dissolution. The library is housed in what was once the royal council-chamber, now an annex of the temple complex.
 
-: From the [[lore-rcitkngsmhnd|Recitation of the Kings of Mahānadi]] {#recitation-excerpt}
+Each session's [[lore-rcitkngsmhnd|Recitation of the Kings of Mahānadi]] closes on the janapada itself:
+
+: The Acknowledgment {#recitation-excerpt}
 
 ```poetry {form=recitation lang=en}
 The Mahānadi kingdom is no more;

@@ -22,7 +22,9 @@ Nothing was hidden and nothing was buried. The granaries became common stores, t
 
 The outline is legible. A visitor can walk the plan of the audience hall, the kitchens and the guard barrack in an afternoon, and the Memory-Keeper's recitation names rooms that a listener can then go and stand in.
 
-: From the [[lore-rcitkngsmhnd|Recitation of the Kings of Mahānadi]] {#recitation-excerpt}
+The [[lore-rcitkngsmhnd|Recitation of the Kings of Mahānadi]] sets the last reign's undoing in these rooms:
+
+: The Barrack, the Hall and the Kitchen {#recitation-excerpt}
 
 ```poetry {form=recitation lang=en}
 His guard went from the barrack to the grain

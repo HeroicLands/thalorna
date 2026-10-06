@@ -16,7 +16,9 @@ The **sandstone altar** in the main hall of the great Vyālendra temple at [[pla
 
 The altar was a royal foundation. Every king of the Kingdom of Mahānadi was consecrated at it, including the last one, and the sabhā that dissolved the kingdom met in the hall the altar stands in and has met there ever since.
 
-: From the [[lore-rcitkngsmhnd|Recitation of the Kings of Mahānadi]] {#recitation-excerpt}
+The [[lore-rcitkngsmhnd|Recitation of the Kings of Mahānadi]] names the altar at every session:
+
+: Each King Hallowed There {#recitation-excerpt}
 
 ```poetry {form=recitation lang=en}
 The altar of this hall was cut for them;
