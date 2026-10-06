@@ -137,6 +137,7 @@ The Khazári do not appear to care that humans possess these remnants. They are 
 
 ## See Also
 
+- [[lore-khazariclt|Khazári]]—The culture: listening to stone, life in the cliff face, mining, teaching and outsiders
 - [[lore-flksinale|Sinalë]]—The first elder race; the Firstborn
 - [[affiliation-tanvurempr|Empire of Tānvür]]—Mountains believed to contain holds; see [[lore-elderraces|Elder Races]]
 - [[place-vrystwald|Vrystwald Region]]—Mountains above the forest likely contain holds

@@ -1105,6 +1105,7 @@ a name older than the rules is listed among the words older than the rules in [[
 | Name                             | Address                                         | Language  | Derivation                            |
 | -------------------------------- | ----------------------------------------------- | --------- | ------------------------------------- |
 | Khazár Folk                      | [[lore-flkkhazar\|Khazár Folk]]                 | `english` | an English name on the word `Khazár`  |
+| Khazári                          | [[lore-khazariclt\|Khazári]]                    | `older`   | a word older than the rules           |
 | Khazar                           | [[lore-flkkhazar\|Khazár Folk]]                 | `english` | an unmarked spelling of `Khazár`      |
 | The Deep Folk                    | [[lore-flkkhazar\|Khazár Folk]]                 | `english` | —                                     |
 | The Stone-Wrights                | [[lore-flkkhazar\|Khazár Folk]]                 | `english` | —                                     |
