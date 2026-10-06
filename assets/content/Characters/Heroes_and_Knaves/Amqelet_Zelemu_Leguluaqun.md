@@ -452,9 +452,9 @@ Faced with skepticism from the court and the increasing pressure of the imperial
 
 ### The Sacred Journey
 
-Amqelet-Zelemu embarked on a **pilgrimage** to these ancient locations, which were sacred to the early astrologers of Aû'Khelâthu. His journey would take him deep into the deserts of Beshakan, across the **Venâria Sea**, and through forgotten ruins where ancient star maps were carved into the stones by the earliest astronomers.
+Amqelet-Zelemu embarked on a **pilgrimage** to these ancient locations, which were sacred to the early astrologers of Aû'Khelâthu. His journey would take him deep into the deserts of [[place-beshakan|Beshakan]], across the [[place-venariasea|Venâria Sea]], and through forgotten ruins where ancient star maps were carved into the stones by the earliest astronomers.
 
-His first stop was the **Obelisk of Anlaghura**, an ancient monolithic structure standing in the middle of the Târga River Valley. There, Amqelet-Zelemu discovered fragments of a lost prophecy inscribed in ancient runes, pointing him to a mountain shrine in the highlands of **Chenosolis**, where the oldest records of the empire’s astrologers were kept.
+His first stop was the [[place-anlaghura|Obelisk of Anlaghura]], an ancient monolithic structure standing in the middle of the Târga River Valley. There, Amqelet-Zelemu discovered fragments of a lost prophecy inscribed in ancient runes, pointing him to a mountain shrine in the highlands of [[place-chenosolis|Chenosolis]], where the oldest records of the empire’s astrologers were kept.
 
 ### Mystical Challenges and Allies
 

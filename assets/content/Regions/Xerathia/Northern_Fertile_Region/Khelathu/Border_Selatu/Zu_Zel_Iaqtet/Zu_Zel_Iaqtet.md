@@ -40,7 +40,7 @@ Mining and quarrying are the whole of it. The gold and copper feed the empire's 
 ## Settlements
 
 - [[place-balqu|Balqu]] (~22,000)—the selat capital, a fortified hill-town at the mouth of the chief mining district: the seat of the soldier-Halzi'a, the assay-house and treasury where the gold is weighed and sealed for the capital, the garrison barracks, and the great temple of Psaq'âru the smith.
-- The mine-and-quarry camps: mining settlements, smelter-towns and quarry-camps of 500–4,000 people lie scattered through the hills and desert, each clustered around its diggings and its guard-fort and supplied by water-caravan from the river. Among them are [[place-baliazalu|Balia-Zalu]] (the copper diggings), [[place-melgat|Melgat]] (the turquoise camps), [[place-inululedju|Inulu-Ledju]] (the white-stone quarry) and the convict-station of **Kheset**.
+- The mine-and-quarry camps: mining settlements, smelter-towns and quarry-camps of 500–4,000 people lie scattered through the hills and desert, each clustered around its diggings and its guard-fort and supplied by water-caravan from the river. Among them are [[place-baliazalu|Balia-Zalu]] (the copper diggings), [[place-melgat|Melgat]] (the turquoise camps), [[place-inululedju|Inulu-Ledju]] (the white-stone quarry) and the convict-station of [[place-kheset|Kheset]].
 
 ## See Also
 

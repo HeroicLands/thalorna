@@ -34,7 +34,7 @@ The climate is hot and humid throughout the region, with heavy rainfall in the e
 
 ## City-States and Realms
 
-Ki'ik Ba'ate's greatest city-states include Ha' Tz'umul ("Red Water"), a sprawling complex overlooking the great river where astronomical monuments rival those of K'ankul; Ka Kul'qat (the "Twin Pyramid"), famous for its intricate carved monuments and its political independence; and Tz'ilil Ha'tz'ik, the Island of Swallows, an island trading port that controls a vast archipelago of small islands and maintains its own small but efficient navy.
+Ki'ik Ba'ate's greatest city-states include **Ha' Tz'umul** ("Red Water"), a sprawling complex overlooking the great river where astronomical monuments rival those of K'ankul; **Ka Kul'qat** (the "Twin Pyramid"), famous for its intricate carved monuments and its political independence; and [[place-tzililhatzik|Tz'ilil Ha'tz'ik]], the Island of Swallows, an island trading port that controls a vast archipelago of small islands and maintains its own small but efficient navy.
 
 ## Trade
 

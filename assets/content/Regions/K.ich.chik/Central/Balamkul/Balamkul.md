@@ -103,5 +103,5 @@ Balamkul is also the hub of the Ch'um Ix'lan, the great relay network of Ch'umba
 - [[affiliation-kiikbaate|Ki'ik Ba'ate]]—The isthmus gateway, where highland and coastal trade routes intersect
 - [[affiliation-tzikin|Tz'ikin]]—The eastern frontier, source of exotic goods and sacred materials
 - [[affiliation-itzanpnthn|Itzáni Pantheon]]—The divine framework that grants Balamkul its religious authority
-- Tz'aqal K'ul—The Sacred Foundation, holiest pilgrimage site in K'ich'chik
+- [[place-tzaqalkul|Tz'aqal K'ul]]—The Sacred Foundation, holiest pilgrimage site in K'ich'chik
 - [[place-balamkulrgn|Balamkul Region]]—The land Balamkul holds

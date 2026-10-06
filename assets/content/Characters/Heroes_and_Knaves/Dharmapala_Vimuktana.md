@@ -456,7 +456,7 @@ Dharmàpala is motivated by the pursuit of mastery—the relentless refinement o
 
 ### Patrons
 
-Merchant-Princess Ashera of Vedyara's Eastern Quarter
+Merchant-Princess Ashera of eastern Vedyara
 : A widow and trader in luxury goods who regularly contracts Dharmàpala's services and has developed a real (though carefully unspoken) affection for him.
 
 Lord Kavindra the Banker
