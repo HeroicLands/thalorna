@@ -32,10 +32,6 @@ data:
   packFolder: threats
 ---
 
-# Appearance {#appearance}
-
-TBD
-
 # Dossier {#dossier}
 
 **"Master Tiger of the Steppes"**

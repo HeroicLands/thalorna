@@ -389,10 +389,6 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
-
-TBD
-
 # Dossier {#dossier}
 
 The current Overlord of Okháris is **Tákoro Zanethar** (_The Keeper of the Three Flames_).
