@@ -498,7 +498,7 @@ Master Herbalist Lyrian
 
 ### Enemies
 
-Bishop Theron
+Bishop Theóklêtos
 : A conservative religious figure who views Hélénaia's changes to ritual as heretical departures from proper practice and who works to limit her authority and influence.
 
 The Merchant Syndicate

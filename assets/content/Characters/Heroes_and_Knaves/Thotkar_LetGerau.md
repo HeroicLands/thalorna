@@ -487,8 +487,8 @@ Priestess [[being-amqelitana2|Amqelitâna]]
 The Widow Zabuia
 : A client whose case Thotkar defended without fee years ago, resulting in restoration of her family's property and dignity; she has become his patron and supporter, regularly bringing him additional cases and commending his work to others.
 
-Lord Magistrate Qelti
-: The city's principal judicial authority who respects Thotkar deeply; though officially neutral, Qelti consistently favors Thotkar in scheduling and procedural matters, and regularly consults him on questions of legal interpretation.
+Lord Magistrate Khûzin
+: The city's principal judicial authority who respects Thotkar deeply; though officially neutral, Khûzin consistently favors Thotkar in scheduling and procedural matters, and regularly consults him on questions of legal interpretation.
 
 Master Scribe [[being-zeshelegezu2|Zeshelegezu]]
 : A former rival who has come to respect Thotkar's intellect; they maintain a collegial relationship and occasionally collaborate on legal matters of particular complexity.
@@ -498,8 +498,8 @@ Master Scribe [[being-zeshelegezu2|Zeshelegezu]]
 [[affiliation-garzeglar|Gar-Zeglar]]
 : Thotkar's willingness to challenge governmental injustice and expose administrative corruption has made him a liability to several ministers whose authority he has questioned; they work subtly to undermine his credibility and restrict his access to certain cases.
 
-Litigant [[being-gezehutyu2|Gezehutyu]]
-: A wealthy and unscrupulous counselor whose cases Thotkar has beaten repeatedly; Gezehutyu harbors deep resentment and has begun to threaten Thotkar's clients in subtle ways, attempting to intimidate him into refusing cases against him.
+Litigant [[being-gezehutyu2|Balinta]]
+: A wealthy and unscrupulous counselor whose cases Thotkar has beaten repeatedly; Balinta harbors deep resentment and has begun to threaten Thotkar's clients in subtle ways, attempting to intimidate him into refusing cases against him.
 
 [[affiliation-qetharpalu2|The Qethar'palu]]
 : Traditionalist legal scholars who view Thotkar's willingness to challenge established interpretations and to defend socially marginal clients as dangerous radicalism threatening legal stability.

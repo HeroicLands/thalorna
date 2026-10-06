@@ -199,7 +199,7 @@ Each city-state maintains its own internal government, militia, and laws, creati
 
 ## Religion
 
-Religious practice in Harad is syncretic. The [[affiliation-arldnpnthn|Aurèldían]] pantheon was imposed during the Vylarian period and remains dominant in the coastal cities, where [[affiliation-arldnpnthn|Vénusia]] (prosperity) and [[affiliation-arldnpnthn|Ménérva]] (knowledge) are especially popular among the merchant class. [[affiliation-arldnpnthn|Táranon]] (storms) is honored by sailors and naval officers.
+Religious practice in Harad is syncretic. The [[affiliation-arldnpnthn|Aurèldían]] pantheon was imposed during the Vylarian period and remains dominant in the coastal cities, where [[affiliation-arldnpnthn|Ólvenía]] (prosperity) and [[affiliation-arldnpnthn|Ménérva]] (knowledge) are especially popular among the merchant class. [[affiliation-arldnpnthn|Táranon]] (storms) is honored by sailors and naval officers.
 
 However, the eastern states and the inland tribes maintain strong connections to the [[affiliation-ashanpnthn|Āsháian Pantheon]], an Āsháian tradition that predates the Vylarian conquest. [[affiliation-ahurdaen|Āhúrdáén]] (order and harmony), [[affiliation-korsadra|Khóršádrä]] (knowledge and eternal light), and [[affiliation-aravesta|Árávēštä]] (prosperity and hedonism) have significant followings. In many Haradian cities, Aurèldían and Āsháian temples stand side by side, and it is not uncommon for a single family to patronize both traditions.
 
