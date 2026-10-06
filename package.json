@@ -76,6 +76,7 @@
         "lint:nordmal-concordance": "node utils/nordmal-concordance-check.mjs",
         "lint:sinale-lexicon": "node utils/lexicons/sinale-lexicon.mjs",
         "lint:varokhi-lexicon": "node utils/lexicons/varokhi-lexicon.mjs",
+        "lint:vedyari-lexicon": "node utils/lexicons/vedyari-lexicon.mjs",
         "lint:collision": "node utils/lexicons/collision-check.mjs"
     },
     "devDependencies": {
