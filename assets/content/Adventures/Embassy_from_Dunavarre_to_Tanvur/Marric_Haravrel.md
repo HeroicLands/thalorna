@@ -373,10 +373,6 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
-
-TBD
-
 # Dossier {#dossier}
 
 **Role.** Security and the training of guards; and, secretly, the gathering of intelligence.

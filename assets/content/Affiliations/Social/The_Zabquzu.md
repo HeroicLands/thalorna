@@ -32,20 +32,16 @@ data:
 
 ## Overview
 
-The Zab'quzu, the Dishonorable Order, are former soldiers of [[place-aukhelathrgq|Aû'Khelâthu]] stripped of standing for conduct the military could not overlook, whatever their prior service record. They keep their own company because no other order will have them, forming an informal fellowship out of shared disgrace rather than shared purpose. A commander who encounters a Zab'quzu veteran seeking work weighs the skill against the reason for the stripping, since the order's name tells him only that the reason was serious.
+A recruiting sergeant, glancing over a petitioner's papers, asks only one thing: "Which order?" If the answer is the **Zab'quzu**, the interview changes.
 
-## Character
+The Zab'quzu (the **Dishonorable Order**) are former soldiers of [[place-aukhelathrgq|Aû'Khelâthu]] stripped of standing for conduct the military could not overlook, whatever their prior service record. The [[lore-khelathiclt|Khelâthi]] count the striking of a name from the records among their heaviest punishments, and a soldier so stripped has been put out of the one body that gave him a place. The order keeps its own company out of shared disgrace rather than shared purpose, because no other order will have them. The rank of **Stripped of Standing** says that it happened and says nothing of the conduct, so the name tells a commander only that the reason was serious.
 
-TBD.
+## Seeking Work
 
-## Relations
+A Zab'quzu veteran seeks work on the strength of his skill, which a commander weighs against the reason for the stripping. A commander with a hard assignment and few soldiers might hire one; a commander with a good name to keep might not.
 
-TBD.
-
-## Commerce and Currency
-
-TBD.
+If you are one, tell the commander the reason before he finds it. The skill is the part he wants, and the reason is the part he needs.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—the region it belongs to

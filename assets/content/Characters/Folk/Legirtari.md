@@ -1,6 +1,6 @@
 ---
 shortcode: legirtari
-name: {full: Legirtari, aliases: []}
+name: {full: Legirtari, aliases: [Legî]}
 type: being
 subType: npc
 description: "A high priestess and patron, whose relationship with the artisan she funds is the subject of rumours neither of them troubles to deny"
@@ -18,8 +18,8 @@ data:
   species: humanflk
   born: "670.169"
   died: null
-  height: 1.83
-  weight: 80
+  height: 6'
+  weight: 176 lbs
   frame: heavy
   appearance:
     eye_color: hazel

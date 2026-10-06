@@ -92,7 +92,7 @@ The trees are grafted, not grown from stone. Zûravlen stock is worked onto **al
 tolerates the dry stony ground of the upper terraces where peach root will not thrive, and the grafting
 is done in winter by men whose families have done nothing else for generations. A tree comes into
 bearing in its fourth year and is finished by its twentieth, so a third of the barony's orchards are
-always young, and an orchard's age is the first thing any Zûravlen will tell you about it.
+always young, and the Zûravlen describe an orchard by its age before anything else.
 
 **Fresh fruit does not travel**—overland. A peach picked at Vergéval is worth a fortune in Válaren
 and worthless four days later, which for most of the barony's history meant the fresh trade was a
@@ -185,8 +185,8 @@ with the Order of the Burning Brand.
 Provènzia is [[affiliation-arldnpnthn|Aurèldían]], and Zûravlen's devotion falls naturally to two of
 the Twelve: [[affiliation-venusia|Vénusia]], the Bountiful One, whose symbol is a tree hung with
 golden fruit and who is honored at harvest with the first-picked basket of every orchard; and
-[[affiliation-florania|Flórania]], the Nurturer, who owns the blossom and the vigil. A Zûravlen
-will tell you the two goddesses divide the year between them, and that Vénusia gets the credit for what
+[[affiliation-florania|Flórania]], the Nurturer, who owns the blossom and the vigil. The Zûravlen
+hold that the two goddesses divide the year between them, and that Vénusia gets the credit for what
 Flórania saved.
 
 Portvent keeps its own observances, which are for the weather and the sea and are not much discussed

@@ -14,7 +14,7 @@ data:
   government: dhnrktjnpd
 ---
 
-Taranaghatta (820) holds the crossing where the Sarvada leaves the hills, and is the only place a loaded cart can get over the river above the bow-fort. The ford works from the end of the rains to the start of them. Through the wet season the village runs two flat ferries and a rope.
+A loaded cart crosses the [[place-sarvadarivr|Sarvada]] above the bow-fort at one place only, and the village that holds it is **Taranaghatta** (820). It stands where the river leaves the hills. The ford works from the end of the rains to the start of them, so plan a heavy cart for the dry months: through the wet season the village runs two flat ferries and a rope.
 
 The janapada takes a toll here on everything but pilgrims and academy aspirants. The toll is a fifth of what the sabhā spends in a year, and the sabhā's reckoner comes up twice a season to see it counted.
 

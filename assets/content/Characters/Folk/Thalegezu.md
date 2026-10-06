@@ -1,6 +1,6 @@
 ---
 shortcode: thalegezu2
-name: {full: Thalegezu, aliases: []}
+name: {full: Thalegezu, aliases: [Thalê]}
 type: being
 subType: npc
 description: "An elderly scribe, meticulous, and the last man in the bureau who remembers how the older filings were arranged"
@@ -18,8 +18,8 @@ data:
   species: humanflk
   born: "680.104"
   died: null
-  height: 1.75
-  weight: 73
+  height: 5' 9"
+  weight: 161 lbs
   frame: medium
   appearance:
     eye_color: amber

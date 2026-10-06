@@ -1,6 +1,6 @@
 ---
 shortcode: zeshelegezu2
-name: {full: Zeshelegezu, aliases: []}
+name: {full: Zeshelegezu, aliases: [Zeshê]}
 type: being
 subType: npc
 description: "A master scribe and former rival who has come to respect the man he competed with, and collaborates with him on matters of legal interpretation"
@@ -18,8 +18,8 @@ data:
   species: humanflk
   born: "682.167"
   died: null
-  height: 1.74
-  weight: 61
+  height: 5' 9"
+  weight: 134 lbs
   frame: light
   appearance:
     eye_color: amber

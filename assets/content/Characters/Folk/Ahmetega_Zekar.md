@@ -1,6 +1,6 @@
 ---
 shortcode: ahmetegazek2
-name: {full: Ahmetega Zekar, aliases: []}
+name: {full: Ahmetega Zekar, aliases: [Ahmê]}
 type: being
 subType: npc
 description: "A decorated officer of the river fleet, whose service is a matter of record and whose opinions on the fleet's present command are not"
@@ -18,8 +18,8 @@ data:
   species: humanflk
   born: "681.241"
   died: null
-  height: 1.93
-  weight: 88
+  height: 6' 4"
+  weight: 194 lbs
   frame: heavy
   appearance:
     eye_color: brown

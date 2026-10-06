@@ -52,7 +52,25 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The great crocodile cult, seated in the eastern marsh at Lut-Tjelsuk among the river-beast hunters, and patron besides of a dry garrison selat of desert wells and quarry-roads and of the narrow gorge-stretch where the valley pinches to almost nothing. Its central difficulty is that the beast sacred to the god is also the beast that takes farmers and children along the river, and must sometimes be killed.
+"Here is what a mother in a village on the water wants to know," a priest of [[lore-tjelsukdty|Tjelsuk]] says to a pilgrim in the temple at [[place-luttjelsuk|Lut-Tjelsuk]]. "May we kill the beast that took her child? The temple keeps an office whose whole work is answering that."
 
-See [[affiliation-khelathpnthn|Khelâthi Pantheon]] for the temple hierarchy every
-Khelâthi cult shares.
+Tjelsuk, the crocodile-god, keeps the great crocodile cult, seated in the eastern marsh at Lut-Tjelsuk among the river-beast hunters. The beast sacred to him is also the beast that takes farmers and children along the river, and it must sometimes be killed. That is the faith's central difficulty, and its offices exist to carry it.
+
+## Keeping the God, Killing the Beast
+
+The **Priest of the River-Beast Cult** keeps the cult in the eastern marsh, where the crocodile is venerated and the river-beast hunters live off it in the same breath. The **Sanctioner of the Cull** performs the rite that permits the killing of a beast sacred to the god.
+
+A cull therefore takes two parties: the cullers of [[affiliation-garnuw|Gar'Nuw]], who answer when crocodiles threaten the villages along the [[place-zumeleshrvr|Zumélesh]], and the Sanctioner, whose rite makes the killing lawful before the god. Gar'Nuw's own doctrine holds that wantonness in the killing offends the gods as well as the imperial order, so the cull is a religious act before it is a commercial one.
+
+## Where Else He Is Worshipped
+
+Two other selatu take Tjelsuk as their patron, and neither is marsh. The [[affiliation-selatiaqetlq|Selat of Iaqet-Leqa]] is a dry, sun-burned garrison selat of desert wells and quarry-roads. The [[affiliation-selatyathlmt|Selat of Yath-Lemet]] is the narrow gorge-stretch where the valley pinches almost to nothing. The god belongs to dangerous water and dangerous ground alike.
+
+The cult keeps the shared temple ladder; a selat god's Thâz'Lekhau carries real weight inside the selat and very little outside it.
+
+## See Also
+
+- [[lore-tjelsukdty|Tjelsuk]]—the god
+- [[affiliation-garnuw|Gar'Nuw]]—the cullers who answer when the beasts take people
+- [[affiliation-zeghetnelgu|Zeghet'Nelgu]]—the sacred hunt that culls under temple dispensation
+- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—the temple hierarchy every [[lore-khelathiclt|Khelâthi]] cult shares

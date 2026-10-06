@@ -13,7 +13,7 @@ data:
   packFolder: vedyara
 ---
 
-**Sangama** (confluence) is the temple on [[place-melaground|the Mela Ground]], and the only building of any consequence on it. It stands above the highest water the Mahānadi has reached in written record, on a mound raised higher still, and it is the one thing on the plain that does not have to be laid out again after a flood.
+**Sangama** (confluence) is the temple on [[place-melaground|the Mela Ground]], and the only building of any consequence on it. It stands above the highest water the Mahānadī has reached in written record, on a mound raised higher still, and it is the one thing on the plain that does not have to be laid out again after a flood.
 
 ## The Sabhāpati
 
@@ -23,16 +23,16 @@ The senior priest of Sangama is **Sabhāpati of the Mela**. He convenes the twel
 
 ## The Roll
 
-The temple keeps the roll of the janapadas: which of them sent a delegation to each Mela, which circuit each belongs to, which have been recognized as newly formed, and which have collapsed since the previous assembly and been formally mourned. The reckoning of six or seven thousand temple-republics in the confederation is the roll's, and everyone who quotes it quotes Sangama.
+The temple keeps the roll of the janapadas: which of them sent a delegation to each Mela, which circuit each belongs to, which have been recognized as newly formed, and which have collapsed since the previous assembly and been formally mourned. The reckoning of about six thousand temple-republics in the confederation is the roll's, and everyone who quotes it quotes Sangama.
 
 The roll is also the standing argument. Which circuit a border janapada belongs to has gone to litigation, in one case for two hundred and ten years, and the temple is where the litigation is heard.
 
 ## The Council of Three
 
-Sangama's senior priest is one of the three whose informal consultations are called the Council of Three, with the senior priests of the Sūrya temple at the source of [[place-chandrmahi|the Chandramahī]] and of the great Mahájaya temple at [[place-bharanya|Bharanya]]. A joint pronouncement of the three on a matter before the confederation carries near-universal weight. It works as an executive committee, and the priests deny that it is one.
+Sangama's senior priest is one of the three whose informal consultations are called the Council of Three, with the senior priests of the Sūrya temple at the source of [[place-chandrmahi|the Chandramahī]] and of the great Mahājaya temple at [[place-bharanya|Bharanya]]. A joint pronouncement of the three on a matter before the confederation carries near-universal weight. It works as an executive committee, and the priests deny that it is one.
 
 ## See Also
 
-- [[place-melaground|The Mela Ground]] · [[place-mahanadi|The Mahānadi]]
+- [[place-melaground|The Mela Ground]] · [[place-mahanadi|The Mahānadī]]
 - [[affiliation-janpdsvdyr|Janapadas of Vedyara]]—the confederation it convenes
-- [[place-bharanya|Bharanya]]—the Mahájaya temple of the Council of Three
+- [[place-bharanya|Bharanya]]—the Mahājaya temple of the Council of Three

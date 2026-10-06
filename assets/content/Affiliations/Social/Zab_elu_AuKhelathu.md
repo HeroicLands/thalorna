@@ -44,20 +44,21 @@ data:
 
 ## Overview
 
-Zab elu Aû'Khelâthu is the fellowship of titled families across [[place-aukhelathrgq|Aû'Khelâthu]], holding between them most of the empire's land, office and access to the court's ear. Membership is hereditary rather than earned, and the fellowship's influence runs through marriage alliances and inherited appointment as much as through any formal structure. The families close ranks against outsiders with unusual speed, and an ambitious commoner who marries into one titled house quickly discovers how little that single connection buys among the rest.
+A steward of a titled house, instructing a commoner who has just married in, says it kindly: "You are welcome here. Do not mistake the house for the empire."
 
-## Character
+**Zab elu Aû'Khelâthu** is the fellowship of titled families across [[place-aukhelathrgq|Aû'Khelâthu]], holding between them most of the empire's land, office and access to the court's ear. Membership is hereditary rather than earned, and the fellowship's influence runs through marriage alliances and inherited appointment as much as through any formal structure. The families close ranks against outsiders with unusual speed. A person who marries into one house is of that house and not of the nobility at large, and the other houses do not count the marriage as theirs, so an ambitious commoner who marries into one titled house quickly learns how little that single connection buys among the rest. The fellowship's Halzi'a sit in [[affiliation-genzethalzia|the council of the selats]].
 
-TBD.
+## The Ladder
 
-## Relations
+Titles come before the personal name in address: the steward says Halzi'a **Lersaîs**, never Lersaîs Halzi'a.
 
-TBD.
+The ladder runs in four rungs. Of a Titled House names anyone born or married into a family. A Legha'lutu or Zabet'lutu is master or mistress of an estate, holding a manor, its lands and its attached village. A Halzi'a governs a selat, commanding its levies, collecting its taxes and dispensing its justice. The Iru'palu is of the royal family or one of the handful of exalted houses, immediately below the throne.
 
-## Commerce and Currency
+## Which House Speaks for You
 
-TBD.
+If you are asked which house speaks for you, answer with the house that holds your entry. A house name is a claim to land, a shrine or a descent, and wearing one you cannot show is fraud.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—the region it belongs to
+- [[affiliation-genzethalzia|Genzet'Halzi'a]]—the council where their governors sit

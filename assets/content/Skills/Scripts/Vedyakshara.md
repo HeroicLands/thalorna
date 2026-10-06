@@ -1,6 +1,6 @@
 ---
 shortcode: vdykshrscrpt
-name: {full: Vedyákshara Script, aliases: [Vedyákshara]}
+name: {full: Vedyākshara Script, aliases: [Vedyākshara]}
 type: skill
 subType: script
 description: "The forty-eight syllables of Vedyara—a temple script for law, lineage and liturgy, with a running hand for the caravan."
@@ -17,19 +17,19 @@ sohl:
   flags: {"thalorna": {script_family: Syllabary}}
 ---
 
-The Vedyákshara is a syllabary: roughly forty-eight characters, each standing for a consonant-plus-vowel, with clusters and bare final consonants written by modifying the base glyph rather than by adding a letter. Every sign hangs from a headline, so a line of Vedyari looks like a rope with the words strung beneath it.
+The Vedyākshara is a syllabary: roughly forty-eight characters, each standing for a consonant-plus-vowel, with clusters and bare final consonants written by modifying the base glyph rather than by adding a letter. Every sign hangs from a headline, so a line of Vedyari looks like a rope with the words strung beneath it.
 
 It carries [[skill-vedyarlng|Vedyari]]—Classical Vedyari for anything that matters, and the vernaculars only where nobody important is looking. A character needs **both** the script and the [[sohl-none-docskill-lang|Language]].
 
 ## Three layers
 
-- **The old abjad.** The Vedyákshara evolved out of a consonantal script that survives now only in sacred use: certain mantras, certain temple foundation deposits, certain things that must be written the way they have always been written. Reading it is a separate accomplishment and a rare one.
+- **The old abjad.** The Vedyākshara evolved out of a consonantal script that survives now only in sacred use: certain mantras, certain temple foundation deposits, certain things that must be written the way they have always been written. Reading it is a separate accomplishment and a rare one.
 - **The classical syllabary.** The full forty-eight, carefully formed, used for scripture, legal codes, land grants, genealogy and inscription. This is what a temple scribe is trained in.
 - **The common cursive.** About thirty-six core forms plus a mass of ligatures, written running, used by the [[affiliation-mrchntclctvvdyr|Merchant Collective]] and the janapada administrations for anything that is not going to outlive the year.
 
 ## Where the writing lives
 
-The temple, which in a Vedyari janapada is also the record office, the school, the granary insurance pool and the bank. It keeps the boundary stones, the genealogical registers and the legal codes, and its authority over all three is documentary. The [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]] sets the calendar the public year runs on, and the calendar is published in the classical script; a mistake in it is a theological matter before it is an administrative one. Vedyari mathematics and astronomy have their own notation, taught alongside the syllabary and unreadable without it.
+The temple, which in a Vedyari janapada is also the record office, the school, the granary insurance pool and the bank. It keeps the boundary stones, the genealogical registers and the legal codes, and its authority over all three is documentary. The [[affiliation-trimurtisampradaya|Triyanga-sampradāya]] sets the calendar the public year runs on, and the calendar is published in the classical script; a mistake in it is a theological matter before it is an administrative one. Vedyari mathematics and astronomy have their own notation, taught alongside the syllabary and unreadable without it.
 
 ## Who has it
 

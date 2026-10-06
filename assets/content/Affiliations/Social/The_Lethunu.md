@@ -34,20 +34,16 @@ data:
 
 ## Overview
 
-The Lethunu is a fellowship formed within an established guild by members pressing to change what the old guard there considers settled beyond argument. The fellowship has no charter of its own, acting instead as an organized faction inside its parent guild's regular meetings and votes. It presides over the most contentious internal politics the guild has seen in a generation, and a member who tries to stay neutral between the Lethunu and the old guard finds that position increasingly hard to hold.
+A journeyman smith of [[affiliation-garmelnu|Gar'Melnu]], speaking quietly to a new apprentice in the forge, makes the warning plain: "There are two sides in the guild now. If you say you are on neither, both will count you against."
 
-## Character
+**The Lethunu** are a fellowship formed within an established guild by members pressing to change what the old guard considers settled beyond argument. They are reformers inside a guild that holds its arrangements settled, and they have no charter of their own. They act as an organized faction in the guild's regular business, its meetings, votes and accounts, and a senior member speaks for them publicly as their Public Leader. The quarrel is the most contentious internal politics the guild has had in a generation. It turns up at every meeting, since every item of business carries a question about which side it favors, and a member who tries to stay neutral finds the position increasingly hard to hold.
 
-TBD.
+## What the Lethunu Want
 
-## Relations
+Its members wish to shorten the apprenticeship, broaden recruitment beyond the traditional smithing families, and modernize the guild's accounting. An apprenticeship is an entry like any other, a master's undertaking to teach a craft to a named child, so the proposal to shorten it is a proposal to change what a scribe writes.
 
-TBD.
-
-## Commerce and Currency
-
-TBD.
+An apprentice's first practical question is whose term he is serving: the old one or the one the Lethunu want.
 
 ## See Also
 
-TBD.
+- [[affiliation-garmelnu|Gar'Melnu]]—the guild it works within

@@ -20,7 +20,7 @@ data:
       - level: 0
         title: Blood-Denied
         description: >-
-          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Xibalba's trials unguided, which the Ki'ichek reckon the one sentence that outlives the body.
+          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Ch'al Tz'umaq's trials unguided, which the Ki'ichek reckon the one sentence that outlives the body.
       - level: 1
         title: Water-Marked
         lore: childfaithrnk
@@ -84,7 +84,7 @@ sohl: {system: {commonSkills: [xaqikhanal]}}
 
 **Domain:** Fertility, Water, Healing, Renewal, Birth, Life
 
-Xaq'ik Ha'nal is the newest major deity in the Itzáni faith, formally elevated to divine status within the last three centuries. She is the goddess who guards the cenotes—the natural sinkholes where underground rivers break through to daylight, understood as literal portals to Xibalba. The waters themselves are understood as the goddess's body, and any contamination is grave sacrilege. Where K'anix Ha'kan represents agricultural fertility and P'iqal Kul'qat the creative act of building, Xaq'ik Ha'nal represents biological fertility, healing, and the profound renewal that comes with water.
+Xaq'ik Ha'nal is the newest major deity in the Itzáni faith, formally elevated to divine status within the last three centuries. She is the goddess who guards the cenotes—the natural sinkholes where underground rivers break through to daylight, understood as literal portals to Ch'al Tz'umaq. The waters themselves are understood as the goddess's body, and any contamination is grave sacrilege. Where K'anix Ha'kan represents agricultural fertility and P'iqal Kul'qat the creative act of building, Xaq'ik Ha'nal represents biological fertility, healing, and the profound renewal that comes with water.
 
 ## Worship
 
@@ -110,7 +110,7 @@ Men serve, rarely, and chiefly in the physic gardens and the archives. The branc
 
 Together with [[affiliation-kanixhakan|K'anix Ha'kan]] the goddess is invoked as one of the **Twin Givers**, the divine pair ensuring both agricultural and biological fertility. The two branches share a festival calendar, joint charitable distributions and, in smaller cities, their premises; it is the warmest standing relationship in the Itzáni priesthood.
 
-With [[affiliation-tzuqilixbal|Tz'uqil Ix'bal]] the branch shares its holiest ground and very little else. Every cenote is at once the goddess's body and a portal to Xibalba, and which waters serve which rite on which nights has been settled city by city, over centuries, and not without acrimony. Where the settlement has broken down it has broken down badly, and a cenote fought over is remembered for generations.
+With [[affiliation-tzuqilixbal|Tz'uqil Ix'bal]] the branch shares its holiest ground and very little else. Every cenote is at once the goddess's body and a portal to Ch'al Tz'umaq, and which waters serve which rite on which nights has been settled city by city, over centuries, and not without acrimony. Where the settlement has broken down it has broken down badly, and a cenote fought over is remembered for generations.
 
 The branch buys graded ash from [[affiliation-kayikchul|K'ayik Ch'ul]] for its healing paints and pays well for it, which funds a fire branch that owns no land. In return the healing priestesses attend the fire-keepers' burn scars, an arrangement both sides find slightly comic and neither will give up.
 

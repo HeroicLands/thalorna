@@ -1,6 +1,6 @@
 ---
 shortcode: amqelenset2
-name: {full: Amqelenset, aliases: []}
+name: {full: Amqelenset, aliases: [Amqê]}
 type: being
 subType: npc
 description: "A powerful nobleman and architect, whose commissions shape the capital and whose favour is not lightly given"
@@ -18,8 +18,8 @@ data:
   species: humanflk
   born: "671.123"
   died: null
-  height: 1.69
-  weight: 65
+  height: 5' 7"
+  weight: 143 lbs
   frame: light
   appearance:
     eye_color: brown

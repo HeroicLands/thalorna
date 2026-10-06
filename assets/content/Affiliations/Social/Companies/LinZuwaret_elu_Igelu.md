@@ -32,20 +32,17 @@ data:
 
 ## Overview
 
-Lin'Zuwaret elu Igelu is the consortium of traders working the waterfront at [[place-waligelu|Wal-Igelu]], the flood-prone quarter of [[place-galezkara|Galezkara]] where the river barges unload. Members handle whatever comes off those barges first, and in practice set much of what it will cost by the time it reaches the city's markets proper. A shipper who wants a fair price for goods landed here deals with this consortium directly, rather than let the price be set by whoever happens to be standing on the dock when the barge ties up.
+On the quay at [[place-waligelu|Wal-Igelu]], a dock trader hands a shipper a cup of water and a figure, in that order, and the shipper learns something about the consortium from each. The figure is the point. The trader quotes a price while the barge is still tying up, and the shipper can accept it or carry the cargo elsewhere at his own cost.
 
-## Character
-
-TBD.
-
-## Relations
-
-TBD.
+**Lin'Zuwaret elu Igelu** is the consortium of traders working the waterfront at Wal-Igelu, the flood-prone quarter of [[place-galezkara|Galezkara]] where the river barges unload. Its traders are hands-on and territorial. They handle whatever comes off the barges first, hold the dock as their own ground, and in practice set much of what the goods will cost by the time they reach the city's markets proper. The quarter is rebuilt each time the river recedes, and they work the quay while the water allows. Barge-masters and shippers deal with the consortium because it is where the barges stop.
 
 ## Commerce and Currency
 
-TBD.
+What is landed at the dock is priced at the dock, and the markets inherit the figure.
+
+A shipper who wants a fair price deals with the consortium directly, before the cargo is unloaded, and has the terms entered while the barge is still at the quay. The alternative is to let the price be set by whoever happens to be standing on the dock when the barge ties up.
 
 ## See Also
 
-TBD.
+- [[place-waligelu|Wal-Igelu]]—the waterfront quarter it works
+- [[place-galezkara|Galezkara]]—the city it supplies

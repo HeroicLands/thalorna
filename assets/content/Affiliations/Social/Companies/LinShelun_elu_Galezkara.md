@@ -40,20 +40,21 @@ data:
 
 ## Overview
 
-Lin'Shelun elu Galezkara is the principal playing company of [[place-galezkara|Galezkara]], its leading performers known by name across [[place-aukhelathrgq|Aû'Khelâthu]] rather than only in the capital. The company stages the productions that set the standard every other troupe in the empire is measured against. Its internal politics are as involved as any court's, and a performer's standing within the company can shift with a single poorly received season, regardless of talent.
+"Every season is an audition," says the company's playwright to a young performer who has just been given a speaking part. "The audience writes the cast list, and it writes it again at the next play."
 
-## Character
-
-TBD.
+**Lin'Shelun elu Galezkara** is the principal playing company of [[place-galezkara|Galezkara]], and its leading performers are known by name across [[place-aukhelathrgq|Aû'Khelâthu]], not only in the capital. Its productions set the standard every other troupe in the empire is measured against. The company is proud and competitive, and its internal politics are as involved as any court's: a performer's standing can shift with a single poorly received season, whatever the talent. A Leading Performer is known across the empire; a plain Performer plays in the company's productions, and the difference between them is a season's reception.
 
 ## Relations
 
-TBD.
+[[affiliation-wazulu|The Wazulu]] press for players to be put down, and so threaten the company's license to perform.
 
 ## Commerce and Currency
 
-TBD.
+A playwright writes the company's productions and a director directs them on its stage, and the two meet over every line.
+
+Say you want to join. Bring a part you can play, and a patron who can speak for you. A company whose license can be questioned does not hire a player without someone to vouch.
 
 ## See Also
 
-TBD.
+- [[place-galezkara|Galezkara]]—the city it plays in
+- [[affiliation-wazulu|The Wazulu]]—the movement that presses against players

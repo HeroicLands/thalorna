@@ -1,10 +1,10 @@
 ---
 shortcode: vsvmbhrkhlrtngdvds
 name:
-  full: Vishvambhārākhila Ratnāngadēvadāsa
+  full: Vishvambhārākhila Ratnāngadevadāsa
   given: Vishvambhārākhila
-  clan: Ratnāngadēvadāsa
-  aliases: []
+  clan: Ratnāngadevadāsa
+  aliases: [Vishvu]
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -21,8 +21,8 @@ data:
   gender: male
   species: humanflk
   born: 682.176
-  height: 1.78
-  weight: 70.3
+  height: 5' 10"
+  weight: 155 lbs
   frame: medium
   appearance:
     eye_color: brown
@@ -418,7 +418,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[vsvmbhrkhlrtngdvds|Vishvambhārākhila Ratnāngadēvadāsa]]{float=top-left}
+![[vsvmbhrkhlrtngdvds|Vishvambhārākhila Ratnāngadevadāsa]]{float=top-left}
 
 Vishvambhārākhila stands 5'10" tall with a medium build. He has deep brown skin, dark brown hair, and warm brown eyes. His features include a full face, a narrow nose, a small chin, full lips, deep brows.
 

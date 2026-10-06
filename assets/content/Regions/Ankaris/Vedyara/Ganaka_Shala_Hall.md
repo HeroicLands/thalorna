@@ -14,7 +14,7 @@ data:
   government: chandrapur
 ---
 
-The **Ganaka-shala** stands on the high ground behind the ninth quarter of [[place-chandrapur2|Chandrapur]], far enough from the river that the delta haze does not spoil a sighting. It is three things joined: an open hall with a slate floor, a walled courtyard of graduated arcs and gnomons, and a flat roof laid out with sightlines cut into the parapet.
+The [[affiliation-ganakashala|Ganaka-shala]] stands on the high ground behind the ninth quarter of [[place-chandrapur2|Chandrapur]], far enough from the river that the delta haze does not spoil a sighting. It is three things joined: an open hall with a slate floor, a walled courtyard of graduated arcs and gnomons, and a flat roof laid out with sightlines cut into the parapet.
 
 The slate floor is the college. Its whole working surface is the floor itself, and a computation is done on it in chalk by whoever is standing on that part of it, in front of whoever else is in the hall. A result is swept away when it has been copied into the tables and not before.
 
@@ -28,11 +28,11 @@ The notation is the college's own and is unreadable without the syllabary, which
 
 The college computes the turn of the year. The orthodox priesthood sights it, at the [[place-suryatempl|Sūrya temple]] on the ice a thousand miles north, and announces it from there. The two answers differ by a day and have differed by a day for as long as either has been keeping a record.
 
-A day moves a Mela, a Weighing and a coronation, so the difference is not academic. Every court in Vedyara has had to decide which answer it keeps, most of them keep the temple's, and every Koshādhyaksha in the region keeps both and reconciles them quietly. The college does not campaign. It publishes, annually, with the working, and waits.
+A day moves a **Mela**, a Weighing and a coronation, so the difference is not academic. Every court in [[place-vedyarargn|Vedyara]] has had to decide which answer it keeps, most of them keep the temple's, and every **Koshādhyaksha** in the region keeps both and reconciles them quietly. The college does not campaign. It publishes, annually, with the working, and waits.
 
 ## Who May Enter
 
-Anybody may stand in the hall and listen, and the college charges nothing for it. To hold a slate a candidate is examined on the tables in open hall by a board that publishes the question and the answer together. Nothing in the building is held by birth. That is the one thing about the place every orthodox temple in Vedyara finds difficult, and it is tolerated because the tables are correct and because the crown that houses the college needs them to be.
+Anybody may stand in the hall and listen, and the college charges nothing for it. A graduate gives a newcomer the same advice: "Come to the morning sitting, stand at the wall and say nothing. By noon you will know whether you can follow the tables, and nobody will have asked what you are." To hold a slate a candidate is examined on the tables in open hall by a board that publishes the question and the answer together. Nothing in the building is held by birth. That is the one thing about the place every orthodox temple in Vedyara finds difficult, and it is tolerated because the tables are correct and because the crown that houses the college needs them to be.
 
 ## See Also
 

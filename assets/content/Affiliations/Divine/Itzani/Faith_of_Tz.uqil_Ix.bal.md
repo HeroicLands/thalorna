@@ -3,7 +3,7 @@ shortcode: tzuqilixbal
 name: {full: "Faith of Tz'uqil Ix'bal", aliases: [The Death Jaguar, "Tz'uqil Ix'bal"]}
 type: affiliation
 subType: faithtradition
-description: "Death, decay and the underworld—the jaguar who kills swiftly and the owl who watches the slow return to earth, and the codices that guide a soul through Xibalba."
+description: "Death, decay and the underworld—the jaguar who kills swiftly and the owl who watches the slow return to earth, and the codices that guide a soul through Ch'al Tz'umaq."
 tags: [itzani, religion]
 data:
   banner: faithbnr
@@ -20,7 +20,7 @@ data:
       - level: 0
         title: Blood-Denied
         description: >-
-          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Xibalba's trials unguided, which the Ki'ichek reckon the one sentence that outlives the body.
+          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Ch'al Tz'umaq's trials unguided, which the Ki'ichek reckon the one sentence that outlives the body.
       - level: 1
         title: Water-Marked
         lore: childfaithrnk
@@ -60,7 +60,7 @@ data:
       Keeper of the Codices: >-
         Holds the funerary texts and tests every Ix'bal'ob on them by recitation, since a misspoken prayer can strand a soul.
       Speaker of the Trials: >-
-        Recites the chambers and deceptions of Xibalba over the newly dead, naming each in the order the soul will meet it.
+        Recites the chambers and deceptions of Ch'al Tz'umaq over the newly dead, naming each in the order the soul will meet it.
       Master of the Descent: >-
         Keeps the descending stair and the cenote chamber beneath it, and rules who may go down and on which night.
       Warden of the Threshold: >-
@@ -80,6 +80,8 @@ data:
   relations: {itzanpnthn: aligned}
   packFolder: pantheonitzani
 sohl: {system: {commonSkills: [tzuqilixbal]}}
+
+# terran_analog: Ch'al Tz'umaq is Xibalba, the Maya underworld
 ---
 
 **Domain:** Death, Decay, and the Underworld
@@ -88,11 +90,11 @@ Tz'uqil Ix'bal is the master of death, the underworld, and the patient dissoluti
 
 ## Worship
 
-The domain of Tz'uqil Ix'bal is Xibalba, the vast subterranean realm that exists beneath every cenote, cave, and sacred spring. The underworld is not a place of punishment but of passage—a labyrinth of chambers, trials, and deceptions through which the soul must navigate to reach the celestial realm beyond. The soul that reaches the other side emerges reborn; the soul that is lost becomes one of the tz'uqilob, trapped in shadow. The Ix'bal'ob priesthood memorizes the funerary codices in extraordinary detail, for a soul whose family has engaged the priests to perform the correct rites has a far better chance of navigating the underworld. A misspoken prayer or a ritual performed at the wrong phase of the moon can delay a soul's passage or trap it permanently.
+The domain of Tz'uqil Ix'bal is Ch'al Tz'umaq ("beneath the night sky"), the vast subterranean realm that exists beneath every cenote, cave, and sacred spring. The underworld is not a place of punishment but of passage—a labyrinth of chambers, trials, and deceptions through which the soul must navigate to reach the celestial realm beyond. The soul that reaches the other side emerges reborn; the soul that is lost becomes one of the tz'uqilob, trapped in shadow. The Ix'bal'ob priesthood memorizes the funerary codices in extraordinary detail, for a soul whose family has engaged the priests to perform the correct rites has a far better chance of navigating the underworld. A misspoken prayer or a ritual performed at the wrong phase of the moon can delay a soul's passage or trap it permanently.
 
 This is the plainest transaction in Ki'ichek religion, and the priesthood does not pretend otherwise. A family that can afford a full recitation buys its dead a guided passage; a family that cannot buys a shortened one, and knows what it has bought. The fee is not framed as payment for divine favor but as payment for accuracy—the priests sell memory, not mercy—and it is the one temple charge that even the poorest households will beggar themselves to meet. Burial societies are common in the larger city-states, with neighbors paying into a common store against the day one of them dies, and the Ix'bal'ob keep the rolls.
 
-The **Speaker of the Trials** attends the body through the night after death, naming each chamber of Xibalba in the order the soul will meet it, each deception in the order it will be offered. The family listens and does not speak. At dawn the body is carried to the temple stair and taken down toward the cenote chamber, and only the priests and the nearest kin go past the third landing. Where the water is deep and still, the dead are given to it; where it is not, they are interred in the chamber walls, in niches cut generation upon generation until the rock is a honeycomb of ancestors.
+The **Speaker of the Trials** attends the body through the night after death, naming each chamber of Ch'al Tz'umaq in the order the soul will meet it, each deception in the order it will be offered. The family listens and does not speak. At dawn the body is carried to the temple stair and taken down toward the cenote chamber, and only the priests and the nearest kin go past the third landing. Where the water is deep and still, the dead are given to it; where it is not, they are interred in the chamber walls, in niches cut generation upon generation until the rock is a honeycomb of ancestors.
 
 The most significant ceremonies occur during the turning of the Tz'uqal Cycle, when the Ix'bal'ob perform the **Taq'tzuqalil** ("The Calling of the Dead"), an elaborate nocturnal ceremony in which living communities gather at cenote mouths to welcome the recently deceased into the underworld. The living bring food they will not eat, sit through the dark hours at the water's edge, and speak the names of everyone lost since the last turning. It is not a mournful occasion. Children are brought deliberately, so that they will grow up unafraid of the mouth of the world, and the ceremony ends at first light with a shared meal and, in most cities, a great deal of maize beer.
 
@@ -108,10 +110,10 @@ The Pik'ob take few initiates and take them late; a candidate is usually a perso
 
 ## Relations
 
-With [[affiliation-xaqikhanal|Xaq'ik Ha'nal]] the death branch shares its holiest ground and nearly nothing else. Every cenote is at once a portal to Xibalba and the body of the goddess of living waters, and the two priesthoods have worked out, over centuries and not without acrimony, which waters belong to which rite and on which nights. In most city-states the arrangement holds; where it has broken down, it has broken down badly, and the memory of a cenote fought over is a long one.
+With [[affiliation-xaqikhanal|Xaq'ik Ha'nal]] the death branch shares its holiest ground and nearly nothing else. Every cenote is at once a portal to Ch'al Tz'umaq and the body of the goddess of living waters, and the two priesthoods have worked out, over centuries and not without acrimony, which waters belong to which rite and on which nights. In most city-states the arrangement holds; where it has broken down, it has broken down badly, and the memory of a cenote fought over is a long one.
 
 Toward [[affiliation-kinultqan|K'in'ul Tq'an]] the branch keeps a scrupulous cooperation that conceals an unreconciled premise. The solar god insists the cycle must be held; the death jaguar teaches that everything inside it is meant to end. The death-walkers bury the solar priests with full honor and the solar priests sanction the Taq'tzuqalil without complaint, and neither branch has ever conceded a word of doctrine to the other.
 
 The branch's closest working partner is [[affiliation-naliktzuqal|Nal'ik Tz'uqal]]. Dreams of the dead are common and are taken seriously, and a dream-keeper who receives one refers the dreamer to the Ix'bal'ob rather than interpreting it alone. The dream-temples also supply the branch with something it badly needs—a place to send the bereaved who cannot be consoled by the doctrine that death is merely passage.
 
-The whole tradition's most dangerous heresy came out of this god's own household. **Pik'ul Tz'umaq**, once the greatest of the Pik'ik spirits and warden of Xibalba's threshold, concluded that the underworld was a trap rather than a passage and began pulling souls back out of it; Tz'uqil Ix'bal cast it out, and the other gods judged a minor functionary not worth destroying. It found the [[affiliation-tzumaqkalanil|Serpent Awakeners]] in the deep jungle, and gave their apocalyptic theology the one thing it had lacked—an explanation. The orthodox priesthood is uncomfortably aware that the Pik'ob's contemplative theology shares a root with that heresy: both grapple with dissolution, and the Pik'ob draw the line at acceptance where the Awakeners cross into acceleration. Pik'ob philosophers who drift too close to that line sometimes vanish into the jungle, where the Awakeners welcome them.
+The whole tradition's most dangerous heresy came out of this god's own household. **Pik'ul Tz'umaq**, once the greatest of the Pik'ik spirits and warden of Ch'al Tz'umaq's threshold, concluded that the underworld was a trap rather than a passage and began pulling souls back out of it; Tz'uqil Ix'bal cast it out, and the other gods judged a minor functionary not worth destroying. It found the [[affiliation-tzumaqkalanil|Serpent Awakeners]] in the deep jungle, and gave their apocalyptic theology the one thing it had lacked—an explanation. The orthodox priesthood is uncomfortably aware that the Pik'ob's contemplative theology shares a root with that heresy: both grapple with dissolution, and the Pik'ob draw the line at acceptance where the Awakeners cross into acceleration. Pik'ob philosophers who drift too close to that line sometimes vanish into the jungle, where the Awakeners welcome them.

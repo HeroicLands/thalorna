@@ -13,7 +13,7 @@ data:
   packFolder: aelwyth
 ---
 
-**Stonyhaugh** is the quarry, and the masons. Four hundred and sixty people cutting the gray stone that
+**Stonyhaugh** is the quarry, and the masons. Six hundred and twenty people cutting the gray stone that
 the whole district is built and walled with.
 
 The **terrace walls** are Stonyhaugh's real monument—mile upon mile of dry-stone terracing up valley

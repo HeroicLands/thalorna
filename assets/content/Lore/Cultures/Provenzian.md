@@ -7,7 +7,7 @@ description: "The Provenzians—their beliefs, their mores, and what they hold a
 tags: []
 ---
 
-Provènzia is rich, clever, and entirely convinced that being both is a moral achievement. Its cities are marble and aqueduct and amphitheater, half of it inherited from the Vylarian Empire and half built since out of trade money, and a Provenzian will say the second half is the better part. What holds a Provenzian life together is not a realm, since there is no single realm, but three things: the city he belongs to, the patron above him and the clients below, and the exhausting and genuinely serious business of being seen to have taste.
+Provènzia is rich, clever, and entirely convinced that being both is a moral achievement. Its cities are marble and aqueduct and amphitheater, half of it inherited from the Vylarian Empire and half built since out of trade money. What holds a Provenzian life together is not a realm, since there is no single realm, but three things: the city he belongs to, the patron above him and the clients below, and the exhausting and genuinely serious business of being seen to have taste.
 
 ## The City Is the Country
 

@@ -14,4 +14,4 @@ data:
   government: dhnrktjnpd
 ---
 
-**Tilavana** is a sesame village on the dry terrace above the flood-line, in the [[place-dhanurkotajnpd|Dhanurkota Janapada]]. It presses the janapada's lamp-oil.
+**Tilavana** (540) is a sesame village on the dry terrace above the flood-line, in the [[place-dhanurkotajnpd|Dhanurkota Janapada]], and the smell of the oil-presses reaches the road before the village does. It presses the janapada's lamp-oil, the oil that fills every lamp in the valley.

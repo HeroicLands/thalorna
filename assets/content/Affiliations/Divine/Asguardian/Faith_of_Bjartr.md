@@ -14,28 +14,28 @@ data:
   governance:
     model: council
     summary: >-
-      Alone among the Asguardian faiths, Bjartr's adherents took the Sinalëan structure rather than the circles—and it is barely a hierarchy at all. There are three standings and no office above them: the faithful who come to its rites, the tindësar it teaches, and the Calathiri who are all equal among themselves, and the Lómëthar that decides anything affecting the faith is an open convocation with no presiding officer, reaching accord by deliberation rather than decree.
+      Alone among the Asguardian faiths, Bjartr's adherents took the Sinalëan structure rather than the circles—and it is barely a hierarchy at all. There are three standings and no office above them: the faithful who come to its rites, the ilthorinno it teaches, and the Ansorunno who are all equal among themselves, and the Aulirarno that decides anything affecting the faith is an open convocation with no presiding officer, reaching accord by deliberation rather than decree.
     ranks:
       - level: 0
         title: Bjartlok
         lore: unaccordedrnk
         description: >-
-          The light is closed to him: the convocation withholds the accord that would receive him. Refused the Lómëthar's accord by the convocation itself; rare here, and slower and harder to reverse than a single officer's decree would be.
+          The light is closed to him: the convocation withholds the accord that would receive him. Refused the Aulirarno's accord by the convocation itself; rare here, and slower and harder to reverse than a single officer's decree would be.
       - level: 1
         title: Bjartgengir
         lore: faithfulrnk
         description: >-
           Those who go to the light, coming to its rites for the priests' blessing. Comes to the Blessing of Light or the Night of Dreams and receives the priests' blessing, holding nothing further the faith asks of him.
       - level: 2
-        title: Tindësar
+        title: Ilthorinno
         lore: tindesarrnk
         description: >-
-          Newly called to learn dream-reading, healing and the tending of groves under a Calathir's guidance, in a bond closer to apprentice and mentor than to subordinate and superior.
+          Newly called to learn dream-reading, healing and the tending of groves under a Ansorunno's guidance, in a bond closer to apprentice and mentor than to subordinate and superior.
       - level: 3
-        title: Calathir
+        title: Ansorunno
         lore: calathirrnk
         description: >-
-          Entrusted with the rites, the care of the faithful and the stewardship of sacred places; every Calathir stands equal, and any one of them may call the Lómëthar.
+          Entrusted with the rites, the care of the faithful and the stewardship of sacred places; every Ansorunno stands equal, and any one of them may call the Aulirarno.
     offices:
       Dreamwarden: >-
         Keeper of the dream-rites and of those who sleep in the groves to receive them.
@@ -79,7 +79,7 @@ Bjartr is often depicted with an aura of radiant light, serene and filled with b
 
 ## Clergy
 
-Human adherents of Bjartr have adopted the Sinalëan clergy structure—the only Asguardian faith to do so. See [[lore-goddreams|The Sinalëan Tradition]] for the full structure (Tindësar, Calathir, and the Lómëthar convocation).
+Human adherents of Bjartr have adopted the Sinalëan clergy structure—the only Asguardian faith to do so. See [[lore-goddreams|The Sinalëan Tradition]] for the full structure (Ilthorinno, Ansorunno, and the Aulirarno convocation).
 
 **Key Skills:** Dream interpretation, Archery, Survival, Tracking, Trance, Communication with elder races, Prophecy
 

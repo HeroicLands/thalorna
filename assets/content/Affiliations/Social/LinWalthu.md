@@ -32,20 +32,16 @@ data:
 
 ## Overview
 
-Lin'Walthu, the Wanderers' Fellowship, is a loose company of traveling performers and itinerants moving through [[place-aukhelathrgq|Aû'Khelâthu]] without a fixed seat of their own. Members keep membership more as a courtesy extended to others on the road than as any binding obligation, and attend the fellowship's gatherings when it suits their own itinerary. A settlement that wants to book one of these performers often has to wait on the fellowship's own loose schedule rather than the performer's individual availability.
+A village headman who has waited a season for a troupe to come and play at the harvest feast describes the Wanderers to a neighbor: "You do not hire them. You hope for them."
 
-## Character
+**Lin'Walthu** (the **Wanderers' Fellowship**) is a loose company of traveling performers and itinerants moving through [[place-aukhelathrgq|Aû'Khelâthu]] without a fixed seat of their own. Membership is a courtesy extended to others on the road, not a binding obligation. Members share a fire or a warning without needing to be asked, and attend the fellowship's gatherings when it suits their own itinerary. A performer may carry the fellowship's name without carrying any duty to it, and the courtesy is the fellowship's whole structure.
 
-TBD.
+## Booking a Troupe
 
-## Relations
+A settlement that wants one of its performers waits on the fellowship's loose schedule rather than the performer's own availability. A headman who sends word to a roadside gathering gets an answer when the performers pass, not when he asks.
 
-TBD.
-
-## Commerce and Currency
-
-TBD.
+Plan a feast around the roads the Wanderers use, and leave the date open. A feast held on the day the troupe arrives is the one people remember.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—the region it belongs to

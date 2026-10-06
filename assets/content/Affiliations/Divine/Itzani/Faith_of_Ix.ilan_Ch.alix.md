@@ -20,7 +20,7 @@ data:
       - level: 0
         title: Blood-Denied
         description: >-
-          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Xibalba's trials unguided, which the Ki'ichek reckon the one sentence that outlives the body.
+          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Ch'al Tz'umaq's trials unguided, which the Ki'ichek reckon the one sentence that outlives the body.
       - level: 1
         title: Water-Marked
         lore: childfaithrnk
@@ -108,7 +108,7 @@ Unique among the Itzáni gods, Ix'ilan Ch'alix is sometimes understood to know t
 
 ### Beyond the Temple
 
-Because the branch trains the only people on the continent who can reliably compute, its members are found far outside the observatories. Temple treasuries, royal surveys, the laying-out of the sacbeob and the assessment of tribute all pass through astronomer-scribes seconded from Ix'ilan Ch'alix's service, and they remain the goddess's priests while doing it. City-states compete to retain them; a K'inmah who mistreats a seconded astronomer finds his successor slow to arrive.
+Because the branch trains the only people on the continent who can reliably compute, its members are found far outside the observatories. Temple treasuries, royal surveys, the laying-out of the white roads and the assessment of tribute all pass through astronomer-scribes seconded from Ix'ilan Ch'alix's service, and they remain the goddess's priests while doing it. City-states compete to retain them; a K'inmah who mistreats a seconded astronomer finds his successor slow to arrive.
 
 ## Relations
 
@@ -118,4 +118,4 @@ The serpent-keepers of [[affiliation-puqilchaqun|P'uqil Ch'aqun]] take the branc
 
 Toward [[affiliation-piqalkulqat|P'iqal Kul'qat]] the relationship is genuinely warm, since both branches advance by demonstrated competence and both are staffed largely by people of ordinary birth. Observatories are built to astronomer's specification by builder-priests, and the alignment of a new sighting-stone is a joint rite of the two branches.
 
-The road priests of [[affiliation-xilanixlan|Xilan Ix'lan]] carry the branch's corrections and observations between cities, and the branch in turn surveys their causeways; the sacbeob run straight for hundreds of miles because astronomers laid the lines. The dream-keepers of [[affiliation-naliktzuqal|Nal'ik Tz'uqal]] are the branch's one real intellectual rival, and the rivalry is amiable: both maintain vast classified archives of recorded phenomena, and they argue endlessly about whether a pattern found in dreams is knowledge of the same kind as a pattern found in the sky.
+The road priests of [[affiliation-xilanixlan|Xilan Ix'lan]] carry the branch's corrections and observations between cities, and the branch in turn surveys their causeways; the white roads run straight for hundreds of miles because astronomers laid the lines. The dream-keepers of [[affiliation-naliktzuqal|Nal'ik Tz'uqal]] are the branch's one real intellectual rival, and the rivalry is amiable: both maintain vast classified archives of recorded phenomena, and they argue endlessly about whether a pattern found in dreams is knowledge of the same kind as a pattern found in the sky.

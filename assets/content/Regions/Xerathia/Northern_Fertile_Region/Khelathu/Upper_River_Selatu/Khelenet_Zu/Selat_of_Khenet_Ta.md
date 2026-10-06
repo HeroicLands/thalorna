@@ -77,15 +77,19 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Khelenet-Zu is one of the upper-river selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: old assize-courts; a selat famous for its lawyer-priests and land-survey scribes. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-qearet|Faith of Qe'âret]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-khelenetzslt|Khelenet-Zu Selat]].
+A man comes up from a river village with a quarrel over a boundary stone, and the first thing a lawyer-priest of [[lore-qearetdty|Qe'âret]] asks him at [[place-khelenetzu|Khelenet-Zu]] is whether the line was ever entered.
+
+"If it was entered, I read it to you and we are done by noon," the lawyer-priest tells him. "If it was only agreed over beer, the court will hear you out with every courtesy and then tell you what a beer agreement is worth, which is the beer. What you owe your neighbor in your heart, take to the god. What the roll says, bring to me."
+
+The **Selat of Khelenet-Zu** is one of the eighteen [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and about 420,000 people live on its land, [[place-khelenetzslt|Khelenet-Zu Selat]]. It is known for old assize-courts, for its lawyer-priests, and for the land-survey scribes who re-establish every boundary the flood erases. Its patron is [[affiliation-qearet|Faith of Qe'âret]], the god of order, who keeps the account no scribe attends, and the cult's chief temple and estates shape the religious life of the selat.
 
 ## Character
 
-Its seat is [[place-khelenetzu|Khelenet-Zu]], where the Halzi'a keeps his court and the selat's chief temple of Qe'âret stands.
+The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] governs as every Halzi'a does: he commands the levies, collects the taxes and dispenses justice, and he answers to the [[lore-garauu|Gar-Aû]] at a distance that varies with the strength of the throne. In Khelenet-Zu the justice is the selat's reputation, and a trained profession stands behind it. A Halzi'a here is judged against his own courts, in front of men who know exactly what the rolls say. His seat is [[place-khelenetzu|Khelenet-Zu]], where his court stands beside the chief temple of Qe'âret.
 
 ## Commerce and Currency
 
-Khelenet-Zu uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], with the local chapter of [[affiliation-garhalzi|Gár-Hálzi]] attached to its chief temple attesting the weight-pieces and holding the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+Khelenet-Zu uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]]. A tenant who pays his share in sacks is entered at the granary, and the entry, not the memory of two neighbors, settles what was paid. The local chapter of [[affiliation-garhalzi|Gár-Hálzi]] at the chief temple attests the weight-pieces and holds those granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
 
 ## See Also
 

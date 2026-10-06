@@ -77,15 +77,17 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Zu-Ger is one of the upper-river selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: "The Great Land"—an ancient royal selat and old burial-ground of the first dynasties. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-hezmuiri|Faith of Hezmuîri]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-zugernome|Zu-Ger]].
+"The first dynasties buried their kings in that ground," a Lem'Nelgir of [[lore-hezmuiridty|Hezmuîri]] tells a pilgrim at [[place-tjegu|Tjegu]], nodding at the fields beyond the temple wall. "That is why the selat is called the **Great Land**. Hezmuîri keeps the passage, and in [[place-zugernome|Zu-Ger]] he keeps the oldest of the dead."
+
+The **Selat of Zu-Ger** is one of the eighteen [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and about 520,000 people live on its land, [[place-zugernome|Zu-Ger]]. It is "the Great Land," an ancient royal selat and the old burial-ground of the first dynasties. The patron is [[affiliation-hezmuiri|Faith of Hezmuîri]], the [[affiliation-hezmuiri|Keeper of Transitions]], and the cult's chief temple and estates anchor the selat's religious life.
 
 ## Character
 
-Its seat is [[place-tjegu|Tjegu]], where the Halzi'a keeps his court and the selat's chief temple of Hezmuîri stands.
+The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of Zu-Ger governs an ancient royal selat that holds the oldest dead of the empire in its ground. His seat is [[place-tjegu|Tjegu]], where he keeps his court and the chief temple of Hezmuîri stands.
 
 ## Commerce and Currency
 
-Zu-Ger uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], with the local chapter of [[affiliation-garhalzi|Gár-Hálzi]] attached to its chief temple attesting the weight-pieces and holding the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+Zu-Ger uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], and the [[affiliation-garhalzi|Gár-Hálzi]] chapter at the chief temple attests the weight-pieces and holds the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
 
 ## See Also
 

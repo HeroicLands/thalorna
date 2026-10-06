@@ -1,6 +1,6 @@
 ---
 shortcode: amqelitana2
-name: {full: Amqelitâna, aliases: []}
+name: {full: Amqelitâna, aliases: [Amqê]}
 type: being
 subType: npc
 description: "High priestess of Reth'Sa'âr's temple, who holds the archives and decides what may be read from them"
@@ -18,8 +18,8 @@ data:
   species: humanflk
   born: "682.239"
   died: null
-  height: 1.66
-  weight: 57
+  height: 5' 5"
+  weight: 126 lbs
   frame: light
   appearance:
     eye_color: dark_brown
@@ -36,4 +36,4 @@ Amqelitâna is a 38-year-old woman who stands 5'5" tall with a light build. She 
 
 # Dossier {#dossier}
 
-Amqelitâna presides as high priestess of [[lore-rethsaardty|Reth'Sa'âr]]'s temple in [[place-galezkara|Galezkara]]. Its archives answer to her alone, and what may be read from them is her decision before it is anyone else's. A scholar wanting the old records learns to ask her rather than the archive.
+Amqelitâna presides as high priestess of [[lore-rethsaardty|Reth'Sa'âr]]'s temple in [[place-galezkara|Galezkara]]. Its archives answer to her alone, and what may be read from them is her decision before it is anyone else's. For the old records, she is the one to ask rather than the archive.

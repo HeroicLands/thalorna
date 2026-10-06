@@ -36,20 +36,24 @@ data:
 
 ## Overview
 
-Lut-Zâbeklegezu is a noble household of long standing in [[place-aukhelathrgq|Aû'Khelâthu]], run by a master who has kept the same servants for decades rather than replacing them as fashion or convenience suggested. That continuity means the household's business runs on trust built over years rather than on any written procedure, which is exactly why a missing seal-ring here is a matter of real consequence. A servant suspected of losing or misusing the master's seal faces a reckoning sharper than the object's value alone would explain, because what is actually at stake is the trust the whole household depends on.
+In **Lut-Zâbeklegezu**, a noble household of long standing in [[place-aukhelathrgq|Aû'Khelâthu]], the most closely guarded object is the master's seal-ring, and a missing one is a matter of real consequence. The master has kept the same servants for decades rather than replacing them as fashion or convenience suggested, so the household's business runs on trust built over years and not on written procedure. A servant suspected of losing or misusing the seal faces a reckoning sharper than the object's value explains, because what is at stake is the trust the whole household depends on.
 
 ## Character
 
-TBD.
+An old servant of the household, showing a new groom the stables, tells him what to guard first: not the horses and not the silver, but the master's seal-ring.
+
+The household runs on loyalty and long habit. Its master keeps the same servants for decades, and the trust built over those years does the work that written procedure does elsewhere. In a valley where strangers write their promises down, this house keeps its own promises in people.
 
 ## Relations
 
-TBD.
+Lut-Zâbeklegezu is a noble household of [[place-aukhelathrgq|Aû'Khelâthu]], bound together by the master and the servants he has kept. Every member knows every other, and the master knows what each can be trusted with. A new servant joins a circle that has been shut for years, and learns its habits by watching.
 
 ## Commerce and Currency
 
-TBD.
+The household's business rests on trust rather than written procedure, and the master's seal is a matter of real consequence to it. A document with the seal on it is the master's word, and a seal that goes missing is the master's word in a stranger's hand.
+
+If the ring is lost, tell the master before you tell anyone else, and tell him the truth. The household can survive a lost ring. It cannot survive a servant who hides it.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to

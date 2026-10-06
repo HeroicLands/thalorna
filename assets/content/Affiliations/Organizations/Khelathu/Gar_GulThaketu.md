@@ -3,7 +3,7 @@ shortcode: gargulthaket
 name: {full: Gar-Gul'Thakétu, aliases: [The House of Gul'Thakétu]}
 type: affiliation
 subType: lineage
-description: A noble house that commissions arms and armour from the finest smiths and vouches for their standards to impatient peers
+description: A noble house that commissions arms and armor from the finest smiths and vouches for their standards to impatient peers
 tags: [generated, draft]
 data:
   templatePriority: null
@@ -36,20 +36,24 @@ data:
 
 ## Overview
 
-Gar-Gul'Thakétu is a noble house of [[place-aukhelathrgq|Aû'Khelâthu]] known for commissioning arms and armor from the empire's finest smiths rather than maintaining armories of its own make. The house vouches for those smiths' standards to peers too impatient to test a new maker's work themselves, lending its own name as a guarantee. A smith who satisfies this house's commission gains a reputation that opens doors across the nobility, while one who disappoints it rarely gets a second commission from anyone the house has spoken to.
+Among the nobility of [[place-aukhelathrgq|Aû'Khelâthu]], a smith's best reference is the name of **Gar-Gul'Thakétu** beside his own. The house commissions arms and armor from the empire's finest smiths rather than keeping armories of its own make, and it vouches for those smiths' standards to peers too impatient to test a new maker's work themselves, lending its own name as the guarantee. A smith who satisfies this house gains a reputation that opens doors across the nobility; one who disappoints it rarely gets a second commission from anyone the house has spoken to.
 
 ## Character
 
-TBD.
+"The house has never hammered a blade," an old armorer tells the apprentice who has just won a commission from it. "It knows what a blade ought to be, it pays the smith who makes one, and it puts its name beside his. When your work goes before the peers, it goes wearing that name, so make it worth wearing."
+
+Gar-Gul'Thakétu is exacting about the quality of the arms it backs, and it guards its name by lending it only as a guarantee, never as a courtesy. Its master answers at law for the house and for every smith it vouches for, so a poor blade lands on the master in court as surely as it lands on the smith in the market.
 
 ## Relations
 
-TBD.
+The house stands between the finest smiths of [[place-aukhelathrgq|Aû'Khelâthu]] and the peers who commission from them. A peer too impatient to test a new maker's work takes the house's word in place of the test; the smith gets a door opened across the nobility that no amount of private salesmanship would open. The same word closes doors. A smith who disappoints the house rarely gets a second commission from anyone the house has spoken to, so the house's good opinion is both the reward and the risk.
 
 ## Commerce and Currency
 
-TBD.
+The house keeps no forge. It commissions arms and armor from the empire's finest smiths rather than maintaining armories of its own make, and what it sells to the nobility is assurance.
+
+If you are the smith, your reputation does not begin with the blade. It begins with the house's name beside yours, and it ends where that name is withdrawn.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to
