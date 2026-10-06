@@ -685,7 +685,8 @@ export function syllables(name, rule) {
  * Every calling name the rule cuts from a given name, with whom its closing is
  * usual for. The given name is cut before its second or third vowel and takes a
  * closing, or its first syllable is written twice where that syllable opens on
- * a consonant. A vowel carrying a stress mark is read short and long.
+ * a consonant. A vowel carrying a stress mark is read short and long, and a
+ * vowel r is spoken and written `ri`.
  *
  * @param {string} given - The given name as written.
  * @param {object} rule - From `ruleFrom`.
@@ -699,7 +700,9 @@ export function callingNames(given, rule) {
         const spell = (to) =>
             cut
                 .slice(0, to)
-                .map((one) => one.sound)
+                .map((one) =>
+                    one.kind === "V" && rule.syllabic.has(one.sound) ? `${one.sound}i` : one.sound,
+                )
                 .join("");
         for (const nth of [1, 2]) {
             if (vowels.length <= nth) continue;

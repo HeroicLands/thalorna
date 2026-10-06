@@ -235,7 +235,10 @@ test("a calling name is cut before the second or third vowel, or doubles the fir
     assert.equal(ways.get("rāmachi"), "woman");
     assert(ways.has("rārā"));
     assert.equal(callingNames("Padmàvali", rule).get("padmi"), "woman");
-    assert(callingNames("Drkshàrana", rule).has("drkshu"));
+    // A vowel r is spoken ri in a calling name.
+    assert(callingNames("Drkshàrana", rule).has("driksha"));
+    assert(!callingNames("Drkshàrana", rule).has("drksha"));
+    assert(callingNames("Prthîmâja", rule).has("prithu"));
     assert(callingNames("Suvaratika", rule).has("susu"));
     // A name that opens on a vowel has no doubled form.
     assert(![...callingNames("Anûraja", rule).keys()].includes("aa"));
