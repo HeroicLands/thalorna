@@ -13,7 +13,7 @@ data:
   packFolder: kiikbaate
   government: kiikbaate
 
-# terran_analog: Nicaragua through Colombia; the Island of Swallows is Cozumel; the eastern coast is the Caribbean, the eastern rains are Atlantic-facing, and the rivers are the Rio Grande and the Rio Negro
+# terran_analog: Nicaragua through Colombia; Ha' Tz'umul is Quirigua; Ka Kul'qat is Copan; Tz'ilil Ha'tz'ik, the Island of Swallows, is Cozumel; the eastern coast is the Caribbean, the eastern rains are Atlantic-facing, and the rivers are the Rio Grande and the Rio Negro
 ---
 
 ## Overview
@@ -34,13 +34,13 @@ The climate is hot and humid throughout the region, with heavy rainfall in the e
 
 ## City-States and Realms
 
-Ki'ik Ba'ate's greatest city-states include Quirigua (the "Place of Red Water"), a sprawling complex overlooking the great river where astronomical monuments rival those of K'ankul; Copan (the "Twin Pyramid"), famous for its intricate carved monuments and its political independence; and the "Island of Swallows", a coastal trading port that controls a vast archipelago of small islands and maintains its own small but efficient navy.
+Ki'ik Ba'ate's greatest city-states include Ha' Tz'umul ("Red Water"), a sprawling complex overlooking the great river where astronomical monuments rival those of K'ankul; Ka Kul'qat (the "Twin Pyramid"), famous for its intricate carved monuments and its political independence; and Tz'ilil Ha'tz'ik, the Island of Swallows, an island trading port that controls a vast archipelago of small islands and maintains its own small but efficient navy.
 
 ## Trade
 
 Ki'ik Ba'ate's prosperity rests on its position as a crossroads. Highland goods from [[affiliation-balamkul|Balamkul]]—obsidian, fine textiles, and luxury ceramics—enter Ki'ik Ba'ate's merchant networks and are transported southward to the diverse cultures of the outer continent and to the distant markets of the southern ocean. Conversely, exotic goods from the southern jungles and coast—jaguar hides, macaw feathers, rare woods like mahogany and rosewood, and the finest cacao—pass through Ki'ik Ba'ate on their way to satisfy the appetites of Balamkul and K'ankul's aristocracy.
 
-The maritime trade is particularly significant. Ki'ik Ba'ate's merchants have established networks of trading posts along the coasts, and their merchant canoes venture far beyond the traditional bounds of K'ich'chik culture. It is Ki'ik Ba'ate traders who have made the first contacts with peoples far to the south and have begun to establish the trade relationships that are slowly bringing southern regions into the K'ich'chik commercial sphere. The ports of the Island of Swallows and the other eastern-coast city-states handle an enormous volume of maritime trade, and the merchant families that control these ports have become immensely wealthy.
+The maritime trade is particularly significant. Ki'ik Ba'ate's merchants have established networks of trading posts along the coasts, and their merchant canoes venture far beyond the traditional bounds of K'ich'chik culture. It is Ki'ik Ba'ate traders who have made the first contacts with peoples far to the south and have begun to establish the trade relationships that are slowly bringing southern regions into the K'ich'chik commercial sphere. The ports of Tz'ilil Ha'tz'ik and the other eastern-coast city-states handle an enormous volume of maritime trade, and the merchant families that control these ports have become immensely wealthy.
 
 ## See Also
 

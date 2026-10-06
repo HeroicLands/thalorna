@@ -20,7 +20,7 @@ data:
       - level: 0
         title: Blood-Denied
         description: >-
-          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Xibalba's trials unguided, which the Ki'ichek reckon the one sentence that outlives the body.
+          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Ch'al Tz'umaq's trials unguided, which the Ki'ichek reckon the one sentence that outlives the body.
       - level: 1
         title: Water-Marked
         lore: childfaithrnk
