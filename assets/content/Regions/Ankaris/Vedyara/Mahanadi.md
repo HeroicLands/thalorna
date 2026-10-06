@@ -3,7 +3,7 @@ shortcode: mahanadi
 name: {full: The Mahānadi, aliases: [Mahānadi]}
 type: place
 subType: feature
-description: "The great central river—the longest, the most populous, the one whose channel has moved and taken a capital with it, and the one the Mela is held on."
+description: "The great central river—the longest, the most populous, the one whose channel has moved and taken a royal seat with it, and the one the Mela is held on."
 tags: [river, pilgrimage, inland]
 data: {demonym: null, lore: [], parents: [vedyarargn], population: null, packFolder: vedyara}
 ---
@@ -14,7 +14,7 @@ More people live within a day's walk of this water than live in any kingdom on t
 
 ## The Channel
 
-It moves. Not by inches: the Mahānadi has changed its course four times within written record, each time by miles, and each time it has left towns standing on dry ground and drowned others that were nowhere near it the year before. One of the drowned is a royal capital, and the fishermen of the reach above it still foul their nets on masonry that has not been above water in six hundred years.
+It moves. Not by inches: the Mahānadi has changed its course four times within written record, each time by miles, and each time it has left towns standing on dry ground and drowned others that were nowhere near it the year before. One of the drowned is [[lore-drwnngseat|a royal seat]], and the fishermen of the reach above it still foul their nets on masonry that has not been above water in six hundred years.
 
 Nobody builds on the flood-plain proper. The villages sit on the old levees and on artificial mounds raised over generations, and a village's mound is older than its temple and is treated with more care.
 

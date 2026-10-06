@@ -24,7 +24,7 @@ East and inland: horses, hides, wool, dates and the salt of the coast pans. West
 
 ## What Has Come In On It
 
-Four centuries ago a steppe host came down the Western Descent and turned onto this road. It overran the whole of the northwestern march and went on west across the desert, and it reached the Sultanate's walls from the wrong side. Every fort on the road was built after that and with that in mind.
+Four centuries ago a steppe host, [[lore-hndrdbnnrs|the Storm of the Hundred Banners]], came down the Western Descent and turned onto this road. It overran the whole of the northwestern march and went on west across the desert, and it reached the Sultanate's walls from the wrong side. Every fort on the road was built after that and with that in mind.
 
 ## See Also
 

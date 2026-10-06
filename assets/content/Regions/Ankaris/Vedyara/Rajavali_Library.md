@@ -8,7 +8,7 @@ tags: [sacred, river, inland]
 data: {demonym: null, lore: [], parents: [rajapurjnpd], population: null, packFolder: vedyara}
 ---
 
-The **Rājavalī Library** stands in the outer courts of the great Vyālendra temple at [[place-rajapur|Rājapur]], in what was once the royal council-chamber of the **Kingdom of Mahānadi**. The building outlived the kingdom because the sabhā that dissolved the kingdom decided it should, and it has been an annex of the temple for nine hundred years.
+The **Rājavalī Library** stands in the outer courts of the great Vyālendra temple at [[place-rajapur|Rājapur]], in what was once the royal council-chamber of the [[lore-mhndkngdm|Kingdom of Mahānadi]]. The building outlived the kingdom because the sabhā that dissolved the kingdom decided it should, and it has been an annex of the temple for nine hundred years.
 
 It holds every chronicle, treaty and legal text of the kingdom-period, and the continuous archive of every sabhā session since the dissolution. No other archive in inland [[place-vedyarargn|Vedyara]] is both that old and unbroken.
 

@@ -20,7 +20,7 @@ The building is a single stone cell with a walled forecourt and a sighting terra
 
 ## The Year
 
-The orthodox civil year of [[place-vedyarargn|Vedyara]] is declared from this terrace. The high priests sight the turn against the parapet marks and announce it to every court and temple that keeps the [[lore-mdhvndrcnt|Mādhavendra count]], and the announcement is what fixes a Mela, a Weighing and a coronation.
+The orthodox civil year of [[place-vedyarargn|Vedyara]] is declared from this terrace. The high priests sight the turn against the parapet marks and announce it to every court and temple that keeps the [[lore-mdhvndrcnt|Mādhavendra count]], and the announcement is what fixes a Mela, a Weighing and a coronation. The shrine is older than its dated record: the temple's dedications on the rock shelf begin four centuries ago, when the Trimūrti-sampradāya took the sighting of the year here.
 
 The [[place-ganakahall|reckoners at Chandrapur]] compute the same turn and get a different day. They have got a different day for as long as anyone has checked. The temple does not argue the point in public and has never had to: the sighting is the one that is announced, and the computation is the one every treasurer keeps beside it.
 
@@ -34,7 +34,7 @@ Nobody's station is read at the gate here. The wrist is not asked for on the she
 
 [[place-himashila|Himashilā]] lies at the head of the outflow, a few paces from the forecourt wall. The temple washes it at the turn of every season, holds it to be the god's footstool, and does not say whose footstool in so many words. Nothing the temple has ever done to it has altered it in any way.
 
-The spring beneath the slab does not freeze, which is why there is a temple here rather than at one of the other three sources, and why [[place-suryadvara|Sūryadvāra]] below has drinkable water in months when the other passes have none.
+The spring beneath the slab had never frozen in the temple's record until two winters ago, which is why there is a temple here rather than at one of the other three sources, and why [[place-suryadvara|Sūryadvāra]] below has drinkable water in months when the other passes have none.
 
 ## The Second Seat
 

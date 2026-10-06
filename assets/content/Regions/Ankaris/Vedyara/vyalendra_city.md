@@ -20,7 +20,7 @@ Eleven thousand looms are chartered within the walls. The count is kept by the g
 
 ## The Council and the Hall
 
-The [[affiliation-vyalendra2|Loom-Council]] sits in the audience hall of the kings, in the palace quarter at the top of the city, and has done since the eleventh and last Mahārāja's line ended. The hall was built for a throne and holds sixty-one seats instead, one to each chartered guild, set in a ring on the floor where the dais was. The dais was taken out. The step it stood on was not, and a Speaker addresses the Council from beside it and never on it.
+The [[affiliation-vyalendra2|Loom-Council]] sits in the audience hall of the kings, in the palace quarter at the top of the city, and has done since [[lore-vylndrkngs|the eleventh and last Mahārāja's line ended]]. The hall was built for a throne and holds sixty-one seats instead, one to each chartered guild, set in a ring on the floor where the dais was. The dais was taken out. The step it stood on was not, and a Speaker addresses the Council from beside it and never on it.
 
 The rest of the palace quarter is the Council's offices, the treasury, the cloth-court and the guild archives, and the private houses of the loom households are built into and against it. A visitor from a kingdom finds the arrangement disorderly and says so. A Vyālendri finds a court disorderly, on the grounds that a court's business is conducted where nobody can hear it.
 
