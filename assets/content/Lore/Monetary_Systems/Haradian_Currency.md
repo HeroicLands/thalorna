@@ -11,7 +11,7 @@ tags: [reference, currency, harad, economy]
 
 ## Overview
 
-The Haradian currency is the post-secession monetary system of the [[affiliation-sodnaqirin|Confederation of Haradian States]]. It uses the same denomination structure as the [[lore-vylrncrncy|Vylarian currency]]—Aurion (gold), Argentus (Argo, silver), Octus (Bit, 1/8 of an Argo)—at the same nominal conversion ratios (1 Aurion = 160 Argo = 1,280 Bits), but the coins are _Haradian-struck_ and the supporting banking infrastructure is the Confederation's own **Bayt al-Khazînah** ("House of the Treasury"), not the Vylarian [[affiliation-aerarimmpr|The Aerarium Imperii]].
+The Haradian currency is the post-secession monetary system of the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]. It uses the same denomination structure as the [[lore-vylrncrncy|Vylarian currency]]—Aurion (gold), Argentus (Argo, silver), Octus (Bit, 1/8 of an Argo)—at the same nominal conversion ratios (1 Aurion = 160 Argo = 1,280 Bits), but the coins are _Haradian-struck_ and the supporting banking infrastructure is the Confederation's own **Bayt al-Khazînah** ("House of the Treasury"), not the Vylarian [[affiliation-aerarimmpr|The Aerarium Imperii]].
 
 The Haradian Aurion is, by standard Vylarian assay, **slightly underweight**—about 7% below the Vylarian gold content. The discount is acknowledged in cross-border transactions but not advertised; in inter-Haradian commerce the coin passes at face value. Haradian Argo are struck to the full Vylarian standard (about 1.5 g, three parts silver to one of alloy) and pass at full value in all systems where silver is silver.
 
