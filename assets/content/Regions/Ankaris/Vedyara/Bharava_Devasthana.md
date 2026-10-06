@@ -14,6 +14,8 @@ A renunciant who has given up worldly life still has to eat and sleep on the roa
 
 ## The Houses
 
+Say you reach a house at dusk as a wandering priest, with road dust to the knee. The doorkeeper looks at your staff and your feet and points you to the well. "Wash, eat what the kitchen has, and sleep in the hall. Nobody here asks what you carry or where you are bound."
+
 A house is a walled yard, a well, a kitchen, a covered hall to sleep in and a shrine. The largest take two hundred people and the smallest twenty. They stand a day's walk apart on the busiest stretches and three days apart in the forest country, and where the spacing fails the pilgrim sleeps out, which the older houses regard as no bad thing for him.
 
 Nothing is charged and nothing is asked. A house feeds whoever presents himself as a priest or an ascetic, and the doorkeeper's judgment of who is one is not appealable. The houses turn away perhaps one man in twenty, and a man turned away at one is not turned away at the next.
@@ -22,7 +24,7 @@ Nothing is charged and nothing is asked. A house feeds whoever presents himself 
 
 The pilgrim road that runs the whole length of [[place-bharavarivr|the Bhārava]], sea to ice, carries more of this traffic than any other in Vedyara. The houses along its lower reaches are endowed by the temple-domains of the forest country out of the forest products that pay for everything there, and the Suvarnagiri houses begin above the highlands.
 
-A great many people whose devotion would not survive the cost of the journey make it anyway, on other people's charity, and that fact is itself part of the observance.
+Many who walk it could never have paid for the journey out of their own devotion. The hostels feed them, and the observance counts that charity as part of the walk.
 
 ## The Endowment
 

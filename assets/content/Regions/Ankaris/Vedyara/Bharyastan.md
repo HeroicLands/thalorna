@@ -80,7 +80,7 @@ sohl: {system: {commonSkills: [vedyarlng]}}
 
 Bharyastān is a small mountain kingdom of the Bhārava highlands, in the upland country east of the gold mountain of [[affiliation-suvrgrjnpd|Suvarnagiri]]. It holds eight valleys and a hundred and twenty thousand people, and the Mahārāja keeps his court at [[place-bharyastan2|Bharyastān]], the one town of the eight.
 
-It is one of the hundred small kingdoms of Vedyara in the exact sense the phrase carries: a single upland district, a fort above each valley, and a court of perhaps forty people. What makes it worth a traveler's notice is what it is paid.
+It is one of the hundred small kingdoms of Vedyara in the exact sense the phrase carries: a single upland district, a fort above each valley, and a court of perhaps forty people. A traveler notices it for what it is paid.
 
 ## The Gold Treaty
 

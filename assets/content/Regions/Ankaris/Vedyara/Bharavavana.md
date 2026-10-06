@@ -18,7 +18,7 @@ data:
 
 **Bhāravavana** is the forest country of the lower [[place-bharavarivr|Bhārava]]: six hundred miles of closed canopy between the foot of the gold-bearing highlands and the coastal farmland, and the largest single stretch of Vedyara that no janapada has ever federated.
 
-It is the southern tropical interior the [[place-vedyarargn|region's]] own reckoning sets beside the river valleys and the coast, and it runs on a tenure the rest of the subcontinent does not use. The forest is held in estates endowed to temples. No sabhā meets in it, no assembly sits in it, and the roll the [[affiliation-janpdsvdyr|Mahā-Sangha]] keeps has no entry for any part of it.
+The [[place-vedyarargn|region's]] own reckoning counts it as the southern tropical interior, a third country beside the river valleys and the coast, and it runs on a tenure the rest of the subcontinent does not use. The forest is held in estates endowed to temples. No sabhā meets in it, no assembly sits in it, and the roll the [[affiliation-janpdsvdyr|Mahā-Sangha]] keeps has no entry for any part of it.
 
 ## The Bounds
 
@@ -34,7 +34,7 @@ The yield is reckoned by estate and not by village, and it is the only wealth in
 
 ## The Gathering Peoples
 
-The people who do the gathering are not the people who hold the forest. They live in the interior in small mobile groups, they take the estates' licences and turn their season's gathering in at the margin, and the lowland records name them collectively and individually not at all.
+The people who do the gathering are not the people who hold the forest. They live in the interior in small mobile groups, they take the estates' licenses and turn their season's gathering in at the margin, and the lowland records name them collectively and individually not at all.
 
 They are outside the tharana rather than at the bottom of it, which the estates find convenient and the orthodox temples of the plains find scandalous when it is put to them. In practice a gatherer at a forest margin is received, paid and not asked to show a wrist, and a gatherer who walks out to a plains town is an Outcaste the moment somebody does ask.
 
