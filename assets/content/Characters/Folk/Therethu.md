@@ -13,7 +13,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [khelzuret]
-  affiliations: {}
+  affiliations: {garqelti: {rank: 2}}
   gender: "female"
   species: humanflk
   born: "675.172"

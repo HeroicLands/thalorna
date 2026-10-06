@@ -13,7 +13,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [amqelulegez]
-  affiliations: {}
+  affiliations: {garzekhemulu: {rank: 2}}
   gender: "male"
   species: humanflk
   born: "671.196"
