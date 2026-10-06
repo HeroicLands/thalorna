@@ -723,7 +723,7 @@ Every name the setting gives a Sinalë person, place, rite or thing, and every n
 | **Lúminarë**              | [[lore-goddreams\|The God of Dreams]]       | `sinale`         | —          |
 | **Lómëthar**              | [[lore-goddreams\|The God of Dreams]]       | `sinale`         | —          |
 | **Calathiri**             | [[lore-goddreams\|The God of Dreams]]       | `sinale`         | —          |
-| **Khaldûr**               | [[lore-goddreams\|The God of Dreams]]       | `exonym:khazari` | —          |
+| **Luváth**                | [[lore-goddreams\|The God of Dreams]]       | `exonym:khazari` | —          |
 | **Bjartr**                | [[lore-goddreams\|The God of Dreams]]       | `exonym:nordmal` | —          |
 | **Aethería**              | [[lore-goddreams\|The God of Dreams]]       | `exonym`         | —          |
 | **Calathir**              | [[lore-calathirrnk\|Calathir]]              | `sinale`         | —          |

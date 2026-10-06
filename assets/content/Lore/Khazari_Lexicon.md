@@ -495,7 +495,7 @@ attested stands, in exactly this form, in the note linked.
 | `parz`        | `n`   | a cut letter, a stave                         | `p-r-z`            | bare       | —                                     |
 | `puráz`       | `v`   | to engrave                                    | `p-r-z`            | deed       | —                                     |
 | `purráz`      | `v`   | to engrave as a master does                   | `p-r-z`            | mastery    | —                                     |
-| `pirzath`     | `n`   | an engraving, an inscription                  | `p-r-z`            | done thing | —                                     |
+| `pirzath`     | `n`   | an engraving, an inscription                  | `p-r-z`            | done thing | [[skill-drthrkscrpt\|Pirzath Script]] |
 | `latav`       | `n`   | a joint, a seam of metal                      | `l-t-v`            | bare       | —                                     |
 | `lutáv`       | `v`   | to join metal                                 | `l-t-v`            | deed       | —                                     |
 | `latutáv`     | `v`   | to join one to another                        | `l-t-v`            | reflexive  | —                                     |
@@ -558,8 +558,8 @@ attested stands, in exactly this form, in the note linked.
 | `vatulágh`     | `v`   | to echo one another                        | `v-l-gh`           | reflexive | —                                     |
 | `lavath`       | `n`   | a glow, the light kept below               | `l-v-th`           | bare      | —                                     |
 | `lavíth`       | `adj` | glowing                                    | `l-v-th`           | adjective | —                                     |
-| `luváth`       | `v`   | to glow                                    | `l-v-th`           | deed      | —                                     |
-| `hulavath`     | `n`   | a lit hall deep in the rock                | `l-v-th`           | place     | —                                     |
+| `luváth`       | `v`   | to glow                                    | `l-v-th`           | deed      | [[lore-goddreams\|The God of Dreams]] |
+| `hulavath`     | `n`   | a lit hall deep in the rock                | `l-v-th`           | place     | [[lore-valdum\|Hulavath]]             |
 | `rafas`        | `n`   | a seep                                     | `r-f-s`            | bare      | —                                     |
 | `rafís`        | `adj` | seeping, wet                               | `r-f-s`            | adjective | —                                     |
 | `rufás`        | `v`   | to seep                                    | `r-f-s`            | deed      | —                                     |
@@ -744,7 +744,7 @@ attested stands, in exactly this form, in the note linked.
 | `dhakal`      | `n`   | a tally, a tally-stick           | `dh-k-l`           | bare       | —                                     |
 | `dhakalir`    | `n`   | a tally-keeper                   | `dh-k-l`           | worker     | —                                     |
 | `dhukál`      | `v`   | to keep tally                    | `dh-k-l`           | deed       | —                                     |
-| `hudhakal`    | `n`   | a tally-house                    | `dh-k-l`           | place      | —                                     |
+| `hudhakal`    | `n`   | a tally-house                    | `dh-k-l`           | place      | [[place-barakth\|Hudhakal]]           |
 | `sadhav`      | `n`   | a witness                        | `s-dh-v`           | bare       | —                                     |
 | `sudháv`      | `v`   | to witness                       | `s-dh-v`           | deed       | —                                     |
 | `satudháv`    | `v`   | to witness for one another       | `s-dh-v`           | reflexive  | —                                     |
@@ -783,44 +783,44 @@ attested stands, in exactly this form, in the note linked.
 
 ### Body and person
 
-| Form       | Class | Gloss               | Skeleton | Frame      | Attested                              |
-| ---------- | ----- | ------------------- | -------- | ---------- | ------------------------------------- |
-| `marg`     | `n`   | a bone              | `m-r-g`  | bare       | [[skill-khazarlng\|Khazári Language]] |
-| `maríg`    | `adj` | bony, of bone       | `m-r-g`  | adjective  | —                                     |
-| `murág`    | `v`   | to set a bone       | `m-r-g`  | deed       | —                                     |
-| `mirgath`  | `n`   | a carved bone       | `m-r-g`  | done thing | —                                     |
-| `thanp`    | `n`   | a hand              | `th-n-p` | bare       | —                                     |
-| `thaníp`   | `adj` | handed, deft        | `th-n-p` | adjective  | —                                     |
-| `thunáp`   | `v`   | to handle           | `th-n-p` | deed       | —                                     |
-| `vazal`    | `n`   | an eye              | `v-z-l`  | bare       | —                                     |
-| `vazíl`    | `adj` | sharp-eyed          | `v-z-l`  | adjective  | —                                     |
-| `vuzál`    | `v`   | to look closely     | `v-z-l`  | deed       | —                                     |
-| `fanz`     | `n`   | a beard             | `f-n-z`  | bare       | —                                     |
-| `faníz`    | `adj` | bearded             | `f-n-z`  | adjective  | —                                     |
-| `funáz`    | `v`   | to braid a beard    | `f-n-z`  | deed       | —                                     |
-| `rathavod` | `n`   | blood               | `r-th-v` | bare       | —                                     |
-| `rathív`   | `adj` | bloody              | `r-th-v` | adjective  | —                                     |
-| `rutháv`   | `v`   | to bleed            | `r-th-v` | deed       | —                                     |
-| `mavadh`   | `n`   | a heart             | `m-v-dh` | bare       | —                                     |
-| `mavídh`   | `adj` | heartfelt, whole    | `m-v-dh` | adjective  | —                                     |
-| `havath`   | `n`   | breath              | `h-v-th` | bare       | —                                     |
-| `huváth`   | `v`   | to breathe          | `h-v-th` | deed       | —                                     |
-| `sagam`    | `n`   | a shoulder          | `s-g-m`  | bare       | —                                     |
-| `sagím`    | `adj` | broad-shouldered    | `s-g-m`  | adjective  | —                                     |
-| `sugám`    | `v`   | to shoulder a load  | `s-g-m`  | deed       | —                                     |
-| `paldh`    | `n`   | a hide              | `p-l-dh` | bare       | —                                     |
-| `pildhath` | `n`   | worked leather      | `p-l-dh` | done thing | —                                     |
-| `dazam`    | `n`   | strength            | `d-z-m`  | bare       | —                                     |
-| `dazím`    | `adj` | strong              | `d-z-m`  | adjective  | —                                     |
-| `duzám`    | `v`   | to strain           | `d-z-m`  | deed       | —                                     |
-| `tafan`    | `n`   | a foot              | `t-f-n`  | bare       | —                                     |
-| `tufán`    | `v`   | to step             | `t-f-n`  | deed       | —                                     |
-| `zaghan`   | `n`   | a voice             | `z-gh-n` | bare       | —                                     |
-| `zaghín`   | `adj` | loud                | `z-gh-n` | adjective  | —                                     |
-| `zughán`   | `v`   | to call, to voice   | `z-gh-n` | deed       | —                                     |
-| `hazam`    | `n`   | a face              | `h-z-m`  | bare       | —                                     |
-| `huzám`    | `v`   | to face             | `h-z-m`  | deed       | —                                     |
-| `hatuzám`  | `v`   | to face one another | `h-z-m`  | reflexive  | —                                     |
+| Form       | Class | Gloss               | Skeleton | Frame      | Attested                                   |
+| ---------- | ----- | ------------------- | -------- | ---------- | ------------------------------------------ |
+| `marg`     | `n`   | a bone              | `m-r-g`  | bare       | [[skill-khazarlng\|Khazári Language]]      |
+| `maríg`    | `adj` | bony, of bone       | `m-r-g`  | adjective  | —                                          |
+| `murág`    | `v`   | to set a bone       | `m-r-g`  | deed       | —                                          |
+| `mirgath`  | `n`   | a carved bone       | `m-r-g`  | done thing | —                                          |
+| `thanp`    | `n`   | a hand              | `th-n-p` | bare       | —                                          |
+| `thaníp`   | `adj` | handed, deft        | `th-n-p` | adjective  | —                                          |
+| `thunáp`   | `v`   | to handle           | `th-n-p` | deed       | —                                          |
+| `vazal`    | `n`   | an eye              | `v-z-l`  | bare       | —                                          |
+| `vazíl`    | `adj` | sharp-eyed          | `v-z-l`  | adjective  | —                                          |
+| `vuzál`    | `v`   | to look closely     | `v-z-l`  | deed       | —                                          |
+| `fanz`     | `n`   | a beard             | `f-n-z`  | bare       | —                                          |
+| `faníz`    | `adj` | bearded             | `f-n-z`  | adjective  | —                                          |
+| `funáz`    | `v`   | to braid a beard    | `f-n-z`  | deed       | —                                          |
+| `rathavod` | `n`   | blood               | `r-th-v` | bare       | —                                          |
+| `rathív`   | `adj` | bloody              | `r-th-v` | adjective  | —                                          |
+| `rutháv`   | `v`   | to bleed            | `r-th-v` | deed       | —                                          |
+| `mavadh`   | `n`   | a heart             | `m-v-dh` | bare       | —                                          |
+| `mavídh`   | `adj` | heartfelt, whole    | `m-v-dh` | adjective  | —                                          |
+| `havath`   | `n`   | breath              | `h-v-th` | bare       | —                                          |
+| `huváth`   | `v`   | to breathe          | `h-v-th` | deed       | —                                          |
+| `sagam`    | `n`   | a shoulder          | `s-g-m`  | bare       | —                                          |
+| `sagím`    | `adj` | broad-shouldered    | `s-g-m`  | adjective  | —                                          |
+| `sugám`    | `v`   | to shoulder a load  | `s-g-m`  | deed       | —                                          |
+| `paldh`    | `n`   | a hide              | `p-l-dh` | bare       | —                                          |
+| `pildhath` | `n`   | worked leather      | `p-l-dh` | done thing | —                                          |
+| `dazam`    | `n`   | strength            | `d-z-m`  | bare       | —                                          |
+| `dazím`    | `adj` | strong              | `d-z-m`  | adjective  | —                                          |
+| `duzám`    | `v`   | to strain           | `d-z-m`  | deed       | —                                          |
+| `tafan`    | `n`   | a foot              | `t-f-n`  | bare       | —                                          |
+| `tufán`    | `v`   | to step             | `t-f-n`  | deed       | —                                          |
+| `zaghan`   | `n`   | a voice             | `z-gh-n` | bare       | —                                          |
+| `zaghín`   | `adj` | loud                | `z-gh-n` | adjective  | —                                          |
+| `zughán`   | `v`   | to call, to voice   | `z-gh-n` | deed       | [[miscgear-secondvoice\|The Second Voice]] |
+| `hazam`    | `n`   | a face              | `h-z-m`  | bare       | —                                          |
+| `huzám`    | `v`   | to face             | `h-z-m`  | deed       | —                                          |
+| `hatuzám`  | `v`   | to face one another | `h-z-m`  | reflexive  | —                                          |
 
 ### War and the guarding
 
@@ -1030,7 +1030,7 @@ attested stands, in exactly this form, in the note linked.
 | `galp`       | `n`   | a haul                        | `g-l-p`           | bare      | —                                     |
 | `guláp`      | `v`   | to haul                       | `g-l-p`           | deed      | —                                     |
 | `varg`       | `n`   | the far edge                  | `v-r-g`           | bare      | —                                     |
-| `varíg`      | `adj` | farthest                      | `v-r-g`           | adjective | —                                     |
+| `varíg`      | `adj` | farthest                      | `v-r-g`           | adjective | [[place-vorgald\|Vorgald]]            |
 | `thagal`     | `n`   | a return                      | `th-g-l`          | bare      | —                                     |
 | `thugál`     | `v`   | to return                     | `th-g-l`          | deed      | —                                     |
 | `vargagulád` | `n`   | the kindling at the far reach | `v-r-g` + `g-l-d` | compound  | —                                     |
@@ -1117,8 +1117,8 @@ a name older than the rules is listed among the words older than the rules in [[
 | Elder Tongue                     | [[skill-khazarlng\|Khazári Language]]           | `english` | —                                     |
 | Khazári Lexicon                  | [[doc-khazarilex\|Khazári Lexicon]]             | `english` | —                                     |
 | Khazári Word List                | [[doc-khazarilex\|Khazári Lexicon]]             | `english` | —                                     |
-| Durthrak Script                  | [[skill-drthrkscrpt\|Durthrak Script]]          | `english` | —                                     |
-| Durthrak                         | [[skill-drthrkscrpt\|Durthrak Script]]          | `khazari` | —                                     |
+| Pirzath Script                   | [[skill-drthrkscrpt\|Pirzath Script]]           | `english` | —                                     |
+| Pirzath                          | [[skill-drthrkscrpt\|Pirzath Script]]           | `khazari` | `p-r-z` done thing                    |
 | Khazártúrn                       | [[lore-khazarturn\|The Fall of Khazártúrn]]     | `older`   | a word older than the rules           |
 | The Fall of Khazártúrn           | [[lore-khazarturn\|The Fall of Khazártúrn]]     | `english` | —                                     |
 | The Valley of Seven Towers       | [[lore-khazarturn\|The Fall of Khazártúrn]]     | `english` | —                                     |
@@ -1130,12 +1130,12 @@ a name older than the rules is listed among the words older than the rules in [[
 | The Arrival of the Seven Clans   | [[lore-khazararrv\|The Coming of the Khazári]]  | `english` | —                                     |
 | The Cutting of Vorgald           | [[lore-vorgaldcut\|The Cutting of Vorgald]]     | `english` | —                                     |
 | The Khazári Reach Aelwyth        | [[lore-vorgaldcut\|The Cutting of Vorgald]]     | `english` | —                                     |
-| Vorgald                          | [[place-vorgald\|Vorgald]]                      | `khazari` | —                                     |
-| Barakth                          | [[place-barakth\|Barakth]]                      | `khazari` | —                                     |
-| Valdúm                           | [[lore-valdum\|Valdúm]]                         | `khazari` | —                                     |
-| The Lost City of Valdúm          | [[lore-valdum\|Valdúm]]                         | `english` | —                                     |
-| Khaldûr                          | [[lore-goddreams\|The God of Dreams]]           | `khazari` | —                                     |
-| Vrekhal                          | [[miscgear-secondvoice\|The Second Voice]]      | `khazari` | —                                     |
+| Vorgald                          | [[place-vorgald\|Vorgald]]                      | `human`   | —                                     |
+| Hudhakal                         | [[place-barakth\|Hudhakal]]                     | `khazari` | `dh-k-l` place                        |
+| Hulavath                         | [[lore-valdum\|Hulavath]]                       | `khazari` | `l-v-th` place                        |
+| The Lost City of Hulavath        | [[lore-valdum\|Hulavath]]                       | `english` | —                                     |
+| Luváth                           | [[lore-goddreams\|The God of Dreams]]           | `khazari` | `l-v-th` deed                         |
+| Zughán                           | [[miscgear-secondvoice\|The Second Voice]]      | `khazari` | `z-gh-n` deed                         |
 | Ankaris Continent                | [[place-ankrscntnnt\|Ankaris Continent]]        | `human`   | —                                     |
 | Aurèldía Region                  | [[place-aureldirgn\|Aurèldía Region]]           | `human`   | —                                     |
 | Mídhalión Region                 | [[place-midhalnrgn\|Mídhalión Region]]          | `human`   | —                                     |

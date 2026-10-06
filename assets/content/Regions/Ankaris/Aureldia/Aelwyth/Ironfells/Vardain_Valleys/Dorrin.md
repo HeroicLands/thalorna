@@ -22,7 +22,7 @@ the mountains. A beacon stands above the village, laid ready, and has been lit f
 hundred years.
 
 Nothing about this is a military arrangement. Dorrin's people are herders who watch, and what they do
-when they see something is send word down to [[place-barakth|Barakth]] and let the tally-keepers put it
+when they see something is send word down to [[place-barakth|Hudhakal]] and let the tally-keepers put it
 up the mountain. What happens after that is not theirs to know.
 
 ## See Also
