@@ -7,13 +7,18 @@ import assert from "node:assert/strict";
 import fs from "node:fs";
 import test from "node:test";
 import {
+    LEXICON,
     NOTE,
     SINALE,
     analyse,
     check,
+    checkLexicon,
     cognates,
+    corpus,
+    fieldCounts,
     givenName,
     houseName,
+    lexiconFrom,
     nameLists,
     pour,
     rulesFrom,
@@ -82,5 +87,69 @@ test("an exemption carries a gloss and a layer", () => {
     for (const o of rules.older) {
         assert(o.gloss, o.form);
         assert(o.layer, o.form);
+    }
+});
+
+const lexText = fs.existsSync(LEXICON) ? fs.readFileSync(LEXICON, "utf8") : "";
+const notes = corpus();
+const lexErrors = (l = lexText, n = text) =>
+    checkLexicon(l, n, notes).filter((f) => f.severity === "error");
+
+test("the Khazári lexicon obeys the note and registers every name in scope", () => {
+    assert(lexText, `${LEXICON} exists`);
+    assert.deepEqual(
+        lexErrors().map((f) => f.message),
+        [],
+    );
+});
+
+test("a lexicon word that is not its skeleton through its frame is refused", () => {
+    const lex = lexiconFrom(lexText);
+    const word = lex.words.find((w) => w.skeletons.length === 1 && w.frame === "bare");
+    const broken = lexText.replace(new RegExp(`^\\| \`${word.form}\``, "m"), `| \`${word.form}u\``);
+    assert(lexErrors(broken).some((f) => f.message.startsWith(`\`${word.form}u\` is not`)));
+});
+
+test("a lexicon word on an unlisted skeleton is refused", () => {
+    const lex = lexiconFrom(lexText);
+    const s = lex.skeletons.find((x) => lex.words.some((w) => w.skeletons.includes(x.form)));
+    const broken = lexText.replace(new RegExp(`^\\| \`${s.form}\` .*\\n`, "m"), "");
+    assert(
+        lexErrors(broken).some((f) => f.message.includes("which the skeleton table does not list")),
+    );
+});
+
+test("a name in scope that the register omits is an error at the name's own note", () => {
+    const lex = lexiconFrom(lexText);
+    const row = lex.register[0];
+    const line = lexText.split("\n").find((l) => l.startsWith(`| ${row.name} `));
+    const broken = lexText.replace(`${line}\n`, "");
+    const found = lexErrors(broken).find((f) => f.message.startsWith(`${row.name} is in scope`));
+    assert(found, row.name);
+    assert.notEqual(found.file, LEXICON);
+});
+
+test("a skeleton of the language note keeps its sense in the lexicon", () => {
+    const s = rules.skeletons[0];
+    const row = text.split("\n").find((l) => l.startsWith(`| \`${s.form}\``));
+    const broken = text.replace(row, row.replace(s.sense, `${s.sense} twice`));
+    assert(
+        lexErrors(lexText, broken).some((f) => f.message.startsWith(`skeleton \`${s.form}\` is`)),
+    );
+});
+
+test("a skeleton that yields no word is refused", () => {
+    const lex = lexiconFrom(lexText);
+    const field = lex.skeletons[0].field;
+    const row = `| \`p-f-p\` | a test sense | \`${field}\` |`;
+    const first = lexText.split("\n").find((l) => l.startsWith(`| \`${lex.skeletons[0].form}\``));
+    const broken = lexText.replace(first, `${first}\n${row}`);
+    assert(lexErrors(broken).some((f) => f.message === "skeleton `p-f-p` yields no word"));
+});
+
+test("every field of the lexicon reaches its words", () => {
+    for (const [id, c] of fieldCounts(lexText)) {
+        assert(c.skeletons > 0, `${id} has skeletons`);
+        assert(c.words >= c.skeletons, `${id} has a word per skeleton`);
     }
 });
