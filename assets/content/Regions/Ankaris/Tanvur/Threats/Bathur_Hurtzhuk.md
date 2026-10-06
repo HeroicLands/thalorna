@@ -20,8 +20,6 @@ data:
   species: humanflk
   age: null
   born: "unknown"
-  height: null
-  weight: null
   frame: null
   appearance:
     eye_color: null
@@ -31,10 +29,6 @@ data:
     extra_features: []
   packFolder: threats
 ---
-
-# Appearance {#appearance}
-
-TBD
 
 # Dossier {#dossier}
 

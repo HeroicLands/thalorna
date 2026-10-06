@@ -36,16 +36,20 @@ Genzet'Zabqar, the Circle of Patrons, is an informal fellowship of the wealthy o
 
 ## Character
 
-TBD.
+A painter who has just won the Circle of Patrons' commission is advised by an older colleague: "They are generous, and they read. Show them the sketch before you show them the wall."
+
+The circle is informal and expects a say in what it pays for. Its members prefer pooled, deliberate patronage to individual whim, so a commission from the circle comes with several opinions attached.
 
 ## Relations
 
-TBD.
+The circle is a fellowship of the wealthy of [[place-galezkara|Galezkara]] who fund the arts and crafts of the capital. Artists who take its funding are expected to consult its members, and the consulting is part of the arrangement, not a courtesy. The circle sits somewhere between a patron and a committee: it pays like the first and deliberates like the second.
 
 ## Commerce and Currency
 
-TBD.
+Members pool resources toward projects larger than any one patron would back alone, from theatre productions to major commissions. A single patron can fund a portrait; the circle funds a hall.
+
+An artist who ignores the circle's expectations after taking its funding rarely gets a second commission from any of its members. Keep the circle informed and the pool stays open.
 
 ## See Also
 
-TBD.
+- [[place-galezkara|Galezkara]]—The city whose arts it funds

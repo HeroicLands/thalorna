@@ -36,16 +36,20 @@ Zeghet'Anlethu, the Relic Hunters, is a loose fellowship of those who go after w
 
 ## Character
 
-TBD.
+A watch-priest above an endowed tomb, asked what he thinks of the Relic Hunters, answers carefully: "I think a tomb is somebody's account, and I think they read it for the wrong reasons."
+
+The watch-priest is partisan, and his account should be heard as one. The relic hunters are competitive and divided in motive. Some go after a publishable find and some after a sellable one, and the fellowship imposes no rule about which wins. A scholar and a dealer share a banner and nothing else.
 
 ## Relations
 
-TBD.
+The fellowship draws scholars and dealers alike, with no formal line between the two. Its members race one another into the old tombs of [[place-aukhelathrgq|Aû'Khelâthu]], and the watch-priests who hold the ground above those tombs are the people they must pass. In a culture where the tablets in a tomb are the dead man's earnings, a tomb opened is a ledger opened, and the people who keep it have reason to watch who reads.
 
 ## Commerce and Currency
 
-TBD.
+What the necropoli still hold is either published for scholarship or sold, and the fellowship does not choose between the two.
+
+A hunter who means to publish should find the watch-priests before the tomb. A hunter who means to sell should expect the same watch-priests to find him.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to

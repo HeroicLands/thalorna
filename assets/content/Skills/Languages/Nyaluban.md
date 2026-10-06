@@ -15,6 +15,8 @@ sohl:
     parentSkillCode: lang
     initSkillMult: 0
   flags: {"thalorna": {lang_family: Nyáluban (isolate)}}
+
+# terran_analog: the speculative distant connections are to the languages of sub-equatorial Africa
 ---
 
 Nyáluban is a tongue of the Nyáluban (isolate) family. Fluency measures the sophistication of expression in Nyáluban, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
@@ -149,7 +151,7 @@ The language readily incorporates objects and modifiers directly into verbal and
 
 ### Proto-Nyáluban
 
-Nyáluban is an isolate language with no widely-accepted external relatives. Some scholars have proposed distant connections to languages of sub-equatorial Africa (not represented in Thalorna's world), but these remain speculative.
+Nyáluban is an isolate language with no widely-accepted external relatives. Proposals of distant connections to other tongues remain speculative.
 
 ### Continuity of Oral Tradition
 
