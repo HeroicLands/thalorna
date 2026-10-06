@@ -476,8 +476,8 @@ Gnaldrthann is driven primarily by the code he has constructed for himself: prot
 
 ### Patrons
 
-Lord Commander Aldric Naltharukh
-: The highest-ranking military officer in the region, who has repeatedly relied on Gnaldrthann's counsel and experience. Aldric respects Gnaldrthann and has sheltered him from some of the more politically motivated aspects of military service.
+Lord Commander Dvalgmýl Naltharukh
+: The highest-ranking military officer in the region, who has repeatedly relied on Gnaldrthann's counsel and experience. Dvalgmýl respects Gnaldrthann and has sheltered him from some of the more politically motivated aspects of military service.
 
 The Garrison Community
 : The soldiers under his command, though they fear him, are loyal to Gnaldrthann. They know he will not ask them to take risks he would not take himself.
@@ -517,4 +517,4 @@ The Garrison at Stonewatch
 
 4. **The Curse of the Lion's Heart**: Gnaldrthann's tattoo of the lion's mane begins to manifest supernatural properties—it seems to enhance his combat abilities but also inflicts terrible pain and periodic moments of uncontrollable rage. He discovers that the tattoo was more than a mark of pride: an ancient ritual binding him to a spiritual force. A mysterious figure offers to explain the tattoo's true nature in exchange for Gnaldrthann performing three seemingly reasonable tasks. However, these tasks are steps in a larger ritual whose end is catastrophic.
 
-5. **The Successor's Dilemma**: Lord Commander Aldric approaches Gnaldrthann, gravely ill, and asks him to be protector and mentor to his young, idealistic daughter—who will inherit his position and authority despite her inexperience. Aldric dies within months, and Gnaldrthann finds himself in the impossible position of serving a commanding officer who lacks his experience in a garrison full of ambitious rivals seeking to exploit her inexperience. He can help her learn to lead or quietly take control himself; either choice compromises his principles.
+5. **The Successor's Dilemma**: Lord Commander Dvalgmýl approaches Gnaldrthann, gravely ill, and asks him to be protector and mentor to his young, idealistic daughter—who will inherit his position and authority despite her inexperience. Dvalgmýl dies within months, and Gnaldrthann finds himself in the impossible position of serving a commanding officer who lacks his experience in a garrison full of ambitious rivals seeking to exploit her inexperience. He can help her learn to lead or quietly take control himself; either choice compromises his principles.

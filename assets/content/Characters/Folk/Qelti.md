@@ -1,6 +1,6 @@
 ---
 shortcode: qelti
-name: {full: Qelti, aliases: []}
+name: {full: Khelemûr, aliases: []}
 type: being
 subType: npc
 description: "A master playwright of Galezkara whose company trains the performers the court later claims to have discovered"
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Qelti is a 52-year-old man who stands 5'7" tall with a light build. He has brown skin, smooth complexion, graying black hair, and dark brown eyes. His features include ink-stained fingers and a voice pitched to carry to the back of a hall.
+Khelemûr is a 52-year-old man who stands 5'7" tall with a light build. He has brown skin, smooth complexion, graying black hair, and dark brown eyes. His features include ink-stained fingers and a voice pitched to carry to the back of a hall.
 
 # Dossier {#dossier}
 
-Qelti keeps a playing company at [[place-galezkara|Galezkara]] and writes for it, which in [[lore-khelathiclt|Khelâthi]] reckoning makes him a tradesman rather than a man of any house — he carries a given name and his trade, and nothing else. He has mentored the performer [[being-thiryegezaqe|Thirye Gez'Aqêu]] to the point where the court takes notice, and the court's habit is to speak of having discovered her. Anyone wanting a piece written for a feast, or wanting to know which of the season's performers can actually hold a room, asks him first and pays for the answer.
+Khelemûr keeps a playing company at [[place-galezkara|Galezkara]] and writes for it, which in [[lore-khelathiclt|Khelâthi]] reckoning makes him a tradesman rather than a man of any house — he carries a given name and his trade, and nothing else. He has mentored the performer [[being-thiryegezaqe|Thirye Gez'Aqêu]] to the point where the court takes notice, and the court's habit is to speak of having discovered her. Anyone wanting a piece written for a feast, or wanting to know which of the season's performers can actually hold a room, asks him first and pays for the answer.

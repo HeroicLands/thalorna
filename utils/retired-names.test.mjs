@@ -81,6 +81,151 @@ export const RETIRED = [
             "assets/content/Characters/Occupations/Tarsia_Torvaleth.md",
         ],
     },
+    {
+        retired: ["Aldric"],
+        replacement: "the host culture's given names",
+        scope: [
+            "assets/content/Characters/Heroes_and_Knaves/Gnaldrthann_Solvargr.md",
+            "assets/content/Characters/Heroes_and_Knaves/Kelena_Stylgon.md",
+            "assets/content/Characters/Heroes_and_Knaves/Vrildmyl_Hrafnsvald.md",
+            "assets/content/Characters/Heroes_of_Asguard/Dvurnvir_the_Shaper.md",
+        ],
+    },
+    {
+        retired: ["Vasilis"],
+        replacement: "the host culture's given names",
+        scope: [
+            "assets/content/Characters/Heroes_and_Knaves/Kallixenos_Paraklavos.md",
+            "assets/content/Characters/Heroes_and_Knaves/Samarina_Oreinikot.md",
+            "assets/content/Characters/Heroes_and_Knaves/Visvambharakhila_Ratnangadevadasa.md",
+        ],
+    },
+    {
+        retired: ["Devani"],
+        replacement: "the host culture's given names",
+        scope: ["assets/content/Characters/Heroes_and_Knaves/Visvambharakhila_Ratnangadevadasa.md"],
+    },
+    {
+        retired: ["Aldwin"],
+        replacement: "the host culture's given names",
+        scope: [
+            "assets/content/Characters/Heroes_and_Knaves/Hrandrinna_Drekanott.md",
+            "assets/content/Characters/Heroes_and_Knaves/Svulthyra_Solvargr.md",
+            "assets/content/Characters/Heroes_and_Knaves/Thalisa_Torvaleth.md",
+        ],
+    },
+    {
+        retired: ["Keira"],
+        replacement: "the host culture's given names",
+        scope: [
+            "assets/content/Characters/Heroes_and_Knaves/Hrandrinna_Drekanott.md",
+            "assets/content/Characters/Heroes_and_Knaves/Ralthyra_Drekanott.md",
+        ],
+    },
+    {
+        retired: ["Aldwyn"],
+        replacement: "the host culture's given names",
+        scope: [
+            "assets/content/Characters/Heroes_and_Knaves/Idrise_Korisvar.md",
+            "assets/content/Characters/Heroes_and_Knaves/Thrildvir_Iseldr.md",
+        ],
+    },
+    {
+        retired: ["Meredith"],
+        replacement: "the host culture's given names",
+        scope: [
+            "assets/content/Characters/Heroes_and_Knaves/Visvara_Mahapara.md",
+            "assets/content/Characters/Occupations/Lothona_Harlanis.md",
+        ],
+    },
+    {
+        retired: ["Kesh"],
+        replacement: "the host culture's given names",
+        scope: ["assets/content/Characters/Heroes_and_Knaves/Visvara_Mahapara.md"],
+    },
+    {
+        retired: ["Elara"],
+        replacement: "the host culture's given names",
+        scope: ["assets/content/Characters/Heroes_and_Knaves/Thalmthann_Solvargr.md"],
+    },
+    {
+        retired: ["Kyros"],
+        replacement: "the host culture's given names",
+        scope: [
+            "assets/content/Characters/Heroes_and_Knaves/Gregoras_Ephthymiopoulos.md",
+            "assets/content/Characters/Heroes_and_Knaves/Theomides_Epiphaniotes.md",
+        ],
+    },
+    {
+        retired: ["Korvin"],
+        replacement: "the host culture's given names",
+        scope: [
+            "assets/content/Characters/Heroes_and_Knaves/Arkhea_Kourkasios.md",
+            "assets/content/Characters/Heroes_and_Knaves/Ranthor_Pardalen.md",
+        ],
+    },
+    {
+        retired: ["Mera"],
+        replacement: "the host culture's given names",
+        scope: ["assets/content/Characters/Heroes_and_Knaves/Kjorvan_Gjarlen.md"],
+    },
+    {
+        retired: ["Ivar"],
+        replacement: "the host culture's given names",
+        scope: ["assets/content/Characters/Heroes_and_Knaves/Thraskorv_Jarnskel.md"],
+    },
+    {
+        retired: ["Kalindi"],
+        replacement: "the host culture's given names",
+        scope: ["assets/content/Characters/Heroes_and_Knaves/Narava_Suryatejamahananda.md"],
+    },
+    {
+        retired: ["Eirik"],
+        replacement: "the host culture's given names",
+        scope: [
+            "assets/content/Characters/Heroes_of_Asguard/Dvulgynda_Shadow_Walker.md",
+            "assets/content/Characters/Heroes_of_Asguard/Hvilgthyra_Knalthannsdottir.md",
+        ],
+    },
+    {
+        retired: ["Qelti"],
+        replacement: "the host culture's given names",
+        scope: [
+            "assets/content/Characters/Folk/Qelti.md",
+            "assets/content/Characters/Heroes_and_Knaves/Raiaqu_UznerAu.md",
+            "assets/content/Characters/Heroes_and_Knaves/Razanash_Mervaran.md",
+            "assets/content/Characters/Heroes_and_Knaves/Thirye_GezAqeu.md",
+            "assets/content/Characters/Heroes_and_Knaves/Thotkar_LetGerau.md",
+            "assets/content/Characters/Heroes_and_Knaves/Ziprahu_IguMaathu.md",
+        ],
+    },
+    {
+        retired: ["Gezehutyu"],
+        replacement: "the host culture's given names",
+        scope: [
+            "assets/content/Characters/Folk/Gezehutyu.md",
+            "assets/content/Characters/Heroes_and_Knaves/Thotkar_LetGerau.md",
+        ],
+    },
+    {
+        retired: ["Zezabu"],
+        replacement: "the host culture's given names",
+        scope: [
+            "assets/content/Characters/Folk/Zezabu.md",
+            "assets/content/Characters/Heroes_and_Knaves/Raiaqu_UznerAu.md",
+            "assets/content/Characters/Heroes_and_Knaves/Zekhemet_GulZekhenu.md",
+        ],
+    },
+    {
+        retired: ["Uzner"],
+        replacement: "the host culture's given names",
+        scope: ["assets/content/Characters/Folk/Uzner.md"],
+    },
+    {
+        retired: ["Aleziya"],
+        replacement: "the host culture's given names",
+        scope: ["assets/content/Characters/Folk/Aleziya.md"],
+    },
 ];
 
 const LETTER = "\\p{L}\\p{M}";

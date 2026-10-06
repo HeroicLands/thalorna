@@ -480,13 +480,13 @@ The Urban Craft Guild Leadership
 
 ### Enemies
 
-Master Devani Karthik
-: A skilled candle-maker whom Vishvambhārākhila drove into bankruptcy through aggressive undercutting and market manipulation. Devani now works as a mere employee in another workshop and harbors fierce resentment, plotting subtle revenge.
+Master Jàgasvara Karthik
+: A skilled candle-maker whom Vishvambhārākhila drove into bankruptcy through aggressive undercutting and market manipulation. Jàgasvara now works as a mere employee in another workshop and harbors fierce resentment, plotting subtle revenge.
 
 The Artisan Collective
 : An emerging organization of craftspeople attempting to create a cooperative market free from merchants like Vishvambhārākhila. They view him as the exemplar of predatory capitalism and have made his downfall a symbolic goal.
 
-Merchant-Lord Vasilis
+Merchant-Lord Bàlavira
 : A rival merchant whose economic interests frequently conflict with Vishvambhārākhila's. Their competition has occasionally turned vicious, with each attempting to undercut the other's trade routes and relationships.
 
 ### Affiliations

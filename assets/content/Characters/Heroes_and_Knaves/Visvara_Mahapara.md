@@ -489,8 +489,8 @@ Shipping Industry Veterans
 
 ### Enemies
 
-Captain Meredith the Reckless
-: A younger, ambitious captain who represents everything Vishvàra despises—puts speed and profit before safety, drives crews beyond reasonable endurance, and ignores the traditional practices that keep sailors alive. Their conflicts over the trade have become personal, with Meredith viewing Vishvàra as an obstacle to progress.
+Captain Bhàlananda the Reckless
+: A younger, ambitious captain who represents everything Vishvàra despises—puts speed and profit before safety, drives crews beyond reasonable endurance, and ignores the traditional practices that keep sailors alive. Their conflicts over the trade have become personal, with Bhàlananda viewing Vishvàra as an obstacle to progress.
 
 The Trade Efficiency Bureau
 : A new office of the crown charged with speeding maritime commerce has begun issuing rules that require faster sailing schedules and smaller crews. Vishvàra views these policies as dangerous and has publicly criticized them, earning the Bureau's enmity.
@@ -504,7 +504,7 @@ The Informal Sailors' Network
 
 1. **The Lost Crew**: A merchant vessel that Vishvàra trained crew members for vanishes without trace on a standard trade route. An investigation suggests the ship encountered something unknown in the deep waters—perhaps a creature, perhaps something worse. The merchant company that owns the vessel wants the matter buried, but Vishvàra becomes obsessed with discovering what happened to the sailors he trained, leading him on a dangerous voyage into waters that even Captain Sorven would have avoided.
 
-2. **The Young Reformer**: A brilliant young sailor named **Kesh** apprentices under Vishvàra and learns the traditional ways, but also possesses the formal education and understanding of new nautical instruments that Vishvàra lacks. Kesh challenges Vishvàra's resistance to change while maintaining respect for the old master's wisdom. Together, they must find a marriage of the old ways and the new, or watch seafaring split into increasingly hostile camps.
+2. **The Young Reformer**: A brilliant young sailor named **Dhûlaka** apprentices under Vishvàra and learns the traditional ways, but also possesses the formal education and understanding of new nautical instruments that Vishvàra lacks. Dhûlaka challenges Vishvàra's resistance to change while maintaining respect for the old master's wisdom. Together, they must find a marriage of the old ways and the new, or watch seafaring split into increasingly hostile camps.
 
 3. **The Betrayed Crew**: Vishvàra discovers that several of the sailors he trained and trusted have become involved in smuggling operations—not out of greed but out of desperation, as legitimate merchant work has become increasingly unreliable and unprofitable. He can report them, destroying people he cares about, or involve himself in crime to protect them.
 

@@ -426,7 +426,7 @@ Kjôrvan stands 6'1" tall with a medium build. He has sun-tanned skin, dark brow
 
 ### Early Life
 
-Kjôrvan was born in the borderlands between the Kingdom of Provènzia and the **Wildwood Territories**, the youngest of five children to a horse trader named **Jorn Gjârlen** and a former herbalist named **Mera**. His childhood was spent around stables and pasture, watching his father conduct business and his mother tend to injured and sick animals. Where his siblings learned to pursue profitable trades, Kjôrvan found his passion not in commerce but in the animals themselves. At age seven, he was given his first young foal to raise—a gift from his father intended as a lesson in responsibility. That foal became his inseparable companion, and in raising it, he discovered his true calling.
+Kjôrvan was born in the borderlands between the Kingdom of Provènzia and the **Wildwood Territories**, the youngest of five children to a horse trader named **Jorn Gjârlen** and a former herbalist named **Chélyra**. His childhood was spent around stables and pasture, watching his father conduct business and his mother tend to injured and sick animals. Where his siblings learned to pursue profitable trades, Kjôrvan found his passion not in commerce but in the animals themselves. At age seven, he was given his first young foal to raise—a gift from his father intended as a lesson in responsibility. That foal became his inseparable companion, and in raising it, he discovered his true calling.
 
 ### Training and Path
 
