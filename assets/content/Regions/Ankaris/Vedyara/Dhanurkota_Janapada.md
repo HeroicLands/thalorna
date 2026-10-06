@@ -93,7 +93,7 @@ sohl: {system: {commonSkills: [vedyarlng]}}
 
 The **Dhanurkota Janapada** trains the archers of every kingdom in [[place-vedyarargn|Vedyara]], and it will train a student of any station, the lowest included. It is the federation of the villages of the upper [[place-sarvadarivr|Sarvada]] valley, governed jointly through the great hall of the **Mahájaya temple** inside the [[place-bowfort|bow-fort]] at [[place-dhanurkota|Dhanurkota]], the "Bow-Fort" the janapada takes its name from. The janapada holds the land of [[place-dhanurkotajnpd|Dhanurkota Janapada]].
 
-By any measure but one, Dhanurkota is ordinary. It is one of perhaps eighty janapadas of the **Sarvada circuit**, which is the reckoning that matters at the **Mela**, where a janapada is counted with the others that drink the same river and not with the whole of the [[affiliation-janpdsvdyr|Mahā-Sangha]]. It is neither large nor wealthy by Vedyari standards. What it has, and what it is known for across the region, is the **Bow**: four ancient archery academies whose graduates have staffed the elite missile companies of every major Vedyari kingdom for fifteen centuries.
+By any measure but one, Dhanurkota is ordinary. It is one of perhaps eighty janapadas of the upper Sarvada, in a **Sarvada circuit** of more than a thousand, which is the reckoning that matters at the **Mela**, where a janapada is counted with the others that drink the same river and not with the whole of the [[affiliation-janpdsvdyr|Mahā-Sangha]]. It is neither large nor wealthy by Vedyari standards. What it has, and what it is known for across the region, is the **Bow**: four ancient archery academies whose graduates have staffed the elite missile companies of every major Vedyari kingdom for fifteen centuries.
 
 At the **Festival of the Drawn Bow** each spring, an instructor of the [[place-highdraw|High Draw]] lines up the year's new students in the temple court and gives them the first lesson before anyone touches a stave. "Look at the man beside you. He may be a **Senāja**'s son and he may be a cultivator's, and inside these walls it changes nothing about how either of you is taught. Outside them, the people who hire you will care a great deal. Learn to shoot first. The rest you will learn on the road."
 
@@ -156,6 +156,7 @@ Dhanurkota holds one of the five seats in the [[affiliation-assmblycmpct|Assembl
 
 ## See Also
 
+- [[lore-hghlndfndn|The Highland Foundations]]—the founding of the four academies, dated
 - [[place-dhanurkotajnpd|Dhanurkota Janapada]]—the land the janapada holds
 - [[place-dhanurkota|Dhanurkota]]—the bow-fort town itself
 - [[place-bowfort|The Bow-Fort]] and [[place-dhnrktemple|its Mahájaya temple]]

@@ -58,7 +58,7 @@ data:
         The voice of one river-circuit's janapadas at the Mela, chosen by the circuit for the gathering and holding nothing between gatherings.
   seat: null
   domains: [vedyarargn, sanghafort, naughatta, bharavamukha]
-  population: 90000000
+  population: 84250000
   economy: [affiliation-mrchntclctvvdyr, lore-vdyrnbnkng]
   lore: [vedyariclt]
   parents: []
@@ -69,7 +69,7 @@ sohl: {system: {commonSkills: [vedyarlng]}}
 # terran_analog: "Medieval South Indian sabhā/ur temple-republics—Chola-era brahmadeya village federations governed by temple-anchored assemblies, loosely confederated through pilgrimage networks and shared classical tradition rather than through any centralized political authority"
 ---
 
-The **Janapadas of Vedyara** are some six or seven thousand small temple-republics, each a handful of villages governing itself from the hall of one temple, and the **Mahā-Sangha** (Great Council) is what they have instead of a state. It convenes once in twelve years, on a plain that is empty the rest of the time, and does not govern. The janapadas hold most of [[place-vedyarargn|Vedyara]]'s people and most of its political life, alongside the great city-states of the coast and the river and the pass-kingdom of [[affiliation-vindhyalay|Vindhyālaya]]. The name belongs to the whole class and to no one polity in it.
+The **Janapadas of Vedyara** are some six thousand small temple-republics, each a handful of villages governing itself from the hall of one temple, and the **Mahā-Sangha** (Great Council) is what they have instead of a state. It convenes once in twelve years, on a plain that is empty the rest of the time, and does not govern. The janapadas hold most of [[place-vedyarargn|Vedyara]]'s people and most of its political life, alongside the great city-states of the coast and the river and the pass-kingdom of [[affiliation-vindhyalay|Vindhyālaya]]. The name belongs to the whole class and to no one polity in it.
 
 A traveling merchant from [[place-provenzrgn|Provènzia Region]] passing through Vedyara meets a man who calls himself a citizen of the [[affiliation-suvrgrjnpd|Suvarnagiri Janapada]], another who calls himself a citizen of the [[affiliation-dhnrktjnpd|Dhanurkota Janapada]], and a third who calls himself simply a [[lore-vedyariclt|Vedyari]]. All three are correct. The Mahā-Sangha is what lets the third answer mean something while the first two are in dispute over a water-channel.
 
@@ -87,7 +87,7 @@ The janapada owns its land collectively through the temple. A cultivator holds r
 
 Say a channel breaks below your host's field the week before planting. Your host does not go to a magistrate. He goes to the temple, where the clerk finds the channel on the survey and the share of water the field is owed; at the next sitting the householders of the three villages that drink from it argue who mends it and who pays, and the convening priest declares what they have agreed. The arrangement is slow, public and very hard to overturn.
 
-It is also durable. Temples burn, droughts empty villages, and kingdoms absorb smaller polities and release them again, but the janapadas hold that their form has run unbroken for nearly three thousand years, and a village-cluster today is governed much as one was at the founding of the [[affiliation-vylarinmpr|Vylarian Empire]].
+It is also durable. Temples burn, droughts empty villages, and kingdoms absorb smaller polities and release them again, but the janapadas hold that [[lore-janpdform|their form]] has run unbroken for nearly three thousand years, and a village-cluster today is governed much as one was at the founding of the [[affiliation-vylarinmpr|Vylarian Empire]].
 
 ## The Mahā-Mela
 
@@ -123,11 +123,11 @@ The Janapadas of Vedyara keep no central army. Each janapada raises its own mili
 
 The answer to a serious threat is the patron-client relationship with a nearby city-state, or inland with a regional kingdom. The janapada sends grain, labor and sometimes auxiliary troops; the patron sends the protection of its standing forces.
 
-The Mahā-Sangha has raised something like a confederation army three times in recorded Vedyari history. The most recent was four hundred years ago, against an adventurer with Tānvüri backing who came through the conch-door into the eastern janapadas, subjugated a series of them and threatened more. The senior priests of the region called on every janapada within reach to send its militia, and the army put him back out through the door he had come in by. It dissolved as soon as the threat ended. What stayed behind is [[place-sanghafort|the Sangha-fort]] on the col of [[place-sankhadvra|Shankhadvāra]], the only standing garrison the confederation keeps anywhere, manned in rotation by the janapadas of the eastern circuits. The priests are jealous of that precedent and invoke it rarely, and Vindhyālaya reads the fort as ground held by a body with no business holding any.
+The Mahā-Sangha has raised something like a confederation army three times in recorded Vedyari history. The most recent was four hundred years ago, in the generation [[lore-hndrdbnnrs|a steppe host]] overran the western march, against an adventurer with Tānvüri backing who brought a few hundred men through the conch-door into the eastern janapadas, subjugated a series of them and threatened more. That was [[lore-conchdoor|the Conch-Door Incursion]]. The senior priests of the region called on every janapada within reach to send its militia, and the army put him back out through the door he had come in by. It dissolved as soon as the threat ended. What stayed behind is [[place-sanghafort|the Sangha-fort]] on the col of [[place-sankhadvra|Shankhadvāra]], the only standing garrison the confederation keeps anywhere, manned in rotation by the janapadas of the Bhārava circuit. The priests are jealous of that precedent and invoke it rarely, and Vindhyālaya reads the fort as ground held by a body with no business holding any.
 
 ## Population and Geography
 
-The janapadas hold the overwhelming mass of Vedyara's people: on the order of **ninety million** across **six or seven thousand** temple-republics, some fourteen thousand to a janapada. That reckoning is the roll's, kept at Sangama, and everyone who quotes it quotes the temple. The janapadas fill the bulk of inland Vedyara: the river valleys, the highland plateaus, the inland forests, and the smaller coastal stretches between the great city-states.
+The janapadas hold the overwhelming mass of Vedyara's people: on the order of **eighty-four million** across **six thousand** temple-republics, some fourteen thousand to a janapada. That reckoning is the roll's, kept at Sangama, and everyone who quotes it quotes the temple. The janapadas fill the bulk of inland Vedyara: the river valleys, the highland plateaus, the inland forests, and the smaller coastal stretches between the great city-states.
 
 ## Famous Figures
 
@@ -143,6 +143,7 @@ A janapada strikes no coin. Its traders carry whichever city's or kingdom's coin
 - [[place-vedyarargn|Vedyara Region]]—parent region
 - [[place-melaground|The Mela Ground]] and [[place-sangama|Sangama]]—where the confederation meets, and the temple that convenes it
 - [[place-sanghafort|The Sangha-fort]]—the confederation's one garrison
+- [[lore-janpdform|The Janapada Form]] · [[lore-conchdoor|The Conch-Door Incursion]] · [[lore-thirdcmpct|The Third Compact]]—the confederation's history
 - [[affiliation-varakpnthn|Varnaka Pantheon]]—the religious tradition that holds the janapadas together
 - [[affiliation-chandrapur|Chandrapur]], [[affiliation-vyalendra2|Vyālendra]], [[affiliation-vindhyalay|Vindhyālaya]]—the great city-states and the pass-kingdom
 - [[affiliation-dhnrktjnpd|Dhanurkota Janapada]], [[affiliation-rajaprjnpd|Rājapur Janapada]], [[affiliation-suvrgrjnpd|Suvarnagiri Janapada]]—three particular janapadas

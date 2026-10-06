@@ -173,6 +173,7 @@ Suvarnagiri's gold leaves the territory as the tribute weighed out to Bharyastā
 
 ## See Also
 
+- [[lore-hghlndfndn|The Highland Foundations]]—the founding of the three temples, dated
 - [[place-suvarnagirijnpd|Suvarnagiri Janapada]]—the land the janapada holds
 - [[place-suvarnagiri|Suvarnagiri]]—the temple-seat, in its three parts
 - [[place-goldmountain|The Gold Mountain]] and [[place-weighingstn|the weighing-station]]—the gold and the shed it is weighed in

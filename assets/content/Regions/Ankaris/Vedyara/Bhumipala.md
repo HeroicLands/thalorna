@@ -116,7 +116,7 @@ The formal treaty with the [[affiliation-sultntmrdd|Sultanate of Amradad]] is Bh
 
 The treaty binds the Sultanate. It does not bind the [[affiliation-dunhartrbs|Dunhara tribes]], who signed nothing and who hold that the road crosses their grazing by their forbearance. The tribes raid in lean seasons and trade in fat ones. The crown's standing arrangement exists to make the first unprofitable, and every sheikh on the road understands it exactly as the crown does.
 
-Four centuries ago a steppe host came down the Western Descent and overran the whole of the march before it turned west across the desert. Every fort on the road was built after that, and with it in mind.
+Four centuries ago a steppe host, [[lore-hndrdbnnrs|the Storm of the Hundred Banners]], came down the Western Descent and overran the whole of the march before it turned west across the desert. Every fort on the road was built after that, and with it in mind.
 
 ## Economy
 

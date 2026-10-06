@@ -1,6 +1,6 @@
 ---
 shortcode: assmblycmpct
-name: {full: Assembly of the Compact, aliases: [Sangha-Sabhā, The Compact]}
+name: {full: Assembly of the Compact, aliases: [Sangha-Sabhā]}
 type: affiliation
 subType: governmental
 description: "The standing agreement through which five Vedyaran polities hold the Merchant Collective's banking system in common, and the twice-yearly assembly of their delegates that renews and amends it."
@@ -47,12 +47,12 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-_Vedyaran: Sangha-Sabhā—"the Assembly of the [[lore-oldcompact|Compact]]"_
+_Vedyaran: Sangha-Sabhā—"the Assembly of the [[lore-thirdcmpct|Compact]]"_
 
 - **Type:** Standing assembly of signatory polities
 - **Seats:** Five—[[affiliation-chandrapur|Chandrapur]], [[affiliation-vyalendra2|Vyālendra]], [[affiliation-vindhyalay|Vindhyālaya]], [[affiliation-rajaprjnpd|Rājapur]] and [[affiliation-dhnrktjnpd|Dhanurkota]]
 - **Sittings:** Twice yearly—spring at Chandrapur, autumn at Vyālendra
-- **Founded:** With the Compact itself, traditionally dated to the **Third Janapada Compact**, four centuries ago
+- **Founded:** With the Compact itself, which tradition dates to the [[lore-thirdcmpct|Third Janapada Compact]], sworn at the **Mahā-Mela** of 320 AF
 
 ## Overview
 
