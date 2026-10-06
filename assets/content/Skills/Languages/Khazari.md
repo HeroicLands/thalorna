@@ -302,7 +302,7 @@ The compound is one word, stressed on its acute, and it means exactly what its t
 
 ## Script and Literacy
 
-Khazári is written in [[skill-drthrkscrpt|Durthrak]], an **angular, geometric script** that resembles runes carved into stone—or rather, the runes of the Pelwar peoples resemble it, being in all likelihood a reduced work-row taught to the Proto-Pelwar tribes when those tribes were Khazári subjects, and simplified twice over since. Letters are angular and blocky, designed to be carved efficiently into rock or metal. The script is written left-to-right, top-to-bottom, but letters do not connect—each is distinct.
+Khazári is written in [[skill-drthrkscrpt|Pirzath]], an **angular, geometric script** that resembles runes carved into stone—or rather, the runes of the Pelwar peoples resemble it, being in all likelihood a reduced work-row taught to the Proto-Pelwar tribes when those tribes were Khazári subjects, and simplified twice over since. Letters are angular and blocky, designed to be carved efficiently into rock or metal. The script is written left-to-right, top-to-bottom, but letters do not connect—each is distinct.
 
 Key features:
 
@@ -311,9 +311,9 @@ Key features:
 - **Diacritical marks**: Notches, dots, and lines indicate the acute and the skeleton boundaries
 - **Formality variants**: More elaborate, decorative versions for monuments or sacred texts
 
-Durthrak writes the three consonants of a skeleton larger than the vowels of the frame, so a carved word shows its own grammar: the bone is cut deep and the binding is scored between. A Khazári reader takes in the skeleton first and the frame second, which is how a worn inscription can still be read when half the vowel-scoring has weathered away.
+Pirzath writes the three consonants of a skeleton larger than the vowels of the frame, so a carved word shows its own grammar: the bone is cut deep and the binding is scored between. A Khazári reader takes in the skeleton first and the frame second, which is how a worn inscription can still be read when half the vowel-scoring has weathered away.
 
-The runic rows of the Nordlands, where anyone there writes at all, are near enough to Durthrak that a Khazári can pick out most of the staves. What they do not share is that depth of cut. A Nordman's staves all stand equal, because Nordmal has no skeleton to pick out; Khazári grades its own, and a stroke that carries grammar in one hand carries nothing in the other. Khazári who have compared the two rows say the northern one looks like a tool being held by the wrong end.
+The runic rows of the Nordlands, where anyone there writes at all, are near enough to Pirzath that a Khazári can pick out most of the staves. What they do not share is that depth of cut. A Nordman's staves all stand equal, because Nordmal has no skeleton to pick out; Khazári grades its own, and a stroke that carries grammar in one hand carries nothing in the other. Khazári who have compared the two rows say the northern one looks like a tool being held by the wrong end.
 
 Literacy in Khazári is **nearly universal among the Khazári**—writing is fundamental to their culture of craftsmanship, record-keeping, and genealogy. However, human literacy in Khazári is **very rare**. Only dedicated scholars or those with Khazári kinship learn to read or write the language.
 

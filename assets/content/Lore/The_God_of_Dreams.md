@@ -1,6 +1,6 @@
 ---
 shortcode: goddreams
-name: {full: The God of Dreams, aliases: [Lúminarë, Khaldûr, Bjartr, Aethería]}
+name: {full: The God of Dreams, aliases: [Lúminarë, Luváth, Bjartr, Aethería]}
 type: lore
 subType: deity
 tags: [deity, elder-races, sinalë, khazári, dreams, light]
@@ -16,7 +16,7 @@ The Sinalë and Khazári do not acknowledge the human faiths as legitimate expre
 | Culture                                         | Name                                       | Gender                  | Aspect Emphasized                                                                                |
 | ----------------------------------------------- | ------------------------------------------ | ----------------------- | ------------------------------------------------------------------------------------------------ |
 | [[lore-flksinale\|Sinalë]]                      | **Lúminarë**                               | Neither / beyond gender | Light, dreams, the living world                                                                  |
-| [[lore-flkkhazar\|Khazári]]                     | **Khaldûr**                                | Neither / beyond gender | Deep light, craft-wisdom, enduring stone                                                         |
+| [[lore-flkkhazar\|Khazári]]                     | **Luváth**                                 | Neither / beyond gender | Deep light, craft-wisdom, enduring stone                                                         |
 | [[affiliation-asguardian\|Asguardian Pantheon]] | [[affiliation-bjartr\|Bjartr]]             | Male                    | Elder races, dreams, light                                                                       |
 | [[affiliation-arldnpnthn\|Aurèldían]]           | [[affiliation-aetheria\|Aethería]]         | Female                  | Dreams, celestial visions                                                                        |
 | [[affiliation-itzanpnthn\|Itzáni]]              | [[affiliation-itzanpnthn\|Nal'ik Tz'uqal]] | Female                  | Dreams, visions, prophecy, the moon                                                              |
@@ -25,7 +25,7 @@ The Sinalë and Khazári do not acknowledge the human faiths as legitimate expre
 | [[affiliation-ashanpnthn\|Āsháian]]             | Zárványä                                   | Female                  | Dreams, celestial visions, omens                                                                 |
 | [[affiliation-varakpnthn\|Varnaka]]             | _(unnamed)_                                | —                       | Worshipped indirectly through the Svapnadēvas (the Dreaming Host), divine servants of this deity |
 
-The Sinalë and Khazári both regard the deity as beyond mortal categories of gender—the human tendency to assign male or female identity is seen as a limitation of younger minds. The Sinalë name, **Lúminarë**, evokes radiance and the living dream; the Khazári name, **Khaldûr**, speaks of the light that endures in deep places and the wisdom found in patient craft. These are not translations of each other—they reflect genuinely different relationships with the same divine presence.
+The Sinalë and Khazári both regard the deity as beyond mortal categories of gender—the human tendency to assign male or female identity is seen as a limitation of younger minds. The Sinalë name, **Lúminarë**, evokes radiance and the living dream; the Khazári name, **Luváth**, speaks of the light that endures in deep places and the wisdom found in patient craft. These are not translations of each other—they reflect genuinely different relationships with the same divine presence.
 
 ## The Sinalëan Tradition
 
@@ -42,11 +42,11 @@ When matters arise that affect the faith as a whole, the Calathiri gather in a *
 
 ## The Khazári Tradition
 
-Almost nothing is known of how the Khazári worship Khaldûr. The Deep Folk share even less with outsiders than the Sinalë do. What fragments exist—from pre-Compact artifacts and the rare oblique reference a Khazár has let slip—suggest a tradition centered on craft as devotion: the act of shaping stone and metal with skill and patience is itself a form of prayer. Light, in the Khazári understanding, is not the open radiance of sun and star but the glow of the forge and the luminescence of deep crystal—light that endures in places the sun has never touched.
+Almost nothing is known of how the Khazári worship Luváth. The Deep Folk share even less with outsiders than the Sinalë do. What fragments exist—from pre-Compact artifacts and the rare oblique reference a Khazár has let slip—suggest a tradition centered on craft as devotion: the act of shaping stone and metal with skill and patience is itself a form of prayer. Light, in the Khazári understanding, is not the open radiance of sun and star but the glow of the forge and the luminescence of deep crystal—light that endures in places the sun has never touched.
 
 ## The Old Compact
 
-Before the sundering of the [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]], both elder races worshipped this deity together—or at least in parallel, under the terms of the Old Compact. Whatever shattered the Compact shattered this shared worship as well. The Sinalë and the Khazári have not spoken to each other in thousands of years, and their traditions have diverged completely. Whether Lúminarë and Khaldûr would even recognize each other's rites is an open question—one that neither race has any interest in answering.
+Before the sundering of the [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]], both elder races worshipped this deity together—or at least in parallel, under the terms of the Old Compact. Whatever shattered the Compact shattered this shared worship as well. The Sinalë and the Khazári have not spoken to each other in thousands of years, and their traditions have diverged completely. Whether Lúminarë and Luváth would even recognize each other's rites is an open question—one that neither race has any interest in answering.
 
 ## Human Adoption
 
