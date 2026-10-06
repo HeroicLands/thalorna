@@ -15,7 +15,7 @@ anyone on Aelwyth can name, and almost everything said about it is inference.
 ## What Is Known
 
 That it is there. Aelwythans have known for centuries, in the way such things are known: lights in
-places with no business having them, tunnel-mouths too regular to be natural, and the very occasional
+places with no business having them, openings in the cliff that are not quite natural, and the very occasional
 cloaked figure appearing at a market to buy specific materials, pay in worked metal of impossible
 quality, and leave without conversation.
 
@@ -25,8 +25,8 @@ through one of those transactions.
 ## Getting There
 
 You do not. The approaches are sheer, the weather closes them for much of the year, and the entrances
-are placed where humans do not go—which the Deep Folk regard as the entire point and have never made
-any secret of.
+are where the mountain put them, in places humans do not go, and the Deep Folk have never made
+any secret of them.
 
 Aldorath has sent three expeditions in recorded history. Two turned back. The third returned having
 found a doorway, in a cliff face, that would not open and could not be marked in any way that was still
@@ -108,8 +108,8 @@ They kill them **immediately, wherever found, without negotiation and without ex
 any part of the enormous patience they show every other living thing here. It is the only subject on
 which the Deep Folk have ever been observed to act quickly.
 
-The obvious explanation is competition. Grukar go underground; the Khazári live underground; the two
-want the same ground, and bands have reached Vorgald's outer workings more than once. That much is
+The obvious explanation is competition. Grukar go into caves; the Khazári live in cliffs and the caves behind
+them; the two want the same ground, and bands have reached Vorgald's outer workings more than once. That much is
 plainly true and it is plainly not the whole of it. The [[lore-vardain|Vardain]], who have lived beneath
 this hold for millennia and know the Deep Folk better than any humans alive, are certain the reason is
 older and more particular than territory.
