@@ -62,13 +62,13 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Ódvar is revered as the god of knowledge, wisdom, and the relentless pursuit of understanding. His insatiable quest for knowledge is legendary, marked by his sacrifice of an eye at the well of [[lore-minnir|Minnir]] in exchange for a drink of its wisdom-bestowing waters. Ódvar's wisdom is not just scholarly but also deeply connected to the mystical and the arcane, encompassing the runes, the secrets of the cosmos, and the mysteries of life and death.
+[[lore-odvardty|Ódvar]] is revered as the god of knowledge, wisdom, and the relentless pursuit of understanding. His insatiable quest for knowledge is legendary, marked by his sacrifice of an eye at the well of [[lore-minnir|Minnir]] in exchange for a drink of its wisdom-bestowing waters. Ódvar's wisdom is not just scholarly but also deeply connected to the mystical and the arcane, encompassing the runes, the secrets of the cosmos, and the mysteries of life and death.
 
 ## Aspects
 
 Ódvar is often depicted as an imposing figure, with a long, flowing beard and a wide-brimmed hat that casts a shadow over his single, all-seeing eye. He is accompanied by his two ravens, [[lore-hugvin|Hugvin]] (thought) and [[lore-munvin|Munvin]] (memory), who fly across the world each day, gathering knowledge and news to bring back to their master.
 
-His influence extends far beyond mere intellectual pursuits; he is also a god of poetry, war, and honorable death, guiding souls to Valsal and inspiring warriors with the courage to fight and the wisdom to know when to wield their power. His complex nature makes him a god of paradoxes—both creator and destroyer, wise and warlike, loving and fearsome.
+His influence extends far beyond mere intellectual pursuits; he is also a god of poetry, war, and honorable death, guiding souls to [[place-valsal|Valsal]] and inspiring warriors with the courage to fight and the wisdom to know when to wield their power. His complex nature makes him a god of paradoxes—both creator and destroyer, wise and warlike, loving and fearsome.
 
 In artistic depictions, Ódvar is often shown holding a spear, [[lore-skjalfgeir|Skjálfgeir]], which never misses its mark, symbolizing his precision and authority. He may also be depicted with the severed head of [[lore-minnir|Minnir]], from whom he continues to seek counsel.
 
@@ -98,7 +98,7 @@ In artistic depictions, Ódvar is often shown holding a spear, [[lore-skjalfgeir
 ## Divine Servants
 
 - **Valkyries:** Choosers of the slain, they select fallen warriors to bring to Valsal.
-- [[lore-valdrengir|Valdrengir]]: The honored dead who reside in Valsal, training for the final battle of Aldarlok.
+- [[lore-valdrengir|Valdrengir]]: The honored dead who reside in Valsal, training for the final battle of [[lore-aldarlok|Aldarlok]].
 - [[lore-hugvin|Hugvin]]: One of Ódvar's ravens, representing thought, who flies across the world gathering knowledge and wisdom.
 - [[lore-munvin|Munvin]]: The other of Ódvar's ravens, symbolizing memory, who travels far and wide to bring back insights from all corners of the world.
 
@@ -111,7 +111,7 @@ In artistic depictions, Ódvar is often shown holding a spear, [[lore-skjalfgeir
 
 **High Ceremonies:**
 
-- **The Rite of [[lore-minnir|Minnir]]'s Well:** A sacred ritual where the clergy ritualistically drink from a blessed chalice said to represent [[lore-minnir|Minnir]]'s Well to deepen their connection to Ódvar's wisdom. The Hofgodi of Ódholm, whose rune-hall the faith's hofs acknowledge as the first among them, will not delegate it: the draft is taken at the one hour of the year the rune-staves are recast for the coming season.
+- **The Rite of [[lore-minnir|Minnir]]'s Well:** A sacred ritual where the clergy ritualistically drink from a blessed chalice said to represent [[lore-minnir|Minnir]]'s Well to deepen their connection to Ódvar's wisdom. The Hofgodi of [[place-odholm|Ódholm]], whose rune-hall the faith's hofs acknowledge as the first among them, will not delegate it: the draft is taken at the one hour of the year the rune-staves are recast for the coming season.
 
 **Festivals:**
 

@@ -19,7 +19,7 @@ data:
 
 ## Overview
 
-**Frithhaven** (420 people) occupies the kindred haven in [[place-thornwald|Thornwald]]. A quiet lake inlet shelters both Varokh fishing boats and Velanthian skiffs. The Other Chief insists on a truce at the water and has taken children of both sides into her household as surety. When a Velanthian captain failed to return a captive, the War Chief demanded one of those children in payment. The Shaman has barred the lake shore to both men until the child is returned.
+**Frithhaven** (420 people) occupies the kindred haven in [[place-thornwald|Thornwald]]. A quiet lake inlet shelters both [[lore-varokhiclt|Varokh]] fishing boats and Velanthian skiffs. The Other Chief insists on a truce at the water and has taken children of both sides into her household as surety. When a Velanthian captain failed to return a captive, the War Chief demanded one of those children in payment. The Shaman has barred the lake shore to both men until the child is returned.
 
 The Other Chief holds the strongest of the village's three seats, but the other two elders retain their own authority. The Shaman keeps the [[lore-goosettm|goose]] as the village’s single totem. The neighboring villages are reached by narrow forest tracks, used by messengers and small parties; no village commands the next one along the path.
 

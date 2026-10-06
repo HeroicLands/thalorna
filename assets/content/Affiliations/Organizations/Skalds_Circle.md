@@ -97,8 +97,8 @@ The third principle has cost skalds their positions and occasionally their lives
 ## Relations
 
 - **The [[affiliation-malldbndlg|Málalidabandalag]]**—formal hospitality and mutual recognition. The Compact's signed companies welcome skalds at their fires; skalds carry company histories, sing the deaths of fallen captains, and serve as itinerant messengers between the Hall at Hringstead and the scattered companies.
-- **The Asguardian priesthood**—overlapping but distinct. Many skalds are also lay devotees of [[affiliation-odvar|Ódvar]] (who is patron of poetry as of war and wisdom), and the priesthood of Ódvar cooperates closely with the Circle. The cooperation is not formal subordination; skalds answer to their masters and to the Circle, not to any priest.
-- **The [[affiliation-bardicolgs|Bardic Colleges]] of Élavendre**—cordial mutual respect across cultural distance. The two traditions exchange visiting members regularly and acknowledge each other's craft without claiming to share it.
+- **The Asguardian priesthood**—overlapping but distinct. Many skalds are also lay devotees of [[affiliation-odvar|Ódvar]] (who is patron of poetry as of war and wisdom), and the priesthood of [[lore-odvardty|Ódvar]] cooperates closely with the Circle. The cooperation is not formal subordination; skalds answer to their masters and to the Circle, not to any priest.
+- **The [[affiliation-bardicolgs|Bardic Colleges]] of [[place-elavendre|Élavendre]]**—cordial mutual respect across cultural distance. The two traditions exchange visiting members regularly and acknowledge each other's craft without claiming to share it.
 - **The kings and jarls**—clients, employers, and occasionally targets of honest recital. The relationship is one of permanent mutual usefulness and occasional sharp friction.
 
 ## Identifying Marks

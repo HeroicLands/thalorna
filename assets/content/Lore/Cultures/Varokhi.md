@@ -7,7 +7,7 @@ description: "The Varokh—their beliefs, their mores, and what they hold a pers
 tags: []
 ---
 
-The Varokh call [[place-vrystwald|Vrystwald]] their primeval homeland. The country was **Pelwar** first, held by herders and cultivators before the **Varkhad** came from farther east and took it. The invaders exterminated nobody; over generations the two peoples married until their descendants could no longer be told apart. The Varokh defend the forest as both its earlier inhabitants and its conquerors' children.
+The Varokh call [[place-vrystwald|Vrystwald]] their primeval homeland. The country was [[lore-pelwarpepl|Pelwar]] first, held by herders and cultivators before the [[lore-varkhadcnq|Varkhad]] came from farther east and took it. The invaders exterminated nobody; over generations the two peoples married until their descendants could no longer be told apart. The Varokh defend the forest as both its earlier inhabitants and its conquerors' children.
 
 ## Keeping Faith
 

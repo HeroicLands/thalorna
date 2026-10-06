@@ -42,8 +42,8 @@ conquest. Into that country, out of the further east, came the **Varkhad**.
 
 They did not exterminate anybody. Over generations they took the country and then merged into it,
 marrying into the tribes they had beaten and adopting a good deal of what they found, until the two
-stocks could no longer be told apart. What came out of that mixture are the **Varokh** of
-[[place-vrystwald|Vrystwald]] and the **Nordmen** of the [[place-nrdlndsrgn|Nordlands]], who share the
+stocks could no longer be told apart. What came out of that mixture are the [[lore-varokhiclt|Varokh]] of
+[[place-vrystwald|Vrystwald]] and the [[lore-nordheimnclt|Nordmen]] of the [[place-nrdlndsrgn|Nordlands]], who share the
 double ancestry and, notably, the temperament that came with the eastern half of it.
 
 The [[lore-pelwarpepl|Pelwar]] who did not stay to be conquered went west and south, and that is

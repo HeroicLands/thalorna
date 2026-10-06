@@ -54,11 +54,11 @@ _Nordmal: Stormmaelendir—"Storm-Speakers"_
 
 - **Type:** Fighting religious order
 - **Patron:** [[affiliation-thrunvald|Thrúnvald]]—Asguardian god of thunder, storm, lightning, and the cosmic defense of the ordered world
-- **Region:** [[place-nrdlndsrgn|The Nordlands]], with strong presence along the coasts; chapter hall at the seamount-temple of [[place-thrumufjall|Thrumufjall]] in Nordheim
+- **Region:** [[place-nrdlndsrgn|The Nordlands]], with strong presence along the coasts; chapter hall at the seamount-temple of [[place-thrumufjall|Thrumufjall]] in [[place-nordheim|Nordheim]]
 
 ## Overview
 
-The Order of the Storm-Speakers stands at the most martial-magical end of the Asguardian fighting orders. Its members are sworn to Thrúnvald, the god whose hammer holds back the chaos beyond the walls of the world, and the order's working doctrine is that the Speaker's vocation is to participate in that defense by both arms and the limited weather-magic that Thrúnvald's faith permits. A Speaker can call wind, can read the approach of storms with extraordinary precision, can in certain circumstances draw down a localized lightning-strike—and can, simultaneously, swing a heavy two-handed hammer with the trained skill of an order-bred warrior. The combination is not common in any of the Nordlands traditions; the order's distinguishing identity is precisely that it cultivates it.
+The Order of the Storm-Speakers stands at the most martial-magical end of the Asguardian fighting orders. Its members are sworn to [[lore-thrunvalddty|Thrúnvald]], the god whose hammer holds back the chaos beyond the walls of the world, and the order's working doctrine is that the Speaker's vocation is to participate in that defense by both arms and the limited weather-magic that Thrúnvald's faith permits. A Speaker can call wind, can read the approach of storms with extraordinary precision, can in certain circumstances draw down a localized lightning-strike—and can, simultaneously, swing a heavy two-handed hammer with the trained skill of an order-bred warrior. The combination is not common in any of the Nordlands traditions; the order's distinguishing identity is precisely that it cultivates it.
 
 The order's members are not numerous (perhaps two hundred sworn Speakers across the Nordlands), and the cultivation of the weather-craft is genuinely difficult. The order admits perhaps five candidates a year and elevates roughly half. Those who fail at the weather-craft and remain physically and devotionally capable are typically channeled into the lay priesthood of Thrúnvald, where they serve as armed temple-stewards without the order's full standing.
 
@@ -98,12 +98,12 @@ The combat doctrine is heavy-weapon focused—the two-handed hammer, the short a
 
 - **Coastal defense.** Standing arrangements with most major Nordland coastal settlements provide for the dispatch of Speakers to towns under raiding threat. The arrangements are renewed annually and have substantially reduced raiding losses where they are in force.
 - **Storm interpretation.** Speakers are routinely consulted by shipowners, captains, and the [[affiliation-skaldscrcl|Skalds' Circle]] on weather questions. The order does not charge for this consultation, but the practical reciprocity it generates is significant.
-- **Defense against chaos incursions.** The order regards Helspawn ([[lore-undead|undead]]) incursions, Black Flame infiltrations, and the rarer outright cosmological breaches as falling within Thrúnvald's defensive mandate. When such an incursion is identified, the relevant Storm-Captain will typically commit a unit of Speakers without waiting for the Voice of the Hammer's authorization.
+- **Defense against chaos incursions.** The order regards Helspawn ([[lore-undead|undead]]) incursions, [[affiliation-blackflame|Black Flame]] infiltrations, and the rarer outright cosmological breaches as falling within Thrúnvald's defensive mandate. When such an incursion is identified, the relevant Storm-Captain will typically commit a unit of Speakers without waiting for the Voice of the Hammer's authorization.
 - **Training and instruction.** Aspirant training at [[place-thrumufjall|Thrumufjall]] is famously rigorous and conducted in all weather.
 
 ## Relations
 
-- **The Asguardian Pantheon's Priesthood**—religious foundation; the order's senior elevations include rites at [[place-thrumufjall|Thrumufjall]] conducted by Thrúnvald's high priesthood.
+- **The [[affiliation-asguardian|Asguardian Pantheon]]'s Priesthood**—religious foundation; the order's senior elevations include rites at [[place-thrumufjall|Thrumufjall]] conducted by Thrúnvald's high priesthood.
 - **The five Nordland Crowns**—the kingdoms support the order through grants of coastal land for chapter halls and standing protection of the order's movements; the order in turn maintains the coastal defense arrangements that the crowns find indispensable.
 - **The [[affiliation-eidhond|Order of the Sworn Hand]]**—peer; cooperation when a matter requires both legal and tactical authority.
 - **The [[affiliation-gronverdir|Green Wardens]]**—formal cooperation in winter; weather and harvest are interrelated concerns.

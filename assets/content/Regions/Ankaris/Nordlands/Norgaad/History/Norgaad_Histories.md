@@ -8,7 +8,7 @@ tags: []
 data: {packFolder: norgaad}
 ---
 
-Norgaad's Lawspeaker can call the Great Moot at [[place-asgarthul|Asgarthul]] when a kingdom seeks a meeting between the septennial assemblies on Nordheim's island. Its mines and high passes have also taken travelers whose names survive on memorial stones; explanations for what lives there belong to the tellers.
+Norgaad's Lawspeaker can call the Great Moot at [[place-asgarthul|Asgarthul]] when a kingdom seeks a meeting between the septennial assemblies on [[place-nordheim|Nordheim]]'s island. Its mines and high passes have also taken travelers whose names survive on memorial stones; explanations for what lives there belong to the tellers.
 
 ## The King's Brother on the Saddle
 
@@ -20,7 +20,7 @@ line had the better right to Norgaad's crown.
 
 ## The Iron-Man of Vrathavn
 
-During the Stormveld year, sixty years ago, a smith of [[place-vrathavn|Vrathavn]] made a guard from iron plates and
+During the [[place-stormveld|Stormveld]] year, sixty years ago, a smith of [[place-vrathavn|Vrathavn]] made a guard from iron plates and
 human bones while much of the fleet was away. A rune-worker cut a working into its chest. The guard
 stood through winter, then killed its maker and walked into the fjord. The tale's surviving fact is a
 debt no ting has priced: the maker's kin claim payment from the rune-worker's line, while the accused

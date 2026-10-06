@@ -9,8 +9,8 @@ data: {packFolder: nordheim}
 ---
 
 Nordheim remembers its past in judgments, household claims and songs. The stories of a grave or a
-haunted road can preserve a warning without proving every deed attributed to the dead. The **Heroes
-of Asguard** belong to that epic tradition: they may or may not have lived, and their adventures are
+haunted road can preserve a warning without proving every deed attributed to the dead. The
+[[doc-heroessgrd|Heroes of Asguard]] belong to that epic tradition: they may or may not have lived, and their adventures are
 no record of Nordheim's law or institutions.
 
 ## The Three Winters
@@ -48,7 +48,7 @@ the fight belong to the family's telling.
 Travelers tell of a child crying between the last farm and the forest. The tale places the child in
 the Three Winters and says its mother left it unnamed when food failed. Some call the voice a
 _frostnár_, a lingering spirit, and say a name spoken by its mother's kin could lay it. Settlers and
-Varokhi each fear the sound and sometimes blame the other. Neither the cry nor the old mother's
+[[lore-varokhiclt|Varokhi]] each fear the sound and sometimes blame the other. Neither the cry nor the old mother's
 choice should be turned into an established charge against a living family.
 
 ## The Night-Rider of Raltholm

@@ -60,15 +60,15 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Eidgar, the god of justice and honorable combat, embodies the ideals of fairness, valor, and sacrifice. As a deity who values truth and righteousness above all, Eidgar is revered as the ultimate judge, whose decisions are guided by an unwavering commitment to the greater good. His most famous act of sacrifice—losing his hand to the great wolf [[lore-vetrulfr|Vetrúlfr]]—exemplifies his dedication to justice and the protection of the world, even at great personal cost.
+[[lore-eidgardty|Eidgar]], the god of justice and honorable combat, embodies the ideals of fairness, valor, and sacrifice. As a deity who values truth and righteousness above all, Eidgar is revered as the ultimate judge, whose decisions are guided by an unwavering commitment to the greater good. His most famous act of sacrifice—losing his hand to the great wolf [[lore-vetrulfr|Vetrúlfr]]—exemplifies his dedication to justice and the protection of the world, even at great personal cost.
 
 ## Aspects
 
 Eidgar is depicted as a noble and stoic figure, often shown with his one remaining hand holding a sword or scales, symbolizing his role as both a warrior and a judge. His presence commands respect, as he represents the moral compass by which warriors and leaders are guided.
 
-In the cosmic struggle between order and chaos, Eidgar is a stalwart defender of justice, standing in direct opposition to Svartbrandr. Their battles are seen as symbolic of the eternal struggle between order and chaos.
+In the cosmic struggle between order and chaos, Eidgar is a stalwart defender of justice, standing in direct opposition to [[lore-svartbrandrdty|Svartbrandr]]. Their battles are seen as symbolic of the eternal struggle between order and chaos.
 
-Eidgar's bond with Fródvin is one of deep mutual respect and shared purpose. While Fródvin nurtures the earth and fosters peace, Eidgar ensures that justice prevails, creating a harmonious balance between growth and order.
+Eidgar's bond with [[lore-frodvindty|Fródvin]] is one of deep mutual respect and shared purpose. While Fródvin nurtures the earth and fosters peace, Eidgar ensures that justice prevails, creating a harmonious balance between growth and order.
 
 Temples dedicated to Eidgar serve as places of law and order, where disputes are settled and oaths are sworn. Within these walls, warriors are trained not just in the art of combat, but in the ethical principles that should guide their actions. His followers are expected to fight with honor, never resorting to deceit or unnecessary cruelty.
 
