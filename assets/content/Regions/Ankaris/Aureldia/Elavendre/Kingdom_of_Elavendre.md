@@ -119,7 +119,7 @@ data:
   packFolder: elavendre
 sohl: {system: {commonSkills: [elvndrlng]}}
 
-# terran_analog: "Northern France and Switzerland—the Pelwar kingdom proper, whose courtly tradition, bardic colleges, and Sinalë diplomatic relations make it the cultural touchstone of the western Aurèldían world."
+# terran_analog: "Northern France and Switzerland—the Pelwar kingdom proper, with Sinalë diplomatic relations."
 ---
 
 ## Overview

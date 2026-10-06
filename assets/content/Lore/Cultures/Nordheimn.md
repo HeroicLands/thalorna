@@ -6,7 +6,7 @@ subType: culture
 description: "The Nordheimn—their beliefs, their mores, and what they hold a person owes."
 tags: []
 
-# terran_analog: "The Norse and Germanic world together with the Baltic and Scandinavian forest peoples (Germany, Poland, Czechia, the Baltic states, Denmark, Norway, Sweden and Finland). Carries over: longships that trade and raid, assemblies (ting) and a Lawspeaker, skalds, runes, blót offerings, oaths, wergild and outlawry, halls and kin. Departs: five kingdoms meeting every seventh year in a King of All Clans assembly, and the Asguardian faiths of near gods."
+# terran_analog: "The Norse and Germanic world together with the Baltic and Scandinavian forest peoples (Germany, Poland, Czechia, the Baltic states, Denmark, Norway, Sweden and Finland). Carries over: longships that trade and raid, assemblies (ting) and a Lawspeaker, skalds, runes, blót offerings, oaths, wergild and outlawry, halls and kin. Departs: five kingdoms meeting every seventh year in a King of All Clans assembly, and the Asguardian faiths of near gods. Norse settlement on Aelwyth (Stormveld, Northeastern Scotland analog) stays culturally tied to its kindred kingdom across the sea."
 ---
 
 The **Nordheimn**, or **Nordmen**, live by the sea and by what their neighbors remember. Their homeland, the [[place-nrdlndsrgn|Nordlands]], has thin fields and long winters. People gather along the coast and inland rivers; the vast mountain interior holds few residents or travelers. Stories of [[lore-flkkhazar|Khazári]] holds hidden there remain rumors, not known neighbors on whom a household can depend.
