@@ -36,15 +36,19 @@ Lin'Zemnu elu Aû'Khelâthu is the chartered guild of artisans across [[place-au
 
 ## Character
 
-The guild is broad and ambivalent. It spans every craft that has no guild of its own, takes pride and prestige from its finest members, and disapproves of most of the methods that earn them their reputations. It wants the acclaim without the risk.
+The master at the Artisans' Guild's long table has a plaque on the wall with the names of the members whose work is known across the empire. "We are very proud of them," he says. "We would prefer that you did not ask how they earn it." The guild is the chartered body of the empire's artisans, spanning every craft that has no guild of its own. An **Artisan** is someone who practices such a craft and holds the guild's good standing.
+
+The guild is broad and ambivalent. It takes its prestige from its finest members' reputations and disapproves of most of the methods that earned them. It wants the acclaim and does not want the risk, and an ambitious artisan learns quickly what that means in practice. The sensible course is to plan the risky commission and complete it, and to ask the guild for its recognition afterward.
+
+Do not ask leave first. The guild will say no, and will take the credit when you succeed.
 
 ## Relations
 
-- Its finest members—Supply the guild's prestige, and the methods the guild disapproves of.
+The guild's most interesting relation is with its finest members, who supply its prestige and the methods the guild disapproves of. The two come together in each commission, and the guild's committee meetings are the place where the guild congratulates the first and frowns at the second.
 
 ## Commerce and Currency
 
-The guild's prestige rests on the reputations of its finest artisans, and the commissions that build those reputations are earned by methods the guild does not endorse.
+Say a carver takes a commission that none of the guild's regulations would allow, brings it off, and is talked of in the city. The guild adds the name to its plaque. The commissions that build a reputation are earned by methods the guild does not endorse, and its prestige rests on the reputations of its finest artisans. The carver pays the guild's dues in silver as before, and nobody mentions the commission.
 
 ## See Also
 

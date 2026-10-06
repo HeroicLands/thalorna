@@ -42,16 +42,25 @@ Lem'Thubâ'i is the sworn priesthood of [[lore-thubaidty|Thubâ'i]], god of the 
 
 ## Character
 
-The order works to the rhythm of the river and the calendar. It is answerable for its forecast, since the planting season, the granary stores and the tax assessments are all set against its flood-records. Its rites ask for the year's prosperity in the form its priests keep.
+"Put your hand in the water," the old priest says to the child of the next village's headman, who has come to learn the river. "No, not like that. Slowly. It has been telling us things for three thousand years and it does not like to be hurried." The priests of Lem'Thubâ'i are trained to read the river and the calendar together, and they keep the flood-records that set the planting season. Every granary master and every tax assessor in the valley waits on what they say.
+
+The order is a cheerful one. Thubâ'i is among the best-loved gods in the empire, and his priests teach that pleasure is a form of gratitude. A new Lem'Nelgir (servant of the god) is told the other half of that teaching on the same day: abundance carries the seeds of excess, and the god's anger falls as readily on the man who hoards as on the man who squanders. Its prosperity rites ask for the year's plenty in the form the priests keep, with music and food before the solemn words.
+
+The weight of the work is the forecast. A priest of this order is answerable for what the records say, since the planting, the granaries and the tax rolls are all set against them. A bad reading makes enemies in a hundred villages.
 
 ## Relations
 
-- [[affiliation-lutthubai|Lut-Thubâ'i]]—The temple of the same god, whose priests read the river's rise.
-- The granaries and the tax assessments—Both are set against the order's forecast.
+Two bodies hang on the order's forecast, and the order knows who is waiting.
+
+The temple of the same god, [[affiliation-lutthubai|Lut-Thubâ'i]], is where the order's priests read the river's rise. The order is the priesthood that reads and records; the temple is the house with the granaries and the feasting hall behind them.
+
+The granaries and the tax assessments are set against the order's flood-records. A granary master who orders his stores against a poor reading and finds the river generous has lost the use of his silo for a season; an assessor who sets the rolls on a generous reading and meets a thin harvest has a village at his door. Neither blames the river.
 
 ## Commerce and Currency
 
-The order's flood-records set the planting season, and the granary stores and tax assessments are set against them, so a poor reading unsettles both.
+A grain-factor in the river towns reads the Keeper of the Flood-Records' tablet before he reads anything else. Say the records put the rise below the line of a good year. He buys early, because every other factor in the valley has read the same tablet, and the granary masters are already adjusting what they will hold back. The assessor sets the village's tax against the same figure. By the time the flood arrives, the order's forecast has already moved the price of grain.
+
+The order takes no fee for its readings. It asks for the year's prosperity through its rites, and the rites are paid for out of the temple's feasts and offerings. A poor reading unsettles granary stores and tax assessments alike, and the order's priests accept that the price of being trusted is being blamed.
 
 ## See Also
 

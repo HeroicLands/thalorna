@@ -40,15 +40,19 @@ Lin'Genzet elu Galezkara is the chartered guild of advocates practicing in [[pla
 
 ## Character
 
-The guild is formal and gatekeeping. It examines every candidate before admission, and the license to argue in the capital's courts runs through its roster rather than through the courts themselves. It vouches only for its own advocates.
+"State the charge, state the law, state the remedy," the Examiner says, "in that order, and do not look at me while you do it." The candidate before him is a clerk who has argued small matters in the market courts for six years and has come at last to the guild's examination. The Litigants' Guild is the chartered body of the advocates of the capital, and it examines every candidate before it will put his name on the roster. An **Advocate** is someone who has passed and is licensed to argue before the courts of Galezkara.
+
+The guild is formal and a gatekeeper by temperament. Its license is the only route into the capital's courts, and it is a stern one; the Examiner gives no hints and the guild does not lend advocates to causes it has not examined. It also keeps an Adviser, an advocate it retains to counsel the guild itself, and the Adviser is the person a baffled senior member goes to when a case turns strange.
+
+A caution for anyone thinking of hiring. The guild vouches only for the advocates on its roster. A litigant who hires someone outside it takes a risk the guild will not share, and the courts of the capital are not the place to find out whether the risk was worth it.
 
 ## Relations
 
-- The imperial courts—Where the guild's advocates argue, under a license the guild controls.
+The advocates live between two walls. The imperial courts are where the guild's advocates argue, and the license they argue under is the guild's to grant or withdraw. A judge cannot waive the license, and an advocate cannot argue without it.
 
 ## Commerce and Currency
 
-The guild's roster is the license to argue in [[place-galezkara|Galezkara]]: a litigant pays an advocate on the roster for a standing the guild itself vouches for.
+Say you owe a debt and are sued for it. You go to the roster, choose an advocate, and agree a fee. The fee is paid in silver, since an advocate's fee is wages and common commerce, and what you are buying for it is standing: someone whom the guild has examined and will answer for. The guild's roster is the license to argue in Galezkara, and a litigant pays an advocate on it for a standing the guild itself vouches for.
 
 ## See Also
 

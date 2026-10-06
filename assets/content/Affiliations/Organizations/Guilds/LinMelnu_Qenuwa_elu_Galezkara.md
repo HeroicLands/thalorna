@@ -36,15 +36,19 @@ Lin'Melnu-Qenuwa elu Galezkara is the consortium of goldsmiths of [[place-galezk
 
 ## Character
 
-The consortium is exacting and protective of its standards. It admits only smiths whose work is judged fit for temple and tomb, and it scrutinizes a smith whose work has failed a temple's inspection. Its work leaves no room for a careless hand.
+"Hold it to the light," the master says, and puts the funerary collar in your hand. "Where would you look first?" The Gilded Smiths' Consortium is the body of the goldsmiths of the capital, and its work goes into temples and tombs. A **Goldsmith** is a smith admitted on work judged fit for both, and a piece's fitness is tested in the one place there is no appeal: a priest's inspection.
+
+The consortium is exacting. Members supply the gilded fittings for the temples and the funerary gold the necropolis consumes, and neither buyer accepts a careless hand. A fitting that fails inspection costs a smith more than a reprimand: the consortium follows a failed temple inspection with scrutiny of its own, and a smith who is found wanting loses the room to be careless a second time.
+
+The apprentices learn the standards before the techniques. Gold that is meant to outlast the one who wears it is not made as gold for the living is made.
 
 ## Relations
 
-- The temples and necropoli of [[place-galezkara|Galezkara]]—Consume the gilded fittings and funerary gold the consortium supplies, and inspect the work.
+The consortium works for two kinds of customer, and both inspect. The temples and necropoli of [[place-galezkara|Galezkara]] consume the gilded fittings and funerary gold, and they examine the work before they take it. Beside it, [[affiliation-linmelnglzkr|Lin'Melnu elu Galezkara]], the blacksmiths of the same city, do the iron the capital builds with; the gold and the iron are different trades with different standards.
 
 ## Commerce and Currency
 
-The consortium supplies the gilded fittings and funerary gold the city's temples and necropoli consume in quantity, and a failed temple inspection brings its own review of the smith.
+Say a temple orders a gilded fitting for a procession. The smith delivers it, a priest inspects it, and the consortium waits for his report. If the work passes, the smith is paid and the commission is entered in the consortium's roll as another reason to admit him. If it fails, the smith is paid less, if at all, and a review follows. The consortium supplies the gilded fittings and funerary gold the city's temples and necropoli consume in quantity, and a failed temple inspection brings its own review of the smith.
 
 ## See Also
 

@@ -44,15 +44,19 @@ Lin'Melnu elu Aû'Khelâthu is the chartered guild of metalworkers across [[plac
 
 ## Character
 
-The guild is conservative and jealous of what it inherited. It trains smiths in the practice of the forge-companies that preceded its charter, certifies work against that practice, and withdraws certification from a smith who departs from it without its sanction.
+Before you touch the hammer, the old smith shows you the stamp. "That is not mine," he says. "That is theirs, and it was theirs before it was the guild's." The Metalworkers' Guild is the chartered guild of the empire's smiths and the acknowledged heir of the forge-companies whose practice is older than the charter. Its authority is the inherited method. An **Apprentice** learns it under the guild's training; a **Certified Smith** is registered, pays dues, and has work certified as guild-standard.
+
+The guild is conservative and jealous. It certifies a piece against the old practice before the piece can be sold as guild-standard, and a smith who departs from the methods without the guild's sanction risks losing the certification that makes the work sellable at all. Struck from the roll, a smith is a Name Struck, and the certification goes with him.
+
+An apprentice's warning is the one every shop repeats. Do not improve the method until the guild has told you that you may. The improvement may be real. It is also the quickest way to lose the stamp.
 
 ## Relations
 
-- The ancient forge-companies—The guild is their acknowledged heir, and its standards descend from theirs.
+The guild's one great relation is to the ancient forge-companies. It is their acknowledged heir, and its standards descend from theirs. Every piece that carries the stamp carries that descent, and every smith who departs from it is departing from the companies that came first.
 
 ## Commerce and Currency
 
-Certification is the commodity: a piece is sold as guild-standard only once the guild has certified it, and a smith struck from the roll loses the certification that makes work sellable.
+Certification is the commodity. Say a smith finishes a sword and brings it to the guild, which tests it against the practice of the forge-companies and stamps it if it passes. The stamped piece sells as guild-standard, at the price the stamp commands. The unstamped piece sells as a sword and at a sword's price. A smith struck from the roll loses the certification that makes work sellable, and with it the price.
 
 ## See Also
 

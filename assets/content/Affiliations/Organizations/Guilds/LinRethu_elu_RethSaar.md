@@ -36,15 +36,19 @@ Lin'Rethu elu Reth'Sa'âr is the collective of scholars attached to [[affiliatio
 
 ## Character
 
-The collective is guarded and deliberate. It keeps the temple's deeper texts apart from the general archive and decides case by case who may read them. A scholar it refuses has no other route to the material.
+The reading room has two doors, and you are admitted only to the first. Beyond the second are the temple's deeper texts, and the collective that guards them is the Scholars' Collective of the Temple of Reth'Sa'âr. A **Certified Scholar** is someone the temple has certified to handle those texts, and who sits with the others on each decision about who may read them.
+
+The collective is guarded and deliberate. It keeps the deeper texts apart from the general archive and decides case by case who may read them. Nobody in it is a gatekeeper by temperament; each has simply learned, by reading, what some texts do to the careless. The decision is taken together, and so it is hard to bribe and hard to hurry.
+
+Do not appeal over their heads. A scholar the collective refuses has no other route to the material, since the temple defers to the collective's judgment on the question, and an appeal to the priests brings only a courteous reminder of that.
 
 ## Relations
 
-- [[affiliation-lutrethsaar|Lut-Reth'Sa'âr]]—The temple that certifies its scholars and defers to the collective on access.
+The collective has one relation: [[affiliation-lutrethsaar|Lut-Reth'Sa'âr]], the temple that certifies its scholars and defers to them on access. The temple supplies the standing, and the collective supplies the judgment.
 
 ## Commerce and Currency
 
-Access to the deeper texts is the collective's to grant, and the temple defers to its judgment on every request.
+Access is the collective's to grant. Say a Helionite scholar lodging near the temple libraries asks to read one of the deeper texts. The collective meets, reads her credentials, and asks what she means to do with the text. If the answer satisfies the members, a Certified Scholar sits with her while she reads. If it does not, she is refused, and the temple defers to the collective's judgment on every request. There is no fee that opens the second door.
 
 ## See Also
 

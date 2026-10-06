@@ -40,15 +40,19 @@ Lin'Zamlu elu Aû'Khelâthu is the chartered guild of musicians and singers acro
 
 ## Character
 
-The guild is open and loosely held. Any performer who pays its dues may claim it, and its members invoke it constantly as a credential while attending its own meetings only sporadically. A recommendation from one of its masters is nonetheless honored across the empire.
+"Oh, I'm Guild," the lute-player says at the door of the patron's house, and the steward lets him in. He has not attended a meeting in two years. The Minstrels' Guild is the chartered guild of the empire's musicians and singers, open to any performer who pays its dues, and its members invoke it constantly and attend it sporadically. A **Minstrel** is a performer on the roll, who claims the guild as a credential. A **Master** holds mastery in the guild, and a recommendation from one carries across the whole empire.
+
+The guild is open and loosely held. Nobody is examined for belonging, nobody is struck off for absence, and the roll is a list of people who paid. The guild is nonetheless real, because the credential it gives is real. When a patron asks for proof, the roll confirms the claim more often than attendance would suggest.
+
+Pay your dues. Everything else is optional until the day you need a master's word, and then only one thing matters.
 
 ## Relations
 
-- Hiring patrons—Check a musician's claimed membership against the guild's roll, and find it confirmed more often than attendance suggests.
+The guild's relation with hiring patrons is brief and routine. A patron checks a musician's claimed membership against the guild's roll and finds it confirmed more often than attendance suggests. The patron thinks little of it, and the guild says nothing.
 
 ## Commerce and Currency
 
-Dues are the price of belonging, and the guild's name serves its members as a credential before an audience or a patron.
+Dues are the price of belonging, and the guild's name serves its members as a credential before an audience or a patron. Say a singer arrives in a new city with no one to speak for her. She names the guild, pays her dues in silver, and is heard. If the patron's steward checks the roll, her name is on it. If she wants the engagement of her life, she asks a Master for a recommendation, and a Master's recommendation carries across the whole empire.
 
 ## See Also
 

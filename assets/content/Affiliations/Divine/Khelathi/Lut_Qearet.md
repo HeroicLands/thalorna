@@ -52,17 +52,25 @@ Lut-Qe'âret is the temple of [[lore-qearetdty|Qe'âret]], whose order is held t
 
 ## Character
 
-The temple is austere and exacting. It reads law as sacred text and expects its priests to be beyond purchase, removing from office, with the authority that came with it, any priest found otherwise. Its own conservatives can organize against the High Priest's appointment at renewal, so the temple holds its leadership to account as well as its judges.
+"Leave your purse at the gate," the Wazu at the door says, and she means it as advice and not as a joke. She is an acolyte of the temple, and she says it to everyone who comes in with a grievance, a contract to swear or a favor to ask. Lut-Qe'âret keeps the law as sacred text, and its judges are expected to be beyond purchase. A priest found open to a gift loses the office, and the authority that came with it goes the same day.
+
+Come at the solar noon if you want to understand the house. Priests and petitioners gather to recite the Forty-Two Negative Confessions—"I have not stolen; I have not borne false witness"—and the walls around them are inscribed with the laws they are confessing against. Nothing in the room invites you to feel comfortable. Qe'âret is not a goddess of mercy, and the temple does not pretend otherwise: a poor man who has lived truthfully stands as justified before her as a rich one.
+
+The austerity applies upward as well. The Thâz'Lekhau holds her appointment by renewal, and the temple's own conservatives are free to organize against it when the renewal comes. The present High Priestess in the capital, Thalura Iqe'Lêru, is remembered for deposing corrupt magistrates and overturning unjust decrees. The judges in the temple's courtyards know that the same standard that reaches a magistrate reaches them.
 
 ## Relations
 
-- The imperial courts—Defer to the rulings of the temple's ordained judges.
-- The court and the aristocracy—The Thâz'Lekhau answers to both for the temple.
+The temple's weight falls on three other bodies, and each leans on it for a different reason.
+
+- The imperial courts—Defer to the rulings of the temple's ordained judges. A Lem'Nelgir who hears your case in the temple is deciding it for the courts too, which is why the temple's reputation for being beyond purchase matters to the state as much as to you.
+- The court and the aristocracy—The Thâz'Lekhau answers to both for the temple. The High Priestess's independence of the Gar-Aû's direct control is real, and so is the expectation that the throne protects the temples.
 - The provincial temples of Qe'âret—Nominally supervised by the Thâz'Lekhau of the great temple.
 
 ## Commerce and Currency
 
-A ruling from the temple is not for sale: a priest found open to purchase loses the office and the authority with it.
+Nothing here has a price, and that fact is the whole of the temple's commerce. Say a Galezkara grain-trader and a buyer from upriver come to swear a contract before the altar. Each speaks the vow aloud, in full voice, before three witnesses; a Lem'Nelgir enters it in the temple archives, and from that moment both men are bound by mortal and divine law. The temple records the undertaking and stands behind it. It does not take a share of the grain, and it does not sell a better verdict to the man who pays more.
+
+A ruling from the temple is not for sale: a priest found open to purchase loses the office and the authority with it. A litigant who tries it learns the cost in a hurry, and so does the priest who accepts.
 
 ## See Also
 

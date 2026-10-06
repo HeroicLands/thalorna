@@ -36,16 +36,19 @@ Lin'Qelzu elu Aû'Khelâthu is the chartered guild of locksmiths across [[place-
 
 ## Character
 
-The guild is exact and wary. It sets the standard a lock must meet before it is sold as guild-work, and its certification is what the owners of anything worth stealing look for. It shares its name with a society of thieves that studies its members' work, a coincidence it does not find amusing and does nothing to encourage.
+There is a joke in the trade, and the locksmiths do not tell it. A thieves' society that studies their work shares the guild's name, and the locksmiths of the empire cannot make the society stop. The Locksmiths' Guild is the chartered guild of the makers of vaults, strongboxes and door-locks, and it sets the standard a lock must meet before it is sold as guild-work. A **Locksmith** is a maker certified by the guild.
+
+The guild is exact and wary. A member works with the knowledge that whatever he builds will be studied by someone who wants to open it uninvited, and the guild's customers know the same. The certification is what the owners of anything worth stealing look for, and it is the whole of the guild's reputation. It is also the reason the guild guards a member's methods as closely as it does.
+
+Speak of the other society, if you must, with care. The guild does nothing to encourage the coincidence, and the locksmiths do not find it amusing.
 
 ## Relations
 
-- The society of thieves that shares its name—Studies the guild's work closely, and is not welcome to the comparison.
-- Owners of valuables—Look for the guild's certification on vaults, strongboxes and door-locks.
+The guild has two relations that matter, and one is unwelcome. The society of thieves that shares its name studies the guild's work closely, and is not welcome to the comparison. The other is with owners of valuables, who look for the guild's certification on vaults, strongboxes and door-locks.
 
 ## Commerce and Currency
 
-A lock certified by the guild commands trust where the owner has something worth protecting, which is the premium the guild's certification carries.
+Say a temple orders a new strongbox for its treasury. The temple's steward asks for guild-work and pays for it, and the guild's certification is part of the price. A lock certified by the guild commands trust where the owner has something worth protecting, which is the premium the guild's certification carries. A lock without it costs less and invites a question the owner would rather not answer.
 
 ## See Also
 

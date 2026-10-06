@@ -36,15 +36,19 @@ Lin'Lagun elu Aû'Khelâthu is the chartered guild of the timber trade across [[
 
 ## Character
 
-The guild is chartered and quarrelsome. It unites loggers, haulers and timber-merchants, and its members are at odds over what the standard for first-quality timber means in practice. The dispute is part of how the guild works rather than a lapse in it.
+At the timber landing the arguments start before the logs are off the barge. "That is first quality," says the logger. "That," says the timber-merchant, nodding at the same log, "is a third." The Timberwrights' Guild is the chartered body of the empire's timber trade, uniting loggers, haulers and timber-merchants, and its members have never settled what its own standard means. A **Timberwright** is a member working to a standard that is disputed by the members who share it.
+
+The guild sets what a shipment must meet before it is sold as first quality, and the quarrel over the line is as old as the charter. It is not a malfunction. The dispute is how the guild works: a logger who wants a better price argues the line up, a merchant who wants a lower one argues it down, and the haulers argue about whose barge it was. Learning to live inside the argument is most of an apprenticeship.
+
+An outsider's warning: do not take a Timberwright's word on a grade when you can have it checked. The word is sincere. It is also one side of a long dispute.
 
 ## Relations
 
-- Buyers of timber—Meet a grading procedure the guild's own members contest.
+The guild's main counterparty is the buyers of timber, who meet a grading procedure that the guild's own members contest. The empire's builders need timber on schedule, and they have learned to put the dispute in the contract instead of waiting for the guild to resolve it.
 
 ## Commerce and Currency
 
-The guild sets the standard a shipment must meet to be sold as first quality, and the contest over that standard reaches every sale made under it.
+Say a builder in the capital orders timber for a pylon's scaffolding and has it graded first quality at the landing. The seller's grade and the buyer's differ by a rank. The contest over the standard reaches every sale made under it, and the usual outcome is a price in the middle and a grumble from both. A buyer who wants certainty pays for grading done outside the guild's own disputed procedure, and the fee is, in effect, the price of ending the argument.
 
 ## See Also
 
