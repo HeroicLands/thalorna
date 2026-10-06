@@ -21,7 +21,7 @@ Nobody holds its throat. There is no fortress on this road, no customs-house and
 
 ## The Window
 
-It is the shortest window on the wall, and the reason is weather and not altitude. The monsoon piles against Meghashikhara from the south and shuts the lower road from below, so that the pass is impassable for weeks after the high ice has gone off and impassable again long before the snow returns. Two caravans a year is a good season here; three is remembered.
+It is the shortest window on the wall, and the reason is weather and not altitude. The monsoon piles against Meghashikhara from the south and shuts the lower road from below, so that the pass is impassable for weeks after the high ice has gone off and impassable again long before the snow returns. Two caravans a year is a good season here; three is remembered. A guide-mother at [[place-tsokhar|Tsökhar]], asked in the second week of a bad season when the door will open, answers with the weather and not the date: "When the cloud leaves the peak. Not on your word, and not on mine."
 
 What crosses is accordingly the cargo that cannot wait. The great houses send the bulk of their trade east to [[place-suryadvara|Sūryadvāra]] and pay the tolls; what comes over the storm-door is what somebody needed in the Khazryn this year and not next, at prices that reflect it.
 

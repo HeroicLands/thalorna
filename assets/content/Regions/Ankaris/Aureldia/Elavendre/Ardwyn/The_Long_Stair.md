@@ -21,8 +21,7 @@ offerings are made at the lowest pool, because that is as far as anyone is permi
 ## The Gorge
 
 The gorge is narrow, wet and loud, cut into the rock over a length of rather less than two miles, and
-in shadow for most of the day. The falls are not of a size to astonish anyone who has seen mountains
-before; what makes the Stair remarkable is its regularity—seven drops, each into a plunge pool, each
+in shadow for most of the day. The falls are modest in size; what makes the Stair remarkable is its regularity—seven drops, each into a plunge pool, each
 pool deeper and colder than the one below it, stepping up the gorge as evenly as if it had been built.
 
 Aranwy's power runs the length of it and **stops where the water slows**, at the tail of the lowest

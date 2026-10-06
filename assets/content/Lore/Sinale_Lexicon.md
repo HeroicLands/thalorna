@@ -63,6 +63,8 @@ Three moves make every built word in this lexicon, and a new word made the same 
 
 **A name.** A given name is a word in its plain form with a naming ending; a lineage name is the same word worn, with the hearth ending. _Tirvali_ "the long road" gives the given names _Tirvalidhe_ and _Tirvalira_ and the lineage name _Sirvalinto_, "the hearth of the long road". The ending _-la_ is not used on _tirvali_, which already ends on _l_.
 
+**No short name.** A given name has no short form. Taking the ending off leaves only the word for the thing—_Tyëvimë_ without _-më_ is _tyëvi_, a vision and not a person—so a Sinalë is called by the whole name, worn in address, and the language page's naming section sets out why.
+
 A new root word—one made from nothing in this lexicon—is a larger thing than a built one. It must keep every rule of sound and harmony, and it belongs in the table of its field with `—` in its Built from column.
 
 ## Words

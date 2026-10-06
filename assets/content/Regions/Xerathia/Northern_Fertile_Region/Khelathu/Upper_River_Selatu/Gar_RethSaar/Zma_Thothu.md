@@ -16,8 +16,9 @@ data:
 
 ## Overview
 
-Zma-Thothu stands among the fields of [[place-garrethsaarnome|Gar-Reth'Sa'âr]] and lives by two trades that are really one. Its land is worked for grain, and its houses are let room by room to the households of those studying at [[place-khelunu|Khelunu]]. A family here keeps a field and a lodger, so the year turns twice — once on the harvest and once on the terms.
+**Zma-Thothu** stands among the fields of [[place-garrethsaarnome|Gar-Reth'Sa'âr]] and lives by two trades that are really one. Its land is worked for grain, and its houses are let room by room to the households of those studying at [[place-khelunu|Khelunu]]. A family here keeps a field and a lodger, so the year turns twice: once on the harvest and once on the school terms.
 
 ## See Also
 
-TBD.
+- [[place-garrethsaarnome|Gar-Reth'Sa'âr]]—the selat country that holds it
+- [[place-khelunu|Khelunu]]—the temple city of the selat

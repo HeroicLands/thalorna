@@ -193,6 +193,40 @@ Lineage names are **compound descriptors of natural phenomena**, encoding both l
 
 Understanding a Kaliharan's lineage name requires knowledge of Thári'vaan cosmology—the Kaliharan spiritual system that sees all natural forces as expressions of sacred interconnection. To be born of "bright canopy" lineage is to carry the spiritual weight of growth and protection.
 
+### Household Names
+
+Inside a Kaliharan house, a long given name is not said in full. A woman named _Koaluethei_ is _Luethei_ to her mother, her sisters and her children, and _Koaluethei_ to everyone else. This short form is her **household name**, and nobody chose it: it is the end of her given name, cut where the language's own stress falls, so it was settled the day she was named.
+
+The household name is formed by rule:
+
+1. **Count the syllables of the given name.** Every vowel is a syllable, except that the diphthongs AE, OA, EI and OU count as one each. _Ilavoani_ is four syllables (i-la-voa-ni); _Theivoanei_ is three (thei-voa-nei).
+2. **Only a name of four syllables or more has a household name.** A name of three or fewer is already the length a household says, and everyone uses it whole: _Kulanei_, _Avaelith_ and _Theivoanei_ have no household name.
+3. **Cut at the second-to-last syllable.** That syllable carries the stress, and the household name runs from its consonant to the end of the name: _Marivano_ (ma-ri-va-no) gives _Vano_.
+4. **Where that syllable is a bare vowel, reach back one syllable** so that the household name opens on a consonant: _Oruanei_ (o-ru-a-nei) gives _Ruanei_, not _Anei_.
+
+Nothing is added. A household name takes no ending, no doubled syllable and no endearment, so it obeys the tongue's sound rules because the given name does. It is the part of the name a household hears loudest when the name is called across a garden.
+
+| Household name | Given name | Syllables      |
+| -------------- | ---------- | -------------- |
+| `Vao`          | Ithavao    | i-tha-va-o     |
+| `Vano`         | Marivano   | ma-ri-va-no    |
+| `Vori`         | Ilavori    | i-la-vo-ri     |
+| `Ruanei`       | Oruanei    | o-ru-a-nei     |
+| `Vuanei`       | Tavuanei   | ta-vu-a-nei    |
+| `Luao`         | Theiluao   | thei-lu-a-o    |
+| `Lua`          | Mahilua    | ma-hi-lu-a     |
+| `Theia`        | Oritheia   | o-ri-thei-a    |
+| `Vani`         | Korevani   | ko-re-va-ni    |
+| `Voani`        | Ilavoani   | i-la-voa-ni    |
+| `Votha`        | Marivotha  | ma-ri-vo-tha   |
+| `Luethei`      | Koaluethei | koa-lu-e-thei  |
+| `Kuanei`       | Tavikuanei | ta-vi-ku-a-nei |
+| `Voni`         | Reithavoni | rei-tha-vo-ni  |
+
+The household name belongs to the house. In the interior that is the mother's line; in the ports it is whichever house a person was raised in. Kin use it, and so do those raised under the same roof. It is spoken and never written: the full name heads every sílhari manual a Kaliharan keeps, stands in the household archive and the lineage records, and is the only name a council or a custodian uses. Household names repeat freely from one house to the next—there are a great many _Vori_ on the island—which troubles nobody, because the name is never used where two houses meet.
+
+An outsider who uses a household name is claiming a place in the house that he does not have. Between Kaliharans this is presumption of the same kind as unsolicited explanation, and it is answered the same way: with the full name, said back, and nothing more. A foreigner is not told the household name at all; a port Kaliharan who deals with foreigners gives a Valtári trade name and keeps both Kalihári names for his own people.
+
 ### Port Variants
 
 Coastal Kaliharans in port cities sometimes adopt Valtári trade names alongside their true Kalihári names, similar to the merchant tradition. However, true Kaliharans consider their Kalihári name sacred and reserve it for family and intimate contexts.

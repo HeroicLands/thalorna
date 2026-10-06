@@ -14,4 +14,9 @@ data:
   government: suvrgrjnpd
 ---
 
-**Shilāmukha** is a quarry village at the rock face above Upper Suvarnagiri, in the [[place-suvarnagirijnpd|Suvarnagiri Janapada]]. Its quarry cut the stone of all three great temples.
+**Shilāmukha** is a quarry village at the rock face above **Upper Suvarnagiri**, in the [[place-suvarnagirijnpd|Suvarnagiri Janapada]]. Its quarry cut the stone of all three great temples. The three temples are kept equals by the constitution, and all three are cut from one rock face.
+
+## See Also
+
+- [[place-suvarnagirijnpd|Suvarnagiri Janapada]]—the land
+- [[affiliation-suvrgrjnpd|Suvarnagiri Janapada]]—the temple-republic that holds it

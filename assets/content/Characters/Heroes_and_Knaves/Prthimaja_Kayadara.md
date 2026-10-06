@@ -1,6 +1,6 @@
 ---
 shortcode: prthmjkydr
-name: {full: Prthîmâja Kâyadara, given: Prthîmâja, clan: Kâyadara, aliases: []}
+name: {full: Prthîmâja Kâyadara, given: Prthîmâja, clan: Kâyadara, aliases: [Prithu]}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -17,8 +17,8 @@ data:
   gender: male
   species: humanflk
   born: 685.101
-  height: 1.68
-  weight: 63
+  height: 5' 6"
+  weight: 139 lbs
   frame: medium
   appearance:
     eye_color: brown
@@ -483,7 +483,7 @@ The Temple of Vyālendra
 : The great temple honors the deity Vyālendra (creation and craftsmanship) and regularly commissions sacred vessels, ceremonial jewels, and ritual objects from Prthîmâja. This work sustains him spiritually even when it provides less income than private commissions.
 
 Master Mahendra's Heirs
-: The family of his former teacher continues to commission his work and has become something like family, particularly Mahendra's granddaughter Sunita, who shares his love of creative problem-solving.
+: The family of his former teacher continues to commission his work and has become something like family, particularly Mahendra's granddaughter Sunita, who shares his love of creative problem-solving and has called him Prithu since she was a child.
 
 ### Enemies
 

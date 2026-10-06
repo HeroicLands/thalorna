@@ -14,4 +14,11 @@ data:
   government: rajaprjnpd
 ---
 
-**Setugrāma** is a village at the causeway that carries the Rājapur road over the flood channel, in the [[place-rajapurjnpd|Rājapur Janapada]].
+**Setugrāma** (610) stands where the road to [[place-rajapur|Rājapur]] crosses the flood channel, on a causeway, and the village is simply what has grown up at its foot. A causeway is built to stand above the water it crosses, so the height of this one is a fair measure of what the channel carries in the wet season.
+
+A carter on the road describes the crossing before he mentions the village.
+
+## See Also
+
+- [[place-rajapurjnpd|Rājapur Janapada]]—the land
+- [[affiliation-rajaprjnpd|Rājapur Janapada]]—the temple-republic that holds it

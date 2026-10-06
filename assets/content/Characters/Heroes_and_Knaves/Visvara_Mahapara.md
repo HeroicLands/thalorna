@@ -17,8 +17,8 @@ data:
   gender: male
   species: humanflk
   born: 683.101
-  height: 1.93
-  weight: 89.4
+  height: 6' 4"
+  weight: 197 lbs
   frame: heavy
   appearance:
     eye_color: brown
@@ -508,6 +508,6 @@ The Informal Sailors' Network
 
 3. **The Betrayed Crew**: Vishvàra discovers that several of the sailors he trained and trusted have become involved in smuggling operations—not out of greed but out of desperation, as legitimate merchant work has become increasingly unreliable and unprofitable. He can report them, destroying people he cares about, or involve himself in crime to protect them.
 
-4. **The Navy's Offer**: The nascent royal navy, seeking to put maritime command on a regular footing, offers Vishvàra a substantial position—formal authority, significant compensation, and the ability to implement his principles of seamanship on a large scale. However, the navy's aims include aggressive expansion and militarization of the seas. Accepting would give Vishvàra power to save lives through better training, but would also make him complicit in potentially unjust military actions.
+4. **The Fleet's Offer**: The war-fleet of [[affiliation-chandrapur|Chandrapur]], seeking to put maritime command on a regular footing, offers Vishvàra a substantial position—formal authority, significant compensation, and the ability to implement his principles of seamanship on a large scale. However, the fleet's aims include aggressive expansion and militarization of the seas. Accepting would give Vishvàra power to save lives through better training, but would also make him complicit in potentially unjust military actions.
 
 5. **The Cursed Voyage**: A wealthy merchant offers Vishvàra an enormous sum to captain a voyage to a distant location that other sailors have refused—a journey that has resulted in multiple disappearances and tales of supernatural danger. Vishvàra's experience suggests the crew would not survive, yet his financial situation has deteriorated to the point where refusing the commission means losing the modest security he has built. He must weigh his life's principles against the practical realities of aging and scarcity.

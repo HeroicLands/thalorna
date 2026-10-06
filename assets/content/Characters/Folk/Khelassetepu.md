@@ -1,6 +1,6 @@
 ---
 shortcode: khelassetepu
-name: {full: Khelassetepu, aliases: []}
+name: {full: Khelassetepu, aliases: [Khelâ]}
 type: being
 subType: npc
 description: "Senior Accountant and Principal Auditor, whose right hand did the work that exposed a great deal and whose position shielded her while it was done"
@@ -18,8 +18,8 @@ data:
   species: humanflk
   born: "673.331"
   died: null
-  height: 1.75
-  weight: 71
+  height: 5' 9"
+  weight: 157 lbs
   frame: medium
   appearance:
     eye_color: brown

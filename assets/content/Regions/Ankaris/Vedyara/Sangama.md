@@ -23,7 +23,7 @@ The senior priest of Sangama is **Sabhāpati of the Mela**. He convenes the twel
 
 ## The Roll
 
-The temple keeps the roll of the janapadas: which of them sent a delegation to each Mela, which circuit each belongs to, which have been recognized as newly formed, and which have collapsed since the previous assembly and been formally mourned. The reckoning of six or seven thousand temple-republics in the confederation is the roll's, and everyone who quotes it quotes Sangama.
+The temple keeps the roll of the janapadas: which of them sent a delegation to each Mela, which circuit each belongs to, which have been recognized as newly formed, and which have collapsed since the previous assembly and been formally mourned. The reckoning of about six thousand temple-republics in the confederation is the roll's, and everyone who quotes it quotes Sangama.
 
 The roll is also the standing argument. Which circuit a border janapada belongs to has gone to litigation, in one case for two hundred and ten years, and the temple is where the litigation is heard.
 

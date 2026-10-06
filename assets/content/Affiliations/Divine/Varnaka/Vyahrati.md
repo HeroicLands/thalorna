@@ -52,31 +52,29 @@ sohl: {system: {commonSkills: [vyahrati, sohl-sohl-skill-agri]}}
 - **Pronunciation:** _VYAH-hrah-tee_
 - **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
-Vyāhrati is the goddess of endings and of the quiet change by which what has reached its term gives itself back to the world. She is no commanding presence in the Varnakan imagination, and she is venerated for her necessity.
+"Not the whole garland. Just what has faded." A woman who keeps the alcove beside a louder god's temple says it to the child sent to empty the household's flowers into her bowl, and shows her where the faded ones begin. [[lore-vyahratidty|Vyāhrati]]'s veneration is small and quiet. Her shrines are modest alcoves beside the larger temples of other Varnakan gods, her formal priesthood is few, and her rites are kept in every household. She is venerated for her necessity.
 
-Without decay, the theology holds, there is no soil, and without endings no beginnings. The house, the garden and the soul all turn stale when what must be released is not released. [[affiliation-rasikara|Rásikara]] breaks what will not yield; Vyāhrati receives what yields of itself.
+Vyāhrati is the goddess of endings and of the quiet change by which what has reached its term gives itself back to the world. Without decay there is no soil, and without endings there are no beginnings. A house, a garden and a soul all turn stale when what must be released is not released. [[affiliation-rasikara|Rásikara]] breaks what will not yield, and Vyāhrati receives what yields of itself.
 
-Vyāhrati's veneration is small and quiet. Her shrines are modest alcoves beside the larger temples of other Varnakan deities, and her formal priesthood is few. Her rites are kept in every household, and her season has its place in the Vedyaran year.
+### What You See at Her Alcoves
 
-### Aspects
+She is pictured as a serene older woman crowned with wilting blossoms and not fresh ones, holding a shallow bowl into which petals and dew are gathered. Her presence is quiet and unhurried. Her colors are the bronze of autumn and the soft violet of deep twilight.
 
-Vyāhrati is depicted as a serene older woman, crowned with wilting blossoms and not fresh ones, holding a shallow bowl into which petals and dew are gathered. Her presence is quiet and unhurried. Her color is the bronze of autumn and the soft violet of deep twilight.
+Three objects carry the cult. **The Petal Bowl** is a small shallow bowl kept in every Vyāhratan household shrine, and the faded flowers of each day are placed in it. **The Dew-Phial** is a small glass phial of dew-water, gathered at the autumn equinox and used in the **Rite of Releasing**. The withered garland is deliberately wilted and worn at the rites of decay, as a sign of willing acceptance.
 
-### Sacred Objects
+### What the Devout Do
 
-- **The Petal Bowl**—a small shallow bowl, kept in every Vyāhratan household shrine; the faded flowers of each day are placed in it, and at the end of the season the bowl is emptied onto the compost-heap or the garden-bed
-- **The Dew-Phial**—a small glass phial of dew-water, gathered at the autumn equinox and used in the Rite of Releasing
-- **Withered garland**—a deliberately-wilted garland worn at the rites of decay, as a sign of willing acceptance
+Almost every Varnakan household keeps a petal bowl on the kitchen windowsill or at the garden door, whatever its chief devotion. The wilted flowers of the day's garland go into it, with any fallen leaf brought in on a sandal and the dry seed-head of a spent blossom. Once a month the bowl is emptied onto the household's compost-heap with the formula of release, and at the end of the season the bowl itself is emptied onto the compost-heap or the garden-bed.
 
-### Veneration
-
-Almost every Varnakan household keeps a petal bowl on the kitchen windowsill or at the garden door, whatever its chief devotion. The wilted flowers of the day's garland go into it, and a fallen leaf brought in on a sandal, and the dry seed-head of a spent blossom. Once a month the bowl is emptied onto the household's compost-heap with the formula of release. A household passing through a change of state, a child grown and gone, a partnership dissolved, a business sold, sets out withered flowers at the threshold for a full day.
+A household passing through a change of state sets out withered flowers at its threshold for a full day. The change might be a child grown and gone, a partnership dissolved or a business sold.
 
 ### Ordeals for Favor
 
-- **The Year of Gentle Release**—a year receiving at a temple garden whatever is brought for composting, kitchen waste, household refuse, the petals of weddings and funerals, and returning each to the ground with the proper rite.
+- **The Year of Gentle Release**—a year receiving at a temple garden whatever is brought for composting (kitchen waste, household refuse, the petals of weddings and funerals) and returning each to the ground with the proper rite.
 - **The Walk of the Empty House**—three days of silent witness inside a house emptied by death or dissolution, before the property passes to its new keeping.
 
 ### See Also
 
 - [[affiliation-varakpnthn|Varnaka Pantheon]]
+- [[lore-vyahratidty|Vyāhrati]]—the goddess, and the theology of endings
+- [[affiliation-agnipantha|Agnī-panthā]]—whose kindest rites are Vyāhratan

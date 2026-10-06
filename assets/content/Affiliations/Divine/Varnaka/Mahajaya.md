@@ -52,34 +52,31 @@ sohl: {system: {commonSkills: [mahajaya, sohl-sohl-skill-agri, sohl-sohl-skill-m
 - **Pronunciation:** _MAH-ha-jah-yah_
 - **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
-Mahájaya is the goddess of preservation, harmony and abundance. Fields ripen under her, markets flourish, and the seasons turn in their ordered round. [[affiliation-vyalendra|Vyālendra]] gives the world its shape and Mahájaya keeps the shape intact. She is invoked at sowing and harvest, at the weighing of grain, at the sealing of contracts, and at every exchange that holds the good order of human society together.
+"Weigh it again," the priest of a village shrine tells the farmhand who has just poured the first sack of the harvest into the shrine's brass scale and taken the number on trust. "She is not watching the grain. She is watching you." The farmhand weighs it again. This is the cult of [[lore-mahajayadty|Mahájaya]] in small: preservation, harmony and abundance, kept by people who measure fairly and say so aloud.
 
-Mahájaya is most visible in the countryside of [[place-vedyarargn|Vedyara Region]], where village shrines anchor the agricultural calendar and the communal storehouses. In the great cities she is the patron of merchants, of bankers, and of the civic officers who answer for granaries, water rights and the conduct of trade.
+Mahájaya is most visible in the countryside of [[place-vedyarargn|Vedyara Region]], where village shrines anchor the agricultural calendar and the communal storehouses. In the great cities she is the patron of merchants, of bankers, and of the civic officers who answer for granaries, water rights and the conduct of trade. She is invoked at sowing and harvest, at the weighing of grain, at the sealing of contracts, and at every exchange that holds a society's order together. At [[affiliation-vyalendra2|Vyālendra]] the sanctuary of Mahájaya is first among the temples beside the weaving halls, because honest measure touches every bolt of cloth.
 
-### Aspects
+### How the Inland Janapadas Read Her
 
-Mahájaya is depicted as a serene matriarch, crowned with sheaves of wheat and holding a balanced scale. The scale is the scale of measure, the careful weighing that keeps an exchange honest, a portion fair, and giving and receiving in balance. Her color is the gold of ripe grain, and her seasons are the seasons of cultivation.
+Some of her temples govern. At [[affiliation-dhnrktjnpd|Dhanurkota]] her temple hall is where the janapada meets, and its senior priest convenes the sabhā. At [[affiliation-suvrgrjnpd|Suvarnagiri]] three great temples of equal size ring the gold-bearing mountain, so that no one priesthood can claim its gold. The Suvarnagiri tradition reads her as the balancer, the force that holds the cosmic order steady against [[affiliation-rasikara|Rásikara]]'s chaos and against [[affiliation-vyalendra|Vyālendra]]'s unchecked making, and it reads its **Gold Constitution** as that balance kept in the world.
 
-### Sacred Objects
+### What You See at Her Shrines
 
-- **Brass weighing scale**—kept in village shrines and temples; used in ceremonial weighings at festivals
-- **Sheaf of wheat**—carried in procession; a stalk is placed on the household shrine at the beginning of each harvest
-- **Bowl of mixed grains**—a sign of the wholeness that arises from many parts kept in proper relation
+She is pictured as a serene matriarch, crowned with sheaves of wheat and holding a balanced scale. The scale is the scale of measure, the careful weighing that keeps an exchange honest, a portion fair, and giving and receiving in balance. Her color is the gold of ripe grain, and her seasons are the seasons of cultivation.
 
-### Divine Servants
+Three objects carry the cult. The brass weighing scale is kept in village shrines and temples and used in ceremonial weighings at festivals. The sheaf of wheat is carried in procession, and a stalk of it is laid on the household shrine at the beginning of each harvest. The bowl of mixed grains is a sign of the wholeness that arises when many parts are kept in proper relation. Her servants are the **Nivara-Kshetras**, the spirits of the fields, who guard the sown ground, guide the rains and keep the ripening grain from blight.
 
-- **Nivara-Kshetras**—the spirits of the fields, who guard the sown ground, guide the rains, and keep the ripening grain from blight. Farmers leave small offerings at the field's edge at each new phase of the moon.
+### What the Devout Do
 
-### Veneration
-
-In Mahájayan households, a small brass scale sits on the household shrine beside the sheaf of the current harvest. At the close of each market day, merchants touch the scale and name the principal transactions of the day, asking that nothing was gained by short measure. Farmers walk the boundary of a sown field at each new moon, scattering a handful of millet to the Nivara-Kshetras; at the end of harvest, a sheaf of grain is knotted and hung above the hearth until the next sowing.
+A small brass scale sits on the household shrine beside the sheaf of the current harvest. At the close of each market day, merchants touch the scale and name the day's principal transactions, asking that nothing was gained by short measure. Farmers walk the boundary of a sown field at each new moon, scatter a handful of millet to the Nivara-Kshetras and leave small offerings at the field's edge. At the end of harvest a sheaf of grain is knotted and hung above the hearth until the next sowing.
 
 ### Ordeals for Favor
 
-- **The Granary Vigil**—a sleepless watch kept over the community granary through a night when the spirits of the fields are said to walk.
-- **The Fair Measure**—a year of public measurement, of grain, cloth, wine and oil, completed without a complaint of short weight from any party.
+- **The Granary Vigil**—a sleepless watch over the community granary through a night when the spirits of the fields are said to walk.
+- **The Fair Measure**—a year of public measurement of grain, cloth, wine and oil, completed without a complaint of short weight from any party.
 
 ### See Also
 
 - [[affiliation-varakpnthn|Varnaka Pantheon]]
+- [[lore-mahajayadty|Mahájaya]]—the goddess, and the theology of preservation
 - [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]]—the orthodox tri-form tradition, which venerates Mahájaya as preserver alongside Vyālendra and Rásikara

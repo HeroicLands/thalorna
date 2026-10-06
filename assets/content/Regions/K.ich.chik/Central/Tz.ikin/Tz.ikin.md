@@ -3,7 +3,7 @@ shortcode: tzikin
 name: {full: Tz'ikin, aliases: []}
 type: affiliation
 subType: polity
-description: River-bound jungle realm of tepui-shrouded city-states and priest-navigators—the Land of Birds, source of K'ich'chik's rarest luxuries.
+description: River-bound jungle realm of mesa-shadowed city-states and priest-navigators—the Land of Birds, source of K'ich'chik's rarest luxuries.
 tags: [polity]
 data:
   icon: null

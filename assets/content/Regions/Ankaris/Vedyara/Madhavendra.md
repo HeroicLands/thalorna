@@ -8,15 +8,15 @@ tags: [ruin, inland]
 data: {demonym: null, lore: [], parents: [vandhyabhumi], population: null, packFolder: vedyara}
 ---
 
-**Mādhavendra** stands on open pasture in the centre of [[place-vandhyabhumi|Vandhyabhūmi]], twelve centuries after the reign that raised it and the better part of nine since anyone lived in it. It is roofless. It has never been quarried. Its walls stand to the height of a man over most of their circuit, its street grid is legible from the ridge above it, and the dry air that makes the plateau poor ground for a plough has made it very good ground for a ruin.
+**Mādhavendra** stands on open pasture in the center of [[place-vandhyabhumi|Vandhyabhūmi]], twelve centuries after the reign that raised it and the better part of nine since anyone lived in it. It is roofless. It has never been quarried. Its walls stand to the height of a man over most of their circuit, its street grid is legible from the ridge above it, and the dry air that makes the plateau poor ground for a plow has made it very good ground for a ruin.
 
 Nothing on the plateau has been built at that scale since, and nothing on the plateau needs to be.
 
 ## Getting There
 
-There is no road to it and no reason for one. It sits between droveways rather than on one, four days from the nearest sabhā town and a great deal further from anywhere that would think of it as an object of interest. Nobody keeps it, nobody charges for it and nobody prevents anything. A visitor who wants to see it hires a drover and rides.
+There is no road to it and no reason for one. It sits between droveways rather than on one, four days from the nearest sabhā town and a great deal further from anywhere that would think of it as an object of interest. Nobody keeps it, nobody charges for it and nobody prevents anything. A visitor who wants to see it hires a drover and rides. "Find the tanks and you have found the city," the drover says, "because the walls only stand between them."
 
-That is why the [[lore-mdhvndrcnt|Mādhavendra count]] has the quality it has. A quarter of a million people gather on the Mahānadi in a year numbered from this place, and the overwhelming majority of them will never stand in it, could not say what direction it lies in, and have never met anyone who has.
+That is why the [[lore-mdhvndrcnt|Mādhavendra count]] has the quality it has. A quarter of a million people gather on the [[place-mahanadi|Mahānadi]] in a year numbered from this place, and the overwhelming majority of them will never stand in it, could not say what direction it lies in, and have never met anyone who has.
 
 ## The Tanks
 

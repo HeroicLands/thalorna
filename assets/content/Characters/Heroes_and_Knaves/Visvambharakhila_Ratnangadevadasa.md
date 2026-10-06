@@ -4,7 +4,7 @@ name:
   full: Vishvambhārākhila Ratnāngadēvadāsa
   given: Vishvambhārākhila
   clan: Ratnāngadēvadāsa
-  aliases: []
+  aliases: [Vishvu]
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -21,8 +21,8 @@ data:
   gender: male
   species: humanflk
   born: 682.176
-  height: 1.78
-  weight: 70.3
+  height: 5' 10"
+  weight: 155 lbs
   frame: medium
   appearance:
     eye_color: brown

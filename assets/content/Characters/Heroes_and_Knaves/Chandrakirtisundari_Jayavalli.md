@@ -4,7 +4,7 @@ name:
   full: Chandrakīrtisundarī Jayavalli
   given: Chandrakīrtisundarī
   clan: Jayavalli
-  aliases: []
+  aliases: [Chandri]
 type: being
 subType: character
 tags: [heroes-and-knaves, underworld]
@@ -21,8 +21,8 @@ data:
   gender: female
   species: humanflk
   born: "685.18"
-  height: 1.68
-  weight: 64.4
+  height: 5' 6"
+  weight: 142 lbs
   frame: light
   appearance:
     eye_color: brown
@@ -425,7 +425,7 @@ Chandrakīrtisundarī stands 5'6" tall with a medium build. She has dark brown s
 
 # Dossier {#dossier}
 
-Chandrakīrtisundarī was born into modest circumstances in the Port District of [[place-vedyarargn|Vedyara]], the daughter of a Vedyaran courtesan named **Pushti Jayavalli** and an unnamed Byzarian merchant who visited her mother's quarters only once. The merchant left behind little but his fair complexion and blue eyes—distinctive enough that Chandrakīrtisundarī has always been set apart by her appearance. Her childhood was spent partly in her mother's quarter and partly in the streets, learning early that beauty was a commodity, that information was currency, and that survival required constant awareness of threats.
+Chandrakīrtisundarī was born into modest circumstances in the Port District of [[place-vedyarargn|Vedyara]], the daughter of a Vedyaran courtesan named **Pushti Jayavalli** and an unnamed Byzarian merchant who visited her mother's quarters only once. The merchant left behind little but his fair complexion and blue eyes—distinctive enough that Chandrakīrtisundarī has always been set apart by her appearance. Her childhood was spent partly in her mother's quarter, where she was Chandri, and partly in the streets, learning early that beauty was a commodity, that information was currency, and that survival required constant awareness of threats.
 
 At fourteen, she entered into a semi-formal arrangement with the **Twilight House**, one of Vedyara's most prestigious establishments serving wealthy clients. Her unusual appearance and precocious intelligence made her valuable, and her handlers recognized her potential for a different sort of work: she began eavesdropping on clients' conversations, gathering intelligence for nobility and merchant lords, carrying messages between powerful figures who preferred not to be seen communicating. At sixteen, she was quietly recruited into the [[affiliation-adanasreni|Ādānashrenī]] through connections made at the Twilight House, operating under the assumption that her work gathering secrets was compatible with—and occasionally directly served—the guild's interests.
 

@@ -77,21 +77,23 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Iuthnet is one of the upper-river selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: healing-temples and birth-shrines; the great cult of the mother-goddess. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-uznera|Faith of Uznêra]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-iuthnetselat|Iuthnet Selat]].
+"My husband's name is on the ledger, and mine is on the land," a Zabet'lutu of an [[place-iuthnet|Iuthnet]] estate tells a newcomer who has asked who rules the selat. "The Halzi'a holds the selat. The estates answer to him. The temple answers to the goddess. Learn those three and you will be understood."
+
+The **Selat of Iuthnet** is one of the upper-river selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], a selat of healing-temples and birth-shrines and the great cult of the mother-goddess, with about 560,000 people. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], who commands its levies, collects its taxes and dispenses its justice, and who answers to the [[lore-garauu|Gar-Aû]] at a distance that varies with the strength of the throne. Its patron is [[affiliation-uznera|Faith of Uznêra]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-iuthnetselat|Iuthnet Selat]].
 
 ## Character
 
-Its seat is [[place-iuthnet|Iuthnet]], where the Halzi'a keeps his court and the selat's chief temple of Uznêra stands.
+The seat is [[place-iuthnet|Iuthnet]], where the Halzi'a keeps his court and the chief temple of [[lore-uzneradty|Uznêra]] stands. Below the Halzi'a, estates are held by a Legha'lutu or a Zabet'lutu, master or mistress of the manor, its fields and its village, and a Zabet'lutu holds hers in her own right. That is Uznêra's teaching at work: women in the empire own property, initiate divorce and hold priestly office, up to the highest, because the goddess's faith will not treat a wife as property.
 
 ## Commerce and Currency
 
-Iuthnet uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], with the local chapter of [[affiliation-garhalzi|Gár-Hálzi]] attached to its chief temple attesting the weight-pieces and holding the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+Iuthnet uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]]. The local chapter of [[affiliation-garhalzi|Gár-Hálzi]], attached to the chief temple, attests the weight-pieces and holds the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
 
 ## See Also
 
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—Imperial overview
-- [[place-iuthnet|Iuthnet]]—Selat capital
-- [[affiliation-uznera|Faith of Uznêra]]—Patron cult
-- [[affiliation-garhalzi|Gár-Hálzi]]—Temple-treasuries
-- [[place-iuthnetselat|Iuthnet Selat]]—The land the selat holds
+- [[affiliation-upperrivrslt|The Upper River Selatu]]—parent selat class
+- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—imperial overview
+- [[place-iuthnet|Iuthnet]]—selat capital
+- [[affiliation-uznera|Faith of Uznêra]]—patron cult
+- [[affiliation-garhalzi|Gár-Hálzi]]—temple-treasuries
+- [[place-iuthnetselat|Iuthnet Selat]]—the land the selat holds

@@ -1,6 +1,6 @@
 ---
 shortcode: zelegezu2
-name: {full: Zelegezu, aliases: []}
+name: {full: Zelegezu, aliases: [Zelê]}
 type: being
 subType: npc
 description: "A calculating noble of middling talent who compensates for the talent with the calculation"
@@ -18,8 +18,8 @@ data:
   species: humanflk
   born: "679.048"
   died: null
-  height: 1.68
-  weight: 66
+  height: 5' 6"
+  weight: 146 lbs
   frame: medium
   appearance:
     eye_color: hazel

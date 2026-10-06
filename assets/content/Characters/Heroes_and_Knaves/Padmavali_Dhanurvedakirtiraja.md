@@ -4,7 +4,7 @@ name:
   full: Padmàvali Dhanurvedakīrtirāja
   given: Padmàvali
   clan: Dhanurvedakīrtirāja
-  aliases: []
+  aliases: [Padmi]
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -21,8 +21,8 @@ data:
   gender: female
   species: humanflk
   born: 689.171
-  height: 1.57
-  weight: 54
+  height: 5' 2"
+  weight: 119 lbs
   frame: light
   appearance:
     eye_color: dark_brown
@@ -430,7 +430,7 @@ Padmàvali stands 5'2" tall with a light build. She has warm caramel skin, dark 
 
 **Early Life and Artistic Awakening**
 
-Padmàvali was born into the merchant family Dhanurvedakīrtirāja in Suvarnagiri, the gold-bearing temple-republic of the Bhārava highlands. Her father, a successful spice merchant, had little time for his bookish, art-obsessed daughter, but her mother recognized her talent early. By age seven, Padmàvali could sketch the architectural features of buildings with stunning precision, and by twelve, she had begun studying the mathematical principles underlying perspective and proportion. Her formal training came under **Master Ananda**, a cartographer whose maps were treasured by merchants, military commanders, and noble houses throughout the city-states. Ananda recognized in her young student a rare combination: the precision and mathematical rigor required for accurate mapmaking, paired with an intuitive artistic sense that transformed functional maps into works of sublime beauty.
+Padmàvali was born into the merchant family Dhanurvedakīrtirāja in Suvarnagiri, the gold-bearing temple-republic of the Bhārava highlands. Her father, a successful spice merchant, had little time for his bookish, art-obsessed daughter, but her mother, who never called her anything but Padmi, recognized her talent early. By age seven, Padmàvali could sketch the architectural features of buildings with stunning precision, and by twelve, she had begun studying the mathematical principles underlying perspective and proportion. Her formal training came under **Master Ananda**, a cartographer whose maps were treasured by merchants, military commanders, and noble houses throughout the city-states. Ananda recognized in her young student a rare combination: the precision and mathematical rigor required for accurate mapmaking, paired with an intuitive artistic sense that transformed functional maps into works of sublime beauty.
 
 **Journey to Mastery**
 
