@@ -35,7 +35,7 @@ Social structure varies by region. Coastal cities tend toward merchant oligarchi
 
 ## Religion
 
-The [[affiliation-arldnpnthn|Aurèldían Pantheon]] is the formal faith, but Tarvénan practice is inflected with strong local folk traditions. [[affiliation-arldnpnthn|Jánus]] (order and honorable struggle) is especially revered among the warrior class, while [[affiliation-arldnpnthn|Lúsinía]] (creation and earth) is honored by farmers and rural communities. [[affiliation-arldnpnthn|Táranon]] (storms) has a significant following among seafarers and mountain communities.
+The [[affiliation-arldnpnthn|Aurèldían Pantheon]] is the formal faith, but Tarvénan practice is inflected with strong local folk traditions. [[affiliation-arldnpnthn|Árdavon]] (order and honorable struggle) is especially revered among the warrior class, while [[affiliation-arldnpnthn|Lúsinía]] (creation and earth) is honored by farmers and rural communities. [[affiliation-arldnpnthn|Táranon]] (storms) has a significant following among seafarers and mountain communities.
 
 The Tarvénans have a complex relationship with magic and the divine. While [[place-provenzrgn|Provènzia Region]] embraces arcane arts and mystical studies, Tarvénia has traditionally been more skeptical of magic, viewing it with suspicion or as a tool of the elite. That said, many cities hold ancient shrines to local gods and spirits, and the connection to the divine remains a vital part of the culture at the folk level. Hermit holy-men, wandering mendicants, and local shrine-keepers are more common than formal temple priests.
 

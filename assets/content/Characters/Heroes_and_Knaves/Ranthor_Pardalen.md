@@ -481,7 +481,7 @@ Elder Healer Morvain
 ### Enemies
 
 Traditionalist Shamans' Faction
-: Led by elder shamans like Korvin the Keeper, this faction views Ránthor as a dilution of true shamanic practice; they openly challenge his authority and question whether his crown tattoo marks him as a traitor who carries enemy (kingdom) symbolism into shamanic circles.
+: Led by elder shamans like Fârlen the Keeper, this faction views Ránthor as a dilution of true shamanic practice; they openly challenge his authority and question whether his crown tattoo marks him as a traitor who carries enemy (kingdom) symbolism into shamanic circles.
 
 Kingdom Hardliners
 : Military commanders and courtiers within Élavendre who view Ránthor's bridging work between kingdom and tribe as disloyalty; they see his shamanic service as abandonment of his former oath.

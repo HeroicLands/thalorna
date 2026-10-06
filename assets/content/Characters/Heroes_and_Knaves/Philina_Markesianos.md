@@ -489,12 +489,12 @@ Lady Theodora Kallisthenes
 The Merchant Queens' Collective
 : An informal network of successful female merchants and business owners who have collectively commissioned several pieces from Philína and who actively promote her work within their circles.
 
-High Priestess Irene of Vénusia
+High Priestess Irene of Ólvenía
 : A priestess of the goddess of prosperity who has commissioned ceremonial leather garments and artifacts from Philína for use in ritual contexts.
 
 ### Enemies
 
-Master Theron of the Hideworkers' Guild
+Master Anastásios of the Hideworkers' Guild
 : The formal master of the guild who views Philína's independence and her rejection of traditional apprenticeship structures as a threat to the guild's authority and coherence. He has attempted to pressure her into formally joining the guild and submitting to its regulations.
 
 Competing Male Hideworkers
@@ -519,6 +519,6 @@ The Women's Artistic Collective
 
 3. **The Artistic Competition**: The city of Byzaris announces a grand artistic competition and festival celebrating craftsmanship in all disciplines. Participating artists will have the opportunity to display their work before the city's most influential patrons and intellectuals. Philína is encouraged by her supporters to enter, and with great trepidation, she agrees. However, she soon discovers that several other hideworkers—all male, all established members of the guild—are also entering, and they view her participation as an affront. They begin to spread rumors that her work is derivative, that she has stolen techniques from her father, that she is not a true craftsperson but merely a merchant repackaging men's work. More dangerously, someone breaks into her workshop and damages several of her competition pieces. She can withdraw or continue with the competition despite the sabotage, and she can confront her rivals openly or pursue her goals in spite of them.
 
-4. **The Guild's Offer**: Master Theron of the Hideworkers' Guild approaches Philína with an unexpected proposal: the guild will formally acknowledge her as a master artisan and will offer her a seat on the guild council if she agrees to take on an official role training apprentices within the guild structure and to sign an agreement that any new techniques she develops will be shared with the guild. The offer comes with substantial benefits and recognition, but it also represents a significant constraint on her independence and would require her to work within the traditional hierarchy that has been the source of so much conflict. As she considers the offer, she learns that the guild's sudden willingness to compromise comes from pressure from her patrons and supporters in the broader community—but she also discovers that Master Theron may be acting without the full support of the guild's council, and that some members actively oppose the concession.
+4. **The Guild's Offer**: Master Anastásios of the Hideworkers' Guild approaches Philína with an unexpected proposal: the guild will formally acknowledge her as a master artisan and will offer her a seat on the guild council if she agrees to take on an official role training apprentices within the guild structure and to sign an agreement that any new techniques she develops will be shared with the guild. The offer comes with substantial benefits and recognition, but it also represents a significant constraint on her independence and would require her to work within the traditional hierarchy that has been the source of so much conflict. As she considers the offer, she learns that the guild's sudden willingness to compromise comes from pressure from her patrons and supporters in the broader community—but she also discovers that Master Anastásios may be acting without the full support of the guild's council, and that some members actively oppose the concession.
 
 5. **The Sacred Commission**: A representative of a major temple approaches Philína with a commission unlike any she has undertaken before: to create a set of sacred leather vestments for use in important religious rituals. The vestments are to be created according to specifications provided by the temple's highest priesthood, and the project is spiritual as well as artistic. The compensation offered is substantial and the commission would cement her reputation as a master artisan of the highest order. However, as she begins the work, she discovers that the garments may be designed for something beyond ceremony—perhaps ritual magic or spiritual transformation.

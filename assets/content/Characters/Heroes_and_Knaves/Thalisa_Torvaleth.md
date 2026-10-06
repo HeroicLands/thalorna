@@ -425,11 +425,11 @@ Thalísa stands 5'10" tall with a light build. She has warm olive skin, dark bro
 
 # Dossier {#dossier}
 
-Thalísa Torvaleth was born in the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] to a family with established but not distinguished ties to craftsmanship. Her father was a metalworker of modest reputation, and her mother kept a small herb garden and cultivated rare plants. From childhood, Thalísa was fascinated by light and color—particularly the way sunlight transformed when passing through colored glass in the windows of the local cathedral. By age twelve, she had begun seeking out the cathedral's glassworker, Master Aldwin, begging him to teach her his craft.
+Thalísa Torvaleth was born in the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] to a family with established but not distinguished ties to craftsmanship. Her father was a metalworker of modest reputation, and her mother kept a small herb garden and cultivated rare plants. From childhood, Thalísa was fascinated by light and color—particularly the way sunlight transformed when passing through colored glass in the windows of the local cathedral. By age twelve, she had begun seeking out the cathedral's glassworker, Master Gérdan, begging him to teach her his craft.
 
-Aldwin, having no children of his own and recognizing unusual talent, agreed to take her on as an informal apprentice. For the next eight years, she learned traditional glasswork: cutting, leading, soldering, the practical creation of functional windows. However, even as a young apprentice, Thalísa's inclinations diverged from the conventional. She experimented with color combinations that her mentor considered garish, designed patterns that deviated from ecclesiastical tradition, and pushed the boundaries of what glass could express.
+Gérdan, having no children of his own and recognizing unusual talent, agreed to take her on as an informal apprentice. For the next eight years, she learned traditional glasswork: cutting, leading, soldering, the practical creation of functional windows. However, even as a young apprentice, Thalísa's inclinations diverged from the conventional. She experimented with color combinations that her mentor considered garish, designed patterns that deviated from ecclesiastical tradition, and pushed the boundaries of what glass could express.
 
-At twenty-three, following Aldwin's death, Thalísa established her own workshop in a smaller city within Tarvénia. Her work—bold, unconventional, sometimes verging on abstract—attracted a dedicated clientele of churches of unorthodox theology, wealthy collectors, and merchants seeking distinctive pieces. However, this success has come with significant friction from traditional glassworkers who view her work as a betrayal of the craft's fundamental purposes. She remains fiercely independent, refusing to compromise her artistic vision for commercial acceptance, a stance that has both built her reputation and created powerful enemies.
+At twenty-three, following Gérdan's death, Thalísa established her own workshop in a smaller city within Tarvénia. Her work—bold, unconventional, sometimes verging on abstract—attracted a dedicated clientele of churches of unorthodox theology, wealthy collectors, and merchants seeking distinctive pieces. However, this success has come with significant friction from traditional glassworkers who view her work as a betrayal of the craft's fundamental purposes. She remains fiercely independent, refusing to compromise her artistic vision for commercial acceptance, a stance that has both built her reputation and created powerful enemies.
 
 ## Psyche
 
@@ -480,7 +480,7 @@ Merchant Collector Lady Esther Whitmore
 Artist-Patrons the Ravencroft Collective
 : A loose association of artists, musicians, and intellectual rebels who admire Thalísa's work and frequently commission pieces from her. They represent her artistic peer group and provide emotional support for her unconventional approach.
 
-Master Aldwin's Estate
+Master Gérdan's Estate
 : Though her mentor passed years ago, his will established a small trust specifically to commission an annual work from Thalísa, giving her both financial stability and continuity of their artistic relationship.
 
 ### Enemies
@@ -503,7 +503,7 @@ the Ravencroft Artistic Circle
 
 1. **The Commission from Beyond**: A mysterious patron appears with an extraordinary commission—a massive window installation of dazzling technical complexity with imagery that Thalísa cannot quite decipher. The patron demands complete secrecy about the project, provides very generous payment, and insists on specific timing. As Thalísa works, she begins to suspect the imagery contains magical properties or hidden meaning, and questions emerge about who the patron truly is and what purpose this window will serve.
 
-2. **The Lost Master's Final Work**: While exploring an abandoned cathedral, Thalísa discovers fragmentary remains of glasswork by Master Aldwin that she has never encountered—work showing him experimenting with techniques that parallel her own discoveries, suggesting he was moving in similar directions before his death. Investigation reveals he may have destroyed some of his work to avoid criticism, and other pieces may still be hidden. She becomes obsessed with finding these missing works and understanding what her mentor was truly trying to achieve.
+2. **The Lost Master's Final Work**: While exploring an abandoned cathedral, Thalísa discovers fragmentary remains of glasswork by Master Gérdan that she has never encountered—work showing him experimenting with techniques that parallel her own discoveries, suggesting he was moving in similar directions before his death. Investigation reveals he may have destroyed some of his work to avoid criticism, and other pieces may still be hidden. She becomes obsessed with finding these missing works and understanding what her mentor was truly trying to achieve.
 
 3. **The Architectural Opportunity**: Thalísa receives an invitation to submit designs for windows in a major civic building—a once-in-a-lifetime commission that could establish her as a major artist. However, the competition includes Master Helmut Thorne and other traditionalists, and the selection committee appears biased toward conventional work. She can compromise her artistic vision to compete on the committee's terms, or submit her true vision and risk rejection, potentially damaging her reputation.
 

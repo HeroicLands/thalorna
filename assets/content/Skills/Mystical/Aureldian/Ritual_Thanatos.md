@@ -1,6 +1,6 @@
 ---
 shortcode: thanatos
-name: {full: "Ritual: Thanatos", aliases: [Thánatos, The Silent Judge]}
+name: {full: "Ritual: Sélmoros", aliases: [Sélmoros, The Silent Judge]}
 type: skill
 subType: mystical
 tags: [aureldian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-thanatos|Faith of Thanatos]]
+See [[affiliation-thanatos|Faith of Sélmoros]]

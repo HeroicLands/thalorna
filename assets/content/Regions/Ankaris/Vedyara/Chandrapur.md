@@ -12,7 +12,7 @@ data:
   governance:
     model: monarchy
     summary: >-
-      A hereditary Mahārāja of the Moon House, confirmed by the temples of the Varnaka, seated at the head of a court the nine merchant-prince houses fill and the temple patrons moderate.
+      A hereditary Mahārāja of the Moon House, confirmed by the temples of the Varnaka, seated at the head of a court the nine merchant-prince houses fill and the temple patrons moderate. The Mahārāja's kinsmen hold no station of their own: each keeps the tharana and kula marked on his wrist at birth, and the places the royal house fills, Rājñī and Yuvarāja, are offices.
     ranks:
       - level: 0
         title: Outcaste
@@ -42,10 +42,6 @@ data:
         title: Kulina
         description: >-
           The head of one of the Nine Houses, holding his seat at court by his house's charter and the temples' confirmation rather than by any grant of land.
-      - level: 7
-        title: Royal Kin
-        description: >-
-          Of the Mahārāja's house by blood or marriage, eligible for the throne and its regencies.
       - level: 8
         title: Mahārāja
         description: >-
